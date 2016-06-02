@@ -1,0 +1,2280 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+      <meta charset="utf-8">
+    <title>Naruto Shinobi Collection Database</title>
+
+
+    <link href="http://getbootstrap.com/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <link href="http://getbootstrap.com/examples/jumbotron-narrow/jumbotron-narrow.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+    <div class="container">
+        <div class="header">
+            <h3 class="text-muted">Naruto Shinobi Collection Database</h3>
+            <h4 class="text-muted">Units</h4>
+            <p><a class="btn btn-lg btn-success" href="/" role="button">Front Page</a>
+            <a class="btn btn-lg btn-success" href="/units" role="button">Units</a>
+            <a class="btn btn-lg btn-success" href="/gear" role="button">Ninja Gear</a>
+            <a class="btn btn-lg btn-success" href="/events" role="button">Events</a>
+            <a class="btn btn-lg btn-success" href="/faq" role="button">FAQ</a>
+
+        </div>
+
+        <div class="header">
+            <h1>Do we</h1>
+            <p class="lead" align = "center" ></p>
+              <h2>want something here?</h2>
+            </p>
+            <table>
+              <thead>
+                <tr>
+                  <th class="No.-cell">No.</th>
+                  <th class="Unit Icon-cell">Unit Icon</th>
+                  <th class="Unit Name-cell">Unit Name</th>
+                  <th class="Cost-cell">Cost</th>
+                  <th class="Unit Attribute-cell">Unit Attribute</th>
+                  <th class="Affiliation-cell">Affiliation</th>
+                  <th class="Leader Skill-cell">Leader Skill</th>
+                  <th class="Skill 1 Type-cell">Skill 1 Type</th>
+                  <th class="Skill 1-cell">Skill 1</th>
+                  <th class="Skill 2 Type-cell">Skill 2 Type</th>
+                  <th class="Skill 2-cell">Skill 2</th>
+                  <th class="Passive 1-cell">Passive 1</th>
+                  <th class="Passive 2-cell">Passive 2</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr class="firstRow">
+                  <td class="No.-cell">7</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Sasuke Uchiha (Innate Talent)</td>
+                  <td class="Cost-cell">26</td>
+                  <td class="Unit Attribute-cell">知 (Intellect)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell">Intellect Attribute units HP +15%</td>
+                  <td class="Skill 1 Type-cell">Fire</td>
+                  <td class="Skill 1-cell">Single Target 7%+770</td>
+                  <td class="Skill 2 Type-cell">Lightning</td>
+                  <td class="Skill 2-cell">Single Target 7%+770</td>
+                  <td class="Passive 1-cell">Immune to Fire Style Jutsu AND Fire Style Jutsu Damage +30%</td>
+                  <td class="Passive 2-cell">When HP is Below 30% Chance to Dodge Skills</td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">29</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Kakashi Hatake (Carnage Lightning)</td>
+                  <td class="Cost-cell">26</td>
+                  <td class="Unit Attribute-cell">勇 (Courage)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell">Courage Attribute units Attack +20%</td>
+                  <td class="Skill 1 Type-cell">Lightning</td>
+                  <td class="Skill 1-cell">Single Target 7%+870</td>
+                  <td class="Skill 2 Type-cell">Water</td>
+                  <td class="Skill 2-cell">Entire Team Defense +60% and Reduced Damaged from Fire Style Jutsu</td>
+                  <td class="Passive 1-cell">Chance to Dodge Skills</td>
+                  <td class="Passive 2-cell">Immune to lightning jutsu and lightning damage +20%</td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">59</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Naruto Uzumaki (Road to Hokage)</td>
+                  <td class="Cost-cell">26</td>
+                  <td class="Unit Attribute-cell">知 (Intellect)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell">Intellect Attribute units Attack +20%</td>
+                  <td class="Skill 1 Type-cell">Wind</td>
+                  <td class="Skill 1-cell">Single Target 7%+770</td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell">Boost Entire Team Speed by 60%</td>
+                  <td class="Passive 1-cell">When HP is below 30% Attack and Defense +50%</td>
+                  <td class="Passive 2-cell">Wind Style Jutsu Deals 20% More Damage</td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">68</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Gaara (Dust Style Dance)</td>
+                  <td class="Cost-cell">26</td>
+                  <td class="Unit Attribute-cell">体 (Body)</td>
+                  <td class="Affiliation-cell">Sunagakure</td>
+                  <td class="Leader Skill-cell">Body Attribute units +20% Defense</td>
+                  <td class="Skill 1 Type-cell">Unique</td>
+                  <td class="Skill 1-cell">All enemies 5%+600         50% Chance to reduce quickness</td>
+                  <td class="Skill 2 Type-cell">Unique</td>
+                  <td class="Skill 2-cell">Increase Defense by 150%</td>
+                  <td class="Passive 1-cell">Immune to taijutsu type skills</td>
+                  <td class="Passive 2-cell">Chakra consumption reduced by 12%</td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">154</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Sakura Haruno (Spring Breeze)</td>
+                  <td class="Cost-cell">26</td>
+                  <td class="Unit Attribute-cell">知 (Intellect)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell">All units max HP +10%</td>
+                  <td class="Skill 1 Type-cell">Weapon</td>
+                  <td class="Skill 1-cell">Attack at 3.5 times the attack to a single target</td>
+                  <td class="Skill 2 Type-cell">Medical</td>
+                  <td class="Skill 2-cell">Heal allies by a large amount</td>
+                  <td class="Passive 1-cell">Immune to paralysis</td>
+                  <td class="Passive 2-cell">When below 50% HP, defense +60%</td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">158</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Itachi Uchiha (Akatsuki's Carnage)</td>
+                  <td class="Cost-cell">27</td>
+                  <td class="Unit Attribute-cell">技 (Technique)</td>
+                  <td class="Affiliation-cell">Akatsuki</td>
+                  <td class="Leader Skill-cell">Technique Attribute units attack +20%</td>
+                  <td class="Skill 1 Type-cell">Sharingan</td>
+                  <td class="Skill 1-cell">Single target 7%+800. If debuffed, chance to paralyze opponent.</td>
+                  <td class="Skill 2 Type-cell">Sharingan</td>
+                  <td class="Skill 2-cell">Single target debuff. Defense, quickness -50%</td>
+                  <td class="Passive 1-cell">Chakra consumption reduced by 12%</td>
+                  <td class="Passive 2-cell">Sharingan type damage +20%</td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">159</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Kisame (Mad Villain's Dance)</td>
+                  <td class="Cost-cell">26</td>
+                  <td class="Unit Attribute-cell">技 (Technique)</td>
+                  <td class="Affiliation-cell">Akatsuki</td>
+                  <td class="Leader Skill-cell">Water type jutsu +10%</td>
+                  <td class="Skill 1 Type-cell">Water</td>
+                  <td class="Skill 1-cell">Single target 7% +1000.</td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell">Attack +100%</td>
+                  <td class="Passive 1-cell">Immune to water type jutsu. Water type jutsu damage +30%</td>
+                  <td class="Passive 2-cell">HP +5% and chakra +10% after an action</td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">160</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Sasori (Apocalypse Now)</td>
+                  <td class="Cost-cell">26</td>
+                  <td class="Unit Attribute-cell">心 (Mind)</td>
+                  <td class="Affiliation-cell">Akatsuki</td>
+                  <td class="Leader Skill-cell">Mind Attribute units attack +20%</td>
+                  <td class="Skill 1 Type-cell">Magnetic Release</td>
+                  <td class="Skill 1-cell">Single target 7% +870. 30% change of poison</td>
+                  <td class="Skill 2 Type-cell">Weapon</td>
+                  <td class="Skill 2-cell">Defense and dodge rate of allies +50%</td>
+                  <td class="Passive 1-cell">Incoming weapon type damage halved</td>
+                  <td class="Passive 2-cell">When HP is below 20%, defense and attack +50%</td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">163</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Tsunade (Time to Decide)</td>
+                  <td class="Cost-cell">26</td>
+                  <td class="Unit Attribute-cell">体 (Body)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell">Allies recover 5% HP after each action</td>
+                  <td class="Skill 1 Type-cell">Taijutsu</td>
+                  <td class="Skill 1-cell">Attack at 5 times the attack power to single target</td>
+                  <td class="Skill 2 Type-cell">Medical</td>
+                  <td class="Skill 2-cell">Heal allies by a large amount</td>
+                  <td class="Passive 1-cell">Recover 10% HP after an action</td>
+                  <td class="Passive 2-cell">Chakra consumption reduced by 12%</td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">164</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Orochimaru (Unlocked Mind)</td>
+                  <td class="Cost-cell">27</td>
+                  <td class="Unit Attribute-cell">知 (Intellect)</td>
+                  <td class="Affiliation-cell">Otogakure (Hidden Sound)</td>
+                  <td class="Leader Skill-cell">For all ally units, increase attack +40% for the first 3 turns</td>
+                  <td class="Skill 1 Type-cell">Summoning</td>
+                  <td class="Skill 1-cell">Single target 7% + 770.</td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell">Chance to decrease enemy attack -60%, quickness -40%.</td>
+                  <td class="Passive 1-cell">When HP is above 80%, Attack and Quickness +50%</td>
+                  <td class="Passive 2-cell">Summoning type damage +30%</td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">165</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Jiraiya (Mount Myokobu's Hermit)</td>
+                  <td class="Cost-cell">26</td>
+                  <td class="Unit Attribute-cell">勇 (Courage)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell">Courage Attribute units max HP +15%.</td>
+                  <td class="Skill 1 Type-cell">Summoning</td>
+                  <td class="Skill 1-cell">All enemies 5% + 600.</td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell">Increase all ally units' Attack, Defense and Quickness +40%</td>
+                  <td class="Passive 1-cell">When HP is below 30%, Defense +100%</td>
+                  <td class="Passive 2-cell">When HP is below 20%, incoming skill damaged halved.</td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">166</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Neji (Hyuga's Talented Instrument)</td>
+                  <td class="Cost-cell">27</td>
+                  <td class="Unit Attribute-cell">体 (Body)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell">Incoming Byakugan damage halved. Taijutsu skills and Attack +20%.</td>
+                  <td class="Skill 1 Type-cell">Byakugan</td>
+                  <td class="Skill 1-cell">Single target 7% +1000.</td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell">Increase self attack +150%, but defense -70%</td>
+                  <td class="Passive 1-cell">Normal attack always hits. Byakugan damage +30%</td>
+                  <td class="Passive 2-cell">When HP is below 40%, Attack +50%. Byakugan damage +20%.</td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">167</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Hinata (Break with the Past)</td>
+                  <td class="Cost-cell">26</td>
+                  <td class="Unit Attribute-cell">心 (Mind)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell">Mind Attribute units Defense +20%</td>
+                  <td class="Skill 1 Type-cell">Byakugan</td>
+                  <td class="Skill 1-cell">Single target 7% +870.</td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell">Hinata defense +40%, protect allies from attacks</td>
+                  <td class="Passive 1-cell">Normal attack always hits.</td>
+                  <td class="Passive 2-cell">When HP is below 20%, Attack +20%, Defnse +70%</td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">168</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Terumi Mei (Acheived Dream)</td>
+                  <td class="Cost-cell">27</td>
+                  <td class="Unit Attribute-cell">技 (Technique)</td>
+                  <td class="Affiliation-cell">Kirigakure (Hidden Mist)</td>
+                  <td class="Leader Skill-cell">Technique Attribute units, Attack and Defense +10%</td>
+                  <td class="Skill 1 Type-cell">Summoning</td>
+                  <td class="Skill 1-cell">All enemies 5% +400.</td>
+                  <td class="Skill 2 Type-cell">Unique</td>
+                  <td class="Skill 2-cell">Single target, Attack -60%</td>
+                  <td class="Passive 1-cell">When chakra is full, Attack +50%</td>
+                  <td class="Passive 2-cell">Incoming water and fire damage halved</td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">170</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Kushina Uzumaki (Power of Love)</td>
+                  <td class="Cost-cell">27</td>
+                  <td class="Unit Attribute-cell">体 (Body)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell">Body Attribute units, Attack and Critical hit chance +10%</td>
+                  <td class="Skill 1 Type-cell">Unique</td>
+                  <td class="Skill 1-cell">All enemies, 2.5 times the attack power</td>
+                  <td class="Skill 2 Type-cell">Unique</td>
+                  <td class="Skill 2-cell">Single target, 3 times the attack power. Chance of confusion</td>
+                  <td class="Passive 1-cell">For first 2 turns, attack +80%</td>
+                  <td class="Passive 2-cell">Chance to dodge skills</td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">175</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Kabuto Yakushi (Aloof Genius)</td>
+                  <td class="Cost-cell">24</td>
+                  <td class="Unit Attribute-cell">技 (Technique)</td>
+                  <td class="Affiliation-cell">Otogakure (Hidden Sound)</td>
+                  <td class="Leader Skill-cell">Technique Attribute units, maximum HP +15%</td>
+                  <td class="Skill 1 Type-cell">Medical</td>
+                  <td class="Skill 1-cell">Single target 7% + 770.</td>
+                  <td class="Skill 2 Type-cell">Unique</td>
+                  <td class="Skill 2-cell">Attack +60%, critical hit chance +30%</td>
+                  <td class="Passive 1-cell">Medical jutsu damage +30%, HP recovery of 5% after action</td>
+                  <td class="Passive 2-cell">Chance to halve incoming skill damage</td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">176</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Asuma Sarutobi (Blade of Konohagakure)</td>
+                  <td class="Cost-cell">24</td>
+                  <td class="Unit Attribute-cell">勇 (Courage)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell">Courage Attribute units Attack +20%</td>
+                  <td class="Skill 1 Type-cell">Weapon</td>
+                  <td class="Skill 1-cell">Single Target 3 times attack power</td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell">All enemies attack down 30%</td>
+                  <td class="Passive 1-cell">When HP is below 30% attack +100%</td>
+                  <td class="Passive 2-cell">Weapon Type Damage +30%</td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">189</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Pane (God of Choice)</td>
+                  <td class="Cost-cell">27</td>
+                  <td class="Unit Attribute-cell">勇 (Courage)</td>
+                  <td class="Affiliation-cell">Akatsuki</td>
+                  <td class="Leader Skill-cell">Akatsuki units Attack and Quickness +20%</td>
+                  <td class="Skill 1 Type-cell">Rinnegan</td>
+                  <td class="Skill 1-cell">All enemies 5% +1000. Cancels actions of enemy team</td>
+                  <td class="Skill 2 Type-cell">Rinnegan</td>
+                  <td class="Skill 2-cell">Single target, ignore 40% of defense, deals 4 times the attack power. Pushes back enemy action a little</td>
+                  <td class="Passive 1-cell">Chakra consumption -12%, Rinnegan skill damage +30%</td>
+                  <td class="Passive 2-cell">When HP is above 80%, Attack + 50% and Chakra cost -20%</td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">191</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Deidara (Brilliant Explosion)</td>
+                  <td class="Cost-cell">26</td>
+                  <td class="Unit Attribute-cell">心 (Mind)</td>
+                  <td class="Affiliation-cell">Akatsuki</td>
+                  <td class="Leader Skill-cell">Secret type damage +10%</td>
+                  <td class="Skill 1 Type-cell">Secret</td>
+                  <td class="Skill 1-cell">Single target 7% + 770.</td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell">Secret type damage +30%. 3 times attack power</td>
+                  <td class="Passive 1-cell">Quickness +30%</td>
+                  <td class="Passive 2-cell">When HP is below 20%, Secret type damage +60%</td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">192</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Hidan (Ruler of Fates)</td>
+                  <td class="Cost-cell">26</td>
+                  <td class="Unit Attribute-cell">体 (Body)</td>
+                  <td class="Affiliation-cell">Akatsuki</td>
+                  <td class="Leader Skill-cell">Body Attribute units, Attack +20%</td>
+                  <td class="Skill 1 Type-cell">Unique</td>
+                  <td class="Skill 1-cell">Single enemy 7% +1500. Probability to paralyze. Inflict damage to yourself</td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell">Enemy attack +30%, defense -70%</td>
+                  <td class="Passive 1-cell">HP recover 10% after attacked</td>
+                  <td class="Passive 2-cell">For 5 turns, Defense +60%</td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">194</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Minato Namikaze (Fourth Hokage)</td>
+                  <td class="Cost-cell">27</td>
+                  <td class="Unit Attribute-cell">勇 (Courage)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell">Konoha units Attack and Quickness +15%</td>
+                  <td class="Skill 1 Type-cell">Space-Time</td>
+                  <td class="Skill 1-cell">Deal 5% +350, five times randomly to enemy team</td>
+                  <td class="Skill 2 Type-cell">Space-Time</td>
+                  <td class="Skill 2-cell">Ally unit Defense and Attack +40%. Recover a small amount of HP</td>
+                  <td class="Passive 1-cell">Chance to Dodge Skills</td>
+                  <td class="Passive 2-cell">Space-Time skill damage +30%</td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">195</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Zabuza (Hidden Mist Demon)</td>
+                  <td class="Cost-cell">26</td>
+                  <td class="Unit Attribute-cell">心 (Mind)</td>
+                  <td class="Affiliation-cell">Kirigakure (Hidden Mist)</td>
+                  <td class="Leader Skill-cell">Incoming Water type damage halved</td>
+                  <td class="Skill 1 Type-cell">Unique</td>
+                  <td class="Skill 1-cell">Single target 5 times the attack power</td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell">Attack +130%, Quickness +90%, Defense -50%</td>
+                  <td class="Passive 1-cell">When HP is 0, recover small amount of HP, Attack +80%</td>
+                  <td class="Passive 2-cell">Critical hit chance and critical damage +20%</td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">196</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Haku (Mask of Ice)</td>
+                  <td class="Cost-cell">26</td>
+                  <td class="Unit Attribute-cell">心 (Mind)</td>
+                  <td class="Affiliation-cell">Kirigakure (Hidden Mist)</td>
+                  <td class="Leader Skill-cell">Kirigakure units Attack and Quickness +15%</td>
+                  <td class="Skill 1 Type-cell">Ice</td>
+                  <td class="Skill 1-cell">All enemies at three times attack power. Chance to lower enemy Quickness 30%, high chance to dodge skills</td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell">Defend allies</td>
+                  <td class="Passive 1-cell">When HP is below 50%, Quickness +40%</td>
+                  <td class="Passive 2-cell">Defense and Quickness +20%</td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">226</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Shikamaru Nara (Machinations of a Genius)</td>
+                  <td class="Cost-cell">26</td>
+                  <td class="Unit Attribute-cell">心 (Mind)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell">Konoha units HP +25%, prevents abnormal status</td>
+                  <td class="Skill 1 Type-cell">Secret</td>
+                  <td class="Skill 1-cell">Single target 7% +600. Chance to cause paralysis</td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell">All allies Attack and Quickness +40%. Recover a small amount of HP</td>
+                  <td class="Passive 1-cell">Secret type damage +20%</td>
+                  <td class="Passive 2-cell">Chakra consumption reduced by 15%</td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">227</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Choji Akimichi (Time of Awakening)</td>
+                  <td class="Cost-cell">26</td>
+                  <td class="Unit Attribute-cell">技 (Technique)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell">Technique Attribute units, Attack +30% but Defense -30%</td>
+                  <td class="Skill 1 Type-cell">Unique</td>
+                  <td class="Skill 1-cell">Single target 6 times the attack power</td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell">Attack +180%, but HP is reduced</td>
+                  <td class="Passive 1-cell">For five turns, Attack +40%</td>
+                  <td class="Passive 2-cell">When HP is below 20%, Unique type damage +50%</td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">228</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Kimimaro Kaguya (Where the Soul Resides)</td>
+                  <td class="Cost-cell">27</td>
+                  <td class="Unit Attribute-cell">知 (Intellect)</td>
+                  <td class="Affiliation-cell">Otogakure (Hidden Sound)</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Unique</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">Unique</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">233</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Sasuke Uchiha (Curse Released)</td>
+                  <td class="Cost-cell">24</td>
+                  <td class="Unit Attribute-cell">体 (Body)</td>
+                  <td class="Affiliation-cell"></td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Taijutsu</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">237</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Sakura Haruno (Rising Talent)</td>
+                  <td class="Cost-cell">26</td>
+                  <td class="Unit Attribute-cell">心 (Mind)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Taijutsu</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">Medical</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">241</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Sasuke Uchiha (Thunder Demon's Vengence)</td>
+                  <td class="Cost-cell">27</td>
+                  <td class="Unit Attribute-cell">技 (Technique)</td>
+                  <td class="Affiliation-cell">Taka</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Lightning</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">Sharingan</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">242</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Itachi Uchiha (Light-Seeking Sharingan)</td>
+                  <td class="Cost-cell">27</td>
+                  <td class="Unit Attribute-cell">体 (Body)</td>
+                  <td class="Affiliation-cell">Akatsuki</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Sharingan</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">Fire</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">248</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Naruto Uzumaki (Seventh Hokage)</td>
+                  <td class="Cost-cell">24</td>
+                  <td class="Unit Attribute-cell">勇 (Courage)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Unique</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">Wind</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">277</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Might Gai (Turbulent Fists)</td>
+                  <td class="Cost-cell">27</td>
+                  <td class="Unit Attribute-cell">勇 (Courage)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Taijutsu</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">Taijutsu</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">278</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Kakashi Hatake (Konoha's Technician)</td>
+                  <td class="Cost-cell">27</td>
+                  <td class="Unit Attribute-cell">知 (Intellect)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Sharingan</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">283</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Naruto Uzumaki (Expanding Sage Art)</td>
+                  <td class="Cost-cell">30</td>
+                  <td class="Unit Attribute-cell">心 (Mind)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Sage</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">Sage</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">284</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Jiraiya (Disciple of the Toad)</td>
+                  <td class="Cost-cell">27</td>
+                  <td class="Unit Attribute-cell">技 (Technique)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Sage</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">Sage</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">291</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">HIruzen Sarutobi (The Third Hokage)</td>
+                  <td class="Cost-cell">24</td>
+                  <td class="Unit Attribute-cell">勇 (Courage)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Summoning</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">Summoning</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">292</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Kankuro (Mysterious Puppet Decorations)</td>
+                  <td class="Cost-cell">25</td>
+                  <td class="Unit Attribute-cell">技 (Technique)</td>
+                  <td class="Affiliation-cell">Sunagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Weapon</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">294</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Gaara (Fifth Kazekage)</td>
+                  <td class="Cost-cell">27</td>
+                  <td class="Unit Attribute-cell">勇 (Courage)</td>
+                  <td class="Affiliation-cell">Sunagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Unique</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">295</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Oonoki (Particle Style Master)</td>
+                  <td class="Cost-cell">27</td>
+                  <td class="Unit Attribute-cell">知 (Intellect)</td>
+                  <td class="Affiliation-cell">Iwagakure (Hidden Rock)</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Particle</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">Earth</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">296</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Mei Terumi (Captivating Glance)</td>
+                  <td class="Cost-cell">28</td>
+                  <td class="Unit Attribute-cell">体 (Body)</td>
+                  <td class="Affiliation-cell">Kirigakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Lava</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">Unique</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">306</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Kurenai Yuhi (Noble Illusion)</td>
+                  <td class="Cost-cell">24</td>
+                  <td class="Unit Attribute-cell">技 (Technique)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Genjutsu</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">Genjutsu</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">308</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Madara Uchiha (The Sneering True Leader)</td>
+                  <td class="Cost-cell">30</td>
+                  <td class="Unit Attribute-cell">知 (Intellect)</td>
+                  <td class="Affiliation-cell">Unknown/Self</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Fire</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">Wind</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">309</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Minato Namikaze (Warm Heart)</td>
+                  <td class="Cost-cell">28</td>
+                  <td class="Unit Attribute-cell">知 (Intellect)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Space-Time</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">Space-Time</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">310</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Kushina Uzumaki (Benevolent Heart)</td>
+                  <td class="Cost-cell">27</td>
+                  <td class="Unit Attribute-cell">勇 (Courage)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Weapon</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">Unique</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">315</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Might Gai (Strike of Youth)</td>
+                  <td class="Cost-cell">28</td>
+                  <td class="Unit Attribute-cell">心 (Mind)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Taijutsu</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">316</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Rock Lee (Indomitable Fighting Spirit)</td>
+                  <td class="Cost-cell">27</td>
+                  <td class="Unit Attribute-cell">体 (Body)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Taijutsu</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">Taijutsu</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">321</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Tenten (Weapon Specialist)</td>
+                  <td class="Cost-cell">24</td>
+                  <td class="Unit Attribute-cell">体 (Body)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Weapon</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">Weapon</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">327</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Chiyo (Decayed Shinobi Flower)</td>
+                  <td class="Cost-cell">24</td>
+                  <td class="Unit Attribute-cell">心 (Mind)</td>
+                  <td class="Affiliation-cell">Sunagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Taijutsu</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">Reincarnation?</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">328</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Killer Bee (Brother's Pardon)</td>
+                  <td class="Cost-cell">24</td>
+                  <td class="Unit Attribute-cell">知 (Intellect)</td>
+                  <td class="Affiliation-cell">Kumogakure (Hidden Cloud)</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Lightning</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">Taijutsu</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">329</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Sasori (Forever Immortal)</td>
+                  <td class="Cost-cell">27</td>
+                  <td class="Unit Attribute-cell">技 (Technique)</td>
+                  <td class="Affiliation-cell">Akatsuki</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Weapon</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">330</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Sakura Haruno (--)</td>
+                  <td class="Cost-cell">27</td>
+                  <td class="Unit Attribute-cell">体 (Body)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Taijutsu</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">Medical</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">341</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Hashirama Senju (Indomitable Red Barrier)</td>
+                  <td class="Cost-cell">30</td>
+                  <td class="Unit Attribute-cell">勇 (Courage)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Sage</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">Wood</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">342</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Sasuke Uchiha (Sprinting toward Darkness)</td>
+                  <td class="Cost-cell">28</td>
+                  <td class="Unit Attribute-cell">体 (Body)</td>
+                  <td class="Affiliation-cell">Taka</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Blaze</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">Sharingan</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">343</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Raikage Ay (Fourth Raikage)</td>
+                  <td class="Cost-cell">28</td>
+                  <td class="Unit Attribute-cell">技 (Technique)</td>
+                  <td class="Affiliation-cell">Kumogakure (Hidden Cloud)</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Taijutsu</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">Lightning</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">344</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Darui (Hero of Kumogakure)</td>
+                  <td class="Cost-cell">27</td>
+                  <td class="Unit Attribute-cell">技 (Technique)</td>
+                  <td class="Affiliation-cell">Kumogakure (Hidden Cloud)</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Lightning</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">Lightning</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">351</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Jugo (Origin of the Curse)</td>
+                  <td class="Cost-cell">24</td>
+                  <td class="Unit Attribute-cell">心 (Mind)</td>
+                  <td class="Affiliation-cell">Taka</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Unique</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">353</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Hatake Kakashi (Full Body Blow)</td>
+                  <td class="Cost-cell">24</td>
+                  <td class="Unit Attribute-cell">体 (Body)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Taijutsu</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">354</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Pane (Rinne of War)</td>
+                  <td class="Cost-cell">30</td>
+                  <td class="Unit Attribute-cell">体 (Body)</td>
+                  <td class="Affiliation-cell">Akatsuki</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Rinnegan</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">Rinnegan</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">355</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Konan (Angel of Death)</td>
+                  <td class="Cost-cell">27</td>
+                  <td class="Unit Attribute-cell">心 (Mind)</td>
+                  <td class="Affiliation-cell">Akatsuki</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Unique</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">356</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Itachi Uchiha (Current Carnage)</td>
+                  <td class="Cost-cell">28</td>
+                  <td class="Unit Attribute-cell">知 (Intellect)</td>
+                  <td class="Affiliation-cell">Akatsuki</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Sharingan</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">Sharingan</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">357</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Kisame Hoshigaki (Phantom of the HIdden Mist)</td>
+                  <td class="Cost-cell">28</td>
+                  <td class="Unit Attribute-cell">勇 (Courage)</td>
+                  <td class="Affiliation-cell">Akatsuki</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Water</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">Water</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">359</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Naruto Uzumaki (Leap of Power)</td>
+                  <td class="Cost-cell">28</td>
+                  <td class="Unit Attribute-cell">技 (Technique)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Wind</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">360</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Orochimaru (Despicable Invader)</td>
+                  <td class="Cost-cell">24</td>
+                  <td class="Unit Attribute-cell">心 (Mind)</td>
+                  <td class="Affiliation-cell">Otogakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Summoning</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">Wind</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">364</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Shikamaru Nara (Art of War)</td>
+                  <td class="Cost-cell">27</td>
+                  <td class="Unit Attribute-cell">知 (Intellect)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Secret</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">368</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Hiashi Hyuga (Noble Pride)</td>
+                  <td class="Cost-cell">24</td>
+                  <td class="Unit Attribute-cell">体 (Body)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Byakugan</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">369</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Asuma Sarutobi (Explosive Ash Flame)</td>
+                  <td class="Cost-cell">27</td>
+                  <td class="Unit Attribute-cell">体 (Body)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Fire</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">372</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Itachi Uchiha (Fratricide)</td>
+                  <td class="Cost-cell">30</td>
+                  <td class="Unit Attribute-cell">技 (Technique)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Sharingan</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">Weapon</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">373</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Shisui Uchiha (--)</td>
+                  <td class="Cost-cell">28</td>
+                  <td class="Unit Attribute-cell">心 (Mind)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Fire</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">374</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Kakashi Hatake (ANBU Thunder Blade)</td>
+                  <td class="Cost-cell">27</td>
+                  <td class="Unit Attribute-cell">勇 (Courage)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Lightning</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">Weapon</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">375</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Yamato (--)</td>
+                  <td class="Cost-cell">27</td>
+                  <td class="Unit Attribute-cell">勇 (Courage)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Wood</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">376</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Minato Namikaze (Hero of the Hidden Leaf)</td>
+                  <td class="Cost-cell">24</td>
+                  <td class="Unit Attribute-cell">技 (Technique)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Wind</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">378</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Gaara (Of Hate and Lonliness)</td>
+                  <td class="Cost-cell">24</td>
+                  <td class="Unit Attribute-cell">知 (Intellect)</td>
+                  <td class="Affiliation-cell">Sunagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Wind</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">Unique</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">381</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Tsunade (Pride of the Fifth Hokage)</td>
+                  <td class="Cost-cell">30</td>
+                  <td class="Unit Attribute-cell">心 (Mind)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell">Chakra recovery +5%. HP recovery +10% after every action for all characters</td>
+                  <td class="Skill 1 Type-cell">Taijutsu</td>
+                  <td class="Skill 1-cell">Single Target 7x attack power</td>
+                  <td class="Skill 2 Type-cell">Summoning</td>
+                  <td class="Skill 2-cell">Ultra-large HP recovery. HP status that heals 10% of HP when attacked</td>
+                  <td class="Passive 1-cell">First 10 actions with maximum HP increase attack power by 100%.</td>
+                  <td class="Passive 2-cell">Chance to fully recover Chakra after any action</td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">382</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Orochimaru (Collector of Ninjutsu)</td>
+                  <td class="Cost-cell">28</td>
+                  <td class="Unit Attribute-cell">勇 (Courage)</td>
+                  <td class="Affiliation-cell">Otogakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Summoning</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">Summoning</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">383</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Jiraiya (--)</td>
+                  <td class="Cost-cell">28</td>
+                  <td class="Unit Attribute-cell">知 (Intellect)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Sage</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">Sage</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">384</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Naruto Uzumaki (Overflowing Power)</td>
+                  <td class="Cost-cell">27</td>
+                  <td class="Unit Attribute-cell">勇 (Courage)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Unique</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">Wind</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">385</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Hiruzen Saturobi (Veteran Shinobi)</td>
+                  <td class="Cost-cell">28</td>
+                  <td class="Unit Attribute-cell">技 (Technique)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Summoning</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">Fire</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">386</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Naruto Uzumaki (Ichiraku Regular)</td>
+                  <td class="Cost-cell">24</td>
+                  <td class="Unit Attribute-cell">心 (Mind)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">None</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">Wind</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">387</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Cee</td>
+                  <td class="Cost-cell">24</td>
+                  <td class="Unit Attribute-cell">心 (Mind)</td>
+                  <td class="Affiliation-cell">Kumogakure (Hidden Cloud)</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Lightning</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">389</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Naruto Uzumaki</td>
+                  <td class="Cost-cell">28</td>
+                  <td class="Unit Attribute-cell">心 (Mind)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Summoning</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">Unique</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">390</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Tsunade</td>
+                  <td class="Cost-cell">28</td>
+                  <td class="Unit Attribute-cell">知 (Intellect)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Taijutsu</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">391</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Hinata Hyuga</td>
+                  <td class="Cost-cell">28</td>
+                  <td class="Unit Attribute-cell">技 (Technique)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Byakugan</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">392</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Jiraiya</td>
+                  <td class="Cost-cell">28</td>
+                  <td class="Unit Attribute-cell">体 (Body)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Unique</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">393</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Kimimaro</td>
+                  <td class="Cost-cell">24</td>
+                  <td class="Unit Attribute-cell">技 (Technique)</td>
+                  <td class="Affiliation-cell">Otogakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Unique</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">395</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Minato Namikaze (Shinobi's Pride)</td>
+                  <td class="Cost-cell">28</td>
+                  <td class="Unit Attribute-cell">体 (Body)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Space-Time</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">Space-Time</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">396</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Gaara</td>
+                  <td class="Cost-cell">28</td>
+                  <td class="Unit Attribute-cell">心 (Mind)</td>
+                  <td class="Affiliation-cell">Sunagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Unique</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">397</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Might Gai (Fly Away Youth)</td>
+                  <td class="Cost-cell">28</td>
+                  <td class="Unit Attribute-cell">技 (Technique)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Taijutsu</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">399</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Zetsu</td>
+                  <td class="Cost-cell">24</td>
+                  <td class="Unit Attribute-cell">体 (Body)</td>
+                  <td class="Affiliation-cell">Akatsuki</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Unique</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">Unique</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">400</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Choji Akimichi (Obtained Self-Confidence)</td>
+                  <td class="Cost-cell">24</td>
+                  <td class="Unit Attribute-cell">勇 (Courage)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Secret</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">402</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Kakashi Hatake (A Small Hope)</td>
+                  <td class="Cost-cell">30</td>
+                  <td class="Unit Attribute-cell">技 (Technique)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Sharingan</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">Lightning</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">403</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Tobirama Senju (Judgement of Keen Insight)</td>
+                  <td class="Cost-cell">28</td>
+                  <td class="Unit Attribute-cell">知 (Intellect)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Space-Time</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">Water</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">404</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Hashirama Senju</td>
+                  <td class="Cost-cell">27</td>
+                  <td class="Unit Attribute-cell">心 (Mind)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Wood</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">407</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Rock Lee</td>
+                  <td class="Cost-cell">24</td>
+                  <td class="Unit Attribute-cell">技 (Technique)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Taijutsu</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">408</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Sakure Haruno</td>
+                  <td class="Cost-cell">24</td>
+                  <td class="Unit Attribute-cell">心 (Mind)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Taijutsu</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">409</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Hinata Hyuga</td>
+                  <td class="Cost-cell">24</td>
+                  <td class="Unit Attribute-cell">体 (Body)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Byakugan</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">410</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Ino Yamanaka</td>
+                  <td class="Cost-cell">24</td>
+                  <td class="Unit Attribute-cell">技 (Technique)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Secret</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">411</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Jiraiya</td>
+                  <td class="Cost-cell">30</td>
+                  <td class="Unit Attribute-cell">体 (Body)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Genjutsu</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">Summoning</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">412</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Hinata Hyuga</td>
+                  <td class="Cost-cell">28</td>
+                  <td class="Unit Attribute-cell">知 (Intellect)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Byakugan</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">Byakugan</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">413</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Neji Hyuga</td>
+                  <td class="Cost-cell">27</td>
+                  <td class="Unit Attribute-cell">心 (Mind)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Byakugan</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">414</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Kimimaro Kaguya</td>
+                  <td class="Cost-cell">24</td>
+                  <td class="Unit Attribute-cell">勇 (Courage)</td>
+                  <td class="Affiliation-cell">Otogakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Unique</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">Unique</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">417</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Shino Aburame</td>
+                  <td class="Cost-cell">24</td>
+                  <td class="Unit Attribute-cell">体 (Body)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Secret</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">Secret</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">419</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Kabuto Yakushi (Wisdom Eater)</td>
+                  <td class="Cost-cell">24</td>
+                  <td class="Unit Attribute-cell">知 (Intellect)</td>
+                  <td class="Affiliation-cell">Otogakure (?)</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Summoning</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">Medical</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">420</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Naruto Uzumaki</td>
+                  <td class="Cost-cell">32</td>
+                  <td class="Unit Attribute-cell">勇 (Courage)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Unique</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">Unique</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">421</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Minato Namikaze (Hero's Light Trail)</td>
+                  <td class="Cost-cell">30</td>
+                  <td class="Unit Attribute-cell">心 (Mind)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Space-Time</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">422</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Kushina Uzumaki (Beloved Reunion)</td>
+                  <td class="Cost-cell">28</td>
+                  <td class="Unit Attribute-cell">体 (Body)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Bind</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">430</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Sakura Haruno</td>
+                  <td class="Cost-cell">24</td>
+                  <td class="Unit Attribute-cell">知 (Intellect)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Weapon</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">Medical</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">431</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Ino Yamanaka</td>
+                  <td class="Cost-cell">24</td>
+                  <td class="Unit Attribute-cell">勇 (Courage)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Weapon</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">Medical</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">432</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Itachi Uchiha</td>
+                  <td class="Cost-cell">30</td>
+                  <td class="Unit Attribute-cell">知 (Intellect)</td>
+                  <td class="Affiliation-cell">Akatsuki</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Sharingan</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">433</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Deidara (--)</td>
+                  <td class="Cost-cell">28</td>
+                  <td class="Unit Attribute-cell">勇 (Courage)</td>
+                  <td class="Affiliation-cell">Akatsuki</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Secret</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">434</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Sasori</td>
+                  <td class="Cost-cell">28</td>
+                  <td class="Unit Attribute-cell">体 (Body)</td>
+                  <td class="Affiliation-cell">Akatsuki</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Weapon</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">435</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Sasuke Uchiha (Sinking Into Hatred)</td>
+                  <td class="Cost-cell">32</td>
+                  <td class="Unit Attribute-cell">知 (Intellect)</td>
+                  <td class="Affiliation-cell">Taka</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Sharingan</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">Sharingan</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">436</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Temari (Sand Dance Maiden)</td>
+                  <td class="Cost-cell">28</td>
+                  <td class="Unit Attribute-cell">心 (Mind)</td>
+                  <td class="Affiliation-cell">Sunagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Wind</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">439</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Mei Terumi</td>
+                  <td class="Cost-cell">28</td>
+                  <td class="Unit Attribute-cell">技 (Technique)</td>
+                  <td class="Affiliation-cell">Kirigakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Lava</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">Boil</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">445</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Sakura Haruno (Cherry Blossom War Field)</td>
+                  <td class="Cost-cell">32</td>
+                  <td class="Unit Attribute-cell">技 (Technique)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Medical</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">446</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Sakura Haruno</td>
+                  <td class="Cost-cell">28</td>
+                  <td class="Unit Attribute-cell">勇 (Courage)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Taijutsu</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">450</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Obito Uchiha</td>
+                  <td class="Cost-cell">32</td>
+                  <td class="Unit Attribute-cell">知 (Intellect)</td>
+                  <td class="Affiliation-cell">Unkown/Self</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Fire</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">451</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Tobi (Residue of an Erased Soul)</td>
+                  <td class="Cost-cell">30</td>
+                  <td class="Unit Attribute-cell">技 (Technique)</td>
+                  <td class="Affiliation-cell">Unkown/Self</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Sharingan</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">Sharingan</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">452</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Kakashi Hatake (Geneaology of a Genius)</td>
+                  <td class="Cost-cell">30</td>
+                  <td class="Unit Attribute-cell">知 (Intellect)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Lightning</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">453</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Minato Namikaze</td>
+                  <td class="Cost-cell">27</td>
+                  <td class="Unit Attribute-cell">体 (Body)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Wind</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">454</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Obito Uchiha</td>
+                  <td class="Cost-cell">28</td>
+                  <td class="Unit Attribute-cell">心 (Mind)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Fire</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">455</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Rin Nohara</td>
+                  <td class="Cost-cell">28</td>
+                  <td class="Unit Attribute-cell">勇 (Courage)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Medical</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">457</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Deidara (Explosive Murderous Intent)</td>
+                  <td class="Cost-cell">29</td>
+                  <td class="Unit Attribute-cell">体 (Body)</td>
+                  <td class="Affiliation-cell">Akatsuki</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Secret</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">Secret</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">463</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Sasuke Uchiha (Eroding Curse0</td>
+                  <td class="Cost-cell">30</td>
+                  <td class="Unit Attribute-cell">技 (Technique)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Fire</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">464</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Anko Mitarashi (Hidden Preparedness)</td>
+                  <td class="Cost-cell">28</td>
+                  <td class="Unit Attribute-cell">勇 (Courage)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Summoning</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">465</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Orochimaru (Uncontained Greed)</td>
+                  <td class="Cost-cell">28</td>
+                  <td class="Unit Attribute-cell">知 (Intellect)</td>
+                  <td class="Affiliation-cell">Otogakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Summoning</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">471</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Kabuto Yakushi (Drifting Soul)</td>
+                  <td class="Cost-cell">32</td>
+                  <td class="Unit Attribute-cell">体 (Body)</td>
+                  <td class="Affiliation-cell">Otogakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Sage</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">Sage</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">472</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Sasuke Uchiha (Tearing Lightning)</td>
+                  <td class="Cost-cell">28</td>
+                  <td class="Unit Attribute-cell">技 (Technique)</td>
+                  <td class="Affiliation-cell">Taka</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Lightning</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">474</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Itachi Uchiha (The Day the Truth is Told)</td>
+                  <td class="Cost-cell">28</td>
+                  <td class="Unit Attribute-cell">勇 (Courage)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Sharingan</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">Sharingan</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">476</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Tayuya</td>
+                  <td class="Cost-cell">30</td>
+                  <td class="Unit Attribute-cell">知 (Intellect)</td>
+                  <td class="Affiliation-cell">Otogakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Genjutsu</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">477</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Temari (Wind Dance)</td>
+                  <td class="Cost-cell">28</td>
+                  <td class="Unit Attribute-cell">勇 (Courage)</td>
+                  <td class="Affiliation-cell">Sunagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Summoning</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">478</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Shikamaru Nara (Trust Your Heart)</td>
+                  <td class="Cost-cell">28</td>
+                  <td class="Unit Attribute-cell">心 (Mind)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Secret</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">482</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Naruto Uzumaki</td>
+                  <td class="Cost-cell">32</td>
+                  <td class="Unit Attribute-cell">体 (Body)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Summoning</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">483</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Sasuke Uchiha</td>
+                  <td class="Cost-cell">32</td>
+                  <td class="Unit Attribute-cell">技 (Technique)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Summoning</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">484</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Sakura Haruno</td>
+                  <td class="Cost-cell">32</td>
+                  <td class="Unit Attribute-cell">心 (Mind)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Summoning</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">485</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Kakashi Hatake</td>
+                  <td class="Cost-cell">30</td>
+                  <td class="Unit Attribute-cell">勇 (Courage)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Lightning</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">486</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Madara Uchiha (Aloof Legend)</td>
+                  <td class="Cost-cell">32</td>
+                  <td class="Unit Attribute-cell">知 (Intellect)</td>
+                  <td class="Affiliation-cell">Unkown/Self</td>
+                  <td class="Leader Skill-cell">All unit's HP and attack increased by 30%</td>
+                  <td class="Skill 1 Type-cell">Rinnegan</td>
+                  <td class="Skill 1-cell">Single target, damage with 5 time the attack, chance to lower enemy's cast speed by 1 step (ignore 60% of enemy's defense)</td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell">Increase self attack by 100%, Increase Rinnegan type damage by 50%</td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">487</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Naruto Uzumaki (One-Year Anniversary)</td>
+                  <td class="Cost-cell">26</td>
+                  <td class="Unit Attribute-cell">勇 (Courage)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Wind</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">488</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Jiraiya</td>
+                  <td class="Cost-cell">24</td>
+                  <td class="Unit Attribute-cell">体 (Body)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Summoning</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">489</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Orochimaru</td>
+                  <td class="Cost-cell">24</td>
+                  <td class="Unit Attribute-cell">技 (Technique)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell">Defense & Summoning Skill damage increased by 20%</td>
+                  <td class="Skill 1 Type-cell">Summoning</td>
+                  <td class="Skill 1-cell">Group damage 5% + 666.</td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell">Chance to reduce enemy's attack, defense, and quickness</td>
+                  <td class="Passive 1-cell">If HP 50% or lower, receives halved skill damage</td>
+                  <td class="Passive 2-cell">Summoning skill +40%. Chakra restores by 10% after every action</td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">490</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Tsunade</td>
+                  <td class="Cost-cell">24</td>
+                  <td class="Unit Attribute-cell"></td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell"></td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell"></td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">491</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Kakuzu</td>
+                  <td class="Cost-cell">30</td>
+                  <td class="Unit Attribute-cell">体 (Body)</td>
+                  <td class="Affiliation-cell">Akatsuki</td>
+                  <td class="Leader Skill-cell">Akatsuki units attack quickness force defense +20%</td>
+                  <td class="Skill 1 Type-cell">Wind</td>
+                  <td class="Skill 1-cell">All enemies 5% + 2000 damage and reduce casting speed of enemies by 1 step</td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell">Self super HP recovery and increase wind jutsu damage by 80%</td>
+                  <td class="Passive 1-cell">Maximum chakra increased by 50</td>
+                  <td class="Passive 2-cell">Attack and wind jutsu damage increases by 60% and </td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">492</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Ino Yamanaka</td>
+                  <td class="Cost-cell">28</td>
+                  <td class="Unit Attribute-cell">技 (Technique)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell">Konoha units quickness +30%, Chakra cost reduced by 5%</td>
+                  <td class="Skill 1 Type-cell">Secret</td>
+                  <td class="Skill 1-cell">Opponent attack -20%, Chance to put opponent in steering and enchanted state</td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell">Reduces teams chakra cost by 30%, Recovers a small of amount of hp and chakra</td>
+                  <td class="Passive 1-cell">For the first 5 turns quickness is 50% up and skill damage taken is reduced.\n</td>
+                  <td class="Passive 2-cell">Defense and Quickness increased by 30%</td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">493</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Shikamaru Nara</td>
+                  <td class="Cost-cell">28</td>
+                  <td class="Unit Attribute-cell">体 (Body)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell">Konoha units attack defense quickness and hp +30%</td>
+                  <td class="Skill 1 Type-cell">Secret</td>
+                  <td class="Skill 1-cell">Single target 7% + 800, reduce defense quickness and force by 30% (doubled if target is in steering state) </td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell">Increase quickness of all allies by 60%, secret type damage of Konoha unit increase by 60%</td>
+                  <td class="Passive 1-cell">Full recovery when HP is below 20%, only once per fight (Can't trigger if HP becomes 0) </td>
+                  <td class="Passive 2-cell">Quickness and HP increased by 30%</td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">494</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Choji Akimichi</td>
+                  <td class="Cost-cell">28</td>
+                  <td class="Unit Attribute-cell">心 (Mind)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell">Konoha unit's attack and secret type damage increased by 20%</td>
+                  <td class="Skill 1 Type-cell">Secret</td>
+                  <td class="Skill 1-cell">Single target, damage with 8 times the attack (2.2x damage if target is in steering state)</td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell">Increase self attack by 100% (Doubled if Choji's speed is buffed)</td>
+                  <td class="Passive 1-cell">Increase secret type damage by 50%</td>
+                  <td class="Passive 2-cell">Increase all Konoha unit's attack by 20% (including Choji's)</td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">495</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Kakashi Hatake</td>
+                  <td class="Cost-cell">28</td>
+                  <td class="Unit Attribute-cell">心 (Mind)</td>
+                  <td class="Affiliation-cell">Konohagakure</td>
+                  <td class="Leader Skill-cell">Attack to all units is increased by 30%, but hp is reduced by 20%.</td>
+                  <td class="Skill 1 Type-cell">Summoning</td>
+                  <td class="Skill 1-cell">Single target, 7% + 900. Puts a marking status on target. Deals x2.2 damage if the target has marked status</td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell">Attack, defense, quickness +50%. If HP is under 80%, then attack, defense, & quickness are all increased by 80%. </td>
+                  <td class="Passive 1-cell">After 5 actions, attack & skill damage are increased by 50%.</td>
+                  <td class="Passive 2-cell">If HP is 40% or lower, reduces damage received from skills. Grants immunity to statuses.</td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">498</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Zabuza</td>
+                  <td class="Cost-cell">32</td>
+                  <td class="Unit Attribute-cell">心 (Mind)</td>
+                  <td class="Affiliation-cell">Kirigakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Unique</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr>
+                  <td class="No.-cell">499</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Haku</td>
+                  <td class="Cost-cell">30</td>
+                  <td class="Unit Attribute-cell">技 (Technique)</td>
+                  <td class="Affiliation-cell">Kirigakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Water</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+                <tr class="lastRow">
+                  <td class="No.-cell">500</td>
+                  <td class="Unit Icon-cell"></td>
+                  <td class="Unit Name-cell">Gaara</td>
+                  <td class="Cost-cell">30</td>
+                  <td class="Unit Attribute-cell">勇 (Courage)</td>
+                  <td class="Affiliation-cell">Sunagakure</td>
+                  <td class="Leader Skill-cell"></td>
+                  <td class="Skill 1 Type-cell">Unique</td>
+                  <td class="Skill 1-cell"></td>
+                  <td class="Skill 2 Type-cell">None</td>
+                  <td class="Skill 2-cell"></td>
+                  <td class="Passive 1-cell"></td>
+                  <td class="Passive 2-cell"></td>
+                </tr>
+              </tbody>
+            </table>
+        <footer class="footer">
+            <p>&copy; Pls no hatireno</p>
+        </footer>
+
+    </div>
+</body>
