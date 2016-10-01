@@ -1,0 +1,36 @@
+body{
+	background-color: white;
+}
+table{
+	width: 150%;
+	border: 1px solid;
+}
+ul.pagination li {display:inline;}
+
+ul.pagination li a{
+	color: black;
+	float: left;
+	padding: 8px 16px;
+	text-decoration: none;
+	transition: background-color .3s;
+	border: 1px solid #ddd;
+	margin: 0 4px;
+}
+
+th, td{
+	width: 175px;
+	height: 125px;
+	padding: 0mm;
+	border: 1px solid #D3D3D3;
+}
+td{
+	text-align: center;
+}
+tr.char {
+	height: 100px;
+	
+}
+
+td#c1{
+	color: black;
+}
