@@ -1,8 +1,10 @@
 body{
 	background-color: white;
+	margin-right: 300px;
 }
 table{
 	width: 150%;
+
 	border: 1px solid;
 }
 ul.pagination li {display:inline;}
@@ -19,7 +21,7 @@ ul.pagination li a{
 
 th, td{
 	width: 175px;
-	height: 125px;
+	height: 170px;
 	padding: 0mm;
 	border: 1px solid #D3D3D3;
 }
@@ -28,7 +30,10 @@ td{
 }
 tr.char {
 	height: 100px;
-	
+}
+table{
+	margin-left: auto;
+	margin-right: auto;
 }
 
 td#c1{
