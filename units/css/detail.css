@@ -30,8 +30,7 @@ table.lead tr{
 	border: 1px solid black;
 	height: 30px;
 }
-
-//Types Color
+//Nature Color
 td#none{
 	color: black;
 }
@@ -50,15 +49,37 @@ td#water{
 td#unique{
 	color: silver;
 }
+td#sage{
+	color: #3BCFC8;
+}
+td#sealing{
+	color: #6C5F7B;
+}
+td#raijin{
+	color: #F1CA4F;
+}
 
-
-
+td#tech{
+	color: blue;
+}
+td#mind{
+	color: black;
+}
+td#courage{
+	color: grey;
+}
+td#body{
+	color: red;
+}
+td#heart{
+	color: yellow;
+}
 
 
 
 //Image
 h1{
-	text-align: center;
+	text-align: right;
 }
 img{
 	display: block;
