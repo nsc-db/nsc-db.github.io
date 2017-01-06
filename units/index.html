@@ -1,45 +1,1186 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="utf-8">
-    <title>NARUTO DATABASE</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Naruto Shinobi Collection Database</title>
 
 
-    <link href="https://getbootstrap.com/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="http://getbootstrap.com/dist/css/bootstrap.min.css" rel="stylesheet">
 
-    <link href="https://getbootstrap.com/examples/jumbotron-narrow/jumbotron-narrow.css" rel="stylesheet">
+    
+	
+
+
+	<link rel="stylesheet" type="text/css" href="css/datatables.min.css"/>
+ 
+	<style>
+		tr{
+			cursor: pointer;
+		}
+	</style>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+	<script>
+	$(document).ready( function () {
+		$('#myTable').DataTable({
+		});
+	} );
+</script>
 </head>
 
 <body>
+
     <div class="container">
         <div class="header">
-            </nav>
             <h3 class="text-muted">Naruto Shinobi Collection Database</h3>
-        </div>
+            <h4 class="text-muted">Units</h4>
+            <p><a class="btn btn-lg btn-success" href="/" role="button">Front Page</a>
+            <a class="btn btn-lg btn-success" href="/units" role="button">Units</a>
+            <a class="btn btn-lg btn-success" href="/gear" role="button">Ninja Gear</a>
+            <a class="btn btn-lg btn-success" href="/guides" role="button">Guides</a>
+            <a class="btn btn-lg btn-success" href="/faq" role="button">FAQ</a>
 
-        <div class="jumbotron">
-          <p class="lead"></p>
-<<<<<<< HEAD
-          <p><a class="btn btn-lg btn-success" href="/nsc/units" role="button">Units</a>
-          <p><a class="btn btn-lg btn-success" href="/nsc/gear" role="button">Ninja Gear</a>
-          <p><a class="btn btn-lg btn-success" href="/nsc/guides" role="button">Guides</a>
-          <p><a class="btn btn-lg btn-success" href="/nsc/faq" role="button">FAQ</a>
-=======
-          <p><a class="btn btn-lg btn-success" href="/nsc/units" role="button">Units</a>
-          <p><a class="btn btn-lg btn-success" href="/nsc/gear" role="button">Ninja Gear</a>
-          <p><a class="btn btn-lg btn-success" href="/nsc/guides" role="button">Guides</a>
-          <p><a class="btn btn-lg btn-success" href="/nsc/faq" role="button">FAQ</a>
->>>>>>> 00c0d82b3ba85dcfafe1fff43455792d8f8604f0
-          </p>
-        </div>
+        </div>          
+    <div class="header">
+	<h2>Character Table</h2>
+	<table id="myTable" class="display" cellspacing="0" width="100%">
+    <thead>
+    
+	<tr>
+	<th style="text-center">NO</th>
+    <th style="width:.001%;"></th>
+    <th>Name</th>
+	<th class="text-center">Affiliation</th>
+	<th class="text-center">Cost</th>
+	<th class="text-center">HP</th>
+	<th class="text-center">ATK</th>
+	<th class="text-center">DEF</th>
+	<th class="text-center">SPD</th>
+    </tr>
+    </thead>
+       
+        <tbody>
+  <tr class="clickable">
+    <td style="text-center">007</td>
+    <th><img src="http://i.imgur.com/SrR2Id2.png" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/007">Sasuke Uchiha, Innate Talent</a></td> 
+	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/></td>
+	<td class="text-center">26</td>
+	<td class="text-center">13,341</td>
+	<td class="text-center">12,467</td>
+	<td class="text-center">9,250</td>
+	<td class="text-center">150</td>
+  </tr>
+  
+  <tr class="clickable">
+	<td style="text-center">029</td>
+    <th><img src="http://i.imgur.com/lrA2TrK.png" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/029">Kakashi Hatake, Carnage Lightning</a></td> 
+	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/></td>
+	<td class="text-center">26</td>
+	<td class="text-center">12,100</td>
+	<td class="text-center">11,011</td>
+	<td class="text-center">11,826</td>
+	<td class="text-center">136</td>
+  </tr> 
+  
+  <tr class="clickable">
+    <td style="text-center">059</td>
+	<th><img src="http://i.imgur.com/OkIaA7h.png" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/059">Naruto Uzumaki, Road to Hokage</a></td> 
+	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/></td>
+	<td class="text-center">26</td>
+	<td class="text-center">15,956</td>
+	<td class="text-center">15,563</td>
+	<td class="text-center">8,539</td>
+	<td class="text-center">123</td>
+  </tr> 
+  
+  <tr class="clickable">
+    <td style="text-center">068</td>
+	<th><img src="http://naruto.upwiki.net/wp-content/uploads/2016/02/no00682.jpg" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/068">Gaara, Dust Style Dance</a></td> 
+	<td class="text-center"><img src="img/belong/suna.png" height="60px" width="60px"/></td>
+	<td class="text-center">26</td>
+	<td class="text-center">12,797</td>
+	<td class="text-center">8,133</td>
+	<td class="text-center">13,347</td>
+	<td class="text-center">111</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">154</td>
+	<th><img src="http://naruto.upwiki.net/wp-content/uploads/2016/02/no01542.jpg" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/164">Sakura Haruno, Spring Breeze</a></td> 
+	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/></td>
+	<td class="text-center">24</td>
+	<td class="text-center">7,162</td>
+	<td class="text-center">6,669</td>
+	<td class="text-center">9,139</td>
+	<td class="text-center">126</td>
+  </tr>
+  
+  <tr class="clickable">
+	<td style="text-center">159</td>
+    <th><img src="http://naruto.upwiki.net/wp-content/uploads/2016/02/no01582.jpg" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/159">Itachi Uchiha, Akatsuki's Carnage</a></td> 
+	<td class="text-center"><img src="img/belong/akatsuki.png" height="60px" width="60px"/></td>
+	<td class="text-center">27</td>
+	<td class="text-center">14,030</td>
+	<td class="text-center">11,407</td>
+	<td class="text-center">10,263</td>
+	<td class="text-center">144</td>
+  </tr>
+  
+  <tr class="clickable">
+	<td style="text-center">159</td>
+    <th><img src="http://naruto.upwiki.net/wp-content/uploads/2016/02/no01592.jpg" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/159">Kisame Hoshigaki, Mad Villain's Dance</a></td> 
+	<td class="text-center"><img src="img/belong/akatsuki.png" height="60px" width="60px"/></td>
+	<td class="text-center">26</td>
+	<td class="text-center">9,831</td>
+	<td class="text-center">16,757</td>
+	<td class="text-center">8,470</td>
+	<td class="text-center">150</td>
+  </tr>
+  
+  <tr class="clickable">
+	<td style="text-center">160</td>
+    <th><img src="http://naruto.upwiki.net/wp-content/uploads/2016/02/no01602.jpg" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/160">Sasori, Immediate Apocalypse</a></td> 
+	<td class="text-center"><img src="img/belong/akatsuki.png" height="60px" width="60px"/></td>
+	<td class="text-center">26</td>
+	<td class="text-center">11,696</td>
+	<td class="text-center">13,660</td>
+	<td class="text-center">9,701</td>
+	<td class="text-center">136</td>
+  </tr>
+  
+  <tr class="clickable">
+	<td style="text-center">163</td>
+    <th><img src="http://naruto.upwiki.net/wp-content/uploads/2016/02/no01632.jpg" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/163">Tsunade, Time to Decide</a></td> 
+	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/></td>
+	<td class="text-center">26</td>
+	<td class="text-center">12,431</td>
+	<td class="text-center">11,352</td>
+	<td class="text-center">9,088</td>
+	<td class="text-center">155</td>
+  </tr>
+  
+  <tr class="clickable">
+	<td style="text-center">164</td>
+    <th><img src="http://naruto.upwiki.net/wp-content/uploads/2016/02/no01642.jpg" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/164">Orochimaru, Unlocked Mind</a></td> 
+	<td class="text-center"><img src="img/belong/oto.png" height="60px" width="60px"/></td>
+	<td class="text-center">27</td>
+	<td class="text-center">10,520</td>
+	<td class="text-center">15,924</td>
+	<td class="text-center">9,254</td>
+	<td class="text-center">151</td>
+  </tr>
+ 
+ <tr class="clickable">
+    <td style="text-center">165</td>
+    <th><img src="http://naruto.upwiki.net/wp-content/uploads/2016/02/no01652.jpg" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/165">Jiraiya, Mount Myoboku's Hermit</a></td> 
+	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/></td>
+	<td class="text-center">26</td>
+	<td class="text-center">13,256</td>
+	<td class="text-center">10,800</td>
+	<td class="text-center">10,741</td>
+	<td class="text-center">141</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">166</td>
+    <th><img src="http://naruto.upwiki.net/wp-content/uploads/2016/02/no01662.jpg" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/166">Neji Hyuga, Hyuga's Talented Instrument</a></td> 
+	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/></td>
+	<td class="text-center">27</td>
+	<td class="text-center">9,403</td>
+	<td class="text-center">18,310</td>
+	<td class="text-center">7,854</td>
+	<td class="text-center">125</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">167</td>
+    <th><img src="http://naruto.upwiki.net/wp-content/uploads/2016/02/no01672.jpg" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/167">Hinata Hyuga, Break with the Past</a></td> 
+	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/></td>
+	<td class="text-center">26</td>
+	<td class="text-center">10,648</td>
+	<td class="text-center">10,800</td>
+	<td class="text-center">12,782</td>
+	<td class="text-center">123</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">168</td>
+    <th><img src="http://i.imgur.com/pMW2OI5.png" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/168">Kushina Uzumaki, Power of Love</a></td> 
+	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/></td>
+	<td class="text-center">27</td>
+	<td class="text-center">7,867</td>
+	<td class="text-center">10,659</td>
+	<td class="text-center">6,852</td>
+	<td class="text-center">140</td>
+  </tr>
+  
+   <tr class="clickable">
+    <td style="text-center">170</td>
+    <th><img src="http://i.imgur.com/sf7esVo.png" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/170">Mei Terumi, Dream Achieved</a></td> 
+	<td class="text-center"><img src="img/belong/kiri.png" height="60px" width="60px"/></td>
+	<td class="text-center">27</td>
+	<td class="text-center">11,098</td>
+	<td class="text-center">11,240</td>
+	<td class="text-center">10,250</td>
+	<td class="text-center">140</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">175</td>
+    <th><img src="http://naruto.upwiki.net/wp-content/uploads/2016/02/no01752.jpg" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/175">Kabuto Yakushi, Aloof Genius</a></td> 
+	<td class="text-center"><img src="img/belong/oto.png" height="60px" width="60px"/></td>
+	<td class="text-center">24</td>
+	<td class="text-center">7,002</td>
+	<td class="text-center">7,235</td>
+	<td class="text-center">7,935</td>
+	<td class="text-center">161</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">176</td>
+    <th><img src="http://naruto.upwiki.net/wp-content/uploads/2016/02/no01762.jpg" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/176">Asuma Sarutobi, Blade of Konohagakure</a></td> 
+	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/></td>
+	<td class="text-center">24</td>
+	<td class="text-center">7,935</td>
+	<td class="text-center">8,168</td>
+	<td class="text-center">7,235</td>
+	<td class="text-center">124</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">189</td>
+    <th><img src="http://naruto.upwiki.net/wp-content/uploads/2016/02/no01892.jpg" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/189">Pain, God's Choice</a></td> 
+	<td class="text-center"><img src="img/belong/akatsuki.png" height="60px" width="60px"/></td>
+	<td class="text-center">27</td>
+	<td class="text-center">10,250</td>
+	<td class="text-center">16,329</td>
+	<td class="text-center">8,984</td>
+	<td class="text-center">151</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">191</td>
+    <th><img src="http://naruto.upwiki.net/wp-content/uploads/2016/02/no01914.jpg" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/191">Deidara, Brilliant Explosion</a></td> 
+	<td class="text-center"><img src="img/belong/akatsuki.png" height="60px" width="60px"/></td>
+	<td class="text-center">26</td>
+	<td class="text-center">11,046</td>
+	<td class="text-center">13,530</td>
+	<td class="text-center">10,091</td>
+	<td class="text-center">144</td>
+  </tr>
+  
+   <tr class="clickable">
+    <td style="text-center">192</td>
+    <th><img src="http://naruto.upwiki.net/wp-content/uploads/2016/02/no01922.jpg" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/192">Hidan, Ruler of Fates</a></td> 
+	<td class="text-center"><img src="img/belong/akatsuki.png" height="60px" width="60px"/></td>
+	<td class="text-center">26</td>
+	<td class="text-center">10,388</td>
+	<td class="text-center">16,434</td>
+	<td class="text-center">6,857</td>
+	<td class="text-center">150</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">194</td>
+    <th><img src="http://i.imgur.com/eC4AE6B.png" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/194">Minato Namikaze, Fourth Hokage</a></td> 
+	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/></td>
+	<td class="text-center">27</td>
+	<td class="text-center">11,128</td>
+	<td class="text-center">13,011</td>
+	<td class="text-center">10,429</td>
+	<td class="text-center">163</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">195</td>
+    <th><img src="http://naruto.upwiki.net/wp-content/uploads/2016/02/no01952.jpg" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/195">Zabuza Momochi, Kirigakure Demon</a></td> 
+	<td class="text-center"><img src="img/belong/kiri.png" height="60px" width="60px"/></td>
+	<td class="text-center">26</td>
+	<td class="text-center">9,006</td>
+	<td class="text-center">18,683</td>
+	<td class="text-center">7,369</td>
+	<td class="text-center">123</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">196</td>
+    <th><img src="http://naruto.upwiki.net/wp-content/uploads/2016/02/no01962.jpg" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/196">Haku, Ice Mask</a></td> 
+	<td class="text-center"><img src="img/belong/kiri.png" height="60px" width="60px"/></td>
+	<td class="text-center">26</td>
+	<td class="text-center">10,871</td>
+	<td class="text-center">12,262</td>
+	<td class="text-center">11,217</td>
+	<td class="text-center">195</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">226</td>
+    <th><img src="http://naruto.upwiki.net/wp-content/uploads/2016/02/no02262.jpg" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/226">Shikimaru Naru, Mechination of Genius</a></td> 
+	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/></td>
+	<td class="text-center">26</td>
+	<td class="text-center">13,530</td>
+	<td class="text-center">8,876</td>
+	<td class="text-center">11,566</td>
+	<td class="text-center">174</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">227</td>
+    <th><img src="http://naruto.upwiki.net/wp-content/uploads/2016/02/no02272.jpg" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/227">Choji Akimichi, Time of Awakening</a></td> 
+	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/></td>
+	<td class="text-center">26</td>
+	<td class="text-center">9,136</td>
+	<td class="text-center">18,423</td>
+	<td class="text-center">7,499</td>
+	<td class="text-center">117</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">228</td>
+    <th><img src="http://naruto.upwiki.net/wp-content/uploads/2016/02/no02282.jpg" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/228">Kimimaro, Where the Soul Resides</a></td> 
+	<td class="text-center"><img src="img/belong/oto.png" height="60px" width="60px"/></td>
+	<td class="text-center">27</td>
+	<td class="text-center">14,929</td>
+	<td class="text-center">11,490</td>
+	<td class="text-center">13,918</td>
+	<td class="text-center">141</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">233</td>
+    <th><img src="http://naruto.upwiki.net/wp-content/uploads/2016/02/no02332.jpg" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/233">Sasuke Uchiha, Curse Release</a></td> 
+	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/></td>
+	<td class="text-center">24</td>
+	<td class="text-center">9,240</td>
+	<td class="text-center">14,481</td>
+	<td class="text-center">8,600</td>
+	<td class="text-center">159</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">237</td>
+    <th><img src="http://i.imgur.com/jM1eCuQ.png" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/237">Sakura Haruno, Rising Talent</a></td> 
+	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/></td>
+	<td class="text-center">26</td>
+	<td class="text-center">10,826</td>
+	<td class="text-center">13,897</td>
+	<td class="text-center">8,279</td>
+	<td class="text-center">145</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">241</td>
+    <th><img src="http://naruto.upwiki.net/wp-content/uploads/2016/02/no02412.jpg" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/241">Sasuke Uchiha, Thunder Demon's Revenge</a></td> 
+	<td class="text-center"><img src="img/belong/hebi.png" height="60px" width="60px"/></td>
+	<td class="text-center">27</td>
+	<td class="text-center">9,403</td>
+	<td class="text-center">18,175</td>
+	<td class="text-center">7,854</td>
+	<td class="text-center">130</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">242</td>
+    <th><img src="http://naruto.upwiki.net/wp-content/uploads/2016/02/no02422.jpg" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/242">Itachi Uchiha, Light-Seeking Sharingan</a></td> 
+	<td class="text-center"><img src="img/belong/akatsuki.png" height="60px" width="60px"/></td>
+	<td class="text-center">28</td>
+	<td class="text-center">12,195</td>
+	<td class="text-center">17,073</td>
+	<td class="text-center">9,582</td>
+	<td class="text-center">166</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">246</td>
+    <th><img src="http://i.imgur.com/AWV0UJY.png" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/246">Boruto Uzumaki</a></td> 
+	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/></td>
+	<td class="text-center">16</td>
+	<td class="text-center">8,751</td>
+	<td class="text-center">11,612</td>
+	<td class="text-center">7,901</td>
+	<td class="text-center">135</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">247</td>
+    <th><img src="http://i.imgur.com/VnVHBUW.png" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/247">Sarada Uchiha, Hokage Aspirer</a></td> 
+	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/></td>
+	<td class="text-center">16</td>
+	<td class="text-center">8,251</td>
+	<td class="text-center">12,277</td>
+	<td class="text-center">7,736</td>
+	<td class="text-center">124</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">248</td>
+    <th><img src="http://i.imgur.com/h2Hy5B2.png" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/248">Naruto Uzumaki, Seventh Hokage</a></td> 
+	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/></td>
+	<td class="text-center">24</td>
+	<td class="text-center">10,080</td>
+	<td class="text-center">12,681</td>
+	<td class="text-center">9,560</td>
+	<td class="text-center">134</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">249</td>
+    <th><img src="http://i.imgur.com/EcdXAYr.png" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/249">Sasuke Uchiha, One-Armed Swordsman</a></td> 
+	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/></td>
+	<td class="text-center">16</td>
+	<td class="text-center">7,954</td>
+	<td class="text-center">12,883</td>
+	<td class="text-center">8,134</td>
+	<td class="text-center">131</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">277</td>
+    <th><img src="http://naruto.upwiki.net/wp-content/uploads/2016/02/no02772.jpg" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/277">Might Gai, Turbulent Fist</a></td> 
+	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/></td>
+	<td class="text-center">27</td>
+	<td class="text-center">9,954</td>
+	<td class="text-center">18,469</td>
+	<td class="text-center">6,710</td>
+	<td class="text-center">151</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">278</td>
+    <th><img src="http://i.imgur.com/NG5TpWD.png" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/278">Kakashi Hatake, Konoha's Technician</a></td> 
+	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/></td>
+	<td class="text-center">27</td>
+	<td class="text-center">12,140</td>
+	<td class="text-center">11,947</td>
+	<td class="text-center">11,343</td>
+	<td class="text-center">146</td>
+  </tr>
+  
+    
+  <tr class="clickable">
+    <td style="text-center">283</td>
+    <th><img src="http://i.imgur.com/8V9JEEh.png" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/283">Naruto Uzumaki, Expanding Senjutsu</a></td> 
+	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/></td>
+	<td class="text-center">30</td>
+	<td class="text-center">11,270</td>
+	<td class="text-center">13,269</td>
+	<td class="text-center">10,059</td>
+	<td class="text-center">161</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">284</td>
+    <th><img src="http://naruto.upwiki.net/wp-content/uploads/2016/02/no02842.jpg" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/284">Jiraiya, Disciple of the Toad</a></td> 
+	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/></td>
+	<td class="text-center">27</td>
+	<td class="text-center">11,411</td>
+	<td class="text-center">12,163</td>
+	<td class="text-center">11,559</td>
+	<td class="text-center">144</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">291</td>
+    <th><img src="http://naruto.upwiki.net/wp-content/uploads/2016/02/no02912.jpg" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/291">Hiruzen Sarutobi, Third Hokage</a></td> 
+	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/></td>
+	<td class="text-center">24</td>
+	<td class="text-center">7,235</td>
+	<td class="text-center">8,635</td>
+	<td class="text-center">7,469</td>
+	<td class="text-center">130</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">292</td>
+    <th><img src="http://naruto.upwiki.net/wp-content/uploads/2016/02/no02922.jpg" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/292">Kankuro, Mysterious Puppet Decorations</a></td> 
+	<td class="text-center"><img src="img/belong/suna.png" height="60px" width="60px"/></td>
+	<td class="text-center">24</td>
+	<td class="text-center">5,834</td>
+	<td class="text-center">8,168</td>
+	<td class="text-center">8,635</td>
+	<td class="text-center">112</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">294</td>
+    <th><img src="http://naruto.upwiki.net/wp-content/uploads/2016/02/no02942.jpg" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/294">Gaara, Fifth Kazekage</a></td> 
+	<td class="text-center"><img src="img/belong/suna.png" height="60px" width="60px"/></td>
+	<td class="text-center">27</td>
+	<td class="text-center">14,582</td>
+	<td class="text-center">11,137</td>
+	<td class="text-center">13,665</td>
+	<td class="text-center">144</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">295</td>
+    <th><img src="http://naruto.upwiki.net/wp-content/uploads/2016/02/no02952.jpg" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/295">Oonoki, Jinton Master </a></td> 
+	<td class="text-center"><img src="img/belong/iwa.png" height="60px" width="60px"/></td>
+	<td class="text-center">27</td>
+	<td class="text-center">9,487</td>
+	<td class="text-center">11,233</td>
+	<td class="text-center">12,461</td>
+	<td class="text-center">149</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">296</td>
+    <th><img src="http://naruto.upwiki.net/wp-content/uploads/2016/02/no02962.jpg" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/296">Mei Terumi, Captivating Glance</a></td> 
+	<td class="text-center"><img src="img/belong/kiri.png" height="60px" width="60px"/></td>
+	<td class="text-center">27</td>
+	<td class="text-center">10,983</td>
+	<td class="text-center">10,976</td>
+	<td class="text-center">12,622</td>
+	<td class="text-center">130</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">306</td>
+    <th><img src="http://naruto.upwiki.net/wp-content/uploads/2016/02/no03062.jpg" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/306">Kurenai Yuhi, Noble Illusion</a></td> 
+	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/></td>
+	<td class="text-center">24</td>
+	<td class="text-center">11,160</td>
+	<td class="text-center">9,141</td>
+	<td class="text-center">11,241</td>
+	<td class="text-center">174</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">308</td>
+    <th><img src="http://i.imgur.com/lsMdG3P.png" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/308">Madara Uchiha, Sneering True Leader</a></td> 
+	<td class="text-center"><img src="img/belong/none.png" height="60px" width="60px"/></td>
+	<td class="text-center">30</td>
+	<td class="text-center">10,070</td>
+	<td class="text-center">14,303</td>
+	<td class="text-center">10,225</td>
+	<td class="text-center">148</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">309</td>
+    <th><img src="http://i.imgur.com/95t9Rb5.png" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/309">Minato Namikaze, Warm Heart</a></td> 
+	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/></td>
+	<td class="text-center">28</td>
+	<td class="text-center">10,893</td>
+	<td class="text-center">13,797</td>
+	<td class="text-center">10,314</td>
+	<td class="text-center">174</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">310</td>
+    <th><img src="http://naruto.upwiki.net/wp-content/uploads/2016/02/no03102.jpg" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/310">Kushina Uzumaki, Benevolent Heart</a></td> 
+	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/></td>
+	<td class="text-center">27</td>
+	<td class="text-center">11,279</td>
+	<td class="text-center">17,770</td>
+	<td class="text-center">8,124</td>
+	<td class="text-center">125</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">315</td>
+    <th><img src="http://naruto.upwiki.net/wp-content/uploads/2016/02/no03152.jpg" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/315">Might Gai, Strike of Youth</a></td> 
+	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/></td>
+	<td class="text-center">28</td>
+	<td class="text-center">10,380</td>
+	<td class="text-center">18,586</td>
+	<td class="text-center">6,765</td>
+	<td class="text-center">152</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">316</td>
+    <th><img src="http://naruto.upwiki.net/wp-content/uploads/2016/02/no03162.jpg" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/316">Rock Lee, Indomitable Fighting Spirit</a></td> 
+	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/></td>
+	<td class="text-center">27</td>
+	<td class="text-center">7,544</td>
+	<td class="text-center">17,217</td>
+	<td class="text-center">9,967</td>
+	<td class="text-center">157</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">321</td>
+    <th><img src="http://naruto.upwiki.net/wp-content/uploads/2016/02/no03212.jpg" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/321">Tenten, Weapon Specialist</a></td> 
+	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/></td>
+	<td class="text-center">24</td>
+	<td class="text-center">9,261</td>
+	<td class="text-center">18,025</td>
+	<td class="text-center">9,282</td>
+	<td class="text-center">140</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">327</td>
+    <th><img src="http://naruto.upwiki.net/wp-content/uploads/2016/02/no03272.jpg" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/327">Chiyo, Decayed Shinobi Flower</a></td> 
+	<td class="text-center"><img src="img/belong/suna.png" height="60px" width="60px"/></td>
+	<td class="text-center">24</td>
+	<td class="text-center">5,601</td>
+	<td class="text-center">7,935</td>
+	<td class="text-center">7,469</td>
+	<td class="text-center">126</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">328</td>
+    <th><img src="http://naruto.upwiki.net/wp-content/uploads/2016/02/no03282.jpg" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/328">Killer Bee, Brother's Pardon</a></td> 
+	<td class="text-center"><img src="img/belong/kumo.png" height="60px" width="60px"/></td>
+	<td class="text-center">24</td>
+	<td class="text-center">7,235</td>
+	<td class="text-center">9,803</td>
+	<td class="text-center">6,301</td>
+	<td class="text-center">136</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">329</td>
+    <th><img src="http://i.imgur.com/fXj4z9R.png" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/329">Sasori, Immortal Forever</a></td> 
+	<td class="text-center"><img src="img/belong/akatsuki.png" height="60px" width="60px"/></td>
+	<td class="text-center">27</td>
+	<td class="text-center">10,385</td>
+	<td class="text-center">16,059</td>
+	<td class="text-center">9,119</td>
+	<td class="text-center">151</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">329</td>
+    <th><img src="http://naruto.upwiki.net/wp-content/uploads/2016/02/no03302.jpg" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/329">Sakura Haruno, Fascinating Cerry Blossom</a></td> 
+	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/></td>
+	<td class="text-center">27</td>
+	<td class="text-center">10,790</td>
+	<td class="text-center">14,512</td>
+	<td class="text-center">8,283</td>
+	<td class="text-center">154</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">341</td>
+    <th><img src="http://i.imgur.com/2FMAOCh.png" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/341">Hashirama Senju, Indomitable Red Barrier</a></td> 
+	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/></td>
+	<td class="text-center">30</td>
+	<td class="text-center">12,342</td>
+	<td class="text-center">12,353</td>
+	<td class="text-center">10,053</td>
+	<td class="text-center">154</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">342</td>
+    <th><img src="http://naruto.upwiki.net/wp-content/uploads/2016/02/no03422.jpg" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/342">Sasuke Uchiha, Sprinting Towards Darkness</a></td> 
+	<td class="text-center"><img src="img/belong/taka.png" height="60px" width="60px"/></td>
+	<td class="text-center">28</td>
+	<td class="text-center">11,743</td>
+	<td class="text-center">13,958</td>
+	<td class="text-center">10,433</td>
+	<td class="text-center">152</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">343</td>
+    <th><img src="http://naruto.upwiki.net/wp-content/uploads/2016/02/no03432.jpg" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/343">A, Fourth Raikage</a></td> 
+	<td class="text-center"><img src="img/belong/kumo.png" height="60px" width="60px"/></td>
+	<td class="text-center">28</td>
+	<td class="text-center">9,530</td>
+	<td class="text-center">18,425</td>
+	<td class="text-center">7,796</td>
+	<td class="text-center">134</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">344</td>
+    <th><img src="http://naruto.upwiki.net/wp-content/uploads/2016/02/no03442.jpg" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/344">Darui, Hero of Kumogakure</a></td> 
+	<td class="text-center"><img src="img/belong/kumo.png" height="60px" width="60px"/></td>
+	<td class="text-center">27</td>
+	<td class="text-center">13,984</td>
+	<td class="text-center">9,735/td>
+	<td class="text-center">11,574</td>
+	<td class="text-center">141</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">351</td>
+    <th><img src="http://naruto.upwiki.net/wp-content/uploads/2016/02/no03512.jpg" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/351">Jugo, Origin of the Curse</a></td> 
+	<td class="text-center"><img src="img/belong/taka.png" height="60px" width="60px"/></td>
+	<td class="text-center">24</td>
+	<td class="text-center">7,935</td>
+	<td class="text-center">8,168</td>
+	<td class="text-center">7,235</td>
+	<td class="text-center">124</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">353</td>
+    <th><img src="http://naruto.upwiki.net/wp-content/uploads/2016/02/no03532.jpg" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/353">Kakashi Hatake, Full Body Blow</a></td> 
+	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/></td>
+	<td class="text-center">24</td>
+	<td class="text-center">10,080</td>
+	<td class="text-center">12,681</td>
+	<td class="text-center">9,560</td>
+	<td class="text-center">159</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">354</td>
+    <th><img src="http://i.imgur.com/Df2vpn6.png" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/354">Pain, Rinne of War</a></td> 
+	<td class="text-center"><img src="img/belong/akatsuki.png" height="60px" width="60px"/></td>
+	<td class="text-center">30</td>
+	<td class="text-center">11,125</td>
+	<td class="text-center">12,653</td>
+	<td class="text-center">10,820</td>
+	<td class="text-center">154</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">354</td>
+    <th><img src="http://naruto.upwiki.net/wp-content/uploads/2016/02/no03552.jpg" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/355">Konan, Angel of Death</a></td> 
+	<td class="text-center"><img src="img/belong/akatsuki.png" height="60px" width="60px"/></td>
+	<td class="text-center">27</td>
+	<td class="text-center">10,848</td>
+	<td class="text-center">10,841</td>
+	<td class="text-center">13,027</td>
+	<td class="text-center">127</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">356</td>
+    <th><img src="http://i.imgur.com/CN4xvrL.png" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/356">Itachi Uchiha, Carnage of the Past</a></td> 
+	<td class="text-center"><img src="img/belong/akatsuki.png" height="60px" width="60px"/></td>
+	<td class="text-center">28</td>
+	<td class="text-center">11,453</td>
+	<td class="text-center">13,377</td>
+	<td class="text-center">10,734</td>
+	<td class="text-center">165</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">357</td>
+    <th><img src="http://naruto.upwiki.net/wp-content/uploads/2016/02/no03572.jpg" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/357">Kisame Hoshigaki, Phantom of the Hidden Mist</a></td> 
+	<td class="text-center"><img src="img/belong/akatsuki.png" height="60px" width="60px"/></td>
+	<td class="text-center">28</td>
+	<td class="text-center">9,390</td>
+	<td class="text-center">19,405</td>
+	<td class="text-center">7,516</td>
+	<td class="text-center">126</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">359</td>
+    <th><img src="http://naruto.upwiki.net/wp-content/uploads/2016/02/no03592.jpg" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/359">Naruto Uzumaki, Leap of Power</a></td> 
+	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/></td>
+	<td class="text-center">28</td>
+	<td class="text-center">10,539</td>
+	<td class="text-center">16,534</td>
+	<td class="text-center">9,099</td>
+	<td class="text-center">152</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">360</td>
+    <th><img src="http://naruto.upwiki.net/wp-content/uploads/2016/02/no03602.jpg" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/360">Orochimaru, Despicable Invader</a></td> 
+	<td class="text-center"><img src="img/belong/oto.png" height="60px" width="60px"/></td>
+	<td class="text-center">24</td>
+	<td class="text-center">7,935</td>
+	<td class="text-center">9,569</td>
+	<td class="text-center">5,834</td>
+	<td class="text-center">124</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">364</td>
+    <th><img src="http://naruto.upwiki.net/wp-content/uploads/2016/02/no03642.jpg" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/364">Shikamaru Nara, Art of War</a></td> 
+	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/></td>
+	<td class="text-center">27</td>
+	<td class="text-center">13,811</td>
+	<td class="text-center">8,998</td>
+	<td class="text-center">11,773</td>
+	<td class="text-center">176</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">368</td>
+    <th><img src="http://naruto.upwiki.net/wp-content/uploads/2016/02/no03682.jpg" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/368">Hiashi Hyuga, Noble Pride</a></td> 
+	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/></td>
+	<td class="text-center">24</td>
+	<td class="text-center">7,235</td>
+	<td class="text-center">9,803</td>
+	<td class="text-center">6,301</td>
+	<td class="text-center">136</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">369</td>
+    <th><img src="http://naruto.upwiki.net/wp-content/uploads/2016/05/no0363a.jpg" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/369">Asuma Sarutobi, Explosive Ash Flame</a></td> 
+	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/></td>
+	<td class="text-center">27</td>
+	<td class="text-center">12,229</td>
+	<td class="text-center">13,515</td>
+	<td class="text-center">9,414</td>
+	<td class="text-center">141</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">372</td>
+    <th><img src="http://i.imgur.com/NrRhCsL.png" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/372">Madara Uchiha, Sneering True Leader</a></td> 
+	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/></td>
+	<td class="text-center">30</td>
+	<td class="text-center">11,275</td>
+	<td class="text-center">143,880</td>
+	<td class="text-center">9,423</td>
+	<td class="text-center">195</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">373</td>
+    <th><img src="http://i.imgur.com/2kxTf4G.png" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/373">Shisui Uchiha, Handsome Uchiha Hero</a></td> 
+	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/></td>
+	<td class="text-center">28</td>
+	<td class="text-center">11,649</td>
+	<td class="text-center">13,153</td>
+	<td class="text-center">10,370</td>
+	<td class="text-center">177</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">374</td>
+    <th><img src="http://naruto.upwiki.net/wp-content/uploads/2016/02/no03742.jpg" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/374">Kakashi Hatake, ANBU Thunder Blade</a></td> 
+	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/></td>
+	<td class="text-center">27</td>
+	<td class="text-center">10,250</td>
+	<td class="text-center">16,059</td>
+	<td class="text-center">8,849</td>
+	<td class="text-center">151</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">375</td>
+    <th><img src="http://naruto.upwiki.net/wp-content/uploads/2016/02/no03752.jpg" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/375">Tenzo, Mokuton User</a></td> 
+	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/></td>
+	<td class="text-center">27</td>
+	<td class="text-center">10,655</td>
+	<td class="text-center">13,972</td>
+	<td class="text-center">12,268</td>
+	<td class="text-center">144</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">308</td>
+    <th><img src="http://i.imgur.com/lsMdG3P.png" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/308">Madara Uchiha, Sneering True Leader</a></td> 
+	<td class="text-center"><img src="img/belong/none.png" height="60px" width="60px"/></td>
+	<td class="text-center">30</td>
+	<td class="text-center">10,070</td>
+	<td class="text-center">14,303</td>
+	<td class="text-center">10,225</td>
+	<td class="text-center">148</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">308</td>
+    <th><img src="http://i.imgur.com/lsMdG3P.png" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/308">Madara Uchiha, Sneering True Leader</a></td> 
+	<td class="text-center"><img src="img/belong/none.png" height="60px" width="60px"/></td>
+	<td class="text-center">30</td>
+	<td class="text-center">10,070</td>
+	<td class="text-center">14,303</td>
+	<td class="text-center">10,225</td>
+	<td class="text-center">148</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">308</td>
+    <th><img src="http://i.imgur.com/lsMdG3P.png" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/308">Madara Uchiha, Sneering True Leader</a></td> 
+	<td class="text-center"><img src="img/belong/none.png" height="60px" width="60px"/></td>
+	<td class="text-center">30</td>
+	<td class="text-center">10,070</td>
+	<td class="text-center">14,303</td>
+	<td class="text-center">10,225</td>
+	<td class="text-center">148</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">308</td>
+    <th><img src="http://i.imgur.com/lsMdG3P.png" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/308">Madara Uchiha, Sneering True Leader</a></td> 
+	<td class="text-center"><img src="img/belong/none.png" height="60px" width="60px"/></td>
+	<td class="text-center">30</td>
+	<td class="text-center">10,070</td>
+	<td class="text-center">14,303</td>
+	<td class="text-center">10,225</td>
+	<td class="text-center">148</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">308</td>
+    <th><img src="http://i.imgur.com/lsMdG3P.png" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/308">Madara Uchiha, Sneering True Leader</a></td> 
+	<td class="text-center"><img src="img/belong/none.png" height="60px" width="60px"/></td>
+	<td class="text-center">30</td>
+	<td class="text-center">10,070</td>
+	<td class="text-center">14,303</td>
+	<td class="text-center">10,225</td>
+	<td class="text-center">148</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">308</td>
+    <th><img src="http://i.imgur.com/lsMdG3P.png" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/308">Madara Uchiha, Sneering True Leader</a></td> 
+	<td class="text-center"><img src="img/belong/none.png" height="60px" width="60px"/></td>
+	<td class="text-center">30</td>
+	<td class="text-center">10,070</td>
+	<td class="text-center">14,303</td>
+	<td class="text-center">10,225</td>
+	<td class="text-center">148</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">308</td>
+    <th><img src="http://i.imgur.com/lsMdG3P.png" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/308">Madara Uchiha, Sneering True Leader</a></td> 
+	<td class="text-center"><img src="img/belong/none.png" height="60px" width="60px"/></td>
+	<td class="text-center">30</td>
+	<td class="text-center">10,070</td>
+	<td class="text-center">14,303</td>
+	<td class="text-center">10,225</td>
+	<td class="text-center">148</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">308</td>
+    <th><img src="http://i.imgur.com/lsMdG3P.png" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/308">Madara Uchiha, Sneering True Leader</a></td> 
+	<td class="text-center"><img src="img/belong/none.png" height="60px" width="60px"/></td>
+	<td class="text-center">30</td>
+	<td class="text-center">10,070</td>
+	<td class="text-center">14,303</td>
+	<td class="text-center">10,225</td>
+	<td class="text-center">148</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">308</td>
+    <th><img src="http://i.imgur.com/lsMdG3P.png" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/308">Madara Uchiha, Sneering True Leader</a></td> 
+	<td class="text-center"><img src="img/belong/none.png" height="60px" width="60px"/></td>
+	<td class="text-center">30</td>
+	<td class="text-center">10,070</td>
+	<td class="text-center">14,303</td>
+	<td class="text-center">10,225</td>
+	<td class="text-center">148</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">308</td>
+    <th><img src="http://i.imgur.com/lsMdG3P.png" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/308">Madara Uchiha, Sneering True Leader</a></td> 
+	<td class="text-center"><img src="img/belong/none.png" height="60px" width="60px"/></td>
+	<td class="text-center">30</td>
+	<td class="text-center">10,070</td>
+	<td class="text-center">14,303</td>
+	<td class="text-center">10,225</td>
+	<td class="text-center">148</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">308</td>
+    <th><img src="http://i.imgur.com/lsMdG3P.png" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/308">Madara Uchiha, Sneering True Leader</a></td> 
+	<td class="text-center"><img src="img/belong/none.png" height="60px" width="60px"/></td>
+	<td class="text-center">30</td>
+	<td class="text-center">10,070</td>
+	<td class="text-center">14,303</td>
+	<td class="text-center">10,225</td>
+	<td class="text-center">148</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">308</td>
+    <th><img src="http://i.imgur.com/lsMdG3P.png" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/308">Madara Uchiha, Sneering True Leader</a></td> 
+	<td class="text-center"><img src="img/belong/none.png" height="60px" width="60px"/></td>
+	<td class="text-center">30</td>
+	<td class="text-center">10,070</td>
+	<td class="text-center">14,303</td>
+	<td class="text-center">10,225</td>
+	<td class="text-center">148</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">308</td>
+    <th><img src="http://i.imgur.com/lsMdG3P.png" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/308">Madara Uchiha, Sneering True Leader</a></td> 
+	<td class="text-center"><img src="img/belong/none.png" height="60px" width="60px"/></td>
+	<td class="text-center">30</td>
+	<td class="text-center">10,070</td>
+	<td class="text-center">14,303</td>
+	<td class="text-center">10,225</td>
+	<td class="text-center">148</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">308</td>
+    <th><img src="http://i.imgur.com/lsMdG3P.png" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/308">Madara Uchiha, Sneering True Leader</a></td> 
+	<td class="text-center"><img src="img/belong/none.png" height="60px" width="60px"/></td>
+	<td class="text-center">30</td>
+	<td class="text-center">10,070</td>
+	<td class="text-center">14,303</td>
+	<td class="text-center">10,225</td>
+	<td class="text-center">148</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">308</td>
+    <th><img src="http://i.imgur.com/lsMdG3P.png" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/308">Madara Uchiha, Sneering True Leader</a></td> 
+	<td class="text-center"><img src="img/belong/none.png" height="60px" width="60px"/></td>
+	<td class="text-center">30</td>
+	<td class="text-center">10,070</td>
+	<td class="text-center">14,303</td>
+	<td class="text-center">10,225</td>
+	<td class="text-center">148</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">308</td>
+    <th><img src="http://i.imgur.com/lsMdG3P.png" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/308">Madara Uchiha, Sneering True Leader</a></td> 
+	<td class="text-center"><img src="img/belong/none.png" height="60px" width="60px"/></td>
+	<td class="text-center">30</td>
+	<td class="text-center">10,070</td>
+	<td class="text-center">14,303</td>
+	<td class="text-center">10,225</td>
+	<td class="text-center">148</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">308</td>
+    <th><img src="http://i.imgur.com/lsMdG3P.png" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/308">Madara Uchiha, Sneering True Leader</a></td> 
+	<td class="text-center"><img src="img/belong/none.png" height="60px" width="60px"/></td>
+	<td class="text-center">30</td>
+	<td class="text-center">10,070</td>
+	<td class="text-center">14,303</td>
+	<td class="text-center">10,225</td>
+	<td class="text-center">148</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">308</td>
+    <th><img src="http://i.imgur.com/lsMdG3P.png" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/308">Madara Uchiha, Sneering True Leader</a></td> 
+	<td class="text-center"><img src="img/belong/none.png" height="60px" width="60px"/></td>
+	<td class="text-center">30</td>
+	<td class="text-center">10,070</td>
+	<td class="text-center">14,303</td>
+	<td class="text-center">10,225</td>
+	<td class="text-center">148</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">308</td>
+    <th><img src="http://i.imgur.com/lsMdG3P.png" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/308">Madara Uchiha, Sneering True Leader</a></td> 
+	<td class="text-center"><img src="img/belong/none.png" height="60px" width="60px"/></td>
+	<td class="text-center">30</td>
+	<td class="text-center">10,070</td>
+	<td class="text-center">14,303</td>
+	<td class="text-center">10,225</td>
+	<td class="text-center">148</td>
+  </tr>
+  
+  <tr class="clickable">
+    <td style="text-center">308</td>
+    <th><img src="http://i.imgur.com/lsMdG3P.png" height="60px" width="60px" /></th>
+	<td class="text-left"><a href= "view/308">Madara Uchiha, Sneering True Leader</a></td> 
+	<td class="text-center"><img src="img/belong/none.png" height="60px" width="60px"/></td>
+	<td class="text-center">30</td>
+	<td class="text-center">10,070</td>
+	<td class="text-center">14,303</td>
+	<td class="text-center">10,225</td>
+	<td class="text-center">148</td>
+  </tr>
+  
+  
+  </tbody>
+  </table>
+  <script type="text/javascript" src="js/datatables.min.js"></script>
 
-
-        <footer class="footer">
-            <p>&copy; Do we want a footer?</p>
-        </footer>
-
-    </div>
-    <script src="/flask-ghpages-example/static/js/script.js"></script>
-    </body>
-    </html>
+</body>
+</html>
