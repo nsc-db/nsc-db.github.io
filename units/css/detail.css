@@ -1,5 +1,6 @@
 body{
-	background-color: white;
+	background: white;
+	background-image: url("http://i.imgur.com/d7mHBPO.png");
 }
 
 table.att{
@@ -61,6 +62,12 @@ td#raijin{
 td#magnet{
 	color: black;
 }
+td#sharingan{
+	color: red;
+}
+td#tolerance{
+	color: red;
+}
 
 td#tech{
 	color: blue;
@@ -77,7 +84,18 @@ td#body{
 td#heart{
 	color: yellow;
 }
-
+td#chakra{
+	color: #939FC5;
+}
+td#status{
+	color: #660000;
+}
+td#ae{
+	color: #FFA500;
+}
+td#skill{
+	color: #FFFF00;
+}
 
 
 //Image
@@ -88,3 +106,4 @@ img{
 	display: block;
 	margin: 0 auto;
 }
+
