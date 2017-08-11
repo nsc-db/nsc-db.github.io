@@ -31,72 +31,45 @@ table.lead tr{
 	border: 1px solid black;
 	height: 30px;
 }
-//Nature Color
-td#none{
-	color: black;
-}
-td#fire{
-	color : red;
-}
-td#lightning{
-	color: blue;
-}
-td#wind{
-	color: green;
-}
-td#water{
-	color: #B3CCFF;
-}
-td#unique{
-	color: silver;
-}
-td#sage{
-	color: #3BCFC8;
-}
-td#sealing{
-	color: #6C5F7B;
-}
-td#raijin{
-	color: #F1CA4F;
-}
-td#magnet{
-	color: black;
-}
-td#sharingan{
-	color: red;
-}
-td#tolerance{
-	color: red;
-}
 
-td#tech{
-	color: blue;
-}
-td#mind{
-	color: black;
-}
-td#courage{
-	color: grey;
-}
-td#body{
-	color: red;
-}
-td#heart{
-	color: yellow;
-}
-td#chakra{
-	color: #939FC5;
-}
-td#status{
-	color: #660000;
-}
-td#ae{
-	color: #FFA500;
-}
-td#skill{
-	color: #FFFF00;
-}
+//Gear Classes
 
+td#One Star{
+    text-align: left;
+}
+td#Two Star{
+    text-align: left;
+}
+td#Three Star{
+    text-align: left;
+}
+td#Four Star{
+    text-align: left;
+}
+td#Five Star{
+    text-align: left;
+}
+td#Name-cell{
+    text-align: left;
+}
+td#Japanese Name-cell{
+    text-align: left;
+}
+td#Rarity-cell{
+    text-align: left;
+}
+td#Type-cell{
+    text-align: left;
+}
+td#Effect-cell{
+    text-align: left;
+}
+td#Unique Effect-cell{
+    text-align: left;
+}
+td#Unique Effect Units-cell{
+    text-align: left;
+}
 
 //Image
 h1{
