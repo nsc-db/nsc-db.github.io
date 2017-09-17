@@ -5,2332 +5,647 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Naruto Shinobi Collection Database</title>
 
-
+    <!--BOOTSTRAP -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
-    
-	
 
-
+    <!-- CSS -->
 	<link rel="stylesheet" type="text/css" href="css/datatables.min.css"/>
 	<link rel="stylesheet" type="text/css" href="css/style.css"/>
- 
+	
+	<!-- DATABASE ENTRIES -->
+	<script type="text/javascript" src="json/unit.js"></script>
+	<script type="text/javascript" src="json/detail.js"></script>
+
 	<style>
-		tr{
-			cursor: pointer;
-		}
+		tr{cursor: pointer;}
 	</style>
-	<script src="http://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-	<script>
-	$(document).ready( function () {
-		$('#myTable').DataTable({
-		});
-	} );
-</script>
+
+	<link rel="stylesheet" type="text/css" href="css/modal.css"/>
+	
 </head>
 
 <body>
+	<!-- MODAL -->
+	<div class="modal fade" id="newModal" tabindex="-1" role="dialog" aria-labelledby="newModalLabel" aria-hidden="true">
+		<div class="modal-dialog" role="document">
+			<div class="modal-content">
 
-    <div class="container">
-        <div class="header">
-            <h3 class="text-muted">Naruto Shinobi Collection Database</h3>
-            <h4 class="text-muted">Units</h4>
-            <p><a class="btn btn-lg btn-success" href="/" role="button">Front Page</a>
-            <a class="btn btn-lg btn-success" href="/units" role="button">Units</a>
-            <a class="btn btn-lg btn-success" href="/gear" role="button">Ninja Gear</a>
-            <a class="btn btn-lg btn-success" href="/guides" role="button">Guides</a>
-            <a class="btn btn-lg btn-success" href="/faq" role="button">FAQ</a>
+				<div class="modal-header">
+					<div class="row">
+						<div class="col-md-9 col-xs-6">
+							<div class="unit-icon">
+								<img id="icon-unit" src="">
+							</div>
+							<p id="type-unit" class="type" type="Body"></p>
+							<h3 id="name-unit"></h3>
+						</div>
+						<div class="col-md-3 col-xs-6">
+							<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+								<span aria-hidden="true">&times;</span>
+							</button>
+						</div>
+					</div>
+				</div>
 
-        </div>          
-    <div class="header">
-	<h2>Character Table</h2>
-	<table id="myTable" class="display" cellspacing="0" width="100%">
-    <thead>
-    
-	<tr>
-	<th style="text-center">NO</th>
-    <th style="width:.001%;"></th>
-    <th>Name</th>
-	<th class="text-center">Affiliation</th>
-	<th class="text-center">Rarity</th>
-	<th class="text-center">Cost</th>
-	<th class="text-center">HP</th>
-	<th class="text-center">ATK</th>
-	<th class="text-center">DEF</th>
-	<th class="text-center">SPD</th>
-    </tr>
-    </thead>
-       
-        <tbody>
-  <!-----------------------FP---------------------->
-     <tr class="clickable">
-    <td style="text-center">254</td>
-    <th><img src="http://i.imgur.com/w1oaQvD.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/254">Rock Lee, Rolling Fighting Spirit</a>
-	<div style="display:none;">FP</div> </td> 
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">24</td>
-	<td class="text-center">7,235</td>
-	<td class="text-center">9,803</td>
-	<td class="text-center">6,301</td>
-	<td class="text-center">136</td>
-  </tr>
-  
-  
-   <tr class="clickable">
-    <td style="text-center">169</td>
-    <th><img src="http://i.imgur.com/fD1nCLu.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/306">Kurenai Yuhi, Noble Illusion</a><div style="display:none;">FP</div></td>  
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">24</td>
-	<td class="text-center">11,160</td>
-	<td class="text-center">9,141</td>
-	<td class="text-center">11,241</td>
-	<td class="text-center">174</td>
-  </tr>
-  <tr class="clickable">
-    <td style="text-center">184</td>
-    <th><img src="http://i.imgur.com/DWRcTwf.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/321">Tenten, Weapon Specialist</a><div style="display:none;">FP</div></td>  
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">24</td>
-	<td class="text-center">9,261</td>
-	<td class="text-center">18,025</td>
-	<td class="text-center">9,282</td>
-	<td class="text-center">140</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">187</td>
-    <th><img src="http://i.imgur.com/3XyfI7B.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/327">Chiyo, Decayed Shinobi Flower</a><div style="display:none;">FP</div></td>  
-	<td class="text-center"><img src="img/belong/suna.png" height="60px" width="60px"/><div style="display:none;">Suna</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">24</td>
-	<td class="text-center">5,601</td>
-	<td class="text-center">7,935</td>
-	<td class="text-center">7,469</td>
-	<td class="text-center">126</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">188</td>
-    <th><img src="http://i.imgur.com/08F9Abo.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/328">Killer Bee, Brother's Pardon</a><div style="display:none;">FP</div></td>  
-	<td class="text-center"><img src="img/belong/kumo.png" height="60px" width="60px"/><div style="display:none;">Kumo</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">24</td>
-	<td class="text-center">7,235</td>
-	<td class="text-center">9,803</td>
-	<td class="text-center">6,301</td>
-	<td class="text-center">136</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">201</td>
-    <th><img src="http://i.imgur.com/ywsvsF2.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/351">Jugo, Origin of the Curse</a><div style="display:none;">FP</div></td>  
-	<td class="text-center"><img src="img/belong/taka.png" height="60px" width="60px"/><div style="display:none;">Taka</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">24</td>
-	<td class="text-center">7,935</td>
-	<td class="text-center">8,168</td>
-	<td class="text-center">7,235</td>
-	<td class="text-center">124</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">203</td>
-    <th><img src="http://i.imgur.com/dKtfgVX.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/353">Kakashi Hatake, Full Body Blow</a><div style="display:none;">FP</div></td>  
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">24</td>
-	<td class="text-center">10,080</td>
-	<td class="text-center">12,681</td>
-	<td class="text-center">9,560</td>
-	<td class="text-center">159</td>
-  </tr>
-  
-  
-  <tr class="clickable">
-    <td style="text-center">210</td>
-    <th><img src="http://i.imgur.com/NhPiF1y.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/360">Orochimaru, Despicable Invader</a><div style="display:none;">FP</div></td>  
-	<td class="text-center"><img src="img/belong/oto.png" height="60px" width="60px"/><div style="display:none;">Oto</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">24</td>
-	<td class="text-center">7,935</td>
-	<td class="text-center">9,569</td>
-	<td class="text-center">5,834</td>
-	<td class="text-center">124</td>
-  </tr>
-  <tr class="clickable">
-    <td style="text-center">216</td>
-    <th><img src="http://i.imgur.com/P1Rg65v.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/368">Hiashi Hyuga, Noble Pride</a><div style="display:none;">FP</div></td>  
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">24</td>
-	<td class="text-center">7,235</td>
-	<td class="text-center">9,803</td>
-	<td class="text-center">6,301</td>
-	<td class="text-center">136</td>
-  </tr>
-  <tr class="clickable">
-    <td style="text-center">223</td>
-    <th><img src="http://i.imgur.com/foOpmaQ.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/376">Minato Namikaze, Hero of the Hidden Lead</a><div style="display:none;">FP</div></td>  
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">24</td>
-	<td class="text-center">7,935</td>
-	<td class="text-center">8,168</td>
-	<td class="text-center">7,235</td>
-	<td class="text-center">124</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">225</td>
-    <th><img src="http://i.imgur.com/4hJxGMy.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/378">Gaara, Of Hate and Lonliness</a><div style="display:none;">FP</div></td>  
-	<td class="text-center"><img src="img/belong/suna.png" height="60px" width="60px"/><div style="display:none;">Suna</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">24</td>
-	<td class="text-center">7,935</td>
-	<td class="text-center">9,569</td>
-	<td class="text-center">5,834</td>
-	<td class="text-center">124</td>
-  </tr>
-  <tr class="clickable">
-    <td style="text-center">234</td>
-    <th><img src="http://i.imgur.com/tzReydW.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/387">C, Calm and Reassuring</a><div style="display:none;">FP</div></td>  
-	<td class="text-center"><img src="img/belong/kumo.png" height="60px" width="60px"/><div style="display:none;">Kumo</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">24</td>
-	<td class="text-center">8,869</td>
-	<td class="text-center">5,834</td>
-	<td class="text-center">8,635</td>
-	<td class="text-center">155</td>
-  </tr>
- 
-  <tr class="clickable">
-    <td style="text-center">240</td>
-    <th><img src="http://i.imgur.com/kTO0P5Z.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/393">Kimimaro, Dance of Slaughter</a><div style="display:none;">FP</div></td>  
-	<td class="text-center"><img src="img/belong/oto.png" height="60px" width="60px"/><div style="display:none;">Oto</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">24</td>
-	<td class="text-center">8,869</td>
-	<td class="text-center">7,702</td>
-	<td class="text-center">6,768</td>
-	<td class="text-center">126</td>
-  </tr>
-  <tr class="clickable">
-    <td style="text-center">246</td>
-    <th><img src="http://i.imgur.com/opDB2ij.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/399">Zetsu, A Different Form</a><div style="display:none;">FP</div></td>  
-	<td class="text-center"><img src="img/belong/akatsuki.png" height="60px" width="60px"/><div style="display:none;">Akatsuki</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">24</td>
-	<td class="text-center">14,662</td>
-	<td class="text-center">7,461</td>
-	<td class="text-center">10,722</td>
-	<td class="text-center">136</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">247</td>
-    <th><img src="http://i.imgur.com/zrX55LT.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/400">Choji Akimichi, Obtained Self-Confidence</a><div style="display:none;">FP</div></td>  
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">24</td>
-	<td class="text-center">8,301</td>
-	<td class="text-center">17,661</td>
-	<td class="text-center">5,340</td>
-	<td class="text-center">146</td>
-  </tr>
-  
-   
-  <tr class="clickable">
-    <td style="text-center">144</td>
-    <th><img src="http://i.imgur.com/P4vrBKv.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/246">Boruto Uzumaki</a><div style="display:none;">FP</div></td>  
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">16</td>
-	<td class="text-center">8,751</td>
-	<td class="text-center">11,612</td>
-	<td class="text-center">7,901</td>
-	<td class="text-center">135</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">145</td>
-    <th><img src="http://i.imgur.com/dpegRTu.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/247">Sarada Uchiha, Hokage Aspirer</a><div style="display:none;">FP</div></td>  
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">16</td>
-	<td class="text-center">8,251</td>
-	<td class="text-center">12,277</td>
-	<td class="text-center">7,736</td>
-	<td class="text-center">124</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">146</td>
-    <th><img src="http://i.imgur.com/h2Hy5B2.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/248">Naruto Uzumaki, Seventh Hokage</a><div style="display:none;">FP</div></td>  
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td><td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">24</td>
-	<td class="text-center">10,080</td>
-	<td class="text-center">12,681</td>
-	<td class="text-center">9,560</td>
-	<td class="text-center">134</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">147</td>
-    <th><img src="http://i.imgur.com/aHhw5fx.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/147">Sasuke Uchiha, One-Armed Swordsman</a><div style="display:none;">FP</div></td>  
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">16</td>
-	<td class="text-center">7,954</td>
-	<td class="text-center">12,883</td>
-	<td class="text-center">8,134</td>
-	<td class="text-center">131</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">131</td>
-    <th><img src="http://i.imgur.com/beBL1Xc.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/233">Sasuke Uchiha, Curse Release</a><div style="display:none;">FP</div></td>  
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">24</td>
-	<td class="text-center">9,240</td>
-	<td class="text-center">14,481</td>
-	<td class="text-center">8,600</td>
-	<td class="text-center">159</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">113</td>
-    <th><img src="http://i.imgur.com/HoUkCdn.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/175">Kabuto Yakushi, Aloof Genius</a><div style="display:none;">FP</div></td>  
-	<td class="text-center"><img src="img/belong/oto.png" height="60px" width="60px"/><div style="display:none;">Oto</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">24</td>
-	<td class="text-center">7,002</td>
-	<td class="text-center">7,235</td>
-	<td class="text-center">7,935</td>
-	<td class="text-center">161</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">114</td>
-    <th><img src="http://i.imgur.com/DCZ9zUa.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/176">Asuma Sarutobi, Blade of Konohagakure</a><div style="display:none;">FP</div></td>  
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">24</td>
-	<td class="text-center">7,935</td>
-	<td class="text-center">8,168</td>
-	<td class="text-center">7,235</td>
-	<td class="text-center">124</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">094</td>
-	<th><img src="http://i.imgur.com/wt3CnTz.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/164">Sakura Haruno, Spring Breeze</a><div style="display:none;">FP</div></td>  
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">24</td>
-	<td class="text-center">7,162</td>
-	<td class="text-center">6,669</td>
-	<td class="text-center">9,139</td>
-	<td class="text-center">126</td>
-  </tr>
-  <!-----------------------Gacha---------------------->
-  <tr class="clickable">
-    <td style="text-center">003</td>
-    <th><img src="http://i.imgur.com/SUNzsyJ.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/003">Sasuke Uchiha, Innate Talent</a><div style="display:none;">Gacha</div></td>  
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">26</td>
-	<td class="text-center">13,341</td>
-	<td class="text-center">12,467</td>
-	<td class="text-center">9,250</td> 
-	<td class="text-center">150</td>
-  </tr>
-  
-  <tr class="clickable">
-	<td style="text-center">006</td>
-    <th><img src="http://i.imgur.com/WkvT6uB.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/029">Kakashi Hatake, Carnage Lightning</a><div style="display:none;">Gacha</div></td>  
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td><td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">26</td>
-	<td class="text-center">12,100</td>
-	<td class="text-center">11,011</td>
-	<td class="text-center">11,826</td>
-	<td class="text-center">136</td>
-  </tr> 
-  
-  <tr class="clickable">
-    <td style="text-center">049</td>
-	<th><img src="http://i.imgur.com/0u6gByj.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/059">Naruto Uzumaki, Road to Hokage</a><div style="display:none;">Gacha</div></td>  
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td><td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">26</td>
-	<td class="text-center">15,956</td>
-	<td class="text-center">15,563</td>
-	<td class="text-center">8,539</td>
-	<td class="text-center">123</td>
-  </tr> 
-  
-  <tr class="clickable">
-    <td style="text-center">060</td>
-	<th><img src="http://i.imgur.com/TCFuNCZ.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/068">Gaara, Dust Style Dance</a><div style="display:none;">Gacha</div></td>  
-	<td class="text-center"><img src="img/belong/suna.png" height="60px" width="60px"/><div style="display:none;">Suna</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">26</td>
-	<td class="text-center">12,797</td>
-	<td class="text-center">8,133</td>
-	<td class="text-center">13,347</td>
-	<td class="text-center">111</td>
-  </tr>
-  
-  
-  
-  <tr class="clickable">
-	<td style="text-center">045</td>
-    <th><img src="http://i.imgur.com/S0MrKGi.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/159">Itachi Uchiha, Akatsuki's Carnage</a><div style="display:none;">Gacha</div></td>  
-	<td class="text-center"><img src="img/belong/akatsuki.png" height="60px" width="60px"/><div style="display:none;">Akatsuki</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">27</td>
-	<td class="text-center">14,030</td>
-	<td class="text-center">11,407</td>
-	<td class="text-center">10,263</td>
-	<td class="text-center">144</td>
-  </tr>
-  
-  <tr class="clickable">
-	<td style="text-center">047</td>
-    <th><img src="http://i.imgur.com/5kST8PP.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/159">Kisame Hoshigaki, Mad Villain's Dance</a><div style="display:none;">Gacha</div></td>  
-	<td class="text-center"><img src="img/belong/akatsuki.png" height="60px" width="60px"/><div style="display:none;">Akatsuki</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">26</td>
-	<td class="text-center">9,831</td>
-	<td class="text-center">16,757</td>
-	<td class="text-center">8,470</td>
-	<td class="text-center">150</td>
-  </tr>
-  
-  <tr class="clickable">
-	<td style="text-center">100</td>
-    <th><img src="http://i.imgur.com/tT9KiJJ.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/160">Sasori, Immediate Apocalypse</a><div style="display:none;">Gacha</div></td>  
-	<td class="text-center"><img src="img/belong/akatsuki.png" height="60px" width="60px"/><div style="display:none;">Akatsuki</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">26</td>
-	<td class="text-center">11,696</td>
-	<td class="text-center">13,660</td>
-	<td class="text-center">9,701</td>
-	<td class="text-center">136</td>
-  </tr>
-  
-  <tr class="clickable">
-	<td style="text-center">101</td>
-    <th><img src="http://i.imgur.com/JAZEIwn.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/163">Tsunade, Time to Decide</a><div style="display:none;">Gacha</div></td>  
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">26</td>
-	<td class="text-center">12,431</td>
-	<td class="text-center">11,352</td>
-	<td class="text-center">9,088</td>
-	<td class="text-center">155</td>
-  </tr>
-  
-  <tr class="clickable">
-	<td style="text-center">102</td>
-    <th><img src="http://i.imgur.com/KaXTUdf.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/164">Orochimaru, Unlocked Mind</a><div style="display:none;">Gacha</div></td>  
-	<td class="text-center"><img src="img/belong/oto.png" height="60px" width="60px"/><div style="display:none;">Oto</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">27</td>
-	<td class="text-center">10,520</td>
-	<td class="text-center">15,924</td>
-	<td class="text-center">9,254</td>
-	<td class="text-center">151</td>
-  </tr>
- 
- <tr class="clickable">
-    <td style="text-center">103</td>
-    <th><img src="http://i.imgur.com/UJbOBcy.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/165">Jiraiya, Mount Myoboku's Hermit</a><div style="display:none;">Gacha</div></td>  
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">26</td>
-	<td class="text-center">13,256</td>
-	<td class="text-center">10,800</td>
-	<td class="text-center">10,741</td>
-	<td class="text-center">141</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">104</td>
-    <th><img src="http://i.imgur.com/ETry0DD.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/166">Neji Hyuga, Hyuga's Talented Instrument</a><div style="display:none;">Gacha</div></td>  
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">27</td>
-	<td class="text-center">9,403</td>
-	<td class="text-center">18,310</td>
-	<td class="text-center">7,854</td>
-	<td class="text-center">125</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">105</td>
-    <th><img src="http://i.imgur.com/sQkJoja.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/167">Hinata Hyuga, Break with the Past</a><div style="display:none;">Gacha</div></td>  
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">26</td>
-	<td class="text-center">10,648</td>
-	<td class="text-center">10,800</td>
-	<td class="text-center">12,782</td>
-	<td class="text-center">123</td>
-  </tr>
-  
+				<div class="modal-body">
+					<div class="base-unit-view">
 
-  
-  
-  
-  <tr class="clickable">
-    <td style="text-center">048</td>
-    <th><img src="http://i.imgur.com/r7XoNr8.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/189">Pain, God's Choice</a><div style="display:none;">Gacha</div></td>  
-	<td class="text-center"><img src="img/belong/akatsuki.png" height="60px" width="60px"/><div style="display:none;">Akatsuki</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">27</td>
-	<td class="text-center">10,250</td>
-	<td class="text-center">16,329</td>
-	<td class="text-center">8,984</td>
-	<td class="text-center">151</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">062</td>
-    <th><img src="http://i.imgur.com/qXwJ57f.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/191">Deidara, Brilliant Explosion</a><div style="display:none;">Gacha</div></td>  
-	<td class="text-center"><img src="img/belong/akatsuki.png" height="60px" width="60px"/><div style="display:none;">Akatsuki</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">26</td>
-	<td class="text-center">11,046</td>
-	<td class="text-center">13,530</td>
-	<td class="text-center">10,091</td>
-	<td class="text-center">144</td>
-  </tr>
-  
-   <tr class="clickable">
-    <td style="text-center">063</td>
-    <th><img src="http://i.imgur.com/vKryGek.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/192">Hidan, Ruler of Fates</a><div style="display:none;">Gacha</div></td>  
-	<td class="text-center"><img src="img/belong/akatsuki.png" height="60px" width="60px"/><div style="display:none;">Akatsuki</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">26</td>
-	<td class="text-center">10,388</td>
-	<td class="text-center">16,434</td>
-	<td class="text-center">6,857</td>
-	<td class="text-center">150</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">119</td>
-    <th><img src="http://i.imgur.com/wEcMd0X.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/194">Minato Namikaze, Fourth Hokage</a><div style="display:none;">Gacha</div></td>  
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td><td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">27</td>
-	<td class="text-center">11,128</td>
-	<td class="text-center">13,011</td>
-	<td class="text-center">10,429</td>
-	<td class="text-center">163</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">120</td>
-    <th><img src="http://i.imgur.com/boZrdN8.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/195">Zabuza Momochi, Kirigakure Demon</a><div style="display:none;">Gacha</div></td>  
-	<td class="text-center"><img src="img/belong/kiri.png" height="60px" width="60px"/><div style="display:none;">Kiri</div></td></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">26</td>
-	<td class="text-center">9,006</td>
-	<td class="text-center">18,683</td>
-	<td class="text-center">7,369</td>
-	<td class="text-center">123</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">121</td>
-    <th><img src="http://i.imgur.com/EVVbo3o.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/196">Haku, Ice Mask</a><div style="display:none;">Gacha</div></td>  
-	<td class="text-center"><img src="img/belong/kiri.png" height="60px" width="60px"/><div style="display:none;">Kiri</div></td></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">26</td>
-	<td class="text-center">10,871</td>
-	<td class="text-center">12,262</td>
-	<td class="text-center">11,217</td>
-	<td class="text-center">195</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">124</td>
-    <th><img src="http://i.imgur.com/scsLkkp.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/226">Shikimaru Naru, Mechination of Genius</a><div style="display:none;">Gacha</div></td>  
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">26</td>
-	<td class="text-center">13,530</td>
-	<td class="text-center">8,876</td>
-	<td class="text-center">11,566</td>
-	<td class="text-center">174</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">125</td>
-    <th><img src="http://i.imgur.com/tKhkBLi.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/227">Choji Akimichi, Time of Awakening</a><div style="display:none;">Gacha</div></td>  
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">26</td>
-	<td class="text-center">9,136</td>
-	<td class="text-center">18,423</td>
-	<td class="text-center">7,499</td>
-	<td class="text-center">117</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">126</td>
-    <th><img src="http://i.imgur.com/gAak6Qz.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/228">Kimimaro, Where the Soul Resides</a><div style="display:none;">Gacha</div></td>  
-	<td class="text-center"><img src="img/belong/oto.png" height="60px" width="60px"/><div style="display:none;">Oto</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">27</td>
-	<td class="text-center">14,929</td>
-	<td class="text-center">11,490</td>
-	<td class="text-center">13,918</td>
-	<td class="text-center">141</td>
-  </tr>
- 
-  <tr class="clickable">
-    <td style="text-center">135</td>
-    <th><img src="http://i.imgur.com/O7KMSQs.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/237">Sakura Haruno, Rising Talent</a><div style="display:none;">Gacha</div></td>  
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td><td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">26</td>
-	<td class="text-center">10,826</td>
-	<td class="text-center">13,897</td>
-	<td class="text-center">8,279</td>
-	<td class="text-center">145</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">139</td>
-    <th><img src="http://i.imgur.com/YYwKdyz.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/139">Sasuke Uchiha, Thunder Demon's Revenge</a><div style="display:none;">Gacha</div></td>  
-	<td class="text-center"><img src="img/belong/hebi.png" height="60px" width="60px"/><div style="display:none;">Hebi</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">27</td>
-	<td class="text-center">9,403</td>
-	<td class="text-center">18,175</td>
-	<td class="text-center">7,854</td>
-	<td class="text-center">130</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">140</td>
-    <th><img src="http://i.imgur.com/MO4hueF.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/242">Itachi Uchiha, Light-Seeking Sharingan</a><div style="display:none;">Gacha</div></td>  
-	<td class="text-center"><img src="img/belong/akatsuki.png" height="60px" width="60px"/><div style="display:none;">Akatsuki</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">28</td>
-	<td class="text-center">12,195</td>
-	<td class="text-center">17,073</td>
-	<td class="text-center">9,582</td>
-	<td class="text-center">166</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">150</td>
-    <th><img src="http://i.imgur.com/H6Df21C.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/277">Might Gai, Turbulent Fist</a><div style="display:none;">Gacha</div></td>  
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">27</td>
-	<td class="text-center">9,954</td>
-	<td class="text-center">18,469</td>
-	<td class="text-center">6,710</td>
-	<td class="text-center">151</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">151</td>
-    <th><img src="http://i.imgur.com/q4qEerG.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/278">Kakashi Hatake, Konoha's Technician</a><div style="display:none;">Gacha</div></td>  
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">27</td>
-	<td class="text-center">12,140</td>
-	<td class="text-center">11,947</td>
-	<td class="text-center">11,343</td>
-	<td class="text-center">146</td>
-  </tr>
-  
-    
-  
-  
-  <tr class="clickable">
-    <td style="text-center">156</td>
-    <th><img src="http://i.imgur.com/2qQcry4.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/284">Jiraiya, Disciple of the Toad</a><div style="display:none;">Gacha</div></td>  
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">27</td>
-	<td class="text-center">11,411</td>
-	<td class="text-center">12,163</td>
-	<td class="text-center">11,559</td>
-	<td class="text-center">144</td>
-  </tr>
-  
- 
-  <tr class="clickable">
-    <td style="text-center">163</td>
-    <th><img src="http://i.imgur.com/BOM2cFl.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/294">Gaara, Fifth Kazekage</a><div style="display:none;">Gacha</div></td>  
-	<td class="text-center"><img src="img/belong/suna.png" height="60px" width="60px"/><div style="display:none;">Suna</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">27</td>
-	<td class="text-center">14,582</td>
-	<td class="text-center">11,137</td>
-	<td class="text-center">13,665</td>
-	<td class="text-center">144</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">164</td>
-    <th><img src="http://i.imgur.com/rUU0Tov.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/295">Oonoki, Jinton Master </a><div style="display:none;">Gacha</div></td>  
-	<td class="text-center"><img src="img/belong/iwa.png" height="60px" width="60px"/><div style="display:none;">Iwa</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">27</td>
-	<td class="text-center">9,487</td>
-	<td class="text-center">11,233</td>
-	<td class="text-center">12,461</td>
-	<td class="text-center">149</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">165</td>
-    <th><img src="http://i.imgur.com/HT17K6g.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/296">Mei Terumi, Captivating Glance</a><div style="display:none;">Gacha</div></td>  
-	<td class="text-center"><img src="img/belong/kiri.png" height="60px" width="60px"/><div style="display:none;">Kiri</div></td></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">27</td>
-	<td class="text-center">10,983</td>
-	<td class="text-center">10,976</td>
-	<td class="text-center">12,622</td>
-	<td class="text-center">130</td>
-  </tr>
-  
- 
-  
-  
-  
-  <tr class="clickable">
-    <td style="text-center">172</td>
-    <th><img src="http://i.imgur.com/Hf0UIkl.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/309">Minato Namikaze, Warm Heart</a><div style="display:none;">Gacha</div></td>  
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td><td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">28</td>
-	<td class="text-center">10,893</td>
-	<td class="text-center">13,797</td>
-	<td class="text-center">10,314</td>
-	<td class="text-center">174</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">173</td>
-    <th><img src="http://i.imgur.com/avj4lkp.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/310">Kushina Uzumaki, Benevolent Heart</a><div style="display:none;">Gacha</div></td>  
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">27</td>
-	<td class="text-center">11,279</td>
-	<td class="text-center">17,770</td>
-	<td class="text-center">8,124</td>
-	<td class="text-center">125</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">178</td>
-    <th><img src="http://i.imgur.com/epMhvoP.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/315">Might Gai, Strike of Youth</a><div style="display:none;">Gacha</div></td>  
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">28</td>
-	<td class="text-center">10,380</td>
-	<td class="text-center">18,586</td>
-	<td class="text-center">6,765</td>
-	<td class="text-center">152</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">179</td>
-    <th><img src="http://i.imgur.com/VWOdyf4.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/316">Rock Lee, Indomitable Fighting Spirit</a><div style="display:none;">Gacha</div></td>  
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">27</td>
-	<td class="text-center">7,544</td>
-	<td class="text-center">17,217</td>
-	<td class="text-center">9,967</td>
-	<td class="text-center">157</td>
-  </tr>
-   
-  <tr class="clickable">
-    <td style="text-center">189</td>
-    <th><img src="http://i.imgur.com/Pm2JNCQ.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/329">Sasori, Immortal Forever</a><div style="display:none;">Gacha</div></td>  
-	<td class="text-center"><img src="img/belong/akatsuki.png" height="60px" width="60px"/><div style="display:none;">Akatsuki</div></td><td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">27</td>
-	<td class="text-center">10,385</td>
-	<td class="text-center">16,059</td>
-	<td class="text-center">9,119</td>
-	<td class="text-center">151</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">190</td>
-    <th><img src="http://i.imgur.com/MPqZ7Un.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/329">Sakura Haruno, Fascinating Cerry Blossom</a><div style="display:none;">Gacha</div></td>  
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">27</td>
-	<td class="text-center">10,790</td>
-	<td class="text-center">14,512</td>
-	<td class="text-center">8,283</td>
-	<td class="text-center">154</td>
-  </tr>
-  
-  
-  
-  <tr class="clickable">
-    <td style="text-center">196</td>
-    <th><img src="http://i.imgur.com/dGRZtyt.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/342">Sasuke Uchiha, Sprinting Towards Darkness</a><div style="display:none;">Gacha</div></td>  
-	<td class="text-center"><img src="img/belong/taka.png" height="60px" width="60px"/><div style="display:none;">Taka</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">28</td>
-	<td class="text-center">11,743</td>
-	<td class="text-center">13,958</td>
-	<td class="text-center">10,433</td>
-	<td class="text-center">152</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">197</td>
-    <th><img src="http://i.imgur.com/4Jo7lY1.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/343">A, Fourth Raikage</a><div style="display:none;">Gacha</div></td>  
-	<td class="text-center"><img src="img/belong/kumo.png" height="60px" width="60px"/><div style="display:none;">Kumo</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">28</td>
-	<td class="text-center">9,530</td>
-	<td class="text-center">18,425</td>
-	<td class="text-center">7,796</td>
-	<td class="text-center">134</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">198</td>
-    <th><img src="http://i.imgur.com/HNXWpWl.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/344">Darui, Hero of Kumogakure</a><div style="display:none;">Gacha</div></td>  
-	<td class="text-center"><img src="img/belong/kumo.png" height="60px" width="60px"/><div style="display:none;">Kumo</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">27</td>
-	<td class="text-center">13,984</td>
-	<td class="text-center">9,735</td>
-	<td class="text-center">11,574</td>
-	<td class="text-center">141</td>
-  </tr>
-  
-  
-  <tr class="clickable">
-    <td style="text-center">205</td>
-    <th><img src="http://i.imgur.com/dhHxqlD.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/355">Konan, Angel of Death</a><div style="display:none;">Gacha</div></td>  
-	<td class="text-center"><img src="img/belong/akatsuki.png" height="60px" width="60px"/><div style="display:none;">Akatsuki</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">27</td>
-	<td class="text-center">10,848</td>
-	<td class="text-center">10,841</td>
-	<td class="text-center">13,027</td>
-	<td class="text-center">127</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">206</td>
-    <th><img src="http://i.imgur.com/JkUjukS.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/356">Itachi Uchiha, Carnage of the Past</a><div style="display:none;">Gacha</div></td>  
-	<td class="text-center"><img src="img/belong/akatsuki.png" height="60px" width="60px"/><div style="display:none;">Akatsuki</div></td><td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">28</td>
-	<td class="text-center">11,453</td>
-	<td class="text-center">13,377</td>
-	<td class="text-center">10,734</td>
-	<td class="text-center">165</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">207</td>
-    <th><img src="http://i.imgur.com/cIYMi7V.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/357">Kisame Hoshigaki, Phantom of the Hidden Mist</a><div style="display:none;">Gacha</div></td>  
-	<td class="text-center"><img src="img/belong/akatsuki.png" height="60px" width="60px"/><div style="display:none;">Akatsuki</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">28</td>
-	<td class="text-center">9,390</td>
-	<td class="text-center">19,405</td>
-	<td class="text-center">7,516</td>
-	<td class="text-center">126</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">209</td>
-    <th><img src="http://i.imgur.com/e86qHm7.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/359">Naruto Uzumaki, Leap of Power</a><div style="display:none;">Gacha</div></td>  
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">28</td>
-	<td class="text-center">10,539</td>
-	<td class="text-center">16,534</td>
-	<td class="text-center">9,099</td>
-	<td class="text-center">152</td>
-  </tr>
- 
-  <tr class="clickable">
-    <td style="text-center">212</td>
-    <th><img src="http://i.imgur.com/jpvhRe3.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/364">Shikamaru Nara, Art of War</a><div style="display:none;">Gacha</div></td>  
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">27</td>
-	<td class="text-center">13,811</td>
-	<td class="text-center">8,998</td>
-	<td class="text-center">11,773</td>
-	<td class="text-center">176</td>
-  </tr>
-  
-  
-  
-  <tr class="clickable">
-    <td style="text-center">211</td>
-    <th><img src="http://i.imgur.com/lVfAwb5.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/369">Asuma Sarutobi, Explosive Ash Flame</a><div style="display:none;">Gacha</div></td>  
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">27</td>
-	<td class="text-center">12,229</td>
-	<td class="text-center">13,515</td>
-	<td class="text-center">9,414</td>
-	<td class="text-center">141</td>
-  </tr>
-  
-  
-  
-  <tr class="clickable">
-    <td style="text-center">220</td>
-    <th><img src="http://i.imgur.com/InC1iNE.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/373">Shisui Uchiha, Handsome Uchiha Hero</a><div style="display:none;">Gacha</div></td>  
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td><td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">28</td>
-	<td class="text-center">11,649</td>
-	<td class="text-center">13,153</td>
-	<td class="text-center">10,370</td>
-	<td class="text-center">177</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">221</td>
-    <th><img src="http://i.imgur.com/tFqNs9N.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/374">Kakashi Hatake, ANBU Thunder Blade</a><div style="display:none;">Gacha</div></td>  
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">27</td>
-	<td class="text-center">10,250</td>
-	<td class="text-center">16,059</td>
-	<td class="text-center">8,849</td>
-	<td class="text-center">151</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">222</td>
-    <th><img src="http://i.imgur.com/TTeO3Gs.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/375">Tenzo, Mokuton User</a><div style="display:none;">Gacha</div></td>  
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">27</td>
-	<td class="text-center">10,655</td>
-	<td class="text-center">13,972</td>
-	<td class="text-center">12,268</td>
-	<td class="text-center">144</td>
-  </tr>
-  
-  
-  
-  
-  <tr class="clickable">
-    <td style="text-center">229</td>
-    <th><img src="http://i.imgur.com/5TmTiPi.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/382">Orochimaru, Ninjutsu Collector</a><div style="display:none;">Gacha</div></td>  
-	<td class="text-center"><img src="img/belong/oto.png" height="60px" width="60px"/><div style="display:none;">Oto</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">28</td>
-	<td class="text-center">14,952</td>
-	<td class="text-center">10,561</td>
-	<td class="text-center">11,080</td>
-	<td class="text-center">145</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">230</td>
-    <th><img src="http://i.imgur.com/9FZCq1w.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/383">Jiraiya, Time to Choose</a><div style="display:none;">Gacha</div></td>  
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">28</td>
-	<td class="text-center">11,239</td>
-	<td class="text-center">14,434</td>
-	<td class="text-center">10,219</td>
-	<td class="text-center">158</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">231</td>
-    <th><img src="http://i.imgur.com/O2Z5apx.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/384">Naruto Uzumaki, Overflowing Power</a><div style="display:none;">Gacha</div></td>  
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td><td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">27</td>
-	<td class="text-center">8,283</td>
-	<td class="text-center">20,545</td>
-	<td class="text-center">5,052</td>
-	<td class="text-center">151</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">232</td>
-    <th><img src="http://i.imgur.com/5g6SdE1.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/385">Hiruzen Sarutobi, Veteran Shinobi</a><div style="display:none;">Gacha</div></td>  
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">28</td>
-	<td class="text-center">10,454</td>
-	<td class="text-center">14,518</td>
-	<td class="text-center">9,000</td>
-	<td class="text-center">145</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">233</td>
-    <th><img src="http://i.imgur.com/xUEb2Py.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/386">Naruto Uzumaki, Ichiraku Regular</a><div style="display:none;">Gacha</div></td>  
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">30</td>
-	<td class="text-center">10,070</td>
-	<td class="text-center">14,303</td>
-	<td class="text-center">10,225</td>
-	<td class="text-center">148</td>
-  </tr>
-  
-  
-  <tr class="clickable">
-    <td style="text-center">242</td>
-    <th><img src="http://i.imgur.com/oNV3Dib.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/395">Minato Namikaze, Shinobi's Pride</a><div style="display:none;">Gacha</div></td>  
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">28</td>
-	<td class="text-center">10,959</td>
-	<td class="text-center">15,274</td>
-	<td class="text-center">9,799</td>
-	<td class="text-center">158</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">243</td>
-    <th><img src="http://i.imgur.com/MITUBwZ.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/396">Gaara, Ties and Bonds</a><div style="display:none;">Gacha</div></td>  
-	<td class="text-center"><img src="img/belong/suna.png" height="60px" width="60px"/><div style="display:none;">Suna</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">28</td>
-	<td class="text-center">13,153</td>
-	<td class="text-center">12,330</td>
-	<td class="text-center">10,550</td>
-	<td class="text-center">145</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">244</td>
-    <th><img src="http://i.imgur.com/w7KFsnP.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/397">Might Gai, Fly Away Youth</a><div style="display:none;">Gacha</div></td>  
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">28</td>
-	<td class="text-center">11,411</td>
-	<td class="text-center">16,104</td>
-	<td class="text-center">8,518</td>
-	<td class="text-center">145</td>
-  </tr>
-  
+						<div class="base-toggle">
+							<a class="toggle-rarity" id="toggleRarity"></a>
+						</div>
+						
+						<div class="content-rarity">
 
-   <tr class="clickable">
-    <td style="text-center">250</td>
-    <th><img src="http://i.imgur.com/Nmr8SJP.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/250">Tobirama Senju, Judgement of Keen Insight</a><div style="display:none;">Gacha</div></td>  
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">28</td>
-	<td class="text-center">10,753</td>
-	<td class="text-center">14,777</td>
-	<td class="text-center">10,034</td>
-	<td class="text-center">165</td>
-  </tr>
-  
-   <tr class="clickable">
-    <td style="text-center">251</td>
-    <th><img src="http://i.imgur.com/oif9hC4.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/251">Hashirama Senju, Unparalleled Valor</a><div style="display:none;">Gacha</div></td>  
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">28</td>
-	<td class="text-center">14,082</td>
-	<td class="text-center">11,721</td>
-	<td class="text-center">10,790</td>
-	<td class="text-center">155</td>
-  </tr>
-  
+							<div id="five-star">
+								<div class="row">
+									<div class="col-md-4">
+										<div class="img-unit">
+											<img id="card-art-five-star" src="">
+										</div>
+									</div>
+									<div class="col-md-8">
+										<div class="base-tables">
+											<div class="row">
+												<div class="col-md-12">
+													<ul class="nav nav-nscdb" role="tablist">
+														<li class="active"><a id="skills-btn" class="active" data-toggle="tab" href="#skills">Skills</a></li>
+														<li><a id="ability-btn" data-toggle="tab" href="#ability">Abilities</a></li>
+														<li><a id="status-btn" data-toggle="tab" href="#status">Status</a></li>
+														<li class="hidden"><a id="gear-btn" data-toggle="tab" href="#gear">Gear</a></li>
+													</ul>
+												</div>
+												<div class="col-md-12">
+													<div class="tab-content">
+														<div class="tab-pane active" id="skills">
+															<div class="base-skill">
+																<div class="header">
+																	<div class="type">
+																		<h4 id="skill1type-five"></h4>
+																	</div>
+																	<div class="title">
+																		<h3 id="skill1name-five"></h3>
+																		<p id="skill1ogname-five"></p>
+																	</div>
+																	<div class="speed">
+																		<p id="skill1speed-five"></p>
+																	</div>
+																	<div class="chakra">
+																		<p id="skill1cost-five"></p>
+																	</div>
+																</div>
+																<div class="description">
+																	<p id="skill1-five"></p>
+																</div>
+															</div>
+															<div class="base-skill">
+																<div class="header">
+																	<div class="type">
+																		<h4 id="skill2type-five"></h4>
+																	</div>
+																	<div class="title">
+																		<h3 id="skill2name-five"></h3>
+																		<p id="skill2ogname-five"></p>
+																	</div>
+																	<div class="speed">
+																		<p id="skill2speed-five"></p>
+																	</div>
+																	<div class="chakra">
+																		<p id="skill2cost-five"></p>
+																	</div>
+																</div>
+																<div class="description">
+																	<p id="skill2-five"></p>
+																</div>
+															</div>
+														</div>
+														<div class="tab-pane fade" id="ability">
+															<div class="base-ability">
+																<div class="header leader">
+																	<div class="type">
+																		<h4>Leader</h4>
+																	</div>
+																	<div class="title">
+																		<h3 id="leadname-five"></h3>
+																	</div>
+																</div>
+																<div class="description">
+																	<p id="lead-five"></p>
+																</div>
+															</div>
+															<div class="base-ability">
+																<div class="header">
+																	<div class="type">
+																		<h4>Ability 1</h4>
+																	</div>
+																	<div class="title">
+																		<h3 id="ability1name-five"></h3>
+																	</div>
+																</div>
+																<div class="description">
+																	<p id="ability1-five"></p>
+																</div>
+															</div>
+															<div class="base-ability">
+																<div class="header">
+																	<div class="type">
+																		<h4>Ability 2</h4>
+																	</div>
+																	<div class="title">
+																		<h3 id="ability2name-five"></h3>
+																	</div>
+																</div>
+																<div class="description">
+																	<p id="ability2-five"></p>
+																</div>
+															</div>
+														</div>
+														<div class="tab-pane fade" id="status">
+															<table class="table">
+																<thead>
+																	<tr>
+																		<th></th>
+																		<th>Base Value</th>
+																		<th>Ability Increase</th>
+																		<th>Gear Increase</th>
+																		<th>Max</th>
+																	</tr>
+																</thead>
+																<tbody>
+																	<tr>
+																		<td>HP</td>
+																		<td id="base-hp-five"></td>
+																		<td id="ability-hp-five"></td>
+																		<td id="gear-hp-five"></td>
+																		<td id="max-hp-five"></td>
+																	</tr>
+																	<tr>
+																		<td>Attack</td>
+																		<td id="base-atk-five"></td>
+																		<td id="ability-atk-five"></td>
+																		<td id="gear-atk-five"></td>
+																		<td id="max-atk-five"></td>
+																	</tr>
+																	<tr>
+																		<td>Defense</td>
+																		<td id="base-def-five"></td>
+																		<td id="ability-def-five"></td>
+																		<td id="gear-def-five"></td>
+																		<td id="max-def-five"></td>
+																	</tr>
+																	<tr>
+																		<td>Agility</td>
+																		<td id="base-agility-five"></td>
+																		<td id="ability-agility-five"></td>
+																		<td id="gear-agility-five"></td>
+																		<td id="max-agility-five"></td>
+																	</tr>
+																	<tr>
+																		<td>Evasion Rate</td>
+																		<td id="base-evasion-five">%</td>
+																		<td id="ability-evasion-five">%</td>
+																		<td id="gear-evasion-five">%</td>
+																		<td id="max-evasion-five">%</td>
+																	</tr>
+																	<tr>
+																		<td>Critical Rate</td>
+																		<td id="base-criticalrate-five">%</td>
+																		<td id="ability-criticalrate-five">%</td>
+																		<td id="gear-criticalrate-five">%</td>
+																		<td id="max-criticalrate-five">%</td>
+																	</tr>
+																	<tr>
+																		<td>Critical Power</td>
+																		<td id="base-criticalpower-five">%</td>
+																		<td id="ability-criticalpower-five">%</td>
+																		<td id="gear-criticalpower-five">%</td>
+																		<td id="max-criticalpower-five">%</td>
+																	</tr>
+																</tbody>
+															</table>
+														</div>
+														<div class="tab-pane fade hidden" id="gear">
+															<div class="base-gear">
+																<div class="icon">
+																	<img class="gearicon" src="">
+																</div>
+																<div class="info">
+																	<div class="header">
+																		<div class="type">
+																			<h4 class="geartype"></h4>
+																		</div>
+																		<div class="title">
+																			<h3 class="gearname"></h3>
+																		</div>
+																	</div>
+																	<div class="description">
+																		<p class="geardescription"></p>
+																	</div>
+																</div>
+															</div>
+															<div class="base-gear">
+																<div class="icon">
+																	<img class="gearicon" src="">
+																</div>
+																<div class="info">
+																	<div class="header">
+																		<div class="type">
+																			<h4 class="geartype"></h4>
+																		</div>
+																		<div class="title">
+																			<h3 class="gearname"></h3>
+																		</div>
+																	</div>
+																	<div class="description">
+																		<p class="geardescription"></p>
+																	</div>
+																</div>
+															</div>
+															<div class="base-gear">
+																<div class="icon">
+																	<img class="gearicon" src="">
+																</div>
+																<div class="info">
+																	<div class="header">
+																		<div class="type">
+																			<h4 class="geartype"></h4>
+																		</div>
+																		<div class="title">
+																			<h3 class="gearname"></h3>
+																		</div>
+																	</div>
+																	<div class="description">
+																		<p class="geardescription"></p>
+																	</div>
+																</div>
+															</div>
+															<div class="base-gear">
+																<div class="icon">
+																	<img class="gearicon" src="">
+																</div>
+																<div class="info">
+																	<div class="header">
+																		<div class="type">
+																			<h4 class="geartype"></h4>
+																		</div>
+																		<div class="title">
+																			<h3 class="gearname"></h3>
+																		</div>
+																	</div>
+																	<div class="description">
+																		<p class="geardescription"></p>
+																	</div>
+																</div>
+															</div>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
 
-  
-  <!--------------------------Exclusive----------------------------->
-  <tr class="clickable">
-    <td style="text-center">204</td>
-    <th><img src="http://i.imgur.com/RyO6AfV.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/204">Pain, Rinne of War</a><div style="display:none;">Exclusive</div></td>  
-	<td class="text-center"><img src="img/belong/akatsuki.png" height="60px" width="60px"/><div style="display:none;">Akatsuki</div></td><td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">30</td>
-	<td class="text-center">11,125</td>
-	<td class="text-center">12,653</td>
-	<td class="text-center">10,820</td>
-	<td class="text-center">154</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">219</td>
-    <th><img src="http://i.imgur.com/6T9qKbk.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/219">Itachi Uchiha, Fratricide</a><div style="display:none;">Exclusive</div></td>  
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td><td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">30</td>
-	<td class="text-center">11,275</td>
-	<td class="text-center">14,380</td>
-	<td class="text-center">9,423</td>
-	<td class="text-center">195</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">249</td>
-    <th><img src="http://i.imgur.com/ptJUQFd.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/249">Kakashi Hatake, A Small Hope</a><div style="display:none;">Exclusive</div></td>  
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">30</td>
-	<td class="text-center">13,253</td>
-	<td class="text-center">11,292</td>
-	<td class="text-center">10,053</td>
-	<td class="text-center">169</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">171</td>
-    <th><img src="http://i.imgur.com/vGl6Xsg.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/171">Madara Uchiha, Sneering True Leader</a><div style="display:none;">Exclusive</div></td>  
-	<td class="text-center"><img src="img/belong/none.png" height="60px" width="60px"/><div style="display:none;">None</div></td><td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">30</td>
-	<td class="text-center">10,070</td>
-	<td class="text-center">14,303</td>
-	<td class="text-center">10,225</td>
-	<td class="text-center">148</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">155</td>
-    <th><img src="http://i.imgur.com/3f4SepL.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/155">Naruto Uzumaki, Expanding Senjutsu</a><div style="display:none;">Exclusive</div></td>  
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td><td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">30</td>
-	<td class="text-center">11,270</td>
-	<td class="text-center">13,269</td>
-	<td class="text-center">10,059</td>
-	<td class="text-center">161</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">195</td>
-    <th><img src="http://i.imgur.com/i8BqIKw.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/195">Hashirama Senju, Indomitable Red Barrier</a><div style="display:none;">Exclusive</div></td>  
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td><td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">30</td>
-	<td class="text-center">12,342</td>
-	<td class="text-center">12,353</td>
-	<td class="text-center">10,053</td>
-	<td class="text-center">154</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">228</td>
-    <th><img src="http://i.imgur.com/8zeB9Bg.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/228">Tsunade, Fifth Hokage</a><div style="display:none;">Exclusive</div></td>  
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td><td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">30</td>
-	<td class="text-center">13,258</td>
-	<td class="text-center">10,981</td>
-	<td class="text-center">10,509</td>
-	<td class="text-center">144</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">506</td>
-    <th><img src="http://i.imgur.com/z8zcrsk.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/506">Naruto Uzumaki, Full Thoughts</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;">God</div></td> 
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">90</td>
-	<td class="text-center">32,721</td>
-	<td class="text-center">37,956</td>
-	<td class="text-center">28,869</td>
-	<td class="text-center">259</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">507</td>
-    <th><img src="http://i.imgur.com/yjiob2U.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/507">Sasuke Uchiha, Wishful Seperation</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;">God</div></td>
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">90</td>
-	<td class="text-center">34,963</td>
-	<td class="text-center">36,436</td>
-	<td class="text-center">28,109</td>
-	<td class="text-center">231</td>
-  </tr>
-  
-   <tr class="clickable">
-    <td style="text-center">258</td>
-    <th><img src="http://i.imgur.com/pZoOrWs.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/258">Jiraiya, Jiraiya the Legendary Hero</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"></div></td>
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">30</td>
-	<td class="text-center">13,558</td>
-	<td class="text-center">12,208</td>
-	<td class="text-center">11,886</td>
-	<td class="text-center">169</td>
-  </tr>
-  
-  
-   <tr class="clickable">
-    <td style="text-center">312</td>
-    <th><img src="http://i.imgur.com/U7aWQyt.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/312">Naruto Uzumaki, Three-Way Summoning Deadlock: Frog</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"></div></td>
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">32</td>
-	<td class="text-center">14,000</td>
-	<td class="text-center">13,000</td>
-	<td class="text-center">12,000</td>
-	<td class="text-center">160</td>
-  </tr>
-  
-   <tr class="clickable">
-    <td style="text-center">313</td>
-    <th><img src="http://i.imgur.com/XMLAsZk.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/313">Sasuke Uchiha, Three-Way Summoning Deadlock: Snake</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"></div></td>
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">32</td>
-	<td class="text-center">12,000</td>
-	<td class="text-center">14,000</td>
-	<td class="text-center">13,000</td>
-	<td class="text-center">140</td>
-  </tr>
-   <tr class="clickable">
-    <td style="text-center">314</td>
-    <th><img src="http://i.imgur.com/K6FLRze.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/314">Sakura Haruno, Three-Way Deadlock: Slug</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"></div></td>
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">32</td>
-	<td class="text-center">13,000</td>
-	<td class="text-center">12,000</td>
-	<td class="text-center">14,000</td>
-	<td class="text-center">150</td>
-  </tr>
-   <tr class="clickable">
-    <td style="text-center">340</td>
-    <th><img src="http://i.imgur.com/LEandzH.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/340">Itachi Uchiha, Fabrications of the Moon</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"></div></td>
-	<td class="text-center"><img src="img/belong/akatsuki.png" height="60px" width="60px"/><div style="display:none;">Akatsuki</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">30</td>
-	<td class="text-center">11,705</td>
-	<td class="text-center">13,069</td>
-	<td class="text-center">11,442</td>
-	<td class="text-center">186</td>
-  </tr>
-   <tr class="clickable">
-    <td style="text-center">349</td>
-    <th><img src="http://i.imgur.com/IFo9k38.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/349">Might Gai, End of the Crimson Beast</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"></div></td>
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">80</td>
-	<td class="text-center">9,512</td>
-	<td class="text-center">28,557</td>
-	<td class="text-center">5,349</td>
-	<td class="text-center">149</td>
-  </tr>
-   <tr class="clickable">
-    <td style="text-center">363</td>
-    <th><img src="http://i.imgur.com/7RL6JVD.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/363">Orochimaru, Cravings of Madness</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"></div></td>
-	<td class="text-center"><img src="img/belong/oto.png" height="60px" width="60px"/><div style="display:none;">oto</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">30</td>
-	<td class="text-center">15,672</td>
-	<td class="text-center">12,716</td>
-	<td class="text-center">9,051</td>
-	<td class="text-center">155</td>
-  </tr>
-   <tr class="clickable">
-    <td style="text-center">370</td>
-    <th><img src="http://i.imgur.com/sJkfZPS.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/370">Naruto Uzumaki, Gifted Power ・ Yang</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"></div></td>
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">32</td>
-	<td class="text-center">13,414</td>
-	<td class="text-center">14,118</td>
-	<td class="text-center">12,768</td>
-	<td class="text-center">158</td>
-  </tr>
-   <tr class="clickable">
-    <td style="text-center">371</td>
-    <th><img src="http://i.imgur.com/1newmHc.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/371">Sasuke Uchiha, Gifted Power ・ Yin</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"></div></td>
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">32</td>
-	<td class="text-center">12,929</td>
-	<td class="text-center">14,884</td>
-	<td class="text-center">11,462</td>
-	<td class="text-center">158</td>
-  </tr>
-   <tr class="clickable">
-    <td style="text-center">372</td>
-    <th><img src="http://i.imgur.com/nW0SCOZ.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/372">Madara Uchiha, Power of the Six Paths</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"></div></td>
-	<td class="text-center"><img src="img/belong/none.png" height="60px" width="60px"/><div style="display:none;">None</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">32</td>
-	<td class="text-center">11,556</td>
-	<td class="text-center">16,951</td>
-	<td class="text-center">10,726</td>
-	<td class="text-center">152</td>
-  </tr>
-  
-   <tr class="clickable">
-    <td style="text-center">380</td>
-    <th><img src="http://i.imgur.com/JE94P11.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/380">Rock Lee, Oneself's Own Persistence</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"></div></td>
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">30</td>
-	<td class="text-center">10,835</td>
-	<td class="text-center">17,829</td>
-	<td class="text-center">8,851</td>
-	<td class="text-center">172</td>
-  </tr>
-   <tr class="clickable">
-    <td style="text-center">393</td>
-    <th><img src="http://i.imgur.com/u43kAWf.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/393">Sasori, Genius Moulding Artist</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"></div></td>
-	<td class="text-center"><img src="img/belong/akatsuki.png" height="60px" width="60px"/><div style="display:none;">Akatsuki</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">30</td>
-	<td class="text-center">13,930</td>
-	<td class="text-center">12,155</td>
-	<td class="text-center">11,691</td>
-	<td class="text-center">154</td>
-  </tr>
-   <tr class="clickable">
-    <td style="text-center">412</td>
-    <th><img src="http://i.imgur.com/LgS2RPp.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/412">Naruto Uzumaki, Chosen Future</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"></div></td>
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">32</td>
-	<td class="text-center">16,051</td>
-	<td class="text-center">18,394</td>
-	<td class="text-center">12,524</td>
-	<td class="text-center">208</td>
-  </tr>
-   <tr class="clickable">
-    <td style="text-center">413</td>
-    <th><img src="http://i.imgur.com/jI4eZNw.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/413">Sasuke Uchiha, Cutting Off the Past</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"></div></td>
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">32</td>
-	<td class="text-center">13,448</td>
-	<td class="text-center">18,355</td>
-	<td class="text-center">12,166</td>
-	<td class="text-center">145</td>
-  </tr>
-   <tr class="clickable">
-    <td style="text-center">422</td>
-    <th><img src="http://i.imgur.com/r47LrRq.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/422">Hashirama Senju, A God Amongst Shinobi</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"></div></td>
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">32</td>
-	<td class="text-center">12,667</td>
-	<td class="text-center">14,112</td>
-	<td class="text-center">11,224</td>
-	<td class="text-center">165</td>
-  </tr>
-   <tr class="clickable">
-    <td style="text-center">430</td>
-    <th><img src="http://i.imgur.com/s29rPM9.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/430">Konan, Bridge of Hope</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"></div></td>
-	<td class="text-center"><img src="img/belong/akatsuki.png" height="60px" width="60px"/><div style="display:none;">Akatsuki</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">30</td>
-	<td class="text-center">10,530</td>
-	<td class="text-center">15,691</td>
-	<td class="text-center">11,447</td>
-	<td class="text-center">169</td>
-  </tr>
-   <tr class="clickable">
-    <td style="text-center">348</td>
-    <th><img src="http://i.imgur.com/gYI1SII.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/348">Jiraiya, Choosing Not to Give Up</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"></div></td>
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">30</td>
-	<td class="text-center">11,285</td>
-	<td class="text-center">14,640</td>
-	<td class="text-center">10,216</td>
-	<td class="text-center">163</td>
-  </tr>
-   <tr class="clickable">
-    <td style="text-center">349</td>
-    <th><img src="http://i.imgur.com/l1KoLWW.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/349">Deidara, Supreme Explosion Art</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"></div></td>
-	<td class="text-center"><img src="img/belong/akatsuki.png" height="60px" width="60px"/><div style="display:none;">Akatsuki</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">30</td>
-	<td class="text-center">11,586</td>
-	<td class="text-center">16,436</td>
-	<td class="text-center">9,616</td>
-	<td class="text-center">182</td>
-  </tr>
-   <tr class="clickable">
-    <td style="text-center">443</td>
-    <th><img src="http://i.imgur.com/al9AZFR.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/">Sasuke Uchiha, Thunder of Hatred</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"></div></td>
-	<td class="text-center"><img src="img/belong/hebi.png" height="60px" width="60px"/><div style="display:none;">Hebi</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">35</td>
-	<td class="text-center">12,055</td>
-	<td class="text-center">17,386</td>
-	<td class="text-center">10,841</td>
-	<td class="text-center">152</td>
-  </tr>
-   <tr class="clickable">
-    <td style="text-center">449</td>
-    <th><img src="http://i.imgur.com/W6hdTaT.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/">Sakura Haruno, Hope of the Future</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"></div></td>
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">35</td>
-	<td class="text-center">13,428</td>
-	<td class="text-center">17,734</td>
-	<td class="text-center">10,661</td>
-	<td class="text-center">176</td>
-  </tr>
-   <tr class="clickable">
-    <td style="text-center">450</td>
-    <th><img src="http://i.imgur.com/QhNsOF0.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/450">Madara Uchiha, Incardnation of Destruction and Disaster</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"></div></td>
-	<td class="text-center"><img src="img/belong/none.png" height="60px" width="60px"/><div style="display:none;">None</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">32</td>
-	<td class="text-center">13,791</td>
-	<td class="text-center">16,192</td>
-	<td class="text-center">9,943</td>
-	<td class="text-center">158</td>
-  </tr>
-   <tr class="clickable">
-    <td style="text-center">453</td>
-    <th><img src="http://i.imgur.com/Nv7Qh06.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/453">Hinata Hyuga, Clean White Lily</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"></div></td>
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">35</td>
-	<td class="text-center">13,760</td>
-	<td class="text-center">17,904</td>
-	<td class="text-center">10,493</td>
-	<td class="text-center">176</td>
-  </tr>
-  
-   <tr class="clickable">
-    <td style="text-center">454</td>
-    <th><img src="http://i.imgur.com/SLQKZnn.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/454">Kakashi Hatake, Pair of Sharingan Eyes</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"></div></td>
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td>
-	<td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">35</td>
-	<td class="text-center">13,655</td>
-	<td class="text-center">13,248</td>
-	<td class="text-center">10,388</td>
-	<td class="text-center">176</td>
-  </tr>
-   <tr class="clickable">
-    <td style="text-center">455</td>
-    <th><img src="http://i.imgur.com/pLXlRi8.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/455">Might Gai, Youthful Straight Fist</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"></div></td>
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td>
-	<td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5<div></td>
-	<td class="text-center">30</td>
-	<td class="text-center">10,069</td>
-	<td class="text-center">17,832</td>
-	<td class="text-center">6,102</td>
-	<td class="text-center">154</td>
-  </tr>
-   <tr class="clickable">
-    <td style="text-center">463</td>
-    <th><img src="http://i.imgur.com/TOFANkX.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/463">Neji Hyuga, Shaking Off the Curse</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"></div></td>
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td>
-	<td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">30</td>
-	<td class="text-center">13,707</td>
-	<td class="text-center">14,956</td>
-	<td class="text-center">9,005</td>
-	<td class="text-center">163</td>
-  </tr>
-   <tr class="clickable">
-    <td style="text-center">466</td>
-    <th><img src="http://i.imgur.com/qA9MCEi.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/466">Minato Namikaze, Spirit's Light</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"></div></td>
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">32</td>
-	<td class="text-center">11,867</td>
-	<td class="text-center">15,232</td>
-	<td class="text-center">10,742</td>
-	<td class="text-center">168</td>
-  </tr>
-   <tr class="clickable">
-    <td style="text-center">467</td>
-    <th><img src="http://i.imgur.com/BF7hgDq.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/467">Kushina Uzumaki, Sturdy Chain</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"></div></td>
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">32</td>
-	<td class="text-center">13,113</td>
-	<td class="text-center">14,799</td>
-	<td class="text-center">9,757</td>
-	<td class="text-center">163</td>
-  </tr>
-   <tr class="clickable">
-    <td style="text-center">474</td>
-    <th><img src="http://i.imgur.com/VaYo482.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/474">Obito Uchiha, Principle of Despair</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"></div></td>
-	<td class="text-center"><img src="img/belong/none.png" height="60px" width="60px"/><div style="display:none;">None</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">32</td>
-	<td class="text-center">12,668</td>
-	<td class="text-center">13,947</td>
-	<td class="text-center">9,783</td>
-	<td class="text-center">171</td>
-  </tr>
-   <tr class="clickable">
-    <td style="text-center">479</td>
-    <th><img src="http://i.imgur.com/hlEInM3.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/479">Yahiko, Soukohoushi</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"></div></td>
-	<td class="text-center"><img src="img/belong/ame.png" height="60px" width="60px"/><div style="display:none;">Ame</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">30</td>
-	<td class="text-center">11,130</td>
-	<td class="text-center">14,647</td>
-	<td class="text-center">8,535</td>
-	<td class="text-center">151</td>
-  </tr>
-   <tr class="clickable">
-    <td style="text-center">483</td>
-    <th><img src="http://i.imgur.com/Ffl4KOG.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/483">Sasuke Uchiha, Journey of Atonement</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;">Shiden</div></td>
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">32</td>
-	<td class="text-center">11,547</td>
-	<td class="text-center">15,872</td>
-	<td class="text-center">10,584</td>
-	<td class="text-center">165</td>
-  </tr>
-   <tr class="clickable">
-    <td style="text-center">486</td>
-    <th><img src="http://i.imgur.com/Gf5mdV0.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/486">Tenten, Six Path's Treasure</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"></div></td>
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">32</td>
-	<td class="text-center">10,424</td>
-	<td class="text-center">15,551</td>
-	<td class="text-center">11,865</td>
-	<td class="text-center">161</td>
-  </tr>
-   <tr class="clickable">
-    <td style="text-center">489</td>
-    <th><img src="http://i.imgur.com/208xfuK.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/489">Kisame Hoshigaki, A Tailless Tailed Beast</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"></div></td>
-	<td class="text-center"><img src="img/belong/Akatsuki.png" height="60px" width="60px"/><div style="display:none;">Akatsuki</div></td>
-	<td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">30</td>
-	<td class="text-center">13,124</td>
-	<td class="text-center">14,474</td>
-	<td class="text-center">8,522</td>
-	<td class="text-center">169</td>
-  </tr>
-   <tr class="clickable">
-    <td style="text-center">490</td>
-    <th><img src="http://i.imgur.com/q5nDXOT.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/490">Hidan, Deciple of Massacre</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"></div></td>
-	<td class="text-center"><img src="img/belong/akatsuki.png" height="60px" width="60px"/><div style="display:none;">Akatsuki</div></td>
-	<td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">30</td>
-	<td class="text-center">15,553</td>
-	<td class="text-center">6,952</td>
-	<td class="text-center">13,786</td>
-	<td class="text-center">148</td>
-  </tr>
-  
-   <tr class="clickable">
-    <td style="text-center">491</td>
-    <th><img src="http://i.imgur.com/3iBVYBH.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/491">Kakuzu, Forbidden Immortality</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"></div></td>
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td>
-	<td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">30</td>
-	<td class="text-center">12,054</td>
-	<td class="text-center">12,644</td>
-	<td class="text-center">11,443</td>
-	<td class="text-center">141</td>
-  </tr>
-	
-   <tr class="clickable">
-    <td style="text-center">492</td>
-    <th><img src="http://i.imgur.com/eFN6FJh.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/492">Sakura Haruno, Cherry Blossom</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;">Shiden</div></td>
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">32</td>
-	<td class="text-center">12,505</td>
-	<td class="text-center">16,037</td>
-	<td class="text-center">10,420</td>
-	<td class="text-center">171</td>
-  </tr>
+							<div id="six-star">
+								<div class="row">
+									<div class="col-md-4">
+										<div class="img-unit">
+											<img id="card-art-six-star" src="">
+										</div>
+									</div>
+									<div class="col-md-8">
+										<div class="base-tables">
+											<div class="row">
+												<div class="col-md-12">
+													<ul class="nav nav-nscdb">
+														<li class="active"><a id="skills-six-btn" data-toggle="tab" href="#skills-six">Skills</a></li>
+														<li><a id="ability-six-btn" data-toggle="tab" href="#ability-six">Abilities</a></li>
+														<li><a id="status-six-btn" data-toggle="tab" href="#status-six">Status</a></li>
+														<li class="hidden"><a id="gear-six-btn" data-toggle="tab" href="#gear-six">Gear</a></li>
+													</ul>
+												</div>
+												<div class="col-md-12">
+													<div class="tab-content">
+														<div class="tab-pane active" id="skills-six">
+															<div class="base-skill">
+																<div class="header">
+																	<div class="type">
+																		<h4 id="skill1type-six"></h4>
+																	</div>
+																	<div class="title">
+																		<h3 id="skill1name-six"></h3>
+																		<p id="skill1ogname-six"></p>
+																	</div>
+																	<div class="speed">
+																		<p id="skill1speed-six"></p>
+																	</div>
+																	<div class="chakra">
+																		<p id="skill1cost-six"></p>
+																	</div>
+																</div>
+																<div class="description">
+																	<p id="skill1-six"></p>
+																</div>
+															</div>
+															<div class="base-skill">
+																<div class="header">
+																	<div class="type">
+																		<h4 id="skill2type-six"></h4>
+																	</div>
+																	<div class="title">
+																		<h3 id="skill2name-six"></h3>
+																		<p id="skill2ogname-six"></p>
+																	</div>
+																	<div class="speed">
+																		<p id="skill2speed-six"></p>
+																	</div>
+																	<div class="chakra">
+																		<p id="skill2cost-six"></p>
+																	</div>
+																</div>
+																<div class="description">
+																	<p id="skill2-six"></p>
+																</div>
+															</div>
+														</div>
+														<div class="tab-pane fade" id="ability-six">
+															<div class="base-ability">
+																<div class="header leader">
+																	<div class="type">
+																		<h4>Leader</h4>
+																	</div>
+																	<div class="title">
+																		<h3 id="leadname-six"></h3>
+																	</div>
+																</div>
+																<div class="description">
+																	<p id="lead-six"></p>
+																</div>
+															</div>
+															<div class="base-ability">
+																<div class="header">
+																	<div class="type">
+																		<h4>Ability 1</h4>
+																	</div>
+																	<div class="title">
+																		<h3 id="ability1name-six"></h3>
+																	</div>
+																</div>
+																<div class="description">
+																	<p id="ability1-six"></p>
+																</div>
+															</div>
+															<div class="base-ability">
+																<div class="header">
+																	<div class="type">
+																		<h4>Ability 2</h4>
+																	</div>
+																	<div class="title">
+																		<h3 id="ability2name-six"></h3>
+																	</div>
+																</div>
+																<div class="description">
+																	<p id="ability2-six"></p>
+																</div>
+															</div>
+														</div>
+														<div class="tab-pane fade" id="status-six">
+															<table class="table">
+																<thead>
+																	<tr>
+																		<th></th>
+																		<th>Base Value</th>
+																		<th>Ability Increase</th>
+																		<th>Gear Increase</th>
+																		<th>Max</th>
+																	</tr>
+																</thead>
+																<tbody>
+																	<tr>
+																		<td>HP</td>
+																		<td id="base-hp-six"></td>
+																		<td id="ability-hp-six"></td>
+																		<td id="gear-hp-six"></td>
+																		<td id="max-hp-six"></td>
+																	</tr>
+																	<tr>
+																		<td>Attack</td>
+																		<td id="base-atk-six"></td>
+																		<td id="ability-atk-six"></td>
+																		<td id="gear-atk-six"></td>
+																		<td id="max-atk-six"></td>
+																	</tr>
+																	<tr>
+																		<td>Defense</td>
+																		<td id="base-def-six"></td>
+																		<td id="ability-def-six"></td>
+																		<td id="gear-def-six"></td>
+																		<td id="max-def-six"></td>
+																	</tr>
+																	<tr>
+																		<td>Agility</td>
+																		<td id="base-agility-six"></td>
+																		<td id="ability-agility-six"></td>
+																		<td id="gear-agility-six"></td>
+																		<td id="max-agility-six"></td>
+																	</tr>
+																	<tr>
+																		<td>Evasion Rate</td>
+																		<td id="base-evasion-six">%</td>
+																		<td id="ability-evasion-six">%</td>
+																		<td id="gear-evasion-six">%</td>
+																		<td id="max-evasion-six">%</td>
+																	</tr>
+																	<tr>
+																		<td>Critical Rate</td>
+																		<td id="base-criticalrate-six">%</td>
+																		<td id="ability-criticalrate-six">%</td>
+																		<td id="gear-criticalrate-six">%</td>
+																		<td id="max-criticalrate-six">%</td>
+																	</tr>
+																	<tr>
+																		<td>Critical Power</td>
+																		<td id="base-criticalpower-six">%</td>
+																		<td id="ability-criticalpower-six">%</td>
+																		<td id="gear-criticalpower-six">%</td>
+																		<td id="max-criticalpower-six">%</td>
+																	</tr>
+																</tbody>
+															</table>
+														</div>
+														<div class="tab-pane fade hidden" id="gear-six">
+															<div class="base-gear">
+																<div class="icon">
+																	<img src="assets/img/gear/2675.png">
+																</div>
+																<div class="info">
+																	<div class="header">
+																		<div class="type">
+																			<h4>Chakra</h4>
+																		</div>
+																		<div class="title">
+																			<h3>Truth of Despair</h3>
+																		</div>
+																	</div>
+																	<div class="description">
+																		<p>Wisdom attribute and Independent characters Attack and Skill damage +80%</p>
+																	</div>
+																</div>
+															</div>
+															<div class="base-gear">
+																<div class="icon">
+																	<img src="assets/img/gear/2675.png">
+																</div>
+																<div class="info">
+																	<div class="header">
+																		<div class="type">
+																			<h4>Chakra</h4>
+																		</div>
+																		<div class="title">
+																			<h3>Truth of Despair</h3>
+																		</div>
+																	</div>
+																	<div class="description">
+																		<p>Wisdom attribute and Independent characters Attack and Skill damage +80%</p>
+																	</div>
+																</div>
+															</div>
+															<div class="base-gear">
+																<div class="icon">
+																	<img src="assets/img/gear/2675.png">
+																</div>
+																<div class="info">
+																	<div class="header">
+																		<div class="type">
+																			<h4>Chakra</h4>
+																		</div>
+																		<div class="title">
+																			<h3>Truth of Despair</h3>
+																		</div>
+																	</div>
+																	<div class="description">
+																		<p>Wisdom attribute and Independent characters Attack and Skill damage +80%</p>
+																	</div>
+																</div>
+															</div>
+															<div class="base-gear">
+																<div class="icon">
+																	<img src="assets/img/gear/2675.png">
+																</div>
+																<div class="info">
+																	<div class="header">
+																		<div class="type">
+																			<h4>Chakra</h4>
+																		</div>
+																		<div class="title">
+																			<h3>Truth of Despair</h3>
+																		</div>
+																	</div>
+																	<div class="description">
+																		<p>Wisdom attribute and Independent characters Attack and Skill damage +80%</p>
+																	</div>
+																</div>
+															</div>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
 
-   <tr class="clickable">
-    <td style="text-center">495</td>
-    <th><img src="http://i.imgur.com/9gYzvLb.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/495">Naruto Uzumaki, Hero of the World War</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;">Shiden</div></td>
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">32</td>
-	<td class="text-center">11,770</td>
-	<td class="text-center">15,394</td>
-	<td class="text-center">10,807</td>
-	<td class="text-center">165</td>
-  </tr>
+					</div>
+				</div>
 
-   <tr class="clickable">
-    <td style="text-center">496</td>
-    <th><img src="http://i.imgur.com/zK7LjWp.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/496">Hyuga Hinata, Silent White Lily</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;">Shiden</div></td>
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">32</td>
-	<td class="text-center">13,147</td>
-	<td class="text-center">16,358</td>
-	<td class="text-center">10,099</td>
-	<td class="text-center">165</td>
-  </tr>
+			</div>
+		</div>
+	</div>
+	<!-- MODAL -->
 
-   <tr class="clickable">
-    <td style="text-center">503</td>
-    <th><img src="http://i.imgur.com/SP2Eso8.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/503">Jiraiya, Legendary Sannin (Frog)</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"></div></td>
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td>
-	<td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">30</td>
-	<td class="text-center">14,592</td>
-	<td class="text-center">9,922</td>
-	<td class="text-center">11,599</td>
-	<td class="text-center">154</td>
-  </tr>
+	<div class="base-header">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-5 col-md-offset-7">
+					<h1>Naruto Shinobi Collection Database</h1>
+					<p>Join  us in the Reddit: <a target="_blank" href="http://reddit.com/r/NarutoSc">/r/NarutoSc</a></p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="base-menu">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					
+					<ul>
+						<li><a href="/" role="button">Front Page</a>
+						<li class="active"><a href="/units" role="button">Units</a>
+						<li><a ref="/gear" role="button">Ninja Gear</a>
+						<li><a href="/guides" role="button">Guides</a>
+						<li><a href="/faq" role="button">FAQ</a>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
 
-   <tr class="clickable">
-    <td style="text-center">504</td>
-    <th><img src="http://i.imgur.com/2Pi6erF.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/504">Tsunade, Legendary Sannin (Slug)</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"></div></td>
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td>
-	<td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">30</td>
-	<td class="text-center">11,925</td>
-	<td class="text-center">15,999</td>
-	<td class="text-center">8,241</td>
-	<td class="text-center">169</td>
-  </tr>
+	<div class="base-table">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<h2>Units Table</h2>
+				</div>
+				<div class="col-md-12">
+					<table id="myTable" class="display" cellspacing="0" width="100%">
+						<tbody class="cards">
+						</tbody>
+					</table>
+				</div>
+			</div>
+		</div>
+	</div>
 
-   <tr class="clickable">
-    <td style="text-center">505</td>
-    <th><img src="http://i.imgur.com/1YCi3p4.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/505">Orochimaru, Legendary Sannin (Snake)</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"></div></td>
-	<td class="text-center"><img src="img/belong/oto.png" height="60px" width="60px"/><div style="display:none;">Oto</div></td>
-	<td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">30</td>
-	<td class="text-center">13,559</td>
-	<td class="text-center">12,047</td>
-	<td class="text-center">10,519</td>
-	<td class="text-center">154</td>
-  </tr>
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<p class="note"><strong>Note: Some stats are their lvl 80 stats.</strong> If you have the lvl 100 stats, feel free to share in the Reddit.</p>
+			</div>
+		</div>
+	</div>
 
-   <tr class="clickable">
-    <td style="text-center">508</td>
-    <th><img src="http://i.imgur.com/vetNphQ.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/508">Naruto Uzumaki, A New Era (Frog)</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"></div></td>
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">32</td>
-	<td class="text-center">15,551</td>
-	<td class="text-center">13,631</td>
-	<td class="text-center">13,631</td>
-	<td class="text-center">171</td>
-  </tr>
-   <tr class="clickable">
-    <td style="text-center">509</td>
-    <th><img src="http://i.imgur.com/VmIv8eh.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/509">Sasuke Uchiha, A New Era (Snake)</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"></div></td>
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">32</td>
-	<td class="text-center">13,631</td>
-	<td class="text-center">15,551</td>
-	<td class="text-center">13,631</td>
-	<td class="text-center">171</td>
-  </tr>
+	<!-- JQUERY -->
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+	<!--BOOTSTRAP-->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
-   <tr class="clickable">
-    <td style="text-center">510</td>
-    <th><img src="http://i.imgur.com/XAKbfI8.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/510">Sakura Haruno, A New Era (Slug)</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"></div></td>
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">32</td>
-	<td class="text-center">14,111</td>
-	<td class="text-center">14,591</td>
-	<td class="text-center">14,111</td>
-	<td class="text-center">171</td>
-  </tr>
+	<!--SCRIPTS-->
+	<script type="text/javascript" src="js/change-rarity.js"></script>
 
-   <tr class="clickable">
-    <td style="text-center">513</td>
-    <th><img src="http://i.imgur.com/yKZMPEW.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/513">Masked Man, </a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"></div></td>
-	<td class="text-center"><img src="img/belong/none.png" height="60px" width="60px"/><div style="display:none;">none</div></td>
-	<td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">30</td>
-	<td class="text-center">13,776</td>
-	<td class="text-center">12,821</td>
-	<td class="text-center">9,828</td>
-	<td class="text-center">148</td>
-  </tr>
+	<!--JSON GATHER -->
+	<script type="text/javascript" src="json/json-gather.js"></script>
 
-   <tr class="clickable">
-    <td style="text-center">521</td>
-    <th><img src="http://i.imgur.com/DthznQx.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/521">Naruto Uzumaki, Two Forces</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"></div></td>
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">35</td>
-	<td class="text-center">14,903</td>
-	<td class="text-center">18,344</td>
-	<td class="text-center">12,458</td>
-	<td class="text-center">168</td>
-  </tr>
+	<!-- TABLE GENERATOR -->
+	<script type="text/javascript" src="js/datatables.min.js"></script>
+	<script>
+		$(document).ready( function () {
+			$('#myTable').DataTable({
+				stateSave: true,
+				columns: [
+		            { title: "No" },
+		            { title: "Icon" },
+		            { title: "Name" },
+		            { title: "Affiliation" },
+		            { title: "Rarity" },
+		            { title: "Cost" },
+		            { title: "HP" },
+		            { title: "ATK" },
+		            { title: "DEF" },
+		            { title: "SPD" }
+		        ]
+			});
+		} );
+	</script>
 
-   <tr class="clickable">
-    <td style="text-center">522</td>
-    <th><img src="http://i.imgur.com/LKEAZnj.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/522">Minato Namikaze, Thoughts that Resonates</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"></div></td>
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">35</td>
-	<td class="text-center">13,550</td>
-	<td class="text-center">19,030</td>
-	<td class="text-center">13,145</td>
-	<td class="text-center">176</td>
-  </tr>
-
-   <tr class="clickable">
-    <td style="text-center">532</td>
-    <th><img src="http://i.imgur.com/SFoTAff.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/532">Killer Bee, Strong Arm Roaring Taijutsu</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"></div></td>
-	<td class="text-center"><img src="img/belong/kumo.png" height="60px" width="60px"/><div style="display:none;">kumo</div></td>
-	<td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">30</td>
-	<td class="text-center">11,766</td>
-	<td class="text-center">14,797</td>
-	<td class="text-center">8,087</td>
-	<td class="text-center">141</td>
-  </tr>
-
-   <tr class="clickable">
-    <td style="text-center">533</td>
-    <th><img src="http://i.imgur.com/GXcmFp4.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/533">A, Lightning Shinobi Taijutsu</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"></div></td>
-	<td class="text-center"><img src="img/belong/kumo.png" height="60px" width="60px"/><div style="display:none;">Kumo</div></td>
-	<td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">30</td>
-	<td class="text-center">11,084</td>
-	<td class="text-center">14,798</td>
-	<td class="text-center">8,583</td>
-	<td class="text-center">148</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">538</td>
-    <th><img src="http://i.imgur.com/qfpe9P5.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/538">Naruto Uzumaki, Responsible Commitment</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"></div></td>
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">35</td>
-	<td class="text-center">12,945</td>
-	<td class="text-center">16,001</td>
-	<td class="text-center">11,881</td>
-	<td class="text-center">169</td>
-  </tr>
-
-  <tr class="clickable">
-    <td style="text-center">539</td>
-    <th><img src="http://i.imgur.com/6THSEYm.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/539">Jiraiya, Conductor of Transformation</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"></div></td>
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">35</td>
-	<td class="text-center">12,942</td>
-	<td class="text-center">15,825</td>
-	<td class="text-center">11,704</td>
-	<td class="text-center">176</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">540</td>
-    <th><img src="http://i.imgur.com/uHewOhg.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/540">Hashirama Senju, Leader of the Senju</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"></div></td>
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">35</td>
-	<td class="text-center">12,767</td>
-	<td class="text-center">16,351</td>
-	<td class="text-center">11,529</td>
-	<td class="text-center">172</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">543</td>
-    <th><img src="http://i.imgur.com/6Q8fZ2n.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/543">Neji Hyuga, Hyuga's Talent</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"></div></td>
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">30</td>
-	<td class="text-center">12,537</td>
-	<td class="text-center">15,406</td>
-	<td class="text-center">9,605</td>
-	<td class="text-center">165</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">544</td>
-    <th><img src="http://i.imgur.com/YBZ3sU6.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/544">Ashura Otsutsuki, Successor of the Ninja Creed</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"></div></td>
-	<td class="text-center"><img src="img/belong/none.png" height="60px" width="60px"/><div style="display:none;">None</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">32</td>
-	<td class="text-center">13,931</td>
-	<td class="text-center">15,731</td>
-	<td class="text-center">13,931</td>
-	<td class="text-center">157</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">545</td>
-    <th><img src="http://i.imgur.com/mlbFkzb.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/545">Indra Otsutsuki, Power to Make Everything Possible</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"></div></td>
-	<td class="text-center"><img src="img/belong/none.png" height="60px" width="60px"/><div style="display:none;">None</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">32</td>
-	<td class="text-center">14,376</td>
-	<td class="text-center">15,016</td>
-	<td class="text-center">14,208</td>
-	<td class="text-center">157</td>
-  </tr>
-  
-   <tr class="clickable">
-    <td style="text-center">550</td>
-    <th><img src="http://i.imgur.com/9yImQHG.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/550">Karin, </a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"></div></td>
-	<td class="text-center"><img src="img/belong/taka.png" height="60px" width="60px"/><div style="display:none;">Taka</div></td>
-	<td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">32</td>
-	<td class="text-center">14,376</td>
-	<td class="text-center">15,016</td>
-	<td class="text-center">14,208</td>
-	<td class="text-center">157</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">551
-	</td>
-    <th><img src="http://i.imgur.com/qgDDXHr.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/551">Suigetsu Hozuki, </a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"></div></td>
-	<td class="text-center"><img src="img/belong/taka.png" height="60px" width="60px"/><div style="display:none;">Taka</div></td>
-	<td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">32</td>
-	<td class="text-center">14,376</td>
-	<td class="text-center">15,016</td>
-	<td class="text-center">14,208</td>
-	<td class="text-center">157</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">555
-	</td>
-    <th><img src="http://i.imgur.com/3lJy6Ya.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/555">Naruto Uzumaki, Nine Connections</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;">God</div></td>
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">90</td>
-	<td class="text-center">30,921</td>
-	<td class="text-center">41,556</td>
-	<td class="text-center">27,069</td>
-	<td class="text-center">259</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">556
-	</td>
-    <th><img src="http://i.imgur.com/XhvFvWy.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/556">Sasuke Uchiha, Ultimate Power</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;">God</div></td>
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">90</td>
-	<td class="text-center">33,178</td>
-	<td class="text-center">41,556</td>
-	<td class="text-center">24,789</td>
-	<td class="text-center">231</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">559
-	</td>
-    <th><img src="http://i.imgur.com/FaEiP8V.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/559">Tsunade, Senju's True Successor</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"></div></td>
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">35</td>
-	<td class="text-center">14,859</td>
-	<td class="text-center">16,518</td>
-	<td class="text-center">10,484</td>
-	<td class="text-center">176</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">560
-	</td>
-    <th><img src="http://i.imgur.com/cvmL8RU.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/560">Gaara, Young Guardian of the Sand</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"></div></td>
-	<td class="text-center"><img src="img/belong/suna.png" height="60px" width="60px"/><div style="display:none;">Suna</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">35</td>
-	<td class="text-center">16,485</td>
-	<td class="text-center">11,871</td>
-	<td class="text-center">12,735</td>
-	<td class="text-center">149</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">561
-	</td>
-    <th><img src="http://i.imgur.com/74QfT7U.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/561">Oonoki,  The Person Who Knows the Era of War</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"></div></td>
-	<td class="text-center"><img src="img/belong/iwa.png" height="60px" width="60px"/><div style="display:none;">Iwa</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">35</td>
-	<td class="text-center">15,315</td>
-	<td class="text-center">15,315</td>
-	<td class="text-center">13,598</td>
-	<td class="text-center">176</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">562
-	</td>
-    <th><img src="http://i.imgur.com/MtvYriA.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/562">A, Supreme leader of the Allied Shinobi Force</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"><div></td>
-	<td class="text-center"><img src="img/belong/kumo.png" height="60px" width="60px"/><div style="display:none;">Kumo</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">35</td>
-	<td class="text-center">12,430</td>
-	<td class="text-center">17,734</td>
-	<td class="text-center">8,944</td>
-	<td class="text-center">152</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">563
-	</td>
-    <th><img src="http://i.imgur.com/Tjhxx7h.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/563">Mei Terumi,  Payment of the Woman from the Mist </a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"></div></td>
-	<td class="text-center"><img src="img/belong/kiri.png" height="60px" width="60px"/><div style="display:none;">Kiri</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">35</td>
-	<td class="text-center">12,235</td>
-	<td class="text-center">16,715</td>
-	<td class="text-center">9,974</td>
-	<td class="text-center">177</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">569
-	</td>
-    <th><img src="http://i.imgur.com/Rx95DUr.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/564">Might Gai, The Final Kick</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"><div></td>
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">35</td>
-	<td class="text-center">10,561</td>
-	<td class="text-center">20,521</td>
-	<td class="text-center">6,633</td>
-	<td class="text-center">161</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">570
-	</td>
-    <th><img src="http://i.imgur.com/t6RR1ff.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/565">Rock Lee, Inside his Friend's Heart</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"><div></td>
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">30</td>
-	<td class="text-center">11,192</td>
-	<td class="text-center">17,384</td>
-	<td class="text-center">9,150</td>
-	<td class="text-center">169</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">571
-	</td>
-    <th><img src="http://i.imgur.com/v863rfv.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/566">Shikamaru Nara, A Gaze at Resolution</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"><div></td>
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">30</td>
-	<td class="text-center">13,574</td>
-	<td class="text-center">13,574</td>
-	<td class="text-center">10,368</td>
-	<td class="text-center">144</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">572
-	</td>
-    <th><img src="http://i.imgur.com/FMtTM6T.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/567">Hinata Hyuga, Connecting Life</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"><div></td>
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">30</td>
-	<td class="text-center">12,683</td>
-	<td class="text-center">15,102</td>
-	<td class="text-center">9,908</td>
-	<td class="text-center">163</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">576</td>
-    <th><img src="http://i.imgur.com/c4PIjjh.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/576">Zabuza Momochi, Demon of the Mist</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"><div></td>
-	<td class="text-center"><img src="img/belong/kiri.png" height="60px" width="60px"/><div style="display:none;">Kiri</div></td>
-	<td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">30</td>
-	<td class="text-center">11,979</td>
-	<td class="text-center">11,979</td>
-	<td class="text-center">7,487</td>
-	<td class="text-center">156</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">577</td>
-    <th><img src="http://i.imgur.com/NVzxMkd.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/577">Haku, Cursed Ice Jutsu</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;"><div></td>
-	<td class="text-center"><img src="img/belong/kiri.png" height="60px" width="60px"/><div style="display:none;">Kiri</div></td>
-	<td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">30</td>
-	<td class="text-center">11,979</td>
-	<td class="text-center">11,979</td>
-	<td class="text-center">7,487</td>
-	<td class="text-center">156</td>
-  </tr>
-		
- <tr class="clickable">
-    <td style="text-center">564</td>
-    <th><img src="http://i.imgur.com/NEtPhUL.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/573">Hashirama Senju,  Start of the Will of Fire</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;">God<div></td>
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">90</td>
-	<td class="text-center">30,544</td>
-	<td class="text-center">31,289</td>
-	<td class="text-center">23,839</td>
-	<td class="text-center">200</td>
-  </tr>
-		
- <tr class="clickable">
-    <td style="text-center">565</td>
-    <th><img src="http://i.imgur.com/boQ8tIB.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/574">Madara Uchiha, Aloof Dream</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;">God<div></td>
-	<td class="text-center"><img src="img/belong/none.png" height="60px" width="60px"/><div style="display:none;">None</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">90</td>
-	<td class="text-center">28,309</td>
-	<td class="text-center">32,779</td>
-	<td class="text-center">24,584</td>
-	<td class="text-center">228</td>
-  </tr>
-		
-<tr class="clickable">
-    <td style="text-center">578</td>
-    <th><img src="http://i.imgur.com/opCu4aO.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/578">Darui, Modest Fortune</a>
-	<div style="display:none;">Exclusive</div> <div style="display:none;">God<div></td>
-	<td class="text-center"><img src="img/belong/kumo.png" height="60px" width="60px"/><div style="display:none;">Kumo</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">30</td>
-	<td class="text-center">11,380</td>
-	<td class="text-center">11,680</td>
-	<td class="text-center">8,685</td>
-	<td class="text-center">143</td>
-  </tr>
-  <!--------------------------PVP Reward----------------------------->
-  <tr class="clickable">
-    <td style="text-center">534</td>
-    <th><img src="http://i.imgur.com/ZoSvnlf.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/534">Sasuke Uchiha, Selfish War Champion</a>
-	<div style="display:none;">PVP Reward</div> <div style="display:none;">Ugly</div></td>
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">100</td>
-	<td class="text-center">52,996</td>
-	<td class="text-center">50,791</td>
-	<td class="text-center">36,941</td>
-	<td class="text-center">315</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">488</td>
-    <th><img src="http://i.imgur.com/QdLvAsw.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/488">Naruto Uzumaki, Selfish War Champion</a>
-	<div style="display:none;">PVP Reward</div> </td> 
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td>
-	<td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">100</td>
-	<td class="text-center">48,197</td>
-	<td class="text-center">48,197</td>
-	<td class="text-center">48,197</td>
-	<td class="text-center">295</td>
-	<td class="text-center"><div style="display:none;">PVP Reward</div></td>
-  </tr>
-  <!--------------------------Limited----------------------------->
-     <tr class="clickable">
-    <td style="text-center">106</td>
-    <th><img src="http://i.imgur.com/vtiM5JN.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/168">Kushina Uzumaki, Power of Love</a><div style="display:none;">Limited</div></td>  
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td><td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">27</td>
-	<td class="text-center">9,980</td>
-	<td class="text-center">17,139</td>
-	<td class="text-center">8,579</td>
-	<td class="text-center">151</td>
-  </tr>
-  
-   <tr class="clickable">
-    <td style="text-center">108</td>
-    <th><img src="http://i.imgur.com/Z1PNrqN.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/170">Mei Terumi, Dream Achieved</a><div style="display:none;">Limited</div></td>  
-	<td class="text-center"><img src="img/belong/kiri.png" height="60px" width="60px"/><div style="display:none;">Kiri</div></td></td><td class="text-center"><img src="img/rarity/6.png" height="25px" width="25px"/><div style="display:none;">6</div></td>
-	<td class="text-center">27</td>
-	<td class="text-center">11,098</td>
-	<td class="text-center">11,240</td>
-	<td class="text-center">10,250</td>
-	<td class="text-center">140</td>
-  </tr>
-  <tr class="clickable">
-    <td style="text-center">236</td>
-    <th><img src="http://i.imgur.com/5RptKBk.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/236">Naruto Uzumaki, Planning Mischief</a><div style="display:none;">Limited</div></td>  
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">28</td>
-	<td class="text-center">12,615</td>
-	<td class="text-center">13,668</td>
-	<td class="text-center">9,862</td>
-	<td class="text-center">139</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">237</td>
-    <th><img src="http://i.imgur.com/Q15acLr.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/237">Tsunade, Adult Appeal</a><div style="display:none;">Gacha</div>Limited</td>  
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">28</td>
-	<td class="text-center">10,090</td>
-	<td class="text-center">17,865</td>
-	<td class="text-center">8,356</td>
-	<td class="text-center">126</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">238</td>
-    <th><img src="http://i.imgur.com/w1BhNBV.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/238">Hinata Hyuga, Innocent Thoughts</a><div style="display:none;">Limited</div></td>  
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">28</td>
-	<td class="text-center">10,758</td>
-	<td class="text-center">10,722</td>
-	<td class="text-center">13,821</td>
-	<td class="text-center">129</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">239</td>
-    <th><img src="http://i.imgur.com/8UTIqGf.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/239">Jiraiya, Satisfaction of Vain Apperance</a><div style="display:none;">Limited</div></td>  
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">28</td>
-	<td class="text-center">12,852</td>
-	<td class="text-center">13,501</td>
-	<td class="text-center">9,960</td>
-	<td class="text-center">142</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">531</td>
-    <th><img src="http://i.imgur.com/A6Bhmh1.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/531">Itachi Uchiha, Released Vessel</a>
-	<div style="display:none;">Limited</div> </td> 
-	<td class="text-center"><img src="img/belong/akatsuki.png" height="60px" width="60px"/><div style="display:none;">Akatsuki</div></td><td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">50</td>
-	<td class="text-center">14,575</td>
-	<td class="text-center">17,395</td>
-	<td class="text-center">10,135</td>
-	<td class="text-center">165</td>
-  </tr>
-	
-	
-  <!-----------------Ranking Event------------------------>
-
-  <tr class="clickable">
-    <td style="text-center">567</td>
-    <th><img src="http://i.imgur.com/aEcvGfI.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/568">Rin Nohara, A Wicked Flower's Noble Death</a>
-	<div style="display:none;">Ranking</div> </td> 
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td>
-	<td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">32</td>
-	<td class="text-center">12,573</td>
-	<td class="text-center">9,430</td>
-	<td class="text-center">11,944</td>
-	<td class="text-center">147</td>
-  </tr>
-  
-  	
-  <!-----------------Slayer------------------------>
-
-  <tr class="clickable">
-    <td style="text-center">567</td>
-    <th><img src="http://i.imgur.com/dqFcA4J.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/570">Kakashi Hatake, A Heart Scar </a>
-	<div style="display:none;">Slayer</div> </td> 
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td>
-	<td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">30</td>
-	<td class="text-center">9,883</td>
-	<td class="text-center">14,974</td>
-	<td class="text-center">8,086</td>
-	<td class="text-center">156</td>
-  </tr>
-  
-  <tr class="clickable">
-    <td style="text-center">568</td>
-    <th><img src="http://i.imgur.com/r0S0cST.png" height="60px" width="60px" /></th>
-	<td class="text-left"><a href= "view/569">Obito Uchiha, Lost Light</a>
-	<div style="display:none;">Slayer</div> </td> 
-	<td class="text-center"><img src="img/belong/konoha.png" height="60px" width="60px"/><div style="display:none;">Konoha</div></td>
-	<td class="text-center"><img src="img/rarity/5.png" height="25px" width="25px"/><div style="display:none;">5</div></td>
-	<td class="text-center">30</td>
-	<td class="text-center">11,081</td>
-	<td class="text-center">10,482</td>
-	<td class="text-center">8,385</td>
-	<td class="text-center">156</td>
-  </tr>
-  </tr>
-  </tbody>
-  </table>
-  <script type="text/javascript" src="js/datatables.min.js"></script>
-   Note: Some stats are their lvl 80 stats.  If you have the lvl 100 stats, feel free to share in the Reddit.
 </body>
 </html>
