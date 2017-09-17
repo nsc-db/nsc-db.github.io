@@ -1,4 +1,299 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700');
+
 body{
-	background-color: white;
-	background-image: url("http://i.imgur.com/d7mHBPO.png");
+	color: #323232;
+	background-color: #efefef;
+	font-family: 'Roboto', sans-serif;
+	background-repeat: repeat;
+}
+
+::-webkit-scrollbar {
+	display: none;
+}
+
+p.note {
+	color: #858585;
+	font-size: 14px;
+	margin: 18px 0 60px 0;
+}
+
+.base-header {
+	padding: 156px 0 36px 0;
+	color: #323232;
+	background-color: #ffffff;
+	background-position: left center;
+	background-size: cover;
+	background-image: url(../img/bg-header.png);
+	background-repeat: no-repeat;
+}
+
+.base-header h1,
+.base-header h2 {
+	margin: 0; padding: 0;
+}
+
+.base-header h1 {
+	font-size: 36px;
+	font-weight: bold;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	margin: 0 0 12px 0;
+}
+
+.base-header p {
+	border-radius: 12px;
+	background-color: #ffffff;
+	display: inline-block;
+	padding: 4px 36px;
+	box-shadow: 0 0 60px rgba(0,0,0,0.1);
+}
+
+.base-header a {
+	text-decoration: underline;
+}
+
+.base-menu {
+	background-color: #ffffff;
+	outline: 1px solid #8f640e;
+	border: 2px solid #efdbac;
+	background-color: #ffffff;
+	box-shadow: 0 0 0px 2px #c7a664;
+}
+
+.base-menu ul {
+	list-style: none;
+	margin: 0; padding: 0;
+}
+
+.base-menu ul li {
+	margin: 0;
+	display: inline-block;
+}
+
+.base-menu ul li a {
+	display: block;
+	color: #b08f4c;
+	font-size: 14px;
+	text-decoration: none;
+	border-right: 1px solid #efefef;
+	margin: 0; padding: 12px 18px;
+}
+
+.base-menu ul li a:hover {
+	color: #ffffff;
+	background-color: #c7a664;
+}
+
+.base-menu ul li.active a {
+	color: #ffffff;
+	background-color: #c7a664;
+}
+
+
+.base-table {
+	margin: 48px 0 0 0;
+}
+
+.base-table h2 {
+	font-size: 18px;
+	font-weight: bold;
+	margin: 0 0 36px 0; padding: 0;
+	text-transform: uppercase;
+}
+
+.base-table .dataTables_wrapper {
+    padding: 36px;
+    margin: 0 0 24px 0;
+    background: #ffffff;
+    outline: 1px solid #8f640e;
+	border: 2px solid #efdbac;
+	background-color: #ffffff;
+	box-shadow: 0 0 0px 2px #c7a664;
+}
+
+.base-table .dataTables_wrapper .dataTables_length select {
+	width: 84px;
+	margin: 0 4px;
+	background-color: #ffffff;
+	border: 1px solid #cccccc;
+}
+
+.base-table .dataTables_wrapper input {
+	width: auto;
+	padding: 4px 12px 4px 6px;
+	border: 1px solid #cccccc;
+	position: relative;
+}
+
+.base-table .dataTables_wrapper .dataTables_length {
+	margin: 8px 0 0 0;
+}
+
+.base-table .dataTables_wrapper table.dataTable.no-footer {
+	margin: 60px 0 0 0;
+}
+
+.base-table .dataTables_wrapper table.dataTable.no-footer thead {
+	background-color: #efefef;
+}
+
+.base-table .dataTables_wrapper table.dataTable.no-footer tbody td {
+	padding: 18px 6px;
+}
+
+td a {
+	color: #858585;
+	pointer-events: none;
+}
+
+td.affiliation[affiliation="Akatsuki" i] {
+	width: 60px; height: 60px;
+	background-position: center;
+	background-size: 60px;
+	background-repeat: no-repeat;
+	background-image: url(../img/belong/akatsuki.png);
+}
+
+td.affiliation[affiliation="Ame" i] {
+	width: 60px; height: 60px;
+	background-position: center;
+	background-size: 60px;
+	background-repeat: no-repeat;
+	background-image: url(../img/belong/ame.png);
+}
+
+td.affiliation[affiliation="Hebi" i] {
+	width: 60px; height: 60px;
+	background-position: center;
+	background-size: 60px;
+	background-repeat: no-repeat;
+	background-image: url(../img/belong/hebi.png);
+}
+
+td.affiliation[affiliation="Iron" i] {
+	width: 60px; height: 60px;
+	background-position: center;
+	background-size: 60px;
+	background-repeat: no-repeat;
+	background-image: url(../img/belong/iron.png);
+}
+
+td.affiliation[affiliation="Iwa" i] {
+	width: 60px; height: 60px;
+	background-position: center;
+	background-size: 60px;
+	background-repeat: no-repeat;
+	background-image: url(../img/belong/iwa.png);
+}
+
+td.affiliation[affiliation="Kiri" i] {
+	width: 60px; height: 60px;
+	background-position: center;
+	background-size: 60px;
+	background-repeat: no-repeat;
+	background-image: url(../img/belong/Kiri.png);
+}
+
+td.affiliation[affiliation="Konoha" i] {
+	width: 60px; height: 60px;
+	background-position: center;
+	background-size: 60px;
+	background-repeat: no-repeat;
+	background-image: url(../img/belong/konoha.png);
+}
+
+td.affiliation[affiliation="Kumo" i]  {
+	width: 60px; height: 60px;
+	background-position: center;
+	background-size: 60px;
+	background-repeat: no-repeat;
+	background-image: url(../img/belong/kumo.png);
+}
+
+td.affiliation[affiliation="None" i] {
+	width: 60px; height: 60px;
+	background-position: center;
+	background-size: 60px;
+	background-repeat: no-repeat;
+	background-image: url(../img/belong/none.png);
+}
+
+td.affiliation[affiliation="Oto" i] {
+	width: 60px; height: 60px;
+	background-position: center;
+	background-size: 60px;
+	background-repeat: no-repeat;
+	background-image: url(../img/belong/oto.png);
+}
+
+td.affiliation[affiliation="Suna" i] {
+	width: 60px; height: 60px;
+	background-position: center;
+	background-size: 60px;
+	background-repeat: no-repeat;
+	background-image: url(../img/belong/suna.png);
+}
+
+td.affiliation[affiliation="Taka" i] {
+	width: 60px; height: 60px;
+	background-position: center;
+	background-size: 60px;
+	background-repeat: no-repeat;
+	background-image: url(../img/belong/taka.png);
+}
+
+td.affiliation[affiliation="Taki" i] {
+	width: 60px; height: 60px;
+	background-position: center;
+	background-size: 60px;
+	background-repeat: no-repeat;
+	background-image: url(../img/belong/taki.png);
+}
+
+td.rarity[rarity="1" i] {
+	width: 60px; height: 60px;
+	background-position: center;
+	background-size: 30px;
+	background-repeat: no-repeat;
+	background-image: url(../img/rarity/1.png);
+}
+
+td.rarity[rarity="2" i] {
+	width: 60px; height: 60px;
+	background-position: center;
+	background-size: 30px;
+	background-repeat: no-repeat;
+	background-image: url(../img/rarity/2.png);
+}
+
+td.rarity[rarity="3" i] {
+	width: 60px; height: 60px;
+	background-position: center;
+	background-size: 30px;
+	background-repeat: no-repeat;
+	background-image: url(../img/rarity/3.png);
+}
+
+td.rarity[rarity="4" i] {
+	width: 60px; height: 60px;
+	background-position: center;
+	background-size: 30px;
+	background-repeat: no-repeat;
+	background-image: url(../img/rarity/5.png);
+}
+
+td.rarity[rarity="5" i] {
+	width: 60px; height: 60px;
+	background-position: center;
+	background-size: 30px;
+	background-repeat: no-repeat;
+	background-image: url(../img/rarity/5.png);
+}
+
+td.rarity[rarity="6" i] {
+	width: 60px; height: 60px;
+	background-position: center;
+	background-size: 30px;
+	background-repeat: no-repeat;
+	background-image: url(../img/rarity/6.png);
 }
