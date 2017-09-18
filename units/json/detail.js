@@ -1064,7 +1064,7 @@ window.detail = {
 		leadname: "Chosen Future",
 		lead: "Intellect and Heart Type Maximum HP and Skill Damage +40%",
 
-		skill1name: "Susano'o: Chidori",
+		skill1name: "Tailed Beast Bomb",
 		skill1ogname: "尾獣玉",
 		skill1type: "Tailed Beast",
 		skill1speed: "Fast",
