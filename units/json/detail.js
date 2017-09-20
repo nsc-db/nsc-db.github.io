@@ -4953,7 +4953,7 @@ window.detail = {
 		skill2cost: "100",
 		skill2: "Deal 7% + 250,000 to one enemy with a very high chance to place them under \"Deficit\" state. [Deficit: Chakra Recovery becomes 0] *Deficit state is only active in PvP",
 
-		ability1name: "God of Destruction Wishing for Piece",
+		ability1name: "God of Destruction Wishing for Peace",
 		ability1: "Maximum Chakra +200, Immune to negate state",
 
 		ability2name: "Understanding of Despair",
@@ -4979,7 +4979,7 @@ window.detail = {
 		skill2cost: "100",
 		skill2: "Deal 7% + 250,000 to one enemy with a very high chance to place them under \"Deficit\" state. [Deficit: Chakra Recovery becomes 0] *Deficit state is only active in PvP",
 
-		ability1name: "God of Destruction Wishing for Piece",
+		ability1name: "God of Destruction Wishing for Peace",
 		ability1: "Maximum Chakra +200, Immune to negate state",
 
 		ability2name: "Understanding of Despair",
