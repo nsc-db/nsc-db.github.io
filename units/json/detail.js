@@ -4933,4 +4933,56 @@ window.detail = {
 		ability2name: "Sarutobi's Genius Member",
 		ability2: "Maximum HP +100%. For 3 turns Chakra Cost -80%"
 	},
+	
+	591: {
+		leadname: "Champion's Reward",
+		lead: "Akatsuki Character Maximum HP, ATK and SPD +100%",
+
+		skill1name: "Planetary Devastation",
+		skill1ogname: "地爆天星",
+		skill1type: "Rinnegan",
+		skill1speed: "Fastest",
+		skill1cost: "100",
+		skill1: "Deal 100,000 fixed damage to all enemies with a guarantee chance to cancel their actions. Recover 50% HP to Akatsuki allies",
+
+
+		skill2name: "Universal Thorn",
+		skill2ogname: "万象刺墜",
+		skill2type: "Rinnegan",
+		skill2speed: "Fastest",
+		skill2cost: "100",
+		skill2: "Deal 7% + 250,000 to one enemy with a very high chance to place them under \"Deficit\" state. [Deficit: Chakra Recovery becomes 0] *Deficit state is only active in PvP",
+
+		ability1name: "God of Destruction Wishing for Piece",
+		ability1: "Maximum Chakra +200, Immune to negate state",
+
+		ability2name: "Understanding of Despair",
+		ability2: "When HP reach 0, revive up to 5 times"
+	},
+
+	"591_6": {
+		leadname: "Champion's Reward",
+		lead: "Akatsuki Character Maximum HP, ATK and SPD +100%",
+
+		skill1name: "Planetary Devastation",
+		skill1ogname: "地爆天星",
+		skill1type: "Rinnegan",
+		skill1speed: "Fastest",
+		skill1cost: "100",
+		skill1: "Deal 100,000 fixed damage to all enemies with a guarantee chance to cancel their actions. Recover 50% HP to Akatsuki allies",
+
+
+		skill2name: "Universal Thorn",
+		skill2ogname: "万象刺墜",
+		skill2type: "Rinnegan",
+		skill2speed: "Fastest",
+		skill2cost: "100",
+		skill2: "Deal 7% + 250,000 to one enemy with a very high chance to place them under \"Deficit\" state. [Deficit: Chakra Recovery becomes 0] *Deficit state is only active in PvP",
+
+		ability1name: "God of Destruction Wishing for Piece",
+		ability1: "Maximum Chakra +200, Immune to negate state",
+
+		ability2name: "Understanding of Despair",
+		ability2: "When HP reach 0, revive up to 5 times"
+	},
 }
