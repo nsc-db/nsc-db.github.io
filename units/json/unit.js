@@ -187,8 +187,8 @@ window.unit=[
  [589, "Kurenai Yuhi, Twilight Illusion", "Courage", "Konoha", 6, 30, 12495, 12467, 9650, 164, 15, 14, 145, 1],
  [590, "Asuma Sarutobi, Konoha's Sharp Blade", "Courage", "Konoha", 6, 30, 14300, 10680, 11144, 156, 15, 15, 146, 0],
  [590, "Asuma Sarutobi, Konoha's Sharp Blade", "Courage", "Konoha", 6, 30, 14300, 10680, 11144, 156, 15, 15, 146, 1],
- [591, "Pain, Champion's Reward", "Heart", "Akatsuki", 6, 100, null, null, null, null, null, null, null, 0],
- [591, "Pain, Champion's Reward", "Heart", "Akatsuki", 6, 100, null, null, null, null, null, null, null, 1],
+ [591, "Pain, Champion's Reward", "Heart", "Akatsuki", 6, 100, 60153, 48653, 35782, 295, 35, 26, 181, 0],
+ [591, "Pain, Champion's Reward", "Heart", "Akatsuki", 6, 100, 60153, 48653, 35782, 295, 35, 26, 181, 1],
  //[600, "Naruto Uzumaki, ", "Technique", "Konoha", 6, null, null, null, null, null, null, null, null, 0],
  //[600, "Naruto Uzumaki, ", "Technique", "Konoha", 6, null, null, null, null, null, null, null, null, 1],
 ]
