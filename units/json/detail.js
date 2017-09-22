@@ -4985,4 +4985,205 @@ window.detail = {
 		ability2name: "Understanding of Despair",
 		ability2: "When HP reach 0, revive up to 5 times"
 	},
+	
+	596: {
+		leadname: "Sensastion of Saving Loneliness",
+		lead: "Konoha Character Maximum HP, SPD and Tailed Beast Skill Damage +60%",
+
+		skill1name: "Tailed Beast Rasenshuriken",
+		skill1ogname: "尾獣玉螺旋手裏剣",
+		skill1type: "Tailed Beast",
+		skill1speed: "Normal",
+		skill1cost: "100",
+		skill1: "Deal 3% + 2017 to all enemies.  Deal 2x damage if own ATK is buffed [Always Hit]",
+
+		skill2name: "You Don't Understand the Hokage!",
+		skill2ogname: "お前は火影を分かってねェ！",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "80",
+		skill2: "Own ATK, DEF and SPD +100%, Cast Speed +1 and remove all debuff. Grant \"Duel\" state [Duel: Own Skill Damage increase based on how many ally are alive.  +20% per ally.  Max 100%]",
+
+		ability1name: "Entrusted Six Paths Power",
+		ability1: "Maximum HP and Skill Damage +80%",
+
+		ability2name: "Consensus Tailed Beast Chakra",
+		ability2: "Maximum Chakra +50, Recover 5% Chakra after every action"
+	},
+
+	"596_6": {
+		leadname: "Sensastion of Saving Loneliness",
+		lead: "Konoha Character Maximum HP, SPD and Tailed Beast Skill Damage +60%",
+
+		skill1name: "Tailed Beast Rasenshuriken",
+		skill1ogname: "尾獣玉螺旋手裏剣",
+		skill1type: "Tailed Beast",
+		skill1speed: "Fast",
+		skill1cost: "100",
+		skill1: "Deal 3% + 20179 to all enemies.  Deal 2.3x damage if own ATK is buffed [Always Hit]",
+
+		skill2name: "You Don't Understand the Hokage!",
+		skill2ogname: "お前は火影を分かってねェ！",
+		skill2type: "Unique",
+		skill2speed: "Fastest",
+		skill2cost: "70",
+		skill2: "Own ATK, DEF and SPD +150%, Cast Speed +2 and remove all debuff. Grant \"Duel\" state [Duel: Own Skill Damage increase based on how many ally are alive.  +40% per ally.  Max 200%]",
+
+		ability1name: "Entrusted Six Paths Power",
+		ability1: "Maximum HP and Skill Damage +100%",
+
+		ability2name: "Consensus Tailed Beast Chakra",
+		ability2: "Maximum Chakra +100, Recover 10% Chakra after every action"
+	},
+
+	597: {
+		leadname: "Walking to Leadership",
+		lead: "Konoha Character Maximum HP and SPD +40%",
+
+		skill1name: "Tailed Beast Rasenshuriken",
+		skill1ogname: "尾獣玉螺旋手裏剣",
+		skill1type: "Tailed Beast",
+		skill1speed: "Normal",
+		skill1cost: "90",
+		skill1: "Deal 3% + 2,017 to all enemies.  Deal 3x damage when own ATK is buffed [Always hit]",
+
+		skill2name: "I Won't Leave You Alone",
+		skill2ogname: "独りになんてさせるかよ！",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "60",
+		skill2: "Own ATK and DEF +80%, Cast Speed +1 and grant \"Duel\" state. [Duel: Own Skill Damage increase based on how many ally are alive.  +10% per ally.  Max 50%]",
+
+		ability1name: "Nindo Demonstration",
+		ability1: "Maximum HP, ATK and Skill Damage +50%",
+
+		ability2name: "Always Believing in Bonds",
+		ability2: "Maximum Chakra +20, Recover 5% Chakra after every action"
+	},
+
+	"597_6": {
+		leadname: "Walking to Leadership",
+		lead: "Konoha Character Maximum HP and SPD +40%",
+
+		skill1name: "Tailed Beast Rasenshuriken",
+		skill1ogname: "尾獣玉螺旋手裏剣",
+		skill1type: "Tailed Beast",
+		skill1speed: "Fast",
+		skill1cost: "90",
+		skill1: "Deal 3% + 2,017 to all enemies.  Deal 3x damage when own ATK is buffed, deal 2x damage when own DEF is buffed (Max 6x) [Always hit]",
+
+		skill2name: "I Won't Leave You Alone",
+		skill2ogname: "独りになんてさせるかよ！",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "50",
+		skill2: "Own ATK and DEF +100%, Cast Speed +1 and grant \"Duel\" state. [Duel: Own Skill Damage increase based on how many ally are alive.  +20% per ally.  Max 100%]",
+
+		ability1name: "Nindo Demonstration",
+		ability1: "Maximum HP, ATK and Skill Damage +100%",
+
+		ability2name: "Always Believing in Bonds",
+		ability2: "Maximum Chakra +50, Recover 10% Chakra after every action"
+	},
+
+	598: {
+		leadname: "A New Paradise",
+		lead: "Konoha Character Maximum HP, SPD and Rinne Sharingan Damage +60%",
+
+		skill1name: "Susano'o: Chidori Blade",
+		skill1ogname: "須佐能乎・千鳥刀",
+		skill1type: "Rinne Sharingan",
+		skill1speed: "Normal",
+		skill1cost: "100",
+		skill1: "Deal 3% + 2017 to all enemies.  Deal 2x damage if own ATK is buffed [Always Hit]",
+
+		skill2name: "I am the Strongest in the World",
+		skill2ogname: "オレはこの世で最も強い",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "80",
+		skill2: "Own ATK, DEF and SPD +100%, Cast Speed +1 and remove all debuff. Grant \"Duel\" state [Duel: Own Skill Damage increase based on how many ally are alive.  +20% per ally.  Max 100%]",
+
+		ability1name: "Awakening Rinnegan",
+		ability1: "Maximum HP and Skill Damage +80%",
+
+		ability2name: "Stolen Tailed Beast Chakra",
+		ability2: "Maximum Chakra +50, Recover 5% Chakra after every action"
+	},
+
+	"598_6": {
+		leadname: "A New Paradise",
+		lead: "Konoha Character Maximum HP, SPD and Rinne Sharingan Damage +60%",
+		
+		skill1name: "Susano'o: Chidori Blade",
+		skill1ogname: "須佐能乎・千鳥刀",
+		skill1type: "Rinne Sharingan",
+		skill1speed: "Fast",
+		skill1cost: "100",
+		skill1: "Deal 3% + 20179 to all enemies.  Deal 2.3x damage if own ATK is buffed [Always Hit]",
+
+		skill2name: "I am the Strongest in the World",
+		skill2ogname: "オレはこの世で最も強い",
+		skill2type: "Unique",
+		skill2speed: "Fastest",
+		skill2cost: "70",
+		skill2: "Own ATK, DEF and SPD +150%, Cast Speed +1 and remove all debuff. Grant \"Duel\" state [Duel: Own Skill Damage increase based on how many ally are alive.  +40% per ally.  Max 150%]",
+
+		ability1name: "Awakening Rinnegan",
+		ability1: "Maximum HP and Skill Damage +100%",
+
+		ability2name: "Stolen Tailed Beast Chakra",
+		ability2: "Maximum Chakra +100, Recover 10% Chakra after every action"
+	},	
+
+	599: {
+		leadname: "Convergence Power",
+		lead: "Konoha Character Maximum HP and SPD +40%",
+
+		skill1name: "Susano'o: Chidori Blade",
+		skill1ogname: "須佐能乎・千鳥刀",
+		skill1type: "Rinne Sharingan",
+		skill1speed: "Normal",
+		skill1cost: "90",
+		skill1: "Deal 3% + 2,017 to all enemies.  Deal 3x damage when own ATK is buffed [Always hit]",
+
+		skill2name: "Cutting Off Friends in the Past Here",
+		skill2ogname: "友も過去もここで断ち切る！",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "60",
+		skill2: "Own ATK and DEF +80%, Cast Speed +1 and grant \"Duel\" state. [Duel: Own Skill Damage increase based on how many ally are alive.  +10% per ally.  Max 50%]",
+
+		ability1name: "Inhert Brother's Eye",
+		ability1: "Maximum HP, ATK and Skill Damage +50%",
+
+		ability2name: "Decision of Loneliless",
+		ability2: "Maximum Chakra +20, Recover 5% Chakra after every action"
+	},
+
+	"599_6": {
+		leadname: "Convergence Power",
+		lead: "Konoha Character Maximum HP and SPD +40%",
+
+		skill1name: "Susano'o: Chidori Blade",
+		skill1ogname: "須佐能乎・千鳥刀",
+		skill1type: "Rinne Sharingan",
+		skill1speed: "Fast",
+		skill1cost: "90",
+		skill1: "Deal 3% + 2,017 to all enemies.  Deal 3x damage when own ATK is buffed, deal 2x damage when own DEF is buffed (Max 6x) [Always hit]",
+
+		skill2name: "Cutting Off Friends in the Past Here",
+		skill2ogname: "友も過去もここで断ち切る！",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "50",
+		skill2: "Own ATK and DEF +100%, Cast Speed +1 and grant \"Duel\" state. [Duel: Own Skill Damage increase based on how many ally are alive.  +20% per ally.  Max 100%]",
+
+		ability1name: "Inhert Brother's Eye",
+		ability1: "Maximum HP, ATK and Skill Damage +100%",
+
+		ability2name: "Decision of Loneliless",
+		ability2: "Maximum Chakra +50, Recover 10% Chakra after every action"
+	},
+	
 }
