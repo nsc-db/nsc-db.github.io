@@ -5186,4 +5186,53 @@ window.detail = {
 		ability2: "Maximum Chakra +50, Recover 10% Chakra after every action"
 	},
 	
+	600: {
+		leadname: "A True Hero",
+		lead: "Konoha Character Maximum HP +50%, recover 5% HP when attacked" ,
+
+		skill1name: "Frog Song",
+		skill1ogname: "蛙鳴き",
+		skill1type: "Sage",
+		skill1speed: "Normal",
+		skill1cost: "80",
+		skill1: "Deal 3% + 3,000 to all enemies.  Deal 6x damage to Akatsuki Character",
+
+		skill2name: "Here I Go!",
+		skill2ogname: "こっちからいくぜ",
+		skill2type: "None",
+		skill2speed: "Fast",
+		skill2cost: "70",
+		skill2: "Enemies ATK and Basic Attack Dodge -20%.  Cast Speed -1 to Akatsuki enemies.  Own Skill Damage +100%",
+
+		ability1name: "Sage Chakra Kage Bunshin",
+		ability1: "For 7 turns, Skill Damage +60%",
+
+		ability2name: "Danger Detection",
+		ability2: "Maximum HP +50%, chance to to dodge skills"
+	},
+
+	"600_6": {
+		leadname: "A True Hero",
+		lead: "Konoha Character Maximum HP +50%, recover 5% HP when attacked" ,
+
+		skill1name: "Frog Song",
+		skill1ogname: "蛙鳴き",
+		skill1type: "Sage",
+		skill1speed: "Fast",
+		skill1cost: "70",
+		skill1: "Deal 3% + 4,000 to all enemies.  Deal 16x damage to Akatsuki Character",
+
+		skill2name: "Here I Go!",
+		skill2ogname: "こっちからいくぜ",
+		skill2type: "None",
+		skill2speed: "Fastest",
+		skill2cost: "70",
+		skill2: "Enemies ATK and Basic Attack Dodge -40%.  Cast Speed -1 to Akatsuki enemies.  Own Skill Damage +120%",
+
+		ability1name: "Sage Chakra Kage Bunshin",
+		ability1: "For 10 turns, Skill Damage +100%",
+
+		ability2name: "Danger Detection",
+		ability2: "Maximum HP +100%, chance to to dodge skills"
+	},
 }
