@@ -1,4 +1,154 @@
 window.detail = {
+	3: {
+		leadname: "Innate Talent",
+		lead: "Intellect Type Maximum HP +15%",
+
+		skill1name: "Fire Style: Phoenix Flower Jutsu",
+		skill1ogname: "火遁・鳳仙火の術",
+		skill1type: "Fire",
+		skill1speed: "Normal",
+		skill1cost: "60",
+		skill1: "Deal 7% + 770 to one enemy",
+
+		skill2name: "Chidori",
+		skill2ogname: "千鳥",
+		skill2type: "Lightning",
+		skill2speed: "Fast",
+		skill2cost: "65",
+		skill2: "Deal 7% + 770 to one enemy",
+
+		ability1name: "Uchiha Lineage",
+		ability1: "Immune to Fire Skill Damage, Fire Skill Damage +30%",
+
+		ability2name: "Sharingan Awakening",
+		ability2: "Chance to dodge skills when HP is below 30%"
+	},
+
+	"3_6": {
+		leadname: "Innate Talent",
+		lead: "Intellect Type Maximum HP +15%",
+
+		skill1name: "Fire Style: Phoenix Flower Jutsu",
+		skill1ogname: "火遁・鳳仙火の術",
+		skill1type: "Fire",
+		skill1speed: "Fast",
+		skill1cost: "40",
+		skill1: "Deal 7% + 2,000 to one enemy with a chance to burn.  Deal 2x damage to burning enemies",
+
+		skill2name: "Chidori",
+		skill2ogname: "千鳥",
+		skill2type: "Lightning",
+		skill2speed: "Fastest",
+		skill2cost: "55",
+		skill2: "Deal 7% + 2,000 to one enemy.  Deal 2x damage when own ATK is buffed.  Deal 1.5x damage to burning enemies(Max 3x)",
+
+		ability1name: "Uchiha Lineage",
+		ability1: "Immune to Fire Skill Damage, Fire Skill Damage +80%",
+
+		ability2name: "Sharingan Awakening",
+		ability2: "Lightning Skill Damage +100%, Chance to dodge skills"
+	},
+
+	6: {
+		leadname: "Carnage Lightning",
+		lead: "Courage Type ATK +20%",
+
+		skill1name: "Raikiri",
+		skill1ogname: "雷切",
+		skill1type: "Lightning",
+		skill1speed: "Fast",
+		skill1cost: "70",
+		skill1: "Deal 7% + 870 to one enemy",
+
+		skill2name: "Water Style: Water Wall",
+		skill2ogname: "水遁・水陣壁",
+		skill2type: "Water",
+		skill2speed: "Fast",
+		skill2cost: "40",
+		skill2: "All allies DEF +60% and immune to Fire Skill Damage",
+
+		ability1name: "Sharingan",
+		ability1: "Chance to dodge skills",
+
+		ability2name: "Lightning User",
+		ability2: "Immune to Lightning Skill Damage, Lightning Skill Damage +20%"
+	},
+
+	"6_6": {
+		leadname: "Carnage Lightning",
+		lead: "Courage Type ATK +20%",
+
+		skill1name: "Raikiri",
+		skill1ogname: "雷切",
+		skill1type: "Lightning",
+		skill1speed: "Fastest",
+		skill1cost: "60",
+		skill1: "Deal 7% + 2,000 to one enemy.  Deal 1.5x damage when  own DEF is buffed.  Deal 2x damage when own SPD is buffed (Max 3x)",
+
+		skill2name: "Water Style: Water Wall",
+		skill2ogname: "水遁・水陣壁",
+		skill2type: "Water",
+		skill2speed: "Fastest",
+		skill2cost: "40",
+		skill2: "All allies ATK and DEF +80% and immune to Fire Skill Damage",
+
+		ability1name: "Sharingan",
+		ability1: "Medium chance to dodge skills",
+
+		ability2name: "Lightning User",
+		ability2: "Immune to Lightning Skill Damage, Lightning Skill Damage +100%"
+	},
+
+	45: {
+		leadname: "Akatsuki's Carnage",
+		lead: "Technique Type ATK +20%",
+
+		skill1name: "Tsukuyomi",
+		skill1ogname: "月読",
+		skill1type: "Sharingan",
+		skill1speed: "Fast",
+		skill1cost: "65",
+		skill1: "Deal 7% + 800 to one enemy with a chance to paralyze",
+
+		skill2name: "Mangekyo Sharingan's Threat",
+		skill2ogname: "戦慄の万華鏡写輪眼",
+		skill2type: "Sharingan",
+		skill2speed: "Fast",
+		skill2cost: "50",
+		skill2: "Chance to reduce one enemy's DEF and SPD -50%",
+
+		ability1name: "Chakra Control (Small)",
+		ability1: "Chakra Cost -12%",
+
+		ability2name: "Sharingan's Knowledge",
+		ability2: "Sharingan Skill Damage +20%"
+	},
+
+	"45_6": {
+		leadname: "Akatsuki's Carnage",
+		lead: "Technique Type ATK +20%",
+
+		skill1name: "Tsukuyomi",
+		skill1ogname: "月読",
+		skill1type: "Sharingan",
+		skill1speed: "Fast",
+		skill1cost: "65",
+		skill1: "Deal 7% + 800 to one enemy with a chance to paralyze",
+
+		skill2name: "Mangekyo Sharingan's Threat",
+		skill2ogname: "戦慄の万華鏡写輪眼",
+		skill2type: "Sharingan",
+		skill2speed: "Fast",
+		skill2cost: "50",
+		skill2: "Chance to reduce one enemy's DEF and SPD -50%",
+
+		ability1name: "Chakra Control (Small)",
+		ability1: "Chakra Cost -12%",
+
+		ability2name: "Sharingan's Knowledge",
+		ability2: "Sharingan Skill Damage +20%"
+	},
+
 	155: {
 		leadname: "Expanding Sage Jutsu",
 		lead: "Konoha Character Maximum HP +20%, Recover 5% HP after every action",
@@ -4009,7 +4159,7 @@ window.detail = {
 		skill1type: "Taijutsu",
 		skill1speed: "Fast",
 		skill1cost: "100",
-		skill1: "Deak 80x ATK damage ignoring 30% DEF.  Grant \"Exhaust\" state afterwards. [Exhaust: Action is disabled] [Always Hit]",
+		skill1: "Deal 80x ATK damage ignoring 30% DEF.  Grant \"Exhaust\" state afterwards. [Exhaust: Action is disabled] [Always Hit]",
 
 
 		skill2name: "Death Gate Open!!",
@@ -4035,7 +4185,7 @@ window.detail = {
 		skill1type: "Taijutsu",
 		skill1speed: "Fastest",
 		skill1cost: "100",
-		skill1: "Deak 100x ATK damage ignoring 70% DEF.  Consume all chakra and own SPD -50% [Always Hit]",
+		skill1: "Deal 100x ATK damage ignoring 70% DEF.  Consume all chakra and own SPD -50% [Always Hit]",
 
 
 		skill2name: "Death Gate Open!!",
@@ -4061,7 +4211,7 @@ window.detail = {
 		skill1type: "Tailed Beast",
 		skill1speed: "Fast",
 		skill1cost: "70",
-		skill1: "Deak 7% + 4,000 to one enemy with a chance to lower DEF by 30%.  Deal 5x damage while under \"Resonance\" state.",
+		skill1: "Deal 7% + 4,000 to one enemy with a chance to lower DEF by 30%.  Deal 5x damage while under \"Resonance\" state.",
 
 
 		skill2name: "Real Feelings",
@@ -4087,7 +4237,7 @@ window.detail = {
 		skill1type: "Tailed Beast",
 		skill1speed: "Fast",
 		skill1cost: "60",
-		skill1: "Deak 7% + 8,000 to one enemy with a chance to lower DEF by 50%, and crit dealing 2x damage.  Deal 6x damage while under \"Resonance\" state. (Max 12x)",
+		skill1: "Deal 7% + 8,000 to one enemy with a chance to lower DEF by 50%, and crit dealing 2x damage.  Deal 6x damage while under \"Resonance\" state. (Max 12x)",
 
 
 		skill2name: "Real Feelings",
@@ -4113,7 +4263,7 @@ window.detail = {
 		skill1type: "Tailed Beast",
 		skill1speed: "Fast",
 		skill1cost: "70",
-		skill1: "Deak 7% + 4,000 to one enemy with a chance to lower SPD by 30%.  Deal 5x damage while under \"Resonance\" state.",
+		skill1: "Deal 7% + 4,000 to one enemy with a chance to lower SPD by 30%.  Deal 5x damage while under \"Resonance\" state.",
 
 
 		skill2name: "To Pertain the Future",
@@ -4139,7 +4289,7 @@ window.detail = {
 		skill1type: "Tailed Beast",
 		skill1speed: "Fast",
 		skill1cost: "60",
-		skill1: "Deak 7% + 8,000 to one enemy with a chance to lower SPD by 30%, and crit dealing 2x damage.  Deal 6x damage while under \"Resonance\" state. (Max 12x)",
+		skill1: "Deal 7% + 8,000 to one enemy with a chance to lower SPD by 30%, and crit dealing 2x damage.  Deal 6x damage while under \"Resonance\" state. (Max 12x)",
 
 
 		skill2name: "To Pertain the Future",
@@ -4165,7 +4315,7 @@ window.detail = {
 		skill1type: "Tailed Beast",
 		skill1speed: "Fast",
 		skill1cost: "70",
-		skill1: "Deak 7% + 4,000 to one enemy with a chance to lower ATK by 30%.  Deal 5x damage while under \"Resonance\" state.",
+		skill1: "Deal 7% + 4,000 to one enemy with a chance to lower ATK by 30%.  Deal 5x damage while under \"Resonance\" state.",
 
 
 		skill2name: "Certainly, We Can Do It",
@@ -4191,7 +4341,7 @@ window.detail = {
 		skill1type: "Tailed Beast",
 		skill1speed: "Fast",
 		skill1cost: "60",
-		skill1: "Deak 7% + 8,000 to one enemy with a chance to lower ATK by 50%, and crit dealing 2x damage.  Deal 6x damage while under \"Resonance\" state. (Max 12x)",
+		skill1: "Deal 7% + 8,000 to one enemy with a chance to lower ATK by 50%, and crit dealing 2x damage.  Deal 6x damage while under \"Resonance\" state. (Max 12x)",
 
 
 		skill2name: "Certainly, We Can Do It",
@@ -4208,6 +4358,162 @@ window.detail = {
 		ability2: "Skill Damage +100%, Recover 20% Chakra after every action"
 	},
 
+	573: {
+		leadname: "Fuel Festival Soul",
+		lead: "Konoha Courage Characters Skill Damage +50%",
+
+		skill1name: "Festival Rasengan",
+		skill1ogname: "お祭り螺旋丸",
+		skill1type: "Unique",
+		skill1speed: "Fast",
+		skill1cost: "80",
+		skill1: "Deal 6x ATK damage to one enemy ignoring 30% DEF.  Deal 4x damage when own SPD is buff.  Deal 2x damage if \"Hinata Hyuga [Hiden/Shinden]\" is in the team (Max 8x)",
+
+
+		skill2name: "Festival Charge!",
+		skill2ogname: "お祭り突撃だ―！",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "60",
+		skill2: "Chance to lower all enemies ATK, DEF and SPD by 20%.  Own SPD +80%",
+
+		ability1name: "Understanding Rasengan [Water Balloon]",
+		ability1: "ATK +40%.  For 2 turns, Cast Speed +1",
+
+		ability2name: "Sufficient Spirit",
+		ability2: "ATK and Skill Damage +70% when HP is above 80%"
+	},
+
+	"573_6": {
+		leadname: "Fuel Festival Soul",
+		lead: "Konoha Courage Characters Skill Damage +50%",
+
+		skill1name: "Festival Rasengan",
+		skill1ogname: "お祭り螺旋丸",
+		skill1type: "Unique",
+		skill1speed: "Fast",
+		skill1cost: "70",
+		skill1: "Deal 8x ATK damage to one enemy ignoring 30% DEF.  Deal 5x damage when own SPD is buff.  Deal 2.5x damage if \"Hinata Hyuga [Hiden/Shinden]\" is in the team (Max 12.5x)",
+
+
+		skill2name: "Festival Charge!",
+		skill2ogname: "お祭り突撃だ―！",
+		skill2type: "Unique",
+		skill2speed: "Fastest",
+		skill2cost: "50",
+		skill2: "High chance to lower all enemies ATK, DEF and SPD by 40%.  Own SPD +100%",
+
+		ability1name: "Understanding Rasengan [Water Balloon]",
+		ability1: "ATK +80%.  For 4 turns, Cast Speed +1",
+
+		ability2name: "Sufficient Spirit",
+		ability2: "ATK and Skill Damage +100% when HP is above 50%"
+	},
+
+	574: {
+		leadname: "Festival Night",
+		lead: "Recover 10% Chakra after every action for Intellect and Courage",
+
+		skill1name: "Eight Triagrams Fan Control",
+		skill1ogname: "八卦団扇空衝",
+		skill1type: "Byakugan",
+		skill1speed: "Fast",
+		skill1cost: "70",
+		skill1: "Deal 7% + 2,000 to one enemy with a chance to cancel action and/or stun. ",
+
+
+		skill2name: "Absolutely Beautiful",
+		skill2ogname: "とっても綺麗…！",
+		skill2type: "Unique",
+		skill2speed: "Normal",
+		skill2cost: "80",
+		skill2: "Recover a large amount of HP to all allies, Chakra Cost -10% and grant \"Festival\" state to \"Naruto Uzumaki [Hiden/Shinden]\", \"Hinata Hyuga [Hiden/Shinden]\", and \"Hanabi Hyuga [Hiden/Shinden]\". [Festival: ATK, SPD and Skill Damage +100%, recover 10% Chakra after every action]",
+
+		ability1name: "New Yukata",
+		ability1: "Maximum HP, ATK and DEF +40%",
+
+		ability2name: "Gentle Sister",
+		ability2: "Chakra Cost -10%, half the chance of being inflicted by a negative state"
+	},
+
+	"574_6": {
+		leadname: "Festival Night",
+		lead: "Recover 10% Chakra after every action for Intellect and Courage",
+
+		skill1name: "Eight Triagrams Fan Control",
+		skill1ogname: "八卦団扇空衝",
+		skill1type: "Byakugan",
+		skill1speed: "Fastest",
+		skill1cost: "60",
+		skill1: "Deal 7% + 3,000 to one enemy with a high chance to cancel action and/or stun. Deal 3x damage to stunned enemies",
+
+
+		skill2name: "Absolutely Beautiful",
+		skill2ogname: "とっても綺麗…！",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "60",
+		skill2: "Recover a large amount of HP to all allies, Chakra Cost -20% and grant \"Festival\" state to \"Naruto Uzumaki [Hiden/Shinden]\", \"Hinata Hyuga [Hiden/Shinden]\", and \"Hanabi Hyuga [Hiden/Shinden]\". [Festival: ATK, SPD and Skill Damage +150%, recover 10% Chakra after every action]",
+
+		ability1name: "New Yukata",
+		ability1: "Maximum HP, ATK and DEF +80%",
+
+		ability2name: "Gentle Sister",
+		ability2: "Chakra Cost -20%, immune to negative state"
+	},
+
+	575: {
+		leadname: "Flower Blooming in the Night Sky",
+		lead: "Konoha Character ATK and SPD +40%",
+
+		skill1name: "Eight Triagrams Rotation Firework",
+		skill1ogname: "八卦団扇空衝",
+		skill1type: "Byakugan",
+		skill1speed: "Normal",
+		skill1cost: "70",
+		skill1: "Deal 10 hits dealing 3% + 500 per hit to random enemies, with a chance to burn them. Deal 2x damage when one of the enemies is burning",
+
+
+		skill2name: "Ta-maya!",
+		skill2ogname: "たーまやー！",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "80",
+		skill2: "Own ATK and SPD +80%, Cast Speed +1",
+
+		ability1name: "Festival Feelings",
+		ability1: "Maximum HP +80%",
+
+		ability2name: "Innate Talent",
+		ability2: "ATK, DEF and Skill Damage +70% when HP is above 80%"
+	},
+
+	"575_6": {
+		leadname: "Flower Blooming in the Night Sky",
+		lead: "Konoha Character ATK and SPD +40%",
+
+		skill1name: "Eight Triagrams Rotation Firework",
+		skill1ogname: "八卦団扇空衝",
+		skill1type: "Byakugan",
+		skill1speed: "Fast",
+		skill1cost: "50",
+		skill1: "Deal 20 hits dealing 3% + 800 per hit to random enemies, with a chance to burn them. Deal 2.5x damage when one of the enemies is burning",
+
+
+		skill2name: "Ta-maya!",
+		skill2ogname: "たーまやー！",
+		skill2type: "Unique",
+		skill2speed: "Fastest",
+		skill2cost: "75",
+		skill2: "Own ATK and SPD +100%, Cast Speed +1",
+
+		ability1name: "Festival Feelings",
+		ability1: "Maximum HP +100%, recover 10% Chakra after every action",
+
+		ability2name: "Innate Talent",
+		ability2: "ATK, DEF and Skill Damage +100% when HP is above 50%"
+	},
+
 	576: {
 		leadname: "Demon of the Mist",
 		lead: "None or Kiri Characters HP and ATK +50%",
@@ -4217,7 +4523,7 @@ window.detail = {
 		skill1type: "Water",
 		skill1speed: "Fast",
 		skill1cost: "80",
-		skill1: "Deak 7% + 5,000 to one enemy with a chance to lower ATK by 90%, and has a chance to lower Cast Speed by 2",
+		skill1: "Deal 7% + 5,000 to one enemy with a chance to lower ATK by 90%, and has a chance to lower Cast Speed by 2",
 
 
 		skill2name: "I Will Kill You Without Making a Sound",
@@ -4243,7 +4549,7 @@ window.detail = {
 		skill1type: "Water",
 		skill1speed: "Fast",
 		skill1cost: "80",
-		skill1: "Deak 7% + 5,000 to one enemy with a chance to lower ATK by 90%, and has a chance to lower Cast Speed by 2",
+		skill1: "Deal 7% + 5,000 to one enemy with a chance to lower ATK by 90%, and has a chance to lower Cast Speed by 2",
 
 
 		skill2name: "I Will Kill You Without Making a Sound",
@@ -4985,7 +5291,6 @@ window.detail = {
 		ability2name: "Understanding of Despair",
 		ability2: "When HP reach 0, revive up to 5 times"
 	},
-	
 	596: {
 		leadname: "Sensastion of Saving Loneliness",
 		lead: "Konoha Character Maximum HP, SPD and Tailed Beast Skill Damage +60%",
@@ -5234,5 +5539,205 @@ window.detail = {
 
 		ability2name: "Danger Detection",
 		ability2: "Maximum HP +100%, chance to to dodge skills"
+	},
+
+	606: {
+		leadname: "Exchanging Lives",
+		lead: "Heart type Maximum HP and ATK +40%. For 2 turns, Chakra Cost -50%" ,
+
+		skill1name: "Sealing Jutsu: Reaper Death Seal",
+		skill1ogname: "封印術・屍鬼封尽",
+		skill1type: "Sealing",
+		skill1speed: "Normal",
+		skill1cost: "100",
+		skill1: "Deal 5,000 fixed damage to one enemy with a chance to place them under \"Reaper\" state.  Reduce own HP by 40% after using this skill. [Reaper: Reaper stacks doing different effect based on the number of stacks [1] SPD -20% [2] Can't use skills [3] Reduce HP to 0",
+
+		skill2name: "I Will Do It For The Sake Of This Child!",
+		skill2ogname: "この子の為にやるんだ！",
+		skill2type: "Unique",
+		skill2speed: "Normal",
+		skill2cost: "60",
+		skill2: "Own SPD +50% and grant \"Resolution\" and \"Concentration\" state.  [Resolution: ATK, DEF and SPD +30%, recover 5% HP and Chakra when attacked] [Concentration: Reduce chakra cost after every action. Max 30%]",
+
+		ability1name: "Prepared Father",
+		ability1: "Maximum HP +70%, Reduce the effect of debuff by half",
+
+		ability2name: "Final Words",
+		ability2: "Low chance to increase Cast Speed by 1 after every action"
+	},
+
+	"606_6": {
+		leadname: "Exchanging Lives",
+		lead: "Heart type Maximum HP and ATK +40%. For 2 turns, Chakra Cost -50%" ,
+
+		skill1name: "Sealing Jutsu: Reaper Death Seal",
+		skill1ogname: "封印術・屍鬼封尽",
+		skill1type: "Sealing",
+		skill1speed: "Normal",
+		skill1cost: "90",
+		skill1: "Deal 10,000 fixed damage to one enemy with a high chance to place them under \"Reaper\" state.  Reduce own HP by 40% after using this skill. [Reaper: Reaper stacks doing different effect based on the number of stacks [1] SPD -20% [2] Can't use skills [3] Reduce HP to 0",
+
+		skill2name: "I Will Do It For The Sake Of This Child!",
+		skill2ogname: "この子の為にやるんだ！",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "50",
+		skill2: "Own SPD +100% and grant \"Resolution\" and \"Concentration\" state.  [Resolution: ATK, DEF and SPD +40%, recover 10% HP and Chakra when attacked] [Concentration: Reduce chakra cost after every action. Max 50%]",
+
+		ability1name: "Prepared Father",
+		ability1: "Maximum HP +100%, immune to debuff",
+
+		ability2name: "Final Words",
+		ability2: "Chance to increase Cast Speed by 1 after every action"
+	},
+
+	607: {
+		leadname: "Eager Reunion",
+		lead: "Reduce incoming Tailed Beast and Sealing Skill Damage" ,
+
+		skill1name: "Adamantine Sealing Chains",
+		skill1ogname: "金剛封鎖",
+		skill1type: "Sealing",
+		skill1speed: "Fast",
+		skill1cost: "65",
+		skill1: "Deal 3% + 4,000 to all enemies with a chance to seal and/or cancel action.  Deal more damage the more Konoha allies are alive.  Max 3x with 5 Konoha allies alive",
+
+		skill2name: "Prepared Mother",
+		skill2ogname: "母の覚悟",
+		skill2type: "Unique",
+		skill2speed: "Normal",
+		skill2cost: "80",
+		skill2: "Recover own HP by a large amount, reduce incoming skill damage and protect all her allies. Grant \"Love\" state to \"Naruto Uzumaki\" and \"Minato Namikaze\" [Love: ATK, SPD and Skill Damage +70%, and reduce incoming skill damage",
+
+		ability1name: "Pull",
+		ability1: "Skill Damage +100% when HP is above 80%",
+
+		ability2name: "Warm Affection",
+		ability2: "Maximum HP +70%, recover 5% HP when attacked"
+	},
+
+	"607_6": {
+		leadname: "Eager Reunion",
+		lead: "Reduce incoming Tailed Beast and Sealing Skill Damage" ,
+
+		skill1name: "Adamantine Sealing Chains",
+		skill1ogname: "金剛封鎖",
+		skill1type: "Sealing",
+		skill1speed: "Fastest",
+		skill1cost: "55",
+		skill1: "Deal 3% + 8,000 to all enemies with a chance to seal and/or cancel action.  Deal more damage the more Konoha allies are alive.  Max 5x with 5 Konoha allies alive.  Chance to reduce enemies Cast Speed by 1",
+
+		skill2name: "Prepared Mother",
+		skill2ogname: "母の覚悟",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "80",
+		skill2: "Recover own HP by a tremendous amount, reduce incoming skill damage by half and protect all her allies. Grant \"Love\" state to \"Naruto Uzumaki\" and \"Minato Namikaze\" [Love: ATK, SPD and Skill Damage +100%, and reduce incoming skill damage",
+
+		ability1name: "Pull",
+		ability1: "Skill Damage +150% when HP is above 50%",
+
+		ability2name: "Warm Affection",
+		ability2: "Maximum HP +100%, recover 10% HP when attacked"
+	},
+
+	608: {
+		leadname: "Warm Affection",
+		lead: "Reduce incoming Tailed Beast and Sealing Skill Damage" ,
+
+		skill1name: "Sage Style: Massive Rasengan Barrage",
+		skill1ogname: "仙法・大玉螺旋多連丸",
+		skill1type: "Sage",
+		skill1speed: "Normal",
+		skill1cost: "90",
+		skill1: "Deal 7% + 7,610 to one enemy.  Deal 2x damage while under \"Sage Chakra Concentration\" [Always Hit]",
+
+		skill2name: "Here!",
+		skill2ogname: "ここだァー！",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "80",
+		skill2: "Own ATK, and SPD +100% and grant \"Sage Chakra Concentration\" [Sage Chakra Concentration: ATK, DEF, SPD and Skill Damage +100%, Chakra Cost -30%.  Once the state expire, set Chakra to 0]",
+
+		ability1name: "Conscious of Love",
+		ability1: "Maximum HP +90%, chance to dodge skills",
+
+		ability2name: "Kyubi's Vessel",
+		ability2: "Skill Damage +90% when HP is below 90%"
+	},
+
+	"608_6": {
+		leadname: "Warm Affection",
+		lead: "Reduce incoming Tailed Beast and Sealing Skill Damage" ,
+
+		skill1name: "Sage Style: Massive Rasengan Barrage",
+		skill1ogname: "仙法・大玉螺旋多連丸",
+		skill1type: "Sage",
+		skill1speed: "Fast",
+		skill1cost: "80",
+		skill1: "Deal 7% + 7,610 to one enemy.  Deal 5x damage while under \"Sage Chakra Concentration\" [Always Hit]",
+
+		skill2name: "Here!",
+		skill2ogname: "ここだァー！",
+		skill2type: "Unique",
+		skill2speed: "Fastest",
+		skill2cost: "50",
+		skill2: "Own ATK, and SPD +120% and grant \"Sage Chakra Concentration\" [Sage Chakra Concentration: ATK, DEF, SPD and Skill Damage +150%, Chakra Cost -50%.  Once the state expire, set Chakra to 0]",
+
+		ability1name: "Conscious of Love",
+		ability1: "Maximum HP and ATK +90%, chance to dodge skills",
+
+		ability2name: "Kyubi's Vessel",
+		ability2: "Skill Damage +120% when HP is above 50%"
+	},
+
+	609: {
+		leadname: "Warm Affection",
+		lead: "Reduce incoming Tailed Beast and Sealing Skill Damage" ,
+
+		skill1name: "Rasengan",
+		skill1ogname: "螺旋丸",
+		skill1type: "Wind",
+		skill1speed: "Fast",
+		skill1cost: "70",
+		skill1: "Deal 7% + 1,500 to one enemy.  Deal 10x damage when the enemy's ATK, DEF and/or SPD is debuffed",
+
+		skill2name: "You Can't Defeat Me",
+		skill2ogname: "お前はオレに勝てねーよ",
+		skill2type: "None",
+		skill2speed: "Fast",
+		skill2cost: "50",
+		skill2: "Chance to reduce one enemy's ATK, DEF and SPD by 50%.  Own Skill Damage +100%",
+
+		ability1name: "Hatred Inside the Heart",
+		ability1: "ATK +20% after every action (Max 100%)",
+
+		ability2name: "Voice of Heart",
+		ability2: "Maximum HP and ATK +50%, Chakra Cost -10%"
+	},
+
+	"609_6": {
+		leadname: "Warm Affection",
+		lead: "Reduce incoming Tailed Beast and Sealing Skill Damage" ,
+
+		skill1name: "Rasengan",
+		skill1ogname: "螺旋丸",
+		skill1type: "Wind",
+		skill1speed: "Fast",
+		skill1cost: "70",
+		skill1: "Deal 7% + 1,500 to one enemy.  Deal 10x damage when the enemy's ATK, DEF and/or SPD is debuffed",
+
+		skill2name: "You Can't Defeat Me",
+		skill2ogname: "お前はオレに勝てねーよ",
+		skill2type: "None",
+		skill2speed: "Fast",
+		skill2cost: "50",
+		skill2: "Chance to reduce one enemy's ATK, DEF and SPD by 50%.  Own Skill Damage +100%",
+
+		ability1name: "Hatred Inside the Heart",
+		ability1: "ATK +20% after every action (Max 100%)",
+
+		ability2name: "Voice of Heart",
+		ability2: "Maximum HP and ATK +50%, Chakra Cost -10%"
 	},
 }
