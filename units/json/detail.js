@@ -2224,6 +2224,58 @@ window.detail = {
 		ability2: "ATK +50%.  Skill Damage +150% when Chakra is max"
 	},
 
+	487: {
+		leadname: "Champion's Reward",
+		lead: "Body Type Maximum HP, ATK and SPD +100%",
+
+		skill1name: "Tailed Beast Bomb",
+		skill1ogname: "尾獣玉",
+		skill1type: "Tailed Beast",
+		skill1speed: "Fast",
+		skill1cost: "100",
+		skill1: "Deal 100,000 fixed damage to all enemies",
+
+
+		skill2name: "Wind Style: Rasenshuriken",
+		skill2ogname: "風遁・螺旋手裏剣",
+		skill2type: "Wind",
+		skill2speed: "Fastest",
+		skill2cost: "100",
+		skill2: "Deal 7% + 100,000 to one enemy.  Deal 6x damage against None Characters",
+
+		ability1name: "Perfect Fighting Prowess",
+		ability1: "Maximum Chakra +200, high chance to recover 40% HP when attacked",
+
+		ability2name: "Hatred Beated by Bond",
+		ability2: "When HP reach 0, revive twice"
+	},
+
+	"487_6": {
+		leadname: "Champion's Reward",
+		lead: "Body Type Maximum HP, ATK and SPD +100%",
+
+		skill1name: "Tailed Beast Bomb",
+		skill1ogname: "尾獣玉",
+		skill1type: "Tailed Beast",
+		skill1speed: "Fast",
+		skill1cost: "100",
+		skill1: "Deal 100,000 fixed damage to all enemies",
+
+
+		skill2name: "Wind Style: Rasenshuriken",
+		skill2ogname: "風遁・螺旋手裏剣",
+		skill2type: "Wind",
+		skill2speed: "Fastest",
+		skill2cost: "100",
+		skill2: "Deal 7% + 100,000 to one enemy.  Deal 6x damage against None Characters",
+
+		ability1name: "Perfect Fighting Prowess",
+		ability1: "Maximum Chakra +200, high chance to recover 40% HP when attacked",
+
+		ability2name: "Hatred Beated by Bond",
+		ability2: "When HP reach 0, revive twice"
+	},
+
 	489: {
 		leadname: "A Tailess Tailed Beast",
 		lead: "Body Akatsuki Maximum HP and recover 10% HP after every action",
@@ -3262,6 +3314,58 @@ window.detail = {
 
 		ability2name: "Brother's Vow (A)",
 		ability2: "Skill Damage +80%, reduce the chance of being debuffed by half"
+	},
+
+	534: {
+		leadname: "Champion's Reward",
+		lead: "Technique Type Maximum HP, ATK and SPD +100%",
+
+		skill1name: "Inferno Style: Kagutsuchi",
+		skill1ogname: "炎遁・加具土命",
+		skill1type: "Sage",
+		skill1speed: "Fast",
+		skill1cost: "100",
+		skill1: "Deal 120,000 fixed damage to all enemies",
+
+
+		skill2name: "Wind Style: Rasenshuriken",
+		skill2ogname: "風遁・螺旋手裏剣",
+		skill2type: "Inferno",
+		skill2speed: "Fastest",
+		skill2cost: "100",
+		skill2: "Deal 7% + 120,000 to one enemy.  Deal 3x damage against characters from the Five Village",
+
+		ability1name: "Mangekyo's Value Tomoe",
+		ability1: "Maximum Chakra +200, chance to dodge skills",
+
+		ability2name: "Black Flames",
+		ability2: "Half the chance of being inflicted by a negative state and When HP reach 0, revive once"
+	},
+
+	"534_6": {
+		leadname: "Champion's Reward",
+		lead: "Technique Type Maximum HP, ATK and SPD +100%",
+
+		skill1name: "Inferno Style: Kagutsuchi",
+		skill1ogname: "炎遁・加具土命",
+		skill1type: "Sage",
+		skill1speed: "Fast",
+		skill1cost: "100",
+		skill1: "Deal 120,000 fixed damage to all enemies",
+
+
+		skill2name: "Wind Style: Rasenshuriken",
+		skill2ogname: "風遁・螺旋手裏剣",
+		skill2type: "Inferno",
+		skill2speed: "Fastest",
+		skill2cost: "100",
+		skill2: "Deal 7% + 120,000 to one enemy.  Deal 3x damage against characters from the Five Village",
+
+		ability1name: "Mangekyo's Value Tomoe",
+		ability1: "Maximum Chakra +200, chance to dodge skills",
+
+		ability2name: "Black Flames",
+		ability2: "Half the chance of being inflicted by a negative state and When HP reach 0, revive once"
 	},
 
 	538: {
@@ -5291,6 +5395,7 @@ window.detail = {
 		ability2name: "Understanding of Despair",
 		ability2: "When HP reach 0, revive up to 5 times"
 	},
+
 	596: {
 		leadname: "Sensastion of Saving Loneliness",
 		lead: "Konoha Character Maximum HP, SPD and Tailed Beast Skill Damage +60%",
