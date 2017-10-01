@@ -5786,8 +5786,8 @@ window.detail = {
 		skill2ogname: "ここだァー！",
 		skill2type: "Unique",
 		skill2speed: "Fastest",
-		skill2cost: "50",
-		skill2: "Own ATK, and SPD +120% and grant \"Sage Chakra Concentration\" [Sage Chakra Concentration: ATK, DEF, SPD and Skill Damage +150%, Chakra Cost -50%.  Once the state expire, set Chakra to 0]",
+		skill2cost: "60",
+		skill2: "Own ATK, and SPD +120%, Cast Speed +2 and grant \"Sage Chakra Concentration\" [Sage Chakra Concentration: ATK, DEF, SPD and Skill Damage +150%, Chakra Cost -50%.  Once the state expire, set Chakra to 0]",
 
 		ability1name: "Conscious of Love",
 		ability1: "Maximum HP and ATK +90%, chance to dodge skills",
