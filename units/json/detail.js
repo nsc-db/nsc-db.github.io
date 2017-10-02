@@ -5646,6 +5646,56 @@ window.detail = {
 		ability2: "Maximum HP +100%, chance to to dodge skills"
 	},
 
+	601: {
+		leadname: "Eternal Rasengan",
+		lead: "All Unique and Wind Skill Damage +50%" ,
+
+		skill1name: "Multiple Rasengan",
+		skill1ogname: "多重螺旋丸",
+		skill1type: "Unique",
+		skill1speed: "Fast",
+		skill1cost: "80",
+		skill1: "Deal 7% + 4,000 to one enemy.  Deal 5x if Naruto can dodge skills. Chance to do extra damage (Extra damage can only happen once in a fight)",
+
+		skill2name: "Alright, Lets Go!",
+		skill2ogname: "よっしゃ行くぜェ！",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "55",
+		skill2: "Own ATK, DEF and SPD +100%, grant a low chance to dodge skills and \"Gust\" state [Gust: Skill Damage and SPD +30%]",
+
+		ability1name: "Growing Dream",
+		ability1: "ATK and DEF +20% after every action (Max 80%)",
+
+		ability2name: "Learning and Walking the Path",
+		ability2: "Maximum HP +50%, Skill Damage +50%"
+	},
+
+	"601_6": {
+		leadname: "Eternal Rasengan",
+		lead: "All Unique and Wind Skill Damage +50%" ,
+
+		skill1name: "Multiple Rasengan",
+		skill1ogname: "多重螺旋丸",
+		skill1type: "Unique",
+		skill1speed: "Fast",
+		skill1cost: "70",
+		skill1: "Deal 7% + 8,000 to one enemy.  Deal 7x if Naruto can dodge skills. Chance to do extra damage (Extra damage can only happen twice in a fight)",
+
+		skill2name: "Alright, Lets Go!",
+		skill2ogname: "よっしゃ行くぜェ！",
+		skill2type: "Unique",
+		skill2speed: "Fastest",
+		skill2cost: "55",
+		skill2: "Own ATK, DEF and SPD +120%, grant a medium chance to dodge skills and \"Gust\" state [Gust: Skill Damage and SPD +50%]",
+
+		ability1name: "Growing Dream",
+		ability1: "ATK and DEF +30% after every action (Max 120%)",
+
+		ability2name: "Learning and Walking the Path",
+		ability2: "Maximum HP +100%, Skill Damage +100%"
+	},
+
 	606: {
 		leadname: "Exchanging Lives",
 		lead: "Heart type Maximum HP and ATK +40%. For 2 turns, Chakra Cost -50%" ,
