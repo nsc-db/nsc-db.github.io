@@ -5655,7 +5655,7 @@ window.detail = {
 		skill1type: "Unique",
 		skill1speed: "Fast",
 		skill1cost: "80",
-		skill1: "Deal 7% + 4,000 to one enemy.  Deal 5x if Naruto can dodge skills. Chance to do extra damage (Extra damage can only happen once in a fight)",
+		skill1: "Deal 7% + 4,000 to one enemy.  Deal 5x if Naruto can dodge skills. Chance to do extra damage (Extra damage can occur up to one time)",
 
 		skill2name: "Alright, Lets Go!",
 		skill2ogname: "よっしゃ行くぜェ！",
@@ -5680,7 +5680,7 @@ window.detail = {
 		skill1type: "Unique",
 		skill1speed: "Fast",
 		skill1cost: "70",
-		skill1: "Deal 7% + 8,000 to one enemy.  Deal 7x if Naruto can dodge skills. Chance to do extra damage (Extra damage can only happen twice in a fight)",
+		skill1: "Deal 7% + 8,000 to one enemy.  Deal 7x if Naruto can dodge skills. Chance to do extra damage (Extra damage can occur up to two times)",
 
 		skill2name: "Alright, Lets Go!",
 		skill2ogname: "よっしゃ行くぜェ！",
