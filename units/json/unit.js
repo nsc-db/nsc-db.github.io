@@ -233,5 +233,6 @@ window.unit=[
  [608, "Naruto Uzumaki, Warm Affection", "Heart", "Konoha", 6, 32, 11384, 14271, 10581, 168, 15, 15, 159, 1],
  [609, "Naruto Uzumaki, Hatred Dormant in Loneliness", "Heart", "Konoha", 5, 29, 10863, 13046, 9818, 140, 13, 14, 151, 0],
  [609, "Naruto Uzumaki, Hatred Dormant in Loneliness", "Heart", "Konoha", 6, 29, 10863, 13046, 9818, 140, 13, 14, 151, 1],
- 
+ [610, "Iruka Umino, Greatest Understanding", "Technique", "Konoha", 5, 32, 12827, 12344, 11223, 145, 14, 15, 152, 0],
+ [610, "Naruto Uzumaki, Hatred Dormant in Loneliness", "Heart", "Konoha", 6, 5, 32, 12827, 12344, 11223, 145, 14, 15, 152, 1],
 ]

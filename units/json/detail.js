@@ -5895,4 +5895,54 @@ window.detail = {
 		ability2name: "Voice of Heart",
 		ability2: "Maximum HP and ATK +50%, Chakra Cost -10%"
 	},
+
+	610: {
+		leadname: "Greatest Understanding",
+		lead: "Konoha Characters Maximum HP, ATK and DEF +30%" ,
+
+		skill1name: "Substitution: Fuma Shuriken",
+		skill1ogname: "変わり身・風魔手裏剣",
+		skill1type: "Weapon",
+		skill1speed: "Fastest",
+		skill1cost: "55",
+		skill1: "Deal 7% + 5,000 to one enemy and grant a high chance to dodge skills. Deal 10x damage when Iruka can dodge skills",
+
+		skill2name: "Do Not Meddle with My Students",
+		skill2ogname: "生徒に手出しはさせない!",
+		skill2type: "None",
+		skill2speed: "Fast",
+		skill2cost: "50",
+		skill2: "Recover own HP by a tremendous amount. Next Skill Chakra Cost becomes 0 and grant a high chance to dodge skills to ally \"Naruto Uzumaki\"",
+
+		ability1name: "Lonely Childhood",
+		ability1: "Skill Damage +100% when HP is above 80%",
+
+		ability2name: "Profound Gentle Heart",
+		ability2: "Maximum HP, ATK and DEF +70%"
+	},
+
+	"610_6": {
+		leadname: "Greatest Understanding",
+		lead: "Konoha Characters Maximum HP, ATK and DEF +30%" ,
+
+		skill1name: "Substitution: Fuma Shuriken",
+		skill1ogname: "変わり身・風魔手裏剣",
+		skill1type: "Weapon",
+		skill1speed: "Fastest",
+		skill1cost: "55",
+		skill1: "Deal 7% + 5,000 to one enemy and grant a high chance to dodge skills. Deal 10x damage when Iruka can dodge skills",
+
+		skill2name: "Do Not Meddle with My Students",
+		skill2ogname: "生徒に手出しはさせない!",
+		skill2type: "None",
+		skill2speed: "Fast",
+		skill2cost: "50",
+		skill2: "Recover own HP by a tremendous amount. Next Skill Chakra Cost becomes 0 and grant a high chance to dodge skills to ally \"Naruto Uzumaki\"",
+
+		ability1name: "Lonely Childhood",
+		ability1: "Skill Damage +100% when HP is above 80%",
+
+		ability2name: "Profound Gentle Heart",
+		ability2: "Maximum HP, ATK and DEF +70%"
+	},
 }
