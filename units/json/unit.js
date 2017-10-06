@@ -225,6 +225,8 @@ window.unit=[
  [600, "Naruto Uzumaki, A True Hero", "Technique", "Konoha", 6, 29, 13335, 13969, 9067, 153, 13, 16, 157, 1],
  [601, "Naruto Uzumaki, Eternal Rasengan", "Body", "Konoha", 6, 32, 10933, 15228, 9621, 171, 14, 12, 146, 0],
  [601, "Naruto Uzumaki, Eternal Rasengan", "Body", "Konoha", 6, 32, 10933, 15228, 9621, 171, 14, 12, 146, 1],
+ [602, "Naruto Uzumaki, Bonds Shouldered Through the Power of Yang", "Technique", "Konoha", 6, 32, 14417, 12031, 9940, 148, 14, 14, 152, 0],
+ [602, "Naruto Uzumaki, Bonds Shouldered Through the Power of Yang", "Technique", "Konoha", 6, 32, 14417, 12031, 9940, 148, 14, 14, 152, 1],
  [606, "Minato Namikaze, Exchanging Lives", "Heart", "Konoha", 6, 35, 14470, 9966, 13606, 183, 17, 13, 147, 0],
  [606, "Minato Namikaze, Exchanging Lives", "Heart", "Konoha", 6, 35, 14470, 9966, 13606, 183, 17, 13, 147, 1],
  [607, "Kushina Uzumaki, Eager Reunion", "Heart", "Konoha", 6, 35, 13172, 13937, 9533, 163, 15, 13, 160, 0],
@@ -234,5 +236,7 @@ window.unit=[
  [609, "Naruto Uzumaki, Hatred Dormant in Loneliness", "Heart", "Konoha", 5, 29, 10863, 13046, 9818, 140, 13, 14, 151, 0],
  [609, "Naruto Uzumaki, Hatred Dormant in Loneliness", "Heart", "Konoha", 6, 29, 10863, 13046, 9818, 140, 13, 14, 151, 1],
  [610, "Iruka Umino, Greatest Understanding", "Technique", "Konoha", 5, 32, 12827, 12344, 11223, 145, 14, 15, 152, 0],
- [610, "Naruto Uzumaki, Hatred Dormant in Loneliness", "Heart", "Konoha", 6, 5, 32, 12827, 12344, 11223, 145, 14, 15, 152, 1],
+ [610, "Iruka Umino, Greatest Understanding", "Technique", "Konoha", 6, 5, 32, 12827, 12344, 11223, 145, 14, 15, 152, 1],
+ [611, "Naruto Uzumaki, Bonds Beyond Distress", "Heart", "Konoha", 5, 50, null, null, null, null, null, null, null, 0],
+ [611, "Naruto Uzumaki, Bonds Beyond Distress", "Heart", "Konoha", 6, 5, 50, null, null, null, null, null, null, null, 1],
 ]

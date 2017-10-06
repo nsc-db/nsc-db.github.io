@@ -5696,6 +5696,56 @@ window.detail = {
 		ability2: "Maximum HP +100%, Skill Damage +100%"
 	},
 
+	602: {
+		leadname: "Bonds Shouldered Through the Power of Yang",
+		lead: "Technique Type ATK, DEF and SPD +40%" ,
+
+		skill1name: "Sage Style: Magnet Stype Rasengan",
+		skill1ogname: "仙法・磁遁螺旋丸",
+		skill1type: "Sage",
+		skill1speed: "Fast",
+		skill1cost: "80",
+		skill1: "Deal 7% + 6,000 to one enemy, cancel own SPD buff, with a chance to cancel enemy's action and/or seal.  Deal more damage the more HP Naruto has.  Max 3x.  ",
+
+		skill2name: "Borrowed Power",
+		skill2ogname: "借りるってばよォ！",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "70",
+		skill2: "Own SPD +50%, Skill Damage +500%",
+
+		ability1name: "Tailed Beast's Bond",
+		ability1: "Maximum Chakra +30, Recover 10% Chakra after every action",
+
+		ability2name: "Blooming Six Paths",
+		ability2: "For 7 turns, Skill Damage +100%"
+	},
+
+	"602_6": {
+		leadname: "Bonds Shouldered Through the Power of Yang",
+		lead: "Technique Type ATK, DEF and SPD +40%" ,
+
+		skill1name: "Sage Style: Magnet Stype Rasengan",
+		skill1ogname: "仙法・磁遁螺旋丸",
+		skill1type: "Sage",
+		skill1speed: "Fast",
+		skill1cost: "70",
+		skill1: "Deal 7% + 10,000 to one enemy, cancel own SPD buff, with a high chance to cancel enemy's action and/or seal.  Deal more damage the more HP Naruto has.  Max 4x.  ",
+
+		skill2name: "Borrowed Power",
+		skill2ogname: "借りるってばよォ！",
+		skill2type: "Unique",
+		skill2speed: "Fastest",
+		skill2cost: "70",
+		skill2: "Own SPD +100%, Skill Damage +1,000%",
+
+		ability1name: "Tailed Beast's Bond",
+		ability1: "Maximum Chakra +50, Recover 15% Chakra after every action",
+
+		ability2name: "Blooming Six Paths",
+		ability2: "For 10 turns, Skill Damage +150%"
+	},
+
 	606: {
 		leadname: "Exchanging Lives",
 		lead: "Heart type Maximum HP and ATK +40%. For 2 turns, Chakra Cost -50%" ,
@@ -5944,5 +5994,55 @@ window.detail = {
 
 		ability2name: "Profound Gentle Heart",
 		ability2: "Maximum HP, ATK and DEF +70%"
+	},
+
+	611: {
+		leadname: "Bonds Beyond Distres",
+		lead: "Heart Type ATK +100%, for 5 turns Skill Damage +80%" ,
+
+		skill1name: "Tailed Beast Bomb Barrage",
+		skill1ogname: "連続尾獣玉",
+		skill1type: "Tailed Beast",
+		skill1speed: "Fast",
+		skill1cost: "150",
+		skill1: "Deal 3% + 10,000 to all enemies and cancel the enemies ATK and DEF buff.  Deal more damage the more allies are alive.  Max 12x when 5 allies are alive [Always Hit]",
+
+		skill2name: "Lets Do It, Kurama!!",
+		skill2ogname: "やろうぜ、九喇嘛！！",
+		skill2type: "Tailed Beast",
+		skill2speed: "Fastest",
+		skill2cost: "90",
+		skill2: "All allies ATK, DEF and SPD +100%, recover a small amount of Chakra and 10% HP to character's from the Five Village",
+
+		ability1name: "Constant Nindo",
+		ability1: "Half the effect of negative state.  Cast Speed +1 when HP is above 50%",
+
+		ability2name: "Faith and Hope",
+		ability2: "Maximum Chakra +150, Skill Damage +100%"
+	},
+
+	"611_6": {
+		leadname: "Bonds Beyond Distres",
+		lead: "Heart Type ATK +100%, for 5 turns Skill Damage +80%" ,
+
+		skill1name: "Tailed Beast Bomb Barrage",
+		skill1ogname: "連続尾獣玉",
+		skill1type: "Tailed Beast",
+		skill1speed: "Fast",
+		skill1cost: "150",
+		skill1: "Deal 3% + 10,000 to all enemies and cancel the enemies ATK and DEF buff.  Deal more damage the more allies are alive.  Max 12x when 5 allies are alive [Always Hit]",
+
+		skill2name: "Lets Do It, Kurama!!",
+		skill2ogname: "やろうぜ、九喇嘛！！",
+		skill2type: "Tailed Beast",
+		skill2speed: "Fastest",
+		skill2cost: "90",
+		skill2: "All allies ATK, DEF and SPD +100%, recover a small amount of Chakra and 10% HP to character's from the Five Village",
+
+		ability1name: "Constant Nindo",
+		ability1: "Half the effect of negative state.  Cast Speed +1 when HP is above 50%",
+
+		ability2name: "Faith and Hope",
+		ability2: "Maximum Chakra +150, Skill Damage +100%"
 	},
 }
