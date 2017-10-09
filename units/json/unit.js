@@ -237,6 +237,6 @@ window.unit=[
  [609, "Naruto Uzumaki, Hatred Dormant in Loneliness", "Heart", "Konoha", 6, 29, 10863, 13046, 9818, 140, 13, 14, 151, 1],
  [610, "Iruka Umino, Greatest Understanding", "Technique", "Konoha", 5, 32, 12827, 12344, 11223, 145, 14, 15, 152, 0],
  [610, "Iruka Umino, Greatest Understanding", "Technique", "Konoha", 6, 5, 32, 12827, 12344, 11223, 145, 14, 15, 152, 1],
- [611, "Naruto Uzumaki, Bonds Beyond Distress", "Heart", "Konoha", 5, 50, null, null, null, null, null, null, null, 0],
- [611, "Naruto Uzumaki, Bonds Beyond Distress", "Heart", "Konoha", 6, 5, 50, null, null, null, null, null, null, null, 1],
+ [611, "Naruto Uzumaki, Bonds Beyond Distress", "Heart", "Konoha", 6, 50, 36346, 36346, 30990, 256, 20, 18, 156, 0],
+ [611, "Naruto Uzumaki, Bonds Beyond Distress", "Heart", "Konoha", 6, 50, 36346, 36346, 30990, 256, 20, 18, 156, 1],
 ]
