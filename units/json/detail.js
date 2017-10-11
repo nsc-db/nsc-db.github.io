@@ -5997,7 +5997,7 @@ window.detail = {
 	},
 
 	611: {
-		leadname: "Bonds Beyond Distres",
+		leadname: "Bonds Beyond Distress",
 		lead: "Heart Type ATK +100%, for 5 turns Skill Damage +80%" ,
 
 		skill1name: "Tailed Beast Bomb Barrage",
@@ -6022,7 +6022,7 @@ window.detail = {
 	},
 
 	"611_6": {
-		leadname: "Bonds Beyond Distres",
+		leadname: "Bonds Beyond Distress",
 		lead: "Heart Type ATK +100%, for 5 turns Skill Damage +80%" ,
 
 		skill1name: "Tailed Beast Bomb Barrage",
@@ -6044,5 +6044,205 @@ window.detail = {
 
 		ability2name: "Faith and Hope",
 		ability2: "Maximum Chakra +150, Skill Damage +100%"
+	},
+
+	612: {
+		leadname: "Engraving Seal ・ Yang",
+		lead: "Konoha Characters ATK and SPD +50%" ,
+
+		skill1name: "Six Paths: Planetary Devastation",
+		skill1ogname: "六道・地爆天星",
+		skill1type: "Six Paths",
+		skill1speed: "Normal",
+		skill1cost: "100",
+		skill1: "Deal 7% + 50,000 to one enemy, with a chance to put the enemy under \"Seal\" Deal 4x damage to enemies under \"Seal\" state.  Deal 1.5x damage to None enemies (Max 6x) [Seal: Action is disabled and Continues to take damage]",
+
+		skill2name: "Alright!!!",
+		skill2ogname: "よっしゃー！！！",
+		skill2type: "None",
+		skill2speed: "Fastest",
+		skill2cost: "80",
+		skill2: "Own SPD +100%. Additional effect depending on alive allies, Skill Damage +100% when \"Sasuke Uchiha\" is in the team, recover 50% HP when \"Sakura Haruno\" is in the team, +3 Cast Speed when \"Kakashi Hatake\" is in the team",
+
+		ability1name: "Power of the Six Paths: Yang",
+		ability1: "Maximum Chakra +100, Skill Damage +100",
+
+		ability2name: "Ashura's Reincarnation",
+		ability2: "Maximum HP and ATK +100%"
+	},
+
+	"612_6": {
+		leadname: "Engraving Seal ・ Yang",
+		lead: "Konoha Characters ATK and SPD +50%" ,
+
+		skill1name: "Six Paths: Planetary Devastation",
+		skill1ogname: "六道・地爆天星",
+		skill1type: "Six Paths",
+		skill1speed: "Normal",
+		skill1cost: "100",
+		skill1: "Deal 7% + 50,000 to one enemy, with a chance to put the enemy under \"Seal\" Deal 4x damage to enemies under \"Seal\" state.  Deal 1.5x damage to None enemies (Max 6x) [Seal: Action is disabled and Continues to take damage]",
+
+		skill2name: "Alright!!!",
+		skill2ogname: "よっしゃー！！！",
+		skill2type: "None",
+		skill2speed: "Fastest",
+		skill2cost: "80",
+		skill2: "Own SPD +100%. Additional effect depending on alive allies, Skill Damage +100% when \"Sasuke Uchiha\" is in the team, recover 50% HP when \"Sakura Haruno\" is in the team, +3 Cast Speed when \"Kakashi Hatake\" is in the team",
+
+		ability1name: "Power of the Six Paths: Yang",
+		ability1: "Maximum Chakra +100, Skill Damage +100",
+
+		ability2name: "Ashura's Reincarnation",
+		ability2: "Maximum HP and ATK +100%"
+	},
+
+	613: {
+		leadname: "Engraving Seal ・ Yin",
+		lead: "Konoha Characters Maximum HP and ATK +50%" ,
+
+		skill1name: "Six Paths: Planetary Devastation",
+		skill1ogname: "六道・地爆天星",
+		skill1type: "Six Paths",
+		skill1speed: "Normal",
+		skill1cost: "100",
+		skill1: "Deal 7% + 50,000 to one enemy, with a chance to put the enemy under \"Seal\" Deal 4x damage to enemies under \"Seal\" state.  Deal 1.5x damage to None enemies (Max 6x) [Seal: Action is disabled and Continues to take damage]",
+
+		skill2name: "Now!!",
+		skill2ogname: "今だ！！",
+		skill2type: "None",
+		skill2speed: "Fastest",
+		skill2cost: "80",
+		skill2: "Own SPD +100%. Additional effect depending on alive allies, Skill Damage +100% when \"Naruto Uzumaki\" is in the team, recover 50% HP when \"Sakura Haruno\" is in the team, +3 Cast Speed when \"Kakashi Hatake\" is in the team",
+
+		ability1name: "Power of the Six Paths: Yin",
+		ability1: "Maximum Chakra +100, Skill Damage +100",
+
+		ability2name: "Indra's Reincarnation",
+		ability2: "ATK +100%, SPD +60%"
+	},
+
+	"613_6": {
+		leadname: "Engraving Seal ・ Yin",
+		lead: "Konoha Characters Maximum HP and ATK +50%" ,
+
+		skill1name: "Six Paths: Planetary Devastation",
+		skill1ogname: "六道・地爆天星",
+		skill1type: "Six Paths",
+		skill1speed: "Normal",
+		skill1cost: "100",
+		skill1: "Deal 7% + 50,000 to one enemy, with a chance to put the enemy under \"Seal\" Deal 4x damage to enemies under \"Seal\" state.  Deal 1.5x damage to None enemies (Max 6x) [Seal: Action is disabled and Continues to take damage]",
+
+		skill2name: "Now!!",
+		skill2ogname: "今だ！！",
+		skill2type: "None",
+		skill2speed: "Fastest",
+		skill2cost: "80",
+		skill2: "Own SPD +100%. Additional effect depending on alive allies, Skill Damage +100% when \"Naruto Uzumaki\" is in the team, recover 50% HP when \"Sakura Haruno\" is in the team, +3 Cast Speed when \"Kakashi Hatake\" is in the team",
+
+		ability1name: "Power of the Six Paths: Yin",
+		ability1: "Maximum Chakra +100, Skill Damage +100",
+
+		ability2name: "Indra's Reincarnation",
+		ability2: "ATK +100%, SPD +60%"
+	},
+
+	614: {
+		leadname: "Engraving Seal ・ Cherry Blossom",
+		lead: "Konoha Characters ATK and DEF +50%" ,
+
+		skill1name: "Shannaro!",
+		skill1ogname: "しゃーんなろー！",
+		skill1type: "Taijutsu",
+		skill1speed: "Fast",
+		skill1cost: "70",
+		skill1: "Deal 7% + 20,000 to one enemy. Deal 3x damage when theres and ally \"Sasuke Uchiha\" or \"Naruto Uzumaki\". High chance to set the enemies Skill Dodge rate to 0",
+
+		skill2name: "Don't Forget About Me",
+		skill2ogname: "私だっているんだ！",
+		skill2type: "None",
+		skill2speed: "Fastest",
+		skill2cost: "60",
+		skill2: "All allies DEF +150%, recover 30% HP and grant a high chance to dodge skills",
+
+		ability1name: "Woman's Nature",
+		ability1: "ATK +40% after every action (Max 200%)",
+
+		ability2name: "Team 7 Final Mission",
+		ability2: "Maximum HP and DEF +100%, recover 20% HP after every action"
+	},
+
+	"614_6": {
+		leadname: "Engraving Seal ・ Cherry Blossom",
+		lead: "Konoha Characters ATK and DEF +50%" ,
+
+		skill1name: "Shannaro!",
+		skill1ogname: "しゃーんなろー！",
+		skill1type: "Taijutsu",
+		skill1speed: "Fast",
+		skill1cost: "70",
+		skill1: "Deal 7% + 20,000 to one enemy. Deal 3x damage when theres and ally \"Sasuke Uchiha\" or \"Naruto Uzumaki\". High chance to set the enemies Skill Dodge rate to 0",
+
+		skill2name: "Don't Forget About Me",
+		skill2ogname: "私だっているんだ！",
+		skill2type: "None",
+		skill2speed: "Fastest",
+		skill2cost: "60",
+		skill2: "All allies DEF +150%, recover 30% HP and grant a high chance to dodge skills",
+
+		ability1name: "Woman's Nature",
+		ability1: "ATK +40% after every action (Max 200%)",
+
+		ability2name: "Team 7 Final Mission",
+		ability2: "Maximum HP and DEF +100%, recover 20% HP after every action"
+	},
+
+	615: {
+		leadname: "Bonds Are Connecting and Connection Ends",
+		lead: "Konoha Characters ATK, DEF and SPD +30%" ,
+
+		skill1name: "Kamui",
+		skill1ogname: "神威",
+		skill1type: "Sharingan",
+		skill1speed: "Fast",
+		skill1cost: "80",
+		skill1: "Deal 7,000 fixed damage to one enemy.  Deal 2x damage when one of the ally is \"Naruto Uzumaki\". Deal 2x damage when one of the ally is \"Sasuke Uchiha\". Deal 2x damage when one of the ally is \"Sakura Haruno\" (Max 8x)",
+
+		skill2name: "A Nice Picture",
+		skill2ogname: "うん…いい画だ",
+		skill2type: "None",
+		skill2speed: "Normal",
+		skill2cost: "80",
+		skill2: "Own SPD +50%.  Chakra Cost -50% to ally \"Naruto Uzumaki\", \"Sasuke Uchiha\", \"Sakura Haruno\"",
+
+		ability1name: "Witnessing Hope",
+		ability1: "SPD +20% after every action (Max 60%)",
+
+		ability2name: "Friend's Feeling and Power",
+		ability2: "Own SPD and Skill Damage +100%, chance to dodge skill"
+	},
+
+	"615_6": {
+		leadname: "Bonds Are Connecting and Connection Ends",
+		lead: "Konoha Characters ATK, DEF and SPD +30%" ,
+
+		skill1name: "Kamui",
+		skill1ogname: "神威",
+		skill1type: "Sharingan",
+		skill1speed: "Fast",
+		skill1cost: "70",
+		skill1: "Deal 12,000 fixed damage to one enemy.  Deal 2x damage when one of the ally is \"Naruto Uzumaki\". Deal 2x damage when one of the ally is \"Sasuke Uchiha\". Deal 2x damage when one of the ally is \"Sakura Haruno\" (Max 8x)",
+
+		skill2name: "A Nice Picture",
+		skill2ogname: "うん…いい画だ",
+		skill2type: "None",
+		skill2speed: "Fast",
+		skill2cost: "80",
+		skill2: "Own SPD +100%.  Chakra Cost -90% to ally \"Naruto Uzumaki\", \"Sasuke Uchiha\", \"Sakura Haruno\"",
+
+		ability1name: "Witnessing Hope",
+		ability1: "SPD +20% after every action (Max 100%)",
+
+		ability2name: "Friend's Feeling and Power",
+		ability2: "Own SPD and Skill Damage +150%, high chance to dodge skill"
 	},
 }

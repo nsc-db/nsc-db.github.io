@@ -239,4 +239,12 @@ window.unit=[
  [610, "Iruka Umino, Greatest Understanding", "Technique", "Konoha", 6, 5, 32, 12827, 12344, 11223, 145, 14, 15, 152, 1],
  [611, "Naruto Uzumaki, Bonds Beyond Distress", "Heart", "Konoha", 6, 50, 36346, 36346, 30990, 256, 20, 18, 156, 0],
  [611, "Naruto Uzumaki, Bonds Beyond Distress", "Heart", "Konoha", 6, 50, 36346, 36346, 30990, 256, 20, 18, 156, 1],
+ [612, "Naruto Uzumaki, Engraving Seal ・ Yang", "Courage", "Konoha", 6, 40, null, null, null, null, null, null, null, 0],
+ [612, "Naruto Uzumaki, Engraving Seal ・ Yang", "Courage", "Konoha", 6, 40, null, null, null, null, null, null, null, 1],
+ [613, "Sasuke Uchiha, Engraving Seal ・ Yin", "Intellect", "Konoha", 6, 40, null, null, null, null, null, null, null, 0],
+ [613, "Sasuke Uchiha, Engraving Seal ・ Yin", "Intellect", "Konoha", 6, 40, null, null, null, null, null, null, null, 1],
+ [614, "Sakura Haruno, Engraving Seal ・ Cherry Blossom", "Technique", "Konoha", 6, 40, null, null, null, null, null, null, null, 0],
+ [614, "Sakura Haruno, Engraving Seal ・ Cherry Blossom", "Technique", "Konoha", 6, 40, null, null, null, null, null, null, null, 1],
+ [615, "Kakashi Hatake, Bonds Are Connecting and Connection Ends", "Body", "Konoha", 6, 32, null, null, null, null, null, null, null, 0],
+ [615, "Kakashi Hatake, Bonds Are Connecting and Connection Ends", "Body", "Konoha", 6, 32, null, null, null, null, null, null, null, 1],
 ]
