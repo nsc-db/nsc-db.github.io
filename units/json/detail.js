@@ -6112,7 +6112,7 @@ window.detail = {
 		skill2type: "None",
 		skill2speed: "Fastest",
 		skill2cost: "80",
-		skill2: "Own SPD +100%. Additional effect depending on alive allies, Skill Damage +100% when \"Naruto Uzumaki\" is in the team, recover 50% HP when \"Sakura Haruno\" is in the team, +3 Cast Speed when \"Kakashi Hatake\" is in the team",
+		skill2: "Own ATK +100%. Additional effect depending on alive allies, Skill Damage +100% when \"Naruto Uzumaki\" is in the team, recover 50% HP when \"Sakura Haruno\" is in the team, +3 Cast Speed when \"Kakashi Hatake\" is in the team",
 
 		ability1name: "Power of the Six Paths: Yin",
 		ability1: "Maximum Chakra +100, Skill Damage +100",
@@ -6137,7 +6137,7 @@ window.detail = {
 		skill2type: "None",
 		skill2speed: "Fastest",
 		skill2cost: "80",
-		skill2: "Own SPD +100%. Additional effect depending on alive allies, Skill Damage +100% when \"Naruto Uzumaki\" is in the team, recover 50% HP when \"Sakura Haruno\" is in the team, +3 Cast Speed when \"Kakashi Hatake\" is in the team",
+		skill2: "Own ATK +100%. Additional effect depending on alive allies, Skill Damage +100% when \"Naruto Uzumaki\" is in the team, recover 50% HP when \"Sakura Haruno\" is in the team, +3 Cast Speed when \"Kakashi Hatake\" is in the team",
 
 		ability1name: "Power of the Six Paths: Yin",
 		ability1: "Maximum Chakra +100, Skill Damage +100",
