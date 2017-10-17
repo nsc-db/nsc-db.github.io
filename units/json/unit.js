@@ -247,4 +247,8 @@ window.unit=[
  [614, "Sakura Haruno, Engraving Seal ・ Cherry Blossom", "Technique", "Konoha", 6, 40, 30806, 34006, 30002, 236, 18, 18, 150, 1],
  [615, "Kakashi Hatake, Bonds Are Connecting and Connection Ends", "Body", "Konoha", 6, 32, 11234, 12151, 12304, 192, 16, 12, 146, 0],
  [615, "Kakashi Hatake, Bonds Are Connecting and Connection Ends", "Body", "Konoha", 6, 32, 11234, 12151, 12304, 192, 16, 12, 146, 1],
+ [616, "Ashura Otsutsuki, Benevolent Brave God", "Heart", "None", 6, 90, null, null, null, null, null, null, null, 0],
+ [616, "Ashura Otsutsuki, Benevolent Brave God", "Heart", "None", 6, 90, null, null, null, null, null, null, null, 1], 
+ [617, "Indra Otsutsuki, Proud Battle God", "Body", "None", 6, 90, null, null, null, null, null, null, null, 0],
+ [617, "Indra Otsutsuki, Proud Battle God", "Body", "None", 6, 90, null, null, null, null, null, null, null, 1],
 ]

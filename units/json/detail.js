@@ -6245,4 +6245,104 @@ window.detail = {
 		ability2name: "Friend's Feeling and Power",
 		ability2: "Own SPD and Skill Damage +150%, high chance to dodge skill"
 	},
+
+	616: {
+		leadname: "Benevolent Brave God",
+		lead: "Heart and Courage Type Maximum HP and Skill Damage +100%" ,
+
+		skill1name: "Six Paths: Protection of the Lands",
+		skill1ogname: "六道・国津守",
+		skill1type: "Six Paths",
+		skill1speed: "Normal",
+		skill1cost: "100",
+		skill1: "Deal 3% + 30,000 to all enemies.  Deal 2x damage to Body and Intellect Type.  Decrease the Skill Damage of Body Type enemies by 40%.  Lower Cast Speed of Intellect Type enemies by 1",
+
+		skill2name: "The Power to Rescue Everyone...!!",
+		skill2ogname: "皆を救う力を…！！",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "90",
+		skill2: "Own ATK, DEF and Skill Damage +300%.  Incoming Skill Damage are halved to Ashura and ally Heart and Technique Type",
+
+		ability1name: "True Power (Love)",
+		ability1: "Maximum Chakra +50, Maximum HP +100%",
+
+		ability2name: "Bonds with my Brethren",
+		ability2: "ATK and Skill Damage +150% when Chakra is Max"
+	},
+
+	"616_6": {
+		leadname: "Benevolent Brave God",
+		lead: "Heart and Courage Type Maximum HP and Skill Damage +100%" ,
+
+		skill1name: "Six Paths: Protection of the Lands",
+		skill1ogname: "六道・国津守",
+		skill1type: "Six Paths",
+		skill1speed: "Fast",
+		skill1cost: "100",
+		skill1: "Deal 3% + 80,000 to all enemies.  Deal 4x damage to Body and Intellect Type.  Decrease the Skill Damage of Body Type enemies by 80%.  Lower Cast Speed of Intellect Type enemies by 2",
+
+		skill2name: "The Power to Rescue Everyone...!!",
+		skill2ogname: "皆を救う力を…！！",
+		skill2type: "Unique",
+		skill2speed: "Fastest",
+		skill2cost: "80",
+		skill2: "Own ATK, DEF and Skill Damage +600%.  Ashura and ally Heart and Technique Type are immune to Skill Damage",
+
+		ability1name: "True Power (Love)",
+		ability1: "Maximum Chakra +120, Maximum HP +150%",
+
+		ability2name: "Bonds with my Brethren",
+		ability2: "ATK and Skill Damage +200% when Chakra is above 50%"
+	},
+
+	617: {
+		leadname: "Proud Battle God",
+		lead: "Body and Intellect Type Maximum HP and Skill Damage +100%" ,
+
+		skill1name: "Origin: Susano'o",
+		skill1ogname: "根源・須佐能乎",
+		skill1type: "Sharingan",
+		skill1speed: "Normal",
+		skill1cost: "100",
+		skill1: "Deal 3% + 30,000 to all enemies.  Deal 2x damage to Technique and Courage Type.  Decrease the Skill Damage of Heart Type enemies by 40%.  Lower Cast Speed of Courage Type enemies by 1",
+
+		skill2name: "Disappear In Front of Power!!",
+		skill2ogname: "力の前に散れ…！！",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "90",
+		skill2: "Own ATK, DEF and Skill Damage +300%.  Cast Speed +1 to ally Body and Technique Type",
+
+		ability1name: "True Power (Darkness)",
+		ability1: "Maximum Chakra +50, Maximum HP +100%",
+
+		ability2name: "Mangekyo's Sprout",
+		ability2: "ATK and Skill Damage +150% when Chakra is Max"
+	},
+
+	"617_6": {
+		leadname: "Proud Battle God",
+		lead: "Body and Intellect Type Maximum HP and Skill Damage +100%" ,
+
+		skill1name: "Origin: Susano'o",
+		skill1ogname: "根源・須佐能乎",
+		skill1type: "Sharingan",
+		skill1speed: "Fast",
+		skill1cost: "100",
+		skill1: "Deal 3% + 80,000 to all enemies.  Deal 4x damage to Technique and Courage Type.  Decrease the Skill Damage of Heart Type enemies by 80%.  Lower Cast Speed of Courage Type enemies by 2",
+
+		skill2name: "Disappear In Front of Power!!",
+		skill2ogname: "力の前に散れ…！！",
+		skill2type: "Unique",
+		skill2speed: "Fastest",
+		skill2cost: "80",
+		skill2: "Own ATK, DEF and Skill Damage +600%.  Cast Speed +2 to ally Body and Technique Type",
+
+		ability1name: "True Power (Darkness)",
+		ability1: "Maximum Chakra +120, Maximum HP +150%",
+
+		ability2name: "Mangekyo's Sprout",
+		ability2: "ATK and Skill Damage +200% when Chakra is above 50%"
+	},
 }
