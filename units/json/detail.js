@@ -5746,6 +5746,56 @@ window.detail = {
 		ability2: "For 10 turns, Skill Damage +150%"
 	},
 
+	603: {
+		leadname: "Words that Remains in my Heart",
+		lead: "Heart Type ATK and DEF +40%" ,
+
+		skill1name: "Planetary Rasengan",
+		skill1ogname: "惑星螺旋丸",
+		skill1type: "Unique",
+		skill1speed: "Fast",
+		skill1cost: "70",
+		skill1: "Deal 7% + 10,000 to one enemy with a chance to Crit dealing 3x damage, and increase the enemy's Chakra Cost by 30%.  [Increase Chakra Cost only activates in PvP]",
+
+		skill2name: "I Will Do It Alone",
+		skill2ogname: "オレ一人でやる",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "60",
+		skill2: "Own ATK, SPD and Skill Dmaage +100%, Cast Speed +1",
+
+		ability1name: "Lost Heart",
+		ability1: "SPD +50%, For 1 turn, Chakra Cost is 0 and Cast Speed +1",
+
+		ability2name: "Cherished Words",
+		ability2: "Debuff effects are halved, SPD +20% after every turn (Max 60%)"
+	},
+
+	"603_6": {
+		leadname: "Words that Remains in my Heart",
+		lead: "Heart Type ATK and DEF +40%" ,
+
+		skill1name: "Planetary Rasengan",
+		skill1ogname: "惑星螺旋丸",
+		skill1type: "Unique",
+		skill1speed: "Fast",
+		skill1cost: "60",
+		skill1: "Deal 7% + 15,000 to one enemy with a chance to Crit dealing 5x damage, and increase the enemy's Chakra Cost by 30%.  [Increase Chakra Cost only activates in PvP]",
+
+		skill2name: "I Will Do It Alone",
+		skill2ogname: "オレ一人でやる",
+		skill2type: "Unique",
+		skill2speed: "Fastest",
+		skill2cost: "50",
+		skill2: "Own ATK, SPD and Skill Dmaage +200%, Cast Speed +2",
+
+		ability1name: "Lost Heart",
+		ability1: "SPD +100%, For 1 turn, Chakra Cost is 0 and Cast Speed +2",
+
+		ability2name: "Cherished Words",
+		ability2: "Immune to debuff, SPD +20% after every turn (Max 100%)"
+	},
+
 	606: {
 		leadname: "Exchanging Lives",
 		lead: "Heart type Maximum HP and ATK +40%. For 2 turns, Chakra Cost -50%" ,
