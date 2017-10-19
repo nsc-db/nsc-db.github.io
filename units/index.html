@@ -4,7 +4,7 @@
     <meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Naruto Shinobi Collection Database</title>
+    <title>Naruto Shinobi Collection Database - Units</title>
 
     <!--BOOTSTRAP -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -17,17 +17,11 @@
 	<script type="text/javascript" src="json/unit.js"></script>
 	<script type="text/javascript" src="json/detail.js"></script>
 
+	<link rel="stylesheet" href="https://i.icomoon.io/public/adb54f46d6/Linearicons/style.css">
+
 	<style>
 		tr{cursor: pointer;}
 	</style>
-
-	<meta property="og:site_name" content="Naruto Shinobi Collection Database">
-	<meta property="og:description" content="Database for the mobile game Naruto Shinobi Collection."/>
-	<meta property="og:url" content="http://nsc-db.github.io/units/">
-	<meta property="og:image" content="http://nsc-db.github.io/units/img/preview.png">
-	<meta property="og:image:type" content="image/jpeg">
-	<meta property="og:image:width" content="800">
-	<meta property="og:image:height" content="600">
 
 	<link rel="stylesheet" type="text/css" href="css/modal.css"/>
 	
@@ -572,53 +566,61 @@
 	</div>
 	<!-- MODAL -->
 
-	<div class="base-header">
-		<div class="container">
+	<div class="container">
+		<div class="base-header">
 			<div class="row">
 				<div class="col-md-5 col-md-offset-7">
-					<h1>Naruto Shinobi Collection Database</h1>
+					<h1>Naruto <span>Shinobi <br>Collection</span> Database</h1>
 					<p>Join  us in the Reddit: <a target="_blank" href="http://reddit.com/r/NarutoSc">/r/NarutoSc</a></p>
 				</div>
-			</div>
-		</div>
-	</div>
-	<div class="base-menu">
-		<div class="container">
-			<div class="row">
 				<div class="col-md-12">
-					
-					<ul>
-						<li><a href="/" role="button">Front Page</a>
-						<li class="active"><a href="/units" role="button">Units</a>
-						<li><a ref="/gear" role="button">Ninja Gear</a>
-						<li><a href="/guides" role="button">Guides</a>
-						<li><a href="/faq" role="button">FAQ</a>
-					</ul>
+					<div class="base-menu">
+						<ul>
+							<li><a href="index.html" role="button">Front Page</a>
+							<li class="active"><a href="units.html" role="button">Units</a>
+							<li><a ref="/gear" role="button">Ninja Gear</a>
+							<li><a href="/guides" role="button">Guides</a>
+							<li><a href="/faq" role="button">FAQ</a>
+						</ul>
+					</div>
 				</div>
 			</div>
 		</div>
 	</div>
 
-	<div class="base-table">
-		<div class="container">
+	
+	<div class="container">
+		<div class="base-content">
 			<div class="row">
-				<div class="col-md-12">
+				<div class="col-md-4">
 					<h2>Units Table</h2>
+					<p>Choose a unit to view details</p>
+					
 				</div>
+				<div class="col-md-8">
+					<div class="alert alert-warning" role="alert">
+						<strong>Note: Some stats are their lvl 80 stats.</strong> If you have the lvl 100 stats, feel free to share in the Reddit.
+					</div>
+				</div>
+				<div class="col-md-12">
+					<hr>
+				</div>
+			</div>
+
+			<div class="row">
 				<div class="col-md-12">
 					<table id="myTable" class="display" cellspacing="0" width="100%">
 						<tbody class="cards">
 						</tbody>
 					</table>
 				</div>
-			</div>
-		</div>
-	</div>
 
-	<div class="container">
-		<div class="row">
-			<div class="col-md-12">
-				<p class="note"><strong>Created by Yuyya, Noobiel and Book</p>
+				<div class="col-md-12">
+					<div class="footer">
+						<hr>
+						<p class="note">Created by Yuyya, Noobiel and Book</p>
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>
@@ -654,6 +656,12 @@
 		        ]
 			});
 		} );
+	</script>
+
+	<script>
+		$('#newModal').on('hidden.bs.modal', function (e) {
+		  $(this).find(‘.modal-dialog’).empty();
+		})
 	</script>
 
 </body>

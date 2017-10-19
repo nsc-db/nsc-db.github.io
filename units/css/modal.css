@@ -2,9 +2,7 @@
 		width: 960px;
 		max-width: 100%;
 		padding: 0;
-		border: 2px solid #858585;
-		outline: 2px solid #cccccc;
-		box-shadow: 0 0 0px 3px #ffde55;
+		box-shadow: 0 0 60px rgba(0,0,0,0.2);
 	}
 
 	.modal-content {
@@ -24,7 +22,7 @@
 		display: block;
 		padding: 4px 12px;
 		background-color: #fffdfa;
-		border-bottom: 4px solid #80902f;
+		border-bottom: 2px solid #cccccc;
 	}
 
 	.modal-header .unit-icon {
@@ -74,12 +72,12 @@
 
 	.modal-header .close {
 		outline: none;
-		margin: 8px 0 0 0;
+		margin: 12px 2px 0 0px;
 	}
 
 	.modal-body {
 		background-color: #ffffff;
-	    padding: 12px 12px 48px 12px;
+	    padding: 24px 12px 48px 12px;
 	}
 
 	.content-rarity {
@@ -134,10 +132,9 @@
 	}
 
 	.modal-body .base-unit-view .img-unit {
-		outline: 1px solid #8f640e;
-		border: 2px solid #efdbac;
+		border: 2px solid #cccccc;
 		background-color: #ffffff;
-		box-shadow: 0 0 0px 2px #c7a664;
+		box-shadow: 0 0 60px rgba(0,0,0,0.2);
 	}
 
 	.modal-body .base-unit-view .img-unit img {
