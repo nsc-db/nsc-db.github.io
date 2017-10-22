@@ -6355,7 +6355,7 @@ window.detail = {
 		skill1type: "Sharingan",
 		skill1speed: "Normal",
 		skill1cost: "100",
-		skill1: "Deal 3% + 30,000 to all enemies.  Deal 2x damage to Technique and Courage Type.  Decrease the Skill Damage of Heart Type enemies by 40%.  Lower Cast Speed of Courage Type enemies by 1",
+		skill1: "Deal 3% + 30,000 to all enemies.  Deal 2x damage to Heart and Courage Type.  Decrease the Skill Damage of Heart Type enemies by 40%.  Lower Cast Speed of Courage Type enemies by 1",
 
 		skill2name: "Disappear In Front of Power!!",
 		skill2ogname: "力の前に散れ…！！",
@@ -6380,7 +6380,7 @@ window.detail = {
 		skill1type: "Sharingan",
 		skill1speed: "Fast",
 		skill1cost: "100",
-		skill1: "Deal 3% + 80,000 to all enemies.  Deal 4x damage to Technique and Courage Type.  Decrease the Skill Damage of Heart Type enemies by 80%.  Lower Cast Speed of Courage Type enemies by 2",
+		skill1: "Deal 3% + 80,000 to all enemies.  Deal 4x damage to Heart and Courage Type.  Decrease the Skill Damage of Heart Type enemies by 80%.  Lower Cast Speed of Courage Type enemies by 2",
 
 		skill2name: "Disappear In Front of Power!!",
 		skill2ogname: "力の前に散れ…！！",
