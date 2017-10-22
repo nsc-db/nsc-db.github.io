@@ -6355,7 +6355,7 @@ window.detail = {
 		skill1type: "Sharingan",
 		skill1speed: "Normal",
 		skill1cost: "100",
-		skill1: "Deal 3% + 30,000 to all enemies.  Deal 2x damage to Technique and Courage Type.  Decrease the Skill Damage of Heart Type enemies by 40%.  Lower Cast Speed of Courage Type enemies by 1",
+		skill1: "Deal 3% + 30,000 to all enemies.  Deal 2x damage to Heart and Courage Type.  Decrease the Skill Damage of Heart Type enemies by 40%.  Lower Cast Speed of Courage Type enemies by 1",
 
 		skill2name: "Disappear In Front of Power!!",
 		skill2ogname: "力の前に散れ…！！",
@@ -6380,7 +6380,7 @@ window.detail = {
 		skill1type: "Sharingan",
 		skill1speed: "Fast",
 		skill1cost: "100",
-		skill1: "Deal 3% + 80,000 to all enemies.  Deal 4x damage to Technique and Courage Type.  Decrease the Skill Damage of Heart Type enemies by 80%.  Lower Cast Speed of Courage Type enemies by 2",
+		skill1: "Deal 3% + 80,000 to all enemies.  Deal 4x damage to Heart and Courage Type.  Decrease the Skill Damage of Heart Type enemies by 80%.  Lower Cast Speed of Courage Type enemies by 2",
 
 		skill2name: "Disappear In Front of Power!!",
 		skill2ogname: "力の前に散れ…！！",
@@ -6394,5 +6394,55 @@ window.detail = {
 
 		ability2name: "Mangekyo's Sprout",
 		ability2: "ATK and Skill Damage +200% when Chakra is above 50%"
+	},
+
+	618: {
+		leadname: "Abandoned Dream",
+		lead: "Konoha Characters Maximum HP and ATK +100%" ,
+
+		skill1name: "Wood Golem: Wooden Fist Jutsu",
+		skill1ogname: "木人・木拳",
+		skill1type: "Wood",
+		skill1speed: "Fast",
+		skill1cost: "80",
+		skill1: "Deal 50x ATK damage to all enemies ignoring 30% DEF. Deal 3x damage to Uchiha characters. (Max 150x)",
+
+		skill2name: "\"Depressed Sound Effect\"",
+		skill2ogname: "ズーン...",
+		skill2type: "Unique",
+		skill2speed: "Fastest",
+		skill2cost: "70",
+		skill2: "Own SPD +100% and Chakra Cost becomes 0 and grant \"Previous Hokage\" state to ally \"Hashirama Senju\", \"Tobirama Senju\", \"Hiruzen Sarutobi\" and \"Minato Namikaze\" [Previous Hokage: ATK, SPD and Skill Damage +200%, reduce all incoming skill damage by half]",
+
+		ability1name: "Depressed Habit",
+		ability1: "Immune to negative effects, high chance to recover 40% Chakra after every action",
+
+		ability2name: "Power of the Heart",
+		ability2: "ATK and DEF +100%, Cast Speed +1"
+	},
+
+	"618_6": {
+		leadname: "Abandoned Dream",
+		lead: "Konoha Characters Maximum HP and ATK +100%" ,
+
+		skill1name: "Wood Golem: Wooden Fist Jutsu",
+		skill1ogname: "木人・木拳",
+		skill1type: "Wood",
+		skill1speed: "Fast",
+		skill1cost: "80",
+		skill1: "Deal 50x ATK damage to all enemies ignoring 30% DEF. Deal 3x damage to Uchiha characters. (Max 150x)",
+
+		skill2name: "\"Depressed Sound Effect\"",
+		skill2ogname: "ズーン...",
+		skill2type: "Unique",
+		skill2speed: "Fastest",
+		skill2cost: "70",
+		skill2: "Own SPD +100% and Chakra Cost becomes 0 and grant \"Previous Hokage\" state to ally \"Hashirama Senju\", \"Tobirama Senju\", \"Hiruzen Sarutobi\" and \"Minato Namikaze\" [Previous Hokage: ATK, SPD and Skill Damage +200%, reduce all incoming skill damage by half]",
+
+		ability1name: "Depressed Habit",
+		ability1: "Immune to negative effects, high chance to recover 40% Chakra after every action",
+
+		ability2name: "Power of the Heart",
+		ability2: "ATK and DEF +100%, Cast Speed +1"
 	},
 }

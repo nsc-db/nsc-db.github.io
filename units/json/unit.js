@@ -253,4 +253,6 @@ window.unit=[
  [616, "Ashura Otsutsuki, Benevolent Brave God", "Heart", "None", 6, 90, 33894, 40202, 25511, 231, 32, 25, 181, 1], 
  [617, "Indra Otsutsuki, Proud Battle God", "Body", "None", 6, 90, 27785, 47024, 24913, 221, 32, 25, 201, 0],
  [617, "Indra Otsutsuki, Proud Battle God", "Body", "None", 6, 90, 27785, 47024, 24913, 221, 32, 25, 201, 1],
+ [618, "Hashirama Senju, Abandoned Dream", "Body", "Konoha", 6, 50, null, null, null, null, null, null, null, 0],
+ [618, "Hashirama Senju, Abdandoned Dream", "Body", "Konoha", 6, 50, null, null, null, null, null, null, null, 1],
 ]
