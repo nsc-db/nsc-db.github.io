@@ -6445,4 +6445,104 @@ window.detail = {
 		ability2name: "Power of the Heart",
 		ability2: "ATK and DEF +100%, Cast Speed +1"
 	},
+
+	619: {
+		leadname: "Beautiful Scattered Art",
+		lead: "Akatsuki Character SPD and Skill Damage +40%" ,
+
+		skill1name: "Let Me Inform You About Art!",
+		skill1ogname: "芸術を教えてやるよ",
+		skill1type: "Secret",
+		skill1speed: "Fast",
+		skill1cost: "40",
+		skill1: "Deal 3% + 7,000 to all enemies with a high chance to lower ATK by 70%. Deal more damage the less enemies. Minimum 6x against 5 enemies, Maximum 10x against 1.  ",
+
+		skill2name: "Katsu, Yeah!",
+		skill2ogname: "喝ってな、うん！",
+		skill2type: "Unique",
+		skill2speed: "Fastest",
+		skill2cost: "80",
+		skill2: "Own ATK, DEF and SPD +100%.  All allies Secret Skill Damage +200%",
+
+		ability1name: "Admiration of Beautiful Moments",
+		ability1: "For 3 turns, Skill Damage +200%.  After 3 turns, SPD and Skill Damage +100%",
+
+		ability2name: "Pursuit of the Ultimate Art",
+		ability2: "Maximum HP and ATK +100%"
+	},
+
+	"619_6": {
+		leadname: "Beautiful Scattered Art",
+		lead: "Akatsuki Character SPD and Skill Damage +40%" ,
+
+		skill1name: "Let Me Inform You About Art!",
+		skill1ogname: "芸術を教えてやるよ",
+		skill1type: "Secret",
+		skill1speed: "Fast",
+		skill1cost: "40",
+		skill1: "Deal 3% + 7,000 to all enemies with a high chance to lower ATK by 70%. Deal more damage the less enemies. Minimum 6x against 5 enemies, Maximum 10x against 1.  ",
+
+		skill2name: "Katsu, Yeah!",
+		skill2ogname: "喝ってな、うん！",
+		skill2type: "Unique",
+		skill2speed: "Fastest",
+		skill2cost: "80",
+		skill2: "Own ATK, DEF and SPD +100%.  All allies Secret Skill Damage +200%",
+
+		ability1name: "Admiration of Beautiful Moments",
+		ability1: "For 3 turns, Skill Damage +200%.  After 3 turns, SPD and Skill Damage +100%",
+
+		ability2name: "Pursuit of the Ultimate Art",
+		ability2: "Maximum HP and ATK +100%"
+	},
+
+	620: {
+		leadname: "Surprised Jump",
+		lead: "Akatsuki Characters Maximum HP +100%, DEF -50%" ,
+
+		skill1name: "What Should We Play?",
+		skill1ogname: "なにして遊びましょうか？",
+		skill1type: "Unique",
+		skill1speed: "Fastest",
+		skill1cost: "60",
+		skill1: "Deal 20 hits dealing 3% + 3,000 per hits to random enemeis, with a high chance to place the enemies under Genjutsu state. Deal 2x damage if at least 1 enemy is under Genjutsu state",
+
+		skill2name: "Pakkkan!!",
+		skill2ogname: "パッッカーン！！",
+		skill2type: "Unique",
+		skill2speed: "Fastest",
+		skill2cost: "70",
+		skill2: "Recover a termendous amount of HP to all allies and increase their SPD by 80%. Recover a tremendous amount of Chakra to Akatsuki allies",
+
+		ability1name: "Cheerful Spirit",
+		ability1: "Chance to recover 100% HP and Chakra after every action",
+
+		ability2name: "Secret Identity",
+		ability2: "Skill Damage +100%, high chance to dodge skills"
+	},
+
+	"620_6": {
+		leadname: "Surprised Jump",
+		lead: "Akatsuki Characters Maximum HP +100%, DEF -50%" ,
+
+		skill1name: "What Should We Play?",
+		skill1ogname: "なにして遊びましょうか？",
+		skill1type: "Unique",
+		skill1speed: "Fastest",
+		skill1cost: "60",
+		skill1: "Deal 20 hits dealing 3% + 3,000 per hits to random enemeis, with a high chance to place the enemies under Genjutsu state. Deal 2x damage if at least 1 enemy is under Genjutsu state",
+
+		skill2name: "Pakkkan!!",
+		skill2ogname: "パッッカーン！！",
+		skill2type: "Unique",
+		skill2speed: "Fastest",
+		skill2cost: "70",
+		skill2: "Recover a termendous amount of HP to all allies and increase their SPD by 80%. Recover a tremendous amount of Chakra to Akatsuki allies",
+
+		ability1name: "Cheerful Spirit",
+		ability1: "Chance to recover 100% HP and Chakra after every action",
+
+		ability2name: "Secret Identity",
+		ability2: "Skill Damage +100%, high chance to dodge skills"
+	},
 }

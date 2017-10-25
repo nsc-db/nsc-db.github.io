@@ -255,4 +255,8 @@ window.unit=[
  [617, "Indra Otsutsuki, Proud Battle God", "Body", "None", 6, 90, 27785, 47024, 24913, 221, 32, 25, 201, 1],
  [618, "Hashirama Senju, Abandoned Dream", "Body", "Konoha", 6, 50, 42571, 30805, 29786, 256, 20, 18, 168, 0],
  [618, "Hashirama Senju, Abdandoned Dream", "Body", "Konoha", 6, 50, 42571, 30805, 29786, 256, 20, 18, 168, 1],
+ [619, "Deidara, Beautiful Scattered Art", "Courage", "Akatsuki", 6, 35, null, null, null, null, null, null, null, 0],
+ [619, "Deidara, Beautiful Scattered Art", "Courage", "Akatsuki", 6, 35, null, null, null, null, null, null, null, 1],
+ [620, "Tobi, Surprised Jump", "Courage", "Akatsuki", 6, 35, null, null, null, null, null, null, null, 0],
+ [620, "Tobi, Surprised Jump", "Courage", "Akatsuki", 6, 35, null, null, null, null, null, null, null, 1],
 ]
