@@ -6505,14 +6505,14 @@ window.detail = {
 		skill1type: "Unique",
 		skill1speed: "Fastest",
 		skill1cost: "60",
-		skill1: "Deal 20 hits dealing 3% + 3,000 per hits to random enemeis, with a high chance to place the enemies under Genjutsu state. Deal 2x damage if at least 1 enemy is under Genjutsu state",
+		skill1: "Deal 20 hits dealing 3% + 3,000 per hits to random enemies, with a high chance to place the enemies under Genjutsu state. Deal 2x damage if at least 1 enemy is under Genjutsu state",
 
 		skill2name: "Pakkkan!!",
 		skill2ogname: "パッッカーン！！",
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "70",
-		skill2: "Recover a termendous amount of HP to all allies and increase their SPD by 80%. Recover a tremendous amount of Chakra to Akatsuki allies",
+		skill2: "Recover a tremendous amount of HP to all allies and increase their SPD by 80%. Recover a tremendous amount of Chakra to Akatsuki allies",
 
 		ability1name: "Cheerful Spirit",
 		ability1: "Chance to recover 100% HP and Chakra after every action",
@@ -6530,14 +6530,14 @@ window.detail = {
 		skill1type: "Unique",
 		skill1speed: "Fastest",
 		skill1cost: "60",
-		skill1: "Deal 20 hits dealing 3% + 3,000 per hits to random enemeis, with a high chance to place the enemies under Genjutsu state. Deal 2x damage if at least 1 enemy is under Genjutsu state",
+		skill1: "Deal 20 hits dealing 3% + 3,000 per hits to random enemies, with a high chance to place the enemies under Genjutsu state. Deal 2x damage if at least 1 enemy is under Genjutsu state",
 
 		skill2name: "Pakkkan!!",
 		skill2ogname: "パッッカーン！！",
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "70",
-		skill2: "Recover a termendous amount of HP to all allies and increase their SPD by 80%. Recover a tremendous amount of Chakra to Akatsuki allies",
+		skill2: "Recover a tremendous amount of HP to all allies and increase their SPD by 80%. Recover a tremendous amount of Chakra to Akatsuki allies",
 
 		ability1name: "Cheerful Spirit",
 		ability1: "Chance to recover 100% HP and Chakra after every action",
