@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Naruto Shinobi Collection Database - Units</title>
+
+    <!--BOOTSTRAP -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!--FAVICON-->
+	<link rel="apple-touch-icon" sizes="57x57" href="favicon/apple-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="favicon/apple-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="favicon/apple-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="favicon/apple-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="favicon/apple-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="favicon/apple-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="favicon/apple-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="favicon/apple-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-icon-180x180.png">
+	<link rel="icon" type="image/png" sizes="192x192"  href="favicon/android-icon-192x192.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="96x96" href="favicon/favicon-96x96.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="favicon/favicon-16x16.png">
+	<link rel="manifest" href="/manifest.json">
+	<meta name="msapplication-TileColor" content="#ffffff">
+	<meta name="msapplication-TileImage" content="favicon/ms-icon-144x144.png">
+	<meta name="theme-color" content="#ffffff">
+
+    <!-- CSS -->
+	<link rel="stylesheet" type="text/css" href="css/datatables.min.css"/>
+	<link rel="stylesheet" type="text/css" href="css/style.css"/>
+	
+	<!-- DATABASE ENTRIES -->
+	<script type="text/javascript" src="json/gears.js"></script>
+
+	<link rel="stylesheet" href="https://i.icomoon.io/public/adb54f46d6/Linearicons/style.css">
+	
+</head>
+
+<body>
+
+	<div class="container">
+		<div class="base-header">
+			<div class="row">
+				<div class="col-md-5 col-md-offset-7">
+					<h1>Naruto <span>Shinobi <br>Collection</span> Database</h1>
+					<p>Join  us in the Reddit: <a target="_blank" href="http://reddit.com/r/NarutoSc">/r/NarutoSc</a></p>
+				</div>
+				<div class="col-md-12">
+					<div class="base-menu">
+						<ul>
+							<!-- <li><a href="http://nsc-db.github.io/index.html" role="button">Front Page</a> -->
+							<li><a href="../units/index.html" role="button">Units</a>
+							<li class="active"><a ref="../gear/gears.html" role="button">Ninja Gear</a>
+							<!-- <li><a href="/guides" role="button">Guides</a>
+							<li><a href="/faq" role="button">FAQ</a> -->
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	
+	<div class="container">
+		<div class="base-content">
+			<div class="row">
+				<div class="col-md-4">
+					<h2>Units Table</h2>
+					<p>Choose a unit to view details</p>
+					
+				</div>
+				<div class="col-md-8">
+					<div class="alert alert-warning" role="alert">
+						<strong>Note: Some stats are their lvl 80 stats.</strong> If you have the lvl 100 stats, feel free to share in the Reddit.
+					</div>
+				</div>
+				<div class="col-md-12">
+					<hr>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-12">
+					<table id="tableGears" class="display" cellspacing="0" width="100%">
+						<tbody class="gears">
+						</tbody>
+					</table>
+				</div>
+
+				<div class="col-md-12">
+					<div class="footer">
+						<hr>
+						<p class="note">Created by Yuyya, Noobiel and Book</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<!-- JQUERY -->
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+	<!--BOOTSTRAP-->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+	<!--JSON GATHER -->
+	<script type="text/javascript" src="json/json-gears.js"></script>
+
+	<!-- TABLE GENERATOR -->
+	<script type="text/javascript" src="js/datatables.min.js"></script>
+
+	<script>
+		$(document).ready( function () {
+			$('#tableGears').DataTable({
+				stateSave: true,
+				columns: [
+		            { title: "Icon" },
+		            { title: "Name" },
+		            { title: "Type" },
+		            { title: "Normal Effect" },
+		            { title: "Unique Effect" },
+		            { title: "Affected Ninjas" },
+		        ]
+			});
+		} );
+	</script>
+
+</body>
+</html>
