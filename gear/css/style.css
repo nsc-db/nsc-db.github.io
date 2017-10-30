@@ -156,9 +156,7 @@ body{
 	text-align: center;
 }
 
-#tableGears tbody td:nth-child(4),
-#tableGears tbody td:nth-child(5),
-#tableGears tbody td:nth-child(6) {
+#tableGears tbody td {
 	font-size: 12px;
 }
 
