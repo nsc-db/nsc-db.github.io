@@ -3321,15 +3321,15 @@ window.detail = {
 		lead: "Technique Type Maximum HP, ATK and SPD +100%",
 
 		skill1name: "Inferno Style: Kagutsuchi",
-		skill1ogname: "炎遁・加具土命",
+		skill1ogname: "仙術・須佐能乎",
 		skill1type: "Sage",
 		skill1speed: "Fast",
 		skill1cost: "100",
 		skill1: "Deal 120,000 fixed damage to all enemies",
 
 
-		skill2name: "Wind Style: Rasenshuriken",
-		skill2ogname: "風遁・螺旋手裏剣",
+		skill2name: "Inferno Style: Kagutsuchi",
+		skill2ogname: "炎遁・加具土命",
 		skill2type: "Inferno",
 		skill2speed: "Fastest",
 		skill2cost: "100",
@@ -3347,15 +3347,15 @@ window.detail = {
 		lead: "Technique Type Maximum HP, ATK and SPD +100%",
 
 		skill1name: "Inferno Style: Kagutsuchi",
-		skill1ogname: "炎遁・加具土命",
+		skill1ogname: "仙術・須佐能乎",
 		skill1type: "Sage",
 		skill1speed: "Fast",
 		skill1cost: "100",
 		skill1: "Deal 120,000 fixed damage to all enemies",
 
 
-		skill2name: "Wind Style: Rasenshuriken",
-		skill2ogname: "風遁・螺旋手裏剣",
+		skill2name: "Inferno Style: Kagutsuchi",
+		skill2ogname: "炎遁・加具土命",
 		skill2type: "Inferno",
 		skill2speed: "Fastest",
 		skill2cost: "100",
@@ -6544,5 +6544,155 @@ window.detail = {
 
 		ability2name: "Secret Identity",
 		ability2: "Skill Damage +100%, high chance to dodge skills"
+	},
+
+	621: {
+		leadname: "Medical Ninjutsu Expert",
+		lead: "Chakra Cost -50% when HP is below 50%" ,
+
+		skill1name: "Tonton Combination",
+		skill1ogname: "トントンコンビネーション",
+		skill1type: "Unique",
+		skill1speed: "Fastest",
+		skill1cost: "40",
+		skill1: "Deal 7% + 2,000 to one enemy with a chance to reduce the enemy's SPD by 20%. Chance for Tonton to attack doing 7% + 100,000 instead",
+
+		skill2name: "Ok, Here I Come",
+		skill2ogname: "さ、行きますよ",
+		skill2type: "Healing",
+		skill2speed: "Fast",
+		skill2cost: "60",
+		skill2: "Recover a large amount of HP to all allies. SPD +70% to Konoha allies",
+
+		ability1name: "Hokage Assistant",
+		ability1: "Maximum HP +120%. Skill Damage +120% when HP is above 80%",
+
+		ability2name: "Application of the Medical Ninjutsu",
+		ability2: "Healing Skill +50%.  Additional +50% when HP is below 50%"
+	},
+
+	"621_6": {
+		leadname: "Medical Ninjutsu Expert",
+		lead: "Chakra Cost -50% when HP is below 50%" ,
+
+		skill1name: "Tonton Combination",
+		skill1ogname: "トントンコンビネーション",
+		skill1type: "Unique",
+		skill1speed: "Fastest",
+		skill1cost: "40",
+		skill1: "Deal 7% + 2,000 to one enemy with a chance to reduce the enemy's SPD by 20%. Chance for Tonton to attack doing 7% + 100,000 instead",
+
+		skill2name: "Ok, Here I Come",
+		skill2ogname: "さ、行きますよ",
+		skill2type: "Healing",
+		skill2speed: "Fast",
+		skill2cost: "60",
+		skill2: "Recover a large amount of HP to all allies. SPD +70% to Konoha allies",
+
+		ability1name: "Hokage Assistant",
+		ability1: "Maximum HP +120%. Skill Damage +120% when HP is above 80%",
+
+		ability2name: "Application of the Medical Ninjutsu",
+		ability2: "Healing Skill +50%.  Additional +50% when HP is below 50%"
+	},
+
+	622: {
+		leadname: "Blooming Fate",
+		lead: "Courage Type Maximum HP and ATK +40% and recover 10% HP after every action" ,
+
+		skill1name: "Wood Style: Deep Forest Bloom",
+		skill1ogname: "木遁・花樹界降臨",
+		skill1type: "Wood",
+		skill1speed: "Fast",
+		skill1cost: "120",
+		skill1: "Deal 3% + 120,000 to all enemies, with a high chance to place all the enemies under \"Flower Tree\" state, deal more damage the more HP Hashirama has (Maximmum 10x at full health).  This Skill does fixed damage to enemies under \"Flower Tree\" state and skip their action. [Flower Tree: Reduce HP every turn (Max 60%) and gradually lower ATK and DEF]",
+
+		skill2name: "Alright, Let's Finish This",
+		skill2ogname: "もう…終わりにしようぞ",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "60",
+		skill2: "Own Skill Damage +150%, Cast Speed +1 and Immune to all Skill Damage",
+
+		ability1name: "One of a Kind Wood Style",
+		ability1: "Maximum Chakra +100, ATK and Skill Damage +100%",
+
+		ability2name: "Endure Resolution",
+		ability2: "Maximum HP +120%, Recover 10% HP after every action"
+	},
+
+	"622_6": {
+		leadname: "Blooming Fate",
+		lead: "Courage Type Maximum HP and ATK +40% and recover 10% HP after every action" ,
+
+		skill1name: "Wood Style: Deep Forest Bloom",
+		skill1ogname: "木遁・花樹界降臨",
+		skill1type: "Wood",
+		skill1speed: "Fast",
+		skill1cost: "120",
+		skill1: "Deal 3% + 120,000 to all enemies, with a high chance to place all the enemies under \"Flower Tree\" state, deal more damage the more HP Hashirama has (Maximmum 10x at full health).  This Skill does fixed damage to enemies under \"Flower Tree\" state and skip their action. [Flower Tree: Reduce HP every turn (Max 60%) and gradually lower ATK and DEF]",
+
+		skill2name: "Alright, Let's Finish This",
+		skill2ogname: "もう…終わりにしようぞ",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "60",
+		skill2: "Own Skill Damage +150%, Cast Speed +1 and Immune to all Skill Damage",
+
+		ability1name: "One of a Kind Wood Style",
+		ability1: "Maximum Chakra +100, ATK and Skill Damage +100%",
+
+		ability2name: "Endure Resolution",
+		ability2: "Maximum HP +120%, Recover 10% HP after every action"
+	},
+
+	623: {
+		leadname: "Swift Blade Thrust",
+		lead: "Courage Type Maximum HP and SPD +40% and recover 10% Chakra after every action" ,
+
+		skill1name: "Flying Raijin Strike",
+		skill1ogname: "飛雷神斬り",
+		skill1type: "Space-Time",
+		skill1speed: "Fastest",
+		skill1cost: "70",
+		skill1: "Deal 7% + 30,000 to one enemy, with a high chance to put a Hiraishin Marking, and a chance to lower the enemy's Cast Speed by 2. Deal 7x to enemies with a Hiraishin Marking",
+
+		skill2name: "I Will Not Miss that Opening",
+		skill2ogname: "その隙、見逃しはしない",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "50",
+		skill2: "Own SPD and Skill Damage +150%, Recover 100% of Chakra and reduce Chakra Cost by 50%",
+
+		ability1name: "Space-Time Ninjutsu Dexterity",
+		ability1: "Maximum HP and Skill Damage +100%, Cast Speed +1",
+
+		ability2name: "Decision to Gaze in the Future",
+		ability2: "Chakra Cost -20%. For 10 turns, SPD +400%"
+	},
+
+	"623_6": {
+		leadname: "Swift Blade Thrust",
+		lead: "Courage Type Maximum HP and SPD +40% and recover 10% Chakra after every action" ,
+
+		skill1name: "Flying Raijin Strike",
+		skill1ogname: "飛雷神斬り",
+		skill1type: "Space-Time",
+		skill1speed: "Fastest",
+		skill1cost: "70",
+		skill1: "Deal 7% + 30,000 to one enemy, with a high chance to put a Hiraishin Marking, and a chance to lower the enemy's Cast Speed by 2. Deal 7x to enemies with a Hiraishin Marking",
+
+		skill2name: "I Will Not Miss that Opening",
+		skill2ogname: "その隙、見逃しはしない",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "50",
+		skill2: "Own SPD and Skill Damage +150%, Recover 100% of Chakra and reduce Chakra Cost by 50%",
+
+		ability1name: "Space-Time Ninjutsu Dexterity",
+		ability1: "Maximum HP and Skill Damage +100%, Cast Speed +1",
+
+		ability2name: "Decision to Gaze in the Future",
+		ability2: "Chakra Cost -20%. For 10 turns, SPD +400%"
 	},
 }

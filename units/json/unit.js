@@ -259,4 +259,10 @@ window.unit=[
  [619, "Deidara, Beautiful Scattered Art", "Courage", "Akatsuki", 6, 35, null, null, null, null, null, null, null, 1],
  [620, "Tobi, Surprised Jump", "Courage", "Akatsuki", 6, 35, null, null, null, null, null, null, null, 0],
  [620, "Tobi, Surprised Jump", "Courage", "Akatsuki", 6, 35, null, null, null, null, null, null, null, 1],
+ [621, "Shizune, Medical Ninjutsu Expert", "Body", "Konoha", 5, 29, null, null, null, null, null, null, null, 0],
+ [621, "Shizune, Medical Ninjutsu Expert", "Body", "Konoha", 5, 29, null, null, null, null, null, null, null, 1],
+ [622, "Hashirama Senju, Blooming Fate", "Courage", "Konoha", 6, 40, null, null, null, null, null, null, null, 0],
+ [622, "Hashirama Senju, Blooming Fate", "Courage", "Konoha", 6, 40, null, null, null, null, null, null, null, 1],
+ [623, "Tobirama Senju, Swift Blade Thrust", "Courage", "Konoha", 6, 40, null, null, null, null, null, null, null, 0],
+ [623, "Tobirama Senju, Swift Blade Thrust", "Courage", "Konoha", 6, 40, null, null, null, null, null, null, null, 1],
 ]
