@@ -1,0 +1,17 @@
+Crystal Type:
+1: Stats
+2: Resistance
+3: Additional
+10: Food
+11: Skill
+12: Chakra
+
+Unique Char
+
+window.gears = [
+	[1, "Genin Kunai", "Stat",
+	"ATK +20%",
+	"None",
+	"None",
+	],
+]
