@@ -265,4 +265,13 @@ window.unit=[
  [622, "Hashirama Senju, Blooming Fate", "Courage", "Konoha", 6, 40, null, null, null, null, null, null, null, 1],
  [623, "Tobirama Senju, Swift Blade Thrust", "Courage", "Konoha", 6, 40, null, null, null, null, null, null, null, 0],
  [623, "Tobirama Senju, Swift Blade Thrust", "Courage", "Konoha", 6, 40, null, null, null, null, null, null, null, 1],
+ [624, "Sasuke Uchiha, Complicated Fate", "Technique", "Hebi", 6, 40, null, null, null, null, null, null, null, 0],
+ [624, "Sasuke Uchiha, Complicated Fate", "Technique", "Hebi", 6, 40, null, null, null, null, null, null, null, 1],
+ [625, "Itachi Uchiha, Dreaming Light of Dawn", "Body", "Akatsuki", 6, 40, null, null, null, null, null, null, null, 0],
+ [625, "Itachi Uchiha, Dreaming Light of Dawn", "Body", "Akatsuki", 6, 40, null, null, null, null, null, null, null, 1],
+ [626, "Madara Uchiha, Sorrowful Farewell", "Intellect", "None", 6, 40, null, null, null, null, null, null, null, 0],
+ [626, "Madara Uchiha, Sorrowful Farewell", "Intellect", "None", 6, 40, null, null, null, null, null, null, null, 1],
+ [627, "Izuna Uchiha, Revolutionary Sharingan", "Intellect", "None", 6, 40, null, null, null, null, null, null, null, 0],
+ [627, "Izuna Uchiha, Revolutionary Sharingan", "Intellect", "None", 6, 40, null, null, null, null, null, null, null, 1],
+
 ]

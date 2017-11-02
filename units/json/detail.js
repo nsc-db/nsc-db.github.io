@@ -6695,4 +6695,205 @@ window.detail = {
 		ability2name: "Decision to Gaze in the Future",
 		ability2: "Chakra Cost -20%. For 10 turns, SPD +400%"
 	},
+
+	624: {
+		leadname: "Complicated Fate",
+		lead: "Technique Type ATK +40%, reduce incoming Sharingan Skill Damage by half" ,
+
+		skill1name: "Kirin",
+		skill1ogname: "麒麟",
+		skill1type: "Thunder",
+		skill1speed: "Normal",
+		skill1cost: "0",
+		skill1: "Deal 7% + 100 to one enemy and consume all chakra.  Deal more damage the more chakra consumed (10x per 100). Remove \"Thunder Beckon\" state to all allies",
+
+		skill2name: "Now Then... It's Time to Turn My Vision From before Into Reality",
+		skill2ogname: "さて…希望通り…再現しよう",
+		skill2type: "None",
+		skill2speed: "Fastest",
+		skill2cost: "50",
+		skill2: "Own ATK and Skill Damage +100%, Cast Speed +2. Grant \"Lightning Beckon\" state to all allies. [Lightning Beckon: Lightning Skill Damage +300% SPD +30%]",
+
+		ability1name: "Furious Hatred",
+		ability1: "ATK and DEF +20% after every action (Max 100%)",
+
+		ability2name: "Assassin's Blade",
+		ability2: "Skill Damage +120%, high chance to dodge skills"
+	},
+
+	"624_6": {
+		leadname: "Complicated Fate",
+		lead: "Technique Type ATK +40%, reduce incoming Sharingan Skill Damage by half" ,
+
+		skill1name: "Kirin",
+		skill1ogname: "麒麟",
+		skill1type: "Thunder",
+		skill1speed: "Normal",
+		skill1cost: "0",
+		skill1: "Deal 7% + 100 to one enemy and consume all chakra.  Deal more damage the more chakra consumed (10x per 100). Remove \"Thunder Beckon\" state to all allies",
+
+		skill2name: "Now Then... It's Time to Turn My Vision From before Into Reality",
+		skill2ogname: "さて…希望通り…再現しよう",
+		skill2type: "None",
+		skill2speed: "Fastest",
+		skill2cost: "50",
+		skill2: "Own ATK and Skill Damage +100%, Cast Speed +2. Grant \"Lightning Beckon\" state to all allies. [Lightning Beckon: Lightning Skill Damage +300% SPD +30%]",
+
+		ability1name: "Furious Hatred",
+		ability1: "ATK and DEF +20% after every action (Max 100%)",
+
+		ability2name: "Assassin's Blade",
+		ability2: "Skill Damage +120%, high chance to dodge skills"
+	},
+
+	625: {
+		leadname: "Dreaming Light of Dawn",
+		lead: "Akatsuki Characters ATK +40%, reduce incoming Lightning Skill Damage by half" ,
+
+		skill1name: "Susano'o",
+		skill1ogname: "須佐能乎",
+		skill1type: "Sharingan",
+		skill1speed: "Fastest",
+		skill1cost: "80",
+		skill1: "Deal 7% + 20,000 to one enemy with a high chance to seal, and remove all buffs and debuffs.  Deal 7x damage while under \"Yata Mirror\" state.",
+
+		skill2name: "I Will Show You My Final Card",
+		skill2ogname: "切り札を見せてやろう",
+		skill2type: "Sharingan",
+		skill2speed: "Fast",
+		skill2cost: "70",
+		skill2: "Own ATK, DEF and SPD +120% and grant \"Yata Mirror\" state. [Yata Mirror: Immune to all skill damage except for fixed damage, Skill Damage +120%]",
+
+		ability1name: "Understanding of the Time of Death",
+		ability1: "Skill Damage +120%, chance to recover 15% HP after every action",
+
+		ability2name: "Entrusted Future",
+		ability2: "ATK, DEF and SPD +30% for every Akatsuki ally"
+	},
+
+	"625_6": {
+		leadname: "Dreaming Light of Dawn",
+		lead: "Akatsuki Characters ATK +40%, reduce incoming Lightning Skill Damage by half" ,
+
+		skill1name: "Susano'o",
+		skill1ogname: "須佐能乎",
+		skill1type: "Sharingan",
+		skill1speed: "Fastest",
+		skill1cost: "80",
+		skill1: "Deal 7% + 20,000 to one enemy with a high chance to seal, and remove all buffs and debuffs.  Deal 7x damage while under \"Yata Mirror\" state.",
+
+		skill2name: "I Will Show You My Final Card",
+		skill2ogname: "切り札を見せてやろう",
+		skill2type: "Sharingan",
+		skill2speed: "Fast",
+		skill2cost: "70",
+		skill2: "Own ATK, DEF and SPD +120% and grant \"Yata Mirror\" state. [Yata Mirror: Immune to all skill damage except for fixed damage, Skill Damage +120%]",
+
+		ability1name: "Understanding of the Time of Death",
+		ability1: "Skill Damage +120%, chance to recover 15% HP after every action",
+
+		ability2name: "Entrusted Future",
+		ability2: "ATK, DEF and SPD +30% for every Akatsuki ally"
+	},
+
+	626: {
+		leadname: "Sorrowful Farewell",
+		lead: "Intellect Type Maximum HP and ATK +40%, recover 10% Chakra after every action" ,
+
+		skill1name: "Uchiha Flame Lull",
+		skill1ogname: "うちは火炎凪",
+		skill1type: "Fire",
+		skill1speed: "Fast",
+		skill1cost: "120",
+		skill1: "Deal 3% + 10,000 to all enemies, with a high chance to place the enemy under \"Great Fire\" state. Deal more damage the more HP Madara has (Maximum 10x at full health). Deal 1.5x damage to \"Hashirama Senju\". [Great Fire: Reduce HP after every action (Max 30%) remove buff and debuff (Including resistance and chakra cost reduction)",
+
+		skill2name: "You Can't See It",
+		skill2ogname: "お前には見えないのさ",
+		skill2type: "None",
+		skill2speed: "Fast",
+		skill2cost: "60",
+		skill2: "Own Skill Damage +150%, Cast Speed +1 and grant a high chance to dodge skills",
+
+		ability1name: "Leader of the Uchiha Clan",
+		ability1: "Maximum Chakra +100, ATK and Skill Damage +100%",
+
+		ability2name: "Start of the Infinite Dream",
+		ability2: "Maximum HP +100%, recover 15% HP after every action"
+	},
+
+	"626_6": {
+		leadname: "Sorrowful Farewell",
+		lead: "Intellect Type Maximum HP and ATK +40%, recover 10% Chakra after every action" ,
+
+		skill1name: "Uchiha Flame Lull",
+		skill1ogname: "うちは火炎凪",
+		skill1type: "Fire",
+		skill1speed: "Fast",
+		skill1cost: "120",
+		skill1: "Deal 3% + 10,000 to all enemies, with a high chance to place the enemy under \"Great Fire\" state. Deal more damage the more HP Madara has (Maximum 10x at full health). Deal 1.5x damage to \"Hashirama Senju\". [Great Fire: Reduce HP after every action (Max 30%) remove buff and debuff (Including resistance and chakra cost reduction)",
+
+		skill2name: "You Can't See It",
+		skill2ogname: "お前には見えないのさ",
+		skill2type: "None",
+		skill2speed: "Fast",
+		skill2cost: "60",
+		skill2: "Own Skill Damage +150%, Cast Speed +1 and grant a high chance to dodge skills",
+
+		ability1name: "Leader of the Uchiha Clan",
+		ability1: "Maximum Chakra +100, ATK and Skill Damage +100%",
+
+		ability2name: "Start of the Infinite Dream",
+		ability2: "Maximum HP +100%, recover 15% HP after every action"
+	},
+
+	627: {
+		leadname: "Revolutionary Sharingan",
+		lead: "Intellect Type Maximum HP and ATK +40%, recover 10% HP after every action" ,
+
+		skill1name: "Uchiha Fire Blade: Flame Possession",
+		skill1ogname: "うちは炎刃・火憑",
+		skill1type: "Fire",
+		skill1speed: "Fastest",
+		skill1cost: "75",
+		skill1: "Deal 7% + 30,000 to one enemy with a high chance to place them under \"Inferno\" state.  Deal 4x damage under \"Inferno\" state. [Inferno: Reduce HP after every action (Max 60%), becomes weak to Fire (Weakness only occurs when they are neutral to fire)]",
+
+		skill2name: "Determination",
+		skill2ogname: "見極めてやる！",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "50",
+		skill2: "Own ATK and Skill Damage +150%, Cast Speed +1, recover 100% Chakra.",
+
+		ability1name: "Trained Ninjutsu",
+		ability1: "For 1 turn, Cast Speed +2 and Chakra Cost is 0. After 2 turns, Skill Damage +150%",
+
+		ability2name: "Brotherly Love",
+		ability2: "ATK, DEF and SPD +25% for every None Character ally"
+	},
+
+	"627_6": {
+		leadname: "Revolutionary Sharingan",
+		lead: "Intellect Type Maximum HP and ATK +40%, recover 10% HP after every action" ,
+
+		skill1name: "Uchiha Fire Blade: Flame Possession",
+		skill1ogname: "うちは炎刃・火憑",
+		skill1type: "Fire",
+		skill1speed: "Fastest",
+		skill1cost: "75",
+		skill1: "Deal 7% + 30,000 to one enemy with a high chance to place them under \"Inferno\" state.  Deal 4x damage under \"Inferno\" state. [Inferno: Reduce HP after every action (Max 60%), becomes weak to Fire (Weakness only occurs when they are neutral to fire)]",
+
+		skill2name: "Determination",
+		skill2ogname: "見極めてやる！",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "50",
+		skill2: "Own ATK and Skill Damage +150%, Cast Speed +1, recover 100% Chakra.",
+
+		ability1name: "Trained Ninjutsu",
+		ability1: "For 1 turn, Cast Speed +2 and Chakra Cost is 0. After 2 turns, Skill Damage +150%",
+
+		ability2name: "Brotherly Love",
+		ability2: "ATK, DEF and SPD +25% for every None Character ally"
+	},
+	
 }
