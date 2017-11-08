@@ -6765,7 +6765,7 @@ window.detail = {
 		skill2: "Own ATK, DEF and SPD +120% and grant \"Yata Mirror\" state. [Yata Mirror: Immune to all skill damage except for fixed damage, Skill Damage +120%]",
 
 		ability1name: "Understanding of the Time of Death",
-		ability1: "Skill Damage +120%, chance to recover 15% HP after every action",
+		ability1: "Skill Damage +120%, chance to reduce HP by 15% after every action",
 
 		ability2name: "Entrusted Future",
 		ability2: "ATK, DEF and SPD +30% for every Akatsuki ally"
@@ -6790,7 +6790,7 @@ window.detail = {
 		skill2: "Own ATK, DEF and SPD +120% and grant \"Yata Mirror\" state. [Yata Mirror: Immune to all skill damage except for fixed damage, Skill Damage +120%]",
 
 		ability1name: "Understanding of the Time of Death",
-		ability1: "Skill Damage +120%, chance to recover 15% HP after every action",
+		ability1: "Skill Damage +120%, chance to reduce HP by 15% after every action",
 
 		ability2name: "Entrusted Future",
 		ability2: "ATK, DEF and SPD +30% for every Akatsuki ally"
