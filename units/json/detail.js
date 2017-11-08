@@ -6895,5 +6895,54 @@ window.detail = {
 		ability2name: "Brotherly Love",
 		ability2: "ATK, DEF and SPD +25% for every None Character ally"
 	},
-	
+
+	628: {
+		leadname: "Honored Presentor of the Murder Heart",
+		lead: "Akatsuki Character ATK and DEF +50% and immune to debuff" ,
+
+		skill1name: "Iron Sand: Scattered Showers",
+		skill1ogname: "砂鉄時雨",
+		skill1type: "Magnet",
+		skill1speed: "Fast",
+		skill1cost: "80",
+		skill1: "Deal 15 hits dealing 3% + 1,000 to random enemies with a high chance to place the enemies under \"Fatal Poison\" [Fatal Poison: Reduce HP by 5% - 60% after every action, HP reduction is random] (Always Hit)",
+
+		skill2name: "Spare Me the Trouble",
+		skill2ogname: "手間かけさせんなよ",
+		skill2type: "Unique",
+		skill2speed: "Fastest",
+		skill2cost: "40",
+		skill2: "Own ATK, DEF and Skill Damage +120%, and immune to negative effects",
+
+		ability1name: "Conviction on Art",
+		ability1: "ATK and Skill Damage +100% Reover 10% Chakra after every action",
+
+		ability2name: "The True Human Puppet",
+		ability2: "DEF +150%, chance for Cast Speed +1 after every action, "
+	},
+
+	"628_6": {
+		leadname: "Honored Presentor of the Murder Heart",
+		lead: "Akatsuki Character ATK and DEF +50% and immune to debuff" ,
+
+		skill1name: "Iron Sand: Scattered Showers",
+		skill1ogname: "砂鉄時雨",
+		skill1type: "Magnet",
+		skill1speed: "Fast",
+		skill1cost: "80",
+		skill1: "Deal 15 hits dealing 3% + 1,000 to random enemies with a high chance to place the enemies under \"Fatal Poison\" [Fatal Poison: Reduce HP by 5% - 60% after every action, HP reduction is random] (Always Hit)",
+
+		skill2name: "Spare Me the Trouble",
+		skill2ogname: "手間かけさせんなよ",
+		skill2type: "Unique",
+		skill2speed: "Fastest",
+		skill2cost: "40",
+		skill2: "Own ATK, DEF and Skill Damage +120%, and immune to negative effects",
+
+		ability1name: "Conviction on Art",
+		ability1: "ATK and Skill Damage +100% Reover 10% Chakra after every action",
+
+		ability2name: "The True Human Puppet",
+		ability2: "DEF +150%, chance for Cast Speed +1 after every action, "
+	},	
 }
