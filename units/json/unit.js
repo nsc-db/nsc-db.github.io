@@ -273,6 +273,8 @@ window.unit=[
  [626, "Madara Uchiha, Sorrowful Farewell", "Intellect", "None", 6, 40, 26797, 35273, 22235, 233, 17, 17, 151, 1],
  [627, "Izuna Uchiha, Revolutionary Sharingan", "Intellect", "None", 6, 40, 27473, 34473, 20471, 248, 18, 19, 215, 0],
  [627, "Izuna Uchiha, Revolutionary Sharingan", "Intellect", "None", 6, 40, 27473, 34473, 20471, 248, 18, 19, 215, 1],
- [628, "Sasori, Honored Presentor of the Murder Heart", "Technique", "Akatsuki", 6, 40, 29160, 25201, 24935, 215, 17, 18, 169, 0],
- [628, "Sasori, Honored Presentor of the Murder Heart", "Technique", "Akatsuki", 6, 40, 29160, 25201, 24935, 215, 17, 18, 169, 1],
+ [628, "Sasori, Honored Presenter of the Murdered Heart", "Technique", "Akatsuki", 6, 40, 29160, 25201, 24935, 215, 17, 18, 169, 0],
+ [628, "Sasori, Honored Presenter of the Murdered Heart", "Technique", "Akatsuki", 6, 40, 29160, 25201, 24935, 215, 17, 18, 169, 1],
+ [629, "Jiraiya, Hot Spring Data Research Trip", "Heart", "Konoha", 6, 40, null, null, null, null, null, null, null, 0],
+ [629, "Jiraiya, Hot Spring Data Research Trip", "Heart", "Konoha", 6, 40, null, null, null, null, null, null, null, 1],
 ]

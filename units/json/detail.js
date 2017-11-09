@@ -6897,7 +6897,7 @@ window.detail = {
 	},
 
 	628: {
-		leadname: "Honored Presentor of the Murder Heart",
+		leadname: "Honored Presenter of the Murdered Heart",
 		lead: "Akatsuki Character ATK and DEF +50% and immune to debuff" ,
 
 		skill1name: "Iron Sand: Scattered Showers",
@@ -6922,7 +6922,7 @@ window.detail = {
 	},
 
 	"628_6": {
-		leadname: "Honored Presentor of the Murder Heart",
+		leadname: "Honored Presenter of the Murdered Heart",
 		lead: "Akatsuki Character ATK and DEF +50% and immune to debuff" ,
 
 		skill1name: "Iron Sand: Scattered Showers",
@@ -6944,5 +6944,55 @@ window.detail = {
 
 		ability2name: "The True Human Puppet",
 		ability2: "DEF +150%, chance for Cast Speed +1 after every action, "
+	},	
+
+	629: {
+		leadname: "Hot Spring Data Research Trip",
+		lead: "Konoha Character ATK, DEF and SPD +40%" ,
+
+		skill1name: "Summoning: Gamachu",
+		skill1ogname: "口寄せ・ガマ忠",
+		skill1type: "Summoning",
+		skill1speed: "Fast",
+		skill1cost: "60",
+		skill1: "Deal 3% + 30,000 to one enemy with a high chance to cancel the enemies' \"Sage Mode\" and \"Sage Chakra Concentration\". Deal 5x damage to enemeis with their ATK, DEF and/or SPD buffed",
+
+		skill2name: "108 Desired Soul",
+		skill2ogname: "煩悩百八魂",
+		skill2type: "Unique",
+		skill2speed: "Fastest",
+		skill2cost: "20",
+		skill2: "Own ATK +200% and Crit Chance and Crit Damage +5,000%. Grant \"Concentration\" state and has a low chance to Confuse himself. [Concentration: Chakra Cost is reduced every turn. Max 70%]",
+
+		ability1name: "Unmatched Lust",
+		ability1: "Maximum HP and Skill Damage +100%, chance to dodge skills",
+
+		ability2name: "Peeping Research",
+		ability2: "For 3 turns, all incoming skill damage are reduce by half and immune to negative status and debuff"
+	},
+
+	"629_6": {
+		leadname: "Hot Spring Data Research Trip",
+		lead: "Konoha Character ATK, DEF and SPD +40%" ,
+
+		skill1name: "Summoning: Gamachu",
+		skill1ogname: "口寄せ・ガマ忠",
+		skill1type: "Summoning",
+		skill1speed: "Fast",
+		skill1cost: "60",
+		skill1: "Deal 3% + 30,000 to one enemy with a high chance to cancel the enemies' \"Sage Mode\" and \"Sage Chakra Concentration\". Deal 5x damage to enemeis with their ATK, DEF and/or SPD buffed",
+
+		skill2name: "108 Desired Soul",
+		skill2ogname: "煩悩百八魂",
+		skill2type: "Unique",
+		skill2speed: "Fastest",
+		skill2cost: "20",
+		skill2: "Own ATK +200% and Crit Chance and Crit Damage +5,000%. Grant \"Concentration\" state and has a low chance to Confuse himself. [Concentration: Chakra Cost is reduced every turn. Max 70%]",
+
+		ability1name: "Unmatched Lust",
+		ability1: "Maximum HP and Skill Damage +100%, chance to dodge skills",
+
+		ability2name: "Peeping Research",
+		ability2: "For 3 turns, all incoming skill damage are reduce by half and immune to negative status and debuff"
 	},	
 }
