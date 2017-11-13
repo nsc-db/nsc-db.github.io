@@ -6955,7 +6955,7 @@ window.detail = {
 		skill1type: "Summoning",
 		skill1speed: "Fast",
 		skill1cost: "60",
-		skill1: "Deal 3% + 30,000 to one enemy with a high chance to cancel the enemies' \"Sage Mode\" and \"Sage Chakra Concentration\". Deal 5x damage to enemeis with their ATK, DEF and/or SPD buffed",
+		skill1: "Deal 3% + 30,000 to one enemy with a high chance to cancel the enemies' \"Sage Mode\" and \"Sage Chakra Concentration\". Deal 5x damage to enemies with their ATK, DEF and/or SPD buffed",
 
 		skill2name: "108 Desired Soul",
 		skill2ogname: "煩悩百八魂",
@@ -6980,7 +6980,7 @@ window.detail = {
 		skill1type: "Summoning",
 		skill1speed: "Fast",
 		skill1cost: "60",
-		skill1: "Deal 3% + 30,000 to one enemy with a high chance to cancel the enemies' \"Sage Mode\" and \"Sage Chakra Concentration\". Deal 5x damage to enemeis with their ATK, DEF and/or SPD buffed",
+		skill1: "Deal 3% + 30,000 to one enemy with a high chance to cancel the enemies' \"Sage Mode\" and \"Sage Chakra Concentration\". Deal 5x damage to enemies with their ATK, DEF and/or SPD buffed",
 
 		skill2name: "108 Desired Soul",
 		skill2ogname: "煩悩百八魂",
@@ -6994,5 +6994,105 @@ window.detail = {
 
 		ability2name: "Peeping Research",
 		ability2: "For 3 turns, all incoming skill damage are reduce by half and immune to negative status and debuff"
+	},	
+
+	630: {
+		leadname: "Hot Spring Steam: Sake and Flower",
+		lead: "Konoha Character Maximum HP +70%" ,
+
+		skill1name: "Summoning: Katsuyu",
+		skill1ogname: "口寄せ・カツ湯",
+		skill1type: "Summoning",
+		skill1speed: "Fast",
+		skill1cost: "70",
+		skill1: "Deal 3% + 8,000 to all enemies with a chance to place the enemies under \"Smoke\" state. Recove 20% HP to all allies and deal 4x damage to enemies under \"Smoke\" state. [Smoke: ATK and DEF -10%]",
+
+		skill2name: "A Cup",
+		skill2ogname: "くいっと一杯！",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "50",
+		skill2: "Own ATK, DEF and SPD +70%, recover own HP and Chakra by 100%",
+
+		ability1name: "Beautiful Figure",
+		ability1: "ATK and DEF +80% when HP is above 80%",
+
+		ability2name: "Supreme Bliss",
+		ability2: "Chance to dodge skills when HP is above 80%"
+	},
+
+	"630_6": {
+		leadname: "Hot Spring Steam: Sake and Flower",
+		lead: "Konoha Character Maximum HP +70%" ,
+
+		skill1name: "Summoning: Katsuyu",
+		skill1ogname: "口寄せ・カツ湯",
+		skill1type: "Summoning",
+		skill1speed: "Fast",
+		skill1cost: "60",
+		skill1: "Deal 3% + 15,000 to all enemies with a high chance to place the enemies under \"Smoke\" state. Recove 40% HP to all allies and deal 8x damage to enemies under \"Smoke\" state. [Smoke: ATK and DEF -20%]",
+
+		skill2name: "A Cup",
+		skill2ogname: "くいっと一杯！",
+		skill2type: "Unique",
+		skill2speed: "Fastest",
+		skill2cost: "40",
+		skill2: "Own ATK, DEF and SPD +100%, recover own HP and Chakra by 100%",
+
+		ability1name: "Beautiful Figure",
+		ability1: "ATK and DEF +100% when HP is above 50%",
+
+		ability2name: "Supreme Bliss",
+		ability2: "High chance to dodge skills when HP is above 50%"
+	},	
+
+	631: {
+		leadname: "Charming Beauty",
+		lead: "Konoha Character Maximum HP and SPD +40%" ,
+
+		skill1name: "Fascinating Crimson Steam",
+		skill1ogname: "幻惑紅湯煙",
+		skill1type: "Genjutsu",
+		skill1speed: "Fast",
+		skill1cost: "70",
+		skill1: "Deal 3% + 8,000 to one enemy with a chance to charm.  Deal 3x damage while under \"Steam\" state",
+
+		skill2name: "Great Water Temperature",
+		skill2ogname: "イイ湯加減ね",
+		skill2type: "Unique",
+		skill2speed: "Normal",
+		skill2cost: "60",
+		skill2: "Recover all allies HP by a large amount and place them under \"Steam\" state. [Steam: Recover 5% HP when attacked]",
+
+		ability1name: "Blanket Full of Elegant Experience",
+		ability1: "For 5 turns, incoming Skill Damage are halved",
+
+		ability2name: "Glamourous Skin",
+		ability2: "For 5 turns, ATK, DEF and SPD +50%"
+	},
+
+	"631_6": {
+		leadname: "Charming Beauty",
+		lead: "Konoha Character Maximum HP and SPD +40%" ,
+
+		skill1name: "Fascinating Crimson Steam",
+		skill1ogname: "幻惑紅湯煙",
+		skill1type: "Genjutsu",
+		skill1speed: "Fastest",
+		skill1cost: "60",
+		skill1: "Deal 3% + 15,000 to one enemy with a high chance to charm.  Deal 6x damage while under \"Steam\" state",
+
+		skill2name: "Great Water Temperature",
+		skill2ogname: "イイ湯加減ね",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "60",
+		skill2: "Recover all allies HP by a tremendous amount and place them under \"Steam\" state. [Steam: Recover 10% HP when attacked]",
+
+		ability1name: "Blanket Full of Elegant Experience",
+		ability1: "For 10 turns, incoming Skill Damage are halved",
+
+		ability2name: "Glamourous Skin",
+		ability2: "For 10 turns, ATK, DEF and SPD +100%"
 	},	
 }
