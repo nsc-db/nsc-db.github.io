@@ -7095,4 +7095,154 @@ window.detail = {
 		ability2name: "Glamourous Skin",
 		ability2: "For 10 turns, ATK, DEF and SPD +100%"
 	},	
+
+	632: {
+		leadname: "Only Wind Can Enhance Fire",
+		lead: "Courage and Intellect Skill Hit +10" ,
+
+		skill1name: "Scorch Style: Nimbus Tempest",
+		skill1ogname: "灼遁・光輪疾風黒旋丸",
+		skill1type: "Scorch",
+		skill1speed: "Fast",
+		skill1cost: "90",
+		skill1: "Deal 40 hits dealing 3% + 10 per hit to random enemies, with a high chance to place them under \"Black Flames\" state. Deal 1.5x damage if the enemy is Neutral to \"Wind\" and/or \"Inferno.\" [Black Flames: Continues to lose HP, ATK and SPD -20%]",
+
+		skill2name: "Don't Be Late",
+		skill2ogname: "遅れるんじゃねェぞ",
+		skill2type: "Unique",
+		skill2speed: "Fastest",
+		skill2cost: "100",
+		skill2: "Own ATK and SPD +100%, grant ally Sasuke \"Gust\" state. [Gust: SPD and Skill Damage +100%]",
+
+		ability1name: "Rival Link (Wind)",
+		ability1: "ATK, DEF and SPD +30% for every Konoha ally",
+
+		ability2name: "Piercing Thoughts",
+		ability2: "When HP is above 80%, recover 10% Chakra after every action. If HP is under 80%, recover 10% HP instead"
+	},
+
+	"632_6": {
+		leadname: "Only Wind Can Enhance Fire",
+		lead: "Courage and Intellect Skill Hit +10" ,
+
+		skill1name: "Scorch Style: Nimbus Tempest",
+		skill1ogname: "灼遁・光輪疾風黒旋丸",
+		skill1type: "Scorch",
+		skill1speed: "Fast",
+		skill1cost: "90",
+		skill1: "Deal 40 hits dealing 3% + 10 per hit to random enemies, with a high chance to place them under \"Black Flames\" state. Deal 1.5x damage if the enemy is Neutral to \"Wind\" and/or \"Inferno.\" [Black Flames: Continues to lose HP, ATK and SPD -20%]",
+
+		skill2name: "Don't Be Late",
+		skill2ogname: "遅れるんじゃねェぞ",
+		skill2type: "Unique",
+		skill2speed: "Fastest",
+		skill2cost: "100",
+		skill2: "Own ATK and SPD +100%, grant ally Sasuke \"Gust\" state. [Gust: SPD and Skill Damage +100%]",
+
+		ability1name: "Rival Link (Wind)",
+		ability1: "ATK, DEF and SPD +30% for every Konoha ally",
+
+		ability2name: "Piercing Thoughts",
+		ability2: "When HP is above 80%, recover 10% Chakra after every action. If HP is under 80%, recover 10% HP instead"
+	},
+
+	633: {
+		leadname: "Fire Burning with the Help of Wind",
+		lead: "Courage and Intellect ATK +100%" ,
+
+		skill1name: "Scorch Style: Nimbus Tempest",
+		skill1ogname: "灼遁・光輪疾風黒旋丸",
+		skill1type: "Scorch",
+		skill1speed: "Fast",
+		skill1cost: "90",
+		skill1: "Deal 40 hits dealing 3% + 10 per hit to random enemies, with a high chance to place them under \"Black Flames\" state. Deal 1.5x damage if the enemy is Neutral to \"Wind\" and/or \"Inferno.\" [Black Flames: Continues to lose HP, ATK and SPD -20%]",
+
+		skill2name: "We Will Do It Together",
+		skill2ogname: "合わせてやるよ",
+		skill2type: "Unique",
+		skill2speed: "Fastest",
+		skill2cost: "100",
+		skill2: "Recovery a large amount of HP and ATK +100%, grant ally \"Naruto Uzumaki\" \"Battle\" state. [Gust: Skill Damage +100%]",
+
+		ability1name: "Rival Link (Fire)",
+		ability1: "ATK, DEF and SPD +30% for every Konoha ally",
+
+		ability2name: "Piercing Beliefs",
+		ability2: "When HP is above 80%, recover 10% Chakra after every action. If HP is under 80%, recover 10% HP instead"
+	},
+
+	"633_6": {
+		leadname: "Fire Burning with the Help of Wind",
+		lead: "Courage and Intellect ATK +100%" ,
+
+		skill1name: "Scorch Style: Nimbus Tempest",
+		skill1ogname: "灼遁・光輪疾風黒旋丸",
+		skill1type: "Scorch",
+		skill1speed: "Fast",
+		skill1cost: "90",
+		skill1: "Deal 40 hits dealing 3% + 10 per hit to random enemies, with a high chance to place them under \"Black Flames\" state. Deal 1.5x damage if the enemy is Neutral to \"Wind\" and/or \"Inferno.\" [Black Flames: Continues to lose HP, ATK and SPD -20%]",
+
+		skill2name: "We Will Do It Together",
+		skill2ogname: "合わせてやるよ",
+		skill2type: "Unique",
+		skill2speed: "Fastest",
+		skill2cost: "100",
+		skill2: "Recovery a large amount of HP and ATK +100%, grant ally \"Naruto Uzumaki\" \"Battle\" state. [Gust: Skill Damage +100%]",
+
+		ability1name: "Rival Link (Fire)",
+		ability1: "ATK, DEF and SPD +30% for every Konoha ally",
+
+		ability2name: "Piercing Beliefs",
+		ability2: "When HP is above 80%, recover 10% Chakra after every action. If HP is under 80%, recover 10% HP instead"
+	},
+
+	634: {
+		leadname: "Brandishing Hiramekarei",
+		lead: "Kiri Character ATK +60%" ,
+
+		skill1name: "Great Twin Blade: Hiramekarei",
+		skill1ogname: "大双剣・ヒラメカレイ",
+		skill1type: "None",
+		skill1speed: "Fastest",
+		skill1cost: "50",
+		skill1: "Deal 7% + 20,000 to one enemy, with a high chance to place them under \"Decapitation\", and increase ATK by 200%. When attacking an enemy under \"Decapitation\" state, boost own Skill Damage by 500%. [Decapitation: Cast Speed -1, Skill Damage -30%]",
+
+		skill2name: "I Will Protect This Place",
+		skill2ogname: "ボクがお守りしなきゃ",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "80",
+		skill2: "Own DEF +500% and protect all of his allies. Grant ally \"Mei Terumi\" \"Love\" state. [Love: ATK, SPD and Skill Damage +100%, reduce incoming damage]",
+
+		ability1name: "Carrier of the Great Twin Blade",
+		ability1: "Maximum HP and Skill Damage +90%",
+
+		ability2name: "Growing Confidence",
+		ability2: "ATK, DEF and SPD +30% after every action (Max 120%)"
+	},
+
+	"635_6": {
+		leadname: "Brandishing Hiramekarei",
+		lead: "Kiri Character ATK +60%" ,
+
+		skill1name: "Great Twin Blade: Hiramekarei",
+		skill1ogname: "大双剣・ヒラメカレイ",
+		skill1type: "None",
+		skill1speed: "Fastest",
+		skill1cost: "50",
+		skill1: "Deal 7% + 20,000 to one enemy, with a high chance to place them under \"Decapitation\", and increase ATK by 200%. When attacking an enemy under \"Decapitation\" state, boost own Skill Damage by 500%. [Decapitation: Cast Speed -1, Skill Damage -30%]",
+
+		skill2name: "I Will Protect This Place",
+		skill2ogname: "ボクがお守りしなきゃ",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "80",
+		skill2: "Own DEF +500% and protect all of his allies. Grant ally \"Mei Terumi\" \"Love\" state. [Love: ATK, SPD and Skill Damage +100%, reduce incoming damage]",
+
+		ability1name: "Carrier of the Great Twin Blade",
+		ability1: "Maximum HP and Skill Damage +90%",
+
+		ability2name: "Growing Confidence",
+		ability2: "ATK, DEF and SPD +30% after every action (Max 120%)"
+	},
 }

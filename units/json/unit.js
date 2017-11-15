@@ -281,4 +281,10 @@ window.unit=[
  [630, "Tsunade, Hot Spring Steam: Sake and Flower", "Heart", "Konoha", 6, 32, 11849, 9946, 12985, 143, 15, 9, 146, 1],
  [631, "Kurenai Yuhi, Charming Beauty", "Body", "Konoha", 6, 32, 10744, 10581, 11868, 185, 16, 12, 146, 0],
  [631, "Kurenai Yuhi, Charming Beauty", "Body", "Konoha", 6, 32, 10744, 10581, 11868, 185, 16, 12, 146, 1],
+ [632, "Naruto Uzumaki, Only Wind Can Enhance Fire", "Courage", "Konoha", 6, 50, null, null, null, null, null, null, null, 0],
+ [632, "Naruto Uzumaki, Only Wind Can Enhance Fire", "Courage", "Konoha", 6, 50, null, null, null, null, null, null, null, 1],
+ [633, "Sasuke Uchiha, Fire Burning with the Help of Wind", "Intellect", "Konoha", 6, 50, null, null, null, null, null, null, null, 0],
+ [633, "Sasuke Uchiha, Fire Burning with the Help of Wind", "Intellect", "Konoha", 6, 50, null, null, null, null, null, null, null, 1],
+ [634, "Chojuro, Brandishing Hiramekarei", "Technique", "Kiri", 5, 32, null, null, null, null, null, null, null, 0],
+ [634, "Chojuro, Brandishing Hiramekarei", "Technique", "Kiri", 5, 32, null, null, null, null, null, null, null, 1],
 ]
