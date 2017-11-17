@@ -7221,7 +7221,7 @@ window.detail = {
 		ability2: "ATK, DEF and SPD +30% after every action (Max 120%)"
 	},
 
-	"635_6": {
+	"634_6": {
 		leadname: "Brandishing Hiramekarei",
 		lead: "Kiri Character ATK +60%" ,
 
