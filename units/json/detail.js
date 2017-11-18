@@ -7245,4 +7245,54 @@ window.detail = {
 		ability2name: "Growing Confidence",
 		ability2: "ATK, DEF and SPD +30% after every action (Max 120%)"
 	},
+
+	635: {
+		leadname: "Consecutive Ominous Bird Attack",
+		lead: "Konoha Character ATK +50%, Normal Attack Crit Damage +200%" ,
+
+		skill1name: "Asakujaku",
+		skill1ogname: "朝孔雀",
+		skill1type: "Taijutsu",
+		skill1speed: "Fast",
+		skill1cost: "80",
+		skill1: "Deal 40x ATK damage ignoring 50% DEF. Deal 3x damage while under \"Open\" state. (Max 120x)",
+
+		skill2name: "Sixth Gate: Gate of Joy, Open",
+		skill2ogname: "第六景門・開",
+		skill2type: "Taijutsu",
+		skill2speed: "Fast",
+		skill2cost: "60",
+		skill2: "Normal Attack Dodge Rate +200%, grant a medium chance to dodge skills, \"Open\" and \"Fist\" state. [Open: ATK +200%] [Fist: Normal Attack always Crit and increase damage. Recover 15% HP when attacked]",
+
+		ability1name: "Hot-Blooded Teacher of the Youth",
+		ability1: "ATK and Skill Damage +120% when HP is above 50%",
+
+		ability2name: "Flash Movement",
+		ability2: "SPD +80%, recover 10% HP when attacked"
+	},
+
+	"635_6": {
+		leadname: "Consecutive Ominous Bird Attack",
+		lead: "Konoha Character ATK +50%, Normal Attack Crit Damage +200%" ,
+
+		skill1name: "Asakujaku",
+		skill1ogname: "朝孔雀",
+		skill1type: "Taijutsu",
+		skill1speed: "Fast",
+		skill1cost: "80",
+		skill1: "Deal 40x ATK damage ignoring 50% DEF. Deal 3x damage while under \"Open\" state. (Max 120x)",
+
+		skill2name: "Sixth Gate: Gate of Joy, Open",
+		skill2ogname: "第六景門・開",
+		skill2type: "Taijutsu",
+		skill2speed: "Fast",
+		skill2cost: "60",
+		skill2: "Normal Attack Dodge Rate +200%, grant a medium chance to dodge skills, \"Open\" and \"Fist\" state. [Open: ATK +200%] [Fist: Normal Attack always Crit and increase damage. Recover 15% HP when attacked]",
+
+		ability1name: "Hot-Blooded Teacher of the Youth",
+		ability1: "ATK and Skill Damage +120% when HP is above 50%",
+
+		ability2name: "Flash Movement",
+		ability2: "SPD +80%, recover 10% HP when attacked"
+	},
 }

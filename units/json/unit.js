@@ -287,4 +287,6 @@ window.unit=[
  [633, "Sasuke Uchiha, Fire Burning with the Help of Wind", "Intellect", "Konoha", 6, 50, 30561, 41833, 28390, 243, 20, 19, 168, 1],
  [634, "Chojuro, Brandishing Hiramekarei", "Technique", "Kiri", 5, 32, 14105, 13305, 12185, 171, 15, 15, 172, 0],
  [634, "Chojuro, Brandishing Hiramekarei", "Technique", "Kiri", 5, 32, 14105, 13305, 12185, 171, 15, 15, 172, 1],
+ [635, "Might Gai, Consecutive Ominous Bird Attack", "Body", "Konoha", 6, 80, null, null, null, null, null, null, null, 0],
+ [635, "Might Gai, Consecutive Ominous Bird Attack", "Body", "Konoha", 6, 80, null, null, null, null, null, null, null, 1],
 ]
