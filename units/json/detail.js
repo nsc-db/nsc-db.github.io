@@ -1184,6 +1184,112 @@ window.detail = {
 		ability2: "ATK and Maximum HP +100%, recover 15% HP after every action"
 	},
 
+	/*
+	394: {
+		leadname: "Unreachable Voice",
+		lead: "Body Type ATK and SPD +30%",
+
+		skill1name: "Giant Rasengan",
+		skill1ogname: "大玉螺旋丸",
+		skill1type: "Wind",
+		skill1speed: "Fast",
+		skill1cost: "80",
+		skill1: "Deal 7% + 1,500 to one enemy with a chance to lower ATK by 80%. Deal 2x damage to Hebi enemies and 1.5x damage when own ATK is buffed (Max 3x)",
+
+
+		skill2name: "I Will Not Give Up",
+		skill2ogname: "オレはあきらめねェ！",
+		skill2type: "None",
+		skill2speed: "Fast",
+		skill2cost: "60",
+		skill2: "Own ATK and Skill Damage +80%, recover own HP by a large amount",
+
+		ability1name: "Friendship Without Fences",
+		ability1: "Skill Damage +60%, recover 7% Chakra after every action",
+
+		ability2name: "Persistent Shinobi",
+		ability2: "Maximum HP +70%. Reduce incoming Skill Damage when HP is under 40%"
+	},
+
+	"394_6": {
+		leadname: "Unreachable Voice",
+		lead: "Body Type ATK and SPD +30%",
+
+		skill1name: "Giant Rasengan",
+		skill1ogname: "大玉螺旋丸",
+		skill1type: "Wind",
+		skill1speed: "Fast",
+		skill1cost: "70",
+		skill1: "Deal 7% + 9,000 to one enemy with a high chance to lower ATK by 80%. Deal 2.5x damage to Hebi enemies and 6x damage when own ATK is buffed (Max 15x)",
+
+
+		skill2name: "I Will Not Give Up",
+		skill2ogname: "オレはあきらめねェ！",
+		skill2type: "None",
+		skill2speed: "Fastest",
+		skill2cost: "50",
+		skill2: "Own ATK and Skill Damage +100%, recover own HP by a tremendous amount",
+
+		ability1name: "Friendship Without Fences",
+		ability1: "ATK and Skill Damage +100%, recover 10% Chakra after every action",
+
+		ability2name: "Persistent Shinobi",
+		ability2: "Maximum HP +120%. Reduce incoming Skill Damage when HP is under 60%"
+	},
+
+	395: {
+		leadname: "Unshakable Heart",
+		lead: "Technique Type Maximum HP and ATK +30%",
+
+		skill1name: "Chidori Stream",
+		skill1ogname: "千鳥流し",
+		skill1type: "Lightning",
+		skill1speed: "Normal",
+		skill1cost: "80",
+		skill1: "Deal 3% + 1,000 to all enemies with a chance to paralyze. Deal 2x damage to Konoha Characters, and 1.5x damage to paralyze enemies (Max 3x)",
+
+
+		skill2name: "Bonds... Severed",
+		skill2ogname: "絆など…断ち切った",
+		skill2type: "None",
+		skill2speed: "Fast",
+		skill2cost: "75",
+		skill2: "Own ATK and Skill Damage +100%, medium chance to dodge skills",
+
+		ability1name: "Uchiha's Gifted Eyes",
+		ability1: "Skill Damage +30%. Additional 70% when HP is above 80%",
+
+		ability2name: "Cursed Bloodline",
+		ability2: "Chakra Cost -20%, chance to reduce HP by 10%"
+	},
+
+	"395_6": {
+		leadname: "Unshakable Heart",
+		lead: "Technique Type Maximum HP and ATK +30%",
+
+		skill1name: "Chidori Stream",
+		skill1ogname: "千鳥流し",
+		skill1type: "Lightning",
+		skill1speed: "Fast",
+		skill1cost: "70",
+		skill1: "Deal 3% + 7,000 to all enemies with a high chance to paralyze. Deal 3x damage to Konoha Characters, 2x damage to paralyze enemies, and deal 2x damage when own ATK is buffed (Max 12x)",
+
+
+		skill2name: "Bonds... Severed",
+		skill2ogname: "絆など…断ち切った",
+		skill2type: "None",
+		skill2speed: "Fastest",
+		skill2cost: "65",
+		skill2: "Own ATK and Skill Damage +150%, high chance to dodge skills",
+
+		ability1name: "Uchiha's Gifted Eyes",
+		ability1: "Skill Damage +60%. Additional 100% when HP is above 60%",
+
+		ability2name: "Cursed Bloodline",
+		ability2: "Chakra Cost -20%, very low chance to reduce HP by 10%"
+	},
+	*/
+	
 	412: {
 		leadname: "Chosen Future",
 		lead: "Intellect and Heart Type Maximum HP and Skill Damage +40%",
@@ -7294,5 +7400,155 @@ window.detail = {
 
 		ability2name: "Flash Movement",
 		ability2: "SPD +80%, recover 10% HP when attacked"
+	},
+
+	636: {
+		leadname: "Limitless Genius",
+		lead: "Body Type Konoha Character Taijutsu Skill Damage +100%" ,
+
+		skill1name: "Forbidden Jutsu: Hidden Lotus",
+		skill1ogname: "禁術・裏蓮華",
+		skill1type: "Taijutsu",
+		skill1speed: "Fastest",
+		skill1cost: "0",
+		skill1: "Deal 4x ATK damage ignoring 30% DEF. Deal 25x damage while under \"Open\" state. (Max 100x) Reduce own HP by 50% afterwards",
+
+		skill2name: "Not Enough Practice",
+		skill2ogname: "修業が足りませんね",
+		skill2type: "Taijutsu",
+		skill2speed: "Fastest",
+		skill2cost: "50",
+		skill2: "Own ATK, SPD and Skill Damage +250% and grant \"Open\" state. [Open: ATK +250%]",
+
+		ability1name: "Mastered Limit",
+		ability1: "ATK and Skill Damage +100%",
+
+		ability2name: "I Will Never Falter",
+		ability2: "Maximum HP +100%, when HP is reduced to 0, revive to full HP (up to twice)"
+	},
+
+	"636_6": {
+		leadname: "Limitless Genius",
+		lead: "Body Type Konoha Character Taijutsu Skill Damage +100%" ,
+
+		skill1name: "Forbidden Jutsu: Hidden Lotus",
+		skill1ogname: "禁術・裏蓮華",
+		skill1type: "Taijutsu",
+		skill1speed: "Fastest",
+		skill1cost: "0",
+		skill1: "Deal 4x ATK damage ignoring 30% DEF. Deal 25x damage while under \"Open\" state. (Max 100x) Reduce own HP by 50% afterwards",
+
+		skill2name: "Not Enough Practice",
+		skill2ogname: "修業が足りませんね",
+		skill2type: "Taijutsu",
+		skill2speed: "Fastest",
+		skill2cost: "50",
+		skill2: "Own ATK, SPD and Skill Damage +250% and grant \"Open\" state. [Open: ATK +250%]",
+
+		ability1name: "Mastered Limit",
+		ability1: "ATK and Skill Damage +100%",
+
+		ability2name: "I Will Never Falter",
+		ability2: "Maximum HP +100%, when HP is reduced to 0, revive to full HP (up to twice)"
+	},
+
+	637: {
+		leadname: "God of Destruction",
+		lead: "Akatsuki Characers ATK and Skill Damage +40%" ,
+
+		skill1name: "Planetary Devastation",
+		skill1ogname: "地爆天星",
+		skill1type: "Rinnegan",
+		skill1speed: "Fastest",
+		skill1cost: "40",
+		skill1: "Deal 3% + 50,000 to all enemies with a high chance to cancel actions and a normal chance to place them under \"Seal\" state. [Seal: Action is disabled and continues to take damage]",
+
+		skill2name: "Growth of Pain",
+		skill2ogname: "痛みが成長させるのだ",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "80",
+		skill2: "Own ATK +200%, reduce all allies HP by 50%. All Akatsuki allies SKill Damage +200% and recover 60% HP",
+
+		ability1name: "Power of Judgement",
+		ability1: "ATK and Skill Damage +200%",
+
+		ability2name: "Invisible Shinobi",
+		ability2: "Maximum HP +100%, when HP is reduced to 0, revive to full HP (up to twice)"
+	},
+
+	"637_6": {
+		leadname: "God of Destruction",
+		lead: "Akatsuki Characers ATK and Skill Damage +40%" ,
+
+		skill1name: "Planetary Devastation",
+		skill1ogname: "地爆天星",
+		skill1type: "Rinnegan",
+		skill1speed: "Fastest",
+		skill1cost: "40",
+		skill1: "Deal 3% + 50,000 to all enemies with a high chance to cancel actions and a normal chance to place them under \"Seal\" state. [Seal: Action is disabled and continues to take damage]",
+
+		skill2name: "Growth of Pain",
+		skill2ogname: "痛みが成長させるのだ",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "80",
+		skill2: "Own ATK +200%, reduce all allies HP by 50%. All Akatsuki allies SKill Damage +200% and recover 60% HP",
+
+		ability1name: "Power of Judgement",
+		ability1: "ATK and Skill Damage +200%",
+
+		ability2name: "Invisible Shinobi",
+		ability2: "Maximum HP +100%, when HP is reduced to 0, revive to full HP (up to twice)"
+	},
+
+	638: {
+		leadname: "Paper Angel",
+		lead: "Akatsuki Characers Maximum HP and Skill Damage +40%" ,
+
+		skill1name: "Angel Gospel",
+		skill1ogname: "天使の福音",
+		skill1type: "Unique",
+		skill1speed: "Fast",
+		skill1cost: "40",
+		skill1: "Deal 30,000 fixed damage with a chance to Crit dealing 6x damage. Reduce the enemy Chakra by 50% and recover own Chakra by 50%. [Reduction of Chakra is only valid in PvP]",
+
+		skill2name: "The Words of God",
+		skill2ogname: "神からの言葉よ",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "70",
+		skill2: "Recover own HP by a tremendous amount. Akatsuky ally SPD and Skill Damage +100% and recover 30% Chakra",
+
+		ability1name: "Fragile Beauty",
+		ability1: "Skill Damage +150% and Cast Speed +1 when HP is above 70%",
+
+		ability2name: "Signal of the Divine WIll",
+		ability2: "DEF and SPD +30% for every Akatsuki ally"
+	},
+
+	"638_6": {
+		leadname: "Paper Angel",
+		lead: "Akatsuki Characers Maximum HP and Skill Damage +40%" ,
+
+		skill1name: "Angel Gospel",
+		skill1ogname: "天使の福音",
+		skill1type: "Unique",
+		skill1speed: "Fast",
+		skill1cost: "40",
+		skill1: "Deal 30,000 fixed damage with a chance to Crit dealing 6x damage. Reduce the enemy Chakra by 50% and recover own Chakra by 50%. [Reduction of Chakra is only valid in PvP]",
+
+		skill2name: "The Words of God",
+		skill2ogname: "神からの言葉よ",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "70",
+		skill2: "Recover own HP by a tremendous amount. Akatsuky ally SPD and Skill Damage +100% and recover 30% Chakra",
+
+		ability1name: "Fragile Beauty",
+		ability1: "Skill Damage +150% and Cast Speed +1 when HP is above 70%",
+
+		ability2name: "Signal of the Divine WIll",
+		ability2: "DEF and SPD +30% for every Akatsuki ally"
 	},
 }
