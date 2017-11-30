@@ -7454,7 +7454,7 @@ window.detail = {
 
 	637: {
 		leadname: "God of Destruction",
-		lead: "Akatsuki Characers ATK and Skill Damage +40%" ,
+		lead: "Akatsuki Characters ATK and Skill Damage +40%" ,
 
 		skill1name: "Planetary Devastation",
 		skill1ogname: "地爆天星",
@@ -7479,7 +7479,7 @@ window.detail = {
 
 	"637_6": {
 		leadname: "God of Destruction",
-		lead: "Akatsuki Characers ATK and Skill Damage +40%" ,
+		lead: "Akatsuki Characters ATK and Skill Damage +40%" ,
 
 		skill1name: "Planetary Devastation",
 		skill1ogname: "地爆天星",
@@ -7504,7 +7504,7 @@ window.detail = {
 
 	638: {
 		leadname: "Paper Angel",
-		lead: "Akatsuki Characers Maximum HP and Skill Damage +40%" ,
+		lead: "Akatsuki Characters Maximum HP and Skill Damage +40%" ,
 
 		skill1name: "Angel Gospel",
 		skill1ogname: "天使の福音",
@@ -7518,18 +7518,18 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "70",
-		skill2: "Recover own HP by a tremendous amount. Akatsuky ally SPD and Skill Damage +100% and recover 30% Chakra",
+		skill2: "Recover own HP by a tremendous amount. Akatsuki ally SPD and Skill Damage +100% and recover 30% Chakra",
 
 		ability1name: "Fragile Beauty",
 		ability1: "Skill Damage +150% and Cast Speed +1 when HP is above 70%",
 
-		ability2name: "Signal of the Divine WIll",
+		ability2name: "Signal of the Divine Will",
 		ability2: "DEF and SPD +30% for every Akatsuki ally"
 	},
 
 	"638_6": {
 		leadname: "Paper Angel",
-		lead: "Akatsuki Characers Maximum HP and Skill Damage +40%" ,
+		lead: "Akatsuki Characters Maximum HP and Skill Damage +40%" ,
 
 		skill1name: "Angel Gospel",
 		skill1ogname: "天使の福音",
@@ -7543,12 +7543,162 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "70",
-		skill2: "Recover own HP by a tremendous amount. Akatsuky ally SPD and Skill Damage +100% and recover 30% Chakra",
+		skill2: "Recover own HP by a tremendous amount. Akatsuki ally SPD and Skill Damage +100% and recover 30% Chakra",
 
 		ability1name: "Fragile Beauty",
 		ability1: "Skill Damage +150% and Cast Speed +1 when HP is above 70%",
 
-		ability2name: "Signal of the Divine WIll",
+		ability2name: "Signal of the Divine Will",
 		ability2: "DEF and SPD +30% for every Akatsuki ally"
+	},
+
+	639: {
+		leadname: "Aiming for the Future",
+		lead: "Technique Type Konoha Characters Maximum HP, ATK and DEF +100%" ,
+
+		skill1name: "Point Blank Tailed Beast Bomb",
+		skill1ogname: "零距離尾獣玉",
+		skill1type: "Tailed Beast",
+		skill1speed: "Fast",
+		skill1cost: "100",
+		skill1: "Deal 3% + 50,000 to all enemies. If \"Sasuke Uchiha\" is one of the enemy, deal 3x damage with a chance to cancel action and/or lower Cast Speed by 1",
+
+		skill2name: "I Won't Ignore You",
+		skill2ogname: "お前をほっとかねー！",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "90",
+		skill2: "Own ATK, DEF and Skill Damage +300%. Additional effect depending on alive allies, Cast Speed +1 if there is a Body Type Character in the team, SPD +80% if there is a Heart Type Character in the team",
+
+		ability1name: "Resolution to Rescue",
+		ability1: "Maximum Chakra +50 and Maximum HP +100%",
+
+		ability2name: "Persistent Nindo",
+		ability2: "ATK and Skill Damage +150% when Chakra is max"
+	},
+
+	"639_6": {
+	leadname: "Aiming for the Future",
+		lead: "Technique Type Konoha Characters Maximum HP, ATK and DEF +100%" ,
+
+		skill1name: "Point Blank Tailed Beast Bomb",
+		skill1ogname: "零距離尾獣玉",
+		skill1type: "Tailed Beast",
+		skill1speed: "Fast",
+		skill1cost: "100",
+		skill1: "Deal 3% + 80,000 to all enemies. If \"Sasuke Uchiha\" is one of the enemy, deal 5x damage with a high chance to cancel action and/or lower Cast Speed by 2",
+
+		skill2name: "I Won't Ignore You",
+		skill2ogname: "お前をほっとかねー！",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "80",
+		skill2: "Own ATK, DEF and Skill Damage +500%. Additional effect depending on alive allies, Cast Speed +2 if there is a Body Type Character in the team, SPD +100% if there is a Heart Type Character in the team",
+
+		ability1name: "Resolution to Rescue",
+		ability1: "Maximum Chakra +120 and Maximum HP +150%",
+
+		ability2name: "Persistent Nindo",
+		ability2: "ATK and Skill Damage +200% when Chakra is above 50%"
+	},
+
+	640: {
+		leadname: "Disappearance of the Inner Darkness",
+		lead: "Body Type Konoha Characters Maximum HP, ATK and DEF +100%" ,
+
+		skill1name: "Wavedash: Chidori Susano'o",
+		skill1ogname: "絶空・千鳥須佐能乎",
+		skill1type: "Rinne Sharingan",
+		skill1speed: "Fast",
+		skill1cost: "100",
+		skill1: "Deal 3% + 50,000 to all enemies. If \"Naruto Uzumaki\" is one of the enemy, deal 3x damage with a chance to cancel action and/or lower Cast Speed by 1",
+
+		skill2name: "Hatred Will Never Be Lost",
+		skill2ogname: "憎しみはなくなりはしない",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "90",
+		skill2: "Own ATK, DEF and Skill Damage +300%. Additional effect depending on alive allies, Cast Speed +1 if there is a Technique Type Character in the team, SPD +80% if there is a Heart Type Character in the team",
+
+		ability1name: "Road to Isolation",
+		ability1: "Maximum Chakra +50 and Maximum HP +100%",
+
+		ability2name: "Past Decision",
+		ability2: "ATK and Skill Damage +150% when Chakra is max"
+	},
+
+	"640_6": {
+		leadname: "Aiming for the Future",
+		lead: "Technique Type Konoha Characters Maximum HP, ATK and DEF +100%" ,
+
+		skill1name: "Wavedash: Chidori Susano'o",
+		skill1ogname: "絶空・千鳥須佐能乎",
+		skill1type: "Rinne Sharingan",
+		skill1speed: "Fast",
+		skill1cost: "100",
+		skill1: "Deal 3% + 80,000 to all enemies. If \"Naruto Uzumaki\" is one of the enemy, deal 5x damage with a high chance to cancel action and/or lower Cast Speed by 2",
+
+		skill2name: "Hatred Will Never Be Lost",
+		skill2ogname: "憎しみはなくなりはしない",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "80",
+		skill2: "Own ATK, DEF and Skill Damage +500%. Additional effect depending on alive allies, Cast Speed +2 if there is a Technique Type Character in the team, SPD +100% if there is a Heart Type Character in the team",
+
+		ability1name: "Road to Isolation",
+		ability1: "Maximum Chakra +120 and Maximum HP +150%",
+
+		ability2name: "Past Decision",
+		ability2: "ATK and Skill Damage +200% when Chakra is above 50%"
+	},
+
+	646: {
+		leadname: "Border Task",
+		lead: "Body and Intellect Type Fire Skill Damage +70%" ,
+
+		skill1name: "Fire Style: Fire Ball Jutsu",
+		skill1ogname: "火遁・豪火球の術",
+		skill1type: "Fire",
+		skill1speed: "Fast",
+		skill1cost: "70",
+		skill1: "Deal 3% + 10,000 to all enemies with a high chance to burb.  Deal 6x damage while under \"Rouse\" state",
+
+		skill2name: "I am a Member of the Uchiha Clan",
+		skill2ogname: "オレはうちは一族だ！",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "80",
+		skill2: "Own ATK and SPD +100%, all ally \"Obito Uchiha\" Skill Damage +100%, Cast Speed +1 and grant \"Rouse\" state. [Rouse: ATK, DEF and SPD +50%, Recover 15% HP and Chakra after every action)]",
+
+		ability1name: "A Dream of Becoming the Hokage",
+		ability1: "Maximum HP and ATK +100%",
+
+		ability2name: "Love and Friendship",
+		ability2: "For 10 turns, Skill Damage +100%"
+	},
+
+	"646_6": {
+			leadname: "Border Task",
+		lead: "Body and Intellect Type Fire Skill Damage +70%" ,
+
+		skill1name: "Fire Style: Fire Ball Jutsu",
+		skill1ogname: "火遁・豪火球の術",
+		skill1type: "Fire",
+		skill1speed: "Fast",
+		skill1cost: "70",
+		skill1: "Deal 3% + 10,000 to all enemies with a high chance to burb.  Deal 6x damage while under \"Rouse\" state",
+
+		skill2name: "I am a Member of the Uchiha Clan",
+		skill2ogname: "オレはうちは一族だ！",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "80",
+		skill2: "Own ATK and SPD +100%, all ally \"Obito Uchiha\" Skill Damage +100%, Cast Speed +1 and grant \"Rouse\" state. [Rouse: ATK, DEF and SPD +50%, Recover 15% HP and Chakra after every action)]",
+
+		ability1name: "A Dream of Becoming the Hokage",
+		ability1: "Maximum HP and ATK +100%",
+
+		ability2name: "Love and Friendship",
+		ability2: "For 10 turns, Skill Damage +100%"
 	},
 }
