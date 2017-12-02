@@ -7628,8 +7628,8 @@ window.detail = {
 	},
 
 	"640_6": {
-		leadname: "Aiming for the Future",
-		lead: "Technique Type Konoha Characters Maximum HP, ATK and DEF +100%" ,
+		leadname: "Disappearance of the Inner Darkness",
+		lead: "Body Type Konoha Characters Maximum HP, ATK and DEF +100%" ,
 
 		skill1name: "Wavedash: Chidori Susano'o",
 		skill1ogname: "絶空・千鳥須佐能乎",
