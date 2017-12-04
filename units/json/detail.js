@@ -3318,6 +3318,58 @@ window.detail = {
 		ability2: "Skill Damage +150%"
 	},
 
+	531: {
+		leadname: "Released Vessel",
+		lead: "All Character Skill Damage +40%, for 3 turns, SPD +100%",
+
+		skill1name: "You Are My New Light!",
+		skill1ogname: "お前はオレの新たなる光だ！",
+		skill1type: "Genjutsu",
+		skill1speed: "Fastest",
+		skill1cost: "90",
+		skill1: "Deal 7% + 10,000 to one enemy. Deal 10x damage while under \"Solitude\" state. Deal 3x damage to \"Sasuke Uchiha\" (Max 30x)",
+
+
+		skill2name: "Reappearance",
+		skill2ogname: "再現してみせろ",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "80",
+		skill2: "Own ATK and SPD +100% and grant \"Solitude\" state. Reduce all non Akatsuki allies Maximum HP by 80% and remove all buff and debuff. [Solitude: Skill Damage +100%, half the effect of negative effects]",
+
+		ability1name: "Hidden Motive",
+		ability1: "For 3 turns, chance to dodge skills",
+
+		ability2name: "Murderous Fate",
+		ability2: "ATK and SPD +20% after every action (Max 100%)"
+	},
+
+	"531_6": {
+		leadname: "Released Vessel",
+		lead: "All Character Skill Damage +40%, for 3 turns, SPD +100%",
+
+		skill1name: "You Are My New Light!",
+		skill1ogname: "お前はオレの新たなる光だ！",
+		skill1type: "Genjutsu",
+		skill1speed: "Fastest",
+		skill1cost: "90",
+		skill1: "Deal 7% + 10,000 to one enemy. Deal 10x damage while under \"Solitude\" state. Deal 3x damage to \"Sasuke Uchiha\" (Max 30x)",
+
+
+		skill2name: "Reappearance",
+		skill2ogname: "再現してみせろ",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "80",
+		skill2: "Own ATK and SPD +100% and grant \"Solitude\" state. Reduce all non Akatsuki allies Maximum HP by 80% and remove all buff and debuff. [Solitude: Skill Damage +100%, half the effect of negative effects]",
+
+		ability1name: "Hidden Motive",
+		ability1: "For 3 turns, chance to dodge skills",
+
+		ability2name: "Murderous Fate",
+		ability2: "ATK and SPD +20% after every action (Max 100%)"
+	},
+
 	532: {
 		leadname: "Strong Arm Nintaijutsu",
 		lead: "Technique and Body ATK and Taijutsu Skill Damage +40%",
@@ -3786,6 +3838,60 @@ window.detail = {
 		ability2: "ATK +30% after every action (Max 120%) and Recovery 20% HP after every action"
 	},
 
+	546: {
+		leadname: "Red Blood Habanero",
+		lead: "All Character Skill Damage +30%, for 3 turns ATK +150%",
+
+		skill1name: "Crushing Tomatoes",
+		skill1ogname: "蕃茄圧潰",
+		skill1type: "Taijutsu",
+		skill1speed: "Fast",
+		skill1cost: "70",
+		skill1: "Deal 7% + 2,000 to one enemy placing the enemy under \"Crush\" state. [Crush: Crush stacks increasing damage per stack. Maximum 15x damage at 3 stacks, release the state afterwards]",
+
+
+		skill2name: "I am Angry",
+		skill2ogname: "私を怒らせたわね",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "70",
+		skill2: "Chance to reduce all enemies ATK by 50% and reduce their Cast Speed by 1.  Own ATK and SPD +100%",
+
+		ability1name: "Red Hair of Fate",
+		ability1: "Recover 10% Chakra after every action, half the effect debuff and negative effect.",
+
+		ability2name: "Second Generation Kyuubi Jinchuriki",
+		ability2: "ATK and Skill Damage +80%, Maximum Chakra +100"
+	},
+
+	"546_6": {
+		leadname: "Red Blood Habanero",
+		lead: "All Character Skill Damage +30%, for 3 turns ATK +150%",
+
+		skill1name: "Crushing Tomatoes",
+		skill1ogname: "蕃茄圧潰",
+		skill1type: "Taijutsu",
+		skill1speed: "Fast",
+		skill1cost: "70",
+		skill1: "Deal 7% + 2,000 to one enemy placing the enemy under \"Crush\" state. [Crush: Crush stacks increasing damage per stack. Maximum 15x damage at 3 stacks, release the state afterwards]",
+
+
+		skill2name: "I am Angry",
+		skill2ogname: "私を怒らせたわね",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "70",
+		skill2: "Chance to reduce all enemies ATK by 50% and reduce their Cast Speed by 1.  Own ATK and SPD +100%",
+
+		ability1name: "Red Hair of Fate",
+		ability1: "Recover 10% Chakra after every action, half the effect debuff and negative effect.",
+
+		ability2name: "Second Generation Kyuubi Jinchuriki",
+		ability2: "ATK and Skill Damage +80%, Maximum Chakra +100"
+	},
+
+
+
 	550: {
 		leadname: "Unleashed Talent",
 		lead: "Recover 10% HP and Chakra for Intellect Characters",
@@ -3865,6 +3971,58 @@ window.detail = {
 	},
 
 	"551_6": {
+		leadname: "Sword's Child",
+		lead: "Taka Characters Skill Damage +50%, Basic Attack Dodge +100%",
+
+		skill1name: "Twin Water Pistol",
+		skill1ogname: "水鉄砲・二丁",
+		skill1type: "Water",
+		skill1speed: "Fastest",
+		skill1cost: "30",
+		skill1: "Deal 10x ATK damage to one enemy ignoring 10% DEF with a chance to crit dealing 10x damage.  If the enemy is an Intellect or Courage Type, set Skill Dodge to 0. [Always Hit]",
+
+
+		skill2name: "Splendid, Shall We Do It?",
+		skill2ogname: "けっこう、やるね？",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "70",
+		skill2: "High Chance to reduce one enemy's DEF by 40%.  Own ATK, DEF and SPD +100%",
+
+		ability1name: "Liquefy Body",
+		ability1: "SPD +60%, Chance to dodge skills",
+
+		ability2name: "Hozuki Clan",
+		ability2: "Cast Speed +1 when HP is above 80%.  Start the Battle with 30% Chakra"
+	},
+
+	552: {
+		leadname: "Bloody Revolution",
+		lead: "Intellect Type Skill Damage +50%, For 3 turns, SPD +100%",
+
+		skill1name: "Heavenly Hand Power: Instant Lightning",
+		skill1ogname: "天手力・瞬雷",
+		skill1type: "Rinnegan",
+		skill1speed: "Fastest",
+		skill1cost: "90",
+		skill1: "Deal 7% + 10,000 to one enemy with a high chance to buff own Cast Speed by 1. Deal 6x damage while under \"Resolution\" state. Deal 4x damage to \"Naruto Uzumaki\" (Max 24x)",
+
+
+		skill2name: "Final Blood Mourning for Older Brother",
+		skill2ogname: "兄を弔う最後の血としよう",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "60",
+		skill2: "Own ATK and Skill Damage +100% and grant \"Resolution\" state. [Resolution: ATK, DEF and SPD +40%, recover 20% HP and Chakra when attacked]",
+
+		ability1name: "Power of the Six Paths",
+		ability1: "Maximum Chakra +100, chance to dodge skills",
+
+		ability2name: "Rising Revolution",
+		ability2: "Maximum HP and ATK +100%, SPD +30% after every action (Max 150%)"
+	},
+
+	"552_6": {
 		leadname: "Sword's Child",
 		lead: "Taka Characters Skill Damage +50%, Basic Attack Dodge +100%",
 
