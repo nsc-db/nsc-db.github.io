@@ -7661,7 +7661,7 @@ window.detail = {
 		skill1type: "Fire",
 		skill1speed: "Fast",
 		skill1cost: "70",
-		skill1: "Deal 3% + 10,000 to all enemies with a high chance to burb.  Deal 6x damage while under \"Rouse\" state",
+		skill1: "Deal 3% + 10,000 to all enemies with a high chance to burn.  Deal 6x damage while under \"Rouse\" state",
 
 		skill2name: "I am a Member of the Uchiha Clan",
 		skill2ogname: "オレはうちは一族だ！",
@@ -7686,7 +7686,7 @@ window.detail = {
 		skill1type: "Fire",
 		skill1speed: "Fast",
 		skill1cost: "70",
-		skill1: "Deal 3% + 10,000 to all enemies with a high chance to burb.  Deal 6x damage while under \"Rouse\" state",
+		skill1: "Deal 3% + 10,000 to all enemies with a high chance to burn.  Deal 6x damage while under \"Rouse\" state",
 
 		skill2name: "I am a Member of the Uchiha Clan",
 		skill2ogname: "オレはうちは一族だ！",

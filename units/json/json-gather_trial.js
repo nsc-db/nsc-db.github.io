@@ -5,6 +5,7 @@
 					+'		<td class="text-center">' + data[0] + '</td>'
 					+'		<td class="text-center"><img src="assets/img/units/icons/' + data[0] + '.png" height="60px" width="60px" /></td>'
 					+'		<td class="text-left"><a href= "view/' + data[0] + '" data-toggle="modal" data-target="#newModal">' + data[1] + '</a></td>'
+					+'		<td class="text-center">' + data[2] + '</td>'
 					+'		<td class="text-center affiliation" affiliation="' + data[3] + '"><div style="display:none;">' + data[3] + '</div></td>'
 					+'		<td class="text-center rarity" rarity="' + data[4] + '"></td>'
 					+'		<td class="text-center">' + data[5] + '</td>'
@@ -12,7 +13,7 @@
 					+'		<td class="text-center">' + data[7] + '</td>'
 					+'		<td class="text-center">' + data[8] + '</td>'
 					+'		<td class="text-center">' + data[9] + '</td>'
-					+'		<td class="text-center">' + data[14] + '</td>'
+					+'		<td class="text-center">' + data[13] + '</td>'
 					+'</tr>';
 		return model;
 	}

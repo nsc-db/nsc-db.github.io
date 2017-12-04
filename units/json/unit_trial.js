@@ -1,12 +1,11 @@
 window.unit=[
- /*
- [3, "Sasuke Uchiha, Innate Talent", "Intellect", "Konoha", 6, 26, 13341, 12467, 9250, 150, 12, 15, 156, 0, 63],
+ 
+ [3, "Sasuke Uchiha, Innate Talent", "Intellect", "Konoha", 6, 26, 13341, 12467, 9250, 150, 12, 15, 156, 63, 0],
  [3, "Sasuke Uchiha, Innate Talent", "Intellect", "Konoha", 6, 26, 13341, 12467, 9250, 150, 12, 15, 156, 1],
- [6, "Kakashi Hatake, Carnage Lightning", "Courage", "Konoha", 6, 26, 12100, 11001, 11826, 136, 13, 14, 149, 0, ],
+ [6, "Kakashi Hatake, Carnage Lightning", "Courage", "Konoha", 6, 26, 12100, 11001, 11826, 136, 13, 14, 149, 63, 0],
  [6, "Kakashi Hatake, Carnage Lightning", "Courage", "Konoha", 6, 26, 12100, 11001, 11826, 136, 13, 14, 149, 1],
- [45, "Itachi Uchiha, Akatsuki's Carnage", "Technique", "Akatsuki", 5, 27, 14030, 11407, 10263, 144, 12, 12, 143, 0, ],
+ [45, "Itachi Uchiha, Akatsuki's Carnage", "Technique", "Akatsuki", 5, 27, 14030, 11407, 10263, 144, 12, 12, 143, 57, 0],
  [45, "Itachi Uchiha, Akatsuki's Carnage", "Technique", "Akatsuki", 5, 27, 14030, 11407, 10263, 144, 12, 12, 143, 1],
- */
  [155, "Naruto Uzumaki, Expanding Sage Jutsu", "Heart", "Konoha", 6, 30, 11270, 13269, 10059, 161, 14, 15, 158, 0, 75],
  [155, "Naruto Uzumaki, Expanding Sage Jutsu", "Heart", "Konoha", 6, 30, 11270, 13269, 10059, 161, 14, 15, 158, 1],
  [171, "Madara Uchiha, Sneering True Leader", "Intellect", "None", 6, 30, 10070, 14303, 10225, 148, 13, 12, 145, 0, 76],
@@ -214,7 +213,7 @@ window.unit=[
  [594, "Choji Akimichi, ", "Courage", "Konoha", 5, null, null, null, null, null, null, null, null, 0, ],
  [594, "Choji Akimichi, ", "Courage", "Konoha", 5, null, null, null, null, null, null, null, null, 1],
  [595, "Asuma Sarutobi, ", "Intellect", "Konoha", 5, null, null, null, null, null, null, null, null, 0, ],
- [595, "Asuma Sarutobi, ", "Intellect", "Konoha", 5, null, null, null, null, null, null, null, null, 1],*/
+ [595, "Asuma Sarutobi, ", "Intellect", "Konoha", 5, null, null, null, null, null, null, null, null, 1],
  [596, "Naruto Uzumaki, Sensation of Saving Loneliness", "Body", "Konoha", 6, 80, 31665, 31665, 31665, 226, 29, 23, 170, 0, 79],
  [596, "Naruto Uzumaki, Sensation of Saving Loneliness", "Body", "Konoha", 6, 80, 31665, 31665, 31665, 226, 29, 23, 170, 1],
  [597, "Naruto Uzumaki, Walking to Leadership", "Body", "Konoha", 6, 30, 10830, 14171, 9613, 163, 14, 15, 158, 0, 74], 
@@ -289,4 +288,5 @@ window.unit=[
  [633, "Sasuke Uchiha, Fire Burning with the Help of Wind", "Intellect", "Konoha", 6, 50, 30561, 41833, 28390, 243, 20, 19, 168, 1],
  [634, "Chojuro, Brandishing Hiramekarei", "Technique", "Kiri", 5, 32, 14105, 13305, 12185, 171, 15, 15, 172, 0, 85],
  [634, "Chojuro, Brandishing Hiramekarei", "Technique", "Kiri", 5, 32, 14105, 13305, 12185, 171, 15, 15, 172, 1],
+ */
 ]
