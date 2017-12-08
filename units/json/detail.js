@@ -7810,6 +7810,106 @@ window.detail = {
 		ability2: "ATK and Skill Damage +200% when Chakra is above 50%"
 	},
 
+	644: {
+		leadname: "Power to Mark Despair",
+		lead: "Technique Type ATk, DEF and SPD +40%" ,
+
+		skill1name: "Sword of Nunoboko ",
+		skill1ogname: "ぬのぼこの剣",
+		skill1type: "Six Paths",
+		skill1speed: "Fast",
+		skill1cost: "100",
+		skill1: "Deal 30,000 fixed damage to one enemy with a high chance to place the enemy under \"Misery\" state. Deal 6x damage while under \"Hatred\" state. [Misery: Skill Damage and SPD -20%. This state can be stacked upto 3 times]",
+
+		skill2name: "Erasing this World!",
+		skill2ogname: "この世界を消す…！",
+		skill2type: "Unique",
+		skill2speed: "Fastest",
+		skill2cost: "60",
+		skill2: "Own DEF and SPD +100% and grant \"Hatred\" state. [Hatred: Reduce HP by 15% after every action, ATK and SKill Damage +500% after every action. (Max 2000%)]",
+
+		ability1name: "Ying-Yang Ninjutsu",
+		ability1: "For 10 turns, Skill Damage +100%, Cast Speed +2",
+
+		ability2name: "Engraved Despair",
+		ability2: "Recover 10% HP after every action, chance for the next Skill to cost 0."
+	},
+
+	"644_6": {
+		leadname: "Power to Mark Despair",
+		lead: "Technique Type ATk, DEF and SPD +40%" ,
+
+		skill1name: "Sword of Nunoboko ",
+		skill1ogname: "ぬのぼこの剣",
+		skill1type: "Six Paths",
+		skill1speed: "Fast",
+		skill1cost: "100",
+		skill1: "Deal 30,000 fixed damage to one enemy with a high chance to place the enemy under \"Misery\" state. Deal 6x damage while under \"Hatred\" state. [Misery: Skill Damage and SPD -20%. This state can be stacked upto 3 times]",
+
+		skill2name: "Erasing this World!",
+		skill2ogname: "この世界を消す…！",
+		skill2type: "Unique",
+		skill2speed: "Fastest",
+		skill2cost: "60",
+		skill2: "Own DEF and SPD +100% and grant \"Hatred\" state. [Hatred: Reduce HP by 15% after every action, ATK and SKill Damage +500% after every action. (Max 2000%)]",
+
+		ability1name: "Ying-Yang Ninjutsu",
+		ability1: "For 10 turns, Skill Damage +100%, Cast Speed +2",
+
+		ability2name: "Engraved Despair",
+		ability2: "Recover 10% HP after every action, chance for the next Skill to cost 0."
+	},
+
+
+	645: {
+		leadname: "Dimensional Truth",
+		lead: "None Character ATK +40%" ,
+
+		skill1name: "Gedo Mazo's Stake",
+		skill1ogname: "魔像の杭",
+		skill1type: "Space-Time",
+		skill1speed: "Fast",
+		skill1cost: "40",
+		skill1: "Deal 3% + 7,000 to all enemies with a chance to Seal or Bleed. Deal more damage the more HP Masked Man has, Max 5x. Shift the enemies action. [Bleed: Reduce HP and decrease DEF]",
+
+		skill2name: "Rough Use of the Sharingan",
+		skill2ogname: "写輪眼をナメすぎだ",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "80",
+		skill2: "Own ATK and Skill Damage +50%, boost SPD based on how many None Character on the team, max 100%. Recover a small amount of Chakra and cancel \"Despair\" state",
+
+		ability1name: "Non-negotiable Goal",
+		ability1: "Chance to reduce Chakra Cost by half after every action",
+
+		ability2name: "Secret of Kamui",
+		ability2: "Maximum HP +70%, chance to dodge skills"
+
+	"645_6": {
+		leadname: "Dimensional Truth",
+		lead: "None Character ATK +40%" ,
+
+		skill1name: "Gedo Mazo's Stake",
+		skill1ogname: "魔像の杭",
+		skill1type: "Space-Time",
+		skill1speed: "Fastest",
+		skill1cost: "40",
+		skill1: "Deal 3% + 10,000 to all enemies with a high chance to Seal or Bleed. Deal more damage the more HP Masked Man has, Max 8x. Shift the enemies action greatly. [Bleed: Reduce HP and decrease DEF]",
+
+		skill2name: "Rough Use of the Sharingan",
+		skill2ogname: "写輪眼をナメすぎだ",
+		skill2type: "Unique",
+		skill2speed: "Fastest",
+		skill2cost: "50",
+		skill2: "Own ATK and Skill Damage +100%, boost SPD based on how many None Character on the team, max 200%. Recover a large amount of Chakra and cancel \"Despair\" state",
+
+		ability1name: "Non-negotiable Goal",
+		ability1: "High chance to reduce Chakra Cost by half after every action",
+
+		ability2name: "Secret of Kamui",
+		ability2: "Maximum HP +100%, high chance to dodge skills"
+	},
+
 	646: {
 		leadname: "Border Task",
 		lead: "Body and Intellect Type Fire Skill Damage +70%" ,
@@ -7836,7 +7936,7 @@ window.detail = {
 	},
 
 	"646_6": {
-			leadname: "Border Task",
+		leadname: "Border Task",
 		lead: "Body and Intellect Type Fire Skill Damage +70%" ,
 
 		skill1name: "Fire Style: Fire Ball Jutsu",

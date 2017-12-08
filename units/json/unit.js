@@ -320,6 +320,13 @@ window.unit=[
  [639, "Naruto Uzumaki, Aiming for the Future", "Technique", "Konoha", 6, 90, 33416, 41111, 25057, 231, 32, 25, 181, 1],
  [640, "Sasuke Uchiha, Disappearance of the Inner Darkness", "Body", "Konoha", 6, 90, 28101, 45661, 25822, 221, 32, 25, 201, 96, 0],
  [640, "Sasuke Uchiha, Disappearance of the Inner Darkness", "Body", "Konoha", 6, 90, 28101, 45661, 25822, 221, 32, 25, 201, 1],
+ //[641, "Zetsu, Obscure Bipolar", "Heart", "Akatsuki", 5, 32, 15396, 9299, 11704, 145, 14, 15, 152, 80, 0],
+ //[641, "Zetsu, Obscure Bipolar", "Heart", "Akatsuki", 5, 32, 15396, 9299, 11704, 145, 14, 15, 152, 80, 1],
+ [644, "Obito Uchiha, Power to Mark Despair", "Technique", "None", 6, 40, null, null, null, null, null, null, null, null, 0],
+ [644, "Obito Uchiha, Power to Mark Despair", "Technique", "None", 6, 40, null, null, null, null, null, null, null, null, 1],
+ [645, "Masked Man, Dimensional Truth", "Body", "None", 6, 32, null, null, null, null, null, null, null, null, 0],
+ [645, "Masked Man, Dimensional Truth", "Body", "None", 6, 32, null, null, null, null, null, null, null, null, 1],
  [646, "Obito Uchiha, Border Task", "Body", "Konoha", 5, 30, 12581, 15932, 9681, 141, 14, 16, 164, 82, 0],
  [646, "Obito Uchiha, Border Task", "Body", "Konoha", 6, 20, 12581, 15932, 9681, 141, 14, 16, 164, 1],
+ 
 ]
