@@ -7819,17 +7819,17 @@ window.detail = {
 		skill1type: "Six Paths",
 		skill1speed: "Fast",
 		skill1cost: "100",
-		skill1: "Deal 30,000 fixed damage to one enemy with a high chance to place the enemy under \"Misery\" state. Deal 6x damage while under \"Hatred\" state. [Misery: Skill Damage and SPD -20%. This state can be stacked upto 3 times]",
+		skill1: "Deal 20,000 fixed damage to one enemy with a high chance to place the enemy under \"Misery\" state. Deal 6x damage while under \"Hatred\" state. [Misery: Skill Damage and SPD -20%. This state can be stacked upto 3 times]",
 
 		skill2name: "Erasing this World!",
 		skill2ogname: "この世界を消す…！",
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "60",
-		skill2: "Own DEF and SPD +100% and grant \"Hatred\" state. [Hatred: Reduce HP by 15% after every action, ATK and SKill Damage +500% after every action. (Max 2000%)]",
+		skill2: "Own DEF and SPD +100% and grant \"Hatred\" state. [Hatred: Reduce HP by 15% after every action, ATK and SKill Damage +450% after every action. (Max 1800%)]",
 
 		ability1name: "Ying-Yang Ninjutsu",
-		ability1: "For 10 turns, Skill Damage +100%, Cast Speed +2",
+		ability1: "For 10 turns, Skill Damage +100%, Cast Speed +1",
 
 		ability2name: "Engraved Despair",
 		ability2: "Recover 10% HP after every action, chance for the next Skill to cost 0."
@@ -7844,17 +7844,17 @@ window.detail = {
 		skill1type: "Six Paths",
 		skill1speed: "Fast",
 		skill1cost: "100",
-		skill1: "Deal 30,000 fixed damage to one enemy with a high chance to place the enemy under \"Misery\" state. Deal 6x damage while under \"Hatred\" state. [Misery: Skill Damage and SPD -20%. This state can be stacked upto 3 times]",
+		skill1: "Deal 20,000 fixed damage to one enemy with a high chance to place the enemy under \"Misery\" state. Deal 6x damage while under \"Hatred\" state. [Misery: Skill Damage and SPD -20%. This state can be stacked upto 3 times]",
 
 		skill2name: "Erasing this World!",
 		skill2ogname: "この世界を消す…！",
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "60",
-		skill2: "Own DEF and SPD +100% and grant \"Hatred\" state. [Hatred: Reduce HP by 15% after every action, ATK and SKill Damage +500% after every action. (Max 2000%)]",
+		skill2: "Own DEF and SPD +100% and grant \"Hatred\" state. [Hatred: Reduce HP by 15% after every action, ATK and SKill Damage +450% after every action. (Max 1800%)]",
 
 		ability1name: "Ying-Yang Ninjutsu",
-		ability1: "For 10 turns, Skill Damage +100%, Cast Speed +2",
+		ability1: "For 10 turns, Skill Damage +100%, Cast Speed +1",
 
 		ability2name: "Engraved Despair",
 		ability2: "Recover 10% HP after every action, chance for the next Skill to cost 0."
