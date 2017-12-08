@@ -7884,6 +7884,7 @@ window.detail = {
 
 		ability2name: "Secret of Kamui",
 		ability2: "Maximum HP +70%, chance to dodge skills"
+	},
 
 	"645_6": {
 		leadname: "Dimensional Truth",
