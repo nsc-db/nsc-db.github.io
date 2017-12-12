@@ -7960,4 +7960,55 @@ window.detail = {
 		ability2name: "Love and Friendship",
 		ability2: "For 10 turns, Skill Damage +100%"
 	},
+
+
+	654: {
+		leadname: "Brave Manly Fist",
+		lead: "Taijutsu Skill Damage +50%" ,
+
+		skill1name: "Uber Leaf Superhuman Hurricane",
+		skill1ogname: "激　木ノ葉金剛力旋風",
+		skill1type: "Taijutsu",
+		skill1speed: "Fast",
+		skill1cost: "60",
+		skill1: "Deal 7x ATK damage ignoring 20% DEF to one enemy.  Deal 5x damage if own ATK is buffed, cance to cancel the enemy's action",
+
+		skill2name: "This is Youth!!",
+		skill2ogname: "これぞ、青春！！",
+		skill2type: "Taijutsu",
+		skill2speed: "Fast",
+		skill2cost: "80",
+		skill2: "Own ATK +200%, Cast Speed +1, DEF -90%",
+
+		ability1name: "Youth and Passion",
+		ability1: "For 5 turns, ATK +100%",
+
+		ability2name: "Flash Movement",
+		ability2: "SPD +50%, chance to dodge skills"
+	},
+
+	"654_6": {
+		leadname: "Brave Manly Fist",
+		lead: "Taijutsu Skill Damage +50%" ,
+
+		skill1name: "Uber Leaf Superhuman Hurricane",
+		skill1ogname: "激　木ノ葉金剛力旋風",
+		skill1type: "Taijutsu",
+		skill1speed: "Fastest",
+		skill1cost: "50",
+		skill1: "Deal 10x ATK damage ignoring 20% DEF to one enemy.  Deal 70x damage if own ATK is buffed, cance to cancel the enemy's action",
+
+		skill2name: "This is Youth!!",
+		skill2ogname: "これぞ、青春！！",
+		skill2type: "Taijutsu",
+		skill2speed: "Fastest",
+		skill2cost: "70",
+		skill2: "Own ATK +300%, Cast Speed +1, DEF -90%",
+
+		ability1name: "Youth and Passion",
+		ability1: "For 5 turns, ATK +200%",
+
+		ability2name: "Flash Movement",
+		ability2: "SPD +100%, high chance to dodge skills"
+	},
 }

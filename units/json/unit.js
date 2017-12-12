@@ -328,5 +328,7 @@ window.unit=[
  [645, "Masked Man, Dimensional Truth", "Body", "None", 6, 32, 11064, 14111, 10423, 174, 14, 12, 146,, 81, 1],
  [646, "Obito Uchiha, Border Task", "Body", "Konoha", 5, 30, 12581, 15932, 9681, 141, 14, 16, 164, 82, 0],
  [646, "Obito Uchiha, Border Task", "Body", "Konoha", 6, 20, 12581, 15932, 9681, 141, 14, 16, 164, 1],
+ [654, "Might Gai, Brave Manly Fist", "Body", "Konoha", 6, 32, null, null, null, null, null, null, null, null, 0],
+ [654, "Might Gai, Brave Manly Fist", "Body", "Konoha", 6, 32, null, null, null, null, null, null, null, null, 1],
  
 ]
