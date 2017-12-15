@@ -105,38 +105,65 @@
 		// Esse bloco grava as skills e abilidades nas duas abas
 		
 		var ix = 6;
-		
+		var iy = 7;
 		for(i in cards){
 			var c = cards[i];
+			var damage = [];
+			for(y in window.damage){
+				if(window.damage[y][0] ==id){
+					damage = window.damage[y];	
+				}
+			}
+			var hp = ~~(c.unit[ix] * damage[1]);
+			var atk = ~~(c.unit[ix+1] * damage[2]);
+			var def = ~~(c.unit[ix+2] * damage[3]);
+			var spd = ~~(c.unit[ix+3] * damage[4]);
+			var eva = ~~damage[5];
+			var cc = ~~(damage[6]);
+			var crit = ~~(damage[7]);
+			var skill = ~~(damage[8]);
+
+			var satk = ~~(c.unit[ix+1] * damage[iy+2]);
+			var sdef = ~~(c.unit[ix+2] * damage[iy+3]);
+			var sspd = ~~(c.unit[ix+3] * damage[iy+4]);
+			var seva = ~~damage[iy+5];
+			var scc = ~~(damage[iy+6]);
+			var scrit = ~~(damage[iy+7]);
+			var sskill = ~~(damage[iy+8]);
+			
 			var s = {
 				'base-hp':c.unit[ix],
 				'base-atk':c.unit[ix+1],
 				'base-def':c.unit[ix+2],
 				'base-agility':c.unit[ix+3],
-				'base-evasion':c.unit[ix+4],
-				'base-criticalrate':c.unit[ix+5],
-				'base-criticalpower':c.unit[ix+6],
-				'ability-hp':c.unit[ix],
-				'ability-atk':c.unit[ix+1],
-				'ability-def':c.unit[ix+2],
-				'ability-agility':c.unit[ix+3],
-				'ability-evasion':c.unit[ix+4],
-				'ability-criticalrate':c.unit[ix+5],
-				'ability-criticalpower':c.unit[ix+6],
-				'gear-hp':c.unit[ix],
-				'gear-atk':c.unit[ix+1],
-				'gear-def':c.unit[ix+2],
-				'gear-agility':c.unit[ix+3],
-				'gear-evasion':c.unit[ix+4],
-				'gear-criticalrate':c.unit[ix+5],
-				'gear-criticalpower':c.unit[ix+6],
-				'max-hp':c.unit[ix],
-				'max-atk':c.unit[ix+1],
-				'max-def':c.unit[ix+2],
-				'max-agility':c.unit[ix+3],
-				'max-evasion':c.unit[ix+4],
-				'max-criticalrate':c.unit[ix+5],
-				'max-criticalpower':c.unit[ix+6],
+				'base-evasion':c.unit[ix+4] + "%",
+				'base-criticalrate':c.unit[ix+5] + "%",
+				'base-criticalpower':c.unit[ix+6] + "%",
+				'ability-hp': hp,
+				'ability-atk': atk,
+				'ability-def': def,
+				'ability-agility': spd,
+				'ability-evasion': eva  + "%",
+				'ability-criticalrate': cc  + "%",
+				'ability-criticalpower': crit  + "%",
+				'gear-hp': 0,
+				'gear-atk': satk,
+				'gear-def': sdef,
+				'gear-agility': sspd,
+				'gear-evasion': seva  + "%",
+				'gear-criticalrate': scc  + "%",
+				'gear-criticalpower': scrit  + "%",
+				'max-hp':c.unit[ix] + hp,
+				'max-atk':c.unit[ix+1] + atk + satk,
+				'max-def':c.unit[ix+2] + def + sdef,
+				'max-agility':c.unit[ix+3] + spd + sspd,
+				'max-evasion':c.unit[ix+4] + eva + seva + "%", 
+				'max-criticalrate':c.unit[ix+5] + cc + scc + "%", 
+				'max-criticalpower':c.unit[ix+6] + crit + scrit + "%",
+				'base-skilldamage': 0 + "%",
+				'ability-skilldamage': skill + "%",
+				'gear-skilldamage': sskill + "%",
+				'max-skilldamage': skill + sskill + "%",
 			};
 			for(j in c.detail){
 				var k = c.detail[j];

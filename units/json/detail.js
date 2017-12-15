@@ -501,7 +501,7 @@ window.detail = {
 		skill2: "Deal 7% + 7,000 to one enemy.  Deal more damage the more HP Kakashi have. Max 3.5x",
 
 		ability1name: "Possession of a Friend's Sharingan",
-		ability1: "Sharingan and Lightning Skill Damage +100%, Incoming Sharingan Skill Damage are halved",
+		ability1: "Maximum HP and Skill Damage +100%, Incoming Sharingan Skill Damage are halved",
 
 		ability2name: "Matchless Shinobi",
 		ability2: "ATK and SPD +70% and Chakra Cost -20%"
@@ -580,7 +580,7 @@ window.detail = {
 		skill2: "All allies SPD +80% and Cast Speed +1",
 
 		ability1name: "Power of Bonds",
-		ability1: "For 7 turns, ATK DEF and SPD +30%. Chakra Cost -20%",
+		ability1: "For 7 turns, ATK. DEF and SPD +30%. Chakra Cost -20%",
 
 		ability2name: "Son of a Hero",
 		ability2: "Skill Damage +90% when Chakra is max"
@@ -606,7 +606,7 @@ window.detail = {
 		skill2: "All allies SPD +150% and Cast Speed +1",
 
 		ability1name: "Power of Bonds",
-		ability1: "ATK DEF and SPD +50%. Chakra Cost -20%",
+		ability1: "ATK, DEF and SPD +50%. Chakra Cost -20%",
 
 		ability2name: "Son of a Hero",
 		ability2: "Skill Damage +120%"
@@ -655,10 +655,10 @@ window.detail = {
 		skill2type: "None",
 		skill2speed: "Normal",
 		skill2cost: "65",
-		skill2: "All allies ATK +1500% and grant \"Penetrate\" [Penetrate: Attacks ignore 30% DEF]",
+		skill2: "All allies ATK +150% and grant \"Penetrate\" [Penetrate: Attacks ignore 30% DEF]",
 
 		ability1name: "Return to the Path",
-		ability1: "ATK and DE F+80%. Chakra Cost -20%",
+		ability1: "ATK and DEF +80%. Chakra Cost -20%",
 
 		ability2name: "Eternal Mangekyo Sharingan",
 		ability2: "Immune to debuff and genjutsu state, Skill Damage +100%"
@@ -699,18 +699,18 @@ window.detail = {
 		skill1type: "Summoning",
 		skill1speed: "Normal",
 		skill1cost: "90",
-		skill1: "Recover a tremendous amount of HP to all allies, Chakra Cost -30% and grant \"Heal\" state. [Heal: Recover 20% HP when attacked]",
+		skill1: "Recover a tremendous amount of HP to all allies, Chakra Cost --15% and grant \"Heal\" state. [Heal: Recover 20% HP when attacked]",
 
 
 		skill2name: "I Can Heal",
 		skill2ogname: "回復してあげられる！",
 		skill2type: "None",
-		skill2speed: "Normal",
+		skill2speed: "Fast",
 		skill2cost: "70",
 		skill2: "Recover a large amoung of HP to all allies, DEF +150% and grant \"Resist\" state. [Resist: Immune and Remove all negative status, debuff and genjutsu]",
 
 		ability1name: "Forgotten Feeling",
-		ability1: "Chakra Cost -20%",
+		ability1: "Chakra Cost -40%",
 
 		ability2name: "Byakugo's Power",
 		ability2: "Immune to negative effect.  For 10 turns, recover HP to full after every action"
@@ -1333,7 +1333,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "70",
-		skill2: "Own ATK and DEF +120%, grant a high chance to dodge skills and \"Resolution\" state. [Resolution: ATK, DEF and SPD +100%.  Recover 200% Hp and Chakra when attacked]",
+		skill2: "Own ATK and DEF +120%, grant a high chance to dodge skills and \"Resolution\" state. [Resolution: ATK, DEF and SPD +100%.  Recover 20% Hp and Chakra when attacked]",
 
 		ability1name: "Sever Emotions",
 		ability1: "ATK and Skill Damage +100%",
@@ -7810,6 +7810,56 @@ window.detail = {
 		ability2: "ATK and Skill Damage +200% when Chakra is above 50%"
 	},
 
+	643: {
+		leadname: "Narration Battle of the Eye",
+		lead: "Recover 5% Chakra after every action for Konoha Characters" ,
+
+		skill1name: "Summoning: Baku",
+		skill1ogname: "口寄せ・獏",
+		skill1type: "Summoning",
+		skill1speed: "Fast",
+		skill1cost: "50",
+		skill1: "Deal 7% + 13,000 to one enemy and with a chance to reduce the enemy Cast Speed by 3.  Deal 7x damage to enemies who are not from Konoha. Iff the enemy is \"Sasuke Uchiha\" ignore resistance and cancel his action",
+
+		skill2name: "Pointless Sacrifice",
+		skill2ogname: "犠牲を無駄にしている",
+		skill2type: "Unique",
+		skill2speed: "Fastest",
+		skill2cost: "40",
+		skill2: "Chance to reduce all the enemies ATK and DEF by 80%, own ATK +100% and recover 50% chakra",
+
+		ability1name: "Root of Darkness",
+		ability1: "For 5 turns, SPD and Skill Damage +50%",
+
+		ability2name: "Darkness of the Shinobi",
+		ability2: "For 5 turns, half the effect to debuff and negative states"
+	},
+
+	"643_6": {
+		leadname: "Narration Battle of the Eye",
+		lead: "Recover 5% Chakra after every action for Konoha Characters" ,
+
+		skill1name: "Summoning: Baku",
+		skill1ogname: "口寄せ・獏",
+		skill1type: "Summoning",
+		skill1speed: "Fast",
+		skill1cost: "60",
+		skill1: "Deal 7% + 8,000 to one enemy and with a low chance to reduce the enemy Cast Speed by 2.  Deal 4x damage to enemies who are not from Konoha. Iff the enemy is \"Sasuke Uchiha\" ignore resistance and cancel his action",
+
+		skill2name: "Pointless Sacrifice",
+		skill2ogname: "犠牲を無駄にしている",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "40",
+		skill2: "Chance to reduce all the enemies ATK and DEF by 50%, own ATK +80% and recover 50% chakra",
+
+		ability1name: "Root of Darkness",
+		ability1: "For 10 turns, SPD and Skill Damage +90%",
+
+		ability2name: "Darkness of the Shinobi",
+		ability2: "For 10 turns, immune to debuff and negative states"
+	},
+
 	644: {
 		leadname: "Power to Mark Despair",
 		lead: "Technique Type ATk, DEF and SPD +40%" ,
@@ -7959,6 +8009,56 @@ window.detail = {
 
 		ability2name: "Love and Friendship",
 		ability2: "For 10 turns, Skill Damage +100%"
+	},
+
+	648: {
+		leadname: "Demon Cloaked in Purple",
+		lead: "Taka and Hebi Characters Maximum HP, ATK and Skill Damage +60%" ,
+
+		skill1name: "Susano'o",
+		skill1ogname: "須佐能乎",
+		skill1type: "Sharingan",
+		skill1speed: "Fastest",
+		skill1cost: "80",
+		skill1: "Deal 7% + 8,000 to one enemy, deal 6x damage while under \"Demon\" state. Deal 2.5x damage when HP is above 60% (Max 15x) [Always Hit]",
+
+		skill2name: "Suppressing All Connections",
+		skill2ogname: "繋がりを全て断つ！",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "90",
+		skill2: "Own SPD +100% and grant \"Demon\" state. [Demon: ATK and Skill Damage +200%, if the buff his/her Skill Damage, reduce all enemies Skill Damage by 200% instead. Reduce HP by 40% when state expires]",
+
+		ability1name: "Power of Hatred",
+		ability1: "ATK +20% after every action (Max 100%)",
+
+		ability2name: "Awakening of the Mangekyo",
+		ability2: "Maximum Chakra +100, Recover 20% HP after action when HP is below 50%"
+	},
+
+	"648_6": {
+		leadname: "Demon Cloaked in Purple",
+		lead: "Taka and Hebi Characters Maximum HP, ATK and Skill Damage +60%" ,
+
+		skill1name: "Susano'o",
+		skill1ogname: "須佐能乎",
+		skill1type: "Sharingan",
+		skill1speed: "Fastest",
+		skill1cost: "80",
+		skill1: "Deal 7% + 8,000 to one enemy, deal 6x damage while under \"Demon\" state. Deal 2.5x damage when HP is above 60% (Max 15x) [Always Hit]",
+
+		skill2name: "Suppressing All Connections",
+		skill2ogname: "繋がりを全て断つ！",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "90",
+		skill2: "Own SPD +100% and grant \"Demon\" state. [Demon: ATK and Skill Damage +200%, if the buff his/her Skill Damage, reduce all enemies Skill Damage by 200% instead. Reduce HP by 40% when state expires]",
+
+		ability1name: "Power of Hatred",
+		ability1: "ATK +20% after every action (Max 100%)",
+
+		ability2name: "Awakening of the Mangekyo",
+		ability2: "Maximum Chakra +100, Recover 20% HP after action when HP is below 50%"
 	},
 
 
