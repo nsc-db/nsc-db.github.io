@@ -8027,7 +8027,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "90",
-		skill2: "Own SPD +100% and grant \"Demon\" state. [Demon: ATK and Skill Damage +200%, if the buff his/her Skill Damage, reduce all enemies Skill Damage by 200% instead. Reduce HP by 40% when state expires]",
+		skill2: "Own SPD +100% and grant \"Demon\" state. [Demon: ATK and Skill Damage +200%, if the opponen buff his/her Skill Damage, reduce all enemies Skill Damage by 200% instead. Reduce HP by 40% when state expires]",
 
 		ability1name: "Power of Hatred",
 		ability1: "ATK +20% after every action (Max 100%)",
@@ -8052,7 +8052,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "90",
-		skill2: "Own SPD +100% and grant \"Demon\" state. [Demon: ATK and Skill Damage +200%, if the buff his/her Skill Damage, reduce all enemies Skill Damage by 200% instead. Reduce HP by 40% when state expires]",
+		skill2: "Own SPD +100% and grant \"Demon\" state. [Demon: ATK and Skill Damage +200%, if the opponen buff his/her Skill Damage, reduce all enemies Skill Damage by 200% instead. Reduce HP by 40% when state expires]",
 
 		ability1name: "Power of Hatred",
 		ability1: "ATK +20% after every action (Max 100%)",
