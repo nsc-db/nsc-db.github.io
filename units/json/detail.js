@@ -559,6 +559,57 @@ window.detail = {
 		ability2: "Chakra Cost -20%, Incoming Skill Damage are halved when HP is below 60%"
 	},
 
+	278: {
+		leadname: "Sinking Into Hatred",
+		lead: "Taka Character ATK, DEF and SPD +30%",
+
+		skill1name: "Susano'o",
+		skill1ogname: "須佐能乎",
+		skill1type: "Sharingan",
+		skill1speed: "Fastest",
+		skill1cost: "80",
+		skill1: "Deal 7% + 1,800 to one enemy.  Deal 3x damage while under \"Susano'o\" state.",
+
+
+		skill2name: "Susano'o Armor",
+		skill2ogname: "須佐能乎の鎧",
+		skill2type: "Sharingan",
+		skill2speed: "Fastest",
+		skill2cost: "80",
+		skill2: "Own ATK and DEF +100% and grant \"Susano'o\" state. [Susano'o: Sharingan Skill Damage +60%, chance to dodge skills]",
+
+		ability1name: "Deep Hatred",
+		ability1: "ATK +20% after every action (Max 80%)",
+
+		ability2name: "Power of Darkness",
+		ability2: "Sharingan Skill Damage +60%, lose 5% HP after everu action"
+	},
+
+	"278_6": {
+		leadname: "Sinking Into Hatred",
+		lead: "Taka Character ATK, DEF and SPD +30%",
+
+		skill1name: "Susano'o",
+		skill1ogname: "須佐能乎",
+		skill1type: "Sharingan",
+		skill1speed: "Fastest",
+		skill1cost: "60",
+		skill1: "Deal 7% + 10,000 to one enemy.  Deal 8x damage while under \"Susano'o\" state.",
+
+
+		skill2name: "Susano'o Armor",
+		skill2ogname: "須佐能乎の鎧",
+		skill2type: "Sharingan",
+		skill2speed: "Fastest",
+		skill2cost: "70",
+		skill2: "Own ATK and DEF +120% and grant \"Susano'o\" state. [Susano'o: Sharingan Skill Damage +60%, chance to dodge skills]",
+
+		ability1name: "Deep Hatred",
+		ability1: "ATK and DEF +30% after every action (Max 90%)",
+
+		ability2name: "Power of Darkness",
+		ability2: "Sharingan Skill Damage +120%"
+	},
 
 	312: {
 		leadname: "Three-Way Summoning Deadlock: Snake",
@@ -8027,7 +8078,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "90",
-		skill2: "Own SPD +100% and grant \"Demon\" state. [Demon: ATK and Skill Damage +200%, if the opponen buff his/her Skill Damage, reduce all enemies Skill Damage by 200% instead. Reduce HP by 40% when state expires]",
+		skill2: "Own SPD +100% and grant \"Demon\" state. [Demon: ATK and Skill Damage +200%, if Sasuke is a target of a Skill, reduce all enemies Skill Damage by 200% instead. Reduce HP by 40% when state expires]",
 
 		ability1name: "Power of Hatred",
 		ability1: "ATK +20% after every action (Max 100%)",
@@ -8052,7 +8103,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "90",
-		skill2: "Own SPD +100% and grant \"Demon\" state. [Demon: ATK and Skill Damage +200%, if the opponen buff his/her Skill Damage, reduce all enemies Skill Damage by 200% instead. Reduce HP by 40% when state expires]",
+		skill2: "Own SPD +100% and grant \"Demon\" state. [Demon: ATK and Skill Damage +200%, if Sasuke is a target of a Skill, reduce all enemies Skill Damage by 200% instead. Reduce HP by 40% when state expires]",
 
 		ability1name: "Power of Hatred",
 		ability1: "ATK +20% after every action (Max 100%)",
