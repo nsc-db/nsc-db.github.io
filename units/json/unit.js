@@ -334,6 +334,8 @@ window.unit=[
  [646, "Obito Uchiha, Border Task", "Body", "Konoha", 6, 20, 12581, 15932, 9681, 141, 14, 16, 164, 1],
  [648, "Sasuke Uchiha, Demon Cloaked in Purple", "Intellect", "Taka", 6, 40, 25650, 34456, 22422, 215, 17, 18, 163, 93, 0],
  [648, "Sasuke Uchiha, Demon Cloaked in Purple", "Intellect", "Taka", 6, 40, 25650, 34456, 22422, 215, 17, 18, 163, 93, 1],
+ [649, "Itachi Uchiha, Champion's Reward", "Intellect", "Akatsuki", 6, 100, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+ [649, "Itachi Uchiha, Champion's Reward", "Intellect", "Akatsuki", 6, 100, 0, 0, 0, 0, 0, 0, 0, 0, 1],
  [654, "Might Gai, Brave Manly Fist", "Body", "Konoha", 6, 32, 11385, 17481, 9139, 171, 15, 15, 159, 83, 0],
  [654, "Might Gai, Brave Manly Fist", "Body", "Konoha", 6, 32, 11385, 17481, 9139, 171, 15, 15, 159, 83, 1],
 ]

@@ -8112,6 +8112,55 @@ window.detail = {
 		ability2: "Maximum Chakra +100, Recover 20% HP after action when HP is below 50%"
 	},
 
+	649: {
+		leadname: "Champion's Reward",
+		lead: "Intellect Type Maximum HP, SPD and Skill Damage +100%" ,
+
+		skill1name: "Tsukuyomi",
+		skill1ogname: "月読",
+		skill1type: "Sharingan",
+		skill1speed: "Fast",
+		skill1cost: "100",
+		skill1: "Deal 500,000 fixed damage to one enemy [Always Hit]",
+
+		skill2name: "Amaterasu",
+		skill2ogname: "天照",
+		skill2type: "Sharingan",
+		skill2speed: "Fastest",
+		skill2cost: "100",
+		skill2: "Deal 3% + 100,000 to all enemies with a high chance to place the enemies under \"Burn\", \"Black Flames\" and/or \"Jet Black\" state. [Burn: Inflict damage every turn], [Black Flames: Inflict damage every turn and reduce SPD by 20%] [Jet Black: Inflict damage every turn and a chance to reduce ATK and SPD by 20% after every action]",
+
+		ability1name: "Murder of the Clan",
+		ability1: "Maximum Chakra +200, immune to negative states",
+
+		ability2name: "Shinobi in the Shadows",
+		ability2: "High chance to dodge skills and take an turn (You can't get an extra turn during your extra turn)"
+	},
+
+	"649_6": {
+		leadname: "Demon Cloaked in Purple",
+		lead: "Taka and Hebi Characters Maximum HP, ATK and Skill Damage +60%" ,
+
+		skill1name: "Susano'o",
+		skill1ogname: "須佐能乎",
+		skill1type: "Sharingan",
+		skill1speed: "Fastest",
+		skill1cost: "80",
+		skill1: "Deal 7% + 8,000 to one enemy, deal 6x damage while under \"Demon\" state. Deal 2.5x damage when HP is above 60% (Max 15x) [Always Hit]",
+
+		skill2name: "Suppressing All Connections",
+		skill2ogname: "繋がりを全て断つ！",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "90",
+		skill2: "Own SPD +100% and grant \"Demon\" state. [Demon: ATK and Skill Damage +200%, if Sasuke is a target of a Skill, reduce all enemies Skill Damage by 200% instead. Reduce HP by 40% when state expires]",
+
+		ability1name: "Power of Hatred",
+		ability1: "ATK +20% after every action (Max 100%)",
+
+		ability2name: "Awakening of the Mangekyo",
+		ability2: "Maximum Chakra +100, Recover 20% HP after action when HP is below 50%"
+	},
 
 	654: {
 		leadname: "Brave Manly Fist",
