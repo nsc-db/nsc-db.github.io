@@ -8162,6 +8162,106 @@ window.detail = {
 		ability2: "Maximum Chakra +100, Recover 20% HP after action when HP is below 50%"
 	},
 
+	650: {
+		leadname: "Howl of Established Strength",
+		lead: "None Character Maximum HP and ATK +70%, recover 10% HP after every action" ,
+
+		skill1name: "Fire Style: Majestic Demolisher",
+		skill1ogname: "火遁・豪火滅失",
+		skill1type: "Fire",
+		skill1speed: "Fast",
+		skill1cost: "100",
+		skill1: "Deal 3% + 10,000 to all enemies with a high chance to burn. Deal more damange the more None Character in the team and Five Village Character enemies. Max 10x for None allies and max 2x for Five Village enemies (Max 20x)",
+
+		skill2name: "I've Been Waiting for you, Hashirama!!",
+		skill2ogname: "待っていたぞ柱間ァァ！！",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "70",
+		skill2: "Own SPD +100%, if one of the enemy is \"Hashirama Senju\", Skill Damage +200% and Cast Speed +2, recover 100% HP",
+
+		ability1name: "Delight of the Derired Battle",
+		ability1: "ATK, DEF and SPD +30% for every None Character ally (Max 150%)",
+
+		ability2name: "Legendary Ability",
+		ability2: "Maximum Chakra +50, HP and Skill Damage +120%"
+	},
+
+	"650_6": {
+		leadname: "Howl of Established Strength",
+		lead: "None Character Maximum HP and ATK +70%, recover 10% HP after every action" ,
+
+		skill1name: "Fire Style: Majestic Demolisher",
+		skill1ogname: "火遁・豪火滅失",
+		skill1type: "Fire",
+		skill1speed: "Fast",
+		skill1cost: "100",
+		skill1: "Deal 3% + 10,000 to all enemies with a high chance to burn. Deal more damange the more None Character in the team and Five Village Character enemies. Max 10x for None allies and max 2x for Five Village enemies (Max 20x)",
+
+		skill2name: "I've Been Waiting for You, Hashirama!!",
+		skill2ogname: "待っていたぞ柱間ァァ！！",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "70",
+		skill2: "Own SPD +100%, if one of the enemy is \"Hashirama Senju\", Skill Damage +200% and Cast Speed +2, recover 100% HP",
+
+		ability1name: "Delight of the Derired Battle",
+		ability1: "ATK, DEF and SPD +30% for every None Character ally (Max 150%)",
+
+		ability2name: "Legendary Ability",
+		ability2: "Maximum Chakra +50, HP and Skill Damage +120%"
+	},
+
+	651: {
+		leadname: "Disengage Warrior",
+		lead: "Heart and Intellect Type Maximum HP and ATK +50%, recover 10% Chakra after action" ,
+
+		skill1name: "Wood Clone Jutsu",
+		skill1ogname: "木分身の術",
+		skill1type: "Wood",
+		skill1speed: "Fast",
+		skill1cost: "80",
+		skill1: "Deal 7% + 15,000 to one enemy, deal more damage the more HP Hashirama has, max 10x. Grant all allies a high chance to dodge skills",
+
+		skill2name: "I'll Deal With You Later!",
+		skill2ogname: "お前は後！",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "60",
+		skill2: "Chance to reduce target enemy SPD by 50%, If the target enemy is \"Madara Uchiha\", high chance to place him in \"Despair\" state, ignore resistance and cancel his action once. [Despair: Remove ATK, DEF and SPD buff with a chance to cancel action]",
+
+		ability1name: "Duty to Fulfill",
+		ability1: "SPD +80%, recover 15% HP after every action",
+
+		ability2name: "Legendary Shinobi",
+		ability2: "Maximum Chakra +50, ATK and Skill Damage +100%"
+	},
+
+	"651_6": {
+		leadname: "Disengage Warrior",
+		lead: "Heart and Intellect Type Maximum HP and ATK +50%, recover 10% Chakra after action" ,
+
+		skill1name: "Wood Clone Jutsu",
+		skill1ogname: "木分身の術",
+		skill1type: "Wood",
+		skill1speed: "Fast",
+		skill1cost: "80",
+		skill1: "Deal 7% + 15,000 to one enemy, deal more damage the more HP Hashirama has, max 10x. Grant all allies a high chance to dodge skills",
+
+		skill2name: "I'll Deal With You Later!",
+		skill2ogname: "お前は後！",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "60",
+		skill2: "Chance to reduce target enemy SPD by 50%, If the target enemy is \"Madara Uchiha\", high chance to place him in \"Despair\" state, ignore resistance and cancel his action once. [Despair: Remove ATK, DEF and SPD buff with a chance to cancel action]",
+
+		ability1name: "Duty to Fulfill",
+		ability1: "SPD +80%, recover 15% HP after every action",
+
+		ability2name: "Legendary Shinobi",
+		ability2: "Maximum Chakra +50, ATK and Skill Damage +100%"
+	},
+
 	654: {
 		leadname: "Brave Manly Fist",
 		lead: "Taijutsu Skill Damage +50%" ,
