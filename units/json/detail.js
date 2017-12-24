@@ -2382,7 +2382,7 @@ window.detail = {
 	},
 
 	487: {
-		leadname: "Champion's Reward",
+	leadname: "Champion's Reward",
 		lead: "Body Type Maximum HP, ATK and SPD +100%",
 
 		skill1name: "Tailed Beast Bomb",
@@ -2390,7 +2390,7 @@ window.detail = {
 		skill1type: "Tailed Beast",
 		skill1speed: "Fast",
 		skill1cost: "100",
-		skill1: "Deal 100,000 fixed damage to all enemies",
+		skill1: "Deal 135,000 fixed damage to all enemies",
 
 
 		skill2name: "Wind Style: Rasenshuriken",
@@ -2398,13 +2398,13 @@ window.detail = {
 		skill2type: "Wind",
 		skill2speed: "Fastest",
 		skill2cost: "100",
-		skill2: "Deal 7% + 100,000 to one enemy.  Deal 6x damage against None Characters",
+		skill2: "Deal 7% + 150,000 to one enemy.  Deal 6x damage against None and Akatsuki Characters",
 
 		ability1name: "Perfect Fighting Prowess",
-		ability1: "Maximum Chakra +200, high chance to recover 40% HP when attacked",
+		ability1: "Maximum Chakra +250, high chance to recover 40% HP when attacked",
 
 		ability2name: "Hatred Beated by Bond",
-		ability2: "When HP reach 0, revive twice"
+		ability2: "All incoming Skill Damage are reduce by half. When HP reach 0, revive twice"
 	},
 
 	"487_6": {
@@ -2416,7 +2416,7 @@ window.detail = {
 		skill1type: "Tailed Beast",
 		skill1speed: "Fast",
 		skill1cost: "100",
-		skill1: "Deal 100,000 fixed damage to all enemies",
+		skill1: "Deal 135,000 fixed damage to all enemies",
 
 
 		skill2name: "Wind Style: Rasenshuriken",
@@ -2424,13 +2424,13 @@ window.detail = {
 		skill2type: "Wind",
 		skill2speed: "Fastest",
 		skill2cost: "100",
-		skill2: "Deal 7% + 100,000 to one enemy.  Deal 6x damage against None Characters",
+		skill2: "Deal 7% + 150,000 to one enemy.  Deal 6x damage against None and Akatsuki Characters",
 
 		ability1name: "Perfect Fighting Prowess",
-		ability1: "Maximum Chakra +200, high chance to recover 40% HP when attacked",
+		ability1: "Maximum Chakra +250, high chance to recover 40% HP when attacked",
 
 		ability2name: "Hatred Beated by Bond",
-		ability2: "When HP reach 0, revive twice"
+		ability2: "All incoming Skill Damage are reduce by half. When HP reach 0, revive twice"
 	},
 
 	489: {
@@ -3534,7 +3534,7 @@ window.detail = {
 		skill1type: "Sage",
 		skill1speed: "Fast",
 		skill1cost: "100",
-		skill1: "Deal 120,000 fixed damage to all enemies",
+		skill1: "Deal 135,000 fixed damage to all enemies",
 
 
 		skill2name: "Inferno Style: Kagutsuchi",
@@ -3542,10 +3542,10 @@ window.detail = {
 		skill2type: "Inferno",
 		skill2speed: "Fastest",
 		skill2cost: "100",
-		skill2: "Deal 7% + 120,000 to one enemy.  Deal 3x damage against characters from the Five Village",
+		skill2: "Deal 7% + 150,000 to one enemy.  Deal 3x damage against characters from the Five Village",
 
 		ability1name: "Mangekyo's Value Tomoe",
-		ability1: "Maximum Chakra +200, chance to dodge skills",
+		ability1: "Maximum Chakra +250, chance to dodge skills",
 
 		ability2name: "Black Flames",
 		ability2: "Half the chance of being inflicted by a negative state and When HP reach 0, revive once"
@@ -3560,7 +3560,7 @@ window.detail = {
 		skill1type: "Sage",
 		skill1speed: "Fast",
 		skill1cost: "100",
-		skill1: "Deal 120,000 fixed damage to all enemies",
+		skill1: "Deal 135,000 fixed damage to all enemies",
 
 
 		skill2name: "Inferno Style: Kagutsuchi",
@@ -3568,10 +3568,10 @@ window.detail = {
 		skill2type: "Inferno",
 		skill2speed: "Fastest",
 		skill2cost: "100",
-		skill2: "Deal 7% + 120,000 to one enemy.  Deal 3x damage against characters from the Five Village",
+		skill2: "Deal 7% + 150,000 to one enemy.  Deal 3x damage against characters from the Five Village",
 
 		ability1name: "Mangekyo's Value Tomoe",
-		ability1: "Maximum Chakra +200, chance to dodge skills",
+		ability1: "Maximum Chakra +250, chance to dodge skills",
 
 		ability2name: "Black Flames",
 		ability2: "Half the chance of being inflicted by a negative state and When HP reach 0, revive once"
@@ -5676,7 +5676,7 @@ window.detail = {
 		skill2type: "Rinnegan",
 		skill2speed: "Fastest",
 		skill2cost: "100",
-		skill2: "Deal 7% + 250,000 to one enemy with a very high chance to place them under \"Deficit\" state. [Deficit: Chakra Recovery becomes 0] *Deficit state is only active in PvP",
+		skill2: "Deal 7% + 250,000 to one enemy with a very high chance to place them under \"Deficit\" state. Recover own Chakra by 50%. [Deficit: Chakra Recovery becomes 0] *Deficit state is only active in PvP",
 
 		ability1name: "God of Destruction Wishing for Peace",
 		ability1: "Maximum Chakra +200, Immune to negate state",
@@ -5702,7 +5702,7 @@ window.detail = {
 		skill2type: "Rinnegan",
 		skill2speed: "Fastest",
 		skill2cost: "100",
-		skill2: "Deal 7% + 250,000 to one enemy with a very high chance to place them under \"Deficit\" state. [Deficit: Chakra Recovery becomes 0] *Deficit state is only active in PvP",
+		skill2: "Deal 7% + 250,000 to one enemy with a very high chance to place them under \"Deficit\" state. Recover own Chakra by 50%. [Deficit: Chakra Recovery becomes 0] *Deficit state is only active in PvP",
 
 		ability1name: "God of Destruction Wishing for Peace",
 		ability1: "Maximum Chakra +200, Immune to negate state",
