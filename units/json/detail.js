@@ -8262,6 +8262,106 @@ window.detail = {
 		ability2: "Maximum Chakra +50, ATK and Skill Damage +100%"
 	},
 
+	652: {
+		leadname: "Translucent Moon",
+		lead: "Konoha Characters ATK and SPD +50%" ,
+
+		skill1name: "Eight Triagrams Air Palms",
+		skill1ogname: "八卦空掌",
+		skill1type: "Byakugan",
+		skill1speed: "Fastest",
+		skill1cost: "20",
+		skill1: "Deal 7% + 4,000 to one enemy with a chance to cancel action and a high chance to place them the enemy under \"Chakra Points\" state. [Chakra Points: Cast Speed -2. Chakra Points stacks dealing more damage the more stacks. Initial 12x damage and maximum 27x damage (Maximum 4 stacks)]",
+
+		skill2name: "My Goal will not Change",
+		skill2ogname: "目指すものは変わらない",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "50",
+		skill2: "Own ATK and SPD +100% and grant \"Resolution\" state. [Resolution: ATK, DEF and SPD +100%, recover 20% HP and Chakra when attacked]",
+
+		ability1name: "Gentle Personality",
+		ability1: "Maximum HP and DEF +100%",
+
+		ability2name: "Staple Power",
+		ability2: "Skill Damage +100%, recover 10% Chakra after every action"
+	},
+
+	"652_6": {
+		leadname: "Translucent Moon",
+		lead: "Konoha Characters ATK and SPD +50%" ,
+
+		skill1name: "Eight Triagrams Air Palms",
+		skill1ogname: "八卦空掌",
+		skill1type: "Byakugan",
+		skill1speed: "Fastest",
+		skill1cost: "20",
+		skill1: "Deal 7% + 4,000 to one enemy with a chance to cancel action and a high chance to place them the enemy under \"Chakra Points\" state. [Chakra Points: Cast Speed -2. Chakra Points stacks dealing more damage the more stacks. Initial 12x damage and maximum 27x damage (Maximum 4 stacks)]",
+
+		skill2name: "My Goal will not Change",
+		skill2ogname: "目指すものは変わらない",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "50",
+		skill2: "Own ATK and SPD +100% and grant \"Resolution\" state. [Resolution: ATK, DEF and SPD +100%, recover 20% HP and Chakra when attacked]",
+
+		ability1name: "Gentle Personality",
+		ability1: "Maximum HP and DEF +100%",
+
+		ability2name: "Staple Power",
+		ability2: "Skill Damage +100%, recover 10% Chakra after every action"
+	},
+
+	653: {
+		leadname: "Bright Flower",
+		lead: "Konoha Characters ATK and SPD +50%" ,
+
+		skill1name: "Eight Triagrams Rotaion",
+		skill1ogname: "八卦掌回天",
+		skill1type: "Byakugan",
+		skill1speed: "Fast",
+		skill1cost: "70",
+		skill1: "Deal 3% + 20,0000 to all enemies and grant \"Rotation Protection\". [Rotation Protection: All allies are immune to single target Skills]",
+
+		skill2name: "Now, Lets Go!",
+		skill2ogname: "さぁ、やるわよ！",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "50",
+		skill2: "Own ATK and Skill Damage +100%, all allies Cast Speed +1",
+
+		ability1name: "White Eye Carrier",
+		ability1: "Maximum HP and Skill Damage +100%",
+
+		ability2name: "Anxious Heart",
+		ability2: "ATK and DEF +30% for each Konoha ally. (Max 150%)"
+	},
+
+	"653_6": {
+		leadname: "Bright Flower",
+		lead: "Konoha Characters ATK and SPD +50%" ,
+
+		skill1name: "Eight Triagrams Rotaion",
+		skill1ogname: "八卦掌回天",
+		skill1type: "Byakugan",
+		skill1speed: "Fast",
+		skill1cost: "70",
+		skill1: "Deal 3% + 20,0000 to all enemies and grant \"Rotation Protection\". [Rotation Protection: All allies are immune to single target Skills]",
+
+		skill2name: "Now, Lets Go!",
+		skill2ogname: "さぁ、やるわよ！",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "50",
+		skill2: "Own ATK and Skill Damage +100%, all allies Cast Speed +1",
+
+		ability1name: "White Eye Carrier",
+		ability1: "Maximum HP and Skill Damage +100%",
+
+		ability2name: "Anxious Heart",
+		ability2: "ATK and DEF +30% for each Konoha ally. (Max 150%)"
+	},
+
 	654: {
 		leadname: "Brave Manly Fist",
 		lead: "Taijutsu Skill Damage +50%" ,

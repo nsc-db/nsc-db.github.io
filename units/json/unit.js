@@ -340,6 +340,10 @@ window.unit=[
  [650, "Madara Uchiha, Howl of Established Strength", "Heart", "None", 6, 50, 36891, 41468, 25117, 248, 21, 19, 155, 92, 1],
  [651, "Hashirama Senju, Disengage Warrior", "Heart", "Konoha", 6, 40, 30672, 27409, 21823, 222, 17, 16, 163, 88, 0],
  [651, "Hashirama Senju, Disengage Warrior", "Heart", "Konoha", 6, 40, 30672, 27409, 21823, 222, 17, 16, 163, 88, 1],
+ [652, "Hinata Hyuga, Translucent Moon", "Technique", "Konoha", 6, 50, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+ [652, "Hinata Hyuga, Translucent Moon", "Technique", "Konoha", 6, 50, 0, 0, 0, 0, 0, 0, 0, 0, 1],
+ [653, "Hanabi Hyuga, Bright Flower", "Technique", "Konoha", 6, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+ [653, "Hanabi Hyuga, Bright Flower", "Technique", "Konoha", 6, 40, 0, 0, 0, 0, 0, 0, 0, 0, 1],
  [654, "Might Gai, Brave Manly Fist", "Body", "Konoha", 6, 32, 11385, 17481, 9139, 171, 15, 15, 159, 83, 0],
  [654, "Might Gai, Brave Manly Fist", "Body", "Konoha", 6, 32, 11385, 17481, 9139, 171, 15, 15, 159, 83, 1],
 ]
