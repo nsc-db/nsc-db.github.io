@@ -8062,6 +8062,56 @@ window.detail = {
 		ability2: "For 10 turns, Skill Damage +100%"
 	},
 
+	647: {
+		leadname: "Infinite Moon",
+		lead: "None Character Maximum HP and Skill Damage +80%" ,
+
+		skill1name: "Heavenly Planet Destruction",
+		skill1ogname: "天隕破星",
+		skill1type: "Rinnegan",
+		skill1speed: "Fastest",
+		skill1cost: "70",
+		skill1: "Deal 3% + 10,000 to all enemies with a high chance to cancel action. Deal 5x damage to Five Village characters. Deal 2x damage to characters under \"Despair\" state.",
+
+		skill2name: "Utmost Dance",
+		skill2ogname: "せいぜい踊れ",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "80",
+		skill2: "High chance to lower all enemies ATK, DEF and SPD by 50% and place them under \"Despair\" state. If the enemies is from the Five Village, Cast Speed -2. [Despair: Remove all ATK, DEF and QCK bbuff, with a chance to cancel action after every action]",
+
+		ability1name: "Long Standing Scheme",
+		ability1: "Recover 10% HP and Chakra after every action. For 7 turns, immune to all Skill Damage except for Sage, Taijutsu and Six Paths",
+
+		ability2name: "Self-Awared Strength",
+		ability2: "Chakra +150, Maximum HP and Skill Damage +150%"
+	},
+
+	"647_6": {
+		leadname: "Infinite Moon",
+		lead: "None Character Maximum HP and Skill Damage +80%" ,
+
+		skill1name: "Heavenly Planet Destruction",
+		skill1ogname: "天隕破星",
+		skill1type: "Rinnegan",
+		skill1speed: "Fastest",
+		skill1cost: "70",
+		skill1: "Deal 3% + 10,000 to all enemies with a high chance to cancel action. Deal 5x damage to Five Village characters. Deal 2x damage to characters under \"Despair\" state.",
+
+		skill2name: "Utmost Dance",
+		skill2ogname: "せいぜい踊れ",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "80",
+		skill2: "High chance to lower all enemies ATK, DEF and SPD by 50% and place them under \"Despair\" state. If the enemies is from the Five Village, Cast Speed -2. [Despair: Remove all ATK, DEF and QCK bbuff, with a chance to cancel action after every action]",
+
+		ability1name: "Long Standing Scheme",
+		ability1: "Recover 10% HP and Chakra after every action. For 7 turns, immune to all Skill Damage except for Sage, Taijutsu and Six Paths",
+
+		ability2name: "Self-Awared Strength",
+		ability2: "Chakra +150, Maximum HP and Skill Damage +150%"
+	},
+
 	648: {
 		leadname: "Demon Cloaked in Purple",
 		lead: "Taka and Hebi Characters Maximum HP, ATK and Skill Damage +60%" ,
@@ -8410,5 +8460,255 @@ window.detail = {
 
 		ability2name: "Flash Movement",
 		ability2: "SPD +100%, high chance to dodge skills"
+	},
+
+	657: {
+		leadname: "Beast Discrenment",
+		lead: "Body Type ATK and SPD +40%" ,
+
+		skill1name: "Fang Over Fang",
+		skill1ogname: "牙通牙",
+		skill1type: "Secret",
+		skill1speed: "Fastest",
+		skill1cost: "50",
+		skill1: "Deal 7% + 8,000 to one enemy. Deal 5x damage if own SPD is buffed. Skill Damage +100% after using this skill",
+
+		skill2name: "Here I go, All-Fours Jutsu",
+		skill2ogname: "行くぜェ！！四脚の術！！！",
+		skill2type: "Secret",
+		skill2speed: "Fast",
+		skill2cost: "50",
+		skill2: "All allies SPD and Dodge rate +200%. If own SPD is already buffed, grant a medium chance to dodge skills and Cast Speed +2 to self",
+
+		ability1name: "Wild Senses",
+		ability1: "SPD and Skill Damage +100% when HP is above 60%",
+
+		ability2name: "Inuzuka Clan",
+		ability2: "Maximum HP and ATK +100%"
+	},
+
+	"657_6": {
+		leadname: "Beast Discrenment",
+		lead: "Body Type ATK and SPD +40%" ,
+
+		skill1name: "Fang Over Fang",
+		skill1ogname: "牙通牙",
+		skill1type: "Secret",
+		skill1speed: "Fastest",
+		skill1cost: "50",
+		skill1: "Deal 7% + 8,000 to one enemy. Deal 5x damage if own SPD is buffed. Skill Damage +100% after using this skill",
+
+		skill2name: "Here I go, All-Fours Jutsu",
+		skill2ogname: "行くぜェ！！四脚の術！！！",
+		skill2type: "Secret",
+		skill2speed: "Fast",
+		skill2cost: "50",
+		skill2: "All allies SPD and Dodge rate +200%. If own SPD is already buffed, grant a medium chance to dodge skills and Cast Speed +2 to self",
+
+		ability1name: "Wild Senses",
+		ability1: "SPD and Skill Damage +100% when HP is above 60%",
+
+		ability2name: "Inuzuka Clan",
+		ability2: "Maximum HP and ATK +100%"
+	},
+
+	659: {
+		leadname: "Determined Decision",
+		lead: "Konoha Character Taijutsu Skill Damage +120%, DEF -50%" ,
+
+		skill1name: "Sekizo",
+		skill1ogname: "夕象",
+		skill1type: "Taijutsu",
+		skill1speed: "Fastest",
+		skill1cost: "30",
+		skill1: "Deal 25x ATK damage to one enemy and grant \"Sekizo\" state. [Sekizo: Sekizo stacks doing more damage multiplier and ignoring more DEF. Max 4x damage and ignore 80% DEF. Maximum stack is 5] [Always Hit]",
+
+		skill2name: "Five Steps!!",
+		skill2ogname: "伍捉！！",
+		skill2type: "Taijutsu",
+		skill2speed: "Fastest",
+		skill2cost: "40",
+		skill2: "Own ATK and SPD +300% and grant immunity to Skills.",
+
+		ability1name: "Limit Break",
+		ability1: "SPD +100%. Reduce all incoming damage by half when HP is below 50%",
+
+		ability2name: "Red Vapor",
+		ability2: "ATK and Skill Damage +120%, high chance to reduce HP by 10% after every action"
+	},
+
+	"659_6": {
+		leadname: "Determined Decision",
+		lead: "Konoha Character Taijutsu Skill Damage +120%, DEF -50%" ,
+
+		skill1name: "Sekizo",
+		skill1ogname: "夕象",
+		skill1type: "Taijutsu",
+		skill1speed: "Fastest",
+		skill1cost: "30",
+		skill1: "Deal 25x ATK damage to one enemy and grant \"Sekizo\" state. [Sekizo: Sekizo stacks doing more damage multiplier and ignoring more DEF. Max 4x damage and ignore 80% DEF. Maximum stack is 5] [Always Hit]",
+
+		skill2name: "Five Steps!!",
+		skill2ogname: "伍捉！！",
+		skill2type: "Taijutsu",
+		skill2speed: "Fastest",
+		skill2cost: "40",
+		skill2: "Own ATK and SPD +300% and grant immunity to Skills.",
+
+		ability1name: "Limit Break",
+		ability1: "SPD +100%. Reduce all incoming damage by half when HP is below 50%",
+
+		ability2name: "Red Vapor",
+		ability2: "ATK and Skill Damage +120%, high chance to reduce HP by 10% after every action"
+	},
+
+	660: {
+		leadname: "Happy New Year ・ Toad 2018",
+		lead: "All Character SPD +20%, recover 18% HP after every action" ,
+
+		skill1name: "Happiness Massive Rasenshuriken",
+		skill1ogname: "謹賀・超大玉螺旋手裏剣",
+		skill1type: "Wind",
+		skill1speed: "Fast",
+		skill1cost: "90",
+		skill1: "Deal 3% + 9,000 to all enemies with a high chance to place the enemies under \"Surprise\" state. Deal 7x damage to enemies under \"Surprise\" state. [Surprise: ATK, DEF and SPD -50%, remove all buffs and debuffs]",
+
+		skill2name: "Auspicious Day!!",
+		skill2ogname: "目出度い日だってばよ！",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "90",
+		skill2: "All allies SPD +100%, Cast Speed +1, and grant \"Gust\" state. [Gust: SPD and Skill Damage +100%]",
+
+		ability1name: "New Year Gamaguchi",
+		ability1: "Cast Speed +1 when HP is above 70%",
+
+		ability2name: "First New Year Appearance",
+		ability2: "Maximum Chakra +50, Skill Damage +100%"
+	},
+
+	"660_6": {
+		leadname: "Happy New Year ・ Toad 2018",
+		lead: "All Character SPD +20%, recover 18% HP after every action" ,
+
+		skill1name: "Happiness Massive Rasenshuriken",
+		skill1ogname: "謹賀・超大玉螺旋手裏剣",
+		skill1type: "Wind",
+		skill1speed: "Fast",
+		skill1cost: "90",
+		skill1: "Deal 3% + 9,000 to all enemies with a high chance to place the enemies under \"Surprise\" state. Deal 7x damage to enemies under \"Surprise\" state. [Surprise: ATK, DEF and SPD -50%, remove all buffs and debuffs]",
+
+		skill2name: "Auspicious Day!!",
+		skill2ogname: "目出度い日だってばよ！",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "90",
+		skill2: "All allies SPD +100%, Cast Speed +1, and grant \"Gust\" state. [Gust: SPD and Skill Damage +100%]",
+
+		ability1name: "New Year Gamaguchi",
+		ability1: "Cast Speed +1 when HP is above 70%",
+
+		ability2name: "First New Year Appearance",
+		ability2: "Maximum Chakra +50, Skill Damage +100%"
+	},
+
+	661: {
+		leadname: "Happy New Year ・ Toad 2018",
+		lead: "All Character ATK +20%, recover 18% HP after every action" ,
+
+		skill1name: "Happiness Susano'o Kagutsuchi",
+		skill1ogname: "謹賀・須佐能乎加具土命",
+		skill1type: "Inferno",
+		skill1speed: "Fast",
+		skill1cost: "90",
+		skill1: "Deal 3% + 9,000 to all enemies with a high chance to place the enemies under \"Jet Black\" state. Deal 7x damage to enemies under \"Jet Black\" state. [Surprise: Inflict damage every turn and chance to reduce ATK and SPD by 20% after every action]",
+
+		skill2name: "Oh Well, Celebrate",
+		skill2ogname: "仕方ない…祝ってやる",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "90",
+		skill2: "All allies ATK +100%, grant a medium chance to dodge skills and \"Penetrate\" state. [Penetrate: Attacks ignore 20% DEF]",
+
+		ability1name: "Snake-Eye Mochi",
+		ability1: "Cast Speed +1 when HP is above 70%",
+
+		ability2name: "First New Year Appearance of the Stupid Person",
+		ability2: "Maximum Chakra +50, Skill Damage +100%"
+	},
+
+	"661_6": {
+		leadname: "Happy New Year ・ Snake 2018",
+		lead: "All Character SPD +20%, recover 18% HP after every action" ,
+
+		skill1name: "Happiness Massive Rasenshuriken",
+		skill1ogname: "謹賀・超大玉螺旋手裏剣",
+		skill1type: "Wind",
+		skill1speed: "Fast",
+		skill1cost: "90",
+		skill1: "Deal 3% + 9,000 to all enemies with a high chance to place the enemies under \"Surprise\" state. Deal 7x damage to enemies under \"Surprise\" state. [Surprise: ATK, DEF and SPD -50%, remove all buffs and debuffs]",
+
+		skill2name: "Auspicious Day!!",
+		skill2ogname: "目出度い日だってばよ！",
+		skill2type: "UNique",
+		skill2speed: "Fast",
+		skill2cost: "90",
+		skill2: "All allies SPD +100%, Cast Speed +1, and grant \"Gust\" state. [Gust: SPD and Skill Damage +100%]",
+
+		ability1name: "New Year Gamaguchi",
+		ability1: "Cast Speed +1 when HP is above 70%",
+
+		ability2name: "First New Year Appearance",
+		ability2: "Maximum Chakra +50, Skill Damage +100%"
+	},
+
+	662: {
+		leadname: "Happy New Year ・ Slug 2018",
+		lead: "All Character Maximum HP +20%, recover 18% HP after every action" ,
+
+		skill1name: "Happiness Shannaro",
+		skill1ogname: "謹賀・桜花衝",
+		skill1type: "Taijutsu",
+		skill1speed: "Fast",
+		skill1cost: "90",
+		skill1: "Deal 3% + 9,000 to all enemies and grant all allies \"Heal\" state. Deal 5x damage while under \"Heal\" state. [Heal: Recover 20% HP when attacked]",
+
+		skill2name: "Beginning of a New Day",
+		skill2ogname: "新しい日の始まりよ！",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "80",
+		skill2: "Recover all allies HP by a large amount, reduce Chakra Cost by 40% and grant \"Resist\" state. [Immune and Remove all negative status, debuff and genjutsu]",
+
+		ability1name: "Extreme Luck",
+		ability1: "Cast Speed +1 when HP is above 70%",
+
+		ability2name: "First New Year Appearance Shannaro",
+		ability2: "Maximum Chakra +50, ATK +100%"
+	},
+
+	"662_6": {
+		leadname: "Happy New Year ・ Slug 2018",
+		lead: "All Character Maximum HP +20%, recover 18% HP after every action" ,
+
+		skill1name: "Happiness Shannaro",
+		skill1ogname: "謹賀・桜花衝",
+		skill1type: "Taijutsu",
+		skill1speed: "Fast",
+		skill1cost: "90",
+		skill1: "Deal 3% + 9,000 to all enemies and grant all allies \"Heal\" state. Deal 5x damage while under \"Heal\" state. [Heal: Recover 20% HP when attacked]",
+
+		skill2name: "Beginning of a New Day",
+		skill2ogname: "新しい日の始まりよ！",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "80",
+		skill2: "Recover all allies HP by a large amount, reduce Chakra Cost by 40% and grant \"Resist\" state. [Immune and Remove all negative status, debuff and genjutsu]",
+
+		ability1name: "Extreme Luck",
+		ability1: "Cast Speed +1 when HP is above 70%",
+
+		ability2name: "First New Year Appearance Shannaro",
+		ability2: "Maximum Chakra +50, ATK +100%"
 	},
 }
