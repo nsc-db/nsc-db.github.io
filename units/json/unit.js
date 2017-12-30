@@ -350,6 +350,8 @@ window.unit=[
  [654, "Might Gai, Brave Manly Fist", "Body", "Konoha", 6, 32, 11385, 17481, 9139, 171, 15, 15, 159, 83, 1],
  [657, "Kiba Inuzuka, Beast Discrenment", "Body", "Konoha", 5, 29, 10973, 15123, 10374, 172, 13, 12, 144, 84, 0],
  [657, "Kiba Inuzuka, Beast Discrenment", "Body", "Konoha", 6, 29, 10973, 15123, 10374, 172, 13, 12, 144, 840, 1],
+ [658, "Kakashi Hatake, With a Fallen Comrade", "Intellect", "Konoha", 6, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+ [658, "Kakashi Hatake, With a Fallen Comrade", "Intellect", "Konoha", 6, 40, 0, 0, 0, 0, 0, 0, 0, 0, 1],
  [659, "Might Gai, Determined Decision", "Courage", "Konoha", 6, 50, 0, 0, 0, 0, 0, 0, 0, 0, 0],
  [659, "Might Gai, Determined Decision", "Courage", "Konoha", 6, 50, 0, 0, 0, 0, 0, 0, 0, 0, 1],
  [660, "Naruto Uzumaki, Happy New Year ・ Toad 2018", "Body", "Konoha", 6, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0],
@@ -358,4 +360,6 @@ window.unit=[
  [661, "Sasuke Uchiha, Happy New Year ・ Snake 2018", "Technique", "Konoha", 6, 40, 0, 0, 0, 0, 0, 0, 0, 0, 1],
  [662, "Sakura Haruno, Happy New Year ・ Slug 2018", "Heart", "Konoha", 6, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0],
  [662, "Sakura Haruno, Happy New Year ・ Slug 2018", "Heart", "Konoha", 6, 40, 0, 0, 0, 0, 0, 0, 0, 0, 1],
+ [663, "Shino Aburame, Insect Host", "Body", "Konoha", 6, 32, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+ [663, "Shino Aburame, Insect Host", "Body", "Konoha", 6, 32, 0, 0, 0, 0, 0, 0, 0, 0, 1],
 ]

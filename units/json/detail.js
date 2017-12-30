@@ -218,7 +218,7 @@ window.detail = {
 		skill2: "Deal 7% + 1,000 to one enemy. Deal more damage the more damage Madara takes while casting the jutsu. (Max 5x when hit 5 times)",
 
 		ability1name: "The Power of Life and Death",
-		ability1: "ATK +70% and incoming skill damage are halved when HP is above 50%",
+		ability1: "ATK +70% and incoming Skill damage are halved when HP is above 50%",
 
 		ability2name: "Aloof Dream",
 		ability2: "For 5 turns, Immune to negative effect and Fire Skill Damage +100%"
@@ -243,7 +243,7 @@ window.detail = {
 		skill2: "Deal 7% + 10,000 to one enemy. Deal more damage the more damage Madara takes while casting the jutsu. (Max 6x when hit 3 times)",
 
 		ability1name: "The Power of Life and Death",
-		ability1: "ATK +100%. Incoming skill damage are halved when HP is above 40%",
+		ability1: "ATK +100%. Incoming Skill damage are halved when HP is above 40%",
 
 		ability2name: "Aloof Dream",
 		ability2: "Immune to negative effect and Skill Damage +130%"
@@ -322,7 +322,7 @@ window.detail = {
 		ability1: "Rinnegan Skill Damage +120% when Chakra is max",
 
 		ability2name: "Invisible God",
-		ability2: "Immune to negative effect and incoming skill damage are halved when HP is above 80%"
+		ability2: "Immune to negative effect and incoming Skill damage are halved when HP is above 80%"
 	},
 
 	"204_6": {
@@ -348,7 +348,7 @@ window.detail = {
 		ability1: "Rinnegan Skill Damage +150%, Maximum HP and ATK +60%",
 
 		ability2name: "Invisible God",
-		ability2: "Immune to negative effect and incoming skill damage are halved when HP is above 40%"
+		ability2: "Immune to negative effect and incoming Skill damage are halved when HP is above 40%"
 	},
 
 	219: {
@@ -1826,7 +1826,7 @@ window.detail = {
 		skill2type: "Sharingan",
 		skill2speed: "Fast",
 		skill2cost: "70",
-		skill2: "Own ATK, DEF and SPD +100% and grant \"Selfish\" state. [Selfish: All incoming skill damage are halved.  Skill Damage increase the less Konoha character in the team. Max 120%]",
+		skill2: "Own ATK, DEF and SPD +100% and grant \"Selfish\" state. [Selfish: All incoming Skill damage are halved.  Skill Damage increase the less Konoha character in the team. Max 120%]",
 
 		ability1name: "Aloof Eye Powers",
 		ability1: "Maximum Chakra +100, Cast Speed +1 when HP is above 80%",
@@ -1852,7 +1852,7 @@ window.detail = {
 		skill2type: "Sharingan",
 		skill2speed: "Fastest",
 		skill2cost: "60",
-		skill2: "Own ATK, DEF and SPD +120% and grant \"Selfish\" state. [Selfish: All incoming skill damage are halved.  Skill Damage increase the less Konoha character in the team. Max 300%]",
+		skill2: "Own ATK, DEF and SPD +120% and grant \"Selfish\" state. [Selfish: All incoming Skill damage are halved.  Skill Damage increase the less Konoha character in the team. Max 300%]",
 
 		ability1name: "Aloof Eye Powers",
 		ability1: "Maximum Chakra +150, Cast Speed +1 when HP is above 50%",
@@ -2612,7 +2612,7 @@ window.detail = {
 		ability1: "Low Chance to fully recover HP and Chakra when attacked",
 
 		ability2name: "Accumulation of Experience",
-		ability2: "Cast Speed +1 and reduce incoming skill damage when HP is above 70%"
+		ability2: "Cast Speed +1 and reduce incoming Skill damage when HP is above 70%"
 	},
 
 	"492_6": {
@@ -2638,7 +2638,7 @@ window.detail = {
 		ability1: "Chance to fully recover HP and Chakra when attacked",
 
 		ability2name: "Accumulation of Experience",
-		ability2: "Cast Speed +1 and incoming skill damage are halved when HP is above 50%"
+		ability2: "Cast Speed +1 and incoming Skill damage are halved when HP is above 50%"
 	},
 
 	495: {
@@ -2661,7 +2661,7 @@ window.detail = {
 		skill2: "Own ATK and SPD +80% and grant \"Connected\" state. [Connected: Negative effects are halved, Skill Damage increase based on how many Konoha Character in the team. Maximum 200%]",
 
 		ability1name: "Kurama",
-		ability1: "Maximum Chakra +100, Reduce all incoming skill damage",
+		ability1: "Maximum Chakra +100, Reduce all incoming Skill damage",
 
 		ability2name: "Towards Hope",
 		ability2: "ATK and SPD +40% for each Konoha Character allies"
@@ -2687,7 +2687,7 @@ window.detail = {
 		skill2: "Own ATK and SPD +100% and grant \"Connected\" state. [Connected: Negative effects are halved, Skill Damage increase based on how many Konoha Character in the team. Maximum 250%]",
 
 		ability1name: "Kurama",
-		ability1: "Maximum Chakra +130, Reduce all incoming skill damage",
+		ability1: "Maximum Chakra +130, Reduce all incoming Skill damage",
 
 		ability2name: "Towards Hope",
 		ability2: "ATK and SPD +50% for each Konoha Character allies"
@@ -3233,7 +3233,7 @@ window.detail = {
 		skill2: "Own SPD and Skill Damage +80%, Chakra Recovery +40% when guarding",
 
 		ability1name: "Delusional Reality",
-		ability1: "Maximum HP and ATK +80%, SKill Damage +120% when Chakra is max",
+		ability1: "Maximum HP and ATK +80%, Skill Damage +120% when Chakra is max",
 
 		ability2name: "Mangekyo and Rinnegan",
 		ability2: "Immune to None Type Skills. Chance to dodge skills"
@@ -3259,7 +3259,7 @@ window.detail = {
 		skill2: "Own SPD and Skill Damage +80%, Chakra Recovery +40% when guarding",
 
 		ability1name: "Delusional Reality",
-		ability1: "Maximum HP and ATK +80%, SKill Damage +120% when Chakra is max",
+		ability1: "Maximum HP and ATK +80%, Skill Damage +120% when Chakra is max",
 
 		ability2name: "Mangekyo and Rinnegan",
 		ability2: "Immune to None Type Skills. Chance to dodge skills"
@@ -3683,7 +3683,7 @@ window.detail = {
 
 	540: {
 		leadname: "Leader of the Senju",
-		lead: "Technique and Intellect Character HP and SKill Damage +40%",
+		lead: "Technique and Intellect Character HP and Skill Damage +40%",
 
 		skill1name: "Sage Style: Gate of the Great God",
 		skill1ogname: "仙法・明神門",
@@ -3709,7 +3709,7 @@ window.detail = {
 
 	"540_6": {
 		leadname: "Leader of the Senju",
-		lead: "Technique and Intellect Character HP and SKill Damage +40%",
+		lead: "Technique and Intellect Character HP and Skill Damage +40%",
 
 		skill1name: "Sage Style: Gate of the Great God",
 		skill1ogname: "仙法・明神門",
@@ -3952,7 +3952,7 @@ window.detail = {
 		skill1type: "Sealing",
 		skill1speed: "Fastest",
 		skill1cost: "90",
-		skill1: "Deal 10x ATK damage to one enemy with a high chance to \"Bind\". Deal 4x damage to enemies under \"Bind\" state. [Bind: SPD -10%, SKill Damage -60%] (Max 40x)",
+		skill1: "Deal 10x ATK damage to one enemy with a high chance to \"Bind\". Deal 4x damage to enemies under \"Bind\" state. [Bind: SPD -10%, Skill Damage -60%] (Max 40x)",
 
 
 		skill2name: "Stop Right There",
@@ -3978,7 +3978,7 @@ window.detail = {
 		skill1type: "Sealing",
 		skill1speed: "Fastest",
 		skill1cost: "90",
-		skill1: "Deal 10x ATK damage to one enemy with a high chance to \"Bind\". Deal 4x damage to enemies under \"Bind\" state. [Bind: SPD -10%, SKill Damage -60%] (Max 40x)",
+		skill1: "Deal 10x ATK damage to one enemy with a high chance to \"Bind\". Deal 4x damage to enemies under \"Bind\" state. [Bind: SPD -10%, Skill Damage -60%] (Max 40x)",
 
 
 		skill2name: "Stop Right There",
@@ -5523,7 +5523,7 @@ window.detail = {
 		skill2: "Own ATK, DEF and SPD +80% and grant \"Lightning God Mode\".  Protect \"Naruto Uzumaki\", \"Sasuke Uchiha\" and \"Sakura Haruno\" while under \"Lightning God Mode\". [Lightning God Mode: Skill Damage +120% and Immune to single target skills to Kakashi and allies protected by Lightning God Mode. Does not protect from Fixed Damage]",
 
 		ability1name: "Renown for Bravery",
-		ability1: "Maximum HP +80%, reduce all incoming skill damage.  Chakra Cost -30% when HP is above 80%",
+		ability1: "Maximum HP +80%, reduce all incoming Skill damage.  Chakra Cost -30% when HP is above 80%",
 
 		ability2name: "Entrusted Mangekyo",
 		ability2: "Space-Time Skill Damage +100%, Reduce the chance of debuff and negative effect by half"
@@ -5549,7 +5549,7 @@ window.detail = {
 		skill2: "Own ATK, DEF and SPD +120% and grant \"Lightning God Mode\".  Protect \"Naruto Uzumaki\", \"Sasuke Uchiha\" and \"Sakura Haruno\" while under \"Lightning God Mode\". [Lightning God Mode: Skill Damage +150% and Immune to single target skills to Kakashi and allies protected by Lightning God Mode. Does not protect from Fixed Damage]",
 
 		ability1name: "Renown for Bravery",
-		ability1: "Maximum HP +120%, reduce all incoming skill damage by half.  Chakra Cost -50% when HP is above 50%",
+		ability1: "Maximum HP +120%, reduce all incoming Skill damage by half.  Chakra Cost -50% when HP is above 50%",
 
 		ability2name: "Entrusted Mangekyo",
 		ability2: "Space-Time Skill Damage +150%, Immune to debuff and negative effect"
@@ -6177,7 +6177,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Normal",
 		skill2cost: "80",
-		skill2: "Recover own HP by a large amount, reduce incoming skill damage and protect all her allies. Grant \"Love\" state to \"Naruto Uzumaki\" and \"Minato Namikaze\" [Love: ATK, SPD and Skill Damage +70%, and reduce incoming skill damage",
+		skill2: "Recover own HP by a large amount, reduce incoming Skill damage and protect all her allies. Grant \"Love\" state to \"Naruto Uzumaki\" and \"Minato Namikaze\" [Love: ATK, SPD and Skill Damage +70%, and reduce incoming Skill damage",
 
 		ability1name: "Pull",
 		ability1: "Skill Damage +100% when HP is above 80%",
@@ -6202,7 +6202,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "80",
-		skill2: "Recover own HP by a tremendous amount, reduce incoming skill damage by half and protect all her allies. Grant \"Love\" state to \"Naruto Uzumaki\" and \"Minato Namikaze\" [Love: ATK, SPD and Skill Damage +100%, and reduce incoming skill damage",
+		skill2: "Recover own HP by a tremendous amount, reduce incoming Skill damage by half and protect all her allies. Grant \"Love\" state to \"Naruto Uzumaki\" and \"Minato Namikaze\" [Love: ATK, SPD and Skill Damage +100%, and reduce incoming Skill damage",
 
 		ability1name: "Pull",
 		ability1: "Skill Damage +150% when HP is above 50%",
@@ -6727,7 +6727,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "70",
-		skill2: "Own SPD +100% and Chakra Cost becomes 0 and grant \"Previous Hokage\" state to ally \"Hashirama Senju\", \"Tobirama Senju\", \"Hiruzen Sarutobi\" and \"Minato Namikaze\" [Previous Hokage: ATK, SPD and Skill Damage +200%, reduce all incoming skill damage by half]",
+		skill2: "Own SPD +100% and Chakra Cost becomes 0 and grant \"Previous Hokage\" state to ally \"Hashirama Senju\", \"Tobirama Senju\", \"Hiruzen Sarutobi\" and \"Minato Namikaze\" [Previous Hokage: ATK, SPD and Skill Damage +200%, reduce all incoming Skill damage by half]",
 
 		ability1name: "Depressed Habit",
 		ability1: "Immune to negative effects, high chance to recover 40% Chakra after every action",
@@ -6752,7 +6752,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "70",
-		skill2: "Own SPD +100% and Chakra Cost becomes 0 and grant \"Previous Hokage\" state to ally \"Hashirama Senju\", \"Tobirama Senju\", \"Hiruzen Sarutobi\" and \"Minato Namikaze\" [Previous Hokage: ATK, SPD and Skill Damage +200%, reduce all incoming skill damage by half]",
+		skill2: "Own SPD +100% and Chakra Cost becomes 0 and grant \"Previous Hokage\" state to ally \"Hashirama Senju\", \"Tobirama Senju\", \"Hiruzen Sarutobi\" and \"Minato Namikaze\" [Previous Hokage: ATK, SPD and Skill Damage +200%, reduce all incoming Skill damage by half]",
 
 		ability1name: "Depressed Habit",
 		ability1: "Immune to negative effects, high chance to recover 40% Chakra after every action",
@@ -7077,7 +7077,7 @@ window.detail = {
 		skill2type: "Sharingan",
 		skill2speed: "Fast",
 		skill2cost: "70",
-		skill2: "Own ATK, DEF and SPD +120% and grant \"Yata Mirror\" state. [Yata Mirror: Immune to all skill damage except for fixed damage, Skill Damage +120%]",
+		skill2: "Own ATK, DEF and SPD +120% and grant \"Yata Mirror\" state. [Yata Mirror: Immune to all Skill damage except for fixed damage, Skill Damage +120%]",
 
 		ability1name: "Understanding of the Time of Death",
 		ability1: "Skill Damage +120%, chance to reduce HP by 15% after every action",
@@ -7102,7 +7102,7 @@ window.detail = {
 		skill2type: "Sharingan",
 		skill2speed: "Fast",
 		skill2cost: "70",
-		skill2: "Own ATK, DEF and SPD +120% and grant \"Yata Mirror\" state. [Yata Mirror: Immune to all skill damage except for fixed damage, Skill Damage +120%]",
+		skill2: "Own ATK, DEF and SPD +120% and grant \"Yata Mirror\" state. [Yata Mirror: Immune to all Skill damage except for fixed damage, Skill Damage +120%]",
 
 		ability1name: "Understanding of the Time of Death",
 		ability1: "Skill Damage +120%, chance to reduce HP by 15% after every action",
@@ -7283,7 +7283,7 @@ window.detail = {
 		ability1: "Maximum HP and Skill Damage +100%, chance to dodge skills",
 
 		ability2name: "Peeping Research",
-		ability2: "For 3 turns, all incoming skill damage are reduce by half and immune to negative status and debuff"
+		ability2: "For 3 turns, all incoming Skill damage are reduce by half and immune to negative status and debuff"
 	},
 
 	"629_6": {
@@ -7308,7 +7308,7 @@ window.detail = {
 		ability1: "Maximum HP and Skill Damage +100%, chance to dodge skills",
 
 		ability2name: "Peeping Research",
-		ability2: "For 3 turns, all incoming skill damage are reduce by half and immune to negative status and debuff"
+		ability2: "For 3 turns, all incoming Skill damage are reduce by half and immune to negative status and debuff"
 	},	
 
 	630: {
@@ -7677,7 +7677,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "80",
-		skill2: "Own ATK +200%, reduce all allies HP by 50%. All Akatsuki allies SKill Damage +200% and recover 60% HP",
+		skill2: "Own ATK +200%, reduce all allies HP by 50%. All Akatsuki allies Skill Damage +200% and recover 60% HP",
 
 		ability1name: "Power of Judgement",
 		ability1: "ATK and Skill Damage +200%",
@@ -7702,7 +7702,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "80",
-		skill2: "Own ATK +200%, reduce all allies HP by 50%. All Akatsuki allies SKill Damage +200% and recover 60% HP",
+		skill2: "Own ATK +200%, reduce all allies HP by 50%. All Akatsuki allies Skill Damage +200% and recover 60% HP",
 
 		ability1name: "Power of Judgement",
 		ability1: "ATK and Skill Damage +200%",
@@ -7927,7 +7927,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "60",
-		skill2: "Own DEF and SPD +100% and grant \"Hatred\" state. [Hatred: Reduce HP by 15% after every action, ATK and SKill Damage +450% after every action. (Max 1800%)]",
+		skill2: "Own DEF and SPD +100% and grant \"Hatred\" state. [Hatred: Reduce HP by 15% after every action, ATK and Skill Damage +450% after every action. (Max 1800%)]",
 
 		ability1name: "Ying-Yang Ninjutsu",
 		ability1: "For 10 turns, Skill Damage +100%, Cast Speed +1",
@@ -7952,7 +7952,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "60",
-		skill2: "Own DEF and SPD +100% and grant \"Hatred\" state. [Hatred: Reduce HP by 15% after every action, ATK and SKill Damage +450% after every action. (Max 1800%)]",
+		skill2: "Own DEF and SPD +100% and grant \"Hatred\" state. [Hatred: Reduce HP by 15% after every action, ATK and Skill Damage +450% after every action. (Max 1800%)]",
 
 		ability1name: "Ying-Yang Ninjutsu",
 		ability1: "For 10 turns, Skill Damage +100%, Cast Speed +1",
@@ -8512,6 +8512,56 @@ window.detail = {
 		ability2: "Maximum HP and ATK +100%"
 	},
 
+	658: {
+		leadname: "With a Fallen Comrade",
+		lead: "Konoha Characters ATK, DEF and SPD +50%" ,
+
+		skill1name: "Kamui Raikiri",
+		skill1ogname: "神威雷切",
+		skill1type: "Space-Time",
+		skill1speed: "Fast",
+		skill1cost: "100",
+		skill1: "Deal 50,000 fixed damage to one enemy and grant \"Kamui Mode\". Deal 5x damage while under \"Kamui Mode\". Deal 2x damage to None Characters. (Max 10x) [Kamui Mode: All allies are immune to single target Skills]",
+
+		skill2name: "Try This",
+		skill2ogname: "これならどうだ",
+		skill2type: "Unique",
+		skill2speed: "Fastest",
+		skill2cost: "60",
+		skill2: "Own Skill Damage +100% and recover all Konoha allies HP by 30% and recover a small amount of Chakra",
+
+		ability1name: "Dual Mangekyo Sharingan",
+		ability1: "Maximum Chakra +50, Maximum HP and Skill Damage +100%",
+
+		ability2name: "Team Seven's Final Strategy",
+		ability2: "DEF and SPD +25% for each Konoha ally (Max 125%)"
+	},
+
+	"658_6": {
+		leadname: "With a Fallen Comrade",
+		lead: "Konoha Characters ATK, DEF and SPD +50%" ,
+
+		skill1name: "Kamui Raikiri",
+		skill1ogname: "神威雷切",
+		skill1type: "Space-Time",
+		skill1speed: "Fast",
+		skill1cost: "100",
+		skill1: "Deal 50,000 fixed damage to one enemy and grant \"Kamui Mode\". Deal 5x damage while under \"Kamui Mode\". Deal 2x damage to None Characters. (Max 10x) [Kamui Mode: All allies are immune to single target Skills]",
+
+		skill2name: "Try This",
+		skill2ogname: "これならどうだ",
+		skill2type: "Unique",
+		skill2speed: "Fastest",
+		skill2cost: "60",
+		skill2: "Own Skill Damage +100% and recover all Konoha allies HP by 30% and recover a small amount of Chakra",
+
+		ability1name: "Dual Mangekyo Sharingan",
+		ability1: "Maximum Chakra +50, Maximum HP and Skill Damage +100%",
+
+		ability2name: "Team Seven's Final Strategy",
+		ability2: "DEF and SPD +25% for each Konoha ally (Max 125%)"
+	},
+
 	659: {
 		leadname: "Determined Decision",
 		lead: "Konoha Character Taijutsu Skill Damage +120%, DEF -50%" ,
@@ -8710,5 +8760,55 @@ window.detail = {
 
 		ability2name: "First New Year Appearance Shannaro",
 		ability2: "Maximum Chakra +50, ATK +100%"
+	},
+
+	663: {
+		leadname: "Insect Host",
+		lead: "Konoha Character Secret Skill Damage +50%" ,
+
+		skill1name: "Parasitic Insect Jutsu",
+		skill1ogname: "寄壊蟲の術",
+		skill1type: "Secret",
+		skill1speed: "Fast",
+		skill1cost: "50",
+		skill1: "Deal 7% + 5,000 to one enemy with a high chance to place the enemy under \"Usurp\" state. Deal 3x damage to enemies under \"Usurp\" state. [Usurp: Reduce enemy HP by 30% and Chakra by 30% after every action (Chakra reduction only works in PvP)]",
+
+		skill2name: "Because",
+		skill2ogname: "なぜなら",
+		skill2type: "Secret",
+		skill2speed: "Fastest",
+		skill2cost: "50",
+		skill2: "Own SPD and Skill Damage +100%, Chakra Cost -30%",
+
+		ability1name: "Wide Range Attack",
+		ability1: "ATK and Skill Damage +100%",
+
+		ability2name: "Aburame Secret Ninjutsu",
+		ability2: "Cast Speed +1 when HP is above 70%"
+	},
+
+	"663_6": {
+		leadname: "Insect Host",
+		lead: "Konoha Character Secret Skill Damage +50%" ,
+
+		skill1name: "Parasitic Insect Jutsu",
+		skill1ogname: "寄壊蟲の術",
+		skill1type: "Secret",
+		skill1speed: "Fast",
+		skill1cost: "50",
+		skill1: "Deal 7% + 5,000 to one enemy with a high chance to place the enemy under \"Usurp\" state. Deal 3x damage to enemies under \"Usurp\" state. [Usurp: Reduce enemy HP by 30% and Chakra by 30% after every action (Chakra reduction only works in PvP)]",
+
+		skill2name: "Because",
+		skill2ogname: "なぜなら",
+		skill2type: "Secret",
+		skill2speed: "Fastest",
+		skill2cost: "50",
+		skill2: "Own SPD and Skill Damage +100%, Chakra Cost -30%",
+
+		ability1name: "Wide Range Attack",
+		ability1: "ATK and Skill Damage +100%",
+
+		ability2name: "Aburame Secret Ninjutsu",
+		ability2: "Cast Speed +1 when HP is above 70%"
 	},
 }
