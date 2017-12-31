@@ -8621,7 +8621,7 @@ window.detail = {
 		skill1type: "Wind",
 		skill1speed: "Fast",
 		skill1cost: "90",
-		skill1: "Deal 3% + 9,000 to all enemies with a high chance to place the enemies under \"Surprise\" state. Deal 7x damage to enemies under \"Surprise\" state. [Surprise: ATK, DEF and SPD -50%, remove all buffs and debuffs]",
+		skill1: "Deal 3% + 9,000 to all enemies with a high chance to place the enemies under \"Deadlock\" state. Deal 7x damage to enemies under \"Deadlock\" state. [Surprise: ATK, and DEF -50%, remove all buffs and debuffs]",
 
 		skill2name: "Auspicious Day!!",
 		skill2ogname: "目出度い日だってばよ！",
@@ -8646,7 +8646,7 @@ window.detail = {
 		skill1type: "Wind",
 		skill1speed: "Fast",
 		skill1cost: "90",
-		skill1: "Deal 3% + 9,000 to all enemies with a high chance to place the enemies under \"Surprise\" state. Deal 7x damage to enemies under \"Surprise\" state. [Surprise: ATK, DEF and SPD -50%, remove all buffs and debuffs]",
+		skill1: "Deal 3% + 9,000 to all enemies with a high chance to place the enemies under \"Deadlock\" state. Deal 7x damage to enemies under \"Deadlock\" state. [Surprise: ATK, and DEF -50%, remove all buffs and debuffs]",
 
 		skill2name: "Auspicious Day!!",
 		skill2ogname: "目出度い日だってばよ！",
@@ -8688,27 +8688,27 @@ window.detail = {
 	},
 
 	"661_6": {
-		leadname: "Happy New Year ・ Snake 2018",
-		lead: "All Character SPD +20%, recover 18% HP after every action" ,
+		leadname: "Happy New Year ・ Toad 2018",
+		lead: "All Character ATK +20%, recover 18% HP after every action" ,
 
-		skill1name: "Happiness Massive Rasenshuriken",
-		skill1ogname: "謹賀・超大玉螺旋手裏剣",
-		skill1type: "Wind",
+		skill1name: "Happiness Susano'o Kagutsuchi",
+		skill1ogname: "謹賀・須佐能乎加具土命",
+		skill1type: "Inferno",
 		skill1speed: "Fast",
 		skill1cost: "90",
-		skill1: "Deal 3% + 9,000 to all enemies with a high chance to place the enemies under \"Surprise\" state. Deal 7x damage to enemies under \"Surprise\" state. [Surprise: ATK, DEF and SPD -50%, remove all buffs and debuffs]",
+		skill1: "Deal 3% + 9,000 to all enemies with a high chance to place the enemies under \"Jet Black\" state. Deal 7x damage to enemies under \"Jet Black\" state. [Surprise: Inflict damage every turn and chance to reduce ATK and SPD by 20% after every action]",
 
-		skill2name: "Auspicious Day!!",
-		skill2ogname: "目出度い日だってばよ！",
-		skill2type: "UNique",
+		skill2name: "Oh Well, Celebrate",
+		skill2ogname: "仕方ない…祝ってやる",
+		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "90",
-		skill2: "All allies SPD +100%, Cast Speed +1, and grant \"Gust\" state. [Gust: SPD and Skill Damage +100%]",
+		skill2: "All allies ATK +100%, grant a medium chance to dodge skills and \"Penetrate\" state. [Penetrate: Attacks ignore 20% DEF]",
 
-		ability1name: "New Year Gamaguchi",
+		ability1name: "Snake-Eye Mochi",
 		ability1: "Cast Speed +1 when HP is above 70%",
 
-		ability2name: "First New Year Appearance",
+		ability2name: "First New Year Appearance of the Stupid Person",
 		ability2: "Maximum Chakra +50, Skill Damage +100%"
 	},
 
