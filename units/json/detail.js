@@ -8068,7 +8068,7 @@ window.detail = {
 
 		skill1name: "Heavenly Planet Destruction",
 		skill1ogname: "天隕破星",
-		skill1type: "Rinnegan",
+		skill1type: "Six Paths",
 		skill1speed: "Fastest",
 		skill1cost: "70",
 		skill1: "Deal 3% + 10,000 to all enemies with a high chance to cancel action. Deal 5x damage to Five Village characters. Deal 2x damage to characters under \"Despair\" state.",
@@ -8093,7 +8093,7 @@ window.detail = {
 
 		skill1name: "Heavenly Planet Destruction",
 		skill1ogname: "天隕破星",
-		skill1type: "Rinnegan",
+		skill1type: "Six Paths",
 		skill1speed: "Fastest",
 		skill1cost: "70",
 		skill1: "Deal 3% + 10,000 to all enemies with a high chance to cancel action. Deal 5x damage to Five Village characters. Deal 2x damage to characters under \"Despair\" state.",
