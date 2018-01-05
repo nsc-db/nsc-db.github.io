@@ -7020,7 +7020,7 @@ window.detail = {
 		skill1type: "Thunder",
 		skill1speed: "Normal",
 		skill1cost: "0",
-		skill1: "Deal 7% + 100 to one enemy and consume all chakra.  Deal more damage the more chakra consumed (10x per 100). Remove \"Thunder Beckon\" state to all allies",
+		skill1: "Deal 7% + 100 to one enemy and consume all chakra.  Deal more damage the more chakra consumed (10x per 100). Chance to remove \"Thunder Beckon\" state to all allies",
 
 		skill2name: "Now Then... It's Time to Turn My Vision From before Into Reality",
 		skill2ogname: "さて…希望通り…再現しよう",
@@ -7045,7 +7045,7 @@ window.detail = {
 		skill1type: "Thunder",
 		skill1speed: "Normal",
 		skill1cost: "0",
-		skill1: "Deal 7% + 100 to one enemy and consume all chakra.  Deal more damage the more chakra consumed (10x per 100). Remove \"Thunder Beckon\" state to all allies",
+		skill1: "Deal 7% + 100 to one enemy and consume all chakra.  Deal more damage the more chakra consumed (10x per 100). Chance to remove \"Thunder Beckon\" state to all allies",
 
 		skill2name: "Now Then... It's Time to Turn My Vision From before Into Reality",
 		skill2ogname: "さて…希望通り…再現しよう",
@@ -8810,5 +8810,105 @@ window.detail = {
 
 		ability2name: "Aburame Secret Ninjutsu",
 		ability2: "Cast Speed +1 when HP is above 70%"
+	},
+
+	664: {
+		leadname: "Sacred Domain",
+		lead: "Akatsuki Characters ATK and SPD +50%" ,
+
+		skill1name: "Almighty Push",
+		skill1ogname: "神羅天征",
+		skill1type: "Rinnegan",
+		skill1speed: "Fast",
+		skill1cost: "100",
+		skill1: "Deal 3% + 10,000 to all enemies doing more damage the less enemies alive. Maximum 10x against 1 enemy, minimum 2x when 5 enemies are alive. High chance to cancel action",
+
+		skill2name: "Repulsive Affinity",
+		skill2ogname: "引力と斥力",
+		skill2type: "Rinnegan",
+		skill2speed: "Normal",
+		skill2cost: "150",
+		skill2: "Own Skill Damage +100%. Cast Speed +3 if you have an \"Akatsuki\" ally. For 1 turn, all \"Akatsuki\" allies SPD +1000%.  High chance to cancel all enemies action",
+
+		ability1name: "Heavenly Power",
+		ability1: "Maximum Chakra +100",
+
+		ability2name: "Repulsive Management",
+		ability2: "ATK and Skill Damage +120% when Chakra is above 60%"
+	},
+
+	"664_6": {
+			leadname: "Sacred Domain",
+		lead: "Akatsuki Characters ATK and SPD +50%" ,
+
+		skill1name: "Almighty Push",
+		skill1ogname: "神羅天征",
+		skill1type: "Rinnegan",
+		skill1speed: "Fast",
+		skill1cost: "100",
+		skill1: "Deal 3% + 10,000 to all enemies doing more damage the less enemies alive. Maximum 10x against 1 enemy, minimum 2x when 5 enemies are alive. High chance to cancel action",
+
+		skill2name: "Repulsive Affinity",
+		skill2ogname: "引力と斥力",
+		skill2type: "Rinnegan",
+		skill2speed: "Normal",
+		skill2cost: "150",
+		skill2: "Own Skill Damage +100%. Cast Speed +3 if you have an \"Akatsuki\" ally. For 1 turn, all \"Akatsuki\" allies SPD +1000%.  High chance to cancel all enemies action",
+
+		ability1name: "Heavenly Power",
+		ability1: "Maximum Chakra +100",
+
+		ability2name: "Repulsive Management",
+		ability2: "ATK and Skill Damage +120% when Chakra is above 60%"
+	},
+
+	665: {
+		leadname: "New Power",
+		lead: "Konoha Characters Sage Skill Damage +100%, DEF -50%" ,
+
+		skill1name: "Frog Kumite",
+		skill1ogname: "蛙組手",
+		skill1type: "Sage",
+		skill1speed: "Fast",
+		skill1cost: "60",
+		skill1: "Deal 7x ATK damage to one enemy ignoring 20% DEF. Deal 5x damage to Akatsuki characters. Chance to cancel action",
+
+		skill2name: "One with Nature",
+		skill2ogname: "自然と一体になる",
+		skill2type: "Sage",
+		skill2speed: "Fast",
+		skill2cost: "80",
+		skill2: "Own ATK +200% and Cast Speed +1. DEF -90%",
+
+		ability1name: "Natural Agreement",
+		ability1: "For 5 turns, ATK +100%",
+
+		ability2name: "Surpassing Sensei's Sage Power",
+		ability2: "ATK +50%, chance to dodge skills"
+	},
+
+	"665_6": {
+		leadname: "New Power",
+		lead: "Konoha Characters Sage Skill Damage +100%, DEF -50%" ,
+
+		skill1name: "Frog Kumite",
+		skill1ogname: "蛙組手",
+		skill1type: "Sage",
+		skill1speed: "Fast",
+		skill1cost: "50",
+		skill1: "Deal 10x ATK damage to one enemy ignoring 30% DEF. Deal 7x damage to Akatsuki characters. Chance to cancel action",
+
+		skill2name: "One with Nature",
+		skill2ogname: "自然と一体になる",
+		skill2type: "Sage",
+		skill2speed: "Fastest",
+		skill2cost: "70",
+		skill2: "Own ATK +300% and Cast Speed +1. DEF -90%",
+
+		ability1name: "Natural Agreement",
+		ability1: "For 5 turns, ATK +200%",
+
+		ability2name: "Surpassing Sensei's Sage Power",
+		ability2: "ATK +100%, high chance to dodge skills"
 	},
 }
