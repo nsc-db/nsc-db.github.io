@@ -1,10 +1,13 @@
 import subprocess
 import os
 
+dir="files"
+
+print os.listdir(dir)
 subprocess.call("test.sh", shell=True)
-for filename in os.listdir('files'):
-	sourceEncoding = "ascii"
-	targetEncoding = "utf-8"
-	source = open(filename)
-	target = open(filename + ".json", "w")
-	target.write(unicode(source.read(), sourceEncoding).encode(targetEncoding))
+for filename in os.chdir("files"):
+	with open(filename) as f:
+		lines = f.readlines()
+    	lines = [l for l in lines if "ROW" in l]
+    	with open(filename + ".json", "w") as f1:
+       		f1.writelines(linesencode("utf-8"))
