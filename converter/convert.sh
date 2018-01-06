@@ -1,5 +1,4 @@
 cd files
-rm -rf *save.plist
 rm -rf *.json
 
 for file in *
@@ -11,6 +10,5 @@ do
     echo $file
 
 done
-# rm -rf *.plist
 
 echo "done"
