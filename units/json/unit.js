@@ -362,8 +362,8 @@ window.unit=[
  [662, "Sakura Haruno, Happy New Year ・ Slug 2018", "Heart", "Konoha", 6, 40, 24083, 25853, 27250, 199, 18, 02, 150, 93, 1],
  [663, "Shino Aburame, Insect Host", "Body", "Konoha", 5, 32, 12184, 15401, 12504, 158, 14, 12, 146, 80, 0],
  [663, "Shino Aburame, Insect Host", "Body", "Konoha", 6, 32, 12184, 15401, 12504, 158, 14, 12, 146, 80, 1],
- [664, "Pain, Sacred Domain", "Courage", "Akatsuki", 6, 40, 24810, 30718, 24566, 230, 17, 16, 163, 96, 0],
- [664, "Pain, Sacred Domain", "Courage", "Akatsuki", 6, 40, 24810, 30718, 24566, 230, 17, 16, 163, 96, 1],
+ [664, "Pain, Sacred Domain", "Courage", "Akatsuki", 6, 40, 24810, 30718, 24566, 230, 17, 16, 163, 88, 0],
+ [664, "Pain, Sacred Domain", "Courage", "Akatsuki", 6, 40, 24810, 30718, 24566, 230, 17, 16, 163, 88, 1],
  [665, "Naruto Uzumaki, New Power", "Body", "Konoha", 6, 32, 11865, 15397, 10741, 165, 15, 15, 159, 87, 0],
  [665, "Naruto Uzumaki, New Power", "Body", "Konoha", 6, 32, 11865, 15397, 10741, 165, 15, 15, 159, 87, 1],
 ]
