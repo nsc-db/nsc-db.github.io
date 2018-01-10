@@ -8828,7 +8828,7 @@ window.detail = {
 		skill2type: "Rinnegan",
 		skill2speed: "Normal",
 		skill2cost: "150",
-		skill2: "Own Skill Damage +100%. Cast Speed +3 if you have an \"Akatsuki\" ally. For 1 turn, all \"Akatsuki\" allies SPD +1000%.  High chance to cancel all enemies action",
+		skill2: "Own Skill Damage +100%. Cast Speed +3 if you have an \"Akatsuki\" ally. For 1 turn, all \"Akatsuki\" allies SPD +1000%.  Chance to cancel all enemies action",
 
 		ability1name: "Heavenly Power",
 		ability1: "Maximum Chakra +100",
@@ -8853,7 +8853,7 @@ window.detail = {
 		skill2type: "Rinnegan",
 		skill2speed: "Normal",
 		skill2cost: "150",
-		skill2: "Own Skill Damage +100%. Cast Speed +3 if you have an \"Akatsuki\" ally. For 1 turn, all \"Akatsuki\" allies SPD +1000%.  High chance to cancel all enemies action",
+		skill2: "Own Skill Damage +100%. Cast Speed +3 if you have an \"Akatsuki\" ally. For 1 turn, all \"Akatsuki\" allies SPD +1000%.  Chance to cancel all enemies action",
 
 		ability1name: "Heavenly Power",
 		ability1: "Maximum Chakra +100",
