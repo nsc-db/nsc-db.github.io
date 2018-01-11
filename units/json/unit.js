@@ -366,4 +366,6 @@ window.unit=[
  [664, "Pain, Sacred Domain", "Courage", "Akatsuki", 6, 40, 24810, 30718, 24566, 230, 17, 16, 163, 88, 1],
  [665, "Naruto Uzumaki, New Power", "Body", "Konoha", 6, 32, 11865, 15397, 10741, 165, 15, 15, 159, 87, 0],
  [665, "Naruto Uzumaki, New Power", "Body", "Konoha", 6, 32, 11865, 15397, 10741, 165, 15, 15, 159, 87, 1],
+ [666, "Naruto Uzumaki, Heart Engulfed with Anger", "Intellect", "Konoha", 6, 40, 25000, 40000, 20000, 250, 150, 12, 12, 0, 0],
+ [666, "Naruto Uzumaki, Heart Engulfed with Anger", "Intellect", "Konoha", 6, 40, 25000, 40000, 20000, 250, 150, 12, 12, 0, 1],
 ]

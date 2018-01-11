@@ -8911,4 +8911,54 @@ window.detail = {
 		ability2name: "Surpassing Sensei's Sage Power",
 		ability2: "ATK +100%, high chance to dodge skills"
 	},
+
+	666: {
+		leadname: "Heart Engulfed with Anger",
+		lead: "Konoha Character Tailed Beast Skill Damage +30% and they are immune to seal" ,
+
+		skill1name: "Tailed Beast Bomb",
+		skill1ogname: "尾獣玉",
+		skill1type: "Tailed Beast",
+		skill1speed: "Fast",
+		skill1cost: "150",
+		skill1: "Deal 20x ATK damage to all enemies ignoring 20% DEF. Deal 2x damage to Five Village Characters",
+
+		skill2name: "Roar!!!",
+		skill2ogname: "ギァア゛ア゛ア゛ゥ！！",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "90",
+		skill2: "Own ATK +100% and grant \"Hatred\" state with a chance to grant \"Anger\" state. [Hatred: Reduce HP by 15% after every action, ATK and Skill Damage +300% after every action (Max 1200%)] [Anger: Cast Speed -1 and ATK +200%]",
+
+		ability1name: "Sixth Tail",
+		ability1: "Maximum Chakra +200. When HP reach 0, revive once",
+
+		ability2name: "Power of Anger",
+		ability2: "ATK +100% and Cast Speed +1 when Chakra is above 70%"
+	},
+
+	"666_6": {
+		leadname: "Heart Engulfed with Anger",
+		lead: "Konoha Character Tailed Beast Skill Damage +30% and they are immune to seal" ,
+
+		skill1name: "Tailed Beast Bomb",
+		skill1ogname: "尾獣玉",
+		skill1type: "Tailed Beast",
+		skill1speed: "Fast",
+		skill1cost: "150",
+		skill1: "Deal 20x ATK damage to all enemies ignoring 20% DEF. Deal 2x damage to Five Village Characters",
+
+		skill2name: "Roar!!!",
+		skill2ogname: "ギァア゛ア゛ア゛ゥ！！",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "90",
+		skill2: "Own ATK +100% and grant \"Hatred\" state with a chance to grant \"Anger\" state. [Hatred: Reduce HP by 15% after every action, ATK and Skill Damage +300% after every action (Max 1200%)] [Anger: Cast Speed -1 and ATK +200%]",
+
+		ability1name: "Sixth Tail",
+		ability1: "Maximum Chakra +200. When HP reach 0, revive once",
+
+		ability2name: "Power of Anger",
+		ability2: "ATK +100% and Cast Speed +1 when Chakra is above 70%"
+	},
 }

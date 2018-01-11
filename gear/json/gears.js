@@ -358,7 +358,8 @@ window.gear=[
 [4195, "Hinata's Family Crest", "Additional", "Recover 10% Chakra after every action", "Maximum HP +100%, ATK, DEF and SPD +70%", "Hinata"],
 [8015, "Pain's Black Rod", "Additional", "Maximum Chakra +10", "Maximum Chakra +60 and ATK +100%", "Pain"],
 [8025, "Pain's Forehead Protector", "Chakra", "Chakra Cost -10%", "Chakra Cost -50%, SPD and Skill Damage +50%", "Pain"], 
-
+[8035, "Crushed Necklace", "Chakra", "Chakra Cost -10%", "Chakra Cost -50%, ATK and Skill Damage +50%", "Six Tail Naruto"],
+[8045, "Materialized Bones", "Additional", "Maximum HP and ATK +20%", "Maximum HP, ATK and Tailed Beast Skill Damage +100%", "Six Tail Naruto"], 
 
 
 
