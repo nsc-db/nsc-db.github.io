@@ -8921,7 +8921,7 @@ window.detail = {
 		skill1type: "Tailed Beast",
 		skill1speed: "Fast",
 		skill1cost: "150",
-		skill1: "Deal 20x ATK damage to all enemies ignoring 20% DEF. Deal 2x damage to Five Village Characters",
+		skill1: "Deal 20x ATK damage to all enemies ignoring 30% DEF. Deal 2x damage to Five Village Characters",
 
 		skill2name: "Roar!!!",
 		skill2ogname: "ギァア゛ア゛ア゛ゥ！！",
@@ -8946,7 +8946,7 @@ window.detail = {
 		skill1type: "Tailed Beast",
 		skill1speed: "Fast",
 		skill1cost: "150",
-		skill1: "Deal 20x ATK damage to all enemies ignoring 20% DEF. Deal 2x damage to Five Village Characters",
+		skill1: "Deal 20x ATK damage to all enemies ignoring 30% DEF. Deal 2x damage to Five Village Characters",
 
 		skill2name: "Roar!!!",
 		skill2ogname: "ギァア゛ア゛ア゛ゥ！！",
