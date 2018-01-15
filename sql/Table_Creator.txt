@@ -74,3 +74,5 @@ CREATE TABLE gear(
 
 INSERT INTO unit VALUES(666, 20040109, 106, 1725, 1726, 2227, 2228, 661, "怒りに飲まれた心", "Heart Engulfed with Anger", 6, "Konoha", 40, 22033, 40219, 19885, 229, 17, 17, 163, 96)
 
+DELETE FROM unit
+WHERE charid = 666
