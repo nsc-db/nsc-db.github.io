@@ -360,8 +360,8 @@ window.gear=[
 [8025, "Pain's Forehead Protector", "Chakra", "Chakra Cost -10%", "Chakra Cost -50%, SPD and Skill Damage +50%", "Pain"], 
 [8035, "Crushed Necklace", "Chakra", "Chakra Cost -10%", "Chakra Cost -50%, ATK and Skill Damage +50%", "Six Tail Naruto"],
 [8045, "Materialized Bones", "Additional", "Maximum HP and ATK +20%", "Maximum HP, ATK and Tailed Beast Skill Damage +100%", "Six Tail Naruto"], 
-
-
+[8075, "Tailed Beast Right Half", "Additional", "ATK and SPD +20%, Tailed Beast Skill Damage +30%", "ATK +100%, SPD and Skill Damage +50%", "Half Bijuu Gaara"],
+[8085, "Gaara's Clothes", "Stats", "Maximum HP, ATK and DEF +30%", "Maximum HP, ATK and DEF +100%", "Pre Shippuden Gaara"],
 
 
 

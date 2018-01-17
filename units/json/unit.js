@@ -368,4 +368,6 @@ window.unit=[
  [665, "Naruto Uzumaki, New Power", "Body", "Konoha", 6, 32, 11865, 15397, 10741, 165, 15, 15, 159, 87, 1],
  [666, "Naruto Uzumaki, Heart Engulfed with Anger", "Intellect", "Konoha", 6, 40, 22033, 40219, 19885, 229, 17, 17, 163, 96, 0],
  [666, "Naruto Uzumaki, Heart Engulfed with Anger", "Intellect", "Konoha", 6, 40, 22033, 40219, 19885, 229, 17, 17, 163, 96, 1],
+ [667, "Gaara, Sandstorm Maddness", "Heart", "Suna", 6, 50, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+ [667, "Gaara, Sandstorm Maddness", "Heart", "Suna", 6, 50, 0, 0, 0, 0, 0, 0, 0, 0, 1],
 ]

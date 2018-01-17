@@ -8961,4 +8961,54 @@ window.detail = {
 		ability2name: "Power of Anger",
 		ability2: "ATK +100% and Cast Speed +1 when Chakra is above 70%"
 	},
+
+	667: {
+		leadname: "Sandstorm Madness",
+		lead: "Heart Characters ATK +150%" ,
+
+		skill1name: "Possessed Claw Dance",
+		skill1ogname: "狂爪乱舞",
+		skill1type: "Tailed Beast",
+		skill1speed: "Fast",
+		skill1cost: "40",
+		skill1: "Deal 20x ATK damage to one enemy ignoring 40% DEF with a high chance to place the enemy under \"Bleed\" state. This ability can crit dealing 4x damage. [Bleed: Continues to lose HP, with a chance to lower DEF]",
+
+		skill2name: "Hahaha.... Even More",
+		skill2ogname: "ハハハァ…もっともっとだ！",
+		skill2type: "Unique",
+		skill2speed: "Fastest",
+		skill2cost: "0",
+		skill2: "Own ATK +100% and grant \"Solitude\" and \"Love\" state [Solitude: Skill Damage +100%, Immune to Negative Effects] [Love: ATK, SPD and Skill Damage +100%, reduce incoming Skill Damage by half]",
+
+		ability1name: "Will of Sand",
+		ability1: "ATK and DEF +100%, high chacne to dodge skills",
+
+		ability2name: "Inexperience Emotions",
+		ability2: "Chakra +30, recover 20% HP after every action"
+	},
+
+	"667_6": {
+		leadname: "Sandstorm Madness",
+		lead: "Heart Characters ATK +150%" ,
+
+		skill1name: "Possessed Claw Dance",
+		skill1ogname: "狂爪乱舞",
+		skill1type: "Tailed Beast",
+		skill1speed: "Fast",
+		skill1cost: "40",
+		skill1: "Deal 20x ATK damage to one enemy ignoring 40% DEF with a high chance to place the enemy under \"Bleed\" state. This ability can crit dealing 4x damage. [Bleed: Continues to lose HP, with a chance to lower DEF]",
+
+		skill2name: "Hahaha.... Even More",
+		skill2ogname: "ハハハァ…もっともっとだ！",
+		skill2type: "Unique",
+		skill2speed: "Fastest",
+		skill2cost: "0",
+		skill2: "Own ATK +100% and grant \"Solitude\" and \"Love\" state [Solitude: Skill Damage +100%, Immune to Negative Effects] [Love: ATK, SPD and Skill Damage +100%, reduce incoming Skill Damage by half]",
+
+		ability1name: "Will of Sand",
+		ability1: "ATK and DEF +100%, high chacne to dodge skills",
+
+		ability2name: "Inexperience Emotions",
+		ability2: "Chakra +30, recover 20% HP after every action"
+	},
 }
