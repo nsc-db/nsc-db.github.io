@@ -281,7 +281,7 @@ window.detail = {
 		skill1name: "Sage Style: Gate of the Great God",
 		skill1ogname: "仙法・明神門",
 		skill1type: "Sage",
-		skill1speed: "Slow",
+		skill1speed: "Fast",
 		skill1cost: "70",
 		skill1: "Deal 3% + 12,000 to all enemies and place the enemies under \"Gate of the Great God\" state. [Gate of the Great God: Gate of the Great God stacks doing different effect based on the number of stacks. [1] Skill Damage -20%, [2] Skill Damage -20%, SPD -30% [3] Cancel enemies action]",
 
@@ -2312,7 +2312,7 @@ window.detail = {
 		skill1type: "Rinne Sharingan",
 		skill1speed: "Fastest",
 		skill1cost: "70",
-		skill1: "Deal 7% + 4,500 to one enemy and own SPD +1000%.  Deal 6x more damage while under \"Connected\" state. Deal 1.5x more damage if there's an ally \"Sasuke Uchiha (Hiden/Shinden)\", \"Sakura Haruno (Hiden/Shinden)\", and/or \"Kakashi Hatake (Hiden/Shinden).\" (Max 9x)",
+		skill1: "Deal 7% + 4,500 to one enemy and own SPD +1000%.  Deal 6x more damage while under \"Connected\" state. Deal 1.5x more damage if there's an ally \"Naruto Uzumaki (Hiden/Shinden)\", \"Sakura Haruno (Hiden/Shinden)\", and/or \"Kakashi Hatake (Hiden/Shinden).\" (Max 9x)",
 
 
 		skill2name: "... I Will Discharge Everything",
@@ -2970,7 +2970,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Normal",
 		skill2cost: "80",
-		skill2: "Own Skill Damage +500, Chakra Recovery +30% when guarding",
+		skill2: "Own Skill Damage +500%, Chakra Recovery +30% when guarding",
 
 		ability1name: "Unshakeable Nindo",
 		ability1: "Maximum HP +100%. Reduce incoming Rinne Sharingan Skill Damage",
@@ -2994,9 +2994,9 @@ window.detail = {
 		skill2name: "I Won't Leave You Alone",
 		skill2ogname: "一人になんてさせるかよ！",
 		skill2type: "Unique",
-		skill2speed: "Fast",
+		skill2speed: "Fastest",
 		skill2cost: "70",
-		skill2: "Own Skill Damage +1000, Chakra Recovery +30% when guarding",
+		skill2: "Own Skill Damage +1100%, Chakra Recovery +30% when guarding",
 
 		ability1name: "Unshakeable Nindo",
 		ability1: "Maximum HP +120%. Reduce incoming Rinne Sharingan Skill Damage",
@@ -3022,7 +3022,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Normal",
 		skill2cost: "80",
-		skill2: "Own Skill Damage +500, Chakra Recovery +30% when guarding",
+		skill2: "Own Skill Damage +500%, Chakra Recovery +30% when guarding",
 
 		ability1name: "Exhausting Tempering Will",
 		ability1: "Maximum HP +100%. Reduce incoming Six Paths Skill Damage",
@@ -3046,9 +3046,9 @@ window.detail = {
 		skill2name: "All that Hate",
 		skill2ogname: "憎しみは全てオレ一人に…！",
 		skill2type: "Unique",
-		skill2speed: "Fast",
+		skill2speed: "Fastest",
 		skill2cost: "70",
-		skill2: "Own Skill Damage +1000, Chakra Recovery +30% when guarding",
+		skill2: "Own Skill Damage +1100%, Chakra Recovery +30% when guarding",
 
 		ability1name: "Exhausting Tempering Will",
 		ability1: "Maximum HP +120%. Reduce incoming Six Paths Skill Damage",
@@ -5827,7 +5827,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "80",
-		skill2: "Own ATK, DEF and SPD +100%, Cast Speed +1 and remove all debuff. Grant \"Duel\" state [Duel: Own Skill Damage increase based on how many ally are alive.  +20% per ally.  Max 100%]",
+		skill2: "Own ATK, DEF and SPD +100%, Cast Speed +2 and remove all debuff. Grant \"Duel\" state [Duel: Own Skill Damage increase based on how many ally are alive.  +40% per ally.  Max 200%]",
 
 		ability1name: "Awakening Rinnegan",
 		ability1: "Maximum HP and Skill Damage +80%",
@@ -6077,7 +6077,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "60",
-		skill2: "Own ATK, SPD and Skill Dmaage +100%, Cast Speed +1",
+		skill2: "Own ATK, SPD and Skill Damage +100%, Cast Speed +1",
 
 		ability1name: "Lost Heart",
 		ability1: "SPD +50%, For 1 turn, Chakra Cost is 0 and Cast Speed +1",
@@ -6102,7 +6102,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "50",
-		skill2: "Own ATK, SPD and Skill Dmaage +200%, Cast Speed +2",
+		skill2: "Own ATK, SPD and Skill Damage +200%, Cast Speed +2",
 
 		ability1name: "Lost Heart",
 		ability1: "SPD +100%, For 1 turn, Chakra Cost is 0 and Cast Speed +2",
@@ -6920,7 +6920,7 @@ window.detail = {
 		skill1type: "Wood",
 		skill1speed: "Fast",
 		skill1cost: "120",
-		skill1: "Deal 3% + 120,000 to all enemies, with a high chance to place all the enemies under \"Flower Tree\" state, deal more damage the more HP Hashirama has (Maximmum 10x at full health).  This Skill ignore resistance to enemies under \"Flower Tree\" state and skip their action. [Flower Tree: Reduce HP every turn (Max 60%) and gradually lower ATK and DEF]",
+		skill1: "Deal 3% + 12,000 to all enemies, with a high chance to place all the enemies under \"Flower Tree\" state, deal more damage the more HP Hashirama has (Maximmum 10x at full health).  This Skill ignore resistance to enemies under \"Flower Tree\" state and skip their action. [Flower Tree: Reduce HP every turn (Max 60%) and gradually lower ATK and DEF]",
 
 		skill2name: "Alright, Let's Finish This",
 		skill2ogname: "もう…終わりにしようぞ",
@@ -6945,7 +6945,7 @@ window.detail = {
 		skill1type: "Wood",
 		skill1speed: "Fast",
 		skill1cost: "120",
-		skill1: "Deal 3% + 120,000 to all enemies, with a high chance to place all the enemies under \"Flower Tree\" state, deal more damage the more HP Hashirama has (Maximmum 10x at full health).  This Skill ignore resistance to enemies under \"Flower Tree\" state and skip their action. [Flower Tree: Reduce HP every turn (Max 60%) and gradually lower ATK and DEF]",
+		skill1: "Deal 3% + 12,000 to all enemies, with a high chance to place all the enemies under \"Flower Tree\" state, deal more damage the more HP Hashirama has (Maximmum 10x at full health).  This Skill ignore resistance to enemies under \"Flower Tree\" state and skip their action. [Flower Tree: Reduce HP every turn (Max 60%) and gradually lower ATK and DEF]",
 
 		skill2name: "Alright, Let's Finish This",
 		skill2ogname: "もう…終わりにしようぞ",
