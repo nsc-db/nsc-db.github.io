@@ -9011,4 +9011,54 @@ window.detail = {
 		ability2name: "Inexperience Emotions",
 		ability2: "Chakra +30, recover 20% HP after every action"
 	},
+
+	668: {
+		leadname: "Sandstorm Madness",
+		lead: "Courage Characters ATK +80%" ,
+
+		skill1name: "God of Purple Flames",
+		skill1ogname: "紫焔ノ鬼神",
+		skill1type: "Sharingan",
+		skill1speed: "Fast",
+		skill1cost: "100",
+		skill1: "Deal 7% + 10,000 to one enemy. Deal 5x more damage while under \"Solitude\" state. Deal 10x more damage to EX and PvP Reward Characters. (Max 50x).  If the enemy is a PvP Reward, deal 2 additional attack (Note: If the enemy revives and one of the 3 attacks kills, their revive activates and will still get it by the additional hits) [Always Hit]",
+
+		skill2name: "Unecessary Love",
+		skill2ogname: "愛など必要ない！",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "80",
+		skill2: "Own ATK, DEF and SPD +100% and grant \"Solitude\" state and remove all \"Love\" state to all allies [Solitude: Skill Damage +100%,  immune to negative effects]",
+
+		ability1name: "Evolved Tomoe",
+		ability1: "Maximum Chakra +100, recover 20% Chakra after every action",
+
+		ability2name: "Order because of Power",
+		ability2: "Skill Damage +150%. Cast Speed +1 when HP is above 70%"
+	},
+
+	"668_6": {
+		leadname: "Sandstorm Madness",
+		lead: "Courage Characters ATK +80%" ,
+
+		skill1name: "God of Purple Flames",
+		skill1ogname: "紫焔ノ鬼神",
+		skill1type: "Sharingan",
+		skill1speed: "Fast",
+		skill1cost: "100",
+		skill1: "Deal 7% + 10,000 to one enemy. Deal 5x more damage while under \"Solitude\" state. Deal 10x more damage to EX and PvP Reward Characters. (Max 50x).  If the enemy is a PvP Reward, deal 2 additional attack (Note: If the enemy revives and one of the 3 attacks kills, their revive activates and will still get it by the additional hits) [Always Hit]",
+
+		skill2name: "Unecessary Love",
+		skill2ogname: "愛など必要ない！",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "80",
+		skill2: "Own ATK, DEF and SPD +100% and grant \"Solitude\" state and remove all \"Love\" state to all allies [Solitude: Skill Damage +100%,  immune to negative effects]",
+
+		ability1name: "Evolved Tomoe",
+		ability1: "Maximum Chakra +100, recover 20% Chakra after every action",
+
+		ability2name: "Order because of Power",
+		ability2: "Skill Damage +150%. Cast Speed +1 when HP is above 70%"
+	},
 }
