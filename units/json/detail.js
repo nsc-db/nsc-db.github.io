@@ -8521,7 +8521,7 @@ window.detail = {
 		skill1type: "Space-Time",
 		skill1speed: "Fast",
 		skill1cost: "100",
-		skill1: "Deal 50,000 fixed damage to one enemy and grant \"Kamui Mode\". Deal 5x more damage while under \"Kamui Mode\". Deal 2x more damage to None Characters. (Max 10x) [Kamui Mode: All allies are immune to single target Skills. NOTE: DOES NOT BLOCK FIXED DAMAGE DONT LISTEN TO UNEDUCATED MORONS]",
+		skill1: "Deal 50,000 fixed damage to one enemy and grant \"Kamui Mode\". Deal 5x more damage while under \"Kamui Mode\". Deal 2x more damage to None Characters. (Max 10x) [Kamui Mode: All allies are immune to single target Skills. NOTE: DOES NOT BLOCK FIXED DAMAGE DONT LISTEN TO UNEDUCATED MORONS. 耐性無視攻撃は無効化不可 WHICH IS WRITTEN RIGHT IN KAKASHI'S SKILL, MEANS YOUR BITCH ASS WILL GET SMACKED BY FIXED DAMAGE. YOU SHOULD SHUT THE FUCK UP AND LEARN JAPANESE INSTEAD OF CONVEYING FALSE INFORMATION]",
 
 		skill2name: "Try This",
 		skill2ogname: "これならどうだ",
@@ -8546,7 +8546,7 @@ window.detail = {
 		skill1type: "Space-Time",
 		skill1speed: "Fast",
 		skill1cost: "100",
-		skill1: "Deal 50,000 fixed damage to one enemy and grant \"Kamui Mode\". Deal 5x more damage while under \"Kamui Mode\". Deal 2x more damage to None Characters. (Max 10x) [Kamui Mode: All allies are immune to single target Skills. NOTE: DOES NOT BLOCK FIXED DAMAGE DONT LISTEN TO UNEDUCATED MORONS]",
+		skill1: "Deal 50,000 fixed damage to one enemy and grant \"Kamui Mode\". Deal 5x more damage while under \"Kamui Mode\". Deal 2x more damage to None Characters. (Max 10x) [Kamui Mode: All allies are immune to single target Skills. NOTE: DOES NOT BLOCK FIXED DAMAGE DONT LISTEN TO UNEDUCATED MORONS. 耐性無視攻撃は無効化不可 WHICH IS WRITTEN RIGHT IN KAKASHI'S SKILL, MEANS YOUR BITCH ASS WILL GET SMACKED BY FIXED DAMAGE. YOU SHOULD SHUT THE FUCK UP AND LEARN JAPANESE INSTEAD OF CONVEYING FALSE INFORMATION]",
 
 		skill2name: "Try This",
 		skill2ogname: "これならどうだ",
