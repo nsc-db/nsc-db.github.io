@@ -370,6 +370,10 @@ window.unit=[
  [666, "Naruto Uzumaki, Heart Engulfed with Anger", "Intellect", "Konoha", 6, 40, 22033, 40219, 19885, 229, 17, 17, 163, 93, 1],
  [667, "Gaara, Sandstorm Maddness", "Heart", "Suna", 6, 50, 35120, 35879, 30295, 245, 21, 17, 155, 86, 0],
  [667, "Gaara, Sandstorm Maddness", "Heart", "Suna", 6, 50, 35120, 35879, 30295, 245, 21, 17, 155, 86, 1],
- [668, "Indra Otsutsuki, Own Carnage", "Courage", "None", 6, 40, 23152, 37111, 21609, 219, 17, 18, 163, 90, 0],
- [668, "Indra Otsutsuki, Own Carnage", "Courage", "None", 6, 40, 23152, 37111, 21609, 219, 17, 18, 163, 90, 1],
+ [668, "Indra Otsutsuki, Own Carnage", "Courage", "None", 6, 40, 23152, 37111, 21609, 219, 17, 18, 163, 94, 0],
+ [668, "Indra Otsutsuki, Own Carnage", "Courage", "None", 6, 40, 23152, 37111, 21609, 219, 17, 18, 163, 94, 1],
+ [669, "Itachi Uchiha, Shura's Black Crow", "Technique", "Akatsuki", 6, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+ [669, "Itachi Uchiha, Shura's Black Crow", "Technique", "Akatsuki", 6, 40, 0, 0, 0, 0, 0, 0, 0, 0, 1],
+ [670, "Kisame Hoshigaki, Merciless Water Monster", "Technique", "Akatsuki", 6, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+ [670, "Kisame Hoshigaki, Merciless Water Monster", "Technique", "Akatsuki", 6, 40, 0, 0, 0, 0, 0, 0, 0, 0, 1],
 ]

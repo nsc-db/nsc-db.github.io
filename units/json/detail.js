@@ -9013,7 +9013,7 @@ window.detail = {
 	},
 
 	668: {
-		leadname: "Sandstorm Madness",
+		leadname: "Own Carnage",
 		lead: "Courage Characters ATK +80%" ,
 
 		skill1name: "God of Purple Flames",
@@ -9038,7 +9038,7 @@ window.detail = {
 	},
 
 	"668_6": {
-		leadname: "Sandstorm Madness",
+		leadname: "Own Carnage",
 		lead: "Courage Characters ATK +80%" ,
 
 		skill1name: "God of Purple Flames",
@@ -9060,5 +9060,105 @@ window.detail = {
 
 		ability2name: "Order because of Power",
 		ability2: "Skill Damage +150%. Cast Speed +1 when HP is above 70%"
+	},
+
+	669: {
+		leadname: "Shura's Black Crow",
+		lead: "Technique Character ATK +80%" ,
+
+		skill1name: "True Sword Illusion",
+		skill1ogname: "幻真虚刃",
+		skill1type: "Sharingan",
+		skill1speed: "Fast",
+		skill1cost: "70",
+		skill1: "Deal 7% + 10,000 to one enmey with a high chance to place the enemy under Genjutsu. Deal 3x more damage to enemies under Genjutsu. Deal 10x more damage to EX Characters and reduce their Cast Speed by 3. [Always Hit]",
+
+		skill2name: "Sleep Soon",
+		skill2ogname: "ろそろ眠ってもらおう",
+		skill2type: "Unique",
+		skill2speed: "Fastest",
+		skill2cost: "50",
+		skill2: "Own ATK and SPD +100%. If one of the enemies is an EX Character, Skill Damage +200%, Cast Speed +2 and Immune to all skill state.",
+
+		ability1name: "Bloody Sharingan",
+		ability1: "Maximum HP +100%, high chance to dodge skills",
+
+		ability2name: "Genjutsu Expert",
+		ability2: "Skill Damage +150% and immune to Genjutsu state"
+	},
+
+	"669_6": {
+		leadname: "Shura's Black Crow",
+		lead: "Technique Character ATK +80%" ,
+
+		skill1name: "True Sword Illusion",
+		skill1ogname: "幻真虚刃",
+		skill1type: "Sharingan",
+		skill1speed: "Fast",
+		skill1cost: "70",
+		skill1: "Deal 7% + 10,000 to one enmey with a high chance to place the enemy under Genjutsu. Deal 3x more damage to enemies under Genjutsu. Deal 10x more damage to EX Characters and reduce their Cast Speed by 3. [Always Hit]",
+
+		skill2name: "Sleep Soon",
+		skill2ogname: "ろそろ眠ってもらおう",
+		skill2type: "Unique",
+		skill2speed: "Fastest",
+		skill2cost: "50",
+		skill2: "Own ATK and SPD +100%. If one of the enemies is an EX Character, Skill Damage +200%, Cast Speed +2 and Immune to all skill state.",
+
+		ability1name: "Bloody Sharingan",
+		ability1: "Maximum HP +100%, high chance to dodge skills",
+
+		ability2name: "Genjutsu Expert",
+		ability2: "Skill Damage +150% and immune to Genjutsu state"
+	},
+
+	670: {
+		leadname: "Merciless Water Monster",
+		lead: "Akatsuki Character Maximum Chakra +50" ,
+
+		skill1name: "Water Style: Water Clone Jutsu",
+		skill1ogname: "水遁・水分身の術",
+		skill1type: "Water",
+		skill1speed: "Fast",
+		skill1cost: "150",
+		skill1: "Deal 7% + 10,000 to one enmey. Deal 3x more damage when own ATK is buffed. Deal 10x more damage to EX Characters and cancel special states. [Always Hit]",
+
+		skill2name: "Now Then!! Let's Begin",
+		skill2ogname: "さあァ！！始めましょうか！",
+		skill2type: "Unique",
+		skill2speed: "Fastest",
+		skill2cost: "60",
+		skill2: "Own ATK, DEF and SPD +100%, recover 100% Chakra",
+
+		ability1name: "Overwhelming Chakra",
+		ability1: "Maximum Chakra +200",
+
+		ability2name: "Great Sword \"Samehada\"",
+		ability2: "Skill Damage +100%< recover 30% Chakra after every action"
+	},
+
+	"670_6": {
+		leadname: "Merciless Water Monster",
+		lead: "Akatsuki Character Maximum Chakra +50" ,
+
+		skill1name: "Water Style: Water Clone Jutsu",
+		skill1ogname: "水遁・水分身の術",
+		skill1type: "Water",
+		skill1speed: "Fast",
+		skill1cost: "150",
+		skill1: "Deal 7% + 10,000 to one enmey. Deal 3x more damage when own ATK is buffed. Deal 10x more damage to EX Characters and cancel special states. [Always Hit]",
+
+		skill2name: "Now Then!! Let's Begin",
+		skill2ogname: "さあァ！！始めましょうか！",
+		skill2type: "Unique",
+		skill2speed: "Fastest",
+		skill2cost: "60",
+		skill2: "Own ATK, DEF and SPD +100%, recover 100% Chakra",
+
+		ability1name: "Overwhelming Chakra",
+		ability1: "Maximum Chakra +200",
+
+		ability2name: "Great Sword \"Samehada\"",
+		ability2: "Skill Damage +100%< recover 30% Chakra after every action"
 	},
 }
