@@ -9177,7 +9177,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "60",
-		skill2: "Recover all allies HP and Chakra by a small amount. Grant all allies Five Village Characters a medim chance to dodge skills and \"Resonance\" state.  [Resonance: Skill Damage +20%, SPD +50%. Resonance can be stacked up to 3 times including other Resonance state from other characters]",
+		skill2: "Recover all allies HP and Chakra by a small amount. Grant all allies Five Village Characters a medium chance to dodge skills and \"Resonance\" state.  [Resonance: Skill Damage +20%, SPD +50%. Resonance can be stacked up to 3 times including other Resonance state from other characters]",
 
 		ability1name: "Shadow Kurama",
 		ability1: "Maximum Chakra +120 and Skill Damage +150%",
@@ -9202,7 +9202,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "60",
-		skill2: "Recover all allies HP and Chakra by a small amount. Grant all allies Five Village Characters a medim chance to dodge skills and \"Resonance\" state.  [Resonance: Skill Damage +20%, SPD +50%. Resonance can be stacked up to 3 times including other Resonance state from other characters]",
+		skill2: "Recover all allies HP and Chakra by a small amount. Grant all allies Five Village Characters a medium chance to dodge skills and \"Resonance\" state.  [Resonance: Skill Damage +20%, SPD +50%. Resonance can be stacked up to 3 times including other Resonance state from other characters]",
 
 		ability1name: "Shadow Kurama",
 		ability1: "Maximum Chakra +120 and Skill Damage +150%",
