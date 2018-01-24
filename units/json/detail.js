@@ -8961,4 +8961,253 @@ window.detail = {
 		ability2name: "Power of Anger",
 		ability2: "ATK +100% and Cast Speed +1 when Chakra is above 70%"
 	},
+	667: {
+		leadname: "Sandstorm Madness",
+		lead: "Heart Characters ATK +150%" ,
+
+		skill1name: "Possessed Claw Dance",
+		skill1ogname: "狂爪乱舞",
+		skill1type: "Tailed Beast",
+		skill1speed: "Fast",
+		skill1cost: "40",
+		skill1: "Deal 20x ATK damage to one enemy ignoring 40% DEF with a high chance to place the enemy under \"Bleed\" state. This ability can crit dealing 4x damage. [Bleed: Continues to lose HP, with a chance to lower DEF]",
+
+		skill2name: "Hahaha.... Even More",
+		skill2ogname: "ハハハァ…もっともっとだ！",
+		skill2type: "Unique",
+		skill2speed: "Fastest",
+		skill2cost: "0",
+		skill2: "Own ATK +100% and grant \"Solitude\" and \"Love\" state [Solitude: Skill Damage +100%, Immune to Negative Effects] [Love: ATK, SPD and Skill Damage +100%, reduce incoming Skill Damage by half]",
+
+		ability1name: "Will of Sand",
+		ability1: "ATK and DEF +100%, high chacne to dodge skills",
+
+		ability2name: "Inexperience Emotions",
+		ability2: "Chakra +30, recover 20% HP after every action"
+	},
+
+	"667_6": {
+		leadname: "Sandstorm Madness",
+		lead: "Heart Characters ATK +150%" ,
+
+		skill1name: "Possessed Claw Dance",
+		skill1ogname: "狂爪乱舞",
+		skill1type: "Tailed Beast",
+		skill1speed: "Fast",
+		skill1cost: "40",
+		skill1: "Deal 20x ATK damage to one enemy ignoring 40% DEF with a high chance to place the enemy under \"Bleed\" state. This ability can crit dealing 4x damage. [Bleed: Continues to lose HP, with a chance to lower DEF]",
+
+		skill2name: "Hahaha.... Even More",
+		skill2ogname: "ハハハァ…もっともっとだ！",
+		skill2type: "Unique",
+		skill2speed: "Fastest",
+		skill2cost: "0",
+		skill2: "Own ATK +100% and grant \"Solitude\" and \"Love\" state [Solitude: Skill Damage +100%, Immune to Negative Effects] [Love: ATK, SPD and Skill Damage +100%, reduce incoming Skill Damage by half]",
+
+		ability1name: "Will of Sand",
+		ability1: "ATK and DEF +100%, high chacne to dodge skills",
+
+		ability2name: "Inexperience Emotions",
+		ability2: "Chakra +30, recover 20% HP after every action"
+	},
+
+	668: {
+		leadname: "Own Carnage",
+		lead: "Courage Characters ATK +80%" ,
+
+		skill1name: "God of Purple Flames",
+		skill1ogname: "紫焔ノ鬼神",
+		skill1type: "Sharingan",
+		skill1speed: "Fast",
+		skill1cost: "100",
+		skill1: "Deal 7% + 10,000 to one enemy. Deal 5x more damage while under \"Solitude\" state. Deal 10x more damage to EX and PvP Reward Characters. (Max 50x).  If the enemy is a PvP Reward, deal 2 additional attack (Note: If the enemy revives and one of the 3 attacks kills, their revive activates and will still get it by the additional hits) [Always Hit]",
+
+		skill2name: "Unecessary Love",
+		skill2ogname: "愛など必要ない！",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "80",
+		skill2: "Own ATK, DEF and SPD +100% and grant \"Solitude\" state and remove all \"Love\" state to all allies [Solitude: Skill Damage +100%,  immune to negative effects]",
+
+		ability1name: "Evolved Tomoe",
+		ability1: "Maximum Chakra +100, recover 20% Chakra after every action",
+
+		ability2name: "Order because of Power",
+		ability2: "Skill Damage +150%. Cast Speed +1 when HP is above 70%"
+	},
+
+	"668_6": {
+		leadname: "Own Carnage",
+		lead: "Courage Characters ATK +80%" ,
+
+		skill1name: "God of Purple Flames",
+		skill1ogname: "紫焔ノ鬼神",
+		skill1type: "Sharingan",
+		skill1speed: "Fast",
+		skill1cost: "100",
+		skill1: "Deal 7% + 10,000 to one enemy. Deal 5x more damage while under \"Solitude\" state. Deal 10x more damage to EX and PvP Reward Characters. (Max 50x).  If the enemy is a PvP Reward, deal 2 additional attack (Note: If the enemy revives and one of the 3 attacks kills, their revive activates and will still get it by the additional hits) [Always Hit]",
+
+		skill2name: "Unecessary Love",
+		skill2ogname: "愛など必要ない！",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "80",
+		skill2: "Own ATK, DEF and SPD +100% and grant \"Solitude\" state and remove all \"Love\" state to all allies [Solitude: Skill Damage +100%,  immune to negative effects]",
+
+		ability1name: "Evolved Tomoe",
+		ability1: "Maximum Chakra +100, recover 20% Chakra after every action",
+
+		ability2name: "Order because of Power",
+		ability2: "Skill Damage +150%. Cast Speed +1 when HP is above 70%"
+	},
+
+	669: {
+		leadname: "Shura's Black Crow",
+		lead: "Technique Character ATK +80%" ,
+
+		skill1name: "True Sword Illusion",
+		skill1ogname: "幻真虚刃",
+		skill1type: "Sharingan",
+		skill1speed: "Fast",
+		skill1cost: "70",
+		skill1: "Deal 7% + 10,000 to one enmey with a high chance to place the enemy under Genjutsu. Deal 3x more damage to enemies under Genjutsu. Deal 10x more damage to EX Characters and reduce their Cast Speed by 3. [Always Hit]",
+
+		skill2name: "Sleep Soon",
+		skill2ogname: "ろそろ眠ってもらおう",
+		skill2type: "Unique",
+		skill2speed: "Fastest",
+		skill2cost: "50",
+		skill2: "Own ATK and SPD +100%. If one of the enemies is an EX Character, Skill Damage +200%, Cast Speed +2 and Immune to all skill state.",
+
+		ability1name: "Bloody Sharingan",
+		ability1: "Maximum HP +100%, high chance to dodge skills",
+
+		ability2name: "Genjutsu Expert",
+		ability2: "Skill Damage +150% and immune to Genjutsu state"
+	},
+
+	"669_6": {
+		leadname: "Shura's Black Crow",
+		lead: "Technique Character ATK +80%" ,
+
+		skill1name: "True Sword Illusion",
+		skill1ogname: "幻真虚刃",
+		skill1type: "Sharingan",
+		skill1speed: "Fast",
+		skill1cost: "70",
+		skill1: "Deal 7% + 10,000 to one enmey with a high chance to place the enemy under Genjutsu. Deal 3x more damage to enemies under Genjutsu. Deal 10x more damage to EX Characters and reduce their Cast Speed by 3. [Always Hit]",
+
+		skill2name: "Sleep Soon",
+		skill2ogname: "ろそろ眠ってもらおう",
+		skill2type: "Unique",
+		skill2speed: "Fastest",
+		skill2cost: "50",
+		skill2: "Own ATK and SPD +100%. If one of the enemies is an EX Character, Skill Damage +200%, Cast Speed +2 and Immune to all skill state.",
+
+		ability1name: "Bloody Sharingan",
+		ability1: "Maximum HP +100%, high chance to dodge skills",
+
+		ability2name: "Genjutsu Expert",
+		ability2: "Skill Damage +150% and immune to Genjutsu state"
+	},
+
+	670: {
+		leadname: "Merciless Water Monster",
+		lead: "Akatsuki Character Maximum Chakra +50" ,
+
+		skill1name: "Water Style: Water Clone Jutsu",
+		skill1ogname: "水遁・水分身の術",
+		skill1type: "Water",
+		skill1speed: "Fast",
+		skill1cost: "150",
+		skill1: "Deal 7% + 10,000 to one enmey. Deal 3x more damage when own ATK is buffed. Deal 10x more damage to EX Characters and cancel special states. [Always Hit]",
+
+		skill2name: "Now Then!! Let's Begin",
+		skill2ogname: "さあァ！！始めましょうか！",
+		skill2type: "Unique",
+		skill2speed: "Fastest",
+		skill2cost: "60",
+		skill2: "Own ATK, DEF and SPD +100%, recover 100% Chakra",
+
+		ability1name: "Overwhelming Chakra",
+		ability1: "Maximum Chakra +200",
+
+		ability2name: "Great Sword \"Samehada\"",
+		ability2: "Skill Damage +100%< recover 30% Chakra after every action"
+	},
+
+	"670_6": {
+		leadname: "Merciless Water Monster",
+		lead: "Akatsuki Character Maximum Chakra +50" ,
+
+		skill1name: "Water Style: Water Clone Jutsu",
+		skill1ogname: "水遁・水分身の術",
+		skill1type: "Water",
+		skill1speed: "Fast",
+		skill1cost: "150",
+		skill1: "Deal 7% + 10,000 to one enmey. Deal 3x more damage when own ATK is buffed. Deal 10x more damage to EX Characters and cancel special states. [Always Hit]",
+
+		skill2name: "Now Then!! Let's Begin",
+		skill2ogname: "さあァ！！始めましょうか！",
+		skill2type: "Unique",
+		skill2speed: "Fastest",
+		skill2cost: "60",
+		skill2: "Own ATK, DEF and SPD +100%, recover 100% Chakra",
+
+		ability1name: "Overwhelming Chakra",
+		ability1: "Maximum Chakra +200",
+
+		ability2name: "Great Sword \"Samehada\"",
+		ability2: "Skill Damage +100%< recover 30% Chakra after every action"
+	},
+
+	671: {
+		leadname: "Father and Son's Battle",
+		lead: "Body and Courage Type SPD and Skill Damage +40%" ,
+
+		skill1name: "Sage Style: Rasengan",
+		skill1ogname: "仙術・螺旋丸",
+		skill1type: "Sage",
+		skill1speed: "Fast",
+		skill1cost: "70",
+		skill1: "Deal 3% + 10,000 to all enemies, deal more damange the more Five Village Character in the team and less enemies alive. Max 10x with 5 Five Village ally. Max 3x when there's 1 enemy alive (Max 30x)",
+
+		skill2name: "You Guys are the Main",
+		skill2ogname: "君らがメインだ！！",
+		skill2type: "Unique",
+		skill2speed: "Fastest",
+		skill2cost: "60",
+		skill2: "Recover all allies HP and Chakra by a small amount. Grant all allies Five Village Characters a medim chance to dodge skills and \"Resonance\" state.  [Resonance: Skill Damage +20%, SPD +50%. Resonance can be stacked up to 3 times including other Resonance state from other characters]",
+
+		ability1name: "Shadow Kurama",
+		ability1: "Maximum Chakra +120 and Skill Damage +150%",
+
+		ability2name: "Nostolgic Feeling",
+		ability2: "Maximum HP +120% and Cast Speed +1"
+	},
+
+	"671_6": {
+		leadname: "Father and Son's Battle",
+		lead: "Body and Courage Type SPD and Skill Damage +40%" ,
+
+		skill1name: "Sage Style: Rasengan",
+		skill1ogname: "仙術・螺旋丸",
+		skill1type: "Sage",
+		skill1speed: "Fast",
+		skill1cost: "70",
+		skill1: "Deal 3% + 10,000 to all enemies, deal more damange the more Five Village Character in the team and less enemies alive. Max 10x with 5 Five Village ally. Max 3x when there's 1 enemy alive (Max 30x)",
+
+		skill2name: "You Guys are the Main",
+		skill2ogname: "君らがメインだ！！",
+		skill2type: "Unique",
+		skill2speed: "Fastest",
+		skill2cost: "60",
+		skill2: "Recover all allies HP and Chakra by a small amount. Grant all allies Five Village Characters a medim chance to dodge skills and \"Resonance\" state.  [Resonance: Skill Damage +20%, SPD +50%. Resonance can be stacked up to 3 times including other Resonance state from other characters]",
+
+		ability1name: "Shadow Kurama",
+		ability1: "Maximum Chakra +120 and Skill Damage +150%",
+
+		ability2name: "Nostolgic Feeling",
+		ability2: "Maximum HP +120% and Cast Speed +1"
+	},
 }

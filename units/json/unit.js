@@ -376,4 +376,7 @@ window.unit=[
  [669, "Itachi Uchiha, Shura's Black Crow", "Technique", "Akatsuki", 6, 40, 28446, 30324, 21524, 273, 19, 17, 176, 1],
  [670, "Kisame Hoshigaki, Merciless Water Monster", "Technique", "Akatsuki", 6, 40, 34034, 27167, 21073, 234, 19, 14, 150, 0, 0],
  [670, "Kisame Hoshigaki, Merciless Water Monster", "Technique", "Akatsuki", 6, 40, 34034, 27167, 21073, 234, 19, 14, 150, 0, 1],
+ [671, "Minato Namikaze, Father and Son's Battle", "Body", "Konoha", 6, 50, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+ [671, "Minato Namikaze, Father and Son's Battle", "Body", "Konoha", 6, 50, 0, 0, 0, 0, 0, 0, 0, 0, 1],
+
 ]
