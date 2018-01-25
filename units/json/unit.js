@@ -372,11 +372,10 @@ window.unit=[
  [667, "Gaara, Sandstorm Maddness", "Heart", "Suna", 6, 50, 35120, 35879, 30295, 245, 21, 17, 155, 86, 1],
  [668, "Indra Otsutsuki, Own Carnage", "Courage", "None", 6, 40, 23152, 37111, 21609, 219, 17, 18, 163, 94, 0],
  [668, "Indra Otsutsuki, Own Carnage", "Courage", "None", 6, 40, 23152, 37111, 21609, 219, 17, 18, 163, 94, 1],
- [669, "Itachi Uchiha, Shura's Black Crow", "Technique", "Akatsuki", 6, 40, 28446, 30324, 21524, 273, 19, 17, 176, 0, 0],
+ [669, "Itachi Uchiha, Shura's Black Crow", "Technique", "Akatsuki", 6, 40, 28446, 30324, 21524, 273, 19, 17, 176, 92, 0],
  [669, "Itachi Uchiha, Shura's Black Crow", "Technique", "Akatsuki", 6, 40, 28446, 30324, 21524, 273, 19, 17, 176, 1],
- [670, "Kisame Hoshigaki, Merciless Water Monster", "Technique", "Akatsuki", 6, 40, 34034, 27167, 21073, 234, 19, 14, 150, 0, 0],
+ [670, "Kisame Hoshigaki, Merciless Water Monster", "Technique", "Akatsuki", 6, 40, 34034, 27167, 21073, 234, 19, 14, 150, 93, 0],
  [670, "Kisame Hoshigaki, Merciless Water Monster", "Technique", "Akatsuki", 6, 40, 34034, 27167, 21073, 234, 19, 14, 150, 0, 1],
- [671, "Minato Namikaze, Father and Son's Battle", "Body", "Konoha", 6, 50, 0, 0, 0, 0, 0, 0, 0, 0, 0],
- [671, "Minato Namikaze, Father and Son's Battle", "Body", "Konoha", 6, 50, 0, 0, 0, 0, 0, 0, 0, 0, 1],
-
+ [671, "Minato Namikaze, Father and Son's Battle", "Body", "Konoha", 6, 50, 34740, 39025, 29920, 260, 20, 18, 156, 98, 0],
+ [671, "Minato Namikaze, Father and Son's Battle", "Body", "Konoha", 6, 50, 34740, 39025, 29920, 260, 20, 18, 156, 98, 1],
 ]
