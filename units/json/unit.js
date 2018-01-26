@@ -378,4 +378,9 @@ window.unit=[
  [670, "Kisame Hoshigaki, Merciless Water Monster", "Technique", "Akatsuki", 6, 40, 34034, 27167, 21073, 234, 19, 14, 150, 0, 1],
  [671, "Minato Namikaze, Father and Son's Battle", "Body", "Konoha", 6, 50, 34740, 39025, 29920, 260, 20, 18, 156, 98, 0],
  [671, "Minato Namikaze, Father and Son's Battle", "Body", "Konoha", 6, 50, 34740, 39025, 29920, 260, 20, 18, 156, 98, 1],
+ [672, "Shikamaru Nara, Elated Gaze", "Heart", "Konoha", 6, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+ [672, "Shikamaru Nara, Elated Gaze", "Heart", "Konoha", 6, 40, 0, 0, 0, 0, 0, 0, 0, 0, 1],
+ [673, "Temari, Spirited Blowing Wind", "Heart", "Konoha", 6, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+ [673, "Temari, Spirited Blowing Wind", "Heart", "Konoha", 6, 40, 0, 0, 0, 0, 0, 0, 0, 0, 1],
+
 ]

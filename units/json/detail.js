@@ -9210,4 +9210,104 @@ window.detail = {
 		ability2name: "Nostolgic Feeling",
 		ability2: "Maximum HP +120% and Cast Speed +1"
 	},
+
+	672: {
+		leadname: "Elated Gaze",
+		lead: "Konoha and Suna Characters SPD +80%" ,
+
+		skill1name: "Tag Team: Wind Sewing",
+		skill1ogname: "連係戦術・風縫い",
+		skill1type: "Weapon",
+		skill1speed: "Fast",
+		skill1cost: "80",
+		skill1: "Deal 7% + 10,000 to one enemy with a high chance to place the enemy in \"Restraint\" state. Deal 10x more damage, ignore resistance and cancel action to enemies under \"Restraint\" state. [Restraint: SPD -90% and Cast Speed -2]",
+
+		skill2name: "Sacrificial Plan",
+		skill2ogname: "捨て駒になるつもりはねェ",
+		skill2type: "Unique",
+		skill2speed: "Fastest",
+		skill2cost: "70",
+		skill2: "All allies ATK, DEF and SPD +70%. Grant \"Encourage\" state to ally \"Shikamaru Nara\" and \"Temari\". [Encourage: ATK, DEF and SPD +30%. Recover 10% HP and Chakra after every action]",
+
+		ability1name: "Heroic Succession",
+		ability1: "ATK +20% for every Konoha and/or Suna Character in the team (Max 120%)",
+
+		ability2name: "Temari's Scolding",
+		ability2: "SPD and Skill Damage +100%"
+	},
+
+	"672_6": {
+			leadname: "Elated Gaze",
+		lead: "Konoha and Suna Characters SPD +80%" ,
+
+		skill1name: "Tag Team: Wind Sewing",
+		skill1ogname: "連係戦術・風縫い",
+		skill1type: "Weapon",
+		skill1speed: "Fast",
+		skill1cost: "80",
+		skill1: "Deal 7% + 10,000 to one enemy with a high chance to place the enemy in \"Restraint\" state. Deal 10x more damage, ignore resistance and cancel action to enemies under \"Restraint\" state. [Restraint: SPD -90% and Cast Speed -2]",
+
+		skill2name: "Sacrificial Plan",
+		skill2ogname: "捨て駒になるつもりはねェ",
+		skill2type: "Unique",
+		skill2speed: "Fastest",
+		skill2cost: "70",
+		skill2: "All allies ATK, DEF and SPD +70%. Grant \"Encourage\" state to ally \"Shikamaru Nara\" and \"Temari\". [Encourage: ATK, DEF and SPD +30%. Recover 10% HP and Chakra after every action]",
+
+		ability1name: "Heroic Succession",
+		ability1: "ATK +20% for every Konoha and/or Suna Character in the team (Max 120%)",
+
+		ability2name: "Temari's Scolding",
+		ability2: "SPD and Skill Damage +100%"
+	},
+
+	673: {
+		leadname: "Spirited Blowing Wind",
+		lead: "Konoha and Suna Characters Skill Damage +80%" ,
+		
+		skill1name: "Tag Team: Shadow Wind",
+		skill1ogname: "連係戦術・影風",
+		skill1type: "Wind",
+		skill1speed: "Fast",
+		skill1cost: "60",
+		skill1: "Deal 3% + 8,000 to all enemies with a high chance to place the enemies under \"Bind\" state. Deal 4x more damage to enemies under \"Bind\" state. Deal 3x more damage when \"Temari\" can dodge skills (Max 12x). [Bind: Skill Damage -60% and SPD -30%]",
+
+		skill2name: "This Time, My Aim Will Be Better",
+		skill2ogname: "今度はもっとよく狙うんだな",
+		skill2type: "Unique",
+		skill2speed: "Fastest",
+		skill2cost: "70",
+		skill2: "Own SPD and Skill Damage +100% and grant a medium chance to dodge skills. Grant \"Gust\" state to ally \"Shikamaru Nara\" and \"Temari\". [Gust: SPD and Skill Damage +120%]",
+
+		ability1name: "Fated Link",
+		ability1: "ATK +20% for every Konoha and/or Suna Character in the team (Max 120%)",
+
+		ability2name: "Scolding",
+		ability2: "Maximum HP and Skill Damage +100%"
+	},
+
+	"673_6": {
+		leadname: "Spirited Blowing Wind",
+		lead: "Konoha and Suna Characters Skill Damage +80%" ,
+		
+		skill1name: "Tag Team: Shadow Wind",
+		skill1ogname: "連係戦術・影風",
+		skill1type: "Wind",
+		skill1speed: "Fast",
+		skill1cost: "60",
+		skill1: "Deal 3% + 8,000 to all enemies with a high chance to place the enemies under \"Bind\" state. Deal 4x more damage to enemies under \"Bind\" state. Deal 3x more damage when \"Temari\" can dodge skills (Max 12x). [Bind: Skill Damage -60% and SPD -30%]",
+
+		skill2name: "This Time, My Aim Will Be Better",
+		skill2ogname: "今度はもっとよく狙うんだな",
+		skill2type: "Unique",
+		skill2speed: "Fastest",
+		skill2cost: "70",
+		skill2: "Own SPD and Skill Damage +100% and grant a medium chance to dodge skills. Grant \"Gust\" state to ally \"Shikamaru Nara\" and \"Temari\". [Gust: SPD and Skill Damage +120%]",
+
+		ability1name: "Fated Link",
+		ability1: "ATK +20% for every Konoha and/or Suna Character in the team (Max 120%)",
+
+		ability2name: "Scolding",
+		ability2: "Maximum HP and Skill Damage +100%"
+	},
 }
