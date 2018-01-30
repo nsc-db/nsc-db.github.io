@@ -2078,7 +2078,7 @@ window.detail = {
 		skill1type: "Space-Time",
 		skill1speed: "Fastest",
 		skill1cost: "90",
-		skill1: "Deal 7% + 3,000 to one enemy, with a chance to put a Hiraishin Marking on the enemy and enemy Cast Speed -1.  Deal 5x more damage and reduce enemy SPD by 20% to enemies with Hiraishin Marking",
+		skill1: "Deal 7% + 3,000 to one enemy, with a chance to put a Flying Thunder God  Marking on the enemy and enemy Cast Speed -1.  Deal 5x more damage and reduce enemy SPD by 20% to enemies with Flying Thunder God  Marking",
 
 
 		skill2name: "I Will Make the Light",
@@ -2104,7 +2104,7 @@ window.detail = {
 		skill1type: "Space-Time",
 		skill1speed: "Fastest",
 		skill1cost: "70",
-		skill1: "Deal 7% + 5,000 to one enemy, with a chance to put a Hiraishin Marking on the enemy and enemy Cast Speed -2.  Deal 7x more damage and reduce enemy SPD by 30% to enemies with Hiraishin Marking",
+		skill1: "Deal 7% + 5,000 to one enemy, with a chance to put a Flying Thunder God  Marking on the enemy and enemy Cast Speed -2.  Deal 7x more damage and reduce enemy SPD by 30% to enemies with Flying Thunder God  Marking",
 
 
 		skill2name: "I Will Make the Light",
@@ -6970,7 +6970,7 @@ window.detail = {
 		skill1type: "Space-Time",
 		skill1speed: "Fastest",
 		skill1cost: "70",
-		skill1: "Deal 7% + 30,000 to one enemy, with a high chance to put a Hiraishin Marking, and a chance to lower the enemy's Cast Speed by 2. Deal 7x to enemies with a Hiraishin Marking",
+		skill1: "Deal 7% + 30,000 to one enemy, with a high chance to put a Flying Thunder God  Marking, and a chance to lower the enemy's Cast Speed by 2. Deal 7x to enemies with a Flying Thunder God  Marking",
 
 		skill2name: "I Will Not Miss that Opening",
 		skill2ogname: "その隙、見逃しはしない",
@@ -6995,7 +6995,7 @@ window.detail = {
 		skill1type: "Space-Time",
 		skill1speed: "Fastest",
 		skill1cost: "70",
-		skill1: "Deal 7% + 30,000 to one enemy, with a high chance to put a Hiraishin Marking, and a chance to lower the enemy's Cast Speed by 2. Deal 7x to enemies with a Hiraishin Marking",
+		skill1: "Deal 7% + 30,000 to one enemy, with a high chance to put a Flying Thunder God  Marking, and a chance to lower the enemy's Cast Speed by 2. Deal 7x to enemies with a Flying Thunder God  Marking",
 
 		skill2name: "I Will Not Miss that Opening",
 		skill2ogname: "その隙、見逃しはしない",
@@ -9309,5 +9309,156 @@ window.detail = {
 
 		ability2name: "Scolding",
 		ability2: "Maximum HP and Skill Damage +100%"
+	},
+
+	674: {
+		leadname: "Resurrected Flash",
+		lead: "Body Type ATK, DEF and SPD +40%" ,
+		
+		skill1name: "Flying Thunder God: Multiple Blade Finish",
+		skill1ogname: "飛雷神の術・連刃・終",
+		skill1type: "Space-Time",
+		skill1speed: "Fastest",
+		skill1cost: "80",
+		skill1: "Deal 7% + 20,000 to one enemy with a high chance to put a Flying Thunder God Marking on the enemy. Deal 15x more damage to enemies with a Marking. Furthermore grant \"Flash Mode\" [Flash Mode: SPD +100%, Cast Speed becomes Flash]",
+
+		skill2name: "Flying Thunder God: Guide Lightning",
+		skill2ogname: "飛雷神・導雷",
+		skill2type: "Space-Time",
+		skill2speed: "Fast",
+		skill2cost: "100",
+		skill2: "Own DEF +200% and grant \"Full Guide Lightning\". \"Full Guide Lightning\" is canceled once attacked. [Full Guide Lightning: All allies are immune to Skill Damage (Note: Fixed Damage is not blocked)]",
+
+		ability1name: "Prepared Master",
+		ability1: "Maximum Chakra +50 and recover 10% Chakra after every action",
+
+		ability2name: "The Fastest Shinobi",
+		ability2: "For 2 turns, SPD +1000% and Cast Speed +2. After 3 turns Skill Damage +100%"
+	},
+
+	"674_6": {
+		leadname: "Resurrected Flash",
+		lead: "Body Type ATK, DEF and SPD +40%" ,
+		
+		skill1name: "Flying Thunder God: Multiple Blade Finish",
+		skill1ogname: "飛雷神の術・連刃・終",
+		skill1type: "Space-Time",
+		skill1speed: "Fastest",
+		skill1cost: "80",
+		skill1: "Deal 7% + 20,000 to one enemy with a high chance to put a Flying Thunder God Marking on the enemy. Deal 15x more damage to enemies with a Marking. Furthermore grant \"Flash Mode\" [Flash Mode: SPD +100%, Cast Speed becomes Flash]",
+
+		skill2name: "Flying Thunder God: Guide Lightning",
+		skill2ogname: "飛雷神・導雷",
+		skill2type: "Space-Time",
+		skill2speed: "Fast",
+		skill2cost: "100",
+		skill2: "Own DEF +200% and grant \"Full Guide Lightning\". \"Full Guide Lightning\" is canceled once attacked. [Full Guide Lightning: All allies are immune to Skill Damage (Note: Fixed Damage is not blocked)]",
+
+		ability1name: "Prepared Master",
+		ability1: "Maximum Chakra +50 and recover 10% Chakra after every action",
+
+		ability2name: "The Fastest Shinobi",
+		ability2: "For 2 turns, SPD +1000% and Cast Speed +2. After 3 turns Skill Damage +100%"
+	},
+
+
+	675: {
+		leadname: "Stable Sealing Jutsu",
+		lead: "Recover 10% HP and Chakra after every actino for Body Type" ,
+		
+		skill1name: "Soaring Adamantine Sealing Chains",
+		skill1ogname: "飛翔・金剛封鎖",
+		skill1type: "Sealing",
+		skill1speed: "Fast",
+		skill1cost: "90",
+		skill1: "Deal 20-30 hits doing 3% + 1,000 per hits to random enemies. Chance to Seal and/or Cancel action",
+
+		skill2name: "I Will Go With You!!",
+		skill2ogname: "一緒に行くってばね！！",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "90",
+		skill2: "Recover a tremendous amount of HP and Chakra to all allies and grant \"Determined\" state. If one of your allies is \"Naruto Uzumaki\" or \"Minato Namikaze\", Recover 100% Chakra of all Konoha allies. [Determined: ATK, DEF and SPD +80%, recover 10% Chakra and HP when attacked]",
+
+		ability1name: "Mother's Affection",
+		ability1: "Maximum Chakra +50 and ATK +100%",
+
+		ability2name: "Uzumaki Clan's Vitality",
+		ability2: "Skill Damage +100% and recover 15% HP after every action"
+	},
+
+	"675_6": {
+		leadname: "Stable Sealing Jutsu",
+		lead: "Recover 10% HP and Chakra after every actino for Body Type" ,
+		
+		skill1name: "Soaring Adamantine Sealing Chains",
+		skill1ogname: "飛翔・金剛封鎖",
+		skill1type: "Sealing",
+		skill1speed: "Fast",
+		skill1cost: "90",
+		skill1: "Deal 20-30 hits doing 3% + 1,000 per hits to random enemies. Chance to Seal and/or Cancel action",
+
+		skill2name: "I Will Go With You!!",
+		skill2ogname: "一緒に行くってばね！！",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "90",
+		skill2: "Recover a tremendous amount of HP and Chakra to all allies and grant \"Determined\" state. If one of your allies is \"Naruto Uzumaki\" or \"Minato Namikaze\", Recover 100% Chakra of all Konoha allies. [Determined: ATK, DEF and SPD +80%, recover 10% Chakra and HP when attacked]",
+
+		ability1name: "Mother's Affection",
+		ability1: "Maximum Chakra +50 and ATK +100%",
+
+		ability2name: "Uzumaki Clan's Vitality",
+		ability2: "Skill Damage +100% and recover 15% HP after every action"
+	},
+
+	676: {
+		leadname: "Harbringer of Calamity",
+		lead: "None Character Maximum HP and Skill Damage +30%" ,
+		
+		skill1name: "Universal Penetration",
+		skill1ogname: "万象透過",
+		skill1type: "Space-Time",
+		skill1speed: "Fast",
+		skill1cost: "90",
+		skill1: "Deal 10,000 fixed damage to one enemy with a chance to place them under \"Misery\" state. Deal 3x more damage to enemies from the Five Village. [Misery: Skill Damage -20% and ATK -20%. This state can be stacked upto 3 times.]",
+
+		skill2name: "I'm at the Peak of Composure",
+		skill2ogname: "オレは最高に冷静だ",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "70",
+		skill2: "Own SPD and Skill Damage +80% and grant a medium chance to dodge skills",
+
+		ability1name: "Power to Call Upon Destruction",
+		ability1: "Maximum HP and SPD +80%",
+
+		ability2name: "Dangerous Ideology",
+		ability2: "Skill Damage +80% when HP is above 90%"
+	},
+
+	"676_6": {
+		leadname: "Harbringer of Calamity",
+		lead: "None Character Maximum HP and Skill Damage +30%" ,
+		
+		skill1name: "Universal Penetration",
+		skill1ogname: "万象透過",
+		skill1type: "Space-Time",
+		skill1speed: "Fast",
+		skill1cost: "80",
+		skill1: "Deal 20,000 fixed damage to one enemy with a high chance to place them under \"Misery\" state. Deal 6x more damage to enemies from the Five Village. [Misery: Skill Damage -20% and ATK -20%. This state can be stacked upto 3 times.]",
+
+		skill2name: "I'm at the Peak of Composure",
+		skill2ogname: "オレは最高に冷静だ",
+		skill2type: "Unique",
+		skill2speed: "Fastest",
+		skill2cost: "65",
+		skill2: "Own SPD and Skill Damage +120% and grant a high chance to dodge skills",
+
+		ability1name: "Power to Call Upon Destruction",
+		ability1: "Maximum HP and SPD +120%",
+
+		ability2name: "Dangerous Ideology",
+		ability2: "Skill Damage +150% when HP is above 70%"
 	},
 }
