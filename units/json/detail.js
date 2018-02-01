@@ -9371,7 +9371,7 @@ window.detail = {
 		skill1type: "Sealing",
 		skill1speed: "Fast",
 		skill1cost: "90",
-		skill1: "Deal 20-30 hits doing 3% + 1,000 per hits to random enemies. Chance to Seal and/or Cancel action",
+		skill1: "Deal 20-30 hits doing 3% + 1,000 per hits to all enemies. Chance to Seal and/or Cancel action",
 
 		skill2name: "I Will Go With You!!",
 		skill2ogname: "一緒に行くってばね！！",
@@ -9396,7 +9396,7 @@ window.detail = {
 		skill1type: "Sealing",
 		skill1speed: "Fast",
 		skill1cost: "90",
-		skill1: "Deal 20-30 hits doing 3% + 1,000 per hits to random enemies. Chance to Seal and/or Cancel action",
+		skill1: "Deal 20-30 hits doing 3% + 1,000 per hits to all enemies. Chance to Seal and/or Cancel action",
 
 		skill2name: "I Will Go With You!!",
 		skill2ogname: "一緒に行くってばね！！",
