@@ -6377,7 +6377,7 @@ window.detail = {
 		skill2type: "Tailed Beast",
 		skill2speed: "Fastest",
 		skill2cost: "90",
-		skill2: "All allies ATK, DEF and SPD +100%, recover a small amount of Chakra and 10% HP to character's from the Five Village",
+		skill2: "All allies ATK, DEF and SPD +120%, recover a small amount of Chakra and 10% HP to character's from the Five Village",
 
 		ability1name: "Constant Nindo",
 		ability1: "Half the effect of negative state.  Cast Speed +1 when HP is above 50%",
@@ -6402,7 +6402,7 @@ window.detail = {
 		skill2type: "Tailed Beast",
 		skill2speed: "Fastest",
 		skill2cost: "90",
-		skill2: "All allies ATK, DEF and SPD +100%, recover a small amount of Chakra and 10% HP to character's from the Five Village",
+		skill2: "All allies ATK, DEF and SPD +120%, recover a small amount of Chakra and 10% HP to character's from the Five Village",
 
 		ability1name: "Constant Nindo",
 		ability1: "Half the effect of negative state.  Cast Speed +1 when HP is above 50%",
@@ -6427,7 +6427,7 @@ window.detail = {
 		skill2type: "None",
 		skill2speed: "Fastest",
 		skill2cost: "80",
-		skill2: "Own SPD +100%. Additional effect depending on alive allies, Skill Damage +100% when \"Sasuke Uchiha\" is in the team, recover 50% HP when \"Sakura Haruno\" is in the team, +3 Cast Speed when \"Kakashi Hatake\" is in the team",
+		skill2: "Own SPD +120%. Additional effect depending on alive allies, Skill Damage +100% when \"Sasuke Uchiha\" is in the team, recover 50% HP when \"Sakura Haruno\" is in the team, +3 Cast Speed when \"Kakashi Hatake\" is in the team",
 
 		ability1name: "Power of the Six Paths: Yang",
 		ability1: "Maximum Chakra +100, Skill Damage +100",
@@ -6452,7 +6452,7 @@ window.detail = {
 		skill2type: "None",
 		skill2speed: "Fastest",
 		skill2cost: "80",
-		skill2: "Own SPD +100%. Additional effect depending on alive allies, Skill Damage +100% when \"Sasuke Uchiha\" is in the team, recover 50% HP when \"Sakura Haruno\" is in the team, +3 Cast Speed when \"Kakashi Hatake\" is in the team",
+		skill2: "Own SPD +120%. Additional effect depending on alive allies, Skill Damage +100% when \"Sasuke Uchiha\" is in the team, recover 50% HP when \"Sakura Haruno\" is in the team, +3 Cast Speed when \"Kakashi Hatake\" is in the team",
 
 		ability1name: "Power of the Six Paths: Yang",
 		ability1: "Maximum Chakra +100, Skill Damage +100",
@@ -7663,7 +7663,7 @@ window.detail = {
 
 	637: {
 		leadname: "God of Destruction",
-		lead: "Akatsuki Characters ATK and Skill Damage +40%" ,
+		lead: "Akatsuki Characters ATK and Skill Damage +80%" ,
 
 		skill1name: "Planetary Devastation",
 		skill1ogname: "地爆天星",
@@ -7688,7 +7688,7 @@ window.detail = {
 
 	"637_6": {
 		leadname: "God of Destruction",
-		lead: "Akatsuki Characters ATK and Skill Damage +40%" ,
+		lead: "Akatsuki Characters ATK and Skill Damage +80%" ,
 
 		skill1name: "Planetary Devastation",
 		skill1ogname: "地爆天星",
@@ -7913,7 +7913,7 @@ window.detail = {
 
 	644: {
 		leadname: "Power to Mark Despair",
-		lead: "Technique Type ATk, DEF and SPD +40%" ,
+		lead: "Technique Type ATk, DEF and SPD +50%" ,
 
 		skill1name: "Sword of Nunoboko ",
 		skill1ogname: "ぬのぼこの剣",
@@ -7938,7 +7938,7 @@ window.detail = {
 
 	"644_6": {
 		leadname: "Power to Mark Despair",
-		lead: "Technique Type ATk, DEF and SPD +40%" ,
+		lead: "Technique Type ATk, DEF and SPD +50%" ,
 
 		skill1name: "Sword of Nunoboko ",
 		skill1ogname: "ぬのぼこの剣",
