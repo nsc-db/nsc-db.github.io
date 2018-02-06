@@ -9461,4 +9461,154 @@ window.detail = {
 		ability2name: "Dangerous Ideology",
 		ability2: "Skill Damage +150% when HP is above 70%"
 	},
+
+	677: {
+		leadname: "Great Expertise",
+		lead: "Konoha Character Maximum HP +50% and Skill Damage +80%" ,
+		
+		skill1name: "Shuriken Shadow Clone",
+		skill1ogname: "手裏剣影分身",
+		skill1type: "Weapon",
+		skill1speed: "Fast",
+		skill1cost: "70",
+		skill1: "Deal 7% + 5,000 to one enemy. Deal more damage the more Konoha allies. Max 5x. Deal 2x more damage while under \"Rouse\" state. [Always Hit]",
+
+		skill2name: "Becoming a Shinbi",
+		skill2ogname: "忍らしくのォ！",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "80",
+		skill2: "Own ATK, DEF and SPD +50% and grant \"Rouse\" state. [Rouse: ATK, DEF and SPD +30%, recover 10% HP and Chakra after every action]",
+
+		ability1name: "Refined Jutsu",
+		ability1: "Maximum HP and Skill Damage +100%",
+
+		ability2name: "Love for the Village",
+		ability2: "ATK, DEF and SPD +20% for every Konoha allies (Max 100%)"
+	},
+
+	"677_6": {
+		leadname: "Great Expertise",
+		lead: "Konoha Character Maximum HP +50% and Skill Damage +80%" ,
+		
+		skill1name: "Shuriken Shadow Clone",
+		skill1ogname: "手裏剣影分身",
+		skill1type: "Weapon",
+		skill1speed: "Fast",
+		skill1cost: "70",
+		skill1: "Deal 7% + 5,000 to one enemy. Deal more damage the more Konoha allies. Max 5x. Deal 2x more damage while under \"Rouse\" state. [Always Hit]",
+
+		skill2name: "Becoming a Shinbi",
+		skill2ogname: "忍らしくのォ！",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "80",
+		skill2: "Own ATK, DEF and SPD +50% and grant \"Rouse\" state. [Rouse: ATK, DEF and SPD +30%, recover 10% HP and Chakra after every action]",
+
+		ability1name: "Refined Jutsu",
+		ability1: "Maximum HP and Skill Damage +100%",
+
+		ability2name: "Love for the Village",
+		ability2: "ATK, DEF and SPD +20% for every Konoha allies (Max 100%)"
+	},
+
+	678: {
+		leadname: "Ecstasy of Battle",
+		lead: "Technique Type and None Characters Maximum HP and Skill Damage +60%" ,
+		
+		skill1name: "Uchiha Return",
+		skill1ogname: "うちは返し",
+		skill1type: "Unique",
+		skill1speed: "Fastest",
+		skill1cost: "10",
+		skill1: "Deal 20,000 fixed damage to one enemy. Deal more damage to EX Characters",
+
+		skill2name: "After All, Its a Rabble of People",
+		skill2ogname: "所詮は烏合の衆だ…",
+		skill2type: "Unique",
+		skill2speed: "Slowest",
+		skill2cost: "100",
+		skill2: "Recover own HP by a small amount, SPD -30%, protect all allies and grant \"Fan\" state. [Fan: Immune to Skill Damage (Including Fixed Skill Damage) except for Taijutsu and Wood. Increase Skill Damage everytime hit (Max 3000% after 5 hits). (Note: Effects from Skills such as Cancel Action and etc will still occur)]",
+
+		ability1name: "Special Made Reanimation",
+		ability1: "Maximum HP and DEF +150%",
+
+		ability2name: "Hashirama's Power",
+		ability2: "For 2 turns, Chakra Cost is 0 and Cast Speed +5. After 2 turns, Skill Damage +100%"
+	},
+
+	"678_6": {
+		leadname: "Ecstasy of Battle",
+		lead: "Technique Type and None Characters Maximum HP and Skill Damage +60%" ,
+		
+		skill1name: "Uchiha Return",
+		skill1ogname: "うちは返し",
+		skill1type: "Unique",
+		skill1speed: "Fastest",
+		skill1cost: "10",
+		skill1: "Deal 20,000 fixed damage to one enemy. Deal more damage to EX Characters",
+
+		skill2name: "After All, Its a Rabble of People",
+		skill2ogname: "所詮は烏合の衆だ…",
+		skill2type: "Unique",
+		skill2speed: "Slowest",
+		skill2cost: "100",
+		skill2: "Recover own HP by a small amount, SPD -30%, protect all allies and grant \"Fan\" state. [Fan: Immune to Skill Damage (Including Fixed Skill Damage) except for Taijutsu and Wood. Increase Skill Damage everytime hit (Max 3000% after 5 hits). (Note: Effects from Skills such as Cancel Action and etc will still occur)]",
+
+		ability1name: "Special Made Reanimation",
+		ability1: "Maximum HP and DEF +150%",
+
+		ability2name: "Hashirama's Power",
+		ability2: "For 2 turns, Chakra Cost is 0 and Cast Speed +5. After 2 turns, Skill Damage +100%"
+	},
+
+	679: {
+		leadname: "Serpent Blood and Body",
+		lead: "Intellect and Technique Type Skill Damage +40%" ,
+		
+		skill1name: "Summoning: Reanimation",
+		skill1ogname: "口寄せ・穢土転生",
+		skill1type: "Summoning",
+		skill1speed: "Fast",
+		skill1cost: "80",
+		skill1: "Deal 7% + 8,000 to one enemy. Deal 5x more damage to Five Village enemies",
+
+		skill2name: "This Jutsu Has No Risk",
+		skill2ogname: "この術にはリスクは無いよ",
+		skill2type: "Unique",
+		skill2speed: "Normal",
+		skill2cost: "90",
+		skill2: "Own ATK, DEF and SPD +80%, Chakra Cost is 0 and make all Intellect and Technique allies immune to Unique, Taijutsu and Lightning Skill Damage",
+
+		ability1name: "Fabrications of Blood and Body",
+		ability1: "Maximum Chakra +20 and recover 10% HP after every action",
+
+		ability2name: "Reinforced Reanimation",
+		ability2: "Skill Damage +100% when HP is above 90%"
+	},
+
+	"679_6": {
+		leadname: "Serpent Blood and Body",
+		lead: "Intellect and Technique Type Skill Damage +40%" ,
+		
+		skill1name: "Summoning: Reanimation",
+		skill1ogname: "口寄せ・穢土転生",
+		skill1type: "Summoning",
+		skill1speed: "Fast",
+		skill1cost: "70",
+		skill1: "Deal 7% + 10,000 to one enemy. Deal 10x more damage to Five Village enemies and remove all buffs",
+
+		skill2name: "This Jutsu Has No Risk",
+		skill2ogname: "この術にはリスクは無いよ",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "80",
+		skill2: "Own ATK, DEF and SPD +100%, Chakra Cost is 0 and make all Intellect and Technique allies immune to Unique, Taijutsu and Lightning Skill Damage",
+
+		ability1name: "Fabrications of Blood and Body",
+		ability1: "Maximum Chakra +30 and recover 10% HP after every action",
+
+		ability2name: "Reinforced Reanimation",
+		ability2: "Skill Damage +120% when HP is above 80%"
+	},
 }

@@ -388,4 +388,10 @@ window.unit=[
  [675, "Kushina Uzumaki, Stable Sealing Jutsu", "Body", "Konoha", 6, 40, 32675, 23093, 28105, 231, 17, 17, 156, 99, 1],
  [676, "Masked Man, Harbringer of Calamity", "Technique", "None", 6, 32, 11705, 13308, 11384, 158, 15, 14, 159, 0, 0],
  [676, "Masked Man, Harbringer of Calamity", "Technique", "None", 6, 32, 11705, 13308, 11384, 158, 15, 14, 159, 1],
+ [677, "Hiruzen Sarutobi, Great Expertise", "Body", "Konoha", 5, 32, 13951, 11384, 12667, 158, 15, 15, 157, 0, 0],
+ [677, "Hiruzen Sarutobi, Great Expertise", "Body", "Konoha", 5, 32, 13951, 11384, 12667, 158, 15, 15, 157, 0, 1],
+ [678, "Madara Uchiha, Ecstasy of Battle", "Technique", "None", 6, 40, 25161, 40666, 18991, 222, 18, 18, 150, 98, 0],
+ [678, "Madara Uchiha, Ecstasy of Battle", "Technique", "None", 6, 40, 25161, 40666, 18991, 222, 18, 18, 150, 98, 1],
+ [679, "Kabuto Yakushi, Serpent Blood and Body", "Intellect", "Oto", 6, 32, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+ [679, "Kabuto Yakushi, Serpent Blood and Body", "Intellect", "Oto", 6, 32, 0, 0, 0, 0, 0, 0, 0, 0, 1],
 ]
