@@ -250,7 +250,7 @@ window.detail = {
 	},
 
 	195: {
-		leadname: "Indominable Red Barrier",
+		leadname: "Indomitable Red Barrier",
 		lead: "Courage Type Maximum HP, ATK and SPD +20%",
 
 		skill1name: "Sage Style: Gate of the Great God",
@@ -275,7 +275,7 @@ window.detail = {
 	},
 
 	"195_6": {
-		leadname: "Indominable Red Barrier",
+		leadname: "Indomitable Red Barrier",
 		lead: "Courage Type Maximum HP, ATK and SPD +20%",
 
 		skill1name: "Sage Style: Gate of the Great God",
@@ -841,7 +841,7 @@ window.detail = {
 		ability1name: "Empty Martyr",
 		ability1: "SPD +20%, Chakra Cost -10%",
 
-		ability2name: "Feeling of Nostolgia",
+		ability2name: "Feeling of Nostalgia",
 		ability2: "For 10 turns, ATK and DEF +50%. Immune to Sharingan Skill Damage"
 	},
 
@@ -867,7 +867,7 @@ window.detail = {
 		ability1name: "Empty Martyr",
 		ability1: "Maximum HP and SPD +100%, Chakra Cost -50%",
 
-		ability2name: "Feeling of Nostolgia",
+		ability2name: "Feeling of Nostalgia",
 		ability2: "Skill Damage and DEF +150%. Immune to Sharingan, Weapon and Genjutsu Skill Damage"	
 	},
 
@@ -3329,7 +3329,7 @@ window.detail = {
 		skill1: "Deal 3% + 3,000 to all enemies.  Deal more damage the less enemies. Minimum 3x against 5 enemies, Maximum 15x against 1 enemy. [Always Hit] ",
 
 
-		skill2name: "Sense of Nostolgia",
+		skill2name: "Sense of Nostalgia",
 		skill2ogname: "行…懐かしい感覚だ",
 		skill2type: "Sage",
 		skill2speed: "Fast",
@@ -3355,7 +3355,7 @@ window.detail = {
 		skill1: "Deal 3% + 5,000 to all enemies.  Deal more damage the less enemies. Minimum 5x against 5 enemies, Maximum 25x against 1 enemy. [Always Hit] ",
 
 
-		skill2name: "Sense of Nostolgia",
+		skill2name: "Sense of Nostalgia",
 		skill2ogname: "行…懐かしい感覚だ",
 		skill2type: "Sage",
 		skill2speed: "Fastest",
@@ -7120,7 +7120,7 @@ window.detail = {
 		skill1type: "Fire",
 		skill1speed: "Fast",
 		skill1cost: "120",
-		skill1: "Deal 3% + 10,000 to all enemies, with a high chance to place the enemy under \"Great Fire\" state. Deal more damage the more HP Madara has (Maximum 10x at full health). Deal 1.5x more damage to \"Hashirama Senju\". [Great Fire: Reduce HP after every action (Max 30%) remove buff and debuff (Including resistance and chakra cost reduction)",
+		skill1: "Deal 3% + 10,000 to all enemies, with a high chance to place the enemy under \"Great Fire\" state. Deal more damage the more HP Madara has (Maximum 10x at full health). Deal 1.5x more damage to \"Hashirama Senju\". [Great Fire: Reduce HP after every action (Max 30%) remove and prevent the effects buff and debuff (including Chakra Cost, Skill Damage, Crit Chance and Crit Damage change)]",
 
 		skill2name: "You Can't See It",
 		skill2ogname: "お前には見えないのさ",
@@ -7170,7 +7170,7 @@ window.detail = {
 		skill1type: "Fire",
 		skill1speed: "Fastest",
 		skill1cost: "75",
-		skill1: "Deal 7% + 30,000 to one enemy with a high chance to place them under \"Inferno\" state.  Deal 4x more damage under \"Inferno\" state. [Inferno: Reduce HP after every action (Max 60%), becomes weak to Fire (Weakness only occurs when they are neutral to fire)]",
+		skill1: "Deal 7% + 30,000 to one enemy with a high chance to place them under \"Inferno\" state.  Deal 4x more damage under \"Inferno\" or \"Great Fire\" state. [Inferno: Reduce HP after every action (Max 60%), becomes weak to Fire (Weakness only occurs when they are neutral to fire)]",
 
 		skill2name: "Determination",
 		skill2ogname: "見極めてやる！",
@@ -7195,7 +7195,7 @@ window.detail = {
 		skill1type: "Fire",
 		skill1speed: "Fastest",
 		skill1cost: "75",
-		skill1: "Deal 7% + 30,000 to one enemy with a high chance to place them under \"Inferno\" state.  Deal 4x more damage under \"Inferno\" state. [Inferno: Reduce HP after every action (Max 60%), becomes weak to Fire (Weakness only occurs when they are neutral to fire)]",
+		skill1: "Deal 7% + 30,000 to one enemy with a high chance to place them under \"Inferno\" state.  Deal 4x more damage under \"Inferno\" or \"Great Fire\"state. [Inferno: Reduce HP after every action (Max 60%), becomes weak to Fire (Weakness only occurs when they are neutral to fire)]",
 
 		skill2name: "Determination",
 		skill2ogname: "見極めてやる！",
@@ -9611,4 +9611,104 @@ window.detail = {
 		ability2name: "Reinforced Reanimation",
 		ability2: "Skill Damage +120% when HP is above 80%"
 	},
+
+    680: {
+        leadname: "Present Day Despair",
+        lead: "Intellect Type Maximum HP +40%, Fire and Sharingan Skill Damage +120%" ,
+
+        skill1name: "Fire Style: Bomb Blast Dance",
+        skill1ogname: "火遁・爆風乱舞",
+        skill1type: "Fire",
+        skill1speed: "Fast",
+        skill1cost: "80",
+        skill1: "Deal 3% + 10,000 to all enemies with a high chance to place the enemies under \"Great Fire\" state. Deal 10x more damage to enemies under \"Great Fire\" and ignore resistance. [Great Fire: Reduce HP after every action (Max 30%) remove and prevent the effects buff and debuff (including Chakra Cost, Skill Damage, Crit Chance and Crit Damage change)] [Always Hit]",
+
+        skill2name: "There is Nothing to Talk About",
+        skill2ogname: "話すことなど何もない",
+        skill2type: "Unique",
+        skill2speed: "Fastest",
+        skill2cost: "70",
+        skill2: "Own Skill Damage +150% and Chakra Cost -50%. Recover 50% HP to all None Character allies",
+
+        ability1name: "Scheming Obsession",
+        ability1: "Chance to dodge Skills. When HP reach 0, revive once",
+
+        ability2name: "Worthless Reality",
+        ability2: "Skill Damage +100% and Cast Speed +1 when HP is above 80%"
+    },
+
+    "680_6": {
+        leadname: "Present Day Despair",
+        lead: "Intellect Type Maximum HP +40%, Fire and Sharingan Skill Damage +120%" ,
+
+        skill1name: "Fire Style: Bomb Blast Dance",
+        skill1ogname: "火遁・爆風乱舞",
+        skill1type: "Fire",
+        skill1speed: "Fast",
+        skill1cost: "80",
+        skill1: "Deal 3% + 10,000 to all enemies with a high chance to place the enemies under \"Great Fire\" state. Deal 10x more damage to enemies under \"Great Fire\" and ignore resistance. [Great Fire: Reduce HP after every action (Max 30%) remove and prevent the effects buff and debuff (including Chakra Cost, Skill Damage, Crit Chance and Crit Damage change)] [Always Hit]",
+
+        skill2name: "There is Nothing to Talk About",
+        skill2ogname: "話すことなど何もない",
+        skill2type: "Unique",
+        skill2speed: "Fastest",
+        skill2cost: "70",
+        skill2: "Own Skill Damage +150% and Chakra Cost -50%. Recover 50% HP to all None Character allies",
+
+        ability1name: "Scheming Obsession",
+        ability1: "Chance to dodge Skills. When HP reach 0, revive once",
+
+        ability2name: "Worthless Reality",
+        ability2: "Skill Damage +100% and Cast Speed +1 when HP is above 80%"
+    },
+
+    681: {
+        leadname: "Uchiha Clan Second Representative",
+        lead: "None Characters SPD and Skill Damage +60%" ,
+
+        skill1name: "Mangekyo Sharingan",
+        skill1ogname: "万華鏡写輪眼",
+        skill1type: "Sharingan",
+        skill1speed: "Fast",
+        skill1cost: "60",
+        skill1: "Deal 7% + 30,000 to one enemy with a high chance Seal, Confuse or place then under \"Genjutsu\" state. Deal 2x more damage when own SPD is buffed. Deal more damage the more None allies are alive. (Max 3x) [Genjutsu: Chance to cancel action]",
+
+        skill2name: "Don't Be Fooled",
+        skill2ogname: "騙されるな…",
+        skill2type: "Unique",
+        skill2speed: "Fast",
+        skill2cost: "90",
+        skill2: "Own ATK, SPD and Skill Damage +100%. Recover 50% HP and Chakra to all None Character allies and remove negative special states",
+
+        ability1name: "Distinct Swordsmanship",
+        ability1: "ATK and Skill Damage +100%",
+
+        ability2name: "Forsaken Sharingan",
+        ability2: "High chance to dodge Skills, immune to Negative Effects"
+    },
+
+    "681_6": {
+        leadname: "Uchiha Clan Second Representative",
+        lead: "None Characters SPD and Skill Damage +60%" ,
+
+        skill1name: "Mangekyo Sharingan",
+        skill1ogname: "万華鏡写輪眼",
+        skill1type: "Sharingan",
+        skill1speed: "Fast",
+        skill1cost: "60",
+        skill1: "Deal 7% + 30,000 to one enemy with a high chance Seal, Confuse or place then under \"Genjutsu\" state. Deal 2x more damage when own SPD is buffed. Deal more damage the more None allies are alive. (Max 3x) [Genjutsu: Chance to cancel action]",
+
+        skill2name: "Don't Be Fooled",
+        skill2ogname: "騙されるな…",
+        skill2type: "Unique",
+        skill2speed: "Fast",
+        skill2cost: "90",
+        skill2: "Own ATK, SPD and Skill Damage +100%. Recover 50% HP and Chakra to all None Character allies and remove negative special states",
+
+        ability1name: "Distinct Swordsmanship",
+        ability1: "ATK and Skill Damage +100%",
+
+        ability2name: "Forsaken Sharingan",
+        ability2: "High chance to dodge Skills, immune to Negative Effects"
+    },
 }
