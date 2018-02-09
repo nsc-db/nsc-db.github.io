@@ -9473,7 +9473,7 @@ window.detail = {
 		skill1cost: "70",
 		skill1: "Deal 7% + 5,000 to one enemy. Deal more damage the more Konoha allies. Max 5x. Deal 2x more damage while under \"Rouse\" state. [Always Hit]",
 
-		skill2name: "Becoming a Shinbi",
+		skill2name: "Becoming a Shinobi",
 		skill2ogname: "忍らしくのォ！",
 		skill2type: "Unique",
 		skill2speed: "Fast",
@@ -9498,7 +9498,7 @@ window.detail = {
 		skill1cost: "70",
 		skill1: "Deal 7% + 5,000 to one enemy. Deal more damage the more Konoha allies. Max 5x. Deal 2x more damage while under \"Rouse\" state. [Always Hit]",
 
-		skill2name: "Becoming a Shinbi",
+		skill2name: "Becoming a Shinobi",
 		skill2ogname: "忍らしくのォ！",
 		skill2type: "Unique",
 		skill2speed: "Fast",
@@ -9711,4 +9711,105 @@ window.detail = {
         ability2name: "Forsaken Sharingan",
         ability2: "High chance to dodge Skills, immune to Negative Effects"
     },
+
+     682: {
+        leadname: "Lava Infused Wind Blade",
+        lead: "Courage Type Maximum HP, ATK and Skill Damage +70%" ,
+
+        skill1name: "Sage Style: Lava Style Rasen Shuriken",
+        skill1ogname: "仙法・熔遁螺旋手裏剣",
+        skill1type: "Lava",
+        skill1speed: "Fast",
+        skill1cost: "120",
+        skill1: "Deal 3% + 10,000 to all enemeis with a high chance to place them under \"Lava\" state. Deal 10x more damage to Uchuha clan characters. Deal 1.5x damage to enemies under \"Lava\" state. [Lava: ATK and DEF -50%, cancel and prevent the effect of buffs and debuffs. Reduce HP after every action (Maximum 100%)] [Always Hit] ",
+
+        skill2name: "Changing Everything",
+        skill2ogname: "全部を変えられそうだ",
+        skill2type: "Unique",
+        skill2speed: "Fast",
+        skill2cost: "60",
+        skill2: "Own Skill Damage +120%, Cast Speed +2, and grant \"Determined\" and \"Resist\" state. [Determined: ATK, DEF and SPD +100% and recover 10% HP and Chakra when attacked] [Resist: Immune and remove all negative status, debuff and genjutsu]",
+
+        ability1name: "Blessed Six Path Sage Ninjutsu",
+        ability1: "Maximum Chakra +100, recover 10% HP and Chakra after every action",
+
+        ability2name: "Child of Prophecy",
+        ability2: "Skill Damage +100%. Chance for Chakra Cost -50% after every action"
+    },
+
+    "682_6": {
+        leadname: "Lava Infused Wind Blade",
+        lead: "Courage Type Maximum HP, ATK and Skill Damage +70%" ,
+
+        skill1name: "Sage Style: Lava Style Rasen Shuriken",
+        skill1ogname: "仙法・熔遁螺旋手裏剣",
+        skill1type: "Lava",
+        skill1speed: "Fast",
+        skill1cost: "120",
+        skill1: "Deal 3% + 10,000 to all enemeis with a high chance to place them under \"Lava\" state. Deal 10x more damage to Uchuha clan characters. Deal 1.5x damage to enemies under \"Lava\" state. [Lava: ATK and DEF -50%, cancel and prevent the effect of buffs and debuffs. Reduce HP after every action (Maximum 100%)] [Always Hit] ",
+
+        skill2name: "Changing Everything",
+        skill2ogname: "全部を変えられそうだ",
+        skill2type: "Unique",
+        skill2speed: "Fast",
+        skill2cost: "60",
+        skill2: "Own Skill Damage +120%, Cast Speed +2, and grant \"Determined\" and \"Resist\" state. [Determined: ATK, DEF and SPD +100% and recover 10% HP and Chakra when attacked] [Resist: Immune and remove all negative status, debuff and genjutsu]",
+
+        ability1name: "Blessed Six Path Sage Ninjutsu",
+        ability1: "Maximum Chakra +100, recover 10% HP and Chakra after every action",
+
+        ability2name: "Child of Prophecy",
+        ability2: "Skill Damage +100%. Chance for Chakra Cost -50% after every action"
+    },
+
+     683: {
+        leadname: "Rinnegan Foundation",
+        lead: "Intellect Type Maximum HP, ATK and Skill Damage +70%" ,
+
+        skill1name: "Inferno Style: Honoikazuchi",
+        skill1ogname: "炎遁・焔雷",
+        skill1type: "Inferno",
+        skill1speed: "Fast",
+        skill1cost: "120",
+        skill1: "Deal 3% + 10,000 to all enemeis with a high chance to place them under \"Flame\" state. Deal 10x more damage to Hokages characters. Deal 1.5x damage to enemies under \"Flame\" state. [Flame: Chance to cancel action, and reduce HP after every action (Max 50%)] [Always Hit] ",
+
+        skill2name: "Inevitable Win",
+        skill2ogname: "勝利するのは必然…",
+        skill2type: "Unique",
+        skill2speed: "Fast",
+        skill2cost: "60",
+        skill2: "Own Skill Damage +120%, Cast Speed +2, and grant \"Determined\" and \"Resist\" state. [Determined: ATK, DEF and SPD +100% and recover 10% HP and Chakra when attacked] [Resist: Immune and remove all negative status, debuff and genjutsu]",
+
+        ability1name: "Aim for a Revolution",
+        ability1: "Maximum Chakra +100, recover 10% HP and Chakra after every action",
+
+        ability2name: "Indra's Reincarnationn",
+        ability2: "Skill Damage +100%. Chance for Chakra Cost -50% after every action"
+    },
+
+    "683_6": {
+        leadname: "Rinnegan Foundation",
+        lead: "Intellect Type Maximum HP, ATK and Skill Damage +70%" ,
+
+        skill1name: "Inferno Style: Honoikazuchi",
+        skill1ogname: "炎遁・焔雷",
+        skill1type: "Inferno",
+        skill1speed: "Fast",
+        skill1cost: "120",
+        skill1: "Deal 3% + 10,000 to all enemeis with a high chance to place them under \"Flame\" state. Deal 10x more damage to Hokages characters. Deal 1.5x damage to enemies under \"Flame\" state. [Flame: Chance to cancel action, and reduce HP after every action (Max 50%)] [Always Hit] ",
+
+        skill2name: "Inevitable Win",
+        skill2ogname: "勝利するのは必然…",
+        skill2type: "Unique",
+        skill2speed: "Fast",
+        skill2cost: "60",
+        skill2: "Own Skill Damage +120%, Cast Speed +2, and grant \"Determined\" and \"Resist\" state. [Determined: ATK, DEF and SPD +100% and recover 10% HP and Chakra when attacked] [Resist: Immune and remove all negative status, debuff and genjutsu]",
+
+        ability1name: "Aim for a Revolution",
+        ability1: "Maximum Chakra +100, recover 10% HP and Chakra after every action",
+
+        ability2name: "Indra's Reincarnationn",
+        ability2: "Skill Damage +100%. Chance for Chakra Cost -50% after every action"
+    },
 }
+

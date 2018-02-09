@@ -394,9 +394,12 @@ window.unit=[
  [678, "Madara Uchiha, Ecstasy of Battle", "Technique", "None", 6, 40, 25161, 40666, 18991, 222, 18, 18, 150, 98, 1],
  [679, "Kabuto Yakushi, Serpent Blood and Body", "Intellect", "Oto", 6, 32, 13469, 16997, 9459, 158, 16, 16, 146, 0, 0],
  [679, "Kabuto Yakushi, Serpent Blood and Body", "Intellect", "Oto", 6, 32, 13469, 16997, 9459, 158, 16, 16, 146, 0, 1],
- [680, "Obito Uchiha, Present Day Despair", "Intellect", "None", 6, 50, 0, 0, 0, 0, 0, 0, 0, 0, 0],
- [680, "Obito Uchiha, Present Day Despair", "Intellect", "None", 6, 50, 0, 0, 0, 0, 0, 0, 0, 0, 1],
- [681, "Izuna Uchiha, Uchiha Clan Second Representative", "Technique", "None", 6, 50, 0, 0, 0, 0, 0, 0, 0, 0, 0],
- [681, "Izuna Uchiha, Uchiha Clan Second Representative", "Technique", "None", 6, 50, 0, 0, 0, 0, 0, 0, 0, 0, 1],
-
+ [680, "Obito Uchiha, Present Day Despair", "Intellect", "None", 6, 50, 32958, 38618, 29460, 251, 22, 17, 155, 95, 0],
+ [680, "Obito Uchiha, Present Day Despair", "Intellect", "None", 6, 50, 32958, 38618, 29460, 251, 22, 17, 155, 95, 1],
+ [681, "Izuna Uchiha, Uchiha Clan Second Representative", "Technique", "None", 6, 50, 28733, 44358, 27127, 243, 20, 19, 168, 98, 0],
+ [681, "Izuna Uchiha, Uchiha Clan Second Representative", "Technique", "None", 6, 50, 28733, 44358, 27127, 243, 20, 19, 168, 98, 1],
+ [682, "Naruto Uzumaki, Lava Infused Wind Blade", "Courage", "Konoha", 6, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+ [682, "Naruto Uzumaki, Lava Infused Wind Blade", "Courage", "Konoha", 6, 40, 0, 0, 0, 0, 0, 0, 0, 0, 1],
+ [683, "Sasuke Uchiha, Rinnegan Foundation", "Intellect", "Konoha", 6, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+ [683, "Sasuke Uchiha, Rinnegan Foundation", "Intellect", "Konoha", 6, 40, 0, 0, 0, 0, 0, 0, 0, 0, 1],
 ]
