@@ -402,4 +402,6 @@ window.unit=[
  [682, "Naruto Uzumaki, Lava Infused Wind Blade", "Courage", "Konoha", 6, 40, 0, 0, 0, 0, 0, 0, 0, 0, 1],
  [683, "Sasuke Uchiha, Rinnegan Foundation", "Intellect", "Konoha", 6, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0],
  [683, "Sasuke Uchiha, Rinnegan Foundation", "Intellect", "Konoha", 6, 40, 0, 0, 0, 0, 0, 0, 0, 0, 1],
+ [684, "Killer Bee, Black Man", "Intellect", "Kumo", 6, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+ [684, "Killer Bee, Black Man", "Intellect", "Kumo", 6, 40, 0, 0, 0, 0, 0, 0, 0, 0, 1],
 ]
