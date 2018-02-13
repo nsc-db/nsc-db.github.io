@@ -9521,7 +9521,7 @@ window.detail = {
 		skill1type: "Unique",
 		skill1speed: "Fastest",
 		skill1cost: "10",
-		skill1: "Deal 20,000 fixed damage to one enemy. Deal more damage to EX Characters",
+		skill1: "Deal 20,000 fixed damage to one enemy. Deal 10x more damage to EX Characters",
 
 		skill2name: "After All, Its a Rabble of People",
 		skill2ogname: "所詮は烏合の衆だ…",
@@ -9546,7 +9546,7 @@ window.detail = {
 		skill1type: "Unique",
 		skill1speed: "Fastest",
 		skill1cost: "10",
-		skill1: "Deal 20,000 fixed damage to one enemy. Deal more damage to EX Characters",
+		skill1: "Deal 20,000 fixed damage to one enemy. Deal 10x more damage to EX Characters",
 
 		skill2name: "After All, Its a Rabble of People",
 		skill2ogname: "所詮は烏合の衆だ…",
@@ -9838,27 +9838,27 @@ window.detail = {
     },
 
     "684_6": {
-       leadname: "Black Man",
+        leadname: "Black Panther",
         lead: "All Characters Maximum HP and Tailed Beast Skill Damage +88%" ,
 
-        skill1name: "Tailed Beast Bomb",
+        skill1name: "Killer Rap",
         skill1ogname: "尾獣玉",
         skill1type: "Tailed Beast",
         skill1speed: "Fast",
         skill1cost: "88",
-        skill1: "Deal 3% + 8,888 to all enemies. Deal 8x more damage while under \"Duel\" state. Deal 2x more damage when own ATK is buffed (Max 16x)",
+        skill1: "Smack all enemies for 3% + 8,888. Deal 8x more damage while Turnt Up. When own ATK is buffed, pop a cap dealing 2x more damage ",
 
-        skill2name: "I Have No Choice, Time to Go Eight Tails",
+        skill2name: "Puff Puff Pass Pass",
         skill2ogname: "しかたない八本目だ",
         skill2type: "Tailed Beast",
         skill2speed: "Fast",
         skill2cost: "88",
-        skill2: "Own ATK, DEF and SPD +88% and place all allies in \"Duel\" state. [Duel: Own Skill Damage increase based on how many ally are alive. +15% per ally. Max 75%] ",
+        skill2: "Some some weed increasing own ATK, DEF and SPD by 88%, and Turn Up with all his allies ",
 
-        ability1name: "Eight Tail Chakra Mode",
+        ability1name: "Snoop Dogg Mode",
         ability1: "Maximum Chakra +88, Maximum HP and Skill Damage +88%",
 
-        ability2name: "Natural Stance",
+        ability2name: "Fire Mixtape",
         ability2: "ATK +88%, chance to dodge Skills"
     },
 }
