@@ -53,6 +53,10 @@ window.unit=[
  [394, "Naruto Uzumaki, Unreachable Voice", "Body", "Konoha", 6, 30, 13790, 12824, 10244, 165, 15, 15, 150, 1],
  [395, "Sasuke Uchiha, Unshakable Heart", "Technique", "Hebi", 6, 30, 11448, 14183, 10249, 152, 15, 17, 168, 0],
  [395, "Sasuke Uchiha, Unshakable Heart", "Technique", "Hebi", 6, 30, 11448, 14183, 10249, 152, 15, 17, 168, 1],
+ */
+ [397, "Itachi Uchiha, Guide to the Future", "Courage", "Konoha", 6, 28, 10264, 15938, 10134, 145, 12, 12, 144, 420, 0],
+ [397, "Itachi Uchiha, Guide to the Future", "Courage", "Konoha", 6, 28, 10264, 15938, 10134, 145, 12, 12, 144, 420, 1],
+ /*
  [399, "Naruto Uzumaki, Trusted Question", "Heart", "Konoha", 6, 30, 15964, 11945, 8907, 155, 15, 15, 154, 0],
  [399, "Naruto Uzumaki, Trusted Question", "Heart", "Konoha", 6, 30, 15964, 11945, 8907, 155, 15, 15, 154, 1],
  [400, "Sasuke Uchiha, Scar of Loneliness", "Technique", "Taka", 6, 30, 12596, 15671, 8295, 153, 15, 15, 148, 0],
@@ -406,4 +410,6 @@ window.unit=[
  [684, "Killer Bee, Black Man", "Intellect", "Kumo", 6, 40, 30176, 29589, 20937, 207, 17, 18, 169, 96, 1],
  [685, "Tayuya, Demon Flute Melody", "Intellect", "Oto", 6, 50, 0, 0, 0, 0, 0, 0, 0, 0, 0],
  [685, "Tayuya, Demon Flute Melody", "Intellect", "Oto", 6, 50, 0, 0, 0, 0, 0, 0, 0, 0, 1],
+ [686, "Ashura Otsutsuki, Fierce Honor", "Intellect", "None", 6, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+ [686, "Ashura Otsutsuki, Fierce Honor", "Intellect", "None", 6, 40, 0, 0, 0, 0, 0, 0, 0, 0, 1],
 ]

@@ -151,14 +151,14 @@ window.detail = {
 
 	155: {
 		leadname: "Expanding Sage Jutsu",
-		lead: "Konoha Character Maximum HP +20%, Recover 5% HP after every action",
+		lead: "Konoha Character Maximum HP +20%, Regen 5% HP",
 
 		skill1name: "Wind Style: Rasenshuriken (Sage Mode)",
 		skill1ogname: "風遁・螺旋手裏剣(仙人モード)",
 		skill1type: "Sage",
 		skill1speed: "Normal",
 		skill1cost: "75",
-		skill1: "Deal 7% + 2,000 to one enemy and his surroundings",
+		skill1: "Deal 7% + 2,000 to one enemy and his Surroundings",
 
 		skill2name: "Frog Kumite",
 		skill2ogname: "蛙組手",
@@ -171,19 +171,19 @@ window.detail = {
 		ability1: "For 5 turns, Chakra Cost -50%, Skill Damage +150%",
 
 		ability2name: "Give Up on Me Giving Up",
-		ability2: "When HP reach 30% or lower, recover all HP and ATK, DEF and SPD +50%"
+		ability2: "When HP reach 30% or lower, Recover all HP and ATK, DEF and SPD +50%"
 	},
 
 	"155_6": {
 		leadname: "Expanding Sage Jutsu",
-		lead: "Konoha Character Maximum HP +20%, Recover 5% HP after every action",
+		lead: "Konoha Character Maximum HP +20%, Regen 5% HP",
 
 		skill1name: "Wind Style: Rasenshuriken (Sage Mode)",
 		skill1ogname: "風遁・螺旋手裏剣(仙人モード)",
 		skill1type: "Sage",
 		skill1speed: "Fast",
 		skill1cost: "70",
-		skill1: "Deal 7% + 10,000 to one enemy and his surroundings.  Deal 2x more damage when own SPD is buffed.",
+		skill1: "Deal 7% + 10,000 to one enemy and his Surroundings.  Deal 2x more damage when own SPD is buffed.",
 
 		skill2name: "Frog Kumite",
 		skill2ogname: "蛙組手",
@@ -196,57 +196,57 @@ window.detail = {
 		ability1: "Chakra Cost -50%, Skill Damage +250% and ATK +80%",
 
 		ability2name: "Give Up on Me Giving Up",
-		ability2: "When HP reach 30% or lower, recover all HP and ATK, DEF and SPD +100%"
+		ability2: "When HP reach 30% or lower, Recover all HP and ATK, DEF and SPD +100%"
 	},
 
 	171: {
 		leadname: "Sneering True Leader",
-		lead: "All Character ATk and Fire Skill Damage +20%",
+		lead: "All Character ATK and Fire Skill Damage +20%",
 
 		skill1name: "Fire Style: Majestic Dragon Flame",
 		skill1ogname: "火遁・豪火滅却",
 		skill1type: "Fire",
 		skill1speed: "Normal",
 		skill1cost: "85",
-		skill1: "Deal 3% + 1,000 to all enemies with a chance to burn them",
+		skill1: "Deal 3% + 1,000 to all enemies with a chance to Burn",
 
 		skill2name: "Uchiha Return",
 		skill2ogname: "うちは返し",
 		skill2type: "Wind",
 		skill2speed: "Slowest",
 		skill2cost: "70",
-		skill2: "Deal 7% + 1,000 to one enemy. Deal more damage the more damage Madara takes while casting the jutsu. (Max 5x when hit 5 times)",
+		skill2: "Deal 7% + 1,000 to one enemy. Deal more damage the more attacks Madara takes while casting the jutsu. (Max 5x when attacked 5 times)",
 
 		ability1name: "The Power of Life and Death",
-		ability1: "ATK +70% and incoming Skill damage are halved when HP is above 50%",
+		ability1: "ATK +70% and Incoming Skill Damage -50% when HP is above 50%",
 
 		ability2name: "Aloof Dream",
-		ability2: "For 5 turns, Immune to negative effect and Fire Skill Damage +100%"
+		ability2: "For 5 turns, Immune to Status Effect and Fire Skill Damage +100%"
 	},
 
 	"171_6": {
 		leadname: "Sneering True Leader",
-		lead: "All Character ATk and Fire Skill Damage +20%",
+		lead: "All Character ATK and Fire Skill Damage +20%",
 
 		skill1name: "Fire Style: Majestic Dragon Flame",
 		skill1ogname: "火遁・豪火滅却",
 		skill1type: "Fire",
 		skill1speed: "Fast",
 		skill1cost: "70",
-		skill1: "Deal 3% + 6,000 to all enemies with a chance to burn them.  Deal 3x more damage when own ATK is buffed",
+		skill1: "Deal 3% + 6,000 to all enemies with a chance to Burn.  Deal 3x more damage when own ATK is buffed",
 
 		skill2name: "Uchiha Return",
 		skill2ogname: "うちは返し",
 		skill2type: "Wind",
 		skill2speed: "Slow",
 		skill2cost: "60",
-		skill2: "Deal 7% + 10,000 to one enemy. Deal more damage the more damage Madara takes while casting the jutsu. (Max 6x when hit 3 times)",
+		skill2: "Deal 7% + 10,000 to one enemy. Deal more damage the more attacks Madara takes while casting the jutsu. (Max 6x when attacked 3 times)",
 
 		ability1name: "The Power of Life and Death",
-		ability1: "ATK +100%. Incoming Skill damage are halved when HP is above 40%",
+		ability1: "ATK +100%. Incoming Skill Damage -50% when HP is above 40%",
 
 		ability2name: "Aloof Dream",
-		ability2: "Immune to negative effect and Skill Damage +130%"
+		ability2: "Immune to Status Effect and Skill Damage +130%"
 	},
 
 	195: {
@@ -268,7 +268,7 @@ window.detail = {
 		skill2: "Deal 7% + 1,500 to one enemy. All allies DEF +50%",
 
 		ability1name: "First Hokage",
-		ability1: "Recover 10% HP and Chakra after every action",
+		ability1: "Chakra Recovery and Regen +10% HP",
 
 		ability2name: "Legendary God Shinobi",
 		ability2: "Chakra Cost -20% and Skill Damage +100% when HP is above 80%"
@@ -290,10 +290,10 @@ window.detail = {
 		skill2type: "Wood",
 		skill2speed: "Fast",
 		skill2cost: "65",
-		skill2: "Deal 7% + 8,000 to one enemy. All allies DEF +100%.  Deal more damage the more HP Hashira has.  Maximum 3x when HP is full",
+		skill2: "Deal 7% + 8,000 to one enemy. All allies DEF +100%.  Deal more damage the more HP Hashirama has, Maximum 3x when HP is full",
 
 		ability1name: "First Hokage",
-		ability1: "Recover 20% HP and Chakra after every action",
+		ability1: "Chakra Recovery and Regen +15% HP",
 
 		ability2name: "Legendary God Shinobi",
 		ability2: "Chakra Cost -20% and Skill Damage +130%"
@@ -308,7 +308,7 @@ window.detail = {
 		skill1type: "Rinnegan",
 		skill1speed: "Slow",
 		skill1cost: "100",
-		skill1: "Deal 3% + 1,500 to all enemies.  Cancel the enemies' action",
+		skill1: "Deal 3% + 1,500 to all enemies. Cancel the enemies' action",
 
 
 		skill2name: "Almighty Push",
@@ -319,10 +319,10 @@ window.detail = {
 		skill2: "Deal 7% + 800 to one enemy. Slightly pushes the enemy on the action bar.  Only effective when the enemy is in the red bar",
 
 		ability1name: "The World Will Know Pain",
-		ability1: "Rinnegan Skill Damage +120% when Chakra is max",
+		ability1: "Rinnegan Skill Damage +120% when Chakra is Max",
 
 		ability2name: "Invisible God",
-		ability2: "Immune to negative effect and incoming Skill damage are halved when HP is above 80%"
+		ability2: "Immune to Status Effect and Incoming Skill Damage -50% when HP is above 80%"
 	},
 
 	"204_6": {
@@ -1340,6 +1340,58 @@ window.detail = {
 		ability2: "Chakra Cost -20%, very low chance to reduce HP by 10%"
 	},
 	*/
+
+	397: {
+		leadname: "Guide to the Future",
+		lead: "Konoha Character Chakra Recovery +15%",
+
+		skill1name: "Amaterasu",
+		skill1ogname: "天照",
+		skill1type: "Sharingan",
+		skill1speed: "Fastest",
+		skill1cost: "30",
+		skill1: "Deal 7% + 1,000 to one enemy with a chance to inflict \"Black Flames\" state. Deal more damage the less Intellect enemy (Max 3x with 1 enemy, 2x with 5 enemies, 0x with 0 Intellect). [Black Flames: Inflict Damage every turn with a chance to reduce SPD]",
+
+
+		skill2name: "I Will Leave Everything to You",
+		skill2ogname: "お前に全てを託す",
+		skill2type: "Unique",
+		skill2speed: "Normal",
+		skill2cost: "100",
+		skill2: "Own ATK, DEF and SPD +30%. Skill Damage +150% to the Leader, Itachi's HP is reduce to 1 and is Sealed",
+
+		ability1name: "Last Mission",
+		ability1: "SPD and Skill Damage +60%",
+
+		ability2name: "Edo Tensei Body",
+		ability2: "Chakra Cost -30% and Chakra Recovery +10% when HP is above 50%"
+	},
+
+	"397_6": {
+		leadname: "Guide to the Future",
+		lead: "Konoha Character Chakra Recovery +15%",
+
+		skill1name: "Amaterasu",
+		skill1ogname: "天照",
+		skill1type: "Sharingan",
+		skill1speed: "Fastest",
+		skill1cost: "25",
+		skill1: "Deal 7% + 5,000 to one enemy with a chance to inflict \"Black Flames\" state. Deal more damage the less Intellect enemy (Max 3x with 1 enemy, 2x with 5 enemies, 0x with 0 Intellect). [Black Flames: Inflict Damage every turn with a chance to reduce SPD]",
+
+
+		skill2name: "I Will Leave Everything to You",
+		skill2ogname: "お前に全てを託す",
+		skill2type: "Unique",
+		skill2speed: "Normal",
+		skill2cost: "100",
+		skill2: "Own ATK, DEF and SPD +30%. Skill Damage +150% to the Leader, Itachi's HP is reduce to 1 and is Sealed",
+
+		ability1name: "Last Mission",
+		ability1: "SPD and Skill Damage +120%",
+
+		ability2name: "Edo Tensei Body",
+		ability2: "Chakra Cost -40% and Chakra Recovery +20%"
+	},
 	
 	412: {
 		leadname: "Chosen Future",
@@ -9910,6 +9962,56 @@ window.detail = {
 
         ability2name: "Power of the Curse Seal",
         ability2: "ATK and Skill Damage +100% when HP is above 80%"
+    },
+
+    686: {
+        leadname: "Fierce Honor",
+        lead: "Intellect Type ATK, DEF and SPD +60%" ,
+
+        skill1name: "One Strike: Wind Blade",
+        skill1ogname: "一刀・風刃",
+        skill1type: "Wind",
+        skill1speed: "Fast",
+        skill1cost: "80",
+        skill1: "Deal 7% + 12,000 to one enemy. Deal more damage the more allies alive, max 4x. Deal 10x more damage to \"Indra Otsutsuki\". (Max 40x) [Always Hits]",
+
+        skill2name: "This is the Power of Bonds!!",
+        skill2ogname: "これが……絆の力だ！！！",
+        skill2type: "Unique",
+        skill2speed: "Normal",
+        skill2cost: "150",
+        skill2: "All allies ATK +100%. Additional effect depending on the allies types. Skill Damage +100% with Heart, Cast Speed +2 with Technique, Recover all HP with Body",
+
+        ability1name: "Six Paths Power",
+        ability1: "Maximum Chakra +100. Cast Speed +1 when Chakra is above 70%",
+
+        ability2name: "Bonds with Comrades",
+        ability2: "ATK, DEF and Skill damage +100% when HP is above 60%"
+    },
+
+    "686_6": {
+       leadname: "Fierce Honor",
+        lead: "Intellect Type ATK, DEF and SPD +60%" ,
+
+        skill1name: "One Strike: Wind Blade",
+        skill1ogname: "一刀・風刃",
+        skill1type: "Wind",
+        skill1speed: "Fast",
+        skill1cost: "80",
+        skill1: "Deal 7% + 12,000 to one enemy. Deal more damage the more allies alive, max 4x. Deal 10x more damage to \"Indra Otsutsuki\". (Max 40x) [Always Hits]",
+
+        skill2name: "This is the Power of Bonds!!",
+        skill2ogname: "これが……絆の力だ！！！",
+        skill2type: "Unique",
+        skill2speed: "Normal",
+        skill2cost: "150",
+        skill2: "All allies ATK +100%. Additional effect depending on the allies types. Skill Damage +100% with Heart, Cast Speed +2 with Technique, Recover all HP with Body",
+
+        ability1name: "Six Paths Power",
+        ability1: "Maximum Chakra +100. Cast Speed +1 when Chakra is above 70%",
+
+        ability2name: "Bonds with Comrades",
+        ability2: "ATK, DEF and Skill damage +100% when HP is above 60%"
     },
 }
 
