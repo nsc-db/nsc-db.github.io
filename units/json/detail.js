@@ -9861,5 +9861,55 @@ window.detail = {
         ability2name: "Fire Mixtape",
         ability2: "ATK +88%, chance to dodge Skills"
     },
+
+     685: {
+        leadname: "Demon Flute Melody",
+        lead: "Chakra Recovery +10% and Half the effect of Debuff and Status Effect" ,
+
+        skill1name: "Ninth Passage: Demon Revolution",
+        skill1ogname: "終曲第九節・魔境の乱",
+        skill1type: "Unique",
+        skill1speed: "Fast",
+        skill1cost: "80",
+        skill1: "Deal 7% + 15,000 to one enemy and increase his/her Chakra Cost by 30%. Deal 2x more damage to enemies under a Status Effect (Poison, Stun, Confusion, Charm, Seal, Toxic, Paralyze). Deal 7x more damage to Konoha Characters. (Note: Chakra Cost Increase is only active in PvP)",
+
+        skill2name: "This Time, Its My Turn!",
+        skill2ogname: "今度はウチの番だ！！",
+        skill2type: "Genjutsu",
+        skill2speed: "Fastest",
+        skill2cost: "60",
+        skill2: "High Chance to reduce all enemies ATK, DEF or/and SPD by 60%. High Chance to Paralyze, Confuse, Charm, Seal or place them under \"Deficit\" state. [Deficit: Chakra Recovery becomes 0] (Note: Deficit is only active in PvP)",
+
+        ability1name: "Poker Face",
+        ability1: "Maximum HP +100% and Chakra Recovery +15%. Immune to Debuff and Status Effect.",
+
+        ability2name: "Power of the Curse Seal",
+        ability2: "ATK and Skill Damage +100% when HP is above 80%"
+    },
+
+    "685_6": {
+        leadname: "Demon Flute Melody",
+        lead: "Chakra Recovery +10% and Half the effect of Debuff and Status Effect" ,
+
+        skill1name: "Ninth Passage: Demon Revolution",
+        skill1ogname: "終曲第九節・魔境の乱",
+        skill1type: "Unique",
+        skill1speed: "Fast",
+        skill1cost: "80",
+        skill1: "Deal 7% + 15,000 to one enemy and increase his/her Chakra Cost by 30%. Deal 2x more damage to enemies under a Status Effect (Poison, Stun, Confusion, Charm, Seal, Toxic, Paralyze). Deal 7x more damage to Konoha Characters. (Note: Chakra Cost Increase is only active in PvP)",
+
+        skill2name: "This Time, Its My Turn!",
+        skill2ogname: "今度はウチの番だ！！",
+        skill2type: "Genjutsu",
+        skill2speed: "Fastest",
+        skill2cost: "60",
+        skill2: "High Chance to reduce all enemies ATK, DEF or/and SPD by 60%. High Chance to Paralyze, Confuse, Charm, Seal or place them under \"Deficit\" state. [Deficit: Chakra Recovery becomes 0] (Note: Deficit is only active in PvP)",
+
+        ability1name: "Poker Face",
+        ability1: "Maximum HP +100% and Chakra Recovery +15%. Immune to Debuff and Status Effect.",
+
+        ability2name: "Power of the Curse Seal",
+        ability2: "ATK and Skill Damage +100% when HP is above 80%"
+    },
 }
 
