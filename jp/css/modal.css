@@ -45,20 +45,20 @@
 		color: #ffffff;
 	}
 	
-	.modal-header .type[type="Technique" i] {
+	.modal-header .type[type="技" i] {
 		background-color: #1a72bd;
 	}
-	.modal-header .type[type="Heart" i] {
+	.modal-header .type[type="心" i] {
 		background-color: #bd951a;
 	}
-	.modal-header .type[type="Body" i]  {
+	.modal-header .type[type="体" i]  {
 		background-color: #bd1a1a;
 	}
-	.modal-header .type[type="Courage" i] {
+	.modal-header .type[type="勇" i] {
 		color: #323232;
 		background-color: #efefef;
 	}
-	.modal-header .type[type="Intellect" i] {
+	.modal-header .type[type="知" i] {
 		background-color: #323232;
 	}
 
