@@ -33,7 +33,6 @@
 	<link rel="stylesheet" type="text/css" href="css/style.css"/>
 	
 	<!-- DATABASE ENTRIES -->
-	<script type="text/javascript" src="json/unit.js"></script>
 	<script type="text/javascript" src="json/detail.js"></script>
  	<script type="text/javascript" src="json/damage.js"></script>
 
@@ -94,7 +93,6 @@
 													<ul class="nav nav-nscdb" role="tablist">
 														<li class="active"><a id="skills-btn" class="active" data-toggle="tab" href="#skills">スキル</a></li>
 														<li><a id="ability-btn" data-toggle="tab" href="#ability">アビリティ</a></li>
-														<li><a id="status-btn" data-toggle="tab" href="#status">ステータス</a></li>
 														<li class="hidden"><a id="gear-btn" data-toggle="tab" href="#gear">Gear</a></li>
 													</ul>
 												</div>
@@ -350,7 +348,6 @@
 													<ul class="nav nav-nscdb">
 														<li class="active"><a id="skills-six-btn" data-toggle="tab" href="#skills-six">スキル</a></li>
 														<li><a id="ability-six-btn" data-toggle="tab" href="#ability-six">アビリティ</a></li>
-														<li><a id="status-six-btn" data-toggle="tab" href="#status-six">ステータス</a></li>
 														<li class="hidden"><a id="gear-six-btn" data-toggle="tab" href="#gear-six">Gear</a></li>
 													</ul>
 												</div>
@@ -679,18 +676,14 @@
 			$('#myTable').DataTable({
 				stateSave: true,
 				columns: [
-		            { title: "No" },
 		            { title: "Icon" },
 		            { title: "名前" },
 		            { title: "属性" },
 		            { title: "所属" },
 		            { title: "レア" },
-		            { title: "Cost" },
 		            { title: "HP" },
 		            { title: "攻" },
 		            { title: "防" },
-		            { title: "早" },
-		            { title: "評" }
 		        ]
 			});
 		} );

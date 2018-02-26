@@ -90,7 +90,14 @@
 		
 		// Imagem pricipal (de onde pega essas imagens?)
 		$('#card-art-five-star').attr('src', 'assets/img/units/' + id + '.png');
-		$('#card-art-six-star').attr('src', 'assets/img/units/' + id + '_6.png');
+		checkImage(
+			'assets/img/units/' + id + '_6.png', 
+			function(){ 
+				$('#card-art-six-star').attr('src', 'assets/img/units/' + id + '_6.png');
+			}, 
+		 	function(){ 
+		 		$('#card-art-six-star').attr('src', 'assets/img/units/' + id + '.png');
+		 	});
 		
 		
 		/*
@@ -180,4 +187,10 @@
 		
 	}
 	
+	function checkImage(imageSrc, good, bad) {
+	    var img = new Image();
+	    img.onload = good; 
+	    img.onerror = bad;
+	    img.src = imageSrc;
+	}
 })();
