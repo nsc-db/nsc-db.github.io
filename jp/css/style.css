@@ -145,7 +145,7 @@ td a {
 	pointer-events: none;
 }
 
-td.affiliation[affiliation="Akatsuki" i] {
+td.affiliation[affiliation="“暁”" i] {
 	width: 60px; height: 60px;
 	background-position: center;
 	background-size: 60px;
@@ -153,7 +153,7 @@ td.affiliation[affiliation="Akatsuki" i] {
 	background-image: url(../img/belong/akatsuki.png);
 }
 
-td.affiliation[affiliation="Ame" i] {
+td.affiliation[affiliation="雨" i] {
 	width: 60px; height: 60px;
 	background-position: center;
 	background-size: 60px;
@@ -161,7 +161,7 @@ td.affiliation[affiliation="Ame" i] {
 	background-image: url(../img/belong/ame.png);
 }
 
-td.affiliation[affiliation="Hebi" i] {
+td.affiliation[affiliation="“蛇”" i] {
 	width: 60px; height: 60px;
 	background-position: center;
 	background-size: 60px;
@@ -169,7 +169,7 @@ td.affiliation[affiliation="Hebi" i] {
 	background-image: url(../img/belong/hebi.png);
 }
 
-td.affiliation[affiliation="Iron" i] {
+td.affiliation[affiliation="鉄" i] {
 	width: 60px; height: 60px;
 	background-position: center;
 	background-size: 60px;
@@ -177,7 +177,7 @@ td.affiliation[affiliation="Iron" i] {
 	background-image: url(../img/belong/iron.png);
 }
 
-td.affiliation[affiliation="Iwa" i] {
+td.affiliation[affiliation="岩" i] {
 	width: 60px; height: 60px;
 	background-position: center;
 	background-size: 60px;
@@ -185,7 +185,7 @@ td.affiliation[affiliation="Iwa" i] {
 	background-image: url(../img/belong/iwa.png);
 }
 
-td.affiliation[affiliation="Kiri" i] {
+td.affiliation[affiliation="霧" i] {
 	width: 60px; height: 60px;
 	background-position: center;
 	background-size: 60px;
@@ -193,7 +193,7 @@ td.affiliation[affiliation="Kiri" i] {
 	background-image: url(../img/belong/Kiri.png);
 }
 
-td.affiliation[affiliation="Konoha" i] {
+td.affiliation[affiliation="木ノ葉" i] {
 	width: 60px; height: 60px;
 	background-position: center;
 	background-size: 60px;
@@ -201,7 +201,7 @@ td.affiliation[affiliation="Konoha" i] {
 	background-image: url(../img/belong/konoha.png);
 }
 
-td.affiliation[affiliation="Kumo" i]  {
+td.affiliation[affiliation="雲" i]  {
 	width: 60px; height: 60px;
 	background-position: center;
 	background-size: 60px;
@@ -209,7 +209,7 @@ td.affiliation[affiliation="Kumo" i]  {
 	background-image: url(../img/belong/kumo.png);
 }
 
-td.affiliation[affiliation="None" i] {
+td.affiliation[affiliation="その他" i] {
 	width: 60px; height: 60px;
 	background-position: center;
 	background-size: 60px;
@@ -217,7 +217,7 @@ td.affiliation[affiliation="None" i] {
 	background-image: url(../img/belong/none.png);
 }
 
-td.affiliation[affiliation="Oto" i] {
+td.affiliation[affiliation="音" i] {
 	width: 60px; height: 60px;
 	background-position: center;
 	background-size: 60px;
@@ -225,7 +225,7 @@ td.affiliation[affiliation="Oto" i] {
 	background-image: url(../img/belong/oto.png);
 }
 
-td.affiliation[affiliation="Suna" i] {
+td.affiliation[affiliation="砂" i] {
 	width: 60px; height: 60px;
 	background-position: center;
 	background-size: 60px;
@@ -233,7 +233,7 @@ td.affiliation[affiliation="Suna" i] {
 	background-image: url(../img/belong/suna.png);
 }
 
-td.affiliation[affiliation="Taka" i] {
+td.affiliation[affiliation="“鷹”" i] {
 	width: 60px; height: 60px;
 	background-position: center;
 	background-size: 60px;
@@ -241,7 +241,7 @@ td.affiliation[affiliation="Taka" i] {
 	background-image: url(../img/belong/taka.png);
 }
 
-td.affiliation[affiliation="Taki" i] {
+td.affiliation[affiliation="滝" i] {
 	width: 60px; height: 60px;
 	background-position: center;
 	background-size: 60px;

@@ -18,7 +18,7 @@
 					+'		<td class="text-center"><img id="icon-table" src="assets/img/units/icons/thumb_' + image + '"height="60px" width="60px" /><div style="display:none">' + data['cardId'] + '</td>'
 					+'		<td class="text-left"><a href= "view/' + data["cardId"] + '" data-toggle="modal" data-target="#newModal">' + name + " 【" + data["cardSubName"] + '】</a></td>'
 					+'		<td class="text-center">' + type + '</td>'
-					+'		<td class="text-center affiliation">' + affi + '</td>'
+					+'		<td class="text-center affiliation" affiliation="' + affi + '">' + affi + '</td>'
 					+'		<td class="text-center rarity" rarity="' + rare + '"><div style="display:none">' + rare + '</div></td>'
 					+'		<td class="text-center">' + data["cost"] + '</td>'
 					+'		<td class="text-center">' + hp + '</td>'
