@@ -33,8 +33,15 @@
 	<link rel="stylesheet" type="text/css" href="css/style.css"/>
 	
 	<!-- DATABASE ENTRIES -->
-	<script type="text/javascript" src="json/detail.js"></script>
- 	<script type="text/javascript" src="json/damage.js"></script>
+ 	<script type="text/javascript" src="json/chara.js"></script>
+ 	<script type="text/javascript" src="json/charaname.js"></script>
+ 	<script type="text/javascript" src="json/skill.js"></script>
+ 	<script type="text/javascript" src="json/skillname.js"></script>
+ 	<script type="text/javascript" src="json/ability.js"></script>
+ 	<script type="text/javascript" src="json/lead.js"></script>
+ 	<script type="text/javascript" src="json/key.js"></script>
+ 	<script type="text/javascript" src="json/evo.js"></script>
+
 
 
 	<link rel="stylesheet" href="https://i.icomoon.io/public/adb54f46d6/Linearicons/style.css">
@@ -93,6 +100,7 @@
 													<ul class="nav nav-nscdb" role="tablist">
 														<li class="active"><a id="skills-btn" class="active" data-toggle="tab" href="#skills">スキル</a></li>
 														<li><a id="ability-btn" data-toggle="tab" href="#ability">アビリティ</a></li>
+														<li class="hidden"><a id="status-btn" data-toggle="tab" href="#status">ステータス</a></li>
 														<li class="hidden"><a id="gear-btn" data-toggle="tab" href="#gear">Gear</a></li>
 													</ul>
 												</div>
@@ -348,6 +356,7 @@
 													<ul class="nav nav-nscdb">
 														<li class="active"><a id="skills-six-btn" data-toggle="tab" href="#skills-six">スキル</a></li>
 														<li><a id="ability-six-btn" data-toggle="tab" href="#ability-six">アビリティ</a></li>
+														<li class="hidden"><a id="status-six-btn" data-toggle="tab" href="#status-six">ステータス</a></li>
 														<li class="hidden"><a id="gear-six-btn" data-toggle="tab" href="#gear-six">Gear</a></li>
 													</ul>
 												</div>
@@ -681,9 +690,11 @@
 		            { title: "属性" },
 		            { title: "所属" },
 		            { title: "レア" },
+		            { title: "コスト" },
 		            { title: "HP" },
 		            { title: "攻" },
 		            { title: "防" },
+		            { title: "早" }
 		        ]
 			});
 		} );
