@@ -1,6 +1,6 @@
 (function(){
 
-	function _createCard(data, name, type, hp, atk, def, spd, rare, id){
+	function _createCard(data, name, type, hp, atk, def, spd, rare, affi, id){
 		var image;
 		//Rarity Check
 		if(rare == 6){
@@ -18,8 +18,8 @@
 					+'		<td class="text-center"><img id="icon-table" src="assets/img/units/icons/thumb_' + image + '"height="60px" width="60px" /><div style="display:none">' + data['cardId'] + '</td>'
 					+'		<td class="text-left"><a href= "view/' + data["cardId"] + '" data-toggle="modal" data-target="#newModal">' + name + " 【" + data["cardSubName"] + '】</a></td>'
 					+'		<td class="text-center">' + type + '</td>'
-					+'		<td class="text-center affiliation" affiliation="Konoha"><div style="display:none;">Konoha</div></td>'
-					+'		<td class="text-center rarity" rarity="' + rare + '"></td>'
+					+'		<td class="text-center affiliation">' + affi + '</td>'
+					+'		<td class="text-center rarity" rarity="' + rare + '"><div style="display:none">' + rare + '</div></td>'
 					+'		<td class="text-center">' + data["cost"] + '</td>'
 					+'		<td class="text-center">' + hp + '</td>'
 					+'		<td class="text-center">' + atk + '</td>'
@@ -43,6 +43,7 @@
 		var def;
 		var spd;
 		var rare;
+		var affi;
 		var id;
 		for(var i in window.chara){
 			var unit = window.chara[i];
@@ -74,9 +75,12 @@
 				}
 			}
 			id = unit['cardId'];
+
+			//Affi
+			affi = checkAffi(unit);
 			if(units.indexOf(chara[0]) == -1){ // << verifica se já criou o card pelo [ID]
 				units.push(unit[0]); // << Salvo o id do card, para impedir cards repetidos de existirem			
-				content += _createCard(unit, name, type, hp, atk, def, spd, rare, id); // chama a função passando os dados do card
+				content += _createCard(unit, name, type, hp, atk, def, spd, rare, affi, id); // chama a função passando os dados do card
 			}
 		}
 		console.log(i, window.chara[i]);
@@ -411,12 +415,22 @@
 	}
 
 	function checkType(unit){
-		var y;
 		for(var i in window.key){
 			if(window.key[i][0] == 'type'){
 				if(unit['attribute'] == window.key[i][1]){
 					type = window.key[i][2];
 					return type;
+				}
+			}
+		}
+	}
+
+	function checkAffi(unit){
+		for(var i in window.key){
+			if(window.key[i][0] == 'affi'){
+				if(unit['charaType'] == window.key[i][1]){
+					affi = window.key[i][2];
+					return affi;
 				}
 			}
 		}
