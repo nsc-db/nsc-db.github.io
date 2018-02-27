@@ -4676,6 +4676,26 @@ window.skillname=[
           "name": "ﾅﾙﾄ落しを見せてやるってばよ"
         },
         {
+          "cardBattleSkillNameId": "2286",
+          "name": "乙女の神秘"
+        },
+        {
+          "cardBattleSkillNameId": "2288",
+          "name": "乙女心全開！！"
+        },
+        {
+          "cardBattleSkillNameId": "2290",
+          "name": "神威須佐能乎・迅雷"
+        },
+        {
+          "cardBattleSkillNameId": "2292",
+          "name": "一緒に見ていてくれ"
+        },
+        {
+          "cardBattleSkillNameId": "2330",
+          "name": "仲間はオレが守る！！"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },

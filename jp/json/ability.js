@@ -15759,255 +15759,93 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
-          "abilityId": "10000",
-          "abilityName": "攻撃・防御・素早さダウン（大）",
-          "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
-          "abilityEffectDescription": "攻撃・防御・素早さが大きくダウンする",
-          "effectIdx1": "300000",
+          "abilityId": "1783",
+          "abilityName": "内なる精神",
+          "abilityDescription": "行動毎に攻撃力と防御力と素早さが30%アップする(最大4回）",
+          "abilityEffectDescription": "行動毎に攻撃力と防御力と素早さが30%アップする(最大4回）",
+          "effectIdx1": "1439",
+          "effectIdx2": "1440",
+          "effectIdx3": "1528"
+        },
+        {
+          "abilityId": "1784",
+          "abilityName": "乙女の処世術",
+          "abilityDescription": "HPが70％以上だとスキルダメージ100％アップ、70％以下だと全スキルダメージを半減する",
+          "abilityEffectDescription": "HPが70％以上だとスキルダメージ100％アップ、70％以下だと全スキルダメージを半減する",
+          "effectIdx1": "31609",
+          "effectIdx2": "1670",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1785",
+          "abilityName": "オビトの遺志",
+          "abilityDescription": "チャクラMAX時、攻撃力とスキルダメージが80％アップする",
+          "abilityEffectDescription": "チャクラMAX時、攻撃力とスキルダメージが80％アップする",
+          "effectIdx1": "981",
+          "effectIdx2": "1671",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1786",
+          "abilityName": "リンの想い",
+          "abilityDescription": "最大チャクラが50アップし、最大HPが100％アップする",
+          "abilityEffectDescription": "最大チャクラが50アップし、最大HPが100％アップする",
+          "effectIdx1": "689",
+          "effectIdx2": "684",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1787",
+          "abilityName": "オビトの遺志",
+          "abilityDescription": "チャクラ50％以上の時、攻撃力とスキルダメージが100％アップする",
+          "abilityEffectDescription": "チャクラ50％以上の時、攻撃力とスキルダメージが100％アップする",
+          "effectIdx1": "869",
+          "effectIdx2": "33409",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1788",
+          "abilityName": "リンの想い",
+          "abilityDescription": "最大チャクラが120アップし、最大HPが150％アップする",
+          "abilityEffectDescription": "最大チャクラが120アップし、最大HPが150％アップする",
+          "effectIdx1": "20011",
+          "effectIdx2": "1212",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1813",
+          "abilityName": "カカシへの対抗心",
+          "abilityDescription": "最大HPとスキルダメージが50％アップ、HPが50％以下になると素早さが100％アップする",
+          "abilityEffectDescription": "最大HPとスキルダメージが50％アップ、HPが50％以下になると素早さが100％アップする",
+          "effectIdx1": "10049",
+          "effectIdx2": "682",
+          "effectIdx3": "1672"
+        },
+        {
+          "abilityId": "1814",
+          "abilityName": "カカシとの友情",
+          "abilityDescription": "HPが0以下になると1度だけ耐える",
+          "abilityEffectDescription": "HPが0以下になると1度だけ耐える",
+          "effectIdx1": "312",
           "effectIdx2": "0",
           "effectIdx3": "0"
         },
         {
-          "abilityId": "10001",
-          "abilityName": "攻撃・防御・素早さダウン（中）",
-          "abilityDescription": "攻撃・防御・素早さがダウンする",
-          "abilityEffectDescription": "攻撃・防御・素早さがダウンする",
-          "effectIdx1": "300001",
-          "effectIdx2": "0",
-          "effectIdx3": "0"
+          "abilityId": "1815",
+          "abilityName": "カカシへの対抗心",
+          "abilityDescription": "最大HPとスキルダメージが80％アップ、HPが50％以下になると素早さが150％アップする",
+          "abilityEffectDescription": "最大HPとスキルダメージが80％アップ、HPが50％以下になると素早さが150％アップする",
+          "effectIdx1": "649",
+          "effectIdx2": "694",
+          "effectIdx3": "1673"
         },
         {
-          "abilityId": "10002",
-          "abilityName": "攻撃・防御・素早さダウン（小）",
-          "abilityDescription": "攻撃・防御・素早さが少しダウンする",
-          "abilityEffectDescription": "攻撃・防御・素早さが少しダウンする",
-          "effectIdx1": "300002",
-          "effectIdx2": "0",
+          "abilityId": "1816",
+          "abilityName": "カカシとの友情",
+          "abilityDescription": "HPが0以下になると1度だけ耐え、HPが大回復する",
+          "abilityEffectDescription": "HPが0以下になると1度だけ耐え、HPが大回復する",
+          "effectIdx1": "312",
+          "effectIdx2": "618",
           "effectIdx3": "0"
         },
-        {
-          "abilityId": "10100",
-          "abilityName": "攻撃力ダウン（大）",
-          "abilityDescription": "攻撃力が大きくダウンする",
-          "abilityEffectDescription": "攻撃力が大きくダウンする",
-          "effectIdx1": "300003",
-          "effectIdx2": "0",
-          "effectIdx3": "0"
-        },
-        {
-          "abilityId": "10101",
-          "abilityName": "攻撃力ダウン（中）",
-          "abilityDescription": "攻撃力がダウンする",
-          "abilityEffectDescription": "攻撃力がダウンする",
-          "effectIdx1": "300004",
-          "effectIdx2": "0",
-          "effectIdx3": "0"
-        },
-        {
-          "abilityId": "10102",
-          "abilityName": "攻撃力ダウン（小）",
-          "abilityDescription": "攻撃力が少しダウンする",
-          "abilityEffectDescription": "攻撃力が少しダウンする",
-          "effectIdx1": "475",
-          "effectIdx2": "0",
-          "effectIdx3": "0"
-        },
-        {
-          "abilityId": "10200",
-          "abilityName": "防御力ダウン（大）",
-          "abilityDescription": "防御力が大きくダウンする",
-          "abilityEffectDescription": "防御力が大きくダウンする",
-          "effectIdx1": "12106",
-          "effectIdx2": "0",
-          "effectIdx3": "0"
-        },
-        {
-          "abilityId": "10201",
-          "abilityName": "防御力ダウン（中）",
-          "abilityDescription": "防御力がダウンする",
-          "abilityEffectDescription": "防御力がダウンする",
-          "effectIdx1": "12104",
-          "effectIdx2": "0",
-          "effectIdx3": "0"
-        },
-        {
-          "abilityId": "10202",
-          "abilityName": "防御力ダウン（小）",
-          "abilityDescription": "防御力が少しダウンする",
-          "abilityEffectDescription": "防御力が少しダウンする",
-          "effectIdx1": "12102",
-          "effectIdx2": "0",
-          "effectIdx3": "0"
-        },
-        {
-          "abilityId": "10300",
-          "abilityName": "素早さダウン（大）",
-          "abilityDescription": "素早さが大きくダウンする",
-          "abilityEffectDescription": "素早さが大きくダウンする",
-          "effectIdx1": "1080",
-          "effectIdx2": "0",
-          "effectIdx3": "0"
-        },
-        {
-          "abilityId": "10301",
-          "abilityName": "素早さダウン（中）",
-          "abilityDescription": "素早さがダウンする",
-          "abilityEffectDescription": "素早さがダウンする",
-          "effectIdx1": "1082",
-          "effectIdx2": "0",
-          "effectIdx3": "0"
-        },
-        {
-          "abilityId": "10302",
-          "abilityName": "素早さダウン（小）",
-          "abilityDescription": "素早さが少しダウンする",
-          "abilityEffectDescription": "素早さが少しダウンする",
-          "effectIdx1": "300011",
-          "effectIdx2": "0",
-          "effectIdx3": "0"
-        },
-        {
-          "abilityId": "11000",
-          "abilityName": "被ダメージ時HP自動回復（5回）",
-          "abilityDescription": "ダメージを受けたときにHPが全回復する（5回行動まで）",
-          "abilityEffectDescription": "ダメージを受けたときにHPが全回復する（5回行動まで）",
-          "effectIdx1": "1307",
-          "effectIdx2": "0",
-          "effectIdx3": "0"
-        },
-        {
-          "abilityId": "11100",
-          "abilityName": "HP減少（大）",
-          "abilityDescription": "行動時にHPが大きく減少する",
-          "abilityEffectDescription": "行動時にHPが大きく減少する",
-          "effectIdx1": "1309",
-          "effectIdx2": "0",
-          "effectIdx3": "0"
-        },
-        {
-          "abilityId": "11101",
-          "abilityName": "HP減少（中）",
-          "abilityDescription": "行動時にHPが減少する",
-          "abilityEffectDescription": "行動時にHPが減少する",
-          "effectIdx1": "1308",
-          "effectIdx2": "0",
-          "effectIdx3": "0"
-        },
-        {
-          "abilityId": "11200",
-          "abilityName": "超低確率でスキル回避",
-          "abilityDescription": "超低確率でスキルを回避する",
-          "abilityEffectDescription": "超低確率でスキルを回避する",
-          "effectIdx1": "730",
-          "effectIdx2": "0",
-          "effectIdx3": "0"
-        },
-        {
-          "abilityId": "11201",
-          "abilityName": "低確率でスキル回避",
-          "abilityDescription": "低確率でスキルを回避する",
-          "abilityEffectDescription": "低確率でスキルを回避する",
-          "effectIdx1": "27",
-          "effectIdx2": "0",
-          "effectIdx3": "0"
-        },
-        {
-          "abilityId": "11302",
-          "abilityName": "チャクラ減少（小）",
-          "abilityDescription": "行動時にチャクラが少し減少する",
-          "abilityEffectDescription": "行動時にチャクラが少し減少する",
-          "effectIdx1": "1386",
-          "effectIdx2": "0",
-          "effectIdx3": "0"
-        },
-        {
-          "abilityId": "11400",
-          "abilityName": "HP自動回復（大）",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
-          "effectIdx1": "735",
-          "effectIdx2": "0",
-          "effectIdx3": "0"
-        },
-        {
-          "abilityId": "11401",
-          "abilityName": "HP自動回復（中）",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
-          "effectIdx1": "357",
-          "effectIdx2": "0",
-          "effectIdx3": "0"
-        },
-        {
-          "abilityId": "11402",
-          "abilityName": "HP自動回復（小）",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
-          "effectIdx1": "263",
-          "effectIdx2": "0",
-          "effectIdx3": "0"
-        },
-        {
-          "abilityId": "11500",
-          "abilityName": "スキル発動速度アップ",
-          "abilityDescription": "スキル発動速度が１段階アップする",
-          "abilityEffectDescription": "スキル発動速度が１段階アップする",
-          "effectIdx1": "21000",
-          "effectIdx2": "0",
-          "effectIdx3": "0"
-        },
-        {
-          "abilityId": "100000",
-          "abilityName": "わんぱく劣等生",
-          "abilityDescription": "最大HPと攻撃力が100％アップする",
-          "abilityEffectDescription": "最大HPと攻撃力が100％アップする",
-          "effectIdx1": "684",
-          "effectIdx2": "11099",
-          "effectIdx3": "0"
-        },
-        {
-          "abilityId": "100001",
-          "abilityName": "子供は風の子エッチな子",
-          "abilityDescription": "口寄せタイプのスキルダメージが150%アップし、行動後にHPが15％回復",
-          "abilityEffectDescription": "口寄せタイプのスキルダメージが150%アップし、行動後にHPが15％回復",
-          "effectIdx1": "794",
-          "effectIdx2": "735",
-          "effectIdx3": "0"
-        },
-        {
-          "abilityId": "100002",
-          "abilityName": "天才少年",
-          "abilityDescription": "最大HPが100%アップし、HP80％以下の時にスキルダメージ半減",
-          "abilityEffectDescription": "最大HPが100%アップし、HP80％以下の時にスキルダメージ半減",
-          "effectIdx1": "684",
-          "effectIdx2": "956",
-          "effectIdx3": "0"
-        },
-        {
-          "abilityId": "100003",
-          "abilityName": "無垢なる願い",
-          "abilityDescription": "口寄せタイプのスキルダメージが150%アップし、行動後にチャクラが15％回復",
-          "abilityEffectDescription": "口寄せタイプのスキルダメージが150%アップし、行動後にチャクラが15％回復",
-          "effectIdx1": "794",
-          "effectIdx2": "957",
-          "effectIdx3": "0"
-        },
-        {
-          "abilityId": "100004",
-          "abilityName": "木ノ葉のお姫様",
-          "abilityDescription": "HPが100％アップし、高確率でスキルを回避する",
-          "abilityEffectDescription": "HPが100％アップし、高確率でスキルを回避する",
-          "effectIdx1": "684",
-          "effectIdx2": "968",
-          "effectIdx3": "0"
-        },
-        {
-          "abilityId": "100005",
-          "abilityName": "木ノ葉の正統血統",
-          "abilityDescription": "HP回復スキルの基礎回復量が100％アップし、行動後にHPとチャクラが10％回復",
-          "abilityEffectDescription": "HP回復スキルの基礎回復量が100％アップし、行動後にHPとチャクラが10％回復",
-          "effectIdx1": "1548",
-          "effectIdx2": "52",
-          "effectIdx3": "53"
-        }
 ]

@@ -8864,5 +8864,44 @@ window.lead=[
           "target1Param": "1",
           "target2Category": "2",
           "target2Param": "1"
+        },
+        {
+          "cardLeaderSkillId": "688",
+          "name": "乙女のホンネ",
+          "description": "勇属性の攻撃力が50％アップする",
+          "effectIdx1": "11049",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "7",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "689",
+          "name": "友との共闘",
+          "description": "勇属性か木ノ葉隠れの里所属の最大HPと攻撃力と防御力を100％アップする",
+          "effectIdx1": "684",
+          "effectIdx2": "11099",
+          "effectIdx3": "12099",
+          "compType": "2",
+          "target1Category": "1",
+          "target1Param": "7",
+          "target2Category": "2",
+          "target2Param": "1"
+        },
+        {
+          "cardLeaderSkillId": "702",
+          "name": "仲間を想う力",
+          "description": "木ノ葉隠れの里所属の各自が6回行動するまで、受ける全スキルを半減する",
+          "effectIdx1": "1028",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
         }
 ]
