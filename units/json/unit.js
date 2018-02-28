@@ -421,4 +421,9 @@ window.unit=[
  [687, "Tobirama Senju, Spirit of the Forbidden Jutsu", "Technique", "Konoha", 6, 50, 34048, 38022, 28687, 258, 20, 18, 156, 84, 1],
  [688, "Naruto Uzumaki, Konoha Sprint", "Heart", "Konoha", 6, 40, 25343, 1059725, 23109, 207, 17, 16, 150, 0, 0],
  [688, "Naruto Uzumaki, Konoha Sprint", "Heart", "Konoha", 6, 40, 25343, 1059725, 23109, 207, 17, 16, 150, 0, 1],
+ [689, "Kakashi Hatake, Fight Alongside Allies", "Courage", "Konoha", 6, 90, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+ [689, "Kakashi Hatake, Fight Alongside Allies", "Courage", "Konoha", 6, 90, 0, 0, 0, 0, 0, 0, 0, 0, 1],
+ [690, "Obito Uchiha, Power of an Ally", "Courage", "Konoha", 6, 32, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+ [690, "Obito Uchiha, Power of an Ally", "Courage", "Konoha", 6, 32, 0, 0, 0, 0, 0, 0, 0, 0, 1],
+
 ]

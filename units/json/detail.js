@@ -10113,5 +10113,105 @@ window.detail = {
         ability2name: "Will of Fire",
         ability2: "Maximum HP and DEF +80%"
     },
+
+    689: {
+        leadname: "Fight Alongside Allies",
+        lead: "Konoha Courage Characters Maximum HP, ATK and DEF +100%" ,
+
+        skill1name: "Kamui Susano'o: Thunderclap",
+        skill1ogname: "神威須佐能乎・迅雷",
+        skill1type: "Sharingan",
+        skill1speed: "Fast",
+        skill1cost: "100",
+        skill1: "Deal 3% + 500,000 to all enemies. Deal 2x more damage to None Characters with a chance to lower their Cast Speed by 2. [Always Hit]",
+
+        skill2name: "Let's Watch Together",
+        skill2ogname: "一緒に見ていてくれ",
+        skill2type: "Unique",
+        skill2speed: "Fastest",
+        skill2cost: "60",
+        skill2: "Own ATK and DEF +200%. If there's a Konoha ally in the team, own Cast Speed +1. If one of those ally is \"Obito Uchiha\" or \"Rin Nohara\", Own SPD +70% and Chakra Cost -50%",
+
+        ability1name: "Rin's Feelings",
+        ability1: "Maximum Chakra +50 and Maximum HP +100%",
+
+        ability2name: "Obito's Will",
+        ability2: "ATK and Skill Damage +80% when Chakra is Max"
+    },
+
+    "689_6": {
+       leadname: "Fight Alongside Allies",
+        lead: "Konoha Courage Characters Maximum HP, ATK and DEF +100%" ,
+
+        skill1name: "Kamui Susano'o: Thunderclap",
+        skill1ogname: "神威須佐能乎・迅雷",
+        skill1type: "Sharingan",
+        skill1speed: "Fast",
+        skill1cost: "100",
+        skill1: "Deal 3% + 1,000,000 to all enemies. Deal 2x more damage to None Characters with a chance to lower their Cast Speed by 2. [Always Hit]",
+
+        skill2name: "Let's Watch Together",
+        skill2ogname: "一緒に見ていてくれ",
+        skill2type: "Unique",
+        skill2speed: "Fastest",
+        skill2cost: "50",
+        skill2: "Own ATK and DEF +500%. If there's a Konoha ally in the team, own Cast Speed +2. If one of those ally is \"Obito Uchiha\" or \"Rin Nohara\", Own SPD +100% and Chakra Cost becomes 0",
+
+        ability1name: "Rin's Feelings",
+        ability1: "Maximum Chakra +120 and Maximum HP +150%",
+
+        ability2name: "Obito's Will",
+        ability2: "ATK and Skill Damage +100% when Chakra is 50% or above"
+    },
+
+    690: {
+        leadname: "Power of an Ally",
+        lead: "For 6 turns, Incoming Skill Damage -50% to Konoha Characters" ,
+
+        skill1name: "Foresaken Sharingan",
+        skill1ogname: "写輪眼の見切り",
+        skill1type: "Sharingan",
+        skill1speed: "Fast",
+        skill1cost: "80",
+        skill1: "Deal 7% + 5,000 to one enemy and grant a High Chance to Dodge Skills. Deals more damage the more Konoha ally alive. Max 7x. ",
+
+        skill2name: "I Will Protect My Friends!!",
+        skill2ogname: "仲間はオレが守る！！",
+        skill2type: "Unique",
+        skill2speed: "Normal",
+        skill2cost: "70",
+        skill2: "Own DEF +100%, Incoming Skill Damage -50% and Protect all allies. Recover 100% HP if one of the ally is \"Kakashi Hatake\" or \"Rin Nohara\". ",
+
+        ability1name: "Kakashi's Opposite Heart",
+        ability1: "Maximum HP and Skill Damage +50%. SPD +100% when HP is below 50%",
+
+        ability2name: "Kakashi's Friendship",
+        ability2: "When HP reach 0, revive"
+    },
+
+    "690_6": {
+        leadname: "Power of an Ally",
+        lead: "For 6 turns, Incoming Skill Damage -50% to Konoha Characters" ,
+
+        skill1name: "Foresaken Sharingan",
+        skill1ogname: "写輪眼の見切り",
+        skill1type: "Sharingan",
+        skill1speed: "Fast",
+        skill1cost: "70",
+        skill1: "Deal 7% + 10,000 to one enemy and grant a High Chance to Dodge Skills. Deals more damage the more Konoha ally alive. Max 10x.",
+
+        skill2name: "I Will Protect My Friends!!",
+        skill2ogname: "仲間はオレが守る！！",
+        skill2type: "Unique",
+        skill2speed: "Fast",
+        skill2cost: "60",
+        skill2: "Own DEF +300%, Incoming Skill Damage -50% and Protect all allies. Recover 100% HP if one of the ally is \"Kakashi Hatake\" or \"Rin Nohara\". ",
+
+        ability1name: "Kakashi's Opposite Heart",
+        ability1: "Maximum HP and Skill Damage +80%. SPD +150% when HP is below 50%",
+
+        ability2name: "Kakashi's Friendship",
+        ability2: "When HP reach 0, revive"
+    },
 }
 
