@@ -11,10 +11,13 @@ function singleSummon(){
 	
 	var card;
 	length = createPool(four, five, six, ex, god);
+	var id = 0;
 	var summon = Math.floor(Math.random()* 99);
+	var roll = summon;
+
 	if(summon == 6){
 		var size = getLength(six);
-			summon = Math.floor(Math.random()* (size));
+		summon = Math.floor(Math.random()* (size));
 
 		card = six[summon]['cardId'];
 	}
@@ -60,7 +63,8 @@ function singleSummon(){
 	if (single.style.display === "none") {
         single.style.display = "block";
     } 
-
+    console.log(roll);
+    console.log(card);
 }
 
 function multiSummon(){
@@ -76,38 +80,44 @@ function multiSummon(){
 	var card;
 	var length = createPool(four, five, six, ex, god);
 	var roll =[];
+	var id =[];
 	for(var i = 1; i <= 10; i++){
 		var summon = Math.floor(Math.random()* 99);
-		
+		roll.push(summon);
 		if(summon == 6){
 			var size = getLength(six);
 			summon = Math.floor(Math.random()* (size));
 
 			card = six[summon]['cardId'];
+			id.push(card);
 		}		
 		else if(summon == 29){
 			var size = getLength(god);
 			summon = Math.floor(Math.random()* (size));
 
 			card = god[summon]['cardId'];
+			id.push(card);
 		}
 		else if(summon > 96 && summon <= 99){
 			var size = getLength(ex);
 			summon = Math.floor(Math.random()* (size));
 
 			card = ex[summon]['cardId'];
+			id.push(card);
 		}
 		else if(summon > 81 && summon <= 96){
 			var size = getLength(five);
 			summon = Math.floor(Math.random()* (size));
 
 			card = five[summon]['cardId'];
+			id.push(card);
 		}
 		else{
 			var size = getLength(four);
 			summon = Math.floor(Math.random()* (size));
 
 			card = four[summon]['cardId'];
+			id.push(card);
 		}
 		for(var n in window.tags){
 			if(card == window.tags[n]['cardId']){
@@ -124,6 +134,8 @@ function multiSummon(){
 	if (multi.style.display === "none") {
         multi.style.display = "block";
     } 
+    console.log(roll[0] + ", " + roll[1] + ", " + roll[2] + ", " + roll[3] + ", " + roll[4] + ", " + roll[5] + ", " + roll[6] + ", " + roll[7] + ", " + roll[8] + ", " + roll[9]);
+    console.log(id[0] + ", " + id[1] + ", " + id[2] + ", " + id[3] + ", " + id[4] + ", " + id[5] + ", " + id[6] + ", " + id[7] + ", " + id[8] + ", " + id[9]);
 }
 
 function createPool(four, five, six, ex, god){
@@ -135,13 +147,14 @@ function createPool(four, five, six, ex, god){
 		else if(window.tags[n]['tag'] == 'ex'){
 			ex.push(window.tags[n]); 
 		}
-		else if(window.tags[n]['tag'] == 'ex-6'){
+		else if(window.tags[n]['tag'] == 'ex-6' || window.tags[n]['rare'] == 'killers'){
 			six.push(window.tags[n]);
 		}
 		else if(window.tags[n]['tag'] == 'god'){
 			god.push(window.tags[n]);
 		}
-		else if(window.tags[n]['rare'] == '5' && window.tags[n]['cardId'] != "20040118" && window.tags[n]['tag'] != "special"){
+		else if(window.tags[n]['rare'] == '5' && window.tags[n]['cardId'] != "20040118" && window.tags[n]['tag'] != "special" && window.tags[n]['tag'] != 'event'
+			&& window.tags[n]['tag'] != 'pmiles'){
 			five.push(window.tags[n]);
 		}
 		length++;
