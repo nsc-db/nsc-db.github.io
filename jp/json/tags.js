@@ -247,7 +247,7 @@ window.tags=[
 {
           "cardId": "20000491",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20000501",
@@ -351,7 +351,7 @@ window.tags=[
 },
 {
           "cardId": "20000741",
-          "rare": "1",
+          "rare": "5",
           "tag": "gacha"
 },
 {
@@ -407,37 +407,37 @@ window.tags=[
 {
           "cardId": "20000861",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20000871",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20000881",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20000891",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20000901",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20000911",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20000921",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20000931",
@@ -447,42 +447,42 @@ window.tags=[
 {
           "cardId": "20000941",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20000951",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20000961",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20000971",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20000981",
           "rare": "5",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20000991",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20001001",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20001011",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20001021",
@@ -527,57 +527,57 @@ window.tags=[
 {
           "cardId": "20001101",
           "rare": "5",
-          "tag": "special"
+          "tag": "gacha"
 },
 {
           "cardId": "20001111",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20001121",
           "rare": "5",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20001131",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20001141",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20001151",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20001161",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20001171",
           "rare": "5",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20001181",
           "rare": "5",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20001191",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20001201",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20001211",
@@ -587,7 +587,7 @@ window.tags=[
 {
           "cardId": "20001221",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20001231",
@@ -632,7 +632,7 @@ window.tags=[
 {
           "cardId": "20001311",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20001321",
@@ -652,22 +652,22 @@ window.tags=[
 {
           "cardId": "20001351",
           "rare": "5",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20001361",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20001371",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20001381",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20001391",
@@ -687,7 +687,7 @@ window.tags=[
 {
           "cardId": "20001421",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20001431",
@@ -712,27 +712,27 @@ window.tags=[
 {
           "cardId": "20001471",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20001481",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20001491",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20001501",
           "rare": "5",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20001511",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20001512",
@@ -742,7 +742,7 @@ window.tags=[
 {
           "cardId": "20001513",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20001514",
@@ -767,7 +767,7 @@ window.tags=[
 {
           "cardId": "20001518",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20001519",
@@ -792,7 +792,7 @@ window.tags=[
 {
           "cardId": "20001523",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20001524",
@@ -807,7 +807,7 @@ window.tags=[
 {
           "cardId": "20001526",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20001527",
@@ -837,7 +837,7 @@ window.tags=[
 {
           "cardId": "20001532",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20001533",
@@ -847,7 +847,7 @@ window.tags=[
 {
           "cardId": "20001534",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20001535",
@@ -882,7 +882,7 @@ window.tags=[
 {
           "cardId": "20001541",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20001542",
@@ -897,7 +897,7 @@ window.tags=[
 {
           "cardId": "20001544",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20001545",
@@ -912,7 +912,7 @@ window.tags=[
 {
           "cardId": "20001547",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20001548",
@@ -922,12 +922,12 @@ window.tags=[
 {
           "cardId": "20001549",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20001550",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20001551",
@@ -962,12 +962,12 @@ window.tags=[
 {
           "cardId": "20001557",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20001558",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20001559",
@@ -992,12 +992,12 @@ window.tags=[
 {
           "cardId": "20001563",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20001564",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20001565",
@@ -1007,7 +1007,7 @@ window.tags=[
 {
           "cardId": "20001566",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20001567",
@@ -1037,7 +1037,7 @@ window.tags=[
 {
           "cardId": "20001572",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20001573",
@@ -1082,12 +1082,12 @@ window.tags=[
 {
           "cardId": "20001581",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20001582",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20001583",
@@ -1117,7 +1117,7 @@ window.tags=[
 {
           "cardId": "20001588",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20001589",
@@ -1127,12 +1127,12 @@ window.tags=[
 {
           "cardId": "20001590",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20001591",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20001592",
@@ -1172,7 +1172,7 @@ window.tags=[
 {
           "cardId": "20001599",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20001600",
@@ -1202,7 +1202,7 @@ window.tags=[
 {
           "cardId": "20001605",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20001606",
@@ -1222,7 +1222,7 @@ window.tags=[
 {
           "cardId": "20001609",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20001610",
@@ -1237,7 +1237,7 @@ window.tags=[
 {
           "cardId": "20001612",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20001613",
@@ -1257,12 +1257,12 @@ window.tags=[
 {
           "cardId": "20001616",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20001617",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20001618",
@@ -1307,12 +1307,12 @@ window.tags=[
 {
           "cardId": "20001626",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20001627",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20001628",
@@ -1322,7 +1322,7 @@ window.tags=[
 {
           "cardId": "20001629",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20001630",
@@ -1472,7 +1472,7 @@ window.tags=[
 {
           "cardId": "20001659",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20001660",
@@ -1887,12 +1887,12 @@ window.tags=[
 {
           "cardId": "20001742",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20001743",
           "rare": "4",
-          "tag": "fp"
+          "tag": "gacha"
 },
 {
           "cardId": "20001744",

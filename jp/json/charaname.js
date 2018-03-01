@@ -1008,6 +1008,20 @@ window.charaname=[
                     "weight": "6750"
                 },
                 {
+                    "age": "31",
+                    "birthday": "915",
+                    "bloodType": "3",
+                    "charaId": "17",
+                    "charaLoveAffinityGroupId": "1720",
+                    "charaProfileId": "1707",
+                    "constellation": "6",
+                    "detail": "疾風伝",
+                    "gender": "1",
+                    "height": "18100",
+                    "name": "はたけカカシ",
+                    "weight": "6750"
+                },
+                {
                     "age": "28",
                     "birthday": "1018",
                     "bloodType": "3",
