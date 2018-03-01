@@ -52,7 +52,7 @@ function singleSummon(){
 		}
 	}
 
-	$('#chara-summon').attr('src', './../jp/assets/img/units/' + card + '.png'); 
+	$('#chara-summon').attr('src', './/assets/img/units/' + card + '.png'); 
 
 	if (multi.style.display === "block"){
 		multi.style.display = "none";
