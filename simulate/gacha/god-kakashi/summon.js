@@ -124,6 +124,18 @@ function multiSummon(){
     console.log(id[0] + ", " + id[1] + ", " + id[2] + ", " + id[3] + ", " + id[4] + ", " + id[5] + ", " + id[6] + ", " + id[7] + ", " + id[8] + ", " + id[9]);
 }
 
+function showRates(){
+	var rate = document.getElementById("rates-percent");
+
+	
+	if (rate.style.display === "none") {
+        rate.style.display = "block";
+    } 
+    else{
+    	rate.style.display = "none";
+    }
+}
+
 function createPool(kakashi, rin, slayer, five){
 	var length = 0;
 	for(var n in window.tags){
@@ -144,6 +156,7 @@ function createPool(kakashi, rin, slayer, five){
 	}
 	return length;
 }
+
 
 function getLength(arr){
 	var size = 0;

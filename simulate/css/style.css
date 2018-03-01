@@ -11,7 +11,16 @@ body{
 ::-webkit-scrollbar {
 	display: none;
 }
-.dropbtn {
+#rates-percent{
+	padding: 5px;
+}
+table, th, td{
+	border: 1px solid black;
+	border-collapse: collapse;
+	padding: 5px;
+}
+
+}.dropbtn {
     background-color: #4CAF50;
     color: white;
     padding: 16px;
@@ -75,6 +84,11 @@ body{
 
 .card{
 	margin-top: -10px;
+}
+
+.rates{
+	margin-left: 4%;
+	padding: 25px;
 }
 .base-header {
 	color: #323232;
@@ -179,41 +193,6 @@ p.subname{
 	font-size: 10px;
 	font-weight: bold;
 	margin: 0; padding: 0;
-}
-.base-content h2 + p {
-	color: #858585;
-	margin: 0 0 24px 0;
-}
-
-.base-content .dataTables_wrapper .dataTables_length select {
-	width: 84px;
-	margin: 0 4px;
-	background-color: #ffffff;
-	border: 1px solid #cccccc;
-}
-
-.base-content .dataTables_wrapper input {
-	width: auto;
-	padding: 4px 12px 4px 6px;
-	border: 1px solid #cccccc;
-	position: relative;
-}
-
-.base-content .dataTables_wrapper .dataTables_length {
-	margin: 8px 0 0 0;
-}
-
-.base-content .dataTables_wrapper table.dataTable.no-footer {
-	margin: 0 0 60px 0;
-	transform: translate(0,24px);
-}
-
-.base-content .dataTables_wrapper table.dataTable.no-footer thead {
-	background-color: #efefef;
-}
-
-.base-content .dataTables_wrapper table.dataTable.no-footer tbody td {
-	padding: 18px 6px;
 }
 
 td a {
