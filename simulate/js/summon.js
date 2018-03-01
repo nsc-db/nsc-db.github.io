@@ -144,7 +144,7 @@ function createPool(four, five, six, ex, god){
 		if(window.tags[n]['rare'] == "4"){
 			four.push(window.tags[n]);
 		}
-		else if(window.tags[n]['tag'] == 'ex'){
+		else if(window.tags[n]['tag'] == 'ex' || window.tags[n]['tag'] == 'pvp-ex'){
 			ex.push(window.tags[n]); 
 		}
 		else if(window.tags[n]['tag'] == 'ex-6' || window.tags[n]['tag'] == 'killers'){
