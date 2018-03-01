@@ -147,7 +147,7 @@ function createPool(four, five, six, ex, god){
 		else if(window.tags[n]['tag'] == 'ex'){
 			ex.push(window.tags[n]); 
 		}
-		else if(window.tags[n]['tag'] == 'ex-6' || window.tags[n]['rare'] == 'killers'){
+		else if(window.tags[n]['tag'] == 'ex-6' || window.tags[n]['tag'] == 'killers'){
 			six.push(window.tags[n]);
 		}
 		else if(window.tags[n]['tag'] == 'god'){
