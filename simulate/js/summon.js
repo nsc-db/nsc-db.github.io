@@ -15,7 +15,7 @@ function singleSummon(){
 	var summon = Math.floor(Math.random()* 99);
 	var roll = summon;
 
-	if(summon == 6){
+	if(summon == 1 || summon == 6 || summon == 10){
 		var size = getLength(six);
 		summon = Math.floor(Math.random()* (size));
 
@@ -33,7 +33,7 @@ function singleSummon(){
 
 		card = ex[summon]['cardId'];
 	}
-	else if(summon > 81 && summon <= 96){
+	else if(summon > 73 && summon <= 96){
 		var size = getLength(five);
 		summon = Math.floor(Math.random()* (size));
 
@@ -84,7 +84,7 @@ function multiSummon(){
 	for(var i = 1; i <= 10; i++){
 		var summon = Math.floor(Math.random()* 99);
 		roll.push(summon);
-		if(summon == 6){
+		if(summon == 1 || summon == 6 || summon == 10){
 			var size = getLength(six);
 			summon = Math.floor(Math.random()* (size));
 
@@ -105,7 +105,7 @@ function multiSummon(){
 			card = ex[summon]['cardId'];
 			id.push(card);
 		}
-		else if(summon > 81 && summon <= 96){
+		else if(summon > 73 && summon <= 96){
 			var size = getLength(five);
 			summon = Math.floor(Math.random()* (size));
 
