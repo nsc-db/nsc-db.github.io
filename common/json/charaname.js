@@ -1008,6 +1008,20 @@ window.charaname=[
                     "weight": "6750"
                 },
                 {
+                    "age": "31",
+                    "birthday": "915",
+                    "bloodType": "3",
+                    "charaId": "17",
+                    "charaLoveAffinityGroupId": "1720",
+                    "charaProfileId": "1707",
+                    "constellation": "6",
+                    "detail": "疾風伝",
+                    "gender": "1",
+                    "height": "18100",
+                    "name": "はたけカカシ",
+                    "weight": "6750"
+                },
+                {
                     "age": "28",
                     "birthday": "1018",
                     "bloodType": "3",
@@ -2798,6 +2812,34 @@ window.charaname=[
                     "height": "17650",
                     "name": "羅砂",
                     "weight": "6410"
+                },
+                {
+                  "charaProfileId": "21401",
+                  "charaId": "214",
+                  "name": "黒ツチ",
+                  "detail": null,
+                  "charaLoveAffinityGroupId": "21410",
+                  "birthday": "906",
+                  "constellation": "6",
+                  "height": "16360",
+                  "weight": "4750",
+                  "bloodType": "3",
+                  "age": "18",
+                  "gender": "2"
+                },
+                {
+                  "charaProfileId": "21501",
+                  "charaId": "215",
+                  "name": "赤ツチ",
+                  "detail": null,
+                  "charaLoveAffinityGroupId": "21510",
+                  "birthday": "0",
+                  "constellation": "0",
+                  "height": "0",
+                  "weight": "0",
+                  "bloodType": "0",
+                  "age": "0",
+                  "gender": "1"
                 },
                 {
                     "age": "0",

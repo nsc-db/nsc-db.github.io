@@ -4696,6 +4696,22 @@ window.skillname=[
           "name": "仲間はオレが守る！！"
         },
         {
+          "cardBattleSkillNameId": "2335",
+          "name": "二重百豪・口寄せ・カツユ"
+        },
+        {
+          "cardBattleSkillNameId": "2338",
+          "name": "ここは私にまかせて！"
+        },
+        {
+          "cardBattleSkillNameId": "2340",
+          "name": "熔遁・石灰凝の術"
+        },
+        {
+          "cardBattleSkillNameId": "2342",
+          "name": "まぬけ！"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },

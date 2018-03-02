@@ -8892,6 +8892,32 @@ window.lead=[
           "target2Param": "1"
         },
         {
+          "cardLeaderSkillId": "690",
+          "name": "身命賭して",
+          "description": "体・知属性の最大HPを300％アップする",
+          "effectIdx1": "10101",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "2",
+          "target1Category": "1",
+          "target1Param": "3",
+          "target2Category": "1",
+          "target2Param": "6"
+        },
+        {
+          "cardLeaderSkillId": "691",
+          "name": "修得せし百豪",
+          "description": "技・勇属性の最大HPを300％アップする",
+          "effectIdx1": "10101",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "2",
+          "target1Category": "1",
+          "target1Param": "2",
+          "target2Category": "1",
+          "target2Param": "7"
+        },
+        {
           "cardLeaderSkillId": "702",
           "name": "仲間を想う力",
           "description": "木ノ葉隠れの里所属の各自が6回行動するまで、受ける全スキルを半減する",
@@ -8901,6 +8927,19 @@ window.lead=[
           "compType": "1",
           "target1Category": "2",
           "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "703",
+          "name": "岩隠れの女傑",
+          "description": "知属性の攻撃力と防御力を40%アップする",
+          "effectIdx1": "11039",
+          "effectIdx2": "12039",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "6",
           "target2Category": "0",
           "target2Param": "0"
         }

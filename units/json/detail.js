@@ -10213,5 +10213,105 @@ window.detail = {
         ability2name: "Kakashi's Friendship",
         ability2: "When HP reach 0, revive"
     },
+
+    691: {
+        leadname: "Own Life at Stake",
+        lead: "Body and Intellect Type Maximum HP +300%" ,
+
+        skill1name: "Double Byakugo Summoning: Katsuyu",
+        skill1ogname: "二重百豪・口寄せ・カツユ",
+        skill1type: "Summoning",
+        skill1speed: "Normal",
+        skill1cost: "100",
+        skill1: "Heal all allies for 999,999 HP, remove all Debuffs and Negative Special State. Grant 1 member of the party \"Regeneration\" state. [Regeneration: When HP reach 0, revive. Chakra Recovery +20% when attacked. When HP reach 0 twice, remove \"Regeneration\" state and set Chakra to 0]",
+
+        skill2name: "Furious Fist",
+        skill2ogname: "怒髪天撃",
+        skill2type: "Taijutsu",
+        skill2speed: "Fast",
+        skill2cost: "90",
+        skill2: "Deal 7% + 20,000 to one enemy with a High Chance to Crit dealing 20x damage. Own Cast Speed +2.",
+
+        ability1name: "Medical Knowledge",
+        ability1: "HP Regen +20%. When HP reach 0, revive twice",
+
+        ability2name: "Hokage's Willpower",
+        ability2: "Maximum Chakra +100, Immune to Unique Type Skill, and Chakra Recovery +15%"
+    },
+
+    "691_6": {
+        leadname: "Own Life at Stake",
+        lead: "Body and Intellect Type Maximum HP +300%" ,
+
+        skill1name: "Double Byakugo Summoning: Katsuyu",
+        skill1ogname: "二重百豪・口寄せ・カツユ",
+        skill1type: "Summoning",
+        skill1speed: "Normal",
+        skill1cost: "100",
+        skill1: "Heal all allies for 999,999 HP, remove all Debuffs and Negative Special State. Grant 1 member of the party \"Regeneration\" state. [Regeneration: When HP reach 0, revive. Chakra Recovery +20% when attacked. When HP reach 0 twice, remove \"Regeneration\" state and set Chakra to 0]",
+
+        skill2name: "Furious Fist",
+        skill2ogname: "怒髪天撃",
+        skill2type: "Taijutsu",
+        skill2speed: "Fast",
+        skill2cost: "90",
+        skill2: "Deal 7% + 20,000 to one enemy with a High Chance to Crit dealing 20x damage. Own Cast Speed +2.",
+
+        ability1name: "Medical Knowledge",
+        ability1: "HP Regen +20%. When HP reach 0, revive twice",
+
+        ability2name: "Hokage's Willpower",
+        ability2: "Maximum Chakra +100, Immune to Unique Type Skill, and Chakra Recovery +15%"
+    },
+
+    692: {
+        leadname: "Acquisition of the Byakugo",
+        lead: "Technique and Courage Type Maximum HP +300%" ,
+
+        skill1name: "Double Byakugo Summoning: Katsuyu",
+        skill1ogname: "二重百豪・口寄せ・カツユ",
+        skill1type: "Summoning",
+        skill1speed: "Normal",
+        skill1cost: "100",
+        skill1: "Heal all allies for 999,999 HP and grant \"Resist\" state. Grant 1 member of the party \"Convalescence\" [Convalescence: Incoming Skill Damage -150%, Recovery 30% HP when attacked] [Resist: Remove and Immune to Status Effect and Debuffs]",
+
+        skill2name: "Leave It To Me!",
+        skill2ogname: "ここは私にまかせて！",
+        skill2type: "Unique",
+        skill2speed: "Fastest",
+        skill2cost: "90",
+        skill2: "Own DEF +500% and Cast Speed +2. Recover a tremendous amount of Chakra to Konoha Characters and grant a High Chance to Dodge Skill",
+
+        ability1name: "Inherited Medial Jutsu",
+        ability1: "HP Regen +15%. When HP reach 0, revive twice",
+
+        ability2name: "Accumulated Chakra",
+        ability2: "Maximum Chakra +100, Immune to Unique Type Skill, and Chakra Recovery +20%"
+    },
+
+    "692_6": {
+        leadname: "Acquisition of the Byakugo",
+        lead: "Technique and Courage Type Maximum HP +300%" ,
+
+        skill1name: "Double Byakugo Summoning: Katsuyu",
+        skill1ogname: "二重百豪・口寄せ・カツユ",
+        skill1type: "Summoning",
+        skill1speed: "Normal",
+        skill1cost: "100",
+        skill1: "Heal all allies for 999,999 HP and grant \"Resist\" state. Grant 1 member of the party \"Convalescence\" [Convalescence: Incoming Skill Damage -150%, Recovery 30% HP when attacked] [Resist: Remove and Immune to Status Effect and Debuffs]",
+
+        skill2name: "Leave It To Me!",
+        skill2ogname: "ここは私にまかせて！",
+        skill2type: "Unique",
+        skill2speed: "Fastest",
+        skill2cost: "90",
+        skill2: "Own DEF +500% and Cast Speed +2. Recover a tremendous amount of Chakra to Konoha Characters and grant a High Chance to Dodge Skill",
+
+        ability1name: "Inherited Medial Jutsu",
+        ability1: "HP Regen +15%. When HP reach 0, revive twice",
+
+        ability2name: "Accumulated Chakra",
+        ability2: "Maximum Chakra +100, Immune to Unique Type Skill, and Chakra Recovery +20%"
+    },
 }
 

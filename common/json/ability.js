@@ -15813,6 +15813,42 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "1789",
+          "abilityName": "医療忍者の心得",
+          "abilityDescription": "行動後にHPが20％回復し、HPが0以下になると2回までHPが全回復する",
+          "abilityEffectDescription": "行動後にHPが20％回復し、HPが0以下になると2回までHPが全回復する",
+          "effectIdx1": "628",
+          "effectIdx2": "1057",
+          "effectIdx3": "874"
+        },
+        {
+          "abilityId": "1790",
+          "abilityName": "火影の意地",
+          "abilityDescription": "最大チャクラ量が100アップし固有タイプのスキル無効、行動後にチャクラが15％回復する",
+          "abilityEffectDescription": "最大チャクラ量が100アップし固有タイプのスキル無効、行動後にチャクラが15％回復する",
+          "effectIdx1": "813",
+          "effectIdx2": "77",
+          "effectIdx3": "648"
+        },
+        {
+          "abilityId": "1791",
+          "abilityName": "受け継がれし医療忍術",
+          "abilityDescription": "行動後にHPが15％回復し、HPが0以下になると2回までHPが全回復する",
+          "abilityEffectDescription": "行動後にHPが15％回復し、HPが0以下になると2回までHPが全回復する",
+          "effectIdx1": "735",
+          "effectIdx2": "1057",
+          "effectIdx3": "874"
+        },
+        {
+          "abilityId": "1792",
+          "abilityName": "蓄積されたチャクラ",
+          "abilityDescription": "最大チャクラ量が100アップ、行動後にチャクラが20％回復する",
+          "abilityEffectDescription": "最大チャクラ量が100アップ、行動後にチャクラが20％回復する",
+          "effectIdx1": "813",
+          "effectIdx2": "583",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "1813",
           "abilityName": "カカシへの対抗心",
           "abilityDescription": "最大HPとスキルダメージが50％アップ、HPが50％以下になると素早さが100％アップする",
@@ -15846,6 +15882,24 @@ window.ability=[
           "abilityEffectDescription": "HPが0以下になると1度だけ耐え、HPが大回復する",
           "effectIdx1": "312",
           "effectIdx2": "618",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1817",
+          "abilityName": "妖言",
+          "abilityDescription": "最大HPが100%アップし、ダメージを受けた時にチャクラが10%回復する",
+          "abilityEffectDescription": "最大HPが100%アップし、ダメージを受けた時にチャクラが10%回復する",
+          "effectIdx1": "684",
+          "effectIdx2": "975",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1818",
+          "abilityName": "土影の血脈",
+          "abilityDescription": "１０回行動するまでスキルダメージが120%アップする",
+          "abilityEffectDescription": "１０回行動するまでスキルダメージが120%アップする",
+          "effectIdx1": "30911",
+          "effectIdx2": "0",
           "effectIdx3": "0"
         },
 ]

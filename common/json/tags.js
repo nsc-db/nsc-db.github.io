@@ -737,7 +737,7 @@ window.tags=[
 {
           "cardId": "20001512",
           "rare": "4",
-          "tag": "gacha"
+          "tag": "fp"
 },
 {
           "cardId": "20001513",
@@ -3420,7 +3420,22 @@ window.tags=[
           "tag": "god"
 },
 {
+          "cardId": "20040303",
+          "rare": "5",
+          "tag": "ex-6"
+},
+{
+          "cardId": "20040304",
+          "rare": "5",
+          "tag": "ex-6"
+},
+{
           "cardId": "20040315",
+          "rare": "5",
+          "tag": "event"
+},
+{
+          "cardId": "20040316",
           "rare": "5",
           "tag": "event"
 },

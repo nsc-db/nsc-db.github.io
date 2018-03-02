@@ -425,5 +425,9 @@ window.unit=[
  [689, "Kakashi Hatake, Fight Alongside Allies", "Courage", "Konoha", 6, 90, 0, 0, 0, 0, 0, 0, 0, 0, 1],
  [690, "Obito Uchiha, Power of an Ally", "Courage", "Konoha", 6, 32, 0, 0, 0, 0, 0, 0, 0, 0, 0],
  [690, "Obito Uchiha, Power of an Ally", "Courage", "Konoha", 6, 32, 0, 0, 0, 0, 0, 0, 0, 0, 1],
+ [691, "Tsunade, Own Life at Stake", "Body", "Konoha", 6, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+ [691, "Tsunade, Own Life at Stake", "Body", "Konoha", 6, 40, 0, 0, 0, 0, 0, 0, 0, 0, 1],
+ [692, "Sakura Haruno, Acquisition of the Byakugo", "Technique", "Konoha", 6, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+ [692, "Sakura Haruno, Acquisition of the Byakugo", "Technique", "Konoha", 6, 40, 0, 0, 0, 0, 0, 0, 0, 0, 1],
 
 ]
