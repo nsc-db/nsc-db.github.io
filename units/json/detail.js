@@ -2422,7 +2422,7 @@ window.detail = {
 		skill2name: "Concentrate, Concentrate",
 		skill2ogname: "集中よ！集中！",
 		skill2type: "Unique",
-		skill2speed: "Fast",
+		skill2speed: "Fastest",
 		skill2cost: "10",
 		skill2: "Own Skill Damage +150% and remove \"Deficit\' state.  Grant \Concentration\" state to ally \"Might Gai\", \"Rock Lee\", \"Neji Hyuga\", and \"Tenten\". [Concentration: Chakra Cost is reduced every turn. Max 80%]",
 
