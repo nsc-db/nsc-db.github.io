@@ -2415,8 +2415,8 @@ window.detail = {
 		skill1ogname: "芭蕉扇",
 		skill1type: "Weapon",
 		skill1speed: "Fastest",
-		skill1cost: "90",
-		skill1: "Deal 3% + 5,000 to all enemies. Deal 5x more damage if the enemies is weak to Fire, Water, Earth, Wind and/or Lightning.  Grant \"Deficit\" state after using this skill. [Deficit: Chakra Recovery becomes 0]",
+		skill1cost: "80",
+		skill1: "Deal 3% + 9,000 to all enemies. Deal 5x more damage if the enemies is weak to Fire, Water, Earth, Wind and/or Lightning.  Deal more damage the more HP Tenten has, Max 3x. Chance to make the enemies Weak to All Skill Damage. (Note: Only works if the enemy is neutral to a nature)",
 
 
 		skill2name: "Concentrate, Concentrate",
@@ -2424,13 +2424,13 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "10",
-		skill2: "Own Skill Damage +100% and remove \"Deficit\' state.  Grant \Concentration\" state to ally \"Might Gai\", \"Rock Lee\", \"Neji Hyuga\", and \"Tenten\". [Concentration: Chakra Cost is reduced every turn. Max 30%]",
+		skill2: "Own Skill Damage +150% and remove \"Deficit\' state.  Grant \Concentration\" state to ally \"Might Gai\", \"Rock Lee\", \"Neji Hyuga\", and \"Tenten\". [Concentration: Chakra Cost is reduced every turn. Max 80%]",
 
 		ability1name: "First-Class Ninja Tools",
-		ability1: "SPD +60%. Cast Speed +1 when HP is above 80%",
+		ability1: "SPD +100%. Cast Speed +1 when HP is above 70%",
 
 		ability2name: "Ninja Tool Research",
-		ability2: "ATK +50%.  Skill Damage +150% when Chakra is max"
+		ability2: "ATK +100%.  Skill Damage +200% when Chakra is max"
 	},
 
 	487: {
@@ -10286,7 +10286,7 @@ window.detail = {
         ability1: "HP Regen +15%. When HP reach 0, revive twice",
 
         ability2name: "Accumulated Chakra",
-        ability2: "Maximum Chakra +100, Immune to Unique Type Skill, and Chakra Recovery +20%"
+        ability2: "Maximum Chakra +100 and Chakra Recovery +20%"
     },
 
     "692_6": {
@@ -10311,7 +10311,57 @@ window.detail = {
         ability1: "HP Regen +15%. When HP reach 0, revive twice",
 
         ability2name: "Accumulated Chakra",
-        ability2: "Maximum Chakra +100, Immune to Unique Type Skill, and Chakra Recovery +20%"
+        ability2: "Maximum Chakra +100 and Chakra Recovery +20%"
+    },
+
+    693: {
+        leadname: "Lovely Weapons",
+        lead: "Konoha Characters Weapon, Taijutsu and Byakugan Skill Damage +90%" ,
+
+        skill1name: "Myrdiad of Vessel Jutsu",
+        skill1ogname: "百器繚乱の術",
+        skill1type: "Weapon",
+        skill1speed: "Fast",
+        skill1cost: "80",
+        skill1: "Deal 15 hits doing 10x ATK Damage and Ignoring 20% DEF to random enemies, with a High Chance to Confuse and Stun.",
+
+        skill2name: "Let's Take a Small Break",
+        skill2ogname: "少しは休憩しようよ！",
+        skill2type: "Unique",
+        skill2speed: "Fast",
+        skill2cost: "50",
+        skill2: "Own ATK and SPD +150%. Grant ally \"Tenten\", \"Might Gai\", \"Rock Lee\", \"Neji Hyuga\" \"Connected\" state. [Connected: Status Effects are halved, Skill Damage increase based on how many Konoha Character in the team. Maximum 200%]",
+
+        ability1name: "Pride of Ninja Tools",
+        ability1: "ATK and Skill Damage +100%, Immune to Weapon Skill Damage",
+
+        ability2name: "Ninja Tool Training Idea",
+        ability2: "High Chance to Dodge Skills, High Chance for Cast Speed +1, Chance for the next Skill to cost 0"
+    },
+
+    "693_6": {
+        leadname: "Lovely Weapons",
+        lead: "Konoha Characters Weapon, Taijutsu and Byakugan Skill Damage +90%" ,
+
+        skill1name: "Myrdiad of Vessel Jutsu",
+        skill1ogname: "百器繚乱の術",
+        skill1type: "Weapon",
+        skill1speed: "Fast",
+        skill1cost: "80",
+        skill1: "Deal 15 hits doing 10x ATK Damage and Ignoring 20% DEF to random enemies, with a High Chance to Confuse and Stun.",
+
+        skill2name: "Let's Take a Small Break",
+        skill2ogname: "少しは休憩しようよ！",
+        skill2type: "Unique",
+        skill2speed: "Fast",
+        skill2cost: "50",
+        skill2: "Own ATK and SPD +150%. Grant ally \"Tenten\", \"Might Gai\", \"Rock Lee\", \"Neji Hyuga\" \"Connected\" state. [Connected: Status Effects are halved, Skill Damage increase based on how many Konoha Character in the team. Maximum 200%]",
+
+        ability1name: "Pride of Ninja Tools",
+        ability1: "ATK and Skill Damage +100%, Immune to Weapon Skill Damage",
+
+        ability2name: "Ninja Tool Training Idea",
+        ability2: "High Chance to Dodge Skills, High Chance for Cast Speed +1, Chance for the next Skill to cost 0"
     },
 }
 

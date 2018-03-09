@@ -8918,6 +8918,19 @@ window.lead=[
           "target2Param": "7"
         },
         {
+          "cardLeaderSkillId": "692",
+          "name": "可憐なる忍具使い",
+          "description": "木ノ葉隠れの里所属の武器・体術・白眼タイプのスキルダメージを90％アップ",
+          "effectIdx1": "1139",
+          "effectIdx2": "1660",
+          "effectIdx3": "1676",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "702",
           "name": "仲間を想う力",
           "description": "木ノ葉隠れの里所属の各自が6回行動するまで、受ける全スキルを半減する",

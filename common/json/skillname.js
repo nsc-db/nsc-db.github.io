@@ -4692,6 +4692,14 @@ window.skillname=[
           "name": "一緒に見ていてくれ"
         },
         {
+          "cardBattleSkillNameId": "2294",
+          "name": "百器繚乱の術"
+        },
+        {
+          "cardBattleSkillNameId": "2296",
+          "name": "少しは休憩しようよ！"
+        },
+        {
           "cardBattleSkillNameId": "2330",
           "name": "仲間はオレが守る！！"
         },

@@ -15849,6 +15849,24 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "1793",
+          "abilityName": "忍具使いのプライド",
+          "abilityDescription": "攻撃力とスキルダメージが100％アップし、武器タイプのスキルを無効化する",
+          "abilityEffectDescription": "攻撃力とスキルダメージが100％アップし、武器タイプのスキルを無効化する",
+          "effectIdx1": "11099",
+          "effectIdx2": "774",
+          "effectIdx3": "44"
+        },
+        {
+          "abilityId": "1794",
+          "abilityName": "仕込み忍具のアイデア",
+          "abilityDescription": "高確率でスキル回避、行動後に高確率で次回スキル発動速度1段階アップ＆確率で次回チャクラ消費0が発生",
+          "abilityEffectDescription": "高確率でスキル回避、行動後に高確率で次回スキル発動速度1段階アップ＆確率で次回チャクラ消費0が発生",
+          "effectIdx1": "968",
+          "effectIdx2": "1618",
+          "effectIdx3": "1675"
+        },
+        {
           "abilityId": "1813",
           "abilityName": "カカシへの対抗心",
           "abilityDescription": "最大HPとスキルダメージが50％アップ、HPが50％以下になると素早さが100％アップする",
@@ -15902,4 +15920,112 @@ window.ability=[
           "effectIdx2": "0",
           "effectIdx3": "0"
         },
+        {
+          "abilityId": "100000",
+          "abilityName": "わんぱく劣等生",
+          "abilityDescription": "最大HPと攻撃力が100％アップする",
+          "abilityEffectDescription": "最大HPと攻撃力が100％アップする",
+          "effectIdx1": "684",
+          "effectIdx2": "11099",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "100001",
+          "abilityName": "子供は風の子エッチな子",
+          "abilityDescription": "口寄せタイプのスキルダメージが150%アップし、行動後にHPが15％回復",
+          "abilityEffectDescription": "口寄せタイプのスキルダメージが150%アップし、行動後にHPが15％回復",
+          "effectIdx1": "794",
+          "effectIdx2": "735",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "100002",
+          "abilityName": "天才少年",
+          "abilityDescription": "最大HPが100%アップし、HP80％以下の時にスキルダメージ半減",
+          "abilityEffectDescription": "最大HPが100%アップし、HP80％以下の時にスキルダメージ半減",
+          "effectIdx1": "684",
+          "effectIdx2": "956",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "100003",
+          "abilityName": "無垢なる願い",
+          "abilityDescription": "口寄せタイプのスキルダメージが150%アップし、行動後にチャクラが15％回復",
+          "abilityEffectDescription": "口寄せタイプのスキルダメージが150%アップし、行動後にチャクラが15％回復",
+          "effectIdx1": "794",
+          "effectIdx2": "957",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "100004",
+          "abilityName": "木ノ葉のお姫様",
+          "abilityDescription": "HPが100％アップし、高確率でスキルを回避する",
+          "abilityEffectDescription": "HPが100％アップし、高確率でスキルを回避する",
+          "effectIdx1": "684",
+          "effectIdx2": "968",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "100005",
+          "abilityName": "木ノ葉の正統血統",
+          "abilityDescription": "HP回復スキルの基礎回復量が100％アップし、行動後にHPとチャクラが10％回復",
+          "abilityEffectDescription": "HP回復スキルの基礎回復量が100％アップし、行動後にHPとチャクラが10％回復",
+          "effectIdx1": "1548",
+          "effectIdx2": "52",
+          "effectIdx3": "53"
+        },
+        {
+          "abilityId": "100006",
+          "abilityName": "百豪の印",
+          "abilityDescription": "8回行動するまで行動後HPとチャクラが50%回復する",
+          "abilityEffectDescription": "8回行動するまで行動後HPとチャクラが50%回復する",
+          "effectIdx1": "1247",
+          "effectIdx2": "1674",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "100007",
+          "abilityName": "戦場の経験",
+          "abilityDescription": "HP回復スキルの基礎回復量が100%アップし、HPが80%以上の時スキル発動速度1段階アップ",
+          "abilityEffectDescription": "HP回復スキルの基礎回復量が100%アップし、HPが80%以上の時スキル発動速度1段階アップ",
+          "effectIdx1": "1089",
+          "effectIdx2": "1548",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "100008",
+          "abilityName": "賭け一文字",
+          "abilityDescription": "攻撃力と素早さ100%アップ",
+          "abilityEffectDescription": "攻撃力と素早さ100%アップ",
+          "effectIdx1": "11099",
+          "effectIdx2": "13099",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "100009",
+          "abilityName": "戦乱の経験",
+          "abilityDescription": "スキルダメージが100%アップし、確率でスキルを回避する",
+          "abilityEffectDescription": "スキルダメージが100%アップし、確率でスキルを回避する",
+          "effectIdx1": "774",
+          "effectIdx2": "734",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "100010",
+          "abilityName": "一流の忍具使い",
+          "abilityDescription": "素早さが100%アップし、HPが70%以上の時にスキル発動速度１段階アップする",
+          "abilityEffectDescription": "素早さが100%アップし、HPが70%以上の時にスキル発動速度１段階アップする",
+          "effectIdx1": "13099",
+          "effectIdx2": "1583",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "100011",
+          "abilityName": "忍具研究",
+          "abilityDescription": "攻撃力が100％アップし、チャクラ80％以上の時にスキルダメージを200％アップする",
+          "abilityEffectDescription": "攻撃力が100％アップし、チャクラ80％以上の時にスキルダメージを200％アップする",
+          "effectIdx1": "33719",
+          "effectIdx2": "11099",
+          "effectIdx3": "0"
+        }
 ]

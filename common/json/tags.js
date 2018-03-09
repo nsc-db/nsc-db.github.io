@@ -3430,6 +3430,11 @@ window.tags=[
           "tag": "ex-6"
 },
 {
+          "cardId": "20040305",
+          "rare": "5",
+          "tag": "ex-6"
+},
+{
           "cardId": "20040315",
           "rare": "5",
           "tag": "event"
