@@ -109,7 +109,7 @@ window.unit=[
  [479, "Yahiko, Soukohoushi", "Heart", "Ame", 6, 30, 11130, 14647, 8535, 151, 14, 16, 164, 1],
  [483, "Sasuke Uchiha, Journey of Atonement", "Intellect", "Konoha", 6, 32, 11547, 15872, 10584, 165, 15, 15, 159, 88, 0],
  [483, "Sasuke Uchiha, Journey of Atonement", "Intellect", "Konoha", 6, 32, 11547, 15872, 10584, 165, 15, 15, 159, 1],
- [486, "Tenten, Six Path's Treasure", "Technique", "Konoha", 6, 32, 10424, 15551, 11865, 161, 15, 16, 147, 75, 0],
+ [486, "Tenten, Six Path's Treasure", "Technique", "Konoha", 6, 32, 10424, 15551, 11865, 161, 15, 16, 147, 95, 0],
  [486, "Tenten, Six Path's Treasure", "Technique", "Konoha", 6, 32, 10424, 15551, 11865, 161, 15, 16, 147, 1],
  [487, "Naruto Uzumaki, Champion's Reward", "Body", "Konoha", 6, 100, 48197, 48197, 48197, 295, 35, 26, 181, 99, 0],
  [487, "Naruto Uzumaki, Champion's Reward", "Body", "Konoha", 6, 100, 48197, 48197, 48197, 295, 35, 26, 181, 1],
