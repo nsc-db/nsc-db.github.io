@@ -15867,6 +15867,42 @@ window.ability=[
           "effectIdx3": "1675"
         },
         {
+          "abilityId": "1795",
+          "abilityName": "折り紙術の使い手",
+          "abilityDescription": "通常攻撃回避率が500％アップし、高確率でスキルを回避する",
+          "abilityEffectDescription": "通常攻撃回避率が500％アップし、高確率でスキルを回避する",
+          "effectIdx1": "1677",
+          "effectIdx2": "968",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1796",
+          "abilityName": "冷静沈着",
+          "abilityDescription": "スキルダメージが100％アップし、HPが80％以上の時にチャクラ消費量半減＆スキル発動速度1段階アップ",
+          "abilityEffectDescription": "スキルダメージが100％アップし、HPが80％以上の時にチャクラ消費量半減＆スキル発動速度1段階アップ",
+          "effectIdx1": "774",
+          "effectIdx2": "1089",
+          "effectIdx3": "640"
+        },
+        {
+          "abilityId": "1797",
+          "abilityName": "人知を超えた瞳術",
+          "abilityDescription": "最大HPとスキルダメージを100％アップする",
+          "abilityEffectDescription": "最大HPとスキルダメージを100％アップする",
+          "effectIdx1": "684",
+          "effectIdx2": "774",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1798",
+          "abilityName": "神と崇められし力",
+          "abilityDescription": "最大チャクラが50アップし、HPが80％以上の時にチャクラ消費量半減＆スキル発動速度1段階アップ",
+          "abilityEffectDescription": "最大チャクラが50アップし、HPが80％以上の時にチャクラ消費量半減＆スキル発動速度1段階アップ",
+          "effectIdx1": "689",
+          "effectIdx2": "1089",
+          "effectIdx3": "640"
+        },
+        {
           "abilityId": "1813",
           "abilityName": "カカシへの対抗心",
           "abilityDescription": "最大HPとスキルダメージが50％アップ、HPが50％以下になると素早さが100％アップする",

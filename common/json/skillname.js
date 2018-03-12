@@ -4700,6 +4700,22 @@ window.skillname=[
           "name": "少しは休憩しようよ！"
         },
         {
+          "cardBattleSkillNameId": "2298",
+          "name": "紙の天星"
+        },
+        {
+          "cardBattleSkillNameId": "2300",
+          "name": "邪魔はさせない！"
+        },
+        {
+          "cardBattleSkillNameId": "2302",
+          "name": "六道・輪廻操引"
+        },
+        {
+          "cardBattleSkillNameId": "2304",
+          "name": "三大瞳術の力"
+        },
+        {
           "cardBattleSkillNameId": "2330",
           "name": "仲間はオレが守る！！"
         },

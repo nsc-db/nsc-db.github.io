@@ -2366,6 +2366,20 @@ window.charaname=[
                     "weight": "4010"
                 },
                 {
+                  "charaProfileId": "13304",
+                  "charaId": "133",
+                  "name": "長門",
+                  "detail": "疾風伝（ペイン操作）",
+                  "charaLoveAffinityGroupId": "13340",
+                  "birthday": "919",
+                  "constellation": "6",
+                  "height": "0",
+                  "weight": "0",
+                  "bloodType": "1",
+                  "age": "0",
+                  "gender": "1"
+                },
+                {
                     "age": "16",
                     "birthday": "620",
                     "bloodType": "4",

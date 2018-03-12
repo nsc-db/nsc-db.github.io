@@ -8931,6 +8931,32 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "693",
+          "name": "神の護り手",
+          "description": "”暁”所属の攻撃力が60％アップし、行動後HPが10％回復する",
+          "effectIdx1": "11059",
+          "effectIdx2": "357",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "8",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "694",
+          "name": "痛みによる秩序",
+          "description": "\"暁\"所属のスキルダメージを50％アップし写輪眼・白眼・輪廻眼を半減",
+          "effectIdx1": "682",
+          "effectIdx2": "1678",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "8",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "702",
           "name": "仲間を想う力",
           "description": "木ノ葉隠れの里所属の各自が6回行動するまで、受ける全スキルを半減する",
