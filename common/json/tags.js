@@ -3445,12 +3445,22 @@ window.tags=[
           "tag": "killers"
 },
 {
+          "cardId": "20040308",
+          "rare": "5",
+          "tag": "ex-6"
+},
+{
           "cardId": "20040315",
           "rare": "5",
           "tag": "event"
 },
 {
           "cardId": "20040316",
+          "rare": "5",
+          "tag": "event"
+},
+{
+          "cardId": "20040317",
           "rare": "5",
           "tag": "event"
 },

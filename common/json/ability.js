@@ -1,5 +1,5 @@
 window.ability=[
-    {
+{
           "abilityId": "1",
           "abilityName": "HP自動回復（小）",
           "abilityDescription": "行動後にHPが５％回復する",
@@ -13331,9 +13331,9 @@ window.ability=[
         {
           "abilityId": "1486",
           "abilityName": "平和を望む破壊神",
-          "abilityDescription": "最大チャクラ量を200アップし、状態異常を無効化する",
-          "abilityEffectDescription": "最大チャクラ量を200アップし、状態異常を無効化する",
-          "effectIdx1": "20019",
+          "abilityDescription": "最大チャクラ量を250アップし、状態異常を無効化する",
+          "abilityEffectDescription": "最大チャクラ量を250アップし、状態異常を無効化する",
+          "effectIdx1": "20044",
           "effectIdx2": "82",
           "effectIdx3": "0"
         },
@@ -15903,6 +15903,42 @@ window.ability=[
           "effectIdx3": "640"
         },
         {
+          "abilityId": "1799",
+          "abilityName": "チャクラ喰らい",
+          "abilityDescription": "最大チャクラ量が150アップ、最大HPが100％アップする",
+          "abilityEffectDescription": "最大チャクラ量が150アップ、最大HPが100％アップする",
+          "effectIdx1": "20014",
+          "effectIdx2": "684",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1800",
+          "abilityName": "鮫使い",
+          "abilityDescription": "スキルダメージが100％アップ、チャクラが80％以上の時さらにスキルダメージ100％アップ",
+          "abilityEffectDescription": "スキルダメージが100％アップ、チャクラが80％以上の時さらにスキルダメージ100％アップ",
+          "effectIdx1": "774",
+          "effectIdx2": "33709",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1801",
+          "abilityName": "一族を想う心",
+          "abilityDescription": "最大HPが80%アップし、最大チャクラ量が100アップする",
+          "abilityEffectDescription": "最大HPが80%アップし、最大チャクラ量が100アップする",
+          "effectIdx1": "649",
+          "effectIdx2": "20009",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1802",
+          "abilityName": "神速の英傑",
+          "abilityDescription": "素早さが100%アップし、HPが80%以上の時スキルダメージが100%アップする",
+          "abilityEffectDescription": "素早さが100%アップし、HPが80%以上の時スキルダメージが100%アップする",
+          "effectIdx1": "13099",
+          "effectIdx2": "31709",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "1813",
           "abilityName": "カカシへの対抗心",
           "abilityDescription": "最大HPとスキルダメージが50％アップ、HPが50％以下になると素早さが100％アップする",
@@ -15953,6 +15989,204 @@ window.ability=[
           "abilityDescription": "１０回行動するまでスキルダメージが120%アップする",
           "abilityEffectDescription": "１０回行動するまでスキルダメージが120%アップする",
           "effectIdx1": "30911",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "10000",
+          "abilityName": "攻撃・防御・素早さダウン（大）",
+          "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
+          "abilityEffectDescription": "攻撃・防御・素早さが大きくダウンする",
+          "effectIdx1": "300000",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "10001",
+          "abilityName": "攻撃・防御・素早さダウン（中）",
+          "abilityDescription": "攻撃・防御・素早さがダウンする",
+          "abilityEffectDescription": "攻撃・防御・素早さがダウンする",
+          "effectIdx1": "300001",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "10002",
+          "abilityName": "攻撃・防御・素早さダウン（小）",
+          "abilityDescription": "攻撃・防御・素早さが少しダウンする",
+          "abilityEffectDescription": "攻撃・防御・素早さが少しダウンする",
+          "effectIdx1": "300002",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "10100",
+          "abilityName": "攻撃力ダウン（大）",
+          "abilityDescription": "攻撃力が大きくダウンする",
+          "abilityEffectDescription": "攻撃力が大きくダウンする",
+          "effectIdx1": "300003",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "10101",
+          "abilityName": "攻撃力ダウン（中）",
+          "abilityDescription": "攻撃力がダウンする",
+          "abilityEffectDescription": "攻撃力がダウンする",
+          "effectIdx1": "300004",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "10102",
+          "abilityName": "攻撃力ダウン（小）",
+          "abilityDescription": "攻撃力が少しダウンする",
+          "abilityEffectDescription": "攻撃力が少しダウンする",
+          "effectIdx1": "475",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "10200",
+          "abilityName": "防御力ダウン（大）",
+          "abilityDescription": "防御力が大きくダウンする",
+          "abilityEffectDescription": "防御力が大きくダウンする",
+          "effectIdx1": "12106",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "10201",
+          "abilityName": "防御力ダウン（中）",
+          "abilityDescription": "防御力がダウンする",
+          "abilityEffectDescription": "防御力がダウンする",
+          "effectIdx1": "12104",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "10202",
+          "abilityName": "防御力ダウン（小）",
+          "abilityDescription": "防御力が少しダウンする",
+          "abilityEffectDescription": "防御力が少しダウンする",
+          "effectIdx1": "12102",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "10300",
+          "abilityName": "素早さダウン（大）",
+          "abilityDescription": "素早さが大きくダウンする",
+          "abilityEffectDescription": "素早さが大きくダウンする",
+          "effectIdx1": "1080",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "10301",
+          "abilityName": "素早さダウン（中）",
+          "abilityDescription": "素早さがダウンする",
+          "abilityEffectDescription": "素早さがダウンする",
+          "effectIdx1": "1082",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "10302",
+          "abilityName": "素早さダウン（小）",
+          "abilityDescription": "素早さが少しダウンする",
+          "abilityEffectDescription": "素早さが少しダウンする",
+          "effectIdx1": "300011",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "11000",
+          "abilityName": "被ダメージ時HP自動回復（5回）",
+          "abilityDescription": "ダメージを受けたときにHPが全回復する（5回行動まで）",
+          "abilityEffectDescription": "ダメージを受けたときにHPが全回復する（5回行動まで）",
+          "effectIdx1": "1307",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "11100",
+          "abilityName": "HP減少（大）",
+          "abilityDescription": "行動時にHPが大きく減少する",
+          "abilityEffectDescription": "行動時にHPが大きく減少する",
+          "effectIdx1": "1309",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "11101",
+          "abilityName": "HP減少（中）",
+          "abilityDescription": "行動時にHPが減少する",
+          "abilityEffectDescription": "行動時にHPが減少する",
+          "effectIdx1": "1308",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "11200",
+          "abilityName": "超低確率でスキル回避",
+          "abilityDescription": "超低確率でスキルを回避する",
+          "abilityEffectDescription": "超低確率でスキルを回避する",
+          "effectIdx1": "730",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "11201",
+          "abilityName": "低確率でスキル回避",
+          "abilityDescription": "低確率でスキルを回避する",
+          "abilityEffectDescription": "低確率でスキルを回避する",
+          "effectIdx1": "27",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "11302",
+          "abilityName": "チャクラ減少（小）",
+          "abilityDescription": "行動時にチャクラが少し減少する",
+          "abilityEffectDescription": "行動時にチャクラが少し減少する",
+          "effectIdx1": "1386",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "11400",
+          "abilityName": "HP自動回復（大）",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "735",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "11401",
+          "abilityName": "HP自動回復（中）",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "357",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "11402",
+          "abilityName": "HP自動回復（小）",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "263",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "11500",
+          "abilityName": "スキル発動速度アップ",
+          "abilityDescription": "スキル発動速度が１段階アップする",
+          "abilityEffectDescription": "スキル発動速度が１段階アップする",
+          "effectIdx1": "21000",
           "effectIdx2": "0",
           "effectIdx3": "0"
         },

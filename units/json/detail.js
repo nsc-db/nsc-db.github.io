@@ -10363,5 +10363,205 @@ window.detail = {
         ability2name: "Ninja Tool Training Idea",
         ability2: "High Chance to Dodge Skills, High Chance for Cast Speed +1, Chance for the next Skill to cost 0"
     },
+
+    694: {
+        leadname: "God's Guardian",
+        lead: "Akatsuki Characters ATK +60%, HP Regen +10%" ,
+
+        skill1name: "Paper Devastation",
+        skill1ogname: "紙の天星",
+        skill1type: "Unique",
+        skill1speed: "Fast",
+        skill1cost: "100",
+        skill1: "Deal 7% + 10,000 to one enemy. Deal 20x damage to EX and grant \"Restraint\" state. [Restraint: SPD -1000% and Cast Speed -2]",
+
+        skill2name: "I Won't Disturb",
+        skill2ogname: "邪魔はさせない！",
+        skill2type: "Unique",
+        skill2speed: "Fast",
+        skill2cost: "70",
+        skill2: "Own ATK +100% and grant \"Paper Human\" state. If one of the enemy is an EX, SPD +300% and Immune to Skills. [Paper Human: Skill Damage +300%]",
+
+        ability1name: "Origami Jutsu User",
+        ability1: "Basic Attack Dodge +500%, High Chance to Dodge Skills",
+
+        ability2name: "Calm and Collected",
+        ability2: "Skill Damage +100%. Chakra Cost -50% and Cast Speed +1 when HP is above 80%"
+    },
+
+    "694_6": {
+        leadname: "God's Guardian",
+        lead: "Akatsuki Characters ATK +60%, HP Regen +10%" ,
+
+        skill1name: "Paper Devastation",
+        skill1ogname: "紙の天星",
+        skill1type: "Unique",
+        skill1speed: "Fast",
+        skill1cost: "100",
+        skill1: "Deal 7% + 10,000 to one enemy. Deal 20x damage to EX and grant \"Restraint\" state. [Restraint: SPD -1000% and Cast Speed -2]",
+
+        skill2name: "I Won't Disturb",
+        skill2ogname: "邪魔はさせない！",
+        skill2type: "Unique",
+        skill2speed: "Fast",
+        skill2cost: "70",
+        skill2: "Own ATK +100% and grant \"Paper Human\" state. If one of the enemy is an EX, SPD +300% and Immune to Skills. [Paper Human: Skill Damage +300%]",
+
+        ability1name: "Origami Jutsu User",
+        ability1: "Basic Attack Dodge +500%, High Chance to Dodge Skills",
+
+        ability2name: "Calm and Collected",
+        ability2: "Skill Damage +100%. Chakra Cost -50% and Cast Speed +1 when HP is above 80%"
+    },
+
+    695: {
+        leadname: "Disciple of Pain",
+        lead: "Akatsuki Characters Skill Damage +50%, Incoming Sharingan, Byakugan and Rinnegan Skill Damage -50%" ,
+
+        skill1name: "Six Paths: Rinnegan Honor",
+        skill1ogname: "六道・輪廻操引",
+        skill1type: "Unique",
+        skill1speed: "Six Paths",
+        skill1cost: "100",
+        skill1: "Deal 7% + 10,000 to one enemy. Deal 15x damage and 3 Additional Attacks to EX",
+
+        skill2name: "Power of the Third Eye Jutsu",
+        skill2ogname: "三大瞳術の力",
+        skill2type: "Unique",
+        skill2speed: "Fast",
+        skill2cost: "70",
+        skill2: "High Chance to lower all enemies ATK by 50%. Intellect Type enemies Cast Speed -2, EX enemies Chakra Cost +100%",
+
+        ability1name: "Beyond Human Knowledge Jutsu",
+        ability1: "Maximum HP and Skill Damage +100%",
+
+        ability2name: "Power of the Worshiped God",
+        ability2: "Maximum Chakra +50. Chakra Cost -50% and Cast Speed +1 when HP is above 80%"
+     },
+
+    "695_6": {
+ 		leadname: "Disciple of Pain",
+        lead: "Akatsuki Characters Skill Damage +50%, Incoming Sharingan, Byakugan and Rinnegan Skill Damage -50%" ,
+
+        skill1name: "Six Paths: Rinnegan Honor",
+        skill1ogname: "六道・輪廻操引",
+        skill1type: "Six Paths",
+        skill1speed: "Fast",
+        skill1cost: "100",
+        skill1: "Deal 7% + 10,000 to one enemy. Deal 15x damage and 3 Additional Attacks to EX",
+
+        skill2name: "Power of the Third Eye Jutsu",
+        skill2ogname: "三大瞳術の力",
+        skill2type: "Unique",
+        skill2speed: "Fast",
+        skill2cost: "70",
+        skill2: "High Chance to lower all enemies ATK by 50%. Intellect Type enemies Cast Speed -2, EX enemies Chakra Cost +100%",
+
+        ability1name: "Beyond Human Knowledge Jutsu",
+        ability1: "Maximum HP and Skill Damage +100%",
+
+        ability2name: "Power of the Worshiped God",
+        ability2: "Maximum Chakra +50. Chakra Cost -50% and Cast Speed +1 when HP is above 80%"
+    },
+
+    696: {
+        leadname: "Chakra Eater",
+        lead: "Akatsuki Characters Maximum Chakra +20, ATK and SPD +40%" ,
+
+        skill1name: "Water Style: Shark Summoning Jutsu",
+        skill1ogname: "水牢・鮫口寄せの術",
+        skill1type: "Water",
+        skill1speed: "Fast",
+        skill1cost: "100",
+        skill1: "Deal 7% + 10,000 to one enemy with a high chance to inflict \"Bleed\" state. Deal 100x ATK Damage to Surroundings enemies. If one enemy is under \"Bleed\" state, deal 5x damage. [Bleed: Continues to lose HP, Chance to Lower DEF] ",
+
+        skill2name: "Time to Torment You",
+        skill2ogname: "いたぶってあげましょう",
+        skill2type: "Unique",
+        skill2speed: "Fast",
+        skill2cost: "80",
+        skill2: "High Chance to lower all enemies ATK, DEF or SPD by 40% and inflict \"Bubble\" state. High Chance to inflict \"Usurp\" state to enemies under \"Bubble\" state. [Bubble: Chance to lower SPD] [Usurp: HP -15% and Chakra -30% every turn]",
+
+        ability1name: "Eating Chakra",
+        ability1: "Maximum Chakra +150 and Maximum HP +100%",
+
+        ability2name: "Shark Usage",
+        ability2: "Skill Damage +100%. Additional +100% Skill Damage when Chakra is above 80%"
+     },
+
+    "696_6": {
+ 		  leadname: "Chakra Eater",
+        lead: "Akatsuki Characters Maximum Chakra +20, ATK and SPD +40%" ,
+
+        skill1name: "Water Style: Shark Summoning Jutsu",
+        skill1ogname: "水牢・鮫口寄せの術",
+        skill1type: "Water",
+        skill1speed: "Fast",
+        skill1cost: "100",
+        skill1: "Deal 7% + 10,000 to one enemy with a high chance to inflict \"Bleed\" state. Deal 100x ATK Damage to Surroundings enemies. If one enemy is under \"Bleed\" state, deal 5x damage. [Bleed: Continues to lose HP, Chance to Lower DEF] ",
+
+        skill2name: "Time to Torment You",
+        skill2ogname: "いたぶってあげましょう",
+        skill2type: "Unique",
+        skill2speed: "Fast",
+        skill2cost: "80",
+        skill2: "High Chance to lower all enemies ATK, DEF or SPD by 40% and inflict \"Bubble\" state. High Chance to inflict \"Usurp\" state to enemies under \"Bubble\" state. [Bubble: Chance to lower SPD] [Usurp: HP -15% and Chakra -30% every turn]",
+
+        ability1name: "Eating Chakra",
+        ability1: "Maximum Chakra +150 and Maximum HP +100%",
+
+        ability2name: "Shark Usage",
+        ability2: "Skill Damage +100%. Additional +100% Skill Damage when Chakra is above 80%"
+    },
+
+    697: {
+        leadname: "Reflection of the Future",
+        lead: "Technique Type SPD +70% and Chakra Recovery +10%" ,
+
+        skill1name: "Kotoamatsukami",
+        skill1ogname: "別天神",
+        skill1type: "Sharingan",
+        skill1speed: "Fast",
+        skill1cost: "200",
+        skill1: "Deal 100,000 fixed damage to one enemy with a High Chance to inflict \"Fucked Up\" state. While under \"Determined\" state, consume all Chakra and guarantee to inflict \"Fucked Up\" state. [Fucked Up: ATK, Crit Damage and Crit Chance +3000%, remove all Buffs, Debuffs and Special State other than Fucked Up state. Basic Attacks only hit allies (Note: If there's no allies, no action occurs)] [Always Hit]",
+
+        skill2name: "Protecting the Uchiha Name",
+        skill2ogname: "うちはの名を守ってくれ",
+        skill2type: "Unique",
+        skill2speed: "Fastest",
+        skill2cost: "60",
+        skill2: "All allies ATK and SPD +80%, grant Shisui \"Determined\" state. Ally \"Itachi Uchiha\" Skill Damage +200% [Determined: ATK, DEF and SPD +40%, recover 10% HP and Chakra when attacked]",
+
+        ability1name: "Thinking for the Clan",
+        ability1: "Maximum HP +80% and Maximum Chakra +100",
+
+        ability2name: "Godspeed Hero",
+        ability2: "SPD +100%. Skill Damage +100% when HP is above 80%"
+     },
+
+    "697_6": {
+ 		 leadname: "Reflection of the Future",
+        lead: "Technique Type SPD +70% and Chakra Recovery +10%" ,
+
+        skill1name: "Kotoamatsukami",
+        skill1ogname: "別天神",
+        skill1type: "Sharingan",
+        skill1speed: "Fast",
+        skill1cost: "200",
+        skill1: "Deal 100,000 fixed damage to one enemy with a High Chance to inflict \"Fucked Up\" state. While under \"Determined\" state, consume all Chakra and guarantee to inflict \"Fucked Up\" state. [Fucked Up: ATK, Crit Damage and Crit Chance +3000%, remove all Buffs, Debuffs and Special State other than Fucked Up state. Basic Attacks only hit allies (Note: If there's no allies, no action occurs)] [Always Hit]",
+
+        skill2name: "Protecting the Uchiha Name",
+        skill2ogname: "うちはの名を守ってくれ",
+        skill2type: "Unique",
+        skill2speed: "Fastest",
+        skill2cost: "60",
+        skill2: "All allies ATK and SPD +80%, grant Shisui \"Determined\" state. Ally \"Itachi Uchiha\" Skill Damage +200% [Determined: ATK, DEF and SPD +40%, recover 10% HP and Chakra when attacked]",
+
+        ability1name: "Thinking for the Clan",
+        ability1: "Maximum HP +80% and Maximum Chakra +100",
+
+        ability2name: "Godspeed Hero",
+        ability2: "SPD +100%. Skill Damage +100% when HP is above 80%"
+    },
 }
 

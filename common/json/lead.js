@@ -1,5 +1,5 @@
 window.lead=[
- {
+{
           "cardLeaderSkillId": "1",
           "name": "疾風の如く",
           "description": "心属性の攻撃力を１５％アップする",
@@ -7620,10 +7620,10 @@ window.lead=[
         {
           "cardLeaderSkillId": "587",
           "name": "最後の任務",
-          "description": "木ノ葉隠れの里所属の最大HP・攻撃力・素早さを50%アップする",
-          "effectIdx1": "10049",
-          "effectIdx2": "11049",
-          "effectIdx3": "13049",
+          "description": "木ノ葉隠れの里所属の最大HP・攻撃力・素早さを60%アップする",
+          "effectIdx1": "10059",
+          "effectIdx2": "11059",
+          "effectIdx3": "13059",
           "compType": "1",
           "target1Category": "2",
           "target1Param": "1",
@@ -8036,9 +8036,9 @@ window.lead=[
         {
           "cardLeaderSkillId": "624",
           "name": "哀しき決別",
-          "description": "知属性の最大HPと攻撃力が40％アップし、行動後チャクラが10％回復する",
-          "effectIdx1": "10039",
-          "effectIdx2": "11039",
+          "description": "知属性の最大HPと攻撃力が60％アップし、行動後チャクラが10％回復する",
+          "effectIdx1": "10059",
+          "effectIdx2": "11059",
           "effectIdx3": "528",
           "compType": "1",
           "target1Category": "1",
@@ -8953,6 +8953,32 @@ window.lead=[
           "compType": "1",
           "target1Category": "2",
           "target1Param": "8",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "695",
+          "name": "チャクラを喰らう者",
+          "description": "\"暁\"所属の最大チャクラを20アップし、攻撃力と素早さが40％アップする",
+          "effectIdx1": "20001",
+          "effectIdx2": "11039",
+          "effectIdx3": "13039",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "8",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "696",
+          "name": "瞳に写る未来",
+          "description": "技属性の素早さが70％アップし、行動後チャクラが10％回復する",
+          "effectIdx1": "13069",
+          "effectIdx2": "53",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "2",
           "target2Category": "0",
           "target2Param": "0"
         },

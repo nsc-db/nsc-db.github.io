@@ -1,5 +1,5 @@
 window.skillname=[
-        {
+{
           "cardBattleSkillNameId": "1",
           "name": "螺旋丸"
         },
@@ -4714,6 +4714,22 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "2304",
           "name": "三大瞳術の力"
+        },
+        {
+          "cardBattleSkillNameId": "2306",
+          "name": "水牢・鮫口寄せの術"
+        },
+        {
+          "cardBattleSkillNameId": "2308",
+          "name": "いたぶってあげましょう"
+        },
+        {
+          "cardBattleSkillNameId": "2310",
+          "name": "別天神"
+        },
+        {
+          "cardBattleSkillNameId": "2312",
+          "name": "うちはの名を守ってくれ"
         },
         {
           "cardBattleSkillNameId": "2330",
