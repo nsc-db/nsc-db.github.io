@@ -431,13 +431,12 @@ window.unit=[
  [692, "Sakura Haruno, Acquisition of the Byakugo", "Technique", "Konoha", 6, 40, 0, 0, 0, 0, 0, 0, 0, 0, 1],
  [693, "Tenten, Lovely Weapons", "Heart", "Konoha", 6, 50, 28322, 35356, 31053, 313, 20, 19, 154, 93, 0],
  [693, "Tenten, Lovely Weapons", "Heart", "Konoha", 6, 50, 0, 0, 0, 0, 0, 0, 0, 0, 1],
- [694, "Konan, God's Guardian", "Heart", "Akatsuki", 6, 40, 22817, 34790, 22837, 244, 0, 0, 0, 0, 0], 
+ [694, "Konan, God's Guardian", "Heart", "Akatsuki", 6, 40, 22817, 34790, 22837, 244, 0, 0, 0, 92, 0], 
  [694, "Konan, God's Guardian", "Heart", "Akatsuki", 6, 40, 22817, 34790, 22837, 244, 0, 0, 0, 0, 1], 
- [695, "Nagato, Disciple of Pain", "Courage", "Akatsuki", 6, 40, 26602, 31627, 20350, 233, 0, 0, 0, 0, 0], 
+ [695, "Nagato, Disciple of Pain", "Courage", "Akatsuki", 6, 40, 26602, 31627, 20350, 233, 0, 0, 0, 94, 0], 
  [695, "Nagato, Disciple of Pain", "Courage", "Akatsuki", 6, 40, 26602, 31627, 20350, 233, 0, 0, 0, 0, 1],
- [696, "Kisame Hoshigaki, Chakra Eater", "Intellect", "Akatsuki", 6, 40, 34066, 36301, 26354, 274, 0, 0, 0, 0, 0], 
+ [696, "Kisame Hoshigaki, Chakra Eater", "Intellect", "Akatsuki", 6, 40, 34066, 36301, 26354, 274, 0, 0, 0, 95, 0], 
  [696, "Kisame Hoshigaki, Chakra Eater", "Intellect", "Akatsuki", 6, 40, 34066, 36301, 26354, 274, 0, 0, 0, 0, 1],
- [697, "Shisui Uchiha, Reflection of the Future", "Technique", "Konoha", 6, 40, 32537, 26969, 20530, 249, 0, 0, 0, 0, 0], 
+ [697, "Shisui Uchiha, Reflection of the Future", "Technique", "Konoha", 6, 40, 32537, 26969, 20530, 249, 0, 0, 0, 99, 0], 
  [697, "Shisui Uchiha, Reflection of the Future", "Technique", "Konoha", 6, 40, 32537, 26969, 20530, 249, 0, 0, 0, 0, 1],
- 
 ]
