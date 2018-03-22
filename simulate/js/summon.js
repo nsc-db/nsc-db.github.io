@@ -55,7 +55,7 @@ function singleSummon(){
 		}
 	}
 
-	$('#chara-summon').attr('src', './/assets/img/units/' + card + '.png'); 
+	$('#chara-summon').attr('src', './../common/assets/img/units/' + card + '.png'); 
 
 	if (multi.style.display === "block"){
 		multi.style.display = "none";
@@ -126,7 +126,7 @@ function multiSummon(){
 				}
 			}
 		}
-		$('#chara-summon-' + i).attr('src', './assets/img/units/' + card + '.png'); 
+		$('#chara-summon-' + i).attr('src', './../common/assets/img/units/' + card + '.png'); 
 	}
 	if (single.style.display === "block"){
 		single.style.display = "none";

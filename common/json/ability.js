@@ -1,5 +1,5 @@
 window.ability=[
-{
+        {
           "abilityId": "1",
           "abilityName": "HP自動回復（小）",
           "abilityDescription": "行動後にHPが５％回復する",
@@ -15939,6 +15939,42 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "1803",
+          "abilityName": "起爆粘土",
+          "abilityDescription": "素早さが80％、攻撃力とスキルダメージが100％アップする",
+          "abilityEffectDescription": "素早さが80％、攻撃力とスキルダメージが100％アップする",
+          "effectIdx1": "13079",
+          "effectIdx2": "11099",
+          "effectIdx3": "774"
+        },
+        {
+          "abilityId": "1804",
+          "abilityName": "土塊を喰う掌",
+          "abilityDescription": "最大チャクラが30アップし、チャクラが70％以上の時にチャクラ消費量が30％減少",
+          "abilityEffectDescription": "最大チャクラが30アップし、チャクラが70％以上の時にチャクラ消費量が30％減少",
+          "effectIdx1": "20002",
+          "effectIdx2": "1685",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1805",
+          "abilityName": "人傀儡の業",
+          "abilityDescription": "最大HPと攻撃力とスキルダメージが100％アップする",
+          "abilityEffectDescription": "最大HPと攻撃力とスキルダメージが100％アップする",
+          "effectIdx1": "684",
+          "effectIdx2": "11099",
+          "effectIdx3": "774"
+        },
+        {
+          "abilityId": "1806",
+          "abilityName": "永遠不滅の体現者",
+          "abilityDescription": "ダメージを受けるとHP20％回復、HP0以下で2度までHPが全回復する",
+          "abilityEffectDescription": "ダメージを受けるとHP20％回復、HP0以下で2度までHPが全回復する",
+          "effectIdx1": "1496",
+          "effectIdx2": "1057",
+          "effectIdx3": "874"
+        },
+        {
           "abilityId": "1813",
           "abilityName": "カカシへの対抗心",
           "abilityDescription": "最大HPとスキルダメージが50％アップ、HPが50％以下になると素早さが100％アップする",
@@ -15990,6 +16026,42 @@ window.ability=[
           "abilityEffectDescription": "１０回行動するまでスキルダメージが120%アップする",
           "effectIdx1": "30911",
           "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1819",
+          "abilityName": "自由闊達な忍法",
+          "abilityDescription": "最大HPが70％アップし、HPが80％以上の時スキルダメージ100％アップする",
+          "abilityEffectDescription": "最大HPが70％アップし、HPが80％以上の時スキルダメージ100％アップする",
+          "effectIdx1": "10069",
+          "effectIdx2": "31709",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1820",
+          "abilityName": "意外性No.1忍者",
+          "abilityDescription": "行動後に確率でスキル発動速度が2段階アップする",
+          "abilityEffectDescription": "行動後に確率でスキル発動速度が2段階アップする",
+          "effectIdx1": "1639",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1821",
+          "abilityName": "自由闊達な忍法",
+          "abilityDescription": "最大HPが100％アップし、HPが60％以上の時スキルダメージ100％アップする",
+          "abilityEffectDescription": "最大HPが100％アップし、HPが60％以上の時スキルダメージ100％アップする",
+          "effectIdx1": "684",
+          "effectIdx2": "31509",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1822",
+          "abilityName": "意外性No.1忍者",
+          "abilityDescription": "行動選択時に確率でチャクラ消費量が0になり、行動後に確率でスキル発動速度が2段階アップする",
+          "abilityEffectDescription": "行動選択時に確率でチャクラ消費量が0になり、行動後に確率でスキル発動速度が2段階アップする",
+          "effectIdx1": "1698",
+          "effectIdx2": "1639",
           "effectIdx3": "0"
         },
         {

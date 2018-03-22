@@ -4732,8 +4732,20 @@ window.skillname=[
           "name": "うちはの名を守ってくれ"
         },
         {
+          "cardBattleSkillNameId": "2314",
+          "name": "次のは速いぜェ…うん"
+        },
+        {
+          "cardBattleSkillNameId": "2316",
+          "name": "とくと見せてやる"
+        },
+        {
           "cardBattleSkillNameId": "2330",
           "name": "仲間はオレが守る！！"
+        },
+        {
+          "cardBattleSkillNameId": "2332",
+          "name": "千倍にして返してやっからよ"
         },
         {
           "cardBattleSkillNameId": "2335",

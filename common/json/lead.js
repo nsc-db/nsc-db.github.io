@@ -1,5 +1,5 @@
 window.lead=[
-{
+        {
           "cardLeaderSkillId": "1",
           "name": "疾風の如く",
           "description": "心属性の攻撃力を１５％アップする",
@@ -8983,6 +8983,32 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "697",
+          "name": "起爆する造形",
+          "description": "\"暁\"所属の素早さとスキルダメージを50％アップする",
+          "effectIdx1": "13049",
+          "effectIdx2": "682",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "8",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "698",
+          "name": "四肢操葬",
+          "description": "\"暁\"所属の最大HPとスキルダメージを50％アップする",
+          "effectIdx1": "10049",
+          "effectIdx2": "682",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "8",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "702",
           "name": "仲間を想う力",
           "description": "木ノ葉隠れの里所属の各自が6回行動するまで、受ける全スキルを半減する",
@@ -9005,6 +9031,19 @@ window.lead=[
           "compType": "1",
           "target1Category": "1",
           "target1Param": "6",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "704",
+          "name": "身に宿す火の意志",
+          "description": "体属性の最大HPが70%アップし行動後にHPが10%回復する",
+          "effectIdx1": "10069",
+          "effectIdx2": "357",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "3",
           "target2Category": "0",
           "target2Param": "0"
         }

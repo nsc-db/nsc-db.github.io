@@ -3450,6 +3450,21 @@ window.tags=[
           "tag": "ex-6"
 },
 {
+          "cardId": "20040309",
+          "rare": "5",
+          "tag": "ex-6"
+},
+{
+          "cardId": "20040310",
+          "rare": "5",
+          "tag": "killers"
+},
+{
+          "cardId": "20040309",
+          "rare": "5",
+          "tag": "killers"
+},
+{
           "cardId": "20040315",
           "rare": "5",
           "tag": "event"

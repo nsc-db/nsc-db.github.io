@@ -15,7 +15,7 @@
 			image = id + ".png";
 		}
 		var model = '<tr class="clickable" data-toggle="modal" data-target="#newModal">'
-					+'		<td class="text-center"><img id="icon-table" src="assets/img/units/icons/thumb_' + image + '"height="60px" width="60px" /><div style="display:none">' + data['cardId'] + '</td>'
+					+'		<td class="text-center"><img id="icon-table" src="../common/assets/img/units/icons/thumb_' + image + '"height="60px" width="60px" /><div style="display:none">' + data['cardId'] + '</td>'
 					+'		<td class="text-left"><a href= "view/' + data["cardId"] + '" data-toggle="modal" data-target="#newModal">' + name + " 【" + data["cardSubName"] + '】</a></td>'
 					+'		<td class="text-center">' + type + '</td>'
 					+'		<td class="text-center affiliation" affiliation="' + affi + '">' + affi + '</td>'
@@ -138,10 +138,10 @@
 		// Icon
 		checkImage('assets/img/units/icons/thumb_' + cid + '_6.png', 
 			function(){
-			 $('#icon-unit').attr('src', 'assets/img/units/icons/thumb_' + cid + '_6.png'); 
+			 $('#icon-unit').attr('src', '../common/assets/img/units/icons/thumb_' + cid + '_6.png'); 
 			}, 
 			function(){
-			 $('#icon-unit').attr('src', 'assets/img/units/icons/thumb_' + cid + '.png'); 
+			 $('#icon-unit').attr('src', '../common/assets/img/units/icons/thumb_' + cid + '.png'); 
 			  } );
 		var name = '';
 		for(var x in window.chara){
@@ -170,20 +170,20 @@
 	
 		
 		//Character Image
-		checkImage('assets/img/units/' + cid + '.png', 
+		checkImage('../common/assets/img/units/' + cid + '.png', 
 			function(){
-			 $('#card-art-five-star').attr('src', 'assets/img/units/' + cid + '.png'); 
+			 $('#card-art-five-star').attr('src', '../common/assets/img/units/' + cid + '.png'); 
 			}, 
 			function(){
-			 $('#card-art-five-star').attr('src', 'assets/img/units/' + cid + '_6.png');
+			 $('#card-art-five-star').attr('src', '../common/assets/img/units/' + cid + '_6.png');
 			  } );
 		
-		checkImage('assets/img/units/' + cid + '_6.png', 
+		checkImage('../common/assets/img/units/' + cid + '_6.png', 
 			function(){
-			 $('#card-art-six-star').attr('src', 'assets/img/units/' + cid + '_6.png'); 
+			 $('#card-art-six-star').attr('src', '../common/assets/img/units/' + cid + '_6.png'); 
 			}, 
 			function(){
-			 $('#card-art-six-star').attr('src', 'assets/img/units/' + cid + '.png');
+			 $('#card-art-six-star').attr('src', '../common/assets/img/units/' + cid + '.png');
 			  } );
 		
 		

@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Naruto Shinobi Collection Database - Units</title>
+
+    <!--BOOTSTRAP -->
+    <link href="../../css/bootstrap.min.css" rel="stylesheet">
+
+    <!--FAVICON-->
+	<link rel="apple-touch-icon" sizes="57x57" href="../../favicon/apple-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="../../favicon/apple-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="../../favicon/apple-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="../../favicon/apple-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="../../favicon/apple-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="../../favicon/apple-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="../../favicon/apple-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="../../favicon/apple-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="../../favicon/apple-icon-180x180.png">
+	<link rel="icon" type="image/png" sizes="192x192"  href="../../favicon/android-icon-192x192.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="../../favicon/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="96x96" href="../../favicon/favicon-96x96.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="../../favicon/favicon-16x16.png">
+	<link rel="manifest" href="/manifest.json">
+	<meta name="msapplication-TileColor" content="#ffffff">
+	<meta name="msapplication-TileImage" content="../../favicon/ms-icon-144x144.png">
+	<meta name="theme-color" content="#ffffff">
+
+    <!-- CSS -->
+	<link rel="stylesheet" type="text/css" href="../../css/datatables.min.css"/>
+	<link rel="stylesheet" type="text/css" href="../../css/style.css"/>
+	
+	<!-- DATABASE ENTRIES -->
+ 	<script type="text/javascript" src="../../../common/json/chara.js"></script>
+ 	<script type="text/javascript" src="../../../common/json/charaname.js"></script>
+ 	<script type="text/javascript" src="../../../common/json/skill.js"></script>
+ 	<script type="text/javascript" src="../../../common/json/skillname.js"></script>
+ 	<script type="text/javascript" src="../../../common/json/ability.js"></script>
+ 	<script type="text/javascript" src="../../../common/json/lead.js"></script>
+ 	<script type="text/javascript" src="../../../common/json/key.js"></script>
+ 	<script type="text/javascript" src="../../../common/json/evo.js"></script>
+ 	<script type="text/javascript" src="../../../common/json/tags.js"></script>
+
+
+
+	<link rel="stylesheet" href="https://i.icomoon.io/public/adb54f46d6/Linearicons/style.css">
+
+	<style>
+		tr{cursor: pointer;}
+	</style>
+
+	
+</head>
+
+<body>	
+	<div class="container">
+		<div class="base-header">
+			<div class="row">
+				<div class="col-md-5 col-md-offset-7">
+					<h1>Naruto <span>Shinobi <br>Collection</span> Database</h1>
+					<p>Join  us in the Reddit: <a target="_blank" href="http://reddit.com/r/NarutoSc">/r/NarutoSc</a></p>
+					<p>Join  us on Discord: <a target="_blank" href="https://discord.gg/pYYHBwt">Here</a></p>
+				</div>
+				<div class="col-md-12">
+					<div class="base-menu">
+						<ul>
+							<!-- <li><a href="nsc-db.github.io/index.html" role="button">Front Page</a> -->
+							<li><a href="./../../../units/index.html" role="button">Units</a>
+							<li><a href="./../../../gear/index.html" role="button">Ninja Gear</a>
+							<li><a href="./../../../jp/index.html" role="button">JP</a>
+							<li><a href="https://docs.google.com/document/d/1AXol-kO5zPbIj85SRX-sOUnV4el2NDHKHcleXeUCiyM/edit#heading=h.taus803ytjm2" role="button">Account Recovery</a>
+							<li class="active"><a href="" role="button">Summoning Simulator</a></li>
+							<!-- <li><a href="/guides" role="button">Guides</a>
+							<li><a href="/faq" role="button">FAQ</a> -->
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="container">
+		<div class="base-content">
+			<div class="row">
+				<div class="col-md-4">
+					<h2>Summon Simulator</h2>
+					<p>Choose a Banner</p>
+					
+					<div class="dropdown">
+						<button onclick="bannerDropdown()" class="button-primary">Select A Banner</button>
+						  <div id="myDropdown" class="dropdown-content">
+						    <input type="text" placeholder="Search.." id="myInput" onkeyup="filterFunction()">
+						    <a href="../../index.html">Home</a>
+						    <a href="../god-kakashi/index.html">God Kakashi</a>
+						    <a href="../sakura-tsunade/index.html">Sakura and Tsunade</a>
+
+						  </div>
+					</div>
+					
+				</div>
+			</div>
+
+			<div class="banner">
+				<div class="col-md-offset-4">
+					<img src="./banner.png" />
+				</div>
+			</div>
+
+			<div class="button row">
+					<button class="single-btn btn-success col-md-2 col-md-offset-4" onClick="singleSummon()">Single</button>
+					<button class="multi-btn btn-success col-md-2 " onClick="multiSummon()">Multi</button>
+				</div>
+			<!-- Single-->
+			<div id="single" style="display:none">
+				<div class="row">
+					<div id="char" class="char col-md-4 col-md-offset-4" >
+						<img id="chara-summon" src="" width="100%" height="100%">
+						<h2 class="name"></h2>
+						<p class="subname"></p>
+					</div>
+				</div>
+			</div>
+
+			
+			<div id="multi" style="display:none">
+				<div class="row">
+					<div class="char col-md-2 col-md-offset-1">
+						<img class="card" id="chara-summon-1" src="" width="100%" height="100%" />
+						<h2 class="name" ></h2>
+						<p class="subname"></p>
+					</div>
+					<div class="char col-md-2">
+						<img class="card" id="chara-summon-2" src="" width="100%" height="100%" />
+						<h2 class="name"></h2>
+						<p class="subname"></p>
+					</div>
+					<div class="char col-md-2">
+						<img class="card" id="chara-summon-3" src="" width="100%" height="100%" />
+						<h2 class="name"></h2>
+						<p class="subname"></p>
+					</div>
+					<div class="char col-md-2">
+						<img class="card" id="chara-summon-4" src="" width="100%" height="100%" />
+						<h2 class="name"></h2>
+						<p class="subname"></p>
+					</div>
+					<div class="char col-md-2">
+						<img class="card" id="chara-summon-5" src="" width="100%" height="100%" />
+						<h2 class="name"></h2>
+						<p class="subname"></p>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="char col-md-2 col-md-offset-1">
+						<img class="card" id="chara-summon-6" src="" width="100%" height="100%" />
+						<h2 class="name"></h2>
+						<p class="subname"></p>
+					</div>
+					<div class="char col-md-2">
+						<img class="card" id="chara-summon-7" src="" width="100%" height="100%" />
+						<h2 class="name"></h2>
+						<p class="subname"></p>
+					</div>
+					<div class="char col-md-2">
+						<img class="card" id="chara-summon-8" src="" width="100%" height="100%" />
+						<h2 class="name"></h2>
+						<p class="subname"></p>
+					</div>
+					<div class="char col-md-2">
+						<img class="card" id="chara-summon-9" src="" width="100%" height="100%" />
+						<h2 class="name"></h2>
+						<p class="subname"></p>
+					</div>
+					<div class="char col-md-2">
+						<img class="card" id="chara-summon-10" src="" width="100%" height="100%" />
+						<h2 class="name"></h2>
+						<p class="subname"></p>
+					</div>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="rates">
+					<div class="col-md-4 col-md-offset-5">
+						<button class="btn" onclick="showRates()">Show Rates</button>
+							<div id="rates-percent" style="display:none">
+								<table class="rate">
+									<tr>
+										<th>New EX</th>
+										<td>2%</td> 
+									</tr>
+									<tr>
+										<th>EX 6★</th>
+										<td>1%</td> 
+									</tr>
+									<tr>
+										<th>EX</th>
+										<td>2%</td> 
+									</tr>
+									<tr>
+										<th>5★</th>
+										<td>10%</td> 
+									</tr>
+									<tr>
+										<th>4★</th>
+										<td>85%</td> 
+									</tr>
+								</table>
+							</div>
+					</div>
+				</div>
+			</div>
+			</div>
+			<div class="row">
+				<div class="col-md-12">
+					<div class="footer">
+						<hr>
+						<p class="note">Created by Yuyya, Noobiel and Book</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<!-- JQUERY -->
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+	
+	<!--BOOTSTRAP-->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+	<!--Summon-->
+	<script type="text/javascript" src="./summon.js"></script>
+	<script type="text/javascript" src="./../../js/dropdown.js"></script>
+
+
+
+</body>
+</html>
