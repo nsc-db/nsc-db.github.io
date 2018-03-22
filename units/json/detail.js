@@ -10523,14 +10523,14 @@ window.detail = {
         skill1type: "Sharingan",
         skill1speed: "Fast",
         skill1cost: "200",
-        skill1: "Deal 100,000 fixed damage to one enemy with a High Chance to inflict \"Fucked Up\" state. While under \"Determined\" state, consume all Chakra and guarantee to inflict \"Fucked Up\" state. [Fucked Up: ATK, Crit Damage and Crit Chance +3000%, remove all Buffs, Debuffs and Special State other than Fucked Up state. Basic Attacks only hit allies (Note: If there's no allies, no action occurs)] [Always Hit]",
+        skill1: "Deal 100,000 fixed damage to one enemy with a High Chance to inflict \"Befuddle\" state. While under \"Determined\" state, consume all Chakra and guarantee to inflict \"Befuddle\" state. [Befuddle: ATK, Crit Damage and Crit Chance +3000%, remove all Buffs, Debuffs and Special State other than Befuddle state. Basic Attacks only hit allies (Note: If there's no allies, no action occurs)] [Always Hit]",
 
         skill2name: "Protecting the Uchiha Name",
         skill2ogname: "うちはの名を守ってくれ",
         skill2type: "Unique",
         skill2speed: "Fastest",
         skill2cost: "60",
-        skill2: "All allies ATK and SPD +80%, grant Shisui \"Determined\" state. Ally \"Itachi Uchiha\" Skill Damage +200% [Determined: ATK, DEF and SPD +40%, recover 10% HP and Chakra when attacked]",
+        skill2: "All allies ATK and SPD +80%, grant Shisui \"Determined\" state. If one of the ally is  \"Itachi Uchiha\" own Skill Damage +200% [Determined: ATK, DEF and SPD +40%, recover 10% HP and Chakra when attacked]",
 
         ability1name: "Thinking for the Clan",
         ability1: "Maximum HP +80% and Maximum Chakra +100",
@@ -10548,14 +10548,14 @@ window.detail = {
         skill1type: "Sharingan",
         skill1speed: "Fast",
         skill1cost: "200",
-        skill1: "Deal 100,000 fixed damage to one enemy with a High Chance to inflict \"Fucked Up\" state. While under \"Determined\" state, consume all Chakra and guarantee to inflict \"Fucked Up\" state. [Fucked Up: ATK, Crit Damage and Crit Chance +3000%, remove all Buffs, Debuffs and Special State other than Fucked Up state. Basic Attacks only hit allies (Note: If there's no allies, no action occurs)] [Always Hit]",
+        skill1: "Deal 100,000 fixed damage to one enemy with a High Chance to inflict \"Befuddle\" state. While under \"Determined\" state, consume all Chakra and guarantee to inflict \"Befuddle\" state. [Befuddle: ATK, Crit Damage and Crit Chance +3000%, remove all Buffs, Debuffs and Special State other than Befuddle state. Basic Attacks only hit allies (Note: If there's no allies, no action occurs)] [Always Hit]",
 
         skill2name: "Protecting the Uchiha Name",
         skill2ogname: "うちはの名を守ってくれ",
         skill2type: "Unique",
         skill2speed: "Fastest",
         skill2cost: "60",
-        skill2: "All allies ATK and SPD +80%, grant Shisui \"Determined\" state. Ally \"Itachi Uchiha\" Skill Damage +200% [Determined: ATK, DEF and SPD +40%, recover 10% HP and Chakra when attacked]",
+        skill2: "All allies ATK and SPD +80%, grant Shisui \"Determined\" state. If one of the ally is \"Itachi Uchiha\" own Skill Damage +200% [Determined: ATK, DEF and SPD +40%, recover 10% HP and Chakra when attacked]",
 
         ability1name: "Thinking for the Clan",
         ability1: "Maximum HP +80% and Maximum Chakra +100",
