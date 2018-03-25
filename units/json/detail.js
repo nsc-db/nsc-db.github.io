@@ -10562,6 +10562,102 @@ window.detail = {
 
         ability2name: "Godspeed Hero",
         ability2: "SPD +100%. Skill Damage +100% when HP is above 80%"
-    },
+		},
+	"698": {
+		leadname: "Explosive Molding",
+		lead: "Akatsuki Characters SPD and Skill Damage +50%" ,
+
+		skill1name: "C3",
+		skill1ogname: "C3",
+		skill1type: "Secret",
+		skill1speed: "Fast",
+		skill1cost: "100",
+		skill1: "Deal 7% + 10,000 to one enemy. Deal 3x damage to non Akatsuki Characters. Deal 10x to EX. Deal a 7% + 1,000 to Surrounding EX enemies.",
+
+		skill2name: "The Next One Will Be Faster",
+		skill2ogname: "次のは速いぜェ…うん",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "80",
+		skill2: "Own SPD +200%. If one of the enemy is an EX, own Cast Speed +2 and Skill Damage +150%",
+
+		ability1name: "Detonate",
+		ability1: "SPD +80%, ATK and Skill Damage +100%",
+
+		ability2name: "Palm Clay Formation",
+		ability2: "Maximum Chakra +30. Chakra Cost -30% when Chakra is above 70%"
+	},
+	"698_6": {
+		leadname: "Explosive Molding",
+		lead: "Akatsuki Characters SPD and Skill Damage +50%" ,
+
+		skill1name: "C3",
+		skill1ogname: "C3",
+		skill1type: "Secret",
+		skill1speed: "Fast",
+		skill1cost: "100",
+		skill1: "Deal 7% + 10,000 to one enemy. Deal 3x damage to non Akatsuki Characters. Deal 10x to EX. Deal a 7% + 1,000 to Surrounding EX enemies.",
+
+		skill2name: "The Next One Will Be Faster",
+		skill2ogname: "次のは速いぜェ…うん",
+		skill2type: "Unique",
+		skill2speed: "Fast",
+		skill2cost: "80",
+		skill2: "Own SPD +200%. If one of the enemy is an EX, own Cast Speed +2 and Skill Damage +150%",
+
+		ability1name: "Detonate",
+		ability1: "SPD +80%, ATK and Skill Damage +100%",
+
+		ability2name: "Palm Clay Formation",
+		ability2: "Maximum Chakra +30. Chakra Cost -30% when Chakra is above 70%"
+	},
+	"699": {
+		leadname: "Four Limbs Manipulation",
+		lead: "Akatsuki Characters Maximum HP and Skill Damage +50%" ,
+
+		skill1name: "Secret Red Move: Permormance of a Hundred Puppet",
+		skill1ogname: "赤秘技・百機の操演",
+		skill1type: "Weapon",
+		skill1speed: "Fast",
+		skill1cost: "100",
+		skill1: "Deal 100 hits dealing 3% + 100 to random enemies. Deal 4x damage to EX",
+
+		skill2name: "Full Reveal",
+		skill2ogname: "(とくと見せてやる",
+		skill2type: "Unique",
+		skill2speed: "Fastest",
+		skill2cost: "80",
+		skill2: "Own DEF +500%. If one of the enemy is an EX, own Cast Speed +2 and Chakra Cost becomes 0",
+
+		ability1name: "Human Puppets' Karma",
+		ability1: " Maximum HP, ATK and Skill Damage +100%",
+
+		ability2name: "Immortal Embodiment",
+		ability2: "Recover 20% HP when attacked. When HP reach 0, revive twice"
+	},
+	"699_6": {
+		leadname: "Four Limbs Manipulation",
+		lead: "Akatsuki Characters Maximum HP and Skill Damage +50%" ,
+
+		skill1name: "Secret Red Move: Permormance of a Hundred Puppet",
+		skill1ogname: "赤秘技・百機の操演",
+		skill1type: "Weapon",
+		skill1speed: "Fast",
+		skill1cost: "100",
+		skill1: "Deal 100 hits dealing 3% + 100 to random enemies. Deal 4x damage to EX",
+
+		skill2name: "Full Reveal",
+		skill2ogname: "(とくと見せてやる",
+		skill2type: "Unique",
+		skill2speed: "Fastest",
+		skill2cost: "80",
+		skill2: "Own DEF +500%. If one of the enemy is an EX, own Cast Speed +2 and Chakra Cost becomes 0",
+
+		ability1name: "Human Puppets' Karma",
+		ability1: " Maximum HP, ATK and Skill Damage +100%",
+
+		ability2name: "Immortal Embodiment",
+		ability2: "Recover 20% HP when attacked. When HP reach 0, revive twice"
+	},
 }
 

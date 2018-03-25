@@ -362,6 +362,46 @@ window.gear=[
 [8045, "Materialized Bones", "Additional", "Maximum HP and ATK +20%", "Maximum HP, ATK and Tailed Beast Skill Damage +100%", "Six Tail Naruto"], 
 [8075, "Tailed Beast Right Half", "Additional", "ATK and SPD +20%, Tailed Beast Skill Damage +30%", "ATK +100%, SPD and Skill Damage +50%", "Half Bijuu Gaara"],
 [8085, "Gaara's Clothes", "Stats", "Maximum HP, ATK and DEF +30%", "Maximum HP, ATK and DEF +100%", "Pre Shippuden Gaara"],
+// [8104, "Red Cloud", "Chakra", "Recover 10% Chakra after every action, ATK +50%, Status Effects and Genjutsu Reduced", "None", "None"],
+// [8105, "OP Red Cloud", "Chakra", "Recover 20% Chakra after every action, ATK +100%, Status Effects and Genjutsu Halved", "None  ", "All Akatsuki"],
+// [8124, "Orange Cloud", "Chakra", "Chakra Cost Reduced by 10%, Recover 10% chakra after every action, SPD +30%", "None", "None"],
+// [8125,]
+// [8175,]
+// [8185,]
+// [8195,]
+// [8225,]
+// [8235,]
+// [8245,]
+// [8255,]
+// [8275,]
+// [8285,]
+// [8295,]
+// [8305,]
+// [8315,]
+// [8325,]
+// [8335,]
+// [8345,]
+// [8355,]
+// [8365,]
+// [8375,]
+// [8384,]
+// [8385,]
+// [8395,]
+// [8405,]
+// [8415,]
+// [8425,]
+// [8435,]
+// [8445,]
+// [8455,]
+// [8465,]
+// [8475,]
+// [8515,]
+// [8525,]
+// [8535,]
+// [8545,]
+// [8555,]
+// [8565,]
+// [8575,]
 
 
 

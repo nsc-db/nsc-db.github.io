@@ -439,4 +439,8 @@ window.unit=[
  [696, "Kisame Hoshigaki, Chakra Eater", "Intellect", "Akatsuki", 6, 40, 34066, 36301, 26354, 274, 0, 0, 0, 0, 1],
  [697, "Shisui Uchiha, Reflection of the Future", "Technique", "Konoha", 6, 40, 32537, 26969, 20530, 249, 0, 0, 0, 99, 0], 
  [697, "Shisui Uchiha, Reflection of the Future", "Technique", "Konoha", 6, 40, 32537, 26969, 20530, 249, 0, 0, 0, 0, 1],
+ [698, "Deidara, Explosive Molding", "Body", "Akatsuki", 6, 40, 24527, 34100, 24325, 282, 17, 18, 169, 0, 0],
+ [698, "Deidara, Explosive Molding", "Body", "Akatsuki", 6, 40, 24527, 34100, 24325, 282, 0, 0, 0, 0, 1],
+ [699, "Sasori, Four Limbs Manipulation", "Body", "Akatsuki", 6, 40, 26593, 35437, 21523, 219, 16, 17, 163, 0, 0],
+ [699, "Sasori, Four Limbs Manipulation", "Body", "Akatsuki", 6, 40, 26593, 35437, 21523, 219, 0, 0, 0, 0, 1],
 ]
