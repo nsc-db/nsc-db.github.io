@@ -33,7 +33,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "101",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000011",
@@ -69,7 +70,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "101",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000021",
@@ -105,7 +107,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "201",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000031",
@@ -141,7 +144,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "201",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000041",
@@ -177,7 +181,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "301",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000051",
@@ -213,7 +218,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1702",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000061",
@@ -249,7 +255,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1301",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000071",
@@ -285,7 +292,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "401",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000081",
@@ -321,7 +329,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "701",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000091",
@@ -357,7 +366,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1001",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000101",
@@ -393,7 +403,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "2401",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000111",
@@ -429,7 +440,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1101",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000121",
@@ -465,7 +477,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1601",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000131",
@@ -501,7 +514,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "2301",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000141",
@@ -537,7 +551,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "10401",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000151",
@@ -573,7 +588,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "10101",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000161",
@@ -609,7 +625,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1801",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000171",
@@ -645,7 +662,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "2002",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000181",
@@ -681,7 +699,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "501",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000191",
@@ -753,7 +772,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "2201",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000211",
@@ -789,7 +809,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "2501",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000221",
@@ -825,7 +846,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1401",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000231",
@@ -861,7 +883,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1501",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000241",
@@ -897,7 +920,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "801",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000251",
@@ -933,7 +957,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "601",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000261",
@@ -969,7 +994,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "901",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000271",
@@ -1005,7 +1031,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1201",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000281",
@@ -1041,7 +1068,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "2601",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000291",
@@ -1077,7 +1105,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "10201",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000301",
@@ -1113,7 +1142,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "2701",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000311",
@@ -1149,7 +1179,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "2801",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000321",
@@ -1185,7 +1216,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "2901",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000331",
@@ -1221,7 +1253,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "3001",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000341",
@@ -1257,7 +1290,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "3101",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000351",
@@ -1293,7 +1327,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "3201",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000361",
@@ -1329,7 +1364,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "3301",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000371",
@@ -1365,7 +1401,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "3401",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000381",
@@ -1401,7 +1438,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "3501",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000391",
@@ -1437,7 +1475,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "3501",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000401",
@@ -1473,7 +1512,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "10501",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000411",
@@ -1509,7 +1549,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "10601",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000421",
@@ -1545,7 +1586,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "10701",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000431",
@@ -1581,7 +1623,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "10301",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000441",
@@ -1617,7 +1660,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "11601",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000451",
@@ -1653,7 +1697,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "12401",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000461",
@@ -1689,7 +1734,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "11701",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000471",
@@ -1725,7 +1771,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "11801",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000481",
@@ -1761,7 +1808,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "102",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000491",
@@ -1797,7 +1845,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "204",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000501",
@@ -1833,7 +1882,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "303",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000511",
@@ -1869,7 +1919,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "402",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000521",
@@ -1905,7 +1956,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "602",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000531",
@@ -1941,7 +1993,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1002",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000541",
@@ -1977,7 +2030,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "702",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000551",
@@ -2013,7 +2067,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1202",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000561",
@@ -2049,7 +2104,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "3701",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000571",
@@ -2085,7 +2141,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "3801",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000581",
@@ -2121,7 +2178,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "2101",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000591",
@@ -2157,7 +2215,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1302",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000601",
@@ -2193,7 +2252,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "11901",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000611",
@@ -2229,7 +2289,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "12001",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000621",
@@ -2265,7 +2326,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "12301",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000631",
@@ -2301,7 +2363,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "12501",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000641",
@@ -2337,7 +2400,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "13401",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000651",
@@ -2373,7 +2437,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "13601",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000661",
@@ -2409,7 +2474,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "20101",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000671",
@@ -2445,7 +2511,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "20201",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000721",
@@ -2481,7 +2548,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "101",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000731",
@@ -2517,7 +2585,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "201",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000741",
@@ -2553,7 +2622,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "302",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000751",
@@ -2589,7 +2659,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1702",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000761",
@@ -2625,7 +2696,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1301",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000771",
@@ -2661,7 +2733,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "401",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000781",
@@ -2697,7 +2770,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "701",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000791",
@@ -2733,7 +2807,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "2501",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000801",
@@ -2769,7 +2844,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1001",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000811",
@@ -2805,7 +2881,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "2401",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000821",
@@ -2841,7 +2918,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1401",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000831",
@@ -2877,7 +2955,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1101",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000841",
@@ -2913,7 +2992,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1601",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000861",
@@ -2949,7 +3029,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "201",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000871",
@@ -2985,7 +3066,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "10201",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000881",
@@ -3021,7 +3103,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "401",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000891",
@@ -3057,7 +3140,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "10101",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000901",
@@ -3093,7 +3177,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1001",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000911",
@@ -3129,7 +3214,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "101",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000921",
@@ -3165,7 +3251,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "2301",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000931",
@@ -3201,7 +3288,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "201",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000941",
@@ -3237,7 +3325,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "10301",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000951",
@@ -3273,7 +3362,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "102",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000961",
@@ -3309,7 +3399,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "102",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000971",
@@ -3345,7 +3436,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "204",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000981",
@@ -3381,7 +3473,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "303",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20000991",
@@ -3417,7 +3510,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "602",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001001",
@@ -3453,7 +3547,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1202",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001011",
@@ -3489,7 +3584,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1702",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001021",
@@ -3525,7 +3621,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1601",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001031",
@@ -3561,7 +3658,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "11601",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001041",
@@ -3597,7 +3695,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "12101",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001051",
@@ -3633,7 +3732,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "2301",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001061",
@@ -3669,7 +3769,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "10301",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001071",
@@ -3705,7 +3806,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "2401",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001081",
@@ -3741,7 +3843,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1002",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001091",
@@ -3777,7 +3880,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "702",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001101",
@@ -3813,7 +3917,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "4301",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001111",
@@ -3849,7 +3954,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "3302",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001121",
@@ -3885,7 +3991,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "20401",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001131",
@@ -3921,7 +4028,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "702",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001141",
@@ -3957,7 +4065,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "13201",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001151",
@@ -3993,7 +4102,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "13301",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001161",
@@ -4029,7 +4139,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "12502",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001171",
@@ -4065,7 +4176,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "10401",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001181",
@@ -4101,7 +4213,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1801",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001191",
@@ -4137,7 +4250,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "3302",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001201",
@@ -4173,7 +4287,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "2501",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001211",
@@ -4209,7 +4324,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "12001",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001221",
@@ -4245,7 +4361,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1302",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001231",
@@ -4281,7 +4398,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "2101",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001241",
@@ -4317,7 +4435,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "10101",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001251",
@@ -4353,7 +4472,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "10201",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001261",
@@ -4389,7 +4509,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "801",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001271",
@@ -4425,7 +4546,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "901",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001281",
@@ -4461,7 +4583,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "401",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001291",
@@ -4497,7 +4620,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "501",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001301",
@@ -4533,7 +4657,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "11101",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001311",
@@ -4569,7 +4694,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "11201",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001321",
@@ -4605,7 +4731,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "11301",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001331",
@@ -4641,7 +4768,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "11401",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001341",
@@ -4677,7 +4805,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "11501",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001351",
@@ -4713,7 +4842,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "201",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001361",
@@ -4749,7 +4879,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "204",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001371",
@@ -4785,7 +4916,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1403",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001381",
@@ -4821,7 +4953,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "2302",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001391",
@@ -4857,7 +4990,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "303",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001401",
@@ -4893,7 +5027,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "3101",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001411",
@@ -4929,7 +5064,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "13401",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001421",
@@ -4965,7 +5101,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1702",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001431",
@@ -5001,7 +5138,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "204",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001441",
@@ -5037,7 +5175,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "11601",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001451",
@@ -5073,7 +5212,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "20101",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001461",
@@ -5109,7 +5249,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "20201",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001471",
@@ -5145,7 +5286,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "11601",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001481",
@@ -5181,7 +5323,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "50701",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001491",
@@ -5217,7 +5360,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "50801",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001501",
@@ -5253,7 +5397,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "103",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001511",
@@ -5289,7 +5434,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "203",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001512",
@@ -5325,7 +5471,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1702",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001513",
@@ -5361,7 +5508,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "2501",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001514",
@@ -5397,7 +5545,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1603",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001515",
@@ -5433,7 +5582,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1704",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001516",
@@ -5469,7 +5619,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1101",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001517",
@@ -5505,7 +5656,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "3801",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001518",
@@ -5541,7 +5693,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "11801",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001519",
@@ -5577,7 +5730,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "102",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001520",
@@ -5613,7 +5767,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "2401",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001521",
@@ -5649,7 +5804,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "3701",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001522",
@@ -5685,7 +5841,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "602",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001523",
@@ -5721,7 +5878,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "11601",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001524",
@@ -5757,7 +5915,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "2201",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001525",
@@ -5793,7 +5952,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1502",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001526",
@@ -5829,7 +5989,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "11701",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001527",
@@ -5865,7 +6026,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1302",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001528",
@@ -5901,7 +6063,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "20501",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001529",
@@ -5937,7 +6100,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "20401",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001530",
@@ -5973,7 +6137,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1403",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001531",
@@ -6009,7 +6174,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1503",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001532",
@@ -6045,7 +6211,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "401",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001533",
@@ -6081,7 +6248,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "3302",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001534",
@@ -6117,7 +6285,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "12101",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001535",
@@ -6189,7 +6358,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "2101",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001537",
@@ -6225,7 +6395,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "4301",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001538",
@@ -6261,7 +6432,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "50901",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001539",
@@ -6297,7 +6469,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1701",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001540",
@@ -6333,7 +6506,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "51001",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001541",
@@ -6369,7 +6543,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "101",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001542",
@@ -6405,7 +6580,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1603",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001543",
@@ -6441,7 +6617,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1103",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001544",
@@ -6477,7 +6654,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1002",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001545",
@@ -6513,7 +6691,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1202",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001546",
@@ -6549,7 +6728,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "101",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001547",
@@ -6585,7 +6765,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "2401",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001548",
@@ -6621,7 +6802,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1202",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001549",
@@ -6657,7 +6839,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "102",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001550",
@@ -6693,7 +6876,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "10401",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001551",
@@ -6729,7 +6913,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "20601",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001552",
@@ -6765,7 +6950,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "20101",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001553",
@@ -6801,7 +6987,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "12101",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001554",
@@ -6837,7 +7024,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "303",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001555",
@@ -6873,7 +7061,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "12001",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001556",
@@ -6909,7 +7098,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "20601",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001557",
@@ -6945,7 +7135,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "204",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001558",
@@ -6981,7 +7172,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "2101",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001559",
@@ -7017,7 +7209,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1902",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001560",
@@ -7053,7 +7246,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "204",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001561",
@@ -7089,7 +7283,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "20201",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001562",
@@ -7125,7 +7320,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "20301",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001563",
@@ -7161,7 +7357,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "302",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001564",
@@ -7197,7 +7394,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "12301",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001565",
@@ -7233,7 +7431,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "13501",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001566",
@@ -7269,7 +7468,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "13601",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001567",
@@ -7305,7 +7505,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1702",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001568",
@@ -7341,7 +7542,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "11801",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001569",
@@ -7377,7 +7579,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "12501",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001570",
@@ -7413,7 +7616,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "11601",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001571",
@@ -7449,7 +7653,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "11701",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001572",
@@ -7485,7 +7690,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "204",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001573",
@@ -7521,7 +7727,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "102",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001574",
@@ -7557,7 +7764,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "10301",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001575",
@@ -7593,7 +7801,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1801",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001576",
@@ -7629,7 +7838,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "402",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001577",
@@ -7665,7 +7875,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "2801",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001578",
@@ -7701,7 +7912,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "2501",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001579",
@@ -7737,7 +7949,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "2201",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001580",
@@ -7773,7 +7986,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "3901",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001581",
@@ -7809,7 +8023,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "51101",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001582",
@@ -7845,7 +8060,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "4001",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001583",
@@ -7881,7 +8097,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "11602",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001584",
@@ -7917,7 +8134,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "4101",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001585",
@@ -7953,7 +8171,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1703",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001586",
@@ -7989,7 +8208,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "4201",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001587",
@@ -8025,7 +8245,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "2102",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001588",
@@ -8061,7 +8282,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "51001",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001589",
@@ -8097,7 +8319,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1303",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001590",
@@ -8133,7 +8356,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "101",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001591",
@@ -8169,7 +8393,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "13101",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001592",
@@ -8205,7 +8430,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "2303",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001593",
@@ -8241,7 +8467,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "10301",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001594",
@@ -8277,7 +8504,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "2401",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001595",
@@ -8313,7 +8541,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "101",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001596",
@@ -8349,7 +8578,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "2201",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001597",
@@ -8385,7 +8615,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "102",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001598",
@@ -8421,7 +8652,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "20701",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001599",
@@ -8457,7 +8689,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "20301",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001600",
@@ -8493,7 +8726,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "102",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001601",
@@ -8529,7 +8763,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "2301",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001602",
@@ -8565,7 +8800,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "702",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001603",
@@ -8601,7 +8837,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "2401",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001604",
@@ -8637,7 +8874,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "11101",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001605",
@@ -8673,7 +8911,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "3101",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001606",
@@ -8709,7 +8948,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "2101",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001607",
@@ -8745,7 +8985,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1302",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001608",
@@ -8781,7 +9022,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1602",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001609",
@@ -8817,7 +9059,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "204",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001610",
@@ -8853,7 +9096,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "13901",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001611",
@@ -8889,7 +9133,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "502",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001612",
@@ -8925,7 +9170,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1802",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001613",
@@ -8961,7 +9207,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1704",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001614",
@@ -8997,7 +9244,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "2001",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001615",
@@ -9033,7 +9281,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1901",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001616",
@@ -9069,7 +9318,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "2001",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001617",
@@ -9105,7 +9355,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "11401",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001618",
@@ -9141,7 +9392,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1103",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001619",
@@ -9177,7 +9429,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "303",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001620",
@@ -9213,7 +9466,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "702",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001621",
@@ -9249,7 +9503,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "602",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001622",
@@ -9285,7 +9540,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "2401",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001623",
@@ -9321,7 +9577,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "702",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001624",
@@ -9357,7 +9614,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1002",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001625",
@@ -9393,7 +9651,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "11101",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001626",
@@ -9429,7 +9688,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1102",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001627",
@@ -9465,7 +9725,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "702",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001628",
@@ -9501,7 +9762,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "902",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001629",
@@ -9537,7 +9799,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "802",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001630",
@@ -9573,7 +9836,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "10403",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001631",
@@ -9645,7 +9909,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "2103",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001633",
@@ -9681,7 +9946,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "4301",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001634",
@@ -9717,7 +9983,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "20201",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001635",
@@ -9753,7 +10020,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "20101",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001636",
@@ -9789,7 +10057,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "12001",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001637",
@@ -9825,7 +10094,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "303",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001638",
@@ -9861,7 +10131,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "602",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001639",
@@ -10005,7 +10276,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "204",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001643",
@@ -10041,7 +10313,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1403",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001644",
@@ -10077,7 +10350,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1302",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001645",
@@ -10113,7 +10387,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1503",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001646",
@@ -10149,7 +10424,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "20401",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001647",
@@ -10185,7 +10461,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "20901",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001648",
@@ -10221,7 +10498,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "20801",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001649",
@@ -10257,7 +10535,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "303",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001650",
@@ -10293,7 +10572,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "303",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001651",
@@ -10329,7 +10609,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "102",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001652",
@@ -10365,7 +10646,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1704",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001653",
@@ -10401,7 +10683,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "50902",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001654",
@@ -10437,7 +10720,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "14001",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001655",
@@ -10473,7 +10757,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1701",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001656",
@@ -10509,7 +10794,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "2102",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001657",
@@ -10545,7 +10831,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "50901",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001658",
@@ -10581,7 +10868,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "51001",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001659",
@@ -10617,7 +10905,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "50901",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001660",
@@ -10653,7 +10942,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "201",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001661",
@@ -10689,7 +10979,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "2801",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001662",
@@ -10725,7 +11016,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "10301",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001663",
@@ -10761,7 +11053,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "10801",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001664",
@@ -10797,7 +11090,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "10901",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001665",
@@ -10833,7 +11127,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "11001",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001666",
@@ -10869,7 +11164,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "10403",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001667",
@@ -10905,7 +11201,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "204",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001668",
@@ -10941,7 +11238,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "11603",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001669",
@@ -10977,7 +11275,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "11603",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001670",
@@ -11013,7 +11312,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "204",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001671",
@@ -11085,7 +11385,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1402",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001673",
@@ -11121,7 +11422,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "401",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001674",
@@ -11157,7 +11459,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "101",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001675",
@@ -11193,7 +11496,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "501",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001676",
@@ -11229,7 +11533,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "102",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001677",
@@ -11265,7 +11570,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "204",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001678",
@@ -11301,7 +11607,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "303",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001679",
@@ -11337,7 +11644,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1704",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001680",
@@ -11373,7 +11681,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "13701",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001681",
@@ -11409,7 +11718,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "102",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001682",
@@ -11445,7 +11755,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "2402",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001683",
@@ -11481,7 +11792,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "10302",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001684",
@@ -11517,7 +11829,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "2304",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001685",
@@ -11553,7 +11866,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "602",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001686",
@@ -11589,7 +11903,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "402",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001687",
@@ -11625,7 +11940,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "502",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001688",
@@ -11661,7 +11977,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "12401",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001689",
@@ -11697,7 +12014,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1702",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001690",
@@ -11733,7 +12051,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "101",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001691",
@@ -11769,7 +12088,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "201",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001692",
@@ -11805,7 +12125,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "10101",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001693",
@@ -11841,7 +12162,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "10201",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001694",
@@ -11877,7 +12199,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1302",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001695",
@@ -11913,7 +12236,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "304",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001696",
@@ -11949,7 +12273,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "4302",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001697",
@@ -11985,7 +12310,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "703",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001698",
@@ -12021,7 +12347,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1404",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001699",
@@ -12057,7 +12384,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1902",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001700",
@@ -12093,7 +12421,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "2002",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001701",
@@ -12129,7 +12458,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "2202",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001702",
@@ -12165,7 +12495,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "50903",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001703",
@@ -12201,7 +12532,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "2401",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001704",
@@ -12273,7 +12605,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "20201",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001706",
@@ -12309,7 +12642,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "20101",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001707",
@@ -12345,7 +12679,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "20701",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001708",
@@ -12381,7 +12716,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "11701",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001709",
@@ -12417,7 +12753,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "102",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001710",
@@ -12453,7 +12790,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "3202",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001711",
@@ -12489,7 +12827,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "2502",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001712",
@@ -12525,7 +12864,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "11801",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001713",
@@ -12561,7 +12901,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1603",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001714",
@@ -12597,7 +12938,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "20501",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001715",
@@ -12633,7 +12975,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "21001",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001716",
@@ -12669,7 +13012,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "21001",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001717",
@@ -12705,7 +13049,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "50701",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001718",
@@ -12741,7 +13086,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "103",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001719",
@@ -12813,7 +13159,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "20201",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001721",
@@ -12849,7 +13196,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "20101",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001722",
@@ -12885,7 +13233,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "204",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001723",
@@ -12921,7 +13270,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "204",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001724",
@@ -12957,7 +13307,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "13601",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001725",
@@ -12993,7 +13344,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "13401",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001726",
@@ -13029,7 +13381,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "13501",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001727",
@@ -13065,7 +13418,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "10301",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001728",
@@ -13101,7 +13455,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "204",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001729",
@@ -13137,7 +13492,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "13601",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001730",
@@ -13173,7 +13529,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "13401",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001731",
@@ -13209,7 +13566,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "13501",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001732",
@@ -13245,7 +13603,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "12001",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001733",
@@ -13281,7 +13640,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "206",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001734",
@@ -13389,7 +13749,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "13701",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001737",
@@ -13425,7 +13786,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "50903",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001738",
@@ -13461,7 +13823,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1302",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001739",
@@ -13497,7 +13860,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "204",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001740",
@@ -13533,7 +13897,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "303",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001741",
@@ -13569,7 +13934,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "702",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001742",
@@ -13605,7 +13971,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "602",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001743",
@@ -13641,7 +14008,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1202",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001744",
@@ -13677,7 +14045,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1103",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001745",
@@ -13713,7 +14082,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "14101",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001746",
@@ -13749,7 +14119,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "2403",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001747",
@@ -13785,7 +14156,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "2305",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001748",
@@ -13821,7 +14193,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "10303",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001749",
@@ -13857,7 +14230,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1403",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001750",
@@ -13893,7 +14267,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "50902",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001751",
@@ -13929,7 +14304,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "21101",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001752",
@@ -13965,7 +14341,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "13302",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001753",
@@ -14001,7 +14378,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "13202",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001754",
@@ -14037,7 +14415,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "4301",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001755",
@@ -14073,7 +14452,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "101",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001756",
@@ -14109,7 +14489,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "201",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001757",
@@ -14145,7 +14526,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "12101",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001758",
@@ -14181,7 +14563,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "102",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001759",
@@ -14217,7 +14600,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "204",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001760",
@@ -14253,7 +14637,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "10402",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001761",
@@ -14289,7 +14674,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "11603",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001762",
@@ -14325,7 +14711,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "13303",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001763",
@@ -14361,7 +14748,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "102",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001764",
@@ -14397,7 +14785,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "204",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001765",
@@ -14433,7 +14822,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "104",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001766",
@@ -14469,7 +14859,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "207",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001767",
@@ -14505,7 +14896,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "101",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001768",
@@ -14541,7 +14933,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "101",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001769",
@@ -14577,7 +14970,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "201",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001770",
@@ -14613,7 +15007,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "4401",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001771",
@@ -14649,7 +15044,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "301",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001772",
@@ -14685,7 +15081,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "3801",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001773",
@@ -14721,7 +15118,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "3701",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001774",
@@ -14757,7 +15155,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1702",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001775",
@@ -14793,7 +15192,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "13302",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001776",
@@ -14901,7 +15301,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1202",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001779",
@@ -14937,7 +15338,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "10403",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001780",
@@ -14973,7 +15375,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "12301",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001781",
@@ -15009,7 +15412,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "102",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001782",
@@ -15045,7 +15449,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "102",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001783",
@@ -15081,7 +15486,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "4301",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001784",
@@ -15117,7 +15523,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "2101",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001785",
@@ -15153,7 +15560,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "2101",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001786",
@@ -15189,7 +15597,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1901",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001787",
@@ -15225,7 +15634,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "2001",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001788",
@@ -15261,7 +15671,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "51401",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001789",
@@ -15297,7 +15708,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1302",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001790",
@@ -15333,7 +15745,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1403",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001791",
@@ -15369,7 +15782,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "21201",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001792",
@@ -15405,7 +15819,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "21301",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001793",
@@ -15441,7 +15856,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "11101",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001794",
@@ -15477,7 +15893,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "12501",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001795",
@@ -15513,7 +15930,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "11801",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001796",
@@ -15549,7 +15967,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "2401",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001797",
@@ -15585,7 +16004,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "20901",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001798",
@@ -15621,7 +16041,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "102",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001799",
@@ -15657,7 +16078,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "204",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001800",
@@ -15693,7 +16115,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "303",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001801",
@@ -15729,7 +16152,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "702",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001802",
@@ -15765,7 +16189,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "2401",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001803",
@@ -15801,7 +16226,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "12001",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001804",
@@ -15837,7 +16263,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "3101",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001805",
@@ -15873,7 +16300,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "3701",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001806",
@@ -15909,7 +16337,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "101",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001807",
@@ -15945,7 +16374,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "204",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001808",
@@ -15981,7 +16411,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "51501",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001809",
@@ -16017,7 +16448,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "3202",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001810",
@@ -16053,7 +16485,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "11602",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001811",
@@ -16089,7 +16522,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "4101",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001812",
@@ -16125,7 +16559,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "4501",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001813",
@@ -16161,7 +16596,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "303",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001814",
@@ -16197,7 +16633,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "13702",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001815",
@@ -16233,7 +16670,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1901",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001816",
@@ -16269,7 +16707,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "14201",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001817",
@@ -16305,7 +16744,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "702",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001818",
@@ -16341,7 +16781,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1704",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001819",
@@ -16377,7 +16818,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1603",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001820",
@@ -16413,7 +16855,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "4601",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001821",
@@ -16449,7 +16892,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1002",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001822",
@@ -16485,7 +16929,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "3901",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001823",
@@ -16521,7 +16966,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "102",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001824",
@@ -16557,7 +17003,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "204",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001825",
@@ -16593,7 +17040,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "303",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001826",
@@ -16629,7 +17077,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "902",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001827",
@@ -16665,7 +17114,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1002",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001828",
@@ -16701,7 +17151,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "2401",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001829",
@@ -16737,7 +17188,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "2101",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001830",
@@ -16773,7 +17225,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "2103",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001831",
@@ -16845,7 +17298,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "2201",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001833",
@@ -16881,7 +17335,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "10403",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001834",
@@ -16917,7 +17372,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "1702",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001836",
@@ -16953,7 +17409,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "303",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001837",
@@ -16989,7 +17446,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "602",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001838",
@@ -17025,7 +17483,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "702",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001839",
@@ -17097,7 +17556,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "4701",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001841",
@@ -17133,7 +17593,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "14002",
           "defaultUnlockBit": "0",
-          "fusionRuleId": null
+          "fusionRuleId": null,
+          "engName": "",
         },
         {
           "cardId": "20001842",

@@ -10,7 +10,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "2",
@@ -23,7 +25,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "3",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "3",
@@ -36,7 +40,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "4",
@@ -49,7 +55,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "5",
@@ -62,7 +70,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "3",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "6",
@@ -75,7 +85,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "7",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "7",
@@ -88,7 +100,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "8",
@@ -101,7 +115,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "7",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "9",
@@ -114,7 +130,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "10",
@@ -127,7 +145,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "11",
@@ -140,7 +160,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "7",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "12",
@@ -153,7 +175,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "3",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "13",
@@ -166,7 +190,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "14",
@@ -179,7 +205,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "15",
@@ -192,7 +220,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "16",
@@ -205,7 +235,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "17",
@@ -218,7 +250,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "7",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "18",
@@ -231,7 +265,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "19",
@@ -244,7 +280,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "3",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "20",
@@ -257,7 +295,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "21",
@@ -270,7 +310,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "22",
@@ -283,7 +325,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "23",
@@ -296,7 +340,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "24",
@@ -309,7 +355,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "25",
@@ -322,7 +370,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "26",
@@ -335,7 +385,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "27",
@@ -348,7 +400,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "28",
@@ -361,7 +415,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "29",
@@ -374,7 +430,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "30",
@@ -387,7 +445,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "31",
@@ -400,7 +460,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "32",
@@ -413,7 +475,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "3",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "33",
@@ -426,7 +490,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "34",
@@ -439,7 +505,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "7",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "35",
@@ -452,7 +520,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "7",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "36",
@@ -465,7 +535,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "37",
@@ -478,7 +550,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "38",
@@ -491,7 +565,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "39",
@@ -504,7 +580,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "40",
@@ -517,7 +595,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "41",
@@ -530,7 +610,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "42",
@@ -543,7 +625,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "43",
@@ -556,7 +640,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "44",
@@ -569,7 +655,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "45",
@@ -582,7 +670,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "46",
@@ -595,7 +685,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "47",
@@ -608,7 +700,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "48",
@@ -621,7 +715,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "8",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "49",
@@ -634,7 +730,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "50",
@@ -647,7 +745,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "51",
@@ -660,7 +760,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "7",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "52",
@@ -673,7 +775,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "53",
@@ -686,7 +790,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "54",
@@ -699,7 +805,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "7",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "55",
@@ -712,7 +820,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "56",
@@ -725,7 +835,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "57",
@@ -738,7 +850,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "58",
@@ -751,7 +865,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "59",
@@ -764,7 +880,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "60",
@@ -777,7 +895,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "3",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "61",
@@ -790,7 +910,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "8",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "62",
@@ -803,7 +925,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "63",
@@ -816,7 +940,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "3",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "64",
@@ -829,7 +955,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "65",
@@ -842,7 +970,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "66",
@@ -855,7 +985,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "7",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "67",
@@ -868,7 +1000,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "3",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "68",
@@ -881,7 +1015,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "69",
@@ -894,7 +1030,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "3",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "70",
@@ -907,7 +1045,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "71",
@@ -920,7 +1060,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "72",
@@ -933,7 +1075,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "73",
@@ -946,7 +1090,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "7",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "74",
@@ -959,7 +1105,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "75",
@@ -972,7 +1120,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "76",
@@ -985,7 +1135,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "7",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "77",
@@ -998,7 +1150,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "78",
@@ -1011,7 +1165,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "79",
@@ -1024,7 +1180,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "80",
@@ -1037,7 +1195,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "7",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "81",
@@ -1050,7 +1210,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "82",
@@ -1063,7 +1225,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "83",
@@ -1076,7 +1240,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "7",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "84",
@@ -1089,7 +1255,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "85",
@@ -1102,7 +1270,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "86",
@@ -1115,7 +1285,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "87",
@@ -1128,7 +1300,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "3",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "88",
@@ -1141,7 +1315,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "89",
@@ -1154,7 +1330,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "90",
@@ -1167,7 +1345,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "91",
@@ -1180,7 +1360,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "3",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "92",
@@ -1193,7 +1375,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "93",
@@ -1206,7 +1390,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "94",
@@ -1219,7 +1405,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "7",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "95",
@@ -1232,7 +1420,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "96",
@@ -1245,7 +1435,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "97",
@@ -1258,7 +1450,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "3",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "98",
@@ -1271,7 +1465,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "99",
@@ -1284,7 +1480,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "100",
@@ -1297,7 +1495,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "101",
@@ -1310,7 +1510,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "102",
@@ -1323,7 +1525,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "7",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "103",
@@ -1336,7 +1540,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "104",
@@ -1349,7 +1555,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "105",
@@ -1362,7 +1570,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "3",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "106",
@@ -1375,7 +1585,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "107",
@@ -1388,7 +1600,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "108",
@@ -1401,7 +1615,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "7",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "109",
@@ -1414,7 +1630,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "7",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "110",
@@ -1427,7 +1645,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "7",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "111",
@@ -1440,7 +1660,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "7",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "112",
@@ -1453,7 +1675,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "113",
@@ -1466,7 +1690,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "114",
@@ -1479,7 +1705,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "7",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "115",
@@ -1492,7 +1720,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "116",
@@ -1505,7 +1735,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "117",
@@ -1518,7 +1750,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "118",
@@ -1531,7 +1765,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "119",
@@ -1544,7 +1780,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "120",
@@ -1557,7 +1795,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "121",
@@ -1570,7 +1810,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "3",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "122",
@@ -1583,7 +1825,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "123",
@@ -1596,7 +1840,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "124",
@@ -1609,7 +1855,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "125",
@@ -1622,7 +1870,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "126",
@@ -1635,7 +1885,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "4",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "127",
@@ -1648,7 +1900,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "4",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "128",
@@ -1661,7 +1915,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "3",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "129",
@@ -1674,7 +1930,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "130",
@@ -1687,7 +1945,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "4",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "131",
@@ -1700,7 +1960,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "3",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "132",
@@ -1713,7 +1975,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "133",
@@ -1726,7 +1990,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "134",
@@ -1739,7 +2005,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "135",
@@ -1752,7 +2020,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "136",
@@ -1765,7 +2035,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "3",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "137",
@@ -1778,7 +2050,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "138",
@@ -1791,7 +2065,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "139",
@@ -1804,7 +2080,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "140",
@@ -1817,7 +2095,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "141",
@@ -1830,7 +2110,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "142",
@@ -1843,7 +2125,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "143",
@@ -1856,7 +2140,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "144",
@@ -1869,7 +2155,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "3",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "145",
@@ -1882,7 +2170,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "146",
@@ -1895,7 +2185,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "147",
@@ -1908,7 +2200,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "148",
@@ -1921,7 +2215,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "149",
@@ -1934,7 +2230,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "150",
@@ -1947,7 +2245,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "7",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "151",
@@ -1960,7 +2260,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "152",
@@ -1973,7 +2275,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "3",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "153",
@@ -1986,7 +2290,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "154",
@@ -1999,7 +2305,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "8",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "155",
@@ -2012,7 +2320,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "156",
@@ -2025,7 +2335,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "157",
@@ -2038,7 +2350,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "158",
@@ -2051,7 +2365,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "3",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "159",
@@ -2064,7 +2380,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "160",
@@ -2077,7 +2395,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "161",
@@ -2090,7 +2410,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "1",
-          "target2Param": "3"
+          "target2Param": "3",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "162",
@@ -2103,7 +2425,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "8",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "163",
@@ -2116,7 +2440,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "2",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "164",
@@ -2129,7 +2455,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "165",
@@ -2142,7 +2470,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "3",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "166",
@@ -2155,7 +2485,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "2",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "167",
@@ -2168,7 +2500,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "168",
@@ -2181,7 +2515,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "169",
@@ -2194,7 +2530,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "170",
@@ -2207,7 +2545,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "171",
@@ -2220,7 +2560,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "172",
@@ -2233,7 +2575,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "173",
@@ -2246,7 +2590,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "174",
@@ -2259,7 +2605,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "175",
@@ -2272,7 +2620,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "176",
@@ -2285,7 +2635,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "177",
@@ -2298,7 +2650,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "3",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "178",
@@ -2311,7 +2665,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "7",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "179",
@@ -2324,7 +2680,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "180",
@@ -2337,7 +2695,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "181",
@@ -2350,7 +2710,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "182",
@@ -2363,7 +2725,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "3",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "183",
@@ -2376,7 +2740,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "4",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "184",
@@ -2389,7 +2755,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "2",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "185",
@@ -2402,7 +2770,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "186",
@@ -2415,7 +2785,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "8",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "187",
@@ -2428,7 +2800,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "3",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "188",
@@ -2441,7 +2815,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "189",
@@ -2454,7 +2830,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "190",
@@ -2467,7 +2845,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "191",
@@ -2480,7 +2860,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "3",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "192",
@@ -2493,7 +2875,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "7",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "193",
@@ -2506,7 +2890,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "10",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "194",
@@ -2519,7 +2905,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "195",
@@ -2532,7 +2920,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "196",
@@ -2545,7 +2935,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "197",
@@ -2558,7 +2950,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "8",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "198",
@@ -2571,7 +2965,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "10",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "199",
@@ -2584,7 +2980,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "3",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "200",
@@ -2597,7 +2995,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "201",
@@ -2610,7 +3010,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "8",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "202",
@@ -2623,7 +3025,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "8",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "203",
@@ -2636,7 +3040,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "204",
@@ -2649,7 +3055,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "7",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "205",
@@ -2662,7 +3070,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "3",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "206",
@@ -2675,7 +3085,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "207",
@@ -2688,7 +3100,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "4",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "208",
@@ -2701,7 +3115,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "209",
@@ -2714,7 +3130,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "210",
@@ -2727,7 +3145,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "211",
@@ -2740,7 +3160,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "212",
@@ -2753,7 +3175,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "213",
@@ -2766,7 +3190,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "7",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "214",
@@ -2779,7 +3205,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "215",
@@ -2792,7 +3220,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "216",
@@ -2805,7 +3235,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "217",
@@ -2818,7 +3250,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "7",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "218",
@@ -2831,7 +3265,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "219",
@@ -2844,7 +3280,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "220",
@@ -2857,7 +3295,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "221",
@@ -2870,7 +3310,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "222",
@@ -2883,7 +3325,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "223",
@@ -2896,7 +3340,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "224",
@@ -2909,7 +3355,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "225",
@@ -2922,7 +3370,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "226",
@@ -2935,7 +3385,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "227",
@@ -2948,7 +3400,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "228",
@@ -2961,7 +3415,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "229",
@@ -2974,7 +3430,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "4",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "230",
@@ -2987,7 +3445,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "231",
@@ -3000,7 +3460,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "7",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "232",
@@ -3013,7 +3475,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "2",
-          "target2Param": "1"
+          "target2Param": "1",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "233",
@@ -3026,7 +3490,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "234",
@@ -3039,7 +3505,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "235",
@@ -3052,7 +3520,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "236",
@@ -3065,7 +3535,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "4",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "237",
@@ -3078,7 +3550,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "238",
@@ -3091,7 +3565,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "239",
@@ -3104,7 +3580,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "240",
@@ -3117,7 +3595,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "241",
@@ -3130,7 +3610,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "242",
@@ -3143,7 +3625,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "243",
@@ -3156,7 +3640,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "244",
@@ -3169,7 +3655,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "245",
@@ -3182,7 +3670,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "246",
@@ -3195,7 +3685,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "8",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "247",
@@ -3208,7 +3700,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "248",
@@ -3221,7 +3715,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "1",
           "target2Category": "1",
-          "target2Param": "3"
+          "target2Param": "3",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "249",
@@ -3234,7 +3730,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "250",
@@ -3247,7 +3745,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "251",
@@ -3260,7 +3760,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "252",
@@ -3273,7 +3775,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "253",
@@ -3286,7 +3790,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "4",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "254",
@@ -3299,7 +3805,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "255",
@@ -3312,7 +3820,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "256",
@@ -3325,7 +3835,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "3",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "257",
@@ -3338,7 +3850,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "258",
@@ -3351,7 +3865,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "3",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "259",
@@ -3364,7 +3880,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "260",
@@ -3377,7 +3895,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "261",
@@ -3390,7 +3910,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "4",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "262",
@@ -3403,7 +3925,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "263",
@@ -3416,7 +3940,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "7",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "264",
@@ -3429,7 +3955,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "265",
@@ -3442,7 +3970,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "266",
@@ -3455,7 +3985,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "4",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "267",
@@ -3468,7 +4000,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "268",
@@ -3481,7 +4015,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "269",
@@ -3494,7 +4030,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "270",
@@ -3507,7 +4045,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "271",
@@ -3520,7 +4060,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "272",
@@ -3533,7 +4075,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "3",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "273",
@@ -3546,7 +4090,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "274",
@@ -3559,7 +4105,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "7",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "275",
@@ -3572,7 +4120,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "276",
@@ -3585,7 +4135,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "277",
@@ -3598,7 +4150,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "278",
@@ -3611,7 +4165,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "10",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "279",
@@ -3624,7 +4180,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "2",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "280",
@@ -3637,7 +4195,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "7",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "281",
@@ -3650,7 +4210,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "282",
@@ -3663,7 +4225,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "3",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "283",
@@ -3676,7 +4240,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "284",
@@ -3689,7 +4255,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "3",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "285",
@@ -3702,7 +4270,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "286",
@@ -3715,7 +4285,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "287",
@@ -3728,7 +4300,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "288",
@@ -3741,7 +4315,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "289",
@@ -3754,7 +4330,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "290",
@@ -3767,7 +4345,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "291",
@@ -3780,7 +4360,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "292",
@@ -3793,7 +4375,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "293",
@@ -3806,7 +4390,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "294",
@@ -3819,7 +4405,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "7",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "295",
@@ -3832,7 +4420,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "296",
@@ -3845,7 +4435,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "297",
@@ -3858,7 +4450,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "298",
@@ -3871,7 +4465,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "299",
@@ -3884,7 +4480,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "4",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "300",
@@ -3897,7 +4495,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "4",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "301",
@@ -3910,7 +4510,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "4",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "302",
@@ -3923,7 +4525,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "3",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "303",
@@ -3936,7 +4540,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "304",
@@ -3949,7 +4555,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "305",
@@ -3962,7 +4570,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "306",
@@ -3975,7 +4585,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "307",
@@ -3988,7 +4600,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "4",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "308",
@@ -4001,7 +4615,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "7",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "309",
@@ -4014,7 +4630,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "2",
-          "target2Param": "2"
+          "target2Param": "2",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "310",
@@ -4027,7 +4645,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "7",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "311",
@@ -4040,7 +4660,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "3",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "312",
@@ -4053,7 +4675,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "313",
@@ -4066,7 +4690,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "314",
@@ -4079,7 +4705,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "315",
@@ -4092,7 +4720,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "316",
@@ -4105,7 +4735,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "317",
@@ -4118,7 +4750,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "318",
@@ -4131,7 +4765,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "319",
@@ -4144,7 +4780,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "320",
@@ -4157,7 +4795,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "321",
@@ -4170,7 +4810,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "322",
@@ -4183,7 +4825,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "323",
@@ -4196,7 +4840,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "324",
@@ -4209,7 +4855,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "8",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "325",
@@ -4222,7 +4870,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "326",
@@ -4235,7 +4885,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "327",
@@ -4248,7 +4900,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "3",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "328",
@@ -4261,7 +4915,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "3",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "329",
@@ -4274,7 +4930,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "330",
@@ -4287,7 +4945,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "7",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "331",
@@ -4300,7 +4960,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "332",
@@ -4313,7 +4975,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "333",
@@ -4326,7 +4990,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "334",
@@ -4339,7 +5005,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "335",
@@ -4352,7 +5020,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "336",
@@ -4365,7 +5035,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "337",
@@ -4378,7 +5050,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "338",
@@ -4391,7 +5065,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "339",
@@ -4404,7 +5080,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "340",
@@ -4417,7 +5095,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "8",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "341",
@@ -4430,7 +5110,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "342",
@@ -4443,7 +5125,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "343",
@@ -4456,7 +5140,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "344",
@@ -4469,7 +5155,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "345",
@@ -4482,7 +5170,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "346",
@@ -4495,7 +5185,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "347",
@@ -4508,7 +5200,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "348",
@@ -4521,7 +5215,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "8",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "349",
@@ -4534,7 +5230,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "350",
@@ -4547,7 +5245,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "5",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "351",
@@ -4560,7 +5260,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "352",
@@ -4573,7 +5275,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "353",
@@ -4586,7 +5290,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "354",
@@ -4599,7 +5305,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "355",
@@ -4612,7 +5320,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "356",
@@ -4625,7 +5335,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "10",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "357",
@@ -4638,7 +5350,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "358",
@@ -4651,7 +5365,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "359",
@@ -4664,7 +5380,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "10",
           "target2Category": "2",
-          "target2Param": "9"
+          "target2Param": "9",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "360",
@@ -4677,7 +5395,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "361",
@@ -4690,7 +5410,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "10",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "362",
@@ -4703,7 +5425,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "363",
@@ -4716,7 +5440,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "4",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "364",
@@ -4729,7 +5455,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "10",
           "target2Category": "2",
-          "target2Param": "9"
+          "target2Param": "9",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "365",
@@ -4742,7 +5470,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "10",
           "target2Category": "2",
-          "target2Param": "9"
+          "target2Param": "9",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "366",
@@ -4755,7 +5485,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "367",
@@ -4768,7 +5500,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "10",
           "target2Category": "2",
-          "target2Param": "9"
+          "target2Param": "9",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "368",
@@ -4781,7 +5515,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "8",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "369",
@@ -4794,7 +5530,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "370",
@@ -4807,7 +5545,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "2",
-          "target2Param": "10"
+          "target2Param": "10",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "371",
@@ -4820,7 +5560,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "1",
           "target2Category": "1",
-          "target2Param": "3"
+          "target2Param": "3",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "372",
@@ -4833,7 +5575,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "1",
-          "target2Param": "6"
+          "target2Param": "6",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "373",
@@ -4846,7 +5590,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "374",
@@ -4859,7 +5605,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "375",
@@ -4872,7 +5620,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "3",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "376",
@@ -4885,7 +5635,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "377",
@@ -4898,7 +5650,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "378",
@@ -4911,7 +5665,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "379",
@@ -4924,7 +5680,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "380",
@@ -4937,7 +5695,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "381",
@@ -4950,7 +5710,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "382",
@@ -4963,7 +5725,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "383",
@@ -4976,7 +5740,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "384",
@@ -4989,7 +5755,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "385",
@@ -5002,7 +5770,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "2",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "386",
@@ -5015,7 +5785,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "387",
@@ -5028,7 +5800,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "388",
@@ -5041,7 +5815,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "389",
@@ -5054,7 +5830,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "390",
@@ -5067,7 +5845,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "391",
@@ -5080,7 +5860,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "392",
@@ -5093,7 +5875,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "393",
@@ -5106,7 +5890,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "7",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "394",
@@ -5119,7 +5905,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "395",
@@ -5132,7 +5920,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "396",
@@ -5145,7 +5935,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "1",
           "target2Category": "1",
-          "target2Param": "2"
+          "target2Param": "2",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "397",
@@ -5158,7 +5950,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "3",
           "target2Category": "1",
-          "target2Param": "2"
+          "target2Param": "2",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "398",
@@ -5171,7 +5965,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "8",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "399",
@@ -5184,7 +5980,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "3",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "400",
@@ -5197,7 +5995,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "401",
@@ -5210,7 +6010,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "402",
@@ -5223,7 +6025,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "1",
-          "target2Param": "2"
+          "target2Param": "2",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "403",
@@ -5236,7 +6040,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "404",
@@ -5249,7 +6055,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "405",
@@ -5262,7 +6070,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "406",
@@ -5275,7 +6085,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "10",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "407",
@@ -5288,7 +6100,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "7",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "408",
@@ -5301,7 +6115,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "409",
@@ -5314,7 +6130,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "410",
@@ -5327,7 +6145,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "8",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "411",
@@ -5340,7 +6160,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "1",
-          "target2Param": "1"
+          "target2Param": "1",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "412",
@@ -5353,7 +6175,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "7",
           "target2Category": "1",
-          "target2Param": "2"
+          "target2Param": "2",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "413",
@@ -5366,7 +6190,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "8",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "414",
@@ -5379,7 +6205,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "415",
@@ -5392,7 +6220,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "416",
@@ -5405,7 +6235,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "417",
@@ -5418,7 +6250,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "418",
@@ -5431,7 +6265,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "419",
@@ -5444,7 +6280,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "420",
@@ -5457,7 +6295,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "421",
@@ -5470,7 +6310,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "422",
@@ -5483,7 +6325,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "423",
@@ -5496,7 +6340,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "424",
@@ -5509,7 +6355,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "1",
           "target2Category": "1",
-          "target2Param": "7"
+          "target2Param": "7",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "425",
@@ -5522,7 +6370,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "426",
@@ -5535,7 +6385,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "1",
           "target2Category": "1",
-          "target2Param": "7"
+          "target2Param": "7",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "427",
@@ -5548,7 +6400,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "428",
@@ -5561,7 +6415,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "429",
@@ -5574,7 +6430,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "4",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "430",
@@ -5587,7 +6445,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "8",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "431",
@@ -5600,7 +6460,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "8",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "432",
@@ -5613,7 +6475,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "433",
@@ -5626,7 +6490,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "3",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "434",
@@ -5639,7 +6505,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "435",
@@ -5652,7 +6520,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "3",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "436",
@@ -5665,7 +6535,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "437",
@@ -5678,7 +6550,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "438",
@@ -5691,7 +6565,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "439",
@@ -5704,7 +6580,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "8",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "440",
@@ -5717,7 +6595,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "441",
@@ -5730,7 +6610,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "3",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "442",
@@ -5743,7 +6625,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "443",
@@ -5756,7 +6640,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "444",
@@ -5769,7 +6655,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "445",
@@ -5782,7 +6670,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "446",
@@ -5795,7 +6685,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "447",
@@ -5808,7 +6700,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "1",
-          "target2Param": "7"
+          "target2Param": "7",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "448",
@@ -5821,7 +6715,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "449",
@@ -5834,7 +6730,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "450",
@@ -5847,7 +6745,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "7",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "451",
@@ -5860,7 +6760,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "452",
@@ -5873,7 +6775,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "453",
@@ -5886,7 +6790,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "7",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "454",
@@ -5899,7 +6805,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "455",
@@ -5912,7 +6820,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "3",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "456",
@@ -5925,7 +6835,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "7",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "457",
@@ -5938,7 +6850,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "458",
@@ -5951,7 +6865,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "459",
@@ -5964,7 +6880,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "460",
@@ -5977,7 +6895,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "7",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "461",
@@ -5990,7 +6910,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "7",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "462",
@@ -6003,7 +6925,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "99",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "463",
@@ -6016,7 +6940,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "464",
@@ -6029,7 +6955,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "465",
@@ -6042,7 +6970,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "466",
@@ -6055,7 +6985,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "467",
@@ -6068,7 +7000,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "3",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "468",
@@ -6081,7 +7015,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "469",
@@ -6094,7 +7030,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "470",
@@ -6107,7 +7045,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "471",
@@ -6120,7 +7060,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "472",
@@ -6133,7 +7075,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "473",
@@ -6146,7 +7090,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "474",
@@ -6159,7 +7105,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "2",
-          "target2Param": "99"
+          "target2Param": "99",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "475",
@@ -6172,7 +7120,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "476",
@@ -6185,7 +7135,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "477",
@@ -6198,7 +7150,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "3",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "478",
@@ -6211,7 +7165,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "2",
-          "target2Param": "1"
+          "target2Param": "1",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "479",
@@ -6224,7 +7180,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "1",
-          "target2Param": "7"
+          "target2Param": "7",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "480",
@@ -6237,7 +7195,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "481",
@@ -6250,7 +7210,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "7",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "482",
@@ -6263,7 +7225,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "483",
@@ -6276,7 +7240,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "2",
-          "target2Param": "1"
+          "target2Param": "1",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "484",
@@ -6289,7 +7255,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "485",
@@ -6302,7 +7270,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "486",
@@ -6315,7 +7285,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "487",
@@ -6328,7 +7300,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "488",
@@ -6341,7 +7315,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "3",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "489",
@@ -6354,7 +7330,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "8",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "490",
@@ -6367,7 +7345,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "3",
           "target2Category": "2",
-          "target2Param": "8"
+          "target2Param": "8",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "491",
@@ -6380,7 +7360,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "3",
           "target2Category": "2",
-          "target2Param": "8"
+          "target2Param": "8",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "492",
@@ -6393,7 +7375,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "2",
-          "target2Param": "1"
+          "target2Param": "1",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "493",
@@ -6406,7 +7390,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "2",
-          "target2Param": "1"
+          "target2Param": "1",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "494",
@@ -6419,7 +7405,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "495",
@@ -6432,7 +7420,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "2",
-          "target2Param": "1"
+          "target2Param": "1",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "496",
@@ -6445,7 +7435,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "2",
-          "target2Param": "1"
+          "target2Param": "1",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "497",
@@ -6458,7 +7450,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "498",
@@ -6471,7 +7465,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "2",
-          "target2Param": "1"
+          "target2Param": "1",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "499",
@@ -6484,7 +7480,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "2",
-          "target2Param": "1"
+          "target2Param": "1",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "500",
@@ -6497,7 +7495,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "501",
@@ -6510,7 +7510,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "502",
@@ -6523,7 +7525,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "2",
-          "target2Param": "1"
+          "target2Param": "1",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "503",
@@ -6536,7 +7540,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "504",
@@ -6549,7 +7555,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "505",
@@ -6562,7 +7570,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "506",
@@ -6575,7 +7585,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "507",
@@ -6588,7 +7600,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "508",
@@ -6601,7 +7615,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "509",
@@ -6614,7 +7630,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "510",
@@ -6627,7 +7645,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "511",
@@ -6640,7 +7660,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "512",
@@ -6653,7 +7675,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "513",
@@ -6666,7 +7690,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "514",
@@ -6679,7 +7705,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "515",
@@ -6692,7 +7720,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "516",
@@ -6705,7 +7735,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "517",
@@ -6718,7 +7750,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "99",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "518",
@@ -6731,7 +7765,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "3",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "519",
@@ -6744,7 +7780,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "520",
@@ -6757,7 +7795,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "521",
@@ -6770,7 +7810,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "1",
-          "target2Param": "7"
+          "target2Param": "7",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "522",
@@ -6783,7 +7825,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "1",
-          "target2Param": "7"
+          "target2Param": "7",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "523",
@@ -6796,7 +7840,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "3",
           "target2Category": "2",
-          "target2Param": "8"
+          "target2Param": "8",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "524",
@@ -6809,7 +7855,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "525",
@@ -6822,7 +7870,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "526",
@@ -6835,7 +7885,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "527",
@@ -6848,7 +7900,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "4",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "528",
@@ -6861,7 +7915,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "4",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "529",
@@ -6874,7 +7930,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "4",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "530",
@@ -6887,7 +7945,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "4",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "531",
@@ -6900,7 +7960,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "532",
@@ -6913,7 +7975,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "1",
-          "target2Param": "3"
+          "target2Param": "3",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "533",
@@ -6926,7 +7990,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "1",
-          "target2Param": "3"
+          "target2Param": "3",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "534",
@@ -6939,7 +8005,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "535",
@@ -6952,7 +8020,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "536",
@@ -6965,7 +8035,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "7",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "537",
@@ -6978,7 +8050,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "7",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "538",
@@ -6991,7 +8065,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "3",
           "target2Category": "1",
-          "target2Param": "7"
+          "target2Param": "7",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "539",
@@ -7004,7 +8080,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "540",
@@ -7017,7 +8095,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "1",
-          "target2Param": "6"
+          "target2Param": "6",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "541",
@@ -7030,7 +8110,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "542",
@@ -7043,7 +8125,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "543",
@@ -7056,7 +8140,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "7",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "544",
@@ -7069,7 +8155,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "545",
@@ -7082,7 +8170,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "546",
@@ -7095,7 +8185,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "547",
@@ -7108,7 +8200,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "2",
-          "target2Param": "1"
+          "target2Param": "1",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "548",
@@ -7121,7 +8215,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "549",
@@ -7134,7 +8230,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "7",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "550",
@@ -7147,7 +8245,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "551",
@@ -7160,7 +8260,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "10",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "552",
@@ -7173,7 +8275,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "553",
@@ -7186,7 +8290,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "7",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "554",
@@ -7199,7 +8305,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "555",
@@ -7212,7 +8320,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "7",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "556",
@@ -7225,7 +8335,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "557",
@@ -7238,7 +8350,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "2",
-          "target2Param": "1"
+          "target2Param": "1",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "558",
@@ -7251,7 +8365,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "559",
@@ -7264,7 +8380,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "3",
           "target2Category": "1",
-          "target2Param": "2"
+          "target2Param": "2",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "560",
@@ -7277,7 +8395,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "1",
           "target2Category": "1",
-          "target2Param": "6"
+          "target2Param": "6",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "561",
@@ -7290,7 +8410,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "562",
@@ -7303,7 +8425,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "7",
           "target2Category": "1",
-          "target2Param": "6"
+          "target2Param": "6",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "563",
@@ -7316,7 +8440,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "1",
-          "target2Param": "7"
+          "target2Param": "7",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "564",
@@ -7329,7 +8455,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "1",
           "target2Category": "2",
-          "target2Param": "1"
+          "target2Param": "1",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "565",
@@ -7342,7 +8470,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "2",
-          "target2Param": "99"
+          "target2Param": "99",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "566",
@@ -7355,7 +8485,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "567",
@@ -7368,7 +8500,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "568",
@@ -7381,7 +8515,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "3",
           "target2Category": "1",
-          "target2Param": "2"
+          "target2Param": "2",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "569",
@@ -7394,7 +8530,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "7",
           "target2Category": "1",
-          "target2Param": "3"
+          "target2Param": "3",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "570",
@@ -7407,7 +8545,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "7",
           "target2Category": "1",
-          "target2Param": "3"
+          "target2Param": "3",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "571",
@@ -7420,7 +8560,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "7",
           "target2Category": "1",
-          "target2Param": "6"
+          "target2Param": "6",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "572",
@@ -7433,7 +8575,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "7",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "573",
@@ -7446,7 +8590,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "7",
           "target2Category": "2",
-          "target2Param": "1"
+          "target2Param": "1",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "574",
@@ -7459,7 +8605,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "7",
           "target2Category": "1",
-          "target2Param": "6"
+          "target2Param": "6",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "575",
@@ -7472,7 +8620,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "576",
@@ -7485,7 +8635,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "99",
           "target2Category": "2",
-          "target2Param": "3"
+          "target2Param": "3",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "577",
@@ -7498,7 +8650,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "7",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "578",
@@ -7511,7 +8665,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "579",
@@ -7524,7 +8680,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "3",
           "target2Category": "2",
-          "target2Param": "99"
+          "target2Param": "99",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "580",
@@ -7537,7 +8695,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "3",
           "target2Category": "2",
-          "target2Param": "99"
+          "target2Param": "99",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "581",
@@ -7550,7 +8710,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "1",
           "target2Category": "1",
-          "target2Param": "3"
+          "target2Param": "3",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "582",
@@ -7563,7 +8725,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "583",
@@ -7576,7 +8740,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "2",
-          "target2Param": "1"
+          "target2Param": "1",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "584",
@@ -7589,7 +8755,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "2",
-          "target2Param": "1"
+          "target2Param": "1",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "585",
@@ -7602,7 +8770,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "2",
-          "target2Param": "1"
+          "target2Param": "1",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "586",
@@ -7615,7 +8785,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "2",
-          "target2Param": "1"
+          "target2Param": "1",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "587",
@@ -7628,7 +8800,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "589",
@@ -7641,7 +8815,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "590",
@@ -7654,7 +8830,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "7",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "591",
@@ -7667,7 +8845,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "8",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "596",
@@ -7680,7 +8860,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "597",
@@ -7693,7 +8875,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "598",
@@ -7706,7 +8890,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "599",
@@ -7719,7 +8905,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "600",
@@ -7732,7 +8920,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "601",
@@ -7745,7 +8935,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "602",
@@ -7758,7 +8950,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "8",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "603",
@@ -7771,7 +8965,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "604",
@@ -7784,7 +8980,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "605",
@@ -7797,7 +8995,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "606",
@@ -7810,7 +9010,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "607",
@@ -7823,7 +9025,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "608",
@@ -7836,7 +9040,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "609",
@@ -7849,7 +9055,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "610",
@@ -7862,7 +9070,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "611",
@@ -7875,7 +9085,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "612",
@@ -7888,7 +9100,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "613",
@@ -7901,7 +9115,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "614",
@@ -7914,7 +9130,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "615",
@@ -7927,7 +9145,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "616",
@@ -7940,7 +9160,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "1",
           "target2Category": "1",
-          "target2Param": "7"
+          "target2Param": "7",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "617",
@@ -7953,7 +9175,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "3",
           "target2Category": "1",
-          "target2Param": "6"
+          "target2Param": "6",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "618",
@@ -7966,7 +9190,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "619",
@@ -7979,7 +9205,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "8",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "620",
@@ -7992,7 +9220,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "8",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "621",
@@ -8005,7 +9235,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "622",
@@ -8018,7 +9250,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "7",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "623",
@@ -8031,7 +9265,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "7",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "624",
@@ -8044,7 +9280,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "625",
@@ -8057,7 +9295,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "626",
@@ -8070,7 +9310,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "627",
@@ -8083,7 +9325,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "8",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "628",
@@ -8096,7 +9340,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "629",
@@ -8109,7 +9355,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "630",
@@ -8122,7 +9370,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "1",
-          "target2Param": "7"
+          "target2Param": "7",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "631",
@@ -8135,7 +9385,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "1",
-          "target2Param": "7"
+          "target2Param": "7",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "632",
@@ -8148,7 +9400,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "3",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "633",
@@ -8161,7 +9415,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "634",
@@ -8174,7 +9430,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "1",
-          "target2Param": "3"
+          "target2Param": "3",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "635",
@@ -8187,7 +9445,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "8",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "636",
@@ -8200,7 +9460,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "8",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "637",
@@ -8213,7 +9475,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "2",
-          "target2Param": "1"
+          "target2Param": "1",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "638",
@@ -8226,7 +9490,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "3",
           "target2Category": "2",
-          "target2Param": "1"
+          "target2Param": "1",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "639",
@@ -8239,7 +9505,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "8",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "640",
@@ -8252,7 +9520,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "1",
           "target2Category": "1",
-          "target2Param": "3"
+          "target2Param": "3",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "641",
@@ -8265,7 +9535,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "642",
@@ -8278,7 +9550,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "643",
@@ -8291,7 +9565,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "99",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "644",
@@ -8304,7 +9580,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "3",
           "target2Category": "1",
-          "target2Param": "6"
+          "target2Param": "6",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "645",
@@ -8317,7 +9595,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "99",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "646",
@@ -8330,7 +9610,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "10",
           "target2Category": "2",
-          "target2Param": "9"
+          "target2Param": "9",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "647",
@@ -8343,7 +9625,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "648",
@@ -8356,7 +9640,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "99",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "649",
@@ -8369,7 +9655,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "1",
           "target2Category": "1",
-          "target2Param": "6"
+          "target2Param": "6",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "650",
@@ -8382,7 +9670,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "651",
@@ -8395,7 +9685,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "1",
           "target2Category": "1",
-          "target2Param": "2"
+          "target2Param": "2",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "652",
@@ -8408,7 +9700,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "653",
@@ -8421,7 +9715,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "3",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "654",
@@ -8434,7 +9730,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "655",
@@ -8447,7 +9745,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "656",
@@ -8460,7 +9760,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "657",
@@ -8473,7 +9775,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "658",
@@ -8486,7 +9790,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "659",
@@ -8499,7 +9805,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "660",
@@ -8512,7 +9820,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "8",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "661",
@@ -8525,7 +9835,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "662",
@@ -8538,7 +9850,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "663",
@@ -8551,7 +9865,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "664",
@@ -8564,7 +9880,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "7",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "665",
@@ -8577,7 +9895,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "666",
@@ -8590,7 +9910,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "8",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "667",
@@ -8603,7 +9925,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "3",
           "target2Category": "1",
-          "target2Param": "7"
+          "target2Param": "7",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "668",
@@ -8616,7 +9940,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "2",
-          "target2Param": "2"
+          "target2Param": "2",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "669",
@@ -8629,7 +9955,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "2",
-          "target2Param": "2"
+          "target2Param": "2",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "670",
@@ -8642,7 +9970,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "671",
@@ -8655,7 +9985,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "672",
@@ -8668,7 +10000,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "3",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "673",
@@ -8681,7 +10015,9 @@ window.lead=[
           "target1Category": "0",
           "target1Param": "0",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "674",
@@ -8694,7 +10030,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "675",
@@ -8707,7 +10045,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "3",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "676",
@@ -8720,7 +10060,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "3",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "677",
@@ -8733,7 +10075,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "99",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "678",
@@ -8746,7 +10090,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "679",
@@ -8759,7 +10105,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "99",
           "target2Category": "1",
-          "target2Param": "2"
+          "target2Param": "2",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "680",
@@ -8772,7 +10120,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "1",
-          "target2Param": "2"
+          "target2Param": "2",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "681",
@@ -8785,7 +10135,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "682",
@@ -8798,7 +10150,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "99",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "683",
@@ -8811,7 +10165,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "7",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "684",
@@ -8824,7 +10180,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "685",
@@ -8837,7 +10195,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "686",
@@ -8850,7 +10210,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "687",
@@ -8863,7 +10225,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "1",
           "target2Category": "2",
-          "target2Param": "1"
+          "target2Param": "1",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "688",
@@ -8876,7 +10240,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "7",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "689",
@@ -8889,7 +10255,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "7",
           "target2Category": "2",
-          "target2Param": "1"
+          "target2Param": "1",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "690",
@@ -8902,7 +10270,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "3",
           "target2Category": "1",
-          "target2Param": "6"
+          "target2Param": "6",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "691",
@@ -8915,7 +10285,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "1",
-          "target2Param": "7"
+          "target2Param": "7",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "692",
@@ -8928,7 +10300,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "693",
@@ -8941,7 +10315,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "8",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "694",
@@ -8954,7 +10330,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "8",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "695",
@@ -8967,7 +10345,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "8",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "696",
@@ -8980,7 +10360,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "697",
@@ -8993,7 +10375,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "8",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "698",
@@ -9006,7 +10390,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "8",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "699",
@@ -9019,7 +10405,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "702",
@@ -9032,7 +10420,9 @@ window.lead=[
           "target1Category": "2",
           "target1Param": "1",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "703",
@@ -9045,7 +10435,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "6",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "704",
@@ -9058,7 +10450,9 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "3",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardLeaderSkillId": "706",
@@ -9071,6 +10465,8 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "2",
           "target2Category": "0",
-          "target2Param": "0"
+          "target2Param": "0",
+          "engDesc": ""
+
         }
 ]

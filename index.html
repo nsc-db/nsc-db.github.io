@@ -1,38 +1,106 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="utf-8">
-    <title>NARUTO DATABASE</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Naruto Shinobi Collection Database - Units</title>
 
-
+    <!--BOOTSTRAP -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
-    <link href="css/jumbotron-narrow.css" rel="stylesheet">
+    <!--FAVICON-->
+  <link rel="apple-touch-icon" sizes="57x57" href="favicon/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="favicon/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="favicon/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="favicon/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="favicon/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="favicon/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="favicon/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="favicon/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192"  href="favicon/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="favicon/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="favicon/favicon-16x16.png">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="favicon/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+
+    <!-- CSS -->
+  <link rel="stylesheet" type="text/css" href="css/style.css"/>
+
+
+  <link rel="stylesheet" href="https://i.icomoon.io/public/adb54f46d6/Linearicons/style.css">
+
+  <style>
+    tr{cursor: pointer;}
+
+  </style>
+  
 </head>
 
 <body>
-    <div class="container">
-        <div class="header">
-            </nav>
-            <h3 class="text-muted">Naruto Shinobi Collection Database</h3>
+
+  <div class="container">
+    <div class="base-header">
+      <div class="row">
+        <div class="col-md-5 col-md-offset-7">
+          <h1>Naruto <span>Shinobi <br>Collection</span> Database</h1>
+          <p>Join  us in the Reddit: <a target="_blank" href="http://reddit.com/r/NarutoSc">/r/NarutoSc</a></p>
+          <p>Join  us on Discord: <a target="_blank" href="https://discord.gg/pYYHBwt">Here</a></p>
         </div>
-
-        <div class="jumbotron">
-          <p class="lead"></p>
-          <p><a class="btn btn-lg btn-success" href="/nsc-db.github.io/units" role="button">Units</a>
-          <p><a class="btn btn-lg btn-success" href="/nsc-db.github.io/gear" role="button">Ninja Gear</a>
-          <p><a class="btn btn-lg btn-success" href="/nsc-db.github.io/guides" role="button">Guides</a>
-          <p><a class="btn btn-lg btn-success" href="/nsc-db.github.io/faq" role="button">FAQ</a>
-          </p>
+        <div class="col-md-12">
+          <div class="base-menu">
+            <ul>
+              <!-- <li><a href="nsc-db.github.io/index.html" role="button">Front Page</a> -->
+              <li class="menu active"><a href="#" role="button">Home</a>
+              <li class="menu"><a href="./units/index.html" role="button">Units</a>
+              <li class="menu"><a href="./gear/index.html" role="button">Ninja Gear</a>
+              <li class="menu"><a href="./jp/index.html" role="button">JP</a>
+              <li class="menu"><a href="https://docs.google.com/document/d/1AXol-kO5zPbIj85SRX-sOUnV4el2NDHKHcleXeUCiyM/edit#heading=h.taus803ytjm2" role="button">Account Recovery</a>
+              <li class="menu"><a href="./simulate/index.html" role="button">Summoning Simulator</a></li>
+  
+              <!-- <li><a href="/guides" role="button">Guides</a>
+              <li><a href="/faq" role="button">FAQ</a> -->
+            </ul>
+          </div>
         </div>
-
-
-        <footer class="footer">
-            <p>&copy; Do we want a footer?</p>
-        </footer>
-
+      </div>
     </div>
-    <script src="/flask-ghpages-example/static/js/script.js"></script>
-    </body>
-    </html>
+  </div>
+
+  
+  <div class="container">
+    <div class="base-content">
+      <div class="row">
+        <div class="banner col-sm-12 col-md-4 col-md-offset-1">
+          <h2>Upcoming</h2>
+          <img src="common/banner/future_1.png" />
+        </div>
+
+        <div class="char col-sm-1 col-md-2 col-md-offset-1">
+            <img class="card" id="chara-summon-1" src="common/assets/img/units/20040312_6.png" width="100%" height="100%" />
+        </div>
+        
+        <div class="char col-sm-1 col-md-2">
+            <img class="card" id="chara-summon-1" src="common/assets/img/units/20040401.png" width="100%" height="100%" />
+        </div>
+
+        <div class="col-md-12">
+          <div class="footer">
+            <hr>
+            <p class="note">Created by Yuyya, Noobiel and Book</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- JQUERY -->
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <!--BOOTSTRAP-->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</body>
+</html>

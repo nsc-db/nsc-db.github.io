@@ -33,7 +33,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2",
@@ -69,7 +71,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "3",
@@ -105,7 +109,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "4",
@@ -141,7 +147,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "5",
@@ -177,7 +185,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "6",
@@ -213,7 +223,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "7",
@@ -249,7 +261,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "8",
@@ -285,7 +299,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "9",
@@ -321,7 +337,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10",
@@ -357,7 +375,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11",
@@ -393,7 +413,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12",
@@ -429,7 +451,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13",
@@ -465,7 +489,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14",
@@ -501,7 +527,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15",
@@ -537,7 +565,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16",
@@ -573,7 +603,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "17",
@@ -609,7 +641,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "18",
@@ -645,7 +679,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "19",
@@ -681,7 +717,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "20",
@@ -717,7 +755,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "21",
@@ -753,7 +793,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "22",
@@ -789,7 +831,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "23",
@@ -825,7 +869,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "24",
@@ -861,7 +907,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "25",
@@ -897,7 +945,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "26",
@@ -933,7 +983,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "27",
@@ -969,7 +1021,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "28",
@@ -1005,7 +1059,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "29",
@@ -1041,7 +1097,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "30",
@@ -1077,7 +1135,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "31",
@@ -1113,7 +1173,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "32",
@@ -1149,7 +1211,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "33",
@@ -1185,7 +1249,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "34",
@@ -1221,7 +1287,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "35",
@@ -1257,7 +1325,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "36",
@@ -1293,7 +1363,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "37",
@@ -1329,7 +1401,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "38",
@@ -1365,7 +1439,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "39",
@@ -1401,7 +1477,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "40",
@@ -1437,7 +1515,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "41",
@@ -1473,7 +1553,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "42",
@@ -1509,7 +1591,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "43",
@@ -1545,7 +1629,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "44",
@@ -1581,7 +1667,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "45",
@@ -1617,7 +1705,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "46",
@@ -1653,7 +1743,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "47",
@@ -1689,7 +1781,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "48",
@@ -1725,7 +1819,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "49",
@@ -1761,7 +1857,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "50",
@@ -1797,7 +1895,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "51",
@@ -1833,7 +1933,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "52",
@@ -1869,7 +1971,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "53",
@@ -1905,7 +2009,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "54",
@@ -1941,7 +2047,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "55",
@@ -1977,7 +2085,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "56",
@@ -2013,7 +2123,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "57",
@@ -2049,7 +2161,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "58",
@@ -2085,7 +2199,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "59",
@@ -2121,7 +2237,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "60",
@@ -2157,7 +2275,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "61",
@@ -2193,7 +2313,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "62",
@@ -2229,7 +2351,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "63",
@@ -2265,7 +2389,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "64",
@@ -2301,7 +2427,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "65",
@@ -2337,7 +2465,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "66",
@@ -2373,7 +2503,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "67",
@@ -2409,7 +2541,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "68",
@@ -2445,7 +2579,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "69",
@@ -2481,7 +2617,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "70",
@@ -2517,7 +2655,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "71",
@@ -2553,7 +2693,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "72",
@@ -2589,7 +2731,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "73",
@@ -2625,7 +2769,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "74",
@@ -2661,7 +2807,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "75",
@@ -2697,7 +2845,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "76",
@@ -2733,7 +2883,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "77",
@@ -2769,7 +2921,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "78",
@@ -2805,7 +2959,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "79",
@@ -2841,7 +2997,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "80",
@@ -2877,7 +3035,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "81",
@@ -2913,7 +3073,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "82",
@@ -2949,7 +3111,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "83",
@@ -2985,7 +3149,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "84",
@@ -3021,7 +3187,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "85",
@@ -3057,7 +3225,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "86",
@@ -3093,7 +3263,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "87",
@@ -3129,7 +3301,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "88",
@@ -3165,7 +3339,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "89",
@@ -3201,7 +3377,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "90",
@@ -3237,7 +3415,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "91",
@@ -3273,7 +3453,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "92",
@@ -3309,7 +3491,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "93",
@@ -3345,7 +3529,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "94",
@@ -3381,7 +3567,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "95",
@@ -3417,7 +3605,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "96",
@@ -3453,7 +3643,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "97",
@@ -3489,7 +3681,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "98",
@@ -3525,7 +3719,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "99",
@@ -3561,7 +3757,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "100",
@@ -3597,7 +3795,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "101",
@@ -3633,7 +3833,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "102",
@@ -3669,7 +3871,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "103",
@@ -3705,7 +3909,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "104",
@@ -3741,7 +3947,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "105",
@@ -3777,7 +3985,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "106",
@@ -3813,7 +4023,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "107",
@@ -3849,7 +4061,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "20",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "108",
@@ -3885,7 +4099,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "20",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "109",
@@ -3921,7 +4137,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "110",
@@ -3957,7 +4175,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "111",
@@ -3993,7 +4213,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "112",
@@ -4029,7 +4251,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "113",
@@ -4065,7 +4289,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "114",
@@ -4101,7 +4327,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "115",
@@ -4137,7 +4365,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "116",
@@ -4173,7 +4403,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "117",
@@ -4209,7 +4441,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "118",
@@ -4245,7 +4479,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "119",
@@ -4281,7 +4517,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "120",
@@ -4317,7 +4555,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "121",
@@ -4353,7 +4593,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "122",
@@ -4389,7 +4631,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "123",
@@ -4425,7 +4669,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "124",
@@ -4461,7 +4707,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "125",
@@ -4497,7 +4745,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "126",
@@ -4533,7 +4783,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "127",
@@ -4569,7 +4821,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "128",
@@ -4605,7 +4859,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "129",
@@ -4641,7 +4897,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "130",
@@ -4677,7 +4935,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "131",
@@ -4713,7 +4973,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "132",
@@ -4749,7 +5011,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "133",
@@ -4785,7 +5049,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "134",
@@ -4821,7 +5087,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "135",
@@ -4857,7 +5125,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "136",
@@ -4893,7 +5163,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "137",
@@ -4929,7 +5201,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "138",
@@ -4965,7 +5239,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "139",
@@ -5001,7 +5277,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "140",
@@ -5037,7 +5315,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "141",
@@ -5073,7 +5353,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "142",
@@ -5109,7 +5391,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "143",
@@ -5145,7 +5429,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "144",
@@ -5181,7 +5467,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "145",
@@ -5217,7 +5505,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "146",
@@ -5253,7 +5543,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "147",
@@ -5289,7 +5581,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "148",
@@ -5325,7 +5619,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "149",
@@ -5361,7 +5657,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "150",
@@ -5397,7 +5695,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "151",
@@ -5433,7 +5733,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "152",
@@ -5469,7 +5771,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "153",
@@ -5505,7 +5809,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "154",
@@ -5541,7 +5847,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "155",
@@ -5577,7 +5885,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "156",
@@ -5613,7 +5923,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "157",
@@ -5649,7 +5961,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "158",
@@ -5685,7 +5999,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "159",
@@ -5721,7 +6037,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "160",
@@ -5757,7 +6075,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "161",
@@ -5793,7 +6113,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "162",
@@ -5829,7 +6151,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "163",
@@ -5865,7 +6189,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "164",
@@ -5901,7 +6227,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "165",
@@ -5937,7 +6265,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "166",
@@ -5973,7 +6303,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "167",
@@ -6009,7 +6341,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "168",
@@ -6045,7 +6379,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "169",
@@ -6081,7 +6417,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "170",
@@ -6117,7 +6455,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "171",
@@ -6153,7 +6493,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "172",
@@ -6189,7 +6531,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "173",
@@ -6225,7 +6569,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "174",
@@ -6261,7 +6607,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "175",
@@ -6297,7 +6645,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "176",
@@ -6333,7 +6683,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "177",
@@ -6369,7 +6721,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "178",
@@ -6405,7 +6759,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "179",
@@ -6441,7 +6797,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "180",
@@ -6477,7 +6835,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "181",
@@ -6513,7 +6873,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "182",
@@ -6549,7 +6911,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "183",
@@ -6585,7 +6949,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "184",
@@ -6621,7 +6987,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "185",
@@ -6657,7 +7025,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "186",
@@ -6693,7 +7063,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "187",
@@ -6729,7 +7101,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "188",
@@ -6765,7 +7139,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "189",
@@ -6801,7 +7177,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "190",
@@ -6837,7 +7215,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "191",
@@ -6873,7 +7253,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "192",
@@ -6909,7 +7291,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "193",
@@ -6945,7 +7329,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "194",
@@ -6981,7 +7367,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "195",
@@ -7017,7 +7405,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "196",
@@ -7053,7 +7443,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "197",
@@ -7089,7 +7481,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "198",
@@ -7125,7 +7519,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "199",
@@ -7161,7 +7557,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "200",
@@ -7197,7 +7595,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "201",
@@ -7233,7 +7633,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "202",
@@ -7269,7 +7671,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "203",
@@ -7305,7 +7709,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "204",
@@ -7341,7 +7747,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "205",
@@ -7377,7 +7785,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "206",
@@ -7413,7 +7823,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "207",
@@ -7449,7 +7861,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "208",
@@ -7485,7 +7899,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "209",
@@ -7521,7 +7937,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "210",
@@ -7557,7 +7975,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "211",
@@ -7593,7 +8013,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "212",
@@ -7629,7 +8051,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "213",
@@ -7665,7 +8089,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "214",
@@ -7701,7 +8127,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "215",
@@ -7737,7 +8165,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "216",
@@ -7773,7 +8203,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "217",
@@ -7809,7 +8241,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "218",
@@ -7845,7 +8279,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "219",
@@ -7881,7 +8317,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "220",
@@ -7917,7 +8355,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "221",
@@ -7953,7 +8393,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "222",
@@ -7989,7 +8431,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "223",
@@ -8025,7 +8469,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "224",
@@ -8061,7 +8507,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "225",
@@ -8097,7 +8545,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "226",
@@ -8133,7 +8583,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "227",
@@ -8169,7 +8621,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "228",
@@ -8205,7 +8659,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "229",
@@ -8241,7 +8697,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "230",
@@ -8277,7 +8735,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "231",
@@ -8313,7 +8773,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "232",
@@ -8349,7 +8811,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "233",
@@ -8385,7 +8849,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "234",
@@ -8421,7 +8887,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "235",
@@ -8457,7 +8925,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "236",
@@ -8493,7 +8963,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "237",
@@ -8529,7 +9001,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "238",
@@ -8565,7 +9039,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "239",
@@ -8601,7 +9077,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "240",
@@ -8637,7 +9115,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "241",
@@ -8673,7 +9153,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "242",
@@ -8709,7 +9191,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "243",
@@ -8745,7 +9229,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "244",
@@ -8781,7 +9267,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "245",
@@ -8817,7 +9305,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "246",
@@ -8853,7 +9343,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "247",
@@ -8889,7 +9381,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "248",
@@ -8925,7 +9419,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "249",
@@ -8961,7 +9457,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "250",
@@ -8997,7 +9495,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "251",
@@ -9033,7 +9533,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "252",
@@ -9069,7 +9571,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "253",
@@ -9105,7 +9609,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "254",
@@ -9141,7 +9647,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "255",
@@ -9177,7 +9685,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "256",
@@ -9213,7 +9723,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "257",
@@ -9249,7 +9761,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "258",
@@ -9285,7 +9799,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "259",
@@ -9321,7 +9837,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "260",
@@ -9357,7 +9875,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "261",
@@ -9393,7 +9913,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "262",
@@ -9429,7 +9951,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "263",
@@ -9465,7 +9989,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "264",
@@ -9501,7 +10027,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "265",
@@ -9537,7 +10065,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "266",
@@ -9573,7 +10103,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "267",
@@ -9609,7 +10141,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "268",
@@ -9645,7 +10179,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "269",
@@ -9681,7 +10217,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "270",
@@ -9717,7 +10255,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "271",
@@ -9753,7 +10293,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "272",
@@ -9789,7 +10331,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "273",
@@ -9825,7 +10369,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "274",
@@ -9861,7 +10407,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "275",
@@ -9897,7 +10445,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "276",
@@ -9933,7 +10483,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "277",
@@ -9969,7 +10521,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "278",
@@ -10005,7 +10559,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "279",
@@ -10041,7 +10597,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "280",
@@ -10077,7 +10635,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "281",
@@ -10113,7 +10673,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "282",
@@ -10149,7 +10711,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "283",
@@ -10185,7 +10749,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "284",
@@ -10221,7 +10787,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "285",
@@ -10257,7 +10825,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "286",
@@ -10293,7 +10863,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "287",
@@ -10329,7 +10901,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "288",
@@ -10365,7 +10939,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "289",
@@ -10401,7 +10977,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "290",
@@ -10437,7 +11015,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "291",
@@ -10473,7 +11053,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "292",
@@ -10509,7 +11091,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "293",
@@ -10545,7 +11129,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "294",
@@ -10581,7 +11167,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "295",
@@ -10617,7 +11205,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "296",
@@ -10653,7 +11243,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "297",
@@ -10689,7 +11281,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "298",
@@ -10725,7 +11319,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "299",
@@ -10761,7 +11357,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "300",
@@ -10797,7 +11395,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "301",
@@ -10833,7 +11433,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "302",
@@ -10869,7 +11471,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "303",
@@ -10905,7 +11509,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "304",
@@ -10941,7 +11547,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "305",
@@ -10977,7 +11585,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "306",
@@ -11013,7 +11623,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "307",
@@ -11049,7 +11661,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "308",
@@ -11085,7 +11699,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "309",
@@ -11121,7 +11737,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "310",
@@ -11157,7 +11775,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "311",
@@ -11193,7 +11813,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "312",
@@ -11229,7 +11851,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "313",
@@ -11265,7 +11889,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "314",
@@ -11301,7 +11927,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "315",
@@ -11337,7 +11965,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "316",
@@ -11373,7 +12003,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "317",
@@ -11409,7 +12041,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "318",
@@ -11445,7 +12079,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "319",
@@ -11481,7 +12117,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "320",
@@ -11517,7 +12155,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "321",
@@ -11553,7 +12193,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "322",
@@ -11589,7 +12231,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "323",
@@ -11625,7 +12269,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "324",
@@ -11661,7 +12307,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "325",
@@ -11697,7 +12345,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "326",
@@ -11733,7 +12383,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "327",
@@ -11769,7 +12421,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "328",
@@ -11805,7 +12459,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "329",
@@ -11841,7 +12497,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "330",
@@ -11877,7 +12535,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "331",
@@ -11913,7 +12573,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "332",
@@ -11949,7 +12611,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "333",
@@ -11985,7 +12649,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "334",
@@ -12021,7 +12687,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "335",
@@ -12057,7 +12725,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "336",
@@ -12093,7 +12763,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "337",
@@ -12129,7 +12801,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "338",
@@ -12165,7 +12839,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "339",
@@ -12201,7 +12877,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "340",
@@ -12237,7 +12915,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "341",
@@ -12273,7 +12953,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "342",
@@ -12309,7 +12991,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "343",
@@ -12345,7 +13029,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "344",
@@ -12381,7 +13067,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "345",
@@ -12417,7 +13105,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "346",
@@ -12453,7 +13143,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "347",
@@ -12489,7 +13181,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "348",
@@ -12525,7 +13219,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "349",
@@ -12561,7 +13257,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "350",
@@ -12597,7 +13295,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "351",
@@ -12633,7 +13333,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "352",
@@ -12669,7 +13371,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "353",
@@ -12705,7 +13409,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "354",
@@ -12741,7 +13447,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "355",
@@ -12777,7 +13485,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "356",
@@ -12813,7 +13523,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "357",
@@ -12849,7 +13561,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "358",
@@ -12885,7 +13599,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "359",
@@ -12921,7 +13637,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "360",
@@ -12957,7 +13675,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "361",
@@ -12993,7 +13713,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "362",
@@ -13029,7 +13751,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "363",
@@ -13065,7 +13789,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "364",
@@ -13101,7 +13827,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "365",
@@ -13137,7 +13865,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "366",
@@ -13173,7 +13903,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "367",
@@ -13209,7 +13941,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "368",
@@ -13245,7 +13979,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "369",
@@ -13281,7 +14017,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "370",
@@ -13317,7 +14055,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "371",
@@ -13353,7 +14093,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "372",
@@ -13389,7 +14131,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "373",
@@ -13425,7 +14169,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "374",
@@ -13461,7 +14207,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "375",
@@ -13497,7 +14245,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "376",
@@ -13533,7 +14283,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "377",
@@ -13569,7 +14321,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "378",
@@ -13605,7 +14359,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "379",
@@ -13641,7 +14397,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "380",
@@ -13677,7 +14435,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "381",
@@ -13713,7 +14473,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "382",
@@ -13749,7 +14511,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "383",
@@ -13785,7 +14549,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "384",
@@ -13821,7 +14587,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "385",
@@ -13857,7 +14625,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "386",
@@ -13893,7 +14663,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "387",
@@ -13929,7 +14701,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "388",
@@ -13965,7 +14739,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "389",
@@ -14001,7 +14777,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "390",
@@ -14037,7 +14815,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "391",
@@ -14073,7 +14853,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "392",
@@ -14109,7 +14891,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "393",
@@ -14145,7 +14929,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "394",
@@ -14181,7 +14967,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "395",
@@ -14217,7 +15005,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "396",
@@ -14253,7 +15043,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "397",
@@ -14289,7 +15081,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "398",
@@ -14325,7 +15119,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "399",
@@ -14361,7 +15157,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "400",
@@ -14397,7 +15195,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "401",
@@ -14433,7 +15233,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "402",
@@ -14469,7 +15271,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "403",
@@ -14505,7 +15309,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "404",
@@ -14541,7 +15347,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "405",
@@ -14577,7 +15385,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "406",
@@ -14613,7 +15423,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "407",
@@ -14649,7 +15461,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "408",
@@ -14685,7 +15499,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "20",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "409",
@@ -14721,7 +15537,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "410",
@@ -14757,7 +15575,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "411",
@@ -14793,7 +15613,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "30",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "412",
@@ -14829,7 +15651,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "413",
@@ -14865,7 +15689,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "414",
@@ -14901,7 +15727,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "415",
@@ -14937,7 +15765,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "416",
@@ -14973,7 +15803,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "417",
@@ -15009,7 +15841,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "418",
@@ -15045,7 +15879,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "419",
@@ -15081,7 +15917,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "420",
@@ -15117,7 +15955,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "421",
@@ -15153,7 +15993,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "422",
@@ -15189,7 +16031,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "423",
@@ -15225,7 +16069,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "424",
@@ -15261,7 +16107,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "425",
@@ -15297,7 +16145,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "426",
@@ -15333,7 +16183,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "427",
@@ -15369,7 +16221,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "428",
@@ -15405,7 +16259,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "429",
@@ -15441,7 +16297,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "430",
@@ -15477,7 +16335,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "431",
@@ -15513,7 +16373,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "432",
@@ -15549,7 +16411,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "433",
@@ -15585,7 +16449,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "434",
@@ -15621,7 +16487,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "435",
@@ -15657,7 +16525,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "436",
@@ -15693,7 +16563,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "437",
@@ -15729,7 +16601,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "438",
@@ -15765,7 +16639,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "439",
@@ -15801,7 +16677,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "440",
@@ -15837,7 +16715,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "441",
@@ -15873,7 +16753,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "442",
@@ -15909,7 +16791,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "443",
@@ -15945,7 +16829,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "444",
@@ -15981,7 +16867,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "445",
@@ -16017,7 +16905,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "446",
@@ -16053,7 +16943,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "447",
@@ -16089,7 +16981,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "448",
@@ -16125,7 +17019,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "449",
@@ -16161,7 +17057,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "450",
@@ -16197,7 +17095,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "451",
@@ -16233,7 +17133,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "452",
@@ -16269,7 +17171,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "453",
@@ -16305,7 +17209,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "454",
@@ -16341,7 +17247,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "455",
@@ -16377,7 +17285,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "456",
@@ -16413,7 +17323,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "457",
@@ -16449,7 +17361,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "458",
@@ -16485,7 +17399,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "459",
@@ -16521,7 +17437,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "460",
@@ -16557,7 +17475,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "461",
@@ -16593,7 +17513,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "462",
@@ -16629,7 +17551,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "463",
@@ -16665,7 +17589,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "464",
@@ -16701,7 +17627,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "465",
@@ -16737,7 +17665,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "466",
@@ -16773,7 +17703,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "467",
@@ -16809,7 +17741,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "468",
@@ -16845,7 +17779,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "469",
@@ -16881,7 +17817,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "470",
@@ -16917,7 +17855,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "471",
@@ -16953,7 +17893,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "472",
@@ -16989,7 +17931,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "473",
@@ -17025,7 +17969,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "474",
@@ -17061,7 +18007,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "475",
@@ -17097,7 +18045,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "476",
@@ -17133,7 +18083,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "477",
@@ -17169,7 +18121,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "478",
@@ -17205,7 +18159,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "479",
@@ -17241,7 +18197,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "480",
@@ -17277,7 +18235,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "483",
@@ -17313,7 +18273,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "484",
@@ -17349,7 +18311,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "485",
@@ -17385,7 +18349,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "486",
@@ -17421,7 +18387,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "488",
@@ -17457,7 +18425,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "489",
@@ -17493,7 +18463,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "490",
@@ -17529,7 +18501,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "491",
@@ -17565,7 +18539,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "492",
@@ -17601,7 +18577,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "493",
@@ -17637,7 +18615,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "494",
@@ -17673,7 +18653,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "495",
@@ -17709,7 +18691,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "496",
@@ -17745,7 +18729,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "497",
@@ -17781,7 +18767,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "498",
@@ -17817,7 +18805,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "499",
@@ -17853,7 +18843,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "500",
@@ -17889,7 +18881,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "501",
@@ -17925,7 +18919,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "502",
@@ -17961,7 +18957,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "503",
@@ -17997,7 +18995,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "504",
@@ -18033,7 +19033,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "505",
@@ -18069,7 +19071,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "506",
@@ -18105,7 +19109,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "507",
@@ -18141,7 +19147,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "508",
@@ -18177,7 +19185,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "509",
@@ -18213,7 +19223,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "510",
@@ -18249,7 +19261,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "511",
@@ -18285,7 +19299,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "512",
@@ -18321,7 +19337,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "513",
@@ -18357,7 +19375,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "514",
@@ -18393,7 +19413,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "515",
@@ -18429,7 +19451,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "516",
@@ -18465,7 +19489,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "517",
@@ -18501,7 +19527,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "518",
@@ -18537,7 +19565,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "519",
@@ -18573,7 +19603,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "520",
@@ -18609,7 +19641,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "521",
@@ -18645,7 +19679,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "522",
@@ -18681,7 +19717,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "523",
@@ -18717,7 +19755,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "524",
@@ -18753,7 +19793,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "525",
@@ -18789,7 +19831,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "526",
@@ -18825,7 +19869,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "527",
@@ -18861,7 +19907,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "528",
@@ -18897,7 +19945,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "529",
@@ -18933,7 +19983,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "530",
@@ -18969,7 +20021,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "531",
@@ -19005,7 +20059,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "532",
@@ -19041,7 +20097,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "533",
@@ -19077,7 +20135,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "534",
@@ -19113,7 +20173,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "535",
@@ -19149,7 +20211,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "536",
@@ -19185,7 +20249,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "537",
@@ -19221,7 +20287,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "538",
@@ -19257,7 +20325,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "539",
@@ -19293,7 +20363,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "540",
@@ -19329,7 +20401,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "541",
@@ -19365,7 +20439,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "542",
@@ -19401,7 +20477,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "543",
@@ -19437,7 +20515,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "544",
@@ -19473,7 +20553,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "545",
@@ -19509,7 +20591,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "546",
@@ -19545,7 +20629,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "547",
@@ -19581,7 +20667,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "548",
@@ -19617,7 +20705,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "549",
@@ -19653,7 +20743,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "550",
@@ -19689,7 +20781,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "551",
@@ -19725,7 +20819,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "552",
@@ -19761,7 +20857,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "553",
@@ -19797,7 +20895,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "554",
@@ -19833,7 +20933,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "555",
@@ -19869,7 +20971,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "556",
@@ -19905,7 +21009,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "557",
@@ -19941,7 +21047,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "558",
@@ -19977,7 +21085,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "559",
@@ -20013,7 +21123,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "560",
@@ -20049,7 +21161,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "561",
@@ -20085,7 +21199,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "562",
@@ -20121,7 +21237,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "563",
@@ -20157,7 +21275,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "564",
@@ -20193,7 +21313,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "565",
@@ -20229,7 +21351,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "566",
@@ -20265,7 +21389,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "567",
@@ -20301,7 +21427,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "568",
@@ -20337,7 +21465,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "569",
@@ -20373,7 +21503,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "570",
@@ -20409,7 +21541,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "571",
@@ -20445,7 +21579,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "572",
@@ -20481,7 +21617,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "10",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "573",
@@ -20517,7 +21655,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "574",
@@ -20553,7 +21693,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "575",
@@ -20589,7 +21731,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "576",
@@ -20625,7 +21769,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "577",
@@ -20661,7 +21807,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "578",
@@ -20697,7 +21845,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "579",
@@ -20733,7 +21883,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "580",
@@ -20769,7 +21921,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "581",
@@ -20805,7 +21959,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "582",
@@ -20841,7 +21997,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "583",
@@ -20877,7 +22035,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "584",
@@ -20913,7 +22073,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "585",
@@ -20949,7 +22111,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "586",
@@ -20985,7 +22149,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "587",
@@ -21021,7 +22187,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "588",
@@ -21057,7 +22225,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "589",
@@ -21093,7 +22263,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "590",
@@ -21129,7 +22301,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "591",
@@ -21165,7 +22339,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "592",
@@ -21201,7 +22377,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "593",
@@ -21237,7 +22415,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "594",
@@ -21273,7 +22453,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "595",
@@ -21309,7 +22491,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "596",
@@ -21345,7 +22529,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "597",
@@ -21381,7 +22567,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "598",
@@ -21417,7 +22605,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "599",
@@ -21453,7 +22643,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "600",
@@ -21489,7 +22681,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "601",
@@ -21525,7 +22719,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "602",
@@ -21561,7 +22757,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "603",
@@ -21597,7 +22795,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "604",
@@ -21633,7 +22833,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "605",
@@ -21669,7 +22871,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "606",
@@ -21705,7 +22909,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "607",
@@ -21741,7 +22947,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "608",
@@ -21777,7 +22985,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "609",
@@ -21813,7 +23023,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "610",
@@ -21849,7 +23061,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "611",
@@ -21885,7 +23099,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "612",
@@ -21921,7 +23137,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "613",
@@ -21957,7 +23175,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "614",
@@ -21993,7 +23213,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "615",
@@ -22029,7 +23251,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "616",
@@ -22065,7 +23289,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "617",
@@ -22101,7 +23327,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "618",
@@ -22137,7 +23365,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "619",
@@ -22173,7 +23403,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "620",
@@ -22209,7 +23441,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "621",
@@ -22245,7 +23479,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "622",
@@ -22281,7 +23517,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "623",
@@ -22317,7 +23555,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "624",
@@ -22353,7 +23593,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "625",
@@ -22389,7 +23631,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "626",
@@ -22425,7 +23669,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "627",
@@ -22461,7 +23707,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "628",
@@ -22497,7 +23745,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "629",
@@ -22533,7 +23783,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "630",
@@ -22569,7 +23821,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "631",
@@ -22605,7 +23859,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "632",
@@ -22641,7 +23897,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "633",
@@ -22677,7 +23935,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "634",
@@ -22713,7 +23973,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "635",
@@ -22749,7 +24011,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "636",
@@ -22785,7 +24049,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "637",
@@ -22821,7 +24087,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "638",
@@ -22857,7 +24125,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "639",
@@ -22893,7 +24163,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "640",
@@ -22929,7 +24201,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "641",
@@ -22965,7 +24239,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "642",
@@ -23001,7 +24277,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "643",
@@ -23037,7 +24315,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "644",
@@ -23073,7 +24353,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "645",
@@ -23109,7 +24391,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "646",
@@ -23145,7 +24429,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "647",
@@ -23181,7 +24467,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "648",
@@ -23217,7 +24505,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "649",
@@ -23253,7 +24543,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "650",
@@ -23289,7 +24581,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "651",
@@ -23325,7 +24619,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "652",
@@ -23361,7 +24657,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "653",
@@ -23397,7 +24695,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "654",
@@ -23433,7 +24733,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "655",
@@ -23469,7 +24771,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "656",
@@ -23505,7 +24809,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "657",
@@ -23541,7 +24847,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "658",
@@ -23577,7 +24885,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "659",
@@ -23613,7 +24923,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "660",
@@ -23649,7 +24961,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "661",
@@ -23685,7 +24999,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "662",
@@ -23721,7 +25037,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "663",
@@ -23757,7 +25075,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "664",
@@ -23793,7 +25113,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "665",
@@ -23829,7 +25151,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "666",
@@ -23865,7 +25189,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "667",
@@ -23901,7 +25227,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "668",
@@ -23937,7 +25265,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "669",
@@ -23973,7 +25303,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "671",
@@ -24009,7 +25341,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "672",
@@ -24045,7 +25379,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "673",
@@ -24081,7 +25417,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "674",
@@ -24117,7 +25455,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "675",
@@ -24153,7 +25493,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "676",
@@ -24189,7 +25531,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "677",
@@ -24225,7 +25569,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "678",
@@ -24261,7 +25607,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "679",
@@ -24297,7 +25645,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "680",
@@ -24333,7 +25683,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "681",
@@ -24369,7 +25721,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "682",
@@ -24405,7 +25759,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "683",
@@ -24441,7 +25797,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "684",
@@ -24477,7 +25835,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "685",
@@ -24513,7 +25873,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "686",
@@ -24549,7 +25911,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "687",
@@ -24585,7 +25949,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "688",
@@ -24621,7 +25987,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "689",
@@ -24657,7 +26025,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "690",
@@ -24693,7 +26063,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "691",
@@ -24729,7 +26101,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "692",
@@ -24765,7 +26139,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "693",
@@ -24801,7 +26177,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "694",
@@ -24837,7 +26215,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "695",
@@ -24873,7 +26253,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "696",
@@ -24909,7 +26291,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "697",
@@ -24945,7 +26329,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "698",
@@ -24981,7 +26367,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "699",
@@ -25017,7 +26405,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "700",
@@ -25053,7 +26443,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "701",
@@ -25089,7 +26481,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "702",
@@ -25125,7 +26519,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "703",
@@ -25161,7 +26557,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "704",
@@ -25197,7 +26595,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "705",
@@ -25233,7 +26633,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "706",
@@ -25269,7 +26671,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "707",
@@ -25305,7 +26709,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "708",
@@ -25341,7 +26747,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "709",
@@ -25377,7 +26785,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "710",
@@ -25413,7 +26823,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "711",
@@ -25449,7 +26861,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "712",
@@ -25485,7 +26899,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "713",
@@ -25521,7 +26937,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "714",
@@ -25557,7 +26975,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "715",
@@ -25593,7 +27013,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "716",
@@ -25629,7 +27051,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "717",
@@ -25665,7 +27089,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "718",
@@ -25701,7 +27127,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "719",
@@ -25737,7 +27165,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "720",
@@ -25773,7 +27203,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "721",
@@ -25809,7 +27241,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "722",
@@ -25845,7 +27279,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "723",
@@ -25881,7 +27317,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "724",
@@ -25917,7 +27355,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "725",
@@ -25953,7 +27393,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "726",
@@ -25989,7 +27431,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "727",
@@ -26025,7 +27469,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "728",
@@ -26061,7 +27507,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "729",
@@ -26097,7 +27545,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "730",
@@ -26133,7 +27583,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "731",
@@ -26169,7 +27621,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "732",
@@ -26205,7 +27659,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "733",
@@ -26241,7 +27697,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "734",
@@ -26277,7 +27735,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "735",
@@ -26313,7 +27773,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "736",
@@ -26349,7 +27811,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "737",
@@ -26385,7 +27849,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "738",
@@ -26421,7 +27887,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "739",
@@ -26457,7 +27925,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "740",
@@ -26493,7 +27963,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "741",
@@ -26529,7 +28001,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "742",
@@ -26565,7 +28039,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "743",
@@ -26601,7 +28077,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "744",
@@ -26637,7 +28115,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "745",
@@ -26673,7 +28153,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "746",
@@ -26709,7 +28191,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "747",
@@ -26745,7 +28229,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "748",
@@ -26781,7 +28267,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "749",
@@ -26817,7 +28305,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "750",
@@ -26853,7 +28343,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "751",
@@ -26889,7 +28381,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "752",
@@ -26925,7 +28419,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "753",
@@ -26961,7 +28457,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "754",
@@ -26997,7 +28495,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "755",
@@ -27033,7 +28533,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "756",
@@ -27069,7 +28571,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "757",
@@ -27105,7 +28609,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "758",
@@ -27141,7 +28647,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "759",
@@ -27177,7 +28685,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "760",
@@ -27213,7 +28723,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "761",
@@ -27249,7 +28761,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "762",
@@ -27285,7 +28799,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "763",
@@ -27321,7 +28837,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "764",
@@ -27357,7 +28875,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "765",
@@ -27393,7 +28913,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "766",
@@ -27429,7 +28951,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "767",
@@ -27465,7 +28989,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "768",
@@ -27501,7 +29027,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "769",
@@ -27537,7 +29065,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "770",
@@ -27573,7 +29103,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "771",
@@ -27609,7 +29141,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "772",
@@ -27645,7 +29179,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "773",
@@ -27681,7 +29217,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "774",
@@ -27717,7 +29255,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "775",
@@ -27753,7 +29293,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "776",
@@ -27789,7 +29331,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "777",
@@ -27825,7 +29369,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "778",
@@ -27861,7 +29407,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "779",
@@ -27897,7 +29445,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "780",
@@ -27933,7 +29483,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "781",
@@ -27969,7 +29521,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "782",
@@ -28005,7 +29559,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "783",
@@ -28041,7 +29597,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "784",
@@ -28077,7 +29635,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "785",
@@ -28113,7 +29673,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "786",
@@ -28149,7 +29711,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "787",
@@ -28185,7 +29749,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "788",
@@ -28221,7 +29787,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "789",
@@ -28257,7 +29825,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "790",
@@ -28293,7 +29863,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "791",
@@ -28329,7 +29901,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "792",
@@ -28365,7 +29939,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "793",
@@ -28401,7 +29977,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "794",
@@ -28437,7 +30015,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "795",
@@ -28473,7 +30053,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "796",
@@ -28509,7 +30091,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "797",
@@ -28545,7 +30129,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "798",
@@ -28581,7 +30167,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "799",
@@ -28617,7 +30205,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "800",
@@ -28653,7 +30243,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "801",
@@ -28689,7 +30281,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "802",
@@ -28725,7 +30319,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "803",
@@ -28761,7 +30357,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "804",
@@ -28797,7 +30395,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "805",
@@ -28833,7 +30433,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "806",
@@ -28869,7 +30471,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "807",
@@ -28905,7 +30509,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "808",
@@ -28941,7 +30547,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "809",
@@ -28977,7 +30585,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "810",
@@ -29013,7 +30623,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "811",
@@ -29049,7 +30661,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "812",
@@ -29085,7 +30699,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "813",
@@ -29121,7 +30737,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "20",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "814",
@@ -29157,7 +30775,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "815",
@@ -29193,7 +30813,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "816",
@@ -29229,7 +30851,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "817",
@@ -29265,7 +30889,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "818",
@@ -29301,7 +30927,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "819",
@@ -29337,7 +30965,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "820",
@@ -29373,7 +31003,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "821",
@@ -29409,7 +31041,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "822",
@@ -29445,7 +31079,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "823",
@@ -29481,7 +31117,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "824",
@@ -29517,7 +31155,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "825",
@@ -29553,7 +31193,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "826",
@@ -29589,7 +31231,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "827",
@@ -29625,7 +31269,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "828",
@@ -29661,7 +31307,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "829",
@@ -29697,7 +31345,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "830",
@@ -29733,7 +31383,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "831",
@@ -29769,7 +31421,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "832",
@@ -29805,7 +31459,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "833",
@@ -29841,7 +31497,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "834",
@@ -29877,7 +31535,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "835",
@@ -29913,7 +31573,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "836",
@@ -29949,7 +31611,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "837",
@@ -29985,7 +31649,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "838",
@@ -30021,7 +31687,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "839",
@@ -30057,7 +31725,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "840",
@@ -30093,7 +31763,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "841",
@@ -30129,7 +31801,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "842",
@@ -30165,7 +31839,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "843",
@@ -30201,7 +31877,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "844",
@@ -30237,7 +31915,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "845",
@@ -30273,7 +31953,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "846",
@@ -30309,7 +31991,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "847",
@@ -30345,7 +32029,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "848",
@@ -30381,7 +32067,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "849",
@@ -30417,7 +32105,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "850",
@@ -30453,7 +32143,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "851",
@@ -30489,7 +32181,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "852",
@@ -30525,7 +32219,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "853",
@@ -30561,7 +32257,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "854",
@@ -30597,7 +32295,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "855",
@@ -30633,7 +32333,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "856",
@@ -30669,7 +32371,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "857",
@@ -30705,7 +32409,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "858",
@@ -30741,7 +32447,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "859",
@@ -30777,7 +32485,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "860",
@@ -30813,7 +32523,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "861",
@@ -30849,7 +32561,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "862",
@@ -30885,7 +32599,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "863",
@@ -30921,7 +32637,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "864",
@@ -30957,7 +32675,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "865",
@@ -30993,7 +32713,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "866",
@@ -31029,7 +32751,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "867",
@@ -31065,7 +32789,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "868",
@@ -31101,7 +32827,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "869",
@@ -31137,7 +32865,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "870",
@@ -31173,7 +32903,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "871",
@@ -31209,7 +32941,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "872",
@@ -31245,7 +32979,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "873",
@@ -31281,7 +33017,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "874",
@@ -31317,7 +33055,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "875",
@@ -31353,7 +33093,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "876",
@@ -31389,7 +33131,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "877",
@@ -31425,7 +33169,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "878",
@@ -31461,7 +33207,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "879",
@@ -31497,7 +33245,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "880",
@@ -31533,7 +33283,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "881",
@@ -31569,7 +33321,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "882",
@@ -31605,7 +33359,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "883",
@@ -31641,7 +33397,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "884",
@@ -31677,7 +33435,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "885",
@@ -31713,7 +33473,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "886",
@@ -31749,7 +33511,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "887",
@@ -31785,7 +33549,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "888",
@@ -31821,7 +33587,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "889",
@@ -31857,7 +33625,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "890",
@@ -31893,7 +33663,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "891",
@@ -31929,7 +33701,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "892",
@@ -31965,7 +33739,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "893",
@@ -32001,7 +33777,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "894",
@@ -32037,7 +33815,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "895",
@@ -32073,7 +33853,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "896",
@@ -32109,7 +33891,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "897",
@@ -32145,7 +33929,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "898",
@@ -32181,7 +33967,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "899",
@@ -32217,7 +34005,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "900",
@@ -32253,7 +34043,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "901",
@@ -32289,7 +34081,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "902",
@@ -32325,7 +34119,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "903",
@@ -32361,7 +34157,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "904",
@@ -32397,7 +34195,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "905",
@@ -32433,7 +34233,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "906",
@@ -32469,7 +34271,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "907",
@@ -32505,7 +34309,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "908",
@@ -32541,7 +34347,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "909",
@@ -32577,7 +34385,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "910",
@@ -32613,7 +34423,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "911",
@@ -32649,7 +34461,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "912",
@@ -32685,7 +34499,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "913",
@@ -32721,7 +34537,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "914",
@@ -32757,7 +34575,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "915",
@@ -32793,7 +34613,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "916",
@@ -32829,7 +34651,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "917",
@@ -32865,7 +34689,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "918",
@@ -32901,7 +34727,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "919",
@@ -32937,7 +34765,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "920",
@@ -32973,7 +34803,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "921",
@@ -33009,7 +34841,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "923",
@@ -33045,7 +34879,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "924",
@@ -33081,7 +34917,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "925",
@@ -33117,7 +34955,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "926",
@@ -33153,7 +34993,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "927",
@@ -33189,7 +35031,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "928",
@@ -33225,7 +35069,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "929",
@@ -33261,7 +35107,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "930",
@@ -33297,7 +35145,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "931",
@@ -33333,7 +35183,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "932",
@@ -33369,7 +35221,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "933",
@@ -33405,7 +35259,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "934",
@@ -33441,7 +35297,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "935",
@@ -33477,7 +35335,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "936",
@@ -33513,7 +35373,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "937",
@@ -33549,7 +35411,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "938",
@@ -33585,7 +35449,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "939",
@@ -33621,7 +35487,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "940",
@@ -33657,7 +35525,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "941",
@@ -33693,7 +35563,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "942",
@@ -33729,7 +35601,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "943",
@@ -33765,7 +35639,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "944",
@@ -33801,7 +35677,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "945",
@@ -33837,7 +35715,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "946",
@@ -33873,7 +35753,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "947",
@@ -33909,7 +35791,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "948",
@@ -33945,7 +35829,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "949",
@@ -33981,7 +35867,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "950",
@@ -34017,7 +35905,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "951",
@@ -34053,7 +35943,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "952",
@@ -34089,7 +35981,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "953",
@@ -34125,7 +36019,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "954",
@@ -34161,7 +36057,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "955",
@@ -34197,7 +36095,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "956",
@@ -34233,7 +36133,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "957",
@@ -34269,7 +36171,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "958",
@@ -34305,7 +36209,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "959",
@@ -34341,7 +36247,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "960",
@@ -34377,7 +36285,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "961",
@@ -34413,7 +36323,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "962",
@@ -34449,7 +36361,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "963",
@@ -34485,7 +36399,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "964",
@@ -34521,7 +36437,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "965",
@@ -34557,7 +36475,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "966",
@@ -34593,7 +36513,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "967",
@@ -34629,7 +36551,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "968",
@@ -34665,7 +36589,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "969",
@@ -34701,7 +36627,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "970",
@@ -34737,7 +36665,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "971",
@@ -34773,7 +36703,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "972",
@@ -34809,7 +36741,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "973",
@@ -34845,7 +36779,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "974",
@@ -34881,7 +36817,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "975",
@@ -34917,7 +36855,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "80",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "976",
@@ -34953,7 +36893,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "977",
@@ -34989,7 +36931,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "978",
@@ -35025,7 +36969,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "979",
@@ -35061,7 +37007,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "980",
@@ -35097,7 +37045,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "981",
@@ -35133,7 +37083,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "982",
@@ -35169,7 +37121,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "983",
@@ -35205,7 +37159,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "984",
@@ -35241,7 +37197,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "985",
@@ -35277,7 +37235,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "20",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "986",
@@ -35313,7 +37273,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "20",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "987",
@@ -35349,7 +37311,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "988",
@@ -35385,7 +37349,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "989",
@@ -35421,7 +37387,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "990",
@@ -35457,7 +37425,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "991",
@@ -35493,7 +37463,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "992",
@@ -35529,7 +37501,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "993",
@@ -35565,7 +37539,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "994",
@@ -35601,7 +37577,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "995",
@@ -35637,7 +37615,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "996",
@@ -35673,7 +37653,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "997",
@@ -35709,7 +37691,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "998",
@@ -35745,7 +37729,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "999",
@@ -35781,7 +37767,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1000",
@@ -35817,7 +37805,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1001",
@@ -35853,7 +37843,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1002",
@@ -35889,7 +37881,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1003",
@@ -35925,7 +37919,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1004",
@@ -35961,7 +37957,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1005",
@@ -35997,7 +37995,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1006",
@@ -36033,7 +38033,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1007",
@@ -36069,7 +38071,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1008",
@@ -36105,7 +38109,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1009",
@@ -36141,7 +38147,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1010",
@@ -36177,7 +38185,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1012",
@@ -36213,7 +38223,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1013",
@@ -36249,7 +38261,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1014",
@@ -36285,7 +38299,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1015",
@@ -36321,7 +38337,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "80",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1016",
@@ -36357,7 +38375,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1017",
@@ -36393,7 +38413,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1018",
@@ -36429,7 +38451,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1019",
@@ -36465,7 +38489,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1020",
@@ -36501,7 +38527,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1021",
@@ -36537,7 +38565,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1022",
@@ -36573,7 +38603,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1023",
@@ -36609,7 +38641,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1024",
@@ -36645,7 +38679,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1025",
@@ -36681,7 +38717,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1026",
@@ -36717,7 +38755,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1027",
@@ -36753,7 +38793,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1028",
@@ -36789,7 +38831,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "30",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1029",
@@ -36825,7 +38869,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "30",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1030",
@@ -36861,7 +38907,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "30",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1031",
@@ -36897,7 +38945,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1032",
@@ -36933,7 +38983,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "30",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1033",
@@ -36969,7 +39021,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1034",
@@ -37005,7 +39059,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1035",
@@ -37041,7 +39097,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1036",
@@ -37077,7 +39135,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1037",
@@ -37113,7 +39173,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1038",
@@ -37149,7 +39211,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1039",
@@ -37185,7 +39249,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1040",
@@ -37221,7 +39287,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1041",
@@ -37257,7 +39325,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1042",
@@ -37293,7 +39363,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1043",
@@ -37329,7 +39401,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1044",
@@ -37365,7 +39439,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1045",
@@ -37401,7 +39477,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1046",
@@ -37437,7 +39515,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1047",
@@ -37473,7 +39553,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1048",
@@ -37509,7 +39591,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1049",
@@ -37545,7 +39629,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1050",
@@ -37581,7 +39667,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1051",
@@ -37617,7 +39705,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1052",
@@ -37653,7 +39743,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1053",
@@ -37689,7 +39781,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1054",
@@ -37725,7 +39819,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1055",
@@ -37761,7 +39857,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1056",
@@ -37797,7 +39895,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1057",
@@ -37833,7 +39933,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1058",
@@ -37869,7 +39971,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1059",
@@ -37905,7 +40009,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1060",
@@ -37941,7 +40047,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1061",
@@ -37977,7 +40085,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1062",
@@ -38013,7 +40123,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1063",
@@ -38049,7 +40161,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1064",
@@ -38085,7 +40199,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1065",
@@ -38121,7 +40237,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1066",
@@ -38157,7 +40275,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1067",
@@ -38193,7 +40313,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1068",
@@ -38229,7 +40351,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1069",
@@ -38265,7 +40389,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1070",
@@ -38301,7 +40427,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1071",
@@ -38337,7 +40465,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1072",
@@ -38373,7 +40503,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1073",
@@ -38409,7 +40541,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1074",
@@ -38445,7 +40579,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1075",
@@ -38481,7 +40617,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1076",
@@ -38517,7 +40655,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1077",
@@ -38553,7 +40693,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1078",
@@ -38589,7 +40731,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1079",
@@ -38625,7 +40769,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1080",
@@ -38661,7 +40807,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1081",
@@ -38697,7 +40845,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1082",
@@ -38733,7 +40883,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1083",
@@ -38769,7 +40921,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1084",
@@ -38805,7 +40959,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1085",
@@ -38841,7 +40997,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1086",
@@ -38877,7 +41035,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1087",
@@ -38913,7 +41073,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1088",
@@ -38949,7 +41111,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1089",
@@ -38985,7 +41149,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1090",
@@ -39021,7 +41187,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1091",
@@ -39057,7 +41225,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1092",
@@ -39093,7 +41263,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1093",
@@ -39129,7 +41301,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1094",
@@ -39165,7 +41339,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1095",
@@ -39201,7 +41377,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1096",
@@ -39237,7 +41415,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1097",
@@ -39273,7 +41453,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1098",
@@ -39309,7 +41491,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1099",
@@ -39345,7 +41529,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1100",
@@ -39381,7 +41567,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1101",
@@ -39417,7 +41605,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1102",
@@ -39453,7 +41643,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1103",
@@ -39489,7 +41681,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1104",
@@ -39525,7 +41719,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1105",
@@ -39561,7 +41757,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1106",
@@ -39597,7 +41795,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1107",
@@ -39633,7 +41833,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1108",
@@ -39669,7 +41871,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1109",
@@ -39705,7 +41909,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1110",
@@ -39741,7 +41947,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1111",
@@ -39777,7 +41985,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1112",
@@ -39813,7 +42023,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1113",
@@ -39849,7 +42061,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1114",
@@ -39885,7 +42099,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1115",
@@ -39921,7 +42137,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1116",
@@ -39957,7 +42175,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1117",
@@ -39993,7 +42213,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1118",
@@ -40029,7 +42251,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1119",
@@ -40065,7 +42289,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1120",
@@ -40101,7 +42327,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1121",
@@ -40137,7 +42365,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1122",
@@ -40173,7 +42403,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1123",
@@ -40209,7 +42441,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1124",
@@ -40245,7 +42479,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1125",
@@ -40281,7 +42517,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1126",
@@ -40317,7 +42555,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1127",
@@ -40353,7 +42593,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1128",
@@ -40389,7 +42631,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1129",
@@ -40425,7 +42669,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1130",
@@ -40461,7 +42707,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1131",
@@ -40497,7 +42745,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1132",
@@ -40533,7 +42783,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1133",
@@ -40569,7 +42821,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1134",
@@ -40605,7 +42859,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1135",
@@ -40641,7 +42897,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1136",
@@ -40677,7 +42935,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1137",
@@ -40713,7 +42973,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1138",
@@ -40749,7 +43011,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1139",
@@ -40785,7 +43049,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1140",
@@ -40821,7 +43087,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1141",
@@ -40857,7 +43125,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1142",
@@ -40893,7 +43163,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1143",
@@ -40929,7 +43201,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1144",
@@ -40965,7 +43239,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1145",
@@ -41001,7 +43277,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1146",
@@ -41037,7 +43315,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1147",
@@ -41073,7 +43353,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1148",
@@ -41109,7 +43391,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1149",
@@ -41145,7 +43429,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1150",
@@ -41181,7 +43467,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1151",
@@ -41217,7 +43505,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1152",
@@ -41253,7 +43543,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1153",
@@ -41289,7 +43581,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1154",
@@ -41325,7 +43619,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1155",
@@ -41361,7 +43657,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1156",
@@ -41397,7 +43695,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1157",
@@ -41433,7 +43733,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1158",
@@ -41469,7 +43771,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1159",
@@ -41505,7 +43809,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1160",
@@ -41541,7 +43847,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1161",
@@ -41577,7 +43885,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1162",
@@ -41613,7 +43923,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1163",
@@ -41649,7 +43961,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1164",
@@ -41685,7 +43999,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1165",
@@ -41721,7 +44037,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1166",
@@ -41757,7 +44075,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1167",
@@ -41793,7 +44113,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1168",
@@ -41829,7 +44151,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1169",
@@ -41865,7 +44189,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1170",
@@ -41901,7 +44227,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1171",
@@ -41937,7 +44265,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1172",
@@ -41973,7 +44303,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1173",
@@ -42009,7 +44341,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1174",
@@ -42045,7 +44379,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1175",
@@ -42081,7 +44417,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1176",
@@ -42117,7 +44455,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1177",
@@ -42153,7 +44493,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1178",
@@ -42189,7 +44531,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1179",
@@ -42225,7 +44569,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1180",
@@ -42261,7 +44607,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1181",
@@ -42297,7 +44645,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1182",
@@ -42333,7 +44683,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1183",
@@ -42369,7 +44721,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1184",
@@ -42405,7 +44759,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1185",
@@ -42441,7 +44797,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1186",
@@ -42477,7 +44835,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1187",
@@ -42513,7 +44873,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1188",
@@ -42549,7 +44911,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1189",
@@ -42585,7 +44949,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1190",
@@ -42621,7 +44987,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1191",
@@ -42657,7 +45025,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1192",
@@ -42693,7 +45063,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1193",
@@ -42729,7 +45101,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1194",
@@ -42765,7 +45139,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1195",
@@ -42801,7 +45177,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1196",
@@ -42837,7 +45215,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1197",
@@ -42873,7 +45253,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1198",
@@ -42909,7 +45291,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1199",
@@ -42945,7 +45329,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1200",
@@ -42981,7 +45367,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1201",
@@ -43017,7 +45405,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1202",
@@ -43053,7 +45443,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1203",
@@ -43089,7 +45481,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1204",
@@ -43125,7 +45519,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1205",
@@ -43161,7 +45557,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1206",
@@ -43197,7 +45595,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1207",
@@ -43233,7 +45633,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1208",
@@ -43269,7 +45671,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1209",
@@ -43305,7 +45709,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1210",
@@ -43341,7 +45747,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1211",
@@ -43377,7 +45785,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1212",
@@ -43413,7 +45823,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1213",
@@ -43449,7 +45861,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1214",
@@ -43485,7 +45899,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1215",
@@ -43521,7 +45937,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1216",
@@ -43557,7 +45975,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1217",
@@ -43593,7 +46013,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1218",
@@ -43629,7 +46051,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1219",
@@ -43665,7 +46089,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "60",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1220",
@@ -43701,7 +46127,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1221",
@@ -43737,7 +46165,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1222",
@@ -43773,7 +46203,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1223",
@@ -43809,7 +46241,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1224",
@@ -43845,7 +46279,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1225",
@@ -43881,7 +46317,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1226",
@@ -43917,7 +46355,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1227",
@@ -43953,7 +46393,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1228",
@@ -43989,7 +46431,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1229",
@@ -44025,7 +46469,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1230",
@@ -44061,7 +46507,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1231",
@@ -44097,7 +46545,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1232",
@@ -44133,7 +46583,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1233",
@@ -44169,7 +46621,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1234",
@@ -44205,7 +46659,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1235",
@@ -44241,7 +46697,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1236",
@@ -44277,7 +46735,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1237",
@@ -44313,7 +46773,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1238",
@@ -44349,7 +46811,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1239",
@@ -44385,7 +46849,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1240",
@@ -44421,7 +46887,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1241",
@@ -44457,7 +46925,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1242",
@@ -44493,7 +46963,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1243",
@@ -44529,7 +47001,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1244",
@@ -44565,7 +47039,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1245",
@@ -44601,7 +47077,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1246",
@@ -44637,7 +47115,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1247",
@@ -44673,7 +47153,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1248",
@@ -44709,7 +47191,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1249",
@@ -44745,7 +47229,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1250",
@@ -44781,7 +47267,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1251",
@@ -44817,7 +47305,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1252",
@@ -44853,7 +47343,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1253",
@@ -44889,7 +47381,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1254",
@@ -44925,7 +47419,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1255",
@@ -44961,7 +47457,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1256",
@@ -44997,7 +47495,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1257",
@@ -45033,7 +47533,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1258",
@@ -45069,7 +47571,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1259",
@@ -45105,7 +47609,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1260",
@@ -45141,7 +47647,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1261",
@@ -45177,7 +47685,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1262",
@@ -45213,7 +47723,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1263",
@@ -45249,7 +47761,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1264",
@@ -45285,7 +47799,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "30",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1265",
@@ -45321,7 +47837,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1266",
@@ -45357,7 +47875,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1267",
@@ -45393,7 +47913,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1268",
@@ -45429,7 +47951,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1269",
@@ -45465,7 +47989,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1270",
@@ -45501,7 +48027,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1271",
@@ -45537,7 +48065,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1272",
@@ -45573,7 +48103,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1273",
@@ -45609,7 +48141,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1274",
@@ -45645,7 +48179,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1275",
@@ -45681,7 +48217,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1276",
@@ -45717,7 +48255,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1277",
@@ -45753,7 +48293,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1278",
@@ -45789,7 +48331,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1279",
@@ -45825,7 +48369,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1280",
@@ -45861,7 +48407,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1281",
@@ -45897,7 +48445,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1282",
@@ -45933,7 +48483,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1283",
@@ -45969,7 +48521,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1284",
@@ -46005,7 +48559,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1285",
@@ -46041,7 +48597,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1286",
@@ -46077,7 +48635,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1287",
@@ -46113,7 +48673,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1288",
@@ -46149,7 +48711,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1289",
@@ -46185,7 +48749,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1290",
@@ -46221,7 +48787,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1291",
@@ -46257,7 +48825,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1292",
@@ -46293,7 +48863,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1293",
@@ -46329,7 +48901,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1294",
@@ -46365,7 +48939,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1295",
@@ -46401,7 +48977,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1296",
@@ -46437,7 +49015,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1297",
@@ -46473,7 +49053,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1298",
@@ -46509,7 +49091,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "20",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1299",
@@ -46545,7 +49129,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1300",
@@ -46581,7 +49167,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1301",
@@ -46617,7 +49205,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1302",
@@ -46653,7 +49243,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1303",
@@ -46689,7 +49281,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "40",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1304",
@@ -46725,7 +49319,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1305",
@@ -46761,7 +49357,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1306",
@@ -46797,7 +49395,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1307",
@@ -46833,7 +49433,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1308",
@@ -46869,7 +49471,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "20",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1309",
@@ -46905,7 +49509,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1310",
@@ -46941,7 +49547,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1311",
@@ -46977,7 +49585,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1312",
@@ -47013,7 +49623,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1313",
@@ -47049,7 +49661,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1314",
@@ -47085,7 +49699,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1315",
@@ -47121,7 +49737,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1316",
@@ -47157,7 +49775,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1317",
@@ -47193,7 +49813,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1318",
@@ -47229,7 +49851,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1319",
@@ -47265,7 +49889,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1320",
@@ -47301,7 +49927,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1321",
@@ -47337,7 +49965,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1322",
@@ -47373,7 +50003,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1323",
@@ -47409,7 +50041,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1324",
@@ -47445,7 +50079,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "55",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1325",
@@ -47481,7 +50117,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1326",
@@ -47517,7 +50155,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1327",
@@ -47553,7 +50193,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1328",
@@ -47589,7 +50231,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1329",
@@ -47625,7 +50269,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1330",
@@ -47661,7 +50307,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1331",
@@ -47697,7 +50345,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1332",
@@ -47733,7 +50383,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1333",
@@ -47769,7 +50421,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1334",
@@ -47805,7 +50459,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1335",
@@ -47841,7 +50497,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1336",
@@ -47877,7 +50535,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1337",
@@ -47913,7 +50573,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1338",
@@ -47949,7 +50611,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1339",
@@ -47985,7 +50649,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1340",
@@ -48021,7 +50687,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1341",
@@ -48057,7 +50725,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1342",
@@ -48093,7 +50763,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1343",
@@ -48129,7 +50801,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1344",
@@ -48165,7 +50839,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1345",
@@ -48201,7 +50877,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1346",
@@ -48237,7 +50915,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1347",
@@ -48273,7 +50953,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1348",
@@ -48309,7 +50991,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1349",
@@ -48345,7 +51029,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1350",
@@ -48381,7 +51067,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1351",
@@ -48417,7 +51105,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1352",
@@ -48453,7 +51143,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1353",
@@ -48489,7 +51181,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1354",
@@ -48525,7 +51219,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1355",
@@ -48561,7 +51257,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1356",
@@ -48597,7 +51295,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1357",
@@ -48633,7 +51333,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1358",
@@ -48669,7 +51371,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1359",
@@ -48705,7 +51409,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1360",
@@ -48741,7 +51447,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1361",
@@ -48777,7 +51485,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "80",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1362",
@@ -48813,7 +51523,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1363",
@@ -48849,7 +51561,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1364",
@@ -48885,7 +51599,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1365",
@@ -48921,7 +51637,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1366",
@@ -48957,7 +51675,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1367",
@@ -48993,7 +51713,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1368",
@@ -49029,7 +51751,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1369",
@@ -49065,7 +51789,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1370",
@@ -49101,7 +51827,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1371",
@@ -49137,7 +51865,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1372",
@@ -49173,7 +51903,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1373",
@@ -49209,7 +51941,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1374",
@@ -49245,7 +51979,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1375",
@@ -49281,7 +52017,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1376",
@@ -49317,7 +52055,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1377",
@@ -49353,7 +52093,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1378",
@@ -49389,7 +52131,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1379",
@@ -49425,7 +52169,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1380",
@@ -49461,7 +52207,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1381",
@@ -49497,7 +52245,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1382",
@@ -49533,7 +52283,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1383",
@@ -49569,7 +52321,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1384",
@@ -49605,7 +52359,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1385",
@@ -49641,7 +52397,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1386",
@@ -49677,7 +52435,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1387",
@@ -49713,7 +52473,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1388",
@@ -49749,7 +52511,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1389",
@@ -49785,7 +52549,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1390",
@@ -49821,7 +52587,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1391",
@@ -49857,7 +52625,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "55",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1392",
@@ -49893,7 +52663,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1393",
@@ -49929,7 +52701,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1394",
@@ -49965,7 +52739,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1395",
@@ -50001,7 +52777,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1396",
@@ -50037,7 +52815,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1397",
@@ -50073,7 +52853,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1398",
@@ -50109,7 +52891,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1399",
@@ -50145,7 +52929,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1400",
@@ -50181,7 +52967,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1401",
@@ -50217,7 +53005,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1402",
@@ -50253,7 +53043,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1403",
@@ -50289,7 +53081,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1404",
@@ -50325,7 +53119,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1405",
@@ -50361,7 +53157,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1406",
@@ -50397,7 +53195,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1407",
@@ -50433,7 +53233,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1408",
@@ -50469,7 +53271,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1409",
@@ -50505,7 +53309,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1410",
@@ -50541,7 +53347,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1411",
@@ -50577,7 +53385,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1412",
@@ -50613,7 +53423,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1413",
@@ -50649,7 +53461,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1414",
@@ -50685,7 +53499,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1415",
@@ -50721,7 +53537,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1416",
@@ -50757,7 +53575,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1417",
@@ -50793,7 +53613,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1418",
@@ -50829,7 +53651,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1419",
@@ -50865,7 +53689,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1420",
@@ -50901,7 +53727,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1421",
@@ -50937,7 +53765,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1422",
@@ -50973,7 +53803,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1423",
@@ -51009,7 +53841,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1424",
@@ -51045,7 +53879,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1425",
@@ -51081,7 +53917,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1426",
@@ -51117,7 +53955,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1427",
@@ -51153,7 +53993,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1428",
@@ -51189,7 +54031,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1429",
@@ -51225,7 +54069,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1430",
@@ -51261,7 +54107,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1431",
@@ -51297,7 +54145,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1432",
@@ -51333,7 +54183,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1433",
@@ -51369,7 +54221,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1434",
@@ -51405,7 +54259,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1435",
@@ -51441,7 +54297,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1436",
@@ -51477,7 +54335,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1437",
@@ -51513,7 +54373,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1438",
@@ -51549,7 +54411,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1439",
@@ -51585,7 +54449,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1440",
@@ -51621,7 +54487,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1441",
@@ -51657,7 +54525,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1442",
@@ -51693,7 +54563,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1443",
@@ -51729,7 +54601,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1444",
@@ -51765,7 +54639,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1445",
@@ -51801,7 +54677,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1446",
@@ -51837,7 +54715,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1447",
@@ -51873,7 +54753,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1448",
@@ -51909,7 +54791,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1449",
@@ -51945,7 +54829,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1450",
@@ -51981,7 +54867,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1451",
@@ -52017,7 +54905,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1452",
@@ -52053,7 +54943,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1453",
@@ -52089,7 +54981,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1454",
@@ -52125,7 +55019,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1455",
@@ -52161,7 +55057,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1456",
@@ -52197,7 +55095,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1457",
@@ -52233,7 +55133,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1458",
@@ -52269,7 +55171,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1459",
@@ -52305,7 +55209,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1460",
@@ -52341,7 +55247,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1461",
@@ -52377,7 +55285,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1462",
@@ -52413,7 +55323,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1463",
@@ -52449,7 +55361,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1464",
@@ -52485,7 +55399,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1465",
@@ -52521,7 +55437,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1466",
@@ -52557,7 +55475,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1467",
@@ -52593,7 +55513,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1468",
@@ -52629,7 +55551,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1469",
@@ -52665,7 +55589,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1470",
@@ -52701,7 +55627,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1471",
@@ -52737,7 +55665,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1472",
@@ -52773,7 +55703,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1473",
@@ -52809,7 +55741,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1474",
@@ -52845,7 +55779,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1475",
@@ -52881,7 +55817,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1476",
@@ -52917,7 +55855,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1477",
@@ -52953,7 +55893,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1478",
@@ -52989,7 +55931,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1479",
@@ -53025,7 +55969,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1480",
@@ -53061,7 +56007,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1481",
@@ -53097,7 +56045,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1482",
@@ -53133,7 +56083,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1483",
@@ -53169,7 +56121,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1484",
@@ -53205,7 +56159,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1485",
@@ -53241,7 +56197,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1486",
@@ -53277,7 +56235,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1487",
@@ -53313,7 +56273,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1488",
@@ -53349,7 +56311,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1489",
@@ -53385,7 +56349,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1490",
@@ -53421,7 +56387,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1491",
@@ -53457,7 +56425,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1492",
@@ -53493,7 +56463,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1493",
@@ -53529,7 +56501,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1494",
@@ -53565,7 +56539,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1495",
@@ -53601,7 +56577,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1496",
@@ -53637,7 +56615,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1497",
@@ -53673,7 +56653,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1498",
@@ -53709,7 +56691,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1499",
@@ -53745,7 +56729,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1500",
@@ -53781,7 +56767,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1501",
@@ -53817,7 +56805,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1502",
@@ -53853,7 +56843,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1503",
@@ -53889,7 +56881,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1504",
@@ -53925,7 +56919,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1505",
@@ -53961,7 +56957,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1506",
@@ -53997,7 +56995,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1507",
@@ -54033,7 +57033,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1508",
@@ -54069,7 +57071,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1509",
@@ -54105,7 +57109,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1510",
@@ -54141,7 +57147,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1511",
@@ -54177,7 +57185,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1512",
@@ -54213,7 +57223,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1513",
@@ -54249,7 +57261,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1514",
@@ -54285,7 +57299,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1515",
@@ -54321,7 +57337,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1516",
@@ -54357,7 +57375,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1517",
@@ -54393,7 +57413,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "30",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1518",
@@ -54429,7 +57451,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1519",
@@ -54465,7 +57489,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1520",
@@ -54501,7 +57527,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1521",
@@ -54537,7 +57565,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1522",
@@ -54573,7 +57603,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1523",
@@ -54609,7 +57641,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1524",
@@ -54645,7 +57679,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1525",
@@ -54681,7 +57717,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1526",
@@ -54717,7 +57755,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1527",
@@ -54753,7 +57793,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1528",
@@ -54789,7 +57831,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1529",
@@ -54825,7 +57869,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1530",
@@ -54861,7 +57907,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1531",
@@ -54897,7 +57945,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1532",
@@ -54933,7 +57983,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1533",
@@ -54969,7 +58021,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1534",
@@ -55005,7 +58059,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1535",
@@ -55041,7 +58097,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1536",
@@ -55077,7 +58135,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1537",
@@ -55113,7 +58173,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1538",
@@ -55149,7 +58211,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1539",
@@ -55185,7 +58249,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1540",
@@ -55221,7 +58287,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1541",
@@ -55257,7 +58325,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1542",
@@ -55293,7 +58363,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1543",
@@ -55329,7 +58401,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1544",
@@ -55365,7 +58439,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1545",
@@ -55401,7 +58477,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1546",
@@ -55437,7 +58515,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1547",
@@ -55473,7 +58553,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1548",
@@ -55509,7 +58591,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1549",
@@ -55545,7 +58629,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1550",
@@ -55581,7 +58667,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1551",
@@ -55617,7 +58705,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1552",
@@ -55653,7 +58743,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1553",
@@ -55689,7 +58781,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1554",
@@ -55725,7 +58819,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1555",
@@ -55761,7 +58857,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1556",
@@ -55797,7 +58895,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1557",
@@ -55833,7 +58933,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1558",
@@ -55869,7 +58971,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1559",
@@ -55905,7 +59009,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1560",
@@ -55941,7 +59047,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1561",
@@ -55977,7 +59085,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1562",
@@ -56013,7 +59123,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1563",
@@ -56049,7 +59161,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1564",
@@ -56085,7 +59199,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1565",
@@ -56121,7 +59237,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1566",
@@ -56157,7 +59275,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1567",
@@ -56193,7 +59313,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1568",
@@ -56229,7 +59351,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1569",
@@ -56265,7 +59389,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1570",
@@ -56301,7 +59427,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1571",
@@ -56337,7 +59465,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1572",
@@ -56373,7 +59503,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1573",
@@ -56409,7 +59541,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1574",
@@ -56445,7 +59579,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1575",
@@ -56481,7 +59617,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1576",
@@ -56517,7 +59655,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1577",
@@ -56553,7 +59693,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1578",
@@ -56589,7 +59731,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1579",
@@ -56625,7 +59769,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1580",
@@ -56661,7 +59807,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1581",
@@ -56697,7 +59845,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1582",
@@ -56733,7 +59883,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1583",
@@ -56769,7 +59921,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1584",
@@ -56805,7 +59959,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1585",
@@ -56841,7 +59997,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1586",
@@ -56877,7 +60035,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1587",
@@ -56913,7 +60073,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1588",
@@ -56949,7 +60111,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1589",
@@ -56985,7 +60149,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1590",
@@ -57021,7 +60187,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1591",
@@ -57057,7 +60225,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1592",
@@ -57093,7 +60263,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1593",
@@ -57129,7 +60301,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1594",
@@ -57165,7 +60339,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1595",
@@ -57201,7 +60377,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1596",
@@ -57237,7 +60415,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1597",
@@ -57273,7 +60453,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1598",
@@ -57309,7 +60491,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1599",
@@ -57345,7 +60529,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1600",
@@ -57381,7 +60567,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1601",
@@ -57417,7 +60605,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1602",
@@ -57453,7 +60643,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1603",
@@ -57489,7 +60681,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1604",
@@ -57525,7 +60719,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1605",
@@ -57561,7 +60757,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1606",
@@ -57597,7 +60795,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1607",
@@ -57633,7 +60833,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1608",
@@ -57669,7 +60871,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1609",
@@ -57705,7 +60909,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1610",
@@ -57741,7 +60947,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1611",
@@ -57777,7 +60985,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1612",
@@ -57813,7 +61023,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1613",
@@ -57849,7 +61061,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1614",
@@ -57885,7 +61099,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1615",
@@ -57921,7 +61137,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1616",
@@ -57957,7 +61175,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1617",
@@ -57993,7 +61213,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1618",
@@ -58029,7 +61251,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1619",
@@ -58065,7 +61289,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1620",
@@ -58101,7 +61327,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1621",
@@ -58137,7 +61365,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1622",
@@ -58173,7 +61403,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1623",
@@ -58209,7 +61441,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1624",
@@ -58245,7 +61479,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1625",
@@ -58281,7 +61517,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1626",
@@ -58317,7 +61555,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1627",
@@ -58353,7 +61593,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1628",
@@ -58389,7 +61631,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1629",
@@ -58425,7 +61669,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1630",
@@ -58461,7 +61707,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1631",
@@ -58497,7 +61745,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1632",
@@ -58533,7 +61783,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1633",
@@ -58569,7 +61821,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1634",
@@ -58605,7 +61859,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1635",
@@ -58641,7 +61897,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1636",
@@ -58677,7 +61935,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1637",
@@ -58713,7 +61973,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1638",
@@ -58749,7 +62011,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1639",
@@ -58785,7 +62049,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1640",
@@ -58821,7 +62087,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1641",
@@ -58857,7 +62125,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1642",
@@ -58893,7 +62163,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1643",
@@ -58929,7 +62201,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1644",
@@ -58965,7 +62239,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1645",
@@ -59001,7 +62277,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1646",
@@ -59037,7 +62315,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1647",
@@ -59073,7 +62353,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1648",
@@ -59109,7 +62391,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1649",
@@ -59145,7 +62429,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1650",
@@ -59181,7 +62467,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1651",
@@ -59217,7 +62505,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1652",
@@ -59253,7 +62543,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1653",
@@ -59289,7 +62581,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1654",
@@ -59325,7 +62619,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1655",
@@ -59361,7 +62657,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1656",
@@ -59397,7 +62695,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1657",
@@ -59433,7 +62733,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1658",
@@ -59469,7 +62771,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1659",
@@ -59505,7 +62809,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1660",
@@ -59541,7 +62847,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1661",
@@ -59577,7 +62885,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1662",
@@ -59613,7 +62923,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1663",
@@ -59649,7 +62961,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1664",
@@ -59685,7 +62999,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1665",
@@ -59721,7 +63037,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1666",
@@ -59757,7 +63075,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1667",
@@ -59793,7 +63113,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1668",
@@ -59829,7 +63151,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1669",
@@ -59865,7 +63189,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1670",
@@ -59901,7 +63227,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1671",
@@ -59937,7 +63265,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1672",
@@ -59973,7 +63303,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1673",
@@ -60009,7 +63341,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1674",
@@ -60045,7 +63379,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1675",
@@ -60081,7 +63417,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1676",
@@ -60117,7 +63455,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1677",
@@ -60153,7 +63493,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1678",
@@ -60189,7 +63531,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1679",
@@ -60225,7 +63569,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1680",
@@ -60261,7 +63607,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1681",
@@ -60297,7 +63645,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1682",
@@ -60333,7 +63683,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1683",
@@ -60369,7 +63721,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1684",
@@ -60405,7 +63759,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1685",
@@ -60441,7 +63797,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1686",
@@ -60477,7 +63835,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1687",
@@ -60513,7 +63873,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1688",
@@ -60549,7 +63911,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1689",
@@ -60585,7 +63949,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1690",
@@ -60621,7 +63987,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1691",
@@ -60657,7 +64025,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1692",
@@ -60693,7 +64063,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1693",
@@ -60729,7 +64101,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1694",
@@ -60765,7 +64139,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1695",
@@ -60801,7 +64177,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1696",
@@ -60837,7 +64215,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1697",
@@ -60873,7 +64253,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1698",
@@ -60909,7 +64291,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1699",
@@ -60945,7 +64329,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1700",
@@ -60981,7 +64367,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1701",
@@ -61017,7 +64405,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1702",
@@ -61053,7 +64443,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1703",
@@ -61089,7 +64481,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1704",
@@ -61125,7 +64519,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1705",
@@ -61161,7 +64557,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1706",
@@ -61197,7 +64595,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1707",
@@ -61233,7 +64633,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1708",
@@ -61269,7 +64671,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1709",
@@ -61305,7 +64709,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1710",
@@ -61341,7 +64747,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1711",
@@ -61377,7 +64785,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1712",
@@ -61413,7 +64823,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1713",
@@ -61449,7 +64861,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1714",
@@ -61485,7 +64899,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1715",
@@ -61521,7 +64937,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1716",
@@ -61557,7 +64975,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1717",
@@ -61593,7 +65013,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1718",
@@ -61629,7 +65051,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1719",
@@ -61665,7 +65089,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1720",
@@ -61701,7 +65127,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1721",
@@ -61737,7 +65165,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1722",
@@ -61773,7 +65203,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1723",
@@ -61809,7 +65241,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1724",
@@ -61845,7 +65279,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1725",
@@ -61881,7 +65317,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1726",
@@ -61917,7 +65355,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1727",
@@ -61953,7 +65393,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1728",
@@ -61989,7 +65431,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1729",
@@ -62025,7 +65469,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1730",
@@ -62061,7 +65507,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1731",
@@ -62097,7 +65545,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1732",
@@ -62133,7 +65583,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1733",
@@ -62169,7 +65621,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1734",
@@ -62205,7 +65659,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1735",
@@ -62241,7 +65697,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1736",
@@ -62277,7 +65735,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1737",
@@ -62313,7 +65773,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1738",
@@ -62349,7 +65811,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1739",
@@ -62385,7 +65849,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1740",
@@ -62421,7 +65887,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1741",
@@ -62457,7 +65925,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1742",
@@ -62493,7 +65963,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1743",
@@ -62529,7 +66001,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1744",
@@ -62565,7 +66039,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1745",
@@ -62601,7 +66077,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1746",
@@ -62637,7 +66115,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1747",
@@ -62673,7 +66153,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1748",
@@ -62709,7 +66191,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1749",
@@ -62745,7 +66229,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1750",
@@ -62781,7 +66267,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1751",
@@ -62817,7 +66305,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1752",
@@ -62853,7 +66343,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1753",
@@ -62889,7 +66381,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1754",
@@ -62925,7 +66419,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "30",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1755",
@@ -62961,7 +66457,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1756",
@@ -62997,7 +66495,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1757",
@@ -63033,7 +66533,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1758",
@@ -63069,7 +66571,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1759",
@@ -63105,7 +66609,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1760",
@@ -63141,7 +66647,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1761",
@@ -63177,7 +66685,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1762",
@@ -63213,7 +66723,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1763",
@@ -63249,7 +66761,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1764",
@@ -63285,7 +66799,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1765",
@@ -63321,7 +66837,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1766",
@@ -63357,7 +66875,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1767",
@@ -63393,7 +66913,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1768",
@@ -63429,7 +66951,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1769",
@@ -63465,7 +66989,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1770",
@@ -63501,7 +67027,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1771",
@@ -63537,7 +67065,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1772",
@@ -63573,7 +67103,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1773",
@@ -63609,7 +67141,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1774",
@@ -63645,7 +67179,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1775",
@@ -63681,7 +67217,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1776",
@@ -63717,7 +67255,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1777",
@@ -63753,7 +67293,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1778",
@@ -63789,7 +67331,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1779",
@@ -63825,7 +67369,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1780",
@@ -63861,7 +67407,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1781",
@@ -63897,7 +67445,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1782",
@@ -63933,7 +67483,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1783",
@@ -63969,7 +67521,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1784",
@@ -64005,7 +67559,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1785",
@@ -64041,7 +67597,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1786",
@@ -64077,7 +67635,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1787",
@@ -64113,7 +67673,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1788",
@@ -64149,7 +67711,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1789",
@@ -64185,7 +67749,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1790",
@@ -64221,7 +67787,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1791",
@@ -64257,7 +67825,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1792",
@@ -64293,7 +67863,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1793",
@@ -64329,7 +67901,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1794",
@@ -64365,7 +67939,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1795",
@@ -64401,7 +67977,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1796",
@@ -64437,7 +68015,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1797",
@@ -64473,7 +68053,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1798",
@@ -64509,7 +68091,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1799",
@@ -64545,7 +68129,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1800",
@@ -64581,7 +68167,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1801",
@@ -64617,7 +68205,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1802",
@@ -64653,7 +68243,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1803",
@@ -64689,7 +68281,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "50",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1804",
@@ -64725,7 +68319,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1805",
@@ -64761,7 +68357,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1806",
@@ -64797,7 +68395,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1807",
@@ -64833,7 +68433,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1808",
@@ -64869,7 +68471,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1809",
@@ -64905,7 +68509,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1810",
@@ -64941,7 +68547,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1811",
@@ -64977,7 +68585,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1812",
@@ -65013,7 +68623,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1813",
@@ -65049,7 +68661,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1814",
@@ -65085,7 +68699,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1815",
@@ -65121,7 +68737,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1816",
@@ -65157,7 +68775,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1817",
@@ -65193,7 +68813,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1818",
@@ -65229,7 +68851,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1819",
@@ -65265,7 +68889,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1820",
@@ -65301,7 +68927,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1821",
@@ -65337,7 +68965,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1822",
@@ -65373,7 +69003,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1823",
@@ -65409,7 +69041,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1824",
@@ -65445,7 +69079,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1825",
@@ -65481,7 +69117,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1826",
@@ -65517,7 +69155,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1827",
@@ -65553,7 +69193,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1828",
@@ -65589,7 +69231,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1829",
@@ -65625,7 +69269,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1830",
@@ -65661,7 +69307,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1831",
@@ -65697,7 +69345,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "20",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1832",
@@ -65733,7 +69383,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1833",
@@ -65769,7 +69421,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "60",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1834",
@@ -65805,7 +69459,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1835",
@@ -65841,7 +69497,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1836",
@@ -65877,7 +69535,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1837",
@@ -65913,7 +69573,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1838",
@@ -65949,7 +69611,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1839",
@@ -65985,7 +69649,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1840",
@@ -66021,7 +69687,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1841",
@@ -66057,7 +69725,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1842",
@@ -66093,7 +69763,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1843",
@@ -66129,7 +69801,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1844",
@@ -66165,7 +69839,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1845",
@@ -66201,7 +69877,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1846",
@@ -66237,7 +69915,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1847",
@@ -66273,7 +69953,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1848",
@@ -66309,7 +69991,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1849",
@@ -66345,7 +70029,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1850",
@@ -66381,7 +70067,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1851",
@@ -66417,7 +70105,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1852",
@@ -66453,7 +70143,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1853",
@@ -66489,7 +70181,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1854",
@@ -66525,7 +70219,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1855",
@@ -66561,7 +70257,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1856",
@@ -66597,7 +70295,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1857",
@@ -66633,7 +70333,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1858",
@@ -66669,7 +70371,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1859",
@@ -66705,7 +70409,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1860",
@@ -66741,7 +70447,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1861",
@@ -66777,7 +70485,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1862",
@@ -66813,7 +70523,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1863",
@@ -66849,7 +70561,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1864",
@@ -66885,7 +70599,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1865",
@@ -66921,7 +70637,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1866",
@@ -66957,7 +70675,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1867",
@@ -66993,7 +70713,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1868",
@@ -67029,7 +70751,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1869",
@@ -67065,7 +70789,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1870",
@@ -67101,7 +70827,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1871",
@@ -67137,7 +70865,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1872",
@@ -67173,7 +70903,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1873",
@@ -67209,7 +70941,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1874",
@@ -67245,7 +70979,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1875",
@@ -67281,7 +71017,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1876",
@@ -67317,7 +71055,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1877",
@@ -67353,7 +71093,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1878",
@@ -67389,7 +71131,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1879",
@@ -67425,7 +71169,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1880",
@@ -67461,7 +71207,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1881",
@@ -67497,7 +71245,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1882",
@@ -67533,7 +71283,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1883",
@@ -67569,7 +71321,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1884",
@@ -67605,7 +71359,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1885",
@@ -67641,7 +71397,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1886",
@@ -67677,7 +71435,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1887",
@@ -67713,7 +71473,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1888",
@@ -67749,7 +71511,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1889",
@@ -67785,7 +71549,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1890",
@@ -67821,7 +71587,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1891",
@@ -67857,7 +71625,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1892",
@@ -67893,7 +71663,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1893",
@@ -67929,7 +71701,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1894",
@@ -67965,7 +71739,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1895",
@@ -68001,7 +71777,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1896",
@@ -68037,7 +71815,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1897",
@@ -68073,7 +71853,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1898",
@@ -68109,7 +71891,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1899",
@@ -68145,7 +71929,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1900",
@@ -68181,7 +71967,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1901",
@@ -68217,7 +72005,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1902",
@@ -68253,7 +72043,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1903",
@@ -68289,7 +72081,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1904",
@@ -68325,7 +72119,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1905",
@@ -68361,7 +72157,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1906",
@@ -68397,7 +72195,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1907",
@@ -68433,7 +72233,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1908",
@@ -68469,7 +72271,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1909",
@@ -68505,7 +72309,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1910",
@@ -68541,7 +72347,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1911",
@@ -68577,7 +72385,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1912",
@@ -68613,7 +72423,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1913",
@@ -68649,7 +72461,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1914",
@@ -68685,7 +72499,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1915",
@@ -68721,7 +72537,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1916",
@@ -68757,7 +72575,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1917",
@@ -68793,7 +72613,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1918",
@@ -68829,7 +72651,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1919",
@@ -68865,7 +72689,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1920",
@@ -68901,7 +72727,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1921",
@@ -68937,7 +72765,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1922",
@@ -68973,7 +72803,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1923",
@@ -69009,7 +72841,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1924",
@@ -69045,7 +72879,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1925",
@@ -69081,7 +72917,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1926",
@@ -69117,7 +72955,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1927",
@@ -69153,7 +72993,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1928",
@@ -69189,7 +73031,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1929",
@@ -69225,7 +73069,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1930",
@@ -69261,7 +73107,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1931",
@@ -69297,7 +73145,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1932",
@@ -69333,7 +73183,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1933",
@@ -69369,7 +73221,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1934",
@@ -69405,7 +73259,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1935",
@@ -69441,7 +73297,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1936",
@@ -69477,7 +73335,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1937",
@@ -69513,7 +73373,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1938",
@@ -69549,7 +73411,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1939",
@@ -69585,7 +73449,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1940",
@@ -69621,7 +73487,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1941",
@@ -69657,7 +73525,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1942",
@@ -69693,7 +73563,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1943",
@@ -69729,7 +73601,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1944",
@@ -69765,7 +73639,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1945",
@@ -69801,7 +73677,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1946",
@@ -69837,7 +73715,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1947",
@@ -69873,7 +73753,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1948",
@@ -69909,7 +73791,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1949",
@@ -69945,7 +73829,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1950",
@@ -69981,7 +73867,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1951",
@@ -70017,7 +73905,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1952",
@@ -70053,7 +73943,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1953",
@@ -70089,7 +73981,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1954",
@@ -70125,7 +74019,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1957",
@@ -70161,7 +74057,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1958",
@@ -70197,7 +74095,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1959",
@@ -70233,7 +74133,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "60",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1960",
@@ -70269,7 +74171,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1961",
@@ -70305,7 +74209,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1962",
@@ -70341,7 +74247,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1963",
@@ -70377,7 +74285,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1964",
@@ -70413,7 +74323,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1965",
@@ -70449,7 +74361,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1966",
@@ -70485,7 +74399,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1967",
@@ -70521,7 +74437,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1968",
@@ -70557,7 +74475,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1969",
@@ -70593,7 +74513,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1970",
@@ -70629,7 +74551,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1971",
@@ -70665,7 +74589,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1972",
@@ -70701,7 +74627,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1975",
@@ -70737,7 +74665,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1976",
@@ -70773,7 +74703,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1977",
@@ -70809,7 +74741,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1978",
@@ -70845,7 +74779,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1979",
@@ -70881,7 +74817,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1980",
@@ -70917,7 +74855,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1981",
@@ -70953,7 +74893,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1982",
@@ -70989,7 +74931,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1983",
@@ -71025,7 +74969,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1984",
@@ -71061,7 +75007,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1985",
@@ -71097,7 +75045,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1986",
@@ -71133,7 +75083,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1987",
@@ -71169,7 +75121,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1988",
@@ -71205,7 +75159,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1997",
@@ -71241,7 +75197,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1998",
@@ -71277,7 +75235,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "1999",
@@ -71313,7 +75273,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2000",
@@ -71349,7 +75311,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2001",
@@ -71385,7 +75349,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2002",
@@ -71421,7 +75387,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2003",
@@ -71457,7 +75425,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2004",
@@ -71493,7 +75463,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2005",
@@ -71529,7 +75501,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2006",
@@ -71565,7 +75539,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2007",
@@ -71601,7 +75577,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2008",
@@ -71637,7 +75615,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2009",
@@ -71673,7 +75653,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2010",
@@ -71709,7 +75691,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2011",
@@ -71745,7 +75729,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2012",
@@ -71781,7 +75767,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2021",
@@ -71817,7 +75805,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2022",
@@ -71853,7 +75843,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2023",
@@ -71889,7 +75881,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2024",
@@ -71925,7 +75919,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2027",
@@ -71961,7 +75957,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2028",
@@ -71997,7 +75995,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2031",
@@ -72033,7 +76033,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2032",
@@ -72069,7 +76071,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2033",
@@ -72105,7 +76109,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2034",
@@ -72141,7 +76147,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2035",
@@ -72177,7 +76185,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2036",
@@ -72213,7 +76223,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2037",
@@ -72249,7 +76261,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2038",
@@ -72285,7 +76299,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2039",
@@ -72321,7 +76337,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2040",
@@ -72357,7 +76375,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2041",
@@ -72393,7 +76413,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2042",
@@ -72429,7 +76451,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2043",
@@ -72465,7 +76489,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2044",
@@ -72501,7 +76527,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2045",
@@ -72537,7 +76565,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2046",
@@ -72573,7 +76603,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2047",
@@ -72609,7 +76641,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2048",
@@ -72645,7 +76679,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2049",
@@ -72681,7 +76717,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2050",
@@ -72717,7 +76755,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2051",
@@ -72753,7 +76793,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2052",
@@ -72789,7 +76831,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2053",
@@ -72825,7 +76869,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2054",
@@ -72861,7 +76907,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2055",
@@ -72897,7 +76945,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2056",
@@ -72933,7 +76983,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2057",
@@ -72969,7 +77021,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2058",
@@ -73005,7 +77059,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2059",
@@ -73041,7 +77097,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2060",
@@ -73077,7 +77135,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2061",
@@ -73113,7 +77173,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2062",
@@ -73149,7 +77211,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2063",
@@ -73185,7 +77249,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2064",
@@ -73221,7 +77287,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2065",
@@ -73257,7 +77325,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2066",
@@ -73293,7 +77363,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2067",
@@ -73329,7 +77401,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2068",
@@ -73365,7 +77439,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2069",
@@ -73401,7 +77477,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2070",
@@ -73437,7 +77515,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2079",
@@ -73473,7 +77553,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2080",
@@ -73509,7 +77591,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2081",
@@ -73545,7 +77629,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2082",
@@ -73581,7 +77667,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2083",
@@ -73617,7 +77705,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2084",
@@ -73653,7 +77743,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2085",
@@ -73689,7 +77781,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2086",
@@ -73725,7 +77819,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2087",
@@ -73761,7 +77857,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2088",
@@ -73797,7 +77895,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2089",
@@ -73833,7 +77933,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2090",
@@ -73869,7 +77971,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2091",
@@ -73905,7 +78009,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2092",
@@ -73941,7 +78047,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2093",
@@ -73977,7 +78085,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2094",
@@ -74013,7 +78123,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2095",
@@ -74049,7 +78161,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2096",
@@ -74085,7 +78199,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2097",
@@ -74121,7 +78237,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2098",
@@ -74157,7 +78275,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2099",
@@ -74193,7 +78313,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2100",
@@ -74229,7 +78351,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2101",
@@ -74265,7 +78389,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2102",
@@ -74301,7 +78427,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2103",
@@ -74337,7 +78465,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2104",
@@ -74373,7 +78503,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2105",
@@ -74409,7 +78541,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2106",
@@ -74445,7 +78579,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2107",
@@ -74481,7 +78617,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2108",
@@ -74517,7 +78655,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2109",
@@ -74553,7 +78693,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2110",
@@ -74589,7 +78731,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2111",
@@ -74625,7 +78769,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2112",
@@ -74661,7 +78807,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2113",
@@ -74697,7 +78845,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2114",
@@ -74733,7 +78883,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2115",
@@ -74769,7 +78921,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2116",
@@ -74805,7 +78959,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2117",
@@ -74841,7 +78997,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2118",
@@ -74877,7 +79035,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2119",
@@ -74913,7 +79073,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2120",
@@ -74949,7 +79111,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2121",
@@ -74985,7 +79149,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2122",
@@ -75021,7 +79187,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2123",
@@ -75057,7 +79225,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2124",
@@ -75093,7 +79263,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2125",
@@ -75129,7 +79301,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2126",
@@ -75165,7 +79339,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2127",
@@ -75201,7 +79377,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2128",
@@ -75237,7 +79415,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2129",
@@ -75273,7 +79453,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2130",
@@ -75309,7 +79491,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2131",
@@ -75345,7 +79529,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2132",
@@ -75381,7 +79567,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2133",
@@ -75417,7 +79605,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2134",
@@ -75453,7 +79643,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2135",
@@ -75489,7 +79681,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2136",
@@ -75525,7 +79719,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2137",
@@ -75561,7 +79757,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2138",
@@ -75597,7 +79795,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2139",
@@ -75633,7 +79833,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2140",
@@ -75669,7 +79871,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2141",
@@ -75705,7 +79909,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2142",
@@ -75741,7 +79947,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2143",
@@ -75777,7 +79985,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2144",
@@ -75813,7 +80023,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2145",
@@ -75849,7 +80061,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2146",
@@ -75885,7 +80099,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2147",
@@ -75921,7 +80137,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2148",
@@ -75957,7 +80175,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2149",
@@ -75993,7 +80213,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2150",
@@ -76029,7 +80251,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2151",
@@ -76065,7 +80289,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2152",
@@ -76101,7 +80327,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2153",
@@ -76137,7 +80365,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2154",
@@ -76173,7 +80403,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2155",
@@ -76209,7 +80441,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2156",
@@ -76245,7 +80479,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2157",
@@ -76281,7 +80517,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2158",
@@ -76317,7 +80555,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2159",
@@ -76353,7 +80593,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2160",
@@ -76389,7 +80631,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2161",
@@ -76425,7 +80669,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2162",
@@ -76461,7 +80707,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2163",
@@ -76497,7 +80745,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2164",
@@ -76533,7 +80783,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2165",
@@ -76569,7 +80821,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2166",
@@ -76605,7 +80859,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2167",
@@ -76641,7 +80897,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2168",
@@ -76677,7 +80935,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2169",
@@ -76713,7 +80973,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2170",
@@ -76749,7 +81011,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2171",
@@ -76785,7 +81049,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2172",
@@ -76821,7 +81087,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2173",
@@ -76857,7 +81125,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2174",
@@ -76893,7 +81163,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2175",
@@ -76929,7 +81201,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2176",
@@ -76965,7 +81239,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2177",
@@ -77001,7 +81277,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2178",
@@ -77037,7 +81315,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2179",
@@ -77073,7 +81353,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2180",
@@ -77109,7 +81391,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2181",
@@ -77145,7 +81429,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2182",
@@ -77181,7 +81467,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2183",
@@ -77217,7 +81505,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2184",
@@ -77253,7 +81543,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2185",
@@ -77289,7 +81581,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "30",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2186",
@@ -77325,7 +81619,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2187",
@@ -77361,7 +81657,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2188",
@@ -77397,7 +81695,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2189",
@@ -77433,7 +81733,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2190",
@@ -77469,7 +81771,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2191",
@@ -77505,7 +81809,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2192",
@@ -77541,7 +81847,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2193",
@@ -77577,7 +81885,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2194",
@@ -77613,7 +81923,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2195",
@@ -77649,7 +81961,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2196",
@@ -77685,7 +81999,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2197",
@@ -77721,7 +82037,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2198",
@@ -77757,7 +82075,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2199",
@@ -77793,7 +82113,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2200",
@@ -77829,7 +82151,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2201",
@@ -77865,7 +82189,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2202",
@@ -77901,7 +82227,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2203",
@@ -77937,7 +82265,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2204",
@@ -77973,7 +82303,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2205",
@@ -78009,7 +82341,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "50",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2206",
@@ -78045,7 +82379,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2207",
@@ -78081,7 +82417,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2208",
@@ -78117,7 +82455,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2209",
@@ -78153,7 +82493,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2210",
@@ -78189,7 +82531,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2211",
@@ -78225,7 +82569,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2212",
@@ -78261,7 +82607,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2213",
@@ -78297,7 +82645,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2214",
@@ -78333,7 +82683,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2215",
@@ -78369,7 +82721,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2216",
@@ -78405,7 +82759,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2217",
@@ -78441,7 +82797,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2218",
@@ -78477,7 +82835,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2219",
@@ -78513,7 +82873,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2220",
@@ -78549,7 +82911,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2221",
@@ -78585,7 +82949,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2222",
@@ -78621,7 +82987,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2223",
@@ -78657,7 +83025,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2224",
@@ -78693,7 +83063,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2225",
@@ -78729,7 +83101,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2226",
@@ -78765,7 +83139,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2227",
@@ -78801,7 +83177,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2228",
@@ -78837,7 +83215,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2229",
@@ -78873,7 +83253,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2230",
@@ -78909,7 +83291,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2231",
@@ -78945,7 +83329,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2232",
@@ -78981,7 +83367,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2233",
@@ -79017,7 +83405,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2234",
@@ -79053,7 +83443,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2235",
@@ -79089,7 +83481,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2236",
@@ -79125,7 +83519,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2237",
@@ -79161,7 +83557,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2238",
@@ -79197,7 +83595,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2239",
@@ -79233,7 +83633,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2240",
@@ -79269,7 +83671,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2241",
@@ -79305,7 +83709,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2242",
@@ -79341,7 +83747,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2243",
@@ -79377,7 +83785,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2244",
@@ -79413,7 +83823,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2245",
@@ -79449,7 +83861,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2246",
@@ -79485,7 +83899,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2247",
@@ -79521,7 +83937,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2248",
@@ -79557,7 +83975,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2249",
@@ -79593,7 +84013,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2250",
@@ -79629,7 +84051,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2251",
@@ -79665,7 +84089,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2252",
@@ -79701,7 +84127,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2253",
@@ -79737,7 +84165,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2254",
@@ -79773,7 +84203,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2255",
@@ -79809,7 +84241,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2256",
@@ -79845,7 +84279,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2257",
@@ -79881,7 +84317,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2258",
@@ -79917,7 +84355,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2259",
@@ -79953,7 +84393,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2260",
@@ -79989,7 +84431,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2261",
@@ -80025,7 +84469,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2262",
@@ -80061,7 +84507,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2263",
@@ -80097,7 +84545,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2264",
@@ -80133,7 +84583,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2265",
@@ -80169,7 +84621,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2266",
@@ -80205,7 +84659,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2267",
@@ -80241,7 +84697,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2268",
@@ -80277,7 +84735,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2269",
@@ -80313,7 +84773,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2270",
@@ -80349,7 +84811,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2271",
@@ -80385,7 +84849,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2272",
@@ -80421,7 +84887,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2273",
@@ -80457,7 +84925,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2274",
@@ -80493,7 +84963,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2275",
@@ -80529,7 +85001,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2276",
@@ -80565,7 +85039,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2277",
@@ -80601,7 +85077,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2278",
@@ -80637,7 +85115,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2279",
@@ -80673,7 +85153,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2280",
@@ -80709,7 +85191,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2281",
@@ -80745,7 +85229,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2282",
@@ -80781,7 +85267,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2283",
@@ -80817,7 +85305,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2284",
@@ -80853,7 +85343,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2285",
@@ -80889,7 +85381,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2286",
@@ -80925,7 +85419,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2287",
@@ -80961,7 +85457,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2288",
@@ -80997,7 +85495,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2289",
@@ -81033,7 +85533,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2290",
@@ -81069,7 +85571,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2291",
@@ -81105,7 +85609,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2292",
@@ -81141,7 +85647,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2293",
@@ -81177,7 +85685,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2294",
@@ -81213,7 +85723,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2295",
@@ -81249,7 +85761,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2296",
@@ -81285,7 +85799,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2297",
@@ -81321,7 +85837,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2298",
@@ -81357,7 +85875,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2299",
@@ -81393,7 +85913,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2300",
@@ -81429,7 +85951,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2301",
@@ -81465,7 +85989,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2302",
@@ -81501,7 +86027,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2303",
@@ -81537,7 +86065,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2304",
@@ -81573,7 +86103,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2305",
@@ -81609,7 +86141,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2306",
@@ -81645,7 +86179,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2307",
@@ -81681,7 +86217,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "70",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2308",
@@ -81717,7 +86255,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2313",
@@ -81753,7 +86293,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2314",
@@ -81789,7 +86331,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2315",
@@ -81825,7 +86369,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2316",
@@ -81861,7 +86407,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2317",
@@ -81897,7 +86445,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2318",
@@ -81933,7 +86483,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2319",
@@ -81969,7 +86521,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2320",
@@ -82005,7 +86559,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2321",
@@ -82041,7 +86597,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2322",
@@ -82077,7 +86635,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2323",
@@ -82113,7 +86673,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2324",
@@ -82149,7 +86711,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2325",
@@ -82185,7 +86749,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "2326",
@@ -82221,7 +86787,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10000",
@@ -82257,7 +86825,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10100",
@@ -82293,7 +86863,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10101",
@@ -82329,7 +86901,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10102",
@@ -82365,7 +86939,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10103",
@@ -82401,7 +86977,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10104",
@@ -82437,7 +87015,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10105",
@@ -82473,7 +87053,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10106",
@@ -82509,7 +87091,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10107",
@@ -82545,7 +87129,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10108",
@@ -82581,7 +87167,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10109",
@@ -82617,7 +87205,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10110",
@@ -82653,7 +87243,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10111",
@@ -82689,7 +87281,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10112",
@@ -82725,7 +87319,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10113",
@@ -82761,7 +87357,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10114",
@@ -82797,7 +87395,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10115",
@@ -82833,7 +87433,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10116",
@@ -82869,7 +87471,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10117",
@@ -82905,7 +87509,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10118",
@@ -82941,7 +87547,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10119",
@@ -82977,7 +87585,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10120",
@@ -83013,7 +87623,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10121",
@@ -83049,7 +87661,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10122",
@@ -83085,7 +87699,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10123",
@@ -83121,7 +87737,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10124",
@@ -83157,7 +87775,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10125",
@@ -83193,7 +87813,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10126",
@@ -83229,7 +87851,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10127",
@@ -83265,7 +87889,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10128",
@@ -83301,7 +87927,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10129",
@@ -83337,7 +87965,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10130",
@@ -83373,7 +88003,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10131",
@@ -83409,7 +88041,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10132",
@@ -83445,7 +88079,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10133",
@@ -83481,7 +88117,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10134",
@@ -83517,7 +88155,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10135",
@@ -83553,7 +88193,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10136",
@@ -83589,7 +88231,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10137",
@@ -83625,7 +88269,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10138",
@@ -83661,7 +88307,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10139",
@@ -83697,7 +88345,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10140",
@@ -83733,7 +88383,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10141",
@@ -83769,7 +88421,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10142",
@@ -83805,7 +88459,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10143",
@@ -83841,7 +88497,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10144",
@@ -83877,7 +88535,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10145",
@@ -83913,7 +88573,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10146",
@@ -83949,7 +88611,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10147",
@@ -83985,7 +88649,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10148",
@@ -84021,7 +88687,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10149",
@@ -84057,7 +88725,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10150",
@@ -84093,7 +88763,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10151",
@@ -84129,7 +88801,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10152",
@@ -84165,7 +88839,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10153",
@@ -84201,7 +88877,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10154",
@@ -84237,7 +88915,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10155",
@@ -84273,7 +88953,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10156",
@@ -84309,7 +88991,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10157",
@@ -84345,7 +89029,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10158",
@@ -84381,7 +89067,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10159",
@@ -84417,7 +89105,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10160",
@@ -84453,7 +89143,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10161",
@@ -84489,7 +89181,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10162",
@@ -84525,7 +89219,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10163",
@@ -84561,7 +89257,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10164",
@@ -84597,7 +89295,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10165",
@@ -84633,7 +89333,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10166",
@@ -84669,7 +89371,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10167",
@@ -84705,7 +89409,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10168",
@@ -84741,7 +89447,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10169",
@@ -84777,7 +89485,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10170",
@@ -84813,7 +89523,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10171",
@@ -84849,7 +89561,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10172",
@@ -84885,7 +89599,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10173",
@@ -84921,7 +89637,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10174",
@@ -84957,7 +89675,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10175",
@@ -84993,7 +89713,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10176",
@@ -85029,7 +89751,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10177",
@@ -85065,7 +89789,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10178",
@@ -85101,7 +89827,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10179",
@@ -85137,7 +89865,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10180",
@@ -85173,7 +89903,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10181",
@@ -85209,7 +89941,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10182",
@@ -85245,7 +89979,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10183",
@@ -85281,7 +90017,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10184",
@@ -85317,7 +90055,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10185",
@@ -85353,7 +90093,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10186",
@@ -85389,7 +90131,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10187",
@@ -85425,7 +90169,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10188",
@@ -85461,7 +90207,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10189",
@@ -85497,7 +90245,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10200",
@@ -85533,7 +90283,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10201",
@@ -85569,7 +90321,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10202",
@@ -85605,7 +90359,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10203",
@@ -85641,7 +90397,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10204",
@@ -85677,7 +90435,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10205",
@@ -85713,7 +90473,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10206",
@@ -85749,7 +90511,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10207",
@@ -85785,7 +90549,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10208",
@@ -85821,7 +90587,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10209",
@@ -85857,7 +90625,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10210",
@@ -85893,7 +90663,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10211",
@@ -85929,7 +90701,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10212",
@@ -85965,7 +90739,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10213",
@@ -86001,7 +90777,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10214",
@@ -86037,7 +90815,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10215",
@@ -86073,7 +90853,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10216",
@@ -86109,7 +90891,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10217",
@@ -86145,7 +90929,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10218",
@@ -86181,7 +90967,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10219",
@@ -86217,7 +91005,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10220",
@@ -86253,7 +91043,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10221",
@@ -86289,7 +91081,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10222",
@@ -86325,7 +91119,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10223",
@@ -86361,7 +91157,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10224",
@@ -86397,7 +91195,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10225",
@@ -86433,7 +91233,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10226",
@@ -86469,7 +91271,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10227",
@@ -86505,7 +91309,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10228",
@@ -86541,7 +91347,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10229",
@@ -86577,7 +91385,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10230",
@@ -86613,7 +91423,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10231",
@@ -86649,7 +91461,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10232",
@@ -86685,7 +91499,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10233",
@@ -86721,7 +91537,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10234",
@@ -86757,7 +91575,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10235",
@@ -86793,7 +91613,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10236",
@@ -86829,7 +91651,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10237",
@@ -86865,7 +91689,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10238",
@@ -86901,7 +91727,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10239",
@@ -86937,7 +91765,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10240",
@@ -86973,7 +91803,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10241",
@@ -87009,7 +91841,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10242",
@@ -87045,7 +91879,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10243",
@@ -87081,7 +91917,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10244",
@@ -87117,7 +91955,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10245",
@@ -87153,7 +91993,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10246",
@@ -87189,7 +92031,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10247",
@@ -87225,7 +92069,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10248",
@@ -87261,7 +92107,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10249",
@@ -87297,7 +92145,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10250",
@@ -87333,7 +92183,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10251",
@@ -87369,7 +92221,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10252",
@@ -87405,7 +92259,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10253",
@@ -87441,7 +92297,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10254",
@@ -87477,7 +92335,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10255",
@@ -87513,7 +92373,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10256",
@@ -87549,7 +92411,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10257",
@@ -87585,7 +92449,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10258",
@@ -87621,7 +92487,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10259",
@@ -87657,7 +92525,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10260",
@@ -87693,7 +92563,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10261",
@@ -87729,7 +92601,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10262",
@@ -87765,7 +92639,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10263",
@@ -87801,7 +92677,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10264",
@@ -87837,7 +92715,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10265",
@@ -87873,7 +92753,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10266",
@@ -87909,7 +92791,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10267",
@@ -87945,7 +92829,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10268",
@@ -87981,7 +92867,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10269",
@@ -88017,7 +92905,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10270",
@@ -88053,7 +92943,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10271",
@@ -88089,7 +92981,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10273",
@@ -88125,7 +93019,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10274",
@@ -88161,7 +93057,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10275",
@@ -88197,7 +93095,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10276",
@@ -88233,7 +93133,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10277",
@@ -88269,7 +93171,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10278",
@@ -88305,7 +93209,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10279",
@@ -88341,7 +93247,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10280",
@@ -88377,7 +93285,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10281",
@@ -88413,7 +93323,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10282",
@@ -88449,7 +93361,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10283",
@@ -88485,7 +93399,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10284",
@@ -88521,7 +93437,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10285",
@@ -88557,7 +93475,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10300",
@@ -88593,7 +93513,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10301",
@@ -88629,7 +93551,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10302",
@@ -88665,7 +93589,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10303",
@@ -88701,7 +93627,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10304",
@@ -88737,7 +93665,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10305",
@@ -88773,7 +93703,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10306",
@@ -88809,7 +93741,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10307",
@@ -88845,7 +93779,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10308",
@@ -88881,7 +93817,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10309",
@@ -88917,7 +93855,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10310",
@@ -88953,7 +93893,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10311",
@@ -88989,7 +93931,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10312",
@@ -89025,7 +93969,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10313",
@@ -89061,7 +94007,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10314",
@@ -89097,7 +94045,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10315",
@@ -89133,7 +94083,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10316",
@@ -89169,7 +94121,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10317",
@@ -89205,7 +94159,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10318",
@@ -89241,7 +94197,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10319",
@@ -89277,7 +94235,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10320",
@@ -89313,7 +94273,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10400",
@@ -89349,7 +94311,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10401",
@@ -89385,7 +94349,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10402",
@@ -89421,7 +94387,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10403",
@@ -89457,7 +94425,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10404",
@@ -89493,7 +94463,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10405",
@@ -89529,7 +94501,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10406",
@@ -89565,7 +94539,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10407",
@@ -89601,7 +94577,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10408",
@@ -89637,7 +94615,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10409",
@@ -89673,7 +94653,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10410",
@@ -89709,7 +94691,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10411",
@@ -89745,7 +94729,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10412",
@@ -89781,7 +94767,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10413",
@@ -89817,7 +94805,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10414",
@@ -89853,7 +94843,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10415",
@@ -89889,7 +94881,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10416",
@@ -89925,7 +94919,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10417",
@@ -89961,7 +94957,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10418",
@@ -89997,7 +94995,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10419",
@@ -90033,7 +95033,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10420",
@@ -90069,7 +95071,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10421",
@@ -90105,7 +95109,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10422",
@@ -90141,7 +95147,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10423",
@@ -90177,7 +95185,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10424",
@@ -90213,7 +95223,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10425",
@@ -90249,7 +95261,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10426",
@@ -90285,7 +95299,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10427",
@@ -90321,7 +95337,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10428",
@@ -90357,7 +95375,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10429",
@@ -90393,7 +95413,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10430",
@@ -90429,7 +95451,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10431",
@@ -90465,7 +95489,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10432",
@@ -90501,7 +95527,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10433",
@@ -90537,7 +95565,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10434",
@@ -90573,7 +95603,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10435",
@@ -90609,7 +95641,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10436",
@@ -90645,7 +95679,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10437",
@@ -90681,7 +95717,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10438",
@@ -90717,7 +95755,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10439",
@@ -90753,7 +95793,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10440",
@@ -90789,7 +95831,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10441",
@@ -90825,7 +95869,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10442",
@@ -90861,7 +95907,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10443",
@@ -90897,7 +95945,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10500",
@@ -90933,7 +95983,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10501",
@@ -90969,7 +96021,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10502",
@@ -91005,7 +96059,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10503",
@@ -91041,7 +96097,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10504",
@@ -91077,7 +96135,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10505",
@@ -91113,7 +96173,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10506",
@@ -91149,7 +96211,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10507",
@@ -91185,7 +96249,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10508",
@@ -91221,7 +96287,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10509",
@@ -91257,7 +96325,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10510",
@@ -91293,7 +96363,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10511",
@@ -91329,7 +96401,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10512",
@@ -91365,7 +96439,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10513",
@@ -91401,7 +96477,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10514",
@@ -91437,7 +96515,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10515",
@@ -91473,7 +96553,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10516",
@@ -91509,7 +96591,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10517",
@@ -91545,7 +96629,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10518",
@@ -91581,7 +96667,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10519",
@@ -91617,7 +96705,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10520",
@@ -91653,7 +96743,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10521",
@@ -91689,7 +96781,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10600",
@@ -91725,7 +96819,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10601",
@@ -91761,7 +96857,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10602",
@@ -91797,7 +96895,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10603",
@@ -91833,7 +96933,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "60",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10604",
@@ -91869,7 +96971,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10605",
@@ -91905,7 +97009,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10606",
@@ -91941,7 +97047,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10607",
@@ -91977,7 +97085,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10608",
@@ -92013,7 +97123,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10609",
@@ -92049,7 +97161,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10610",
@@ -92085,7 +97199,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10611",
@@ -92121,7 +97237,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10612",
@@ -92157,7 +97275,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10613",
@@ -92193,7 +97313,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10615",
@@ -92229,7 +97351,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10616",
@@ -92265,7 +97389,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10617",
@@ -92301,7 +97427,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10618",
@@ -92337,7 +97465,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10619",
@@ -92373,7 +97503,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10620",
@@ -92409,7 +97541,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10621",
@@ -92445,7 +97579,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10700",
@@ -92481,7 +97617,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10701",
@@ -92517,7 +97655,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10702",
@@ -92553,7 +97693,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10703",
@@ -92589,7 +97731,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10704",
@@ -92625,7 +97769,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10705",
@@ -92661,7 +97807,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10706",
@@ -92697,7 +97845,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10707",
@@ -92733,7 +97883,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10708",
@@ -92769,7 +97921,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10709",
@@ -92805,7 +97959,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10710",
@@ -92841,7 +97997,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10711",
@@ -92877,7 +98035,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10712",
@@ -92913,7 +98073,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10713",
@@ -92949,7 +98111,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10714",
@@ -92985,7 +98149,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10715",
@@ -93021,7 +98187,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10716",
@@ -93057,7 +98225,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10717",
@@ -93093,7 +98263,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10718",
@@ -93129,7 +98301,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10719",
@@ -93165,7 +98339,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10720",
@@ -93201,7 +98377,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10721",
@@ -93237,7 +98415,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10722",
@@ -93273,7 +98453,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10723",
@@ -93309,7 +98491,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10724",
@@ -93345,7 +98529,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10725",
@@ -93381,7 +98567,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10726",
@@ -93417,7 +98605,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10727",
@@ -93453,7 +98643,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10800",
@@ -93489,7 +98681,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10801",
@@ -93525,7 +98719,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10802",
@@ -93561,7 +98757,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10803",
@@ -93597,7 +98795,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10804",
@@ -93633,7 +98833,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10805",
@@ -93669,7 +98871,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10806",
@@ -93705,7 +98909,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10807",
@@ -93741,7 +98947,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10808",
@@ -93777,7 +98985,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10809",
@@ -93813,7 +99023,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10810",
@@ -93849,7 +99061,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10811",
@@ -93885,7 +99099,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10812",
@@ -93921,7 +99137,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10813",
@@ -93957,7 +99175,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10900",
@@ -93993,7 +99213,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10901",
@@ -94029,7 +99251,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10902",
@@ -94065,7 +99289,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10903",
@@ -94101,7 +99327,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10904",
@@ -94137,7 +99365,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10905",
@@ -94173,7 +99403,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10906",
@@ -94209,7 +99441,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10907",
@@ -94245,7 +99479,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10908",
@@ -94281,7 +99517,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10909",
@@ -94317,7 +99555,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10910",
@@ -94353,7 +99593,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10911",
@@ -94389,7 +99631,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10912",
@@ -94425,7 +99669,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10913",
@@ -94461,7 +99707,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10914",
@@ -94497,7 +99745,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10915",
@@ -94533,7 +99783,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10916",
@@ -94569,7 +99821,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10917",
@@ -94605,7 +99859,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10918",
@@ -94641,7 +99897,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10919",
@@ -94677,7 +99935,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10920",
@@ -94713,7 +99973,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10921",
@@ -94749,7 +100011,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10922",
@@ -94785,7 +100049,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10923",
@@ -94821,7 +100087,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10924",
@@ -94857,7 +100125,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "10925",
@@ -94893,7 +100163,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11000",
@@ -94929,7 +100201,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11001",
@@ -94965,7 +100239,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11002",
@@ -95001,7 +100277,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11003",
@@ -95037,7 +100315,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11004",
@@ -95073,7 +100353,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11005",
@@ -95109,7 +100391,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11006",
@@ -95145,7 +100429,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11007",
@@ -95181,7 +100467,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11008",
@@ -95217,7 +100505,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11100",
@@ -95253,7 +100543,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11101",
@@ -95289,7 +100581,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11102",
@@ -95325,7 +100619,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11103",
@@ -95361,7 +100657,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11104",
@@ -95397,7 +100695,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11105",
@@ -95433,7 +100733,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11106",
@@ -95469,7 +100771,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11107",
@@ -95505,7 +100809,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11108",
@@ -95541,7 +100847,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11109",
@@ -95577,7 +100885,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11110",
@@ -95613,7 +100923,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11111",
@@ -95649,7 +100961,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11112",
@@ -95685,7 +100999,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11113",
@@ -95721,7 +101037,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11114",
@@ -95757,7 +101075,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11115",
@@ -95793,7 +101113,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11116",
@@ -95829,7 +101151,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11200",
@@ -95865,7 +101189,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11201",
@@ -95901,7 +101227,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11202",
@@ -95937,7 +101265,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11203",
@@ -95973,7 +101303,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11204",
@@ -96009,7 +101341,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11300",
@@ -96045,7 +101379,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11301",
@@ -96081,7 +101417,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11302",
@@ -96117,7 +101455,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11303",
@@ -96153,7 +101493,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11304",
@@ -96189,7 +101531,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11305",
@@ -96225,7 +101569,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11306",
@@ -96261,7 +101607,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11307",
@@ -96297,7 +101645,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11308",
@@ -96333,7 +101683,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11309",
@@ -96369,7 +101721,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11310",
@@ -96405,7 +101759,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11311",
@@ -96441,7 +101797,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11312",
@@ -96477,7 +101835,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11313",
@@ -96513,7 +101873,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11314",
@@ -96549,7 +101911,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11315",
@@ -96585,7 +101949,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11316",
@@ -96621,7 +101987,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11317",
@@ -96657,7 +102025,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11318",
@@ -96693,7 +102063,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11319",
@@ -96729,7 +102101,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11320",
@@ -96765,7 +102139,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11321",
@@ -96801,7 +102177,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11322",
@@ -96837,7 +102215,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11323",
@@ -96873,7 +102253,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11324",
@@ -96909,7 +102291,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11325",
@@ -96945,7 +102329,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11326",
@@ -96981,7 +102367,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11327",
@@ -97017,7 +102405,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11328",
@@ -97053,7 +102443,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11329",
@@ -97089,7 +102481,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11330",
@@ -97125,7 +102519,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11331",
@@ -97161,7 +102557,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11332",
@@ -97197,7 +102595,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11333",
@@ -97233,7 +102633,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11334",
@@ -97269,7 +102671,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11400",
@@ -97305,7 +102709,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11401",
@@ -97341,7 +102747,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11402",
@@ -97377,7 +102785,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11403",
@@ -97413,7 +102823,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11404",
@@ -97449,7 +102861,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "30",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11405",
@@ -97485,7 +102899,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "30",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11406",
@@ -97521,7 +102937,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11407",
@@ -97557,7 +102975,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11408",
@@ -97593,7 +103013,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11409",
@@ -97629,7 +103051,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11410",
@@ -97665,7 +103089,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11411",
@@ -97701,7 +103127,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "30",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11412",
@@ -97737,7 +103165,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "30",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11413",
@@ -97773,7 +103203,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11414",
@@ -97809,7 +103241,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11415",
@@ -97845,7 +103279,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11416",
@@ -97881,7 +103317,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11417",
@@ -97917,7 +103355,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11418",
@@ -97953,7 +103393,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11419",
@@ -97989,7 +103431,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11420",
@@ -98025,7 +103469,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11421",
@@ -98061,7 +103507,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11422",
@@ -98097,7 +103545,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11423",
@@ -98133,7 +103583,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11424",
@@ -98169,7 +103621,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11425",
@@ -98205,7 +103659,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11426",
@@ -98241,7 +103697,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11427",
@@ -98277,7 +103735,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11428",
@@ -98313,7 +103773,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "30",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11429",
@@ -98349,7 +103811,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11430",
@@ -98385,7 +103849,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11431",
@@ -98421,7 +103887,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11432",
@@ -98457,7 +103925,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11500",
@@ -98493,7 +103963,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11501",
@@ -98529,7 +104001,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11502",
@@ -98565,7 +104039,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11503",
@@ -98601,7 +104077,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11504",
@@ -98637,7 +104115,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11505",
@@ -98673,7 +104153,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11506",
@@ -98709,7 +104191,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11507",
@@ -98745,7 +104229,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11508",
@@ -98781,7 +104267,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11509",
@@ -98817,7 +104305,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11510",
@@ -98853,7 +104343,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11511",
@@ -98889,7 +104381,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11512",
@@ -98925,7 +104419,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11513",
@@ -98961,7 +104457,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11514",
@@ -98997,7 +104495,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11515",
@@ -99033,7 +104533,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11516",
@@ -99069,7 +104571,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11517",
@@ -99105,7 +104609,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11518",
@@ -99141,7 +104647,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11519",
@@ -99177,7 +104685,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11520",
@@ -99213,7 +104723,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11521",
@@ -99249,7 +104761,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11523",
@@ -99285,7 +104799,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11524",
@@ -99321,7 +104837,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11600",
@@ -99357,7 +104875,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11601",
@@ -99393,7 +104913,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11602",
@@ -99429,7 +104951,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11700",
@@ -99465,7 +104989,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11701",
@@ -99501,7 +105027,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11702",
@@ -99537,7 +105065,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11703",
@@ -99573,7 +105103,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11704",
@@ -99609,7 +105141,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11705",
@@ -99645,7 +105179,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11706",
@@ -99681,7 +105217,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11707",
@@ -99717,7 +105255,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11708",
@@ -99753,7 +105293,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11709",
@@ -99789,7 +105331,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11710",
@@ -99825,7 +105369,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11711",
@@ -99861,7 +105407,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11712",
@@ -99897,7 +105445,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11713",
@@ -99933,7 +105483,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11714",
@@ -99969,7 +105521,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11715",
@@ -100005,7 +105559,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11716",
@@ -100041,7 +105597,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11717",
@@ -100077,7 +105635,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11718",
@@ -100113,7 +105673,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11719",
@@ -100149,7 +105711,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11720",
@@ -100185,7 +105749,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11800",
@@ -100221,7 +105787,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11801",
@@ -100257,7 +105825,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11802",
@@ -100293,7 +105863,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11803",
@@ -100329,7 +105901,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "20",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11804",
@@ -100365,7 +105939,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "50",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11805",
@@ -100401,7 +105977,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11806",
@@ -100437,7 +106015,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11807",
@@ -100473,7 +106053,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11808",
@@ -100509,7 +106091,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11809",
@@ -100545,7 +106129,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11810",
@@ -100581,7 +106167,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11811",
@@ -100617,7 +106205,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11900",
@@ -100653,7 +106243,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11901",
@@ -100689,7 +106281,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11902",
@@ -100725,7 +106319,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11903",
@@ -100761,7 +106357,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11904",
@@ -100797,7 +106395,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11905",
@@ -100833,7 +106433,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "11906",
@@ -100869,7 +106471,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12000",
@@ -100905,7 +106509,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12001",
@@ -100941,7 +106547,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12002",
@@ -100977,7 +106585,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12003",
@@ -101013,7 +106623,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12004",
@@ -101049,7 +106661,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12005",
@@ -101085,7 +106699,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12006",
@@ -101121,7 +106737,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12007",
@@ -101157,7 +106775,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12008",
@@ -101193,7 +106813,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12009",
@@ -101229,7 +106851,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12010",
@@ -101265,7 +106889,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12011",
@@ -101301,7 +106927,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12012",
@@ -101337,7 +106965,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12013",
@@ -101373,7 +107003,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12014",
@@ -101409,7 +107041,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12015",
@@ -101445,7 +107079,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12016",
@@ -101481,7 +107117,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12100",
@@ -101517,7 +107155,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12101",
@@ -101553,7 +107193,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12102",
@@ -101589,7 +107231,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12103",
@@ -101625,7 +107269,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12104",
@@ -101661,7 +107307,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12105",
@@ -101697,7 +107345,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12106",
@@ -101733,7 +107383,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12107",
@@ -101769,7 +107421,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12108",
@@ -101805,7 +107459,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12109",
@@ -101841,7 +107497,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12200",
@@ -101877,7 +107535,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12201",
@@ -101913,7 +107573,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12202",
@@ -101949,7 +107611,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12203",
@@ -101985,7 +107649,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12204",
@@ -102021,7 +107687,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12205",
@@ -102057,7 +107725,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12206",
@@ -102093,7 +107763,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12207",
@@ -102129,7 +107801,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12209",
@@ -102165,7 +107839,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12211",
@@ -102201,7 +107877,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12213",
@@ -102237,7 +107915,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12214",
@@ -102273,7 +107953,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12215",
@@ -102309,7 +107991,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12300",
@@ -102345,7 +108029,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12301",
@@ -102381,7 +108067,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12302",
@@ -102417,7 +108105,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12303",
@@ -102453,7 +108143,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12304",
@@ -102489,7 +108181,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12305",
@@ -102525,7 +108219,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12306",
@@ -102561,7 +108257,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12400",
@@ -102597,7 +108295,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12401",
@@ -102633,7 +108333,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12402",
@@ -102669,7 +108371,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12403",
@@ -102705,7 +108409,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12404",
@@ -102741,7 +108447,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12405",
@@ -102777,7 +108485,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12406",
@@ -102813,7 +108523,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12407",
@@ -102849,7 +108561,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12500",
@@ -102885,7 +108599,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12501",
@@ -102921,7 +108637,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12502",
@@ -102957,7 +108675,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12503",
@@ -102993,7 +108713,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12504",
@@ -103029,7 +108751,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12505",
@@ -103065,7 +108789,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12506",
@@ -103101,7 +108827,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12507",
@@ -103137,7 +108865,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12508",
@@ -103173,7 +108903,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12509",
@@ -103209,7 +108941,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12511",
@@ -103245,7 +108979,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12512",
@@ -103281,7 +109017,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12513",
@@ -103317,7 +109055,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12514",
@@ -103353,7 +109093,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12600",
@@ -103389,7 +109131,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12601",
@@ -103425,7 +109169,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12602",
@@ -103461,7 +109207,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12700",
@@ -103497,7 +109245,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12701",
@@ -103533,7 +109283,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12702",
@@ -103569,7 +109321,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12703",
@@ -103605,7 +109359,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12704",
@@ -103641,7 +109397,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12705",
@@ -103677,7 +109435,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12706",
@@ -103713,7 +109473,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12707",
@@ -103749,7 +109511,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12708",
@@ -103785,7 +109549,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12709",
@@ -103821,7 +109587,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12710",
@@ -103857,7 +109625,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12711",
@@ -103893,7 +109663,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12800",
@@ -103929,7 +109701,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12801",
@@ -103965,7 +109739,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12802",
@@ -104001,7 +109777,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12803",
@@ -104037,7 +109815,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12804",
@@ -104073,7 +109853,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12805",
@@ -104109,7 +109891,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12806",
@@ -104145,7 +109929,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12807",
@@ -104181,7 +109967,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12808",
@@ -104217,7 +110005,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12809",
@@ -104253,7 +110043,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12810",
@@ -104289,7 +110081,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12811",
@@ -104325,7 +110119,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12812",
@@ -104361,7 +110157,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12813",
@@ -104397,7 +110195,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12814",
@@ -104433,7 +110233,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12815",
@@ -104469,7 +110271,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12816",
@@ -104505,7 +110309,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12817",
@@ -104541,7 +110347,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12818",
@@ -104577,7 +110385,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12819",
@@ -104613,7 +110423,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12820",
@@ -104649,7 +110461,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12821",
@@ -104685,7 +110499,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12822",
@@ -104721,7 +110537,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12823",
@@ -104757,7 +110575,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12824",
@@ -104793,7 +110613,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12825",
@@ -104829,7 +110651,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12826",
@@ -104865,7 +110689,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12827",
@@ -104901,7 +110727,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12828",
@@ -104937,7 +110765,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12900",
@@ -104973,7 +110803,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12901",
@@ -105009,7 +110841,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "50",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12902",
@@ -105045,7 +110879,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "30",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12903",
@@ -105081,7 +110917,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "30",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12904",
@@ -105117,7 +110955,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "80",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12905",
@@ -105153,7 +110993,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "50",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12906",
@@ -105189,7 +111031,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12907",
@@ -105225,7 +111069,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12908",
@@ -105261,7 +111107,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12909",
@@ -105297,7 +111145,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "80",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12910",
@@ -105333,7 +111183,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12911",
@@ -105369,7 +111221,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "80",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12912",
@@ -105405,7 +111259,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12913",
@@ -105441,7 +111297,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "12914",
@@ -105477,7 +111335,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13000",
@@ -105513,7 +111373,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13001",
@@ -105549,7 +111411,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13002",
@@ -105585,7 +111449,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13003",
@@ -105621,7 +111487,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13100",
@@ -105657,7 +111525,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13101",
@@ -105693,7 +111563,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13102",
@@ -105729,7 +111601,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13103",
@@ -105765,7 +111639,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13200",
@@ -105801,7 +111677,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13201",
@@ -105837,7 +111715,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13202",
@@ -105873,7 +111753,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13203",
@@ -105909,7 +111791,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13204",
@@ -105945,7 +111829,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13205",
@@ -105981,7 +111867,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13300",
@@ -106017,7 +111905,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13301",
@@ -106053,7 +111943,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13302",
@@ -106089,7 +111981,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13303",
@@ -106125,7 +112019,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13304",
@@ -106161,7 +112057,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13400",
@@ -106197,7 +112095,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13401",
@@ -106233,7 +112133,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13402",
@@ -106269,7 +112171,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13403",
@@ -106305,7 +112209,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13404",
@@ -106341,7 +112247,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13405",
@@ -106377,7 +112285,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13406",
@@ -106413,7 +112323,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13407",
@@ -106449,7 +112361,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13408",
@@ -106485,7 +112399,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13409",
@@ -106521,7 +112437,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13410",
@@ -106557,7 +112475,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13411",
@@ -106593,7 +112513,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13412",
@@ -106629,7 +112551,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13413",
@@ -106665,7 +112589,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13414",
@@ -106701,7 +112627,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13415",
@@ -106737,7 +112665,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13416",
@@ -106773,7 +112703,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13417",
@@ -106809,7 +112741,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13418",
@@ -106845,7 +112779,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13419",
@@ -106881,7 +112817,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13420",
@@ -106917,7 +112855,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13500",
@@ -106953,7 +112893,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13501",
@@ -106989,7 +112931,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13502",
@@ -107025,7 +112969,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13503",
@@ -107061,7 +113007,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13504",
@@ -107097,7 +113045,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13505",
@@ -107133,7 +113083,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13506",
@@ -107169,7 +113121,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13507",
@@ -107205,7 +113159,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13508",
@@ -107241,7 +113197,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13509",
@@ -107277,7 +113235,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13510",
@@ -107313,7 +113273,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13511",
@@ -107349,7 +113311,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13600",
@@ -107385,7 +113349,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13601",
@@ -107421,7 +113387,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13602",
@@ -107457,7 +113425,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13603",
@@ -107493,7 +113463,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13604",
@@ -107529,7 +113501,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13700",
@@ -107565,7 +113539,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13701",
@@ -107601,7 +113577,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13702",
@@ -107637,7 +113615,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13800",
@@ -107673,7 +113653,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13801",
@@ -107709,7 +113691,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13802",
@@ -107745,7 +113729,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13803",
@@ -107781,7 +113767,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13804",
@@ -107817,7 +113805,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13805",
@@ -107853,7 +113843,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13806",
@@ -107889,7 +113881,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13807",
@@ -107925,7 +113919,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13808",
@@ -107961,7 +113957,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13809",
@@ -107997,7 +113995,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13900",
@@ -108033,7 +114033,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13901",
@@ -108069,7 +114071,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13902",
@@ -108105,7 +114109,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13903",
@@ -108141,7 +114147,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13904",
@@ -108177,7 +114185,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13905",
@@ -108213,7 +114223,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13906",
@@ -108249,7 +114261,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13908",
@@ -108285,7 +114299,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "13909",
@@ -108321,7 +114337,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14000",
@@ -108357,7 +114375,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14001",
@@ -108393,7 +114413,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14002",
@@ -108429,7 +114451,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14003",
@@ -108465,7 +114489,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14004",
@@ -108501,7 +114527,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14005",
@@ -108537,7 +114565,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14006",
@@ -108573,7 +114603,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14007",
@@ -108609,7 +114641,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14008",
@@ -108645,7 +114679,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14009",
@@ -108681,7 +114717,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14100",
@@ -108717,7 +114755,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14101",
@@ -108753,7 +114793,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14102",
@@ -108789,7 +114831,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14103",
@@ -108825,7 +114869,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14104",
@@ -108861,7 +114907,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14105",
@@ -108897,7 +114945,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14106",
@@ -108933,7 +114983,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14107",
@@ -108969,7 +115021,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14108",
@@ -109005,7 +115059,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14109",
@@ -109041,7 +115097,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14110",
@@ -109077,7 +115135,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14111",
@@ -109113,7 +115173,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14112",
@@ -109149,7 +115211,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14113",
@@ -109185,7 +115249,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14114",
@@ -109221,7 +115287,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14115",
@@ -109257,7 +115325,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14200",
@@ -109293,7 +115363,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14201",
@@ -109329,7 +115401,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14202",
@@ -109365,7 +115439,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14203",
@@ -109401,7 +115477,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14204",
@@ -109437,7 +115515,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14300",
@@ -109473,7 +115553,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14301",
@@ -109509,7 +115591,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14302",
@@ -109545,7 +115629,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14303",
@@ -109581,7 +115667,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14304",
@@ -109617,7 +115705,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14305",
@@ -109653,7 +115743,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14306",
@@ -109689,7 +115781,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14307",
@@ -109725,7 +115819,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14308",
@@ -109761,7 +115857,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14309",
@@ -109797,7 +115895,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14310",
@@ -109833,7 +115933,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14311",
@@ -109869,7 +115971,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14312",
@@ -109905,7 +116009,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14313",
@@ -109941,7 +116047,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14314",
@@ -109977,7 +116085,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14315",
@@ -110013,7 +116123,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14316",
@@ -110049,7 +116161,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14317",
@@ -110085,7 +116199,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14318",
@@ -110121,7 +116237,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14319",
@@ -110157,7 +116275,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14320",
@@ -110193,7 +116313,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14321",
@@ -110229,7 +116351,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14322",
@@ -110265,7 +116389,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14400",
@@ -110301,7 +116427,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14401",
@@ -110337,7 +116465,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14402",
@@ -110373,7 +116503,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "100",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14403",
@@ -110409,7 +116541,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14404",
@@ -110445,7 +116579,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14405",
@@ -110481,7 +116617,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14406",
@@ -110517,7 +116655,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "100",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14407",
@@ -110553,7 +116693,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14500",
@@ -110589,7 +116731,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14501",
@@ -110625,7 +116769,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14502",
@@ -110661,7 +116807,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14503",
@@ -110697,7 +116845,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14504",
@@ -110733,7 +116883,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14505",
@@ -110769,7 +116921,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14600",
@@ -110805,7 +116959,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14601",
@@ -110841,7 +116997,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14602",
@@ -110877,7 +117035,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14700",
@@ -110913,7 +117073,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14701",
@@ -110949,7 +117111,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14702",
@@ -110985,7 +117149,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14703",
@@ -111021,7 +117187,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14704",
@@ -111057,7 +117225,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14705",
@@ -111093,7 +117263,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14706",
@@ -111129,7 +117301,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14707",
@@ -111165,7 +117339,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14800",
@@ -111201,7 +117377,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14801",
@@ -111237,7 +117415,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14802",
@@ -111273,7 +117453,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14803",
@@ -111309,7 +117491,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14804",
@@ -111345,7 +117529,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14805",
@@ -111381,7 +117567,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14806",
@@ -111417,7 +117605,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14900",
@@ -111453,7 +117643,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14901",
@@ -111489,7 +117681,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "14902",
@@ -111525,7 +117719,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15000",
@@ -111561,7 +117757,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15001",
@@ -111597,7 +117795,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15002",
@@ -111633,7 +117833,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15003",
@@ -111669,7 +117871,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15004",
@@ -111705,7 +117909,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15005",
@@ -111741,7 +117947,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15006",
@@ -111777,7 +117985,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15007",
@@ -111813,7 +118023,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15008",
@@ -111849,7 +118061,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15009",
@@ -111885,7 +118099,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15010",
@@ -111921,7 +118137,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15100",
@@ -111957,7 +118175,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15101",
@@ -111993,7 +118213,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15102",
@@ -112029,7 +118251,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15103",
@@ -112065,7 +118289,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15104",
@@ -112101,7 +118327,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15105",
@@ -112137,7 +118365,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15106",
@@ -112173,7 +118403,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15107",
@@ -112209,7 +118441,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15108",
@@ -112245,7 +118479,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15109",
@@ -112281,7 +118517,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15110",
@@ -112317,7 +118555,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15111",
@@ -112353,7 +118593,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15200",
@@ -112389,7 +118631,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15201",
@@ -112425,7 +118669,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15202",
@@ -112461,7 +118707,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15203",
@@ -112497,7 +118745,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15204",
@@ -112533,7 +118783,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15205",
@@ -112569,7 +118821,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15206",
@@ -112605,7 +118859,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15207",
@@ -112641,7 +118897,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15300",
@@ -112677,7 +118935,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "80",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15301",
@@ -112713,7 +118973,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "80",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15302",
@@ -112749,7 +119011,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15303",
@@ -112785,7 +119049,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15304",
@@ -112821,7 +119087,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15305",
@@ -112857,7 +119125,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "50",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15306",
@@ -112893,7 +119163,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "50",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15307",
@@ -112929,7 +119201,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15308",
@@ -112965,7 +119239,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15309",
@@ -113001,7 +119277,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15400",
@@ -113037,7 +119315,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15401",
@@ -113073,7 +119353,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15402",
@@ -113109,7 +119391,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15403",
@@ -113145,7 +119429,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15404",
@@ -113181,7 +119467,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15405",
@@ -113217,7 +119505,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15406",
@@ -113253,7 +119543,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15500",
@@ -113289,7 +119581,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15501",
@@ -113325,7 +119619,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15502",
@@ -113361,7 +119657,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15503",
@@ -113397,7 +119695,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15504",
@@ -113433,7 +119733,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15505",
@@ -113469,7 +119771,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15506",
@@ -113505,7 +119809,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15507",
@@ -113541,7 +119847,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15508",
@@ -113577,7 +119885,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15509",
@@ -113613,7 +119923,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15510",
@@ -113649,7 +119961,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15511",
@@ -113685,7 +119999,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15512",
@@ -113721,7 +120037,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15513",
@@ -113757,7 +120075,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15514",
@@ -113793,7 +120113,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15515",
@@ -113829,7 +120151,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15516",
@@ -113865,7 +120189,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15517",
@@ -113901,7 +120227,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15518",
@@ -113937,7 +120265,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15519",
@@ -113973,7 +120303,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15520",
@@ -114009,7 +120341,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15521",
@@ -114045,7 +120379,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15522",
@@ -114081,7 +120417,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15523",
@@ -114117,7 +120455,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15524",
@@ -114153,7 +120493,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15525",
@@ -114189,7 +120531,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15526",
@@ -114225,7 +120569,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15527",
@@ -114261,7 +120607,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15600",
@@ -114297,7 +120645,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15601",
@@ -114333,7 +120683,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15602",
@@ -114369,7 +120721,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15603",
@@ -114405,7 +120759,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15604",
@@ -114441,7 +120797,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15605",
@@ -114477,7 +120835,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15606",
@@ -114513,7 +120873,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15607",
@@ -114549,7 +120911,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15608",
@@ -114585,7 +120949,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15609",
@@ -114621,7 +120987,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15610",
@@ -114657,7 +121025,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15611",
@@ -114693,7 +121063,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15612",
@@ -114729,7 +121101,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15613",
@@ -114765,7 +121139,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15614",
@@ -114801,7 +121177,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15615",
@@ -114837,7 +121215,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15616",
@@ -114873,7 +121253,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15617",
@@ -114909,7 +121291,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15618",
@@ -114945,7 +121329,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15619",
@@ -114981,7 +121367,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15700",
@@ -115017,7 +121405,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15701",
@@ -115053,7 +121443,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15702",
@@ -115089,7 +121481,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15703",
@@ -115125,7 +121519,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15704",
@@ -115161,7 +121557,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15705",
@@ -115197,7 +121595,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15706",
@@ -115233,7 +121633,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15707",
@@ -115269,7 +121671,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15800",
@@ -115305,7 +121709,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15801",
@@ -115341,7 +121747,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15802",
@@ -115377,7 +121785,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15803",
@@ -115413,7 +121823,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15804",
@@ -115449,7 +121861,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15805",
@@ -115485,7 +121899,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15900",
@@ -115521,7 +121937,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15901",
@@ -115557,7 +121975,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15902",
@@ -115593,7 +122013,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15903",
@@ -115629,7 +122051,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15904",
@@ -115665,7 +122089,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "15905",
@@ -115701,7 +122127,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16000",
@@ -115737,7 +122165,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16001",
@@ -115773,7 +122203,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16002",
@@ -115809,7 +122241,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16003",
@@ -115845,7 +122279,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16004",
@@ -115881,7 +122317,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16005",
@@ -115917,7 +122355,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16006",
@@ -115953,7 +122393,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16007",
@@ -115989,7 +122431,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16008",
@@ -116025,7 +122469,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16009",
@@ -116061,7 +122507,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "50",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16010",
@@ -116097,7 +122545,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16011",
@@ -116133,7 +122583,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16012",
@@ -116169,7 +122621,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16013",
@@ -116205,7 +122659,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16014",
@@ -116241,7 +122697,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16015",
@@ -116277,7 +122735,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16016",
@@ -116313,7 +122773,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16017",
@@ -116349,7 +122811,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16100",
@@ -116385,7 +122849,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16101",
@@ -116421,7 +122887,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16102",
@@ -116457,7 +122925,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16103",
@@ -116493,7 +122963,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16200",
@@ -116529,7 +123001,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16201",
@@ -116565,7 +123039,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16300",
@@ -116601,7 +123077,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16301",
@@ -116637,7 +123115,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16302",
@@ -116673,7 +123153,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16303",
@@ -116709,7 +123191,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16304",
@@ -116745,7 +123229,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16305",
@@ -116781,7 +123267,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16400",
@@ -116817,7 +123305,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16401",
@@ -116853,7 +123343,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16402",
@@ -116889,7 +123381,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16403",
@@ -116925,7 +123419,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16404",
@@ -116961,7 +123457,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16405",
@@ -116997,7 +123495,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16500",
@@ -117033,7 +123533,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16501",
@@ -117069,7 +123571,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16600",
@@ -117105,7 +123609,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16601",
@@ -117141,7 +123647,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16602",
@@ -117177,7 +123685,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16603",
@@ -117213,7 +123723,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16604",
@@ -117249,7 +123761,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16605",
@@ -117285,7 +123799,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16606",
@@ -117321,7 +123837,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16607",
@@ -117357,7 +123875,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16608",
@@ -117393,7 +123913,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16609",
@@ -117429,7 +123951,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16610",
@@ -117465,7 +123989,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16611",
@@ -117501,7 +124027,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16612",
@@ -117537,7 +124065,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16613",
@@ -117573,7 +124103,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16614",
@@ -117609,7 +124141,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16615",
@@ -117645,7 +124179,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16616",
@@ -117681,7 +124217,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16700",
@@ -117717,7 +124255,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16701",
@@ -117753,7 +124293,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16702",
@@ -117789,7 +124331,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16703",
@@ -117825,7 +124369,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16800",
@@ -117861,7 +124407,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16801",
@@ -117897,7 +124445,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16802",
@@ -117933,7 +124483,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16803",
@@ -117969,7 +124521,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16804",
@@ -118005,7 +124559,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16805",
@@ -118041,7 +124597,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16806",
@@ -118077,7 +124635,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16807",
@@ -118113,7 +124673,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16900",
@@ -118149,7 +124711,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16901",
@@ -118185,7 +124749,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "50",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16902",
@@ -118221,7 +124787,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16903",
@@ -118257,7 +124825,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "16904",
@@ -118293,7 +124863,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "50",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "17000",
@@ -118329,7 +124901,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "17001",
@@ -118365,7 +124939,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "17002",
@@ -118401,7 +124977,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "17003",
@@ -118437,7 +125015,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "17100",
@@ -118473,7 +125053,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "17101",
@@ -118509,7 +125091,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "17102",
@@ -118545,7 +125129,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "17103",
@@ -118581,7 +125167,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "30",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "17200",
@@ -118617,7 +125205,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "17201",
@@ -118653,7 +125243,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "17202",
@@ -118689,7 +125281,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "17203",
@@ -118725,7 +125319,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "17204",
@@ -118761,7 +125357,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "17205",
@@ -118797,7 +125395,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "17206",
@@ -118833,7 +125433,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "17207",
@@ -118869,7 +125471,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "17300",
@@ -118905,7 +125509,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "17301",
@@ -118941,7 +125547,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "17400",
@@ -118977,7 +125585,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "17401",
@@ -119013,7 +125623,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "17402",
@@ -119049,7 +125661,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "17500",
@@ -119085,7 +125699,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "17501",
@@ -119121,7 +125737,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "17502",
@@ -119157,7 +125775,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "17600",
@@ -119193,7 +125813,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "17601",
@@ -119229,7 +125851,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "17700",
@@ -119265,7 +125889,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "17701",
@@ -119301,7 +125927,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "17800",
@@ -119337,7 +125965,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "17801",
@@ -119373,7 +126003,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "17802",
@@ -119409,7 +126041,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "17803",
@@ -119445,7 +126079,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "17804",
@@ -119481,7 +126117,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "17805",
@@ -119517,7 +126155,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "17900",
@@ -119553,7 +126193,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "17901",
@@ -119589,7 +126231,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "17902",
@@ -119625,7 +126269,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "17903",
@@ -119661,7 +126307,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "17904",
@@ -119697,7 +126345,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "17905",
@@ -119733,7 +126383,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "17906",
@@ -119769,7 +126421,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "18000",
@@ -119805,7 +126459,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "18001",
@@ -119841,7 +126497,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "18002",
@@ -119877,7 +126535,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "18003",
@@ -119913,7 +126573,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "18004",
@@ -119949,7 +126611,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "18005",
@@ -119985,7 +126649,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "18006",
@@ -120021,7 +126687,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "18100",
@@ -120057,7 +126725,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "18101",
@@ -120093,7 +126763,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "18102",
@@ -120129,7 +126801,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "18103",
@@ -120165,7 +126839,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "18104",
@@ -120201,7 +126877,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "18105",
@@ -120237,7 +126915,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "18106",
@@ -120273,7 +126953,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "18107",
@@ -120309,7 +126991,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "18200",
@@ -120345,7 +127029,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "18300",
@@ -120381,7 +127067,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "18400",
@@ -120417,7 +127105,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "18401",
@@ -120453,7 +127143,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "18503",
@@ -120489,7 +127181,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "18504",
@@ -120525,7 +127219,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "18506",
@@ -120561,7 +127257,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "18600",
@@ -120597,7 +127295,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "18601",
@@ -120633,7 +127333,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "18700",
@@ -120669,7 +127371,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "18701",
@@ -120705,7 +127409,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "20000",
@@ -120741,7 +127447,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "20001",
@@ -120777,7 +127485,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "20002",
@@ -120813,7 +127523,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "20003",
@@ -120849,7 +127561,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "50",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "20004",
@@ -120885,7 +127599,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "20005",
@@ -120921,7 +127637,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "20006",
@@ -120957,7 +127675,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "20007",
@@ -120993,7 +127713,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "50",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "20008",
@@ -121029,7 +127751,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "20100",
@@ -121065,7 +127789,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "20101",
@@ -121101,7 +127827,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "20102",
@@ -121137,7 +127865,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "90",
           "general2": "5",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "20103",
@@ -121173,7 +127903,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "20104",
@@ -121209,7 +127941,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "90",
           "general2": "5",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "20200",
@@ -121245,7 +127979,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "20201",
@@ -121281,7 +128017,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "20202",
@@ -121317,7 +128055,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "20203",
@@ -121353,7 +128093,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "20301",
@@ -121389,7 +128131,9 @@ window.skill=[
           "general1": "1",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "20400",
@@ -121425,7 +128169,9 @@ window.skill=[
           "general1": "5",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "20401",
@@ -121461,7 +128207,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "20402",
@@ -121497,7 +128245,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "20403",
@@ -121533,7 +128283,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "30600",
@@ -121569,7 +128321,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "100000",
@@ -121605,7 +128359,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "100001",
@@ -121641,7 +128397,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "100002",
@@ -121677,7 +128435,9 @@ window.skill=[
           "general1": "3",
           "general1Param": "80",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "100003",
@@ -121713,7 +128473,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "100004",
@@ -121749,7 +128511,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "100005",
@@ -121785,7 +128549,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "100008",
@@ -121821,7 +128587,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "100009",
@@ -121857,7 +128625,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "100010",
@@ -121893,7 +128663,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "100011",
@@ -121929,7 +128701,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "100012",
@@ -121965,7 +128739,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "100013",
@@ -122001,7 +128777,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "100014",
@@ -122037,7 +128815,9 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         },
         {
           "cardBattleSkillId": "100015",
@@ -122073,6 +128853,8 @@ window.skill=[
           "general1": "0",
           "general1Param": "0",
           "general2": "0",
-          "general2Param": "0"
+          "general2Param": "0",
+          "engDesc": ""
+
         }
 ]

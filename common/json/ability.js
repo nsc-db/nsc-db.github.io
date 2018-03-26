@@ -6,7 +6,9 @@ window.ability=[
           "abilityEffectDescription": "行動後にHPが５％回復する",
           "effectIdx1": "28",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "2",
@@ -15,7 +17,9 @@ window.ability=[
           "abilityEffectDescription": "行動後にチャクラが５％回復する",
           "effectIdx1": "29",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "3",
@@ -24,7 +28,9 @@ window.ability=[
           "abilityEffectDescription": "通常攻撃が回避されないようになる",
           "effectIdx1": "30",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "4",
@@ -33,7 +39,9 @@ window.ability=[
           "abilityEffectDescription": "通常攻撃で防御を無視してダメージを与えられる",
           "effectIdx1": "31",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "5",
@@ -42,7 +50,9 @@ window.ability=[
           "abilityEffectDescription": "低確率でスキルを回避して無効化",
           "effectIdx1": "27",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "6",
@@ -51,7 +61,9 @@ window.ability=[
           "abilityEffectDescription": "HP３０％以下になると攻撃力が５０％アップ",
           "effectIdx1": "32",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "7",
@@ -60,7 +72,9 @@ window.ability=[
           "abilityEffectDescription": "HP３０％以下になると防御力が５０％アップ",
           "effectIdx1": "33",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "8",
@@ -69,7 +83,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラMAX時に攻撃力が２０％アップ",
           "effectIdx1": "34",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "9",
@@ -78,7 +94,9 @@ window.ability=[
           "abilityEffectDescription": "通常攻撃が３連撃になる",
           "effectIdx1": "25",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "10",
@@ -87,7 +105,9 @@ window.ability=[
           "abilityEffectDescription": "低確率でスキルを回避して無効化",
           "effectIdx1": "24",
           "effectIdx2": "27",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "11",
@@ -96,7 +116,9 @@ window.ability=[
           "abilityEffectDescription": "通常攻撃が必ず当たり会心率も上昇する",
           "effectIdx1": "30",
           "effectIdx2": "10",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "12",
@@ -105,7 +127,9 @@ window.ability=[
           "abilityEffectDescription": "火遁タイプのスキルを半減",
           "effectIdx1": "35",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "13",
@@ -114,7 +138,9 @@ window.ability=[
           "abilityEffectDescription": "火遁タイプのスキルを無効化",
           "effectIdx1": "36",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "14",
@@ -123,7 +149,9 @@ window.ability=[
           "abilityEffectDescription": "体術タイプのスキルを半減",
           "effectIdx1": "37",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "15",
@@ -132,7 +160,9 @@ window.ability=[
           "abilityEffectDescription": "体術タイプのスキルを無効化",
           "effectIdx1": "38",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "16",
@@ -141,7 +171,9 @@ window.ability=[
           "abilityEffectDescription": "秘伝タイプのスキルを半減",
           "effectIdx1": "39",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "17",
@@ -150,7 +182,9 @@ window.ability=[
           "abilityEffectDescription": "秘伝タイプのスキルを無効化",
           "effectIdx1": "40",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "18",
@@ -159,7 +193,9 @@ window.ability=[
           "abilityEffectDescription": "水遁タイプのスキルを半減",
           "effectIdx1": "41",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "19",
@@ -168,7 +204,9 @@ window.ability=[
           "abilityEffectDescription": "水遁タイプのスキルを無効化",
           "effectIdx1": "42",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "20",
@@ -177,7 +215,9 @@ window.ability=[
           "abilityEffectDescription": "武器タイプのスキルを半減",
           "effectIdx1": "43",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "21",
@@ -186,7 +226,9 @@ window.ability=[
           "abilityEffectDescription": "武器タイプのスキルを無効化",
           "effectIdx1": "44",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "22",
@@ -195,7 +237,9 @@ window.ability=[
           "abilityEffectDescription": "幻術タイプのスキルを半減",
           "effectIdx1": "45",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "23",
@@ -204,7 +248,9 @@ window.ability=[
           "abilityEffectDescription": "幻術タイプのスキルを無効化",
           "effectIdx1": "46",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "24",
@@ -213,7 +259,9 @@ window.ability=[
           "abilityEffectDescription": "風遁タイプのスキルを半減",
           "effectIdx1": "47",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "25",
@@ -222,7 +270,9 @@ window.ability=[
           "abilityEffectDescription": "風遁タイプのスキルを無効化",
           "effectIdx1": "48",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "26",
@@ -231,7 +281,9 @@ window.ability=[
           "abilityEffectDescription": "HP３０％以下になると攻撃力が１００％アップ",
           "effectIdx1": "49",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "27",
@@ -240,7 +292,9 @@ window.ability=[
           "abilityEffectDescription": "HP３０％以下になると防御力が１００％アップ",
           "effectIdx1": "50",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "28",
@@ -249,7 +303,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラMAX時に攻撃力が５０％アップ",
           "effectIdx1": "51",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "29",
@@ -258,7 +314,9 @@ window.ability=[
           "abilityEffectDescription": "行動後にHPが１０％回復する",
           "effectIdx1": "52",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "30",
@@ -267,7 +325,9 @@ window.ability=[
           "abilityEffectDescription": "行動後にチャクラが１０％回復する",
           "effectIdx1": "53",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "31",
@@ -276,7 +336,9 @@ window.ability=[
           "abilityEffectDescription": "弱体を無効化する",
           "effectIdx1": "64",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "32",
@@ -285,7 +347,9 @@ window.ability=[
           "abilityEffectDescription": "毒を無効化",
           "effectIdx1": "65",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "33",
@@ -294,7 +358,9 @@ window.ability=[
           "abilityEffectDescription": "麻痺を無効化",
           "effectIdx1": "66",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "34",
@@ -303,7 +369,9 @@ window.ability=[
           "abilityEffectDescription": "混乱を無効化",
           "effectIdx1": "67",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "35",
@@ -312,7 +380,9 @@ window.ability=[
           "abilityEffectDescription": "魅了を無効化",
           "effectIdx1": "68",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "36",
@@ -321,7 +391,9 @@ window.ability=[
           "abilityEffectDescription": "封印を無効化",
           "effectIdx1": "69",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "37",
@@ -330,7 +402,9 @@ window.ability=[
           "abilityEffectDescription": "HP３０％以下になると攻撃と防御が５０％アップ",
           "effectIdx1": "32",
           "effectIdx2": "33",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "38",
@@ -339,7 +413,9 @@ window.ability=[
           "abilityEffectDescription": "口寄せタイプのスキルを半減",
           "effectIdx1": "71",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "39",
@@ -348,7 +424,9 @@ window.ability=[
           "abilityEffectDescription": "口寄せタイプのスキルを無効化",
           "effectIdx1": "72",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "40",
@@ -357,7 +435,9 @@ window.ability=[
           "abilityEffectDescription": "HP７０％以上の時に攻撃力が３０％アップ",
           "effectIdx1": "70",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "41",
@@ -366,7 +446,9 @@ window.ability=[
           "abilityEffectDescription": "火遁・水遁・土遁・風遁・雷遁を半減",
           "effectIdx1": "73",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "42",
@@ -375,7 +457,9 @@ window.ability=[
           "abilityEffectDescription": "HP３０％以下になると回避率が５０％アップ",
           "effectIdx1": "74",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "43",
@@ -384,7 +468,9 @@ window.ability=[
           "abilityEffectDescription": "HP２０％以下になると会心率が５０％アップ",
           "effectIdx1": "75",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "44",
@@ -393,7 +479,9 @@ window.ability=[
           "abilityEffectDescription": "固有タイプのスキルを半減",
           "effectIdx1": "76",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "45",
@@ -402,7 +490,9 @@ window.ability=[
           "abilityEffectDescription": "固有タイプのスキルを無効化",
           "effectIdx1": "77",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "46",
@@ -411,7 +501,9 @@ window.ability=[
           "abilityEffectDescription": "写輪眼タイプのスキルを半減",
           "effectIdx1": "78",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "47",
@@ -420,7 +512,9 @@ window.ability=[
           "abilityEffectDescription": "写輪眼タイプのスキルを無効化",
           "effectIdx1": "79",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "48",
@@ -429,7 +523,9 @@ window.ability=[
           "abilityEffectDescription": "HP２０％以下になると体術タイプのダメージが３０％アップ",
           "effectIdx1": "80",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "49",
@@ -438,7 +534,9 @@ window.ability=[
           "abilityEffectDescription": "HP２０％以下になるとスキルダメージを半減",
           "effectIdx1": "81",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "50",
@@ -447,7 +545,9 @@ window.ability=[
           "abilityEffectDescription": "状態異常を無効化",
           "effectIdx1": "82",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "51",
@@ -456,7 +556,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラ消費量が１２％減少する",
           "effectIdx1": "138",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "52",
@@ -465,7 +567,9 @@ window.ability=[
           "abilityEffectDescription": "武器タイプのダメージが２０％アップする",
           "effectIdx1": "22",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "53",
@@ -474,7 +578,9 @@ window.ability=[
           "abilityEffectDescription": "体術タイプのダメージが２０％アップする",
           "effectIdx1": "19",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "54",
@@ -483,7 +589,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラMAX時に防御力が１００％アップ",
           "effectIdx1": "84",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "55",
@@ -492,7 +600,9 @@ window.ability=[
           "abilityEffectDescription": "雷遁タイプのダメージを半減",
           "effectIdx1": "85",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "56",
@@ -501,7 +611,9 @@ window.ability=[
           "abilityEffectDescription": "雷遁タイプのダメージを無効化",
           "effectIdx1": "86",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "57",
@@ -510,7 +622,9 @@ window.ability=[
           "abilityEffectDescription": "敵専用でアビリティ持っていない奴用",
           "effectIdx1": "0",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "58",
@@ -519,7 +633,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラ消費量が５０％減少する",
           "effectIdx1": "95",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "59",
@@ -528,7 +644,9 @@ window.ability=[
           "abilityEffectDescription": "固有タイプのダメージが２０％アップ",
           "effectIdx1": "96",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "60",
@@ -537,7 +655,9 @@ window.ability=[
           "abilityEffectDescription": "低確率でスキルを回避して無効化",
           "effectIdx1": "135",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "61",
@@ -546,7 +666,9 @@ window.ability=[
           "abilityEffectDescription": "HP１０％以下になると雷遁タイプのダメージが３０％アップ",
           "effectIdx1": "136",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "62",
@@ -555,7 +677,9 @@ window.ability=[
           "abilityEffectDescription": "HP３０％以下になると回避率が３０％アップ",
           "effectIdx1": "137",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "63",
@@ -564,7 +688,9 @@ window.ability=[
           "abilityEffectDescription": "武器タイプのダメージが３０％アップする",
           "effectIdx1": "60",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "64",
@@ -573,7 +699,9 @@ window.ability=[
           "abilityEffectDescription": "確率でスキルダメージを半減する",
           "effectIdx1": "180",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "65",
@@ -582,7 +710,9 @@ window.ability=[
           "abilityEffectDescription": "ＨＰ２０％以下の時に攻撃力が５０％アップ。水遁タイプのダメージが２０％アップする",
           "effectIdx1": "140",
           "effectIdx2": "141",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "66",
@@ -591,7 +721,9 @@ window.ability=[
           "abilityEffectDescription": "ＨＰ７０％以下の時に素早さが５０％アップ",
           "effectIdx1": "142",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "67",
@@ -600,7 +732,9 @@ window.ability=[
           "abilityEffectDescription": "ＨＰ７０％～４０％の時に攻撃力が５０％アップ",
           "effectIdx1": "143",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "68",
@@ -609,7 +743,9 @@ window.ability=[
           "abilityEffectDescription": "ＨＰ４０％～０％の時に攻撃力が８０％アップ",
           "effectIdx1": "144",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "69",
@@ -618,7 +754,9 @@ window.ability=[
           "abilityEffectDescription": "ＨＰ４０％以下の時に攻撃力が５０％アップ。白眼タイプのダメージが２０％アップする",
           "effectIdx1": "146",
           "effectIdx2": "145",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "70",
@@ -627,7 +765,9 @@ window.ability=[
           "abilityEffectDescription": "麻痺にかかる確率を半減する",
           "effectIdx1": "100",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "71",
@@ -636,7 +776,9 @@ window.ability=[
           "abilityEffectDescription": "白眼タイプのダメージを半減",
           "effectIdx1": "148",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "72",
@@ -645,7 +787,9 @@ window.ability=[
           "abilityEffectDescription": "木遁タイプのダメージを半減",
           "effectIdx1": "149",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "73",
@@ -654,7 +798,9 @@ window.ability=[
           "abilityEffectDescription": "風遁タイプのダメージが２０％アップする",
           "effectIdx1": "150",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "74",
@@ -663,7 +809,9 @@ window.ability=[
           "abilityEffectDescription": "水遁タイプのダメージが２０％アップする",
           "effectIdx1": "122",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "75",
@@ -672,7 +820,9 @@ window.ability=[
           "abilityEffectDescription": "秘伝タイプのダメージが２０％アップする",
           "effectIdx1": "121",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "76",
@@ -681,7 +831,9 @@ window.ability=[
           "abilityEffectDescription": "通常攻撃と体術・武器タイプのスキルを無効化",
           "effectIdx1": "97",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "77",
@@ -690,7 +842,9 @@ window.ability=[
           "abilityEffectDescription": "行動後にHPが３％回復する",
           "effectIdx1": "152",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "78",
@@ -699,7 +853,9 @@ window.ability=[
           "abilityEffectDescription": "HP４０％以下になると攻撃力が５０％アップする",
           "effectIdx1": "145",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "79",
@@ -708,7 +864,9 @@ window.ability=[
           "abilityEffectDescription": "HPが６０％以上の時に防御力が５０％アップ。",
           "effectIdx1": "153",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "80",
@@ -717,7 +875,9 @@ window.ability=[
           "abilityEffectDescription": "HP５０％以下になると防御力が６０％アップする",
           "effectIdx1": "154",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "81",
@@ -726,7 +886,9 @@ window.ability=[
           "abilityEffectDescription": "回避率を２０％アップする",
           "effectIdx1": "155",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "82",
@@ -735,7 +897,9 @@ window.ability=[
           "abilityEffectDescription": "武器タイプのダメージが３０％アップする",
           "effectIdx1": "156",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "83",
@@ -744,7 +908,9 @@ window.ability=[
           "abilityEffectDescription": "ＨＰ８０％以上の時に攻撃力と素早さが４０％アップする",
           "effectIdx1": "161",
           "effectIdx2": "162",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "84",
@@ -753,7 +919,9 @@ window.ability=[
           "abilityEffectDescription": "写輪眼タイプのダメージが３０％アップする",
           "effectIdx1": "160",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "85",
@@ -762,7 +930,9 @@ window.ability=[
           "abilityEffectDescription": "ＨＰ２０％以下の時に攻撃力と防御力が５０％アップする",
           "effectIdx1": "163",
           "effectIdx2": "164",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "86",
@@ -771,7 +941,9 @@ window.ability=[
           "abilityEffectDescription": "写輪眼タイプのダメージが２０％アップする",
           "effectIdx1": "159",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "87",
@@ -780,7 +952,9 @@ window.ability=[
           "abilityEffectDescription": "口寄せタイプのダメージが３０％アップする",
           "effectIdx1": "165",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "88",
@@ -789,7 +963,9 @@ window.ability=[
           "abilityEffectDescription": "ＨＰ80％以上の時に攻撃力と素早さが50％アップする",
           "effectIdx1": "161",
           "effectIdx2": "162",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "89",
@@ -798,7 +974,9 @@ window.ability=[
           "abilityEffectDescription": "ＨＰ２０％以下の時に攻撃力が２０％防御力が７０％アップする",
           "effectIdx1": "167",
           "effectIdx2": "168",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "90",
@@ -807,7 +985,9 @@ window.ability=[
           "abilityEffectDescription": "通常攻撃後に稀にスキルを封印する",
           "effectIdx1": "166",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "91",
@@ -816,7 +996,9 @@ window.ability=[
           "abilityEffectDescription": "バトル開始から２回行動するまで、攻撃力が８０％アップする",
           "effectIdx1": "169",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "92",
@@ -825,7 +1007,9 @@ window.ability=[
           "abilityEffectDescription": "スキルを受けた時、確率で無効化する。",
           "effectIdx1": "27",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "93",
@@ -834,7 +1018,9 @@ window.ability=[
           "abilityEffectDescription": "防御力と回避率を１０％アップする",
           "effectIdx1": "3",
           "effectIdx2": "118",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "94",
@@ -843,7 +1029,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラMAX時に攻撃力が５０％上昇する",
           "effectIdx1": "51",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "95",
@@ -852,7 +1040,9 @@ window.ability=[
           "abilityEffectDescription": "水遁と火遁と土遁を半減する。",
           "effectIdx1": "170",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "96",
@@ -861,7 +1051,9 @@ window.ability=[
           "abilityEffectDescription": "全スキルダメージを軽減する",
           "effectIdx1": "20500",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "97",
@@ -870,7 +1062,9 @@ window.ability=[
           "abilityEffectDescription": "行動後にHPとチャクラが５％回復する",
           "effectIdx1": "172",
           "effectIdx2": "173",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "98",
@@ -879,7 +1073,9 @@ window.ability=[
           "abilityEffectDescription": "HPが６０％以下の時、状態異常になる確率を半減する。",
           "effectIdx1": "174",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "99",
@@ -888,7 +1084,9 @@ window.ability=[
           "abilityEffectDescription": "バトル開始から５回行動するまで、攻撃力が４０％アップする",
           "effectIdx1": "175",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "100",
@@ -897,7 +1095,9 @@ window.ability=[
           "abilityEffectDescription": "バトル開始から５回行動するまで、素早さが４０％アップする",
           "effectIdx1": "177",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "101",
@@ -906,7 +1106,9 @@ window.ability=[
           "abilityEffectDescription": "バトル開始から５回行動するまで、防御力が４０％アップする",
           "effectIdx1": "176",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "102",
@@ -915,7 +1117,9 @@ window.ability=[
           "abilityEffectDescription": "ＨＰ２０％以下の時に攻撃力が１００％アップする",
           "effectIdx1": "179",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "103",
@@ -924,7 +1128,9 @@ window.ability=[
           "abilityEffectDescription": "素早さが30％アップする",
           "effectIdx1": "183",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "104",
@@ -933,7 +1139,9 @@ window.ability=[
           "abilityEffectDescription": "幻術無効＆秘伝スキルのダメージを30％アップする",
           "effectIdx1": "46",
           "effectIdx2": "362",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "105",
@@ -942,7 +1150,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃を受けた際にＨＰが10％回復する",
           "effectIdx1": "191",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "106",
@@ -951,7 +1161,9 @@ window.ability=[
           "abilityEffectDescription": "5回行動するまで防御力が60％アップする",
           "effectIdx1": "185",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "107",
@@ -960,7 +1172,9 @@ window.ability=[
           "abilityEffectDescription": "通常攻撃時に与えたダメージの2％を吸収する",
           "effectIdx1": "14",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "108",
@@ -969,7 +1183,9 @@ window.ability=[
           "abilityEffectDescription": "確率でスキルを無効化する",
           "effectIdx1": "27",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "109",
@@ -978,7 +1194,9 @@ window.ability=[
           "abilityEffectDescription": "通常攻撃を受けた際に確率で受けるダメージを減らす",
           "effectIdx1": "187",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "110",
@@ -987,7 +1205,9 @@ window.ability=[
           "abilityEffectDescription": "HP３０％以下の時に攻撃力と防御力と固有スキルのダメージがアップする",
           "effectIdx1": "49",
           "effectIdx2": "50",
-          "effectIdx3": "192"
+          "effectIdx3": "192",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "111",
@@ -996,7 +1216,9 @@ window.ability=[
           "abilityEffectDescription": "固有タイプのスキルダメージを20％アップする",
           "effectIdx1": "193",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "112",
@@ -1005,7 +1227,9 @@ window.ability=[
           "abilityEffectDescription": "確率でスキルを無効化する",
           "effectIdx1": "27",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "113",
@@ -1014,7 +1238,9 @@ window.ability=[
           "abilityEffectDescription": "時空間タイプのスキルダメージを30％アップする",
           "effectIdx1": "195",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "114",
@@ -1023,7 +1249,9 @@ window.ability=[
           "abilityEffectDescription": "HP50％以下になると素早さが40％アップする",
           "effectIdx1": "196",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "115",
@@ -1032,7 +1260,9 @@ window.ability=[
           "abilityEffectDescription": "会心率と会心力が20％アップする",
           "effectIdx1": "199",
           "effectIdx2": "200",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "116",
@@ -1041,7 +1271,9 @@ window.ability=[
           "abilityEffectDescription": "防御力と素早さが20％アップする",
           "effectIdx1": "106",
           "effectIdx2": "109",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "117",
@@ -1050,7 +1282,9 @@ window.ability=[
           "abilityEffectDescription": "HP50％以下になると攻撃力が30％アップする",
           "effectIdx1": "201",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "118",
@@ -1059,7 +1293,9 @@ window.ability=[
           "abilityEffectDescription": "HPが60％以上の時に防御力が50％アップする",
           "effectIdx1": "153",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "119",
@@ -1068,7 +1304,9 @@ window.ability=[
           "abilityEffectDescription": "HP30％以下になると秘伝タイプのスキルダメージが30％アップする",
           "effectIdx1": "202",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "120",
@@ -1077,7 +1315,9 @@ window.ability=[
           "abilityEffectDescription": "HP0以下で1回だけHPが小回復し攻撃が80％アップする",
           "effectIdx1": "312",
           "effectIdx2": "313",
-          "effectIdx3": "314"
+          "effectIdx3": "314",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "121",
@@ -1086,7 +1326,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラMAX時に防御力と素早さが50％アップする",
           "effectIdx1": "220",
           "effectIdx2": "221",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "122",
@@ -1095,7 +1337,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラ消費量が15％ダウンする",
           "effectIdx1": "204",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "123",
@@ -1104,7 +1348,9 @@ window.ability=[
           "abilityEffectDescription": "5回行動するまで、攻撃力が40％アップする。",
           "effectIdx1": "175",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "124",
@@ -1113,7 +1359,9 @@ window.ability=[
           "abilityEffectDescription": "HP20％以下の時、固有スキルのダメージが50％アップ。",
           "effectIdx1": "208",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "125",
@@ -1122,7 +1370,9 @@ window.ability=[
           "abilityEffectDescription": "固有タイプのスキルダメージを20％アップする",
           "effectIdx1": "20",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "126",
@@ -1131,7 +1381,9 @@ window.ability=[
           "abilityEffectDescription": "防御力が50％アップ＆体術、武器スキルのダメージを半減",
           "effectIdx1": "37",
           "effectIdx2": "43",
-          "effectIdx3": "276"
+          "effectIdx3": "276",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "127",
@@ -1140,7 +1392,9 @@ window.ability=[
           "abilityEffectDescription": "封印、混乱、魅了を無効化する",
           "effectIdx1": "69",
           "effectIdx2": "68",
-          "effectIdx3": "67"
+          "effectIdx3": "67",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "128",
@@ -1149,7 +1403,9 @@ window.ability=[
           "abilityEffectDescription": "バトル開始時に確率で攻撃・防御・素早さが40％アップ",
           "effectIdx1": "363",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "129",
@@ -1158,7 +1414,9 @@ window.ability=[
           "abilityEffectDescription": "HP50％以下の時、攻撃力と素早さが２０％アップ",
           "effectIdx1": "212",
           "effectIdx2": "213",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "130",
@@ -1167,7 +1425,9 @@ window.ability=[
           "abilityEffectDescription": "行動後にチャクラが5％回復する",
           "effectIdx1": "29",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "131",
@@ -1176,7 +1436,9 @@ window.ability=[
           "abilityEffectDescription": "通常攻撃が必ず当たり、会心率と会心力が20％アップする",
           "effectIdx1": "30",
           "effectIdx2": "199",
-          "effectIdx3": "200"
+          "effectIdx3": "200",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "132",
@@ -1185,7 +1447,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力が10％アップし、行動後にチャクラが5％回復する",
           "effectIdx1": "1",
           "effectIdx2": "29",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "133",
@@ -1194,7 +1458,9 @@ window.ability=[
           "abilityEffectDescription": "体術タイプのスキルダメージが10％アップし、行動後にチャクラが5％回復する",
           "effectIdx1": "127",
           "effectIdx2": "29",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "134",
@@ -1203,7 +1469,9 @@ window.ability=[
           "abilityEffectDescription": "3回行動するまで素早さが20％アップする",
           "effectIdx1": "225",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "135",
@@ -1212,7 +1480,9 @@ window.ability=[
           "abilityEffectDescription": "雷遁タイプのスキルダメージが20％アップする",
           "effectIdx1": "101",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "136",
@@ -1221,7 +1491,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力が25％アップする",
           "effectIdx1": "107",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "137",
@@ -1230,7 +1502,9 @@ window.ability=[
           "abilityEffectDescription": "回避率20％アップする",
           "effectIdx1": "134",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "138",
@@ -1239,7 +1513,9 @@ window.ability=[
           "abilityEffectDescription": "風遁と武器タイプのスキルダメージが１０％アップする",
           "effectIdx1": "147",
           "effectIdx2": "126",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "139",
@@ -1248,7 +1524,9 @@ window.ability=[
           "abilityEffectDescription": "水遁タイプのスキルを半減する",
           "effectIdx1": "41",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "140",
@@ -1257,7 +1535,9 @@ window.ability=[
           "abilityEffectDescription": "HPが７０％以上の時、攻撃力が３０％アップする。",
           "effectIdx1": "70",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "141",
@@ -1266,7 +1546,9 @@ window.ability=[
           "abilityEffectDescription": "水遁タイプのスキルを半減する",
           "effectIdx1": "41",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "142",
@@ -1275,7 +1557,9 @@ window.ability=[
           "abilityEffectDescription": "行動毎に攻撃力が10％アップする（10回まで）",
           "effectIdx1": "471",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "143",
@@ -1284,7 +1568,9 @@ window.ability=[
           "abilityEffectDescription": "行動後にHPが12%回復する",
           "effectIdx1": "235",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "144",
@@ -1293,7 +1579,9 @@ window.ability=[
           "abilityEffectDescription": "幻術無効。写輪眼タイプのスキルダメージを50％アップする",
           "effectIdx1": "46",
           "effectIdx2": "241",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "145",
@@ -1302,7 +1590,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と素早さが20％アップする",
           "effectIdx1": "105",
           "effectIdx2": "109",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "146",
@@ -1311,7 +1601,9 @@ window.ability=[
           "abilityEffectDescription": "3回行動するまで素早さが60％アップする",
           "effectIdx1": "237",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "147",
@@ -1320,7 +1612,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力が15％アップする",
           "effectIdx1": "2",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "148",
@@ -1329,7 +1623,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが15%アップする",
           "effectIdx1": "117",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "149",
@@ -1338,7 +1634,9 @@ window.ability=[
           "abilityEffectDescription": "確率で次回行動時の攻撃力が50％アップする",
           "effectIdx1": "239",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "150",
@@ -1347,7 +1645,9 @@ window.ability=[
           "abilityEffectDescription": "火遁タイプのスキルダメージが20％アップする",
           "effectIdx1": "18",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "151",
@@ -1356,7 +1656,9 @@ window.ability=[
           "abilityEffectDescription": "3回行動するまで攻撃力が20％アップする",
           "effectIdx1": "224",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "152",
@@ -1365,7 +1667,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と防御力が10％アップする",
           "effectIdx1": "1",
           "effectIdx2": "3",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "153",
@@ -1374,7 +1678,9 @@ window.ability=[
           "abilityEffectDescription": "HP60％以上の時に攻撃力と防御力が20％アップする",
           "effectIdx1": "244",
           "effectIdx2": "245",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "154",
@@ -1383,7 +1689,9 @@ window.ability=[
           "abilityEffectDescription": "7回行動するまで攻撃力と防御力と素早さが17％アップする",
           "effectIdx1": "246",
           "effectIdx2": "247",
-          "effectIdx3": "248"
+          "effectIdx3": "248",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "155",
@@ -1392,7 +1700,9 @@ window.ability=[
           "abilityEffectDescription": "HPが70％以上の時に攻撃力が30％アップする",
           "effectIdx1": "249",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "156",
@@ -1401,7 +1711,9 @@ window.ability=[
           "abilityEffectDescription": "武器タイプのスキルダメージが40％上昇するが、チャクラ消費量が10％増加する",
           "effectIdx1": "156",
           "effectIdx2": "250",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "157",
@@ -1410,7 +1722,9 @@ window.ability=[
           "abilityEffectDescription": "全てのスキルを無効化する",
           "effectIdx1": "0",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "158",
@@ -1419,7 +1733,9 @@ window.ability=[
           "abilityEffectDescription": "素早さが100％アップする",
           "effectIdx1": "253",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "159",
@@ -1428,7 +1744,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力が50％アップし防御力が50％ダウンする",
           "effectIdx1": "251",
           "effectIdx2": "252",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "160",
@@ -1437,7 +1755,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力が30％アップする",
           "effectIdx1": "205",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "161",
@@ -1446,7 +1766,9 @@ window.ability=[
           "abilityEffectDescription": "体術タイプのスキルダメージと素早さが20％アップする",
           "effectIdx1": "19",
           "effectIdx2": "109",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "162",
@@ -1455,7 +1777,9 @@ window.ability=[
           "abilityEffectDescription": "3回行動するまで全てのスキルダメージを半減する",
           "effectIdx1": "254",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "163",
@@ -1464,7 +1788,9 @@ window.ability=[
           "abilityEffectDescription": "写輪眼タイプのスキルダメージが20％アップするが、チャクラ消費量が10％アップする",
           "effectIdx1": "159",
           "effectIdx2": "250",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "164",
@@ -1473,7 +1799,9 @@ window.ability=[
           "abilityEffectDescription": "HP50％以下の時に素早さが40％アップする",
           "effectIdx1": "196",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "165",
@@ -1482,7 +1810,9 @@ window.ability=[
           "abilityEffectDescription": "HP30％以下になると体術タイプのスキルダメージが40％アップする",
           "effectIdx1": "255",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "166",
@@ -1491,7 +1821,9 @@ window.ability=[
           "abilityEffectDescription": "木遁タイプのスキルダメージを20％アップする",
           "effectIdx1": "256",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "167",
@@ -1500,7 +1832,9 @@ window.ability=[
           "abilityEffectDescription": "素早さが20%アップし、水遁タイプのスキルダメージが10%アップする",
           "effectIdx1": "109",
           "effectIdx2": "124",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "168",
@@ -1509,7 +1843,9 @@ window.ability=[
           "abilityEffectDescription": "水遁タイプのスキルを半減する",
           "effectIdx1": "41",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "169",
@@ -1518,7 +1854,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力が10%アップし、通常攻撃が回避されないようになる",
           "effectIdx1": "1",
           "effectIdx2": "30",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "170",
@@ -1527,7 +1865,9 @@ window.ability=[
           "abilityEffectDescription": "防御力が25%アップする",
           "effectIdx1": "108",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "171",
@@ -1536,7 +1876,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力が70％素早さが30％アップする",
           "effectIdx1": "259",
           "effectIdx2": "183",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "172",
@@ -1545,7 +1887,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力が50％アップし防御力が30％ダウンする",
           "effectIdx1": "251",
           "effectIdx2": "219",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "173",
@@ -1554,7 +1898,9 @@ window.ability=[
           "abilityEffectDescription": "行動後にHPが2％回復する",
           "effectIdx1": "263",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "174",
@@ -1563,7 +1909,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と素早さが100％アップする",
           "effectIdx1": "264",
           "effectIdx2": "253",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "175",
@@ -1572,7 +1920,9 @@ window.ability=[
           "abilityEffectDescription": "HP30％から1％以内になると一度だけHPが全回復し攻撃･防御・素早さが50％アップ",
           "effectIdx1": "265",
           "effectIdx2": "269",
-          "effectIdx3": "266"
+          "effectIdx3": "266",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "176",
@@ -1581,7 +1931,9 @@ window.ability=[
           "abilityEffectDescription": "5回行動するまで消費チャクラが半減しスキルダメージが150％アップする",
           "effectIdx1": "268",
           "effectIdx2": "275",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "177",
@@ -1590,7 +1942,9 @@ window.ability=[
           "abilityEffectDescription": "HP30％以下になると全てのダメージを半減する",
           "effectIdx1": "271",
           "effectIdx2": "272",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "178",
@@ -1599,7 +1953,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力・防御力・素早さが15％アップしスキルダメージが40％アップする",
           "effectIdx1": "270",
           "effectIdx2": "361",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "179",
@@ -1608,7 +1964,9 @@ window.ability=[
           "abilityEffectDescription": "3回行動するまで素早さが60％アップする",
           "effectIdx1": "237",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "180",
@@ -1617,7 +1975,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと防御力が10％アップする",
           "effectIdx1": "3",
           "effectIdx2": "13",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "181",
@@ -1626,7 +1986,9 @@ window.ability=[
           "abilityEffectDescription": "HP70％以上の場合にスキルダメージを軽減する",
           "effectIdx1": "267",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "182",
@@ -1635,7 +1997,9 @@ window.ability=[
           "abilityEffectDescription": "HP60％以上の時、攻撃力と防御力が２０％アップする。",
           "effectIdx1": "244",
           "effectIdx2": "245",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "183",
@@ -1644,7 +2008,9 @@ window.ability=[
           "abilityEffectDescription": "写輪眼タイプのダメージが20％アップする",
           "effectIdx1": "159",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "184",
@@ -1653,7 +2019,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と防御力が50％アップする",
           "effectIdx1": "251",
           "effectIdx2": "276",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "185",
@@ -1662,7 +2030,9 @@ window.ability=[
           "abilityEffectDescription": "HP20％以下になると防御力が100％アップする",
           "effectIdx1": "277",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "186",
@@ -1671,7 +2041,9 @@ window.ability=[
           "abilityEffectDescription": "HPが30％以下の時、攻撃力と防御力が50％アップする",
           "effectIdx1": "32",
           "effectIdx2": "33",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "187",
@@ -1680,7 +2052,9 @@ window.ability=[
           "abilityEffectDescription": "武器タイプのダメージが30％アップする",
           "effectIdx1": "60",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "188",
@@ -1689,7 +2063,9 @@ window.ability=[
           "abilityEffectDescription": "確率で次回行動時の攻撃力が100％アップする",
           "effectIdx1": "280",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "189",
@@ -1698,7 +2074,9 @@ window.ability=[
           "abilityEffectDescription": "5回行動するまでスキルダメージを軽減する",
           "effectIdx1": "281",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "190",
@@ -1707,7 +2085,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと防御力が15％アップする",
           "effectIdx1": "117",
           "effectIdx2": "4",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "191",
@@ -1716,7 +2096,9 @@ window.ability=[
           "abilityEffectDescription": "確率で行動後に素早さが20％ダウンする",
           "effectIdx1": "512",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "192",
@@ -1725,7 +2107,9 @@ window.ability=[
           "abilityEffectDescription": "火、土、風遁のダメージを半減する",
           "effectIdx1": "283",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "193",
@@ -1734,7 +2118,9 @@ window.ability=[
           "abilityEffectDescription": "7回行動後に攻撃力と防御力が50％アップする",
           "effectIdx1": "284",
           "effectIdx2": "285",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "194",
@@ -1743,7 +2129,9 @@ window.ability=[
           "abilityEffectDescription": "3回行動するまで攻撃力と素早さが30％アップする",
           "effectIdx1": "286",
           "effectIdx2": "287",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "195",
@@ -1752,7 +2140,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力が15％アップする",
           "effectIdx1": "2",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "196",
@@ -1761,7 +2151,9 @@ window.ability=[
           "abilityEffectDescription": "バトル開始時に確率で攻撃力が40％アップする",
           "effectIdx1": "288",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "197",
@@ -1770,7 +2162,9 @@ window.ability=[
           "abilityEffectDescription": "防御力が15％アップする",
           "effectIdx1": "4",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "198",
@@ -1779,7 +2173,9 @@ window.ability=[
           "abilityEffectDescription": "5回行動後に状態異常にかかる確率が半減する",
           "effectIdx1": "289",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "199",
@@ -1788,7 +2184,9 @@ window.ability=[
           "abilityEffectDescription": "幻術無効＆消費チャクラが12％減少する",
           "effectIdx1": "46",
           "effectIdx2": "138",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "200",
@@ -1797,7 +2195,9 @@ window.ability=[
           "abilityEffectDescription": "3回行動するまで魔幻・樹縛滅殺が必ず成功（耐性には影響される）",
           "effectIdx1": "292",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "201",
@@ -1806,7 +2206,9 @@ window.ability=[
           "abilityEffectDescription": "HP50％以上の時に攻撃力が70％アップ&amp;スキルダメージ半減",
           "effectIdx1": "449",
           "effectIdx2": "450",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "202",
@@ -1815,7 +2217,9 @@ window.ability=[
           "abilityEffectDescription": "5回行動するまで状態異常無効＆火遁スキルのダメージ100％アップ",
           "effectIdx1": "451",
           "effectIdx2": "452",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "203",
@@ -1824,7 +2228,9 @@ window.ability=[
           "abilityEffectDescription": "HP50％以下になると攻撃力40％アップする",
           "effectIdx1": "299",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "204",
@@ -1833,7 +2239,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと攻撃力が15％アップする",
           "effectIdx1": "300",
           "effectIdx2": "301",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "205",
@@ -1842,7 +2250,9 @@ window.ability=[
           "abilityEffectDescription": "行動後に確率で次回行動時の素早さが100％アップする",
           "effectIdx1": "302",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "206",
@@ -1851,7 +2261,9 @@ window.ability=[
           "abilityEffectDescription": "時空間スキルのダメージが40％アップする",
           "effectIdx1": "303",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "207",
@@ -1860,7 +2272,9 @@ window.ability=[
           "abilityEffectDescription": "HP80％以上の時に攻撃力が30％アップする",
           "effectIdx1": "304",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "208",
@@ -1869,7 +2283,9 @@ window.ability=[
           "abilityEffectDescription": "HP0以下で1回だけHPが少し回復。さらに攻撃力が80％アップ",
           "effectIdx1": "312",
           "effectIdx2": "313",
-          "effectIdx3": "314"
+          "effectIdx3": "314",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "209",
@@ -1878,7 +2294,9 @@ window.ability=[
           "abilityEffectDescription": "3回行動するまでスキルダメージが50％アップする",
           "effectIdx1": "305",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "210",
@@ -1887,7 +2305,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと防御力が10％アップする",
           "effectIdx1": "3",
           "effectIdx2": "13",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "211",
@@ -1896,7 +2316,9 @@ window.ability=[
           "abilityEffectDescription": "HP回復スキルの基礎回復量が30％アップする",
           "effectIdx1": "306",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "212",
@@ -1905,7 +2327,9 @@ window.ability=[
           "abilityEffectDescription": "HP20％以下の時にダメージを半減する",
           "effectIdx1": "307",
           "effectIdx2": "308",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "213",
@@ -1914,7 +2338,9 @@ window.ability=[
           "abilityEffectDescription": "行動後にHPが5％回復する",
           "effectIdx1": "172",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "214",
@@ -1923,7 +2349,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と防御力が10％アップする",
           "effectIdx1": "1",
           "effectIdx2": "3",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "215",
@@ -1932,7 +2360,9 @@ window.ability=[
           "abilityEffectDescription": "3回行動するまで攻撃力が30％アップする",
           "effectIdx1": "54",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "216",
@@ -1941,7 +2371,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と素早さが10％アップする",
           "effectIdx1": "1",
           "effectIdx2": "5",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "217",
@@ -1950,7 +2382,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と素早さがアップする",
           "effectIdx1": "343",
           "effectIdx2": "344",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "218",
@@ -1959,7 +2393,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力が30％アップする",
           "effectIdx1": "205",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "219",
@@ -1968,7 +2404,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力が50％アップする",
           "effectIdx1": "251",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "220",
@@ -1977,7 +2415,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力が100％アップする",
           "effectIdx1": "264",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "221",
@@ -1986,7 +2426,9 @@ window.ability=[
           "abilityEffectDescription": "5回行動後に攻撃力と防御力が20％アップする",
           "effectIdx1": "346",
           "effectIdx2": "347",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "222",
@@ -1995,7 +2437,9 @@ window.ability=[
           "abilityEffectDescription": "仙術タイプのスキルダメージが20％アップする",
           "effectIdx1": "274",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "223",
@@ -2004,7 +2448,9 @@ window.ability=[
           "abilityEffectDescription": "武器スキルのダメージ30％アップする",
           "effectIdx1": "60",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "224",
@@ -2013,7 +2459,9 @@ window.ability=[
           "abilityEffectDescription": "消費チャクラが10％ダウン＆攻撃力が25％アップする",
           "effectIdx1": "348",
           "effectIdx2": "107",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "225",
@@ -2022,7 +2470,9 @@ window.ability=[
           "abilityEffectDescription": "バトル開始時に確率で攻撃力が30％アップする",
           "effectIdx1": "349",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "226",
@@ -2031,7 +2481,9 @@ window.ability=[
           "abilityEffectDescription": "5回行動後から行動後にHPが7％回復する",
           "effectIdx1": "350",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "227",
@@ -2040,7 +2492,9 @@ window.ability=[
           "abilityEffectDescription": "5回行動するまでスキルダメージが30％アップする",
           "effectIdx1": "355",
           "effectIdx2": "356",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "228",
@@ -2049,7 +2503,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージを半減する",
           "effectIdx1": "351",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "229",
@@ -2058,7 +2514,9 @@ window.ability=[
           "abilityEffectDescription": "行動後に低確率でチャクラが全回復する",
           "effectIdx1": "353",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "230",
@@ -2067,7 +2525,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力が25％アップ＆写輪眼半減",
           "effectIdx1": "107",
           "effectIdx2": "78",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "231",
@@ -2076,7 +2536,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と素早さが20％アップする",
           "effectIdx1": "105",
           "effectIdx2": "109",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "232",
@@ -2085,7 +2547,9 @@ window.ability=[
           "abilityEffectDescription": "HP0以下で1回だけHPが中回復。裏蓮華のダメージが70％アップ",
           "effectIdx1": "312",
           "effectIdx2": "355",
-          "effectIdx3": "354"
+          "effectIdx3": "354",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "233",
@@ -2094,7 +2558,9 @@ window.ability=[
           "abilityEffectDescription": "ダメージを受けた際に確率でHPが回復する",
           "effectIdx1": "0",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "234",
@@ -2103,7 +2569,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラMAX時にHPが15％回復する",
           "effectIdx1": "358",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "235",
@@ -2112,7 +2580,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と素早さが15％アップする",
           "effectIdx1": "2",
           "effectIdx2": "6",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "236",
@@ -2121,7 +2591,9 @@ window.ability=[
           "abilityEffectDescription": "3回行動するまでチャクラ消費が半減する",
           "effectIdx1": "359",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "237",
@@ -2130,7 +2602,9 @@ window.ability=[
           "abilityEffectDescription": "雷遁と体術スキルのダメージが20％アップする",
           "effectIdx1": "101",
           "effectIdx2": "19",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "238",
@@ -2139,7 +2613,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと攻撃力が15％アップする",
           "effectIdx1": "2",
           "effectIdx2": "117",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "239",
@@ -2148,7 +2624,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力が100％アップする",
           "effectIdx1": "0",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "240",
@@ -2157,7 +2635,9 @@ window.ability=[
           "abilityEffectDescription": "弱体化無効＆行動後にHPが5％回復する",
           "effectIdx1": "64",
           "effectIdx2": "172",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "241",
@@ -2166,7 +2646,9 @@ window.ability=[
           "abilityEffectDescription": "HP90％以上の時に武器スキルのダメージが50％アップ",
           "effectIdx1": "367",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "242",
@@ -2175,7 +2657,9 @@ window.ability=[
           "abilityEffectDescription": "HP50％以上の時に攻撃力と防御力が40％アップする",
           "effectIdx1": "1418",
           "effectIdx2": "1419",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "243",
@@ -2184,7 +2668,9 @@ window.ability=[
           "abilityEffectDescription": "ダメージを受けた際に確率でHPを12％回復する",
           "effectIdx1": "369",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "244",
@@ -2193,7 +2679,9 @@ window.ability=[
           "abilityEffectDescription": "秘伝スキルのダメージを20％アップする",
           "effectIdx1": "21",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "245",
@@ -2202,7 +2690,9 @@ window.ability=[
           "abilityEffectDescription": "0",
           "effectIdx1": "0",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "246",
@@ -2211,7 +2701,9 @@ window.ability=[
           "abilityEffectDescription": "HP30%以下で固有スキルダメージが30％アップする",
           "effectIdx1": "192",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "247",
@@ -2220,7 +2712,9 @@ window.ability=[
           "abilityEffectDescription": "HPと防御力が10％アップする",
           "effectIdx1": "13",
           "effectIdx2": "3",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "248",
@@ -2229,7 +2723,9 @@ window.ability=[
           "abilityEffectDescription": "水遁スキルを無効化＆水遁スキルのダメージを30％アップ",
           "effectIdx1": "42",
           "effectIdx2": "345",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "249",
@@ -2238,7 +2734,9 @@ window.ability=[
           "abilityEffectDescription": "行動後にHPが5％チャクラが10％回復する",
           "effectIdx1": "28",
           "effectIdx2": "53",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "250",
@@ -2247,7 +2745,9 @@ window.ability=[
           "abilityEffectDescription": "武器半減＆磁遁スキルのダメージを30％アップする",
           "effectIdx1": "43",
           "effectIdx2": "319",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "251",
@@ -2256,7 +2756,9 @@ window.ability=[
           "abilityEffectDescription": "通常攻撃が必ず当たる＆白眼スキルのダメージ30％アップ",
           "effectIdx1": "30",
           "effectIdx2": "318",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "252",
@@ -2265,7 +2767,9 @@ window.ability=[
           "abilityEffectDescription": "火遁スキルを無効化＆火遁スキルのダメージを30％アップ",
           "effectIdx1": "36",
           "effectIdx2": "364",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "253",
@@ -2274,7 +2778,9 @@ window.ability=[
           "abilityEffectDescription": "HP30％以下になると確率でスキル回避して無効化する",
           "effectIdx1": "365",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "254",
@@ -2283,7 +2789,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラ消費量が12％減少＆輪廻眼スキルのダメージが30％アップ",
           "effectIdx1": "138",
           "effectIdx2": "317",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "255",
@@ -2292,7 +2800,9 @@ window.ability=[
           "abilityEffectDescription": "HP80％以上の時に攻撃力50％アップ＆チャクラ消費量20％減少",
           "effectIdx1": "297",
           "effectIdx2": "366",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "256",
@@ -2301,7 +2811,9 @@ window.ability=[
           "abilityEffectDescription": "雷遁スキルを無効化＆雷遁スキルのダメージを20％アップ",
           "effectIdx1": "86",
           "effectIdx2": "101",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "257",
@@ -2310,7 +2822,9 @@ window.ability=[
           "abilityEffectDescription": "医療スキルのダメージが30％アップ＆行動後にHPが5％回復",
           "effectIdx1": "320",
           "effectIdx2": "172",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "258",
@@ -2319,7 +2833,9 @@ window.ability=[
           "abilityEffectDescription": "行動後に確率で次回行動時の攻撃力が50％アップ",
           "effectIdx1": "372",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "259",
@@ -2328,7 +2844,9 @@ window.ability=[
           "abilityEffectDescription": "行動後にHPとチャクラが10％回復する",
           "effectIdx1": "52",
           "effectIdx2": "53",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "260",
@@ -2337,7 +2855,9 @@ window.ability=[
           "abilityEffectDescription": "HP80％以上の時に消費チャクラ20％減＆スキルダメージ100％アップ",
           "effectIdx1": "386",
           "effectIdx2": "387",
-          "effectIdx3": "388"
+          "effectIdx3": "388",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "261",
@@ -2346,7 +2866,9 @@ window.ability=[
           "abilityEffectDescription": "幻術無効＆炎遁スキルのダメージが70％アップ",
           "effectIdx1": "46",
           "effectIdx2": "389",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "262",
@@ -2355,7 +2877,9 @@ window.ability=[
           "abilityEffectDescription": "HP50％以下になると消費チャクラが半減する",
           "effectIdx1": "1220",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "263",
@@ -2364,7 +2888,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと防御力が25％アップ",
           "effectIdx1": "227",
           "effectIdx2": "108",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "264",
@@ -2373,7 +2899,9 @@ window.ability=[
           "abilityEffectDescription": "確率で次回行動時スキルダメージ50％アップ＆素早さ80％アップ",
           "effectIdx1": "391",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "265",
@@ -2382,7 +2910,9 @@ window.ability=[
           "abilityEffectDescription": "3回行動するまで雷遁無効＆雷遁スキルのダメージ50％アップ",
           "effectIdx1": "394",
           "effectIdx2": "395",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "266",
@@ -2391,7 +2921,9 @@ window.ability=[
           "abilityEffectDescription": "HP80％以上の時に攻撃力と素早さが50％アップする",
           "effectIdx1": "396",
           "effectIdx2": "397",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "267",
@@ -2400,7 +2932,9 @@ window.ability=[
           "abilityEffectDescription": "HPが大きく回復する。",
           "effectIdx1": "0",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "268",
@@ -2409,7 +2943,9 @@ window.ability=[
           "abilityEffectDescription": "バトル開始時に確率で攻撃力が40％アップする",
           "effectIdx1": "405",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "269",
@@ -2418,7 +2954,9 @@ window.ability=[
           "abilityEffectDescription": "HP0以下で1回だけHPが小回復する。",
           "effectIdx1": "312",
           "effectIdx2": "313",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "270",
@@ -2427,7 +2965,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力が50％アップする。",
           "effectIdx1": "251",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "271",
@@ -2436,7 +2976,9 @@ window.ability=[
           "abilityEffectDescription": "天照のダメージが50％アップする。",
           "effectIdx1": "407",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "272",
@@ -2445,7 +2987,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと防御力が15％アップする",
           "effectIdx1": "117",
           "effectIdx2": "4",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "273",
@@ -2454,7 +2998,9 @@ window.ability=[
           "abilityEffectDescription": "行動後に確率で次回行動時の攻撃力が100％アップする",
           "effectIdx1": "408",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "274",
@@ -2463,7 +3009,9 @@ window.ability=[
           "abilityEffectDescription": "水遁スキルのダメージを30％アップする",
           "effectIdx1": "345",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "275",
@@ -2472,7 +3020,9 @@ window.ability=[
           "abilityEffectDescription": "体術、武器スキルを無効化する",
           "effectIdx1": "44",
           "effectIdx2": "38",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "276",
@@ -2481,7 +3031,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と回避率が10％アップする。",
           "effectIdx1": "1",
           "effectIdx2": "118",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "277",
@@ -2490,7 +3042,9 @@ window.ability=[
           "abilityEffectDescription": "体術スキルのダメージを20％アップする。",
           "effectIdx1": "19",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "278",
@@ -2499,7 +3053,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラMAX時に輪廻眼スキルのダメージが120％アップする",
           "effectIdx1": "414",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "279",
@@ -2508,7 +3064,9 @@ window.ability=[
           "abilityEffectDescription": "HP80％以上の時に状態異常を無効化＆スキルダメージを半減",
           "effectIdx1": "409",
           "effectIdx2": "410",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "280",
@@ -2517,7 +3075,9 @@ window.ability=[
           "abilityEffectDescription": "確率でスキルを回避し無効化する",
           "effectIdx1": "27",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "281",
@@ -2526,7 +3086,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと素早さが15％アップする",
           "effectIdx1": "117",
           "effectIdx2": "6",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "282",
@@ -2535,7 +3097,9 @@ window.ability=[
           "abilityEffectDescription": "幻術無効＆写輪眼半減",
           "effectIdx1": "46",
           "effectIdx2": "78",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "283",
@@ -2544,7 +3108,9 @@ window.ability=[
           "abilityEffectDescription": "写輪眼スキルのダメージが80％アップするが、行動後に確率でHPが15％減少する。",
           "effectIdx1": "411",
           "effectIdx2": "412",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "284",
@@ -2553,7 +3119,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラの回復量が30％アップする",
           "effectIdx1": "413",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "285",
@@ -2562,7 +3130,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力が50％アップする",
           "effectIdx1": "251",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "286",
@@ -2571,7 +3141,9 @@ window.ability=[
           "abilityEffectDescription": "班の人数が助っ人含めて5人の時、攻撃力と防御力と素早さが30％アップする。",
           "effectIdx1": "415",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "287",
@@ -2580,7 +3152,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと攻撃力が40％アップする。",
           "effectIdx1": "494",
           "effectIdx2": "376",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "288",
@@ -2589,7 +3163,9 @@ window.ability=[
           "abilityEffectDescription": "HP80％以上の時に防御力とスキルダメージが40％アップする",
           "effectIdx1": "416",
           "effectIdx2": "417",
-          "effectIdx3": "418"
+          "effectIdx3": "418",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "289",
@@ -2598,7 +3174,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと攻撃力と防御力が20％アップする",
           "effectIdx1": "105",
           "effectIdx2": "106",
-          "effectIdx3": "218"
+          "effectIdx3": "218",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "290",
@@ -2607,7 +3185,9 @@ window.ability=[
           "abilityEffectDescription": "HP50％以下で攻撃力が30％アップ＆スキルダメージを半減",
           "effectIdx1": "201",
           "effectIdx2": "423",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "291",
@@ -2616,7 +3196,9 @@ window.ability=[
           "abilityEffectDescription": "5回行動後にスキルダメージが50％アップする",
           "effectIdx1": "424",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "292",
@@ -2625,7 +3207,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラ消費が10％減少＆弱体化無効",
           "effectIdx1": "348",
           "effectIdx2": "64",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "293",
@@ -2634,7 +3218,9 @@ window.ability=[
           "abilityEffectDescription": "HPが20％以下になると、口寄せのスキルダメージが100％アップする",
           "effectIdx1": "419",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "294",
@@ -2643,7 +3229,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と素早さが10％アップする",
           "effectIdx1": "1",
           "effectIdx2": "5",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "295",
@@ -2652,7 +3240,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと防御が10％アップする",
           "effectIdx1": "13",
           "effectIdx2": "3",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "296",
@@ -2661,7 +3251,9 @@ window.ability=[
           "abilityEffectDescription": "武器タイプのダメージが20％アップする",
           "effectIdx1": "22",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "297",
@@ -2670,7 +3262,9 @@ window.ability=[
           "abilityEffectDescription": "5回行動するまでチャクラ消費が20％減少する",
           "effectIdx1": "420",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "298",
@@ -2679,7 +3273,9 @@ window.ability=[
           "abilityEffectDescription": "HP80％以上の時に防御力が50％アップする",
           "effectIdx1": "421",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "299",
@@ -2688,7 +3284,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力が15％アップする",
           "effectIdx1": "2",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "300",
@@ -2697,7 +3295,9 @@ window.ability=[
           "abilityEffectDescription": "確率でスキルを回避し無効化する",
           "effectIdx1": "27",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "301",
@@ -2706,7 +3306,9 @@ window.ability=[
           "abilityEffectDescription": "行動後にチャクラが5％回復する",
           "effectIdx1": "29",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "302",
@@ -2715,7 +3317,9 @@ window.ability=[
           "abilityEffectDescription": "高確率で体術、武器スキルを無効化する",
           "effectIdx1": "428",
           "effectIdx2": "429",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "303",
@@ -2724,7 +3328,9 @@ window.ability=[
           "abilityEffectDescription": "HP30％以下になると攻撃力と防御力が50％アップする",
           "effectIdx1": "32",
           "effectIdx2": "33",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "304",
@@ -2733,7 +3339,9 @@ window.ability=[
           "abilityEffectDescription": "HP80％以上の時に攻撃力と素早さが50％アップする",
           "effectIdx1": "396",
           "effectIdx2": "397",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "305",
@@ -2742,7 +3350,9 @@ window.ability=[
           "abilityEffectDescription": "5回行動後に攻撃力が70％アップする",
           "effectIdx1": "438",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "306",
@@ -2751,7 +3361,9 @@ window.ability=[
           "abilityEffectDescription": "確率でダメージを半減する",
           "effectIdx1": "171",
           "effectIdx2": "180",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "307",
@@ -2760,7 +3372,9 @@ window.ability=[
           "abilityEffectDescription": "写輪眼スキルと武器スキルのダメージが50％アップ＆状態異常を無効化",
           "effectIdx1": "407",
           "effectIdx2": "501",
-          "effectIdx3": "82"
+          "effectIdx3": "82",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "308",
@@ -2769,7 +3383,9 @@ window.ability=[
           "abilityEffectDescription": "行動後に確率で再度行動できる※再行動後にさらに行動はできない",
           "effectIdx1": "439",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "309",
@@ -2778,7 +3394,9 @@ window.ability=[
           "abilityEffectDescription": "HP30％以下になると素早さとスキルダメージが30％アップする",
           "effectIdx1": "431",
           "effectIdx2": "432",
-          "effectIdx3": "433"
+          "effectIdx3": "433",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "310",
@@ -2787,7 +3405,9 @@ window.ability=[
           "abilityEffectDescription": "HP90％以上の時にスキルダメージが50％アップする",
           "effectIdx1": "440",
           "effectIdx2": "441",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "311",
@@ -2796,7 +3416,9 @@ window.ability=[
           "abilityEffectDescription": "火遁スキルのダメージが50％アップ＆封印を無効化",
           "effectIdx1": "538",
           "effectIdx2": "69",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "312",
@@ -2805,7 +3427,9 @@ window.ability=[
           "abilityEffectDescription": "行動後に確率で次回行動時の素早さが100％アップする",
           "effectIdx1": "302",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "313",
@@ -2814,7 +3438,9 @@ window.ability=[
           "abilityEffectDescription": "防御力が15％アップ＆麻痺を無効化する",
           "effectIdx1": "4",
           "effectIdx2": "66",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "314",
@@ -2823,7 +3449,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラ回復量が20％アップ＆木遁スキルのダメージが30％アップ",
           "effectIdx1": "436",
           "effectIdx2": "437",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "315",
@@ -2832,7 +3460,9 @@ window.ability=[
           "abilityEffectDescription": "3回行動するまでチャクラ消費が30％減少する",
           "effectIdx1": "443",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "316",
@@ -2841,7 +3471,9 @@ window.ability=[
           "abilityEffectDescription": "2回行動するまで風遁スキルのダメージが50％アップする",
           "effectIdx1": "444",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "317",
@@ -2850,7 +3482,9 @@ window.ability=[
           "abilityEffectDescription": "行動後に確率でチャクラが全回復する",
           "effectIdx1": "353",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "318",
@@ -2859,7 +3493,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと攻撃力と防御力を20％アップする",
           "effectIdx1": "0",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "319",
@@ -2868,7 +3504,9 @@ window.ability=[
           "abilityEffectDescription": "HP回復スキルの基礎回復量が30％アップする",
           "effectIdx1": "306",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "320",
@@ -2877,7 +3515,9 @@ window.ability=[
           "abilityEffectDescription": "行動後に自身のチャクラが５％回復する",
           "effectIdx1": "446",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "321",
@@ -2886,7 +3526,9 @@ window.ability=[
           "abilityEffectDescription": "確率でスキルを回避して無効化する",
           "effectIdx1": "27",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "322",
@@ -2895,7 +3537,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力が50％アップする",
           "effectIdx1": "251",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "323",
@@ -2904,7 +3548,9 @@ window.ability=[
           "abilityEffectDescription": "行動後に確率でチャクラが50％回復する",
           "effectIdx1": "453",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "324",
@@ -2913,7 +3559,9 @@ window.ability=[
           "abilityEffectDescription": "3回行動後に攻撃力が50％アップする",
           "effectIdx1": "454",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "325",
@@ -2922,7 +3570,9 @@ window.ability=[
           "abilityEffectDescription": "確率で次回行動時の攻撃力が50％アップする",
           "effectIdx1": "372",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "326",
@@ -2931,7 +3581,9 @@ window.ability=[
           "abilityEffectDescription": "行動後にHPが10％回復する",
           "effectIdx1": "52",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "327",
@@ -2940,7 +3592,9 @@ window.ability=[
           "abilityEffectDescription": "行動後に確率でHPとチャクラが5％回復する。",
           "effectIdx1": "459",
           "effectIdx2": "460",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "328",
@@ -2949,7 +3603,9 @@ window.ability=[
           "abilityEffectDescription": "行動後に確率で攻撃力が30％アップする。",
           "effectIdx1": "461",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "329",
@@ -2958,7 +3614,9 @@ window.ability=[
           "abilityEffectDescription": "10回行動するまで攻撃力が100％アップし行動後にHPが全回復する",
           "effectIdx1": "456",
           "effectIdx2": "457",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "330",
@@ -2967,7 +3625,9 @@ window.ability=[
           "abilityEffectDescription": "行動後に確率でチャクラが全回復する",
           "effectIdx1": "458",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "331",
@@ -2976,7 +3636,9 @@ window.ability=[
           "abilityEffectDescription": "7回行動するまで仙術スキルのダメージ50％アップ＆チャクラ消費20％ダウン",
           "effectIdx1": "462",
           "effectIdx2": "463",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "332",
@@ -2985,7 +3647,9 @@ window.ability=[
           "abilityEffectDescription": "HP0以下になると一度だけHPが中回復＆攻撃・防御・素早さが30％アップ",
           "effectIdx1": "312",
           "effectIdx2": "355",
-          "effectIdx3": "468"
+          "effectIdx3": "468",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "333",
@@ -2994,7 +3658,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラ消費量が5％ダウン＆チャクラ回復量が20％アップする",
           "effectIdx1": "273",
           "effectIdx2": "436",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "334",
@@ -3003,7 +3669,9 @@ window.ability=[
           "abilityEffectDescription": "HP80％以上の時に素早さと口寄せスキルのダメージが40％アップする",
           "effectIdx1": "467",
           "effectIdx2": "418",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "335",
@@ -3012,7 +3680,9 @@ window.ability=[
           "abilityEffectDescription": "HP50％以下になると防御力50％アップ＆スキルダメージ半減",
           "effectIdx1": "464",
           "effectIdx2": "423",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "336",
@@ -3021,7 +3691,9 @@ window.ability=[
           "abilityEffectDescription": "HP80％以上の時にスキルダメージが70％アップする",
           "effectIdx1": "465",
           "effectIdx2": "466",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "337",
@@ -3030,7 +3702,9 @@ window.ability=[
           "abilityEffectDescription": "行動後に低確率でHPとチャクラが全回復する",
           "effectIdx1": "353",
           "effectIdx2": "540",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "338",
@@ -3039,7 +3713,9 @@ window.ability=[
           "abilityEffectDescription": "10回行動するまで行動毎に攻撃力が10％アップし防御力が8％ダウン",
           "effectIdx1": "471",
           "effectIdx2": "472",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "339",
@@ -3048,7 +3724,9 @@ window.ability=[
           "abilityEffectDescription": "会心率が30％アップするが、攻撃力と防御力が30％下がる。",
           "effectIdx1": "474",
           "effectIdx2": "475",
-          "effectIdx3": "476"
+          "effectIdx3": "476",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "340",
@@ -3057,7 +3735,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと素早さが20％アップする",
           "effectIdx1": "218",
           "effectIdx2": "109",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "341",
@@ -3066,7 +3746,9 @@ window.ability=[
           "abilityEffectDescription": "確率でスキルを回避して無効化する",
           "effectIdx1": "27",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "342",
@@ -3075,7 +3757,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と防御力が10％アップする",
           "effectIdx1": "1",
           "effectIdx2": "3",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "343",
@@ -3084,7 +3768,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と防御力が30％アップする",
           "effectIdx1": "182",
           "effectIdx2": "373",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "344",
@@ -3093,7 +3779,9 @@ window.ability=[
           "abilityEffectDescription": "5回行動後に攻撃力と素早さが70％アップするが、行動後にHPが15％減少する",
           "effectIdx1": "480",
           "effectIdx2": "481",
-          "effectIdx3": "482"
+          "effectIdx3": "482",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "345",
@@ -3102,7 +3790,9 @@ window.ability=[
           "abilityEffectDescription": "確率でHP回復スキルの基礎回復量が150％アップし、スキルダメージが30%アップ",
           "effectIdx1": "479",
           "effectIdx2": "615",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "346",
@@ -3111,7 +3801,9 @@ window.ability=[
           "abilityEffectDescription": "封印無効＆行動後にHPが10％回復する",
           "effectIdx1": "69",
           "effectIdx2": "52",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "347",
@@ -3120,7 +3812,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃を受けた際にチャクラが10％回復する",
           "effectIdx1": "486",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "348",
@@ -3129,7 +3823,9 @@ window.ability=[
           "abilityEffectDescription": "弱体と麻痺を無効化し、スキルダメージが30%アップ",
           "effectIdx1": "64",
           "effectIdx2": "66",
-          "effectIdx3": "30002"
+          "effectIdx3": "30002",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "349",
@@ -3138,7 +3834,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラMAX時に固有スキルのダメージが80％アップする",
           "effectIdx1": "483",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "350",
@@ -3147,7 +3845,9 @@ window.ability=[
           "abilityEffectDescription": "5回行動するまで素早さと固有スキルダメージが50％アップする",
           "effectIdx1": "484",
           "effectIdx2": "485",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "351",
@@ -3156,7 +3856,9 @@ window.ability=[
           "abilityEffectDescription": "確率で次回行動時の体術スキルのダメージが50％アップする",
           "effectIdx1": "393",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "352",
@@ -3165,7 +3867,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力が50％アップする",
           "effectIdx1": "251",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "353",
@@ -3174,7 +3878,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと防御力を10％アップする",
           "effectIdx1": "13",
           "effectIdx2": "3",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "354",
@@ -3183,7 +3889,9 @@ window.ability=[
           "abilityEffectDescription": "行動後にHPが5％回復する",
           "effectIdx1": "28",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "355",
@@ -3192,7 +3900,9 @@ window.ability=[
           "abilityEffectDescription": "5回行動するまで攻撃力と素早さが30％アップする",
           "effectIdx1": "490",
           "effectIdx2": "491",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "356",
@@ -3201,7 +3911,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラ消費量が10％アップするが、スキルダメージが30％アップする",
           "effectIdx1": "250",
           "effectIdx2": "492",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "357",
@@ -3210,7 +3922,9 @@ window.ability=[
           "abilityEffectDescription": "幻術無効＆炎遁スキルのダメージが20％アップ",
           "effectIdx1": "46",
           "effectIdx2": "400",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "358",
@@ -3219,7 +3933,9 @@ window.ability=[
           "abilityEffectDescription": "時空間スキルのダメージを30％アップしチャクラ消費量を10％減少する",
           "effectIdx1": "195",
           "effectIdx2": "348",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "359",
@@ -3228,7 +3944,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と素早さが15％アップする",
           "effectIdx1": "2",
           "effectIdx2": "6",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "360",
@@ -3237,7 +3955,9 @@ window.ability=[
           "abilityEffectDescription": "HP80％以上の時に固有スキルのダメージが50％アップする",
           "effectIdx1": "497",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "361",
@@ -3246,7 +3966,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが30％アップする",
           "effectIdx1": "470",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "362",
@@ -3255,7 +3977,9 @@ window.ability=[
           "abilityEffectDescription": "5回行動するまで攻撃力が80％アップする",
           "effectIdx1": "496",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "363",
@@ -3264,7 +3988,9 @@ window.ability=[
           "abilityEffectDescription": "確率で次回行動時の素早さが150％アップする",
           "effectIdx1": "498",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "364",
@@ -3273,7 +3999,9 @@ window.ability=[
           "abilityEffectDescription": "気絶と麻痺を無効化する",
           "effectIdx1": "499",
           "effectIdx2": "66",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "365",
@@ -3282,7 +4010,9 @@ window.ability=[
           "abilityEffectDescription": "行動後にHPとチャクラが7％回復する",
           "effectIdx1": "370",
           "effectIdx2": "455",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "366",
@@ -3291,7 +4021,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラ消費量が10％増えるが、秘伝スキルのダメージを50％アップ",
           "effectIdx1": "250",
           "effectIdx2": "500",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "367",
@@ -3300,7 +4032,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力が30％アップする",
           "effectIdx1": "182",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "368",
@@ -3309,7 +4043,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と武器スキルのダメージを20％アップする",
           "effectIdx1": "105",
           "effectIdx2": "22",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "369",
@@ -3318,7 +4054,9 @@ window.ability=[
           "abilityEffectDescription": "全スキルをダメージ軽減するが、防御力と素早さが30%ダウンする",
           "effectIdx1": "425",
           "effectIdx2": "476",
-          "effectIdx3": "324"
+          "effectIdx3": "324",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "370",
@@ -3327,7 +4065,9 @@ window.ability=[
           "abilityEffectDescription": "写輪眼と雷遁スキルのダメージが30％アップする",
           "effectIdx1": "160",
           "effectIdx2": "492",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "371",
@@ -3336,7 +4076,9 @@ window.ability=[
           "abilityEffectDescription": "HP80％以上の時に攻撃力と素早さが50％アップ＆チャクラ消費量が10％ダウン",
           "effectIdx1": "396",
           "effectIdx2": "397",
-          "effectIdx3": "504"
+          "effectIdx3": "504",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "372",
@@ -3345,7 +4087,9 @@ window.ability=[
           "abilityEffectDescription": "HP90％以上の時に時空間スキルのダメージが100％アップ&amp;チャクラ消費量が15％減少",
           "effectIdx1": "505",
           "effectIdx2": "506",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "373",
@@ -3354,7 +4098,9 @@ window.ability=[
           "abilityEffectDescription": "時空間スキルのダメージを40％アップする",
           "effectIdx1": "303",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "374",
@@ -3363,7 +4109,9 @@ window.ability=[
           "abilityEffectDescription": "行動後にHPを10％、チャクラを5％回復する",
           "effectIdx1": "52",
           "effectIdx2": "29",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "375",
@@ -3372,7 +4120,9 @@ window.ability=[
           "abilityEffectDescription": "HP80％以上の時に木遁スキルのダメージが50％アップする",
           "effectIdx1": "502",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "376",
@@ -3381,7 +4131,9 @@ window.ability=[
           "abilityEffectDescription": "ＨＰ80％以上の時に攻撃力と防御力が40％アップする",
           "effectIdx1": "508",
           "effectIdx2": "416",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "377",
@@ -3390,7 +4142,9 @@ window.ability=[
           "abilityEffectDescription": "ＨＰ50％以下で攻撃力と素早さが40％アップする",
           "effectIdx1": "299",
           "effectIdx2": "196",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "378",
@@ -3399,7 +4153,9 @@ window.ability=[
           "abilityEffectDescription": "秘伝スキルのダメージが30％アップ＆行動毎に攻撃力が10％アップ（5回まで）",
           "effectIdx1": "362",
           "effectIdx2": "507",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "379",
@@ -3408,7 +4164,9 @@ window.ability=[
           "abilityEffectDescription": "体術スキルのダメージが30%アップする",
           "effectIdx1": "487",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "380",
@@ -3417,7 +4175,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と素早さが20%アップする",
           "effectIdx1": "105",
           "effectIdx2": "109",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "381",
@@ -3426,7 +4186,9 @@ window.ability=[
           "abilityEffectDescription": "確率で状態異常を無効化する。",
           "effectIdx1": "516",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "382",
@@ -3435,7 +4197,9 @@ window.ability=[
           "abilityEffectDescription": "行動ごとに攻撃力と素早さが6%アップする。（5回まで）",
           "effectIdx1": "517",
           "effectIdx2": "519",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "383",
@@ -3444,7 +4208,9 @@ window.ability=[
           "abilityEffectDescription": "確率でスキルダメージを軽減する。",
           "effectIdx1": "520",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "384",
@@ -3453,7 +4219,9 @@ window.ability=[
           "abilityEffectDescription": "行動ごとに攻撃力と防御力が6%アップする。（5回まで）",
           "effectIdx1": "517",
           "effectIdx2": "518",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "385",
@@ -3462,7 +4230,9 @@ window.ability=[
           "abilityEffectDescription": "確率で弱体を無効化する。",
           "effectIdx1": "521",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "386",
@@ -3471,7 +4241,9 @@ window.ability=[
           "abilityEffectDescription": "行動ごとに防御力と素早さが6%アップする。（5回まで）",
           "effectIdx1": "518",
           "effectIdx2": "519",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "387",
@@ -3480,7 +4252,9 @@ window.ability=[
           "abilityEffectDescription": "HP40%以上の時、攻撃力と防御力と素早さが40%アップする。",
           "effectIdx1": "522",
           "effectIdx2": "523",
-          "effectIdx3": "524"
+          "effectIdx3": "524",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "388",
@@ -3489,7 +4263,9 @@ window.ability=[
           "abilityEffectDescription": "HPが40%以下の時、スキルダメージを半減する。",
           "effectIdx1": "525",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "389",
@@ -3498,7 +4274,9 @@ window.ability=[
           "abilityEffectDescription": "5回行動するまで攻撃力と白眼タイプのスキルダメージが40%アップする。",
           "effectIdx1": "526",
           "effectIdx2": "527",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "390",
@@ -3507,7 +4285,9 @@ window.ability=[
           "abilityEffectDescription": "行動後にチャクラが10%回復する。",
           "effectIdx1": "528",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "391",
@@ -3516,7 +4296,9 @@ window.ability=[
           "abilityEffectDescription": "武器と白眼タイプのスキルダメージを無効化する。",
           "effectIdx1": "44",
           "effectIdx2": "529",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "392",
@@ -3525,7 +4307,9 @@ window.ability=[
           "abilityEffectDescription": "白眼タイプのダメージが30%アップする",
           "effectIdx1": "318",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "393",
@@ -3534,7 +4318,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力が50％アップするが、行動後にHPが７％減少する。",
           "effectIdx1": "251",
           "effectIdx2": "530",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "394",
@@ -3543,7 +4329,9 @@ window.ability=[
           "abilityEffectDescription": "HPが６０％以下の時、固有タイプのスキルダメージが70％アップする。",
           "effectIdx1": "531",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "395",
@@ -3552,7 +4340,9 @@ window.ability=[
           "abilityEffectDescription": "体術タイプのスキルダメージが20％アップする。",
           "effectIdx1": "19",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "396",
@@ -3561,7 +4351,9 @@ window.ability=[
           "abilityEffectDescription": "次回行動時に確率で攻撃力が50％アップし、確率で防御力が50％ダウンする。",
           "effectIdx1": "532",
           "effectIdx2": "533",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "397",
@@ -3570,7 +4362,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と白眼タイプのスキルダメージを20％アップする",
           "effectIdx1": "105",
           "effectIdx2": "430",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "398",
@@ -3579,7 +4373,9 @@ window.ability=[
           "abilityEffectDescription": "防御力が20％アップし、白眼スキルのダメージを半減する",
           "effectIdx1": "106",
           "effectIdx2": "148",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "399",
@@ -3588,7 +4384,9 @@ window.ability=[
           "abilityEffectDescription": "秘伝タイプのスキルダメージが30％アップし、行動後にチャクラが5%回復する。",
           "effectIdx1": "362",
           "effectIdx2": "29",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "400",
@@ -3597,7 +4395,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と防御力と素早さを15%アップする。",
           "effectIdx1": "2",
           "effectIdx2": "4",
-          "effectIdx3": "6"
+          "effectIdx3": "6",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "401",
@@ -3606,7 +4406,9 @@ window.ability=[
           "abilityEffectDescription": "自身の素早さと回避率が50％アップする。",
           "effectIdx1": "112",
           "effectIdx2": "542",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "402",
@@ -3615,7 +4417,9 @@ window.ability=[
           "abilityEffectDescription": "HPが50％以上の時、攻撃力と秘伝タイプのスキルダメージが30％アップ。",
           "effectIdx1": "543",
           "effectIdx2": "544",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "403",
@@ -3624,7 +4428,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と秘伝タイプのスキルダメージが40%アップする",
           "effectIdx1": "376",
           "effectIdx2": "545",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "404",
@@ -3633,7 +4439,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と白眼タイプのスキルダメージが40%アップする",
           "effectIdx1": "376",
           "effectIdx2": "546",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "405",
@@ -3642,7 +4450,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが10%アップし、口寄せタイプのスキルダメージが30%アップする",
           "effectIdx1": "13",
           "effectIdx2": "157",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "406",
@@ -3651,7 +4461,9 @@ window.ability=[
           "abilityEffectDescription": "行動するたびにHPを10%回復する",
           "effectIdx1": "357",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "407",
@@ -3660,7 +4472,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが50%アップし、チャクラ消費量が10%減少する",
           "effectIdx1": "547",
           "effectIdx2": "348",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "408",
@@ -3669,7 +4483,9 @@ window.ability=[
           "abilityEffectDescription": "HPが50%以上の時、攻撃力と素早さと防御が50%アップする",
           "effectIdx1": "548",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "409",
@@ -3678,7 +4494,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージを50%アップし行動後にチャクラが10%回復する",
           "effectIdx1": "555",
           "effectIdx2": "528",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "410",
@@ -3687,7 +4505,9 @@ window.ability=[
           "abilityEffectDescription": "素早さが20%アップし、確率でスキルを回避する。",
           "effectIdx1": "27",
           "effectIdx2": "109",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "411",
@@ -3696,7 +4516,9 @@ window.ability=[
           "abilityEffectDescription": "封印を無効化し、スキルダメージが40%アップする",
           "effectIdx1": "69",
           "effectIdx2": "549",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "412",
@@ -3705,7 +4527,9 @@ window.ability=[
           "abilityEffectDescription": "行動後にHPとチャクラが10%回復する。",
           "effectIdx1": "52",
           "effectIdx2": "53",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "413",
@@ -3714,7 +4538,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと体術スキルのダメージが10%アップする",
           "effectIdx1": "13",
           "effectIdx2": "127",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "414",
@@ -3723,7 +4549,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と雷遁スキルのダメージが20%アップする",
           "effectIdx1": "105",
           "effectIdx2": "101",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "415",
@@ -3732,7 +4560,9 @@ window.ability=[
           "abilityEffectDescription": "素早さが20%アップし、回避率が50%アップする",
           "effectIdx1": "109",
           "effectIdx2": "542",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "416",
@@ -3741,7 +4571,9 @@ window.ability=[
           "abilityEffectDescription": "3回行動するまで、スキルダメージを半減する",
           "effectIdx1": "254",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "417",
@@ -3750,7 +4582,9 @@ window.ability=[
           "abilityEffectDescription": "HPが80%以上の時、攻撃力と武器タイプのダメージが50％アップ",
           "effectIdx1": "161",
           "effectIdx2": "556",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "418",
@@ -3759,7 +4593,9 @@ window.ability=[
           "abilityEffectDescription": "HPが80%以上の時、素早さと武器タイプのダメージが50％アップ",
           "effectIdx1": "397",
           "effectIdx2": "556",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "419",
@@ -3768,7 +4604,9 @@ window.ability=[
           "abilityEffectDescription": "班の\"暁\"のキャラ1体につき、攻撃力と防御力と素早さが10%アップする（自身含む）",
           "effectIdx1": "562",
           "effectIdx2": "563",
-          "effectIdx3": "564"
+          "effectIdx3": "564",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "420",
@@ -3777,7 +4615,9 @@ window.ability=[
           "abilityEffectDescription": "確率でスキル回避するが、確率でHPが10%減少する",
           "effectIdx1": "27",
           "effectIdx2": "558",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "421",
@@ -3786,7 +4626,9 @@ window.ability=[
           "abilityEffectDescription": "班の\"暁\"のキャラ1体につき、攻撃力と素早さが10%アップする（自身含む）",
           "effectIdx1": "562",
           "effectIdx2": "564",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "422",
@@ -3795,7 +4637,9 @@ window.ability=[
           "abilityEffectDescription": "3回行動するまで秘伝タイプのスキルダメージが70%アップする",
           "effectIdx1": "559",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "423",
@@ -3804,7 +4648,9 @@ window.ability=[
           "abilityEffectDescription": "班の\"暁\"のキャラ1体につき、攻撃力と防御力が10%アップする（自身含む）",
           "effectIdx1": "562",
           "effectIdx2": "563",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "424",
@@ -3813,7 +4659,9 @@ window.ability=[
           "abilityEffectDescription": "3回行動するまで武器タイプのスキルダメージが70%アップする",
           "effectIdx1": "560",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "425",
@@ -3822,7 +4670,9 @@ window.ability=[
           "abilityEffectDescription": "行動するたびに攻撃力が20%アップする（最大4回まで）",
           "effectIdx1": "568",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "426",
@@ -3831,7 +4681,9 @@ window.ability=[
           "abilityEffectDescription": "写輪眼スキルのダメージが60%アップするが、行動するたびにHPが5%減少する",
           "effectIdx1": "561",
           "effectIdx2": "206",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "427",
@@ -3840,7 +4692,9 @@ window.ability=[
           "abilityEffectDescription": "行動ごとに攻撃力と素早さが10%アップする（最大5回まで）",
           "effectIdx1": "569",
           "effectIdx2": "570",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "428",
@@ -3849,7 +4703,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが20%アップし、風遁スキルのダメージを40%アップする",
           "effectIdx1": "571",
           "effectIdx2": "218",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "429",
@@ -3858,7 +4714,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと攻撃力と防御力が10％アップする",
           "effectIdx1": "13",
           "effectIdx2": "3",
-          "effectIdx3": "1"
+          "effectIdx3": "1",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "430",
@@ -3867,7 +4725,9 @@ window.ability=[
           "abilityEffectDescription": "固有スキルのダメージと最大HPが30%アップする",
           "effectIdx1": "488",
           "effectIdx2": "470",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "431",
@@ -3876,7 +4736,9 @@ window.ability=[
           "abilityEffectDescription": "防御力を40%アップする",
           "effectIdx1": "377",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "432",
@@ -3885,7 +4747,9 @@ window.ability=[
           "abilityEffectDescription": "HPが80%以上の時に状態異常を無効化する",
           "effectIdx1": "409",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "433",
@@ -3894,7 +4758,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが30%アップし、麻痺と魅了を無効化する",
           "effectIdx1": "470",
           "effectIdx2": "68",
-          "effectIdx3": "66"
+          "effectIdx3": "66",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "434",
@@ -3903,7 +4769,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と沸遁スキルのダメージが50%アップ",
           "effectIdx1": "251",
           "effectIdx2": "576",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "435",
@@ -3912,7 +4780,9 @@ window.ability=[
           "abilityEffectDescription": "行動するたびにチャクラが10%回復する。",
           "effectIdx1": "53",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "436",
@@ -3921,7 +4791,9 @@ window.ability=[
           "abilityEffectDescription": "行動後に低確率で攻撃力と防御力と素早さが50%アップする",
           "effectIdx1": "577",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "437",
@@ -3930,7 +4802,9 @@ window.ability=[
           "abilityEffectDescription": "確率でスキルを回避して無効化する",
           "effectIdx1": "27",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "438",
@@ -3939,7 +4813,9 @@ window.ability=[
           "abilityEffectDescription": "状態異常と弱体を確率で無効化する",
           "effectIdx1": "203",
           "effectIdx2": "521",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "439",
@@ -3948,7 +4824,9 @@ window.ability=[
           "abilityEffectDescription": "HP回復スキルの基礎回復量が30％アップし、行動するたびにチャクラが10％回復",
           "effectIdx1": "306",
           "effectIdx2": "528",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "440",
@@ -3957,7 +4835,9 @@ window.ability=[
           "abilityEffectDescription": "状態異常を無効化する",
           "effectIdx1": "82",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "441",
@@ -3966,7 +4846,9 @@ window.ability=[
           "abilityEffectDescription": "体術タイプのスキルダメージが40%アップする。",
           "effectIdx1": "584",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "442",
@@ -3975,7 +4857,9 @@ window.ability=[
           "abilityEffectDescription": "HPが60%以上の時に攻撃力と防御力と素早さが50%アップする。",
           "effectIdx1": "585",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "443",
@@ -3984,7 +4868,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと攻撃力が20％アップする",
           "effectIdx1": "218",
           "effectIdx2": "105",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "444",
@@ -3993,7 +4879,9 @@ window.ability=[
           "abilityEffectDescription": "風遁タイプのスキルダメージが20%アップするが、魅了にかかりやすくなる",
           "effectIdx1": "150",
           "effectIdx2": "586",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "445",
@@ -4002,7 +4890,9 @@ window.ability=[
           "abilityEffectDescription": "写輪眼タイプのスキルダメージが20%アップする",
           "effectIdx1": "159",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "446",
@@ -4011,7 +4901,9 @@ window.ability=[
           "abilityEffectDescription": "行動後に確率で素早さが100%アップする",
           "effectIdx1": "302",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "447",
@@ -4020,7 +4912,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と防御力と素早さが40%アップする",
           "effectIdx1": "376",
           "effectIdx2": "377",
-          "effectIdx3": "111"
+          "effectIdx3": "111",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "448",
@@ -4029,7 +4923,9 @@ window.ability=[
           "abilityEffectDescription": "8回行動するまで状態異常を無効化し、火遁スキルのダメージが60%アップ",
           "effectIdx1": "599",
           "effectIdx2": "600",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "449",
@@ -4038,7 +4934,9 @@ window.ability=[
           "abilityEffectDescription": "HP80%以上の時に攻撃力が50%アップし、チャクラ消費量が20%減少する",
           "effectIdx1": "386",
           "effectIdx2": "396",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "450",
@@ -4047,7 +4945,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが50%アップし、封印を無効化",
           "effectIdx1": "241",
           "effectIdx2": "69",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "451",
@@ -4056,7 +4956,9 @@ window.ability=[
           "abilityEffectDescription": "6回行動するまで攻撃力と素早さが40%アップ、防御力が20%ダウン",
           "effectIdx1": "601",
           "effectIdx2": "602",
-          "effectIdx3": "603"
+          "effectIdx3": "603",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "452",
@@ -4065,7 +4967,9 @@ window.ability=[
           "abilityEffectDescription": "雷遁タイプのダメージが30%アップする",
           "effectIdx1": "492",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "453",
@@ -4074,7 +4978,9 @@ window.ability=[
           "abilityEffectDescription": "HPが50%以下の時に攻撃力と防御力が40%アップする",
           "effectIdx1": "604",
           "effectIdx2": "605",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "454",
@@ -4083,7 +4989,9 @@ window.ability=[
           "abilityEffectDescription": "素早さと風遁タイプのダメージが30%アップする",
           "effectIdx1": "110",
           "effectIdx2": "573",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "455",
@@ -4092,7 +5000,9 @@ window.ability=[
           "abilityEffectDescription": "行動するたびに攻撃力と防御力10%アップする（最大5回まで）",
           "effectIdx1": "569",
           "effectIdx2": "609",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "456",
@@ -4101,7 +5011,9 @@ window.ability=[
           "abilityEffectDescription": "火遁タイプのスキルダメージが30％アップする",
           "effectIdx1": "364",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "457",
@@ -4110,7 +5022,9 @@ window.ability=[
           "abilityEffectDescription": "行動後にチャクラが10%回復し、封印を無効化する",
           "effectIdx1": "528",
           "effectIdx2": "69",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "458",
@@ -4119,7 +5033,9 @@ window.ability=[
           "abilityEffectDescription": "HP40%以下の時にスキルダメージを半減する",
           "effectIdx1": "271",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "459",
@@ -4128,7 +5044,9 @@ window.ability=[
           "abilityEffectDescription": "素早さが20%アップし、秘伝スキルダメージ50%アップ",
           "effectIdx1": "109",
           "effectIdx2": "500",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "460",
@@ -4137,7 +5055,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力が40%アップし、確率でスキルを回避して無効化する",
           "effectIdx1": "27",
           "effectIdx2": "376",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "461",
@@ -4146,7 +5066,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と防御力を40%アップするが、行動するたびにHPが5%減少する",
           "effectIdx1": "376",
           "effectIdx2": "377",
-          "effectIdx3": "617"
+          "effectIdx3": "617",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "462",
@@ -4155,7 +5077,9 @@ window.ability=[
           "abilityEffectDescription": "HP0以下で1回だけHPが50%回復し、スキルダメージが50%アップする",
           "effectIdx1": "618",
           "effectIdx2": "619",
-          "effectIdx3": "312"
+          "effectIdx3": "312",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "463",
@@ -4164,7 +5088,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと攻撃力が30%アップするが行動する毎にHPが5%減少する",
           "effectIdx1": "205",
           "effectIdx2": "470",
-          "effectIdx3": "617"
+          "effectIdx3": "617",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "464",
@@ -4173,7 +5099,9 @@ window.ability=[
           "abilityEffectDescription": "HPが80%以下の時、攻撃力と口寄せスキルダメージが40%アップする",
           "effectIdx1": "620",
           "effectIdx2": "621",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "465",
@@ -4182,7 +5110,9 @@ window.ability=[
           "abilityEffectDescription": "5回行動するまで、スキルダメージと状態異常を半減する",
           "effectIdx1": "892",
           "effectIdx2": "893",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "466",
@@ -4191,7 +5121,9 @@ window.ability=[
           "abilityEffectDescription": "班の音隠れの里所属のキャラ1体につき攻撃力と防御力と素早さが10%アップ（自身含む）",
           "effectIdx1": "622",
           "effectIdx2": "623",
-          "effectIdx3": "624"
+          "effectIdx3": "624",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "467",
@@ -4200,7 +5132,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と固有スキルダメージが20%アップする",
           "effectIdx1": "105",
           "effectIdx2": "193",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "468",
@@ -4209,7 +5143,9 @@ window.ability=[
           "abilityEffectDescription": "班の音隠れの里所属のキャラ1体につき素早さが10%アップ（自身含む）",
           "effectIdx1": "624",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "469",
@@ -4218,7 +5154,9 @@ window.ability=[
           "abilityEffectDescription": "素早さと固有スキルダメージが20%アップする",
           "effectIdx1": "109",
           "effectIdx2": "193",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "470",
@@ -4227,7 +5165,9 @@ window.ability=[
           "abilityEffectDescription": "班の音隠れの里所属のキャラ1体につき攻撃力が10%アップ（自身含む）",
           "effectIdx1": "622",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "471",
@@ -4236,7 +5176,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと固有スキルダメージが20%アップする",
           "effectIdx1": "218",
           "effectIdx2": "193",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "472",
@@ -4245,7 +5187,9 @@ window.ability=[
           "abilityEffectDescription": "班の音隠れの里所属のキャラ1体につき防御力が10%アップ（自身含む）",
           "effectIdx1": "623",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "473",
@@ -4254,7 +5198,9 @@ window.ability=[
           "abilityEffectDescription": "消費チャクラが半減しスキルダメージが250％アップし、攻撃力が80％アップ",
           "effectIdx1": "95",
           "effectIdx2": "625",
-          "effectIdx3": "550"
+          "effectIdx3": "550",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "474",
@@ -4263,7 +5209,9 @@ window.ability=[
           "abilityEffectDescription": "HP30％から1％以内になると一度だけHPが全回復し攻撃･防御・素早さが100％アップ",
           "effectIdx1": "265",
           "effectIdx2": "626",
-          "effectIdx3": "266"
+          "effectIdx3": "266",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "475",
@@ -4272,7 +5220,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが20%アップし、行動後にHPが20％回復する",
           "effectIdx1": "218",
           "effectIdx2": "628",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "476",
@@ -4281,7 +5231,9 @@ window.ability=[
           "abilityEffectDescription": "8回行動するまで受けるスキルダメージを軽減し、スキルダメージが150％アップする",
           "effectIdx1": "627",
           "effectIdx2": "636",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "477",
@@ -4290,7 +5242,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と素早さが30%アップする",
           "effectIdx1": "205",
           "effectIdx2": "110",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "478",
@@ -4299,7 +5253,9 @@ window.ability=[
           "abilityEffectDescription": "HPが80%以上の時、雷遁タイプのスキルダメージが70％アップする",
           "effectIdx1": "629",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "479",
@@ -4308,7 +5264,9 @@ window.ability=[
           "abilityEffectDescription": "10回行動するまでスキルダメージを軽減する",
           "effectIdx1": "630",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "480",
@@ -4317,7 +5275,9 @@ window.ability=[
           "abilityEffectDescription": "写輪眼タイプのスキルダメージが20%アップする",
           "effectIdx1": "159",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "481",
@@ -4326,7 +5286,9 @@ window.ability=[
           "abilityEffectDescription": "HPが80%以上の時、チャクラ消費量が半減する",
           "effectIdx1": "640",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "482",
@@ -4335,7 +5297,9 @@ window.ability=[
           "abilityEffectDescription": "8回行動するまでスキルダメージが70%アップし、素早さが40%アップする",
           "effectIdx1": "642",
           "effectIdx2": "643",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "483",
@@ -4344,7 +5308,9 @@ window.ability=[
           "abilityEffectDescription": "仙術タイプのスキルダメージを半減する",
           "effectIdx1": "641",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "484",
@@ -4353,7 +5319,9 @@ window.ability=[
           "abilityEffectDescription": "雷遁タイプのスキルダメージが20%アップし、素早さが10%アップする",
           "effectIdx1": "101",
           "effectIdx2": "5",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "485",
@@ -4362,7 +5330,9 @@ window.ability=[
           "abilityEffectDescription": "行動するたびに攻撃力と素早さが15%アップする。（最大4回まで）",
           "effectIdx1": "659",
           "effectIdx2": "660",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "486",
@@ -4371,7 +5341,9 @@ window.ability=[
           "abilityEffectDescription": "幻術タイプのスキルダメージを60％アップし、行動後にチャクラが10％回復",
           "effectIdx1": "654",
           "effectIdx2": "528",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "487",
@@ -4380,7 +5352,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力が30％アップし、チャクラ消費量を10％軽減する",
           "effectIdx1": "205",
           "effectIdx2": "348",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "488",
@@ -4389,7 +5363,9 @@ window.ability=[
           "abilityEffectDescription": "麻痺を無効化し、口寄せタイプのスキルダメージが40％アップする",
           "effectIdx1": "66",
           "effectIdx2": "653",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "489",
@@ -4398,7 +5374,9 @@ window.ability=[
           "abilityEffectDescription": "7回行動するまで素早さが40％アップし、スキルダメージが80％アップする",
           "effectIdx1": "655",
           "effectIdx2": "656",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "490",
@@ -4407,7 +5385,9 @@ window.ability=[
           "abilityEffectDescription": "確率でスキルを回避する",
           "effectIdx1": "27",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "491",
@@ -4416,7 +5396,9 @@ window.ability=[
           "abilityEffectDescription": "班の木ノ葉隠れの里所属1体につき、攻撃力が10%アップ（自身含む）",
           "effectIdx1": "657",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "492",
@@ -4425,7 +5407,9 @@ window.ability=[
           "abilityEffectDescription": "固有タイプのスキルダメージが20%アップ",
           "effectIdx1": "20",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "493",
@@ -4434,7 +5418,9 @@ window.ability=[
           "abilityEffectDescription": "班の木ノ葉隠れの里所属1体につき、素早さが10%アップ（自身含む）",
           "effectIdx1": "658",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "494",
@@ -4443,7 +5429,9 @@ window.ability=[
           "abilityEffectDescription": "風遁タイプのスキルダメージが20%アップ",
           "effectIdx1": "150",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "495",
@@ -4452,7 +5440,9 @@ window.ability=[
           "abilityEffectDescription": "7回行動するまで攻撃・防御・素早さを30%アップしチャクラ消費量が20%ダウン",
           "effectIdx1": "665",
           "effectIdx2": "667",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "496",
@@ -4461,7 +5451,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラMAX時にスキルダメージを90％アップする",
           "effectIdx1": "664",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "497",
@@ -4470,7 +5462,9 @@ window.ability=[
           "abilityEffectDescription": "7回行動するまで攻撃力を60%アップしチャクラ消費量が20%ダウン",
           "effectIdx1": "666",
           "effectIdx2": "667",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "498",
@@ -4479,7 +5473,9 @@ window.ability=[
           "abilityEffectDescription": "幻術を無効化し、スキルダメージを60％アップする",
           "effectIdx1": "46",
           "effectIdx2": "668",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "499",
@@ -4488,7 +5484,9 @@ window.ability=[
           "abilityEffectDescription": "HPが80%以上の時、チャクラ消費量が20%ダウンする",
           "effectIdx1": "669",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "500",
@@ -4497,7 +5495,9 @@ window.ability=[
           "abilityEffectDescription": "10回行動するまで状態異常を無効化し行動後にHPが全回復する",
           "effectIdx1": "670",
           "effectIdx2": "457",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "501",
@@ -4506,7 +5506,9 @@ window.ability=[
           "abilityEffectDescription": "HPが80%以上の時、雷遁タイプのスキルダメージが60%アップする",
           "effectIdx1": "671",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "502",
@@ -4515,7 +5517,9 @@ window.ability=[
           "abilityEffectDescription": "10回行動するまで攻撃力と防御力が50%アップする",
           "effectIdx1": "672",
           "effectIdx2": "673",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "503",
@@ -4524,7 +5528,9 @@ window.ability=[
           "abilityEffectDescription": "行動後に確率で攻撃・防御・素早さが60％アップする",
           "effectIdx1": "674",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "504",
@@ -4533,7 +5539,9 @@ window.ability=[
           "abilityEffectDescription": "HPが80%以上の時、スキルダメージ50%アップしチャクラ消費量が30%ダウン",
           "effectIdx1": "675",
           "effectIdx2": "683",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "505",
@@ -4542,7 +5550,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力・防御力・素早さが20%アップする",
           "effectIdx1": "539",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "506",
@@ -4551,7 +5561,9 @@ window.ability=[
           "abilityEffectDescription": "風遁タイプのスキルダメージが30%アップする",
           "effectIdx1": "573",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "507",
@@ -4560,7 +5572,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力が50％アップする",
           "effectIdx1": "11049",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "508",
@@ -4569,7 +5583,9 @@ window.ability=[
           "abilityEffectDescription": "口寄せタイプのスキルダメージが40%アップし、行動後にHPが10％回復",
           "effectIdx1": "681",
           "effectIdx2": "357",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "509",
@@ -4578,7 +5594,9 @@ window.ability=[
           "abilityEffectDescription": "５回行動するまで素早さ50%アップし、スキルダメージを軽減",
           "effectIdx1": "484",
           "effectIdx2": "281",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "510",
@@ -4587,7 +5605,9 @@ window.ability=[
           "abilityEffectDescription": "自身の防御力と素早さ30%アップ",
           "effectIdx1": "373",
           "effectIdx2": "110",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "511",
@@ -4596,7 +5616,9 @@ window.ability=[
           "abilityEffectDescription": "HP20%以下の時、一度だけHPとチャクラが完全回復※HP0になった場合は発動しない",
           "effectIdx1": "265",
           "effectIdx2": "685",
-          "effectIdx3": "686"
+          "effectIdx3": "686",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "512",
@@ -4605,7 +5627,9 @@ window.ability=[
           "abilityEffectDescription": "自身の素早さと最大HPが30%アップ",
           "effectIdx1": "470",
           "effectIdx2": "110",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "513",
@@ -4614,7 +5638,9 @@ window.ability=[
           "abilityEffectDescription": "自身の秘伝スキルダメージが50%アップ",
           "effectIdx1": "500",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "514",
@@ -4623,7 +5649,9 @@ window.ability=[
           "abilityEffectDescription": "班の木ノ葉隠れの里所属1体につき、攻撃力が20%アップ（自身含む）",
           "effectIdx1": "687",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "515",
@@ -4632,7 +5660,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量が50アップする",
           "effectIdx1": "689",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "516",
@@ -4641,7 +5671,9 @@ window.ability=[
           "abilityEffectDescription": "自身の攻撃力と風遁スキルダメージを60%アップする",
           "effectIdx1": "378",
           "effectIdx2": "688",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "517",
@@ -4650,7 +5682,9 @@ window.ability=[
           "abilityEffectDescription": "5回行動後に、攻撃力とスキルダメージが50%アップする",
           "effectIdx1": "699",
           "effectIdx2": "700",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "518",
@@ -4659,7 +5693,9 @@ window.ability=[
           "abilityEffectDescription": "HPが40%以下の時、全スキルダメージを軽減し、確率でスキルを無効化する",
           "effectIdx1": "701",
           "effectIdx2": "720",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "519",
@@ -4668,7 +5704,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と防御力を30%アップする",
           "effectIdx1": "205",
           "effectIdx2": "373",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "520",
@@ -4677,7 +5715,9 @@ window.ability=[
           "abilityEffectDescription": "HP30%以下の時にスキルダメージを半減する",
           "effectIdx1": "271",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "521",
@@ -4686,7 +5726,9 @@ window.ability=[
           "abilityEffectDescription": "行動するたびに攻撃力が10%アップする。（最大10回まで）",
           "effectIdx1": "702",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "522",
@@ -4695,7 +5737,9 @@ window.ability=[
           "abilityEffectDescription": "10回行動するまで素早さとスキルダメージが50%アップする",
           "effectIdx1": "703",
           "effectIdx2": "704",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "523",
@@ -4704,7 +5748,9 @@ window.ability=[
           "abilityEffectDescription": "ダメージを受けた時に、確率で攻撃・防御・素早さが50%アップする",
           "effectIdx1": "705",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "524",
@@ -4713,7 +5759,9 @@ window.ability=[
           "abilityEffectDescription": "HPが80%以上の時、スキルダメージが70%アップし、チャクラ消費量が20%減少する。",
           "effectIdx1": "707",
           "effectIdx2": "706",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "525",
@@ -4722,7 +5770,9 @@ window.ability=[
           "abilityEffectDescription": "5回行動するまで攻撃力が20%ダウンするが、スキルダメージが60%アップする",
           "effectIdx1": "710",
           "effectIdx2": "711",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "526",
@@ -4731,7 +5781,9 @@ window.ability=[
           "abilityEffectDescription": "HPが80%以上の時、素早さとスキルダメージを40%アップする",
           "effectIdx1": "708",
           "effectIdx2": "709",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "527",
@@ -4740,7 +5792,9 @@ window.ability=[
           "abilityEffectDescription": "HPが60%以上の時に攻防速が50%アップ",
           "effectIdx1": "717",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "528",
@@ -4749,7 +5803,9 @@ window.ability=[
           "abilityEffectDescription": "ダメージを受けた時に確率でHP小回復",
           "effectIdx1": "718",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "529",
@@ -4758,7 +5814,9 @@ window.ability=[
           "abilityEffectDescription": "会心率と会心力が10倍になり、攻撃・防御・素早さが20%アップ",
           "effectIdx1": "714",
           "effectIdx2": "715",
-          "effectIdx3": "539"
+          "effectIdx3": "539",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "530",
@@ -4767,7 +5825,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃・防御・素早さを50%アップしチャクラ消費量が20%ダウン",
           "effectIdx1": "724",
           "effectIdx2": "8",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "531",
@@ -4776,7 +5836,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージを120％アップする",
           "effectIdx1": "722",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "532",
@@ -4785,7 +5847,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と防御力を80%アップしチャクラ消費量が20%ダウン",
           "effectIdx1": "550",
           "effectIdx2": "719",
-          "effectIdx3": "8"
+          "effectIdx3": "8",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "533",
@@ -4794,7 +5858,9 @@ window.ability=[
           "abilityEffectDescription": "幻術と弱体を無効化し、スキルダメージを100％アップする",
           "effectIdx1": "46",
           "effectIdx2": "695",
-          "effectIdx3": "64"
+          "effectIdx3": "64",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "534",
@@ -4803,7 +5869,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラ消費量が40%ダウンする",
           "effectIdx1": "1164",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "535",
@@ -4812,7 +5880,9 @@ window.ability=[
           "abilityEffectDescription": "状態異常を無効化し、10回行動するまで行動後にHPが全回復する",
           "effectIdx1": "82",
           "effectIdx2": "457",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "536",
@@ -4821,7 +5891,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃・防御・素早さを30%アップ",
           "effectIdx1": "205",
           "effectIdx2": "373",
-          "effectIdx3": "110"
+          "effectIdx3": "110",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "537",
@@ -4830,7 +5902,9 @@ window.ability=[
           "abilityEffectDescription": "行動するたびに攻撃力が2%アップする。（最大10回まで）",
           "effectIdx1": "721",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "538",
@@ -4839,7 +5913,9 @@ window.ability=[
           "abilityEffectDescription": "3回行動するまで攻撃力を20％アップ",
           "effectIdx1": "224",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "539",
@@ -4848,7 +5924,9 @@ window.ability=[
           "abilityEffectDescription": "HP50％以下の時に防御力と素早さが40％アップ",
           "effectIdx1": "606",
           "effectIdx2": "605",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "540",
@@ -4857,7 +5935,9 @@ window.ability=[
           "abilityEffectDescription": "行動後に確率で攻撃・防御・素早さが30％アップする",
           "effectIdx1": "728",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "541",
@@ -4866,7 +5946,9 @@ window.ability=[
           "abilityEffectDescription": "会心率と会心力が10倍になり、攻撃・防御・素早さが20%アップ",
           "effectIdx1": "714",
           "effectIdx2": "715",
-          "effectIdx3": "539"
+          "effectIdx3": "539",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "542",
@@ -4875,7 +5957,9 @@ window.ability=[
           "abilityEffectDescription": "HP50％以下の時にスキルダメージ半減",
           "effectIdx1": "423",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "543",
@@ -4884,7 +5968,9 @@ window.ability=[
           "abilityEffectDescription": "口寄せタイプのスキルダメージが40%アップ、行動後にチャクラが10％回復",
           "effectIdx1": "681",
           "effectIdx2": "53",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "544",
@@ -4893,7 +5979,9 @@ window.ability=[
           "abilityEffectDescription": "HPが50％アップし、攻撃を受けた時にHPが5％回復",
           "effectIdx1": "680",
           "effectIdx2": "727",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "545",
@@ -4902,7 +5990,9 @@ window.ability=[
           "abilityEffectDescription": "HPが90%以上の時に、スキルダメージを250%アップしチャクラ消費量が10％減少",
           "effectIdx1": "725",
           "effectIdx2": "726",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "546",
@@ -4911,7 +6001,9 @@ window.ability=[
           "abilityEffectDescription": "10回行動するまで攻撃力と防御力と素早さを20％アップし毒と猛毒を半減",
           "effectIdx1": "739",
           "effectIdx2": "740",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "547",
@@ -4920,7 +6012,9 @@ window.ability=[
           "abilityEffectDescription": "HPが50％以上の時、スキルダメージを50％アップ",
           "effectIdx1": "742",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "548",
@@ -4929,7 +6023,9 @@ window.ability=[
           "abilityEffectDescription": "10回行動するまで攻撃力と防御力と素早さを20％アップし封印を半減",
           "effectIdx1": "739",
           "effectIdx2": "535",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "549",
@@ -4938,7 +6034,9 @@ window.ability=[
           "abilityEffectDescription": "HPが50％以上の時、スキルダメージを50％アップ",
           "effectIdx1": "742",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "550",
@@ -4947,7 +6045,9 @@ window.ability=[
           "abilityEffectDescription": "10回行動するまで攻撃力と防御力と素早さを20％アップし封印を半減",
           "effectIdx1": "739",
           "effectIdx2": "535",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "551",
@@ -4956,7 +6056,9 @@ window.ability=[
           "abilityEffectDescription": "HPが50％以上の時、スキルダメージを50％アップ",
           "effectIdx1": "742",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "552",
@@ -4965,7 +6067,9 @@ window.ability=[
           "abilityEffectDescription": "10回行動するまで攻撃力と防御力と素早さを20％アップし麻痺を半減",
           "effectIdx1": "739",
           "effectIdx2": "631",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "553",
@@ -4974,7 +6078,9 @@ window.ability=[
           "abilityEffectDescription": "HPが50％以上の時、スキルダメージを50％アップ",
           "effectIdx1": "742",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "554",
@@ -4983,7 +6089,9 @@ window.ability=[
           "abilityEffectDescription": "10回行動するまでスキルダメージを120％アップし状態異常を無効",
           "effectIdx1": "749",
           "effectIdx2": "670",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "555",
@@ -4992,7 +6100,9 @@ window.ability=[
           "abilityEffectDescription": "HPが80%以上の時、チャクラ消費量が30％ダウンし攻撃力が80％アップする",
           "effectIdx1": "683",
           "effectIdx2": "756",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "556",
@@ -5001,7 +6111,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力が50％アップし、ダメージを受けた時にHPが10％回復する",
           "effectIdx1": "251",
           "effectIdx2": "191",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "557",
@@ -5010,7 +6122,9 @@ window.ability=[
           "abilityEffectDescription": "HPが80%以上の時、スキルダメージ90%アップしチャクラ消費量が30%ダウン",
           "effectIdx1": "683",
           "effectIdx2": "750",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "558",
@@ -5019,7 +6133,9 @@ window.ability=[
           "abilityEffectDescription": "班の木ノ葉隠れの里所属1体につき、攻撃・防御・素早さが10%アップ（自身含む）",
           "effectIdx1": "657",
           "effectIdx2": "658",
-          "effectIdx3": "752"
+          "effectIdx3": "752",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "559",
@@ -5028,7 +6144,9 @@ window.ability=[
           "abilityEffectDescription": "HPが80%以上の時、スキルダメージ70%アップしチャクラ消費量が30%ダウン",
           "effectIdx1": "683",
           "effectIdx2": "751",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "560",
@@ -5037,7 +6155,9 @@ window.ability=[
           "abilityEffectDescription": "自身のスキルダメージが20%アップ、自身のHPが90%以上だとさらに50%アップする",
           "effectIdx1": "20",
           "effectIdx2": "753",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "561",
@@ -5046,7 +6166,9 @@ window.ability=[
           "abilityEffectDescription": "HPが30％以下になると確率でHPが全回復する※HP0になった場合は発動しない",
           "effectIdx1": "754",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "562",
@@ -5055,7 +6177,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力が50％アップし、火遁ダメージを半減する",
           "effectIdx1": "251",
           "effectIdx2": "35",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "563",
@@ -5064,7 +6188,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラが80％以上の時、スキルダメージを70％アップする",
           "effectIdx1": "755",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "564",
@@ -5073,7 +6199,9 @@ window.ability=[
           "abilityEffectDescription": "10回行動するまで、体術タイプのスキルダメージが50%アップ",
           "effectIdx1": "757",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "565",
@@ -5082,7 +6210,9 @@ window.ability=[
           "abilityEffectDescription": "班の雲隠れのキャラ1体につき攻撃力と素早さが10%アップ（自身含む）",
           "effectIdx1": "758",
           "effectIdx2": "760",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "566",
@@ -5091,7 +6221,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量が60アップ、チャクラ50％以上の時に体術タイプスキルダメージ80%アップ",
           "effectIdx1": "761",
           "effectIdx2": "762",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "567",
@@ -5100,7 +6232,9 @@ window.ability=[
           "abilityEffectDescription": "班の雲隠れのキャラ1体につき攻撃力が20%アップ（自身含む）",
           "effectIdx1": "759",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "568",
@@ -5109,7 +6243,9 @@ window.ability=[
           "abilityEffectDescription": "素早さが30%アップする",
           "effectIdx1": "110",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "569",
@@ -5118,7 +6254,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラ消費量が20%ダウンする",
           "effectIdx1": "8",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "570",
@@ -5127,7 +6265,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが50%アップし、最大チャクラ量が80アップする",
           "effectIdx1": "680",
           "effectIdx2": "765",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "571",
@@ -5136,7 +6276,9 @@ window.ability=[
           "abilityEffectDescription": "HPが80％以上の時、攻撃力と水遁スキルダメージが70%アップする",
           "effectIdx1": "763",
           "effectIdx2": "764",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "572",
@@ -5145,7 +6287,9 @@ window.ability=[
           "abilityEffectDescription": "写輪眼スキルと武器スキルのダメージが100％アップ＆弱体と状態異常を無効化",
           "effectIdx1": "582",
           "effectIdx2": "768",
-          "effectIdx3": "880"
+          "effectIdx3": "880",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "573",
@@ -5154,7 +6298,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと素早さが50％アップし、行動後に高確率で再行動できる※再行動後にさらに行動はできない",
           "effectIdx1": "769",
           "effectIdx2": "112",
-          "effectIdx3": "10049"
+          "effectIdx3": "10049",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "574",
@@ -5163,7 +6309,9 @@ window.ability=[
           "abilityEffectDescription": "素早さが20%アップし、チャクラ消費量が10%ダウンする",
           "effectIdx1": "348",
           "effectIdx2": "109",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "575",
@@ -5172,7 +6320,9 @@ window.ability=[
           "abilityEffectDescription": "10回行動するまで攻撃力と防御力が50%アップし写輪眼タイプのスキルダメージを無効",
           "effectIdx1": "771",
           "effectIdx2": "672",
-          "effectIdx3": "673"
+          "effectIdx3": "673",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "576",
@@ -5181,7 +6331,9 @@ window.ability=[
           "abilityEffectDescription": "行動後にHPが2％減少する",
           "effectIdx1": "772",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "577",
@@ -5190,7 +6342,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと攻撃力が30%アップし、スキルダメージが50%アップ",
           "effectIdx1": "470",
           "effectIdx2": "182",
-          "effectIdx3": "682"
+          "effectIdx3": "682",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "578",
@@ -5199,7 +6353,9 @@ window.ability=[
           "abilityEffectDescription": "7回行動するまでチャクラ消費量を30%ダウンしスキルダメージが70%アップ",
           "effectIdx1": "781",
           "effectIdx2": "783",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "579",
@@ -5208,7 +6364,9 @@ window.ability=[
           "abilityEffectDescription": "行動するたびに攻撃力と防御力10%アップする（最大6回まで）",
           "effectIdx1": "784",
           "effectIdx2": "785",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "580",
@@ -5217,7 +6375,9 @@ window.ability=[
           "abilityEffectDescription": "10回行動するまでスキルダメージが100%アップし弱体を無効化する",
           "effectIdx1": "786",
           "effectIdx2": "787",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "581",
@@ -5226,7 +6386,9 @@ window.ability=[
           "abilityEffectDescription": "自身のHPが30%アップし、封印を無効化する",
           "effectIdx1": "470",
           "effectIdx2": "69",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "582",
@@ -5235,7 +6397,9 @@ window.ability=[
           "abilityEffectDescription": "武器タイプのスキルダメージが30%アップする",
           "effectIdx1": "60",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "583",
@@ -5244,7 +6408,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと素早さが40%アップし、行動後にチャクラが6%回復する",
           "effectIdx1": "494",
           "effectIdx2": "111",
-          "effectIdx3": "793"
+          "effectIdx3": "793",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "584",
@@ -5253,7 +6419,9 @@ window.ability=[
           "abilityEffectDescription": "HP80%以上の時、チャクラ消費量が20%ダウンし、スキルダメージが150%アップ",
           "effectIdx1": "669",
           "effectIdx2": "782",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "585",
@@ -5262,7 +6430,9 @@ window.ability=[
           "abilityEffectDescription": "確率でスキルを回避する",
           "effectIdx1": "27",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "586",
@@ -5271,7 +6441,9 @@ window.ability=[
           "abilityEffectDescription": "HP回復スキルの基礎回復量が30％アップし、行動後にHPとチャクラが5％回復",
           "effectIdx1": "306",
           "effectIdx2": "28",
-          "effectIdx3": "29"
+          "effectIdx3": "29",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "587",
@@ -5280,7 +6452,9 @@ window.ability=[
           "abilityEffectDescription": "10回行動するまで攻撃力とスキルダメージが150%アップする",
           "effectIdx1": "795",
           "effectIdx2": "789",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "588",
@@ -5289,7 +6463,9 @@ window.ability=[
           "abilityEffectDescription": "HPが50％アップし弱体を無効化、確率でスキルを無効化する",
           "effectIdx1": "27",
           "effectIdx2": "788",
-          "effectIdx3": "10049"
+          "effectIdx3": "10049",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "589",
@@ -5298,7 +6474,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラが50%以上の時、攻撃力とスキルダメージが150％アップする",
           "effectIdx1": "790",
           "effectIdx2": "791",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "590",
@@ -5307,7 +6485,9 @@ window.ability=[
           "abilityEffectDescription": "水遁と火遁と土遁のダメージと状態異常を半減、HPが60％アップする",
           "effectIdx1": "170",
           "effectIdx2": "792",
-          "effectIdx3": "10059"
+          "effectIdx3": "10059",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "591",
@@ -5316,7 +6496,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力とスキルダメージが50％アップする",
           "effectIdx1": "251",
           "effectIdx2": "682",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "592",
@@ -5325,7 +6507,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と防御力が100％アップし、状態異常をを半減する",
           "effectIdx1": "264",
           "effectIdx2": "12099",
-          "effectIdx3": "792"
+          "effectIdx3": "792",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "593",
@@ -5334,7 +6518,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と防御力が100％アップし、弱体を半減する",
           "effectIdx1": "264",
           "effectIdx2": "12099",
-          "effectIdx3": "745"
+          "effectIdx3": "745",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "594",
@@ -5343,7 +6529,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラ消費量が10%ダウンし、行動後にチャクラが30％回復する",
           "effectIdx1": "348",
           "effectIdx2": "820",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "595",
@@ -5352,7 +6540,9 @@ window.ability=[
           "abilityEffectDescription": "防御力と回避率が50%アップし、確率でスキルを回避して無効化する",
           "effectIdx1": "276",
           "effectIdx2": "542",
-          "effectIdx3": "27"
+          "effectIdx3": "27",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "596",
@@ -5361,7 +6551,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と武器タイプのスキルダメージが100％上昇する",
           "effectIdx1": "264",
           "effectIdx2": "768",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "597",
@@ -5370,7 +6562,9 @@ window.ability=[
           "abilityEffectDescription": "5回行動するまでスキルダメージが100%アップ",
           "effectIdx1": "30409",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "598",
@@ -5379,7 +6573,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と素早さが50%アップし、行動後にHPが10%回復する",
           "effectIdx1": "251",
           "effectIdx2": "112",
-          "effectIdx3": "52"
+          "effectIdx3": "52",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "599",
@@ -5388,7 +6584,9 @@ window.ability=[
           "abilityEffectDescription": "HPが70%以上の時、スキルダメージが60%アップする",
           "effectIdx1": "31605",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "600",
@@ -5397,7 +6595,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と防御力が50%アップし、行動後にチャクラが10%回復する",
           "effectIdx1": "251",
           "effectIdx2": "276",
-          "effectIdx3": "53"
+          "effectIdx3": "53",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "601",
@@ -5406,7 +6606,9 @@ window.ability=[
           "abilityEffectDescription": "行動後にHPとチャクラが20％回復する",
           "effectIdx1": "628",
           "effectIdx2": "583",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "602",
@@ -5415,7 +6617,9 @@ window.ability=[
           "abilityEffectDescription": "消費チャクラ20％減少＆全スキルダメージ130％アップ",
           "effectIdx1": "8",
           "effectIdx2": "800",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "603",
@@ -5424,7 +6628,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力が100％アップし、HP40%以上の時にスキルダメージを半減する",
           "effectIdx1": "264",
           "effectIdx2": "796",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "604",
@@ -5433,7 +6639,9 @@ window.ability=[
           "abilityEffectDescription": "状態異常を無効化し、全スキルダメージ130％アップ",
           "effectIdx1": "82",
           "effectIdx2": "800",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "605",
@@ -5442,7 +6650,9 @@ window.ability=[
           "abilityEffectDescription": "8回行動するまで、攻撃力と防御力と素早さが100%アップする",
           "effectIdx1": "797",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "606",
@@ -5451,7 +6661,9 @@ window.ability=[
           "abilityEffectDescription": "会心率と会心力が50%アップし、弱体を無効化する",
           "effectIdx1": "798",
           "effectIdx2": "799",
-          "effectIdx3": "64"
+          "effectIdx3": "64",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "607",
@@ -5460,7 +6672,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と防御力と素早さが30％アップする",
           "effectIdx1": "205",
           "effectIdx2": "373",
-          "effectIdx3": "110"
+          "effectIdx3": "110",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "608",
@@ -5469,7 +6683,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と防御力と素早さが30％アップする",
           "effectIdx1": "205",
           "effectIdx2": "373",
-          "effectIdx3": "110"
+          "effectIdx3": "110",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "609",
@@ -5478,7 +6694,9 @@ window.ability=[
           "abilityEffectDescription": "素早さと会心率と会心力が50%アップ",
           "effectIdx1": "798",
           "effectIdx2": "799",
-          "effectIdx3": "112"
+          "effectIdx3": "112",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "610",
@@ -5487,7 +6705,9 @@ window.ability=[
           "abilityEffectDescription": "弱体と状態異常を半減する",
           "effectIdx1": "776",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "611",
@@ -5496,7 +6716,9 @@ window.ability=[
           "abilityEffectDescription": "HPが80%以上の時、攻撃力と塵遁タイプのスキルダメージが70％アップする",
           "effectIdx1": "763",
           "effectIdx2": "810",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "612",
@@ -5505,7 +6727,9 @@ window.ability=[
           "abilityEffectDescription": "行動するたびにHPとチャクラが10%回復する",
           "effectIdx1": "528",
           "effectIdx2": "357",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "613",
@@ -5514,7 +6738,9 @@ window.ability=[
           "abilityEffectDescription": "HPが70%以上の時、塵遁タイプのスキルダメージが100%アップする",
           "effectIdx1": "811",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "614",
@@ -5523,7 +6749,9 @@ window.ability=[
           "abilityEffectDescription": "HPが80%以上の時、消費チャクラが50%減少する。",
           "effectIdx1": "640",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "615",
@@ -5532,7 +6760,9 @@ window.ability=[
           "abilityEffectDescription": "10回行動するまでスキルダメージが50%アップする",
           "effectIdx1": "812",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "616",
@@ -5541,7 +6771,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPとスキルダメージを50%アップし、確率でスキルを回避する",
           "effectIdx1": "680",
           "effectIdx2": "682",
-          "effectIdx3": "27"
+          "effectIdx3": "27",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "617",
@@ -5550,7 +6782,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量100アップし、5回行動するまでスキルダメージ60%アップ",
           "effectIdx1": "813",
           "effectIdx2": "30405",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "618",
@@ -5559,7 +6793,9 @@ window.ability=[
           "abilityEffectDescription": "全スキルダメージを軽減し、素早さが50%アップする",
           "effectIdx1": "425",
           "effectIdx2": "112",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "619",
@@ -5568,7 +6804,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力とスキルダメージが80%アップする",
           "effectIdx1": "550",
           "effectIdx2": "30007",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "620",
@@ -5577,7 +6815,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量100アップし、5回行動するまでスキルダメージ60%アップ",
           "effectIdx1": "813",
           "effectIdx2": "30405",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "621",
@@ -5586,7 +6826,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと攻撃力が50%アップするが、確率で行動後に素早さが20％ダウンする",
           "effectIdx1": "680",
           "effectIdx2": "251",
-          "effectIdx3": "512"
+          "effectIdx3": "512",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "622",
@@ -5595,7 +6837,9 @@ window.ability=[
           "abilityEffectDescription": "行動するたびに攻撃力と素早さが10%アップする（最大4回まで）",
           "effectIdx1": "819",
           "effectIdx2": "815",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "623",
@@ -5604,7 +6848,9 @@ window.ability=[
           "abilityEffectDescription": "6回行動するまで攻撃力とスキルダメージが50%アップする",
           "effectIdx1": "814",
           "effectIdx2": "30504",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "624",
@@ -5613,7 +6859,9 @@ window.ability=[
           "abilityEffectDescription": "10回行動するまでスキルダメージが120%アップし、状態異常を無効化",
           "effectIdx1": "30911",
           "effectIdx2": "670",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "625",
@@ -5622,7 +6870,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と素早さが70%アップし、行動後にHPが20%回復する",
           "effectIdx1": "259",
           "effectIdx2": "13069",
-          "effectIdx3": "628"
+          "effectIdx3": "628",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "626",
@@ -5631,7 +6881,9 @@ window.ability=[
           "abilityEffectDescription": "HPが50%以上の時、スキルダメージが80%アップし弱体を無効化する",
           "effectIdx1": "31407",
           "effectIdx2": "821",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "627",
@@ -5640,7 +6892,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と防御力が80%アップし、行動後にチャクラが20%回復する",
           "effectIdx1": "550",
           "effectIdx2": "719",
-          "effectIdx3": "583"
+          "effectIdx3": "583",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "628",
@@ -5649,7 +6903,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが80%アップし、チャクラ消費量が20%減少する",
           "effectIdx1": "30007",
           "effectIdx2": "8",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "629",
@@ -5658,7 +6914,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と素早さと防御が70%アップする",
           "effectIdx1": "11069",
           "effectIdx2": "12069",
-          "effectIdx3": "13069"
+          "effectIdx3": "13069",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "630",
@@ -5667,7 +6925,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージを80%アップし、行動後にチャクラが20%回復する",
           "effectIdx1": "30007",
           "effectIdx2": "583",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "631",
@@ -5676,7 +6936,9 @@ window.ability=[
           "abilityEffectDescription": "素早さが50%アップし、確率でスキルを回避する。",
           "effectIdx1": "112",
           "effectIdx2": "27",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "632",
@@ -5685,7 +6947,9 @@ window.ability=[
           "abilityEffectDescription": "状態異常を無効化し、スキルダメージが80%アップする",
           "effectIdx1": "30007",
           "effectIdx2": "82",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "633",
@@ -5694,7 +6958,9 @@ window.ability=[
           "abilityEffectDescription": "行動後にHPとチャクラが15%回復する。",
           "effectIdx1": "648",
           "effectIdx2": "735",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "634",
@@ -5703,7 +6969,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃・防御・素早さが40%アップする",
           "effectIdx1": "376",
           "effectIdx2": "377",
-          "effectIdx3": "111"
+          "effectIdx3": "111",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "635",
@@ -5712,7 +6980,9 @@ window.ability=[
           "abilityEffectDescription": "10回行動するまでスキルダメージが90%アップする",
           "effectIdx1": "30908",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "636",
@@ -5721,7 +6991,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと攻撃力が50%アップする",
           "effectIdx1": "680",
           "effectIdx2": "251",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "637",
@@ -5730,7 +7002,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが60%アップし、弱体を半減する",
           "effectIdx1": "30005",
           "effectIdx2": "745",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "638",
@@ -5739,7 +7013,9 @@ window.ability=[
           "abilityEffectDescription": "素早さが30%アップし、確率でスキルを回避する",
           "effectIdx1": "183",
           "effectIdx2": "27",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "639",
@@ -5748,7 +7024,9 @@ window.ability=[
           "abilityEffectDescription": "麻痺を無効化し、HPが80%以上の時にHP回復スキルの基礎回復量が80%アップする",
           "effectIdx1": "66",
           "effectIdx2": "822",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "640",
@@ -5757,7 +7035,9 @@ window.ability=[
           "abilityEffectDescription": "行動後に確率で、攻撃・防御・素早さが100%アップする",
           "effectIdx1": "823",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "641",
@@ -5766,7 +7046,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが50%アップし、行動後にHPが5%回復する",
           "effectIdx1": "680",
           "effectIdx2": "28",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "642",
@@ -5775,7 +7057,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃・防御・素早さ30%アップ、自身のHP80%以上でさらにスキルダメージ80%アップ",
           "effectIdx1": "22003",
           "effectIdx2": "31707",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "643",
@@ -5784,7 +7068,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPを30%アップし、ダメージを受けた時に、HPが10%回復する",
           "effectIdx1": "10029",
           "effectIdx2": "830",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "644",
@@ -5793,7 +7079,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力が150%アップし、10回行動するまで行動後にHPが全回復する",
           "effectIdx1": "827",
           "effectIdx2": "457",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "645",
@@ -5802,7 +7090,9 @@ window.ability=[
           "abilityEffectDescription": "HP回復スキルの基礎回復量が50%アップし、行動後に高確率でチャクラが全回復する",
           "effectIdx1": "322",
           "effectIdx2": "826",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "646",
@@ -5811,7 +7101,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と防御力と素早さが60%アップし、スキルダメージを90%アップする",
           "effectIdx1": "22006",
           "effectIdx2": "30008",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "647",
@@ -5820,7 +7112,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラ消費量が20%ダウンし、HPが60%以下の時に受けるスキルダメージを半減する",
           "effectIdx1": "8",
           "effectIdx2": "828",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "648",
@@ -5829,7 +7123,9 @@ window.ability=[
           "abilityEffectDescription": "ダメージを受けた時、HPが回復する",
           "effectIdx1": "831",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "649",
@@ -5838,7 +7134,9 @@ window.ability=[
           "abilityEffectDescription": "全てのスキルダメージを軽減する",
           "effectIdx1": "425",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "650",
@@ -5847,7 +7145,9 @@ window.ability=[
           "abilityEffectDescription": "５回行動するまで攻撃力とスキルダメージ100％アップ",
           "effectIdx1": "832",
           "effectIdx2": "30409",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "651",
@@ -5856,7 +7156,9 @@ window.ability=[
           "abilityEffectDescription": "行動後確率で素早さ100%アップ",
           "effectIdx1": "833",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "652",
@@ -5865,7 +7167,9 @@ window.ability=[
           "abilityEffectDescription": "10回行動するまで攻撃力とスキルダメージ60％アップ",
           "effectIdx1": "834",
           "effectIdx2": "30905",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "653",
@@ -5874,7 +7178,9 @@ window.ability=[
           "abilityEffectDescription": "防御力を50％アップし、武器と体術タイプのスキルを無効化する。",
           "effectIdx1": "276",
           "effectIdx2": "44",
-          "effectIdx3": "38"
+          "effectIdx3": "38",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "654",
@@ -5883,7 +7189,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃を受けると確率でHP10%回復",
           "effectIdx1": "835",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "655",
@@ -5892,7 +7200,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと素早さ30%アップする",
           "effectIdx1": "536",
           "effectIdx2": "183",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "656",
@@ -5901,7 +7211,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが50%アップし、行動後HPが10%回復する",
           "effectIdx1": "680",
           "effectIdx2": "52",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "657",
@@ -5910,7 +7222,9 @@ window.ability=[
           "abilityEffectDescription": "行動後確率で攻撃力150%アップ",
           "effectIdx1": "836",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "658",
@@ -5919,7 +7233,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと攻撃力とスキルダメージが50%アップ",
           "effectIdx1": "30004",
           "effectIdx2": "251",
-          "effectIdx3": "680"
+          "effectIdx3": "680",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "659",
@@ -5928,7 +7244,9 @@ window.ability=[
           "abilityEffectDescription": "HP20%から1%以内になると一度だけHPが全回復し攻撃・防御・素早さ50%アップ",
           "effectIdx1": "265",
           "effectIdx2": "838",
-          "effectIdx3": "837"
+          "effectIdx3": "837",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "660",
@@ -5937,7 +7255,9 @@ window.ability=[
           "abilityEffectDescription": "行動するたびに攻撃力と防御力が30%アップする（最大3回まで）",
           "effectIdx1": "841",
           "effectIdx2": "842",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "661",
@@ -5946,7 +7266,9 @@ window.ability=[
           "abilityEffectDescription": "写輪眼スキルのダメージが120%アップする",
           "effectIdx1": "30011",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "662",
@@ -5955,7 +7277,9 @@ window.ability=[
           "abilityEffectDescription": "行動ごとに攻撃力と素早さが20%アップする（最大3回まで）",
           "effectIdx1": "843",
           "effectIdx2": "844",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "663",
@@ -5964,7 +7288,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが80%アップし、風遁スキルのダメージを100%アップする",
           "effectIdx1": "774",
           "effectIdx2": "649",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "664",
@@ -5973,7 +7299,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが80%アップし、状態異常を無効化する",
           "effectIdx1": "649",
           "effectIdx2": "82",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "665",
@@ -5982,7 +7310,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と沸遁スキルのダメージが100%アップ",
           "effectIdx1": "264",
           "effectIdx2": "774",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "666",
@@ -5991,7 +7321,9 @@ window.ability=[
           "abilityEffectDescription": "７回行動するまで、スキルダメージが60%アップする",
           "effectIdx1": "30605",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "667",
@@ -6000,7 +7332,9 @@ window.ability=[
           "abilityEffectDescription": "確率で攻撃・防御・素早さが70%アップする",
           "effectIdx1": "846",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "668",
@@ -6009,7 +7343,9 @@ window.ability=[
           "abilityEffectDescription": "最大HP・攻撃力・素早さが20%アップする",
           "effectIdx1": "11019",
           "effectIdx2": "10019",
-          "effectIdx3": "13019"
+          "effectIdx3": "13019",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "669",
@@ -6018,7 +7354,9 @@ window.ability=[
           "abilityEffectDescription": "自身のスキルダメージが30％アップする",
           "effectIdx1": "30002",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "670",
@@ -6027,7 +7365,9 @@ window.ability=[
           "abilityEffectDescription": "HP80%以上の時攻撃力とスキルダメージが100%アップし無系統のスキルを半減する",
           "effectIdx1": "31709",
           "effectIdx2": "863",
-          "effectIdx3": "865"
+          "effectIdx3": "865",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "671",
@@ -6036,7 +7376,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量が100アップし、行動後にチャクラが6%回復",
           "effectIdx1": "813",
           "effectIdx2": "825",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "672",
@@ -6045,7 +7387,9 @@ window.ability=[
           "abilityEffectDescription": "HP80%以上の時にスキルダメージが100%アップし状態異常を半減する",
           "effectIdx1": "31709",
           "effectIdx2": "851",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "673",
@@ -6054,7 +7398,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量が100アップし、攻撃力が80%アップする",
           "effectIdx1": "813",
           "effectIdx2": "11079",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "674",
@@ -6063,7 +7409,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量100アップ、5回行動するまで仙術・体術・六道タイプ以外のスキルダメージ半減",
           "effectIdx1": "852",
           "effectIdx2": "813",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "675",
@@ -6072,7 +7420,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラ消費量が15%ダウンし、7回行動するまでスキルダメージが70%アップする。",
           "effectIdx1": "204",
           "effectIdx2": "30606",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "676",
@@ -6081,7 +7431,9 @@ window.ability=[
           "abilityEffectDescription": "自身のスキルダメージが30%アップ、自身のHPが90%以上だとさらに60%アップ",
           "effectIdx1": "30002",
           "effectIdx2": "31805",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "677",
@@ -6090,7 +7442,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃を受けた時にHPが5%回復する",
           "effectIdx1": "727",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "678",
@@ -6099,7 +7453,9 @@ window.ability=[
           "abilityEffectDescription": "10回行動するまでスキルダメージと防御力が100%アップする",
           "effectIdx1": "30909",
           "effectIdx2": "854",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "679",
@@ -6108,7 +7464,9 @@ window.ability=[
           "abilityEffectDescription": "行動するたびにHPが10%回復する。",
           "effectIdx1": "357",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "680",
@@ -6117,7 +7475,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力とスキルダメージが120%アップし、無系統のスキルを無効化する",
           "effectIdx1": "887",
           "effectIdx2": "30011",
-          "effectIdx3": "864"
+          "effectIdx3": "864",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "681",
@@ -6126,7 +7486,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力が150%アップ、最大チャクラ量が150アップ、行動後にチャクラが20%回復",
           "effectIdx1": "1268",
           "effectIdx2": "20014",
-          "effectIdx3": "583"
+          "effectIdx3": "583",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "682",
@@ -6135,7 +7497,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが120%アップし、状態異常を無効化し、行動後チャクラ20%回復",
           "effectIdx1": "30011",
           "effectIdx2": "82",
-          "effectIdx3": "583"
+          "effectIdx3": "583",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "683",
@@ -6144,7 +7508,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量が150アップし、攻撃力が150％、防御力が100%アップする",
           "effectIdx1": "20014",
           "effectIdx2": "12099",
-          "effectIdx3": "827"
+          "effectIdx3": "827",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "684",
@@ -6153,7 +7519,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量が150アップし、7回行動するまで仙術・体術・六道以外のスキルダメージを無効化する",
           "effectIdx1": "20014",
           "effectIdx2": "1267",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "685",
@@ -6162,7 +7530,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラ消費量が20%ダウンし、スキルダメージが120%アップする",
           "effectIdx1": "30011",
           "effectIdx2": "860",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "686",
@@ -6171,7 +7541,9 @@ window.ability=[
           "abilityEffectDescription": "自身のスキルダメージが40%アップ、自身のHPが50%以上だとさらに80%アップ",
           "effectIdx1": "30003",
           "effectIdx2": "31407",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "687",
@@ -6180,7 +7552,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃を受けた時にHPが10%回復する",
           "effectIdx1": "830",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "688",
@@ -6189,7 +7563,9 @@ window.ability=[
           "abilityEffectDescription": "仙術タイプのダメージを半減する",
           "effectIdx1": "861",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "689",
@@ -6198,7 +7574,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラが80%以上の時、攻撃力とスキルダメージが70%アップ",
           "effectIdx1": "33706",
           "effectIdx2": "867",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "690",
@@ -6207,7 +7585,9 @@ window.ability=[
           "abilityEffectDescription": "水遁タイプのスキルを半減し、行動後にチャクラが3%回復する",
           "effectIdx1": "41",
           "effectIdx2": "515",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "691",
@@ -6216,7 +7596,9 @@ window.ability=[
           "abilityEffectDescription": "HPが90%以上の時にスキルダメージが80%アップし受ける全スキルダメージを軽減する",
           "effectIdx1": "31807",
           "effectIdx2": "868",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "692",
@@ -6225,7 +7607,9 @@ window.ability=[
           "abilityEffectDescription": "水遁タイプのスキルを半減し、行動後にHPが5%回復する",
           "effectIdx1": "41",
           "effectIdx2": "172",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "693",
@@ -6234,7 +7618,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと素早さが30％アップする",
           "effectIdx1": "470",
           "effectIdx2": "183",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "694",
@@ -6243,7 +7629,9 @@ window.ability=[
           "abilityEffectDescription": "水遁タイプのスキルを半減し、低確率でスキルを回避する",
           "effectIdx1": "41",
           "effectIdx2": "27",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "695",
@@ -6252,7 +7640,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と素早さが30%アップする",
           "effectIdx1": "182",
           "effectIdx2": "183",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "696",
@@ -6261,7 +7651,9 @@ window.ability=[
           "abilityEffectDescription": "水遁タイプのスキルを半減し、消費チャクラを20％ダウンする",
           "effectIdx1": "41",
           "effectIdx2": "8",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "697",
@@ -6270,7 +7662,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラが50%以上の時に攻撃力とスキルダメージが100%アップ",
           "effectIdx1": "869",
           "effectIdx2": "33409",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "698",
@@ -6279,7 +7673,9 @@ window.ability=[
           "abilityEffectDescription": "水遁タイプのスキルを半減し、行動後にチャクラが10%回復する",
           "effectIdx1": "41",
           "effectIdx2": "528",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "699",
@@ -6288,7 +7684,9 @@ window.ability=[
           "abilityEffectDescription": "HPが50%以上の時にスキルダメージが120%アップし受ける全スキルダメージを軽減する",
           "effectIdx1": "31411",
           "effectIdx2": "870",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "700",
@@ -6297,7 +7695,9 @@ window.ability=[
           "abilityEffectDescription": "水遁タイプのスキルを半減し、行動後にHPが15%回復する",
           "effectIdx1": "41",
           "effectIdx2": "735",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "701",
@@ -6306,7 +7706,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と防御力が120%アップ、素早さが60％アップ",
           "effectIdx1": "736",
           "effectIdx2": "12111",
-          "effectIdx3": "13059"
+          "effectIdx3": "13059",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "702",
@@ -6315,7 +7717,9 @@ window.ability=[
           "abilityEffectDescription": "状態異常を無効化し、火遁スキルのダメージが100%アップ、さらに行動後にHPが5％回復する",
           "effectIdx1": "82",
           "effectIdx2": "774",
-          "effectIdx3": "28"
+          "effectIdx3": "28",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "703",
@@ -6324,7 +7728,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と防御力が80%アップし、チャクラ消費量が25%減少する",
           "effectIdx1": "11079",
           "effectIdx2": "12079",
-          "effectIdx3": "713"
+          "effectIdx3": "713",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "704",
@@ -6333,7 +7739,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが80%アップし、状態異常を無効化",
           "effectIdx1": "30007",
           "effectIdx2": "82",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "705",
@@ -6342,7 +7750,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と素早さが60%アップ、6回行動するまでは素早さがさらに40％アップ",
           "effectIdx1": "11059",
           "effectIdx2": "13059",
-          "effectIdx3": "602"
+          "effectIdx3": "602",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "706",
@@ -6351,7 +7761,9 @@ window.ability=[
           "abilityEffectDescription": "雷遁タイプのダメージが80%アップする",
           "effectIdx1": "30007",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "707",
@@ -6360,7 +7772,9 @@ window.ability=[
           "abilityEffectDescription": "行動するたびに攻撃力と防御力25%アップする（最大3回まで）",
           "effectIdx1": "872",
           "effectIdx2": "873",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "708",
@@ -6369,7 +7783,9 @@ window.ability=[
           "abilityEffectDescription": "火遁タイプのスキルダメージが80％アップする",
           "effectIdx1": "30007",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "709",
@@ -6378,7 +7794,9 @@ window.ability=[
           "abilityEffectDescription": "HPが80%以上の時、攻撃力とスキルダメージが50%アップし弱体を無効化する",
           "effectIdx1": "161",
           "effectIdx2": "31604",
-          "effectIdx3": "875"
+          "effectIdx3": "875",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "710",
@@ -6387,7 +7805,9 @@ window.ability=[
           "abilityEffectDescription": "HPが0以下で1度だけHPが全回復し、攻撃・防御・素早さが100%アップする",
           "effectIdx1": "876",
           "effectIdx2": "874",
-          "effectIdx3": "312"
+          "effectIdx3": "312",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "711",
@@ -6396,7 +7816,9 @@ window.ability=[
           "abilityEffectDescription": "8回行動するまで攻撃力とスキルダメージ100%アップ",
           "effectIdx1": "882",
           "effectIdx2": "30709",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "712",
@@ -6405,7 +7827,9 @@ window.ability=[
           "abilityEffectDescription": "毒と猛毒を無効化し、素早さを60%アップする",
           "effectIdx1": "589",
           "effectIdx2": "326",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "713",
@@ -6414,7 +7838,9 @@ window.ability=[
           "abilityEffectDescription": "3回行動するまで攻撃力とスキルダメージ60%アップ",
           "effectIdx1": "883",
           "effectIdx2": "30205",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "714",
@@ -6423,7 +7849,9 @@ window.ability=[
           "abilityEffectDescription": "HPが0以下で１度だけHP50%回復する",
           "effectIdx1": "312",
           "effectIdx2": "618",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "715",
@@ -6432,7 +7860,9 @@ window.ability=[
           "abilityEffectDescription": "3回行動するまで攻撃力とスキルダメージ60%アップ",
           "effectIdx1": "883",
           "effectIdx2": "30205",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "716",
@@ -6441,7 +7871,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラ消費量が20%ダウンし、HP回復スキルの基礎回復量30%アップ",
           "effectIdx1": "860",
           "effectIdx2": "306",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "717",
@@ -6450,7 +7882,9 @@ window.ability=[
           "abilityEffectDescription": "3回行動するまで攻撃力とスキルダメージ60%アップ",
           "effectIdx1": "883",
           "effectIdx2": "30205",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "718",
@@ -6459,7 +7893,9 @@ window.ability=[
           "abilityEffectDescription": "低確率でスキルを回避する",
           "effectIdx1": "27",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "719",
@@ -6468,7 +7904,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と防御力と火遁スキルダメージ50%アップ",
           "effectIdx1": "251",
           "effectIdx2": "276",
-          "effectIdx3": "538"
+          "effectIdx3": "538",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "720",
@@ -6477,7 +7915,9 @@ window.ability=[
           "abilityEffectDescription": "HP0以下で1回だけHPが全回復し、スキルダメージが100%アップする",
           "effectIdx1": "874",
           "effectIdx2": "888",
-          "effectIdx3": "312"
+          "effectIdx3": "312",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "721",
@@ -6486,7 +7926,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと攻撃力が60%アップする",
           "effectIdx1": "10059",
           "effectIdx2": "378",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "722",
@@ -6495,7 +7937,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と口寄せスキルダメージが70%アップする",
           "effectIdx1": "259",
           "effectIdx2": "652",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "723",
@@ -6504,7 +7948,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージと状態異常を半減する",
           "effectIdx1": "20501",
           "effectIdx2": "792",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "724",
@@ -6513,7 +7959,9 @@ window.ability=[
           "abilityEffectDescription": "班の音隠れの里所属のキャラ1体につき攻撃力と防御力と素早さが15%アップ（自身含む）",
           "effectIdx1": "889",
           "effectIdx2": "890",
-          "effectIdx3": "891"
+          "effectIdx3": "891",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "725",
@@ -6522,7 +7970,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが40%アップし、行動後にHPが30％回復する",
           "effectIdx1": "10039",
           "effectIdx2": "894",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "726",
@@ -6531,7 +7981,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージを軽減し、スキルダメージが200％アップする",
           "effectIdx1": "20500",
           "effectIdx2": "30019",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "727",
@@ -6540,7 +7992,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と素早さが80%アップする",
           "effectIdx1": "550",
           "effectIdx2": "13079",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "728",
@@ -6549,7 +8003,9 @@ window.ability=[
           "abilityEffectDescription": "雷遁タイプのスキルダメージが100％アップし、行動後にチャクラが5％回復",
           "effectIdx1": "30009",
           "effectIdx2": "446",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "729",
@@ -6558,7 +8014,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが50％アップし、チャクラ消費量が半減する",
           "effectIdx1": "680",
           "effectIdx2": "895",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "730",
@@ -6567,7 +8025,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが100%アップし、素早さが50%アップする",
           "effectIdx1": "30009",
           "effectIdx2": "112",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "731",
@@ -6576,7 +8036,9 @@ window.ability=[
           "abilityEffectDescription": "行動するたびに攻撃力と素早さが25%アップする。（最大3回まで）",
           "effectIdx1": "896",
           "effectIdx2": "897",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "732",
@@ -6585,7 +8047,9 @@ window.ability=[
           "abilityEffectDescription": "幻術タイプのスキルダメージを120％アップし、行動後にチャクラが15％回復",
           "effectIdx1": "30011",
           "effectIdx2": "648",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "733",
@@ -6594,7 +8058,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力が60％アップし、チャクラ消費量を20％軽減する",
           "effectIdx1": "378",
           "effectIdx2": "8",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "734",
@@ -6603,7 +8069,9 @@ window.ability=[
           "abilityEffectDescription": "麻痺を無効化し、口寄せタイプのスキルダメージが100％アップする",
           "effectIdx1": "66",
           "effectIdx2": "30009",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "735",
@@ -6612,7 +8080,9 @@ window.ability=[
           "abilityEffectDescription": "素早さが50％アップし、スキルダメージが100％アップする",
           "effectIdx1": "112",
           "effectIdx2": "30009",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "736",
@@ -6621,7 +8091,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと攻撃力が30%アップし、確率でスキルを回避する",
           "effectIdx1": "470",
           "effectIdx2": "182",
-          "effectIdx3": "27"
+          "effectIdx3": "27",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "737",
@@ -6630,7 +8102,9 @@ window.ability=[
           "abilityEffectDescription": "班の砂隠れの里所属のキャラ1体につき攻撃力と防御力と素早さが10%アップ（自身含む）",
           "effectIdx1": "898",
           "effectIdx2": "899",
-          "effectIdx3": "900"
+          "effectIdx3": "900",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "738",
@@ -6639,7 +8113,9 @@ window.ability=[
           "abilityEffectDescription": "HPが80%以上の時、風遁タイプのスキルダメージが80%アップする",
           "effectIdx1": "31707",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "739",
@@ -6648,7 +8124,9 @@ window.ability=[
           "abilityEffectDescription": "5回行動するまでスキルダメージが40%アップする",
           "effectIdx1": "30403",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "740",
@@ -6657,7 +8135,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と防御力が30%アップする",
           "effectIdx1": "11029",
           "effectIdx2": "12029",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "741",
@@ -6666,7 +8146,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが80%アップし、チャクラ消費量が10%減少する",
           "effectIdx1": "30007",
           "effectIdx2": "348",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "742",
@@ -6675,7 +8157,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと攻撃力と防御力が80%アップする",
           "effectIdx1": "11079",
           "effectIdx2": "12079",
-          "effectIdx3": "10079"
+          "effectIdx3": "10079",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "743",
@@ -6684,7 +8168,9 @@ window.ability=[
           "abilityEffectDescription": "6回行動するまで攻撃力と素早さ50%アップ",
           "effectIdx1": "814",
           "effectIdx2": "902",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "744",
@@ -6693,7 +8179,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージを50%アップし、弱体にかかる確率を半減する",
           "effectIdx1": "30004",
           "effectIdx2": "745",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "745",
@@ -6702,7 +8190,9 @@ window.ability=[
           "abilityEffectDescription": "6回行動後から攻撃力とスキルダメージ50%アップ",
           "effectIdx1": "903",
           "effectIdx2": "904",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "746",
@@ -6711,7 +8201,9 @@ window.ability=[
           "abilityEffectDescription": "素早さを60%アップし、低確率でスキルを回避する",
           "effectIdx1": "326",
           "effectIdx2": "27",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "747",
@@ -6720,7 +8212,9 @@ window.ability=[
           "abilityEffectDescription": "HPが50%以下になると受けるスキルダメージが半減する",
           "effectIdx1": "423",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "748",
@@ -6729,7 +8223,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと攻撃力が50%アップ",
           "effectIdx1": "680",
           "effectIdx2": "251",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "749",
@@ -6738,7 +8234,9 @@ window.ability=[
           "abilityEffectDescription": "6回行動するまでスキルダメージ100%アップ",
           "effectIdx1": "30509",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "750",
@@ -6747,7 +8245,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと素早さが30%アップ",
           "effectIdx1": "470",
           "effectIdx2": "110",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "751",
@@ -6756,7 +8256,9 @@ window.ability=[
           "abilityEffectDescription": "HPが50%以下の時、攻撃力が200%アップする",
           "effectIdx1": "914",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "752",
@@ -6765,7 +8267,9 @@ window.ability=[
           "abilityEffectDescription": "７回行動するまで会心率と会心力が100%アップする",
           "effectIdx1": "912",
           "effectIdx2": "913",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "753",
@@ -6774,7 +8278,9 @@ window.ability=[
           "abilityEffectDescription": "4回行動するまでHP回復スキルの基礎回復量30%アップ",
           "effectIdx1": "915",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "754",
@@ -6783,7 +8289,9 @@ window.ability=[
           "abilityEffectDescription": "HP50%以上の時、攻撃力と素早さ30%アップ",
           "effectIdx1": "916",
           "effectIdx2": "917",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "755",
@@ -6792,7 +8300,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと攻撃力が50%アップし、チャクラ消費量が10%ダウンする",
           "effectIdx1": "680",
           "effectIdx2": "251",
-          "effectIdx3": "348"
+          "effectIdx3": "348",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "756",
@@ -6801,7 +8311,9 @@ window.ability=[
           "abilityEffectDescription": "HPが70%以上の時にスキルダメージが70%アップする",
           "effectIdx1": "31606",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "757",
@@ -6810,7 +8322,9 @@ window.ability=[
           "abilityEffectDescription": "10回行動するまでスキルダメージが80%アップする",
           "effectIdx1": "30907",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "758",
@@ -6819,7 +8333,9 @@ window.ability=[
           "abilityEffectDescription": "行動するたびに攻撃力が20%アップする（最大4回まで）がHPが5%ずつ減少する",
           "effectIdx1": "568",
           "effectIdx2": "617",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "759",
@@ -6828,7 +8344,9 @@ window.ability=[
           "abilityEffectDescription": "9回行動するまで攻撃力とスキルダメージと素早さが50%アップする",
           "effectIdx1": "30804",
           "effectIdx2": "920",
-          "effectIdx3": "921"
+          "effectIdx3": "921",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "760",
@@ -6837,7 +8355,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが50%アップし、行動後にチャクラとHPが7%回復する",
           "effectIdx1": "10049",
           "effectIdx2": "370",
-          "effectIdx3": "455"
+          "effectIdx3": "455",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "761",
@@ -6846,7 +8366,9 @@ window.ability=[
           "abilityEffectDescription": "行動毎に攻撃力が10%アップする（最大5回）",
           "effectIdx1": "507",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "762",
@@ -6855,7 +8377,9 @@ window.ability=[
           "abilityEffectDescription": "風遁スキルダメージ80%アップ",
           "effectIdx1": "30007",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "763",
@@ -6864,7 +8388,9 @@ window.ability=[
           "abilityEffectDescription": "行動毎に攻撃力が10%アップする（最大5回）",
           "effectIdx1": "507",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "764",
@@ -6873,7 +8399,9 @@ window.ability=[
           "abilityEffectDescription": "雷遁スキルダメージ80%アップ",
           "effectIdx1": "30007",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "765",
@@ -6882,7 +8410,9 @@ window.ability=[
           "abilityEffectDescription": "8回行動するまでスキルダメージが70%アップし弱体無効",
           "effectIdx1": "30706",
           "effectIdx2": "924",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "766",
@@ -6891,7 +8421,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と最大HPが50%アップし、行動後にHPが10%回復する",
           "effectIdx1": "680",
           "effectIdx2": "357",
-          "effectIdx3": "251"
+          "effectIdx3": "251",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "767",
@@ -6900,7 +8432,9 @@ window.ability=[
           "abilityEffectDescription": "回避率と防御力が40%ダウンする",
           "effectIdx1": "926",
           "effectIdx2": "923",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "768",
@@ -6909,7 +8443,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが60%アップし、行動後にチャクラが7%回復",
           "effectIdx1": "30005",
           "effectIdx2": "455",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "769",
@@ -6918,7 +8454,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが70%アップし、HP40%以下の時に全スキルダメージ軽減",
           "effectIdx1": "10069",
           "effectIdx2": "701",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "770",
@@ -6927,7 +8465,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが30%アップ、HPが80%以上だとさらに70%アップ",
           "effectIdx1": "30002",
           "effectIdx2": "31706",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "771",
@@ -6936,7 +8476,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラ消費量が20%ダウンするが、確率で行動後にHPが10%ダウンする",
           "effectIdx1": "860",
           "effectIdx2": "558",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "772",
@@ -6945,7 +8487,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが30%アップし、麻痺を無効化する",
           "effectIdx1": "10029",
           "effectIdx2": "66",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "773",
@@ -6954,7 +8498,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが50%アップする",
           "effectIdx1": "30004",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "774",
@@ -6963,7 +8509,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと素早さが50%アップする",
           "effectIdx1": "10049",
           "effectIdx2": "112",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "775",
@@ -6972,7 +8520,9 @@ window.ability=[
           "abilityEffectDescription": "弱体と状態異常を半減する",
           "effectIdx1": "776",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "776",
@@ -6981,7 +8531,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと攻撃力と防御力と素早さが50%アップする",
           "effectIdx1": "22005",
           "effectIdx2": "10049",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "777",
@@ -6990,7 +8542,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが20%アップ、5回行動以降だとさらに60%アップ",
           "effectIdx1": "30001",
           "effectIdx2": "930",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "778",
@@ -6999,7 +8553,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが50%アップ、HP80%以上の時にさらに40%アップ",
           "effectIdx1": "30004",
           "effectIdx2": "31703",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "779",
@@ -7008,7 +8564,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが60%アップし、ダメージを受けた時、HPとチャクラが7%回復する",
           "effectIdx1": "10059",
           "effectIdx2": "945",
-          "effectIdx3": "946"
+          "effectIdx3": "946",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "780",
@@ -7017,7 +8575,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと全スキルダメージが100％アップし、写輪眼タイプのスキルダメージを半減",
           "effectIdx1": "30009",
           "effectIdx2": "78",
-          "effectIdx3": "10099"
+          "effectIdx3": "10099",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "781",
@@ -7026,7 +8586,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と素早さが70％アップ＆チャクラ消費量が20％ダウン",
           "effectIdx1": "11069",
           "effectIdx2": "13069",
-          "effectIdx3": "8"
+          "effectIdx3": "8",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "782",
@@ -7035,7 +8597,9 @@ window.ability=[
           "abilityEffectDescription": "輪廻眼スキルのダメージが150％アップ、最大HPと攻撃力が60%アップ",
           "effectIdx1": "30014",
           "effectIdx2": "10059",
-          "effectIdx3": "11059"
+          "effectIdx3": "11059",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "783",
@@ -7044,7 +8608,9 @@ window.ability=[
           "abilityEffectDescription": "HP40％以上の時に状態異常を無効化＆スキルダメージを半減",
           "effectIdx1": "929",
           "effectIdx2": "796",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "784",
@@ -7053,7 +8619,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが20%ダウンする",
           "effectIdx1": "931",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "785",
@@ -7062,7 +8630,9 @@ window.ability=[
           "abilityEffectDescription": "防御力が30%ダウンする",
           "effectIdx1": "476",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "786",
@@ -7071,7 +8641,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力が30%ダウンする",
           "effectIdx1": "475",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "787",
@@ -7080,7 +8652,9 @@ window.ability=[
           "abilityEffectDescription": "素早さが30%ダウンする",
           "effectIdx1": "324",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "788",
@@ -7089,7 +8663,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃・防御・素早さ・スキルダメージ30%アップ",
           "effectIdx1": "22003",
           "effectIdx2": "30002",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "789",
@@ -7098,7 +8674,9 @@ window.ability=[
           "abilityEffectDescription": "HPが80%以上の時に攻撃・防御・素早さが40%アップ",
           "effectIdx1": "934",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "790",
@@ -7107,7 +8685,9 @@ window.ability=[
           "abilityEffectDescription": "8回行動するまでスキルダメージ80%アップしチャクラ消費量が20%ダウン",
           "effectIdx1": "30707",
           "effectIdx2": "933",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "791",
@@ -7116,7 +8696,9 @@ window.ability=[
           "abilityEffectDescription": "行動するたびに攻撃力と素早さが20%アップする（最大3回まで）",
           "effectIdx1": "843",
           "effectIdx2": "844",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "792",
@@ -7125,7 +8707,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが40%アップ、HPが50%以下の時にダメージを受けるとさらに80%アップ",
           "effectIdx1": "30003",
           "effectIdx2": "932",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "793",
@@ -7134,7 +8718,9 @@ window.ability=[
           "abilityEffectDescription": "班の木ノ葉隠れの里所属のキャラ1体につき攻撃力と素早さが10%アップ（自身含む）",
           "effectIdx1": "657",
           "effectIdx2": "658",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "794",
@@ -7143,7 +8729,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPとスキルダメージが50%アップする",
           "effectIdx1": "10049",
           "effectIdx2": "30004",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "795",
@@ -7152,7 +8740,9 @@ window.ability=[
           "abilityEffectDescription": "素早さが80%アップし、スキルダメージを半減",
           "effectIdx1": "13079",
           "effectIdx2": "20501",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "796",
@@ -7161,7 +8751,9 @@ window.ability=[
           "abilityEffectDescription": "自身の防御力と素早さ60%アップ",
           "effectIdx1": "12059",
           "effectIdx2": "326",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "797",
@@ -7170,7 +8762,9 @@ window.ability=[
           "abilityEffectDescription": "HP40%から1％になると一度だけHPとチャクラが完全回復※HP0になった場合は発動しない",
           "effectIdx1": "265",
           "effectIdx2": "950",
-          "effectIdx3": "951"
+          "effectIdx3": "951",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "798",
@@ -7179,7 +8773,9 @@ window.ability=[
           "abilityEffectDescription": "自身の素早さと最大HPが60%アップ",
           "effectIdx1": "326",
           "effectIdx2": "10059",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "799",
@@ -7188,7 +8784,9 @@ window.ability=[
           "abilityEffectDescription": "自身の秘伝スキルダメージが100%アップ",
           "effectIdx1": "952",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "800",
@@ -7197,7 +8795,9 @@ window.ability=[
           "abilityEffectDescription": "班の木ノ葉隠れの里所属1体につき、攻撃力が30%アップ（自身含む）",
           "effectIdx1": "953",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "801",
@@ -7206,7 +8806,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量が100アップする",
           "effectIdx1": "813",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "802",
@@ -7215,7 +8817,9 @@ window.ability=[
           "abilityEffectDescription": "自身の攻撃力と風遁スキルダメージを100%アップする",
           "effectIdx1": "264",
           "effectIdx2": "928",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "803",
@@ -7224,7 +8828,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが50%アップし、行動後HP20%回復する",
           "effectIdx1": "680",
           "effectIdx2": "628",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "804",
@@ -7233,7 +8839,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力とスキルダメージが80%アップする",
           "effectIdx1": "550",
           "effectIdx2": "30007",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "805",
@@ -7242,7 +8850,9 @@ window.ability=[
           "abilityEffectDescription": "素早さとスキルダメージが60%アップする",
           "effectIdx1": "326",
           "effectIdx2": "30005",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "806",
@@ -7251,7 +8861,9 @@ window.ability=[
           "abilityEffectDescription": "HPが50%以上の時、チャクラ消費量30%ダウン&amp;行動後チャクラが10%回復する",
           "effectIdx1": "954",
           "effectIdx2": "955",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "807",
@@ -7260,7 +8872,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPとスキルダメージが50%アップする",
           "effectIdx1": "680",
           "effectIdx2": "30004",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "808",
@@ -7269,7 +8883,9 @@ window.ability=[
           "abilityEffectDescription": "HPが50%以上の時、チャクラ消費量30%ダウン&amp;行動後チャクラが10%回復する",
           "effectIdx1": "954",
           "effectIdx2": "955",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "809",
@@ -7278,7 +8894,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と素早さ80%アップ",
           "effectIdx1": "550",
           "effectIdx2": "13079",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "810",
@@ -7287,7 +8905,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージを80%アップし、弱体にかかる確率を半減する",
           "effectIdx1": "30007",
           "effectIdx2": "745",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "811",
@@ -7296,7 +8916,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力とスキルダメージ80%アップ",
           "effectIdx1": "550",
           "effectIdx2": "30007",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "812",
@@ -7305,7 +8927,9 @@ window.ability=[
           "abilityEffectDescription": "素早さを70%アップし、確率でスキルを回避する",
           "effectIdx1": "13069",
           "effectIdx2": "679",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "813",
@@ -7314,7 +8938,9 @@ window.ability=[
           "abilityEffectDescription": "HPが80%以下になると受けるスキルダメージが半減する",
           "effectIdx1": "956",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "814",
@@ -7323,7 +8949,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと攻撃力が100%アップ",
           "effectIdx1": "684",
           "effectIdx2": "264",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "815",
@@ -7332,7 +8960,9 @@ window.ability=[
           "abilityEffectDescription": "10回行動するまでスキルダメージ150%アップ",
           "effectIdx1": "30914",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "816",
@@ -7341,7 +8971,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと素早さが50%アップ",
           "effectIdx1": "680",
           "effectIdx2": "13049",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "817",
@@ -7350,7 +8982,9 @@ window.ability=[
           "abilityEffectDescription": "HP70%以上の時に攻撃力とスキルダメージ50%アップ",
           "effectIdx1": "961",
           "effectIdx2": "31604",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "818",
@@ -7359,7 +8993,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが90%アップし最大チャクラ量が50アップ",
           "effectIdx1": "10089",
           "effectIdx2": "689",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "819",
@@ -7368,7 +9004,9 @@ window.ability=[
           "abilityEffectDescription": "HP70%以上の時に攻撃力と素早さとスキルダメージ100%アップ",
           "effectIdx1": "966",
           "effectIdx2": "962",
-          "effectIdx3": "31609"
+          "effectIdx3": "31609",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "820",
@@ -7377,7 +9015,9 @@ window.ability=[
           "abilityEffectDescription": "確率でスキルを回避し最大チャクラ量が50アップ",
           "effectIdx1": "734",
           "effectIdx2": "689",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "821",
@@ -7386,7 +9026,9 @@ window.ability=[
           "abilityEffectDescription": "行動後低確率でHPが全回復する",
           "effectIdx1": "964",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "822",
@@ -7395,7 +9037,9 @@ window.ability=[
           "abilityEffectDescription": "行動後低確率で攻撃力が200%アップする",
           "effectIdx1": "965",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "823",
@@ -7404,7 +9048,9 @@ window.ability=[
           "abilityEffectDescription": "敵からの武器スキルダメージを無効化し、自身の武器スキルダメージ100%アップ",
           "effectIdx1": "44",
           "effectIdx2": "768",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "824",
@@ -7413,7 +9059,9 @@ window.ability=[
           "abilityEffectDescription": "班の木ノ葉隠れのキャラ1体につき、攻撃と素早さが10%アップする。",
           "effectIdx1": "657",
           "effectIdx2": "658",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "825",
@@ -7422,7 +9070,9 @@ window.ability=[
           "abilityEffectDescription": "行動後確率で攻撃力・防御力・素早さ100%アップ",
           "effectIdx1": "823",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "826",
@@ -7431,7 +9081,9 @@ window.ability=[
           "abilityEffectDescription": "9回行動するまでスキルダメージ60%アップ",
           "effectIdx1": "30805",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "827",
@@ -7440,7 +9092,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力とスキルダメージ100%アップ",
           "effectIdx1": "264",
           "effectIdx2": "30009",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "828",
@@ -7449,7 +9103,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが100%アップし最大チャクラ量が100アップ",
           "effectIdx1": "10099",
           "effectIdx2": "813",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "829",
@@ -7458,7 +9114,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と素早さとスキルダメージ200%アップ",
           "effectIdx1": "855",
           "effectIdx2": "1280",
-          "effectIdx3": "30019"
+          "effectIdx3": "30019",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "830",
@@ -7467,7 +9125,9 @@ window.ability=[
           "abilityEffectDescription": "高確率でスキルを回避し最大チャクラ量が100アップ",
           "effectIdx1": "968",
           "effectIdx2": "813",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "831",
@@ -7476,7 +9136,9 @@ window.ability=[
           "abilityEffectDescription": "自身の最大HPと素早さとスキルダメージが60%アップする",
           "effectIdx1": "10059",
           "effectIdx2": "13059",
-          "effectIdx3": "30005"
+          "effectIdx3": "30005",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "832",
@@ -7485,7 +9147,9 @@ window.ability=[
           "abilityEffectDescription": "HPが40%以下の時に防御力が100%アップし、全スキルダメージを半減する",
           "effectIdx1": "969",
           "effectIdx2": "970",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "833",
@@ -7494,7 +9158,9 @@ window.ability=[
           "abilityEffectDescription": "自身の最大HPと攻撃力とスキルダメージが60%アップする",
           "effectIdx1": "10059",
           "effectIdx2": "11059",
-          "effectIdx3": "30005"
+          "effectIdx3": "30005",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "834",
@@ -7503,7 +9169,9 @@ window.ability=[
           "abilityEffectDescription": "HPが40%以下の時に低確率でスキルを回避する",
           "effectIdx1": "720",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "835",
@@ -7512,7 +9180,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラMAX時攻撃力と仙術タイプのスキルダメージが80%アップする",
           "effectIdx1": "981",
           "effectIdx2": "982",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "836",
@@ -7521,7 +9191,9 @@ window.ability=[
           "abilityEffectDescription": "HP0以下になると1回だけHPが全回復しスキルダメージが70％アップする",
           "effectIdx1": "874",
           "effectIdx2": "983",
-          "effectIdx3": "312"
+          "effectIdx3": "312",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "837",
@@ -7530,7 +9202,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと攻撃力が80%アップする",
           "effectIdx1": "10079",
           "effectIdx2": "11079",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "838",
@@ -7539,7 +9213,9 @@ window.ability=[
           "abilityEffectDescription": "自身の封印術タイプのスキルダメージが50%アップする",
           "effectIdx1": "30004",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "839",
@@ -7548,7 +9224,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と時空間タイプのスキルダメージが80%アップする",
           "effectIdx1": "11079",
           "effectIdx2": "30007",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "840",
@@ -7557,7 +9235,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが50%アップする",
           "effectIdx1": "10049",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "841",
@@ -7566,7 +9246,9 @@ window.ability=[
           "abilityEffectDescription": "4回行動するまで素早さと攻撃力50%アップ",
           "effectIdx1": "984",
           "effectIdx2": "985",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "842",
@@ -7575,7 +9257,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージ50%アップ、チャクラ消費量5%ダウン",
           "effectIdx1": "30004",
           "effectIdx2": "273",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "843",
@@ -7584,7 +9268,9 @@ window.ability=[
           "abilityEffectDescription": "8回行動するまで素早さと攻撃力80%アップ",
           "effectIdx1": "986",
           "effectIdx2": "987",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "844",
@@ -7593,7 +9279,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージ80%アップ、チャクラ消費量10%ダウン",
           "effectIdx1": "30007",
           "effectIdx2": "712",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "845",
@@ -7602,7 +9290,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと攻撃力が50%アップし、スキルダメージが70%アップ",
           "effectIdx1": "10049",
           "effectIdx2": "11049",
-          "effectIdx3": "30006"
+          "effectIdx3": "30006",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "846",
@@ -7611,7 +9301,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラ消費量を30%ダウンし、スキルダメージが80%アップ",
           "effectIdx1": "859",
           "effectIdx2": "30007",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "847",
@@ -7620,7 +9312,9 @@ window.ability=[
           "abilityEffectDescription": "行動するたびに攻撃力と防御力が20%アップする（最大4回まで）",
           "effectIdx1": "993",
           "effectIdx2": "994",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "848",
@@ -7629,7 +9323,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが150%アップし、弱体を無効化する",
           "effectIdx1": "30014",
           "effectIdx2": "64",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "849",
@@ -7638,7 +9334,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと素早さが70%アップし、行動後にチャクラが12%回復する",
           "effectIdx1": "10069",
           "effectIdx2": "13069",
-          "effectIdx3": "909"
+          "effectIdx3": "909",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "850",
@@ -7647,7 +9345,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラ消費量が20%ダウンし、スキルダメージが150%アップ",
           "effectIdx1": "30014",
           "effectIdx2": "860",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "851",
@@ -7656,7 +9356,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが50%アップし、行動後HPとチャクラが10%回復する",
           "effectIdx1": "10049",
           "effectIdx2": "52",
-          "effectIdx3": "53"
+          "effectIdx3": "53",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "852",
@@ -7665,7 +9367,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラが100アップする",
           "effectIdx1": "20009",
           "effectIdx2": "992",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "853",
@@ -7674,7 +9378,9 @@ window.ability=[
           "abilityEffectDescription": "水遁タイプのスキルダメージが80%アップする",
           "effectIdx1": "30007",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "854",
@@ -7683,7 +9389,9 @@ window.ability=[
           "abilityEffectDescription": "班の木ノ葉隠れのキャラ1体につき、攻撃力と素早さが10%アップする",
           "effectIdx1": "657",
           "effectIdx2": "658",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "855",
@@ -7692,7 +9400,9 @@ window.ability=[
           "abilityEffectDescription": "行動後にHPが小回復、低確率でスキルを回避する",
           "effectIdx1": "152",
           "effectIdx2": "27",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "856",
@@ -7701,7 +9411,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが50%アップし、行動後にHPが10%回復する",
           "effectIdx1": "10049",
           "effectIdx2": "52",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "857",
@@ -7710,7 +9422,9 @@ window.ability=[
           "abilityEffectDescription": "HPが80%以上の時にスキルダメージが100%アップする",
           "effectIdx1": "31709",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "858",
@@ -7719,7 +9433,9 @@ window.ability=[
           "abilityEffectDescription": "8回行動するまで風遁タイプのスキルダメージが80%アップする",
           "effectIdx1": "30707",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "859",
@@ -7728,7 +9444,9 @@ window.ability=[
           "abilityEffectDescription": "HPが0以下で１度だけHP50%回復する",
           "effectIdx1": "312",
           "effectIdx2": "618",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "860",
@@ -7737,7 +9455,9 @@ window.ability=[
           "abilityEffectDescription": "自身の最大HPと攻撃力とスキルダメージが50%アップする",
           "effectIdx1": "10049",
           "effectIdx2": "11049",
-          "effectIdx3": "30004"
+          "effectIdx3": "30004",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "861",
@@ -7746,7 +9466,9 @@ window.ability=[
           "abilityEffectDescription": "HPが80%以上の時にチャクラ消費量が30%ダウンしスキルダメージが70%アップする",
           "effectIdx1": "683",
           "effectIdx2": "31706",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "862",
@@ -7755,7 +9477,9 @@ window.ability=[
           "abilityEffectDescription": "HP0以下になると一度だけHPが小回復＆攻撃・防御・素早さが50％アップ",
           "effectIdx1": "312",
           "effectIdx2": "313",
-          "effectIdx3": "998"
+          "effectIdx3": "998",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "863",
@@ -7764,7 +9488,9 @@ window.ability=[
           "abilityEffectDescription": "HPが80%以上の時にチャクラ消費量が30%ダウンしスキルダメージが70%アップする",
           "effectIdx1": "683",
           "effectIdx2": "31706",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "864",
@@ -7773,7 +9499,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃と防御が100％アップする",
           "effectIdx1": "11099",
           "effectIdx2": "12099",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "865",
@@ -7782,7 +9510,9 @@ window.ability=[
           "abilityEffectDescription": "風遁タイプのダメージが100％アップする",
           "effectIdx1": "928",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "866",
@@ -7791,7 +9521,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と防御力と素早さが40%アップする",
           "effectIdx1": "11039",
           "effectIdx2": "12039",
-          "effectIdx3": "13039"
+          "effectIdx3": "13039",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "867",
@@ -7800,7 +9532,9 @@ window.ability=[
           "abilityEffectDescription": "低確率でスキルを回避する",
           "effectIdx1": "27",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "868",
@@ -7809,7 +9543,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃・防御・素早さが50%アップ、さらにスキルダメージ100%アップ",
           "effectIdx1": "22005",
           "effectIdx2": "30009",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "869",
@@ -7818,7 +9554,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPを100%アップし、ダメージを受けた時にHPが15%回復する",
           "effectIdx1": "10099",
           "effectIdx2": "947",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "870",
@@ -7827,7 +9565,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが100%アップし、行動後HPとチャクラが15%回復する",
           "effectIdx1": "10099",
           "effectIdx2": "735",
-          "effectIdx3": "957"
+          "effectIdx3": "957",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "871",
@@ -7836,7 +9576,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラが150アップし、素早さが100%アップする。",
           "effectIdx1": "20014",
           "effectIdx2": "253",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "872",
@@ -7845,7 +9587,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力とスキルダメージが100%アップする",
           "effectIdx1": "11099",
           "effectIdx2": "30009",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "873",
@@ -7854,7 +9598,9 @@ window.ability=[
           "abilityEffectDescription": "HP80%以下でスキルダメージ50%アップする",
           "effectIdx1": "999",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "874",
@@ -7863,7 +9609,9 @@ window.ability=[
           "abilityEffectDescription": "班の\"暁\"のキャラ1体につき、攻撃力・防御力・素早さを20%アップする",
           "effectIdx1": "1000",
           "effectIdx2": "1001",
-          "effectIdx3": "1002"
+          "effectIdx3": "1002",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "875",
@@ -7872,7 +9620,9 @@ window.ability=[
           "abilityEffectDescription": "封印を無効化し、チャクラMAX時にスキルダメージ100%アップする",
           "effectIdx1": "69",
           "effectIdx2": "1003",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "876",
@@ -7881,7 +9631,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが80%アップする",
           "effectIdx1": "30007",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "877",
@@ -7890,7 +9642,9 @@ window.ability=[
           "abilityEffectDescription": "班の\"暁\"のキャラ1体につき、攻撃力が30%アップする",
           "effectIdx1": "1004",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "878",
@@ -7899,7 +9653,9 @@ window.ability=[
           "abilityEffectDescription": "行動後確率で素早さが100%アップする",
           "effectIdx1": "302",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "879",
@@ -7908,7 +9664,9 @@ window.ability=[
           "abilityEffectDescription": "行動後チャクラが10%回復する",
           "effectIdx1": "53",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "880",
@@ -7917,7 +9675,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力とスキルダメージが70%アップする",
           "effectIdx1": "11069",
           "effectIdx2": "30006",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "881",
@@ -7926,7 +9686,9 @@ window.ability=[
           "abilityEffectDescription": "封印を無効化し、チャクラMAX時にスキルダメージが70%アップする",
           "effectIdx1": "69",
           "effectIdx2": "1005",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "882",
@@ -7935,7 +9697,9 @@ window.ability=[
           "abilityEffectDescription": "行動後に確率でHPダウン、HP40%以下で雷遁、固有以外無効",
           "effectIdx1": "1009",
           "effectIdx2": "1010",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "883",
@@ -7944,7 +9708,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが100%アップし弱体と毒と猛毒を無効化する",
           "effectIdx1": "30009",
           "effectIdx2": "64",
-          "effectIdx3": "589"
+          "effectIdx3": "589",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "884",
@@ -7953,7 +9719,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と最大HPが100%アップし、行動後にHPが15%回復する",
           "effectIdx1": "10099",
           "effectIdx2": "11099",
-          "effectIdx3": "735"
+          "effectIdx3": "735",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "885",
@@ -7962,7 +9730,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力が30%アップし、ダメージを受けた時にHPが5%回復する",
           "effectIdx1": "11029",
           "effectIdx2": "727",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "886",
@@ -7971,7 +9741,9 @@ window.ability=[
           "abilityEffectDescription": "HPが90%以上の時にスキルダメージが80%アップし素早さが40%アップする",
           "effectIdx1": "31807",
           "effectIdx2": "1016",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "887",
@@ -7980,7 +9752,9 @@ window.ability=[
           "abilityEffectDescription": "素早さが20%アップし、ダメージを受けた時にチャクラが3%回復する",
           "effectIdx1": "13019",
           "effectIdx2": "973",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "888",
@@ -7989,7 +9763,9 @@ window.ability=[
           "abilityEffectDescription": "HPが90%以上の時にスキルダメージと攻撃力が70%アップする",
           "effectIdx1": "31806",
           "effectIdx2": "1017",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "889",
@@ -7998,7 +9774,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと素早さが30%アップし、麻痺を半減する",
           "effectIdx1": "10029",
           "effectIdx2": "13029",
-          "effectIdx3": "631"
+          "effectIdx3": "631",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "890",
@@ -8007,7 +9785,9 @@ window.ability=[
           "abilityEffectDescription": "7回行動するまで攻撃力とスキルダメージが70%アップする",
           "effectIdx1": "30606",
           "effectIdx2": "1012",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "891",
@@ -8016,7 +9796,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と素早さが30%アップし、弱体を半減する",
           "effectIdx1": "11029",
           "effectIdx2": "13029",
-          "effectIdx3": "745"
+          "effectIdx3": "745",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "892",
@@ -8025,7 +9807,9 @@ window.ability=[
           "abilityEffectDescription": "7回行動するまでスキルダメージが90%アップしチャクラ消費量が20%減少する",
           "effectIdx1": "30608",
           "effectIdx2": "1013",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "893",
@@ -8034,7 +9818,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力が50%アップし、ダメージを受けた時にHPが7%回復する",
           "effectIdx1": "11049",
           "effectIdx2": "945",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "894",
@@ -8043,7 +9829,9 @@ window.ability=[
           "abilityEffectDescription": "HPが50%以上の時にスキルダメージが120%アップし素早さが70%アップする",
           "effectIdx1": "31411",
           "effectIdx2": "1018",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "895",
@@ -8052,7 +9840,9 @@ window.ability=[
           "abilityEffectDescription": "素早さが40%アップし、ダメージを受けた時にチャクラが5%回復する",
           "effectIdx1": "13039",
           "effectIdx2": "766",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "896",
@@ -8061,7 +9851,9 @@ window.ability=[
           "abilityEffectDescription": "HPが50%以上の時にスキルダメージと攻撃力が100%アップする",
           "effectIdx1": "31409",
           "effectIdx2": "1019",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "897",
@@ -8070,7 +9862,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと素早さが50%アップし、麻痺を無効化する",
           "effectIdx1": "10049",
           "effectIdx2": "66",
-          "effectIdx3": "13049"
+          "effectIdx3": "13049",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "898",
@@ -8079,7 +9873,9 @@ window.ability=[
           "abilityEffectDescription": "10回行動するまで攻撃力とスキルダメージが100%アップする",
           "effectIdx1": "30909",
           "effectIdx2": "1014",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "899",
@@ -8088,7 +9884,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と素早さが50%アップし、弱体を無効化する",
           "effectIdx1": "64",
           "effectIdx2": "11049",
-          "effectIdx3": "13049"
+          "effectIdx3": "13049",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "900",
@@ -8097,7 +9895,9 @@ window.ability=[
           "abilityEffectDescription": "10回行動するまでスキルダメージが120%アップしチャクラ消費量が30%減少する",
           "effectIdx1": "30911",
           "effectIdx2": "1015",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "901",
@@ -8106,7 +9906,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが50％アップし、高確率でスキルを無効化する",
           "effectIdx1": "968",
           "effectIdx2": "680",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "902",
@@ -8115,7 +9917,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と時空間タイプのスキルダメージを100％アップする",
           "effectIdx1": "11099",
           "effectIdx2": "30009",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "903",
@@ -8124,7 +9928,9 @@ window.ability=[
           "abilityEffectDescription": "火遁スキルのダメージが100％アップ＆状態異常を無効化",
           "effectIdx1": "30009",
           "effectIdx2": "82",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "904",
@@ -8133,7 +9939,9 @@ window.ability=[
           "abilityEffectDescription": "行動後に高確率で次回行動時の素早さが120％アップする",
           "effectIdx1": "1055",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "905",
@@ -8142,7 +9950,9 @@ window.ability=[
           "abilityEffectDescription": "行動後に高確率で次回行動時の素早さが120％アップする",
           "effectIdx1": "1055",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "906",
@@ -8151,7 +9961,9 @@ window.ability=[
           "abilityEffectDescription": "時空間スキルのダメージが80％アップする",
           "effectIdx1": "30007",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "907",
@@ -8160,7 +9972,9 @@ window.ability=[
           "abilityEffectDescription": "弱体化無効＆行動後にHPが15％回復する",
           "effectIdx1": "64",
           "effectIdx2": "735",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "908",
@@ -8169,7 +9983,9 @@ window.ability=[
           "abilityEffectDescription": "武器と無系統スキルのダメージが100％アップ",
           "effectIdx1": "30009",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "909",
@@ -8178,7 +9994,9 @@ window.ability=[
           "abilityEffectDescription": "幻術無効＆写輪眼無効",
           "effectIdx1": "46",
           "effectIdx2": "79",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "910",
@@ -8187,7 +10005,9 @@ window.ability=[
           "abilityEffectDescription": "写輪眼スキルのダメージが120％アップするが、行動後に確率でHPが10％減少する。",
           "effectIdx1": "30011",
           "effectIdx2": "1040",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "911",
@@ -8196,7 +10016,9 @@ window.ability=[
           "abilityEffectDescription": "行動後に確率でHPとチャクラが全回復する",
           "effectIdx1": "1030",
           "effectIdx2": "1029",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "912",
@@ -8205,7 +10027,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力とスキルダメージが100%アップするが、防御力が50%ダウンする",
           "effectIdx1": "11099",
           "effectIdx2": "30009",
-          "effectIdx3": "252"
+          "effectIdx3": "252",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "913",
@@ -8214,7 +10038,9 @@ window.ability=[
           "abilityEffectDescription": "6回行動するまで全てのスキルダメージを半減する",
           "effectIdx1": "1028",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "914",
@@ -8223,7 +10049,9 @@ window.ability=[
           "abilityEffectDescription": "写輪眼タイプのスキルダメージが50％アップする",
           "effectIdx1": "30004",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "915",
@@ -8232,7 +10060,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPを50%アップし、HP60%以上で攻撃力とスキルダメージを80%アップする",
           "effectIdx1": "10049",
           "effectIdx2": "1032",
-          "effectIdx3": "31507"
+          "effectIdx3": "31507",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "916",
@@ -8241,7 +10071,9 @@ window.ability=[
           "abilityEffectDescription": "HP0以下になると1回だけHPが全回復しスキルダメージが50％アップする",
           "effectIdx1": "312",
           "effectIdx2": "874",
-          "effectIdx3": "1031"
+          "effectIdx3": "1031",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "917",
@@ -8250,7 +10082,9 @@ window.ability=[
           "abilityEffectDescription": "行動後にチャクラが15%回復し、麻痺と封印を無効化する。",
           "effectIdx1": "648",
           "effectIdx2": "511",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "918",
@@ -8259,7 +10093,9 @@ window.ability=[
           "abilityEffectDescription": "HP60%以下の時にスキルダメージを半減し、HP回復スキルの基礎回復量50%アップ",
           "effectIdx1": "1036",
           "effectIdx2": "1037",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "919",
@@ -8268,7 +10104,9 @@ window.ability=[
           "abilityEffectDescription": "10回行動するまでスキルダメージが80%アップする",
           "effectIdx1": "30907",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "920",
@@ -8277,7 +10115,9 @@ window.ability=[
           "abilityEffectDescription": "HP60%以上の時、攻撃力・素早さ・スキルダメージが50%アップする",
           "effectIdx1": "1038",
           "effectIdx2": "1039",
-          "effectIdx3": "31504"
+          "effectIdx3": "31504",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "921",
@@ -8286,7 +10126,9 @@ window.ability=[
           "abilityEffectDescription": "毒を無効化し行動後HPを20%回復する",
           "effectIdx1": "65",
           "effectIdx2": "628",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "922",
@@ -8295,7 +10137,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと素早さが40%アップする",
           "effectIdx1": "10039",
           "effectIdx2": "111",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "923",
@@ -8304,7 +10148,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージがアップする",
           "effectIdx1": "30004",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "924",
@@ -8313,7 +10159,9 @@ window.ability=[
           "abilityEffectDescription": "3回行動後に、攻撃力とスキルダメージが100%アップする",
           "effectIdx1": "1044",
           "effectIdx2": "1045",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "925",
@@ -8322,7 +10170,9 @@ window.ability=[
           "abilityEffectDescription": "HPが60%以下の時、全スキルダメージを軽減し、確率でスキルを無効化する",
           "effectIdx1": "1046",
           "effectIdx2": "1047",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "926",
@@ -8331,7 +10181,9 @@ window.ability=[
           "abilityEffectDescription": "ダメージを受けた時に、高確率で攻撃・防御・素早さが70%アップする",
           "effectIdx1": "1048",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "927",
@@ -8340,7 +10192,9 @@ window.ability=[
           "abilityEffectDescription": "HPが50%以上の時、攻撃力とスキルダメージが100%アップしチャクラ消費量を半減",
           "effectIdx1": "1058",
           "effectIdx2": "1049",
-          "effectIdx3": "1050"
+          "effectIdx3": "1050",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "928",
@@ -8349,7 +10203,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力が30％アップし、スキルダメージが80%アップする",
           "effectIdx1": "11029",
           "effectIdx2": "30007",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "929",
@@ -8358,7 +10214,9 @@ window.ability=[
           "abilityEffectDescription": "HPが50%以上の時、素早さとスキルダメージを70%アップする",
           "effectIdx1": "1051",
           "effectIdx2": "1052",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "930",
@@ -8367,7 +10225,9 @@ window.ability=[
           "abilityEffectDescription": "HPが90%以上の時、スキルダメージが70%アップする",
           "effectIdx1": "31806",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "931",
@@ -8376,7 +10236,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが50%アップする",
           "effectIdx1": "10049",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "932",
@@ -8385,7 +10247,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが確率で120%アップする",
           "effectIdx1": "1054",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "933",
@@ -8394,7 +10258,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと素早さが30%アップし、状態異常を半減する",
           "effectIdx1": "10029",
           "effectIdx2": "13029",
-          "effectIdx3": "792"
+          "effectIdx3": "792",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "934",
@@ -8403,7 +10269,9 @@ window.ability=[
           "abilityEffectDescription": "HPが50%以上の時、攻撃力とスキルダメージが100%アップし弱体を無効化する",
           "effectIdx1": "1058",
           "effectIdx2": "31409",
-          "effectIdx3": "821"
+          "effectIdx3": "821",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "935",
@@ -8412,7 +10280,9 @@ window.ability=[
           "abilityEffectDescription": "HPが0以下で2度までHPが全回復し、攻撃・防御・素早さが100%アップする",
           "effectIdx1": "876",
           "effectIdx2": "874",
-          "effectIdx3": "1057"
+          "effectIdx3": "1057",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "936",
@@ -8421,7 +10291,9 @@ window.ability=[
           "abilityEffectDescription": "3回行動後、攻撃力とスキルダメージが70%アップする",
           "effectIdx1": "1061",
           "effectIdx2": "1062",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "937",
@@ -8430,7 +10302,9 @@ window.ability=[
           "abilityEffectDescription": "HPが0以下になると1回だけHPが全回復しスキルダメージが70％アップする",
           "effectIdx1": "1063",
           "effectIdx2": "874",
-          "effectIdx3": "312"
+          "effectIdx3": "312",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "938",
@@ -8439,7 +10313,9 @@ window.ability=[
           "abilityEffectDescription": "10回行動するまで素早さとスキルダメージ100%アップ",
           "effectIdx1": "1064",
           "effectIdx2": "30909",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "939",
@@ -8448,7 +10324,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと攻撃力が50%アップ",
           "effectIdx1": "10049",
           "effectIdx2": "11049",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "940",
@@ -8457,7 +10335,9 @@ window.ability=[
           "abilityEffectDescription": "6回行動するまで風遁タイプのスキルダメージが80%アップする",
           "effectIdx1": "30507",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "941",
@@ -8466,7 +10346,9 @@ window.ability=[
           "abilityEffectDescription": "班の木ノ葉隠れの里所属のキャラ1体につき攻撃力と素早さが10%アップ（自身含む）",
           "effectIdx1": "657",
           "effectIdx2": "658",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "942",
@@ -8475,7 +10357,9 @@ window.ability=[
           "abilityEffectDescription": "行動毎に攻撃力と素早さが25%アップする(最大3回）",
           "effectIdx1": "896",
           "effectIdx2": "897",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "943",
@@ -8484,7 +10368,9 @@ window.ability=[
           "abilityEffectDescription": "6回行動するまでスキルダメージを100%アップする",
           "effectIdx1": "30509",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "944",
@@ -8493,7 +10379,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと素早さとスキルダメージを70%アップする",
           "effectIdx1": "10069",
           "effectIdx2": "13069",
-          "effectIdx3": "30006"
+          "effectIdx3": "30006",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "945",
@@ -8502,7 +10390,9 @@ window.ability=[
           "abilityEffectDescription": "10回行動するまで高確率でスキルを回避する",
           "effectIdx1": "1083",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "946",
@@ -8511,7 +10401,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと武器スキルダメージを50%アップする",
           "effectIdx1": "10049",
           "effectIdx2": "30004",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "947",
@@ -8520,7 +10412,9 @@ window.ability=[
           "abilityEffectDescription": "6回行動するまでスキル発動速度を1段階アップする",
           "effectIdx1": "1084",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "948",
@@ -8529,7 +10423,9 @@ window.ability=[
           "abilityEffectDescription": "HP回復スキルの基礎回復量が60％アップし、行動するたびにチャクラが20％回復",
           "effectIdx1": "590",
           "effectIdx2": "583",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "949",
@@ -8538,7 +10434,9 @@ window.ability=[
           "abilityEffectDescription": "状態異常を無効化する",
           "effectIdx1": "82",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "950",
@@ -8547,7 +10445,9 @@ window.ability=[
           "abilityEffectDescription": "体術タイプのスキルダメージが80%アップする",
           "effectIdx1": "30007",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "951",
@@ -8556,7 +10456,9 @@ window.ability=[
           "abilityEffectDescription": "HPが50%以上の時に攻撃力と防御力と素早さが100%アップする",
           "effectIdx1": "1086",
           "effectIdx2": "1087",
-          "effectIdx3": "1088"
+          "effectIdx3": "1088",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "952",
@@ -8565,7 +10467,9 @@ window.ability=[
           "abilityEffectDescription": "HPが80%以上の時にスキル発動速度が1段階アップする",
           "effectIdx1": "1089",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "953",
@@ -8574,7 +10478,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと体術タイプのスキルダメージが80%アップする",
           "effectIdx1": "10079",
           "effectIdx2": "30007",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "954",
@@ -8583,7 +10489,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃・防御・素早さが80%アップする",
           "effectIdx1": "11079",
           "effectIdx2": "12079",
-          "effectIdx3": "13079"
+          "effectIdx3": "13079",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "955",
@@ -8592,7 +10500,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが100%アップする",
           "effectIdx1": "30009",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "956",
@@ -8601,7 +10511,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと攻撃力が80%アップする",
           "effectIdx1": "10079",
           "effectIdx2": "11079",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "957",
@@ -8610,7 +10522,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが70%アップし、弱体を無効化する。",
           "effectIdx1": "30006",
           "effectIdx2": "64",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "958",
@@ -8619,7 +10533,9 @@ window.ability=[
           "abilityEffectDescription": "素早さが40%アップし、確率でスキルを回避する",
           "effectIdx1": "13039",
           "effectIdx2": "27",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "959",
@@ -8628,7 +10544,9 @@ window.ability=[
           "abilityEffectDescription": "麻痺を無効化し、HPが50%以上の時にHP回復スキルの基礎回復量が100%アップする",
           "effectIdx1": "66",
           "effectIdx2": "1091",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "960",
@@ -8637,7 +10555,9 @@ window.ability=[
           "abilityEffectDescription": "行動後に高確率で、攻撃・防御・素早さが100%アップする",
           "effectIdx1": "1092",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "961",
@@ -8646,7 +10566,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが80%アップし、行動後にHPが10%回復する",
           "effectIdx1": "10079",
           "effectIdx2": "52",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "962",
@@ -8655,7 +10577,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力とスキルダメージ110％アップ",
           "effectIdx1": "1093",
           "effectIdx2": "30010",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "963",
@@ -8664,7 +10588,9 @@ window.ability=[
           "abilityEffectDescription": "素早さ120%アップ",
           "effectIdx1": "1094",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "964",
@@ -8673,7 +10599,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力とスキルダメージ80％アップ",
           "effectIdx1": "11079",
           "effectIdx2": "30007",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "965",
@@ -8682,7 +10610,9 @@ window.ability=[
           "abilityEffectDescription": "防御力を100％アップし、武器と体術タイプのスキルを無効化する",
           "effectIdx1": "12099",
           "effectIdx2": "44",
-          "effectIdx3": "38"
+          "effectIdx3": "38",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "966",
@@ -8691,7 +10621,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃を受けると高確率でHP10%回復",
           "effectIdx1": "1095",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "967",
@@ -8700,7 +10632,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと素早さ50%アップする",
           "effectIdx1": "10049",
           "effectIdx2": "13049",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "968",
@@ -8709,7 +10643,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが80%アップし、行動後HPが10%回復する",
           "effectIdx1": "10079",
           "effectIdx2": "52",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "969",
@@ -8718,7 +10654,9 @@ window.ability=[
           "abilityEffectDescription": "行動後高確率で攻撃力200%アップ",
           "effectIdx1": "1096",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "970",
@@ -8727,7 +10665,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと攻撃力とスキルダメージが90%アップ",
           "effectIdx1": "10089",
           "effectIdx2": "11089",
-          "effectIdx3": "30008"
+          "effectIdx3": "30008",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "971",
@@ -8736,7 +10676,9 @@ window.ability=[
           "abilityEffectDescription": "HP30%から1%以内になると一度だけHPが全回復し攻撃・防御・素早さ100%アップ",
           "effectIdx1": "265",
           "effectIdx2": "1098",
-          "effectIdx3": "1097"
+          "effectIdx3": "1097",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "972",
@@ -8745,7 +10687,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と防御力と素早さが50%アップする",
           "effectIdx1": "11049",
           "effectIdx2": "12049",
-          "effectIdx3": "13049"
+          "effectIdx3": "13049",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "973",
@@ -8754,7 +10698,9 @@ window.ability=[
           "abilityEffectDescription": "HPが50%以上の時、攻撃力とスキルダメージが70%アップし弱体を無効化する",
           "effectIdx1": "449",
           "effectIdx2": "31406",
-          "effectIdx3": "821"
+          "effectIdx3": "821",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "974",
@@ -8763,7 +10709,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量が100アップし、HP80%以上の時スキル発動速度1段階アップする",
           "effectIdx1": "20009",
           "effectIdx2": "1089",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "975",
@@ -8772,7 +10720,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と尾獣スキルダメージが80%アップする",
           "effectIdx1": "11079",
           "effectIdx2": "30007",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "976",
@@ -8781,7 +10731,9 @@ window.ability=[
           "abilityEffectDescription": "尾獣タイプと写輪眼タイプのダメージを軽減する",
           "effectIdx1": "1103",
           "effectIdx2": "339",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "977",
@@ -8790,7 +10742,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと防御力を50%アップする",
           "effectIdx1": "10049",
           "effectIdx2": "12049",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "978",
@@ -8799,7 +10753,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと白眼スキルダメージが80%アップする",
           "effectIdx1": "10079",
           "effectIdx2": "30007",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "979",
@@ -8808,7 +10764,9 @@ window.ability=[
           "abilityEffectDescription": "班の木ノ葉所属の人数に応じて攻撃・防御・素早さが20%アップする",
           "effectIdx1": "1104",
           "effectIdx2": "1105",
-          "effectIdx3": "1106"
+          "effectIdx3": "1106",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "980",
@@ -8817,7 +10775,9 @@ window.ability=[
           "abilityEffectDescription": "防御力が100％アップし、全スキルダメージを半減",
           "effectIdx1": "12099",
           "effectIdx2": "20501",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "981",
@@ -8826,7 +10786,9 @@ window.ability=[
           "abilityEffectDescription": "中確率でスキルを回避する",
           "effectIdx1": "679",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "982",
@@ -8835,7 +10797,9 @@ window.ability=[
           "abilityEffectDescription": "確率でスキルを回避する",
           "effectIdx1": "730",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "983",
@@ -8844,7 +10808,9 @@ window.ability=[
           "abilityEffectDescription": "スキル速度が1段階アップする",
           "effectIdx1": "723",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "984",
@@ -8853,7 +10819,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力がアップし、確率でスキルを回避する",
           "effectIdx1": "11019",
           "effectIdx2": "730",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "985",
@@ -8862,7 +10830,9 @@ window.ability=[
           "abilityEffectDescription": "写輪眼タイプのスキルダメージを100%アップし、確率でスキルを回避する",
           "effectIdx1": "774",
           "effectIdx2": "27",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "986",
@@ -8871,7 +10841,9 @@ window.ability=[
           "abilityEffectDescription": "班の木ノ葉隠れの里所属1体につき、攻撃力・防御力・素早さが25%アップ（自身含む）",
           "effectIdx1": "1129",
           "effectIdx2": "1130",
-          "effectIdx3": "1131"
+          "effectIdx3": "1131",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "987",
@@ -8880,7 +10852,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と体術タイプのスキルダメージを80%アップする",
           "effectIdx1": "30007",
           "effectIdx2": "11079",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "988",
@@ -8889,7 +10863,9 @@ window.ability=[
           "abilityEffectDescription": "HP80%以下で確率でスキルを回避する",
           "effectIdx1": "1132",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "989",
@@ -8898,7 +10874,9 @@ window.ability=[
           "abilityEffectDescription": "HPが80%以上で攻撃・防御・素早さが100%アップする",
           "effectIdx1": "1133",
           "effectIdx2": "1134",
-          "effectIdx3": "1135"
+          "effectIdx3": "1135",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "990",
@@ -8907,7 +10885,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と白眼タイプのスキルダメージを80%アップする",
           "effectIdx1": "30007",
           "effectIdx2": "11079",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "991",
@@ -8916,7 +10896,9 @@ window.ability=[
           "abilityEffectDescription": "班の木ノ葉隠れの里所属1体につき、攻撃力・防御力・素早さが10%アップ（自身含む）",
           "effectIdx1": "657",
           "effectIdx2": "752",
-          "effectIdx3": "658"
+          "effectIdx3": "658",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "992",
@@ -8925,7 +10907,9 @@ window.ability=[
           "abilityEffectDescription": "白眼タイプのスキルダメージを50%アップする",
           "effectIdx1": "30004",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "993",
@@ -8934,7 +10918,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラが100アップし、攻撃力とスキルダメージ120%アップする",
           "effectIdx1": "813",
           "effectIdx2": "736",
-          "effectIdx3": "30011"
+          "effectIdx3": "30011",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "994",
@@ -8943,7 +10929,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが100％アップし、HPが0以下で2度までHPが全回復する",
           "effectIdx1": "30009",
           "effectIdx2": "1057",
-          "effectIdx3": "874"
+          "effectIdx3": "874",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "995",
@@ -8952,7 +10940,9 @@ window.ability=[
           "abilityEffectDescription": "火遁スキルを無効化＆火遁スキルのダメージを80％アップ",
           "effectIdx1": "36",
           "effectIdx2": "1137",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "996",
@@ -8961,7 +10951,9 @@ window.ability=[
           "abilityEffectDescription": "雷遁ダメージを100%アップし、確率でスキル回避して無効化する",
           "effectIdx1": "27",
           "effectIdx2": "1138",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "997",
@@ -8970,7 +10962,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と体術ダメージが90％アップする",
           "effectIdx1": "11089",
           "effectIdx2": "1139",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "998",
@@ -8979,7 +10973,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラ消費量が30％減少する",
           "effectIdx1": "859",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "999",
@@ -8988,7 +10984,9 @@ window.ability=[
           "abilityEffectDescription": "回避率が上昇し中確率でスキルを回避して無効化する",
           "effectIdx1": "679",
           "effectIdx2": "24",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1000",
@@ -8997,7 +10995,9 @@ window.ability=[
           "abilityEffectDescription": "雷遁スキルを無効化＆雷遁スキルのダメージを100％アップ",
           "effectIdx1": "86",
           "effectIdx2": "1138",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1001",
@@ -9006,7 +11006,9 @@ window.ability=[
           "abilityEffectDescription": "7回行動するまで攻撃力と素早さを30%アップしチャクラ消費量が40%ダウン",
           "effectIdx1": "1143",
           "effectIdx2": "1144",
-          "effectIdx3": "1146"
+          "effectIdx3": "1146",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1002",
@@ -9015,7 +11017,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラMAX時にスキルダメージを70％アップする",
           "effectIdx1": "1005",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1003",
@@ -9024,7 +11028,9 @@ window.ability=[
           "abilityEffectDescription": "7回行動するまで攻撃力を60%アップしチャクラ消費量が40%ダウン",
           "effectIdx1": "1145",
           "effectIdx2": "1146",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1004",
@@ -9033,7 +11039,9 @@ window.ability=[
           "abilityEffectDescription": "状態異常を無効化し、スキルダメージを50％アップする",
           "effectIdx1": "82",
           "effectIdx2": "30004",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1005",
@@ -9042,7 +11050,9 @@ window.ability=[
           "abilityEffectDescription": "HPが80%以上の時、チャクラ消費量が30%ダウンする",
           "effectIdx1": "1147",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1006",
@@ -9051,7 +11061,9 @@ window.ability=[
           "abilityEffectDescription": "10回行動するまで状態異常を無効化し行動後にHPが全回復する",
           "effectIdx1": "1148",
           "effectIdx2": "457",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1007",
@@ -9060,7 +11072,9 @@ window.ability=[
           "abilityEffectDescription": "班の木ノ葉所属の人数に応じて攻撃・素早さが15%アップする",
           "effectIdx1": "1157",
           "effectIdx2": "1158",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1008",
@@ -9069,7 +11083,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと白眼スキルダメージ80%アップ",
           "effectIdx1": "10079",
           "effectIdx2": "30007",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1009",
@@ -9078,7 +11094,9 @@ window.ability=[
           "abilityEffectDescription": "体術タイプのスキルダメージが80%アップ",
           "effectIdx1": "30007",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1010",
@@ -9087,7 +11105,9 @@ window.ability=[
           "abilityEffectDescription": "班の雲隠れのキャラ1体につき攻撃力と素早さが20%アップ（自身含む）",
           "effectIdx1": "759",
           "effectIdx2": "1159",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1011",
@@ -9096,7 +11116,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量が80アップ、体術タイプスキルダメージ80%アップ",
           "effectIdx1": "20007",
           "effectIdx2": "30007",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1012",
@@ -9105,7 +11127,9 @@ window.ability=[
           "abilityEffectDescription": "班の雲隠れのキャラ1体につき攻撃力が30%アップ（自身含む）",
           "effectIdx1": "1160",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1013",
@@ -9114,7 +11138,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが100%アップし、最大チャクラ量が100アップする",
           "effectIdx1": "10099",
           "effectIdx2": "20009",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1014",
@@ -9123,7 +11149,9 @@ window.ability=[
           "abilityEffectDescription": "HPが50％以上の時、攻撃力と水遁スキルダメージが120%アップする",
           "effectIdx1": "1161",
           "effectIdx2": "1162",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1015",
@@ -9132,7 +11160,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量が150アップし、HP50%以上の時スキル発動速度1段階アップする",
           "effectIdx1": "20014",
           "effectIdx2": "1163",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1016",
@@ -9141,7 +11171,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と尾獣スキルダメージが120%アップする",
           "effectIdx1": "736",
           "effectIdx2": "30011",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1017",
@@ -9150,7 +11182,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃・素早さを40%アップしチャクラ消費量が40%ダウン",
           "effectIdx1": "11039",
           "effectIdx2": "13039",
-          "effectIdx3": "1164"
+          "effectIdx3": "1164",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1018",
@@ -9159,7 +11193,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラ50%以上の時にスキルダメージを90％アップする",
           "effectIdx1": "33408",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1019",
@@ -9168,7 +11204,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力を70%アップしチャクラ消費量が40%ダウン",
           "effectIdx1": "11069",
           "effectIdx2": "1164",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1020",
@@ -9177,7 +11215,9 @@ window.ability=[
           "abilityEffectDescription": "状態異常を無効化し、スキルダメージを70％アップする",
           "effectIdx1": "82",
           "effectIdx2": "30006",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1021",
@@ -9186,7 +11226,9 @@ window.ability=[
           "abilityEffectDescription": "HPが50%以上の時、チャクラ消費量が30%ダウンする",
           "effectIdx1": "954",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1022",
@@ -9195,7 +11237,9 @@ window.ability=[
           "abilityEffectDescription": "15回行動するまで状態異常を無効化し行動後にHPが全回復する",
           "effectIdx1": "1165",
           "effectIdx2": "1166",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1023",
@@ -9204,7 +11248,9 @@ window.ability=[
           "abilityEffectDescription": "通常攻撃の会心率が50%アップし、会心力が2000%アップする",
           "effectIdx1": "798",
           "effectIdx2": "1123",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1024",
@@ -9213,7 +11259,9 @@ window.ability=[
           "abilityEffectDescription": "通常攻撃が回避されない&amp;バトル開始時チャクラ30%回復する",
           "effectIdx1": "30",
           "effectIdx2": "1114",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1025",
@@ -9222,7 +11270,9 @@ window.ability=[
           "abilityEffectDescription": "HPが200％アップし、ダメージを受けた時にHPが20％回復",
           "effectIdx1": "10100",
           "effectIdx2": "1167",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1026",
@@ -9231,7 +11281,9 @@ window.ability=[
           "abilityEffectDescription": "HPが50%以上の時に、スキルダメージを300%アップしチャクラ消費量が30％減少",
           "effectIdx1": "31420",
           "effectIdx2": "1168",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1027",
@@ -9240,7 +11292,9 @@ window.ability=[
           "abilityEffectDescription": "ダメージを受けた時にHPが小回復",
           "effectIdx1": "831",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1028",
@@ -9249,7 +11303,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが50%アップし、最大チャクラ量が50アップ",
           "effectIdx1": "10049",
           "effectIdx2": "20004",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1029",
@@ -9258,7 +11314,9 @@ window.ability=[
           "abilityEffectDescription": "10回行動するまで攻撃力と素早さ90%アップ",
           "effectIdx1": "1170",
           "effectIdx2": "1171",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1030",
@@ -9267,7 +11325,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが100%アップし、最大チャクラ量が100アップ",
           "effectIdx1": "10099",
           "effectIdx2": "20009",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1031",
@@ -9276,7 +11336,9 @@ window.ability=[
           "abilityEffectDescription": "20回行動するまで攻撃力と素早さ150%アップ",
           "effectIdx1": "1172",
           "effectIdx2": "1173",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1032",
@@ -9285,7 +11347,9 @@ window.ability=[
           "abilityEffectDescription": "10回行動するまで全スキルダメージを半減する",
           "effectIdx1": "1174",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1033",
@@ -9294,7 +11358,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと攻撃力が50%アップする",
           "effectIdx1": "10049",
           "effectIdx2": "11049",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1034",
@@ -9303,7 +11369,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と風遁スキルダメージが80%アップする",
           "effectIdx1": "11079",
           "effectIdx2": "30007",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1035",
@@ -9312,7 +11380,9 @@ window.ability=[
           "abilityEffectDescription": "HPが80%以上で攻撃・防御・素早さが60%アップする",
           "effectIdx1": "1175",
           "effectIdx2": "1176",
-          "effectIdx3": "1177"
+          "effectIdx3": "1177",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1036",
@@ -9321,7 +11391,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと素早さが40%アップする",
           "effectIdx1": "10039",
           "effectIdx2": "13039",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1037",
@@ -9330,7 +11402,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と火遁スキルダメージが60%アップする",
           "effectIdx1": "11059",
           "effectIdx2": "30005",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1038",
@@ -9339,7 +11413,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力が100%アップし、6回行動するまで素早さが500%アップする",
           "effectIdx1": "11099",
           "effectIdx2": "1184",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1039",
@@ -9348,7 +11424,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量が90アップし、スキルダメージが100%アップする。",
           "effectIdx1": "20008",
           "effectIdx2": "30009",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1040",
@@ -9357,7 +11435,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが70%アップし、最大チャクラ量が50アップする",
           "effectIdx1": "10069",
           "effectIdx2": "20004",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1041",
@@ -9366,7 +11446,9 @@ window.ability=[
           "abilityEffectDescription": "味方の木ノ葉隠れの里所属のキャラに応じて攻撃力と素早さが25%アップする。（自身含む）",
           "effectIdx1": "1129",
           "effectIdx2": "1131",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1042",
@@ -9375,7 +11457,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージと攻撃力が60%アップする",
           "effectIdx1": "30005",
           "effectIdx2": "11059",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1043",
@@ -9384,7 +11468,9 @@ window.ability=[
           "abilityEffectDescription": "10回行動するまで火・水・風・雷・土遁のスキルダメージを無効化する",
           "effectIdx1": "1185",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1044",
@@ -9393,7 +11479,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが100%アップし、最大チャクラ量が50アップする",
           "effectIdx1": "10099",
           "effectIdx2": "20004",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1045",
@@ -9402,7 +11490,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが100%アップし、確率でスキルを回避する",
           "effectIdx1": "30009",
           "effectIdx2": "27",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1046",
@@ -9411,7 +11501,9 @@ window.ability=[
           "abilityEffectDescription": "行動後低確率でチャクラが完全回復する",
           "effectIdx1": "1156",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1047",
@@ -9420,7 +11512,9 @@ window.ability=[
           "abilityEffectDescription": "3回行動するまで自身の体術ダメージと素早さが150%アップする",
           "effectIdx1": "1186",
           "effectIdx2": "1187",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1048",
@@ -9429,7 +11523,9 @@ window.ability=[
           "abilityEffectDescription": "行動後確率でチャクラが完全回復する",
           "effectIdx1": "1029",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1049",
@@ -9438,7 +11534,9 @@ window.ability=[
           "abilityEffectDescription": "10回行動するまで自身の体術ダメージと素早さが200%アップする",
           "effectIdx1": "1188",
           "effectIdx2": "1189",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1050",
@@ -9447,7 +11545,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と回避率が70％アップする。",
           "effectIdx1": "11069",
           "effectIdx2": "1190",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1051",
@@ -9456,7 +11556,9 @@ window.ability=[
           "abilityEffectDescription": "体術スキルのダメージを120％アップする。",
           "effectIdx1": "30011",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1052",
@@ -9465,7 +11567,9 @@ window.ability=[
           "abilityEffectDescription": "HPが80%以上の時攻撃力とスキルダメージが100%アップする",
           "effectIdx1": "1192",
           "effectIdx2": "31709",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1053",
@@ -9474,7 +11578,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと素早さが60%アップする",
           "effectIdx1": "10059",
           "effectIdx2": "13059",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1054",
@@ -9483,7 +11589,9 @@ window.ability=[
           "abilityEffectDescription": "HPが80%以上の時スキル発動速度が1段階アップする",
           "effectIdx1": "1089",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1055",
@@ -9492,7 +11600,9 @@ window.ability=[
           "abilityEffectDescription": "素早さが60%アップし、HP回復スキルの基礎回復量が30%アップする",
           "effectIdx1": "13059",
           "effectIdx2": "306",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1056",
@@ -9501,7 +11611,9 @@ window.ability=[
           "abilityEffectDescription": "HPが80%以上の時素早さとスキルダメージが100%アップする",
           "effectIdx1": "1193",
           "effectIdx2": "31709",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1057",
@@ -9510,7 +11622,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと攻撃力が60%アップする",
           "effectIdx1": "10059",
           "effectIdx2": "11059",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1058",
@@ -9519,7 +11633,9 @@ window.ability=[
           "abilityEffectDescription": "20回行動するまでスキルダメージを250％アップし状態異常を無効",
           "effectIdx1": "1194",
           "effectIdx2": "1195",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1059",
@@ -9528,7 +11644,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラ消費量が半減し攻撃力が100％アップする",
           "effectIdx1": "895",
           "effectIdx2": "11099",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1060",
@@ -9537,7 +11655,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力が100％アップし、ダメージを受けた時にHPが15％回復する",
           "effectIdx1": "11099",
           "effectIdx2": "947",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1061",
@@ -9546,7 +11666,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージ120%アップしチャクラ消費量が半減する",
           "effectIdx1": "30011",
           "effectIdx2": "895",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1062",
@@ -9555,7 +11677,9 @@ window.ability=[
           "abilityEffectDescription": "班の木ノ葉隠れの里所属1体につき、攻撃・防御・素早さが25%アップ（自身含む）",
           "effectIdx1": "1129",
           "effectIdx2": "1130",
-          "effectIdx3": "1131"
+          "effectIdx3": "1131",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1063",
@@ -9564,7 +11688,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージ150%アップしチャクラ消費量が40%ダウン",
           "effectIdx1": "30014",
           "effectIdx2": "1164",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1064",
@@ -9573,7 +11699,9 @@ window.ability=[
           "abilityEffectDescription": "自身のスキルダメージが60%アップ、自身のHPが50%以上だとさらに100%アップする",
           "effectIdx1": "30005",
           "effectIdx2": "31409",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1065",
@@ -9582,7 +11710,9 @@ window.ability=[
           "abilityEffectDescription": "HPが0以下で1度だけHPが全回復する",
           "effectIdx1": "312",
           "effectIdx2": "874",
-          "effectIdx3": "265"
+          "effectIdx3": "265",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1066",
@@ -9591,7 +11721,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPとスキルダメージが70%アップし、行動後HPが10%回復する",
           "effectIdx1": "10069",
           "effectIdx2": "30006",
-          "effectIdx3": "52"
+          "effectIdx3": "52",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1067",
@@ -9600,7 +11732,9 @@ window.ability=[
           "abilityEffectDescription": "味方の無所属の人数に応じて攻撃・防御・素早さが30%アップ",
           "effectIdx1": "1198",
           "effectIdx2": "1199",
-          "effectIdx3": "1200"
+          "effectIdx3": "1200",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1068",
@@ -9609,7 +11743,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と素早さが80%アップする",
           "effectIdx1": "11079",
           "effectIdx2": "13079",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1069",
@@ -9618,7 +11754,9 @@ window.ability=[
           "abilityEffectDescription": "HPが80%以上の時、スキルダメージが80%アップする",
           "effectIdx1": "31707",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1070",
@@ -9627,7 +11765,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと素早さが100%アップし、チャクラ消費量が半減する",
           "effectIdx1": "684",
           "effectIdx2": "13099",
-          "effectIdx3": "895"
+          "effectIdx3": "895",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1071",
@@ -9636,7 +11776,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージと防御力が150%アップし、写輪眼・武器・幻術タイプのスキルダメージを無効",
           "effectIdx1": "794",
           "effectIdx2": "1201",
-          "effectIdx3": "1491"
+          "effectIdx3": "1491",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1072",
@@ -9645,7 +11787,9 @@ window.ability=[
           "abilityEffectDescription": "3回行動後、攻撃力とスキルダメージが150%アップする",
           "effectIdx1": "1202",
           "effectIdx2": "1203",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1073",
@@ -9654,7 +11798,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが150％アップし、HPが0以下になると1回だけHPが全回復する",
           "effectIdx1": "30014",
           "effectIdx2": "312",
-          "effectIdx3": "874"
+          "effectIdx3": "874",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1074",
@@ -9663,7 +11809,9 @@ window.ability=[
           "abilityEffectDescription": "素早さとスキルダメージが50%アップする",
           "effectIdx1": "13049",
           "effectIdx2": "30004",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1075",
@@ -9672,7 +11820,9 @@ window.ability=[
           "abilityEffectDescription": "5回行動するまで全てのスキルダメージが半減する",
           "effectIdx1": "1204",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1076",
@@ -9681,7 +11831,9 @@ window.ability=[
           "abilityEffectDescription": "素早さとスキルダメージが100%アップする",
           "effectIdx1": "13099",
           "effectIdx2": "30009",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1077",
@@ -9690,7 +11842,9 @@ window.ability=[
           "abilityEffectDescription": "10回行動するまで全てのスキルダメージが無効化する",
           "effectIdx1": "1205",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1078",
@@ -9699,7 +11853,9 @@ window.ability=[
           "abilityEffectDescription": "高確率でスキルを回避し、攻撃・防御・素早さが100％アップ",
           "effectIdx1": "22010",
           "effectIdx2": "679",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1079",
@@ -9708,7 +11864,9 @@ window.ability=[
           "abilityEffectDescription": "HPが50%以上の時素早さとスキルダメージが100%アップする",
           "effectIdx1": "1058",
           "effectIdx2": "31409",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1080",
@@ -9717,7 +11875,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと素早さが70%アップする",
           "effectIdx1": "10069",
           "effectIdx2": "13069",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1081",
@@ -9726,7 +11886,9 @@ window.ability=[
           "abilityEffectDescription": "HPが50%以上の時スキル発動速度が1段階アップする",
           "effectIdx1": "1163",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1082",
@@ -9735,7 +11897,9 @@ window.ability=[
           "abilityEffectDescription": "素早さが70%アップし、HP回復スキルの基礎回復量が40%アップする",
           "effectIdx1": "13069",
           "effectIdx2": "809",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1083",
@@ -9744,7 +11908,9 @@ window.ability=[
           "abilityEffectDescription": "HPが50%以上の時素早さとスキルダメージが100%アップする",
           "effectIdx1": "1058",
           "effectIdx2": "31409",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1084",
@@ -9753,7 +11919,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと攻撃力が70%アップする",
           "effectIdx1": "10069",
           "effectIdx2": "11069",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1085",
@@ -9762,7 +11930,9 @@ window.ability=[
           "abilityEffectDescription": "HPが60%以上の時、幻術スキルダメージが50%アップする",
           "effectIdx1": "1207",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1086",
@@ -9771,7 +11941,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと素早さが50%アップし、状態異常を半減する",
           "effectIdx1": "10049",
           "effectIdx2": "112",
-          "effectIdx3": "792"
+          "effectIdx3": "792",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1087",
@@ -9780,7 +11952,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと素早さとスキルダメージを50%アップする。",
           "effectIdx1": "10049",
           "effectIdx2": "112",
-          "effectIdx3": "682"
+          "effectIdx3": "682",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1088",
@@ -9789,7 +11963,9 @@ window.ability=[
           "abilityEffectDescription": "HPが50%以上の時、スキル発動速度が1段階アップとチャクラ消費量が半減する",
           "effectIdx1": "1163",
           "effectIdx2": "1050",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1089",
@@ -9798,7 +11974,9 @@ window.ability=[
           "abilityEffectDescription": "HPが50%以上の時、攻撃・素早さ・スキルダメージを80%アップする",
           "effectIdx1": "1208",
           "effectIdx2": "1209",
-          "effectIdx3": "31407"
+          "effectIdx3": "31407",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1090",
@@ -9807,7 +11985,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量が100アップする",
           "effectIdx1": "813",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1091",
@@ -9816,7 +11996,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと素早さが50%アップする",
           "effectIdx1": "680",
           "effectIdx2": "112",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1092",
@@ -9825,7 +12007,9 @@ window.ability=[
           "abilityEffectDescription": "HPが80%以上のとき、スキル発動速度を1段階アップする",
           "effectIdx1": "1089",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1093",
@@ -9834,7 +12018,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力が300%アップし、10回行動するまで素早さが500%アップする",
           "effectIdx1": "1279",
           "effectIdx2": "1211",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1094",
@@ -9843,7 +12029,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量が150アップ、スキルダメージが200%アップ、行動後に低確率でチャクラ30%回復",
           "effectIdx1": "20014",
           "effectIdx2": "30019",
-          "effectIdx3": "1269"
+          "effectIdx3": "1269",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1095",
@@ -9852,7 +12040,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが150%アップし、最大チャクラ量が100アップする",
           "effectIdx1": "1212",
           "effectIdx2": "20009",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1096",
@@ -9861,7 +12051,9 @@ window.ability=[
           "abilityEffectDescription": "味方の木ノ葉隠れの里所属のキャラに応じて攻撃力と素早さが35%アップする。（自身含む）",
           "effectIdx1": "1213",
           "effectIdx2": "1215",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1097",
@@ -9870,7 +12062,9 @@ window.ability=[
           "abilityEffectDescription": "班の\"暁\"のキャラ1体につき、攻撃力・防御力・素早さを30%アップする",
           "effectIdx1": "1004",
           "effectIdx2": "1217",
-          "effectIdx3": "1218"
+          "effectIdx3": "1218",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1098",
@@ -9879,7 +12073,9 @@ window.ability=[
           "abilityEffectDescription": "封印を無効化し、チャクラMAX時にスキルダメージを200%アップする",
           "effectIdx1": "69",
           "effectIdx2": "1219",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1099",
@@ -9888,7 +12084,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPを100%アップし、HP50%以上で攻撃力とスキルダメージを120%アップする",
           "effectIdx1": "684",
           "effectIdx2": "1161",
-          "effectIdx3": "31411"
+          "effectIdx3": "31411",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1100",
@@ -9897,7 +12095,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが100％アップし、HP0以下になると1回だけHPが全回復する",
           "effectIdx1": "774",
           "effectIdx2": "312",
-          "effectIdx3": "874"
+          "effectIdx3": "874",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1101",
@@ -9906,7 +12106,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPを50%アップし、HP80%以上でスキル発動速度を1段階アップする",
           "effectIdx1": "10049",
           "effectIdx2": "1089",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1102",
@@ -9915,7 +12117,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃・防御力・素早さを80%アップする",
           "effectIdx1": "11079",
           "effectIdx2": "12079",
-          "effectIdx3": "13079"
+          "effectIdx3": "13079",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1103",
@@ -9924,7 +12128,9 @@ window.ability=[
           "abilityEffectDescription": "ダメージを受けた時、HPを10%回復する",
           "effectIdx1": "191",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1104",
@@ -9933,7 +12139,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと防御力を60%アップする",
           "effectIdx1": "10059",
           "effectIdx2": "12059",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1105",
@@ -9942,7 +12150,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが150%アップ、スキルダメージが120%アップし、行動後HPが10%回復する",
           "effectIdx1": "1212",
           "effectIdx2": "30011",
-          "effectIdx3": "52"
+          "effectIdx3": "52",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1106",
@@ -9951,7 +12161,9 @@ window.ability=[
           "abilityEffectDescription": "味方の無所属の人数に応じて攻撃・防御・素早さが50%アップ",
           "effectIdx1": "1222",
           "effectIdx2": "1223",
-          "effectIdx3": "1224"
+          "effectIdx3": "1224",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1107",
@@ -9960,7 +12172,9 @@ window.ability=[
           "abilityEffectDescription": "味方の木ノ葉所属の人数に応じて攻撃・防御・素早さが30%アップ",
           "effectIdx1": "953",
           "effectIdx2": "1225",
-          "effectIdx3": "1226"
+          "effectIdx3": "1226",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1108",
@@ -9969,7 +12183,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量を100アップし、確率でスキルを回避する",
           "effectIdx1": "813",
           "effectIdx2": "734",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1109",
@@ -9978,7 +12194,9 @@ window.ability=[
           "abilityEffectDescription": "味方の木ノ葉所属の人数に応じて攻撃・防御・素早さが20%アップ",
           "effectIdx1": "687",
           "effectIdx2": "1105",
-          "effectIdx3": "1106"
+          "effectIdx3": "1106",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1110",
@@ -9987,7 +12205,9 @@ window.ability=[
           "abilityEffectDescription": "10回行動するまで攻撃力とスキルダメージ100%アップする",
           "effectIdx1": "456",
           "effectIdx2": "30909",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1111",
@@ -9996,7 +12216,9 @@ window.ability=[
           "abilityEffectDescription": "味方の木ノ葉所属の人数に応じて攻撃・防御・素早さが25%アップ",
           "effectIdx1": "1129",
           "effectIdx2": "1130",
-          "effectIdx3": "1131"
+          "effectIdx3": "1131",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1112",
@@ -10005,7 +12227,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPを70%アップし、低確率でスキルを回避する",
           "effectIdx1": "10069",
           "effectIdx2": "27",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1113",
@@ -10014,7 +12238,9 @@ window.ability=[
           "abilityEffectDescription": "班の\"暁\"のキャラ1体につき、攻撃力と防御力と素早さが30%アップする（自身含む）",
           "effectIdx1": "1004",
           "effectIdx2": "1217",
-          "effectIdx3": "1218"
+          "effectIdx3": "1218",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1114",
@@ -10023,7 +12249,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが100%アップし、確率でスキル回避する",
           "effectIdx1": "774",
           "effectIdx2": "27",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1115",
@@ -10032,7 +12260,9 @@ window.ability=[
           "abilityEffectDescription": "班の\"暁\"のキャラ1体につき、攻撃力と素早さが25%アップする（自身含む）",
           "effectIdx1": "1229",
           "effectIdx2": "1231",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1116",
@@ -10041,7 +12271,9 @@ window.ability=[
           "abilityEffectDescription": "10回行動するまで攻撃力と秘伝タイプのスキルダメージが100%アップする",
           "effectIdx1": "456",
           "effectIdx2": "30909",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1117",
@@ -10050,7 +12282,9 @@ window.ability=[
           "abilityEffectDescription": "班の\"暁\"のキャラ1体につき、攻撃力と防御力が25%アップする（自身含む）",
           "effectIdx1": "1229",
           "effectIdx2": "1230",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1118",
@@ -10059,7 +12293,9 @@ window.ability=[
           "abilityEffectDescription": "10回行動するまで攻撃力と武器タイプのスキルダメージが100%アップする",
           "effectIdx1": "456",
           "effectIdx2": "30909",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1119",
@@ -10068,7 +12304,9 @@ window.ability=[
           "abilityEffectDescription": "素早さが60%アップし、HPが80%以上の時にスキル発動速度１段階アップする",
           "effectIdx1": "326",
           "effectIdx2": "1089",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1120",
@@ -10077,7 +12315,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力が50％アップし、チャクラMAX時にスキルダメージを150％アップする",
           "effectIdx1": "1232",
           "effectIdx2": "11049",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1121",
@@ -10086,7 +12326,9 @@ window.ability=[
           "abilityEffectDescription": "武器スキルのダメージ50％アップする",
           "effectIdx1": "682",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1122",
@@ -10095,7 +12337,9 @@ window.ability=[
           "abilityEffectDescription": "消費チャクラが30％ダウン＆攻撃力が50％アップする",
           "effectIdx1": "859",
           "effectIdx2": "11049",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1123",
@@ -10104,7 +12348,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが40％アップし、行動後に低確率でチャクラが全回復する",
           "effectIdx1": "1156",
           "effectIdx2": "692",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1124",
@@ -10113,7 +12359,9 @@ window.ability=[
           "abilityEffectDescription": "7回行動するまで、攻撃・防御・素早さが50％アップする",
           "effectIdx1": "1233",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1125",
@@ -10122,7 +12370,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量を250アップし、さらに攻撃を受けた時、高確率でHPが40%回復する",
           "effectIdx1": "20044",
           "effectIdx2": "1243",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1126",
@@ -10131,7 +12381,9 @@ window.ability=[
           "abilityEffectDescription": "全ての受けるスキルダメージが半減し、HPが0以下で2度までHPが全回復する",
           "effectIdx1": "351",
           "effectIdx2": "874",
-          "effectIdx3": "1057"
+          "effectIdx3": "1057",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1127",
@@ -10140,7 +12392,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラが50アップし、行動後にチャクラが10%回復する",
           "effectIdx1": "689",
           "effectIdx2": "528",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1128",
@@ -10149,7 +12403,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と素早さが40%アップし、弱体を半減する",
           "effectIdx1": "376",
           "effectIdx2": "111",
-          "effectIdx3": "745"
+          "effectIdx3": "745",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1129",
@@ -10158,7 +12414,9 @@ window.ability=[
           "abilityEffectDescription": "行動後および攻撃を受けた時にHPが5%回復する",
           "effectIdx1": "28",
           "effectIdx2": "727",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1130",
@@ -10167,7 +12425,9 @@ window.ability=[
           "abilityEffectDescription": "HPが0以下になると1回だけHPが全回復しスキルダメージが70％アップする",
           "effectIdx1": "1240",
           "effectIdx2": "874",
-          "effectIdx3": "312"
+          "effectIdx3": "312",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1131",
@@ -10176,7 +12436,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが50%アップし、行動後にHPが5%回復する",
           "effectIdx1": "10049",
           "effectIdx2": "28",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1132",
@@ -10185,7 +12447,9 @@ window.ability=[
           "abilityEffectDescription": "HP80%以上の時に攻撃・防御・素早さとスキルダメージが60%アップする",
           "effectIdx1": "1242",
           "effectIdx2": "1241",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1133",
@@ -10194,7 +12458,9 @@ window.ability=[
           "abilityEffectDescription": "ダメージを受けた時、低確率でHPとチャクラが全回復する",
           "effectIdx1": "1244",
           "effectIdx2": "1248",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1134",
@@ -10203,7 +12469,9 @@ window.ability=[
           "abilityEffectDescription": "HPが70%以上の時、スキル発動速度が1段階アップし、スキルダメージを軽減する",
           "effectIdx1": "1245",
           "effectIdx2": "1246",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1135",
@@ -10212,7 +12480,9 @@ window.ability=[
           "abilityEffectDescription": "スキル発動速度が1段階アップし、素早さが50%アップする",
           "effectIdx1": "21000",
           "effectIdx2": "13049",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1136",
@@ -10221,7 +12491,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと体術タイプのスキルダメージが100%アップする",
           "effectIdx1": "684",
           "effectIdx2": "774",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1137",
@@ -10230,7 +12502,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力が20%アップし、素早さが30%ダウン",
           "effectIdx1": "105",
           "effectIdx2": "324",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1138",
@@ -10239,7 +12513,9 @@ window.ability=[
           "abilityEffectDescription": "8回行動するまで行動後HP50%回復する",
           "effectIdx1": "1247",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1139",
@@ -10248,7 +12524,9 @@ window.ability=[
           "abilityEffectDescription": "HPが80%以上の時スキル発動速度1段階アップする",
           "effectIdx1": "1089",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1140",
@@ -10257,7 +12535,9 @@ window.ability=[
           "abilityEffectDescription": "8回行動するまで状態異常を無効化する",
           "effectIdx1": "599",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1141",
@@ -10266,7 +12546,9 @@ window.ability=[
           "abilityEffectDescription": "HP回復スキルの基礎回復量を40%アップする",
           "effectIdx1": "809",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1142",
@@ -10275,7 +12557,9 @@ window.ability=[
           "abilityEffectDescription": "6回行動するまで素早さが100%アップし、6回行動後通常攻撃の回避率が100%になる",
           "effectIdx1": "1251",
           "effectIdx2": "1252",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1143",
@@ -10284,7 +12568,9 @@ window.ability=[
           "abilityEffectDescription": "HP80%以上の時、行動後チャクラ30%回復",
           "effectIdx1": "1253",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1144",
@@ -10293,7 +12579,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量を100アップし、全てのスキルダメージを軽減する",
           "effectIdx1": "813",
           "effectIdx2": "20500",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1145",
@@ -10302,7 +12590,9 @@ window.ability=[
           "abilityEffectDescription": "味方の木ノ葉所属の人数に応じて攻撃・素早さが40%アップする",
           "effectIdx1": "1254",
           "effectIdx2": "1255",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1146",
@@ -10311,7 +12601,9 @@ window.ability=[
           "abilityEffectDescription": "味方の木ノ葉所属の人数に応じて攻撃・防御・素早さが20%アップ",
           "effectIdx1": "687",
           "effectIdx2": "1105",
-          "effectIdx3": "1106"
+          "effectIdx3": "1106",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1147",
@@ -10320,7 +12612,9 @@ window.ability=[
           "abilityEffectDescription": "10回行動するまで攻撃力とスキルダメージ100%アップする",
           "effectIdx1": "456",
           "effectIdx2": "30909",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1148",
@@ -10329,7 +12623,9 @@ window.ability=[
           "abilityEffectDescription": "HP80%以上の時、スキルダメージが80%アップする",
           "effectIdx1": "31707",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1149",
@@ -10338,7 +12634,9 @@ window.ability=[
           "abilityEffectDescription": "10回行動するまでチャクラ消費量が半減する",
           "effectIdx1": "1257",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1150",
@@ -10347,7 +12645,9 @@ window.ability=[
           "abilityEffectDescription": "味方の木ノ葉所属の人数に応じて攻撃・防御・素早さが40%アップ",
           "effectIdx1": "1254",
           "effectIdx2": "1256",
-          "effectIdx3": "1255"
+          "effectIdx3": "1255",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1151",
@@ -10356,7 +12656,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPを120%、最大チャクラ量を120アップし、確率でスキルを回避する",
           "effectIdx1": "1221",
           "effectIdx2": "20011",
-          "effectIdx3": "734"
+          "effectIdx3": "734",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1152",
@@ -10365,7 +12667,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPを60%アップし、HPが60%以上の時、全スキルダメージを半減する",
           "effectIdx1": "10059",
           "effectIdx2": "1266",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1153",
@@ -10374,7 +12678,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と素早さとスキルダメージが50%アップする",
           "effectIdx1": "11049",
           "effectIdx2": "112",
-          "effectIdx3": "682"
+          "effectIdx3": "682",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1154",
@@ -10383,7 +12689,9 @@ window.ability=[
           "abilityEffectDescription": "素早さを50%アップし、状態異常を半減する",
           "effectIdx1": "112",
           "effectIdx2": "792",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1155",
@@ -10392,7 +12700,9 @@ window.ability=[
           "abilityEffectDescription": "HPが90%以下の時、攻撃力とスキルダメージが80%アップする",
           "effectIdx1": "1259",
           "effectIdx2": "1260",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1156",
@@ -10401,7 +12711,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと攻撃力を50%アップし、行動後HP10%回復する",
           "effectIdx1": "680",
           "effectIdx2": "11049",
-          "effectIdx3": "357"
+          "effectIdx3": "357",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1157",
@@ -10410,7 +12722,9 @@ window.ability=[
           "abilityEffectDescription": "弱体を無効化し、さらに3回行動するまで全スキルダメージを無効化する",
           "effectIdx1": "64",
           "effectIdx2": "990",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1158",
@@ -10419,7 +12733,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが50%アップし、弱体と状態異常を半減する",
           "effectIdx1": "680",
           "effectIdx2": "745",
-          "effectIdx3": "792"
+          "effectIdx3": "792",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1159",
@@ -10428,7 +12744,9 @@ window.ability=[
           "abilityEffectDescription": "味方の木ノ葉所属の人数に応じて素早さが20%アップする",
           "effectIdx1": "1106",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1160",
@@ -10437,7 +12755,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力とスキルダメージ120%アップ",
           "effectIdx1": "736",
           "effectIdx2": "30011",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1161",
@@ -10446,7 +12766,9 @@ window.ability=[
           "abilityEffectDescription": "毒と猛毒を無効化し、素早さを100%アップ、さらに行動後低確率でチャクラ30%回復",
           "effectIdx1": "589",
           "effectIdx2": "13099",
-          "effectIdx3": "1269"
+          "effectIdx3": "1269",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1162",
@@ -10455,7 +12777,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力とスキルダメージ80%アップ",
           "effectIdx1": "11079",
           "effectIdx2": "694",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1163",
@@ -10464,7 +12788,9 @@ window.ability=[
           "abilityEffectDescription": "HPが0以下で2度、HP50%回復する",
           "effectIdx1": "1057",
           "effectIdx2": "618",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1164",
@@ -10473,7 +12799,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力とスキルダメージ80%アップ",
           "effectIdx1": "11079",
           "effectIdx2": "694",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1165",
@@ -10482,7 +12810,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラ消費量が30%ダウンし、HP回復スキルの基礎回復量60%アップ",
           "effectIdx1": "859",
           "effectIdx2": "590",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1166",
@@ -10491,7 +12821,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力とスキルダメージ80%アップ",
           "effectIdx1": "11079",
           "effectIdx2": "694",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1167",
@@ -10500,7 +12832,9 @@ window.ability=[
           "abilityEffectDescription": "確率でスキルを回避する",
           "effectIdx1": "679",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1168",
@@ -10509,7 +12843,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPを100%アップし、行動後HPが20%回復する",
           "effectIdx1": "684",
           "effectIdx2": "628",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1169",
@@ -10518,7 +12854,9 @@ window.ability=[
           "abilityEffectDescription": "3回行動するまで状態異常を無効化し、HPが80%以下の時全てのスキルダメージを半減する",
           "effectIdx1": "1270",
           "effectIdx2": "956",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1170",
@@ -10527,7 +12865,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPを100%アップし、HP回復スキルの基礎回復量を60%アップする",
           "effectIdx1": "684",
           "effectIdx2": "590",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1171",
@@ -10536,7 +12876,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と通常攻撃のダメージが70%アップする",
           "effectIdx1": "11069",
           "effectIdx2": "70006",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1172",
@@ -10545,7 +12887,9 @@ window.ability=[
           "abilityEffectDescription": "HP80%以上の時、攻撃・防御・素早さ・スキルダメージを80%アップする",
           "effectIdx1": "1271",
           "effectIdx2": "31707",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1173",
@@ -10554,7 +12898,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラ消費量を30%減少し、バトル開始時チャクラが50%回復する",
           "effectIdx1": "859",
           "effectIdx2": "1115",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1174",
@@ -10563,7 +12909,9 @@ window.ability=[
           "abilityEffectDescription": "全スキルダメージを軽減し、行動後にHPが微回復",
           "effectIdx1": "425",
           "effectIdx2": "263",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1175",
@@ -10572,7 +12920,9 @@ window.ability=[
           "abilityEffectDescription": "HPが80％以上の時スキルダメージが50％アップする",
           "effectIdx1": "31704",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1176",
@@ -10581,7 +12931,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と防御力が30％アップ、素早さが20％アップ",
           "effectIdx1": "182",
           "effectIdx2": "12029",
-          "effectIdx3": "13019"
+          "effectIdx3": "13019",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1177",
@@ -10590,7 +12942,9 @@ window.ability=[
           "abilityEffectDescription": "HPが80％以上の時スキルダメージが60％アップする",
           "effectIdx1": "31705",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1178",
@@ -10599,7 +12953,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と防御力が40％アップ、素早さが30％アップ",
           "effectIdx1": "11039",
           "effectIdx2": "12039",
-          "effectIdx3": "183"
+          "effectIdx3": "183",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1179",
@@ -10608,7 +12964,9 @@ window.ability=[
           "abilityEffectDescription": "HPが70％以上の時スキルダメージが60％アップする",
           "effectIdx1": "31605",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1180",
@@ -10617,7 +12975,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と防御力が50％アップ、素早さが40％アップ",
           "effectIdx1": "11049",
           "effectIdx2": "12049",
-          "effectIdx3": "13039"
+          "effectIdx3": "13039",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1181",
@@ -10626,7 +12986,9 @@ window.ability=[
           "abilityEffectDescription": "HPが70％以上の時スキルダメージが70％アップする",
           "effectIdx1": "31606",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1182",
@@ -10635,7 +12997,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と防御力が60％アップ、素早さが50％アップ",
           "effectIdx1": "11059",
           "effectIdx2": "12059",
-          "effectIdx3": "13049"
+          "effectIdx3": "13049",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1183",
@@ -10644,7 +13008,9 @@ window.ability=[
           "abilityEffectDescription": "HPが50％以上の時スキルダメージが70％アップする",
           "effectIdx1": "31406",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1184",
@@ -10653,7 +13019,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と防御力が70％アップ、素早さが60％アップ",
           "effectIdx1": "11069",
           "effectIdx2": "12069",
-          "effectIdx3": "13059"
+          "effectIdx3": "13059",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1185",
@@ -10662,7 +13030,9 @@ window.ability=[
           "abilityEffectDescription": "HPが50％以上の時チャクラ消費量が20％ダウンしスキルダメージが100％アップする",
           "effectIdx1": "31409",
           "effectIdx2": "1283",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1186",
@@ -10671,7 +13041,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と防御力が100％アップ、素早さが70％アップ",
           "effectIdx1": "11099",
           "effectIdx2": "12099",
-          "effectIdx3": "13069"
+          "effectIdx3": "13069",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1187",
@@ -10680,7 +13052,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが100%アップし、輪廻写輪眼のスキルダメージを軽減する",
           "effectIdx1": "684",
           "effectIdx2": "1234",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1188",
@@ -10689,7 +13063,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラ90%以上の時スキルダメージが150%アップする",
           "effectIdx1": "33814",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1189",
@@ -10698,7 +13074,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが100%アップし、六道タイプのスキルダメージを軽減する",
           "effectIdx1": "684",
           "effectIdx2": "1286",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1190",
@@ -10707,7 +13085,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラ90%以上の時スキルダメージが150%アップする",
           "effectIdx1": "33814",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1191",
@@ -10716,7 +13096,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが120%アップし、輪廻写輪眼のスキルダメージを軽減する",
           "effectIdx1": "1221",
           "effectIdx2": "1234",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1192",
@@ -10725,7 +13107,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラが50アップし、チャクラ50%以上の時スキルダメージが150%アップする",
           "effectIdx1": "20004",
           "effectIdx2": "33414",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1193",
@@ -10734,7 +13118,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが120%アップし、六道タイプのスキルダメージを軽減する",
           "effectIdx1": "1221",
           "effectIdx2": "1286",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1194",
@@ -10743,7 +13129,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラが50アップし、チャクラ50%以上の時スキルダメージが150%アップする",
           "effectIdx1": "20004",
           "effectIdx2": "33414",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1195",
@@ -10752,7 +13140,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量を2倍（100アップ）にし、最大HPを2倍（100%アップ）にする",
           "effectIdx1": "813",
           "effectIdx2": "684",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1196",
@@ -10761,7 +13151,9 @@ window.ability=[
           "abilityEffectDescription": "HP90%以上の時、雷遁スキルダメージが2倍（100%アップ）になる",
           "effectIdx1": "31809",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1197",
@@ -10770,7 +13162,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが80%アップし、HP80%以上の時さらにスキルダメージが50%アップする",
           "effectIdx1": "694",
           "effectIdx2": "31704",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1198",
@@ -10779,7 +13173,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量が50アップし、最大HPが80%アップする",
           "effectIdx1": "20004",
           "effectIdx2": "649",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1199",
@@ -10788,7 +13184,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが80%アップし、HP80%以上の時さらにスキルダメージが50%アップする",
           "effectIdx1": "694",
           "effectIdx2": "31704",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1200",
@@ -10797,7 +13195,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量が50アップし、素早さが80%アップする",
           "effectIdx1": "20004",
           "effectIdx2": "13079",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1201",
@@ -10806,7 +13206,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが80%アップし、HP80%以上の時さらにスキルダメージが50%アップする",
           "effectIdx1": "694",
           "effectIdx2": "31704",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1202",
@@ -10815,7 +13217,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量が50アップし、攻撃力が80%アップする",
           "effectIdx1": "20004",
           "effectIdx2": "11079",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1203",
@@ -10824,7 +13228,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが120%アップし、HP50%以上の時さらにスキルダメージが70%アップする",
           "effectIdx1": "30011",
           "effectIdx2": "31406",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1204",
@@ -10833,7 +13239,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量が100アップし、最大HPが100%アップする",
           "effectIdx1": "20009",
           "effectIdx2": "684",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1205",
@@ -10842,7 +13250,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが120%アップし、HP50%以上の時さらにスキルダメージが70%アップする",
           "effectIdx1": "30011",
           "effectIdx2": "31406",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1206",
@@ -10851,7 +13261,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量が100アップし、素早さが100%アップする",
           "effectIdx1": "20009",
           "effectIdx2": "13099",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1207",
@@ -10860,7 +13272,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが120%アップし、HP50%以上の時さらにスキルダメージが70%アップする",
           "effectIdx1": "30011",
           "effectIdx2": "31406",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1208",
@@ -10869,7 +13283,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量が100アップし、攻撃力が100%アップする",
           "effectIdx1": "20009",
           "effectIdx2": "11099",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1209",
@@ -10878,7 +13294,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力が20％アップし、低確率でスキルを回避する",
           "effectIdx1": "105",
           "effectIdx2": "1289",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1210",
@@ -10887,7 +13305,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージがアップし、低確率でスキルを回避する",
           "effectIdx1": "30000",
           "effectIdx2": "1289",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1211",
@@ -10896,7 +13316,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージがアップし、低確率でスキルを回避する",
           "effectIdx1": "30000",
           "effectIdx2": "1289",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1212",
@@ -10905,7 +13327,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量を100アップし、スキルダメージを70%アップする",
           "effectIdx1": "813",
           "effectIdx2": "652",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1213",
@@ -10914,7 +13338,9 @@ window.ability=[
           "abilityEffectDescription": "味方の木ノ葉所属の人数に応じて攻撃・素早さが25%アップする",
           "effectIdx1": "1129",
           "effectIdx2": "1131",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1214",
@@ -10923,7 +13349,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが120%アップする",
           "effectIdx1": "30011",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1215",
@@ -10932,7 +13360,9 @@ window.ability=[
           "abilityEffectDescription": "HP50%以上の時、攻撃力素早さスキルダメージが100%アップする",
           "effectIdx1": "1058",
           "effectIdx2": "1088",
-          "effectIdx3": "31409"
+          "effectIdx3": "31409",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1216",
@@ -10941,7 +13371,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと攻撃力を80%アップし、チャクラMAX時にスキルダメージが120%アップする",
           "effectIdx1": "649",
           "effectIdx2": "11079",
-          "effectIdx3": "1291"
+          "effectIdx3": "1291",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1217",
@@ -10950,7 +13382,9 @@ window.ability=[
           "abilityEffectDescription": "無系統のスキルを無効化し、確率でスキルを回避する",
           "effectIdx1": "864",
           "effectIdx2": "679",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1218",
@@ -10959,7 +13393,9 @@ window.ability=[
           "abilityEffectDescription": "HPが70%以下の時、攻撃・防御・素早さが100%アップする",
           "effectIdx1": "1292",
           "effectIdx2": "1293",
-          "effectIdx3": "1294"
+          "effectIdx3": "1294",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1219",
@@ -10968,7 +13404,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが80%アップし、味方の木ノ葉所属の人数に応じて攻撃力が25%アップ",
           "effectIdx1": "649",
           "effectIdx2": "1129",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1220",
@@ -10977,7 +13415,9 @@ window.ability=[
           "abilityEffectDescription": "HPが80%以上の時、素早さが60%アップしスキル発動速度が１段階アップする",
           "effectIdx1": "1177",
           "effectIdx2": "1089",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1221",
@@ -10986,7 +13426,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが50%アップし、味方の木ノ葉所属の人数に応じて攻撃力と素早さが20%アップ",
           "effectIdx1": "10049",
           "effectIdx2": "687",
-          "effectIdx3": "1106"
+          "effectIdx3": "1106",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1222",
@@ -10995,7 +13437,9 @@ window.ability=[
           "abilityEffectDescription": "HPが90%以上の時、スキルダメージが200%アップする",
           "effectIdx1": "31819",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1223",
@@ -11004,7 +13448,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラを100アップし、最大HPを100%アップする",
           "effectIdx1": "20009",
           "effectIdx2": "684",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1224",
@@ -11013,7 +13459,9 @@ window.ability=[
           "abilityEffectDescription": "行動後確率で攻撃力と素早さ100%アップ",
           "effectIdx1": "1295",
           "effectIdx2": "1296",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1225",
@@ -11022,7 +13470,9 @@ window.ability=[
           "abilityEffectDescription": "6回行動後からスキルダメージが50%アップし確率でスキルを回避する",
           "effectIdx1": "904",
           "effectIdx2": "1297",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1226",
@@ -11031,7 +13481,9 @@ window.ability=[
           "abilityEffectDescription": "味方の木ノ葉所属の人数に応じて攻撃力が40%アップする",
           "effectIdx1": "1254",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1227",
@@ -11040,7 +13492,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラMAX時、スキルダメージが70%アップする",
           "effectIdx1": "1005",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1228",
@@ -11049,7 +13503,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPを70%アップし、味方の木ノ葉所属の人数に応じて防御力が40%アップする",
           "effectIdx1": "10069",
           "effectIdx2": "1256",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1229",
@@ -11058,7 +13514,9 @@ window.ability=[
           "abilityEffectDescription": "5回行動するまでチャクラ消費量が半減する",
           "effectIdx1": "1033",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1230",
@@ -11067,7 +13525,9 @@ window.ability=[
           "abilityEffectDescription": "行動後に高確率で攻撃・防御・素早さが100％アップする",
           "effectIdx1": "1092",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1231",
@@ -11076,7 +13536,9 @@ window.ability=[
           "abilityEffectDescription": "HPが50%以上の時、スキルダメージ120%アップしチャクラ消費量が30%ダウン",
           "effectIdx1": "31411",
           "effectIdx2": "1168",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1232",
@@ -11085,7 +13547,9 @@ window.ability=[
           "abilityEffectDescription": "ダメージを受けた時、確率でHPとチャクラが全回復する",
           "effectIdx1": "1327",
           "effectIdx2": "1328",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1233",
@@ -11094,7 +13558,9 @@ window.ability=[
           "abilityEffectDescription": "HPが50%以上の時、スキル発動速度が1段階アップし、スキルダメージを半減する",
           "effectIdx1": "1329",
           "effectIdx2": "1330",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1234",
@@ -11103,7 +13569,9 @@ window.ability=[
           "abilityEffectDescription": "素早さが120%アップし、3回行動後通常攻撃の回避率が100%になる",
           "effectIdx1": "1335",
           "effectIdx2": "1331",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1235",
@@ -11112,7 +13580,9 @@ window.ability=[
           "abilityEffectDescription": "HP50%以上の時、行動後チャクラ30%回復",
           "effectIdx1": "1334",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1236",
@@ -11121,7 +13591,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量を130アップし、全てのスキルダメージを軽減する",
           "effectIdx1": "20012",
           "effectIdx2": "20500",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1237",
@@ -11130,7 +13602,9 @@ window.ability=[
           "abilityEffectDescription": "味方の木ノ葉所属の人数に応じて攻撃・素早さが50%アップする",
           "effectIdx1": "1332",
           "effectIdx2": "1333",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1238",
@@ -11139,7 +13613,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量を50アップし、9回行動するまでスキル発動速度を1段階アップする",
           "effectIdx1": "20004",
           "effectIdx2": "1336",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1239",
@@ -11148,7 +13624,9 @@ window.ability=[
           "abilityEffectDescription": "HPが50%以上の時、スキルダメージが90%アップする",
           "effectIdx1": "31408",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1240",
@@ -11157,7 +13635,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量を50アップし、9回行動するまでスキル発動速度を1段階アップする",
           "effectIdx1": "20004",
           "effectIdx2": "1336",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1241",
@@ -11166,7 +13646,9 @@ window.ability=[
           "abilityEffectDescription": "HPが50%以上の時、スキルダメージが90%アップする",
           "effectIdx1": "31408",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1242",
@@ -11175,7 +13657,9 @@ window.ability=[
           "abilityEffectDescription": "10回行動するまでチャクラ消費量が半減する",
           "effectIdx1": "1257",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1243",
@@ -11184,7 +13668,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと攻撃力が70%アップする",
           "effectIdx1": "10069",
           "effectIdx2": "11069",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1244",
@@ -11193,7 +13679,9 @@ window.ability=[
           "abilityEffectDescription": "状態異常にかかる確率を半減する",
           "effectIdx1": "792",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1245",
@@ -11202,7 +13690,9 @@ window.ability=[
           "abilityEffectDescription": "HPが90%以上の時、スキル発動速度が1段階アップする",
           "effectIdx1": "1337",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1246",
@@ -11211,7 +13701,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと攻撃力が100%アップし、チャクラ消費量が20%ダウンする",
           "effectIdx1": "684",
           "effectIdx2": "264",
-          "effectIdx3": "8"
+          "effectIdx3": "8",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1247",
@@ -11220,7 +13712,9 @@ window.ability=[
           "abilityEffectDescription": "HPが50%以上の時にスキルダメージが120%アップする",
           "effectIdx1": "31411",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1248",
@@ -11229,7 +13723,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが150%アップする",
           "effectIdx1": "794",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1249",
@@ -11238,7 +13734,9 @@ window.ability=[
           "abilityEffectDescription": "行動するたびに攻撃力が30%アップする（最大4回まで）",
           "effectIdx1": "1346",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1250",
@@ -11247,7 +13745,9 @@ window.ability=[
           "abilityEffectDescription": "8回行動するまで消費チャクラが半減し行動後HPが50%回復する",
           "effectIdx1": "1349",
           "effectIdx2": "1350",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1251",
@@ -11256,7 +13756,9 @@ window.ability=[
           "abilityEffectDescription": "味方の音隠れの里所属の人数に応じて攻撃・素早さが10%アップする",
           "effectIdx1": "622",
           "effectIdx2": "624",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1252",
@@ -11265,7 +13767,9 @@ window.ability=[
           "abilityEffectDescription": "味方の音隠れの里所属の人数に応じて素早さが20%アップする",
           "effectIdx1": "1347",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1253",
@@ -11274,7 +13778,9 @@ window.ability=[
           "abilityEffectDescription": "幻術タイプのスキルを無効化し、スキルダメージを80%アップする",
           "effectIdx1": "46",
           "effectIdx2": "694",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1254",
@@ -11283,7 +13789,9 @@ window.ability=[
           "abilityEffectDescription": "味方の音隠れの里所属の人数に応じて攻撃力が20%アップする",
           "effectIdx1": "1348",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1255",
@@ -11292,7 +13800,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量が30アップし、10回行動するまでスキルダメージが70%アップする",
           "effectIdx1": "20002",
           "effectIdx2": "30906",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1256",
@@ -11301,7 +13811,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラMAX時、スキルダメージが120%アップする",
           "effectIdx1": "1291",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1257",
@@ -11310,7 +13822,9 @@ window.ability=[
           "abilityEffectDescription": "味方の音隠れの里所属の人数に応じて防御・素早さが10%アップする",
           "effectIdx1": "623",
           "effectIdx2": "624",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1258",
@@ -11319,7 +13833,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと素早さが70%アップする",
           "effectIdx1": "10069",
           "effectIdx2": "13069",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1259",
@@ -11328,7 +13844,9 @@ window.ability=[
           "abilityEffectDescription": "味方の木ノ葉所属の人数に応じて攻撃が30%アップする",
           "effectIdx1": "953",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1260",
@@ -11337,7 +13855,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと攻撃力が70%アップする",
           "effectIdx1": "10069",
           "effectIdx2": "11069",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1261",
@@ -11346,7 +13866,9 @@ window.ability=[
           "abilityEffectDescription": "味方の木ノ葉所属の人数に応じて素早さが30%アップする",
           "effectIdx1": "1226",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1262",
@@ -11355,7 +13877,9 @@ window.ability=[
           "abilityEffectDescription": "3回行動後から確率でスキルを回避する",
           "effectIdx1": "1383",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1263",
@@ -11364,7 +13888,9 @@ window.ability=[
           "abilityEffectDescription": "行動するたびに攻撃力と素早さが20%アップする。（最大5回まで）",
           "effectIdx1": "1072",
           "effectIdx2": "1384",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1264",
@@ -11373,7 +13899,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが100%アップし、行動後HP30%回復する",
           "effectIdx1": "684",
           "effectIdx2": "894",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1265",
@@ -11382,7 +13910,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力とスキルダメージが120%アップする",
           "effectIdx1": "736",
           "effectIdx2": "30011",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1266",
@@ -11391,7 +13921,9 @@ window.ability=[
           "abilityEffectDescription": "素早さとスキルダメージが120%アップする",
           "effectIdx1": "1335",
           "effectIdx2": "30011",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1267",
@@ -11400,7 +13932,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラ消費量40%ダウン&amp;行動後チャクラが20%回復",
           "effectIdx1": "1164",
           "effectIdx2": "583",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1268",
@@ -11409,7 +13943,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPとスキルダメージが100%アップする",
           "effectIdx1": "684",
           "effectIdx2": "774",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1269",
@@ -11418,7 +13954,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラ消費量40%ダウン&amp;行動後チャクラが20%回復",
           "effectIdx1": "1164",
           "effectIdx2": "583",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1270",
@@ -11427,7 +13965,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量が80アップし、最大HPが80%アップする",
           "effectIdx1": "20007",
           "effectIdx2": "649",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1271",
@@ -11436,7 +13976,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが80%アップし、状態異常にかかる確率を半減する",
           "effectIdx1": "694",
           "effectIdx2": "792",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1272",
@@ -11445,7 +13987,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量を70アップし、攻撃力が70%アップする",
           "effectIdx1": "20006",
           "effectIdx2": "259",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1273",
@@ -11454,7 +13998,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが80%アップし、弱体にかかる確率を半減する",
           "effectIdx1": "694",
           "effectIdx2": "745",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1274",
@@ -11463,7 +14009,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量を250アップし、確率でスキルを回避する",
           "effectIdx1": "20044",
           "effectIdx2": "734",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1275",
@@ -11472,7 +14020,9 @@ window.ability=[
           "abilityEffectDescription": "全ての状態異常にかかる確率が半減し、HPが0以下で1度だけHPが全回復する",
           "effectIdx1": "792",
           "effectIdx2": "874",
-          "effectIdx3": "312"
+          "effectIdx3": "312",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1276",
@@ -11481,7 +14031,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量が100アップし、HPが60%以下でスキル発動速度が1段階アップする",
           "effectIdx1": "20009",
           "effectIdx2": "1390",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1277",
@@ -11490,7 +14042,9 @@ window.ability=[
           "abilityEffectDescription": "HPが0以下になると1回だけHPが全回復し、スキルダメージが50％アップする",
           "effectIdx1": "312",
           "effectIdx2": "874",
-          "effectIdx3": "1397"
+          "effectIdx3": "1397",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1278",
@@ -11499,7 +14053,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃・防御・素早さが50％アップする",
           "effectIdx1": "251",
           "effectIdx2": "276",
-          "effectIdx3": "112"
+          "effectIdx3": "112",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1279",
@@ -11508,7 +14064,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが60%アップし、HPが80%以上の時スキル発動速度を１段階アップする",
           "effectIdx1": "678",
           "effectIdx2": "1391",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1280",
@@ -11517,7 +14075,9 @@ window.ability=[
           "abilityEffectDescription": "低確率でスキルを回避し、HPが80%以上の時スキルダメージが80%アップする",
           "effectIdx1": "27",
           "effectIdx2": "1392",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1281",
@@ -11526,7 +14086,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPを50%アップし、HPが80%以上の時チャクラ消費量が30%ダウンする",
           "effectIdx1": "680",
           "effectIdx2": "1393",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1282",
@@ -11535,7 +14097,9 @@ window.ability=[
           "abilityEffectDescription": "行動するたびに攻撃力が20%アップする（最大4回まで）が行動するたびにHPが20%ずつ減少する",
           "effectIdx1": "568",
           "effectIdx2": "1398",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1283",
@@ -11544,7 +14108,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラが100アップし、スキルダメージと素早さが100%アップする",
           "effectIdx1": "813",
           "effectIdx2": "774",
-          "effectIdx3": "13099"
+          "effectIdx3": "13099",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1284",
@@ -11553,7 +14119,9 @@ window.ability=[
           "abilityEffectDescription": "行動するたびに攻撃力が40%アップする（最大5回まで）が行動するたびにHPが10%ずつ減少する",
           "effectIdx1": "1412",
           "effectIdx2": "1413",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1285",
@@ -11562,7 +14130,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラが120アップし、スキルダメージと素早さが150%アップする",
           "effectIdx1": "20011",
           "effectIdx2": "794",
-          "effectIdx3": "967"
+          "effectIdx3": "967",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1286",
@@ -11571,7 +14141,9 @@ window.ability=[
           "abilityEffectDescription": "最大HP・攻撃力・素早さが80%アップする",
           "effectIdx1": "649",
           "effectIdx2": "11079",
-          "effectIdx3": "13079"
+          "effectIdx3": "13079",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1287",
@@ -11580,7 +14152,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量が50アップし、2回行動するまで武器・六道・輪廻眼以外のダメージを半減する",
           "effectIdx1": "689",
           "effectIdx2": "1399",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1288",
@@ -11589,7 +14163,9 @@ window.ability=[
           "abilityEffectDescription": "最大HP・攻撃力・素早さが120%アップする",
           "effectIdx1": "1221",
           "effectIdx2": "736",
-          "effectIdx3": "1335"
+          "effectIdx3": "1335",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1289",
@@ -11598,7 +14174,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量が100アップし、2回行動するまで武器・六道・輪廻眼以外のダメージを無効化する",
           "effectIdx1": "813",
           "effectIdx2": "1414",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1290",
@@ -11607,7 +14185,9 @@ window.ability=[
           "abilityEffectDescription": "HPが80%以上の時、木遁タイプのスキルダメージが150%アップする",
           "effectIdx1": "1400",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1291",
@@ -11616,7 +14196,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラが100アップし、最大HPと攻撃力が80%アップする",
           "effectIdx1": "813",
           "effectIdx2": "649",
-          "effectIdx3": "11079"
+          "effectIdx3": "11079",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1292",
@@ -11625,7 +14207,9 @@ window.ability=[
           "abilityEffectDescription": "行動後HPが10%回復し、木遁タイプのスキルダメージが200%アップする",
           "effectIdx1": "52",
           "effectIdx2": "1415",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1293",
@@ -11634,7 +14218,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラが120アップし、最大HPと攻撃力が120%アップする",
           "effectIdx1": "20011",
           "effectIdx2": "1221",
-          "effectIdx3": "736"
+          "effectIdx3": "736",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1294",
@@ -11643,7 +14229,9 @@ window.ability=[
           "abilityEffectDescription": "HPが70%以上の時、攻撃力とスキルダメージが120%アップする",
           "effectIdx1": "1401",
           "effectIdx2": "31611",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1295",
@@ -11652,7 +14240,9 @@ window.ability=[
           "abilityEffectDescription": "素早さが40%アップし、行動後HPが10%回復する",
           "effectIdx1": "13039",
           "effectIdx2": "52",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1296",
@@ -11661,7 +14251,9 @@ window.ability=[
           "abilityEffectDescription": "素早さが80%アップし、4回行動するまで高確率でスキルを回避する",
           "effectIdx1": "13079",
           "effectIdx2": "1402",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1297",
@@ -11670,7 +14262,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力とスキルダメージが100%アップし、さらにチャクラが80%以上の時スキルダメージが80%アップする",
           "effectIdx1": "11099",
           "effectIdx2": "774",
-          "effectIdx3": "33707"
+          "effectIdx3": "33707",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1298",
@@ -11679,7 +14273,9 @@ window.ability=[
           "abilityEffectDescription": "HP70%以上の時、スキルダメージが80%アップする",
           "effectIdx1": "31607",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1299",
@@ -11688,7 +14284,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と素早さが90%アップする",
           "effectIdx1": "11089",
           "effectIdx2": "13089",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1300",
@@ -11697,7 +14295,9 @@ window.ability=[
           "abilityEffectDescription": "HPが70%以上で攻撃・防御・素早さが120%アップする",
           "effectIdx1": "1403",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1301",
@@ -11706,7 +14306,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と白眼タイプのスキルダメージを120%アップする",
           "effectIdx1": "736",
           "effectIdx2": "1404",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1302",
@@ -11715,7 +14317,9 @@ window.ability=[
           "abilityEffectDescription": "班の木ノ葉所属の人数に応じて攻撃・素早さが25%アップする",
           "effectIdx1": "1129",
           "effectIdx2": "1131",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1303",
@@ -11724,7 +14328,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと白眼スキルダメージ100%アップ",
           "effectIdx1": "684",
           "effectIdx2": "1406",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1304",
@@ -11733,7 +14339,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと白眼スキルダメージが150%アップする",
           "effectIdx1": "1212",
           "effectIdx2": "1405",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1305",
@@ -11742,7 +14350,9 @@ window.ability=[
           "abilityEffectDescription": "班の木ノ葉所属の人数に応じて攻撃・防御・素早さが40%アップする",
           "effectIdx1": "1254",
           "effectIdx2": "1256",
-          "effectIdx3": "1255"
+          "effectIdx3": "1255",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1306",
@@ -11751,7 +14361,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが100%アップし、HP0以下になると1回だけHPが全回復する",
           "effectIdx1": "684",
           "effectIdx2": "312",
-          "effectIdx3": "874"
+          "effectIdx3": "874",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1307",
@@ -11760,7 +14372,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラMAX時、攻撃力と仙術タイプのスキルダメージが80％アップする",
           "effectIdx1": "981",
           "effectIdx2": "982",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1308",
@@ -11769,7 +14383,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが120%アップし、HPが0以下で2度までHPが全回復する",
           "effectIdx1": "1221",
           "effectIdx2": "1057",
-          "effectIdx3": "874"
+          "effectIdx3": "874",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1309",
@@ -11778,7 +14394,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と仙術タイプのスキルダメージが120％アップする",
           "effectIdx1": "736",
           "effectIdx2": "30011",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1310",
@@ -11787,7 +14405,9 @@ window.ability=[
           "abilityEffectDescription": "HP80%以上の時に攻撃力と写輪眼タイプのスキルダメージ100%アップ",
           "effectIdx1": "1133",
           "effectIdx2": "31709",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1311",
@@ -11796,7 +14416,9 @@ window.ability=[
           "abilityEffectDescription": "行動するたびに攻撃力が20%アップする（最大4回まで）＆行動後にHPが10%回復する",
           "effectIdx1": "568",
           "effectIdx2": "52",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1312",
@@ -11805,7 +14427,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と写輪眼タイプのスキルダメージ120%アップ",
           "effectIdx1": "736",
           "effectIdx2": "30011",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1313",
@@ -11814,7 +14438,9 @@ window.ability=[
           "abilityEffectDescription": "行動するたびに攻撃力が30%アップする（最大4回まで）＆行動後にHPが20%回復する",
           "effectIdx1": "1416",
           "effectIdx2": "628",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1314",
@@ -11823,7 +14449,9 @@ window.ability=[
           "abilityEffectDescription": "行動後にチャクラが10%回復し、状態異常と弱体にかかる確率を半減する",
           "effectIdx1": "53",
           "effectIdx2": "776",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1315",
@@ -11832,7 +14460,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力とスキルダメージが80%アップし、最大チャクラ量が100アップする",
           "effectIdx1": "11079",
           "effectIdx2": "694",
-          "effectIdx3": "813"
+          "effectIdx3": "813",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1316",
@@ -11841,7 +14471,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量を100アップし、スキル発動速度を1段階アップする",
           "effectIdx1": "813",
           "effectIdx2": "21000",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1317",
@@ -11850,7 +14482,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが150%アップする",
           "effectIdx1": "794",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1318",
@@ -11859,7 +14493,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量を100アップし、スキル発動速度を1段階アップする",
           "effectIdx1": "813",
           "effectIdx2": "21000",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1319",
@@ -11868,7 +14504,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが150%アップする",
           "effectIdx1": "794",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1320",
@@ -11877,7 +14515,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と風遁スキルダメージが120%アップする",
           "effectIdx1": "736",
           "effectIdx2": "30011",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1321",
@@ -11886,7 +14526,9 @@ window.ability=[
           "abilityEffectDescription": "HPが80%以上で攻撃・防御・素早さが100%アップする",
           "effectIdx1": "1133",
           "effectIdx2": "1134",
-          "effectIdx3": "1135"
+          "effectIdx3": "1135",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1322",
@@ -11895,7 +14537,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPを80%アップし、行動後HPが10%回復する",
           "effectIdx1": "649",
           "effectIdx2": "52",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1323",
@@ -11904,7 +14548,9 @@ window.ability=[
           "abilityEffectDescription": "素早さとスキルダメージが90%アップする",
           "effectIdx1": "13089",
           "effectIdx2": "30008",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1324",
@@ -11913,7 +14559,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPを100%アップし、行動後HPが20%回復する",
           "effectIdx1": "684",
           "effectIdx2": "628",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1325",
@@ -11922,7 +14570,9 @@ window.ability=[
           "abilityEffectDescription": "素早さとスキルダメージが120%アップする",
           "effectIdx1": "1335",
           "effectIdx2": "30011",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1326",
@@ -11931,7 +14581,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPとスキルダメージが50%アップする",
           "effectIdx1": "10049",
           "effectIdx2": "682",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1327",
@@ -11940,7 +14592,9 @@ window.ability=[
           "abilityEffectDescription": "HP80%以上の時、攻撃力と素早さとスキルダメージが50%アップする",
           "effectIdx1": "297",
           "effectIdx2": "397",
-          "effectIdx3": "31704"
+          "effectIdx3": "31704",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1328",
@@ -11949,7 +14603,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPとスキルダメージが80%アップする",
           "effectIdx1": "649",
           "effectIdx2": "694",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1329",
@@ -11958,7 +14614,9 @@ window.ability=[
           "abilityEffectDescription": "HP50%以上の時、攻撃力と素早さとスキルダメージが100%アップする",
           "effectIdx1": "1019",
           "effectIdx2": "1088",
-          "effectIdx3": "31409"
+          "effectIdx3": "31409",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1330",
@@ -11967,7 +14625,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力とスキルダメージ90%アップ",
           "effectIdx1": "11089",
           "effectIdx2": "30008",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1331",
@@ -11976,7 +14636,9 @@ window.ability=[
           "abilityEffectDescription": "弱体にかかる確率を半減する",
           "effectIdx1": "745",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1332",
@@ -11985,7 +14647,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力とスキルダメージ120%アップ",
           "effectIdx1": "736",
           "effectIdx2": "30011",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1333",
@@ -11994,7 +14658,9 @@ window.ability=[
           "abilityEffectDescription": "弱体を無効化する",
           "effectIdx1": "64",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1334",
@@ -12003,7 +14669,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量を80アップし、バトル開始時チャクラ50%回復する",
           "effectIdx1": "765",
           "effectIdx2": "1115",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1335",
@@ -12012,7 +14680,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと素早さが100%アップする",
           "effectIdx1": "684",
           "effectIdx2": "253",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1336",
@@ -12021,7 +14691,9 @@ window.ability=[
           "abilityEffectDescription": "素早さを60%アップし、確率でスキルを回避する",
           "effectIdx1": "326",
           "effectIdx2": "1422",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1337",
@@ -12030,7 +14702,9 @@ window.ability=[
           "abilityEffectDescription": "HP80%以上でスキル発動速度が1段階アップし、バトル開始時チャクラ30%回復する",
           "effectIdx1": "1089",
           "effectIdx2": "1114",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1338",
@@ -12039,7 +14713,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量が100アップし、確率でスキルを回避する",
           "effectIdx1": "813",
           "effectIdx2": "734",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1339",
@@ -12048,7 +14724,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと攻撃力が100%アップし、行動するたびに素早さが30％アップする(最大5回)",
           "effectIdx1": "684",
           "effectIdx2": "11099",
-          "effectIdx3": "1424"
+          "effectIdx3": "1424",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1340",
@@ -12057,7 +14735,9 @@ window.ability=[
           "abilityEffectDescription": "素早さとスキルダメージを60%アップする",
           "effectIdx1": "13059",
           "effectIdx2": "678",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1341",
@@ -12066,7 +14746,9 @@ window.ability=[
           "abilityEffectDescription": "行動するたびに攻撃力が20%アップする（最大4回まで）",
           "effectIdx1": "568",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1342",
@@ -12075,7 +14757,9 @@ window.ability=[
           "abilityEffectDescription": "HP50%以上の時、スキルダメージが100%アップする",
           "effectIdx1": "31409",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1343",
@@ -12084,7 +14768,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と素早さが120%アップする",
           "effectIdx1": "736",
           "effectIdx2": "1335",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1344",
@@ -12093,7 +14779,9 @@ window.ability=[
           "abilityEffectDescription": "班の人数が助っ人含めて3人以上の時、攻撃力と防御力と素早さが50％アップする。",
           "effectIdx1": "1417",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1345",
@@ -12102,7 +14790,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと攻撃力が80％アップする。",
           "effectIdx1": "649",
           "effectIdx2": "11079",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1346",
@@ -12111,7 +14801,9 @@ window.ability=[
           "abilityEffectDescription": "行動毎に攻撃力が30％アップする（4回まで）",
           "effectIdx1": "1346",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1347",
@@ -12120,7 +14812,9 @@ window.ability=[
           "abilityEffectDescription": "行動後にHPが20%回復する",
           "effectIdx1": "628",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1348",
@@ -12129,7 +14823,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と防御力と素早さが40％アップする",
           "effectIdx1": "11039",
           "effectIdx2": "12039",
-          "effectIdx3": "13039"
+          "effectIdx3": "13039",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1349",
@@ -12138,7 +14834,9 @@ window.ability=[
           "abilityEffectDescription": "ダメージを受けた際にHPとチャクラを10％回復する",
           "effectIdx1": "191",
           "effectIdx2": "975",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1350",
@@ -12147,7 +14845,9 @@ window.ability=[
           "abilityEffectDescription": "素早さとスキルダメージを100%アップする",
           "effectIdx1": "13099",
           "effectIdx2": "774",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1351",
@@ -12156,7 +14856,9 @@ window.ability=[
           "abilityEffectDescription": "行動するたびに攻撃力が30%アップする（最大4回まで）",
           "effectIdx1": "1416",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1352",
@@ -12165,7 +14867,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラが80％以上の時スキルダメージが50％アップする",
           "effectIdx1": "33704",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1353",
@@ -12174,7 +14878,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と素早さが30％アップ、防御力が20％アップ",
           "effectIdx1": "182",
           "effectIdx2": "183",
-          "effectIdx3": "12019"
+          "effectIdx3": "12019",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1354",
@@ -12183,7 +14889,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラが80％以上の時スキルダメージが60％アップする",
           "effectIdx1": "33705",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1355",
@@ -12192,7 +14900,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と素早さが40％アップ、防御力が30％アップ",
           "effectIdx1": "11039",
           "effectIdx2": "13039",
-          "effectIdx3": "12029"
+          "effectIdx3": "12029",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1356",
@@ -12201,7 +14911,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラが70％以上の時スキルダメージが60％アップする",
           "effectIdx1": "33605",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1357",
@@ -12210,7 +14922,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と素早さが50％アップ、防御力が40％アップ",
           "effectIdx1": "11049",
           "effectIdx2": "13049",
-          "effectIdx3": "12039"
+          "effectIdx3": "12039",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1358",
@@ -12219,7 +14933,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラが70％以上の時スキルダメージが70％アップする",
           "effectIdx1": "33606",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1359",
@@ -12228,7 +14944,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と素早さが60％アップ、防御力が50％アップ",
           "effectIdx1": "11059",
           "effectIdx2": "13059",
-          "effectIdx3": "12049"
+          "effectIdx3": "12049",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1360",
@@ -12237,7 +14955,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラが50％以上の時スキルダメージが70％アップする",
           "effectIdx1": "33406",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1361",
@@ -12246,7 +14966,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と素早さが70％アップ、防御力が60％アップ",
           "effectIdx1": "11069",
           "effectIdx2": "13069",
-          "effectIdx3": "12059"
+          "effectIdx3": "12059",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1362",
@@ -12255,7 +14977,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラが50％以上の時チャクラ消費量が20％ダウンしスキルダメージが100％アップする",
           "effectIdx1": "1425",
           "effectIdx2": "33409",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1363",
@@ -12264,7 +14988,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と素早さが100％アップ、防御力が70％アップ",
           "effectIdx1": "11099",
           "effectIdx2": "13099",
-          "effectIdx3": "12069"
+          "effectIdx3": "12069",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1364",
@@ -12273,7 +14999,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量が50アップし、最大HPが100%アップする",
           "effectIdx1": "689",
           "effectIdx2": "684",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1365",
@@ -12282,7 +15010,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラMAX時、攻撃力とスキルダメージが150％アップする",
           "effectIdx1": "1426",
           "effectIdx2": "1232",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1366",
@@ -12291,7 +15021,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量が120アップし、最大HPが150%アップする",
           "effectIdx1": "20011",
           "effectIdx2": "1212",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1367",
@@ -12300,7 +15032,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラ50%以上の時、攻撃力とスキルダメージが200％アップする",
           "effectIdx1": "1427",
           "effectIdx2": "33419",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1368",
@@ -12309,7 +15043,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量が50アップし、最大HPが100%アップする",
           "effectIdx1": "689",
           "effectIdx2": "684",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1369",
@@ -12318,7 +15054,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラMAX時、攻撃力とスキルダメージが150％アップする",
           "effectIdx1": "1426",
           "effectIdx2": "1232",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1370",
@@ -12327,7 +15065,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量が120アップし、最大HPが150%アップする",
           "effectIdx1": "20011",
           "effectIdx2": "1212",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1371",
@@ -12336,7 +15076,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラ50%以上の時、攻撃力とスキルダメージが200％アップする",
           "effectIdx1": "1427",
           "effectIdx2": "33419",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1372",
@@ -12345,7 +15087,9 @@ window.ability=[
           "abilityEffectDescription": "素早さとスキルダメージが100%アップする",
           "effectIdx1": "13099",
           "effectIdx2": "774",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1373",
@@ -12354,7 +15098,9 @@ window.ability=[
           "abilityEffectDescription": "行動後にHPとチャクラが10%回復する",
           "effectIdx1": "52",
           "effectIdx2": "53",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1374",
@@ -12363,7 +15109,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量が50アップし、行動後HPが20%回復する",
           "effectIdx1": "20004",
           "effectIdx2": "628",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1375",
@@ -12372,7 +15120,9 @@ window.ability=[
           "abilityEffectDescription": "素早さが100%アップし、確率でスキルを回避する",
           "effectIdx1": "13099",
           "effectIdx2": "1423",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1376",
@@ -12381,7 +15131,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが70％アップし、攻撃を受けた時に確率でHPが20%回復する",
           "effectIdx1": "652",
           "effectIdx2": "1450",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1377",
@@ -12390,7 +15142,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力とスキルダメージが100%アップする",
           "effectIdx1": "11099",
           "effectIdx2": "774",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1378",
@@ -12399,7 +15153,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが100%アップし、攻撃を受けた時に高確率でHPが30%回復する",
           "effectIdx1": "774",
           "effectIdx2": "1451",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1379",
@@ -12408,7 +15164,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラが50アップし、攻撃力とスキルダメージが120%アップする",
           "effectIdx1": "689",
           "effectIdx2": "736",
-          "effectIdx3": "30011"
+          "effectIdx3": "30011",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1380",
@@ -12417,7 +15175,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPを100%アップし、3回行動するまで全スキルダメージを無効化する",
           "effectIdx1": "684",
           "effectIdx2": "990",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1381",
@@ -12426,7 +15186,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPとスキルダメージが80%アップする",
           "effectIdx1": "649",
           "effectIdx2": "694",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1382",
@@ -12435,7 +15197,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPを120%アップし、3回行動するまで全スキルダメージを無効化する",
           "effectIdx1": "1221",
           "effectIdx2": "990",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1383",
@@ -12444,7 +15208,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPとスキルダメージが100%アップする",
           "effectIdx1": "684",
           "effectIdx2": "774",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1384",
@@ -12453,7 +15219,9 @@ window.ability=[
           "abilityEffectDescription": "確率でスキルを回避し、行動するたびに素早さが10%アップする（最大5回まで）",
           "effectIdx1": "1423",
           "effectIdx2": "1436",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1385",
@@ -12462,7 +15230,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPとスキルダメージが100%アップする",
           "effectIdx1": "684",
           "effectIdx2": "774",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1386",
@@ -12471,7 +15241,9 @@ window.ability=[
           "abilityEffectDescription": "高確率でスキルを回避し、行動するたびに素早さが20%アップする（最大5回まで）",
           "effectIdx1": "968",
           "effectIdx2": "1437",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1387",
@@ -12480,7 +15252,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPとスキルダメージが120%アップする",
           "effectIdx1": "1221",
           "effectIdx2": "30011",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1388",
@@ -12489,7 +15263,9 @@ window.ability=[
           "abilityEffectDescription": "行動するたびに攻撃力と素早さが20%アップする（最大5回まで）",
           "effectIdx1": "1438",
           "effectIdx2": "1437",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1389",
@@ -12498,7 +15274,9 @@ window.ability=[
           "abilityEffectDescription": "素早さとスキルダメージが100%アップする",
           "effectIdx1": "13099",
           "effectIdx2": "774",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1390",
@@ -12507,7 +15285,9 @@ window.ability=[
           "abilityEffectDescription": "行動するたびに攻撃力と素早さが30%アップする（最大4回まで）",
           "effectIdx1": "1439",
           "effectIdx2": "1440",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1391",
@@ -12516,7 +15296,9 @@ window.ability=[
           "abilityEffectDescription": "素早さとスキルダメージが150%アップする",
           "effectIdx1": "967",
           "effectIdx2": "794",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1392",
@@ -12525,7 +15307,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPを100%アップし、行動後にHPとチャクラを10%回復する",
           "effectIdx1": "684",
           "effectIdx2": "52",
-          "effectIdx3": "53"
+          "effectIdx3": "53",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1393",
@@ -12534,7 +15318,9 @@ window.ability=[
           "abilityEffectDescription": "素早さとスキルダメージが100%アップする",
           "effectIdx1": "13099",
           "effectIdx2": "774",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1394",
@@ -12543,7 +15329,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPを120%アップし、行動後にHPとチャクラを20%回復する",
           "effectIdx1": "1221",
           "effectIdx2": "628",
-          "effectIdx3": "583"
+          "effectIdx3": "583",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1395",
@@ -12552,7 +15340,9 @@ window.ability=[
           "abilityEffectDescription": "素早さとスキルダメージが120%アップする",
           "effectIdx1": "1335",
           "effectIdx2": "30011",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1396",
@@ -12561,7 +15351,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量が50アップし、最大HPが100%アップする",
           "effectIdx1": "689",
           "effectIdx2": "684",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1397",
@@ -12570,7 +15362,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラMAX時、攻撃力とスキルダメージが150％アップする",
           "effectIdx1": "1426",
           "effectIdx2": "1232",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1398",
@@ -12579,7 +15373,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量が90アップし、最大HPが150%アップする",
           "effectIdx1": "20008",
           "effectIdx2": "1212",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1399",
@@ -12588,7 +15384,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラ50%以上の時、攻撃力とスキルダメージが200％アップする",
           "effectIdx1": "1427",
           "effectIdx2": "33419",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1400",
@@ -12597,7 +15395,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量が50アップし、最大HPが100%アップする",
           "effectIdx1": "689",
           "effectIdx2": "684",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1401",
@@ -12606,7 +15406,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラMAX時、攻撃力とスキルダメージが150％アップする",
           "effectIdx1": "1426",
           "effectIdx2": "1232",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1402",
@@ -12615,7 +15417,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量が90アップし、最大HPが150%アップする",
           "effectIdx1": "20008",
           "effectIdx2": "1212",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1403",
@@ -12624,7 +15428,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラ50%以上の時、攻撃力とスキルダメージが200％アップする",
           "effectIdx1": "1427",
           "effectIdx2": "33419",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1404",
@@ -12633,7 +15439,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラが50アップし、最大HPと防御力が80%アップする",
           "effectIdx1": "689",
           "effectIdx2": "649",
-          "effectIdx3": "12079"
+          "effectIdx3": "12079",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1405",
@@ -12642,7 +15450,9 @@ window.ability=[
           "abilityEffectDescription": "HPが50%以上の時、スキルダメージが100%アップする",
           "effectIdx1": "31409",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1406",
@@ -12651,7 +15461,9 @@ window.ability=[
           "abilityEffectDescription": "素早さが100%アップし、確率でスキルを回避する",
           "effectIdx1": "253",
           "effectIdx2": "1423",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1407",
@@ -12660,7 +15472,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが80%アップし、行動後チャクラが10%回復する",
           "effectIdx1": "649",
           "effectIdx2": "528",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1408",
@@ -12669,7 +15483,9 @@ window.ability=[
           "abilityEffectDescription": "素早さが80%アップし、確率でスキルを回避する",
           "effectIdx1": "13079",
           "effectIdx2": "1423",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1409",
@@ -12678,7 +15494,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが100%アップし、行動後HPが10%回復する",
           "effectIdx1": "684",
           "effectIdx2": "357",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1410",
@@ -12687,7 +15505,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と防御力と素早さが150%アップする",
           "effectIdx1": "1268",
           "effectIdx2": "1459",
-          "effectIdx3": "967"
+          "effectIdx3": "967",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1411",
@@ -12696,7 +15516,9 @@ window.ability=[
           "abilityEffectDescription": "会心率が100%アップ、会心力が500%アップし、弱体と状態異常を無効化する",
           "effectIdx1": "1456",
           "effectIdx2": "1121",
-          "effectIdx3": "880"
+          "effectIdx3": "880",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1412",
@@ -12705,7 +15527,9 @@ window.ability=[
           "abilityEffectDescription": "行動するたびに攻撃力が20%アップする（最大8回まで）",
           "effectIdx1": "1461",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1413",
@@ -12714,7 +15538,9 @@ window.ability=[
           "abilityEffectDescription": "HPが70%以下の時、スキルダメージが300%アップする",
           "effectIdx1": "1464",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1414",
@@ -12723,7 +15549,9 @@ window.ability=[
           "abilityEffectDescription": "行動するたびに攻撃力と素早さが30%アップする（最大8回まで）",
           "effectIdx1": "1462",
           "effectIdx2": "1463",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1415",
@@ -12732,7 +15560,9 @@ window.ability=[
           "abilityEffectDescription": "HPが50%以下の時、スキルダメージが500%アップする",
           "effectIdx1": "1465",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1416",
@@ -12741,7 +15571,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラが30アップし、攻撃力と素早さが70％アップする",
           "effectIdx1": "20002",
           "effectIdx2": "11069",
-          "effectIdx3": "13069"
+          "effectIdx3": "13069",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1417",
@@ -12750,7 +15582,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが70％アップ、行動後にチャクラが10％回復する",
           "effectIdx1": "652",
           "effectIdx2": "528",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1418",
@@ -12759,7 +15593,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラが50アップし、攻撃力と素早さが100％アップする",
           "effectIdx1": "20004",
           "effectIdx2": "11099",
-          "effectIdx3": "13099"
+          "effectIdx3": "13099",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1419",
@@ -12768,7 +15604,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが100％アップ、行動後にチャクラが20％回復する",
           "effectIdx1": "774",
           "effectIdx2": "583",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1420",
@@ -12777,7 +15615,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラが30アップし、最大HPと攻撃力が70％アップする",
           "effectIdx1": "20002",
           "effectIdx2": "10069",
-          "effectIdx3": "11069"
+          "effectIdx3": "11069",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1421",
@@ -12786,7 +15626,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが70％アップ、行動後にチャクラが10％回復する",
           "effectIdx1": "652",
           "effectIdx2": "528",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1422",
@@ -12795,7 +15637,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラが50アップし、最大HPと攻撃力が100％アップする",
           "effectIdx1": "20004",
           "effectIdx2": "684",
-          "effectIdx3": "11099"
+          "effectIdx3": "11099",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1423",
@@ -12804,7 +15648,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが100％アップ、行動後にチャクラが20％回復する",
           "effectIdx1": "774",
           "effectIdx2": "583",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1424",
@@ -12813,7 +15659,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラが30アップし、攻撃力と防御力が70％アップする",
           "effectIdx1": "20002",
           "effectIdx2": "11069",
-          "effectIdx3": "12069"
+          "effectIdx3": "12069",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1425",
@@ -12822,7 +15670,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが70％アップ、行動後にチャクラが10％回復する",
           "effectIdx1": "652",
           "effectIdx2": "528",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1426",
@@ -12831,7 +15681,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラが50アップし、攻撃力と防御力が100％アップする",
           "effectIdx1": "20004",
           "effectIdx2": "11099",
-          "effectIdx3": "12099"
+          "effectIdx3": "12099",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1427",
@@ -12840,7 +15692,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが100％アップ、行動後にチャクラが20％回復する",
           "effectIdx1": "774",
           "effectIdx2": "583",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1428",
@@ -12849,7 +15703,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力が40%アップし、2回行動するまでスキル発動速度が1段階アップする",
           "effectIdx1": "11039",
           "effectIdx2": "1379",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1429",
@@ -12858,7 +15714,9 @@ window.ability=[
           "abilityEffectDescription": "HPが80%以上の時、攻撃力とスキルダメージが70%アップする",
           "effectIdx1": "763",
           "effectIdx2": "31706",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1430",
@@ -12867,7 +15725,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力が80%アップし、4回行動するまでスキル発動速度が1段階アップする",
           "effectIdx1": "11079",
           "effectIdx2": "1447",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1431",
@@ -12876,7 +15736,9 @@ window.ability=[
           "abilityEffectDescription": "HPが50%以上の時、攻撃力とスキルダメージを100％アップする",
           "effectIdx1": "1019",
           "effectIdx2": "31409",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1432",
@@ -12885,7 +15747,9 @@ window.ability=[
           "abilityEffectDescription": "最大HP・攻撃・防御が40%アップする",
           "effectIdx1": "10039",
           "effectIdx2": "12039",
-          "effectIdx3": "11039"
+          "effectIdx3": "11039",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1433",
@@ -12894,7 +15758,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラ消費量が10%ダウンし、状態異常にかかる確率を半減する",
           "effectIdx1": "712",
           "effectIdx2": "792",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1434",
@@ -12903,7 +15769,9 @@ window.ability=[
           "abilityEffectDescription": "最大HP・攻撃・防御が80%アップする",
           "effectIdx1": "649",
           "effectIdx2": "12079",
-          "effectIdx3": "11079"
+          "effectIdx3": "11079",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1435",
@@ -12912,7 +15780,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラ消費量が20%ダウンし、状態異常を無効化する",
           "effectIdx1": "860",
           "effectIdx2": "82",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1436",
@@ -12921,7 +15791,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPを80%アップする",
           "effectIdx1": "649",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1437",
@@ -12930,7 +15802,9 @@ window.ability=[
           "abilityEffectDescription": "HPが80%以上の時、攻撃力と防御力とスキルダメージを70％アップする",
           "effectIdx1": "763",
           "effectIdx2": "1454",
-          "effectIdx3": "31706"
+          "effectIdx3": "31706",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1438",
@@ -12939,7 +15813,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPを100%アップし、行動後チャクラが10%回復する",
           "effectIdx1": "684",
           "effectIdx2": "53",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1439",
@@ -12948,7 +15824,9 @@ window.ability=[
           "abilityEffectDescription": "HPが50%以上の時、攻撃力と防御力とスキルダメージを100％アップする",
           "effectIdx1": "1019",
           "effectIdx2": "1134",
-          "effectIdx3": "31409"
+          "effectIdx3": "31409",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1440",
@@ -12957,7 +15835,9 @@ window.ability=[
           "abilityEffectDescription": "バトル開始時チャクラが50%回復し、スキルダメージが100%アップする",
           "effectIdx1": "1115",
           "effectIdx2": "774",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1441",
@@ -12966,7 +15846,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが100%アップし、行動するたびに攻撃力と素早さが30%アップする（最大3回まで）",
           "effectIdx1": "684",
           "effectIdx2": "841",
-          "effectIdx3": "1471"
+          "effectIdx3": "1471",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1442",
@@ -12975,7 +15857,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが100％アップし状態異常を無効化する",
           "effectIdx1": "774",
           "effectIdx2": "82",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1443",
@@ -12984,7 +15868,9 @@ window.ability=[
           "abilityEffectDescription": "行動後に高確率で再行動できる※再行動後にさらに行動はできない",
           "effectIdx1": "769",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1444",
@@ -12993,7 +15879,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力が70%アップし、雷遁・水遁・固有・嵐遁タイプのダメージを軽減する",
           "effectIdx1": "11069",
           "effectIdx2": "1476",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1445",
@@ -13002,7 +15890,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPとスキルダメージが80%アップする",
           "effectIdx1": "649",
           "effectIdx2": "694",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1446",
@@ -13011,7 +15901,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラが50アップし、9回行動するまでスキル発動速度を1段階アップする",
           "effectIdx1": "1336",
           "effectIdx2": "689",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1447",
@@ -13020,7 +15912,9 @@ window.ability=[
           "abilityEffectDescription": "HPが50%以上の時、攻撃力とスキルダメージが50%アップする",
           "effectIdx1": "31404",
           "effectIdx2": "1482",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1448",
@@ -13029,7 +15923,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラが100アップし、スキル発動速度を1段階アップする",
           "effectIdx1": "21000",
           "effectIdx2": "20009",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1449",
@@ -13038,7 +15934,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力とスキルダメージが100%アップする",
           "effectIdx1": "264",
           "effectIdx2": "774",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1450",
@@ -13047,7 +15945,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラが50アップし、9回行動するまでスキル発動速度を1段階アップする",
           "effectIdx1": "1336",
           "effectIdx2": "689",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1451",
@@ -13056,7 +15956,9 @@ window.ability=[
           "abilityEffectDescription": "HPが50%以上の時、攻撃力とスキルダメージが50%アップする",
           "effectIdx1": "31404",
           "effectIdx2": "1482",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1452",
@@ -13065,7 +15967,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラが100アップし、スキル発動速度を1段階アップする",
           "effectIdx1": "21000",
           "effectIdx2": "20009",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1453",
@@ -13074,7 +15978,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力とスキルダメージが100%アップする",
           "effectIdx1": "264",
           "effectIdx2": "774",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1456",
@@ -13083,7 +15989,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが80%アップし、弱体を無効化する",
           "effectIdx1": "649",
           "effectIdx2": "788",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1457",
@@ -13092,7 +16000,9 @@ window.ability=[
           "abilityEffectDescription": "行動後、確率で自身のスキル発動速度が1段階アップする",
           "effectIdx1": "1457",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1458",
@@ -13101,7 +16011,9 @@ window.ability=[
           "abilityEffectDescription": "3回行動するまでチャクラ消費量が半減、3回行動後からチャクラ消費量が30%減少する",
           "effectIdx1": "359",
           "effectIdx2": "1481",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1459",
@@ -13110,7 +16022,9 @@ window.ability=[
           "abilityEffectDescription": "低確率でスキルを回避し、HPが70%以上の時にスキルダメージが80%アップする",
           "effectIdx1": "27",
           "effectIdx2": "31607",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1460",
@@ -13119,7 +16033,9 @@ window.ability=[
           "abilityEffectDescription": "5回行動するまで全スキルダメージを軽減し、5回行動後からスキルダメージが100%アップする",
           "effectIdx1": "281",
           "effectIdx2": "1485",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1461",
@@ -13128,7 +16044,9 @@ window.ability=[
           "abilityEffectDescription": "味方の木ノ葉所属の人数に応じて攻撃・防御・素早さが20%アップ",
           "effectIdx1": "687",
           "effectIdx2": "1105",
-          "effectIdx3": "1106"
+          "effectIdx3": "1106",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1462",
@@ -13137,7 +16055,9 @@ window.ability=[
           "abilityEffectDescription": "素早さを50%アップし、行動後に確率で再行動できる※再行動後にさらに行動はできない",
           "effectIdx1": "13049",
           "effectIdx2": "439",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1463",
@@ -13146,7 +16066,9 @@ window.ability=[
           "abilityEffectDescription": "状態異常を無効化し、最大HPを80%アップする",
           "effectIdx1": "82",
           "effectIdx2": "649",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1464",
@@ -13155,7 +16077,9 @@ window.ability=[
           "abilityEffectDescription": "素早さとスキルダメージが50%アップする",
           "effectIdx1": "13049",
           "effectIdx2": "682",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1465",
@@ -13164,7 +16088,9 @@ window.ability=[
           "abilityEffectDescription": "行動するたびに攻撃力が20%アップする（最大4回まで）",
           "effectIdx1": "568",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1466",
@@ -13173,7 +16099,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPを50%アップし、弱体にかかる確率を半減する",
           "effectIdx1": "10049",
           "effectIdx2": "745",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1467",
@@ -13182,7 +16110,9 @@ window.ability=[
           "abilityEffectDescription": "素早さと攻撃力を50%アップする",
           "effectIdx1": "13049",
           "effectIdx2": "11049",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1468",
@@ -13191,7 +16121,9 @@ window.ability=[
           "abilityEffectDescription": "最大HP80%アップ、全てのスキルダメージを軽減、HPが80%以上の時、チャクラ消費量が30%減少する",
           "effectIdx1": "649",
           "effectIdx2": "20500",
-          "effectIdx3": "1393"
+          "effectIdx3": "1393",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1469",
@@ -13200,7 +16132,9 @@ window.ability=[
           "abilityEffectDescription": "時空間タイプのダメージ100%アップし、弱体・状態異常にかかる確率を半減する",
           "effectIdx1": "1503",
           "effectIdx2": "776",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1470",
@@ -13209,7 +16143,9 @@ window.ability=[
           "abilityEffectDescription": "最大HP120%アップ、全てのスキルダメージを半減、HPが50%以上の時、チャクラ消費量が半減する",
           "effectIdx1": "1221",
           "effectIdx2": "20501",
-          "effectIdx3": "1050"
+          "effectIdx3": "1050",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1471",
@@ -13218,7 +16154,9 @@ window.ability=[
           "abilityEffectDescription": "時空間タイプのダメージ150%アップし、弱体・状態異常を無効化する",
           "effectIdx1": "1504",
           "effectIdx2": "880",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1474",
@@ -13227,7 +16165,9 @@ window.ability=[
           "abilityEffectDescription": "写輪眼タイプのスキルダメージを200%アップし、高確率でスキルを回避する",
           "effectIdx1": "1500",
           "effectIdx2": "968",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1475",
@@ -13236,7 +16176,9 @@ window.ability=[
           "abilityEffectDescription": "班の木ノ葉隠れの里所属1体につき、攻撃力・防御力・素早さが40%アップ（自身含む）",
           "effectIdx1": "1254",
           "effectIdx2": "1256",
-          "effectIdx3": "1255"
+          "effectIdx3": "1255",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1476",
@@ -13245,7 +16187,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と体術タイプのスキルダメージを120%アップする",
           "effectIdx1": "736",
           "effectIdx2": "1501",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1477",
@@ -13254,7 +16198,9 @@ window.ability=[
           "abilityEffectDescription": "HP90%以下で高確率でスキルを回避する",
           "effectIdx1": "1502",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1478",
@@ -13263,7 +16209,9 @@ window.ability=[
           "abilityEffectDescription": "行動後および攻撃を受けた時にHPが20%回復する",
           "effectIdx1": "628",
           "effectIdx2": "1496",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1479",
@@ -13272,7 +16220,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが100％アップし、HP0以下で2度までHPが全回復する",
           "effectIdx1": "774",
           "effectIdx2": "1057",
-          "effectIdx3": "874"
+          "effectIdx3": "874",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1480",
@@ -13281,7 +16231,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが100%アップし、行動後にHPが10%回復する",
           "effectIdx1": "684",
           "effectIdx2": "52",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1481",
@@ -13290,7 +16242,9 @@ window.ability=[
           "abilityEffectDescription": "HP50%以上の時に攻撃・防御・素早さとスキルダメージが120%アップする",
           "effectIdx1": "1497",
           "effectIdx2": "31411",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1482",
@@ -13299,7 +16253,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと素早さが50%アップ",
           "effectIdx1": "10049",
           "effectIdx2": "13049",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1483",
@@ -13308,7 +16264,9 @@ window.ability=[
           "abilityEffectDescription": "状態異常を半減し、行動後に低確率でスキル発動速度が1段階アップする",
           "effectIdx1": "792",
           "effectIdx2": "1457",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1484",
@@ -13317,7 +16275,9 @@ window.ability=[
           "abilityEffectDescription": "HPが80%以上の時に攻撃力とスキルダメージが80%アップする",
           "effectIdx1": "756",
           "effectIdx2": "1505",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1485",
@@ -13326,7 +16286,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが70%アップし、3回行動するまでチャクラ消費量が半減する",
           "effectIdx1": "10069",
           "effectIdx2": "359",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1486",
@@ -13335,7 +16297,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量を250アップし、状態異常を無効化する",
           "effectIdx1": "20044",
           "effectIdx2": "82",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1487",
@@ -13344,7 +16308,9 @@ window.ability=[
           "abilityEffectDescription": "HPが0以下で5回までHPが全回復する",
           "effectIdx1": "874",
           "effectIdx2": "1512",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1496",
@@ -13353,7 +16319,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPとスキルダメージが80%アップする",
           "effectIdx1": "649",
           "effectIdx2": "694",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1497",
@@ -13362,7 +16330,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラが50アップ、行動後にチャクラが5%回復する",
           "effectIdx1": "20004",
           "effectIdx2": "446",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1498",
@@ -13371,7 +16341,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPとスキルダメージが100%アップする",
           "effectIdx1": "684",
           "effectIdx2": "774",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1499",
@@ -13380,7 +16352,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラが100アップ、行動後にチャクラが10%回復する",
           "effectIdx1": "813",
           "effectIdx2": "528",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1500",
@@ -13389,7 +16363,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと攻撃力とスキルダメージが50%アップする",
           "effectIdx1": "10049",
           "effectIdx2": "11049",
-          "effectIdx3": "682"
+          "effectIdx3": "682",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1501",
@@ -13398,7 +16374,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラが20アップ、行動後にチャクラが5%回復する",
           "effectIdx1": "20001",
           "effectIdx2": "446",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1502",
@@ -13407,7 +16385,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと攻撃力とスキルダメージが100%アップする",
           "effectIdx1": "684",
           "effectIdx2": "11099",
-          "effectIdx3": "774"
+          "effectIdx3": "774",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1503",
@@ -13416,7 +16396,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラが50アップ、行動後にチャクラが10%回復する",
           "effectIdx1": "689",
           "effectIdx2": "528",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1504",
@@ -13425,7 +16407,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPとスキルダメージが80%アップする",
           "effectIdx1": "649",
           "effectIdx2": "694",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1505",
@@ -13434,7 +16418,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラが50アップ、行動後にチャクラが5%回復する",
           "effectIdx1": "20004",
           "effectIdx2": "446",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1506",
@@ -13443,7 +16429,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPとスキルダメージが100%アップする",
           "effectIdx1": "684",
           "effectIdx2": "774",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1507",
@@ -13452,7 +16440,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラが100アップ、行動後にチャクラが10%回復する",
           "effectIdx1": "813",
           "effectIdx2": "528",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1508",
@@ -13461,7 +16451,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと攻撃力とスキルダメージが50%アップする",
           "effectIdx1": "10049",
           "effectIdx2": "11049",
-          "effectIdx3": "682"
+          "effectIdx3": "682",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1509",
@@ -13470,7 +16462,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラが20アップ、行動後にチャクラが5%回復する",
           "effectIdx1": "20001",
           "effectIdx2": "446",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1510",
@@ -13479,7 +16473,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと攻撃力とスキルダメージが100%アップする",
           "effectIdx1": "684",
           "effectIdx2": "11099",
-          "effectIdx3": "774"
+          "effectIdx3": "774",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1511",
@@ -13488,7 +16484,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラが50アップ、行動後にチャクラが10%回復する",
           "effectIdx1": "689",
           "effectIdx2": "528",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1520",
@@ -13497,7 +16495,9 @@ window.ability=[
           "abilityEffectDescription": "7回行動するまでスキルダメージが60%アップする",
           "effectIdx1": "30605",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1521",
@@ -13506,7 +16506,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが50%アップし、低確率でスキルを回避する",
           "effectIdx1": "680",
           "effectIdx2": "27",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1522",
@@ -13515,7 +16517,9 @@ window.ability=[
           "abilityEffectDescription": "10回行動するまでスキルダメージが100%アップする",
           "effectIdx1": "30909",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1523",
@@ -13524,7 +16528,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが100%アップし、低確率でスキルを回避する",
           "effectIdx1": "684",
           "effectIdx2": "27",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1526",
@@ -13533,7 +16539,9 @@ window.ability=[
           "abilityEffectDescription": "行動するたびに攻撃力と防御力が20％アップ（最大5回まで）",
           "effectIdx1": "1072",
           "effectIdx2": "1480",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1527",
@@ -13542,7 +16550,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが120％アップし、高確率でスキルを回避する",
           "effectIdx1": "30011",
           "effectIdx2": "968",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1530",
@@ -13551,7 +16561,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが120％アップするが、行動後に確率で自身のHPが15％減少",
           "effectIdx1": "30011",
           "effectIdx2": "1517",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1531",
@@ -13560,7 +16572,9 @@ window.ability=[
           "abilityEffectDescription": "班の\"暁\"のキャラ1体につき、攻撃力と防御力と素早さが30%アップする（自身含む）",
           "effectIdx1": "1004",
           "effectIdx2": "1217",
-          "effectIdx3": "1218"
+          "effectIdx3": "1218",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1532",
@@ -13569,7 +16583,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力が100%アップし、雷遁・水遁・固有・嵐遁タイプのダメージを半減する",
           "effectIdx1": "11099",
           "effectIdx2": "1477",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1533",
@@ -13578,7 +16594,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPとスキルダメージが100%アップする",
           "effectIdx1": "684",
           "effectIdx2": "774",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1540",
@@ -13587,7 +16605,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPを120%アップし、全スキルダメージを半減する",
           "effectIdx1": "1221",
           "effectIdx2": "20501",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1541",
@@ -13596,7 +16616,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と素早さとスキルダメージが100%アップする",
           "effectIdx1": "11099",
           "effectIdx2": "13099",
-          "effectIdx3": "774"
+          "effectIdx3": "774",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1542",
@@ -13605,7 +16627,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと攻撃力を100%アップし、行動後HP20%回復する",
           "effectIdx1": "684",
           "effectIdx2": "11099",
-          "effectIdx3": "628"
+          "effectIdx3": "628",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1543",
@@ -13614,7 +16638,9 @@ window.ability=[
           "abilityEffectDescription": "弱体を無効化し、さらに6回行動するまで全スキルダメージを無効化する",
           "effectIdx1": "64",
           "effectIdx2": "1490",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1544",
@@ -13623,7 +16649,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが100%アップし、弱体と状態異常を無効化",
           "effectIdx1": "684",
           "effectIdx2": "64",
-          "effectIdx3": "82"
+          "effectIdx3": "82",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1545",
@@ -13632,7 +16660,9 @@ window.ability=[
           "abilityEffectDescription": "味方の木ノ葉所属の人数に応じて素早さが30%アップする",
           "effectIdx1": "1226",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1546",
@@ -13641,7 +16671,9 @@ window.ability=[
           "abilityEffectDescription": "行動毎に攻撃力と素早さが30%アップする(最大4回）",
           "effectIdx1": "1416",
           "effectIdx2": "1440",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1547",
@@ -13650,7 +16682,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージを120%アップする",
           "effectIdx1": "30011",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1548",
@@ -13659,7 +16693,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと素早さとスキルダメージを120%アップする",
           "effectIdx1": "1221",
           "effectIdx2": "1335",
-          "effectIdx3": "30011"
+          "effectIdx3": "30011",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1549",
@@ -13668,7 +16704,9 @@ window.ability=[
           "abilityEffectDescription": "高確率でスキルを回避する",
           "effectIdx1": "734",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1550",
@@ -13677,7 +16715,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと武器スキルダメージを100%アップする",
           "effectIdx1": "684",
           "effectIdx2": "774",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1551",
@@ -13686,7 +16726,9 @@ window.ability=[
           "abilityEffectDescription": "9回行動するまでスキル発動速度を1段階アップする",
           "effectIdx1": "1336",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1552",
@@ -13695,7 +16737,9 @@ window.ability=[
           "abilityEffectDescription": "5回行動するまで全スキルダメージを半減し、5回行動後からスキルダメージが150%アップする",
           "effectIdx1": "1487",
           "effectIdx2": "1486",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1553",
@@ -13704,7 +16748,9 @@ window.ability=[
           "abilityEffectDescription": "味方の木ノ葉所属の人数に応じて攻撃・防御・素早さが40%アップ",
           "effectIdx1": "1254",
           "effectIdx2": "1256",
-          "effectIdx3": "1255"
+          "effectIdx3": "1255",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1554",
@@ -13713,7 +16759,9 @@ window.ability=[
           "abilityEffectDescription": "素早さを80%アップし、行動後に高確率で再行動できる※再行動後にさらに行動はできない",
           "effectIdx1": "13079",
           "effectIdx2": "769",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1555",
@@ -13722,7 +16770,9 @@ window.ability=[
           "abilityEffectDescription": "状態異常を無効化し、最大HPを120%アップする",
           "effectIdx1": "82",
           "effectIdx2": "1221",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1556",
@@ -13731,7 +16781,9 @@ window.ability=[
           "abilityEffectDescription": "素早さとスキルダメージが80%アップする",
           "effectIdx1": "13079",
           "effectIdx2": "694",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1557",
@@ -13740,7 +16792,9 @@ window.ability=[
           "abilityEffectDescription": "行動するたびに攻撃力が30%アップする（最大4回まで）",
           "effectIdx1": "1416",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1558",
@@ -13749,7 +16803,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPを120%アップし、弱体を無効化する",
           "effectIdx1": "1221",
           "effectIdx2": "64",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1559",
@@ -13758,7 +16814,9 @@ window.ability=[
           "abilityEffectDescription": "素早さと攻撃力を80%アップする",
           "effectIdx1": "13079",
           "effectIdx2": "11079",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1560",
@@ -13767,7 +16825,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと素早さが100%アップ",
           "effectIdx1": "684",
           "effectIdx2": "13099",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1561",
@@ -13776,7 +16836,9 @@ window.ability=[
           "abilityEffectDescription": "状態異常を無効化し、行動後に低確率でスキル発動速度が1段階アップする",
           "effectIdx1": "82",
           "effectIdx2": "1457",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1562",
@@ -13785,7 +16847,9 @@ window.ability=[
           "abilityEffectDescription": "HPが50%以上の時に攻撃力とスキルダメージが100%アップする",
           "effectIdx1": "1507",
           "effectIdx2": "1506",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1563",
@@ -13794,7 +16858,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが100%アップし、3回行動するまでチャクラ消費量が80%減少する",
           "effectIdx1": "684",
           "effectIdx2": "1508",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1564",
@@ -13803,7 +16869,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが70％アップし、弱体を半減する",
           "effectIdx1": "10069",
           "effectIdx2": "745",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1565",
@@ -13812,7 +16880,9 @@ window.ability=[
           "abilityEffectDescription": "行動後、低確率でスキル発動速度が1段階アップする",
           "effectIdx1": "1519",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1566",
@@ -13821,7 +16891,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが100％アップし、弱体を無効化する",
           "effectIdx1": "684",
           "effectIdx2": "64",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1567",
@@ -13830,7 +16902,9 @@ window.ability=[
           "abilityEffectDescription": "行動後、確率でスキル発動速度が1段階アップする",
           "effectIdx1": "1520",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1568",
@@ -13839,7 +16913,9 @@ window.ability=[
           "abilityEffectDescription": "HP80％以上の時にスキルダメージが100％アップする",
           "effectIdx1": "31709",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1569",
@@ -13848,7 +16924,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが70％アップし、攻撃を受けた時にHPが5％回復する",
           "effectIdx1": "10069",
           "effectIdx2": "727",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1570",
@@ -13857,7 +16935,9 @@ window.ability=[
           "abilityEffectDescription": "HP50％以上の時にスキルダメージが150％アップする",
           "effectIdx1": "31414",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1571",
@@ -13866,7 +16946,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが100％アップし、攻撃を受けた時にHPが10％回復する",
           "effectIdx1": "684",
           "effectIdx2": "191",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1572",
@@ -13875,7 +16957,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが90%アップし、確率でスキルを回避する",
           "effectIdx1": "10089",
           "effectIdx2": "1423",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1573",
@@ -13884,7 +16968,9 @@ window.ability=[
           "abilityEffectDescription": "HPが90%以上の時スキルダメージが90%アップする",
           "effectIdx1": "31808",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1574",
@@ -13893,7 +16979,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと攻撃力が90%アップし、確率でスキルを回避する",
           "effectIdx1": "10089",
           "effectIdx2": "11089",
-          "effectIdx3": "1423"
+          "effectIdx3": "1423",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1575",
@@ -13902,7 +16990,9 @@ window.ability=[
           "abilityEffectDescription": "HPが50%以上の時スキルダメージが120%アップする",
           "effectIdx1": "31411",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1576",
@@ -13911,7 +17001,9 @@ window.ability=[
           "abilityEffectDescription": "行動するたびに攻撃力が20%アップする。（最大5回まで）",
           "effectIdx1": "1072",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1577",
@@ -13920,7 +17012,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと攻撃力が50％アップし、チャクラ消費量が10％ダウンする",
           "effectIdx1": "680",
           "effectIdx2": "251",
-          "effectIdx3": "712"
+          "effectIdx3": "712",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1578",
@@ -13929,7 +17023,9 @@ window.ability=[
           "abilityEffectDescription": "行動するたびに攻撃力と防御力が20%アップする（最大4回まで）",
           "effectIdx1": "568",
           "effectIdx2": "994",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1579",
@@ -13938,7 +17034,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが50%アップし、スキルダメージが50%アップする",
           "effectIdx1": "680",
           "effectIdx2": "682",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1580",
@@ -13947,7 +17045,9 @@ window.ability=[
           "abilityEffectDescription": "行動するたびに攻撃力と防御力が30%アップする（最大4回まで）",
           "effectIdx1": "1416",
           "effectIdx2": "1528",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1581",
@@ -13956,7 +17056,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが100%アップし、スキルダメージが100%アップする",
           "effectIdx1": "684",
           "effectIdx2": "774",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1582",
@@ -13965,7 +17067,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラが30アップし、行動後チャクラが10％回復する",
           "effectIdx1": "20002",
           "effectIdx2": "528",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1583",
@@ -13974,7 +17078,9 @@ window.ability=[
           "abilityEffectDescription": "7回行動するまでスキルダメージが100％アップする",
           "effectIdx1": "30609",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1584",
@@ -13983,7 +17089,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラが50アップし、行動後チャクラが15％回復する",
           "effectIdx1": "20004",
           "effectIdx2": "957",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1585",
@@ -13992,7 +17100,9 @@ window.ability=[
           "abilityEffectDescription": "10回行動するまでスキルダメージが150％アップする",
           "effectIdx1": "30914",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1586",
@@ -14001,7 +17111,9 @@ window.ability=[
           "abilityEffectDescription": "HP80%以上の時、スキルダメージが100%アップする",
           "effectIdx1": "31709",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1587",
@@ -14010,7 +17122,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと攻撃力と防御力が70%アップする",
           "effectIdx1": "10069",
           "effectIdx2": "11069",
-          "effectIdx3": "12069"
+          "effectIdx3": "12069",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1588",
@@ -14019,7 +17133,9 @@ window.ability=[
           "abilityEffectDescription": "状態異常を半減し、HPが50％以上の時にスキル発動速度1段階アップする",
           "effectIdx1": "792",
           "effectIdx2": "1329",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1589",
@@ -14028,7 +17144,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラが150アップし、スキルダメージが100%アップする",
           "effectIdx1": "20014",
           "effectIdx2": "774",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1590",
@@ -14037,7 +17155,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量が100アップ、スキルダメージが100％アップする",
           "effectIdx1": "20009",
           "effectIdx2": "774",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1591",
@@ -14046,7 +17166,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと攻撃力が100%アップする",
           "effectIdx1": "11099",
           "effectIdx2": "684",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1592",
@@ -14055,7 +17177,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量が100アップ、スキルダメージが100％アップする",
           "effectIdx1": "20009",
           "effectIdx2": "774",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1593",
@@ -14064,7 +17188,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力が100%アップ、素早さが60％アップする",
           "effectIdx1": "11099",
           "effectIdx2": "13059",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1594",
@@ -14073,7 +17199,9 @@ window.ability=[
           "abilityEffectDescription": "行動するたびに攻撃力が40%アップする（最大5回まで）",
           "effectIdx1": "1412",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1595",
@@ -14082,7 +17210,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと防御力が100％アップし、行動後にHPが20％回復する",
           "effectIdx1": "684",
           "effectIdx2": "12099",
-          "effectIdx3": "628"
+          "effectIdx3": "628",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1596",
@@ -14091,7 +17221,9 @@ window.ability=[
           "abilityEffectDescription": "行動するたびに素早さが20％アップ（最大3回まで）",
           "effectIdx1": "844",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1597",
@@ -14100,7 +17232,9 @@ window.ability=[
           "abilityEffectDescription": "自身のスキルダメージを100％アップし、確率でスキルを回避する",
           "effectIdx1": "774",
           "effectIdx2": "734",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1598",
@@ -14109,7 +17243,9 @@ window.ability=[
           "abilityEffectDescription": "行動するたびに素早さが20％アップ（最大5回まで）",
           "effectIdx1": "1437",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1599",
@@ -14118,7 +17254,9 @@ window.ability=[
           "abilityEffectDescription": "自身のスキルダメージを150％アップし、高確率でスキルを回避する",
           "effectIdx1": "794",
           "effectIdx2": "968",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1600",
@@ -14127,7 +17265,9 @@ window.ability=[
           "abilityEffectDescription": "1回行動するまでチャクラ消費量が0になりスキル発動速度が1段階アップ、素早さが50%アップする",
           "effectIdx1": "1378",
           "effectIdx2": "1539",
-          "effectIdx3": "1541"
+          "effectIdx3": "1541",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1601",
@@ -14136,7 +17276,9 @@ window.ability=[
           "abilityEffectDescription": "状態異常を半減し、行動ごとに素早さが20%アップする（最大3回まで）",
           "effectIdx1": "792",
           "effectIdx2": "844",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1602",
@@ -14145,7 +17287,9 @@ window.ability=[
           "abilityEffectDescription": "1回行動するまでチャクラ消費量が0になりスキル発動速度が2段階アップ、素早さが100%アップする",
           "effectIdx1": "1378",
           "effectIdx2": "1540",
-          "effectIdx3": "1542"
+          "effectIdx3": "1542",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1603",
@@ -14154,7 +17298,9 @@ window.ability=[
           "abilityEffectDescription": "状態異常を無効化し、行動ごとに素早さが20%アップする（最大5回まで）",
           "effectIdx1": "82",
           "effectIdx2": "1384",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1604",
@@ -14163,7 +17309,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量が50アップし、最大HPが100%アップする",
           "effectIdx1": "689",
           "effectIdx2": "684",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1605",
@@ -14172,7 +17320,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラMAX時、攻撃力とスキルダメージが150％アップする",
           "effectIdx1": "1426",
           "effectIdx2": "1232",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1606",
@@ -14181,7 +17331,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量が120アップし、最大HPが150%アップする",
           "effectIdx1": "20011",
           "effectIdx2": "1212",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1607",
@@ -14190,7 +17342,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラ50%以上の時、攻撃力とスキルダメージが200％アップする",
           "effectIdx1": "1427",
           "effectIdx2": "33419",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1608",
@@ -14199,7 +17353,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量が50アップし、最大HPが100%アップする",
           "effectIdx1": "689",
           "effectIdx2": "684",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1609",
@@ -14208,7 +17364,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラMAX時、攻撃力とスキルダメージが150％アップする",
           "effectIdx1": "1426",
           "effectIdx2": "1232",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1610",
@@ -14217,7 +17375,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量が120アップし、最大HPが150%アップする",
           "effectIdx1": "20011",
           "effectIdx2": "1212",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1611",
@@ -14226,7 +17386,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラ50%以上の時、攻撃力とスキルダメージが200％アップする",
           "effectIdx1": "1427",
           "effectIdx2": "33419",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1612",
@@ -14235,7 +17397,9 @@ window.ability=[
           "abilityEffectDescription": "状態異常を無効化し、行動後に高確率でチャクラが40%回復する",
           "effectIdx1": "82",
           "effectIdx2": "1534",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1613",
@@ -14244,7 +17408,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と防御力が100%アップし、スキル発動速度を1段階アップする",
           "effectIdx1": "11099",
           "effectIdx2": "12099",
-          "effectIdx3": "21000"
+          "effectIdx3": "21000",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1614",
@@ -14253,7 +17419,9 @@ window.ability=[
           "abilityEffectDescription": "3回行動するまでスキルダメージが200％アップ、3回行動後は素早さとスキルダメージ100％アップ",
           "effectIdx1": "1543",
           "effectIdx2": "1544",
-          "effectIdx3": "1545"
+          "effectIdx3": "1545",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1615",
@@ -14262,7 +17430,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと攻撃力が100％アップする",
           "effectIdx1": "684",
           "effectIdx2": "11099",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1616",
@@ -14271,7 +17441,9 @@ window.ability=[
           "abilityEffectDescription": "行動後にそれぞれ確率でHPとチャクラが100%回復する",
           "effectIdx1": "1546",
           "effectIdx2": "1547",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1617",
@@ -14280,7 +17452,9 @@ window.ability=[
           "abilityEffectDescription": "自身のスキルダメージが100%アップし、高確率でスキルを回避する",
           "effectIdx1": "774",
           "effectIdx2": "968",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1618",
@@ -14289,7 +17463,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量が100アップし、攻撃力とスキルダメージが100％アップする",
           "effectIdx1": "813",
           "effectIdx2": "774",
-          "effectIdx3": "11099"
+          "effectIdx3": "11099",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1619",
@@ -14298,7 +17474,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが120％アップし、行動後にHPが10％回復する",
           "effectIdx1": "1221",
           "effectIdx2": "357",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1620",
@@ -14307,7 +17485,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPとスキルダメージが100％アップし、スキル発動速度を1段階アップする",
           "effectIdx1": "684",
           "effectIdx2": "774",
-          "effectIdx3": "21000"
+          "effectIdx3": "21000",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1621",
@@ -14316,7 +17496,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラ回復量が20％アップし、10回行動するまで素早さ400％アップ",
           "effectIdx1": "805",
           "effectIdx2": "1551",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1622",
@@ -14325,7 +17507,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが120%アップし、HPが80%以上の時にスキルダメージ120%アップ",
           "effectIdx1": "1221",
           "effectIdx2": "31711",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1623",
@@ -14334,7 +17518,9 @@ window.ability=[
           "abilityEffectDescription": "HP回復スキルの基礎回復量50%アップ、HPが50%以下の時はさらに50%アップする",
           "effectIdx1": "322",
           "effectIdx2": "1037",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1624",
@@ -14343,7 +17529,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量が100アップし、攻撃力とスキルダメージが100％アップする",
           "effectIdx1": "813",
           "effectIdx2": "774",
-          "effectIdx3": "11099"
+          "effectIdx3": "11099",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1625",
@@ -14352,7 +17540,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが100％アップし、行動後にHPが15％回復する",
           "effectIdx1": "684",
           "effectIdx2": "735",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1626",
@@ -14361,7 +17551,9 @@ window.ability=[
           "abilityEffectDescription": "1回行動するまでスキル発動速度2段階アップ＆チャクラ消費量が0になる。2回目以降はスキルダメージ150％アップ",
           "effectIdx1": "1378",
           "effectIdx2": "1540",
-          "effectIdx3": "1567"
+          "effectIdx3": "1567",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1627",
@@ -14370,7 +17562,9 @@ window.ability=[
           "abilityEffectDescription": "班の無所属のキャラ1体につき攻撃力と防御力と素早さが25%アップ（自身含む）",
           "effectIdx1": "1568",
           "effectIdx2": "1569",
-          "effectIdx3": "1570"
+          "effectIdx3": "1570",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1629",
@@ -14379,7 +17573,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPとスキルダメージが100％アップし、確率でスキルを回避する",
           "effectIdx1": "774",
           "effectIdx2": "684",
-          "effectIdx3": "734"
+          "effectIdx3": "734",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1630",
@@ -14388,7 +17584,9 @@ window.ability=[
           "abilityEffectDescription": "3回行動するまで全ダメージを半減＆状態異常と弱体を無効化する",
           "effectIdx1": "1571",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1631",
@@ -14397,7 +17595,9 @@ window.ability=[
           "abilityEffectDescription": "自身の攻撃力とスキルダメージが100％アップし、行動後にチャクラが10％回復する",
           "effectIdx1": "11099",
           "effectIdx2": "774",
-          "effectIdx3": "528"
+          "effectIdx3": "528",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1632",
@@ -14406,7 +17606,9 @@ window.ability=[
           "abilityEffectDescription": "防御力が150％アップし、行動後、確率でスキル発動速度が1段階アップする",
           "effectIdx1": "1520",
           "effectIdx2": "1459",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1633",
@@ -14415,7 +17617,9 @@ window.ability=[
           "abilityEffectDescription": "HPが80％以上の時、攻撃力と防御力が80％アップする",
           "effectIdx1": "756",
           "effectIdx2": "1575",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1634",
@@ -14424,7 +17628,9 @@ window.ability=[
           "abilityEffectDescription": "HPが80％以上の時、確率でスキルを回避する",
           "effectIdx1": "1576",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1635",
@@ -14433,7 +17639,9 @@ window.ability=[
           "abilityEffectDescription": "HPが50％以上の時、攻撃力と防御力が100％アップする",
           "effectIdx1": "1507",
           "effectIdx2": "1087",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1636",
@@ -14442,7 +17650,9 @@ window.ability=[
           "abilityEffectDescription": "HPが50％以上の時、高確率でスキルを回避する",
           "effectIdx1": "1577",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1637",
@@ -14451,7 +17661,9 @@ window.ability=[
           "abilityEffectDescription": "5回行動するまで、受ける全スキルダメージを半減する",
           "effectIdx1": "1487",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1638",
@@ -14460,7 +17672,9 @@ window.ability=[
           "abilityEffectDescription": "5回行動するまで、攻撃・防御・素早さが50％アップする",
           "effectIdx1": "1581",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1639",
@@ -14469,7 +17683,9 @@ window.ability=[
           "abilityEffectDescription": "10回行動するまで、受ける全スキルダメージを半減する",
           "effectIdx1": "1174",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1640",
@@ -14478,7 +17694,9 @@ window.ability=[
           "abilityEffectDescription": "10回行動するまで、攻撃・防御・素早さが100％アップする",
           "effectIdx1": "1582",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1641",
@@ -14487,7 +17705,9 @@ window.ability=[
           "abilityEffectDescription": "味方の木ノ葉所属の人数に応じて攻撃・防御・素早さが30%アップする",
           "effectIdx1": "953",
           "effectIdx2": "1225",
-          "effectIdx3": "1226"
+          "effectIdx3": "1226",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1642",
@@ -14496,7 +17716,9 @@ window.ability=[
           "abilityEffectDescription": "HPが80%以上の時行動後にチャクラが10%回復し、HP80%以下の時行動後にHPが10%回復する",
           "effectIdx1": "1572",
           "effectIdx2": "1573",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1643",
@@ -14505,7 +17727,9 @@ window.ability=[
           "abilityEffectDescription": "味方の木ノ葉所属の人数に応じて攻撃・防御・素早さが30%アップする",
           "effectIdx1": "953",
           "effectIdx2": "1225",
-          "effectIdx3": "1226"
+          "effectIdx3": "1226",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1644",
@@ -14514,7 +17738,9 @@ window.ability=[
           "abilityEffectDescription": "HPが80%以上の時行動後にチャクラが10%回復し、HP80%以下の時行動後にHPが10%回復する",
           "effectIdx1": "1572",
           "effectIdx2": "1573",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1645",
@@ -14523,7 +17749,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPとスキルダメージが90%アップする",
           "effectIdx1": "10089",
           "effectIdx2": "30008",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1646",
@@ -14532,7 +17760,9 @@ window.ability=[
           "abilityEffectDescription": "行動毎に攻撃力と防御力と素早さが30%アップする(最大4回）",
           "effectIdx1": "1439",
           "effectIdx2": "1440",
-          "effectIdx3": "1528"
+          "effectIdx3": "1528",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1647",
@@ -14541,7 +17771,9 @@ window.ability=[
           "abilityEffectDescription": "HP50％以上の時、攻撃力とスキルダメージが120％アップする",
           "effectIdx1": "31411",
           "effectIdx2": "1161",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1648",
@@ -14550,7 +17782,9 @@ window.ability=[
           "abilityEffectDescription": "素早さが80％アップし、ダメージを受けた時、HPが10％回復",
           "effectIdx1": "13079",
           "effectIdx2": "830",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1649",
@@ -14559,7 +17793,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力とスキルダメージが100％アップする",
           "effectIdx1": "11099",
           "effectIdx2": "774",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1650",
@@ -14568,7 +17804,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが100％アップし、HPが0以下になると2度までHPが全回復する",
           "effectIdx1": "684",
           "effectIdx2": "874",
-          "effectIdx3": "1057"
+          "effectIdx3": "1057",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1651",
@@ -14577,7 +17815,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力とスキルダメージが200％アップする",
           "effectIdx1": "1285",
           "effectIdx2": "30019",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1652",
@@ -14586,7 +17826,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが100％アップし、HPが0以下になると2度までHPが全回復する",
           "effectIdx1": "684",
           "effectIdx2": "874",
-          "effectIdx3": "1057"
+          "effectIdx3": "1057",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1653",
@@ -14595,7 +17837,9 @@ window.ability=[
           "abilityEffectDescription": "HPが70％以上の時にスキルダメージが150％アップし、スキル発動速度が1段階アップする",
           "effectIdx1": "31614",
           "effectIdx2": "1583",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1654",
@@ -14604,7 +17848,9 @@ window.ability=[
           "abilityEffectDescription": "班の\"暁\"のキャラ1体につき、防御力と素早さが30%アップする（自身含む）",
           "effectIdx1": "0",
           "effectIdx2": "1217",
-          "effectIdx3": "1218"
+          "effectIdx3": "1218",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1655",
@@ -14613,7 +17859,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力とスキルダメージが100%アップし、行動後にチャクラが10%回復",
           "effectIdx1": "11099",
           "effectIdx2": "774",
-          "effectIdx3": "528"
+          "effectIdx3": "528",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1656",
@@ -14622,7 +17870,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが120%アップし、HP60%以下の時に全スキルダメージ軽減",
           "effectIdx1": "1221",
           "effectIdx2": "1046",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1657",
@@ -14631,7 +17881,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力とスキルダメージが60%アップ、HPが60%以上だとさらにスキルダメージ100%アップ",
           "effectIdx1": "11059",
           "effectIdx2": "678",
-          "effectIdx3": "31509"
+          "effectIdx3": "31509",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1658",
@@ -14640,7 +17892,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラ消費量が20%ダウンするが、低確率で行動後にHPが10%ダウンする",
           "effectIdx1": "860",
           "effectIdx2": "558",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1659",
@@ -14649,7 +17903,9 @@ window.ability=[
           "abilityEffectDescription": "HPが80%以上の時に攻撃力と防御力と素早さが120%アップ",
           "effectIdx1": "1585",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1660",
@@ -14658,7 +17914,9 @@ window.ability=[
           "abilityEffectDescription": "10回行動するまでスキルダメージを100%アップしチャクラ消費量が30%ダウン",
           "effectIdx1": "30909",
           "effectIdx2": "1015",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1661",
@@ -14667,7 +17925,9 @@ window.ability=[
           "abilityEffectDescription": "行動するたびに攻撃力と素早さが30%アップする（最大4回まで）",
           "effectIdx1": "1416",
           "effectIdx2": "1440",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1662",
@@ -14676,7 +17936,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが60%アップし、HPが80％以下の時さらにスキルダメージが80%アップする",
           "effectIdx1": "678",
           "effectIdx2": "32607",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1663",
@@ -14685,7 +17947,9 @@ window.ability=[
           "abilityEffectDescription": "自身の最大HPと素早さとスキルダメージが100%アップする",
           "effectIdx1": "684",
           "effectIdx2": "13099",
-          "effectIdx3": "774"
+          "effectIdx3": "774",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1664",
@@ -14694,7 +17958,9 @@ window.ability=[
           "abilityEffectDescription": "HPが60%以下の時に防御力が200%アップし、全スキルダメージを半減する",
           "effectIdx1": "1586",
           "effectIdx2": "1036",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1665",
@@ -14703,7 +17969,9 @@ window.ability=[
           "abilityEffectDescription": "自身の最大HPと攻撃力とスキルダメージが100%アップする",
           "effectIdx1": "684",
           "effectIdx2": "11099",
-          "effectIdx3": "774"
+          "effectIdx3": "774",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1666",
@@ -14712,7 +17980,9 @@ window.ability=[
           "abilityEffectDescription": "HPが60%以下の時に通常攻撃回避率が100％アップし、高確率でスキルを回避する",
           "effectIdx1": "1587",
           "effectIdx2": "1588",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1667",
@@ -14721,7 +17991,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラが50アップし、最大HPが100％アップする",
           "effectIdx1": "689",
           "effectIdx2": "684",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1668",
@@ -14730,7 +18002,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラMAX時、攻撃力とスキルダメージが150％アップする",
           "effectIdx1": "1426",
           "effectIdx2": "1232",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1669",
@@ -14739,7 +18013,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラが120アップし、最大HPが150％アップする",
           "effectIdx1": "20011",
           "effectIdx2": "1212",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1670",
@@ -14748,7 +18024,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラ50％以上の時、攻撃力とスキルダメージが200％アップする",
           "effectIdx1": "1427",
           "effectIdx2": "33419",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1671",
@@ -14757,7 +18035,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラが50アップし、最大HPが100％アップする",
           "effectIdx1": "689",
           "effectIdx2": "684",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1672",
@@ -14766,7 +18046,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラMAX時、攻撃力とスキルダメージが150％アップする",
           "effectIdx1": "1426",
           "effectIdx2": "1232",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1673",
@@ -14775,7 +18057,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラが120アップし、最大HPが150％アップする",
           "effectIdx1": "20011",
           "effectIdx2": "1212",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1674",
@@ -14784,7 +18068,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラ50％以上の時、攻撃力とスキルダメージが200％アップする",
           "effectIdx1": "1427",
           "effectIdx2": "33419",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1675",
@@ -14793,7 +18079,9 @@ window.ability=[
           "abilityEffectDescription": "確率で全スキルダメージを無効化する※耐性無視攻撃は除く",
           "effectIdx1": "1593",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1676",
@@ -14802,7 +18090,9 @@ window.ability=[
           "abilityEffectDescription": "行動後、確率でチャクラが全回復する",
           "effectIdx1": "826",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1677",
@@ -14811,7 +18101,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが100％アップし、写輪眼タイプのスキルダメージを無効化する",
           "effectIdx1": "684",
           "effectIdx2": "79",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1678",
@@ -14820,7 +18112,9 @@ window.ability=[
           "abilityEffectDescription": "通常攻撃回避率が100％アップし、高確率でスキルを回避する",
           "effectIdx1": "1141",
           "effectIdx2": "968",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1679",
@@ -14829,7 +18123,9 @@ window.ability=[
           "abilityEffectDescription": "5回行動するまで素早さとスキルダメージ50％アップする",
           "effectIdx1": "484",
           "effectIdx2": "30404",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1680",
@@ -14838,7 +18134,9 @@ window.ability=[
           "abilityEffectDescription": "5回行動するまで弱体と状態異常を半減する",
           "effectIdx1": "1598",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1681",
@@ -14847,7 +18145,9 @@ window.ability=[
           "abilityEffectDescription": "10回行動するまでスキルダメージが100％アップし、スキル発動速度が1段階アップする",
           "effectIdx1": "30909",
           "effectIdx2": "1594",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1682",
@@ -14856,7 +18156,9 @@ window.ability=[
           "abilityEffectDescription": "行動後にHPが10％回復し、行動後に確率でチャクラ消費量が0になる",
           "effectIdx1": "1595",
           "effectIdx2": "357",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1683",
@@ -14865,7 +18167,9 @@ window.ability=[
           "abilityEffectDescription": "行動後、確率でチャクラ消費量が半減する",
           "effectIdx1": "1596",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1684",
@@ -14874,7 +18178,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが70％アップし、確率でスキルを回避する",
           "effectIdx1": "10069",
           "effectIdx2": "734",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1685",
@@ -14883,7 +18189,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと攻撃力が100％アップする",
           "effectIdx1": "684",
           "effectIdx2": "11099",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1686",
@@ -14892,7 +18200,9 @@ window.ability=[
           "abilityEffectDescription": "10回行動するまでスキルダメージが100％アップする",
           "effectIdx1": "30909",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1687",
@@ -14901,7 +18211,9 @@ window.ability=[
           "abilityEffectDescription": "行動後HPとチャクラが10%回復し、7回行動するまで仙術・体術・六道以外のスキルダメージを無効化",
           "effectIdx1": "52",
           "effectIdx2": "53",
-          "effectIdx3": "1267"
+          "effectIdx3": "1267",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1688",
@@ -14910,7 +18222,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量が150アップし、最大HPとスキルダメージが150%アップする",
           "effectIdx1": "20014",
           "effectIdx2": "1212",
-          "effectIdx3": "794"
+          "effectIdx3": "794",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1689",
@@ -14919,7 +18233,9 @@ window.ability=[
           "abilityEffectDescription": "行動するたびに攻撃力が20%アップする（最大5回）",
           "effectIdx1": "1072",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1690",
@@ -14928,7 +18244,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量が100アップし、HPが50%以下の時行動後に基礎HPの20%回復する",
           "effectIdx1": "813",
           "effectIdx2": "1599",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1691",
@@ -14937,7 +18255,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量を200アップし、状態異常を無効化する",
           "effectIdx1": "20019",
           "effectIdx2": "82",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1692",
@@ -14946,7 +18266,9 @@ window.ability=[
           "abilityEffectDescription": "高確率でスキルを回避し、行動後に高確率で再度行動できる※再行動後にさらに行動はできない",
           "effectIdx1": "968",
           "effectIdx2": "1600",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1693",
@@ -14955,7 +18277,9 @@ window.ability=[
           "abilityEffectDescription": "班の無所属のキャラ1体につき、攻撃力と防御力と素早さが30%アップする（自身含む）",
           "effectIdx1": "1198",
           "effectIdx2": "1199",
-          "effectIdx3": "1200"
+          "effectIdx3": "1200",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1694",
@@ -14964,7 +18288,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラが50アップ、最大HPとスキルダメージが120％アップする",
           "effectIdx1": "20004",
           "effectIdx2": "1221",
-          "effectIdx3": "30011"
+          "effectIdx3": "30011",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1695",
@@ -14973,7 +18299,9 @@ window.ability=[
           "abilityEffectDescription": "素早さが80％アップし、行動後にHPが15％回復する",
           "effectIdx1": "13079",
           "effectIdx2": "735",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1696",
@@ -14982,7 +18310,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラが50アップし、攻撃力とスキルダメージが100％アップする",
           "effectIdx1": "20004",
           "effectIdx2": "11099",
-          "effectIdx3": "774"
+          "effectIdx3": "774",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1697",
@@ -14991,7 +18321,9 @@ window.ability=[
           "abilityEffectDescription": "最大HP・防御が100%アップする",
           "effectIdx1": "684",
           "effectIdx2": "12099",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1698",
@@ -15000,7 +18332,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージを100%アップし、行動後チャクラが10%回復する",
           "effectIdx1": "774",
           "effectIdx2": "53",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1699",
@@ -15009,7 +18343,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPとスキルダメージを100%アップする",
           "effectIdx1": "684",
           "effectIdx2": "774",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1700",
@@ -15018,7 +18354,9 @@ window.ability=[
           "abilityEffectDescription": "味方の木ノ葉所属の人数に応じて攻撃力・防御力が30%アップする（自身含む）",
           "effectIdx1": "953",
           "effectIdx2": "1225",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1701",
@@ -15027,7 +18365,9 @@ window.ability=[
           "abilityEffectDescription": "10回行動するまで素早さとスキルダメージ90％アップする",
           "effectIdx1": "30908",
           "effectIdx2": "1171",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1702",
@@ -15036,7 +18376,9 @@ window.ability=[
           "abilityEffectDescription": "10回行動するまで弱体と状態異常を無効化する",
           "effectIdx1": "670",
           "effectIdx2": "786",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1703",
@@ -15045,7 +18387,9 @@ window.ability=[
           "abilityEffectDescription": "行動後、高確率でチャクラ消費量が半減する",
           "effectIdx1": "1597",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1704",
@@ -15054,7 +18398,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが100％アップし、高確率でスキルを回避する",
           "effectIdx1": "684",
           "effectIdx2": "968",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1705",
@@ -15063,7 +18409,9 @@ window.ability=[
           "abilityEffectDescription": "5回行動するまで攻撃力が100％アップする",
           "effectIdx1": "832",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1706",
@@ -15072,7 +18420,9 @@ window.ability=[
           "abilityEffectDescription": "素早さが50％アップし、確率でスキルを回避する",
           "effectIdx1": "13049",
           "effectIdx2": "734",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1707",
@@ -15081,7 +18431,9 @@ window.ability=[
           "abilityEffectDescription": "5回行動するまで攻撃力が200％アップする",
           "effectIdx1": "1601",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1708",
@@ -15090,7 +18442,9 @@ window.ability=[
           "abilityEffectDescription": "素早さが100％アップし、高確率でスキルを回避する",
           "effectIdx1": "13099",
           "effectIdx2": "968",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1709",
@@ -15099,7 +18453,9 @@ window.ability=[
           "abilityEffectDescription": "HPが60％以上の時、自身の素早さとスキルダメージが100％アップする",
           "effectIdx1": "1612",
           "effectIdx2": "31509",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1710",
@@ -15108,7 +18464,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと攻撃力が100％アップする",
           "effectIdx1": "684",
           "effectIdx2": "11099",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1711",
@@ -15117,7 +18475,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量が50アップし、最大HPとスキルダメージが100％アップする",
           "effectIdx1": "20004",
           "effectIdx2": "684",
-          "effectIdx3": "774"
+          "effectIdx3": "774",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1712",
@@ -15126,7 +18486,9 @@ window.ability=[
           "abilityEffectDescription": "班の木ノ葉隠れの里所属のキャラ1体につき防御力と素早さが25%アップ（自身含む）",
           "effectIdx1": "1130",
           "effectIdx2": "1131",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1713",
@@ -15135,7 +18497,9 @@ window.ability=[
           "abilityEffectDescription": "素早さが100％アップし、HP50％以下の時に全スキルダメージを半減する",
           "effectIdx1": "13099",
           "effectIdx2": "423",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1714",
@@ -15144,7 +18508,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力とスキルダメージが120％アップするが、行動後にHPが高確率で10％減少する",
           "effectIdx1": "736",
           "effectIdx2": "30011",
-          "effectIdx3": "1613"
+          "effectIdx3": "1613",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1715",
@@ -15153,7 +18519,9 @@ window.ability=[
           "abilityEffectDescription": "HPが70％以上の時にスキル発動速度が1段階アップする",
           "effectIdx1": "1583",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1716",
@@ -15162,7 +18530,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラが50アップし、スキルダメージが100％アップする",
           "effectIdx1": "689",
           "effectIdx2": "774",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1717",
@@ -15171,7 +18541,9 @@ window.ability=[
           "abilityEffectDescription": "HPが70％以上の時にスキル発動速度が1段階アップする",
           "effectIdx1": "1583",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1718",
@@ -15180,7 +18552,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラが50アップし、スキルダメージが100％アップする",
           "effectIdx1": "689",
           "effectIdx2": "774",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1719",
@@ -15189,7 +18563,9 @@ window.ability=[
           "abilityEffectDescription": "行動後、高確率でスキル発動速度が1段階アップし、確率でHPが全回復する",
           "effectIdx1": "1618",
           "effectIdx2": "1619",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1720",
@@ -15198,7 +18574,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラが50アップし、攻撃力が100％アップする",
           "effectIdx1": "689",
           "effectIdx2": "11099",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1721",
@@ -15207,7 +18585,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力とスキルダメージが100%アップする",
           "effectIdx1": "11099",
           "effectIdx2": "774",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1722",
@@ -15216,7 +18596,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラが70%以上の時、スキル発動速度が1段階アップする",
           "effectIdx1": "1617",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1723",
@@ -15225,7 +18607,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量が100アップする",
           "effectIdx1": "20009",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1724",
@@ -15234,7 +18618,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラが60％以上の時に攻撃力とスキルダメージが120％アップする",
           "effectIdx1": "1614",
           "effectIdx2": "33511",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1725",
@@ -15243,7 +18629,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量が200アップし、HPが0以下になると1度だけHPが全回復する",
           "effectIdx1": "20019",
           "effectIdx2": "312",
-          "effectIdx3": "874"
+          "effectIdx3": "874",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1726",
@@ -15252,7 +18640,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラが70％以上の時に攻撃力が100％アップし、スキル発動速度が1段階アップする",
           "effectIdx1": "1615",
           "effectIdx2": "1617",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1727",
@@ -15261,7 +18651,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量が100アップし、チャクラが70％以上の時にスキル発動速度が1段階アップする",
           "effectIdx1": "20009",
           "effectIdx2": "1617",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1728",
@@ -15270,7 +18662,9 @@ window.ability=[
           "abilityEffectDescription": "HPが60％以上の時に攻撃力と防御力とスキルダメージが100％アップする",
           "effectIdx1": "1632",
           "effectIdx2": "1633",
-          "effectIdx3": "31509"
+          "effectIdx3": "31509",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1729",
@@ -15279,7 +18673,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と防御力が100%アップし、高確率でスキルを回避する",
           "effectIdx1": "11099",
           "effectIdx2": "12099",
-          "effectIdx3": "968"
+          "effectIdx3": "968",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1730",
@@ -15288,7 +18684,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量30アップ、行動後に基礎HPの20%回復する",
           "effectIdx1": "20002",
           "effectIdx2": "628",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1731",
@@ -15297,7 +18695,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量が100アップし、行動後にチャクラが20％回復する",
           "effectIdx1": "20009",
           "effectIdx2": "583",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1732",
@@ -15306,7 +18706,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが150%アップ、HPが70％以上の時スキル発動速度1段階アップ",
           "effectIdx1": "794",
           "effectIdx2": "1583",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1733",
@@ -15315,7 +18717,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが100％アップし、高確率でスキルを回避する",
           "effectIdx1": "684",
           "effectIdx2": "968",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1734",
@@ -15324,7 +18728,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが150％アップし、幻状態を無効化する",
           "effectIdx1": "794",
           "effectIdx2": "1642",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1735",
@@ -15333,7 +18739,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量が200アップする",
           "effectIdx1": "20019",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1736",
@@ -15342,7 +18750,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが100％アップし、行動後にチャクラが30％回復する",
           "effectIdx1": "774",
           "effectIdx2": "820",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1737",
@@ -15351,7 +18761,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量を120アップし、スキルダメージを150％アップする",
           "effectIdx1": "20011",
           "effectIdx2": "794",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1738",
@@ -15360,7 +18772,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが120％アップし、スキル発動速度が1段階アップする",
           "effectIdx1": "1221",
           "effectIdx2": "21000",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1739",
@@ -15369,7 +18783,9 @@ window.ability=[
           "abilityEffectDescription": "班の木ノ葉隠れまたは砂隠れの里所属のキャラ1体につき、攻撃力が20%アップする（自身含む）",
           "effectIdx1": "687",
           "effectIdx2": "1643",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1740",
@@ -15378,7 +18794,9 @@ window.ability=[
           "abilityEffectDescription": "素早さとスキルダメージが100%アップする。",
           "effectIdx1": "13099",
           "effectIdx2": "774",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1741",
@@ -15387,7 +18805,9 @@ window.ability=[
           "abilityEffectDescription": "班の木ノ葉隠れまたは砂隠れの里所属のキャラ1体につき、攻撃力が20%アップする（自身含む）",
           "effectIdx1": "687",
           "effectIdx2": "1643",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1742",
@@ -15396,7 +18816,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPとスキルダメージが100%アップする",
           "effectIdx1": "684",
           "effectIdx2": "774",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1743",
@@ -15405,7 +18827,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量が88アップし、最大HPとスキルダメージが88%アップする",
           "effectIdx1": "1655",
           "effectIdx2": "1656",
-          "effectIdx3": "1657"
+          "effectIdx3": "1657",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1744",
@@ -15414,7 +18838,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と素早さが88%アップし、確率でスキルを回避する",
           "effectIdx1": "11087",
           "effectIdx2": "13087",
-          "effectIdx3": "734"
+          "effectIdx3": "734",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1745",
@@ -15423,7 +18849,9 @@ window.ability=[
           "abilityEffectDescription": "9回行動するまで、攻撃力と防御力が80%アップする。",
           "effectIdx1": "1606",
           "effectIdx2": "1607",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1746",
@@ -15432,7 +18860,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラが100アップし、最大HPが100%アップする。",
           "effectIdx1": "20009",
           "effectIdx2": "684",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1747",
@@ -15441,7 +18871,9 @@ window.ability=[
           "abilityEffectDescription": "3回行動するまで、攻撃力と素早さが100%アップする。",
           "effectIdx1": "56",
           "effectIdx2": "1265",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1748",
@@ -15450,7 +18882,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラが50アップし、スキルダメージが80%アップする。",
           "effectIdx1": "20004",
           "effectIdx2": "694",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1749",
@@ -15459,7 +18893,9 @@ window.ability=[
           "abilityEffectDescription": "5回行動するまで攻撃力が100％アップする",
           "effectIdx1": "832",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1750",
@@ -15468,7 +18904,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力が50％アップし、確率でスキルを回避する",
           "effectIdx1": "11049",
           "effectIdx2": "734",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1751",
@@ -15477,7 +18915,9 @@ window.ability=[
           "abilityEffectDescription": "5回行動するまで攻撃力が200％アップする",
           "effectIdx1": "1635",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1752",
@@ -15486,7 +18926,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力が100％アップし、高確率でスキルを回避する",
           "effectIdx1": "11099",
           "effectIdx2": "968",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1753",
@@ -15495,7 +18937,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量を50アップし、行動後チャクラが10％回復する",
           "effectIdx1": "689",
           "effectIdx2": "528",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1754",
@@ -15504,7 +18948,9 @@ window.ability=[
           "abilityEffectDescription": "2回行動まで素早さ1000％アップしスキル発動速度を2段階アップ。3回目以降、スキルダメージ100％アップ",
           "effectIdx1": "1644",
           "effectIdx2": "1645",
-          "effectIdx3": "1544"
+          "effectIdx3": "1544",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1755",
@@ -15513,7 +18959,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量が50アップし、攻撃力が100％アップする",
           "effectIdx1": "689",
           "effectIdx2": "11099",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1756",
@@ -15522,7 +18970,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが100％アップし、行動後にHPが15％回復する",
           "effectIdx1": "774",
           "effectIdx2": "735",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1757",
@@ -15531,7 +18981,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと素早さを80%アップする",
           "effectIdx1": "649",
           "effectIdx2": "13079",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1758",
@@ -15540,7 +18992,9 @@ window.ability=[
           "abilityEffectDescription": "HPが90%以上の時、スキルダメージが80％アップする",
           "effectIdx1": "31807",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1759",
@@ -15549,7 +19003,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと素早さを120%アップする",
           "effectIdx1": "1221",
           "effectIdx2": "1335",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1760",
@@ -15558,7 +19014,9 @@ window.ability=[
           "abilityEffectDescription": "HPが70%以上の時、スキルダメージが150％アップする",
           "effectIdx1": "31614",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1761",
@@ -15567,7 +19025,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPとスキルダメージが100%アップする",
           "effectIdx1": "684",
           "effectIdx2": "774",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1762",
@@ -15576,7 +19036,9 @@ window.ability=[
           "abilityEffectDescription": "班の木ノ葉隠れの里所属のキャラ1体につき攻撃力と防御力と素早さが20%アップ（自身含む）",
           "effectIdx1": "687",
           "effectIdx2": "1105",
-          "effectIdx3": "1106"
+          "effectIdx3": "1106",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1763",
@@ -15585,7 +19047,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと防御力が150％アップする",
           "effectIdx1": "1212",
           "effectIdx2": "1459",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1764",
@@ -15594,7 +19058,9 @@ window.ability=[
           "abilityEffectDescription": "2回行動までチャクラ消費0＆スキル発動速度5段階アップ、2回行動後はスキルダメージ100％アップ",
           "effectIdx1": "1646",
           "effectIdx2": "1647",
-          "effectIdx3": "1650"
+          "effectIdx3": "1650",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1765",
@@ -15603,7 +19069,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量が20アップし、行動後にHPが10％回復する",
           "effectIdx1": "20001",
           "effectIdx2": "357",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1766",
@@ -15612,7 +19080,9 @@ window.ability=[
           "abilityEffectDescription": "HPが90％以上の時にスキルダメージが100％アップする",
           "effectIdx1": "31809",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1767",
@@ -15621,7 +19091,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量が30アップし、行動後にHPが10％回復する",
           "effectIdx1": "20002",
           "effectIdx2": "357",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1768",
@@ -15630,7 +19102,9 @@ window.ability=[
           "abilityEffectDescription": "HPが80％以上の時にスキルダメージが120％アップする",
           "effectIdx1": "31711",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1769",
@@ -15639,7 +19113,9 @@ window.ability=[
           "abilityEffectDescription": "確率でスキルを回避し、HPが0以下になると1度だけHPが全回復する",
           "effectIdx1": "679",
           "effectIdx2": "312",
-          "effectIdx3": "874"
+          "effectIdx3": "874",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1770",
@@ -15648,7 +19124,9 @@ window.ability=[
           "abilityEffectDescription": "HPが80％以上の時にスキルダメージが100％アップし、スキル発動速度が1段階アップする",
           "effectIdx1": "31709",
           "effectIdx2": "1089",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1771",
@@ -15657,7 +19135,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力とスキルダメージを100％アップする",
           "effectIdx1": "11099",
           "effectIdx2": "774",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1772",
@@ -15666,7 +19146,9 @@ window.ability=[
           "abilityEffectDescription": "高確率でスキルを回避し、状態異常を無効化する",
           "effectIdx1": "968",
           "effectIdx2": "82",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1773",
@@ -15675,7 +19157,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラが100アップし、行動後にHPとチャクラが10％回復する",
           "effectIdx1": "813",
           "effectIdx2": "357",
-          "effectIdx3": "528"
+          "effectIdx3": "528",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1774",
@@ -15684,7 +19168,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが100％アップ、行動後に確率でチャクラ消費量が半減する",
           "effectIdx1": "774",
           "effectIdx2": "1596",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1775",
@@ -15693,7 +19179,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラが100アップし、行動後にHPとチャクラが10％回復する",
           "effectIdx1": "813",
           "effectIdx2": "357",
-          "effectIdx3": "528"
+          "effectIdx3": "528",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1776",
@@ -15702,7 +19190,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが100％アップ、行動後に確率でチャクラ消費量が半減する",
           "effectIdx1": "774",
           "effectIdx2": "1596",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1777",
@@ -15711,7 +19201,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが100％アップ、弱体と状態異常を無効化、行動後にチャクラ15％回復",
           "effectIdx1": "684",
           "effectIdx2": "880",
-          "effectIdx3": "957"
+          "effectIdx3": "957",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1778",
@@ -15720,7 +19212,9 @@ window.ability=[
           "abilityEffectDescription": "HP80％以上の時に攻撃力とスキルダメージが100％アップする",
           "effectIdx1": "31709",
           "effectIdx2": "1133",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1779",
@@ -15729,7 +19223,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと素早さが100%アップする",
           "effectIdx1": "684",
           "effectIdx2": "13099",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1780",
@@ -15738,7 +19234,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラが50アップし、スキル発動速度が1段階アップする",
           "effectIdx1": "20004",
           "effectIdx2": "21000",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1781",
@@ -15747,7 +19245,9 @@ window.ability=[
           "abilityEffectDescription": "HPが90%以上の時、通常攻撃が回避されない",
           "effectIdx1": "1669",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1782",
@@ -15756,7 +19256,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと防御力が80%アップする",
           "effectIdx1": "649",
           "effectIdx2": "12079",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1783",
@@ -15765,7 +19267,9 @@ window.ability=[
           "abilityEffectDescription": "行動毎に攻撃力と防御力と素早さが30%アップする(最大4回）",
           "effectIdx1": "1439",
           "effectIdx2": "1440",
-          "effectIdx3": "1528"
+          "effectIdx3": "1528",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1784",
@@ -15774,7 +19278,9 @@ window.ability=[
           "abilityEffectDescription": "HPが70％以上だとスキルダメージ100％アップ、70％以下だと全スキルダメージを半減する",
           "effectIdx1": "31609",
           "effectIdx2": "1670",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1785",
@@ -15783,7 +19289,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラMAX時、攻撃力とスキルダメージが80％アップする",
           "effectIdx1": "981",
           "effectIdx2": "1671",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1786",
@@ -15792,7 +19300,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラが50アップし、最大HPが100％アップする",
           "effectIdx1": "689",
           "effectIdx2": "684",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1787",
@@ -15801,7 +19311,9 @@ window.ability=[
           "abilityEffectDescription": "チャクラ50％以上の時、攻撃力とスキルダメージが100％アップする",
           "effectIdx1": "869",
           "effectIdx2": "33409",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1788",
@@ -15810,7 +19322,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラが120アップし、最大HPが150％アップする",
           "effectIdx1": "20011",
           "effectIdx2": "1212",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1789",
@@ -15819,7 +19333,9 @@ window.ability=[
           "abilityEffectDescription": "行動後にHPが20％回復し、HPが0以下になると2回までHPが全回復する",
           "effectIdx1": "628",
           "effectIdx2": "1057",
-          "effectIdx3": "874"
+          "effectIdx3": "874",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1790",
@@ -15828,7 +19344,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量が100アップし固有タイプのスキル無効、行動後にチャクラが15％回復する",
           "effectIdx1": "813",
           "effectIdx2": "77",
-          "effectIdx3": "648"
+          "effectIdx3": "648",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1791",
@@ -15837,7 +19355,9 @@ window.ability=[
           "abilityEffectDescription": "行動後にHPが15％回復し、HPが0以下になると2回までHPが全回復する",
           "effectIdx1": "735",
           "effectIdx2": "1057",
-          "effectIdx3": "874"
+          "effectIdx3": "874",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1792",
@@ -15846,7 +19366,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量が100アップ、行動後にチャクラが20％回復する",
           "effectIdx1": "813",
           "effectIdx2": "583",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1793",
@@ -15855,7 +19377,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力とスキルダメージが100％アップし、武器タイプのスキルを無効化する",
           "effectIdx1": "11099",
           "effectIdx2": "774",
-          "effectIdx3": "44"
+          "effectIdx3": "44",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1794",
@@ -15864,7 +19388,9 @@ window.ability=[
           "abilityEffectDescription": "高確率でスキル回避、行動後に高確率で次回スキル発動速度1段階アップ＆確率で次回チャクラ消費0が発生",
           "effectIdx1": "968",
           "effectIdx2": "1618",
-          "effectIdx3": "1675"
+          "effectIdx3": "1675",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1795",
@@ -15873,7 +19399,9 @@ window.ability=[
           "abilityEffectDescription": "通常攻撃回避率が500％アップし、高確率でスキルを回避する",
           "effectIdx1": "1677",
           "effectIdx2": "968",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1796",
@@ -15882,7 +19410,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが100％アップし、HPが80％以上の時にチャクラ消費量半減＆スキル発動速度1段階アップ",
           "effectIdx1": "774",
           "effectIdx2": "1089",
-          "effectIdx3": "640"
+          "effectIdx3": "640",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1797",
@@ -15891,7 +19421,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPとスキルダメージを100％アップする",
           "effectIdx1": "684",
           "effectIdx2": "774",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1798",
@@ -15900,7 +19432,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラが50アップし、HPが80％以上の時にチャクラ消費量半減＆スキル発動速度1段階アップ",
           "effectIdx1": "689",
           "effectIdx2": "1089",
-          "effectIdx3": "640"
+          "effectIdx3": "640",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1799",
@@ -15909,7 +19443,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量が150アップ、最大HPが100％アップする",
           "effectIdx1": "20014",
           "effectIdx2": "684",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1800",
@@ -15918,7 +19454,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが100％アップ、チャクラが80％以上の時さらにスキルダメージ100％アップ",
           "effectIdx1": "774",
           "effectIdx2": "33709",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1801",
@@ -15927,7 +19465,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが80%アップし、最大チャクラ量が100アップする",
           "effectIdx1": "649",
           "effectIdx2": "20009",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1802",
@@ -15936,7 +19476,9 @@ window.ability=[
           "abilityEffectDescription": "素早さが100%アップし、HPが80%以上の時スキルダメージが100%アップする",
           "effectIdx1": "13099",
           "effectIdx2": "31709",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1803",
@@ -15945,7 +19487,9 @@ window.ability=[
           "abilityEffectDescription": "素早さが80％、攻撃力とスキルダメージが100％アップする",
           "effectIdx1": "13079",
           "effectIdx2": "11099",
-          "effectIdx3": "774"
+          "effectIdx3": "774",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1804",
@@ -15954,7 +19498,9 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラが30アップし、チャクラが70％以上の時にチャクラ消費量が30％減少",
           "effectIdx1": "20002",
           "effectIdx2": "1685",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1805",
@@ -15963,7 +19509,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと攻撃力とスキルダメージが100％アップする",
           "effectIdx1": "684",
           "effectIdx2": "11099",
-          "effectIdx3": "774"
+          "effectIdx3": "774",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1806",
@@ -15972,7 +19520,9 @@ window.ability=[
           "abilityEffectDescription": "ダメージを受けるとHP20％回復、HP0以下で2度までHPが全回復する",
           "effectIdx1": "1496",
           "effectIdx2": "1057",
-          "effectIdx3": "874"
+          "effectIdx3": "874",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1807",
@@ -15981,7 +19531,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが100％アップし、HPが0以下になると2回までHPが全回復する",
           "effectIdx1": "774",
           "effectIdx2": "1057",
-          "effectIdx3": "874"
+          "effectIdx3": "874",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1808",
@@ -15990,7 +19542,9 @@ window.ability=[
           "abilityEffectDescription": "班の木ノ葉隠れの里所属のキャラ1体につき攻撃力と防御力と素早さが20%アップ（自身含む）",
           "effectIdx1": "687",
           "effectIdx2": "1105",
-          "effectIdx3": "1106"
+          "effectIdx3": "1106",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1813",
@@ -15999,7 +19553,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPとスキルダメージが50％アップ、HPが50％以下になると素早さが100％アップする",
           "effectIdx1": "10049",
           "effectIdx2": "682",
-          "effectIdx3": "1672"
+          "effectIdx3": "1672",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1814",
@@ -16008,7 +19564,9 @@ window.ability=[
           "abilityEffectDescription": "HPが0以下になると1度だけ耐える",
           "effectIdx1": "312",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1815",
@@ -16017,7 +19575,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPとスキルダメージが80％アップ、HPが50％以下になると素早さが150％アップする",
           "effectIdx1": "649",
           "effectIdx2": "694",
-          "effectIdx3": "1673"
+          "effectIdx3": "1673",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1816",
@@ -16026,7 +19586,9 @@ window.ability=[
           "abilityEffectDescription": "HPが0以下になると1度だけ耐え、HPが大回復する",
           "effectIdx1": "312",
           "effectIdx2": "618",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1817",
@@ -16035,7 +19597,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが100%アップし、ダメージを受けた時にチャクラが10%回復する",
           "effectIdx1": "684",
           "effectIdx2": "975",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1818",
@@ -16044,7 +19608,9 @@ window.ability=[
           "abilityEffectDescription": "１０回行動するまでスキルダメージが120%アップする",
           "effectIdx1": "30911",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1819",
@@ -16053,7 +19619,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが70％アップし、HPが80％以上の時スキルダメージ100％アップする",
           "effectIdx1": "10069",
           "effectIdx2": "31709",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1820",
@@ -16062,7 +19630,9 @@ window.ability=[
           "abilityEffectDescription": "行動後に確率でスキル発動速度が2段階アップする",
           "effectIdx1": "1639",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1821",
@@ -16071,7 +19641,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが100％アップし、HPが60％以上の時スキルダメージ100％アップする",
           "effectIdx1": "684",
           "effectIdx2": "31509",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1822",
@@ -16080,7 +19652,9 @@ window.ability=[
           "abilityEffectDescription": "行動選択時に確率でチャクラ消費量が0になり、行動後に確率でスキル発動速度が2段階アップする",
           "effectIdx1": "1698",
           "effectIdx2": "1639",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1823",
@@ -16089,7 +19663,9 @@ window.ability=[
           "abilityEffectDescription": "行動後、確率でスキル発動速度が2段階アップする",
           "effectIdx1": "1639",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "1824",
@@ -16098,7 +19674,9 @@ window.ability=[
           "abilityEffectDescription": "通常攻撃回避率が100％アップし、弱体を無効化する",
           "effectIdx1": "1141",
           "effectIdx2": "64",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "10000",
@@ -16107,7 +19685,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃・防御・素早さが大きくダウンする",
           "effectIdx1": "300000",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "10001",
@@ -16116,7 +19696,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃・防御・素早さがダウンする",
           "effectIdx1": "300001",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "10002",
@@ -16125,7 +19707,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃・防御・素早さが少しダウンする",
           "effectIdx1": "300002",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "10100",
@@ -16134,7 +19718,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力が大きくダウンする",
           "effectIdx1": "300003",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "10101",
@@ -16143,7 +19729,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力がダウンする",
           "effectIdx1": "300004",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "10102",
@@ -16152,7 +19740,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力が少しダウンする",
           "effectIdx1": "475",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "10200",
@@ -16161,7 +19751,9 @@ window.ability=[
           "abilityEffectDescription": "防御力が大きくダウンする",
           "effectIdx1": "12106",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "10201",
@@ -16170,7 +19762,9 @@ window.ability=[
           "abilityEffectDescription": "防御力がダウンする",
           "effectIdx1": "12104",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "10202",
@@ -16179,7 +19773,9 @@ window.ability=[
           "abilityEffectDescription": "防御力が少しダウンする",
           "effectIdx1": "12102",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "10300",
@@ -16188,7 +19784,9 @@ window.ability=[
           "abilityEffectDescription": "素早さが大きくダウンする",
           "effectIdx1": "1080",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "10301",
@@ -16197,7 +19795,9 @@ window.ability=[
           "abilityEffectDescription": "素早さがダウンする",
           "effectIdx1": "1082",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "10302",
@@ -16206,7 +19806,9 @@ window.ability=[
           "abilityEffectDescription": "素早さが少しダウンする",
           "effectIdx1": "300011",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "11000",
@@ -16215,7 +19817,9 @@ window.ability=[
           "abilityEffectDescription": "ダメージを受けたときにHPが全回復する（5回行動まで）",
           "effectIdx1": "1307",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "11100",
@@ -16224,7 +19828,9 @@ window.ability=[
           "abilityEffectDescription": "行動時にHPが大きく減少する",
           "effectIdx1": "1309",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "11101",
@@ -16233,7 +19839,9 @@ window.ability=[
           "abilityEffectDescription": "行動時にHPが減少する",
           "effectIdx1": "1308",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "11200",
@@ -16242,7 +19850,9 @@ window.ability=[
           "abilityEffectDescription": "超低確率でスキルを回避する",
           "effectIdx1": "730",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "11201",
@@ -16251,7 +19861,9 @@ window.ability=[
           "abilityEffectDescription": "低確率でスキルを回避する",
           "effectIdx1": "27",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "11302",
@@ -16260,7 +19872,9 @@ window.ability=[
           "abilityEffectDescription": "行動時にチャクラが少し減少する",
           "effectIdx1": "1386",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "11400",
@@ -16269,7 +19883,9 @@ window.ability=[
           "abilityEffectDescription": "0",
           "effectIdx1": "735",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "11401",
@@ -16278,7 +19894,9 @@ window.ability=[
           "abilityEffectDescription": "0",
           "effectIdx1": "357",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "11402",
@@ -16287,7 +19905,9 @@ window.ability=[
           "abilityEffectDescription": "0",
           "effectIdx1": "263",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "11500",
@@ -16296,7 +19916,9 @@ window.ability=[
           "abilityEffectDescription": "スキル発動速度が１段階アップする",
           "effectIdx1": "21000",
           "effectIdx2": "0",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "100000",
@@ -16305,7 +19927,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPと攻撃力が100％アップする",
           "effectIdx1": "684",
           "effectIdx2": "11099",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "100001",
@@ -16314,7 +19938,9 @@ window.ability=[
           "abilityEffectDescription": "口寄せタイプのスキルダメージが150%アップし、行動後にHPが15％回復",
           "effectIdx1": "794",
           "effectIdx2": "735",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "100002",
@@ -16323,7 +19949,9 @@ window.ability=[
           "abilityEffectDescription": "最大HPが100%アップし、HP80％以下の時にスキルダメージ半減",
           "effectIdx1": "684",
           "effectIdx2": "956",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "100003",
@@ -16332,7 +19960,9 @@ window.ability=[
           "abilityEffectDescription": "口寄せタイプのスキルダメージが150%アップし、行動後にチャクラが15％回復",
           "effectIdx1": "794",
           "effectIdx2": "957",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "100004",
@@ -16341,7 +19971,9 @@ window.ability=[
           "abilityEffectDescription": "HPが100％アップし、高確率でスキルを回避する",
           "effectIdx1": "684",
           "effectIdx2": "968",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "100005",
@@ -16350,7 +19982,9 @@ window.ability=[
           "abilityEffectDescription": "HP回復スキルの基礎回復量が100％アップし、行動後にHPとチャクラが10％回復",
           "effectIdx1": "1548",
           "effectIdx2": "52",
-          "effectIdx3": "53"
+          "effectIdx3": "53",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "100006",
@@ -16359,7 +19993,9 @@ window.ability=[
           "abilityEffectDescription": "8回行動するまで行動後HPとチャクラが50%回復する",
           "effectIdx1": "1247",
           "effectIdx2": "1674",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "100007",
@@ -16368,7 +20004,9 @@ window.ability=[
           "abilityEffectDescription": "HP回復スキルの基礎回復量が100%アップし、HPが80%以上の時スキル発動速度1段階アップ",
           "effectIdx1": "1089",
           "effectIdx2": "1548",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "100008",
@@ -16377,7 +20015,9 @@ window.ability=[
           "abilityEffectDescription": "攻撃力と素早さ100%アップ",
           "effectIdx1": "11099",
           "effectIdx2": "13099",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "100009",
@@ -16386,7 +20026,9 @@ window.ability=[
           "abilityEffectDescription": "スキルダメージが100%アップし、確率でスキルを回避する",
           "effectIdx1": "774",
           "effectIdx2": "734",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "100010",
@@ -16395,7 +20037,9 @@ window.ability=[
           "abilityEffectDescription": "素早さが100%アップし、HPが70%以上の時にスキル発動速度１段階アップする",
           "effectIdx1": "13099",
           "effectIdx2": "1583",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         },
         {
           "abilityId": "100011",
@@ -16404,6 +20048,8 @@ window.ability=[
           "abilityEffectDescription": "攻撃力が100％アップし、チャクラ80％以上の時にスキルダメージを200％アップする",
           "effectIdx1": "33719",
           "effectIdx2": "11099",
-          "effectIdx3": "0"
+          "effectIdx3": "0",
+          "engName": "",
+          "engDescription": ""
         }
 ]
