@@ -15975,6 +15975,24 @@ window.ability=[
           "effectIdx3": "874"
         },
         {
+          "abilityId": "1807",
+          "abilityName": "師匠譲りの負けん気",
+          "abilityDescription": "スキルダメージが100％アップし、HPが0以下になると2回までHPが全回復する",
+          "abilityEffectDescription": "スキルダメージが100％アップし、HPが0以下になると2回までHPが全回復する",
+          "effectIdx1": "774",
+          "effectIdx2": "1057",
+          "effectIdx3": "874"
+        },
+        {
+          "abilityId": "1808",
+          "abilityName": "守るべき大切な仲間",
+          "abilityDescription": "班の木ノ葉隠れの里所属のキャラ1体につき攻撃力と防御力と素早さが20%アップ（自身含む）",
+          "abilityEffectDescription": "班の木ノ葉隠れの里所属のキャラ1体につき攻撃力と防御力と素早さが20%アップ（自身含む）",
+          "effectIdx1": "687",
+          "effectIdx2": "1105",
+          "effectIdx3": "1106"
+        },
+        {
           "abilityId": "1813",
           "abilityName": "カカシへの対抗心",
           "abilityDescription": "最大HPとスキルダメージが50％アップ、HPが50％以下になると素早さが100％アップする",
@@ -16062,6 +16080,24 @@ window.ability=[
           "abilityEffectDescription": "行動選択時に確率でチャクラ消費量が0になり、行動後に確率でスキル発動速度が2段階アップする",
           "effectIdx1": "1698",
           "effectIdx2": "1639",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1823",
+          "abilityName": "万能の妙手",
+          "abilityDescription": "行動後、確率でスキル発動速度が2段階アップする",
+          "abilityEffectDescription": "行動後、確率でスキル発動速度が2段階アップする",
+          "effectIdx1": "1639",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1824",
+          "abilityName": "聡明な分析能力",
+          "abilityDescription": "通常攻撃回避率が100％アップし、弱体を無効化する",
+          "abilityEffectDescription": "通常攻撃回避率が100％アップし、弱体を無効化する",
+          "effectIdx1": "1141",
+          "effectIdx2": "64",
           "effectIdx3": "0"
         },
         {

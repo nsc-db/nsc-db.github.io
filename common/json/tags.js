@@ -3460,9 +3460,14 @@ window.tags=[
           "tag": "killers"
 },
 {
-          "cardId": "20040309",
+          "cardId": "20040311",
           "rare": "5",
           "tag": "killers"
+},
+{
+          "cardId": "20040312",
+          "rare": "5",
+          "tag": "ex-6"
 },
 {
           "cardId": "20040315",
@@ -3478,5 +3483,10 @@ window.tags=[
           "cardId": "20040317",
           "rare": "5",
           "tag": "event"
+},
+{
+          "cardId": "20040401",
+          "rare": "5",
+          "tag": "pmiles"
 },
 ]

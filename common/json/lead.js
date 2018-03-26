@@ -1,5 +1,5 @@
 window.lead=[
-        {
+       {
           "cardLeaderSkillId": "1",
           "name": "疾風の如く",
           "description": "心属性の攻撃力を１５％アップする",
@@ -9009,6 +9009,19 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "699",
+          "name": "戦陣の防人",
+          "description": "木ノ葉隠れの里所属の攻撃力が80％アップし、行動後HPとチャクラが10％回復",
+          "effectIdx1": "11079",
+          "effectIdx2": "357",
+          "effectIdx3": "53",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "702",
           "name": "仲間を想う力",
           "description": "木ノ葉隠れの里所属の各自が6回行動するまで、受ける全スキルを半減する",
@@ -9044,6 +9057,19 @@ window.lead=[
           "compType": "1",
           "target1Category": "1",
           "target1Param": "3",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "706",
+          "name": "豪雷に添う爽雲",
+          "description": "技属性の雷遁と体術タイプのスキルダメージを70％アップする",
+          "effectIdx1": "1557",
+          "effectIdx2": "354",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "2",
           "target2Category": "0",
           "target2Param": "0"
         }

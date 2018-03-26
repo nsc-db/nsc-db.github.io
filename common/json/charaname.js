@@ -1,5 +1,5 @@
 window.charaname=[
-       {
+      {
           "charaProfileId": "101",
           "charaId": "1",
           "name": "うずまきナルト",

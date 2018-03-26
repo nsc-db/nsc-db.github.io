@@ -4740,12 +4740,24 @@ window.skillname=[
           "name": "とくと見せてやる"
         },
         {
+          "cardBattleSkillNameId": "2318",
+          "name": "桜花桃撃波"
+        },
+        {
+          "cardBattleSkillNameId": "2320",
+          "name": "私だって一緒に強くなる！！"
+        },
+        {
           "cardBattleSkillNameId": "2330",
           "name": "仲間はオレが守る！！"
         },
         {
           "cardBattleSkillNameId": "2332",
           "name": "千倍にして返してやっからよ"
+        },
+        {
+          "cardBattleSkillNameId": "2334",
+          "name": "動きを止める！"
         },
         {
           "cardBattleSkillNameId": "2335",

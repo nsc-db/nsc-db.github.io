@@ -443,4 +443,6 @@ window.unit=[
  [698, "Deidara, Explosive Molding", "Body", "Akatsuki", 6, 40, 24527, 34100, 24325, 282, 0, 0, 0, 0, 1],
  [699, "Sasori, Four Limbs Manipulation", "Body", "Akatsuki", 6, 40, 26593, 35437, 21523, 219, 16, 17, 163, 0, 0],
  [699, "Sasori, Four Limbs Manipulation", "Body", "Akatsuki", 6, 40, 26593, 35437, 21523, 219, 0, 0, 0, 0, 1],
+ [700, "Sakura Haruno, Battlefield Soldier", "Courage", "Konoha", 6, 50, 28056, 46119, 24063, 253, 16, 17, 163, 0, 0],
+ [700, "Sakura Haruno, Battlefield Soldier", "Courage", "Konoha", 6, 50, 28056, 46119, 24063, 253, 0, 0, 0, 0, 1],
 ]

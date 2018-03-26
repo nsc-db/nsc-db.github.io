@@ -10563,7 +10563,8 @@ window.detail = {
         ability2name: "Godspeed Hero",
         ability2: "SPD +100%. Skill Damage +100% when HP is above 80%"
 		},
-	"698": {
+
+	698: {
 		leadname: "Explosive Molding",
 		lead: "Akatsuki Characters SPD and Skill Damage +50%" ,
 
@@ -10587,6 +10588,7 @@ window.detail = {
 		ability2name: "Palm Clay Formation",
 		ability2: "Maximum Chakra +30. Chakra Cost -30% when Chakra is above 70%"
 	},
+
 	"698_6": {
 		leadname: "Explosive Molding",
 		lead: "Akatsuki Characters SPD and Skill Damage +50%" ,
@@ -10611,7 +10613,8 @@ window.detail = {
 		ability2name: "Palm Clay Formation",
 		ability2: "Maximum Chakra +30. Chakra Cost -30% when Chakra is above 70%"
 	},
-	"699": {
+
+	699: {
 		leadname: "Four Limbs Manipulation",
 		lead: "Akatsuki Characters Maximum HP and Skill Damage +50%" ,
 
@@ -10623,7 +10626,7 @@ window.detail = {
 		skill1: "Deal 100 hits dealing 3% + 100 to random enemies. Deal 4x damage to EX",
 
 		skill2name: "Full Reveal",
-		skill2ogname: "(とくと見せてやる",
+		skill2ogname: "とくと見せてやる",
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "80",
@@ -10635,6 +10638,7 @@ window.detail = {
 		ability2name: "Immortal Embodiment",
 		ability2: "Recover 20% HP when attacked. When HP reach 0, revive twice"
 	},
+
 	"699_6": {
 		leadname: "Four Limbs Manipulation",
 		lead: "Akatsuki Characters Maximum HP and Skill Damage +50%" ,
@@ -10647,7 +10651,7 @@ window.detail = {
 		skill1: "Deal 100 hits dealing 3% + 100 to random enemies. Deal 4x damage to EX",
 
 		skill2name: "Full Reveal",
-		skill2ogname: "(とくと見せてやる",
+		skill2ogname: "とくと見せてやる",
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "80",
@@ -10658,6 +10662,56 @@ window.detail = {
 
 		ability2name: "Immortal Embodiment",
 		ability2: "Recover 20% HP when attacked. When HP reach 0, revive twice"
+	},
+
+	700: {
+		leadname: "Battlefield Soldier",
+		lead: "Konoha Characters ATK +80%. HP Regen and Chakra Recovery +10%" ,
+
+		skill1name: "Cherry Blossom Shockwave",
+		skill1ogname: "桜花桃撃波",
+		skill1type: "Taijutsu",
+		skill1speed: "Fast",
+		skill1cost: "80",
+		skill1: "Deal 10x ATK damage ignoring 40% DEF to one enemy. Deal more damage the more Konoha allies alive, Max 4x. Cast Speed +2 for the next Skill. Heavily pushes the enemy on the action bar. (Note: Only effecting when the enemy is in the red bar)",
+
+		skill2name: "I Will Get Even Stronger!!",
+		skill2ogname: "私だって一緒に強くなる！！",
+		skill2type: "Unique",
+		skill2speed: "Fastest",
+		skill2cost: "60",
+		skill2: "Own ATK +100% and grant \"Connected\" state. Recover all allies Chakra by a tremendous amount and grant \"Determined\" state. [Connected: Status Effects are halved, Skill Damage increase based on how many Konoha Character in the team. Maximum +1000%] [Determined: ATK, DEF and SPD +80%, recover 10% HP and Chakra when attacked]",
+
+		ability1name: "Inherited Competitive Spirit",
+		ability1: "Skill Damage +100%. When HP reach 0, revive twice",
+
+		ability2name: "Protecting Important Friends",
+		ability2: "ATK, DEF and SPD +20% per Konoha allies"
+	},
+	
+	"700_6": {
+		leadname: "Battlefield Soldier",
+		lead: "Konoha Characters ATK +80%. HP Regen and Chakra Recovery +10%" ,
+
+		skill1name: "Cherry Blossom Shockwave",
+		skill1ogname: "桜花桃撃波",
+		skill1type: "Taijutsu",
+		skill1speed: "Fast",
+		skill1cost: "80",
+		skill1: "Deal 10x ATK damage ignoring 40% DEF to one enemy. Deal more damage the more Konoha allies alive, Max 4x. Cast Speed +2 for the next Skill. Heavily pushes the enemy on the action bar. (Note: Only effecting when the enemy is in the red bar)",
+
+		skill2name: "I Will Get Even Stronger!!",
+		skill2ogname: "私だって一緒に強くなる！！",
+		skill2type: "Unique",
+		skill2speed: "Fastest",
+		skill2cost: "60",
+		skill2: "Own ATK +100% and grant \"Connected\" state. Recover all allies Chakra by a tremendous amount and grant \"Determined\" state. [Connected: Status Effects are halved, Skill Damage increase based on how many Konoha Character in the team. Maximum +1000%] [Determined: ATK, DEF and SPD +80%, recover 10% HP and Chakra when attacked]",
+
+		ability1name: "Inherited Competitive Spirit",
+		ability1: "Skill Damage +100%. When HP reach 0, revive twice",
+
+		ability2name: "Protecting Important Friends",
+		ability2: "ATK, DEF and SPD +20% per Konoha allies"
 	},
 }
 

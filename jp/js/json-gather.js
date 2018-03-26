@@ -136,7 +136,7 @@
 
 	function _buildCardModal(id, thumb, cards, cid){
 		// Icon
-		checkImage('assets/img/units/icons/thumb_' + cid + '_6.png', 
+		checkImage('../common/assets/img/units/icons/thumb_' + cid + '_6.png', 
 			function(){
 			 $('#icon-unit').attr('src', '../common/assets/img/units/icons/thumb_' + cid + '_6.png'); 
 			}, 
