@@ -1,5 +1,5 @@
 window.charaname=[
-       {
+      {
           "charaProfileId": "101",
           "charaId": "1",
           "name": "うずまきナルト",
@@ -11,8 +11,7 @@ window.charaname=[
           "weight": "4060",
           "bloodType": "2",
           "age": "13",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "102",
@@ -26,8 +25,7 @@ window.charaname=[
           "weight": "5090",
           "bloodType": "2",
           "age": "16",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "103",
@@ -41,8 +39,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "2",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "104",
@@ -56,8 +53,7 @@ window.charaname=[
           "weight": "5090",
           "bloodType": "2",
           "age": "17",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "105",
@@ -71,8 +67,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "2",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "106",
@@ -86,8 +81,7 @@ window.charaname=[
           "weight": "5090",
           "bloodType": "2",
           "age": "16",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "107",
@@ -101,8 +95,7 @@ window.charaname=[
           "weight": "5090",
           "bloodType": "2",
           "age": "16",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "108",
@@ -116,8 +109,7 @@ window.charaname=[
           "weight": "5090",
           "bloodType": "2",
           "age": "17",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "109",
@@ -131,8 +123,7 @@ window.charaname=[
           "weight": "5090",
           "bloodType": "2",
           "age": "16",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "110",
@@ -146,8 +137,7 @@ window.charaname=[
           "weight": "5090",
           "bloodType": "2",
           "age": "16",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "201",
@@ -161,8 +151,7 @@ window.charaname=[
           "weight": "4350",
           "bloodType": "4",
           "age": "13",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "202",
@@ -176,8 +165,7 @@ window.charaname=[
           "weight": "4220",
           "bloodType": "4",
           "age": "12",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "203",
@@ -191,8 +179,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "4",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "204",
@@ -206,8 +193,7 @@ window.charaname=[
           "weight": "5220",
           "bloodType": "4",
           "age": "16",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "205",
@@ -221,8 +207,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "206",
@@ -236,8 +221,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "207",
@@ -251,8 +235,7 @@ window.charaname=[
           "weight": "5220",
           "bloodType": "4",
           "age": "17",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "208",
@@ -266,8 +249,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "4",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "209",
@@ -281,8 +263,7 @@ window.charaname=[
           "weight": "5220",
           "bloodType": "4",
           "age": "17",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "210",
@@ -296,8 +277,7 @@ window.charaname=[
           "weight": "5220",
           "bloodType": "4",
           "age": "16",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "301",
@@ -311,8 +291,7 @@ window.charaname=[
           "weight": "3590",
           "bloodType": "3",
           "age": "13",
-          "gender": "2",
-          "engName": ""
+          "gender": "2"
         },
         {
           "charaProfileId": "302",
@@ -326,8 +305,7 @@ window.charaname=[
           "weight": "3540",
           "bloodType": "3",
           "age": "12",
-          "gender": "2",
-          "engName": ""
+          "gender": "2"
         },
         {
           "charaProfileId": "303",
@@ -341,8 +319,7 @@ window.charaname=[
           "weight": "4540",
           "bloodType": "3",
           "age": "16",
-          "gender": "2",
-          "engName": ""
+          "gender": "2"
         },
         {
           "charaProfileId": "304",
@@ -356,8 +333,7 @@ window.charaname=[
           "weight": "4540",
           "bloodType": "3",
           "age": "16",
-          "gender": "2",
-          "engName": ""
+          "gender": "2"
         },
         {
           "charaProfileId": "305",
@@ -371,8 +347,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "3",
           "age": "0",
-          "gender": "2",
-          "engName": ""
+          "gender": "2"
         },
         {
           "charaProfileId": "306",
@@ -386,8 +361,7 @@ window.charaname=[
           "weight": "4540",
           "bloodType": "3",
           "age": "16",
-          "gender": "2",
-          "engName": ""
+          "gender": "2"
         },
         {
           "charaProfileId": "401",
@@ -401,8 +375,7 @@ window.charaname=[
           "weight": "4290",
           "bloodType": "4",
           "age": "13",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "402",
@@ -416,8 +389,7 @@ window.charaname=[
           "weight": "5340",
           "bloodType": "4",
           "age": "16",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "403",
@@ -431,8 +403,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "4",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "501",
@@ -446,8 +417,7 @@ window.charaname=[
           "weight": "6930",
           "bloodType": "2",
           "age": "13",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "502",
@@ -461,8 +431,7 @@ window.charaname=[
           "weight": "8750",
           "bloodType": "2",
           "age": "17",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "503",
@@ -476,8 +445,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "2",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "601",
@@ -491,8 +459,7 @@ window.charaname=[
           "weight": "3820",
           "bloodType": "2",
           "age": "12",
-          "gender": "2",
-          "engName": ""
+          "gender": "2"
         },
         {
           "charaProfileId": "602",
@@ -506,8 +473,7 @@ window.charaname=[
           "weight": "4600",
           "bloodType": "2",
           "age": "16",
-          "gender": "2",
-          "engName": ""
+          "gender": "2"
         },
         {
           "charaProfileId": "603",
@@ -521,8 +487,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "2",
           "age": "0",
-          "gender": "2",
-          "engName": ""
+          "gender": "2"
         },
         {
           "charaProfileId": "701",
@@ -536,8 +501,7 @@ window.charaname=[
           "weight": "3820",
           "bloodType": "1",
           "age": "13",
-          "gender": "2",
-          "engName": ""
+          "gender": "2"
         },
         {
           "charaProfileId": "702",
@@ -551,8 +515,7 @@ window.charaname=[
           "weight": "4500",
           "bloodType": "1",
           "age": "16",
-          "gender": "2",
-          "engName": ""
+          "gender": "2"
         },
         {
           "charaProfileId": "703",
@@ -566,8 +529,7 @@ window.charaname=[
           "weight": "4500",
           "bloodType": "1",
           "age": "16",
-          "gender": "2",
-          "engName": ""
+          "gender": "2"
         },
         {
           "charaProfileId": "704",
@@ -581,8 +543,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "1",
           "age": "0",
-          "gender": "2",
-          "engName": ""
+          "gender": "2"
         },
         {
           "charaProfileId": "801",
@@ -596,8 +557,7 @@ window.charaname=[
           "weight": "4470",
           "bloodType": "2",
           "age": "13",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "802",
@@ -611,8 +571,7 @@ window.charaname=[
           "weight": "5250",
           "bloodType": "2",
           "age": "17",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "901",
@@ -626,8 +585,7 @@ window.charaname=[
           "weight": "4850",
           "bloodType": "4",
           "age": "13",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "902",
@@ -641,8 +599,7 @@ window.charaname=[
           "weight": "5660",
           "bloodType": "4",
           "age": "17",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "1001",
@@ -656,8 +613,7 @@ window.charaname=[
           "weight": "4680",
           "bloodType": "3",
           "age": "14",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "1002",
@@ -671,8 +627,7 @@ window.charaname=[
           "weight": "5420",
           "bloodType": "3",
           "age": "17",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "1101",
@@ -686,8 +641,7 @@ window.charaname=[
           "weight": "4660",
           "bloodType": "1",
           "age": "13",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "1102",
@@ -701,8 +655,7 @@ window.charaname=[
           "weight": "4750",
           "bloodType": "1",
           "age": "14",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "1103",
@@ -716,8 +669,7 @@ window.charaname=[
           "weight": "5470",
           "bloodType": "1",
           "age": "17",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "1104",
@@ -731,8 +683,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "1",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "1201",
@@ -746,8 +697,7 @@ window.charaname=[
           "weight": "4220",
           "bloodType": "2",
           "age": "13",
-          "gender": "2",
-          "engName": ""
+          "gender": "2"
         },
         {
           "charaProfileId": "1202",
@@ -761,8 +711,7 @@ window.charaname=[
           "weight": "4730",
           "bloodType": "2",
           "age": "17",
-          "gender": "2",
-          "engName": ""
+          "gender": "2"
         },
         {
           "charaProfileId": "1203",
@@ -776,8 +725,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "2",
           "age": "0",
-          "gender": "2",
-          "engName": ""
+          "gender": "2"
         },
         {
           "charaProfileId": "1301",
@@ -791,8 +739,7 @@ window.charaname=[
           "weight": "3900",
           "bloodType": "4",
           "age": "12",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "1302",
@@ -806,8 +753,7 @@ window.charaname=[
           "weight": "5090",
           "bloodType": "4",
           "age": "16",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "1303",
@@ -821,8 +767,7 @@ window.charaname=[
           "weight": "3900",
           "bloodType": "4",
           "age": "12",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "1401",
@@ -836,8 +781,7 @@ window.charaname=[
           "weight": "4450",
           "bloodType": "3",
           "age": "15",
-          "gender": "2",
-          "engName": ""
+          "gender": "2"
         },
         {
           "charaProfileId": "1402",
@@ -851,8 +795,7 @@ window.charaname=[
           "weight": "4490",
           "bloodType": "3",
           "age": "16",
-          "gender": "2",
-          "engName": ""
+          "gender": "2"
         },
         {
           "charaProfileId": "1403",
@@ -866,8 +809,7 @@ window.charaname=[
           "weight": "4790",
           "bloodType": "3",
           "age": "19",
-          "gender": "2",
-          "engName": ""
+          "gender": "2"
         },
         {
           "charaProfileId": "1404",
@@ -881,8 +823,7 @@ window.charaname=[
           "weight": "4790",
           "bloodType": "3",
           "age": "19",
-          "gender": "2",
-          "engName": ""
+          "gender": "2"
         },
         {
           "charaProfileId": "1405",
@@ -896,8 +837,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "3",
           "age": "0",
-          "gender": "2",
-          "engName": ""
+          "gender": "2"
         },
         {
           "charaProfileId": "1501",
@@ -911,8 +851,7 @@ window.charaname=[
           "weight": "6000",
           "bloodType": "2",
           "age": "14",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "1502",
@@ -926,8 +865,7 @@ window.charaname=[
           "weight": "6120",
           "bloodType": "2",
           "age": "15",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "1503",
@@ -941,8 +879,7 @@ window.charaname=[
           "weight": "6120",
           "bloodType": "2",
           "age": "19",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "1601",
@@ -956,8 +893,7 @@ window.charaname=[
           "weight": "7600",
           "bloodType": "2",
           "age": "27",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "1602",
@@ -971,8 +907,7 @@ window.charaname=[
           "weight": "7600",
           "bloodType": "2",
           "age": "28",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "1603",
@@ -986,8 +921,7 @@ window.charaname=[
           "weight": "7600",
           "bloodType": "2",
           "age": "31",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "1701",
@@ -1001,8 +935,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "3",
           "age": "13",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "1702",
@@ -1016,8 +949,7 @@ window.charaname=[
           "weight": "6750",
           "bloodType": "3",
           "age": "27",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "1703",
@@ -1031,8 +963,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "3",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "1704",
@@ -1046,8 +977,7 @@ window.charaname=[
           "weight": "6750",
           "bloodType": "3",
           "age": "31",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "1705",
@@ -1061,8 +991,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "3",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "1706",
@@ -1076,8 +1005,7 @@ window.charaname=[
           "weight": "6750",
           "bloodType": "3",
           "age": "31",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "1707",
@@ -1091,8 +1019,7 @@ window.charaname=[
           "weight": "6750",
           "bloodType": "3",
           "age": "31",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "1801",
@@ -1106,8 +1033,7 @@ window.charaname=[
           "weight": "8160",
           "bloodType": "3",
           "age": "28",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "1802",
@@ -1121,8 +1047,7 @@ window.charaname=[
           "weight": "8160",
           "bloodType": "3",
           "age": "31",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "1901",
@@ -1136,8 +1061,7 @@ window.charaname=[
           "weight": "7400",
           "bloodType": "2",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "1902",
@@ -1151,8 +1075,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "2",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "1903",
@@ -1166,8 +1089,7 @@ window.charaname=[
           "weight": "7400",
           "bloodType": "2",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "2001",
@@ -1181,8 +1103,7 @@ window.charaname=[
           "weight": "7050",
           "bloodType": "1",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "2002",
@@ -1196,8 +1117,7 @@ window.charaname=[
           "weight": "7050",
           "bloodType": "1",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "2101",
@@ -1211,8 +1131,7 @@ window.charaname=[
           "weight": "6610",
           "bloodType": "2",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "2102",
@@ -1226,8 +1145,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "2",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "2103",
@@ -1241,8 +1159,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "2",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "2201",
@@ -1256,8 +1173,7 @@ window.charaname=[
           "weight": "5060",
           "bloodType": "1",
           "age": "69",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "2202",
@@ -1271,8 +1187,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "1",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "2301",
@@ -1286,8 +1201,7 @@ window.charaname=[
           "weight": "4890",
           "bloodType": "2",
           "age": "51",
-          "gender": "2",
-          "engName": ""
+          "gender": "2"
         },
         {
           "charaProfileId": "2302",
@@ -1301,8 +1215,7 @@ window.charaname=[
           "weight": "4890",
           "bloodType": "2",
           "age": "54",
-          "gender": "2",
-          "engName": ""
+          "gender": "2"
         },
         {
           "charaProfileId": "2303",
@@ -1316,8 +1229,7 @@ window.charaname=[
           "weight": "4890",
           "bloodType": "2",
           "age": "55",
-          "gender": "2",
-          "engName": ""
+          "gender": "2"
         },
         {
           "charaProfileId": "2304",
@@ -1331,8 +1243,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "2",
           "age": "0",
-          "gender": "2",
-          "engName": ""
+          "gender": "2"
         },
         {
           "charaProfileId": "2305",
@@ -1346,8 +1257,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "2",
           "age": "0",
-          "gender": "2",
-          "engName": ""
+          "gender": "2"
         },
         {
           "charaProfileId": "2401",
@@ -1361,8 +1271,7 @@ window.charaname=[
           "weight": "8750",
           "bloodType": "2",
           "age": "51",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "2402",
@@ -1376,8 +1285,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "2",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "2403",
@@ -1391,8 +1299,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "2",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "2501",
@@ -1406,8 +1313,7 @@ window.charaname=[
           "weight": "6620",
           "bloodType": "3",
           "age": "23",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "2502",
@@ -1421,8 +1327,7 @@ window.charaname=[
           "weight": "6620",
           "bloodType": "3",
           "age": "26",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "2503",
@@ -1436,8 +1341,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "3",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "2601",
@@ -1451,8 +1355,7 @@ window.charaname=[
           "weight": "5230",
           "bloodType": "2",
           "age": "24",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "2701",
@@ -1466,8 +1369,7 @@ window.charaname=[
           "weight": "5800",
           "bloodType": "1",
           "age": "24",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "2801",
@@ -1481,8 +1383,7 @@ window.charaname=[
           "weight": "4580",
           "bloodType": "1",
           "age": "24",
-          "gender": "2",
-          "engName": ""
+          "gender": "2"
         },
         {
           "charaProfileId": "2901",
@@ -1496,8 +1397,7 @@ window.charaname=[
           "weight": "5800",
           "bloodType": "5",
           "age": "23",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "3001",
@@ -1511,8 +1411,7 @@ window.charaname=[
           "weight": "7100",
           "bloodType": "1",
           "age": "30",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "3101",
@@ -1526,8 +1425,7 @@ window.charaname=[
           "weight": "4920",
           "bloodType": "1",
           "age": "28",
-          "gender": "2",
-          "engName": ""
+          "gender": "2"
         },
         {
           "charaProfileId": "3201",
@@ -1541,8 +1439,7 @@ window.charaname=[
           "weight": "2780",
           "bloodType": "2",
           "age": "8",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "3202",
@@ -1556,8 +1453,7 @@ window.charaname=[
           "weight": "3690",
           "bloodType": "2",
           "age": "12",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "3301",
@@ -1571,8 +1467,7 @@ window.charaname=[
           "weight": "5440",
           "bloodType": "4",
           "age": "27",
-          "gender": "2",
-          "engName": ""
+          "gender": "2"
         },
         {
           "charaProfileId": "3302",
@@ -1586,8 +1481,7 @@ window.charaname=[
           "weight": "5440",
           "bloodType": "4",
           "age": "31",
-          "gender": "2",
-          "engName": ""
+          "gender": "2"
         },
         {
           "charaProfileId": "3401",
@@ -1601,8 +1495,7 @@ window.charaname=[
           "weight": "6750",
           "bloodType": "1",
           "age": "28",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "3501",
@@ -1616,8 +1509,7 @@ window.charaname=[
           "weight": "8800",
           "bloodType": "1",
           "age": "27",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "3601",
@@ -1631,8 +1523,7 @@ window.charaname=[
           "weight": "6940",
           "bloodType": "4",
           "age": "27",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "3701",
@@ -1646,8 +1537,7 @@ window.charaname=[
           "weight": "5330",
           "bloodType": "1",
           "age": "17",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "3702",
@@ -1661,8 +1551,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "1",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "3801",
@@ -1676,8 +1565,7 @@ window.charaname=[
           "weight": "5840",
           "bloodType": "1",
           "age": "26",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "3901",
@@ -1691,8 +1579,7 @@ window.charaname=[
           "weight": "5960",
           "bloodType": "2",
           "age": "46",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "4001",
@@ -1706,8 +1593,7 @@ window.charaname=[
           "weight": "5270",
           "bloodType": "4",
           "age": "73",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "4101",
@@ -1721,8 +1607,7 @@ window.charaname=[
           "weight": "6890",
           "bloodType": "1",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "4201",
@@ -1736,8 +1621,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "1",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "4301",
@@ -1751,8 +1635,7 @@ window.charaname=[
           "weight": "4700",
           "bloodType": "2",
           "age": "0",
-          "gender": "2",
-          "engName": ""
+          "gender": "2"
         },
         {
           "charaProfileId": "4302",
@@ -1766,8 +1649,7 @@ window.charaname=[
           "weight": "4700",
           "bloodType": "2",
           "age": "0",
-          "gender": "2",
-          "engName": ""
+          "gender": "2"
         },
         {
           "charaProfileId": "4401",
@@ -1781,8 +1663,7 @@ window.charaname=[
           "weight": "7840",
           "bloodType": "2",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "4501",
@@ -1796,8 +1677,7 @@ window.charaname=[
           "weight": "5050",
           "bloodType": "1",
           "age": "22",
-          "gender": "2",
-          "engName": ""
+          "gender": "2"
         },
         {
           "charaProfileId": "4601",
@@ -1811,8 +1691,7 @@ window.charaname=[
           "weight": "2890",
           "bloodType": "1",
           "age": "7",
-          "gender": "2",
-          "engName": ""
+          "gender": "2"
         },
         {
           "charaProfileId": "4602",
@@ -1826,8 +1705,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "1",
           "age": "0",
-          "gender": "2",
-          "engName": ""
+          "gender": "2"
         },
         {
           "charaProfileId": "4701",
@@ -1841,8 +1719,7 @@ window.charaname=[
           "weight": "5590",
           "bloodType": "3",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "10101",
@@ -1856,8 +1733,7 @@ window.charaname=[
           "weight": "7200",
           "bloodType": "1",
           "age": "26",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "10201",
@@ -1871,8 +1747,7 @@ window.charaname=[
           "weight": "4320",
           "bloodType": "3",
           "age": "15",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "10301",
@@ -1886,8 +1761,7 @@ window.charaname=[
           "weight": "5730",
           "bloodType": "2",
           "age": "51",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "10302",
@@ -1901,8 +1775,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "2",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "10303",
@@ -1916,8 +1789,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "2",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "10401",
@@ -1931,8 +1803,7 @@ window.charaname=[
           "weight": "6500",
           "bloodType": "4",
           "age": "20",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "10402",
@@ -1946,8 +1817,7 @@ window.charaname=[
           "weight": "6500",
           "bloodType": "4",
           "age": "23",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "10403",
@@ -1961,8 +1831,7 @@ window.charaname=[
           "weight": "6500",
           "bloodType": "4",
           "age": "23",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "10501",
@@ -1976,8 +1845,7 @@ window.charaname=[
           "weight": "5400",
           "bloodType": "3",
           "age": "17",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "10601",
@@ -1991,8 +1859,7 @@ window.charaname=[
           "weight": "5100",
           "bloodType": "4",
           "age": "17",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "10701",
@@ -2006,8 +1873,7 @@ window.charaname=[
           "weight": "5100",
           "bloodType": "1",
           "age": "17",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "10801",
@@ -2021,8 +1887,7 @@ window.charaname=[
           "weight": "4900",
           "bloodType": "0",
           "age": "14",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "10901",
@@ -2036,8 +1901,7 @@ window.charaname=[
           "weight": "4900",
           "bloodType": "0",
           "age": "14",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "11001",
@@ -2051,8 +1915,7 @@ window.charaname=[
           "weight": "3900",
           "bloodType": "0",
           "age": "14",
-          "gender": "2",
-          "engName": ""
+          "gender": "2"
         },
         {
           "charaProfileId": "11101",
@@ -2066,8 +1929,7 @@ window.charaname=[
           "weight": "4980",
           "bloodType": "1",
           "age": "15",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "11201",
@@ -2081,8 +1943,7 @@ window.charaname=[
           "weight": "3820",
           "bloodType": "1",
           "age": "14",
-          "gender": "2",
-          "engName": ""
+          "gender": "2"
         },
         {
           "charaProfileId": "11301",
@@ -2096,8 +1957,7 @@ window.charaname=[
           "weight": "9730",
           "bloodType": "2",
           "age": "14",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "11401",
@@ -2111,8 +1971,7 @@ window.charaname=[
           "weight": "5620",
           "bloodType": "1",
           "age": "14",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "11501",
@@ -2126,8 +1985,7 @@ window.charaname=[
           "weight": "4500",
           "bloodType": "4",
           "age": "14",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "11601",
@@ -2141,8 +1999,7 @@ window.charaname=[
           "weight": "5800",
           "bloodType": "4",
           "age": "21",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "11602",
@@ -2156,8 +2013,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "4",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "11603",
@@ -2171,8 +2027,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "4",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "11701",
@@ -2186,8 +2041,7 @@ window.charaname=[
           "weight": "8310",
           "bloodType": "4",
           "age": "32",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "11801",
@@ -2201,8 +2055,7 @@ window.charaname=[
           "weight": "5720",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "11901",
@@ -2216,8 +2069,7 @@ window.charaname=[
           "weight": "5590",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "12001",
@@ -2231,8 +2083,7 @@ window.charaname=[
           "weight": "5080",
           "bloodType": "4",
           "age": "19",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "12101",
@@ -2246,8 +2097,7 @@ window.charaname=[
           "weight": "4730",
           "bloodType": "4",
           "age": "35",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "12201",
@@ -2261,8 +2111,7 @@ window.charaname=[
           "weight": "4730",
           "bloodType": "4",
           "age": "35",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "12202",
@@ -2276,8 +2125,7 @@ window.charaname=[
           "weight": "4730",
           "bloodType": "4",
           "age": "35",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "12203",
@@ -2291,8 +2139,7 @@ window.charaname=[
           "weight": "4730",
           "bloodType": "4",
           "age": "35",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "12301",
@@ -2306,8 +2153,7 @@ window.charaname=[
           "weight": "5680",
           "bloodType": "2",
           "age": "22",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "12401",
@@ -2321,8 +2167,7 @@ window.charaname=[
           "weight": "6320",
           "bloodType": "1",
           "age": "91",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "12501",
@@ -2336,8 +2181,7 @@ window.charaname=[
           "weight": "4530",
           "bloodType": "3",
           "age": "0",
-          "gender": "2",
-          "engName": ""
+          "gender": "2"
         },
         {
           "charaProfileId": "12502",
@@ -2351,8 +2195,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "3",
           "age": "0",
-          "gender": "2",
-          "engName": ""
+          "gender": "2"
         },
         {
           "charaProfileId": "12503",
@@ -2366,8 +2209,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "3",
           "age": "0",
-          "gender": "2",
-          "engName": ""
+          "gender": "2"
         },
         {
           "charaProfileId": "12601",
@@ -2381,8 +2223,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "0",
-          "engName": ""
+          "gender": "0"
         },
         {
           "charaProfileId": "12701",
@@ -2396,8 +2237,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "0",
-          "engName": ""
+          "gender": "0"
         },
         {
           "charaProfileId": "12801",
@@ -2411,8 +2251,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "0",
-          "engName": ""
+          "gender": "0"
         },
         {
           "charaProfileId": "12901",
@@ -2426,8 +2265,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "0",
-          "engName": ""
+          "gender": "0"
         },
         {
           "charaProfileId": "13001",
@@ -2441,8 +2279,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "0",
-          "engName": ""
+          "gender": "0"
         },
         {
           "charaProfileId": "13101",
@@ -2456,8 +2293,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "13201",
@@ -2471,8 +2307,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "3",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "13202",
@@ -2486,8 +2321,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "3",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "13301",
@@ -2501,8 +2335,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "1",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "13302",
@@ -2516,8 +2349,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "1",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "13303",
@@ -2531,8 +2363,7 @@ window.charaname=[
           "weight": "4010",
           "bloodType": "1",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "13304",
@@ -2546,8 +2377,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "1",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "13401",
@@ -2561,8 +2391,7 @@ window.charaname=[
           "weight": "4580",
           "bloodType": "4",
           "age": "16",
-          "gender": "2",
-          "engName": ""
+          "gender": "2"
         },
         {
           "charaProfileId": "13501",
@@ -2576,8 +2405,7 @@ window.charaname=[
           "weight": "7580",
           "bloodType": "4",
           "age": "19",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "13601",
@@ -2591,8 +2419,7 @@ window.charaname=[
           "weight": "5700",
           "bloodType": "2",
           "age": "16",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "13602",
@@ -2606,8 +2433,7 @@ window.charaname=[
           "weight": "5700",
           "bloodType": "2",
           "age": "17",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "13701",
@@ -2621,8 +2447,7 @@ window.charaname=[
           "weight": "7130",
           "bloodType": "3",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "13702",
@@ -2636,8 +2461,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "3",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "13703",
@@ -2651,8 +2475,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "3",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "13801",
@@ -2666,8 +2489,7 @@ window.charaname=[
           "weight": "7130",
           "bloodType": "3",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "13901",
@@ -2681,8 +2503,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "2",
           "age": "0",
-          "gender": "0",
-          "engName": ""
+          "gender": "0"
         },
         {
           "charaProfileId": "14001",
@@ -2696,8 +2517,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "0",
-          "engName": ""
+          "gender": "0"
         },
         {
           "charaProfileId": "14002",
@@ -2711,8 +2531,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "0",
-          "engName": ""
+          "gender": "0"
         },
         {
           "charaProfileId": "14101",
@@ -2726,8 +2545,7 @@ window.charaname=[
           "weight": "5860",
           "bloodType": "1",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "14201",
@@ -2741,8 +2559,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "2",
           "age": "0",
-          "gender": "0",
-          "engName": ""
+          "gender": "0"
         },
         {
           "charaProfileId": "14301",
@@ -2756,8 +2573,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "0",
-          "engName": ""
+          "gender": "0"
         },
         {
           "charaProfileId": "14401",
@@ -2771,8 +2587,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "14402",
@@ -2786,8 +2601,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "14501",
@@ -2801,8 +2615,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "14502",
@@ -2816,8 +2629,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "20001",
@@ -2831,8 +2643,7 @@ window.charaname=[
           "weight": "8710",
           "bloodType": "2",
           "age": "36",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "20101",
@@ -2846,8 +2657,7 @@ window.charaname=[
           "weight": "8710",
           "bloodType": "2",
           "age": "36",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "20201",
@@ -2861,8 +2671,7 @@ window.charaname=[
           "weight": "10110",
           "bloodType": "1",
           "age": "47",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "20301",
@@ -2876,8 +2685,7 @@ window.charaname=[
           "weight": "6850",
           "bloodType": "3",
           "age": "26",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "20401",
@@ -2891,8 +2699,7 @@ window.charaname=[
           "weight": "5300",
           "bloodType": "4",
           "age": "31",
-          "gender": "2",
-          "engName": ""
+          "gender": "2"
         },
         {
           "charaProfileId": "20402",
@@ -2906,8 +2713,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "4",
           "age": "0",
-          "gender": "2",
-          "engName": ""
+          "gender": "2"
         },
         {
           "charaProfileId": "20501",
@@ -2921,8 +2727,7 @@ window.charaname=[
           "weight": "4230",
           "bloodType": "3",
           "age": "79",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "20601",
@@ -2936,8 +2741,7 @@ window.charaname=[
           "weight": "3910",
           "bloodType": "2",
           "age": "73",
-          "gender": "2",
-          "engName": ""
+          "gender": "2"
         },
         {
           "charaProfileId": "20701",
@@ -2951,8 +2755,7 @@ window.charaname=[
           "weight": "5580",
           "bloodType": "1",
           "age": "26",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "20801",
@@ -2966,8 +2769,7 @@ window.charaname=[
           "weight": "7090",
           "bloodType": "1",
           "age": "46",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "20901",
@@ -2981,8 +2783,7 @@ window.charaname=[
           "weight": "4950",
           "bloodType": "2",
           "age": "19",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "21001",
@@ -2996,8 +2797,7 @@ window.charaname=[
           "weight": "5560",
           "bloodType": "3",
           "age": "0",
-          "gender": "0",
-          "engName": ""
+          "gender": "0"
         },
         {
           "charaProfileId": "21101",
@@ -3011,8 +2811,7 @@ window.charaname=[
           "weight": "5950",
           "bloodType": "2",
           "age": "26",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "21201",
@@ -3026,8 +2825,7 @@ window.charaname=[
           "weight": "6410",
           "bloodType": "1",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "21301",
@@ -3041,8 +2839,7 @@ window.charaname=[
           "weight": "7540",
           "bloodType": "4",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "21401",
@@ -3056,8 +2853,7 @@ window.charaname=[
           "weight": "4750",
           "bloodType": "3",
           "age": "18",
-          "gender": "2",
-          "engName": ""
+          "gender": "2"
         },
         {
           "charaProfileId": "21501",
@@ -3071,8 +2867,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "50001",
@@ -3086,8 +2881,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "0",
-          "engName": ""
+          "gender": "0"
         },
         {
           "charaProfileId": "50101",
@@ -3101,8 +2895,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "0",
-          "engName": ""
+          "gender": "0"
         },
         {
           "charaProfileId": "50201",
@@ -3116,8 +2909,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "0",
-          "engName": ""
+          "gender": "0"
         },
         {
           "charaProfileId": "50301",
@@ -3131,8 +2923,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "0",
-          "engName": ""
+          "gender": "0"
         },
         {
           "charaProfileId": "50401",
@@ -3146,8 +2937,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "50501",
@@ -3161,8 +2951,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "50601",
@@ -3176,8 +2965,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "50701",
@@ -3191,8 +2979,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "50801",
@@ -3206,8 +2993,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "2",
-          "engName": ""
+          "gender": "2"
         },
         {
           "charaProfileId": "50901",
@@ -3221,8 +3007,7 @@ window.charaname=[
           "weight": "4450",
           "bloodType": "3",
           "age": "13",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "50902",
@@ -3236,8 +3021,7 @@ window.charaname=[
           "weight": "7030",
           "bloodType": "3",
           "age": "31",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "50903",
@@ -3251,8 +3035,7 @@ window.charaname=[
           "weight": "7030",
           "bloodType": "3",
           "age": "31",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "51001",
@@ -3266,8 +3049,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "1",
           "age": "0",
-          "gender": "2",
-          "engName": ""
+          "gender": "2"
         },
         {
           "charaProfileId": "51101",
@@ -3281,8 +3063,7 @@ window.charaname=[
           "weight": "3700",
           "bloodType": "3",
           "age": "61",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "51201",
@@ -3296,8 +3077,7 @@ window.charaname=[
           "weight": "6400",
           "bloodType": "3",
           "age": "47",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "51301",
@@ -3311,8 +3091,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "0",
-          "engName": ""
+          "gender": "0"
         },
         {
           "charaProfileId": "51401",
@@ -3326,8 +3105,7 @@ window.charaname=[
           "weight": "5910",
           "bloodType": "1",
           "age": "31",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "51501",
@@ -3341,8 +3119,7 @@ window.charaname=[
           "weight": "7230",
           "bloodType": "3",
           "age": "65",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "100101",
@@ -3356,8 +3133,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "100201",
@@ -3371,8 +3147,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "100301",
@@ -3386,8 +3161,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "100401",
@@ -3401,8 +3175,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "100501",
@@ -3416,8 +3189,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "100601",
@@ -3431,8 +3203,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "100701",
@@ -3446,8 +3217,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "100801",
@@ -3461,8 +3231,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "100901",
@@ -3476,8 +3245,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "101001",
@@ -3491,8 +3259,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "101101",
@@ -3506,8 +3273,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "101201",
@@ -3521,8 +3287,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "101301",
@@ -3536,8 +3301,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "101401",
@@ -3551,8 +3315,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "101501",
@@ -3566,8 +3329,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "101601",
@@ -3581,8 +3343,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "101701",
@@ -3596,8 +3357,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "101801",
@@ -3611,8 +3371,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "101901",
@@ -3626,8 +3385,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "102001",
@@ -3641,8 +3399,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "102101",
@@ -3656,8 +3413,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "102201",
@@ -3671,8 +3427,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "102301",
@@ -3686,8 +3441,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "102401",
@@ -3701,8 +3455,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "102501",
@@ -3716,8 +3469,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "102601",
@@ -3731,8 +3483,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "102701",
@@ -3746,8 +3497,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "102801",
@@ -3761,8 +3511,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "102901",
@@ -3776,8 +3525,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "103001",
@@ -3791,8 +3539,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "103101",
@@ -3806,8 +3553,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "103201",
@@ -3821,8 +3567,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "103301",
@@ -3836,8 +3581,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "103401",
@@ -3851,8 +3595,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "103501",
@@ -3866,8 +3609,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "103601",
@@ -3881,8 +3623,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "103701",
@@ -3896,8 +3637,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "103801",
@@ -3911,8 +3651,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "103901",
@@ -3926,8 +3665,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "104001",
@@ -3941,8 +3679,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "104101",
@@ -3956,8 +3693,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "104102",
@@ -3971,8 +3707,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "0",
-          "engName": ""
+          "gender": "0"
         },
         {
           "charaProfileId": "104201",
@@ -3986,8 +3721,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "104301",
@@ -4001,8 +3735,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "104401",
@@ -4016,8 +3749,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "104501",
@@ -4031,8 +3763,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "104601",
@@ -4046,8 +3777,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "104701",
@@ -4061,8 +3791,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "104801",
@@ -4076,8 +3805,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "104901",
@@ -4091,8 +3819,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "105001",
@@ -4106,8 +3833,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "105101",
@@ -4121,8 +3847,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "105201",
@@ -4136,8 +3861,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "105301",
@@ -4151,8 +3875,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "105401",
@@ -4166,8 +3889,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "105501",
@@ -4181,8 +3903,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "105601",
@@ -4196,8 +3917,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "105701",
@@ -4211,8 +3931,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "105801",
@@ -4226,8 +3945,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "105901",
@@ -4241,8 +3959,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "106001",
@@ -4256,8 +3973,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "106101",
@@ -4271,8 +3987,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "106201",
@@ -4286,8 +4001,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "106301",
@@ -4301,8 +4015,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "106401",
@@ -4316,8 +4029,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "106501",
@@ -4331,8 +4043,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "106601",
@@ -4346,8 +4057,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "106701",
@@ -4361,8 +4071,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "106801",
@@ -4376,8 +4085,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "106901",
@@ -4391,8 +4099,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "107001",
@@ -4406,8 +4113,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "107101",
@@ -4421,8 +4127,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "107201",
@@ -4436,8 +4141,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "107301",
@@ -4451,8 +4155,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "107401",
@@ -4466,8 +4169,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "107501",
@@ -4481,8 +4183,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "107601",
@@ -4496,8 +4197,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "107701",
@@ -4511,8 +4211,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "107801",
@@ -4526,8 +4225,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "107901",
@@ -4541,8 +4239,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "108001",
@@ -4556,8 +4253,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "108101",
@@ -4571,8 +4267,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "108201",
@@ -4586,8 +4281,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "108301",
@@ -4601,8 +4295,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "108401",
@@ -4616,8 +4309,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "108501",
@@ -4631,8 +4323,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "108601",
@@ -4646,8 +4337,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "108701",
@@ -4661,8 +4351,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "108801",
@@ -4676,8 +4365,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "108901",
@@ -4691,8 +4379,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "109001",
@@ -4706,8 +4393,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "109101",
@@ -4721,8 +4407,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "109201",
@@ -4736,8 +4421,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "109301",
@@ -4751,8 +4435,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "109401",
@@ -4766,8 +4449,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "109501",
@@ -4781,8 +4463,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "109601",
@@ -4796,8 +4477,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "109701",
@@ -4811,8 +4491,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "109801",
@@ -4826,8 +4505,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "109901",
@@ -4841,8 +4519,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "110001",
@@ -4856,8 +4533,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "110101",
@@ -4871,8 +4547,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "110201",
@@ -4886,8 +4561,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "110301",
@@ -4901,8 +4575,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "110401",
@@ -4916,8 +4589,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "110501",
@@ -4931,8 +4603,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "110601",
@@ -4946,8 +4617,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "110701",
@@ -4961,8 +4631,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "110801",
@@ -4976,8 +4645,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "110901",
@@ -4991,8 +4659,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "111001",
@@ -5006,8 +4673,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "111101",
@@ -5021,8 +4687,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "111201",
@@ -5036,8 +4701,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "111301",
@@ -5051,8 +4715,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "111401",
@@ -5066,8 +4729,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "111501",
@@ -5081,8 +4743,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "111601",
@@ -5096,8 +4757,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "111701",
@@ -5111,8 +4771,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "111801",
@@ -5126,8 +4785,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "111901",
@@ -5141,8 +4799,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "112001",
@@ -5156,8 +4813,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "112101",
@@ -5171,8 +4827,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "112201",
@@ -5186,8 +4841,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "112301",
@@ -5201,8 +4855,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "112401",
@@ -5216,8 +4869,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "112501",
@@ -5231,8 +4883,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "112601",
@@ -5246,8 +4897,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "112701",
@@ -5261,8 +4911,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "112801",
@@ -5276,8 +4925,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "112901",
@@ -5291,8 +4939,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "113001",
@@ -5306,8 +4953,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "113101",
@@ -5321,8 +4967,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "113201",
@@ -5336,8 +4981,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "113301",
@@ -5351,8 +4995,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "113401",
@@ -5366,8 +5009,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "113501",
@@ -5381,8 +5023,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "113601",
@@ -5396,8 +5037,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "113701",
@@ -5411,8 +5051,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "113801",
@@ -5426,8 +5065,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "113901",
@@ -5441,8 +5079,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "114001",
@@ -5456,8 +5093,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "114101",
@@ -5471,8 +5107,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "114201",
@@ -5486,8 +5121,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "114301",
@@ -5501,8 +5135,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "114401",
@@ -5516,8 +5149,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "114501",
@@ -5531,8 +5163,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "114601",
@@ -5546,8 +5177,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "114701",
@@ -5561,8 +5191,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "114801",
@@ -5576,8 +5205,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "114901",
@@ -5591,8 +5219,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "115001",
@@ -5606,8 +5233,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "115101",
@@ -5621,8 +5247,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "115201",
@@ -5636,8 +5261,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "115301",
@@ -5651,8 +5275,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "115401",
@@ -5666,8 +5289,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "115501",
@@ -5681,8 +5303,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "115601",
@@ -5696,8 +5317,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "115701",
@@ -5711,8 +5331,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "115801",
@@ -5726,8 +5345,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "115901",
@@ -5741,8 +5359,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "116001",
@@ -5756,8 +5373,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "116101",
@@ -5771,8 +5387,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "116201",
@@ -5786,8 +5401,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "116301",
@@ -5801,8 +5415,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "116401",
@@ -5816,8 +5429,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "117001",
@@ -5831,8 +5443,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "118001",
@@ -5846,8 +5457,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "118101",
@@ -5861,8 +5471,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "0",
-          "engName": ""
+          "gender": "0"
         },
         {
           "charaProfileId": "120001",
@@ -5876,8 +5485,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "120101",
@@ -5891,8 +5499,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "120201",
@@ -5906,8 +5513,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "120301",
@@ -5921,8 +5527,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "120401",
@@ -5936,8 +5541,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "120801",
@@ -5951,8 +5555,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "130001",
@@ -5966,8 +5569,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "130101",
@@ -5981,8 +5583,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "130201",
@@ -5996,8 +5597,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "130301",
@@ -6011,8 +5611,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "130401",
@@ -6026,8 +5625,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "130501",
@@ -6041,8 +5639,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "130601",
@@ -6056,8 +5653,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "130701",
@@ -6071,8 +5667,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "900001",
@@ -6086,8 +5681,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "0",
-          "engName": ""
+          "gender": "0"
         },
         {
           "charaProfileId": "900002",
@@ -6101,8 +5695,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "0",
-          "engName": ""
+          "gender": "0"
         },
         {
           "charaProfileId": "900003",
@@ -6116,8 +5709,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "0",
-          "engName": ""
+          "gender": "0"
         },
         {
           "charaProfileId": "900004",
@@ -6131,8 +5723,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "0",
-          "engName": ""
+          "gender": "0"
         },
         {
           "charaProfileId": "900005",
@@ -6146,8 +5737,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "0",
-          "engName": ""
+          "gender": "0"
         },
         {
           "charaProfileId": "900006",
@@ -6161,8 +5751,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "0",
-          "engName": ""
+          "gender": "0"
         },
         {
           "charaProfileId": "900007",
@@ -6176,8 +5765,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "0",
-          "engName": ""
+          "gender": "0"
         },
         {
           "charaProfileId": "900008",
@@ -6191,8 +5779,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "0",
-          "engName": ""
+          "gender": "0"
         },
         {
           "charaProfileId": "900009",
@@ -6206,8 +5793,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "0",
-          "engName": ""
+          "gender": "0"
         },
         {
           "charaProfileId": "900010",
@@ -6221,8 +5807,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "0",
-          "engName": ""
+          "gender": "0"
         },
         {
           "charaProfileId": "900011",
@@ -6236,8 +5821,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "0",
-          "engName": ""
+          "gender": "0"
         },
         {
           "charaProfileId": "900012",
@@ -6251,8 +5835,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "0",
-          "engName": ""
+          "gender": "0"
         },
         {
           "charaProfileId": "900013",
@@ -6266,8 +5849,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "0",
-          "engName": ""
+          "gender": "0"
         },
         {
           "charaProfileId": "900014",
@@ -6281,8 +5863,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "0",
-          "engName": ""
+          "gender": "0"
         },
         {
           "charaProfileId": "900015",
@@ -6296,8 +5877,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "0",
-          "engName": ""
+          "gender": "0"
         },
         {
           "charaProfileId": "900016",
@@ -6311,8 +5891,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "0",
-          "engName": ""
+          "gender": "0"
         },
         {
           "charaProfileId": "900017",
@@ -6326,8 +5905,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "0",
-          "engName": ""
+          "gender": "0"
         },
         {
           "charaProfileId": "900018",
@@ -6341,8 +5919,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "0",
-          "engName": ""
+          "gender": "0"
         },
         {
           "charaProfileId": "900019",
@@ -6356,8 +5933,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "0",
-          "engName": ""
+          "gender": "0"
         },
         {
           "charaProfileId": "900020",
@@ -6371,8 +5947,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "0",
-          "engName": ""
+          "gender": "0"
         },
         {
           "charaProfileId": "900021",
@@ -6386,8 +5961,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "0",
-          "engName": ""
+          "gender": "0"
         },
         {
           "charaProfileId": "900022",
@@ -6401,8 +5975,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "0",
-          "engName": ""
+          "gender": "0"
         },
         {
           "charaProfileId": "900023",
@@ -6416,8 +5989,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "0",
-          "engName": ""
+          "gender": "0"
         },
         {
           "charaProfileId": "900024",
@@ -6431,8 +6003,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "0",
-          "engName": ""
+          "gender": "0"
         },
         {
           "charaProfileId": "900025",
@@ -6446,8 +6017,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "0",
-          "engName": ""
+          "gender": "0"
         },
         {
           "charaProfileId": "900026",
@@ -6461,8 +6031,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "0",
-          "engName": ""
+          "gender": "0"
         },
         {
           "charaProfileId": "900027",
@@ -6476,8 +6045,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "0",
-          "engName": ""
+          "gender": "0"
         },
         {
           "charaProfileId": "900028",
@@ -6491,8 +6059,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "0",
-          "engName": ""
+          "gender": "0"
         },
         {
           "charaProfileId": "900029",
@@ -6506,8 +6073,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "0",
-          "engName": ""
+          "gender": "0"
         },
         {
           "charaProfileId": "900030",
@@ -6521,8 +6087,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "0",
-          "engName": ""
+          "gender": "0"
         },
         {
           "charaProfileId": "900031",
@@ -6536,8 +6101,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "0",
-          "engName": ""
+          "gender": "0"
         },
         {
           "charaProfileId": "900032",
@@ -6551,8 +6115,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "0",
-          "engName": ""
+          "gender": "0"
         },
         {
           "charaProfileId": "900033",
@@ -6566,8 +6129,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "0",
-          "engName": ""
+          "gender": "0"
         },
         {
           "charaProfileId": "900034",
@@ -6581,8 +6143,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "0",
-          "engName": ""
+          "gender": "0"
         },
         {
           "charaProfileId": "900035",
@@ -6596,8 +6157,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "0",
-          "engName": ""
+          "gender": "0"
         },
         {
           "charaProfileId": "900036",
@@ -6611,8 +6171,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "0",
-          "engName": ""
+          "gender": "0"
         },
         {
           "charaProfileId": "900037",
@@ -6626,8 +6185,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "0",
-          "engName": ""
+          "gender": "0"
         },
         {
           "charaProfileId": "900038",
@@ -6641,8 +6199,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "0",
-          "engName": ""
+          "gender": "0"
         },
         {
           "charaProfileId": "900039",
@@ -6656,8 +6213,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "0",
-          "engName": ""
+          "gender": "0"
         },
         {
           "charaProfileId": "900040",
@@ -6671,8 +6227,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "0",
-          "engName": ""
+          "gender": "0"
         },
         {
           "charaProfileId": "900041",
@@ -6686,8 +6241,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "0",
-          "engName": ""
+          "gender": "0"
         },
         {
           "charaProfileId": "900042",
@@ -6701,8 +6255,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "900043",
@@ -6716,8 +6269,7 @@ window.charaname=[
           "weight": "7850",
           "bloodType": "1",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "900044",
@@ -6731,8 +6283,7 @@ window.charaname=[
           "weight": "8010",
           "bloodType": "4",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "900045",
@@ -6746,8 +6297,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "900046",
@@ -6761,8 +6311,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         },
         {
           "charaProfileId": "900047",
@@ -6776,7 +6325,6 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "1",
-          "engName": ""
+          "gender": "1"
         }
 ]

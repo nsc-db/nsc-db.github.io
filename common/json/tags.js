@@ -4152,21 +4152,18 @@ window.tags=[
           "rate": "50"
 },
 {
-          "cardId": "20040309",
+          "cardId": "20040311",
           "rare": "5",
           "tag": "killers",
           "rate": "50"
 },
 {
-<<<<<<< HEAD
           "cardId": "20040312",
           "rare": "5",
           "tag": "ex-6",
           "rate": "50"
 },
 {
-=======
->>>>>>> parent of c49f766... sakura
           "cardId": "20040315",
           "rare": "5",
           "tag": "event",
@@ -4184,13 +4181,10 @@ window.tags=[
           "tag": "event",
           "rate": "50"
 },
-<<<<<<< HEAD
 {
           "cardId": "20040401",
           "rare": "5",
           "tag": "pmiles",
           "rate": "50"
 },
-=======
->>>>>>> parent of c49f766... sakura
 ]
