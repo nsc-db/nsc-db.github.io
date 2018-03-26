@@ -5925,6 +5925,7 @@ window.skillname=[
           "eng": ""
         },
         {
+<<<<<<< HEAD
           "cardBattleSkillNameId": "2318",
           "name": "桜花桃撃波",
           "eng": ""
@@ -5935,6 +5936,8 @@ window.skillname=[
           "eng": ""
         },
         {
+=======
+>>>>>>> parent of c49f766... sakura
           "cardBattleSkillNameId": "2330",
           "name": "仲間はオレが守る！！",
           "eng": ""
@@ -5945,11 +5948,14 @@ window.skillname=[
           "eng": ""
         },
         {
+<<<<<<< HEAD
           "cardBattleSkillNameId": "2334",
           "name": "動きを止める！",
           "eng": ""
         },
         {
+=======
+>>>>>>> parent of c49f766... sakura
           "cardBattleSkillNameId": "2335",
           "name": "二重百豪・口寄せ・カツユ",
           "eng": ""

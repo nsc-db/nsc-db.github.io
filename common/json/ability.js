@@ -19525,6 +19525,7 @@ window.ability=[
           "engDescription": ""
         },
         {
+<<<<<<< HEAD
           "abilityId": "1807",
           "abilityName": "師匠譲りの負けん気",
           "abilityDescription": "スキルダメージが100％アップし、HPが0以下になると2回までHPが全回復する",
@@ -19547,6 +19548,8 @@ window.ability=[
           "engDescription": ""
         },
         {
+=======
+>>>>>>> parent of c49f766... sakura
           "abilityId": "1813",
           "abilityName": "カカシへの対抗心",
           "abilityDescription": "最大HPとスキルダメージが50％アップ、HPが50％以下になると素早さが100％アップする",
@@ -19657,6 +19660,7 @@ window.ability=[
           "engDescription": ""
         },
         {
+<<<<<<< HEAD
           "abilityId": "1823",
           "abilityName": "万能の妙手",
           "abilityDescription": "行動後、確率でスキル発動速度が2段階アップする",
@@ -19679,6 +19683,8 @@ window.ability=[
           "engDescription": ""
         },
         {
+=======
+>>>>>>> parent of c49f766... sakura
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

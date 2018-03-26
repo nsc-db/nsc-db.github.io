@@ -1,5 +1,5 @@
 window.lead=[
-       {
+        {
           "cardLeaderSkillId": "1",
           "name": "疾風の如く",
           "description": "心属性の攻撃力を１５％アップする",
@@ -10395,6 +10395,7 @@ window.lead=[
 
         },
         {
+<<<<<<< HEAD
           "cardLeaderSkillId": "699",
           "name": "戦陣の防人",
           "description": "木ノ葉隠れの里所属の攻撃力が80％アップし、行動後HPとチャクラが10％回復",
@@ -10410,6 +10411,8 @@ window.lead=[
 
         },
         {
+=======
+>>>>>>> parent of c49f766... sakura
           "cardLeaderSkillId": "702",
           "name": "仲間を想う力",
           "description": "木ノ葉隠れの里所属の各自が6回行動するまで、受ける全スキルを半減する",
@@ -10450,6 +10453,7 @@ window.lead=[
           "target1Category": "1",
           "target1Param": "3",
           "target2Category": "0",
+<<<<<<< HEAD
           "target2Param": "0",
           "engDesc": ""
 
@@ -10468,5 +10472,8 @@ window.lead=[
           "target2Param": "0",
           "engDesc": ""
 
+=======
+          "target2Param": "0"
+>>>>>>> parent of c49f766... sakura
         }
 ]
