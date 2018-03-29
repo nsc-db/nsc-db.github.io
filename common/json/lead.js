@@ -9022,6 +9022,19 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "701",
+          "name": "強さを求める眼差し",
+          "description": "技属性の素早さを90%アップする",
+          "effectIdx1": "13089",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "2",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "702",
           "name": "仲間を想う力",
           "description": "木ノ葉隠れの里所属の各自が6回行動するまで、受ける全スキルを半減する",

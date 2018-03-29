@@ -15993,6 +15993,24 @@ window.ability=[
           "effectIdx3": "1106"
         },
         {
+          "abilityId": "1811",
+          "abilityName": "天性の戦闘センス",
+          "abilityDescription": "HPが90%以上の時、通常攻撃が回避されない",
+          "abilityEffectDescription": "HPが90%以上の時、通常攻撃が回避されない",
+          "effectIdx1": "1669",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1812",
+          "abilityName": "復讐への執念",
+          "abilityDescription": "最大HPと防御力が80%アップする",
+          "abilityEffectDescription": "最大HPと防御力が80%アップする",
+          "effectIdx1": "649",
+          "effectIdx2": "12079",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "1813",
           "abilityName": "カカシへの対抗心",
           "abilityDescription": "最大HPとスキルダメージが50％アップ、HPが50％以下になると素早さが100％アップする",

@@ -1,5 +1,5 @@
 window.skillname=[
-{
+        {
           "cardBattleSkillNameId": "1",
           "name": "螺旋丸"
         },
@@ -4746,6 +4746,14 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "2320",
           "name": "私だって一緒に強くなる！！"
+        },
+        {
+          "cardBattleSkillNameId": "2325",
+          "name": "オレに殺されたいのか"
+        },
+        {
+          "cardBattleSkillNameId": "2326",
+          "name": "だから断ち切った"
         },
         {
           "cardBattleSkillNameId": "2330",
