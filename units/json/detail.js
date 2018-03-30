@@ -10080,7 +10080,7 @@ window.detail = {
         skill2type: "Taijutsu",
         skill2speed: "Fastest",
         skill2cost: "100",
-        skill2: "Own Basic Attack Crit Chance +70%, grant \"Kick Specialty\" state and remove \"Wind Specialty\" state. [Kick Specialty: SPD +100%, Crit Damage +200% and HP Regen +20%]",
+        skill2: "Own Basic Attack Crit Chance +70%, grant \"Kick Specialty\" state and remove \"Wind Specialty\" state. [Kick Specialty: SPD +100%, Crit Damage +200% and HP Regen +10%]",
 
         ability1name: "I Love Ichiraku Ramen",
         ability1: "Basic Attack can't be dodges when HP is above 90%",
@@ -10105,7 +10105,7 @@ window.detail = {
         skill2type: "Taijutsu",
         skill2speed: "Fastest",
         skill2cost: "100",
-        skill2: "Own Basic Attack Crit Chance +70%, grant \"Kick Specialty\" state and remove \"Wind Specialty\" state. [Kick Specialty: SPD +100%, Crit Damage +200% and HP Regen +20%]",
+        skill2: "Own Basic Attack Crit Chance +70%, grant \"Kick Specialty\" state and remove \"Wind Specialty\" state. [Kick Specialty: SPD +100%, Crit Damage +200% and HP Regen +10%]",
 
         ability1name: "I Love Ichiraku Ramen",
         ability1: "Basic Attack can't be dodges when HP is above 90%",
@@ -10713,5 +10713,105 @@ window.detail = {
 		ability2name: "Protecting Important Friends",
 		ability2: "ATK, DEF and SPD +20% per Konoha allies"
 	},
+
+	701: {
+        leadname: "Quest for Power",
+        lead: "Heart Konoha Characters SPD +90%" ,
+
+        skill1name: "Do You Want to Die by My Hands?",
+        skill1ogname: "オレに殺されたいのか",
+        skill1type: "Lightning",
+        skill1speed: "Fastest",
+        skill1cost: "100",
+        skill1: "Own Basic Attack Crit Chance +70%, grant \"Lightning Specialty\" state and remove \"Slashing Specialty\" state. [Lightning Specialty: ATK +100% and Crit Damage +800%]",
+
+        skill2name: "Severe",
+        skill2ogname: "だから断ち切った",
+        skill2type: "Weapon",
+        skill2speed: "Fastest",
+        skill2cost: "100",
+        skill2: "Own Basic Attack Crit Chance +70%, grant \"Slashing Specialty\" state and remove \"Lightning Specialty\" state. [Slashing Specialty: SPD +100%, Crit Damage +200% and HP Regen +10%]",
+
+        ability1name: "Battle Nature",
+        ability1: "Basic Attack can't be dodges when HP is above 90%",
+
+        ability2name: "Obsession with Revenge",
+        ability2: "Maximum HP and DEF +80%"
+    },
+
+    "701_6": {
+        leadname: "Quest for Power",
+        lead: "Heart Konoha Characters SPD +90%" ,
+
+        skill1name: "Do You Want to Die by My Hands?",
+        skill1ogname: "オレに殺されたいのか",
+        skill1type: "Lightning",
+        skill1speed: "Fastest",
+        skill1cost: "100",
+        skill1: "Own Basic Attack Crit Chance +70%, grant \"Lightning Specialty\" state and remove \"Slashing Specialty\" state. [Lightning Specialty: ATK +100% and Crit Damage +800%]",
+
+        skill2name: "Severe",
+        skill2ogname: "だから断ち切った",
+        skill2type: "Weapon",
+        skill2speed: "Fastest",
+        skill2cost: "100",
+        skill2: "Own Basic Attack Crit Chance +70%, grant \"Slashing Specialty\" state and remove \"Lightning Specialty\" state. [Slashing Specialty: SPD +100%, Crit Damage +200% and HP Regen +10%]",
+
+        ability1name: "Battle Nature",
+        ability1: "Basic Attack can't be dodges when HP is above 90%",
+
+        ability2name: "Obsession with Revenge",
+        ability2: "Maximum HP and DEF +80%"
+    },
+
+    702: {
+        leadname: "Gedo Mazo Puppet",
+        lead: "Summoning and Sharingan Skill Damage +50%" ,
+
+        skill1name: "Gedo Mazo: Beckon of Light",
+        skill1ogname: "外道魔像・招雷光墜",
+        skill1type: "Summoning",
+        skill1speed: "Fast",
+        skill1cost: "100",
+        skill1: "Deal 9,999 fixed damage to all enemies. Deal 30x damage to EX and PvP Rewards",
+
+        skill2name: "Finally, The War Begins",
+        skill2ogname: "やっとオレも参戦だ",
+        skill2type: "Unique",
+        skill2speed: "Fastest",
+        skill2cost: "80",
+        skill2: "Own SPD +100%. If one of the enemy is an EX or PvP Reward, own Skill Damage +300% and Cast Speed +1",
+
+        ability1name: "Gedo Mazo's Eye",
+        ability1: "Chakra Cost is 0 and Cast Speed +2 for 1 turn. After 1 turn, Skill Damage +100%",
+
+        ability2name: "Slip Through",
+        ability2: "SPD +100%. CHance to Dodge Skill when HP Chakra is above 90%"
+    },
+
+    "702_6": {
+         leadname: "Gedo Mazo Puppet",
+        lead: "Summoning and Sharingan Skill Damage +50%" ,
+
+        skill1name: "Gedo Mazo: Beckon of Light",
+        skill1ogname: "外道魔像・招雷光墜",
+        skill1type: "Summoning",
+        skill1speed: "Fast",
+        skill1cost: "100",
+        skill1: "Deal 9,999 fixed damage to all enemies. Deal 30x damage to EX and PvP Rewards",
+
+        skill2name: "Finally, The War Begins",
+        skill2ogname: "やっとオレも参戦だ",
+        skill2type: "Unique",
+        skill2speed: "Fastest",
+        skill2cost: "80",
+        skill2: "Own SPD +100%. If one of the enemy is an EX or PvP Reward, own Skill Damage +300% and Cast Speed +1",
+
+        ability1name: "Gedo Mazo's Eye",
+        ability1: "Chakra Cost is 0 and Cast Speed +2 for 1 turn. After 1 turn, Skill Damage +100%",
+
+        ability2name: "Slip Through",
+        ability2: "SPD +100%. CHance to Dodge Skill when HP Chakra is above 90%"
+    },
 }
 

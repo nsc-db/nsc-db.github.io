@@ -445,4 +445,8 @@ window.unit=[
  [699, "Sasori, Four Limbs Manipulation", "Body", "Akatsuki", 6, 40, 26593, 35437, 21523, 219, 0, 0, 0, 0, 1],
  [700, "Sakura Haruno, Battlefield Soldier", "Courage", "Konoha", 6, 50, 28056, 46119, 24063, 253, 16, 17, 163, 0, 0],
  [700, "Sakura Haruno, Battlefield Soldier", "Courage", "Konoha", 6, 50, 28056, 46119, 24063, 253, 0, 0, 0, 0, 1],
+ [701, "Sasuke Uchiha, Quest for Power", "Technique", "Taka", 6, 40, 22345, 983509, 22523, 235, 16, 17, 163, 0, 0],
+ [701, "Sasuke Uchiha, Quest for Power", "Technique", "Taka", 6, 40, 22345, 983509, 22523, 235, 0, 0, 0, 0, 1],
+ [702, "Masked Man, Gedo Mazo Pupper", "Technique", "None", 6, 40, 28515, 24901, 24151, 246, 16, 17, 163, 0, 0],
+ [702, "Masked Man, Gedo Mazo Pupper", "Technique", "None", 6, 40, 28515, 24901, 24151, 246, 0, 0, 0, 0, 1],
 ]

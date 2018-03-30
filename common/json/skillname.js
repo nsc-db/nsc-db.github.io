@@ -4784,6 +4784,30 @@ window.skillname=[
           "name": "まぬけ！"
         },
         {
+          "cardBattleSkillNameId": "2348",
+          "name": "外道魔像・招雷光墜"
+        },
+        {
+          "cardBattleSkillNameId": "2350",
+          "name": "やっとオレも参戦だ"
+        },
+        {
+          "cardBattleSkillNameId": "2352",
+          "name": "影寄せの術"
+        },
+        {
+          "cardBattleSkillNameId": "2354",
+          "name": "そいつがてめーの墓穴だ"
+        },
+        {
+          "cardBattleSkillNameId": "2398",
+          "name": "ご愛顧有難うございました"
+        },
+        {
+          "cardBattleSkillNameId": "2400",
+          "name": "都合により閉店いたしました"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },

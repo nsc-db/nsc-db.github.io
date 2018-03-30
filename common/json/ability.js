@@ -16119,6 +16119,60 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "1827",
+          "abilityName": "魔像操りし瞳",
+          "abilityDescription": "1回行動するまでチャクラ消費量が0になりスキル発動速度が2段階アップ、1回行動後はスキルダメージ100%アップ",
+          "abilityEffectDescription": "1回行動するまでチャクラ消費量が0になりスキル発動速度が2段階アップ、1回行動後はスキルダメージ100%アップ",
+          "effectIdx1": "1411",
+          "effectIdx2": "1540",
+          "effectIdx3": "1705"
+        },
+        {
+          "abilityId": "1828",
+          "abilityName": "すり抜ける身体",
+          "abilityDescription": "素早さが100%アップし、チャクラが90%以上の時、確率でスキルを回避する",
+          "abilityEffectDescription": "素早さが100%アップし、チャクラが90%以上の時、確率でスキルを回避する",
+          "effectIdx1": "13099",
+          "effectIdx2": "1701",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1829",
+          "abilityName": "継承せし“火の意志”",
+          "abilityDescription": "最大HPとスキルダメージが70％アップする",
+          "abilityEffectDescription": "最大HPとスキルダメージが70％アップする",
+          "effectIdx1": "10069",
+          "effectIdx2": "652",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1830",
+          "abilityName": "影に忍ぶ妙手",
+          "abilityDescription": "10回行動するまで素早さが100％アップする",
+          "abilityEffectDescription": "10回行動するまで素早さが100％アップする",
+          "effectIdx1": "1064",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1831",
+          "abilityName": "継承せし“火の意志”",
+          "abilityDescription": "最大HPとスキルダメージが100％アップする",
+          "abilityEffectDescription": "最大HPとスキルダメージが100％アップする",
+          "effectIdx1": "684",
+          "effectIdx2": "774",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1832",
+          "abilityName": "影に忍ぶ妙手",
+          "abilityDescription": "10回行動するまで素早さが100％アップし高確率でスキルを回避する",
+          "abilityEffectDescription": "10回行動するまで素早さが100％アップし高確率でスキルを回避する",
+          "effectIdx1": "1064",
+          "effectIdx2": "1083",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -16422,6 +16476,42 @@ window.ability=[
           "abilityEffectDescription": "攻撃力が100％アップし、チャクラ80％以上の時にスキルダメージを200％アップする",
           "effectIdx1": "33719",
           "effectIdx2": "11099",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "100012",
+          "abilityName": "恋愛マスター",
+          "abilityDescription": "防御力と最大HPが60%アップする",
+          "abilityEffectDescription": "防御力と最大HPが60%アップする",
+          "effectIdx1": "12059",
+          "effectIdx2": "10059",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "100013",
+          "abilityName": "感謝の気持ち",
+          "abilityDescription": "スキルダメージが100%アップし、HPが70%以上の時に素早さが100%アップする",
+          "abilityEffectDescription": "スキルダメージが100%アップし、HPが70%以上の時に素早さが100%アップする",
+          "effectIdx1": "774",
+          "effectIdx2": "1709",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "100014",
+          "abilityName": "恋愛マスター",
+          "abilityDescription": "防御力と最大HPが80%アップする",
+          "abilityEffectDescription": "防御力と最大HPが80%アップする",
+          "effectIdx1": "12079",
+          "effectIdx2": "649",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "100015",
+          "abilityName": "感謝の気持ち",
+          "abilityDescription": "スキルダメージが150%アップし、HPが70%以上の時に素早さが150%アップする",
+          "abilityEffectDescription": "スキルダメージが150%アップし、HPが70%以上の時に素早さが150%アップする",
+          "effectIdx1": "794",
+          "effectIdx2": "1710",
           "effectIdx3": "0"
         }
 ]

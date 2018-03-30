@@ -9074,6 +9074,19 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "705",
+          "name": "都合により閉店",
+          "description": "ユーザー経験値の獲得量が50%アップする",
+          "effectIdx1": "1708",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "706",
           "name": "豪雷に添う爽雲",
           "description": "技属性の雷遁と体術タイプのスキルダメージを70％アップする",
@@ -9083,6 +9096,32 @@ window.lead=[
           "compType": "1",
           "target1Category": "1",
           "target1Param": "2",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "707",
+          "name": "魔像を操りし外道",
+          "description": "全属性の口寄せと写輪眼タイプのスキルダメージを50%アップする",
+          "effectIdx1": "1702",
+          "effectIdx2": "407",
+          "effectIdx3": "0",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "708",
+          "name": "機略縦横",
+          "description": "勇属性の攻撃力と素早さを40％アップする",
+          "effectIdx1": "11039",
+          "effectIdx2": "13039",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "7",
           "target2Category": "0",
           "target2Param": "0"
         }

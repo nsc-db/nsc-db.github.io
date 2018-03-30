@@ -4188,9 +4188,27 @@ window.tags=[
           "rate": "50"
 },
 {
+          "cardId": "20040319",
+          "rare": "5",
+          "tag": "event",
+          "rate": "50"
+},
+{
           "cardId": "20040401",
           "rare": "5",
           "tag": "pmiles",
+          "rate": "50"
+},
+{
+          "cardId": "20040402",
+          "rare": "5",
+          "tag": "killers",
+          "rate": "50"
+},
+{
+          "cardId": "20040403",
+          "rare": "5",
+          "tag": "event",
           "rate": "50"
 },
 ]
