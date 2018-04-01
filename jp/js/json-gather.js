@@ -1,6 +1,6 @@
 (function(){
 
-	function _createCard(data, name, type, hp, atk, def, spd, rare, affi, id, rate){
+	function _createCard(data, name, type, hp, atk, def, spd, rare, affi, id, rate, tag){
 		var image;
 		//Rarity Check
 		if(rare == 6){
@@ -25,7 +25,8 @@
 					+'		<td class="text-center">' + atk + '</td>'
 					+'		<td class="text-center">' + def + '</td>'
 					+'		<td class="text-center">' + spd + '</td>'
-					+'		<td class="text-center">' + rate + '</div></td>'
+					+'		<td class="text-center">' + rate + '</td>'					
+					+'		<td class="text-center">' + tag + '</td>'
 					+'</tr>';
 		return model;
 	}
@@ -81,9 +82,10 @@
 			//Affi
 			affi = checkAffi(unit);
 			rate = window.tags[i]['rate'];
+			tag = window.tags[i]['tag'];
 			if(units.indexOf(chara[0]) == -1){ // << verifica se já criou o card pelo [ID]
 				units.push(unit[0]); // << Salvo o id do card, para impedir cards repetidos de existirem			
-				content += _createCard(unit, name, type, hp, atk, def, spd, rare, affi, id, rate); // chama a função passando os dados do card
+				content += _createCard(unit, name, type, hp, atk, def, spd, rare, affi, id, rate, tag); // chama a função passando os dados do card
 			}
 		}
 		console.log(i, window.chara[i]);
