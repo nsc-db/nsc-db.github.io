@@ -9124,5 +9124,31 @@ window.lead=[
           "target1Param": "7",
           "target2Category": "0",
           "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "711",
+          "name": "月夜に舞う葉刃",
+          "description": "木ノ葉隠れの里所属の素早さが80％アップする",
+          "effectIdx1": "13079",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "717",
+          "name": "異形を駆る者",
+          "description": "\"暁\"所属の最大HPと素早さが60％アップする",
+          "effectIdx1": "10059",
+          "effectIdx2": "13059",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "8",
+          "target2Category": "0",
+          "target2Param": "0"
         }
 ]

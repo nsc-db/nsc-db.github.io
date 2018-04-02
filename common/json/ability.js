@@ -16173,6 +16173,42 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "1837",
+          "abilityName": "早手の見切り",
+          "abilityDescription": "素早さが100％アップし、高確率でスキルを回避する",
+          "abilityEffectDescription": "素早さが100％アップし、高確率でスキルを回避する",
+          "effectIdx1": "13099",
+          "effectIdx2": "968",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1838",
+          "abilityName": "木ノ葉流剣術",
+          "abilityDescription": "スキルダメージを50％アップ、HPが50％以下だとさらに150％アップする",
+          "abilityEffectDescription": "スキルダメージを50％アップ、HPが50％以下だとさらに150％アップする",
+          "effectIdx1": "682",
+          "effectIdx2": "32314",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1851",
+          "abilityName": "多彩な口寄せ",
+          "abilityDescription": "スキルダメージが100％アップ、5回行動するまでスキル発動速度2段階アップ",
+          "abilityEffectDescription": "スキルダメージが100％アップ、5回行動するまでスキル発動速度2段階アップ",
+          "effectIdx1": "774",
+          "effectIdx2": "1707",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1852",
+          "abilityName": "新たなる畜生道",
+          "abilityDescription": "素早さが100％アップし、HPが80％以上の時にチャクラ消費量を半減",
+          "abilityEffectDescription": "素早さが100％アップし、HPが80％以上の時にチャクラ消費量を半減",
+          "effectIdx1": "13099",
+          "effectIdx2": "1706",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -16367,6 +16403,15 @@ window.ability=[
           "abilityDescription": "スキル発動速度が１段階アップする",
           "abilityEffectDescription": "スキル発動速度が１段階アップする",
           "effectIdx1": "21000",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "11501",
+          "abilityName": "スキル発動速度アップ",
+          "abilityDescription": "スキル発動速度が２段階アップする",
+          "abilityEffectDescription": "スキル発動速度が２段階アップする",
+          "effectIdx1": "1549",
           "effectIdx2": "0",
           "effectIdx3": "0"
         },

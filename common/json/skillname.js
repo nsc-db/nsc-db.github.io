@@ -4800,6 +4800,18 @@ window.skillname=[
           "name": "そいつがてめーの墓穴だ"
         },
         {
+          "cardBattleSkillNameId": "2364",
+          "name": "やるしかないようですね"
+        },
+        {
+          "cardBattleSkillNameId": "2378",
+          "name": "口寄せ・妖獣跋扈"
+        },
+        {
+          "cardBattleSkillNameId": "2380",
+          "name": "これが…オレの正義だからだ"
+        },
+        {
           "cardBattleSkillNameId": "2398",
           "name": "ご愛顧有難うございました"
         },

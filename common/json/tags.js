@@ -4211,4 +4211,22 @@ window.tags=[
           "tag": "event",
           "rate": "83"
 },
+{
+          "cardId": "20040406",
+          "rare": "5",
+          "tag": "event",
+          "rate": "50"
+},
+{
+          "cardId": "20040408",
+          "rare": "5",
+          "tag": "event",
+          "rate": "50"
+},
+{
+          "cardId": "20040412",
+          "rare": "5",
+          "tag": "killers",
+          "rate": "50"
+},
 ]
