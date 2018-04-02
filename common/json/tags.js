@@ -4209,6 +4209,6 @@ window.tags=[
           "cardId": "20040403",
           "rare": "5",
           "tag": "event",
-          "rate": "50"
+          "rate": "83"
 },
 ]
