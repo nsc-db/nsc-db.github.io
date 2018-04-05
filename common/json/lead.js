@@ -9139,6 +9139,32 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "712",
+          "name": "因果の序章",
+          "description": "木ノ葉隠れの里所属の最大HPを250％アップする",
+          "effectIdx1": "10113",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "713",
+          "name": "英雄を志す少年",
+          "description": "木ノ葉隠れの里所属の攻撃力と防御力が50％アップする",
+          "effectIdx1": "251",
+          "effectIdx2": "276",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "717",
           "name": "異形を駆る者",
           "description": "\"暁\"所属の最大HPと素早さが60％アップする",

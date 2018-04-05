@@ -4804,6 +4804,10 @@ window.skillname=[
           "name": "やるしかないようですね"
         },
         {
+          "cardBattleSkillNameId": "2366",
+          "name": "よし…行くぞ！"
+        },
+        {
           "cardBattleSkillNameId": "2378",
           "name": "口寄せ・妖獣跋扈"
         },

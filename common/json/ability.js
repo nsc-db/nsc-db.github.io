@@ -16191,6 +16191,60 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "1839",
+          "abilityName": "医療忍術の才器",
+          "abilityDescription": "行動後HPとチャクラが10%回復し、チャクラが90%以上の時、スキル発動速度が1段階アップする",
+          "abilityEffectDescription": "行動後HPとチャクラが10%回復し、チャクラが90%以上の時、スキル発動速度が1段階アップする",
+          "effectIdx1": "528",
+          "effectIdx2": "1711",
+          "effectIdx3": "357"
+        },
+        {
+          "abilityId": "1840",
+          "abilityName": "内なる三尾",
+          "abilityDescription": "最大チャクラ量が50アップし、3回行動まで最大HPが2000%アップする",
+          "abilityEffectDescription": "最大チャクラ量が50アップし、3回行動まで最大HPが2000%アップする",
+          "effectIdx1": "689",
+          "effectIdx2": "1713",
+          "effectIdx3": "1712"
+        },
+        {
+          "abilityId": "1841",
+          "abilityName": "火遁の素質",
+          "abilityDescription": "攻撃力とスキルダメージが50％アップする",
+          "abilityEffectDescription": "攻撃力とスキルダメージが50％アップする",
+          "effectIdx1": "251",
+          "effectIdx2": "682",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1842",
+          "abilityName": "目覚めしうちはの原石",
+          "abilityDescription": "行動後にHPとチャクラが10％回復する",
+          "abilityEffectDescription": "行動後にHPとチャクラが10％回復する",
+          "effectIdx1": "357",
+          "effectIdx2": "528",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1843",
+          "abilityName": "火遁の素質",
+          "abilityDescription": "攻撃力とスキルダメージが80％アップ、行動後に確率でスキル発動速度が1段階アップする",
+          "abilityEffectDescription": "攻撃力とスキルダメージが80％アップ、行動後に確率でスキル発動速度が1段階アップする",
+          "effectIdx1": "550",
+          "effectIdx2": "694",
+          "effectIdx3": "1694"
+        },
+        {
+          "abilityId": "1844",
+          "abilityName": "目覚めしうちはの原石",
+          "abilityDescription": "行動後にHPとチャクラが20％回復する",
+          "abilityEffectDescription": "行動後にHPとチャクラが20％回復する",
+          "effectIdx1": "628",
+          "effectIdx2": "583",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "1851",
           "abilityName": "多彩な口寄せ",
           "abilityDescription": "スキルダメージが100％アップ、5回行動するまでスキル発動速度2段階アップ",
