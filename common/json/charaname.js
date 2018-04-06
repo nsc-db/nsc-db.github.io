@@ -2632,6 +2632,20 @@ window.charaname=[
           "gender": "1"
         },
         {
+          "charaProfileId": "14601",
+          "charaId": "146",
+          "name": "大筒木ハゴロモ",
+          "detail": null,
+          "charaLoveAffinityGroupId": "14610",
+          "birthday": "806",
+          "constellation": "5",
+          "height": "0",
+          "weight": "0",
+          "bloodType": "0",
+          "age": "0",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "20001",
           "charaId": "0",
           "name": "キラービー",
@@ -5547,6 +5561,20 @@ window.charaname=[
           "charaProfileId": "120801",
           "charaId": "1208",
           "name": "Pマイル推薦状★5",
+          "detail": null,
+          "charaLoveAffinityGroupId": "0",
+          "birthday": "0",
+          "constellation": "0",
+          "height": "0",
+          "weight": "0",
+          "bloodType": "0",
+          "age": "0",
+          "gender": "1"
+        },
+        {
+          "charaProfileId": "120901",
+          "charaId": "1209",
+          "name": "専属推薦状★5",
           "detail": null,
           "charaLoveAffinityGroupId": "0",
           "birthday": "0",

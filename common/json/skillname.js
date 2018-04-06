@@ -4808,6 +4808,14 @@ window.skillname=[
           "name": "よし…行くぞ！"
         },
         {
+          "cardBattleSkillNameId": "2368",
+          "name": "風雷・天変地異"
+        },
+        {
+          "cardBattleSkillNameId": "2370",
+          "name": "対決の時が来たようだな"
+        },
+        {
           "cardBattleSkillNameId": "2378",
           "name": "口寄せ・妖獣跋扈"
         },
@@ -4822,6 +4830,10 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "2400",
           "name": "都合により閉店いたしました"
+        },
+        {
+          "cardBattleSkillNameId": "2402",
+          "name": "この領域から逃れる術はない"
         },
         {
           "cardBattleSkillNameId": "10136",

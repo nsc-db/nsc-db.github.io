@@ -9165,6 +9165,19 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "714",
+          "name": "忍宗の開祖",
+          "description": "知と勇属性の攻撃・防御・素早さを70％アップする",
+          "effectIdx1": "733",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "2",
+          "target1Category": "1",
+          "target1Param": "6",
+          "target2Category": "1",
+          "target2Param": "7"
+        },
+        {
           "cardLeaderSkillId": "717",
           "name": "異形を駆る者",
           "description": "\"暁\"所属の最大HPと素早さが60％アップする",
@@ -9176,5 +9189,18 @@ window.lead=[
           "target1Param": "8",
           "target2Category": "0",
           "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "723",
+          "name": "歩み始めた未来",
+          "description": "知属性か木ノ葉隠れの里所属の攻撃力と素早さを50%アップする",
+          "effectIdx1": "251",
+          "effectIdx2": "112",
+          "effectIdx3": "0",
+          "compType": "2",
+          "target1Category": "1",
+          "target1Param": "6",
+          "target2Category": "2",
+          "target2Param": "1"
         }
 ]

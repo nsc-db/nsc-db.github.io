@@ -16245,6 +16245,24 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "1845",
+          "abilityName": "ハムラとの絆",
+          "abilityDescription": "HPが80％以上の時に攻撃力・防御力・素早さが100％アップする",
+          "abilityEffectDescription": "HPが80％以上の時に攻撃力・防御力・素早さが100％アップする",
+          "effectIdx1": "1133",
+          "effectIdx2": "1134",
+          "effectIdx3": "1135"
+        },
+        {
+          "abilityId": "1846",
+          "abilityName": "目覚めし輪廻",
+          "abilityDescription": "最大チャクラが50アップ、スキルダメージが100％アップ、行動後にHPが10％回復する",
+          "abilityEffectDescription": "最大チャクラが50アップ、スキルダメージが100％アップ、行動後にHPが10％回復する",
+          "effectIdx1": "689",
+          "effectIdx2": "774",
+          "effectIdx3": "357"
+        },
+        {
           "abilityId": "1851",
           "abilityName": "多彩な口寄せ",
           "abilityDescription": "スキルダメージが100％アップ、5回行動するまでスキル発動速度2段階アップ",
@@ -16260,6 +16278,42 @@ window.ability=[
           "abilityEffectDescription": "素早さが100％アップし、HPが80％以上の時にチャクラ消費量を半減",
           "effectIdx1": "13099",
           "effectIdx2": "1706",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1865",
+          "abilityName": "高められた白眼",
+          "abilityDescription": "行動するたびに攻撃力が20%アップする（最大4回まで）",
+          "abilityEffectDescription": "行動するたびに攻撃力が20%アップする（最大4回まで）",
+          "effectIdx1": "568",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1866",
+          "abilityName": "研鑽されし柔拳",
+          "abilityDescription": "チャクラが70%以上の時、攻撃力が100%アップする",
+          "abilityEffectDescription": "チャクラが70%以上の時、攻撃力が100%アップする",
+          "effectIdx1": "1615",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1867",
+          "abilityName": "高められた白眼",
+          "abilityDescription": "行動するたびに攻撃力が50%アップする（最大4回まで）",
+          "abilityEffectDescription": "行動するたびに攻撃力が50%アップする（最大4回まで）",
+          "effectIdx1": "1719",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1868",
+          "abilityName": "研鑽されし柔拳",
+          "abilityDescription": "チャクラが50%以上の時、攻撃力が200%アップする",
+          "abilityEffectDescription": "チャクラが50%以上の時、攻撃力が200%アップする",
+          "effectIdx1": "1427",
+          "effectIdx2": "0",
           "effectIdx3": "0"
         },
         {
