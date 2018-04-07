@@ -669,26 +669,32 @@
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-md-4">
-					<div class="panel panel-default">
-						<div id="filter-attribute-collapse" class="panel-heading" data-toggle="collapse" href="#filter-attribute" style="cursor: pointer;">
-							<h3 class="panel-title">Atttribute</h3>
-						</div>
-						<div id="filter-attribute" class="attribute-filter panel-collapse collapse">
-							<div class="list-group">
-								<a href="#" id="心" class="list-group-item">Heart</a>
-								<a href="#" id="技" class="list-group-item">Technique</a>
-								<a href="#" id="体" class="list-group-item">Body</a>
-								<a href="#" id="知" class="list-group-item">Intellect</a>
-								<a href="#" id="勇" class="list-group-item">Courage</a>
+				<div class="col-md-10 col-md-offset-2">
+					<div id="filter-attribute" class="" style="padding: 5%; text-align: center;">
+						<div class="list-group">
+							<div class="col-md-2">
+							<a href="#" id="心" class="list-group-item">Heart</a>
+							</div>
+							<div class="col-md-2">
+							<a href="#" id="技" class="list-group-item">Technique</a>
+							</div>
+							<div class="col-md-2">
+							<a href="#" id="体" class="list-group-item">Body</a>
+							</div>
+							<div class="col-md-2">
+							<a href="#" id="知" class="list-group-item">Intellect</a>
+							</div>
+							<div class="col-md-2">
+							<a href="#" id="勇" class="list-group-item">Courage</a>
 							</div>
 						</div>
 					</div>
 				</div>
-
-				<div class="col-md-4">
+			</div>
+			<div class="row">
+				<div class="col-md-6">
 					<div class="panel panel-default">
-						<div id="filter-tags-collapse" class="panel-heading" data-toggle="collapse" href="#filter-tags" style="cursor: pointer;">
+						<div id="filter-tags-collapse" class="panel-heading" data-toggle="collapse" href="#filter-tags" style="cursor: pointer; text-align: center;">
 							<h3 class="panel-title">Tags</h3>
 						</div>
 						<div id="filter-tags" class="attribute-filter panel-collapse collapse">
@@ -710,9 +716,9 @@
 					</div>
 				</div>
 
-				<div class="col-md-4">
+				<div class="col-md-6">
 					<div class="panel panel-default">
-						<div id="filter-affi-collapse" class="panel-heading" data-toggle="collapse" href="#filter-affi" style="cursor: pointer;">
+						<div id="filter-affi-collapse" class="panel-heading" data-toggle="collapse" href="#filter-affi" style="cursor: pointer; text-align: center;">
 							<h3 class="panel-title">Affiliation</h3>
 						</div>
 						<div id="filter-affi" class="attribute-filter panel-collapse collapse">
@@ -968,6 +974,36 @@
 		  	 //Reset
 		  	$("#reset-filter").on("click", function(e) {
 				e.preventDefault();
+				$("#心").attr('class', "list-group-item");
+				$("#技").attr('class', "list-group-item");
+				$("#体").attr('class', "list-group-item");
+				$("#知").attr('class', "list-group-item");
+				$("#勇").attr('class', "list-group-item");
+				$("#ex-6").attr('class', "list-group-item");
+				$("#ex").attr('class', "list-group-item");
+				$("#pvp-reward").attr('class', "list-group-item");
+				$("#god").attr('class', "list-group-item");
+				$("#killer").attr('class', "list-group-item");
+				$("#limited-6").attr('class', "list-group-item");
+				$("#limited").attr('class', "list-group-item");
+				$("#event").attr('class', "list-group-item");
+				$("#slayer").attr('class', "list-group-item");
+				$("#special").attr('class', "list-group-item");
+				$("#gacha").attr('class', "list-group-item");
+				$("#fp").attr('class', "list-group-item");
+				$("#木ノ葉").attr('class', "list-group-item");
+				$("#“暁”").attr('class', "list-group-item");
+				$("#その他").attr('class', "list-group-item");
+				$("#砂").attr('class', "list-group-item");
+				$("#霧").attr('class', "list-group-item");
+				$("#“鷹”").attr('class', "list-group-item");
+				$("#“蛇”").attr('class', "list-group-item");
+				$("#岩").attr('class', "list-group-item");
+				$("#雲").attr('class', "list-group-item");
+				$("#雨").attr('class', "list-group-item");
+				$("#音").attr('class', "list-group-item");
+				$("#滝").attr('class', "list-group-item");
+				$("#鉄").attr('class', "list-group-item");
 				
 				for(var x = 0; x < 12; x++){
 					table

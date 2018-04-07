@@ -61,6 +61,11 @@ window.key=[
   ["skill", 36, "輪廻写輪眼"],
   ["skill", 37, "尾獣"],
   ["skill", 38, ""],
-
+  ["gear", 1, "Stats"],
+  ["gear", 2, "Resistance"],
+  ["gear", 3, "Additional"],
+  ["gear", 10, "Food"],
+  ["gear", 11, "Skill"],
+  ["gear", 12, "Chakra"],
    
 ]
