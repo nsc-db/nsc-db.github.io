@@ -1,0 +1,46 @@
+Crystal Type:
+1: Stats
+2: Resistance
+3: Additional
+10: Food
+11: Skill
+12: Chakra
+
+Char IDs
+101: Naruto Uzumaki (Pre Shippuden)
+102: Naruto Uzumaki (Shippuden)
+103: Naruto Uzumaki (Hokage)
+104: Naruto Uzumaki (Final Rasengan) / (Six Paths v2)
+106: Naruto Uzumaki (Sage Mode)
+107: Naruto Uzumaki (KCM)
+109: Naruto Uzumaki (Deadlock)
+110: Naruto Uzumaki (Six Paths)
+301: Sakura Haruno (Pre Shippuden)
+302: Sakura Haruno (Pre Shippuden)
+303: Sakura Haruno (Shippuden)
+304: Sakura Haruno (War)
+306: Sakura Haruno (Final Battle)
+1401: Temari (Pre Shippuden)
+1402: Temari (Pre Shippuden)
+1403: Temari (Shippuden)
+1701: Kakashi Hatake (Kid)
+1702: Kakashi Hatake (Pre Shippuden)
+1703: Kakashi Hatake (ANBU)
+1704: Kakashi Hatake (Shippuden)
+1706: Kakashi Hatake (Susano'o)
+20401: Mei Terumi
+2101 Minato Namikaze
+2102: Minato Namikaze (Pre-Hokage)`
+2103: Minato Namikaze (KCM) 
+4301: Kushina Uzumaki
+11801: Pain
+12001: Deidara
+12101: Sasori
+11601: Itachi Uchiha (Akatsuki)
+11603: Itachi Uchiha (Edo)
+20001639: Itachi Uchiha (White Day)
+20001642: Five Kage Sasuke
+20001698
+20001722: P-Miles Sasuke
+
+
