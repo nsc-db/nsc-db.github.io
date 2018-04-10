@@ -27648,6 +27648,24 @@ window.evo=[
           "motionType": null
         },
         {
+          "cardStatusAdditionId": "17703",
+          "cardId": "20040418",
+          "conditionType": "1",
+          "conditionValue": "6",
+          "hp": "0",
+          "attack": "0",
+          "defense": "0",
+          "speed": "0",
+          "rare": "6",
+          "battleSkillId1": "2369",
+          "battleSkillId2": "2370",
+          "abilityId1": "1867",
+          "abilityId2": "1868",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null
+        },
+        {
           "cardStatusAdditionId": "100000",
           "cardId": "20001481",
           "conditionType": "1",
