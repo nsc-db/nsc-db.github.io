@@ -9178,6 +9178,19 @@ window.lead=[
           "target2Param": "7"
         },
         {
+          "cardLeaderSkillId": "715",
+          "name": "月の守り人",
+          "description": "知と勇属性の最大HPと攻撃力と防御力を80％アップする",
+          "effectIdx1": "649",
+          "effectIdx2": "550",
+          "effectIdx3": "719",
+          "compType": "2",
+          "target1Category": "1",
+          "target1Param": "6",
+          "target2Category": "1",
+          "target2Param": "7"
+        },
+        {
           "cardLeaderSkillId": "717",
           "name": "異形を駆る者",
           "description": "\"暁\"所属の最大HPと素早さが60％アップする",

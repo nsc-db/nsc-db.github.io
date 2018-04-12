@@ -4816,6 +4816,10 @@ window.skillname=[
           "name": "対決の時が来たようだな"
         },
         {
+          "cardBattleSkillNameId": "2372",
+          "name": "いいからとっとと出て行け"
+        },
+        {
           "cardBattleSkillNameId": "2378",
           "name": "口寄せ・妖獣跋扈"
         },

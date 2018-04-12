@@ -16263,6 +16263,24 @@ window.ability=[
           "effectIdx3": "357"
         },
         {
+          "abilityId": "1847",
+          "abilityName": "ハゴロモとの絆",
+          "abilityDescription": "HPが80％以上の時に攻撃力・防御力・素早さが100％アップする。",
+          "abilityEffectDescription": "HPが80％以上の時に攻撃力・防御力・素早さが100％アップする。",
+          "effectIdx1": "1133",
+          "effectIdx2": "1134",
+          "effectIdx3": "1135"
+        },
+        {
+          "abilityId": "1848",
+          "abilityName": "白眼の力",
+          "abilityDescription": "最大HPとスキルダメージが100％アップし、行動後にHPが10％回復する",
+          "abilityEffectDescription": "最大HPとスキルダメージが100％アップし、行動後にHPが10％回復する",
+          "effectIdx1": "684",
+          "effectIdx2": "774",
+          "effectIdx3": "357"
+        },
+        {
           "abilityId": "1851",
           "abilityName": "多彩な口寄せ",
           "abilityDescription": "スキルダメージが100％アップ、5回行動するまでスキル発動速度2段階アップ",
