@@ -61,11 +61,11 @@ window.key=[
   ["skill", 36, "輪廻写輪眼"],
   ["skill", 37, "尾獣"],
   ["skill", 38, ""],
-  ["gear", 1, "Stats"],
-  ["gear", 2, "Resistance"],
-  ["gear", 3, "Additional"],
-  ["gear", 10, "Food"],
-  ["gear", 11, "Skill"],
-  ["gear", 12, "Chakra"],
+  ["gear", 1, "ステータス強化"],
+  ["gear", 2, "耐性付加"],
+  ["gear", 3, "追加効果"],
+  ["gear", 10, "忍飯"],
+  ["gear", 11, "スキル強化"],
+  ["gear", 12, "チャクラ"],
    
 ]

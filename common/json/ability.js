@@ -16281,6 +16281,24 @@ window.ability=[
           "effectIdx3": "357"
         },
         {
+          "abilityId": "1849",
+          "abilityName": "満ち溢れる水遁",
+          "abilityDescription": "雷遁弱点となるが、HPが70％以上の時チャクラ消費半減＆スキルダメージ100％アップ",
+          "abilityEffectDescription": "雷遁弱点となるが、HPが70％以上の時チャクラ消費半減＆スキルダメージ100％アップ",
+          "effectIdx1": "1725",
+          "effectIdx2": "1723",
+          "effectIdx3": "31609"
+        },
+        {
+          "abilityId": "1850",
+          "abilityName": "欠けることのない実力",
+          "abilityDescription": "最大HPと攻撃力と防御力を100％アップする",
+          "abilityEffectDescription": "最大HPと攻撃力と防御力を100％アップする",
+          "effectIdx1": "684",
+          "effectIdx2": "11099",
+          "effectIdx3": "12099"
+        },
+        {
           "abilityId": "1851",
           "abilityName": "多彩な口寄せ",
           "abilityDescription": "スキルダメージが100％アップ、5回行動するまでスキル発動速度2段階アップ",
@@ -16296,6 +16314,24 @@ window.ability=[
           "abilityEffectDescription": "素早さが100％アップし、HPが80％以上の時にチャクラ消費量を半減",
           "effectIdx1": "13099",
           "effectIdx2": "1706",
+          "effectIdx3": "0"
+        },
+         {
+          "abilityId": "1855",
+          "abilityName": "雷遁の巧者",
+          "abilityDescription": "最大HPとスキルダメージが100％アップする",
+          "abilityEffectDescription": "最大HPとスキルダメージが100％アップする",
+          "effectIdx1": "684",
+          "effectIdx2": "774",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1856",
+          "abilityName": "雷影への忠誠",
+          "abilityDescription": "HPが80％以上の時、チャクラ消費量が30％減少＆スキル発動速度が1段階アップ",
+          "abilityEffectDescription": "HPが80％以上の時、チャクラ消費量が30％減少＆スキル発動速度が1段階アップ",
+          "effectIdx1": "683",
+          "effectIdx2": "1089",
           "effectIdx3": "0"
         },
         {

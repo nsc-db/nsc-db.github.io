@@ -9191,6 +9191,19 @@ window.lead=[
           "target2Param": "7"
         },
         {
+          "cardLeaderSkillId": "716",
+          "name": "霧隠れの鬼才",
+          "description": "全属性の水遁と雷遁タイプのスキルダメージ100％アップ",
+          "effectIdx1": "1726",
+          "effectIdx2": "1138",
+          "effectIdx3": "0",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "717",
           "name": "異形を駆る者",
           "description": "\"暁\"所属の最大HPと素早さが60％アップする",
@@ -9202,6 +9215,19 @@ window.lead=[
           "target1Param": "8",
           "target2Category": "0",
           "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "719",
+          "name": "豪雷に巻く快雲",
+          "description": "雲隠れの里所属または勇属性のスキルダメージが60％アップする",
+          "effectIdx1": "678",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "2",
+          "target1Category": "2",
+          "target1Param": "6",
+          "target2Category": "1",
+          "target2Param": "7"
         },
         {
           "cardLeaderSkillId": "723",

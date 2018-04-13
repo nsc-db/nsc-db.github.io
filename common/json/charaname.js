@@ -2898,6 +2898,20 @@ window.charaname=[
           "gender": "1"
         },
         {
+          "charaProfileId": "21601",
+          "charaId": "216",
+          "name": "鬼灯満月",
+          "detail": "穢土転生",
+          "charaLoveAffinityGroupId": "21610",
+          "birthday": "215",
+          "constellation": "11",
+          "height": "17200",
+          "weight": "5470",
+          "bloodType": "4",
+          "age": "0",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "50001",
           "charaId": "0",
           "name": "根",

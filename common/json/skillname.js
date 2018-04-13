@@ -4820,12 +4820,24 @@ window.skillname=[
           "name": "いいからとっとと出て行け"
         },
         {
+          "cardBattleSkillNameId": "2374",
+          "name": "水遁・水化爆葬の術"
+        },
+        {
+          "cardBattleSkillNameId": "2376",
+          "name": "水遁・水魔奔流の術"
+        },
+        {
           "cardBattleSkillNameId": "2378",
           "name": "口寄せ・妖獣跋扈"
         },
         {
           "cardBattleSkillNameId": "2380",
           "name": "これが…オレの正義だからだ"
+        },
+        {
+          "cardBattleSkillNameId": "2386",
+          "name": "ボスとオレでやっからさ"
         },
         {
           "cardBattleSkillNameId": "2398",
