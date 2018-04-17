@@ -4800,6 +4800,18 @@ window.skillname=[
           "name": "そいつがてめーの墓穴だ"
         },
         {
+          "cardBattleSkillNameId": "2356",
+          "name": "木遁・木人拳"
+        },
+        {
+          "cardBattleSkillNameId": "2358",
+          "name": "里に仇なす者は許さぬ"
+        },
+        {
+          "cardBattleSkillNameId": "2362",
+          "name": "立っているのはオレだ…"
+        },
+        {
           "cardBattleSkillNameId": "2364",
           "name": "やるしかないようですね"
         },

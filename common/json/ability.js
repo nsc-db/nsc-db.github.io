@@ -16173,6 +16173,42 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "1833",
+          "abilityName": "神と謳われし力",
+          "abilityDescription": "HP80%以上の時、行動後チャクラ20%回復＆攻撃力200%アップ",
+          "abilityEffectDescription": "HP80%以上の時、行動後チャクラ20%回復＆攻撃力200%アップ",
+          "effectIdx1": "1727",
+          "effectIdx2": "1728",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1834",
+          "abilityName": "木遁の使い手",
+          "abilityDescription": "最大HP3000%アップ＆最大チャクラ量が50アップ＆スキルダメージが150%アップ",
+          "abilityEffectDescription": "最大HP3000%アップ＆最大チャクラ量が50アップ＆スキルダメージが150%アップ",
+          "effectIdx1": "20004",
+          "effectIdx2": "794",
+          "effectIdx3": "1734"
+        },
+        {
+          "abilityId": "1835",
+          "abilityName": "万象を焼く烈火",
+          "abilityDescription": "HP80%以上の時、チャクラ消費量半減＆攻撃力200%アップ",
+          "abilityEffectDescription": "HP80%以上の時、チャクラ消費量半減＆攻撃力200%アップ",
+          "effectIdx1": "1733",
+          "effectIdx2": "1728",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1836",
+          "abilityName": "火遁極めし者",
+          "abilityDescription": "最大HP3000%アップ＆最大チャクラ量が50アップ＆スキルダメージが150%アップ",
+          "abilityEffectDescription": "最大HP3000%アップ＆最大チャクラ量が50アップ＆スキルダメージが150%アップ",
+          "effectIdx1": "20004",
+          "effectIdx2": "794",
+          "effectIdx3": "1734"
+        },
+        {
           "abilityId": "1837",
           "abilityName": "早手の見切り",
           "abilityDescription": "素早さが100％アップし、高確率でスキルを回避する",

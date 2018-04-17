@@ -9126,6 +9126,32 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "709",
+          "name": "里を築きし大樹",
+          "description": "心と体属性の攻撃力とスキルダメージを50%アップする",
+          "effectIdx1": "11049",
+          "effectIdx2": "682",
+          "effectIdx3": "0",
+          "compType": "2",
+          "target1Category": "1",
+          "target1Param": "1",
+          "target2Category": "1",
+          "target2Param": "3"
+        },
+        {
+          "cardLeaderSkillId": "710",
+          "name": "修羅を往く業火",
+          "description": "体と心属性の攻撃力とスキルダメージを50%アップする",
+          "effectIdx1": "11049",
+          "effectIdx2": "682",
+          "effectIdx3": "0",
+          "compType": "2",
+          "target1Category": "1",
+          "target1Param": "3",
+          "target2Category": "1",
+          "target2Param": "1"
+        },
+        {
           "cardLeaderSkillId": "711",
           "name": "月夜に舞う葉刃",
           "description": "木ノ葉隠れの里所属の素早さが80％アップする",
