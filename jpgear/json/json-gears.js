@@ -25,8 +25,8 @@
 		var name = '';
 		var type = '';
 		var normal = '';
-		var unique = 'None';
-		var chara = "None";
+		var unique = 'なじ';
+		var chara = "なじ";
 
 		for(var i in window.gear){
 			var gear = window.gear[i];
@@ -58,8 +58,8 @@
 
 			
 			content += _createGears(id, name, type, normal, unique, chara); // chama a função passando os dados do card
-			unique = "None";
-			chara = "None";
+			unique = "なし";
+			chara = "なし";
 			
 		}
 		console.log(i, window.gear[i]);
@@ -80,7 +80,8 @@
 
 	function findChara(chara){
 		var character = chara.split(',');
-		var name = []
+		var name = [];
+		var dupe = 0;
 		var result = ""; 
 		for(var i in character){
 			if(result == ""){
@@ -94,12 +95,15 @@
 			else{
 				for(var x in window.charaname){
 					if(character[i] == window.charaname[x]["charaProfileId"]){
+						dupe = 0;
 						for(var n in name){
-							if(name[n] != window.charaname[x]["name"]){
-								name.push(window.charaname[x]["name"]);
-								result += ", " + window.charaname[x]["name"];
-
+							if(name[n] == window.charaname[x]["name"]){
+								dupe = 1;
 							}
+						}
+						if(dupe == 0){
+							name.push(window.charaname[x]["name"]);
+							result += ", " + window.charaname[x]["name"];
 						}
 					}
 				}
@@ -111,6 +115,7 @@
 	function findCard(card){
 		var character = card.split(',');
 		var name = [];
+		var dupe = 0;
 		var result = ""; 
 		for(var i in character){
 			if(result == ""){
@@ -131,11 +136,15 @@
 					if(character[i] == window.chara[y]["cardId"]){
 						for(var x in window.charaname){
 							if(window.chara[y]['charaProfileId'] == window.charaname[x]["charaProfileId"]){
+								dupe = 0;
 								for(var n in name){
-									if(name[n] != window.charaname[x]["name"]){
-										name.push(window.charaname[x]["name"]);
-										result += ", " + window.charaname[x]["name"];
+									if(name[n] == window.charaname[x]["name"]){
+										dupe = 1;
 									}
+								}
+								if(dupe == 0){
+									name.push(window.charaname[x]["name"]);
+									result += ", " + window.charaname[x]["name"];
 								}
 							}
 						}

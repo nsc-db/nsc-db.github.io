@@ -691,6 +691,34 @@
 					</div>
 				</div>
 			</div>
+
+			<div class="row">
+				<div class="col-md-12">
+					<div id="filter-rare" class="" style="padding: 10px; text-align: center;">
+						<div class="list-group">
+							<div class="col-md-2">
+							<a href="#" id="1" class="list-group-item">1&#9733;</a>
+							</div>
+							<div class="col-md-2">
+							<a href="#" id="2" class="list-group-item">2&#9733;</a>
+							</div>
+							<div class="col-md-2">
+							<a href="#" id="3" class="list-group-item">3&#9733;</a>
+							</div>
+							<div class="col-md-2">
+							<a href="#" id="4" class="list-group-item">4&#9733;</a>
+							</div>
+							<div class="col-md-2">
+							<a href="#" id="5" class="list-group-item">5&#9733;</a>
+							</div>
+							<div class="col-md-2">
+							<a href="#" id="6" class="list-group-item">6&#9733;</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
 			<div class="row">
 				<div class="col-md-6" style="margin-top: 10px;">
 					<div class="panel panel-default">
@@ -801,7 +829,7 @@
 			var tagArr = [];
 			var typeArr = [];
 			var affiArr = [];
-
+			var rareArr = [];
 			 table
 			 .column(0)
 		     .search(0, true, false)
@@ -859,6 +887,61 @@
 					table
 				 	.column(2)
 			     	.search(type, true, false)
+			     	.draw();
+		   	   }
+			 });
+
+		  	  $("#filter-rare").on("click", ".list-group-item", function(e) {
+				e.preventDefault();
+				if($(this).attr('class') == 'list-group-item active'){
+					$(this).attr('class', "list-group-item");
+
+					//Remove Filter
+					var remove = $(this).attr('id');
+
+					var location;
+					for(var x = 0; x < rareArr.length; x++){
+						if(rareArr[x] == remove){
+							location = x;
+						}
+					}
+					rareArr.splice(location, 1);
+					
+					var rare = "";
+					//Create Tags
+					for(var x = 0; x < rareArr.length; x++){
+						if(!rare){
+							rare += rareArr[x];
+						}
+						else{
+							rare += "|";
+							rare += rareArr[x];
+						}
+					}
+					table
+				 	.column(4)
+			     	.search(rare, true, false)
+			     	.draw();
+				}
+
+				else{
+					$(this).attr('class', "list-group-item active");
+					rareArr.push($(this).attr('id'));
+
+					var rare = "";
+					//Create Tags
+					for(var x = 0; x < rareArr.length; x++){
+						if(!rare){
+							rare += rareArr[x];
+						}
+						else{
+							rare += "|";
+							rare += rareArr[x];
+						}
+					}
+					table
+				 	.column(4)
+			     	.search(rare, true, false)
 			     	.draw();
 		   	   }
 			 });
@@ -974,6 +1057,12 @@
 		  	 //Reset
 		  	$("#reset-filter").on("click", function(e) {
 				e.preventDefault();
+				$("#1").attr('class', "list-group-item");
+				$("#2").attr('class', "list-group-item");
+				$("#3").attr('class', "list-group-item");
+				$("#4").attr('class', "list-group-item");
+				$("#5").attr('class', "list-group-item");
+				$("#6").attr('class', "list-group-item");
 				$("#心").attr('class', "list-group-item");
 				$("#技").attr('class', "list-group-item");
 				$("#体").attr('class', "list-group-item");
@@ -983,7 +1072,7 @@
 				$("#ex").attr('class', "list-group-item");
 				$("#pvp-reward").attr('class', "list-group-item");
 				$("#god").attr('class', "list-group-item");
-				$("#killer").attr('class', "list-group-item");
+				$("#killers").attr('class', "list-group-item");
 				$("#limited-6").attr('class', "list-group-item");
 				$("#limited").attr('class', "list-group-item");
 				$("#event").attr('class', "list-group-item");
