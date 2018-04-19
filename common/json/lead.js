@@ -9022,6 +9022,19 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "700",
+          "name": "闘忍の覇者",
+          "description": "勇属性の最大HP・スキルダメージ・素早さが100%アップする",
+          "effectIdx1": "684",
+          "effectIdx2": "774",
+          "effectIdx3": "13099",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "7",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "701",
           "name": "強さを求める眼差し",
           "description": "技属性の素早さを90%アップする",

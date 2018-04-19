@@ -4748,6 +4748,14 @@ window.skillname=[
           "name": "私だって一緒に強くなる！！"
         },
         {
+          "cardBattleSkillNameId": "2322",
+          "name": "絆・木人連打"
+        },
+        {
+          "cardBattleSkillNameId": "2324",
+          "name": "感じるぞ…みんなの力を！"
+        },
+        {
           "cardBattleSkillNameId": "2325",
           "name": "オレに殺されたいのか"
         },

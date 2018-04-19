@@ -4164,6 +4164,12 @@ window.tags=[
           "rate": "50"
 },
 {
+          "cardId": "20040313",
+          "rare": "5",
+          "tag": "pvp-reward",
+          "rate": "50"
+},
+{
           "cardId": "20040314",
           "rare": "5",
           "tag": "limited-6",

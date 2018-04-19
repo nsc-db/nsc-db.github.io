@@ -1238,14 +1238,14 @@ window.gear=[
           "effectIdx1": "376",
           "effectIdx2": "122",
           "effectIdx3": "193",
-          "effectIdx4": null,
+          "effectIdx4": "0",
           "money": "10000",
           "saleMoney": "2000",
-          "crystalName": "首切り包丁",
+          "crystalName": "首斬り包丁",
           "crystalDescription": "攻撃力40％アップ＆水遁、固有スキルのダメージ20％アップ",
           "crystalImageId": "1384",
           "recipeId": "96",
-          "recipeName": "首切り包丁"
+          "recipeName": "首斬り包丁"
         },
         {
           "crystalId": "97",
@@ -2278,14 +2278,14 @@ window.gear=[
           "effectIdx1": "690",
           "effectIdx2": "105",
           "effectIdx3": "488",
-          "effectIdx4": null,
+          "effectIdx4": "0",
           "money": "10000",
           "saleMoney": "2500",
-          "crystalName": "再不斬用首切り包丁",
+          "crystalName": "再不斬用首斬り包丁",
           "crystalDescription": "最大HPと攻撃力20%アップし、固有スキルのダメージが30％アップする",
           "crystalImageId": "1385",
           "recipeId": "161",
-          "recipeName": "再不斬用首切り包丁"
+          "recipeName": "再不斬用首斬り包丁"
         },
         {
           "crystalId": "162",
@@ -2966,14 +2966,14 @@ window.gear=[
           "effectIdx1": "11039",
           "effectIdx2": "840",
           "effectIdx3": "0",
-          "effectIdx4": null,
+          "effectIdx4": "0",
           "money": "10000",
           "saleMoney": "2500",
-          "crystalName": "水月用首切り包丁",
+          "crystalName": "水月用首斬り包丁",
           "crystalDescription": "攻撃力と武器スキルダメージが40%アップする",
           "crystalImageId": "2435",
           "recipeId": "204",
-          "recipeName": "水月用首切り包丁"
+          "recipeName": "水月用首斬り包丁"
         },
         {
           "crystalId": "205",
@@ -12832,6 +12832,22 @@ window.gear=[
           "recipeName": "鬼鮫の額当て"
         },
         {
+          "crystalId": "873",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "1565",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "50000",
+          "saleMoney": "2500",
+          "crystalName": "絆の手",
+          "crystalDescription": "木遁タイプのスキルダメージが40％アップする",
+          "crystalImageId": "8725",
+          "recipeId": "873",
+          "recipeName": "絆の手"
+        },
+        {
           "crystalId": "874",
           "crystalType": "2",
           "crystalRare": "5",
@@ -13209,11 +13225,11 @@ window.gear=[
           "effectIdx4": "0",
           "money": "30000",
           "saleMoney": "2500",
-          "crystalName": "大刀・首切り包丁",
+          "crystalName": "断刀・首斬り包丁",
           "crystalDescription": "最大HPと攻撃力が70％アップする",
           "crystalImageId": "1385",
           "recipeId": "903",
-          "recipeName": "大刀・首切り包丁"
+          "recipeName": "断刀・首斬り包丁"
         },
         {
           "crystalId": "904",

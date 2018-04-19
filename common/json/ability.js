@@ -15993,6 +15993,24 @@ window.ability=[
           "effectIdx3": "1106"
         },
         {
+          "abilityId": "1809",
+          "abilityName": "六道の生命力",
+          "abilityDescription": "最大チャクラが250アップし、状態異常を無効化する",
+          "abilityEffectDescription": "最大チャクラが250アップし、状態異常を無効化する",
+          "effectIdx1": "20044",
+          "effectIdx2": "82",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1810",
+          "abilityName": "仲間との絆",
+          "abilityDescription": "200％の確率でスキルを回避し、HPが0以下になると2度までHPが全回復する",
+          "abilityEffectDescription": "200％の確率でスキルを回避し、HPが0以下になると2度までHPが全回復する",
+          "effectIdx1": "1724",
+          "effectIdx2": "1057",
+          "effectIdx3": "874"
+        },
+        {
           "abilityId": "1811",
           "abilityName": "天性の戦闘センス",
           "abilityDescription": "HPが90%以上の時、通常攻撃が回避されない",
