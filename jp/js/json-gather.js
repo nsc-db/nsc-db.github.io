@@ -1,6 +1,6 @@
 (function(){
 
-	function _createCard(data, name, type, hp, atk, def, spd, rare, affi, id, rate, tag){
+	function _createCard(data, name, type, hp, atk, def, spd, rare, affi, id, rate, tag, target, cast, damage, nature){
 		var image;
 		//Rarity Check
 		if(rare == 6){
@@ -27,6 +27,10 @@
 					+'		<td class="text-center">' + spd + '</td>'
 					+'		<td class="text-center">' + rate + '</td>'					
 					+'		<td class="text-center">' + tag + '</td>'
+					+'		<td class="text-center">' + target + '</td>'		
+					+'		<td class="text-center">' + cast + '</td>'		
+					+'		<td class="text-center">' + damage + '</td>'	
+					+'		<td class="text-center">' + nature + '</td>'																																						
 					+'</tr>';
 		return model;
 	}
@@ -48,6 +52,10 @@
 		var affi;
 		var id;
 		var tags;
+		var target = '';
+		var cast = '';
+		var damage = '';
+		var nature = '';
 		for(var i in window.chara){
 			var unit = window.chara[i];
 			//Adds Character Name
@@ -83,9 +91,86 @@
 			affi = checkAffi(unit);
 			rate = window.tags[i]['rate'];
 			tag = window.tags[i]['tag'];
+
+			for(var n in window.skill){
+				if(unit["battleSkillId1"] == window.skill[n]["cardBattleSkillId"]){
+					if(target != ''){
+						target += checkTarget(window.skill[n]);
+						cast += checkWait(window.skill[n])
+						nature += checkSkill(window.skill[n]);
+						if(checkTarget(window.skill[n]) == "One" || checkTarget(window.skill[n]) == "All"){
+							if(checkDamage(window.skill[n]) == "強化"){
+								damage += "弱体";
+							}
+							else{
+								damage += checkDamage(window.skill[n]);
+							}
+						}
+						else{
+							damage += checkDamage(window.skill[n]);
+						}
+					}
+					else{
+						target += checkTarget(window.skill[n]) +",";
+						cast += checkWait(window.skill[n]) + ",";
+						nature += checkSkill(window.skill[n]) + ",";
+						if(checkTarget(window.skill[n]) == "One" || checkTarget(window.skill[n]) == "All"){
+							if(checkDamage(window.skill[n]) == "強化"){
+								damage += "弱体,";
+							}
+							else{
+								damage += checkDamage(window.skill[n]) + ",";
+							}
+						}
+						else{
+							damage += checkDamage(window.skill[n]) + ",";
+						}
+					}
+				}
+				if(unit["battleSkillId2"] == window.skill[n]["cardBattleSkillId"]){
+					if(target == ''){
+						target += checkTarget(window.skill[n]) + ",";
+						cast += checkWait(window.skill[n]) + ","; 
+						nature += checkSkill(window.skill[n]) + ",";
+						if(checkTarget(window.skill[n]) == "One" || checkTarget(window.skill[n]) == "All"){
+							if(checkDamage(window.skill[n]) == "強化"){
+								damage += "弱体,";
+							}
+							else{
+								damage += checkDamage(window.skill[n]) + ",";
+							}
+						}
+						else{
+							damage += checkDamage(window.skill[n]) + ",";
+						}
+					}
+					else{
+						target += checkTarget(window.skill[n]);
+						cast += checkWait(window.skill[n]);
+						nature += checkSkill(window.skill[n]);
+						if(checkTarget(window.skill[n]) == "One" || checkTarget(window.skill[n]) == "All"){
+							if(checkDamage(window.skill[n]) == "強化"){
+								damage += "弱体";
+							}
+							else{
+								damage += checkDamage(window.skill[n]);
+							}
+						}
+						else{
+							damage += checkDamage(window.skill[n]);
+						}
+					}
+
+					
+				}
+			}
 			if(units.indexOf(chara[0]) == -1){ // << verifica se já criou o card pelo [ID]
 				units.push(unit[0]); // << Salvo o id do card, para impedir cards repetidos de existirem			
-				content += _createCard(unit, name, type, hp, atk, def, spd, rare, affi, id, rate, tag); // chama a função passando os dados do card
+				content += _createCard(unit, name, type, hp, atk, def, spd, rare, affi, id, rate, tag, target, cast, damage, nature); // chama a função passando os dados do card
+				target = '';
+				cast = '';
+				damage = '';
+				nature = '';
 			}
 		}
 		console.log(i, window.chara[i]);
@@ -430,6 +515,27 @@
 		}
 	}
 
+	function checkTarget(unit){
+		for(var i in window.key){
+			if(window.key[i][0] == 'target'){
+				if(unit['targetMode'] == window.key[i][1]){
+					type = window.key[i][2];
+					return type;
+				}
+			}
+		}
+	}
+
+	function checkDamage(unit){
+		for(var i in window.key){
+			if(window.key[i][0] == 'damage'){
+				if(unit['calcType'] == window.key[i][1]){
+					type = window.key[i][2];
+					return type;
+				}
+			}
+		}
+	}
 	function checkAffi(unit){
 		for(var i in window.key){
 			if(window.key[i][0] == 'affi'){

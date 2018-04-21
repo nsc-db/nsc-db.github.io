@@ -643,12 +643,12 @@
 		<div class="base-content">
 			<div class="row">
 				<div class="col-md-4">
-					<h2>Units Table</h2>
-					<p>Choose a unit to view details</p>
+					<h2>ユニットテーブル</h2>
+					<p></p>
 				</div>
 				<div class="col-md-8">
 					<div class="alert alert-warning" role="alert">
-						<strong>Click the toggle to see the level 100 stats and 6* abilities.</strong> 
+						<strong>Renshin is a bitch</strong> 
 					</div>
 				</div>
 				<div class="col-md-12">
@@ -657,14 +657,14 @@
 			</div>
 			<div class="row">
 				<div class="col-md-2">
-					<h2>Filter</h2>
+					<h2>フィルタ</h2>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-4 col-md-offset-4 ">
 					<div class="panel-heading">
 						<div class="btn-danger" id="reset-filter" style="width:110%; text-align: center;">
-						Reset Filter</div>
+						リセット</div>
 					</div>
 				</div>
 			</div>
@@ -673,19 +673,19 @@
 					<div id="filter-attribute" class="" style="padding: 5px; text-align: center;">
 						<div class="list-group">
 							<div class="col-md-2">
-							<a href="#" id="心" class="list-group-item">Heart</a>
+							<a href="#" id="心" class="list-group-item">心</a>
 							</div>
 							<div class="col-md-2">
-							<a href="#" id="技" class="list-group-item">Technique</a>
+							<a href="#" id="技" class="list-group-item">技</a>
 							</div>
 							<div class="col-md-2">
-							<a href="#" id="体" class="list-group-item">Body</a>
+							<a href="#" id="体" class="list-group-item">体</a>
 							</div>
 							<div class="col-md-2">
-							<a href="#" id="知" class="list-group-item">Intellect</a>
+							<a href="#" id="知" class="list-group-item">知</a>
 							</div>
 							<div class="col-md-2">
-							<a href="#" id="勇" class="list-group-item">Courage</a>
+							<a href="#" id="勇" class="list-group-item">勇</a>
 							</div>
 						</div>
 					</div>
@@ -723,21 +723,21 @@
 				<div class="col-md-6" style="margin-top: 10px;">
 					<div class="panel panel-default">
 						<div id="filter-tags-collapse" class="panel-heading" data-toggle="collapse" href="#filter-tags" style="cursor: pointer; text-align: center;">
-							<h3 class="panel-title">Tags</h3>
+							<h3 class="panel-title">カテゴリ</h3>
 						</div>
 						<div id="filter-tags" class="attribute-filter panel-collapse collapse">
-							<div class="list-group">
-								<a href="#" id="ex-6" class="list-group-item" >EX 6&#9733;</a>
-								<a href="#" id="ex" class="list-group-item" >EX 5&#9733;</a>
-								<a href="#" id="pvp-reward" data-toggle="" class="list-group-item" >Champion</a>
-								<a href="#" id="god" data-toggle="" class="list-group-item">God</a>
-								<a href="#" id="killers" data-toggle="" class="list-group-item" >Killers</a>
-								<a href="#" id="limited-6" data-toggle="" class="list-group-item" >Limited 6&#9733;</a>
-								<a href="#" id="limited" data-toggle="" class="list-group-item" >Limited 5&#9733;</a>
-								<a href="#" id="event" data-toggle="" class="list-group-item" >Event</a>
-								<a href="#" id="slayer" data-toggle="" class="list-group-item" >Slayer</a>
-								<a href="#" id="special" data-toggle="" class="list-group-item" >Special</a>
-								<a href="#" id="gacha" data-toggle="" class="list-group-item" >Gacha</a>
+							<div id="filter" class="list-group">
+								<a href="#" id="ex-6" class="list-group-item" >超忍祭限定 6&#9733;</a>
+								<a href="#" id="ex" class="list-group-item" >超忍祭限定 5&#9733;</a>
+								<a href="#" id="pvp-reward" data-toggle="" class="list-group-item" >闘忍</a>
+								<a href="#" id="god" data-toggle="" class="list-group-item">神</a>
+								<a href="#" id="killers" data-toggle="" class="list-group-item" >キラー</a>
+								<a href="#" id="limited-6" data-toggle="" class="list-group-item" >限定 6&#9733;</a>
+								<a href="#" id="limited" data-toggle="" class="list-group-item" >限定 5&#9733;</a>
+								<a href="#" id="event" data-toggle="" class="list-group-item" >イベント</a>
+								<a href="#" id="slayer" data-toggle="" class="list-group-item" >スレイヤー</a>
+								<a href="#" id="special" data-toggle="" class="list-group-item" >特別</a>
+								<a href="#" id="gacha" data-toggle="" class="list-group-item" >ガチャ</a>
 								<a href="#" id="fp" data-toggle="" class="list-group-item" >FP</a>
 							</div>
 						</div>
@@ -747,45 +747,165 @@
 				<div class="col-md-6" style="margin-top: 10px;">
 					<div class="panel panel-default">
 						<div id="filter-affi-collapse" class="panel-heading" data-toggle="collapse" href="#filter-affi" style="cursor: pointer; text-align: center;">
-							<h3 class="panel-title">Affiliation</h3>
+							<h3 class="panel-title">所属</h3>
 						</div>
 						<div id="filter-affi" class="attribute-filter panel-collapse collapse">
-							<div class="list-group">
-								<a href="#" id="木ノ葉" class="list-group-item" >Konoha</a>
-								<a href="#" id="“暁”" class="list-group-item" >Akatsuki</a>
-								<a href="#" id="その他" data-toggle="" class="list-group-item" >None</a>
-								<a href="#" id="砂" data-toggle="" class="list-group-item">Suna</a>
-								<a href="#" id="霧" data-toggle="" class="list-group-item" >Kiri</a>
-								<a href="#" id="“鷹”" data-toggle="" class="list-group-item" >Taka</a>
-								<a href="#" id="“蛇”" data-toggle="" class="list-group-item" >Hebi</a>
-								<a href="#" id="岩" data-toggle="" class="list-group-item" >Iwa</a>
-								<a href="#" id="雲" data-toggle="" class="list-group-item" >Kumo</a>
-								<a href="#" id="雨" data-toggle="" class="list-group-item" >Ame</a>
-								<a href="#" id="音" data-toggle="" class="list-group-item" >Oto</a>
-								<a href="#" id="滝" data-toggle="" class="list-group-item" >Taki</a>
-								<a href="#" id="鉄" data-toggle="" class="list-group-item" >Iron</a>
+							<div id="filter" class="list-group">
+								<a href="#" id="木ノ葉" class="list-group-item" >木ノ葉</a>
+								<a href="#" id="“暁”" class="list-group-item" >“暁”</a>
+								<a href="#" id="その他" data-toggle="" class="list-group-item" >その他</a>
+								<a href="#" id="砂" data-toggle="" class="list-group-item">砂</a>
+								<a href="#" id="霧" data-toggle="" class="list-group-item" >霧</a>
+								<a href="#" id="“鷹”" data-toggle="" class="list-group-item" >“鷹”</a>
+								<a href="#" id="“鷹”" data-toggle="" class="list-group-item" >“鷹”</a>
+								<a href="#" id="岩" data-toggle="" class="list-group-item" >岩</a>
+								<a href="#" id="雲" data-toggle="" class="list-group-item" >雲</a>
+								<a href="#" id="雨" data-toggle="" class="list-group-item" >雨</a>
+								<a href="#" id="音" data-toggle="" class="list-group-item" >音</a>
+								<a href="#" id="滝" data-toggle="" class="list-group-item" >滝</a>
+								<a href="#" id="鉄" data-toggle="" class="list-group-item" >鉄</a>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-md-12">
+					<div class="panel panel-default">
+						<div id="filter-skills-collapse" class="panel-heading" data-toggle="collapse" href="#filter-skills" style="cursor: pointer; text-align: center;">
+							<h3 class="panel-title">スキル</h3>
+						</div>
+						<div id="filter-skills" class="attribute-filter panel-collapse collapse">
+						   	<div id="filter-target" class="filter">
+						   		<h4>Target</h4>
+						   		<button id="One" type="button" class="btn">敵単体</button>
+								<button id="All" type="button" class="btn">敵全体</button>
+								<button id="Allies" type="button" class="btn">味方</button>
+								<button id="Self" type="button" class="btn">自分</button>
+							</div>
+						   	<div id="filter-cast" class="filter">
+								<h4>Cast Speed</h4>			
+						   		<button id="最速" type="button" class="btn">最速</button>
+								<button id="速い" type="button" class="btn">速い</button>
+								<button id="普通" type="button" class="btn">普通</button>
+								<button id="遅い" type="button" class="btn">遅い</button>
+								<button id="激遅" type="button" class="btn">激遅</button>
+							</div>
+							<!--
+							<div id="filter-cost" class="filter">
+								<h4>Cost: <span id="cost"></span></h4>
+ 								<input type="range" min="1" max="200" value="50" class="slider" id="chakraCost">
+							</div>-->
+
+							<div id="filter-damage" class="filter">
+								<h4>Type</h4>
+								<button id="攻撃力" type="button" class="btn">攻撃力</button>
+								<button id="倍の攻撃" type="button" class="btn">倍の攻撃</button>
+								<button id="耐性無視" type="button" class="btn">耐性無視</button>
+								<button id="強化" type="button" class="btn">強化</button>
+								<button id="弱体" type="button" class="btn">弱体</button>								
+								<button id="復" type="button" class="btn">復</button>
+
+							</div>
+
+							<div id="filter-nature" class="filter">
+								<h4>Nature</h4>
+								<button id="火遁" type="button" class="btn">火遁</button>
+								<div class="divider"/></div>
+								<button id="水遁" type="button" class="btn">水遁</button>
+                                <div class="divider"></div>
+								<button id="土遁" type="button" class="btn">土遁</button>
+                                <div class="divider"></div>
+								<button id="風遁" type="button" class="btn">風遁</button>
+                                <div class="divider"></div>
+								<button id="雷遁" type="button" class="btn">雷遁</button>
+                                <div class="divider"></div>
+								<button id="木遁" type="button" class="btn">木遁</button>
+                                <div class="divider"></div>
+								<button id="医療" type="button" class="btn">医療</button>
+                                <div class="divider"></div>
+								<button id="転生" type="button" class="btn">転生</button>
+                                <div class="divider"></div>
+								<button id="時空" type="button" class="btn">時空</button>
+                                <div class="divider"></div>
+								<button id="武器" type="button" class="btn">武器</button>
+                                <div class="divider"></div>
+								<button id="分身" type="button" class="btn">分身</button>
+                                <div class="divider"></div>
+								<button id="結界" type="button" class="btn">結界</button>
+                                <div class="divider"></div>
+								<button id="固有" type="button" class="btn">固有</button>
+                                <div class="divider"></div>
+								<button id="口寄" type="button" class="btn">口寄</button>
+                                <div class="divider"></div>
+								<button id="体術" type="button" class="btn">体術</button>
+                                <div class="divider"></div>
+								<button id="幻術" type="button" class="btn">幻術</button>
+                                <div class="divider"></div>
+								<button id="呪印" type="button" class="btn">呪印</button>
+                                <div class="divider"></div>
+								<button id="封印" type="button" class="btn">封印</button>
+                                <div class="divider"></div>
+								<button id="秘伝" type="button" class="btn">秘伝</button>
+                                <div class="divider"></div>
+								<button id="仙術" type="button" class="btn">仙術</button>
+                                <div class="divider"></div>
+								<button id="写輪眼" type="button" class="btn">写輪眼</button>
+                                <div class="divider"></div>
+								<button id="無" type="button" class="btn">無</button>
+                                <div class="divider"></div>
+								<button id="白眼" type="button" class="btn">白眼</button>
+                                <div class="divider"></div>
+								<button id="輪廻眼" type="button" class="btn">輪廻眼</button>
+                                <div class="divider"></div>
+								<button id="氷遁" type="button" class="btn">氷遁</button>
+                                <div class="divider"></div>
+								<button id="炎遁" type="button" class="btn">炎遁</button>
+                                <div class="divider"></div>
+								<button id="熔遁" type="button" class="btn">熔遁</button>
+                                <div class="divider"></div>
+								<button id="溶遁" type="button" class="btn">溶遁</button>
+                                <div class="divider"></div>
+								<button id="沸遁" type="button" class="btn">沸遁</button>
+                                <div class="divider"></div>
+								<button id="嵐遁" type="button" class="btn">嵐遁</button>
+                                <div class="divider"></div>
+								<button id="爆遁" type="button" class="btn">爆遁</button>
+                                <div class="divider"></div>
+								<button id="灼遁" type="button" class="btn">灼遁</button>
+                                <div class="divider"></div>
+								<button id="磁遁" type="button" class="btn">磁遁</button>
+                                <div class="divider"></div>
+								<button id="塵遁" type="button" class="btn">塵遁</button>
+                                <div class="divider"></div>
+								<button id="六道" type="button" class="btn">六道</button>
+                                <div class="divider"></div>
+								<button id="輪廻写輪眼" type="button" class="btn">輪廻写輪眼</button>
+                                <div class="divider"></div>
+								<button id="尾獣" type="button" class="btn">尾獣</button>
+                                <div class="divider"></div>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
-			<div class="row">
-				<div class="col-md-12">
-					<table id="myTable" class="display" cellspacing="0" width="100%">
-						<tbody class="cards">
-						</tbody>
-					</table>
-				</div>
+				
+				<div class="row">
+					<div class="col-md-12">
+						<table id="myTable" class="display" cellspacing="0" width="100%">
+							<tbody class="cards">
+							</tbody>
+						</table>
+					</div>
 
-				<div class="col-md-12">
-					<div class="footer">
-						<hr>
-						<p class="note">Created by Yuyya, Noobiel and Book</p>
+					<div class="col-md-12">
+						<div class="footer">
+							<hr>
+							<p class="note">Created by Yuyya, Noobiel and Book</p>
+						</div>
 					</div>
 				</div>
 			</div>
 		</div>
-	</div>
 
 	<!-- JQUERY -->
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
@@ -826,6 +946,26 @@
 		            	title: "tag",
 		            	"visible": false,
 		            	"searchable": true
+		            },
+		            {
+		            	title: "target",
+		            	"visible": false,
+		            	"searchable": true
+		            },
+		            {
+		            	title: "cast",
+		            	"visible": false,
+		            	"searchable": true
+		            },
+		            {
+		            	title: "damage",
+		            	"visible": false,
+		            	"searchable": true
+		            },
+		            {
+		            	title: "nature",
+		            	"visible": false,
+		            	"searchable": true
 		            }
 		        ]
 			});
@@ -834,11 +974,248 @@
 			var typeArr = [];
 			var affiArr = [];
 			var rareArr = [];
+			var targetArr = [];
+			var castArr = [];
+			var damageArr = [];
+			var natureArr = [];
+			var damageLimit = 0;
+
 			 table
 			 .column(0)
 		     .search(0, true, false)
 		     .draw();
 
+		     //Skills
+		     //Target
+		     $("#filter-target").on("click", ".btn", function(e) {
+				e.preventDefault();
+		     	if($(this).attr('class') == 'btn btn-primary'){
+					$(this).attr('class', "btn");
+
+					//Remove Filter
+					var remove = $(this).attr('id');
+
+					var location;
+					for(var x = 0; x < targetArr.length; x++){
+						if(targetArr[x] == remove){
+							location = x;
+						}
+					}
+					targetArr.splice(location, 1);
+					
+					var target = "";
+					//Create Tags
+					for(var x = 0; x < targetArr.length; x++){
+						if(!target){
+							target += targetArr[x];
+						}
+						else{
+							target += "|";
+							target += targetArr[x];
+						}
+					}
+					table
+				 	.columns(12)
+			     	.search(target, true, false)
+			     	.draw();
+			     	
+		     	}
+		     	else{
+		     		$(this).attr('class', "btn btn-primary");
+		     		targetArr.push($(this).attr('id'));
+					var target = "";
+					//Create Tags
+					for(var x = 0; x < targetArr.length; x++){
+						if(!target){
+							target += targetArr[x];
+						}
+						else{
+							target += "|";
+							target += targetArr[x];
+						}
+					}
+					table
+				 	.columns(12)
+			     	.search(target, true, false)
+			     	.draw();
+				 	
+		     	}
+		     });
+
+		     //Cast Speed
+		      $("#filter-cast").on("click", ".btn", function(e) {
+				e.preventDefault();
+		     	if($(this).attr('class') == 'btn btn-primary'){
+					$(this).attr('class', "btn");
+
+					//Remove Filter
+					var remove = $(this).attr('id');
+
+					var location;
+					for(var x = 0; x < castArr.length; x++){
+						if(castArr[x] == remove){
+							location = x;
+						}
+					}
+					castArr.splice(location, 1);
+					
+					var cast = "";
+					//Create Tags
+					for(var x = 0; x < castArr.length; x++){
+						if(!cast){
+							cast += castArr[x];
+						}
+						else{
+							cast += "|";
+							cast += castArr[x];
+						}
+					}
+					table
+				 	.columns(13)
+			     	.search(cast, true, false)
+			     	.draw();
+			     	
+		     	}
+		     	else{
+		     		$(this).attr('class', "btn btn-primary");
+		     		castArr.push($(this).attr('id'));
+					var cast = "";
+					//Create Tags
+					for(var x = 0; x < castArr.length; x++){
+						if(!cast){
+							cast += castArr[x];
+						}
+						else{
+							cast += "|";
+							cast += castArr[x];
+						}
+					}
+					table
+				 	.columns(13)
+			     	.search(cast, true, false)
+			     	.draw();
+		     	}
+		     });
+
+		     //Damage
+		      $("#filter-damage").on("click", ".btn", function(e) {
+				e.preventDefault();
+				if(damageLimit != 0){
+					if($(this).attr('class') == 'btn btn-primary'){
+						$(this).attr('class', "btn");
+						damageLimit = 0;
+
+
+						//Remove Filter
+						var remove = $(this).attr('id');
+
+						var location;
+						for(var x = 0; x < damageArr.length; x++){
+							if(damageArr[x] == remove){
+								location = x;
+							}
+						}
+						damageArr.splice(location, 1);
+						
+						var damage = "";
+						//Create Tags
+						for(var x = 0; x < damageArr.length; x++){
+							if(!damage){
+								damage += damageArr[x];
+							}
+							else{
+								damage += "|";
+								damage += damageArr[x];
+							}
+						}
+						table
+					 	.columns(14)
+				     	.search(damage, true, false)
+				     	.draw();
+			     	
+					}
+		     	}
+		     	else{
+					if($(this).attr('class') == 'btn'){
+			     		$(this).attr('class', "btn btn-primary");
+			     		damageLimit++;
+
+			     		damageArr.push($(this).attr('id'));
+						var damage = "";
+						//Create Tags
+						for(var x = 0; x < damageArr.length; x++){
+							if(!damage){
+								damage += damageArr[x];
+							}
+							else{
+								damage += "|";
+								damage += damageArr[x];
+							}
+						}
+						table
+					 	.columns(14)
+				     	.search(damage, true, false)
+				     	.draw();
+		     		}
+		     	}
+		     });
+
+		     //Nature
+		      $("#filter-nature").on("click", ".btn", function(e) {
+				e.preventDefault();
+		     	if($(this).attr('class') == 'btn btn-primary'){
+					$(this).attr('class', "btn");
+
+					//Remove Filter
+					var remove = $(this).attr('id');
+
+					var location;
+					for(var x = 0; x < castArr.length; x++){
+						if(castArr[x] == remove){
+							location = x;
+						}
+					}
+					castArr.splice(location, 1);
+					
+					var cast = "";
+					//Create Tags
+					for(var x = 0; x < castArr.length; x++){
+						if(!cast){
+							cast += castArr[x];
+						}
+						else{
+							cast += "|";
+							cast += castArr[x];
+						}
+					}
+					table
+				 	.columns(15)
+			     	.search(cast, true, false)
+			     	.draw();
+			     	
+		     	}
+		     	else{
+		     		$(this).attr('class', "btn btn-primary");
+		     		castArr.push($(this).attr('id'));
+					var cast = "";
+					//Create Tags
+					for(var x = 0; x < castArr.length; x++){
+						if(!cast){
+							cast += castArr[x];
+						}
+						else{
+							cast += "|";
+							cast += castArr[x];
+						}
+					}
+					table
+				 	.columns(15)
+			     	.search(cast, true, false)
+			     	.draw();
+		     	}
+		     });
+
+		     //General
 			 //Attribute
 		  	 $("#filter-attribute").on("click", ".list-group-item", function(e) {
 				e.preventDefault();
@@ -1098,7 +1475,7 @@
 				$("#滝").attr('class', "list-group-item");
 				$("#鉄").attr('class', "list-group-item");
 				
-				for(var x = 0; x < 12; x++){
+				for(var x = 0; x <= 15; x++){
 					table
 				 	.column(x)
 			     	.search("", true, false)
@@ -1106,7 +1483,14 @@
 		     	}
 			 });
 		});
+		
+		var slider = document.getElementById("chakraCost");
+		var output = document.getElementById("cost");
+		output.innerHTML = slider.value;
 
+		slider.oninput = function(){
+			  output.innerHTML = this.value;
+		}
 	</script>
 
 	<script>

@@ -9268,6 +9268,19 @@ window.lead=[
           "target2Category": "1",
           "target2Param": "7"
         },
+         {
+          "cardLeaderSkillId": "720",
+          "name": "力の代償",
+          "description": "体属性の攻撃力が150%アップする",
+          "effectIdx1": "1268",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "3",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
         {
           "cardLeaderSkillId": "723",
           "name": "歩み始めた未来",

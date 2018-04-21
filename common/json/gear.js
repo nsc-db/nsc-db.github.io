@@ -13200,6 +13200,22 @@ window.gear=[
           "recipeName": "六道仙人の羽織"
         },
         {
+          "crystalId": "898",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "581",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "ｻｽｹの呪印(状態0.5)",
+          "crystalDescription": "雷遁タイプのスキルダメージが50％アップ",
+          "crystalImageId": "8985",
+          "recipeId": "898",
+          "recipeName": "ｻｽｹの呪印(状態0.5)"
+        },
+        {
           "crystalId": "902",
           "crystalType": "11",
           "crystalRare": "5",

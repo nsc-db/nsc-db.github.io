@@ -4860,6 +4860,10 @@ window.skillname=[
           "name": "ボスとオレでやっからさ"
         },
         {
+          "cardBattleSkillNameId": "2388",
+          "name": "オレは今機嫌が悪いんだ"
+        },
+        {
           "cardBattleSkillNameId": "2398",
           "name": "ご愛顧有難うございました"
         },
@@ -4870,6 +4874,10 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "2402",
           "name": "この領域から逃れる術はない"
+        },
+         {
+          "cardBattleSkillNameId": "2420",
+          "name": "呪印・天雷"
         },
         {
           "cardBattleSkillNameId": "10136",

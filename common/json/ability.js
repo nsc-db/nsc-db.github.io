@@ -16389,6 +16389,24 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "1857",
+          "abilityName": "異端なる能力",
+          "abilityDescription": "HPが0以下になると2度まで耐える",
+          "abilityEffectDescription": "HPが0以下になると2度まで耐える",
+          "effectIdx1": "1057",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1858",
+          "abilityName": "呪印解放",
+          "abilityDescription": "最大チャクラ量が50アップし、HPが50％以下の時スキルダメージ200％アップ",
+          "abilityEffectDescription": "最大チャクラ量が50アップし、HPが50％以下の時スキルダメージ200％アップ",
+          "effectIdx1": "689",
+          "effectIdx2": "32319",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "1865",
           "abilityName": "高められた白眼",
           "abilityDescription": "行動するたびに攻撃力が20%アップする（最大4回まで）",

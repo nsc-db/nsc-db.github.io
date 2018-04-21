@@ -7078,5 +7078,17 @@ window.unique=[
           "effectIdx2": "10049",
           "effectIdx3": "11049",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "601",
+          "targetCrystal": "898",
+          "description": "全スキルダメージが100％アップし、素早さが50％アップする",
+          "charaIds": "201,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "774",
+          "effectIdx2": "13049",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
         }
 ]
