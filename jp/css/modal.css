@@ -380,6 +380,8 @@
 		background-color: #faf4fb
 	}
 
+
+
 	.modal-body .base-unit-view .base-tables .base-gear {
 		display: flex;
 		margin: 0 0 10px 0;
@@ -419,16 +421,65 @@
 		background-color: #3c2401;
 	}
 
-	.modal-body .base-unit-view .base-tables .base-gear .info .header .type h4{
+	.modal-body .base-unit-view .base-tables .base-gear .info .header .type h4[type="スキル強化" i] {
 		flex: 1;
 		color: #ffffff;
 		font-size: 12px;
 		border-radius: 8px;
 		margin: 0 8px 0 4px; padding: 2px 8px;
-		background-color: orange;
+		background-color: #FFFF66;
 		text-shadow: 0 0 4px #000000;
 	}
 
+	.modal-body .base-unit-view .base-tables .base-gear .info .header .type h4[type="ステータス強化" i] {
+		flex: 1;
+		color: #ffffff;
+		font-size: 12px;
+		border-radius: 8px;
+		margin: 0 8px 0 4px; padding: 2px 8px;
+		background-color: #CC0000;
+		text-shadow: 0 0 4px #000000;
+	}
+
+	.modal-body .base-unit-view .base-tables .base-gear .info .header .type h4[type="耐性付加" i] {
+		flex: 1;
+		color: #ffffff;
+		font-size: 12px;
+		border-radius: 8px;
+		margin: 0 8px 0 4px; padding: 2px 8px;
+		background-color: #660000;
+		text-shadow: 0 0 4px #000000;
+	}
+
+	.modal-body .base-unit-view .base-tables .base-gear .info .header .type h4[type="忍飯" i] {
+		flex: 1;
+		color: #ffffff;
+		font-size: 12px;
+		border-radius: 8px;
+		margin: 0 8px 0 4px; padding: 2px 8px;
+		background-color: #7F7FFF;
+		text-shadow: 0 0 4px #000000;
+	}
+
+	.modal-body .base-unit-view .base-tables .base-gear .info .header .type h4[type="チャクラ" i] {
+		flex: 1;
+		color: #ffffff;
+		font-size: 12px;
+		border-radius: 8px;
+		margin: 0 8px 0 4px; padding: 2px 8px;
+		background-color: #CCE6FF;
+		text-shadow: 0 0 4px #000000;
+	}
+
+	.modal-body .base-unit-view .base-tables .base-gear .info .header .type h4[type="追加効果" i] {
+		flex: 1;
+		color: #ffffff;
+		font-size: 12px;
+		border-radius: 8px;
+		margin: 0 8px 0 4px; padding: 2px 8px;
+		background-color: #FFC04C;
+		text-shadow: 0 0 4px #000000;
+	}
 	.modal-body .base-unit-view .base-tables .base-gear .info .header .title h3 {
 		font-size: 12px;
 		color: #ffffff;
@@ -440,6 +491,7 @@
 		font-size: 12px;
 		padding: 6px 12px 6px 6px;
 	}
+
 
 
 

@@ -14,6 +14,7 @@
 		if(data["cost"] == 100){
 			image = id + ".png";
 		}
+		//Creates the Table
 		var model = '<tr class="clickable" data-toggle="modal" data-target="#newModal">'
 					+'		<td class="text-center"><img id="icon-table" src="../common/assets/img/units/icons/thumb_' + image + '"height="60px" width="60px" /><div style="display:none">' + data['cardId'] + '</td>'
 					+'		<td class="text-left"><a href= "view/' + data["cardId"] + '" data-toggle="modal" data-target="#newModal"><strong>' + name + " 【" + data["cardSubName"] + '】</a></td>'
@@ -56,6 +57,8 @@
 		var cast = '';
 		var damage = '';
 		var nature = '';
+
+
 		for(var i in window.chara){
 			var unit = window.chara[i];
 			//Adds Character Name
@@ -283,20 +286,188 @@
 			
 		*/
 		
-		// Character Stats
-		
-		
+		// Character Stats		
 		for(i in cards){
 			//Stats
 			var c = cards[i];
-			
+			var ninguCharaId = [];
+			var ninguCardId = [];
+			var ninguGroup = [];
+			var ninguGearList = [];
 			//Character Lead
 			for(var x in window.chara){
 				if(cid == window.chara[x]['cardId']){
+
+					for(var y in window.unique){
+						var unique = window.unique[y]['charaIds'].split(",");
+						for(var z in unique){
+							if(window.chara[x]['charaProfileId'] == unique[z]){
+								ninguCharaId.push(window.unique[y]);
+								break;
+							}
+						}
+						var cardsID = window.unique[y]['cardIds'].split(",");
+						for(var z in cardsID){
+							if(window.chara[x]['cardId'] == cardsID[z]){
+								ninguCardId.push(window.unique[y]);
+								break;
+							}
+						}
+						var group = window.unique[y]['charaGroupIds'].split(",");
+						for(var z in group){
+							if(group == "600000" && window.chara[x]['charaType'] == '8'){
+								ninguGroup.push(window.unique[y]);
+							}
+							if(group == "600001"){
+								if(window.chara[x]['charaProfileId'] == "201" || window.chara[x]['charaProfileId'] == "202" || window.chara[x]['charaProfileId'] == "203" || window.chara[x]['charaProfileId'] == "204" ||
+								window.chara[x]['charaProfileId'] == "205" ||	window.chara[x]['charaProfileId'] == "206" || window.chara[x]['charaProfileId'] == "207" || window.chara[x]['charaProfileId'] == "208" || window.chara[x]['charaProfileId'] == "209" 
+								|| window.chara[x]['charaProfileId'] == "210" || window.chara[x]['charaProfileId'] == "4101" || window.chara[x]['charaProfileId'] == "4701" || window.chara[x]['charaProfileId'] == "11601" || window.chara[x]['charaProfileId'] == "11602" 
+								|| window.chara[x]['charaProfileId'] == "11603" || window.chara[x]['charaProfileId'] == "13701" || window.chara[x]['charaProfileId'] == "13702" || window.chara[x]['charaProfileId'] == "13703" || window.chara[x]['charaProfileId'] == "13801" 
+								|| window.chara[x]['charaProfileId'] == "50801" || window.chara[x]['charaProfileId'] == "50901" || window.chara[x]['charaProfileId'] == "50902" || window.chara[x]['charaProfileId'] == "50903" ){
+									ninguGroup.push(window.unique[y]);
+								}
+							}
+							if(group == "700001"){
+								if(window.chara[x]['charaProfileId'] == "110" || window.chara[x]['charaProfileId'] == "14001" ||　window.chara[x]['charaProfileId'] == "109" || window.chara[x]['charaProfileId'] == "50903"
+								|| window.chara[x]['charaProfileId'] == "1202"	){
+									ninguGroup.push(window.unique[y]);
+								}
+							}
+							if(group == "700000"){
+								if(window.chara[x]['charaProfileId'] == "110" || window.chara[x]['charaProfileId'] == "14001" ||　window.chara[x]['charaProfileId'] == "109" || window.chara[x]['charaProfileId'] == "50903"
+								|| window.chara[x]['charaProfileId'] == "1202" || window.chara[x]['charaProfileId'] == "20301"　|| window.chara[x]['charaProfileId'] == "402"	|| window.chara[x]['charaProfileId'] == "502"　|| window.chara[x]['charaProfileId'] == "602"){
+									ninguGroup.push(window.unique[y]);
+								}
+							}
+							if(group == "100301"){
+								if(window.chara[x]['charaProfileId'] == "110" || window.chara[x]['charaProfileId'] == "106" ||　window.chara[x]['charaProfileId'] == "109"){
+									ninguGroup.push(window.unique[y]);
+								}
+							}
+							if(group == "600002"){
+								if(window.chara[x]['charaProfileId'] == "11801" || window.chara[x]['charaProfileId'] == "13304" ||　window.chara[x]['charaProfileId'] == "13101"){
+									ninguGroup.push(window.unique[y]);
+								}
+							}
+							if(group == "300001"){
+								if(window.chara[x]['charaProfileId'] == "1701" || window.chara[x]['charaProfileId'] == "1702" || window.chara[x]['charaProfileId'] == "1703" 
+								|| window.chara[x]['charaProfileId'] == "1704" || window.chara[x]['charaProfileId'] == "1706" || window.chara[x]['charaProfileId'] == "1707"){
+									ninguGroup.push(window.unique[y]);
+								}
+							}
+						}
+					}
+					var gear = '';
+					for(var y in ninguCharaId){
+						for(var z in window.gear){
+							if(ninguCharaId[y]['targetCrystal'] == window.gear[z]['recipeId']){
+								var ningu = window.gear[z];
+								ninguGearList.push(window.gear[z]['crystalImageId']);
+								break;
+							}
+						}
+						var gearType = checkGearType(ningu);
+						gear += '<div class="base-gear">' 
+								+		'<div class="icon">'
+								+			'<img src="../common/assets/img/gear/ningu_' + ningu['crystalImageId'] + '.png">'
+								+		'</div>' 
+								+		'<div class="info">'
+								+			'<div class="header">'
+								+				'<div class="type">'
+								+					'<h4 type="' + gearType + '">' + gearType + '</h4>'
+								+				'</div>'
+								+			'<div class="title">'
+								+				'<h3>' + ningu['crystalName'] + '</h3>'
+								+			'</div>'
+								+		'</div>'
+								+		'<div class="description">'
+								+			'<p>' + ninguCharaId[y]['description'] + '</p>'
+								+		'</div>'
+								+	'</div>'
+								+'</div>';
+					}
+					for(var y in ninguCardId){
+						var dupe = 0;
+						for(var z in window.gear){
+							if(ninguCardId[y]['targetCrystal'] == window.gear[z]['recipeId']){
+								for(var g in ninguGearList){
+									if(ninguGearList[g] == window.gear[z]["crystalImageId"]){
+										 dupe = 1;
+									}
+								}
+								if(dupe == 0){
+									var ningu = window.gear[z];
+								}
+								break;
+							}
+						}
+						var gearType = checkGearType(ningu);
+						if(dupe == 0){
+							gear += '<div class="base-gear">' 
+									+		'<div class="icon">'
+									+			'<img src="../common/assets/img/gear/ningu_' + ningu['crystalImageId'] + '.png">'
+									+		'</div>' 
+									+		'<div class="info">'
+									+			'<div class="header">'
+									+				'<div class="type">'
+									+					'<h4 type="' + gearType + '">' + gearType + '</h4>'
+									+				'</div>'
+									+			'<div class="title">'
+									+				'<h3>' + ningu['crystalName'] + '</h3>'
+									+			'</div>'
+									+		'</div>'
+									+		'<div class="description">'
+									+			'<p>' + ninguCardId[y]['description'] + '</p>'
+									+		'</div>'
+									+	'</div>'
+									+'</div>';
+						}
+					}
+					for(var y in ninguGroup){
+						var dupe = 0;
+						for(var z in window.gear){
+							if(ninguGroup[y]['targetCrystal'] == window.gear[z]['recipeId']){
+								for(var g in ninguGearList){
+									if(ninguGearList[g] == window.gear[z]["crystalImageId"]){
+										 dupe = 1;
+									}
+								}
+								if(dupe == 0){
+									var ningu = window.gear[z];
+								}
+								break;
+							}
+						}
+						var gearType = checkGearType(ningu);
+						if(dupe == 0){
+							gear += '<div class="base-gear">' 
+									+		'<div class="icon">'
+									+			'<img src="../common/assets/img/gear/ningu_' + ningu['crystalImageId'] + '.png">'
+									+		'</div>' 
+									+		'<div class="info">'
+									+			'<div class="header">'
+									+				'<div class="type">'
+									+					'<h4 type="' + gearType + '">' + gearType + '</h4>'
+									+				'</div>'
+									+			'<div class="title">'
+									+				'<h3>' + ningu['crystalName'] + '</h3>'
+									+			'</div>'
+									+		'</div>'
+									+		'<div class="description">'
+									+			'<p>' + ninguGroup[y]['description'] + '</p>'
+									+		'</div>'
+									+	'</div>'
+									+'</div>';
+						}
+					}
+					document.getElementById("gear").innerHTML = gear;
+					document.getElementById("gear-six").innerHTML = gear;
+
+					//Character Lead
 					for(var n in window.lead){
 						if(window.chara[x]['leaderSkillId'] == window.lead[n]['cardLeaderSkillId']){
 							
-							//A
+							//Lead
 							$('#leadname-' + i).text(window.lead[n]['name']);
 							$('#lead-' + i).text(window.lead[n]['description']);
 							$('#leadname-six').text(window.lead[n]['name']);
@@ -502,6 +673,17 @@
 	    img.onload = good; 
 	    img.onerror = bad;
 	    img.src = imageSrc;
+	}
+
+	function checkGearType(gear){
+		for(var i in window.key){
+			if(window.key[i][0] == "gear"){
+				if(gear['crystalType'] == window.key[i][1]){
+					type = window.key[i][2];
+					return type;
+				}
+			}
+		}
 	}
 
 	function checkType(unit){
