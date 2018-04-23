@@ -317,42 +317,49 @@
 						for(var z in group){
 							if(group == "600000" && window.chara[x]['charaType'] == '8'){
 								ninguGroup.push(window.unique[y]);
+								break;
 							}
 							if(group == "600001"){
 								if(window.chara[x]['charaProfileId'] == "201" || window.chara[x]['charaProfileId'] == "202" || window.chara[x]['charaProfileId'] == "203" || window.chara[x]['charaProfileId'] == "204" ||
-								window.chara[x]['charaProfileId'] == "205" ||	window.chara[x]['charaProfileId'] == "206" || window.chara[x]['charaProfileId'] == "207" || window.chara[x]['charaProfileId'] == "208" || window.chara[x]['charaProfileId'] == "209" 
+								window.chara[x]['charaProfileId'] == "205" ||	window.chara[x]['charaProfileId'] == "206" || window.chara[x]['charaProfileId'] == "207" || window.chara[x]['charaProfileId'] == "208" 
 								|| window.chara[x]['charaProfileId'] == "210" || window.chara[x]['charaProfileId'] == "4101" || window.chara[x]['charaProfileId'] == "4701" || window.chara[x]['charaProfileId'] == "11601" || window.chara[x]['charaProfileId'] == "11602" 
-								|| window.chara[x]['charaProfileId'] == "11603" || window.chara[x]['charaProfileId'] == "13701" || window.chara[x]['charaProfileId'] == "13702" || window.chara[x]['charaProfileId'] == "13703" || window.chara[x]['charaProfileId'] == "13801" 
+								|| window.chara[x]['charaProfileId'] == "11603" || window.chara[x]['charaProfileId'] == "13701" || window.chara[x]['charaProfileId'] == "13702"  || window.chara[x]['charaProfileId'] == "13801" 
 								|| window.chara[x]['charaProfileId'] == "50801" || window.chara[x]['charaProfileId'] == "50901" || window.chara[x]['charaProfileId'] == "50902" || window.chara[x]['charaProfileId'] == "50903" ){
 									ninguGroup.push(window.unique[y]);
+									break;
 								}
 							}
 							if(group == "700001"){
 								if(window.chara[x]['charaProfileId'] == "110" || window.chara[x]['charaProfileId'] == "14001" ||　window.chara[x]['charaProfileId'] == "109" || window.chara[x]['charaProfileId'] == "50903"
 								|| window.chara[x]['charaProfileId'] == "1202"	){
 									ninguGroup.push(window.unique[y]);
+									break;
 								}
 							}
 							if(group == "700000"){
 								if(window.chara[x]['charaProfileId'] == "110" || window.chara[x]['charaProfileId'] == "14001" ||　window.chara[x]['charaProfileId'] == "109" || window.chara[x]['charaProfileId'] == "50903"
 								|| window.chara[x]['charaProfileId'] == "1202" || window.chara[x]['charaProfileId'] == "20301"　|| window.chara[x]['charaProfileId'] == "402"	|| window.chara[x]['charaProfileId'] == "502"　|| window.chara[x]['charaProfileId'] == "602"){
 									ninguGroup.push(window.unique[y]);
+									break;
 								}
 							}
 							if(group == "100301"){
 								if(window.chara[x]['charaProfileId'] == "110" || window.chara[x]['charaProfileId'] == "106" ||　window.chara[x]['charaProfileId'] == "109"){
 									ninguGroup.push(window.unique[y]);
+									break;
 								}
 							}
 							if(group == "600002"){
 								if(window.chara[x]['charaProfileId'] == "11801" || window.chara[x]['charaProfileId'] == "13304" ||　window.chara[x]['charaProfileId'] == "13101"){
 									ninguGroup.push(window.unique[y]);
+									break;
 								}
 							}
 							if(group == "300001"){
 								if(window.chara[x]['charaProfileId'] == "1701" || window.chara[x]['charaProfileId'] == "1702" || window.chara[x]['charaProfileId'] == "1703" 
-								|| window.chara[x]['charaProfileId'] == "1704" || window.chara[x]['charaProfileId'] == "1706" || window.chara[x]['charaProfileId'] == "1707"){
+								|| window.chara[x]['charaProfileId'] == "1704" || window.chara[x]['charaProfileId'] == "1706" ){
 									ninguGroup.push(window.unique[y]);
+									break;
 								}
 							}
 						}
@@ -466,12 +473,12 @@
 					//Character Lead
 					for(var n in window.lead){
 						if(window.chara[x]['leaderSkillId'] == window.lead[n]['cardLeaderSkillId']){
-							
 							//Lead
 							$('#leadname-' + i).text(window.lead[n]['name']);
 							$('#lead-' + i).text(window.lead[n]['description']);
 							$('#leadname-six').text(window.lead[n]['name']);
 							$('#lead-six').text(window.lead[n]['description']);
+							break;
 						}
 					}
 
@@ -532,6 +539,7 @@
 								$('#ability2name-six').text(window.ability[n]['abilityName']);
 								$('#ability2-six').text(window.ability[n]['abilityDescription']);
 							}
+							break;
 						}
 					}
 
@@ -545,6 +553,7 @@
 									//$('#skill1ogname-' + i).text(window.skillname[g]['name']);
 									$('#skill1name-six').text(window.skillname[g]['name']);
 									//$('#skill1ogname-six').text(window.skillname[g]['name']);
+									break;
 								}
 							}
 							//Replace Type
@@ -578,6 +587,7 @@
 												check = 1;
 											}
 										}
+										break;
 									}
 								}
 							}
@@ -603,6 +613,7 @@
 									//$('#skill2ogname-' + i).text(window.skillname[g]['name']);
 									$('#skill2name-six').text(window.skillname[g]['name']);
 									//$('#skill2ogname-six').text(window.skillname[g]['name']);
+									break;
 								}
 							}
 							//Replace Type with Words
@@ -636,6 +647,7 @@
 												check = 1;
 											}
 										}
+										break;
 									}
 								}
 							}
@@ -649,11 +661,12 @@
 								$('#skill2cost-six').text(window.skill[n]['battleSkillCnt']);
 								$('#skill2-six').text(window.skill[n]['description']);
 							}
+							break;
 						}
 					}
 				}
 			}
-		
+			
 		}
 		
 		// Abre a modal

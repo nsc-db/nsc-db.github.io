@@ -25,8 +25,8 @@
 		var name = '';
 		var type = '';
 		var normal = '';
-		var unique = 'なじ';
-		var chara = "なじ";
+		var unique = 'なし';
+		var chara = "なし";
 
 		for(var i in window.gear){
 			var gear = window.gear[i];
