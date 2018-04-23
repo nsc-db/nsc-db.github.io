@@ -478,7 +478,6 @@
 							$('#lead-' + i).text(window.lead[n]['description']);
 							$('#leadname-six').text(window.lead[n]['name']);
 							$('#lead-six').text(window.lead[n]['description']);
-							break;
 						}
 					}
 
@@ -539,7 +538,6 @@
 								$('#ability2name-six').text(window.ability[n]['abilityName']);
 								$('#ability2-six').text(window.ability[n]['abilityDescription']);
 							}
-							break;
 						}
 					}
 
@@ -553,7 +551,6 @@
 									//$('#skill1ogname-' + i).text(window.skillname[g]['name']);
 									$('#skill1name-six').text(window.skillname[g]['name']);
 									//$('#skill1ogname-six').text(window.skillname[g]['name']);
-									break;
 								}
 							}
 							//Replace Type
@@ -587,7 +584,6 @@
 												check = 1;
 											}
 										}
-										break;
 									}
 								}
 							}
@@ -647,7 +643,6 @@
 												check = 1;
 											}
 										}
-										break;
 									}
 								}
 							}
@@ -661,7 +656,6 @@
 								$('#skill2cost-six').text(window.skill[n]['battleSkillCnt']);
 								$('#skill2-six').text(window.skill[n]['description']);
 							}
-							break;
 						}
 					}
 				}
