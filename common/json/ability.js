@@ -16407,6 +16407,42 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "1859",
+          "abilityName": "不死たる身",
+          "abilityDescription": "HP50％以下の時、確率で全スキルを無効化する",
+          "abilityEffectDescription": "HP50％以下の時、確率で全スキルを無効化する",
+          "effectIdx1": "1736",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1860",
+          "abilityName": "被虐の情欲",
+          "abilityDescription": "最大チャクラが50アップし、最大HPが200％アップする",
+          "abilityEffectDescription": "最大チャクラが50アップし、最大HPが200％アップする",
+          "effectIdx1": "20004",
+          "effectIdx2": "10100",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1861",
+          "abilityName": "五つの性質変化",
+          "abilityDescription": "火遁・水遁・雷遁・風遁・土遁を無効化し、スキルダメージが120％アップする",
+          "abilityEffectDescription": "火遁・水遁・雷遁・風遁・土遁を無効化し、スキルダメージが120％アップする",
+          "effectIdx1": "1738",
+          "effectIdx2": "30011",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1862",
+          "abilityName": "命の補填",
+          "abilityDescription": "最大HPが100％アップし、HPが0以下で4度までHPが全回復する",
+          "abilityEffectDescription": "最大HPが100％アップし、HPが0以下で4度までHPが全回復する",
+          "effectIdx1": "684",
+          "effectIdx2": "1737",
+          "effectIdx3": "874"
+        },
+        {
           "abilityId": "1865",
           "abilityName": "高められた白眼",
           "abilityDescription": "行動するたびに攻撃力が20%アップする（最大4回まで）",

@@ -4864,6 +4864,22 @@ window.skillname=[
           "name": "オレは今機嫌が悪いんだ"
         },
         {
+          "cardBattleSkillNameId": "2390",
+          "name": "狂い咲く快楽"
+        },
+        {
+          "cardBattleSkillNameId": "2392",
+          "name": "ゲハハハハハアァ！"
+        },
+        {
+          "cardBattleSkillNameId": "2394",
+          "name": "破壊への渇望"
+        },
+        {
+          "cardBattleSkillNameId": "2396",
+          "name": "ここはオレがやる"
+        },
+        {
           "cardBattleSkillNameId": "2398",
           "name": "ご愛顧有難うございました"
         },

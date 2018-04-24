@@ -9282,6 +9282,32 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "721",
+          "name": "不死たる狂徒",
+          "description": "\"暁\"所属のキャラが敵からダメージを受けた時に低確率でHPが全回復",
+          "effectIdx1": "1746",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "8",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "722",
+          "name": "生への強欲",
+          "description": "\"暁\"所属のキャラのスキルダメージが50％アップし、行動後HPが10％回復",
+          "effectIdx1": "682",
+          "effectIdx2": "357",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "8",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "723",
           "name": "歩み始めた未来",
           "description": "知属性か木ノ葉隠れの里所属の攻撃力と素早さを50%アップする",
