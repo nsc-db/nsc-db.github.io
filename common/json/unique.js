@@ -7090,5 +7090,29 @@ window.unique=[
           "effectIdx2": "13049",
           "effectIdx3": "0",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "602",
+          "targetCrystal": "923",
+          "description": "行動後にチャクラが20％回復、HP40％以下の時にスキル発動速度2段階アップ",
+          "charaIds": "12301,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "583",
+          "effectIdx2": "1747",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "603",
+          "targetCrystal": "924",
+          "description": "行動後にチャクラが20％回復、10回行動するまで受ける全スキルダメージ半減",
+          "charaIds": "12401,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "583",
+          "effectIdx2": "1174",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
         }
 ]

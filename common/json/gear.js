@@ -13550,5 +13550,37 @@ window.gear=[
           "crystalImageId": "8804",
           "recipeId": "922",
           "recipeName": "サソリの羽"
+        },
+        {
+          "crystalId": "923",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "528",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "飛段の額当て",
+          "crystalDescription": "行動後にチャクラが10％回復する",
+          "crystalImageId": "4705",
+          "recipeId": "923",
+          "recipeName": "飛段の額当て"
+        },
+        {
+          "crystalId": "924",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "528",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "角都の額当て",
+          "crystalDescription": "行動後にチャクラが10％回復する",
+          "crystalImageId": "4725",
+          "recipeId": "924",
+          "recipeName": "角都の額当て"
         }
 ]
