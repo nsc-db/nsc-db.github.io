@@ -3957,259 +3957,259 @@ window.tags=[
           "cardId": "20040110",
           "rare": "5",
           "tag": "ex-6",
-          "rate": "50"
+          "rate": "82"
 },
 {
           "cardId": "20040111",
           "rare": "5",
           "tag": "ex-6",
-          "rate": "50"
+          "rate": "85"
 },
 {
           "cardId": "20040112",
           "rare": "5",
           "tag": "killers",
-          "rate": "50"
+          "rate": "96"
 },
 {
           "cardId": "20040113",
           "rare": "5",
           "tag": "killers",
-          "rate": "50"
+          "rate": "86"
 },
 {
           "cardId": "20040114",
           "rare": "5",
           "tag": "killers",
-          "rate": "50"
+          "rate": "86"
 },
 {
           "cardId": "20040115",
           "rare": "5",
           "tag": "ex-6",
-          "rate": "50"
+          "rate": "97"
 },
 {
           "cardId": "20040116",
           "rare": "5",
           "tag": "ex-6",
-          "rate": "50"
+          "rate": "83"
 },
 {
           "cardId": "20040117",
           "rare": "5",
           "tag": "ex-6",
-          "rate": "50"
+          "rate": "85"
 },
 {
           "cardId": "20040118",
           "rare": "5",
           "tag": "fp",
-          "rate": "50"
+          "rate": "87"
 },
 {
           "cardId": "20040119",
           "rare": "5",
           "tag": "event",
-          "rate": "50"
+          "rate": "78"
 },
 {
           "cardId": "20040201",
           "rare": "5",
           "tag": "ex-6",
-          "rate": "50"
+          "rate": "95"
 },
 {
           "cardId": "20040202",
           "rare": "5",
           "tag": "ex-6",
-          "rate": "50"
+          "rate": "96"
 },
 {
           "cardId": "20040203",
           "rare": "5",
           "tag": "event",
-          "rate": "50"
+          "rate": "74"
 },
 {
           "cardId": "20040204",
           "rare": "5",
           "tag": "event",
-          "rate": "50"
+          "rate": "78"
 },
 {
           "cardId": "20040205",
           "rare": "5",
           "tag": "killers",
-          "rate": "50"
+          "rate": "99"
 },
 {
           "cardId": "20040206",
           "rare": "5",
           "tag": "event",
-          "rate": "50"
+          "rate": "83"
 },
 {
           "cardId": "20040207",
           "rare": "5",
           "tag": "ex-6",
-          "rate": "50"
+          "rate": "94"
 },
 {
           "cardId": "20040208",
           "rare": "5",
           "tag": "ex-6",
-          "rate": "50"
+          "rate": "92"
 },
 {
           "cardId": "20040209",
           "rare": "5",
           "tag": "ex-6",
-          "rate": "50"
+          "rate": "88"
 },
 {
           "cardId": "20040210",
           "rare": "5",
           "tag": "ex-6",
-          "rate": "50"
+          "rate": "87"
 },
 {
           "cardId": "20040211",
           "rare": "5",
           "tag": "ex-6",
-          "rate": "50"
+          "rate": "81"
 },
 {
           "cardId": "20040212",
           "rare": "5",
           "tag": "ex-6",
-          "rate": "50"
+          "rate": "80"
 },
 {
           "cardId": "20040213",
           "rare": "5",
           "tag": "limited-6",
-          "rate": "50"
+          "rate": "81"
 },
 {
           "cardId": "20040301",
           "rare": "5",
           "tag": "pmiles",
-          "rate": "50"
+          "rate": "80"
 },
 {
           "cardId": "20040302",
           "rare": "5",
           "tag": "god",
-          "rate": "50"
+          "rate": "98"
 },
 {
           "cardId": "20040303",
           "rare": "5",
           "tag": "ex-6",
-          "rate": "50"
+          "rate": "92"
 },
 {
           "cardId": "20040304",
           "rare": "5",
           "tag": "ex-6",
-          "rate": "50"
+          "rate": "86"
 },
 {
           "cardId": "20040305",
           "rare": "5",
           "tag": "ex-6",
-          "rate": "50"
+          "rate": "87"
 },
 {
           "cardId": "20040306",
           "rare": "5",
           "tag": "killers",
-          "rate": "50"
+          "rate": "90"
 },
 {
           "cardId": "20040307",
           "rare": "5",
           "tag": "killers",
-          "rate": "50"
+          "rate": "89"
 },
 {
           "cardId": "20040308",
           "rare": "5",
           "tag": "ex-6",
-          "rate": "50"
+          "rate": "88"
 },
 {
           "cardId": "20040309",
           "rare": "5",
           "tag": "ex-6",
-          "rate": "50"
+          "rate": "94"
 },
 {
           "cardId": "20040310",
           "rare": "5",
           "tag": "killers",
-          "rate": "50"
+          "rate": "90"
 },
 {
           "cardId": "20040311",
           "rare": "5",
           "tag": "killers",
-          "rate": "50"
+          "rate": "90"
 },
 {
           "cardId": "20040312",
           "rare": "5",
           "tag": "ex-6",
-          "rate": "50"
+          "rate": "93"
 },
 {
           "cardId": "20040313",
           "rare": "5",
           "tag": "pvp-reward",
-          "rate": "50"
+          "rate": "96"
 },
 {
           "cardId": "20040314",
           "rare": "5",
           "tag": "limited-6",
-          "rate": "50"
+          "rate": "84"
 },
 {
           "cardId": "20040315",
           "rare": "5",
           "tag": "event",
-          "rate": "50"
+          "rate": "76"
 },
 {
           "cardId": "20040316",
           "rare": "5",
           "tag": "event",
-          "rate": "50"
+          "rate": "74"
 },
 {
           "cardId": "20040317",
           "rare": "5",
           "tag": "event",
-          "rate": "50"
+          "rate": "74"
 },
 {
           "cardId": "20040319",
           "rare": "5",
           "tag": "event",
-          "rate": "50"
+          "rate": "75"
 },
 {
           "cardId": "20040401",
           "rare": "5",
           "tag": "pmiles",
-          "rate": "50"
+          "rate": "78"
 },
 {
           "cardId": "20040402",
           "rare": "5",
           "tag": "killers",
-          "rate": "50"
+          "rate": "95"
 },
 {
           "cardId": "20040403",
@@ -4221,84 +4221,90 @@ window.tags=[
           "cardId": "20040404",
           "rare": "5",
           "tag": "limited-6",
-          "rate": "50"
+          "rate": "92"
 },
 {
           "cardId": "20040405",
           "rare": "5",
           "tag": "limited-6",
-          "rate": "50"
+          "rate": "94"
 },
 {
           "cardId": "20040406",
           "rare": "5",
           "tag": "event",
-          "rate": "50"
+          "rate": "77"
 },
 {
           "cardId": "20040407",
           "rare": "5",
           "tag": "killers",
-          "rate": "50"
+          "rate": "88"
 },
 {
           "cardId": "20040408",
           "rare": "5",
           "tag": "event",
-          "rate": "50"
+          "rate": "83"
 },
 {
           "cardId": "20040409",
           "rare": "5",
           "tag": "ex-6",
-          "rate": "50"
+          "rate": "93"
 },
 {
           "cardId": "20040410",
           "rare": "5",
           "tag": "ex-6",
-          "rate": "50"
+          "rate": "93"
 },
 {
           "cardId": "20040411",
           "rare": "5",
           "tag": "ex-6",
-          "rate": "50"
+          "rate": "95"
 },
 {
           "cardId": "20040412",
           "rare": "5",
           "tag": "killers",
-          "rate": "50"
+          "rate": "97"
 },
 {
           "cardId": "20040414",
           "rare": "5",
           "tag": "ex-6",
-          "rate": "50"
+          "rate": "93"
 },
 {
           "cardId": "20040415",
           "rare": "5",
           "tag": "ex-6",
-          "rate": "50"
+          "rate": "91"
 },
 {
           "cardId": "20040416",
           "rare": "5",
           "tag": "killers",
-          "rate": "50"
+          "rate": "97"
 },
 {
           "cardId": "20040417",
           "rare": "5",
           "tag": "killers",
-          "rate": "50"
+          "rate": "93"
 },
 {
           "cardId": "20040418",
           "rare": "5",
           "tag": "event",
-          "rate": "50"
+          "rate": "78"
+},
+{
+          "cardId": "20040501",
+          "rare": "5",
+          "tag": "pmiles",
+          "rate": "70"
 },
 ]

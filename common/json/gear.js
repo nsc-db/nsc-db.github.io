@@ -12367,6 +12367,7 @@ window.gear=[
           "recipeId": "843",
           "recipeName": "炎遁・焔雷"
         },
+
         {
           "crystalId": "844",
           "crystalType": "3",
@@ -13214,6 +13215,54 @@ window.gear=[
           "crystalImageId": "8985",
           "recipeId": "898",
           "recipeName": "ｻｽｹの呪印(状態0.5)"
+        },
+        {
+          "crystalId": "899",
+          "crystalType": "3",
+          "crystalRare": "5",
+          "effectIdx1": "52",
+          "effectIdx2": "53",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "マダラの挑戦状",
+          "crystalDescription": "行動後HPとチャクラが10％回復する",
+          "crystalImageId": "8995",
+          "recipeId": "899",
+          "recipeName": "マダラの挑戦状"
+        },
+        {
+          "crystalId": "900",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "694",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "表彰状・壱",
+          "crystalDescription": "全スキルダメージが80％アップする",
+          "crystalImageId": "9005",
+          "recipeId": "900",
+          "recipeName": "表彰状・壱"
+        },
+        {
+          "crystalId": "901",
+          "crystalType": "1",
+          "crystalRare": "5",
+          "effectIdx1": "1432",
+          "effectIdx2": "1433",
+          "effectIdx3": "1434",
+          "effectIdx4": "13649",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "制覇の証・壱",
+          "crystalDescription": "最大HPと攻撃力と防御力が20000、素早さが150アップする",
+          "crystalImageId": "9015",
+          "recipeId": "901",
+          "recipeName": "制覇の証・壱"
         },
         {
           "crystalId": "902",

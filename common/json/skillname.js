@@ -4896,6 +4896,10 @@ window.skillname=[
           "name": "呪印・天雷"
         },
         {
+          "cardBattleSkillNameId": "2421",
+          "name": "雷遁・雷黎熱刀"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },

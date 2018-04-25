@@ -16443,6 +16443,24 @@ window.ability=[
           "effectIdx3": "874"
         },
         {
+          "abilityId": "1863",
+          "abilityName": "郷土愛・朋友愛",
+          "abilityDescription": "チャクラが33%以上の時、チャクラ消費量33%減少し防御力333％アップ",
+          "abilityEffectDescription": "チャクラが33%以上の時、チャクラ消費量33%減少し防御力333％アップ",
+          "effectIdx1": "1739",
+          "effectIdx2": "1741",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1864",
+          "abilityName": "魂の鼓動（ビート）",
+          "abilityDescription": "HPが33%以上の時、攻撃力とスキルダメージが333％アップ",
+          "abilityEffectDescription": "HPが33%以上の時、攻撃力とスキルダメージが333％アップ",
+          "effectIdx1": "1742",
+          "effectIdx2": "1743",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "1865",
           "abilityName": "高められた白眼",
           "abilityDescription": "行動するたびに攻撃力が20%アップする（最大4回まで）",

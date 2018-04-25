@@ -9319,5 +9319,19 @@ window.lead=[
           "target1Param": "6",
           "target2Category": "2",
           "target2Param": "1"
-        }
+        },
+        {
+          "cardLeaderSkillId": "724",
+          "name": "3周年だウィー！！",
+          "description": "全属性の攻撃力とスキルダメージを33%アップする",
+          "effectIdx1": "1744",
+          "effectIdx2": "11032",
+          "effectIdx3": "0",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+
 ]
