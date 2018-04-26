@@ -4792,6 +4792,14 @@ window.skillname=[
           "name": "まぬけ！"
         },
         {
+          "cardBattleSkillNameId": "2344",
+          "name": "おいろけ被害・ムッツリ弾"
+        },
+        {
+          "cardBattleSkillNameId": "2346",
+          "name": "もう許しませんぞ！"
+        },
+        {
           "cardBattleSkillNameId": "2348",
           "name": "外道魔像・招雷光墜"
         },
@@ -4898,6 +4906,10 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "2421",
           "name": "雷遁・雷黎熱刀"
+        },
+        {
+          "cardBattleSkillNameId": "2422",
+          "name": "今は気分がいいぜ"
         },
         {
           "cardBattleSkillNameId": "10136",

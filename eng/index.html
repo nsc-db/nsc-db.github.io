@@ -33,9 +33,17 @@
 	<link rel="stylesheet" type="text/css" href="css/style.css"/>
 	
 	<!-- DATABASE ENTRIES -->
-	<script type="text/javascript" src="json/unit.js"></script>
-	<script type="text/javascript" src="json/detail.js"></script>
- 	<script type="text/javascript" src="json/damage.js"></script>
+ 	<script type="text/javascript" src="../common/eng/chara.js"></script>
+ 	<script type="text/javascript" src="../common/eng/charaname.js"></script>
+ 	<script type="text/javascript" src="../common/eng/skill.js"></script>
+ 	<script type="text/javascript" src="../common/eng/skillname.js"></script>
+ 	<script type="text/javascript" src="../common/eng/ability.js"></script>
+ 	<script type="text/javascript" src="../common/eng/lead.js"></script>
+ 	<script type="text/javascript" src="../common/eng/key.js"></script>
+ 	<script type="text/javascript" src="../common/json/evo.js"></script>
+ 	<script type="text/javascript" src="../common/json/tags.js"></script>
+
+
 
 
 	<link rel="stylesheet" href="https://i.icomoon.io/public/adb54f46d6/Linearicons/style.css">
@@ -92,9 +100,9 @@
 											<div class="row">
 												<div class="col-md-12">
 													<ul class="nav nav-nscdb" role="tablist">
-														<li class="active"><a id="skills-btn" class="active" data-toggle="tab" href="#skills">Skills</a></li>
-														<li><a id="ability-btn" data-toggle="tab" href="#ability">Abilities</a></li>
-														<li><a id="status-btn" data-toggle="tab" href="#status">Status</a></li>
+														<li class="active"><a id="skills-btn" class="active" data-toggle="tab" href="#skills">Skill</a></li>
+														<li><a id="ability-btn" data-toggle="tab" href="#ability">Ability</a></li>
+														<li class="hidden"><a id="status-btn" data-toggle="tab" href="#status">Stats</a></li>
 														<li class="hidden"><a id="gear-btn" data-toggle="tab" href="#gear">Gear</a></li>
 													</ul>
 												</div>
@@ -188,10 +196,10 @@
 																<thead>
 																	<tr>
 																		<th></th>
-																		<th>Base Value</th>
-																		<th>Ability Increase</th>
-																		<th>Skill Increase</th>
-																		<th>Max</th>
+																		<th>基礎</th>
+																		<th>アビリティ</th>
+																		<th>スキル</th>
+																		<th>合計</th>
 																	</tr>
 																</thead>
 																<tbody>
@@ -203,49 +211,49 @@
 																		<td id="max-hp-five"></td>
 																	</tr>
 																	<tr>
-																		<td>ATK</td>
+																		<td>攻撃力</td>
 																		<td id="base-atk-five"></td>
 																		<td id="ability-atk-five"></td>
 																		<td id="gear-atk-five"></td>
 																		<td id="max-atk-five"></td>
 																	</tr>
 																	<tr>
-																		<td>DEF</td>
+																		<td>防御力</td>
 																		<td id="base-def-five"></td>
 																		<td id="ability-def-five"></td>
 																		<td id="gear-def-five"></td>
 																		<td id="max-def-five"></td>
 																	</tr>
 																	<tr>
-																		<td>SPD</td>
+																		<td>素早さ</td>
 																		<td id="base-agility-five"></td>
 																		<td id="ability-agility-five"></td>
 																		<td id="gear-agility-five"></td>
 																		<td id="max-agility-five"></td>
 																	</tr>
 																	<tr>
-																		<td>Dodge</td>
+																		<td>回避率</td>
 																		<td id="base-evasion-five">%</td>
 																		<td id="ability-evasion-five">%</td>
 																		<td id="gear-evasion-five">%</td>
 																		<td id="max-evasion-five">%</td>
 																	</tr>
 																	<tr>
-																		<td>Crit Chance</td>
+																		<td>会心率</td>
 																		<td id="base-criticalrate-five">%</td>
 																		<td id="ability-criticalrate-five">%</td>
 																		<td id="gear-criticalrate-five">%</td>
 																		<td id="max-criticalrate-five">%</td>
 																	</tr>
 																	<tr>
-																		<td>Crit Damage</td>
+																		<td>会心力</td>
 																		<td id="base-criticalpower-five">%</td>
 																		<td id="ability-criticalpower-five">%</td>
 																		<td id="gear-criticalpower-five">%</td>
 																		<td id="max-criticalpower-five">%</td>
 																	</tr>
 																	<tr>
-																		<td>Skill Damage</td>
+																		<td>スキルダメージ</td>
 																		<td id="base-skilldamage-five">%</td>
 																		<td id="ability-skilldamage-five">%</td>
 																		<td id="gear-skilldamage-five">%</td>
@@ -348,9 +356,9 @@
 											<div class="row">
 												<div class="col-md-12">
 													<ul class="nav nav-nscdb">
-														<li class="active"><a id="skills-six-btn" data-toggle="tab" href="#skills-six">Skills</a></li>
-														<li><a id="ability-six-btn" data-toggle="tab" href="#ability-six">Abilities</a></li>
-														<li><a id="status-six-btn" data-toggle="tab" href="#status-six">Status</a></li>
+														<li class="active"><a id="skills-six-btn" data-toggle="tab" href="#skills-six">Skill</a></li>
+														<li><a id="ability-six-btn" data-toggle="tab" href="#ability-six">Ability</a></li>
+														<li class="hidden"><a id="status-six-btn" data-toggle="tab" href="#status-six">ステータス</a></li>
 														<li class="hidden"><a id="gear-six-btn" data-toggle="tab" href="#gear-six">Gear</a></li>
 													</ul>
 												</div>
@@ -444,10 +452,10 @@
 																<thead>
 																	<tr>
 																		<th></th>
-																		<th>Base Value</th>
-																		<th>Ability Increase</th>
-																		<th>Skill Increase</th>
-																		<th>Max</th>
+                                                                        <th>基礎</th>
+                                                                        <th>アビリティ</th>
+                                                                        <th>スキル</th>
+                                                                        <th>合計</th>
 																	</tr>
 																</thead>
 																<tbody>
@@ -459,49 +467,49 @@
 																		<td id="max-hp-six"></td>
 																	</tr>
 																	<tr>
-																		<td>ATK</td>
+																		<td>攻撃力</td>
 																		<td id="base-atk-six"></td>
 																		<td id="ability-atk-six"></td>
 																		<td id="gear-atk-six"></td>
 																		<td id="max-atk-six"></td>
 																	</tr>
 																	<tr>
-																		<td>DEF</td>
+																		<td>防御力</td>
 																		<td id="base-def-six"></td>
 																		<td id="ability-def-six"></td>
 																		<td id="gear-def-six"></td>
 																		<td id="max-def-six"></td>
 																	</tr>
 																	<tr>
-																		<td>SPD</td>
+																		<td>素早さ</td>
 																		<td id="base-agility-six"></td>
 																		<td id="ability-agility-six"></td>
 																		<td id="gear-agility-six"></td>
 																		<td id="max-agility-six"></td>
 																	</tr>
 																	<tr>
-																		<td>Dodge</td>
+																		<td>回避率</td>
 																		<td id="base-evasion-six">%</td>
 																		<td id="ability-evasion-six">%</td>
 																		<td id="gear-evasion-six">%</td>
 																		<td id="max-evasion-six">%</td>
 																	</tr>
 																	<tr>
-																		<td>Crit Chance</td>
+																		<td>会心率</td>
 																		<td id="base-criticalrate-six">%</td>
 																		<td id="ability-criticalrate-six">%</td>
 																		<td id="gear-criticalrate-six">%</td>
 																		<td id="max-criticalrate-six">%</td>
 																	</tr>
 																	<tr>
-																		<td>Crit Damage</td>
+																		<td>会心力</td>
 																		<td id="base-criticalpower-six">%</td>
 																		<td id="ability-criticalpower-six">%</td>
 																		<td id="gear-criticalpower-six">%</td>
 																		<td id="max-criticalpower-six">%</td>
 																	</tr>
 																	<tr>
-																		<td>Skill Damage</td>
+																		<td>スキルダメージ</td>
 																		<td id="base-skilldamage-six">%</td>
 																		<td id="ability-skilldamage-six">%</td>
 																		<td id="gear-skilldamage-six">%</td>
@@ -613,13 +621,13 @@
 					<div class="base-menu">
 						<ul>
 							<!-- <li><a href="nsc-db.github.io/index.html" role="button">Front Page</a> -->
-							<li><a href="../index.html" role="button">Home</a>								
-							<li class="active"><a href="../units/index.html" role="button">Units</a>
+							<li><a href="../" role="button">Home</a>																
+							<li><a href="../units/index.html" role="button">Units</a>
 							<li><a href="../gear/index.html" role="button">Ninja Gear</a>
-							<li><a href="../jp/index.html" role="button">JP</a>
+							<li class="active"><a href="" role="button">JP</a>
 							<li><a href="https://docs.google.com/document/d/1AXol-kO5zPbIj85SRX-sOUnV4el2NDHKHcleXeUCiyM/edit#heading=h.taus803ytjm2" role="button">Account Recovery</a>
 							<li><a href="../simulate/index.html" role="button">Summoning Simulator</a></li>
-	
+
 							<!-- <li><a href="/guides" role="button">Guides</a>
 							<li><a href="/faq" role="button">FAQ</a> -->
 						</ul>
@@ -640,11 +648,85 @@
 				</div>
 				<div class="col-md-8">
 					<div class="alert alert-warning" role="alert">
-						<strong>Click <a href="../eng/index.html">here</a> to access the new characters</strong> 
+						<strong>Click <a href="../eng/index.html">here</a> to access the newer Characters</strong> 
 					</div>
 				</div>
 				<div class="col-md-12">
 					<hr>
+				</div>
+			</div>
+
+				<div class="row">
+				<div class="col-md-10 col-md-offset-2">
+					<div id="filter-attribute" class="" style="padding: 5px; text-align: center;">
+						<div class="list-group">
+							<div class="col-md-2">
+							<a href="#" id="Heart" class="list-group-item">Heart</a>
+							</div>
+							<div class="col-md-2">
+							<a href="#" id="Technique" class="list-group-item">Technique</a>
+							</div>
+							<div class="col-md-2">
+							<a href="#" id="Body" class="list-group-item">Body</a>
+							</div>
+							<div class="col-md-2">
+							<a href="#" id="Intellect" class="list-group-item">Intellect</a>
+							</div>
+							<div class="col-md-2">
+							<a href="#" id="Courage" class="list-group-item">Courage</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-6" style="margin-top: 10px;">
+					<div class="panel panel-default">
+						<div id="filter-tags-collapse" class="panel-heading" data-toggle="collapse" href="#filter-tags" style="cursor: pointer; text-align: center;">
+							<h3 class="panel-title">Tags</h3>
+						</div>
+						<div id="filter-tags" class="attribute-filter panel-collapse collapse">
+							<div class="list-group">
+								<a href="#" id="ex-6" class="list-group-item" >EX 6&#9733;</a>
+								<a href="#" id="ex" class="list-group-item" >EX 5&#9733;</a>
+								<a href="#" id="pvp-reward" data-toggle="" class="list-group-item" >Champion</a>
+								<a href="#" id="god" data-toggle="" class="list-group-item">God</a>
+								<a href="#" id="killers" data-toggle="" class="list-group-item" >Killers</a>
+								<a href="#" id="limited-6" data-toggle="" class="list-group-item" >Limited 6&#9733;</a>
+								<a href="#" id="limited" data-toggle="" class="list-group-item" >Limited 5&#9733;</a>
+								<a href="#" id="event" data-toggle="" class="list-group-item" >Event</a>
+								<a href="#" id="slayer" data-toggle="" class="list-group-item" >Slayer</a>
+								<a href="#" id="special" data-toggle="" class="list-group-item" >Special</a>
+								<a href="#" id="gacha" data-toggle="" class="list-group-item" >Gacha</a>
+								<a href="#" id="fp" data-toggle="" class="list-group-item" >FP</a>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-md-6" style="margin-top: 10px;">
+					<div class="panel panel-default">
+						<div id="filter-affi-collapse" class="panel-heading" data-toggle="collapse" href="#filter-affi" style="cursor: pointer; text-align: center;">
+							<h3 class="panel-title">Affiliation</h3>
+						</div>
+						<div id="filter-affi" class="attribute-filter panel-collapse collapse">
+							<div class="list-group">
+								<a href="#" id="木ノ葉" class="list-group-item" >Konoha</a>
+								<a href="#" id="“暁”" class="list-group-item" >Akatsuki</a>
+								<a href="#" id="その他" data-toggle="" class="list-group-item" >None</a>
+								<a href="#" id="砂" data-toggle="" class="list-group-item">Suna</a>
+								<a href="#" id="霧" data-toggle="" class="list-group-item" >Kiri</a>
+								<a href="#" id="“鷹”" data-toggle="" class="list-group-item" >Taka</a>
+								<a href="#" id="“蛇”" data-toggle="" class="list-group-item" >Hebi</a>
+								<a href="#" id="岩" data-toggle="" class="list-group-item" >Iwa</a>
+								<a href="#" id="雲" data-toggle="" class="list-group-item" >Kumo</a>
+								<a href="#" id="雨" data-toggle="" class="list-group-item" >Ame</a>
+								<a href="#" id="音" data-toggle="" class="list-group-item" >Oto</a>
+								<a href="#" id="滝" data-toggle="" class="list-group-item" >Taki</a>
+								<a href="#" id="鉄" data-toggle="" class="list-group-item" >Iron</a>
+							</div>
+						</div>
+					</div>
 				</div>
 			</div>
 
@@ -675,29 +757,250 @@
 	<script type="text/javascript" src="js/change-rarity.js"></script>
 
 	<!--JSON GATHER -->
-	<script type="text/javascript" src="json/json-gather.js"></script>
+	<script type="text/javascript" src="js/json-gather.js"></script>
 
 	<!-- TABLE GENERATOR -->
 	<script type="text/javascript" src="js/datatables.min.js"></script>
 	<script>
 		$(document).ready( function () {
-			$('#myTable').DataTable({
+			var table = $('#myTable').DataTable({
 				stateSave: true,
 				columns: [
-		            { title: "No" },
 		            { title: "Icon" },
 		            { title: "Name" },
 		            { title: "Type" },
-		            { title: "Affiliation" },
+		            { title: "Affi" },
 		            { title: "Rarity" },
 		            { title: "Cost" },
 		            { title: "HP" },
 		            { title: "ATK" },
 		            { title: "DEF" },
 		            { title: "SPD" },
-		            { title: "Rating" }
+		            { title: "Rating" },
+		             {
+		            	title: "tag",
+		            	"visible": false,
+		            	"searchable": true
+		            }
 		        ]
 			});
+
+
+			var tagArr = [];
+			var typeArr = [];
+			var affiArr = [];
+
+			 table
+			 .column(0)
+		     .search(0, true, false)
+		     .draw();
+
+		      //Attribute
+		  	 $("#filter-attribute").on("click", ".list-group-item", function(e) {
+				e.preventDefault();
+				if($(this).attr('class') == 'list-group-item active'){
+					$(this).attr('class', "list-group-item");
+
+					//Remove Filter
+					var remove = $(this).attr('id');
+
+					var location;
+					for(var x = 0; x < typeArr.length; x++){
+						if(typeArr[x] == remove){
+							location = x;
+						}
+					}
+					typeArr.splice(location, 1);
+					
+					var type = "";
+					//Create Tags
+					for(var x = 0; x < typeArr.length; x++){
+						if(!type){
+							type += typeArr[x];
+						}
+						else{
+							type += "|";
+							type += typeArr[x];
+						}
+					}
+					table
+				 	.column(2)
+			     	.search(type, true, false)
+			     	.draw();
+				}
+
+				else{
+					$(this).attr('class', "list-group-item active");
+					typeArr.push($(this).attr('id'));
+
+					var type = "";
+					//Create Tags
+					for(var x = 0; x < typeArr.length; x++){
+						if(!type){
+							type += typeArr[x];
+						}
+						else{
+							type += "|";
+							type += typeArr[x];
+						}
+					}
+					table
+				 	.column(2)
+			     	.search(type, true, false)
+			     	.draw();
+		   	   }
+			 });
+
+		  	 //Tags
+		  	 $("#filter-tags").on("click", ".list-group-item", function(e) {
+				e.preventDefault();
+				if($(this).attr('class') == 'list-group-item active'){
+					$(this).attr('class', "list-group-item");
+
+					//Remove Filter
+					var remove = $(this).attr('id');
+
+					var location;
+					for(var x = 0; x < tagArr.length; x++){
+						if(tagArr[x] == remove){
+							location = x;
+						}
+					}
+					tagArr.splice(location, 1);
+					
+					var tag = "";
+					//Create Tags
+					for(var x = 0; x < tagArr.length; x++){
+						if(!tag){
+							tag += tagArr[x];
+						}
+						else{
+							tag += "|";
+							tag += tagArr[x];
+						}
+					}
+					table
+				 	.column(11)
+			     	.search(tag, true, false)
+			     	.draw();
+				}
+				else{
+					$(this).attr('class', "list-group-item active");
+					tagArr.push($(this).attr('id'));
+					var tag = "";
+					//Create Tags
+					for(var x = 0; x < tagArr.length; x++){
+						if(!tag){
+							tag += tagArr[x];
+						}
+						else{
+							tag += "|";
+							tag += tagArr[x];
+						}
+					}
+					table
+				 	.column(11)
+			     	.search(tag, true, false)
+			     	.draw();
+		   	   }
+			 });
+
+		  	 //Affi
+		  	 $("#filter-affi").on("click", ".list-group-item", function(e) {
+				e.preventDefault();
+				if($(this).attr('class') == 'list-group-item active'){
+					$(this).attr('class', "list-group-item");
+
+					//Remove Filter
+					var remove = $(this).attr('id');
+
+					var location;
+					for(var x = 0; x < affiArr.length; x++){
+						if(affiArr[x] == remove){
+							location = x;
+						}
+					}
+					affiArr.splice(location, 1);
+					
+					var affi = "";
+					//Create Tags
+					for(var x = 0; x < affiArr.length; x++){
+						if(!affi){
+							affi += affiArr[x];
+						}
+						else{
+							affi += "|";
+							affi += affiArr[x];
+						}
+					}
+					table
+				 	.column(3)
+			     	.search(affi, true, false)
+			     	.draw();
+				}
+				else{
+					$(this).attr('class', "list-group-item active");
+					affiArr.push($(this).attr('id'));
+					var affi = "";
+					//Create Tags
+					for(var x = 0; x < affiArr.length; x++){
+						if(!affi){
+							affi += affiArr[x];
+						}
+						else{
+							affi += "|";
+							affi += affiArr[x];
+						}
+					}
+					table
+				 	.column(3)
+			     	.search(affi, true, false)
+			     	.draw();
+		   	   }
+			 });
+
+		  	  //Reset
+		  	$("#reset-filter").on("click", function(e) {
+				e.preventDefault();
+				$("#心").attr('class', "list-group-item");
+				$("#技").attr('class', "list-group-item");
+				$("#体").attr('class', "list-group-item");
+				$("#知").attr('class', "list-group-item");
+				$("#勇").attr('class', "list-group-item");
+				$("#ex-6").attr('class', "list-group-item");
+				$("#ex").attr('class', "list-group-item");
+				$("#pvp-reward").attr('class', "list-group-item");
+				$("#god").attr('class', "list-group-item");
+				$("#killer").attr('class', "list-group-item");
+				$("#limited-6").attr('class', "list-group-item");
+				$("#limited").attr('class', "list-group-item");
+				$("#event").attr('class', "list-group-item");
+				$("#slayer").attr('class', "list-group-item");
+				$("#special").attr('class', "list-group-item");
+				$("#gacha").attr('class', "list-group-item");
+				$("#fp").attr('class', "list-group-item");
+				$("#木ノ葉").attr('class', "list-group-item");
+				$("#“暁”").attr('class', "list-group-item");
+				$("#その他").attr('class', "list-group-item");
+				$("#砂").attr('class', "list-group-item");
+				$("#霧").attr('class', "list-group-item");
+				$("#“鷹”").attr('class', "list-group-item");
+				$("#“蛇”").attr('class', "list-group-item");
+				$("#岩").attr('class', "list-group-item");
+				$("#雲").attr('class', "list-group-item");
+				$("#雨").attr('class', "list-group-item");
+				$("#音").attr('class', "list-group-item");
+				$("#滝").attr('class', "list-group-item");
+				$("#鉄").attr('class', "list-group-item");
+				
+				for(var x = 0; x < 12; x++){
+					table
+				 	.column(x)
+			     	.search("", true, false)
+			     	.draw();	
+		     	}
+			 });
+
 		} );
 	</script>
 

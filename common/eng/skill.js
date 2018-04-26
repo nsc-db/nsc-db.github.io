@@ -35831,7 +35831,7 @@ window.skill=[
           "waitTime": "3",
           "battleSkillType": "21",
           "targetMode": "1",
-          "calcType": "3",
+          "calcType": "2",
           "calcValue": "4000",
           "damageCap": "0",
           "unusualTurn": "3",
@@ -81722,7 +81722,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2309",
           "nameIdx": "2322",
-          "description": "敵全体に耐性無視の150,000の固定ダメージを与える。敵が攻撃・防御・素早さいずれかアップ状態だとダメージ3倍。",
+          "description": "Deal 150,000 fixed damage to all enemies. Deal 3x damage to enemies with ATK, DEF and/or SPD buffed",
           "categoryId": "1",
           "levelType": "2",
           "scriptId": "2309",
@@ -81758,7 +81758,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2310",
           "nameIdx": "2324",
-          "description": "敵単体に攻撃力7%+120,000のダメージを与える。生存している味方が多いほどダメージアップ（5人で最大3倍）。さらに自身を除く五大隠れ里所属の味方が1回行動するまで素早さを1000％アップ＆スキル発動速度を2段階アップ。【必中スキル】",
+          "description": "Deal 7% + 120,000 to one enemy. Deal more damage the more allies alive, max 3x. Excluding self, Five Village allies SPD +1000% and Cast Speed +2 for 1 turn. [Always Hit]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2310",
@@ -82154,7 +82154,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2321",
           "nameIdx": "641",
-          "description": "敵単体に攻撃力7%+5000のダメージを与え、自身のHPが多いほどダメージがアップし最大7倍。",
+          "description": "Deal 7% + 5,000 to one enemy. Deal more damage the more HP Naruto has, max 7x",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1262",
@@ -82190,7 +82190,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2322",
           "nameIdx": "2332",
-          "description": "自身のHPが大回復し、防御力が300％アップするが素早さが30％ダウンする。さらに低確率で憤怒状態になる。【特殊状態：憤怒】スキル発動速度1段階ダウン、攻撃力が1000%アップ。",
+          "description": "Recover own HP by a large amount, own DEF +300% and SPD -30% with a small chance to grant \"Anger\" state. [Anger: Cast Speed -1, ATK +1,000%]",
           "categoryId": "2",
           "levelType": "2",
           "scriptId": "100004",
@@ -82226,7 +82226,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2323",
           "nameIdx": "641",
-          "description": "敵単体に攻撃力7%+10000のダメージを与える。自身のHPが多いほどダメージがアップし最大10倍。",
+          "description": "Deal 7% + 10,000 to one enemy. Deal more damage the more HP Naruto has, max 10x",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1262",
@@ -82262,7 +82262,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2324",
           "nameIdx": "2332",
-          "description": "自身のHPが超大回復し、防御力が500％アップするが素早さが30％ダウンする。さらに確率で憤怒状態になる。【特殊状態：憤怒】スキル発動速度1段階ダウン、攻撃力が1000%アップ。",
+          "description": "Recover own HP by a tremendous amount, own DEF +500% and SPD -30% with a small chance to grant \"Anger\" state. [Anger: Cast Speed -1, ATK +1,000%]",
           "categoryId": "2",
           "levelType": "2",
           "scriptId": "100004",
@@ -82298,7 +82298,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2325",
           "nameIdx": "667",
-          "description": "敵全体に攻撃力3%＋8000のダメージを与え、確率で防御力を50％ダウンさせ、確率で敵の行動をキャンセルする。攻撃・防御・素早さいずれかダウン状態の敵にダメージ5倍。",
+          "description": "Deal 3% + 8,000 to all enemies with a chance to lower DEF by 50%, and a chance to cancel action. Deal 5x damage if the enemies ATK, DEF or SPD is lowered",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2325",
@@ -82334,7 +82334,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2326",
           "nameIdx": "2334",
-          "description": "確率で敵単体の素早さを短い間70％ダウンさせ、確率で雷遁と体術弱点状態にする。※雷遁と体術が無効、半減、軽減の場合は除く",
+          "description": "Chance to reduce one enemy's SPD by 70% and a chance to make the enemy weak to Taijutsu and Lightning Skill Damage. (Note: Only works if the enemy is neutral)",
           "categoryId": "6",
           "levelType": "4",
           "scriptId": "100004",
@@ -82370,7 +82370,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2327",
           "nameIdx": "2344",
-          "description": "敵単体に耐性無視の1000の固定ダメージを与え、高確率で気絶状態にする。さらに、自身を出血状態にする。【特殊状態：出血】出血による持続ダメージ+確率で防御力ダウン。",
+          "description": "Deal 1,000 fixed damage to one enemy with a high chance to Stun. Grant \"Bleed\" state to self. [Bleed: Continues to lose HP, with a chance to lower DEF]",
           "categoryId": "1",
           "levelType": "9",
           "scriptId": "2327",
@@ -82406,7 +82406,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2328",
           "nameIdx": "2346",
-          "description": "自身の素早さを150%アップ。自身が出血状態の場合、短い間スキルダメージが99,999%アップするが、確率で999回行動まで憤怒状態になる。【特殊状態：憤怒】スキル発動速度3段階ダウン、攻撃力が500%アップ",
+          "description": "Own SPD +150%. Own Skill Damage +99,999% and grant \"Anger\" state for 999 turns while under \"Bleed\" state. [Anger: Cast Speed -3, ATK +500%]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -82442,7 +82442,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2329",
           "nameIdx": "2348",
-          "description": "敵全体に耐性無視の9,999のダメージを与える。超忍祭限定キャラと闘忍の覇者に対してダメージ30倍。",
+          "description": "Deal 9,999 fixed damage to all enemies. Deal 30x damage to EX and Champion",
           "categoryId": "1",
           "levelType": "2",
           "scriptId": "2329",
@@ -82478,7 +82478,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2330",
           "nameIdx": "2350",
-          "description": "自身の素早さが100%アップする。敵に超忍祭限定キャラまたは闘忍の覇者が生存している場合、自身のスキルダメージが300%アップし、スキル発動速度が1段階アップする。",
+          "description": "Own SPD +100%. If one of the enemy is an EX or Champion, own Skill Damage +300% and Cast Speed +1",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -82514,7 +82514,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2331",
           "nameIdx": "2352",
-          "description": "敵単体に攻撃力7%+7000のダメージを与え、確率で起爆状態。味方の生存している五大隠れ里所属が多いほどダメージが上がり最大5倍。【特殊状態：起爆】カウント3から開始し行動するたびにカウントが1減少し、起爆状態解除時に敵全体に100,000の固定ダメージを与える。※起爆状態によるダメージではHPが0にはならない※カウント1時に起爆状態を解除してもダメージは発生",
+          "description": "Deal 7% + 7,000 to one enemy with a chance to inflict \"Ignition\" state. Deal more damage the more allies from the Five Village, max 5x. [Ignition: Place a 3 Countdown Turns on the enemy, reduce the Countdown by 1 every turn. When the Countdown reach 0, remove \"Ignition\" state. Deal 100,000 damage to all enemies whenever \"Ignition\" state is removed. (Note: The damage from \"Ignition\" can't kill an enemy) ",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2331",
@@ -82550,7 +82550,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2332",
           "nameIdx": "2354",
-          "description": "敵単体の攻撃・防御・素早さを確率で40％ダウンする。さらに狙った敵が起爆状態の時、耐性を無視して行動を1回無駄にする。",
+          "description": "Chance to reduce one enemy's ATK, DEF or SPD by 40%. If the enemy is under \"Ignition\" state, Skip the enemy's turn",
           "categoryId": "6",
           "levelType": "4",
           "scriptId": "100004",
@@ -82586,7 +82586,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2333",
           "nameIdx": "2352",
-          "description": "敵単体に攻撃力7%+10000のダメージを与え、確率で起爆状態。味方の生存している五大隠れ里所属が多いほどダメージが上がり最大10倍。【特殊状態：起爆】カウント3から開始し行動するたびにカウントが1減少し、起爆状態解除時の敵全体に300,000の固定ダメージを与える。※起爆状態によるダメージではHPが0にはならない※カウント1時に起爆状態を解除してもダメージは発生",
+          "description": "Deal 7% + 10,000 to one enemy with a chance to inflict \"Ignition\" state. Deal more damage the more allies from the Five Village, max 10x. [Ignition: Place a 3 Countdown Turns on the enemy, reduce the Countdown by 1 every turn. When the Countdown reach 0, remove \"Ignition\" state. Deal 300,000 damage to all enemies whenever \"Ignition\" state is removed. (Note: The damage from \"Ignition\" can't kill an enemy) ",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2331",
@@ -82622,7 +82622,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2334",
           "nameIdx": "2354",
-          "description": "敵単体の攻撃・防御・素早さを高確率で50％ダウンする。さらに狙った敵が起爆状態の時、耐性を無視して行動を1回無駄にする。",
+          "description": "Chance to reduce one enemy's ATK, DEF or SPD by 50%. If the enemy is under \"Ignition\" state, Skip the enemy's turn",
           "categoryId": "6",
           "levelType": "4",
           "scriptId": "100004",
@@ -82658,7 +82658,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2335",
           "nameIdx": "2356",
-          "description": "敵全体に攻撃力3%+12000のダメージを与え、それぞれ高確率で素早さを50%ダウン、混乱・封印・スキル回避封印状態にする。自身の残りHPが多いほどダメージが増加し最大10倍",
+          "description": "Deal 3% + 12,000 to all enemies with a high chance to lower SPD by 50%, Confuse, Seal and/or remove the ability to dodge skills. Deal more damage the more HP Hashirama has, max 10x",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2335",
@@ -82694,7 +82694,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2336",
           "nameIdx": "2358",
-          "description": "自身の攻撃力とスキルダメージを100%アップし、快癒状態にする。敵味方全体にうちはマダラ（年代問わず）が1人でも生存しているとスキル発動速度2段階アップ。【特殊状態：快癒】自身を狙ってダメージを発生させる単体全体問わず全敵スキルのダメージを120％ダウンしダメージを受ける。攻撃を受けた時HP20％回復。※ダメージダウンは最後に使ったスキル優先",
+          "description": "Own ATK and Skill Damage +100% and grant \"Convalescence\" state. If there's atleast 1 ally or enemy \"Madara Uchiha\", own Cast Speed +2. [Convalescence: Incoming Skill Damage -120%, Recover 20% HP when attacked] ",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -82730,7 +82730,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2337",
           "nameIdx": "453",
-          "description": "敵全体に攻撃力3%+12000のダメージを与え、高確率で豪炎状態にする。豪炎状態の敵にダメージ10倍。【特殊状態：豪炎】行動後にHPが減少（合計最大HPの60％）し、強化と弱体(チャクラ消費変化、スキルダメージ変化、会心率、会心力含む)を解除し無効化する。",
+          "description": "Deal 3% + 12,000 to all enemies with a high chance to inflict \"Great Fire\". Deal 10x damage to enemies under \"Great Fire\" [Great Fire: Reduce HP every turn (Max 60%), remove and prevent Buff and Debuff (Including Chakra Cost, Skill Damage, Crit Chance, Crit Damage)",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2337",
@@ -82766,7 +82766,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2338",
           "nameIdx": "2362",
-          "description": "自身の攻撃力と素早さ100%アップ＆鬼神状態。敵味方全体に千手柱間（年代問わず）が1人でも生存しているとスキル発動速度2段階アップ【特殊状態：鬼神】攻撃力とスキルダメージ300%アップ。敵のスキルが自身を狙ってダメージを発生させるスキルの場合、単体全体問わず全てのスキル自体のダメージを120%ダウン。鬼神状態解除後HP40%減少。※スキルダメージダウンは重複しない",
+          "description": "Own ATK and SPD +100% and grant \"Demon\" state. If there's atleast 1 ally or enemy \"Hashirama Senju\", own Cast Speed +2. [Demon: ATK and Skill Damage +300%, when targeted by a Skill, reduce all incoming Skill damage by 120%. Reduce HP by 40% when state expires]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -82802,7 +82802,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2339",
           "nameIdx": "1459",
-          "description": "敵単体に攻撃力7％＋5000のダメージを与える。高確率で会心が発生しダメージ5倍。さらに確率で出血状態にする。【特殊状態：出血】出血による持続ダメージ+確率で防御力ダウン。",
+          "description": "Deal 7% + 5,000 to one enemy with a high chance to Crit dealing 5x damage, and a chance to inflict \"Bleed\" state. [Bleed: Continues to lose HP, with a chance to lower DEF]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2339",
@@ -82838,7 +82838,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2340",
           "nameIdx": "2364",
-          "description": "自身の攻撃力と素早さとスキルダメージが120％アップするが、自身のHPが最大HPの50％分減少する。",
+          "description": "Own ATK , SPD and Skill Damage +120%. Reduce own HP by 50%",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -82874,7 +82874,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2341",
           "nameIdx": "1332",
-          "description": "敵全体に攻撃力3%+10000のダメージを与える。超忍祭限定キャラに対してダメージ10倍となり、さらに高確率でスキル発動速度が3段階ダウンし、敵のチャクラ消費量を、忍具などの効果を除いた消費量の30%分アップさせる。※「チャクラ消費を0にする」効果に対しても効果を発揮※チャクラ消費量アップは昇級試験のみ有効",
+          "description": "Deal 3% + 10,000 to all enemies, deal 10x damage to EX, high chance to lower their Cast Speed by 3 and Increase Chakra Cost by 30%",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2341",
@@ -82910,7 +82910,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2342",
           "nameIdx": "28",
-          "description": "味方全体のHPを大回復し、弱体・状態異常・弱体系特殊状態を解除する。",
+          "description": "Recover all allies HP by a large amount, remove Status Effect, Debuff and Negative Special State",
           "categoryId": "2",
           "levelType": "2",
           "scriptId": "100004",
@@ -82946,7 +82946,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2343",
           "nameIdx": "200",
-          "description": "敵単体に攻撃力7％＋5000のダメージを与え、確率で炎上状態にする。確率でスキル会心が発生、会心時ダメージ6倍。さらに自身が決意状態のときダメージ2倍。（合計12倍）",
+          "description": "Deal 7% + 5,000 to one enemy with a chance to inflict Burn, and a chance to Crit dealing 6x damage. Deal 2x damage while under \"Determined\" state. (Max 12x)",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2343",
@@ -82982,7 +82982,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2344",
           "nameIdx": "2366",
-          "description": "自身の攻撃・防御・素早さを100%アップし、自身を決意状態にする。【特殊状態：決意】攻撃・防御・素早さを30%アップし、攻撃を受けた時にチャクラとHP10%回復する。",
+          "description": "Own ATK, DEF and SPD +100% and grant \"Determined\" state. [Determined: ATK, DEF and SPD +30%. Recover 10% HP and Chakra when attacked]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -83018,7 +83018,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2345",
           "nameIdx": "200",
-          "description": "敵単体に攻撃力7％＋10000のダメージを与え、高確率で炎上状態にする。高確率でスキル会心が発生、会心時ダメージ7倍。さらに自身が決意状態のときダメージ3倍。（合計21倍）",
+          "description": "Deal 7% + 10,000 to one enemy with a high chance to inflict Burn, and a high chance to Crit dealing 7x damage. Deal 3x damage while under \"Determined\" state. (Max 21x)",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2343",
@@ -83054,7 +83054,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2346",
           "nameIdx": "2366",
-          "description": "自身の攻撃・防御・素早さを150%アップし、自身を決意状態にする。【特殊状態：決意】攻撃・防御・素早さを30%アップし、攻撃を受けた時にチャクラとHP10%回復する。",
+          "description": "Own ATK, DEF and SPD +150% and grant \"Determined\" state. [Determined: ATK, DEF and SPD +30%. Recover 10% HP and Chakra when attacked]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -83090,7 +83090,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2347",
           "nameIdx": "2368",
-          "description": "敵全体に攻撃力3%+12000のダメージを与え、高確率で斬状態にする。自身を含む、敵味方全体の生存している知か勇属性が多いほどダメージアップ（5人で最大20倍）。【特殊状態：斬】スキル発動速度が1段階遅くなり、スキルダメージ30%ダウン",
+          "description": "Deal 3% + 12,000 to all enemies with a high chance to inflict \"Cut\" state. Deal more damage the more Courage and Intellect allies and/or enemies, (Max 20x). [Cut: Cast Speed -1, Skill Damage -30%]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2347",
@@ -83126,7 +83126,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2348",
           "nameIdx": "2370",
-          "description": "自身の攻撃・防御・素早さを100％アップし、決闘状態にする。さらに味方に勇属性が生存していると味方全体も決闘状態にする。【特殊状態：決闘】自身を含む生存している味方の数に応じてスキルダメージがアップ。1人につき30％、最大150％",
+          "description": "Own ATK, DEF and SPD +100% and grant \"Duel\" state. Grant \"Duel\" states to Courage allies. [Duel: Own Skill Damage increase based on how many ally are alive. +30% per ally. Max 150%] ",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -83162,7 +83162,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2349",
           "nameIdx": "2097",
-          "description": "敵単体の防御力を40%無視して100倍の攻撃力で攻撃し、確率で99999回行動まで月封状態を付与する。【特殊状態：月封】行動不能になり、行動するたびにHPが20％減少。",
+          "description": "Deal 100x ATK to one enemy ignoring 40% DEF. Chance to Inflict \"Moon Seal\" for 99,999 turns. [Moon Seal: Action is disabled. Reduce HP by 20% per turn]",
           "categoryId": "1",
           "levelType": "1",
           "scriptId": "2349",
@@ -83198,7 +83198,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2350",
           "nameIdx": "2372",
-          "description": "自身の攻撃力と素早さとスキルダメージを120％アップし、奮起状態にする。さらに味方に知属性が生存していると味方全体を決意と奮起状態にする。【特殊状態：決意】攻撃・防御・素早さを50%アップし、攻撃を受けた時にチャクラとHP10%回復する。【特殊状態：奮起】攻撃・防御・素早さが50％アップし、行動するたびにHPとチャクラが15％回復する。",
+          "description": "Own ATK, SPD and Skill Damage +120% and grant \"Rouse\" state. If one of the ally is an Intellect Type, grant \"Resolution\" state to all allies. [Resolution: ATK, DEF and SPD +50%, recovery 10% HP and Chakra when attacked] [Rouse: ATK, DEF and SPD +50%, HP Regen and Chakra Recovery +15%]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -83234,7 +83234,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2351",
           "nameIdx": "2374",
-          "description": "敵全体に攻撃力3%＋10000のダメージを与える。高確率で会心が発生し、会心時ダメージ5倍。さらにそれぞれに確率で耐性無視99,999の追撃を与える。※会心と追撃は別確率で判定※追加ダメージにダメージアップの効果は適用される",
+          "description": "Deal 3% + 10,000 to all enemies, with a high chance to Crit dealing 5x damage and a Chance to deal an Additional 99,999 fixed damage. (Note: Crit and Additional Damage have different chance to proc. Fixed damage can also Crit)",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2351",
@@ -83243,7 +83243,7 @@ window.skill=[
           "waitTime": "2",
           "battleSkillType": "2",
           "targetMode": "2",
-          "calcType": "3",
+          "calcType": "2",
           "calcValue": "10000",
           "damageCap": "0",
           "unusualTurn": "0",
@@ -83270,7 +83270,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2352",
           "nameIdx": "2376",
-          "description": "自身の防御力と素早さとスキルダメージを100％アップ。敵全体に確率で水遁弱点状態にする。※水遁が無効、半減、軽減の場合は除く",
+          "description": "Own DEF, SPD and Skill Damage +100%. Chance to make all enemies weak to Water. (Note: Only enemies neutral to Water are affected)",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -83378,7 +83378,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2357",
           "nameIdx": "540",
-          "description": "敵全体に攻撃力3%＋10,000のダメージを与え、高確率で長い間麻痺状態にする。自身が攻撃力アップ状態の時ダメージ2倍、無所属の敵が多いほどダメージがアップし、5人で最大15倍（合計30倍）。さらに無所属の敵を、確実に長い間麻痺状態にする。※雷遁か麻痺が無効の場合は除く",
+          "description": "Deal 3% + 10,000 to all enemies with a high chance to Paralyze. Deal 2x damage if own ATK is buffed. Deal more damage the more None affiliated enemies and guarantee the Paralyze chance, Max 15x against 5 enemies. ",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2357",
@@ -83414,7 +83414,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2358",
           "nameIdx": "2386",
-          "description": "自身の攻撃力が120％アップする。さらに自身と自身含む一番攻撃力の高い味方1人のスキルダメージ200％アップ＆全スキル無効状態＆チャクラ消費量が半減する。※一番攻撃力が高いキャラが自身の場合、自身にのみ効果がかかる。※攻撃力の値が同じ場合、効果はランダムで発揮される",
+          "description": "Own ATK +120%. Skill Damage +200%, grant Immunity to all Skills and Chakra Cost -50% to the ally with the highest ATK.",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -83450,7 +83450,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2359",
           "nameIdx": "2420",
-          "description": "敵単体に攻撃力7%+12000のダメージを与える。自身が呪印状態の場合ダメージ8倍。",
+          "description": "Deal 8% + 12,000 to one enemy. Deal 8x damage while under \"Curse Seal\" state",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2359",
@@ -83486,7 +83486,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2360",
           "nameIdx": "2388",
-          "description": "自身のHPが特大回復し、スキル回避状態（高確率）になる。さらに9999回行動まで呪印状態になる。【特殊状態：呪印】最大HPが半分になるが、行動後に素早さが30％、スキルダメージが150％ずつアップし続ける。（最大上昇値素早さ999％、スキルダメージ9999%）",
+          "description": "Recover own HP by great amount and grant a high chance to dodge Skills. For 99,999 turns, grant \"Curse Seal\" state. [Curse Seal: Maximum HP -50%. SPD +30% and Skill Damage +150% per turn. (Max +999% SPD and +9,999% Skill Damage)]" ,
           "categoryId": "2",
           "levelType": "2",
           "scriptId": "100004",
@@ -83522,7 +83522,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2361",
           "nameIdx": "2390",
-          "description": "敵単体に耐性を無視して10000のダメージを与え、高確率で長い間憑血状態にする。憑血状態の敵に2～50倍のダメージ、超忍祭限定キャラの敵にダメージ10倍（最大500倍）。スキル発動後、自身のHPが9,999,999回復する。【特殊状態：憑血】効果なし",
+          "description": "Deal 10,000 fixed damage to one enemy with a high chance to inflict \"Blood Possession\" state. Deal 2-50x damage to enemies under \"Blood Possession\". Deal 10x damage to EX. (Max 500x). Recover own HP by 9,999,999. [Blood Possession: Does Nothing]",
           "categoryId": "1",
           "levelType": "2",
           "scriptId": "2361",
@@ -83558,7 +83558,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2362",
           "nameIdx": "2392",
-          "description": "自身の防御力を500％アップし、自身を含む味方の飛段と角都を99999回行動まで不死状態にする。（※キャラの年代問わず）【特殊状態：不死】自身のHPが０になった時にHPが全回復する。",
+          "description": "Own DEF +500%. Grant \"Immortality\" state for 99,999 turns to ally \"Hidan\" and \"Kakuzu\". [Immortality: When HP reach 0, revive]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -83593,9 +83593,9 @@ window.skill=[
         },
         {
           "cardBattleSkillId": "2363",
-          "nameIdx": "2394",
-          "description": "敵単体に攻撃力7％＋15000のダメージを与え、確率で炎上、麻痺、素早さ50％ダウン。超忍祭限定キャラの敵に対してダメージ30倍＆高確率で豪炎と縛状態。【特殊状態：豪炎】行動後にHPが減少（合計30％）し、強化と弱体(チャクラ消費変化、スキルダメージ変化、会心率、会心力含む)を解除し無効化する【特殊状態：縛】スキルダメージ70%ダウン、素早さ30%ダウン。",
           "categoryId": "1",
+          "nameIdx": "2394",
+          "description": "Deal 7% + 15,000 to one enemy with a chance to inflict Burn, Paralyze and/or lower SPD by 50%. Deal 30x damage to EX with a high chance to inflict \"Great Fire\" and \"Bind\". [Great Fire: Reduce HP after every action (Max 30%) remove and prevent the effects buff and Debuff (including Chakra Cost, Skill Damage, Crit Chance and Crit Damage)] [Bind: Skill Damage -70%, SPD -30%]",
           "levelType": "7",
           "scriptId": "2363",
           "battleSkillCnt": "80",
@@ -83630,7 +83630,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2364",
           "nameIdx": "2396",
-          "description": "自身の防御力とスキルダメージが200％アップ、敵の単体攻撃をかばう。自身を含む味方の\"暁\"所属に最大HPの30％回復＆凶鳴状態付与。【特殊状態：凶鳴】スキルダメージが20％、攻撃力が50％アップする。凶鳴状態のときに再び凶鳴状態になるとカウント数が増加し効果が追加。他のスキルの凶鳴状態も有効（最大カウント3）※持続時間は延長されない※共鳴スキルとは異なる",
+          "description": "Own DEF and Skill Damage +200% and Protect all allies. Recover 30% HP to all allies \"Akatsuki\" and grant \"Wicked\" state. [Wicked: Skill Damage +20% and ATK +50%. Wicked can be stacked up to 3 times]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -83666,7 +83666,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2365",
           "nameIdx": "2421",
-          "description": "敵単体に3倍の攻撃力で攻撃し高確率で「牛」状態にする。【特殊状態：牛】使用する度にカウント数が増加、最大でダメージ33倍＋防御無視33%。※カウント「3」時に使用すると状態が解除される。",
+          "description": "Deal 3x ATK damage to one enemy with a high chance to grant \"Bull\" state. [Bull: Bull stacks doing more damage multiplier and ignoring more DEF. Max 33x more damage and ignore 33% DEF. Maximum stack is 3. Remove the state once you reach 3rd stack]",
           "categoryId": "1",
           "levelType": "1",
           "scriptId": "2365",
@@ -83702,7 +83702,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2366",
           "nameIdx": "2422",
-          "description": "味方全体の攻撃力と防御力と素早さを33％アップする",
+          "description": "All allies ATK, DEF and SPD +33%",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -83738,7 +83738,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2367",
           "nameIdx": "1535",
-          "description": "敵単体に7倍の攻撃力で攻撃し、無所属の敵に対しダメージ5倍。",
+          "description": "Deal 7x ATK damage to one enemy. Deal 5x damage to None Characters",
           "categoryId": "1",
           "levelType": "1",
           "scriptId": "1535",
@@ -83774,7 +83774,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2368",
           "nameIdx": "2402",
-          "description": "自身の攻撃力を100%アップしチャクラ消費量を半減する。",
+          "description": "Own ATK +100% and Chakra Cost -50%",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -83810,7 +83810,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2369",
           "nameIdx": "1535",
-          "description": "敵単体の防御力を20%無視して10倍の攻撃力で攻撃し、無所属の敵に対しダメージ5倍。さらに高確率でスキル会心が発生、会心時ダメージ2倍。（合計10倍）",
+          "description": "Deal 10x ATK damage ignoring 20% DEF to one enemy with a high chance to Crit dealing 2x damage. Deal 5x damage to None Characters. (Max 10x)",
           "categoryId": "1",
           "levelType": "1",
           "scriptId": "1535",
@@ -83846,7 +83846,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2370",
           "nameIdx": "2402",
-          "description": "自身の攻撃力を200%アップしチャクラ消費量が0になる。",
+          "description": "Own ATK +200% and Chakra Cost becomes 0",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -124526,7 +124526,7 @@ window.skill=[
         {
           "cardBattleSkillId": "100016",
           "nameIdx": "2398",
-          "description": "敵単体に耐性を無視して4000のダメージを与える。さらに確率で素早さを40%ダウンする。",
+          "description": "Deal 4,000 fixed damage to oen enemy with a chance to reduce SPD by 40%",
           "categoryId": "1",
           "levelType": "2",
           "scriptId": "100016",
@@ -124562,7 +124562,7 @@ window.skill=[
         {
           "cardBattleSkillId": "100017",
           "nameIdx": "2400",
-          "description": "味方全体の素早さが60%アップし、自身のスキルダメージが80%アップする。",
+          "description": "All allies SPD +60%. Own Skill Damage +80%",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -124598,7 +124598,7 @@ window.skill=[
         {
           "cardBattleSkillId": "100018",
           "nameIdx": "2398",
-          "description": "敵単体に耐性を無視して8000のダメージを与える。さらに確率で素早さを50%ダウンする。",
+          "description": "Deal 8,000 fixed damage to oen enemy with a chance to reduce SPD by 80%",
           "categoryId": "1",
           "levelType": "2",
           "scriptId": "100016",
@@ -124634,7 +124634,7 @@ window.skill=[
         {
           "cardBattleSkillId": "100019",
           "nameIdx": "2400",
-          "description": "味方全体の素早さが80%アップし、自身のスキルダメージが200%アップする。",
+          "description": "All allies SPD +80%. Own Skill Damage +200%",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
