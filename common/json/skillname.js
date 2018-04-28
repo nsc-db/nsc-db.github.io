@@ -4899,7 +4899,35 @@ window.skillname=[
           "cardBattleSkillNameId": "2402",
           "name": "この領域から逃れる術はない"
         },
-         {
+        {
+          "cardBattleSkillNameId": "2404",
+          "name": "仮テキスト"
+        },
+        {
+          "cardBattleSkillNameId": "2405",
+          "name": "コンビネーション第七班・閃"
+        },
+        {
+          "cardBattleSkillNameId": "2406",
+          "name": "揃って行くぜ！"
+        },
+        {
+          "cardBattleSkillNameId": "2407",
+          "name": "コンビネーション第七班・滅"
+        },
+        {
+          "cardBattleSkillNameId": "2408",
+          "name": "準備はいいか"
+        },
+        {
+          "cardBattleSkillNameId": "2409",
+          "name": "コンビネーション第七班・桜"
+        },
+        {
+          "cardBattleSkillNameId": "2410",
+          "name": "それじゃ…やるわよ！"
+        },
+        {
           "cardBattleSkillNameId": "2420",
           "name": "呪印・天雷"
         },

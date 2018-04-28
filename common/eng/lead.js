@@ -9334,6 +9334,58 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "725",
+          "name": "仮キャラクタ",
+          "description": "Intellect Type Maximum HP, ATK and Skill Damage +150%",
+          "effectIdx1": "1212",
+          "effectIdx2": "1268",
+          "effectIdx3": "794",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "6",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "726",
+          "name": "忍の英雄",
+          "description": "Technique and Konoha Characters ATK and Skill Damage +50%",
+          "effectIdx1": "11049",
+          "effectIdx2": "682",
+          "effectIdx3": "0",
+          "compType": "2",
+          "target1Category": "1",
+          "target1Param": "2",
+          "target2Category": "2",
+          "target2Param": "1"
+        },
+        {
+          "cardLeaderSkillId": "727",
+          "name": "追憶の光瞳",
+          "description": "Body and Konoha Characters ATK and Skill Damage +50%",
+          "effectIdx1": "13049",
+          "effectIdx2": "682",
+          "effectIdx3": "0",
+          "compType": "2",
+          "target1Category": "1",
+          "target1Param": "3",
+          "target2Category": "2",
+          "target2Param": "1"
+        },
+        {
+          "cardLeaderSkillId": "728",
+          "name": "想いは側に",
+          "description": "Heart and Konoha Characters ATK and Skill Damage +50%",
+          "effectIdx1": "10049",
+          "effectIdx2": "682",
+          "effectIdx3": "0",
+          "compType": "2",
+          "target1Category": "1",
+          "target1Param": "1",
+          "target2Category": "2",
+          "target2Param": "1"
+        },
+        {
           "cardLeaderSkillId": "729",
           "name": "エリート専属家庭教師",
           "description": "User EXP +75%",

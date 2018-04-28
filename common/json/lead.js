@@ -9334,6 +9334,58 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "725",
+          "name": "仮キャラクタ",
+          "description": "知属性の最大HPと攻撃力とスキルダメージを150％アップする",
+          "effectIdx1": "1212",
+          "effectIdx2": "1268",
+          "effectIdx3": "794",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "6",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "726",
+          "name": "忍の英雄",
+          "description": "技属性と木ノ葉隠れ所属の攻撃力とスキルダメージを50%アップする",
+          "effectIdx1": "11049",
+          "effectIdx2": "682",
+          "effectIdx3": "0",
+          "compType": "2",
+          "target1Category": "1",
+          "target1Param": "2",
+          "target2Category": "2",
+          "target2Param": "1"
+        },
+        {
+          "cardLeaderSkillId": "727",
+          "name": "追憶の光瞳",
+          "description": "体属性と木ノ葉隠れの里所属の素早さとスキルダメージを50%アップする",
+          "effectIdx1": "13049",
+          "effectIdx2": "682",
+          "effectIdx3": "0",
+          "compType": "2",
+          "target1Category": "1",
+          "target1Param": "3",
+          "target2Category": "2",
+          "target2Param": "1"
+        },
+        {
+          "cardLeaderSkillId": "728",
+          "name": "想いは側に",
+          "description": "心属性と木ノ葉隠れ所属の最大HPとスキルダメージを50%アップする",
+          "effectIdx1": "10049",
+          "effectIdx2": "682",
+          "effectIdx3": "0",
+          "compType": "2",
+          "target1Category": "1",
+          "target1Param": "1",
+          "target2Category": "2",
+          "target2Param": "1"
+        },
+        {
           "cardLeaderSkillId": "729",
           "name": "エリート専属家庭教師",
           "description": "ユーザー経験値の獲得量が75%アップする",

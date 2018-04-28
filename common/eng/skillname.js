@@ -6125,6 +6125,41 @@ window.skillname=[
           "eng": "Escape is Impossible"
         },
         {
+          "cardBattleSkillNameId": "2404",
+          "name": "仮テキスト",
+          "eng": "Temporary Skill"
+        },
+        {
+          "cardBattleSkillNameId": "2405",
+          "name": "コンビネーション第七班・閃",
+          "eng": "Team 7 Combination: Flash"
+        },
+        {
+          "cardBattleSkillNameId": "2406",
+          "name": "揃って行くぜ！",
+          "eng": "Let's Go Together"
+        },
+        {
+          "cardBattleSkillNameId": "2407",
+          "name": "コンビネーション第七班・滅",
+          "eng": "Team 7 Combination: Ruin"
+        },
+        {
+          "cardBattleSkillNameId": "2408",
+          "name": "準備はいいか",
+          "eng": "Are You Ready?"
+        },
+        {
+          "cardBattleSkillNameId": "2409",
+          "name": "コンビネーション第七班・桜",
+          "eng": "Team 7 Combination: Cherry Blossom"
+        },
+        {
+          "cardBattleSkillNameId": "2410",
+          "name": "それじゃ…やるわよ！",
+          "eng": "I'll Take Over!"
+        },
+        {
           "cardBattleSkillNameId": "2420",
           "name": "呪印・天雷",
           "eng": "Curse Seal: Thunder"

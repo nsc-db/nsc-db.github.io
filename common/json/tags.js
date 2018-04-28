@@ -4313,4 +4313,29 @@ window.tags=[
           "tag": "pmiles",
           "rate": "70"
 },
+{
+          "cardId": "20040502",
+          "rare": "5",
+          "tag": "temp",
+          "rate": "50"
+},
+{
+          "cardId": "20040503",
+          "rare": "5",
+          "tag": "ex-6",
+          "rate": "50"
+},
+{
+          "cardId": "20040504",
+          "rare": "5",
+          "tag": "ex-6",
+          "rate": "50"
+},
+{
+          "cardId": "20040505",
+          "rare": "5",
+          "tag": "ex-6",
+          "rate": "50"
+},
+
 ]

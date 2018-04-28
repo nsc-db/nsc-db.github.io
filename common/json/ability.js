@@ -16515,6 +16515,96 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "1869",
+          "abilityName": "仮アビリティ",
+          "abilityDescription": "最大チャクラが100アップし、素早さが150％アップする",
+          "abilityEffectDescription": "最大チャクラが100アップし、素早さが150％アップする",
+          "effectIdx1": "813",
+          "effectIdx2": "967",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1870",
+          "abilityName": "仮アビリティ",
+          "abilityDescription": "受ける耐性無視スキルのダメージを0＆キャンセル無効＆3回行動まで耐性無視を含む全スキル無効",
+          "abilityEffectDescription": "受ける耐性無視スキルのダメージを0＆キャンセル無効＆3回行動まで耐性無視を含む全スキル無効",
+          "effectIdx1": "1750",
+          "effectIdx2": "1751",
+          "effectIdx3": "990"
+        },
+        {
+          "abilityId": "1871",
+          "abilityName": "仮アビリティ",
+          "abilityDescription": "最大チャクラが200アップし、素早さが200％アップする",
+          "abilityEffectDescription": "最大チャクラが200アップし、素早さが200％アップする",
+          "effectIdx1": "20019",
+          "effectIdx2": "1280",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1872",
+          "abilityName": "仮アビリティ",
+          "abilityDescription": "受ける耐性無視スキルのダメージを0＆キャンセル無効＆3回行動まで耐性無視を含む全スキル無効",
+          "abilityEffectDescription": "受ける耐性無視スキルのダメージを0＆キャンセル無効＆3回行動まで耐性無視を含む全スキル無効",
+          "effectIdx1": "1750",
+          "effectIdx2": "1751",
+          "effectIdx3": "990"
+        },
+        {
+          "abilityId": "1873",
+          "abilityName": "皆に愛される英雄",
+          "abilityDescription": "HPが50%以上の時、高確率でスキルを回避＆スキル発動速度1段階アップ",
+          "abilityEffectDescription": "HPが50%以上の時、高確率でスキルを回避＆スキル発動速度1段階アップ",
+          "effectIdx1": "1577",
+          "effectIdx2": "1329",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1874",
+          "abilityName": "大戦の経験",
+          "abilityDescription": "最大チャクラ量50アップし、攻撃力とスキルダメージが100%アップする",
+          "abilityEffectDescription": "最大チャクラ量50アップし、攻撃力とスキルダメージが100%アップする",
+          "effectIdx1": "689",
+          "effectIdx2": "11099",
+          "effectIdx3": "774"
+        },
+        {
+          "abilityId": "1875",
+          "abilityName": "唯一無二の双眸",
+          "abilityDescription": "HPが50%以上の時、チャクラ消費量半減＆スキル発動速度1段階アップ",
+          "abilityEffectDescription": "HPが50%以上の時、チャクラ消費量半減＆スキル発動速度1段階アップ",
+          "effectIdx1": "1755",
+          "effectIdx2": "1329",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1876",
+          "abilityName": "憎悪からの脱却",
+          "abilityDescription": "最大チャクラ量50アップし、攻撃力とスキルダメージが100%アップする",
+          "abilityEffectDescription": "最大チャクラ量50アップし、攻撃力とスキルダメージが100%アップする",
+          "effectIdx1": "689",
+          "effectIdx2": "11099",
+          "effectIdx3": "774"
+        },
+        {
+          "abilityId": "1877",
+          "abilityName": "医療忍術の真髄",
+          "abilityDescription": "HPが50%以上の時、行動後にHPとチャクラが20%回復",
+          "abilityEffectDescription": "HPが50%以上の時、行動後にHPとチャクラが20%回復",
+          "effectIdx1": "1748",
+          "effectIdx2": "1749",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1878",
+          "abilityName": "純なる愛情",
+          "abilityDescription": "最大チャクラ量50アップし、攻撃力とスキルダメージが100%アップする",
+          "abilityEffectDescription": "最大チャクラ量50アップし、攻撃力とスキルダメージが100%アップする",
+          "effectIdx1": "689",
+          "effectIdx2": "11099",
+          "effectIdx3": "774"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

@@ -16515,6 +16515,96 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "1869",
+          "abilityName": "Temporary Ability",
+          "abilityDescription": "Maximum Chakra +100 and SPD +150%",
+          "abilityEffectDescription": "最大チャクラが100アップし、素早さが150％アップする",
+          "effectIdx1": "813",
+          "effectIdx2": "967",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1870",
+          "abilityName": "Temporary Ability",
+          "abilityDescription": "Immune to Fixed Skill Damage and Cancel. For 3 turns, Immune to all Skills",
+          "abilityEffectDescription": "受ける耐性無視スキルのダメージを0＆キャンセル無効＆3回行動まで耐性無視を含む全スキル無効",
+          "effectIdx1": "1750",
+          "effectIdx2": "1751",
+          "effectIdx3": "990"
+        },
+        {
+          "abilityId": "1871",
+          "abilityName": "Temporary Ability",
+          "abilityDescription": "Maximum Chakra +200 and SPD +200%",
+          "abilityEffectDescription": "最大チャクラが200アップし、素早さが200％アップする",
+          "effectIdx1": "20019",
+          "effectIdx2": "1280",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1872",
+          "abilityName": "Temporary Ability",
+          "abilityDescription": "Immune to Fixed Skill Damage and Cancel. For 3 turns, Immune to all Skills",
+          "abilityEffectDescription": "受ける耐性無視スキルのダメージを0＆キャンセル無効＆3回行動まで耐性無視を含む全スキル無効",
+          "effectIdx1": "1750",
+          "effectIdx2": "1751",
+          "effectIdx3": "990"
+        },
+        {
+          "abilityId": "1873",
+          "abilityName": "A Hero Loved By Everyone",
+          "abilityDescription": "High chance to dodge Skills and Cast Speed +1 when HP is above 50%",
+          "abilityEffectDescription": "High chance to dodge Skills and Cast Speed +1 when HP is above 50%",
+          "effectIdx1": "1577",
+          "effectIdx2": "1329",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1874",
+          "abilityName": "Experience of the World War",
+          "abilityDescription": "Maximum Chakra +50, ATK and Skill Damage +100%",
+          "abilityEffectDescription": "Maximum Chakra +50, ATK and Skill Damage +100%",
+          "effectIdx1": "689",
+          "effectIdx2": "11099",
+          "effectIdx3": "774"
+        },
+        {
+          "abilityId": "1875",
+          "abilityName": "Unique Eyes",
+          "abilityDescription": "Chakra Cost -50% and Cast Speed +1 when HP is above 50%",
+          "abilityEffectDescription": "Chakra Cost -50% and Cast Speed +1 when HP is above 50%",
+          "effectIdx1": "1755",
+          "effectIdx2": "1329",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1876",
+          "abilityName": "Free from Hatred",
+          "abilityDescription": "Maximum Chakra +50, ATK and Skill Damage +100%",
+          "abilityEffectDescription": "Maximum Chakra +50, ATK and Skill Damage +100%",
+          "effectIdx1": "689",
+          "effectIdx2": "11099",
+          "effectIdx3": "774"
+        },
+        {
+          "abilityId": "1877",
+          "abilityName": "Supernatural Strength",
+          "abilityDescription": "HP Regen and Chakra Recovery +20% when HP is above 50%",
+          "abilityEffectDescription": "HP Regen and Chakra Recovery +20% when HP is above 50%",
+          "effectIdx1": "1748",
+          "effectIdx2": "1749",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1878",
+          "abilityName": "Naive Love",
+          "abilityDescription": "Maximum Chakra +50, ATK and Skill Damage +100%",
+          "abilityEffectDescription": "Maximum Chakra +50, ATK and Skill Damage +100%",
+          "effectIdx1": "689",
+          "effectIdx2": "11099",
+          "effectIdx3": "774"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

@@ -1,5 +1,5 @@
 window.unique=[
-        {
+               {
           "crystalOverwriteEffectId": "1",
           "targetCrystal": "115",
           "description": "最大HPと攻撃力が40%アップし、仙術スキルのダメージが100%アップ",
@@ -7095,7 +7095,7 @@ window.unique=[
           "crystalOverwriteEffectId": "602",
           "targetCrystal": "923",
           "description": "行動後にチャクラが20％回復、HP40％以下の時にスキル発動速度2段階アップ",
-          "charaIds": "12301,",
+          "charaIds": "12301",
           "cardIds": "0",
           "charaGroupIds": "0",
           "effectIdx1": "583",
@@ -7107,11 +7107,35 @@ window.unique=[
           "crystalOverwriteEffectId": "603",
           "targetCrystal": "924",
           "description": "行動後にチャクラが20％回復、10回行動するまで受ける全スキルダメージ半減",
-          "charaIds": "12401,",
+          "charaIds": "12401",
           "cardIds": "0",
           "charaGroupIds": "0",
           "effectIdx1": "583",
           "effectIdx2": "1174",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "604",
+          "targetCrystal": "10502",
+          "description": "攻撃力と防御力が20000アップ、素早さが200アップする",
+          "charaIds": "14301",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1433",
+          "effectIdx2": "1434",
+          "effectIdx3": "13699",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "605",
+          "targetCrystal": "10503",
+          "description": "全スキルダメージと攻撃力が100％アップ",
+          "charaIds": "14301",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "774",
+          "effectIdx2": "11099",
           "effectIdx3": "0",
           "effectIdx4": "0"
         }
