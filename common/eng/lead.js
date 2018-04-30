@@ -9154,7 +9154,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "710",
           "name": "修羅を往く業火",
-          "description": "Body and heart Type ATK and Skill Damage +50%",
+          "description": "Body and Heart Type ATK and Skill Damage +50%",
           "effectIdx1": "11049",
           "effectIdx2": "682",
           "effectIdx3": "0",
@@ -9362,7 +9362,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "727",
           "name": "追憶の光瞳",
-          "description": "Body and Konoha Characters ATK and Skill Damage +50%",
+          "description": "Body and Konoha Characters SPD and Skill Damage +50%",
           "effectIdx1": "13049",
           "effectIdx2": "682",
           "effectIdx3": "0",
@@ -9375,7 +9375,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "728",
           "name": "想いは側に",
-          "description": "Heart and Konoha Characters ATK and Skill Damage +50%",
+          "description": "Heart and Konoha Characters Maximum HP and Skill Damage +50%",
           "effectIdx1": "10049",
           "effectIdx2": "682",
           "effectIdx3": "0",
