@@ -37,7 +37,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "8",
           "name": "雷切",
-          "eng": ""
+          "eng": "Raikiri"
         },
         {
           "cardBattleSkillNameId": "9",
@@ -232,7 +232,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "48",
           "name": "地爆天星",
-          "eng": ""
+          "eng": "Planetary Devastation"
         },
         {
           "cardBattleSkillNameId": "49",
@@ -252,7 +252,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "52",
           "name": "神羅天征",
-          "eng": ""
+          "eng": "Almighty Push"
         },
         {
           "cardBattleSkillNameId": "61",
@@ -397,7 +397,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "102",
           "name": "月読",
-          "eng": ""
+          "eng": "Tsukuyomi"
         },
         {
           "cardBattleSkillNameId": "103",
@@ -1382,7 +1382,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "390",
           "name": "神威",
-          "eng": ""
+          "eng": "Kamui"
         },
         {
           "cardBattleSkillNameId": "391",
@@ -1887,12 +1887,12 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "536",
           "name": "仙法・明神門",
-          "eng": ""
+          "eng": "Sage Style: Gate of the Great God"
         },
         {
           "cardBattleSkillNameId": "537",
           "name": "木遁・木人の術",
-          "eng": ""
+          "eng": "Wood Style: Wood Golem Jutsu"
         },
         {
           "cardBattleSkillNameId": "538",
@@ -2122,7 +2122,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "615",
           "name": "うちは流手裏剣術",
-          "eng": ""
+          "eng": "Uchiha's Shuriken Jutsu"
         },
         {
           "cardBattleSkillNameId": "617",
@@ -2227,12 +2227,12 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "650",
           "name": "怒髪天撃",
-          "eng": ""
+          "eng": "Fury Attack"
         },
         {
           "cardBattleSkillNameId": "651",
           "name": "口寄せの術（カツユ）",
-          "eng": ""
+          "eng": "Summoning Jutsu (Katsuyu)"
         },
         {
           "cardBattleSkillNameId": "652",
@@ -2437,12 +2437,12 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "729",
           "name": "口寄せ・ガマブン太",
-          "eng": ""
+          "eng": "Summoning: Gamabunta"
         },
         {
           "cardBattleSkillNameId": "730",
           "name": "幻術・蛙挽歌",
-          "eng": ""
+          "eng": "Genjutsu: Frog Elegy"
         },
         {
           "cardBattleSkillNameId": "732",
@@ -2887,32 +2887,32 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "874",
           "name": "口寄せ・ガマ吉",
-          "eng": ""
+          "eng": "Summoning: Gamakichi"
         },
         {
           "cardBattleSkillNameId": "875",
           "name": "一気にジャンプして近づく！",
-          "eng": ""
+          "eng": "One Jump to Close the Gap"
         },
         {
           "cardBattleSkillNameId": "876",
           "name": "口寄せ・アオダ",
-          "eng": ""
+          "eng": "Summoning: Aoda"
         },
         {
           "cardBattleSkillNameId": "877",
           "name": "薙ぎ払い、すり抜ける…",
-          "eng": ""
+          "eng": "Mow Down, Slip Your Way Through"
         },
         {
           "cardBattleSkillNameId": "878",
           "name": "口寄せ・カツユ",
-          "eng": ""
+          "eng": "Summoning: Katsuyu"
         },
         {
           "cardBattleSkillNameId": "879",
           "name": "回復してあげられる！",
-          "eng": ""
+          "eng": "I Can Heal"
         },
         {
           "cardBattleSkillNameId": "881",

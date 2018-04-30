@@ -19298,7 +19298,7 @@ window.skill=[
         {
           "cardBattleSkillId": "540",
           "nameIdx": "536",
-          "description": "敵全体に攻撃力3％＋800のダメージを与え、確率で明神門状態にする。【特殊状態：明神門】使用する度にカウント数が増加。「壱」：スキルダメージが15％ダウンする。「弐」：スキルダメージが15％ダウン、素早さが20％ダウンする。「参」：行動を制限する※各カウント時の効果は累積",
+          "description": "Deal 3% + 800 to all enemies with a Chance to place the enemies under \"Gate of the Great God\" state. [Gate of the Great God: Gate of the Great God stacks doing different effect based on the number of stacks. [1] Skill Damage -15%, [2] Skill Damage -15%, SPD -20% [3] Cancel enemies' action]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "540",
@@ -19334,7 +19334,7 @@ window.skill=[
         {
           "cardBattleSkillId": "541",
           "nameIdx": "537",
-          "description": "敵単体に攻撃力7％＋1500のダメージ。味方全体の防御力を50％アップする。",
+          "description": "Deal 7% + 1,500 to one enemy. All allies DEF +50%",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "541",
@@ -20414,7 +20414,7 @@ window.skill=[
         {
           "cardBattleSkillId": "571",
           "nameIdx": "48",
-          "description": "敵全体に攻撃力3％＋1500のダメージ。さらに敵全体の行動を確実にキャンセルする。",
+          "description": "Deal 3% + 1,500 to all enemies. Cancel the enemies' action",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "571",
@@ -20450,7 +20450,7 @@ window.skill=[
         {
           "cardBattleSkillId": "572",
           "nameIdx": "52",
-          "description": "敵単体に攻撃力7％＋800のダメージ。攻撃した相手の位置を少し戻す※アクション内の相手にのみ有効",
+          "description": "Deal 7% + 800 to one enemy. Slightly pushes the enemy on the action bar. Only effective when the enemy is in the red bar",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "572",
@@ -21962,7 +21962,7 @@ window.skill=[
         {
           "cardBattleSkillId": "614",
           "nameIdx": "102",
-          "description": "敵単体に攻撃力7％＋2500のダメージを与える。攻撃力と防御力と素早さを60％ダウンさせ、確率で幻状態にする。【特殊状態：幻】確率で行動をキャンセルする。",
+          "description": "Deal 7% + 2,500 to one enemy and reduce their ATK, DEF and/or SPD by 60%, Chance to inflict Genjutsu",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "614",
@@ -21998,7 +21998,7 @@ window.skill=[
         {
           "cardBattleSkillId": "615",
           "nameIdx": "615",
-          "description": "敵全体に5倍の攻撃力で攻撃する。幻状態の相手にはダメージ2倍。",
+          "description": "Deal 5x ATK damage to all enemies. Deal 2x damage to enemies inflicted with Genjutsu",
           "categoryId": "1",
           "levelType": "1",
           "scriptId": "615",
@@ -23258,7 +23258,7 @@ window.skill=[
         {
           "cardBattleSkillId": "650",
           "nameIdx": "650",
-          "description": "敵単体に防御力を20％無視して7倍の攻撃力で攻撃する。",
+          "description": "Deal 7x ATK damage to one enemy ignoring 20% DEF",
           "categoryId": "1",
           "levelType": "1",
           "scriptId": "650",
@@ -23294,7 +23294,7 @@ window.skill=[
         {
           "cardBattleSkillId": "651",
           "nameIdx": "651",
-          "description": "味方全体のHPを超大回復し、癒状態にする。【特殊状態：癒】攻撃を受けた際にHPが10％回復する。",
+          "description": "Recover a tremendous amount of HP to all allies and grant \"Heal\" state [Heal: Recover 10% HP when attacked]",
           "categoryId": "2",
           "levelType": "2",
           "scriptId": "651",
@@ -25130,7 +25130,7 @@ window.skill=[
         {
           "cardBattleSkillId": "703",
           "nameIdx": "390",
-          "description": "敵単体に耐性を無視して10000の固定ダメージを与え、味方への全ての単体スキルをしばらく無効化する状態になる。【必中スキル】",
+          "description": "Deal 10,000 Fixed Damage to one enemy. All allies are immune to Single Target Skills [Always Hit]",
           "categoryId": "1",
           "levelType": "2",
           "scriptId": "703",
@@ -25166,7 +25166,7 @@ window.skill=[
         {
           "cardBattleSkillId": "704",
           "nameIdx": "8",
-          "description": "敵単体に攻撃力7％＋1500のダメージを与える。カカシの残りHPが多いほどダメージが増加する。",
+          "description": "Deal 7% + 1,500 to one enemy. Deal more damage the more HP Kakashi have",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "704",
@@ -26066,7 +26066,7 @@ window.skill=[
         {
           "cardBattleSkillId": "729",
           "nameIdx": "729",
-          "description": "敵全体に攻撃力3％＋2000のダメージを与える。確率でスキル会心が発生しダメージが大幅に増加する。",
+          "description": "Deal 3% + 2,000 to all enemies with a Chance to Crit dealing a large damage.",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "729",
@@ -26102,7 +26102,7 @@ window.skill=[
         {
           "cardBattleSkillId": "730",
           "nameIdx": "730",
-          "description": "敵全体に攻撃力3％＋1200のダメージを与える。確率で攻撃力と防御力を50%下げ、『蛙（幻）』状態にする。【特殊状態：蛙（幻）】相手をスキルが使用できない状態にする。",
+          "description": "Deal 3% + 1,200 to all enemies, with a Chance to lower ATK and/or DEF by 50% and inflict \"Frog Illusion\" state. [Frog Illusion: Skills can't be used]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "730",
@@ -31286,7 +31286,7 @@ window.skill=[
         {
           "cardBattleSkillId": "874",
           "nameIdx": "874",
-          "description": "敵全体に攻撃力3％＋2000のダメージを与え、竦み状態にする。確率で会心が発生し、最大3倍のダメージ。【特殊状態：竦】敵の攻撃力と防御力を50%ダウン、強化と弱体を無効化する。",
+          "description": "Deal 3% + 2,000 to all enemies with a chance to Crit dealing 3x damage and inflict \"Deadlock\" state. [Deadlock: ATK and DEF -50%, Immune to Buff and Debuff]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "874",
@@ -31322,7 +31322,7 @@ window.skill=[
         {
           "cardBattleSkillId": "875",
           "nameIdx": "875",
-          "description": "味方全体の素早さが80%アップし、スキル発動速度が1段階速くなる。\r\n※「最速」の場合は速度が「閃光」になる",
+          "description": "All allies SPD +80% and Cast Speed +1",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "3",
@@ -31358,7 +31358,7 @@ window.skill=[
         {
           "cardBattleSkillId": "876",
           "nameIdx": "876",
-          "description": "敵全体に5倍の攻撃力で攻撃する。攻撃・防御・素早さのいずれかがダウン状態（竦状態含む）の敵にはダメージ5倍。さらに確率で行動をキャンセルする。",
+          "description": "Deal 5x ATK damage to all enemies. Deal 5x damage to enemies with ATK, DEF and/or SPD debuffed (Including \"Deadlock\" state). Chance to cancel action",
           "categoryId": "1",
           "levelType": "1",
           "scriptId": "876",
@@ -31394,7 +31394,7 @@ window.skill=[
         {
           "cardBattleSkillId": "877",
           "nameIdx": "877",
-          "description": "味方全体の攻撃力が80%アップし、透状態を付与する。【特殊状態：透】味方に敵の防御力を30%無視を付与する。",
+          "description": "All allies ATK +80% and grant \"Penetrate\" state. [Penetrate: Attacks ignore 30% DEF]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "3",
@@ -31430,7 +31430,7 @@ window.skill=[
         {
           "cardBattleSkillId": "878",
           "nameIdx": "878",
-          "description": "味方全体のHPを大回復する。さらに消費チャクラを10%減少させ、癒状態にする。【特殊状態：癒】攻撃を受けた際にHPが10％回復する。",
+          "description": "Recover a large amount of HP to all allies, Chakra Cost -10% and grant \"Heal\" state. [Heal: Recover 10% HP when attacked]",
           "categoryId": "2",
           "levelType": "2",
           "scriptId": "878",
@@ -31466,7 +31466,7 @@ window.skill=[
         {
           "cardBattleSkillId": "879",
           "nameIdx": "879",
-          "description": "味方全体のHPを中回復する。さらに防御力を80%アップし、抗状態にする。【特殊状態：抗】弱体と状態異常と幻を解除し、しばらく無効化状態にする。",
+          "description": "Recover a medium amount of HP to all allies, DEF +80% and grant \"Resist\" state. [Resist: Immune and Remove all Status Effect, Debuff and Genjutsu]",
           "categoryId": "2",
           "levelType": "2",
           "scriptId": "3",
@@ -33338,7 +33338,7 @@ window.skill=[
         {
           "cardBattleSkillId": "932",
           "nameIdx": "874",
-          "description": "敵全体に攻撃力3％＋6000のダメージを与え、竦み状態にする。確率で会心が発生し、最大5倍のダメージ。【特殊状態：竦】敵の攻撃力と防御力を50%ダウン、強化と弱体を無効化する。",
+          "description": "Deal 3% + 6,000 to all enemies with a chance to crit dealing 5x damage and inflict \"Deadlock\" state. [Deadlock: ATK and DEF -50%, Immune to Buff and Debuff]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "932",
@@ -33374,7 +33374,7 @@ window.skill=[
         {
           "cardBattleSkillId": "933",
           "nameIdx": "875",
-          "description": "味方全体の素早さが150%アップし、スキル発動速度が1段階速くなる。※「最速」の場合は速度が「閃光」になる",
+          "description": "All allies SPD +150% and Cast Speed +1",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "3",
@@ -33410,7 +33410,7 @@ window.skill=[
         {
           "cardBattleSkillId": "934",
           "nameIdx": "876",
-          "description": "敵全体に7倍の攻撃力で攻撃する。攻撃・防御・素早さのいずれかがダウン状態（竦状態含む）の敵にはダメージ6倍。さらに高確率で行動をキャンセルする。",
+          "description": "Deal 7x ATK damage to all enemies. Deal 6x damage to enemies with ATK, DEF and/or SPD Debuff (Including \"Deadlock\" state). High Chance to Cancel the enemies' action",
           "categoryId": "1",
           "levelType": "1",
           "scriptId": "934",
@@ -33446,7 +33446,7 @@ window.skill=[
         {
           "cardBattleSkillId": "935",
           "nameIdx": "877",
-          "description": "味方全体の攻撃力が150%アップし、透状態を付与する。【特殊状態：透】味方に敵の防御力を30%無視を付与する。",
+          "description": "All allies ATK +150% and grant \"Penetrate\" [Penetrate: Attacks ignore 30% DEF]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "3",
@@ -33482,7 +33482,7 @@ window.skill=[
         {
           "cardBattleSkillId": "936",
           "nameIdx": "878",
-          "description": "味方全体のHPを特大回復し、消費チャクラを15%減少させ、癒状態にする。さらに敵全体に酸によるダメージを与える。【特殊状態：癒】攻撃を受けた際にHPが20％回復する。",
+          "description": "Recover a tremendous amount of HP to all allies, Chakra Cost -15% and grant \"Heal\" state. [Heal: Recover 20% HP when attacked]",
           "categoryId": "2",
           "levelType": "2",
           "scriptId": "936",
@@ -33518,7 +33518,7 @@ window.skill=[
         {
           "cardBattleSkillId": "937",
           "nameIdx": "879",
-          "description": "味方全体のHPを大回復する。さらに防御力を150%アップし、抗状態にする。【特殊状態：抗】弱体と状態異常と幻を解除し、しばらく無効化状態にする。",
+          "description": "Recover a large amoung of HP to all allies, DEF +150% and grant \"Resist\" state. [Resist: Immune and Remove all Status Effect, Debuff and Genjutsu]",
           "categoryId": "2",
           "levelType": "2",
           "scriptId": "3",
@@ -35750,7 +35750,7 @@ window.skill=[
         {
           "cardBattleSkillId": "999",
           "nameIdx": "102",
-          "description": "敵単体に攻撃力7％＋10000のダメージを与える。攻撃力と防御力と素早さを60％ダウンさせ幻状態にする。【特殊状態：幻】高確率で行動をキャンセルする。",
+          "description": "Deal 7% + 10,000 to one enemy and reduce their ATK, DEF and/or SPD by 60%, Chance to inflict Genjutsu",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "614",
@@ -35786,7 +35786,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1000",
           "nameIdx": "615",
-          "description": "敵全体に防御力を30％無視して6倍の攻撃力で攻撃し、確率で素早さ30%ダウン。幻状態の敵にはダメージ3倍。自身が素早さアップ状態だと2倍。合計6倍",
+          "description": "Deal 6x ATK damage to all enemies ignoring 30% DEF, with a Chance to lower the enemies' DEF by 30%. Deal 3x damage to enemies under the Genjutsu state. Deal 2x damage if own SPD is buffed. (Max 6x)",
           "categoryId": "1",
           "levelType": "1",
           "scriptId": "1000",
@@ -37586,7 +37586,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1051",
           "nameIdx": "536",
-          "description": "敵全体に攻撃力3％＋12000のダメージを与え、明神門状態にする。【特殊状態：明神門】使用する度にカウント数が増加。「壱」：スキルダメージが20％ダウンする。「弐」：スキルダメージが20％ダウン、素早さが30％ダウンする。「参」：行動を制限する※各カウント時の効果は累積",
+          "description": "Deal 3% + 12,000 to all enemies and place the enemies under \"Gate of the Great God\" state. [Gate of the Great God: Gate of the Great God stacks doing different effect based on the number of stacks. [1] Skill Damage -20%, [2] Skill Damage -20%, SPD -30% [3] Cancel enemies' action]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "540",
@@ -37622,7 +37622,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1052",
           "nameIdx": "537",
-          "description": "敵単体に攻撃力7％＋8000のダメージ。自身のHPが多いほどダメージが上がり、HP最大でダメージ3倍。さらに味方全体の防御力を100％アップする。",
+          "description": "Deal 7% + 8,000 to one enemy. All allies DEF +100%. Deal damage the more HP Hashirama has, Max 3x when HP is full",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "541",
@@ -40790,7 +40790,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1140",
           "nameIdx": "650",
-          "description": "敵単体に防御力を50％無視して9倍の攻撃力で攻撃する。確率で混乱状態にし防御力を40%ダウンさせる。",
+          "description": "Deal 9x ATK damage to one enemy ignoring 50% DEF. Chance to reduce the enemy's DEF by 50%",
           "categoryId": "1",
           "levelType": "1",
           "scriptId": "650",
@@ -40826,7 +40826,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1141",
           "nameIdx": "651",
-          "description": "味方全体のHPを超絶回復し癒状態にする。【特殊状態：癒】攻撃を受けた際にHPとチャクラが20%回復する。",
+          "description": "Recover an colossal amount of HP to all allies and grant \"Heal\" state [Heal: Recover 20% HP and Chakra when attacked]",
           "categoryId": "2",
           "levelType": "2",
           "scriptId": "1141",
@@ -40862,7 +40862,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1142",
           "nameIdx": "730",
-          "description": "敵全体に攻撃力3％＋6000のダメージを与える。攻撃力と防御力を70%下げ、『蛙（幻）』状態にする。【特殊状態：蛙（幻）】相手をスキルが使用できない状態にする。",
+          "description": "Deal 3% + 6,000 to all enemies, with a Chance to lower ATK and/or DEF by 70% and place them under \"Frog Illusion\" state. [Frog Illusion: Skills can't be used]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "730",
@@ -40898,7 +40898,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1143",
           "nameIdx": "729",
-          "description": "敵全体に攻撃力3％＋10000のダメージを与える。確率でスキル会心が発生し、最大6倍のダメージ。",
+          "description": "Deal 3% + 10,000 to all enemies with a Chance to Crit dealing a 6x damage",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1143",
@@ -46550,7 +46550,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1300",
           "nameIdx": "390",
-          "description": "敵単体に耐性を無視して60000の固定ダメージを与え、味方への全ての単体スキルをかなりの間、無効化する状態になる。【必中スキル】",
+          "description": "Deal 60,000 Fixed Damage to one enemy. All allies are immune from Single Target Skill [Always Hit]",
           "categoryId": "1",
           "levelType": "2",
           "scriptId": "1300",
@@ -46586,7 +46586,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1301",
           "nameIdx": "8",
-          "description": "敵単体に攻撃力7％＋7000のダメージを与える。カカシの残りHPが多いほどダメージが増加し、最大3.5倍。",
+          "description": "Deal 7% + 7,000 to one enemy. Deal more damage the more HP Kakashi have. Max 3.5x",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1301",
@@ -46622,7 +46622,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1302",
           "nameIdx": "48",
-          "description": "敵全体に攻撃力3％＋5000のダメージ。自身が攻撃力アップ状態だとダメージ2倍。木ノ葉隠れの里所属の敵にダメージ2倍。最大4倍。さらに敵全体の行動を確実にキャンセルする。",
+          "description": "Deal 3% + 5,000 to all enemies. Deal 2x damage when own ATK is buffed. Deal 2x damage to Konoha characters. Cancel the enemies' action",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1302",
@@ -46658,7 +46658,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1303",
           "nameIdx": "52",
-          "description": "敵単体に攻撃力7％＋9000のダメージを与え、素早さを40％ダウンさせる。攻撃した相手の位置を大きく戻す。※アクション内の相手にのみ有効",
+          "description": "Deal 7% + 9,000 to one enemy, and lower their SPD by 40%. Heavily pushes the enemy on the action bar. Only effective when the enemy is in the red bar",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "572",
@@ -81758,7 +81758,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2310",
           "nameIdx": "2324",
-          "description": "Deal 7% + 120,000 to one enemy. Deal more damage the more allies alive, max 3x. Excluding self, Five Village allies SPD +1000% and Cast Speed +2 for 1 turn. [Always Hit]",
+          "description": "Deal 7% + 120,000 to one enemy. Deal damage the more allies alive, max 3x. Excluding self, Five Village allies SPD +1000% and Cast Speed +2 for 1 turn. [Always Hit]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2310",
@@ -81938,7 +81938,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2315",
           "nameIdx": "374",
-          "description": "Deal 7% + 5,000 to one enemy. Deal more damage the more Konoha allies in the team, max 7x. " ,
+          "description": "Deal 7% + 5,000 to one enemy. Deal damage the more Konoha allies in the team, max 7x. " ,
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2315",
@@ -82154,7 +82154,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2321",
           "nameIdx": "641",
-          "description": "Deal 7% + 5,000 to one enemy. Deal more damage the more HP Naruto has, max 7x",
+          "description": "Deal 7% + 5,000 to one enemy. Deal damage the more HP Naruto has, max 7x",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1262",
@@ -82226,7 +82226,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2323",
           "nameIdx": "641",
-          "description": "Deal 7% + 10,000 to one enemy. Deal more damage the more HP Naruto has, max 10x",
+          "description": "Deal 7% + 10,000 to one enemy. Deal damage the more HP Naruto has, max 10x",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1262",
@@ -82514,7 +82514,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2331",
           "nameIdx": "2352",
-          "description": "Deal 7% + 7,000 to one enemy with a chance to inflict \"Ignition\" state. Deal more damage the more allies from the Five Village, max 5x. [Ignition: Place a 3 Countdown Turns on the enemy, reduce the Countdown by 1 every turn. When the Countdown reach 0, remove \"Ignition\" state. Deal 100,000 damage to all enemies whenever \"Ignition\" state is removed. (Note: The damage from \"Ignition\" can't kill an enemy) ",
+          "description": "Deal 7% + 7,000 to one enemy with a chance to inflict \"Ignition\" state. Deal damage the more allies from the Five Village, max 5x. [Ignition: Place a 3 Countdown Turns on the enemy, reduce the Countdown by 1 every turn. When the Countdown reach 0, remove \"Ignition\" state. Deal 100,000 damage to all enemies whenever \"Ignition\" state is removed. (Note: The damage from \"Ignition\" can't kill an enemy) ",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2331",
@@ -82586,7 +82586,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2333",
           "nameIdx": "2352",
-          "description": "Deal 7% + 10,000 to one enemy with a chance to inflict \"Ignition\" state. Deal more damage the more allies from the Five Village, max 10x. [Ignition: Place a 3 Countdown Turns on the enemy, reduce the Countdown by 1 every turn. When the Countdown reach 0, remove \"Ignition\" state. Deal 300,000 damage to all enemies whenever \"Ignition\" state is removed. (Note: The damage from \"Ignition\" can't kill an enemy) ",
+          "description": "Deal 7% + 10,000 to one enemy with a chance to inflict \"Ignition\" state. Deal damage the more allies from the Five Village, max 10x. [Ignition: Place a 3 Countdown Turns on the enemy, reduce the Countdown by 1 every turn. When the Countdown reach 0, remove \"Ignition\" state. Deal 300,000 damage to all enemies whenever \"Ignition\" state is removed. (Note: The damage from \"Ignition\" can't kill an enemy) ",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2331",
@@ -82658,7 +82658,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2335",
           "nameIdx": "2356",
-          "description": "Deal 3% + 12,000 to all enemies with a high chance to lower SPD by 50%, Confuse, Seal and/or remove the ability to dodge skills. Deal more damage the more HP Hashirama has, max 10x",
+          "description": "Deal 3% + 12,000 to all enemies with a high chance to lower SPD by 50%, Confuse, Seal and/or remove the ability to dodge skills. Deal damage the more HP Hashirama has, max 10x",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2335",
@@ -83090,7 +83090,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2347",
           "nameIdx": "2368",
-          "description": "Deal 3% + 12,000 to all enemies with a high chance to inflict \"Cut\" state. Deal more damage the more Courage and Intellect allies and/or enemies, (Max 20x). [Cut: Cast Speed -1, Skill Damage -30%]",
+          "description": "Deal 3% + 12,000 to all enemies with a high chance to inflict \"Cut\" state. Deal damage the more Courage and Intellect allies and/or enemies, (Max 20x). [Cut: Cast Speed -1, Skill Damage -30%]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2347",
@@ -83378,7 +83378,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2357",
           "nameIdx": "540",
-          "description": "Deal 3% + 10,000 to all enemies with a high chance to Paralyze. Deal 2x damage if own ATK is buffed. Deal more damage the more None affiliated enemies and guarantee the Paralyze chance, Max 15x against 5 enemies. ",
+          "description": "Deal 3% + 10,000 to all enemies with a high chance to Paralyze. Deal 2x damage if own ATK is buffed. Deal damage the more None affiliated enemies and guarantee the Paralyze chance, Max 15x against 5 enemies. ",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2357",
@@ -83666,7 +83666,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2365",
           "nameIdx": "2421",
-          "description": "Deal 3x ATK damage to one enemy with a high chance to grant \"Bull\" state. [Bull: Bull stacks doing more damage multiplier and ignoring more DEF. Max 33x more damage and ignore 33% DEF. Maximum stack is 3. Remove the state once you reach 3rd stack]",
+          "description": "Deal 3x ATK damage to one enemy with a high chance to grant \"Bull\" state. [Bull: Bull stacks doing damage multiplier and ignoring more DEF. Max 33x damage and ignore 33% DEF. Maximum stack is 3. Remove the state once you reach 3rd stack]",
           "categoryId": "1",
           "levelType": "1",
           "scriptId": "2365",
@@ -84026,7 +84026,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2375",
           "nameIdx": "2405",
-          "description": "Deal 3% + 10,000 to all enemies with a high chance to cancel action. Deal 4x damage while under \"Resonance\" state. Deal more damage the more HP Naruto has. (Max 16x)",
+          "description": "Deal 3% + 10,000 to all enemies with a high chance to cancel action. Deal 4x damage while under \"Resonance\" state. Deal damage the more HP Naruto has. (Max 16x)",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2375",

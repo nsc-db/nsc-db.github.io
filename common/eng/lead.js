@@ -2602,7 +2602,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "201",
           "name": "戦の輪廻",
-          "description": "Akatsuki Characters Maximum HP, ATK, SPD +20%",
+          "description": "Akatsuki Characters Maximum HP, ATK and SPD +20%",
           "effectIdx1": "218",
           "effectIdx2": "105",
           "effectIdx3": "109",
@@ -2953,7 +2953,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "228",
           "name": "五代目火影の誇り",
-          "description": "行動したHP +10%、Chakra Recovery +5%",
+          "description": "HP Recovery +10% and Chakra Recovery +5%",
           "effectIdx1": "357",
           "effectIdx2": "446",
           "effectIdx3": "0",
@@ -3226,7 +3226,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "249",
           "name": "僅かな光明",
-          "description": "Technique Type ATK, DEF, SPD +20%",
+          "description": "Technique Type ATK, DEF and SPD +20%",
           "effectIdx1": "105",
           "effectIdx2": "106",
           "effectIdx3": "109",
@@ -3343,7 +3343,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "258",
           "name": "自来也豪傑忍伝",
-          "description": "Body Type ATK and DEF and SPD +20%。",
+          "description": "Body Type ATK, DEF and SPD +20%。",
           "effectIdx1": "105",
           "effectIdx2": "106",
           "effectIdx3": "109",
@@ -3356,7 +3356,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "259",
           "name": "譲れない想い",
-          "description": "All Characters ATK とByakugan Skill Damage +15%する。",
+          "description": "All Characters ATK and Byakugan Skill Damage +15%する。",
           "effectIdx1": "2",
           "effectIdx2": "534",
           "effectIdx3": "0",
@@ -3395,7 +3395,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "262",
           "name": "天性の酔拳使い",
-          "description": "Taijutsu Skill Damage のダメージ+10%。",
+          "description": "Taijutsu Skill Damage +10%。",
           "effectIdx1": "127",
           "effectIdx2": "0",
           "effectIdx3": "0",
@@ -4045,7 +4045,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "312",
           "name": "Summoning 三竦み・蝦蟇",
-          "description": "Konoha Characters ATK and DEF and SPD +30%",
+          "description": "Konoha Characters ATK, DEF and SPD +30%",
           "effectIdx1": "182",
           "effectIdx2": "373",
           "effectIdx3": "110",
@@ -4058,7 +4058,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "313",
           "name": "Summoning 三竦み・蟒蛇",
-          "description": "All Characters ATK +30%、全Skill Damage +20%",
+          "description": "All Characters ATK +30% and Skill Damage +20%",
           "effectIdx1": "182",
           "effectIdx2": "662",
           "effectIdx3": "0",
@@ -4071,7 +4071,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "314",
           "name": "Summoning 三竦み・蛞蝓",
-          "description": "行動したHP +5%Chakra Recovery +10%",
+          "description": "HP Regen +5% and Chakra Recovery +10%",
           "effectIdx1": "172",
           "effectIdx2": "53",
           "effectIdx3": "0",

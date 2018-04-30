@@ -927,7 +927,7 @@ window.tags=[
           "cardId": "20001519",
           "rare": "5",
           "tag": "ex",
-          "rate": "50"
+          "rate": "68"
 },
 {
           "cardId": "20001520",
@@ -1023,7 +1023,7 @@ window.tags=[
           "cardId": "20001535",
           "rare": "5",
           "tag": "ex",
-          "rate": "50"
+          "rate": "74"
 },
 {
           "cardId": "20001536",
@@ -1167,7 +1167,7 @@ window.tags=[
           "cardId": "20001559",
           "rare": "5",
           "tag": "ex",
-          "rate": "50"
+          "rate": "71"
 },
 {
           "cardId": "20001560",
@@ -1221,7 +1221,7 @@ window.tags=[
           "cardId": "20001568",
           "rare": "5",
           "tag": "ex",
-          "rate": "50"
+          "rate": "76"
 },
 {
           "cardId": "20001569",
@@ -1311,7 +1311,7 @@ window.tags=[
           "cardId": "20001583",
           "rare": "5",
           "tag": "ex",
-          "rate": "50"
+          "rate": "65"
 },
 {
           "cardId": "20001584",
@@ -1365,7 +1365,7 @@ window.tags=[
           "cardId": "20001592",
           "rare": "5",
           "tag": "ex",
-          "rate": "50"
+          "rate": "66"
 },
 {
           "cardId": "20001593",
@@ -1491,7 +1491,7 @@ window.tags=[
           "cardId": "20001613",
           "rare": "5",
           "tag": "ex",
-          "rate": "50"
+          "rate": "78"
 },
 {
           "cardId": "20001614",
@@ -1545,7 +1545,7 @@ window.tags=[
           "cardId": "20001622",
           "rare": "5",
           "tag": "ex",
-          "rate": "50"
+          "rate": "80"
 },
 {
           "cardId": "20001623",

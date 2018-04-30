@@ -8151,7 +8151,7 @@ window.chara=[
           "cardId": "20001559",
           "modelId": "361",
           "charaType": "1",
-          "cardSubName": "不撓の赤い結界",
+          "cardSubName": "Indomitable Red Barrier",
           "cardInformation": "最強の忍として木ノ葉隠れの里で語り継がれている初代火影。歴代火影四人での“四赤陽陣”と仙法・明神門の合わせ術で十尾を抑え込む。",
           "bookNo": "341",
           "rare": "5",
@@ -8187,7 +8187,7 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-11-05 22:22:02",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20001560",
@@ -8529,7 +8529,7 @@ window.chara=[
           "cardId": "20001568",
           "modelId": "46",
           "charaType": "8",
-          "cardSubName": "戦の輪廻",
+          "cardSubName": "Rinne of War",
           "cardInformation": "一騎当千の実力者を一束にまとめカリスマ性を持つ“暁”のリーダー。不敗を誇るペインの言葉は強い意志に満ちている。威厳を持って発せられる指令に抗うものは、誰一人といない。",
           "bookNo": "354",
           "rare": "5",
@@ -8565,7 +8565,7 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-11-28 16:35:34",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20001569",
@@ -9159,7 +9159,7 @@ window.chara=[
           "cardId": "20001583",
           "modelId": "353",
           "charaType": "1",
-          "cardSubName": "同胞殺し",
+          "cardSubName": "Fratricide",
           "cardInformation": "サスケのみを残して一族を惨殺した過去を持つ反逆者。あの事件がなければ・・・イタチは暗部に残り木ノ葉の里を守護する忍で在り続けただろう。",
           "bookNo": "372",
           "rare": "5",
@@ -9195,7 +9195,7 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-12-13 14:58:05",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20001584",
@@ -9537,7 +9537,7 @@ window.chara=[
           "cardId": "20001592",
           "modelId": "399",
           "charaType": "1",
-          "cardSubName": "五代目火影の誇り",
+          "cardSubName": "Fifth Hokage",
           "cardInformation": "初代火影の孫にして”三忍”の一人。百豪の術を極めし医療忍者のみ最前線に立つことが許される。つまり、綱手のみが戦える医療忍者なのである。",
           "bookNo": "381",
           "rare": "5",
@@ -9573,7 +9573,7 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-12-29 16:43:07",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20001593",
@@ -10419,7 +10419,7 @@ window.chara=[
           "cardId": "20001613",
           "modelId": "54",
           "charaType": "1",
-          "cardSubName": "僅かな光明",
+          "cardSubName": "A Small Hope",
           "cardInformation": "友より受け継いだ左目の“写輪眼”は千の術をコピーし、数多の術を操り、忍界に勇名を轟かせる忍。果てなき問いと使命を己に課し、喪失と絶望が横たわる忍の闇を友の目と意志を持って歩き続ける。",
           "bookNo": "402",
           "rare": "5",
@@ -10455,7 +10455,7 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-01-28 23:15:18",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20001614",
@@ -10797,7 +10797,7 @@ window.chara=[
           "cardId": "20001622",
           "modelId": "102",
           "charaType": "1",
-          "cardSubName": "自来也豪傑忍伝",
+          "cardSubName": "A Legendary Hero",
           "cardInformation": "伝説の三忍として勇名を馳せる忍だが、その真の実力は指導力にあると言っても過言ではない。四代目火影を育て、劣等生であったうずまきナルトを一流の忍に育て上げた指導者としての手腕は見事としか言いようがない。忍の三禁だけは、お手本に出来ないのが珠に傷。",
           "bookNo": "411",
           "rare": "5",
@@ -10833,7 +10833,7 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-02-13 23:01:16",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20001623",
@@ -13065,7 +13065,7 @@ window.chara=[
           "cardId": "20001676",
           "modelId": "509",
           "charaType": "1",
-          "cardSubName": "口寄せ三竦み・蝦蟇",
+          "cardSubName": "Three-Way Summoning Deadlock: Frog",
           "cardInformation": "波乱渦巻く第四次忍界大戦の最中、ナルトは「絆」の力で、突出した「個」の力を持つオビトとマダラに挑む。仲間達との絆が巨大なる力に打ち勝つ術だと信じているからだ。遂に再結成された第七班の力…新たなる三竦みは戦局を変える！？",
           "bookNo": "482",
           "rare": "5",
@@ -13101,13 +13101,13 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-04-26 21:07:21",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20001677",
           "modelId": "362",
           "charaType": "1",
-          "cardSubName": "口寄せ三竦み・蟒蛇",
+          "cardSubName": "Three-Way Summoning Deadlock: Snake",
           "cardInformation": "イタチの真意を知り、木ノ葉隠れの里の興りを知った時から、サスケの瞳は憎しみの闇とは異なる景色を映した。動乱と復讐の世を断ち切る為、サスケは新たなる己の夢へと歩みを始める。",
           "bookNo": "483",
           "rare": "5",
@@ -13143,13 +13143,13 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-04-26 22:29:09",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20001678",
           "modelId": "475",
           "charaType": "1",
-          "cardSubName": "口寄せ三竦み・蛞蝓",
+          "cardSubName": "Three-Way Summoning Deadlock: Slug",
           "cardInformation": "ナルトと共にサスケを救うために、修業に邁進したサクラは、遂にその力の開花を迎える…。磨いた豪腕と医療忍術で、戦場を癒す桜花となり、仲間を守る。",
           "bookNo": "484",
           "rare": "5",
@@ -13185,7 +13185,7 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-04-26 21:07:21",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20001679",
