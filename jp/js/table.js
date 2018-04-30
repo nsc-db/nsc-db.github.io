@@ -582,7 +582,7 @@ $(document).ready( function () {
 				$("#滝").attr('class', "list-group-item");
 				$("#鉄").attr('class', "list-group-item");
 				
-				for(var x = 0; x <= 15; x++){
+				for(var x = 0; x <= 16; x++){
 					table
 				 	.column(x)
 			     	.search("", true, false)

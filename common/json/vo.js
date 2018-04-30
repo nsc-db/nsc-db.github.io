@@ -65,7 +65,7 @@ window.vo=[
           "dirName": "hinata",
           "evolutionStep": "",
           "voiceAppear": "hinata_battle_02_01",
-          "voiceSkill1": "hinata_skill_02_01",
+          "voiceSkill1": "hinata_skill_02_02,hinata_skill_02_03,,hinata_skill_02_04,hinata_skill_02_05,hinata_skill_02_06,hinata_skill_02_07",
           "voiceSkill2": "",
           "voicePursuit": "",
           "voiceWin": "hinata_win_02_01",
