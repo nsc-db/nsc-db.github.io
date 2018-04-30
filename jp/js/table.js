@@ -1,9 +1,17 @@
 $(document).ready( function () {
 			var table = $('#myTable').DataTable({
 				stateSave: true,
+				responsive: true,
 				columns: [
-		            { title: "Icon" },
-		            { title: "名前" },
+		            { 
+		            	title: "Icon",
+		            	responsivePriority: 1
+
+		            },
+		            { 
+		            	title: "名前",
+		            	responsivePriority: 2
+		        	},
 		            { title: "属性" },
 		            { title: "所属" },
 		            { title: "レア" },
@@ -41,8 +49,14 @@ $(document).ready( function () {
 		            	title: "nature",
 		            	"visible": false,
 		            	"searchable": true
+		            },
+		            {
+		            	title: "voiced",
+		            	"visible": false,
+		            	"searchable": true
 		            }
-		        ]
+		        ],
+      			 responsive: true
 			});
 
 			var tagArr = [];
@@ -405,7 +419,24 @@ $(document).ready( function () {
 		  	 //Tags
 		  	 $("#filter-tags").on("click", ".list-group-item", function(e) {
 				e.preventDefault();
-				if($(this).attr('class') == 'list-group-item active'){
+				if($(this).attr('id') == "voiced"){
+					if($(this).attr('class') == 'list-group-item active'){
+					$(this).attr('class', "list-group-item");	
+					table
+				 	.column(16)
+			     	.search(0, true, false)
+			     	.draw();
+				}
+				else{
+					$(this).attr('class', "list-group-item active");
+					
+					table
+				 	.column(16)
+			     	.search(1, true, false)
+			     	.draw();
+		   	   }
+				}
+				else if($(this).attr('class') == 'list-group-item active'){
 					$(this).attr('class', "list-group-item");
 
 					//Remove Filter
@@ -536,6 +567,7 @@ $(document).ready( function () {
 				$("#special").attr('class', "list-group-item");
 				$("#gacha").attr('class', "list-group-item");
 				$("#fp").attr('class', "list-group-item");
+				$("#voiced").attr('class', "list-group-item");
 				$("#木ノ葉").attr('class', "list-group-item");
 				$("#“暁”").attr('class', "list-group-item");
 				$("#その他").attr('class', "list-group-item");

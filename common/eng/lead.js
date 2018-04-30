@@ -2004,7 +2004,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "155",
           "name": "拓かれた仙術",
-          "description": "Konoha Characters Maximum HP +20%&amp;行動したキャラのHP +5%回復",
+          "description": "Konoha Characters Maximum HP +20% and HP Regen +5%",
           "effectIdx1": "218",
           "effectIdx2": "17",
           "effectIdx3": "0",
@@ -2212,7 +2212,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "171",
           "name": "嘲笑う真の盟主",
-          "description": "All Characters ATK +30%and 火遁Skill Damage +20%",
+          "description": "All Characters ATK +30% and Fire Skill Damage +20%",
           "effectIdx1": "205",
           "effectIdx2": "315",
           "effectIdx3": "0",

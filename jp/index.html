@@ -44,6 +44,8 @@
  	<script type="text/javascript" src="../common/json/tags.js"></script>
  	<script type="text/javascript" src="../common/json/gear.js"></script>
  	<script type="text/javascript" src="../common/json/unique.js"></script>
+ 	<script type="text/javascript" src="../common/json/vo.js"></script>
+
 
 
 
@@ -73,6 +75,66 @@
 							</div>
 							<p id="type-unit" class="type" type="Body"></p>
 							<h3 id="name-unit"></h3>
+							&emsp;
+							<strong id="voice">
+								
+								<script>
+									var path = '';
+									function voiceAppear(){
+										
+										var dir = $("#voiceAppear").attr('class');
+										var voice = $("#voiceAppear").attr('value')
+										var voiceArr = voice.split(',');
+										var random = Math.floor(Math.random() * voiceArr.length);
+										path = "../common/assets/vo/" + dir + "/" + voiceArr[random] + ".mp3";
+										var sound = new Audio(path);			
+										sound.play();
+										
+									}
+									function voiceSkill(){
+										var dir = $("#voiceSkill").attr('class');
+										var voice = $("#voiceSkill").attr('value');
+										var voiceArr = voice.split(',');
+										var random = Math.floor(Math.random() * voiceArr.length);
+										path = "../common/assets/vo/" + dir + "/" + voiceArr[random] + ".mp3";
+										var sound = new Audio(path);			
+										sound.play();
+										
+										
+									}
+
+									function voicePursuit(){
+										var dir = $("#voicePursuit").attr('class');
+										var voice = $("#voicePursuit").attr('value')
+										var voiceArr = voice.split(',');
+										var random = Math.floor(Math.random() * voiceArr.length);
+										path = "../common/assets/vo/" + dir + "/" + voiceArr[random] + ".mp3";
+										var sound = new Audio(path);			
+										sound.play();
+									}
+
+
+									function voiceWin(){
+										var dir = $("#voiceWin").attr('class');
+										var voice = $("#voiceWin").attr('value')
+										var voiceArr = voice.split(',');
+										var random = Math.floor(Math.random() * voiceArr.length);
+										path = "../common/assets/vo/" + dir + "/" + voiceArr[random] + ".mp3";
+										var sound = new Audio(path);			
+										sound.play();
+									}
+
+									function voiceDeath(){
+										var dir = $("#voiceDeath").attr('class');
+										var voice = $("#voiceDeath").attr('value')
+										var voiceArr = voice.split(',');
+										var random = Math.floor(Math.random() * voiceArr.length);
+										path = "../common/assets/vo/" + dir + "/" + voiceArr[random] + ".mp3";
+										var sound = new Audio(path);			
+										sound.play();
+									}
+								</script>
+							</strong>
 						</div>
 						<div class="col-md-3 col-xs-6">
 							<button type="button" class="close" data-dismiss="modal" aria-label="Close">
@@ -338,6 +400,8 @@
 																</div>
 															</div>
 														</div>
+
+
 														<div class="tab-pane fade" id="ability-six">
 															<div class="base-ability">
 																<div class="header leader">
@@ -690,6 +754,7 @@
 								<a href="#" id="special" data-toggle="" class="list-group-item" >特別</a>
 								<a href="#" id="gacha" data-toggle="" class="list-group-item" >ガチャ</a>
 								<a href="#" id="fp" data-toggle="" class="list-group-item" >FP</a>
+								<a href="#" id="voiced" data-toggle="" class="list-group-item" >ボイス</a>
 							</div>
 						</div>
 					</div>
@@ -851,7 +916,7 @@
 					<div class="col-md-12">
 						<div class="footer">
 							<hr>
-							<p class="note">Created by Yuyya, Noobiel and Book</p>
+							<p class="note">Created by Yuyya, Noobiel, Book and Achromic</p>
 						</div>
 					</div>
 				</div>

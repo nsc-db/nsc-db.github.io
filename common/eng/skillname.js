@@ -1327,12 +1327,12 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "374",
           "name": "写輪眼の見切り",
-          "eng": ""
+          "eng": "Forsaken Sharingan"
         },
         {
           "cardBattleSkillNameId": "375",
           "name": "コンビネーション",
-          "eng": ""
+          "eng": "Combination"
         },
         {
           "cardBattleSkillNameId": "376",
@@ -1432,12 +1432,12 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "412",
           "name": "風遁・螺旋手裏剣（仙人ﾓｰﾄﾞ）",
-          "eng": ""
+          "eng": "Wind Style: Rasenshuriken (Sage Mode)"
         },
         {
           "cardBattleSkillNameId": "413",
           "name": "蛙組手",
-          "eng": ""
+          "eng": "Frog Kumite"
         },
         {
           "cardBattleSkillNameId": "414",
@@ -1592,12 +1592,12 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "453",
           "name": "火遁・豪火滅却",
-          "eng": "Fire Style: Great Inferno"
+          "eng": "Fire Style: Great Fire Annihilation"
         },
         {
           "cardBattleSkillNameId": "454",
           "name": "うちは返し",
-          "eng": ""
+          "eng": "Uchiha Return"
         },
         {
           "cardBattleSkillNameId": "456",
@@ -6126,8 +6126,8 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "2404",
-          "name": "仮テキスト",
-          "eng": "Temporary Skill"
+          "name": "お前たちが憎い",
+          "eng": "I Hate You All"
         },
         {
           "cardBattleSkillNameId": "2405",
@@ -6267,7 +6267,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "20100",
           "name": "共殺の灰骨",
-          "eng": ""
+          "eng": "All Killing Ash Bones"
         },
         {
           "cardBattleSkillNameId": "20101",

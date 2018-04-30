@@ -1,6 +1,6 @@
 (function(){
 
-	function _createCard(data, name, type, hp, atk, def, spd, rare, affi, id, rate, tag, target, cast, damage, nature){
+	function _createCard(data, name, type, hp, atk, def, spd, rare, affi, id, rate, tag, target, cast, damage, nature, voiced){
 		var image;
 		//Rarity Check
 		if(rare == 6){
@@ -10,11 +10,11 @@
 			image = id + ".png";
 		}
 
-		//Pvp Reward Check
+		//Champion Check
 		if(data["cost"] == 100){
 			image = id + ".png";
 		}
-		//Creates the Table
+		//Create Entries in the Table
 		var model = '<tr class="clickable" data-toggle="modal" data-target="#newModal">'
 					+'		<td class="text-center"><img id="icon-table" src="../common/assets/img/units/icons/thumb_' + image + '"height="60px" width="60px" /><div style="display:none">' + data['cardId'] + '</td>'
 					+'		<td class="text-left"><a href= "view/' + data["cardId"] + '" data-toggle="modal" data-target="#newModal"><strong>' + name + " 【" + data["cardSubName"] + '】</a></td>'
@@ -31,7 +31,8 @@
 					+'		<td class="text-center">' + target + '</td>'		
 					+'		<td class="text-center">' + cast + '</td>'		
 					+'		<td class="text-center">' + damage + '</td>'	
-					+'		<td class="text-center">' + nature + '</td>'																																						
+					+'		<td class="text-center">' + nature + '</td>'
+					+'		<td class="text-center">' + voiced + '</td>'																																						
 					+'</tr>';
 		return model;
 	}
@@ -43,36 +44,40 @@
 		var content = ''; 
 		
 		var units = []; // Character's Info
-		var name = '';
-		var type = '';
-		var hp;
-		var atk;
-		var def;
-		var spd;
-		var rare;
-		var affi;
-		var id;
-		var tags;
-		var target = '';
-		var cast = '';
-		var damage = '';
-		var nature = '';
-
+		var name = '';	// Charavter Name
+		var type = '';	// Character Type
+		var hp;			// Character HP
+		var atk;		// Character ATK
+		var def;		// Character DEF
+		var spd;		// Character SPD
+		var rare;		// Character Rarity
+		var affi;		// Character Affiliation
+		var id;			// Character ID
+		var tags;		// Character Tag
+		var target = '';// Character Attack Target
+		var cast = '';	// Character Chakra Cost
+		var damage = '';// Character Damage Type
+		var nature = '';// Character Nature
+		var voiced = '';
 
 		for(var i in window.chara){
+			//Current Character
 			var unit = window.chara[i];
+
 			//Adds Character Name
 			for(var y in window.charaname){
 				if(window.charaname[y]["charaProfileId"] == unit["charaProfileId"]){
 					name = window.charaname[y]['name'];
 				}
 			}
+
 			//Set default max stats
 			hp = unit["hpMax"];
 			atk = unit["attackMax"];
 			def = unit["defenseMax"];
 			spd = unit["speedMax"];
 			rare = unit["rare"];
+
 			//Check Type and Convert to Kanji
 			type = checkType(unit);
 
@@ -88,6 +93,7 @@
 					}
 				}
 			}
+			//ID
 			id = unit['cardId'];
 
 			//Affi
@@ -95,7 +101,9 @@
 			rate = window.tags[i]['rate'];
 			tag = window.tags[i]['tag'];
 
+			//Find Skills Info
 			for(var n in window.skill){
+				//Find Skill 1 Info
 				if(unit["battleSkillId1"] == window.skill[n]["cardBattleSkillId"]){
 					if(target != ''){
 						target += checkTarget(window.skill[n]);
@@ -130,6 +138,7 @@
 						}
 					}
 				}
+				//Find Skill 2 Info
 				if(unit["battleSkillId2"] == window.skill[n]["cardBattleSkillId"]){
 					if(target == ''){
 						target += checkTarget(window.skill[n]) + ",";
@@ -167,22 +176,33 @@
 					
 				}
 			}
-			if(units.indexOf(chara[0]) == -1){ // << verifica se já criou o card pelo [ID]
-				units.push(unit[0]); // << Salvo o id do card, para impedir cards repetidos de existirem			
-				content += _createCard(unit, name, type, hp, atk, def, spd, rare, affi, id, rate, tag, target, cast, damage, nature); // chama a função passando os dados do card
+
+			for(var n in window.vo){
+				if(id == window.vo[n]['cardId']){
+					voiced = 1;
+					break;
+				}
+				else{
+					voiced = 0;
+				}
+			}
+			//Creates Entry
+			if(units.indexOf(chara[0]) == -1){ // Verifies Character ID
+				units.push(unit[0]); // Adds Character in the array			
+				content += _createCard(unit, name, type, hp, atk, def, spd, rare, affi, id, rate, tag, target, cast, damage, nature, voiced); // chama a função passando os dados do card
 				target = '';
 				cast = '';
 				damage = '';
 				nature = '';
+				voiced = 0;
 			}
 		}
-		console.log(i, window.chara[i]);
 		
 		$('.cards').html(content);
 		
 		// --------------------------------------------- CLICK
 		
-		// Para cada coluna clicável
+		// Creates Modal
 		$('.clickable').click(function(e){
 		   // Seleciono o e <a href> e extraio o ID do link
 		   e = $(this).find('a[href*="view"]');
@@ -233,6 +253,7 @@
 			function(){
 			 $('#icon-unit').attr('src', '../common/assets/img/units/icons/thumb_' + cid + '.png'); 
 			  } );
+		
 		var name = '';
 		for(var x in window.chara){
 			if(cid == window.chara[x]['cardId']){
@@ -297,7 +318,41 @@
 			//Character Lead
 			for(var x in window.chara){
 				if(cid == window.chara[x]['cardId']){
+					for(var y in window.vo){
+						if(cid == window.vo[y]['cardId']){
+							
+							var dir = String(window.vo[y]['dirName']);
+							var appear = window.vo[y]['voiceAppear'];
+							var skill = window.vo[y]['voiceSkill1'];
+							var pursuit =  window.vo[y]['voicePursuit'];
+							var win = window.vo[y]['voiceWin'];
+							var death = window.vo[y]['voiceDeath'];
 
+							var voice = '<h3>ボイス:&ensp; </h3>'
+									  + '<button id="voiceAppear" class="" value="" onclick="voiceAppear()">現れる</button>'
+									  + '<button id="voiceSkill" class="" value="" onclick="voiceSkill()">スキル</button>'
+									  + '<button id="voiceWin" class="" value="" onclick="voiceWin()">勝つ</button>'
+									  + '<button id="voiceDeath" class="" value="" onclick="voiceDeath()">死</button>';
+									 
+
+							document.getElementById("voice").innerHTML = voice;
+							$("#voiceAppear").attr('class', dir);
+							$("#voiceAppear").attr('value', appear);
+							$("#voiceSkill").attr('class', dir);
+							$("#voiceSkill").attr('value', skill);
+							$("#voicePursuit").attr('class', dir);
+							$("#voicePursuit").attr('value', pursuit);
+							$("#voiceWin").attr('class', dir);
+							$("#voiceWin").attr('value', win);
+							$("#voiceDeath").attr('class', dir);
+							$("#voiceDeath").attr('value', death);
+							break;
+						}
+						else{
+							document.getElementById("voice").innerHTML = "";
+
+						}
+					}
 					for(var y in window.unique){
 						var unique = window.unique[y]['charaIds'].split(",");
 						for(var z in unique){
@@ -761,5 +816,6 @@
 			}
 		}
 	}
+
 
 })();

@@ -6471,7 +6471,7 @@ window.chara=[
           "cardId": "20001519",
           "modelId": "319",
           "charaType": "1",
-          "cardSubName": "拓かれた仙術",
+          "cardSubName": "Awakening Sage Jutsu",
           "cardInformation": "終末の谷の激闘から２年余りの時を経て、木ノ葉隠れの里に舞い戻ったナルト。”三忍”自来也の元厳しい修業で忍としての実力を高め、たくましく成長を遂げる。",
           "bookNo": "283",
           "rare": "5",
@@ -6507,7 +6507,7 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-09-07 22:04:37",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20001520",
@@ -7143,7 +7143,7 @@ window.chara=[
           "cardId": "20001535",
           "modelId": "333",
           "charaType": "99",
-          "cardSubName": "嘲笑う真の盟主",
+          "cardSubName": "Sneering True Leader",
           "cardInformation": "カブトの“穢土転生”で蘇った伝説の忍。穢土転生の術が解除されても、自ら口寄せ契約を解除する術を使ったために消えず、不死の体を持ったままこの世に残った。五影を打ちのめし、オビトの下へ向かう。",
           "bookNo": "1",
           "rare": "5",
@@ -7179,7 +7179,7 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-09-29 22:07:39",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20001536",
@@ -29235,7 +29235,7 @@ window.chara=[
           "cardId": "20040315",
           "modelId": "517",
           "charaType": "1",
-          "cardSubName": "仲間を想う力",
+          "cardSubName": "Power of Believing in Friends",
           "cardInformation": "掟以上に仲間を大切にしない奴はクズ…その言葉だけは口先で終わらせまいと、身体を突き動かす。その時、オビトの瞳は写輪眼を開眼した。",
           "bookNo": "1",
           "rare": "5",
@@ -30202,8 +30202,8 @@ window.chara=[
           "cardId": "20040502",
           "modelId": "647",
           "charaType": "99",
-          "cardSubName": "Temporary Character",
-          "cardInformation": "仮キャラクタ",
+          "cardSubName": "Demon Transformed Goddess",
+          "cardInformation": "六道仙人”大筒木ハゴロモの母。太古の昔、チャクラの実を食しその身に初めてチャクラを宿した。両目に白眼、額に輪廻写輪眼を持つ。第四次忍界大戦の最中、うちはマダラの体を触媒に復活を遂げた。",
           "bookNo": "1",
           "rare": "5",
           "motionType": "3",
@@ -30231,14 +30231,14 @@ window.chara=[
           "price": "4800",
           "fusionExp": "3000",
           "fusionMaterialFlg": "0",
-          "charaProfileId": "201",
+          "charaProfileId": "14301",
           "defaultUnlockBit": "771",
           "fusionRuleId": "2",
           "createTime": "2018-04-10 12:44:37",
           "createUserId": "11",
           "updateTime": "2018-04-25 22:42:33",
           "updateUserId": "11",
-          "translated": ""
+          "translated": "1"
         },
         {
           "cardId": "20040503",

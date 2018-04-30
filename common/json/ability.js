@@ -16516,7 +16516,7 @@ window.ability=[
         },
         {
           "abilityId": "1869",
-          "abilityName": "仮アビリティ",
+          "abilityName": "原初のチャクラ",
           "abilityDescription": "最大チャクラが100アップし、素早さが150％アップする",
           "abilityEffectDescription": "最大チャクラが100アップし、素早さが150％アップする",
           "effectIdx1": "813",
@@ -16525,7 +16525,16 @@ window.ability=[
         },
         {
           "abilityId": "1870",
-          "abilityName": "仮アビリティ",
+          "abilityName": "瞳術の起源",
+          "abilityDescription": "受ける耐性無視スキルのダメージを0＆キャンセル無効＆3回行動まで耐性無視を含む全スキル無効",
+          "abilityEffectDescription": "受ける耐性無視スキルのダメージを0＆キャンセル無効＆3回行動まで耐性無視を含む全スキル無効",
+          "effectIdx1": "1750",
+          "effectIdx2": "1751",
+          "effectIdx3": "990"
+        },
+        {
+          "abilityId": "1870",
+          "abilityName": "瞳術の起源",
           "abilityDescription": "受ける耐性無視スキルのダメージを0＆キャンセル無効＆3回行動まで耐性無視を含む全スキル無効",
           "abilityEffectDescription": "受ける耐性無視スキルのダメージを0＆キャンセル無効＆3回行動まで耐性無視を含む全スキル無効",
           "effectIdx1": "1750",
@@ -16534,21 +16543,12 @@ window.ability=[
         },
         {
           "abilityId": "1871",
-          "abilityName": "仮アビリティ",
+          "abilityName": "原初のチャクラ",
           "abilityDescription": "最大チャクラが200アップし、素早さが200％アップする",
           "abilityEffectDescription": "最大チャクラが200アップし、素早さが200％アップする",
           "effectIdx1": "20019",
           "effectIdx2": "1280",
           "effectIdx3": "0"
-        },
-        {
-          "abilityId": "1872",
-          "abilityName": "仮アビリティ",
-          "abilityDescription": "受ける耐性無視スキルのダメージを0＆キャンセル無効＆3回行動まで耐性無視を含む全スキル無効",
-          "abilityEffectDescription": "受ける耐性無視スキルのダメージを0＆キャンセル無効＆3回行動まで耐性無視を含む全スキル無効",
-          "effectIdx1": "1750",
-          "effectIdx2": "1751",
-          "effectIdx3": "990"
         },
         {
           "abilityId": "1873",

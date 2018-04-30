@@ -1568,7 +1568,7 @@ window.ability=[
         {
           "abilityId": "175",
           "abilityName": "オレが諦めるのを諦めろ",
-          "abilityDescription": "HP30％から1％以内になると一度だけHPが全回復し攻撃･防御・素早さが50％アップ",
+          "abilityDescription": "When HP reach 30% or lower, Recover all HP and ATK, DEF and SPD +50%",
           "abilityEffectDescription": "HP30％から1％以内になると一度だけHPが全回復し攻撃･防御・素早さが50％アップ",
           "effectIdx1": "265",
           "effectIdx2": "269",
@@ -1576,8 +1576,8 @@ window.ability=[
         },
         {
           "abilityId": "176",
-          "abilityName": "仙人モード",
-          "abilityDescription": "5回行動するまで消費チャクラが半減しスキルダメージが150％アップする",
+          "abilityName": "Sage Mode",
+          "abilityDescription": "For 5 turns, Chakra Cost -50%, Skill Damage +150%",
           "abilityEffectDescription": "5回行動するまで消費チャクラが半減しスキルダメージが150％アップする",
           "effectIdx1": "268",
           "effectIdx2": "275",
@@ -1801,8 +1801,8 @@ window.ability=[
         },
         {
           "abilityId": "201",
-          "abilityName": "活殺自在",
-          "abilityDescription": "HP50％以上の時に攻撃力が70％アップ&amp;スキルダメージ半減",
+          "abilityName": "The Power of Life and Death",
+          "abilityDescription": "ATK +70% and Incoming Skill Damage -50% when HP is above 50%",
           "abilityEffectDescription": "HP50％以上の時に攻撃力が70％アップ&amp;スキルダメージ半減",
           "effectIdx1": "449",
           "effectIdx2": "450",
@@ -1810,8 +1810,8 @@ window.ability=[
         },
         {
           "abilityId": "202",
-          "abilityName": "孤高の夢",
-          "abilityDescription": "5回行動するまで状態異常無効＆火遁スキルのダメージ100％アップ",
+          "abilityName": "Aloof Dream",
+          "abilityDescription": "For 5 turns, Immune to Status Effect and Fire Skill Damage +100%",
           "abilityEffectDescription": "5回行動するまで状態異常無効＆火遁スキルのダメージ100％アップ",
           "effectIdx1": "451",
           "effectIdx2": "452",
@@ -4249,8 +4249,8 @@ window.ability=[
         },
         {
           "abilityId": "473",
-          "abilityName": "仙人モード",
-          "abilityDescription": "消費チャクラが半減しスキルダメージが250％アップし、攻撃力が80％アップ",
+          "abilityName": "Sage Mode",
+          "abilityDescription": "Chakra Cost -50%, Skill Damage +250% and ATK +80%",
           "abilityEffectDescription": "消費チャクラが半減しスキルダメージが250％アップし、攻撃力が80％アップ",
           "effectIdx1": "95",
           "effectIdx2": "625",
@@ -4258,8 +4258,8 @@ window.ability=[
         },
         {
           "abilityId": "474",
-          "abilityName": "オレが諦めるのを諦めろ",
-          "abilityDescription": "HP30％から1％以内になると一度だけHPが全回復し攻撃･防御・素早さが100％アップ",
+          "abilityName": "Give Up on Me Giving Up",
+          "abilityDescription": "When HP reach 30% or lower, Recover all HP and ATK, DEF and SPD +100%",
           "abilityEffectDescription": "HP30％から1％以内になると一度だけHPが全回復し攻撃･防御・素早さが100％アップ",
           "effectIdx1": "265",
           "effectIdx2": "626",
@@ -5419,8 +5419,8 @@ window.ability=[
         },
         {
           "abilityId": "603",
-          "abilityName": "活殺自在",
-          "abilityDescription": "攻撃力が100％アップし、HP40%以上の時にスキルダメージを半減する",
+          "abilityName": "The Power of Life and Death",
+          "abilityDescription": "ATK +100%. Incoming Skill Damage -50% when HP is above 40%",
           "abilityEffectDescription": "攻撃力が100％アップし、HP40%以上の時にスキルダメージを半減する",
           "effectIdx1": "264",
           "effectIdx2": "796",
@@ -5428,8 +5428,8 @@ window.ability=[
         },
         {
           "abilityId": "604",
-          "abilityName": "孤高の夢",
-          "abilityDescription": "状態異常を無効化し、全スキルダメージ130％アップ",
+          "abilityName": "Aloof Dream",
+          "abilityDescription": "Immune to Status Effect and Skill Damage +130%",
           "abilityEffectDescription": "状態異常を無効化し、全スキルダメージ130％アップ",
           "effectIdx1": "82",
           "effectIdx2": "800",
@@ -16516,7 +16516,7 @@ window.ability=[
         },
         {
           "abilityId": "1869",
-          "abilityName": "Temporary Ability",
+          "abilityName": "Origin of Chakra",
           "abilityDescription": "Maximum Chakra +100 and SPD +150%",
           "abilityEffectDescription": "最大チャクラが100アップし、素早さが150％アップする",
           "effectIdx1": "813",
@@ -16525,7 +16525,7 @@ window.ability=[
         },
         {
           "abilityId": "1870",
-          "abilityName": "Temporary Ability",
+          "abilityName": "Rise of the Eye Jutsu",
           "abilityDescription": "Immune to Fixed Skill Damage and Cancel. For 3 turns, Immune to all Skills",
           "abilityEffectDescription": "受ける耐性無視スキルのダメージを0＆キャンセル無効＆3回行動まで耐性無視を含む全スキル無効",
           "effectIdx1": "1750",
@@ -16534,7 +16534,7 @@ window.ability=[
         },
         {
           "abilityId": "1871",
-          "abilityName": "Temporary Ability",
+          "abilityName": "Origin of Chakra",
           "abilityDescription": "Maximum Chakra +200 and SPD +200%",
           "abilityEffectDescription": "最大チャクラが200アップし、素早さが200％アップする",
           "effectIdx1": "20019",
@@ -16543,7 +16543,7 @@ window.ability=[
         },
         {
           "abilityId": "1872",
-          "abilityName": "Temporary Ability",
+          "abilityName": "Rise of the Eye Jutsu",
           "abilityDescription": "Immune to Fixed Skill Damage and Cancel. For 3 turns, Immune to all Skills",
           "abilityEffectDescription": "受ける耐性無視スキルのダメージを0＆キャンセル無効＆3回行動まで耐性無視を含む全スキル無効",
           "effectIdx1": "1750",

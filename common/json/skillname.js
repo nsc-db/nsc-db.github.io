@@ -4901,7 +4901,7 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "2404",
-          "name": "仮テキスト"
+          "name": "お前たちが憎い"
         },
         {
           "cardBattleSkillNameId": "2405",

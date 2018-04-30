@@ -14798,7 +14798,7 @@ window.skill=[
         {
           "cardBattleSkillId": "412",
           "nameIdx": "412",
-          "description": "敵単体に攻撃力7％＋2000のダメージを与え、さらに全体にもダメージを与える。",
+          "description": "Deal 7% + 2,000 to one enemy and his Surroundings",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "412",
@@ -14834,7 +14834,7 @@ window.skill=[
         {
           "cardBattleSkillId": "413",
           "nameIdx": "413",
-          "description": "敵単体に防御力を50％無視して4倍の攻撃力で攻撃する。",
+          "description": "Deal 4x ATK Damage to one enemy ignoring 50% DEF",
           "categoryId": "1",
           "levelType": "1",
           "scriptId": "413",
@@ -16274,7 +16274,7 @@ window.skill=[
         {
           "cardBattleSkillId": "453",
           "nameIdx": "453",
-          "description": "敵全体に攻撃力3％＋1000のダメージを与え、確率で炎上状態にする。【特殊状態：炎上】確率で炎による持続ダメージを与える。",
+          "description": "Deal 3% + 1,000 to all enemies with a chance to Burn",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "453",
@@ -30170,7 +30170,7 @@ window.skill=[
         {
           "cardBattleSkillId": "843",
           "nameIdx": "412",
-          "description": "敵単体に攻撃力7％＋10000のダメージを与え、自身が素早さアップ状態だとダメージ2倍。さらに全体にも大ダメージを与える。",
+          "description": "Deal 7% + 10,000 to one enemy and his Surroundings. Deal 2x damage when own SPD is buffed",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "843",
@@ -30206,7 +30206,7 @@ window.skill=[
         {
           "cardBattleSkillId": "844",
           "nameIdx": "413",
-          "description": "敵単体に防御力を50％無視して5倍の攻撃力で攻撃する。攻撃力アップ状態の敵にダメージ2.5倍。",
+          "description": "Deal 5x ATK damage to one enemy ignoring 50% DEF. Deal 2.5x damage when own ATK is buffed",
           "categoryId": "1",
           "levelType": "1",
           "scriptId": "844",
@@ -81938,7 +81938,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2315",
           "nameIdx": "374",
-          "description": "敵単体に攻撃力7％＋5000のダメージを与える。生存している木ノ葉隠れの里所属の味方が多いほどダメージが上がり最大7倍。スキル発動後、自身をスキル回避（高確率）状態にする。",
+          "description": "Deal 7% + 5,000 to one enemy. Deal more damage the more Konoha allies in the team, max 7x. " ,
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2315",
@@ -83881,8 +83881,8 @@ window.skill=[
         },
         {
           "cardBattleSkillId": "2371",
-          "nameIdx": "0",
-          "description": "Temporary Skill 1",
+          "nameIdx": "20100",
+          "description": "Deal 3% + 500,000 to all enemies. Deal 1.5x damage to enemies under God State \"Rabbit\". Deal 2x damage to \"Naruto Uzumaki\", \"Sasuke Uchiha\", \"Hashirama Senju\", \"Madara Uchiha\", \"Ashura Otsutsuki\", \"Indra Otsutsuki\", \"Hagoromo Otsutsuki\", and \"Hamura Otsutsuki\" [Always Hit]" ,
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2371",
@@ -83917,8 +83917,8 @@ window.skill=[
         },
         {
           "cardBattleSkillId": "2372",
-          "nameIdx": "0",
-          "description": "Temporary Skill 2",
+          "nameIdx": "2404",
+          "description": "Deal 10,000 fixed damage to all enemies with a high chance to inflict God State \"Rabbit\". Own Skill Damage +100% and Cast Speed +1. [God State Rabbit: Reduce HP and Chakra by 10% per turn. Cancel and Prevent Special State, Status Effect, Buff and Debuff]",
           "categoryId": "1",
           "levelType": "2",
           "scriptId": "100004",
@@ -83953,8 +83953,8 @@ window.skill=[
         },
         {
           "cardBattleSkillId": "2373",
-          "nameIdx": "0",
-          "description": "Temporary Skill 1",
+          "nameIdx": "20100",
+          "description": "Deal 3% + 999,999 to all enemies. Deal 2x damage to enemies under God State \"Rabbit\". Deal 3x damage to \"Naruto Uzumaki\", \"Sasuke Uchiha\", \"Hashirama Senju\", \"Madara Uchiha\", \"Ashura Otsutsuki\", \"Indra Otsutsuki\", \"Hagoromo Otsutsuki\", and \"Hamura Otsutsuki\" [Always Hit]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2373",
@@ -83989,8 +83989,8 @@ window.skill=[
         },
         {
           "cardBattleSkillId": "2374",
-          "nameIdx": "0",
-          "description": "Temporary Skill 2",
+          "nameIdx": "2404",
+          "description": "Deal 50,000 fixed damage to all enemies with a high chance to inflict God State \"Rabbit\". Own Skill Damage +200% and Cast Speed +2. [God State Rabbit: Reduce HP and Chakra by 20% per turn. Cancel and Prevent Special State, Status Effect, Buff and Debuff]",
           "categoryId": "1",
           "levelType": "2",
           "scriptId": "100004",
@@ -124814,7 +124814,7 @@ window.skill=[
         {
           "cardBattleSkillId": "100014",
           "nameIdx": "454",
-          "description": "敵単体に攻撃力7％＋1000のダメージを与え、スキル使用後に自身が団扇状態になる。【特殊状態：団扇】体術と木遁を除く、耐性無視を含む自身対象のスキル効果を半減（耐性アップは例外。キャンセルなど一部効果は無効化不可）、敵からの攻撃を受けるとスキルダメージアップ。（最大5回で500％）",
+          "description": "Deal 7% + 1,000 to one enemy and grant \"Fan\" state. [Fan: Incoming Skill Damage -50% (Including Fixed), except for Taijutsu and Wood. Increase Skill Damage when attacked (Max 500% after 5 hits) (Note: Effects from Skills such as Cancel Action and etc will still occur)]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "100014",
@@ -124850,7 +124850,7 @@ window.skill=[
         {
           "cardBattleSkillId": "100015",
           "nameIdx": "454",
-          "description": "敵単体に攻撃力7％＋10000のダメージを与え、スキル使用後に自身が団扇状態になる。【特殊状態：団扇】体術と木遁を除く、耐性無視を含む自身対象のスキル効果を半減（耐性アップは例外。キャンセルなど一部効果は無効化不可）、敵からの攻撃を受けるとスキルダメージアップ。（最大5回で600％）",
+          "description": "Deal 7% + 10,000 to one enemy and grant \"Fan\" state. [Fan: Incoming Skill Damage -50% (Including Fixed), except for Taijutsu and Wood. Increase Skill Damage when attacked (Max 600% after 5 hits) (Note: Effects from Skills such as Cancel Action and etc will still occur)]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "100014",
