@@ -4316,7 +4316,7 @@ window.tags=[
 {
           "cardId": "20040502",
           "rare": "5",
-          "tag": "temp",
+          "tag": "god",
           "rate": "50"
 },
 {
