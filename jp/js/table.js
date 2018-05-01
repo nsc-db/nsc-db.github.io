@@ -424,7 +424,7 @@ $(document).ready( function () {
 					$(this).attr('class', "list-group-item");	
 					table
 				 	.column(16)
-			     	.search(0, true, false)
+			     	.search("", true, false)
 			     	.draw();
 				}
 				else{
