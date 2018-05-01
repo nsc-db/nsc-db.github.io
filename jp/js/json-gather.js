@@ -236,7 +236,6 @@
 				 		unit:chara[0]
 					}
 				}
-				console.log(cards);
 				_buildCardModal(id, thumb, cards, cid);
 		   }
 		});
@@ -245,6 +244,8 @@
 	});
 
 	function _buildCardModal(id, thumb, cards, cid){
+		console.log(cid);
+
 		// Icon
 		checkImage('../common/assets/img/units/icons/thumb_' + cid + '_6.png', 
 			function(){
