@@ -1320,6 +1320,30 @@ window.vo=[
           "voiceDeath": "sakura_death_03_01"
         },
         {
+          "cardVoiceId": "111",
+          "cardId": "20040506",
+          "dirName": "deidara",
+          "evolutionStep": "",
+          "voiceAppear": "deidara_battle_02_02",
+          "voiceSkill1": "deidara_skill_02_02",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "deidara_win_02_02",
+          "voiceDeath": "deidara_death_02_01"
+        },
+        {
+          "cardVoiceId": "112",
+          "cardId": "20040507",
+          "dirName": "sasuke",
+          "evolutionStep": "",
+          "voiceAppear": "sasuke_battle_02_01",
+          "voiceSkill1": "sasuke_skill_02_02",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "sasuke_win_02_01",
+          "voiceDeath": "sasuke_death_02_01"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

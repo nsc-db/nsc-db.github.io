@@ -2552,7 +2552,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "761",
           "name": "C2ドラゴン",
-          "eng": ""
+          "eng": "C2 Dragon"
         },
         {
           "cardBattleSkillNameId": "762",
@@ -6160,6 +6160,11 @@ window.skillname=[
           "eng": "I'll Take Over!"
         },
         {
+          "cardBattleSkillNameId": "2411",
+          "name": "ポップは死んだ！",
+          "eng": "Dead in a Pop"
+        },
+        {
           "cardBattleSkillNameId": "2420",
           "name": "呪印・天雷",
           "eng": "Curse Seal: Thunder"
@@ -6173,6 +6178,28 @@ window.skillname=[
           "cardBattleSkillNameId": "2422",
           "name": "今は気分がいいぜ",
           "eng": "I'm Feeling Good Now"
+        },
+        {
+          "cardBattleSkillNameId": "2423",
+          "name": "抜刀・雷切",
+          "eng": "Blade: Raikiri"
+        },
+        {
+          "cardBattleSkillNameId": "2424",
+          "name": "掟は絶対だ",
+          "eng": "Law is Absolute"
+        },
+        {
+          "cardBattleSkillNameId": "2431",
+          "name": "仮"
+        },
+        {
+          "cardBattleSkillNameId": "2432",
+          "name": "仮"
+        },
+        {
+          "cardBattleSkillNameId": "2433",
+          "name": "仮"
         },
         {
           "cardBattleSkillNameId": "10136",

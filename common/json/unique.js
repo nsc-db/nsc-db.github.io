@@ -1,5 +1,5 @@
 window.unique=[
-               {
+        {
           "crystalOverwriteEffectId": "1",
           "targetCrystal": "115",
           "description": "最大HPと攻撃力が40%アップし、仙術スキルのダメージが100%アップ",
@@ -1155,11 +1155,11 @@ window.unique=[
           "crystalOverwriteEffectId": "97",
           "targetCrystal": "203",
           "description": "全スキルダメージを軽減し、最大HPと防御力が30％アップする",
-          "charaIds": "",
+          "charaIds": "210",
           "cardIds": "20001723,20001724,20001725,20001726,20001807",
-          "charaGroupIds": "",
+          "charaGroupIds": "0",
           "effectIdx1": "20500",
-          "effectIdx2": "536",
+          "effectIdx2": "470",
           "effectIdx3": "373",
           "effectIdx4": "0"
         },
@@ -5559,7 +5559,7 @@ window.unique=[
           "crystalOverwriteEffectId": "471",
           "targetCrystal": "712",
           "description": "写輪眼タイプのスキルダメージ50％アップ、受ける写輪眼・輪廻眼・輪廻写輪眼を半減(杉山紀彰さん考案)",
-          "charaIds": "11601,11602,11603,201,202,203,204,205,206,207,208",
+          "charaIds": "11601,11602,11603,201,202,203,204,205,206,207,208,210",
           "cardIds": "0",
           "charaGroupIds": "0",
           "effectIdx1": "241",
@@ -7137,6 +7137,66 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "11099",
           "effectIdx3": "0",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "606",
+          "targetCrystal": "10526",
+          "description": "最大HPと攻撃力と防御力が100％アップ、ダメージを受けるとHP10％回復",
+          "charaIds": "1701",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "684",
+          "effectIdx2": "11099",
+          "effectIdx3": "12099",
+          "effectIdx4": "191"
+        },
+        {
+          "crystalOverwriteEffectId": "607",
+          "targetCrystal": "10527",
+          "description": "全スキルダメージと攻撃力100％アップ、さらに武器タイプのスキルダメージ50％アップ",
+          "charaIds": "1701",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "774",
+          "effectIdx2": "11099",
+          "effectIdx3": "501",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "608",
+          "targetCrystal": "10504",
+          "description": "攻撃力と全スキルダメージが100％アップし、弱体半減",
+          "charaIds": "12001",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "11099",
+          "effectIdx2": "774",
+          "effectIdx3": "745",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "609",
+          "targetCrystal": "10509",
+          "description": "最大HPと攻撃力が120％アップし、素早さが50％アップする",
+          "charaIds": "204,207,210",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1221",
+          "effectIdx2": "736",
+          "effectIdx3": "13049",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "610",
+          "targetCrystal": "10510",
+          "description": "高確率でスキルを回避、スキルダメージと通常攻撃回避率80％アップ",
+          "charaIds": "204,207,210",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "968",
+          "effectIdx2": "1762",
+          "effectIdx3": "694",
           "effectIdx4": "0"
         }
 ]

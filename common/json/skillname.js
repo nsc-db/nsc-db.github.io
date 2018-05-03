@@ -4928,12 +4928,36 @@ window.skillname=[
           "name": "それじゃ…やるわよ！"
         },
         {
+          "cardBattleSkillNameId": "2411",
+          "name": "ポップは死んだ！"
+        },
+        {
           "cardBattleSkillNameId": "2420",
           "name": "呪印・天雷"
         },
         {
           "cardBattleSkillNameId": "2421",
           "name": "雷遁・雷黎熱刀"
+        },
+        {
+          "cardBattleSkillNameId": "2423",
+          "name": "抜刀・雷切"
+        },
+        {
+          "cardBattleSkillNameId": "2424",
+          "name": "掟は絶対だ"
+        },
+        {
+          "cardBattleSkillNameId": "2431",
+          "name": "仮"
+        },
+        {
+          "cardBattleSkillNameId": "2432",
+          "name": "仮"
+        },
+        {
+          "cardBattleSkillNameId": "2433",
+          "name": "仮"
         },
         {
           "cardBattleSkillNameId": "2422",

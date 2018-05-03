@@ -16605,6 +16605,78 @@ window.ability=[
           "effectIdx3": "774"
         },
         {
+          "abilityId": "1879",
+          "abilityName": "爆裂する感性",
+          "abilityDescription": "攻撃力と素早さとスキルダメージが100％アップする",
+          "abilityEffectDescription": "攻撃力と素早さとスキルダメージが100％アップする",
+          "effectIdx1": "11099",
+          "effectIdx2": "13099",
+          "effectIdx3": "774"
+        },
+        {
+          "abilityId": "1880",
+          "abilityName": "起爆粘土使い",
+          "abilityDescription": "5回行動するまで雷遁と写輪眼以外の全スキルダメージを無効化する",
+          "abilityEffectDescription": "5回行動するまで雷遁と写輪眼以外の全スキルダメージを無効化する",
+          "effectIdx1": "1757",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1881",
+          "abilityName": "仮",
+          "abilityDescription": "仮",
+          "abilityEffectDescription": "仮",
+          "effectIdx1": "264",
+          "effectIdx2": "774",
+          "effectIdx3": "1758"
+        },
+        {
+          "abilityId": "1882",
+          "abilityName": "仮",
+          "abilityDescription": "仮",
+          "abilityEffectDescription": "仮",
+          "effectIdx1": "1759",
+          "effectIdx2": "1760",
+          "effectIdx3": "1761"
+        },
+        {
+          "abilityId": "1901",
+          "abilityName": "隻眼の剣士",
+          "abilityDescription": "最大HPと攻撃力が80％アップする",
+          "abilityEffectDescription": "最大HPと攻撃力が80％アップする",
+          "effectIdx1": "649",
+          "effectIdx2": "11079",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1902",
+          "abilityName": "雷断ち切る剣の冴え",
+          "abilityDescription": "行動後にHPが10％回復＆確率でスキル発動速度が1段階アップ",
+          "abilityEffectDescription": "行動後にHPが10％回復＆確率でスキル発動速度が1段階アップ",
+          "effectIdx1": "357",
+          "effectIdx2": "1520",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1911",
+          "abilityName": "仮",
+          "abilityDescription": "仮",
+          "abilityEffectDescription": "仮",
+          "effectIdx1": "10069",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1912",
+          "abilityName": "仮",
+          "abilityDescription": "仮",
+          "abilityEffectDescription": "仮",
+          "effectIdx1": "20001",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

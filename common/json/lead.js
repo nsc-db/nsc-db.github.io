@@ -9398,5 +9398,56 @@ window.lead=[
           "target2Category": "0",
           "target2Param": "0"
         },
-
+        {
+          "cardLeaderSkillId": "730",
+          "name": "若武者漫遊伝",
+          "description": "全属性の攻撃力が30％アップする",
+          "effectIdx1": "182",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "731",
+          "name": "創造と破壊",
+          "description": "心属性の素早さとスキルダメージを60％アップする",
+          "effectIdx1": "13059",
+          "effectIdx2": "678",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "732",
+          "name": "仮",
+          "description": "仮",
+          "effectIdx1": "11049",
+          "effectIdx2": "682",
+          "effectIdx3": "0",
+          "compType": "2",
+          "target1Category": "1",
+          "target1Param": "6",
+          "target2Category": "1",
+          "target2Param": "7"
+        },
+        {
+          "cardLeaderSkillId": "736",
+          "name": "仮",
+          "description": "仮",
+          "effectIdx1": "1221",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "8",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
 ]
