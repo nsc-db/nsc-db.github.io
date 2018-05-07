@@ -1,0 +1,109 @@
+body{
+	background: white;
+	background-image: url("http://i.imgur.com/d7mHBPO.png");
+}
+
+table.att{
+	width: 100%;
+	border: 1px solid black;
+	
+}
+table.att tr{
+	border: 1px solid;
+}
+table.att th, td{
+	padding: 2mm;
+}
+strong.specialName{
+	font-size: 14px;
+}
+
+
+table.lead{
+	width: 124%;
+	font-size: 15px;
+	border: 1px solid black;
+}
+table.lead th, td{
+	padding: 2mm;
+}
+table.lead tr{
+	border: 1px solid black;
+	height: 30px;
+}
+//Nature Color
+td#none{
+	color: black;
+}
+td#fire{
+	color : red;
+}
+td#lightning{
+	color: blue;
+}
+td#wind{
+	color: green;
+}
+td#water{
+	color: #B3CCFF;
+}
+td#unique{
+	color: silver;
+}
+td#sage{
+	color: #3BCFC8;
+}
+td#sealing{
+	color: #6C5F7B;
+}
+td#raijin{
+	color: #F1CA4F;
+}
+td#magnet{
+	color: black;
+}
+td#sharingan{
+	color: red;
+}
+td#tolerance{
+	color: red;
+}
+
+td#tech{
+	color: blue;
+}
+td#mind{
+	color: black;
+}
+td#courage{
+	color: grey;
+}
+td#body{
+	color: red;
+}
+td#heart{
+	color: yellow;
+}
+td#chakra{
+	color: #939FC5;
+}
+td#status{
+	color: #660000;
+}
+td#ae{
+	color: #FFA500;
+}
+td#skill{
+	color: #FFFF00;
+}
+
+
+//Image
+h1{
+	text-align: right;
+}
+img{
+	display: block;
+	margin: 0 auto;
+}
+

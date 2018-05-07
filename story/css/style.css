@@ -1,0 +1,483 @@
+body{
+	color: #323232;
+	background-color: #e9eaee;
+	background-position: left top;
+	background-size: 100%;
+	background-image: url(../img/bg-header-3.jpg);
+	background-repeat: no-repeat;
+	font-family: 'Arial', sans-serif;
+}
+
+.story-button{
+	padding: 20px;
+}
+
+.chapter{
+	text-align: center;
+	padding: 10px;
+}
+
+.story-title{
+	text-align: center;
+	color: red;
+	size: 32px;
+	padding: 10px;
+}
+.story-table{
+	table-layout:fixed;
+	width: 110%;
+	margin-top: 10px;
+	border: 1px solid black;
+	padding: 5px;
+	border-top: 1px solid black;
+
+
+}
+
+::-webkit-scrollbar {
+	display: none;
+}
+#rates-percent{
+	padding: 5px;
+}
+table, th, td{
+	border: 1px solid black;
+	border-collapse: collapse;
+	padding: 5px;
+}
+
+}.dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.dropbtn:hover, .dropbtn:focus {
+    background-color: #3e8e41;
+}
+
+#myInput {
+    border-box: box-sizing;
+    background-image: url('searchicon.png');
+    background-position: 14px 12px;
+    background-repeat: no-repeat;
+    font-size: 16px;
+    padding: 14px 20px 12px 45px;
+    border: none;
+    border-bottom: 1px solid #ddd;
+}
+
+#myInput:focus {outline: 3px solid #ddd;}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f6f6f6;
+    min-width: 230px;
+    overflow: auto;
+    border: 1px solid #ddd;
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown a:hover {background-color: #ddd}
+
+.show {display:block;}
+.button{
+	margin-top: 5px;
+}
+.banner{
+	padding: 2px;
+	margin-left: 10%;
+}
+.char{
+	padding: 2.5%;
+}
+
+.card{
+	margin-top: -10px;
+}
+
+.rates{
+	margin-left: 4%;
+	padding: 25px;
+}
+.base-header {
+	color: #323232;
+	overflow: hidden;
+	margin: 24px 0 0 0;
+	padding: 36px 0 0 0;
+	border-radius: 12px 12px 0 0;
+}
+
+.base-header h1,
+.base-header h2 {
+	margin: 0; padding: 0;
+}
+
+.base-header h1 {
+	color: #ffffff;
+	font-size: 30px;
+	font-weight: bold;
+	letter-spacing: 1px;
+	margin: 36px 0 12px 0;
+}
+
+.base-header h1 span {
+	color: #ffffff;
+}
+
+.base-header p {
+	border-radius: 12px;
+	background-color: #ffffff;
+	display: inline-block;
+	padding: 4px 36px;
+	box-shadow: 0 0 60px rgba(0,0,0,0.1);
+}
+
+.base-header a {
+	color: #5694ff;
+	text-decoration: underline;
+}
+
+.base-menu {
+	margin: 48px 0 0 0; padding: 8px 0;
+	background-color: rgba(53,70,94,0.72);
+}
+
+.base-menu ul {
+	list-style: none;
+	margin: 0 30px; padding: 0;
+}
+
+.base-menu ul li {
+	margin: 0 12px 0 0; padding: 0;
+	display: inline-block;
+}
+
+.base-menu ul li a {
+	display: block;
+	color: #ffffff;
+	font-size: 11px;
+	text-decoration: none;
+	transition: all .3s ease;
+	text-transform: uppercase;
+	margin: 0; padding: 4px 12px;
+}
+
+.base-menu ul li a i {
+	font-weight: bold;
+	margin: 0 4px 0 0;
+}
+
+.base-menu ul li.active a {
+	color: #858585;
+	border-radius: 18px;
+	background-color: #ffffff;
+}
+
+.base-content {
+    background: #ffffff;
+    box-shadow: 0px 2px 12px rgba(0,0,0,0.2);
+	margin: 0px 0 24px 0; padding: 36px;
+}
+
+.base-content .alert {
+	font-size: 12px;
+	padding: 12px;
+}
+
+.base-content h2 {
+	color: #3871d3;
+	font-size: 24px;
+	font-weight: bold;
+	margin: 0; padding: 0;
+}
+
+h2.name{
+	color: #3871d3;
+	font-size: 12px;
+	font-weight: bold;
+	margin: 0; padding: 0;
+}
+
+p.subname{
+	font-size: 10px;
+	font-weight: bold;
+	margin: 0; padding: 0;
+}
+
+td a {
+	color: #858585;
+	pointer-events: none;
+}
+
+td.affiliation[affiliation="“暁”" i] {
+	width: 60px; height: 60px;
+	background-position: center;
+	background-size: 60px;
+	background-repeat: no-repeat;
+	background-image: url(../img/belong/akatsuki.png);
+}
+
+td.affiliation[affiliation="雨" i] {
+	width: 60px; height: 60px;
+	background-position: center;
+	background-size: 60px;
+	background-repeat: no-repeat;
+	background-image: url(../img/belong/ame.png);
+}
+
+td.affiliation[affiliation="“蛇”" i] {
+	width: 60px; height: 60px;
+	background-position: center;
+	background-size: 60px;
+	background-repeat: no-repeat;
+	background-image: url(../img/belong/hebi.png);
+}
+
+td.affiliation[affiliation="鉄" i] {
+	width: 60px; height: 60px;
+	background-position: center;
+	background-size: 60px;
+	background-repeat: no-repeat;
+	background-image: url(../img/belong/iron.png);
+}
+
+td.affiliation[affiliation="岩" i] {
+	width: 60px; height: 60px;
+	background-position: center;
+	background-size: 60px;
+	background-repeat: no-repeat;
+	background-image: url(../img/belong/iwa.png);
+}
+
+td.affiliation[affiliation="霧" i] {
+	width: 60px; height: 60px;
+	background-position: center;
+	background-size: 60px;
+	background-repeat: no-repeat;
+	background-image: url(../img/belong/Kiri.png);
+}
+
+td.affiliation[affiliation="木ノ葉" i] {
+	width: 60px; height: 60px;
+	background-position: center;
+	background-size: 60px;
+	background-repeat: no-repeat;
+	background-image: url(../img/belong/konoha.png);
+}
+
+td.affiliation[affiliation="雲" i]  {
+	width: 60px; height: 60px;
+	background-position: center;
+	background-size: 60px;
+	background-repeat: no-repeat;
+	background-image: url(../img/belong/kumo.png);
+}
+
+td.affiliation[affiliation="その他" i] {
+	width: 60px; height: 60px;
+	background-position: center;
+	background-size: 60px;
+	background-repeat: no-repeat;
+	background-image: url(../img/belong/none.png);
+}
+
+td.affiliation[affiliation="音" i] {
+	width: 60px; height: 60px;
+	background-position: center;
+	background-size: 60px;
+	background-repeat: no-repeat;
+	background-image: url(../img/belong/oto.png);
+}
+
+td.affiliation[affiliation="砂" i] {
+	width: 60px; height: 60px;
+	background-position: center;
+	background-size: 60px;
+	background-repeat: no-repeat;
+	background-image: url(../img/belong/suna.png);
+}
+
+td.affiliation[affiliation="“鷹”" i] {
+	width: 60px; height: 60px;
+	background-position: center;
+	background-size: 60px;
+	background-repeat: no-repeat;
+	background-image: url(../img/belong/taka.png);
+}
+
+td.affiliation[affiliation="滝" i] {
+	width: 60px; height: 60px;
+	background-position: center;
+	background-size: 60px;
+	background-repeat: no-repeat;
+	background-image: url(../img/belong/taki.png);
+}
+
+td.rarity[rarity="1" i] {
+	width: 60px; height: 60px;
+	background-position: center;
+	background-size: 30px;
+	background-repeat: no-repeat;
+	background-image: url(../img/rarity/1.png);
+}
+
+td.rarity[rarity="2" i] {
+	width: 60px; height: 60px;
+	background-position: center;
+	background-size: 30px;
+	background-repeat: no-repeat;
+	background-image: url(../img/rarity/2.png);
+}
+
+td.rarity[rarity="3" i] {
+	width: 60px; height: 60px;
+	background-position: center;
+	background-size: 30px;
+	background-repeat: no-repeat;
+	background-image: url(../img/rarity/3.png);
+}
+
+td.rarity[rarity="4" i] {
+	width: 60px; height: 60px;
+	background-position: center;
+	background-size: 30px;
+	background-repeat: no-repeat;
+	background-image: url(../img/rarity/4.png);
+}
+
+td.rarity[rarity="5" i] {
+	width: 60px; height: 60px;
+	background-position: center;
+	background-size: 30px;
+	background-repeat: no-repeat;
+	background-image: url(../img/rarity/5.png);
+}
+
+td.rarity[rarity="6" i] {
+	width: 60px; height: 60px;
+	background-position: center;
+	background-size: 30px;
+	background-repeat: no-repeat;
+	background-image: url(../img/rarity/6.png);
+}
+
+.news-box {
+	cursor: pointer;
+	display: block;
+	overflow: hidden;
+	border-radius: 1px;
+	margin: 0 0 18px 0;
+    background-color: #ffffff;
+	box-shadow: 0 0 60px rgba(0,0,0,0.12);
+	transition: all .3s ease;
+}
+
+.news-box:hover {
+	text-decoration: none;
+}
+
+.news-box .img {
+	flex: 100%;
+	background-size: cover;
+	width: 100%; height: 96px;
+	border-bottom: 1px solid #cccccc;
+}
+
+.news-box .base {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	border: 1px solid #cccccc;
+	background-color: #9fa54f;
+}
+
+.news-box .base.event  {
+	background-color: #a16756;
+}
+.news-box .base.gacha  {
+	background-color: #5294a4;
+}
+.news-box .base.sale  {
+	background-color: #9d8753;
+}
+
+.news-box .base .category {
+	flex: 1;
+	text-align: center;
+	font-size: 12px;
+	color: #ffffff;
+	padding: 4px 8px;
+}
+
+.news-box .base h4 {
+	flex: 5;
+	color: #9fa54f;
+	font-size: 14px;
+	background-color: #ffffff;
+	margin: 0; padding: 12px 8px;
+}
+
+.news-box .base.event h4 {
+	color: #a16756;
+}
+.news-box .base.gacha h4 {
+	color: #5294a4;
+}
+.news-box .base.sale h4 {
+	color: #9d8753;
+}
+
+
+.news-line {
+	cursor: pointer;
+	display: block;
+    overflow: hidden;
+	border-radius: 1px;
+	margin: 0 0 18px 0;
+    background-color: #ffffff;
+	box-shadow: 0 0 60px rgba(0,0,0,0.12);
+}
+
+.news-line:hover {
+	text-decoration: none;
+}
+
+.news-line h4 {
+	color: #a16756;
+	font-size: 14px;
+	margin: 0; padding: 12px;
+	background: #ffffff;
+}
+
+.news-line.urgent h4 {
+	color: #cb123e;
+	font-weight: bold;
+}
+
+.footer {
+	text-align: center;
+	margin: 36px 0 0 0;
+}
+
+.footer p {
+	color: #858585;
+	font-size: 12px;
+	margin: 0; padding: 0;
+}
