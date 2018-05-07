@@ -16622,20 +16622,20 @@ window.ability=[
           "effectIdx2": "0",
           "effectIdx3": "0"
         },
-        {
+         {
           "abilityId": "1881",
-          "abilityName": "仮",
-          "abilityDescription": "仮",
-          "abilityEffectDescription": "仮",
+          "abilityName": "雷響する復讐心",
+          "abilityDescription": "攻撃力とスキルダメージが100%アップ。HPが50%以下の時、さらにスキルダメージが100%アップ。",
+          "abilityEffectDescription": "攻撃力とスキルダメージが100%アップ。HPが50%以下の時、さらにスキルダメージが100%アップ。",
           "effectIdx1": "264",
           "effectIdx2": "774",
           "effectIdx3": "1758"
         },
         {
           "abilityId": "1882",
-          "abilityName": "仮",
-          "abilityDescription": "仮",
-          "abilityEffectDescription": "仮",
+          "abilityName": "瞳力の真骨頂",
+          "abilityDescription": "HPが10％以下の時にスキル発動速度1段階アップ＆99％の確率でスキル回避＆全スキル無効",
+          "abilityEffectDescription": "HPが10％以下の時にスキル発動速度1段階アップ＆99％の確率でスキル回避＆全スキル無効",
           "effectIdx1": "1759",
           "effectIdx2": "1760",
           "effectIdx3": "1761"
@@ -16660,18 +16660,18 @@ window.ability=[
         },
         {
           "abilityId": "1911",
-          "abilityName": "仮",
-          "abilityDescription": "仮",
-          "abilityEffectDescription": "仮",
+          "abilityName": "好奇心の白",
+          "abilityDescription": "最大HPが70％アップする",
+          "abilityEffectDescription": "最大HPが70％アップする",
           "effectIdx1": "10069",
           "effectIdx2": "0",
           "effectIdx3": "0"
         },
         {
           "abilityId": "1912",
-          "abilityName": "仮",
-          "abilityDescription": "仮",
-          "abilityEffectDescription": "仮",
+          "abilityName": "策謀の黒",
+          "abilityDescription": "最大チャクラ量が20アップする",
+          "abilityEffectDescription": "最大チャクラ量が20アップする",
           "effectIdx1": "20001",
           "effectIdx2": "0",
           "effectIdx3": "0"
@@ -17026,5 +17026,23 @@ window.ability=[
           "effectIdx1": "794",
           "effectIdx2": "1710",
           "effectIdx3": "0"
-        }
+        },
+        {
+          "abilityId": "100016",
+          "abilityName": "好奇心の白",
+          "abilityDescription": "最大HPが100％アップし、行動後にHPが15％回復する",
+          "abilityEffectDescription": "最大HPが100％アップし、行動後にHPが15％回復する",
+          "effectIdx1": "684",
+          "effectIdx2": "735",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "100017",
+          "abilityName": "策謀の黒",
+          "abilityDescription": "最大チャクラ量が50アップし、行動後チャクラが10％回復する",
+          "abilityEffectDescription": "最大チャクラ量が50アップし、行動後チャクラが10％回復する",
+          "effectIdx1": "689",
+          "effectIdx2": "528",
+          "effectIdx3": "0"
+        },
 ]

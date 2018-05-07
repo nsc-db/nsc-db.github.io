@@ -13739,7 +13739,7 @@ window.gear=[
           "saleMoney": "2500",
           "crystalName": "鯉のぼり（ひ鯉）",
           "crystalDescription": "チャクラ消費量が30％減少し、行動後にチャクラが15%回復する",
-          "crystalImageId": "105074",
+          "crystalImageId": "105054",
           "recipeId": "10507",
           "recipeName": "鯉のぼり（ひ鯉）"
         },
@@ -13755,7 +13755,7 @@ window.gear=[
           "saleMoney": "2500",
           "crystalName": "鯉のぼり（ひ鯉）",
           "crystalDescription": "全スキルダメージを80％アップする",
-          "crystalImageId": "105075",
+          "crystalImageId": "105055",
           "recipeId": "10508",
           "recipeName": "鯉のぼり（ひ鯉）"
         },
@@ -13769,11 +13769,11 @@ window.gear=[
           "effectIdx4": "0",
           "money": "30000",
           "saleMoney": "2500",
-          "crystalName": "仮",
+          "crystalName": "サスケの包帯",
           "crystalDescription": "最大HPと攻撃力が50％アップする",
           "crystalImageId": "105095",
           "recipeId": "10509",
-          "recipeName": "仮"
+          "recipeName": "サスケの包帯"
         },
         {
           "crystalId": "10510",
@@ -13785,11 +13785,11 @@ window.gear=[
           "effectIdx4": "0",
           "money": "30000",
           "saleMoney": "2500",
-          "crystalName": "仮",
+          "crystalName": "ｻｽｹの“蛇”のﾏﾝﾄ",
           "crystalDescription": "確率でスキルを回避する",
           "crystalImageId": "105105",
           "recipeId": "10510",
-          "recipeName": "仮"
+          "recipeName": "ｻｽｹの“蛇”のﾏﾝﾄ"
         },
         {
           "crystalId": "10525",

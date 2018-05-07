@@ -16624,18 +16624,18 @@ window.ability=[
         },
         {
           "abilityId": "1881",
-          "abilityName": "仮",
-          "abilityDescription": "仮",
-          "abilityEffectDescription": "仮",
+          "abilityName": "Vengeful Lightning",
+          "abilityDescription": "ATK and Skill Damage +50%. Additional +100% Skill Damage when HP is below 50%",
+          "abilityEffectDescription": "攻撃力とスキルダメージが100%アップ。HPが50%以下の時、さらにスキルダメージが100%アップ。",
           "effectIdx1": "264",
           "effectIdx2": "774",
           "effectIdx3": "1758"
         },
         {
           "abilityId": "1882",
-          "abilityName": "仮",
-          "abilityDescription": "仮",
-          "abilityEffectDescription": "仮",
+          "abilityName": "True Power of the Eye",
+          "abilityDescription": "Cast Speed +1, 99% chance to dodge Skills and Immune to all Skills when HP is below 10% ",
+          "abilityEffectDescription": "HPが10％以下の時にスキル発動速度1段階アップ＆99％の確率でスキル回避＆全スキル無効",
           "effectIdx1": "1759",
           "effectIdx2": "1760",
           "effectIdx3": "1761"
@@ -16660,18 +16660,18 @@ window.ability=[
         },
         {
           "abilityId": "1911",
-          "abilityName": "仮",
-          "abilityDescription": "仮",
-          "abilityEffectDescription": "仮",
+          "abilityName": "White Inquisitiveness",
+          "abilityDescription": "Maximum HP +70%",
+          "abilityEffectDescription": "最大HPが70％アップする",
           "effectIdx1": "10069",
           "effectIdx2": "0",
           "effectIdx3": "0"
         },
         {
           "abilityId": "1912",
-          "abilityName": "仮",
-          "abilityDescription": "仮",
-          "abilityEffectDescription": "仮",
+          "abilityName": "Black Strategies",
+          "abilityDescription": "Maximum Chakra +20",
+          "abilityEffectDescription": "最大チャクラ量が20アップする",
           "effectIdx1": "20001",
           "effectIdx2": "0",
           "effectIdx3": "0"
@@ -17026,5 +17026,23 @@ window.ability=[
           "effectIdx1": "794",
           "effectIdx2": "1710",
           "effectIdx3": "0"
-        }
+        },
+        {
+          "abilityId": "100016",
+          "abilityName": "White Inquisitiveness",
+          "abilityDescription": "Maximum HP +100% and HP Regen +15%",
+          "abilityEffectDescription": "最大HPが100％アップし、行動後にHPが15％回復する",
+          "effectIdx1": "684",
+          "effectIdx2": "735",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "100017",
+          "abilityName": "Black Strategies",
+          "abilityDescription": "Maximum Chakra +50 and Chakra Recovery +10%",
+          "abilityEffectDescription": "最大チャクラ量が50アップし、行動後チャクラが10％回復する",
+          "effectIdx1": "689",
+          "effectIdx2": "528",
+          "effectIdx3": "0"
+        },
 ]

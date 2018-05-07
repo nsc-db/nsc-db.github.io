@@ -9424,10 +9424,10 @@ window.lead=[
           "target2Category": "0",
           "target2Param": "0"
         },
-        {
+       {
           "cardLeaderSkillId": "732",
-          "name": "仮",
-          "description": "仮",
+          "name": "闇穿つ雷霆",
+          "description": "Intellect and Courage Type ATK and Skill Damage +50%",
           "effectIdx1": "11049",
           "effectIdx2": "682",
           "effectIdx3": "0",
@@ -9439,8 +9439,8 @@ window.lead=[
         },
         {
           "cardLeaderSkillId": "736",
-          "name": "仮",
-          "description": "仮",
+          "name": "白黒の狡猾者",
+          "description": "Akatsuki Characters Maximum HP +120%",
           "effectIdx1": "1221",
           "effectIdx2": "0",
           "effectIdx3": "0",

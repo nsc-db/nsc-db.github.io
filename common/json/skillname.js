@@ -4949,15 +4949,15 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "2431",
-          "name": "仮"
+          "name": "オレヲナメルナヨ"
         },
         {
           "cardBattleSkillNameId": "2432",
-          "name": "仮"
+          "name": "麒麟・衝炎"
         },
         {
           "cardBattleSkillNameId": "2433",
-          "name": "仮"
+          "name": "今のオレの眼は昔とは違う！"
         },
         {
           "cardBattleSkillNameId": "2422",

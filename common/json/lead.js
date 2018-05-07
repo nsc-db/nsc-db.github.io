@@ -9450,4 +9450,30 @@ window.lead=[
           "target2Category": "0",
           "target2Param": "0"
         },
+        {
+          "cardLeaderSkillId": "732",
+          "name": "闇穿つ雷霆",
+          "description": "知と勇属性の攻撃力とスキルダメージを50%アップする",
+          "effectIdx1": "11049",
+          "effectIdx2": "682",
+          "effectIdx3": "0",
+          "compType": "2",
+          "target1Category": "1",
+          "target1Param": "6",
+          "target2Category": "1",
+          "target2Param": "7"
+        },
+        {
+          "cardLeaderSkillId": "736",
+          "name": "白黒の狡猾者",
+          "description": "\"暁\"所属のHPが120％アップする",
+          "effectIdx1": "1221",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "8",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
 ]
