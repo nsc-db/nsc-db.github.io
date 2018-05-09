@@ -2507,7 +2507,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "749",
           "name": "口寄せ・穢土転生",
-          "eng": ""
+          "eng": "Summoning: Reanimation"
         },
         {
           "cardBattleSkillNameId": "750",
@@ -3052,12 +3052,12 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "973",
           "name": "砂漠層大葬",
-          "eng": ""
+          "eng": "Grant Sand Mausoleum"
         },
         {
           "cardBattleSkillNameId": "974",
           "name": "お前の相手はオレだ",
-          "eng": ""
+          "eng": "Your Opponent is Me"
         },
         {
           "cardBattleSkillNameId": "975",
@@ -3127,12 +3127,12 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "1001",
           "name": "十拳剣",
-          "eng": ""
+          "eng": "Totsuka Blade"
         },
         {
           "cardBattleSkillNameId": "1002",
           "name": "強がりはよせ…",
-          "eng": ""
+          "eng": "Final Bluff..."
         },
         {
           "cardBattleSkillNameId": "1004",
@@ -3207,12 +3207,12 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "1049",
           "name": "夜ガイ",
-          "eng": ""
+          "eng": "Yagai"
         },
         {
           "cardBattleSkillNameId": "1050",
           "name": "第七驚門…開!!",
-          "eng": ""
+          "eng": "Seventh Gate, Gate of Wonder... Open!!"
         },
         {
           "cardBattleSkillNameId": "1063",
@@ -3312,7 +3312,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "1139",
           "name": "…では始めますか",
-          "eng": ""
+          "eng": "...Shall We Begin"
         },
         {
           "cardBattleSkillNameId": "1144",
@@ -3382,32 +3382,32 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "1172",
           "name": "仙法・尾獣玉螺旋手裏剣",
-          "eng": ""
+          "eng": "Sage Style: Tailed Beast Rasenshuriken"
         },
         {
           "cardBattleSkillNameId": "1173",
           "name": "オレらで倒すんだってばよ",
-          "eng": ""
+          "eng": "You Ought to Beat Me?"
         },
         {
           "cardBattleSkillNameId": "1174",
           "name": "完成体・須佐能乎",
-          "eng": ""
+          "eng": "Complete Body: Susano'o"
         },
         {
           "cardBattleSkillNameId": "1175",
           "name": "行くぞ…！！",
-          "eng": ""
+          "eng": "Let's Go...!!"
         },
         {
           "cardBattleSkillNameId": "1176",
           "name": "地爆天星",
-          "eng": ""
+          "eng": "Planetary Devastation"
         },
         {
           "cardBattleSkillNameId": "1177",
           "name": "まだ踊れるな？",
-          "eng": ""
+          "eng": "Can You Still Dance?"
         },
         {
           "cardBattleSkillNameId": "1179",

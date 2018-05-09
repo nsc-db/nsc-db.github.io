@@ -34814,7 +34814,7 @@ window.skill=[
         {
           "cardBattleSkillId": "973",
           "nameIdx": "973",
-          "description": "敵全体に攻撃力3％＋2200のダメージを与え、砂状態にする。必中スキル【必中スキル】【特殊状態：砂】素早さを30%ダウンさせ、特殊状態「避（スキル回避）」を解除する",
+          "description": "Deal 3% + 2,200 to all enemies and inflict \"Sand\" state. [Sand: SPD -30%, Cancel the enemies' ability to Dodge Skills]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "973",
@@ -34850,7 +34850,7 @@ window.skill=[
         {
           "cardBattleSkillId": "974",
           "nameIdx": "974",
-          "description": "味方の防御力を200％アップし、敵から受ける全スキルダメージを半減する。体術・武器スキルの場合は無効化。",
+          "description": "All allies DEF +200%, Incoming Skill Damage -50%, and Immune to Taijutsu and Weapon Skill Damage.",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "3",
@@ -35822,7 +35822,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1001",
           "nameIdx": "1001",
-          "description": "敵単体に攻撃力7％＋4000のダメージを与え、確率で封印状態にする。さらに確率で会心が発生し、耐性無視の99,999の固定ダメージを与える。",
+          "description": "Deal 7% + 4,000 to one enemy with a Chance to Seal, and Crit dealing 99,999 Fixed Damage instead",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1001",
@@ -35858,7 +35858,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1002",
           "nameIdx": "1002",
-          "description": "確率で敵全体の攻撃力・防御力・素早さを60％ダウンし幻状態にする。",
+          "description": "Chance to reduce all enemies' ATK, DEF and/or SPD by 60% and inflict Genjutsu",
           "categoryId": "6",
           "levelType": "3",
           "scriptId": "3",
@@ -37514,7 +37514,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1049",
           "nameIdx": "1049",
-          "description": "敵単体に耐性無視の100,000ダメージ、自身が開状態の場合は500,000ダメージを与える。さらに自身のHPが99%減少し、尽状態になる。【特殊状態：尽】行動不能になる。【必中スキル】",
+          "description": "Deal 100,000 Fixed Damage to one enemy. While under \"Open\" State deal 500,000 instead. Grant \"Exhaust\" state and reduce HP by 99% afterwards. [Exhause: Action is disabled] [Always Hits]",
           "categoryId": "1",
           "levelType": "1",
           "scriptId": "1049",
@@ -37550,7 +37550,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1050",
           "nameIdx": "1050",
-          "description": "攻撃力と素早さを30%アップしスキル回避状態（低確率）を付与し、さらに開状態にする。スキル使用後にHPが下がる。【特殊状態：開】攻撃力が1900%アップする。",
+          "description": "Own ATK and SPD +30%, grant a Chance to Dodge Skills and \"Open\" state. [Open: ATK +1900%]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -40718,7 +40718,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1138",
           "nameIdx": "749",
-          "description": "敵単体に攻撃力7％＋3000のダメージを与える。敵が攻撃・防御・素早さがいずれかアップの時はダメージ2倍。自らが蘇状態だとダメージ2倍。合計最大4倍。",
+          "description": "Deal 7% + 3,000 to one enemy. Deal 2x more damage if the enemy's ATK, SPD or DEF is buffed. Deal 2x more damage while under \"Resurrection\" state. (Max 4x)",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1138",
@@ -40754,7 +40754,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1139",
           "nameIdx": "1139",
-          "description": "自身の防御力を100%アップし、蘇状態にする。【特殊状態：蘇】全スキルダメージ軽減状態になり、自身のHPが０になった時に1度だけHPが全回復する。1回発動すると蘇状態は解除される。",
+          "description": "Own DEF +100% and grant \"Resurrection\" state. [Resurrection: Reduce all incoming Skill Damage, when HP reach 0, revive and remove Resurrection state]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "3",
@@ -41942,7 +41942,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1172",
           "nameIdx": "1172",
-          "description": "敵単体に攻撃力7％＋2200のダメージを与え、自身が奮起状態の時にダメージ3倍。さらに全体にもダメージを与える。",
+          "description": "Deal 7% + 2,200 to one enemy and his Surroundings. Deal 3x more damage while under \"Rally\" state.",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1172",
@@ -41978,7 +41978,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1173",
           "nameIdx": "1173",
-          "description": "味方全体のHPが中回復し、奮起状態にする。【特殊状態：奮起】攻撃・防御・素早さが30%アップし、行動するたびにHPとチャクラが5%回復する。",
+          "description": "Recover a medium amount of HP to all allies and grant \"Rally\" state. [Rally: ATK, DEF and SPD +30%, HP Regen and Chakra Recovery +5%]",
           "categoryId": "2",
           "levelType": "8",
           "scriptId": "1173",
@@ -42014,7 +42014,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1174",
           "nameIdx": "1174",
-          "description": "敵単体に攻撃力7％＋2200のダメージを与え、確率で斬状態にする。 自身が戦気状態の時にダメージ3倍。【特殊状態：斬】スキル発動速度が1段階遅くなり、スキルダメージ30%ダウン。",
+          "description": "Deal 7% + 2,200 to one enemy with a Chance to inflict \"Cut\" state. Deal 3x more damage while under \"Battle\" state. [Cut: Cast Speed -1 and Skill Damage -30%]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1174",
@@ -42050,7 +42050,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1175",
           "nameIdx": "1175",
-          "description": "自身の攻撃力と防御力と素早さが100%アップし、弱体半減状態にする。スキル回避状態（高確率）を付与し、戦気状態となる。【特殊状態：戦気】スキルダメージが100%アップ。",
+          "description": "Own ATK, DEF and SPD +100%, Debuff effects -50% and grant \"Battle\" state and a high chance to dodge skills. [Battle: Skill Damage +100%]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "1175",
@@ -42086,7 +42086,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1176",
           "nameIdx": "48",
-          "description": "敵全体に攻撃力3％＋2000のダメージを与える。絶望状態相手にダメージ3倍。確率で行動をキャンセルする。",
+          "description": "Deal 5% + 2,000 to all enemies with a Chance to Cancel action. Deal 3x more damage to enemies under \"Despair\" state",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1176",
@@ -42122,7 +42122,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1177",
           "nameIdx": "1177",
-          "description": "自身の攻撃力とスキルダメージを100%アップさせ、敵全体を確率で絶望状態にする。【特殊状態：絶望】攻撃・防御・素早さアップ状態を解除し、確率で行動をキャンセルするようになる。",
+          "description": "Own ATK and Skill Damage +100%, with a Chance to inflict \"Despair\" state. [Despair: Remove ATK, DEF and SPD buff, Chance to Cancel action]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "1177",
@@ -42878,7 +42878,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1198",
           "nameIdx": "1172",
-          "description": "敵単体に攻撃力7％＋5000のダメージを与え、自身が奮起状態の時にダメージ4倍。知か勇属性の相手にはさらにダメージ2倍。さらに全体にも大ダメージを与える。",
+          "description": "Deal 7% + 5,000 to one enemies and his Surroundings. Deal 4x more damage while under \"Rally\" state. Deal 2x more damage to Intellect and Courage Type。",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1198",
@@ -42914,7 +42914,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1199",
           "nameIdx": "1173",
-          "description": "味方全体のHPが大回復し、奮起状態にする。【特殊状態：奮起】攻撃・防御・素早さが40%アップし、行動するたびにHPとチャクラが10%回復する",
+          "description": "Recover a large amount of HP to all allies and grant \"Rally\" state. [Rally: ATK, DEF and SPD +40%, HP Regen and Chakra Recovery +10%]",
           "categoryId": "2",
           "levelType": "8",
           "scriptId": "1199",
@@ -42950,7 +42950,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1200",
           "nameIdx": "1174",
-          "description": "敵単体に攻撃力7％＋4000のダメージを与え斬状態付与。自身が戦気状態でダメージ4倍、敵が斬状態でさらに2倍。【特殊状態：斬】スキル発動速度が1段階遅くなりスキルダメージ30%ダウン",
+          "description": "Deal 7% + 4,000 to one enemy with a Chance to inflict \"Cut\" state. Deal 4x more damage while under \"Battle\" state. Deal 2x more damage to enemies under \"Cut\" state. [Cut: Cast Speed -1, Skill Damage -30%] (Max 8x)",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1200",
@@ -42986,7 +42986,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1201",
           "nameIdx": "1175",
-          "description": "自身の攻撃力と防御力と素早さが120%アップし、弱体無効化。スキル回避状態（高確率）を付与、チャクラ消費20%減し、戦気状態となる。【特殊状態：戦気】スキルダメージが120%アップする。",
+          "description": "Own ATK, DEF and SPD +120%, Immune to Debuff, Chakra Cost -20% and grant \"Battle\" state and a high chance to dodge Skills. [Battle: Skill Damage +120%]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "1201",
@@ -43022,7 +43022,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1202",
           "nameIdx": "48",
-          "description": "敵全体に攻撃力3％＋4000のダメージを与え、高確率で行動をキャンセルする。絶望状態の相手にダメージ4倍。さらに体か技属性の相手にはさらにダメージ1.5倍。",
+          "description": "Deal 5% + 4,000 to all enemies with a High Chance to Cancel action. Deal 4x more damage to enemies under \"Despair.\" Deal 1.5x more damage to Body and Technique Type. (Max 6x)",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1202",
@@ -43058,7 +43058,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1203",
           "nameIdx": "1177",
-          "description": "自身の攻撃力と防御とスキルダメージを150%アップさせ、敵全体を絶望状態にする。【特殊状態：絶望】攻撃・防御・素早さアップ状態を解除し、確率で行動をキャンセルするようになる。",
+          "description": "Own ATK and Skill Damage +150%, with a Chance to inflict \"Despair\" state. [Despair: Remove ATK, DEF and SPD buff, Chance to Cancel action]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "1203",
@@ -49538,7 +49538,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1383",
           "nameIdx": "749",
-          "description": "敵単体に攻撃力7％＋6000のダメージを与え、スキル発動速度を1段階下げる。敵が攻撃・防御・素早さがいずれかアップの時はダメージ2倍。自らが蘇状態だとダメージ3倍。合計最大6倍。",
+          "description": "Deal 7% + 6,000 to one enemy and lower Cast Speed by 1. Deal 2x more damage if the enemy's ATK, SPD or DEF is buffed. Deal 3x more damage while under \"Resurrection\" state. (Max 6x)",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1383",
@@ -49574,7 +49574,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1384",
           "nameIdx": "1139",
-          "description": "自身の攻撃力と防御力を100%アップし、蘇状態にする。【特殊状態：蘇】全スキルダメージ軽減状態になり、自身のHPが０になった時に1度だけHPが全回復。1回発動すると解除される。",
+          "description": "Own ATK and DEF +100% and grant \"Resurrection\" state. [Resurrection: Reduce all incoming Skill Damage, when HP reach 0, revive and remove Resurrection state]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "3",
@@ -54938,7 +54938,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1533",
           "nameIdx": "973",
-          "description": "敵全体に攻撃力3％＋10000のダメージを与え、砂状態にする。【必中スキル】【特殊状態：砂】スキル発動速度を１段階ダウン、素早さを30%ダウンし、特殊状態「避（スキル回避）」を解除する。",
+          "description": "Deal 3% + 10,000 to all enemies and place them in a \"Sand\" state. [Sand: Cast Speed -1 and SPD -30%, Cancel the enemies' ability to Dodge Skills]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "973",
@@ -54974,7 +54974,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1534",
           "nameIdx": "974",
-          "description": "しばらくの間、味方全体の防御力を250％アップ、全スキルダメージ半減。体術・武器スキルの場合は無効。さらに砂隠れの里所属キャラの場合、攻撃力とスキルダメージも100%アップする。",
+          "description": "All allies DEF +250%, and reduce all incoming Skill Damage by half, Immune to Taijutsu and Weapon Skill Damage. All ally Sand Character ATK and Skill Damage +100%",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -56594,7 +56594,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1579",
           "nameIdx": "1001",
-          "description": "敵単体に耐性無視の300,000の固定ダメージを与え、高確率で封印状態にする。ただし、十拳剣使用後に、自身のHPが現在の70%減少する。【必中スキル】",
+          "description": "Deal 300,000 Fixed Damage to one enemy with a High Chance to Seal. Reduce own HP by 70% afterwards [Always Hits]",
           "categoryId": "1",
           "levelType": "2",
           "scriptId": "1579",
@@ -56630,7 +56630,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1580",
           "nameIdx": "1002",
-          "description": "高確率で敵全体の攻撃力・防御力・素早さを70％ダウンし幻状態にする。",
+          "description": "High Chance to reduce all enemies' ATK, DEF and/or SPD by 70% and inflict Genjutsu",
           "categoryId": "6",
           "levelType": "3",
           "scriptId": "100004",
@@ -68546,7 +68546,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1911",
           "nameIdx": "1049",
-          "description": "敵単体に耐性無視の500,000ダメージ、自身が開状態の場合は2,000,000ダメージを与える。さらに自身のHPが50%減少し、尽状態になる。【特殊状態：尽】行動不能になる。【必中スキル】",
+          "description": "Deal 500,000 Fixed Damage to one enemy. While under \"Open State\" deal 2,000,000 instead. Grant \"Exhaust\" state and reduce own HP by 50% afterwards. [Exhause: Action is disabled] [Always Hits]",
           "categoryId": "1",
           "levelType": "1",
           "scriptId": "1911",
@@ -68582,7 +68582,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1912",
           "nameIdx": "1050",
-          "description": "攻撃力と素早さを100%アップしスキル回避状態（中確率）を付与し、さらにしばらくの間、開状態にする。【特殊状態：開】攻撃力が3000%アップする。",
+          "description": "Own ATK and SPD +100%, grant a Medium Chance to Dodge Skills and \"Open\" state. [Open: ATK +3000%]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -83198,7 +83198,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2350",
           "nameIdx": "2372",
-          "description": "Own ATK, SPD and Skill Damage +120% and grant \"Rouse\" state. If one of the ally is an Intellect Type, grant \"Resolution\" state to all allies. [Resolution: ATK, DEF and SPD +50%, recovery 10% HP and Chakra when attacked] [Rouse: ATK, DEF and SPD +50%, HP Regen and Chakra Recovery +15%]",
+          "description": "Own ATK, SPD and Skill Damage +120% and grant \"Rally\" state. If one of the ally is an Intellect Type, grant \"Resolution\" state to all allies. [Resolution: ATK, DEF and SPD +50%, recovery 10% HP and Chakra when attacked] [Rally: ATK, DEF and SPD +50%, HP Regen and Chakra Recovery +15%]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",

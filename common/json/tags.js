@@ -1491,7 +1491,7 @@ window.tags=[
           "cardId": "20001613",
           "rare": "5",
           "tag": "ex-5",
-          "rate": "78"
+          "rate": "77"
 },
 {
           "cardId": "20001614",
@@ -1545,7 +1545,7 @@ window.tags=[
           "cardId": "20001622",
           "rare": "5",
           "tag": "ex-5",
-          "rate": "80"
+          "rate": "77"
 },
 {
           "cardId": "20001623",
@@ -1869,19 +1869,19 @@ window.tags=[
           "cardId": "20001676",
           "rare": "5",
           "tag": "ex-5",
-          "rate": "50"
+          "rate": "78"
 },
 {
           "cardId": "20001677",
           "rare": "5",
           "tag": "ex-5",
-          "rate": "50"
+          "rate": "80"
 },
 {
           "cardId": "20001678",
           "rare": "5",
           "tag": "ex-5",
-          "rate": "50"
+          "rate": "81"
 },
 {
           "cardId": "20001679",
@@ -4167,7 +4167,7 @@ window.tags=[
           "cardId": "20040313",
           "rare": "5",
           "tag": "pvp-reward",
-          "rate": "96"
+          "rate": "92"
 },
 {
           "cardId": "20040314",
@@ -4257,19 +4257,19 @@ window.tags=[
           "cardId": "20040409",
           "rare": "5",
           "tag": "ex-6",
-          "rate": "93"
+          "rate": "90"
 },
 {
           "cardId": "20040410",
           "rare": "5",
           "tag": "ex-6",
-          "rate": "93"
+          "rate": "96"
 },
 {
           "cardId": "20040411",
           "rare": "5",
           "tag": "ex-6",
-          "rate": "95"
+          "rate": "93"
 },
 {
           "cardId": "20040412",

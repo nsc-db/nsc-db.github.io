@@ -4279,7 +4279,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "330",
           "name": "確たる決意",
-          "description": "Courage Type HP +30%しATK and DEF +20%",
+          "description": "Courage Type HP +30%, ATK and DEF +20%",
           "effectIdx1": "470",
           "effectIdx2": "105",
           "effectIdx3": "106",
@@ -4409,7 +4409,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "340",
           "name": "虚構の月",
-          "description": "Akatsuki Characters ATK +30%、状態異常と弱体を軽減する",
+          "description": "Akatsuki Characters ATK +30%、reduce effect of Debuff and Status Effects",
           "effectIdx1": "182",
           "effectIdx2": "661",
           "effectIdx3": "738",
@@ -4526,7 +4526,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "349",
           "name": "終焉の紅き猛獣",
-          "description": "ATK とTaijutsu Skill Damage のダメージ+30%",
+          "description": "ATK and Taijutsu Skill Damage +30%",
           "effectIdx1": "182",
           "effectIdx2": "487",
           "effectIdx3": "0",
@@ -4708,7 +4708,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "363",
           "name": "狂気の渇望",
-          "description": "Oto Characters Maximum HP, ATK +20%、行動後にHP +10%回復",
+          "description": "Oto Characters Maximum HP and ATK +20%、HP Regen +10%",
           "effectIdx1": "218",
           "effectIdx2": "105",
           "effectIdx3": "52",
@@ -4812,7 +4812,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "371",
           "name": "授かりし力・陽",
-          "description": "Heart and Body Type ATK 、DEF 、SPD +40%",
+          "description": "Heart and Body Type ATK, DEF and SPD +40%",
           "effectIdx1": "11039",
           "effectIdx2": "12039",
           "effectIdx3": "13039",
@@ -4825,7 +4825,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "372",
           "name": "授かりし力・陰",
-          "description": "Technique and Intellect Type ATK 、DEF 、SPD +40%",
+          "description": "Technique and Intellect Type ATK, DEF and SPD +40%",
           "effectIdx1": "11039",
           "effectIdx2": "12039",
           "effectIdx3": "13039",
@@ -4838,7 +4838,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "373",
           "name": "六道の力",
-          "description": "輪廻眼、写輪眼のSkill Damage +40%",
+          "description": "Rinnegan and Sharingan Skill Damage +40%",
           "effectIdx1": "848",
           "effectIdx2": "849",
           "effectIdx3": "0",
