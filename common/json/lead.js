@@ -9438,6 +9438,19 @@ window.lead=[
           "target2Param": "7"
         },
         {
+          "cardLeaderSkillId": "733",
+          "name": "瞳に秘する宿願",
+          "description": "勇と知属性の素早さとスキルダメージを50%アップ",
+          "effectIdx1": "13049",
+          "effectIdx2": "682",
+          "effectIdx3": "0",
+          "compType": "2",
+          "target1Category": "1",
+          "target1Param": "7",
+          "target2Category": "1",
+          "target2Param": "6"
+        },
+        {
           "cardLeaderSkillId": "736",
           "name": "仮",
           "description": "仮",

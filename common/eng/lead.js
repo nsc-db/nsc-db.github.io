@@ -4578,7 +4578,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "353",
           "name": "目指すべき絆",
-          "description": "All Characters ATK +20%、行動後チャクラ+5%回復する",
+          "description": "All Characters ATK +20%、Chakra Recovery +5%",
           "effectIdx1": "105",
           "effectIdx2": "173",
           "effectIdx3": "0",
@@ -4929,7 +4929,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "380",
           "name": "己を貫き通す時",
-          "description": "ATK, DEF and SPD +20%させ、Taijutsu Skill Damage のダメージ+30%",
+          "description": "ATK, DEF and SPD +20%、Taijutsu Skill Damage +30%",
           "effectIdx1": "539",
           "effectIdx2": "487",
           "effectIdx3": "0",
@@ -5163,7 +5163,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "398",
           "name": "天才造形師",
-          "description": "Akatsuki Characters Maximum HP and DEF Skill Damage +30%",
+          "description": "Akatsuki Characters Maximum HP, DEF and Skill Damage +30%",
           "effectIdx1": "470",
           "effectIdx2": "373",
           "effectIdx3": "615",
@@ -5332,7 +5332,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "411",
           "name": "選択された未来",
-          "description": "Intellect and Heart Type Maximum HP Skill Damage +40%",
+          "description": "Intellect and Heart Type Maximum HP and Skill Damage +40%",
           "effectIdx1": "494",
           "effectIdx2": "30003",
           "effectIdx3": "0",
@@ -5345,7 +5345,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "412",
           "name": "断ち切る過去",
-          "description": "Courage and Technique Type Maximum HP Skill Damage +40%",
+          "description": "Courage and Technique Type Maximum HP abd Skill Damage +40%",
           "effectIdx1": "494",
           "effectIdx2": "30003",
           "effectIdx3": "0",
@@ -5423,7 +5423,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "418",
           "name": "究極の螺旋",
-          "description": "All Characters ATK と風遁・仙術タイプのSkill Damage +40%",
+          "description": "All Characters ATK, Wind and Sage Skill Damage +40%",
           "effectIdx1": "11039",
           "effectIdx2": "571",
           "effectIdx3": "361",
@@ -5475,7 +5475,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "422",
           "name": "忍の神と謳われし者",
-          "description": "All Characters Maximum HP, 攻撃+40%、行動後チャクラ5%回復する",
+          "description": "All Characters Maximum HP and ATK +40%, Chakra Recovery +5%",
           "effectIdx1": "10039",
           "effectIdx2": "11039",
           "effectIdx3": "29",
@@ -5566,7 +5566,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "429",
           "name": "殺戮の舞踏者",
-          "description": "Oto Characters Maximum HP +20%ダウン、ATK and Skill Damage 50%",
+          "description": "Oto Characters Maximum HP -20%、ATK and Skill Damage 50%",
           "effectIdx1": "232",
           "effectIdx2": "11049",
           "effectIdx3": "30004",
@@ -5579,7 +5579,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "430",
           "name": "希望の懸け橋",
-          "description": "Akatsuki Characters Maximum Chakra +25、行動後チャクラ+5%回復する",
+          "description": "Akatsuki Characters Maximum Chakra +25、Chakra Recovery +5%",
           "effectIdx1": "1011",
           "effectIdx2": "173",
           "effectIdx3": "0",
@@ -5683,7 +5683,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "438",
           "name": "諦めない選択",
-          "description": "Konoha Characters 仙術タイプのSkill Damage +50%",
+          "description": "Konoha Characters Sage Skill Damage +50%",
           "effectIdx1": "940",
           "effectIdx2": "0",
           "effectIdx3": "0",
@@ -5748,7 +5748,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "443",
           "name": "憎悪の雷鳴",
-          "description": "All Characters ATK and Fire and Lightning Skill Damage +40%",
+          "description": "All Characters ATK, Fire and Lightning Skill Damage +40%",
           "effectIdx1": "11039",
           "effectIdx2": "1065",
           "effectIdx3": "1066",
@@ -9436,6 +9436,19 @@ window.lead=[
           "target1Param": "6",
           "target2Category": "1",
           "target2Param": "7"
+        },
+        {
+          "cardLeaderSkillId": "733",
+          "name": "瞳に秘する宿願",
+          "description": "Courage and Intellect Type SPD and Skill Damage +50%",
+          "effectIdx1": "13049",
+          "effectIdx2": "682",
+          "effectIdx3": "0",
+          "compType": "2",
+          "target1Category": "1",
+          "target1Param": "7",
+          "target2Category": "1",
+          "target2Param": "6"
         },
         {
           "cardLeaderSkillId": "736",

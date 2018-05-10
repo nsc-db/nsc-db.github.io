@@ -1287,7 +1287,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "361",
           "name": "麒麟",
-          "eng": ""
+          "eng": "Kirin"
         },
         {
           "cardBattleSkillNameId": "362",
@@ -1377,7 +1377,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "389",
           "name": "第六景門　開！！",
-          "eng": ""
+          "eng": "Sixth Gate Gate of View... Open!!"
         },
         {
           "cardBattleSkillNameId": "390",
@@ -1667,7 +1667,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "476",
           "name": "裏蓮華",
-          "eng": ""
+          "eng": "Hidden Lotus"
         },
         {
           "cardBattleSkillNameId": "477",
@@ -1977,7 +1977,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "573",
           "name": "神の紙者の術",
-          "eng": ""
+          "eng": "Sacred God Emissary Jutsu"
         },
         {
           "cardBattleSkillNameId": "574",
@@ -3582,12 +3582,12 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "1286",
           "name": "砂鉄界法",
-          "eng": ""
+          "eng": "Iron Sand: World Order"
         },
         {
           "cardBattleSkillNameId": "1287",
           "name": "心を殺せ…",
-          "eng": ""
+          "eng": "Kill Your Heart..."
         },
         {
           "cardBattleSkillNameId": "1289",
@@ -3662,17 +3662,17 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "1333",
           "name": "ほっとけるわけねーだろ！",
-          "eng": ""
+          "eng": "Share of Relief"
         },
         {
           "cardBattleSkillNameId": "1334",
           "name": "須佐能乎・千鳥",
-          "eng": ""
+          "eng": "Susano'o: Chidori"
         },
         {
           "cardBattleSkillNameId": "1335",
           "name": "オレは過去を切り棄てる",
-          "eng": ""
+          "eng": "I Will Cut Off the Past"
         },
         {
           "cardBattleSkillNameId": "1337",
@@ -3712,7 +3712,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "1352",
           "name": "戦うしかねーみてーだな",
-          "eng": ""
+          "eng": "FIghting is the Only Way"
         },
         {
           "cardBattleSkillNameId": "1353",
@@ -3737,12 +3737,12 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "1367",
           "name": "仙法木遁・真数千手 頂上化仏",
-          "eng": ""
+          "eng": "Summit Enlightenment"
         },
         {
           "cardBattleSkillNameId": "1368",
           "name": "もう手加減はできんぞ！",
-          "eng": ""
+          "eng": "I Won't Hold Back Anymore"
         },
         {
           "cardBattleSkillNameId": "1369",
@@ -3812,7 +3812,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "1390",
           "name": "アナタを殺す為に用意した",
-          "eng": ""
+          "eng": "I am Prepared to Kill You"
         },
         {
           "cardBattleSkillNameId": "1392",
@@ -3882,17 +3882,17 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "1430",
           "name": "ではいきますぞ",
-          "eng": ""
+          "eng": "Now Then, Here I Go"
         },
         {
           "cardBattleSkillNameId": "1433",
           "name": "C4 カルラ",
-          "eng": ""
+          "eng": "C4 Karura"
         },
         {
           "cardBattleSkillNameId": "1434",
           "name": "喝！！",
-          "eng": ""
+          "eng": "katsu!!"
         },
         {
           "cardBattleSkillNameId": "1435",
@@ -3922,7 +3922,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "1450",
           "name": "オレの憎しみを知れ",
-          "eng": ""
+          "eng": "Know My Hatred"
         },
         {
           "cardBattleSkillNameId": "1451",
@@ -4712,7 +4712,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "1787",
           "name": "仙法・五右衛門風呂",
-          "eng": ""
+          "eng": "Sage Style: Bath of Boiling Oil"
         },
         {
           "cardBattleSkillNameId": "1788",
@@ -6163,6 +6163,11 @@ window.skillname=[
           "cardBattleSkillNameId": "2411",
           "name": "ポップは死んだ！",
           "eng": "Dead in a Pop"
+        },
+        {
+          "cardBattleSkillNameId": "2413",
+          "name": "お前はどこまで見えている",
+          "eng": "How Far Can You See"
         },
         {
           "cardBattleSkillNameId": "2420",

@@ -1,6 +1,6 @@
 (function(){
 
-	function _createCard(data, name, type, hp, atk, def, spd, rare, affi, id, rate, tag){
+	function _createCard(data, name, type, hp, atk, def, spd, rare, affi, id, rate, tag, target, cast, damage, nature, voiced){
 		var image;
 		//Rarity Check
 		if(rare == 6){
@@ -10,23 +10,29 @@
 			image = id + ".png";
 		}
 
-		//Pvp Reward Check
+		//Champion Check
 		if(data["cost"] == 100){
 			image = id + ".png";
 		}
+		//Create Entries in the Table
 		var model = '<tr class="clickable" data-toggle="modal" data-target="#newModal">'
 					+'		<td class="text-center"><img id="icon-table" src="../common/assets/img/units/icons/thumb_' + image + '"height="60px" width="60px" /><div style="display:none">' + data['cardId'] + '</td>'
-					+'		<td class="text-left"><a href= "view/' + data["cardId"] + '" data-toggle="modal" data-target="#newModal"><strong>' + name + ", " + data["cardSubName"] + '</strong></a></td>'
+					+'		<td class="text-left"><a href= "view/' + data["cardId"] + '" data-toggle="modal" data-target="#newModal">' + name + ", " + data["cardSubName"] + '</a></td>'
 					+'		<td class="text-center">' + type + '</td>'
-					+'		<td class="text-center affiliation" affiliation="' + affi + '">' + affi + '</td>'
+					+'		<td class="text-center affiliation" affiliation="' + affi + '"><div style="display:none;">' + affi + '</div></td>'
 					+'		<td class="text-center rarity" rarity="' + rare + '"><div style="display:none">' + rare + '</div></td>'
 					+'		<td class="text-center">' + data["cost"] + '</td>'
 					+'		<td class="text-center">' + hp + '</td>'
 					+'		<td class="text-center">' + atk + '</td>'
 					+'		<td class="text-center">' + def + '</td>'
 					+'		<td class="text-center">' + spd + '</td>'
-					+'		<td class="text-center">' + rate + '</div></td>'
-					+'		<td class="text-center">' + tag + '</td>'					
+					+'		<td class="text-center">' + rate + '</td>'					
+					+'		<td class="text-center">' + tag + '</td>'
+					+'		<td class="text-center">' + target + '</td>'		
+					+'		<td class="text-center">' + cast + '</td>'		
+					+'		<td class="text-center">' + damage + '</td>'	
+					+'		<td class="text-center">' + nature + '</td>'
+					+'		<td class="text-center">' + voiced + '</td>'																																						
 					+'</tr>';
 		return model;
 	}
@@ -38,16 +44,22 @@
 		var content = ''; 
 		
 		var units = []; // Character's Info
-		var name = '';
-		var type = '';
-		var hp;
-		var atk;
-		var def;
-		var spd;
-		var rare;
-		var affi;
-		var id;
-		var tags;
+		var name = '';	// Charavter Name
+		var type = '';	// Character Type
+		var hp;			// Character HP
+		var atk;		// Character ATK
+		var def;		// Character DEF
+		var spd;		// Character SPD
+		var rare;		// Character Rarity
+		var affi;		// Character Affiliation
+		var id;			// Character ID
+		var tags;		// Character Tag
+		var target = '';// Character Attack Target
+		var cast = '';	// Character Chakra Cost
+		var damage = '';// Character Damage Type
+		var nature = '';// Character Nature
+		var voiced = '';
+
 		for(var i in window.chara){
 			var unit = window.chara[i];
 
@@ -85,9 +97,103 @@
 				affi = checkAffi(unit);
 				rate = window.tags[i]['rate'];
 				tag = window.tags[i]['tag'];
+
+
+				//Find Skills Info
+				for(var n in window.skill){
+					//Find Skill 1 Info
+					if(unit["battleSkillId1"] == window.skill[n]["cardBattleSkillId"]){
+						if(target != ''){
+							target += checkTarget(window.skill[n]);
+							cast += checkWait(window.skill[n])
+							nature += checkSkill(window.skill[n]);
+							if(checkTarget(window.skill[n]) == "One" || checkTarget(window.skill[n]) == "All"){
+								if(checkDamage(window.skill[n]) == "強化"){
+									damage += "弱体";
+								}
+								else{
+									damage += checkDamage(window.skill[n]);
+								}
+							}
+							else{
+								damage += checkDamage(window.skill[n]);
+							}
+						}
+						else{
+							target += checkTarget(window.skill[n]) +",";
+							cast += checkWait(window.skill[n]) + ",";
+							nature += checkSkill(window.skill[n]) + ",";
+							if(checkTarget(window.skill[n]) == "One" || checkTarget(window.skill[n]) == "All"){
+								if(checkDamage(window.skill[n]) == "強化"){
+									damage += "弱体,";
+								}
+								else{
+									damage += checkDamage(window.skill[n]) + ",";
+								}
+							}
+							else{
+								damage += checkDamage(window.skill[n]) + ",";
+							}
+						}
+					}
+					//Find Skill 2 Info
+					if(unit["battleSkillId2"] == window.skill[n]["cardBattleSkillId"]){
+						if(target == ''){
+							target += checkTarget(window.skill[n]) + ",";
+							cast += checkWait(window.skill[n]) + ","; 
+							nature += checkSkill(window.skill[n]) + ",";
+							if(checkTarget(window.skill[n]) == "One" || checkTarget(window.skill[n]) == "All"){
+								if(checkDamage(window.skill[n]) == "強化"){
+									damage += "弱体,";
+								}
+								else{
+									damage += checkDamage(window.skill[n]) + ",";
+								}
+							}
+							else{
+								damage += checkDamage(window.skill[n]) + ",";
+							}
+						}
+						else{
+							target += checkTarget(window.skill[n]);
+							cast += checkWait(window.skill[n]);
+							nature += checkSkill(window.skill[n]);
+							if(checkTarget(window.skill[n]) == "One" || checkTarget(window.skill[n]) == "All"){
+								if(checkDamage(window.skill[n]) == "強化"){
+									damage += "弱体";
+								}
+								else{
+									damage += checkDamage(window.skill[n]);
+								}
+							}
+							else{
+								damage += checkDamage(window.skill[n]);
+							}
+						}
+
+						
+					}
+				}
+
+				for(var n in window.vo){
+					if(id == window.vo[n]['cardId']){
+						voiced = 1;
+						break;
+					}
+					else{
+						voiced = 0;
+					}
+				}
+
 				if(units.indexOf(chara[0]) == -1){ // << verifica se já criou o card pelo [ID]
 					units.push(unit[0]); // << Salvo o id do card, para impedir cards repetidos de existirem			
-					content += _createCard(unit, name, type, hp, atk, def, spd, rare, affi, id, rate, tag); // chama a função passando os dados do card
+					content += _createCard(unit, name, type, hp, atk, def, spd, rare, affi, id, rate, tag, target, cast, damage, nature, voiced); // chama a função passando os dados do card
+					target = '';
+					cast = '';
+					damage = '';
+					nature = '';
+					voiced = 0;
+
 				}
 			}
 		}
@@ -207,10 +313,225 @@
 		for(i in cards){
 			//Stats
 			var c = cards[i];
-			
+			var ninguCharaId = [];
+			var ninguCardId = [];
+			var ninguGroup = [];
+			var ninguGearList = [];
+
 			//Character Lead
 			for(var x in window.chara){
 				if(cid == window.chara[x]['cardId']){
+
+					//Character Voice
+					for(var y in window.vo){
+						if(cid == window.vo[y]['cardId']){
+							
+							var dir = String(window.vo[y]['dirName']);
+							var appear = window.vo[y]['voiceAppear'];
+							var skill = window.vo[y]['voiceSkill1'];
+							var pursuit =  window.vo[y]['voicePursuit'];
+							var win = window.vo[y]['voiceWin'];
+							var death = window.vo[y]['voiceDeath'];
+
+							var voice = '<h3>Voice:&ensp; </h3>'
+									  + '<button id="voiceAppear" class="" value="" onclick="voiceAppear()">Appear</button>'
+									  + '<button id="voiceSkill" class="" value="" onclick="voiceSkill()">Skill</button>'
+									  + '<button id="voiceWin" class="" value="" onclick="voiceWin()">Win</button>'
+									  + '<button id="voiceDeath" class="" value="" onclick="voiceDeath()">Death</button>';
+									 
+
+							document.getElementById("voice").innerHTML = voice;
+							$("#voiceAppear").attr('class', dir);
+							$("#voiceAppear").attr('value', appear);
+							$("#voiceSkill").attr('class', dir);
+							$("#voiceSkill").attr('value', skill);
+							$("#voicePursuit").attr('class', dir);
+							$("#voicePursuit").attr('value', pursuit);
+							$("#voiceWin").attr('class', dir);
+							$("#voiceWin").attr('value', win);
+							$("#voiceDeath").attr('class', dir);
+							$("#voiceDeath").attr('value', death);
+							break;
+						}
+						else{
+							document.getElementById("voice").innerHTML = "";
+
+						}
+					}
+
+					for(var y in window.unique){
+						var unique = window.unique[y]['charaIds'].split(",");
+						for(var z in unique){
+							if(window.chara[x]['charaProfileId'] == unique[z]){
+								ninguCharaId.push(window.unique[y]);
+								break;
+							}
+						}
+						var cardsID = window.unique[y]['cardIds'].split(",");
+						for(var z in cardsID){
+							if(window.chara[x]['cardId'] == cardsID[z]){
+								ninguCardId.push(window.unique[y]);
+								break;
+							}
+						}
+						var group = window.unique[y]['charaGroupIds'].split(",");
+						for(var z in group){
+							if(group == "600000" && window.chara[x]['charaType'] == '8'){
+								ninguGroup.push(window.unique[y]);
+								break;
+							}
+							if(group == "600001"){
+								if(window.chara[x]['charaProfileId'] == "201" || window.chara[x]['charaProfileId'] == "202" || window.chara[x]['charaProfileId'] == "203" || window.chara[x]['charaProfileId'] == "204" ||
+								window.chara[x]['charaProfileId'] == "205" ||	window.chara[x]['charaProfileId'] == "206" || window.chara[x]['charaProfileId'] == "207" || window.chara[x]['charaProfileId'] == "208" 
+								|| window.chara[x]['charaProfileId'] == "210" || window.chara[x]['charaProfileId'] == "4101" || window.chara[x]['charaProfileId'] == "4701" || window.chara[x]['charaProfileId'] == "11601" || window.chara[x]['charaProfileId'] == "11602" 
+								|| window.chara[x]['charaProfileId'] == "11603" || window.chara[x]['charaProfileId'] == "13701" || window.chara[x]['charaProfileId'] == "13702"  || window.chara[x]['charaProfileId'] == "13801" 
+								|| window.chara[x]['charaProfileId'] == "50801" || window.chara[x]['charaProfileId'] == "50901" || window.chara[x]['charaProfileId'] == "50902" || window.chara[x]['charaProfileId'] == "50903" ){
+									ninguGroup.push(window.unique[y]);
+									break;
+								}
+							}
+							if(group == "700001"){
+								if(window.chara[x]['charaProfileId'] == "110" || window.chara[x]['charaProfileId'] == "14001" ||　window.chara[x]['charaProfileId'] == "109" || window.chara[x]['charaProfileId'] == "50903"
+								|| window.chara[x]['charaProfileId'] == "1202"	){
+									ninguGroup.push(window.unique[y]);
+									break;
+								}
+							}
+							if(group == "700000"){
+								if(window.chara[x]['charaProfileId'] == "110" || window.chara[x]['charaProfileId'] == "14001" ||　window.chara[x]['charaProfileId'] == "109" || window.chara[x]['charaProfileId'] == "50903"
+								|| window.chara[x]['charaProfileId'] == "1202" || window.chara[x]['charaProfileId'] == "20301"　|| window.chara[x]['charaProfileId'] == "402"	|| window.chara[x]['charaProfileId'] == "502"　|| window.chara[x]['charaProfileId'] == "602"){
+									ninguGroup.push(window.unique[y]);
+									break;
+								}
+							}
+							if(group == "100301"){
+								if(window.chara[x]['charaProfileId'] == "110" || window.chara[x]['charaProfileId'] == "106" ||　window.chara[x]['charaProfileId'] == "109"){
+									ninguGroup.push(window.unique[y]);
+									break;
+								}
+							}
+							if(group == "600002"){
+								if(window.chara[x]['charaProfileId'] == "11801" || window.chara[x]['charaProfileId'] == "13304" ||　window.chara[x]['charaProfileId'] == "13101"){
+									ninguGroup.push(window.unique[y]);
+									break;
+								}
+							}
+							if(group == "300001"){
+								if(window.chara[x]['charaProfileId'] == "1701" || window.chara[x]['charaProfileId'] == "1702" || window.chara[x]['charaProfileId'] == "1703" 
+								|| window.chara[x]['charaProfileId'] == "1704" || window.chara[x]['charaProfileId'] == "1706" ){
+									ninguGroup.push(window.unique[y]);
+									break;
+								}
+							}
+						}
+					}
+					var gear = '';
+					for(var y in ninguCharaId){
+						for(var z in window.gear){
+							if(ninguCharaId[y]['targetCrystal'] == window.gear[z]['recipeId']){
+								var ningu = window.gear[z];
+								ninguGearList.push(window.gear[z]['crystalImageId']);
+								break;
+							}
+						}
+						var gearType = checkGearType(ningu);
+						gear += '<div class="base-gear">' 
+								+		'<div class="icon">'
+								+			'<img src="../common/assets/img/gear/ningu_' + ningu['crystalImageId'] + '.png">'
+								+		'</div>' 
+								+		'<div class="info">'
+								+			'<div class="header">'
+								+				'<div class="type">'
+								+					'<h4 type="' + gearType + '">' + gearType + '</h4>'
+								+				'</div>'
+								+			'<div class="title">'
+								+				'<h3>' + ningu['crystalName'] + '</h3>'
+								+			'</div>'
+								+		'</div>'
+								+		'<div class="description">'
+								+			'<p>' + ninguCharaId[y]['description'] + '</p>'
+								+		'</div>'
+								+	'</div>'
+								+'</div>';
+					}
+					for(var y in ninguCardId){
+						var dupe = 0;
+						for(var z in window.gear){
+							if(ninguCardId[y]['targetCrystal'] == window.gear[z]['recipeId']){
+								for(var g in ninguGearList){
+									if(ninguGearList[g] == window.gear[z]["crystalImageId"]){
+										 dupe = 1;
+									}
+								}
+								if(dupe == 0){
+									var ningu = window.gear[z];
+								}
+								break;
+							}
+						}
+						var gearType = checkGearType(ningu);
+						if(dupe == 0){
+							gear += '<div class="base-gear">' 
+									+		'<div class="icon">'
+									+			'<img src="../common/assets/img/gear/ningu_' + ningu['crystalImageId'] + '.png">'
+									+		'</div>' 
+									+		'<div class="info">'
+									+			'<div class="header">'
+									+				'<div class="type">'
+									+					'<h4 type="' + gearType + '">' + gearType + '</h4>'
+									+				'</div>'
+									+			'<div class="title">'
+									+				'<h3>' + ningu['crystalName'] + '</h3>'
+									+			'</div>'
+									+		'</div>'
+									+		'<div class="description">'
+									+			'<p>' + ninguCardId[y]['description'] + '</p>'
+									+		'</div>'
+									+	'</div>'
+									+'</div>';
+						}
+					}
+					for(var y in ninguGroup){
+						var dupe = 0;
+						for(var z in window.gear){
+							if(ninguGroup[y]['targetCrystal'] == window.gear[z]['recipeId']){
+								for(var g in ninguGearList){
+									if(ninguGearList[g] == window.gear[z]["crystalImageId"]){
+										 dupe = 1;
+									}
+								}
+								if(dupe == 0){
+									var ningu = window.gear[z];
+								}
+								break;
+							}
+						}
+						var gearType = checkGearType(ningu);
+						if(dupe == 0){
+							gear += '<div class="base-gear">' 
+									+		'<div class="icon">'
+									+			'<img src="../common/assets/img/gear/ningu_' + ningu['crystalImageId'] + '.png">'
+									+		'</div>' 
+									+		'<div class="info">'
+									+			'<div class="header">'
+									+				'<div class="type">'
+									+					'<h4 type="' + gearType + '">' + gearType + '</h4>'
+									+				'</div>'
+									+			'<div class="title">'
+									+				'<h3>' + ningu['crystalName'] + '</h3>'
+									+			'</div>'
+									+		'</div>'
+									+		'<div class="description">'
+									+			'<p>' + ninguGroup[y]['description'] + '</p>'
+									+		'</div>'
+									+	'</div>'
+									+'</div>';
+						}
+					}
+
+					document.getElementById("gear").innerHTML = gear;
+					document.getElementById("gear-six").innerHTML = gear;
+
 					for(var n in window.lead){
 						if(window.chara[x]['leaderSkillId'] == window.lead[n]['cardLeaderSkillId']){
 							
@@ -422,10 +743,43 @@
 	    img.src = imageSrc;
 	}
 
+	function checkGearType(gear){
+		for(var i in window.key){
+			if(window.key[i][0] == "gear"){
+				if(gear['crystalType'] == window.key[i][1]){
+					type = window.key[i][2];
+					return type;
+				}
+			}
+		}
+	}
+
 	function checkType(unit){
 		for(var i in window.key){
 			if(window.key[i][0] == 'type'){
 				if(unit['attribute'] == window.key[i][1]){
+					type = window.key[i][2];
+					return type;
+				}
+			}
+		}
+	}
+
+	function checkTarget(unit){
+		for(var i in window.key){
+			if(window.key[i][0] == 'target'){
+				if(unit['targetMode'] == window.key[i][1]){
+					type = window.key[i][2];
+					return type;
+				}
+			}
+		}
+	}
+
+	function checkDamage(unit){
+		for(var i in window.key){
+			if(window.key[i][0] == 'damage'){
+				if(unit['calcType'] == window.key[i][1]){
 					type = window.key[i][2];
 					return type;
 				}

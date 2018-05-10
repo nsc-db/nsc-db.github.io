@@ -40,8 +40,12 @@
  	<script type="text/javascript" src="../common/eng/ability.js"></script>
  	<script type="text/javascript" src="../common/eng/lead.js"></script>
  	<script type="text/javascript" src="../common/eng/key.js"></script>
+ 	<script type="text/javascript" src="../common/eng/gear.js"></script>
+ 	<script type="text/javascript" src="../common/eng/unique.js"></script>
  	<script type="text/javascript" src="../common/json/evo.js"></script>
  	<script type="text/javascript" src="../common/json/tags.js"></script>
+ 	<script type="text/javascript" src="../common/json/vo.js"></script>
+
 
 
 
@@ -70,6 +74,66 @@
 							</div>
 							<p id="type-unit" class="type" type="Body"></p>
 							<h3 id="name-unit"></h3>
+							&emsp;
+							<strong id="voice">
+								
+								<script>
+									var path = '';
+									function voiceAppear(){
+										
+										var dir = $("#voiceAppear").attr('class');
+										var voice = $("#voiceAppear").attr('value')
+										var voiceArr = voice.split(',');
+										var random = Math.floor(Math.random() * voiceArr.length);
+										path = "../common/assets/vo/" + dir + "/" + voiceArr[random] + ".mp3";
+										var sound = new Audio(path);			
+										sound.play();
+										
+									}
+									function voiceSkill(){
+										var dir = $("#voiceSkill").attr('class');
+										var voice = $("#voiceSkill").attr('value');
+										var voiceArr = voice.split(',');
+										var random = Math.floor(Math.random() * voiceArr.length);
+										path = "../common/assets/vo/" + dir + "/" + voiceArr[random] + ".mp3";
+										var sound = new Audio(path);			
+										sound.play();
+										
+										
+									}
+
+									function voicePursuit(){
+										var dir = $("#voicePursuit").attr('class');
+										var voice = $("#voicePursuit").attr('value')
+										var voiceArr = voice.split(',');
+										var random = Math.floor(Math.random() * voiceArr.length);
+										path = "../common/assets/vo/" + dir + "/" + voiceArr[random] + ".mp3";
+										var sound = new Audio(path);			
+										sound.play();
+									}
+
+
+									function voiceWin(){
+										var dir = $("#voiceWin").attr('class');
+										var voice = $("#voiceWin").attr('value')
+										var voiceArr = voice.split(',');
+										var random = Math.floor(Math.random() * voiceArr.length);
+										path = "../common/assets/vo/" + dir + "/" + voiceArr[random] + ".mp3";
+										var sound = new Audio(path);			
+										sound.play();
+									}
+
+									function voiceDeath(){
+										var dir = $("#voiceDeath").attr('class');
+										var voice = $("#voiceDeath").attr('value')
+										var voiceArr = voice.split(',');
+										var random = Math.floor(Math.random() * voiceArr.length);
+										path = "../common/assets/vo/" + dir + "/" + voiceArr[random] + ".mp3";
+										var sound = new Audio(path);			
+										sound.play();
+									}
+								</script>
+							</strong>
 						</div>
 						<div class="col-md-3 col-xs-6">
 							<button type="button" class="close" data-dismiss="modal" aria-label="Close">
@@ -103,7 +167,7 @@
 														<li class="active"><a id="skills-btn" class="active" data-toggle="tab" href="#skills">Skill</a></li>
 														<li><a id="ability-btn" data-toggle="tab" href="#ability">Ability</a></li>
 														<li class="hidden"><a id="status-btn" data-toggle="tab" href="#status">Stats</a></li>
-														<li class="hidden"><a id="gear-btn" data-toggle="tab" href="#gear">Gear</a></li>
+														<li><a id="gear-btn" data-toggle="tab" href="#gear">Gear</a></li>
 													</ul>
 												</div>
 												<div class="col-md-12">
@@ -211,7 +275,7 @@
 																		<td id="max-hp-five"></td>
 																	</tr>
 																	<tr>
-																		<td>攻撃力</td>
+																		<td>Normal</td>
 																		<td id="base-atk-five"></td>
 																		<td id="ability-atk-five"></td>
 																		<td id="gear-atk-five"></td>
@@ -262,79 +326,8 @@
 																</tbody>
 															</table>
 														</div>
-														<div class="tab-pane fade hidden" id="gear">
-															<div class="base-gear">
-																<div class="icon">
-																	<img class="gearicon" src="">
-																</div>
-																<div class="info">
-																	<div class="header">
-																		<div class="type">
-																			<h4 class="geartype"></h4>
-																		</div>
-																		<div class="title">
-																			<h3 class="gearname"></h3>
-																		</div>
-																	</div>
-																	<div class="description">
-																		<p class="geardescription"></p>
-																	</div>
-																</div>
-															</div>
-															<div class="base-gear">
-																<div class="icon">
-																	<img class="gearicon" src="">
-																</div>
-																<div class="info">
-																	<div class="header">
-																		<div class="type">
-																			<h4 class="geartype"></h4>
-																		</div>
-																		<div class="title">
-																			<h3 class="gearname"></h3>
-																		</div>
-																	</div>
-																	<div class="description">
-																		<p class="geardescription"></p>
-																	</div>
-																</div>
-															</div>
-															<div class="base-gear">
-																<div class="icon">
-																	<img class="gearicon" src="">
-																</div>
-																<div class="info">
-																	<div class="header">
-																		<div class="type">
-																			<h4 class="geartype"></h4>
-																		</div>
-																		<div class="title">
-																			<h3 class="gearname"></h3>
-																		</div>
-																	</div>
-																	<div class="description">
-																		<p class="geardescription"></p>
-																	</div>
-																</div>
-															</div>
-															<div class="base-gear">
-																<div class="icon">
-																	<img class="gearicon" src="">
-																</div>
-																<div class="info">
-																	<div class="header">
-																		<div class="type">
-																			<h4 class="geartype"></h4>
-																		</div>
-																		<div class="title">
-																			<h3 class="gearname"></h3>
-																		</div>
-																	</div>
-																	<div class="description">
-																		<p class="geardescription"></p>
-																	</div>
-																</div>
-															</div>
+														<div class="tab-pane fade" id="gear">
+															
 														</div>
 													</div>
 												</div>
@@ -359,7 +352,7 @@
 														<li class="active"><a id="skills-six-btn" data-toggle="tab" href="#skills-six">Skill</a></li>
 														<li><a id="ability-six-btn" data-toggle="tab" href="#ability-six">Ability</a></li>
 														<li class="hidden"><a id="status-six-btn" data-toggle="tab" href="#status-six">ステータス</a></li>
-														<li class="hidden"><a id="gear-six-btn" data-toggle="tab" href="#gear-six">Gear</a></li>
+														<li><a id="gear-six-btn" data-toggle="tab" href="#gear-six">Gear</a></li>
 													</ul>
 												</div>
 												<div class="col-md-12">
@@ -467,7 +460,7 @@
 																		<td id="max-hp-six"></td>
 																	</tr>
 																	<tr>
-																		<td>攻撃力</td>
+																		<td>Normal</td>
 																		<td id="base-atk-six"></td>
 																		<td id="ability-atk-six"></td>
 																		<td id="gear-atk-six"></td>
@@ -518,79 +511,8 @@
 																</tbody>
 															</table>
 														</div>
-														<div class="tab-pane fade hidden" id="gear-six">
-															<div class="base-gear">
-																<div class="icon">
-																	<img src="assets/img/gear/2675.png">
-																</div>
-																<div class="info">
-																	<div class="header">
-																		<div class="type">
-																			<h4>Chakra</h4>
-																		</div>
-																		<div class="title">
-																			<h3>Truth of Despair</h3>
-																		</div>
-																	</div>
-																	<div class="description">
-																		<p>Wisdom attribute and Independent characters Attack and Skill damage +80%</p>
-																	</div>
-																</div>
-															</div>
-															<div class="base-gear">
-																<div class="icon">
-																	<img src="assets/img/gear/2675.png">
-																</div>
-																<div class="info">
-																	<div class="header">
-																		<div class="type">
-																			<h4>Chakra</h4>
-																		</div>
-																		<div class="title">
-																			<h3>Truth of Despair</h3>
-																		</div>
-																	</div>
-																	<div class="description">
-																		<p>Wisdom attribute and Independent characters Attack and Skill damage +80%</p>
-																	</div>
-																</div>
-															</div>
-															<div class="base-gear">
-																<div class="icon">
-																	<img src="assets/img/gear/2675.png">
-																</div>
-																<div class="info">
-																	<div class="header">
-																		<div class="type">
-																			<h4>Chakra</h4>
-																		</div>
-																		<div class="title">
-																			<h3>Truth of Despair</h3>
-																		</div>
-																	</div>
-																	<div class="description">
-																		<p>Wisdom attribute and Independent characters Attack and Skill damage +80%</p>
-																	</div>
-																</div>
-															</div>
-															<div class="base-gear">
-																<div class="icon">
-																	<img src="assets/img/gear/2675.png">
-																</div>
-																<div class="info">
-																	<div class="header">
-																		<div class="type">
-																			<h4>Chakra</h4>
-																		</div>
-																		<div class="title">
-																			<h3>Truth of Despair</h3>
-																		</div>
-																	</div>
-																	<div class="description">
-																		<p>Wisdom attribute and Independent characters Attack and Skill damage +80%</p>
-																	</div>
-																</div>
-															</div>
+														<div class="tab-pane fade" id="gear-six">
+															
 														</div>
 													</div>
 												</div>
@@ -643,21 +565,31 @@
 		<div class="base-content">
 			<div class="row">
 				<div class="col-md-4">
-					<h2>Units Table</h2>
-					<p>Choose a unit to view details</p>
-					
+					<h2>Unit Database</h2>
+					<p></p>
 				</div>
 				<div class="col-md-8">
 					<div class="alert alert-warning" role="alert">
-						<strong>Click <a href="../units/index.html">here</a> to access the newer Characters</strong> 
+						<strong>Stay Stoner Free</strong> 
 					</div>
 				</div>
 				<div class="col-md-12">
 					<hr>
 				</div>
 			</div>
-
-				<div class="row">
+			<div class="row">
+				<div class="col-md-2">
+					<h2>Filter</h2>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-4 col-md-offset-4 ">
+					<div class="panel-heading">
+						<div class="btn-danger" id="reset-filter" style="width:110%; text-align: center;">Reset</div>
+					</div>
+				</div>
+			</div>
+			<div class="row">
 				<div class="col-md-10 col-md-offset-2">
 					<div id="filter-attribute" class="" style="padding: 5px; text-align: center;">
 						<div class="list-group">
@@ -674,32 +606,61 @@
 							<a href="#" id="Intellect" class="list-group-item">Intellect</a>
 							</div>
 							<div class="col-md-2">
-							<a href="#" id="Courage" class="list-group-item">Courage</a>
+							<a href="#" id="Heart" class="list-group-item">Courage</a>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
+
+			<div class="row">
+				<div class="col-md-12">
+					<div id="filter-rare" class="" style="padding: 10px; text-align: center;">
+						<div class="list-group">
+							<div class="col-md-2">
+							<a href="#" id="1" class="list-group-item">1&#9733;</a>
+							</div>
+							<div class="col-md-2">
+							<a href="#" id="2" class="list-group-item">2&#9733;</a>
+							</div>
+							<div class="col-md-2">
+							<a href="#" id="3" class="list-group-item">3&#9733;</a>
+							</div>
+							<div class="col-md-2">
+							<a href="#" id="4" class="list-group-item">4&#9733;</a>
+							</div>
+							<div class="col-md-2">
+							<a href="#" id="5" class="list-group-item">5&#9733;</a>
+							</div>
+							<div class="col-md-2">
+							<a href="#" id="6" class="list-group-item">6&#9733;</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
 			<div class="row">
 				<div class="col-md-6" style="margin-top: 10px;">
 					<div class="panel panel-default">
 						<div id="filter-tags-collapse" class="panel-heading" data-toggle="collapse" href="#filter-tags" style="cursor: pointer; text-align: center;">
-							<h3 class="panel-title">Tags</h3>
+							<h3 class="panel-title">Category</h3>
 						</div>
 						<div id="filter-tags" class="attribute-filter panel-collapse collapse">
-							<div class="list-group">
-								<a href="#" id="ex-6" class="list-group-item" >EX 6&#9733;</a>
-								<a href="#" id="ex" class="list-group-item" >EX 5&#9733;</a>
+							<div id="filter" class="list-group">
+								<a href="#" id="ex-6" class="list-group-item" >Ex 6&#9733;</a>
+								<a href="#" id="ex-5" class="list-group-item" >Ex 5&#9733;</a>
 								<a href="#" id="pvp-reward" data-toggle="" class="list-group-item" >Champion</a>
 								<a href="#" id="god" data-toggle="" class="list-group-item">God</a>
-								<a href="#" id="killers" data-toggle="" class="list-group-item" >Killers</a>
+								<a href="#" id="killers" data-toggle="" class="list-group-item" >Killer</a>
 								<a href="#" id="limited-6" data-toggle="" class="list-group-item" >Limited 6&#9733;</a>
-								<a href="#" id="limited" data-toggle="" class="list-group-item" >Limited 5&#9733;</a>
+								<a href="#" id="limited-5" data-toggle="" class="list-group-item" >Limited 5&#9733;</a>
 								<a href="#" id="event" data-toggle="" class="list-group-item" >Event</a>
 								<a href="#" id="slayer" data-toggle="" class="list-group-item" >Slayer</a>
 								<a href="#" id="special" data-toggle="" class="list-group-item" >Special</a>
 								<a href="#" id="gacha" data-toggle="" class="list-group-item" >Gacha</a>
 								<a href="#" id="fp" data-toggle="" class="list-group-item" >FP</a>
+								<a href="#" id="voiced" data-toggle="" class="list-group-item" >Voiced</a>
 							</div>
 						</div>
 					</div>
@@ -711,43 +672,162 @@
 							<h3 class="panel-title">Affiliation</h3>
 						</div>
 						<div id="filter-affi" class="attribute-filter panel-collapse collapse">
-							<div class="list-group">
-								<a href="#" id="木ノ葉" class="list-group-item" >Konoha</a>
-								<a href="#" id="“暁”" class="list-group-item" >Akatsuki</a>
-								<a href="#" id="その他" data-toggle="" class="list-group-item" >None</a>
-								<a href="#" id="砂" data-toggle="" class="list-group-item">Suna</a>
-								<a href="#" id="霧" data-toggle="" class="list-group-item" >Kiri</a>
-								<a href="#" id="“鷹”" data-toggle="" class="list-group-item" >Taka</a>
-								<a href="#" id="“蛇”" data-toggle="" class="list-group-item" >Hebi</a>
-								<a href="#" id="岩" data-toggle="" class="list-group-item" >Iwa</a>
-								<a href="#" id="雲" data-toggle="" class="list-group-item" >Kumo</a>
-								<a href="#" id="雨" data-toggle="" class="list-group-item" >Ame</a>
-								<a href="#" id="音" data-toggle="" class="list-group-item" >Oto</a>
-								<a href="#" id="滝" data-toggle="" class="list-group-item" >Taki</a>
-								<a href="#" id="鉄" data-toggle="" class="list-group-item" >Iron</a>
+							<div id="filter" class="list-group">
+								<a href="#" id="Konoha" class="list-group-item" >Konoha</a>
+								<a href="#" id="“Akatsuki”" class="list-group-item" >“Akatsuki”</a>
+								<a href="#" id="None" data-toggle="" class="list-group-item" >None</a>
+								<a href="#" id="Suna" data-toggle="" class="list-group-item">Suna</a>
+								<a href="#" id="Kiri" data-toggle="" class="list-group-item" >Kiri</a>
+								<a href="#" id="Taka" data-toggle="" class="list-group-item" >Taka</a>
+								<a href="#" id="“Hebi”" data-toggle="" class="list-group-item" >Hebi</a>
+								<a href="#" id="Iwa" data-toggle="" class="list-group-item" >Iwa</a>
+								<a href="#" id="Kumo" data-toggle="" class="list-group-item" >Kumo</a>
+								<a href="#" id="Ame" data-toggle="" class="list-group-item" >Ame</a>
+								<a href="#" id="Oto" data-toggle="" class="list-group-item" >Oto</a>
+								<a href="#" id="Taki" data-toggle="" class="list-group-item" >Taki</a>
+								<a href="#" id="Iron" data-toggle="" class="list-group-item" >Iron</a>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-md-12">
+					<div class="panel panel-default">
+						<div id="filter-skills-collapse" class="panel-heading" data-toggle="collapse" href="#filter-skills" style="cursor: pointer; text-align: center;">
+							<h3 class="panel-title">Skill</h3>
+						</div>
+						<div id="filter-skills" class="attribute-filter panel-collapse collapse">
+						   	<div id="filter-target" class="filter">
+						   		<h4>Target</h4>
+						   		<button id="One" type="button" class="btn">One</button>
+								<button id="All" type="button" class="btn">All</button>
+								<button id="Allies" type="button" class="btn">Allies</button>
+								<button id="Self" type="button" class="btn">Self</button>
+							</div>
+						   	<div id="filter-cast" class="filter">
+								<h4>Cast Speed</h4>			
+						   		<button id="Fastest" type="button" class="btn">Fastest</button>
+								<button id="Fast" type="button" class="btn">Fast</button>
+								<button id="Normal" type="button" class="btn">Normal</button>
+								<button id="Slow" type="button" class="btn">Slow</button>
+								<button id="Slowest" type="button" class="btn">Slowest</button>
+							</div>
+							<!--
+							<div id="filter-cost" class="filter">
+								<h4>Cost: <span id="cost"></span></h4>
+ 								<input type="range" min="1" max="200" value="50" class="slider" id="chakraCost">
+							</div>-->
+
+							<div id="filter-damage" class="filter">
+								<h4>Type</h4>
+								<button id="Normal" type="button" class="btn">Normal</button>
+								<button id="Multiplier" type="button" class="btn">Multiplier</button>
+								<button id="Fixed" type="button" class="btn">Fixed</button>
+								<button id="Buff" type="button" class="btn">Buff</button>
+								<button id="Debuff" type="button" class="btn">Debuff</button>		 
+								<button id="Recovery" type="button" class="btn">Recovery</button>
+
+							</div>
+
+							<div id="filter-nature" class="filter">
+								<h4>Nature</h4>
+								<button id="Fire" type="button" class="btn">Fire</button>
+								<div class="divider"/></div>
+								<button id="Water" type="button" class="btn">Water</button>
+                                <div class="divider"></div>
+								<button id="Earth" type="button" class="btn">Earth</button>
+                                <div class="divider"></div>
+								<button id="Wind" type="button" class="btn">Wind</button>
+                                <div class="divider"></div>
+								<button id="Lightning" type="button" class="btn">Lightning</button>
+                                <div class="divider"></div>
+								<button id="Wood" type="button" class="btn">Wood</button>
+                                <div class="divider"></div>
+								<button id="Healing" type="button" class="btn">Healing</button>
+                                <div class="divider"></div>
+								<button id="Resurrection" type="button" class="btn">Resurrection</button>
+                                <div class="divider"></div>
+								<button id="Space-Time" type="button" class="btn">Space-Time</button>
+                                <div class="divider"></div>
+								<button id="Weapon" type="button" class="btn">Weapon</button>
+                                <div class="divider"></div>
+								<button id="Clone" type="button" class="btn">Clone</button>
+                                <div class="divider"></div>
+								<button id="Barrier" type="button" class="btn">Barrier</button>
+                                <div class="divider"></div>
+								<button id="Unique" type="button" class="btn">Unique</button>
+                                <div class="divider"></div>
+								<button id="Summoning" type="button" class="btn">Summoning</button>
+                                <div class="divider"></div>
+								<button id="Taijutsu" type="button" class="btn">Taijutsu</button>
+                                <div class="divider"></div>
+								<button id="Genjutsu" type="button" class="btn">Genjutsu</button>
+                                <div class="divider"></div>
+								<button id="Curse-Seal" type="button" class="btn">Curse-Seal</button>
+                                <div class="divider"></div>
+								<button id="Sealing" type="button" class="btn">Sealing</button>
+                                <div class="divider"></div>
+								<button id="Secret" type="button" class="btn">Secret</button>
+                                <div class="divider"></div>
+								<button id="Sage" type="button" class="btn">Sage</button>
+                                <div class="divider"></div>
+								<button id="Sharingan" type="button" class="btn">Sharingan</button>
+                                <div class="divider"></div>
+								<button id="None" type="button" class="btn">None</button>
+                                <div class="divider"></div>
+								<button id="Byakugan" type="button" class="btn">Byakugan</button>
+                                <div class="divider"></div>
+								<button id="Rinnegan" type="button" class="btn">Rinnegan</button>
+                                <div class="divider"></div>
+								<button id="Ice" type="button" class="btn">Ice</button>
+                                <div class="divider"></div>
+								<button id="Inferno" type="button" class="btn">Inferno</button>
+                                <div class="divider"></div>
+								<button id="Lava" type="button" class="btn">Lava</button>
+                                <div class="divider"></div>
+								<button id="Mist" type="button" class="btn">Mist</button>
+                                <div class="divider"></div>
+								<button id="Boil" type="button" class="btn">Boil</button>
+                                <div class="divider"></div>
+								<button id="Storm" type="button" class="btn">Storm</button>
+                                <div class="divider"></div>
+								<button id="Explosion" type="button" class="btn">Explosion</button>
+                                <div class="divider"></div>
+								<button id="Scorch" type="button" class="btn">Scorch</button>
+                                <div class="divider"></div>
+								<button id="Magnet" type="button" class="btn">Magnet</button>
+                                <div class="divider"></div>
+								<button id="Dust" type="button" class="btn">Dust</button>
+                                <div class="divider"></div>
+								<button id="Six Paths" type="button" class="btn">Six Paths</button>
+                                <div class="divider"></div>
+								<button id="Rinne Sharingan" type="button" class="btn">Rinne Sharingan</button>
+                                <div class="divider"></div>
+								<button id="Tailed Beast" type="button" class="btn">Tailed Beast</button>
+                                <div class="divider"></div>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
+				
+				<div class="row">
+					<div class="col-md-12">
+						<table id="myTable" class="display" cellspacing="0" width="100%">
+							<tbody class="cards">
+							</tbody>
+						</table>
+					</div>
 
-			<div class="row">
-				<div class="col-md-12">
-					<table id="myTable" class="display" cellspacing="0" width="100%">
-						<tbody class="cards">
-						</tbody>
-					</table>
-				</div>
-
-				<div class="col-md-12">
-					<div class="footer">
-						<hr>
-						<p class="note">Created by Yuyya, Noobiel, Book and Achromic</p>
+					<div class="col-md-12">
+						<div class="footer">
+							<hr>
+							<p class="note">Created by Yuyya, Noobiel, Book and Achromic</p>
+						</div>
 					</div>
 				</div>
 			</div>
 		</div>
-	</div>
 
 	<!-- JQUERY -->
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
@@ -762,249 +842,8 @@
 
 	<!-- TABLE GENERATOR -->
 	<script type="text/javascript" src="js/datatables.min.js"></script>
-	<script>
-		$(document).ready( function () {
-			var table = $('#myTable').DataTable({
-				stateSave: true,
-				columns: [
-		            { title: "Icon" },
-		            { title: "Name" },
-		            { title: "Type" },
-		            { title: "Affi" },
-		            { title: "Rarity" },
-		            { title: "Cost" },
-		            { title: "HP" },
-		            { title: "ATK" },
-		            { title: "DEF" },
-		            { title: "SPD" },
-		            { title: "Rating" },
-		             {
-		            	title: "tag",
-		            	"visible": false,
-		            	"searchable": true
-		            }
-		        ]
-			});
 
-
-			var tagArr = [];
-			var typeArr = [];
-			var affiArr = [];
-
-			 table
-			 .column(0)
-		     .search(0, true, false)
-		     .draw();
-
-		      //Attribute
-		  	 $("#filter-attribute").on("click", ".list-group-item", function(e) {
-				e.preventDefault();
-				if($(this).attr('class') == 'list-group-item active'){
-					$(this).attr('class', "list-group-item");
-
-					//Remove Filter
-					var remove = $(this).attr('id');
-
-					var location;
-					for(var x = 0; x < typeArr.length; x++){
-						if(typeArr[x] == remove){
-							location = x;
-						}
-					}
-					typeArr.splice(location, 1);
-					
-					var type = "";
-					//Create Tags
-					for(var x = 0; x < typeArr.length; x++){
-						if(!type){
-							type += typeArr[x];
-						}
-						else{
-							type += "|";
-							type += typeArr[x];
-						}
-					}
-					table
-				 	.column(2)
-			     	.search(type, true, false)
-			     	.draw();
-				}
-
-				else{
-					$(this).attr('class', "list-group-item active");
-					typeArr.push($(this).attr('id'));
-
-					var type = "";
-					//Create Tags
-					for(var x = 0; x < typeArr.length; x++){
-						if(!type){
-							type += typeArr[x];
-						}
-						else{
-							type += "|";
-							type += typeArr[x];
-						}
-					}
-					table
-				 	.column(2)
-			     	.search(type, true, false)
-			     	.draw();
-		   	   }
-			 });
-
-		  	 //Tags
-		  	 $("#filter-tags").on("click", ".list-group-item", function(e) {
-				e.preventDefault();
-				if($(this).attr('class') == 'list-group-item active'){
-					$(this).attr('class', "list-group-item");
-
-					//Remove Filter
-					var remove = $(this).attr('id');
-
-					var location;
-					for(var x = 0; x < tagArr.length; x++){
-						if(tagArr[x] == remove){
-							location = x;
-						}
-					}
-					tagArr.splice(location, 1);
-					
-					var tag = "";
-					//Create Tags
-					for(var x = 0; x < tagArr.length; x++){
-						if(!tag){
-							tag += tagArr[x];
-						}
-						else{
-							tag += "|";
-							tag += tagArr[x];
-						}
-					}
-					table
-				 	.column(11)
-			     	.search(tag, true, false)
-			     	.draw();
-				}
-				else{
-					$(this).attr('class', "list-group-item active");
-					tagArr.push($(this).attr('id'));
-					var tag = "";
-					//Create Tags
-					for(var x = 0; x < tagArr.length; x++){
-						if(!tag){
-							tag += tagArr[x];
-						}
-						else{
-							tag += "|";
-							tag += tagArr[x];
-						}
-					}
-					table
-				 	.column(11)
-			     	.search(tag, true, false)
-			     	.draw();
-		   	   }
-			 });
-
-		  	 //Affi
-		  	 $("#filter-affi").on("click", ".list-group-item", function(e) {
-				e.preventDefault();
-				if($(this).attr('class') == 'list-group-item active'){
-					$(this).attr('class', "list-group-item");
-
-					//Remove Filter
-					var remove = $(this).attr('id');
-
-					var location;
-					for(var x = 0; x < affiArr.length; x++){
-						if(affiArr[x] == remove){
-							location = x;
-						}
-					}
-					affiArr.splice(location, 1);
-					
-					var affi = "";
-					//Create Tags
-					for(var x = 0; x < affiArr.length; x++){
-						if(!affi){
-							affi += affiArr[x];
-						}
-						else{
-							affi += "|";
-							affi += affiArr[x];
-						}
-					}
-					table
-				 	.column(3)
-			     	.search(affi, true, false)
-			     	.draw();
-				}
-				else{
-					$(this).attr('class', "list-group-item active");
-					affiArr.push($(this).attr('id'));
-					var affi = "";
-					//Create Tags
-					for(var x = 0; x < affiArr.length; x++){
-						if(!affi){
-							affi += affiArr[x];
-						}
-						else{
-							affi += "|";
-							affi += affiArr[x];
-						}
-					}
-					table
-				 	.column(3)
-			     	.search(affi, true, false)
-			     	.draw();
-		   	   }
-			 });
-
-		  	  //Reset
-		  	$("#reset-filter").on("click", function(e) {
-				e.preventDefault();
-				$("#心").attr('class', "list-group-item");
-				$("#技").attr('class', "list-group-item");
-				$("#体").attr('class', "list-group-item");
-				$("#知").attr('class', "list-group-item");
-				$("#勇").attr('class', "list-group-item");
-				$("#ex-6").attr('class', "list-group-item");
-				$("#ex").attr('class', "list-group-item");
-				$("#pvp-reward").attr('class', "list-group-item");
-				$("#god").attr('class', "list-group-item");
-				$("#killer").attr('class', "list-group-item");
-				$("#limited-6").attr('class', "list-group-item");
-				$("#limited").attr('class', "list-group-item");
-				$("#event").attr('class', "list-group-item");
-				$("#slayer").attr('class', "list-group-item");
-				$("#special").attr('class', "list-group-item");
-				$("#gacha").attr('class', "list-group-item");
-				$("#fp").attr('class', "list-group-item");
-				$("#木ノ葉").attr('class', "list-group-item");
-				$("#“暁”").attr('class', "list-group-item");
-				$("#その他").attr('class', "list-group-item");
-				$("#砂").attr('class', "list-group-item");
-				$("#霧").attr('class', "list-group-item");
-				$("#“鷹”").attr('class', "list-group-item");
-				$("#“蛇”").attr('class', "list-group-item");
-				$("#岩").attr('class', "list-group-item");
-				$("#雲").attr('class', "list-group-item");
-				$("#雨").attr('class', "list-group-item");
-				$("#音").attr('class', "list-group-item");
-				$("#滝").attr('class', "list-group-item");
-				$("#鉄").attr('class', "list-group-item");
-				
-				for(var x = 0; x < 12; x++){
-					table
-				 	.column(x)
-			     	.search("", true, false)
-			     	.draw();	
-		     	}
-			 });
-
-		} );
-	</script>
-
+	<script type="text/javascript" src="js/table.js"></script>
 	<script>
 		$('#newModal').on('hidden.bs.modal', function (e) {
 		  $(this).find(‘.modal-dialog’).empty();

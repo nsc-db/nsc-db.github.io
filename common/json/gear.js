@@ -1,5 +1,5 @@
 window.gear=[
-     {
+      {
           "crystalId": "1",
           "crystalType": "1",
           "crystalRare": "1",
@@ -13739,7 +13739,7 @@ window.gear=[
           "saleMoney": "2500",
           "crystalName": "鯉のぼり（ひ鯉）",
           "crystalDescription": "チャクラ消費量が30％減少し、行動後にチャクラが15%回復する",
-          "crystalImageId": "105054",
+          "crystalImageId": "105074",
           "recipeId": "10507",
           "recipeName": "鯉のぼり（ひ鯉）"
         },
@@ -13755,7 +13755,7 @@ window.gear=[
           "saleMoney": "2500",
           "crystalName": "鯉のぼり（ひ鯉）",
           "crystalDescription": "全スキルダメージを80％アップする",
-          "crystalImageId": "105055",
+          "crystalImageId": "105075",
           "recipeId": "10508",
           "recipeName": "鯉のぼり（ひ鯉）"
         },
@@ -13790,6 +13790,54 @@ window.gear=[
           "crystalImageId": "105105",
           "recipeId": "10510",
           "recipeName": "ｻｽｹの“蛇”のﾏﾝﾄ"
+        },
+        {
+          "crystalId": "10511",
+          "crystalType": "1",
+          "crystalRare": "5",
+          "effectIdx1": "10049",
+          "effectIdx2": "13049",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "イタチの天照",
+          "crystalDescription": "最大HPと素早さが50％アップする",
+          "crystalImageId": "105115",
+          "recipeId": "10511",
+          "recipeName": "イタチの天照"
+        },
+        {
+          "crystalId": "10512",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "411",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "十拳剣",
+          "crystalDescription": "写輪眼タイプのスキルダメージを80％アップする",
+          "crystalImageId": "105125",
+          "recipeId": "10512",
+          "recipeName": "十拳剣"
+        },
+        {
+          "crystalId": "10513",
+          "crystalType": "3",
+          "crystalRare": "5",
+          "effectIdx1": "1137",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "九尾の壁絵",
+          "crystalDescription": "火遁タイプのスキルダメージを80％アップする",
+          "crystalImageId": "105135",
+          "recipeId": "10513",
+          "recipeName": "九尾の壁絵"
         },
         {
           "crystalId": "10525",

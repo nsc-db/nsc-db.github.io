@@ -16641,6 +16641,24 @@ window.ability=[
           "effectIdx3": "1761"
         },
         {
+          "abilityId": "1883",
+          "abilityName": "目で追えぬ印",
+          "abilityDescription": "最大チャクラ量が50アップし、最大HPと素早さが100%アップする",
+          "abilityEffectDescription": "最大チャクラ量が50アップし、最大HPと素早さが100%アップする",
+          "effectIdx1": "689",
+          "effectIdx2": "684",
+          "effectIdx3": "13099"
+        },
+        {
+          "abilityId": "1884",
+          "abilityName": "幻影をみせる瞳",
+          "abilityDescription": "スキルダメージと防御力が100%アップし、チャクラ消費量が半減する",
+          "abilityEffectDescription": "スキルダメージと防御力が100%アップし、チャクラ消費量が半減する",
+          "effectIdx1": "774",
+          "effectIdx2": "12099",
+          "effectIdx3": "895"
+        },
+        {
           "abilityId": "1901",
           "abilityName": "隻眼の剣士",
           "abilityDescription": "最大HPと攻撃力が80％アップする",

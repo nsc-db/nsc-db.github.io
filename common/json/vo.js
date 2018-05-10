@@ -1,5 +1,5 @@
 window.vo=[
- {
+        {
           "cardVoiceId": "1",
           "cardId": "20001782",
           "dirName": "naruto",
@@ -65,7 +65,7 @@ window.vo=[
           "dirName": "hinata",
           "evolutionStep": "",
           "voiceAppear": "hinata_battle_02_01",
-          "voiceSkill1": "hinata_skill_02_02,hinata_skill_02_03,,hinata_skill_02_04,hinata_skill_02_05,hinata_skill_02_06,hinata_skill_02_07",
+          "voiceSkill1": "hinata_skill_02_01",
           "voiceSkill2": "",
           "voicePursuit": "",
           "voiceWin": "hinata_win_02_01",
@@ -1342,6 +1342,18 @@ window.vo=[
           "voicePursuit": "",
           "voiceWin": "sasuke_win_02_01",
           "voiceDeath": "sasuke_death_02_01"
+        },
+        {
+          "cardVoiceId": "113",
+          "cardId": "20040508",
+          "dirName": "itachi",
+          "evolutionStep": "",
+          "voiceAppear": "itachi_battle_02_02",
+          "voiceSkill1": "itachi_skill_02_08",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "itachi_win_02_02",
+          "voiceDeath": "itachi_death_02_01"
         },
         {
           "cardVoiceId": "8001",

@@ -15921,8 +15921,8 @@ window.chara=[
           "cardId": "20001744",
           "modelId": "338",
           "charaType": "1",
-          "cardSubName": "己を貫き通す時",
-          "cardInformation": "苦楽を共にした友の死、己に道を示してくれた師の覚悟…。忍の宿命に直面する度に頬を伝う滴。涙の分だけ決意を新たにリーは強くなる。",
+          "cardSubName": "Moment of Faith",
+          "cardInformation": "After the death of a friend, Lee's teacher showed him the way. For every lives lost, a tear drops down Lee's cheeks; and with each tear, Lee becomes stronger",
           "bookNo": "554",
           "rare": "5",
           "motionType": "3",
@@ -15957,7 +15957,7 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-08-02 23:45:07",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20001745",
@@ -16467,8 +16467,8 @@ window.chara=[
           "cardId": "20001757",
           "modelId": "270",
           "charaType": "8",
-          "cardSubName": "天才造形師",
-          "cardInformation": "かつて砂隠れの里でも歴代最強の傀儡師として名を残した“赤砂”のサソリ。久遠の芸術に心血を注ぎ生命の理を外れ、死者を人形へと作り変える。今の彼は“暁”の一員として、その力を振るう。",
+          "cardSubName": "Genius Moulding Artist",
+          "cardInformation": "Sasori of the Red Sand was the greatest puppet master of Suna. With the power of a forbidden jutsu, Sasori created puppets from the body of the dead. The power of his puppets lies with his loyality to the Akatsuki",
           "bookNo": "581",
           "rare": "5",
           "motionType": "3",
@@ -16503,7 +16503,7 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-08-31 23:05:16",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20001758",
@@ -17265,8 +17265,8 @@ window.chara=[
           "cardId": "20001776",
           "modelId": "524",
           "charaType": "1",
-          "cardSubName": "選択された未来",
-          "cardInformation": "九匹のケモノの名を呼ぶ予言の子。戦いの果てに望むものは――己が夢と、孤独へと向かう友を救うこと…！己の示した忍道…どんな困難な道であっても、ナルトは歩みを止めない。",
+          "cardSubName": "Choosen Future",
+          "cardInformation": "The Child of Prophecy who knows the name of all Nine Tailed Beast. His goals is to save his friend who is stuck in hatred and solitude, and Naruto won't stop no matter whats in his way",
           "bookNo": "595",
           "rare": "5",
           "motionType": "3",
@@ -17301,14 +17301,14 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-09-26 19:08:41",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20001777",
           "modelId": "543",
           "charaType": "1",
-          "cardSubName": "断ち切る過去",
-          "cardInformation": "呪われた因習を断ち…新たな歴史を作る。目指すは新たなる理想郷、過去の負の遺産は全て漆黒の炎で焼き払い…己が唯一の友を切る！――サスケの胸中には未だ消えぬ闇が宿っていた。",
+          "cardSubName": "Cutting Off the Past",
+          "cardInformation": "After breaking the Curse, a new history must be created. With the aim to create a new world with the negative of his past burned down in black flames. Sasuke is willing to cut down his only friend.",
           "bookNo": "596",
           "rare": "5",
           "motionType": "5",
@@ -17343,7 +17343,7 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-09-26 19:08:41",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20001778",
@@ -17517,8 +17517,8 @@ window.chara=[
           "cardId": "20001782",
           "modelId": "319",
           "charaType": "1",
-          "cardSubName": "究極の螺旋",
-          "cardInformation": "妙木山の修業で“仙術”を修得したナルトは、その力を以て、師・自来也の仇ペインに挑む。だが…戦いの最中にペインの抱えた痛みを知る。復讐――親しきものを殺された怒り…それは師を失ったナルトにも理解し得るものだった。",
+          "cardSubName": "Ultimate Spiral",
+          "cardInformation": "After training in Mount Myoboku, Naruto was able to aquire the power of Sage. With his newly found powers, Naruto will challenge the killer of his teacher.",
           "bookNo": "602",
           "rare": "5",
           "motionType": "3",
@@ -17553,7 +17553,7 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-10-06 22:55:29",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20001783",
@@ -17685,8 +17685,8 @@ window.chara=[
           "cardId": "20001786",
           "modelId": "564",
           "charaType": "1",
-          "cardSubName": "忍の神と謳われし者",
-          "cardInformation": "哀しき決別の刻。後に終末の谷と呼ばれる場所で、柱間とマダラの戦いは壮絶なものになった。地形が変わるほどの忍術のぶつかり合い、共に里を作り夢見た友…柱間はこの時、一つの覚悟を決めるのだった。",
+          "cardSubName": "A God Amongst Shinobi",
+          "cardInformation": "A place of sorrowful seperation. That place was later called the Final Valley. The battle between Hashirama and Madara because part of histoy. Two friends who collided with power enough to change the map. Together they created the village they dreamed off.",
           "bookNo": "606",
           "rare": "5",
           "motionType": "2",
@@ -17721,7 +17721,7 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-10-12 18:48:23",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20001787",
@@ -18021,8 +18021,8 @@ window.chara=[
           "cardId": "20001794",
           "modelId": "257",
           "charaType": "8",
-          "cardSubName": "希望の懸け橋",
-          "cardInformation": "光無き世界に花は咲かない…。小南は、弥彦が掲げた光を長門へ、そして新たな希望の光をナルトへと繋ぐため「闇」との戦いに臨む。その姿は気高く、美しく…そして儚い。",
+          "cardSubName": "Bridge of Hope",
+          "cardInformation": "In a world without light, flowers cannot bloom. Konan faces the darkness in order to connect the light that was carried by Yahiko and Nagito. The light of a new hope to Naruto. It's shape, noble... beautiful... and fickle",
           "bookNo": "614",
           "rare": "5",
           "motionType": "3",
@@ -18057,7 +18057,7 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-10-27 17:03:57",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20001795",
@@ -18357,8 +18357,8 @@ window.chara=[
           "cardId": "20001802",
           "modelId": "321",
           "charaType": "1",
-          "cardSubName": "諦めない選択",
-          "cardInformation": "“四代目火影の師”、“伝説の三忍”、“蝦蟇仙人”…忍として圧倒的な実力もさることながら、木ノ葉の忍に「生ける伝説」として称賛されつづける豪傑。だが、彼だけは、その称賛に異を唱える。己にはその資格はない…。自来也の心底には、彼だけが綴り、秘めたる物語がある。",
+          "cardSubName": "Choosing Not to Give Up",
+          "cardInformation": "Teacher of the Fourth Hokage, part of the legendary Sannin. A living legend that is praised by all shinobi of Konoha. But he himself does not believe in their beliefs. To Jiraiya, he does not have the qualification. Deep inside, a secret story exist",
           "bookNo": "622",
           "rare": "5",
           "motionType": "3",
@@ -18393,14 +18393,14 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-11-08 11:14:57",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20001803",
           "modelId": "568",
           "charaType": "8",
-          "cardSubName": "至高の爆破芸術",
-          "cardInformation": "かつて、うちはイタチを前に、デイダラは敗北した。喪失した芸術家としての矜持、新たに芽生えたのは「羨望」と「屈辱」――己が芸術で“写輪眼”の呪縛を解く！今、至高の芸術を以て、うちはの血を滅する！！",
+          "cardSubName": "Supreme Explosion Art",
+          "cardInformation": "In the past, Deidara was defeated by Itachi Uchiha. Deidara's defeat cause the emotion of envy and humiliation which resulted in the birth of his mechanical eye to counter the Sharingan.",
           "bookNo": "623",
           "rare": "5",
           "motionType": "2",
@@ -18435,7 +18435,7 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-11-11 17:13:57",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20001804",
@@ -18567,8 +18567,8 @@ window.chara=[
           "cardId": "20001807",
           "modelId": "315",
           "charaType": "9",
-          "cardSubName": "憎悪の雷鳴",
-          "cardInformation": "復讐者たること。それが自身の存在理由の第一と定め、サスケは行動する。力のみを追い求め、温もりも安らぎも峻拒し、一族、家族の仇である、兄イタチを殺す、ただそれだけの為にサスケは生きてきた。隠された真実を知らぬまま…。",
+          "cardSubName": "Thunder of Hatred",
+          "cardInformation": "Quest of revenge. Sasuke acts because its the reason of his existance. The death of his brother Itachi is the only thing Sasuke can see. Sasuke pursue strength to get revenge for his family, but he does not know the hidden truth",
           "bookNo": "627",
           "rare": "5",
           "motionType": "2",
@@ -18603,7 +18603,7 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-11-28 11:13:52",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20001808",
@@ -30447,6 +30447,48 @@ window.chara=[
           "createTime": "2018-04-17 18:04:25",
           "createUserId": "11",
           "updateTime": "2018-04-27 18:52:16",
+          "updateUserId": "11",
+          "translated": "1"
+        },
+        {
+          "cardId": "20040508",
+          "modelId": "8",
+          "charaType": "8",
+          "cardSubName": "Secret Eye Desire",
+          "cardInformation": "Itachi jumped into darkness by dyeing his hands with blood of his family and clan. Instead of loving his borther, Itachi made Sasuke feed into hatred hoping one day he will be strong enough to take his life. ",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "8",
+          "attribute": "7",
+          "abilityId1": "1883",
+          "abilityId2": "1884",
+          "battleSkillId1": "2383",
+          "battleSkillId2": "2384",
+          "leaderSkillId": "733",
+          "runSkillId1": "0",
+          "hp": "3986",
+          "hpMax": "12756",
+          "attack": "5232",
+          "attackMax": "16743",
+          "attackBehaveNum": "0",
+          "defense": "3239",
+          "defenseMax": "10365",
+          "speed": "196",
+          "speedMax": "196",
+          "hitLot": "10000",
+          "avoidanceLot": "1900",
+          "criticalLot": "1700",
+          "criticalDamageLot": "17600",
+          "cost": "40",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "11601",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "0",
+          "createTime": "2018-04-23 19:59:30",
+          "createUserId": "11",
+          "updateTime": "2018-05-02 19:36:45",
           "updateUserId": "11",
           "translated": "1"
         },

@@ -4932,6 +4932,10 @@ window.skillname=[
           "name": "ポップは死んだ！"
         },
         {
+          "cardBattleSkillNameId": "2413",
+          "name": "お前はどこまで見えている"
+        },
+        {
           "cardBattleSkillNameId": "2420",
           "name": "呪印・天雷"
         },

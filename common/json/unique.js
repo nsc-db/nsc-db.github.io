@@ -7198,5 +7198,41 @@ window.unique=[
           "effectIdx2": "1762",
           "effectIdx3": "694",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "611",
+          "targetCrystal": "10511",
+          "description": "最大HP、攻撃力、防御力が120％アップ、素早さ80％アップする",
+          "charaIds": "11601,11603",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1221",
+          "effectIdx2": "736",
+          "effectIdx3": "12111",
+          "effectIdx4": "13079"
+        },
+        {
+          "crystalOverwriteEffectId": "612",
+          "targetCrystal": "10512",
+          "description": "全スキルダメージ100％アップ、スキル発動速度1段階アップ、確率でスキル回避",
+          "charaIds": "11601,11603",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "774",
+          "effectIdx2": "21000",
+          "effectIdx3": "734",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "613",
+          "targetCrystal": "10513",
+          "description": "全スキルダメージ120％アップ、尾獣と写輪眼無効、2回行動までは全スキル無効",
+          "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "600001",
+          "effectIdx1": "30011",
+          "effectIdx2": "1764",
+          "effectIdx3": "663",
+          "effectIdx4": "0"
         }
 ]
