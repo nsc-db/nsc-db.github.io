@@ -67,7 +67,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "14",
           "name": "八卦六十四掌",
-          "eng": ""
+          "eng": "Eight Traigrams Sixty-Four Palms"
         },
         {
           "cardBattleSkillNameId": "15",
@@ -1657,7 +1657,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "474",
           "name": "昼虎",
-          "eng": ""
+          "eng": "Hirudora"
         },
         {
           "cardBattleSkillNameId": "475",
@@ -2537,7 +2537,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "755",
           "name": "金剛封鎖",
-          "eng": ""
+          "eng": "Adamantine Sealing Chains"
         },
         {
           "cardBattleSkillNameId": "756",
@@ -3967,21 +3967,21 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "1465",
           "name": "桜花衝・落花流水",
-          "eng": ""
+          "eng": "Cherry Blossom: Falling Sakura Stream"
         },
         {
           "cardBattleSkillNameId": "1466",
           "name": "アンタは私がぶっ潰す！",
-          "eng": ""
+          "eng": "I Will Crush You"
         },
         {
           "cardBattleSkillNameId": "1487",
           "name": "威装・須佐能乎",
-          "eng": ""
+          "eng": "Majestic Attire: Susano'o"
         },
         {
           "cardBattleSkillNameId": "1488",
-          "name": "オレは…届いたのさ",
+          "name": "I Have Arrived",
           "eng": ""
         },
         {
@@ -3992,7 +3992,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "1492",
           "name": "このままで行きます！",
-          "eng": ""
+          "eng": "I'll Proceed Like This"
         },
         {
           "cardBattleSkillNameId": "1493",
@@ -4007,17 +4007,17 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "1501",
           "name": "神威手裏剣",
-          "eng": ""
+          "eng": "Kamui Shuriken"
         },
         {
           "cardBattleSkillNameId": "1502",
           "name": "オレ達で世界を救うぞ",
-          "eng": ""
+          "eng": "We Will Save the World"
         },
         {
           "cardBattleSkillNameId": "1504",
           "name": "次は青春の一撃だ！",
-          "eng": ""
+          "eng": "Here Comes the Next Youth Blow"
         },
         {
           "cardBattleSkillNameId": "1508",
@@ -4092,12 +4092,12 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "1543",
           "name": "螺旋閃光超輪舞吼参式",
-          "eng": ""
+          "eng": "Rasen Senko Cho Rinbuko Sanshiki"
         },
         {
           "cardBattleSkillNameId": "1544",
           "name": "オレがスキを作る！",
-          "eng": ""
+          "eng": "I Will Make the Light"
         },
         {
           "cardBattleSkillNameId": "1545",
@@ -4107,7 +4107,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "1546",
           "name": "ここで終わらせるわ",
-          "eng": ""
+          "eng": "I Will Finish It Here"
         },
         {
           "cardBattleSkillNameId": "1552",

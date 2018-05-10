@@ -18,7 +18,7 @@
 		var model = '<tr class="clickable" data-toggle="modal" data-target="#newModal">'
 					+'		<td class="text-center"><img id="icon-table" src="../common/assets/img/units/icons/thumb_' + image + '"height="60px" width="60px" /><div style="display:none">' + data['cardId'] + '</td>'
 					+'		<td class="text-left"><a href= "view/' + data["cardId"] + '" data-toggle="modal" data-target="#newModal">' + name + ", " + data["cardSubName"] + '</a></td>'
-					+'		<td class="text-center">' + type + '</td>'
+					+'		<td class="text-center"><img id="icon-table" src="../common/assets/img/rarity/' + type + '.png" /><div style="display:none">' + type + '</div></td>'
 					+'		<td class="text-center affiliation" affiliation="' + affi + '"><div style="display:none;">' + affi + '</div></td>'
 					+'		<td class="text-center rarity" rarity="' + rare + '"><div style="display:none">' + rare + '</div></td>'
 					+'		<td class="text-center">' + data["cost"] + '</td>'
@@ -271,11 +271,44 @@
 			}
 		}
 		//Type
+		//Type
 		for(var x in window.chara){
 			if(cid == window.chara[x]['cardId']){
-				var type = checkType(window.chara[x]);
-				$('#type-unit').text(type);
-				$('#type-unit').attr('type', type);
+				var change = 0;
+				var stuff = '';
+				var rare;
+				stuff += checkType(window.chara[x]);
+
+				//Add Stats from Evo Bonus
+				for(var n in window.evo){
+					if(window.chara[x]["cardId"] == window.evo[n]['cardId']){
+						if((window.chara[x]["rare"] != window.evo[n]['rare']) && window.evo[n]['rare'] != 0){
+							rare = window.evo[n]['rare'];
+							change = 1;
+							break;
+						}
+					}
+				}
+				if (change == 0){
+					rare = window.chara[x]['rare']
+				}
+				stuff += "_" + rare;
+
+
+				if(window.tags[x]['tag'] == "ex-5" || window.tags[x]['tag'] == "ex-6"){
+					stuff += "_ex.png";
+				}
+				else if(window.tags[x]['tag'] == "god"){
+					stuff += "_god.png";
+				}
+				else if(window.tags[x]['tag'] == "pvp-reward"){
+					stuff += "_pvp.png";
+				}
+				else{
+					stuff += ".png";
+				}
+
+				$('#type-unit').attr('src', '../common/assets/img/rarity/' + stuff); 
 			}
 		}
 	

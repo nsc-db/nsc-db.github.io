@@ -2691,13 +2691,13 @@ window.tags=[
           "cardId": "20001813",
           "rare": "5",
           "tag": "ex-5",
-          "rate": "-"
+          "rate": "80"
 },
 {
           "cardId": "20001814",
           "rare": "5",
           "tag": "ex-5",
-          "rate": "-"
+          "rate": "84"
 },
 {
           "cardId": "20001815",
@@ -2715,19 +2715,19 @@ window.tags=[
           "cardId": "20001817",
           "rare": "5",
           "tag": "ex-5",
-          "rate": "-"
+          "rate": "87"
 },
 {
           "cardId": "20001818",
           "rare": "5",
           "tag": "ex-5",
-          "rate": "-"
+          "rate": "95"
 },
 {
           "cardId": "20001819",
           "rare": "5",
           "tag": "ex-5",
-          "rate": "-"
+          "rate": "85"
 },
 {
           "cardId": "20001820",
@@ -2793,13 +2793,13 @@ window.tags=[
           "cardId": "20001830",
           "rare": "5",
           "tag": "ex-5",
-          "rate": "-"
+          "rate": "86"
 },
 {
           "cardId": "20001831",
           "rare": "5",
           "tag": "ex-5",
-          "rate": "-"
+          "rate": "95"
 },
 {
           "cardId": "20001832",

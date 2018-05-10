@@ -18819,7 +18819,7 @@ window.chara=[
           "cardId": "20001813",
           "modelId": "252",
           "charaType": "1",
-          "cardSubName": "希望の未来",
+          "cardSubName": "Hope of the Future",
           "cardInformation": "サスケとナルトの後ろで守られてきた頃とは違う。サクラは伝説の三忍の一人、綱手を師に得ることで、確実に成長する。師譲りの医療忍術と怪力は、元来は後方支援タイプだったサクラが切り込み役も担える程の冴えを見せる。",
           "bookNo": "633",
           "rare": "5",
@@ -18855,13 +18855,13 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-12-06 14:09:55",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20001814",
           "modelId": "575",
           "charaType": "99",
-          "cardSubName": "破壊と災禍の化身",
+          "cardSubName": "Avatar of Destruction and Disaster",
           "cardInformation": "一度は届いたはずの夢…「木ノ葉隠れ」と名づけ、友と創設した忍の里はまさに、友と、二人の夢の証だった。しかし、マダラは見抜く…やがて木ノ葉隠れの里に巣食うことになる「闇」の存在を…。そして…決別の戦いが始まる。",
           "bookNo": "634",
           "rare": "5",
@@ -18897,7 +18897,7 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-12-19 09:51:44",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20001815",
@@ -18987,7 +18987,7 @@ window.chara=[
           "cardId": "20001817",
           "modelId": "480",
           "charaType": "1",
-          "cardSubName": "清き白百合",
+          "cardSubName": "Noble White Lily",
           "cardInformation": "穢れなく真っ直ぐな想い、恋慕の情を覚悟に代えて、ヒナタは未来へと歩みを進める。第四次忍界大戦の最中、ヒナタは遂に“八卦六十四掌”を会得する。",
           "bookNo": "637",
           "rare": "5",
@@ -19023,13 +19023,13 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-12-14 13:45:06",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20001818",
           "modelId": "565",
           "charaType": "1",
-          "cardSubName": "双眸の写輪眼",
+          "cardSubName": "Pair of Sharingan Eyes",
           "cardInformation": "”写輪眼のカカシ”としてその名を他国にまで轟かせ、若き頃から多くの人物より才能と実力を評価され、里を代表する有能な存在となっている。上忍としての任務を遂行する一方で第七班の部隊長を務め、下忍の指導にあたっている。",
           "bookNo": "638",
           "rare": "5",
@@ -19065,13 +19065,13 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-12-23 10:55:25",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20001819",
           "modelId": "12",
           "charaType": "1",
-          "cardSubName": "青春の正拳突き",
+          "cardSubName": "Youthful Straight Fist",
           "cardInformation": "“八門遁甲の陣”最後の門――死門。それは諸刃の剣。莫大な力と引き換えに、己の命を散らす未来がもたらされる。自分の大切なものを死んでも守りぬく時…マイト・ガイはマダラとの最終決戦に挑む。",
           "bookNo": "639",
           "rare": "5",
@@ -19107,7 +19107,7 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-12-23 10:55:25",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20001820",
@@ -19533,7 +19533,7 @@ window.chara=[
           "cardId": "20001830",
           "modelId": "500",
           "charaType": "1",
-          "cardSubName": "鎮魂の光耀",
+          "cardSubName": "Spirit's Light",
           "cardInformation": "木ノ葉隠れの里の四代目火影。第四次忍界大戦の最中、大蛇丸の穢土転生によって蘇り、ナルトたちの窮地に駆けつける。屍鬼封尽で己のチャクラと共に封印した、九尾の半身と和解し、九尾チャクラモードを修得する。",
           "bookNo": "650",
           "rare": "5",
@@ -19569,13 +19569,13 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2017-01-23 10:03:03",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20001831",
           "modelId": "334",
           "charaType": "1",
-          "cardSubName": "堅牢なる鎖",
+          "cardSubName": "Sturdy Chain",
           "cardInformation": "九尾を宿した先代人柱力。うずまき一族特有の赤い髪と特殊な封印術が特徴のくノ一。幼少時は嫌っていた赤い髪。しかし、それはある事件をきっかけに、波風ミナトとの縁を結ぶ赤い糸となる。",
           "bookNo": "651",
           "rare": "5",
@@ -19611,7 +19611,7 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2017-01-25 18:08:28",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20001832",

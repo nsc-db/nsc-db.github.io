@@ -52490,7 +52490,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1465",
           "nameIdx": "1465",
-          "description": "敵単体に攻撃力7％＋3000のダメージを与え、自身を集中状態にする。さらに敵が憤怒状態の時、ダメージ8倍。【特殊状態：集中】行動するごとにチャクラ消費量ダウン、最大50％減少",
+          "description": "Deal 7% + 3,000 to one enemy and grant \"Concentration\" state. Deal 8x more damage to enemies under \"Anger\" state. [Concentration: Chakra Cost is reduced every turn. Max 50%]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1465",
@@ -52526,7 +52526,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1466",
           "nameIdx": "1466",
-          "description": "自身のHPを大回復し、隊長のHPを完全回復する。さらに敵全体を確率で憤怒状態にする。【特殊状態：憤怒】スキル発動速度1段階ダウン、攻撃力が50%アップ",
+          "description": "Recover own HP by a large amount, Recover leader's HP to full. Chance to inflict \"Anger\" state to all enemies. [Anger: Cast Speed -1, ATK +50%]",
           "categoryId": "2",
           "levelType": "2",
           "scriptId": "100004",
@@ -53282,7 +53282,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1487",
           "nameIdx": "1487",
-          "description": "敵全体に攻撃力3％＋1500のダメージを与え、敵に木ノ葉所属が1人でも生存していればダメージが3倍。さらに敵に千手柱間が1人でも生存していればダメージが2倍。（最大6倍）",
+          "description": "Deal 5% + 1,500 to all enemies. Deal 3x more damage if one of the enemy is a Konoha Character. Deal 2x more damage if one of the enemy is \"Hashirama Senju\" (Max 6x)",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1487",
@@ -53318,7 +53318,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1488",
           "nameIdx": "1488",
-          "description": "自身の攻撃・防御・素早さ100%アップ、唯我状態となる。【特殊状態：唯我】全スキルダメージ半減、班の生存している木ノ葉所属が少ない程スキルダメージアップ、最大120%。※助っ人含む",
+          "description": "Own ATK, DEF and SPD +100% and grant \"Selfish\" state. [Selfish: All incoming Skill damage are halved. Skill Damage increase the less Konoha character in the team. Max 120%]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -53426,7 +53426,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1491",
           "nameIdx": "14",
-          "description": "敵単体に攻撃力7％＋2000のダメージを与え、自身が獅拳状態の場合はダメージが4倍、さらに敵がスキル発動速度ダウン時ダメージ2倍。（最大8倍）また確率で獅拳状態が解除される。",
+          "description": "Deal 7% + 2,000 to one enemy. Deal 4x more damage while under \"Twin Lion Fist.\" Deal 2x more damage to enemies with Cast Speed lower. (Max 8x). Chance to Cancel \"Twin Lion Fist\" state",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1491",
@@ -53462,7 +53462,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1492",
           "nameIdx": "1492",
-          "description": "自身の攻撃力と素早さを80%アップし、さらに獅拳状態にする。【特殊状態：獅拳】通常攻撃が常に必中＋会心、さらに通常攻撃に確率でスキル発動速度1段階ダウンさせる効果が付く。",
+          "description": "Own ATK and SPD +80% and grant \"Twin Lion Fist\" state. [Twin Lion Fist: Basic Attack are always type advantage and Crit with a Chance to lower Cast Speed by 1]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -53786,7 +53786,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1501",
           "nameIdx": "1501",
-          "description": "敵単体に耐性を無視して30000のダメージを与え、確率で斬状態にする。高確率で会心、会心時ダメージ4倍。【必中スキル】【特殊状態：斬】スキル発動速度が1段階遅くなり、スキルダメージ30%ダウン",
+          "description": "Deal 30,000 Fixed Damage to one enemy, with a Chance to Crit dealing 4x more damage and a Chance to inflict \"Cut\" state. [Cut: Skill Damage -1, Skill Damage -30%]",
           "categoryId": "1",
           "levelType": "2",
           "scriptId": "1501",
@@ -53822,7 +53822,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1502",
           "nameIdx": "1502",
-          "description": "味方全体の攻撃力が50%アップし、奮起状態にする。【特殊状態：奮起】攻撃・防御・素早さが30%アップし、行動するたびにHPとチャクラが5%回復する。",
+          "description": "All allies ATK +50% and grant \"Rally\" state. [Rally: ATK, DEF and SPD +30%, Recover 5% HP and Chakra after every action]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -53858,7 +53858,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1503",
           "nameIdx": "474",
-          "description": "敵単体に防御力を30%無視して20倍の攻撃力で攻撃し、周囲にもダメージを与える。しかし自身のHPがかなり減少する。",
+          "description": "Deal 20x ATK damage to one enemy ignoring 30% DEF. Deal damage to their surroundings and lose a large amount of HP",
           "categoryId": "1",
           "levelType": "1",
           "scriptId": "1503",
@@ -53894,7 +53894,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1504",
           "nameIdx": "1504",
-          "description": "自身の攻撃力と素早さを80%アップし、味方のロック・リーとマイト・ガイに開状態とスキル回避状態（確率）を付与する。【特殊状態：開】攻撃力が200%アップする。",
+          "description": "Own ATK and SPD +80%, and grant \"Open\" state to ally \"Rock Lee\" and \"Might Gai\" [Open: ATK +200%, Chance to Dodge Skills]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -54650,7 +54650,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1525",
           "nameIdx": "1487",
-          "description": "敵全体に攻撃力3％＋5000のダメージを与え、敵に木ノ葉所属が1人でも生存していればダメージが5倍。さらに敵に千手柱間が1人でも生存していればダメージが10倍。（最大50倍）",
+          "description": "Deal 5% + 5,000 to all enemies. Deal 5x more damage if one of the enemy is a Konoha Character. Deal 10x more damage if one of the enemy is \"Hashirama Senju\" (Max 50x)",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1525",
@@ -54686,7 +54686,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1526",
           "nameIdx": "1488",
-          "description": "自身の攻撃・防御・素早さ150%アップ、唯我状態となる。【特殊状態：唯我】全スキルダメージ半減、班の生存している木ノ葉所属が少ない程スキルダメージアップ、最大300%。※助っ人含む",
+          "description": "Own ATK, DEF and SPD +120% and grant \"Selfish\" state. [Selfish: All incoming Skill damage are halved. Skill Damage increase the less Konoha character in the team. Max 300%]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -55298,7 +55298,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1543",
           "nameIdx": "1543",
-          "description": "敵単体に攻撃力7％＋3000のダメージを与え、確率で飛雷神マーキング、スキル発動速度1段階ダウンを付与する。さらにマーキング状態の敵にダメージ5倍、素早さ20%ダウン。",
+          "description": "Deal 7% + 3,000 to one enemy, with a Chance to put a Flying Thunder God Marking on the enemy and enemy's Cast Speed -1. Deal 5x more damage and reduce enemy SPD by 20% to enemies with Flying Thunder God Marking",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1543",
@@ -55334,7 +55334,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1544",
           "nameIdx": "1544",
-          "description": "自身の攻撃力とスキルダメージを80%アップ、閃光モード状態にする。【特殊状態：閃光モード】素早さ80%アップ、スキル発動速度が閃光化、速度ダウンを受けても閃光状態維持。",
+          "description": "Own ATK and Skill Damage +80% and grant \"Flash Mode\". [Flash Mode: SPD +80%, Cast Speed becomes Flash]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -55370,7 +55370,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1545",
           "nameIdx": "755",
-          "description": "敵単体に攻撃力7％＋6000のダメージを与え、確率で縛状態にする。さらに縛状態の時ダメージ4倍＋確率で行動キャンセル。【特殊状態：縛】スキルダメージ70%ダウン、素早さ30%ダウン。",
+          "description": "Deal 7% + 6,000 to one enemy with a Chance to put the enemy in a \"Bind\" state. Deal 4x more damage with a Chance to Cancel action to enemy under \"Bind\". [Bind: Skill Damage -70%, SPD -30%]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1545",
@@ -55406,7 +55406,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1546",
           "nameIdx": "1546",
-          "description": "味方全体のHPとチャクラを大回復し、さらに決意状態となる。【特殊状態：決意】攻撃・防御・素早さを50%アップし、攻撃を受けた時にチャクラとHP10%回復する。",
+          "description": "Recover a large amount of HP and Chakra to all allies and grant \"Determined\" state. [Determined: ATK, DEF and SPD +50%, Recover 10% Chakra and HP when attacked]",
           "categoryId": "3",
           "levelType": "2",
           "scriptId": "100004",
@@ -55442,7 +55442,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1547",
           "nameIdx": "1543",
-          "description": "敵単体に攻撃力7％＋5000のダメージを与え、高確率で飛雷神マーキング、スキル発動速度2段階ダウンを付与する。さらにマーキング状態の敵にダメージ7倍、素早さ30%ダウン。",
+          "description": "Deal 7% + 5,000 to one enemy, with a Chance to put a Flying Thunder God Marking on the enemy and enemy's Cast Speed -2. Deal 7x more damage and reduce enemy SPD by 30% to enemies with Flying Thunder God Marking",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1547",
@@ -55478,7 +55478,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1548",
           "nameIdx": "1544",
-          "description": "自身の攻撃力とスキルダメージを120%アップ、閃光モード状態にする。【特殊状態：閃光モード】素早さ100%アップ、スキル発動速度が閃光化、速度ダウンを受けても閃光状態維持。",
+          "description": "Own ATK and Skill Damage +120% and grant \"Flash Mode\". [Flash Mode: SPD +100%, Cast Speed becomes Flash]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -55514,7 +55514,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1549",
           "nameIdx": "755",
-          "description": "敵単体に攻撃力7％＋8000のダメージを与え、高確率で縛状態にする。さらに縛状態の時ダメージ5倍＋確率で行動キャンセル。【特殊状態：縛】スキルダメージ80%ダウン、素早さ30%ダウン。",
+          "description": "Deal 7% + 8,000 to one enemy with a High Chance to put the enemy in a \"Bind\" state. Deal 5x more damage with a Chance to Cancel action to enemy under \"Bind\". [Bind: Skill Damage -80%, SPD -30%]。",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1545",
@@ -55550,7 +55550,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1550",
           "nameIdx": "1546",
-          "description": "味方全体のHPとチャクラを特大回復し、さらに決意状態となる。【特殊状態：決意】攻撃・防御・素早さを80%アップし、攻撃を受けた時にチャクラとHP10%回復する。",
+          "description": "Recover a tremendous amount of HP and Chakra to all allies and grant \"Determined\" state. [Determined: ATK, DEF and SPD +80%, Recover 10% Chakra and HP when attacked]",
           "categoryId": "3",
           "levelType": "8",
           "scriptId": "100004",
@@ -58826,7 +58826,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1641",
           "nameIdx": "1465",
-          "description": "敵単体に攻撃力7%+5000のダメージを与え、自身を集中状態にする。さらに敵が憤怒状態の時、ダメージ9倍。【特殊状態：集中】行動するごとにチャクラ消費量ダウン、最大60％減少",
+          "description": "Deal 7% + 5,000 to one enemy and grant \"Concentration\" state. Deal 9x more damage to enemies under \"Anger\" state. [Concentration: Chakra Cost is reduced every turn. Max 60%]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1641",
@@ -58862,7 +58862,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1642",
           "nameIdx": "1466",
-          "description": "自身のHPを大回復し、隊長のHPを完全回復する。さらに敵全体を高確率で憤怒状態にする。【特殊状態：憤怒】スキル発動速度1段階ダウン、攻撃力が40%アップ",
+          "description": "Recover own HP by a large amount, Recover leader's HP to full. High chance to inflict \"Anger\" state to all enemies. [Anger: Cast Speed -1, ATK +40%]",
           "categoryId": "2",
           "levelType": "2",
           "scriptId": "1642",
@@ -64730,7 +64730,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1805",
           "nameIdx": "14",
-          "description": "敵単体に攻撃力7%+5000のダメージを与え、自身が獅拳状態の場合はダメージが8倍、さらに敵がスキル発動速度ダウン時ダメージ2倍。（最大16倍）また低確率で獅拳状態が解除される。",
+          "description": "Deal 7% + 5,000 to one enemy. Deal 8x more damage while under \"Twin Lion Fist.\" Deal 2x more damage to enemies with Cast Speed lower. (Max 16x). Low chance to Cancel \"Twin Lion Fist\" state",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1805",
@@ -64766,7 +64766,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1806",
           "nameIdx": "1492",
-          "description": "自身の攻撃力と素早さを150%アップし、さらに獅拳状態にする。【特殊状態：獅拳】通常攻撃が常に必中＋会心、さらに通常攻撃に確率でスキル発動速度1段階ダウンさせる効果が付く。",
+          "description": "Own ATK and SPD +150% and grant \"Twin Lion Fist\" state. [Twin Lion Fist: Basic Attack are always type advantage and Crit with a Chance to lower Cast Speed by 1]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "1806",
@@ -70706,7 +70706,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1975",
           "nameIdx": "1501",
-          "description": "敵単体に耐性を無視して40,000のダメージを与え、高確率で斬状態にする。味方の木ノ葉所属の人数に応じてダメージアップし最大6倍。さらに斬状態の敵に対しダメージ2倍。（合計12倍）【必中スキル】【特殊状態：斬】スキル発動速度が1段階遅くなり、スキルダメージ30%ダウン",
+          "description": "Deal 40,000 Fixed Damage to one enemy, with a high chance to inflict \"Cut\" state. Deal more damage the more Konoha ally, Max 6x. Deal 2x more damage to enemies under \"Cut\" state. [Cut: Skill Damage -1, Skill Damage -30%]",
           "categoryId": "1",
           "levelType": "2",
           "scriptId": "1975",
@@ -70742,7 +70742,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1976",
           "nameIdx": "1502",
-          "description": "味方全体の攻撃力が100%アップし、奮起状態にする。【特殊状態：奮起】攻撃・防御・素早さが50%アップし、行動するたびにHPとチャクラが10%回復する。",
+          "description": "All allies ATK +100% and grant \"Rally\" state. [Rally: ATK, DEF and SPD +50%, Recover 10% HP and Chakra after every action]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "1976",
@@ -70778,7 +70778,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1977",
           "nameIdx": "474",
-          "description": "敵単体に防御力を30%無視して90倍の攻撃力で攻撃し、周囲にもダメージを与える。しかし自身のHPが減少する。",
+          "description": "Deal 90x ATK damage to one enemy ignoring 30% DEF. Deal damage to their surroundings and lose some HP。",
           "categoryId": "1",
           "levelType": "1",
           "scriptId": "1977",
@@ -70814,7 +70814,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1978",
           "nameIdx": "1504",
-          "description": "自身の攻撃力と素早さを120%アップし、味方のロック・リーとマイト・ガイに開状態とスキル回避状態（中確率）を付与する。【特殊状態：開】攻撃力が200%アップする。",
+          "description": "Own ATK and SPD +120%, and grant \"Open\" state to ally \"Rock Lee\" and \"Might Gai\" [Open: ATK +200%, Chance to Dodge Skills]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
