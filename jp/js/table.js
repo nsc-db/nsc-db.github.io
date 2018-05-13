@@ -2,6 +2,10 @@ $(document).ready( function () {
 			var table = $('#myTable').DataTable({
 				stateSave: true,
 				responsive: true,
+				 "columnDefs": [
+			        {"className": "dt-left", "targets": [1]},
+   			        {"className": "dt-center", "targets": "_all"}
+			      ],
 				columns: [
 		            { 
 		            	title: "Icon",
@@ -14,7 +18,11 @@ $(document).ready( function () {
 		        	},
 		            { title: "属性" },
 		            { title: "所属" },
-		            { title: "レア" },
+		            { 
+		            	title: "レア",
+		            	"visible": false,
+		            	"searchable": true
+		            },
 		            { title: "コスト" },
 		            { title: "HP" },
 		            { title: "攻" },

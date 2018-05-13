@@ -1,6 +1,6 @@
 (function(){
 
-	function _createCard(data, name, type, hp, atk, def, spd, rare, affi, id, rate, tag, target, cast, damage, nature, voiced){
+	function _createCard(data, name, type, hp, atk, def, spd, rare, affi, id, rate, tag, target, cast, damage, nature, voiced, type_tag){
 		var image;
 		//Rarity Check
 		if(rare == 6){
@@ -18,7 +18,7 @@
 		var model = '<tr class="clickable" data-toggle="modal" data-target="#newModal">'
 					+'		<td class="text-center"><img id="icon-table" src="../common/assets/img/units/icons/thumb_' + image + '"height="60px" width="60px" /><div style="display:none">' + data['cardId'] + '</td>'
 					+'		<td class="text-left"><a href= "view/' + data["cardId"] + '" data-toggle="modal" data-target="#newModal"><strong>' + name + " 【" + data["cardSubName"] + '】</a></td>'
-					+'		<td class="text-center"><img id="icon-table" src="../common/assets/img/rarity/' + type + '.png" /><div style="display:none">' + type + '</div></td>'
+					+'		<td class="text-center"><img id="icon-table" src="../common/assets/img/rarity/' + type_tag + '" /><div style="display:none">' + type_tag + '</div></td>'
 					+'		<td class="text-center affiliation" affiliation="' + affi + '"><div style="display:none;">' + affi + '</div></td>'
 					+'		<td class="text-center rarity" rarity="' + rare + '"><div style="display:none">' + rare + '</div></td>'
 					+'		<td class="text-center">' + data["cost"] + '</td>'
@@ -59,6 +59,7 @@
 		var damage = '';// Character Damage Type
 		var nature = '';// Character Nature
 		var voiced = '';
+		var type_tag = '';
 
 		for(var i in window.chara){
 			//Current Character
@@ -100,6 +101,21 @@
 			affi = checkAffi(unit);
 			rate = window.tags[i]['rate'];
 			tag = window.tags[i]['tag'];
+
+			type_tag += type + "_" + rare;
+
+			if(tag == "ex-5" || tag == "ex-6"){
+				type_tag += "_ex.png";
+			}
+			else if(tag == "god"){
+				type_tag += "_god.png";
+			}
+			else if(tag == "pvp-reward"){
+				type_tag += "_pvp.png";
+			}
+			else{
+				type_tag += ".png";
+			}
 
 			//Find Skills Info
 			for(var n in window.skill){
@@ -189,12 +205,13 @@
 			//Creates Entry
 			if(units.indexOf(chara[0]) == -1){ // Verifies Character ID
 				units.push(unit[0]); // Adds Character in the array			
-				content += _createCard(unit, name, type, hp, atk, def, spd, rare, affi, id, rate, tag, target, cast, damage, nature, voiced); // chama a função passando os dados do card
+				content += _createCard(unit, name, type, hp, atk, def, spd, rare, affi, id, rate, tag, target, cast, damage, nature, voiced, type_tag); // chama a função passando os dados do card
 				target = '';
 				cast = '';
 				damage = '';
 				nature = '';
 				voiced = 0;
+				type_tag = '';
 			}
 		}
 		

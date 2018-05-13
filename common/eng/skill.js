@@ -19298,7 +19298,7 @@ window.skill=[
         {
           "cardBattleSkillId": "540",
           "nameIdx": "536",
-          "description": "Deal 3% + 800 to all enemies with a Chance to place the enemies under \"Gate of the Great God\" state. [Gate of the Great God: Gate of the Great God stacks doing different effect based on the number of stacks. [1] Skill Damage -15%, [2] Skill Damage -15%, SPD -20% [3] Cancel enemies' action]",
+          "description": "Deal 3% + 800 to all enemies with a Chance to place the enemies under 'Gate of the Great God' state. [Gate of the Great God: Gate of the Great God stacks doing different effect based on the number of stacks. [1] Skill Damage -15%, [2] Skill Damage -15%, SPD -20% [3] Cancel enemies' action]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "540",
@@ -23294,7 +23294,7 @@ window.skill=[
         {
           "cardBattleSkillId": "651",
           "nameIdx": "651",
-          "description": "Recover a tremendous amount of HP to all allies and grant \"Heal\" state [Heal: Recover 10% HP when attacked]",
+          "description": "Recover a tremendous amount of HP to all allies and grant 'Heal' state [Heal: Recover 10% HP when attacked]",
           "categoryId": "2",
           "levelType": "2",
           "scriptId": "651",
@@ -26102,7 +26102,7 @@ window.skill=[
         {
           "cardBattleSkillId": "730",
           "nameIdx": "730",
-          "description": "Deal 3% + 1,200 to all enemies, with a Chance to lower ATK and/or DEF by 50% and inflict \"Frog Illusion\" state. [Frog Illusion: Skills can't be used]",
+          "description": "Deal 3% + 1,200 to all enemies, with a Chance to lower ATK and/or DEF by 50% and inflict 'Frog Illusion' state. [Frog Illusion: Skills can't be used]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "730",
@@ -31286,7 +31286,7 @@ window.skill=[
         {
           "cardBattleSkillId": "874",
           "nameIdx": "874",
-          "description": "Deal 3% + 2,000 to all enemies with a chance to Crit dealing 3x damage and inflict \"Deadlock\" state. [Deadlock: ATK and DEF -50%, Immune to Buff and Debuff]",
+          "description": "Deal 3% + 2,000 to all enemies with a chance to Crit dealing 3x damage and inflict 'Deadlock' state. [Deadlock: ATK and DEF -50%, Immune to Buff and Debuff]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "874",
@@ -31358,7 +31358,7 @@ window.skill=[
         {
           "cardBattleSkillId": "876",
           "nameIdx": "876",
-          "description": "Deal 5x ATK damage to all enemies. Deal 5x damage to enemies with ATK, DEF and/or SPD debuffed (Including \"Deadlock\" state). Chance to cancel action",
+          "description": "Deal 5x ATK damage to all enemies. Deal 5x damage to enemies with ATK, DEF and/or SPD debuffed (Including 'Deadlock' state). Chance to cancel action",
           "categoryId": "1",
           "levelType": "1",
           "scriptId": "876",
@@ -31394,7 +31394,7 @@ window.skill=[
         {
           "cardBattleSkillId": "877",
           "nameIdx": "877",
-          "description": "All allies ATK +80% and grant \"Penetrate\" state. [Penetrate: Attacks ignore 30% DEF]",
+          "description": "All allies ATK +80% and grant 'Penetrate' state. [Penetrate: Attacks ignore 30% DEF]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "3",
@@ -31430,7 +31430,7 @@ window.skill=[
         {
           "cardBattleSkillId": "878",
           "nameIdx": "878",
-          "description": "Recover a large amount of HP to all allies, Chakra Cost -10% and grant \"Heal\" state. [Heal: Recover 10% HP when attacked]",
+          "description": "Recover a large amount of HP to all allies, Chakra Cost -10% and grant 'Heal' state. [Heal: Recover 10% HP when attacked]",
           "categoryId": "2",
           "levelType": "2",
           "scriptId": "878",
@@ -31466,7 +31466,7 @@ window.skill=[
         {
           "cardBattleSkillId": "879",
           "nameIdx": "879",
-          "description": "Recover a medium amount of HP to all allies, DEF +80% and grant \"Resist\" state. [Resist: Immune and Remove all Status Effect, Debuff and Genjutsu]",
+          "description": "Recover a medium amount of HP to all allies, DEF +80% and grant 'Resist' state. [Resist: Immune and Remove all Status Effect, Debuff and Genjutsu]",
           "categoryId": "2",
           "levelType": "2",
           "scriptId": "3",
@@ -33338,7 +33338,7 @@ window.skill=[
         {
           "cardBattleSkillId": "932",
           "nameIdx": "874",
-          "description": "Deal 3% + 6,000 to all enemies with a chance to crit dealing 5x damage and inflict \"Deadlock\" state. [Deadlock: ATK and DEF -50%, Immune to Buff and Debuff]",
+          "description": "Deal 3% + 6,000 to all enemies with a chance to crit dealing 5x damage and inflict 'Deadlock' state. [Deadlock: ATK and DEF -50%, Immune to Buff and Debuff]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "932",
@@ -33410,7 +33410,7 @@ window.skill=[
         {
           "cardBattleSkillId": "934",
           "nameIdx": "876",
-          "description": "Deal 7x ATK damage to all enemies. Deal 6x damage to enemies with ATK, DEF and/or SPD Debuff (Including \"Deadlock\" state). High Chance to Cancel the enemies' action",
+          "description": "Deal 7x ATK damage to all enemies. Deal 6x damage to enemies with ATK, DEF and/or SPD Debuff (Including 'Deadlock' state). High Chance to Cancel the enemies' action",
           "categoryId": "1",
           "levelType": "1",
           "scriptId": "934",
@@ -33446,7 +33446,7 @@ window.skill=[
         {
           "cardBattleSkillId": "935",
           "nameIdx": "877",
-          "description": "All allies ATK +150% and grant \"Penetrate\" [Penetrate: Attacks ignore 30% DEF]",
+          "description": "All allies ATK +150% and grant 'Penetrate' [Penetrate: Attacks ignore 30% DEF]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "3",
@@ -33482,7 +33482,7 @@ window.skill=[
         {
           "cardBattleSkillId": "936",
           "nameIdx": "878",
-          "description": "Recover a tremendous amount of HP to all allies, Chakra Cost -15% and grant \"Heal\" state. [Heal: Recover 20% HP when attacked]",
+          "description": "Recover a tremendous amount of HP to all allies, Chakra Cost -15% and grant 'Heal' state. [Heal: Recover 20% HP when attacked]",
           "categoryId": "2",
           "levelType": "2",
           "scriptId": "936",
@@ -33518,7 +33518,7 @@ window.skill=[
         {
           "cardBattleSkillId": "937",
           "nameIdx": "879",
-          "description": "Recover a large amoung of HP to all allies, DEF +150% and grant \"Resist\" state. [Resist: Immune and Remove all Status Effect, Debuff and Genjutsu]",
+          "description": "Recover a large amoung of HP to all allies, DEF +150% and grant 'Resist' state. [Resist: Immune and Remove all Status Effect, Debuff and Genjutsu]",
           "categoryId": "2",
           "levelType": "2",
           "scriptId": "3",
@@ -34814,7 +34814,7 @@ window.skill=[
         {
           "cardBattleSkillId": "973",
           "nameIdx": "973",
-          "description": "Deal 3% + 2,200 to all enemies and inflict \"Sand\" state. [Sand: SPD -30%, Cancel the enemies' ability to Dodge Skills] [Always hit]",
+          "description": "Deal 3% + 2,200 to all enemies and inflict 'Sand' state. [Sand: SPD -30%, Cancel the enemies' ability to Dodge Skills] [Always hit]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "973",
@@ -36326,7 +36326,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1016",
           "nameIdx": "1016",
-          "description": "味方全体の攻撃力を60%アップしHPを小回復。\"暁\"所属だとさらに全スキルダメージが40%アップする。",
+          "description": "味方全体の攻撃力を60%アップしHPを小回復。'暁'所属だとさらに全スキルダメージが40%アップする。",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "1016",
@@ -37514,7 +37514,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1049",
           "nameIdx": "1049",
-          "description": "Deal 100,000 Fixed Damage to one enemy. While under \"Open\" State deal 500,000 instead. Grant \"Exhaust\" state and reduce HP by 99% afterwards. [Exhause: Action is disabled] [Always Hits]",
+          "description": "Deal 100,000 Fixed Damage to one enemy. While under 'Open' State deal 500,000 instead. Grant 'Exhaust' state and reduce HP by 99% afterwards. [Exhause: Action is disabled] [Always Hits]",
           "categoryId": "1",
           "levelType": "1",
           "scriptId": "1049",
@@ -37550,7 +37550,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1050",
           "nameIdx": "1050",
-          "description": "Own ATK and SPD +30%, grant a Chance to Dodge Skills and \"Open\" state. [Open: ATK +1900%]",
+          "description": "Own ATK and SPD +30%, grant a Chance to Dodge Skills and 'Open' state. [Open: ATK +1900%]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -37586,7 +37586,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1051",
           "nameIdx": "536",
-          "description": "Deal 3% + 12,000 to all enemies and place the enemies under \"Gate of the Great God\" state. [Gate of the Great God: Gate of the Great God stacks doing different effect based on the number of stacks. [1] Skill Damage -20%, [2] Skill Damage -20%, SPD -30% [3] Cancel enemies' action]",
+          "description": "Deal 3% + 12,000 to all enemies and place the enemies under 'Gate of the Great God' state. [Gate of the Great God: Gate of the Great God stacks doing different effect based on the number of stacks. [1] Skill Damage -20%, [2] Skill Damage -20%, SPD -30% [3] Cancel enemies' action]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "540",
@@ -40718,7 +40718,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1138",
           "nameIdx": "749",
-          "description": "Deal 7% + 3,000 to one enemy. Deal 2x more damage if the enemy's ATK, SPD or DEF is buffed. Deal 2x more damage while under \"Resurrection\" state. (Max 4x)",
+          "description": "Deal 7% + 3,000 to one enemy. Deal 2x more damage if the enemy's ATK, SPD or DEF is buffed. Deal 2x more damage while under 'Resurrection' state. (Max 4x)",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1138",
@@ -40754,7 +40754,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1139",
           "nameIdx": "1139",
-          "description": "Own DEF +100% and grant \"Resurrection\" state. [Resurrection: Reduce all incoming Skill Damage, when HP reach 0, revive and remove Resurrection state]",
+          "description": "Own DEF +100% and grant 'Resurrection' state. [Resurrection: Reduce all incoming Skill Damage, when HP reach 0, revive and remove Resurrection state]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "3",
@@ -40826,7 +40826,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1141",
           "nameIdx": "651",
-          "description": "Recover an colossal amount of HP to all allies and grant \"Heal\" state [Heal: Recover 20% HP and Chakra when attacked]",
+          "description": "Recover an colossal amount of HP to all allies and grant 'Heal' state [Heal: Recover 20% HP and Chakra when attacked]",
           "categoryId": "2",
           "levelType": "2",
           "scriptId": "1141",
@@ -40862,7 +40862,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1142",
           "nameIdx": "730",
-          "description": "Deal 3% + 6,000 to all enemies, with a Chance to lower ATK and/or DEF by 70% and place them under \"Frog Illusion\" state. [Frog Illusion: Skills can't be used]",
+          "description": "Deal 3% + 6,000 to all enemies, with a Chance to lower ATK and/or DEF by 70% and place them under 'Frog Illusion' state. [Frog Illusion: Skills can't be used]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "730",
@@ -41942,7 +41942,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1172",
           "nameIdx": "1172",
-          "description": "Deal 7% + 2,200 to one enemy and his Surroundings. Deal 3x more damage while under \"Rally\" state.",
+          "description": "Deal 7% + 2,200 to one enemy and his Surroundings. Deal 3x more damage while under 'Rally' state.",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1172",
@@ -41978,7 +41978,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1173",
           "nameIdx": "1173",
-          "description": "Recover a medium amount of HP to all allies and grant \"Rally\" state. [Rally: ATK, DEF and SPD +30%, HP Regen and Chakra Recovery +5%]",
+          "description": "Recover a medium amount of HP to all allies and grant 'Rally' state. [Rally: ATK, DEF and SPD +30%, HP Regen and Chakra Recovery +5%]",
           "categoryId": "2",
           "levelType": "8",
           "scriptId": "1173",
@@ -42014,7 +42014,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1174",
           "nameIdx": "1174",
-          "description": "Deal 7% + 2,200 to one enemy with a Chance to inflict \"Cut\" state. Deal 3x more damage while under \"Battle\" state. [Cut: Cast Speed -1 and Skill Damage -30%]",
+          "description": "Deal 7% + 2,200 to one enemy with a Chance to inflict 'Cut' state. Deal 3x more damage while under 'Battle' state. [Cut: Cast Speed -1 and Skill Damage -30%]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1174",
@@ -42050,7 +42050,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1175",
           "nameIdx": "1175",
-          "description": "Own ATK, DEF and SPD +100%, Debuff effects -50% and grant \"Battle\" state and a high chance to dodge skills. [Battle: Skill Damage +100%]",
+          "description": "Own ATK, DEF and SPD +100%, Debuff effects -50% and grant 'Battle' state and a high chance to dodge skills. [Battle: Skill Damage +100%]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "1175",
@@ -42086,7 +42086,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1176",
           "nameIdx": "48",
-          "description": "Deal 5% + 2,000 to all enemies with a Chance to Cancel action. Deal 3x more damage to enemies under \"Despair\" state",
+          "description": "Deal 5% + 2,000 to all enemies with a Chance to Cancel action. Deal 3x more damage to enemies under 'Despair' state",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1176",
@@ -42122,7 +42122,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1177",
           "nameIdx": "1177",
-          "description": "Own ATK and Skill Damage +100%, with a Chance to inflict \"Despair\" state. [Despair: Remove ATK, DEF and SPD buff, Chance to Cancel action]",
+          "description": "Own ATK and Skill Damage +100%, with a Chance to inflict 'Despair' state. [Despair: Remove ATK, DEF and SPD buff, Chance to Cancel action]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "1177",
@@ -42230,7 +42230,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1180",
           "nameIdx": "476",
-          "description": "Deal 6x ATK damage to one enemy ignoring 30% DEF. Deal 4x more damage while under \"Open\" state. Deal 2x more damage if one of the ally is \"Might Gai\"",
+          "description": "Deal 6x ATK damage to one enemy ignoring 30% DEF. Deal 4x more damage while under 'Open' state. Deal 2x more damage if one of the ally is 'Might Gai'",
           "categoryId": "1",
           "levelType": "1",
           "scriptId": "1180",
@@ -42266,7 +42266,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1181",
           "nameIdx": "389",
-          "description": "SPD +50%, grant a Low Chance to Dodge Skills and \"Open\" state. [Open: ATK +100%]",
+          "description": "SPD +50%, grant a Low Chance to Dodge Skills and 'Open' state. [Open: ATK +100%]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "1181",
@@ -42878,7 +42878,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1198",
           "nameIdx": "1172",
-          "description": "Deal 7% + 5,000 to one enemies and his Surroundings. Deal 4x more damage while under \"Rally\" state. Deal 2x more damage to Intellect and Courage Type。",
+          "description": "Deal 7% + 5,000 to one enemies and his Surroundings. Deal 4x more damage while under 'Rally' state. Deal 2x more damage to Intellect and Courage Type。",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1198",
@@ -42914,7 +42914,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1199",
           "nameIdx": "1173",
-          "description": "Recover a large amount of HP to all allies and grant \"Rally\" state. [Rally: ATK, DEF and SPD +40%, HP Regen and Chakra Recovery +10%]",
+          "description": "Recover a large amount of HP to all allies and grant 'Rally' state. [Rally: ATK, DEF and SPD +40%, HP Regen and Chakra Recovery +10%]",
           "categoryId": "2",
           "levelType": "8",
           "scriptId": "1199",
@@ -42950,7 +42950,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1200",
           "nameIdx": "1174",
-          "description": "Deal 7% + 4,000 to one enemy with a Chance to inflict \"Cut\" state. Deal 4x more damage while under \"Battle\" state. Deal 2x more damage to enemies under \"Cut\" state. [Cut: Cast Speed -1, Skill Damage -30%] (Max 8x)",
+          "description": "Deal 7% + 4,000 to one enemy with a Chance to inflict 'Cut' state. Deal 4x more damage while under 'Battle' state. Deal 2x more damage to enemies under 'Cut' state. [Cut: Cast Speed -1, Skill Damage -30%] (Max 8x)",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1200",
@@ -42986,7 +42986,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1201",
           "nameIdx": "1175",
-          "description": "Own ATK, DEF and SPD +120%, Immune to Debuff, Chakra Cost -20% and grant \"Battle\" state and a high chance to dodge Skills. [Battle: Skill Damage +120%]",
+          "description": "Own ATK, DEF and SPD +120%, Immune to Debuff, Chakra Cost -20% and grant 'Battle' state and a high chance to dodge Skills. [Battle: Skill Damage +120%]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "1201",
@@ -43022,7 +43022,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1202",
           "nameIdx": "48",
-          "description": "Deal 5% + 4,000 to all enemies with a High Chance to Cancel action. Deal 4x more damage to enemies under \"Despair.\" Deal 1.5x more damage to Body and Technique Type. (Max 6x)",
+          "description": "Deal 5% + 4,000 to all enemies with a High Chance to Cancel action. Deal 4x more damage to enemies under 'Despair.' Deal 1.5x more damage to Body and Technique Type. (Max 6x)",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1202",
@@ -43058,7 +43058,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1203",
           "nameIdx": "1177",
-          "description": "Own ATK and Skill Damage +150%, with a Chance to inflict \"Despair\" state. [Despair: Remove ATK, DEF and SPD buff, Chance to Cancel action]",
+          "description": "Own ATK and Skill Damage +150%, with a Chance to inflict 'Despair' state. [Despair: Remove ATK, DEF and SPD buff, Chance to Cancel action]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "1203",
@@ -47738,7 +47738,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1333",
           "nameIdx": "1333",
-          "description": "Own ATK and DEF +100%, grant a Medium Chance to Dodge Skills and \"Resolution\" state. [Resolution: ATK, DEF and SPD +50%. Recover 10% HP and Chakra when attacked]",
+          "description": "Own ATK and DEF +100%, grant a Medium Chance to Dodge Skills and 'Resolution' state. [Resolution: ATK, DEF and SPD +50%. Recover 10% HP and Chakra when attacked]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "1333",
@@ -47774,7 +47774,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1334",
           "nameIdx": "1334",
-          "description": "Deal 3% + 7,000 to all enemies, with a Chance to raise Cast Speed by 1. Deal 3x while under \"Solitude\" state",
+          "description": "Deal 3% + 7,000 to all enemies, with a Chance to raise Cast Speed by 1. Deal 3x while under 'Solitude' state",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1334",
@@ -47810,7 +47810,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1335",
           "nameIdx": "1335",
-          "description": "Own ATK, DEF and SPD +100% and grant \"Solitude\" state. Reduce all allies HP by 50% and remove all buff and Debuff. [Solitude: Skill Damage +150%, Status Effects -50%]",
+          "description": "Own ATK, DEF and SPD +100% and grant 'Solitude' state. Reduce all allies HP by 50% and remove all buff and Debuff. [Solitude: Skill Damage +150%, Status Effects -50%]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "1335",
@@ -48062,7 +48062,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1342",
           "nameIdx": "1332",
-          "description": "Deal 3% + 50,000 to all enemies with a Chance to Crit dealing 1.5x damange. Deal 2x more damage when one of the enemy is \"Sasuke Uchiha.\" (Max 3x)",
+          "description": "Deal 3% + 50,000 to all enemies with a Chance to Crit dealing 1.5x damange. Deal 2x more damage when one of the enemy is 'Sasuke Uchiha.' (Max 3x)",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1342",
@@ -48098,7 +48098,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1343",
           "nameIdx": "1333",
-          "description": "Own ATK and DEF +120%, grant a High Chance to Dodge Skills and \"Resolution\" state. [Resolution: ATK, DEF and SPD +100%. Recover 20% HP and Chakra when attacked]",
+          "description": "Own ATK and DEF +120%, grant a High Chance to Dodge Skills and 'Resolution' state. [Resolution: ATK, DEF and SPD +100%. Recover 20% HP and Chakra when attacked]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "1343",
@@ -48134,7 +48134,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1344",
           "nameIdx": "1334",
-          "description": "Deal 3% + 10,000 to all enemies, with a High Chance to raise Cast Speed +1. Deal 3x while under \"Solitude\" state. Deal 1.5x more damage to Characters from the Five Village (Max 4.5x)",
+          "description": "Deal 3% + 10,000 to all enemies, with a High Chance to raise Cast Speed +1. Deal 3x while under 'Solitude' state. Deal 1.5x more damage to Characters from the Five Village (Max 4.5x)",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1344",
@@ -48170,7 +48170,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1345",
           "nameIdx": "1335",
-          "description": "Own ATK, DEF and SPD +120% and grant \"Solitude\" state. Reduce all allies HP by 50% and remove all buff and Debuff. [Solitude: Skill Damage +200%, Immune to Status Effects]",
+          "description": "Own ATK, DEF and SPD +120% and grant 'Solitude' state. Reduce all allies HP by 50% and remove all buff and Debuff. [Solitude: Skill Damage +200%, Immune to Status Effects]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "1345",
@@ -48386,7 +48386,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1351",
           "nameIdx": "412",
-          "description": "Deal 7% + 1,500 to one enemy. Deal 5x more damage while under \"Sage Mode\" state. Chance to Cancel \"Sage Mode\"",
+          "description": "Deal 7% + 1,500 to one enemy. Deal 5x more damage while under 'Sage Mode' state. Chance to Cancel 'Sage Mode'",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1351",
@@ -48422,7 +48422,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1352",
           "nameIdx": "1352",
-          "description": "Own ATK and Skill Damage +100%, grant a High Chance to Dodge Skills and \"Sage Mode\" state. [Sage Mode: Basic Attack Always Crit, Increase Damage and Chakra Recovery +25%]",
+          "description": "Own ATK and Skill Damage +100%, grant a High Chance to Dodge Skills and 'Sage Mode' state. [Sage Mode: Basic Attack Always Crit, Increase Damage and Chakra Recovery +25%]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "1352",
@@ -48782,7 +48782,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1362",
           "nameIdx": "1016",
-          "description": "味方全体の攻撃力を90%アップしHPを中回復。\"暁\"所属だとさらに全スキルダメージが60%アップする。",
+          "description": "味方全体の攻撃力を90%アップしHPを中回復。'暁'所属だとさらに全スキルダメージが60%アップする。",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "1362",
@@ -48998,7 +48998,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1368",
           "nameIdx": "1368",
-          "description": "Own ATK and Skill Damage +100%, and grant \"Sage Mode\" state. [Sage Mode: Basic Attack Always Crit, Increase Damage and Chakra Recovery +15%]",
+          "description": "Own ATK and Skill Damage +100%, and grant 'Sage Mode' state. [Sage Mode: Basic Attack Always Crit, Increase Damage and Chakra Recovery +15%]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "1368",
@@ -49466,7 +49466,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1381",
           "nameIdx": "1381",
-          "description": "敵全体の攻撃・防御・素早さを確率で70%ダウン。\"暁\"所属だとスキル発動速度を1段階遅くする。効果後、自身のHPが大きく減少する。",
+          "description": "敵全体の攻撃・防御・素早さを確率で70%ダウン。'暁'所属だとスキル発動速度を1段階遅くする。効果後、自身のHPが大きく減少する。",
           "categoryId": "6",
           "levelType": "3",
           "scriptId": "1381",
@@ -49502,7 +49502,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1382",
           "nameIdx": "1382",
-          "description": "味方全体の攻撃・防御・素早さが100%アップするが、消費チャクラが20%増加状態になる。さらに\"暁\"所属だとスキル発動速度が1段階遅くなる。",
+          "description": "味方全体の攻撃・防御・素早さが100%アップするが、消費チャクラが20%増加状態になる。さらに'暁'所属だとスキル発動速度が1段階遅くなる。",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "1382",
@@ -49538,7 +49538,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1383",
           "nameIdx": "749",
-          "description": "Deal 7% + 6,000 to one enemy and lower Cast Speed by 1. Deal 2x more damage if the enemy's ATK, SPD or DEF is buffed. Deal 3x more damage while under \"Resurrection\" state. (Max 6x)",
+          "description": "Deal 7% + 6,000 to one enemy and lower Cast Speed by 1. Deal 2x more damage if the enemy's ATK, SPD or DEF is buffed. Deal 3x more damage while under 'Resurrection' state. (Max 6x)",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1383",
@@ -49574,7 +49574,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1384",
           "nameIdx": "1139",
-          "description": "Own ATK and DEF +100% and grant \"Resurrection\" state. [Resurrection: Reduce all incoming Skill Damage, when HP reach 0, revive and remove Resurrection state]",
+          "description": "Own ATK and DEF +100% and grant 'Resurrection' state. [Resurrection: Reduce all incoming Skill Damage, when HP reach 0, revive and remove Resurrection state]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "3",
@@ -49646,7 +49646,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1386",
           "nameIdx": "1368",
-          "description": "Own ATK and Skill Damage +120%, and grant \"Sage Mode\" state. [Sage Mode: Basic Attack Always Crit, Increase Damage and Chakra Recovery +25%]",
+          "description": "Own ATK and Skill Damage +120%, and grant 'Sage Mode' state. [Sage Mode: Basic Attack Always Crit, Increase Damage and Chakra Recovery +25%]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "1386",
@@ -49754,7 +49754,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1389",
           "nameIdx": "573",
-          "description": "Deal 7% + 100 to one enemy and consume all chakra. Damage increase the more chakra is consumed, (Max 6x with 100+ Chakra). Cancel \"Paper Human\" state",
+          "description": "Deal 7% + 100 to one enemy and consume all chakra. Damage increase the more chakra is consumed, (Max 6x with 100+ Chakra). Cancel 'Paper Human' state",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1389",
@@ -49790,7 +49790,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1390",
           "nameIdx": "1390",
-          "description": "Own SPD +100%, Cast Speed +2, grant a High Chance to Dodge Skills and \"Paper Human\" state. [Paper Human: Skill Damage +200%]",
+          "description": "Own SPD +100%, Cast Speed +2, grant a High Chance to Dodge Skills and 'Paper Human' state. [Paper Human: Skill Damage +200%]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -51194,7 +51194,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1429",
           "nameIdx": "414",
-          "description": "Deal 3% + 3,000 to all enemies with a High Chance to Burn. Deal 4x more damage while under \"Sage Mode\" state",
+          "description": "Deal 3% + 3,000 to all enemies with a High Chance to Burn. Deal 4x more damage while under 'Sage Mode' state",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1429",
@@ -51230,7 +51230,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1430",
           "nameIdx": "1430",
-          "description": "Own SPD and Skill Damage +100%, grant a High Chance to Dodge Skills and \"Sage Mode\" state. [Sage Mode: Basic Attack Always Crit, Increase Damage and Chakra Recovery +15%]",
+          "description": "Own SPD and Skill Damage +100%, grant a High Chance to Dodge Skills and 'Sage Mode' state. [Sage Mode: Basic Attack Always Crit, Increase Damage and Chakra Recovery +15%]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -51338,7 +51338,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1433",
           "nameIdx": "1433",
-          "description": "Deal 5% + 100 to all enemies with a Chance to inflict \"C4\" state. Own SPD +80%. [C4: SPD -30%]",
+          "description": "Deal 5% + 100 to all enemies with a Chance to inflict 'C4' state. Own SPD +80%. [C4: SPD -30%]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1433",
@@ -51374,7 +51374,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1434",
           "nameIdx": "1434",
-          "description": "Deal 1,000 Fixed Damage to all enemies. Deal 25x more damage to enemies under \"C4\" state.",
+          "description": "Deal 1,000 Fixed Damage to all enemies. Deal 25x more damage to enemies under 'C4' state.",
           "categoryId": "1",
           "levelType": "2",
           "scriptId": "1434",
@@ -51842,7 +51842,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1447",
           "nameIdx": "476",
-          "description": "Deal 9x ATK damage to one enemy ignoring 30%. Deal 5x more damage while under \"Open\" state. Deal 2.5x more damage if one of the ally is \"Might Gai\"",
+          "description": "Deal 9x ATK damage to one enemy ignoring 30%. Deal 5x more damage while under 'Open' state. Deal 2.5x more damage if one of the ally is 'Might Gai'",
           "categoryId": "1",
           "levelType": "1",
           "scriptId": "1447",
@@ -51878,7 +51878,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1448",
           "nameIdx": "389",
-          "description": "Recover a large amount of HP and SPD +50%, grant a Medium Chance to Dodge Skills and \"Open\" state. [Open: ATK +100%]",
+          "description": "Recover a large amount of HP and SPD +50%, grant a Medium Chance to Dodge Skills and 'Open' state. [Open: ATK +100%]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "1448",
@@ -51914,7 +51914,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1449",
           "nameIdx": "361",
-          "description": "Deal 7% + 5,000 to one enemy and his Surroundings, grant \"Deficit\" state and Cancel \"Hatred\" state. [Deficit: Chakra Recovery becomes 0]",
+          "description": "Deal 7% + 5,000 to one enemy and his Surroundings, grant 'Deficit' state and Cancel 'Hatred' state. [Deficit: Chakra Recovery becomes 0]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1449",
@@ -51950,7 +51950,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1450",
           "nameIdx": "1450",
-          "description": "Own ATK and SPD +70% and grant \"Hatred\" state. [Hatred: -20% HP overtime. ATK and Skill Damage +250 per turn. Max 1000%]",
+          "description": "Own ATK and SPD +70% and grant 'Hatred' state. [Hatred: -20% HP overtime. ATK and Skill Damage +250 per turn. Max 1000%]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -52490,7 +52490,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1465",
           "nameIdx": "1465",
-          "description": "Deal 7% + 3,000 to one enemy and grant \"Concentration\" state. Deal 8x more damage to enemies under \"Anger\" state. [Concentration: Chakra Cost is reduced every turn. Max 50%]",
+          "description": "Deal 7% + 3,000 to one enemy and grant 'Concentration' state. Deal 8x more damage to enemies under 'Anger' state. [Concentration: Chakra Cost is reduced every turn. Max 50%]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1465",
@@ -52526,7 +52526,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1466",
           "nameIdx": "1466",
-          "description": "Recover own HP by a large amount, Recover leader's HP to full. Chance to inflict \"Anger\" state to all enemies. [Anger: Cast Speed -1, ATK +50%]",
+          "description": "Recover own HP by a large amount, Recover leader's HP to full. Chance to inflict 'Anger' state to all enemies. [Anger: Cast Speed -1, ATK +50%]",
           "categoryId": "2",
           "levelType": "2",
           "scriptId": "100004",
@@ -53282,7 +53282,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1487",
           "nameIdx": "1487",
-          "description": "Deal 5% + 1,500 to all enemies. Deal 3x more damage if one of the enemy is a Konoha Character. Deal 2x more damage if one of the enemy is \"Hashirama Senju\" (Max 6x)",
+          "description": "Deal 5% + 1,500 to all enemies. Deal 3x more damage if one of the enemy is a Konoha Character. Deal 2x more damage if one of the enemy is 'Hashirama Senju' (Max 6x)",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1487",
@@ -53318,7 +53318,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1488",
           "nameIdx": "1488",
-          "description": "Own ATK, DEF and SPD +100% and grant \"Selfish\" state. [Selfish: All incoming Skill damage are halved. Skill Damage increase the less Konoha character in the team. Max 120%]",
+          "description": "Own ATK, DEF and SPD +100% and grant 'Selfish' state. [Selfish: All incoming Skill damage are halved. Skill Damage increase the less Konoha character in the team. Max 120%]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -53426,7 +53426,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1491",
           "nameIdx": "14",
-          "description": "Deal 7% + 2,000 to one enemy. Deal 4x more damage while under \"Twin Lion Fist.\" Deal 2x more damage to enemies with Cast Speed lower. (Max 8x). Chance to Cancel \"Twin Lion Fist\" state",
+          "description": "Deal 7% + 2,000 to one enemy. Deal 4x more damage while under 'Twin Lion Fist.' Deal 2x more damage to enemies with Cast Speed lower. (Max 8x). Chance to Cancel 'Twin Lion Fist' state",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1491",
@@ -53462,7 +53462,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1492",
           "nameIdx": "1492",
-          "description": "Own ATK and SPD +80% and grant \"Twin Lion Fist\" state. [Twin Lion Fist: Basic Attack are always type advantage and Crit with a Chance to lower Cast Speed by 1]",
+          "description": "Own ATK and SPD +80% and grant 'Twin Lion Fist' state. [Twin Lion Fist: Basic Attack are always type advantage and Crit with a Chance to lower Cast Speed by 1]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -53786,7 +53786,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1501",
           "nameIdx": "1501",
-          "description": "Deal 30,000 Fixed Damage to one enemy, with a Chance to Crit dealing 4x more damage and a Chance to inflict \"Cut\" state. [Cut: Skill Damage -1, Skill Damage -30%]",
+          "description": "Deal 30,000 Fixed Damage to one enemy, with a Chance to Crit dealing 4x more damage and a Chance to inflict 'Cut' state. [Cut: Skill Damage -1, Skill Damage -30%]",
           "categoryId": "1",
           "levelType": "2",
           "scriptId": "1501",
@@ -53822,7 +53822,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1502",
           "nameIdx": "1502",
-          "description": "All allies ATK +50% and grant \"Rally\" state. [Rally: ATK, DEF and SPD +30%, Recover 5% HP and Chakra after every action]",
+          "description": "All allies ATK +50% and grant 'Rally' state. [Rally: ATK, DEF and SPD +30%, Recover 5% HP and Chakra per turn]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -53894,7 +53894,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1504",
           "nameIdx": "1504",
-          "description": "Own ATK and SPD +80%, and grant \"Open\" state to ally \"Rock Lee\" and \"Might Gai\" [Open: ATK +200%, Chance to Dodge Skills]",
+          "description": "Own ATK and SPD +80%, and grant 'Open' state to ally 'Rock Lee' and 'Might Gai' [Open: ATK +200%, Chance to Dodge Skills]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -53930,7 +53930,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1505",
           "nameIdx": "412",
-          "description": "Deal 7% + 5,000 to one enemy. Deal 6x more damage while under \"Sage Mode\" state. Very Low Chance to Cancel \"Sage Mode\"",
+          "description": "Deal 7% + 5,000 to one enemy. Deal 6x more damage while under 'Sage Mode' state. Very Low Chance to Cancel 'Sage Mode'",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1505",
@@ -53966,7 +53966,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1506",
           "nameIdx": "1352",
-          "description": "Own ATK and Skill Damage +150%, grant a High Chance to Dodge Skills and \"Sage Mode\" state. [Sage Mode: Basic Attack Always Crit, Increase Damage and Chakra Recovery +30%]",
+          "description": "Own ATK and Skill Damage +150%, grant a High Chance to Dodge Skills and 'Sage Mode' state. [Sage Mode: Basic Attack Always Crit, Increase Damage and Chakra Recovery +30%]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "1506",
@@ -54650,7 +54650,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1525",
           "nameIdx": "1487",
-          "description": "Deal 5% + 5,000 to all enemies. Deal 5x more damage if one of the enemy is a Konoha Character. Deal 10x more damage if one of the enemy is \"Hashirama Senju\" (Max 50x)",
+          "description": "Deal 5% + 5,000 to all enemies. Deal 5x more damage if one of the enemy is a Konoha Character. Deal 10x more damage if one of the enemy is 'Hashirama Senju' (Max 50x)",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1525",
@@ -54686,7 +54686,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1526",
           "nameIdx": "1488",
-          "description": "Own ATK, DEF and SPD +120% and grant \"Selfish\" state. [Selfish: All incoming Skill damage are halved. Skill Damage increase the less Konoha character in the team. Max 300%]",
+          "description": "Own ATK, DEF and SPD +120% and grant 'Selfish' state. [Selfish: All incoming Skill damage are halved. Skill Damage increase the less Konoha character in the team. Max 300%]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -54938,7 +54938,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1533",
           "nameIdx": "973",
-          "description": "Deal 3% + 10,000 to all enemies and place them in a \"Sand\" state. [Sand: Cast Speed -1 and SPD -30%, Cancel the enemies' ability to Dodge Skills] [Always hit]",
+          "description": "Deal 3% + 10,000 to all enemies and place them in a 'Sand' state. [Sand: Cast Speed -1 and SPD -30%, Cancel the enemies' ability to Dodge Skills] [Always hit]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "973",
@@ -55334,7 +55334,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1544",
           "nameIdx": "1544",
-          "description": "Own ATK and Skill Damage +80% and grant \"Flash Mode\". [Flash Mode: SPD +80%, Cast Speed becomes Flash]",
+          "description": "Own ATK and Skill Damage +80% and grant 'Flash Mode'. [Flash Mode: SPD +80%, Cast Speed becomes Flash]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -55370,7 +55370,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1545",
           "nameIdx": "755",
-          "description": "Deal 7% + 6,000 to one enemy with a Chance to put the enemy in a \"Bind\" state. Deal 4x more damage with a Chance to Cancel action to enemy under \"Bind\". [Bind: Skill Damage -70%, SPD -30%]",
+          "description": "Deal 7% + 6,000 to one enemy with a Chance to put the enemy in a 'Bind' state. Deal 4x more damage with a Chance to Cancel action to enemy under 'Bind'. [Bind: Skill Damage -70%, SPD -30%]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1545",
@@ -55406,7 +55406,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1546",
           "nameIdx": "1546",
-          "description": "Recover a large amount of HP and Chakra to all allies and grant \"Determined\" state. [Determined: ATK, DEF and SPD +50%, Recover 10% Chakra and HP when attacked]",
+          "description": "Recover a large amount of HP and Chakra to all allies and grant 'Determined' state. [Determined: ATK, DEF and SPD +50%, Recover 10% Chakra and HP when attacked]",
           "categoryId": "3",
           "levelType": "2",
           "scriptId": "100004",
@@ -55478,7 +55478,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1548",
           "nameIdx": "1544",
-          "description": "Own ATK and Skill Damage +120% and grant \"Flash Mode\". [Flash Mode: SPD +100%, Cast Speed becomes Flash]",
+          "description": "Own ATK and Skill Damage +120% and grant 'Flash Mode'. [Flash Mode: SPD +100%, Cast Speed becomes Flash]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -55514,7 +55514,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1549",
           "nameIdx": "755",
-          "description": "Deal 7% + 8,000 to one enemy with a High Chance to put the enemy in a \"Bind\" state. Deal 5x more damage with a Chance to Cancel action to enemy under \"Bind\". [Bind: Skill Damage -80%, SPD -30%]。",
+          "description": "Deal 7% + 8,000 to one enemy with a High Chance to put the enemy in a 'Bind' state. Deal 5x more damage with a Chance to Cancel action to enemy under 'Bind'. [Bind: Skill Damage -80%, SPD -30%]。",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1545",
@@ -55550,7 +55550,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1550",
           "nameIdx": "1546",
-          "description": "Recover a tremendous amount of HP and Chakra to all allies and grant \"Determined\" state. [Determined: ATK, DEF and SPD +80%, Recover 10% Chakra and HP when attacked]",
+          "description": "Recover a tremendous amount of HP and Chakra to all allies and grant 'Determined' state. [Determined: ATK, DEF and SPD +80%, Recover 10% Chakra and HP when attacked]",
           "categoryId": "3",
           "levelType": "8",
           "scriptId": "100004",
@@ -56810,7 +56810,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1585",
           "nameIdx": "361",
-          "description": "Deal 7% + 7,000 to one enemy and his Surroundings, with a low chance to grant \"Deficit\" state. [Deficit: Chakra Recovery becomes 0]",
+          "description": "Deal 7% + 7,000 to one enemy and his Surroundings, with a low chance to grant 'Deficit' state. [Deficit: Chakra Recovery becomes 0]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1585",
@@ -56846,7 +56846,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1586",
           "nameIdx": "1450",
-          "description": "Own ATK and SPD +200% and grant \"Hatred\" state. [Hatred: -30% HP Overtime. ATK and Skill Damage +500 per turn. Max 2000%]",
+          "description": "Own ATK and SPD +200% and grant 'Hatred' state. [Hatred: -30% HP Overtime. ATK and Skill Damage +500 per turn. Max 2000%]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "1586",
@@ -57026,7 +57026,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1591",
           "nameIdx": "1591",
-          "description": "敵単体に耐性無視の10,000の固定ダメージを与え、自身を含む味方の無所属の人数に応じてダメージアップし、最大5倍。さらにはたけカカシに対しダメージ5倍。（最大25倍）【必中スキル】",
+          "description": "Deal 10,000 Fixed Damage to one enemy. Deal more damage the more None character in the team, Maximum 5x. Deal 5x more damage to 'Kakashi Hatake' (Max 25x) [Always Hits]",
           "categoryId": "1",
           "levelType": "2",
           "scriptId": "1591",
@@ -57062,7 +57062,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1592",
           "nameIdx": "1592",
-          "description": "自身の素早さを100%アップし、憎悪状態にする。【特殊状態：憎悪】行動後HPが30%減少するが、攻撃力とスキルダメージがアップし、最大4回で1200%アップ。",
+          "description": "Own SPD +100% and grant 'Hatred' state. [Hatred: Reduce HP by 30% per turn. ATK and Skill Damage +300 per turn. Max 1200%]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -57458,7 +57458,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1603",
           "nameIdx": "573",
-          "description": "Deal 7% + 100 to one enemy and consume all chakra. Damage increase the more chakra is consumed, (Max 8x with 100+ Chakra). With a chance to cancel \"Paper Human\" state。",
+          "description": "Deal 7% + 100 to one enemy and consume all chakra. Damage increase the more chakra is consumed, (Max 8x with 100+ Chakra). With a chance to cancel 'Paper Human' state。",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1389",
@@ -57494,7 +57494,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1604",
           "nameIdx": "1390",
-          "description": "Own SPD +150%, Cast Speed +2, grant a High Chance to Dodge Skills and \"Paper Human\" state. [Paper Human: Skill Damage +300%]",
+          "description": "Own SPD +150%, Cast Speed +2, grant a High Chance to Dodge Skills and 'Paper Human' state. [Paper Human: Skill Damage +300%]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -57530,7 +57530,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1605",
           "nameIdx": "414",
-          "description": "Deal 3% + 5,000 to all enemies with a High Chance to Burn. Deal 5x more damage while under \"Sage Mode\" state.",
+          "description": "Deal 3% + 5,000 to all enemies with a High Chance to Burn. Deal 5x more damage while under 'Sage Mode' state.",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1429",
@@ -57566,7 +57566,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1606",
           "nameIdx": "1430",
-          "description": "Own SPD and Skill Damage +150%, grant a High Chance to Dodge Skills and \"Sage Mode\" state. [Sage Mode: Basic Attack Always Crit, Increase Damage and Chakra Recovery +15%]",
+          "description": "Own SPD and Skill Damage +150%, grant a High Chance to Dodge Skills and 'Sage Mode' state. [Sage Mode: Basic Attack Always Crit, Increase Damage and Chakra Recovery +15%]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -57746,7 +57746,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1611",
           "nameIdx": "1591",
-          "description": "敵単体に耐性無視の20,000の固定ダメージを与え、自身を含む味方の無所属の人数に応じてダメージアップし、最大6倍。さらにはたけカカシに対しダメージ6倍。（最大36倍）【必中スキル】",
+          "description": "Deal 20,000 Fixed Damage to one enemy. Deal more damage the more None character in the team, Maximum 6x. Deal 6x more damage to 'Kakashi Hatake' (Max 36x) [Always Hits]",
           "categoryId": "1",
           "levelType": "2",
           "scriptId": "1591",
@@ -57782,7 +57782,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1612",
           "nameIdx": "1592",
-          "description": "自身の素早さを150%アップし、憎悪状態にする。【特殊状態：憎悪】行動後HPが15%減少するが、攻撃力とスキルダメージがアップし、最大4回で1600%アップ。",
+          "description": "Own SPD +150% and grant 'Hatred' state. [Hatred: Reduce HP by 15% per turn. ATK and Skill Damage +400 per turn. Max 1600%]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -57818,7 +57818,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1613",
           "nameIdx": "1613",
-          "description": "敵単体に攻撃力7％＋3000のダメージを与え、確率で短い間、自身の素早さが1000%アップする。さらに自身が繋状態の時ダメージが6倍になる。",
+          "description": "Deal 7% + 3,000 to one enemy and own SPD +1000%. Deal 6x more damage while under 'Connected' state",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1613",
@@ -57854,7 +57854,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1614",
           "nameIdx": "1614",
-          "description": "自身の攻撃力を100%アップし、繋状態となる。【特殊状態：繋】状態異常にかかる確率を半減、班の生存している木ノ葉所属が多いほどスキルダメージアップ、最大200%。※助っ人含む",
+          "description": "Own ATK +100% and grant 'Connected' state. [Connected: Status Effects are halved, Skill Damage increase based on how many Konoha Character in the team. Maximum 200%]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -58250,7 +58250,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1625",
           "nameIdx": "1625",
-          "description": "敵全体に攻撃力3%+5000のダメージを与え、敵が「火・水・土・風・雷遁」いずれかが弱点の場合、ダメージ5倍。さらに高確率で自身が長い間チャクラ欠乏状態になる。【特殊状態：欠乏】チャクラ回復量が0になる。",
+          "description": "Deal 3% + 5,000 to all enemies. Deal 5x more damage if the enemies is weak to Fire, Water, Earth, Wind and/or Lightning. Grant 'Deficit' state after using this skill. [Deficit: Chakra Recovery becomes 0]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1625",
@@ -58286,7 +58286,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1626",
           "nameIdx": "1626",
-          "description": "自身のスキルダメージを100%アップし、自身が欠乏状態の場合、欠乏状態が解除される。さらに味方のマイト・ガイ、ロック・リー、日向ネジ、テンテンに対し集中を付与する。【特殊状態：集中】行動するごとにチャクラ消費量ダウン、最大30%減少。",
+          "description": "Own Skill Damage +100% and remove 'Deficit' state. Grant Concentration' state to ally 'Might Gai', 'Rock Lee', 'Neji Hyuga', and 'Tenten'. [Concentration: Chakra Cost is reduced every turn. Max 30%]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -58466,7 +58466,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1631",
           "nameIdx": "1332",
-          "description": "敵全体に耐性無視の150,000の固定ダメージを与える。【必中スキル】",
+          "description": "Deal 150,000 Fixed Damage to all enemies",
           "categoryId": "1",
           "levelType": "2",
           "scriptId": "1631",
@@ -58502,7 +58502,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1632",
           "nameIdx": "588",
-          "description": "敵単体に攻撃力7%+150000のダメージを与え、敵が無所属または\"暁\"所属の場合ダメージ6倍。",
+          "description": "Deal 7% + 150,000 to one enemy. Deal 6x more damage against None and Akatsuki Characters",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1632",
@@ -58610,7 +58610,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1635",
           "nameIdx": "292",
-          "description": "敵単体に敵の最大HPの5％のダメージを与える。味方に角都がいるとダメージ2倍、さらに憑血状態の敵に対しダメージ15倍。（最大30倍で最大ダメージ500,000）発動後に自身のHPが減少する。【必中スキル】",
+          "description": "Deal 5% of one enemy's maximum HP. Deal 2x more damage if one of the ally is 'Kakuzu.' Deal 15x more damage to enemies under 'Blood' state. (Max 30x, Maximum 500,000 damage). Reduce HP after using this skill. [Always Hits]",
           "categoryId": "1",
           "levelType": "9",
           "scriptId": "1635",
@@ -58646,7 +58646,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1636",
           "nameIdx": "1636",
-          "description": "敵単体に5倍の攻撃力で攻撃する。確率で憑血にし、確実に火遁弱点状態にする。※弱点付与は半減・無効・弱点の場合を除く【特殊状態：憑血】効果なし",
+          "description": "Deal 5x ATK damage to one enemy with a Chance to put them under 'Blood' state. If the enemy is neutral to fire, they become weak to Fire. [Blood: No Effect]",
           "categoryId": "1",
           "levelType": "1",
           "scriptId": "1636",
@@ -58682,7 +58682,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1637",
           "nameIdx": "1637",
-          "description": "敵全体に攻撃力3%+1500のダメージを与える。味方に飛段がいるとダメージ1.5倍、敵が火遁弱点の場合ダメージ7倍。（最大10.5倍）",
+          "description": "Deal 3% + 1,500 to all enemies. Deal 1.5x more damage if one of the ally is 'Hidan.' Deal 7x more damage if the enemy is weak to Fire. (Max 10.5x)",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1637",
@@ -58718,7 +58718,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1638",
           "nameIdx": "1638",
-          "description": "自身のHPを超回復し、スキルダメージを100%アップする。さらに自身を蘇状態にする。【特殊状態：蘇】全スキルダメージ軽減状態になり、自身のHPが０になった時に1度だけHPが全回復する。1回発動すると蘇状態は解除される。",
+          "description": "Recover own HP by a tremendous amount, Skill Damage +100%, and grant 'Resurrection' state. [Resurrection: Reduce all incoming Skill Damage, when HP reach 0, revive and Cancel Resurrection state]",
           "categoryId": "2",
           "levelType": "8",
           "scriptId": "100004",
@@ -58754,7 +58754,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1639",
           "nameIdx": "1639",
-          "description": "敵単体に攻撃力7%+3500のダメージを与え、低確率で敵の行動をキャンセルさせる。さらに自身を拳モード状態にし、拳モード時ダメージ10倍。【特殊状態：拳】通常攻撃が常に会心、ダメージアップ。さらにダメージを受けた時HPが10%回復する。",
+          "description": "Deal 7% + 3,500 to one enemy, with a Chance to Cancel action, and grant 'Fist' state. Deal 10x more damage while under 'Fist' state. [Fist: Basic Attack Always Crit and increase damage. Recover 10% HP when attacked]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1639",
@@ -58790,7 +58790,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1640",
           "nameIdx": "1640",
-          "description": "味方全体の素早さを80%アップし、少しの間、自分以外の味方のチャクラ消費量を70%減少する。さらに味方の第七班（真伝／秘伝）を、抗状態にする。【特殊状態：抗】弱体と状態異常と幻を解除し、しばらく無効化状態にする。",
+          "description": "All allies SPD +80% and Chakra Cost -70%. Grant 'Resist' state to Team 7 (Hiden/Shinden). [Resist: Immune and Remove all negative status, Debuff and Genjutsu]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -58826,7 +58826,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1641",
           "nameIdx": "1465",
-          "description": "Deal 7% + 5,000 to one enemy and grant \"Concentration\" state. Deal 9x more damage to enemies under \"Anger\" state. [Concentration: Chakra Cost is reduced every turn. Max 60%]",
+          "description": "Deal 7% + 5,000 to one enemy and grant 'Concentration' state. Deal 9x more damage to enemies under 'Anger' state. [Concentration: Chakra Cost is reduced every turn. Max 60%]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1641",
@@ -58862,7 +58862,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1642",
           "nameIdx": "1466",
-          "description": "Recover own HP by a large amount, Recover leader's HP to full. High chance to inflict \"Anger\" state to all enemies. [Anger: Cast Speed -1, ATK +40%]",
+          "description": "Recover own HP by a large amount, Recover leader's HP to full. High chance to inflict 'Anger' state to all enemies. [Anger: Cast Speed -1, ATK +40%]",
           "categoryId": "2",
           "levelType": "2",
           "scriptId": "1642",
@@ -59042,7 +59042,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1647",
           "nameIdx": "1647",
-          "description": "敵単体に攻撃力7%+2000のダメージを与え、高確率で敵を封印状態にする。さらに低確率で敵の行動をキャンセルさせる。",
+          "description": "Deal 7% + 2,000 to one enemy with a High Chance to seal and a low Chance to Cancel action",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1647",
@@ -59078,7 +59078,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1648",
           "nameIdx": "1648",
-          "description": "少しの間、自身の攻撃力とスキルダメージが500%アップし、スキル発動速度が2段階アップする。",
+          "description": "Own ATK and Skill Damage +500%, Cast Speed +2",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -59114,7 +59114,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1649",
           "nameIdx": "1649",
-          "description": "敵全体に攻撃力3%+6000のダメージを与え、敵の数が少ないほどダメージが上がる。敵が5人で2倍、1人で最大3倍。さらに自身が繋状態の時ダメージ2倍。（最大6倍）",
+          "description": "Deal 3% + 6,000 to all enemies, Deal more damage the less enemies. Minimum 2x against 5, Maximum 3x against 1. Deal 2x more damage while under 'Connected' state. (Max 6x)",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1649",
@@ -59150,7 +59150,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1650",
           "nameIdx": "1650",
-          "description": "自身の攻撃力と素早さが80%アップし、繋状態となる。【特殊状態：繋】状態異常にかかる確率を半減、班の生存している木ノ葉所属が多いほどスキルダメージアップ、最大200%。※助っ人含む",
+          "description": "Own ATK and SPD +80% and grant 'Connected' state. [Connected: Status Effects are halved, Skill Damage increase based on how many Konoha Character in the team. Maximum 200%]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -59330,7 +59330,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1655",
           "nameIdx": "1613",
-          "description": "敵単体に攻撃力7％＋4500のダメージを与え、高確率で少しの間、自身の素早さが1000%アップする。さらに自身が繋状態の時ダメージが6倍になり、味方にうずまきナルト（真伝／秘伝）、春野サクラ（真伝／秘伝）、はたけカカシ（真伝／秘伝）の誰かが一人以上いると、ダメージ1.5倍（合計9倍）",
+          "description": "Deal 7% + 4,500 to one enemy and own SPD +1000%. Deal 6x more damage while under 'Connected' state. Deal 1.5x more damage if there's an ally 'Naruto Uzumaki (Hiden/Shinden)', 'Sakura Haruno (Hiden/Shinden)', and/or 'Kakashi Hatake (Hiden/Shinden).' (Max 9x)",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1655",
@@ -59366,7 +59366,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1656",
           "nameIdx": "1614",
-          "description": "自身の攻撃力を150%アップし、繋状態となる。【特殊状態：繋】状態異常にかかる確率を半減、班の生存している木ノ葉所属が多いほどスキルダメージアップ、最大250%。※助っ人含む",
+          "description": "Own ATK +150% and grant 'Connected' state. [Connected: Status Effects are halved, Skill Damage increase based on how many Konoha Character in the team. Maximum 250%]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -61562,7 +61562,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1717",
           "nameIdx": "1433",
-          "description": "Deal 5% + 100 to all enemies with a High Chance to inflict \"C4\" state. Own SPD +100%. [C4: SPD -30%]。",
+          "description": "Deal 5% + 100 to all enemies with a High Chance to inflict 'C4' state. Own SPD +100%. [C4: SPD -30%]。",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1433",
@@ -61598,7 +61598,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1718",
           "nameIdx": "1434",
-          "description": "Deal 1,000 Fixed Damage to all enemies. Deal 50x more damage to enemies under \"C4\" state. [Always hit]",
+          "description": "Deal 1,000 Fixed Damage to all enemies. Deal 50x more damage to enemies under 'C4' state. [Always hit]",
           "categoryId": "1",
           "levelType": "2",
           "scriptId": "1434",
@@ -62210,7 +62210,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1735",
           "nameIdx": "1639",
-          "description": "敵単体に攻撃力7%+4000のダメージを与え、確率で敵の行動をキャンセルさせる。さらに自身を拳モード状態にし、拳モード時ダメージ12倍。【特殊状態：拳】通常攻撃が常に会心、ダメージアップ。さらにダメージを受けた時HPが15%回復する。",
+          "description": "Deal 7% + 4,000 to one enemy, with a Chance to Cancel action, and grant 'Fist' state. Deal 12x more damage while under 'Fist' state. [Fist: Basic Attack Always Crit and increase damage. Recover 10% HP when attacked]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1735",
@@ -62246,7 +62246,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1736",
           "nameIdx": "1640",
-          "description": "味方全体の素早さを100%アップし、少しの間、自分以外の味方のチャクラ消費量を70%減少する。さらに味方の第七班（真伝／秘伝）を、抗状態にする。【特殊状態：抗】弱体と状態異常と幻を解除し、しばらく無効化状態にする。",
+          "description": "All allies SPD +100% and Chakra Cost -70%. Grant 'Resist' state to Team 7 (Hiden/Shinden). [Resist: Immune and Remove all negative status, Debuff and Genjutsu]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -62282,7 +62282,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1737",
           "nameIdx": "1647",
-          "description": "敵単体に攻撃力7%+3500のダメージを与え、確実に敵を封印状態にする。さらに確率で敵の行動をキャンセルさせる。",
+          "description": "Deal 7% + 3,500 to one enemy and guarantee seals, with a Chance to Cancel action",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1737",
@@ -62318,7 +62318,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1738",
           "nameIdx": "1648",
-          "description": "自身の攻撃力とスキルダメージが600%アップし、スキル発動速度が2段階アップする。",
+          "description": "Own ATK and Skill Damage +600%, Cast Speed +2",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -62354,7 +62354,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1739",
           "nameIdx": "1649",
-          "description": "敵全体に攻撃力3%+6000のダメージを与え、敵の数が少ないほどダメージが上がる。敵が5人で2倍、1人で最大3倍。さらに自身が繋状態の時ダメージ2倍になり、味方にうちはサスケ（真伝／秘伝）、春野サクラ（真伝／秘伝）、はたけカカシ（真伝／秘伝）の誰かが一人以上いると、ダメージ1.5倍（合計9倍）",
+          "description": "Deal 3% + 6,000 to all enemies, Deal more damage the less enemies. Minimum 2x against 5, Maximum 3x against 1. Deal 2x more damage while under 'Connected' state. Deal 1.5x more damage if there's an ally 'Sasuke Uchiha (Hiden/Shinden)', 'Sakura Haruno (Hiden/Shinden)', and/or 'Kakashi Hatake (Hiden/Shinden).' (Max 9x)",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1739",
@@ -62390,7 +62390,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1740",
           "nameIdx": "1650",
-          "description": "自身の攻撃力と素早さが100%アップし、繋状態となる。【特殊状態：繋】状態異常にかかる確率を半減、班の生存している木ノ葉所属が多いほどスキルダメージアップ、最大250%。※助っ人含む",
+          "description": "Own ATK and SPD +100% and grant 'Connected' state. [Connected: Status Effects are halved, Skill Damage increase based on how many Konoha Character in the team. Maximum 250%]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -63650,7 +63650,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1775",
           "nameIdx": "1775",
-          "description": "敵全体に耐性無視の150,000の固定ダメージを与える。【必中スキル】",
+          "description": "Deal 150,000 Fixed Damage to all enemies",
           "categoryId": "1",
           "levelType": "2",
           "scriptId": "1775",
@@ -64730,7 +64730,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1805",
           "nameIdx": "14",
-          "description": "Deal 7% + 5,000 to one enemy. Deal 8x more damage while under \"Twin Lion Fist.\" Deal 2x more damage to enemies with Cast Speed lower. (Max 16x). Low chance to Cancel \"Twin Lion Fist\" state",
+          "description": "Deal 7% + 5,000 to one enemy. Deal 8x more damage while under 'Twin Lion Fist.' Deal 2x more damage to enemies with Cast Speed lower. (Max 16x). Low chance to Cancel 'Twin Lion Fist' state",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1805",
@@ -64766,7 +64766,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1806",
           "nameIdx": "1492",
-          "description": "Own ATK and SPD +150% and grant \"Twin Lion Fist\" state. [Twin Lion Fist: Basic Attack are always type advantage and Crit with a Chance to lower Cast Speed by 1]",
+          "description": "Own ATK and SPD +150% and grant 'Twin Lion Fist' state. [Twin Lion Fist: Basic Attack are always type advantage and Crit with a Chance to lower Cast Speed by 1]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "1806",
@@ -68546,7 +68546,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1911",
           "nameIdx": "1049",
-          "description": "Deal 500,000 Fixed Damage to one enemy. While under \"Open State\" deal 2,000,000 instead. Grant \"Exhaust\" state and reduce own HP by 50% afterwards. [Exhause: Action is disabled] [Always Hits]",
+          "description": "Deal 500,000 Fixed Damage to one enemy. While under 'Open State' deal 2,000,000 instead. Grant 'Exhaust' state and reduce own HP by 50% afterwards. [Exhause: Action is disabled] [Always Hits]",
           "categoryId": "1",
           "levelType": "1",
           "scriptId": "1911",
@@ -68582,7 +68582,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1912",
           "nameIdx": "1050",
-          "description": "Own ATK and SPD +100%, grant a Medium Chance to Dodge Skills and \"Open\" state. [Open: ATK +3000%]",
+          "description": "Own ATK and SPD +100%, grant a Medium Chance to Dodge Skills and 'Open' state. [Open: ATK +3000%]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -70706,7 +70706,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1975",
           "nameIdx": "1501",
-          "description": "Deal 40,000 Fixed Damage to one enemy, with a high chance to inflict \"Cut\" state. Deal more damage the more Konoha ally, Max 6x. Deal 2x more damage to enemies under \"Cut\" state. [Cut: Skill Damage -1, Skill Damage -30%]",
+          "description": "Deal 40,000 Fixed Damage to one enemy, with a high chance to inflict 'Cut' state. Deal more damage the more Konoha ally, Max 6x. Deal 2x more damage to enemies under 'Cut' state. [Cut: Skill Damage -1, Skill Damage -30%]",
           "categoryId": "1",
           "levelType": "2",
           "scriptId": "1975",
@@ -70742,7 +70742,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1976",
           "nameIdx": "1502",
-          "description": "All allies ATK +100% and grant \"Rally\" state. [Rally: ATK, DEF and SPD +50%, Recover 10% HP and Chakra after every action]",
+          "description": "All allies ATK +100% and grant 'Rally' state. [Rally: ATK, DEF and SPD +50%, Recover 10% HP and Chakra per turn]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "1976",
@@ -70814,7 +70814,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1978",
           "nameIdx": "1504",
-          "description": "Own ATK and SPD +120%, and grant \"Open\" state to ally \"Rock Lee\" and \"Might Gai\" [Open: ATK +200%, Chance to Dodge Skills]",
+          "description": "Own ATK and SPD +120%, and grant 'Open' state to ally 'Rock Lee' and 'Might Gai' [Open: ATK +200%, Chance to Dodge Skills]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -70850,7 +70850,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1979",
           "nameIdx": "292",
-          "description": "敵単体に敵の最大HPの10％のダメージを与える。味方に角都がいるとダメージ2倍、さらに憑血状態の敵に対しダメージ30倍。（最大合計60倍で最大ダメージ2,000,000）発動後に自身のHPが減少する。【必中スキル】",
+          "description": "Deal 10% of one enemy's maximum HP. Deal 2x more damage if one of the ally is 'Kakuzu.' Deal 30x more damage to enemies under 'Blood' state. (Max 60x, Maximum 2,000,000 damage). Reduce HP after using this skill. [Always Hits]",
           "categoryId": "1",
           "levelType": "9",
           "scriptId": "1635",
@@ -70886,7 +70886,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1980",
           "nameIdx": "1636",
-          "description": "敵単体に5倍の攻撃力で攻撃する。高確率で憑血にし、確実に火遁弱点状態にする。※弱点付与は半減・無効・弱点の場合を除く【特殊状態：憑血】効果なし",
+          "description": "Deal 5x ATK damage to one enemy with a High Chance to put them under 'Blood' state. If the enemy is neutral to fire, they become weak to Fire. [Blood: No Effect]",
           "categoryId": "1",
           "levelType": "1",
           "scriptId": "1636",
@@ -70922,7 +70922,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1981",
           "nameIdx": "1637",
-          "description": "敵全体に攻撃力3%+4000のダメージを与える。味方に飛段がいるとダメージ2倍、敵が火遁弱点の場合ダメージ15倍。（最大30倍）",
+          "description": "Deal 3% + 4,000 to all enemies. Deal 2x more damage if one of the ally is 'Hidan.' Deal 15x more damage if the enemy is weak to Fire. (Max 30x)",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1637",
@@ -70958,7 +70958,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1982",
           "nameIdx": "1638",
-          "description": "自身のHPを完全回復し、スキルダメージを120%アップする。さらに自身を蘇状態にする。【特殊状態：蘇】全スキルダメージ軽減状態になり、自身のHPが０になった時に1度だけHPが全回復する。1回発動すると蘇状態は解除される。",
+          "description": "Recover own HP to full, Skill Damage +120%, and grant 'Resurrection' state. [Resurrection: Reduce all incoming Skill Damage, when HP reach 0, revive and Cancel Resurrection state]",
           "categoryId": "2",
           "levelType": "8",
           "scriptId": "100004",
@@ -71786,7 +71786,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2021",
           "nameIdx": "2021",
-          "description": "敵全体に攻撃力3%+3000のダメージを与える。\"暁”所属の敵に対しダメージ6倍。",
+          "description": "敵全体に攻撃力3%+3000のダメージを与える。'暁”所属の敵に対しダメージ6倍。",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2013",
@@ -71822,7 +71822,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2022",
           "nameIdx": "2022",
-          "description": "敵全体の攻撃力と通常攻撃回避率を確率で２０%ダウン、\"暁”所属の敵はさらに確率でスキル発動速度を１段階ダウンさせる。さらに自身のスキルダメージを１００%アップする。",
+          "description": "敵全体の攻撃力と通常攻撃回避率を確率で２０%ダウン、'暁”所属の敵はさらに確率でスキル発動速度を１段階ダウンさせる。さらに自身のスキルダメージを１００%アップする。",
           "categoryId": "6",
           "levelType": "3",
           "scriptId": "100004",
@@ -71858,7 +71858,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2023",
           "nameIdx": "2021",
-          "description": "敵全体に攻撃力3%+4000のダメージを与える。\"暁”所属の敵に対しダメージ16倍。",
+          "description": "敵全体に攻撃力3%+4000のダメージを与える。'暁”所属の敵に対しダメージ16倍。",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2013",
@@ -71894,7 +71894,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2024",
           "nameIdx": "2022",
-          "description": "敵全体の攻撃力と通常攻撃回避率を高確率で４０%ダウン、\"暁”所属の敵はさらに高確率でスキル発動速度を１段階ダウンさせる。さらに自身のスキルダメージを１２０%アップする。",
+          "description": "敵全体の攻撃力と通常攻撃回避率を高確率で４０%ダウン、'暁”所属の敵はさらに高確率でスキル発動速度を１段階ダウンさせる。さらに自身のスキルダメージを１２０%アップする。",
           "categoryId": "6",
           "levelType": "3",
           "scriptId": "100004",
@@ -78734,7 +78734,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2226",
           "nameIdx": "2226",
-          "description": "自身のスキルダメージを100％アップする。\"暁\"所属の味方の素早さを1回行動するまで1000％アップし、自身以外の\"暁\"所属の味方の1回行動するまでスキル発動速度を3段階アップする。さらに敵全体の行動を確率でキャンセルする。",
+          "description": "自身のスキルダメージを100％アップする。'暁'所属の味方の素早さを1回行動するまで1000％アップし、自身以外の'暁'所属の味方の1回行動するまでスキル発動速度を3段階アップする。さらに敵全体の行動を確率でキャンセルする。",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -81506,7 +81506,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2303",
           "nameIdx": "529",
-          "description": "敵単体に攻撃力7%+10000のダメージを与える。\"暁\"以外の敵にダメージ3倍、超忍祭限定の敵にダメージ10倍（最大30倍）。さらに周囲の超忍祭限定の敵に攻撃力7%+1000のダメージを与える。※周囲ダメージにダメージアップの効果は適用される",
+          "description": "敵単体に攻撃力7%+10000のダメージを与える。'暁'以外の敵にダメージ3倍、超忍祭限定の敵にダメージ10倍（最大30倍）。さらに周囲の超忍祭限定の敵に攻撃力7%+1000のダメージを与える。※周囲ダメージにダメージアップの効果は適用される",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2303",
@@ -82190,7 +82190,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2322",
           "nameIdx": "2332",
-          "description": "Recover own HP by a large amount, own DEF +300% and SPD -30% with a small chance to grant \"Anger\" state. [Anger: Cast Speed -1, ATK +1,000%]",
+          "description": "Recover own HP by a large amount, own DEF +300% and SPD -30% with a small chance to grant 'Anger' state. [Anger: Cast Speed -1, ATK +1,000%]",
           "categoryId": "2",
           "levelType": "2",
           "scriptId": "100004",
@@ -82262,7 +82262,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2324",
           "nameIdx": "2332",
-          "description": "Recover own HP by a tremendous amount, own DEF +500% and SPD -30% with a small chance to grant \"Anger\" state. [Anger: Cast Speed -1, ATK +1,000%]",
+          "description": "Recover own HP by a tremendous amount, own DEF +500% and SPD -30% with a small chance to grant 'Anger' state. [Anger: Cast Speed -1, ATK +1,000%]",
           "categoryId": "2",
           "levelType": "2",
           "scriptId": "100004",
@@ -82370,7 +82370,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2327",
           "nameIdx": "2344",
-          "description": "Deal 1,000 fixed damage to one enemy with a high chance to Stun. Grant \"Bleed\" state to self. [Bleed: Continues to lose HP, with a chance to lower DEF]",
+          "description": "Deal 1,000 fixed damage to one enemy with a high chance to Stun. Grant 'Bleed' state to self. [Bleed: Continues to lose HP, with a chance to lower DEF]",
           "categoryId": "1",
           "levelType": "9",
           "scriptId": "2327",
@@ -82406,7 +82406,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2328",
           "nameIdx": "2346",
-          "description": "Own SPD +150%. Own Skill Damage +99,999% and grant \"Anger\" state for 999 turns while under \"Bleed\" state. [Anger: Cast Speed -3, ATK +500%]",
+          "description": "Own SPD +150%. Own Skill Damage +99,999% and grant 'Anger' state for 999 turns while under 'Bleed' state. [Anger: Cast Speed -3, ATK +500%]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -82514,7 +82514,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2331",
           "nameIdx": "2352",
-          "description": "Deal 7% + 7,000 to one enemy with a chance to inflict \"Ignition\" state. Deal damage the more allies from the Five Village, max 5x. [Ignition: Place a 3 Countdown Turns on the enemy, reduce the Countdown by 1 every turn. When the Countdown reach 0, remove \"Ignition\" state. Deal 100,000 damage to all enemies whenever \"Ignition\" state is removed. (Note: The damage from \"Ignition\" can't kill an enemy) ",
+          "description": "Deal 7% + 7,000 to one enemy with a chance to inflict 'Ignition' state. Deal damage the more allies from the Five Village, max 5x. [Ignition: Place a 3 Countdown Turns on the enemy, reduce the Countdown by 1 every turn. When the Countdown reach 0, remove 'Ignition' state. Deal 100,000 damage to all enemies whenever 'Ignition' state is removed. (Note: The damage from 'Ignition' can't kill an enemy) ",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2331",
@@ -82550,7 +82550,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2332",
           "nameIdx": "2354",
-          "description": "Chance to reduce one enemy's ATK, DEF or SPD by 40%. If the enemy is under \"Ignition\" state, Skip the enemy's turn",
+          "description": "Chance to reduce one enemy's ATK, DEF or SPD by 40%. If the enemy is under 'Ignition' state, Skip the enemy's turn",
           "categoryId": "6",
           "levelType": "4",
           "scriptId": "100004",
@@ -82586,7 +82586,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2333",
           "nameIdx": "2352",
-          "description": "Deal 7% + 10,000 to one enemy with a chance to inflict \"Ignition\" state. Deal damage the more allies from the Five Village, max 10x. [Ignition: Place a 3 Countdown Turns on the enemy, reduce the Countdown by 1 every turn. When the Countdown reach 0, remove \"Ignition\" state. Deal 300,000 damage to all enemies whenever \"Ignition\" state is removed. (Note: The damage from \"Ignition\" can't kill an enemy) ",
+          "description": "Deal 7% + 10,000 to one enemy with a chance to inflict 'Ignition' state. Deal damage the more allies from the Five Village, max 10x. [Ignition: Place a 3 Countdown Turns on the enemy, reduce the Countdown by 1 every turn. When the Countdown reach 0, remove 'Ignition' state. Deal 300,000 damage to all enemies whenever 'Ignition' state is removed. (Note: The damage from 'Ignition' can't kill an enemy) ",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2331",
@@ -82622,7 +82622,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2334",
           "nameIdx": "2354",
-          "description": "Chance to reduce one enemy's ATK, DEF or SPD by 50%. If the enemy is under \"Ignition\" state, Skip the enemy's turn",
+          "description": "Chance to reduce one enemy's ATK, DEF or SPD by 50%. If the enemy is under 'Ignition' state, Skip the enemy's turn",
           "categoryId": "6",
           "levelType": "4",
           "scriptId": "100004",
@@ -82694,7 +82694,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2336",
           "nameIdx": "2358",
-          "description": "Own ATK and Skill Damage +100% and grant \"Convalescence\" state. If there's atleast 1 ally or enemy \"Madara Uchiha\", own Cast Speed +2. [Convalescence: Incoming Skill Damage -120%, Recover 20% HP when attacked] ",
+          "description": "Own ATK and Skill Damage +100% and grant 'Convalescence' state. If there's atleast 1 ally or enemy 'Madara Uchiha', own Cast Speed +2. [Convalescence: Incoming Skill Damage -120%, Recover 20% HP when attacked] ",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -82730,7 +82730,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2337",
           "nameIdx": "453",
-          "description": "Deal 3% + 12,000 to all enemies with a high chance to inflict \"Great Fire\". Deal 10x damage to enemies under \"Great Fire\" [Great Fire: Reduce HP every turn (Max 60%), remove and prevent Buff and Debuff (Including Chakra Cost, Skill Damage, Crit Chance, Crit Damage)",
+          "description": "Deal 3% + 12,000 to all enemies with a high chance to inflict 'Great Fire'. Deal 10x damage to enemies under 'Great Fire' [Great Fire: Reduce HP every turn (Max 60%), remove and prevent Buff and Debuff (Including Chakra Cost, Skill Damage, Crit Chance, Crit Damage)",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2337",
@@ -82766,7 +82766,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2338",
           "nameIdx": "2362",
-          "description": "Own ATK and SPD +100% and grant \"Demon\" state. If there's atleast 1 ally or enemy \"Hashirama Senju\", own Cast Speed +2. [Demon: ATK and Skill Damage +300%, when targeted by a Skill, reduce all incoming Skill damage by 120%. Reduce HP by 40% when state expires]",
+          "description": "Own ATK and SPD +100% and grant 'Demon' state. If there's atleast 1 ally or enemy 'Hashirama Senju', own Cast Speed +2. [Demon: ATK and Skill Damage +300%, when targeted by a Skill, reduce all incoming Skill damage by 120%. Reduce HP by 40% when state expires]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -82802,7 +82802,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2339",
           "nameIdx": "1459",
-          "description": "Deal 7% + 5,000 to one enemy with a high chance to Crit dealing 5x damage, and a chance to inflict \"Bleed\" state. [Bleed: Continues to lose HP, with a chance to lower DEF]",
+          "description": "Deal 7% + 5,000 to one enemy with a high chance to Crit dealing 5x damage, and a chance to inflict 'Bleed' state. [Bleed: Continues to lose HP, with a chance to lower DEF]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2339",
@@ -82946,7 +82946,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2343",
           "nameIdx": "200",
-          "description": "Deal 7% + 5,000 to one enemy with a chance to inflict Burn, and a chance to Crit dealing 6x damage. Deal 2x damage while under \"Determined\" state. (Max 12x)",
+          "description": "Deal 7% + 5,000 to one enemy with a chance to inflict Burn, and a chance to Crit dealing 6x damage. Deal 2x damage while under 'Determined' state. (Max 12x)",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2343",
@@ -82982,7 +82982,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2344",
           "nameIdx": "2366",
-          "description": "Own ATK, DEF and SPD +100% and grant \"Determined\" state. [Determined: ATK, DEF and SPD +30%. Recover 10% HP and Chakra when attacked]",
+          "description": "Own ATK, DEF and SPD +100% and grant 'Determined' state. [Determined: ATK, DEF and SPD +30%. Recover 10% HP and Chakra when attacked]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -83018,7 +83018,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2345",
           "nameIdx": "200",
-          "description": "Deal 7% + 10,000 to one enemy with a high chance to inflict Burn, and a high chance to Crit dealing 7x damage. Deal 3x damage while under \"Determined\" state. (Max 21x)",
+          "description": "Deal 7% + 10,000 to one enemy with a high chance to inflict Burn, and a high chance to Crit dealing 7x damage. Deal 3x damage while under 'Determined' state. (Max 21x)",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2343",
@@ -83054,7 +83054,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2346",
           "nameIdx": "2366",
-          "description": "Own ATK, DEF and SPD +150% and grant \"Determined\" state. [Determined: ATK, DEF and SPD +30%. Recover 10% HP and Chakra when attacked]",
+          "description": "Own ATK, DEF and SPD +150% and grant 'Determined' state. [Determined: ATK, DEF and SPD +30%. Recover 10% HP and Chakra when attacked]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -83090,7 +83090,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2347",
           "nameIdx": "2368",
-          "description": "Deal 3% + 12,000 to all enemies with a high chance to inflict \"Cut\" state. Deal damage the more Courage and Intellect allies and/or enemies, (Max 20x). [Cut: Cast Speed -1, Skill Damage -30%]",
+          "description": "Deal 3% + 12,000 to all enemies with a high chance to inflict 'Cut' state. Deal damage the more Courage and Intellect allies and/or enemies, (Max 20x). [Cut: Cast Speed -1, Skill Damage -30%]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2347",
@@ -83126,7 +83126,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2348",
           "nameIdx": "2370",
-          "description": "Own ATK, DEF and SPD +100% and grant \"Duel\" state. Grant \"Duel\" states to Courage allies. [Duel: Own Skill Damage increase based on how many ally are alive. +30% per ally. Max 150%] ",
+          "description": "Own ATK, DEF and SPD +100% and grant 'Duel' state. Grant 'Duel' states to Courage allies. [Duel: Own Skill Damage increase based on how many ally are alive. +30% per ally. Max 150%] ",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -83162,7 +83162,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2349",
           "nameIdx": "2097",
-          "description": "Deal 100x ATK to one enemy ignoring 40% DEF. Chance to Inflict \"Moon Seal\" for 99,999 turns. [Moon Seal: Action is disabled. Reduce HP by 20% per turn]",
+          "description": "Deal 100x ATK to one enemy ignoring 40% DEF. Chance to Inflict 'Moon Seal' for 99,999 turns. [Moon Seal: Action is disabled. Reduce HP by 20% per turn]",
           "categoryId": "1",
           "levelType": "1",
           "scriptId": "2349",
@@ -83198,7 +83198,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2350",
           "nameIdx": "2372",
-          "description": "Own ATK, SPD and Skill Damage +120% and grant \"Rally\" state. If one of the ally is an Intellect Type, grant \"Resolution\" state to all allies. [Resolution: ATK, DEF and SPD +50%, recovery 10% HP and Chakra when attacked] [Rally: ATK, DEF and SPD +50%, HP Regen and Chakra Recovery +15%]",
+          "description": "Own ATK, SPD and Skill Damage +120% and grant 'Rally' state. If one of the ally is an Intellect Type, grant 'Resolution' state to all allies. [Resolution: ATK, DEF and SPD +50%, recovery 10% HP and Chakra when attacked] [Rally: ATK, DEF and SPD +50%, HP Regen and Chakra Recovery +15%]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -83342,7 +83342,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2354",
           "nameIdx": "2380",
-          "description": "味方全体の素早さを60％アップ。自身を含む味方の\"暁\"所属に対しチャクラ小回復＆スキル発動速度2段階アップ&amp;凶鳴状態を付与。【特殊状態：凶鳴】スキルダメージが20％、素早さが50％アップする。凶鳴状態のときに再び凶鳴状態になるとカウント数が増加し効果が追加。他のスキルによる凶鳴状態も有効（最大カウント3）※持続時間は延長されない※共鳴スキルとは異なる",
+          "description": "味方全体の素早さを60％アップ。自身を含む味方の'暁'所属に対しチャクラ小回復＆スキル発動速度2段階アップ&amp;凶鳴状態を付与。【特殊状態：凶鳴】スキルダメージが20％、素早さが50％アップする。凶鳴状態のときに再び凶鳴状態になるとカウント数が増加し効果が追加。他のスキルによる凶鳴状態も有効（最大カウント3）※持続時間は延長されない※共鳴スキルとは異なる",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -83450,7 +83450,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2359",
           "nameIdx": "2420",
-          "description": "Deal 8% + 12,000 to one enemy. Deal 8x damage while under \"Curse Seal\" state",
+          "description": "Deal 8% + 12,000 to one enemy. Deal 8x damage while under 'Curse Seal' state",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2359",
@@ -83486,7 +83486,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2360",
           "nameIdx": "2388",
-          "description": "Recover own HP by great amount and grant a high chance to dodge Skills. For 99,999 turns, grant \"Curse Seal\" state. [Curse Seal: Maximum HP -50%. SPD +30% and Skill Damage +150% per turn. (Max +999% SPD and +9,999% Skill Damage)]" ,
+          "description": "Recover own HP by great amount and grant a high chance to dodge Skills. For 99,999 turns, grant 'Curse Seal' state. [Curse Seal: Maximum HP -50%. SPD +30% and Skill Damage +150% per turn. (Max +999% SPD and +9,999% Skill Damage)]" ,
           "categoryId": "2",
           "levelType": "2",
           "scriptId": "100004",
@@ -83522,7 +83522,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2361",
           "nameIdx": "2390",
-          "description": "Deal 10,000 fixed damage to one enemy with a high chance to inflict \"Blood Possession\" state. Deal 2-50x damage to enemies under \"Blood Possession\". Deal 10x damage to EX. (Max 500x). Recover own HP by 9,999,999. [Blood Possession: Does Nothing]",
+          "description": "Deal 10,000 fixed damage to one enemy with a high chance to inflict 'Blood Possession' state. Deal 2-50x damage to enemies under 'Blood Possession'. Deal 10x damage to EX. (Max 500x). Recover own HP by 9,999,999. [Blood Possession: Does Nothing]",
           "categoryId": "1",
           "levelType": "2",
           "scriptId": "2361",
@@ -83558,7 +83558,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2362",
           "nameIdx": "2392",
-          "description": "Own DEF +500%. Grant \"Immortality\" state for 99,999 turns to ally \"Hidan\" and \"Kakuzu\". [Immortality: When HP reach 0, revive]",
+          "description": "Own DEF +500%. Grant 'Immortality' state for 99,999 turns to ally 'Hidan' and 'Kakuzu'. [Immortality: When HP reach 0, revive]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -83595,7 +83595,7 @@ window.skill=[
           "cardBattleSkillId": "2363",
           "categoryId": "1",
           "nameIdx": "2394",
-          "description": "Deal 7% + 15,000 to one enemy with a chance to inflict Burn, Paralyze and/or lower SPD by 50%. Deal 30x damage to EX with a high chance to inflict \"Great Fire\" and \"Bind\". [Great Fire: Reduce HP after every action (Max 30%) remove and prevent the effects buff and Debuff (including Chakra Cost, Skill Damage, Crit Chance and Crit Damage)] [Bind: Skill Damage -70%, SPD -30%]",
+          "description": "Deal 7% + 15,000 to one enemy with a chance to inflict Burn, Paralyze and/or lower SPD by 50%. Deal 30x damage to EX with a high chance to inflict 'Great Fire' and 'Bind'. [Great Fire: Reduce HP per turn (Max 30%) remove and prevent the effects buff and Debuff (including Chakra Cost, Skill Damage, Crit Chance and Crit Damage)] [Bind: Skill Damage -70%, SPD -30%]",
           "levelType": "7",
           "scriptId": "2363",
           "battleSkillCnt": "80",
@@ -83630,7 +83630,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2364",
           "nameIdx": "2396",
-          "description": "Own DEF and Skill Damage +200% and Protect all allies. Recover 30% HP to all allies \"Akatsuki\" and grant \"Wicked\" state. [Wicked: Skill Damage +20% and ATK +50%. Wicked can be stacked up to 3 times]",
+          "description": "Own DEF and Skill Damage +200% and Protect all allies. Recover 30% HP to all allies 'Akatsuki' and grant 'Wicked' state. [Wicked: Skill Damage +20% and ATK +50%. Wicked can be stacked up to 3 times]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -83666,7 +83666,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2365",
           "nameIdx": "2421",
-          "description": "Deal 3x ATK damage to one enemy with a high chance to grant \"Bull\" state. [Bull: Bull stacks doing damage multiplier and ignoring more DEF. Max 33x damage and ignore 33% DEF. Maximum stack is 3. Remove the state once you reach 3rd stack]",
+          "description": "Deal 3x ATK damage to one enemy with a high chance to grant 'Bull' state. [Bull: Bull stacks doing damage multiplier and ignoring more DEF. Max 33x damage and ignore 33% DEF. Maximum stack is 3. Remove the state once you reach 3rd stack]",
           "categoryId": "1",
           "levelType": "1",
           "scriptId": "2365",
@@ -83882,7 +83882,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2371",
           "nameIdx": "20100",
-          "description": "Deal 3% + 500,000 to all enemies. Deal 1.5x damage to enemies under God State \"Rabbit\". Deal 2x damage to \"Naruto Uzumaki\", \"Sasuke Uchiha\", \"Hashirama Senju\", \"Madara Uchiha\", \"Ashura Otsutsuki\", \"Indra Otsutsuki\", \"Hagoromo Otsutsuki\", and \"Hamura Otsutsuki\" [Always Hit]" ,
+          "description": "Deal 3% + 500,000 to all enemies. Deal 1.5x damage to enemies under God State 'Rabbit'. Deal 2x damage to 'Naruto Uzumaki', 'Sasuke Uchiha', 'Hashirama Senju', 'Madara Uchiha', 'Ashura Otsutsuki', 'Indra Otsutsuki', 'Hagoromo Otsutsuki', and 'Hamura Otsutsuki' [Always Hit]" ,
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2371",
@@ -83918,7 +83918,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2372",
           "nameIdx": "2404",
-          "description": "Deal 10,000 fixed damage to all enemies with a high chance to inflict God State \"Rabbit\". Own Skill Damage +100% and Cast Speed +1. [God State Rabbit: Reduce HP and Chakra by 10% per turn. Cancel and Prevent Special State, Status Effect, Buff and Debuff]",
+          "description": "Deal 10,000 fixed damage to all enemies with a high chance to inflict God State 'Rabbit'. Own Skill Damage +100% and Cast Speed +1. [God State Rabbit: Reduce HP and Chakra by 10% per turn. Cancel and Prevent Special State, Status Effect, Buff and Debuff]",
           "categoryId": "1",
           "levelType": "2",
           "scriptId": "100004",
@@ -83954,7 +83954,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2373",
           "nameIdx": "20100",
-          "description": "Deal 3% + 999,999 to all enemies. Deal 2x damage to enemies under God State \"Rabbit\". Deal 3x damage to \"Naruto Uzumaki\", \"Sasuke Uchiha\", \"Hashirama Senju\", \"Madara Uchiha\", \"Ashura Otsutsuki\", \"Indra Otsutsuki\", \"Hagoromo Otsutsuki\", and \"Hamura Otsutsuki\" [Always Hit]",
+          "description": "Deal 3% + 999,999 to all enemies. Deal 2x damage to enemies under God State 'Rabbit'. Deal 3x damage to 'Naruto Uzumaki', 'Sasuke Uchiha', 'Hashirama Senju', 'Madara Uchiha', 'Ashura Otsutsuki', 'Indra Otsutsuki', 'Hagoromo Otsutsuki', and 'Hamura Otsutsuki' [Always Hit]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2373",
@@ -83990,7 +83990,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2374",
           "nameIdx": "2404",
-          "description": "Deal 50,000 fixed damage to all enemies with a high chance to inflict God State \"Rabbit\". Own Skill Damage +200% and Cast Speed +2. [God State Rabbit: Reduce HP and Chakra by 20% per turn. Cancel and Prevent Special State, Status Effect, Buff and Debuff]",
+          "description": "Deal 50,000 fixed damage to all enemies with a high chance to inflict God State 'Rabbit'. Own Skill Damage +200% and Cast Speed +2. [God State Rabbit: Reduce HP and Chakra by 20% per turn. Cancel and Prevent Special State, Status Effect, Buff and Debuff]",
           "categoryId": "1",
           "levelType": "2",
           "scriptId": "100004",
@@ -84026,7 +84026,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2375",
           "nameIdx": "2405",
-          "description": "Deal 3% + 10,000 to all enemies with a high chance to cancel action. Deal 4x damage while under \"Resonance\" state. Deal damage the more HP Naruto has. (Max 16x)",
+          "description": "Deal 3% + 10,000 to all enemies with a high chance to cancel action. Deal 4x damage while under 'Resonance' state. Deal damage the more HP Naruto has. (Max 16x)",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2375",
@@ -84062,7 +84062,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2376",
           "nameIdx": "2406",
-          "description": "All allies ATK +100%. Grant \"Resonance\" state to Five Village Characters [Resonance: Skill Damage +20%, ATK +33%. Resonance can be stacked up to 3 times including other Resonance state from other characters",
+          "description": "All allies ATK +100%. Grant 'Resonance' state to Five Village Characters [Resonance: Skill Damage +20%, ATK +33%. Resonance can be stacked up to 3 times including other Resonance state from other characters",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -84098,7 +84098,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2377",
           "nameIdx": "2407",
-          "description": "Deal 3% + 10,000 to all enemies with a chance to inflict \"Cut\" state. Deal 4x damage while under \"Resonance\" state. Deal 4x damage when HP is above 50%. [Cut: Cast Speed -1 and Skill Damage -30%]",
+          "description": "Deal 3% + 10,000 to all enemies with a chance to inflict 'Cut' state. Deal 4x damage while under 'Resonance' state. Deal 4x damage when HP is above 50%. [Cut: Cast Speed -1 and Skill Damage -30%]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2377",
@@ -84134,7 +84134,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2378",
           "nameIdx": "2408",
-          "description": "All allies SPD +100% and grant \"Resonance\" state to Five Village Characters. [Resonance: Skill Damage +20%, SPD +33%. Resonance can be stacked up to 3 times including other Resonance state from other characters]",
+          "description": "All allies SPD +100% and grant 'Resonance' state to Five Village Characters. [Resonance: Skill Damage +20%, SPD +33%. Resonance can be stacked up to 3 times including other Resonance state from other characters]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -84170,7 +84170,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2379",
           "nameIdx": "2409",
-          "description": "Deal 3% + 10,000 to all enemies, remove buffs and has a high chance to Crit dealing 4x damage. Deal 4x damage while under \"Resonance\" state",
+          "description": "Deal 3% + 10,000 to all enemies, remove buffs and has a high chance to Crit dealing 4x damage. Deal 4x damage while under 'Resonance' state",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2379",
@@ -84206,7 +84206,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2380",
           "nameIdx": "2410",
-          "description": "Heal 30,000 HP to all allies and grant \"Resonance\" state to Five Village Characters. [Resonance: Skill Damage +20%, DEF +33%. Resonance can be stacked up to 3 times including other Resonance state from other characters]",
+          "description": "Heal 30,000 HP to all allies and grant 'Resonance' state to Five Village Characters. [Resonance: Skill Damage +20%, DEF +33%. Resonance can be stacked up to 3 times including other Resonance state from other characters]",
           "categoryId": "2",
           "levelType": "2",
           "scriptId": "100004",
@@ -84242,7 +84242,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2381",
           "nameIdx": "761",
-          "description": "Deal 3% + 10,000 to all enemies with a chance to inflict \"Ignition\" state. Deal more damage the less enemies alive, Max 15x. Own Cast Speed +1. [Ignition:  Countdown Turns on the enemy, reduce the Countdown by 1 every turn. When the Countdown reach 0, remove \"Ignition\" state. Deal 500,000 damage to all enemies whenever \"Ignition\" state is removed. (Note: The damage from \"Ignition\" can't kill an enemy)]",
+          "description": "Deal 3% + 10,000 to all enemies with a chance to inflict 'Ignition' state. Deal more damage the less enemies alive, Max 15x. Own Cast Speed +1. [Ignition:  Countdown Turns on the enemy, reduce the Countdown by 1 every turn. When the Countdown reach 0, remove 'Ignition' state. Deal 500,000 damage to all enemies whenever 'Ignition' state is removed. (Note: The damage from 'Ignition' can't kill an enemy)]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2381",
@@ -84278,7 +84278,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2382",
           "nameIdx": "2411",
-          "description": "Own Skill Damage +200% and grant \"Gust\", \"Concentration\" and \"Resolution\: state. [Gust: SPD and Skill Damage +50%] [Concentration: Chakra Cost reduced per turn, Max 30%] [Resolution: ATK, DEF and SPD +50%. Recover 5% HP and Chakra when attacked] ",
+          "description": "Own Skill Damage +200% and grant 'Gust', 'Concentration' and 'Resolution\: state. [Gust: SPD and Skill Damage +50%] [Concentration: Chakra Cost reduced per turn, Max 30%] [Resolution: ATK, DEF and SPD +50%. Recover 5% HP and Chakra when attacked] ",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -84314,7 +84314,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2383",
           "nameIdx": "1001",
-          "description": "Deal 400,000 fixed damage to one enemy with a high chance to seal. Reduce his HP by 70%. If the enemy is under \"Genjutsu\", deal an additional hit dealing 400,000 fixed damage. [Always hit]",
+          "description": "Deal 400,000 fixed damage to one enemy with a high chance to seal. Reduce his HP by 70%. If the enemy is under 'Genjutsu', deal an additional hit dealing 400,000 fixed damage. [Always hit]",
           "categoryId": "1",
           "levelType": "2",
           "scriptId": "2383",
@@ -84350,7 +84350,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2384",
           "nameIdx": "2413",
-          "description": "High chance to reduce all enemies ATK, DEF and/or SPD by 70% and inflict Genjutsu. Grant \"Yata Mirror\" state. [Yata Mirror: Immune to all Skills except for Skill Damage. Skill Damage +120%]",
+          "description": "High chance to reduce all enemies ATK, DEF and/or SPD by 70% and inflict Genjutsu. Grant 'Yata Mirror' state. [Yata Mirror: Immune to all Skills except for Skill Damage. Skill Damage +120%]",
           "categoryId": "6",
           "levelType": "4",
           "scriptId": "100004",
@@ -84494,7 +84494,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2394",
           "nameIdx": "2433",
-          "description": "Own ATK and SPD +100%, grant \"Solitude\" and \"Hatred\" state. [Solitude: Skill Damage +100%, immune to Status Effects] [Hatred: Reduce HP by 10% per turn, ATK and Skill Damage +750% per turn. Max 3,000%]",
+          "description": "Own ATK and SPD +100%, grant 'Solitude' and 'Hatred' state. [Solitude: Skill Damage +100%, immune to Status Effects] [Hatred: Reduce HP by 10% per turn, ATK and Skill Damage +750% per turn. Max 3,000%]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -125102,7 +125102,7 @@ window.skill=[
         {
           "cardBattleSkillId": "100012",
           "nameIdx": "1625",
-          "description": "敵全体に攻撃力3%+9000のダメージを与え、敵が「火・水・土・風・雷遁」いずれかが弱点の場合、ダメージ5倍。自身のHPが多いほどダメージが上がり、ダメージ最大3倍。（合計15倍）さらに確率で敵を全タイプ弱点状態にする。※敵の耐性が軽減、半減、無効のタイプは弱点にできない",
+          "description": "Deal 3% + 9,000 to all enemies. Deal 5x more damage if the enemies is weak to Fire, Water, Earth, Wind and/or Lightning. Deal more damage the more HP Tenten has, Max 3x. Chance to make the enemies Weak to All Skill Damage. (Note: Only works if the enemy is neutral to a nature)",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1625",
@@ -125138,7 +125138,7 @@ window.skill=[
         {
           "cardBattleSkillId": "100013",
           "nameIdx": "1626",
-          "description": "自身のスキルダメージを150%アップし、特殊状態「欠乏」を解除する。さらに味方のマイト・ガイ、ロック・リー、日向ネジ、テンテンに対し集中を付与する。【特殊状態：集中】行動するごとにチャクラ消費量ダウン、最大80%減少。",
+          "description": "Own Skill Damage +150% and remove 'Deficit' state. Grant Concentration' state to ally 'Might Gai', 'Rock Lee', 'Neji Hyuga', and 'Tenten'. [Concentration: Chakra Cost is reduced every turn. Max 80%]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -125174,7 +125174,7 @@ window.skill=[
         {
           "cardBattleSkillId": "100014",
           "nameIdx": "454",
-          "description": "Deal 7% + 1,000 to one enemy and grant \"Fan\" state. [Fan: Incoming Skill Damage -50% (Including Fixed), except for Taijutsu and Wood. Increase Skill Damage when attacked (Max 500% after 5 hits) (Note: Effects from Skills such as Cancel Action and etc will still occur)]",
+          "description": "Deal 7% + 1,000 to one enemy and grant 'Fan' state. [Fan: Incoming Skill Damage -50% (Including Fixed), except for Taijutsu and Wood. Increase Skill Damage when attacked (Max 500% after 5 hits) (Note: Effects from Skills such as Cancel Action and etc will still occur)]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "100014",
@@ -125210,7 +125210,7 @@ window.skill=[
         {
           "cardBattleSkillId": "100015",
           "nameIdx": "454",
-          "description": "Deal 7% + 10,000 to one enemy and grant \"Fan\" state. [Fan: Incoming Skill Damage -50% (Including Fixed), except for Taijutsu and Wood. Increase Skill Damage when attacked (Max 600% after 5 hits) (Note: Effects from Skills such as Cancel Action and etc will still occur)]",
+          "description": "Deal 7% + 10,000 to one enemy and grant 'Fan' state. [Fan: Incoming Skill Damage -50% (Including Fixed), except for Taijutsu and Wood. Increase Skill Damage when attacked (Max 600% after 5 hits) (Note: Effects from Skills such as Cancel Action and etc will still occur)]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "100014",

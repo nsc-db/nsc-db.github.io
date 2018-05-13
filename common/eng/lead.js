@@ -6307,7 +6307,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "486",
           "name": "六道の宝具",
-          "description": "Technique Type SPDand Weapon Skill Damage +40%",
+          "description": "Technique Type SPD and Weapon Skill Damage +40%",
           "effectIdx1": "840",
           "effectIdx2": "111",
           "effectIdx3": "0",

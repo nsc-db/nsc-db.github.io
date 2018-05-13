@@ -19869,7 +19869,7 @@ window.chara=[
           "cardId": "20001839",
           "modelId": "499",
           "charaType": "99",
-          "cardSubName": "絶望の理",
+          "cardSubName": "Principle of Despair",
           "cardInformation": "“うちはマダラ”を名乗る仮面の男の正体は、第三次忍界大戦・神無毘橋の戦いで命を落としたとされた、うちはオビトであった。…不条理なる現実、この世界を変える。ただ一つの望みを叶える為、オビトは友に刃を向ける。",
           "bookNo": "659",
           "rare": "5",
@@ -19905,7 +19905,7 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2017-02-07 22:07:28",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20001840",
@@ -20247,7 +20247,7 @@ window.chara=[
           "cardId": "20001848",
           "modelId": "585",
           "charaType": "1",
-          "cardSubName": "贖罪の旅路",
+          "cardSubName": "Journey of Atonement",
           "cardInformation": "かつて闇を見つめた瞳は、今、光ある世界を望む。己が傷つけた現在と過去の贖罪を。過去から未来へと繋がる道を守る為に、サスケは旅を続ける。",
           "bookNo": "668",
           "rare": "5",
@@ -20283,7 +20283,7 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-02-27 12:55:36",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20001849",
@@ -20373,7 +20373,7 @@ window.chara=[
           "cardId": "20001851",
           "modelId": "482",
           "charaType": "1",
-          "cardSubName": "六道の宝具",
+          "cardSubName": "Six Path's Treasure",
           "cardInformation": "目の離せない師と仲間に振り回されながら、彼らをまとめ続けて早幾年。第三班の紅一点。第四次忍界大戦の最中、得意の忍具だけでなく、六道仙人の残した宝具を使いこなし仲間を守り抜く。",
           "bookNo": "671",
           "rare": "5",
@@ -20409,7 +20409,7 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-03-07 16:32:49",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20001852",
@@ -20493,7 +20493,7 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-03-13 23:09:26",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20001854",
@@ -20541,7 +20541,7 @@ window.chara=[
           "cardId": "20001855",
           "modelId": "349",
           "charaType": "8",
-          "cardSubName": "殺戮の使徒",
+          "cardSubName": "Deciple of Massacre",
           "cardInformation": "殺戮をモットーとするジャシン教の信徒。呪われし不死身の肉体を持ち、痛覚すら楽しむ恐るべき男。教義と戒律を重んじ、殺戮の後は神に祈りを捧げる。",
           "bookNo": "675",
           "rare": "5",
@@ -20577,13 +20577,13 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-03-13 23:09:28",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20001856",
           "modelId": "34",
           "charaType": "8",
-          "cardSubName": "不死の禁術",
+          "cardSubName": "Forbidden Immortality",
           "cardInformation": "他者の命を蓄積し、生きながらえる不死の忍。初代火影とも刃を交えた圧倒的戦闘経験を誇る。優れた分析力を持ち、相手の実力を判断するや次なる手段を即座に講じてくる…！",
           "bookNo": "676",
           "rare": "5",
@@ -20619,13 +20619,13 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-03-13 23:09:28",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20001857",
           "modelId": "584",
           "charaType": "1",
-          "cardSubName": "桜花流麗",
+          "cardSubName": "Cherry Blososm",
           "cardInformation": "数々の経験を積み、一流の医療忍者として成長したサクラ。高度な医療忍術で木ノ葉の里を人々を守っている。",
           "bookNo": "1",
           "rare": "5",
@@ -20661,7 +20661,7 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-03-22 14:45:28",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20001858",
@@ -20751,7 +20751,7 @@ window.chara=[
           "cardId": "20001860",
           "modelId": "582",
           "charaType": "1",
-          "cardSubName": "大戦の英雄",
+          "cardSubName": "Hero of the World War",
           "cardInformation": "第四次忍界大戦終結の立役者。木ノ葉隠れの里を代表する英雄の一人として絶大な人気者となった。",
           "bookNo": "1",
           "rare": "5",
@@ -20787,13 +20787,13 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-03-29 11:56:04",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20001861",
           "modelId": "583",
           "charaType": "1",
-          "cardSubName": "静淑な白百合",
+          "cardSubName": "Silent White Lily",
           "cardInformation": "木ノ葉隠れの里の名家、日向家の嫡子。引っ込み思案で気弱だった少女も、美しく成長した。白眼により点穴の見切りも上達し、その力で仲間たちをサポートする。",
           "bookNo": "1",
           "rare": "5",
@@ -20829,7 +20829,7 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-03-29 11:56:05",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20001862",

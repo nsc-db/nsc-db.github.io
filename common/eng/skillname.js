@@ -1067,7 +1067,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "292",
           "name": "呪術・死司憑血",
-          "eng": ""
+          "eng": "Curse Jutsu: Death Possession Blood"
         },
         {
           "cardBattleSkillNameId": "293",
@@ -2017,7 +2017,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "588",
           "name": "風遁・螺旋手裏剣",
-          "eng": ""
+          "eng": "Wind Style: Rasenshuriken"
         },
         {
           "cardBattleSkillNameId": "589",
@@ -4162,12 +4162,12 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "1591",
           "name": "本当の神威",
-          "eng": ""
+          "eng": "True Kamui"
         },
         {
           "cardBattleSkillNameId": "1592",
           "name": "この世界ごと消えろ",
-          "eng": ""
+          "eng": "This World Will Disappear"
         },
         {
           "cardBattleSkillNameId": "1593",
@@ -4222,12 +4222,12 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "1613",
           "name": "瞬刃・天手力",
-          "eng": ""
+          "eng": "Flash Blade: Heavenly Hand Sword"
         },
         {
           "cardBattleSkillNameId": "1614",
           "name": "…オレが全て解放する",
-          "eng": ""
+          "eng": "...I Will Discharge Everything"
         },
         {
           "cardBattleSkillNameId": "1615",
@@ -4252,12 +4252,12 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "1625",
           "name": "芭蕉扇",
-          "eng": ""
+          "eng": "Bashosen"
         },
         {
           "cardBattleSkillNameId": "1626",
           "name": "集中よ！集中！",
-          "eng": ""
+          "eng": "Concentrate, Concentrate"
         },
         {
           "cardBattleSkillNameId": "1629",
@@ -4282,27 +4282,27 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "1636",
           "name": "殺戮の宴",
-          "eng": ""
+          "eng": "Feast of Slaughter"
         },
         {
           "cardBattleSkillNameId": "1637",
           "name": "火遁・頭刻苦",
-          "eng": ""
+          "eng": "Fire Stylie: Searing Migraine"
         },
         {
           "cardBattleSkillNameId": "1638",
           "name": "その心臓貰うぞ",
-          "eng": ""
+          "eng": "I Will Take that Heart"
         },
         {
           "cardBattleSkillNameId": "1639",
           "name": "桜花昇流撃",
-          "eng": ""
+          "eng": "Cherry Blossom Rising Fist"
         },
         {
           "cardBattleSkillNameId": "1640",
           "name": "私が診る！",
-          "eng": ""
+          "eng": "I'll Examine"
         },
         {
           "cardBattleSkillNameId": "1643",
@@ -4322,22 +4322,22 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "1647",
           "name": "休止の点穴",
-          "eng": ""
+          "eng": "Cessation of Chakra Point"
         },
         {
           "cardBattleSkillNameId": "1648",
           "name": "お願い、これで倒れて！",
-          "eng": ""
+          "eng": "Please, Fall"
         },
         {
           "cardBattleSkillNameId": "1649",
           "name": "螺旋丸・瞬輝",
-          "eng": ""
+          "eng": "Rasengan: Flash"
         },
         {
           "cardBattleSkillNameId": "1650",
           "name": "頼んだぜ、九喇嘛！！",
-          "eng": ""
+          "eng": "Please, Kurama!"
         },
         {
           "cardBattleSkillNameId": "1651",

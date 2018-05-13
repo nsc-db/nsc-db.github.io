@@ -2,6 +2,10 @@ $(document).ready( function () {
 			var table = $('#myTable').DataTable({
 				stateSave: true,
 				responsive: true,
+				"columnDefs": [
+			        {"className": "dt-left", "targets": [1]},
+   			        {"className": "dt-center", "targets": "_all"}
+			      ],
 				columns: [
 		            { 
 		            	title: "Icon",
@@ -14,7 +18,11 @@ $(document).ready( function () {
 		        	},
 		            { title: "Type" },
 		            { title: "Affi" },
-		            { title: "Rarity" },
+ 					{ 
+		            	title: "Rarity",
+		            	"visible": false,
+		            	"searchable": true
+		            },		            
 		            { title: "Cost" },
 		            { title: "HP" },
 		            { title: "ATK" },

@@ -258,7 +258,7 @@ window.detail = {
 		skill1type: "Sage",
 		skill1speed: "Normal",
 		skill1cost: "85",
-		skill1: "Deal 3% + 800 to all enemies with a Chance to place the enemies under \"Gate of the Great God\" state. [Gate of the Great God: Gate of the Great God stacks doing different effect based on the number of stacks. [1] Skill Damage -15%, [2] Skill Damage -15%, SPD -20% [3] Cancel enemies' action]",
+		skill1: "Deal 3% + 800 to all enemies with a Chance to place the enemies under 'Gate of the Great God' state. [Gate of the Great God: Gate of the Great God stacks doing different effect based on the number of stacks. [1] Skill Damage -15%, [2] Skill Damage -15%, SPD -20% [3] Cancel enemies' action]",
 
 		skill2name: "Wood Style: Wood Golem Jutsu",
 		skill2ogname: "木遁・木人の術",
@@ -283,7 +283,7 @@ window.detail = {
 		skill1type: "Sage",
 		skill1speed: "Fast",
 		skill1cost: "70",
-		skill1: "Deal 3% + 12,000 to all enemies and place the enemies under \"Gate of the Great God\" state. [Gate of the Great God: Gate of the Great God stacks doing different effect based on the number of stacks. [1] Skill Damage -20%, [2] Skill Damage -20%, SPD -30% [3] Cancel enemies' action]",
+		skill1: "Deal 3% + 12,000 to all enemies and place the enemies under 'Gate of the Great God' state. [Gate of the Great God: Gate of the Great God stacks doing different effect based on the number of stacks. [1] Skill Damage -20%, [2] Skill Damage -20%, SPD -30% [3] Cancel enemies' action]",
 
 		skill2name: "Wood Style: Wood Golem Jutsu",
 		skill2ogname: "木遁・木人の術",
@@ -420,7 +420,7 @@ window.detail = {
 		skill2type: "Summoning",
 		skill2speed: "Slow",
 		skill2cost: "90",
-		skill2: "Recover a tremendous amount of HP to all allies and grant \"Heal\" state [Heal: Recover 10% HP when attacked]",
+		skill2: "Recover a tremendous amount of HP to all allies and grant 'Heal' state [Heal: Recover 10% HP when attacked]",
 
 		ability1name: "Byakugo",
 		ability1: "For 10 turns, ATK +100% and Regen all HP",
@@ -446,7 +446,7 @@ window.detail = {
 		skill2type: "Summoning",
 		skill2speed: "Normal",
 		skill2cost: "80",
-		skill2: "Recover an colossal amount of HP to all allies and grant \"Heal\" state [Heal: Recover 20% HP when attacked]",
+		skill2: "Recover an colossal amount of HP to all allies and grant 'Heal' state [Heal: Recover 20% HP when attacked]",
 
 		ability1name: "Byakugo",
 		ability1: "ATK +100%. For 10 turns, Recover all HP",
@@ -516,7 +516,7 @@ window.detail = {
 		skill1type: "Genjutsu",
 		skill1speed: "Slow",
 		skill1cost: "90",
-		skill1: "Deal 3% + 1,200 to all enemies, with a Chance to lower ATK and/or DEF by 50% and inflict \"Frog Illusion\" state. [Frog Illusion: Skills can't be used] ",
+		skill1: "Deal 3% + 1,200 to all enemies, with a Chance to lower ATK and/or DEF by 50% and inflict 'Frog Illusion' state. [Frog Illusion: Skills can't be used] ",
 
 
 		skill2name: "Summoning: Gamabunta",
@@ -542,7 +542,7 @@ window.detail = {
 		skill1type: "Genjutsu",
 		skill1speed: "Normal",
 		skill1cost: "75",
-		skill1: "Deal 3% + 6,000 to all enemies, with a Chance to lower ATK and/or DEF by 70% and place them under \"Frog Illusion\" state. [Frog Illusion: Skills can't be used] ",
+		skill1: "Deal 3% + 6,000 to all enemies, with a Chance to lower ATK and/or DEF by 70% and place them under 'Frog Illusion' state. [Frog Illusion: Skills can't be used] ",
 
 
 		skill2name: "Summoning: Gamabunta",
@@ -568,7 +568,7 @@ window.detail = {
 		skill1type: "Sharingan",
 		skill1speed: "Fastest",
 		skill1cost: "80",
-		skill1: "Deal 7% + 1,800 to one enemy.  Deal 3x more damage while under \"Susano'o\" state.",
+		skill1: "Deal 7% + 1,800 to one enemy.  Deal 3x more damage while under 'Susano'o' state.",
 
 
 		skill2name: "Susano'o Armor",
@@ -576,7 +576,7 @@ window.detail = {
 		skill2type: "Sharingan",
 		skill2speed: "Fastest",
 		skill2cost: "80",
-		skill2: "Own ATK and DEF +100% and grant \"Susano'o\" state. [Susano'o: Sharingan Skill Damage +60%, Chance to Dodge Skills]",
+		skill2: "Own ATK and DEF +100% and grant 'Susano'o' state. [Susano'o: Sharingan Skill Damage +60%, Chance to Dodge Skills]",
 
 		ability1name: "Deep Hatred",
 		ability1: "ATK +20% per turn (Max 80%)",
@@ -594,7 +594,7 @@ window.detail = {
 		skill1type: "Sharingan",
 		skill1speed: "Fastest",
 		skill1cost: "60",
-		skill1: "Deal 7% + 10,000 to one enemy.  Deal 8x more damage while under \"Susano'o\" state.",
+		skill1: "Deal 7% + 10,000 to one enemy.  Deal 8x more damage while under 'Susano'o' state.",
 
 
 		skill2name: "Susano'o Armor",
@@ -602,7 +602,7 @@ window.detail = {
 		skill2type: "Sharingan",
 		skill2speed: "Fastest",
 		skill2cost: "70",
-		skill2: "Own ATK and DEF +120% and grant \"Susano'o\" state. [Susano'o: Sharingan Skill Damage +60%, Chance to Dodge Skills]",
+		skill2: "Own ATK and DEF +120% and grant 'Susano'o' state. [Susano'o: Sharingan Skill Damage +60%, Chance to Dodge Skills]",
 
 		ability1name: "Deep Hatred",
 		ability1: "ATK and DEF +30% per turn (Max 90%)",
@@ -620,7 +620,7 @@ window.detail = {
 		skill1type: "Summoning",
 		skill1speed: "Normal",
 		skill1cost: "90",
-		skill1: "Deal 3% + 2,000 to all enemies and inflict \"Deadlock\" state. [Deadlock: ATK and DEF -50%, Immune to Debuff and Status Effect]",
+		skill1: "Deal 3% + 2,000 to all enemies and inflict 'Deadlock' state. [Deadlock: ATK and DEF -50%, Immune to Debuff and Status Effect]",
 
 
 		skill2name: "One Jump to Close the Gap",
@@ -646,7 +646,7 @@ window.detail = {
 		skill1type: "Summoning",
 		skill1speed: "Fast",
 		skill1cost: "70",
-		skill1: "Deal 3% + 6,000 to all enemies and inflict \"Deadlock\" state. [Deadlock: ATK and DEF -50%, Immune to Debuff and Status Effect]",
+		skill1: "Deal 3% + 6,000 to all enemies and inflict 'Deadlock' state. [Deadlock: ATK and DEF -50%, Immune to Debuff and Status Effect]",
 
 
 		skill2name: "One Jump to Close the Gap",
@@ -672,7 +672,7 @@ window.detail = {
 		skill1type: "Summoning",
 		skill1speed: "Normal",
 		skill1cost: "90",
-		skill1: "Deal 5x ATK damage to all enemies.  Deal 5x more damage to enemies with ATK, DEF and/or SPD Debuff (Including \"Deadlock\" state).  Chance to Cancel the enemies' action",
+		skill1: "Deal 5x ATK damage to all enemies.  Deal 5x more damage to enemies with ATK, DEF and/or SPD Debuff (Including 'Deadlock' state).  Chance to Cancel the enemies' action",
 
 
 		skill2name: "Mow Down, Slip Your Way Through",
@@ -680,7 +680,7 @@ window.detail = {
 		skill2type: "None",
 		skill2speed: "Normal",
 		skill2cost: "65",
-		skill2: "All allies ATK +80% and grant \"Penetrate\" [Penetrate: Attacks ignore 30% DEF]",
+		skill2: "All allies ATK +80% and grant 'Penetrate' [Penetrate: Attacks ignore 30% DEF]",
 
 		ability1name: "Return to the Path",
 		ability1: "For 7 turns, ATK +60%. Chakra Cost -20%",
@@ -698,7 +698,7 @@ window.detail = {
 		skill1type: "Summoning",
 		skill1speed: "Fast",
 		skill1cost: "70",
-		skill1: "Deal 7x ATK damage to all enemies.  Deal 6x more damage to enemies with ATK, DEF and/or SPD Debuff (Including \"Deadlock\" state).  High Chance to Cancel the enemies' action",
+		skill1: "Deal 7x ATK damage to all enemies.  Deal 6x more damage to enemies with ATK, DEF and/or SPD Debuff (Including 'Deadlock' state).  High Chance to Cancel the enemies' action",
 
 
 		skill2name: "Mow Down, Slip Your Way Through",
@@ -706,7 +706,7 @@ window.detail = {
 		skill2type: "None",
 		skill2speed: "Normal",
 		skill2cost: "65",
-		skill2: "All allies ATK +150% and grant \"Penetrate\" [Penetrate: Attacks ignore 30% DEF]",
+		skill2: "All allies ATK +150% and grant 'Penetrate' [Penetrate: Attacks ignore 30% DEF]",
 
 		ability1name: "Return to the Path",
 		ability1: "ATK and DEF +80%. Chakra Cost -20%",
@@ -724,7 +724,7 @@ window.detail = {
 		skill1type: "Summoning",
 		skill1speed: "Slow",
 		skill1cost: "90",
-		skill1: "Recover a large amount of HP to all allies, Chakra Cost -10% and grant \"Heal\" state. [Heal: Recover 10% HP when attacked]",
+		skill1: "Recover a large amount of HP to all allies, Chakra Cost -10% and grant 'Heal' state. [Heal: Recover 10% HP when attacked]",
 
 
 		skill2name: "I Can Heal",
@@ -732,7 +732,7 @@ window.detail = {
 		skill2type: "None",
 		skill2speed: "Normal",
 		skill2cost: "70",
-		skill2: "Recover a medium amount of HP to all allies, DEF +80% and grant \"Resist\" state. [Resist: Immune and Remove all Status Effect, Debuff and Genjutsu]",
+		skill2: "Recover a medium amount of HP to all allies, DEF +80% and grant 'Resist' state. [Resist: Immune and Remove all Status Effect, Debuff and Genjutsu]",
 
 		ability1name: "Forgotten Feeling",
 		ability1: "Chakra Cost -20% when HP is above 80%",
@@ -750,7 +750,7 @@ window.detail = {
 		skill1type: "Summoning",
 		skill1speed: "Normal",
 		skill1cost: "90",
-		skill1: "Recover a tremendous amount of HP to all allies, Chakra Cost -15% and grant \"Heal\" state. [Heal: Recover 20% HP when attacked]",
+		skill1: "Recover a tremendous amount of HP to all allies, Chakra Cost -15% and grant 'Heal' state. [Heal: Recover 20% HP when attacked]",
 
 
 		skill2name: "I Can Heal",
@@ -758,7 +758,7 @@ window.detail = {
 		skill2type: "None",
 		skill2speed: "Fast",
 		skill2cost: "70",
-		skill2: "Recover a large amoung of HP to all allies, DEF +150% and grant \"Resist\" state. [Resist: Immune and Remove all Status Effect, Debuff and Genjutsu]",
+		skill2: "Recover a large amoung of HP to all allies, DEF +150% and grant 'Resist' state. [Resist: Immune and Remove all Status Effect, Debuff and Genjutsu]",
 
 		ability1name: "Forgotten Feeling",
 		ability1: "Chakra Cost -40%",
@@ -776,7 +776,7 @@ window.detail = {
 		skill1type: "Unique",
 		skill1speed: "Normal",
 		skill1cost: "85",
-		skill1: "Deal 3% + 2,200 to all enemies and inflict \"Sand\" state. [Sand: SPD -30%, Cancel the enemies' ability to Dodge Skills]",
+		skill1: "Deal 3% + 2,200 to all enemies and inflict 'Sand' state. [Sand: SPD -30%, Cancel the enemies' ability to Dodge Skills]",
 
 
 		skill2name: "Your Opponent is Me",
@@ -802,7 +802,7 @@ window.detail = {
 		skill1type: "Unique",
 		skill1speed: "Fast",
 		skill1cost: "70",
-		skill1: "Deal 3% + 10,000 to all enemies and place them in a \"Sand\" state. [Sand: Cast Speed -1 and SPD -30%, Cancel the enemies' ability to Dodge Skills]",
+		skill1: "Deal 3% + 10,000 to all enemies and place them in a 'Sand' state. [Sand: Cast Speed -1 and SPD -30%, Cancel the enemies' ability to Dodge Skills]",
 
 
 		skill2name: "Your Opponent is Me",
@@ -880,7 +880,7 @@ window.detail = {
 		skill1type: "Taijutsu",
 		skill1speed: "Fastest",
 		skill1cost: "100",
-		skill1: "Deal 100,000 Fixed Damage to one enemy.  While under \"Open State\" deal 500,000 instead.  Grant \"Exhaust\" state and reduce HP by 99% afterwards. [Exhause: Action is disabled] [Always Hits]",
+		skill1: "Deal 100,000 Fixed Damage to one enemy.  While under 'Open State' deal 500,000 instead.  Grant 'Exhaust' state and reduce HP by 99% afterwards. [Exhause: Action is disabled] [Always Hits]",
 
 
 		skill2name: "Seventh Gate, Gate of Wonder... Open!!",
@@ -888,7 +888,7 @@ window.detail = {
 		skill2type: "Taijutsu",
 		skill2speed: "Fastest",
 		skill2cost: "40",
-		skill2: "Own ATK and SPD +30%, grant a Chance to Dodge Skills and \"Open\" state. [Open: ATK +1900%]",
+		skill2: "Own ATK and SPD +30%, grant a Chance to Dodge Skills and 'Open' state. [Open: ATK +1900%]",
 
 		ability1name: "Peak of Youth",
 		ability1: "For 8 turns, ATK, DEF and SPD +100%",
@@ -906,7 +906,7 @@ window.detail = {
 		skill1type: "Taijutsu",
 		skill1speed: "Fastest",
 		skill1cost: "80",
-		skill1: "Deal 500,000 Fixed Damage to one enemy.  While under \"Open State\" deal 2,000,000 instead.  Grant \"Exhaust\" state and reduce HP by 50% afterwards. [Exhause: Action is disabled] [Always Hits]",
+		skill1: "Deal 500,000 Fixed Damage to one enemy.  While under 'Open State' deal 2,000,000 instead.  Grant 'Exhaust' state and reduce HP by 50% afterwards. [Exhause: Action is disabled] [Always Hits]",
 
 
 		skill2name: "Seventh Gate, Gate of Wonder... Open!!",
@@ -914,7 +914,7 @@ window.detail = {
 		skill2type: "Taijutsu",
 		skill2speed: "Fastest",
 		skill2cost: "30",
-		skill2: "Own ATK and SPD +100%, grant a Medium Chance to Dodge Skills and \"Open\" state. [Open: ATK +3000%]",
+		skill2: "Own ATK and SPD +100%, grant a Medium Chance to Dodge Skills and 'Open' state. [Open: ATK +3000%]",
 
 		ability1name: "Peak of Youth",
 		ability1: "ATK, DEF and SPD +150%",
@@ -932,7 +932,7 @@ window.detail = {
 		skill1type: "Summoning",
 		skill1speed: "Normal",
 		skill1cost: "80",
-		skill1: "Deal 7% + 3,000 to one enemy. Deal 2x more damage if the enemy's ATK, SPD or DEF is buffed.  Deal 2x more damage while under \"Resurrection\" state. (Max 4x)",
+		skill1: "Deal 7% + 3,000 to one enemy. Deal 2x more damage if the enemy's ATK, SPD or DEF is buffed.  Deal 2x more damage while under 'Resurrection' state. (Max 4x)",
 
 
 		skill2name: "Now Then, Shall We Begin",
@@ -940,7 +940,7 @@ window.detail = {
 		skill2type: "None",
 		skill2speed: "Fast",
 		skill2cost: "60",
-		skill2: "Own DEF +100% and grant \"Resurrection\" state.  [Resurrection: Reduce all incoming Skill Damage, when HP reach 0, revive and remove Resurrection state]",
+		skill2: "Own DEF +100% and grant 'Resurrection' state.  [Resurrection: Reduce all incoming Skill Damage, when HP reach 0, revive and remove Resurrection state]",
 
 		ability1name: "Foul Forbidden Jutsu",
 		ability1: "ATK, DEF and SPD +30%.  Skill Damage +80% when HP is above 80%",
@@ -958,7 +958,7 @@ window.detail = {
 		skill1type: "Summoning",
 		skill1speed: "Fast",
 		skill1cost: "70",
-		skill1: "Deal 7% + 6,000 to one enemy and lower Cast Speed by 1. Deal 2x more damage if the enemy's ATK, SPD or DEF is buffed.  Deal 3x more damage while under \"Resurrection\" state. (Max 6x)",
+		skill1: "Deal 7% + 6,000 to one enemy and lower Cast Speed by 1. Deal 2x more damage if the enemy's ATK, SPD or DEF is buffed.  Deal 3x more damage while under 'Resurrection' state. (Max 6x)",
 
 
 		skill2name: "Now Then, Shall We Begin",
@@ -966,7 +966,7 @@ window.detail = {
 		skill2type: "None",
 		skill2speed: "Fast",
 		skill2cost: "60",
-		skill2: "Own ATK and DEF +100% and grant \"Resurrection\" state.  [Resurrection: Reduce all incoming Skill Damage, when HP reach 0, revive and remove Resurrection state]",
+		skill2: "Own ATK and DEF +100% and grant 'Resurrection' state.  [Resurrection: Reduce all incoming Skill Damage, when HP reach 0, revive and remove Resurrection state]",
 
 		ability1name: "Foul Forbidden Jutsu",
 		ability1: "ATK, DEF and SPD +50%.  Skill Damage +100%",
@@ -984,7 +984,7 @@ window.detail = {
 		skill1type: "Six Paths",
 		skill1speed: "Fast",
 		skill1cost: "80",
-		skill1: "Deal 7% + 2,200 to one enemy and his Surroundings.  Deal 3x more damage while under \"Rally\" state.",
+		skill1: "Deal 7% + 2,200 to one enemy and his Surroundings.  Deal 3x more damage while under 'Rally' state.",
 
 
 		skill2name: "We Will Beat You",
@@ -992,7 +992,7 @@ window.detail = {
 		skill2type: "None",
 		skill2speed: "Fast",
 		skill2cost: "65",
-		skill2: "Recover a medium amount of HP to all allies and grant \"Rally\" state. [Rally: ATK, DEF and SPD +30%, HP Regen and Chakra Recovery +5%]",
+		skill2: "Recover a medium amount of HP to all allies and grant 'Rally' state. [Rally: ATK, DEF and SPD +30%, HP Regen and Chakra Recovery +5%]",
 
 		ability1name: "Child Prophecy",
 		ability1: "ATK and Skill Damage +100%, Immune to None Skill Damage",
@@ -1010,7 +1010,7 @@ window.detail = {
 		skill1type: "Six Paths",
 		skill1speed: "Fastest",
 		skill1cost: "65",
-		skill1: "Deal 7% + 5,000 to one enemies and his Surroundings.  Deal 4x more damage while under \"Rally\" state. Deal 2x more damage to Intellect and Courage Type",
+		skill1: "Deal 7% + 5,000 to one enemies and his Surroundings.  Deal 4x more damage while under 'Rally' state. Deal 2x more damage to Intellect and Courage Type",
 
 
 		skill2name: "We Will Beat You",
@@ -1018,7 +1018,7 @@ window.detail = {
 		skill2type: "None",
 		skill2speed: "Fast",
 		skill2cost: "65",
-		skill2: "Recover a large amount of HP to all allies and grant \"Rally\" state. [Rally: ATK, DEF and SPD +40%, HP Regen and Chakra Recovery +10%]",
+		skill2: "Recover a large amount of HP to all allies and grant 'Rally' state. [Rally: ATK, DEF and SPD +40%, HP Regen and Chakra Recovery +10%]",
 
 		ability1name: "Child Prophecy",
 		ability1: "ATK and Skill Damage +120%, Immune to None Skill Damage",
@@ -1036,7 +1036,7 @@ window.detail = {
 		skill1type: "Sharingan",
 		skill1speed: "Fast",
 		skill1cost: "90",
-		skill1: "Deal 7% + 2,200 to one enemy with a Chance to inflict \"Cut\" state.  Deal 3x more damage while under \"Battle\" state. [Cut: Cast Speed -1, Skill Damage -30%]",
+		skill1: "Deal 7% + 2,200 to one enemy with a Chance to inflict 'Cut' state.  Deal 3x more damage while under 'Battle' state. [Cut: Cast Speed -1, Skill Damage -30%]",
 
 
 		skill2name: "Let's Go",
@@ -1044,7 +1044,7 @@ window.detail = {
 		skill2type: "None",
 		skill2speed: "Fastest",
 		skill2cost: "65",
-		skill2: "Own ATK, DEF and SPD +100%, Debuff effects -50% and grant \"Battle\" state. [Battle: Chance to Dodge Skills, Skill Damage +100%]",
+		skill2: "Own ATK, DEF and SPD +100%, Debuff effects -50% and grant 'Battle' state. [Battle: Chance to Dodge Skills, Skill Damage +100%]",
 
 		ability1name: "True Power of God",
 		ability1: "ATK and Skill Damage +100% and Status Effect -50% when HP is above 80%",
@@ -1062,7 +1062,7 @@ window.detail = {
 		skill1type: "Sharingan",
 		skill1speed: "Fast",
 		skill1cost: "60",
-		skill1: "Deal 7% + 4,000 to one enemy with a Chance to inflict \"Cut\" state.  Deal 4x more damage while under \"Battle\" state. Deal 2x more damage to enemies under \"Cut\" state. [Cut: Cast Speed -1, Skill Damage -30%] (Max 9x)",
+		skill1: "Deal 7% + 4,000 to one enemy with a Chance to inflict 'Cut' state.  Deal 4x more damage while under 'Battle' state. Deal 2x more damage to enemies under 'Cut' state. [Cut: Cast Speed -1, Skill Damage -30%] (Max 9x)",
 
 
 		skill2name: "Let's Go",
@@ -1070,7 +1070,7 @@ window.detail = {
 		skill2type: "None",
 		skill2speed: "Fastest",
 		skill2cost: "65",
-		skill2: "Own ATK, DEF and SPD +120%, Immune to Debuff, Chakra Cost -20% and grant \"Battle\" state. [Battle: High Chance to Dodge Skills, Skill Damage +120%]",
+		skill2: "Own ATK, DEF and SPD +120%, Immune to Debuff, Chakra Cost -20% and grant 'Battle' state. [Battle: High Chance to Dodge Skills, Skill Damage +120%]",
 
 		ability1name: "True Power of God",
 		ability1: "ATK and Skill Damage +120% and Immune to Status Effect. Chakra Recovery +20%",
@@ -1088,7 +1088,7 @@ window.detail = {
 		skill1type: "Rinnegan",
 		skill1speed: "Normal",
 		skill1cost: "88",
-		skill1: "Deal 5% + 2,000 to all enemies with a Chance to Cancel action.  Deal 3x more damage to enemies under \"Despair\" state",
+		skill1: "Deal 5% + 2,000 to all enemies with a Chance to Cancel action.  Deal 3x more damage to enemies under 'Despair' state",
 
 
 		skill2name: "Can You Still Dance?",
@@ -1096,7 +1096,7 @@ window.detail = {
 		skill2type: "Rinnegan",
 		skill2speed: "Fast",
 		skill2cost: "70",
-		skill2: "Own ATK and Skill Damage +100%, with a Chance to inflict \"Despair\" state. [Despair: Remove ATK, DEF and SPD buff, Chance to Cancel action]",
+		skill2: "Own ATK and Skill Damage +100%, with a Chance to inflict 'Despair' state. [Despair: Remove ATK, DEF and SPD buff, Chance to Cancel action]",
 
 		ability1name: "Rinnegan's Power",
 		ability1: "Maximum Chakra +100. For 5 turns, all incoming Skill Damage -50% except for Sage, Taijutsu and Six Paths",
@@ -1114,7 +1114,7 @@ window.detail = {
 		skill1type: "Rinnegan",
 		skill1speed: "Fast",
 		skill1cost: "66",
-		skill1: "Deal 5% + 4,000 to all enemies with a High Chance to Cancel action.  Deal 4x more damage to enemies under \"Despair.\" Deal 1.5x more damage to Body and Technique Type. (Max 6x)",
+		skill1: "Deal 5% + 4,000 to all enemies with a High Chance to Cancel action.  Deal 4x more damage to enemies under 'Despair.' Deal 1.5x more damage to Body and Technique Type. (Max 6x)",
 
 
 		skill2name: "Can You Still Dance?",
@@ -1122,7 +1122,7 @@ window.detail = {
 		skill2type: "Rinnegan",
 		skill2speed: "Fast",
 		skill2cost: "70",
-		skill2: "Own ATK and Skill Damage +150%, with a Chance to inflict \"Despair\" state. [Despair: Remove ATK, DEF and SPD buff, Chance to Cancel]",
+		skill2: "Own ATK and Skill Damage +150%, with a Chance to inflict 'Despair' state. [Despair: Remove ATK, DEF and SPD buff, Chance to Cancel]",
 
 		ability1name: "Rinnegan's Power",
 		ability1: "Maximum Chakra +150. For 7 turns, Immune to Skill Damage except for Sage, Taijutsu and Six Paths",
@@ -1140,7 +1140,7 @@ window.detail = {
 		skill1type: "Taijutsu",
 		skill1speed: "Fast",
 		skill1cost: "80",
-		skill1: "Deal 6x ATK damage to one enemy ignoring 30%.  Deal 4x more damage while under \"Open\" state.  Deal 2x more damage if one of the ally is \"Might Gai\". ",
+		skill1: "Deal 6x ATK damage to one enemy ignoring 30%.  Deal 4x more damage while under 'Open' state.  Deal 2x more damage if one of the ally is 'Might Gai'. ",
 
 
 		skill2name: "Sixth Gate Gate of View... Open!!",
@@ -1148,7 +1148,7 @@ window.detail = {
 		skill2type: "Taijutsu",
 		skill2speed: "Fastest",
 		skill2cost: "40",
-		skill2: "SPD +50%, grant a Low Chance to Dodge Skills and \"Open\" state. [Open: ATK +100%]",
+		skill2: "SPD +50%, grant a Low Chance to Dodge Skills and 'Open' state. [Open: ATK +100%]",
 
 		ability1name: "Expert Limit",
 		ability1: "ATK and Skill Damage +50% and Immune to Debuff when HP is above 80%",
@@ -1166,7 +1166,7 @@ window.detail = {
 		skill1type: "Taijutsu",
 		skill1speed: "Fast",
 		skill1cost: "80",
-		skill1: "Deal 9x ATK damage to one enemy ignoring 30%.  Deal 5x more damage while under \"Open\" state.  Deal 2.5x more damage if one of the ally is \"Might Gai\". (Max 112.5x)",
+		skill1: "Deal 9x ATK damage to one enemy ignoring 30%.  Deal 5x more damage while under 'Open' state.  Deal 2.5x more damage if one of the ally is 'Might Gai'. (Max 112.5x)",
 
 
 		skill2name: "Sixth Gate Gate of View... Open!!",
@@ -1174,7 +1174,7 @@ window.detail = {
 		skill2type: "Taijutsu",
 		skill2speed: "Fastest",
 		skill2cost: "30",
-		skill2: "Recover a large amount of HP and SPD +50%, grant a Medium Chance to Dodge Skills and \"Open\" state. [Open: ATK +100%]",
+		skill2: "Recover a large amount of HP and SPD +50%, grant a Medium Chance to Dodge Skills and 'Open' state. [Open: ATK +100%]",
 
 		ability1name: "Expert Limit",
 		ability1: "ATK and Skill Damage +100% and Immune to Debuff when HP is above 50%",
@@ -1350,7 +1350,7 @@ window.detail = {
 		skill1type: "Sharingan",
 		skill1speed: "Fastest",
 		skill1cost: "30",
-		skill1: "Deal 7% + 1,000 to one enemy with a Chance to inflict \"Black Flames\" state. Deal more damage the less Intellect enemy (Max 3x with 1 enemy, 2x with 5 enemies, 0x with 0 Intellect). [Black Flames: Inflict Damage every turn with a Chance to reduce SPD]",
+		skill1: "Deal 7% + 1,000 to one enemy with a Chance to inflict 'Black Flames' state. Deal more damage the less Intellect enemy (Max 3x with 1 enemy, 2x with 5 enemies, 0x with 0 Intellect). [Black Flames: Inflict Damage every turn with a Chance to reduce SPD]",
 
 
 		skill2name: "I Will Leave Everything to You",
@@ -1376,7 +1376,7 @@ window.detail = {
 		skill1type: "Sharingan",
 		skill1speed: "Fastest",
 		skill1cost: "25",
-		skill1: "Deal 7% + 5,000 to one enemy with a Chance to inflict \"Black Flames\" state. Deal more damage the less Intellect enemy (Max 3x with 1 enemy, 2x with 5 enemies, 0x with 0 Intellect). [Black Flames: Inflict Damage every turn with a Chance to reduce SPD]",
+		skill1: "Deal 7% + 5,000 to one enemy with a Chance to inflict 'Black Flames' state. Deal more damage the less Intellect enemy (Max 3x with 1 enemy, 2x with 5 enemies, 0x with 0 Intellect). [Black Flames: Inflict Damage every turn with a Chance to reduce SPD]",
 
 
 		skill2name: "I Will Leave Everything to You",
@@ -1410,7 +1410,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Normal",
 		skill2cost: "80",
-		skill2: "Own ATK and DEF +100%, grant a Medium Chance to Dodge Skills and \"Resolution\" state. [Resolution: ATK, DEF and SPD +50%.  Recover 10% HP and Chakra when attacked]",
+		skill2: "Own ATK and DEF +100%, grant a Medium Chance to Dodge Skills and 'Resolution' state. [Resolution: ATK, DEF and SPD +50%.  Recover 10% HP and Chakra when attacked]",
 
 		ability1name: "Sever Emotions",
 		ability1: "ATK and Skill Damage +50% when HP is above 70%",
@@ -1428,7 +1428,7 @@ window.detail = {
 		skill1type: "Tailed Beast",
 		skill1speed: "Fast",
 		skill1cost: "80",
-		skill1: "Deal 3% + 50,000 to all enemies with a Chance to Crit dealing 1.5x damange.  Deal 2x more damage when one of the enemy is \"Sasuke Uchiha.\" (Max 3x)",
+		skill1: "Deal 3% + 50,000 to all enemies with a Chance to Crit dealing 1.5x damange.  Deal 2x more damage when one of the enemy is 'Sasuke Uchiha.' (Max 3x)",
 
 
 		skill2name: "Share of Relief",
@@ -1436,7 +1436,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "70",
-		skill2: "Own ATK and DEF +120%, grant a High Chance to Dodge Skills and \"Resolution\" state. [Resolution: ATK, DEF and SPD +100%.  Recover 20% HP and Chakra when attacked]",
+		skill2: "Own ATK and DEF +120%, grant a High Chance to Dodge Skills and 'Resolution' state. [Resolution: ATK, DEF and SPD +100%.  Recover 20% HP and Chakra when attacked]",
 
 		ability1name: "Sever Emotions",
 		ability1: "ATK and Skill Damage +100%",
@@ -1454,7 +1454,7 @@ window.detail = {
 		skill1type: "Rinne Sharingan",
 		skill1speed: "Fast",
 		skill1cost: "100",
-		skill1: "Deal 3% + 7,000 to all enemies, with a Chance to raise Cast Speed by 1. Deal 3x while under \"Solitude\" state",
+		skill1: "Deal 3% + 7,000 to all enemies, with a Chance to raise Cast Speed by 1. Deal 3x while under 'Solitude' state",
 
 
 		skill2name: "I Will Cut Off the Past",
@@ -1462,7 +1462,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Normal",
 		skill2cost: "80",
-		skill2: "Own ATK, DEF and SPD +100% and grant \"Solitude\" state. Reduce all allies HP by 50% and remove all buff and Debuff. [Solitude: Skill Damage +150%, Status Effects -50%]",
+		skill2: "Own ATK, DEF and SPD +100% and grant 'Solitude' state. Reduce all allies HP by 50% and remove all buff and Debuff. [Solitude: Skill Damage +150%, Status Effects -50%]",
 
 		ability1name: "Power that Comes from Solitude",
 		ability1: "ATK, SPD and Skill Damage +100% when HP is above 70%",
@@ -1480,7 +1480,7 @@ window.detail = {
 		skill1type: "Rinne Sharingan",
 		skill1speed: "Fast",
 		skill1cost: "80",
-		skill1: "Deal 3% + 10,000 to all enemies, with a High Chance to raise Cast Speed +1. Deal 3x while under \"Solitude\" state.  Deal 1.5x more damage to Characters from the Five Village (Max 4.5x)",
+		skill1: "Deal 3% + 10,000 to all enemies, with a High Chance to raise Cast Speed +1. Deal 3x while under 'Solitude' state.  Deal 1.5x more damage to Characters from the Five Village (Max 4.5x)",
 
 
 		skill2name: "I Will Cut Off the Past",
@@ -1488,7 +1488,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "70",
-		skill2: "Own ATK, DEF and SPD +120% and grant \"Solitude\" state. Reduce all allies HP by 50% and remove all buff and Debuff. [Solitude: Skill Damage +200%, Immune to Status Effects]",
+		skill2: "Own ATK, DEF and SPD +120% and grant 'Solitude' state. Reduce all allies HP by 50% and remove all buff and Debuff. [Solitude: Skill Damage +200%, Immune to Status Effects]",
 
 		ability1name: "Power that Comes from Solitude",
 		ability1: "ATK, SPD and Skill Damage +200%",
@@ -1506,7 +1506,7 @@ window.detail = {
 		skill1type: "Sage",
 		skill1speed: "Fast",
 		skill1cost: "90",
-		skill1: "Deal 7% + 1,500 to one enemy.  Deal 5x more damage while under \"Sage Mode\" state. Chance to Cancel \"Sage Mode\"",
+		skill1: "Deal 7% + 1,500 to one enemy.  Deal 5x more damage while under 'Sage Mode' state. Chance to Cancel 'Sage Mode'",
 
 
 		skill2name: "I Can Only Fight",
@@ -1514,7 +1514,7 @@ window.detail = {
 		skill2type: "Sage",
 		skill2speed: "Fastest",
 		skill2cost: "80",
-		skill2: "Own ATK and Skill Damage +100%, grant a High Chance to Dodge Skills and \"Sage Mode\" state. [Sage Mode: Basic Attack Always Crit, Increase Damage and Chakra Recovery +25%]",
+		skill2: "Own ATK and Skill Damage +100%, grant a High Chance to Dodge Skills and 'Sage Mode' state. [Sage Mode: Basic Attack Always Crit, Increase Damage and Chakra Recovery +25%]",
 
 		ability1name: "Faith that Comes from Bond",
 		ability1: "ATK and Skill Damage +80% when Chakra is Max",
@@ -1532,7 +1532,7 @@ window.detail = {
 		skill1type: "Sage",
 		skill1speed: "Fastest",
 		skill1cost: "80",
-		skill1: "Deal 7% + 5,000 to one enemy.  Deal 6x more damage while under \"Sage Mode\" state. Chance to Cancel \"Sage Mode\"",
+		skill1: "Deal 7% + 5,000 to one enemy.  Deal 6x more damage while under 'Sage Mode' state. Chance to Cancel 'Sage Mode'",
 
 
 		skill2name: "I Can Only Fight",
@@ -1540,7 +1540,7 @@ window.detail = {
 		skill2type: "Sage",
 		skill2speed: "Fastest",
 		skill2cost: "60",
-		skill2: "Own ATK and Skill Damage +150%, grant a High Chance to Dodge Skills and \"Sage Mode\" state. [Sage Mode: Basic Attack Always Crit, Increase Damage and Chakra Recovery +30%]",
+		skill2: "Own ATK and Skill Damage +150%, grant a High Chance to Dodge Skills and 'Sage Mode' state. [Sage Mode: Basic Attack Always Crit, Increase Damage and Chakra Recovery +30%]",
 
 		ability1name: "Faith Called Bond",
 		ability1: "Maximum Chakra +100%, ATK and Skill Damage +120%",
@@ -1566,7 +1566,7 @@ window.detail = {
 		skill2type: "Sage",
 		skill2speed: "Fastest",
 		skill2cost: "70",
-		skill2: "Own ATK and Skill Damage +100%, and grant \"Sage Mode\" state. [Sage Mode: Basic Attack Always Crit, Increase Damage and Chakra Recovery +15%]",
+		skill2: "Own ATK and Skill Damage +100%, and grant 'Sage Mode' state. [Sage Mode: Basic Attack Always Crit, Increase Damage and Chakra Recovery +15%]",
 
 		ability1name: "Sage Mode",
 		ability1: "Maximum HP +50%, HP Regen and Chakra Recovery +10%",
@@ -1592,7 +1592,7 @@ window.detail = {
 		skill2type: "Sage",
 		skill2speed: "Fastest",
 		skill2cost: "70",
-		skill2: "Own ATK and Skill Damage +120%, and grant \"Sage Mode\" state. [Sage Mode: Basic Attack Always Crit, Increase Damage and Chakra Recovery +25%]",
+		skill2: "Own ATK and Skill Damage +120%, and grant 'Sage Mode' state. [Sage Mode: Basic Attack Always Crit, Increase Damage and Chakra Recovery +25%]",
 
 		ability1name: "Sage Mode",
 		ability1: "Maximum HP +100%, HP Regen and Chakra Recovery +15%",
@@ -1610,7 +1610,7 @@ window.detail = {
 		skill1type: "Unique",
 		skill1speed: "Slow",
 		skill1cost: "0",
-		skill1: "Deal 7% + 100 to one enemy and consume all chakra.  Damage increase the more chakra is consumed, (Max 6x with 100+ Chakra). Cancel \"Paper Human\" state",
+		skill1: "Deal 7% + 100 to one enemy and consume all chakra.  Damage increase the more chakra is consumed, (Max 6x with 100+ Chakra). Cancel 'Paper Human' state",
 
 
 		skill2name: "I am Prepared to Kill You",
@@ -1618,7 +1618,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "50",
-		skill2: "Own SPD +100%, Cast Speed +2, grant a High Chance to Dodge Skills and \"Paper Human\" state. [Paper Human: Skill Damage +200%]",
+		skill2: "Own SPD +100%, Cast Speed +2, grant a High Chance to Dodge Skills and 'Paper Human' state. [Paper Human: Skill Damage +200%]",
 
 		ability1name: "Pillar of Peace",
 		ability1: "ATK, DEF and SPD +20% per Akatsuki ally",
@@ -1636,7 +1636,7 @@ window.detail = {
 		skill1type: "Unique",
 		skill1speed: "Normal",
 		skill1cost: "0",
-		skill1: "Deal 7% + 100 to one enemy and consume all chakra.  Damage increase the more chakra is consumed, (Max 8x with 100+ Chakra). Cancel \"Paper Human\" state",
+		skill1: "Deal 7% + 100 to one enemy and consume all chakra.  Damage increase the more chakra is consumed, (Max 8x with 100+ Chakra). Cancel 'Paper Human' state",
 
 
 		skill2name: "I am Prepared to Kill You",
@@ -1644,7 +1644,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "40",
-		skill2: "Own SPD +150%, Cast Speed +2, grant a High Chance to Dodge Skills and \"Paper Human\" state. [Paper Human: Skill Damage +300%]",
+		skill2: "Own SPD +150%, Cast Speed +2, grant a High Chance to Dodge Skills and 'Paper Human' state. [Paper Human: Skill Damage +300%]",
 
 		ability1name: "Pillar of Peace",
 		ability1: "ATK, DEF and SPD +40% per Akatsuki ally",
@@ -1662,7 +1662,7 @@ window.detail = {
 		skill1type: "Sage",
 		skill1speed: "Normal",
 		skill1cost: "90",
-		skill1: "Deal 3% + 3,000 to all enemies with a High Chance to Burn. Deal 4x more damage while under \"Sage Mode\" state.",
+		skill1: "Deal 3% + 3,000 to all enemies with a High Chance to Burn. Deal 4x more damage while under 'Sage Mode' state.",
 
 
 		skill2name: "Now Then, Here I Go",
@@ -1670,7 +1670,7 @@ window.detail = {
 		skill2type: "Sage",
 		skill2speed: "Fastest",
 		skill2cost: "50",
-		skill2: "Own SPD and Skill Damage +100%, grant a High Chance to Dodge Skills and \"Sage Mode\" state. [Sage Mode: Basic Attack Always Crit, Increase Damage and Chakra Recovery +15%]",
+		skill2: "Own SPD and Skill Damage +100%, grant a High Chance to Dodge Skills and 'Sage Mode' state. [Sage Mode: Basic Attack Always Crit, Increase Damage and Chakra Recovery +15%]",
 
 		ability1name: "Multitude Legend",
 		ability1: "Maximum HP +50%. ATK and Skill Damage +80% when HP is above 60%",
@@ -1688,7 +1688,7 @@ window.detail = {
 		skill1type: "Sage",
 		skill1speed: "Normal",
 		skill1cost: "90",
-		skill1: "Deal 3% + 5,000 to all enemies with a High Chance to Burn. Deal 5x more damage while under \"Sage Mode\" state.",
+		skill1: "Deal 3% + 5,000 to all enemies with a High Chance to Burn. Deal 5x more damage while under 'Sage Mode' state.",
 
 
 		skill2name: "Now Then, Here I Go",
@@ -1696,7 +1696,7 @@ window.detail = {
 		skill2type: "Sage",
 		skill2speed: "Fastest",
 		skill2cost: "50",
-		skill2: "Own SPD and Skill Damage +150%, grant a High Chance to Dodge Skills and \"Sage Mode\" state. [Sage Mode: Basic Attack Always Crit, Increase Damage and Chakra Recovery +15%]",
+		skill2: "Own SPD and Skill Damage +150%, grant a High Chance to Dodge Skills and 'Sage Mode' state. [Sage Mode: Basic Attack Always Crit, Increase Damage and Chakra Recovery +15%]",
 
 		ability1name: "Multitude Legend",
 		ability1: "Maximum HP +100%. ATK and Skill Damage +120% when HP is above 50%",
@@ -1714,7 +1714,7 @@ window.detail = {
 		skill1type: "Secret",
 		skill1speed: "Normal",
 		skill1cost: "100",
-		skill1: "Deal 5% + 100 to all enemies with a Chance to inflict \"C4\" state. Own SPD +80%. [C4: SPD -30%]",
+		skill1: "Deal 5% + 100 to all enemies with a Chance to inflict 'C4' state. Own SPD +80%. [C4: SPD -30%]",
 
 
 		skill2name: "Katsu!!",
@@ -1722,7 +1722,7 @@ window.detail = {
 		skill2type: "Secret",
 		skill2speed: "Fast",
 		skill2cost: "10",
-		skill2: "Deal 1,000 Fixed Damage to all enemies.  Deal 25x more damage to enemies under \"C4\" state.",
+		skill2: "Deal 1,000 Fixed Damage to all enemies.  Deal 25x more damage to enemies under 'C4' state.",
 
 		ability1name: "Molding of Explosive Clay",
 		ability1: "For 10 turns, Skill Damage +80%",
@@ -1740,7 +1740,7 @@ window.detail = {
 		skill1type: "Secret",
 		skill1speed: "Fast",
 		skill1cost: "90",
-		skill1: "Deal 5% + 100 to all enemies with a High Chance to inflict \"C4\" state. Own SPD +100%. [C4: SPD -30%]",
+		skill1: "Deal 5% + 100 to all enemies with a High Chance to inflict 'C4' state. Own SPD +100%. [C4: SPD -30%]",
 
 
 		skill2name: "Katsu!!",
@@ -1748,7 +1748,7 @@ window.detail = {
 		skill2type: "Secret",
 		skill2speed: "Fastest",
 		skill2cost: "10",
-		skill2: "Deal 1,000 Fixed Damage to all enemies.  Deal 50x more damage to enemies under \"C4\" state.",
+		skill2: "Deal 1,000 Fixed Damage to all enemies.  Deal 50x more damage to enemies under 'C4' state.",
 
 		ability1name: "Molding of Explosive Clay",
 		ability1: "Skill Damage +120%",
@@ -1766,7 +1766,7 @@ window.detail = {
 		skill1type: "Lightning",
 		skill1speed: "Normal",
 		skill1cost: "80",
-		skill1: "Deal 7% + 5,000 to one enemy and his Surroundings, grant \"Deficit\" state and Cancel \"Hatred\" state. [Deficit: Chakra Recovery becomes 0]",
+		skill1: "Deal 7% + 5,000 to one enemy and his Surroundings, grant 'Deficit' state and Cancel 'Hatred' state. [Deficit: Chakra Recovery becomes 0]",
 
 
 		skill2name: "Know My Hatred",
@@ -1774,7 +1774,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "80",
-		skill2: "Own ATK and SPD +70% and grant \"Hatred\" state. [Hatred: -20% HP overtime.  ATK and Skill Damage +250 per turn.  Max 1000%]",
+		skill2: "Own ATK and SPD +70% and grant 'Hatred' state. [Hatred: -20% HP overtime.  ATK and Skill Damage +250 per turn.  Max 1000%]",
 
 		ability1name: "Godsends Gift",
 		ability1: "ATK and Skill Damage +70% after 3 turns",
@@ -1792,7 +1792,7 @@ window.detail = {
 		skill1type: "Lightning",
 		skill1speed: "Fast",
 		skill1cost: "75",
-		skill1: "Deal 7% + 7,000 to one enemy and his Surroundings, with a Small Chance to grant \"Deficit\" state. [Deficit: Chakra Recovery becomes 0]",
+		skill1: "Deal 7% + 7,000 to one enemy and his Surroundings, with a Small Chance to grant 'Deficit' state. [Deficit: Chakra Recovery becomes 0]",
 
 
 		skill2name: "Know My Hatred",
@@ -1800,7 +1800,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "50",
-		skill2: "Own ATK and SPD +200% and grant \"Hatred\" state. [Hatred: -30% HP Overtime.  ATK and Skill Damage +500 per turn.  Max 2000%]",
+		skill2: "Own ATK and SPD +200% and grant 'Hatred' state. [Hatred: -30% HP Overtime.  ATK and Skill Damage +500 per turn.  Max 2000%]",
 
 		ability1name: "Godsends Gift",
 		ability1: "ATK and Skill Damage +150% after 3 turns",
@@ -1818,7 +1818,7 @@ window.detail = {
 		skill1type: "Taijutsu",
 		skill1speed: "Normal",
 		skill1cost: "80",
-		skill1: "Deal 7% + 3,000 to one enemy and grant \"Concentration\" state. Deal 8x more damage to enemies under \"Anger\" state. [Concentration: Chakra Cost is reduced every turn. Max 50%]",
+		skill1: "Deal 7% + 3,000 to one enemy and grant 'Concentration' state. Deal 8x more damage to enemies under 'Anger' state. [Concentration: Chakra Cost is reduced every turn. Max 50%]",
 
 
 		skill2name: "I Will Crush You",
@@ -1826,7 +1826,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Normal",
 		skill2cost: "60",
-		skill2: "Recover own HP by a large amount, Recover leader's HP to full, and place all enemy under \"Anger\" state. [Anger: Cast Speed -1, ATK +50%]",
+		skill2: "Recover own HP by a large amount, Recover leader's HP to full, and place all enemy under 'Anger' state. [Anger: Cast Speed -1, ATK +50%]",
 
 		ability1name: "Resolution Pledge by Tears",
 		ability1: "Cast Speed +1 when HP is above 80%",
@@ -1844,7 +1844,7 @@ window.detail = {
 		skill1type: "Taijutsu",
 		skill1speed: "Fast",
 		skill1cost: "70",
-		skill1: "Deal 7% + 5,000 to one enemy and grant \"Concentration\" state. Deal 9x more damage to enemies under \"Anger\" state. [Concentration: Chakra Cost is reduced every turn. Max 60%]",
+		skill1: "Deal 7% + 5,000 to one enemy and grant 'Concentration' state. Deal 9x more damage to enemies under 'Anger' state. [Concentration: Chakra Cost is reduced every turn. Max 60%]",
 
 
 		skill2name: "I Will Crush You",
@@ -1852,7 +1852,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "40",
-		skill2: "Recover own HP by a large amount, Recover leader's HP to full, and place all enemy under \"Anger\" state. [Anger: Cast Speed -1, ATK +40%]",
+		skill2: "Recover own HP by a large amount, Recover leader's HP to full, and place all enemy under 'Anger' state. [Anger: Cast Speed -1, ATK +40%]",
 
 		ability1name: "Resolution Pledge by Tears",
 		ability1: "Cast Speed +1, SPD +50%",
@@ -1870,7 +1870,7 @@ window.detail = {
 		skill1type: "Tailed Beast",
 		skill1speed: "Normal",
 		skill1cost: "90",
-		skill1: "Deal 5% + 1,500 to all enemies. Deal 3x more damage if one of the enemy is a Konoha Character.  Deal 2x more damage if one of the enemy is \"Hashirama Senju\" (Max 6x)",
+		skill1: "Deal 5% + 1,500 to all enemies. Deal 3x more damage if one of the enemy is a Konoha Character.  Deal 2x more damage if one of the enemy is 'Hashirama Senju' (Max 6x)",
 
 
 		skill2name: "I Have Arrived",
@@ -1878,7 +1878,7 @@ window.detail = {
 		skill2type: "Sharingan",
 		skill2speed: "Fast",
 		skill2cost: "70",
-		skill2: "Own ATK, DEF and SPD +100% and grant \"Selfish\" state. [Selfish: All incoming Skill damage are halved.  Skill Damage increase the less Konoha character in the team. Max 120%]",
+		skill2: "Own ATK, DEF and SPD +100% and grant 'Selfish' state. [Selfish: All incoming Skill damage are halved.  Skill Damage increase the less Konoha character in the team. Max 120%]",
 
 		ability1name: "Aloof Eye Powers",
 		ability1: "Maximum Chakra +100, Cast Speed +1 when HP is above 80%",
@@ -1896,7 +1896,7 @@ window.detail = {
 		skill1type: "Tailed Beast",
 		skill1speed: "Fast",
 		skill1cost: "90",
-		skill1: "Deal 5% + 5,000 to all enemies. Deal 5x more damage if one of the enemy is a Konoha Character.  Deal 10x more damage if one of the enemy is \"Hashirama Senju\" (Max 50x)",
+		skill1: "Deal 5% + 5,000 to all enemies. Deal 5x more damage if one of the enemy is a Konoha Character.  Deal 10x more damage if one of the enemy is 'Hashirama Senju' (Max 50x)",
 
 
 		skill2name: "I Have Arrived",
@@ -1904,7 +1904,7 @@ window.detail = {
 		skill2type: "Sharingan",
 		skill2speed: "Fastest",
 		skill2cost: "60",
-		skill2: "Own ATK, DEF and SPD +120% and grant \"Selfish\" state. [Selfish: All incoming Skill damage are halved.  Skill Damage increase the less Konoha character in the team. Max 300%]",
+		skill2: "Own ATK, DEF and SPD +120% and grant 'Selfish' state. [Selfish: All incoming Skill damage are halved.  Skill Damage increase the less Konoha character in the team. Max 300%]",
 
 		ability1name: "Aloof Eye Powers",
 		ability1: "Maximum Chakra +150, Cast Speed +1 when HP is above 50%",
@@ -1922,7 +1922,7 @@ window.detail = {
 		skill1type: "Byakugan",
 		skill1speed: "Fast",
 		skill1cost: "90",
-		skill1: "Deal 7% + 2,000 to one enemy. Deal 4x more damage while under \"Twin Lion Fist.\" Deal 2x more damage to enemies with Cast Speed lower. (Max 8x).  Chance to Cancel \"Twin Lion Fist\" state",
+		skill1: "Deal 7% + 2,000 to one enemy. Deal 4x more damage while under 'Twin Lion Fist.' Deal 2x more damage to enemies with Cast Speed lower. (Max 8x).  Chance to Cancel 'Twin Lion Fist' state",
 
 
 		skill2name: "I'll Proceed Like This",
@@ -1930,7 +1930,7 @@ window.detail = {
 		skill2type: "Byakugan",
 		skill2speed: "Fast",
 		skill2cost: "70",
-		skill2: "Own ATK and SPD +80% and grant \"Twin Lion Fist\" state. [Twin Lion Fist: Basic Attack are always type advantage and Crit with a Chance to lower Cast Speed by 1]",
+		skill2: "Own ATK and SPD +80% and grant 'Twin Lion Fist' state. [Twin Lion Fist: Basic Attack are always type advantage and Crit with a Chance to lower Cast Speed by 1]",
 
 		ability1name: "Battlefield Resolution",
 		ability1: "Maximum HP and Byakugan Skill Damage +80%",
@@ -1948,7 +1948,7 @@ window.detail = {
 		skill1type: "Byakugan",
 		skill1speed: "Fastest",
 		skill1cost: "80",
-		skill1: "Deal 7% + 5,000 to one enemy. Deal 8x more damage while under \"Twin Lion Fist.\" Deal 2x more damage to enemies with Cast Speed lower. (Max 16x).  Chance to Cancel \"Twin Lion Fist\" state",
+		skill1: "Deal 7% + 5,000 to one enemy. Deal 8x more damage while under 'Twin Lion Fist.' Deal 2x more damage to enemies with Cast Speed lower. (Max 16x).  Chance to Cancel 'Twin Lion Fist' state",
 
 
 		skill2name: "I'll Proceed Like This",
@@ -1956,7 +1956,7 @@ window.detail = {
 		skill2type: "Byakugan",
 		skill2speed: "Fastest",
 		skill2cost: "30",
-		skill2: "Own ATK and SPD +150% and grant \"Twin Lion Fist\" state. [Twin Lion Fist: Basic Attack are always type advantage and Crit with a Chance to lower Cast Speed by 1]",
+		skill2: "Own ATK and SPD +150% and grant 'Twin Lion Fist' state. [Twin Lion Fist: Basic Attack are always type advantage and Crit with a Chance to lower Cast Speed by 1]",
 
 		ability1name: "Battlefield Resolution",
 		ability1: "Maximum HP and Byakugan Skill Damage +150%",
@@ -1974,7 +1974,7 @@ window.detail = {
 		skill1type: "Sharingan",
 		skill1speed: "Fast",
 		skill1cost: "70",
-		skill1: "Deal 30,000 Fixed Damage to one enemy, with a Chance to Crit dealing 4x more damage and a Chance to place them in \"Cut\" state. [Cut: Skill Damage -1, Skill Damage -30%] ",
+		skill1: "Deal 30,000 Fixed Damage to one enemy, with a Chance to Crit dealing 4x more damage and a Chance to place them in 'Cut' state. [Cut: Skill Damage -1, Skill Damage -30%] ",
 
 
 		skill2name: "We Will Save the World",
@@ -1982,7 +1982,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "70",
-		skill2: "All allies ATK +50% and grant \"Rally\" state. [Rally: ATK, DEF and SPD +30%, Recover 5% HP and Chakra after every action]",
+		skill2: "All allies ATK +50% and grant 'Rally' state. [Rally: ATK, DEF and SPD +30%, Recover 5% HP and Chakra after every action]",
 
 		ability1name: "Obito's Entrusted Power",
 		ability1: "Sharingan Skill Damage +100%.  Chance to Dodge Skills",
@@ -2000,7 +2000,7 @@ window.detail = {
 		skill1type: "Sharingan",
 		skill1speed: "Fast",
 		skill1cost: "80",
-		skill1: "Deal 40,000 Fixed Damage to one enemy, with a High Chance to place them in \"Cut\" state.  Deal more damage the more Konoha ally, Max 6x.  Deal 2x more damage to enemies under \"Cut\" state. [Cut: Skill Damage -1, Skill Damage -30%] ",
+		skill1: "Deal 40,000 Fixed Damage to one enemy, with a High Chance to place them in 'Cut' state.  Deal more damage the more Konoha ally, Max 6x.  Deal 2x more damage to enemies under 'Cut' state. [Cut: Skill Damage -1, Skill Damage -30%] ",
 
 
 		skill2name: "We Will Save the World",
@@ -2008,7 +2008,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "40",
-		skill2: "All allies ATK +100% and grant \"Rally\" state. [Rally: ATK, DEF and SPD +50%, Recover 10% HP and Chakra after every action]",
+		skill2: "All allies ATK +100% and grant 'Rally' state. [Rally: ATK, DEF and SPD +50%, Recover 10% HP and Chakra after every action]",
 
 		ability1name: "Obito's Entrusted Power",
 		ability1: "Sharingan Skill Damage +200%.  High Chance to Dodge Skills",
@@ -2034,7 +2034,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "80",
-		skill2: "Own ATK and SPD +80%, and grant \"Open\" state to ally \"Rock Lee\" and \"Might Gai\" [Open: ATK +200%, Chance to Dodge Skills]",
+		skill2: "Own ATK and SPD +80%, and grant 'Open' state to ally 'Rock Lee' and 'Might Gai' [Open: ATK +200%, Chance to Dodge Skills]",
 
 		ability1name: "Study of Youth",
 		ability1: "ATK and Taijutsu Skill Damage +80%",
@@ -2060,7 +2060,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "50",
-		skill2: "Own ATK and SPD +120%, and grant \"Open\" state to ally \"Rock Lee\" and \"Might Gai\" [Open: ATK +200%, Chance to Dodge Skills]",
+		skill2: "Own ATK and SPD +120%, and grant 'Open' state to ally 'Rock Lee' and 'Might Gai' [Open: ATK +200%, Chance to Dodge Skills]",
 
 		ability1name: "Study of Youth",
 		ability1: "ATK and Taijutsu Skill Damage +120%",
@@ -2078,7 +2078,7 @@ window.detail = {
 		skill1type: "Byakugan",
 		skill1speed: "Fastest",
 		skill1cost: "100",
-		skill1: "Deal 7% + 2,000 to one enemy with a Chance to Cancel action and place the enemy under \"Deficit\" state. [Deficit: Chakra Recovery becomes 0] (Note: \"Deficit\" state is only active in PvP)",
+		skill1: "Deal 7% + 2,000 to one enemy with a Chance to Cancel action and place the enemy under 'Deficit' state. [Deficit: Chakra Recovery becomes 0] (Note: 'Deficit' state is only active in PvP)",
 
 
 		skill2name: "I Will... Accuratly Strike the Chakra Points",
@@ -2104,7 +2104,7 @@ window.detail = {
 		skill1type: "Byakugan",
 		skill1speed: "Fastest",
 		skill1cost: "100",
-		skill1: "Deal 7% + 2,000 to one enemy with a Chance to Cancel action and place the enemy under \"Deficit\" state. [Deficit: Chakra Recovery becomes 0] (Note: \"Deficit\" state is only active in PvP)",
+		skill1: "Deal 7% + 2,000 to one enemy with a Chance to Cancel action and place the enemy under 'Deficit' state. [Deficit: Chakra Recovery becomes 0] (Note: 'Deficit' state is only active in PvP)",
 
 
 		skill2name: "I Will... Accuratly Strike the Chakra Points",
@@ -2138,7 +2138,7 @@ window.detail = {
 		skill2type: "Space-Time",
 		skill2speed: "Fast",
 		skill2cost: "80",
-		skill2: "Own ATK and Skill Damage +80% and grant \"Flash Mode\". [Flash Mode: SPD +80%, Cast Speed becomes Flash]",
+		skill2: "Own ATK and Skill Damage +80% and grant 'Flash Mode'. [Flash Mode: SPD +80%, Cast Speed becomes Flash]",
 
 		ability1name: "God Speed Charge",
 		ability1: "ATK +100%, for 6 turns, SPD +500%",
@@ -2164,7 +2164,7 @@ window.detail = {
 		skill2type: "Space-Time",
 		skill2speed: "Fastest",
 		skill2cost: "70",
-		skill2: "Own ATK and Skill Damage +120% and grant \"Flash Mode\". [Flash Mode: SPD +100%, Cast Speed becomes Flash]",
+		skill2: "Own ATK and Skill Damage +120% and grant 'Flash Mode'. [Flash Mode: SPD +100%, Cast Speed becomes Flash]",
 
 		ability1name: "God Speed Charge",
 		ability1: "ATK +100%, for 10 turns, SPD +500%",
@@ -2182,7 +2182,7 @@ window.detail = {
 		skill1type: "Sealing",
 		skill1speed: "Fast",
 		skill1cost: "75",
-		skill1: "Deal 7% + 6,000 to one enemy with a Chance to put the enemy in a \"Bind\" state. Deal 4x more damage with a Chance to Cancel action to enemy under \"Bind\". [Bind: Skill Damage -70%, SPD -30%]",
+		skill1: "Deal 7% + 6,000 to one enemy with a Chance to put the enemy in a 'Bind' state. Deal 4x more damage with a Chance to Cancel action to enemy under 'Bind'. [Bind: Skill Damage -70%, SPD -30%]",
 
 
 		skill2name: "I Will Finish It Here",
@@ -2190,7 +2190,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "70",
-		skill2: "Recover a large amount of HP and Chakra to all allies and grant \"Determined\" state. [Determined: ATK, DEF and SPD +50%, Recover 10% Chakra and HP when attacked]",
+		skill2: "Recover a large amount of HP and Chakra to all allies and grant 'Determined' state. [Determined: ATK, DEF and SPD +50%, Recover 10% Chakra and HP when attacked]",
 
 		ability1name: "Relentless Suffering",
 		ability1: "Maximum HP +70%, Maximum Chakra +50",
@@ -2208,7 +2208,7 @@ window.detail = {
 		skill1type: "Sealing",
 		skill1speed: "Fast",
 		skill1cost: "50",
-		skill1: "Deal 7% + 8,000 to one enemy with a High Chance to put the enemy in a \"Bind\" state. Deal 5x more damage with a Chance to Cancel action to enemy under \"Bind\". [Bind: Skill Damage -80%, SPD -30%]",
+		skill1: "Deal 7% + 8,000 to one enemy with a High Chance to put the enemy in a 'Bind' state. Deal 5x more damage with a Chance to Cancel action to enemy under 'Bind'. [Bind: Skill Damage -80%, SPD -30%]",
 
 
 		skill2name: "I Will Finish It Here",
@@ -2216,7 +2216,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "60",
-		skill2: "Recover a tremendous amount of HP and Chakra to all allies and grant \"Determined\" state. [Determined: ATK, DEF and SPD +80%, Recover 10% Chakra and HP when attacked]",
+		skill2: "Recover a tremendous amount of HP and Chakra to all allies and grant 'Determined' state. [Determined: ATK, DEF and SPD +80%, Recover 10% Chakra and HP when attacked]",
 
 		ability1name: "Relentless Suffering",
 		ability1: "Maximum HP +150%, Maximum Chakra +100",
@@ -2234,7 +2234,7 @@ window.detail = {
 		skill1type: "Sharingan",
 		skill1speed: "Normal",
 		skill1cost: "80",
-		skill1: "Deal 10,000 Fixed Damage to one enemy.  Deal more damage the more None character in the team, Maximum 5x.  Deal 5x more damage to \"Kakashi Hatake\" (Max 25x) [Always Hits]",
+		skill1: "Deal 10,000 Fixed Damage to one enemy.  Deal more damage the more None character in the team, Maximum 5x.  Deal 5x more damage to 'Kakashi Hatake' (Max 25x) [Always Hits]",
 
 
 		skill2name: "This World Will Disappear",
@@ -2242,7 +2242,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "60",
-		skill2: "Own SPD +100% and grant \"Hatred\" state. [Hatred: Reduce HP by 30% after every action.  ATK and Skill Damage +300 after every action.  Max 1200%]",
+		skill2: "Own SPD +100% and grant 'Hatred' state. [Hatred: Reduce HP by 30% after every action.  ATK and Skill Damage +300 after every action.  Max 1200%]",
 
 		ability1name: "World of Despair",
 		ability1: "Maximum HP and Skill Damage +70%, Recover 10% HP after every action",
@@ -2260,7 +2260,7 @@ window.detail = {
 		skill1type: "Sharingan",
 		skill1speed: "Fast",
 		skill1cost: "70",
-		skill1: "Deal 20,000 Fixed Damage to one enemy.  Deal more damage the more None character in the team, Maximum 6x.  Deal 6x more damage to \"Kakashi Hatake\" (Max 36x) [Always Hits]",
+		skill1: "Deal 20,000 Fixed Damage to one enemy.  Deal more damage the more None character in the team, Maximum 6x.  Deal 6x more damage to 'Kakashi Hatake' (Max 36x) [Always Hits]",
 
 
 		skill2name: "This World Will Disappear",
@@ -2268,7 +2268,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "50",
-		skill2: "Own SPD +150% and grant \"Hatred\" state. [Hatred: Reduce HP by 15% after every action.  ATK and Skill Damage +400 after every action.  Max 1600%]",
+		skill2: "Own SPD +150% and grant 'Hatred' state. [Hatred: Reduce HP by 15% after every action.  ATK and Skill Damage +400 after every action.  Max 1600%]",
 
 		ability1name: "World of Despair",
 		ability1: "Maximum HP +150%, Skill Damage +120%, Recover 10% HP after every action",
@@ -2299,7 +2299,7 @@ window.detail = {
 		ability1name: "Will to Reclaim the Country",
 		ability1: "Maximum HP +50%.  Cast Speed +1 when HP is above 80%",
 
-		ability2name: "\"Akatsuki's\" Leader",
+		ability2name: "'Akatsuki's' Leader",
 		ability2: "ATK, DEF and SPD +80%"
 	},
 
@@ -2325,7 +2325,7 @@ window.detail = {
 		ability1name: "Will to Reclaim the Country",
 		ability1: "Maximum HP +50%.  Cast Speed +1 when HP is above 80%",
 
-		ability2name: "\"Akatsuki's\" Leader",
+		ability2name: "'Akatsuki's' Leader",
 		ability2: "ATK, DEF and SPD +80%"
 	},
 
@@ -2338,7 +2338,7 @@ window.detail = {
 		skill1type: "Rinne Sharingan",
 		skill1speed: "Fastest",
 		skill1cost: "80",
-		skill1: "Deal 7% + 3,000 to one enemy and own SPD +1000%.  Deal 6x more damage while under \"Connected\" state",
+		skill1: "Deal 7% + 3,000 to one enemy and own SPD +1000%.  Deal 6x more damage while under 'Connected' state",
 
 
 		skill2name: "... I Will Discharge Everything",
@@ -2346,7 +2346,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "80",
-		skill2: "Own ATK +100% and grant \"Connected\" state. [Connected: Status Effects are halved, Skill Damage increase based on how many Konoha Character in the team. Maximum 200%]",
+		skill2: "Own ATK +100% and grant 'Connected' state. [Connected: Status Effects are halved, Skill Damage increase based on how many Konoha Character in the team. Maximum 200%]",
 
 		ability1name: "Peak of Hope",
 		ability1: "ATK, DEF and SPD +30% for every Konoha ally",
@@ -2364,7 +2364,7 @@ window.detail = {
 		skill1type: "Rinne Sharingan",
 		skill1speed: "Fastest",
 		skill1cost: "70",
-		skill1: "Deal 7% + 4,500 to one enemy and own SPD +1000%.  Deal 6x more damage while under \"Connected\" state. Deal 1.5x more damage if there's an ally \"Naruto Uzumaki (Hiden/Shinden)\", \"Sakura Haruno (Hiden/Shinden)\", and/or \"Kakashi Hatake (Hiden/Shinden).\" (Max 9x)",
+		skill1: "Deal 7% + 4,500 to one enemy and own SPD +1000%.  Deal 6x more damage while under 'Connected' state. Deal 1.5x more damage if there's an ally 'Naruto Uzumaki (Hiden/Shinden)', 'Sakura Haruno (Hiden/Shinden)', and/or 'Kakashi Hatake (Hiden/Shinden).' (Max 9x)",
 
 
 		skill2name: "... I Will Discharge Everything",
@@ -2372,7 +2372,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "70",
-		skill2: "Own ATK +150% and grant \"Connected\" state. [Connected: Status Effects are halved, Skill Damage increase based on how many Konoha Character in the team. Maximum 250%]",
+		skill2: "Own ATK +150% and grant 'Connected' state. [Connected: Status Effects are halved, Skill Damage increase based on how many Konoha Character in the team. Maximum 250%]",
 
 		ability1name: "Peak of Hope",
 		ability1: "ATK, DEF and SPD +40% for every Konoha ally",
@@ -2390,7 +2390,7 @@ window.detail = {
 		skill1type: "Weapon",
 		skill1speed: "Fastest",
 		skill1cost: "90",
-		skill1: "Deal 3% + 5,000 to all enemies. Deal 5x more damage if the enemies is weak to Fire, Water, Earth, Wind and/or Lightning.  Grant \"Deficit\" state after using this skill. [Deficit: Chakra Recovery becomes 0]",
+		skill1: "Deal 3% + 5,000 to all enemies. Deal 5x more damage if the enemies is weak to Fire, Water, Earth, Wind and/or Lightning.  Grant 'Deficit' state after using this skill. [Deficit: Chakra Recovery becomes 0]",
 
 
 		skill2name: "Concentrate, Concentrate",
@@ -2398,7 +2398,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "10",
-		skill2: "Own Skill Damage +100% and remove \"Deficit\' state.  Grant \Concentration\" state to ally \"Might Gai\", \"Rock Lee\", \"Neji Hyuga\", and \"Tenten\". [Concentration: Chakra Cost is reduced every turn. Max 30%]",
+		skill2: "Own Skill Damage +100% and remove 'Deficit\' state.  Grant \Concentration' state to ally 'Might Gai', 'Rock Lee', 'Neji Hyuga', and 'Tenten'. [Concentration: Chakra Cost is reduced every turn. Max 30%]",
 
 		ability1name: "First-Class Ninja Tools",
 		ability1: "SPD +60%. Cast Speed +1 when HP is above 80%",
@@ -2424,7 +2424,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "10",
-		skill2: "Own Skill Damage +150% and remove \"Deficit\' state.  Grant \Concentration\" state to ally \"Might Gai\", \"Rock Lee\", \"Neji Hyuga\", and \"Tenten\". [Concentration: Chakra Cost is reduced every turn. Max 80%]",
+		skill2: "Own Skill Damage +150% and remove 'Deficit\' state.  Grant \Concentration' state to ally 'Might Gai', 'Rock Lee', 'Neji Hyuga', and 'Tenten'. [Concentration: Chakra Cost is reduced every turn. Max 80%]",
 
 		ability1name: "First-Class Ninja Tools",
 		ability1: "SPD +100%. Cast Speed +1 when HP is above 70%",
@@ -2502,7 +2502,7 @@ window.detail = {
 		skill2type: "None",
 		skill2speed: "Fast",
 		skill2cost: "30",
-		skill2: "Recover own HP by a medium amount, Chakra Cost is reduce by 50%, and grant \"Chakra Abosrption\" state. [Chakra Abosrption: Recover 30% Chakra when attacked]",
+		skill2: "Recover own HP by a medium amount, Chakra Cost is reduce by 50%, and grant 'Chakra Abosrption' state. [Chakra Abosrption: Recover 30% Chakra when attacked]",
 
 		ability1name: "Samehada Fusion",
 		ability1: "Maximum Chakra +50, Recover 10% Chakra after every action",
@@ -2528,7 +2528,7 @@ window.detail = {
 		skill2type: "None",
 		skill2speed: "Fast",
 		skill2cost: "30",
-		skill2: "Recover own HP by a medium amount, Chakra Cost is reduce by 50%, and grant \"Chakra Abosrption\" state. [Chakra Abosrption: Recover 30% Chakra when attacked]",
+		skill2: "Recover own HP by a medium amount, Chakra Cost is reduce by 50%, and grant 'Chakra Abosrption' state. [Chakra Abosrption: Recover 30% Chakra when attacked]",
 
 		ability1name: "Samehada Fusion",
 		ability1: "Maximum Chakra +50, Recover 10% Chakra after every action",
@@ -2546,7 +2546,7 @@ window.detail = {
 		skill1type: "Unique",
 		skill1speed: "Normal",
 		skill1cost: "90",
-		skill1: "Deal 5% of one enemy's maximum HP.  Deal 2x more damage if one of the ally is \"Kakuzu.\"  Deal 15x more damage to enemies under \"Blood\" state. (Max 30x, Maximum 500,000 damage). Reduce HP after using this skill. [Always Hits]" ,
+		skill1: "Deal 5% of one enemy's maximum HP.  Deal 2x more damage if one of the ally is 'Kakuzu.'  Deal 15x more damage to enemies under 'Blood' state. (Max 30x, Maximum 500,000 damage). Reduce HP after using this skill. [Always Hits]" ,
 
 
 		skill2name: "Feast of Slaughter",
@@ -2554,7 +2554,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "10",
-		skill2: "Deal 5x ATK damage to one enemy with a Chance to put them under \"Blood\" state. If the enemy is neutral to fire, they become weak to Fire.  [Blood: No Effect] ",
+		skill2: "Deal 5x ATK damage to one enemy with a Chance to put them under 'Blood' state. If the enemy is neutral to fire, they become weak to Fire.  [Blood: No Effect] ",
 
 		ability1name: "Zealot",
 		ability1: "Recover 5% HP after every action or when attacked",
@@ -2572,7 +2572,7 @@ window.detail = {
 		skill1type: "Unique",
 		skill1speed: "Fast",
 		skill1cost: "80",
-		skill1: "Deal 10% of one enemy's maximum HP.  Deal 2x more damage if one of the ally is \"Kakuzu.\"  Deal 30x more damage to enemies under \"Blood\" state. (Max 60x, Maximum 2,000,000 damage). Reduce HP after using this skill. [Always Hits]" ,
+		skill1: "Deal 10% of one enemy's maximum HP.  Deal 2x more damage if one of the ally is 'Kakuzu.'  Deal 30x more damage to enemies under 'Blood' state. (Max 60x, Maximum 2,000,000 damage). Reduce HP after using this skill. [Always Hits]" ,
 
 
 		skill2name: "Feast of Slaughter",
@@ -2580,7 +2580,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "10",
-		skill2: "Deal 5x ATK damage to one enemy with a High Chance to put them under \"Blood\" state. If the enemy is neutral to fire, they become weak to Fire.  [Blood: No Effect] ",
+		skill2: "Deal 5x ATK damage to one enemy with a High Chance to put them under 'Blood' state. If the enemy is neutral to fire, they become weak to Fire.  [Blood: No Effect] ",
 
 		ability1name: "Zealot",
 		ability1: "Recover 20% HP after every action or when attacked",
@@ -2598,7 +2598,7 @@ window.detail = {
 		skill1type: "Fire",
 		skill1speed: "Fast",
 		skill1cost: "70",
-		skill1: "Deal 3% + 1,500 to all enemies. Deal 1.5x more damage if one of the ally is \"Hidan.\" Deal 7x more damage if the enemy is weak to Fire. (Max 10.5x)" ,
+		skill1: "Deal 3% + 1,500 to all enemies. Deal 1.5x more damage if one of the ally is 'Hidan.' Deal 7x more damage if the enemy is weak to Fire. (Max 10.5x)" ,
 
 
 		skill2name: "I Will Take that Heart",
@@ -2606,7 +2606,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Normal",
 		skill2cost: "80",
-		skill2: "Recover own HP by a tremendous amount, Skill Damage +100%, and grant \"Resurrection\" state. [Resurrection: Reduce all incoming Skill Damage, when HP reach 0, revive and Cancel Resurrection state]",
+		skill2: "Recover own HP by a tremendous amount, Skill Damage +100%, and grant 'Resurrection' state. [Resurrection: Reduce all incoming Skill Damage, when HP reach 0, revive and Cancel Resurrection state]",
 
 		ability1name: "Stock of Life",
 		ability1: "Maximum HP +50%, Recover 5% HP after every action",
@@ -2624,7 +2624,7 @@ window.detail = {
 		skill1type: "Fire",
 		skill1speed: "Fastest",
 		skill1cost: "60",
-		skill1: "Deal 3% + 4,000 to all enemies. Deal 2x more damage if one of the ally is \"Hidan.\" Deal 15x more damage if the enemy is weak to Fire. (Max 30x)" ,
+		skill1: "Deal 3% + 4,000 to all enemies. Deal 2x more damage if one of the ally is 'Hidan.' Deal 15x more damage if the enemy is weak to Fire. (Max 30x)" ,
 
 
 		skill2name: "I Will Take that Heart",
@@ -2632,7 +2632,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "70",
-		skill2: "Recover own HP to full, Skill Damage +120%, and grant \"Resurrection\" state. [Resurrection: Reduce all incoming Skill Damage, when HP reach 0, revive and Cancel Resurrection state]",
+		skill2: "Recover own HP to full, Skill Damage +120%, and grant 'Resurrection' state. [Resurrection: Reduce all incoming Skill Damage, when HP reach 0, revive and Cancel Resurrection state]",
 
 		ability1name: "Stock of Life",
 		ability1: "Maximum HP +100%, Recover 10% HP after every action",
@@ -2650,7 +2650,7 @@ window.detail = {
 		skill1type: "Taijutsu",
 		skill1speed: "Fast",
 		skill1cost: "50",
-		skill1: "Deal 7% + 3,500 to one enemy, with a Chance to Cancel action, and grant \"Fist\" state.  Deal 10x more damage while under \"Fist\" state. [Fist: Basic Attack Always Crit and increase damage.  Recover 10% HP when attacked]" ,
+		skill1: "Deal 7% + 3,500 to one enemy, with a Chance to Cancel action, and grant 'Fist' state.  Deal 10x more damage while under 'Fist' state. [Fist: Basic Attack Always Crit and increase damage.  Recover 10% HP when attacked]" ,
 
 
 		skill2name: "I'll Examine",
@@ -2658,7 +2658,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Normal",
 		skill2cost: "90",
-		skill2: "All allies SPD +80% and reduce Chakra Cost by 70%.  Grant \"Resist\" state to Team 7 (Hiden/Shinden). [Resist: Immune and Remove all negative status, Debuff and Genjutsu]",
+		skill2: "All allies SPD +80% and reduce Chakra Cost by 70%.  Grant 'Resist' state to Team 7 (Hiden/Shinden). [Resist: Immune and Remove all negative status, Debuff and Genjutsu]",
 
 		ability1name: "Excelent Medical Ninjutsu",
 		ability1: "Low Chance to fully recover HP and Chakra when attacked",
@@ -2676,7 +2676,7 @@ window.detail = {
 		skill1type: "Taijutsu",
 		skill1speed: "Fastest",
 		skill1cost: "40",
-		skill1: "Deal 7% + 4,000 to one enemy, with a Chance to Cancel action, and grant \"Fist\" state.  Deal 12x more damage while under \"Fist\" state. [Fist: Basic Attack Always Crit and increase damage.  Recover 10% HP when attacked]" ,
+		skill1: "Deal 7% + 4,000 to one enemy, with a Chance to Cancel action, and grant 'Fist' state.  Deal 12x more damage while under 'Fist' state. [Fist: Basic Attack Always Crit and increase damage.  Recover 10% HP when attacked]" ,
 
 
 		skill2name: "I'll Examine",
@@ -2684,7 +2684,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Normal",
 		skill2cost: "80",
-		skill2: "All allies SPD +100% and reduce Chakra Cost by 70%.  Grant \"Resist\" state to Team 7 (Hiden/Shinden). [Resist: Immune and Remove all negative status, Debuff and Genjutsu]",
+		skill2: "All allies SPD +100% and reduce Chakra Cost by 70%.  Grant 'Resist' state to Team 7 (Hiden/Shinden). [Resist: Immune and Remove all negative status, Debuff and Genjutsu]",
 
 		ability1name: "Excelent Medical Ninjutsu",
 		ability1: "Chance to fully recover HP and Chakra when attacked",
@@ -2702,7 +2702,7 @@ window.detail = {
 		skill1type: "Tailed Beast",
 		skill1speed: "Fast",
 		skill1cost: "90",
-		skill1: "Deal 3% + 6,000 to all enemies, Deal more damage the less enemies. Minimum 2x against 5, Maximum 3x against 1.  Deal 2x more damage while under \"Connected\" state. (Max 6x)",
+		skill1: "Deal 3% + 6,000 to all enemies, Deal more damage the less enemies. Minimum 2x against 5, Maximum 3x against 1.  Deal 2x more damage while under 'Connected' state. (Max 6x)",
 
 
 		skill2name: "Please, Kurama!",
@@ -2710,7 +2710,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "100",
-		skill2: "Own ATK and SPD +80% and grant \"Connected\" state. [Connected: Status Effects are halved, Skill Damage increase based on how many Konoha Character in the team. Maximum 200%]",
+		skill2: "Own ATK and SPD +80% and grant 'Connected' state. [Connected: Status Effects are halved, Skill Damage increase based on how many Konoha Character in the team. Maximum 200%]",
 
 		ability1name: "Kurama",
 		ability1: "Maximum Chakra +100, Reduce all incoming Skill damage",
@@ -2728,7 +2728,7 @@ window.detail = {
 		skill1type: "Tailed Beast",
 		skill1speed: "Fast",
 		skill1cost: "80",
-		skill1: "Deal 3% + 6,000 to all enemies, Deal more damage the less enemies. Minimum 2x against 5, Maximum 3x against 1.  Deal 2x more damage while under \"Connected\" state. Deal 1.5x more damage if there's an ally \"Sasuke Uchiha (Hiden/Shinden)\", \"Sakura Haruno (Hiden/Shinden)\", and/or \"Kakashi Hatake (Hiden/Shinden).\" (Max 9x)",
+		skill1: "Deal 3% + 6,000 to all enemies, Deal more damage the less enemies. Minimum 2x against 5, Maximum 3x against 1.  Deal 2x more damage while under 'Connected' state. Deal 1.5x more damage if there's an ally 'Sasuke Uchiha (Hiden/Shinden)', 'Sakura Haruno (Hiden/Shinden)', and/or 'Kakashi Hatake (Hiden/Shinden).' (Max 9x)",
 
 
 		skill2name: "Please, Kurama!",
@@ -2736,7 +2736,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "90",
-		skill2: "Own ATK and SPD +100% and grant \"Connected\" state. [Connected: Status Effects are halved, Skill Damage increase based on how many Konoha Character in the team. Maximum 250%]",
+		skill2: "Own ATK and SPD +100% and grant 'Connected' state. [Connected: Status Effects are halved, Skill Damage increase based on how many Konoha Character in the team. Maximum 250%]",
 
 		ability1name: "Kurama",
 		ability1: "Maximum Chakra +130, Reduce all incoming Skill damage",
@@ -2910,7 +2910,7 @@ window.detail = {
 		skill1type: "Summoning",
 		skill1speed: "Fast",
 		skill1cost: "70",
-		skill1: "Recover a large amount of HP to all allies and grant \"Healing\" state. [Healing: Recover 20% HP when attacked]",
+		skill1: "Recover a large amount of HP to all allies and grant 'Healing' state. [Healing: Recover 20% HP when attacked]",
 
 
 		skill2name: "I'm Putting my Life on the Line Here",
@@ -2918,7 +2918,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "70",
-		skill2: "Own ATK and SPD +100% and grant \"Mitotic Regeneration\" and \"Fist\" states. [Mitotic Regeneration: Recover 100% HP when attacked, can't die. When the state expire, set Chakra to 0] [Fist: Basic Attack ALways Crit and increase damage.  Recover 10% HP when attacked.]",
+		skill2: "Own ATK and SPD +100% and grant 'Mitotic Regeneration' and 'Fist' states. [Mitotic Regeneration: Recover 100% HP when attacked, can't die. When the state expire, set Chakra to 0] [Fist: Basic Attack ALways Crit and increase damage.  Recover 10% HP when attacked.]",
 
 		ability1name: "Medical Knowledge",
 		ability1: "Maximum HP +100%, Recovery Skill Effect +60% ",
@@ -2936,7 +2936,7 @@ window.detail = {
 		skill1type: "Summoning",
 		skill1speed: "Fast",
 		skill1cost: "70",
-		skill1: "Recover a large amount of HP to all allies and grant \"Healing\" state. [Healing: Recover 20% HP when attacked]",
+		skill1: "Recover a large amount of HP to all allies and grant 'Healing' state. [Healing: Recover 20% HP when attacked]",
 
 
 		skill2name: "I'm Putting my Life on the Line Here",
@@ -2944,7 +2944,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "70",
-		skill2: "Own ATK and SPD +100% and grant \"Mitotic Regeneration\" and \"Fist\" states. [Mitotic Regeneration: Recover 100% HP when attacked, can't die. When the state expire, set Chakra to 0] [Fist: Basic Attack ALways Crit and increase damage.  Recover 10% HP when attacked.]",
+		skill2: "Own ATK and SPD +100% and grant 'Mitotic Regeneration' and 'Fist' states. [Mitotic Regeneration: Recover 100% HP when attacked, can't die. When the state expire, set Chakra to 0] [Fist: Basic Attack ALways Crit and increase damage.  Recover 10% HP when attacked.]",
 
 		ability1name: "Medical Knowledge",
 		ability1: "Maximum HP +100%, Recovery Skill Effect +60% ",
@@ -3014,7 +3014,7 @@ window.detail = {
 		skill1type: "Six Paths",
 		skill1speed: "Normal",
 		skill1cost: "0",
-		skill1: "Deal 3% + 100 to all enemies and consume all chakra. Damage increase based on how much Chakra is consumed (20x per 100).  Deal 1.5x more damage if one of the enemy is \"Sasuke Uchiha\". [Always Hits]",
+		skill1: "Deal 3% + 100 to all enemies and consume all chakra. Damage increase based on how much Chakra is consumed (20x per 100).  Deal 1.5x more damage if one of the enemy is 'Sasuke Uchiha'. [Always Hits]",
 
 
 		skill2name: "I Won't Leave You Alone",
@@ -3040,7 +3040,7 @@ window.detail = {
 		skill1type: "Six Paths",
 		skill1speed: "Fast",
 		skill1cost: "0",
-		skill1: "Deal 3% + 100 to all enemies and consume all chakra. Damage increase based on how much Chakra is consumed (20x per 100).  Deal 2x more damage if one of the enemy is \"Sasuke Uchiha\". [Always Hits]",
+		skill1: "Deal 3% + 100 to all enemies and consume all chakra. Damage increase based on how much Chakra is consumed (20x per 100).  Deal 2x more damage if one of the enemy is 'Sasuke Uchiha'. [Always Hits]",
 
 
 		skill2name: "I Won't Leave You Alone",
@@ -3066,7 +3066,7 @@ window.detail = {
 		skill1type: "Rinne Sharingan",
 		skill1speed: "Normal",
 		skill1cost: "0",
-		skill1: "Deal 3% + 100 to all enemies and consume all chakra. Damage increase based on how much Chakra is consumed (20x per 100).  Deal 1.5x more damage if one of the enemy is \"Naruto Uzumaki\". [Always Hits]",
+		skill1: "Deal 3% + 100 to all enemies and consume all chakra. Damage increase based on how much Chakra is consumed (20x per 100).  Deal 1.5x more damage if one of the enemy is 'Naruto Uzumaki'. [Always Hits]",
 
 
 		skill2name: "All that Hate",
@@ -3092,7 +3092,7 @@ window.detail = {
 		skill1type: "Rinne Sharingan",
 		skill1speed: "Fast",
 		skill1cost: "0",
-		skill1: "Deal 3% + 100 to all enemies and consume all chakra. Damage increase based on how much Chakra is consumed (20x per 100).  Deal 2x more damage if one of the enemy is \"Naruto Uzumaki\". [Always Hits]",
+		skill1: "Deal 3% + 100 to all enemies and consume all chakra. Damage increase based on how much Chakra is consumed (20x per 100).  Deal 2x more damage if one of the enemy is 'Naruto Uzumaki'. [Always Hits]",
 
 
 		skill2name: "All that Hate",
@@ -3118,7 +3118,7 @@ window.detail = {
 		skill1type: "Wind",
 		skill1speed: "Normal",
 		skill1cost: "80",
-		skill1: "Deal 3% + 2,000 to all enemies. Deal 2x more damage while under \"Gust\" state. Deal 1.5x more damage to enemies under \"Black Flames\". (Max 3x)",
+		skill1: "Deal 3% + 2,000 to all enemies. Deal 2x more damage while under 'Gust' state. Deal 1.5x more damage to enemies under 'Black Flames'. (Max 3x)",
 
 
 		skill2name: "Let Me Show You Our Strength",
@@ -3126,7 +3126,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Normal",
 		skill2cost: "70",
-		skill2: "Own ATK +70%. Cast Speed +1 and grant \"Gust\" state to all allies. [Gust: SPD and Skill Damage +30%]",
+		skill2: "Own ATK +70%. Cast Speed +1 and grant 'Gust' state to all allies. [Gust: SPD and Skill Damage +30%]",
 
 		ability1name: "Return of Team 7 (Wind)",
 		ability1: "Skill Damage +80%, Additional Skill Damage +50% when HP is above 80%",
@@ -3144,7 +3144,7 @@ window.detail = {
 		skill1type: "Wind",
 		skill1speed: "Normal",
 		skill1cost: "75",
-		skill1: "Deal 3% + 3,500 to all enemies. Deal 2.5x more damage while under \"Gust\" state. Deal 2x more damage to enemies under \"Black Flames\". (Max 5x)",
+		skill1: "Deal 3% + 3,500 to all enemies. Deal 2.5x more damage while under 'Gust' state. Deal 2x more damage to enemies under 'Black Flames'. (Max 5x)",
 
 
 		skill2name: "Let Me Show You Our Strength",
@@ -3152,7 +3152,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "65",
-		skill2: "Own ATK +120%. Cast Speed +2 and grant \"Gust\" state to all allies. [Gust: SPD and Skill Damage +50%]",
+		skill2: "Own ATK +120%. Cast Speed +2 and grant 'Gust' state to all allies. [Gust: SPD and Skill Damage +50%]",
 
 		ability1name: "Return of Team 7 (Wind)",
 		ability1: "Skill Damage +120%, Additional Skill Damage +70% when HP is above 80%",
@@ -3170,7 +3170,7 @@ window.detail = {
 		skill1type: "Inferno",
 		skill1speed: "Normal",
 		skill1cost: "90",
-		skill1: "Deal 3% + 2,000 to all enemies, with a Chance to place the enemies under \"Black Flames\" state.  Deal 2x more damage to enemies under \"Black Flames\".  Deal 1.5x more damage while under \"Gust\" state. (Max 3x) [Black Flames: Continues to lose HP, ATK and HP -20% after every action]",
+		skill1: "Deal 3% + 2,000 to all enemies, with a Chance to place the enemies under 'Black Flames' state.  Deal 2x more damage to enemies under 'Black Flames'.  Deal 1.5x more damage while under 'Gust' state. (Max 3x) [Black Flames: Continues to lose HP, ATK and HP -20% after every action]",
 
 
 		skill2name: "I Know Everything",
@@ -3196,7 +3196,7 @@ window.detail = {
 		skill1type: "Inferno",
 		skill1speed: "Fast",
 		skill1cost: "85",
-		skill1: "Deal 3% + 4,000 to all enemies, with a High Chance to place the enemies under \"Black Flames\" state.  Deal 2.5x more damage to enemies under \"Black Flames\".  Deal 2x more damage while under \"Gust\" state. (Max 5x) [Black Flames: Continues to lose HP, ATK and HP -20% after every action]",
+		skill1: "Deal 3% + 4,000 to all enemies, with a High Chance to place the enemies under 'Black Flames' state.  Deal 2.5x more damage to enemies under 'Black Flames'.  Deal 2x more damage while under 'Gust' state. (Max 5x) [Black Flames: Continues to lose HP, ATK and HP -20% after every action]",
 
 
 		skill2name: "I Know Everything",
@@ -3222,7 +3222,7 @@ window.detail = {
 		skill1type: "Taijutsu",
 		skill1speed: "Fast",
 		skill1cost: "100",
-		skill1: "Deal 3% + 2,000 to all enemies.  Deal 4x more damage while under \"Mitotic Regeneration.\" Recover 20% HP to all allies",
+		skill1: "Deal 3% + 2,000 to all enemies.  Deal 4x more damage while under 'Mitotic Regeneration.' Recover 20% HP to all allies",
 
 
 		skill2name: "I'm the Third Sannin Pupil",
@@ -3230,7 +3230,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Normal",
 		skill2cost: "70",
-		skill2: "Own ATK +70% and grant \"Mitotic Regeneration\" state. Grant \"Resist\" state to all allies [Mitotic Regeneration: Recover 100% HP when attacked, Can't die.  Once the state expire, set Chakra to 0] [Resist: Immune and Remove all negative status, Debuff and Genjutsu]",
+		skill2: "Own ATK +70% and grant 'Mitotic Regeneration' state. Grant 'Resist' state to all allies [Mitotic Regeneration: Recover 100% HP when attacked, Can't die.  Once the state expire, set Chakra to 0] [Resist: Immune and Remove all negative status, Debuff and Genjutsu]",
 
 		ability1name: "Return of Team 7 (Heal)",
 		ability1: "Skill Damage +80%, Additional Skill Damage +50% when HP is above 80%",
@@ -3248,7 +3248,7 @@ window.detail = {
 		skill1type: "Taijutsu",
 		skill1speed: "Fast",
 		skill1cost: "90",
-		skill1: "Deal 3% + 3,000 to all enemies.  Deal 5x more damage while under \"Mitotic Regeneration.\" Recover 20% HP to all allies",
+		skill1: "Deal 3% + 3,000 to all enemies.  Deal 5x more damage while under 'Mitotic Regeneration.' Recover 20% HP to all allies",
 
 
 		skill2name: "I'm the Third Sannin Pupil",
@@ -3256,7 +3256,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Normal",
 		skill2cost: "50",
-		skill2: "Own ATK +120% and grant \"Mitotic Regeneration\" state. Grant \"Resist\" state to all allies [Mitotic Regeneration: Recover 100% HP when attacked, Can't die.  Once the state expire, set Chakra to 0] [Resist: Immune and Remove all negative status, Debuff and Genjutsu]",
+		skill2: "Own ATK +120% and grant 'Mitotic Regeneration' state. Grant 'Resist' state to all allies [Mitotic Regeneration: Recover 100% HP when attacked, Can't die.  Once the state expire, set Chakra to 0] [Resist: Immune and Remove all negative status, Debuff and Genjutsu]",
 
 		ability1name: "Return of Team 7 (Heal)",
 		ability1: "Skill Damage +120%, Additional Skill Damage +70% when HP is above 80%",
@@ -3334,7 +3334,7 @@ window.detail = {
 		skill2type: "Sage",
 		skill2speed: "Fast",
 		skill2cost: "90",
-		skill2: "Recover a small amount of HP to all allies, recover a large Chakra and grant \"Resonance\" state to characters from the Five Village. [Resonance: Skill Damage +20%, ATK +20%.  Resonance can be stacked up to 3 times including other Resonance state from other characters]",
+		skill2: "Recover a small amount of HP to all allies, recover a large Chakra and grant 'Resonance' state to characters from the Five Village. [Resonance: Skill Damage +20%, ATK +20%.  Resonance can be stacked up to 3 times including other Resonance state from other characters]",
 
 		ability1name: "Kurama (Yang)",
 		ability1: "Maximum Chakra +50, For 9 turns, Cast Speed +1",
@@ -3360,7 +3360,7 @@ window.detail = {
 		skill2type: "Sage",
 		skill2speed: "Fastest",
 		skill2cost: "60",
-		skill2: "Recover a small amount of HP to all allies, recover a large Chakra and grant \"Resonance\" state to characters from the Five Village. [Resonance: Skill Damage +20%, ATK +40%.  Resonance can be stacked up to 3 times including other Resonance state from other characters]",
+		skill2: "Recover a small amount of HP to all allies, recover a large Chakra and grant 'Resonance' state to characters from the Five Village. [Resonance: Skill Damage +20%, ATK +40%.  Resonance can be stacked up to 3 times including other Resonance state from other characters]",
 
 		ability1name: "Kurama (Yang)",
 		ability1: "Maximum Chakra +100, Cast Speed +1",
@@ -3386,7 +3386,7 @@ window.detail = {
 		skill2type: "Sage",
 		skill2speed: "Fast",
 		skill2cost: "90",
-		skill2: "Recover a small amount of HP to all allies, and grant a Chance to Dodge Skills and grant \"Resonance\" state to characters from the Five Village. [Resonance: Skill Damage +20%, SPD +20%.  Resonance can be stacked up to 3 times including other Resonance state from other characters]",
+		skill2: "Recover a small amount of HP to all allies, and grant a Chance to Dodge Skills and grant 'Resonance' state to characters from the Five Village. [Resonance: Skill Damage +20%, SPD +20%.  Resonance can be stacked up to 3 times including other Resonance state from other characters]",
 
 		ability1name: "Kurama (Yin)",
 		ability1: "Maximum Chakra +50, For 9 turns, Cast Speed +1",
@@ -3412,7 +3412,7 @@ window.detail = {
 		skill2type: "Sage",
 		skill2speed: "Fastest",
 		skill2cost: "60",
-		skill2: "Recover a large amount of HP to all allies, and grant a Chance to Dodge Skills and grant \"Resonance\" state to characters from the Five Village. [Resonance: Skill Damage +20%, SPD +40%.  Resonance can be stacked up to 3 times including other Resonance state from other characters]",
+		skill2: "Recover a large amount of HP to all allies, and grant a Chance to Dodge Skills and grant 'Resonance' state to characters from the Five Village. [Resonance: Skill Damage +20%, SPD +40%.  Resonance can be stacked up to 3 times including other Resonance state from other characters]",
 
 		ability1name: "Kurama (Yin)",
 		ability1: "Maximum Chakra +100, Cast Speed +1",
@@ -3430,7 +3430,7 @@ window.detail = {
 		skill1type: "Genjutsu",
 		skill1speed: "Fastest",
 		skill1cost: "90",
-		skill1: "Deal 7% + 10,000 to one enemy. Deal 10x more damage while under \"Solitude\" state. Deal 3x more damage to \"Sasuke Uchiha\" (Max 30x)",
+		skill1: "Deal 7% + 10,000 to one enemy. Deal 10x more damage while under 'Solitude' state. Deal 3x more damage to 'Sasuke Uchiha' (Max 30x)",
 
 
 		skill2name: "Reappearance",
@@ -3438,7 +3438,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "80",
-		skill2: "Own ATK and SPD +100% and grant \"Solitude\" state. Reduce all non Akatsuki allies Maximum HP by 80% and remove all buff and Debuff. [Solitude: Skill Damage +100%, half the effect of Status Effects]",
+		skill2: "Own ATK and SPD +100% and grant 'Solitude' state. Reduce all non Akatsuki allies Maximum HP by 80% and remove all buff and Debuff. [Solitude: Skill Damage +100%, half the effect of Status Effects]",
 
 		ability1name: "Hidden Motive",
 		ability1: "For 3 turns, Chance to Dodge Skills",
@@ -3456,7 +3456,7 @@ window.detail = {
 		skill1type: "Genjutsu",
 		skill1speed: "Fastest",
 		skill1cost: "90",
-		skill1: "Deal 7% + 10,000 to one enemy. Deal 10x more damage while under \"Solitude\" state. Deal 3x more damage to \"Sasuke Uchiha\" (Max 30x)",
+		skill1: "Deal 7% + 10,000 to one enemy. Deal 10x more damage while under 'Solitude' state. Deal 3x more damage to 'Sasuke Uchiha' (Max 30x)",
 
 
 		skill2name: "Reappearance",
@@ -3464,7 +3464,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "80",
-		skill2: "Own ATK and SPD +100% and grant \"Solitude\" state. Reduce all non Akatsuki allies Maximum HP by 80% and remove all buff and Debuff. [Solitude: Skill Damage +100%, half the effect of Status Effects]",
+		skill2: "Own ATK and SPD +100% and grant 'Solitude' state. Reduce all non Akatsuki allies Maximum HP by 80% and remove all buff and Debuff. [Solitude: Skill Damage +100%, half the effect of Status Effects]",
 
 		ability1name: "Hidden Motive",
 		ability1: "For 3 turns, Chance to Dodge Skills",
@@ -3482,7 +3482,7 @@ window.detail = {
 		skill1type: "Taijutsu",
 		skill1speed: "Fast",
 		skill1cost: "50",
-		skill1: "Deal 10x ATK damage to one enemy with a High Chance to faint.  Deal 3x more damage if own SPD is buffed.  Deal 3x more damage if \"A\" is in the team. (Max 90x) [Always Hits]",
+		skill1: "Deal 10x ATK damage to one enemy with a High Chance to faint.  Deal 3x more damage if own SPD is buffed.  Deal 3x more damage if 'A' is in the team. (Max 90x) [Always Hits]",
 
 
 		skill2name: "I Will Go Faster, Together We Are the Strongest",
@@ -3490,7 +3490,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "30",
-		skill2: "Own SPD +120%, Skill Damage +200% and Cast Speed +1 to ally \"Killer Bee\" and \"A\"",
+		skill2: "Own SPD +120%, Skill Damage +200% and Cast Speed +1 to ally 'Killer Bee' and 'A'",
 
 		ability1name: "Jinchuriki's Pride",
 		ability1: "Maximum Chakra +80, ATK +80%",
@@ -3508,7 +3508,7 @@ window.detail = {
 		skill1type: "Taijutsu",
 		skill1speed: "Fast",
 		skill1cost: "50",
-		skill1: "Deal 10x ATK damage to one enemy with a High Chance to faint.  Deal 3x more damage if own SPD is buffed.  Deal 3x more damage if \"A\" is in the team. (Max 90x) [Always Hits]",
+		skill1: "Deal 10x ATK damage to one enemy with a High Chance to faint.  Deal 3x more damage if own SPD is buffed.  Deal 3x more damage if 'A' is in the team. (Max 90x) [Always Hits]",
 
 
 		skill2name: "I Will Go Faster, Together We Are the Strongest",
@@ -3516,7 +3516,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "30",
-		skill2: "Own SPD +120%, Skill Damage +200% and Cast Speed +1 to ally \"Killer Bee\" and \"A\"",
+		skill2: "Own SPD +120%, Skill Damage +200% and Cast Speed +1 to ally 'Killer Bee' and 'A'",
 
 		ability1name: "Jinchuriki's Pride",
 		ability1: "Maximum Chakra +80, ATK +80%",
@@ -3534,7 +3534,7 @@ window.detail = {
 		skill1type: "Taijutsu",
 		skill1speed: "Fast",
 		skill1cost: "50",
-		skill1: "Deal 10x ATK damage to one enemy with a High Chance to stun.  Deal 3x more damage if own SPD is buffed.  Deal 3x more damage if \"Killer Bee\" is in the team. (Max 90x) [Always Hits]",
+		skill1: "Deal 10x ATK damage to one enemy with a High Chance to stun.  Deal 3x more damage if own SPD is buffed.  Deal 3x more damage if 'Killer Bee' is in the team. (Max 90x) [Always Hits]",
 
 
 		skill2name: "Maximum Speed, Lets Go! ",
@@ -3542,7 +3542,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "70",
-		skill2: "Own SPD +120%, Skill Damage +200% and Cast Speed +1 to ally \"Killer Bee\" and \"A\"",
+		skill2: "Own SPD +120%, Skill Damage +200% and Cast Speed +1 to ally 'Killer Bee' and 'A'",
 
 		ability1name: "Pride of the Lightning Kage",
 		ability1: "Maximum Chakra +70, ATK +70%",
@@ -3560,7 +3560,7 @@ window.detail = {
 		skill1type: "Taijutsu",
 		skill1speed: "Fast",
 		skill1cost: "50",
-		skill1: "Deal 10x ATK damage to one enemy with a Chance to stun.  Deal 3x more damage if own SPD is buffed.  Deal 3x more damage if \"Killer Bee\" is in the team. (Max 90x) [Always Hits]",
+		skill1: "Deal 10x ATK damage to one enemy with a Chance to stun.  Deal 3x more damage if own SPD is buffed.  Deal 3x more damage if 'Killer Bee' is in the team. (Max 90x) [Always Hits]",
 
 
 		skill2name: "Maximum Speed, Lets Go! ",
@@ -3568,7 +3568,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "70",
-		skill2: "Own SPD +120%, Skill Damage +200% and Cast Speed +1 to ally \"Killer Bee\" and \"A\"",
+		skill2: "Own SPD +120%, Skill Damage +200% and Cast Speed +1 to ally 'Killer Bee' and 'A'",
 
 		ability1name: "Pride of the Lightning Kage",
 		ability1: "Maximum Chakra +70, ATK +70%",
@@ -3638,7 +3638,7 @@ window.detail = {
 		skill1type: "Sage",
 		skill1speed: "Fast",
 		skill1cost: "90",
-		skill1: "Deal 7% + 3,000 to one enemy and his surroundings.  Deal 4x more damage while under \"Sage Chakra Concentration\"",
+		skill1: "Deal 7% + 3,000 to one enemy and his surroundings.  Deal 4x more damage while under 'Sage Chakra Concentration'",
 
 
 		skill2name: "Don't Underestimate Sage Mode",
@@ -3646,7 +3646,7 @@ window.detail = {
 		skill2type: "Sage",
 		skill2speed: "Normal",
 		skill2cost: "100",
-		skill2: "Own ATK +100% and grant \"Sage Chakra Concentration\". [Sage Chakra Concentration: ATK, DEF and SPD +100%, Chakra Cost -50%. Once the state expire, set Chakra to 0]",
+		skill2: "Own ATK +100% and grant 'Sage Chakra Concentration'. [Sage Chakra Concentration: ATK, DEF and SPD +100%, Chakra Cost -50%. Once the state expire, set Chakra to 0]",
 
 		ability1name: "Pain and Hatred",
 		ability1: "ATK +20% after every action (Max 80%), Reduce HP by 20% after every action",
@@ -3664,7 +3664,7 @@ window.detail = {
 		skill1type: "Sage",
 		skill1speed: "Fastest",
 		skill1cost: "80",
-		skill1: "Deal 7% + 6,000 to one enemy and his surroundings.  Deal 6x more damage while under \"Sage Chakra Concentration\"",
+		skill1: "Deal 7% + 6,000 to one enemy and his surroundings.  Deal 6x more damage while under 'Sage Chakra Concentration'",
 
 
 		skill2name: "Don't Underestimate Sage Mode",
@@ -3672,7 +3672,7 @@ window.detail = {
 		skill2type: "Sage",
 		skill2speed: "Fast",
 		skill2cost: "90",
-		skill2: "Own ATK +200% and grant \"Sage Chakra Concentration\". [Sage Chakra Concentration: ATK, DEF and SPD +150%, Chakra Cost -50%. Once the state expire, set Chakra to 0]",
+		skill2: "Own ATK +200% and grant 'Sage Chakra Concentration'. [Sage Chakra Concentration: ATK, DEF and SPD +150%, Chakra Cost -50%. Once the state expire, set Chakra to 0]",
 
 		ability1name: "Pain and Hatred",
 		ability1: "ATK +40% after every action (Max 200%), Reduce HP by 10% after every action",
@@ -3698,7 +3698,7 @@ window.detail = {
 		skill2type: "Sage",
 		skill2speed: "Slow",
 		skill2cost: "80",
-		skill2: "All allies SPD +100% and grant \"Sage Chakra Concentration\" to Jiraiya.  Grant \"Sage Chakra Concentration\" to character's under \"Sage Mode.\" [Sage Chakra Concentration: ATK, DEF and SPD +100%, Chakra Cost -50%. Once the state expire, set Chakra to 0]",
+		skill2: "All allies SPD +100% and grant 'Sage Chakra Concentration' to Jiraiya.  Grant 'Sage Chakra Concentration' to character's under 'Sage Mode.' [Sage Chakra Concentration: ATK, DEF and SPD +100%, Chakra Cost -50%. Once the state expire, set Chakra to 0]",
 
 		ability1name: "Prophecy's Answer",
 		ability1: "Maximum HP, ATK and SPD +80%",
@@ -3724,7 +3724,7 @@ window.detail = {
 		skill2type: "Sage",
 		skill2speed: "Normal",
 		skill2cost: "60",
-		skill2: "All allies SPD +120% and grant \"Sage Chakra Concentration\" to Jiraiya.  Grant \"Sage Chakra Concentration\" to character's under \"Sage Mode.\" [Sage Chakra Concentration: ATK, DEF and SPD +120%, Chakra Cost becomes 0. Once the state expire, set Chakra to 0]",
+		skill2: "All allies SPD +120% and grant 'Sage Chakra Concentration' to Jiraiya.  Grant 'Sage Chakra Concentration' to character's under 'Sage Mode.' [Sage Chakra Concentration: ATK, DEF and SPD +120%, Chakra Cost becomes 0. Once the state expire, set Chakra to 0]",
 
 		ability1name: "Prophecy's Answer",
 		ability1: "Maximum HP, ATK and SPD +120%",
@@ -3742,7 +3742,7 @@ window.detail = {
 		skill1type: "Sage",
 		skill1speed: "Fast",
 		skill1cost: "80",
-		skill1: "Deal 3% + 500 to all enemies with a Chance to place the enemies under \"Gate of the Great God\" state. [Gate of the Great God: Gate of the Great God stacks doing different effect based on the number of stacks. [1] Skill Damage -25%, [2] Skill Damage -25%, SPD -40% [3] Cancel enemies' action]",
+		skill1: "Deal 3% + 500 to all enemies with a Chance to place the enemies under 'Gate of the Great God' state. [Gate of the Great God: Gate of the Great God stacks doing different effect based on the number of stacks. [1] Skill Damage -25%, [2] Skill Damage -25%, SPD -40% [3] Cancel enemies' action]",
 
 
 		skill2name: "Wood Style: Deep Forest Emergence",
@@ -3750,7 +3750,7 @@ window.detail = {
 		skill2type: "Wood",
 		skill2speed: "Normal",
 		skill2cost: "100",
-		skill2: "Deal 3% + 2,000 to all enemies with a Chance to seal.  Deal 5x more damage if the enemies are under \"Gates of the Great God\"",
+		skill2: "Deal 3% + 2,000 to all enemies with a Chance to seal.  Deal 5x more damage if the enemies are under 'Gates of the Great God'",
 
 		ability1name: "Extraordinary Wood Ninjutsu",
 		ability1: "Wood Skill Damage +150% when HP is above 80%",
@@ -3768,7 +3768,7 @@ window.detail = {
 		skill1type: "Sage",
 		skill1speed: "Fastest",
 		skill1cost: "70",
-		skill1: "Deal 3% + 2,000 to all enemies with a Chance to place the enemies under \"Gate of the Great God\" state. [Gate of the Great God: Gate of the Great God stacks doing different effect based on the number of stacks. [1] Skill Damage -25%, [2] Skill Damage -25, SPD -40% [3] Cancel enemies' action]",
+		skill1: "Deal 3% + 2,000 to all enemies with a Chance to place the enemies under 'Gate of the Great God' state. [Gate of the Great God: Gate of the Great God stacks doing different effect based on the number of stacks. [1] Skill Damage -25%, [2] Skill Damage -25, SPD -40% [3] Cancel enemies' action]",
 
 
 		skill2name: "Wood Style: Deep Forest Emergence",
@@ -3776,7 +3776,7 @@ window.detail = {
 		skill2type: "Wood",
 		skill2speed: "Fast",
 		skill2cost: "90",
-		skill2: "Deal 3% + 4,000 to all enemies with a Chance to seal.  Deal 7x more damage if the enemies are under \"Gates of the Great God\"",
+		skill2: "Deal 3% + 4,000 to all enemies with a Chance to seal.  Deal 7x more damage if the enemies are under 'Gates of the Great God'",
 
 		ability1name: "Extraordinary Wood Ninjutsu",
 		ability1: "Recover 10% HP after every action, Wood Skill Damage +200%",
@@ -3802,7 +3802,7 @@ window.detail = {
 		skill2type: "Byakugan",
 		skill2speed: "Fast",
 		skill2cost: "70",
-		skill2: "Own ATK +80%. Skill Damage +200% to ally \"Neji Hyuga\", \"Hinata Hyuga\", \"Hanabi Hyuga\", \"Hiashi Hyuga\"",
+		skill2: "Own ATK +80%. Skill Damage +200% to ally 'Neji Hyuga', 'Hinata Hyuga', 'Hanabi Hyuga', 'Hiashi Hyuga'",
 
 		ability1name: "Height of the Gentle Fist",
 		ability1: "Skill Damage +80% when HP is above 70%",
@@ -3828,7 +3828,7 @@ window.detail = {
 		skill2type: "Byakugan",
 		skill2speed: "Fastest",
 		skill2cost: "60",
-		skill2: "Own ATK +100%. Skill Damage +250% to ally \"Neji Hyuga\", \"Hinata Hyuga\", \"Hanabi Hyuga\", \"Hiashi Hyuga\"",
+		skill2: "Own ATK +100%. Skill Damage +250% to ally 'Neji Hyuga', 'Hinata Hyuga', 'Hanabi Hyuga', 'Hiashi Hyuga'",
 
 		ability1name: "Height of the Gentle Fist",
 		ability1: "Skill Damage +100% when HP is above 50%",
@@ -3846,7 +3846,7 @@ window.detail = {
 		skill1type: "Sage",
 		skill1speed: "Fastest",
 		skill1cost: "70",
-		skill1: "Deal 7% + 2,500 to one enemy with a Chance to Crit dealing 3x more damage.  Deal 2x more damage while under \"Rally\" state. (Max 6x)",
+		skill1: "Deal 7% + 2,500 to one enemy with a Chance to Crit dealing 3x more damage.  Deal 2x more damage while under 'Rally' state. (Max 6x)",
 
 
 		skill2name: "Alongside Trusted Allies",
@@ -3854,7 +3854,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Normal",
 		skill2cost: "80",
-		skill2: "Own ATK +80% and grant \"Resolution\" status.  All allies are placed in a \"Rally\" state. [Resolution: ATK, DEF and SPD +30%, Recover 5% Chakra and HP when attacked], [Rally: ATK, DEF and SPD +30%, Recover 5% HP and Chakra after every action]",
+		skill2: "Own ATK +80% and grant 'Resolution' status.  All allies are placed in a 'Rally' state. [Resolution: ATK, DEF and SPD +30%, Recover 5% Chakra and HP when attacked], [Rally: ATK, DEF and SPD +30%, Recover 5% HP and Chakra after every action]",
 
 		ability1name: "People Who Understand Love",
 		ability1: "HP +100%, when HP reach 0 revive to full HP once",
@@ -3872,7 +3872,7 @@ window.detail = {
 		skill1type: "Sage",
 		skill1speed: "Fastest",
 		skill1cost: "60",
-		skill1: "Deal 7% + 4,000 to one enemy with a Chance to Crit dealing 4x more damage.  Deal 3x more damage while under \"Rally\" state. (Max 12x)",
+		skill1: "Deal 7% + 4,000 to one enemy with a Chance to Crit dealing 4x more damage.  Deal 3x more damage while under 'Rally' state. (Max 12x)",
 
 
 		skill2name: "Alongside Trusted Allies",
@@ -3880,7 +3880,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "70",
-		skill2: "Own ATK +120% and grant \"Resolution\" status.  All allies are placed in a \"Rally\" state. [Resolution: ATK, DEF and SPD +40%, Recover 10% Chakra and HP when attacked], [Rally: ATK, DEF and SPD +40%, Recover 10% HP and Chakra after every action]",
+		skill2: "Own ATK +120% and grant 'Resolution' status.  All allies are placed in a 'Rally' state. [Resolution: ATK, DEF and SPD +40%, Recover 10% Chakra and HP when attacked], [Rally: ATK, DEF and SPD +40%, Recover 10% HP and Chakra after every action]",
 
 		ability1name: "People Who Understand Love",
 		ability1: "HP +120%, when HP reach 0 revive to full HP twice",
@@ -3898,7 +3898,7 @@ window.detail = {
 		skill1type: "Sharingan",
 		skill1speed: "Fast",
 		skill1cost: "80",
-		skill1: "Deal 7% + 2,000 to one enemy with a Chance to place the enemy under \"Black Flames\" state.  Deal 5x more damage to enemies under \"Black Flames\" state. [Black Flames: Continues to lose HP, ATK and HP -20% after every action]",
+		skill1: "Deal 7% + 2,000 to one enemy with a Chance to place the enemy under 'Black Flames' state.  Deal 5x more damage to enemies under 'Black Flames' state. [Black Flames: Continues to lose HP, ATK and HP -20% after every action]",
 
 
 		skill2name: "Power Can Change Everything",
@@ -3906,7 +3906,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "70",
-		skill2: "Own ATK, DEF and SPD +100%, grant a Medium Chance to Dodge Skills.  Reduce all allies HP by 80% and grant \"Solitude\" and \"Battle\" state to Indra.  [Solitude: Skill Damage +150%, Negate Effects are halved], [Battle: Skill Damage +100%]",
+		skill2: "Own ATK, DEF and SPD +100%, grant a Medium Chance to Dodge Skills.  Reduce all allies HP by 80% and grant 'Solitude' and 'Battle' state to Indra.  [Solitude: Skill Damage +150%, Negate Effects are halved], [Battle: Skill Damage +100%]",
 
 		ability1name: "People Who Chooses Power",
 		ability1: "ATK and Sharingan Skill Damage +100%",
@@ -3924,7 +3924,7 @@ window.detail = {
 		skill1type: "Sharingan",
 		skill1speed: "Fastest",
 		skill1cost: "70",
-		skill1: "Deal 7% + 4,000 to one enemy with a High Chance to place the enemy under \"Black Flames\" state.  Deal 10x more damage to enemies under \"Black Flames\" state. [Black Flames: Continues to lose HP, ATK and HP -20% after every action]",
+		skill1: "Deal 7% + 4,000 to one enemy with a High Chance to place the enemy under 'Black Flames' state.  Deal 10x more damage to enemies under 'Black Flames' state. [Black Flames: Continues to lose HP, ATK and HP -20% after every action]",
 
 
 		skill2name: "Power Can Change Everything",
@@ -3932,7 +3932,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "55",
-		skill2: "Own ATK, DEF and SPD +150%, grant a High Chance to Dodge Skills.  Reduce all allies HP by 70% and grant \"Solitude\" and \"Battle\" state to Indra.  [Solitude: Skill Damage +200%, Immune Negate Effects], [Battle: Skill Damage +120%]",
+		skill2: "Own ATK, DEF and SPD +150%, grant a High Chance to Dodge Skills.  Reduce all allies HP by 70% and grant 'Solitude' and 'Battle' state to Indra.  [Solitude: Skill Damage +200%, Immune Negate Effects], [Battle: Skill Damage +120%]",
 
 		ability1name: "People Who Chooses Power",
 		ability1: "ATK and Sharingan Skill Damage +120%",
@@ -3950,7 +3950,7 @@ window.detail = {
 		skill1type: "Taijutsu",
 		skill1speed: "Fast",
 		skill1cost: "70",
-		skill1: "Deal 7% + 2,000 to one enemy placing the enemy under \"Crush\" state. [Crush: Crush stacks increasing damage per stack. Maximum 15x more damage at 3 stacks, release the state afterwards]",
+		skill1: "Deal 7% + 2,000 to one enemy placing the enemy under 'Crush' state. [Crush: Crush stacks increasing damage per stack. Maximum 15x more damage at 3 stacks, release the state afterwards]",
 
 
 		skill2name: "I am Angry",
@@ -3976,7 +3976,7 @@ window.detail = {
 		skill1type: "Taijutsu",
 		skill1speed: "Fast",
 		skill1cost: "70",
-		skill1: "Deal 7% + 2,000 to one enemy placing the enemy under \"Crush\" state. [Crush: Crush stacks increasing damage per stack. Maximum 15x more damage at 3 stacks, release the state afterwards]",
+		skill1: "Deal 7% + 2,000 to one enemy placing the enemy under 'Crush' state. [Crush: Crush stacks increasing damage per stack. Maximum 15x more damage at 3 stacks, release the state afterwards]",
 
 
 		skill2name: "I am Angry",
@@ -4004,7 +4004,7 @@ window.detail = {
 		skill1type: "Sealing",
 		skill1speed: "Fastest",
 		skill1cost: "90",
-		skill1: "Deal 10x ATK damage to one enemy with a High Chance to \"Bind\". Deal 4x more damage to enemies under \"Bind\" state. [Bind: SPD -10%, Skill Damage -60%] (Max 40x)",
+		skill1: "Deal 10x ATK damage to one enemy with a High Chance to 'Bind'. Deal 4x more damage to enemies under 'Bind' state. [Bind: SPD -10%, Skill Damage -60%] (Max 40x)",
 
 
 		skill2name: "Stop Right There",
@@ -4030,7 +4030,7 @@ window.detail = {
 		skill1type: "Sealing",
 		skill1speed: "Fastest",
 		skill1cost: "90",
-		skill1: "Deal 10x ATK damage to one enemy with a High Chance to \"Bind\". Deal 4x more damage to enemies under \"Bind\" state. [Bind: SPD -10%, Skill Damage -60%] (Max 40x)",
+		skill1: "Deal 10x ATK damage to one enemy with a High Chance to 'Bind'. Deal 4x more damage to enemies under 'Bind' state. [Bind: SPD -10%, Skill Damage -60%] (Max 40x)",
 
 
 		skill2name: "Stop Right There",
@@ -4108,7 +4108,7 @@ window.detail = {
 		skill1type: "Rinnegan",
 		skill1speed: "Fastest",
 		skill1cost: "90",
-		skill1: "Deal 7% + 10,000 to one enemy with a High Chance to buff own Cast Speed by 1. Deal 6x more damage while under \"Resolution\" state. Deal 4x more damage to \"Naruto Uzumaki\" (Max 24x)",
+		skill1: "Deal 7% + 10,000 to one enemy with a High Chance to buff own Cast Speed by 1. Deal 6x more damage while under 'Resolution' state. Deal 4x more damage to 'Naruto Uzumaki' (Max 24x)",
 
 
 		skill2name: "Final Blood Mourning for Older Brother",
@@ -4116,7 +4116,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "60",
-		skill2: "Own ATK and Skill Damage +100% and grant \"Resolution\" state. [Resolution: ATK, DEF and SPD +40%, recover 20% HP and Chakra when attacked]",
+		skill2: "Own ATK and Skill Damage +100% and grant 'Resolution' state. [Resolution: ATK, DEF and SPD +40%, recover 20% HP and Chakra when attacked]",
 
 		ability1name: "Power of the Six Paths",
 		ability1: "Maximum Chakra +100, Chance to Dodge Skills",
@@ -4265,7 +4265,7 @@ window.detail = {
 		skill1type: "Taijutsu",
 		skill1speed: "Fast",
 		skill1cost: "80",
-		skill1: "Deal 3% + 3,000 to all enemies and grant \"Mitotic Regeneration.\"  Deal 4x more damage while under \"Mitotic Regeneration.\" [Mitotic Regenration: Recover 100% HP when attacked, Can't Die.  Once the state expire, set Chakra to 0]",
+		skill1: "Deal 3% + 3,000 to all enemies and grant 'Mitotic Regeneration.'  Deal 4x more damage while under 'Mitotic Regeneration.' [Mitotic Regenration: Recover 100% HP when attacked, Can't Die.  Once the state expire, set Chakra to 0]",
 
 
 		skill2name: "We Are Fighting For Our Lives",
@@ -4291,7 +4291,7 @@ window.detail = {
 		skill1type: "Taijutsu",
 		skill1speed: "Fast",
 		skill1cost: "80",
-		skill1: "Deal 3% + 3,000 to all enemies and grant \"Mitotic Regeneration.\"  Deal 5x more damage while under \"Mitotic Regeneration.\" Deal 3x more damage when ATK is buffed [Mitotic Regenration: Recover 100% HP when attacked, Can't Die.  Once the state expire, set Chakra to 0] (Max 15x)",
+		skill1: "Deal 3% + 3,000 to all enemies and grant 'Mitotic Regeneration.'  Deal 5x more damage while under 'Mitotic Regeneration.' Deal 3x more damage when ATK is buffed [Mitotic Regenration: Recover 100% HP when attacked, Can't Die.  Once the state expire, set Chakra to 0] (Max 15x)",
 
 
 		skill2name: "We Are Fighting For Our Lives",
@@ -4317,7 +4317,7 @@ window.detail = {
 		skill1type: "Sealing",
 		skill1speed: "Fast",
 		skill1cost: "80",
-		skill1: "Deal 3% + 5,000 to all enemies and lower Crit Damage by 100% and place them under \"Sand\" state.  Deal 4x more damage to enemies under \"Sand\" state. [Sand: SPD -30%]",
+		skill1: "Deal 3% + 5,000 to all enemies and lower Crit Damage by 100% and place them under 'Sand' state.  Deal 4x more damage to enemies under 'Sand' state. [Sand: SPD -30%]",
 
 
 		skill2name: "Everyone, To Me!!",
@@ -4343,7 +4343,7 @@ window.detail = {
 		skill1type: "Sealing",
 		skill1speed: "Fast",
 		skill1cost: "10",
-		skill1: "Deal 3% + 10,000 to all enemies and lower Crit Damage by 100% and place them under \"Sand\" state.  Deal 4x more damage to enemies under \"Sand\" state. Deal 2x more damage to enemies with Crit Damage lowered. [Sand: SPD -30%] (Max 8x)",
+		skill1: "Deal 3% + 10,000 to all enemies and lower Crit Damage by 100% and place them under 'Sand' state.  Deal 4x more damage to enemies under 'Sand' state. Deal 2x more damage to enemies with Crit Damage lowered. [Sand: SPD -30%] (Max 8x)",
 
 
 		skill2name: "Everyone, To Me!!",
@@ -4369,7 +4369,7 @@ window.detail = {
 		skill1type: "Earth",
 		skill1speed: "Fast",
 		skill1cost: "80",
-		skill1: "Deal 10x ATK damage to all enemies ignoring 20% DEF, with a Chance to lower DEF and/or SPD by 40%.  Deal 4x more damage while under \"Encourage\" state. (Max 40x)",
+		skill1: "Deal 10x ATK damage to all enemies ignoring 20% DEF, with a Chance to lower DEF and/or SPD by 40%.  Deal 4x more damage while under 'Encourage' state. (Max 40x)",
 
 
 		skill2name: "Don't Forget that Your Entrusted by the Kage",
@@ -4377,7 +4377,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Normal",
 		skill2cost: "90",
-		skill2: "Own ATK and SPD +70%, grant \"Encourage\" state to \"Tsunade\", \"A\", \"Mei Terumi\", \"Gaara\", \"Oonoki\". [Encourage: ATK, DEF and SPD +30%, Recover 10% HP and Chakra after every action]",
+		skill2: "Own ATK and SPD +70%, grant 'Encourage' state to 'Tsunade', 'A', 'Mei Terumi', 'Gaara', 'Oonoki'. [Encourage: ATK, DEF and SPD +30%, Recover 10% HP and Chakra after every action]",
 
 		ability1name: "Countless Battle Experience",
 		ability1: "High Chance to Dodge Skills, SPD +10% after every action (Max 50%)",
@@ -4395,7 +4395,7 @@ window.detail = {
 		skill1type: "Earth",
 		skill1speed: "Fastest",
 		skill1cost: "70",
-		skill1: "Deal 12x ATK damage to all enemies ignoring 20% DEF, with a Chance to lower DEF and/or SPD by 50%.  Deal 4x more damage while under \"Encourage\" state.  Deal 2x more damage to enemies with their SPD (Max 96x)",
+		skill1: "Deal 12x ATK damage to all enemies ignoring 20% DEF, with a Chance to lower DEF and/or SPD by 50%.  Deal 4x more damage while under 'Encourage' state.  Deal 2x more damage to enemies with their SPD (Max 96x)",
 
 
 		skill2name: "Don't Forget that Your Entrusted by the Kage",
@@ -4403,7 +4403,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "50",
-		skill2: "Own ATK and SPD +100%, grant \"Encourage\" state to \"Tsunade\", \"A\", \"Mei Terumi\", \"Gaara\", \"Oonoki\". [Encourage: ATK, DEF and SPD +50%, Recover 15% HP and Chakra after every action]",
+		skill2: "Own ATK and SPD +100%, grant 'Encourage' state to 'Tsunade', 'A', 'Mei Terumi', 'Gaara', 'Oonoki'. [Encourage: ATK, DEF and SPD +50%, Recover 15% HP and Chakra after every action]",
 
 		ability1name: "Countless Battle Experience",
 		ability1: "High Chance to Dodge Skills, SPD +20% after every action (Max 100%)",
@@ -4430,7 +4430,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Normal",
 		skill2cost: "90",
-		skill2: "Recover a large amount of HP and grant \"Lightning Chakra Concentration\".  ATK, DEF and SPD +100% to Characters from the Five Village. [Lightning Chakra Concentration: ATK +80%, Cast Speed becomes Flash (Can't be lowered)]",
+		skill2: "Recover a large amount of HP and grant 'Lightning Chakra Concentration'.  ATK, DEF and SPD +100% to Characters from the Five Village. [Lightning Chakra Concentration: ATK +80%, Cast Speed becomes Flash (Can't be lowered)]",
 
 		ability1name: "Unchanging Faith",
 		ability1: "ATK and SPD +20% after every action (Max 100%)",
@@ -4448,7 +4448,7 @@ window.detail = {
 		skill1type: "Taijutsu",
 		skill1speed: "Fastest",
 		skill1cost: "70",
-		skill1: "Dea; 7% + 7,000 to one enemy with a Chance to Crit dealing 4x more damage.  Deal 4x more damage while under \"Lightning Chakra Concentration\" (Max 16x)",
+		skill1: "Dea; 7% + 7,000 to one enemy with a Chance to Crit dealing 4x more damage.  Deal 4x more damage while under 'Lightning Chakra Concentration' (Max 16x)",
 
 
 		skill2name: "Guarantee Win!!",
@@ -4456,7 +4456,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "50",
-		skill2: "Recover a tremendous amount of HP and grant \"Lightning Chakra Concentration\".  ATK, DEF and SPD +120% to Characters from the Five Village. [Lightning Chakra Concentration: ATK +100%, Cast Speed becomes Flash (Can't be lowered)]",
+		skill2: "Recover a tremendous amount of HP and grant 'Lightning Chakra Concentration'.  ATK, DEF and SPD +120% to Characters from the Five Village. [Lightning Chakra Concentration: ATK +100%, Cast Speed becomes Flash (Can't be lowered)]",
 
 		ability1name: "Unchanging Faith",
 		ability1: "ATK and SPD +30% after every action (Max 120%)",
@@ -4482,7 +4482,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "90",
-		skill2: "Own ATK +80%, Cast Speed +1 for \"Tsunade\", \"A\", \"Mei Terumi\", \"Gaara\", \"Oonoki\"",
+		skill2: "Own ATK +80%, Cast Speed +1 for 'Tsunade', 'A', 'Mei Terumi', 'Gaara', 'Oonoki'",
 
 		ability1name: "Taboo Conversion",
 		ability1: "Maximum HP +100%, Recover 10% HP after every action",
@@ -4508,7 +4508,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "80",
-		skill2: "Own ATK +100%, Cast Speed +2 for \"Tsunade\", \"A\", \"Mei Terumi\", \"Gaara\", \"Oonoki\"",
+		skill2: "Own ATK +100%, Cast Speed +2 for 'Tsunade', 'A', 'Mei Terumi', 'Gaara', 'Oonoki'",
 
 		ability1name: "Taboo Conversion",
 		ability1: "Maximum HP +120%, Recover 20% HP after every action",
@@ -4630,7 +4630,7 @@ window.detail = {
 		skill1type: "Taijutsu",
 		skill1speed: "Fast",
 		skill1cost: "100",
-		skill1: "Deal 80x ATK damage ignoring 30% DEF.  Grant \"Exhaust\" state afterwards. [Exhaust: Action is disabled] [Always Hits]",
+		skill1: "Deal 80x ATK damage ignoring 30% DEF.  Grant 'Exhaust' state afterwards. [Exhaust: Action is disabled] [Always Hits]",
 
 
 		skill2name: "Death Gate Open!!",
@@ -4682,7 +4682,7 @@ window.detail = {
 		skill1type: "Tailed Beast",
 		skill1speed: "Fast",
 		skill1cost: "70",
-		skill1: "Deal 7% + 4,000 to one enemy with a Chance to lower DEF by 30%.  Deal 5x more damage while under \"Resonance\" state.",
+		skill1: "Deal 7% + 4,000 to one enemy with a Chance to lower DEF by 30%.  Deal 5x more damage while under 'Resonance' state.",
 
 
 		skill2name: "Real Feelings",
@@ -4690,7 +4690,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "90",
-		skill2: "Recover a small amount of HP to all allies, Remove all Negative Status effect  and grant \"Resonance\" state to characters from the Five Village. [Resonance: Skill Damage +20%, ATK, DEF and SPD +10%.  Resonance can be stacked up to 3 times including other Resonance state from other characters]",
+		skill2: "Recover a small amount of HP to all allies, Remove all Negative Status effect  and grant 'Resonance' state to characters from the Five Village. [Resonance: Skill Damage +20%, ATK, DEF and SPD +10%.  Resonance can be stacked up to 3 times including other Resonance state from other characters]",
 
 		ability1name: "Entrusted Rasengan [Body]",
 		ability1: "Maximum Chakra +30, ATK and SPD +70%",
@@ -4708,7 +4708,7 @@ window.detail = {
 		skill1type: "Tailed Beast",
 		skill1speed: "Fast",
 		skill1cost: "60",
-		skill1: "Deal 7% + 8,000 to one enemy with a Chance to lower DEF by 50%, and Crit dealing 2x more damage.  Deal 6x more damage while under \"Resonance\" state. (Max 12x)",
+		skill1: "Deal 7% + 8,000 to one enemy with a Chance to lower DEF by 50%, and Crit dealing 2x more damage.  Deal 6x more damage while under 'Resonance' state. (Max 12x)",
 
 
 		skill2name: "Real Feelings",
@@ -4716,7 +4716,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "80",
-		skill2: "Recover a large amount of HP to all allies, Remove all Negative Status effect and grant \"Resonance\" state to characters from the Five Village. [Resonance: Skill Damage +20%, ATK, DEF and SPD +20% .Resonance can be stacked up to 3 times including other Resonance state from other characters]",
+		skill2: "Recover a large amount of HP to all allies, Remove all Negative Status effect and grant 'Resonance' state to characters from the Five Village. [Resonance: Skill Damage +20%, ATK, DEF and SPD +20% .Resonance can be stacked up to 3 times including other Resonance state from other characters]",
 
 		ability1name: "Entrusted Rasengan [Body]",
 		ability1: "Maximum Chakra +50, ATK and SPD +100%",
@@ -4734,7 +4734,7 @@ window.detail = {
 		skill1type: "Tailed Beast",
 		skill1speed: "Fast",
 		skill1cost: "70",
-		skill1: "Deal 7% + 4,000 to one enemy with a Chance to lower SPD by 30%.  Deal 5x more damage while under \"Resonance\" state.",
+		skill1: "Deal 7% + 4,000 to one enemy with a Chance to lower SPD by 30%.  Deal 5x more damage while under 'Resonance' state.",
 
 
 		skill2name: "To Pertain the Future",
@@ -4742,7 +4742,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "90",
-		skill2: "Recover a small amount of HP to all allies, Reduce incoming Skill Damage and grant \"Resonance\" state to characters from the Five Village. [Resonance: Skill Damage +20%, DEF +30%.  Resonance can be stacked up to 3 times including other Resonance state from other characters]",
+		skill2: "Recover a small amount of HP to all allies, Reduce incoming Skill Damage and grant 'Resonance' state to characters from the Five Village. [Resonance: Skill Damage +20%, DEF +30%.  Resonance can be stacked up to 3 times including other Resonance state from other characters]",
 
 		ability1name: "Entrusted Rasengan [Knowledge]",
 		ability1: "Maximum Chakra +30, HP and ATK +70%",
@@ -4760,7 +4760,7 @@ window.detail = {
 		skill1type: "Tailed Beast",
 		skill1speed: "Fast",
 		skill1cost: "60",
-		skill1: "Deal 7% + 8,000 to one enemy with a Chance to lower SPD by 30%, and Crit dealing 2x more damage.  Deal 6x more damage while under \"Resonance\" state. (Max 12x)",
+		skill1: "Deal 7% + 8,000 to one enemy with a Chance to lower SPD by 30%, and Crit dealing 2x more damage.  Deal 6x more damage while under 'Resonance' state. (Max 12x)",
 
 
 		skill2name: "To Pertain the Future",
@@ -4768,7 +4768,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "80",
-		skill2: "Recover a large amount of HP to all allies, Reduce incoming Skill Damage and grant \"Resonance\" state to characters from the Five Village. [Resonance: Skill Damage +20%, DEF +50%.Resonance can be stacked up to 3 times including other Resonance state from other characters]",
+		skill2: "Recover a large amount of HP to all allies, Reduce incoming Skill Damage and grant 'Resonance' state to characters from the Five Village. [Resonance: Skill Damage +20%, DEF +50%.Resonance can be stacked up to 3 times including other Resonance state from other characters]",
 
 		ability1name: "Entrusted Rasengan [Knowledge]",
 		ability1: "Maximum Chakra +50, HP and ATK +100%",
@@ -4786,7 +4786,7 @@ window.detail = {
 		skill1type: "Tailed Beast",
 		skill1speed: "Fast",
 		skill1cost: "70",
-		skill1: "Deal 7% + 4,000 to one enemy with a Chance to lower ATK by 30%.  Deal 5x more damage while under \"Resonance\" state.",
+		skill1: "Deal 7% + 4,000 to one enemy with a Chance to lower ATK by 30%.  Deal 5x more damage while under 'Resonance' state.",
 
 
 		skill2name: "Certainly, We Can Do It",
@@ -4794,7 +4794,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "90",
-		skill2: "Recover a small amount of HP to all allies, Chakra Cost -20% and grant \"Resonance\" state to characters from the Five Village. [Resonance: Skill Damage +20%, Basic Attack Dodge +100%.  Resonance can be stacked up to 3 times including other Resonance state from other characters]",
+		skill2: "Recover a small amount of HP to all allies, Chakra Cost -20% and grant 'Resonance' state to characters from the Five Village. [Resonance: Skill Damage +20%, Basic Attack Dodge +100%.  Resonance can be stacked up to 3 times including other Resonance state from other characters]",
 
 		ability1name: "Entrusted Rasengan [White]",
 		ability1: "Maximum Chakra +30, ATK and DEF +70%",
@@ -4812,7 +4812,7 @@ window.detail = {
 		skill1type: "Tailed Beast",
 		skill1speed: "Fast",
 		skill1cost: "60",
-		skill1: "Deal 7% + 8,000 to one enemy with a Chance to lower ATK by 50%, and Crit dealing 2x more damage.  Deal 6x more damage while under \"Resonance\" state. (Max 12x)",
+		skill1: "Deal 7% + 8,000 to one enemy with a Chance to lower ATK by 50%, and Crit dealing 2x more damage.  Deal 6x more damage while under 'Resonance' state. (Max 12x)",
 
 
 		skill2name: "Certainly, We Can Do It",
@@ -4820,7 +4820,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "80",
-		skill2: "Recover a large amount of HP to all allies, Chakra Cost -30% and grant \"Resonance\" state to characters from the Five Village. [Resonance: Skill Damage +20%, Basic Attack Dodge +150%.  Resonance can be stacked up to 3 times including other Resonance state from other characters]",
+		skill2: "Recover a large amount of HP to all allies, Chakra Cost -30% and grant 'Resonance' state to characters from the Five Village. [Resonance: Skill Damage +20%, Basic Attack Dodge +150%.  Resonance can be stacked up to 3 times including other Resonance state from other characters]",
 
 		ability1name: "Entrusted Rasengan [White]",
 		ability1: "Maximum Chakra +50, ATK and DEF +100%",
@@ -4838,7 +4838,7 @@ window.detail = {
 		skill1type: "Unique",
 		skill1speed: "Fast",
 		skill1cost: "80",
-		skill1: "Deal 6x ATK damage to one enemy ignoring 30% DEF.  Deal 4x more damage when own SPD is buff.  Deal 2x more damage if \"Hinata Hyuga [Hiden/Shinden]\" is in the team (Max 8x)",
+		skill1: "Deal 6x ATK damage to one enemy ignoring 30% DEF.  Deal 4x more damage when own SPD is buff.  Deal 2x more damage if 'Hinata Hyuga [Hiden/Shinden]' is in the team (Max 8x)",
 
 
 		skill2name: "Festival Charge!",
@@ -4864,7 +4864,7 @@ window.detail = {
 		skill1type: "Unique",
 		skill1speed: "Fast",
 		skill1cost: "70",
-		skill1: "Deal 8x ATK damage to one enemy ignoring 30% DEF.  Deal 5x more damage when own SPD is buff.  Deal 2.5x more damage if \"Hinata Hyuga [Hiden/Shinden]\" is in the team (Max 12.5x)",
+		skill1: "Deal 8x ATK damage to one enemy ignoring 30% DEF.  Deal 5x more damage when own SPD is buff.  Deal 2.5x more damage if 'Hinata Hyuga [Hiden/Shinden]' is in the team (Max 12.5x)",
 
 
 		skill2name: "Festival Charge!",
@@ -4898,7 +4898,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Normal",
 		skill2cost: "80",
-		skill2: "Recover a large amount of HP to all allies, Chakra Cost -10% and grant \"Festival\" state to \"Naruto Uzumaki [Hiden/Shinden]\", \"Hinata Hyuga [Hiden/Shinden]\", and \"Hanabi Hyuga [Hiden/Shinden]\". [Festival: ATK, SPD and Skill Damage +100%, recover 10% Chakra after every action]",
+		skill2: "Recover a large amount of HP to all allies, Chakra Cost -10% and grant 'Festival' state to 'Naruto Uzumaki [Hiden/Shinden]', 'Hinata Hyuga [Hiden/Shinden]', and 'Hanabi Hyuga [Hiden/Shinden]'. [Festival: ATK, SPD and Skill Damage +100%, recover 10% Chakra after every action]",
 
 		ability1name: "New Yukata",
 		ability1: "Maximum HP, ATK and DEF +40%",
@@ -4924,7 +4924,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "60",
-		skill2: "Recover a large amount of HP to all allies, Chakra Cost -20% and grant \"Festival\" state to \"Naruto Uzumaki [Hiden/Shinden]\", \"Hinata Hyuga [Hiden/Shinden]\", and \"Hanabi Hyuga [Hiden/Shinden]\". [Festival: ATK, SPD and Skill Damage +150%, recover 10% Chakra after every action]",
+		skill2: "Recover a large amount of HP to all allies, Chakra Cost -20% and grant 'Festival' state to 'Naruto Uzumaki [Hiden/Shinden]', 'Hinata Hyuga [Hiden/Shinden]', and 'Hanabi Hyuga [Hiden/Shinden]'. [Festival: ATK, SPD and Skill Damage +150%, recover 10% Chakra after every action]",
 
 		ability1name: "New Yukata",
 		ability1: "Maximum HP, ATK and DEF +80%",
@@ -5106,7 +5106,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Normal",
 		skill2cost: "70",
-		skill2: "Own ATK and Skill Damage +100% and grant \"Concentration\" state. [Concentration: Chakra Cost is reduced every turn, Max 30%]",
+		skill2: "Own ATK and Skill Damage +100% and grant 'Concentration' state. [Concentration: Chakra Cost is reduced every turn, Max 30%]",
 
 		ability1name: "Pride of the Right Arm",
 		ability1: "ATK +70%, Reduce incoming Lighting, Water, Unique and Storm Skill Damage",
@@ -5132,7 +5132,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "50",
-		skill2: "Own ATK and Skill Damage +120% and grant \"Concentration\" state. [Concentration: Chakra Cost is reduced every turn, Max 50%]",
+		skill2: "Own ATK and Skill Damage +120% and grant 'Concentration' state. [Concentration: Chakra Cost is reduced every turn, Max 50%]",
 
 		ability1name: "Pride of the Right Arm",
 		ability1: "ATK +100%, Incoming Lighting, Water, Unique and Storm Skill Damage are halved",
@@ -5150,7 +5150,7 @@ window.detail = {
 		skill1type: "Tailed Beast",
 		skill1speed: "Fast",
 		skill1cost: "90",
-		skill1: "Deal 3% + 20,000 to all enemies with a Chance to place the enemies under \"Misery\" state. Deal 2x more damage to enemies under \"Misery\" state. [Misery: Skill Damage -20% and ATK -10%. This state can be stacked upto 3 times.]",
+		skill1: "Deal 3% + 20,000 to all enemies with a Chance to place the enemies under 'Misery' state. Deal 2x more damage to enemies under 'Misery' state. [Misery: Skill Damage -20% and ATK -10%. This state can be stacked upto 3 times.]",
 
 
 		skill2name: "Is Your Heart Broken?",
@@ -5175,7 +5175,7 @@ window.detail = {
 		skill1type: "Tailed Beast",
 		skill1speed: "Fast",
 		skill1cost: "80",
-		skill1: "Deal 3% + 50,000 to all enemies with a Chance to place the enemies under \"Misery\" state. Deal 3x more damage to enemies under \"Misery\" state. [Misery: Skill Damage -20% and ATK -20%. This state can be stacked upto 3 times.]",
+		skill1: "Deal 3% + 50,000 to all enemies with a Chance to place the enemies under 'Misery' state. Deal 3x more damage to enemies under 'Misery' state. [Misery: Skill Damage -20% and ATK -20%. This state can be stacked upto 3 times.]",
 
 
 		skill2name: "Is Your Heart Broken?",
@@ -5226,7 +5226,7 @@ window.detail = {
 		skill1type: "Tailed Beast",
 		skill1speed: "Fast",
 		skill1cost: "90",
-		skill1: "Deal 3% + 50,000 to all enemies with a Chance to place the enemies under \"Misery\" state. Deal 3x more damage to enemies under \"Misery\" state. [Misery: Skill Damage -20% and SPD -20%. This state can be stacked upto 3 times.]",
+		skill1: "Deal 3% + 50,000 to all enemies with a Chance to place the enemies under 'Misery' state. Deal 3x more damage to enemies under 'Misery' state. [Misery: Skill Damage -20% and SPD -20%. This state can be stacked upto 3 times.]",
 
 
 		skill2name: "Let Me Tell You About Despair",
@@ -5364,7 +5364,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "90",
-		skill2: "Own ATK, DEF and SPD +40%, Cast Speed +1 for \"Naruto Uzumaki\", \"Sasuke Uchiha\", and \"Sakura Haruno\"",
+		skill2: "Own ATK, DEF and SPD +40%, Cast Speed +1 for 'Naruto Uzumaki', 'Sasuke Uchiha', and 'Sakura Haruno'",
 
 		ability1name: "Hidden Ability",
 		ability1: "For 5 turns, reduce all incoming Skill Damage.  After 5 turns, Skill Damage +100%",
@@ -5390,7 +5390,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "80",
-		skill2: "Own ATK, DEF and SPD +80%, Cast Speed +1 for \"Naruto Uzumaki\", \"Sasuke Uchiha\", and \"Sakura Haruno\"",
+		skill2: "Own ATK, DEF and SPD +80%, Cast Speed +1 for 'Naruto Uzumaki', 'Sasuke Uchiha', and 'Sakura Haruno'",
 
 		ability1name: "Hidden Ability",
 		ability1: "For 5 turns, reduce all incoming damage by half.  After 5 turns, Skill Damage +150%",
@@ -5408,7 +5408,7 @@ window.detail = {
 		skill1type: "Clone",
 		skill1speed: "Normal",
 		skill1cost: "70",
-		skill1: "Deal 7% + 3,000 to one enemy, Deal 4x more damage while under \"Connected\" state",
+		skill1: "Deal 7% + 3,000 to one enemy, Deal 4x more damage while under 'Connected' state",
 
 
 		skill2name: "Everyone, Lets Go!",
@@ -5416,7 +5416,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "100",
-		skill2: "Own ATK +80%, grant \"Connected\" state to \"Naruto Uzumaki\", \"Sasuke Uchiha\", and \"Sakura Haruno\". [Connected: Reduce the Chance of getting aflicted by a Status Effect and increase Skill Damage based on how many Konoha Character is in the team, Maximum 150%]",
+		skill2: "Own ATK +80%, grant 'Connected' state to 'Naruto Uzumaki', 'Sasuke Uchiha', and 'Sakura Haruno'. [Connected: Reduce the Chance of getting aflicted by a Status Effect and increase Skill Damage based on how many Konoha Character is in the team, Maximum 150%]",
 
 		ability1name: "Punctual Grand Lead",
 		ability1: "SPD +50%, and has a Chance to have an extra turn. (You can't get an extra turn during your extra turn)",
@@ -5434,7 +5434,7 @@ window.detail = {
 		skill1type: "Clone",
 		skill1speed: "Fast",
 		skill1cost: "65",
-		skill1: "Deal 7% + 5,000 to one enemy, Deal 4x more damage while under \"Connected\" state.  Deal 2x more damage if there's an ally \"Sasuke Uchiha\" or \"Sakura Haruno\". (Max 8x more damage)",
+		skill1: "Deal 7% + 5,000 to one enemy, Deal 4x more damage while under 'Connected' state.  Deal 2x more damage if there's an ally 'Sasuke Uchiha' or 'Sakura Haruno'. (Max 8x more damage)",
 
 
 		skill2name: "Everyone, Lets Go!",
@@ -5442,7 +5442,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "80",
-		skill2: "Own ATK +100%, grant \"Connected\" state to \"Naruto Uzumaki\", \"Sasuke Uchiha\", and \"Sakura Haruno\". [Connected: Reduce the Chance of getting aflicted by a Status Effect and increase Skill Damage based on how many Konoha Character is in the team, Maximum 200%]",
+		skill2: "Own ATK +100%, grant 'Connected' state to 'Naruto Uzumaki', 'Sasuke Uchiha', and 'Sakura Haruno'. [Connected: Reduce the Chance of getting aflicted by a Status Effect and increase Skill Damage based on how many Konoha Character is in the team, Maximum 200%]",
 
 		ability1name: "Punctual Grand Lead",
 		ability1: "SPD +80%, and has a High Chance to have an extra turn. (You can't get an extra turn during your extra turn)",
@@ -5468,7 +5468,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "100",
-		skill2: "Own SPD +80%, grant \"Connected\" state to \"Naruto Uzumaki\", \"Sasuke Uchiha\", and \"Sakura Haruno\". [Connected: Reduce the Chance of getting aflicted by a Status Effect and increase Skill Damage based on how many Konoha Character is in the team, Maximum 150%]",
+		skill2: "Own SPD +80%, grant 'Connected' state to 'Naruto Uzumaki', 'Sasuke Uchiha', and 'Sakura Haruno'. [Connected: Reduce the Chance of getting aflicted by a Status Effect and increase Skill Damage based on how many Konoha Character is in the team, Maximum 150%]",
 
 		ability1name: "Carrying the Family Name",
 		ability1: "SPD and Skill Damage +80%",
@@ -5486,7 +5486,7 @@ window.detail = {
 		skill1type: "Fire",
 		skill1speed: "Fast",
 		skill1cost: "65",
-		skill1: "Deal 7% + 5,000 to one enemy, with a Chance to Burn.  Deal 4x more damage to Burning enemies. Deal 2x more damage if there's an ally \"Sasuke Uchiha\" or \"Sakura Haruno\". (Max 8x more damage)",
+		skill1: "Deal 7% + 5,000 to one enemy, with a Chance to Burn.  Deal 4x more damage to Burning enemies. Deal 2x more damage if there's an ally 'Sasuke Uchiha' or 'Sakura Haruno'. (Max 8x more damage)",
 
 
 		skill2name: "Don't Get in My Way",
@@ -5494,7 +5494,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "80",
-		skill2: "Own SPD +100%, grant \"Connected\" state to \"Naruto Uzumaki\", \"Sasuke Uchiha\", and \"Sakura Haruno\". [Connected: Reduce the Chance of getting aflicted by a Status Effect and increase Skill Damage based on how many Konoha Character is in the team, Maximum 200%]",
+		skill2: "Own SPD +100%, grant 'Connected' state to 'Naruto Uzumaki', 'Sasuke Uchiha', and 'Sakura Haruno'. [Connected: Reduce the Chance of getting aflicted by a Status Effect and increase Skill Damage based on how many Konoha Character is in the team, Maximum 200%]",
 
 		ability1name: "Carrying the Family Name",
 		ability1: "SPD and Skill Damage +80%",
@@ -5512,7 +5512,7 @@ window.detail = {
 		skill1type: "Taijutsu",
 		skill1speed: "Normal",
 		skill1cost: "70",
-		skill1: "Deal 10x ATK Damage to one enemy ignoring 10% DEF. Deal 4x more damage while under \"Concentration\" state",
+		skill1: "Deal 10x ATK Damage to one enemy ignoring 10% DEF. Deal 4x more damage while under 'Concentration' state",
 
 
 		skill2name: "Diversion Tactic",
@@ -5520,7 +5520,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "100",
-		skill2: "Chance to reduce one enemy's DEF by 30%, and increase their ATK and/or SPD by 30%.  Grant \"Concentration\" state to \"Naruto Uzumaki\", \"Sasuke Uchiha\", and \"Sakura Haruno\" [Concentration: Reduce Chakra Cost after every action. Max -20%] ",
+		skill2: "Chance to reduce one enemy's DEF by 30%, and increase their ATK and/or SPD by 30%.  Grant 'Concentration' state to 'Naruto Uzumaki', 'Sasuke Uchiha', and 'Sakura Haruno' [Concentration: Reduce Chakra Cost after every action. Max -20%] ",
 
 		ability1name: "Love Rather Than Training",
 		ability1: "Maximum HP +50%, reduce the Chance of being Debuffed by half",
@@ -5538,7 +5538,7 @@ window.detail = {
 		skill1type: "Taijutsu",
 		skill1speed: "Fast",
 		skill1cost: "65",
-		skill1: "Deal 12x ATK Damage to one enemy ignoring 20% DEF. Deal 4x more damage while under \"Concentration\" state. Deal 2x more damage if there's an ally \"Sasuke Uchiha\" or \"Sakura Haruno\". (Max 96x more damage)",
+		skill1: "Deal 12x ATK Damage to one enemy ignoring 20% DEF. Deal 4x more damage while under 'Concentration' state. Deal 2x more damage if there's an ally 'Sasuke Uchiha' or 'Sakura Haruno'. (Max 96x more damage)",
 
 
 		skill2name: "Diversion Tactic",
@@ -5546,7 +5546,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "80",
-		skill2: "Chance to reduce one enemy's DEF by 50%, and increase their ATK and/or SPD by 20%.  Grant \"Concentration\" state to \"Naruto Uzumaki\", \"Sasuke Uchiha\", and \"Sakura Haruno\" [Concentration: Reduce Chakra Cost after every action. Max -30%] ",
+		skill2: "Chance to reduce one enemy's DEF by 50%, and increase their ATK and/or SPD by 20%.  Grant 'Concentration' state to 'Naruto Uzumaki', 'Sasuke Uchiha', and 'Sakura Haruno' [Concentration: Reduce Chakra Cost after every action. Max -30%] ",
 
 		ability1name: "Love Rather Than Training",
 		ability1: "Maximum HP +120%, Immune to Debuff",
@@ -5564,7 +5564,7 @@ window.detail = {
 		skill1type: "Space-Time",
 		skill1speed: "Fast",
 		skill1cost: "90",
-		skill1: "Deal 7% + 6,000 to one enemy with a Chance to put the enemy in a \"Bleed\" state.  Deal 3x while under \"Lightning God Mode\" [Bleed: Continues to lose HP, with a Chance to lower DEF]",
+		skill1: "Deal 7% + 6,000 to one enemy with a Chance to put the enemy in a 'Bleed' state.  Deal 3x while under 'Lightning God Mode' [Bleed: Continues to lose HP, with a Chance to lower DEF]",
 
 
 		skill2name: "Power of Kamui...!",
@@ -5572,7 +5572,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Normal",
 		skill2cost: "100",
-		skill2: "Own ATK, DEF and SPD +80% and grant \"Lightning God Mode\".  Protect \"Naruto Uzumaki\", \"Sasuke Uchiha\" and \"Sakura Haruno\" while under \"Lightning God Mode\". [Lightning God Mode: Skill Damage +120% and Immune to single target skills to Kakashi and allies protected by Lightning God Mode. Does not protect from Fixed Damage]",
+		skill2: "Own ATK, DEF and SPD +80% and grant 'Lightning God Mode'.  Protect 'Naruto Uzumaki', 'Sasuke Uchiha' and 'Sakura Haruno' while under 'Lightning God Mode'. [Lightning God Mode: Skill Damage +120% and Immune to single target skills to Kakashi and allies protected by Lightning God Mode. Does not protect from Fixed Damage]",
 
 		ability1name: "Renown for Bravery",
 		ability1: "Maximum HP +80%, reduce all incoming Skill damage.  Chakra Cost -30% when HP is above 80%",
@@ -5590,7 +5590,7 @@ window.detail = {
 		skill1type: "Space-Time",
 		skill1speed: "Fastest",
 		skill1cost: "80",
-		skill1: "Deal 7% + 10,000 to one enemy, with a Chance to put the enemy in a \"Bleed\" state, and Cast Speed +1.  Deal 10x while under \"Lightning God Mode\" [Bleed: Continues to lose HP, with a Chance to lower DEF]",
+		skill1: "Deal 7% + 10,000 to one enemy, with a Chance to put the enemy in a 'Bleed' state, and Cast Speed +1.  Deal 10x while under 'Lightning God Mode' [Bleed: Continues to lose HP, with a Chance to lower DEF]",
 
 
 		skill2name: "Power of Kamui...!",
@@ -5598,7 +5598,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "90",
-		skill2: "Own ATK, DEF and SPD +120% and grant \"Lightning God Mode\".  Protect \"Naruto Uzumaki\", \"Sasuke Uchiha\" and \"Sakura Haruno\" while under \"Lightning God Mode\". [Lightning God Mode: Skill Damage +150% and Immune to single target skills to Kakashi and allies protected by Lightning God Mode. Does not protect from Fixed Damage]",
+		skill2: "Own ATK, DEF and SPD +120% and grant 'Lightning God Mode'.  Protect 'Naruto Uzumaki', 'Sasuke Uchiha' and 'Sakura Haruno' while under 'Lightning God Mode'. [Lightning God Mode: Skill Damage +150% and Immune to single target skills to Kakashi and allies protected by Lightning God Mode. Does not protect from Fixed Damage]",
 
 		ability1name: "Renown for Bravery",
 		ability1: "Maximum HP +120%, reduce all incoming Skill damage by half.  Chakra Cost -50% when HP is above 50%",
@@ -5668,7 +5668,7 @@ window.detail = {
 		skill1type: "Fire",
 		skill1speed: "Fast",
 		skill1cost: "70",
-		skill1: "Deal 3% + 2,000 to all enemies with a Chance to burn and place the enemy under \"Smoke Screen\" state.  Deal 5x more damage to enemies that are burning. [Smoke Screen: Chance to Cancel action after every action]",
+		skill1: "Deal 3% + 2,000 to all enemies with a Chance to burn and place the enemy under 'Smoke Screen' state.  Deal 5x more damage to enemies that are burning. [Smoke Screen: Chance to Cancel action after every action]",
 
 
 		skill2name: "The Best Hand",
@@ -5694,7 +5694,7 @@ window.detail = {
 		skill1type: "Fire",
 		skill1speed: "Fast",
 		skill1cost: "65",
-		skill1: "Deal 3% + 5,000 to all enemies with a High Chance to burn and place the enemy under \"Smoke Screen\" state.  Deal 8x more damage to enemies that are burning. [Smoke Screen: Chance to Cancel action after every action]",
+		skill1: "Deal 3% + 5,000 to all enemies with a High Chance to burn and place the enemy under 'Smoke Screen' state.  Deal 8x more damage to enemies that are burning. [Smoke Screen: Chance to Cancel action after every action]",
 
 
 		skill2name: "The Best Hand",
@@ -5728,7 +5728,7 @@ window.detail = {
 		skill2type: "Rinnegan",
 		skill2speed: "Fastest",
 		skill2cost: "100",
-		skill2: "Deal 7% + 250,000 to one enemy with a very High Chance to place them under \"Deficit\" state. Recover own Chakra by 50%. [Deficit: Chakra Recovery becomes 0] *Deficit state is only active in PvP",
+		skill2: "Deal 7% + 250,000 to one enemy with a very High Chance to place them under 'Deficit' state. Recover own Chakra by 50%. [Deficit: Chakra Recovery becomes 0] *Deficit state is only active in PvP",
 
 		ability1name: "God of Destruction Wishing for Peace",
 		ability1: "Maximum Chakra +200, Immune to negate state",
@@ -5754,7 +5754,7 @@ window.detail = {
 		skill2type: "Rinnegan",
 		skill2speed: "Fastest",
 		skill2cost: "100",
-		skill2: "Deal 7% + 250,000 to one enemy with a very High Chance to place them under \"Deficit\" state. Recover own Chakra by 50%. [Deficit: Chakra Recovery becomes 0] *Deficit state is only active in PvP",
+		skill2: "Deal 7% + 250,000 to one enemy with a very High Chance to place them under 'Deficit' state. Recover own Chakra by 50%. [Deficit: Chakra Recovery becomes 0] *Deficit state is only active in PvP",
 
 		ability1name: "God of Destruction Wishing for Peace",
 		ability1: "Maximum Chakra +200, Immune to negate state",
@@ -5779,7 +5779,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "80",
-		skill2: "Own ATK, DEF and SPD +100%, Cast Speed +1 and remove all Debuff. Grant \"Duel\" state [Duel: Own Skill Damage increase based on how many ally are alive.  +20% per ally.  Max 100%]",
+		skill2: "Own ATK, DEF and SPD +100%, Cast Speed +1 and remove all Debuff. Grant 'Duel' state [Duel: Own Skill Damage increase based on how many ally are alive.  +20% per ally.  Max 100%]",
 
 		ability1name: "Entrusted Six Paths Power",
 		ability1: "Maximum HP and Skill Damage +80%",
@@ -5804,7 +5804,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "70",
-		skill2: "Own ATK, DEF and SPD +150%, Cast Speed +2 and remove all Debuff. Grant \"Duel\" state [Duel: Own Skill Damage increase based on how many ally are alive.  +40% per ally.  Max 200%]",
+		skill2: "Own ATK, DEF and SPD +150%, Cast Speed +2 and remove all Debuff. Grant 'Duel' state [Duel: Own Skill Damage increase based on how many ally are alive.  +40% per ally.  Max 200%]",
 
 		ability1name: "Entrusted Six Paths Power",
 		ability1: "Maximum HP and Skill Damage +100%",
@@ -5829,7 +5829,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "60",
-		skill2: "Own ATK and DEF +80%, Cast Speed +1 and grant \"Duel\" state. [Duel: Own Skill Damage increase based on how many ally are alive.  +10% per ally.  Max 50%]",
+		skill2: "Own ATK and DEF +80%, Cast Speed +1 and grant 'Duel' state. [Duel: Own Skill Damage increase based on how many ally are alive.  +10% per ally.  Max 50%]",
 
 		ability1name: "Nindo Demonstration",
 		ability1: "Maximum HP, ATK and Skill Damage +50%",
@@ -5854,7 +5854,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "50",
-		skill2: "Own ATK and DEF +100%, Cast Speed +1 and grant \"Duel\" state. [Duel: Own Skill Damage increase based on how many ally are alive.  +20% per ally.  Max 100%]",
+		skill2: "Own ATK and DEF +100%, Cast Speed +1 and grant 'Duel' state. [Duel: Own Skill Damage increase based on how many ally are alive.  +20% per ally.  Max 100%]",
 
 		ability1name: "Nindo Demonstration",
 		ability1: "Maximum HP, ATK and Skill Damage +100%",
@@ -5879,7 +5879,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "80",
-		skill2: "Own ATK, DEF and SPD +100%, Cast Speed +2 and remove all Debuff. Grant \"Duel\" state [Duel: Own Skill Damage increase based on how many ally are alive.  +40% per ally.  Max 200%]",
+		skill2: "Own ATK, DEF and SPD +100%, Cast Speed +2 and remove all Debuff. Grant 'Duel' state [Duel: Own Skill Damage increase based on how many ally are alive.  +40% per ally.  Max 200%]",
 
 		ability1name: "Awakening Rinnegan",
 		ability1: "Maximum HP and Skill Damage +80%",
@@ -5904,7 +5904,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "70",
-		skill2: "Own ATK, DEF and SPD +150%, Cast Speed +1 and remove all Debuff. Grant \"Duel\" state [Duel: Own Skill Damage increase based on how many ally are alive.  +40% per ally.  Max 150%]",
+		skill2: "Own ATK, DEF and SPD +150%, Cast Speed +1 and remove all Debuff. Grant 'Duel' state [Duel: Own Skill Damage increase based on how many ally are alive.  +40% per ally.  Max 150%]",
 
 		ability1name: "Awakening Rinnegan",
 		ability1: "Maximum HP and Skill Damage +100%",
@@ -5929,7 +5929,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "60",
-		skill2: "Own ATK and DEF +80%, Cast Speed +1 and grant \"Duel\" state. [Duel: Own Skill Damage increase based on how many ally are alive.  +10% per ally.  Max 50%]",
+		skill2: "Own ATK and DEF +80%, Cast Speed +1 and grant 'Duel' state. [Duel: Own Skill Damage increase based on how many ally are alive.  +10% per ally.  Max 50%]",
 
 		ability1name: "Inhert Brother's Eye",
 		ability1: "Maximum HP, ATK and Skill Damage +50%",
@@ -5954,7 +5954,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "50",
-		skill2: "Own ATK and DEF +100%, Cast Speed +1 and grant \"Duel\" state. [Duel: Own Skill Damage increase based on how many ally are alive.  +20% per ally.  Max 100%]",
+		skill2: "Own ATK and DEF +100%, Cast Speed +1 and grant 'Duel' state. [Duel: Own Skill Damage increase based on how many ally are alive.  +20% per ally.  Max 100%]",
 
 		ability1name: "Inhert Brother's Eye",
 		ability1: "Maximum HP, ATK and Skill Damage +100%",
@@ -6029,7 +6029,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "55",
-		skill2: "Own ATK, DEF and SPD +100%, grant a low Chance to Dodge Skills and \"Gust\" state [Gust: Skill Damage and SPD +30%]",
+		skill2: "Own ATK, DEF and SPD +100%, grant a low Chance to Dodge Skills and 'Gust' state [Gust: Skill Damage and SPD +30%]",
 
 		ability1name: "Growing Dream",
 		ability1: "ATK and DEF +20% after every action (Max 80%)",
@@ -6054,7 +6054,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "55",
-		skill2: "Own ATK, DEF and SPD +120%, grant a Medium Chance to Dodge Skills and \"Gust\" state [Gust: Skill Damage and SPD +50%]",
+		skill2: "Own ATK, DEF and SPD +120%, grant a Medium Chance to Dodge Skills and 'Gust' state [Gust: Skill Damage and SPD +50%]",
 
 		ability1name: "Growing Dream",
 		ability1: "ATK and DEF +30% after every action (Max 120%)",
@@ -6172,14 +6172,14 @@ window.detail = {
 		skill1type: "Sealing",
 		skill1speed: "Normal",
 		skill1cost: "100",
-		skill1: "Deal 5,000 Fixed Damage to one enemy with a Chance to place them under \"Reaper\" state.  Reduce own HP by 40% after using this skill. [Reaper: Reaper stacks doing different effect based on the number of stacks [1] SPD -20% [2] Can't use skills [3] Reduce HP to 0",
+		skill1: "Deal 5,000 Fixed Damage to one enemy with a Chance to place them under 'Reaper' state.  Reduce own HP by 40% after using this skill. [Reaper: Reaper stacks doing different effect based on the number of stacks [1] SPD -20% [2] Can't use skills [3] Reduce HP to 0",
 
 		skill2name: "I Will Do It For The Sake Of This Child!",
 		skill2ogname: "この子の為にやるんだ！",
 		skill2type: "Unique",
 		skill2speed: "Normal",
 		skill2cost: "60",
-		skill2: "Own SPD +50% and grant \"Resolution\" and \"Concentration\" state.  [Resolution: ATK, DEF and SPD +30%, recover 5% HP and Chakra when attacked] [Concentration: Reduce chakra cost after every action. Max 30%]",
+		skill2: "Own SPD +50% and grant 'Resolution' and 'Concentration' state.  [Resolution: ATK, DEF and SPD +30%, recover 5% HP and Chakra when attacked] [Concentration: Reduce chakra cost after every action. Max 30%]",
 
 		ability1name: "Prepared Father",
 		ability1: "Maximum HP +70%, Reduce the effect of Debuff by half",
@@ -6197,14 +6197,14 @@ window.detail = {
 		skill1type: "Sealing",
 		skill1speed: "Normal",
 		skill1cost: "90",
-		skill1: "Deal 10,000 Fixed Damage to one enemy with a High Chance to place them under \"Reaper\" state.  Reduce own HP by 40% after using this skill. [Reaper: Reaper stacks doing different effect based on the number of stacks [1] SPD -20% [2] Can't use skills [3] Reduce HP to 0",
+		skill1: "Deal 10,000 Fixed Damage to one enemy with a High Chance to place them under 'Reaper' state.  Reduce own HP by 40% after using this skill. [Reaper: Reaper stacks doing different effect based on the number of stacks [1] SPD -20% [2] Can't use skills [3] Reduce HP to 0",
 
 		skill2name: "I Will Do It For The Sake Of This Child!",
 		skill2ogname: "この子の為にやるんだ！",
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "50",
-		skill2: "Own SPD +100% and grant \"Resolution\" and \"Concentration\" state.  [Resolution: ATK, DEF and SPD +40%, recover 10% HP and Chakra when attacked] [Concentration: Reduce chakra cost after every action. Max 50%]",
+		skill2: "Own SPD +100% and grant 'Resolution' and 'Concentration' state.  [Resolution: ATK, DEF and SPD +40%, recover 10% HP and Chakra when attacked] [Concentration: Reduce chakra cost after every action. Max 50%]",
 
 		ability1name: "Prepared Father",
 		ability1: "Maximum HP +100%, Immune to Debuff",
@@ -6229,7 +6229,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Normal",
 		skill2cost: "80",
-		skill2: "Recover own HP by a large amount, reduce incoming Skill damage and protect all her allies. Grant \"Love\" state to \"Naruto Uzumaki\" and \"Minato Namikaze\" [Love: ATK, SPD and Skill Damage +70%, and reduce incoming Skill damage",
+		skill2: "Recover own HP by a large amount, reduce incoming Skill damage and protect all her allies. Grant 'Love' state to 'Naruto Uzumaki' and 'Minato Namikaze' [Love: ATK, SPD and Skill Damage +70%, and reduce incoming Skill damage",
 
 		ability1name: "Pull",
 		ability1: "Skill Damage +100% when HP is above 80%",
@@ -6254,7 +6254,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "80",
-		skill2: "Recover own HP by a tremendous amount, reduce incoming Skill damage by half and protect all her allies. Grant \"Love\" state to \"Naruto Uzumaki\" and \"Minato Namikaze\" [Love: ATK, SPD and Skill Damage +100%, and reduce incoming Skill damage",
+		skill2: "Recover own HP by a tremendous amount, reduce incoming Skill damage by half and protect all her allies. Grant 'Love' state to 'Naruto Uzumaki' and 'Minato Namikaze' [Love: ATK, SPD and Skill Damage +100%, and reduce incoming Skill damage",
 
 		ability1name: "Pull",
 		ability1: "Skill Damage +150% when HP is above 50%",
@@ -6272,14 +6272,14 @@ window.detail = {
 		skill1type: "Sage",
 		skill1speed: "Normal",
 		skill1cost: "90",
-		skill1: "Deal 7% + 7,610 to one enemy.  Deal 2x more damage while under \"Sage Chakra Concentration\" [Always Hits]",
+		skill1: "Deal 7% + 7,610 to one enemy.  Deal 2x more damage while under 'Sage Chakra Concentration' [Always Hits]",
 
 		skill2name: "Here!",
 		skill2ogname: "ここだァー！",
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "80",
-		skill2: "Own ATK, and SPD +100% and grant \"Sage Chakra Concentration\" [Sage Chakra Concentration: ATK, DEF, SPD and Skill Damage +100%, Chakra Cost -30%.  Once the state expire, set Chakra to 0]",
+		skill2: "Own ATK, and SPD +100% and grant 'Sage Chakra Concentration' [Sage Chakra Concentration: ATK, DEF, SPD and Skill Damage +100%, Chakra Cost -30%.  Once the state expire, set Chakra to 0]",
 
 		ability1name: "Conscious of Love",
 		ability1: "Maximum HP +90%, Chance to Dodge Skills",
@@ -6297,14 +6297,14 @@ window.detail = {
 		skill1type: "Sage",
 		skill1speed: "Fast",
 		skill1cost: "80",
-		skill1: "Deal 7% + 7,610 to one enemy.  Deal 5x more damage while under \"Sage Chakra Concentration\" [Always Hits]",
+		skill1: "Deal 7% + 7,610 to one enemy.  Deal 5x more damage while under 'Sage Chakra Concentration' [Always Hits]",
 
 		skill2name: "Here!",
 		skill2ogname: "ここだァー！",
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "60",
-		skill2: "Own ATK, and SPD +120%, Cast Speed +2 and grant \"Sage Chakra Concentration\" [Sage Chakra Concentration: ATK, DEF, SPD and Skill Damage +150%, Chakra Cost -50%.  Once the state expire, set Chakra to 0]",
+		skill2: "Own ATK, and SPD +120%, Cast Speed +2 and grant 'Sage Chakra Concentration' [Sage Chakra Concentration: ATK, DEF, SPD and Skill Damage +150%, Chakra Cost -50%.  Once the state expire, set Chakra to 0]",
 
 		ability1name: "Conscious of Love",
 		ability1: "Maximum HP and ATK +90%, Chance to Dodge Skills",
@@ -6379,7 +6379,7 @@ window.detail = {
 		skill2type: "None",
 		skill2speed: "Fast",
 		skill2cost: "50",
-		skill2: "Recover own HP by a tremendous amount. Next Skill Chakra Cost becomes 0 and grant a High Chance to Dodge Skills to ally \"Naruto Uzumaki\"",
+		skill2: "Recover own HP by a tremendous amount. Next Skill Chakra Cost becomes 0 and grant a High Chance to Dodge Skills to ally 'Naruto Uzumaki'",
 
 		ability1name: "Lonely Childhood",
 		ability1: "Skill Damage +100% when HP is above 80%",
@@ -6404,7 +6404,7 @@ window.detail = {
 		skill2type: "None",
 		skill2speed: "Fast",
 		skill2cost: "50",
-		skill2: "Recover own HP by a tremendous amount. Next Skill Chakra Cost becomes 0 and grant a High Chance to Dodge Skills to ally \"Naruto Uzumaki\"",
+		skill2: "Recover own HP by a tremendous amount. Next Skill Chakra Cost becomes 0 and grant a High Chance to Dodge Skills to ally 'Naruto Uzumaki'",
 
 		ability1name: "Lonely Childhood",
 		ability1: "Skill Damage +100% when HP is above 80%",
@@ -6472,14 +6472,14 @@ window.detail = {
 		skill1type: "Six Paths",
 		skill1speed: "Normal",
 		skill1cost: "100",
-		skill1: "Deal 7% + 50,000 to one enemy, with a Chance to put the enemy under \"Seal\" Deal 4x more damage to enemies under \"Seal\" state.  Deal 1.5x more damage to None enemies (Max 6x) [Seal: Action is disabled and Continues to take damage]",
+		skill1: "Deal 7% + 50,000 to one enemy, with a Chance to put the enemy under 'Seal' Deal 4x more damage to enemies under 'Seal' state.  Deal 1.5x more damage to None enemies (Max 6x) [Seal: Action is disabled and Continues to take damage]",
 
 		skill2name: "Alright!!!",
 		skill2ogname: "よっしゃー！！！",
 		skill2type: "None",
 		skill2speed: "Fastest",
 		skill2cost: "80",
-		skill2: "Own SPD +120%. Additional effect depending on alive allies, Skill Damage +100% when \"Sasuke Uchiha\" is in the team, recover 50% HP when \"Sakura Haruno\" is in the team, +3 Cast Speed when \"Kakashi Hatake\" is in the team",
+		skill2: "Own SPD +120%. Additional effect depending on alive allies, Skill Damage +100% when 'Sasuke Uchiha' is in the team, recover 50% HP when 'Sakura Haruno' is in the team, +3 Cast Speed when 'Kakashi Hatake' is in the team",
 
 		ability1name: "Power of the Six Paths: Yang",
 		ability1: "Maximum Chakra +100, Skill Damage +100",
@@ -6497,14 +6497,14 @@ window.detail = {
 		skill1type: "Six Paths",
 		skill1speed: "Normal",
 		skill1cost: "100",
-		skill1: "Deal 7% + 50,000 to one enemy, with a Chance to put the enemy under \"Seal\" Deal 4x more damage to enemies under \"Seal\" state.  Deal 1.5x more damage to None enemies (Max 6x) [Seal: Action is disabled and Continues to take damage]",
+		skill1: "Deal 7% + 50,000 to one enemy, with a Chance to put the enemy under 'Seal' Deal 4x more damage to enemies under 'Seal' state.  Deal 1.5x more damage to None enemies (Max 6x) [Seal: Action is disabled and Continues to take damage]",
 
 		skill2name: "Alright!!!",
 		skill2ogname: "よっしゃー！！！",
 		skill2type: "None",
 		skill2speed: "Fastest",
 		skill2cost: "80",
-		skill2: "Own SPD +120%. Additional effect depending on alive allies, Skill Damage +100% when \"Sasuke Uchiha\" is in the team, recover 50% HP when \"Sakura Haruno\" is in the team, +3 Cast Speed when \"Kakashi Hatake\" is in the team",
+		skill2: "Own SPD +120%. Additional effect depending on alive allies, Skill Damage +100% when 'Sasuke Uchiha' is in the team, recover 50% HP when 'Sakura Haruno' is in the team, +3 Cast Speed when 'Kakashi Hatake' is in the team",
 
 		ability1name: "Power of the Six Paths: Yang",
 		ability1: "Maximum Chakra +100, Skill Damage +100",
@@ -6522,14 +6522,14 @@ window.detail = {
 		skill1type: "Six Paths",
 		skill1speed: "Normal",
 		skill1cost: "100",
-		skill1: "Deal 7% + 50,000 to one enemy, with a Chance to put the enemy under \"Seal\" Deal 4x more damage to enemies under \"Seal\" state.  Deal 1.5x more damage to None enemies (Max 6x) [Seal: Action is disabled and Continues to take damage]",
+		skill1: "Deal 7% + 50,000 to one enemy, with a Chance to put the enemy under 'Seal' Deal 4x more damage to enemies under 'Seal' state.  Deal 1.5x more damage to None enemies (Max 6x) [Seal: Action is disabled and Continues to take damage]",
 
 		skill2name: "Now!!",
 		skill2ogname: "今だ！！",
 		skill2type: "None",
 		skill2speed: "Fastest",
 		skill2cost: "80",
-		skill2: "Own ATK +100%. Additional effect depending on alive allies, Skill Damage +100% when \"Naruto Uzumaki\" is in the team, recover 50% HP when \"Sakura Haruno\" is in the team, +3 Cast Speed when \"Kakashi Hatake\" is in the team",
+		skill2: "Own ATK +100%. Additional effect depending on alive allies, Skill Damage +100% when 'Naruto Uzumaki' is in the team, recover 50% HP when 'Sakura Haruno' is in the team, +3 Cast Speed when 'Kakashi Hatake' is in the team",
 
 		ability1name: "Power of the Six Paths: Yin",
 		ability1: "Maximum Chakra +100, Skill Damage +100",
@@ -6547,14 +6547,14 @@ window.detail = {
 		skill1type: "Six Paths",
 		skill1speed: "Normal",
 		skill1cost: "100",
-		skill1: "Deal 7% + 50,000 to one enemy, with a Chance to put the enemy under \"Seal\" Deal 4x more damage to enemies under \"Seal\" state.  Deal 1.5x more damage to None enemies (Max 6x) [Seal: Action is disabled and Continues to take damage]",
+		skill1: "Deal 7% + 50,000 to one enemy, with a Chance to put the enemy under 'Seal' Deal 4x more damage to enemies under 'Seal' state.  Deal 1.5x more damage to None enemies (Max 6x) [Seal: Action is disabled and Continues to take damage]",
 
 		skill2name: "Now!!",
 		skill2ogname: "今だ！！",
 		skill2type: "None",
 		skill2speed: "Fastest",
 		skill2cost: "80",
-		skill2: "Own ATK +100%. Additional effect depending on alive allies, Skill Damage +100% when \"Naruto Uzumaki\" is in the team, recover 50% HP when \"Sakura Haruno\" is in the team, +3 Cast Speed when \"Kakashi Hatake\" is in the team",
+		skill2: "Own ATK +100%. Additional effect depending on alive allies, Skill Damage +100% when 'Naruto Uzumaki' is in the team, recover 50% HP when 'Sakura Haruno' is in the team, +3 Cast Speed when 'Kakashi Hatake' is in the team",
 
 		ability1name: "Power of the Six Paths: Yin",
 		ability1: "Maximum Chakra +100, Skill Damage +100",
@@ -6572,7 +6572,7 @@ window.detail = {
 		skill1type: "Taijutsu",
 		skill1speed: "Fast",
 		skill1cost: "70",
-		skill1: "Deal 7% + 20,000 to one enemy. Deal 3x more damage when theres and ally \"Sasuke Uchiha\" or \"Naruto Uzumaki\". High Chance to set the enemies Skill Dodge rate to 0",
+		skill1: "Deal 7% + 20,000 to one enemy. Deal 3x more damage when theres and ally 'Sasuke Uchiha' or 'Naruto Uzumaki'. High Chance to set the enemies Skill Dodge rate to 0",
 
 		skill2name: "Don't Forget About Me",
 		skill2ogname: "私だっているんだ！",
@@ -6597,7 +6597,7 @@ window.detail = {
 		skill1type: "Taijutsu",
 		skill1speed: "Fast",
 		skill1cost: "70",
-		skill1: "Deal 7% + 20,000 to one enemy. Deal 3x more damage when theres and ally \"Sasuke Uchiha\" or \"Naruto Uzumaki\". High Chance to set the enemies Skill Dodge rate to 0",
+		skill1: "Deal 7% + 20,000 to one enemy. Deal 3x more damage when theres and ally 'Sasuke Uchiha' or 'Naruto Uzumaki'. High Chance to set the enemies Skill Dodge rate to 0",
 
 		skill2name: "Don't Forget About Me",
 		skill2ogname: "私だっているんだ！",
@@ -6622,14 +6622,14 @@ window.detail = {
 		skill1type: "Sharingan",
 		skill1speed: "Fast",
 		skill1cost: "80",
-		skill1: "Deal 7,000 Fixed Damage to one enemy.  Deal 2x more damage when one of the ally is \"Naruto Uzumaki\". Deal 2x more damage when one of the ally is \"Sasuke Uchiha\". Deal 2x more damage when one of the ally is \"Sakura Haruno\" (Max 8x)",
+		skill1: "Deal 7,000 Fixed Damage to one enemy.  Deal 2x more damage when one of the ally is 'Naruto Uzumaki'. Deal 2x more damage when one of the ally is 'Sasuke Uchiha'. Deal 2x more damage when one of the ally is 'Sakura Haruno' (Max 8x)",
 
 		skill2name: "A Nice Picture",
 		skill2ogname: "うん…いい画だ",
 		skill2type: "None",
 		skill2speed: "Normal",
 		skill2cost: "80",
-		skill2: "Own SPD +50%.  Chakra Cost -50% to ally \"Naruto Uzumaki\", \"Sasuke Uchiha\", \"Sakura Haruno\"",
+		skill2: "Own SPD +50%.  Chakra Cost -50% to ally 'Naruto Uzumaki', 'Sasuke Uchiha', 'Sakura Haruno'",
 
 		ability1name: "Witnessing Hope",
 		ability1: "SPD +20% after every action (Max 60%)",
@@ -6647,14 +6647,14 @@ window.detail = {
 		skill1type: "Sharingan",
 		skill1speed: "Fast",
 		skill1cost: "70",
-		skill1: "Deal 12,000 Fixed Damage to one enemy.  Deal 2x more damage when one of the ally is \"Naruto Uzumaki\". Deal 2x more damage when one of the ally is \"Sasuke Uchiha\". Deal 2x more damage when one of the ally is \"Sakura Haruno\" (Max 8x)",
+		skill1: "Deal 12,000 Fixed Damage to one enemy.  Deal 2x more damage when one of the ally is 'Naruto Uzumaki'. Deal 2x more damage when one of the ally is 'Sasuke Uchiha'. Deal 2x more damage when one of the ally is 'Sakura Haruno' (Max 8x)",
 
 		skill2name: "A Nice Picture",
 		skill2ogname: "うん…いい画だ",
 		skill2type: "None",
 		skill2speed: "Fast",
 		skill2cost: "80",
-		skill2: "Own SPD +100%.  Chakra Cost -90% to ally \"Naruto Uzumaki\", \"Sasuke Uchiha\", \"Sakura Haruno\"",
+		skill2: "Own SPD +100%.  Chakra Cost -90% to ally 'Naruto Uzumaki', 'Sasuke Uchiha', 'Sakura Haruno'",
 
 		ability1name: "Witnessing Hope",
 		ability1: "SPD +20% after every action (Max 100%)",
@@ -6774,12 +6774,12 @@ window.detail = {
 		skill1cost: "80",
 		skill1: "Deal 50x ATK damage to all enemies ignoring 30% DEF. Deal 3x more damage to Uchiha characters. (Max 150x)",
 
-		skill2name: "\"Depressed Sound Effect\"",
+		skill2name: "'Depressed Sound Effect'",
 		skill2ogname: "ズーン...",
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "70",
-		skill2: "Own SPD +100% and Chakra Cost becomes 0 and grant \"Previous Hokage\" state to ally \"Hashirama Senju\", \"Tobirama Senju\", \"Hiruzen Sarutobi\" and \"Minato Namikaze\" [Previous Hokage: ATK, SPD and Skill Damage +200%, reduce all incoming Skill damage by half]",
+		skill2: "Own SPD +100% and Chakra Cost becomes 0 and grant 'Previous Hokage' state to ally 'Hashirama Senju', 'Tobirama Senju', 'Hiruzen Sarutobi' and 'Minato Namikaze' [Previous Hokage: ATK, SPD and Skill Damage +200%, reduce all incoming Skill damage by half]",
 
 		ability1name: "Depressed Habit",
 		ability1: "Immune to Status Effects, High Chance to recover 40% Chakra after every action",
@@ -6799,12 +6799,12 @@ window.detail = {
 		skill1cost: "80",
 		skill1: "Deal 50x ATK damage to all enemies ignoring 30% DEF. Deal 3x more damage to Uchiha characters. (Max 150x)",
 
-		skill2name: "\"Depressed Sound Effect\"",
+		skill2name: "'Depressed Sound Effect'",
 		skill2ogname: "ズーン...",
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "70",
-		skill2: "Own SPD +100% and Chakra Cost becomes 0 and grant \"Previous Hokage\" state to ally \"Hashirama Senju\", \"Tobirama Senju\", \"Hiruzen Sarutobi\" and \"Minato Namikaze\" [Previous Hokage: ATK, SPD and Skill Damage +200%, reduce all incoming Skill damage by half]",
+		skill2: "Own SPD +100% and Chakra Cost becomes 0 and grant 'Previous Hokage' state to ally 'Hashirama Senju', 'Tobirama Senju', 'Hiruzen Sarutobi' and 'Minato Namikaze' [Previous Hokage: ATK, SPD and Skill Damage +200%, reduce all incoming Skill damage by half]",
 
 		ability1name: "Depressed Habit",
 		ability1: "Immune to Status Effects, High Chance to recover 40% Chakra after every action",
@@ -6972,7 +6972,7 @@ window.detail = {
 		skill1type: "Wood",
 		skill1speed: "Fast",
 		skill1cost: "120",
-		skill1: "Deal 3% + 12,000 to all enemies, with a High Chance to place all the enemies under \"Flower Tree\" state, deal more damage the more HP Hashirama has (Maximmum 10x at full health).  This Skill ignore resistance to enemies under \"Flower Tree\" state and skip their action. [Flower Tree: Reduce HP every turn (Max 60%) and gradually lower ATK and DEF]",
+		skill1: "Deal 3% + 12,000 to all enemies, with a High Chance to place all the enemies under 'Flower Tree' state, deal more damage the more HP Hashirama has (Maximmum 10x at full health).  This Skill ignore resistance to enemies under 'Flower Tree' state and skip their action. [Flower Tree: Reduce HP every turn (Max 60%) and gradually lower ATK and DEF]",
 
 		skill2name: "Alright, Let's Finish This",
 		skill2ogname: "もう…終わりにしようぞ",
@@ -6997,7 +6997,7 @@ window.detail = {
 		skill1type: "Wood",
 		skill1speed: "Fast",
 		skill1cost: "120",
-		skill1: "Deal 3% + 12,000 to all enemies, with a High Chance to place all the enemies under \"Flower Tree\" state, deal more damage the more HP Hashirama has (Maximmum 10x at full health).  This Skill ignore resistance to enemies under \"Flower Tree\" state and skip their action. [Flower Tree: Reduce HP every turn (Max 60%) and gradually lower ATK and DEF]",
+		skill1: "Deal 3% + 12,000 to all enemies, with a High Chance to place all the enemies under 'Flower Tree' state, deal more damage the more HP Hashirama has (Maximmum 10x at full health).  This Skill ignore resistance to enemies under 'Flower Tree' state and skip their action. [Flower Tree: Reduce HP every turn (Max 60%) and gradually lower ATK and DEF]",
 
 		skill2name: "Alright, Let's Finish This",
 		skill2ogname: "もう…終わりにしようぞ",
@@ -7072,14 +7072,14 @@ window.detail = {
 		skill1type: "Thunder",
 		skill1speed: "Normal",
 		skill1cost: "0",
-		skill1: "Deal 7% + 100 to one enemy and consume all chakra.  Deal more damage the more chakra consumed (10x per 100). Chance to remove \"Thunder Beckon\" state to all allies",
+		skill1: "Deal 7% + 100 to one enemy and consume all chakra.  Deal more damage the more chakra consumed (10x per 100). Chance to remove 'Thunder Beckon' state to all allies",
 
 		skill2name: "Now Then... It's Time to Turn My Vision From before Into Reality",
 		skill2ogname: "さて…希望通り…再現しよう",
 		skill2type: "None",
 		skill2speed: "Fastest",
 		skill2cost: "50",
-		skill2: "Own ATK and Skill Damage +100%, Cast Speed +2. Grant \"Lightning Beckon\" state to all allies. [Lightning Beckon: Lightning Skill Damage +300% SPD +30%]",
+		skill2: "Own ATK and Skill Damage +100%, Cast Speed +2. Grant 'Lightning Beckon' state to all allies. [Lightning Beckon: Lightning Skill Damage +300% SPD +30%]",
 
 		ability1name: "Furious Hatred",
 		ability1: "ATK and DEF +20% after every action (Max 100%)",
@@ -7097,14 +7097,14 @@ window.detail = {
 		skill1type: "Thunder",
 		skill1speed: "Normal",
 		skill1cost: "0",
-		skill1: "Deal 7% + 100 to one enemy and consume all chakra.  Deal more damage the more chakra consumed (10x per 100). Chance to remove \"Thunder Beckon\" state to all allies",
+		skill1: "Deal 7% + 100 to one enemy and consume all chakra.  Deal more damage the more chakra consumed (10x per 100). Chance to remove 'Thunder Beckon' state to all allies",
 
 		skill2name: "Now Then... It's Time to Turn My Vision From before Into Reality",
 		skill2ogname: "さて…希望通り…再現しよう",
 		skill2type: "None",
 		skill2speed: "Fastest",
 		skill2cost: "50",
-		skill2: "Own ATK and Skill Damage +100%, Cast Speed +2. Grant \"Lightning Beckon\" state to all allies. [Lightning Beckon: Lightning Skill Damage +300% SPD +30%]",
+		skill2: "Own ATK and Skill Damage +100%, Cast Speed +2. Grant 'Lightning Beckon' state to all allies. [Lightning Beckon: Lightning Skill Damage +300% SPD +30%]",
 
 		ability1name: "Furious Hatred",
 		ability1: "ATK and DEF +20% after every action (Max 100%)",
@@ -7122,14 +7122,14 @@ window.detail = {
 		skill1type: "Sharingan",
 		skill1speed: "Fastest",
 		skill1cost: "80",
-		skill1: "Deal 7% + 20,000 to one enemy with a High Chance to seal, and remove all buffs and Debuffs.  Deal 7x more damage while under \"Yata Mirror\" state.",
+		skill1: "Deal 7% + 20,000 to one enemy with a High Chance to seal, and remove all buffs and Debuffs.  Deal 7x more damage while under 'Yata Mirror' state.",
 
 		skill2name: "I Will Show You My Final Card",
 		skill2ogname: "切り札を見せてやろう",
 		skill2type: "Sharingan",
 		skill2speed: "Fast",
 		skill2cost: "70",
-		skill2: "Own ATK, DEF and SPD +120% and grant \"Yata Mirror\" state. [Yata Mirror: Immune to all Skill damage except for Fixed Damage, Skill Damage +120%]",
+		skill2: "Own ATK, DEF and SPD +120% and grant 'Yata Mirror' state. [Yata Mirror: Immune to all Skill damage except for Fixed Damage, Skill Damage +120%]",
 
 		ability1name: "Understanding of the Time of Death",
 		ability1: "Skill Damage +120%, Chance to reduce HP by 15% after every action",
@@ -7147,14 +7147,14 @@ window.detail = {
 		skill1type: "Sharingan",
 		skill1speed: "Fastest",
 		skill1cost: "80",
-		skill1: "Deal 7% + 20,000 to one enemy with a High Chance to seal, and remove all buffs and Debuffs.  Deal 7x more damage while under \"Yata Mirror\" state.",
+		skill1: "Deal 7% + 20,000 to one enemy with a High Chance to seal, and remove all buffs and Debuffs.  Deal 7x more damage while under 'Yata Mirror' state.",
 
 		skill2name: "I Will Show You My Final Card",
 		skill2ogname: "切り札を見せてやろう",
 		skill2type: "Sharingan",
 		skill2speed: "Fast",
 		skill2cost: "70",
-		skill2: "Own ATK, DEF and SPD +120% and grant \"Yata Mirror\" state. [Yata Mirror: Immune to all Skill damage except for Fixed Damage, Skill Damage +120%]",
+		skill2: "Own ATK, DEF and SPD +120% and grant 'Yata Mirror' state. [Yata Mirror: Immune to all Skill damage except for Fixed Damage, Skill Damage +120%]",
 
 		ability1name: "Understanding of the Time of Death",
 		ability1: "Skill Damage +120%, Chance to reduce HP by 15% after every action",
@@ -7172,7 +7172,7 @@ window.detail = {
 		skill1type: "Fire",
 		skill1speed: "Fast",
 		skill1cost: "120",
-		skill1: "Deal 3% + 10,000 to all enemies, with a High Chance to place the enemy under \"Great Fire\" state. Deal more damage the more HP Madara has (Maximum 10x at full health). Deal 1.5x more damage to \"Hashirama Senju\". [Great Fire: Reduce HP after every action (Max 30%) remove and prevent the effects buff and Debuff (including Chakra Cost, Skill Damage, Crit Chance and Crit Damage change)]",
+		skill1: "Deal 3% + 10,000 to all enemies, with a High Chance to place the enemy under 'Great Fire' state. Deal more damage the more HP Madara has (Maximum 10x at full health). Deal 1.5x more damage to 'Hashirama Senju'. [Great Fire: Reduce HP after every action (Max 30%) remove and prevent the effects buff and Debuff (including Chakra Cost, Skill Damage, Crit Chance and Crit Damage change)]",
 
 		skill2name: "You Can't See It",
 		skill2ogname: "お前には見えないのさ",
@@ -7197,7 +7197,7 @@ window.detail = {
 		skill1type: "Fire",
 		skill1speed: "Fast",
 		skill1cost: "120",
-		skill1: "Deal 3% + 10,000 to all enemies, with a High Chance to place the enemy under \"Great Fire\" state. Deal more damage the more HP Madara has (Maximum 10x at full health). Deal 1.5x more damage to \"Hashirama Senju\". [Great Fire: Reduce HP after every action (Max 30%) remove buff and Debuff (Including resistance and chakra cost reduction)",
+		skill1: "Deal 3% + 10,000 to all enemies, with a High Chance to place the enemy under 'Great Fire' state. Deal more damage the more HP Madara has (Maximum 10x at full health). Deal 1.5x more damage to 'Hashirama Senju'. [Great Fire: Reduce HP after every action (Max 30%) remove buff and Debuff (Including resistance and chakra cost reduction)",
 
 		skill2name: "You Can't See It",
 		skill2ogname: "お前には見えないのさ",
@@ -7222,7 +7222,7 @@ window.detail = {
 		skill1type: "Fire",
 		skill1speed: "Fastest",
 		skill1cost: "75",
-		skill1: "Deal 7% + 30,000 to one enemy with a High Chance to place them under \"Inferno\" state.  Deal 4x more damage under \"Inferno\" or \"Great Fire\" state. [Inferno: Reduce HP after every action (Max 60%), becomes weak to Fire (Weakness only occurs when they are neutral to fire)]",
+		skill1: "Deal 7% + 30,000 to one enemy with a High Chance to place them under 'Inferno' state.  Deal 4x more damage under 'Inferno' or 'Great Fire' state. [Inferno: Reduce HP after every action (Max 60%), becomes weak to Fire (Weakness only occurs when they are neutral to fire)]",
 
 		skill2name: "Determination",
 		skill2ogname: "見極めてやる！",
@@ -7247,7 +7247,7 @@ window.detail = {
 		skill1type: "Fire",
 		skill1speed: "Fastest",
 		skill1cost: "75",
-		skill1: "Deal 7% + 30,000 to one enemy with a High Chance to place them under \"Inferno\" state.  Deal 4x more damage under \"Inferno\" or \"Great Fire\"state. [Inferno: Reduce HP after every action (Max 60%), becomes weak to Fire (Weakness only occurs when they are neutral to fire)]",
+		skill1: "Deal 7% + 30,000 to one enemy with a High Chance to place them under 'Inferno' state.  Deal 4x more damage under 'Inferno' or 'Great Fire'state. [Inferno: Reduce HP after every action (Max 60%), becomes weak to Fire (Weakness only occurs when they are neutral to fire)]",
 
 		skill2name: "Determination",
 		skill2ogname: "見極めてやる！",
@@ -7272,7 +7272,7 @@ window.detail = {
 		skill1type: "Magnet",
 		skill1speed: "Fast",
 		skill1cost: "80",
-		skill1: "Deal 15 hits dealing 3% + 1,000 to random enemies with a High Chance to place the enemies under \"Fatal Poison\" [Fatal Poison: Reduce HP by 5% - 60% after every action, HP reduction is random] (Always Hit)",
+		skill1: "Deal 15 hits dealing 3% + 1,000 to random enemies with a High Chance to place the enemies under 'Fatal Poison' [Fatal Poison: Reduce HP by 5% - 60% after every action, HP reduction is random] (Always Hit)",
 
 		skill2name: "Spare Me the Trouble",
 		skill2ogname: "手間かけさせんなよ",
@@ -7297,7 +7297,7 @@ window.detail = {
 		skill1type: "Magnet",
 		skill1speed: "Fast",
 		skill1cost: "80",
-		skill1: "Deal 15 hits dealing 3% + 1,000 to random enemies with a High Chance to place the enemies under \"Fatal Poison\" [Fatal Poison: Reduce HP by 5% - 60% after every action, HP reduction is random] (Always Hit)",
+		skill1: "Deal 15 hits dealing 3% + 1,000 to random enemies with a High Chance to place the enemies under 'Fatal Poison' [Fatal Poison: Reduce HP by 5% - 60% after every action, HP reduction is random] (Always Hit)",
 
 		skill2name: "Spare Me the Trouble",
 		skill2ogname: "手間かけさせんなよ",
@@ -7322,14 +7322,14 @@ window.detail = {
 		skill1type: "Summoning",
 		skill1speed: "Fast",
 		skill1cost: "60",
-		skill1: "Deal 3% + 30,000 to one enemy with a High Chance to Cancel the enemies \"Sage Mode\" and \"Sage Chakra Concentration\". Deal 5x more damage to enemies with their ATK, DEF and/or SPD buffed",
+		skill1: "Deal 3% + 30,000 to one enemy with a High Chance to Cancel the enemies 'Sage Mode' and 'Sage Chakra Concentration'. Deal 5x more damage to enemies with their ATK, DEF and/or SPD buffed",
 
 		skill2name: "108 Desired Soul",
 		skill2ogname: "煩悩百八魂",
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "20",
-		skill2: "Own ATK +200% and Crit Chance and Crit Damage +5,000%. Grant \"Concentration\" state and has a low Chance to Confuse himself. [Concentration: Chakra Cost is reduced every turn. Max 70%]",
+		skill2: "Own ATK +200% and Crit Chance and Crit Damage +5,000%. Grant 'Concentration' state and has a low Chance to Confuse himself. [Concentration: Chakra Cost is reduced every turn. Max 70%]",
 
 		ability1name: "Unmatched Lust",
 		ability1: "Maximum HP and Skill Damage +100%, Chance to Dodge Skills",
@@ -7347,14 +7347,14 @@ window.detail = {
 		skill1type: "Summoning",
 		skill1speed: "Fast",
 		skill1cost: "60",
-		skill1: "Deal 3% + 30,000 to one enemy with a High Chance to Cancel the enemies \"Sage Mode\" and \"Sage Chakra Concentration\". Deal 5x more damage to enemies with their ATK, DEF and/or SPD buffed",
+		skill1: "Deal 3% + 30,000 to one enemy with a High Chance to Cancel the enemies 'Sage Mode' and 'Sage Chakra Concentration'. Deal 5x more damage to enemies with their ATK, DEF and/or SPD buffed",
 
 		skill2name: "108 Desired Soul",
 		skill2ogname: "煩悩百八魂",
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "20",
-		skill2: "Own ATK +200% and Crit Chance and Crit Damage +5,000%. Grant \"Concentration\" state and has a low Chance to Confuse himself. [Concentration: Chakra Cost is reduced every turn. Max 70%]",
+		skill2: "Own ATK +200% and Crit Chance and Crit Damage +5,000%. Grant 'Concentration' state and has a low Chance to Confuse himself. [Concentration: Chakra Cost is reduced every turn. Max 70%]",
 
 		ability1name: "Unmatched Lust",
 		ability1: "Maximum HP and Skill Damage +100%, Chance to Dodge Skills",
@@ -7372,7 +7372,7 @@ window.detail = {
 		skill1type: "Summoning",
 		skill1speed: "Fast",
 		skill1cost: "70",
-		skill1: "Deal 3% + 8,000 to all enemies with a Chance to place the enemies under \"Smoke\" state. Recover 20% HP to all allies and deal 4x more damage to enemies under \"Smoke\" state. [Smoke: ATK and DEF -10%]",
+		skill1: "Deal 3% + 8,000 to all enemies with a Chance to place the enemies under 'Smoke' state. Recover 20% HP to all allies and deal 4x more damage to enemies under 'Smoke' state. [Smoke: ATK and DEF -10%]",
 
 		skill2name: "A Cup",
 		skill2ogname: "くいっと一杯！",
@@ -7397,7 +7397,7 @@ window.detail = {
 		skill1type: "Summoning",
 		skill1speed: "Fast",
 		skill1cost: "60",
-		skill1: "Deal 3% + 15,000 to all enemies with a High Chance to place the enemies under \"Smoke\" state. Recover 40% HP to all allies and deal 8x more damage to enemies under \"Smoke\" state. [Smoke: ATK and DEF -20%]",
+		skill1: "Deal 3% + 15,000 to all enemies with a High Chance to place the enemies under 'Smoke' state. Recover 40% HP to all allies and deal 8x more damage to enemies under 'Smoke' state. [Smoke: ATK and DEF -20%]",
 
 		skill2name: "A Cup",
 		skill2ogname: "くいっと一杯！",
@@ -7422,14 +7422,14 @@ window.detail = {
 		skill1type: "Genjutsu",
 		skill1speed: "Fast",
 		skill1cost: "70",
-		skill1: "Deal 3% + 8,000 to one enemy with a Chance to charm.  Deal 3x more damage while under \"Steam\" state",
+		skill1: "Deal 3% + 8,000 to one enemy with a Chance to charm.  Deal 3x more damage while under 'Steam' state",
 
 		skill2name: "Great Water Temperature",
 		skill2ogname: "イイ湯加減ね",
 		skill2type: "Unique",
 		skill2speed: "Normal",
 		skill2cost: "60",
-		skill2: "Recover all allies HP by a large amount and place them under \"Steam\" state. [Steam: Recover 5% HP when attacked]",
+		skill2: "Recover all allies HP by a large amount and place them under 'Steam' state. [Steam: Recover 5% HP when attacked]",
 
 		ability1name: "Blanket Full of Elegant Experience",
 		ability1: "For 5 turns, incoming Skill Damage are halved",
@@ -7447,14 +7447,14 @@ window.detail = {
 		skill1type: "Genjutsu",
 		skill1speed: "Fastest",
 		skill1cost: "60",
-		skill1: "Deal 3% + 15,000 to one enemy with a High Chance to charm.  Deal 6x more damage while under \"Steam\" state",
+		skill1: "Deal 3% + 15,000 to one enemy with a High Chance to charm.  Deal 6x more damage while under 'Steam' state",
 
 		skill2name: "Great Water Temperature",
 		skill2ogname: "イイ湯加減ね",
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "60",
-		skill2: "Recover all allies HP by a tremendous amount and place them under \"Steam\" state. [Steam: Recover 10% HP when attacked]",
+		skill2: "Recover all allies HP by a tremendous amount and place them under 'Steam' state. [Steam: Recover 10% HP when attacked]",
 
 		ability1name: "Blanket Full of Elegant Experience",
 		ability1: "For 10 turns, incoming Skill Damage are halved",
@@ -7472,14 +7472,14 @@ window.detail = {
 		skill1type: "Scorch",
 		skill1speed: "Fast",
 		skill1cost: "90",
-		skill1: "Deal 40 hits dealing 3% + 10 per hit to random enemies, with a High Chance to place them under \"Black Flames\" state. Deal 1.5x more damage if the enemy is Neutral to \"Wind\" and/or \"Inferno.\" [Black Flames: Continues to lose HP, ATK and SPD -20%]",
+		skill1: "Deal 40 hits dealing 3% + 10 per hit to random enemies, with a High Chance to place them under 'Black Flames' state. Deal 1.5x more damage if the enemy is Neutral to 'Wind' and/or 'Inferno.' [Black Flames: Continues to lose HP, ATK and SPD -20%]",
 
 		skill2name: "Don't Be Late",
 		skill2ogname: "遅れるんじゃねェぞ",
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "100",
-		skill2: "Own ATK and SPD +100%, grant ally Sasuke \"Gust\" state. [Gust: SPD and Skill Damage +100%]",
+		skill2: "Own ATK and SPD +100%, grant ally Sasuke 'Gust' state. [Gust: SPD and Skill Damage +100%]",
 
 		ability1name: "Rival Link (Wind)",
 		ability1: "ATK, DEF and SPD +30% for every Konoha ally",
@@ -7497,14 +7497,14 @@ window.detail = {
 		skill1type: "Scorch",
 		skill1speed: "Fast",
 		skill1cost: "90",
-		skill1: "Deal 40 hits dealing 3% + 10 per hit to random enemies, with a High Chance to place them under \"Black Flames\" state. Deal 1.5x more damage if the enemy is Neutral to \"Wind\" and/or \"Inferno.\" [Black Flames: Continues to lose HP, ATK and SPD -20%]",
+		skill1: "Deal 40 hits dealing 3% + 10 per hit to random enemies, with a High Chance to place them under 'Black Flames' state. Deal 1.5x more damage if the enemy is Neutral to 'Wind' and/or 'Inferno.' [Black Flames: Continues to lose HP, ATK and SPD -20%]",
 
 		skill2name: "Don't Be Late",
 		skill2ogname: "遅れるんじゃねェぞ",
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "100",
-		skill2: "Own ATK and SPD +100%, grant ally Sasuke \"Gust\" state. [Gust: SPD and Skill Damage +100%]",
+		skill2: "Own ATK and SPD +100%, grant ally Sasuke 'Gust' state. [Gust: SPD and Skill Damage +100%]",
 
 		ability1name: "Rival Link (Wind)",
 		ability1: "ATK, DEF and SPD +30% for every Konoha ally",
@@ -7522,14 +7522,14 @@ window.detail = {
 		skill1type: "Scorch",
 		skill1speed: "Fast",
 		skill1cost: "90",
-		skill1: "Deal 40 hits dealing 3% + 10 per hit to random enemies, with a High Chance to place them under \"Black Flames\" state. Deal 1.5x more damage if the enemy is Neutral to \"Wind\" and/or \"Inferno.\" [Black Flames: Continues to lose HP, ATK and SPD -20%]",
+		skill1: "Deal 40 hits dealing 3% + 10 per hit to random enemies, with a High Chance to place them under 'Black Flames' state. Deal 1.5x more damage if the enemy is Neutral to 'Wind' and/or 'Inferno.' [Black Flames: Continues to lose HP, ATK and SPD -20%]",
 
 		skill2name: "We Will Do It Together",
 		skill2ogname: "合わせてやるよ",
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "100",
-		skill2: "Recovery a large amount of HP and ATK +100%, grant ally \"Naruto Uzumaki\" \"Battle\" state. [Gust: Skill Damage +100%]",
+		skill2: "Recovery a large amount of HP and ATK +100%, grant ally 'Naruto Uzumaki' 'Battle' state. [Gust: Skill Damage +100%]",
 
 		ability1name: "Rival Link (Fire)",
 		ability1: "ATK, DEF and SPD +30% for every Konoha ally",
@@ -7547,14 +7547,14 @@ window.detail = {
 		skill1type: "Scorch",
 		skill1speed: "Fast",
 		skill1cost: "90",
-		skill1: "Deal 40 hits dealing 3% + 10 per hit to random enemies, with a High Chance to place them under \"Black Flames\" state. Deal 1.5x more damage if the enemy is Neutral to \"Wind\" and/or \"Inferno.\" [Black Flames: Continues to lose HP, ATK and SPD -20%]",
+		skill1: "Deal 40 hits dealing 3% + 10 per hit to random enemies, with a High Chance to place them under 'Black Flames' state. Deal 1.5x more damage if the enemy is Neutral to 'Wind' and/or 'Inferno.' [Black Flames: Continues to lose HP, ATK and SPD -20%]",
 
 		skill2name: "We Will Do It Together",
 		skill2ogname: "合わせてやるよ",
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "100",
-		skill2: "Recovery a large amount of HP and ATK +100%, grant ally \"Naruto Uzumaki\" \"Battle\" state. [Gust: Skill Damage +100%]",
+		skill2: "Recovery a large amount of HP and ATK +100%, grant ally 'Naruto Uzumaki' 'Battle' state. [Gust: Skill Damage +100%]",
 
 		ability1name: "Rival Link (Fire)",
 		ability1: "ATK, DEF and SPD +30% for every Konoha ally",
@@ -7572,14 +7572,14 @@ window.detail = {
 		skill1type: "None",
 		skill1speed: "Fastest",
 		skill1cost: "50",
-		skill1: "Deal 7% + 20,000 to one enemy, with a High Chance to place them under \"Decapitation\", and increase ATK by 200%. When attacking an enemy under \"Decapitation\" state, boost own Skill Damage by 500%. [Decapitation: Cast Speed -1, Skill Damage -30%]",
+		skill1: "Deal 7% + 20,000 to one enemy, with a High Chance to place them under 'Decapitation', and increase ATK by 200%. When attacking an enemy under 'Decapitation' state, boost own Skill Damage by 500%. [Decapitation: Cast Speed -1, Skill Damage -30%]",
 
 		skill2name: "I Will Protect This Place",
 		skill2ogname: "ボクがお守りしなきゃ",
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "80",
-		skill2: "Own DEF +500% and protect all of his allies. Grant ally \"Mei Terumi\" \"Love\" state. [Love: ATK, SPD and Skill Damage +100%, reduce incoming damage]",
+		skill2: "Own DEF +500% and protect all of his allies. Grant ally 'Mei Terumi' 'Love' state. [Love: ATK, SPD and Skill Damage +100%, reduce incoming damage]",
 
 		ability1name: "Carrier of the Great Twin Blade",
 		ability1: "Maximum HP and Skill Damage +90%",
@@ -7597,14 +7597,14 @@ window.detail = {
 		skill1type: "None",
 		skill1speed: "Fastest",
 		skill1cost: "50",
-		skill1: "Deal 7% + 20,000 to one enemy, with a High Chance to place them under \"Decapitation\", and increase ATK by 200%. When attacking an enemy under \"Decapitation\" state, boost own Skill Damage by 500%. [Decapitation: Cast Speed -1, Skill Damage -30%]",
+		skill1: "Deal 7% + 20,000 to one enemy, with a High Chance to place them under 'Decapitation', and increase ATK by 200%. When attacking an enemy under 'Decapitation' state, boost own Skill Damage by 500%. [Decapitation: Cast Speed -1, Skill Damage -30%]",
 
 		skill2name: "I Will Protect This Place",
 		skill2ogname: "ボクがお守りしなきゃ",
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "80",
-		skill2: "Own DEF +500% and protect all of his allies. Grant ally \"Mei Terumi\" \"Love\" state. [Love: ATK, SPD and Skill Damage +100%, reduce incoming damage]",
+		skill2: "Own DEF +500% and protect all of his allies. Grant ally 'Mei Terumi' 'Love' state. [Love: ATK, SPD and Skill Damage +100%, reduce incoming damage]",
 
 		ability1name: "Carrier of the Great Twin Blade",
 		ability1: "Maximum HP and Skill Damage +90%",
@@ -7622,14 +7622,14 @@ window.detail = {
 		skill1type: "Taijutsu",
 		skill1speed: "Fast",
 		skill1cost: "80",
-		skill1: "Deal 40x ATK damage ignoring 50% DEF. Deal 3x more damage while under \"Open\" state. (Max 120x)",
+		skill1: "Deal 40x ATK damage ignoring 50% DEF. Deal 3x more damage while under 'Open' state. (Max 120x)",
 
 		skill2name: "Sixth Gate: Gate of Joy, Open",
 		skill2ogname: "第六景門・開",
 		skill2type: "Taijutsu",
 		skill2speed: "Fast",
 		skill2cost: "60",
-		skill2: "Normal Attack Dodge Rate +200%, grant a Medium Chance to Dodge Skills, \"Open\" and \"Fist\" state. [Open: ATK +200%] [Fist: Normal Attack always Crit and increase damage. Recover 15% HP when attacked]",
+		skill2: "Normal Attack Dodge Rate +200%, grant a Medium Chance to Dodge Skills, 'Open' and 'Fist' state. [Open: ATK +200%] [Fist: Normal Attack always Crit and increase damage. Recover 15% HP when attacked]",
 
 		ability1name: "Hot-Blooded Teacher of the Youth",
 		ability1: "ATK and Skill Damage +120% when HP is above 50%",
@@ -7647,14 +7647,14 @@ window.detail = {
 		skill1type: "Taijutsu",
 		skill1speed: "Fast",
 		skill1cost: "80",
-		skill1: "Deal 40x ATK damage ignoring 50% DEF. Deal 3x more damage while under \"Open\" state. (Max 120x)",
+		skill1: "Deal 40x ATK damage ignoring 50% DEF. Deal 3x more damage while under 'Open' state. (Max 120x)",
 
 		skill2name: "Sixth Gate: Gate of Joy, Open",
 		skill2ogname: "第六景門・開",
 		skill2type: "Taijutsu",
 		skill2speed: "Fast",
 		skill2cost: "60",
-		skill2: "Normal Attack Dodge Rate +200%, grant a Medium Chance to Dodge Skills, \"Open\" and \"Fist\" state. [Open: ATK +200%] [Fist: Normal Attack always Crit and increase damage. Recover 15% HP when attacked]",
+		skill2: "Normal Attack Dodge Rate +200%, grant a Medium Chance to Dodge Skills, 'Open' and 'Fist' state. [Open: ATK +200%] [Fist: Normal Attack always Crit and increase damage. Recover 15% HP when attacked]",
 
 		ability1name: "Hot-Blooded Teacher of the Youth",
 		ability1: "ATK and Skill Damage +120% when HP is above 50%",
@@ -7672,14 +7672,14 @@ window.detail = {
 		skill1type: "Taijutsu",
 		skill1speed: "Fastest",
 		skill1cost: "0",
-		skill1: "Deal 4x ATK damage ignoring 30% DEF. Deal 25x more damage while under \"Open\" state. (Max 100x) Reduce own HP by 50% afterwards",
+		skill1: "Deal 4x ATK damage ignoring 30% DEF. Deal 25x more damage while under 'Open' state. (Max 100x) Reduce own HP by 50% afterwards",
 
 		skill2name: "Not Enough Practice",
 		skill2ogname: "修業が足りませんね",
 		skill2type: "Taijutsu",
 		skill2speed: "Fastest",
 		skill2cost: "50",
-		skill2: "Own ATK, SPD and Skill Damage +250% and grant \"Open\" state. [Open: ATK +250%]",
+		skill2: "Own ATK, SPD and Skill Damage +250% and grant 'Open' state. [Open: ATK +250%]",
 
 		ability1name: "Mastered Limit",
 		ability1: "ATK and Skill Damage +100%",
@@ -7697,14 +7697,14 @@ window.detail = {
 		skill1type: "Taijutsu",
 		skill1speed: "Fastest",
 		skill1cost: "0",
-		skill1: "Deal 4x ATK damage ignoring 30% DEF. Deal 25x more damage while under \"Open\" state. (Max 100x) Reduce own HP by 50% afterwards",
+		skill1: "Deal 4x ATK damage ignoring 30% DEF. Deal 25x more damage while under 'Open' state. (Max 100x) Reduce own HP by 50% afterwards",
 
 		skill2name: "Not Enough Practice",
 		skill2ogname: "修業が足りませんね",
 		skill2type: "Taijutsu",
 		skill2speed: "Fastest",
 		skill2cost: "50",
-		skill2: "Own ATK, SPD and Skill Damage +250% and grant \"Open\" state. [Open: ATK +250%]",
+		skill2: "Own ATK, SPD and Skill Damage +250% and grant 'Open' state. [Open: ATK +250%]",
 
 		ability1name: "Mastered Limit",
 		ability1: "ATK and Skill Damage +100%",
@@ -7722,7 +7722,7 @@ window.detail = {
 		skill1type: "Rinnegan",
 		skill1speed: "Fastest",
 		skill1cost: "40",
-		skill1: "Deal 3% + 50,000 to all enemies with a High Chance to Cancel actions and a normal Chance to place them under \"Seal\" state. [Seal: Action is disabled and continues to take damage]",
+		skill1: "Deal 3% + 50,000 to all enemies with a High Chance to Cancel actions and a normal Chance to place them under 'Seal' state. [Seal: Action is disabled and continues to take damage]",
 
 		skill2name: "Growth of Pain",
 		skill2ogname: "痛みが成長させるのだ",
@@ -7747,7 +7747,7 @@ window.detail = {
 		skill1type: "Rinnegan",
 		skill1speed: "Fastest",
 		skill1cost: "40",
-		skill1: "Deal 3% + 50,000 to all enemies with a High Chance to Cancel actions and a normal Chance to place them under \"Seal\" state. [Seal: Action is disabled and continues to take damage]",
+		skill1: "Deal 3% + 50,000 to all enemies with a High Chance to Cancel actions and a normal Chance to place them under 'Seal' state. [Seal: Action is disabled and continues to take damage]",
 
 		skill2name: "Growth of Pain",
 		skill2ogname: "痛みが成長させるのだ",
@@ -7822,7 +7822,7 @@ window.detail = {
 		skill1type: "Tailed Beast",
 		skill1speed: "Fast",
 		skill1cost: "100",
-		skill1: "Deal 3% + 50,000 to all enemies. If \"Sasuke Uchiha\" is one of the enemy, deal 3x more damage with a Chance to Cancel action and/or lower Cast Speed by 1",
+		skill1: "Deal 3% + 50,000 to all enemies. If 'Sasuke Uchiha' is one of the enemy, deal 3x more damage with a Chance to Cancel action and/or lower Cast Speed by 1",
 
 		skill2name: "I Won't Ignore You",
 		skill2ogname: "お前をほっとかねー！",
@@ -7847,7 +7847,7 @@ window.detail = {
 		skill1type: "Tailed Beast",
 		skill1speed: "Fast",
 		skill1cost: "100",
-		skill1: "Deal 3% + 80,000 to all enemies. If \"Sasuke Uchiha\" is one of the enemy, deal 5x more damage with a High Chance to Cancel action and/or lower Cast Speed by 2",
+		skill1: "Deal 3% + 80,000 to all enemies. If 'Sasuke Uchiha' is one of the enemy, deal 5x more damage with a High Chance to Cancel action and/or lower Cast Speed by 2",
 
 		skill2name: "I Won't Ignore You",
 		skill2ogname: "お前をほっとかねー！",
@@ -7872,7 +7872,7 @@ window.detail = {
 		skill1type: "Rinne Sharingan",
 		skill1speed: "Fast",
 		skill1cost: "100",
-		skill1: "Deal 3% + 50,000 to all enemies. If \"Naruto Uzumaki\" is one of the enemy, deal 3x more damage with a Chance to Cancel action and/or lower Cast Speed by 1",
+		skill1: "Deal 3% + 50,000 to all enemies. If 'Naruto Uzumaki' is one of the enemy, deal 3x more damage with a Chance to Cancel action and/or lower Cast Speed by 1",
 
 		skill2name: "Hatred Will Never Be Lost",
 		skill2ogname: "憎しみはなくなりはしない",
@@ -7897,7 +7897,7 @@ window.detail = {
 		skill1type: "Rinne Sharingan",
 		skill1speed: "Fast",
 		skill1cost: "100",
-		skill1: "Deal 3% + 80,000 to all enemies. If \"Naruto Uzumaki\" is one of the enemy, deal 5x more damage with a High Chance to Cancel action and/or lower Cast Speed by 2",
+		skill1: "Deal 3% + 80,000 to all enemies. If 'Naruto Uzumaki' is one of the enemy, deal 5x more damage with a High Chance to Cancel action and/or lower Cast Speed by 2",
 
 		skill2name: "Hatred Will Never Be Lost",
 		skill2ogname: "憎しみはなくなりはしない",
@@ -7922,7 +7922,7 @@ window.detail = {
 		skill1type: "Summoning",
 		skill1speed: "Fast",
 		skill1cost: "60",
-		skill1: "Deal 7% + 8,000 to one enemy and with a low Chance to reduce the enemy's Cast Speed by 2.  Deal 4x more damage to enemies who are not from Konoha. Iff the enemy is \"Sasuke Uchiha\" ignore resistance and Cancel his action",
+		skill1: "Deal 7% + 8,000 to one enemy and with a low Chance to reduce the enemy's Cast Speed by 2.  Deal 4x more damage to enemies who are not from Konoha. Iff the enemy is 'Sasuke Uchiha' ignore resistance and Cancel his action",
 
 		skill2name: "Pointless Sacrifice",
 		skill2ogname: "犠牲を無駄にしている",
@@ -7947,7 +7947,7 @@ window.detail = {
 		skill1type: "Summoning",
 		skill1speed: "Fast",
 		skill1cost: "50",
-		skill1: "Deal 7% + 13,000 to one enemy and with a Chance to reduce the enemy's Cast Speed by 3.  Deal 7x more damage to enemies who are not from Konoha. Iff the enemy is \"Sasuke Uchiha\" ignore resistance and Cancel his action",
+		skill1: "Deal 7% + 13,000 to one enemy and with a Chance to reduce the enemy's Cast Speed by 3.  Deal 7x more damage to enemies who are not from Konoha. Iff the enemy is 'Sasuke Uchiha' ignore resistance and Cancel his action",
 
 		skill2name: "Pointless Sacrifice",
 		skill2ogname: "犠牲を無駄にしている",
@@ -7972,14 +7972,14 @@ window.detail = {
 		skill1type: "Six Paths",
 		skill1speed: "Fast",
 		skill1cost: "100",
-		skill1: "Deal 20,000 Fixed Damage to one enemy with a High Chance to place the enemy under \"Misery\" state. Deal 6x more damage while under \"Hatred\" state. [Misery: Skill Damage and SPD -20%. This state can be stacked upto 3 times]",
+		skill1: "Deal 20,000 Fixed Damage to one enemy with a High Chance to place the enemy under 'Misery' state. Deal 6x more damage while under 'Hatred' state. [Misery: Skill Damage and SPD -20%. This state can be stacked upto 3 times]",
 
 		skill2name: "Erasing this World!",
 		skill2ogname: "この世界を消す…！",
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "60",
-		skill2: "Own DEF and SPD +100% and grant \"Hatred\" state. [Hatred: Reduce HP by 15% after every action, ATK and Skill Damage +450% after every action. (Max 1800%)]",
+		skill2: "Own DEF and SPD +100% and grant 'Hatred' state. [Hatred: Reduce HP by 15% after every action, ATK and Skill Damage +450% after every action. (Max 1800%)]",
 
 		ability1name: "Ying-Yang Ninjutsu",
 		ability1: "For 10 turns, Skill Damage +100%, Cast Speed +1",
@@ -7997,14 +7997,14 @@ window.detail = {
 		skill1type: "Six Paths",
 		skill1speed: "Fast",
 		skill1cost: "100",
-		skill1: "Deal 20,000 Fixed Damage to one enemy with a High Chance to place the enemy under \"Misery\" state. Deal 6x more damage while under \"Hatred\" state. [Misery: Skill Damage and SPD -20%. This state can be stacked upto 3 times]",
+		skill1: "Deal 20,000 Fixed Damage to one enemy with a High Chance to place the enemy under 'Misery' state. Deal 6x more damage while under 'Hatred' state. [Misery: Skill Damage and SPD -20%. This state can be stacked upto 3 times]",
 
 		skill2name: "Erasing this World!",
 		skill2ogname: "この世界を消す…！",
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "60",
-		skill2: "Own DEF and SPD +100% and grant \"Hatred\" state. [Hatred: Reduce HP by 15% after every action, ATK and Skill Damage +450% after every action. (Max 1800%)]",
+		skill2: "Own DEF and SPD +100% and grant 'Hatred' state. [Hatred: Reduce HP by 15% after every action, ATK and Skill Damage +450% after every action. (Max 1800%)]",
 
 		ability1name: "Ying-Yang Ninjutsu",
 		ability1: "For 10 turns, Skill Damage +100%, Cast Speed +1",
@@ -8030,7 +8030,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "80",
-		skill2: "Own ATK and Skill Damage +50%, boost SPD based on how many None Character on the team, max 100%. Recover a small amount of Chakra and Cancel \"Despair\" state",
+		skill2: "Own ATK and Skill Damage +50%, boost SPD based on how many None Character on the team, max 100%. Recover a small amount of Chakra and Cancel 'Despair' state",
 
 		ability1name: "Non-negotiable Goal",
 		ability1: "Chance to reduce Chakra Cost by half after every action",
@@ -8055,7 +8055,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "50",
-		skill2: "Own ATK and Skill Damage +100%, boost SPD based on how many None Character on the team, max 200%. Recover a large amount of Chakra and Cancel \"Despair\" state",
+		skill2: "Own ATK and Skill Damage +100%, boost SPD based on how many None Character on the team, max 200%. Recover a large amount of Chakra and Cancel 'Despair' state",
 
 		ability1name: "Non-negotiable Goal",
 		ability1: "High Chance to reduce Chakra Cost by half after every action",
@@ -8073,14 +8073,14 @@ window.detail = {
 		skill1type: "Fire",
 		skill1speed: "Fast",
 		skill1cost: "70",
-		skill1: "Deal 3% + 10,000 to all enemies with a High Chance to burn.  Deal 6x more damage while under \"Rouse\" state",
+		skill1: "Deal 3% + 10,000 to all enemies with a High Chance to burn.  Deal 6x more damage while under 'Rouse' state",
 
 		skill2name: "I am a Member of the Uchiha Clan",
 		skill2ogname: "オレはうちは一族だ！",
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "80",
-		skill2: "Own ATK and SPD +100%, all ally \"Obito Uchiha\" Skill Damage +100%, Cast Speed +1 and grant \"Rouse\" state. [Rouse: ATK, DEF and SPD +50%, Recover 15% HP and Chakra after every action)]",
+		skill2: "Own ATK and SPD +100%, all ally 'Obito Uchiha' Skill Damage +100%, Cast Speed +1 and grant 'Rouse' state. [Rouse: ATK, DEF and SPD +50%, Recover 15% HP and Chakra after every action)]",
 
 		ability1name: "A Dream of Becoming the Hokage",
 		ability1: "Maximum HP and ATK +100%",
@@ -8098,14 +8098,14 @@ window.detail = {
 		skill1type: "Fire",
 		skill1speed: "Fast",
 		skill1cost: "70",
-		skill1: "Deal 3% + 10,000 to all enemies with a High Chance to burn.  Deal 6x more damage while under \"Rouse\" state",
+		skill1: "Deal 3% + 10,000 to all enemies with a High Chance to burn.  Deal 6x more damage while under 'Rouse' state",
 
 		skill2name: "I am a Member of the Uchiha Clan",
 		skill2ogname: "オレはうちは一族だ！",
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "80",
-		skill2: "Own ATK and SPD +100%, all ally \"Obito Uchiha\" Skill Damage +100%, Cast Speed +1 and grant \"Rouse\" state. [Rouse: ATK, DEF and SPD +50%, Recover 15% HP and Chakra after every action)]",
+		skill2: "Own ATK and SPD +100%, all ally 'Obito Uchiha' Skill Damage +100%, Cast Speed +1 and grant 'Rouse' state. [Rouse: ATK, DEF and SPD +50%, Recover 15% HP and Chakra after every action)]",
 
 		ability1name: "A Dream of Becoming the Hokage",
 		ability1: "Maximum HP and ATK +100%",
@@ -8123,14 +8123,14 @@ window.detail = {
 		skill1type: "Six Paths",
 		skill1speed: "Fastest",
 		skill1cost: "70",
-		skill1: "Deal 3% + 10,000 to all enemies with a High Chance to Cancel action. Deal 5x more damage to Five Village characters. Deal 2x more damage to characters under \"Despair\" state.",
+		skill1: "Deal 3% + 10,000 to all enemies with a High Chance to Cancel action. Deal 5x more damage to Five Village characters. Deal 2x more damage to characters under 'Despair' state.",
 
 		skill2name: "Utmost Dance",
 		skill2ogname: "せいぜい踊れ",
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "80",
-		skill2: "High Chance to lower all enemies' ATK, DEF and SPD by 50% and place them under \"Despair\" state. If the enemies is from the Five Village, Cast Speed -2. [Despair: Remove all ATK, DEF and QCK bbuff, with a Chance to Cancel action after every action]",
+		skill2: "High Chance to lower all enemies' ATK, DEF and SPD by 50% and place them under 'Despair' state. If the enemies is from the Five Village, Cast Speed -2. [Despair: Remove all ATK, DEF and QCK bbuff, with a Chance to Cancel action after every action]",
 
 		ability1name: "Long Standing Scheme",
 		ability1: "Recover 10% HP and Chakra after every action. For 7 turns, Immune to all Skill Damage except for Sage, Taijutsu and Six Paths",
@@ -8148,14 +8148,14 @@ window.detail = {
 		skill1type: "Six Paths",
 		skill1speed: "Fastest",
 		skill1cost: "70",
-		skill1: "Deal 3% + 10,000 to all enemies with a High Chance to Cancel action. Deal 5x more damage to Five Village characters. Deal 2x more damage to characters under \"Despair\" state.",
+		skill1: "Deal 3% + 10,000 to all enemies with a High Chance to Cancel action. Deal 5x more damage to Five Village characters. Deal 2x more damage to characters under 'Despair' state.",
 
 		skill2name: "Utmost Dance",
 		skill2ogname: "せいぜい踊れ",
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "80",
-		skill2: "High Chance to lower all enemies' ATK, DEF and SPD by 50% and place them under \"Despair\" state. If the enemies is from the Five Village, Cast Speed -2. [Despair: Remove all ATK, DEF and QCK bbuff, with a Chance to Cancel action after every action]",
+		skill2: "High Chance to lower all enemies' ATK, DEF and SPD by 50% and place them under 'Despair' state. If the enemies is from the Five Village, Cast Speed -2. [Despair: Remove all ATK, DEF and QCK bbuff, with a Chance to Cancel action after every action]",
 
 		ability1name: "Long Standing Scheme",
 		ability1: "Recover 10% HP and Chakra after every action. For 7 turns, Immune to all Skill Damage except for Sage, Taijutsu and Six Paths",
@@ -8173,14 +8173,14 @@ window.detail = {
 		skill1type: "Sharingan",
 		skill1speed: "Fastest",
 		skill1cost: "80",
-		skill1: "Deal 7% + 8,000 to one enemy, deal 6x more damage while under \"Demon\" state. Deal 2.5x more damage when HP is above 60% (Max 15x) [Always Hits]",
+		skill1: "Deal 7% + 8,000 to one enemy, deal 6x more damage while under 'Demon' state. Deal 2.5x more damage when HP is above 60% (Max 15x) [Always Hits]",
 
 		skill2name: "Suppressing All Connections",
 		skill2ogname: "繋がりを全て断つ！",
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "90",
-		skill2: "Own SPD +100% and grant \"Demon\" state. [Demon: ATK and Skill Damage +200%, if Sasuke is a target of a Skill, reduce all enemies Skill Damage by 200% instead. Reduce HP by 40% when state expires]",
+		skill2: "Own SPD +100% and grant 'Demon' state. [Demon: ATK and Skill Damage +200%, if Sasuke is a target of a Skill, reduce all enemies Skill Damage by 200% instead. Reduce HP by 40% when state expires]",
 
 		ability1name: "Power of Hatred",
 		ability1: "ATK +20% after every action (Max 100%)",
@@ -8198,14 +8198,14 @@ window.detail = {
 		skill1type: "Sharingan",
 		skill1speed: "Fastest",
 		skill1cost: "80",
-		skill1: "Deal 7% + 8,000 to one enemy, deal 6x more damage while under \"Demon\" state. Deal 2.5x more damage when HP is above 60% (Max 15x) [Always Hits]",
+		skill1: "Deal 7% + 8,000 to one enemy, deal 6x more damage while under 'Demon' state. Deal 2.5x more damage when HP is above 60% (Max 15x) [Always Hits]",
 
 		skill2name: "Suppressing All Connections",
 		skill2ogname: "繋がりを全て断つ！",
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "90",
-		skill2: "Own SPD +100% and grant \"Demon\" state. [Demon: ATK and Skill Damage +200%, if Sasuke is a target of a Skill, reduce all enemies Skill Damage by 200% instead. Reduce HP by 40% when state expires]",
+		skill2: "Own SPD +100% and grant 'Demon' state. [Demon: ATK and Skill Damage +200%, if Sasuke is a target of a Skill, reduce all enemies Skill Damage by 200% instead. Reduce HP by 40% when state expires]",
 
 		ability1name: "Power of Hatred",
 		ability1: "ATK +20% after every action (Max 100%)",
@@ -8230,7 +8230,7 @@ window.detail = {
 		skill2type: "Sharingan",
 		skill2speed: "Fastest",
 		skill2cost: "100",
-		skill2: "Deal 3% + 100,000 to all enemies with a High Chance to place the enemies under \"Burn\", \"Black Flames\" and/or \"Jet Black\" state. [Burn: Inflict damage every turn], [Black Flames: Inflict damage every turn and reduce SPD by 20%] [Jet Black: Inflict damage every turn and a Chance to reduce ATK and SPD by 20% after every action]",
+		skill2: "Deal 3% + 100,000 to all enemies with a High Chance to place the enemies under 'Burn', 'Black Flames' and/or 'Jet Black' state. [Burn: Inflict damage every turn], [Black Flames: Inflict damage every turn and reduce SPD by 20%] [Jet Black: Inflict damage every turn and a Chance to reduce ATK and SPD by 20% after every action]",
 
 		ability1name: "Murder of the Clan",
 		ability1: "Maximum Chakra +200, Immune to negative states",
@@ -8255,7 +8255,7 @@ window.detail = {
 		skill2type: "Sharingan",
 		skill2speed: "Fastest",
 		skill2cost: "100",
-		skill2: "Deal 3% + 100,000 to all enemies with a High Chance to place the enemies under \"Burn\", \"Black Flames\" and/or \"Jet Black\" state. [Burn: Inflict damage every turn], [Black Flames: Inflict damage every turn and reduce SPD by 20%] [Jet Black: Inflict damage every turn and a Chance to reduce ATK and SPD by 20% after every action]",
+		skill2: "Deal 3% + 100,000 to all enemies with a High Chance to place the enemies under 'Burn', 'Black Flames' and/or 'Jet Black' state. [Burn: Inflict damage every turn], [Black Flames: Inflict damage every turn and reduce SPD by 20%] [Jet Black: Inflict damage every turn and a Chance to reduce ATK and SPD by 20% after every action]",
 
 		ability1name: "Murder of the Clan",
 		ability1: "Maximum Chakra +200, Immune to negative states",
@@ -8280,7 +8280,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "70",
-		skill2: "Own SPD +100%, if one of the enemy is \"Hashirama Senju\", Skill Damage +200% and Cast Speed +2, recover 100% HP",
+		skill2: "Own SPD +100%, if one of the enemy is 'Hashirama Senju', Skill Damage +200% and Cast Speed +2, recover 100% HP",
 
 		ability1name: "Delight of the Derired Battle",
 		ability1: "ATK, DEF and SPD +30% for every None Character ally (Max 150%)",
@@ -8305,7 +8305,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "70",
-		skill2: "Own SPD +100%, if one of the enemy is \"Hashirama Senju\", Skill Damage +200% and Cast Speed +2, recover 100% HP",
+		skill2: "Own SPD +100%, if one of the enemy is 'Hashirama Senju', Skill Damage +200% and Cast Speed +2, recover 100% HP",
 
 		ability1name: "Delight of the Derired Battle",
 		ability1: "ATK, DEF and SPD +30% for every None Character ally (Max 150%)",
@@ -8330,7 +8330,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "60",
-		skill2: "Chance to reduce target enemy SPD by 50%, If the target enemy is \"Madara Uchiha\", High Chance to place him in \"Despair\" state, ignore resistance and Cancel his action once. [Despair: Remove ATK, DEF and SPD buff with a Chance to Cancel action]",
+		skill2: "Chance to reduce target enemy SPD by 50%, If the target enemy is 'Madara Uchiha', High Chance to place him in 'Despair' state, ignore resistance and Cancel his action once. [Despair: Remove ATK, DEF and SPD buff with a Chance to Cancel action]",
 
 		ability1name: "Duty to Fulfill",
 		ability1: "SPD +80%, recover 15% HP after every action",
@@ -8355,7 +8355,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "60",
-		skill2: "Chance to reduce target enemy SPD by 50%, If the target enemy is \"Madara Uchiha\", High Chance to place him in \"Despair\" state, ignore resistance and Cancel his action once. [Despair: Remove ATK, DEF and SPD buff with a Chance to Cancel action]",
+		skill2: "Chance to reduce target enemy SPD by 50%, If the target enemy is 'Madara Uchiha', High Chance to place him in 'Despair' state, ignore resistance and Cancel his action once. [Despair: Remove ATK, DEF and SPD buff with a Chance to Cancel action]",
 
 		ability1name: "Duty to Fulfill",
 		ability1: "SPD +80%, recover 15% HP after every action",
@@ -8373,14 +8373,14 @@ window.detail = {
 		skill1type: "Byakugan",
 		skill1speed: "Fastest",
 		skill1cost: "20",
-		skill1: "Deal 7% + 4,000 to one enemy with a Chance to Cancel action and a High Chance to place them the enemy under \"Chakra Points\" state. [Chakra Points: Cast Speed -2. Chakra Points stacks dealing more damage the more stacks. Initial 12x more damage and maximum 27x more damage (Maximum 4 stacks)]",
+		skill1: "Deal 7% + 4,000 to one enemy with a Chance to Cancel action and a High Chance to place them the enemy under 'Chakra Points' state. [Chakra Points: Cast Speed -2. Chakra Points stacks dealing more damage the more stacks. Initial 12x more damage and maximum 27x more damage (Maximum 4 stacks)]",
 
 		skill2name: "My Goal will not Change",
 		skill2ogname: "目指すものは変わらない",
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "50",
-		skill2: "Own ATK and SPD +100% and grant \"Resolution\" state. [Resolution: ATK, DEF and SPD +100%, recover 20% HP and Chakra when attacked]",
+		skill2: "Own ATK and SPD +100% and grant 'Resolution' state. [Resolution: ATK, DEF and SPD +100%, recover 20% HP and Chakra when attacked]",
 
 		ability1name: "Gentle Personality",
 		ability1: "Maximum HP and DEF +100%",
@@ -8398,14 +8398,14 @@ window.detail = {
 		skill1type: "Byakugan",
 		skill1speed: "Fastest",
 		skill1cost: "20",
-		skill1: "Deal 7% + 4,000 to one enemy with a Chance to Cancel action and a High Chance to place them the enemy under \"Chakra Points\" state. [Chakra Points: Cast Speed -2. Chakra Points stacks dealing more damage the more stacks. Initial 12x more damage and maximum 27x more damage (Maximum 4 stacks)]",
+		skill1: "Deal 7% + 4,000 to one enemy with a Chance to Cancel action and a High Chance to place them the enemy under 'Chakra Points' state. [Chakra Points: Cast Speed -2. Chakra Points stacks dealing more damage the more stacks. Initial 12x more damage and maximum 27x more damage (Maximum 4 stacks)]",
 
 		skill2name: "My Goal will not Change",
 		skill2ogname: "目指すものは変わらない",
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "50",
-		skill2: "Own ATK and SPD +100% and grant \"Resolution\" state. [Resolution: ATK, DEF and SPD +100%, recover 20% HP and Chakra when attacked]",
+		skill2: "Own ATK and SPD +100% and grant 'Resolution' state. [Resolution: ATK, DEF and SPD +100%, recover 20% HP and Chakra when attacked]",
 
 		ability1name: "Gentle Personality",
 		ability1: "Maximum HP and DEF +100%",
@@ -8423,7 +8423,7 @@ window.detail = {
 		skill1type: "Byakugan",
 		skill1speed: "Fast",
 		skill1cost: "70",
-		skill1: "Deal 3% + 20,0000 to all enemies and grant \"Rotation Protection\". [Rotation Protection: All allies are Immune to single target Skills]",
+		skill1: "Deal 3% + 20,0000 to all enemies and grant 'Rotation Protection'. [Rotation Protection: All allies are Immune to single target Skills]",
 
 		skill2name: "Now, Lets Go!",
 		skill2ogname: "さぁ、やるわよ！",
@@ -8448,7 +8448,7 @@ window.detail = {
 		skill1type: "Byakugan",
 		skill1speed: "Fast",
 		skill1cost: "70",
-		skill1: "Deal 3% + 20,0000 to all enemies and grant \"Rotation Protection\". [Rotation Protection: All allies are Immune to single target Skills]",
+		skill1: "Deal 3% + 20,0000 to all enemies and grant 'Rotation Protection'. [Rotation Protection: All allies are Immune to single target Skills]",
 
 		skill2name: "Now, Lets Go!",
 		skill2ogname: "さぁ、やるわよ！",
@@ -8573,7 +8573,7 @@ window.detail = {
 		skill1type: "Space-Time",
 		skill1speed: "Fast",
 		skill1cost: "100",
-		skill1: "Deal 50,000 Fixed Damage to one enemy and grant \"Kamui Mode\". Deal 5x more damage while under \"Kamui Mode\". Deal 2x more damage to None Characters. (Max 10x) [Kamui Mode: All allies are Immune to single target Skills. NOTE: DOES NOT BLOCK Fixed Damage DONT LISTEN TO UNEDUCATED MORONS]",
+		skill1: "Deal 50,000 Fixed Damage to one enemy and grant 'Kamui Mode'. Deal 5x more damage while under 'Kamui Mode'. Deal 2x more damage to None Characters. (Max 10x) [Kamui Mode: All allies are Immune to single target Skills. NOTE: DOES NOT BLOCK Fixed Damage DONT LISTEN TO UNEDUCATED MORONS]",
 
 		skill2name: "Try This",
 		skill2ogname: "これならどうだ",
@@ -8598,7 +8598,7 @@ window.detail = {
 		skill1type: "Space-Time",
 		skill1speed: "Fast",
 		skill1cost: "100",
-		skill1: "Deal 50,000 Fixed Damage to one enemy and grant \"Kamui Mode\". Deal 5x more damage while under \"Kamui Mode\". Deal 2x more damage to None Characters. (Max 10x) [Kamui Mode: All allies are Immune to single target Skills. NOTE: DOES NOT BLOCK Fixed Damage DONT LISTEN TO UNEDUCATED MORONS]",
+		skill1: "Deal 50,000 Fixed Damage to one enemy and grant 'Kamui Mode'. Deal 5x more damage while under 'Kamui Mode'. Deal 2x more damage to None Characters. (Max 10x) [Kamui Mode: All allies are Immune to single target Skills. NOTE: DOES NOT BLOCK Fixed Damage DONT LISTEN TO UNEDUCATED MORONS]",
 
 		skill2name: "Try This",
 		skill2ogname: "これならどうだ",
@@ -8623,7 +8623,7 @@ window.detail = {
 		skill1type: "Taijutsu",
 		skill1speed: "Fastest",
 		skill1cost: "30",
-		skill1: "Deal 25x ATK damage to one enemy and grant \"Sekizo\" state. [Sekizo: Sekizo stacks doing more damage multiplier and ignoring more DEF. Max 4x more damage and ignore 80% DEF. Maximum stack is 5] [Always Hits]",
+		skill1: "Deal 25x ATK damage to one enemy and grant 'Sekizo' state. [Sekizo: Sekizo stacks doing more damage multiplier and ignoring more DEF. Max 4x more damage and ignore 80% DEF. Maximum stack is 5] [Always Hits]",
 
 		skill2name: "Five Steps!!",
 		skill2ogname: "伍捉！！",
@@ -8648,7 +8648,7 @@ window.detail = {
 		skill1type: "Taijutsu",
 		skill1speed: "Fastest",
 		skill1cost: "30",
-		skill1: "Deal 25x ATK damage to one enemy and grant \"Sekizo\" state. [Sekizo: Sekizo stacks doing more damage multiplier and ignoring more DEF. Max 4x more damage and ignore 80% DEF. Maximum stack is 5] [Always Hits]",
+		skill1: "Deal 25x ATK damage to one enemy and grant 'Sekizo' state. [Sekizo: Sekizo stacks doing more damage multiplier and ignoring more DEF. Max 4x more damage and ignore 80% DEF. Maximum stack is 5] [Always Hits]",
 
 		skill2name: "Five Steps!!",
 		skill2ogname: "伍捉！！",
@@ -8673,14 +8673,14 @@ window.detail = {
 		skill1type: "Wind",
 		skill1speed: "Fast",
 		skill1cost: "90",
-		skill1: "Deal 3% + 9,000 to all enemies with a High Chance to place the enemies under \"Deadlock\" state. Deal 7x more damage to enemies under \"Deadlock\" state. [Deadlock: ATK, and DEF -50%, remove all buffs and Debuffs]",
+		skill1: "Deal 3% + 9,000 to all enemies with a High Chance to place the enemies under 'Deadlock' state. Deal 7x more damage to enemies under 'Deadlock' state. [Deadlock: ATK, and DEF -50%, remove all buffs and Debuffs]",
 
 		skill2name: "Auspicious Day!!",
 		skill2ogname: "目出度い日だってばよ！",
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "90",
-		skill2: "All allies SPD +100%, Cast Speed +1, and grant \"Gust\" state. [Gust: SPD and Skill Damage +100%]",
+		skill2: "All allies SPD +100%, Cast Speed +1, and grant 'Gust' state. [Gust: SPD and Skill Damage +100%]",
 
 		ability1name: "New Year Gamaguchi",
 		ability1: "Cast Speed +1 when HP is above 70%",
@@ -8698,14 +8698,14 @@ window.detail = {
 		skill1type: "Wind",
 		skill1speed: "Fast",
 		skill1cost: "90",
-		skill1: "Deal 3% + 9,000 to all enemies with a High Chance to place the enemies under \"Deadlock\" state. Deal 7x more damage to enemies under \"Deadlock\" state. [Deadlock: ATK, and DEF -50%, remove all buffs and Debuffs]",
+		skill1: "Deal 3% + 9,000 to all enemies with a High Chance to place the enemies under 'Deadlock' state. Deal 7x more damage to enemies under 'Deadlock' state. [Deadlock: ATK, and DEF -50%, remove all buffs and Debuffs]",
 
 		skill2name: "Auspicious Day!!",
 		skill2ogname: "目出度い日だってばよ！",
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "90",
-		skill2: "All allies SPD +100%, Cast Speed +1, and grant \"Gust\" state. [Gust: SPD and Skill Damage +100%]",
+		skill2: "All allies SPD +100%, Cast Speed +1, and grant 'Gust' state. [Gust: SPD and Skill Damage +100%]",
 
 		ability1name: "New Year Gamaguchi",
 		ability1: "Cast Speed +1 when HP is above 70%",
@@ -8723,14 +8723,14 @@ window.detail = {
 		skill1type: "Inferno",
 		skill1speed: "Fast",
 		skill1cost: "90",
-		skill1: "Deal 3% + 9,000 to all enemies with a High Chance to place the enemies under \"Jet Black\" state. Deal 7x more damage to enemies under \"Jet Black\" state. [Jet Black: Inflict damage every turn and Chance to reduce ATK and SPD by 20% after every action]",
+		skill1: "Deal 3% + 9,000 to all enemies with a High Chance to place the enemies under 'Jet Black' state. Deal 7x more damage to enemies under 'Jet Black' state. [Jet Black: Inflict damage every turn and Chance to reduce ATK and SPD by 20% after every action]",
 
 		skill2name: "Oh Well, Celebrate",
 		skill2ogname: "仕方ない…祝ってやる",
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "90",
-		skill2: "All allies ATK +100%, grant a Medium Chance to Dodge Skills and \"Penetrate\" state. [Penetrate: Attacks ignore 20% DEF]",
+		skill2: "All allies ATK +100%, grant a Medium Chance to Dodge Skills and 'Penetrate' state. [Penetrate: Attacks ignore 20% DEF]",
 
 		ability1name: "Snake-Eye Mochi",
 		ability1: "Cast Speed +1 when HP is above 70%",
@@ -8748,14 +8748,14 @@ window.detail = {
 		skill1type: "Inferno",
 		skill1speed: "Fast",
 		skill1cost: "90",
-		skill1: "Deal 3% + 9,000 to all enemies with a High Chance to place the enemies under \"Jet Black\" state. Deal 7x more damage to enemies under \"Jet Black\" state. [Jet Black: Inflict damage every turn and Chance to reduce ATK and SPD by 20% after every action]",
+		skill1: "Deal 3% + 9,000 to all enemies with a High Chance to place the enemies under 'Jet Black' state. Deal 7x more damage to enemies under 'Jet Black' state. [Jet Black: Inflict damage every turn and Chance to reduce ATK and SPD by 20% after every action]",
 
 		skill2name: "Oh Well, Celebrate",
 		skill2ogname: "仕方ない…祝ってやる",
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "90",
-		skill2: "All allies ATK +100%, grant a Medium Chance to Dodge Skills and \"Penetrate\" state. [Penetrate: Attacks ignore 20% DEF]",
+		skill2: "All allies ATK +100%, grant a Medium Chance to Dodge Skills and 'Penetrate' state. [Penetrate: Attacks ignore 20% DEF]",
 
 		ability1name: "Snake-Eye Mochi",
 		ability1: "Cast Speed +1 when HP is above 70%",
@@ -8773,14 +8773,14 @@ window.detail = {
 		skill1type: "Taijutsu",
 		skill1speed: "Fast",
 		skill1cost: "90",
-		skill1: "Deal 3% + 9,000 to all enemies and grant all allies \"Heal\" state. Deal 5x more damage while under \"Heal\" state. [Heal: Recover 20% HP when attacked]",
+		skill1: "Deal 3% + 9,000 to all enemies and grant all allies 'Heal' state. Deal 5x more damage while under 'Heal' state. [Heal: Recover 20% HP when attacked]",
 
 		skill2name: "Beginning of a New Day",
 		skill2ogname: "新しい日の始まりよ！",
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "80",
-		skill2: "Recover all allies HP by a large amount, reduce Chakra Cost by 40% and grant \"Resist\" state. [Immune and Remove all negative status, Debuff and Genjutsu]",
+		skill2: "Recover all allies HP by a large amount, reduce Chakra Cost by 40% and grant 'Resist' state. [Immune and Remove all negative status, Debuff and Genjutsu]",
 
 		ability1name: "Extreme Luck",
 		ability1: "High Chance for Cast Speed +1 after every action and a Chance to recover all HP",
@@ -8798,14 +8798,14 @@ window.detail = {
 		skill1type: "Taijutsu",
 		skill1speed: "Fast",
 		skill1cost: "90",
-		skill1: "Deal 3% + 9,000 to all enemies and grant all allies \"Heal\" state. Deal 5x more damage while under \"Heal\" state. [Heal: Recover 20% HP when attacked]",
+		skill1: "Deal 3% + 9,000 to all enemies and grant all allies 'Heal' state. Deal 5x more damage while under 'Heal' state. [Heal: Recover 20% HP when attacked]",
 
 		skill2name: "Beginning of a New Day",
 		skill2ogname: "新しい日の始まりよ！",
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "80",
-		skill2: "Recover all allies HP by a large amount, reduce Chakra Cost by 40% and grant \"Resist\" state. [Immune and Remove all negative status, Debuff and Genjutsu]",
+		skill2: "Recover all allies HP by a large amount, reduce Chakra Cost by 40% and grant 'Resist' state. [Immune and Remove all negative status, Debuff and Genjutsu]",
 
 		ability1name: "Extreme Luck",
 		ability1: "High Chance for Cast Speed +1 after every action and a Chance to recover all HP",
@@ -8823,7 +8823,7 @@ window.detail = {
 		skill1type: "Secret",
 		skill1speed: "Fast",
 		skill1cost: "50",
-		skill1: "Deal 7% + 5,000 to one enemy with a High Chance to place the enemy under \"Usurp\" state. Deal 3x more damage to enemies under \"Usurp\" state. [Usurp: Reduce enemy's HP by 30% and Chakra by 30% after every action (Chakra reduction only works in PvP)]",
+		skill1: "Deal 7% + 5,000 to one enemy with a High Chance to place the enemy under 'Usurp' state. Deal 3x more damage to enemies under 'Usurp' state. [Usurp: Reduce enemy's HP by 30% and Chakra by 30% after every action (Chakra reduction only works in PvP)]",
 
 		skill2name: "Because",
 		skill2ogname: "なぜなら",
@@ -8848,7 +8848,7 @@ window.detail = {
 		skill1type: "Secret",
 		skill1speed: "Fast",
 		skill1cost: "50",
-		skill1: "Deal 7% + 5,000 to one enemy with a High Chance to place the enemy under \"Usurp\" state. Deal 3x more damage to enemies under \"Usurp\" state. [Usurp: Reduce enemy's HP by 30% and Chakra by 30% after every action (Chakra reduction only works in PvP)]",
+		skill1: "Deal 7% + 5,000 to one enemy with a High Chance to place the enemy under 'Usurp' state. Deal 3x more damage to enemies under 'Usurp' state. [Usurp: Reduce enemy's HP by 30% and Chakra by 30% after every action (Chakra reduction only works in PvP)]",
 
 		skill2name: "Because",
 		skill2ogname: "なぜなら",
@@ -8880,7 +8880,7 @@ window.detail = {
 		skill2type: "Rinnegan",
 		skill2speed: "Normal",
 		skill2cost: "150",
-		skill2: "Own Skill Damage +100%. Cast Speed +3 if you have an \"Akatsuki\" ally. For 1 turn, all \"Akatsuki\" allies SPD +1000%.  Chance to Cancel all enemies' action",
+		skill2: "Own Skill Damage +100%. Cast Speed +3 if you have an 'Akatsuki' ally. For 1 turn, all 'Akatsuki' allies SPD +1000%.  Chance to Cancel all enemies' action",
 
 		ability1name: "Heavenly Power",
 		ability1: "Maximum Chakra +100",
@@ -8905,7 +8905,7 @@ window.detail = {
 		skill2type: "Rinnegan",
 		skill2speed: "Normal",
 		skill2cost: "150",
-		skill2: "Own Skill Damage +100%. Cast Speed +3 if you have an \"Akatsuki\" ally. For 1 turn, all \"Akatsuki\" allies SPD +1000%.  Chance to Cancel all enemies' action",
+		skill2: "Own Skill Damage +100%. Cast Speed +3 if you have an 'Akatsuki' ally. For 1 turn, all 'Akatsuki' allies SPD +1000%.  Chance to Cancel all enemies' action",
 
 		ability1name: "Heavenly Power",
 		ability1: "Maximum Chakra +100",
@@ -8980,7 +8980,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "90",
-		skill2: "Own ATK +100% and grant \"Hatred\" state with a Chance to grant \"Anger\" state. [Hatred: Reduce HP by 15% after every action, ATK and Skill Damage +300% after every action (Max 1200%)] [Anger: Cast Speed -1 and ATK +200%]",
+		skill2: "Own ATK +100% and grant 'Hatred' state with a Chance to grant 'Anger' state. [Hatred: Reduce HP by 15% after every action, ATK and Skill Damage +300% after every action (Max 1200%)] [Anger: Cast Speed -1 and ATK +200%]",
 
 		ability1name: "Sixth Tail",
 		ability1: "Maximum Chakra +200. When HP reach 0, revive once",
@@ -9005,7 +9005,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "90",
-		skill2: "Own ATK +100% and grant \"Hatred\" state with a Chance to grant \"Anger\" state. [Hatred: Reduce HP by 15% after every action, ATK and Skill Damage +300% after every action (Max 1200%)] [Anger: Cast Speed -1 and ATK +200%]",
+		skill2: "Own ATK +100% and grant 'Hatred' state with a Chance to grant 'Anger' state. [Hatred: Reduce HP by 15% after every action, ATK and Skill Damage +300% after every action (Max 1200%)] [Anger: Cast Speed -1 and ATK +200%]",
 
 		ability1name: "Sixth Tail",
 		ability1: "Maximum Chakra +200. When HP reach 0, revive once",
@@ -9022,14 +9022,14 @@ window.detail = {
 		skill1type: "Tailed Beast",
 		skill1speed: "Fast",
 		skill1cost: "40",
-		skill1: "Deal 20x ATK damage to one enemy ignoring 40% DEF with a High Chance to place the enemy under \"Bleed\" state. This ability can Crit dealing 4x damage. [Bleed: Continues to lose HP, with a Chance to lower DEF]",
+		skill1: "Deal 20x ATK damage to one enemy ignoring 40% DEF with a High Chance to place the enemy under 'Bleed' state. This ability can Crit dealing 4x damage. [Bleed: Continues to lose HP, with a Chance to lower DEF]",
 
 		skill2name: "Hahaha.... Even More",
 		skill2ogname: "ハハハァ…もっともっとだ！",
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "0",
-		skill2: "Own ATK +100% and grant \"Solitude\" and \"Love\" state [Solitude: Skill Damage +100%, Immune to Status Effects] [Love: ATK, SPD and Skill Damage +100%, reduce incoming Skill Damage by half]",
+		skill2: "Own ATK +100% and grant 'Solitude' and 'Love' state [Solitude: Skill Damage +100%, Immune to Status Effects] [Love: ATK, SPD and Skill Damage +100%, reduce incoming Skill Damage by half]",
 
 		ability1name: "Will of Sand",
 		ability1: "ATK and DEF +100%, high chacne to Dodge Skills",
@@ -9047,14 +9047,14 @@ window.detail = {
 		skill1type: "Tailed Beast",
 		skill1speed: "Fast",
 		skill1cost: "40",
-		skill1: "Deal 20x ATK damage to one enemy ignoring 40% DEF with a High Chance to place the enemy under \"Bleed\" state. This ability can Crit dealing 4x damage. [Bleed: Continues to lose HP, with a Chance to lower DEF]",
+		skill1: "Deal 20x ATK damage to one enemy ignoring 40% DEF with a High Chance to place the enemy under 'Bleed' state. This ability can Crit dealing 4x damage. [Bleed: Continues to lose HP, with a Chance to lower DEF]",
 
 		skill2name: "Hahaha.... Even More",
 		skill2ogname: "ハハハァ…もっともっとだ！",
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "0",
-		skill2: "Own ATK +100% and grant \"Solitude\" and \"Love\" state [Solitude: Skill Damage +100%, Immune to Status Effects] [Love: ATK, SPD and Skill Damage +100%, reduce incoming Skill Damage by half]",
+		skill2: "Own ATK +100% and grant 'Solitude' and 'Love' state [Solitude: Skill Damage +100%, Immune to Status Effects] [Love: ATK, SPD and Skill Damage +100%, reduce incoming Skill Damage by half]",
 
 		ability1name: "Will of Sand",
 		ability1: "ATK and DEF +100%, high chacne to Dodge Skills",
@@ -9072,14 +9072,14 @@ window.detail = {
 		skill1type: "Sharingan",
 		skill1speed: "Fast",
 		skill1cost: "100",
-		skill1: "Deal 7% + 10,000 to one enemy. Deal 5x more damage while under \"Solitude\" state. Deal 10x more damage to EX and PvP Reward Characters. (Max 50x).  If the enemy is a PvP Reward, deal 2 additional attack (Note: If the enemy revives and one of the 3 attacks kills, their revive activates and will still get it by the additional hits) [Always Hits]",
+		skill1: "Deal 7% + 10,000 to one enemy. Deal 5x more damage while under 'Solitude' state. Deal 10x more damage to EX and PvP Reward Characters. (Max 50x).  If the enemy is a PvP Reward, deal 2 additional attack (Note: If the enemy revives and one of the 3 attacks kills, their revive activates and will still get it by the additional hits) [Always Hits]",
 
 		skill2name: "Unecessary Love",
 		skill2ogname: "愛など必要ない！",
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "80",
-		skill2: "Own ATK, DEF and SPD +100% and grant \"Solitude\" state and remove all \"Love\" state to all allies [Solitude: Skill Damage +100%,  Immune to Status Effects]",
+		skill2: "Own ATK, DEF and SPD +100% and grant 'Solitude' state and remove all 'Love' state to all allies [Solitude: Skill Damage +100%,  Immune to Status Effects]",
 
 		ability1name: "Evolved Tomoe",
 		ability1: "Maximum Chakra +100, recover 20% Chakra after every action",
@@ -9097,14 +9097,14 @@ window.detail = {
 		skill1type: "Sharingan",
 		skill1speed: "Fast",
 		skill1cost: "100",
-		skill1: "Deal 7% + 10,000 to one enemy. Deal 5x more damage while under \"Solitude\" state. Deal 10x more damage to EX and PvP Reward Characters. (Max 50x).  If the enemy is a PvP Reward, deal 2 additional attack (Note: If the enemy revives and one of the 3 attacks kills, their revive activates and will still get it by the additional hits) [Always Hits]",
+		skill1: "Deal 7% + 10,000 to one enemy. Deal 5x more damage while under 'Solitude' state. Deal 10x more damage to EX and PvP Reward Characters. (Max 50x).  If the enemy is a PvP Reward, deal 2 additional attack (Note: If the enemy revives and one of the 3 attacks kills, their revive activates and will still get it by the additional hits) [Always Hits]",
 
 		skill2name: "Unecessary Love",
 		skill2ogname: "愛など必要ない！",
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "80",
-		skill2: "Own ATK, DEF and SPD +100% and grant \"Solitude\" state and remove all \"Love\" state to all allies [Solitude: Skill Damage +100%,  Immune to Status Effects]",
+		skill2: "Own ATK, DEF and SPD +100% and grant 'Solitude' state and remove all 'Love' state to all allies [Solitude: Skill Damage +100%,  Immune to Status Effects]",
 
 		ability1name: "Evolved Tomoe",
 		ability1: "Maximum Chakra +100, recover 20% Chakra after every action",
@@ -9184,7 +9184,7 @@ window.detail = {
 		ability1name: "Overwhelming Chakra",
 		ability1: "Maximum Chakra +200",
 
-		ability2name: "Great Sword \"Samehada\"",
+		ability2name: "Great Sword 'Samehada'",
 		ability2: "Skill Damage +100%< recover 30% Chakra after every action"
 	},
 
@@ -9209,7 +9209,7 @@ window.detail = {
 		ability1name: "Overwhelming Chakra",
 		ability1: "Maximum Chakra +200",
 
-		ability2name: "Great Sword \"Samehada\"",
+		ability2name: "Great Sword 'Samehada'",
 		ability2: "Skill Damage +100%< recover 30% Chakra after every action"
 	},
 
@@ -9229,7 +9229,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "60",
-		skill2: "Recover all allies HP and Chakra by a small amount. Grant all allies Five Village Characters a Medium Chance to Dodge Skills and \"Resonance\" state.  [Resonance: Skill Damage +20%, SPD +50%. Resonance can be stacked up to 3 times including other Resonance state from other characters]",
+		skill2: "Recover all allies HP and Chakra by a small amount. Grant all allies Five Village Characters a Medium Chance to Dodge Skills and 'Resonance' state.  [Resonance: Skill Damage +20%, SPD +50%. Resonance can be stacked up to 3 times including other Resonance state from other characters]",
 
 		ability1name: "Shadow Kurama",
 		ability1: "Maximum Chakra +120 and Skill Damage +150%",
@@ -9254,7 +9254,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "60",
-		skill2: "Recover all allies HP and Chakra by a small amount. Grant all allies Five Village Characters a Medium Chance to Dodge Skills and \"Resonance\" state.  [Resonance: Skill Damage +20%, SPD +50%. Resonance can be stacked up to 3 times including other Resonance state from other characters]",
+		skill2: "Recover all allies HP and Chakra by a small amount. Grant all allies Five Village Characters a Medium Chance to Dodge Skills and 'Resonance' state.  [Resonance: Skill Damage +20%, SPD +50%. Resonance can be stacked up to 3 times including other Resonance state from other characters]",
 
 		ability1name: "Shadow Kurama",
 		ability1: "Maximum Chakra +120 and Skill Damage +150%",
@@ -9272,14 +9272,14 @@ window.detail = {
 		skill1type: "Weapon",
 		skill1speed: "Fast",
 		skill1cost: "80",
-		skill1: "Deal 7% + 10,000 to one enemy with a High Chance to place the enemy in \"Restraint\" state. Deal 10x more damage, ignore resistance and Cancel action to enemies under \"Restraint\" state. [Restraint: SPD -90% and Cast Speed -2]",
+		skill1: "Deal 7% + 10,000 to one enemy with a High Chance to place the enemy in 'Restraint' state. Deal 10x more damage, ignore resistance and Cancel action to enemies under 'Restraint' state. [Restraint: SPD -90% and Cast Speed -2]",
 
 		skill2name: "Sacrificial Plan",
 		skill2ogname: "捨て駒になるつもりはねェ",
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "70",
-		skill2: "All allies ATK, DEF and SPD +70%. Grant \"Encourage\" state to ally \"Shikamaru Nara\" and \"Temari\". [Encourage: ATK, DEF and SPD +30%. Recover 10% HP and Chakra after every action]",
+		skill2: "All allies ATK, DEF and SPD +70%. Grant 'Encourage' state to ally 'Shikamaru Nara' and 'Temari'. [Encourage: ATK, DEF and SPD +30%. Recover 10% HP and Chakra after every action]",
 
 		ability1name: "Heroic Succession",
 		ability1: "ATK +20% for every Konoha and/or Suna Character in the team (Max 120%)",
@@ -9297,14 +9297,14 @@ window.detail = {
 		skill1type: "Weapon",
 		skill1speed: "Fast",
 		skill1cost: "80",
-		skill1: "Deal 7% + 10,000 to one enemy with a High Chance to place the enemy in \"Restraint\" state. Deal 10x more damage, ignore resistance and Cancel action to enemies under \"Restraint\" state. [Restraint: SPD -90% and Cast Speed -2]",
+		skill1: "Deal 7% + 10,000 to one enemy with a High Chance to place the enemy in 'Restraint' state. Deal 10x more damage, ignore resistance and Cancel action to enemies under 'Restraint' state. [Restraint: SPD -90% and Cast Speed -2]",
 
 		skill2name: "Sacrificial Plan",
 		skill2ogname: "捨て駒になるつもりはねェ",
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "70",
-		skill2: "All allies ATK, DEF and SPD +70%. Grant \"Encourage\" state to ally \"Shikamaru Nara\" and \"Temari\". [Encourage: ATK, DEF and SPD +30%. Recover 10% HP and Chakra after every action]",
+		skill2: "All allies ATK, DEF and SPD +70%. Grant 'Encourage' state to ally 'Shikamaru Nara' and 'Temari'. [Encourage: ATK, DEF and SPD +30%. Recover 10% HP and Chakra after every action]",
 
 		ability1name: "Heroic Succession",
 		ability1: "ATK +20% for every Konoha and/or Suna Character in the team (Max 120%)",
@@ -9322,14 +9322,14 @@ window.detail = {
 		skill1type: "Wind",
 		skill1speed: "Fast",
 		skill1cost: "60",
-		skill1: "Deal 3% + 8,000 to all enemies with a High Chance to place the enemies under \"Bind\" state. Deal 4x more damage to enemies under \"Bind\" state. Deal 3x more damage when \"Temari\" can Dodge Skills (Max 12x). [Bind: Skill Damage -60% and SPD -30%]",
+		skill1: "Deal 3% + 8,000 to all enemies with a High Chance to place the enemies under 'Bind' state. Deal 4x more damage to enemies under 'Bind' state. Deal 3x more damage when 'Temari' can Dodge Skills (Max 12x). [Bind: Skill Damage -60% and SPD -30%]",
 
 		skill2name: "This Time, My Aim Will Be Better",
 		skill2ogname: "今度はもっとよく狙うんだな",
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "70",
-		skill2: "Own SPD and Skill Damage +100% and grant a Medium Chance to Dodge Skills. Grant \"Gust\" state to ally \"Shikamaru Nara\" and \"Temari\". [Gust: SPD and Skill Damage +120%]",
+		skill2: "Own SPD and Skill Damage +100% and grant a Medium Chance to Dodge Skills. Grant 'Gust' state to ally 'Shikamaru Nara' and 'Temari'. [Gust: SPD and Skill Damage +120%]",
 
 		ability1name: "Fated Link",
 		ability1: "ATK +20% for every Konoha and/or Suna Character in the team (Max 120%)",
@@ -9347,14 +9347,14 @@ window.detail = {
 		skill1type: "Wind",
 		skill1speed: "Fast",
 		skill1cost: "60",
-		skill1: "Deal 3% + 8,000 to all enemies with a High Chance to place the enemies under \"Bind\" state. Deal 4x more damage to enemies under \"Bind\" state. Deal 3x more damage when \"Temari\" can Dodge Skills (Max 12x). [Bind: Skill Damage -60% and SPD -30%]",
+		skill1: "Deal 3% + 8,000 to all enemies with a High Chance to place the enemies under 'Bind' state. Deal 4x more damage to enemies under 'Bind' state. Deal 3x more damage when 'Temari' can Dodge Skills (Max 12x). [Bind: Skill Damage -60% and SPD -30%]",
 
 		skill2name: "This Time, My Aim Will Be Better",
 		skill2ogname: "今度はもっとよく狙うんだな",
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "70",
-		skill2: "Own SPD and Skill Damage +100% and grant a Medium Chance to Dodge Skills. Grant \"Gust\" state to ally \"Shikamaru Nara\" and \"Temari\". [Gust: SPD and Skill Damage +120%]",
+		skill2: "Own SPD and Skill Damage +100% and grant a Medium Chance to Dodge Skills. Grant 'Gust' state to ally 'Shikamaru Nara' and 'Temari'. [Gust: SPD and Skill Damage +120%]",
 
 		ability1name: "Fated Link",
 		ability1: "ATK +20% for every Konoha and/or Suna Character in the team (Max 120%)",
@@ -9372,14 +9372,14 @@ window.detail = {
 		skill1type: "Space-Time",
 		skill1speed: "Fastest",
 		skill1cost: "80",
-		skill1: "Deal 7% + 20,000 to one enemy with a High Chance to put a Flying Thunder God Marking on the enemy. Deal 15x more damage to enemies with a Marking. Furthermore grant \"Flash Mode\" [Flash Mode: SPD +100%, Cast Speed becomes Flash]",
+		skill1: "Deal 7% + 20,000 to one enemy with a High Chance to put a Flying Thunder God Marking on the enemy. Deal 15x more damage to enemies with a Marking. Furthermore grant 'Flash Mode' [Flash Mode: SPD +100%, Cast Speed becomes Flash]",
 
 		skill2name: "Flying Thunder God: Guide Lightning",
 		skill2ogname: "飛雷神・導雷",
 		skill2type: "Space-Time",
 		skill2speed: "Fast",
 		skill2cost: "100",
-		skill2: "Own DEF +200% and grant \"Full Guide Lightning\". \"Full Guide Lightning\" is Canceled once attacked. [Full Guide Lightning: All allies are Immune to Skill Damage (Note: Fixed Damage is not blocked)]",
+		skill2: "Own DEF +200% and grant 'Full Guide Lightning'. 'Full Guide Lightning' is Canceled once attacked. [Full Guide Lightning: All allies are Immune to Skill Damage (Note: Fixed Damage is not blocked)]",
 
 		ability1name: "Prepared Master",
 		ability1: "Maximum Chakra +50 and recover 10% Chakra after every action",
@@ -9397,14 +9397,14 @@ window.detail = {
 		skill1type: "Space-Time",
 		skill1speed: "Fastest",
 		skill1cost: "80",
-		skill1: "Deal 7% + 20,000 to one enemy with a High Chance to put a Flying Thunder God Marking on the enemy. Deal 15x more damage to enemies with a Marking. Furthermore grant \"Flash Mode\" [Flash Mode: SPD +100%, Cast Speed becomes Flash]",
+		skill1: "Deal 7% + 20,000 to one enemy with a High Chance to put a Flying Thunder God Marking on the enemy. Deal 15x more damage to enemies with a Marking. Furthermore grant 'Flash Mode' [Flash Mode: SPD +100%, Cast Speed becomes Flash]",
 
 		skill2name: "Flying Thunder God: Guide Lightning",
 		skill2ogname: "飛雷神・導雷",
 		skill2type: "Space-Time",
 		skill2speed: "Fast",
 		skill2cost: "100",
-		skill2: "Own DEF +200% and grant \"Full Guide Lightning\". \"Full Guide Lightning\" is Canceled once attacked. [Full Guide Lightning: All allies are Immune to Skill Damage (Note: Fixed Damage is not blocked)]",
+		skill2: "Own DEF +200% and grant 'Full Guide Lightning'. 'Full Guide Lightning' is Canceled once attacked. [Full Guide Lightning: All allies are Immune to Skill Damage (Note: Fixed Damage is not blocked)]",
 
 		ability1name: "Prepared Master",
 		ability1: "Maximum Chakra +50 and recover 10% Chakra after every action",
@@ -9430,7 +9430,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "90",
-		skill2: "Recover a tremendous amount of HP and Chakra to all allies and grant \"Determined\" state. If one of your allies is \"Naruto Uzumaki\" or \"Minato Namikaze\", Recover 100% Chakra of all Konoha allies. [Determined: ATK, DEF and SPD +80%, recover 10% Chakra and HP when attacked]",
+		skill2: "Recover a tremendous amount of HP and Chakra to all allies and grant 'Determined' state. If one of your allies is 'Naruto Uzumaki' or 'Minato Namikaze', Recover 100% Chakra of all Konoha allies. [Determined: ATK, DEF and SPD +80%, recover 10% Chakra and HP when attacked]",
 
 		ability1name: "Mother's Affection",
 		ability1: "Maximum Chakra +50 and ATK +100%",
@@ -9455,7 +9455,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "90",
-		skill2: "Recover a tremendous amount of HP and Chakra to all allies and grant \"Determined\" state. If one of your allies is \"Naruto Uzumaki\" or \"Minato Namikaze\", Recover 100% Chakra of all Konoha allies. [Determined: ATK, DEF and SPD +80%, recover 10% Chakra and HP when attacked]",
+		skill2: "Recover a tremendous amount of HP and Chakra to all allies and grant 'Determined' state. If one of your allies is 'Naruto Uzumaki' or 'Minato Namikaze', Recover 100% Chakra of all Konoha allies. [Determined: ATK, DEF and SPD +80%, recover 10% Chakra and HP when attacked]",
 
 		ability1name: "Mother's Affection",
 		ability1: "Maximum Chakra +50 and ATK +100%",
@@ -9473,7 +9473,7 @@ window.detail = {
 		skill1type: "Space-Time",
 		skill1speed: "Fast",
 		skill1cost: "90",
-		skill1: "Deal 10,000 Fixed Damage to one enemy with a Chance to place them under \"Misery\" state. Deal 3x more damage to enemies from the Five Village. [Misery: Skill Damage -20% and ATK -20%. This state can be stacked upto 3 times.]",
+		skill1: "Deal 10,000 Fixed Damage to one enemy with a Chance to place them under 'Misery' state. Deal 3x more damage to enemies from the Five Village. [Misery: Skill Damage -20% and ATK -20%. This state can be stacked upto 3 times.]",
 
 		skill2name: "I'm at the Peak of Composure",
 		skill2ogname: "オレは最高に冷静だ",
@@ -9498,7 +9498,7 @@ window.detail = {
 		skill1type: "Space-Time",
 		skill1speed: "Fast",
 		skill1cost: "80",
-		skill1: "Deal 20,000 Fixed Damage to one enemy with a High Chance to place them under \"Misery\" state. Deal 6x more damage to enemies from the Five Village. [Misery: Skill Damage -20% and ATK -20%. This state can be stacked upto 3 times.]",
+		skill1: "Deal 20,000 Fixed Damage to one enemy with a High Chance to place them under 'Misery' state. Deal 6x more damage to enemies from the Five Village. [Misery: Skill Damage -20% and ATK -20%. This state can be stacked upto 3 times.]",
 
 		skill2name: "I'm at the Peak of Composure",
 		skill2ogname: "オレは最高に冷静だ",
@@ -9523,14 +9523,14 @@ window.detail = {
 		skill1type: "Weapon",
 		skill1speed: "Fast",
 		skill1cost: "70",
-		skill1: "Deal 7% + 5,000 to one enemy. Deal more damage the more Konoha allies. Max 5x. Deal 2x more damage while under \"Rouse\" state. [Always Hits]",
+		skill1: "Deal 7% + 5,000 to one enemy. Deal more damage the more Konoha allies. Max 5x. Deal 2x more damage while under 'Rouse' state. [Always Hits]",
 
 		skill2name: "Becoming a Shinobi",
 		skill2ogname: "忍らしくのォ！",
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "80",
-		skill2: "Own ATK, DEF and SPD +50% and grant \"Rouse\" state. [Rouse: ATK, DEF and SPD +30%, recover 10% HP and Chakra after every action]",
+		skill2: "Own ATK, DEF and SPD +50% and grant 'Rouse' state. [Rouse: ATK, DEF and SPD +30%, recover 10% HP and Chakra after every action]",
 
 		ability1name: "Refined Jutsu",
 		ability1: "Maximum HP and Skill Damage +100%",
@@ -9548,14 +9548,14 @@ window.detail = {
 		skill1type: "Weapon",
 		skill1speed: "Fast",
 		skill1cost: "70",
-		skill1: "Deal 7% + 5,000 to one enemy. Deal more damage the more Konoha allies. Max 5x. Deal 2x more damage while under \"Rouse\" state. [Always Hits]",
+		skill1: "Deal 7% + 5,000 to one enemy. Deal more damage the more Konoha allies. Max 5x. Deal 2x more damage while under 'Rouse' state. [Always Hits]",
 
 		skill2name: "Becoming a Shinobi",
 		skill2ogname: "忍らしくのォ！",
 		skill2type: "Unique",
 		skill2speed: "Fast",
 		skill2cost: "80",
-		skill2: "Own ATK, DEF and SPD +50% and grant \"Rouse\" state. [Rouse: ATK, DEF and SPD +30%, recover 10% HP and Chakra after every action]",
+		skill2: "Own ATK, DEF and SPD +50% and grant 'Rouse' state. [Rouse: ATK, DEF and SPD +30%, recover 10% HP and Chakra after every action]",
 
 		ability1name: "Refined Jutsu",
 		ability1: "Maximum HP and Skill Damage +100%",
@@ -9580,7 +9580,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Slowest",
 		skill2cost: "100",
-		skill2: "Recover own HP by a small amount, SPD -30%, protect all allies and grant \"Fan\" state. [Fan: Immune to Skill Damage (Including Fixed Skill Damage) except for Taijutsu and Wood. Increase Skill Damage everytime hit (Max 3000% after 5 hits). (Note: Effects from Skills such as Cancel Action and etc will still occur)]",
+		skill2: "Recover own HP by a small amount, SPD -30%, protect all allies and grant 'Fan' state. [Fan: Immune to Skill Damage (Including Fixed Skill Damage) except for Taijutsu and Wood. Increase Skill Damage everytime hit (Max 3000% after 5 hits). (Note: Effects from Skills such as Cancel Action and etc will still occur)]",
 
 		ability1name: "Special Made Reanimation",
 		ability1: "Maximum HP and DEF +150%",
@@ -9605,7 +9605,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Slowest",
 		skill2cost: "100",
-		skill2: "Recover own HP by a small amount, SPD -30%, protect all allies and grant \"Fan\" state. [Fan: Immune to Skill Damage (Including Fixed Skill Damage) except for Taijutsu and Wood. Increase Skill Damage everytime hit (Max 3000% after 5 hits). (Note: Effects from Skills such as Cancel Action and etc will still occur)]",
+		skill2: "Recover own HP by a small amount, SPD -30%, protect all allies and grant 'Fan' state. [Fan: Immune to Skill Damage (Including Fixed Skill Damage) except for Taijutsu and Wood. Increase Skill Damage everytime hit (Max 3000% after 5 hits). (Note: Effects from Skills such as Cancel Action and etc will still occur)]",
 
 		ability1name: "Special Made Reanimation",
 		ability1: "Maximum HP and DEF +150%",
@@ -9673,7 +9673,7 @@ window.detail = {
         skill1type: "Fire",
         skill1speed: "Fast",
         skill1cost: "80",
-        skill1: "Deal 3% + 10,000 to all enemies with a High Chance to place the enemies under \"Great Fire\" state. Deal 10x more damage to enemies under \"Great Fire\" and ignore resistance. [Great Fire: Reduce HP after every action (Max 30%) remove and prevent the effects buff and Debuff (including Chakra Cost, Skill Damage, Crit Chance and Crit Damage change)] [Always Hits]",
+        skill1: "Deal 3% + 10,000 to all enemies with a High Chance to place the enemies under 'Great Fire' state. Deal 10x more damage to enemies under 'Great Fire' and ignore resistance. [Great Fire: Reduce HP after every action (Max 30%) remove and prevent the effects buff and Debuff (including Chakra Cost, Skill Damage, Crit Chance and Crit Damage change)] [Always Hits]",
 
         skill2name: "There is Nothing to Talk About",
         skill2ogname: "話すことなど何もない",
@@ -9698,7 +9698,7 @@ window.detail = {
         skill1type: "Fire",
         skill1speed: "Fast",
         skill1cost: "80",
-        skill1: "Deal 3% + 10,000 to all enemies with a High Chance to place the enemies under \"Great Fire\" state. Deal 10x more damage to enemies under \"Great Fire\" and ignore resistance. [Great Fire: Reduce HP after every action (Max 30%) remove and prevent the effects buff and Debuff (including Chakra Cost, Skill Damage, Crit Chance and Crit Damage change)] [Always Hits]",
+        skill1: "Deal 3% + 10,000 to all enemies with a High Chance to place the enemies under 'Great Fire' state. Deal 10x more damage to enemies under 'Great Fire' and ignore resistance. [Great Fire: Reduce HP after every action (Max 30%) remove and prevent the effects buff and Debuff (including Chakra Cost, Skill Damage, Crit Chance and Crit Damage change)] [Always Hits]",
 
         skill2name: "There is Nothing to Talk About",
         skill2ogname: "話すことなど何もない",
@@ -9723,7 +9723,7 @@ window.detail = {
         skill1type: "Sharingan",
         skill1speed: "Fast",
         skill1cost: "60",
-        skill1: "Deal 7% + 30,000 to one enemy with a High Chance Seal, Confuse or place then under \"Genjutsu\" state. Deal 2x more damage when own SPD is buffed. Deal more damage the more None allies are alive. (Max 3x) [Genjutsu: Chance to Cancel action]",
+        skill1: "Deal 7% + 30,000 to one enemy with a High Chance Seal, Confuse or place then under 'Genjutsu' state. Deal 2x more damage when own SPD is buffed. Deal more damage the more None allies are alive. (Max 3x) [Genjutsu: Chance to Cancel action]",
 
         skill2name: "Don't Be Fooled",
         skill2ogname: "騙されるな…",
@@ -9748,7 +9748,7 @@ window.detail = {
         skill1type: "Sharingan",
         skill1speed: "Fast",
         skill1cost: "60",
-        skill1: "Deal 7% + 30,000 to one enemy with a High Chance Seal, Confuse or place then under \"Genjutsu\" state. Deal 2x more damage when own SPD is buffed. Deal more damage the more None allies are alive. (Max 3x) [Genjutsu: Chance to Cancel action]",
+        skill1: "Deal 7% + 30,000 to one enemy with a High Chance Seal, Confuse or place then under 'Genjutsu' state. Deal 2x more damage when own SPD is buffed. Deal more damage the more None allies are alive. (Max 3x) [Genjutsu: Chance to Cancel action]",
 
         skill2name: "Don't Be Fooled",
         skill2ogname: "騙されるな…",
@@ -9773,14 +9773,14 @@ window.detail = {
         skill1type: "Lava",
         skill1speed: "Fast",
         skill1cost: "120",
-        skill1: "Deal 3% + 10,000 to all enemies with a High Chance to place them under \"Lava\" state. Deal 10x more damage to Uchiha clan characters. Deal 1.5x damage to enemies under \"Lava\" state. [Lava: ATK and DEF -50%, Cancel and prevent the effect of buffs and Debuffs. Reduce HP after every action (Maximum 100%)] [Always Hits] ",
+        skill1: "Deal 3% + 10,000 to all enemies with a High Chance to place them under 'Lava' state. Deal 10x more damage to Uchiha clan characters. Deal 1.5x damage to enemies under 'Lava' state. [Lava: ATK and DEF -50%, Cancel and prevent the effect of buffs and Debuffs. Reduce HP after every action (Maximum 100%)] [Always Hits] ",
 
         skill2name: "Changing Everything",
         skill2ogname: "全部を変えられそうだ",
         skill2type: "Unique",
         skill2speed: "Fast",
         skill2cost: "60",
-        skill2: "Own Skill Damage +120%, Cast Speed +2, and grant \"Determined\" and \"Resist\" state. [Determined: ATK, DEF and SPD +100% and recover 10% HP and Chakra when attacked] [Resist: Immune and remove all negative status, Debuff and Genjutsu]",
+        skill2: "Own Skill Damage +120%, Cast Speed +2, and grant 'Determined' and 'Resist' state. [Determined: ATK, DEF and SPD +100% and recover 10% HP and Chakra when attacked] [Resist: Immune and remove all negative status, Debuff and Genjutsu]",
 
         ability1name: "Blessed Six Path Sage Ninjutsu",
         ability1: "Maximum Chakra +100, recover 10% HP and Chakra after every action",
@@ -9798,14 +9798,14 @@ window.detail = {
         skill1type: "Lava",
         skill1speed: "Fast",
         skill1cost: "120",
-        skill1: "Deal 3% + 10,000 to all enemies with a High Chance to place them under \"Lava\" state. Deal 10x more damage to Uchiha clan characters. Deal 1.5x damage to enemies under \"Lava\" state. [Lava: ATK and DEF -50%, Cancel and prevent the effect of buffs and Debuffs. Reduce HP after every action (Maximum 100%)] [Always Hits] ",
+        skill1: "Deal 3% + 10,000 to all enemies with a High Chance to place them under 'Lava' state. Deal 10x more damage to Uchiha clan characters. Deal 1.5x damage to enemies under 'Lava' state. [Lava: ATK and DEF -50%, Cancel and prevent the effect of buffs and Debuffs. Reduce HP after every action (Maximum 100%)] [Always Hits] ",
 
         skill2name: "Changing Everything",
         skill2ogname: "全部を変えられそうだ",
         skill2type: "Unique",
         skill2speed: "Fast",
         skill2cost: "60",
-        skill2: "Own Skill Damage +120%, Cast Speed +2, and grant \"Determined\" and \"Resist\" state. [Determined: ATK, DEF and SPD +100% and recover 10% HP and Chakra when attacked] [Resist: Immune and remove all negative status, Debuff and Genjutsu]",
+        skill2: "Own Skill Damage +120%, Cast Speed +2, and grant 'Determined' and 'Resist' state. [Determined: ATK, DEF and SPD +100% and recover 10% HP and Chakra when attacked] [Resist: Immune and remove all negative status, Debuff and Genjutsu]",
 
         ability1name: "Blessed Six Path Sage Ninjutsu",
         ability1: "Maximum Chakra +100, recover 10% HP and Chakra after every action",
@@ -9823,14 +9823,14 @@ window.detail = {
         skill1type: "Inferno",
         skill1speed: "Fast",
         skill1cost: "120",
-        skill1: "Deal 3% + 10,000 to all enemies with a High Chance to place them under \"Flame\" state. Deal 10x more damage to Hokages characters. Deal 1.5x damage to enemies under \"Flame\" state. [Flame: Chance to Cancel action, and reduce HP after every action (Max 50%)] [Always Hits] ",
+        skill1: "Deal 3% + 10,000 to all enemies with a High Chance to place them under 'Flame' state. Deal 10x more damage to Hokages characters. Deal 1.5x damage to enemies under 'Flame' state. [Flame: Chance to Cancel action, and reduce HP after every action (Max 50%)] [Always Hits] ",
 
         skill2name: "Inevitable Win",
         skill2ogname: "勝利するのは必然…",
         skill2type: "Unique",
         skill2speed: "Fast",
         skill2cost: "60",
-        skill2: "Own Skill Damage +120%, Cast Speed +2, and grant \"Determined\" and \"Resist\" state. [Determined: ATK, DEF and SPD +100% and recover 10% HP and Chakra when attacked] [Resist: Immune and remove all negative status, Debuff and Genjutsu]",
+        skill2: "Own Skill Damage +120%, Cast Speed +2, and grant 'Determined' and 'Resist' state. [Determined: ATK, DEF and SPD +100% and recover 10% HP and Chakra when attacked] [Resist: Immune and remove all negative status, Debuff and Genjutsu]",
 
         ability1name: "Aim for a Revolution",
         ability1: "Maximum Chakra +100, recover 10% HP and Chakra after every action",
@@ -9848,14 +9848,14 @@ window.detail = {
         skill1type: "Inferno",
         skill1speed: "Fast",
         skill1cost: "120",
-        skill1: "Deal 3% + 10,000 to all enemies with a High Chance to place them under \"Flame\" state. Deal 10x more damage to Hokages characters. Deal 1.5x damage to enemies under \"Flame\" state. [Flame: Chance to Cancel action, and reduce HP after every action (Max 50%)] [Always Hits] ",
+        skill1: "Deal 3% + 10,000 to all enemies with a High Chance to place them under 'Flame' state. Deal 10x more damage to Hokages characters. Deal 1.5x damage to enemies under 'Flame' state. [Flame: Chance to Cancel action, and reduce HP after every action (Max 50%)] [Always Hits] ",
 
         skill2name: "Inevitable Win",
         skill2ogname: "勝利するのは必然…",
         skill2type: "Unique",
         skill2speed: "Fast",
         skill2cost: "60",
-        skill2: "Own Skill Damage +120%, Cast Speed +2, and grant \"Determined\" and \"Resist\" state. [Determined: ATK, DEF and SPD +100% and recover 10% HP and Chakra when attacked] [Resist: Immune and remove all negative status, Debuff and Genjutsu]",
+        skill2: "Own Skill Damage +120%, Cast Speed +2, and grant 'Determined' and 'Resist' state. [Determined: ATK, DEF and SPD +100% and recover 10% HP and Chakra when attacked] [Resist: Immune and remove all negative status, Debuff and Genjutsu]",
 
         ability1name: "Aim for a Revolution",
         ability1: "Maximum Chakra +100, recover 10% HP and Chakra after every action",
@@ -9873,14 +9873,14 @@ window.detail = {
         skill1type: "Tailed Beast",
         skill1speed: "Fast",
         skill1cost: "88",
-        skill1: "Deal 3% + 8,888 to all enemies. Deal 8x more damage while under \"Duel\" state. Deal 2x more damage when own ATK is buffed (Max 16x)",
+        skill1: "Deal 3% + 8,888 to all enemies. Deal 8x more damage while under 'Duel' state. Deal 2x more damage when own ATK is buffed (Max 16x)",
 
         skill2name: "I Have No Choice, Time to Go Eight Tails",
         skill2ogname: "しかたない八本目だ",
         skill2type: "Tailed Beast",
         skill2speed: "Fast",
         skill2cost: "88",
-        skill2: "Own ATK, DEF and SPD +88% and place all allies in \"Duel\" state. [Duel: Own Skill Damage increase based on how many ally are alive. +15% per ally. Max 75%] ",
+        skill2: "Own ATK, DEF and SPD +88% and place all allies in 'Duel' state. [Duel: Own Skill Damage increase based on how many ally are alive. +15% per ally. Max 75%] ",
 
         ability1name: "Eight Tail Chakra Mode",
         ability1: "Maximum Chakra +88, Maximum HP and Skill Damage +88%",
@@ -9930,7 +9930,7 @@ window.detail = {
         skill2type: "Genjutsu",
         skill2speed: "Fastest",
         skill2cost: "60",
-        skill2: "High Chance to reduce all enemies ATK, DEF or/and SPD by 60%. High Chance to Paralyze, Confuse, Charm, Seal or place them under \"Deficit\" state. [Deficit: Chakra Recovery becomes 0] (Note: Deficit is only active in PvP)",
+        skill2: "High Chance to reduce all enemies ATK, DEF or/and SPD by 60%. High Chance to Paralyze, Confuse, Charm, Seal or place them under 'Deficit' state. [Deficit: Chakra Recovery becomes 0] (Note: Deficit is only active in PvP)",
 
         ability1name: "Poker Face",
         ability1: "Maximum HP +100% and Chakra Recovery +15%. Immune to Debuff and Status Effect.",
@@ -9955,7 +9955,7 @@ window.detail = {
         skill2type: "Genjutsu",
         skill2speed: "Fastest",
         skill2cost: "60",
-        skill2: "High Chance to reduce all enemies ATK, DEF or/and SPD by 60%. High Chance to Paralyze, Confuse, Charm, Seal or place them under \"Deficit\" state. [Deficit: Chakra Recovery becomes 0] (Note: Deficit is only active in PvP)",
+        skill2: "High Chance to reduce all enemies ATK, DEF or/and SPD by 60%. High Chance to Paralyze, Confuse, Charm, Seal or place them under 'Deficit' state. [Deficit: Chakra Recovery becomes 0] (Note: Deficit is only active in PvP)",
 
         ability1name: "Poker Face",
         ability1: "Maximum HP +100% and Chakra Recovery +15%. Immune to Debuff and Status Effect.",
@@ -9973,7 +9973,7 @@ window.detail = {
         skill1type: "Wind",
         skill1speed: "Fast",
         skill1cost: "80",
-        skill1: "Deal 7% + 12,000 to one enemy. Deal more damage the more allies alive, max 4x. Deal 10x more damage to \"Indra Otsutsuki\". (Max 40x) [Always Hits]",
+        skill1: "Deal 7% + 12,000 to one enemy. Deal more damage the more allies alive, max 4x. Deal 10x more damage to 'Indra Otsutsuki'. (Max 40x) [Always Hits]",
 
         skill2name: "This is the Power of Bonds!!",
         skill2ogname: "これが……絆の力だ！！！",
@@ -9998,7 +9998,7 @@ window.detail = {
         skill1type: "Wind",
         skill1speed: "Fast",
         skill1cost: "80",
-        skill1: "Deal 7% + 12,000 to one enemy. Deal more damage the more allies alive, max 4x. Deal 10x more damage to \"Indra Otsutsuki\". (Max 40x) [Always Hits]",
+        skill1: "Deal 7% + 12,000 to one enemy. Deal more damage the more allies alive, max 4x. Deal 10x more damage to 'Indra Otsutsuki'. (Max 40x) [Always Hits]",
 
         skill2name: "This is the Power of Bonds!!",
         skill2ogname: "これが……絆の力だ！！！",
@@ -10023,7 +10023,7 @@ window.detail = {
         skill1type: "Weapon",
         skill1speed: "Fastest",
         skill1cost: "90",
-        skill1: "Deal 50-100 hits dealing 1,000 Fixed Damage per hits to one enemy. Chance to inflict \"Ignition\" state. [Ignition: Place a 3 Countdown Turns on the enemy, reduce the Countdown by 1 every turn. When the Countdown reach 0, remove \"Ignition\" state and deal 1,000,000 damage to all enemies. (Note: The damage from \"Ignition\" can't kill an enemy)]",
+        skill1: "Deal 50-100 hits dealing 1,000 Fixed Damage per hits to one enemy. Chance to inflict 'Ignition' state. [Ignition: Place a 3 Countdown Turns on the enemy, reduce the Countdown by 1 every turn. When the Countdown reach 0, remove 'Ignition' state and deal 1,000,000 damage to all enemies. (Note: The damage from 'Ignition' can't kill an enemy)]",
 
         skill2name: "Taken Before",
         skill2ogname: "前に気をとられたな",
@@ -10048,7 +10048,7 @@ window.detail = {
         skill1type: "Weapon",
         skill1speed: "Fastest",
         skill1cost: "90",
-        skill1: "Deal 50-100 hits dealing 1,000 Fixed Damage per hits to one enemy. Chance to inflict \"Ignition\" state. [Ignition: Place a 3 Countdown Turns on the enemy, reduce the Countdown by 1 every turn. When the Countdown reach 0, remove \"Ignition\" state and deal 1,000,000 damage to all enemies. (Note: The damage from \"Ignition\" can't kill an enemy)]",
+        skill1: "Deal 50-100 hits dealing 1,000 Fixed Damage per hits to one enemy. Chance to inflict 'Ignition' state. [Ignition: Place a 3 Countdown Turns on the enemy, reduce the Countdown by 1 every turn. When the Countdown reach 0, remove 'Ignition' state and deal 1,000,000 damage to all enemies. (Note: The damage from 'Ignition' can't kill an enemy)]",
 
         skill2name: "Taken Before",
         skill2ogname: "前に気をとられたな",
@@ -10073,14 +10073,14 @@ window.detail = {
         skill1type: "Wind",
         skill1speed: "Fastest",
         skill1cost: "100",
-        skill1: "Own Basic Attack Crit Chance +70%, grant \"Wind Specialty\" state and remove \"Kick Specialty\" state. [Wind Specialty: ATK +100% and Crit Damage +800%]",
+        skill1: "Own Basic Attack Crit Chance +70%, grant 'Wind Specialty' state and remove 'Kick Specialty' state. [Wind Specialty: ATK +100% and Crit Damage +800%]",
 
         skill2name: "Let Me Show You Naruto Fall",
         skill2ogname: "ﾅﾙﾄ落しを見せてやるってばよ",
         skill2type: "Taijutsu",
         skill2speed: "Fastest",
         skill2cost: "100",
-        skill2: "Own Basic Attack Crit Chance +70%, grant \"Kick Specialty\" state and remove \"Wind Specialty\" state. [Kick Specialty: SPD +100%, Crit Damage +200% and HP Regen +10%]",
+        skill2: "Own Basic Attack Crit Chance +70%, grant 'Kick Specialty' state and remove 'Wind Specialty' state. [Kick Specialty: SPD +100%, Crit Damage +200% and HP Regen +10%]",
 
         ability1name: "I Love Ichiraku Ramen",
         ability1: "Basic Attack can't be dodges when HP is above 90%",
@@ -10098,14 +10098,14 @@ window.detail = {
         skill1type: "Wind",
         skill1speed: "Fastest",
         skill1cost: "100",
-        skill1: "Own Basic Attack Crit Chance +70%, grant \"Wind Specialty\" state and remove \"Kick Specialty\" state. [Wind Specialty: ATK +100% and Crit Damage +800%]",
+        skill1: "Own Basic Attack Crit Chance +70%, grant 'Wind Specialty' state and remove 'Kick Specialty' state. [Wind Specialty: ATK +100% and Crit Damage +800%]",
 
         skill2name: "Let Me Show You Naruto Fall",
         skill2ogname: "ﾅﾙﾄ落しを見せてやるってばよ",
         skill2type: "Taijutsu",
         skill2speed: "Fastest",
         skill2cost: "100",
-        skill2: "Own Basic Attack Crit Chance +70%, grant \"Kick Specialty\" state and remove \"Wind Specialty\" state. [Kick Specialty: SPD +100%, Crit Damage +200% and HP Regen +10%]",
+        skill2: "Own Basic Attack Crit Chance +70%, grant 'Kick Specialty' state and remove 'Wind Specialty' state. [Kick Specialty: SPD +100%, Crit Damage +200% and HP Regen +10%]",
 
         ability1name: "I Love Ichiraku Ramen",
         ability1: "Basic Attack can't be dodges when HP is above 90%",
@@ -10130,7 +10130,7 @@ window.detail = {
         skill2type: "Unique",
         skill2speed: "Fastest",
         skill2cost: "60",
-        skill2: "Own ATK and DEF +200%. If there's a Konoha ally in the team, own Cast Speed +1. If one of those ally is \"Obito Uchiha\" or \"Rin Nohara\", Own SPD +70% and Chakra Cost -50%",
+        skill2: "Own ATK and DEF +200%. If there's a Konoha ally in the team, own Cast Speed +1. If one of those ally is 'Obito Uchiha' or 'Rin Nohara', Own SPD +70% and Chakra Cost -50%",
 
         ability1name: "Rin's Feelings",
         ability1: "Maximum Chakra +50 and Maximum HP +100%",
@@ -10155,7 +10155,7 @@ window.detail = {
         skill2type: "Unique",
         skill2speed: "Fastest",
         skill2cost: "50",
-        skill2: "Own ATK and DEF +500%. If there's a Konoha ally in the team, own Cast Speed +2. If one of those ally is \"Obito Uchiha\" or \"Rin Nohara\", Own SPD +100% and Chakra Cost becomes 0",
+        skill2: "Own ATK and DEF +500%. If there's a Konoha ally in the team, own Cast Speed +2. If one of those ally is 'Obito Uchiha' or 'Rin Nohara', Own SPD +100% and Chakra Cost becomes 0",
 
         ability1name: "Rin's Feelings",
         ability1: "Maximum Chakra +120 and Maximum HP +150%",
@@ -10180,7 +10180,7 @@ window.detail = {
         skill2type: "Unique",
         skill2speed: "Normal",
         skill2cost: "70",
-        skill2: "Own DEF +100%, Incoming Skill Damage -50% and Protect all allies. Recover 100% HP if one of the ally is \"Kakashi Hatake\" or \"Rin Nohara\". ",
+        skill2: "Own DEF +100%, Incoming Skill Damage -50% and Protect all allies. Recover 100% HP if one of the ally is 'Kakashi Hatake' or 'Rin Nohara'. ",
 
         ability1name: "Kakashi's Opposite Heart",
         ability1: "Maximum HP and Skill Damage +50%. SPD +100% when HP is below 50%",
@@ -10205,7 +10205,7 @@ window.detail = {
         skill2type: "Unique",
         skill2speed: "Fast",
         skill2cost: "60",
-        skill2: "Own DEF +300%, Incoming Skill Damage -50% and Protect all allies. Recover 100% HP if one of the ally is \"Kakashi Hatake\" or \"Rin Nohara\". ",
+        skill2: "Own DEF +300%, Incoming Skill Damage -50% and Protect all allies. Recover 100% HP if one of the ally is 'Kakashi Hatake' or 'Rin Nohara'. ",
 
         ability1name: "Kakashi's Opposite Heart",
         ability1: "Maximum HP and Skill Damage +80%. SPD +150% when HP is below 50%",
@@ -10223,7 +10223,7 @@ window.detail = {
         skill1type: "Summoning",
         skill1speed: "Normal",
         skill1cost: "100",
-        skill1: "Heal all allies for 999,999 HP, remove all Debuffs and Negative Special State. Grant 1 member of the party \"Regeneration\" state. [Regeneration: When HP reach 0, revive. Chakra Recovery +20% when attacked. When HP reach 0 twice, remove \"Regeneration\" state and set Chakra to 0]",
+        skill1: "Heal all allies for 999,999 HP, remove all Debuffs and Negative Special State. Grant 1 member of the party 'Regeneration' state. [Regeneration: When HP reach 0, revive. Chakra Recovery +20% when attacked. When HP reach 0 twice, remove 'Regeneration' state and set Chakra to 0]",
 
         skill2name: "Furious Fist",
         skill2ogname: "怒髪天撃",
@@ -10248,7 +10248,7 @@ window.detail = {
         skill1type: "Summoning",
         skill1speed: "Normal",
         skill1cost: "100",
-        skill1: "Heal all allies for 999,999 HP, remove all Debuffs and Negative Special State. Grant 1 member of the party \"Regeneration\" state. [Regeneration: When HP reach 0, revive. Chakra Recovery +20% when attacked. When HP reach 0 twice, remove \"Regeneration\" state and set Chakra to 0]",
+        skill1: "Heal all allies for 999,999 HP, remove all Debuffs and Negative Special State. Grant 1 member of the party 'Regeneration' state. [Regeneration: When HP reach 0, revive. Chakra Recovery +20% when attacked. When HP reach 0 twice, remove 'Regeneration' state and set Chakra to 0]",
 
         skill2name: "Furious Fist",
         skill2ogname: "怒髪天撃",
@@ -10273,7 +10273,7 @@ window.detail = {
         skill1type: "Summoning",
         skill1speed: "Normal",
         skill1cost: "100",
-        skill1: "Heal all allies for 999,999 HP and grant \"Resist\" state. Grant 1 member of the party \"Convalescence\" [Convalescence: Incoming Skill Damage -150%, Recovery 30% HP when attacked] [Resist: Remove and Immune to Status Effect and Debuffs]",
+        skill1: "Heal all allies for 999,999 HP and grant 'Resist' state. Grant 1 member of the party 'Convalescence' [Convalescence: Incoming Skill Damage -150%, Recovery 30% HP when attacked] [Resist: Remove and Immune to Status Effect and Debuffs]",
 
         skill2name: "Leave It To Me!",
         skill2ogname: "ここは私にまかせて！",
@@ -10298,7 +10298,7 @@ window.detail = {
         skill1type: "Summoning",
         skill1speed: "Normal",
         skill1cost: "100",
-        skill1: "Heal all allies for 999,999 HP and grant \"Resist\" state. Grant 1 member of the party \"Convalescence\" [Convalescence: Incoming Skill Damage -150%, Recovery 30% HP when attacked] [Resist: Remove and Immune to Status Effect and Debuffs]",
+        skill1: "Heal all allies for 999,999 HP and grant 'Resist' state. Grant 1 member of the party 'Convalescence' [Convalescence: Incoming Skill Damage -150%, Recovery 30% HP when attacked] [Resist: Remove and Immune to Status Effect and Debuffs]",
 
         skill2name: "Leave It To Me!",
         skill2ogname: "ここは私にまかせて！",
@@ -10330,7 +10330,7 @@ window.detail = {
         skill2type: "Unique",
         skill2speed: "Fast",
         skill2cost: "50",
-        skill2: "Own ATK and SPD +150%. Grant ally \"Tenten\", \"Might Gai\", \"Rock Lee\", \"Neji Hyuga\" \"Connected\" state. [Connected: Status Effects are halved, Skill Damage increase based on how many Konoha Character in the team. Maximum 200%]",
+        skill2: "Own ATK and SPD +150%. Grant ally 'Tenten', 'Might Gai', 'Rock Lee', 'Neji Hyuga' 'Connected' state. [Connected: Status Effects are halved, Skill Damage increase based on how many Konoha Character in the team. Maximum 200%]",
 
         ability1name: "Pride of Ninja Tools",
         ability1: "ATK and Skill Damage +100%, Immune to Weapon Skill Damage",
@@ -10355,7 +10355,7 @@ window.detail = {
         skill2type: "Unique",
         skill2speed: "Fast",
         skill2cost: "50",
-        skill2: "Own ATK and SPD +150%. Grant ally \"Tenten\", \"Might Gai\", \"Rock Lee\", \"Neji Hyuga\" \"Connected\" state. [Connected: Status Effects are halved, Skill Damage increase based on how many Konoha Character in the team. Maximum 200%]",
+        skill2: "Own ATK and SPD +150%. Grant ally 'Tenten', 'Might Gai', 'Rock Lee', 'Neji Hyuga' 'Connected' state. [Connected: Status Effects are halved, Skill Damage increase based on how many Konoha Character in the team. Maximum 200%]",
 
         ability1name: "Pride of Ninja Tools",
         ability1: "ATK and Skill Damage +100%, Immune to Weapon Skill Damage",
@@ -10373,14 +10373,14 @@ window.detail = {
         skill1type: "Unique",
         skill1speed: "Fast",
         skill1cost: "100",
-        skill1: "Deal 7% + 10,000 to one enemy. Deal 20x damage to EX and grant \"Restraint\" state. [Restraint: SPD -1000% and Cast Speed -2]",
+        skill1: "Deal 7% + 10,000 to one enemy. Deal 20x damage to EX and grant 'Restraint' state. [Restraint: SPD -1000% and Cast Speed -2]",
 
         skill2name: "I Won't Disturb",
         skill2ogname: "邪魔はさせない！",
         skill2type: "Unique",
         skill2speed: "Fast",
         skill2cost: "70",
-        skill2: "Own ATK +100% and grant \"Paper Human\" state. If one of the enemy is an EX, SPD +300% and Immune to Skills. [Paper Human: Skill Damage +300%]",
+        skill2: "Own ATK +100% and grant 'Paper Human' state. If one of the enemy is an EX, SPD +300% and Immune to Skills. [Paper Human: Skill Damage +300%]",
 
         ability1name: "Origami Jutsu User",
         ability1: "Basic Attack Dodge +500%, High Chance to Dodge Skills",
@@ -10398,14 +10398,14 @@ window.detail = {
         skill1type: "Unique",
         skill1speed: "Fast",
         skill1cost: "100",
-        skill1: "Deal 7% + 10,000 to one enemy. Deal 20x damage to EX and grant \"Restraint\" state. [Restraint: SPD -1000% and Cast Speed -2]",
+        skill1: "Deal 7% + 10,000 to one enemy. Deal 20x damage to EX and grant 'Restraint' state. [Restraint: SPD -1000% and Cast Speed -2]",
 
         skill2name: "I Won't Disturb",
         skill2ogname: "邪魔はさせない！",
         skill2type: "Unique",
         skill2speed: "Fast",
         skill2cost: "70",
-        skill2: "Own ATK +100% and grant \"Paper Human\" state. If one of the enemy is an EX, SPD +300% and Immune to Skills. [Paper Human: Skill Damage +300%]",
+        skill2: "Own ATK +100% and grant 'Paper Human' state. If one of the enemy is an EX, SPD +300% and Immune to Skills. [Paper Human: Skill Damage +300%]",
 
         ability1name: "Origami Jutsu User",
         ability1: "Basic Attack Dodge +500%, High Chance to Dodge Skills",
@@ -10473,14 +10473,14 @@ window.detail = {
         skill1type: "Water",
         skill1speed: "Fast",
         skill1cost: "100",
-        skill1: "Deal 7% + 10,000 to one enemy with a high chance to inflict \"Bleed\" state. Deal 100x ATK Damage to Surroundings enemies. If one enemy is under \"Bleed\" state, deal 5x damage. [Bleed: Continues to lose HP, Chance to Lower DEF] ",
+        skill1: "Deal 7% + 10,000 to one enemy with a high chance to inflict 'Bleed' state. Deal 100x ATK Damage to Surroundings enemies. If one enemy is under 'Bleed' state, deal 5x damage. [Bleed: Continues to lose HP, Chance to Lower DEF] ",
 
         skill2name: "Time to Torment You",
         skill2ogname: "いたぶってあげましょう",
         skill2type: "Unique",
         skill2speed: "Fast",
         skill2cost: "80",
-        skill2: "High Chance to lower all enemies ATK, DEF or SPD by 40% and inflict \"Bubble\" state. High Chance to inflict \"Usurp\" state to enemies under \"Bubble\" state. [Bubble: Chance to lower SPD] [Usurp: HP -15% and Chakra -30% every turn]",
+        skill2: "High Chance to lower all enemies ATK, DEF or SPD by 40% and inflict 'Bubble' state. High Chance to inflict 'Usurp' state to enemies under 'Bubble' state. [Bubble: Chance to lower SPD] [Usurp: HP -15% and Chakra -30% every turn]",
 
         ability1name: "Eating Chakra",
         ability1: "Maximum Chakra +150 and Maximum HP +100%",
@@ -10498,14 +10498,14 @@ window.detail = {
         skill1type: "Water",
         skill1speed: "Fast",
         skill1cost: "100",
-        skill1: "Deal 7% + 10,000 to one enemy with a high chance to inflict \"Bleed\" state. Deal 100x ATK Damage to Surroundings enemies. If one enemy is under \"Bleed\" state, deal 5x damage. [Bleed: Continues to lose HP, Chance to Lower DEF] ",
+        skill1: "Deal 7% + 10,000 to one enemy with a high chance to inflict 'Bleed' state. Deal 100x ATK Damage to Surroundings enemies. If one enemy is under 'Bleed' state, deal 5x damage. [Bleed: Continues to lose HP, Chance to Lower DEF] ",
 
         skill2name: "Time to Torment You",
         skill2ogname: "いたぶってあげましょう",
         skill2type: "Unique",
         skill2speed: "Fast",
         skill2cost: "80",
-        skill2: "High Chance to lower all enemies ATK, DEF or SPD by 40% and inflict \"Bubble\" state. High Chance to inflict \"Usurp\" state to enemies under \"Bubble\" state. [Bubble: Chance to lower SPD] [Usurp: HP -15% and Chakra -30% every turn]",
+        skill2: "High Chance to lower all enemies ATK, DEF or SPD by 40% and inflict 'Bubble' state. High Chance to inflict 'Usurp' state to enemies under 'Bubble' state. [Bubble: Chance to lower SPD] [Usurp: HP -15% and Chakra -30% every turn]",
 
         ability1name: "Eating Chakra",
         ability1: "Maximum Chakra +150 and Maximum HP +100%",
@@ -10523,14 +10523,14 @@ window.detail = {
         skill1type: "Sharingan",
         skill1speed: "Fast",
         skill1cost: "200",
-        skill1: "Deal 100,000 fixed damage to one enemy with a High Chance to inflict \"Befuddle\" state. While under \"Determined\" state, consume all Chakra and guarantee to inflict \"Befuddle\" state. [Befuddle: ATK, Crit Damage and Crit Chance +3000%, remove all Buffs, Debuffs and Special State other than Befuddle state. Basic Attacks only hit allies (Note: If there's no allies, no action occurs)] [Always Hit]",
+        skill1: "Deal 100,000 fixed damage to one enemy with a High Chance to inflict 'Befuddle' state. While under 'Determined' state, consume all Chakra and guarantee to inflict 'Befuddle' state. [Befuddle: ATK, Crit Damage and Crit Chance +3000%, remove all Buffs, Debuffs and Special State other than Befuddle state. Basic Attacks only hit allies (Note: If there's no allies, no action occurs)] [Always Hit]",
 
         skill2name: "Protecting the Uchiha Name",
         skill2ogname: "うちはの名を守ってくれ",
         skill2type: "Unique",
         skill2speed: "Fastest",
         skill2cost: "60",
-        skill2: "All allies ATK and SPD +80%, grant Shisui \"Determined\" state. If one of the ally is  \"Itachi Uchiha\" own Skill Damage +200% [Determined: ATK, DEF and SPD +40%, recover 10% HP and Chakra when attacked]",
+        skill2: "All allies ATK and SPD +80%, grant Shisui 'Determined' state. If one of the ally is  'Itachi Uchiha' own Skill Damage +200% [Determined: ATK, DEF and SPD +40%, recover 10% HP and Chakra when attacked]",
 
         ability1name: "Thinking for the Clan",
         ability1: "Maximum HP +80% and Maximum Chakra +100",
@@ -10548,14 +10548,14 @@ window.detail = {
         skill1type: "Sharingan",
         skill1speed: "Fast",
         skill1cost: "200",
-        skill1: "Deal 100,000 fixed damage to one enemy with a High Chance to inflict \"Befuddle\" state. While under \"Determined\" state, consume all Chakra and guarantee to inflict \"Befuddle\" state. [Befuddle: ATK, Crit Damage and Crit Chance +3000%, remove all Buffs, Debuffs and Special State other than Befuddle state. Basic Attacks only hit allies (Note: If there's no allies, no action occurs)] [Always Hit]",
+        skill1: "Deal 100,000 fixed damage to one enemy with a High Chance to inflict 'Befuddle' state. While under 'Determined' state, consume all Chakra and guarantee to inflict 'Befuddle' state. [Befuddle: ATK, Crit Damage and Crit Chance +3000%, remove all Buffs, Debuffs and Special State other than Befuddle state. Basic Attacks only hit allies (Note: If there's no allies, no action occurs)] [Always Hit]",
 
         skill2name: "Protecting the Uchiha Name",
         skill2ogname: "うちはの名を守ってくれ",
         skill2type: "Unique",
         skill2speed: "Fastest",
         skill2cost: "60",
-        skill2: "All allies ATK and SPD +80%, grant Shisui \"Determined\" state. If one of the ally is \"Itachi Uchiha\" own Skill Damage +200% [Determined: ATK, DEF and SPD +40%, recover 10% HP and Chakra when attacked]",
+        skill2: "All allies ATK and SPD +80%, grant Shisui 'Determined' state. If one of the ally is 'Itachi Uchiha' own Skill Damage +200% [Determined: ATK, DEF and SPD +40%, recover 10% HP and Chakra when attacked]",
 
         ability1name: "Thinking for the Clan",
         ability1: "Maximum HP +80% and Maximum Chakra +100",
@@ -10680,7 +10680,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "60",
-		skill2: "Own ATK +100% and grant \"Connected\" state. Recover all allies Chakra by a tremendous amount and grant \"Determined\" state. [Connected: Status Effects are halved, Skill Damage increase based on how many Konoha Character in the team. Maximum +1000%] [Determined: ATK, DEF and SPD +80%, recover 10% HP and Chakra when attacked]",
+		skill2: "Own ATK +100% and grant 'Connected' state. Recover all allies Chakra by a tremendous amount and grant 'Determined' state. [Connected: Status Effects are halved, Skill Damage increase based on how many Konoha Character in the team. Maximum +1000%] [Determined: ATK, DEF and SPD +80%, recover 10% HP and Chakra when attacked]",
 
 		ability1name: "Inherited Competitive Spirit",
 		ability1: "Skill Damage +100%. When HP reach 0, revive twice",
@@ -10705,7 +10705,7 @@ window.detail = {
 		skill2type: "Unique",
 		skill2speed: "Fastest",
 		skill2cost: "60",
-		skill2: "Own ATK +100% and grant \"Connected\" state. Recover all allies Chakra by a tremendous amount and grant \"Determined\" state. [Connected: Status Effects are halved, Skill Damage increase based on how many Konoha Character in the team. Maximum +1000%] [Determined: ATK, DEF and SPD +80%, recover 10% HP and Chakra when attacked]",
+		skill2: "Own ATK +100% and grant 'Connected' state. Recover all allies Chakra by a tremendous amount and grant 'Determined' state. [Connected: Status Effects are halved, Skill Damage increase based on how many Konoha Character in the team. Maximum +1000%] [Determined: ATK, DEF and SPD +80%, recover 10% HP and Chakra when attacked]",
 
 		ability1name: "Inherited Competitive Spirit",
 		ability1: "Skill Damage +100%. When HP reach 0, revive twice",
@@ -10723,14 +10723,14 @@ window.detail = {
         skill1type: "Lightning",
         skill1speed: "Fastest",
         skill1cost: "100",
-        skill1: "Own Basic Attack Crit Chance +70%, grant \"Lightning Specialty\" state and remove \"Slashing Specialty\" state. [Lightning Specialty: ATK +100% and Crit Damage +800%]",
+        skill1: "Own Basic Attack Crit Chance +70%, grant 'Lightning Specialty' state and remove 'Slashing Specialty' state. [Lightning Specialty: ATK +100% and Crit Damage +800%]",
 
         skill2name: "Severe",
         skill2ogname: "だから断ち切った",
         skill2type: "Weapon",
         skill2speed: "Fastest",
         skill2cost: "100",
-        skill2: "Own Basic Attack Crit Chance +70%, grant \"Slashing Specialty\" state and remove \"Lightning Specialty\" state. [Slashing Specialty: SPD +100%, Crit Damage +200% and HP Regen +10%]",
+        skill2: "Own Basic Attack Crit Chance +70%, grant 'Slashing Specialty' state and remove 'Lightning Specialty' state. [Slashing Specialty: SPD +100%, Crit Damage +200% and HP Regen +10%]",
 
         ability1name: "Battle Nature",
         ability1: "Basic Attack can't be dodges when HP is above 90%",
@@ -10748,14 +10748,14 @@ window.detail = {
         skill1type: "Lightning",
         skill1speed: "Fastest",
         skill1cost: "100",
-        skill1: "Own Basic Attack Crit Chance +70%, grant \"Lightning Specialty\" state and remove \"Slashing Specialty\" state. [Lightning Specialty: ATK +100% and Crit Damage +800%]",
+        skill1: "Own Basic Attack Crit Chance +70%, grant 'Lightning Specialty' state and remove 'Slashing Specialty' state. [Lightning Specialty: ATK +100% and Crit Damage +800%]",
 
         skill2name: "Severe",
         skill2ogname: "だから断ち切った",
         skill2type: "Weapon",
         skill2speed: "Fastest",
         skill2cost: "100",
-        skill2: "Own Basic Attack Crit Chance +70%, grant \"Slashing Specialty\" state and remove \"Lightning Specialty\" state. [Slashing Specialty: SPD +100%, Crit Damage +200% and HP Regen +10%]",
+        skill2: "Own Basic Attack Crit Chance +70%, grant 'Slashing Specialty' state and remove 'Lightning Specialty' state. [Slashing Specialty: SPD +100%, Crit Damage +200% and HP Regen +10%]",
 
         ability1name: "Battle Nature",
         ability1: "Basic Attack can't be dodges when HP is above 90%",
