@@ -5415,7 +5415,7 @@ window.unique=[
           "crystalOverwriteEffectId": "459",
           "targetCrystal": "765",
           "description": "最大HPとHP回復スキルの基礎回復量が100％アップし、スキルのランダムダメージのhit回数を10回増加",
-          "charaIds": "11901",
+          "charaIds": "11901,13705",
           "cardIds": "0",
           "charaGroupIds": "0",
           "effectIdx1": "684",
@@ -7234,5 +7234,29 @@ window.unique=[
           "effectIdx2": "1764",
           "effectIdx3": "663",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "614",
+          "targetCrystal": "10514",
+          "description": "スキルダメージが100％アップ、HP80％以上の時さらに50％アップ",
+          "charaIds": "11901,13705",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "774",
+          "effectIdx2": "31704",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "615",
+          "targetCrystal": "10515",
+          "description": "攻撃力と防御力と通常攻撃回避率が100％、素早さが50％アップする",
+          "charaIds": "11901,13705",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "11099",
+          "effectIdx2": "12099",
+          "effectIdx3": "13049",
+          "effectIdx4": "1141"
         }
 ]

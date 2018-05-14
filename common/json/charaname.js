@@ -2478,6 +2478,20 @@ window.charaname=[
           "gender": "1"
         },
         {
+          "charaProfileId": "13705",
+          "charaId": "137",
+          "name": "うちはマダラ",
+          "detail": null,
+          "charaLoveAffinityGroupId": "11910",
+          "birthday": "0",
+          "constellation": "0",
+          "height": "0",
+          "weight": "0",
+          "bloodType": "0",
+          "age": "0",
+          "gender": "0"
+        },
+        {
           "charaProfileId": "13801",
           "charaId": "0",
           "name": "うちはマダラ",

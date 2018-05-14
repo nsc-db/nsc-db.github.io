@@ -16659,6 +16659,24 @@ window.ability=[
           "effectIdx3": "895"
         },
         {
+          "abilityId": "1885",
+          "abilityName": "Bottomless Strength",
+          "abilityDescription": "Maximum Chakra +50. High chance to dodge Skills",
+          "abilityEffectDescription": "最大チャクラが50アップし、スキルを高確率で回避する",
+          "effectIdx1": "689",
+          "effectIdx2": "968",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1886",
+          "abilityName": "Operating on Hatred",
+          "abilityDescription": "Skill Damage +500%. HP -15% per turn",
+          "abilityEffectDescription": "スキルダメージが500％アップするが、行動後に基礎HPの15％が減少する",
+          "effectIdx1": "616",
+          "effectIdx2": "30020",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "1901",
           "abilityName": "One Eye Swordsman",
           "abilityDescription": "Maximum HP and ATK +80%",

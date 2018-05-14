@@ -6170,6 +6170,16 @@ window.skillname=[
           "eng": "How Far Can You See"
         },
         {
+          "cardBattleSkillNameId": "2416",
+          "name": "神威・夢現",
+          "eng": "Kamui: Trance"
+        },
+        {
+          "cardBattleSkillNameId": "2417",
+          "name": "うちはの瞳力をなめるなよ",
+          "eng": "Don't Underestimate the Uchiha Eye"
+        },
+        {
           "cardBattleSkillNameId": "2420",
           "name": "呪印・天雷",
           "eng": "Curse Seal: Thunder"

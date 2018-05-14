@@ -4936,6 +4936,14 @@ window.skillname=[
           "name": "お前はどこまで見えている"
         },
         {
+          "cardBattleSkillNameId": "2416",
+          "name": "神威・夢現"
+        },
+        {
+          "cardBattleSkillNameId": "2417",
+          "name": "うちはの瞳力をなめるなよ"
+        },
+        {
           "cardBattleSkillNameId": "2420",
           "name": "呪印・天雷"
         },

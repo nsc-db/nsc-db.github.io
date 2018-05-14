@@ -9451,6 +9451,19 @@ window.lead=[
           "target2Param": "6"
         },
         {
+          "cardLeaderSkillId": "734",
+          "name": "希望を覆う闇",
+          "description": "Intellect Type Skill Damage +70%",
+          "effectIdx1": "652",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "6",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "736",
           "name": "白黒の狡猾者",
           "description": "Akatsuki Characters Maximum HP +120%",

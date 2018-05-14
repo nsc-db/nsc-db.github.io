@@ -1356,6 +1356,18 @@ window.vo=[
           "voiceDeath": "itachi_death_02_01"
         },
         {
+          "cardVoiceId": "114",
+          "cardId": "20040509",
+          "dirName": "madara",
+          "evolutionStep": "",
+          "voiceAppear": "madara_menu_mission_01",
+          "voiceSkill1": "madara_skill_02_18",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "madara_attack_02_02",
+          "voiceDeath": "madara_gacha_tap_01"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

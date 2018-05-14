@@ -4356,6 +4356,12 @@ window.tags=[
           "rate": "-"
 },
 {
+          "cardId": "20040509",
+          "rare": "5",
+          "tag": "killers",
+          "rate": "-"
+},
+{
           "cardId": "20040519",
           "rare": "5",
           "tag": "event",

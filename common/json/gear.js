@@ -13840,6 +13840,38 @@ window.gear=[
           "recipeName": "九尾の壁絵"
         },
         {
+          "crystalId": "10514",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "407",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "トビの割れた仮面",
+          "crystalDescription": "写輪眼タイプのスキルダメージが50％アップする",
+          "crystalImageId": "105145",
+          "recipeId": "10514",
+          "recipeName": "トビの割れた仮面"
+        },
+        {
+          "crystalId": "10515",
+          "crystalType": "1",
+          "crystalRare": "5",
+          "effectIdx1": "11049",
+          "effectIdx2": "542",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "トビの手袋",
+          "crystalDescription": "攻撃力と通常攻撃回避率が50％アップする",
+          "crystalImageId": "105155",
+          "recipeId": "10515",
+          "recipeName": "トビの手袋"
+        },
+        {
           "crystalId": "10525",
           "crystalType": "3",
           "crystalRare": "5",

@@ -16659,6 +16659,24 @@ window.ability=[
           "effectIdx3": "895"
         },
         {
+          "abilityId": "1885",
+          "abilityName": "底知れぬ力",
+          "abilityDescription": "最大チャクラが50アップし、スキルを高確率で回避する",
+          "abilityEffectDescription": "最大チャクラが50アップし、スキルを高確率で回避する",
+          "effectIdx1": "689",
+          "effectIdx2": "968",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1886",
+          "abilityName": "憎しみを操る者",
+          "abilityDescription": "スキルダメージが500％アップするが、行動後に基礎HPの15％が減少する",
+          "abilityEffectDescription": "スキルダメージが500％アップするが、行動後に基礎HPの15％が減少する",
+          "effectIdx1": "616",
+          "effectIdx2": "30020",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "1901",
           "abilityName": "隻眼の剣士",
           "abilityDescription": "最大HPと攻撃力が80％アップする",
