@@ -6959,8 +6959,8 @@ window.ability=[
         {
           "abilityId": "774",
           "abilityName": "二重スパイ",
-          "abilityDescription": "最大HPと素早さが50%アップする",
-          "abilityEffectDescription": "最大HPと素早さが50%アップする",
+          "abilityDescription": "Maximum HP and SPD +50%する",
+          "abilityEffectDescription": "Maximum HP and SPD +50%する",
           "effectIdx1": "10049",
           "effectIdx2": "112",
           "effectIdx3": "0"
@@ -7337,8 +7337,8 @@ window.ability=[
         {
           "abilityId": "816",
           "abilityName": "たった一つの望み",
-          "abilityDescription": "最大HPと素早さが50%アップ",
-          "abilityEffectDescription": "最大HPと素早さが50%アップ",
+          "abilityDescription": "Maximum HP and SPD +50%",
+          "abilityEffectDescription": "Maximum HP and SPD +50%",
           "effectIdx1": "680",
           "effectIdx2": "13049",
           "effectIdx3": "0"
@@ -7841,8 +7841,8 @@ window.ability=[
         {
           "abilityId": "872",
           "abilityName": "冷たき使命感",
-          "abilityDescription": "攻撃力とスキルダメージが100%アップする",
-          "abilityEffectDescription": "攻撃力とスキルダメージが100%アップする",
+          "abilityDescription": "ATK and Skill Damage +100%",
+          "abilityEffectDescription": "ATK and Skill Damage +100%",
           "effectIdx1": "11099",
           "effectIdx2": "30009",
           "effectIdx3": "0"
@@ -8066,8 +8066,8 @@ window.ability=[
         {
           "abilityId": "897",
           "abilityName": "旅先と乙女心",
-          "abilityDescription": "最大HPと素早さが50%アップし、麻痺を無効化する",
-          "abilityEffectDescription": "最大HPと素早さが50%アップし、麻痺を無効化する",
+          "abilityDescription": "Maximum HP and SPD +50%し、麻痺を無効化する",
+          "abilityEffectDescription": "Maximum HP and SPD +50%し、麻痺を無効化する",
           "effectIdx1": "10049",
           "effectIdx2": "66",
           "effectIdx3": "13049"
@@ -8075,8 +8075,8 @@ window.ability=[
         {
           "abilityId": "898",
           "abilityName": "湯上りの火照り",
-          "abilityDescription": "10回行動するまで攻撃力とスキルダメージが100%アップする",
-          "abilityEffectDescription": "10回行動するまで攻撃力とスキルダメージが100%アップする",
+          "abilityDescription": "10回行動するまでATK and Skill Damage +100%",
+          "abilityEffectDescription": "10回行動するまでATK and Skill Damage +100%",
           "effectIdx1": "30909",
           "effectIdx2": "1014",
           "effectIdx3": "0"
@@ -8201,8 +8201,8 @@ window.ability=[
         {
           "abilityId": "912",
           "abilityName": "力の解放",
-          "abilityDescription": "攻撃力とスキルダメージが100%アップするが、防御力が50%ダウンする",
-          "abilityEffectDescription": "攻撃力とスキルダメージが100%アップするが、防御力が50%ダウンする",
+          "abilityDescription": "ATK and Skill Damage +100%が、防御力が50%ダウンする",
+          "abilityEffectDescription": "ATK and Skill Damage +100%が、防御力が50%ダウンする",
           "effectIdx1": "11099",
           "effectIdx2": "30009",
           "effectIdx3": "252"
@@ -8309,8 +8309,8 @@ window.ability=[
         {
           "abilityId": "924",
           "abilityName": "お前の未来は死だ",
-          "abilityDescription": "3回行動後に、攻撃力とスキルダメージが100%アップする",
-          "abilityEffectDescription": "3回行動後に、攻撃力とスキルダメージが100%アップする",
+          "abilityDescription": "3回行動後に、ATK and Skill Damage +100%",
+          "abilityEffectDescription": "3回行動後に、ATK and Skill Damage +100%",
           "effectIdx1": "1044",
           "effectIdx2": "1045",
           "effectIdx3": "0"
@@ -8785,7 +8785,7 @@ window.ability=[
         },
         {
           "abilityId": "977",
-          "abilityName": "耐え忍ぶ覚悟",
+          "abilityName": "Prepared Endurance",
           "abilityDescription": "最大HPと防御力を50%アップする",
           "abilityEffectDescription": "最大HPと防御力を50%アップする",
           "effectIdx1": "10049",
@@ -9461,8 +9461,8 @@ window.ability=[
         {
           "abilityId": "1052",
           "abilityName": "お菓子作りにも力は必要！",
-          "abilityDescription": "HPが80%以上の時攻撃力とスキルダメージが100%アップする",
-          "abilityEffectDescription": "HPが80%以上の時攻撃力とスキルダメージが100%アップする",
+          "abilityDescription": "HPが80%以上の時ATK and Skill Damage +100%",
+          "abilityEffectDescription": "HPが80%以上の時ATK and Skill Damage +100%",
           "effectIdx1": "1192",
           "effectIdx2": "31709",
           "effectIdx3": "0"
@@ -9497,8 +9497,8 @@ window.ability=[
         {
           "abilityId": "1056",
           "abilityName": "お菓子作りは気持ち！",
-          "abilityDescription": "HPが80%以上の時素早さとスキルダメージが100%アップする",
-          "abilityEffectDescription": "HPが80%以上の時素早さとスキルダメージが100%アップする",
+          "abilityDescription": "HPが80%以上の時SPD and Skill Damage +100%",
+          "abilityEffectDescription": "HPが80%以上の時SPD and Skill Damage +100%",
           "effectIdx1": "1193",
           "effectIdx2": "31709",
           "effectIdx3": "0"
@@ -9624,7 +9624,7 @@ window.ability=[
           "abilityId": "1070",
           "abilityName": "Empty Martyr",
           "abilityDescription": "Maximum HP and SPD +100%, Chakra Cost -50%",
-          "abilityEffectDescription": "最大HPと素早さが100%アップし、チャクラ消費量が半減する",
+          "abilityEffectDescription": "Maximum HP and SPD +100%し、チャクラ消費量が半減する",
           "effectIdx1": "684",
           "effectIdx2": "13099",
           "effectIdx3": "895"
@@ -9677,8 +9677,8 @@ window.ability=[
         {
           "abilityId": "1076",
           "abilityName": "仮面の裏の真実",
-          "abilityDescription": "素早さとスキルダメージが100%アップする",
-          "abilityEffectDescription": "素早さとスキルダメージが100%アップする",
+          "abilityDescription": "SPD and Skill Damage +100%",
+          "abilityEffectDescription": "SPD and Skill Damage +100%",
           "effectIdx1": "13099",
           "effectIdx2": "30009",
           "effectIdx3": "0"
@@ -9704,8 +9704,8 @@ window.ability=[
         {
           "abilityId": "1079",
           "abilityName": "お菓子作りにも力は必要！",
-          "abilityDescription": "HPが50%以上の時攻撃力とスキルダメージが100%アップする",
-          "abilityEffectDescription": "HPが50%以上の時素早さとスキルダメージが100%アップする",
+          "abilityDescription": "HPが50%以上の時ATK and Skill Damage +100%",
+          "abilityEffectDescription": "HPが50%以上の時SPD and Skill Damage +100%",
           "effectIdx1": "1058",
           "effectIdx2": "31409",
           "effectIdx3": "0"
@@ -9740,8 +9740,8 @@ window.ability=[
         {
           "abilityId": "1083",
           "abilityName": "お菓子作りは気持ち！",
-          "abilityDescription": "HPが50%以上の時攻撃力とスキルダメージが100%アップする",
-          "abilityEffectDescription": "HPが50%以上の時素早さとスキルダメージが100%アップする",
+          "abilityDescription": "HPが50%以上の時ATK and Skill Damage +100%",
+          "abilityEffectDescription": "HPが50%以上の時SPD and Skill Damage +100%",
           "effectIdx1": "1058",
           "effectIdx2": "31409",
           "effectIdx3": "0"
@@ -9767,8 +9767,8 @@ window.ability=[
         {
           "abilityId": "1086",
           "abilityName": "強気な態度",
-          "abilityDescription": "最大HPと素早さが50%アップし、状態異常を半減する",
-          "abilityEffectDescription": "最大HPと素早さが50%アップし、状態異常を半減する",
+          "abilityDescription": "Maximum HP and SPD +50%し、状態異常を半減する",
+          "abilityEffectDescription": "Maximum HP and SPD +50%し、状態異常を半減する",
           "effectIdx1": "10049",
           "effectIdx2": "112",
           "effectIdx3": "792"
@@ -9812,8 +9812,8 @@ window.ability=[
         {
           "abilityId": "1091",
           "abilityName": "鋭敏な感知能力",
-          "abilityDescription": "最大HPと素早さが50%アップする",
-          "abilityEffectDescription": "最大HPと素早さが50%アップする",
+          "abilityDescription": "Maximum HP and SPD +50%する",
+          "abilityEffectDescription": "Maximum HP and SPD +50%する",
           "effectIdx1": "680",
           "effectIdx2": "112",
           "effectIdx3": "0"
@@ -10675,8 +10675,8 @@ window.ability=[
         },
         {
           "abilityId": "1187",
-          "abilityName": "揺るぎなき忍道",
-          "abilityDescription": "最大HPが100%アップし、Rinne Sharinganのスキルダメージを軽減する",
+          "abilityName": "Unshakeable Nindo",
+          "abilityDescription": "Maximum HP +100%. Reduce incoming Rinne Sharingan Skill Damage",
           "abilityEffectDescription": "最大HPが100%アップし、Rinne Sharinganのスキルダメージを軽減する",
           "effectIdx1": "684",
           "effectIdx2": "1234",
@@ -10684,8 +10684,8 @@ window.ability=[
         },
         {
           "abilityId": "1188",
-          "abilityName": "全尾獣のチャクラ（絆）",
-          "abilityDescription": "チャクラ90%以上の時スキルダメージが150%アップする",
+          "abilityName": "All Tailed Beast Chakra (Bonds)",
+          "abilityDescription": "Skill Damage +150% when Chakra is above 90%",
           "abilityEffectDescription": "チャクラ90%以上の時スキルダメージが150%アップする",
           "effectIdx1": "33814",
           "effectIdx2": "0",
@@ -10693,8 +10693,8 @@ window.ability=[
         },
         {
           "abilityId": "1189",
-          "abilityName": "焼き尽くす意志",
-          "abilityDescription": "最大HPが100%アップし、六道タイプのスキルダメージを軽減する",
+          "abilityName": "Exhausting Tempering Will",
+          "abilityDescription": "Maximum HP +100%. Reduce incoming Six Paths Skill Damage",
           "abilityEffectDescription": "最大HPが100%アップし、六道タイプのスキルダメージを軽減する",
           "effectIdx1": "684",
           "effectIdx2": "1286",
@@ -10702,8 +10702,8 @@ window.ability=[
         },
         {
           "abilityId": "1190",
-          "abilityName": "全尾獣のチャクラ（縛）",
-          "abilityDescription": "チャクラ90%以上の時スキルダメージが150%アップする",
+          "abilityName": "All Tailed Beast Chakra (Ties)",
+          "abilityDescription": "Skill Damage +150% when Chakra is above 90%",
           "abilityEffectDescription": "チャクラ90%以上の時スキルダメージが150%アップする",
           "effectIdx1": "33814",
           "effectIdx2": "0",
@@ -10711,8 +10711,8 @@ window.ability=[
         },
         {
           "abilityId": "1191",
-          "abilityName": "揺るぎなき忍道",
-          "abilityDescription": "最大HPが120%アップし、Rinne Sharinganのスキルダメージを軽減する",
+          "abilityName": "Unshakeable Nindo",
+          "abilityDescription": "Maximum HP +120%. Reduce incoming Rinne Sharingan Skill Damage",
           "abilityEffectDescription": "最大HPが120%アップし、Rinne Sharinganのスキルダメージを軽減する",
           "effectIdx1": "1221",
           "effectIdx2": "1234",
@@ -10720,8 +10720,8 @@ window.ability=[
         },
         {
           "abilityId": "1192",
-          "abilityName": "全尾獣のチャクラ（絆）",
-          "abilityDescription": "最大チャクラが50アップし、チャクラ50%以上の時スキルダメージが150%アップする",
+          "abilityName": "All Tailed Beast Chakra (Bonds)",
+          "abilityDescription": "Maximum Chakra +50, Skill Damage +150% when Chakra is above 50%",
           "abilityEffectDescription": "最大チャクラが50アップし、チャクラ50%以上の時スキルダメージが150%アップする",
           "effectIdx1": "20004",
           "effectIdx2": "33414",
@@ -10729,8 +10729,8 @@ window.ability=[
         },
         {
           "abilityId": "1193",
-          "abilityName": "焼き尽くす意志",
-          "abilityDescription": "最大HPが120%アップし、六道タイプのスキルダメージを軽減する",
+          "abilityName": "Exhausting Tempering Will",
+          "abilityDescription": "Maximum HP +120%. Reduce incoming Six Paths Skill Damage",
           "abilityEffectDescription": "最大HPが120%アップし、六道タイプのスキルダメージを軽減する",
           "effectIdx1": "1221",
           "effectIdx2": "1286",
@@ -10738,8 +10738,8 @@ window.ability=[
         },
         {
           "abilityId": "1194",
-          "abilityName": "全尾獣のチャクラ（縛）",
-          "abilityDescription": "最大チャクラが50アップし、チャクラ50%以上の時スキルダメージが150%アップする",
+          "abilityName": "All Tailed Beast Chakra (Ties)",
+          "abilityDescription": "Maximum Chakra +50, Skill Damage +150% when Chakra is above 50%",
           "abilityEffectDescription": "最大チャクラが50アップし、チャクラ50%以上の時スキルダメージが150%アップする",
           "effectIdx1": "20004",
           "effectIdx2": "33414",
@@ -10765,8 +10765,8 @@ window.ability=[
         },
         {
           "abilityId": "1197",
-          "abilityName": "再集結第七班（風）",
-          "abilityDescription": "スキルダメージが80%アップし、HP80%以上の時さらにスキルダメージが50%アップする",
+          "abilityName": "Return of Team 7 (Wind)",
+          "abilityDescription": "Skill Damage +80%, Additional Skill Damage +50% when HP is above 80%",
           "abilityEffectDescription": "スキルダメージが80%アップし、HP80%以上の時さらにスキルダメージが50%アップする",
           "effectIdx1": "694",
           "effectIdx2": "31704",
@@ -10774,8 +10774,8 @@ window.ability=[
         },
         {
           "abilityId": "1198",
-          "abilityName": "三忍の弟子（蝦蟇）",
-          "abilityDescription": "最大チャクラ量が50アップし、最大HPが80%アップする",
+          "abilityName": "Sannin's Pupil (Frog)",
+          "abilityDescription": "Maximum Chakra +50, Maximum HP +80%",
           "abilityEffectDescription": "最大チャクラ量が50アップし、最大HPが80%アップする",
           "effectIdx1": "20004",
           "effectIdx2": "649",
@@ -10783,8 +10783,8 @@ window.ability=[
         },
         {
           "abilityId": "1199",
-          "abilityName": "再集結第七班（火）",
-          "abilityDescription": "スキルダメージが80%アップし、HP80%以上の時さらにスキルダメージが50%アップする",
+          "abilityName": "Return of Team 7 (Fire)",
+          "abilityDescription": "Skill Damage +80%, Additional Skill Damage +50% when HP is above 80%",
           "abilityEffectDescription": "スキルダメージが80%アップし、HP80%以上の時さらにスキルダメージが50%アップする",
           "effectIdx1": "694",
           "effectIdx2": "31704",
@@ -10792,8 +10792,8 @@ window.ability=[
         },
         {
           "abilityId": "1200",
-          "abilityName": "三忍の弟子（蟒蛇）",
-          "abilityDescription": "最大チャクラ量が50アップし、素早さが80%アップする",
+          "abilityName": "Sannin's Pupil (Snake)",
+          "abilityDescription": "Maximum Chakra +50 and SPD +80%",
           "abilityEffectDescription": "最大チャクラ量が50アップし、素早さが80%アップする",
           "effectIdx1": "20004",
           "effectIdx2": "13079",
@@ -10801,8 +10801,8 @@ window.ability=[
         },
         {
           "abilityId": "1201",
-          "abilityName": "再集結第七班（癒）",
-          "abilityDescription": "スキルダメージが80%アップし、HP80%以上の時さらにスキルダメージが50%アップする",
+          "abilityName": "Return of Team 7 (Heal)",
+          "abilityDescription": "Skill Damage +80%, Additional Skill Damage +50% when HP is above 80%",
           "abilityEffectDescription": "スキルダメージが80%アップし、HP80%以上の時さらにスキルダメージが50%アップする",
           "effectIdx1": "694",
           "effectIdx2": "31704",
@@ -10810,8 +10810,8 @@ window.ability=[
         },
         {
           "abilityId": "1202",
-          "abilityName": "三忍の弟子（蛞蝓）",
-          "abilityDescription": "最大チャクラ量が50アップし、攻撃力が80%アップする",
+          "abilityName": "Sannin's Pupil (Slug)",
+          "abilityDescription": "Maximum Chakra +50 and ATK +80%",
           "abilityEffectDescription": "最大チャクラ量が50アップし、攻撃力が80%アップする",
           "effectIdx1": "20004",
           "effectIdx2": "11079",
@@ -10819,8 +10819,8 @@ window.ability=[
         },
         {
           "abilityId": "1203",
-          "abilityName": "再集結第七班（風）",
-          "abilityDescription": "スキルダメージが120%アップし、HP50%以上の時さらにスキルダメージが70%アップする",
+          "abilityName": "Return of Team 7 (Wind)",
+          "abilityDescription": "Skill Damage +120%, Additional Skill Damage +70% when HP is above 80%",
           "abilityEffectDescription": "スキルダメージが120%アップし、HP50%以上の時さらにスキルダメージが70%アップする",
           "effectIdx1": "30011",
           "effectIdx2": "31406",
@@ -10828,8 +10828,8 @@ window.ability=[
         },
         {
           "abilityId": "1204",
-          "abilityName": "三忍の弟子（蝦蟇）",
-          "abilityDescription": "最大チャクラ量が100アップし、最大HPが100%アップする",
+          "abilityName": "Sannin's Pupil (Frog)",
+          "abilityDescription": "Maximum Chakra +100 and Maximum HP +100%",
           "abilityEffectDescription": "最大チャクラ量が100アップし、最大HPが100%アップする",
           "effectIdx1": "20009",
           "effectIdx2": "684",
@@ -10837,8 +10837,8 @@ window.ability=[
         },
         {
           "abilityId": "1205",
-          "abilityName": "再集結第七班（火）",
-          "abilityDescription": "スキルダメージが120%アップし、HP50%以上の時さらにスキルダメージが70%アップする",
+          "abilityName": "Return of Team 7 (Fire)",
+          "abilityDescription": "Skill Damage +120%, Additional Skill Damage +70% when HP is above 80%",
           "abilityEffectDescription": "スキルダメージが120%アップし、HP50%以上の時さらにスキルダメージが70%アップする",
           "effectIdx1": "30011",
           "effectIdx2": "31406",
@@ -10846,8 +10846,8 @@ window.ability=[
         },
         {
           "abilityId": "1206",
-          "abilityName": "三忍の弟子（蟒蛇）",
-          "abilityDescription": "最大チャクラ量が100アップし、素早さが100%アップする",
+          "abilityName": "Sannin's Pupil (Snake)",
+          "abilityDescription": "Maximum Chakra +100 and SPD +100%",
           "abilityEffectDescription": "最大チャクラ量が100アップし、素早さが100%アップする",
           "effectIdx1": "20009",
           "effectIdx2": "13099",
@@ -10855,8 +10855,8 @@ window.ability=[
         },
         {
           "abilityId": "1207",
-          "abilityName": "再集結第七班（癒）",
-          "abilityDescription": "スキルダメージが120%アップし、HP50%以上の時さらにスキルダメージが70%アップする",
+          "abilityName": "Return of Team 7 (Heal)",
+          "abilityDescription": "Skill Damage +120%, Additional Skill Damage +70% when HP is above 80%",
           "abilityEffectDescription": "スキルダメージが120%アップし、HP50%以上の時さらにスキルダメージが70%アップする",
           "effectIdx1": "30011",
           "effectIdx2": "31406",
@@ -10864,8 +10864,8 @@ window.ability=[
         },
         {
           "abilityId": "1208",
-          "abilityName": "三忍の弟子（蛞蝓）",
-          "abilityDescription": "最大チャクラ量が100アップし、攻撃力が100%アップする",
+          "abilityName": "Sannin's Pupil (Slug)",
+          "abilityDescription": "Maximum Chakra +100 and ATK +100%",
           "abilityEffectDescription": "最大チャクラ量が100アップし、攻撃力が100%アップする",
           "effectIdx1": "20009",
           "effectIdx2": "11099",
@@ -10882,7 +10882,7 @@ window.ability=[
         },
         {
           "abilityId": "1210",
-          "abilityName": "全尾獣のチャクラ（絆）",
+          "abilityName": "All Tailed Beast Chakra (Bonds)",
           "abilityDescription": "スキルダメージがアップし、低確率でスキルを回避する",
           "abilityEffectDescription": "スキルダメージがアップし、低確率でスキルを回避する",
           "effectIdx1": "30000",
@@ -10891,7 +10891,7 @@ window.ability=[
         },
         {
           "abilityId": "1211",
-          "abilityName": "全尾獣のチャクラ（縛）",
+          "abilityName": "All Tailed Beast Chakra (Ties)",
           "abilityDescription": "スキルダメージがアップし、低確率でスキルを回避する",
           "abilityEffectDescription": "スキルダメージがアップし、低確率でスキルを回避する",
           "effectIdx1": "30000",
@@ -11134,36 +11134,36 @@ window.ability=[
         },
         {
           "abilityId": "1238",
-          "abilityName": "Kurama（陽）",
-          "abilityDescription": "最大チャクラ量を50アップし、9回行動するまでスキル発動速度を1段階アップする",
-          "abilityEffectDescription": "最大チャクラ量を50アップし、9回行動するまでスキル発動速度を1段階アップする",
+          "abilityName": "Kurama (Yang)",
+          "abilityDescription": "Maximum Chakra +50, For 9 turns, Cast Speed +1",
+          "abilityEffectDescription": "Maximum Chakra +50, For 9 turns, Cast Speed +1",
           "effectIdx1": "20004",
           "effectIdx2": "1336",
           "effectIdx3": "0"
         },
         {
           "abilityId": "1239",
-          "abilityName": "仙術と尾獣の力の融合",
-          "abilityDescription": "HPが50%以上の時、スキルダメージが90%アップする",
-          "abilityEffectDescription": "HPが50%以上の時、スキルダメージが90%アップする",
+          "abilityName": "Merging of Sage and Tailed Beast Power",
+          "abilityDescription": "Skill Damage +90% when HP is above 50%",
+          "abilityEffectDescription": "Skill Damage +90% when HP is above 50%",
           "effectIdx1": "31408",
           "effectIdx2": "0",
           "effectIdx3": "0"
         },
         {
           "abilityId": "1240",
-          "abilityName": "Kurama（陰）",
-          "abilityDescription": "最大チャクラ量を50アップし、9回行動するまでスキル発動速度を1段階アップする",
-          "abilityEffectDescription": "最大チャクラ量を50アップし、9回行動するまでスキル発動速度を1段階アップする",
+          "abilityName": "Kurama (Yin)",
+          "abilityDescription": "Maximum Chakra +50, For 9 turns, Cast Speed +1",
+          "abilityEffectDescription": "Maximum Chakra +50, For 9 turns, Cast Speed +1",
           "effectIdx1": "20004",
           "effectIdx2": "1336",
           "effectIdx3": "0"
         },
         {
           "abilityId": "1241",
-          "abilityName": "忍界を救いし英雄",
-          "abilityDescription": "HPが50%以上の時、スキルダメージが90%アップする",
-          "abilityEffectDescription": "HPが50%以上の時、スキルダメージが90%アップする",
+          "abilityName": "Shinobi Rescue Hero",
+          "abilityDescription": "Skill Damage +90% when HP is above 50%",
+          "abilityEffectDescription": "Skill Damage +90% when HP is above 50%",
           "effectIdx1": "31408",
           "effectIdx2": "0",
           "effectIdx3": "0"
@@ -11387,8 +11387,8 @@ window.ability=[
         {
           "abilityId": "1266",
           "abilityName": "最期の任務",
-          "abilityDescription": "素早さとスキルダメージが120%アップする",
-          "abilityEffectDescription": "素早さとスキルダメージが120%アップする",
+          "abilityDescription": "SPD and Skill Damage +120%",
+          "abilityEffectDescription": "SPD and Skill Damage +120%",
           "effectIdx1": "1335",
           "effectIdx2": "30011",
           "effectIdx3": "0"
@@ -11405,8 +11405,8 @@ window.ability=[
         {
           "abilityId": "1268",
           "abilityName": "うずまき一族の末裔",
-          "abilityDescription": "最大HPとスキルダメージが100%アップする",
-          "abilityEffectDescription": "最大HPとスキルダメージが100%アップする",
+          "abilityDescription": "Maximum HP and Skill Damage +100%",
+          "abilityEffectDescription": "Maximum HP and Skill Damage +100%",
           "effectIdx1": "684",
           "effectIdx2": "774",
           "effectIdx3": "0"
@@ -11458,8 +11458,8 @@ window.ability=[
         },
         {
           "abilityId": "1274",
-          "abilityName": "直巴の万華鏡",
-          "abilityDescription": "最大チャクラ量を250アップし、確率でスキルを回避する",
+          "abilityName": "Mangekyo's Value Tomoe",
+          "abilityDescription": "Maximum Chakra +250, Chance to Dodge Skills",
           "abilityEffectDescription": "最大チャクラ量を250アップし、確率でスキルを回避する",
           "effectIdx1": "20044",
           "effectIdx2": "734",
@@ -11467,8 +11467,8 @@ window.ability=[
         },
         {
           "abilityId": "1275",
-          "abilityName": "漆黒の炎",
-          "abilityDescription": "全ての状態異常にかかる確率が半減し、HPが0以下で1度だけHPが全回復する",
+          "abilityName": "Black Flames",
+          "abilityDescription": "Half the Chance of being inflicted by a negative state. When HP reach 0, revive once",
           "abilityEffectDescription": "全ての状態異常にかかる確率が半減し、HPが0以下で1度だけHPが全回復する",
           "effectIdx1": "792",
           "effectIdx2": "874",
@@ -11530,8 +11530,8 @@ window.ability=[
         },
         {
           "abilityId": "1282",
-          "abilityName": "痛みと憎しみ",
-          "abilityDescription": "行動するたびに攻撃力が20%アップする（最大4回まで）が行動するたびにHPが20%ずつ減少する",
+          "abilityName": "Pain and Hatred",
+          "abilityDescription": "ATK +20% per turn (Max 80%), HP -20% per turn",
           "abilityEffectDescription": "行動するたびに攻撃力が20%アップする（最大4回まで）が行動するたびにHPが20%ずつ減少する",
           "effectIdx1": "568",
           "effectIdx2": "1398",
@@ -11539,8 +11539,8 @@ window.ability=[
         },
         {
           "abilityId": "1283",
-          "abilityName": "妙木山での修業",
-          "abilityDescription": "最大チャクラが100アップし、スキルダメージと素早さが100%アップする",
+          "abilityName": "Training at Mount Myouboku",
+          "abilityDescription": "Maximum Chakra +100, Skill Damage and SPD +100%",
           "abilityEffectDescription": "最大チャクラが100アップし、スキルダメージと素早さが100%アップする",
           "effectIdx1": "813",
           "effectIdx2": "774",
@@ -11548,8 +11548,8 @@ window.ability=[
         },
         {
           "abilityId": "1284",
-          "abilityName": "痛みと憎しみ",
-          "abilityDescription": "行動するたびに攻撃力が40%アップする（最大5回まで）が行動するたびにHPが10%ずつ減少する",
+          "abilityName": "Pain and Hatred",
+          "abilityDescription": "ATK +40% per turn (Max 200%), HP -10% per turn",
           "abilityEffectDescription": "行動するたびに攻撃力が40%アップする（最大5回まで）が行動するたびにHPが10%ずつ減少する",
           "effectIdx1": "1412",
           "effectIdx2": "1413",
@@ -11557,8 +11557,8 @@ window.ability=[
         },
         {
           "abilityId": "1285",
-          "abilityName": "妙木山での修業",
-          "abilityDescription": "最大チャクラが120アップし、スキルダメージと素早さが150%アップする",
+          "abilityName": "Training at Mount Myouboku",
+          "abilityDescription": "Maximum Chakra +120, Skill Damage and SPD +150%",
           "abilityEffectDescription": "最大チャクラが120アップし、スキルダメージと素早さが150%アップする",
           "effectIdx1": "20011",
           "effectIdx2": "794",
@@ -11566,8 +11566,8 @@ window.ability=[
         },
         {
           "abilityId": "1286",
-          "abilityName": "予言の答え",
-          "abilityDescription": "最大HP・攻撃力・素早さが80%アップする",
+          "abilityName": "Prophecy's Answer",
+          "abilityDescription": "Maximum HP, ATK and SPD +80%",
           "abilityEffectDescription": "最大HP・攻撃力・素早さが80%アップする",
           "effectIdx1": "649",
           "effectIdx2": "11079",
@@ -11575,8 +11575,8 @@ window.ability=[
         },
         {
           "abilityId": "1287",
-          "abilityName": "二大仙蝦蟇の力添え",
-          "abilityDescription": "最大チャクラ量が50アップし、2回行動するまで武器・六道・輪廻眼以外のダメージを半減する",
+          "abilityName": "Two Great Sage Toad's Assistance",
+          "abilityDescription": "Maximum Chakra +50. For 2 turns incoming Skill Damage are halved except for Weapon, Six Paths and Rinnegan",
           "abilityEffectDescription": "最大チャクラ量が50アップし、2回行動するまで武器・六道・輪廻眼以外のダメージを半減する",
           "effectIdx1": "689",
           "effectIdx2": "1399",
@@ -11584,8 +11584,8 @@ window.ability=[
         },
         {
           "abilityId": "1288",
-          "abilityName": "予言の答え",
-          "abilityDescription": "最大HP・攻撃力・素早さが120%アップする",
+          "abilityName": "Prophecy's Answer",
+          "abilityDescription": "Maximum HP, ATK and SPD +120%",
           "abilityEffectDescription": "最大HP・攻撃力・素早さが120%アップする",
           "effectIdx1": "1221",
           "effectIdx2": "736",
@@ -11593,8 +11593,8 @@ window.ability=[
         },
         {
           "abilityId": "1289",
-          "abilityName": "二大仙蝦蟇の力添え",
-          "abilityDescription": "最大チャクラ量が100アップし、2回行動するまで武器・六道・輪廻眼以外のダメージを無効化する",
+          "abilityName": "Two Great Sage Toad's Assistance",
+          "abilityDescription": "Maximum Chakra +100. For 2 turns Immune incoming Skill Damage except for Weapon, Six Paths and Rinnegan",
           "abilityEffectDescription": "最大チャクラ量が100アップし、2回行動するまで武器・六道・輪廻眼以外のダメージを無効化する",
           "effectIdx1": "813",
           "effectIdx2": "1414",
@@ -11602,8 +11602,8 @@ window.ability=[
         },
         {
           "abilityId": "1290",
-          "abilityName": "稀代の木遁忍術",
-          "abilityDescription": "HPが80%以上の時、木遁タイプのスキルダメージが150%アップする",
+          "abilityName": "Extraordinary Wood Ninjutsu",
+          "abilityDescription": "Wood Skill Damage +150% when HP is above 80%",
           "abilityEffectDescription": "HPが80%以上の時、木遁タイプのスキルダメージが150%アップする",
           "effectIdx1": "1400",
           "effectIdx2": "0",
@@ -11611,8 +11611,8 @@ window.ability=[
         },
         {
           "abilityId": "1291",
-          "abilityName": "最高峰の実力者",
-          "abilityDescription": "最大チャクラが100アップし、最大HPと攻撃力が80%アップする",
+          "abilityName": "Pinnacle of Authority",
+          "abilityDescription": "Maximum Chakra +100, Maximum HP and ATK +80%",
           "abilityEffectDescription": "最大チャクラが100アップし、最大HPと攻撃力が80%アップする",
           "effectIdx1": "813",
           "effectIdx2": "649",
@@ -11620,8 +11620,8 @@ window.ability=[
         },
         {
           "abilityId": "1292",
-          "abilityName": "稀代の木遁忍術",
-          "abilityDescription": "行動後HPが10%回復し、木遁タイプのスキルダメージが200%アップする",
+          "abilityName": "Extraordinary Wood Ninjutsu",
+          "abilityDescription": "HP Regen +10% and Wood Skill Damage +200%",
           "abilityEffectDescription": "行動後HPが10%回復し、木遁タイプのスキルダメージが200%アップする",
           "effectIdx1": "52",
           "effectIdx2": "1415",
@@ -11629,8 +11629,8 @@ window.ability=[
         },
         {
           "abilityId": "1293",
-          "abilityName": "最高峰の実力者",
-          "abilityDescription": "最大チャクラが120アップし、最大HPと攻撃力が120%アップする",
+          "abilityName": "Pinnacle of Authority",
+          "abilityDescription": "Maximum Chakra +120, Maximum HP and ATK +120%",
           "abilityEffectDescription": "最大チャクラが120アップし、最大HPと攻撃力が120%アップする",
           "effectIdx1": "20011",
           "effectIdx2": "1221",
@@ -11674,8 +11674,8 @@ window.ability=[
         },
         {
           "abilityId": "1298",
-          "abilityName": "柔拳の極み",
-          "abilityDescription": "HP70%以上の時、スキルダメージが80%アップする",
+          "abilityName": "Height of the Gentle Fist",
+          "abilityDescription": "Skill Damage +80% when HP is above 70%",
           "abilityEffectDescription": "HP70%以上の時、スキルダメージが80%アップする",
           "effectIdx1": "31607",
           "effectIdx2": "0",
@@ -11683,8 +11683,8 @@ window.ability=[
         },
         {
           "abilityId": "1299",
-          "abilityName": "正確な打撃",
-          "abilityDescription": "攻撃力と素早さが90%アップする",
+          "abilityName": "Accurate Strike",
+          "abilityDescription": "ATK and SPD +90%",
           "abilityEffectDescription": "攻撃力と素早さが90%アップする",
           "effectIdx1": "11089",
           "effectIdx2": "13089",
@@ -11746,8 +11746,8 @@ window.ability=[
         },
         {
           "abilityId": "1306",
-          "abilityName": "愛を悟りし者",
-          "abilityDescription": "最大HPが100%アップし、HP0以下になると1回だけHPが全回復する",
+          "abilityName": "People Who Understand Love",
+          "abilityDescription": "HP +100%, when HP reach 0 revive to full HP once",
           "abilityEffectDescription": "最大HPが100%アップし、HP0以下になると1回だけHPが全回復する",
           "effectIdx1": "684",
           "effectIdx2": "312",
@@ -11755,8 +11755,8 @@ window.ability=[
         },
         {
           "abilityId": "1307",
-          "abilityName": "絆を信じる心",
-          "abilityDescription": "チャクラMAX時、攻撃力と仙術タイプのスキルダメージが80％アップする",
+          "abilityName": "A Heart Who Believe in Bonds",
+          "abilityDescription": "ATK and Sage Skill Damage +80% when Chakra is max",
           "abilityEffectDescription": "チャクラMAX時、攻撃力と仙術タイプのスキルダメージが80％アップする",
           "effectIdx1": "981",
           "effectIdx2": "982",
@@ -11764,8 +11764,8 @@ window.ability=[
         },
         {
           "abilityId": "1308",
-          "abilityName": "愛を悟りし者",
-          "abilityDescription": "最大HPが120%アップし、HPが0以下で2度までHPが全回復する",
+          "abilityName": "People Who Understand Love",
+          "abilityDescription": "HP +120%, when HP reach 0 revive to full HP twice",
           "abilityEffectDescription": "最大HPが120%アップし、HPが0以下で2度までHPが全回復する",
           "effectIdx1": "1221",
           "effectIdx2": "1057",
@@ -11773,8 +11773,8 @@ window.ability=[
         },
         {
           "abilityId": "1309",
-          "abilityName": "絆を信じる心",
-          "abilityDescription": "攻撃力と仙術タイプのスキルダメージが120％アップする",
+          "abilityName": "A Heart Who Believe in Bonds",
+          "abilityDescription": "ATK and Sage Skill Damage +120%",
           "abilityEffectDescription": "攻撃力と仙術タイプのスキルダメージが120％アップする",
           "effectIdx1": "736",
           "effectIdx2": "30011",
@@ -11782,8 +11782,8 @@ window.ability=[
         },
         {
           "abilityId": "1310",
-          "abilityName": "力を選びし者",
-          "abilityDescription": "HP80%以上の時に攻撃力と写輪眼タイプのスキルダメージ100%アップ",
+          "abilityName": "People Who Chooses Power",
+          "abilityDescription": "ATK and Sharingan Skill Damage +100% when HP is above 80%",
           "abilityEffectDescription": "HP80%以上の時に攻撃力と写輪眼タイプのスキルダメージ100%アップ",
           "effectIdx1": "1133",
           "effectIdx2": "31709",
@@ -11791,8 +11791,8 @@ window.ability=[
         },
         {
           "abilityId": "1311",
-          "abilityName": "闇に染まる心",
-          "abilityDescription": "行動するたびに攻撃力が20%アップする（最大4回まで）＆行動後にHPが10%回復する",
+          "abilityName": "A Heart Tainted in Darkness",
+          "abilityDescription": "ATK +20% per turn (Max 80%) and HP Regen +10%",
           "abilityEffectDescription": "行動するたびに攻撃力が20%アップする（最大4回まで）＆行動後にHPが10%回復する",
           "effectIdx1": "568",
           "effectIdx2": "52",
@@ -11800,8 +11800,8 @@ window.ability=[
         },
         {
           "abilityId": "1312",
-          "abilityName": "力を選びし者",
-          "abilityDescription": "攻撃力と写輪眼タイプのスキルダメージ120%アップ",
+          "abilityName": "People Who Chooses Power",
+          "abilityDescription": "ATK and Sharingan Skill Damage +120%",
           "abilityEffectDescription": "攻撃力と写輪眼タイプのスキルダメージ120%アップ",
           "effectIdx1": "736",
           "effectIdx2": "30011",
@@ -11809,8 +11809,8 @@ window.ability=[
         },
         {
           "abilityId": "1313",
-          "abilityName": "闇に染まる心",
-          "abilityDescription": "行動するたびに攻撃力が30%アップする（最大4回まで）＆行動後にHPが20%回復する",
+          "abilityName": "A Heart Tainted in Darkness",
+          "abilityDescription": "ATK +30% per turn (Max 120%) and HP Regen +20%",
           "abilityEffectDescription": "行動するたびに攻撃力が30%アップする（最大4回まで）＆行動後にHPが20%回復する",
           "effectIdx1": "1416",
           "effectIdx2": "628",
@@ -11836,8 +11836,8 @@ window.ability=[
         },
         {
           "abilityId": "1316",
-          "abilityName": "Kurama（陽）",
-          "abilityDescription": "最大チャクラ量を100アップし、スキル発動速度を1段階アップする",
+          "abilityName": "Kurama (Yang)",
+          "abilityDescription": "Maximum Chakra +100, Cast Speed +1",
           "abilityEffectDescription": "最大チャクラ量を100アップし、スキル発動速度を1段階アップする",
           "effectIdx1": "813",
           "effectIdx2": "21000",
@@ -11845,8 +11845,8 @@ window.ability=[
         },
         {
           "abilityId": "1317",
-          "abilityName": "仙術と尾獣の力の融合",
-          "abilityDescription": "スキルダメージが150%アップする",
+          "abilityName": "Merging of Sage and Tailed Beast Power",
+          "abilityDescription": "Skill Damage +150%",
           "abilityEffectDescription": "スキルダメージが150%アップする",
           "effectIdx1": "794",
           "effectIdx2": "0",
@@ -11854,8 +11854,8 @@ window.ability=[
         },
         {
           "abilityId": "1318",
-          "abilityName": "Kurama（陰）",
-          "abilityDescription": "最大チャクラ量を100アップし、スキル発動速度を1段階アップする",
+          "abilityName": "Kurama (Yin)",
+          "abilityDescription": "Maximum Chakra +100, Cast Speed +1",
           "abilityEffectDescription": "最大チャクラ量を100アップし、スキル発動速度を1段階アップする",
           "effectIdx1": "813",
           "effectIdx2": "21000",
@@ -11863,8 +11863,8 @@ window.ability=[
         },
         {
           "abilityId": "1319",
-          "abilityName": "忍界を救いし英雄",
-          "abilityDescription": "スキルダメージが150%アップする",
+          "abilityName": "Shinobi Rescue Hero",
+          "abilityDescription": "Skill Damage +150%",
           "abilityEffectDescription": "スキルダメージが150%アップする",
           "effectIdx1": "794",
           "effectIdx2": "0",
@@ -11918,8 +11918,8 @@ window.ability=[
         {
           "abilityId": "1325",
           "abilityName": "仕込みビーチボール",
-          "abilityDescription": "素早さとスキルダメージが120%アップする",
-          "abilityEffectDescription": "素早さとスキルダメージが120%アップする",
+          "abilityDescription": "SPD and Skill Damage +120%",
+          "abilityEffectDescription": "SPD and Skill Damage +120%",
           "effectIdx1": "1335",
           "effectIdx2": "30011",
           "effectIdx3": "0"
@@ -11945,8 +11945,8 @@ window.ability=[
         {
           "abilityId": "1328",
           "abilityName": "幻惑ボディ",
-          "abilityDescription": "最大HPとスキルダメージが80%アップする",
-          "abilityEffectDescription": "最大HPとスキルダメージが80%アップする",
+          "abilityDescription": "Maximum HP and Skill Damage +80%",
+          "abilityEffectDescription": "Maximum HP and Skill Damage +80%",
           "effectIdx1": "649",
           "effectIdx2": "694",
           "effectIdx3": "0"
@@ -11954,8 +11954,8 @@ window.ability=[
         {
           "abilityId": "1329",
           "abilityName": "色っぽい唇",
-          "abilityDescription": "HP50%以上の時、攻撃力と素早さとスキルダメージが100%アップする",
-          "abilityEffectDescription": "HP50%以上の時、攻撃力と素早さとスキルダメージが100%アップする",
+          "abilityDescription": "HP50%以上の時、攻撃力とSPD and Skill Damage +100%",
+          "abilityEffectDescription": "HP50%以上の時、攻撃力とSPD and Skill Damage +100%",
           "effectIdx1": "1019",
           "effectIdx2": "1088",
           "effectIdx3": "31409"
@@ -12008,8 +12008,8 @@ window.ability=[
         {
           "abilityId": "1335",
           "abilityName": "紅毛のくノ一",
-          "abilityDescription": "最大HPと素早さが100%アップする",
-          "abilityEffectDescription": "最大HPと素早さが100%アップする",
+          "abilityDescription": "Maximum HP and SPD +100%する",
+          "abilityEffectDescription": "Maximum HP and SPD +100%する",
           "effectIdx1": "684",
           "effectIdx2": "253",
           "effectIdx3": "0"
@@ -12070,8 +12070,8 @@ window.ability=[
         },
         {
           "abilityId": "1342",
-          "abilityName": "柔拳の極み",
-          "abilityDescription": "HP50%以上の時、スキルダメージが100%アップする",
+          "abilityName": "Height of the Gentle Fist",
+          "abilityDescription": "Skill Damage +100% when HP is above 50%",
           "abilityEffectDescription": "HP50%以上の時、スキルダメージが100%アップする",
           "effectIdx1": "31409",
           "effectIdx2": "0",
@@ -12079,8 +12079,8 @@ window.ability=[
         },
         {
           "abilityId": "1343",
-          "abilityName": "正確な打撃",
-          "abilityDescription": "攻撃力と素早さが120%アップする",
+          "abilityName": "Accurate Strike",
+          "abilityDescription": "ATK and SPD +120%",
           "abilityEffectDescription": "攻撃力と素早さが120%アップする",
           "effectIdx1": "736",
           "effectIdx2": "1335",
@@ -12268,72 +12268,72 @@ window.ability=[
         },
         {
           "abilityId": "1364",
-          "abilityName": "全ての尾獣チャクラ",
-          "abilityDescription": "最大チャクラ量が50アップし、最大HPが100%アップする",
-          "abilityEffectDescription": "最大チャクラ量が50アップし、最大HPが100%アップする",
+          "abilityName": "All Tailed Beast Chakra",
+          "abilityDescription": "Maximum Chakra +50 and Maximum HP +100%",
+          "abilityEffectDescription": "Maximum Chakra +50 and Maximum HP +100%",
           "effectIdx1": "689",
           "effectIdx2": "684",
           "effectIdx3": "0"
         },
         {
           "abilityId": "1365",
-          "abilityName": "アシュラの魂",
-          "abilityDescription": "チャクラMAX時、攻撃力とスキルダメージが150％アップする",
-          "abilityEffectDescription": "チャクラMAX時、攻撃力とスキルダメージが150％アップする",
+          "abilityName": "Ashura's Soul",
+          "abilityDescription": "ATK and Skill Damage +150% when Chakra is max",
+          "abilityEffectDescription": "ATK and Skill Damage +150% when Chakra is max",
           "effectIdx1": "1426",
           "effectIdx2": "1232",
           "effectIdx3": "0"
         },
         {
           "abilityId": "1366",
-          "abilityName": "全ての尾獣チャクラ",
-          "abilityDescription": "最大チャクラ量が120アップし、最大HPが150%アップする",
-          "abilityEffectDescription": "最大チャクラ量が120アップし、最大HPが150%アップする",
+          "abilityName": "All Tailed Beast Chakra",
+          "abilityDescription": "Maximum Chakra +120 and Maximum HP +150%",
+          "abilityEffectDescription": "Maximum Chakra +120 and Maximum HP +150%",
           "effectIdx1": "20011",
           "effectIdx2": "1212",
           "effectIdx3": "0"
         },
         {
           "abilityId": "1367",
-          "abilityName": "アシュラの魂",
-          "abilityDescription": "チャクラ50%以上の時、攻撃力とスキルダメージが200％アップする",
-          "abilityEffectDescription": "チャクラ50%以上の時、攻撃力とスキルダメージが200％アップする",
+          "abilityName": "Ashura's Soul",
+          "abilityDescription": "ATK and Skill Damage +200% when Chakra is above 50%",
+          "abilityEffectDescription": "ATK and Skill Damage +200% when Chakra is above 50%",
           "effectIdx1": "1427",
           "effectIdx2": "33419",
           "effectIdx3": "0"
         },
         {
           "abilityId": "1368",
-          "abilityName": "覚醒した瞳力",
-          "abilityDescription": "最大チャクラ量が50アップし、最大HPが100%アップする",
-          "abilityEffectDescription": "最大チャクラ量が50アップし、最大HPが100%アップする",
+          "abilityName": "Awakened Eye Power",
+          "abilityDescription": "Maximum Chakra +50 and Maximum HP +100%",
+          "abilityEffectDescription": "Maximum Chakra +50 and Maximum HP +100%",
           "effectIdx1": "689",
           "effectIdx2": "684",
           "effectIdx3": "0"
         },
         {
           "abilityId": "1369",
-          "abilityName": "インドラの魂",
-          "abilityDescription": "チャクラMAX時、攻撃力とスキルダメージが150％アップする",
-          "abilityEffectDescription": "チャクラMAX時、攻撃力とスキルダメージが150％アップする",
+          "abilityName": "Indra's Soul",
+          "abilityDescription": "ATK and Skill Damage +150% when Chakra is max",
+          "abilityEffectDescription": "ATK and Skill Damage +150% when Chakra is max",
           "effectIdx1": "1426",
           "effectIdx2": "1232",
           "effectIdx3": "0"
         },
         {
           "abilityId": "1370",
-          "abilityName": "覚醒した瞳力",
-          "abilityDescription": "最大チャクラ量が120アップし、最大HPが150%アップする",
-          "abilityEffectDescription": "最大チャクラ量が120アップし、最大HPが150%アップする",
+          "abilityName": "Awakened Eye Power",
+          "abilityDescription": "Maximum Chakra +120 and Maximum HP +150%",
+          "abilityEffectDescription": "Maximum Chakra +120 and Maximum HP +150%",
           "effectIdx1": "20011",
           "effectIdx2": "1212",
           "effectIdx3": "0"
         },
         {
           "abilityId": "1371",
-          "abilityName": "インドラの魂",
-          "abilityDescription": "チャクラ50%以上の時、攻撃力とスキルダメージが200％アップする",
-          "abilityEffectDescription": "チャクラ50%以上の時、攻撃力とスキルダメージが200％アップする",
+          "abilityName": "Indra's Soul",
+          "abilityDescription": "ATK and Skill Damage +200% when Chakra is above 50%",
+          "abilityEffectDescription": "ATK and Skill Damage +200% when Chakra is above 50%",
           "effectIdx1": "1427",
           "effectIdx2": "33419",
           "effectIdx3": "0"
@@ -12341,8 +12341,8 @@ window.ability=[
         {
           "abilityId": "1372",
           "abilityName": "麦わら帽子と水着",
-          "abilityDescription": "素早さとスキルダメージが100%アップする",
-          "abilityEffectDescription": "素早さとスキルダメージが100%アップする",
+          "abilityDescription": "SPD and Skill Damage +100%",
+          "abilityEffectDescription": "SPD and Skill Damage +100%",
           "effectIdx1": "13099",
           "effectIdx2": "774",
           "effectIdx3": "0"
@@ -12376,8 +12376,8 @@ window.ability=[
         },
         {
           "abilityId": "1376",
-          "abilityName": "印を結ばぬ再生",
-          "abilityDescription": "スキルダメージが70％アップし、攻撃を受けた時に確率でHPが20%回復する",
+          "abilityName": "Regeneration Marking",
+          "abilityDescription": "Skill Damage +70%, High Chance to Recover 20% HP when attacked",
           "abilityEffectDescription": "スキルダメージが70％アップし、攻撃を受けた時に確率でHPが20%回復する",
           "effectIdx1": "652",
           "effectIdx2": "1450",
@@ -12385,17 +12385,17 @@ window.ability=[
         },
         {
           "abilityId": "1377",
-          "abilityName": "里長の矜持（木）",
-          "abilityDescription": "攻撃力とスキルダメージが100%アップする",
-          "abilityEffectDescription": "攻撃力とスキルダメージが100%アップする",
+          "abilityName": "Pride of the Village Head (Konoha)",
+          "abilityDescription": "ATK and Skill Damage +100%",
+          "abilityEffectDescription": "ATK and Skill Damage +100%",
           "effectIdx1": "11099",
           "effectIdx2": "774",
           "effectIdx3": "0"
         },
         {
           "abilityId": "1378",
-          "abilityName": "印を結ばぬ再生",
-          "abilityDescription": "スキルダメージが100%アップし、攻撃を受けた時に高確率でHPが30%回復する",
+          "abilityName": "Regeneration Marking",
+          "abilityDescription": "スSkill Damage +100%, High Chance to Recover 30% HP when attacked",
           "abilityEffectDescription": "スキルダメージが100%アップし、攻撃を受けた時に高確率でHPが30%回復する",
           "effectIdx1": "774",
           "effectIdx2": "1451",
@@ -12403,8 +12403,8 @@ window.ability=[
         },
         {
           "abilityId": "1379",
-          "abilityName": "里長の矜持（木）",
-          "abilityDescription": "最大チャクラが50アップし、攻撃力とスキルダメージが120%アップする",
+          "abilityName": "Pride of the Village Head (Konoha)",
+          "abilityDescription": "Maximum Chakra +50, ATK and Skill Damage +120%",
           "abilityEffectDescription": "最大チャクラが50アップし、攻撃力とスキルダメージが120%アップする",
           "effectIdx1": "689",
           "effectIdx2": "736",
@@ -12412,8 +12412,8 @@ window.ability=[
         },
         {
           "abilityId": "1380",
-          "abilityName": "母・加瑠羅の守護",
-          "abilityDescription": "最大HPを100%アップし、3回行動するまで全スキルダメージを無効化する",
+          "abilityName": "Mother ・ Karura's Protection",
+          "abilityDescription": "Maximum HP +100%, For 3 turns, Immune to all Skill Damage",
           "abilityEffectDescription": "最大HPを100%アップし、3回行動するまで全スキルダメージを無効化する",
           "effectIdx1": "684",
           "effectIdx2": "990",
@@ -12421,17 +12421,17 @@ window.ability=[
         },
         {
           "abilityId": "1381",
-          "abilityName": "里長の矜持(砂）",
-          "abilityDescription": "最大HPとスキルダメージが80%アップする",
-          "abilityEffectDescription": "最大HPとスキルダメージが80%アップする",
+          "abilityName": "Pride of the Village Head (Suna)",
+          "abilityDescription": "Maximum Maximum HP and Skill Damage +80%",
+          "abilityEffectDescription": "Maximum HP and Skill Damage +80%",
           "effectIdx1": "649",
           "effectIdx2": "694",
           "effectIdx3": "0"
         },
         {
           "abilityId": "1382",
-          "abilityName": "母・加瑠羅の守護",
-          "abilityDescription": "最大HPを120%アップし、3回行動するまで全スキルダメージを無効化する",
+          "abilityName": "Mother ・ Karura's Protection",
+          "abilityDescription": "Maximum HP +120%, For 3 turns, Immune to all Skill Damage",
           "abilityEffectDescription": "最大HPを120%アップし、3回行動するまで全スキルダメージを無効化する",
           "effectIdx1": "1221",
           "effectIdx2": "990",
@@ -12439,17 +12439,17 @@ window.ability=[
         },
         {
           "abilityId": "1383",
-          "abilityName": "里長の矜持(砂）",
-          "abilityDescription": "最大HPとスキルダメージが100%アップする",
-          "abilityEffectDescription": "最大HPとスキルダメージが100%アップする",
+          "abilityName": "Pride of the Village Head (Suna)",
+          "abilityDescription": "Maximum HP and Skill Damage +100%",
+          "abilityEffectDescription": "Maximum HP and Skill Damage +100%",
           "effectIdx1": "684",
           "effectIdx2": "774",
           "effectIdx3": "0"
         },
         {
           "abilityId": "1384",
-          "abilityName": "数多の交戦経験",
-          "abilityDescription": "確率でスキルを回避し、行動するたびに素早さが10%アップする（最大5回まで）",
+          "abilityName": "Countless Battle Experience",
+          "abilityDescription": "Chance to Dodge Skills, SPD +10% per turn (Max 50%)",
           "abilityEffectDescription": "確率でスキルを回避し、行動するたびに素早さが10%アップする（最大5回まで）",
           "effectIdx1": "1423",
           "effectIdx2": "1436",
@@ -12457,17 +12457,17 @@ window.ability=[
         },
         {
           "abilityId": "1385",
-          "abilityName": "里長の矜持（岩）",
-          "abilityDescription": "最大HPとスキルダメージが100%アップする",
-          "abilityEffectDescription": "最大HPとスキルダメージが100%アップする",
+          "abilityName": "Pride of the Village Head (Iwa)",
+          "abilityDescription": "Maximum HP and Skill Damage +100%",
+          "abilityEffectDescription": "Maximum HP and Skill Damage +100%",
           "effectIdx1": "684",
           "effectIdx2": "774",
           "effectIdx3": "0"
         },
         {
           "abilityId": "1386",
-          "abilityName": "数多の交戦経験",
-          "abilityDescription": "高確率でスキルを回避し、行動するたびに素早さが20%アップする（最大5回まで）",
+          "abilityName": "Countless Battle Experience",
+          "abilityDescription": "High Chance to Dodge Skills, SPD +20% per turn (Max 100%)",
           "abilityEffectDescription": "高確率でスキルを回避し、行動するたびに素早さが20%アップする（最大5回まで）",
           "effectIdx1": "968",
           "effectIdx2": "1437",
@@ -12475,8 +12475,8 @@ window.ability=[
         },
         {
           "abilityId": "1387",
-          "abilityName": "里長の矜持（岩）",
-          "abilityDescription": "最大HPとスキルダメージが120%アップする",
+          "abilityName": "Pride of the Village Head (Iwa)",
+          "abilityDescription": "Maximum HP and Skill Damage +120%",
           "abilityEffectDescription": "最大HPとスキルダメージが120%アップする",
           "effectIdx1": "1221",
           "effectIdx2": "30011",
@@ -12484,8 +12484,8 @@ window.ability=[
         },
         {
           "abilityId": "1388",
-          "abilityName": "変わらぬ信念",
-          "abilityDescription": "行動するたびに攻撃力と素早さが20%アップする（最大5回まで）",
+          "abilityName": "Unchanging Faith",
+          "abilityDescription": "ATK and SPD +20% per turn (Max 100%)",
           "abilityEffectDescription": "行動するたびに攻撃力と素早さが20%アップする（最大5回まで）",
           "effectIdx1": "1438",
           "effectIdx2": "1437",
@@ -12493,17 +12493,17 @@ window.ability=[
         },
         {
           "abilityId": "1389",
-          "abilityName": "里長の矜持（雲）",
-          "abilityDescription": "素早さとスキルダメージが100%アップする",
-          "abilityEffectDescription": "素早さとスキルダメージが100%アップする",
+          "abilityName": "Pride of the Village Head (Kumo)",
+          "abilityDescription": "SPD and Skill Damage +100%",
+          "abilityEffectDescription": "SPD and Skill Damage +100%",
           "effectIdx1": "13099",
           "effectIdx2": "774",
           "effectIdx3": "0"
         },
         {
           "abilityId": "1390",
-          "abilityName": "変わらぬ信念",
-          "abilityDescription": "行動するたびに攻撃力と素早さが30%アップする（最大4回まで）",
+          "abilityName": "Unchanging Faith",
+          "abilityDescription": "ATK and SPD +30% per turn (Max 120%)",
           "abilityEffectDescription": "行動するたびに攻撃力と素早さが30%アップする（最大4回まで）",
           "effectIdx1": "1439",
           "effectIdx2": "1440",
@@ -12511,8 +12511,8 @@ window.ability=[
         },
         {
           "abilityId": "1391",
-          "abilityName": "里長の矜持（雲）",
-          "abilityDescription": "素早さとスキルダメージが150%アップする",
+          "abilityName": "Pride of the Village Head *Kumo)",
+          "abilityDescription": "SPD and Skill Damage +150%",
           "abilityEffectDescription": "素早さとスキルダメージが150%アップする",
           "effectIdx1": "967",
           "effectIdx2": "794",
@@ -12520,8 +12520,8 @@ window.ability=[
         },
         {
           "abilityId": "1392",
-          "abilityName": "禁句誤想変換",
-          "abilityDescription": "最大HPを100%アップし、行動後にHPとチャクラを10%回復する",
+          "abilityName": "Taboo Conversion",
+          "abilityDescription": "Maximum HP +100%, HP Regen +10%",
           "abilityEffectDescription": "最大HPを100%アップし、行動後にHPとチャクラを10%回復する",
           "effectIdx1": "684",
           "effectIdx2": "52",
@@ -12529,99 +12529,99 @@ window.ability=[
         },
         {
           "abilityId": "1393",
-          "abilityName": "里長の矜持（霧）",
-          "abilityDescription": "素早さとスキルダメージが100%アップする",
-          "abilityEffectDescription": "素早さとスキルダメージが100%アップする",
+          "abilityName": "Pride of the Village Head (Kiri)",
+          "abilityDescription": "SPD and Skill Damage +100%",
+          "abilityEffectDescription": "SPD and Skill Damage +100%",
           "effectIdx1": "13099",
           "effectIdx2": "774",
           "effectIdx3": "0"
         },
         {
           "abilityId": "1394",
-          "abilityName": "禁句誤想変換",
-          "abilityDescription": "最大HPを120%アップし、行動後にHPとチャクラを20%回復する",
-          "abilityEffectDescription": "最大HPを120%アップし、行動後にHPとチャクラを20%回復する",
+          "abilityName": "Taboo Conversion",
+          "abilityDescription": "Maximum HP +120% and HP Regen +20%",
+          "abilityEffectDescription": "Maximum HP +120% and HP Regen +20%",
           "effectIdx1": "1221",
           "effectIdx2": "628",
           "effectIdx3": "583"
         },
         {
           "abilityId": "1395",
-          "abilityName": "里長の矜持（霧）",
-          "abilityDescription": "素早さとスキルダメージが120%アップする",
-          "abilityEffectDescription": "素早さとスキルダメージが120%アップする",
+          "abilityName": "Pride of the Village Head (Kiri)",
+          "abilityDescription": "SPD and Skill Damage +120%",
+          "abilityEffectDescription": "SPD and Skill Damage +120%",
           "effectIdx1": "1335",
           "effectIdx2": "30011",
           "effectIdx3": "0"
         },
         {
           "abilityId": "1396",
-          "abilityName": "耐え忍ぶ覚悟",
-          "abilityDescription": "最大チャクラ量が50アップし、最大HPが100%アップする",
-          "abilityEffectDescription": "最大チャクラ量が50アップし、最大HPが100%アップする",
+          "abilityName": "Prepared Endurance",
+          "abilityDescription": "Maximum Chakra +50 and Maximum HP +100%",
+          "abilityEffectDescription": "Maximum Chakra +50 and Maximum HP +100%",
           "effectIdx1": "689",
           "effectIdx2": "684",
           "effectIdx3": "0"
         },
         {
           "abilityId": "1397",
-          "abilityName": "未来の夢",
-          "abilityDescription": "チャクラMAX時、攻撃力とスキルダメージが150％アップする",
-          "abilityEffectDescription": "チャクラMAX時、攻撃力とスキルダメージが150％アップする",
+          "abilityName": "Future's Dream",
+          "abilityDescription": "ATK and Skill Damage +150% when Chakra is max",
+          "abilityEffectDescription": "ATK and Skill Damage +150% when Chakra is max",
           "effectIdx1": "1426",
           "effectIdx2": "1232",
           "effectIdx3": "0"
         },
         {
           "abilityId": "1398",
-          "abilityName": "耐え忍ぶ覚悟",
-          "abilityDescription": "最大チャクラ量が90アップし、最大HPが150%アップする",
-          "abilityEffectDescription": "最大チャクラ量が90アップし、最大HPが150%アップする",
+          "abilityName": "Prepared Endurance",
+          "abilityDescription": "Maximum Chakra +90 and Maximum HP +150%",
+          "abilityEffectDescription": "Maximum Chakra +90 and Maximum HP +150%",
           "effectIdx1": "20008",
           "effectIdx2": "1212",
           "effectIdx3": "0"
         },
         {
           "abilityId": "1399",
-          "abilityName": "未来の夢",
-          "abilityDescription": "チャクラ50%以上の時、攻撃力とスキルダメージが200％アップする",
-          "abilityEffectDescription": "チャクラ50%以上の時、攻撃力とスキルダメージが200％アップする",
+          "abilityName": "Future's Dream",
+          "abilityDescription": "ATK and Skill Damage +200% when Chakra is above 50%",
+          "abilityEffectDescription": "ATK and Skill Damage +200% when Chakra is above 50%",
           "effectIdx1": "1427",
           "effectIdx2": "33419",
           "effectIdx3": "0"
         },
         {
           "abilityId": "1400",
-          "abilityName": "石碑の秘密",
-          "abilityDescription": "最大チャクラ量が50アップし、最大HPが100%アップする",
-          "abilityEffectDescription": "最大チャクラ量が50アップし、最大HPが100%アップする",
+          "abilityName": "Secret Monument",
+          "abilityDescription": "Maximum Chakra +50 and Maximum HP +100%",
+          "abilityEffectDescription": "Maximum Chakra +50 and Maximum HP +100%",
           "effectIdx1": "689",
           "effectIdx2": "684",
           "effectIdx3": "0"
         },
         {
           "abilityId": "1401",
-          "abilityName": "守れなかった約束",
-          "abilityDescription": "チャクラMAX時、攻撃力とスキルダメージが150％アップする",
-          "abilityEffectDescription": "チャクラMAX時、攻撃力とスキルダメージが150％アップする",
+          "abilityName": "Broken Promise",
+          "abilityDescription": "ATK and Skill Damage +150% when Chakra is max",
+          "abilityEffectDescription": "ATK and Skill Damage +150% when Chakra is max",
           "effectIdx1": "1426",
           "effectIdx2": "1232",
           "effectIdx3": "0"
         },
         {
           "abilityId": "1402",
-          "abilityName": "石碑の秘密",
-          "abilityDescription": "最大チャクラ量が90アップし、最大HPが150%アップする",
-          "abilityEffectDescription": "最大チャクラ量が90アップし、最大HPが150%アップする",
+          "abilityName": "Secret Monument",
+          "abilityDescription": "Maximum Chakra +90 and Maximum HP +150%",
+          "abilityEffectDescription": "Maximum Chakra +90 and Maximum HP +150%",
           "effectIdx1": "20008",
           "effectIdx2": "1212",
           "effectIdx3": "0"
         },
         {
           "abilityId": "1403",
-          "abilityName": "守れなかった約束",
-          "abilityDescription": "チャクラ50%以上の時、攻撃力とスキルダメージが200％アップする",
-          "abilityEffectDescription": "チャクラ50%以上の時、攻撃力とスキルダメージが200％アップする",
+          "abilityName": "Broken Promise",
+          "abilityDescription": "ATK and Skill Damage +200% when Chakra is above 50%",
+          "abilityEffectDescription": "ATK and Skill Damage +200% when Chakra is above 50%",
           "effectIdx1": "1427",
           "effectIdx2": "33419",
           "effectIdx3": "0"
@@ -12700,17 +12700,17 @@ window.ability=[
         },
         {
           "abilityId": "1412",
-          "abilityName": "八門開放",
-          "abilityDescription": "行動するたびに攻撃力が20%アップする（最大8回まで）",
-          "abilityEffectDescription": "行動するたびに攻撃力が20%アップする（最大8回まで）",
+          "abilityName": "Eight Inner Gates Formation",
+          "abilityDescription": "ATK +20% per turn (Max 160%)",
+          "abilityEffectDescription": "ATK +20% after every action (Max 160%)",
           "effectIdx1": "1461",
           "effectIdx2": "0",
           "effectIdx3": "0"
         },
         {
           "abilityId": "1413",
-          "abilityName": "決死の覚悟",
-          "abilityDescription": "HPが70%以下の時、スキルダメージが300%アップする",
+          "abilityName": "Prepared for Death",
+          "abilityDescription": "Skill Damage +300% when HP is below 70%",
           "abilityEffectDescription": "HPが70%以下の時、スキルダメージが300%アップする",
           "effectIdx1": "1464",
           "effectIdx2": "0",
@@ -12718,8 +12718,8 @@ window.ability=[
         },
         {
           "abilityId": "1414",
-          "abilityName": "八門開放",
-          "abilityDescription": "行動するたびに攻撃力と素早さが30%アップする（最大8回まで）",
+          "abilityName": "Eight Inner Gates Formation",
+          "abilityDescription": "ATK +30% per turn (Max 240%)",
           "abilityEffectDescription": "行動するたびに攻撃力と素早さが30%アップする（最大8回まで）",
           "effectIdx1": "1462",
           "effectIdx2": "1463",
@@ -12727,8 +12727,8 @@ window.ability=[
         },
         {
           "abilityId": "1415",
-          "abilityName": "決死の覚悟",
-          "abilityDescription": "HPが50%以下の時、スキルダメージが500%アップする",
+          "abilityName": "Prepared for Death",
+          "abilityDescription": "Skill Damage +500% when HP is below 50%",
           "abilityEffectDescription": "HPが50%以下の時、スキルダメージが500%アップする",
           "effectIdx1": "1465",
           "effectIdx2": "0",
@@ -12736,62 +12736,62 @@ window.ability=[
         },
         {
           "abilityId": "1416",
-          "abilityName": "託された螺旋（体）",
-          "abilityDescription": "最大チャクラが30アップし、攻撃力と素早さが70％アップする",
-          "abilityEffectDescription": "最大チャクラが30アップし、攻撃力と素早さが70％アップする",
+          "abilityName": "Entrusted Rasengan (Body)",
+          "abilityDescription": "Maximum Chakra +30, ATK and SPD +70%",
+          "abilityEffectDescription": "Maximum Chakra +30, ATK and SPD +70%",
           "effectIdx1": "20002",
           "effectIdx2": "11069",
           "effectIdx3": "13069"
         },
         {
           "abilityId": "1417",
-          "abilityName": "悲しみを越えて",
-          "abilityDescription": "スキルダメージが70％アップ、行動後にチャクラが10％回復する",
-          "abilityEffectDescription": "スキルダメージが70％アップ、行動後にチャクラが10％回復する",
+          "abilityName": "Passing Through Sadness",
+          "abilityDescription": "Skill Damage +70% and Chakra Recovery +10%",
+          "abilityEffectDescription": "Skill Damage +70% and Chakra Recovery +10%",
           "effectIdx1": "652",
           "effectIdx2": "528",
           "effectIdx3": "0"
         },
         {
           "abilityId": "1418",
-          "abilityName": "託された螺旋（体）",
-          "abilityDescription": "最大チャクラが50アップし、攻撃力と素早さが100％アップする",
-          "abilityEffectDescription": "最大チャクラが50アップし、攻撃力と素早さが100％アップする",
+          "abilityName": "Entrusted Rasengan (Body)",
+          "abilityDescription": "Maximum Chakra +50, ATK and SPD +100%",
+          "abilityEffectDescription": "Maximum Chakra +50, ATK and SPD +100%",
           "effectIdx1": "20004",
           "effectIdx2": "11099",
           "effectIdx3": "13099"
         },
         {
           "abilityId": "1419",
-          "abilityName": "悲しみを越えて",
-          "abilityDescription": "スキルダメージが100％アップ、行動後にチャクラが20％回復する",
-          "abilityEffectDescription": "スキルダメージが100％アップ、行動後にチャクラが20％回復する",
+          "abilityName": "Passing Through Sadness",
+          "abilityDescription": "Skill Damage +100% and Chakra Recovery +20%",
+          "abilityEffectDescription": "Skill Damage +100% and Chakra Recovery +20%",
           "effectIdx1": "774",
           "effectIdx2": "583",
           "effectIdx3": "0"
         },
         {
           "abilityId": "1420",
-          "abilityName": "託された螺旋（知）",
-          "abilityDescription": "最大チャクラが30アップし、最大HPと攻撃力が70％アップする",
-          "abilityEffectDescription": "最大チャクラが30アップし、最大HPと攻撃力が70％アップする",
+          "abilityName": "Entrusted Rasengan (Knowledge)",
+          "abilityDescription": "Maximum Chakra +30, HP and ATK +70%",
+          "abilityEffectDescription": "Maximum Chakra +30, HP and ATK +70%",
           "effectIdx1": "20002",
           "effectIdx2": "10069",
           "effectIdx3": "11069"
         },
         {
           "abilityId": "1421",
-          "abilityName": "未来の相談役",
-          "abilityDescription": "スキルダメージが70％アップ、行動後にチャクラが10％回復する",
-          "abilityEffectDescription": "スキルダメージが70％アップ、行動後にチャクラが10％回復する",
+          "abilityName": "Future Advisor",
+          "abilityDescription": "Skill Damage +70% and Chakra Recovery +10%",
+          "abilityEffectDescription": "Skill Damage +70% and Chakra Recovery +10%",
           "effectIdx1": "652",
           "effectIdx2": "528",
           "effectIdx3": "0"
         },
         {
           "abilityId": "1422",
-          "abilityName": "託された螺旋（知）",
-          "abilityDescription": "最大チャクラが50アップし、最大HPと攻撃力が100％アップする",
+          "abilityName": "Entrusted Rasengan (Knowledge)",
+          "abilityDescription": "Maximum Chakra +50, HP and ATK +100%",
           "abilityEffectDescription": "最大チャクラが50アップし、最大HPと攻撃力が100％アップする",
           "effectIdx1": "20004",
           "effectIdx2": "684",
@@ -12799,17 +12799,17 @@ window.ability=[
         },
         {
           "abilityId": "1423",
-          "abilityName": "未来の相談役",
-          "abilityDescription": "スキルダメージが100％アップ、行動後にチャクラが20％回復する",
-          "abilityEffectDescription": "スキルダメージが100％アップ、行動後にチャクラが20％回復する",
+          "abilityName": "Future Advisor",
+          "abilityDescription": "Skill Damage +100% and Chakra Recovery +20%",
+          "abilityEffectDescription": "Skill Damage +100% and Chakra Recovery +20%",
           "effectIdx1": "774",
           "effectIdx2": "583",
           "effectIdx3": "0"
         },
         {
           "abilityId": "1424",
-          "abilityName": "託された螺旋（白）",
-          "abilityDescription": "最大チャクラが30アップし、攻撃力と防御力が70％アップする",
+          "abilityName": "Entrusted Rasengan (White)",
+          "abilityDescription": "Maximum Chakra +30, ATK and DEF +70%",
           "abilityEffectDescription": "最大チャクラが30アップし、攻撃力と防御力が70％アップする",
           "effectIdx1": "20002",
           "effectIdx2": "11069",
@@ -12817,17 +12817,17 @@ window.ability=[
         },
         {
           "abilityId": "1425",
-          "abilityName": "並び立つ勇気",
-          "abilityDescription": "スキルダメージが70％アップ、行動後にチャクラが10％回復する",
-          "abilityEffectDescription": "スキルダメージが70％アップ、行動後にチャクラが10％回復する",
+          "abilityName": "Courage to Stand Up",
+          "abilityDescription": "Skill Damage +70% and Chakra Recovery +10%",
+          "abilityEffectDescription": "Skill Damage +70% and Chakra Recovery +10%",
           "effectIdx1": "652",
           "effectIdx2": "528",
           "effectIdx3": "0"
         },
         {
           "abilityId": "1426",
-          "abilityName": "託された螺旋（白）",
-          "abilityDescription": "最大チャクラが50アップし、攻撃力と防御力が100％アップする",
+          "abilityName": "Entrusted Rasengan (White)",
+          "abilityDescription": "Maximum Chakra +50, ATK and DEF +100%",
           "abilityEffectDescription": "最大チャクラが50アップし、攻撃力と防御力が100％アップする",
           "effectIdx1": "20004",
           "effectIdx2": "11099",
@@ -12835,9 +12835,9 @@ window.ability=[
         },
         {
           "abilityId": "1427",
-          "abilityName": "並び立つ勇気",
-          "abilityDescription": "スキルダメージが100％アップ、行動後にチャクラが20％回復する",
-          "abilityEffectDescription": "スキルダメージが100％アップ、行動後にチャクラが20％回復する",
+          "abilityName": "Courage to Stand Up",
+          "abilityDescription": "Skill Damage +100% and Chakra Recovery +20%",
+          "abilityEffectDescription": "Skill Damage +100% and Chakra Recovery +20%",
           "effectIdx1": "774",
           "effectIdx2": "583",
           "effectIdx3": "0"
@@ -12988,8 +12988,8 @@ window.ability=[
         },
         {
           "abilityId": "1444",
-          "abilityName": "右腕の自負",
-          "abilityDescription": "攻撃力が70%アップし、雷遁・水遁・固有・嵐遁タイプのダメージを軽減する",
+          "abilityName": "Pride of the Right Arm",
+          "abilityDescription": "ATK +70%, Reduce incoming Lighting, Water, Unique and Storm Skill Damage",
           "abilityEffectDescription": "攻撃力が70%アップし、雷遁・水遁・固有・嵐遁タイプのダメージを軽減する",
           "effectIdx1": "11069",
           "effectIdx2": "1476",
@@ -12997,63 +12997,63 @@ window.ability=[
         },
         {
           "abilityId": "1445",
-          "abilityName": "真の言葉",
-          "abilityDescription": "最大HPとスキルダメージが80%アップする",
-          "abilityEffectDescription": "最大HPとスキルダメージが80%アップする",
+          "abilityName": "True Words",
+          "abilityDescription": "Maximum HP and Skill Damage +80%",
+          "abilityEffectDescription": "Maximum HP and Skill Damage +80%",
           "effectIdx1": "649",
           "effectIdx2": "694",
           "effectIdx3": "0"
         },
         {
           "abilityId": "1446",
-          "abilityName": "戦いの愉悦",
-          "abilityDescription": "最大チャクラが50アップし、9回行動するまでスキル発動速度を1段階アップする",
-          "abilityEffectDescription": "最大チャクラが50アップし、9回行動するまでスキル発動速度を1段階アップする",
+          "abilityName": "Joy of Battle",
+          "abilityDescription": "Maximum Chakra +50, Cast Speed +1 for 9 turns",
+          "abilityEffectDescription": "Maximum Chakra +50, Cast Speed +1 for 9 turns",
           "effectIdx1": "1336",
           "effectIdx2": "689",
           "effectIdx3": "0"
         },
         {
           "abilityId": "1447",
-          "abilityName": "禁術を知る者",
-          "abilityDescription": "HPが50%以上の時、攻撃力とスキルダメージが50%アップする",
-          "abilityEffectDescription": "HPが50%以上の時、攻撃力とスキルダメージが50%アップする",
+          "abilityName": "Knowledge of Forbidden Jutsu",
+          "abilityDescription": "ATK and Skill Damage +50% when HP is above 50%",
+          "abilityEffectDescription": "ATK and Skill Damage +50% when HP is above 50%",
           "effectIdx1": "31404",
           "effectIdx2": "1482",
           "effectIdx3": "0"
         },
         {
           "abilityId": "1448",
-          "abilityName": "戦いの愉悦",
-          "abilityDescription": "最大チャクラが100アップし、スキル発動速度を1段階アップする",
-          "abilityEffectDescription": "最大チャクラが100アップし、スキル発動速度を1段階アップする",
+          "abilityName": "Joy of Battle",
+          "abilityDescription": "Maximum Chakra +100, Cast Speed +1",
+          "abilityEffectDescription": "Maximum Chakra +100, Cast Speed +1",
           "effectIdx1": "21000",
           "effectIdx2": "20009",
           "effectIdx3": "0"
         },
         {
           "abilityId": "1449",
-          "abilityName": "禁術を知る者",
-          "abilityDescription": "攻撃力とスキルダメージが100%アップする",
-          "abilityEffectDescription": "攻撃力とスキルダメージが100%アップする",
+          "abilityName": "Knowledge of Forbidden Jutsu",
+          "abilityDescription": "ATK and Skill Damage +100%",
+          "abilityEffectDescription": "ATK and Skill Damage +100%",
           "effectIdx1": "264",
           "effectIdx2": "774",
           "effectIdx3": "0"
         },
         {
           "abilityId": "1450",
-          "abilityName": "光明亡き心",
-          "abilityDescription": "最大チャクラが50アップし、9回行動するまでスキル発動速度を1段階アップする",
-          "abilityEffectDescription": "最大チャクラが50アップし、9回行動するまでスキル発動速度を1段階アップする",
+          "abilityName": "Bright Deceased Heart",
+          "abilityDescription": "Maximum Chakra +50, Cast Speed +1 for 9 turns",
+          "abilityEffectDescription": "Maximum Chakra +50, Cast Speed +1 for 9 turns",
           "effectIdx1": "1336",
           "effectIdx2": "689",
           "effectIdx3": "0"
         },
         {
           "abilityId": "1451",
-          "abilityName": "閉ざされた想い",
-          "abilityDescription": "HPが50%以上の時、攻撃力とスキルダメージが50%アップする",
-          "abilityEffectDescription": "HPが50%以上の時、攻撃力とスキルダメージが50%アップする",
+          "abilityName": "Locked Emotions",
+          "abilityDescription": "ATK and Skill Damage +50% when HP is above 50%",
+          "abilityEffectDescription": "ATK and Skill Damage +50% when HP is above 50%",
           "effectIdx1": "31404",
           "effectIdx2": "1482",
           "effectIdx3": "0"
@@ -13061,8 +13061,8 @@ window.ability=[
         {
           "abilityId": "1452",
           "abilityName": "光明亡き心",
-          "abilityDescription": "最大チャクラが100アップし、スキル発動速度を1段階アップする",
-          "abilityEffectDescription": "最大チャクラが100アップし、スキル発動速度を1段階アップする",
+          "abilityDescription": "Maximum Chakra +100, Cast Speed +1",
+          "abilityEffectDescription": "Maximum Chakra +100, Cast Speed +1",
           "effectIdx1": "21000",
           "effectIdx2": "20009",
           "effectIdx3": "0"
@@ -13070,8 +13070,8 @@ window.ability=[
         {
           "abilityId": "1453",
           "abilityName": "閉ざされた想い",
-          "abilityDescription": "攻撃力とスキルダメージが100%アップする",
-          "abilityEffectDescription": "攻撃力とスキルダメージが100%アップする",
+          "abilityDescription": "ATK and Skill Damage +100%",
+          "abilityEffectDescription": "ATK and Skill Damage +100%",
           "effectIdx1": "264",
           "effectIdx2": "774",
           "effectIdx3": "0"
@@ -13186,8 +13186,8 @@ window.ability=[
         },
         {
           "abilityId": "1468",
-          "abilityName": "己の勇名",
-          "abilityDescription": "最大HP80%アップ、全てのスキルダメージを軽減、HPが80%以上の時、チャクラ消費量が30%減少する",
+          "abilityName": "Renown for Bravery",
+          "abilityDescription": "Maximum HP +80%, reduce all incoming Skill damage. Chakra Cost -30% when HP is above 80%",
           "abilityEffectDescription": "最大HP80%アップ、全てのスキルダメージを軽減、HPが80%以上の時、チャクラ消費量が30%減少する",
           "effectIdx1": "649",
           "effectIdx2": "20500",
@@ -13195,8 +13195,8 @@ window.ability=[
         },
         {
           "abilityId": "1469",
-          "abilityName": "託された万華鏡",
-          "abilityDescription": "時空間タイプのダメージ100%アップし、弱体・状態異常にかかる確率を半減する",
+          "abilityName": "Entrusted Mangekyo",
+          "abilityDescription": "Space-Time Skill Damage +100%, Reduce the Chance of Debuff and Status Effect by half",
           "abilityEffectDescription": "時空間タイプのダメージ100%アップし、弱体・状態異常にかかる確率を半減する",
           "effectIdx1": "1503",
           "effectIdx2": "776",
@@ -13204,8 +13204,8 @@ window.ability=[
         },
         {
           "abilityId": "1470",
-          "abilityName": "己の勇名",
-          "abilityDescription": "最大HP120%アップ、全てのスキルダメージを半減、HPが50%以上の時、チャクラ消費量が半減する",
+          "abilityName": "Renown for Bravery",
+          "abilityDescription": "Maximum HP +120%, reduce all incoming Skill damage by half. Chakra Cost -50% when HP is above 50%",
           "abilityEffectDescription": "最大HP120%アップ、全てのスキルダメージを半減、HPが50%以上の時、チャクラ消費量が半減する",
           "effectIdx1": "1221",
           "effectIdx2": "20501",
@@ -13213,8 +13213,8 @@ window.ability=[
         },
         {
           "abilityId": "1471",
-          "abilityName": "託された万華鏡",
-          "abilityDescription": "時空間タイプのダメージ150%アップし、弱体・状態異常を無効化する",
+          "abilityName": "Entrusted Mangekyo",
+          "abilityDescription": "Space-Time Skill Damage +150%, Immune to Debuff and Status Effect",
           "abilityEffectDescription": "時空間タイプのダメージ150%アップし、弱体・状態異常を無効化する",
           "effectIdx1": "1504",
           "effectIdx2": "880",
@@ -13287,24 +13287,24 @@ window.ability=[
           "abilityId": "1481",
           "abilityName": "Experience with Death",
           "abilityDescription": "ATK, DEF, SPD and Skill Damage +120% when HP is above 60%",
-          "abilityEffectDescription": "HP50%以上の時に攻撃・防御・素早さとスキルダメージが120%アップする",
+          "abilityEffectDescription": "HP50%以上の時に攻撃・防御・SPD and Skill Damage +120%",
           "effectIdx1": "1497",
           "effectIdx2": "31411",
           "effectIdx3": "0"
         },
         {
           "abilityId": "1482",
-          "abilityName": "秀麗なる幻術使い",
-          "abilityDescription": "最大HPと素早さが50%アップ",
-          "abilityEffectDescription": "最大HPと素早さが50%アップ",
+          "abilityName": "Beautiful Genjutsu User",
+          "abilityDescription": "Maximum HP and SPD +50%",
+          "abilityEffectDescription": "Maximum HP and SPD +50%",
           "effectIdx1": "10049",
           "effectIdx2": "13049",
           "effectIdx3": "0"
         },
         {
           "abilityId": "1483",
-          "abilityName": "戦争を知る者",
-          "abilityDescription": "状態異常を半減し、行動後に低確率でスキル発動速度が1段階アップする",
+          "abilityName": "Knowledge of War",
+          "abilityDescription": "Negative state effect is reduced by half. Low chance for Cast Speed +1 per turn",
           "abilityEffectDescription": "状態異常を半減し、行動後に低確率でスキル発動速度が1段階アップする",
           "effectIdx1": "792",
           "effectIdx2": "1457",
@@ -13312,8 +13312,8 @@ window.ability=[
         },
         {
           "abilityId": "1484",
-          "abilityName": "元・守護忍十二士",
-          "abilityDescription": "HPが80%以上の時に攻撃力とスキルダメージが80%アップする",
+          "abilityName": "Former Twelve Guardian Ninja",
+          "abilityDescription": "ATK and Skill Damage +80% when HP is above 80%",
           "abilityEffectDescription": "HPが80%以上の時に攻撃力とスキルダメージが80%アップする",
           "effectIdx1": "756",
           "effectIdx2": "1505",
@@ -13321,8 +13321,8 @@ window.ability=[
         },
         {
           "abilityId": "1485",
-          "abilityName": "猿飛一族の俊英",
-          "abilityDescription": "最大HPが70%アップし、3回行動するまでチャクラ消費量が半減する",
+          "abilityName": "Sarutobi's Genius Member",
+          "abilityDescription": "Maximum HP +70%. For 3 turns Chakra Cost -50%",
           "abilityEffectDescription": "最大HPが70%アップし、3回行動するまでチャクラ消費量が半減する",
           "effectIdx1": "10069",
           "effectIdx2": "359",
@@ -13330,8 +13330,8 @@ window.ability=[
         },
         {
           "abilityId": "1486",
-          "abilityName": "平和を望む破壊神",
-          "abilityDescription": "最大チャクラ量を250アップし、状態異常を無効化する",
+          "abilityName": "God of Destruction Wishing for Peace",
+          "abilityDescription": "Maximum Chakra +200, Immune to negate state",
           "abilityEffectDescription": "最大チャクラ量を250アップし、状態異常を無効化する",
           "effectIdx1": "20044",
           "effectIdx2": "82",
@@ -13339,8 +13339,8 @@ window.ability=[
         },
         {
           "abilityId": "1487",
-          "abilityName": "絶望の悟り",
-          "abilityDescription": "HPが0以下で5回までHPが全回復する",
+          "abilityName": "Understanding of Despair",
+          "abilityDescription": "When HP reach 0, revive up to 5 times",
           "abilityEffectDescription": "HPが0以下で5回までHPが全回復する",
           "effectIdx1": "874",
           "effectIdx2": "1512",
@@ -13349,8 +13349,8 @@ window.ability=[
         {
           "abilityId": "1496",
           "abilityName": "託された六道の力",
-          "abilityDescription": "最大HPとスキルダメージが80%アップする",
-          "abilityEffectDescription": "最大HPとスキルダメージが80%アップする",
+          "abilityDescription": "Maximum HP and Skill Damage +80%",
+          "abilityEffectDescription": "Maximum HP and Skill Damage +80%",
           "effectIdx1": "649",
           "effectIdx2": "694",
           "effectIdx3": "0"
@@ -13367,8 +13367,8 @@ window.ability=[
         {
           "abilityId": "1498",
           "abilityName": "託された六道の力",
-          "abilityDescription": "最大HPとスキルダメージが100%アップする",
-          "abilityEffectDescription": "最大HPとスキルダメージが100%アップする",
+          "abilityDescription": "Maximum HP and Skill Damage +100%",
+          "abilityEffectDescription": "Maximum HP and Skill Damage +100%",
           "effectIdx1": "684",
           "effectIdx2": "774",
           "effectIdx3": "0"
@@ -13403,8 +13403,8 @@ window.ability=[
         {
           "abilityId": "1502",
           "abilityName": "示す忍道",
-          "abilityDescription": "最大HPと攻撃力とスキルダメージが100%アップする",
-          "abilityEffectDescription": "最大HPと攻撃力とスキルダメージが100%アップする",
+          "abilityDescription": "最大HPとATK and Skill Damage +100%",
+          "abilityEffectDescription": "最大HPとATK and Skill Damage +100%",
           "effectIdx1": "684",
           "effectIdx2": "11099",
           "effectIdx3": "774"
@@ -13421,8 +13421,8 @@ window.ability=[
         {
           "abilityId": "1504",
           "abilityName": "輪廻眼・開眼",
-          "abilityDescription": "最大HPとスキルダメージが80%アップする",
-          "abilityEffectDescription": "最大HPとスキルダメージが80%アップする",
+          "abilityDescription": "Maximum HP and Skill Damage +80%",
+          "abilityEffectDescription": "Maximum HP and Skill Damage +80%",
           "effectIdx1": "649",
           "effectIdx2": "694",
           "effectIdx3": "0"
@@ -13439,8 +13439,8 @@ window.ability=[
         {
           "abilityId": "1506",
           "abilityName": "輪廻眼・開眼",
-          "abilityDescription": "最大HPとスキルダメージが100%アップする",
-          "abilityEffectDescription": "最大HPとスキルダメージが100%アップする",
+          "abilityDescription": "Maximum HP and Skill Damage +100%",
+          "abilityEffectDescription": "Maximum HP and Skill Damage +100%",
           "effectIdx1": "684",
           "effectIdx2": "774",
           "effectIdx3": "0"
@@ -13475,8 +13475,8 @@ window.ability=[
         {
           "abilityId": "1510",
           "abilityName": "兄より継ぎし眼",
-          "abilityDescription": "最大HPと攻撃力とスキルダメージが100%アップする",
-          "abilityEffectDescription": "最大HPと攻撃力とスキルダメージが100%アップする",
+          "abilityDescription": "最大HPとATK and Skill Damage +100%",
+          "abilityEffectDescription": "最大HPとATK and Skill Damage +100%",
           "effectIdx1": "684",
           "effectIdx2": "11099",
           "effectIdx3": "774"
@@ -13564,8 +13564,8 @@ window.ability=[
         },
         {
           "abilityId": "1532",
-          "abilityName": "右腕の自負",
-          "abilityDescription": "攻撃力が100%アップし、雷遁・水遁・固有・嵐遁タイプのダメージを半減する",
+          "abilityName": "Pride of the Right Arm",
+          "abilityDescription": "ATK +100%, Incoming Lighting, Water, Unique and Storm Skill Damage are halved",
           "abilityEffectDescription": "攻撃力が100%アップし、雷遁・水遁・固有・嵐遁タイプのダメージを半減する",
           "effectIdx1": "11099",
           "effectIdx2": "1477",
@@ -13573,9 +13573,9 @@ window.ability=[
         },
         {
           "abilityId": "1533",
-          "abilityName": "真の言葉",
-          "abilityDescription": "最大HPとスキルダメージが100%アップする",
-          "abilityEffectDescription": "最大HPとスキルダメージが100%アップする",
+          "abilityName": "True Words",
+          "abilityDescription": "Maximum HP and Skill Damage +100%",
+          "abilityEffectDescription": "Maximum HP and Skill Damage +100%",
           "effectIdx1": "684",
           "effectIdx2": "774",
           "effectIdx3": "0"
@@ -13592,8 +13592,8 @@ window.ability=[
         {
           "abilityId": "1541",
           "abilityName": "未来への決意",
-          "abilityDescription": "攻撃力と素早さとスキルダメージが100%アップする",
-          "abilityEffectDescription": "攻撃力と素早さとスキルダメージが100%アップする",
+          "abilityDescription": "攻撃力とSPD and Skill Damage +100%",
+          "abilityEffectDescription": "攻撃力とSPD and Skill Damage +100%",
           "effectIdx1": "11099",
           "effectIdx2": "13099",
           "effectIdx3": "774"
@@ -13762,17 +13762,17 @@ window.ability=[
         },
         {
           "abilityId": "1560",
-          "abilityName": "秀麗なる幻術使い",
-          "abilityDescription": "最大HPと素早さが100%アップ",
-          "abilityEffectDescription": "最大HPと素早さが100%アップ",
+          "abilityName": "Beautiful Genjutsu User",
+          "abilityDescription": "Maximum HP and SPD +100%",
+          "abilityEffectDescription": "Maximum HP and SPD +100%",
           "effectIdx1": "684",
           "effectIdx2": "13099",
           "effectIdx3": "0"
         },
         {
           "abilityId": "1561",
-          "abilityName": "戦争を知る者",
-          "abilityDescription": "状態異常を無効化し、行動後に低確率でスキル発動速度が1段階アップする",
+          "abilityName": "Knowledge of War",
+          "abilityDescription": "Immune to Status Effect. Chance for Cast Speed +1 after every action",
           "abilityEffectDescription": "状態異常を無効化し、行動後に低確率でスキル発動速度が1段階アップする",
           "effectIdx1": "82",
           "effectIdx2": "1457",
@@ -13780,17 +13780,17 @@ window.ability=[
         },
         {
           "abilityId": "1562",
-          "abilityName": "元・守護忍十二士",
-          "abilityDescription": "HPが50%以上の時に攻撃力とスキルダメージが100%アップする",
-          "abilityEffectDescription": "HPが50%以上の時に攻撃力とスキルダメージが100%アップする",
+          "abilityName": "Former Twelve Guardian Ninja",
+          "abilityDescription": "ATK and Skill Damage +100% when HP is above 50%",
+          "abilityEffectDescription": "HPが50%以上の時にATK and Skill Damage +100%",
           "effectIdx1": "1507",
           "effectIdx2": "1506",
           "effectIdx3": "0"
         },
         {
           "abilityId": "1563",
-          "abilityName": "猿飛一族の俊英",
-          "abilityDescription": "最大HPが100%アップし、3回行動するまでチャクラ消費量が80%減少する",
+          "abilityName": "Sarutobi's Genius Member",
+          "abilityDescription": "Maximum HP +100%. For 3 turns Chakra Cost -80%",
           "abilityEffectDescription": "最大HPが100%アップし、3回行動するまでチャクラ消費量が80%減少する",
           "effectIdx1": "684",
           "effectIdx2": "1508",
@@ -13798,8 +13798,8 @@ window.ability=[
         },
         {
           "abilityId": "1564",
-          "abilityName": "父の覚悟",
-          "abilityDescription": "最大HPが70％アップし、弱体を半減する",
+          "abilityName": "Prepared Father",
+          "abilityDescription": "Maximum HP +70%, Reduce the effect of Debuff by half",
           "abilityEffectDescription": "最大HPが70％アップし、弱体を半減する",
           "effectIdx1": "10069",
           "effectIdx2": "745",
@@ -13807,8 +13807,8 @@ window.ability=[
         },
         {
           "abilityId": "1565",
-          "abilityName": "別れの言葉",
-          "abilityDescription": "行動後、低確率でスキル発動速度が1段階アップする",
+          "abilityName": "Final Words",
+          "abilityDescription": "Low chance for Cast Speed +1 per turn",
           "abilityEffectDescription": "行動後、低確率でスキル発動速度が1段階アップする",
           "effectIdx1": "1519",
           "effectIdx2": "0",
@@ -13816,8 +13816,8 @@ window.ability=[
         },
         {
           "abilityId": "1566",
-          "abilityName": "父の覚悟",
-          "abilityDescription": "最大HPが100％アップし、弱体を無効化する",
+          "abilityName": "Prepared Father",
+          "abilityDescription": "Maximum HP +100%, Immune to Debuff",
           "abilityEffectDescription": "最大HPが100％アップし、弱体を無効化する",
           "effectIdx1": "684",
           "effectIdx2": "64",
@@ -13825,8 +13825,8 @@ window.ability=[
         },
         {
           "abilityId": "1567",
-          "abilityName": "別れの言葉",
-          "abilityDescription": "行動後、確率でスキル発動速度が1段階アップする",
+          "abilityName": "Final Words",
+          "abilityDescription": "Chance for Cast Speed +1 per turn",
           "abilityEffectDescription": "行動後、確率でスキル発動速度が1段階アップする",
           "effectIdx1": "1520",
           "effectIdx2": "0",
@@ -13834,8 +13834,8 @@ window.ability=[
         },
         {
           "abilityId": "1568",
-          "abilityName": "引きずり込んでやるわ",
-          "abilityDescription": "HP80％以上の時にスキルダメージが100％アップする",
+          "abilityName": "Pull",
+          "abilityDescription": "Skill Damage +100% when HP is above 80%",
           "abilityEffectDescription": "HP80％以上の時にスキルダメージが100％アップする",
           "effectIdx1": "31709",
           "effectIdx2": "0",
@@ -13843,8 +13843,8 @@ window.ability=[
         },
         {
           "abilityId": "1569",
-          "abilityName": "愛情のぬくもり",
-          "abilityDescription": "最大HPが70％アップし、攻撃を受けた時にHPが5％回復する",
+          "abilityName": "Warm Affection",
+          "abilityDescription": "Maximum HP +70%, recover 5% HP when attacked",
           "abilityEffectDescription": "最大HPが70％アップし、攻撃を受けた時にHPが5％回復する",
           "effectIdx1": "10069",
           "effectIdx2": "727",
@@ -13852,8 +13852,8 @@ window.ability=[
         },
         {
           "abilityId": "1570",
-          "abilityName": "引きずり込んでやるわ",
-          "abilityDescription": "HP50％以上の時にスキルダメージが150％アップする",
+          "abilityName": "Pull",
+          "abilityDescription": "Skill Damage +150% when HP is above 50%",
           "abilityEffectDescription": "HP50％以上の時にスキルダメージが150％アップする",
           "effectIdx1": "31414",
           "effectIdx2": "0",
@@ -13861,8 +13861,8 @@ window.ability=[
         },
         {
           "abilityId": "1571",
-          "abilityName": "愛情のぬくもり",
-          "abilityDescription": "最大HPが100％アップし、攻撃を受けた時にHPが10％回復する",
+          "abilityName": "Warm Affection",
+          "abilityDescription": "Maximum HP +100%, recover 10% HP when attacked",
           "abilityEffectDescription": "最大HPが100％アップし、攻撃を受けた時にHPが10％回復する",
           "effectIdx1": "684",
           "effectIdx2": "191",
@@ -13924,8 +13924,8 @@ window.ability=[
         },
         {
           "abilityId": "1578",
-          "abilityName": "成長する夢",
-          "abilityDescription": "行動するたびに攻撃力と防御力が20%アップする（最大4回まで）",
+          "abilityName": "Growing Dreams",
+          "abilityDescription": "ATK and DEF +20% per turn (Max 80%)",
           "abilityEffectDescription": "行動するたびに攻撃力と防御力が20%アップする（最大4回まで）",
           "effectIdx1": "568",
           "effectIdx2": "994",
@@ -13933,8 +13933,8 @@ window.ability=[
         },
         {
           "abilityId": "1579",
-          "abilityName": "学びと歩む道",
-          "abilityDescription": "最大HPが50%アップし、スキルダメージが50%アップする",
+          "abilityName": "Learning and Walking the Path",
+          "abilityDescription": "Maximum HP +50%, Skill Damage +50%",
           "abilityEffectDescription": "最大HPが50%アップし、スキルダメージが50%アップする",
           "effectIdx1": "680",
           "effectIdx2": "682",
@@ -13942,8 +13942,8 @@ window.ability=[
         },
         {
           "abilityId": "1580",
-          "abilityName": "成長する夢",
-          "abilityDescription": "行動するたびに攻撃力と防御力が30%アップする（最大4回まで）",
+          "abilityName": "Growing Dreams",
+          "abilityDescription": "ATK and DEF +30% per turn (Max 120%)",
           "abilityEffectDescription": "行動するたびに攻撃力と防御力が30%アップする（最大4回まで）",
           "effectIdx1": "1416",
           "effectIdx2": "1528",
@@ -13951,8 +13951,8 @@ window.ability=[
         },
         {
           "abilityId": "1581",
-          "abilityName": "学びと歩む道",
-          "abilityDescription": "最大HPが100%アップし、スキルダメージが100%アップする",
+          "abilityName": "Learning and Walking the Path",
+          "abilityDescription": "Maximum HP +100%, Skill Damage +100%",
           "abilityEffectDescription": "最大HPが100%アップし、スキルダメージが100%アップする",
           "effectIdx1": "684",
           "effectIdx2": "774",
@@ -13960,8 +13960,8 @@ window.ability=[
         },
         {
           "abilityId": "1582",
-          "abilityName": "尾獣との絆",
-          "abilityDescription": "最大チャクラが30アップし、行動後チャクラが10％回復する",
+          "abilityName": "Tailed Beast's Bond",
+          "abilityDescription": "Maximum Chakra +30, Chakra Recovery +10%",
           "abilityEffectDescription": "最大チャクラが30アップし、行動後チャクラが10％回復する",
           "effectIdx1": "20002",
           "effectIdx2": "528",
@@ -13969,8 +13969,8 @@ window.ability=[
         },
         {
           "abilityId": "1583",
-          "abilityName": "六道仙術の開花",
-          "abilityDescription": "7回行動するまでスキルダメージが100％アップする",
+          "abilityName": "Blooming Six Paths",
+          "abilityDescription": "For 7 turns, Skill Damage +100%",
           "abilityEffectDescription": "7回行動するまでスキルダメージが100％アップする",
           "effectIdx1": "30609",
           "effectIdx2": "0",
@@ -13978,8 +13978,8 @@ window.ability=[
         },
         {
           "abilityId": "1584",
-          "abilityName": "尾獣との絆",
-          "abilityDescription": "最大チャクラが50アップし、行動後チャクラが15％回復する",
+          "abilityName": "Tailed Beast's Bond",
+          "abilityDescription": "Maximum Chakra +50, Chakra Recovery +15%",
           "abilityEffectDescription": "最大チャクラが50アップし、行動後チャクラが15％回復する",
           "effectIdx1": "20004",
           "effectIdx2": "957",
@@ -13987,8 +13987,8 @@ window.ability=[
         },
         {
           "abilityId": "1585",
-          "abilityName": "六道仙術の開花",
-          "abilityDescription": "10回行動するまでスキルダメージが150％アップする",
+          "abilityName": "Blooming Six Paths",
+          "abilityDescription": "For 10 turns, Skill Damage +150%",
           "abilityEffectDescription": "10回行動するまでスキルダメージが150％アップする",
           "effectIdx1": "30914",
           "effectIdx2": "0",
@@ -14122,8 +14122,8 @@ window.ability=[
         },
         {
           "abilityId": "1600",
-          "abilityName": "逸る心",
-          "abilityDescription": "1回行動するまでチャクラ消費量が0になりスキル発動速度が1段階アップ、素早さが50%アップする",
+          "abilityName": "Lost Heart",
+          "abilityDescription": "For 1 turn, Chakra Cost is 0, Cast Speed +1 and SPD +50%, ",
           "abilityEffectDescription": "1回行動するまでチャクラ消費量が0になりスキル発動速度が1段階アップ、素早さが50%アップする",
           "effectIdx1": "1378",
           "effectIdx2": "1539",
@@ -14131,8 +14131,8 @@ window.ability=[
         },
         {
           "abilityId": "1601",
-          "abilityName": "受け取った言葉",
-          "abilityDescription": "状態異常を半減し、行動ごとに素早さが20%アップする（最大3回まで）",
+          "abilityName": "Cherished Words",
+          "abilityDescription": "Status Effects are halved, SPD +20% per turn (Max 60%)",
           "abilityEffectDescription": "状態異常を半減し、行動ごとに素早さが20%アップする（最大3回まで）",
           "effectIdx1": "792",
           "effectIdx2": "844",
@@ -14140,8 +14140,8 @@ window.ability=[
         },
         {
           "abilityId": "1602",
-          "abilityName": "逸る心",
-          "abilityDescription": "1回行動するまでチャクラ消費量が0になりスキル発動速度が2段階アップ、素早さが100%アップする",
+          "abilityName": "Lost Heart",
+          "abilityDescription": "For 1 turn, Chakra Cost is 0, Cast Speed +2 and SPD +100%",
           "abilityEffectDescription": "1回行動するまでチャクラ消費量が0になりスキル発動速度が2段階アップ、素早さが100%アップする",
           "effectIdx1": "1378",
           "effectIdx2": "1540",
@@ -14149,8 +14149,8 @@ window.ability=[
         },
         {
           "abilityId": "1603",
-          "abilityName": "受け取った言葉",
-          "abilityDescription": "状態異常を無効化し、行動ごとに素早さが20%アップする（最大5回まで）",
+          "abilityName": "Cherished Words",
+          "abilityDescription": "Immune to Status Effect, SPD +20% per turn (Max 100%)",
           "abilityEffectDescription": "状態異常を無効化し、行動ごとに素早さが20%アップする（最大5回まで）",
           "effectIdx1": "82",
           "effectIdx2": "1384",
@@ -14159,8 +14159,8 @@ window.ability=[
         {
           "abilityId": "1604",
           "abilityName": "真の力(愛)",
-          "abilityDescription": "最大チャクラ量が50アップし、最大HPが100%アップする",
-          "abilityEffectDescription": "最大チャクラ量が50アップし、最大HPが100%アップする",
+          "abilityDescription": "Maximum Chakra +50 and Maximum HP +100%",
+          "abilityEffectDescription": "Maximum Chakra +50 and Maximum HP +100%",
           "effectIdx1": "689",
           "effectIdx2": "684",
           "effectIdx3": "0"
@@ -14168,8 +14168,8 @@ window.ability=[
         {
           "abilityId": "1605",
           "abilityName": "同胞との絆",
-          "abilityDescription": "チャクラMAX時、攻撃力とスキルダメージが150％アップする",
-          "abilityEffectDescription": "チャクラMAX時、攻撃力とスキルダメージが150％アップする",
+          "abilityDescription": "ATK and Skill Damage +150% when Chakra is max",
+          "abilityEffectDescription": "ATK and Skill Damage +150% when Chakra is max",
           "effectIdx1": "1426",
           "effectIdx2": "1232",
           "effectIdx3": "0"
@@ -14177,8 +14177,8 @@ window.ability=[
         {
           "abilityId": "1606",
           "abilityName": "真の力(愛)",
-          "abilityDescription": "最大チャクラ量が120アップし、最大HPが150%アップする",
-          "abilityEffectDescription": "最大チャクラ量が120アップし、最大HPが150%アップする",
+          "abilityDescription": "Maximum Chakra +120 and Maximum HP +150%",
+          "abilityEffectDescription": "Maximum Chakra +120 and Maximum HP +150%",
           "effectIdx1": "20011",
           "effectIdx2": "1212",
           "effectIdx3": "0"
@@ -14186,8 +14186,8 @@ window.ability=[
         {
           "abilityId": "1607",
           "abilityName": "同胞との絆",
-          "abilityDescription": "チャクラ50%以上の時、攻撃力とスキルダメージが200％アップする",
-          "abilityEffectDescription": "チャクラ50%以上の時、攻撃力とスキルダメージが200％アップする",
+          "abilityDescription": "ATK and Skill Damage +200% when Chakra is above 50%",
+          "abilityEffectDescription": "ATK and Skill Damage +200% when Chakra is above 50%",
           "effectIdx1": "1427",
           "effectIdx2": "33419",
           "effectIdx3": "0"
@@ -14195,8 +14195,8 @@ window.ability=[
         {
           "abilityId": "1608",
           "abilityName": "真の力(闇)",
-          "abilityDescription": "最大チャクラ量が50アップし、最大HPが100%アップする",
-          "abilityEffectDescription": "最大チャクラ量が50アップし、最大HPが100%アップする",
+          "abilityDescription": "Maximum Chakra +50 and Maximum HP +100%",
+          "abilityEffectDescription": "Maximum Chakra +50 and Maximum HP +100%",
           "effectIdx1": "689",
           "effectIdx2": "684",
           "effectIdx3": "0"
@@ -14204,8 +14204,8 @@ window.ability=[
         {
           "abilityId": "1609",
           "abilityName": "万華鏡の芽生え",
-          "abilityDescription": "チャクラMAX時、攻撃力とスキルダメージが150％アップする",
-          "abilityEffectDescription": "チャクラMAX時、攻撃力とスキルダメージが150％アップする",
+          "abilityDescription": "ATK and Skill Damage +150% when Chakra is max",
+          "abilityEffectDescription": "ATK and Skill Damage +150% when Chakra is max",
           "effectIdx1": "1426",
           "effectIdx2": "1232",
           "effectIdx3": "0"
@@ -14213,8 +14213,8 @@ window.ability=[
         {
           "abilityId": "1610",
           "abilityName": "真の力(闇)",
-          "abilityDescription": "最大チャクラ量が120アップし、最大HPが150%アップする",
-          "abilityEffectDescription": "最大チャクラ量が120アップし、最大HPが150%アップする",
+          "abilityDescription": "Maximum Chakra +120 and Maximum HP +150%",
+          "abilityEffectDescription": "Maximum Chakra +120 and Maximum HP +150%",
           "effectIdx1": "20011",
           "effectIdx2": "1212",
           "effectIdx3": "0"
@@ -14222,8 +14222,8 @@ window.ability=[
         {
           "abilityId": "1611",
           "abilityName": "万華鏡の芽生え",
-          "abilityDescription": "チャクラ50%以上の時、攻撃力とスキルダメージが200％アップする",
-          "abilityEffectDescription": "チャクラ50%以上の時、攻撃力とスキルダメージが200％アップする",
+          "abilityDescription": "ATK and Skill Damage +200% when Chakra is above 50%",
+          "abilityEffectDescription": "ATK and Skill Damage +200% when Chakra is above 50%",
           "effectIdx1": "1427",
           "effectIdx2": "33419",
           "effectIdx3": "0"
@@ -14482,7 +14482,7 @@ window.ability=[
         },
         {
           "abilityId": "1641",
-          "abilityName": "好敵手との連携（風）",
+          "abilityName": "好敵手との連携 (Wind)",
           "abilityDescription": "味方の木ノ葉所属の人数に応じて攻撃・防御・素早さが30%アップする",
           "abilityEffectDescription": "味方の木ノ葉所属の人数に応じて攻撃・防御・素早さが30%アップする",
           "effectIdx1": "953",
@@ -14500,7 +14500,7 @@ window.ability=[
         },
         {
           "abilityId": "1643",
-          "abilityName": "好敵手との連携（火）",
+          "abilityName": "好敵手との連携 (Fire)",
           "abilityDescription": "味方の木ノ葉所属の人数に応じて攻撃・防御・素早さが30%アップする",
           "abilityEffectDescription": "味方の木ノ葉所属の人数に応じて攻撃・防御・素早さが30%アップする",
           "effectIdx1": "953",
@@ -14681,8 +14681,8 @@ window.ability=[
         {
           "abilityId": "1663",
           "abilityName": "唯、友を想う",
-          "abilityDescription": "自身の最大HPと素早さとスキルダメージが100%アップする",
-          "abilityEffectDescription": "自身の最大HPと素早さとスキルダメージが100%アップする",
+          "abilityDescription": "自身の最大HPとSPD and Skill Damage +100%",
+          "abilityEffectDescription": "自身の最大HPとSPD and Skill Damage +100%",
           "effectIdx1": "684",
           "effectIdx2": "13099",
           "effectIdx3": "774"
@@ -14699,8 +14699,8 @@ window.ability=[
         {
           "abilityId": "1665",
           "abilityName": "愛憎の残滓",
-          "abilityDescription": "自身の最大HPと攻撃力とスキルダメージが100%アップする",
-          "abilityEffectDescription": "自身の最大HPと攻撃力とスキルダメージが100%アップする",
+          "abilityDescription": "自身の最大HPとATK and Skill Damage +100%",
+          "abilityEffectDescription": "自身の最大HPとATK and Skill Damage +100%",
           "effectIdx1": "684",
           "effectIdx2": "11099",
           "effectIdx3": "774"
@@ -14726,8 +14726,8 @@ window.ability=[
         {
           "abilityId": "1668",
           "abilityName": "貫き通す忍道",
-          "abilityDescription": "チャクラMAX時、攻撃力とスキルダメージが150％アップする",
-          "abilityEffectDescription": "チャクラMAX時、攻撃力とスキルダメージが150％アップする",
+          "abilityDescription": "ATK and Skill Damage +150% when Chakra is max",
+          "abilityEffectDescription": "ATK and Skill Damage +150% when Chakra is max",
           "effectIdx1": "1426",
           "effectIdx2": "1232",
           "effectIdx3": "0"
@@ -14762,8 +14762,8 @@ window.ability=[
         {
           "abilityId": "1672",
           "abilityName": "過去からの決断",
-          "abilityDescription": "チャクラMAX時、攻撃力とスキルダメージが150％アップする",
-          "abilityEffectDescription": "チャクラMAX時、攻撃力とスキルダメージが150％アップする",
+          "abilityDescription": "ATK and Skill Damage +150% when Chakra is max",
+          "abilityEffectDescription": "ATK and Skill Damage +150% when Chakra is max",
           "effectIdx1": "1426",
           "effectIdx2": "1232",
           "effectIdx3": "0"
@@ -15203,8 +15203,8 @@ window.ability=[
         {
           "abilityId": "1721",
           "abilityName": "広範囲型攻撃",
-          "abilityDescription": "攻撃力とスキルダメージが100%アップする",
-          "abilityEffectDescription": "攻撃力とスキルダメージが100%アップする",
+          "abilityDescription": "ATK and Skill Damage +100%",
+          "abilityEffectDescription": "ATK and Skill Damage +100%",
           "effectIdx1": "11099",
           "effectIdx2": "774",
           "effectIdx3": "0"
@@ -15374,8 +15374,8 @@ window.ability=[
         {
           "abilityId": "1740",
           "abilityName": "テマリの喝",
-          "abilityDescription": "素早さとスキルダメージが100%アップする。",
-          "abilityEffectDescription": "素早さとスキルダメージが100%アップする。",
+          "abilityDescription": "SPD and Skill Damage +100%。",
+          "abilityEffectDescription": "SPD and Skill Damage +100%。",
           "effectIdx1": "13099",
           "effectIdx2": "774",
           "effectIdx3": "0"
@@ -15392,8 +15392,8 @@ window.ability=[
         {
           "abilityId": "1742",
           "abilityName": "喝！",
-          "abilityDescription": "最大HPとスキルダメージが100%アップする",
-          "abilityEffectDescription": "最大HPとスキルダメージが100%アップする",
+          "abilityDescription": "Maximum HP and Skill Damage +100%",
+          "abilityEffectDescription": "Maximum HP and Skill Damage +100%",
           "effectIdx1": "684",
           "effectIdx2": "774",
           "effectIdx3": "0"
@@ -15563,8 +15563,8 @@ window.ability=[
         {
           "abilityId": "1761",
           "abilityName": "洗練された術",
-          "abilityDescription": "最大HPとスキルダメージが100%アップする",
-          "abilityEffectDescription": "最大HPとスキルダメージが100%アップする",
+          "abilityDescription": "Maximum HP and Skill Damage +100%",
+          "abilityEffectDescription": "Maximum HP and Skill Damage +100%",
           "effectIdx1": "684",
           "effectIdx2": "774",
           "effectIdx3": "0"
@@ -15725,8 +15725,8 @@ window.ability=[
         {
           "abilityId": "1779",
           "abilityName": "合理的思考",
-          "abilityDescription": "最大HPと素早さが100%アップする",
-          "abilityEffectDescription": "最大HPと素早さが100%アップする",
+          "abilityDescription": "Maximum HP and SPD +100%する",
+          "abilityEffectDescription": "Maximum HP and SPD +100%する",
           "effectIdx1": "684",
           "effectIdx2": "13099",
           "effectIdx3": "0"
@@ -16644,7 +16644,7 @@ window.ability=[
           "abilityId": "1883",
           "abilityName": "Sealed Eye",
           "abilityDescription": "Maximum Chakra +50. Maximum HP and SPD +100%",
-          "abilityEffectDescription": "最大チャクラ量が50アップし、最大HPと素早さが100%アップする",
+          "abilityEffectDescription": "最大チャクラ量が50アップし、Maximum HP and SPD +100%する",
           "effectIdx1": "689",
           "effectIdx2": "684",
           "effectIdx3": "13099"

@@ -60194,7 +60194,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1679",
           "nameIdx": "1679",
-          "description": "敵全体に攻撃力3%+100のダメージを与え、自身のチャクラを全て消費し、消費した量に応じてダメージアップ。(消費100で20倍）さらに敵にうちはサスケがいるとダメージが1.5倍になる。【必中スキル】",
+          "description": "Deal 3% + 100 to all enemies and consume all chakra. Damage increase based on how much Chakra is consumed (20x with 100+ Chakra). Deal 1.5x more damage if one of the enemy is 'Sasuke Uchiha'. [Always Hits]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1679",
@@ -60230,7 +60230,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1680",
           "nameIdx": "1680",
-          "description": "自身のスキルダメージを500%アップし、防御時のチャクラ回復力を30%アップする。",
+          "description": "Own Skill Damage +500%, Chakra Recovery +30% when guarding",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -60266,7 +60266,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1681",
           "nameIdx": "1681",
-          "description": "敵全体に攻撃力3%+100のダメージを与え、自身のチャクラを全て消費し、消費した量に応じてダメージアップ。(消費100で20倍）さらに敵にうずまきナルトがいるとダメージが1.5倍になる。【必中スキル】",
+          "description": "Deal 3% + 100 to all enemies and consume all chakra. Damage increase based on how much Chakra is consumed (20x per 100). Deal 1.5x more damage if one of the enemy is 'Naruto Uzumaki'. [Always Hits]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1681",
@@ -60302,7 +60302,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1682",
           "nameIdx": "1682",
-          "description": "自身のスキルダメージを500%アップし、防御時のチャクラ回復力を30%アップする。",
+          "description": "Own Skill Damage +500%, Chakra Recovery +30% when guarding",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -60338,7 +60338,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1683",
           "nameIdx": "1683",
-          "description": "敵全体に攻撃力3%+2000のダメージを与え、自身が疾風状態の時ダメージが2倍になる。さらに漆黒状態の敵に対しダメージ1.5倍。（合計3倍）",
+          "description": "Deal 3% + 2,000 to all enemies. Deal 2x more damage while under 'Gust' state. Deal 1.5x more damage to enemies under 'Black Flames'. (Max 3x)",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1683",
@@ -60374,7 +60374,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1684",
           "nameIdx": "1684",
-          "description": "自身の攻撃力を70%アップし、さらに味方全体を疾風状態にし、スキル発動速度が1段階アップする。【特殊状態：疾風】素早さとスキルダメージが30%アップする。",
+          "description": "Own ATK +70%. Cast Speed +1 and grant 'Gust' state to all allies. [Gust: SPD and Skill Damage +30%]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -60410,7 +60410,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1685",
           "nameIdx": "1685",
-          "description": "敵全体に攻撃力3%+2000のダメージを与え、確率で敵を漆黒状態にする。さらに漆黒状態の敵に対しダメージ2倍、自身が疾風状態でダメージ1.5倍。（合計3倍）【特殊状態：漆黒】漆黒の炎で持続ダメージを与え、行動するたびに確率で攻撃力と素早さを20%ダウンさせる。",
+          "description": "Deal 3% + 2,000 to all enemies, with a Chance to place the enemies under 'Black Flames' state. Deal 2x more damage to enemies under 'Black Flames'. Deal 1.5x more damage while under 'Gust' state. (Max 3x) [Black Flames: Continues to lose HP, ATK and HP -20% after every action]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1685",
@@ -60446,7 +60446,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1686",
           "nameIdx": "1686",
-          "description": "自身の攻撃力を70%アップし、味方全体にスキル回避状態（低確率）を付与する。",
+          "description": "Own ATK +70%. Grant a Chance to Dodge Skills to all allies",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -60482,7 +60482,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1687",
           "nameIdx": "1687",
-          "description": "敵全体に攻撃力3%+2000のダメージを与え、自身が創造再生状態の時ダメージが4倍になる。さらに味方全体のHPを20%回復する。",
+          "description": "Deal 3% + 2,000 to all enemies. Deal 4x more damage while under 'Mitotic Regeneration.' Recover 20% HP to all allies",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1687",
@@ -60518,7 +60518,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1688",
           "nameIdx": "1688",
-          "description": "自身の攻撃力を70%アップし、創造再生状態になる。さらに味方全体を抗状態にする。【特殊状態：創造再生】攻撃を受けた時HP100%回復（HP0になった場合も死なずに回復）。創造再生解除時、チャクラが0になる。【特殊状態：抗】弱体と状態異常と幻を解除し、しばらく無効化状態にする。",
+          "description": "Own ATK +70% and grant 'Mitotic Regeneration' state. Grant 'Resist' state to all allies [Mitotic Regeneration: Recover 100% HP when attacked, Can't die. Once the state expire, set Chakra to 0] [Resist: Immune and Remove all negative status, Debuff and Genjutsu]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -60554,7 +60554,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1689",
           "nameIdx": "1683",
-          "description": "敵全体に攻撃力3%+3500のダメージを与え、自身が疾風状態の時ダメージが2.5倍になる。さらに漆黒状態の敵に対しダメージ2倍。（合計5倍）",
+          "description": "Deal 3% + 3,500 to all enemies. Deal 2.5x more damage while under 'Gust' state. Deal 2x more damage to enemies under 'Black Flames'. (Max 5x)",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1689",
@@ -60590,7 +60590,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1690",
           "nameIdx": "1684",
-          "description": "自身の攻撃力を120%アップし、さらに味方全体を疾風状態にし、スキル発動速度が2段階アップする。【特殊状態：疾風】素早さとスキルダメージが50%アップする。",
+          "description": "Own ATK +120%. Cast Speed +2 and grant 'Gust' state to all allies. [Gust: SPD and Skill Damage +50%]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -60626,7 +60626,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1691",
           "nameIdx": "1685",
-          "description": "敵全体に攻撃力3%+4000のダメージを与え、高確率で敵を漆黒状態にする。さらに漆黒状態の敵に対しダメージ2.5倍、自身が疾風状態でダメージ2倍。（合計5倍）【特殊状態：漆黒】漆黒の炎で持続ダメージを与え、行動するたびに確率で攻撃力と素早さを20%ダウンさせる。",
+          "description": "Deal 3% + 4,000 to all enemies, with a High Chance to place the enemies under 'Black Flames' state. Deal 2.5x more damage to enemies under 'Black Flames'. Deal 2x more damage while under 'Gust' state. (Max 5x) [Black Flames: Continues to lose HP, ATK and HP -20% after every action]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1691",
@@ -60662,7 +60662,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1692",
           "nameIdx": "1686",
-          "description": "自身の攻撃力を120%アップし、味方全体にスキル回避状態（中確率）を付与する。",
+          "description": "Own ATK +120%. Grant a Medium Chance to Dodge Skills to all allies",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -60698,7 +60698,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1693",
           "nameIdx": "1687",
-          "description": "敵全体に攻撃力3%+3000のダメージを与え、自身が創造再生状態の時ダメージが５倍になる。さらに味方全体のHPを20%回復する。",
+          "description": "Deal 3% + 3,000 to all enemies. Deal 5x more damage while under 'Mitotic Regeneration.' Recover 20% HP to all allies",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1693",
@@ -60734,7 +60734,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1694",
           "nameIdx": "1688",
-          "description": "自身の攻撃力を120%アップし、創造再生状態になる。さらに味方全体を抗状態にする。【特殊状態：創造再生】攻撃を受けた時HP100%回復（HP0になった場合も死なずに回復）。創造再生解除時、チャクラが0になる。【特殊状態：抗】弱体と状態異常と幻を解除し、しばらく無効化状態にする。",
+          "description": "Own ATK +120% and grant 'Mitotic Regeneration' state. Grant 'Resist' state to all allies [Mitotic Regeneration: Recover 100% HP when attacked, Can't die. Once the state expire, set Chakra to 0] [Resist: Immune and Remove all negative status, Debuff and Genjutsu]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -61418,7 +61418,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1713",
           "nameIdx": "1679",
-          "description": "敵全体に攻撃力3%+100のダメージを与え、自身のチャクラを全て消費し、消費した量に応じてダメージアップ。(消費100で20倍）さらに敵にうちはサスケがいるとダメージが2倍になる。【必中スキル】",
+          "description": "Deal 3% + 100 to all enemies and consume all chakra. Damage increase based on how much Chakra is consumed (20x with 100+ Chakra). Deal 2x more damage if one of the enemy is 'Sasuke Uchiha'. [Always Hits]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1713",
@@ -61454,7 +61454,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1714",
           "nameIdx": "1680",
-          "description": "自身のスキルダメージを長い間1100%アップし、防御時のチャクラ回復力を30%アップする。",
+          "description": "Own Skill Damage +1100%, Chakra Recovery +30% when guarding",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -61490,7 +61490,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1715",
           "nameIdx": "1681",
-          "description": "敵全体に攻撃力3%+100のダメージを与え、自身のチャクラを全て消費し、消費した量に応じてダメージアップ。(消費100で20倍）さらに敵にうずまきナルトがいるとダメージが2倍になる。【必中スキル】",
+          "description": "Deal 3% + 100 to all enemies and consume all chakra. Damage increase based on how much Chakra is consumed (20x with 100+ Chakra). Deal 2x more damage if one of the enemy is 'Naruto Uzumaki'. [Always Hits]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1715",
@@ -61526,7 +61526,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1716",
           "nameIdx": "1682",
-          "description": "自身のスキルダメージを長い間1100%アップし、防御時のチャクラ回復力を30%アップする。",
+          "description": "Own Skill Damage +1100%, Chakra Recovery +30% when guarding",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -62426,7 +62426,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1741",
           "nameIdx": "1741",
-          "description": "敵全体に攻撃力3%+3000のダメージを与え、敵の数が少ないほどダメージが上がり、敵が5人で3倍、1人で15倍。【必中スキル】",
+          "description": "Deal 3% + 3,000 to all enemies. Deal more damage the less enemies. Minimum 3x against 5 enemies, Maximum 15x against 1 enemy. [Always Hits]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1741",
@@ -62462,7 +62462,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1742",
           "nameIdx": "1742",
-          "description": "味方全体のHPを小回復。さらに五大里所属のチャクラを大回復し共鳴状態を付与する。【特殊状態：共鳴】スキルダメージが20％、攻撃力が20％アップする。共鳴状態のときに再び共鳴状態になるとカウント数が増加し、効果が追加される。他のスキルによる共鳴状態も有効（最大カウント3）※持続時間は延長されない",
+          "description": "Recover a small amount of HP to all allies, recover a large Chakra and grant 'Resonance' state to characters from the Five Village. [Resonance: Skill Damage +20% and ATK +20%. Resonance can be stacked up to 3 times including other Resonance state from other characters]",
           "categoryId": "2",
           "levelType": "8",
           "scriptId": "100004",
@@ -62498,7 +62498,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1743",
           "nameIdx": "1743",
-          "description": "敵全体に攻撃力3%+3000のダメージを与え、敵の数が少ないほどダメージが上がり、敵が5人で3倍、1人で15倍。【必中スキル】",
+          "description": "Deal 3% + 3,000 to all enemies. Deal more damage the less enemies. Minimum 3x against 5 enemies, Maximum 15x against 1 enemy. [Always Hits]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1743",
@@ -62534,7 +62534,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1744",
           "nameIdx": "1744",
-          "description": "味方全体のHPを小回復。さらに五大里所属に短い間スキル回避状態を付与し、共鳴状態を付与する。【特殊状態：共鳴】スキルダメージが20％、素早さが20％アップする。共鳴状態のときに再び共鳴状態になるとカウント数が増加し、効果が追加される。他のスキルによる共鳴状態も有効（最大カウント3）※持続時間は延長されない",
+          "description": "Recover a small amount of HP to all allies, and grant a Chance to Dodge Skills and grant 'Resonance' state to characters from the Five Village. [Resonance: Skill Damage +20% and SPD +20%. Resonance can be stacked up to 3 times including other Resonance state from other characters]",
           "categoryId": "2",
           "levelType": "8",
           "scriptId": "100004",
@@ -63686,7 +63686,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1776",
           "nameIdx": "538",
-          "description": "敵単体に攻撃力7%+150000のダメージを与え、五大隠れ里所属のキャラクターに対しダメージ3倍。",
+          "description": "Deal 7% + 150,000 to one enemy. Deal 3x more damage against characters from the Five Village",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1776",
@@ -63938,7 +63938,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1783",
           "nameIdx": "1783",
-          "description": "敵単体に攻撃力7%+3000のダメージを与え、周囲にもダメージを与える。さらに自身が仙術チャクラ集中状態だとダメージ4倍。",
+          "description": "Deal 7% + 6,000 to one enemy and his surroundings. Deal 6x more damage while under 'Sage Chakra Concentration'",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1783",
@@ -63974,7 +63974,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1784",
           "nameIdx": "1784",
-          "description": "自身の攻撃力を100%アップし、仙術チャクラ集中状態にする。【特殊状態：仙術チャクラ集中】自身の攻撃・防御・素早さとスキルダメージが100％アップしチャクラ消費量が半減するが、仙術チャクラ集中状態解除時、チャクラが0になる",
+          "description": "Own ATK +200% and grant 'Sage Chakra Concentration'. [Sage Chakra Concentration: ATK, DEF and SPD +150%, Chakra Cost -50%. Once the state expire, set Chakra to 0]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -64010,7 +64010,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1785",
           "nameIdx": "1783",
-          "description": "敵単体に攻撃力7%+6000のダメージを与え、周囲にもダメージを与える。さらに自身が仙術チャクラ集中状態だとダメージ6倍。",
+          "description": "Deal 7% + 3,000 to one enemy and his surroundings. Deal 4x more damage while under 'Sage Chakra Concentration'",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1785",
@@ -64046,7 +64046,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1786",
           "nameIdx": "1784",
-          "description": "自身の攻撃力を200%アップし、仙術チャクラ集中状態にする。【特殊状態：仙術チャクラ集中】自身の攻撃・防御・素早さとスキルダメージが150％アップしチャクラ消費量が0になるが、仙術チャクラ集中状態解除時、チャクラが0になる",
+          "description": "Own ATK +100% and grant 'Sage Chakra Concentration'. [Sage Chakra Concentration: ATK, DEF and SPD +100%, Chakra Cost -50%. Once the state expire, set Chakra to 0]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "1786",
@@ -64082,7 +64082,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1787",
           "nameIdx": "1787",
-          "description": "敵全体に攻撃力3%+1000のダメージを与え、確率で敵の素早さを30%ダウン、炎上・麻痺状態にする。さらに炎上状態の敵が１人でもいるとダメージ3倍。",
+          "description": "Deal 3% + 1,000 to all enemies with a Chance to lower the enemies SPD by 30%, burn and/or stun. Deal 3x more damage if atleast one enemy is burning",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1787",
@@ -64118,7 +64118,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1788",
           "nameIdx": "1788",
-          "description": "味方全体の素早さを100%アップし自身を仙術チャクラ集中状態にする。さらに短い間、仙人モード状態のキャラに対し、仙術チャクラ集中状態を付与する。【特殊状態：仙術チャクラ集中】自身の攻撃・防御・素早さとスキルダメージが100％アップしチャクラ消費量が半減するが、仙術チャクラ集中状態解除時、チャクラが0になる",
+          "description": "All allies SPD +100% and grant 'Sage Chakra Concentration' to Jiraiya. Grant 'Sage Chakra Concentration' to character's under 'Sage Mode.' [Sage Chakra Concentration: ATK, DEF and SPD +100%, Chakra Cost -50%. Once the state expire, set Chakra to 0]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -64154,7 +64154,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1789",
           "nameIdx": "1787",
-          "description": "敵全体に攻撃力3%+2500のダメージを与え、高確率で敵の素早さを40%ダウン、炎上・麻痺状態にする。さらに炎上状態の敵が１人でもいるとダメージ4倍。",
+          "description": "Deal 3% + 2,500 to all enemies with a Chance to lower the enemies SPD by 40%, burn and/or stun. Deal 4x more damage if atleast one enemy is burning",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1789",
@@ -64190,7 +64190,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1790",
           "nameIdx": "1788",
-          "description": "味方全体の素早さを120%アップし自身を仙術チャクラ集中状態にする。さらに仙人モード状態のキャラに対し、仙術チャクラ集中状態を付与する。【特殊状態：仙術チャクラ集中】自身の攻撃・防御・素早さとスキルダメージが120％アップしチャクラ消費量が0になるが、仙術チャクラ集中状態解除時、チャクラが0になる",
+          "description": "All allies SPD +120% and grant 'Sage Chakra Concentration' to Jiraiya. Grant 'Sage Chakra Concentration' to character's under 'Sage Mode.' [Sage Chakra Concentration: ATK, DEF and SPD +120%, Chakra Cost becomes 0. Once the state expire, set Chakra to 0]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "1790",
@@ -64226,7 +64226,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1791",
           "nameIdx": "536",
-          "description": "敵全体に攻撃力3%+500のダメージを与え、確率で明神門状態にする。【特殊状態：明神門】使用する度にカウント数が増加。「壱」：スキルダメージが25％ダウンする。「弐」：スキルダメージが25％ダウン、素早さが40％ダウンする。「参」：行動を制限する※各カウント時の効果は累積",
+          "description": "Deal 3% + 500 to all enemies with a Chance to place the enemies under 'Gate of the Great God' state. [Gate of the Great God: Gate of the Great God stacks doing different effect based on the number of stacks. [1] Skill Damage -25%, [2] Skill Damage -25%, SPD -40% [3] Cancel enemies' action]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1791",
@@ -64262,7 +64262,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1792",
           "nameIdx": "39",
-          "description": "敵全体に攻撃力3%+2000のダメージを与え、確率で封印状態にする。さらに明神門状態の敵に対しダメージ5倍",
+          "description": "Deal 3% + 2,000 to all enemies with a Chance to seal. Deal 5x more damage if the enemies are under 'Gates of the Great God'",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1792",
@@ -64298,7 +64298,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1793",
           "nameIdx": "536",
-          "description": "敵全体に攻撃力3%+2000のダメージを与え、確率で明神門状態にする。【特殊状態：明神門】使用する度にカウント数が増加。「壱」：スキルダメージが25％ダウンする。「弐」：スキルダメージが25％ダウン、素早さが40％ダウンする。「参」：行動を制限する※各カウント時の効果は累積",
+          "description": "Deal 3% + 2,000 to all enemies with a Chance to place the enemies under 'Gate of the Great God' state. [Gate of the Great God: Gate of the Great God stacks doing different effect based on the number of stacks. [1] Skill Damage -25%, [2] Skill Damage -25, SPD -40% [3] Cancel enemies' action]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1793",
@@ -64334,7 +64334,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1794",
           "nameIdx": "39",
-          "description": "敵全体に攻撃力3%+4000のダメージを与え、確率で封印状態にする。さらに明神門状態の敵に対しダメージ7倍。",
+          "description": "Deal 3% + 4,000 to all enemies with a Chance to seal. Deal 7x more damage if the enemies are under 'Gates of the Great God'",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1794",
@@ -64514,7 +64514,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1799",
           "nameIdx": "1799",
-          "description": "敵単体に攻撃力7%+2000のダメージを与え、確率で行動をキャンセルする。さらに確率でスキル会心が発生、会心時ダメージ3倍。【必中スキル】",
+          "description": "Deal 7% + 2,000 with a Chance to Crit dealing 3x more damage and Cancel the enemies' action. [Always Hits]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1799",
@@ -64550,7 +64550,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1800",
           "nameIdx": "1800",
-          "description": "自身の攻撃力が80%アップ。さらに少しの間、味方の全ての日向ネジ・日向ヒナタ・日向ハナビ・日向ヒアシに対し、スキルダメージを200%アップする",
+          "description": "Own ATK +80%. Skill Damage +200% to ally 'Neji Hyuga', 'Hinata Hyuga', 'Hanabi Hyuga', 'Hiashi Hyuga'",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -64802,7 +64802,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1807",
           "nameIdx": "1807",
-          "description": "敵単体に攻撃力7%+2500のダメージを与え、確率でスキル会心が発生、会心時ダメージ3倍。さらに自身が奮起状態の時ダメージ2倍。（合計6倍）",
+          "description": "Deal 7% + 2,500 to one enemy with a Chance to Crit dealing 3x more damage. Deal 2x more damage while under 'Rally' state. (Max 6x)",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1807",
@@ -64838,7 +64838,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1808",
           "nameIdx": "1808",
-          "description": "自身の攻撃力を80%アップし決意状態にする。さらに味方全体を奮起状態にする。【特殊状態：決意】攻撃・防御・素早さを30%アップし、攻撃を受けた時にチャクラとHP5%回復する。【特殊状態：奮起】攻撃・防御・素早さが30%アップし、行動するたびにHPとチャクラが5%回復する。",
+          "description": "Own ATK +80% and grant 'Resolution' status. Grant 'Rally' state to all allies. [Resolution: ATK, DEF and SPD +30%, Recover 5% Chakra and HP when attacked], [Rally: ATK, DEF and SPD +30%, HP Regen and Chakra Recovery +5%]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -64874,7 +64874,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1809",
           "nameIdx": "1807",
-          "description": "敵単体に攻撃力7%+4000のダメージを与え、高確率でスキル会心が発生、会心時ダメージ4倍。さらに自身が奮起状態の時ダメージ3倍。（合計12倍）",
+          "description": "Deal 7% + 4,000 to one enemy with a Chance to Crit dealing 4x more damage. Deal 3x more damage while under 'Rally' state. (Max 12x)",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1809",
@@ -64910,7 +64910,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1810",
           "nameIdx": "1808",
-          "description": "自身の攻撃力を120%アップし決意状態にする。さらに味方全体を奮起状態にする。【特殊状態：決意】攻撃・防御・素早さを40%アップし、攻撃を受けた時にチャクラとHP10%回復する。【特殊状態：奮起】攻撃・防御・素早さが40%アップし、行動するたびにHPとチャクラが10%回復する。",
+          "description": "Own ATK +120% and grant 'Resolution' status. All allies are placed in a 'Rally' state. [Resolution: ATK, DEF and SPD +40%, Recover 10% Chakra and HP when attacked], [Rally: ATK, DEF and SPD +40%, HP Regen and Chakra Recovery +10%]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -64946,7 +64946,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1811",
           "nameIdx": "1811",
-          "description": "敵単体に攻撃力7%+2000のダメージを与え、確率で敵を漆黒状態にする。さらに自身が孤独状態だとダメージ5倍。【特殊状態：漆黒】漆黒の炎で持続ダメージを与え、行動するたびに確率で攻撃力と素早さを20%ダウンさせる。",
+          "description": "Deal 7% + 2,000 to one enemy with a Chance to inflict 'Black Flames' state. Deal 5x more damage to enemies under 'Black Flames' state. [Black Flames: Continues to lose HP, ATK and HP -20% after every action]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1811",
@@ -64982,7 +64982,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1812",
           "nameIdx": "1812",
-          "description": "自身の攻撃・防御・素早さ100%アップし、スキル回避状態（中確率）と孤独・戦気状態となる。ただし味方全体のHPが最大HPの80%減少する。【特殊状態：孤独】スキルダメージ150%アップ、状態異常半減。【特殊状態：戦気】スキルダメージが100%アップ。",
+          "description": "Own ATK, DEF and SPD +100%, grant a Medium Chance to Dodge Skills, 'Solitude' and 'Battle' state. Reduce all allies HP by 80%. [Solitude: Skill Damage +150%, Negate Effects are halved], [Battle: Skill Damage +100%]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -65018,7 +65018,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1813",
           "nameIdx": "1811",
-          "description": "敵単体に攻撃力7%+4000のダメージを与え、高確率で敵を漆黒状態にする。さらに自身が孤独状態だとダメージ10倍。【特殊状態：漆黒】漆黒の炎で持続ダメージを与え、行動するたびに確率で攻撃力と素早さを20%ダウンさせる。",
+          "description": "Deal 7% + 4,000 to one enemy with a High Chance to inflict 'Black Flames' state. Deal 10x more damage to enemies under 'Black Flames' state. [Black Flames: Continues to lose HP, ATK and HP -20% after every action]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1813",
@@ -65054,7 +65054,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1814",
           "nameIdx": "1812",
-          "description": "自身の攻撃・防御・素早さ150%アップし、スキル回避状態（高確率）と孤独・戦気状態となる。ただし味方全体のHPが最大HPの70%減少する。【特殊状態：孤独】スキルダメージ200%アップ、状態異常無効。【特殊状態：戦気】スキルダメージが120%アップ。",
+          "description": "Own ATK, DEF and SPD +150%, grant a High Chance to Dodge Skills, 'Solitude' and 'Battle' state. Reduce all allies HP by 70%. [Solitude: Skill Damage +200%, Immune Negate Effects], [Battle: Skill Damage +120%]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -65162,7 +65162,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1817",
           "nameIdx": "1741",
-          "description": "敵全体に攻撃力3%+7000のダメージを与え、敵の数が少ないほどダメージが上がり、敵が5人で5倍、1人で25倍。【必中スキル】",
+          "description": "Deal 3% + 5,000 to all enemies. Deal more damage the less enemies. Minimum 5x against 5 enemies, Maximum 25x against 1 enemy. [Always Hits]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1817",
@@ -65198,7 +65198,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1818",
           "nameIdx": "1742",
-          "description": "味方全体のHPを中回復。さらに五大里所属のチャクラを大回復し共鳴状態を付与する。【特殊状態：共鳴】スキルダメージが20％、攻撃力が40％アップする。共鳴状態のときに再び共鳴状態になるとカウント数が増加し、効果が追加される。他のスキルによる共鳴状態も有効（最大カウント3）※持続時間は延長されない",
+          "description": "Recover a small amount of HP to all allies, recover a large Chakra and grant 'Resonance' state to characters from the Five Village. [Resonance: Skill Damage +20%, ATK +40%. Resonance can be stacked up to 3 times including other Resonance state from other characters]",
           "categoryId": "2",
           "levelType": "8",
           "scriptId": "1818",
@@ -65234,7 +65234,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1819",
           "nameIdx": "1743",
-          "description": "敵全体に攻撃力3%+7000のダメージを与え、敵の数が少ないほどダメージが上がり、敵が5人で5倍、1人で25倍。【必中スキル】",
+          "description": "Deal 3% + 5,000 to all enemies. Deal more damage the less enemies. Minimum 5x against 5 enemies, Maximum 25x against 1 enemy. [Always Hits]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1819",
@@ -65270,7 +65270,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1820",
           "nameIdx": "1744",
-          "description": "味方全体のHPを大回復。さらに五大里所属に短い間スキル回避状態を付与し、共鳴状態を付与する。【特殊状態：共鳴】スキルダメージが20％、素早さが40％アップする。共鳴状態のときに再び共鳴状態になるとカウント数が増加し、効果が追加される。他のスキルによる共鳴状態も有効（最大カウント3）※持続時間は延長されない",
+          "description": "Recover a large amount of HP to all allies, and grant a Chance to Dodge Skills and grant 'Resonance' state to characters from the Five Village. [Resonance: Skill Damage +20%, SPD +40%. Resonance can be stacked up to 3 times including other Resonance state from other characters]",
           "categoryId": "2",
           "levelType": "8",
           "scriptId": "1820",
@@ -66098,7 +66098,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1843",
           "nameIdx": "1799",
-          "description": "敵単体に攻撃力7%+2500のダメージを与え、確率で行動をキャンセルする。さらに高確率でスキル会心が発生、会心時ダメージ4倍。【必中スキル】",
+          "description": "Deal 7% + 2,500 with a Chance to Crit dealing 4x more damage and Cancel the enemies' action. [Always Hits]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1799",
@@ -66134,7 +66134,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1844",
           "nameIdx": "1800",
-          "description": "自身の攻撃力が100%アップ。さらに少しの間、味方の全ての日向ネジ・日向ヒナタ・日向ハナビ・日向ヒアシに対し、スキルダメージを250%アップする",
+          "description": "Own ATK +100%. Skill Damage +250% to ally 'Neji Hyuga', 'Hinata Hyuga', 'Hanabi Hyuga', 'Hiashi Hyuga'",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -66890,7 +66890,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1865",
           "nameIdx": "1865",
-          "description": "敵全体に攻撃力3%+20000のダメージを与える。さらに、敵の耐性が「磁遁・火遁・水遁・熔遁・沸遁・溶遁・風遁・尾獣」タイプの内、いずれかが「等倍」ならダメージ2倍。※ダメージアップは敵単体ごとに判定",
+          "description": "Deal 3% + 20,000 to all enemies. Deal 2x more damage to enemies Neutral to Magnet, Fire, Water, Lava, Boiling, Melting, Wind and/or Tailed Beast. Damage varies between enemies",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1865",
@@ -66926,7 +66926,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1866",
           "nameIdx": "1866",
-          "description": "自身のスキルダメージを100%アップし、防御時のチャクラ回復量を30%アップする。さらに五大隠れ里所属の味方の攻撃力を100%アップする",
+          "description": "Own Skill Damage +100%, Chakra Recovery +30% when guarding. ATK +100% to Characters from the Five Village",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -66962,7 +66962,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1867",
           "nameIdx": "1865",
-          "description": "敵全体に攻撃力3%+30000のダメージを与える。さらに、敵の耐性が「磁遁・火遁・水遁・熔遁・沸遁・溶遁・風遁・尾獣」タイプの内、いずれかが「等倍」ならダメージ4倍、「弱点」ならダメージ2倍。（合計8倍）※「等倍」「弱点」で発生するダメージアップは重複し、敵単体ごとに判定【必中スキル】",
+          "description": "Deal 3% + 30,000 to all enemies. Deal 4x more damage to enemies Neutral to Magnet, Fire, Water, Lava, Boiling, Melting, Wind and/or Tailed Beast. Deal 2x more damage if they are Weak to one of those types. Damage varies between enemies (Max 8x) [Always Hits]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1867",
@@ -66998,7 +66998,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1868",
           "nameIdx": "1866",
-          "description": "自身のスキルダメージを150%アップし、防御時のチャクラ回復量を30%アップする。さらに五大隠れ里所属の味方の攻撃力を150%アップする",
+          "description": "Own Skill Damage +150%, Chakra Recovery +30% when guarding. ATK +200% to Characters from the Five Village",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -67034,7 +67034,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1869",
           "nameIdx": "1868",
-          "description": "敵全体に攻撃力3%+20000のダメージを与える。さらに、敵の耐性が「磁遁・火遁・水遁・熔遁・沸遁・溶遁・風遁・尾獣」タイプの内、いずれかが「等倍」ならダメージ2倍。※ダメージアップは敵単体ごとに判定",
+          "description": "Deal 3% + 20,000 to all enemies. Deal 2x more damage to enemies Neutral to Magnet, Fire, Water, Lava, Boiling, Melting, Wind and/or Tailed Beast. Damage varies between enemies",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1869",
@@ -67070,7 +67070,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1870",
           "nameIdx": "1869",
-          "description": "自身のスキルダメージを100%アップし、防御時のチャクラ回復量を30%アップする。さらに味方のうちは一族に対し攻撃力を120%アップする",
+          "description": "Own Skill Damage +100%, Chakra Recovery +30% when guarding. ATK +120% to ally Uchiha Clan Member",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -67106,7 +67106,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1871",
           "nameIdx": "1868",
-          "description": "敵全体に攻撃力3%+30000のダメージを与える。さらに、敵の耐性が「磁遁・火遁・水遁・熔遁・沸遁・溶遁・風遁・尾獣」タイプの内、いずれかが「等倍」ならダメージ4倍、「弱点」ならダメージ2倍。（合計8倍）※「等倍」「弱点」で発生するダメージアップは重複し、敵単体ごとに判定【必中スキル】",
+          "description": "Deal 3% + 30,000 to all enemies. Deal 4x more damage to enemies Neutral to Magnet, Fire, Water, Lava, Boiling, Melting, Wind and/or Tailed Beast. Deal 2x more damage if they are Weak to one of those types. Damage varies between enemies (Max 8x) [Always Hits]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1871",
@@ -67142,7 +67142,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1872",
           "nameIdx": "1869",
-          "description": "自身のスキルダメージを150%アップし、防御時のチャクラ回復量を30%アップする。さらに味方のうちは一族に対し攻撃力を200%アップする",
+          "description": "Own Skill Damage +150%, Chakra Recovery +30% when guarding. ATK +200% to ally Uchiha Clan Member",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -67322,7 +67322,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1877",
           "nameIdx": "1877",
-          "description": "敵全体に攻撃力3%+3000のダメージを与え、自身を創造再生状態にする。さらに自身が創造再生状態の時ダメージ4倍。【特殊状態：創造再生】攻撃を受けた時HP100％回復。（HP0になった場合も死なずに回復）創造再生解除時、チャクラが0になる。",
+          "description": "Deal 3% + 3,000 to all enemies and grant 'Mitotic Regeneration.' Deal 4x more damage while under 'Mitotic Regeneration.' [Mitotic Regenration: Recover 100% HP when attacked, Can't Die. Once the state expire, set Chakra to 0]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1877",
@@ -67358,7 +67358,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1878",
           "nameIdx": "1878",
-          "description": "自身の攻撃力を100%アップし、味方全体のHPを20%回復する。",
+          "description": "Own ATK +100%, Recover 20% HP to all allies",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -67394,7 +67394,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1879",
           "nameIdx": "1877",
-          "description": "敵全体に攻撃力3%+4000のダメージを与え、自身を創造再生状態にする。さらに自身が創造再生状態の時ダメージ5倍、攻撃力アップ状態の時ダメージ3倍。（合計15倍）【特殊状態：創造再生】攻撃を受けた時HP100％回復。（HP0になった場合も死なずに回復）創造再生解除時、チャクラが0になる。",
+          "description": "Deal 3% + 4,000 to all enemies and grant 'Mitotic Regeneration.' Deal 5x more damage while under 'Mitotic Regeneration.' Deal 3x more damage when ATK is buffed [Mitotic Regenration: Recover 100% HP when attacked, Can't Die. Once the state expire, set Chakra to 0] (Max 15x)",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1879",
@@ -67430,7 +67430,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1880",
           "nameIdx": "1878",
-          "description": "自身の攻撃力を120%アップし、味方全体のHPを30%回復する。",
+          "description": "Own ATK +120%, Recover 30% HP to all allies",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "1880",
@@ -67466,7 +67466,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1881",
           "nameIdx": "1881",
-          "description": "敵全体に攻撃力3%+5000のダメージを与え、確率で会心力を100%ダウンし砂状態にする。さらに砂状態の敵に対しダメージ4倍。【特殊状態：砂】素早さを30%ダウンする。",
+          "description": "Deal 3% + 5,000 to all enemies and lower Crit Damage by 100% and place them under 'Sand' state. Deal 4x more damage to enemies under 'Sand' state. [Sand: SPD -30%]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1881",
@@ -67502,7 +67502,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1882",
           "nameIdx": "1882",
-          "description": "自身の素早さを100%アップし、五大隠れ里所属の味方のスキルダメージを100%アップする。",
+          "description": "Own SPD +100%, Skill Damage +100% to Character's from the Five Village",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -67538,7 +67538,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1883",
           "nameIdx": "1881",
-          "description": "敵全体に攻撃力3%+10000のダメージを与え、確率で会心力を100%ダウンし砂状態にする。さらに砂状態の敵に対しダメージ4倍、会心力ダウン状態の敵に対しダメージ2倍。（合計8倍）【特殊状態：砂】素早さを30%ダウンする。【必中スキル】",
+          "description": "Deal 3% + 10,000 to all enemies and lower Crit Damage by 100% and place them under 'Sand' state. Deal 4x more damage to enemies under 'Sand' state. Deal 2x more damage to enemies with Crit Damage lowered. [Sand: SPD -30%] (Max 8x)",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1883",
@@ -67574,7 +67574,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1884",
           "nameIdx": "1882",
-          "description": "自身の素早さを120%アップし、五大隠れ里所属の味方のスキルダメージを120%アップする。",
+          "description": "Own SPD +120%, Skill Damage +120% to Character's from the Five Village",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "1884",
@@ -67610,7 +67610,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1885",
           "nameIdx": "1885",
-          "description": "敵全体に防御力を20%無視して10倍の攻撃力で攻撃し、確率で防御力と素早さを40%ダウンさせる。さらに自身が奮起状態の時ダメージ4倍。",
+          "description": "Deal 10x ATK damage to all enemies ignoring 20% DEF, with a Chance to lower DEF and/or SPD by 40%. Deal 4x more damage while under 'Encourage' state. (Max 40x)",
           "categoryId": "1",
           "levelType": "1",
           "scriptId": "1885",
@@ -67646,7 +67646,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1886",
           "nameIdx": "1886",
-          "description": "自身の攻撃力と素早さを70%アップし、味方の「綱手・エー・照美メイ・我愛羅・オオノキ」を奮起状態にする。【特殊状態：奮起】攻撃・防御・素早さが30%アップし、行動するたびにHPとチャクラが10%回復する。",
+          "description": "Own ATK and SPD +70%, grant 'Encourage' state to 'Tsunade', 'A', 'Mei Terumi', 'Gaara', 'Oonoki'. [Encourage: ATK, DEF and SPD +30%, Recover 10% HP and Chakra after every action]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -67682,7 +67682,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1887",
           "nameIdx": "1885",
-          "description": "敵全体に防御力を20%無視して12倍の攻撃力で攻撃し、高確率で防御力と素早さを50%ダウンさせる。さらに自身が奮起状態の時ダメージ4倍、素早さダウン状態の敵に対しダメージ2倍。（合計8倍）",
+          "description": "Deal 12x ATK damage to all enemies ignoring 20% DEF, with a Chance to lower DEF and/or SPD by 50%. Deal 4x more damage while under 'Encourage' state. Deal 2x more damage to enemies with their SPD (Max 96x)",
           "categoryId": "1",
           "levelType": "1",
           "scriptId": "1887",
@@ -67718,7 +67718,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1888",
           "nameIdx": "1886",
-          "description": "自身の攻撃力と素早さを100%アップし、味方の「綱手・エー・照美メイ・我愛羅・オオノキ」を奮起状態にする。【特殊状態：奮起】攻撃・防御・素早さが50%アップし、行動するたびにHPとチャクラが15%回復する。",
+          "description": "Own ATK and SPD +100%, grant 'Encourage' state to 'Tsunade', 'A', 'Mei Terumi', 'Gaara', 'Oonoki'. [Encourage: ATK, DEF and SPD +50%, Recover 15% HP and Chakra after every action]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "1888",
@@ -67754,7 +67754,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1889",
           "nameIdx": "1889",
-          "description": "敵単体に攻撃力7%+4000のダメージを与え、確率でスキル会心が発生、会心時ダメージ4倍。",
+          "description": "Deal 7% + 4,000 to one enemy with a Chance to Crit dealing 4x more damage",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1889",
@@ -67790,7 +67790,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1890",
           "nameIdx": "1890",
-          "description": "自身のHPを大回復し雷遁チャクラモード状態にする。さらに五大隠れ里所属の味方の攻撃・防御・素早さを100%アップする【特殊状態：雷遁チャクラモード】攻撃力80%アップ、スキル発動速度が閃光化、速度ダウンを受けても閃光状態維持。",
+          "description": "Recover a large amount of HP and grant 'Lightning Chakra Concentration'. ATK, DEF and SPD +100% to Characters from the Five Village. [Lightning Chakra Concentration: ATK +80%, Cast Speed becomes Flash (Can't be lowered)]",
           "categoryId": "2",
           "levelType": "8",
           "scriptId": "100004",
@@ -67826,7 +67826,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1891",
           "nameIdx": "1889",
-          "description": "敵単体に攻撃力7%+7000のダメージを与え、自身が雷遁チャクラモード状態時ダメージ4倍。さらに高確率でスキル会心が発生、会心時ダメージ4倍。（合計16倍",
+          "description": "Dea; 7% + 7,000 to one enemy with a Chance to Crit dealing 4x more damage. Deal 4x more damage while under 'Lightning Chakra Concentration' (Max 16x)",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1891",
@@ -67862,7 +67862,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1892",
           "nameIdx": "1890",
-          "description": "自身のHPを特大回復し雷遁チャクラモード状態にする。さらに五大隠れ里所属の味方の攻撃・防御・素早さを120%アップする【特殊状態：雷遁チャクラモード】攻撃力100%アップ、スキル発動速度が閃光化、速度ダウンを受けても閃光状態維持。",
+          "description": "Recover a tremendous amount of HP and grant 'Lightning Chakra Concentration'. ATK, DEF and SPD +120% to Characters from the Five Village. [Lightning Chakra Concentration: ATK +100%, Cast Speed becomes Flash (Can't be lowered)]",
           "categoryId": "2",
           "levelType": "8",
           "scriptId": "1892",
@@ -67898,7 +67898,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1893",
           "nameIdx": "33",
-          "description": "敵全体に攻撃力3%+4000のダメージを与え、敵の数が少ないほどダメージが上がり、敵が5人で2倍、1人で10倍。さらに確率でスキル発動速度を1段階ダウンさせる。",
+          "description": "Deal 3% + 4,000 to all enemies. Deal more damage the less enemies. Minimum 2x against 5 enemies, Maximum 10x against 1 enemy. Enemy's Cast Speed -1",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1893",
@@ -67934,7 +67934,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1894",
           "nameIdx": "1894",
-          "description": "自身の攻撃力を80%アップし、味方の「綱手・エー・照美メイ・我愛羅・オオノキ」のスキル発動速度を1段階アップする。",
+          "description": "Own ATK +80%, Cast Speed +1 for 'Tsunade', 'A', 'Mei Terumi', 'Gaara', 'Oonoki'",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -67970,7 +67970,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1895",
           "nameIdx": "33",
-          "description": "敵全体に攻撃力3%+5000のダメージを与え、敵の数が少ないほどダメージが上がり、敵が5人で3倍、1人で15倍。さらに高確率でスキル発動速度を1段階ダウンさせる。【必中スキル】",
+          "description": "Deal 3% + 5,000 to all enemies. Deal more damage the less enemies. Minimum 3x against 5 enemies, Maximum 15x against 1 enemy. Enemy's Cast Speed -1 [Always Hits]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1895",
@@ -68006,7 +68006,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1896",
           "nameIdx": "1894",
-          "description": "自身の攻撃力を100%アップし、味方の「綱手・エー・照美メイ・我愛羅・オオノキ」のスキル発動速度を2段階アップする。",
+          "description": "Own ATK +100%, Cast Speed +2 for 'Tsunade', 'A', 'Mei Terumi', 'Gaara', 'Oonoki'",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "1896",
@@ -68042,7 +68042,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1897",
           "nameIdx": "537",
-          "description": "敵全体に攻撃力3%＋10000のダメージを与える。さらに無所属の敵に対しダメージ2倍、うちは一族の敵に対しダメージ2倍。（合計4倍）",
+          "description": "Deal 3% + 10,000 to all enemies. Deal 2x more damage against None Characters. Deal 2x more damage to Uchiha Clan Members. (Max 4x)",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1897",
@@ -68078,7 +68078,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1898",
           "nameIdx": "1898",
-          "description": "自身の攻撃力とスキルダメージを300%アップし、防御時のチャクラ回復量を30%アップする。さらに自身を火遁・写輪眼半減状態にする。",
+          "description": "Own ATK and Skill Damage +300%, Chakra Recovery +30% when guarding. Incoming Fire and Sharingan Skill Damage -50%",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -68114,7 +68114,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1899",
           "nameIdx": "537",
-          "description": "敵全体に攻撃力3%＋50000のダメージを与える。さらに無所属の敵に対しダメージ4倍、うちは一族の敵に対しダメージ4倍。（合計16倍）",
+          "description": "Deal 3% + 50,000 to all enemies. Deal 4x more damage against None Characters. Deal 4x more damage to Uchiha Clan Members. (Max 16x)",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1899",
@@ -68150,7 +68150,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1900",
           "nameIdx": "1898",
-          "description": "自身の攻撃力とスキルダメージを500%アップし、防御時のチャクラ回復量を30%アップする。さらに自身を火遁・写輪眼無効状態にする。",
+          "description": "Own ATK and Skill Damage +500%, Chakra Recovery +30% when guarding. Immune to Fire and Sharingan Skill Damage",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -68186,7 +68186,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1901",
           "nameIdx": "1174",
-          "description": "敵全体に攻撃力3%＋10000のダメージを与える。さらに木ノ葉所属の敵に対しダメージ2倍、千手一族の敵に対しダメージ2倍。（合計4倍）        ",
+          "description": "Deal 3% + 10,000 to all enemies. Deal 2x more damage against Konoha Characters. Deal 2x more damage to Senju Clan Members. (Max 4x)",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1901",
@@ -68222,7 +68222,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1902",
           "nameIdx": "1900",
-          "description": "自身の攻撃力とスキルダメージを300%アップし、防御時のチャクラ回復力を30%アップする。さらに自身を仙術・木遁半減状態にする。",
+          "description": "Own ATK and Skill Damage +300%, Chakra Recovery +30% when guarding. Incoming Sage and Wood Skill Damage -50%",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -68258,7 +68258,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1903",
           "nameIdx": "1174",
-          "description": "敵全体に攻撃力3%＋50000のダメージを与える。さらに木ノ葉所属の敵に対しダメージ4倍、千手一族の敵に対しダメージ4倍。（合計16倍）",
+          "description": "Deal 3% + 50,000 to all enemies. Deal 4x more damage against Konoha Characters. Deal 4x more damage to Senju Clan Members. (Max 16x)",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1903",
@@ -68294,7 +68294,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1904",
           "nameIdx": "1900",
-          "description": "自身の攻撃力とスキルダメージを500%アップし、防御時のチャクラ回復力を30%アップする。さらに自身を仙術・木遁無効状態にする。",
+          "description": "Own ATK and Skill Damage +500%, Chakra Recovery +30% when guarding. Immune to Sage and Wood Skill Damage",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -68618,7 +68618,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1913",
           "nameIdx": "1049",
-          "description": "敵単体に防御力を30%無視して80倍の攻撃力で攻撃するが、尽状態になる。【特殊状態：尽】行動不能になる。【必中スキル】",
+          "description": "Deal 80x ATK damage ignoring 30% DEF. Grant 'Exhaust' state afterwards. [Exhaust: Action is disabled] [Always Hits]",
           "categoryId": "1",
           "levelType": "1",
           "scriptId": "1913",
@@ -68654,7 +68654,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1914",
           "nameIdx": "1914",
-          "description": "自身の攻撃・防御・素早さを100%アップしスキル回避状態（高確率）にするが、HPが99%減少する。",
+          "description": "Own ATK, DEF and SPD + 100%, grant a High Chance to Dodge Skills. Reduce HP by 99%",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -68690,7 +68690,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1915",
           "nameIdx": "1049",
-          "description": "敵単体に防御力を70%無視して100倍の攻撃力で攻撃するが、残ったチャクラを全て消費し、短い間素早さが50％ダウンする。【必中スキル】",
+          "description": "Deal 100x ATK damage ignoring 70% DEF. Consume all chakra and own SPD -50% [Always Hits]",
           "categoryId": "1",
           "levelType": "1",
           "scriptId": "1915",
@@ -68726,7 +68726,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1916",
           "nameIdx": "1914",
-          "description": "自身の攻撃・防御・素早さを150%アップしスキル回避状態（超高確率）にするが、HPが99%減少する。",
+          "description": "Own ATK, DEF and SPD + 150%, grant a very gigh Chance to Dodge Skills. Reduce HP by 99%",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "1916",
@@ -68762,7 +68762,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1917",
           "nameIdx": "1",
-          "description": "敵単体に攻撃力7%+4000のダメージを与え、確率で防御力を30％ダウンする。自身が共鳴状態だとダメージ5倍。",
+          "description": "7Deal 7% + 4,000 to one enemy with a chance to lower DEF by 30%. Deal 5x more damage while under 'Resonance' state.",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1917",
@@ -68798,7 +68798,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1918",
           "nameIdx": "1918",
-          "description": "味方全体のHPを小回復。さらに五大里所属の状態異常を解除し、共鳴状態を付与。【特殊状態：共鳴】スキルダメージが20％、攻撃・防御・素早さが10％アップする。共鳴状態のときに再び共鳴状態になるとカウント数が増加し、効果が追加される。他のスキルによる共鳴状態も有効（最大カウント3）※持続時間は延長されない",
+          "description": "Recover a small amount of HP to all allies, Remove all Negative Status effect and grant 'Resonance' state to characters from the Five Village. [Resonance: Skill Damage +20%, ATK, DEF and SPD +10%. Resonance can be stacked up to 3 times including other Resonance state from other characters]",
           "categoryId": "2",
           "levelType": "8",
           "scriptId": "100004",
@@ -68834,7 +68834,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1919",
           "nameIdx": "1",
-          "description": "敵単体に攻撃力7%+8000のダメージを与え、確率で防御力を50％ダウンする。共鳴状態だとダメージ6倍、さらに確率でスキル会心が発生、会心時ダメージ2倍。（最大12倍）",
+          "description": "Deal 7% + 8,000 to one enemy with a Chance to lower DEF by 50%, and Crit dealing 2x more damage. Deal 6x more damage while under 'Resonance' state. (Max 12x)",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1917",
@@ -68870,7 +68870,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1920",
           "nameIdx": "1918",
-          "description": "味方全体のHPを大回復。さらに五大里所属の状態異常を解除し、共鳴状態を付与。【特殊状態：共鳴】スキルダメージが20％、攻撃・防御・素早さが20％アップする。共鳴状態のときに再び共鳴状態になるとカウント数が増加し、効果が追加される。他のスキルによる共鳴状態も有効（最大カウント3）※持続時間は延長されない",
+          "description": "Recover a large amount of HP to all allies, Remove all Negative Status effect and grant 'Resonance' state to characters from the Five Village. [Resonance: Skill Damage +20%, ATK, DEF and SPD +20% .Resonance can be stacked up to 3 times including other Resonance state from other characters]",
           "categoryId": "2",
           "levelType": "8",
           "scriptId": "100004",
@@ -68906,7 +68906,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1921",
           "nameIdx": "1",
-          "description": "敵単体に攻撃力7%+4000のダメージを与え、確率で素早さを30％ダウンする。自身が共鳴状態だとダメージ5倍。",
+          "description": "Deal 7% + 4,000 to one enemy with a Chance to lower SPD by 30%. Deal 5x more damage while under 'Resonance' state.",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1921",
@@ -68942,7 +68942,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1922",
           "nameIdx": "1922",
-          "description": "味方全体のHPを小回復。さらに五大里所属に短い間全スキルダメージ半減状態と共鳴状態を付与。【特殊状態：共鳴】スキルダメージが20％、防御力が30％アップする。共鳴状態のときに再び共鳴状態になるとカウント数が増加し、効果が追加される。他のスキルによる共鳴状態も有効（最大カウント3）※持続時間は延長されない",
+          "description": "Recover a small amount of HP to all allies, incoming Skill Damage -50% and grant 'Resonance' state to characters from the Five Village. [Resonance: Skill Damage +20%, DEF +30%. Resonance can be stacked up to 3 times including other Resonance state from other characters]",
           "categoryId": "2",
           "levelType": "8",
           "scriptId": "100004",
@@ -68978,7 +68978,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1923",
           "nameIdx": "1",
-          "description": "敵単体に攻撃力7%+8000のダメージを与え、高確率で素早さを30％ダウンする。共鳴状態だとダメージ6倍、さらに確率でスキル会心が発生、会心時ダメージ2倍。（最大12倍）",
+          "description": "Deal 7% + 8,000 to one enemy with a Chance to lower SPD by 30%, and Crit dealing 2x more damage. Deal 6x more damage while under 'Resonance' state. (Max 12x)",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1921",
@@ -69014,7 +69014,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1924",
           "nameIdx": "1922",
-          "description": "味方全体のHPを大回復。さらに五大里所属に短い間全スキルダメージ半減状態と共鳴状態を付与。【特殊状態：共鳴】スキルダメージが20％、防御力が50％アップする。共鳴状態のときに再び共鳴状態になるとカウント数が増加し、効果が追加される。他のスキルによる共鳴状態も有効（最大カウント3）※持続時間は延長されない",
+          "description": "Recover a large amount of HP to all allies, incoming Skill Damage -50% and grant 'Resonance' state to characters from the Five Village. [Resonance: Skill Damage +20%, DEF +50%.Resonance can be stacked up to 3 times including other Resonance state from other characters]",
           "categoryId": "2",
           "levelType": "8",
           "scriptId": "100004",
@@ -69050,7 +69050,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1925",
           "nameIdx": "1",
-          "description": "敵単体に攻撃力7%+4000のダメージを与え、確率で攻撃力を30％ダウンする。自身が共鳴状態だとダメージ5倍。",
+          "description": "Deal 7% + 4,000 to one enemy with a Chance to lower ATK by 30%. Deal 5x more damage while under 'Resonance' state.",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1925",
@@ -69086,7 +69086,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1926",
           "nameIdx": "1926",
-          "description": "味方全体のHPを小回復。さらに五大里所属のチャクラ消費量20％減少と共鳴状態を付与。【特殊状態：共鳴】スキルダメージが20％、通常攻撃回避率が100％アップする。共鳴状態のときに再び共鳴状態になるとカウント数が増加し、効果が追加される。他のスキルによる共鳴状態も有効（最大カウント3）※持続時間は延長されない",
+          "description": "Recover a small amount of HP to all allies, Chakra Cost -20% and grant 'Resonance' state to characters from the Five Village. [Resonance: Skill Damage +20%, Basic Attack Dodge +100%. Resonance can be stacked up to 3 times including other Resonance state from other characters]",
           "categoryId": "2",
           "levelType": "8",
           "scriptId": "100004",
@@ -69122,7 +69122,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1927",
           "nameIdx": "1",
-          "description": "敵単体に攻撃力7%+8000のダメージを与え、確率で攻撃力を50％ダウンする。共鳴状態だとダメージ6倍、さらに確率でスキル会心が発生、会心時ダメージ2倍。（最大12倍）",
+          "description": "Deal 7% + 8,000 to one enemy with a Chance to lower ATK by 50%, and Crit dealing 2x more damage. Deal 6x more damage while under 'Resonance' state. (Max 12x)",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1925",
@@ -69158,7 +69158,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1928",
           "nameIdx": "1926",
-          "description": "味方全体のHPを大回復。さらに五大里所属のチャクラ消費量30％減少と共鳴状態を付与。【特殊状態：共鳴】スキルダメージが20％、通常攻撃回避率が150％アップする。共鳴状態のときに再び共鳴状態になるとカウント数が増加し、効果が追加される。他のスキルによる共鳴状態も有効（最大カウント3）※持続時間は延長されない",
+          "description": "Recover a large amount of HP to all allies, Chakra Cost -30% and grant 'Resonance' state to characters from the Five Village. [Resonance: Skill Damage +20%, Basic Attack Dodge +150%. Resonance can be stacked up to 3 times including other Resonance state from other characters]",
           "categoryId": "2",
           "levelType": "8",
           "scriptId": "100004",
@@ -69770,7 +69770,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1945",
           "nameIdx": "1945",
-          "description": "敵全体に攻撃力3%+2000のダメージを与え、敵の数が少ないほどダメージが上がり、敵が5人で3倍、1人で15倍。さらに確率で行動をキャンセルする。",
+          "description": "Deal 3% + 2,000 to all enemies dealing more damage the less enemies. Minimum 3x against 5 enemies, Maximum 15x against 1. Also has a Chance to Cancel action",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1945",
@@ -69806,7 +69806,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1946",
           "nameIdx": "1946",
-          "description": "自身のスキルダメージを100%アップし、集中状態にする。【特殊状態：集中】行動するごとにチャクラ消費量ダウン、最大30%減少",
+          "description": "Own ATK and Skill Damage +100% and grant 'Concentration' state. [Concentration: Chakra Cost is reduced every turn, Max 30%]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -69842,7 +69842,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1947",
           "nameIdx": "1332",
-          "description": "敵全体に攻撃力3%+20000のダメージを与え、確率で銷魂状態。銷魂状態の敵にダメージ2倍。【特殊状態：銷魂】スキルダメージが20%、攻撃力が10％ダウン。銷魂状態の時に再び銷魂状態になるとカウント数が増加し、効果が追加される。他のスキルによる銷魂状態も有効（最大カウント3）※持続時間は延長されない",
+          "description": "Deal 3% + 20,000 to all enemies with a Chance to place the enemies under 'Misery' state. Deal 2x more damage to enemies under 'Misery' state. [Misery: Skill Damage -20% and ATK -10%. This state can be stacked upto 3 times.]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1947",
@@ -69878,7 +69878,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1948",
           "nameIdx": "1948",
-          "description": "自身の攻撃力とスキルダメージを80%アップする。さらに短い間無所属の味方に対しチャクラ消費量を20%ダウンする。",
+          "description": "Own ATK and Skill Damage +80%, None Character's Chakra Cost -20%",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -69914,7 +69914,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1949",
           "nameIdx": "1332",
-          "description": "敵全体に攻撃力3%+50000のダメージを与え、高確率で銷魂状態付与。銷魂状態の敵にダメージ3倍。【特殊状態：銷魂】スキルダメージが20%、攻撃力が20％ダウン。銷魂状態の時に再び銷魂状態になるとカウント数が増加し、効果が追加される。他のスキルによる銷魂状態も有効（最大カウント3）※持続時間は延長されない",
+          "description": "Deal 3% + 50,000 to all enemies with a Chance to place the enemies under 'Misery' state. Deal 3x more damage to enemies under 'Misery' state. [Misery: Skill Damage -20% and ATK -20%. This state can be stacked upto 3 times.]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1949",
@@ -69950,7 +69950,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1950",
           "nameIdx": "1948",
-          "description": "自身の攻撃力とスキルダメージを100%アップする。さらに短い間無所属の味方に対しチャクラ消費量を半減する。",
+          "description": "Own ATK and Skill Damage +100%, None Character's Chakra Cost -50%",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "1950",
@@ -69986,7 +69986,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1951",
           "nameIdx": "1332",
-          "description": "敵全体に攻撃力3%+20000のダメージを与え、確率で銷魂状態。銷魂状態の敵にダメージ2倍。【特殊状態：銷魂】スキルダメージが20%、素早さが10％ダウン。銷魂状態の時に再び銷魂状態になるとカウント数が増加し、効果が追加される。他のスキルによる銷魂状態も有効（最大カウント3）※持続時間は延長されない",
+          "description": "Deal 3% + 20,000 to all enemies with a Chance to place the enemies under 'Misery' state. Deal 2x more damage to enemies under 'Misery' state. [Misery: Skill Damage -20% and SPD -10%. This state can be stacked upto 3 times.]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1951",
@@ -70022,7 +70022,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1952",
           "nameIdx": "1952",
-          "description": "自身の攻撃力とスキルダメージを80%アップする。さらに無所属の味方に対し短い間スキル回避（中確率）を付与する。",
+          "description": "Own ATK and Skill Damage +80%, and grant a Medium Chance to Dodge Skills to None Characters",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -70058,7 +70058,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1953",
           "nameIdx": "1332",
-          "description": "敵全体に攻撃力3%+50000のダメージを与え、高確率で銷魂状態付与。銷魂状態の敵にダメージ3倍。【特殊状態：銷魂】スキルダメージが20%、素早さが20％ダウン。銷魂状態の時に再び銷魂状態になるとカウント数が増加し、効果が追加される。他のスキルによる銷魂状態も有効（最大カウント3）※持続時間は延長されない",
+          "description": "Deal 3% + 50,000 to all enemies with a Chance to place the enemies under 'Misery' state. Deal 3x more damage to enemies under 'Misery' state. [Misery: Skill Damage -20% and SPD -20%. This state can be stacked upto 3 times.]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1953",
@@ -70094,7 +70094,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1954",
           "nameIdx": "1952",
-          "description": "自身の攻撃力とスキルダメージを100%アップする。さらに無所属の味方に対し短い間スキル回避（高確率）を付与する。",
+          "description": "Own ATK and Skill Damage +100%, and grant a High Chance to Dodge Skills to None Characters",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "1954",
@@ -70562,7 +70562,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1969",
           "nameIdx": "1969",
-          "description": "敵単体に攻撃力7%+6000のダメージを与え、自身が神雷モード状態の時ダメージ3倍。さらに確率で敵を出血状態にする。【必中スキル】【特殊状態：出血】出血による持続ダメージ+確率で防御力ダウン。",
+          "description": "Deal 7% + 6,000 to one enemy with a chance to inflict 'Bleed' state. Deal 3x while under 'Lightning God Mode' [Bleed: Continues to lose HP, with a Chance to lower DEF]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1969",
@@ -70598,7 +70598,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1970",
           "nameIdx": "1970",
-          "description": "自身の攻撃・防御・素早さ80%アップ+神雷モード状態。味方の全てのうずまきナルト・うちはサスケ・春野サクラを神雷守護状態にする。【特殊状態：神雷モード】スキルダメージ120%アップ、自身または神雷守護状態の味方に対する単体スキル攻撃をかばい無効化。※かばうは先に使った物が優先※耐性無視攻撃は無効化不可",
+          "description": "Own ATK, DEF and SPD +80% and grant 'Lightning God Mode'. Protect 'Naruto Uzumaki', 'Sasuke Uchiha' and 'Sakura Haruno' while under 'Lightning God Mode'. [Lightning God Mode: Skill Damage +120% and Immune to single target skills to Kakashi and allies protected by Lightning God Mode. Does not protect from Fixed Damage]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100005",
@@ -70634,7 +70634,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1971",
           "nameIdx": "1969",
-          "description": "敵単体に攻撃力7%+10000のダメージを与え、自身が神雷モード状態の時ダメージ10倍、高確率で自身のスキル発動速度が1段階アップする。さらに高確率で敵を出血状態にする【必中スキル】【特殊状態：出血】出血による持続ダメージ+確率で防御力ダウン。",
+          "description": "Deal 7% + 10,000 to one enemy, with a chance to inflict in a 'Bleed' state, and Cast Speed +1. Deal 10x while under 'Lightning God Mode' [Bleed: Continues to lose HP, with a Chance to lower DEF]。",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1971",
@@ -70670,7 +70670,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1972",
           "nameIdx": "1970",
-          "description": "自身の攻撃・防御・素早さ120%アップ+神雷モード状態。味方の全てのうずまきナルト・うちはサスケ・春野サクラを神雷守護状態にする。【特殊状態：神雷モード】スキルダメージ150%アップ、自身または神雷守護状態の味方に対する単体スキル攻撃をかばい無効化。※かばうは先に使った物が優先※耐性無視攻撃は無効化不可",
+          "description": "Own ATK, DEF and SPD +120% and grant 'Lightning God Mode'. Protect 'Naruto Uzumaki', 'Sasuke Uchiha' and 'Sakura Haruno' while under 'Lightning God Mode'. [Lightning God Mode: Skill Damage +150% and Immune to single target skills to Kakashi and allies protected by Lightning God Mode. Does not protect from Fixed Damage]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100005",
@@ -70994,7 +70994,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1983",
           "nameIdx": "242",
-          "description": "敵単体に攻撃力7％＋2000のダメージを与え、敵がいずれかの状態異常（毒・麻痺・混乱・魅了・封印・気絶・猛毒）の時はダメージ4倍。さらに敵の強化系特殊状態を解除する。",
+          "description": "Deal 7% + 2,000 to one enemy. Deal 4x more damage to enemies inflicted with Poisoned, Paralyze, Confused, Charm, Sealed, Stunned and/or Toxic. Cancel special state.",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1983",
@@ -71030,7 +71030,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1984",
           "nameIdx": "1984",
-          "description": "敵全体の攻撃・防御・素早さを確率で40%ダウンする。また確率で幻・麻痺・魅了・気絶状態にする。",
+          "description": "Reduce all enemies' ATK, DEF and/or SPD by 40%. Chance to inflict Paralyze, Charm, Faint and/or Genjutsu to all enemies.",
           "categoryId": "6",
           "levelType": "4",
           "scriptId": "100004",
@@ -71066,7 +71066,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1985",
           "nameIdx": "590",
-          "description": "敵全体に攻撃力3%+2000のダメージを与え、確率で炎上状態と目くらまし状態にする。炎上状態の敵にダメージ5倍。【特殊状態：目くらまし】確率で行動をキャンセルするようになる",
+          "description": "Deal 3% + 2,000 to all enemies with a chance to burn and inflict 'Smoke Screen' state. Deal 5x more damage to enemies that are burning. [Smoke Screen: Chance to Cancel action after every action]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1985",
@@ -71102,7 +71102,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1986",
           "nameIdx": "1985",
-          "description": "自身の攻撃力とスキルダメージを80%アップする。さらに木ノ葉隠れの里所属の味方の素早さを80％アップする。",
+          "description": "Own ATK and Skill Damage +80%. SPD +80% to Konoha allies",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -71138,7 +71138,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1987",
           "nameIdx": "48",
-          "description": "敵全体に耐性無視の100,000の固定ダメージを与え、敵全体の行動を確実にキャンセルする。さらに味方の“暁”所属のHPを50%回復する。",
+          "description": "Deal 100,000 Fixed Damage to all enemies with a guarantee Chance to Cancel their actions. Recover 50% HP to Akatsuki allies",
           "categoryId": "1",
           "levelType": "2",
           "scriptId": "1988",
@@ -71174,7 +71174,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1988",
           "nameIdx": "1988",
-          "description": "敵単体に攻撃力7%+250000のダメージを与え、超高確率で敵をチャクラ欠乏状態にする。さらに自身のチャクラを50%回復する。【必中スキル】【特殊状態：欠乏】チャクラの回復量が0になる。※敵の欠乏効果は昇級試験のみ有効。",
+          "description": "Deal 7% + 250,000 to one enemy with a very High Chance to place them under 'Deficit' state. Recover own Chakra by 50%. [Deficit: Chakra Recovery becomes 0] *Deficit state is only active in PvP",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1987",
@@ -72074,7 +72074,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2033",
           "nameIdx": "1945",
-          "description": "敵全体に攻撃力3%+4000のダメージを与え、敵の数が少ないほどダメージが上がり、敵が5人で3倍、1人で20倍。さらに高確率で行動をキャンセルする。",
+          "description": "Deal 3% + 4,000 to all enemies dealing more damage the less enemies. Minimum 3x against 5 enemies, Maximum 20x against 1. Also has a High Chance to Cancel action",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1945",
@@ -72110,7 +72110,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2034",
           "nameIdx": "1946",
-          "description": "自身のスキルダメージを120%アップし、集中状態にする。【特殊状態：集中】行動するごとにチャクラ消費量ダウン、最大50%減少",
+          "description": "Own ATK and Skill Damage +120% and grant 'Concentration' state. [Concentration: Chakra Cost is reduced every turn, Max 50%]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -72866,7 +72866,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2055",
           "nameIdx": "242",
-          "description": "敵単体に攻撃力7％＋4000のダメージを与え、敵がいずれかの状態異常（毒・麻痺・混乱・魅了・封印・気絶・猛毒）の時はダメージ7倍。さらに敵の強化系特殊状態を解除する。",
+          "description": "Deal 7% + 4,000 to one enemy. Deal 7x more damage to enemies inflicted with Poisoned, Paralyze, Confused, Charm, Sealed, Stunned and/or Toxic. Cancel special state.",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1983",
@@ -72902,7 +72902,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2056",
           "nameIdx": "1984",
-          "description": "敵全体の攻撃・防御・素早さを確率で60%ダウンする。また高確率で幻・麻痺・魅了・気絶状態にする。",
+          "description": "Reduce all enemies' ATK, DEF and/or SPD by 60%. High chance to Paralyze, Charm, Faint and/or Genjutsu to all enemies.",
           "categoryId": "6",
           "levelType": "4",
           "scriptId": "100004",
@@ -72938,7 +72938,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2057",
           "nameIdx": "590",
-          "description": "敵全体に攻撃力3%+5000のダメージを与え、高確率で炎上状態と目くらまし状態にする。炎上状態の敵にダメージ8倍。【特殊状態：目くらまし】確率で行動をキャンセルするようになる",
+          "description": "Deal 3% + 5,000 to all enemies with a high chance to burn and inflict 'Smoke Screen' state. Deal 8x more damage to enemies that are burning. [Smoke Screen: Chance to Cancel action after every action]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1985",
@@ -72974,7 +72974,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2058",
           "nameIdx": "1985",
-          "description": "自身の攻撃力とスキルダメージを120%アップする。さらに木ノ葉隠れの里所属の味方の素早さを100％アップする。",
+          "description": "Own ATK and Skill Damage +120%. SPD +100% to Konoha allies",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -73010,7 +73010,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2059",
           "nameIdx": "2059",
-          "description": "敵単体に攻撃力7%+4000のダメージを与える。自身がスキル回避状態だとダメージ5倍。さらに確率で追加ダメージが発生（最大1回追加）",
+          "description": "Deal 7% + 4,000 to one enemy. Deal 5x damage if Skill Dodge Rate is buffed. Chance to do extra damage once",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2059",
@@ -73046,7 +73046,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2060",
           "nameIdx": "2060",
-          "description": "自身の攻撃・防御・素早さを100%アップし、自身をスキル回避状態（低確率）および疾風状態にする。【特殊状態：疾風】素早さとスキルダメージが30%アップする。",
+          "description": "Own ATK, DEF and SPD +100%, grant a low chance to Dodge Skills and 'Gust' state [Gust: Skill Damage and SPD +30%]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -73082,7 +73082,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2061",
           "nameIdx": "2059",
-          "description": "敵単体に攻撃力7%+8000のダメージを与える。自身がスキル回避状態だとダメージ7倍。さらに確率で追加ダメージが発生（最大2回追加）",
+          "description": "Deal 7% + 8,000 to one enemy. Deal 7x damage if Skill Dodge Rate is buffed. Chance to do extra damage twice",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2059",
@@ -73118,7 +73118,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2062",
           "nameIdx": "2060",
-          "description": "自身の攻撃・防御・素早さを120%アップし、自身をスキル回避状態（中確率）および疾風状態にする。【特殊状態：疾風】素早さとスキルダメージが50%アップする。",
+          "description": "Own ATK, DEF and SPD +120%, grant a medium chance to Dodge Skills and 'Gust' state [Gust: Skill Damage and SPD +50%]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -73154,7 +73154,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2063",
           "nameIdx": "2063",
-          "description": "敵単体に攻撃力7%+6000のダメージを与え、素早さアップ状態を解除する。自身の残りHPが多いほどダメージが増加し、最大3倍。確率で敵の行動をキャンセルし、封印状態にする。",
+          "description": "Deal 7% + 6,000 to one enemy, cancel own SPD buff, with a chance to Cancel enemy's action and/or seal. Deal more damage the more HP Naruto has. Max 3x.",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2063",
@@ -73190,7 +73190,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2064",
           "nameIdx": "2064",
-          "description": "自身の素早さが50％アップし、スキルダメージが500％アップする。",
+          "description": "Own SPD +50% and Skill Damage +500%",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -73226,7 +73226,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2065",
           "nameIdx": "2063",
-          "description": "敵単体に攻撃力7%+10000のダメージを与え、素早さアップ状態を解除する。自身の残りHPが多いほどダメージが増加し、最大4倍。高確率で敵の行動をキャンセルし、封印状態にする。",
+          "description": "Deal 7% + 10,000 to one enemy, Cancel own SPD buff, with a high chance to Cancel enemy's action and/or seal. Deal more damage the more HP Naruto has. Max 4x.",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2063",
@@ -73262,7 +73262,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2066",
           "nameIdx": "2064",
-          "description": "自身の素早さが100％アップし、スキルダメージが1000％アップする。",
+          "description": "Own SPD +100% and Skill Damage +1,000%",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -73298,7 +73298,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2067",
           "nameIdx": "2069",
-          "description": "敵単体に攻撃力7%+10000のダメージを与える。高確率で会心が発生しダメージ3倍。さらに確率で敵のチャクラ消費量を、忍具などの効果を除いた消費量の30%分アップさせる。※「チャクラ消費を0にする」効果に対しても効果を発揮※チャクラ消費量アップは昇級試験のみ有効",
+          "description": "Deal 7% + 10,000 to one enemy with a chance to Crit dealing 3x more damage, and increase the enemy's Chakra Cost by 30%. [Increase Chakra Cost only activates in PvP]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2067",
@@ -73334,7 +73334,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2068",
           "nameIdx": "2070",
-          "description": "自身の攻撃力と素早さとスキルダメージが短い間100％アップ、スキル発動速度が短い間1段階アップする。",
+          "description": "Own ATK, SPD and Skill Damage +100%, Cast Speed +1",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -73370,7 +73370,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2069",
           "nameIdx": "2069",
-          "description": "敵単体に攻撃力7%+15000のダメージを与える。高確率で会心が発生しダメージ5倍。さらに確率で敵のチャクラ消費量を、忍具などの効果を除いた消費量の30%分アップさせる。※「チャクラ消費を0にする」効果に対しても効果を発揮※チャクラ消費量アップは昇級試験のみ有効",
+          "description": "Deal 7% + 15,000 to one enemy with a Chance to Crit dealing 5x more damage, and increase the enemy's Chakra Cost by 30%. [Increase Chakra Cost only activates in PvP]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2067",
@@ -73406,7 +73406,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2070",
           "nameIdx": "2070",
-          "description": "自身の攻撃力と素早さとスキルダメージが短い間200％アップ、スキル発動速度が短い間2段階アップする。",
+          "description": "Own ATK, SPD and Skill Damage +200%, Cast Speed +2",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -73442,7 +73442,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2079",
           "nameIdx": "711",
-          "description": "敵単体に耐性を無視して5,000のダメージを与え、確率で「屍鬼」状態にする。スキル使用後、現在HPの40％のダメージを受ける【必中スキル】【特殊状態：屍鬼】「屍鬼」状態になるとカウント数が増加、効果が追加される。「壱」：素早さが20％ダウン「弐」：スキルが使用不可になる「参」：HPが0になる",
+          "description": "Deal 5,000 Fixed Damage to one enemy with a chance to place them under 'Reaper' state. Reduce own HP by 40% after using this skill. [Reaper: Reaper stacks doing different effect based on the number of stacks [1] SPD -20% [2] Can't use skills [3] Reduce HP to 0",
           "categoryId": "1",
           "levelType": "2",
           "scriptId": "2079",
@@ -73478,7 +73478,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2080",
           "nameIdx": "2080",
-          "description": "自身の素早さを50％アップし決意と集中状態にする。【特殊状態：決意】攻撃・防御・素早さを30%アップし、攻撃を受けた時にチャクラとHP5%回復する。【特殊状態：集中】行動するごとにチャクラ消費量ダウン、最大30%減少",
+          "description": "Own SPD +50% and grant 'Resolution' and 'Concentration' state. [Resolution: ATK, DEF and SPD +30%, Recover 5% HP and Chakra when attacked] [Concentration: Reduce Chakra Cost after every action. Max 30%]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -73514,7 +73514,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2081",
           "nameIdx": "711",
-          "description": "敵単体に耐性を無視して10,000のダメージを与え、高確率で「屍鬼」状態にする。スキル使用後、現在HPの30％のダメージを受ける【必中スキル】【特殊状態：屍鬼】「屍鬼」状態になるとカウント数が増加、効果が追加される。「壱」：素早さが20％ダウン「弐」：スキルが使用不可になる「参」：HPが0になる",
+          "description": "Deal 10,000 Fixed Damage to one enemy with a high chance to place them under 'Reaper' state. Reduce own HP by 30% after using this skill. [Reaper: Reaper stacks doing different effect based on the number of stacks [1] SPD -20% [2] Can't use skills [3] Reduce HP to 0",
           "categoryId": "1",
           "levelType": "2",
           "scriptId": "2081",
@@ -73550,7 +73550,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2082",
           "nameIdx": "2080",
-          "description": "自身の素早さを100％アップし決意と集中状態にする。【特殊状態：決意】攻撃・防御・素早さを40%アップし、攻撃を受けた時にチャクラとHP10%回復する。【特殊状態：集中】行動するごとにチャクラ消費量ダウン、最大50%減少",
+          "description": "Own SPD +100% and grant 'Resolution' and 'Concentration' state. [Resolution: ATK, DEF and SPD +40%, Recover 10% HP and Chakra when attacked] [Concentration: Reduce chakra cost after every action. Max 50%]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -73586,7 +73586,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2083",
           "nameIdx": "755",
-          "description": "敵全体に攻撃力3%+4000のダメージを与え、確率で封印状態にし行動をキャンセルする。自身を含む、生存している木ノ葉隠れの里所属の味方が多いほどダメージが上がり、5人で最大3倍。",
+          "description": "Deal 3% + 4,000 to all enemies with a chance to seal and/or Cancel action. Deal more damage the more Konoha allies are alive. Max 3x with 5 Konoha allies alive",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2083",
@@ -73622,7 +73622,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2084",
           "nameIdx": "2084",
-          "description": "自身のHPを大回復し、全スキルダメージ軽減状態となり味方への単体攻撃を受ける。さらに味方のうずまきナルト、波風ミナトを愛状態にする。【特殊状態：愛】攻撃・素早さ・スキルダメージ70%アップ、全スキルダメージ軽減※かばうは複数人発動すると最後の発動者が有効",
+          "description": "Recover own HP by a large amount, reduce incoming Skill damage and protect all allies. Grant 'Love' state to 'Naruto Uzumaki' and 'Minato Namikaze' [Love: ATK, SPD and Skill Damage +70%, and reduce incoming Skill damage]",
           "categoryId": "2",
           "levelType": "8",
           "scriptId": "100004",
@@ -73658,7 +73658,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2085",
           "nameIdx": "755",
-          "description": "敵全体に攻撃力3%+8000のダメージを与え、確率で封印状態にし行動をキャンセルする。自身を含む、生存している木ノ葉隠れの里所属の味方が多いほどダメージが上がり、5人で最大5倍。さらに確率で敵のスキル発動速度を短い間1段階ダウンさせる。",
+          "description": "Deal 3% + 8,000 to all enemies with a Chance to seal and/or Cancel action. Deal more damage the more Konoha allies are alive. Max 5x with 5 Konoha allies alive. Chance to reduce enemies' Cast Speed by 1",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2085",
@@ -73694,7 +73694,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2086",
           "nameIdx": "2084",
-          "description": "自身のHPを超回復し、全スキルダメージ半減状態となり味方への単体攻撃を受ける。さらに味方のうずまきナルト、波風ミナトを愛状態にする。【特殊状態：愛】攻撃・素早さ・スキルダメージ100%アップ、全スキルダメージ軽減※かばうは複数人発動すると最後の発動者が有効",
+          "description": "Recover own HP by a tremendous amount, reduce incoming Skill damage by half and protect all allies. Grant 'Love' state to 'Naruto Uzumaki' and 'Minato Namikaze' [Love: ATK, SPD and Skill Damage +100%, and reduce incoming Skill damage",
           "categoryId": "2",
           "levelType": "8",
           "scriptId": "100004",

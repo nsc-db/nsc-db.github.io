@@ -157,7 +157,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "33",
           "name": "水遁・水龍弾の術",
-          "eng": ""
+          "eng": "Water Style: Water Dragon Jutsu"
         },
         {
           "cardBattleSkillNameId": "34",
@@ -187,7 +187,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "39",
           "name": "木遁・樹界降誕",
-          "eng": ""
+          "eng": "Wood Style: Deep Forest Emergence"
         },
         {
           "cardBattleSkillNameId": "40",
@@ -887,7 +887,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "242",
           "name": "魔幻・樹縛殺",
-          "eng": ""
+          "eng": "Demonic Illusion: Tree Binding Death"
         },
         {
           "cardBattleSkillNameId": "243",
@@ -1442,7 +1442,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "414",
           "name": "仙法・五右衛門",
-          "eng": ""
+          "eng": "Sage Style: Bath of Boiling Oil"
         },
         {
           "cardBattleSkillNameId": "415",
@@ -1897,7 +1897,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "538",
           "name": "炎遁・加具土命",
-          "eng": ""
+          "eng": "Inferno Style: Kagutsuchi"
         },
         {
           "cardBattleSkillNameId": "539",
@@ -2027,7 +2027,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "590",
           "name": "火遁・灰積焼",
-          "eng": ""
+          "eng": "Fire Style: Burning Ash"
         },
         {
           "cardBattleSkillNameId": "591",
@@ -2402,7 +2402,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "711",
           "name": "封印術・屍鬼封尽",
-          "eng": ""
+          "eng": "Sealing Jutsu: Reaper Death Seal"
         },
         {
           "cardBattleSkillNameId": "713",
@@ -4417,52 +4417,52 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "1679",
           "name": "六道・超大玉尾獣螺旋手裏剣",
-          "eng": ""
+          "eng": "Six Paths: Massive Rasenshuriken"
         },
         {
           "cardBattleSkillNameId": "1680",
           "name": "一人になんてさせるかよ！",
-          "eng": ""
+          "eng": "I Won't Leave You Alone"
         },
         {
           "cardBattleSkillNameId": "1681",
           "name": "インドラの矢",
-          "eng": ""
+          "eng": "Indra's Arrow"
         },
         {
           "cardBattleSkillNameId": "1682",
           "name": "憎しみは全てオレ一人に…！",
-          "eng": ""
+          "eng": "Hatred Stored in Me"
         },
         {
           "cardBattleSkillNameId": "1683",
           "name": "風遁・超大玉螺旋手裏剣",
-          "eng": ""
+          "eng": "Wind Style: Massive Rasenshuriken"
         },
         {
           "cardBattleSkillNameId": "1684",
           "name": "オレ達の力、見せてやる！",
-          "eng": ""
+          "eng": "Let Me Show You Our Strength"
         },
         {
           "cardBattleSkillNameId": "1685",
           "name": "炎遁・須佐能乎加具土命",
-          "eng": ""
+          "eng": "Inferno Style: Susano'o Kagutsuchi"
         },
         {
           "cardBattleSkillNameId": "1686",
           "name": "オレは全てを知った…！",
-          "eng": ""
+          "eng": "I Know Everything"
         },
         {
           "cardBattleSkillNameId": "1687",
           "name": "桜花掌・蛞蝓雨霰",
-          "eng": ""
+          "eng": "Cherry Blossom: Katsuyu Rainfall"
         },
         {
           "cardBattleSkillNameId": "1688",
           "name": "私だって三忍の弟子！",
-          "eng": ""
+          "eng": "I'm the Third Sannin Pupil"
         },
         {
           "cardBattleSkillNameId": "1695",
@@ -4592,22 +4592,22 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "1741",
           "name": "仙術・尾獣玉",
-          "eng": ""
+          "eng": "Sage Style: Tailed Beast Bomb"
         },
         {
           "cardBattleSkillNameId": "1742",
           "name": "力が湧いて来たってばよ！",
-          "eng": ""
+          "eng": "Wishing to Deploy Power"
         },
         {
           "cardBattleSkillNameId": "1743",
           "name": "仙術・螺旋丸",
-          "eng": ""
+          "eng": "Sage Style: Rasengan"
         },
         {
           "cardBattleSkillNameId": "1744",
           "name": "…懐かしい感覚だ",
-          "eng": ""
+          "eng": "Sense of Nostalgia"
         },
         {
           "cardBattleSkillNameId": "1746",
@@ -4682,7 +4682,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "1775",
           "name": "仙術・須佐能乎",
-          "eng": ""
+          "eng": "Sage Style: Susano'o"
         },
         {
           "cardBattleSkillNameId": "1778",
@@ -4702,12 +4702,12 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "1783",
           "name": "仙法・風遁螺旋手裏剣",
-          "eng": ""
+          "eng": "Sage Style: Wind Style Rasenshuriken"
         },
         {
           "cardBattleSkillNameId": "1784",
           "name": "仙人モードなめんなよ",
-          "eng": ""
+          "eng": "Don't Underestimate Sage Mode"
         },
         {
           "cardBattleSkillNameId": "1787",
@@ -4717,7 +4717,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "1788",
           "name": "お力添えをお願いしますぞ",
-          "eng": ""
+          "eng": "Lend Me Your Strength"
         },
         {
           "cardBattleSkillNameId": "1795",
@@ -4742,32 +4742,32 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "1799",
           "name": "柔拳法・点穴針",
-          "eng": ""
+          "eng": "Gentle Fist Art: Chakra Point Needle"
         },
         {
           "cardBattleSkillNameId": "1800",
           "name": "日向の力を侮るな！",
-          "eng": ""
+          "eng": "Don't Look Down on the Power of the Hyuga"
         },
         {
           "cardBattleSkillNameId": "1807",
           "name": "天御柱",
-          "eng": ""
+          "eng": "Ame no Mihashira"
         },
         {
           "cardBattleSkillNameId": "1808",
           "name": "仲間がいてこそ…！",
-          "eng": ""
+          "eng": "Alongside Trusted Allies"
         },
         {
           "cardBattleSkillNameId": "1811",
           "name": "火之加具土命",
-          "eng": ""
+          "eng": "Kagutsuchi"
         },
         {
           "cardBattleSkillNameId": "1812",
           "name": "力こそが全てを変える！",
-          "eng": ""
+          "eng": "Power Can Change Everything"
         },
         {
           "cardBattleSkillNameId": "1815",
@@ -4842,22 +4842,22 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "1865",
           "name": "超尾獣大玉螺旋手裏剣",
-          "eng": ""
+          "eng": "Super Tailed Beast Rasenshuriken"
         },
         {
           "cardBattleSkillNameId": "1866",
           "name": "皆、力を貸してくれ！！",
-          "eng": ""
+          "eng": "Everyone, Lend Me Your Strength"
         },
         {
           "cardBattleSkillNameId": "1868",
           "name": "須佐能乎・地爆天星",
-          "eng": ""
+          "eng": "Susano'o: Planetary Devastation"
         },
         {
           "cardBattleSkillNameId": "1869",
           "name": "うちはの力をなめるな！！",
-          "eng": ""
+          "eng": "Experience the Power of an Uchiha"
         },
         {
           "cardBattleSkillNameId": "1873",
@@ -4882,57 +4882,57 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "1877",
           "name": "百豪の術",
-          "eng": ""
+          "eng": "Strength of a Hundred Technique"
         },
         {
           "cardBattleSkillNameId": "1878",
           "name": "命を懸けて戦っている！！",
-          "eng": ""
+          "eng": "We Are Fighting For Our Lives"
         },
         {
           "cardBattleSkillNameId": "1881",
           "name": "砂の守護・母の想い",
-          "eng": ""
+          "eng": "Guardian of the Sand: Mother's Thoughts"
         },
         {
           "cardBattleSkillNameId": "1882",
           "name": "皆、オレに続け！\t",
-          "eng": ""
+          "eng": "Everyone, To Me"
         },
         {
           "cardBattleSkillNameId": "1885",
           "name": "土遁・剛隷式の術",
-          "eng": ""
+          "eng": "Earth Style: Earth Golem Jutsu"
         },
         {
           "cardBattleSkillNameId": "1886",
           "name": "影を託されたことを忘れるな",
-          "eng": ""
+          "eng": "Don't Forget that Your Entrusted by the Kage"
         },
         {
           "cardBattleSkillNameId": "1889",
           "name": "忍体術・雷狩亜多苦",
-          "eng": ""
+          "eng": "Ninja Body Technique: Lightning Hunter"
         },
         {
           "cardBattleSkillNameId": "1890",
           "name": "必ず勝つぞ！！",
-          "eng": ""
+          "eng": "Guarantee Win!!"
         },
         {
           "cardBattleSkillNameId": "1894",
           "name": "五影をなめないで下さい",
-          "eng": ""
+          "eng": "Please Don't Underestimate the Five Kage"
         },
         {
           "cardBattleSkillNameId": "1898",
           "name": "もう太刀筋は読める！",
-          "eng": ""
+          "eng": "Now I Can Read Your Swordsmanship!!"
         },
         {
           "cardBattleSkillNameId": "1900",
           "name": "須佐能乎の力、思い知れ！",
-          "eng": ""
+          "eng": "Revere Susano'o's Power"
         },
         {
           "cardBattleSkillNameId": "1905",
@@ -4962,22 +4962,22 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "1914",
           "name": "死門開放！！",
-          "eng": ""
+          "eng": "Death Gate Open!!"
         },
         {
           "cardBattleSkillNameId": "1918",
           "name": "本当の想いを…！！",
-          "eng": ""
+          "eng": "Real Feelings"
         },
         {
           "cardBattleSkillNameId": "1922",
           "name": "未来を繋ぐ為に！！",
-          "eng": ""
+          "eng": "To Pertain the Future"
         },
         {
           "cardBattleSkillNameId": "1926",
           "name": "必ずやってみせる！",
-          "eng": ""
+          "eng": "Certainly, We Can Do It"
         },
         {
           "cardBattleSkillNameId": "1929",
@@ -5027,22 +5027,22 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "1945",
           "name": "嵐遁・励挫鎖苛素",
-          "eng": ""
+          "eng": "Storm Style: Laser Circus"
         },
         {
           "cardBattleSkillNameId": "1946",
           "name": "メッキ剥がしてやるよ",
-          "eng": ""
+          "eng": "Peeling off the Plating"
         },
         {
           "cardBattleSkillNameId": "1948",
           "name": "心を折るか…",
-          "eng": ""
+          "eng": "Is Your Heart Broken?"
         },
         {
           "cardBattleSkillNameId": "1952",
           "name": "絶望を教えてやろう",
-          "eng": ""
+          "eng": "Let Me Tell You About Despair"
         },
         {
           "cardBattleSkillNameId": "1957",
@@ -5107,27 +5107,27 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "1969",
           "name": "神威・雷切",
-          "eng": ""
+          "eng": "Kamui: Raikiri"
         },
         {
           "cardBattleSkillNameId": "1970",
           "name": "神威の力を…！",
-          "eng": ""
+          "eng": "Power of Kamui...!"
         },
         {
           "cardBattleSkillNameId": "1984",
           "name": "見抜けると思わないで",
-          "eng": ""
+          "eng": "Transparent and Desire"
         },
         {
           "cardBattleSkillNameId": "1985",
           "name": "最善の手って奴だ",
-          "eng": ""
+          "eng": "The Best Hand"
         },
         {
           "cardBattleSkillNameId": "1988",
           "name": "万象刺墜",
-          "eng": ""
+          "eng": "Universal Thorn"
         },
         {
           "cardBattleSkillNameId": "1997",
@@ -5182,42 +5182,42 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "2059",
           "name": "多重螺旋丸",
-          "eng": ""
+          "eng": "Multiple Rasengan"
         },
         {
           "cardBattleSkillNameId": "2060",
           "name": "よっしゃ行くぜェ！",
-          "eng": ""
+          "eng": "Alright, Lets Go!"
         },
         {
           "cardBattleSkillNameId": "2063",
           "name": "仙法・磁遁螺旋丸",
-          "eng": ""
+          "eng": "Sage Style: Magnet Type Rasengan"
         },
         {
           "cardBattleSkillNameId": "2064",
           "name": "力を借りるってばよォ！",
-          "eng": ""
+          "eng": "Borrowed Power"
         },
         {
           "cardBattleSkillNameId": "2069",
           "name": "惑星螺旋丸",
-          "eng": ""
+          "eng": "Planetary Rasengan"
         },
         {
           "cardBattleSkillNameId": "2070",
           "name": "オレ一人でやる",
-          "eng": ""
+          "eng": "I Will Do It Alone"
         },
         {
           "cardBattleSkillNameId": "2080",
           "name": "この子の為にやるんだ！",
-          "eng": ""
+          "eng": "I Will Do It For The Sake Of This Child!"
         },
         {
           "cardBattleSkillNameId": "2084",
           "name": "母の覚悟",
-          "eng": ""
+          "eng": "Prepared Mother"
         },
         {
           "cardBattleSkillNameId": "2087",

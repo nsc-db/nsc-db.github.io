@@ -21213,7 +21213,7 @@ window.chara=[
           "cardId": "20030501",
           "modelId": "524",
           "charaType": "1",
-          "cardSubName": "想いの全て",
+          "cardSubName": "Full Thoughts",
           "cardInformation": "追い続けた友との決着の時。多くの人との出会いが、その絆がナルトを成長させた。想いの全てをもってサスケを止める。あの日の約束を守る為、己の忍道を貫く為に！",
           "bookNo": "1",
           "rare": "5",
@@ -21249,14 +21249,14 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-04-24 14:16:40",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20030502",
           "modelId": "543",
           "charaType": "1",
-          "cardSubName": "決別の祈り",
-          "cardInformation": "唯一の友と決着をつける為、サスケは終末の谷へとナルトを誘う。最強の一矢、この一撃をもって終りとしよう。その胸中に過る想いは決別の祈り…。",
+          "cardSubName": "Wishful Separation",
+          "cardInformation": "唯一の友と決着をつける為、サスケは終末の谷へとナルトを誘う。最強の一矢、この一撃をもって終りとしよう。その胸中に過る想いはWishful Separation…。",
           "bookNo": "1",
           "rare": "5",
           "motionType": "6",
@@ -21291,13 +21291,13 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-04-24 14:16:41",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20030503",
           "modelId": "509",
           "charaType": "1",
-          "cardSubName": "新たなる時代（蝦蟇）",
+          "cardSubName": "A New Era (Frog)",
           "cardInformation": "第四次忍界大戦の最中、遂に第七班が再集結。目指すものは違えど敵は同じ！久方ぶりの共闘は空白の時を感じさせないほどに、絶妙な連係をみせる。",
           "bookNo": "1",
           "rare": "5",
@@ -21333,13 +21333,13 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-04-25 13:19:18",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20030504",
           "modelId": "362",
           "charaType": "1",
-          "cardSubName": "新たなる時代（蟒蛇）",
+          "cardSubName": "A New Era (Snake)",
           "cardInformation": "第四次忍界大戦の最中、遂に第七班が再集結。兄の生きた証を消させはしない。真実を知り、サスケは木ノ葉隠れの里を守ることを決意する。その心奥にある闇の炎は未だに燻り続ける。",
           "bookNo": "1",
           "rare": "5",
@@ -21375,13 +21375,13 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-04-25 13:19:19",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20030505",
           "modelId": "475",
           "charaType": "1",
-          "cardSubName": "新たなる時代（蛞蝓）",
+          "cardSubName": "A New Era (Slug)",
           "cardInformation": "第四次忍界大戦の最中、遂に第七班が再集結。サクラは遂に百豪の印を発動させる。綱手に匹敵、もしくはそれ以上の力。かつて誓った想い、ナルトとサスケと肩を並べて戦うこと…ここに新たなる三竦みは揃う！",
           "bookNo": "1",
           "rare": "5",
@@ -21417,7 +21417,7 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-04-25 13:19:20",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20030506",
@@ -21843,7 +21843,7 @@ window.chara=[
           "cardId": "20030601",
           "modelId": "509",
           "charaType": "1",
-          "cardSubName": "二つの力",
+          "cardSubName": "Two Forces",
           "cardInformation": "ナルトは第四次忍界大戦の最中、十尾の人柱力となったうちはオビトと対峙する。かつてない強敵を前にしても、ナルトは臆することはない。今は父と九喇嘛と共に、仲間を守るだけだ。",
           "bookNo": "1",
           "rare": "5",
@@ -21879,13 +21879,13 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-05-17 16:59:34",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20030602",
           "modelId": "610",
           "charaType": "1",
-          "cardSubName": "共鳴する想い",
+          "cardSubName": "Thoughts That Resonates",
           "cardInformation": "第四次忍界大戦の首謀者、仮面の男…その正体はかつての教え子だった。木ノ葉隠れの里を九尾が襲ったあの日、仮面の下の素顔を悟れなかった己の咎。喪心のミナトを奮い立たせたのは、息子・ナルトだった。父と子はお互いの拳を合わせ、忍界の脅威に立ち向かう。",
           "bookNo": "1",
           "rare": "5",
@@ -21921,7 +21921,7 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-05-17 16:59:35",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20030603",
@@ -22425,7 +22425,7 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-06-09 15:04:42",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20030615",
@@ -22557,7 +22557,7 @@ window.chara=[
           "cardId": "20030701",
           "modelId": "319",
           "charaType": "1",
-          "cardSubName": "託された答え",
+          "cardSubName": "Responsible Commitment",
           "cardInformation": "妙木山の修業で仙術を修得したナルトは、その力を以て、師・自来也の仇ペインに挑む。その戦いの最中、ペインの抱えた痛みを知る。復讐――親しき者を殺された怒りは、師を失ったナルトにも理解し得るものだった…。",
           "bookNo": "1",
           "rare": "5",
@@ -22593,13 +22593,13 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-06-26 22:17:35",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20030702",
           "modelId": "321",
           "charaType": "1",
-          "cardSubName": "変革者を導く者",
+          "cardSubName": "Conductor of Transformation",
           "cardInformation": "人が本当の意味で理解し合える時代が来ると、自来也は信じている。かつて受けた予言、忍の世に変革をもたらす者を導くこと…。自らの意志を愛弟子に託し、自来也は”暁”のリーダーと対峙する。",
           "bookNo": "1",
           "rare": "5",
@@ -22635,13 +22635,13 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-06-26 22:17:36",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20030703",
           "modelId": "564",
           "charaType": "1",
-          "cardSubName": "千手の長",
+          "cardSubName": "Senju's Leader",
           "cardInformation": "稀代の木遁忍術だけではなく、忍・体・幻全ての「術」を飛躍的に底上げする「仙術」まで会得した柱間。本来、戦闘中に仙術チャクラを練ることは困難を極めるが、柱間は瞬時に仙人モードへとなることが可能だ。",
           "bookNo": "1",
           "rare": "5",
@@ -22677,7 +22677,7 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-06-27 13:45:43",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20030704",
@@ -22767,7 +22767,7 @@ window.chara=[
           "cardId": "20030706",
           "modelId": "263",
           "charaType": "1",
-          "cardSubName": "日向の俊豪",
+          "cardSubName": "Hyuga's Talent",
           "cardInformation": "木ノ葉最強と謳われる日向家において、最も才に恵まれたとされるネジ。類稀なる才能は、己の努力によって支え磨かれた力だ。正確に点穴を穿ち、チャクラの流れを断つ。接近戦において、白眼と柔拳は真価を示す。",
           "bookNo": "1",
           "rare": "5",
@@ -22803,13 +22803,13 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-06-28 17:24:47",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20030707",
           "modelId": "603",
           "charaType": "99",
-          "cardSubName": "忍宗の後継者",
+          "cardSubName": "Successor of the Ninja Creed",
           "cardInformation": "六道仙人・大筒木ハゴロモの次子。特別な才能を示す兄・インドラとは違い、小さい頃から何をやってもうまくいかず、一人では何もできなかった。自らの努力と多くの仲間の協力や助けによって兄と並ぶ力を得る。そして、愛こそが全てを可能にすると悟る。",
           "bookNo": "1",
           "rare": "5",
@@ -22845,13 +22845,13 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-07-02 15:35:20",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20030708",
           "modelId": "604",
           "charaType": "99",
-          "cardSubName": "全てを可能にする力",
+          "cardSubName": "Power to Make Everything Possible",
           "cardInformation": "六道仙人・大筒木ハゴロモの長子。生まれし時より強い瞳術とセンスを持ち合わせ、天才と呼ばれた男。何でも一人の力でやりぬき、己が他人とは違う特別な存在だと知った。そして、力こそが全てを可能にすると悟る。",
           "bookNo": "1",
           "rare": "5",
@@ -22887,7 +22887,7 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-07-02 15:35:21",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20030709",
@@ -23271,7 +23271,7 @@ window.chara=[
           "cardId": "20030802",
           "modelId": "524",
           "charaType": "1",
-          "cardSubName": "九つの繋がり",
+          "cardSubName": "Nine Connections",
           "cardInformation": "繋がり…過去の人達から学んできた想いや絆。過去を切り、孤独へと向かう友をほうってはおけない。全ての想いと力を以て、今度こそ…友を止める！！",
           "bookNo": "1",
           "rare": "5",
@@ -23307,13 +23307,13 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-07-25 21:48:04",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20030803",
           "modelId": "543",
           "charaType": "1",
-          "cardSubName": "終極の力",
+          "cardSubName": "Ultimate Power",
           "cardInformation": "サスケとナルト、お互いに相容れぬ想いを通す為、終末の谷で全てを賭けた戦いに挑む。過去の過ち、迷いは全てここで切り棄てる！！",
           "bookNo": "1",
           "rare": "5",
@@ -23349,7 +23349,7 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-07-25 21:48:05",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20030804",
@@ -23439,7 +23439,7 @@ window.chara=[
           "cardId": "20030806",
           "modelId": "399",
           "charaType": "1",
-          "cardSubName": "千手の正当後継者",
+          "cardSubName": "Senju's True Successor",
           "cardInformation": "初代火影の孫に生まれ、大蛇丸・自来也と共に三忍と称され数々の伝説的な武勇を築く。第四次忍界大戦、忍び五大国忍連合軍の総参謀長として、国の垣根を越えて忍を束ねる任を負う。",
           "bookNo": "1",
           "rare": "5",
@@ -23475,13 +23475,13 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-08-01 22:23:51",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20030807",
           "modelId": "434",
           "charaType": "2",
-          "cardSubName": "若き砂の守護者",
+          "cardSubName": "Guardian of the Sand",
           "cardInformation": "穢土転生された父・羅砂との戦いで、我愛羅は真実を知る。母の愛を知った我愛羅は、その想いを胸に新たな戦場へと向かう。",
           "bookNo": "1",
           "rare": "5",
@@ -23517,13 +23517,13 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-08-01 22:23:52",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20030808",
           "modelId": "327",
           "charaType": "5",
-          "cardSubName": "戦乱の時代を知る者",
+          "cardSubName": "Knowledge of War",
           "cardInformation": "忍び五大国の頂点に君臨する五影。その任にある者の中において、最も長くその務めを果たしているオオノキ。数多の戦いを経験し、その中にはあの、うちはマダラとの交戦経験もある。",
           "bookNo": "1",
           "rare": "5",
@@ -23559,13 +23559,13 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-08-01 22:23:53",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20030809",
           "modelId": "534",
           "charaType": "6",
-          "cardSubName": "忍連合の総大将",
+          "cardSubName": "Leader of the Allied Shinobi Force",
           "cardInformation": "忍が尊重するものは、行動と力。この信念のもとにエーは行動する。雷のチャクラを身に纏い鍛え上げられた肉体を武器に戦う。その力は今、忍連合を守る為に振るわれる！",
           "bookNo": "1",
           "rare": "5",
@@ -23601,13 +23601,13 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-08-01 22:23:53",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20030810",
           "modelId": "326",
           "charaType": "3",
-          "cardSubName": "血霧を払いし才媛",
+          "cardSubName": "Woman from the Bloody Mist",
           "cardInformation": "かつて血霧の里と呼ばれた恐怖政治を払拭すべく、その手腕をふるう五代目水影。二つの血継限界をもち、高い戦闘能力を見せる。",
           "bookNo": "1",
           "rare": "5",
@@ -23643,13 +23643,13 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-08-01 22:23:54",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20030811",
           "modelId": "564",
           "charaType": "1",
-          "cardSubName": "火の意志の始まり",
+          "cardSubName": "Beginning of the Will of Fire",
           "cardInformation": "柱間には夢があった。いつか若き忍達が争うことなく、平穏に暮らせる世をつくること…。数多の犠牲と屍を乗り越え、柱間は友・マダラと忍の里を初めて創設する。だが、友と二人で描いた夢は…綻び、無慈悲な運命のもと二人は戦うのだった。",
           "bookNo": "1",
           "rare": "5",
@@ -23685,13 +23685,13 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-08-14 21:27:00",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20030812",
           "modelId": "575",
           "charaType": "99",
-          "cardSubName": "孤高の夢",
+          "cardSubName": "Aloof Dream",
           "cardInformation": "相容れぬ理想の為、友・柱間と袂を別ったマダラ。本当の夢への道…そこにたどり着くまでの間、マダラは柱間との戦いを愉しむ。それは、夢想を現実へ変える野望の一幕の始まりだった。",
           "bookNo": "1",
           "rare": "5",
@@ -23727,7 +23727,7 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-08-14 21:27:00",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20030813",
@@ -23859,7 +23859,7 @@ window.chara=[
           "cardId": "20030816",
           "modelId": "485",
           "charaType": "1",
-          "cardSubName": "究極蹴技",
+          "cardSubName": "The Final Kick",
           "cardInformation": "自分の大切なものを死んでも守り抜く時！！！その覚悟と共に八門遁甲を開放したマイト・ガイ。その男が持ちうる最大の蹴技…それが夜ガイなのだ。",
           "bookNo": "1",
           "rare": "5",
@@ -23895,13 +23895,13 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-08-08 20:10:12",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20030817",
           "modelId": "605",
           "charaType": "1",
-          "cardSubName": "友の心を胸に",
+          "cardSubName": "Inside his Friend's Heart",
           "cardInformation": "友の想いを胸に、無かったことにはさせない。第四次忍界大戦の最中、リーはナルトから託された螺旋丸を、十尾の人柱力となったオビトの盾を破るべく叩きつける。",
           "bookNo": "1",
           "rare": "5",
@@ -23937,13 +23937,13 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-08-07 21:54:41",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20030818",
           "modelId": "253",
           "charaType": "1",
-          "cardSubName": "見据えた決意",
+          "cardSubName": "A Gaze at Resolution",
           "cardInformation": "第四次忍界大戦。シカマルは一つの想いを決める。この戦いの先...未来を。ナルトを火影にする、そしてそれを支える。その為に、今はなすべきことを成す！",
           "bookNo": "1",
           "rare": "5",
@@ -23979,13 +23979,13 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-08-07 21:54:42",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20030819",
           "modelId": "480",
           "charaType": "1",
-          "cardSubName": "繋ぐ命",
+          "cardSubName": "Connecting Life",
           "cardInformation": "第四次忍界大戦。多くの破壊と死を振りまく元凶、十尾の人柱力...うちはオビトの盾を打ち砕くべく、ヒナタはナルトから託された螺旋丸を叩きつける！",
           "bookNo": "1",
           "rare": "5",
@@ -24021,7 +24021,7 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-08-07 21:54:43",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20030820",
@@ -24237,7 +24237,7 @@ window.chara=[
           "cardId": "20030825",
           "modelId": "347",
           "charaType": "6",
-          "cardSubName": "謙虚な幸運",
+          "cardSubName": "Modest Future",
           "cardInformation": "四代目雷影の側近。言葉とは、己が誠の心を伝えるためのものとしており、その実直さは大きな信頼を得ている。",
           "bookNo": "1",
           "rare": "5",
@@ -24273,13 +24273,13 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-08-22 19:05:14",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20030901",
           "modelId": "333",
           "charaType": "99",
-          "cardSubName": "終わる世界",
+          "cardSubName": "End of the World",
           "cardInformation": "五影を退け、戦場に到達したマダラ。オビトと共に復活した十尾の力を、忍連合へと向ける。絶妙な連係を見せる五里の忍たちの抵抗をマダラは愉しむ。",
           "bookNo": "1",
           "rare": "5",
@@ -24315,13 +24315,13 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-08-28 12:42:34",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20030902",
           "modelId": "499",
           "charaType": "99",
-          "cardSubName": "告げる絶望",
+          "cardSubName": "Mark of Despair",
           "cardInformation": "託した側も託された側も…この世界で生きながらえた忍はクズになる。オビトが語る哀しき現実。心奥に刻まれた絶望は、再会した友を傷つけることすら厭わない…。",
           "bookNo": "1",
           "rare": "5",
@@ -24357,7 +24357,7 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-08-28 12:42:35",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20030903",
@@ -24615,7 +24615,7 @@ window.chara=[
           "cardId": "20030909",
           "modelId": "565",
           "charaType": "1",
-          "cardSubName": "最後の任務",
+          "cardSubName": "Final Duty",
           "cardInformation": "試練に満ちた苦難の道を彷徨いながら、友を部下を信じ続けたカカシ。共に託されたものを胸に、忍界の暗闇に眼をこらす。",
           "bookNo": "1",
           "rare": "5",
@@ -24651,13 +24651,13 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-09-12 16:47:10",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20030911",
           "modelId": "215",
           "charaType": "1",
-          "cardSubName": "黄昏の幻影",
+          "cardSubName": "Twilight Illusion",
           "cardInformation": "油女シノ、犬塚キバ、日向ヒナタを率いる第八班の部隊長である上忍くノ一。男性顔負けの気の強さを持っているためか、冷酷な性格に見られがちだが、戦いで傷ついた生徒を気遣うなど優しい女性である。",
           "bookNo": "1",
           "rare": "5",
@@ -24693,13 +24693,13 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-09-12 15:53:54",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20030912",
           "modelId": "24",
           "charaType": "1",
-          "cardSubName": "木ノ葉の鋭刃",
+          "cardSubName": "Konoha's Sharp Blade",
           "cardInformation": "忍らしからぬ、くわえ煙草に飄々とした態度のアスマ。その実力はカカシに迫り、木ノ葉隠れの里でも屈指の能力を秘める上忍だ。また、教え子であるシカマルたちへの教育方針は常に正面から熱く接するマイト・ガイと比べると実に自由奔放だ。それは自立なくして本当の成長はないとでも言うかのようである。",
           "bookNo": "1",
           "rare": "5",
@@ -24735,7 +24735,7 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-09-12 17:35:58",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20030913",
@@ -24777,7 +24777,7 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-09-19 09:50:17",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20030918",
@@ -25077,7 +25077,7 @@ window.chara=[
           "cardId": "20031001",
           "modelId": "582",
           "charaType": "1",
-          "cardSubName": "無窮の螺旋",
+          "cardSubName": "Eternal Rasengan",
           "cardInformation": "第四次忍界大戦の英雄。火影という夢に向かい真っ直ぐに任務をこなす。苦手とした座学にも取り組み、ナルトは前へ前へと進んでいく。",
           "bookNo": "1",
           "rare": "5",
@@ -25113,13 +25113,13 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-09-27 11:16:19",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20031002",
           "modelId": "524",
           "charaType": "1",
-          "cardSubName": "絆を背負う陽の力",
+          "cardSubName": "Bonds Shouldered Through the Power of the Sun",
           "cardInformation": "九匹のケモノの名を呼ぶ予言の子。六道仙人から託された力と、尾獣たちと結んだ絆で十尾の人柱力となった、うちはマダラに挑む。",
           "bookNo": "1",
           "rare": "5",
@@ -25155,13 +25155,13 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-10-03 21:42:46",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20031003",
           "modelId": "397",
           "charaType": "1",
-          "cardSubName": "心に響いた言葉",
+          "cardSubName": "Words that Remains in my Heart",
           "cardInformation": "うちはマダラを名乗る仮面の男が戦争を仕掛けてきた事を知ったナルト。イルカの説得を振り切り、自らの手で決着をつける為、戦場へと向かう。だが…額当てに挟まった手紙を見たナルトは、イルカからの大切な言葉を受け取るのだった。",
           "bookNo": "1",
           "rare": "5",
@@ -25197,13 +25197,13 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-10-11 15:09:01",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20031006",
           "modelId": "259",
           "charaType": "1",
-          "cardSubName": "命に代えても",
+          "cardSubName": "Exchanging Lives",
           "cardInformation": "木ノ葉隠れの里を守護する四代目火影。 我が子が生まれたその日、里に現れた仮面の男によって九尾が里を襲撃する。 その凶行を食い止めるべくミナトは、一つの決断をする。 命と引き換えの封印術で九尾の半分を封じ、残り半分を息子に封印し人柱力にすることを…。",
           "bookNo": "1",
           "rare": "5",
@@ -25239,13 +25239,13 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-09-26 16:58:49",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20031007",
           "modelId": "334",
           "charaType": "1",
-          "cardSubName": "待ち望んだ再会",
+          "cardSubName": "Eager Reunion",
           "cardInformation": "四代目火影の妻にして、九尾を宿した二代目人柱力。 我が子を出産したその日…謎の仮面の男によって九尾を抜かれてしまう。 里を襲う九尾を食い止めるべく、生まれたばかりの息子に九尾を封じてこの世を去る。いつか成長した息子の姿を見ることを願いながら…。",
           "bookNo": "1",
           "rare": "5",
@@ -25281,7 +25281,7 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-09-26 16:58:50",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20031008",

@@ -1393,7 +1393,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "108",
           "name": "純白なココロ",
-          "description": "Courage Type Basic Attack Dodge Rate +15%、For 3 turns, incoming Skill Damage -50%",
+          "description": "Courage Type Basic Attack Dodge Rate +15%, For 3 turns, incoming Skill Damage -50%",
           "effectIdx1": "119",
           "effectIdx2": "254",
           "effectIdx3": "0",
@@ -1601,7 +1601,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "124",
           "name": "キレ者の策謀",
-          "description": "Konoha Characters Maximum HP +25%、chance of being immune to Status Effect",
+          "description": "Konoha Characters Maximum HP +25%, chance of being immune to Status Effect",
           "effectIdx1": "227",
           "effectIdx2": "203",
           "effectIdx3": "0",
@@ -1614,7 +1614,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "125",
           "name": "覚醒のとき・・！！",
-          "description": "Technique Type ATK +30%、DEF -30%",
+          "description": "Technique Type ATK +30%, DEF -30%",
           "effectIdx1": "205",
           "effectIdx2": "219",
           "effectIdx3": "0",
@@ -1692,7 +1692,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "131",
           "name": "呪印解放",
-          "description": "Body Type ATK and SPD +25%、DEF -25%",
+          "description": "Body Type ATK and SPD +25%, DEF -25%",
           "effectIdx1": "107",
           "effectIdx2": "229",
           "effectIdx3": "279",
@@ -2082,7 +2082,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "161",
           "name": "妖しく彩る傀儡",
-          "description": "Technique and Body Type 固有Skill Damage +20%させ、SPD +25%",
+          "description": "Technique and Body Type 固有Skill Damage +20%させ, SPD +25%",
           "effectIdx1": "20",
           "effectIdx2": "279",
           "effectIdx3": "0",
@@ -2199,7 +2199,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "170",
           "name": "永遠の命",
-          "description": "磁遁タイプのSkill Damage を軽減、毒にかかる確率-50%",
+          "description": "磁遁タイプのSkill Damage を軽減, 毒にかかる確率-50%",
           "effectIdx1": "296",
           "effectIdx2": "98",
           "effectIdx3": "0",
@@ -2498,7 +2498,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "193",
           "name": "闇への疾走",
-          "description": "“鷹”所属ATK +35%が、Maximum HP +15%ダウンする",
+          "description": "“鷹”所属ATK +35%が, Maximum HP +15%ダウンする",
           "effectIdx1": "398",
           "effectIdx2": "399",
           "effectIdx3": "0",
@@ -2550,7 +2550,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "197",
           "name": "殺戮を欲する躯",
-          "description": "Akatsuki Characters ATK +35%が、DEF +35%ダウンする",
+          "description": "Akatsuki Characters ATK +35%が, DEF +35%ダウンする",
           "effectIdx1": "398",
           "effectIdx2": "403",
           "effectIdx3": "0",
@@ -2914,7 +2914,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "225",
           "name": "孤独と憎悪の化身",
-          "description": "Intellect Type ATK +40%、Maximum HP +30%ダウンする",
+          "description": "Intellect Type ATK +40%, Maximum HP +30%ダウンする",
           "effectIdx1": "376",
           "effectIdx2": "404",
           "effectIdx3": "0",
@@ -3408,7 +3408,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "263",
           "name": "闘う意志",
-          "description": "Courage Type Maximum HP +10%、封印状態になる確率-50%。",
+          "description": "Courage Type Maximum HP +10%, 封印状態になる確率-50%。",
           "effectIdx1": "13",
           "effectIdx2": "535",
           "effectIdx3": "0",
@@ -3421,7 +3421,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "264",
           "name": "実力高き蟲使い",
-          "description": "DEF +10%、Secret Skill Damage を軽減する。",
+          "description": "DEF +10%, Secret Skill Damage を軽減する。",
           "effectIdx1": "3",
           "effectIdx2": "371",
           "effectIdx3": "0",
@@ -3447,7 +3447,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "266",
           "name": "叡智を喰らいし者",
-          "description": "Oto Characters HP+20%、行動したHP +5%回復する。",
+          "description": "Oto Characters HP+20%, 行動したHP +5%回復する。",
           "effectIdx1": "17",
           "effectIdx2": "218",
           "effectIdx3": "0",
@@ -3460,7 +3460,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "267",
           "name": "育む絆",
-          "description": "All Characters ATK +30%、消費チャクラ+5%ダウンする。",
+          "description": "All Characters ATK +30%, 消費チャクラ+5%ダウンする。",
           "effectIdx1": "182",
           "effectIdx2": "273",
           "effectIdx3": "0",
@@ -3525,7 +3525,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "272",
           "name": "爆ぜる殺意",
-          "description": "Body Type ATK and SPD +20%、秘伝タイプのダメージを軽減する。",
+          "description": "Body Type ATK and SPD +20%, 秘伝タイプのダメージを軽減する。",
           "effectIdx1": "105",
           "effectIdx2": "109",
           "effectIdx3": "371",
@@ -3655,7 +3655,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "282",
           "name": "霧隠れの才媛",
-          "description": "Kiri Characters ATK +20%、行動するたびにHP10%回復。",
+          "description": "Kiri Characters ATK +20%, 行動するたびにHP10%回復。",
           "effectIdx1": "105",
           "effectIdx2": "357",
           "effectIdx3": "0",
@@ -3694,7 +3694,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "285",
           "name": "戦野の桜花",
-          "description": "Skill Damage を軽減、HP Regen 5%回復する",
+          "description": "Skill Damage を軽減, HP Regen 5%回復する",
           "effectIdx1": "17",
           "effectIdx2": "425",
           "effectIdx3": "0",
@@ -3759,7 +3759,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "290",
           "name": "銷魂の残滓",
-          "description": "Technique Type ATK +30%、DEF +10%。",
+          "description": "Technique Type ATK +30%, DEF +10%。",
           "effectIdx1": "182",
           "effectIdx2": "3",
           "effectIdx3": "0",
@@ -3772,7 +3772,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "291",
           "name": "天才の系譜",
-          "description": "Intellect Type Maximum HP +30%させ、ATK +10%。",
+          "description": "Intellect Type Maximum HP +30%させ, ATK +10%。",
           "effectIdx1": "470",
           "effectIdx2": "1",
           "effectIdx3": "0",
@@ -3928,7 +3928,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "303",
           "name": "切り裂く雷光",
-          "description": "Lightning Skill Damage +20%、麻痺にかかる確率-50%。",
+          "description": "Lightning Skill Damage +20%, 麻痺にかかる確率-50%。",
           "effectIdx1": "101",
           "effectIdx2": "631",
           "effectIdx3": "0",
@@ -4162,7 +4162,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "321",
           "name": "美しき萩の花",
-          "description": "Konoha Characters SPD +30%、消費チャクラ量+5%ダウンする",
+          "description": "Konoha Characters SPD +30%, 消費チャクラ量+5%ダウンする",
           "effectIdx1": "183",
           "effectIdx2": "273",
           "effectIdx3": "0",
@@ -4214,7 +4214,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "325",
           "name": "忍の戦い",
-          "description": "All Characters ATK +30%が、Maximum HP +20%ダウンする",
+          "description": "All Characters ATK +30%が, Maximum HP +20%ダウンする",
           "effectIdx1": "182",
           "effectIdx2": "232",
           "effectIdx3": "0",
@@ -4266,7 +4266,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "329",
           "name": "儚き運命",
-          "description": "Technique Type SPD +30%、ATK +20%",
+          "description": "Technique Type SPD +30%, ATK +20%",
           "effectIdx1": "110",
           "effectIdx2": "105",
           "effectIdx3": "0",
@@ -4318,7 +4318,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "333",
           "name": "くノ一総選挙記念",
-          "description": "All Characters ATK +20%、封印を軽減する",
+          "description": "All Characters ATK +20%, 封印を軽減する",
           "effectIdx1": "105",
           "effectIdx2": "737",
           "effectIdx3": "0",
@@ -4331,7 +4331,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "334",
           "name": "くノ一総選挙記念",
-          "description": "All Characters SPD +30%、麻痺を軽減する",
+          "description": "All Characters SPD +30%, 麻痺を軽減する",
           "effectIdx1": "110",
           "effectIdx2": "738",
           "effectIdx3": "0",
@@ -4383,7 +4383,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "338",
           "name": "十尾の人柱力",
-          "description": "Heart Type ATK +30%、Maximum HP +20%",
+          "description": "Heart Type ATK +30%, Maximum HP +20%",
           "effectIdx1": "182",
           "effectIdx2": "218",
           "effectIdx3": "0",
@@ -4409,7 +4409,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "340",
           "name": "虚構の月",
-          "description": "Akatsuki Characters ATK +30%、reduce effect of Debuff and Status Effects",
+          "description": "Akatsuki Characters ATK +30%, reduce effect of Debuff and Status Effects",
           "effectIdx1": "182",
           "effectIdx2": "661",
           "effectIdx3": "738",
@@ -4448,7 +4448,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "343",
           "name": "雲の俊英",
-          "description": "雲隠れの里所属のキャラが、敵から受けるSkill Damage を軽減する",
+          "description": "雲隠れの里所属のキャラが, 敵から受けるSkill Damage を軽減する",
           "effectIdx1": "425",
           "effectIdx2": "0",
           "effectIdx3": "0",
@@ -4578,7 +4578,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "353",
           "name": "目指すべき絆",
-          "description": "All Characters ATK +20%、Chakra Recovery +5%",
+          "description": "All Characters ATK +20%, Chakra Recovery +5%",
           "effectIdx1": "105",
           "effectIdx2": "173",
           "effectIdx3": "0",
@@ -4643,7 +4643,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "358",
           "name": "火影の矜持",
-          "description": "All Characters ATK +20%、固有タイプのSkill Damage +30%",
+          "description": "All Characters ATK +20%, 固有タイプのSkill Damage +30%",
           "effectIdx1": "105",
           "effectIdx2": "488",
           "effectIdx3": "0",
@@ -4708,7 +4708,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "363",
           "name": "狂気の渇望",
-          "description": "Oto Characters Maximum HP and ATK +20%、HP Regen +10%",
+          "description": "Oto Characters Maximum HP and ATK +20%, HP Regen +10%",
           "effectIdx1": "218",
           "effectIdx2": "105",
           "effectIdx3": "52",
@@ -4786,7 +4786,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "369",
           "name": "穏やかな日常",
-          "description": "Konoha Characters キャラが、敵から受けるSkill Damage を確率で軽減する",
+          "description": "Konoha Characters キャラが, 敵から受けるSkill Damage を確率で軽減する",
           "effectIdx1": "845",
           "effectIdx2": "0",
           "effectIdx3": "0",
@@ -4929,7 +4929,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "380",
           "name": "己を貫き通す時",
-          "description": "ATK, DEF and SPD +20%、Taijutsu Skill Damage +30%",
+          "description": "ATK, DEF and SPD +20%, Taijutsu Skill Damage +30%",
           "effectIdx1": "539",
           "effectIdx2": "487",
           "effectIdx3": "0",
@@ -5007,7 +5007,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "386",
           "name": "木ノ葉流忍者",
-          "description": "Ryo 30%、SPD +20%",
+          "description": "Ryo 30%, SPD +20%",
           "effectIdx1": "910",
           "effectIdx2": "13019",
           "effectIdx3": "0",
@@ -5072,7 +5072,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "391",
           "name": "不撓不屈の万年下忍",
-          "description": "Konoha Characters ATK +30%が、DEF +30%ダウンする",
+          "description": "Konoha Characters ATK +30%が, DEF +30%ダウンする",
           "effectIdx1": "182",
           "effectIdx2": "476",
           "effectIdx3": "0",
@@ -5202,7 +5202,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "401",
           "name": "隊長代行",
-          "description": "Konoha Characters Maximum HP +50%、麻痺-50%",
+          "description": "Konoha Characters Maximum HP +50%, 麻痺-50%",
           "effectIdx1": "10049",
           "effectIdx2": "631",
           "effectIdx3": "0",
@@ -5241,7 +5241,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "404",
           "name": "六道の継承者",
-          "description": "写輪眼、輪廻眼、白眼のSkill Damage +30%",
+          "description": "写輪眼, 輪廻眼, 白眼のSkill Damage +30%",
           "effectIdx1": "160",
           "effectIdx2": "317",
           "effectIdx3": "318",
@@ -5254,7 +5254,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "405",
           "name": "託されし問い",
-          "description": "Konoha Characters Maximum HP +40%、ATK and DEF 20%",
+          "description": "Konoha Characters Maximum HP +40%, ATK and DEF 20%",
           "effectIdx1": "10039",
           "effectIdx2": "105",
           "effectIdx3": "12019",
@@ -5306,7 +5306,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "409",
           "name": "未来を導く明知",
-          "description": "Konoha Characters が行動するたびに、チャクラ+15%回復する",
+          "description": "Konoha Characters が行動するたびに, チャクラ+15%回復する",
           "effectIdx1": "957",
           "effectIdx2": "0",
           "effectIdx3": "0",
@@ -5319,7 +5319,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "410",
           "name": "奪われし神の力",
-          "description": "Akatsuki Characters が行動するたびに、チャクラ+15%回復する",
+          "description": "Akatsuki Characters が行動するたびに, チャクラ+15%回復する",
           "effectIdx1": "957",
           "effectIdx2": "0",
           "effectIdx3": "0",
@@ -5358,7 +5358,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "413",
           "name": "戦慄のジャシン教",
-          "description": "Akatsuki Characters Maximum HP +40%、HP Regen +10%",
+          "description": "Akatsuki Characters Maximum HP +40%, HP Regen +10%",
           "effectIdx1": "10039",
           "effectIdx2": "52",
           "effectIdx3": "0",
@@ -5514,7 +5514,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "425",
           "name": "伝えるべき愛",
-          "description": "Heart Type Maximum HP +30%、HP Regen and Chakra Recovery +5%",
+          "description": "Heart Type Maximum HP +30%, HP Regen and Chakra Recovery +5%",
           "effectIdx1": "10029",
           "effectIdx2": "172",
           "effectIdx3": "29",
@@ -5540,7 +5540,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "427",
           "name": "霧隠れの傾奇者",
-          "description": "Technique Type ATK +20%、Water Skill Damage 50%",
+          "description": "Technique Type ATK +20%, Water Skill Damage 50%",
           "effectIdx1": "11019",
           "effectIdx2": "922",
           "effectIdx3": "0",
@@ -5566,7 +5566,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "429",
           "name": "殺戮の舞踏者",
-          "description": "Oto Characters Maximum HP -20%、ATK and Skill Damage 50%",
+          "description": "Oto Characters Maximum HP -20%, ATK and Skill Damage 50%",
           "effectIdx1": "232",
           "effectIdx2": "11049",
           "effectIdx3": "30004",
@@ -5579,7 +5579,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "430",
           "name": "希望の懸け橋",
-          "description": "Akatsuki Characters Maximum Chakra +25、Chakra Recovery +5%",
+          "description": "Akatsuki Characters Maximum Chakra +25, Chakra Recovery +5%",
           "effectIdx1": "1011",
           "effectIdx2": "173",
           "effectIdx3": "0",
@@ -5657,7 +5657,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "436",
           "name": "温泉夢物語",
-          "description": "固有タイプのSkill Damage 30%、固有タイプの受けるダメージ軽減",
+          "description": "固有タイプのSkill Damage 30%, 固有タイプの受けるダメージ軽減",
           "effectIdx1": "488",
           "effectIdx2": "91",
           "effectIdx3": "0",
@@ -5670,7 +5670,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "437",
           "name": "湯煙慕情",
-          "description": "白眼タイプのSkill Damage 30%、白眼タイプの受けるダメージ軽減",
+          "description": "白眼タイプのSkill Damage 30%, 白眼タイプの受けるダメージ軽減",
           "effectIdx1": "318",
           "effectIdx2": "103",
           "effectIdx3": "0",
@@ -5839,7 +5839,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "450",
           "name": "破壊と災禍の化身",
-          "description": "Courage Type Maximum HP -30%、ATK, DEF, SPD and Skill Damage +40%",
+          "description": "Courage Type Maximum HP -30%, ATK, DEF, SPD and Skill Damage +40%",
           "effectIdx1": "1107",
           "effectIdx2": "1108",
           "effectIdx3": "30003",
@@ -5878,7 +5878,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "453",
           "name": "未来を担う宝珠",
-          "description": "Courage Type Byakugan Skill Damage +30%、SPD +30%",
+          "description": "Courage Type Byakugan Skill Damage +30%, SPD +30%",
           "effectIdx1": "318",
           "effectIdx2": "13029",
           "effectIdx3": "0",
@@ -5930,7 +5930,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "457",
           "name": "謹賀新年・蝦蟇",
-          "description": "All Characters Maximum HP +20%、Skill Damage +17%",
+          "description": "All Characters Maximum HP +20%, Skill Damage +17%",
           "effectIdx1": "10019",
           "effectIdx2": "1150",
           "effectIdx3": "0",
@@ -5943,7 +5943,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "458",
           "name": "謹賀新年・蟒蛇",
-          "description": "All Characters ATK +20%、Skill Damage +17%",
+          "description": "All Characters ATK +20%, Skill Damage +17%",
           "effectIdx1": "11019",
           "effectIdx2": "1150",
           "effectIdx3": "0",
@@ -5956,7 +5956,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "459",
           "name": "謹賀新年・蛞蝓",
-          "description": "All Characters SPD +20%、HP Regen +17%",
+          "description": "All Characters SPD +20%, HP Regen +17%",
           "effectIdx1": "13019",
           "effectIdx2": "1151",
           "effectIdx3": "0",
@@ -6125,7 +6125,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "472",
           "name": "女子力勝負",
-          "description": "Konoha Characters Maximum HP and SPD +20%、Chakra Recovery +10%",
+          "description": "Konoha Characters Maximum HP and SPD +20%, Chakra Recovery +10%",
           "effectIdx1": "10019",
           "effectIdx2": "13019",
           "effectIdx3": "53",
@@ -6138,7 +6138,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "473",
           "name": "甘い乙女心",
-          "description": "Konoha Characters ATK +30%、HP Regen and Chakra Recovery +5%",
+          "description": "Konoha Characters ATK +30%, HP Regen and Chakra Recovery +5%",
           "effectIdx1": "11029",
           "effectIdx2": "172",
           "effectIdx3": "29",
@@ -6476,7 +6476,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "499",
           "name": "先を見据える者",
-          "description": "Intellect Type Konoha Characters SPD +50%、Skill Damage +40%",
+          "description": "Intellect Type Konoha Characters SPD +50%, Skill Damage +40%",
           "effectIdx1": "13049",
           "effectIdx2": "692",
           "effectIdx3": "0",
@@ -6567,7 +6567,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "506",
           "name": "成長の絆",
-          "description": "Konoha Characters Chakra Cost -10%、HP Regen +10%",
+          "description": "Konoha Characters Chakra Cost -10%, HP Regen +10%",
           "effectIdx1": "712",
           "effectIdx2": "357",
           "effectIdx3": "0",
@@ -6619,7 +6619,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "510",
           "name": "新たなる時代（蝦蟇）",
-          "description": "Konoha Characters Skill Damage +40%、SPD +20%",
+          "description": "Konoha Characters Skill Damage +40%, SPD +20%",
           "effectIdx1": "692",
           "effectIdx2": "109",
           "effectIdx3": "0",
@@ -6632,7 +6632,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "511",
           "name": "新たなる時代（蟒蛇）",
-          "description": "Konoha Characters Skill Damage +40%、ATK +20%",
+          "description": "Konoha Characters Skill Damage +40%, ATK +20%",
           "effectIdx1": "692",
           "effectIdx2": "105",
           "effectIdx3": "0",
@@ -6645,7 +6645,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "512",
           "name": "新たなる時代（蛞蝓）",
-          "description": "Konoha Characters HP Regen +20% and %Chakra Recovery +10%",
+          "description": "Konoha Characters HP Regen +20% and Chakra Recovery +10%",
           "effectIdx1": "628",
           "effectIdx2": "53",
           "effectIdx3": "0",
@@ -6892,7 +6892,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "531",
           "name": "解き放たれる器",
-          "description": "All Characters Skill Damage +40%、For 3 turns, SPD +100%",
+          "description": "All Characters Skill Damage +40%, For 3 turns, SPD +100%",
           "effectIdx1": "692",
           "effectIdx2": "1265",
           "effectIdx3": "0",
@@ -7087,7 +7087,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "546",
           "name": "赤い血潮のハバネロ",
-          "description": "All Characters Skill Damage 30%、For 3 turns, ATK 150%",
+          "description": "All Characters Skill Damage 30%, For 3 turns, ATK 150%",
           "effectIdx1": "615",
           "effectIdx2": "1409",
           "effectIdx3": "0",
@@ -7152,7 +7152,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "551",
           "name": "刀の申し子",
-          "description": "Taka Characters Skill Damage +50%、Basic Attack Dodge Rate +100%",
+          "description": "Taka Characters Skill Damage +50%, Basic Attack Dodge Rate +100%",
           "effectIdx1": "682",
           "effectIdx2": "1141",
           "effectIdx3": "0",
@@ -7165,7 +7165,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "552",
           "name": "血に塗れた革命",
-          "description": "Intellect Type Skill Damage 50%、For 3 turns, SPD +100%",
+          "description": "Intellect Type Skill Damage 50%, For 3 turns, SPD +100%",
           "effectIdx1": "682",
           "effectIdx2": "1265",
           "effectIdx3": "0",
@@ -7191,7 +7191,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "554",
           "name": "憎悪の絆",
-          "description": "Intellect Type Chakra Cost -10%、Chakra Recovery +10%",
+          "description": "Intellect Type Chakra Cost -10%, Chakra Recovery +10%",
           "effectIdx1": "348",
           "effectIdx2": "53",
           "effectIdx3": "0",
@@ -7243,7 +7243,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "558",
           "name": "木遁の系譜",
-          "description": "All Characters Maximum HP +80%、incoming Tailed Beast Skill Damage reduced",
+          "description": "All Characters Maximum HP +80%, incoming Tailed Beast Skill Damage reduced",
           "effectIdx1": "649",
           "effectIdx2": "1103",
           "effectIdx3": "0",
@@ -7555,7 +7555,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "582",
           "name": "現世の地獄",
-          "description": "All Characters ATK and DEF and SPD +50%、HP -10% per turn",
+          "description": "All Characters ATK and DEF and SPD +50%, HP -10% per turn",
           "effectIdx1": "22005",
           "effectIdx2": "1413",
           "effectIdx3": "0",
@@ -7737,7 +7737,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "601",
           "name": "交錯する運命",
-          "description": "Technique Type ATK +40%、Incoming Sharingan Skill Damage -50%",
+          "description": "Technique Type ATK +40%, Incoming Sharingan Skill Damage -50%",
           "effectIdx1": "11039",
           "effectIdx2": "78",
           "effectIdx3": "0",
@@ -7750,7 +7750,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "602",
           "name": "夢の暁光",
-          "description": "Akatsuki Characters ATK +40%、Incoming Lightning Skill Damage -50%",
+          "description": "Akatsuki Characters ATK +40%, Incoming Lightning Skill Damage -50%",
           "effectIdx1": "11039",
           "effectIdx2": "85",
           "effectIdx3": "0",
@@ -7763,7 +7763,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "603",
           "name": "命に代えても",
-          "description": "Heart Type Maximum HP and ATK +40%、For 2 turns, Chakra Cost -50%",
+          "description": "Heart Type Maximum HP and ATK +40%, For 2 turns, Chakra Cost -50%",
           "effectIdx1": "10039",
           "effectIdx2": "11039",
           "effectIdx3": "1521",
@@ -7815,7 +7815,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "607",
           "name": "無窮の螺旋",
-          "description": "All Characters Unique Wind Skill Damage +50%",
+          "description": "All Characters Unique and Wind Skill Damage +50%",
           "effectIdx1": "547",
           "effectIdx2": "1320",
           "effectIdx3": "0",
@@ -7854,7 +7854,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "610",
           "name": "苦難を越えた絆",
-          "description": "Heart Type ATK +100%、For 5 turns, Skill Damage 80%",
+          "description": "Heart Type ATK +100%, For 5 turns, Skill Damage 80%",
           "effectIdx1": "11099",
           "effectIdx2": "30407",
           "effectIdx3": "0",
@@ -7984,7 +7984,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "620",
           "name": "飛び出て吃驚",
-          "description": "Akatsuki Characters Maximum HP +100%、DEF -50%",
+          "description": "Akatsuki Characters Maximum HP +100%, DEF -50%",
           "effectIdx1": "684",
           "effectIdx2": "252",
           "effectIdx3": "0",
@@ -8010,7 +8010,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "622",
           "name": "綻び始める運命",
-          "description": "Courage Type Maximum HP and ATK +40%、HP Regen +10%",
+          "description": "Courage Type Maximum HP and ATK +40%, HP Regen +10%",
           "effectIdx1": "10039",
           "effectIdx2": "11039",
           "effectIdx3": "357",
@@ -8023,7 +8023,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "623",
           "name": "疾く駆ける刃",
-          "description": "Courage Type ATK and SPD +40%、Chakra Recovery +10%",
+          "description": "Courage Type ATK and SPD +40%, Chakra Recovery +10%",
           "effectIdx1": "11039",
           "effectIdx2": "111",
           "effectIdx3": "528",
@@ -8036,7 +8036,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "624",
           "name": "哀しき決別",
-          "description": "Intellect Type Maximum HP and ATK +60%、Chakra Recovery +10%",
+          "description": "Intellect Type Maximum HP and ATK +60%, Chakra Recovery +10%",
           "effectIdx1": "10059",
           "effectIdx2": "11059",
           "effectIdx3": "528",
@@ -8049,7 +8049,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "625",
           "name": "昂然たる写輪",
-          "description": "Intellect Type ATK and SPD +40%、HP Regen +10%",
+          "description": "Intellect Type ATK and SPD +40%, HP Regen +10%",
           "effectIdx1": "11039",
           "effectIdx2": "111",
           "effectIdx3": "357",
@@ -8075,7 +8075,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "627",
           "name": "心殺の操演者",
-          "description": "Akatsuki Characters ATK and DEF +50%、immune to Status Effect",
+          "description": "Akatsuki Characters ATK and DEF +50%, immune to Status Effect",
           "effectIdx1": "11049",
           "effectIdx2": "276",
           "effectIdx3": "82",
@@ -8153,7 +8153,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "633",
           "name": "化鳥の連撃",
-          "description": "Konoha Characters ATK +50%、Basic Attack Crit Damage +200%",
+          "description": "Konoha Characters ATK +50%, Basic Attack Crit Damage +200%",
           "effectIdx1": "11049",
           "effectIdx2": "1584",
           "effectIdx3": "0",
@@ -8348,7 +8348,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "648",
           "name": "吼え立てる強者",
-          "description": "None Characters Maximum HP and ATK +70%、HP Regen +10%",
+          "description": "None Characters Maximum HP and ATK +70%, HP Regen +10%",
           "effectIdx1": "10069",
           "effectIdx2": "11069",
           "effectIdx3": "357",
@@ -8361,7 +8361,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "649",
           "name": "噛み合わない猛者",
-          "description": "Heart and Intellect Type Maximum HP and ATK +50%、Chakra Recovery +10%",
+          "description": "Heart and Intellect Type Maximum HP and ATK +50%, Chakra Recovery +10%",
           "effectIdx1": "10049",
           "effectIdx2": "11049",
           "effectIdx3": "53",
@@ -8439,7 +8439,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "655",
           "name": "不退転の決意",
-          "description": "Konoha Characters Taijutsu Skill Damage +120%、DEF -50%",
+          "description": "Konoha Characters Taijutsu Skill Damage +120%, DEF -50%",
           "effectIdx1": "1501",
           "effectIdx2": "12104",
           "effectIdx3": "0",
@@ -8452,7 +8452,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "656",
           "name": "謹賀新年・蝦蟇2018",
-          "description": "All Characters SPD +20%、HP Regen +18%",
+          "description": "All Characters SPD +20%, HP Regen +18%",
           "effectIdx1": "13019",
           "effectIdx2": "1620",
           "effectIdx3": "0",
@@ -8465,7 +8465,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "657",
           "name": "謹賀新年・蟒蛇2018",
-          "description": "All Characters ATK +20%、HP Regen +18%",
+          "description": "All Characters ATK +20%, HP Regen +18%",
           "effectIdx1": "11019",
           "effectIdx2": "1620",
           "effectIdx3": "0",
@@ -8478,7 +8478,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "658",
           "name": "謹賀新年・蛞蝓2018",
-          "description": "All Characters Maximum HP +20%、HP Regen +18%",
+          "description": "All Characters Maximum HP +20%, HP Regen +18%",
           "effectIdx1": "10019",
           "effectIdx2": "1620",
           "effectIdx3": "0",
@@ -8686,7 +8686,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "674",
           "name": "新しき力",
-          "description": "Konoha Characters Sage Skill Damage +100%、DEF -50%",
+          "description": "Konoha Characters Sage Skill Damage +100%, DEF -50%",
           "effectIdx1": "537",
           "effectIdx2": "12104",
           "effectIdx3": "0",
@@ -8738,7 +8738,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "678",
           "name": "偉大な老練家",
-          "description": "Konoha Characters Maximum HP +50%、Skill Damage +80%",
+          "description": "Konoha Characters Maximum HP +50%, Skill Damage +80%",
           "effectIdx1": "10049",
           "effectIdx2": "694",
           "effectIdx3": "0",
@@ -8777,7 +8777,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "681",
           "name": "現世の絶望",
-          "description": "Intellect Type Maximum HP +40%、Fire and Sharingan Skill Damage +120%",
+          "description": "Intellect Type Maximum HP +40%, Fire and Sharingan Skill Damage +120%",
           "effectIdx1": "10039",
           "effectIdx2": "1651",
           "effectIdx3": "1652",
@@ -8933,7 +8933,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "693",
           "name": "神の護り手",
-          "description": "Akatsuki Characters ATK +60%、HP Regen +10%",
+          "description": "Akatsuki Characters ATK +60%, HP Regen +10%",
           "effectIdx1": "11059",
           "effectIdx2": "357",
           "effectIdx3": "0",
