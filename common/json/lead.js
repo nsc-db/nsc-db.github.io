@@ -9502,4 +9502,30 @@ window.lead=[
           "target2Category": "0",
           "target2Param": "0"
         },
+        {
+          "cardLeaderSkillId": "737",
+          "name": "大徳の千拳",
+          "description": "木ノ葉隠れの里所属の攻撃力と防御力を100％アップ、素早さを50%アップ",
+          "effectIdx1": "11099",
+          "effectIdx2": "12099",
+          "effectIdx3": "13049",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "738",
+          "name": "現実という地獄",
+          "description": "無所属の攻撃力と防御力を100％アップ、素早さを50%アップ",
+          "effectIdx1": "11099",
+          "effectIdx2": "12099",
+          "effectIdx3": "13049",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "99",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
 ]

@@ -4952,6 +4952,10 @@ window.skillname=[
           "name": "雷遁・雷黎熱刀"
         },
         {
+          "cardBattleSkillNameId": "2422",
+          "name": "今は気分がいいぜ"
+        },
+        {
           "cardBattleSkillNameId": "2423",
           "name": "抜刀・雷切"
         },
@@ -4972,8 +4976,16 @@ window.skillname=[
           "name": "今のオレの眼は昔とは違う！"
         },
         {
-          "cardBattleSkillNameId": "2422",
-          "name": "今は気分がいいぜ"
+          "cardBattleSkillNameId": "2434",
+          "name": "仙法木遁・真数千手頂上化仏"
+        },
+        {
+          "cardBattleSkillNameId": "2435",
+          "name": "…仕方ない…"
+        },
+        {
+          "cardBattleSkillNameId": "2436",
+          "name": "逃さん！！"
         },
         {
           "cardBattleSkillNameId": "10136",

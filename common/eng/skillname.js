@@ -6220,6 +6220,21 @@ window.skillname=[
           "eng": "My Eyes Are Different From the Past"
         },
         {
+          "cardBattleSkillNameId": "2434",
+          "name": "仙法木遁・真数千手頂上化仏",
+          "eng": "Sage Art: Wood Style: True Thousand Hands Summit Enlightenment"
+        },
+        {
+          "cardBattleSkillNameId": "2435",
+          "name": "…仕方ない…",
+          "eng": "...It Can't Be Helped..."
+        },
+        {
+          "cardBattleSkillNameId": "2436",
+          "name": "逃さん！！",
+          "eng": "Don't Run!!"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！",
           "eng": ""

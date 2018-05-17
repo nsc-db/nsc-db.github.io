@@ -7258,5 +7258,29 @@ window.unique=[
           "effectIdx2": "12099",
           "effectIdx3": "13049",
           "effectIdx4": "1141"
+        },
+        {
+          "crystalOverwriteEffectId": "617",
+          "targetCrystal": "10517",
+          "description": "弱体を無効化し、ダメージを受けた時にHPが50％回復する",
+          "charaIds": "1903",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1772",
+          "effectIdx2": "1771",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "618",
+          "targetCrystal": "10518",
+          "description": "弱体を無効化し、ダメージを受けた時にHPが50％回復する",
+          "charaIds": "13703",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1772",
+          "effectIdx2": "1771",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
         }
 ]

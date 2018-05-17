@@ -16677,6 +16677,78 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "1889",
+          "abilityName": "Unparalleled Wood User",
+          "abilityDescription": "Maximum Chakra +100, Chakra Recovery +10% and Immune to Cancel",
+          "abilityEffectDescription": "Maximum Chakra +100, Chakra Recovery +10% and Immune to Cancel",
+          "effectIdx1": "813",
+          "effectIdx2": "1767",
+          "effectIdx3": "1751"
+        },
+        {
+          "abilityId": "1890",
+          "abilityName": "Will to Protect the Village",
+          "abilityDescription": "Maximum HP +100%, ATK and Skill Damage +120%",
+          "abilityEffectDescription": "Maximum HP +100%, ATK and Skill Damage +120%",
+          "effectIdx1": "684",
+          "effectIdx2": "736",
+          "effectIdx3": "30011"
+        },
+        {
+          "abilityId": "1891",
+          "abilityName": "Unparalleled Wood User",
+          "abilityDescription": "Maximum Chakra +200, Chakra Recovery +20% and Immune to Cancel",
+          "abilityEffectDescription": "Maximum Chakra +200, Chakra Recovery +20% and Immune to Cancel",
+          "effectIdx1": "20019",
+          "effectIdx2": "1768",
+          "effectIdx3": "1751"
+        },
+        {
+          "abilityId": "1892",
+          "abilityName": "Will to Protect the Village",
+          "abilityDescription": "Maximum HP +200%, ATK and Skill Damage +150%",
+          "abilityEffectDescription": "Maximum HP +200%, ATK and Skill Damage +150%",
+          "effectIdx1": "10100",
+          "effectIdx2": "1268",
+          "effectIdx3": "794"
+        },
+        {
+          "abilityId": "1893",
+          "abilityName": "Endless Belligerence",
+          "abilityDescription": "Maximum Chakra +100, Chakra Recovery +10% and Immune to Cancel",
+          "abilityEffectDescription": "Maximum Chakra +100, Chakra Recovery +10% and Immune to Cancel",
+          "effectIdx1": "813",
+          "effectIdx2": "1767",
+          "effectIdx3": "1751"
+        },
+        {
+          "abilityId": "1894",
+          "abilityName": "Eyes that Controlled the Kyubi",
+          "abilityDescription": "Maximum HP +100%, ATK and Skill Damage +120%",
+          "abilityEffectDescription": "Maximum HP +100%, ATK and Skill Damage +120%",
+          "effectIdx1": "684",
+          "effectIdx2": "736",
+          "effectIdx3": "30011"
+        },
+        {
+          "abilityId": "1895",
+          "abilityName": "Endless Belligerence",
+          "abilityDescription": "Maximum Chakra +200, Chakra Recovery +20% and Immune to Cancel",
+          "abilityEffectDescription": "Maximum Chakra +200, Chakra Recovery +20% and Immune to Cancel",
+          "effectIdx1": "20019",
+          "effectIdx2": "1768",
+          "effectIdx3": "1751"
+        },
+        {
+          "abilityId": "1896",
+          "abilityName": "Eyes that Controlled the Kyubi",
+          "abilityDescription": "Maximum HP +200%, ATK and Skill Damage +150%",
+          "abilityEffectDescription": "Maximum HP +200%, ATK and Skill Damage +150%",
+          "effectIdx1": "10100",
+          "effectIdx2": "1268",
+          "effectIdx3": "794"
+        },
+        {
           "abilityId": "1901",
           "abilityName": "One Eye Swordsman",
           "abilityDescription": "Maximum HP and ATK +80%",

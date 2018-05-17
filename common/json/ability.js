@@ -1802,8 +1802,8 @@ window.ability=[
         {
           "abilityId": "201",
           "abilityName": "活殺自在",
-          "abilityDescription": "HP50％以上の時に攻撃力が70％アップ&amp;スキルダメージ半減",
-          "abilityEffectDescription": "HP50％以上の時に攻撃力が70％アップ&amp;スキルダメージ半減",
+          "abilityDescription": "HP50％以上の時に攻撃力が70％アップ＆スキルダメージ半減",
+          "abilityEffectDescription": "HP50％以上の時に攻撃力が70％アップ＆スキルダメージ半減",
           "effectIdx1": "449",
           "effectIdx2": "450",
           "effectIdx3": "0"
@@ -3341,8 +3341,8 @@ window.ability=[
         {
           "abilityId": "372",
           "abilityName": "揺るぎない忍道",
-          "abilityDescription": "HP90％以上の時に時空間スキルのダメージが100％アップ&amp;チャクラ消費量が15％減少",
-          "abilityEffectDescription": "HP90％以上の時に時空間スキルのダメージが100％アップ&amp;チャクラ消費量が15％減少",
+          "abilityDescription": "HP90％以上の時に時空間スキルのダメージが100％アップ＆チャクラ消費量が15％減少",
+          "abilityEffectDescription": "HP90％以上の時に時空間スキルのダメージが100％アップ＆チャクラ消費量が15％減少",
           "effectIdx1": "505",
           "effectIdx2": "506",
           "effectIdx3": "0"
@@ -7247,8 +7247,8 @@ window.ability=[
         {
           "abilityId": "806",
           "abilityName": "穢土転生体",
-          "abilityDescription": "HPが50%以上の時、チャクラ消費量30%ダウン&amp;行動後チャクラが10%回復する",
-          "abilityEffectDescription": "HPが50%以上の時、チャクラ消費量30%ダウン&amp;行動後チャクラが10%回復する",
+          "abilityDescription": "HPが50%以上の時、チャクラ消費量30%ダウン＆行動後チャクラが10%回復する",
+          "abilityEffectDescription": "HPが50%以上の時、チャクラ消費量30%ダウン＆行動後チャクラが10%回復する",
           "effectIdx1": "954",
           "effectIdx2": "955",
           "effectIdx3": "0"
@@ -7265,8 +7265,8 @@ window.ability=[
         {
           "abilityId": "808",
           "abilityName": "穢土転生体",
-          "abilityDescription": "HPが50%以上の時、チャクラ消費量30%ダウン&amp;行動後チャクラが10%回復する",
-          "abilityEffectDescription": "HPが50%以上の時、チャクラ消費量30%ダウン&amp;行動後チャクラが10%回復する",
+          "abilityDescription": "HPが50%以上の時、チャクラ消費量30%ダウン＆行動後チャクラが10%回復する",
+          "abilityEffectDescription": "HPが50%以上の時、チャクラ消費量30%ダウン＆行動後チャクラが10%回復する",
           "effectIdx1": "954",
           "effectIdx2": "955",
           "effectIdx3": "0"
@@ -9209,8 +9209,8 @@ window.ability=[
         {
           "abilityId": "1024",
           "abilityName": "研鑽せし白眼",
-          "abilityDescription": "通常攻撃が回避されない&amp;バトル開始時チャクラ30%回復する",
-          "abilityEffectDescription": "通常攻撃が回避されない&amp;バトル開始時チャクラ30%回復する",
+          "abilityDescription": "通常攻撃が回避されない＆バトル開始時チャクラ30%回復する",
+          "abilityEffectDescription": "通常攻撃が回避されない＆バトル開始時チャクラ30%回復する",
           "effectIdx1": "30",
           "effectIdx2": "1114",
           "effectIdx3": "0"
@@ -11396,8 +11396,8 @@ window.ability=[
         {
           "abilityId": "1267",
           "abilityName": "穢土転生体",
-          "abilityDescription": "チャクラ消費量40%ダウン&amp;行動後チャクラが20%回復",
-          "abilityEffectDescription": "チャクラ消費量40%ダウン&amp;行動後チャクラが20%回復",
+          "abilityDescription": "チャクラ消費量40%ダウン＆行動後チャクラが20%回復",
+          "abilityEffectDescription": "チャクラ消費量40%ダウン＆行動後チャクラが20%回復",
           "effectIdx1": "1164",
           "effectIdx2": "583",
           "effectIdx3": "0"
@@ -11414,8 +11414,8 @@ window.ability=[
         {
           "abilityId": "1269",
           "abilityName": "穢土転生体",
-          "abilityDescription": "チャクラ消費量40%ダウン&amp;行動後チャクラが20%回復",
-          "abilityEffectDescription": "チャクラ消費量40%ダウン&amp;行動後チャクラが20%回復",
+          "abilityDescription": "チャクラ消費量40%ダウン＆行動後チャクラが20%回復",
+          "abilityEffectDescription": "チャクラ消費量40%ダウン＆行動後チャクラが20%回復",
           "effectIdx1": "1164",
           "effectIdx2": "583",
           "effectIdx3": "0"
@@ -16675,6 +16675,78 @@ window.ability=[
           "effectIdx1": "616",
           "effectIdx2": "30020",
           "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1889",
+          "abilityName": "無比なる木遁使い",
+          "abilityDescription": "最大チャクラ量を100アップ＆行動後チャクラが10%回復＆キャンセル無効",
+          "abilityEffectDescription": "最大チャクラ量を100アップ＆行動後チャクラが10%回復＆キャンセル無効",
+          "effectIdx1": "813",
+          "effectIdx2": "1767",
+          "effectIdx3": "1751"
+        },
+        {
+          "abilityId": "1890",
+          "abilityName": "里を守護する意志",
+          "abilityDescription": "最大HPが100%アップし、攻撃力とスキルダメージが120%アップする",
+          "abilityEffectDescription": "最大HPが100%アップし、攻撃力とスキルダメージが120%アップする",
+          "effectIdx1": "684",
+          "effectIdx2": "736",
+          "effectIdx3": "30011"
+        },
+        {
+          "abilityId": "1891",
+          "abilityName": "無比なる木遁使い",
+          "abilityDescription": "最大チャクラ量を200アップ＆行動後チャクラが20%回復＆キャンセル無効",
+          "abilityEffectDescription": "最大チャクラ量を200アップ＆行動後チャクラが20%回復＆キャンセル無効",
+          "effectIdx1": "20019",
+          "effectIdx2": "1768",
+          "effectIdx3": "1751"
+        },
+        {
+          "abilityId": "1892",
+          "abilityName": "里を守護する意志",
+          "abilityDescription": "最大HPが200%アップし、攻撃力とスキルダメージが150%アップする",
+          "abilityEffectDescription": "最大HPが200%アップし、攻撃力とスキルダメージが150%アップする",
+          "effectIdx1": "10100",
+          "effectIdx2": "1268",
+          "effectIdx3": "794"
+        },
+        {
+          "abilityId": "1893",
+          "abilityName": "尽きぬ闘争心",
+          "abilityDescription": "最大チャクラ量を100アップ＆行動後チャクラが10%回復＆キャンセル無効",
+          "abilityEffectDescription": "最大チャクラ量を100アップ＆行動後チャクラが10%回復＆キャンセル無効",
+          "effectIdx1": "813",
+          "effectIdx2": "1767",
+          "effectIdx3": "1751"
+        },
+        {
+          "abilityId": "1894",
+          "abilityName": "九尾を操る瞳力",
+          "abilityDescription": "最大HPが100%アップし、攻撃力とスキルダメージが120%アップする",
+          "abilityEffectDescription": "最大HPが100%アップし、攻撃力とスキルダメージが120%アップする",
+          "effectIdx1": "684",
+          "effectIdx2": "736",
+          "effectIdx3": "30011"
+        },
+        {
+          "abilityId": "1895",
+          "abilityName": "尽きぬ闘争心",
+          "abilityDescription": "最大チャクラ量を200アップ＆行動後チャクラが20%回復＆キャンセル無効",
+          "abilityEffectDescription": "最大チャクラ量を200アップ＆行動後チャクラが20%回復＆キャンセル無効",
+          "effectIdx1": "20019",
+          "effectIdx2": "1768",
+          "effectIdx3": "1751"
+        },
+        {
+          "abilityId": "1896",
+          "abilityName": "九尾を操る瞳力",
+          "abilityDescription": "最大HPが200%アップし、攻撃力とスキルダメージが150%アップする",
+          "abilityEffectDescription": "最大HPが200%アップし、攻撃力とスキルダメージが150%アップする",
+          "effectIdx1": "10100",
+          "effectIdx2": "1268",
+          "effectIdx3": "794"
         },
         {
           "abilityId": "1901",

@@ -1368,6 +1368,30 @@ window.vo=[
           "voiceDeath": "madara_gacha_tap_01"
         },
         {
+          "cardVoiceId": "115",
+          "cardId": "20040511",
+          "dirName": "hashirama",
+          "evolutionStep": "",
+          "voiceAppear": "hashirama_battle_02_01",
+          "voiceSkill1": "hashirama_skill_02_11",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "hashirama_win_02_01",
+          "voiceDeath": "hashirama_death_02_01"
+        },
+        {
+          "cardVoiceId": "116",
+          "cardId": "20040512",
+          "dirName": "madara",
+          "evolutionStep": "",
+          "voiceAppear": "madara_gacha_tap_03",
+          "voiceSkill1": "madara_battle_02_01",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "madara_attack_02_03",
+          "voiceDeath": "madara_menu_02"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",
