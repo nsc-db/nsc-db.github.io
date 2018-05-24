@@ -71966,7 +71966,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2028",
           "nameIdx": "2026",
-          "description": "自身の攻撃力とスキルダメージを100％アップし、スキル発動速度を2段階アップ。さらに味方全員を招雷状態にする。【特殊状態：招雷】雷遁タイプのスキルダメージが300％アップ、素早さが30％アップ",
+          "description": "Own ATK and Skill Damage +100%, Cast Speed +2. Grant 'Lightning Beckon' state to all allies. [Lightning Beckon: Lightning Skill Damage +300% SPD +30%]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -72002,7 +72002,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2031",
           "nameIdx": "45",
-          "description": "敵単体に攻撃力7%+20000のダメージを与え、敵の通常強化状態（攻撃力アップなど）を解除、高確率で封印状態にする。さらに自身が八咫鏡状態の時にダメージ7倍。",
+          "description": "Deal 7% + 20,000 to one enemy with a high chance to seal, and remove all buffs. Deal 7x more damage while under 'Yata Mirror' state.",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2031",
@@ -72038,7 +72038,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2032",
           "nameIdx": "2030",
-          "description": "自身の攻撃・防御・素早さが120％アップし、八咫鏡状態となる。【特殊状態：八咫鏡】耐性無視以外のスキルを全て無効化し、スキルダメージが120％アップ。",
+          "description": "Own ATK, DEF and SPD +120% and grant 'Yata Mirror' state. [Yata Mirror: Immune to all Skill damage except for Fixed Damage, Skill Damage +120%]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -74018,7 +74018,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2095",
           "nameIdx": "2095",
-          "description": "敵全体に攻撃力3%+10000のダメージを与え、敵の攻撃力と防御力アップを解除。自身を含む、生存している味方が多いほどダメージが上がり、5人で最大12倍。（助っ人含む）【必中スキル】",
+          "description": "Deal 3% + 10,000 to all enemies and remove the enemies' ATK and DEF buff. Deal more damage the more allies are alive. Max 12x when 5 allies are alive [Always Hits]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2095",
@@ -74054,7 +74054,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2096",
           "nameIdx": "2096",
-          "description": "味方全体の攻撃・防御・素早さが120％アップ、五大隠れ里所属の味方のチャクラを小回復し最大HPの10％回復する。",
+          "description": "All allies ATK, DEF and SPD +120%, recover a small amount of Chakra and 10% HP to character's from the Five Village",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -74090,7 +74090,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2097",
           "nameIdx": "2097",
-          "description": "敵単体に攻撃力7%+50000のダメージを与える。封牢状態の敵にダメージ4倍、無所属の相手にはダメージ1.5倍（合計6倍）。さらに確率で封牢状態にする【特殊状態：封牢】行動不能になり、行動するたびにダメージを受ける。",
+          "description": "Deal 7% + 50,000 to one enemy, with a Chance to put the enemy under 'Seal' Deal 4x more damage to enemies under 'Seal' state. Deal 1.5x more damage to None enemies (Max 6x) [Seal: Action is disabled and Continues to take damage]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2097",
@@ -74126,7 +74126,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2098",
           "nameIdx": "2098",
-          "description": "自身の素早さが120％アップし、生存している味方によって効果が追加される。味方に「うちはサスケ」がいるとスキルダメージが100％アップ、「春野サクラ」がいるとHPが50%回復、「はたけカカシ」がいるとスキル発動速度が3段階アップする（キャラの年代は問わず）。",
+          "description": "Own SPD +120%. Additional effect depending on alive allies, Skill Damage +100% when 'Sasuke Uchiha' is in the team, recover 50% HP when 'Sakura Haruno' is in the team, +3 Cast Speed when 'Kakashi Hatake' is in the team。",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -74162,7 +74162,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2099",
           "nameIdx": "2097",
-          "description": "敵単体に攻撃力7%+50000のダメージを与える。封牢状態の敵にダメージ4倍、無所属の相手にはダメージ1.5倍（合計6倍）。さらに確率で封牢状態にする【特殊状態：封牢】行動不能になり、行動するたびにダメージを受ける。",
+          "description": "Deal 7% + 50,000 to one enemy, with a Chance to put the enemy under 'Seal' Deal 4x more damage to enemies under 'Seal' state. Deal 1.5x more damage to None enemies (Max 6x) [Seal: Action is disabled and Continues to take damage]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2099",
@@ -74198,7 +74198,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2100",
           "nameIdx": "2100",
-          "description": "自身の攻撃力が100％アップ、生存している味方によって効果が追加される。味方に「うずまきナルト」がいるとスキルダメージが100％アップ、「春野サクラ」がいるとHPが50%回復、「はたけカカシ」がいるとスキル発動速度が3段階アップする（キャラの年代は問わず）。",
+          "description": "Own ATK +100%. Additional effect depending on alive allies, Skill Damage +100% when 'Naruto Uzumaki' is in the team, recover 50% HP when 'Sakura Haruno' is in the team, +3 Cast Speed when 'Kakashi Hatake' is in the team",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -74234,7 +74234,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2101",
           "nameIdx": "2101",
-          "description": "敵単体に攻撃力7%+20000のダメージを与え、味方の「うずまきナルト」か「うちはサスケ」のどちらかがいるとダメージ3倍（キャラの年代は問わず）。高確率で敵のスキル回避確率を0にする。",
+          "description": "Deal 7% + 20,000 to one enemy. Deal 3x more damage when theres and ally 'Sasuke Uchiha' or 'Naruto Uzumaki'. High Chance to set the enemies Skill Dodge rate to 0",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2101",
@@ -74270,7 +74270,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2102",
           "nameIdx": "2102",
-          "description": "味方全体の防御力を150％アップし、HPを30％回復、スキル回避状態（高確率）を付与する。",
+          "description": "All allies DEF +150%, recover 30% HP and grant a High Chance to Dodge Skills",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -74450,7 +74450,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2107",
           "nameIdx": "2107",
-          "description": "敵全体に攻撃力3%+30000のダメージを与える。敵が体・知属性の時にダメージ2倍。敵が体属性の場合さらに確率でスキルダメージ40％ダウン。知属性の場合さらに確率でスキル発動速度が1段階ダウンする。",
+          "description": "Deal 3% + 30,000 to all enemies. Deal 2x more damage to Body and Intellect Type enemies. Body Type enemies Skill Damage -40%. Intellect Type enemies Cast Speed -1",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2107",
@@ -74486,7 +74486,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2108",
           "nameIdx": "2108",
-          "description": "自身の攻撃・防御・スキルダメージが300％アップする。さらに自身を含む味方の心と技属性のキャラに全スキルダメージ半減状態を付与する。",
+          "description": "Own ATK, DEF and Skill Damage +300%. Incoming Skill Damage -50% to Ashura and ally Heart and Technique Type",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -74522,7 +74522,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2109",
           "nameIdx": "2107",
-          "description": "敵全体に攻撃力3%+80000のダメージを与える。敵が体・知属性の時にダメージ4倍。敵が体属性の場合さらに高確率でスキルダメージ80％ダウン。知属性の場合さらに高確率でスキル発動速度が2段階ダウンする。",
+          "description": "Deal 3% + 80,000 to all enemies. Deal 4x more damage to Body and Intellect Type enemies. Body Type enemies Skill Damage -80%. Intellect Type enemies Cast Speed -2",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2109",
@@ -74558,7 +74558,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2110",
           "nameIdx": "2108",
-          "description": "自身の攻撃・防御・スキルダメージが600％アップする。さらに自身を含む味方の心と技属性のキャラに全スキルダメージ無効状態を付与する。※耐性無視攻撃は無効化できない",
+          "description": "Own ATK, DEF and Skill Damage +600%. Ashura and ally Heart and Technique Type are Immune to Skill Damage (Except for Fixed Damage)",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -74594,7 +74594,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2111",
           "nameIdx": "2111",
-          "description": "敵全体に攻撃力3%+30000のダメージを与える。敵が心・勇属性の時にダメージ2倍。心属性の場合さらに確率でスキルダメージ40％ダウン。勇属性の場合さらに確率でスキル発動速度が1段階ダウンする。",
+          "description": "Deal 3% + 30,000 to all enemies. Deal 2x more damage to Heart and Courage Type enemies. Heart Type enemies Skill Damage -40%. Courage Type enemies Cast Speed -1",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2111",
@@ -74630,7 +74630,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2112",
           "nameIdx": "2112",
-          "description": "自身の攻撃・防御・スキルダメージが300％アップする。さらに短い間、味方の体と技属性のキャラのスキル発動速度を1段階アップする。",
+          "description": "Own ATK, DEF and Skill Damage +300%. Cast Speed +1 to ally Body and Technique Type",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -74666,7 +74666,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2113",
           "nameIdx": "2111",
-          "description": "敵全体に攻撃力3%+80000のダメージを与える。敵が心・勇属性の時にダメージ4倍。心属性の場合さらに高確率でスキルダメージ80％ダウン。勇属性の場合さらに高確率でスキル発動速度が2段階ダウンする。",
+          "description": "Deal 3% + 80,000 to all enemies. Deal 4x more damage to Heart and Courage Type enemies. Heart Type enemies Skill Damage -80%. Courage Type enemies Cast Speed -2",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2113",
@@ -74702,7 +74702,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2114",
           "nameIdx": "2112",
-          "description": "自身の攻撃・防御・スキルダメージが600％アップする。さらに短い間、味方の体と技属性のキャラのスキル発動速度を2段階アップする。",
+          "description": "Own ATK, DEF and Skill Damage +600%. Cast Speed +2 to ally Body and Technique Type",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -74738,7 +74738,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2115",
           "nameIdx": "2115",
-          "description": "敵全体の防御力を30%無視して50倍の攻撃力で攻撃する。さらにうちは一族の敵に対しダメージ3倍。",
+          "description": "Deal 50x ATK damage to all enemies ignoring 30% DEF. Deal 3x more damage to Uchiha characters.",
           "categoryId": "1",
           "levelType": "1",
           "scriptId": "2115",
@@ -74774,7 +74774,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2116",
           "nameIdx": "2116",
-          "description": "自身の素早さを100%アップし、少しの間チャクラ消費量を0にする。さらに味方の全ての千手柱間、千手扉間、猿飛ヒルゼン、波風ミナトに対し歴代火影状態を付与する。【特殊状態：歴代火影】攻撃・素早さ・スキルダメージ200％アップ、全スキルダメージ半減",
+          "description": "Own SPD +100% and Chakra Cost becomes 0 and grant 'Previous Hokage' state to ally 'Hashirama Senju', 'Tobirama Senju', 'Hiruzen Sarutobi' and 'Minato Namikaze' [Previous Hokage: ATK, SPD and Skill Damage +200%. Incoming Skill Damage -50%]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "2116",
@@ -75458,7 +75458,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2135",
           "nameIdx": "2135",
-          "description": "敵全体に攻撃力3%+12000のダメージを与え、自身の残りHPが多いほどダメージが増加し最大10倍。高確率で花樹状態にし、さらに花樹状態の狙った敵の耐性を無視して、行動を1回無駄にする。【特殊状態：花樹】行動後にHPが減少（合計60％）し、行動後徐々に攻撃力と防御力もダウンしていく",
+          "description": "Deal 3% + 12,000 to all enemies, with a high chance to inflict 'Flower Tree' state, deal more damage the more HP Hashirama has, max 10x. This Skill ignore resistance to enemies under 'Flower Tree' state and skip their action. [Flower Tree: Reduce HP every turn (Max 60%) and gradually lower ATK and DEF]",
           "categoryId": "1",
           "levelType": "1",
           "scriptId": "2135",
@@ -75494,7 +75494,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2136",
           "nameIdx": "2136",
-          "description": "自身のスキルダメージが150％アップし、スキル発動速度1段階アップ。さらに全スキルダメージ無効状態となる。※耐性無視攻撃は除く",
+          "description": "Own Skill Damage +150%, Cast Speed +1 and Immune to all Skill Damage",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -75530,7 +75530,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2137",
           "nameIdx": "705",
-          "description": "敵単体に攻撃力7%+30000のダメージを与え、高確率で飛雷神マーキング状態にする。飛雷神マーキング状態の敵に対してダメージ7倍、さらに確率でスキル発動速度を2段階ダウンさせる。",
+          "description": "Deal 7% + 30,000 to one enemy, with a high chance to put a Flying Thunder God Marking, and a chance to lower the enemy's Cast Speed by 2. Deal 7x to enemies with a Flying Thunder God Marking",
           "categoryId": "1",
           "levelType": "1",
           "scriptId": "2137",
@@ -75566,7 +75566,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2138",
           "nameIdx": "2138",
-          "description": "自身の素早さとスキルダメージを150％アップし、チャクラが100％回復する。さらにチャクラ消費半減状態になる。",
+          "description": "Own SPD and Skill Damage +150%, Recover 100% of Chakra and reduce Chakra Cost by 50%",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -75602,7 +75602,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2139",
           "nameIdx": "2139",
-          "description": "敵全体に攻撃力3%+10000のダメージを与え、自身の残りHPが多いほどダメージが増加し最大10倍、千手柱間に対しダメージ1.5倍（合計15倍）。さらに高確率で敵を豪炎状態にする。【特殊状態：豪炎】行動後にHPが減少（合計30％）し、強化と弱体(チャクラ消費変化、スキルダメージ変化、会心率、会心力含む)を解除し無効化する",
+          "description": "Deal 3% + 10,000 to all enemies, with a high chance to inflict 'Great Fire' state. Deal more damage the more HP Madara has (Maximum 10x at full health). Deal 1.5x more damage to 'Hashirama Senju'. [Great Fire: Reduce HP after every action (Max 30%) remove and prevent the effects buff and Debuff (including Chakra Cost, Skill Damage, Crit Chance and Crit Damage change)]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2139",
@@ -75638,7 +75638,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2140",
           "nameIdx": "2140",
-          "description": "自身のスキルダメージが150％アップし、スキル発動速度1段階アップ。さらに高確率でスキルを回避する。",
+          "description": "Own Skill Damage +150%, Cast Speed +1 and grant a high chance to Dodge Skills",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -75674,7 +75674,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2141",
           "nameIdx": "2141",
-          "description": "敵単体に攻撃力7%+30000のダメージを与え、高確率で敵を焦熱状態にする。焦熱または豪炎状態の敵にダメージ4倍を与える。【特殊状態：焦熱】行動後にHPが減少（合計60％）し、火遁タイプが弱点になる※火遁が無効、半減、軽減の場合は除く",
+          "description": "Deal 7% + 30,000 to one enemy with a high chance to inflict 'Inferno' state. Deal 4x more damage under 'Inferno' or 'Great Fire' state. [Inferno: Reduce HP after every action (Max 60%), becomes weak to Fire (Weakness only occurs when they are neutral to fire)]",
           "categoryId": "1",
           "levelType": "1",
           "scriptId": "2141",
@@ -75710,7 +75710,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2142",
           "nameIdx": "2142",
-          "description": "自身の攻撃力とスキルダメージを150％アップし、チャクラが100％回復する。さらにスキル発動速度が1段階アップする。",
+          "description": "Own ATK and Skill Damage +150%, Cast Speed +1, recover 100% Chakra.",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -75746,7 +75746,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2143",
           "nameIdx": "245",
-          "description": "敵全体に攻撃力3％＋1000のダメージを15回与え、高確率で短い間致死毒状態にする。攻撃する対象はランダムとなる。【特殊状態：致死毒】行動後にHPが5％～60％減少する。減少する値はランダム。【必中スキル】",
+          "description": "Deal 15 hits dealing 3% + 1,000 per hits to random enemies with a high chance to inflict 'Fatal Poison' [Fatal Poison: Reduce HP by 5% - 60% per turn, HP reduction is random] (Always Hit)",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2143",
@@ -75782,7 +75782,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2144",
           "nameIdx": "2144",
-          "description": "自身の攻撃力と防御力とスキルダメージを120％アップし、状態異常を無効状態になる。",
+          "description": "Own ATK, DEF and Skill Damage +120%, and Immune to Status Effects",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -75818,7 +75818,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2145",
           "nameIdx": "2146",
-          "description": "自身の攻撃力が200％、通常攻撃会心率と会心力を5000％アップし集中状態になるが、低確率で混乱状態になる。【特殊状態：集中】行動するごとにチャクラ消費量ダウン、最大70％減少",
+          "description": "Own ATK +200% and Crit Chance and Crit Damage +5,000%. Grant 'Concentration' state and has a low chance to Confuse himself. [Concentration: Chakra Cost is reduced every turn. Max 70%]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "2145",
@@ -75854,7 +75854,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2146",
           "nameIdx": "2145",
-          "description": "敵単体に攻撃力7%+30000のダメージを与え、敵が攻撃・防御・素早さがいずれかアップの場合ダメージ5倍。さらに高確率で敵の特殊状態「仙人モード」と「仙術チャクラ集中状態」を解除する。",
+          "description": "Deal 3% + 30,000 to one enemy with a high chance to Cancel the enemies 'Sage Mode' and 'Sage Chakra Concentration'. Deal 5x more damage to enemies with their ATK, DEF and/or SPD buffed",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2146",
@@ -76394,7 +76394,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2161",
           "nameIdx": "388",
-          "description": "敵単体の防御力を50%無視して40倍の攻撃力で攻撃する。自身が開状態の時ダメージ3倍。",
+          "description": "Deal 40x ATK damage to one enemy ignoring 50% DEF. Deal 3x more damage while under 'Open' state.",
           "categoryId": "1",
           "levelType": "1",
           "scriptId": "2161",
@@ -76430,7 +76430,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2162",
           "nameIdx": "2161",
-          "description": "自身の通常攻撃回避率が200%アップ、スキル回避状態（中確率）と開状態と拳状態になる。【特殊状態：開】攻撃力が200％アップする。【特殊状態：拳】通常攻撃が常に会心、ダメージアップ。さらにダメージを受けた時HPが15%回復する。",
+          "description": "Normal Attack Dodge Rate +200%, grant a medium chance to Dodge Skills, 'Open' and 'Fist' state. [Open: ATK +200%] [Fist: Normal Attack always Crit and increase damage. Recover 15% HP when attacked]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -76466,7 +76466,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2163",
           "nameIdx": "2163",
-          "description": "敵単体の防御力を30%無視して4倍の攻撃力で攻撃、自身が開状態の時ダメージ25倍。スキル発動後、自身のHPが最大HPの50％減少する。",
+          "description": "Deal 4x ATK damage to one enemy ignoring 30% DEF. Deal 25x more damage while under 'Open' state. HP -50%",
           "categoryId": "1",
           "levelType": "1",
           "scriptId": "2163",
@@ -76502,7 +76502,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2164",
           "nameIdx": "2164",
-          "description": "自身の攻撃力と素早さとスキルダメージを120％アップし、開状態となる。【特殊状態：開】攻撃力が250％アップする。",
+          "description": "Own ATK, SPD and Skill Damage +250% and grant 'Open' state. [Open: ATK +250%]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -76538,7 +76538,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2165",
           "nameIdx": "48",
-          "description": "敵全体に攻撃力3%+50000のダメージを与える。高確率で敵全体の行動をキャンセルし、低確率で封牢状態にする。【特殊状態：封牢】行動不能になり、行動するたびにダメージを受ける。",
+          "description": "Deal 3% + 50,000 to all enemies with a high chance to Cancel actions and a low chance to inflict 'Seal' state. [Seal: Action is disabled and continues to take damage]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2165",
@@ -76574,7 +76574,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2166",
           "nameIdx": "2165",
-          "description": "自身の攻撃力を200％アップするが、自分以外の味方のHPが最大HPの50%減少する。さらに”暁”所属の味方のスキルダメージを200％アップさせHPを60％回復させる",
+          "description": "Own ATK +200%, reduce all allies HP by 50%. All Akatsuki allies Skill Damage +200% and recover 60% HP",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -76610,7 +76610,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2167",
           "nameIdx": "2166",
-          "description": "敵単体に耐性を無視して30000のダメージを与え、確率で会心が発生しダメージ6倍。さらに相手のチャクラを50減少させ、自身のチャクラを50％回復する※チャクラ減少は昇級試験のみ有効",
+          "description": "Deal 30,000 Fixed Damage with a chance to Crit dealing 6x more damage. Reduce the enemy's Chakra by 50% and recover own Chakra by 50%. [Chakra Reduction is only valid in PvP]",
           "categoryId": "1",
           "levelType": "2",
           "scriptId": "2167",
@@ -76646,7 +76646,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2168",
           "nameIdx": "2167",
-          "description": "自身のHPを超大回復する。さらに”暁”所属の味方の素早さとスキルダメージを100％アップさせ、チャクラを30％回復させる。",
+          "description": "Recover own HP by a tremendous amount. Akatsuki ally SPD and Skill Damage +100% and recover 30% Chakra",
           "categoryId": "2",
           "levelType": "8",
           "scriptId": "100004",
@@ -76682,7 +76682,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2169",
           "nameIdx": "2169",
-          "description": "敵全体に攻撃力3%＋50000のダメージを与える。敵にうちはサスケが1人でも生存しているとダメージ3倍。さらに敵のうちはサスケの行動を確率でキャンセルし、確率でスキル発動速度を1段階ダウンする。",
+          "description": "Deal 3% + 50,000 to all enemies. If 'Sasuke Uchiha' is one of the enemy, deal 3x more damage with a chance to Cancel action and/or lower Cast Speed by 1",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2169",
@@ -76718,7 +76718,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2170",
           "nameIdx": "2170",
-          "description": "自身の攻撃力と防御力とスキルダメージを300％アップ、生存している味方によって効果が追加される。体属性がいるとスキル発動速度1段階アップ、心属性がいると素早さ80％アップ。",
+          "description": "Own ATK, DEF and Skill Damage +300%. Additional effect depending on alive allies, Cast Speed +1 if there is a Body Type Character in the team, SPD +80% if there is a Heart Type Character in the team",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -76754,7 +76754,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2171",
           "nameIdx": "2169",
-          "description": "敵全体に攻撃力3%＋80000のダメージを与える。敵にうちはサスケが1人でも生存しているとダメージ5倍。さらに敵のうちはサスケの行動を高確率でキャンセルし、高確率でスキル発動速度を2段階ダウンする。",
+          "description": "Deal 3% + 80,000 to all enemies. If 'Sasuke Uchiha' is one of the enemy, deal 5x more damage with a high chance to Cancel action and/or lower Cast Speed by 2",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2171",
@@ -76790,7 +76790,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2172",
           "nameIdx": "2170",
-          "description": "自身の攻撃力と防御力とスキルダメージを500％アップ、生存している味方によって効果が追加される。体属性がいるとスキル発動速度2段階アップ、心属性がいると素早さ100％アップ。",
+          "description": "Own ATK, DEF and Skill Damage +500%. Additional effect depending on alive allies, Cast Speed +2 if there is a Body Type Character in the team, SPD +100% if there is a Heart Type Character in the team",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -76826,7 +76826,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2173",
           "nameIdx": "2173",
-          "description": "敵全体に攻撃力3%＋50000のダメージを与える。敵にうずまきナルトが1人でも生存しているとダメージ3倍。さらに敵のうずまきナルトの行動を確率でキャンセルし、確率でスキル発動速度を1段階ダウンする。",
+          "description": "Deal 3% + 50,000 to all enemies. If 'Naruto Uzumaki' is one of the enemy, deal 3x more damage with a chance to Cancel action and/or lower Cast Speed by 1",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2173",
@@ -76862,7 +76862,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2174",
           "nameIdx": "2174",
-          "description": "自身の攻撃力と防御力とスキルダメージを300％アップ、生存している味方によって効果が追加される。技属性がいるとスキル発動速度1段階アップ、心属性がいるとさらに素早さ80％アップ。",
+          "description": "Own ATK, DEF and Skill Damage +300%. Additional effect depending on alive allies, Cast Speed +1 if there is a Technique Type Character in the team, SPD +80% if there is a Heart Type Character in the team",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -76898,7 +76898,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2175",
           "nameIdx": "2173",
-          "description": "敵全体に攻撃力3%＋80000のダメージを与える。敵にうずまきナルトが1人でも生存しているとダメージ5倍。さらに敵のうずまきナルトの行動を高確率でキャンセルし、高確率でスキル発動速度を2段階ダウンする。",
+          "description": "Deal 3% + 80,000 to all enemies. If 'Naruto Uzumaki' is one of the enemy, deal 5x more damage with a high chance to Cancel action and/or lower Cast Speed by 2",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2175",
@@ -76934,7 +76934,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2176",
           "nameIdx": "2174",
-          "description": "自身の攻撃力と防御力とスキルダメージを500％アップ、生存している味方によって効果が追加される。技属性がいるとスキル発動速度2段階アップ、心属性がいるとさらに素早さ100％アップ。",
+          "description": "Own ATK, DEF and Skill Damage +500%. Additional effect depending on alive allies, Cast Speed +2 if there is a Technique Type Character in the team, SPD +100% if there is a Heart Type Character in the team",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -77186,7 +77186,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2183",
           "nameIdx": "979",
-          "description": "敵単体に耐性を無視して20000のダメージ、高確率で銷魂状態付与。自身が憎悪状態時ダメージ6倍【特殊状態：銷魂】スキルダメージと素早さが20％ダウン。銷魂状態の時に再び銷魂状態になるとカウント数が増加し、効果が追加。他のスキルによる銷魂状態も有効（最大カウント3）※持続時間は延長されない【必中スキル】",
+          "description": "Deal 20,000 Fixed Damage to one enemy with a high chance to inflict 'Misery' state. Deal 6x more damage while under 'Hatred' state. [Misery: Skill Damage and SPD -20%. This state can be stacked upto 3 times]",
           "categoryId": "1",
           "levelType": "2",
           "scriptId": "2183",
@@ -77222,7 +77222,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2184",
           "nameIdx": "2184",
-          "description": "自身の防御力と素早さを100％アップし、憎悪状態になる。【特殊状態：憎悪】行動後HPが15%減少するが、攻撃力とスキルダメージがアップし、最大4回で1800%アップ。",
+          "description": "Own DEF and SPD +100% and grant 'Hatred' state. [Hatred: Reduce HP by 15% after every action, ATK and Skill Damage +450% after every action. (Max 1800%)]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -77402,7 +77402,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2189",
           "nameIdx": "862",
-          "description": "敵全体に攻撃力3%+10000のダメージを与え、高確率で行動をキャンセルする。さらに敵が五大隠れ里所属の場合ダメージ6倍、敵が絶望状態の時ダメージ2倍。（合計12倍）",
+          "description": "Deal 3% + 10,000 to all enemies with a high chance to Cancel action. Deal 5x more damage to Five Village characters. Deal 2x more damage to characters under 'Despair' state.",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2189",
@@ -77438,7 +77438,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2190",
           "nameIdx": "2190",
-          "description": "高確率で敵全体の攻撃・防御・素早さを50%ダウンし絶望状態にする。さらに確率で敵が五大隠れ里所属の場合、敵のスキル発動速度を2段階ダウンする。【特殊状態：絶望】攻撃・防御・素早さアップ状態を解除し、確率で行動をキャンセルするようになる。",
+          "description": "High chance to lower all enemies' ATK, DEF and SPD by 50% and inflict 'Despair' state. If the enemies is from the Five Village, Cast Speed -2. [Despair: Remove all ATK, DEF and SPD buff, with a chance to Cancel action after turn]",
           "categoryId": "6",
           "levelType": "3",
           "scriptId": "100004",
@@ -77474,7 +77474,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2191",
           "nameIdx": "45",
-          "description": "敵単体に攻撃力7%+8000のダメージを与え、自身が鬼神状態の時ダメージ6倍。さらに自身のHPが60%以上でダメ―ジ2.5倍。（合計15倍）【必中スキル】",
+          "description": "Deal 7% + 8,000 to one enemy, deal 6x more damage while under 'Demon' state. Deal 2.5x more damage when HP is above 60% (Max 15x) [Always Hits]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2191",
@@ -77510,7 +77510,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2192",
           "nameIdx": "2192",
-          "description": "自身の素早さを100%アップし鬼神状態にする。【特殊状態：鬼神】攻撃力とスキルダメージが200%アップ。さらに敵のスキルが、自身を狙ってダメージを発生させるスキルの場合、単体全体問わず全てのスキル自体のダメージを200%ダウン。ただし鬼神状態解除後にHPが40%減少する。※スキルダメージダウンは重複しない",
+          "description": "Own SPD +100% and grant 'Demon' state. [Demon: ATK and Skill Damage +200%, if Sasuke is a target of a Skill, reduce all enemies Skill Damage by 200% instead. HP -40% when state expires]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -77546,7 +77546,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2193",
           "nameIdx": "50",
-          "description": "敵全体に攻撃力3%+120000のダメージ、それぞれ高確率で炎上・黒炎・漆黒状態。【特殊状態：炎上】炎上による持続ダメージを与える。【特殊状態：黒炎】確率で素早さを20%ダウンし、黒炎による持続ダメージを与える。【特殊状態：漆黒】漆黒の炎で持続ダメージを与え、行動するたびに確率で攻撃力と素早さを20%ダウンさせる。",
+          "description": "Deal 3% + 100,000 to all enemies with a high chance to place the enemies under 'Burn', 'Black Flames' and/or 'Jet Black' state. [Burn: Inflict damage every turn], [Black Flames: Inflict damage every turn and reduce SPD by 20%] [Jet Black: Inflict damage every turn and a chance to reduce ATK and SPD by 20% after every action]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2193",
@@ -77582,7 +77582,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2194",
           "nameIdx": "102",
-          "description": "敵単体に耐性を無視して500,000のダメージを与える【必中スキル】",
+          "description": "Deal 500,000 Fixed Damage to one enemy [Always Hits]",
           "categoryId": "1",
           "levelType": "2",
           "scriptId": "2194",
@@ -77618,7 +77618,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2195",
           "nameIdx": "2195",
-          "description": "敵全体に攻撃力3%+10000のダメージを与え、高確率で炎上状態にする。生存している無所属の味方が多いほどダメージが上がり最大10倍。生存している五大隠れ里所属の敵が多いほどダメージが上がり最大2倍。（合計20倍）",
+          "description": "Deal 3% + 10,000 to all enemies with a high chance to Burn. Deal more damange the more None Character in the team and Five Village Character enemies. Max 10x for None allies and max 2x for Five Village enemies (Max 20x)",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2195",
@@ -77654,7 +77654,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2196",
           "nameIdx": "2196",
-          "description": "自身の素早さが100%アップ。さらに敵味方全体に千手柱間が1人生存しているとスキルダメージが200％アップしスキル発動速度2段階アップ、HP100%回復。",
+          "description": "Own SPD +100%, if one of the enemy is 'Hashirama Senju', Skill Damage +200% and Cast Speed +2, recover 100% HP",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -77690,7 +77690,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2197",
           "nameIdx": "2197",
-          "description": "敵単体に攻撃力7%+15000のダメージを与える。自身のHPが多いほどダメージがアップし最大10倍。さらにスキル発動後に味方全体を長い間スキル回避状態（高確率）にする。",
+          "description": "Deal 7% + 15,000 to one enemy, deal more damage the more HP Hashirama has, max 10x. Grant all allies a high chance to Dodge Skills",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2197",
@@ -77726,7 +77726,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2198",
           "nameIdx": "2198",
-          "description": "敵単体の素早さを50％ダウン。さらに狙った敵がうちはマダラの場合、高確率で絶望状態にし、耐性を無視して行動を1回無駄にする。【特殊状態：絶望】攻撃・防御・素早さアップ状態を解除し、確率で行動をキャンセルするようになる。",
+          "description": "Chance to reduce target enemy SPD by 50%, If the target enemy is 'Madara Uchiha', high chance to place him in 'Despair' state, ignore resistance and Cancel his action once. [Despair: Remove ATK, DEF and SPD buff with a chance to Cancel action]",
           "categoryId": "6",
           "levelType": "3",
           "scriptId": "100004",
@@ -84443,6 +84443,78 @@ window.skill=[
           "unusual3": "0",
           "unusual3Param": "0",
           "statusTurn": "6",
+          "statusLot": "10000",
+          "status1": "3",
+          "status1Param": "20000",
+          "status2": "0",
+          "status2Param": "0",
+          "status3": "0",
+          "status3Param": "0",
+          "general1": "0",
+          "general1Param": "0",
+          "general2": "0",
+          "general2Param": "0"
+        },
+        {
+          "cardBattleSkillId": "2389",
+          "nameIdx": "2418",
+          "description": "Deal 7% + 15,000 to one enemy with a high chance to lower ATK and/or SPD by 50%, Seal and set Dodge Rate to 0. Deal 8x damage when own SPD is buffed. (Always Hit)",
+          "categoryId": "1",
+          "levelType": "7",
+          "scriptId": "2389",
+          "battleSkillCnt": "100",
+          "battleSkillLevelMax": "10",
+          "waitTime": "2",
+          "battleSkillType": "18",
+          "targetMode": "1",
+          "calcType": "2",
+          "calcValue": "15000",
+          "damageCap": "0",
+          "unusualTurn": "5",
+          "unusualLot": "7500",
+          "unusual1": "5",
+          "unusual1Param": "0",
+          "unusual2": "0",
+          "unusual2Param": "0",
+          "unusual3": "0",
+          "unusual3Param": "0",
+          "statusTurn": "4",
+          "statusLot": "7500",
+          "status1": "1",
+          "status1Param": "5000",
+          "status2": "3",
+          "status2Param": "5000",
+          "status3": "0",
+          "status3Param": "0",
+          "general1": "5",
+          "general1Param": "0",
+          "general2": "0",
+          "general2Param": "0"
+        },
+        {
+          "cardBattleSkillId": "2390",
+          "nameIdx": "2419",
+          "description": "All allies SPD +100%. Recover a tremendous amount of Chakra to Konoha allies. Grant 'Love' and 'Resist' state to ally 'Naruto Uzumaki'. [Love: ATK, SPD and Skill Damage +200%] [Resist: Remove and Immune to Debuffs, Status Effects and Genjutsu]",
+          "categoryId": "3",
+          "levelType": "3",
+          "scriptId": "100004",
+          "battleSkillCnt": "60",
+          "battleSkillLevelMax": "10",
+          "waitTime": "1",
+          "battleSkillType": "22",
+          "targetMode": "4",
+          "calcType": "0",
+          "calcValue": "0",
+          "damageCap": "0",
+          "unusualTurn": "0",
+          "unusualLot": "0",
+          "unusual1": "0",
+          "unusual1Param": "0",
+          "unusual2": "0",
+          "unusual2Param": "0",
+          "unusual3": "0",
+          "unusual3Param": "0",
+          "statusTurn": "4",
           "statusLot": "10000",
           "status1": "3",
           "status1Param": "20000",

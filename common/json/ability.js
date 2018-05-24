@@ -16749,6 +16749,24 @@ window.ability=[
           "effectIdx3": "794"
         },
         {
+          "abilityId": "1897",
+          "abilityName": "教師の矜持",
+          "abilityDescription": "チャクラが70％以上の時、攻撃力とスキルダメージが150%アップする",
+          "abilityEffectDescription": "チャクラが70％以上の時、攻撃力とスキルダメージが150%アップする",
+          "effectIdx1": "1776",
+          "effectIdx2": "33614",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1898",
+          "abilityName": "信頼の指導力",
+          "abilityDescription": "弱体を無効化し、行動後HPとチャクラを20%回復する",
+          "abilityEffectDescription": "弱体を無効化し、行動後HPとチャクラを20%回復する",
+          "effectIdx1": "1772",
+          "effectIdx2": "628",
+          "effectIdx3": "583"
+        },
+        {
           "abilityId": "1901",
           "abilityName": "隻眼の剣士",
           "abilityDescription": "最大HPと攻撃力が80％アップする",

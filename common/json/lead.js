@@ -9528,4 +9528,17 @@ window.lead=[
           "target2Category": "0",
           "target2Param": "0"
         },
+        {
+          "cardLeaderSkillId": "739",
+          "name": "心優しき指導者",
+          "description": "木ノ葉隠れの里所属の攻撃力と防御力と素早さを70%アップする",
+          "effectIdx1": "11069",
+          "effectIdx2": "12069",
+          "effectIdx3": "13069",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
 ]

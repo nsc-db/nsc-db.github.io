@@ -25035,7 +25035,7 @@ window.chara=[
           "cardId": "20030924",
           "modelId": "8",
           "charaType": "8",
-          "cardSubName": "夢の暁光",
+          "cardSubName": "Dreaming Light of Dawn",
           "cardInformation": "復讐の闇に囚われ、邪なる力にも身を委ねたサスケ。その悪の束縛から弟を解放することを、イタチは自身の最後の使命と悟ったのだろう…。 サスケを極限まで追い詰めることで蛇をあぶり出し、サスケを呪印の力から解放する。 ",
           "bookNo": "1",
           "rare": "5",
@@ -25071,7 +25071,7 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-10-31 18:11:42",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20031001",
@@ -25413,7 +25413,7 @@ window.chara=[
           "cardId": "20031011",
           "modelId": "524",
           "charaType": "1",
-          "cardSubName": "苦難を越えた絆",
+          "cardSubName": "Bonds Beyond Distress",
           "cardInformation": "幼き頃より火影を目指し、様々な出会いと別れを経験し強くなっていったナルト。ナルトが目指す火影とは、その道のりが険しいと分かっていても、先導を切って歩いていく者なのだ。",
           "bookNo": "1",
           "rare": "5",
@@ -25449,13 +25449,13 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-10-05 18:25:00",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20031012",
           "modelId": "524",
           "charaType": "1",
-          "cardSubName": "封印の刻・陽",
+          "cardSubName": "Engraving Seal ・ Yang",
           "cardInformation": "大筒木カグヤを止める為、第七班は最後の任務に挑む！ナルトとサスケの六道仙人より託されし力で、カグヤを封印する為、カカシから伝えられた作戦を遂行すべく最高のチームワークを見せる。",
           "bookNo": "1",
           "rare": "5",
@@ -25491,13 +25491,13 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-10-05 18:58:57",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20031013",
           "modelId": "543",
           "charaType": "1",
-          "cardSubName": "封印の刻・陰",
+          "cardSubName": "Engraving Seal ・ Yin",
           "cardInformation": "大筒木カグヤを止める為、第七班は最後の任務に挑む！ナルトとサスケの六道仙人より託されし力で、カグヤを封印する為、カカシから伝えられた作戦を遂行すべく最高のチームワークを見せる。",
           "bookNo": "1",
           "rare": "5",
@@ -25533,13 +25533,13 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-10-05 18:58:58",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20031014",
           "modelId": "623",
           "charaType": "1",
-          "cardSubName": "封印の刻・桜花",
+          "cardSubName": "Engraving Seal ・ Cherry Blossom",
           "cardInformation": "大筒木カグヤを止める為、第七班は最後の任務に挑む！ナルトとサスケの六道仙人より託されし力で、カグヤを封印する為、カカシから伝えられた作戦を遂行すべく最高のチームワークを見せる。",
           "bookNo": "1",
           "rare": "5",
@@ -25575,7 +25575,7 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-10-05 18:58:58",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20031015",
@@ -25623,7 +25623,7 @@ window.chara=[
           "cardId": "20031016",
           "modelId": "603",
           "charaType": "99",
-          "cardSubName": "仁愛の勇神",
+          "cardSubName": "Benevolent Brave God",
           "cardInformation": "大筒木ハゴロモの次子。父より忍宗を受け継ぎ、導く立場となった。己が研鑽と仲間との絆で、憎悪から闇に堕ちた兄、インドラに立ち向かう。",
           "bookNo": "1",
           "rare": "5",
@@ -25659,13 +25659,13 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-10-12 14:02:48",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20031017",
           "modelId": "604",
           "charaType": "99",
-          "cardSubName": "孤高の闘神",
+          "cardSubName": "Proud Battle God",
           "cardInformation": "忍宗の後継者に相応しき、圧倒的な力と自負を持っていたが、弟、アシュラが後継者に選ばれたことにより闇に堕ちてしまう。力こそが全てを可能たらしめる…その事実を自分を選ばなかった者達に知らしめる為、孤高の戦いに挑む。",
           "bookNo": "1",
           "rare": "5",
@@ -25701,13 +25701,13 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-10-12 14:02:49",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20031018",
           "modelId": "342",
           "charaType": "1",
-          "cardSubName": "捨てきれぬ夢",
+          "cardSubName": "Abandoned Dream",
           "cardInformation": "「忍の神」、「最強の忍」と謳われていた千手柱間。第四次忍界大戦、大蛇丸により再度穢土転生され、うちはサスケの問いに忍とは何なのかを語る。",
           "bookNo": "1",
           "rare": "5",
@@ -25743,7 +25743,7 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-10-10 17:46:58",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20031019",
@@ -25875,7 +25875,7 @@ window.chara=[
           "cardId": "20031102",
           "modelId": "18",
           "charaType": "1",
-          "cardSubName": "綻び始める運命",
+          "cardSubName": "Blooming Fate",
           "cardInformation": "木ノ葉隠れの里の初代火影で、森の千手一族の長。戦乱の時代に、最強と呼ばれたうちは一族と手を組み、木ノ葉隠れの里を創立する。",
           "bookNo": "1",
           "rare": "5",
@@ -25911,13 +25911,13 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-10-23 16:29:58",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20031103",
           "modelId": "19",
           "charaType": "1",
-          "cardSubName": "疾く駆ける刃",
+          "cardSubName": "Swift Blade Thrust",
           "cardInformation": "初代火影・柱間の弟で徹底した現実主義者。新しい忍術を考案するなど、ずば抜けた忍の才を見せるが、禁術となっている穢土転生の術など、里の為なら非情な手段をも辞さない一面を持つ。",
           "bookNo": "1",
           "rare": "5",
@@ -25953,13 +25953,13 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-10-26 18:03:10",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20031104",
           "modelId": "575",
           "charaType": "99",
-          "cardSubName": "哀しき決別",
+          "cardSubName": "Sorrowful Farewell",
           "cardInformation": "森の千手一族と手を組み、木ノ葉隠れの里を創立した、うちは一族の長。戦乱の忍界を戦い抜き、千手柱間と並び最強の忍と呼ばれる男。",
           "bookNo": "1",
           "rare": "5",
@@ -25995,13 +25995,13 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-10-23 22:57:21",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20031105",
           "modelId": "588",
           "charaType": "99",
-          "cardSubName": "昂然たる写輪",
+          "cardSubName": "Revolutionary Sharingan",
           "cardInformation": "うちはマダラの弟で、万華鏡写輪眼を開眼した、うちは一族でも稀有な忍。幼少の頃から、兄のマダラと競い合い力を高めていったが、千手一族との戦いの中、千手扉間の手によって致命傷を負う。",
           "bookNo": "1",
           "rare": "5",
@@ -26037,13 +26037,13 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-10-23 22:57:21",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20031106",
           "modelId": "102",
           "charaType": "1",
-          "cardSubName": "湯快爽快取材旅行",
+          "cardSubName": "Hot Spring Data Research Trip",
           "cardInformation": "齢五十を越えてもなお、精力盛んな自来也。酒、女性の色香も全てがエネルギーの源だ。本業？の執筆活動及び取材を続けながら、ナルトに修業をつけている。",
           "bookNo": "1",
           "rare": "5",
@@ -26079,13 +26079,13 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-10-31 21:24:55",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20031107",
           "modelId": "270",
           "charaType": "8",
-          "cardSubName": "心殺の操演者",
+          "cardSubName": "Honored Presenter of the Murdered Heart",
           "cardInformation": "赤砂のサソリと呼ばれた砂隠れの里の抜け忍で“暁”の一員。歴代の風影最強と謳われた三代目風影を屠り、人傀儡とする等、その実力は計り知れない。",
           "bookNo": "1",
           "rare": "5",
@@ -26121,7 +26121,7 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-10-31 21:24:56",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20031108",
@@ -26337,7 +26337,7 @@ window.chara=[
           "cardId": "20031113",
           "modelId": "541",
           "charaType": "1",
-          "cardSubName": "化鳥の連撃",
+          "cardSubName": "Consecutive Ominous Bird Attack",
           "cardInformation": "朝孔雀は、マイト・ガイが八門遁甲を六門まで開門して身体能力を飛躍的に高め、無数の拳で敵を打ち抜く体術だ。どこまでも速く打ち出される拳は、摩擦により炎が生じ、空を孔雀の尾羽の如く鮮やかに染めるのだ。",
           "bookNo": "1",
           "rare": "5",
@@ -26373,13 +26373,13 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-11-15 13:50:29",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20031114",
           "modelId": "338",
           "charaType": "1",
-          "cardSubName": "限界を超えた天才",
+          "cardSubName": "Limitless Genius",
           "cardInformation": "少年時代、八門遁甲を五門までしか開けることが出来なかったリー。努力の天才は遂にその壁を超える。",
           "bookNo": "1",
           "rare": "5",
@@ -26415,13 +26415,13 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-11-10 15:10:44",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20031115",
           "modelId": "46",
           "charaType": "8",
-          "cardSubName": "破壊の神",
+          "cardSubName": "God of Destruction",
           "cardInformation": "“暁”のリーダー、伝説の輪廻眼を持ち、圧倒的な実力を誇る忍だ。雨隠れの里で起こったとされる内乱の最中、忍界に勇名を馳せた里長の山椒魚の半蔵をペインは実質、単身で破ったと噂されている。",
           "bookNo": "1",
           "rare": "5",
@@ -26457,13 +26457,13 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-11-14 15:23:32",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20031116",
           "modelId": "257",
           "charaType": "8",
-          "cardSubName": "紙の天使",
+          "cardSubName": "Paper Angel",
           "cardInformation": "“暁”の統率者にして雨隠れの里の指導者であるペインの側に常に影のように仕える佳人。神であるペインからの命を告げる彼女を里の人々は「天使」と呼ぶ。",
           "bookNo": "1",
           "rare": "5",
@@ -26499,13 +26499,13 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-11-20 12:42:13",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20031201",
           "modelId": "524",
           "charaType": "1",
-          "cardSubName": "目指す未来",
+          "cardSubName": "Aiming for the Future",
           "cardInformation": "六道仙人の問いかけに、ナルトは仲間を守りたいと答えた。 サスケ、サクラ、カカシと共に大筒木カグヤを封印し、世界は救った。 あとは孤独へと向かう友を救うのみ…！！",
           "bookNo": "1",
           "rare": "5",
@@ -26541,13 +26541,13 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-11-27 13:09:42",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20031202",
           "modelId": "543",
           "charaType": "1",
-          "cardSubName": "消えぬ心奥の闇",
+          "cardSubName": "Disappearance of the Inner Darkness",
           "cardInformation": "サスケの言う革命とは、過去の過ち…里が抱える黒き闇を処理し、憎しみを己一人に集め、真っ白な未来を一から始めていくこと。 その為には、唯一の友を切り決別をしなくてはならない…。 そうしなければ…まだ、独りではないのだから。",
           "bookNo": "1",
           "rare": "5",
@@ -26583,7 +26583,7 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-11-28 10:43:19",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20031203",
@@ -26715,7 +26715,7 @@ window.chara=[
           "cardId": "20031206",
           "modelId": "523",
           "charaType": "99",
-          "cardSubName": "絶望を告げる力",
+          "cardSubName": "Power to Mark Despair",
           "cardInformation": "「お前はまだ戻れる…」かつての友・はたけカカシの訴えは、届かない。リンを救えなかった「偽物」の垂れる講釈が、オビトの胸に穿たれた絶望を塞ぐことは、決してない。忍の祖と同じ力を手にし、オビトは絶望と終わりを告げる。",
           "bookNo": "1",
           "rare": "5",
@@ -26751,7 +26751,7 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-12-04 21:15:36",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20031207",
@@ -26841,7 +26841,7 @@ window.chara=[
           "cardId": "20031209",
           "modelId": "530",
           "charaType": "99",
-          "cardSubName": "無限の月",
+          "cardSubName": "Infinite Moon",
           "cardInformation": "両眼の輪廻眼を回収し、六道の真の力を解放するマダラ。月の眼計画を遂行せんと最後の詰めへと入る。本当の夢への道はここに至るのだ。",
           "bookNo": "1",
           "rare": "5",
@@ -26877,13 +26877,13 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-12-25 13:11:56",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20031210",
           "modelId": "362",
           "charaType": "10",
-          "cardSubName": "紫炎を纏う鬼神",
+          "cardSubName": "Demon Cloaked in Purple",
           "cardInformation": "ダンゾウを手に掛けるため、鉄の国で開催された五影会議を襲撃したサスケ。五影とその従者からの攻撃に、第三の力\"須佐能乎\"で応える。",
           "bookNo": "1",
           "rare": "5",
@@ -26919,7 +26919,7 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-12-04 18:19:31",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20031211",
@@ -26961,13 +26961,13 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-12-19 12:26:53",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20031212",
           "modelId": "333",
           "charaType": "99",
-          "cardSubName": "吼え立てる強者",
+          "cardSubName": "Howl of Established Strength",
           "cardInformation": "かつての好敵手\"千手柱間\"と現世にて再会を果たしたうちはマダラ。混戦極まる戦場に、歓迎の咆哮が響き渡る。",
           "bookNo": "1",
           "rare": "5",
@@ -27003,13 +27003,13 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-12-01 16:21:11",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20031213",
           "modelId": "342",
           "charaType": "1",
-          "cardSubName": "噛み合わない猛者",
+          "cardSubName": "Disengage Warrior",
           "cardInformation": "第四次忍界大戦、戦場へと急行した柱間を待ち受けていたのは、かつての強敵、うちはマダラだった。待ちわびたと言う、マダラの叫びに柱間は応える。「お前は後！！」と…。",
           "bookNo": "1",
           "rare": "5",
@@ -27045,7 +27045,7 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-12-01 16:21:12",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20031214",
@@ -30615,6 +30615,48 @@ window.chara=[
           "createTime": "2018-04-26 11:14:37",
           "createUserId": "11",
           "updateTime": "2018-05-09 17:06:04",
+          "updateUserId": "11",
+          "translated": "1"
+        },
+        {
+          "cardId": "20040513",
+          "modelId": "33",
+          "charaType": "1",
+          "cardSubName": "Kind Hearted Mentor",
+          "cardInformation": "木ノ葉隠れの里の忍者学校で教師を務める忍。かつてうずまきナルトが孤独だった頃から、彼を弟のように想い見守っている。温厚な人柄と指導力で生徒たちから信頼される優れた指導者だ。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "3",
+          "attribute": "3",
+          "abilityId1": "1897",
+          "abilityId2": "1898",
+          "battleSkillId1": "2389",
+          "battleSkillId2": "2390",
+          "leaderSkillId": "739",
+          "runSkillId1": "0",
+          "hp": "5226",
+          "hpMax": "16724",
+          "attack": "4181",
+          "attackMax": "13380",
+          "attackBehaveNum": "0",
+          "defense": "5077",
+          "defenseMax": "16247",
+          "speed": "190",
+          "speedMax": "190",
+          "hitLot": "10000",
+          "avoidanceLot": "2150",
+          "criticalLot": "1550",
+          "criticalDamageLot": "15500",
+          "cost": "50",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "2502",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "0",
+          "createTime": "2018-04-26 11:14:37",
+          "createUserId": "11",
+          "updateTime": "2018-05-18 18:26:41",
           "updateUserId": "11",
           "translated": "1"
         },

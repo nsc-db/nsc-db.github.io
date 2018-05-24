@@ -9502,4 +9502,17 @@ window.lead=[
           "target2Category": "0",
           "target2Param": "0"
         },
+        {
+          "cardLeaderSkillId": "739",
+          "name": "心優しき指導者",
+          "description": "Konoha Characters ATK, DEF and SPD +70%",
+          "effectIdx1": "11069",
+          "effectIdx2": "12069",
+          "effectIdx3": "13069",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
 ]

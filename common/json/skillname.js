@@ -4943,6 +4943,14 @@ window.skillname=[
           "cardBattleSkillNameId": "2417",
           "name": "うちはの瞳力をなめるなよ"
         },
+         {
+          "cardBattleSkillNameId": "2418",
+          "name": "封縛法陣"
+        },
+        {
+          "cardBattleSkillNameId": "2419",
+          "name": "大切な生徒の一人だ"
+        },
         {
           "cardBattleSkillNameId": "2420",
           "name": "呪印・天雷"

@@ -217,7 +217,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "45",
           "name": "須佐能乎",
-          "eng": ""
+          "eng": "Susano'o"
         },
         {
           "cardBattleSkillNameId": "46",
@@ -242,7 +242,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "50",
           "name": "天照",
-          "eng": ""
+          "eng": "Amaterasu"
         },
         {
           "cardBattleSkillNameId": "51",
@@ -902,7 +902,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "245",
           "name": "砂鉄時雨",
-          "eng": ""
+          "eng": "Iron Sand: Scattered Showers"
         },
         {
           "cardBattleSkillNameId": "246",
@@ -1372,7 +1372,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "388",
           "name": "朝孔雀",
-          "eng": ""
+          "eng": "Asakujaku"
         },
         {
           "cardBattleSkillNameId": "389",
@@ -2387,7 +2387,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "705",
           "name": "飛雷神斬り",
-          "eng": ""
+          "eng": "Flying Raijin Strike"
         },
         {
           "cardBattleSkillNameId": "707",
@@ -2847,7 +2847,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "862",
           "name": "天隕破星",
-          "eng": ""
+          "eng": "Heavenly Planet Destruction"
         },
         {
           "cardBattleSkillNameId": "863",
@@ -3072,7 +3072,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "979",
           "name": "ぬのぼこの剣",
-          "eng": ""
+          "eng": "Sword of Nunoboko"
         },
         {
           "cardBattleSkillNameId": "983",
@@ -4562,7 +4562,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "1724",
           "name": "第六景門・開！！",
-          "eng": ""
+          "eng": "Sixth Gate: Gate of Joy, Open"
         },
         {
           "cardBattleSkillNameId": "1726",
@@ -5172,12 +5172,12 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "2026",
           "name": "さて…希望通り…再現しよう",
-          "eng": ""
+          "eng": "Now Then... It's Time to Turn My Vision From before Into Reality"
         },
         {
           "cardBattleSkillNameId": "2030",
           "name": "切り札を見せてやろう",
-          "eng": ""
+          "eng": "I Will Show You My Trump Card"
         },
         {
           "cardBattleSkillNameId": "2059",
@@ -5247,12 +5247,12 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "2095",
           "name": "連続尾獣玉",
-          "eng": ""
+          "eng": "Tailed Beast Bomb Barrage"
         },
         {
           "cardBattleSkillNameId": "2096",
           "name": "やろうぜ、九喇嘛！！",
-          "eng": ""
+          "eng": "Lets Do It, Kurama!!"
         },
         {
           "cardBattleSkillNameId": "2097",
@@ -5262,22 +5262,22 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "2098",
           "name": "よっしゃー！！！",
-          "eng": ""
+          "eng": "Alright!!!"
         },
         {
           "cardBattleSkillNameId": "2100",
           "name": "今だ！！",
-          "eng": ""
+          "eng": "Now!!"
         },
         {
           "cardBattleSkillNameId": "2101",
           "name": "しゃーんなろー！",
-          "eng": ""
+          "eng": "Shannaro!"
         },
         {
           "cardBattleSkillNameId": "2102",
           "name": "私だっているんだ！",
-          "eng": ""
+          "eng": "Don't Forget About Me"
         },
         {
           "cardBattleSkillNameId": "2104",
@@ -5287,32 +5287,32 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "2107",
           "name": "六道・国津守",
-          "eng": ""
+          "eng": "Six Paths: Protection of the Lands"
         },
         {
           "cardBattleSkillNameId": "2108",
           "name": "皆を救う力を…！！",
-          "eng": ""
+          "eng": "The Power to Rescue Everyone...!!"
         },
         {
           "cardBattleSkillNameId": "2111",
           "name": "根源・須佐能乎",
-          "eng": ""
+          "eng": "Origin: Susano'o"
         },
         {
           "cardBattleSkillNameId": "2112",
           "name": "力の前に散れ…！！",
-          "eng": ""
+          "eng": "Disappear In Front of Power!!"
         },
         {
           "cardBattleSkillNameId": "2115",
           "name": "木人・木拳の術",
-          "eng": ""
+          "eng": "Wood Golem: Wooden Fist Jutsu"
         },
         {
           "cardBattleSkillNameId": "2116",
           "name": "ズーン…",
-          "eng": ""
+          "eng": "'Depressed Sound Effect'"
         },
         {
           "cardBattleSkillNameId": "2117",
@@ -5347,52 +5347,52 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "2135",
           "name": "木遁・花樹界降臨",
-          "eng": ""
+          "eng": "Wood Style: Deep Forest Bloom"
         },
         {
           "cardBattleSkillNameId": "2136",
           "name": "もう…終わりにしようぞ",
-          "eng": ""
+          "eng": "Alright, Let's Finish This"
         },
         {
           "cardBattleSkillNameId": "2138",
           "name": "その隙、見逃しはしない",
-          "eng": ""
+          "eng": "I Will Not Miss that Opening"
         },
         {
           "cardBattleSkillNameId": "2139",
           "name": "うちは火炎凪",
-          "eng": ""
+          "eng": "Uchiha Flame Lull"
         },
         {
           "cardBattleSkillNameId": "2140",
           "name": "お前には見えないのさ！",
-          "eng": ""
+          "eng": "You Can't See It"
         },
         {
           "cardBattleSkillNameId": "2141",
           "name": "うちは炎刃・火憑",
-          "eng": ""
+          "eng": "Uchiha Fire Blade: Flame Possession"
         },
         {
           "cardBattleSkillNameId": "2142",
           "name": "見極めてやる！",
-          "eng": ""
+          "eng": "Determination"
         },
         {
           "cardBattleSkillNameId": "2144",
           "name": "手間かけさせんなよ",
-          "eng": ""
+          "eng": "Spare Me the Trouble"
         },
         {
           "cardBattleSkillNameId": "2145",
           "name": "口寄せ・ガマ忠",
-          "eng": ""
+          "eng": "Summoning: Gamachu"
         },
         {
           "cardBattleSkillNameId": "2146",
           "name": "煩悩百八魂",
-          "eng": ""
+          "eng": "108 Desired Soul"
         },
         {
           "cardBattleSkillNameId": "2147",
@@ -5447,47 +5447,47 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "2163",
           "name": "禁術・裏蓮華",
-          "eng": ""
+          "eng": "Forbidden Jutsu: Hidden Lotus"
         },
         {
           "cardBattleSkillNameId": "2164",
           "name": "修業が足りませんね",
-          "eng": ""
+          "eng": "Not Enough Practice"
         },
         {
           "cardBattleSkillNameId": "2165",
           "name": "痛みが成長させるのだ",
-          "eng": ""
+          "eng": "Growth of Pain"
         },
         {
           "cardBattleSkillNameId": "2166",
           "name": "天使の福音",
-          "eng": ""
+          "eng": "Angel Gospel"
         },
         {
           "cardBattleSkillNameId": "2167",
           "name": "神からの言葉よ",
-          "eng": ""
+          "eng": "The Words of God"
         },
         {
           "cardBattleSkillNameId": "2169",
           "name": "零距離尾獣玉",
-          "eng": ""
+          "eng": "Point Blank Tailed Beast Bomb"
         },
         {
           "cardBattleSkillNameId": "2170",
           "name": "お前をほっとかねー！",
-          "eng": ""
+          "eng": "I Won't Ignore You"
         },
         {
           "cardBattleSkillNameId": "2173",
           "name": "絶空・千鳥須佐能乎",
-          "eng": ""
+          "eng": "Wavedash: Chidori Susano'o"
         },
         {
           "cardBattleSkillNameId": "2174",
           "name": "憎しみはなくなりはしない",
-          "eng": ""
+          "eng": "Hatred Will Never Be Lost"
         },
         {
           "cardBattleSkillNameId": "2177",
@@ -5522,7 +5522,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "2184",
           "name": "この世界を消す…！",
-          "eng": ""
+          "eng": "Erasing this World!"
         },
         {
           "cardBattleSkillNameId": "2186",
@@ -5537,32 +5537,32 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "2190",
           "name": "せいぜい踊れ",
-          "eng": ""
+          "eng": "Utmost Dance"
         },
         {
           "cardBattleSkillNameId": "2192",
           "name": "繋がりを全て断つ！",
-          "eng": ""
+          "eng": "Suppressing All Connections"
         },
         {
           "cardBattleSkillNameId": "2195",
           "name": "火遁・豪火滅失",
-          "eng": ""
+          "eng": "Fire Style: Majestic Demolisher"
         },
         {
           "cardBattleSkillNameId": "2196",
           "name": "待っていたぞ柱間ァァ！！",
-          "eng": ""
+          "eng": "I've Been Waiting for You, Hashirama!!"
         },
         {
           "cardBattleSkillNameId": "2197",
           "name": "木分身の術",
-          "eng": ""
+          "eng": "Wood Clone Jutsu"
         },
         {
           "cardBattleSkillNameId": "2198",
           "name": "お前は後！",
-          "eng": ""
+          "eng": "I'll Deal With You Later!"
         },
         {
           "cardBattleSkillNameId": "2200",
@@ -6178,6 +6178,16 @@ window.skillname=[
           "cardBattleSkillNameId": "2417",
           "name": "うちはの瞳力をなめるなよ",
           "eng": "Don't Underestimate the Uchiha Eye"
+        },
+         {
+          "cardBattleSkillNameId": "2418",
+          "name": "封縛法陣",
+          "eng": "Array of Seals"
+        },
+        {
+          "cardBattleSkillNameId": "2419",
+          "name": "大切な生徒の一人だ",
+          "eng": "You Are My Important Students"
         },
         {
           "cardBattleSkillNameId": "2420",
