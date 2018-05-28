@@ -13968,6 +13968,22 @@ window.gear=[
           "recipeName": "勾玉の御守・真"
         },
         {
+          "crystalId": "10523",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "8",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "封印札",
+          "crystalDescription": "チャクラ消費量が20%減少する",
+          "crystalImageId": "105235",
+          "recipeId": "10523",
+          "recipeName": "封印札"
+        },
+        {
           "crystalId": "10525",
           "crystalType": "3",
           "crystalRare": "5",
@@ -14014,5 +14030,21 @@ window.gear=[
           "crystalImageId": "105275",
           "recipeId": "10527",
           "recipeName": "カカシの刀・雷切"
+        },
+        {
+          "crystalId": "10530",
+          "crystalType": "3",
+          "crystalRare": "5",
+          "effectIdx1": "10049",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "一楽にでもいくか",
+          "crystalDescription": "最大HPが50％アップする",
+          "crystalImageId": "8445",
+          "recipeId": "10530",
+          "recipeName": "一楽にでもいくか"
         }
 ]

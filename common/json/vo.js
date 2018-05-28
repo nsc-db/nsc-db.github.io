@@ -1392,6 +1392,42 @@ window.vo=[
           "voiceDeath": "madara_menu_02"
         },
         {
+          "cardVoiceId": "117",
+          "cardId": "20040513",
+          "dirName": "iruka",
+          "evolutionStep": "",
+          "voiceAppear": "iruka_battle_02_01",
+          "voiceSkill1": "iruka_skill_02_06",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "iruka_win_02_03",
+          "voiceDeath": "iruka_death_02_02"
+        },
+        {
+          "cardVoiceId": "118",
+          "cardId": "20040517",
+          "dirName": "naruto",
+          "evolutionStep": "",
+          "voiceAppear": "naruto_battle_02_12",
+          "voiceSkill1": "kakasi_skill_02_24,kurama_battle_02_03,naruto_skill_02_50,naruto_skill_02_51,naruto_skill_02_52,mix_skill_02_01,mix_skill_02_02,mix_skill_02_03,naruto_skill_02_49,kurama_skill_02_01,naruto_card_01",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "naruto_win_02_09,kurama_win_02_02",
+          "voiceDeath": "naruto_death_02_07,kurama_death_02_03"
+        },
+        {
+          "cardVoiceId": "119",
+          "cardId": "20040518",
+          "dirName": "kakasi",
+          "evolutionStep": "",
+          "voiceAppear": "kakasi_battle_02_17",
+          "voiceSkill1": "naruto_battle_02_01,kakasi_skill_02_19,kakasi_skill_02_26,kakasi_skill_02_27,mix_skill_02_01,mix_skill_02_02,mix_skill_02_03,kakasi_skill_02_20,kakasi_card_01",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "kakasi_win_02_04",
+          "voiceDeath": "kakasi_death_02_05"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

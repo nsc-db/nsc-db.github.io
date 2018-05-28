@@ -4380,6 +4380,30 @@ window.tags=[
           "rate": "-"
 },
 {
+          "cardId": "20040515",
+          "rare": "5",
+          "tag": "limited-6",
+          "rate": "-"
+},
+{
+          "cardId": "20040516",
+          "rare": "5",
+          "tag": "limited-6",
+          "rate": "-"
+},
+{
+          "cardId": "20040517",
+          "rare": "5",
+          "tag": "limited-6",
+          "rate": "-"
+},
+{
+          "cardId": "20040518",
+          "rare": "5",
+          "tag": "limited-6",
+          "rate": "-"
+},
+{
           "cardId": "20040519",
           "rare": "5",
           "tag": "event",
@@ -4391,5 +4415,16 @@ window.tags=[
           "tag": "event",
           "rate": "-"
 },
-
+{
+          "cardId": "20040524",
+          "rare": "5",
+          "tag": "event",
+          "rate": "-"
+},
+{
+          "cardId": "20040601",
+          "rare": "5",
+          "tag": "pmiles",
+          "rate": "-"
+},
 ]

@@ -467,7 +467,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "119",
           "name": "八卦空掌",
-          "eng": ""
+          "eng": "Eight Triagrams Air Palms"
         },
         {
           "cardBattleSkillNameId": "120",
@@ -747,7 +747,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "189",
           "name": "八卦掌回天",
-          "eng": ""
+          "eng": "Eight Triagrams Rotaion"
         },
         {
           "cardBattleSkillNameId": "190",
@@ -3732,7 +3732,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "1358",
           "name": "飛雷神・導雷",
-          "eng": ""
+          "eng": "Flying Thunder God: Guide Lightning"
         },
         {
           "cardBattleSkillNameId": "1367",
@@ -4547,7 +4547,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "1721",
           "name": "夕象",
-          "eng": ""
+          "eng": "Sekizo"
         },
         {
           "cardBattleSkillNameId": "1722",
@@ -5567,12 +5567,12 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "2200",
           "name": "目指すものは変わらない",
-          "eng": ""
+          "eng": "My Goal Will Not Change"
         },
         {
           "cardBattleSkillNameId": "2202",
           "name": "さぁ、やるわよ！",
-          "eng": ""
+          "eng": "Now, Lets Go!"
         },
         {
           "cardBattleSkillNameId": "2208",
@@ -5587,17 +5587,17 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "2213",
           "name": "神威雷切",
-          "eng": ""
+          "eng": "Kamui Raikiri"
         },
         {
           "cardBattleSkillNameId": "2214",
           "name": "これならどうだ",
-          "eng": ""
+          "eng": "Try This"
         },
         {
           "cardBattleSkillNameId": "2216",
           "name": "伍捉！！",
-          "eng": ""
+          "eng": "Five Steps!!"
         },
         {
           "cardBattleSkillNameId": "2217",
@@ -5637,82 +5637,82 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "2226",
           "name": "引力と斥力",
-          "eng": ""
+          "eng": "Repulsive Affinity"
         },
         {
           "cardBattleSkillNameId": "2229",
           "name": "一刀・風刃",
-          "eng": ""
+          "eng": "One Strike: Wind Blade"
         },
         {
           "cardBattleSkillNameId": "2230",
           "name": "これが……絆の力だ！！！",
-          "eng": ""
+          "eng": "This is the Power of Bonds!!"
         },
         {
           "cardBattleSkillNameId": "2231",
           "name": "狂爪乱舞",
-          "eng": ""
+          "eng": "Possessed Claw Dance"
         },
         {
           "cardBattleSkillNameId": "2232",
           "name": "ハハハァ…もっともっとだ！",
-          "eng": ""
+          "eng": "Hahaha.... Even More"
         },
         {
           "cardBattleSkillNameId": "2233",
           "name": "紫焔ノ鬼神",
-          "eng": ""
+          "eng": "God of Purple Flames"
         },
         {
           "cardBattleSkillNameId": "2234",
           "name": "愛など必要ない！",
-          "eng": ""
+          "eng": "Unecessary Love"
         },
         {
           "cardBattleSkillNameId": "2235",
           "name": "幻真虚刃",
-          "eng": ""
+          "eng": "True Sword Illusion"
         },
         {
           "cardBattleSkillNameId": "2236",
           "name": "そろそろ眠ってもらおう",
-          "eng": ""
+          "eng": "Sleep Soon"
         },
         {
           "cardBattleSkillNameId": "2237",
           "name": "水遁・水分身の術",
-          "eng": ""
+          "eng": "Water Style: Water Clone Jutsu"
         },
         {
           "cardBattleSkillNameId": "2238",
           "name": "さあァ！！始めましょうか！",
-          "eng": ""
+          "eng": "Now Then!! Let's Begin"
         },
         {
           "cardBattleSkillNameId": "2240",
           "name": "君らがメインだ！！",
-          "eng": ""
+          "eng": "You Guys are the Main"
         },
         {
           "cardBattleSkillNameId": "2241",
           "name": "連係戦術・風縫い",
-          "eng": ""
+          "eng": "Tag Team: Wind Sewing"
         },
         {
           "cardBattleSkillNameId": "2242",
           "name": "捨て駒になるつもりはねェ",
-          "eng": ""
+          "eng": "Sacrificial Plan"
         },
         {
           "cardBattleSkillNameId": "2243",
           "name": "連係戦術・影風",
-          "eng": ""
+          "eng": "Tag Team: Shadow Wind"
         },
         {
           "cardBattleSkillNameId": "2244",
           "name": "今度はもっとよく狙うんだな",
-          "eng": ""
+          "eng": "This Time, My Aim Will Be Better"
         },
         {
           "cardBattleSkillNameId": "2246",
@@ -5747,17 +5747,17 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "2255",
           "name": "飛雷神の術・連刃・終",
-          "eng": ""
+          "eng": "Flying Thunder God: Multiple Blade Finish"
         },
         {
           "cardBattleSkillNameId": "2257",
           "name": "飛翔・金剛封鎖",
-          "eng": ""
+          "eng": "Soaring Adamantine Sealing Chains"
         },
         {
           "cardBattleSkillNameId": "2258",
           "name": "一緒に行くってばね！！",
-          "eng": ""
+          "eng": "I Will Go With You!!"
         },
         {
           "cardBattleSkillNameId": "2259",
@@ -5782,7 +5782,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "2268",
           "name": "ギァア゛ア゛ア゛ゥ！！",
-          "eng": ""
+          "eng": "Gaaaaaaaa!!"
         },
         {
           "cardBattleSkillNameId": "2270",
@@ -6215,6 +6215,31 @@ window.skillname=[
           "eng": "Law is Absolute"
         },
         {
+          "cardBattleSkillNameId": "2425",
+          "name": "共闘・螺旋神威",
+          "eng": "Struggle Rasen Kamui"
+        },
+        {
+          "cardBattleSkillNameId": "2426",
+          "name": "オレが相手だコノヤロー！",
+          "eng": "I'm Your Opponent"
+        },
+        {
+          "cardBattleSkillNameId": "2427",
+          "name": "サスケのよりスゲー！！！",
+          "eng": "This is Better than Sasuke"
+        },
+        {
+          "cardBattleSkillNameId": "2429",
+          "name": "やはりいい能力だな",
+          "eng": "Excelent Ability"
+        },
+        {
+          "cardBattleSkillNameId": "2430",
+          "name": "オビト…ありがとう",
+          "eng": "Obito...Thank You"
+        },
+        {
           "cardBattleSkillNameId": "2431",
           "name": "オレヲナメルナヨ",
           "eng": "Orewonamerunayo"
@@ -6243,6 +6268,21 @@ window.skillname=[
           "cardBattleSkillNameId": "2436",
           "name": "逃さん！！",
           "eng": "Don't Run!!"
+        },
+        {
+          "cardBattleSkillNameId": "2437",
+          "name": "桜花昇",
+          "eng": "Cherry Blossom Rising"
+        },
+        {
+          "cardBattleSkillNameId": "2438",
+          "name": "私の戦い方は師匠ゆずりよ！",
+          "eng": "Master's Fighting Style"
+        },
+        {
+          "cardBattleSkillNameId": "2439",
+          "name": "相性が悪かったな",
+          "eng": "Poor Affinity"
         },
         {
           "cardBattleSkillNameId": "10136",

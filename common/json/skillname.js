@@ -4972,6 +4972,26 @@ window.skillname=[
           "name": "掟は絶対だ"
         },
         {
+          "cardBattleSkillNameId": "2425",
+          "name": "共闘・螺旋神威"
+        },
+        {
+          "cardBattleSkillNameId": "2426",
+          "name": "オレが相手だコノヤロー！"
+        },
+        {
+          "cardBattleSkillNameId": "2427",
+          "name": "サスケのよりスゲー！！！"
+        },
+        {
+          "cardBattleSkillNameId": "2429",
+          "name": "やはりいい能力だな"
+        },
+        {
+          "cardBattleSkillNameId": "2430",
+          "name": "オビト…ありがとう"
+        },
+        {
           "cardBattleSkillNameId": "2431",
           "name": "オレヲナメルナヨ"
         },
@@ -4994,6 +5014,18 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "2436",
           "name": "逃さん！！"
+        },
+        {
+          "cardBattleSkillNameId": "2437",
+          "name": "桜花昇"
+        },
+        {
+          "cardBattleSkillNameId": "2438",
+          "name": "私の戦い方は師匠ゆずりよ！"
+        },
+        {
+          "cardBattleSkillNameId": "2439",
+          "name": "相性が悪かったな"
         },
         {
           "cardBattleSkillNameId": "10136",

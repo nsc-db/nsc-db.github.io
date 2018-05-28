@@ -16785,6 +16785,78 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "1903",
+          "abilityName": "陽の六道",
+          "abilityDescription": "最大HPと攻撃力と防御力が100％アップする",
+          "abilityEffectDescription": "最大HPと攻撃力と防御力が100％アップする",
+          "effectIdx1": "684",
+          "effectIdx2": "11099",
+          "effectIdx3": "12099"
+        },
+        {
+          "abilityId": "1904",
+          "abilityName": "生き様への想い",
+          "abilityDescription": "スキルダメージが100％アップ、弱体と状態異常半減",
+          "abilityEffectDescription": "スキルダメージが100％アップ、弱体と状態異常半減",
+          "effectIdx1": "774",
+          "effectIdx2": "776",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1905",
+          "abilityName": "期限付きの瞳力",
+          "abilityDescription": "最大HPと攻撃力と防御力が100％アップする",
+          "abilityEffectDescription": "最大HPと攻撃力と防御力が100％アップする",
+          "effectIdx1": "684",
+          "effectIdx2": "11099",
+          "effectIdx3": "12099"
+        },
+        {
+          "abilityId": "1906",
+          "abilityName": "元第七班・隊長",
+          "abilityDescription": "スキルダメージが100％アップ、弱体と状態異常半減",
+          "abilityEffectDescription": "スキルダメージが100％アップ、弱体と状態異常半減",
+          "effectIdx1": "774",
+          "effectIdx2": "776",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1907",
+          "abilityName": "意志を継ぐ者",
+          "abilityDescription": "最大チャクラ量が50アップし、攻撃力と防御力が100％アップする",
+          "abilityEffectDescription": "最大チャクラ量が50アップし、攻撃力と防御力が100％アップする",
+          "effectIdx1": "20004",
+          "effectIdx2": "11099",
+          "effectIdx3": "12099"
+        },
+        {
+          "abilityId": "1908",
+          "abilityName": "最高の連係",
+          "abilityDescription": "スキルダメージが150％アップし、HP80％以上の時にスキル発動速度が1段階アップ",
+          "abilityEffectDescription": "スキルダメージが150％アップし、HP80％以上の時にスキル発動速度が1段階アップ",
+          "effectIdx1": "794",
+          "effectIdx2": "1391",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1909",
+          "abilityName": "託されし瞳力",
+          "abilityDescription": "最大チャクラ量が50アップし、攻撃力と防御力が100％アップする",
+          "abilityEffectDescription": "最大チャクラ量が50アップし、攻撃力と防御力が100％アップする",
+          "effectIdx1": "20004",
+          "effectIdx2": "11099",
+          "effectIdx3": "12099"
+        },
+        {
+          "abilityId": "1910",
+          "abilityName": "託されし想い",
+          "abilityDescription": "スキルダメージが150％アップし、HP80％以上の時にスキル発動速度が1段階アップ",
+          "abilityEffectDescription": "スキルダメージが150％アップし、HP80％以上の時にスキル発動速度が1段階アップ",
+          "effectIdx1": "794",
+          "effectIdx2": "1391",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "1911",
           "abilityName": "好奇心の白",
           "abilityDescription": "最大HPが70％アップする",
@@ -16800,6 +16872,42 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量が20アップする",
           "effectIdx1": "20001",
           "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1913",
+          "abilityName": "慈愛の心と攻撃性",
+          "abilityDescription": "HP50％以上で攻撃力100％アップ、HP50％以下でHP回復スキルの基礎回復量300％アップ",
+          "abilityEffectDescription": "HP50％以上で攻撃力100％アップ、HP50％以下でHP回復スキルの基礎回復量300％アップ",
+          "effectIdx1": "1781",
+          "effectIdx2": "1775",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1914",
+          "abilityName": "女心とキレ具合",
+          "abilityDescription": "行動後にチャクラが10％回復、HPが0以下になると1度だけ耐える",
+          "abilityEffectDescription": "行動後にチャクラが10％回復、HPが0以下になると1度だけ耐える",
+          "effectIdx1": "1767",
+          "effectIdx2": "312",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1915",
+          "abilityName": "忍の宿命の理解",
+          "abilityDescription": "最大HPと攻撃力が50％アップする",
+          "abilityEffectDescription": "最大HPと攻撃力が50％アップする",
+          "effectIdx1": "10049",
+          "effectIdx2": "11049",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1916",
+          "abilityName": "悠然とした佇まい",
+          "abilityDescription": "素早さが50％アップし、スキルを低確率で回避する",
+          "abilityEffectDescription": "素早さが50％アップし、スキルを低確率で回避する",
+          "effectIdx1": "13049",
+          "effectIdx2": "1785",
           "effectIdx3": "0"
         },
         {
@@ -17169,6 +17277,24 @@ window.ability=[
           "abilityEffectDescription": "最大チャクラ量が50アップし、行動後チャクラが10％回復する",
           "effectIdx1": "689",
           "effectIdx2": "528",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "100018",
+          "abilityName": "忍の宿命の理解",
+          "abilityDescription": "最大HPと攻撃力とスキルダメージが100％アップする",
+          "abilityEffectDescription": "最大HPと攻撃力とスキルダメージが100％アップする",
+          "effectIdx1": "684",
+          "effectIdx2": "11099",
+          "effectIdx3": "774"
+        },
+        {
+          "abilityId": "100019",
+          "abilityName": "悠然とした佇まい",
+          "abilityDescription": "素早さが80％アップし、スキルを確率で回避する",
+          "abilityEffectDescription": "素早さが80％アップし、スキルを確率で回避する",
+          "effectIdx1": "13079",
+          "effectIdx2": "734",
           "effectIdx3": "0"
         },
 ]
