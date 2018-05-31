@@ -28269,7 +28269,7 @@ window.chara=[
           "cardId": "20040205",
           "modelId": "333",
           "charaType": "99",
-          "cardSubName": "戦いの愉悦",
+          "cardSubName": "Ecstasy of Battle",
           "cardInformation": "忍界大戦中盤、カブトの“穢土転生”で現世に顕現した伝説の忍。初代火影\"千手柱間\"の手を焼かせた強大な力は連合軍を翻弄する。",
           "bookNo": "1",
           "rare": "5",
@@ -28305,7 +28305,7 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-02-01 18:57:19",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20040206",
@@ -28353,7 +28353,7 @@ window.chara=[
           "cardId": "20040207",
           "modelId": "499",
           "charaType": "99",
-          "cardSubName": "現世の絶望",
+          "cardSubName": "Present Day Despair",
           "cardInformation": "世界中の全ての人間に幻術をかけ、終わりなき夢の世界を渇望する仮面の男の正体。かつて、はたけカカシと班を組んでいた仲間思いの少年は、心を寄せた少女亡き世界に絶望し、その果てに第四次忍界大戦を引き起こす。",
           "bookNo": "1",
           "rare": "5",
@@ -28389,13 +28389,13 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-02-05 14:27:10",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "10"
         },
         {
           "cardId": "20040208",
           "modelId": "588",
           "charaType": "99",
-          "cardSubName": "うちは一族の双璧",
+          "cardSubName": "Uchiha Clan Second Representative",
           "cardInformation": "伝説の強者、うちはマダラの弟。マダラと修業を重ねる中で、兄と共に万華鏡写輪眼の開眼者となる。その実力でマダラを支え、うちは一族の名を世に知らしめた忍である。",
           "bookNo": "1",
           "rare": "5",
@@ -28431,13 +28431,13 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-02-05 14:27:10",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20040209",
           "modelId": "548",
           "charaType": "1",
-          "cardSubName": "熔熱込めし疾風刃",
+          "cardSubName": "Lava Infused Wind Blade",
           "cardInformation": "生死の狭間、精神世界においてハゴロモより六道の力を託されたナルト。持ち前の信念で困難を過去何度も乗り越えてきたナルトは、世界と築き上げてきた仲間たちとの絆を守るべく再びうちはマダラの前に立つ。",
           "bookNo": "1",
           "rare": "5",
@@ -28473,13 +28473,13 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-02-06 19:11:29",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20040210",
           "modelId": "543",
           "charaType": "1",
-          "cardSubName": "根源への輪廻",
+          "cardSubName": "Rinnegan Foundation",
           "cardInformation": "サスケは己が掲げた革命の為、それを止めようと立ち塞がるナルトと対峙する。互いの譲れない想いが交差する時、因縁の“終末の谷”で両者全力の戦いが始まる。世界の過ち、そして…自身の迷いを断ち斬らんがため。",
           "bookNo": "1",
           "rare": "5",
@@ -28515,13 +28515,13 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-02-06 19:11:29",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20040211",
           "modelId": "281",
           "charaType": "4",
-          "cardSubName": "魔笛葬曲",
+          "cardSubName": "Demon Flute Melody",
           "cardInformation": "音の四人衆北門の守護者。大蛇丸直近の一人で、四人衆の紅一点。笛の音で“怒鬼”を操り、その体内に封じられた物質化霊を解放することにより、終曲“魔境の乱”の宴が始まる。",
           "bookNo": "1",
           "rare": "5",
@@ -28557,13 +28557,13 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-02-08 20:36:32",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20040212",
           "modelId": "343",
           "charaType": "1",
-          "cardSubName": "禁術の真髄",
+          "cardSubName": "Spirit of the Forbidden Jutsu",
           "cardInformation": "二代目火影にして初代火影の実弟。死者を蘇生する禁術\"穢土転生\"考案者。忍界大戦にて穢土転生の\"本来の使い方\"を披露する。",
           "bookNo": "1",
           "rare": "5",
@@ -28599,7 +28599,7 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-02-13 20:01:57",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20040213",
@@ -28689,7 +28689,7 @@ window.chara=[
           "cardId": "20040302",
           "modelId": "565",
           "charaType": "1",
-          "cardSubName": "友との共闘",
+          "cardSubName": "Fight Alongside Allies",
           "cardInformation": "オビト散りゆく最期のひと時、彼から期限付きで譲り受けた両眼の万華鏡写輪眼。未来への想いがカカシに第三の力、須佐能乎を具現化させる。",
           "bookNo": "1",
           "rare": "5",
@@ -28725,13 +28725,13 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-02-21 21:35:58",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20040303",
           "modelId": "592",
           "charaType": "1",
-          "cardSubName": "身命賭して",
+          "cardSubName": "Own Life at Stake",
           "cardInformation": "医療忍術を極めし、初代火影・千手柱間の孫娘。綱手は医療忍者たちに支援に努めるよう掟を残しているが、百豪を極めし自身は掟を破棄し前線で戦えるものとしている。",
           "bookNo": "1",
           "rare": "5",
@@ -28767,13 +28767,13 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-02-17 20:56:15",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20040304",
           "modelId": "643",
           "charaType": "1",
-          "cardSubName": "修得せし百豪",
+          "cardSubName": "Acquisition of the Byakugo",
           "cardInformation": "五代目火影・綱手を師匠に持つ類まれなる医療忍術の才を持つサクラ。師より受け継がれし百豪の力が第四次忍界大戦の最中に解放された。溜め込まれたチャクラでナルト達と共に戦う。",
           "bookNo": "1",
           "rare": "5",
@@ -28809,13 +28809,13 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-02-17 20:56:16",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20040305",
           "modelId": "265",
           "charaType": "1",
-          "cardSubName": "可憐なる忍具使い",
+          "cardSubName": "Lovely Weapons",
           "cardInformation": "第三班所属の紅一点。個性派ぞろいの班において常識的であり、バランスをとる役目を果たしている。彼らと切磋琢磨して鍛えた忍具の扱い方は侮りがたく、連携攻撃の要の役割を担うことも…。",
           "bookNo": "1",
           "rare": "5",
@@ -28851,7 +28851,7 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-03-02 19:59:46",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20040306",
@@ -30996,5 +30996,46 @@ window.chara=[
           "updateUserId": "11",
           "translated": "1"
         },
-
+        {
+          "cardId": "20040602",
+          "modelId": "646",
+          "charaType": "1",
+          "cardSubName": "Right Hand Connected Future",
+          "cardInformation": "忍界の歴史と人々の心に触れて、尾獣たちとも絆を通わせたナルト。世界を救った英雄が次に求めるのは、唯一無二の友との本当の勝負と和解。闇に堕ちゆく友を救うため、決意を纏う風が終末の谷を駆ける。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "9",
+          "attribute": "1",
+          "abilityId1": "1917",
+          "abilityId2": "1918",
+          "battleSkillId1": "2421",
+          "battleSkillId2": "2422",
+          "leaderSkillId": "746",
+          "runSkillId1": "0",
+          "hp": "5232",
+          "hpMax": "16743",
+          "attack": "4858",
+          "attackMax": "15547",
+          "attackBehaveNum": "0",
+          "defense": "4858",
+          "defenseMax": "15547",
+          "speed": "178",
+          "speedMax": "178",
+          "hitLot": "10000",
+          "avoidanceLot": "1800",
+          "criticalLot": "1600",
+          "criticalDamageLot": "16300",
+          "cost": "40",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "111",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "0",
+          "createTime": "2018-05-24 19:08:30",
+          "createUserId": "11",
+          "updateTime": "2018-05-29 14:03:11",
+          "updateUserId": "11",
+          "translated": "1"
+        },
 ]

@@ -9619,4 +9619,17 @@ window.lead=[
           "target2Category": "0",
           "target2Param": "0"
         },
+        {
+          "cardLeaderSkillId": "746",
+          "name": "未来を繋ぐ右手",
+          "description": "木ノ葉隠れの里所属の最大HPと攻撃力を70%アップする",
+          "effectIdx1": "10069",
+          "effectIdx2": "11069",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
 ]

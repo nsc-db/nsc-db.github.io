@@ -16911,6 +16911,24 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "1917",
+          "abilityName": "繋ぎ止める意志",
+          "abilityDescription": "チャクラが50%以上の時、攻撃力と素早さとスキルダメージが100%アップ",
+          "abilityEffectDescription": "チャクラが50%以上の時、攻撃力と素早さとスキルダメージが100%アップ",
+          "effectIdx1": "869",
+          "effectIdx2": "33409",
+          "effectIdx3": "1787"
+        },
+        {
+          "abilityId": "1918",
+          "abilityName": "無二の友との絆",
+          "abilityDescription": "最大チャクラ量が50アップし、弱体と状態異常を無効化する",
+          "abilityEffectDescription": "最大チャクラ量が50アップし、弱体と状態異常を無効化する",
+          "effectIdx1": "689",
+          "effectIdx2": "1772",
+          "effectIdx3": "82"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

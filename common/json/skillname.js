@@ -5028,6 +5028,14 @@ window.skillname=[
           "name": "相性が悪かったな"
         },
         {
+          "cardBattleSkillNameId": "2440",
+          "name": "超大玉螺旋手裏剣"
+        },
+        {
+          "cardBattleSkillNameId": "2441",
+          "name": "切らせねェ"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },

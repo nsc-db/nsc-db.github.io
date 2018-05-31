@@ -1428,6 +1428,18 @@ window.vo=[
           "voiceDeath": "kakasi_death_02_05"
         },
         {
+          "cardVoiceId": "120",
+          "cardId": "20040602",
+          "dirName": "naruto",
+          "evolutionStep": "",
+          "voiceAppear": "naruto_pursuit_02_02",
+          "voiceSkill1": "naruto_battle_02_09,naruto_skill_02_28",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "naruto_win_02_06",
+          "voiceDeath": "naruto_death_02_07"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

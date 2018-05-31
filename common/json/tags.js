@@ -4427,4 +4427,10 @@ window.tags=[
           "tag": "pmiles",
           "rate": "-"
 },
+{
+          "cardId": "20040602",
+          "rare": "5",
+          "tag": "ex-6",
+          "rate": "-"
+},
 ]

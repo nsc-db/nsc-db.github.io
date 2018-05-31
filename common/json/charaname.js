@@ -140,6 +140,20 @@ window.charaname=[
           "gender": "1"
         },
         {
+          "charaProfileId": "111",
+          "charaId": "1",
+          "name": "うずまきナルト",
+          "detail": "疾風伝",
+          "charaLoveAffinityGroupId": "120",
+          "birthday": "1010",
+          "constellation": "7",
+          "height": "16600",
+          "weight": "5090",
+          "bloodType": "2",
+          "age": "17",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "201",
           "charaId": "2",
           "name": "うちはサスケ",

@@ -2692,7 +2692,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "811",
           "name": "火遁・爆風乱舞",
-          "eng": ""
+          "eng": "Fire Style: Bomb Blast Dance"
         },
         {
           "cardBattleSkillNameId": "812",
@@ -2852,7 +2852,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "863",
           "name": "終曲第九節・魔境の乱",
-          "eng": ""
+          "eng": "Ninth Passage: Demon Revolution"
         },
         {
           "cardBattleSkillNameId": "864",
@@ -3022,7 +3022,8 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "967",
           "name": "互乗起爆札",
-          "eng": ""
+          "eng": "Tandem Paper Bomb"
+
         },
         {
           "cardBattleSkillNameId": "968",
@@ -5777,7 +5778,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "2266",
           "name": "所詮は烏合の衆だ…",
-          "eng": ""
+          "eng": "After All, Its a Rabble of People"
         },
         {
           "cardBattleSkillNameId": "2268",
@@ -5792,47 +5793,47 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "2272",
           "name": "話すことなど何もない",
-          "eng": ""
+          "eng": "There is Nothing to Talk About"
         },
         {
           "cardBattleSkillNameId": "2273",
           "name": "万華鏡写輪眼",
-          "eng": ""
+          "eng": "Mangekyo Sharingan"
         },
         {
           "cardBattleSkillNameId": "2274",
           "name": "騙されるな…",
-          "eng": ""
+          "eng": "Don't Be Fooled..."
         },
         {
           "cardBattleSkillNameId": "2275",
           "name": "仙法・熔遁螺旋手裏剣",
-          "eng": ""
+          "eng": "Sage Style: Lava Style Rasen Shuriken"
         },
         {
           "cardBattleSkillNameId": "2276",
           "name": "全部を変えられそうだ",
-          "eng": ""
+          "eng": "Changing Everything"
         },
         {
           "cardBattleSkillNameId": "2277",
           "name": "炎遁・焔雷",
-          "eng": ""
+          "eng": "Inferno Style: Honoikazuchi"
         },
         {
           "cardBattleSkillNameId": "2278",
           "name": "勝利するのは必然…",
-          "eng": ""
+          "eng": "Inevitable Win"
         },
         {
           "cardBattleSkillNameId": "2280",
           "name": "今度はウチの番だ！！",
-          "eng": ""
+          "eng": "This Time, Its My Turn!"
         },
         {
           "cardBattleSkillNameId": "2282",
           "name": "前に気をとられたな",
-          "eng": ""
+          "eng": "Taken Before"
         },
         {
           "cardBattleSkillNameId": "2283",
@@ -5857,22 +5858,22 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "2290",
           "name": "神威須佐能乎・迅雷",
-          "eng": ""
+          "eng": "Kamui Susano'o: Thunderclap"
         },
         {
           "cardBattleSkillNameId": "2292",
           "name": "一緒に見ていてくれ",
-          "eng": ""
+          "eng": "Let's Watch Together"
         },
         {
           "cardBattleSkillNameId": "2294",
           "name": "百器繚乱の術",
-          "eng": ""
+          "eng": "Myrdiad of Vessel Jutsu"
         },
         {
           "cardBattleSkillNameId": "2296",
           "name": "少しは休憩しようよ！",
-          "eng": ""
+          "eng": "Let's Take a Small Break"
         },
         {
           "cardBattleSkillNameId": "2298",
@@ -5972,12 +5973,12 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "2335",
           "name": "二重百豪・口寄せ・カツユ",
-          "eng": ""
+          "eng": "Double Byakugo Summoning: Katsuyu"
         },
         {
           "cardBattleSkillNameId": "2338",
           "name": "ここは私にまかせて！",
-          "eng": ""
+          "eng": "Leave It To Me!"
         },
         {
           "cardBattleSkillNameId": "2340",
@@ -6283,6 +6284,16 @@ window.skillname=[
           "cardBattleSkillNameId": "2439",
           "name": "相性が悪かったな",
           "eng": "Poor Affinity"
+        },
+        {
+          "cardBattleSkillNameId": "2440",
+          "name": "超大玉螺旋手裏剣",
+          "eng": "Massive Rasen Shuriken"
+        },
+        {
+          "cardBattleSkillNameId": "2441",
+          "name": "切らせねェ",
+          "eng": "You Won't Get Rid of Me"
         },
         {
           "cardBattleSkillNameId": "10136",
