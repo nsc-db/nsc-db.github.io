@@ -9606,4 +9606,17 @@ window.lead=[
           "target2Category": "0",
           "target2Param": "0"
         },
+        {
+          "cardLeaderSkillId": "747",
+          "name": "過去を断つ左手",
+          "description": "Konoha Characters ATK and SPD +70%",
+          "effectIdx1": "11069",
+          "effectIdx2": "13069",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
 ]

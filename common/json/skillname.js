@@ -5036,6 +5036,14 @@ window.skillname=[
           "name": "切らせねェ"
         },
         {
+          "cardBattleSkillNameId": "2442",
+          "name": "豪火雷閃"
+        },
+        {
+          "cardBattleSkillNameId": "2443",
+          "name": "迷いは全てたち切り一新する"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },

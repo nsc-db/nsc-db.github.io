@@ -7330,5 +7330,41 @@ window.unique=[
           "effectIdx2": "1777",
           "effectIdx3": "0",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "623",
+          "targetCrystal": "10605",
+          "description": "最大チャクラ量が50アップ、消費チャクラが20%ダウン",
+          "charaIds": "207",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "689",
+          "effectIdx2": "8",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "624",
+          "targetCrystal": "10606",
+          "description": "全スキルダメージを120%アップし、高確率でスキルを回避する",
+          "charaIds": "207",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "30011",
+          "effectIdx2": "968",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "625",
+          "targetCrystal": "10607",
+          "description": "最大HPと攻撃力と素早さが120%アップ、1回行動するまで全スキル無効",
+          "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "300002,300003",
+          "effectIdx1": "1221",
+          "effectIdx2": "736",
+          "effectIdx3": "1335",
+          "effectIdx4": "1794"
         }
 ]

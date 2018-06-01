@@ -6296,6 +6296,16 @@ window.skillname=[
           "eng": "You Won't Get Rid of Me"
         },
         {
+          "cardBattleSkillNameId": "2442",
+          "name": "豪火雷閃",
+          "eng": "Burning Lightning Flash"
+        },
+        {
+          "cardBattleSkillNameId": "2443",
+          "name": "迷いは全てたち切り一新する",
+          "eng": "Hestitation Between Severing and Restoring"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！",
           "eng": ""

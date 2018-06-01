@@ -1440,6 +1440,18 @@ window.vo=[
           "voiceDeath": "naruto_death_02_07"
         },
         {
+          "cardVoiceId": "121",
+          "cardId": "20040603",
+          "dirName": "sasuke",
+          "evolutionStep": "",
+          "voiceAppear": "sasuke_battle_02_10",
+          "voiceSkill1": "sasuke_attack_02_03,sasuke_pursuit_02_06",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "sasuke_win_02_09",
+          "voiceDeath": "sasuke_death_02_09"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

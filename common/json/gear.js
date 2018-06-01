@@ -14110,5 +14110,53 @@ window.gear=[
           "crystalImageId": "106024",
           "recipeId": "10604",
           "recipeName": "陽光"
+        },
+        {
+          "crystalId": "10605",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "273",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "終末の谷の木ノ葉",
+          "crystalDescription": "消費チャクラが5%ダウン",
+          "crystalImageId": "106055",
+          "recipeId": "10605",
+          "recipeName": "終末の谷の木ノ葉"
+        },
+        {
+          "crystalId": "10606",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "662",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "革命の雷炎",
+          "crystalDescription": "全スキルダメージを20%アップする",
+          "crystalImageId": "106065",
+          "recipeId": "10606",
+          "recipeName": "革命の雷炎"
+        },
+        {
+          "crystalId": "10607",
+          "crystalType": "1",
+          "crystalRare": "5",
+          "effectIdx1": "10019",
+          "effectIdx2": "12019",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "和解の印",
+          "crystalDescription": "最大HPと防御力が20%アップ",
+          "crystalImageId": "106075",
+          "recipeId": "10607",
+          "recipeName": "和解の印"
         }
 ]

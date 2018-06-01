@@ -418,7 +418,7 @@
 								break;
 							}
 						}
-						var group = window.unique[y]['charaGroupIds'].split(",");
+						var group = window.unique[y]['charaGroupIds'];
 						for(var z in group){
 							if(group == "600000" && window.chara[x]['charaType'] == '8'){
 								ninguGroup.push(window.unique[y]);
@@ -435,7 +435,7 @@
 								}
 							}
 							if(group == "700001"){
-								if(window.chara[x]['charaProfileId'] == "110" || window.chara[x]['charaProfileId'] == "14001" ||　window.chara[x]['charaProfileId'] == "109" || window.chara[x]['charaProfileId'] == "50903"
+								if(window.chara[x]['charaProfileId'] == "110" || window.chara[x]['charaProfileId'] == "14001" ||　window.chara[x]['charaProfileId'] == "109" || window.chara[x]['charaProfileId'] == "50903" ||　window.chara[x]['charaProfileId'] == "111"
 								|| window.chara[x]['charaProfileId'] == "1202"	){
 									ninguGroup.push(window.unique[y]);
 									break;
@@ -463,6 +463,32 @@
 							if(group == "300001"){
 								if(window.chara[x]['charaProfileId'] == "1701" || window.chara[x]['charaProfileId'] == "1702" || window.chara[x]['charaProfileId'] == "1703" 
 								|| window.chara[x]['charaProfileId'] == "1704" || window.chara[x]['charaProfileId'] == "1706" ){
+									ninguGroup.push(window.unique[y]);
+									break;
+								}
+							}
+							if(group == "300002"){
+								if(window.chara[x]['charaProfileId'] == "101" || window.chara[x]['charaProfileId'] == "102" || window.chara[x]['charaProfileId'] == "103" || window.chara[x]['charaProfileId'] == "104" ||
+								window.chara[x]['charaProfileId'] == "105" ||	window.chara[x]['charaProfileId'] == "106" || window.chara[x]['charaProfileId'] == "107" || window.chara[x]['charaProfileId'] == "108" 
+								|| window.chara[x]['charaProfileId'] == "110" || window.chara[x]['charaProfileId'] == "111" ){
+									ninguGroup.push(window.unique[y]);
+									break;
+								}
+							}
+							if(group == "300003"){
+								if(window.chara[x]['charaProfileId'] == "201" || window.chara[x]['charaProfileId'] == "202" || window.chara[x]['charaProfileId'] == "203" || window.chara[x]['charaProfileId'] == "204" ||
+								window.chara[x]['charaProfileId'] == "205" ||	window.chara[x]['charaProfileId'] == "206" || window.chara[x]['charaProfileId'] == "207" || window.chara[x]['charaProfileId'] == "208" 
+								|| window.chara[x]['charaProfileId'] == "210" ){
+									ninguGroup.push(window.unique[y]);
+									break;
+								}
+							}
+							if(group == "300002,300003"){
+								if(window.chara[x]['charaProfileId'] == "101" || window.chara[x]['charaProfileId'] == "102" || window.chara[x]['charaProfileId'] == "103" || window.chara[x]['charaProfileId'] == "104" ||
+								window.chara[x]['charaProfileId'] == "105" ||	window.chara[x]['charaProfileId'] == "106" || window.chara[x]['charaProfileId'] == "107" || window.chara[x]['charaProfileId'] == "108" 
+								|| window.chara[x]['charaProfileId'] == "110" || window.chara[x]['charaProfileId'] == "111" || window.chara[x]['charaProfileId'] == "201" || window.chara[x]['charaProfileId'] == "202" || 
+								window.chara[x]['charaProfileId'] == "203" || window.chara[x]['charaProfileId'] == "204" || window.chara[x]['charaProfileId'] == "205" ||	window.chara[x]['charaProfileId'] == "206" ||
+								 window.chara[x]['charaProfileId'] == "207" || window.chara[x]['charaProfileId'] == "208" || window.chara[x]['charaProfileId'] == "210" ){
 									ninguGroup.push(window.unique[y]);
 									break;
 								}
