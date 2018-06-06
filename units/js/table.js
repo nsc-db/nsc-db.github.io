@@ -1,6 +1,6 @@
 $(document).ready( function () {
 			var table = $('#myTable').DataTable({
-				stateSave: true,
+				stateSave: false,
 				responsive: true,
 				"columnDefs": [
 			        {"className": "dt-left", "targets": [1]},

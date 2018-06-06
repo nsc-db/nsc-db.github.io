@@ -1842,7 +1842,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "525",
           "name": "赤秘技・百機の操演",
-          "eng": ""
+          "eng": "Secret Red Move: Performance of a Hundred Puppets"
         },
         {
           "cardBattleSkillNameId": "527",
@@ -1852,7 +1852,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "529",
           "name": "C3",
-          "eng": ""
+          "eng": "C3"
         },
         {
           "cardBattleSkillNameId": "530",
@@ -5878,57 +5878,57 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "2298",
           "name": "紙の天星",
-          "eng": ""
+          "eng": "Paper Devestation"
         },
         {
           "cardBattleSkillNameId": "2300",
           "name": "邪魔はさせない！",
-          "eng": ""
+          "eng": "I Won't Disturb"
         },
         {
           "cardBattleSkillNameId": "2302",
           "name": "六道・輪廻操引",
-          "eng": ""
+          "eng": "Six Paths: Rinnegan Horror"
         },
         {
           "cardBattleSkillNameId": "2304",
           "name": "三大瞳術の力",
-          "eng": ""
+          "eng": "Power of the Third Eye Jutsu"
         },
         {
           "cardBattleSkillNameId": "2306",
           "name": "水牢・鮫口寄せの術",
-          "eng": ""
+          "eng": "Water Style: Shark Summoning Jutsu"
         },
         {
           "cardBattleSkillNameId": "2308",
           "name": "いたぶってあげましょう",
-          "eng": ""
+          "eng": "Time to Torment"
         },
         {
           "cardBattleSkillNameId": "2310",
           "name": "別天神",
-          "eng": ""
+          "eng": "Kotoamatsukami"
         },
         {
           "cardBattleSkillNameId": "2312",
           "name": "うちはの名を守ってくれ",
-          "eng": ""
+          "eng": "Protecting the Uchiha Name"
         },
         {
           "cardBattleSkillNameId": "2314",
           "name": "次のは速いぜェ…うん",
-          "eng": ""
+          "eng": "The Next One Will Be Faster"
         },
         {
           "cardBattleSkillNameId": "2316",
           "name": "とくと見せてやる",
-          "eng": ""
+          "eng": "Full Reveal"
         },
         {
           "cardBattleSkillNameId": "2318",
           "name": "桜花桃撃波",
-          "eng": ""
+          "eng": "Cherry Blossom Shockwave"
         },
         {
           "cardBattleSkillNameId": "2322",
@@ -5943,7 +5943,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "2320",
           "name": "私だって一緒に強くなる！！",
-          "eng": ""
+          "eng": "I Will Get Even Stronger"
         },
         {
           "cardBattleSkillNameId": "2325",
@@ -6073,12 +6073,12 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "2378",
           "name": "口寄せ・妖獣跋扈",
-          "eng": ""
+          "eng": "Summoning: Beast Domination"
         },
         {
           "cardBattleSkillNameId": "2380",
           "name": "これが…オレの正義だからだ",
-          "eng": ""
+          "eng": "This... Is My Justice"
         },
         {
           "cardBattleSkillNameId": "2386",

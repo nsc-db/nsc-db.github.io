@@ -12,6 +12,63 @@ body{
 	display: none;
 }
 
+
+.slider {
+    -webkit-appearance: none;
+    width: 100%;
+    height: 15px;
+    border-radius: 5px;   
+    background: #d3d3d3;
+    outline: none;
+    opacity: 0.7;
+    -webkit-transition: .2s;
+    transition: opacity .2s;
+}
+
+.slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%; 
+    background: #56cde7;
+    cursor: pointer;
+}
+
+.slider::-moz-range-thumb {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background: #56cde7;
+    cursor: pointer;
+}
+
+#filter-target, #filter-cast, #filter-cost, #filter-damage{
+	padding: 10px;
+	display: inline-block;
+}
+
+#filter-nature{
+	padding: 15px;
+	display: inline-block;
+
+}
+
+#filter-nature .btn{
+	margin-left: 20px;
+	width: 150px;
+}
+
+.divider{
+	width: 1px;
+	padding: 15px;
+	display: inline-block;
+}
+#filter .list-group-item {
+  padding: 25px;
+  display: inline-block;
+}
+
 .base-header {
 	color: #323232;
 	overflow: hidden;
@@ -145,7 +202,7 @@ td a {
 	pointer-events: none;
 }
 
-td.affiliation[affiliation="Akatsuki" i] {
+td.affiliation[affiliation="“akatsuki”" i] {
 	width: 60px; height: 60px;
 	background-position: center;
 	background-size: 60px;
@@ -153,7 +210,7 @@ td.affiliation[affiliation="Akatsuki" i] {
 	background-image: url(../img/belong/akatsuki.png);
 }
 
-td.affiliation[affiliation="Ame" i] {
+td.affiliation[affiliation="ame" i] {
 	width: 60px; height: 60px;
 	background-position: center;
 	background-size: 60px;
@@ -161,7 +218,7 @@ td.affiliation[affiliation="Ame" i] {
 	background-image: url(../img/belong/ame.png);
 }
 
-td.affiliation[affiliation="Hebi" i] {
+td.affiliation[affiliation="“hebi”" i] {
 	width: 60px; height: 60px;
 	background-position: center;
 	background-size: 60px;
@@ -169,7 +226,7 @@ td.affiliation[affiliation="Hebi" i] {
 	background-image: url(../img/belong/hebi.png);
 }
 
-td.affiliation[affiliation="Iron" i] {
+td.affiliation[affiliation="iron" i] {
 	width: 60px; height: 60px;
 	background-position: center;
 	background-size: 60px;
@@ -177,7 +234,7 @@ td.affiliation[affiliation="Iron" i] {
 	background-image: url(../img/belong/iron.png);
 }
 
-td.affiliation[affiliation="Iwa" i] {
+td.affiliation[affiliation="iwa" i] {
 	width: 60px; height: 60px;
 	background-position: center;
 	background-size: 60px;
@@ -185,15 +242,15 @@ td.affiliation[affiliation="Iwa" i] {
 	background-image: url(../img/belong/iwa.png);
 }
 
-td.affiliation[affiliation="Kiri" i] {
+td.affiliation[affiliation="kiri" i] {
 	width: 60px; height: 60px;
 	background-position: center;
 	background-size: 60px;
 	background-repeat: no-repeat;
-	background-image: url(../img/belong/Kiri.png);
+	background-image: url(../img/belong/kiri.png);
 }
 
-td.affiliation[affiliation="Konoha" i] {
+td.affiliation[affiliation="konoha" i] {
 	width: 60px; height: 60px;
 	background-position: center;
 	background-size: 60px;
@@ -201,7 +258,7 @@ td.affiliation[affiliation="Konoha" i] {
 	background-image: url(../img/belong/konoha.png);
 }
 
-td.affiliation[affiliation="Kumo" i]  {
+td.affiliation[affiliation="kumo" i]  {
 	width: 60px; height: 60px;
 	background-position: center;
 	background-size: 60px;
@@ -209,7 +266,7 @@ td.affiliation[affiliation="Kumo" i]  {
 	background-image: url(../img/belong/kumo.png);
 }
 
-td.affiliation[affiliation="None" i] {
+td.affiliation[affiliation="none" i] {
 	width: 60px; height: 60px;
 	background-position: center;
 	background-size: 60px;
@@ -217,7 +274,7 @@ td.affiliation[affiliation="None" i] {
 	background-image: url(../img/belong/none.png);
 }
 
-td.affiliation[affiliation="Oto" i] {
+td.affiliation[affiliation="oto" i] {
 	width: 60px; height: 60px;
 	background-position: center;
 	background-size: 60px;
@@ -225,7 +282,7 @@ td.affiliation[affiliation="Oto" i] {
 	background-image: url(../img/belong/oto.png);
 }
 
-td.affiliation[affiliation="Suna" i] {
+td.affiliation[affiliation="suna" i] {
 	width: 60px; height: 60px;
 	background-position: center;
 	background-size: 60px;
@@ -233,7 +290,7 @@ td.affiliation[affiliation="Suna" i] {
 	background-image: url(../img/belong/suna.png);
 }
 
-td.affiliation[affiliation="Taka" i] {
+td.affiliation[affiliation="“taka”" i] {
 	width: 60px; height: 60px;
 	background-position: center;
 	background-size: 60px;
@@ -241,7 +298,7 @@ td.affiliation[affiliation="Taka" i] {
 	background-image: url(../img/belong/taka.png);
 }
 
-td.affiliation[affiliation="Taki" i] {
+td.affiliation[affiliation="taki" i] {
 	width: 60px; height: 60px;
 	background-position: center;
 	background-size: 60px;

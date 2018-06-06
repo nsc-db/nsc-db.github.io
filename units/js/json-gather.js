@@ -60,6 +60,7 @@
 		var nature = '';// Character Nature
 		var voiced = '';
 		var type_tag = '';
+
 		for(var i in window.chara){
 			var unit = window.chara[i];
 
@@ -432,14 +433,14 @@
 								if(window.chara[x]['charaProfileId'] == "201" || window.chara[x]['charaProfileId'] == "202" || window.chara[x]['charaProfileId'] == "203" || window.chara[x]['charaProfileId'] == "204" ||
 								window.chara[x]['charaProfileId'] == "205" ||	window.chara[x]['charaProfileId'] == "206" || window.chara[x]['charaProfileId'] == "207" || window.chara[x]['charaProfileId'] == "208" 
 								|| window.chara[x]['charaProfileId'] == "210" || window.chara[x]['charaProfileId'] == "4101" || window.chara[x]['charaProfileId'] == "4701" || window.chara[x]['charaProfileId'] == "11601" || window.chara[x]['charaProfileId'] == "11602" 
-								|| window.chara[x]['charaProfileId'] == "11603" || window.chara[x]['charaProfileId'] == "13701" || window.chara[x]['charaProfileId'] == "13702"  || window.chara[x]['charaProfileId'] == "13801" 
+								|| window.chara[x]['charaProfileId'] == "11603" || window.chara[x]['charaProfileId'] == "13701" || window.chara[x]['charaProfileId'] == "13702"  || window.chara[x]['charaProfileId'] == "13705"  || window.chara[x]['charaProfileId'] == "13801" 
 								|| window.chara[x]['charaProfileId'] == "50801" || window.chara[x]['charaProfileId'] == "50901" || window.chara[x]['charaProfileId'] == "50902" || window.chara[x]['charaProfileId'] == "50903" ){
 									ninguGroup.push(window.unique[y]);
 									break;
 								}
 							}
 							if(group == "700001"){
-								if(window.chara[x]['charaProfileId'] == "110" || window.chara[x]['charaProfileId'] == "14001" ||　window.chara[x]['charaProfileId'] == "109" || window.chara[x]['charaProfileId'] == "50903"
+								if(window.chara[x]['charaProfileId'] == "110" || window.chara[x]['charaProfileId'] == "14001" ||　window.chara[x]['charaProfileId'] == "109" || window.chara[x]['charaProfileId'] == "50903" ||　window.chara[x]['charaProfileId'] == "111"
 								|| window.chara[x]['charaProfileId'] == "1202"	){
 									ninguGroup.push(window.unique[y]);
 									break;
@@ -471,8 +472,35 @@
 									break;
 								}
 							}
+							if(group == "300002"){
+								if(window.chara[x]['charaProfileId'] == "101" || window.chara[x]['charaProfileId'] == "102" || window.chara[x]['charaProfileId'] == "103" || window.chara[x]['charaProfileId'] == "104" ||
+								window.chara[x]['charaProfileId'] == "105" ||	window.chara[x]['charaProfileId'] == "106" || window.chara[x]['charaProfileId'] == "107" || window.chara[x]['charaProfileId'] == "108" 
+								|| window.chara[x]['charaProfileId'] == "110" || window.chara[x]['charaProfileId'] == "111" ){
+									ninguGroup.push(window.unique[y]);
+									break;
+								}
+							}
+							if(group == "300003"){
+								if(window.chara[x]['charaProfileId'] == "201" || window.chara[x]['charaProfileId'] == "202" || window.chara[x]['charaProfileId'] == "203" || window.chara[x]['charaProfileId'] == "204" ||
+								window.chara[x]['charaProfileId'] == "205" ||	window.chara[x]['charaProfileId'] == "206" || window.chara[x]['charaProfileId'] == "207" || window.chara[x]['charaProfileId'] == "208" 
+								|| window.chara[x]['charaProfileId'] == "210" ){
+									ninguGroup.push(window.unique[y]);
+									break;
+								}
+							}
+							if(group == "300002,300003"){
+								if(window.chara[x]['charaProfileId'] == "101" || window.chara[x]['charaProfileId'] == "102" || window.chara[x]['charaProfileId'] == "103" || window.chara[x]['charaProfileId'] == "104" ||
+								window.chara[x]['charaProfileId'] == "105" ||	window.chara[x]['charaProfileId'] == "106" || window.chara[x]['charaProfileId'] == "107" || window.chara[x]['charaProfileId'] == "108" 
+								|| window.chara[x]['charaProfileId'] == "110" || window.chara[x]['charaProfileId'] == "111" || window.chara[x]['charaProfileId'] == "201" || window.chara[x]['charaProfileId'] == "202" || 
+								window.chara[x]['charaProfileId'] == "203" || window.chara[x]['charaProfileId'] == "204" || window.chara[x]['charaProfileId'] == "205" ||	window.chara[x]['charaProfileId'] == "206" ||
+								 window.chara[x]['charaProfileId'] == "207" || window.chara[x]['charaProfileId'] == "208" || window.chara[x]['charaProfileId'] == "210" ){
+									ninguGroup.push(window.unique[y]);
+									break;
+								}
+							}
 						}
 					}
+					
 					var gear = '';
 					for(var y in ninguCharaId){
 						for(var z in window.gear){

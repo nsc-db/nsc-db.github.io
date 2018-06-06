@@ -1802,8 +1802,8 @@ window.ability=[
         {
           "abilityId": "201",
           "abilityName": "活殺自在",
-          "abilityDescription": "HP50％以上の時に攻撃力が70％アップ＆スキルダメージ半減",
-          "abilityEffectDescription": "HP50％以上の時に攻撃力が70％アップ＆スキルダメージ半減",
+          "abilityDescription": "HP50％以上の時に攻撃力が70％アップ&amp;スキルダメージ半減",
+          "abilityEffectDescription": "HP50％以上の時に攻撃力が70％アップ&amp;スキルダメージ半減",
           "effectIdx1": "449",
           "effectIdx2": "450",
           "effectIdx3": "0"
@@ -3341,8 +3341,8 @@ window.ability=[
         {
           "abilityId": "372",
           "abilityName": "揺るぎない忍道",
-          "abilityDescription": "HP90％以上の時に時空間スキルのダメージが100％アップ＆チャクラ消費量が15％減少",
-          "abilityEffectDescription": "HP90％以上の時に時空間スキルのダメージが100％アップ＆チャクラ消費量が15％減少",
+          "abilityDescription": "HP90％以上の時に時空間スキルのダメージが100％アップ&amp;チャクラ消費量が15％減少",
+          "abilityEffectDescription": "HP90％以上の時に時空間スキルのダメージが100％アップ&amp;チャクラ消費量が15％減少",
           "effectIdx1": "505",
           "effectIdx2": "506",
           "effectIdx3": "0"
@@ -7247,8 +7247,8 @@ window.ability=[
         {
           "abilityId": "806",
           "abilityName": "穢土転生体",
-          "abilityDescription": "HPが50%以上の時、チャクラ消費量30%ダウン＆行動後チャクラが10%回復する",
-          "abilityEffectDescription": "HPが50%以上の時、チャクラ消費量30%ダウン＆行動後チャクラが10%回復する",
+          "abilityDescription": "HPが50%以上の時、チャクラ消費量30%ダウン&amp;行動後チャクラが10%回復する",
+          "abilityEffectDescription": "HPが50%以上の時、チャクラ消費量30%ダウン&amp;行動後チャクラが10%回復する",
           "effectIdx1": "954",
           "effectIdx2": "955",
           "effectIdx3": "0"
@@ -7265,8 +7265,8 @@ window.ability=[
         {
           "abilityId": "808",
           "abilityName": "穢土転生体",
-          "abilityDescription": "HPが50%以上の時、チャクラ消費量30%ダウン＆行動後チャクラが10%回復する",
-          "abilityEffectDescription": "HPが50%以上の時、チャクラ消費量30%ダウン＆行動後チャクラが10%回復する",
+          "abilityDescription": "HPが50%以上の時、チャクラ消費量30%ダウン&amp;行動後チャクラが10%回復する",
+          "abilityEffectDescription": "HPが50%以上の時、チャクラ消費量30%ダウン&amp;行動後チャクラが10%回復する",
           "effectIdx1": "954",
           "effectIdx2": "955",
           "effectIdx3": "0"
@@ -7436,10 +7436,10 @@ window.ability=[
         {
           "abilityId": "827",
           "abilityName": "切らせぬ想い",
-          "abilityDescription": "攻撃力とスキルダメージ100%アップ",
-          "abilityEffectDescription": "攻撃力とスキルダメージ100%アップ",
-          "effectIdx1": "264",
-          "effectIdx2": "30009",
+          "abilityDescription": "攻撃力とスキルダメージ150%アップ",
+          "abilityEffectDescription": "攻撃力とスキルダメージ150%アップ",
+          "effectIdx1": "827",
+          "effectIdx2": "794",
           "effectIdx3": "0"
         },
         {
@@ -7463,10 +7463,10 @@ window.ability=[
         {
           "abilityId": "830",
           "abilityName": "消えぬ闇",
-          "abilityDescription": "高確率でスキルを回避し最大チャクラ量が100アップ",
-          "abilityEffectDescription": "高確率でスキルを回避し最大チャクラ量が100アップ",
+          "abilityDescription": "高確率でスキルを回避し最大チャクラ量が150アップ",
+          "abilityEffectDescription": "高確率でスキルを回避し最大チャクラ量が150アップ",
           "effectIdx1": "968",
-          "effectIdx2": "813",
+          "effectIdx2": "20014",
           "effectIdx3": "0"
         },
         {
@@ -9209,8 +9209,8 @@ window.ability=[
         {
           "abilityId": "1024",
           "abilityName": "研鑽せし白眼",
-          "abilityDescription": "通常攻撃が回避されない＆バトル開始時チャクラ30%回復する",
-          "abilityEffectDescription": "通常攻撃が回避されない＆バトル開始時チャクラ30%回復する",
+          "abilityDescription": "通常攻撃が回避されない&amp;バトル開始時チャクラ30%回復する",
+          "abilityEffectDescription": "通常攻撃が回避されない&amp;バトル開始時チャクラ30%回復する",
           "effectIdx1": "30",
           "effectIdx2": "1114",
           "effectIdx3": "0"
@@ -9623,10 +9623,10 @@ window.ability=[
         {
           "abilityId": "1070",
           "abilityName": "虚無に殉ずる",
-          "abilityDescription": "最大HPと素早さが100%アップし、チャクラ消費量が半減する",
-          "abilityEffectDescription": "最大HPと素早さが100%アップし、チャクラ消費量が半減する",
-          "effectIdx1": "684",
-          "effectIdx2": "13099",
+          "abilityDescription": "最大HPと素早さが120%アップし、チャクラ消費量が半減する",
+          "abilityEffectDescription": "最大HPと素早さが120%アップし、チャクラ消費量が半減する",
+          "effectIdx1": "1221",
+          "effectIdx2": "1335",
           "effectIdx3": "895"
         },
         {
@@ -11396,8 +11396,8 @@ window.ability=[
         {
           "abilityId": "1267",
           "abilityName": "穢土転生体",
-          "abilityDescription": "チャクラ消費量40%ダウン＆行動後チャクラが20%回復",
-          "abilityEffectDescription": "チャクラ消費量40%ダウン＆行動後チャクラが20%回復",
+          "abilityDescription": "チャクラ消費量40%ダウン&amp;行動後チャクラが20%回復",
+          "abilityEffectDescription": "チャクラ消費量40%ダウン&amp;行動後チャクラが20%回復",
           "effectIdx1": "1164",
           "effectIdx2": "583",
           "effectIdx3": "0"
@@ -11414,8 +11414,8 @@ window.ability=[
         {
           "abilityId": "1269",
           "abilityName": "穢土転生体",
-          "abilityDescription": "チャクラ消費量40%ダウン＆行動後チャクラが20%回復",
-          "abilityEffectDescription": "チャクラ消費量40%ダウン＆行動後チャクラが20%回復",
+          "abilityDescription": "チャクラ消費量40%ダウン&amp;行動後チャクラが20%回復",
+          "abilityEffectDescription": "チャクラ消費量40%ダウン&amp;行動後チャクラが20%回復",
           "effectIdx1": "1164",
           "effectIdx2": "583",
           "effectIdx3": "0"
@@ -11846,11 +11846,11 @@ window.ability=[
         {
           "abilityId": "1317",
           "abilityName": "仙術と尾獣の力の融合",
-          "abilityDescription": "スキルダメージが150%アップする",
-          "abilityEffectDescription": "スキルダメージが150%アップする",
-          "effectIdx1": "794",
-          "effectIdx2": "0",
-          "effectIdx3": "0"
+          "abilityDescription": "最大HPとスキルダメージが150%アップし素早さが30%アップする",
+          "abilityEffectDescription": "最大HPとスキルダメージが150%アップし素早さが30%アップする",
+          "effectIdx1": "1212",
+          "effectIdx2": "794",
+          "effectIdx3": "183"
         },
         {
           "abilityId": "1318",
@@ -11864,11 +11864,11 @@ window.ability=[
         {
           "abilityId": "1319",
           "abilityName": "忍界を救いし英雄",
-          "abilityDescription": "スキルダメージが150%アップする",
-          "abilityEffectDescription": "スキルダメージが150%アップする",
-          "effectIdx1": "794",
-          "effectIdx2": "0",
-          "effectIdx3": "0"
+          "abilityDescription": "最大HPとスキルダメージが150%アップし素早さが30%アップする",
+          "abilityEffectDescription": "最大HPとスキルダメージが150%アップし素早さが30%アップする",
+          "effectIdx1": "1212",
+          "effectIdx2": "794",
+          "effectIdx3": "183"
         },
         {
           "abilityId": "1320",
@@ -12683,11 +12683,11 @@ window.ability=[
         {
           "abilityId": "1410",
           "abilityName": "青春の最高潮",
-          "abilityDescription": "攻撃力と防御力と素早さが150%アップする",
-          "abilityEffectDescription": "攻撃力と防御力と素早さが150%アップする",
-          "effectIdx1": "1268",
-          "effectIdx2": "1459",
-          "effectIdx3": "967"
+          "abilityDescription": "攻撃力と防御力と素早さが200%アップする",
+          "abilityEffectDescription": "攻撃力と防御力と素早さが200%アップする",
+          "effectIdx1": "1285",
+          "effectIdx2": "1510",
+          "effectIdx3": "1280"
         },
         {
           "abilityId": "1411",
@@ -13232,11 +13232,11 @@ window.ability=[
         {
           "abilityId": "1475",
           "abilityName": "リンに託されし想い",
-          "abilityDescription": "班の木ノ葉隠れの里所属1体につき、攻撃力・防御力・素早さが40%アップ（自身含む）",
-          "abilityEffectDescription": "班の木ノ葉隠れの里所属1体につき、攻撃力・防御力・素早さが40%アップ（自身含む）",
-          "effectIdx1": "1254",
-          "effectIdx2": "1256",
-          "effectIdx3": "1255"
+          "abilityDescription": "班の木ノ葉隠れの里所属1体につき、攻撃力・防御力・素早さが50%アップ（自身含む）",
+          "abilityEffectDescription": "班の木ノ葉隠れの里所属1体につき、攻撃力・防御力・素早さが50%アップ（自身含む）",
+          "effectIdx1": "1332",
+          "effectIdx2": "1793",
+          "effectIdx3": "1333"
         },
         {
           "abilityId": "1476",
@@ -16388,7 +16388,7 @@ window.ability=[
           "effectIdx2": "1706",
           "effectIdx3": "0"
         },
-         {
+        {
           "abilityId": "1855",
           "abilityName": "雷遁の巧者",
           "abilityDescription": "最大HPとスキルダメージが100％アップする",
@@ -16533,15 +16533,6 @@ window.ability=[
           "effectIdx3": "990"
         },
         {
-          "abilityId": "1870",
-          "abilityName": "瞳術の起源",
-          "abilityDescription": "受ける耐性無視スキルのダメージを0＆キャンセル無効＆3回行動まで耐性無視を含む全スキル無効",
-          "abilityEffectDescription": "受ける耐性無視スキルのダメージを0＆キャンセル無効＆3回行動まで耐性無視を含む全スキル無効",
-          "effectIdx1": "1750",
-          "effectIdx2": "1751",
-          "effectIdx3": "990"
-        },
-        {
           "abilityId": "1871",
           "abilityName": "原初のチャクラ",
           "abilityDescription": "最大チャクラが200アップし、素早さが200％アップする",
@@ -16549,6 +16540,15 @@ window.ability=[
           "effectIdx1": "20019",
           "effectIdx2": "1280",
           "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1872",
+          "abilityName": "瞳術の起源",
+          "abilityDescription": "受ける耐性無視スキルのダメージを0＆キャンセル無効＆3回行動まで耐性無視を含む全スキル無効",
+          "abilityEffectDescription": "受ける耐性無視スキルのダメージを0＆キャンセル無効＆3回行動まで耐性無視を含む全スキル無効",
+          "effectIdx1": "1750",
+          "effectIdx2": "1751",
+          "effectIdx3": "990"
         },
         {
           "abilityId": "1873",
@@ -16622,7 +16622,7 @@ window.ability=[
           "effectIdx2": "0",
           "effectIdx3": "0"
         },
-         {
+        {
           "abilityId": "1881",
           "abilityName": "雷響する復讐心",
           "abilityDescription": "攻撃力とスキルダメージが100%アップ。HPが50%以下の時、さらにスキルダメージが100%アップ。",
@@ -16679,8 +16679,8 @@ window.ability=[
         {
           "abilityId": "1889",
           "abilityName": "無比なる木遁使い",
-          "abilityDescription": "最大チャクラ量を100アップ＆行動後チャクラが10%回復＆キャンセル無効",
-          "abilityEffectDescription": "最大チャクラ量を100アップ＆行動後チャクラが10%回復＆キャンセル無効",
+          "abilityDescription": "最大チャクラ量を100アップ&amp;行動後チャクラが10%回復&amp;キャンセル無効",
+          "abilityEffectDescription": "最大チャクラ量を100アップ&amp;行動後チャクラが10%回復&amp;キャンセル無効",
           "effectIdx1": "813",
           "effectIdx2": "1767",
           "effectIdx3": "1751"
@@ -16697,8 +16697,8 @@ window.ability=[
         {
           "abilityId": "1891",
           "abilityName": "無比なる木遁使い",
-          "abilityDescription": "最大チャクラ量を200アップ＆行動後チャクラが20%回復＆キャンセル無効",
-          "abilityEffectDescription": "最大チャクラ量を200アップ＆行動後チャクラが20%回復＆キャンセル無効",
+          "abilityDescription": "最大チャクラ量を200アップ&amp;行動後チャクラが20%回復&amp;キャンセル無効",
+          "abilityEffectDescription": "最大チャクラ量を200アップ&amp;行動後チャクラが20%回復&amp;キャンセル無効",
           "effectIdx1": "20019",
           "effectIdx2": "1768",
           "effectIdx3": "1751"
@@ -16715,8 +16715,8 @@ window.ability=[
         {
           "abilityId": "1893",
           "abilityName": "尽きぬ闘争心",
-          "abilityDescription": "最大チャクラ量を100アップ＆行動後チャクラが10%回復＆キャンセル無効",
-          "abilityEffectDescription": "最大チャクラ量を100アップ＆行動後チャクラが10%回復＆キャンセル無効",
+          "abilityDescription": "最大チャクラ量を100アップ&amp;行動後チャクラが10%回復&amp;キャンセル無効",
+          "abilityEffectDescription": "最大チャクラ量を100アップ&amp;行動後チャクラが10%回復&amp;キャンセル無効",
           "effectIdx1": "813",
           "effectIdx2": "1767",
           "effectIdx3": "1751"
@@ -16733,8 +16733,8 @@ window.ability=[
         {
           "abilityId": "1895",
           "abilityName": "尽きぬ闘争心",
-          "abilityDescription": "最大チャクラ量を200アップ＆行動後チャクラが20%回復＆キャンセル無効",
-          "abilityEffectDescription": "最大チャクラ量を200アップ＆行動後チャクラが20%回復＆キャンセル無効",
+          "abilityDescription": "最大チャクラ量を200アップ&amp;行動後チャクラが20%回復&amp;キャンセル無効",
+          "abilityEffectDescription": "最大チャクラ量を200アップ&amp;行動後チャクラが20%回復&amp;キャンセル無効",
           "effectIdx1": "20019",
           "effectIdx2": "1768",
           "effectIdx3": "1751"
@@ -16947,6 +16947,24 @@ window.ability=[
           "effectIdx3": "82"
         },
         {
+          "abilityId": "1921",
+          "abilityName": "蛇傑の薫陶",
+          "abilityDescription": "行動後にチャクラが20％回復するが、確率でHPが最大HPの20％減少する",
+          "abilityEffectDescription": "行動後にチャクラが20％回復するが、確率でHPが最大HPの20％減少する",
+          "effectIdx1": "1768",
+          "effectIdx2": "1518",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1922",
+          "abilityName": "男勝りの豪胆",
+          "abilityDescription": "攻撃力が100％アップ、HPが80％以上だとさらに100％アップしスキル発動速度が1段階アップ",
+          "abilityEffectDescription": "攻撃力が100％アップ、HPが80％以上だとさらに100％アップしスキル発動速度が1段階アップ",
+          "effectIdx1": "11099",
+          "effectIdx2": "865",
+          "effectIdx3": "1089"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -17100,6 +17118,15 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "11204",
+          "abilityName": "HP50％以下で200％スキル回避",
+          "abilityDescription": "HP50％以下の時に200％の確率でスキル回避する",
+          "abilityEffectDescription": "HP50％以下の時に200％の確率でスキル回避する",
+          "effectIdx1": "1786",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "11302",
           "abilityName": "チャクラ減少（小）",
           "abilityDescription": "行動時にチャクラが少し減少する",
@@ -17150,6 +17177,15 @@ window.ability=[
           "abilityDescription": "スキル発動速度が２段階アップする",
           "abilityEffectDescription": "スキル発動速度が２段階アップする",
           "effectIdx1": "1549",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "11600",
+          "abilityName": "確率強化",
+          "abilityDescription": "バトル開始時に確率で攻撃・防御・素早さが40％アップ",
+          "abilityEffectDescription": "バトル開始時に確率で攻撃・防御・素早さが40％アップ",
+          "effectIdx1": "363",
           "effectIdx2": "0",
           "effectIdx3": "0"
         },
@@ -17333,4 +17369,40 @@ window.ability=[
           "effectIdx2": "734",
           "effectIdx3": "0"
         },
+        {
+          "abilityId": "801187",
+          "abilityName": "揺るぎなき忍道",
+          "abilityDescription": "最大HPが100%アップし、輪廻写輪眼のスキルダメージを軽減する",
+          "abilityEffectDescription": "最大HPが100%アップし、輪廻写輪眼のスキルダメージを軽減する",
+          "effectIdx1": "0",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "801188",
+          "abilityName": "全尾獣のチャクラ（絆）",
+          "abilityDescription": "チャクラ90%以上の時スキルダメージが150%アップする",
+          "abilityEffectDescription": "チャクラ90%以上の時スキルダメージが150%アップする",
+          "effectIdx1": "0",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "801189",
+          "abilityName": "焼き尽くす意志",
+          "abilityDescription": "最大HPが100%アップし、六道タイプのスキルダメージを軽減する",
+          "abilityEffectDescription": "最大HPが100%アップし、六道タイプのスキルダメージを軽減する",
+          "effectIdx1": "0",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "801190",
+          "abilityName": "全尾獣のチャクラ（縛）",
+          "abilityDescription": "チャクラ90%以上の時スキルダメージが150%アップする",
+          "abilityEffectDescription": "チャクラ90%以上の時スキルダメージが150%アップする",
+          "effectIdx1": "0",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        }
 ]

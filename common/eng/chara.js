@@ -28389,7 +28389,7 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-02-05 14:27:10",
           "updateUserId": "11",
-          "translated": "10"
+          "translated": "1"
         },
         {
           "cardId": "20040208",
@@ -28857,7 +28857,7 @@ window.chara=[
           "cardId": "20040306",
           "modelId": "257",
           "charaType": "8",
-          "cardSubName": "神の護り手",
+          "cardSubName": "God's Guardian",
           "cardInformation": "“暁”の紅一点にして“暁”設立メンバーの一人。自身は弥彦と長門…二つの架け橋を支える柱であると考えており、弥彦亡き後も“暁”で長門を支えている。",
           "bookNo": "1",
           "rare": "5",
@@ -28893,13 +28893,13 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-03-05 18:34:02",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20040307",
           "modelId": "46",
           "charaType": "8",
-          "cardSubName": "痛みによる秩序",
+          "cardSubName": "Disciple of Pain",
           "cardInformation": "“暁”のリーダー。三大瞳術の一つである輪廻眼を持ち、ペイン六道を操っている張本人。戦争の痛みが、戦争に対する抑止力になると信じ、世界の人々に痛みを与えるという目的を遂げるため、ペインを操る。",
           "bookNo": "1",
           "rare": "5",
@@ -28935,13 +28935,13 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-03-05 18:34:02",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20040308",
           "modelId": "104",
           "charaType": "8",
-          "cardSubName": "チャクラを喰らう者",
+          "cardSubName": "Chakra Eater",
           "cardInformation": "霧隠れの里の抜け忍にして、“暁”の一員。凄まじい量のチャクラを持っており、一度水遁の術を使えば、大量の水を生み出すことが出来る。",
           "bookNo": "1",
           "rare": "5",
@@ -28977,13 +28977,13 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-03-09 17:49:46",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20040309",
           "modelId": "355",
           "charaType": "1",
-          "cardSubName": "瞳に写る未来",
+          "cardSubName": "Reflection of the Future",
           "cardInformation": "イタチの親友であり、うちは一族の中でも数少ない万華鏡写輪眼を持つ忍。その武名は他里の忍にも「瞬身のシスイ」の名で知られている。",
           "bookNo": "1",
           "rare": "5",
@@ -29019,13 +29019,13 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-03-08 13:58:25",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20040310",
           "modelId": "256",
           "charaType": "8",
-          "cardSubName": "起爆する造形",
+          "cardSubName": "Explosive Molding",
           "cardInformation": "岩隠れの里の抜け忍で、“暁”の一員。粘土造形師であり、起爆粘土で生物を模した大小様々な爆弾による攻撃を行う。自らの造形物は爆発により完成されるとし、一瞬の美、爆発こそが己を表現する最高の芸術と謳う。",
           "bookNo": "1",
           "rare": "5",
@@ -29061,13 +29061,13 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-03-15 18:16:49",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20040311",
           "modelId": "317",
           "charaType": "8",
-          "cardSubName": "四肢操葬",
+          "cardSubName": "Four Limbs Manipulation",
           "cardInformation": "砂隠れの里の抜け忍で、“暁”の一員。操る傀儡は一国を陥落させるほどの天才傀儡使い。永久の美と力への欲望から、自らをも傀儡に改造しており、全身に仕込んだ武装で敵を屠る。",
           "bookNo": "1",
           "rare": "5",
@@ -29103,13 +29103,13 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-03-15 18:16:50",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20040312",
           "modelId": "493",
           "charaType": "1",
-          "cardSubName": "戦陣の防人",
+          "cardSubName": "Battlefield Soldier",
           "cardInformation": "五代目火影・綱手を師匠に持つ木ノ葉隠れの里のくノ一。第四次忍界大戦では医療班に配属され、サポートに回る。師より受け継がれし医療忍術に加え、持ち前の頭脳も健在で、敵スパイを話術で見破る。",
           "bookNo": "1",
           "rare": "5",
@@ -29145,7 +29145,7 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-03-20 13:49:48",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20040313",
@@ -29908,7 +29908,7 @@ window.chara=[
           "cardId": "20040412",
           "modelId": "375",
           "charaType": "8",
-          "cardSubName": "異形を駆る者",
+          "cardSubName": "Grotesque Urge",
           "cardInformation": "自来也に倒されたはずの“ペイン六道”が一柱、畜生道にして唯一の女性体。特別な口寄せを駆使し異形な獣たちを顕現させ戦場を蹂躙する。",
           "bookNo": "1",
           "rare": "5",
@@ -29944,7 +29944,7 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-03-29 11:28:38",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "1"
         },
         {
           "cardId": "20040414",
@@ -31079,5 +31079,46 @@ window.chara=[
           "updateTime": "2018-05-30 18:28:35",
           "updateUserId": "11",
           "translated": "1"
+        },
+        {
+          "cardId": "20040604",
+          "modelId": "207",
+          "charaType": "1",
+          "cardSubName": "破天荒の女傑",
+          "cardInformation": "木ノ葉隠れの里の特別上忍にして、中忍試験の試験官も務める。大胆不敵な性格で、ナルトをも委縮させるほど型破りな女傑。大蛇丸の弟子だった過去があり、その胸中にはかつての師への糾弾の想いが秘められている。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "0",
+          "attribute": "3",
+          "abilityId1": "1921",
+          "abilityId2": "1922",
+          "battleSkillId1": "2425",
+          "battleSkillId2": "2426",
+          "leaderSkillId": "748",
+          "runSkillId1": "0",
+          "hp": "4191",
+          "hpMax": "12573",
+          "attack": "3667",
+          "attackMax": "11001",
+          "attackBehaveNum": "0",
+          "defense": "3143",
+          "defenseMax": "9430",
+          "speed": "145",
+          "speedMax": "145",
+          "hitLot": "10000",
+          "avoidanceLot": "1535",
+          "criticalLot": "1580",
+          "criticalDamageLot": "14730",
+          "cost": "32",
+          "price": "4800",
+          "fusionExp": "3000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "2801",
+          "defaultUnlockBit": "0",
+          "fusionRuleId": "0",
+          "createTime": "2018-06-01 12:28:16",
+          "createUserId": "11",
+          "updateTime": "2018-06-04 16:11:35",
+          "updateUserId": "11"
         },
 ]

@@ -2774,7 +2774,7 @@ window.tags=[
 {
           "cardId": "20001827",
           "rare": "5",
-          "tag": "pvp-ex-5",
+          "tag": "limited-5",
           "rate": "-"
 },
 {
@@ -2870,7 +2870,7 @@ window.tags=[
 {
           "cardId": "20001844",
           "rare": "5",
-          "tag": "pvp-ex-5",
+          "tag": "limited-5",
           "rate": "-"
 },
 {
@@ -2930,7 +2930,7 @@ window.tags=[
 {
           "cardId": "20001854",
           "rare": "5",
-          "tag": "pvp-ex-5",
+          "tag": "limited-5",
           "rate": "-"
 },
 {
@@ -3014,19 +3014,19 @@ window.tags=[
 {
           "cardId": "20001868",
           "rare": "5",
-          "tag": "pvp-ex-5",
+          "tag": "limited-5",
           "rate": "-"
 },
 {
           "cardId": "20001869",
           "rare": "5",
-          "tag": "pvp-ex-5",
+          "tag": "limited-5",
           "rate": "-"
 },
 {
           "cardId": "20001870",
           "rare": "5",
-          "tag": "pvp-ex-5",
+          "tag": "limited-5",
           "rate": "-"
 },
 {
@@ -3074,7 +3074,7 @@ window.tags=[
 {
           "cardId": "20030508",
           "rare": "5",
-          "tag": "pvp-ex-5",
+          "tag": "limited-5",
           "rate": "-"
 },
 {
@@ -3188,13 +3188,13 @@ window.tags=[
 {
           "cardId": "20030612",
           "rare": "5",
-          "tag": "pvp-ex-5",
+          "tag": "limited-5",
           "rate": "-"
 },
 {
           "cardId": "20030613",
           "rare": "5",
-          "tag": "pvp-ex-5",
+          "tag": "limited-5",
           "rate": "-"
 },
 {
@@ -3296,13 +3296,13 @@ window.tags=[
 {
           "cardId": "20030713",
           "rare": "5",
-          "tag": "pvp-ex-5",
+          "tag": "limited-5",
           "rate": "-"
 },
 {
           "cardId": "20030714",
           "rare": "5",
-          "tag": "pvp-ex-5",
+          "tag": "limited-5",
           "rate": "-"
 },
 {
@@ -3452,13 +3452,13 @@ window.tags=[
 {
           "cardId": "20030823",
           "rare": "5",
-          "tag": "pvp-ex-5",
+          "tag": "limited-5",
           "rate": "-"
 },
 {
           "cardId": "20030824",
           "rare": "5",
-          "tag": "pvp-ex-5",
+          "tag": "limited-5",
           "rate": "-"
 },
 {
@@ -4437,6 +4437,12 @@ window.tags=[
           "cardId": "20040603",
           "rare": "5",
           "tag": "ex-6",
+          "rate": "-"
+},
+{
+          "cardId": "20040604",
+          "rare": "5",
+          "tag": "event",
           "rate": "-"
 },
 ]

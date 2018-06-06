@@ -81218,7 +81218,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2295",
           "nameIdx": "2298",
-          "description": "敵単体に攻撃力7%+10000のダメージを与える。超忍祭限定キャラの敵にダメージ20倍。さらに敵が超忍祭限定キャラの場合、高確率で短い間拘束状態にし、確実にキャンセルする。【特殊状態：拘束】素早さが1000%ダウンし、スキル発動速度が2段階ダウンする。",
+          "description": "Deal 7% + 10,000 to one enemy. Deal 20x damage to EX, Cancel action and inflict 'Restraint' state. [Restraint: SPD -1000% and Cast Speed -2]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2295",
@@ -81254,7 +81254,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2296",
           "nameIdx": "2300",
-          "description": "自身の攻撃力が100％アップし紙者状態にする。さらに敵に超忍祭限定キャラがいると自身の素早さが300％アップし全スキル無効状態になる。【特殊状態：紙者】スキルダメージ300%アップ。",
+          "description": "Own ATK +100% and grant 'Paper Human' state. If one of the enemy is an EX, own SPD +300% and Immune to Skills. [Paper Human: Skill Damage +300%]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -81290,7 +81290,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2297",
           "nameIdx": "2302",
-          "description": "敵単体に攻撃力7%+10000のダメージを与える。超忍祭限定キャラの敵にダメージ15倍。さらに敵が超忍祭限定キャラの場合、攻撃力7%+10000の追撃を3回与える。【必中スキル】",
+          "description": "Deal 7% + 10,000 to one enemy. Deal 15x damage to EX and 3 Additional Hits dealing 7% + 10,000. [Always Hit] ",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2297",
@@ -81326,7 +81326,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2298",
           "nameIdx": "2304",
-          "description": "敵全体の攻撃力を高確率で50％ダウン。知属性の敵に高確率でスキル発動速度2段階ダウン。超忍祭限定キャラの敵のチャクラ消費量を100％アップする。※敵のチャクラ消費量増加は昇級試験のみ有効",
+          "description": "High chance to lower all enemies ATK by 50%. High chance to lower Intellect Type enemies Cast Speed by 2. EX enemies Chakra Cost +100%",
           "categoryId": "6",
           "levelType": "3",
           "scriptId": "100004",
@@ -81362,7 +81362,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2299",
           "nameIdx": "2306",
-          "description": "敵単体に攻撃力7%+10000のダメージを与え、高確率で出血状態にする。さらに周囲の敵に攻撃力100倍で攻撃する。敵に1人でも出血状態の敵がいるとダメージ5倍。※出血状態によるダメージアップ効果は周囲への攻撃にも適用される【特殊状態：出血】出血による持続ダメージ+確率で防御力ダウン。",
+          "description": "Deal 7% + 10,000 to one enemy with a high chance to inflict Bleed. Deal 100x ATK Damage to Surrounding enemies. Deal 5x damage if one of the enemy is inflicted with Bleed. [Bleed: Continues to lose HP, chance to lower DEF]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2299",
@@ -81398,7 +81398,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2300",
           "nameIdx": "2308",
-          "description": "敵全体を高確率で攻撃力と防御力と素早さを40％ダウンし、泡状態にする。すでに泡状態の敵に対してはさらに高確率で奪取状態にする。【特殊状態：泡】確率で泡による素早さダウンを与える。【特殊状態：奪取】行動後にHPが15%、チャクラが30%減少する※敵へのチャクラ減少は昇級試験のみ有効。",
+          "description": "High chance to reduce all enemies ATK, DEF and/or SPD by 40% and inflict 'Bubble' state. High chance to inflict 'Usurp' to enemies inflicted with 'Bubble' state [Bubble: chance to reduce SPD] [Usurp: HP -15% and Chakra -30% per turn]",
           "categoryId": "6",
           "levelType": "3",
           "scriptId": "100004",
@@ -81434,7 +81434,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2301",
           "nameIdx": "2310",
-          "description": "敵単体に耐性無視100,000ダメージ。また高確率で錯乱状態にする。さらに自身が決意状態の時チャクラを全消費し、確実に錯乱状態にする。※耐性で無効の場合は除く【特殊状態：錯乱】攻撃力・会心力・会心率3000%アップ。錯乱以外の強化・弱体・状態異常・特殊状態を解除＆無効化。自身以外の味方にランダムで通常攻撃をする。※味方がいない場合何もしない【必中スキル】",
+          "description": "Deal 100,000 fixed damage to one enemy with a high chance to inflict 'Befuddle' state. While under 'Determined' state, consume all Chakra and guarantee to inflict 'Befuddle' state. [Befuddle: ATK, Crit Damage and Crit Chance +3,000%, remove all buffs, debuffs and Special State other than Befuddle. Basic Attacks only hit allies (Note: If there's no allies, no action occurs)] [Always Hit]",
           "categoryId": "1",
           "levelType": "2",
           "scriptId": "2301",
@@ -81470,7 +81470,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2302",
           "nameIdx": "2312",
-          "description": "味方全体の攻撃力と素早さを80%アップし、自身を決意状態にする。さらに味方に「うちはイタチ（キャラの年代は問わず）」が生存している場合、自身のスキルダメージを200%アップする。【特殊状態：決意】攻撃・防御・素早さを40%アップし、攻撃を受けた時にチャクラとHPが10%回復する。",
+          "description": "Own ATK and SPD +80% and grant 'Determined' state. If of the ally is 'Itachi Uchiha', own Skill Damage +200%. [Determined: ATK, DEF and SPD +40%, recover 10% HP and Chakra when attacked]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -81506,7 +81506,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2303",
           "nameIdx": "529",
-          "description": "敵単体に攻撃力7%+10000のダメージを与える。'暁'以外の敵にダメージ3倍、超忍祭限定の敵にダメージ10倍（最大30倍）。さらに周囲の超忍祭限定の敵に攻撃力7%+1000のダメージを与える。※周囲ダメージにダメージアップの効果は適用される",
+          "description": "Deal 7% + 10,000 to one enemy. Deal 3x damage to non Akatsuki Characters. Deal 10x damage to EX. Deal 7% + 1000 to Surrounding EX enemies",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2303",
@@ -81542,7 +81542,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2304",
           "nameIdx": "2314",
-          "description": "自身の素早さが200％アップする。敵に超忍祭限定キャラがいた場合、スキル発動速度が2段階アップし、スキルダメージが150％アップする。",
+          "description": "Own SPD +200%. If one of the enemy is an EX, own Cast Speed +2 and Skill Damage +150%",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -81578,7 +81578,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2305",
           "nameIdx": "525",
-          "description": "敵全体に攻撃力3%+100のダメージを100回与える。攻撃する対象はランダム。超忍祭限定の敵にダメージ4倍。",
+          "description": "Deal 100 hits dealling 3% + 100 to random enemies. Deal 4x to EX",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2305",
@@ -81614,7 +81614,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2306",
           "nameIdx": "2316",
-          "description": "自身の防御力が500％アップする。敵に超忍祭限定キャラがいた場合、スキル発動速度が2段階アップし、チャクラ消費が0になる。",
+          "description": "Own DEF +500%. If one of the enemy is an EX, own Cast Speed +2 and Chakra Cost becomes 0",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -81650,7 +81650,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2307",
           "nameIdx": "2318",
-          "description": "敵単体の防御力を40%無視して10倍の攻撃力で攻撃し、生存している木ノ葉隠れの里所属の味方が多いほどダメージが上がり5人で最大4倍。次回行動時のスキル発動速度が2段階アップする。さらに相手の位置を大きく戻す。※アクション内にいる相手に有効",
+          "description": "Deal 10x ATK damage ignoring 40% DEF to one enemy. Deal more damage the more Konoha allies alive, max 4x. Cast Speed +2 for the next Skills. Heavily pushes the enemy on the action bar. (Note: Only affects when the enemy is in the red bar)",
           "categoryId": "1",
           "levelType": "1",
           "scriptId": "2307",
@@ -81686,7 +81686,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2308",
           "nameIdx": "2320",
-          "description": "自身の攻撃力100％アップ＆繋状態。さらに味方全体のチャクラを特大回復し決意状態を付与する。【特殊状態：繋】状態異常にかかる確率を半減、班の生存している木ノ葉所属が多いほどスキルダメージアップ、最大1000%※助っ人含む【特殊状態：決意】攻撃・防御・素早さを80%アップし、攻撃を受けた時にチャクラとHP10%回復する。",
+          "description": "Own ATK +100% and grant 'Connected' state. Recover all allies Chakra by a tremendous amount and grant 'Determined' state. [Connected: Status Effects are halved, Skill Damage increase based on how many Konoha characters is in the team. Max +1,000%] [Determined: ATK, DEF and SPD +80%, recover 10% HP and Chakra when attack]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
@@ -83306,7 +83306,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2353",
           "nameIdx": "2378",
-          "description": "敵単体に攻撃力7％＋10000のダメージを与え、高確率で竦み状態にする。超忍祭限定キャラの敵にダメージ20倍し、対象が知か勇属性だった場合、確実に行動をキャンセルする。【特殊状態：竦】敵の攻撃力と防御力を50%ダウン、強化と弱体を無効化する。",
+          "description": "Deal 7% + 10,000 to one enemy with a high chance to inflict 'Cower' state. Deal 20x damage to EX; if the enemy is an Intellect or Courage, Cancel the action. [Cower: ATK and DEF -50%,  immune to buffs and debuffs]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2353",
@@ -83342,7 +83342,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2354",
           "nameIdx": "2380",
-          "description": "味方全体の素早さを60％アップ。自身を含む味方の'暁'所属に対しチャクラ小回復＆スキル発動速度2段階アップ&amp;凶鳴状態を付与。【特殊状態：凶鳴】スキルダメージが20％、素早さが50％アップする。凶鳴状態のときに再び凶鳴状態になるとカウント数が増加し効果が追加。他のスキルによる凶鳴状態も有効（最大カウント3）※持続時間は延長されない※共鳴スキルとは異なる",
+          "description": "All allies SPD +60%. Recover a small amount of Chakra, Cast Speed +2 and grant 'Wicked' state to Akatsuki allies. [Wicked: Skill Damage +20% and SPD +50%. Wicked can be stacked up to 3 times]",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",

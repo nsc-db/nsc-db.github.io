@@ -7366,5 +7366,29 @@ window.unique=[
           "effectIdx2": "736",
           "effectIdx3": "1335",
           "effectIdx4": "1794"
+        },
+        {
+          "crystalOverwriteEffectId": "626",
+          "targetCrystal": "10619",
+          "description": "全スキルダメージが100%アップ、行動後にHPとチャクラが20%回復",
+          "charaIds": "0",
+          "cardIds": "20001818,20001704,20030601,20001776,20030602",
+          "charaGroupIds": "0",
+          "effectIdx1": "774",
+          "effectIdx2": "628",
+          "effectIdx3": "583",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "627",
+          "targetCrystal": "10620",
+          "description": "行動後に低確率で次回行動時の素早さが1000％アップする",
+          "charaIds": "0",
+          "cardIds": "20001777,20001713",
+          "charaGroupIds": "0",
+          "effectIdx1": "1796",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
         }
 ]

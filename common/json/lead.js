@@ -9268,7 +9268,7 @@ window.lead=[
           "target2Category": "1",
           "target2Param": "7"
         },
-         {
+        {
           "cardLeaderSkillId": "720",
           "name": "力の代償",
           "description": "体属性の攻撃力が150%アップする",
@@ -9335,7 +9335,7 @@ window.lead=[
         },
         {
           "cardLeaderSkillId": "725",
-          "name": "仮キャラクタ",
+          "name": "鬼と化した女神",
           "description": "知属性の最大HPと攻撃力とスキルダメージを150％アップする",
           "effectIdx1": "1212",
           "effectIdx2": "1268",
@@ -9426,8 +9426,8 @@ window.lead=[
         },
         {
           "cardLeaderSkillId": "732",
-          "name": "仮",
-          "description": "仮",
+          "name": "闇穿つ雷霆",
+          "description": "知と勇属性の攻撃力とスキルダメージを50%アップする",
           "effectIdx1": "11049",
           "effectIdx2": "682",
           "effectIdx3": "0",
@@ -9462,32 +9462,6 @@ window.lead=[
           "target1Param": "6",
           "target2Category": "0",
           "target2Param": "0"
-        },
-        {
-          "cardLeaderSkillId": "736",
-          "name": "仮",
-          "description": "仮",
-          "effectIdx1": "1221",
-          "effectIdx2": "0",
-          "effectIdx3": "0",
-          "compType": "1",
-          "target1Category": "2",
-          "target1Param": "8",
-          "target2Category": "0",
-          "target2Param": "0"
-        },
-        {
-          "cardLeaderSkillId": "732",
-          "name": "闇穿つ雷霆",
-          "description": "知と勇属性の攻撃力とスキルダメージを50%アップする",
-          "effectIdx1": "11049",
-          "effectIdx2": "682",
-          "effectIdx3": "0",
-          "compType": "2",
-          "target1Category": "1",
-          "target1Param": "6",
-          "target2Category": "1",
-          "target2Param": "7"
         },
         {
           "cardLeaderSkillId": "736",
@@ -9541,7 +9515,7 @@ window.lead=[
           "target2Category": "0",
           "target2Param": "0"
         },
-         {
+        {
           "cardLeaderSkillId": "740",
           "name": "歴史を繋ぐ力",
           "description": "技属性の最大HPと素早さが40％アップする",
@@ -9645,4 +9619,43 @@ window.lead=[
           "target2Category": "0",
           "target2Param": "0"
         },
+        {
+          "cardLeaderSkillId": "748",
+          "name": "破天荒の女傑",
+          "description": "体属性の攻撃力が80％アップするが防御力が50％ダウンする",
+          "effectIdx1": "11079",
+          "effectIdx2": "12104",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "3",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "8507",
+          "name": "想いの全て",
+          "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",
+          "effectIdx1": "0",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "8508",
+          "name": "決別の祈り",
+          "description": "技属性の最大HP・攻撃・スキルダメージを100%アップする",
+          "effectIdx1": "0",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        }
 ]

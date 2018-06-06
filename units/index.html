@@ -33,9 +33,21 @@
 	<link rel="stylesheet" type="text/css" href="css/style.css"/>
 	
 	<!-- DATABASE ENTRIES -->
-	<script type="text/javascript" src="json/unit.js"></script>
-	<script type="text/javascript" src="json/detail.js"></script>
- 	<script type="text/javascript" src="json/damage.js"></script>
+ 	<script type="text/javascript" src="../common/eng/chara.js"></script>
+ 	<script type="text/javascript" src="../common/eng/charaname.js"></script>
+ 	<script type="text/javascript" src="../common/eng/skill.js"></script>
+ 	<script type="text/javascript" src="../common/eng/skillname.js"></script>
+ 	<script type="text/javascript" src="../common/eng/ability.js"></script>
+ 	<script type="text/javascript" src="../common/eng/lead.js"></script>
+ 	<script type="text/javascript" src="../common/eng/key.js"></script>
+ 	<script type="text/javascript" src="../common/eng/gear.js"></script>
+ 	<script type="text/javascript" src="../common/eng/unique.js"></script>
+ 	<script type="text/javascript" src="../common/json/evo.js"></script>
+ 	<script type="text/javascript" src="../common/json/tags.js"></script>
+ 	<script type="text/javascript" src="../common/json/vo.js"></script>
+
+
+
 
 
 	<link rel="stylesheet" href="https://i.icomoon.io/public/adb54f46d6/Linearicons/style.css">
@@ -60,8 +72,68 @@
 							<div class="unit-icon">
 								<img id="icon-unit" src="">
 							</div>
-							<p id="type-unit" class="type" type="Body"></p>
+							<img id="type-unit" src="" height="50px" style="margin-top: 10px;">		
 							<h3 id="name-unit"></h3>
+							&emsp;
+							<strong id="voice">
+								
+								<script>
+									var path = '';
+									function voiceAppear(){
+										
+										var dir = $("#voiceAppear").attr('class');
+										var voice = $("#voiceAppear").attr('value')
+										var voiceArr = voice.split(',');
+										var random = Math.floor(Math.random() * voiceArr.length);
+										path = "../common/assets/vo/" + dir + "/" + voiceArr[random] + ".mp3";
+										var sound = new Audio(path);			
+										sound.play();
+										
+									}
+									function voiceSkill(){
+										var dir = $("#voiceSkill").attr('class');
+										var voice = $("#voiceSkill").attr('value');
+										var voiceArr = voice.split(',');
+										var random = Math.floor(Math.random() * voiceArr.length);
+										path = "../common/assets/vo/" + dir + "/" + voiceArr[random] + ".mp3";
+										var sound = new Audio(path);			
+										sound.play();
+										
+										
+									}
+
+									function voicePursuit(){
+										var dir = $("#voicePursuit").attr('class');
+										var voice = $("#voicePursuit").attr('value')
+										var voiceArr = voice.split(',');
+										var random = Math.floor(Math.random() * voiceArr.length);
+										path = "../common/assets/vo/" + dir + "/" + voiceArr[random] + ".mp3";
+										var sound = new Audio(path);			
+										sound.play();
+									}
+
+
+									function voiceWin(){
+										var dir = $("#voiceWin").attr('class');
+										var voice = $("#voiceWin").attr('value')
+										var voiceArr = voice.split(',');
+										var random = Math.floor(Math.random() * voiceArr.length);
+										path = "../common/assets/vo/" + dir + "/" + voiceArr[random] + ".mp3";
+										var sound = new Audio(path);			
+										sound.play();
+									}
+
+									function voiceDeath(){
+										var dir = $("#voiceDeath").attr('class');
+										var voice = $("#voiceDeath").attr('value')
+										var voiceArr = voice.split(',');
+										var random = Math.floor(Math.random() * voiceArr.length);
+										path = "../common/assets/vo/" + dir + "/" + voiceArr[random] + ".mp3";
+										var sound = new Audio(path);			
+										sound.play();
+									}
+								</script>
+							</strong>
 						</div>
 						<div class="col-md-3 col-xs-6">
 							<button type="button" class="close" data-dismiss="modal" aria-label="Close">
@@ -92,10 +164,10 @@
 											<div class="row">
 												<div class="col-md-12">
 													<ul class="nav nav-nscdb" role="tablist">
-														<li class="active"><a id="skills-btn" class="active" data-toggle="tab" href="#skills">Skills</a></li>
-														<li><a id="ability-btn" data-toggle="tab" href="#ability">Abilities</a></li>
-														<li><a id="status-btn" data-toggle="tab" href="#status">Status</a></li>
-														<li class="hidden"><a id="gear-btn" data-toggle="tab" href="#gear">Gear</a></li>
+														<li class="active"><a id="skills-btn" class="active" data-toggle="tab" href="#skills">Skill</a></li>
+														<li><a id="ability-btn" data-toggle="tab" href="#ability">Ability</a></li>
+														<li class="hidden"><a id="status-btn" data-toggle="tab" href="#status">Stats</a></li>
+														<li><a id="gear-btn" data-toggle="tab" href="#gear">Gear</a></li>
 													</ul>
 												</div>
 												<div class="col-md-12">
@@ -188,10 +260,10 @@
 																<thead>
 																	<tr>
 																		<th></th>
-																		<th>Base Value</th>
-																		<th>Ability Increase</th>
-																		<th>Skill Increase</th>
-																		<th>Max</th>
+																		<th>基礎</th>
+																		<th>アビリティ</th>
+																		<th>スキル</th>
+																		<th>合計</th>
 																	</tr>
 																</thead>
 																<tbody>
@@ -203,49 +275,49 @@
 																		<td id="max-hp-five"></td>
 																	</tr>
 																	<tr>
-																		<td>ATK</td>
+																		<td>Normal</td>
 																		<td id="base-atk-five"></td>
 																		<td id="ability-atk-five"></td>
 																		<td id="gear-atk-five"></td>
 																		<td id="max-atk-five"></td>
 																	</tr>
 																	<tr>
-																		<td>DEF</td>
+																		<td>防御力</td>
 																		<td id="base-def-five"></td>
 																		<td id="ability-def-five"></td>
 																		<td id="gear-def-five"></td>
 																		<td id="max-def-five"></td>
 																	</tr>
 																	<tr>
-																		<td>SPD</td>
+																		<td>素早さ</td>
 																		<td id="base-agility-five"></td>
 																		<td id="ability-agility-five"></td>
 																		<td id="gear-agility-five"></td>
 																		<td id="max-agility-five"></td>
 																	</tr>
 																	<tr>
-																		<td>Dodge</td>
+																		<td>回避率</td>
 																		<td id="base-evasion-five">%</td>
 																		<td id="ability-evasion-five">%</td>
 																		<td id="gear-evasion-five">%</td>
 																		<td id="max-evasion-five">%</td>
 																	</tr>
 																	<tr>
-																		<td>Crit Chance</td>
+																		<td>会心率</td>
 																		<td id="base-criticalrate-five">%</td>
 																		<td id="ability-criticalrate-five">%</td>
 																		<td id="gear-criticalrate-five">%</td>
 																		<td id="max-criticalrate-five">%</td>
 																	</tr>
 																	<tr>
-																		<td>Crit Damage</td>
+																		<td>会心力</td>
 																		<td id="base-criticalpower-five">%</td>
 																		<td id="ability-criticalpower-five">%</td>
 																		<td id="gear-criticalpower-five">%</td>
 																		<td id="max-criticalpower-five">%</td>
 																	</tr>
 																	<tr>
-																		<td>Skill Damage</td>
+																		<td>スキルダメージ</td>
 																		<td id="base-skilldamage-five">%</td>
 																		<td id="ability-skilldamage-five">%</td>
 																		<td id="gear-skilldamage-five">%</td>
@@ -254,79 +326,8 @@
 																</tbody>
 															</table>
 														</div>
-														<div class="tab-pane fade hidden" id="gear">
-															<div class="base-gear">
-																<div class="icon">
-																	<img class="gearicon" src="">
-																</div>
-																<div class="info">
-																	<div class="header">
-																		<div class="type">
-																			<h4 class="geartype"></h4>
-																		</div>
-																		<div class="title">
-																			<h3 class="gearname"></h3>
-																		</div>
-																	</div>
-																	<div class="description">
-																		<p class="geardescription"></p>
-																	</div>
-																</div>
-															</div>
-															<div class="base-gear">
-																<div class="icon">
-																	<img class="gearicon" src="">
-																</div>
-																<div class="info">
-																	<div class="header">
-																		<div class="type">
-																			<h4 class="geartype"></h4>
-																		</div>
-																		<div class="title">
-																			<h3 class="gearname"></h3>
-																		</div>
-																	</div>
-																	<div class="description">
-																		<p class="geardescription"></p>
-																	</div>
-																</div>
-															</div>
-															<div class="base-gear">
-																<div class="icon">
-																	<img class="gearicon" src="">
-																</div>
-																<div class="info">
-																	<div class="header">
-																		<div class="type">
-																			<h4 class="geartype"></h4>
-																		</div>
-																		<div class="title">
-																			<h3 class="gearname"></h3>
-																		</div>
-																	</div>
-																	<div class="description">
-																		<p class="geardescription"></p>
-																	</div>
-																</div>
-															</div>
-															<div class="base-gear">
-																<div class="icon">
-																	<img class="gearicon" src="">
-																</div>
-																<div class="info">
-																	<div class="header">
-																		<div class="type">
-																			<h4 class="geartype"></h4>
-																		</div>
-																		<div class="title">
-																			<h3 class="gearname"></h3>
-																		</div>
-																	</div>
-																	<div class="description">
-																		<p class="geardescription"></p>
-																	</div>
-																</div>
-															</div>
+														<div class="tab-pane fade" id="gear">
+															
 														</div>
 													</div>
 												</div>
@@ -348,10 +349,10 @@
 											<div class="row">
 												<div class="col-md-12">
 													<ul class="nav nav-nscdb">
-														<li class="active"><a id="skills-six-btn" data-toggle="tab" href="#skills-six">Skills</a></li>
-														<li><a id="ability-six-btn" data-toggle="tab" href="#ability-six">Abilities</a></li>
-														<li><a id="status-six-btn" data-toggle="tab" href="#status-six">Status</a></li>
-														<li class="hidden"><a id="gear-six-btn" data-toggle="tab" href="#gear-six">Gear</a></li>
+														<li class="active"><a id="skills-six-btn" data-toggle="tab" href="#skills-six">Skill</a></li>
+														<li><a id="ability-six-btn" data-toggle="tab" href="#ability-six">Ability</a></li>
+														<li class="hidden"><a id="status-six-btn" data-toggle="tab" href="#status-six">ステータス</a></li>
+														<li><a id="gear-six-btn" data-toggle="tab" href="#gear-six">Gear</a></li>
 													</ul>
 												</div>
 												<div class="col-md-12">
@@ -444,10 +445,10 @@
 																<thead>
 																	<tr>
 																		<th></th>
-																		<th>Base Value</th>
-																		<th>Ability Increase</th>
-																		<th>Skill Increase</th>
-																		<th>Max</th>
+                                                                        <th>基礎</th>
+                                                                        <th>アビリティ</th>
+                                                                        <th>スキル</th>
+                                                                        <th>合計</th>
 																	</tr>
 																</thead>
 																<tbody>
@@ -459,49 +460,49 @@
 																		<td id="max-hp-six"></td>
 																	</tr>
 																	<tr>
-																		<td>ATK</td>
+																		<td>Normal</td>
 																		<td id="base-atk-six"></td>
 																		<td id="ability-atk-six"></td>
 																		<td id="gear-atk-six"></td>
 																		<td id="max-atk-six"></td>
 																	</tr>
 																	<tr>
-																		<td>DEF</td>
+																		<td>防御力</td>
 																		<td id="base-def-six"></td>
 																		<td id="ability-def-six"></td>
 																		<td id="gear-def-six"></td>
 																		<td id="max-def-six"></td>
 																	</tr>
 																	<tr>
-																		<td>SPD</td>
+																		<td>素早さ</td>
 																		<td id="base-agility-six"></td>
 																		<td id="ability-agility-six"></td>
 																		<td id="gear-agility-six"></td>
 																		<td id="max-agility-six"></td>
 																	</tr>
 																	<tr>
-																		<td>Dodge</td>
+																		<td>回避率</td>
 																		<td id="base-evasion-six">%</td>
 																		<td id="ability-evasion-six">%</td>
 																		<td id="gear-evasion-six">%</td>
 																		<td id="max-evasion-six">%</td>
 																	</tr>
 																	<tr>
-																		<td>Crit Chance</td>
+																		<td>会心率</td>
 																		<td id="base-criticalrate-six">%</td>
 																		<td id="ability-criticalrate-six">%</td>
 																		<td id="gear-criticalrate-six">%</td>
 																		<td id="max-criticalrate-six">%</td>
 																	</tr>
 																	<tr>
-																		<td>Crit Damage</td>
+																		<td>会心力</td>
 																		<td id="base-criticalpower-six">%</td>
 																		<td id="ability-criticalpower-six">%</td>
 																		<td id="gear-criticalpower-six">%</td>
 																		<td id="max-criticalpower-six">%</td>
 																	</tr>
 																	<tr>
-																		<td>Skill Damage</td>
+																		<td>スキルダメージ</td>
 																		<td id="base-skilldamage-six">%</td>
 																		<td id="ability-skilldamage-six">%</td>
 																		<td id="gear-skilldamage-six">%</td>
@@ -510,79 +511,8 @@
 																</tbody>
 															</table>
 														</div>
-														<div class="tab-pane fade hidden" id="gear-six">
-															<div class="base-gear">
-																<div class="icon">
-																	<img src="assets/img/gear/2675.png">
-																</div>
-																<div class="info">
-																	<div class="header">
-																		<div class="type">
-																			<h4>Chakra</h4>
-																		</div>
-																		<div class="title">
-																			<h3>Truth of Despair</h3>
-																		</div>
-																	</div>
-																	<div class="description">
-																		<p>Wisdom attribute and Independent characters Attack and Skill damage +80%</p>
-																	</div>
-																</div>
-															</div>
-															<div class="base-gear">
-																<div class="icon">
-																	<img src="assets/img/gear/2675.png">
-																</div>
-																<div class="info">
-																	<div class="header">
-																		<div class="type">
-																			<h4>Chakra</h4>
-																		</div>
-																		<div class="title">
-																			<h3>Truth of Despair</h3>
-																		</div>
-																	</div>
-																	<div class="description">
-																		<p>Wisdom attribute and Independent characters Attack and Skill damage +80%</p>
-																	</div>
-																</div>
-															</div>
-															<div class="base-gear">
-																<div class="icon">
-																	<img src="assets/img/gear/2675.png">
-																</div>
-																<div class="info">
-																	<div class="header">
-																		<div class="type">
-																			<h4>Chakra</h4>
-																		</div>
-																		<div class="title">
-																			<h3>Truth of Despair</h3>
-																		</div>
-																	</div>
-																	<div class="description">
-																		<p>Wisdom attribute and Independent characters Attack and Skill damage +80%</p>
-																	</div>
-																</div>
-															</div>
-															<div class="base-gear">
-																<div class="icon">
-																	<img src="assets/img/gear/2675.png">
-																</div>
-																<div class="info">
-																	<div class="header">
-																		<div class="type">
-																			<h4>Chakra</h4>
-																		</div>
-																		<div class="title">
-																			<h3>Truth of Despair</h3>
-																		</div>
-																	</div>
-																	<div class="description">
-																		<p>Wisdom attribute and Independent characters Attack and Skill damage +80%</p>
-																	</div>
-																</div>
-															</div>
+														<div class="tab-pane fade" id="gear-six">
+															
 														</div>
 													</div>
 												</div>
@@ -613,7 +543,7 @@
 					<div class="base-menu">
 						<ul>
 							<!-- <li><a href="nsc-db.github.io/index.html" role="button">Front Page</a> -->
-							<li><a href="../index.html" role="button">Home</a>								
+							<li><a href="../" role="button">Home</a>																
 							<li class="active"><a href="../units/index.html" role="button">Units</a>
 							<li><a href="../gear/index.html" role="button">Ninja Gear</a>
 							<li><a href="../jp/index.html" role="button">JP</a>
@@ -635,37 +565,269 @@
 		<div class="base-content">
 			<div class="row">
 				<div class="col-md-4">
-					<h2>Units Table</h2>
-					<p>Choose a unit to view details</p>
-					
+					<h2>Unit Database</h2>
+					<p></p>
 				</div>
 				<div class="col-md-8">
 					<div class="alert alert-warning" role="alert">
-						<strong>Click <a href="../eng/index.html">here</a> to access the new characters</strong> 
+						<strong>Stay Stoner Free</strong> 
 					</div>
 				</div>
 				<div class="col-md-12">
 					<hr>
 				</div>
 			</div>
+			<div class="row">
+				<div class="col-md-2">
+					<h2>Filter</h2>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-4 col-md-offset-4 ">
+					<div class="panel-heading">
+						<div class="btn-danger" id="reset-filter" style="width:110%; text-align: center;">Reset</div>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-10 col-md-offset-2">
+					<div id="filter-attribute" class="" style="padding: 5px; text-align: center;">
+						<div class="list-group">
+							<div class="col-md-2">
+							<a href="#" id="Heart" class="list-group-item">Heart</a>
+							</div>
+							<div class="col-md-2">
+							<a href="#" id="Technique" class="list-group-item">Technique</a>
+							</div>
+							<div class="col-md-2">
+							<a href="#" id="Body" class="list-group-item">Body</a>
+							</div>
+							<div class="col-md-2">
+							<a href="#" id="Intellect" class="list-group-item">Intellect</a>
+							</div>
+							<div class="col-md-2">
+							<a href="#" id="Heart" class="list-group-item">Courage</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
 
 			<div class="row">
 				<div class="col-md-12">
-					<table id="myTable" class="display" cellspacing="0" width="100%">
-						<tbody class="cards">
-						</tbody>
-					</table>
+					<div id="filter-rare" class="" style="padding: 10px; text-align: center;">
+						<div class="list-group">
+							<div class="col-md-2">
+							<a href="#" id="1" class="list-group-item">1&#9733;</a>
+							</div>
+							<div class="col-md-2">
+							<a href="#" id="2" class="list-group-item">2&#9733;</a>
+							</div>
+							<div class="col-md-2">
+							<a href="#" id="3" class="list-group-item">3&#9733;</a>
+							</div>
+							<div class="col-md-2">
+							<a href="#" id="4" class="list-group-item">4&#9733;</a>
+							</div>
+							<div class="col-md-2">
+							<a href="#" id="5" class="list-group-item">5&#9733;</a>
+							</div>
+							<div class="col-md-2">
+							<a href="#" id="6" class="list-group-item">6&#9733;</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-6" style="margin-top: 10px;">
+					<div class="panel panel-default">
+						<div id="filter-tags-collapse" class="panel-heading" data-toggle="collapse" href="#filter-tags" style="cursor: pointer; text-align: center;">
+							<h3 class="panel-title">Category</h3>
+						</div>
+						<div id="filter-tags" class="attribute-filter panel-collapse collapse">
+							<div id="filter" class="list-group">
+								<a href="#" id="ex-6" class="list-group-item" >Ex 6&#9733;</a>
+								<a href="#" id="ex-5" class="list-group-item" >Ex 5&#9733;</a>
+								<a href="#" id="pvp-reward" data-toggle="" class="list-group-item" >Champion</a>
+								<a href="#" id="god" data-toggle="" class="list-group-item">God</a>
+								<a href="#" id="killers" data-toggle="" class="list-group-item" >Killer</a>
+								<a href="#" id="limited-6" data-toggle="" class="list-group-item" >Limited 6&#9733;</a>
+								<a href="#" id="limited-5" data-toggle="" class="list-group-item" >Limited 5&#9733;</a>
+								<a href="#" id="event" data-toggle="" class="list-group-item" >Event</a>
+								<a href="#" id="slayer" data-toggle="" class="list-group-item" >Slayer</a>
+								<a href="#" id="special" data-toggle="" class="list-group-item" >Special</a>
+								<a href="#" id="gacha" data-toggle="" class="list-group-item" >Gacha</a>
+								<a href="#" id="fp" data-toggle="" class="list-group-item" >FP</a>
+								<a href="#" id="voiced" data-toggle="" class="list-group-item" >Voiced</a>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-md-6" style="margin-top: 10px;">
+					<div class="panel panel-default">
+						<div id="filter-affi-collapse" class="panel-heading" data-toggle="collapse" href="#filter-affi" style="cursor: pointer; text-align: center;">
+							<h3 class="panel-title">Affiliation</h3>
+						</div>
+						<div id="filter-affi" class="attribute-filter panel-collapse collapse">
+							<div id="filter" class="list-group">
+								<a href="#" id="Konoha" class="list-group-item" >Konoha</a>
+								<a href="#" id="“Akatsuki”" class="list-group-item" >“Akatsuki”</a>
+								<a href="#" id="None" data-toggle="" class="list-group-item" >None</a>
+								<a href="#" id="Suna" data-toggle="" class="list-group-item">Suna</a>
+								<a href="#" id="Kiri" data-toggle="" class="list-group-item" >Kiri</a>
+								<a href="#" id="Taka" data-toggle="" class="list-group-item" >Taka</a>
+								<a href="#" id="“Hebi”" data-toggle="" class="list-group-item" >Hebi</a>
+								<a href="#" id="Iwa" data-toggle="" class="list-group-item" >Iwa</a>
+								<a href="#" id="Kumo" data-toggle="" class="list-group-item" >Kumo</a>
+								<a href="#" id="Ame" data-toggle="" class="list-group-item" >Ame</a>
+								<a href="#" id="Oto" data-toggle="" class="list-group-item" >Oto</a>
+								<a href="#" id="Taki" data-toggle="" class="list-group-item" >Taki</a>
+								<a href="#" id="Iron" data-toggle="" class="list-group-item" >Iron</a>
+							</div>
+						</div>
+					</div>
 				</div>
 
 				<div class="col-md-12">
-					<div class="footer">
-						<hr>
-						<p class="note">Created by Yuyya, Noobiel, Book and Achromic</p>
+					<div class="panel panel-default">
+						<div id="filter-skills-collapse" class="panel-heading" data-toggle="collapse" href="#filter-skills" style="cursor: pointer; text-align: center;">
+							<h3 class="panel-title">Skill</h3>
+						</div>
+						<div id="filter-skills" class="attribute-filter panel-collapse collapse">
+						   	<div id="filter-target" class="filter">
+						   		<h4>Target</h4>
+						   		<button id="One" type="button" class="btn">One</button>
+								<button id="All" type="button" class="btn">All</button>
+								<button id="Allies" type="button" class="btn">Allies</button>
+								<button id="Self" type="button" class="btn">Self</button>
+							</div>
+						   	<div id="filter-cast" class="filter">
+								<h4>Cast Speed</h4>			
+						   		<button id="Fastest" type="button" class="btn">Fastest</button>
+								<button id="Fast" type="button" class="btn">Fast</button>
+								<button id="Normal" type="button" class="btn">Normal</button>
+								<button id="Slow" type="button" class="btn">Slow</button>
+								<button id="Slowest" type="button" class="btn">Slowest</button>
+							</div>
+							<!--
+							<div id="filter-cost" class="filter">
+								<h4>Cost: <span id="cost"></span></h4>
+ 								<input type="range" min="1" max="200" value="50" class="slider" id="chakraCost">
+							</div>-->
+
+							<div id="filter-damage" class="filter">
+								<h4>Type</h4>
+								<button id="Normal" type="button" class="btn">Normal</button>
+								<button id="Multiplier" type="button" class="btn">Multiplier</button>
+								<button id="Fixed" type="button" class="btn">Fixed</button>
+								<button id="Buff" type="button" class="btn">Buff</button>
+								<button id="Debuff" type="button" class="btn">Debuff</button>		 
+								<button id="Recovery" type="button" class="btn">Recovery</button>
+
+							</div>
+
+							<div id="filter-nature" class="filter">
+								<h4>Nature</h4>
+								<button id="Fire" type="button" class="btn">Fire</button>
+								<div class="divider"/></div>
+								<button id="Water" type="button" class="btn">Water</button>
+                                <div class="divider"></div>
+								<button id="Earth" type="button" class="btn">Earth</button>
+                                <div class="divider"></div>
+								<button id="Wind" type="button" class="btn">Wind</button>
+                                <div class="divider"></div>
+								<button id="Lightning" type="button" class="btn">Lightning</button>
+                                <div class="divider"></div>
+								<button id="Wood" type="button" class="btn">Wood</button>
+                                <div class="divider"></div>
+								<button id="Healing" type="button" class="btn">Healing</button>
+                                <div class="divider"></div>
+								<button id="Resurrection" type="button" class="btn">Resurrection</button>
+                                <div class="divider"></div>
+								<button id="Space-Time" type="button" class="btn">Space-Time</button>
+                                <div class="divider"></div>
+								<button id="Weapon" type="button" class="btn">Weapon</button>
+                                <div class="divider"></div>
+								<button id="Clone" type="button" class="btn">Clone</button>
+                                <div class="divider"></div>
+								<button id="Barrier" type="button" class="btn">Barrier</button>
+                                <div class="divider"></div>
+								<button id="Unique" type="button" class="btn">Unique</button>
+                                <div class="divider"></div>
+								<button id="Summoning" type="button" class="btn">Summoning</button>
+                                <div class="divider"></div>
+								<button id="Taijutsu" type="button" class="btn">Taijutsu</button>
+                                <div class="divider"></div>
+								<button id="Genjutsu" type="button" class="btn">Genjutsu</button>
+                                <div class="divider"></div>
+								<button id="Curse-Seal" type="button" class="btn">Curse-Seal</button>
+                                <div class="divider"></div>
+								<button id="Sealing" type="button" class="btn">Sealing</button>
+                                <div class="divider"></div>
+								<button id="Secret" type="button" class="btn">Secret</button>
+                                <div class="divider"></div>
+								<button id="Sage" type="button" class="btn">Sage</button>
+                                <div class="divider"></div>
+								<button id="Sharingan" type="button" class="btn">Sharingan</button>
+                                <div class="divider"></div>
+								<button id="None" type="button" class="btn">None</button>
+                                <div class="divider"></div>
+								<button id="Byakugan" type="button" class="btn">Byakugan</button>
+                                <div class="divider"></div>
+								<button id="Rinnegan" type="button" class="btn">Rinnegan</button>
+                                <div class="divider"></div>
+								<button id="Ice" type="button" class="btn">Ice</button>
+                                <div class="divider"></div>
+								<button id="Inferno" type="button" class="btn">Inferno</button>
+                                <div class="divider"></div>
+								<button id="Lava" type="button" class="btn">Lava</button>
+                                <div class="divider"></div>
+								<button id="Mist" type="button" class="btn">Mist</button>
+                                <div class="divider"></div>
+								<button id="Boil" type="button" class="btn">Boil</button>
+                                <div class="divider"></div>
+								<button id="Storm" type="button" class="btn">Storm</button>
+                                <div class="divider"></div>
+								<button id="Explosion" type="button" class="btn">Explosion</button>
+                                <div class="divider"></div>
+								<button id="Scorch" type="button" class="btn">Scorch</button>
+                                <div class="divider"></div>
+								<button id="Magnet" type="button" class="btn">Magnet</button>
+                                <div class="divider"></div>
+								<button id="Dust" type="button" class="btn">Dust</button>
+                                <div class="divider"></div>
+								<button id="Six Paths" type="button" class="btn">Six Paths</button>
+                                <div class="divider"></div>
+								<button id="Rinne Sharingan" type="button" class="btn">Rinne Sharingan</button>
+                                <div class="divider"></div>
+								<button id="Tailed Beast" type="button" class="btn">Tailed Beast</button>
+                                <div class="divider"></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+				
+				<div class="row">
+					<div class="col-md-12">
+						<table id="myTable" class="display" cellspacing="0" width="100%">
+							<tbody class="cards">
+							</tbody>
+						</table>
+					</div>
+
+					<div class="col-md-12">
+						<div class="footer">
+							<hr>
+							<p class="note">Created by Yuyya, Noobiel, Book and Achromic</p>
+						</div>
 					</div>
 				</div>
 			</div>
 		</div>
-	</div>
 
 	<!-- JQUERY -->
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
@@ -676,32 +838,12 @@
 	<script type="text/javascript" src="js/change-rarity.js"></script>
 
 	<!--JSON GATHER -->
-	<script type="text/javascript" src="json/json-gather.js"></script>
+	<script type="text/javascript" src="js/json-gather.js"></script>
 
 	<!-- TABLE GENERATOR -->
 	<script type="text/javascript" src="js/datatables.min.js"></script>
-	<script>
-		$(document).ready( function () {
-			$('#myTable').DataTable({
-				stateSave: true,
-				columns: [
-		            { title: "No" },
-		            { title: "Icon" },
-		            { title: "Name" },
-		            { title: "Type" },
-		            { title: "Affiliation" },
-		            { title: "Rarity" },
-		            { title: "Cost" },
-		            { title: "HP" },
-		            { title: "ATK" },
-		            { title: "DEF" },
-		            { title: "SPD" },
-		            { title: "Rating" }
-		        ]
-			});
-		} );
-	</script>
 
+	<script type="text/javascript" src="js/table.js"></script>
 	<script>
 		$('#newModal').on('hidden.bs.modal', function (e) {
 		  $(this).find(‘.modal-dialog’).empty();

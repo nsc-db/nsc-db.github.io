@@ -4943,7 +4943,7 @@ window.skillname=[
           "cardBattleSkillNameId": "2417",
           "name": "うちはの瞳力をなめるなよ"
         },
-         {
+        {
           "cardBattleSkillNameId": "2418",
           "name": "封縛法陣"
         },
@@ -5042,6 +5042,10 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "2443",
           "name": "迷いは全てたち切り一新する"
+        },
+        {
+          "cardBattleSkillNameId": "2444",
+          "name": "私の役目よね"
         },
         {
           "cardBattleSkillNameId": "10136",
@@ -5162,5 +5166,9 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "20403",
           "name": "ヒートアップ焼きもち"
+        },
+        {
+          "cardBattleSkillNameId": "20500",
+          "name": "トロフィーの怒り"
         }
 ]

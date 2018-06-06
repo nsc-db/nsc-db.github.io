@@ -14158,5 +14158,37 @@ window.gear=[
           "crystalImageId": "106075",
           "recipeId": "10607",
           "recipeName": "和解の印"
+        },
+        {
+          "crystalId": "10619",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "662",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "50000",
+          "saleMoney": "2500",
+          "crystalName": "超忍ﾒﾓﾘｱﾙ認定証",
+          "crystalDescription": "全スキルダメージが20%アップ",
+          "crystalImageId": "106195",
+          "recipeId": "10619",
+          "recipeName": "超忍ﾒﾓﾘｱﾙ認定証"
+        },
+        {
+          "crystalId": "10620",
+          "crystalType": "3",
+          "crystalRare": "5",
+          "effectIdx1": "1795",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "50000",
+          "saleMoney": "2500",
+          "crystalName": "\"走召\"運の証",
+          "crystalDescription": "行動後に超低確率で次回行動時の素早さが100%アップする",
+          "crystalImageId": "106205",
+          "recipeId": "10620",
+          "recipeName": "\"走召\"運の証"
         }
 ]
