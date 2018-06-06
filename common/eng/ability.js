@@ -7436,7 +7436,7 @@ window.ability=[
         {
           "abilityId": "827",
           "abilityName": "Sever Emotions",
-          "abilityDescription": "ATK and Skill Damage +100%",
+          "abilityDescription": "ATK and Skill Damage +150%",
           "abilityEffectDescription": "攻撃力とスキルダメージ100%アップ",
           "effectIdx1": "264",
           "effectIdx2": "30009",
@@ -7463,7 +7463,7 @@ window.ability=[
         {
           "abilityId": "830",
           "abilityName": "Vanishing Darkness",
-          "abilityDescription": "High Chance to Dodge Skills and Maximum Chakra +100",
+          "abilityDescription": "High Chance to Dodge Skills and Maximum Chakra +150",
           "abilityEffectDescription": "高確率でスキルを回避し最大チャクラ量が100アップ",
           "effectIdx1": "968",
           "effectIdx2": "813",
@@ -9623,7 +9623,7 @@ window.ability=[
         {
           "abilityId": "1070",
           "abilityName": "Empty Martyr",
-          "abilityDescription": "Maximum HP and SPD +100%, Chakra Cost -50%",
+          "abilityDescription": "Maximum HP and SPD +120%, Chakra Cost -50%",
           "abilityEffectDescription": "Maximum HP and SPD +100%し、チャクラ消費量が半減する",
           "effectIdx1": "684",
           "effectIdx2": "13099",
@@ -11846,7 +11846,7 @@ window.ability=[
         {
           "abilityId": "1317",
           "abilityName": "Merging of Sage and Tailed Beast Power",
-          "abilityDescription": "Skill Damage +150%",
+          "abilityDescription": "Maximum HP and Skill Damage +150%. SPD +30%",
           "abilityEffectDescription": "スキルダメージが150%アップする",
           "effectIdx1": "794",
           "effectIdx2": "0",
@@ -11864,7 +11864,7 @@ window.ability=[
         {
           "abilityId": "1319",
           "abilityName": "Shinobi Rescue Hero",
-          "abilityDescription": "Skill Damage +150%",
+          "abilityDescription": "Maximum HP and Skill Damage +150%. SPD +30%",
           "abilityEffectDescription": "スキルダメージが150%アップする",
           "effectIdx1": "794",
           "effectIdx2": "0",
@@ -12683,7 +12683,7 @@ window.ability=[
         {
           "abilityId": "1410",
           "abilityName": "Peak of Youth",
-          "abilityDescription": "ATK, DEF and SPD +150%",
+          "abilityDescription": "ATK, DEF and SPD +200%",
           "abilityEffectDescription": "攻撃力と防御力と素早さが150%アップする",
           "effectIdx1": "1268",
           "effectIdx2": "1459",
@@ -13232,7 +13232,7 @@ window.ability=[
         {
           "abilityId": "1475",
           "abilityName": "Rin's Entrusted Feelings",
-          "abilityDescription": "ATK, DEF and SPD +40% for every Konoha Ally",
+          "abilityDescription": "ATK, DEF and SPD +50% for every Konoha Ally",
           "abilityEffectDescription": "班の木ノ葉隠れの里所属1体につき、攻撃力・防御力・素早さが40%アップ（自身含む）",
           "effectIdx1": "1254",
           "effectIdx2": "1256",
