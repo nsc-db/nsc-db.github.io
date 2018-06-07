@@ -495,6 +495,7 @@
 							}
 						}
 					}
+					
 					var gear = '';
 					for(var y in ninguCharaId){
 						for(var z in window.gear){

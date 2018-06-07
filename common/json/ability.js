@@ -16965,6 +16965,24 @@ window.ability=[
           "effectIdx3": "1089"
         },
         {
+          "abilityId": "1923",
+          "abilityName": "織りなす幻",
+          "abilityDescription": "最大HPが150%アップし、弱体と状態異常を無効化する",
+          "abilityEffectDescription": "最大HPが150%アップし、弱体と状態異常を無効化する",
+          "effectIdx1": "1212",
+          "effectIdx2": "1772",
+          "effectIdx3": "82"
+        },
+        {
+          "abilityId": "1924",
+          "abilityName": "不定の現",
+          "abilityDescription": "2回行動するまでスキル発動速度が1段階アップし、2回行動後は高確率でスキルを回避する",
+          "abilityEffectDescription": "2回行動するまでスキル発動速度が1段階アップし、2回行動後は高確率でスキルを回避する",
+          "effectIdx1": "1379",
+          "effectIdx2": "1797",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

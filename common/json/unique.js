@@ -267,9 +267,9 @@ window.unique=[
           "crystalOverwriteEffectId": "23",
           "targetCrystal": "137",
           "description": "被ダメージ時確率でチャクラ100%HP50%回復、スキルダメージ30%アップ",
-          "charaIds": "101,201,301,2801",
-          "cardIds": "",
-          "charaGroupIds": "",
+          "charaIds": "101,201,301,2801,302",
+          "cardIds": "0",
+          "charaGroupIds": "0",
           "effectIdx1": "613",
           "effectIdx2": "612",
           "effectIdx3": "615",
@@ -7389,6 +7389,18 @@ window.unique=[
           "effectIdx1": "1796",
           "effectIdx2": "0",
           "effectIdx3": "0",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "628",
+          "targetCrystal": "10608",
+          "description": "敵から受ける全てのスキルダメージを半減、素早さと自身のスキルダメージが50%アップ",
+          "charaIds": "11601,11603",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "20501",
+          "effectIdx2": "13049",
+          "effectIdx3": "682",
           "effectIdx4": "0"
         }
 ]

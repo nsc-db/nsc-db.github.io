@@ -14160,6 +14160,22 @@ window.gear=[
           "recipeName": "和解の印"
         },
         {
+          "crystalId": "10608",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "35",
+          "effectIdx2": "78",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "500000",
+          "saleMoney": "2500",
+          "crystalName": "イタチの忍装束",
+          "crystalDescription": "火遁タイプと写輪眼タイプのスキルダメージを半減",
+          "crystalImageId": "106085",
+          "recipeId": "10608",
+          "recipeName": "イタチの忍装束"
+        },
+        {
           "crystalId": "10619",
           "crystalType": "11",
           "crystalRare": "5",
@@ -14190,5 +14206,21 @@ window.gear=[
           "crystalImageId": "106205",
           "recipeId": "10620",
           "recipeName": "\"走召\"運の証"
+        },
+        {
+          "crystalId": "10621",
+          "crystalType": "2",
+          "crystalRare": "4",
+          "effectIdx1": "339",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "100000",
+          "saleMoney": "2000",
+          "crystalName": "イタチの忍装束",
+          "crystalDescription": "写輪眼タイプのスキルダメージを軽減",
+          "crystalImageId": "106084",
+          "recipeId": "10621",
+          "recipeName": "イタチの忍装束"
         }
 ]

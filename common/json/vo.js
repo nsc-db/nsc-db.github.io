@@ -1488,6 +1488,18 @@ window.vo=[
           "voiceDeath": "guy_death_02_02"
         },
         {
+          "cardVoiceId": "125",
+          "cardId": "20040605",
+          "dirName": "itachi",
+          "evolutionStep": "",
+          "voiceAppear": "itachi_battle_02_03",
+          "voiceSkill1": "itachi_skill_02_10",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "itachi_skill_02_15",
+          "voiceDeath": "itachi_death_02_02"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

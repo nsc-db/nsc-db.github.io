@@ -16947,6 +16947,42 @@ window.ability=[
           "effectIdx3": "82"
         },
         {
+          "abilityId": "1921",
+          "abilityName": "Snake Deciple",
+          "abilityDescription": "Chakra Recovery +20%. Chance for HP -20%",
+          "abilityEffectDescription": "行動後にチャクラが20％回復するが、確率でHPが最大HPの20％減少する",
+          "effectIdx1": "1768",
+          "effectIdx2": "1518",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1922",
+          "abilityName": "Spirited Valor",
+          "abilityDescription": "ATK +100%. Additional +100% ATK and Cast Speed +1 when HP is above 80%",
+          "abilityEffectDescription": "攻撃力が100％アップ、HPが80％以上だとさらに100％アップしスキル発動速度が1段階アップ",
+          "effectIdx1": "11099",
+          "effectIdx2": "865",
+          "effectIdx3": "1089"
+        },
+        {
+          "abilityId": "1923",
+          "abilityName": "Weaving Illusion",
+          "abilityDescription": "Maximum HP +150%. Immune to Debuffs and Status Effects",
+          "abilityEffectDescription": "最大HPが150%アップし、弱体と状態異常を無効化する",
+          "effectIdx1": "1212",
+          "effectIdx2": "1772",
+          "effectIdx3": "82"
+        },
+        {
+          "abilityId": "1924",
+          "abilityName": "Undecided Present",
+          "abilityDescription": "For 2 turns, Cast Speed +1. After 2 turns, high chance to Dodge Skills",
+          "abilityEffectDescription": "2回行動するまでスキル発動速度が1段階アップし、2回行動後は高確率でスキルを回避する",
+          "effectIdx1": "1379",
+          "effectIdx2": "1797",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

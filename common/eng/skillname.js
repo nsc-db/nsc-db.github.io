@@ -167,7 +167,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "35",
           "name": "潜影蛇手",
-          "eng": ""
+          "eng": "Sttriking Shadow Snakes"
         },
         {
           "cardBattleSkillNameId": "36",
@@ -6304,6 +6304,21 @@ window.skillname=[
           "cardBattleSkillNameId": "2443",
           "name": "迷いは全てたち切り一新する",
           "eng": "Hestitation Between Severing and Restoring"
+        },
+        {
+          "cardBattleSkillNameId": "2444",
+          "name": "私の役目よね",
+          "eng": "It's My Duty"
+        },
+        {
+          "cardBattleSkillNameId": "2447",
+          "name": "八坂ノ勾玉",
+          "eng": "Yasaka Magatama"
+        },
+        {
+          "cardBattleSkillNameId": "2448",
+          "name": "オレにとっての新たな光だ！",
+          "eng": "My New Light"
         },
         {
           "cardBattleSkillNameId": "10136",

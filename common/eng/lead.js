@@ -9619,4 +9619,30 @@ window.lead=[
           "target2Category": "0",
           "target2Param": "0"
         },
+        {
+          "cardLeaderSkillId": "748",
+          "name": "破天荒の女傑",
+          "description": "Body Type ATK +80% and DEF -50%",
+          "effectIdx1": "11079",
+          "effectIdx2": "12104",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "3",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "749",
+          "name": "現界せし真実",
+          "description": "For 2 turns, SPD +400 for all Characters",
+          "effectIdx1": "1798",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
 ]

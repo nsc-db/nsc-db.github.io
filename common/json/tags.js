@@ -4445,4 +4445,10 @@ window.tags=[
           "tag": "event",
           "rate": "-"
 },
+{
+          "cardId": "20040605",
+          "rare": "5",
+          "tag": "ex-6",
+          "rate": "-"
+},
 ]
