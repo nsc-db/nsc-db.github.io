@@ -6321,6 +6321,16 @@ window.skillname=[
           "eng": "My New Light"
         },
         {
+          "cardBattleSkillNameId": "2451",
+          "name": "幻惑に秘せる刃",
+          "eng": "Hidden Illusion Blade"
+        },
+        {
+          "cardBattleSkillNameId": "2452",
+          "name": "これで終わりよ",
+          "eng": "It Ends Here"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！",
           "eng": ""

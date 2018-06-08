@@ -5056,6 +5056,14 @@ window.skillname=[
           "name": "オレにとっての新たな光だ！"
         },
         {
+          "cardBattleSkillNameId": "2451",
+          "name": "幻惑に秘せる刃"
+        },
+        {
+          "cardBattleSkillNameId": "2452",
+          "name": "これで終わりよ"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },

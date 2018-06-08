@@ -7402,5 +7402,53 @@ window.unique=[
           "effectIdx2": "13049",
           "effectIdx3": "682",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "629",
+          "targetCrystal": "10613",
+          "description": "バトル開始時にチャクラ50%回復、チャクラ消費量半減、全スキルダメージが50％アップ",
+          "charaIds": "3301,3302",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1115",
+          "effectIdx2": "895",
+          "effectIdx3": "682",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "630",
+          "targetCrystal": "10614",
+          "description": "弱体と幻術タイプを無効化、最大チャクラ量が50アップ、素早さが30%アップ",
+          "charaIds": "3301,3302",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1772",
+          "effectIdx2": "46",
+          "effectIdx3": "689",
+          "effectIdx4": "183"
+        },
+        {
+          "crystalOverwriteEffectId": "631",
+          "targetCrystal": "10609",
+          "description": "0",
+          "charaIds": "4701",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "20004",
+          "effectIdx2": "860",
+          "effectIdx3": "820",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "632",
+          "targetCrystal": "10611",
+          "description": "0",
+          "charaIds": "4701,13701,13702,13704",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "30011",
+          "effectIdx2": "21000",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
         }
 ]

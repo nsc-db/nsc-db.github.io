@@ -62,7 +62,7 @@ window.unique=[
         {
           "crystalOverwriteEffectId": "6",
           "targetCrystal": "120",
-          "description": "敵からの写輪眼ダメージを半減&amp;自身の写輪眼ダメージ20%アップ。封印無効",
+          "description": "Incoming Sharingan Skill Damage -50% and own Sharingan Skill Damage +20%. Immune to Seal",
           "charaIds": "11601,11603",
           "cardIds": "",
           "charaGroupIds": "",
@@ -267,9 +267,9 @@ window.unique=[
           "crystalOverwriteEffectId": "23",
           "targetCrystal": "137",
           "description": "被ダメージ時確率でチャクラ100%HP50%回復、スキルダメージ30%アップ",
-          "charaIds": "101,201,301,2801",
-          "cardIds": "",
-          "charaGroupIds": "",
+          "charaIds": "101,201,301,2801,302",
+          "cardIds": "0",
+          "charaGroupIds": "0",
           "effectIdx1": "613",
           "effectIdx2": "612",
           "effectIdx3": "615",
@@ -338,7 +338,7 @@ window.unique=[
         {
           "crystalOverwriteEffectId": "29",
           "targetCrystal": "143",
-          "description": "行動後にHPとチャクラが10%回復する＆写輪眼スキルのダメージ60％アップ",
+          "description": "HP Regen and Chakra Recovery -10%. Sharingan Skill Damage +60%",
           "charaIds": "11601,11602,11603",
           "cardIds": "",
           "charaGroupIds": "",
@@ -890,7 +890,7 @@ window.unique=[
         {
           "crystalOverwriteEffectId": "75",
           "targetCrystal": "210",
-          "description": "最大HPと素早さが50%アップし、状態異常を無効",
+          "description": "Maximum HP and SPD +50%, Immune to Status Effects",
           "charaIds": "3301,3302",
           "cardIds": "",
           "charaGroupIds": "",
@@ -5174,7 +5174,7 @@ window.unique=[
         {
           "crystalOverwriteEffectId": "439",
           "targetCrystal": "647",
-          "description": "防御力が200％アップし、最大HPと素早さを50%アップする",
+          "description": "DEF +200%, Maximum HP and SPD +50%",
           "charaIds": "3301,3302",
           "cardIds": "0",
           "charaGroupIds": "0",
@@ -5186,7 +5186,7 @@ window.unique=[
         {
           "crystalOverwriteEffectId": "440",
           "targetCrystal": "648",
-          "description": "7回行動するまでチャクラ消費量を半減、全スキルダメージを30%アップする",
+          "description": "For 7 turns, Chakra Cost -50% and Skill Damage +30%",
           "charaIds": "3302",
           "cardIds": "0",
           "charaGroupIds": "0",
@@ -5618,7 +5618,7 @@ window.unique=[
         {
           "crystalOverwriteEffectId": "476",
           "targetCrystal": "751",
-          "description": "最大HPと攻撃力と素早さが100％アップする",
+          "description": "Maximum HP, ATk and SPD +100%",
           "charaIds": "3301,3302",
           "cardIds": "0",
           "charaGroupIds": "0",
@@ -5630,7 +5630,7 @@ window.unique=[
         {
           "crystalOverwriteEffectId": "477",
           "targetCrystal": "752",
-          "description": "幻術タイプのスキルダメージが100％アップし、状態異常を無効化する",
+          "description": "Genjutsu Skill Damage +100%. Immune to Status Effects",
           "charaIds": "3301,3302",
           "cardIds": "0",
           "charaGroupIds": "0",
@@ -7388,6 +7388,66 @@ window.unique=[
           "charaGroupIds": "0",
           "effectIdx1": "1796",
           "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "628",
+          "targetCrystal": "10608",
+          "description": "敵から受ける全てのスキルダメージを半減、素早さと自身のスキルダメージが50%アップ",
+          "charaIds": "11601,11603",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "20501",
+          "effectIdx2": "13049",
+          "effectIdx3": "682",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "629",
+          "targetCrystal": "10613",
+          "description": "Start with 50% Chakra, Chakra Cost -50% and Skill Damage +50%",
+          "charaIds": "3301,3302",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1115",
+          "effectIdx2": "895",
+          "effectIdx3": "682",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "630",
+          "targetCrystal": "10614",
+          "description": "Immune to Debuff and Genjutsu, Maximum Chakra +50, SPD +30%",
+          "charaIds": "3301,3302",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1772",
+          "effectIdx2": "46",
+          "effectIdx3": "689",
+          "effectIdx4": "183"
+        },
+        {
+          "crystalOverwriteEffectId": "631",
+          "targetCrystal": "10609",
+          "description": "0",
+          "charaIds": "4701",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "20004",
+          "effectIdx2": "860",
+          "effectIdx3": "820",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "632",
+          "targetCrystal": "10611",
+          "description": "0",
+          "charaIds": "4701,13701,13702,13704",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "30011",
+          "effectIdx2": "21000",
           "effectIdx3": "0",
           "effectIdx4": "0"
         }

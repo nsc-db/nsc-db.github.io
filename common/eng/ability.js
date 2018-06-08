@@ -16983,6 +16983,24 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "1925",
+          "abilityName": "Binding Illusion",
+          "abilityDescription": "High chance to dodge Skills. Chakra Recovery +30%",
+          "abilityEffectDescription": "高確率でスキルを回避、行動後にチャクラが30%回復",
+          "effectIdx1": "968",
+          "effectIdx2": "820",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1926",
+          "abilityName": "Addicted Dreams",
+          "abilityDescription": "Skill Damage and SPD +100%, Cast Speed +1 when Chakra is above 50%",
+          "abilityEffectDescription": "チャクラが50%以上の時、スキルダメージと素早さ100%アップ&amp;スキル発動速度1段階アップ",
+          "effectIdx1": "33409",
+          "effectIdx2": "1787",
+          "effectIdx3": "1803"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
