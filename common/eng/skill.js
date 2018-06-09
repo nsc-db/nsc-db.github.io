@@ -85682,7 +85682,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2433",
           "nameIdx": "2451",
-          "description": "Deal 7% + 30,000 to one enemy with a high chance to ignore resistance and Skip 1 turn.. Deal 6x damage to Akatsuki characters. Remove the enemy's positive special state",
+          "description": "Deal 7% + 30,000 to one enemy with a high chance to ignore resistance and Skip 1 turn. Deal 7x damage to Akatsuki characters. Remove the enemy's positive special state",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2433",
