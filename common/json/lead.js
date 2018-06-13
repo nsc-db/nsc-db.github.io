@@ -9659,6 +9659,19 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "751",
+          "name": "並び立つ武勇",
+          "description": "勇属性と無所属の最大HPと攻撃力と素早さを60%アップ",
+          "effectIdx1": "10059",
+          "effectIdx2": "11059",
+          "effectIdx3": "13059",
+          "compType": "2",
+          "target1Category": "2",
+          "target1Param": "99",
+          "target2Category": "1",
+          "target2Param": "7"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

@@ -7430,7 +7430,7 @@ window.unique=[
         {
           "crystalOverwriteEffectId": "631",
           "targetCrystal": "10609",
-          "description": "0",
+          "description": "最大チャクラ量50アップ、チャクラ消費量が20%ダウン、行動後チャクラ30%回復",
           "charaIds": "4701",
           "cardIds": "0",
           "charaGroupIds": "0",
@@ -7442,7 +7442,7 @@ window.unique=[
         {
           "crystalOverwriteEffectId": "632",
           "targetCrystal": "10611",
-          "description": "0",
+          "description": "全スキルダメージ120%アップ、スキル発動速度1段階アップ",
           "charaIds": "4701,13701,13702,13704",
           "cardIds": "0",
           "charaGroupIds": "0",

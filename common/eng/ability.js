@@ -17001,6 +17001,24 @@ window.ability=[
           "effectIdx3": "1803"
         },
         {
+          "abilityId": "1927",
+          "abilityName": "Polished Swordsmanship",
+          "abilityDescription": "ATK and Skill Damage +200% when HP is above 90%",
+          "abilityEffectDescription": "HP90%以上の時、攻撃力とスキルダメージが200%アップ",
+          "effectIdx1": "1799",
+          "effectIdx2": "31819",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1928",
+          "abilityName": "Secret Eyes",
+          "abilityDescription": "For 1 turn, SPD +200%, Cast Speed +1 and Chakra Cost -100%",
+          "abilityEffectDescription": "1回行動するまで、素早さ200%アップ&amp;スキル発動速度1段階アップ&amp;チャクラ消費量0",
+          "effectIdx1": "1800",
+          "effectIdx2": "1539",
+          "effectIdx3": "1411"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

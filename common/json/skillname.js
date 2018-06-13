@@ -5048,6 +5048,14 @@ window.skillname=[
           "name": "私の役目よね"
         },
         {
+          "cardBattleSkillNameId": "2445",
+          "name": "炎刃乱舞"
+        },
+        {
+          "cardBattleSkillNameId": "2446",
+          "name": "兄を支えし剣"
+        },
+        {
           "cardBattleSkillNameId": "2447",
           "name": "八坂ノ勾玉"
         },

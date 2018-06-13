@@ -14185,8 +14185,8 @@ window.gear=[
           "effectIdx4": "0",
           "money": "30000",
           "saleMoney": "2500",
-          "crystalName": "0",
-          "crystalDescription": "0",
+          "crystalName": "イズナのサンダル",
+          "crystalDescription": "行動後チャクラ10%回復",
           "crystalImageId": "106095",
           "recipeId": "10609",
           "recipeName": "イズナのサンダル"
@@ -14201,8 +14201,8 @@ window.gear=[
           "effectIdx4": "0",
           "money": "30000",
           "saleMoney": "2500",
-          "crystalName": "0",
-          "crystalDescription": "0",
+          "crystalName": "うちはの額縁",
+          "crystalDescription": "火遁と写輪眼タイプのスキルダメージ30%アップ",
           "crystalImageId": "106115",
           "recipeId": "10611",
           "recipeName": "うちはの額縁"

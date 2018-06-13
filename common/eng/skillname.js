@@ -6311,6 +6311,16 @@ window.skillname=[
           "eng": "It's My Duty"
         },
         {
+          "cardBattleSkillNameId": "2445",
+          "name": "炎刃乱舞",
+          "eng": "Flame Blade Dance"
+        },
+        {
+          "cardBattleSkillNameId": "2446",
+          "name": "兄を支えし剣",
+          "eng": "Brother's Blade Support"
+        },
+        {
           "cardBattleSkillNameId": "2447",
           "name": "八坂ノ勾玉",
           "eng": "Yasaka Magatama"

@@ -9658,4 +9658,17 @@ window.lead=[
           "target2Category": "0",
           "target2Param": "0"
         },
+        {
+          "cardLeaderSkillId": "751",
+          "name": "並び立つ武勇",
+          "description": "Courage Type and None Characters Maximum HP, ATK and SPD +60%",
+          "effectIdx1": "10059",
+          "effectIdx2": "11059",
+          "effectIdx3": "13059",
+          "compType": "2",
+          "target1Category": "2",
+          "target1Param": "99",
+          "target2Category": "1",
+          "target2Param": "7"
+        },
 ]
