@@ -5072,6 +5072,14 @@ window.skillname=[
           "name": "これで終わりよ"
         },
         {
+          "cardBattleSkillNameId": "2453",
+          "name": "永遠の万華鏡写輪眼"
+        },
+        {
+          "cardBattleSkillNameId": "2454",
+          "name": "もう届きはしない"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },

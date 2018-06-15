@@ -9671,4 +9671,17 @@ window.lead=[
           "target2Category": "1",
           "target2Param": "7"
         },
+        {
+          "cardLeaderSkillId": "752",
+          "name": "不滅の万華鏡",
+          "description": "Intellect Type and None Characers Maximum HP and ATK +90%",
+          "effectIdx1": "11089",
+          "effectIdx2": "10089",
+          "effectIdx3": "0",
+          "compType": "2",
+          "target1Category": "2",
+          "target1Param": "99",
+          "target2Category": "1",
+          "target2Param": "6"
+        },
 ]

@@ -9672,6 +9672,19 @@ window.lead=[
           "target2Param": "7"
         },
         {
+          "cardLeaderSkillId": "752",
+          "name": "不滅の万華鏡",
+          "description": "知属性と無所属の最大HPと攻撃力を90%アップ",
+          "effectIdx1": "11089",
+          "effectIdx2": "10089",
+          "effectIdx3": "0",
+          "compType": "2",
+          "target1Category": "2",
+          "target1Param": "99",
+          "target2Category": "1",
+          "target2Param": "6"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

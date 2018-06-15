@@ -6341,6 +6341,16 @@ window.skillname=[
           "eng": "It Ends Here"
         },
         {
+          "cardBattleSkillNameId": "2453",
+          "name": "永遠の万華鏡写輪眼",
+          "eng": "Eternal Mangekyo Sharingan"
+        },
+        {
+          "cardBattleSkillNameId": "2454",
+          "name": "もう届きはしない",
+          "eng": "I Will No Longer Return"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！",
           "eng": ""

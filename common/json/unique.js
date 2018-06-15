@@ -7450,5 +7450,29 @@ window.unique=[
           "effectIdx2": "21000",
           "effectIdx3": "0",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "633",
+          "targetCrystal": "10610",
+          "description": "高確率でスキルを回避し、全スキルダメージと素早さ70％アップ",
+          "charaIds": "13702",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "968",
+          "effectIdx2": "652",
+          "effectIdx3": "13069",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "634",
+          "targetCrystal": "10612",
+          "description": "弱体を無効化、行動後にHPとチャクラが20％回復",
+          "charaIds": "13702",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1772",
+          "effectIdx2": "628",
+          "effectIdx3": "583",
+          "effectIdx4": "0"
         }
 ]

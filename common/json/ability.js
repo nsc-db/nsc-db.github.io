@@ -17019,6 +17019,24 @@ window.ability=[
           "effectIdx3": "1411"
         },
         {
+          "abilityId": "1929",
+          "abilityName": "新たな光",
+          "abilityDescription": "1回行動するまでキャンセル無効。スキルダメージが100%アップする。",
+          "abilityEffectDescription": "1回行動するまでキャンセル無効。スキルダメージが100%アップする。",
+          "effectIdx1": "1804",
+          "effectIdx2": "774",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1930",
+          "abilityName": "尾獣を操る力",
+          "abilityDescription": "最大チャクラ量100アップ、HPが0以下になると1度だけHPが全回復する",
+          "abilityEffectDescription": "最大チャクラ量100アップ、HPが0以下になると1度だけHPが全回復する",
+          "effectIdx1": "20009",
+          "effectIdx2": "312",
+          "effectIdx3": "874"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

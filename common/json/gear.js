@@ -1,5 +1,5 @@
 window.gear=[
-      {
+        {
           "crystalId": "1",
           "crystalType": "1",
           "crystalRare": "1",
@@ -14192,6 +14192,22 @@ window.gear=[
           "recipeName": "イズナのサンダル"
         },
         {
+          "crystalId": "10610",
+          "crystalType": "3",
+          "crystalRare": "5",
+          "effectIdx1": "27",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "届かないのさ！",
+          "crystalDescription": "低確率でスキルを回避する",
+          "crystalImageId": "8445",
+          "recipeId": "10610",
+          "recipeName": "届かないのさ！"
+        },
+        {
           "crystalId": "10611",
           "crystalType": "11",
           "crystalRare": "5",
@@ -14206,6 +14222,22 @@ window.gear=[
           "crystalImageId": "106115",
           "recipeId": "10611",
           "recipeName": "うちはの額縁"
+        },
+        {
+          "crystalId": "10612",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "738",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "マダラの矜持",
+          "crystalDescription": "弱体にかかる確率を軽減する",
+          "crystalImageId": "106125",
+          "recipeId": "10612",
+          "recipeName": "マダラの矜持"
         },
         {
           "crystalId": "10613",

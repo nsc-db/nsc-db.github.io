@@ -1433,7 +1433,7 @@ window.vo=[
           "dirName": "naruto",
           "evolutionStep": "",
           "voiceAppear": "naruto_pursuit_02_02",
-          "voiceSkill1": "naruto_battle_02_09　",
+          "voiceSkill1": "naruto_battle_02_09,narutoskill_02_28",
           "voiceSkill2": "",
           "voicePursuit": "",
           "voiceWin": "naruto_win_02_06",
@@ -1445,7 +1445,7 @@ window.vo=[
           "dirName": "sasuke",
           "evolutionStep": "",
           "voiceAppear": "sasuke_battle_02_10",
-          "voiceSkill1": "sasuke_attack_02_03",
+          "voiceSkill1": "sasuke_attack_02_03,sasuke_pursui_02_05",
           "voiceSkill2": "",
           "voicePursuit": "",
           "voiceWin": "sasuke_win_02_09",
@@ -1498,6 +1498,18 @@ window.vo=[
           "voicePursuit": "",
           "voiceWin": "itachi_skill_02_15",
           "voiceDeath": "itachi_death_02_02"
+        },
+        {
+          "cardVoiceId": "126",
+          "cardId": "20040607",
+          "dirName": "madara",
+          "evolutionStep": "",
+          "voiceAppear": "madara_menu_04",
+          "voiceSkill1": "madara_skill_02_08,madara_attack_02_02",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "madara_gacha_tap_03",
+          "voiceDeath": "madara_menu_03"
         },
         {
           "cardVoiceId": "8001",
