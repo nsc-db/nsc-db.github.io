@@ -9685,6 +9685,19 @@ window.lead=[
           "target2Param": "6"
         },
         {
+          "cardLeaderSkillId": "755",
+          "name": "祝福の桜花",
+          "description": "体属性の最大HPと攻撃力が60％アップ",
+          "effectIdx1": "10059",
+          "effectIdx2": "11059",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "3",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

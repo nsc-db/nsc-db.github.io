@@ -7474,5 +7474,53 @@ window.unique=[
           "effectIdx2": "628",
           "effectIdx3": "583",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "635",
+          "targetCrystal": "10622",
+          "description": "最大HPと素早さ100％アップ、全スキルダメージ50％アップ",
+          "charaIds": "301,302,303,304,305,306",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "684",
+          "effectIdx2": "253",
+          "effectIdx3": "682",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "636",
+          "targetCrystal": "10623",
+          "description": "最大HPと素早さ100％アップ、全スキルダメージ50％アップ",
+          "charaIds": "701,702,703,704",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "684",
+          "effectIdx2": "253",
+          "effectIdx3": "682",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "637",
+          "targetCrystal": "10624",
+          "description": "全スキルダメージ30%アップ、行動後にチャクラ10%回復",
+          "charaIds": "301,302,303,304,305,306",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "615",
+          "effectIdx2": "528",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "638",
+          "targetCrystal": "10625",
+          "description": "行動後チャクラが10%回復、チャクラ消費量20％減少、全スキルダメージが30％アップ",
+          "charaIds": "701,702,703,301,302,303,304",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "528",
+          "effectIdx2": "860",
+          "effectIdx3": "615",
+          "effectIdx4": "0"
         }
 ]

@@ -5080,6 +5080,22 @@ window.skillname=[
           "name": "もう届きはしない"
         },
         {
+          "cardBattleSkillNameId": "2459",
+          "name": "桜花祝劇衝"
+        },
+        {
+          "cardBattleSkillNameId": "2460",
+          "name": "私もあなたについていく！"
+        },
+        {
+          "cardBattleSkillNameId": "2461",
+          "name": "八卦祝点衝"
+        },
+        {
+          "cardBattleSkillNameId": "2462",
+          "name": "あなたが、大好きだから"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },

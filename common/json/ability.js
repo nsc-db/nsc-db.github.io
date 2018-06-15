@@ -17037,6 +17037,42 @@ window.ability=[
           "effectIdx3": "874"
         },
         {
+          "abilityId": "1935",
+          "abilityName": "純想実現",
+          "abilityDescription": "最大HPが200％アップし、最大チャクラ量が50アップする",
+          "abilityEffectDescription": "最大HPが200％アップし、最大チャクラ量が50アップする",
+          "effectIdx1": "10100",
+          "effectIdx2": "20004",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1936",
+          "abilityName": "寄り添いの誓い",
+          "abilityDescription": "班の木ノ葉隠れの里所属のキャラ1体につき攻撃力と防御力と素早さが20%アップ（自身含む）",
+          "abilityEffectDescription": "班の木ノ葉隠れの里所属のキャラ1体につき攻撃力と防御力と素早さが20%アップ（自身含む）",
+          "effectIdx1": "687",
+          "effectIdx2": "1105",
+          "effectIdx3": "1106"
+        },
+        {
+          "abilityId": "1937",
+          "abilityName": "憧憬成就",
+          "abilityDescription": "最大HPが200％アップし、最大チャクラ量が50アップする",
+          "abilityEffectDescription": "最大HPが200％アップし、最大チャクラ量が50アップする",
+          "effectIdx1": "10100",
+          "effectIdx2": "20004",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1938",
+          "abilityName": "共に歩む意志",
+          "abilityDescription": "班の木ノ葉隠れの里所属のキャラ1体につき攻撃力と防御力と素早さが20%アップ（自身含む）",
+          "abilityEffectDescription": "班の木ノ葉隠れの里所属のキャラ1体につき攻撃力と防御力と素早さが20%アップ（自身含む）",
+          "effectIdx1": "687",
+          "effectIdx2": "1105",
+          "effectIdx3": "1106"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
