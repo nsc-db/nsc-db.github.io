@@ -17028,6 +17028,42 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "1931",
+          "abilityName": "無音での行動",
+          "abilityDescription": "攻撃力とスキルダメージが150%アップする",
+          "abilityEffectDescription": "攻撃力とスキルダメージが150%アップする",
+          "effectIdx1": "1268",
+          "effectIdx2": "794",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1932",
+          "abilityName": "元霧隠れの忍",
+          "abilityDescription": "最大チャクラ量が50アップし、最大HPが50%アップする",
+          "abilityEffectDescription": "最大チャクラ量が50アップし、最大HPが50%アップする",
+          "effectIdx1": "20004",
+          "effectIdx2": "10049",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1933",
+          "abilityName": "千本の妙手",
+          "abilityDescription": "最大HPと素早さが50％アップし、HPが0以下になると1度だけ耐える",
+          "abilityEffectDescription": "最大HPと素早さが50％アップし、HPが0以下になると1度だけ耐える",
+          "effectIdx1": "112",
+          "effectIdx2": "10049",
+          "effectIdx3": "312"
+        },
+        {
+          "abilityId": "1934",
+          "abilityName": "秘孔の知識",
+          "abilityDescription": "耐えた時に、チャクラ消費量が半減＆素早さ500％アップ＆スキルダメージ1000％アップ",
+          "abilityEffectDescription": "耐えた時に、チャクラ消費量が半減＆素早さ500％アップ＆スキルダメージ1000％アップ",
+          "effectIdx1": "1813",
+          "effectIdx2": "1811",
+          "effectIdx3": "1812"
+        },
+        {
           "abilityId": "1930",
           "abilityName": "尾獣を操る力",
           "abilityDescription": "最大チャクラ量100アップ、HPが0以下になると1度だけHPが全回復する",
@@ -17035,6 +17071,42 @@ window.ability=[
           "effectIdx1": "20009",
           "effectIdx2": "312",
           "effectIdx3": "874"
+        },
+        {
+          "abilityId": "1931",
+          "abilityName": "無音での行動",
+          "abilityDescription": "攻撃力とスキルダメージが150%アップする",
+          "abilityEffectDescription": "攻撃力とスキルダメージが150%アップする",
+          "effectIdx1": "1268",
+          "effectIdx2": "794",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1932",
+          "abilityName": "元霧隠れの忍",
+          "abilityDescription": "最大チャクラ量が50アップし、最大HPが50%アップする",
+          "abilityEffectDescription": "最大チャクラ量が50アップし、最大HPが50%アップする",
+          "effectIdx1": "20004",
+          "effectIdx2": "10049",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1933",
+          "abilityName": "千本の妙手",
+          "abilityDescription": "最大HPと素早さが50％アップし、HPが0以下になると1度だけ耐える",
+          "abilityEffectDescription": "最大HPと素早さが50％アップし、HPが0以下になると1度だけ耐える",
+          "effectIdx1": "112",
+          "effectIdx2": "10049",
+          "effectIdx3": "312"
+        },
+        {
+          "abilityId": "1934",
+          "abilityName": "秘孔の知識",
+          "abilityDescription": "耐えた時に、チャクラ消費量が半減＆素早さ500％アップ＆スキルダメージ1000％アップ",
+          "abilityEffectDescription": "耐えた時に、チャクラ消費量が半減＆素早さ500％アップ＆スキルダメージ1000％アップ",
+          "effectIdx1": "1813",
+          "effectIdx2": "1811",
+          "effectIdx3": "1812"
         },
         {
           "abilityId": "1935",
@@ -17071,6 +17143,24 @@ window.ability=[
           "effectIdx1": "687",
           "effectIdx2": "1105",
           "effectIdx3": "1106"
+        },
+        {
+          "abilityId": "1939",
+          "abilityName": "サスケへの忠義",
+          "abilityDescription": "最大HPが50％アップする。",
+          "abilityEffectDescription": "最大HPが50％アップする。",
+          "effectIdx1": "10049",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1940",
+          "abilityName": "殺意の呪縛",
+          "abilityDescription": "行動後にHPが10％減少する。",
+          "abilityEffectDescription": "行動後にHPが10％減少する。",
+          "effectIdx1": "1816",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
         },
         {
           "abilityId": "10000",

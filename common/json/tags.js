@@ -4470,6 +4470,18 @@ window.tags=[
           "rate": "-"
 },
 {
+          "cardId": "20040609",
+          "rare": "5",
+          "tag": "ex-6",
+          "rate": "-"
+},
+{
+          "cardId": "20040610",
+          "rare": "5",
+          "tag": "ex-6",
+          "rate": "-"
+},
+{
           "cardId": "20040611",
           "rare": "5",
           "tag": "limited-6",
@@ -4479,6 +4491,12 @@ window.tags=[
           "cardId": "20040612",
           "rare": "5",
           "tag": "limited-6",
+          "rate": "-"
+},
+{
+          "cardId": "20040701",
+          "rare": "5",
+          "tag": "pmiles",
           "rate": "-"
 },
 ]

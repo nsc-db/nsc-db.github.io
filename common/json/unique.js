@@ -1156,7 +1156,7 @@ window.unique=[
           "targetCrystal": "203",
           "description": "全スキルダメージを軽減し、最大HPと防御力が30％アップする",
           "charaIds": "210",
-          "cardIds": "20001723,20001724,20001725,20001726,20001807,20040507",
+          "cardIds": "20001723,20001724,20001725,20001726,20001807,20040507,20040701",
           "charaGroupIds": "0",
           "effectIdx1": "20500",
           "effectIdx2": "470",
@@ -7521,6 +7521,54 @@ window.unique=[
           "effectIdx1": "528",
           "effectIdx2": "860",
           "effectIdx3": "615",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "639",
+          "targetCrystal": "10615",
+          "description": "写輪眼タイプのスキルダメージを無効化し、攻撃力と素早さが70%アップする",
+          "charaIds": "10101",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "79",
+          "effectIdx2": "11069",
+          "effectIdx3": "13069",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "640",
+          "targetCrystal": "10616",
+          "description": "全スキルダメージが120%アップし、攻撃力と最大HPが50%アップする",
+          "charaIds": "10101",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "30011",
+          "effectIdx2": "11049",
+          "effectIdx3": "10049",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "641",
+          "targetCrystal": "10617",
+          "description": "状態異常を無効化し、最大HPと攻撃力を100％アップする",
+          "charaIds": "10201",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "82",
+          "effectIdx2": "684",
+          "effectIdx3": "11099",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "642",
+          "targetCrystal": "10618",
+          "description": "全スキルダメージが100％アップし、攻撃力と素早さを50％アップする",
+          "charaIds": "10201",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "774",
+          "effectIdx2": "11049",
+          "effectIdx3": "13049",
           "effectIdx4": "0"
         }
 ]

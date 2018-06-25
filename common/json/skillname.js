@@ -5080,6 +5080,18 @@ window.skillname=[
           "name": "もう届きはしない"
         },
         {
+          "cardBattleSkillNameId": "2455",
+          "name": "霧中・無音殺人術"
+        },
+        {
+          "cardBattleSkillNameId": "2457",
+          "name": "秘術・魔鏡氷晶"
+        },
+        {
+          "cardBattleSkillNameId": "2458",
+          "name": "次で止めます"
+        },
+        {
           "cardBattleSkillNameId": "2459",
           "name": "桜花祝劇衝"
         },
@@ -5094,6 +5106,14 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "2462",
           "name": "あなたが、大好きだから"
+        },
+        {
+          "cardBattleSkillNameId": "2463",
+          "name": "狂鬼圧壊"
+        },
+        {
+          "cardBattleSkillNameId": "2464",
+          "name": "そういうことか…"
         },
         {
           "cardBattleSkillNameId": "10136",

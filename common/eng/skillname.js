@@ -807,7 +807,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "205",
           "name": "水遁・霧隠れの術",
-          "eng": ""
+          "eng": "Water Style: Hidden Mist Jutsu"
         },
         {
           "cardBattleSkillNameId": "208",
@@ -6349,6 +6349,51 @@ window.skillname=[
           "cardBattleSkillNameId": "2454",
           "name": "もう届きはしない",
           "eng": "I Will No Longer Return"
+        },
+        {
+          "cardBattleSkillNameId": "2455",
+          "name": "霧中・無音殺人術",
+          "eng": "Mist: Silent Killing"
+        },
+        {
+          "cardBattleSkillNameId": "2457",
+          "name": "秘術・魔鏡氷晶",
+          "eng": "Secret Technique: Crystal Ice Mirrors"
+        },
+        {
+          "cardBattleSkillNameId": "2458",
+          "name": "次で止めます",
+          "eng": "I Will Stop the Next One"
+        },
+        {
+          "cardBattleSkillNameId": "2459",
+          "name": "桜花祝劇衝",
+          "eng": "Cherry Blossom Hospitality"
+        },
+        {
+          "cardBattleSkillNameId": "2460",
+          "name": "私もあなたについていく！",
+          "eng": "I'll Accompany You"
+        },
+        {
+          "cardBattleSkillNameId": "2461",
+          "name": "八卦祝点衝",
+          "eng": "Eigth Triagram Negotiation"
+        },
+        {
+          "cardBattleSkillNameId": "2462",
+          "name": "あなたが、大好きだから",
+          "eng": "Because, I Love You"
+        },
+        {
+          "cardBattleSkillNameId": "2463",
+          "name": "狂鬼圧壊",
+          "eng": "Monster's Rampage"
+        },
+        {
+          "cardBattleSkillNameId": "2464",
+          "name": "そういうことか…",
+          "eng": "So... It's like that"
         },
         {
           "cardBattleSkillNameId": "10136",

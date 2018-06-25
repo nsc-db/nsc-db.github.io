@@ -15572,8 +15572,8 @@ window.ability=[
         {
           "abilityId": "1762",
           "abilityName": "里への深い愛",
-          "abilityDescription": "班の木ノ葉隠れの里所属のキャラ1体につき攻撃力と防御力と素早さが20%アップ（自身含む）",
-          "abilityEffectDescription": "班の木ノ葉隠れの里所属のキャラ1体につき攻撃力と防御力と素早さが20%アップ（自身含む）",
+          "abilityDescription": "ATK, DEF and SPD +20% per Konoha ally",
+          "abilityEffectDescription": "ATK, DEF and SPD +20% per Konoha ally",
           "effectIdx1": "687",
           "effectIdx2": "1105",
           "effectIdx3": "1106"
@@ -15987,7 +15987,7 @@ window.ability=[
           "abilityId": "1808",
           "abilityName": "Protecting Important Friends",
           "abilityDescription": "ATK, DEF and SPD +20% per Konoha allies",
-          "abilityEffectDescription": "班の木ノ葉隠れの里所属のキャラ1体につき攻撃力と防御力と素早さが20%アップ（自身含む）",
+          "abilityEffectDescription": "ATK, DEF and SPD +20% per Konoha ally",
           "effectIdx1": "687",
           "effectIdx2": "1105",
           "effectIdx3": "1106"
@@ -17035,6 +17035,96 @@ window.ability=[
           "effectIdx1": "20009",
           "effectIdx2": "312",
           "effectIdx3": "874"
+        },
+        {
+          "abilityId": "1931",
+          "abilityName": "Actions in Silence",
+          "abilityDescription": "ATK and Skill Damage +150%",
+          "abilityEffectDescription": "攻撃力とスキルダメージが150%アップする",
+          "effectIdx1": "1268",
+          "effectIdx2": "794",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1932",
+          "abilityName": "Rogue Kiri Shinobi",
+          "abilityDescription": "Maximum Chakra +50 and Maximum HP +50%",
+          "abilityEffectDescription": "最大チャクラ量が50アップし、最大HPが50%アップする",
+          "effectIdx1": "20004",
+          "effectIdx2": "10049",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1933",
+          "abilityName": "Senbon Master",
+          "abilityDescription": "Maximum HP and SPD +50%. When HP reach 0, withstand 1 attack.",
+          "abilityEffectDescription": "最大HPと素早さが50％アップし、HPが0以下になると1度だけ耐える",
+          "effectIdx1": "112",
+          "effectIdx2": "10049",
+          "effectIdx3": "312"
+        },
+        {
+          "abilityId": "1934",
+          "abilityName": "Secret Knowledge",
+          "abilityDescription": "Chakra Cost -50%, SPD +500% and Skill Damage +1000% after withstanding an attack",
+          "abilityEffectDescription": "耐えた時に、チャクラ消費量が半減＆素早さ500％アップ＆スキルダメージ1000％アップ",
+          "effectIdx1": "1813",
+          "effectIdx2": "1811",
+          "effectIdx3": "1812"
+        },
+        {
+          "abilityId": "1935",
+          "abilityName": "Innocent Ideas",
+          "abilityDescription": "Maximum HP +200% and Maximum Chakra +50",
+          "abilityEffectDescription": "Maximum HP +200% and Maximum Chakra +50",
+          "effectIdx1": "10100",
+          "effectIdx2": "20004",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1936",
+          "abilityName": "Closed Up Oath",
+          "abilityDescription": "ATK, DEF and SPD +20% per Konoha ally",
+          "abilityEffectDescription": "ATK, DEF and SPD +20% per Konoha ally",
+          "effectIdx1": "687",
+          "effectIdx2": "1105",
+          "effectIdx3": "1106"
+        },
+        {
+          "abilityId": "1937",
+          "abilityName": "Loning Fulfilment",
+          "abilityDescription": "Maximum HP +200% and Maximum Chakra +50",
+          "abilityEffectDescription": "Maximum HP +200% and Maximum Chakra +50",
+          "effectIdx1": "10100",
+          "effectIdx2": "20004",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1938",
+          "abilityName": "Will Together",
+          "abilityDescription": "ATK, DEF and SPD +20% per Konoha ally",
+          "abilityEffectDescription": "ATK, DEF and SPD +20% per Konoha ally",
+          "effectIdx1": "687",
+          "effectIdx2": "1105",
+          "effectIdx3": "1106"
+        },
+         {
+          "abilityId": "1939",
+          "abilityName": "Loyalty to Sasuke",
+          "abilityDescription": "Maximmum HP +50%",
+          "abilityEffectDescription": "最大HPが50％アップする。",
+          "effectIdx1": "10049",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1940",
+          "abilityName": "Murderous Curse",
+          "abilityDescription": "HP -10% per turn",
+          "abilityEffectDescription": "行動後にHPが10％減少する。",
+          "effectIdx1": "1816",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
         },
         {
           "abilityId": "10000",
