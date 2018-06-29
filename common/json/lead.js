@@ -9750,6 +9750,32 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "758",
+          "name": "時空飛びし閃光",
+          "description": "勇属性の素早さとスキルダメージを60％アップする",
+          "effectIdx1": "13059",
+          "effectIdx2": "678",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "7",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "767",
+          "name": "策略巡らす下心",
+          "description": "\"蛇\"所属の素早さを60％、最大HPと攻撃力が20％アップする",
+          "effectIdx1": "13059",
+          "effectIdx2": "10019",
+          "effectIdx3": "105",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "9",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8508",
           "name": "決別の祈り",
           "description": "技属性の最大HP・攻撃・スキルダメージを100%アップする",

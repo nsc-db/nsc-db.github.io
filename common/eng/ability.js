@@ -17127,6 +17127,42 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "1941",
+          "abilityName": "Kyubi Chakra (Yin)",
+          "abilityDescription": "Maximum Chakra 100 and SPD +100%",
+          "abilityEffectDescription": "最大チャクラ量を100アップ、素早さが100％アップ",
+          "effectIdx1": "813",
+          "effectIdx2": "13099",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1942",
+          "abilityName": "Quick Support",
+          "abilityDescription": "Cast Speed +1 and Skill Damage +100% and HP is above 50%",
+          "abilityEffectDescription": "HP50％以上の時に、スキル発動速度が1段階アップ＆スキルダメージが100％アップ",
+          "effectIdx1": "1827",
+          "effectIdx2": "1828",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1959",
+          "abilityName": "Obsession with Sasuke",
+          "abilityDescription": "Maximum Chakra +30. Chakra Recovery +10%",
+          "abilityEffectDescription": "最大チャクラ量が30アップし、行動後にチャクラを10％回復する",
+          "effectIdx1": "20002",
+          "effectIdx2": "528",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1960",
+          "abilityName": "Undetected Love",
+          "abilityDescription": "SPD +80%. High chance to dodge Skills",
+          "abilityEffectDescription": "素早さが80％アップし、高確率でスキルを回避する",
+          "effectIdx1": "13079",
+          "effectIdx2": "968",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

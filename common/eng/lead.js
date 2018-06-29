@@ -9749,4 +9749,30 @@ window.lead=[
           "target2Category": "0",
           "target2Param": "0"
         },
+        {
+          "cardLeaderSkillId": "758",
+          "name": "時空飛びし閃光",
+          "description": "Courage Type SPD and Skill Damage +60%",
+          "effectIdx1": "13059",
+          "effectIdx2": "678",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "7",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "767",
+          "name": "策略巡らす下心",
+          "description": "'Taka' Characters SPD +60%, Maximum HP and ATK +20%",
+          "effectIdx1": "13059",
+          "effectIdx2": "10019",
+          "effectIdx3": "105",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "9",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
 ]

@@ -6396,6 +6396,21 @@ window.skillname=[
           "eng": "So... It's like that"
         },
         {
+          "cardBattleSkillNameId": "2465",
+          "name": "この状況のうちに…倒す！",
+          "eng": "Overthrow the Situation"
+        },
+        {
+          "cardBattleSkillNameId": "2467",
+          "name": "戦闘指揮",
+          "eng": "Battle Command"
+        },
+        {
+          "cardBattleSkillNameId": "2468",
+          "name": "やんのかコラ！",
+          "eng": "Yannokakora!"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！",
           "eng": ""

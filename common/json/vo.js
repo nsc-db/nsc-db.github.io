@@ -1512,6 +1512,18 @@ window.vo=[
           "voiceDeath": "madara_menu_03"
         },
         {
+          "cardVoiceId": "127",
+          "cardId": "20040702",
+          "dirName": "minato",
+          "evolutionStep": "",
+          "voiceAppear": "minato_battle_02_02",
+          "voiceSkill1": "minato_skill_02_01",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "minato_win_02_02",
+          "voiceDeath": "minato_death_02_02"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

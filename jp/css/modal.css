@@ -472,6 +472,16 @@
 		text-shadow: 0 0 4px #000000;
 	}
 
+	.modal-body .base-unit-view .base-tables .base-gear .info .header .type h4[type="勲章" i] {
+		flex: 1;
+		color: #ffffff;
+		font-size: 12px;
+		border-radius: 8px;
+		margin: 0 8px 0 4px; padding: 2px 8px;
+		background-color: #501078;
+		text-shadow: 0 0 4px #000000;
+	}
+	
 	.modal-body .base-unit-view .base-tables .base-gear .info .header .type h4[type="追加効果" i] {
 		flex: 1;
 		color: #ffffff;

@@ -1156,7 +1156,7 @@ window.unique=[
           "targetCrystal": "203",
           "description": "全スキルダメージを軽減し、最大HPと防御力が30％アップする",
           "charaIds": "210",
-          "cardIds": "20001723,20001724,20001725,20001726,20001807,20040507,20040701",
+          "cardIds": "20001723,20001724,20001725,20001726,20001807,20040507,20040701,20040711",
           "charaGroupIds": "0",
           "effectIdx1": "20500",
           "effectIdx2": "470",
@@ -7569,6 +7569,66 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "11049",
           "effectIdx3": "13049",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "643",
+          "targetCrystal": "10701",
+          "description": "最大HPと攻撃力、全スキルダメージが100％アップする",
+          "charaIds": "2103",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "774",
+          "effectIdx2": "684",
+          "effectIdx3": "11099",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "644",
+          "targetCrystal": "10702",
+          "description": "2回行動するまで消費チャクラを0、2回行動後チャクラ消費量が半減する",
+          "charaIds": "2103,106,107,109,110,111",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1646",
+          "effectIdx2": "1538",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "645",
+          "targetCrystal": "10703",
+          "description": "0",
+          "charaIds": "1002",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "689",
+          "effectIdx2": "1164",
+          "effectIdx3": "1830",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "646",
+          "targetCrystal": "10704",
+          "description": "0",
+          "charaIds": "1002",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "82",
+          "effectIdx2": "652",
+          "effectIdx3": "13069",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "647",
+          "targetCrystal": "10720",
+          "description": "弱体と全スキルダメージを半減し、全スキルダメージを80％アップ",
+          "charaIds": "13401,13501,13601,13602",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "745",
+          "effectIdx2": "20501",
+          "effectIdx3": "694",
           "effectIdx4": "0"
         }
 ]

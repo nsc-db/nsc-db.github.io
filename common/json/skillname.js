@@ -5116,6 +5116,18 @@ window.skillname=[
           "name": "そういうことか…"
         },
         {
+          "cardBattleSkillNameId": "2465",
+          "name": "この状況のうちに…倒す！"
+        },
+        {
+          "cardBattleSkillNameId": "2467",
+          "name": "戦闘指揮"
+        },
+        {
+          "cardBattleSkillNameId": "2468",
+          "name": "やんのかコラ！"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },
