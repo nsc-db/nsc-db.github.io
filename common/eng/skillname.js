@@ -6411,6 +6411,16 @@ window.skillname=[
           "eng": "Yannokakora!"
         },
         {
+          "cardBattleSkillNameId": "2469",
+          "name": "八卦掌・回天",
+          "eng": "Eight Triagrams: Palm Rotation"
+        },
+        {
+          "cardBattleSkillNameId": "2470",
+          "name": "仲間を守るために",
+          "eng": "Protecting Allies"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！",
           "eng": ""

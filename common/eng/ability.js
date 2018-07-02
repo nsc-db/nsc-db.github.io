@@ -17145,6 +17145,24 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "1943",
+          "abilityName": "Eye Technique without a Blind Spot",
+          "abilityDescription": "Chance for 50% Chakra Recovery",
+          "abilityEffectDescription": "行動後に確率でチャクラが50％回復する",
+          "effectIdx1": "453",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1944",
+          "abilityName": "Prepered Sacrifice",
+          "abilityDescription": "Maximum HP and Skill Damage +120%",
+          "abilityEffectDescription": "最大HPとスキルダメージが120％アップする",
+          "effectIdx1": "1221",
+          "effectIdx2": "30011",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "1959",
           "abilityName": "Obsession with Sasuke",
           "abilityDescription": "Maximum Chakra +30. Chakra Recovery +10%",

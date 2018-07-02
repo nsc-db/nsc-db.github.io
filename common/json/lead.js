@@ -9763,6 +9763,19 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "759",
+          "name": "誇り高き天才",
+          "description": "心属性の防御力とスキルダメージが60％アップ",
+          "effectIdx1": "12059",
+          "effectIdx2": "678",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "767",
           "name": "策略巡らす下心",
           "description": "\"蛇\"所属の素早さを60％、最大HPと攻撃力が20％アップする",

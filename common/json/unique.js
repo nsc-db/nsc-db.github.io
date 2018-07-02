@@ -7598,7 +7598,7 @@ window.unique=[
         {
           "crystalOverwriteEffectId": "645",
           "targetCrystal": "10703",
-          "description": "0",
+          "description": "最大チャクラ量50アップ、チャクラ消費量40％ダウン、行動後にチャクラ40％回復",
           "charaIds": "1002",
           "cardIds": "0",
           "charaGroupIds": "0",
@@ -7610,7 +7610,7 @@ window.unique=[
         {
           "crystalOverwriteEffectId": "646",
           "targetCrystal": "10704",
-          "description": "0",
+          "description": "状態異常を無効化し、全スキルダメージと素早さ70％アップ",
           "charaIds": "1002",
           "cardIds": "0",
           "charaGroupIds": "0",

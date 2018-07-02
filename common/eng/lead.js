@@ -9763,6 +9763,19 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "759",
+          "name": "誇り高き天才",
+          "description": "Heart Type DEF and Skill Damage +60%",
+          "effectIdx1": "12059",
+          "effectIdx2": "678",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "767",
           "name": "策略巡らす下心",
           "description": "'Taka' Characters SPD +60%, Maximum HP and ATK +20%",

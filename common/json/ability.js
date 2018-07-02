@@ -17181,6 +17181,24 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "1943",
+          "abilityName": "死角なき眼と技",
+          "abilityDescription": "行動後に確率でチャクラが50％回復する",
+          "abilityEffectDescription": "行動後に確率でチャクラが50％回復する",
+          "effectIdx1": "453",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1944",
+          "abilityName": "守りきる覚悟",
+          "abilityDescription": "最大HPとスキルダメージが120％アップする",
+          "abilityEffectDescription": "最大HPとスキルダメージが120％アップする",
+          "effectIdx1": "1221",
+          "effectIdx2": "30011",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "1959",
           "abilityName": "サスケへの執着",
           "abilityDescription": "最大チャクラ量が30アップし、行動後にチャクラを10％回復する",

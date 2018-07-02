@@ -5128,6 +5128,14 @@ window.skillname=[
           "name": "やんのかコラ！"
         },
         {
+          "cardBattleSkillNameId": "2469",
+          "name": "八卦掌・回天"
+        },
+        {
+          "cardBattleSkillNameId": "2470",
+          "name": "仲間を守るために"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },

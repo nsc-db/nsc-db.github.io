@@ -14633,8 +14633,8 @@ window.gear=[
           "effectIdx4": "0",
           "money": "30000",
           "saleMoney": "2500",
-          "crystalName": "0",
-          "crystalDescription": "0",
+          "crystalName": "ネジの髪留め",
+          "crystalDescription": "行動後にチャクラ5%回復する",
           "crystalImageId": "107035",
           "recipeId": "10703",
           "recipeName": "ネジの髪留め"
@@ -14649,8 +14649,8 @@ window.gear=[
           "effectIdx4": "0",
           "money": "30000",
           "saleMoney": "2500",
-          "crystalName": "0",
-          "crystalDescription": "0",
+          "crystalName": "ﾈｼﾞの忍界大戦ﾍﾞｽﾄ",
+          "crystalDescription": "状態異常を軽減する",
           "crystalImageId": "107045",
           "recipeId": "10704",
           "recipeName": "ﾈｼﾞの忍界大戦ﾍﾞｽﾄ"
