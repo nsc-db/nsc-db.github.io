@@ -14656,6 +14656,38 @@ window.gear=[
           "recipeName": "ﾈｼﾞの忍界大戦ﾍﾞｽﾄ"
         },
         {
+          "crystalId": "10705",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "580",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "長門の輪廻眼",
+          "crystalDescription": "輪廻眼タイプのスキルダメージ50%アップ",
+          "crystalImageId": "107055",
+          "recipeId": "10705",
+          "recipeName": "長門の輪廻眼"
+        },
+        {
+          "crystalId": "10706",
+          "crystalType": "1",
+          "crystalRare": "5",
+          "effectIdx1": "109",
+          "effectIdx2": "777",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "ペインの\"暁\"マント",
+          "crystalDescription": "素早さが20%アップするが、行動後確率でHP15%減少",
+          "crystalImageId": "107065",
+          "recipeId": "10706",
+          "recipeName": "ペインの\"暁\"マント"
+        },
+        {
           "crystalId": "10720",
           "crystalType": "2",
           "crystalRare": "5",

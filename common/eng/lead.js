@@ -9776,6 +9776,19 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "760",
+          "name": "痛みを告げる瞳",
+          "description": "Akatsuki Chahracters Maximum HP, ATK and SPD +50%",
+          "effectIdx1": "10049",
+          "effectIdx2": "11049",
+          "effectIdx3": "13049",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "8",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "767",
           "name": "策略巡らす下心",
           "description": "'Taka' Characters SPD +60%, Maximum HP and ATK +20%",

@@ -9776,6 +9776,19 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "760",
+          "name": "痛みを告げる瞳",
+          "description": "“暁”所属の最大HP・攻撃力・素早さが50%アップする",
+          "effectIdx1": "10049",
+          "effectIdx2": "11049",
+          "effectIdx3": "13049",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "8",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "767",
           "name": "策略巡らす下心",
           "description": "\"蛇\"所属の素早さを60％、最大HPと攻撃力が20％アップする",

@@ -1524,6 +1524,18 @@ window.vo=[
           "voiceDeath": "minato_death_02_02"
         },
         {
+          "cardVoiceId": "128",
+          "cardId": "20040704",
+          "dirName": "pain",
+          "evolutionStep": "",
+          "voiceAppear": "pain_skill_02_04",
+          "voiceSkill1": "pain_skill_02_03",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "pain_win_02_03",
+          "voiceDeath": "pain_death_02_01"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

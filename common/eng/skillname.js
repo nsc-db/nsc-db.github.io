@@ -6421,6 +6421,11 @@ window.skillname=[
           "eng": "Protecting Allies"
         },
         {
+          "cardBattleSkillNameId": "2471",
+          "name": "少しは痛みを理解できたか？",
+          "eng": "Are You Slowly Understanding Pain?"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！",
           "eng": ""

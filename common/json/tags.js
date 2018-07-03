@@ -4512,6 +4512,12 @@ window.tags=[
           "rate": "-"
 },
 {
+          "cardId": "20040704",
+          "rare": "5",
+          "tag": "killers",
+          "rate": "-"
+},
+{
           "cardId": "20040711",
           "rare": "5",
           "tag": "event",

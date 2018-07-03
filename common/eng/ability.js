@@ -17163,6 +17163,24 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "1945",
+          "abilityName": "Manipulating Gravity and Repulsion",
+          "abilityDescription": "Maximum HP +100%. When HP reach 0, revive twice",
+          "abilityEffectDescription": "最大HPが100%アップし、HPが0以下になると2度まで耐える",
+          "effectIdx1": "684",
+          "effectIdx2": "1057",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1946",
+          "abilityName": "Heavenly Judgement",
+          "abilityDescription": "ATK +100%. Skill Damage +120% when HPH is above 80%",
+          "abilityEffectDescription": "攻撃力が100%アップ、 HPが80%以上だとスキルダメージが120%アップする",
+          "effectIdx1": "11099",
+          "effectIdx2": "31711",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "1959",
           "abilityName": "Obsession with Sasuke",
           "abilityDescription": "Maximum Chakra +30. Chakra Recovery +10%",

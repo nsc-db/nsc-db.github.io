@@ -5136,6 +5136,10 @@ window.skillname=[
           "name": "仲間を守るために"
         },
         {
+          "cardBattleSkillNameId": "2471",
+          "name": "少しは痛みを理解できたか？"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },
