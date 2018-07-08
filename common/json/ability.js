@@ -10712,36 +10712,36 @@ window.ability=[
         {
           "abilityId": "1191",
           "abilityName": "揺るぎなき忍道",
-          "abilityDescription": "最大HPが120%アップし、輪廻写輪眼のスキルダメージを軽減する",
-          "abilityEffectDescription": "最大HPが120%アップし、輪廻写輪眼のスキルダメージを軽減する",
+          "abilityDescription": "最大HPが120%アップし、全スキルダメージを無効化する",
+          "abilityEffectDescription": "最大HPが120%アップし、全スキルダメージを無効化する",
           "effectIdx1": "1221",
-          "effectIdx2": "1234",
+          "effectIdx2": "20502",
           "effectIdx3": "0"
         },
         {
           "abilityId": "1192",
           "abilityName": "全尾獣のチャクラ（絆）",
-          "abilityDescription": "最大チャクラが50アップし、チャクラ50%以上の時スキルダメージが150%アップする",
-          "abilityEffectDescription": "最大チャクラが50アップし、チャクラ50%以上の時スキルダメージが150%アップする",
-          "effectIdx1": "20004",
+          "abilityDescription": "最大チャクラが100アップし、チャクラ50%以上の時スキルダメージが150%アップする",
+          "abilityEffectDescription": "最大チャクラが100アップし、チャクラ50%以上の時スキルダメージが150%アップする",
+          "effectIdx1": "20009",
           "effectIdx2": "33414",
           "effectIdx3": "0"
         },
         {
           "abilityId": "1193",
           "abilityName": "焼き尽くす意志",
-          "abilityDescription": "最大HPが120%アップし、六道タイプのスキルダメージを軽減する",
-          "abilityEffectDescription": "最大HPが120%アップし、六道タイプのスキルダメージを軽減する",
+          "abilityDescription": "最大HPが120%アップし、全スキルダメージを無効化する",
+          "abilityEffectDescription": "最大HPが120%アップし、全スキルダメージを無効化する",
           "effectIdx1": "1221",
-          "effectIdx2": "1286",
+          "effectIdx2": "20502",
           "effectIdx3": "0"
         },
         {
           "abilityId": "1194",
           "abilityName": "全尾獣のチャクラ（縛）",
-          "abilityDescription": "最大チャクラが50アップし、チャクラ50%以上の時スキルダメージが150%アップする",
-          "abilityEffectDescription": "最大チャクラが50アップし、チャクラ50%以上の時スキルダメージが150%アップする",
-          "effectIdx1": "20004",
+          "abilityDescription": "最大チャクラが100アップし、チャクラ50%以上の時スキルダメージが150%アップする",
+          "abilityEffectDescription": "最大チャクラが100アップし、チャクラ50%以上の時スキルダメージが150%アップする",
+          "effectIdx1": "20009",
           "effectIdx2": "33414",
           "effectIdx3": "0"
         },
@@ -12575,11 +12575,11 @@ window.ability=[
         {
           "abilityId": "1398",
           "abilityName": "耐え忍ぶ覚悟",
-          "abilityDescription": "最大チャクラ量が90アップし、最大HPが150%アップする",
-          "abilityEffectDescription": "最大チャクラ量が90アップし、最大HPが150%アップする",
+          "abilityDescription": "最大チャクラ量が90アップし、最大HPが150%アップ、HPが0以下になった時2度まで耐える",
+          "abilityEffectDescription": "最大チャクラ量が90アップし、最大HPが150%アップ、HPが0以下になった時2度まで耐える",
           "effectIdx1": "20008",
           "effectIdx2": "1212",
-          "effectIdx3": "0"
+          "effectIdx3": "1057"
         },
         {
           "abilityId": "1399",
@@ -12611,11 +12611,11 @@ window.ability=[
         {
           "abilityId": "1402",
           "abilityName": "石碑の秘密",
-          "abilityDescription": "最大チャクラ量が90アップし、最大HPが150%アップする",
-          "abilityEffectDescription": "最大チャクラ量が90アップし、最大HPが150%アップする",
+          "abilityDescription": "最大チャクラ量が90アップし、最大HPが150%アップ、HPが0以下になった時2度まで耐える",
+          "abilityEffectDescription": "最大チャクラ量が90アップし、最大HPが150%アップ、HPが0以下になった時2度まで耐える",
           "effectIdx1": "20008",
           "effectIdx2": "1212",
-          "effectIdx3": "0"
+          "effectIdx3": "1057"
         },
         {
           "abilityId": "1403",
@@ -17028,42 +17028,6 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
-          "abilityId": "1931",
-          "abilityName": "無音での行動",
-          "abilityDescription": "攻撃力とスキルダメージが150%アップする",
-          "abilityEffectDescription": "攻撃力とスキルダメージが150%アップする",
-          "effectIdx1": "1268",
-          "effectIdx2": "794",
-          "effectIdx3": "0"
-        },
-        {
-          "abilityId": "1932",
-          "abilityName": "元霧隠れの忍",
-          "abilityDescription": "最大チャクラ量が50アップし、最大HPが50%アップする",
-          "abilityEffectDescription": "最大チャクラ量が50アップし、最大HPが50%アップする",
-          "effectIdx1": "20004",
-          "effectIdx2": "10049",
-          "effectIdx3": "0"
-        },
-        {
-          "abilityId": "1933",
-          "abilityName": "千本の妙手",
-          "abilityDescription": "最大HPと素早さが50％アップし、HPが0以下になると1度だけ耐える",
-          "abilityEffectDescription": "最大HPと素早さが50％アップし、HPが0以下になると1度だけ耐える",
-          "effectIdx1": "112",
-          "effectIdx2": "10049",
-          "effectIdx3": "312"
-        },
-        {
-          "abilityId": "1934",
-          "abilityName": "秘孔の知識",
-          "abilityDescription": "耐えた時に、チャクラ消費量が半減＆素早さ500％アップ＆スキルダメージ1000％アップ",
-          "abilityEffectDescription": "耐えた時に、チャクラ消費量が半減＆素早さ500％アップ＆スキルダメージ1000％アップ",
-          "effectIdx1": "1813",
-          "effectIdx2": "1811",
-          "effectIdx3": "1812"
-        },
-        {
           "abilityId": "1930",
           "abilityName": "尾獣を操る力",
           "abilityDescription": "最大チャクラ量100アップ、HPが0以下になると1度だけHPが全回復する",
@@ -17456,6 +17420,15 @@ window.ability=[
           "abilityDescription": "バトル開始時に確率で攻撃・防御・素早さが40％アップ",
           "abilityEffectDescription": "バトル開始時に確率で攻撃・防御・素早さが40％アップ",
           "effectIdx1": "363",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "11700",
+          "abilityName": "耐性無視無効",
+          "abilityDescription": "耐性無視を無効化",
+          "abilityEffectDescription": "耐性無視を無効化",
+          "effectIdx1": "1750",
           "effectIdx2": "0",
           "effectIdx3": "0"
         },
