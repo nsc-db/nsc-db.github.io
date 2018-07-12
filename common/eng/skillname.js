@@ -6401,6 +6401,11 @@ window.skillname=[
           "eng": "Overthrow the Situation"
         },
         {
+          "cardBattleSkillNameId": "2466",
+          "name": "やっぱすげーや…お前は……",
+          "eng": "This Power is as Suspected"
+        },
+        {
           "cardBattleSkillNameId": "2467",
           "name": "戦闘指揮",
           "eng": "Battle Command"
@@ -6424,6 +6429,26 @@ window.skillname=[
           "cardBattleSkillNameId": "2471",
           "name": "少しは痛みを理解できたか？",
           "eng": "Are You Slowly Understanding Pain?"
+        },
+         {
+          "cardBattleSkillNameId": "2472",
+          "name": "封鎖封尽",
+          "eng": "Reaper Death Chain"
+        },
+        {
+          "cardBattleSkillNameId": "2473",
+          "name": "アナタを愛してる",
+          "eng": "I Love you"
+        },
+        {
+          "cardBattleSkillNameId": "2476",
+          "name": "断刀一閃",
+          "eng": "Flash Katana"
+        },
+        {
+          "cardBattleSkillNameId": "2477",
+          "name": "この状況…ボクが有利だ",
+          "eng": "It's My Advantage in this Situation"
         },
         {
           "cardBattleSkillNameId": "10136",

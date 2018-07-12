@@ -17181,6 +17181,42 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "1947",
+          "abilityName": "Satisfied Vessel",
+          "abilityDescription": "Maximum HP +100%. When HP reach 0, revive twice",
+          "abilityEffectDescription": "最大HPが100%アップ、HPが0以下で2回までHPが全回復する",
+          "effectIdx1": "684",
+          "effectIdx2": "874",
+          "effectIdx3": "1057"
+        },
+        {
+          "abilityId": "1948",
+          "abilityName": "Wishful Child",
+          "abilityDescription": "SPD +100%. Preotect Konoha allies from Single Target Skills",
+          "abilityEffectDescription": "素早さ100%アップ、木ノ葉隠れの里所属への単体スキル攻撃を受ける※かばうは複数人発動すると最後の発動者が有効",
+          "effectIdx1": "1834",
+          "effectIdx2": "253",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1949",
+          "abilityName": "Flames of Life",
+          "abilityDescription": "Maximum HP +100% and Maximum Chakra +50",
+          "abilityEffectDescription": "最大HPが100%アップし、最大チャクラ量が50アップする",
+          "effectIdx1": "684",
+          "effectIdx2": "20004",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1950",
+          "abilityName": "Conclusion to Hhatred",
+          "abilityDescription": "ATK +100% and Chakra Recovery +20% ",
+          "abilityEffectDescription": "攻撃力が100%アップし、行動後チャクラが20%回復する",
+          "effectIdx1": "11099",
+          "effectIdx2": "1768",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "1959",
           "abilityName": "Obsession with Sasuke",
           "abilityDescription": "Maximum Chakra +30. Chakra Recovery +10%",
@@ -17196,6 +17232,24 @@ window.ability=[
           "abilityEffectDescription": "素早さが80％アップし、高確率でスキルを回避する",
           "effectIdx1": "13079",
           "effectIdx2": "968",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1961",
+          "abilityName": "Sasuke's Opposing Heart",
+          "abilityDescription": "Maximum HP and ATK +80%",
+          "abilityEffectDescription": "最大HPと攻撃力が80％アップする",
+          "effectIdx1": "649",
+          "effectIdx2": "11079",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1962",
+          "abilityName": "Moist Water Body",
+          "abilityDescription": "SPD +120% when HP is above 80%",
+          "abilityEffectDescription": "HPが80％以上の時、素早さが120％アップする",
+          "effectIdx1": "1833",
+          "effectIdx2": "0",
           "effectIdx3": "0"
         },
         {

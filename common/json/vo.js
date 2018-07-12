@@ -1536,6 +1536,30 @@ window.vo=[
           "voiceDeath": "pain_death_02_01"
         },
         {
+          "cardVoiceId": "129",
+          "cardId": "20040705",
+          "dirName": "kushina",
+          "evolutionStep": "",
+          "voiceAppear": "kushina_pursuit_02_02",
+          "voiceSkill1": "kushina_battle_02_02,minato_skill_02_10",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "kushina_win_02_02",
+          "voiceDeath": "kushina_death_02_02"
+        },
+        {
+          "cardVoiceId": "130",
+          "cardId": "20040706",
+          "dirName": "naruto",
+          "evolutionStep": "",
+          "voiceAppear": "naruto_skill_02_36",
+          "voiceSkill1": "naruto_skill_02_29",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "naruto_battle_02_20",
+          "voiceDeath": "naruto_death_02_06"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

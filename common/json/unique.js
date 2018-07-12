@@ -1156,7 +1156,7 @@ window.unique=[
           "targetCrystal": "203",
           "description": "全スキルダメージを軽減し、最大HPと防御力が30％アップする",
           "charaIds": "210",
-          "cardIds": "20001723,20001724,20001725,20001726,20001807,20040507,20040701,20040711",
+          "cardIds": "20001723,20001724,20001725,20001726,20001807,20040507,20040701,20040711,20040712",
           "charaGroupIds": "0",
           "effectIdx1": "20500",
           "effectIdx2": "470",
@@ -7653,6 +7653,54 @@ window.unique=[
           "effectIdx1": "13019",
           "effectIdx2": "21000",
           "effectIdx3": "357",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "650",
+          "targetCrystal": "10707",
+          "description": "弱体と状態異常を無効にし、3回行動するまで全スキル無効",
+          "charaIds": "4301,4302",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "880",
+          "effectIdx2": "1273",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "651",
+          "targetCrystal": "10708",
+          "description": "確率でスキルを回避し、チャクラ消費量20%減少、行動後にHPが5000回復",
+          "charaIds": "4301,4302",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1423",
+          "effectIdx2": "860",
+          "effectIdx3": "1470",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "657",
+          "targetCrystal": "10709",
+          "description": "攻撃力・防御力・素早さが90％アップ",
+          "charaIds": "107,109,110,111",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "11089",
+          "effectIdx2": "12089",
+          "effectIdx3": "13089",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "658",
+          "targetCrystal": "10710",
+          "description": "弱体を無効化し、最大HPと全スキルダメージが70％アップ",
+          "charaIds": "107,109,110,111",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "64",
+          "effectIdx2": "638",
+          "effectIdx3": "652",
           "effectIdx4": "0"
         }
 ]

@@ -5120,6 +5120,10 @@ window.skillname=[
           "name": "この状況のうちに…倒す！"
         },
         {
+          "cardBattleSkillNameId": "2466",
+          "name": "やっぱすげーや…お前は……"
+        },
+        {
           "cardBattleSkillNameId": "2467",
           "name": "戦闘指揮"
         },
@@ -5138,6 +5142,22 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "2471",
           "name": "少しは痛みを理解できたか？"
+        },
+        {
+          "cardBattleSkillNameId": "2472",
+          "name": "封鎖封尽"
+        },
+        {
+          "cardBattleSkillNameId": "2473",
+          "name": "アナタを愛してる"
+        },
+        {
+          "cardBattleSkillNameId": "2476",
+          "name": "断刀一閃"
+        },
+        {
+          "cardBattleSkillNameId": "2477",
+          "name": "この状況…ボクが有利だ"
         },
         {
           "cardBattleSkillNameId": "10136",
