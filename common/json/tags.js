@@ -4530,6 +4530,18 @@ window.tags=[
           "rate": "-"
 },
 {
+          "cardId": "20040709",
+          "rare": "5",
+          "tag": "limited-6",
+          "rate": "-"
+},
+{
+          "cardId": "20040710",
+          "rare": "5",
+          "tag": "limited-6",
+          "rate": "-"
+},
+{
           "cardId": "20040711",
           "rare": "5",
           "tag": "event",

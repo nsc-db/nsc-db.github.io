@@ -6441,6 +6441,16 @@ window.skillname=[
           "eng": "I Love you"
         },
         {
+          "cardBattleSkillNameId": "2474",
+          "name": "多由也様の愛の言葉",
+          "eng": "Tayuya's Love Words"
+        },
+        {
+          "cardBattleSkillNameId": "2475",
+          "name": "さっさと浮輪運びやがれ",
+          "eng": "Hurry Up"
+        },
+        {
           "cardBattleSkillNameId": "2476",
           "name": "断刀一閃",
           "eng": "Flash Katana"
@@ -6449,6 +6459,16 @@ window.skillname=[
           "cardBattleSkillNameId": "2477",
           "name": "この状況…ボクが有利だ",
           "eng": "It's My Advantage in this Situation"
+        },
+        {
+          "cardBattleSkillNameId": "2480",
+          "name": "彩色の海",
+          "eng": "Sea of Paintings"
+        },
+        {
+          "cardBattleSkillNameId": "2481",
+          "name": "折り紙は色々なものになるの",
+          "eng": "Origami Variety"
         },
         {
           "cardBattleSkillNameId": "10136",

@@ -9815,6 +9815,32 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "765",
+          "name": "魅惑のサマービーナス",
+          "description": "Akatsuki Characters Skill Damage +70%",
+          "effectIdx1": "652",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "8",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "766",
+          "name": "毒舌なサマーガール",
+          "description": "Heart Type ATK and SPD +50%",
+          "effectIdx1": "251",
+          "effectIdx2": "112",
+          "effectIdx3": "0",
+          "compType": "2",
+          "target1Category": "1",
+          "target1Param": "1",
+          "target2Category": "2",
+          "target2Param": "4"
+        },
+        {
           "cardLeaderSkillId": "767",
           "name": "策略巡らす下心",
           "description": "'Taka' Characters SPD +60%, Maximum HP and ATK +20%",

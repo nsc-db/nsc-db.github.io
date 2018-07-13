@@ -17217,6 +17217,42 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "1955",
+          "abilityName": "溶けない紙",
+          "abilityDescription": "防御力とスキルダメージが100%アップする",
+          "abilityEffectDescription": "防御力とスキルダメージが100%アップする",
+          "effectIdx1": "12099",
+          "effectIdx2": "774",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1956",
+          "abilityName": "焼けない肌",
+          "abilityDescription": "HPが90%以上の時、高確率でスキルを回避する",
+          "abilityEffectDescription": "HPが90%以上の時、高確率でスキルを回避する",
+          "effectIdx1": "1843",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1957",
+          "abilityName": "成長の行方",
+          "abilityDescription": "行動するたびに攻撃力と素早さが25%アップする。（最大3回まで）",
+          "abilityEffectDescription": "行動するたびに攻撃力と素早さが25%アップする。（最大3回まで）",
+          "effectIdx1": "896",
+          "effectIdx2": "897",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1958",
+          "abilityName": "空気入り物質化霊",
+          "abilityDescription": "弱体と状態異常を無効化、行動後にチャクラが15％回復",
+          "abilityEffectDescription": "弱体と状態異常を無効化、行動後にチャクラが15％回復",
+          "effectIdx1": "64",
+          "effectIdx2": "82",
+          "effectIdx3": "648"
+        },
+        {
           "abilityId": "1959",
           "abilityName": "サスケへの執着",
           "abilityDescription": "最大チャクラ量が30アップし、行動後にチャクラを10％回復する",

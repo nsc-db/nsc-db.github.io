@@ -5152,12 +5152,28 @@ window.skillname=[
           "name": "アナタを愛してる"
         },
         {
+          "cardBattleSkillNameId": "2474",
+          "name": "多由也様の愛の言葉"
+        },
+        {
+          "cardBattleSkillNameId": "2475",
+          "name": "さっさと浮輪運びやがれ"
+        },
+        {
           "cardBattleSkillNameId": "2476",
           "name": "断刀一閃"
         },
         {
           "cardBattleSkillNameId": "2477",
           "name": "この状況…ボクが有利だ"
+        },
+        {
+          "cardBattleSkillNameId": "2480",
+          "name": "彩色の海"
+        },
+        {
+          "cardBattleSkillNameId": "2481",
+          "name": "折り紙は色々なものになるの"
         },
         {
           "cardBattleSkillNameId": "10136",

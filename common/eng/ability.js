@@ -17209,12 +17209,48 @@ window.ability=[
         },
         {
           "abilityId": "1950",
-          "abilityName": "Conclusion to Hhatred",
+          "abilityName": "Conclusion to Hatred",
           "abilityDescription": "ATK +100% and Chakra Recovery +20% ",
           "abilityEffectDescription": "攻撃力が100%アップし、行動後チャクラが20%回復する",
           "effectIdx1": "11099",
           "effectIdx2": "1768",
           "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1955",
+          "abilityName": "Undissolvable Paper",
+          "abilityDescription": "DEF and Skill Damage +100%",
+          "abilityEffectDescription": "防御力とスキルダメージが100%アップする",
+          "effectIdx1": "12099",
+          "effectIdx2": "774",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1956",
+          "abilityName": "Unburnable Skin",
+          "abilityDescription": "High chance to dodge Skills when HP is above 90%",
+          "abilityEffectDescription": "HPが90%以上の時、高確率でスキルを回避する",
+          "effectIdx1": "1843",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1957",
+          "abilityName": "Outcome of Development",
+          "abilityDescription": "ATK and SPD +25% per action (Max 75%)",
+          "abilityEffectDescription": "行動するたびに攻撃力と素早さが25%アップする。（最大3回まで）",
+          "effectIdx1": "896",
+          "effectIdx2": "897",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1958",
+          "abilityName": "Pneumatic Soul",
+          "abilityDescription": "Immune to debuff and Status Effects. Chakra Recovery +15%",
+          "abilityEffectDescription": "弱体と状態異常を無効化、行動後にチャクラが15％回復",
+          "effectIdx1": "64",
+          "effectIdx2": "82",
+          "effectIdx3": "648"
         },
         {
           "abilityId": "1959",
