@@ -14862,5 +14862,37 @@ window.gear=[
           "crystalImageId": "107205",
           "recipeId": "10720",
           "recipeName": "サスケへの忠誠"
+        },
+        {
+          "crystalId": "10723",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "20500",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "君麻呂の腰留め",
+          "crystalDescription": "全スキルダメージを軽減",
+          "crystalImageId": "107235",
+          "recipeId": "10723",
+          "recipeName": "君麻呂の腰留め"
+        },
+        {
+          "crystalId": "10724",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "997",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "君麻呂のサンダル",
+          "crystalDescription": "固有タイプのスキルダメージが40%アップする",
+          "crystalImageId": "107245",
+          "recipeId": "10724",
+          "recipeName": "君麻呂のサンダル"
         }
 ]

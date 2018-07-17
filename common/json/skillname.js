@@ -5168,6 +5168,14 @@ window.skillname=[
           "name": "この状況…ボクが有利だ"
         },
         {
+          "cardBattleSkillNameId": "2478",
+          "name": "屍骨脈・殺戮の舞"
+        },
+        {
+          "cardBattleSkillNameId": "2479",
+          "name": "変則的だろ…？"
+        },
+        {
           "cardBattleSkillNameId": "2480",
           "name": "彩色の海"
         },

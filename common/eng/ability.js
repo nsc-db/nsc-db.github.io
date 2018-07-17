@@ -17217,6 +17217,24 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "1951",
+          "abilityName": "Deadly Disease",
+          "abilityDescription": "SPD +100%. HP -20% per turn",
+          "abilityEffectDescription": "素早さ100％アップ＆状態異常を無効化＆行動後にHPが20％減少する。",
+          "effectIdx1": "13099",
+          "effectIdx2": "82",
+          "effectIdx3": "862"
+        },
+        {
+          "abilityId": "1952",
+          "abilityName": "Osteoblast Proliferation",
+          "abilityDescription": "For 2 turns, Immune to Fixed Skill Damage, Cancel and All Skills",
+          "abilityEffectDescription": "2回行動まで、受ける耐性無視スキルのダメージを0＆キャンセル無効＆全スキル無効",
+          "effectIdx1": "1838",
+          "effectIdx2": "1839",
+          "effectIdx3": "663"
+        },
+        {
           "abilityId": "1955",
           "abilityName": "Undissolvable Paper",
           "abilityDescription": "DEF and Skill Damage +100%",

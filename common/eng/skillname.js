@@ -6461,6 +6461,16 @@ window.skillname=[
           "eng": "It's My Advantage in this Situation"
         },
         {
+          "cardBattleSkillNameId": "2478",
+          "name": "屍骨脈・殺戮の舞",
+          "eng": "Skeletal Control: Slaughter Dance"
+        },
+        {
+          "cardBattleSkillNameId": "2479",
+          "name": "変則的だろ…？",
+          "eng": "Anomalous?"
+        },
+        {
           "cardBattleSkillNameId": "2480",
           "name": "彩色の海",
           "eng": "Sea of Paintings"

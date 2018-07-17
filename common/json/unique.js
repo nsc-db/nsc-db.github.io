@@ -1,5 +1,5 @@
 window.unique=[
-{
+        {
           "crystalOverwriteEffectId": "1",
           "targetCrystal": "115",
           "description": "最大HPと攻撃力が40%アップし、仙術スキルのダメージが100%アップ",
@@ -7701,6 +7701,30 @@ window.unique=[
           "effectIdx1": "1268",
           "effectIdx2": "112",
           "effectIdx3": "0",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "654",
+          "targetCrystal": "10723",
+          "description": "全スキルダメージを半減し、スキル発動速度が1段階アップ",
+          "charaIds": "11101",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "20501",
+          "effectIdx2": "1840",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "655",
+          "targetCrystal": "10724",
+          "description": "全スキルダメージが120%アップ、最大HPと攻撃力を100％アップ",
+          "charaIds": "11101",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "30011",
+          "effectIdx2": "684",
+          "effectIdx3": "264",
           "effectIdx4": "0"
         },
         {

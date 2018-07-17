@@ -1559,6 +1559,18 @@ window.vo=[
           "voiceWin": "naruto_battle_02_20",
           "voiceDeath": "naruto_death_02_06"
         },
+         {
+          "cardVoiceId": "131",
+          "cardId": "20040707",
+          "dirName": "kimimaro",
+          "evolutionStep": "",
+          "voiceAppear": "kimimaro_battle_02_03",
+          "voiceSkill1": "kimimaro_skill_02_09,kimimaro_skill_02_08,kimimaro_skill_02_05",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "kimimaro_win_02_02",
+          "voiceDeath": "kimimaro_death_02_02"
+        },
         {
           "cardVoiceId": "8001",
           "cardId": "80000001",

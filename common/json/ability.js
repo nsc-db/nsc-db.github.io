@@ -17217,6 +17217,24 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "1951",
+          "abilityName": "死に至る病",
+          "abilityDescription": "素早さ100％アップ＆状態異常を無効化＆行動後にHPが20％減少する。",
+          "abilityEffectDescription": "素早さ100％アップ＆状態異常を無効化＆行動後にHPが20％減少する。",
+          "effectIdx1": "13099",
+          "effectIdx2": "82",
+          "effectIdx3": "862"
+        },
+        {
+          "abilityId": "1952",
+          "abilityName": "骨芽細胞増殖",
+          "abilityDescription": "2回行動まで、受ける耐性無視スキルのダメージを0＆キャンセル無効＆全スキル無効",
+          "abilityEffectDescription": "2回行動まで、受ける耐性無視スキルのダメージを0＆キャンセル無効＆全スキル無効",
+          "effectIdx1": "1838",
+          "effectIdx2": "1839",
+          "effectIdx3": "663"
+        },
+        {
           "abilityId": "1955",
           "abilityName": "溶けない紙",
           "abilityDescription": "防御力とスキルダメージが100%アップする",

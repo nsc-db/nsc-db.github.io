@@ -9815,6 +9815,19 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "763",
+          "name": "剥き出しの骸悪",
+          "description": "Heart Type and Oto Characters Maximum HP and DEF +80%",
+          "effectIdx1": "649",
+          "effectIdx2": "12079",
+          "effectIdx3": "0",
+          "compType": "2",
+          "target1Category": "1",
+          "target1Param": "1",
+          "target2Category": "2",
+          "target2Param": "4"
+        },
+        {
           "cardLeaderSkillId": "765",
           "name": "魅惑のサマービーナス",
           "description": "Akatsuki Characters Skill Damage +70%",
