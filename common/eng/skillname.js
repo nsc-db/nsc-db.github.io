@@ -6481,6 +6481,16 @@ window.skillname=[
           "eng": "Origami Variety"
         },
         {
+          "cardBattleSkillNameId": "2482",
+          "name": "尖鋭・千鳥鋭槍",
+          "eng": "Acute Chidori Sharp Spear"
+        },
+        {
+          "cardBattleSkillNameId": "2483",
+          "name": "今なら見える",
+          "eng": "I Can See Now"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！",
           "eng": ""

@@ -9828,6 +9828,19 @@ window.lead=[
           "target2Param": "4"
         },
         {
+          "cardLeaderSkillId": "764",
+          "name": "研ぎ澄まされた雷刃",
+          "description": "勇属性のスキルダメージ50%アップ＆各自が5回行動するまで素早さ70%アップ",
+          "effectIdx1": "682",
+          "effectIdx2": "1621",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "7",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "765",
           "name": "魅惑のサマービーナス",
           "description": "“暁”所属のスキルダメージを70%アップする",

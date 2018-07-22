@@ -5184,6 +5184,14 @@ window.skillname=[
           "name": "折り紙は色々なものになるの"
         },
         {
+          "cardBattleSkillNameId": "2482",
+          "name": "尖鋭・千鳥鋭槍"
+        },
+        {
+          "cardBattleSkillNameId": "2483",
+          "name": "今なら見える"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },

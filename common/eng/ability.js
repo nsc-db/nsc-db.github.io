@@ -17235,6 +17235,24 @@ window.ability=[
           "effectIdx3": "663"
         },
         {
+          "abilityId": "1953",
+          "abilityName": "Skillful Eyes",
+          "abilityDescription": "When HP is max, Immune to Fixed Damage, Sharingan, Rinnegan, Rinne Sharingan and Byakugan.",
+          "abilityEffectDescription": "HPMAX時、受ける耐性無視スキルのダメージを0＆写輪眼、輪廻眼、輪廻写輪眼、白眼を無効",
+          "effectIdx1": "1849",
+          "effectIdx2": "1850",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1954",
+          "abilityName": "Evolving Chidori",
+          "abilityDescription": "Maximum HP and ATK +120%. SPD +30% per turn (Max 150%)",
+          "abilityEffectDescription": "最大HPと攻撃力が120%アップし、行動するたびに素早さが30％アップする(最大5回)",
+          "effectIdx1": "1221",
+          "effectIdx2": "736",
+          "effectIdx3": "1424"
+        },
+        {
           "abilityId": "1955",
           "abilityName": "Undissolvable Paper",
           "abilityDescription": "DEF and Skill Damage +100%",

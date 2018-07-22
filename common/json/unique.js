@@ -7728,6 +7728,18 @@ window.unique=[
           "effectIdx4": "0"
         },
         {
+          "crystalOverwriteEffectId": "656",
+          "targetCrystal": "10721",
+          "description": "最大HPと攻撃力と防御力が1500アップ、5回行動するまで、消費チャクラを0にする",
+          "charaIds": "13401,13501,13601,13602",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "329",
+          "effectIdx2": "11514",
+          "effectIdx3": "12514",
+          "effectIdx4": "1842"
+        },
+        {
           "crystalOverwriteEffectId": "657",
           "targetCrystal": "10709",
           "description": "攻撃力・防御力・素早さが90％アップ",
@@ -7773,6 +7785,30 @@ window.unique=[
           "effectIdx1": "628",
           "effectIdx2": "1768",
           "effectIdx3": "761",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "661",
+          "targetCrystal": "10711",
+          "description": "最大チャクラ量が100アップし、HPが50%以上の時に超高確率でスキルを回避する",
+          "charaIds": "204,207,210",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "813",
+          "effectIdx2": "1844",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "662",
+          "targetCrystal": "10712",
+          "description": "雷遁タイプのスキルダメージを200%アップし、攻撃を受けると確率でHP15%回復",
+          "charaIds": "204,207,210",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1845",
+          "effectIdx2": "1846",
+          "effectIdx3": "0",
           "effectIdx4": "0"
         },
         {

@@ -14752,6 +14752,38 @@ window.gear=[
           "recipeName": "父と母の愛情"
         },
         {
+          "crystalId": "10711",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "689",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "兄への憎しみ",
+          "crystalDescription": "最大チャクラ量が50アップ",
+          "crystalImageId": "107115",
+          "recipeId": "10711",
+          "recipeName": "兄への憎しみ"
+        },
+        {
+          "crystalId": "10712",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "581",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "サスケの手甲",
+          "crystalDescription": "雷遁タイプのスキルダメージを50%アップ",
+          "crystalImageId": "107125",
+          "recipeId": "10712",
+          "recipeName": "サスケの手甲"
+        },
+        {
           "crystalId": "10713",
           "crystalType": "1",
           "crystalRare": "5",
@@ -14862,6 +14894,22 @@ window.gear=[
           "crystalImageId": "107205",
           "recipeId": "10720",
           "recipeName": "サスケへの忠誠"
+        },
+        {
+          "crystalId": "10721",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "1841",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "\"蛇\"出発の雨",
+          "crystalDescription": "5回行動するまで、消費チャクラが15%減少する",
+          "crystalImageId": "107215",
+          "recipeId": "10721",
+          "recipeName": "\"蛇\"出発の雨"
         },
         {
           "crystalId": "10723",

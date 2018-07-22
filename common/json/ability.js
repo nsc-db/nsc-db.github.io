@@ -17235,6 +17235,24 @@ window.ability=[
           "effectIdx3": "663"
         },
         {
+          "abilityId": "1953",
+          "abilityName": "冴えを増す瞳術",
+          "abilityDescription": "HPMAX時、受ける耐性無視スキルのダメージを0＆写輪眼、輪廻眼、輪廻写輪眼、白眼を無効",
+          "abilityEffectDescription": "HPMAX時、受ける耐性無視スキルのダメージを0＆写輪眼、輪廻眼、輪廻写輪眼、白眼を無効",
+          "effectIdx1": "1849",
+          "effectIdx2": "1850",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1954",
+          "abilityName": "進化する千鳥",
+          "abilityDescription": "最大HPと攻撃力が120%アップし、行動するたびに素早さが30％アップする(最大5回)",
+          "abilityEffectDescription": "最大HPと攻撃力が120%アップし、行動するたびに素早さが30％アップする(最大5回)",
+          "effectIdx1": "1221",
+          "effectIdx2": "736",
+          "effectIdx3": "1424"
+        },
+        {
           "abilityId": "1955",
           "abilityName": "溶けない紙",
           "abilityDescription": "防御力とスキルダメージが100%アップする",

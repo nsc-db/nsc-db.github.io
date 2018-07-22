@@ -1572,6 +1572,18 @@ window.vo=[
           "voiceDeath": "kimimaro_death_02_02"
         },
         {
+          "cardVoiceId": "132",
+          "cardId": "20040708",
+          "dirName": "sasuke",
+          "evolutionStep": "",
+          "voiceAppear": "sasuke_battle_02_05",
+          "voiceSkill1": "sasuke_skill_02_37",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "sasuke_win_02_11",
+          "voiceDeath": "sasuke_death_02_06"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

@@ -9828,6 +9828,19 @@ window.lead=[
           "target2Param": "4"
         },
         {
+          "cardLeaderSkillId": "764",
+          "name": "研ぎ澄まされた雷刃",
+          "description": "Courage Type Skill Damage +50%. For 5 turns, SPD +70%",
+          "effectIdx1": "682",
+          "effectIdx2": "1621",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "7",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "765",
           "name": "魅惑のサマービーナス",
           "description": "Akatsuki Characters Skill Damage +70%",
