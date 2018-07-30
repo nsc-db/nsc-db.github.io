@@ -1584,6 +1584,66 @@ window.vo=[
           "voiceDeath": "sasuke_death_02_06"
         },
         {
+          "cardVoiceId": "133",
+          "cardId": "20040802",
+          "dirName": "naruto",
+          "evolutionStep": "",
+          "voiceAppear": "naruto_battle_02_16",
+          "voiceSkill1": "naruto_pursuit_02_04,sasuke_skill_02_41",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "naruto_win_02_10",
+          "voiceDeath": "naruto_death_02_06"
+        },
+        {
+          "cardVoiceId": "134",
+          "cardId": "20040803",
+          "dirName": "sasuke",
+          "evolutionStep": "",
+          "voiceAppear": "sasuke_skill_02_30",
+          "voiceSkill1": "sasuke_skill_02_41,naruto_skill_02_48",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "sasuke_skill_02_40",
+          "voiceDeath": "sasuke_death_02_07"
+        },
+        {
+          "cardVoiceId": "135",
+          "cardId": "20040804",
+          "dirName": "naruto",
+          "evolutionStep": "",
+          "voiceAppear": "naruto_battle_02_29",
+          "voiceSkill1": "naruto_skill_02_03,naruto_skill_02_39",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "naruto_menu_06",
+          "voiceDeath": "naruto_death_02_05"
+        },
+        {
+          "cardVoiceId": "136",
+          "cardId": "20040805",
+          "dirName": "sasuke",
+          "evolutionStep": "",
+          "voiceAppear": "sasuke_gacha_fix_02",
+          "voiceSkill1": "sasuke_skill_02_05,sasuke_skill_02_03",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "sasuke_win_02_13",
+          "voiceDeath": "sasuke_death_02_10"
+        },
+        {
+          "cardVoiceId": "137",
+          "cardId": "20040806",
+          "dirName": "sakura",
+          "evolutionStep": "",
+          "voiceAppear": "sakura_battle_02_07",
+          "voiceSkill1": "sakura_skill_02_11,sakura_skill_02_02",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "sakura_win_02_04",
+          "voiceDeath": "sakura_death_02_05"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

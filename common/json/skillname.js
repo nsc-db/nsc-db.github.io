@@ -5192,6 +5192,46 @@ window.skillname=[
           "name": "今なら見える"
         },
         {
+          "cardBattleSkillNameId": "2484",
+          "name": "痛天衝"
+        },
+        {
+          "cardBattleSkillNameId": "2485",
+          "name": "私が行く！！"
+        },
+        {
+          "cardBattleSkillNameId": "2486",
+          "name": "それがオレの忍道だからだ"
+        },
+        {
+          "cardBattleSkillNameId": "2487",
+          "name": "次で決着をつけるぞ"
+        },
+        {
+          "cardBattleSkillNameId": "2488",
+          "name": "風雲・ガマ吉"
+        },
+        {
+          "cardBattleSkillNameId": "2489",
+          "name": "やるぜェガマ吉"
+        },
+        {
+          "cardBattleSkillNameId": "2490",
+          "name": "雷炎・アオダ"
+        },
+        {
+          "cardBattleSkillNameId": "2491",
+          "name": "真っ直ぐに進むだけでいい"
+        },
+        {
+          "cardBattleSkillNameId": "2492",
+          "name": "治癒・カツユ"
+        },
+        {
+          "cardBattleSkillNameId": "2493",
+          "name": "私達は回復役です！"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },

@@ -17325,6 +17325,114 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "1963",
+          "abilityName": "医療のスペシャリスト",
+          "abilityDescription": "HP回復スキルの基礎回復量を60%アップし、HPが70％以上で攻撃力100％アップする",
+          "abilityEffectDescription": "HP回復スキルの基礎回復量を60%アップし、HPが70％以上で攻撃力100％アップする",
+          "effectIdx1": "590",
+          "effectIdx2": "966",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1964",
+          "abilityName": "命を繋ぐ力",
+          "abilityDescription": "チャクラ消費量が20%ダウンし、行動後にHPが30％回復する",
+          "abilityEffectDescription": "チャクラ消費量が20%ダウンし、行動後にHPが30％回復する",
+          "effectIdx1": "860",
+          "effectIdx2": "894",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1965",
+          "abilityName": "忍連合に希望を与えし者達",
+          "abilityDescription": "最大チャクラ量が100アップ、HPが0以下になると5回までHPが全回復する",
+          "abilityEffectDescription": "最大チャクラ量が100アップ、HPが0以下になると5回までHPが全回復する",
+          "effectIdx1": "20009",
+          "effectIdx2": "1512",
+          "effectIdx3": "874"
+        },
+        {
+          "abilityId": "1966",
+          "abilityName": "絆の共闘",
+          "abilityDescription": "最大HPが120%アップ＆状態異常と幻とキャンセル無効",
+          "abilityEffectDescription": "最大HPが120%アップ＆状態異常と幻とキャンセル無効",
+          "effectIdx1": "1221",
+          "effectIdx2": "1638",
+          "effectIdx3": "1751"
+        },
+        {
+          "abilityId": "1967",
+          "abilityName": "忍連合に希望を与えし者達",
+          "abilityDescription": "最大チャクラ量が100アップ、HPが0以下になると5回までHPが全回復する",
+          "abilityEffectDescription": "最大チャクラ量が100アップ、HPが0以下になると5回までHPが全回復する",
+          "effectIdx1": "20009",
+          "effectIdx2": "1512",
+          "effectIdx3": "874"
+        },
+        {
+          "abilityId": "1968",
+          "abilityName": "共闘すべき刻",
+          "abilityDescription": "最大HPが120%アップ＆状態異常と幻とキャンセル無効",
+          "abilityEffectDescription": "最大HPが120%アップ＆状態異常と幻とキャンセル無効",
+          "effectIdx1": "1221",
+          "effectIdx2": "1638",
+          "effectIdx3": "1751"
+        },
+        {
+          "abilityId": "1969",
+          "abilityName": "義侠のガマ吉",
+          "abilityDescription": "HP50％以上でチャクラ消費量半減、行動後にチャクラが20%回復",
+          "abilityEffectDescription": "HP50％以上でチャクラ消費量半減、行動後にチャクラが20%回復",
+          "effectIdx1": "1755",
+          "effectIdx2": "583",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1970",
+          "abilityName": "曲がらぬ忍道",
+          "abilityDescription": "最大チャクラ量が100アップし、攻撃力とスキルダメージが100%アップする",
+          "abilityEffectDescription": "最大チャクラ量が100アップし、攻撃力とスキルダメージが100%アップする",
+          "effectIdx1": "20009",
+          "effectIdx2": "11099",
+          "effectIdx3": "774"
+        },
+        {
+          "abilityId": "1971",
+          "abilityName": "忠誠のアオダ",
+          "abilityDescription": "HP50％以上でスキル発動速度1段階アップ、高確率でスキルを回避",
+          "abilityEffectDescription": "HP50％以上でスキル発動速度1段階アップ、高確率でスキルを回避",
+          "effectIdx1": "1827",
+          "effectIdx2": "734",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1972",
+          "abilityName": "うちはの矜持",
+          "abilityDescription": "最大チャクラ量が100アップし、攻撃力とスキルダメージが100%アップする",
+          "abilityEffectDescription": "最大チャクラ量が100アップし、攻撃力とスキルダメージが100%アップする",
+          "effectIdx1": "20009",
+          "effectIdx2": "11099",
+          "effectIdx3": "774"
+        },
+        {
+          "abilityId": "1973",
+          "abilityName": "慈愛のカツユ",
+          "abilityDescription": "HP50％以上で攻撃力100％アップ、行動後にHPが30％回復",
+          "abilityEffectDescription": "HP50％以上で攻撃力100％アップ、行動後にHPが30％回復",
+          "effectIdx1": "1781",
+          "effectIdx2": "894",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1974",
+          "abilityName": "揺るがぬ信念",
+          "abilityDescription": "最大チャクラ量が100アップし、攻撃力とスキルダメージが100%アップする",
+          "abilityEffectDescription": "最大チャクラ量が100アップし、攻撃力とスキルダメージが100%アップする",
+          "effectIdx1": "20009",
+          "effectIdx2": "11099",
+          "effectIdx3": "774"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

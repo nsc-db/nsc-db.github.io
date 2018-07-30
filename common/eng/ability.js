@@ -17325,6 +17325,114 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "1963",
+          "abilityName": "Medical Specialist",
+          "abilityDescription": "HP Recovery Skills +60%. ATK +100% when HP is above 70%",
+          "abilityEffectDescription": "HP回復スキルの基礎回復量を60%アップし、HPが70％以上で攻撃力100％アップする",
+          "effectIdx1": "590",
+          "effectIdx2": "966",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1964",
+          "abilityName": "Power to Connect Life",
+          "abilityDescription": "Chakra Cost -20%. HP Regen +30%",
+          "abilityEffectDescription": "チャクラ消費量が20%ダウンし、行動後にHPが30％回復する",
+          "effectIdx1": "860",
+          "effectIdx2": "894",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1965",
+          "abilityName": "Shinobi Allied Force's Hope",
+          "abilityDescription": "Maximum Chakra +100. When HP reach 0, revive 5 times",
+          "abilityEffectDescription": "最大チャクラ量が100アップ、HPが0以下になると5回までHPが全回復する",
+          "effectIdx1": "20009",
+          "effectIdx2": "1512",
+          "effectIdx3": "874"
+        },
+        {
+          "abilityId": "1966",
+          "abilityName": "Bonds Together",
+          "abilityDescription": "Maximum HP +120%. Immune to Status Effects, Genjutsu and Cancel",
+          "abilityEffectDescription": "最大HPが120%アップ＆状態異常と幻とキャンセル無効",
+          "effectIdx1": "1221",
+          "effectIdx2": "1638",
+          "effectIdx3": "1751"
+        },
+        {
+          "abilityId": "1967",
+          "abilityName": "Shinobi Allied Force's Hope",
+          "abilityDescription": "Maximum Chakra +100. When HP reach 0, revive 5 times",
+          "abilityEffectDescription": "最大チャクラ量が100アップ、HPが0以下になると5回までHPが全回復する",
+          "effectIdx1": "20009",
+          "effectIdx2": "1512",
+          "effectIdx3": "874"
+        },
+        {
+          "abilityId": "1968",
+          "abilityName": "Resonating Chance",
+          "abilityDescription": "Maximum HP +120%. Immune to Status Effects, Genjutsu and Cancel",
+          "abilityEffectDescription": "最大HPが120%アップ＆状態異常と幻とキャンセル無効",
+          "effectIdx1": "1221",
+          "effectIdx2": "1638",
+          "effectIdx3": "1751"
+        },
+        {
+          "abilityId": "1969",
+          "abilityName": "Gamakichi's Chivalry",
+          "abilityDescription": "Chakra Cost -50% and Chakra Recovery +20% when HP is above 50%",
+          "abilityEffectDescription": "HP50％以上でチャクラ消費量半減、行動後にチャクラが20%回復",
+          "effectIdx1": "1755",
+          "effectIdx2": "583",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1970",
+          "abilityName": "Untouchable Nindo",
+          "abilityDescription": "Maximum Chakra +100. ATK and Skill Damage +100%",
+          "abilityEffectDescription": "Maximum Chakra +100. ATK and Skill Damage +100%",
+          "effectIdx1": "20009",
+          "effectIdx2": "11099",
+          "effectIdx3": "774"
+        },
+        {
+          "abilityId": "1971",
+          "abilityName": "Aoda's Loyality",
+          "abilityDescription": "Cast Speed +1 and high chance to dodge Skills when HP is above 50%",
+          "abilityEffectDescription": "HP50％以上でスキル発動速度1段階アップ、高確率でスキルを回避",
+          "effectIdx1": "1827",
+          "effectIdx2": "734",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1972",
+          "abilityName": "Uchiha's Pride",
+          "abilityDescription": "Maximum Chakra +100. ATK and Skill Damage +100%",
+          "abilityEffectDescription": "Maximum Chakra +100. ATK and Skill Damage +100%",
+          "effectIdx1": "20009",
+          "effectIdx2": "11099",
+          "effectIdx3": "774"
+        },
+        {
+          "abilityId": "1973",
+          "abilityName": "Katsuyu's Kindness",
+          "abilityDescription": "ATK +100% and HP Regen +30% when HP is above 50%",
+          "abilityEffectDescription": "HP50％以上で攻撃力100％アップ、行動後にHPが30％回復",
+          "effectIdx1": "1781",
+          "effectIdx2": "894",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1974",
+          "abilityName": "Unwavering Faith",
+          "abilityDescription": "Maximum Chakra +100. ATK and Skill Damage +100%",
+          "abilityEffectDescription": "Maximum Chakra +100. ATK and Skill Damage +100%",
+          "effectIdx1": "20009",
+          "effectIdx2": "11099",
+          "effectIdx3": "774"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

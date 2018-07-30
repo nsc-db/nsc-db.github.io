@@ -4559,4 +4559,52 @@ window.tags=[
           "tag": "event",
           "rate": "-"
 },
+{
+          "cardId": "20040712",
+          "rare": "5",
+          "tag": "event",
+          "rate": "-"
+},
+{
+          "cardId": "20040801",
+          "rare": "5",
+          "tag": "pmiles",
+          "rate": "-"
+},
+{
+          "cardId": "20040802",
+          "rare": "5",
+          "tag": "god",
+          "rate": "-"
+},
+{
+          "cardId": "20040803",
+          "rare": "5",
+          "tag": "god",
+          "rate": "-"
+},
+{
+          "cardId": "20040804",
+          "rare": "5",
+          "tag": "ex-6",
+          "rate": "-"
+},
+{
+          "cardId": "20040805",
+          "rare": "5",
+          "tag": "ex-6",
+          "rate": "-"
+},
+{
+          "cardId": "20040806",
+          "rare": "5",
+          "tag": "ex-6",
+          "rate": "-"
+},
+{
+          "cardId": "20040807",
+          "rare": "5",
+          "tag": "limited-6",
+          "rate": "-"
+},
 ]

@@ -6491,6 +6491,56 @@ window.skillname=[
           "eng": "I Can See Now"
         },
         {
+          "cardBattleSkillNameId": "2484",
+          "name": "痛天衝",
+          "eng": "Painful Opposition"
+        },
+        {
+          "cardBattleSkillNameId": "2485",
+          "name": "私が行く！！",
+          "eng": "I'll Go!!"
+        },
+        {
+          "cardBattleSkillNameId": "2486",
+          "name": "それがオレの忍道だからだ",
+          "eng": "Because It's My Nindo"
+        },
+        {
+          "cardBattleSkillNameId": "2487",
+          "name": "次で決着をつけるぞ",
+          "eng": "This Next One Will End It"
+        },
+        {
+          "cardBattleSkillNameId": "2488",
+          "name": "風雲・ガマ吉",
+          "eng": "Wind: Gamakichi"
+        },
+        {
+          "cardBattleSkillNameId": "2489",
+          "name": "やるぜェガマ吉",
+          "eng": "Lets Do It, Gamakichi"
+        },
+        {
+          "cardBattleSkillNameId": "2490",
+          "name": "雷炎・アオダ",
+          "eng": "Lightning Flame: Aoda"
+        },
+        {
+          "cardBattleSkillNameId": "2491",
+          "name": "真っ直ぐに進むだけでいい",
+          "eng": "Keep Going Straight"
+        },
+        {
+          "cardBattleSkillNameId": "2492",
+          "name": "治癒・カツユ",
+          "eng": "Healing: Katsuyu"
+        },
+        {
+          "cardBattleSkillNameId": "2493",
+          "name": "私達は回復役です！",
+          "eng": "I Will Heal!"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！",
           "eng": ""
