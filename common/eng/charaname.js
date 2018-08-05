@@ -156,7 +156,7 @@ window.charaname=[
         {
           "charaProfileId": "112",
           "charaId": "1",
-          "name": "うずまきナルト",
+          "name": "Naruto Uzumaki",
           "detail": "疾風伝",
           "charaLoveAffinityGroupId": "120",
           "birthday": "1010",
