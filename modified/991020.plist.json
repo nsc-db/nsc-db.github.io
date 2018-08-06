@@ -1,0 +1,4096 @@
+{
+  "resData": {
+    "991020": {
+      "titleM": [
+        {
+          "titleId": "1",
+          "title": "忍者学校の",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "2",
+          "title": "木ノ葉隠れの",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "3",
+          "title": "音隠れの",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "4",
+          "title": "鷹の",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "5",
+          "title": "音の五人衆",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "6",
+          "title": "霧隠れの",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "7",
+          "title": "妙木山の",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "8",
+          "title": "雨隠れの",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "20",
+          "title": "火遁使いの",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "21",
+          "title": "水遁使いの",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "22",
+          "title": "木遁使いの",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "23",
+          "title": "雷遁使いの",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "24",
+          "title": "土遁使いの",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "25",
+          "title": "体術の",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "26",
+          "title": "炎遁使いの",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "27",
+          "title": "溶遁使いの",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "28",
+          "title": "沸遁使いの",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "50",
+          "title": "目覚めの",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "51",
+          "title": "飛躍する",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "52",
+          "title": "覚醒した",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "60",
+          "title": "小金持ちの",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "61",
+          "title": "金持ちの",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "62",
+          "title": "大金持ちの",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "100",
+          "title": "最大の",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "101",
+          "title": "最強の",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "102",
+          "title": "卑劣な",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "103",
+          "title": "自分ルールの",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "104",
+          "title": "気まぐれな",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "105",
+          "title": "負け犬の",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "106",
+          "title": "ラーメン好きの",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "107",
+          "title": "幻に誘う",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "108",
+          "title": "薔薇色の",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "109",
+          "title": "美しき",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "110",
+          "title": "憎しみの",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "111",
+          "title": "闇の",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "112",
+          "title": "堕ちた",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "113",
+          "title": "妖艶な",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "114",
+          "title": "婚期が遅れる",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "115",
+          "title": "誰でもない",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "116",
+          "title": "仮面の",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "117",
+          "title": "口先だけの",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "118",
+          "title": "闇と矛盾",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "119",
+          "title": "弱点はない",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "120",
+          "title": "ナメてる",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "121",
+          "title": "忘れてた",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "122",
+          "title": "同胞を殺してでも",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "123",
+          "title": "急所は外す",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "124",
+          "title": "完璧な",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "125",
+          "title": "思うようにいかない",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "126",
+          "title": "ミ・ファ・ソの",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "127",
+          "title": "トラップ忍術",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "128",
+          "title": "とっておきの",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "129",
+          "title": "一人一殺の",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "130",
+          "title": "蘇えりしは",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "131",
+          "title": "天性の",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "132",
+          "title": "自滅の",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "133",
+          "title": "砂漠の",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "134",
+          "title": "能力は",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "135",
+          "title": "オレの",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "136",
+          "title": "呪われし",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "137",
+          "title": "お前の未来は…",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "138",
+          "title": "忍という名の",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "139",
+          "title": "感情のない",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "140",
+          "title": "真っ白な",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "141",
+          "title": "ワシが作った",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "142",
+          "title": "手が早い",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "143",
+          "title": "頼りたくなる",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "144",
+          "title": "遅すぎる",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "145",
+          "title": "師が",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "146",
+          "title": "がんばれ",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "147",
+          "title": "さめざめと",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "148",
+          "title": "オレの名は",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "149",
+          "title": "作戦通り",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "150",
+          "title": "最後に一言",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "151",
+          "title": "身体を融合した",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "152",
+          "title": "ワシら夫婦の",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "153",
+          "title": "他里嫌いの",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "154",
+          "title": "ぎっくり腰の",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "155",
+          "title": "分裂する",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "156",
+          "title": "用心しろ",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "157",
+          "title": "アンタの言葉が",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "158",
+          "title": "火影の胸元",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "159",
+          "title": "バカヤロー",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "160",
+          "title": "忍キラーな",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "161",
+          "title": "真実の滝の",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "162",
+          "title": "オレ好みの",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "163",
+          "title": "ハデな",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "164",
+          "title": "お前ら",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "165",
+          "title": "韻を踏む",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "166",
+          "title": "耳障りな",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "167",
+          "title": "まじムカツク",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "168",
+          "title": "かっけー",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "169",
+          "title": "さがれ…",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "170",
+          "title": "寡黙な",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "171",
+          "title": "背後から",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "172",
+          "title": "オイラの芸術が",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "173",
+          "title": "アンタの",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "174",
+          "title": "この眼は",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "175",
+          "title": "てめーら兄弟の",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "176",
+          "title": "殺す為の",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "177",
+          "title": "オレの写輪眼は",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "178",
+          "title": "渚の",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "179",
+          "title": "夏の",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "180",
+          "title": "海の",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "181",
+          "title": "山椒魚の",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "182",
+          "title": "猛毒の",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "183",
+          "title": "特製マスクの",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "184",
+          "title": "用心深い",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "185",
+          "title": "雨に打たれた",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "186",
+          "title": "戦場の",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "187",
+          "title": "体が勝手に",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "188",
+          "title": "里の皆に",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "189",
+          "title": "共通視界の",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "190",
+          "title": "プシュ～",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "191",
+          "title": "“個”に執着の",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "192",
+          "title": "今ならアンタも",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "193",
+          "title": "お前の物語を",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "194",
+          "title": "良く覚えておけ",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "195",
+          "title": "神無月の",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "196",
+          "title": "霜月の",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "197",
+          "title": "師走の",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "198",
+          "title": "面の下の",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "199",
+          "title": "闇を疾走る",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "200",
+          "title": "暗部入りした",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "201",
+          "title": "レベルが違う",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "202",
+          "title": "闇に浮かぶ",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "203",
+          "title": "うちは地区の",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "204",
+          "title": "深く刻まれた",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "205",
+          "title": "睦月の",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "206",
+          "title": "新年早々",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "207",
+          "title": "電光石火の",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "208",
+          "title": "初夢は",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "209",
+          "title": "2017年の",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "210",
+          "title": "縁起のいい",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "211",
+          "title": "寒中の",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "212",
+          "title": "如月の",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "213",
+          "title": "騙されるな",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "214",
+          "title": "忍とは",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "215",
+          "title": "水切りの",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "216",
+          "title": "訳ありの",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "217",
+          "title": "弥生の",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "218",
+          "title": "卯月の",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "219",
+          "title": "胸の脂肪が",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "220",
+          "title": "この程度の",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "221",
+          "title": "術のキレが",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "222",
+          "title": "水無月の",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "223",
+          "title": "7610の",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "224",
+          "title": "二つ目の",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "225",
+          "title": "ゲッソリした",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "226",
+          "title": "文月の",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "227",
+          "title": "感謝の",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "228",
+          "title": "この世の",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "229",
+          "title": "長月の",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "230",
+          "title": "最悪の",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "231",
+          "title": "重要視の",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "232",
+          "title": "昼めし抜きの",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "233",
+          "title": "邪悪な",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "234",
+          "title": "三代目の",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "235",
+          "title": "お前を",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "236",
+          "title": "またお前の",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "237",
+          "title": "最後の",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "238",
+          "title": "決着の",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "239",
+          "title": "借物の",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "240",
+          "title": "神威の",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "241",
+          "title": "医療忍術が",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "242",
+          "title": "カツユ様の",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "243",
+          "title": "新しい世代の",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "246",
+          "title": "罪人の",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "249",
+          "title": "虫ケラが",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "251",
+          "title": "このエロ忍術が",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "252",
+          "title": "はじまりの",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "253",
+          "title": "気概を持つ",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "254",
+          "title": "先駆者の",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "255",
+          "title": "3周年だよ",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "256",
+          "title": "3周年の",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "257",
+          "title": "和解の",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "258",
+          "title": "刻まれた",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "259",
+          "title": "神速の",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "260",
+          "title": "ナルトの",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "1000",
+          "title": "忍者学校生",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1001",
+          "title": "くノ一",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1002",
+          "title": "下忍",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1003",
+          "title": "中忍",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1004",
+          "title": "特別上忍",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1005",
+          "title": "上忍",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1006",
+          "title": "暗部",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1007",
+          "title": "ご意見番",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1008",
+          "title": "相談役",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1009",
+          "title": "四人組",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1010",
+          "title": "須佐能乎",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1011",
+          "title": "感知タイプ",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1100",
+          "title": "イケメン",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1101",
+          "title": "芸術家",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1102",
+          "title": "操演者",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1103",
+          "title": "復讐者",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1104",
+          "title": "侵入者",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1105",
+          "title": "瞳",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1106",
+          "title": "いい男",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1107",
+          "title": "優柔不断",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1108",
+          "title": "友",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1109",
+          "title": "男",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1110",
+          "title": "華",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1111",
+          "title": "自慢の瞳力",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1112",
+          "title": "真実",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1113",
+          "title": "絶望の弱点",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1114",
+          "title": "白蛇仙人",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1115",
+          "title": "蛇の力",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1116",
+          "title": "無敵の術",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1117",
+          "title": "アレ",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1118",
+          "title": "東門の",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1119",
+          "title": "西門の",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1120",
+          "title": "南門の",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1121",
+          "title": "北門の",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1122",
+          "title": "３コンボ",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1123",
+          "title": "血継限界",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1124",
+          "title": "“状態1”",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1125",
+          "title": "“状態2”",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1126",
+          "title": "瞳術使い",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1127",
+          "title": "デブ",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1128",
+          "title": "四人一組",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1129",
+          "title": "未知数",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1130",
+          "title": "黒き変貌",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1131",
+          "title": "不死身",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1132",
+          "title": "の才",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1133",
+          "title": "師",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1134",
+          "title": "鬼人",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1135",
+          "title": "追い忍",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1136",
+          "title": "雪一族",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1137",
+          "title": "戦闘機械",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1138",
+          "title": "道具",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1139",
+          "title": "泣き虫",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1140",
+          "title": "兄者",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1141",
+          "title": "月",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1142",
+          "title": "穢土転生",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1143",
+          "title": "半身",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1144",
+          "title": "カンペキな奴",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1145",
+          "title": "希望",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1146",
+          "title": "情念",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1147",
+          "title": "蛸ヤロー",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1148",
+          "title": "鮫ヤロー",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1149",
+          "title": "半魚人",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1150",
+          "title": "派手に暴れて",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1151",
+          "title": "またグロい系",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1152",
+          "title": "信じる力だ",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1153",
+          "title": "呼びもどせ",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1154",
+          "title": "仙人モード",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1155",
+          "title": "母ちゃん",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1156",
+          "title": "長生き",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1157",
+          "title": "土影",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1158",
+          "title": "全身包帯",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1159",
+          "title": "オレは…",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1160",
+          "title": "コノヤロー",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1161",
+          "title": "失敗しねェ",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1162",
+          "title": "特別な存在",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1163",
+          "title": "父ちゃん",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1164",
+          "title": "確かにビッグ",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1165",
+          "title": "闇の中の忍",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1166",
+          "title": "陽動",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1167",
+          "title": "何様",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1168",
+          "title": "ダジャレヤロー",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1169",
+          "title": "ライム",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1170",
+          "title": "オレ達だ",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1171",
+          "title": "あそこだ！",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1172",
+          "title": "殺人鬼",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1173",
+          "title": "オレがやる",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1174",
+          "title": "形見",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1175",
+          "title": "昇華！",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1176",
+          "title": "アレが芸術",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1177",
+          "title": "地雷粘土",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1178",
+          "title": "十八番芸術",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1179",
+          "title": "センパーイ！",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1180",
+          "title": "勘違いヤロー",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1181",
+          "title": "陽炎",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1182",
+          "title": "水着",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1183",
+          "title": "ナイスバディ",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1184",
+          "title": "マスク",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1185",
+          "title": "自信家",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1186",
+          "title": "命の代償",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1187",
+          "title": "引きこもり",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1188",
+          "title": "止まない雨",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1189",
+          "title": "和をもたらす",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1190",
+          "title": "その名は伝説",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1191",
+          "title": "信念の焔",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1192",
+          "title": "高き理想",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1193",
+          "title": "理想に殉ずる",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1194",
+          "title": "止める",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1195",
+          "title": "遠距離忍術",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1196",
+          "title": "オレのアホ",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1197",
+          "title": "新たな幻術",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1198",
+          "title": "機動力",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1199",
+          "title": "同胞殺し",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1200",
+          "title": "裏切り者",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1201",
+          "title": "友の教え",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1202",
+          "title": "トラウマ",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1203",
+          "title": "煎餅屋",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1204",
+          "title": "監視対象",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1205",
+          "title": "暗殺の刃",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1206",
+          "title": "木ノ葉流剣術",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1207",
+          "title": "新人",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1208",
+          "title": "根の者",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1209",
+          "title": "疾風怒濤",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1210",
+          "title": "夢",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1211",
+          "title": "富士",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1212",
+          "title": "鷹",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1213",
+          "title": "なすび",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1214",
+          "title": "参拝祈願",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1215",
+          "title": "お年玉",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1216",
+          "title": "届いた夢",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1217",
+          "title": "本来の力",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1218",
+          "title": "次のマダラ",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1219",
+          "title": "里と忍",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1220",
+          "title": "無茶苦茶だ",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1221",
+          "title": "ライバル",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1222",
+          "title": "嘘ではない",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1223",
+          "title": "飛雷神の術",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1224",
+          "title": "就任",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1225",
+          "title": "色良い返事",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1226",
+          "title": "朽ちぬ想い",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1227",
+          "title": "痛み",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1228",
+          "title": "外道魔像",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1229",
+          "title": "感謝感激",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1230",
+          "title": "現実",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1231",
+          "title": "地獄に居る",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1232",
+          "title": "合格者",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1233",
+          "title": "不合格者",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1234",
+          "title": "チームワーク",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1235",
+          "title": "仲間割れ",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1236",
+          "title": "独走",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1237",
+          "title": "個人プレイ",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1238",
+          "title": "終焉",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1239",
+          "title": "革命",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1240",
+          "title": "己の意志",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1241",
+          "title": "里を変える",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1242",
+          "title": "インドラの矢",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1243",
+          "title": "見殺し",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1244",
+          "title": "好きに呼べ",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1245",
+          "title": "溶解液",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1246",
+          "title": "回復させる",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1252",
+          "title": "全て吸い尽くす",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1253",
+          "title": "いい反射神経だ",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1254",
+          "title": "死んだはず",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1255",
+          "title": "覚悟は決まった",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1256",
+          "title": "卯の女神",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1257",
+          "title": "残した罪",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1258",
+          "title": "時代錯誤",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1259",
+          "title": "全員集合",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1260",
+          "title": "挑戦",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1261",
+          "title": "記憶の欠片",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1262",
+          "title": "印",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1263",
+          "title": "撃ちまくれ！",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1264",
+          "title": "生まれた日",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "5000",
+          "title": "忍道を極めし者",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5001",
+          "title": "ウスラトンカチ",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5002",
+          "title": "守護忍十二士",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5003",
+          "title": "五影",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5004",
+          "title": "最強の忍",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5005",
+          "title": "忍の神",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5054",
+          "title": "精のつくやつ頼んだで！",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5055",
+          "title": "走れチョウジ",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5056",
+          "title": "火影様に連絡だ！",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5057",
+          "title": "白眼で確認します！",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5058",
+          "title": "ここより世界に痛みを",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5059",
+          "title": "オレは諦めない！",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5065",
+          "title": "代用品を奪う！",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5066",
+          "title": "失敗はしないよ",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5067",
+          "title": "相打ちなら覚悟",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5068",
+          "title": "ナルトを行かせる！",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5100",
+          "title": "紅き瞳の幻術",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5101",
+          "title": "白い芸術家",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5102",
+          "title": "黄色い操り人形",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5103",
+          "title": "国際指名手配",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5104",
+          "title": "五影会談出席者",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5105",
+          "title": "己を捨てし者",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5106",
+          "title": "黙れ殺すぞ",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5107",
+          "title": "最後の忍刀",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5108",
+          "title": "絶望の世界",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5109",
+          "title": "夢の世界",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5110",
+          "title": "無限月読",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5111",
+          "title": "本当の神威",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5112",
+          "title": "爆風乱舞",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5113",
+          "title": "終わりなき夢",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5114",
+          "title": "このオレの存在だ！",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5115",
+          "title": "兄弟で仲間ハズレ",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5116",
+          "title": "度が過ぎたインテリ",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5117",
+          "title": "ハデな兄弟喧嘩",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5118",
+          "title": "人を騙すのが上手い",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5119",
+          "title": "まだまだ修業が足らない",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5120",
+          "title": "大蛇丸様のお気に入り",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5121",
+          "title": "アホかーっ！",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5122",
+          "title": "“天”の呪印",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5123",
+          "title": "“地”の呪印",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5124",
+          "title": "ナイスガイポーズ",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5125",
+          "title": "酔拳の使い手",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5126",
+          "title": "木ノ葉同盟国",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5127",
+          "title": "新たなる三竦み",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5128",
+          "title": "口寄せ三竦み",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5129",
+          "title": "１周年だってばよ！",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5130",
+          "title": "第十班が行く…!!",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5131",
+          "title": "かなりの切れ者",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5132",
+          "title": "本当の不死",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5133",
+          "title": "オレの火の意志",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5134",
+          "title": "無音殺人術の天才",
+          "description": "固有名詞",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5135",
+          "title": "雪の様に真っ白な",
+          "description": "固有名詞",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5136",
+          "title": "クーデターに失敗した",
+          "description": "固有名詞",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5137",
+          "title": "千以上の術をコピーした男",
+          "description": "固有名詞",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5138",
+          "title": "希望へのかけ橋",
+          "description": "固有名詞",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5139",
+          "title": "なかなかの天然",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5140",
+          "title": "やっとだよ…先生",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5141",
+          "title": "忍の祖",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5142",
+          "title": "珍獣のクマ",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5143",
+          "title": "オレの情念",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5144",
+          "title": "尾を持たない尾獣",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5145",
+          "title": "ブラザー",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5146",
+          "title": "雷遁飛び忍具使い",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5147",
+          "title": "意外にかわいい目をしてる",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5148",
+          "title": "いいコンビネーション",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5149",
+          "title": "ガンコじじい",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5150",
+          "title": "血継淘汰と呼ばれる忍",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5151",
+          "title": "外へ出すな！！",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5152",
+          "title": "戦争だからだ！",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5153",
+          "title": "代用品を奪う！",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5154",
+          "title": "失敗はしないよ",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5155",
+          "title": "相打ちなら覚悟",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5156",
+          "title": "ナルトを行かせる！",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5157",
+          "title": "ボクごとやれ！！",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5158",
+          "title": "あああーーーん…",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5159",
+          "title": "殺人衝動",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5160",
+          "title": "芸術は爆発なのだァア！",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5161",
+          "title": "カカシのだろアレ！",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5162",
+          "title": "ポップは死んだ！",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5163",
+          "title": "“喝”はやっちゃダメ―",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5164",
+          "title": "サァスゥケェー",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5165",
+          "title": "超えるべき存在",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5166",
+          "title": "なつやすみ",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5167",
+          "title": "ダイナマイトボディ",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5168",
+          "title": "木ノ葉隠れの狂気",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5169",
+          "title": "木ノ葉隠れの才媛",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5170",
+          "title": "木ノ葉隠れの天才",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5171",
+          "title": "伝説の始まり",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5172",
+          "title": "頂点極めし忍",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5173",
+          "title": "名を名乗れ",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5174",
+          "title": "鉄壁の防御網",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5175",
+          "title": "全部オレ一人でやる",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5176",
+          "title": "術が飛び交う",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5177",
+          "title": "色んな手を使う",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5178",
+          "title": "後は任せてくれ",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5179",
+          "title": "普通の奴とは違う",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5180",
+          "title": "名誉あるうちは一族",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5181",
+          "title": "仲間を忘れるな",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5182",
+          "title": "神無月の覇者",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5183",
+          "title": "霜月の覇者",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5184",
+          "title": "師走の覇者",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5185",
+          "title": "お前には闇が足りない",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5186",
+          "title": "暗殺戦術特殊部隊",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5187",
+          "title": "火影直轄暗部",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5188",
+          "title": "うちはの瞬身使い",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5189",
+          "title": "惨劇の夜",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5190",
+          "title": "睦月の覇者",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5191",
+          "title": "兵貴神速",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5192",
+          "title": "餅つき王",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5193",
+          "title": "如月の覇者",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5194",
+          "title": "愛の千手一族",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5195",
+          "title": "悪に憑かれた一族",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5196",
+          "title": "オレ達の兄弟",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5197",
+          "title": "繊細なタイプ",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5198",
+          "title": "弥生の覇者",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5199",
+          "title": "卯月の覇者",
+          "description": "",
+          "color": "000000",
+          "effectIds": "",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5200",
+          "title": "医療スペシャリスト",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5201",
+          "title": "綱手捜索",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5202",
+          "title": "諦めねェド根性",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5203",
+          "title": "水無月の覇者",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5204",
+          "title": "サンキューだってばよ！",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5205",
+          "title": "呪われた世界",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5206",
+          "title": "オレを殺れ",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5207",
+          "title": "文月の覇者",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5208",
+          "title": "感謝の陣の覇者",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5209",
+          "title": "走り続けた大激闘",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5210",
+          "title": "絶望の現実",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5211",
+          "title": "穿たれた絶望",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5212",
+          "title": "君のいる世界",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5213",
+          "title": "オレが救世主だ",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5214",
+          "title": "長月の覇者",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5215",
+          "title": "第七班誕生",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5216",
+          "title": "厳しい先生",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5217",
+          "title": "任務は班で行う",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5218",
+          "title": "無理な二択を迫る",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5219",
+          "title": "殉職した英雄",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5220",
+          "title": "オレがルールだ",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5221",
+          "title": "火の意志",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5222",
+          "title": "屍鬼封尽",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5223",
+          "title": "火の影は里を照らす",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5224",
+          "title": "忍の道を極めた",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5225",
+          "title": "ナルトの友",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5226",
+          "title": "九喇嘛の友",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5227",
+          "title": "サスケの友",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5228",
+          "title": "唯一の友",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5229",
+          "title": "てめーは誰だ",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5230",
+          "title": "九喇嘛を忘れんな",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5231",
+          "title": "絶望を写す瞳",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5232",
+          "title": "医療忍者の心得",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5233",
+          "title": "青春が迸る回復役",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5236",
+          "title": "チャクラの祖",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5237",
+          "title": "大筒木カグヤ",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5240",
+          "title": "次元が違いすぎる！",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5241",
+          "title": "あれはまるで神だ",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5244",
+          "title": "神樹の化身",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5245",
+          "title": "安寧秩序を成す者",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5246",
+          "title": "月より見守りし者",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5247",
+          "title": "3周年ありがとうコノヤロウ",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5248",
+          "title": "決着の時",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5249",
+          "title": "超速決戦の巧者",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        }
+      ]
+    }
+  }
+}

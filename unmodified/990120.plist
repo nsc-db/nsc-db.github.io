@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>990120</key>
+        <string>{"resData":{"990120":{"cardStarPieceEvolutionM":[{"id":"1001","rare":"1","step":"1","asset":"1"},{"id":"1002","rare":"1","step":"2","asset":"1"},{"id":"1003","rare":"1","step":"3","asset":"1"},{"id":"2001","rare":"2","step":"1","asset":"1"},{"id":"2002","rare":"2","step":"2","asset":"1"},{"id":"2003","rare":"2","step":"3","asset":"2"},{"id":"3001","rare":"3","step":"1","asset":"1"},{"id":"3002","rare":"3","step":"2","asset":"2"},{"id":"3003","rare":"3","step":"3","asset":"4"},{"id":"4001","rare":"4","step":"1","asset":"3"},{"id":"4002","rare":"4","step":"2","asset":"6"},{"id":"4003","rare":"4","step":"3","asset":"12"},{"id":"4004","rare":"4","step":"4","asset":"24"},{"id":"4005","rare":"4","step":"5","asset":"48"},{"id":"5001","rare":"5","step":"1","asset":"6"},{"id":"5002","rare":"5","step":"2","asset":"12"},{"id":"5003","rare":"5","step":"3","asset":"24"},{"id":"5004","rare":"5","step":"4","asset":"48"},{"id":"5005","rare":"5","step":"5","asset":"96"},{"id":"6001","rare":"6","step":"1","asset":"300"},{"id":"6002","rare":"6","step":"2","asset":"400"},{"id":"6003","rare":"6","step":"3","asset":"500"},{"id":"6004","rare":"6","step":"4","asset":"600"},{"id":"6005","rare":"6","step":"5","asset":"900"},{"id":"6006","rare":"5","step":"6","asset":"192"}]}}}</string>
+    </dict>
+</plist>

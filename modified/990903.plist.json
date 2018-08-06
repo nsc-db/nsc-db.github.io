@@ -1,0 +1,80 @@
+{
+  "resData": {
+    "990903": {
+      "worldAreaM": [
+        {
+          "worldAreaId": "1",
+          "priority": "0",
+          "name": "通常任務",
+          "description": "通常任務説明1",
+          "openTime": "2014.01.01 00:00:00",
+          "closeTime": "2034.01.01 00:00:00"
+        },
+        {
+          "worldAreaId": "2",
+          "priority": "0",
+          "name": "曜日任務",
+          "description": "曜日任務説明1",
+          "openTime": "2014.01.01 00:00:00",
+          "closeTime": "2034.01.01 00:00:00"
+        },
+        {
+          "worldAreaId": "3",
+          "priority": "0",
+          "name": "決戦任務",
+          "description": "決戦任務説明1",
+          "openTime": "2014.01.01 00:00:00",
+          "closeTime": "2034.01.01 00:00:00"
+        },
+        {
+          "worldAreaId": "4",
+          "priority": "0",
+          "name": "イベント任務",
+          "description": "イベント任務説明1(ゲリラ系イベント)",
+          "openTime": "2014.01.01 00:00:00",
+          "closeTime": "2034.01.01 00:00:00"
+        },
+        {
+          "worldAreaId": "5",
+          "priority": "0",
+          "name": "イベント任務",
+          "description": "イベント任務説明1(その他期間限定イベント)",
+          "openTime": "2014.01.01 00:00:00",
+          "closeTime": "2034.01.01 00:00:00"
+        },
+        {
+          "worldAreaId": "7",
+          "priority": "0",
+          "name": "少年篇",
+          "description": "通常任務説明1",
+          "openTime": "2014.01.01 00:00:00",
+          "closeTime": "2034.01.01 00:00:00"
+        },
+        {
+          "worldAreaId": "8",
+          "priority": "0",
+          "name": "共闘任務",
+          "description": "レイドボス任務説明1",
+          "openTime": "2014.01.01 00:00:00",
+          "closeTime": "2034.01.01 00:00:00"
+        },
+        {
+          "worldAreaId": "9",
+          "priority": "0",
+          "name": "昇級試験",
+          "description": "通常任務説明1",
+          "openTime": "2014.01.01 00:00:00",
+          "closeTime": "2034.01.01 00:00:00"
+        },
+        {
+          "worldAreaId": "10",
+          "priority": "0",
+          "name": "疾風伝",
+          "description": "通常任務説明1",
+          "openTime": "2014.01.01 00:00:00",
+          "closeTime": "2034.01.01 00:00:00"
+        }
+      ]
+    }
+  }
+}

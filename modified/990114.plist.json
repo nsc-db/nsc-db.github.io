@@ -1,0 +1,1408 @@
+{
+  "resData": {
+    "990114": {
+      "cardUnusualM": [
+        {
+          "cardUnusualId": "1",
+          "category": "1",
+          "iconId": "1",
+          "name": "攻撃力",
+          "description": "攻撃力が変化する",
+          "subScore": "0",
+          "color": "0",
+          "type": "0"
+        },
+        {
+          "cardUnusualId": "2",
+          "category": "1",
+          "iconId": "3",
+          "name": "防御力",
+          "description": "防御力が変化する",
+          "subScore": "0",
+          "color": "0",
+          "type": "0"
+        },
+        {
+          "cardUnusualId": "3",
+          "category": "1",
+          "iconId": "5",
+          "name": "素早さ",
+          "description": "素早さが変化する",
+          "subScore": "0",
+          "color": "0",
+          "type": "0"
+        },
+        {
+          "cardUnusualId": "4",
+          "category": "0",
+          "iconId": "0",
+          "name": "0",
+          "description": "0",
+          "subScore": "0",
+          "color": "0",
+          "type": "0"
+        },
+        {
+          "cardUnusualId": "5",
+          "category": "1",
+          "iconId": "7",
+          "name": "回避率",
+          "description": "回避率が変化する",
+          "subScore": "0",
+          "color": "0",
+          "type": "0"
+        },
+        {
+          "cardUnusualId": "6",
+          "category": "1",
+          "iconId": "9",
+          "name": "会心率",
+          "description": "会心率が変化する",
+          "subScore": "0",
+          "color": "0",
+          "type": "0"
+        },
+        {
+          "cardUnusualId": "7",
+          "category": "1",
+          "iconId": "19",
+          "name": "会心力",
+          "description": "会心力が変化する",
+          "subScore": "0",
+          "color": "0",
+          "type": "0"
+        },
+        {
+          "cardUnusualId": "8",
+          "category": "2",
+          "iconId": "1001",
+          "name": "毒",
+          "description": "行動後ダメージを受ける",
+          "subScore": "1",
+          "color": "12277247",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "9",
+          "category": "2",
+          "iconId": "1002",
+          "name": "麻痺",
+          "description": "行動不能になる",
+          "subScore": "1",
+          "color": "16768256",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "10",
+          "category": "2",
+          "iconId": "1003",
+          "name": "混乱",
+          "description": "敵味方問わずランダムで通常攻撃をする",
+          "subScore": "1",
+          "color": "7859729",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "11",
+          "category": "2",
+          "iconId": "1004",
+          "name": "魅了",
+          "description": "行動不能になり、防御力がダウンする",
+          "subScore": "1",
+          "color": "16746666",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "12",
+          "category": "2",
+          "iconId": "1005",
+          "name": "封印",
+          "description": "スキル使用不可になる",
+          "subScore": "1",
+          "color": "10066312",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "13",
+          "category": "2",
+          "iconId": "1006",
+          "name": "気絶",
+          "description": "行動不能になり、防御力がダウンする",
+          "subScore": "1",
+          "color": "16768256",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "14",
+          "category": "2",
+          "iconId": "1007",
+          "name": "幻",
+          "description": "行動毎に、確率で行動不能になる",
+          "subScore": "1",
+          "color": "16719871",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "15",
+          "category": "2",
+          "iconId": "1008",
+          "name": "猛毒",
+          "description": "行動後ダメージを受ける",
+          "subScore": "1",
+          "color": "12277247",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "16",
+          "category": "1",
+          "iconId": "11",
+          "name": "スキル耐性アップ",
+          "description": "スキルに対する耐性が上がる",
+          "subScore": "0",
+          "color": "15623697",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "17",
+          "category": "1",
+          "iconId": "12",
+          "name": "スキル耐性ダウン",
+          "description": "スキルに対する耐性が下がる",
+          "subScore": "0",
+          "color": "4500223",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "18",
+          "category": "3",
+          "iconId": "1009",
+          "name": "金剛牢壁",
+          "description": "火風土雷水遁スキルに対する耐性が上がる",
+          "subScore": "0",
+          "color": "16777215",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "19",
+          "category": "3",
+          "iconId": "1010",
+          "name": "溶解",
+          "description": "強化と弱体状態を解除＆無効化、さらに行動後にダメージ＆防御力が徐々にダウン",
+          "subScore": "1",
+          "color": "16744319",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "20",
+          "category": "1",
+          "iconId": "13",
+          "name": "スキルダメージ",
+          "description": "スキルで与えるダメージ量が変化する",
+          "subScore": "0",
+          "color": "0",
+          "type": "0"
+        },
+        {
+          "cardUnusualId": "21",
+          "category": "1",
+          "iconId": "1011",
+          "name": "スキル回避",
+          "description": "スキルに対する回避率がアップする",
+          "subScore": "0",
+          "color": "16768256",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "22",
+          "category": "3",
+          "iconId": "1012",
+          "name": "炎上",
+          "description": "行動後ダメージを受ける",
+          "subScore": "1",
+          "color": "16719647",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "23",
+          "category": "3",
+          "iconId": "1013",
+          "name": "須佐能乎モード",
+          "description": "確率でスキルを無効化、スキルダメージがアップする",
+          "subScore": "0",
+          "color": "16719871",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "24",
+          "category": "3",
+          "iconId": "1014",
+          "name": "黒炎",
+          "description": "行動後確率で素早さがダウンし、行動後ダメージを受ける",
+          "subScore": "1",
+          "color": "8355711",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "25",
+          "category": "3",
+          "iconId": "1075",
+          "name": "明神門",
+          "description": "使用毎にカウントが増加。スキルダメージがダウン＋特定効果が追加。",
+          "subScore": "1",
+          "color": "16727871",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "26",
+          "category": "3",
+          "iconId": "1016",
+          "name": "癒し",
+          "description": "攻撃を受けた際にHPが回復する",
+          "subScore": "0",
+          "color": "8355839",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "27",
+          "category": "1",
+          "iconId": "16",
+          "name": "チャクラ消費量増",
+          "description": "消費チャクラが増加する",
+          "subScore": "0",
+          "color": "4500223",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "28",
+          "category": "1",
+          "iconId": "15",
+          "name": "チャクラ消費量減",
+          "description": "消費チャクラが減少する",
+          "subScore": "0",
+          "color": "15623697",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "29",
+          "category": "3",
+          "iconId": "1017",
+          "name": "神威モード",
+          "description": "仲間への単体スキルを無効化する",
+          "subScore": "0",
+          "color": "16777215",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "30",
+          "category": "4",
+          "iconId": "0",
+          "name": "かばう",
+          "description": "仲間への単体攻撃を代わりに受ける",
+          "subScore": "0",
+          "color": "16777215",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "31",
+          "category": "3",
+          "iconId": "1018",
+          "name": "蛙幻",
+          "description": "スキル使用不可になる",
+          "subScore": "1",
+          "color": "16719871",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "32",
+          "category": "3",
+          "iconId": "1019",
+          "name": "飛雷神マーキング",
+          "description": "特定のスキルダメージがアップする",
+          "subScore": "0",
+          "color": "16776991",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "33",
+          "category": "3",
+          "iconId": "1013",
+          "name": "須佐能乎モード",
+          "description": "確率でスキルを無効化、スキルダメージがアップする",
+          "subScore": "0",
+          "color": "16777215",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "34",
+          "category": "3",
+          "iconId": "1020",
+          "name": "竦み",
+          "description": "攻撃力と防御力がダウン、強化と弱体を無効化する",
+          "subScore": "0",
+          "color": "16777215",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "35",
+          "category": "3",
+          "iconId": "1021",
+          "name": "透",
+          "description": "倍率スキルに「防御無視」を付与する",
+          "subScore": "0",
+          "color": "8355839",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "36",
+          "category": "3",
+          "iconId": "1022",
+          "name": "快癒",
+          "description": "敵スキルを受けた際のスキル自体のダメージを減少、攻撃を受けた時HP回復",
+          "subScore": "0",
+          "color": "16777215",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "37",
+          "category": "3",
+          "iconId": "1023",
+          "name": "抗",
+          "description": "弱体と状態異常を解除し、無効化する",
+          "subScore": "0",
+          "color": "16777215",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "38",
+          "category": "1",
+          "iconId": "17",
+          "name": "術速度アップ",
+          "description": "スキル発動速度が速くなる",
+          "subScore": "0",
+          "color": "15623697",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "39",
+          "category": "1",
+          "iconId": "18",
+          "name": "術速度ダウン",
+          "description": "スキル発動速度が遅くなる",
+          "subScore": "0",
+          "color": "4500223",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "40",
+          "category": "3",
+          "iconId": "1024",
+          "name": "操",
+          "description": "攻撃力がダウンする",
+          "subScore": "1",
+          "color": "16746666",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "41",
+          "category": "3",
+          "iconId": "0",
+          "name": "忍犬マーキング",
+          "description": "特定のスキルダメージがアップする",
+          "subScore": "0",
+          "color": "16777215",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "42",
+          "category": "3",
+          "iconId": "1025",
+          "name": "砂",
+          "description": "素早さがダウンする",
+          "subScore": "1",
+          "color": "16777215",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "43",
+          "category": "3",
+          "iconId": "1026",
+          "name": "牛",
+          "description": "特定のスキルダメージがアップする",
+          "subScore": "1",
+          "color": "16777215",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "44",
+          "category": "3",
+          "iconId": "1029",
+          "name": "吸",
+          "description": "攻撃を受けた際にチャクラを回復する",
+          "subScore": "0",
+          "color": "16777215",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "45",
+          "category": "3",
+          "iconId": "0",
+          "name": "尽",
+          "description": "行動不能になる",
+          "subScore": "0",
+          "color": "8355711",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "46",
+          "category": "3",
+          "iconId": "1030",
+          "name": "開",
+          "description": "攻撃力がアップする",
+          "subScore": "0",
+          "color": "16711680",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "47",
+          "category": "3",
+          "iconId": "1031",
+          "name": "蘇",
+          "description": "全スキルダメージ軽減、１度だけHP０になってもHPが全回復する",
+          "subScore": "0",
+          "color": "16509435",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "48",
+          "category": "3",
+          "iconId": "1034",
+          "name": "奮起",
+          "description": "攻撃力・防御力・素早さアップし、行動後HPとチャクラが回復する",
+          "subScore": "0",
+          "color": "16776991",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "49",
+          "category": "3",
+          "iconId": "1033",
+          "name": "斬",
+          "description": "スキルダメージがダウンし、スキル発動速度が遅くなる",
+          "subScore": "1",
+          "color": "16719871",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "50",
+          "category": "3",
+          "iconId": "1032",
+          "name": "絶望",
+          "description": "攻撃力・防御力・素早さアップを解除、行動選択時に確率で行動不能になる",
+          "subScore": "1",
+          "color": "8355711",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "51",
+          "category": "3",
+          "iconId": "1035",
+          "name": "戦気",
+          "description": "スキルダメージがアップする",
+          "subScore": "0",
+          "color": "16719871",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "52",
+          "category": "3",
+          "iconId": "1036",
+          "name": "真夏",
+          "description": "効果なし",
+          "subScore": "0",
+          "color": "8355839",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "53",
+          "category": "3",
+          "iconId": "1037",
+          "name": "残暑",
+          "description": "効果なし",
+          "subScore": "1",
+          "color": "8331039",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "54",
+          "category": "3",
+          "iconId": "1038",
+          "name": "泡",
+          "description": "行動後、確率で素早さがダウンする",
+          "subScore": "1",
+          "color": "8355839",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "55",
+          "category": "3",
+          "iconId": "1039",
+          "name": "決意",
+          "description": "攻撃力・防御力・素早さアップ、ダメージを受けた時にHPとチャクラを回復する",
+          "subScore": "0",
+          "color": "8355839",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "56",
+          "category": "3",
+          "iconId": "1040",
+          "name": "孤独",
+          "description": "スキルダメージがアップ、状態異常に対する耐性がつく",
+          "subScore": "0",
+          "color": "8355839",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "57",
+          "category": "3",
+          "iconId": "1041",
+          "name": "仙人モード",
+          "description": "通常攻撃が常に会心、ダメージアップ。行動後チャクラを回復する",
+          "subScore": "0",
+          "color": "7920895",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "58",
+          "category": "3",
+          "iconId": "1042",
+          "name": "紙者",
+          "description": "スキルダメージがアップする",
+          "subScore": "0",
+          "color": "16777215",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "59",
+          "category": "3",
+          "iconId": "1043",
+          "name": "出血",
+          "description": "行動後ダメージを受け、行動後確率で防御力ダウンする",
+          "subScore": "1",
+          "color": "16719647",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "60",
+          "category": "3",
+          "iconId": "1044",
+          "name": "湯",
+          "description": "攻撃を受けた際にHPが回復する",
+          "subScore": "0",
+          "color": "16756655",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "61",
+          "category": "3",
+          "iconId": "1045",
+          "name": "煙",
+          "description": "攻撃力と防御力がダウンする",
+          "subScore": "1",
+          "color": "8355711",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "62",
+          "category": "3",
+          "iconId": "1046",
+          "name": "Ｃ４",
+          "description": "素早さがダウンする",
+          "subScore": "1",
+          "color": "16777215",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "63",
+          "category": "3",
+          "iconId": "1047",
+          "name": "憎悪",
+          "description": "行動毎に攻撃力とスキルダメージがアップし、ダメージを受ける",
+          "subScore": "0",
+          "color": "8339327",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "64",
+          "category": "3",
+          "iconId": "1048",
+          "name": "チャクラ欠乏",
+          "description": "防御、通常攻撃で回復するチャクラが0になる",
+          "subScore": "0",
+          "color": "8355711",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "65",
+          "category": "3",
+          "iconId": "1049",
+          "name": "溜め",
+          "description": "防御した回数に応じてスキルダメージがアップする",
+          "subScore": "0",
+          "color": "16727871",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "66",
+          "category": "3",
+          "iconId": "1050",
+          "name": "集中",
+          "description": "行動毎にチャクラ消費量がダウンする",
+          "subScore": "0",
+          "color": "45055",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "67",
+          "category": "3",
+          "iconId": "1051",
+          "name": "憤怒",
+          "description": "攻撃力がアップし、スキル発動速度が遅くなる",
+          "subScore": "0",
+          "color": "16744319",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "68",
+          "category": "3",
+          "iconId": "1052",
+          "name": "唯我",
+          "description": "全スキルダメージを半減し、仲間の生存している木ノ葉隠れの里所属が少ないほどスキルダメージがアップする",
+          "subScore": "0",
+          "color": "16744447",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "69",
+          "category": "3",
+          "iconId": "1053",
+          "name": "獅拳",
+          "description": "通常攻撃に必中、常時会心、確率で通常攻撃にスキル発動速度が遅くなる効果を付与する",
+          "subScore": "0",
+          "color": "8355839",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "70",
+          "category": "3",
+          "iconId": "1054",
+          "name": "閃光モード",
+          "description": "素早さがアップ、スキル発動が常に閃光になる",
+          "subScore": "0",
+          "color": "16776991",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "71",
+          "category": "3",
+          "iconId": "1055",
+          "name": "縛",
+          "description": "素早さとスキルダメージがダウンする",
+          "subScore": "1",
+          "color": "8355711",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "72",
+          "category": "3",
+          "iconId": "1056",
+          "name": "想",
+          "description": "効果なし",
+          "subScore": "0",
+          "color": "11513775",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "73",
+          "category": "3",
+          "iconId": "1057",
+          "name": "愛",
+          "description": "攻撃力・素早さ・スキルダメージがアップ、全スキルダメージを軽減する",
+          "subScore": "0",
+          "color": "16744319",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "74",
+          "category": "3",
+          "iconId": "1058",
+          "name": "スキル回避封印",
+          "description": "スキルやアビリティ、忍具によるスキル回避率が０％になる",
+          "subScore": "0",
+          "color": "8355711",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "75",
+          "category": "3",
+          "iconId": "1059",
+          "name": "繋",
+          "description": "状態異常にかかる確率を半減、班の生存している木ノ葉所属が多いほどスキルダメージアップ※助っ人含む",
+          "subScore": "0",
+          "color": "8355711",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "76",
+          "category": "3",
+          "iconId": "1060",
+          "name": "憑血",
+          "description": "効果なし",
+          "subScore": "0",
+          "color": "16719647",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "77",
+          "category": "3",
+          "iconId": "1061",
+          "name": "拳",
+          "description": "通常攻撃の会心率、会心力がアップ。ダメージを受けた時HPが回復する。",
+          "subScore": "0",
+          "color": "16777215",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "78",
+          "category": "3",
+          "iconId": "1062",
+          "name": "創造再生",
+          "description": "攻撃を受けた時HP100%回復（HP0になった場合も死なずに回復）。創造再生解除時、チャクラが0になる。",
+          "subScore": "0",
+          "color": "8388479",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "79",
+          "category": "3",
+          "iconId": "1063",
+          "name": "チャクラ回復量増加",
+          "description": "防御で回復するチャクラ量がアップする",
+          "subScore": "0",
+          "color": "16250871",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "80",
+          "category": "3",
+          "iconId": "1064",
+          "name": "疾風",
+          "description": "素早さとスキルダメージがアップ",
+          "subScore": "0",
+          "color": "65280",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "81",
+          "category": "3",
+          "iconId": "1065",
+          "name": "漆黒",
+          "description": "行動後ダメージを受け、行動後確率で攻撃力と素早さがダウンする",
+          "subScore": "0",
+          "color": "8355711",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "82",
+          "category": "3",
+          "iconId": "1066",
+          "name": "夕象",
+          "description": "使用毎にカウントが増加。スキルダメージがアップ＋防御無視※カウント最大で使用すると状態解除",
+          "subScore": "0",
+          "color": "16711680",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "83",
+          "category": "3",
+          "iconId": "1071",
+          "name": "共鳴",
+          "description": "使用毎にカウントが増加。スキルダメージがアップ＋特定効果が追加。カウント毎に特定効果は追加される",
+          "subScore": "0",
+          "color": "16774242",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "84",
+          "category": "3",
+          "iconId": "1074",
+          "name": "仙術チャクラ集中",
+          "description": "攻撃力・防御力・素早さ・スキルダメージがアップし、消費チャクラが減少。状態解除後にチャクラが0になる",
+          "subScore": "0",
+          "color": "7920895",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "85",
+          "category": "3",
+          "iconId": "1078",
+          "name": "潰",
+          "description": "使用毎にカウントが増加。スキルダメージがアップする",
+          "subScore": "0",
+          "color": "14680064",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "86",
+          "category": "3",
+          "iconId": "1081",
+          "name": "青春",
+          "description": "通常攻撃が常に会心、ダメージアップ。行動後HPを回復する",
+          "subScore": "0",
+          "color": "65535",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "87",
+          "category": "3",
+          "iconId": "1082",
+          "name": "雷遁チャクラモード",
+          "description": "攻撃力がアップ、スキル発動が常に閃光になる",
+          "subScore": "0",
+          "color": "16768256",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "88",
+          "category": "3",
+          "iconId": "1083",
+          "name": "祭",
+          "description": "攻撃力・素早さ・スキルダメージがアップし、行動後チャクラが回復する",
+          "subScore": "0",
+          "color": "16727871",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "89",
+          "category": "3",
+          "iconId": "1084",
+          "name": "言霊",
+          "description": "素早さがダウンする",
+          "subScore": "0",
+          "color": "16776991",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "90",
+          "category": "3",
+          "iconId": "1085",
+          "name": "銷魂",
+          "description": "使用毎にカウントが増加。スキルダメージがダウン＋特定効果が追加。カウント毎に特定効果は追加される",
+          "subScore": "0",
+          "color": "8339327",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "91",
+          "category": "3",
+          "iconId": "1088",
+          "name": "神雷モード",
+          "description": "スキルダメージがアップし、自身と特定の仲間に対する単体スキル攻撃を全て無効化する※耐性無視攻撃を除く",
+          "subScore": "0",
+          "color": "16768256",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "92",
+          "category": "3",
+          "iconId": "1089",
+          "name": "神雷守護",
+          "description": "生存している神雷モード状態の仲間に守護され、単体スキル攻撃を無効化する※耐性無視攻撃を除く",
+          "subScore": "0",
+          "color": "16768256",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "93",
+          "category": "3",
+          "iconId": "1090",
+          "name": "目くらまし",
+          "description": "行動選択時に確率で行動不能になる",
+          "subScore": "0",
+          "color": "10505806",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "94",
+          "category": "3",
+          "iconId": "1091",
+          "name": "決闘",
+          "description": "自身を含む生存している味方の数に応じてスキルダメージがアップ",
+          "subScore": "0",
+          "color": "16727871",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "95",
+          "category": "3",
+          "iconId": "1092",
+          "name": "八咫鏡",
+          "description": "耐性無視以外のスキルを全て無効化し、スキルダメージアップする",
+          "subScore": "0",
+          "color": "3858176",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "96",
+          "category": "3",
+          "iconId": "1093",
+          "name": "招雷",
+          "description": "雷遁タイプのスキルダメージと素早さがアップする",
+          "subScore": "0",
+          "color": "49151",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "97",
+          "category": "3",
+          "iconId": "1094",
+          "name": "屍鬼",
+          "description": "使用毎にカウントが増加。カウント最大で即死",
+          "subScore": "0",
+          "color": "15790320",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "98",
+          "category": "3",
+          "iconId": "1097",
+          "name": "歴代火影",
+          "description": "攻撃力・素早さ・スキルダメージがアップし、受ける全てのスキルダメージを減少する",
+          "subScore": "0",
+          "color": "16744448",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "99",
+          "category": "3",
+          "iconId": "1098",
+          "name": "封牢",
+          "description": "行動不能になり、行動後ダメージを受ける",
+          "subScore": "0",
+          "color": "14211288",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "100",
+          "category": "3",
+          "iconId": "1099",
+          "name": "花樹",
+          "description": "行動後ダメージを受け、行動後に攻撃力と防御力がダウンする",
+          "subScore": "0",
+          "color": "16313568",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "101",
+          "category": "3",
+          "iconId": "1100",
+          "name": "豪炎",
+          "description": "行動後ダメージを受け、強化と弱体を無効化する",
+          "subScore": "0",
+          "color": "10485760",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "102",
+          "category": "3",
+          "iconId": "1101",
+          "name": "焦熱",
+          "description": "行動後ダメージを受け、火遁タイプが弱点になる※火遁が無効、半減、軽減の場合は除く",
+          "subScore": "0",
+          "color": "10485760",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "103",
+          "category": "3",
+          "iconId": "1102",
+          "name": "致死毒",
+          "description": "行動後ランダムダメージを受ける",
+          "subScore": "0",
+          "color": "10104574",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "104",
+          "category": "3",
+          "iconId": "1103",
+          "name": "鬼神",
+          "description": "攻撃力・スキルダメージがアップ。敵スキルを受けた際のスキル自体のダメージを減少。状態解除後にHP減少",
+          "subScore": "0",
+          "color": "7602655",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "105",
+          "category": "3",
+          "iconId": "1104",
+          "name": "イザナギ",
+          "description": "特定スキル耐性上昇、敵スキルを受けた際のスキル自体のダメージを減少。攻撃を受けた時HP全回復（不死）",
+          "subScore": "0",
+          "color": "14211288",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "106",
+          "category": "3",
+          "iconId": "1105",
+          "name": "錯乱",
+          "description": "攻撃力・会心率・会心力がアップし、すべての状態を無効化。さらに味方にランダムで通常攻撃をする",
+          "subScore": "0",
+          "color": "14644225",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "107",
+          "category": "3",
+          "iconId": "1106",
+          "name": "点穴",
+          "description": "使用毎にカウントが増加。スキル発動速度が遅くなり、特定スキルのダメージがアップする",
+          "subScore": "0",
+          "color": "16428120",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "108",
+          "category": "3",
+          "iconId": "1110",
+          "name": "回天守護",
+          "description": "仲間への単体スキルを無効化する",
+          "subScore": "0",
+          "color": "14211288",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "109",
+          "category": "3",
+          "iconId": "1111",
+          "name": "吹雪",
+          "description": "行動後にそれぞれ確率で攻撃・防御・素早さがダウンする",
+          "subScore": "0",
+          "color": "11138546",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "110",
+          "category": "3",
+          "iconId": "1112",
+          "name": "奪取",
+          "description": "行動後にHPとチャクラが減少する",
+          "subScore": "0",
+          "color": "10790052",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "111",
+          "category": "3",
+          "iconId": "1113",
+          "name": "団扇",
+          "description": "特定スキル耐性上昇、耐性無視効果を無効化し敵から攻撃を受けた回数に応じてスキルダメージがアップ",
+          "subScore": "0",
+          "color": "14614785",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "112",
+          "category": "3",
+          "iconId": "1114",
+          "name": "拘束",
+          "description": "素早さがダウンし、スキル発動速度が遅くなる",
+          "subScore": "0",
+          "color": "6227124",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "113",
+          "category": "3",
+          "iconId": "1115",
+          "name": "導雷・全",
+          "description": "味方全体に対してのスキルを一度だけ無効化。※単体攻撃と耐性無視攻撃は無効化できない",
+          "subScore": "0",
+          "color": "16776960",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "114",
+          "category": "3",
+          "iconId": "1116",
+          "name": "起爆",
+          "description": "行動するたびにカウントが減少し、起爆状態解除時に敵全体ダメージ",
+          "subScore": "0",
+          "color": "12434877",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "115",
+          "category": "3",
+          "iconId": "1117",
+          "name": "熔",
+          "description": "攻撃力と防御力がダウン、強化と弱体を無効化。行動後にHPが減少",
+          "subScore": "0",
+          "color": "14629377",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "116",
+          "category": "3",
+          "iconId": "1118",
+          "name": "焔",
+          "description": "確率で行動をキャンセル。行動後にHPが減少",
+          "subScore": "0",
+          "color": "14629377",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "117",
+          "category": "3",
+          "iconId": "1119",
+          "name": "風遁特化",
+          "description": "攻撃力・会心力がアップする",
+          "subScore": "0",
+          "color": "3858176",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "118",
+          "category": "3",
+          "iconId": "1120",
+          "name": "蹴撃特化",
+          "description": "素早さ・会心力がアップし、行動後HPが回復する",
+          "subScore": "0",
+          "color": "16744448",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "119",
+          "category": "3",
+          "iconId": "1121",
+          "name": "再生",
+          "description": "HP0でHP全回復。攻撃を受けた際にチャクラ回復。HPが指定回数0で状態解除その際チャクラが0になる",
+          "subScore": "0",
+          "color": "8388479",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "120",
+          "category": "3",
+          "iconId": "1122",
+          "name": "雷遁特化",
+          "description": "攻撃力・会心力がアップする",
+          "subScore": "0",
+          "color": "49151",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "121",
+          "category": "3",
+          "iconId": "1123",
+          "name": "斬撃特化",
+          "description": "素早さ・会心力がアップし、行動後HPが回復する",
+          "subScore": "0",
+          "color": "16744448",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "122",
+          "category": "3",
+          "iconId": "1124",
+          "name": "凶鳴",
+          "description": "使用毎にカウントが増加。スキルダメージがアップ＋特定効果が追加。カウント毎に特定効果は追加される",
+          "subScore": "0",
+          "color": "16774242",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "123",
+          "category": "3",
+          "iconId": "1127",
+          "name": "月封",
+          "description": "行動不能になり、行動後ダメージを受ける",
+          "subScore": "0",
+          "color": "14211288",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "124",
+          "category": "3",
+          "iconId": "1128",
+          "name": "呪印",
+          "description": "行動後スキルダメージと素早さがアップする。状態中は最大HPが半分になる",
+          "subScore": "0",
+          "color": "8339327",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "125",
+          "category": "3",
+          "iconId": "1129",
+          "name": "不死",
+          "description": "HP０になってもHPが全回復する",
+          "subScore": "0",
+          "color": "16711680",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "126",
+          "category": "4",
+          "iconId": "1130",
+          "name": "卯",
+          "description": "行動後ダメージを受けチャクラが減少。弱体・強化・強化系特殊状態を解除し、無効化する",
+          "subScore": "0",
+          "color": "16711680",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "127",
+          "category": "3",
+          "iconId": "1104",
+          "name": "イザナギ",
+          "description": "スキル無効＋受けるスキルダメージダウン＋解除時に自身チャクラ減少＆自身以外の味方HPとチャクラ回復",
+          "subScore": "0",
+          "color": "14211288",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "128",
+          "category": "3",
+          "iconId": "1131",
+          "name": "生放送",
+          "description": "攻撃・防御・素早さ・会心力・会心率・通常攻撃回避率がアップする",
+          "subScore": "0",
+          "color": "3858176",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "129",
+          "category": "3",
+          "iconId": "1132",
+          "name": "絆",
+          "description": "スキルダメージ・スキル発動速度がアップ。絆状態の味方が多いほどチャクラ消費量ダウン",
+          "subScore": "0",
+          "color": "10855845",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "130",
+          "category": "3",
+          "iconId": "1133",
+          "name": "宿命",
+          "description": "スキルダメージ・スキル発動速度がアップ。HPが0以下になると1度だけ耐える。全スキル無効",
+          "subScore": "0",
+          "color": "5921370",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "131",
+          "category": "3",
+          "iconId": "1134",
+          "name": "血命",
+          "description": "素早さ・スキル発動速度がアップ。チャクラ消費ダウン",
+          "subScore": "0",
+          "color": "16711680",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "132",
+          "category": "3",
+          "iconId": "1135",
+          "name": "祝福",
+          "description": "攻撃・防御・素早さ・スキルダメージがアップし、行動後HPとチャクラ回復",
+          "subScore": "0",
+          "color": "16510971",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "133",
+          "category": "3",
+          "iconId": "1136",
+          "name": "閃乱",
+          "description": "使用毎にカウントが増加。スキル発動速度の段階と素早さダウン",
+          "subScore": "0",
+          "color": "15725307",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "134",
+          "category": "3",
+          "iconId": "1139",
+          "name": "霧",
+          "description": "素早さ・スキル回避率がアップ。敵スキルを受けた際のスキル自体のダメージを減少",
+          "subScore": "0",
+          "color": "11138546",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "135",
+          "category": "3",
+          "iconId": "1140",
+          "name": "回天守護・全",
+          "description": "味方全体に対してのスキルを無効化。※単体攻撃と耐性無視攻撃は無効化できない",
+          "subScore": "0",
+          "color": "14211288",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "136",
+          "category": "3",
+          "iconId": "1141",
+          "name": "硬化",
+          "description": "状態異常を解除し無効化。敵スキルを受けた際のスキル自体のダメージを減少。",
+          "subScore": "0",
+          "color": "11042358",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "137",
+          "category": "3",
+          "iconId": "1142",
+          "name": "罵詈",
+          "description": "行動不能になる",
+          "subScore": "0",
+          "color": "8355711",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "138",
+          "category": "3",
+          "iconId": "1143",
+          "name": "ときめき",
+          "description": "使用毎にカウントが増加。攻撃・防御・素早さ・スキルダメージがアップ",
+          "subScore": "0",
+          "color": "16310513",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "139",
+          "category": "4",
+          "iconId": "1146",
+          "name": "希望",
+          "description": "攻撃力と防御力と素早さがアップし弱体と状態異常と幻を解除＆無効化。行動後にHPとチャクラが回復",
+          "subScore": "0",
+          "color": "16428120",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "140",
+          "category": "3",
+          "iconId": "1147",
+          "name": "墨",
+          "description": "使用毎にカウントが増加。特定効果が追加。カウント毎に特定効果は追加される",
+          "subScore": "0",
+          "color": "10790052",
+          "type": "3"
+        }
+      ]
+    }
+  }
+}

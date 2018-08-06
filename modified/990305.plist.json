@@ -1,0 +1,1352 @@
+{
+  "resData": {
+    "990305": {
+      "materialM": [
+        {
+          "materialId": "1",
+          "materialName": "体のチャクラ（小）",
+          "materialRare": "1",
+          "materialImageId": "1"
+        },
+        {
+          "materialId": "2",
+          "materialName": "体のチャクラ（中）",
+          "materialRare": "2",
+          "materialImageId": "2"
+        },
+        {
+          "materialId": "3",
+          "materialName": "体のチャクラ（大）",
+          "materialRare": "3",
+          "materialImageId": "3"
+        },
+        {
+          "materialId": "4",
+          "materialName": "体のチャクラ（特大）",
+          "materialRare": "4",
+          "materialImageId": "4"
+        },
+        {
+          "materialId": "5",
+          "materialName": "体のチャクラ",
+          "materialRare": "5",
+          "materialImageId": "5"
+        },
+        {
+          "materialId": "6",
+          "materialName": "土のチャクラ（小）",
+          "materialRare": "1",
+          "materialImageId": "6"
+        },
+        {
+          "materialId": "7",
+          "materialName": "土のチャクラ（中）",
+          "materialRare": "2",
+          "materialImageId": "7"
+        },
+        {
+          "materialId": "8",
+          "materialName": "土のチャクラ（大）",
+          "materialRare": "3",
+          "materialImageId": "8"
+        },
+        {
+          "materialId": "9",
+          "materialName": "土のチャクラ（特大）",
+          "materialRare": "4",
+          "materialImageId": "9"
+        },
+        {
+          "materialId": "10",
+          "materialName": "土のチャクラ",
+          "materialRare": "5",
+          "materialImageId": "10"
+        },
+        {
+          "materialId": "11",
+          "materialName": "Noneチャクラ（小）",
+          "materialRare": "1",
+          "materialImageId": "1"
+        },
+        {
+          "materialId": "12",
+          "materialName": "Noneチャクラ（中）",
+          "materialRare": "2",
+          "materialImageId": "1"
+        },
+        {
+          "materialId": "13",
+          "materialName": "Noneチャクラ（大）",
+          "materialRare": "3",
+          "materialImageId": "1"
+        },
+        {
+          "materialId": "14",
+          "materialName": "Noneチャクラ（特大）",
+          "materialRare": "4",
+          "materialImageId": "1"
+        },
+        {
+          "materialId": "15",
+          "materialName": "Noneチャクラ",
+          "materialRare": "5",
+          "materialImageId": "1"
+        },
+        {
+          "materialId": "16",
+          "materialName": "呪のチャクラ（小）",
+          "materialRare": "1",
+          "materialImageId": "16"
+        },
+        {
+          "materialId": "17",
+          "materialName": "呪のチャクラ（中）",
+          "materialRare": "2",
+          "materialImageId": "17"
+        },
+        {
+          "materialId": "18",
+          "materialName": "呪のチャクラ（大）",
+          "materialRare": "3",
+          "materialImageId": "18"
+        },
+        {
+          "materialId": "19",
+          "materialName": "呪のチャクラ（特大）",
+          "materialRare": "4",
+          "materialImageId": "19"
+        },
+        {
+          "materialId": "20",
+          "materialName": "呪のチャクラ",
+          "materialRare": "5",
+          "materialImageId": "20"
+        },
+        {
+          "materialId": "21",
+          "materialName": "雷のチャクラ（小）",
+          "materialRare": "1",
+          "materialImageId": "21"
+        },
+        {
+          "materialId": "22",
+          "materialName": "雷のチャクラ（中）",
+          "materialRare": "2",
+          "materialImageId": "22"
+        },
+        {
+          "materialId": "23",
+          "materialName": "雷のチャクラ（大）",
+          "materialRare": "3",
+          "materialImageId": "23"
+        },
+        {
+          "materialId": "24",
+          "materialName": "雷のチャクラ（特大）",
+          "materialRare": "4",
+          "materialImageId": "24"
+        },
+        {
+          "materialId": "25",
+          "materialName": "雷のチャクラ",
+          "materialRare": "5",
+          "materialImageId": "25"
+        },
+        {
+          "materialId": "26",
+          "materialName": "癒のチャクラ（小）",
+          "materialRare": "1",
+          "materialImageId": "26"
+        },
+        {
+          "materialId": "27",
+          "materialName": "癒のチャクラ（中）",
+          "materialRare": "2",
+          "materialImageId": "27"
+        },
+        {
+          "materialId": "28",
+          "materialName": "癒のチャクラ（大）",
+          "materialRare": "3",
+          "materialImageId": "28"
+        },
+        {
+          "materialId": "29",
+          "materialName": "癒のチャクラ（特大）",
+          "materialRare": "4",
+          "materialImageId": "29"
+        },
+        {
+          "materialId": "30",
+          "materialName": "癒のチャクラ",
+          "materialRare": "5",
+          "materialImageId": "30"
+        },
+        {
+          "materialId": "31",
+          "materialName": "水のチャクラ（小）",
+          "materialRare": "1",
+          "materialImageId": "31"
+        },
+        {
+          "materialId": "32",
+          "materialName": "水のチャクラ（中）",
+          "materialRare": "2",
+          "materialImageId": "32"
+        },
+        {
+          "materialId": "33",
+          "materialName": "水のチャクラ（大）",
+          "materialRare": "3",
+          "materialImageId": "33"
+        },
+        {
+          "materialId": "34",
+          "materialName": "水のチャクラ（特大）",
+          "materialRare": "4",
+          "materialImageId": "34"
+        },
+        {
+          "materialId": "35",
+          "materialName": "水のチャクラ",
+          "materialRare": "5",
+          "materialImageId": "35"
+        },
+        {
+          "materialId": "36",
+          "materialName": "火のチャクラ（小）",
+          "materialRare": "1",
+          "materialImageId": "36"
+        },
+        {
+          "materialId": "37",
+          "materialName": "火のチャクラ（中）",
+          "materialRare": "2",
+          "materialImageId": "37"
+        },
+        {
+          "materialId": "38",
+          "materialName": "火のチャクラ（大）",
+          "materialRare": "3",
+          "materialImageId": "38"
+        },
+        {
+          "materialId": "39",
+          "materialName": "火のチャクラ（特大）",
+          "materialRare": "4",
+          "materialImageId": "39"
+        },
+        {
+          "materialId": "40",
+          "materialName": "火のチャクラ",
+          "materialRare": "5",
+          "materialImageId": "40"
+        },
+        {
+          "materialId": "41",
+          "materialName": "幻のチャクラ（小）",
+          "materialRare": "1",
+          "materialImageId": "41"
+        },
+        {
+          "materialId": "42",
+          "materialName": "幻のチャクラ（中）",
+          "materialRare": "2",
+          "materialImageId": "42"
+        },
+        {
+          "materialId": "43",
+          "materialName": "幻のチャクラ（大）",
+          "materialRare": "3",
+          "materialImageId": "43"
+        },
+        {
+          "materialId": "44",
+          "materialName": "幻のチャクラ（特大）",
+          "materialRare": "4",
+          "materialImageId": "44"
+        },
+        {
+          "materialId": "45",
+          "materialName": "幻のチャクラ",
+          "materialRare": "5",
+          "materialImageId": "45"
+        },
+        {
+          "materialId": "46",
+          "materialName": "風のチャクラ（小）",
+          "materialRare": "1",
+          "materialImageId": "46"
+        },
+        {
+          "materialId": "47",
+          "materialName": "風のチャクラ（中）",
+          "materialRare": "2",
+          "materialImageId": "47"
+        },
+        {
+          "materialId": "48",
+          "materialName": "風のチャクラ（大）",
+          "materialRare": "3",
+          "materialImageId": "48"
+        },
+        {
+          "materialId": "49",
+          "materialName": "風のチャクラ（特大）",
+          "materialRare": "4",
+          "materialImageId": "49"
+        },
+        {
+          "materialId": "50",
+          "materialName": "風のチャクラ",
+          "materialRare": "5",
+          "materialImageId": "50"
+        },
+        {
+          "materialId": "51",
+          "materialName": "火石",
+          "materialRare": "1",
+          "materialImageId": "1001"
+        },
+        {
+          "materialId": "52",
+          "materialName": "黒い布",
+          "materialRare": "4",
+          "materialImageId": "52"
+        },
+        {
+          "materialId": "53",
+          "materialName": "赤い布",
+          "materialRare": "4",
+          "materialImageId": "53"
+        },
+        {
+          "materialId": "54",
+          "materialName": "頑丈なレンズ",
+          "materialRare": "4",
+          "materialImageId": "54"
+        },
+        {
+          "materialId": "55",
+          "materialName": "脱着式ベルト",
+          "materialRare": "4",
+          "materialImageId": "55"
+        },
+        {
+          "materialId": "56",
+          "materialName": "橙の札",
+          "materialRare": "4",
+          "materialImageId": "56"
+        },
+        {
+          "materialId": "57",
+          "materialName": "忍情報",
+          "materialRare": "4",
+          "materialImageId": "57"
+        },
+        {
+          "materialId": "58",
+          "materialName": "鮫肌",
+          "materialRare": "4",
+          "materialImageId": "58"
+        },
+        {
+          "materialId": "59",
+          "materialName": "鮫肌の柄",
+          "materialRare": "4",
+          "materialImageId": "59"
+        },
+        {
+          "materialId": "60",
+          "materialName": "超希少鉱石",
+          "materialRare": "4",
+          "materialImageId": "60"
+        },
+        {
+          "materialId": "61",
+          "materialName": "黒い紐",
+          "materialRare": "4",
+          "materialImageId": "61"
+        },
+        {
+          "materialId": "62",
+          "materialName": "白の指輪",
+          "materialRare": "4",
+          "materialImageId": "62"
+        },
+        {
+          "materialId": "63",
+          "materialName": "零の刻印",
+          "materialRare": "4",
+          "materialImageId": "63"
+        },
+        {
+          "materialId": "64",
+          "materialName": "ヒルコの甲羅",
+          "materialRare": "4",
+          "materialImageId": "64"
+        },
+        {
+          "materialId": "65",
+          "materialName": "ヒルコの腕",
+          "materialRare": "4",
+          "materialImageId": "65"
+        },
+        {
+          "materialId": "66",
+          "materialName": "忍刀",
+          "materialRare": "1",
+          "materialImageId": "66"
+        },
+        {
+          "materialId": "67",
+          "materialName": "クナイ",
+          "materialRare": "1",
+          "materialImageId": "67"
+        },
+        {
+          "materialId": "68",
+          "materialName": "額あて",
+          "materialRare": "1",
+          "materialImageId": "68"
+        },
+        {
+          "materialId": "69",
+          "materialName": "手甲",
+          "materialRare": "1",
+          "materialImageId": "69"
+        },
+        {
+          "materialId": "70",
+          "materialName": "火薬",
+          "materialRare": "1",
+          "materialImageId": "70"
+        },
+        {
+          "materialId": "71",
+          "materialName": "上級火薬",
+          "materialRare": "2",
+          "materialImageId": "71"
+        },
+        {
+          "materialId": "72",
+          "materialName": "上級忍刀",
+          "materialRare": "2",
+          "materialImageId": "72"
+        },
+        {
+          "materialId": "73",
+          "materialName": "上級クナイ",
+          "materialRare": "2",
+          "materialImageId": "73"
+        },
+        {
+          "materialId": "74",
+          "materialName": "上級額あて",
+          "materialRare": "2",
+          "materialImageId": "74"
+        },
+        {
+          "materialId": "75",
+          "materialName": "ベスト",
+          "materialRare": "1",
+          "materialImageId": "75"
+        },
+        {
+          "materialId": "76",
+          "materialName": "上級ベスト",
+          "materialRare": "2",
+          "materialImageId": "76"
+        },
+        {
+          "materialId": "77",
+          "materialName": "護符",
+          "materialRare": "1",
+          "materialImageId": "77"
+        },
+        {
+          "materialId": "78",
+          "materialName": "上級護符",
+          "materialRare": "2",
+          "materialImageId": "78"
+        },
+        {
+          "materialId": "79",
+          "materialName": "手裏剣",
+          "materialRare": "1",
+          "materialImageId": "79"
+        },
+        {
+          "materialId": "80",
+          "materialName": "上級手裏剣",
+          "materialRare": "2",
+          "materialImageId": "80"
+        },
+        {
+          "materialId": "81",
+          "materialName": "鎖鎌",
+          "materialRare": "1",
+          "materialImageId": "81"
+        },
+        {
+          "materialId": "82",
+          "materialName": "上級鎖鎌",
+          "materialRare": "2",
+          "materialImageId": "82"
+        },
+        {
+          "materialId": "83",
+          "materialName": "はちまき",
+          "materialRare": "1",
+          "materialImageId": "83"
+        },
+        {
+          "materialId": "84",
+          "materialName": "上級はちまき",
+          "materialRare": "2",
+          "materialImageId": "84"
+        },
+        {
+          "materialId": "85",
+          "materialName": "足袋",
+          "materialRare": "1",
+          "materialImageId": "85"
+        },
+        {
+          "materialId": "86",
+          "materialName": "上級足袋",
+          "materialRare": "2",
+          "materialImageId": "86"
+        },
+        {
+          "materialId": "87",
+          "materialName": "かたびら",
+          "materialRare": "1",
+          "materialImageId": "87"
+        },
+        {
+          "materialId": "88",
+          "materialName": "上級かたびら",
+          "materialRare": "2",
+          "materialImageId": "88"
+        },
+        {
+          "materialId": "89",
+          "materialName": "上級手甲",
+          "materialRare": "2",
+          "materialImageId": "89"
+        },
+        {
+          "materialId": "90",
+          "materialName": "丸薬",
+          "materialRare": "1",
+          "materialImageId": "90"
+        },
+        {
+          "materialId": "91",
+          "materialName": "古びた本",
+          "materialRare": "3",
+          "materialImageId": "91"
+        },
+        {
+          "materialId": "92",
+          "materialName": "トラックスーツ",
+          "materialRare": "3",
+          "materialImageId": "92"
+        },
+        {
+          "materialId": "93",
+          "materialName": "カエルスーツ",
+          "materialRare": "3",
+          "materialImageId": "93"
+        },
+        {
+          "materialId": "94",
+          "materialName": "古びた剣",
+          "materialRare": "3",
+          "materialImageId": "94"
+        },
+        {
+          "materialId": "95",
+          "materialName": "白の鉢巻き",
+          "materialRare": "3",
+          "materialImageId": "84"
+        },
+        {
+          "materialId": "96",
+          "materialName": "砂の足袋",
+          "materialRare": "3",
+          "materialImageId": "86"
+        },
+        {
+          "materialId": "97",
+          "materialName": "丸薬のもと",
+          "materialRare": "3",
+          "materialImageId": "97"
+        },
+        {
+          "materialId": "98",
+          "materialName": "傘の骨",
+          "materialRare": "3",
+          "materialImageId": "98"
+        },
+        {
+          "materialId": "99",
+          "materialName": "サンオイル",
+          "materialRare": "3",
+          "materialImageId": "99"
+        },
+        {
+          "materialId": "100",
+          "materialName": "木ノ葉の額あて",
+          "materialRare": "3",
+          "materialImageId": "100"
+        },
+        {
+          "materialId": "101",
+          "materialName": "黒いマント",
+          "materialRare": "3",
+          "materialImageId": "101"
+        },
+        {
+          "materialId": "102",
+          "materialName": "解毒薬",
+          "materialRare": "3",
+          "materialImageId": "102"
+        },
+        {
+          "materialId": "103",
+          "materialName": "軟膏",
+          "materialRare": "2",
+          "materialImageId": "103"
+        },
+        {
+          "materialId": "105",
+          "materialName": "包帯",
+          "materialRare": "2",
+          "materialImageId": "105"
+        },
+        {
+          "materialId": "107",
+          "materialName": "胴衣",
+          "materialRare": "2",
+          "materialImageId": "107"
+        },
+        {
+          "materialId": "109",
+          "materialName": "寸鉄",
+          "materialRare": "2",
+          "materialImageId": "109"
+        },
+        {
+          "materialId": "111",
+          "materialName": "特級忍刀",
+          "materialRare": "3",
+          "materialImageId": "111"
+        },
+        {
+          "materialId": "112",
+          "materialName": "特級クナイ",
+          "materialRare": "3",
+          "materialImageId": "112"
+        },
+        {
+          "materialId": "113",
+          "materialName": "特級額あて",
+          "materialRare": "3",
+          "materialImageId": "113"
+        },
+        {
+          "materialId": "114",
+          "materialName": "毛筆",
+          "materialRare": "3",
+          "materialImageId": "114"
+        },
+        {
+          "materialId": "115",
+          "materialName": "変形クナイ",
+          "materialRare": "4",
+          "materialImageId": "115"
+        },
+        {
+          "materialId": "116",
+          "materialName": "術式札",
+          "materialRare": "4",
+          "materialImageId": "116"
+        },
+        {
+          "materialId": "117",
+          "materialName": "大鎌の刃",
+          "materialRare": "4",
+          "materialImageId": "117"
+        },
+        {
+          "materialId": "118",
+          "materialName": "大鎌の柄",
+          "materialRare": "4",
+          "materialImageId": "118"
+        },
+        {
+          "materialId": "119",
+          "materialName": "お面",
+          "materialRare": "4",
+          "materialImageId": "119"
+        },
+        {
+          "materialId": "120",
+          "materialName": "赤い絵筆",
+          "materialRare": "4",
+          "materialImageId": "120"
+        },
+        {
+          "materialId": "121",
+          "materialName": "折れた首切り包丁",
+          "materialRare": "4",
+          "materialImageId": "121"
+        },
+        {
+          "materialId": "122",
+          "materialName": "首切り包丁の柄",
+          "materialRare": "4",
+          "materialImageId": "122"
+        },
+        {
+          "materialId": "123",
+          "materialName": "千鳥刀の刃",
+          "materialRare": "4",
+          "materialImageId": "123"
+        },
+        {
+          "materialId": "124",
+          "materialName": "千鳥刀の柄",
+          "materialRare": "4",
+          "materialImageId": "124"
+        },
+        {
+          "materialId": "125",
+          "materialName": "狐面",
+          "materialRare": "4",
+          "materialImageId": "125"
+        },
+        {
+          "materialId": "126",
+          "materialName": "黒い毛筆",
+          "materialRare": "4",
+          "materialImageId": "126"
+        },
+        {
+          "materialId": "127",
+          "materialName": "木ノ葉の額金",
+          "materialRare": "4",
+          "materialImageId": "127"
+        },
+        {
+          "materialId": "128",
+          "materialName": "特注兜",
+          "materialRare": "4",
+          "materialImageId": "128"
+        },
+        {
+          "materialId": "129",
+          "materialName": "粘金の矢",
+          "materialRare": "4",
+          "materialImageId": "129"
+        },
+        {
+          "materialId": "130",
+          "materialName": "粘金の弓",
+          "materialRare": "4",
+          "materialImageId": "130"
+        },
+        {
+          "materialId": "131",
+          "materialName": "緑の笠",
+          "materialRare": "4",
+          "materialImageId": "131"
+        },
+        {
+          "materialId": "132",
+          "materialName": "風の印",
+          "materialRare": "4",
+          "materialImageId": "132"
+        },
+        {
+          "materialId": "133",
+          "materialName": "尖った鉢がね",
+          "materialRare": "4",
+          "materialImageId": "133"
+        },
+        {
+          "materialId": "134",
+          "materialName": "赤い巻き布",
+          "materialRare": "4",
+          "materialImageId": "134"
+        },
+        {
+          "materialId": "135",
+          "materialName": "朱の巻物",
+          "materialRare": "4",
+          "materialImageId": "135"
+        },
+        {
+          "materialId": "136",
+          "materialName": "神秘の和紙",
+          "materialRare": "4",
+          "materialImageId": "136"
+        },
+        {
+          "materialId": "137",
+          "materialName": "傷んだ指輪",
+          "materialRare": "4",
+          "materialImageId": "137"
+        },
+        {
+          "materialId": "138",
+          "materialName": "傷んだ冊子",
+          "materialRare": "4",
+          "materialImageId": "138"
+        },
+        {
+          "materialId": "139",
+          "materialName": "蝦蟇のもと",
+          "materialRare": "4",
+          "materialImageId": "139"
+        },
+        {
+          "materialId": "140",
+          "materialName": "蟒蛇のもと",
+          "materialRare": "4",
+          "materialImageId": "140"
+        },
+        {
+          "materialId": "141",
+          "materialName": "蛞蝓のもと",
+          "materialRare": "4",
+          "materialImageId": "141"
+        },
+        {
+          "materialId": "142",
+          "materialName": "忍犬のもと",
+          "materialRare": "4",
+          "materialImageId": "142"
+        },
+        {
+          "materialId": "143",
+          "materialName": "根付の紐（黄）",
+          "materialRare": "4",
+          "materialImageId": "143"
+        },
+        {
+          "materialId": "144",
+          "materialName": "根付の紐（青）",
+          "materialRare": "4",
+          "materialImageId": "144"
+        },
+        {
+          "materialId": "145",
+          "materialName": "根付の紐（赤）",
+          "materialRare": "4",
+          "materialImageId": "145"
+        },
+        {
+          "materialId": "146",
+          "materialName": "根付の紐（白）",
+          "materialRare": "4",
+          "materialImageId": "146"
+        },
+        {
+          "materialId": "148",
+          "materialName": "丈夫な黒い紐",
+          "materialRare": "4",
+          "materialImageId": "148"
+        },
+        {
+          "materialId": "149",
+          "materialName": "自来也の鉢がね",
+          "materialRare": "4",
+          "materialImageId": "149"
+        },
+        {
+          "materialId": "150",
+          "materialName": "古びた巻き布",
+          "materialRare": "4",
+          "materialImageId": "150"
+        },
+        {
+          "materialId": "151",
+          "materialName": "スコープのレンズ",
+          "materialRare": "4",
+          "materialImageId": "151"
+        },
+        {
+          "materialId": "152",
+          "materialName": "スコープのフレーム",
+          "materialRare": "4",
+          "materialImageId": "152"
+        },
+        {
+          "materialId": "153",
+          "materialName": "特別な砂",
+          "materialRare": "4",
+          "materialImageId": "153"
+        },
+        {
+          "materialId": "154",
+          "materialName": "留め紐",
+          "materialRare": "4",
+          "materialImageId": "154"
+        },
+        {
+          "materialId": "155",
+          "materialName": "朱の刻印",
+          "materialRare": "4",
+          "materialImageId": "155"
+        },
+        {
+          "materialId": "156",
+          "materialName": "丈夫な鎖",
+          "materialRare": "4",
+          "materialImageId": "156"
+        },
+        {
+          "materialId": "157",
+          "materialName": "ヌンチャクの棒",
+          "materialRare": "4",
+          "materialImageId": "157"
+        },
+        {
+          "materialId": "158",
+          "materialName": "古びたメモ帳",
+          "materialRare": "4",
+          "materialImageId": "158"
+        },
+        {
+          "materialId": "159",
+          "materialName": "漆黒の布",
+          "materialRare": "4",
+          "materialImageId": "159"
+        },
+        {
+          "materialId": "160",
+          "materialName": "頑丈な鉄",
+          "materialRare": "4",
+          "materialImageId": "160"
+        },
+        {
+          "materialId": "161",
+          "materialName": "古の剣",
+          "materialRare": "4",
+          "materialImageId": "161"
+        },
+        {
+          "materialId": "162",
+          "materialName": "上級砂の足袋",
+          "materialRare": "4",
+          "materialImageId": "162"
+        },
+        {
+          "materialId": "163",
+          "materialName": "玉の刻印",
+          "materialRare": "4",
+          "materialImageId": "163"
+        },
+        {
+          "materialId": "164",
+          "materialName": "傀儡の腕",
+          "materialRare": "4",
+          "materialImageId": "164"
+        },
+        {
+          "materialId": "165",
+          "materialName": "傀儡の本体",
+          "materialRare": "4",
+          "materialImageId": "165"
+        },
+        {
+          "materialId": "166",
+          "materialName": "チャクラ刀",
+          "materialRare": "4",
+          "materialImageId": "166"
+        },
+        {
+          "materialId": "167",
+          "materialName": "髪留め",
+          "materialRare": "4",
+          "materialImageId": "167"
+        },
+        {
+          "materialId": "168",
+          "materialName": "大きな胸当て",
+          "materialRare": "4",
+          "materialImageId": "168"
+        },
+        {
+          "materialId": "169",
+          "materialName": "もち米",
+          "materialRare": "4",
+          "materialImageId": "169"
+        },
+        {
+          "materialId": "170",
+          "materialName": "あんこ",
+          "materialRare": "4",
+          "materialImageId": "170"
+        },
+        {
+          "materialId": "171",
+          "materialName": "きなこ",
+          "materialRare": "4",
+          "materialImageId": "171"
+        },
+        {
+          "materialId": "172",
+          "materialName": "のり",
+          "materialRare": "4",
+          "materialImageId": "172"
+        },
+        {
+          "materialId": "173",
+          "materialName": "たまご",
+          "materialRare": "4",
+          "materialImageId": "173"
+        },
+        {
+          "materialId": "174",
+          "materialName": "板チョコ",
+          "materialRare": "4",
+          "materialImageId": "174"
+        },
+        {
+          "materialId": "175",
+          "materialName": "生クリーム",
+          "materialRare": "4",
+          "materialImageId": "175"
+        },
+        {
+          "materialId": "176",
+          "materialName": "いちご",
+          "materialRare": "4",
+          "materialImageId": "176"
+        },
+        {
+          "materialId": "177",
+          "materialName": "お米",
+          "materialRare": "4",
+          "materialImageId": "177"
+        },
+        {
+          "materialId": "178",
+          "materialName": "こんぶ",
+          "materialRare": "4",
+          "materialImageId": "178"
+        },
+        {
+          "materialId": "179",
+          "materialName": "梅",
+          "materialRare": "4",
+          "materialImageId": "179"
+        },
+        {
+          "materialId": "180",
+          "materialName": "塩",
+          "materialRare": "4",
+          "materialImageId": "180"
+        },
+        {
+          "materialId": "181",
+          "materialName": "鮭",
+          "materialRare": "4",
+          "materialImageId": "181"
+        },
+        {
+          "materialId": "182",
+          "materialName": "おかか",
+          "materialRare": "4",
+          "materialImageId": "182"
+        },
+        {
+          "materialId": "183",
+          "materialName": "意志の欠片(火)",
+          "materialRare": "4",
+          "materialImageId": "183"
+        },
+        {
+          "materialId": "184",
+          "materialName": "意志の欠片(風)",
+          "materialRare": "4",
+          "materialImageId": "184"
+        },
+        {
+          "materialId": "185",
+          "materialName": "意志の欠片(土)",
+          "materialRare": "4",
+          "materialImageId": "185"
+        },
+        {
+          "materialId": "186",
+          "materialName": "意志の欠片(雷)",
+          "materialRare": "4",
+          "materialImageId": "186"
+        },
+        {
+          "materialId": "187",
+          "materialName": "意志の欠片(水)",
+          "materialRare": "4",
+          "materialImageId": "187"
+        },
+        {
+          "materialId": "188",
+          "materialName": "零の雲",
+          "materialRare": "4",
+          "materialImageId": "188"
+        },
+        {
+          "materialId": "189",
+          "materialName": "三の雲",
+          "materialRare": "4",
+          "materialImageId": "189"
+        },
+        {
+          "materialId": "190",
+          "materialName": "朱の雲",
+          "materialRare": "4",
+          "materialImageId": "190"
+        },
+        {
+          "materialId": "191",
+          "materialName": "南の雲",
+          "materialRare": "4",
+          "materialImageId": "191"
+        },
+        {
+          "materialId": "192",
+          "materialName": "陸のエネルギー",
+          "materialRare": "4",
+          "materialImageId": "192"
+        },
+        {
+          "materialId": "193",
+          "materialName": "空のエネルギー",
+          "materialRare": "4",
+          "materialImageId": "193"
+        },
+        {
+          "materialId": "194",
+          "materialName": "海のエネルギー",
+          "materialRare": "4",
+          "materialImageId": "194"
+        },
+        {
+          "materialId": "195",
+          "materialName": "鉄棒",
+          "materialRare": "4",
+          "materialImageId": "195"
+        },
+        {
+          "materialId": "196",
+          "materialName": "玉の雲",
+          "materialRare": "4",
+          "materialImageId": "196"
+        },
+        {
+          "materialId": "197",
+          "materialName": "青の雲",
+          "materialRare": "4",
+          "materialImageId": "197"
+        },
+        {
+          "materialId": "198",
+          "materialName": "白の布",
+          "materialRare": "4",
+          "materialImageId": "198"
+        },
+        {
+          "materialId": "200",
+          "materialName": "黒色の布",
+          "materialRare": "4",
+          "materialImageId": "52"
+        },
+        {
+          "materialId": "201",
+          "materialName": "無刻の勲章",
+          "materialRare": "4",
+          "materialImageId": "201"
+        },
+        {
+          "materialId": "306",
+          "materialName": "???",
+          "materialRare": "4",
+          "materialImageId": "187"
+        },
+        {
+          "materialId": "602",
+          "materialName": "???",
+          "materialRare": "4",
+          "materialImageId": "187"
+        },
+        {
+          "materialId": "603",
+          "materialName": "???",
+          "materialRare": "4",
+          "materialImageId": "187"
+        },
+        {
+          "materialId": "604",
+          "materialName": "???",
+          "materialRare": "4",
+          "materialImageId": "187"
+        },
+        {
+          "materialId": "605",
+          "materialName": "???",
+          "materialRare": "4",
+          "materialImageId": "187"
+        },
+        {
+          "materialId": "606",
+          "materialName": "???",
+          "materialRare": "4",
+          "materialImageId": "187"
+        },
+        {
+          "materialId": "630",
+          "materialName": "???",
+          "materialRare": "4",
+          "materialImageId": "187"
+        },
+        {
+          "materialId": "631",
+          "materialName": "???",
+          "materialRare": "4",
+          "materialImageId": "187"
+        },
+        {
+          "materialId": "632",
+          "materialName": "???",
+          "materialRare": "4",
+          "materialImageId": "187"
+        },
+        {
+          "materialId": "633",
+          "materialName": "???",
+          "materialRare": "4",
+          "materialImageId": "187"
+        },
+        {
+          "materialId": "634",
+          "materialName": "???",
+          "materialRare": "4",
+          "materialImageId": "187"
+        },
+        {
+          "materialId": "635",
+          "materialName": "???",
+          "materialRare": "4",
+          "materialImageId": "187"
+        },
+        {
+          "materialId": "637",
+          "materialName": "???",
+          "materialRare": "4",
+          "materialImageId": "187"
+        },
+        {
+          "materialId": "669",
+          "materialName": "???",
+          "materialRare": "4",
+          "materialImageId": "187"
+        },
+        {
+          "materialId": "671",
+          "materialName": "???",
+          "materialRare": "4",
+          "materialImageId": "187"
+        },
+        {
+          "materialId": "676",
+          "materialName": "???",
+          "materialRare": "4",
+          "materialImageId": "187"
+        },
+        {
+          "materialId": "677",
+          "materialName": "???",
+          "materialRare": "4",
+          "materialImageId": "187"
+        },
+        {
+          "materialId": "678",
+          "materialName": "???",
+          "materialRare": "4",
+          "materialImageId": "187"
+        },
+        {
+          "materialId": "679",
+          "materialName": "???",
+          "materialRare": "4",
+          "materialImageId": "187"
+        },
+        {
+          "materialId": "717",
+          "materialName": "???",
+          "materialRare": "4",
+          "materialImageId": "187"
+        },
+        {
+          "materialId": "718",
+          "materialName": "???",
+          "materialRare": "4",
+          "materialImageId": "187"
+        },
+        {
+          "materialId": "764",
+          "materialName": "???",
+          "materialRare": "4",
+          "materialImageId": "187"
+        },
+        {
+          "materialId": "766",
+          "materialName": "???",
+          "materialRare": "4",
+          "materialImageId": "187"
+        },
+        {
+          "materialId": "767",
+          "materialName": "???",
+          "materialRare": "4",
+          "materialImageId": "187"
+        },
+        {
+          "materialId": "769",
+          "materialName": "???",
+          "materialRare": "4",
+          "materialImageId": "187"
+        },
+        {
+          "materialId": "770",
+          "materialName": "???",
+          "materialRare": "4",
+          "materialImageId": "187"
+        },
+        {
+          "materialId": "788",
+          "materialName": "???",
+          "materialRare": "4",
+          "materialImageId": "187"
+        },
+        {
+          "materialId": "856",
+          "materialName": "???",
+          "materialRare": "4",
+          "materialImageId": "187"
+        },
+        {
+          "materialId": "9999",
+          "materialName": "素材無し",
+          "materialRare": "4",
+          "materialImageId": "9999"
+        }
+      ]
+    }
+  }
+}

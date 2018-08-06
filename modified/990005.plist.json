@@ -1,0 +1,478 @@
+{
+  "resData": {
+    "990005": {
+      "battleFieldEffectM": [
+        {
+          "battleFieldEffectId": "1",
+          "name": "溶岩地帯",
+          "category": "1",
+          "scriptId": "1",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "",
+          "enemyEffects": "100000,"
+        },
+        {
+          "battleFieldEffectId": "2",
+          "name": "重力場",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "2",
+          "partyEffects": "100101,",
+          "enemyEffects": "100101,"
+        },
+        {
+          "battleFieldEffectId": "9",
+          "name": "チャクラ回復力減少地帯",
+          "category": "1",
+          "scriptId": "1",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "",
+          "enemyEffects": "90000,"
+        },
+        {
+          "battleFieldEffectId": "10",
+          "name": "決戦場",
+          "category": "1",
+          "scriptId": "1",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "298,11059,",
+          "enemyEffects": "357,"
+        },
+        {
+          "battleFieldEffectId": "11",
+          "name": "闘技場",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "3",
+          "partyEffects": "481,",
+          "enemyEffects": "357,"
+        },
+        {
+          "battleFieldEffectId": "12",
+          "name": "大激闘効果",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": null,
+          "enemyEffects": "300004,"
+        },
+        {
+          "battleFieldEffectId": "13",
+          "name": "大激闘効果",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "513,",
+          "enemyEffects": "324,"
+        },
+        {
+          "battleFieldEffectId": "14",
+          "name": "大激闘効果",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "1344,",
+          "enemyEffects": "300004,"
+        },
+        {
+          "battleFieldEffectId": "15",
+          "name": "大激闘効果",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "1345,",
+          "enemyEffects": "252,"
+        },
+        {
+          "battleFieldEffectId": "16",
+          "name": "大激闘効果",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": null,
+          "enemyEffects": "475,324,"
+        },
+        {
+          "battleFieldEffectId": "17",
+          "name": "大激闘効果",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "513,",
+          "enemyEffects": "1339,50005,"
+        },
+        {
+          "battleFieldEffectId": "18",
+          "name": "大激闘効果",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "11049,",
+          "enemyEffects": "252,"
+        },
+        {
+          "battleFieldEffectId": "19",
+          "name": "大激闘効果",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "1344,",
+          "enemyEffects": "324,"
+        },
+        {
+          "battleFieldEffectId": "20",
+          "name": "大激闘効果",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "12099,",
+          "enemyEffects": null
+        },
+        {
+          "battleFieldEffectId": "21",
+          "name": "夏だ！海だ！効果",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "727,",
+          "enemyEffects": null
+        },
+        {
+          "battleFieldEffectId": "22",
+          "name": "五影試練（水）",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": null,
+          "enemyEffects": "530,"
+        },
+        {
+          "battleFieldEffectId": "23",
+          "name": "五影試練（雷）",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "798,",
+          "enemyEffects": null
+        },
+        {
+          "battleFieldEffectId": "24",
+          "name": "五影試練(土)",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "513,",
+          "enemyEffects": null
+        },
+        {
+          "battleFieldEffectId": "25",
+          "name": "五影試練(風)",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "109,",
+          "enemyEffects": "300011,"
+        },
+        {
+          "battleFieldEffectId": "26",
+          "name": "五影試練(火)",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "11099,252,930,",
+          "enemyEffects": "11099,252,"
+        },
+        {
+          "battleFieldEffectId": "27",
+          "name": "大激闘効果",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "11049,13049,",
+          "enemyEffects": null
+        },
+        {
+          "battleFieldEffectId": "28",
+          "name": "大激闘効果",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "11099,13099,",
+          "enemyEffects": null
+        },
+        {
+          "battleFieldEffectId": "29",
+          "name": "\"暁”の脅威　神と天使",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "1390,",
+          "enemyEffects": "1492,"
+        },
+        {
+          "battleFieldEffectId": "30",
+          "name": "\"暁”の脅威　不死",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "727,",
+          "enemyEffects": "1413,"
+        },
+        {
+          "battleFieldEffectId": "31",
+          "name": "大激闘効果",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "727,",
+          "enemyEffects": "931,"
+        },
+        {
+          "battleFieldEffectId": "32",
+          "name": "四紫炎陣",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "9",
+          "partyEffects": "28,22005,",
+          "enemyEffects": "173,"
+        },
+        {
+          "battleFieldEffectId": "33",
+          "name": "大激闘効果",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "513,",
+          "enemyEffects": "931,"
+        },
+        {
+          "battleFieldEffectId": "34",
+          "name": "大激闘効果",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "11099,12108,513,",
+          "enemyEffects": "11099,12108,513,"
+        },
+        {
+          "battleFieldEffectId": "35",
+          "name": "ダメージランキング",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "50001,",
+          "enemyEffects": null
+        },
+        {
+          "battleFieldEffectId": "36",
+          "name": "\"暁”の脅威　同胞殺し",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "727,",
+          "enemyEffects": "1492,"
+        },
+        {
+          "battleFieldEffectId": "37",
+          "name": "大激闘効果",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "513,11099,",
+          "enemyEffects": "513,300011,"
+        },
+        {
+          "battleFieldEffectId": "38",
+          "name": "おためし任務効果",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "50001,",
+          "enemyEffects": "300100,"
+        },
+        {
+          "battleFieldEffectId": "39",
+          "name": "\"暁”の脅威　芸術コンビ",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "727,",
+          "enemyEffects": "1308,21100,"
+        },
+        {
+          "battleFieldEffectId": "40",
+          "name": "大激闘効果",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "513,11099,",
+          "enemyEffects": "513,21100,"
+        },
+        {
+          "battleFieldEffectId": "41",
+          "name": "お前はどこまで見えている-後半-",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "1766,",
+          "enemyEffects": "1765,"
+        },
+        {
+          "battleFieldEffectId": "42",
+          "name": "-和解の印-前篇 チャレンジ１",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "1766,",
+          "enemyEffects": "300004,"
+        },
+        {
+          "battleFieldEffectId": "43",
+          "name": "-和解の印-前篇 チャレンジ2",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": null,
+          "enemyEffects": "1082,21100,"
+        },
+        {
+          "battleFieldEffectId": "44",
+          "name": "-和解の印-前篇 チャレンジ3",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "1285,1510,",
+          "enemyEffects": "1784,"
+        },
+        {
+          "battleFieldEffectId": "45",
+          "name": "-和解の印-後篇 1～3話",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "50001,",
+          "enemyEffects": "50001,"
+        },
+        {
+          "battleFieldEffectId": "46",
+          "name": "-和解の印-後篇 最終話",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "12117,",
+          "enemyEffects": null
+        },
+        {
+          "battleFieldEffectId": "47",
+          "name": "大激闘効果",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "13049,",
+          "enemyEffects": "300011,"
+        },
+        {
+          "battleFieldEffectId": "48",
+          "name": "大激闘効果",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "723,",
+          "enemyEffects": "1782,"
+        },
+        {
+          "battleFieldEffectId": "49",
+          "name": "大激闘効果",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "300012,",
+          "enemyEffects": "1339,"
+        },
+        {
+          "battleFieldEffectId": "50",
+          "name": "超速決戦！十尾の人柱力",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "723,1831,1814,",
+          "enemyEffects": null
+        },
+        {
+          "battleFieldEffectId": "51",
+          "name": "歴影の黙示",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "1832,1549,1814,",
+          "enemyEffects": null
+        },
+        {
+          "battleFieldEffectId": "52",
+          "name": "デイダラ　地雷",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": null,
+          "enemyEffects": "1398,1837,"
+        },
+        {
+          "battleFieldEffectId": "53",
+          "name": "領域効果",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "300012,1510,",
+          "enemyEffects": null
+        }
+      ]
+    }
+  }
+}

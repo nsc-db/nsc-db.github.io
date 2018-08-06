@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>990107</key>
+        <string>{"resData":{"990107":{"cardRunSkillM":[{"cardRunSkillId":"3","name":"\u87ba\u65cb\u4e38","description":"\u3010\u7a81\u9032\u7cfb\u3011\u7a81\u9032\u3057\u306a\u304c\u3089\u6575\u3092\u5dfb\u304d\u8fbc\u3080\u87ba\u65cb\u4e38\u3092\u653e\u3064\u3002","scriptId":"10000","runSkillCnt":"2","runSkillType":"1"}]}}}</string>
+    </dict>
+</plist>
