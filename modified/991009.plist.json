@@ -1373,6 +1373,11 @@
           "itemImgId": "281"
         },
         {
+          "shopExchangeItemId": "282",
+          "itemName": "収集Pt",
+          "itemImgId": "22"
+        },
+        {
           "shopExchangeItemId": "1001",
           "itemName": "下心Pt",
           "itemImgId": "166"
@@ -1446,6 +1451,11 @@
           "shopExchangeItemId": "1015",
           "itemName": "ビーチフラッグ",
           "itemImgId": "49"
+        },
+        {
+          "shopExchangeItemId": "1016",
+          "itemName": "収集Pt",
+          "itemImgId": "22"
         },
         {
           "shopExchangeItemId": "2000",

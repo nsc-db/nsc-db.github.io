@@ -17454,6 +17454,42 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "1977",
+          "abilityName": "開眼せし第三の瞳",
+          "abilityDescription": "班の無所属のキャラ1体につき素早さが25%アップ（自身含む）",
+          "abilityEffectDescription": "班の無所属のキャラ1体につき素早さが25%アップ（自身含む）",
+          "effectIdx1": "1570",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1978",
+          "abilityName": "修得せし仙力",
+          "abilityDescription": "2回行動するまでスキル発動速度2段階アップ",
+          "abilityEffectDescription": "2回行動するまでスキル発動速度2段階アップ",
+          "effectIdx1": "1645",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1979",
+          "abilityName": "チャクラを見る瞳",
+          "abilityDescription": "班の無所属のキャラ1体につき素早さが25%アップ（自身含む）",
+          "abilityEffectDescription": "班の無所属のキャラ1体につき素早さが25%アップ（自身含む）",
+          "effectIdx1": "1570",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1980",
+          "abilityName": "洗練されし体術",
+          "abilityDescription": "最大チャクラ量が50アップし、行動後にチャクラが30％回復",
+          "abilityEffectDescription": "最大チャクラ量が50アップし、行動後にチャクラが30％回復",
+          "effectIdx1": "689",
+          "effectIdx2": "820",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

@@ -1401,6 +1401,16 @@
           "subScore": "0",
           "color": "10790052",
           "type": "3"
+        },
+        {
+          "cardUnusualId": "142",
+          "category": "3",
+          "iconId": "1153",
+          "name": "月輪",
+          "description": "全スキルダメージを半減、ダメージを受けた時にHPとチャクラを回復する",
+          "subScore": "0",
+          "color": "16112257",
+          "type": "2"
         }
       ]
     }

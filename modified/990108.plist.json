@@ -9987,6 +9987,32 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "776",
+          "name": "悲哀の狭間を貫く雷拳",
+          "description": "無所属のキャラが行動後にHPとチャクラが20%回復する",
+          "effectIdx1": "628",
+          "effectIdx2": "583",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "99",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "777",
+          "name": "糸引かれし意志なき力",
+          "description": "無所属の最大HPとスキルダメージを70%アップする",
+          "effectIdx1": "10069",
+          "effectIdx2": "652",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "99",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",
