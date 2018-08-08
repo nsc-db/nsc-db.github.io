@@ -3223,6 +3223,20 @@
           "gender": "1"
         },
         {
+          "charaProfileId": "51601",
+          "charaId": "516",
+          "name": "アヤメ",
+          "detail": null,
+          "charaLoveAffinityGroupId": "51610",
+          "birthday": "217",
+          "constellation": "11",
+          "height": "0",
+          "weight": "0",
+          "bloodType": "0",
+          "age": "0",
+          "gender": "2"
+        },
+        {
           "charaProfileId": "100101",
           "charaId": "0",
           "name": "体のガマ",

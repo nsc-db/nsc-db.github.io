@@ -15169,6 +15169,22 @@
           "crystalImageId": "108125",
           "recipeId": "10812",
           "recipeName": "母カグヤの呪詛"
+        },
+        {
+          "crystalId": "10831",
+          "crystalType": "3",
+          "crystalRare": "5",
+          "effectIdx1": "10606",
+          "effectIdx2": "1868",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "テウチの挑戦状",
+          "crystalDescription": "最大HP81000アップ、行動後にHP8100回復",
+          "crystalImageId": "8995",
+          "recipeId": "10831",
+          "recipeName": "テウチの挑戦状"
         }
       ]
     }
