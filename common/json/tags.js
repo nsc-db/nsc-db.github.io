@@ -927,7 +927,7 @@ window.tags=[
           "cardId": "20001519",
           "rare": "5",
           "tag": "ex-5",
-          "rate": "68"
+          "rate": "52"
 },
 {
           "cardId": "20001520",
@@ -1023,7 +1023,7 @@ window.tags=[
           "cardId": "20001535",
           "rare": "5",
           "tag": "ex-5",
-          "rate": "79"
+          "rate": "60"
 },
 {
           "cardId": "20001536",
@@ -1167,7 +1167,7 @@ window.tags=[
           "cardId": "20001559",
           "rare": "5",
           "tag": "ex-5",
-          "rate": "71"
+          "rate": "53"
 },
 {
           "cardId": "20001560",
@@ -1221,7 +1221,7 @@ window.tags=[
           "cardId": "20001568",
           "rare": "5",
           "tag": "ex-5",
-          "rate": "76"
+          "rate": "58"
 },
 {
           "cardId": "20001569",
@@ -1311,7 +1311,7 @@ window.tags=[
           "cardId": "20001583",
           "rare": "5",
           "tag": "ex-5",
-          "rate": "65"
+          "rate": "48"
 },
 {
           "cardId": "20001584",
@@ -1365,7 +1365,7 @@ window.tags=[
           "cardId": "20001592",
           "rare": "5",
           "tag": "ex-5",
-          "rate": "66"
+          "rate": "49"
 },
 {
           "cardId": "20001593",
@@ -1491,7 +1491,7 @@ window.tags=[
           "cardId": "20001613",
           "rare": "5",
           "tag": "ex-5",
-          "rate": "77"
+          "rate": "66"
 },
 {
           "cardId": "20001614",
@@ -2925,7 +2925,7 @@ window.tags=[
           "cardId": "20001853",
           "rare": "6",
           "tag": "pvp-reward",
-          "rate": "-"
+          "rate": "83"
 },
 {
           "cardId": "20001854",
@@ -3033,13 +3033,13 @@ window.tags=[
           "cardId": "20030501",
           "rare": "5",
           "tag": "god",
-          "rate": "-"
+          "rate": "95"
 },
 {
           "cardId": "20030502",
           "rare": "5",
           "tag": "god",
-          "rate": "-"
+          "rate": "95"
 },
 {
           "cardId": "20030503",
@@ -3201,7 +3201,7 @@ window.tags=[
           "cardId": "20030614",
           "rare": "6",
           "tag": "pvp-reward",
-          "rate": "-"
+          "rate": "81"
 },
 {
           "cardId": "20030615",
@@ -3327,13 +3327,13 @@ window.tags=[
           "cardId": "20030802",
           "rare": "5",
           "tag": "god",
-          "rate": "-"
+          "rate": "89"
 },
 {
           "cardId": "20030803",
           "rare": "5",
           "tag": "god",
-          "rate": "-"
+          "rate": "89"
 },
 {
           "cardId": "20030804",
@@ -3381,13 +3381,13 @@ window.tags=[
           "cardId": "20030811",
           "rare": "5",
           "tag": "god",
-          "rate": "-"
+          "rate": "82"
 },
 {
           "cardId": "20030812",
           "rare": "5",
           "tag": "god",
-          "rate": "-"
+          "rate": "82"
 },
 {
           "cardId": "20030813",
@@ -3537,7 +3537,7 @@ window.tags=[
           "cardId": "20030913",
           "rare": "6",
           "tag": "pvp-reward",
-          "rate": "-"
+          "rate": "97"
 },
 {
           "cardId": "20030918",
@@ -3663,13 +3663,13 @@ window.tags=[
           "cardId": "20031016",
           "rare": "5",
           "tag": "god",
-          "rate": "-"
+          "rate": "83"
 },
 {
           "cardId": "20031017",
           "rare": "5",
           "tag": "god",
-          "rate": "-"
+          "rate": "85"
 },
 {
           "cardId": "20031018",
@@ -3789,13 +3789,13 @@ window.tags=[
           "cardId": "20031201",
           "rare": "5",
           "tag": "god",
-          "rate": "-"
+          "rate": "83"
 },
 {
           "cardId": "20031202",
           "rare": "5",
           "tag": "god",
-          "rate": "-"
+          "rate": "83"
 },
 {
           "cardId": "20031203",
@@ -3849,7 +3849,7 @@ window.tags=[
           "cardId": "20031211",
           "rare": "6",
           "tag": "pvp-reward",
-          "rate": "-"
+          "rate": "86"
 },
 {
           "cardId": "20031212",
@@ -4101,7 +4101,7 @@ window.tags=[
           "cardId": "20040302",
           "rare": "5",
           "tag": "god",
-          "rate": "98"
+          "rate": "87"
 },
 {
           "cardId": "20040303",
@@ -4167,7 +4167,7 @@ window.tags=[
           "cardId": "20040313",
           "rare": "5",
           "tag": "pvp-reward",
-          "rate": "92"
+          "rate": "90"
 },
 {
           "cardId": "20040314",
@@ -4317,7 +4317,7 @@ window.tags=[
           "cardId": "20040502",
           "rare": "5",
           "tag": "god",
-          "rate": "-"
+          "rate": "96"
 },
 {
           "cardId": "20040503",
@@ -4365,13 +4365,13 @@ window.tags=[
           "cardId": "20040511",
           "rare": "5",
           "tag": "god",
-          "rate": "-"
+          "rate": "92"
 },
 {
           "cardId": "20040512",
           "rare": "5",
           "tag": "god",
-          "rate": "-"
+          "rate": "92"
 },
 {
           "cardId": "20040513",
@@ -4575,13 +4575,13 @@ window.tags=[
           "cardId": "20040802",
           "rare": "5",
           "tag": "god",
-          "rate": "-"
+          "rate": "100"
 },
 {
           "cardId": "20040803",
           "rare": "5",
           "tag": "god",
-          "rate": "-"
+          "rate": "100"
 },
 {
           "cardId": "20040804",
@@ -4605,6 +4605,24 @@ window.tags=[
           "cardId": "20040807",
           "rare": "5",
           "tag": "limited-6",
+          "rate": "-"
+},
+{
+          "cardId": "20040808",
+          "rare": "5",
+          "tag": "ex-6",
+          "rate": "-"
+},
+{
+          "cardId": "20040809",
+          "rare": "5",
+          "tag": "ex-6",
+          "rate": "-"
+},
+{
+          "cardId": "20040810",
+          "rare": "5",
+          "tag": "ex-6",
           "rate": "-"
 },
 ]
