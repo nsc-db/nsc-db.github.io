@@ -9971,6 +9971,58 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "775",
+          "name": "祭宴に吹き抜ける爽風",
+          "description": "木ノ葉隠れの里所属の素早さを40%アップする",
+          "effectIdx1": "13039",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "776",
+          "name": "悲哀の狭間を貫く雷拳",
+          "description": "無所属のキャラが行動後にHPとチャクラが20%回復する",
+          "effectIdx1": "628",
+          "effectIdx2": "583",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "99",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "777",
+          "name": "糸引かれし意志なき力",
+          "description": "無所属の最大HPとスキルダメージを70%アップする",
+          "effectIdx1": "10069",
+          "effectIdx2": "652",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "99",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "778",
+          "name": "終幕への導き手",
+          "description": "勇属性のスキルダメージが70%アップする",
+          "effectIdx1": "652",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "7",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8508",
           "name": "決別の祈り",
           "description": "技属性の最大HP・攻撃・スキルダメージを100%アップする",

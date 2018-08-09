@@ -17433,6 +17433,78 @@ window.ability=[
           "effectIdx3": "774"
         },
         {
+          "abilityId": "1975",
+          "abilityName": "熱気と活気",
+          "abilityDescription": "班の木ノ葉隠れの里所属1体につき、攻撃力が20%アップ（自身含む）",
+          "abilityEffectDescription": "班の木ノ葉隠れの里所属1体につき、攻撃力が20%アップ（自身含む）",
+          "effectIdx1": "687",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1976",
+          "abilityName": "盛り上げの涼風",
+          "abilityDescription": "防御力と素早さが60%アップする",
+          "abilityEffectDescription": "防御力と素早さが60%アップする",
+          "effectIdx1": "12059",
+          "effectIdx2": "13059",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1977",
+          "abilityName": "開眼せし第三の瞳",
+          "abilityDescription": "班の無所属のキャラ1体につき素早さが25%アップ（自身含む）",
+          "abilityEffectDescription": "班の無所属のキャラ1体につき素早さが25%アップ（自身含む）",
+          "effectIdx1": "1570",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1978",
+          "abilityName": "修得せし仙力",
+          "abilityDescription": "2回行動するまでスキル発動速度2段階アップ",
+          "abilityEffectDescription": "2回行動するまでスキル発動速度2段階アップ",
+          "effectIdx1": "1645",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1979",
+          "abilityName": "チャクラを見る瞳",
+          "abilityDescription": "班の無所属のキャラ1体につき素早さが25%アップ（自身含む）",
+          "abilityEffectDescription": "班の無所属のキャラ1体につき素早さが25%アップ（自身含む）",
+          "effectIdx1": "1570",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1980",
+          "abilityName": "洗練されし体術",
+          "abilityDescription": "最大チャクラ量が50アップし、行動後にチャクラが30％回復",
+          "abilityEffectDescription": "最大チャクラ量が50アップし、行動後にチャクラが30％回復",
+          "effectIdx1": "689",
+          "effectIdx2": "820",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1981",
+          "abilityName": "見えざる世界",
+          "abilityDescription": "攻撃力と防御力と素早さを70％アップする",
+          "abilityEffectDescription": "攻撃力と防御力と素早さを70％アップする",
+          "effectIdx1": "11069",
+          "effectIdx2": "12069",
+          "effectIdx3": "13069"
+        },
+        {
+          "abilityId": "1982",
+          "abilityName": "もう一人のマダラ",
+          "abilityDescription": "HPが0以下で4回までHPが全回復する",
+          "abilityEffectDescription": "HPが0以下で4回までHPが全回復する",
+          "effectIdx1": "1737",
+          "effectIdx2": "874",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
