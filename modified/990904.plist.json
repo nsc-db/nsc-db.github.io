@@ -549,6 +549,19 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
+          "worldStageId": "4080",
+          "worldAreaId": "5",
+          "priority": "5",
+          "name": "月下に舞う輪廻の瞳",
+          "description": "ダメージランキング開催！\r\n与えたダメージの1/10000が個人Ptとなります。個人Ptはイベント期間中のみ加算されます。",
+          "notice": "※個人Pt報酬は、達成と同時に直接付与されます。\r\n※報酬の付与にはお時間をいただく場合がございます。\r\n※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
           "worldStageId": "5001",
           "worldAreaId": "5",
           "priority": "55",

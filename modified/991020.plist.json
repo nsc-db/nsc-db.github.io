@@ -1435,6 +1435,22 @@
           "equipStatus": "1"
         },
         {
+          "titleId": "261",
+          "title": "無限の",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "262",
+          "title": "奴の中の",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "1"
+        },
+        {
           "titleId": "1000",
           "title": "忍者学校生",
           "description": "",
@@ -2811,6 +2827,22 @@
           "equipStatus": "2"
         },
         {
+          "titleId": "1265",
+          "title": "争いを望む",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1266",
+          "title": "オレそのもの",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "2"
+        },
+        {
           "titleId": "5000",
           "title": "忍道を極めし者",
           "description": "",
@@ -4085,6 +4117,14 @@
         {
           "titleId": "5249",
           "title": "超速決戦の巧者",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5250",
+          "title": "否定する存在がマダラ",
           "description": "0",
           "color": "0",
           "effectIds": "0",

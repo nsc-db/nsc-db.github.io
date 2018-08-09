@@ -1403,6 +1403,16 @@
           "type": "3"
         },
         {
+          "cardUnusualId": "141",
+          "category": "3",
+          "iconId": "1152",
+          "name": "輪墓",
+          "description": "体術・仙術・六道を除く、耐性無視を含むスキルを無効化",
+          "subScore": "0",
+          "color": "13381370",
+          "type": "2"
+        },
+        {
           "cardUnusualId": "142",
           "category": "3",
           "iconId": "1153",

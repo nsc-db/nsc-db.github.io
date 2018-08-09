@@ -17490,6 +17490,24 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "1981",
+          "abilityName": "見えざる世界",
+          "abilityDescription": "攻撃力と防御力と素早さを70％アップする",
+          "abilityEffectDescription": "攻撃力と防御力と素早さを70％アップする",
+          "effectIdx1": "11069",
+          "effectIdx2": "12069",
+          "effectIdx3": "13069"
+        },
+        {
+          "abilityId": "1982",
+          "abilityName": "もう一人のマダラ",
+          "abilityDescription": "HPが0以下で4回までHPが全回復する",
+          "abilityEffectDescription": "HPが0以下で4回までHPが全回復する",
+          "effectIdx1": "1737",
+          "effectIdx2": "874",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

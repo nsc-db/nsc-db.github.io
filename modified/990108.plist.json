@@ -10013,6 +10013,19 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "778",
+          "name": "終幕への導き手",
+          "description": "勇属性のスキルダメージが70%アップする",
+          "effectIdx1": "652",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "7",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

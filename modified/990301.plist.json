@@ -15171,6 +15171,38 @@
           "recipeName": "母カグヤの呪詛"
         },
         {
+          "crystalId": "10813",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "20002",
+          "effectIdx2": "1112",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "シンジュ",
+          "crystalDescription": "最大チャクラ量が30アップ、バトル開始時にチャクラ10%回復",
+          "crystalImageId": "108135",
+          "recipeId": "10813",
+          "recipeName": "シンジュ"
+        },
+        {
+          "crystalId": "10814",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "849",
+          "effectIdx2": "1867",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "ﾏﾀﾞﾗの最後の求道玉",
+          "crystalDescription": "輪廻眼と六道タイプのスキルダメージが40%アップする",
+          "crystalImageId": "108145",
+          "recipeId": "10814",
+          "recipeName": "ﾏﾀﾞﾗの最後の求道玉"
+        },
+        {
           "crystalId": "10831",
           "crystalType": "3",
           "crystalRare": "5",

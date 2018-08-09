@@ -471,6 +471,16 @@
           "uiIdx": "1",
           "partyEffects": "300012,1510,",
           "enemyEffects": null
+        },
+        {
+          "battleFieldEffectId": "56",
+          "name": "月下に舞う輪廻の瞳",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "276,",
+          "enemyEffects": null
         }
       ]
     }
