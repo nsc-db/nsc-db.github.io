@@ -17433,6 +17433,78 @@ window.ability=[
           "effectIdx3": "774"
         },
         {
+          "abilityId": "1975",
+          "abilityName": "Enthusiasm and Energy",
+          "abilityDescription": "ATK +20% per Konoha allies",
+          "abilityEffectDescription": "班の木ノ葉隠れの里所属1体につき、攻撃力が20%アップ（自身含む）",
+          "effectIdx1": "687",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1976",
+          "abilityName": "Heavy Breeze",
+          "abilityDescription": "DEF and SPD +60%",
+          "abilityEffectDescription": "防御力と素早さが60%アップする",
+          "effectIdx1": "12059",
+          "effectIdx2": "13059",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1977",
+          "abilityName": "Enlightenment of the Third Eye",
+          "abilityDescription": "SPD +25% per None allies",
+          "abilityEffectDescription": "班の無所属のキャラ1体につき素早さが25%アップ（自身含む）",
+          "effectIdx1": "1570",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1978",
+          "abilityName": "Aquisition of the Sage Power",
+          "abilityDescription": "For 2 turns, Cast Speed +2",
+          "abilityEffectDescription": "2回行動するまでスキル発動速度2段階アップ",
+          "effectIdx1": "1645",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1979",
+          "abilityName": "Eye's that Can See Chakra",
+          "abilityDescription": "SPD +25% per None allies",
+          "abilityEffectDescription": "班の無所属のキャラ1体につき素早さが25%アップ（自身含む）",
+          "effectIdx1": "1570",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1980",
+          "abilityName": "Polished Taijutsu",
+          "abilityDescription": "Maximum Chakra +50 and Chakra Recovery +30%",
+          "abilityEffectDescription": "最大チャクラ量が50アップし、行動後にチャクラが30％回復",
+          "effectIdx1": "689",
+          "effectIdx2": "820",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1981",
+          "abilityName": "Invisible World",
+          "abilityDescription": "ATK, DEF and SPD +70%",
+          "abilityEffectDescription": "攻撃力と防御力と素早さを70％アップする",
+          "effectIdx1": "11069",
+          "effectIdx2": "12069",
+          "effectIdx3": "13069"
+        },
+        {
+          "abilityId": "1982",
+          "abilityName": "Another Madara",
+          "abilityDescription": "When HP reaco 0, revive 4 times",
+          "abilityEffectDescription": "HPが0以下で4回までHPが全回復する",
+          "effectIdx1": "1737",
+          "effectIdx2": "874",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

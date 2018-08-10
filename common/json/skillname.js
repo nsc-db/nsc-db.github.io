@@ -5232,6 +5232,34 @@ window.skillname=[
           "name": "私達は回復役です！"
         },
         {
+          "cardBattleSkillNameId": "2496",
+          "name": "祭りだ祭りだ！"
+        },
+        {
+          "cardBattleSkillNameId": "2497",
+          "name": "祭りの主役は譲れねェ!!"
+        },
+        {
+          "cardBattleSkillNameId": "2498",
+          "name": "傀儡の白撃"
+        },
+        {
+          "cardBattleSkillNameId": "2499",
+          "name": "自制なき力"
+        },
+        {
+          "cardBattleSkillNameId": "2500",
+          "name": "仙雷の穿手"
+        },
+        {
+          "cardBattleSkillNameId": "2501",
+          "name": "許せ……"
+        },
+        {
+          "cardBattleSkillNameId": "2502",
+          "name": "闇がなければ作ればよい"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },

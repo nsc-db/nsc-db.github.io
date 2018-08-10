@@ -2842,7 +2842,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "861",
           "name": "輪墓・辺獄",
-          "eng": ""
+          "eng": "Limbo: Hengoku"
         },
         {
           "cardBattleSkillNameId": "862",
@@ -6539,6 +6539,41 @@ window.skillname=[
           "cardBattleSkillNameId": "2493",
           "name": "私達は回復役です！",
           "eng": "I Will Heal!"
+        },
+        {
+          "cardBattleSkillNameId": "2496",
+          "name": "祭りだ祭りだ！",
+          "eng": "It's the Festival, It's the Festival!"
+        },
+        {
+          "cardBattleSkillNameId": "2497",
+          "name": "祭りの主役は譲れねェ!!",
+          "eng": "The Lead of this Festival is Me"
+        },
+        {
+          "cardBattleSkillNameId": "2498",
+          "name": "傀儡の白撃",
+          "eng": "Marionette's White Fist"
+        },
+        {
+          "cardBattleSkillNameId": "2499",
+          "name": "自制なき力",
+          "eng": "Unhindered Power"
+        },
+        {
+          "cardBattleSkillNameId": "2500",
+          "name": "仙雷の穿手",
+          "eng": "Sage Lightning Piercing Fist"
+        },
+        {
+          "cardBattleSkillNameId": "2501",
+          "name": "許せ……",
+          "eng": "Forgiveness...."
+        },
+        {
+          "cardBattleSkillNameId": "2502",
+          "name": "闇がなければ作ればよい",
+          "eng": "Production of Darkness"
         },
         {
           "cardBattleSkillNameId": "10136",
