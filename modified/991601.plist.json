@@ -693,13 +693,13 @@
         },
         {
           "itemId": "11054",
-          "name": "期間限定テウチ誕生記念味・弐",
+          "name": "アヤメのつけ麺",
           "description": "スタミナを全回復するラーメン（8月16日まで期間限定）",
           "resultWord": "0",
           "itemCategoryId": "1",
           "itemValue": "1000000",
           "itemNum": "0",
-          "itemImageId": "11043",
+          "itemImageId": "0",
           "needCount": "1",
           "priority": "1",
           "selectType": "1"
