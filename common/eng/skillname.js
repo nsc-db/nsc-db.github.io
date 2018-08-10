@@ -2842,7 +2842,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "861",
           "name": "輪墓・辺獄",
-          "eng": ""
+          "eng": "Limbo: Hengoku"
         },
         {
           "cardBattleSkillNameId": "862",
