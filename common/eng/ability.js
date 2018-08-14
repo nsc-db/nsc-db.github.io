@@ -17505,6 +17505,24 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "1983",
+          "abilityName": "Power of the Three Eye Jutsu",
+          "abilityDescription": "SPD +400% and Cast Speed +1 when one of the enemy is a God or Champion",
+          "abilityEffectDescription": "敵に神忍祭限定キャラ、闘忍の覇者が生存している場合、素早さが400％アップ＆スキル発動速度1段階アップ",
+          "effectIdx1": "1870",
+          "effectIdx2": "1871",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1984",
+          "abilityName": "Deformed Motherhood",
+          "abilityDescription": "Chakra +100, ATK and Skill Damage +150%",
+          "abilityEffectDescription": "最大チャクラ量が100アップし、攻撃力とスキルダメージが150％アップする",
+          "effectIdx1": "20009",
+          "effectIdx2": "1268",
+          "effectIdx3": "794"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

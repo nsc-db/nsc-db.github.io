@@ -5232,6 +5232,14 @@ window.skillname=[
           "name": "私達は回復役です！"
         },
         {
+          "cardBattleSkillNameId": "2494",
+          "name": "膨張・求道玉"
+        },
+        {
+          "cardBattleSkillNameId": "2495",
+          "name": "こいつら消しちゃおうよ母さん"
+        },
+        {
           "cardBattleSkillNameId": "2496",
           "name": "祭りだ祭りだ！"
         },

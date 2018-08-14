@@ -10022,4 +10022,17 @@ window.lead=[
           "target2Category": "0",
           "target2Param": "0"
         },
+        {
+          "cardLeaderSkillId": "779",
+          "name": "堕天の妖月",
+          "description": "Courage Type ATK and Skill Damage +100%",
+          "effectIdx1": "264",
+          "effectIdx2": "774",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "7",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
 ]

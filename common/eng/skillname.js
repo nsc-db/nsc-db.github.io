@@ -6541,6 +6541,16 @@ window.skillname=[
           "eng": "I Will Heal!"
         },
         {
+          "cardBattleSkillNameId": "2494",
+          "name": "膨張・求道玉",
+          "eng": "Expansive Truth Seeking Orb"
+        },
+        {
+          "cardBattleSkillNameId": "2495",
+          "name": "こいつら消しちゃおうよ母さん",
+          "eng": "Let's Erase them Mother"
+        },
+        {
           "cardBattleSkillNameId": "2496",
           "name": "祭りだ祭りだ！",
           "eng": "It's the Festival, It's the Festival!"
