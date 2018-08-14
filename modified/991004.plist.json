@@ -3351,6 +3351,24 @@
           "speechCharactorName": "黒ゼツ"
         },
         {
+          "speechCharactorId": "562",
+          "cardId": "20031017",
+          "speechCharactorImgId": "562",
+          "speechCharactorName": "インドラ"
+        },
+        {
+          "speechCharactorId": "563",
+          "cardId": "20031016",
+          "speechCharactorImgId": "563",
+          "speechCharactorName": "アシュラ"
+        },
+        {
+          "speechCharactorId": "564",
+          "cardId": "20031209",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはマダラ"
+        },
+        {
           "speechCharactorId": "1000",
           "cardId": "21000091",
           "speechCharactorImgId": "1000",

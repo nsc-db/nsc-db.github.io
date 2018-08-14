@@ -7993,6 +7993,42 @@
           "effectIdx2": "1840",
           "effectIdx3": "1869",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "678",
+          "targetCrystal": "10815",
+          "description": "行動後にチャクラ20％回復＆チャクラ消費量30％ダウン＆1回行動するまでチャクラ消費0",
+          "charaIds": "14301,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1768",
+          "effectIdx2": "859",
+          "effectIdx3": "1378",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "679",
+          "targetCrystal": "10816",
+          "description": "受ける耐性無視スキルのダメージを0にし、素早さを80％アップ",
+          "charaIds": "14301,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1750",
+          "effectIdx2": "13079",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "680",
+          "targetCrystal": "10830",
+          "description": "最大HP150%アップ、素早さ100%アップ。さらに行動後にHPとチャクラが20%回復する",
+          "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "700002,",
+          "effectIdx1": "1212",
+          "effectIdx2": "13099",
+          "effectIdx3": "628",
+          "effectIdx4": "583"
         }
       ]
     }

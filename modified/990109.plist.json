@@ -17508,6 +17508,24 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "1983",
+          "abilityName": "三大瞳術の力",
+          "abilityDescription": "敵に神忍祭限定キャラ、闘忍の覇者が生存している場合、素早さが400％アップ＆スキル発動速度1段階アップ",
+          "abilityEffectDescription": "敵に神忍祭限定キャラ、闘忍の覇者が生存している場合、素早さが400％アップ＆スキル発動速度1段階アップ",
+          "effectIdx1": "1870",
+          "effectIdx2": "1871",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1984",
+          "abilityName": "歪みし母性",
+          "abilityDescription": "最大チャクラ量が100アップし、攻撃力とスキルダメージが150％アップする",
+          "abilityEffectDescription": "最大チャクラ量が100アップし、攻撃力とスキルダメージが150％アップする",
+          "effectIdx1": "20009",
+          "effectIdx2": "1268",
+          "effectIdx3": "794"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -17616,11 +17634,47 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "10400",
+          "abilityName": "スキルダメージアップ（大）",
+          "abilityDescription": "スキルダメージが大きくアップする",
+          "abilityEffectDescription": "スキルダメージが大きくアップする",
+          "effectIdx1": "652",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "10401",
+          "abilityName": "スキルダメージアップ（中）",
+          "abilityDescription": "スキルダメージがアップする",
+          "abilityEffectDescription": "スキルダメージがアップする",
+          "effectIdx1": "682",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "10402",
+          "abilityName": "スキルダメージアップ（小）",
+          "abilityDescription": "スキルダメージが少しアップする",
+          "abilityEffectDescription": "スキルダメージが少しアップする",
+          "effectIdx1": "615",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "11000",
           "abilityName": "被ダメージ時HP自動回復（5回）",
           "abilityDescription": "ダメージを受けたときにHPが全回復する（5回行動まで）",
           "abilityEffectDescription": "ダメージを受けたときにHPが全回復する（5回行動まで）",
           "effectIdx1": "1307",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "11001",
+          "abilityName": "被ダメージ時HP2000000回復",
+          "abilityDescription": "ダメージを受けたときにHPが2000000回復する",
+          "abilityEffectDescription": "ダメージを受けたときにHPが2000000回復する",
+          "effectIdx1": "1873",
           "effectIdx2": "0",
           "effectIdx3": "0"
         },
@@ -17738,6 +17792,24 @@
           "abilityDescription": "耐性無視を無効化",
           "abilityEffectDescription": "耐性無視を無効化",
           "effectIdx1": "1750",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "11800",
+          "abilityName": "3回行動するまで素早さ333%アップ",
+          "abilityDescription": "3回行動するまで素早さ333%アップ",
+          "abilityEffectDescription": "3回行動するまで素早さ333%アップ",
+          "effectIdx1": "1862",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "11801",
+          "abilityName": "素早さ30%アップ（最大5回まで）",
+          "abilityDescription": "行動するたびに素早さ30%アップ（最大5回まで）",
+          "abilityEffectDescription": "行動するたびに素早さ30%アップ（最大5回まで）",
+          "effectIdx1": "1424",
           "effectIdx2": "0",
           "effectIdx3": "0"
         },

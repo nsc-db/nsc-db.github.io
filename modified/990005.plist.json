@@ -481,6 +481,26 @@
           "uiIdx": "1",
           "partyEffects": "276,",
           "enemyEffects": null
+        },
+        {
+          "battleFieldEffectId": "57",
+          "name": "陰陽の戦神",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "12099,1814,1814,",
+          "enemyEffects": null
+        },
+        {
+          "battleFieldEffectId": "10001",
+          "name": "始球空間",
+          "category": "3",
+          "scriptId": "10001",
+          "overWrite": "1",
+          "uiIdx": "10001",
+          "partyEffects": "1864,1866,1872,",
+          "enemyEffects": "1864,1866,1872,"
         }
       ]
     }

@@ -471,6 +471,19 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
+          "worldStageId": "1183",
+          "worldAreaId": "5",
+          "priority": "3",
+          "name": "封印を解かれし刻",
+          "description": "新キャラ「大筒木カグヤ」がお試しキャラで登場！\r\nカグヤの圧倒的パワーで迫りくる神忍を打ち破れ！\r\n※大筒木カグヤのお試し回数は5回までとなります。",
+          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
           "worldStageId": "1184",
           "worldAreaId": "5",
           "priority": "7",
@@ -763,6 +776,19 @@
           "name": "歴影の黙示",
           "description": "超強力な忍具登場！\r\n超高難易度任務をクリアし、素材を手に入れよう！",
           "notice": "※イベントの内容及び日程は告知なく変更となる場合がございます。\r\n※イベント難易度はS・超ドS、超絶、神忍ランクとなります。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
+          "worldStageId": "5113",
+          "worldAreaId": "5",
+          "priority": "4",
+          "name": "陰陽の戦神",
+          "description": "超強力な新規忍具登場！\r\n超高難易度任務をクリアし、素材を手に入れよう",
+          "notice": "※イベントの内容及び日程は告知なく変更となる場合がございます。\r\n※イベント難易度は超絶、神忍ランクとなります。",
           "type": "0",
           "prerequisiteWorldStageId": "0",
           "openWeek": null,

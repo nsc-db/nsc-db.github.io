@@ -1383,6 +1383,11 @@
           "itemImgId": "23"
         },
         {
+          "shopExchangeItemId": "284",
+          "itemName": "収集Pt",
+          "itemImgId": "22"
+        },
+        {
           "shopExchangeItemId": "1001",
           "itemName": "下心Pt",
           "itemImgId": "166"

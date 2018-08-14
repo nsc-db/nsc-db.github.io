@@ -1173,6 +1173,24 @@
           "materialImageId": "201"
         },
         {
+          "materialId": "206",
+          "materialName": "虚無のチャクラ",
+          "materialRare": "3",
+          "materialImageId": "206"
+        },
+        {
+          "materialId": "207",
+          "materialName": "陽のチャクラ",
+          "materialRare": "4",
+          "materialImageId": "207"
+        },
+        {
+          "materialId": "208",
+          "materialName": "陰のチャクラ",
+          "materialRare": "4",
+          "materialImageId": "208"
+        },
+        {
           "materialId": "306",
           "materialName": "???",
           "materialRare": "4",
