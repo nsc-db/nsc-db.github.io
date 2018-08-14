@@ -10712,7 +10712,7 @@ window.ability=[
         {
           "abilityId": "1191",
           "abilityName": "Unshakeable Nindo",
-          "abilityDescription": "Maximum HP +120%. Reduce incoming Rinne Sharingan Skill Damage",
+          "abilityDescription": "Maximum HP +120%. Immune to all Skill Damage",
           "abilityEffectDescription": "最大HPが120%アップし、Rinne Sharinganのスキルダメージを軽減する",
           "effectIdx1": "1221",
           "effectIdx2": "1234",
@@ -10721,7 +10721,7 @@ window.ability=[
         {
           "abilityId": "1192",
           "abilityName": "All Tailed Beast Chakra (Bonds)",
-          "abilityDescription": "Maximum Chakra +50, Skill Damage +150% when Chakra is above 50%",
+          "abilityDescription": "Maximum Chakra +100, Skill Damage +150% when Chakra is above 50%",
           "abilityEffectDescription": "最大チャクラが50アップし、チャクラ50%以上の時スキルダメージが150%アップする",
           "effectIdx1": "20004",
           "effectIdx2": "33414",
@@ -10730,7 +10730,7 @@ window.ability=[
         {
           "abilityId": "1193",
           "abilityName": "Exhausting Tempering Will",
-          "abilityDescription": "Maximum HP +120%. Reduce incoming Six Paths Skill Damage",
+          "abilityDescription": "Maximum HP +120%. Immune to all Skill Damage",
           "abilityEffectDescription": "最大HPが120%アップし、六道タイプのスキルダメージを軽減する",
           "effectIdx1": "1221",
           "effectIdx2": "1286",
@@ -10739,7 +10739,7 @@ window.ability=[
         {
           "abilityId": "1194",
           "abilityName": "All Tailed Beast Chakra (Ties)",
-          "abilityDescription": "Maximum Chakra +50, Skill Damage +150% when Chakra is above 50%",
+          "abilityDescription": "Maximum Chakra +100, Skill Damage +150% when Chakra is above 50%",
           "abilityEffectDescription": "最大チャクラが50アップし、チャクラ50%以上の時スキルダメージが150%アップする",
           "effectIdx1": "20004",
           "effectIdx2": "33414",
@@ -12575,7 +12575,7 @@ window.ability=[
         {
           "abilityId": "1398",
           "abilityName": "Prepared Endurance",
-          "abilityDescription": "Maximum Chakra +90 and Maximum HP +150%",
+          "abilityDescription": "Maximum Chakra +90 and Maximum HP +150%. When HP reach HP 0, revive twice",
           "abilityEffectDescription": "Maximum Chakra +90 and Maximum HP +150%",
           "effectIdx1": "20008",
           "effectIdx2": "1212",
@@ -12611,7 +12611,7 @@ window.ability=[
         {
           "abilityId": "1402",
           "abilityName": "Secret Monument",
-          "abilityDescription": "Maximum Chakra +90 and Maximum HP +150%",
+          "abilityDescription": "Maximum Chakra +90 and Maximum HP +150%. When HP reach HP 0, revive twice",
           "abilityEffectDescription": "Maximum Chakra +90 and Maximum HP +150%",
           "effectIdx1": "20008",
           "effectIdx2": "1212",
