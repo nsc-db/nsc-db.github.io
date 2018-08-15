@@ -4628,7 +4628,7 @@ window.tags=[
 {
           "cardId": "20040810",
           "rare": "5",
-          "tag": "god",
+          "tag": "killers",
           "rate": "-"
 },
 ]
