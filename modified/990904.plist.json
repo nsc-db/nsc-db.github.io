@@ -367,32 +367,6 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
-          "worldStageId": "1174",
-          "worldAreaId": "5",
-          "priority": "4",
-          "name": "お前ら…オレに殺されたいのか？",
-          "description": "初回クリア報酬で水月,香燐,重吾\r\n個人Pt達成報酬でサスケの\r\nマイぺ配置物を獲得しよう！",
-          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
-          "type": "0",
-          "prerequisiteWorldStageId": "0",
-          "openWeek": null,
-          "openTime": "0000.00.00 00:00:00",
-          "closeTime": "0000.00.00 00:00:00"
-        },
-        {
-          "worldStageId": "1175",
-          "worldAreaId": "5",
-          "priority": "5",
-          "name": "ドキッ！夏色はじけるビーチコンテスト",
-          "description": "ビーチフラッグを集めて、夏モチーフの忍具や\r\nマイペ配置物を交換しよう！",
-          "notice": "※イベントの内容及び日程は告知なく変更となる場合がございます。",
-          "type": "0",
-          "prerequisiteWorldStageId": "0",
-          "openWeek": null,
-          "openTime": "0000.00.00 00:00:00",
-          "closeTime": "0000.00.00 00:00:00"
-        },
-        {
           "worldStageId": "1176",
           "worldAreaId": "5",
           "priority": "11",
