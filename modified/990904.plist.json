@@ -367,6 +367,19 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
+          "worldStageId": "1151",
+          "worldAreaId": "5",
+          "priority": "2",
+          "name": "3周年ありがとう！大感謝任務",
+          "description": "個人Pt達成報酬で忍石合計サンキュー個！\r\n個人Pt報酬で固有忍具を獲得しよう！\r\nマイぺ配置物に★４カグヤや★４黒ゼツも登場！！",
+          "notice": "※イベントの内容及び日程は告知なく変更となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
           "worldStageId": "1176",
           "worldAreaId": "5",
           "priority": "11",
