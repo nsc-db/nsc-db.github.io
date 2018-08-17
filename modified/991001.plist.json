@@ -53373,6 +53373,1036 @@
           "message": "……それしかないのか…"
         },
         {
+          "scriptMessageId": "23147",
+          "speechCharactorId": "561",
+          "message": "母さん…\r\nこいつらやっかいだね…"
+        },
+        {
+          "scriptMessageId": "23148",
+          "speechCharactorId": "561",
+          "message": "もうさ…\r\nこいつら分けちまえば"
+        },
+        {
+          "scriptMessageId": "23149",
+          "speechCharactorId": "561",
+          "message": "そして一匹ずつ"
+        },
+        {
+          "scriptMessageId": "23150",
+          "speechCharactorId": "234",
+          "message": "え！？"
+        },
+        {
+          "scriptMessageId": "23151",
+          "speechCharactorId": "234",
+          "message": "サスケ！！"
+        },
+        {
+          "scriptMessageId": "23152",
+          "speechCharactorId": "561",
+          "message": "別空間に飛ばしてやった"
+        },
+        {
+          "scriptMessageId": "23153",
+          "speechCharactorId": "561",
+          "message": "これで、もう母さんを封印できない"
+        },
+        {
+          "scriptMessageId": "23154",
+          "speechCharactorId": "561",
+          "message": "まずはお前のチャクラを\r\n全て吸い尽くす！"
+        },
+        {
+          "scriptMessageId": "23155",
+          "speechCharactorId": "401",
+          "message": "もしかしたら私達だけ\r\nこの世界に連れて来られたのかも？"
+        },
+        {
+          "scriptMessageId": "23156",
+          "speechCharactorId": "234",
+          "message": "イヤ…本体のオレは\r\nこの世界にいるってばよ…"
+        },
+        {
+          "scriptMessageId": "23157",
+          "speechCharactorId": "234",
+          "message": "ただサスケは感知できねェ"
+        },
+        {
+          "scriptMessageId": "23158",
+          "speechCharactorId": "182",
+          "message": "うっ！"
+        },
+        {
+          "scriptMessageId": "23159",
+          "speechCharactorId": "484",
+          "message": "オビト…！"
+        },
+        {
+          "scriptMessageId": "23160",
+          "speechCharactorId": "182",
+          "message": "カカシか…"
+        },
+        {
+          "scriptMessageId": "23161",
+          "speechCharactorId": "182",
+          "message": "オレは…死んだ…はず…"
+        },
+        {
+          "scriptMessageId": "23162",
+          "speechCharactorId": "234",
+          "message": "オレが回復させた\r\nでも…"
+        },
+        {
+          "scriptMessageId": "23163",
+          "speechCharactorId": "234",
+          "message": "…………"
+        },
+        {
+          "scriptMessageId": "23164",
+          "speechCharactorId": "182",
+          "message": "ああ…分かっている"
+        },
+        {
+          "scriptMessageId": "23165",
+          "speechCharactorId": "182",
+          "message": "マダラ…どうなった？\r\n倒したのか？"
+        },
+        {
+          "scriptMessageId": "23166",
+          "speechCharactorId": "484",
+          "message": "イヤ…そうじゃなくなった"
+        },
+        {
+          "scriptMessageId": "23167",
+          "speechCharactorId": "234",
+          "message": "オレが簡単に説明すっから！"
+        },
+        {
+          "scriptMessageId": "23168",
+          "speechCharactorId": "234",
+          "message": "ついでに皆にも六道仙人や\r\nカグヤのこと…その封印のことも！"
+        },
+        {
+          "scriptMessageId": "23169",
+          "speechCharactorId": "182",
+          "message": "何があったか分からないが…\r\nまだ敵は倒してはいないんだな？"
+        },
+        {
+          "scriptMessageId": "23170",
+          "speechCharactorId": "182",
+          "message": "なら…そこへオレを連れていけ\r\nその間に話を聞く"
+        },
+        {
+          "scriptMessageId": "23171",
+          "speechCharactorId": "401",
+          "message": "私たちが足手まといか\r\n役に立てるかどうかは分からない"
+        },
+        {
+          "scriptMessageId": "23172",
+          "speechCharactorId": "401",
+          "message": "けど役に立てる時に\r\nそこにいないで失敗したくないの"
+        },
+        {
+          "scriptMessageId": "23173",
+          "speechCharactorId": "484",
+          "message": "どうせそのカグヤってのを倒さないことには\r\nオレ達の世界も終わりだしな"
+        },
+        {
+          "scriptMessageId": "23174",
+          "speechCharactorId": "484",
+          "message": "残ってるオレ達だけで\r\nあがいてみるしかないんだ"
+        },
+        {
+          "scriptMessageId": "23175",
+          "speechCharactorId": "484",
+          "message": "もうとっくに覚悟は決まってただろ…"
+        },
+        {
+          "scriptMessageId": "23176",
+          "speechCharactorId": "484",
+          "message": "死ぬ覚悟は"
+        },
+        {
+          "scriptMessageId": "23177",
+          "speechCharactorId": "182",
+          "message": "奴は時空間から出て来やがった\r\nオレの瞳術とよく似た能力だ"
+        },
+        {
+          "scriptMessageId": "23178",
+          "speechCharactorId": "484",
+          "message": "…入れるか？"
+        },
+        {
+          "scriptMessageId": "23179",
+          "speechCharactorId": "182",
+          "message": "…もう一度、奴が空間を繋げ\r\n開いたと同時にオレの神威と共鳴させれば"
+        },
+        {
+          "scriptMessageId": "23180",
+          "speechCharactorId": "182",
+          "message": "まず間違いなく入り込める"
+        },
+        {
+          "scriptMessageId": "23181",
+          "speechCharactorId": "182",
+          "message": "そこにサスケがいれば\r\nこっちに連れて帰って来ることはできる…"
+        },
+        {
+          "scriptMessageId": "23182",
+          "speechCharactorId": "234",
+          "message": "よっしゃ！！\r\nならオレは本体のサポートに回っから！"
+        },
+        {
+          "scriptMessageId": "23183",
+          "speechCharactorId": "182",
+          "message": "ただ……"
+        },
+        {
+          "scriptMessageId": "23184",
+          "speechCharactorId": "182",
+          "message": "それには膨大なチャクラがいる…\r\nオレの時空間じゃないからな"
+        },
+        {
+          "scriptMessageId": "23185",
+          "speechCharactorId": "182",
+          "message": "向こうでチャクラが切れたら終わりだ"
+        },
+        {
+          "scriptMessageId": "23186",
+          "speechCharactorId": "234",
+          "message": "ならオレも行く！\r\n本体も直ぐにやられたりはしねェ\r\nオレは…強ェーから"
+        },
+        {
+          "scriptMessageId": "23187",
+          "speechCharactorId": "182",
+          "message": "分身のお前のチャクラでも足らない"
+        },
+        {
+          "scriptMessageId": "23188",
+          "speechCharactorId": "401",
+          "message": "私の百豪のチャクラがあっても足りませんか？"
+        },
+        {
+          "scriptMessageId": "23189",
+          "speechCharactorId": "182",
+          "message": "それで限度いっぱいだ\r\n二人ともオレと来い"
+        },
+        {
+          "scriptMessageId": "23190",
+          "speechCharactorId": "182",
+          "message": "…必ずサスケはオレが見つけ\r\nお前の本体まで届ける"
+        },
+        {
+          "scriptMessageId": "23191",
+          "speechCharactorId": "234",
+          "message": "…オビト…オレのこと助けてくれて\r\nありがとう……"
+        },
+        {
+          "scriptMessageId": "23192",
+          "speechCharactorId": "234",
+          "message": "そしてサスケまで…"
+        },
+        {
+          "scriptMessageId": "23193",
+          "speechCharactorId": "182",
+          "message": "…こんなオレに礼など言うな\r\n敵を見てろ"
+        },
+        {
+          "scriptMessageId": "23194",
+          "speechCharactorId": "234",
+          "message": "もう…面はねーんだな"
+        },
+        {
+          "scriptMessageId": "23195",
+          "speechCharactorId": "182",
+          "message": "………"
+        },
+        {
+          "scriptMessageId": "23196",
+          "speechCharactorId": "182",
+          "message": "オレは…カカシの友であり\r\nお前の父の部下であり…\r\nサスケと同じうちはであり"
+        },
+        {
+          "scriptMessageId": "23197",
+          "speechCharactorId": "182",
+          "message": "そして……"
+        },
+        {
+          "scriptMessageId": "23198",
+          "speechCharactorId": "182",
+          "message": "オレはお前と同じ夢を見た先輩…\r\n――だった"
+        },
+        {
+          "scriptMessageId": "23199",
+          "speechCharactorId": "182",
+          "message": "時間がない\r\nオレが今さら詭弁を垂れるつもりはない"
+        },
+        {
+          "scriptMessageId": "23200",
+          "speechCharactorId": "182",
+          "message": "ただ…せめてお前達より前を歩いて…"
+        },
+        {
+          "scriptMessageId": "23201",
+          "speechCharactorId": "182",
+          "message": "死なせてくれ"
+        },
+        {
+          "scriptMessageId": "23202",
+          "speechCharactorId": "234",
+          "message": "くそ…強ェ…"
+        },
+        {
+          "scriptMessageId": "23203",
+          "speechCharactorId": "297",
+          "message": "ここはワラワの空間…\r\n何をしても無駄だ"
+        },
+        {
+          "scriptMessageId": "23204",
+          "speechCharactorId": "561",
+          "message": "面倒だね…母さん\r\nここは少し本気を出した方がイイよ"
+        },
+        {
+          "scriptMessageId": "23205",
+          "speechCharactorId": "297",
+          "message": "ええ…"
+        },
+        {
+          "scriptMessageId": "23206",
+          "speechCharactorId": "234",
+          "message": "出オチのおいろけ系は\r\nもう陽動には使えねェ…"
+        },
+        {
+          "scriptMessageId": "23207",
+          "speechCharactorId": "234",
+          "message": "オレの基本に立ち返ってやるんだ！！"
+        },
+        {
+          "scriptMessageId": "23208",
+          "speechCharactorId": "297",
+          "message": "ここはワラワの空間だ\r\nお前には何もできぬ"
+        },
+        {
+          "scriptMessageId": "23209",
+          "speechCharactorId": "322",
+          "message": "チャクラは練っておいてやったぞ！"
+        },
+        {
+          "scriptMessageId": "23210",
+          "speechCharactorId": "234",
+          "message": "サンキュー九喇嘛！"
+        },
+        {
+          "scriptMessageId": "23211",
+          "speechCharactorId": "234",
+          "message": "多重――影分身の術！！！"
+        },
+        {
+          "scriptMessageId": "23212",
+          "speechCharactorId": "234",
+          "message": "今ここはァ！\r\nオレの空間だってばよ！！"
+        },
+        {
+          "scriptMessageId": "23213",
+          "speechCharactorId": "561",
+          "message": "面倒だね…母さん\r\n一度、別空間に退こう"
+        },
+        {
+          "scriptMessageId": "23214",
+          "speechCharactorId": "297",
+          "message": "ええ…"
+        },
+        {
+          "scriptMessageId": "23215",
+          "speechCharactorId": "234",
+          "message": "開いたな！！"
+        },
+        {
+          "scriptMessageId": "23216",
+          "speechCharactorId": "182",
+          "message": "…行くぞ"
+        },
+        {
+          "scriptMessageId": "23217",
+          "speechCharactorId": "561",
+          "message": "入り込めたのか！？\r\nバカな！"
+        },
+        {
+          "scriptMessageId": "23218",
+          "speechCharactorId": "561",
+          "message": "このナルトという忍…\r\n昔から何をするか分からない"
+        },
+        {
+          "scriptMessageId": "23219",
+          "speechCharactorId": "561",
+          "message": "こいつはここできっちり…"
+        },
+        {
+          "scriptMessageId": "23220",
+          "speechCharactorId": "561",
+          "message": "殺しておくべきだ！！"
+        },
+        {
+          "scriptMessageId": "23221",
+          "speechCharactorId": "297",
+          "message": "ダメよ\r\nあの子達のチャクラは吸収しなくては……"
+        },
+        {
+          "scriptMessageId": "23222",
+          "speechCharactorId": "561",
+          "message": "これ以上、こいつとのやりとりを\r\n延ばさない方がいい…"
+        },
+        {
+          "scriptMessageId": "23223",
+          "speechCharactorId": "561",
+          "message": "もし封印されれば元も子もない"
+        },
+        {
+          "scriptMessageId": "23224",
+          "speechCharactorId": "561",
+          "message": "確かに多くのチャクラを失うことになるが\r\nこいつの分はもういらない！"
+        },
+        {
+          "scriptMessageId": "23225",
+          "speechCharactorId": "561",
+          "message": "この永年の計画が水の泡になるよりはマシだ"
+        },
+        {
+          "scriptMessageId": "23226",
+          "speechCharactorId": "297",
+          "message": "……"
+        },
+        {
+          "scriptMessageId": "23227",
+          "speechCharactorId": "297",
+          "message": "そうね…"
+        },
+        {
+          "scriptMessageId": "23228",
+          "speechCharactorId": "561",
+          "message": "これで殺せる…\r\n“共殺しの灰骨”"
+        },
+        {
+          "scriptMessageId": "23229",
+          "speechCharactorId": "234",
+          "message": "え……っ"
+        },
+        {
+          "scriptMessageId": "23230",
+          "speechCharactorId": "561",
+          "message": "当たれば灰になって崩れ落ちる…"
+        },
+        {
+          "scriptMessageId": "23231",
+          "speechCharactorId": "561",
+          "message": "これで氷世界の分身は全て消えたハズだ"
+        },
+        {
+          "scriptMessageId": "23232",
+          "speechCharactorId": "182",
+          "message": "ナルトのおかげで\r\nうまくオレの時空間へ隠れられたが"
+        },
+        {
+          "scriptMessageId": "23233",
+          "speechCharactorId": "182",
+          "message": "分身でも、もうナルトはいない…"
+        },
+        {
+          "scriptMessageId": "23234",
+          "speechCharactorId": "182",
+          "message": "お前だけが頼りだサクラ"
+        },
+        {
+          "scriptMessageId": "23235",
+          "speechCharactorId": "401",
+          "message": "分かってます！"
+        },
+        {
+          "scriptMessageId": "23236",
+          "speechCharactorId": "401",
+          "message": "私だって…"
+        },
+        {
+          "scriptMessageId": "23237",
+          "speechCharactorId": "401",
+          "message": "先頭を走ってるつもりでいるんです！"
+        },
+        {
+          "scriptMessageId": "23238",
+          "speechCharactorId": "401",
+          "message": "こうなったらナルト以上に\r\n結果を出しますよ！"
+        },
+        {
+          "scriptMessageId": "23239",
+          "speechCharactorId": "182",
+          "message": "サスケを探すぞ…！"
+        },
+        {
+          "scriptMessageId": "23240",
+          "speechCharactorId": "565",
+          "message": "ハイ！！"
+        },
+        {
+          "scriptMessageId": "23241",
+          "speechCharactorId": "561",
+          "message": "影分身が消えていない…"
+        },
+        {
+          "scriptMessageId": "23242",
+          "speechCharactorId": "561",
+          "message": "向こうは全て、ただの分身だったか…\r\n騙されたよ"
+        },
+        {
+          "scriptMessageId": "23243",
+          "speechCharactorId": "234",
+          "message": "ヘヘッ…バレちまったか…\r\n本当はオレが…オリジナルだ"
+        },
+        {
+          "scriptMessageId": "23244",
+          "speechCharactorId": "234",
+          "message": "…こいつが向こうへ\r\n行かねー様にうまく戦わねーと…"
+        },
+        {
+          "scriptMessageId": "23245",
+          "speechCharactorId": "561",
+          "message": "うかつに入口を作らない方がいいよ、母さん"
+        },
+        {
+          "scriptMessageId": "23246",
+          "speechCharactorId": "561",
+          "message": "奴がサスケに近づく"
+        },
+        {
+          "scriptMessageId": "23247",
+          "speechCharactorId": "565",
+          "message": "サスケくん！！"
+        },
+        {
+          "scriptMessageId": "23248",
+          "speechCharactorId": "182",
+          "message": "ここか！"
+        },
+        {
+          "scriptMessageId": "23249",
+          "speechCharactorId": "565",
+          "message": "サスケくん、こっち！！"
+        },
+        {
+          "scriptMessageId": "23250",
+          "speechCharactorId": "565",
+          "message": "早く！！"
+        },
+        {
+          "scriptMessageId": "23251",
+          "speechCharactorId": "565",
+          "message": "サスケくん！！"
+        },
+        {
+          "scriptMessageId": "23252",
+          "speechCharactorId": "565",
+          "message": "ハア―――ッ！！！"
+        },
+        {
+          "scriptMessageId": "23253",
+          "speechCharactorId": "565",
+          "message": "しゃーんなろーーーーーー！！！"
+        },
+        {
+          "scriptMessageId": "23254",
+          "speechCharactorId": "182",
+          "message": "ダメか……"
+        },
+        {
+          "scriptMessageId": "23255",
+          "speechCharactorId": "454",
+          "message": "そんな…"
+        },
+        {
+          "scriptMessageId": "23256",
+          "speechCharactorId": "182",
+          "message": "どうやって……？"
+        },
+        {
+          "scriptMessageId": "23257",
+          "speechCharactorId": "235",
+          "message": "これがオレの能力だ\r\nオレと離れた空間とを一瞬で入れ替える…"
+        },
+        {
+          "scriptMessageId": "23258",
+          "speechCharactorId": "561",
+          "message": "バカな！\r\nサスケだと！？"
+        },
+        {
+          "scriptMessageId": "23259",
+          "speechCharactorId": "561",
+          "message": "母さん…あいつらが揃ったんなら\r\n仕方ない…"
+        },
+        {
+          "scriptMessageId": "23260",
+          "speechCharactorId": "561",
+          "message": "もうチャクラを出し惜しみしてる\r\n場合じゃないよ"
+        },
+        {
+          "scriptMessageId": "23261",
+          "speechCharactorId": "297",
+          "message": "分かっている"
+        },
+        {
+          "scriptMessageId": "23262",
+          "speechCharactorId": "454",
+          "message": "体が……重い…"
+        },
+        {
+          "scriptMessageId": "23263",
+          "speechCharactorId": "235",
+          "message": "今度は超重力の空間…\r\n…だが…"
+        },
+        {
+          "scriptMessageId": "23264",
+          "speechCharactorId": "235",
+          "message": "奴も同じ様に…"
+        },
+        {
+          "scriptMessageId": "23265",
+          "speechCharactorId": "234",
+          "message": "かわせサスケ！！"
+        },
+        {
+          "scriptMessageId": "23266",
+          "speechCharactorId": "235",
+          "message": "くそ！まだ左目の瞳力が！"
+        },
+        {
+          "scriptMessageId": "23267",
+          "speechCharactorId": "561",
+          "message": "重さで狙いが狂うかい？"
+        },
+        {
+          "scriptMessageId": "23268",
+          "speechCharactorId": "297",
+          "message": "今ので調節した…次は当たる"
+        },
+        {
+          "scriptMessageId": "23269",
+          "speechCharactorId": "484",
+          "message": "オレにも…\r\nまだできることはある…"
+        },
+        {
+          "scriptMessageId": "23270",
+          "speechCharactorId": "484",
+          "message": "盾になることぐらいなら！"
+        },
+        {
+          "scriptMessageId": "23271",
+          "speechCharactorId": "484",
+          "message": "間に合え…！"
+        },
+        {
+          "scriptMessageId": "23272",
+          "speechCharactorId": "182",
+          "message": "リン…！！"
+        },
+        {
+          "scriptMessageId": "23273",
+          "speechCharactorId": "484",
+          "message": "ありがとう……リン"
+        },
+        {
+          "scriptMessageId": "23274",
+          "speechCharactorId": "484",
+          "message": "オレもオビトも\r\nそろそろそっちへ行くよ"
+        },
+        {
+          "scriptMessageId": "23275",
+          "speechCharactorId": "484",
+          "message": "そしたら\r\nまた三人でゆっくり話をしよう"
+        },
+        {
+          "scriptMessageId": "23276",
+          "speechCharactorId": "182",
+          "message": "リン…\r\n今度はあの世で…"
+        },
+        {
+          "scriptMessageId": "23277",
+          "speechCharactorId": "182",
+          "message": "少しオレと……\r\n二人きりの時間を過ごそう"
+        },
+        {
+          "scriptMessageId": "23278",
+          "speechCharactorId": "182",
+          "message": "カカシは邪魔だ…"
+        },
+        {
+          "scriptMessageId": "23279",
+          "speechCharactorId": "182",
+          "message": "ここにおいていくよ"
+        },
+        {
+          "scriptMessageId": "23280",
+          "speechCharactorId": "484",
+          "message": "これは――神威！？"
+        },
+        {
+          "scriptMessageId": "23281",
+          "speechCharactorId": "484",
+          "message": "オビト！\r\nお前…！！"
+        },
+        {
+          "scriptMessageId": "23282",
+          "speechCharactorId": "182",
+          "message": "カカシ…お前は当分…\r\nこっちに居ろ……"
+        },
+        {
+          "scriptMessageId": "23283",
+          "speechCharactorId": "182",
+          "message": "直ぐに…\r\n来るんじゃねーぞ…"
+        },
+        {
+          "scriptMessageId": "23284",
+          "speechCharactorId": "484",
+          "message": "ど…どうしてだ！？\r\nお互いに覚悟はもう……"
+        },
+        {
+          "scriptMessageId": "23285",
+          "speechCharactorId": "484",
+          "message": "お前の力はまだ\r\n今ここで必要だ！"
+        },
+        {
+          "scriptMessageId": "23286",
+          "speechCharactorId": "484",
+          "message": "なぜ役にも立たないオレの為に…！？"
+        },
+        {
+          "scriptMessageId": "23287",
+          "speechCharactorId": "561",
+          "message": "一旦、チャクラの練り直しか"
+        },
+        {
+          "scriptMessageId": "23288",
+          "speechCharactorId": "561",
+          "message": "母さん…\r\n始球空間へ飛ぼう…"
+        },
+        {
+          "scriptMessageId": "23289",
+          "speechCharactorId": "561",
+          "message": "あそこなら回復も早い"
+        },
+        {
+          "scriptMessageId": "23290",
+          "speechCharactorId": "182",
+          "message": "…ナルト…サスケ\r\n…そしてサクラか…"
+        },
+        {
+          "scriptMessageId": "23291",
+          "speechCharactorId": "182",
+          "message": "こいつらは今\r\n大切な時だ"
+        },
+        {
+          "scriptMessageId": "23292",
+          "speechCharactorId": "182",
+          "message": "…カカシ、お前は\r\n新しい世代の支えとして\r\nまだ死ぬには早い"
+        },
+        {
+          "scriptMessageId": "23293",
+          "speechCharactorId": "561",
+          "message": "無駄だナルト\r\nそいつはもうダメだ"
+        },
+        {
+          "scriptMessageId": "23294",
+          "speechCharactorId": "561",
+          "message": "ゴミの様に朽ちて死ぬ"
+        },
+        {
+          "scriptMessageId": "23295",
+          "speechCharactorId": "561",
+          "message": "なぜそんな奴に肩入れする？"
+        },
+        {
+          "scriptMessageId": "23296",
+          "speechCharactorId": "561",
+          "message": "そいつは元々\r\nお前らの敵だった男だろ？"
+        },
+        {
+          "scriptMessageId": "23297",
+          "speechCharactorId": "561",
+          "message": "まあ…かといって\r\nこちらとしても裏切られた"
+        },
+        {
+          "scriptMessageId": "23298",
+          "speechCharactorId": "561",
+          "message": "どっちつかずのクズだがな"
+        },
+        {
+          "scriptMessageId": "23299",
+          "speechCharactorId": "561",
+          "message": "敵味方双方から\r\n忌み嫌われ"
+        },
+        {
+          "scriptMessageId": "23300",
+          "speechCharactorId": "561",
+          "message": "…悲しんでくれる仲間も\r\n肉親もいない…"
+        },
+        {
+          "scriptMessageId": "23301",
+          "speechCharactorId": "561",
+          "message": "そいつは独り…\r\n何も残らない…"
+        },
+        {
+          "scriptMessageId": "23302",
+          "speechCharactorId": "561",
+          "message": "大切な人を亡くし\r\n夢を叶えることもできず"
+        },
+        {
+          "scriptMessageId": "23303",
+          "speechCharactorId": "561",
+          "message": "利用されたあげく\r\n最後にウロウロと"
+        },
+        {
+          "scriptMessageId": "23304",
+          "speechCharactorId": "561",
+          "message": "…失敗だらけの間抜けが…"
+        },
+        {
+          "scriptMessageId": "23305",
+          "speechCharactorId": "561",
+          "message": "無様に死ぬだけのことだ"
+        },
+        {
+          "scriptMessageId": "23306",
+          "speechCharactorId": "234",
+          "message": "てめェさっきから"
+        },
+        {
+          "scriptMessageId": "23307",
+          "speechCharactorId": "182",
+          "message": "…そうだな\r\n…罪人のオレにふさわしい…\r\n最期だ"
+        },
+        {
+          "scriptMessageId": "23308",
+          "speechCharactorId": "235",
+          "message": "ナルト、今度はオレが陽動をかける…"
+        },
+        {
+          "scriptMessageId": "23309",
+          "speechCharactorId": "235",
+          "message": "そいつはもう助からん\r\n…こっちへ来い"
+        },
+        {
+          "scriptMessageId": "23310",
+          "speechCharactorId": "234",
+          "message": "……"
+        },
+        {
+          "scriptMessageId": "23311",
+          "speechCharactorId": "235",
+          "message": "先に行く"
+        },
+        {
+          "scriptMessageId": "23312",
+          "speechCharactorId": "234",
+          "message": "くそ！くそ！！"
+        },
+        {
+          "scriptMessageId": "23313",
+          "speechCharactorId": "182",
+          "message": "………もういい…"
+        },
+        {
+          "scriptMessageId": "23314",
+          "speechCharactorId": "182",
+          "message": "ありがとな…ナルト"
+        },
+        {
+          "scriptMessageId": "23315",
+          "speechCharactorId": "182",
+          "message": "…オレはお前と戦って\r\n何か目が覚めた様な気がした"
+        },
+        {
+          "scriptMessageId": "23316",
+          "speechCharactorId": "182",
+          "message": "…まるでな…\r\nお前を見ていると\r\n昔の自分を見てる様で…"
+        },
+        {
+          "scriptMessageId": "23317",
+          "speechCharactorId": "182",
+          "message": "今の自分を後悔した"
+        },
+        {
+          "scriptMessageId": "23318",
+          "speechCharactorId": "182",
+          "message": "だが…何よりそれが…\r\nなぜだか嬉しくもあってな…"
+        },
+        {
+          "scriptMessageId": "23319",
+          "speechCharactorId": "182",
+          "message": "お前にはこれから\r\nまだまだ多くの苦しみがあるだろう…"
+        },
+        {
+          "scriptMessageId": "23320",
+          "speechCharactorId": "182",
+          "message": "だが…それでもお前は\r\n変わることなく\r\nその忍道を貫き通せ"
+        },
+        {
+          "scriptMessageId": "23321",
+          "speechCharactorId": "182",
+          "message": "…いつかオレに言ったな"
+        },
+        {
+          "scriptMessageId": "23322",
+          "speechCharactorId": "182",
+          "message": "まっすぐ自分の言葉は曲げない"
+        },
+        {
+          "scriptMessageId": "23323",
+          "speechCharactorId": "182",
+          "message": "…それがオレの忍道だ…だったか？"
+        },
+        {
+          "scriptMessageId": "23324",
+          "speechCharactorId": "234",
+          "message": "ああ…"
+        },
+        {
+          "scriptMessageId": "23325",
+          "speechCharactorId": "182",
+          "message": "ナルト…"
+        },
+        {
+          "scriptMessageId": "23326",
+          "speechCharactorId": "182",
+          "message": "お前は…必ず火影になれ"
+        },
+        {
+          "scriptMessageId": "23327",
+          "speechCharactorId": "234",
+          "message": "………ああ！！！"
+        },
+        {
+          "scriptMessageId": "23328",
+          "speechCharactorId": "561",
+          "message": "裏切り者の虫ケラがやっと死んだか！！"
+        },
+        {
+          "scriptMessageId": "23329",
+          "speechCharactorId": "561",
+          "message": "虫けらは虫けらでも\r\nこのしつこさはゴキブリだったなっ！"
+        },
+        {
+          "scriptMessageId": "23330",
+          "speechCharactorId": "561",
+          "message": "アハハハハ！"
+        },
+        {
+          "scriptMessageId": "23331",
+          "speechCharactorId": "234",
+          "message": "オビトを笑うなっ！！！"
+        },
+        {
+          "scriptMessageId": "23332",
+          "speechCharactorId": "484",
+          "message": "集まれ\r\n作戦を伝える"
+        },
+        {
+          "scriptMessageId": "23333",
+          "speechCharactorId": "484",
+          "message": "これがオレ達\r\n元第七班としての"
+        },
+        {
+          "scriptMessageId": "23334",
+          "speechCharactorId": "484",
+          "message": "最後の任務だ！"
+        },
+        {
+          "scriptMessageId": "23335",
+          "speechCharactorId": "484",
+          "message": "オレ達で世界を救うぞ！"
+        },
+        {
+          "scriptMessageId": "23336",
+          "speechCharactorId": "297",
+          "message": "このままでは…\r\nここは一度…"
+        },
+        {
+          "scriptMessageId": "23337",
+          "speechCharactorId": "454",
+          "message": "私だっているんだ！！"
+        },
+        {
+          "scriptMessageId": "23338",
+          "speechCharactorId": "454",
+          "message": "同じ女なら――"
+        },
+        {
+          "scriptMessageId": "23339",
+          "speechCharactorId": "454",
+          "message": "バカにしないで！！！"
+        },
+        {
+          "scriptMessageId": "23340",
+          "speechCharactorId": "484",
+          "message": "うん、いい画だ"
+        },
+        {
+          "scriptMessageId": "23341",
+          "speechCharactorId": "484",
+          "message": "今のお前らは――"
+        },
+        {
+          "scriptMessageId": "23342",
+          "speechCharactorId": "484",
+          "message": "大好きだ"
+        },
+        {
+          "scriptMessageId": "23343",
+          "speechCharactorId": "235",
+          "message": "今だ！！"
+        },
+        {
+          "scriptMessageId": "23344",
+          "speechCharactorId": "454",
+          "message": "しゃーんなろー！！！"
+        },
+        {
+          "scriptMessageId": "23345",
+          "speechCharactorId": "234",
+          "message": "よっしゃー！！！"
+        },
+        {
+          "scriptMessageId": "23346",
+          "speechCharactorId": "234",
+          "message": "六道"
+        },
+        {
+          "scriptMessageId": "23347",
+          "speechCharactorId": "235",
+          "message": "地爆天星"
+        },
+        {
+          "scriptMessageId": "23348",
+          "speechCharactorId": "297",
+          "message": "またしても……"
+        },
+        {
+          "scriptMessageId": "23349",
+          "speechCharactorId": "297",
+          "message": "このチャクラの祖であるワラワが……"
+        },
+        {
+          "scriptMessageId": "23350",
+          "speechCharactorId": "297",
+          "message": "この様な分散した\r\nチャクラ共に敗れるとは…"
+        },
+        {
+          "scriptMessageId": "23351",
+          "speechCharactorId": "297",
+          "message": "何故だ……！！！？？"
+        },
+        {
+          "scriptMessageId": "23352",
+          "speechCharactorId": "297",
+          "message": "なぜ……"
+        },
+        {
           "scriptMessageId": "40001",
           "speechCharactorId": "178",
           "message": "絶望しかないこの世界に\r\n存在する価値はない"
