@@ -1,0 +1,17 @@
+{
+  "name": "discord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "discord.js": "^11.4.2",
+    "npm": "^6.4.0",
+    "promise": "^8.0.1"
+  }
+}
