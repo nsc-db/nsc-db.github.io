@@ -2,7 +2,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1",
           "nameIdx": "1",
-          "description": "敵単体に攻撃力7％＋560のダメージを与える",
+          "description": "Deal 7% + 560 to one enemy",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1",
@@ -38,7 +38,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2",
           "nameIdx": "2",
-          "description": "敵全体に2.2倍の攻撃力で攻撃する",
+          "description": "Deal 2.2x ATK Damage to all enemies",
           "categoryId": "1",
           "levelType": "1",
           "scriptId": "2",
@@ -74,7 +74,7 @@ window.skill=[
         {
           "cardBattleSkillId": "3",
           "nameIdx": "3",
-          "description": "自分の攻撃力を１００％アップする",
+          "description": "Own ATK +100%",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "3",
@@ -110,7 +110,7 @@ window.skill=[
         {
           "cardBattleSkillId": "4",
           "nameIdx": "4",
-          "description": "敵単体に1.8倍の攻撃力で攻撃する。確率で敵の防御力を25%ダウンさせる",
+          "description": "Deal 1.8x ATK Damage to one enemy with a chance to reduce DEF by 25%",
           "categoryId": "1",
           "levelType": "1",
           "scriptId": "4",
@@ -146,7 +146,7 @@ window.skill=[
         {
           "cardBattleSkillId": "5",
           "nameIdx": "5",
-          "description": "敵全体に攻撃力3％＋175のダメージを与える",
+          "description": "Deal 3% + 175 to all enemies",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "5",
@@ -182,7 +182,7 @@ window.skill=[
         {
           "cardBattleSkillId": "6",
           "nameIdx": "6",
-          "description": "敵単体に攻撃力7％＋770のダメージを与える",
+          "description": "Deal 7% + 770 to one enemy",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "6",
@@ -254,7 +254,7 @@ window.skill=[
         {
           "cardBattleSkillId": "8",
           "nameIdx": "8",
-          "description": "敵単体に攻撃力7％＋870のダメージを与える",
+          "description": "Deal 7% + 870 to one enemy",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "8",
@@ -290,7 +290,7 @@ window.skill=[
         {
           "cardBattleSkillId": "9",
           "nameIdx": "9",
-          "description": "自分の防御力を５０％アップする",
+          "description": "Own DEF +50%",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "9",
@@ -326,7 +326,7 @@ window.skill=[
         {
           "cardBattleSkillId": "10",
           "nameIdx": "10",
-          "description": "敵単体に攻撃力7％＋560のダメージを与える",
+          "description": "Deal 7% + 560 to one enemy",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "10",
@@ -362,7 +362,7 @@ window.skill=[
         {
           "cardBattleSkillId": "11",
           "nameIdx": "11",
-          "description": "味方全体の攻撃力と防御力を２０％アップさせる",
+          "description": "All allies ATK and DEF +20%",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "3",
@@ -398,7 +398,7 @@ window.skill=[
         {
           "cardBattleSkillId": "12",
           "nameIdx": "12",
-          "description": "敵単体に攻撃力7％+227のダメージを与える。確率で麻痺状態にする",
+          "description": "Deal 7% + 227 to one enemy with a chhance to Paralyze",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "12",
@@ -722,7 +722,7 @@ window.skill=[
         {
           "cardBattleSkillId": "21",
           "nameIdx": "21",
-          "description": "敵全体に2.2倍の攻撃力で攻撃する",
+          "description": "Deal 2.2x ATK Damage to all enemies",
           "categoryId": "1",
           "levelType": "1",
           "scriptId": "21",
@@ -1154,7 +1154,7 @@ window.skill=[
         {
           "cardBattleSkillId": "33",
           "nameIdx": "33",
-          "description": "敵単体に攻撃力7％＋560のダメージを与える",
+          "description": "Deal 7% + 560 to one enemy",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "33",
@@ -1622,7 +1622,7 @@ window.skill=[
         {
           "cardBattleSkillId": "46",
           "nameIdx": "46",
-          "description": "敵単体に攻撃力7％＋560のダメージを与える",
+          "description": "Deal 7% + 560 to one enemy",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "33",
@@ -2738,7 +2738,7 @@ window.skill=[
         {
           "cardBattleSkillId": "77",
           "nameIdx": "77",
-          "description": "敵全体に攻撃力3％＋175のダメージを与える。確率で毒状態にする",
+          "description": "Deal 3% + 175 to all enemies。確率で毒状態にする",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "25",
@@ -3530,7 +3530,7 @@ window.skill=[
         {
           "cardBattleSkillId": "99",
           "nameIdx": "35",
-          "description": "敵単体に攻撃力7％＋560のダメージを与える",
+          "description": "Deal 7% + 560 to one enemy",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "35",
@@ -3962,7 +3962,7 @@ window.skill=[
         {
           "cardBattleSkillId": "111",
           "nameIdx": "6",
-          "description": "敵単体に攻撃力7％＋560のダメージを与える",
+          "description": "Deal 7% + 560 to one enemy",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "111",
@@ -4250,7 +4250,7 @@ window.skill=[
         {
           "cardBattleSkillId": "119",
           "nameIdx": "119",
-          "description": "敵単体に攻撃力7％＋560のダメージを与える",
+          "description": "Deal 7% + 560 to one enemy",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "119",
@@ -4322,7 +4322,7 @@ window.skill=[
         {
           "cardBattleSkillId": "121",
           "nameIdx": "121",
-          "description": "敵単体に攻撃力7％＋560のダメージを与える",
+          "description": "Deal 7% + 560 to one enemy",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "121",
@@ -4394,7 +4394,7 @@ window.skill=[
         {
           "cardBattleSkillId": "123",
           "nameIdx": "123",
-          "description": "敵全体に2.2倍の攻撃力で攻撃する",
+          "description": "Deal 2.2x ATK Damage to all enemies",
           "categoryId": "1",
           "levelType": "1",
           "scriptId": "123",
@@ -4610,7 +4610,7 @@ window.skill=[
         {
           "cardBattleSkillId": "129",
           "nameIdx": "1",
-          "description": "敵単体に攻撃力7％＋560のダメージを与える",
+          "description": "Deal 7% + 560 to one enemy",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1",
@@ -5114,7 +5114,7 @@ window.skill=[
         {
           "cardBattleSkillId": "143",
           "nameIdx": "143",
-          "description": "敵単体に攻撃力7％＋560のダメージを与える",
+          "description": "Deal 7% + 560 to one enemy",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "143",
@@ -6194,7 +6194,7 @@ window.skill=[
         {
           "cardBattleSkillId": "173",
           "nameIdx": "173",
-          "description": "敵全体に攻撃力3％＋175のダメージを与える",
+          "description": "Deal 3% + 175 to all enemies",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "5",
@@ -6230,7 +6230,7 @@ window.skill=[
         {
           "cardBattleSkillId": "174",
           "nameIdx": "18",
-          "description": "敵全体に攻撃力3％＋175のダメージを与える",
+          "description": "Deal 3% + 175 to all enemies",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "18",
@@ -7166,7 +7166,7 @@ window.skill=[
         {
           "cardBattleSkillId": "200",
           "nameIdx": "200",
-          "description": "敵単体に攻撃力7％＋770のダメージを与える",
+          "description": "Deal 7% + 770 to one enemy",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "200",
@@ -7202,7 +7202,7 @@ window.skill=[
         {
           "cardBattleSkillId": "201",
           "nameIdx": "1",
-          "description": "敵単体に攻撃力7％＋560のダメージを与える",
+          "description": "Deal 7% + 560 to one enemy",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1",
@@ -7238,7 +7238,7 @@ window.skill=[
         {
           "cardBattleSkillId": "202",
           "nameIdx": "14",
-          "description": "敵単体に攻撃力7％＋560のダメージを与える。確率で封印状態にする",
+          "description": "Deal 7% + 560 to one enemy。確率で封印状態にする",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "14",
@@ -7274,7 +7274,7 @@ window.skill=[
         {
           "cardBattleSkillId": "203",
           "nameIdx": "6",
-          "description": "敵単体に攻撃力7％＋560のダメージを与える",
+          "description": "Deal 7% + 560 to one enemy",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "6",
@@ -7382,7 +7382,7 @@ window.skill=[
         {
           "cardBattleSkillId": "206",
           "nameIdx": "200",
-          "description": "敵単体に攻撃力7％＋560のダメージを与える",
+          "description": "Deal 7% + 560 to one enemy",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "206",
@@ -7598,7 +7598,7 @@ window.skill=[
         {
           "cardBattleSkillId": "212",
           "nameIdx": "212",
-          "description": "敵単体に攻撃力7％＋770のダメージを与える",
+          "description": "Deal 7% + 770 to one enemy",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "212",
@@ -8606,7 +8606,7 @@ window.skill=[
         {
           "cardBattleSkillId": "240",
           "nameIdx": "46",
-          "description": "敵単体に攻撃力7％＋560のダメージを与える。",
+          "description": "Deal 7% + 560 to one enemy。",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "240",
@@ -9146,7 +9146,7 @@ window.skill=[
         {
           "cardBattleSkillId": "255",
           "nameIdx": "255",
-          "description": "敵単体に攻撃力7％＋770のダメージを与える。",
+          "description": "Deal 7% + 770 to one enemy。",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "255",
@@ -9362,7 +9362,7 @@ window.skill=[
         {
           "cardBattleSkillId": "261",
           "nameIdx": "119",
-          "description": "敵単体に攻撃力7％＋870のダメージを与える。",
+          "description": "Deal 7% + 870 to one enemy。",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "261",
@@ -9722,7 +9722,7 @@ window.skill=[
         {
           "cardBattleSkillId": "271",
           "nameIdx": "271",
-          "description": "敵単体に攻撃力7％＋560のダメージを与える",
+          "description": "Deal 7% + 560 to one enemy",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "271",
@@ -9938,7 +9938,7 @@ window.skill=[
         {
           "cardBattleSkillId": "277",
           "nameIdx": "271",
-          "description": "敵単体に攻撃力7％＋560のダメージを与える",
+          "description": "Deal 7% + 560 to one enemy",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "271",
@@ -10154,7 +10154,7 @@ window.skill=[
         {
           "cardBattleSkillId": "283",
           "nameIdx": "283",
-          "description": "敵全体に2.2倍の攻撃力で攻撃する。",
+          "description": "Deal 2.2x ATK Damage to all enemies。",
           "categoryId": "1",
           "levelType": "1",
           "scriptId": "283",
@@ -10190,7 +10190,7 @@ window.skill=[
         {
           "cardBattleSkillId": "284",
           "nameIdx": "284",
-          "description": "敵単体に攻撃力7％＋770のダメージを与える。",
+          "description": "Deal 7% + 770 to one enemy。",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "284",
@@ -10622,7 +10622,7 @@ window.skill=[
         {
           "cardBattleSkillId": "296",
           "nameIdx": "296",
-          "description": "敵単体に攻撃力7％＋560のダメージを与える。",
+          "description": "Deal 7% + 560 to one enemy。",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "296",
@@ -12854,7 +12854,7 @@ window.skill=[
         {
           "cardBattleSkillId": "358",
           "nameIdx": "8",
-          "description": "敵単体に攻撃力7％＋560のダメージを与える。",
+          "description": "Deal 7% + 560 to one enemy。",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "8",
@@ -12890,7 +12890,7 @@ window.skill=[
         {
           "cardBattleSkillId": "359",
           "nameIdx": "200",
-          "description": "敵単体に攻撃力7％＋560のダメージを与える。",
+          "description": "Deal 7% + 560 to one enemy。",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "200",
@@ -14906,7 +14906,7 @@ window.skill=[
         {
           "cardBattleSkillId": "415",
           "nameIdx": "415",
-          "description": "敵単体に攻撃力7％＋870のダメージを与える。",
+          "description": "Deal 7% + 870 to one enemy。",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "415",
@@ -14942,7 +14942,7 @@ window.skill=[
         {
           "cardBattleSkillId": "416",
           "nameIdx": "416",
-          "description": "敵単体に攻撃力7％＋560のダメージを与える。",
+          "description": "Deal 7% + 560 to one enemy。",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "416",
@@ -15158,7 +15158,7 @@ window.skill=[
         {
           "cardBattleSkillId": "422",
           "nameIdx": "422",
-          "description": "敵単体に攻撃力7％＋770のダメージを与える。",
+          "description": "Deal 7% + 770 to one enemy。",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "422",
@@ -16346,7 +16346,7 @@ window.skill=[
         {
           "cardBattleSkillId": "455",
           "nameIdx": "6",
-          "description": "敵単体に攻撃力7％＋560のダメージを与える。",
+          "description": "Deal 7% + 560 to one enemy。",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "455",
@@ -16418,7 +16418,7 @@ window.skill=[
         {
           "cardBattleSkillId": "457",
           "nameIdx": "200",
-          "description": "敵単体に攻撃力7％＋560のダメージを与える。",
+          "description": "Deal 7% + 560 to one enemy。",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "200",
@@ -17210,7 +17210,7 @@ window.skill=[
         {
           "cardBattleSkillId": "479",
           "nameIdx": "14",
-          "description": "敵単体に攻撃力7％＋560のダメージを与える。確率で封印状態にする。",
+          "description": "Deal 7% + 560 to one enemy。確率で封印状態にする。",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "479",
@@ -17426,7 +17426,7 @@ window.skill=[
         {
           "cardBattleSkillId": "488",
           "nameIdx": "488",
-          "description": "敵単体に攻撃力7％＋560のダメージを与える。",
+          "description": "Deal 7% + 560 to one enemy。",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "488",
@@ -18470,7 +18470,7 @@ window.skill=[
         {
           "cardBattleSkillId": "517",
           "nameIdx": "159",
-          "description": "敵単体に攻撃力7％＋560のダメージを与える。確率で麻痺させる。",
+          "description": "Deal 7% + 560 to one enemy。確率で麻痺させる。",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "159",
@@ -19154,7 +19154,7 @@ window.skill=[
         {
           "cardBattleSkillId": "536",
           "nameIdx": "534",
-          "description": "敵単体に攻撃力7％＋560のダメージを与える。確率で麻痺させる。",
+          "description": "Deal 7% + 560 to one enemy。確率で麻痺させる。",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "534",
@@ -19658,7 +19658,7 @@ window.skill=[
         {
           "cardBattleSkillId": "550",
           "nameIdx": "1",
-          "description": "敵単体に攻撃力7％＋560のダメージを与える。",
+          "description": "Deal 7% + 560 to one enemy。",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1",
@@ -20054,7 +20054,7 @@ window.skill=[
         {
           "cardBattleSkillId": "561",
           "nameIdx": "143",
-          "description": "敵単体に攻撃力7％＋560のダメージを与える。",
+          "description": "Deal 7% + 560 to one enemy。",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "143",
@@ -20954,7 +20954,7 @@ window.skill=[
         {
           "cardBattleSkillId": "586",
           "nameIdx": "361",
-          "description": "敵単体に攻撃力7％＋560のダメージを与える。確率でスキル会心が発生しダメージが増加する。",
+          "description": "Deal 7% + 560 to one enemy。確率でスキル会心が発生しダメージが増加する。",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "361",
@@ -21242,7 +21242,7 @@ window.skill=[
         {
           "cardBattleSkillId": "594",
           "nameIdx": "35",
-          "description": "敵単体に攻撃力7％＋560のダメージを与える。",
+          "description": "Deal 7% + 560 to one enemy。",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "35",
@@ -21638,7 +21638,7 @@ window.skill=[
         {
           "cardBattleSkillId": "605",
           "nameIdx": "605",
-          "description": "敵単体に攻撃力7％＋560のダメージを与える。確率で封印状態にする。",
+          "description": "Deal 7% + 560 to one enemy。確率で封印状態にする。",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "605",
@@ -22322,7 +22322,7 @@ window.skill=[
         {
           "cardBattleSkillId": "624",
           "nameIdx": "624",
-          "description": "敵単体に攻撃力7％＋560のダメージを与える。",
+          "description": "Deal 7% + 560 to one enemy。",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "624",
@@ -22754,7 +22754,7 @@ window.skill=[
         {
           "cardBattleSkillId": "636",
           "nameIdx": "1",
-          "description": "敵単体に攻撃力7％＋770のダメージを与える",
+          "description": "Deal 7% + 770 to one enemy",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "636",
@@ -23582,7 +23582,7 @@ window.skill=[
         {
           "cardBattleSkillId": "659",
           "nameIdx": "212",
-          "description": "敵単体に攻撃力7％＋770のダメージを与える。",
+          "description": "Deal 7% + 770 to one enemy。",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "212",
@@ -23654,7 +23654,7 @@ window.skill=[
         {
           "cardBattleSkillId": "661",
           "nameIdx": "1",
-          "description": "敵単体に攻撃力7％＋770のダメージを与える。",
+          "description": "Deal 7% + 770 to one enemy。",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "661",
@@ -25346,7 +25346,7 @@ window.skill=[
         {
           "cardBattleSkillId": "709",
           "nameIdx": "33",
-          "description": "敵単体に攻撃力7％＋560のダメージを与える。",
+          "description": "Deal 7% + 560 to one enemy。",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "33",
@@ -31178,7 +31178,7 @@ window.skill=[
         {
           "cardBattleSkillId": "871",
           "nameIdx": "1",
-          "description": "敵単体に攻撃力7％＋770のダメージを与える。確率で気絶状態にする。",
+          "description": "Deal 7% + 770 to one enemy。確率で気絶状態にする。",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "1",
@@ -61130,7 +61130,7 @@ window.skill=[
         {
           "cardBattleSkillId": "1705",
           "nameIdx": "212",
-          "description": "敵単体に攻撃力7％＋770のダメージを与える。自身を含む、生存している木ノ葉隠れの里所属の味方が多いほどダメージが上がり、5人で最大2倍。",
+          "description": "Deal 7% + 770 to one enemy。自身を含む、生存している木ノ葉隠れの里所属の味方が多いほどダメージが上がり、5人で最大2倍。",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "212",
