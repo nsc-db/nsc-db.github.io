@@ -17498,7 +17498,7 @@ window.ability=[
         {
           "abilityId": "1982",
           "abilityName": "Another Madara",
-          "abilityDescription": "When HP reaco 0, revive 4 times",
+          "abilityDescription": "When HP reach 0, revive 4 times",
           "abilityEffectDescription": "HPが0以下で4回までHPが全回復する",
           "effectIdx1": "1737",
           "effectIdx2": "874",
