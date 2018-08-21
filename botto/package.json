@@ -12,6 +12,7 @@
     "bluebird": "^3.5.1",
     "discord.js": "^11.4.2",
     "npm": "^6.4.0",
-    "promise": "^8.0.1"
+    "promise": "^8.0.1",
+    "url-exists": "^1.0.3"
   }
 }

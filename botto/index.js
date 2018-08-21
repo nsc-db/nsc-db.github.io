@@ -2,6 +2,7 @@ const Discord = require('discord.js');
 const client = new Discord.Client();
 var fs = require('fs');
 var Promise = require('bluebird');
+var exists = require('url-exists');
 
 // var skillNames = require('/eng/skillNames.js');
 
@@ -137,34 +138,40 @@ client.on('message', message => {
 
             Promise.all(charInfo).then(function(abc) {
 
+                console.log(abc)
 
-                color: 3447003,
-                author: {
-                  name: client.user.username,
-                  icon_url: client.user.avatarURL
-                },
-                title: "This is an embed",
-                url: "http://google.com",
-                description: "This is a test embed to showcase what they look like and what they can do.",
-                fields: [{
-                    name: "Fields",
-                    value: "They can have different fields with small headlines."
-                  },
-                  {
-                    name: "Masked links",
-                    value: "You can put [masked links](http://google.com) inside of rich embeds."
-                  },
-                  {
-                    name: "Markdown",
-                    value: "You can put all the *usual* **__Markdown__** inside of them."
+                message.channel.send({embed: {
+                    color: 3447003,
+                    author: {
+                      name: client.user.username,
+                      icon_url: client.user.avatarURL
+                    },
+                    "thumbnail": {
+                        "url": "http://nsc-db.github.io/common/assets/img/units/" + x + ".png"
+                      },
+                    // Thumbnail : '',
+                    title: "Name",
+                    description: abc[5] +', ' + Ids[6],
+                    fields: [{
+                        name: "Skills",
+                        value: '**Skill1** : ' + abc[2] + '\n**Skill2** : ' + abc[3],
+                      },
+                      {
+                        name: "Passives",
+                        value: '**Ability1** : ' + abc[0] + '\n**Ability2** : ' + abc[1],
+                      },
+                      {
+                        name: "Leader Skill",
+                        value: "" + abc[4]
+                      }
+                    ],
+                    // timestamp: new Date(),
+                    // footer: {
+                    //   icon_url: client.user.avatarURL,
+                    //   text: "© Example"
+                    // }
                   }
-                ],
-                timestamp: new Date(),
-                footer: {
-                  icon_url: client.user.avatarURL,
-                  text: "© Example"
-                }
-              }
+                });
 
                             
                             // message.channel.send('**Name** : ' + abc[5] + ', ' + Ids[6] + '\n**Skill1** : ' + abc[2] + '\n**Skill2** : ' + abc[3] + '**\nAbility1** : ' + abc[0] + '\n**Ability2** : ' + abc[1] + '\n**Lead** : ' + abc[4])
