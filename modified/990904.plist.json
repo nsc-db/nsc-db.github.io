@@ -510,58 +510,6 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
-          "worldStageId": "2081",
-          "worldAreaId": "5",
-          "priority": "30",
-          "name": "自来也のスパルタ修業-周年特別篇-",
-          "description": "ドロップ報酬で【全術の巻物】をゲットしよう！",
-          "notice": "※敵からドロップするスキル強化巻物は全て【全術の巻物】になります\r\n※イベントの難易度はB～Sランクとなります",
-          "type": "0",
-          "prerequisiteWorldStageId": "0",
-          "openWeek": null,
-          "openTime": "0000.00.00 00:00:00",
-          "closeTime": "0000.00.00 00:00:00"
-        },
-        {
-          "worldStageId": "2085",
-          "worldAreaId": "5",
-          "priority": "30",
-          "name": "ナルト・長門のド根性忍伝!-周年特別篇-",
-          "description": "任務クリアで強化素材を大量獲得！\r\nプレイに制限はありません。",
-          "notice": "0",
-          "type": "0",
-          "prerequisiteWorldStageId": "0",
-          "openWeek": null,
-          "openTime": "0000.00.00 00:00:00",
-          "closeTime": "0000.00.00 00:00:00"
-        },
-        {
-          "worldStageId": "2086",
-          "worldAreaId": "5",
-          "priority": "30",
-          "name": "大蛇丸の覚醒実験室-周年特別篇-",
-          "description": "ドロップ報酬で【覚醒素材】をゲットしよう！\r\n忍界秘伝書、忍水晶は「商店」の「交換所」から\r\n各種忍玉と交換できるぞ",
-          "notice": "※イベントの内容及び日程は告知なく変更となる場合がございます。\r\n※敵からドロップする覚醒素材は【忍玉、忍水晶、忍界秘伝書、猿王】になります。\r\n※イベントの難易度は猿王と忍玉ランクの二つになります。",
-          "type": "0",
-          "prerequisiteWorldStageId": "0",
-          "openWeek": null,
-          "openTime": "0000.00.00 00:00:00",
-          "closeTime": "0000.00.00 00:00:00"
-        },
-        {
-          "worldStageId": "2087",
-          "worldAreaId": "5",
-          "priority": "30",
-          "name": "角都の超手配書-周年特別篇-",
-          "description": "ドロップ報酬で【金のガマ口】をゲットしよう！",
-          "notice": "※イベントの内容及び日程は告知なく変更となる場合がございます。\r\n※イベント難易度はAランクのみとなります。",
-          "type": "0",
-          "prerequisiteWorldStageId": "0",
-          "openWeek": null,
-          "openTime": "0000.00.00 00:00:00",
-          "closeTime": "0000.00.00 00:00:00"
-        },
-        {
           "worldStageId": "4080",
           "worldAreaId": "5",
           "priority": "5",
