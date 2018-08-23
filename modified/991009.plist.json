@@ -724,8 +724,8 @@
         },
         {
           "shopExchangeItemId": "150",
-          "itemName": "復刻Pt弐",
-          "itemImgId": "51"
+          "itemName": "個人Pt",
+          "itemImgId": "23"
         },
         {
           "shopExchangeItemId": "151",
@@ -1398,6 +1398,11 @@
           "itemImgId": "23"
         },
         {
+          "shopExchangeItemId": "287",
+          "itemName": "昇級試験Pt",
+          "itemImgId": "128"
+        },
+        {
           "shopExchangeItemId": "1001",
           "itemName": "下心Pt",
           "itemImgId": "166"
@@ -1476,6 +1481,16 @@
           "shopExchangeItemId": "1016",
           "itemName": "収集Pt",
           "itemImgId": "22"
+        },
+        {
+          "shopExchangeItemId": "1017",
+          "itemName": "3周年昇級交換券弐",
+          "itemImgId": "1017"
+        },
+        {
+          "shopExchangeItemId": "1018",
+          "itemName": "超忍具交換券",
+          "itemImgId": "1018"
         },
         {
           "shopExchangeItemId": "2000",
