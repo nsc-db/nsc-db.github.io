@@ -87842,7 +87842,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2489",
           "nameIdx": "2494",
-          "description": "Deal 3% + 66,666 to all enemies and their Chakra Cost +50%. Deal 25x damage to Gods and Champions. Deal 5x damage if the Terrain is 'Origin Sphere Space'",
+          "description": "Deal 3% + 66,666 to all enemies. Deal 25x damage to Gods and Champions. Deal 5x damage if the Terrain is 'Origin Sphere Space' and reduce all enemies Chakra by 50",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2489",
