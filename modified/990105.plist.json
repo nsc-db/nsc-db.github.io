@@ -5271,6 +5271,10 @@
           "name": "闇がなければ作ればよい"
         },
         {
+          "cardBattleSkillNameId": "2503",
+          "name": "勝負アリです！"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },
@@ -5393,6 +5397,18 @@
         {
           "cardBattleSkillNameId": "20500",
           "name": "トロフィーの怒り"
+        },
+        {
+          "cardBattleSkillNameId": "20600",
+          "name": "ザザ…ザザ…"
+        },
+        {
+          "cardBattleSkillNameId": "20601",
+          "name": "ゴソ…ゴソ…"
+        },
+        {
+          "cardBattleSkillNameId": "20602",
+          "name": "ガサ…ガサ…"
         }
       ]
     }

@@ -1493,6 +1493,11 @@
           "itemImgId": "1018"
         },
         {
+          "shopExchangeItemId": "1019",
+          "itemName": "収集Pt",
+          "itemImgId": "22"
+        },
+        {
           "shopExchangeItemId": "2000",
           "itemName": "忍交換券(8月)",
           "itemImgId": "43"

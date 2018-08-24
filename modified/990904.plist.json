@@ -445,6 +445,19 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
+          "worldStageId": "1185",
+          "worldAreaId": "5",
+          "priority": "1",
+          "name": "これからもよろしくだってばよ！",
+          "description": "感謝をこめて報酬盛りだくさん！\r\n収集Ptを集めて推薦状や様々なキャラクターの\r\nマイぺ配置物と交換しよう！",
+          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
           "worldStageId": "2061",
           "worldAreaId": "5",
           "priority": "30",
@@ -460,7 +473,7 @@
         {
           "worldStageId": "4051",
           "worldAreaId": "5",
-          "priority": "2",
+          "priority": "3",
           "name": "新たなる三竦み",
           "description": "個人Ptを集めて★5うちはマダラ[孤高の伝説]や\r\n固有忍具を獲得しよう！\r\n★5うちはマダラ[孤高の伝説]は\r\n次回復刻イベントで特効！",
           "notice": "※個人Ptはイベントの開催期間中に獲得した物のみ有効となります\r\n※個人Pt報酬は、達成と同時に直接付与されます。",
@@ -698,6 +711,19 @@
           "name": "陰陽の戦神",
           "description": "超強力な新規忍具登場！\r\n超高難易度任務をクリアし、素材を手に入れよう",
           "notice": "※イベントの内容及び日程は告知なく変更となる場合がございます。\r\n※イベント難易度は超絶、神忍ランクとなります。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
+          "worldStageId": "5114",
+          "worldAreaId": "5",
+          "priority": "2",
+          "name": "シマのおいしい!?クッキング",
+          "description": "チャンスタイム中は、\r\nいずれかのステージでドロップ2倍！！\r\n\r\n＜ドロップ2倍のチャンスタイム＞\r\n・12:00～12:59、20:00～20:59",
+          "notice": "※イベントの内容及び日程は告知なく変更となる場合がございます。\r\n※イベント難易度はA、ドS、超ドS、超絶ランクとなります。",
           "type": "0",
           "prerequisiteWorldStageId": "0",
           "openWeek": null,

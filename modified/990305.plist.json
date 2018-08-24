@@ -1173,6 +1173,30 @@
           "materialImageId": "201"
         },
         {
+          "materialId": "202",
+          "materialName": "赤イモムシ",
+          "materialRare": "4",
+          "materialImageId": "202"
+        },
+        {
+          "materialId": "203",
+          "materialName": "黄イモムシ",
+          "materialRare": "4",
+          "materialImageId": "203"
+        },
+        {
+          "materialId": "204",
+          "materialName": "青イモムシ",
+          "materialRare": "4",
+          "materialImageId": "204"
+        },
+        {
+          "materialId": "205",
+          "materialName": "葉っぱ",
+          "materialRare": "3",
+          "materialImageId": "205"
+        },
+        {
           "materialId": "206",
           "materialName": "虚無のチャクラ",
           "materialRare": "3",

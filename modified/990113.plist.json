@@ -16076,7 +16076,7 @@
           "conditionType": "0",
           "conditionLower": "0",
           "conditionUpper": "0",
-          "parcent": "3000",
+          "parcent": "4000",
           "effectId": "2",
           "effectParam1": "1",
           "effectParam2": "15000",
@@ -22452,6 +22452,18 @@
           "effectId": "9",
           "effectParam1": "17",
           "effectParam2": "-3000",
+          "effectParam3": "0"
+        },
+        {
+          "cardEffectId": "1876",
+          "timing": "1",
+          "conditionType": "3",
+          "conditionLower": "0",
+          "conditionUpper": "2",
+          "parcent": "10000",
+          "effectId": "6",
+          "effectParam1": "0",
+          "effectParam2": "5000",
           "effectParam3": "0"
         },
         {

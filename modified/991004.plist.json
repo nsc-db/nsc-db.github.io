@@ -3375,6 +3375,24 @@
           "speechCharactorName": "春野サクラ"
         },
         {
+          "speechCharactorId": "566",
+          "cardId": "20040804",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うずまきナルト"
+        },
+        {
+          "speechCharactorId": "567",
+          "cardId": "20040805",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはサスケ"
+        },
+        {
+          "speechCharactorId": "568",
+          "cardId": "20040806",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "春野サクラ"
+        },
+        {
           "speechCharactorId": "1000",
           "cardId": "21000091",
           "speechCharactorImgId": "1000",
