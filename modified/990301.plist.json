@@ -15297,6 +15297,38 @@
           "crystalImageId": "8995",
           "recipeId": "10831",
           "recipeName": "テウチの挑戦状"
+        },
+        {
+          "crystalId": "10901",
+          "crystalType": "10",
+          "crystalRare": "5",
+          "effectIdx1": "712",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "カレーうどん",
+          "crystalDescription": "チャクラ消費量10%ダウン",
+          "crystalImageId": "109015",
+          "recipeId": "10901",
+          "recipeName": "カレーうどん"
+        },
+        {
+          "crystalId": "10902",
+          "crystalType": "3",
+          "crystalRare": "5",
+          "effectIdx1": "1140",
+          "effectIdx2": "11049",
+          "effectIdx3": "300011",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "ガイのサンダル",
+          "crystalDescription": "会心力100%アップ、攻撃力50%アップ、素早さ30%ダウン",
+          "crystalImageId": "109025",
+          "recipeId": "10902",
+          "recipeName": "ガイのサンダル"
         }
       ]
     }

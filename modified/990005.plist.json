@@ -503,6 +503,16 @@
           "enemyEffects": null
         },
         {
+          "battleFieldEffectId": "62",
+          "name": "紅き猛獣となる時",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "12118,",
+          "enemyEffects": null
+        },
+        {
           "battleFieldEffectId": "10001",
           "name": "始球空間",
           "category": "3",

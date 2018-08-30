@@ -1451,6 +1451,38 @@
           "equipStatus": "1"
         },
         {
+          "titleId": "263",
+          "title": "自分の大切なものを",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "264",
+          "title": "八門の",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "265",
+          "title": "お前の努力に",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "266",
+          "title": "青春に",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "1"
+        },
+        {
           "titleId": "1000",
           "title": "忍者学校生",
           "description": "",
@@ -2843,6 +2875,38 @@
           "equipStatus": "2"
         },
         {
+          "titleId": "1267",
+          "title": "死んでも守りぬく時",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1268",
+          "title": "開放者",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1269",
+          "title": "失礼だ",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1270",
+          "title": "後ろ向きはない",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "2"
+        },
+        {
           "titleId": "5000",
           "title": "忍道を極めし者",
           "description": "",
@@ -4125,6 +4189,22 @@
         {
           "titleId": "5250",
           "title": "否定する存在がマダラ",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5251",
+          "title": "紅き猛獣",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5253",
+          "title": "猫みたいな人",
           "description": "0",
           "color": "0",
           "effectIds": "0",

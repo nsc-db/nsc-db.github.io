@@ -393,19 +393,6 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
-          "worldStageId": "1178",
-          "worldAreaId": "5",
-          "priority": "6",
-          "name": "忘れえぬ憧れ",
-          "description": "収集Ptを集めて★５推薦状や\r\nマイぺ配置物を獲得しよう！",
-          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
-          "type": "0",
-          "prerequisiteWorldStageId": "0",
-          "openWeek": null,
-          "openTime": "0000.00.00 00:00:00",
-          "closeTime": "0000.00.00 00:00:00"
-        },
-        {
           "worldStageId": "1182",
           "worldAreaId": "5",
           "priority": "3",
@@ -424,19 +411,6 @@
           "priority": "3",
           "name": "封印を解かれし刻",
           "description": "新キャラ「大筒木カグヤ」がお試しキャラで登場！\r\nカグヤの圧倒的パワーで迫りくる神忍を打ち破れ！\r\n※大筒木カグヤのお試し回数は5回までとなります。",
-          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
-          "type": "0",
-          "prerequisiteWorldStageId": "0",
-          "openWeek": null,
-          "openTime": "0000.00.00 00:00:00",
-          "closeTime": "0000.00.00 00:00:00"
-        },
-        {
-          "worldStageId": "1184",
-          "worldAreaId": "5",
-          "priority": "7",
-          "name": "造られた過去",
-          "description": "収集Ptを集めて固有忍具と交換しよう！",
           "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
           "type": "0",
           "prerequisiteWorldStageId": "0",
@@ -484,11 +458,24 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
-          "worldStageId": "4080",
+          "worldStageId": "4052",
+          "worldAreaId": "5",
+          "priority": "9",
+          "name": "輝きへと続く道",
+          "description": "個人Ptを集めて★5うずまきナルト【育む絆】や\r\nナルト、ミナトの固有忍具を獲得しよう！\r\n★5うずまきナルト【育む絆】は\r\n次回復刻イベントで特効！",
+          "notice": "※個人Pt報酬は、達成と同時に直接付与されます。\r\n※報酬の付与にはお時間をいただく場合がございます。\r\n※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
+          "worldStageId": "4081",
           "worldAreaId": "5",
           "priority": "5",
-          "name": "月下に舞う輪廻の瞳",
-          "description": "ダメージランキング開催！\r\n与えたダメージの1/10000が個人Ptとなります\r\n個人Ptはイベント期間中のみ加算されます",
+          "name": "紅き猛獣となる時",
+          "description": "ダメージランキング開催！\r\n与えたダメージの1/1000が個人Ptとなります\r\n個人Ptはイベント期間中のみ加算されます",
           "notice": "※個人Pt報酬は、達成と同時に直接付与されます。\r\n※報酬の付与にはお時間をいただく場合がございます。\r\n※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
           "type": "0",
           "prerequisiteWorldStageId": "0",

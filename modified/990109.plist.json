@@ -17544,6 +17544,24 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "1995",
+          "abilityName": "リミッターの全開放",
+          "abilityDescription": "HP70%以上の時、通常攻撃が回避されない",
+          "abilityEffectDescription": "HP70%以上の時、通常攻撃が回避されない",
+          "effectIdx1": "1879",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1996",
+          "abilityName": "神域の体術",
+          "abilityDescription": "150％の確率でスキルを回避する",
+          "abilityEffectDescription": "150％の確率でスキルを回避する",
+          "effectIdx1": "1880",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

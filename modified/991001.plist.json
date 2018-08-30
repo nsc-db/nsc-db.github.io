@@ -62723,6 +62723,271 @@
           "message": "お祝いに一楽行こうぜ！"
         },
         {
+          "scriptMessageId": "41705",
+          "speechCharactorId": "232",
+          "message": "確かに望むことが全て\r\nできる訳じゃない…"
+        },
+        {
+          "scriptMessageId": "41706",
+          "speechCharactorId": "232",
+          "message": "しかしやるべきことは\r\nいつも望んでからでなければ\r\n始まらん"
+        },
+        {
+          "scriptMessageId": "41707",
+          "speechCharactorId": "232",
+          "message": "お前への挑戦がそうだったように"
+        },
+        {
+          "scriptMessageId": "41708",
+          "speechCharactorId": "232",
+          "message": "そしてこれは\r\n決して強がりではない"
+        },
+        {
+          "scriptMessageId": "41709",
+          "speechCharactorId": "195",
+          "message": "お前…\r\nまさか…！？"
+        },
+        {
+          "scriptMessageId": "41710",
+          "speechCharactorId": "232",
+          "message": "木ノ葉の碧き猛獣は終わり"
+        },
+        {
+          "scriptMessageId": "41711",
+          "speechCharactorId": "232",
+          "message": "紅き猛獣となる時が来たようだ"
+        },
+        {
+          "scriptMessageId": "41712",
+          "speechCharactorId": "195",
+          "message": "まさか…最後の死門を…！"
+        },
+        {
+          "scriptMessageId": "41713",
+          "speechCharactorId": "569",
+          "message": "ガイ先生…\r\nガイ先生にとって…"
+        },
+        {
+          "scriptMessageId": "41714",
+          "speechCharactorId": "569",
+          "message": "今が本当にその時なのですか！！？"
+        },
+        {
+          "scriptMessageId": "41715",
+          "speechCharactorId": "232",
+          "message": "リー…そんな顔をするな\r\n今度はお前が笑って見ていろ！！"
+        },
+        {
+          "scriptMessageId": "41716",
+          "speechCharactorId": "232",
+          "message": "第八――死門――"
+        },
+        {
+          "scriptMessageId": "41717",
+          "speechCharactorId": "232",
+          "message": "（父さん…今こそ――）"
+        },
+        {
+          "scriptMessageId": "41718",
+          "speechCharactorId": "417",
+          "message": "開！！！！"
+        },
+        {
+          "scriptMessageId": "41719",
+          "speechCharactorId": "417",
+          "message": "八門遁甲の陣！！！"
+        },
+        {
+          "scriptMessageId": "41720",
+          "speechCharactorId": "236",
+          "message": "心臓の点穴からみても…\r\n次が最後の攻撃となるな…"
+        },
+        {
+          "scriptMessageId": "41721",
+          "speechCharactorId": "417",
+          "message": "積！！！"
+        },
+        {
+          "scriptMessageId": "41722",
+          "speechCharactorId": "195",
+          "message": "……ガイ…！！"
+        },
+        {
+          "scriptMessageId": "41723",
+          "speechCharactorId": "482",
+          "message": "こいつは忍者アカデミーに入ろうとしてんのに\r\n忍術使えないみたいだし…"
+        },
+        {
+          "scriptMessageId": "41724",
+          "speechCharactorId": "482",
+          "message": "どう考えたって…"
+        },
+        {
+          "scriptMessageId": "41725",
+          "speechCharactorId": "570",
+          "message": "はたけカカシだったな！"
+        },
+        {
+          "scriptMessageId": "41726",
+          "speechCharactorId": "570",
+          "message": "応援ありがとう！！！"
+        },
+        {
+          "scriptMessageId": "41727",
+          "speechCharactorId": "482",
+          "message": "は？"
+        },
+        {
+          "scriptMessageId": "41728",
+          "speechCharactorId": "571",
+          "message": "カカシ…\r\nアカデミー入学が決まったからって\r\nうかうかしてられないよ"
+        },
+        {
+          "scriptMessageId": "41729",
+          "speechCharactorId": "571",
+          "message": "このままいくと\r\nあの子はお前よりも強くなる"
+        },
+        {
+          "scriptMessageId": "41730",
+          "speechCharactorId": "571",
+          "message": "彼の名前を聞いて覚えておくといい…\r\nいいライバルになるよ"
+        },
+        {
+          "scriptMessageId": "41731",
+          "speechCharactorId": "195",
+          "message": "本当に父さんの言った通りだったよ…"
+        },
+        {
+          "scriptMessageId": "41732",
+          "speechCharactorId": "236",
+          "message": "このチャクラ…！\r\n認めてやろう！"
+        },
+        {
+          "scriptMessageId": "41733",
+          "speechCharactorId": "236",
+          "message": "体術において……\r\nオレの戦った者で"
+        },
+        {
+          "scriptMessageId": "41734",
+          "speechCharactorId": "236",
+          "message": "お前の右に出る者は一人としておらん！！"
+        },
+        {
+          "scriptMessageId": "41735",
+          "speechCharactorId": "236",
+          "message": "お前が最強だと！！！"
+        },
+        {
+          "scriptMessageId": "41736",
+          "speechCharactorId": "417",
+          "message": "流！！！！"
+        },
+        {
+          "scriptMessageId": "41737",
+          "speechCharactorId": "236",
+          "message": "何！？"
+        },
+        {
+          "scriptMessageId": "41738",
+          "speechCharactorId": "236",
+          "message": "空間がねじ曲がっただと！？"
+        },
+        {
+          "scriptMessageId": "41739",
+          "speechCharactorId": "215",
+          "message": "夜ガイ！！！"
+        },
+        {
+          "scriptMessageId": "41740",
+          "speechCharactorId": "236",
+          "message": "赤い蒸気"
+        },
+        {
+          "scriptMessageId": "41741",
+          "speechCharactorId": "236",
+          "message": "八門全開時\r\n特有の…血の蒸気というやつか…"
+        },
+        {
+          "scriptMessageId": "41742",
+          "speechCharactorId": "236",
+          "message": "フフ…だがこうやって見ると\r\nなんだろうな…"
+        },
+        {
+          "scriptMessageId": "41743",
+          "speechCharactorId": "236",
+          "message": "まるで秋に朽ちる\r\n枯葉色…落ち葉の様よ"
+        },
+        {
+          "scriptMessageId": "41744",
+          "speechCharactorId": "417",
+          "message": "…確かにそうだ\r\nだが、ただ朽ちて落ちる訳ではない！！"
+        },
+        {
+          "scriptMessageId": "41745",
+          "speechCharactorId": "417",
+          "message": "それは新たな青葉の養分となるのだ！"
+        },
+        {
+          "scriptMessageId": "41746",
+          "speechCharactorId": "417",
+          "message": "そして青葉が芽吹く\r\n新たな春へと繋げる時こそが――"
+        },
+        {
+          "scriptMessageId": "41747",
+          "speechCharactorId": "417",
+          "message": "青春の最高潮！！\r\n真紅に燃える時！！！"
+        },
+        {
+          "scriptMessageId": "41748",
+          "speechCharactorId": "236",
+          "message": "ほう……"
+        },
+        {
+          "scriptMessageId": "41749",
+          "speechCharactorId": "236",
+          "message": "八門遁甲の陣とやり合うのは稀だ！"
+        },
+        {
+          "scriptMessageId": "41750",
+          "speechCharactorId": "236",
+          "message": "せっかくだ\r\n相手をしてやる！"
+        },
+        {
+          "scriptMessageId": "41751",
+          "speechCharactorId": "236",
+          "message": "空中を蹴り上がって来るとはな"
+        },
+        {
+          "scriptMessageId": "41752",
+          "speechCharactorId": "236",
+          "message": "…柱間以来だ\r\nこのワクワクは！"
+        },
+        {
+          "scriptMessageId": "41753",
+          "speechCharactorId": "236",
+          "message": "まだ踊れるだろ？\r\nさらに別の技はないのか？"
+        },
+        {
+          "scriptMessageId": "41754",
+          "speechCharactorId": "236",
+          "message": "もっと楽しませてくれ"
+        },
+        {
+          "scriptMessageId": "41755",
+          "speechCharactorId": "236",
+          "message": "ハハハ…いいぞォ！"
+        },
+        {
+          "scriptMessageId": "41756",
+          "speechCharactorId": "236",
+          "message": "もっと踊れ…！！"
+        },
+        {
+          "scriptMessageId": "41757",
+          "speechCharactorId": "236",
+          "message": "…"
+        },
+        {
           "scriptMessageId": "80000",
           "speechCharactorId": "59",
           "message": "試合開始！！\r\nはじめ！！"

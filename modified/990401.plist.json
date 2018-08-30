@@ -3818,6 +3818,16 @@
           "gachaTicketImgId": "594"
         },
         {
+          "gachaTicketId": "3305",
+          "gachaTicketName": "紅く揺らめく命の炎ガチャチケット",
+          "gachaTicketImgId": "3305"
+        },
+        {
+          "gachaTicketId": "3306",
+          "gachaTicketName": "紅く揺らめく命の炎25%",
+          "gachaTicketImgId": "3305"
+        },
+        {
           "gachaTicketId": "3309",
           "gachaTicketName": "超忍祭大放出ガチャチケット",
           "gachaTicketImgId": "3309"
@@ -3826,6 +3836,11 @@
           "gachaTicketId": "3310",
           "gachaTicketName": "超忍祭大放出★6",
           "gachaTicketImgId": "3310"
+        },
+        {
+          "gachaTicketId": "3320",
+          "gachaTicketName": "超忍祭[9月]確定",
+          "gachaTicketImgId": "336"
         },
         {
           "gachaTicketId": "100084",

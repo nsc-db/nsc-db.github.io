@@ -10052,6 +10052,19 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "785",
+          "name": "紅く揺らめく命の炎",
+          "description": "全属性の攻撃力と体術スキルダメージが80%アップする",
+          "effectIdx1": "550",
+          "effectIdx2": "591",
+          "effectIdx3": "0",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

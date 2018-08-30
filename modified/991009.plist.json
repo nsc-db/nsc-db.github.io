@@ -714,8 +714,8 @@
         },
         {
           "shopExchangeItemId": "148",
-          "itemName": "復刻Pt壱",
-          "itemImgId": "50"
+          "itemName": "個人Pt",
+          "itemImgId": "23"
         },
         {
           "shopExchangeItemId": "149",
@@ -1403,6 +1403,11 @@
           "itemImgId": "128"
         },
         {
+          "shopExchangeItemId": "289",
+          "itemName": "個人Pt",
+          "itemImgId": "23"
+        },
+        {
           "shopExchangeItemId": "1001",
           "itemName": "下心Pt",
           "itemImgId": "166"
@@ -1685,6 +1690,11 @@
         {
           "shopExchangeItemId": "2037",
           "itemName": "祭札[8月]",
+          "itemImgId": "41"
+        },
+        {
+          "shopExchangeItemId": "2038",
+          "itemName": "祭札[9月]",
           "itemImgId": "41"
         },
         {

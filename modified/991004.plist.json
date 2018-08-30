@@ -3393,6 +3393,30 @@
           "speechCharactorName": "春野サクラ"
         },
         {
+          "speechCharactorId": "569",
+          "cardId": "20001744",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "ロック・リー"
+        },
+        {
+          "speechCharactorId": "570",
+          "cardId": "0",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "マイト・ガイ"
+        },
+        {
+          "speechCharactorId": "571",
+          "cardId": "0",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "はたけサクモ"
+        },
+        {
+          "speechCharactorId": "572",
+          "cardId": "20001819",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "マイト・ガイ"
+        },
+        {
           "speechCharactorId": "1000",
           "cardId": "21000091",
           "speechCharactorImgId": "1000",
