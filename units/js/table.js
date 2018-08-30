@@ -29,7 +29,7 @@ $(document).ready( function () {
 		            { title: "DEF" },
 		            { title: "SPD" },
 		            { 
-		            	title: "Rating",
+		            	title: "PVE",
 		            	"visible": true,
 		            	"searchable": true
 		            },
@@ -60,6 +60,16 @@ $(document).ready( function () {
 		            },
 		            {
 		            	title: "voiced",
+		            	"visible": false,
+		            	"searchable": true
+		            },
+		            {
+		            	title: "PVP",
+		            	"visible": true,
+		            	"searchable": true
+		            },
+		            {
+		            	title: "nickname",
 		            	"visible": false,
 		            	"searchable": true
 		            }
@@ -566,6 +576,7 @@ $(document).ready( function () {
 				$("#ex-6").attr('class', "list-group-item");
 				$("#ex-5").attr('class', "list-group-item");
 				$("#pvp-reward").attr('class', "list-group-item");
+				$("#kami-destroyer").attr('class', "list-group-item");
 				$("#god").attr('class', "list-group-item");
 				$("#killers").attr('class', "list-group-item");
 				$("#limited-6").attr('class', "list-group-item");
@@ -590,7 +601,7 @@ $(document).ready( function () {
 				$("#Taki").attr('class', "list-group-item");
 				$("#Iron").attr('class', "list-group-item");
 				
-				for(var x = 0; x <= 16; x++){
+				for(var x = 0; x <= 18; x++){
 					table
 				 	.column(x)
 			     	.search("", true, false)

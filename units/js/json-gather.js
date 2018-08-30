@@ -1,6 +1,6 @@
 (function(){
 
-	function _createCard(data, name, type, hp, atk, def, spd, rare, affi, id, rate, tag, target, cast, damage, nature, voiced, type_tag){
+	function _createCard(data, name, type, hp, atk, def, spd, rare, affi, id, rate, tag, target, cast, damage, nature, voiced, type_tag, pvp, nickname){
 		var image;
 		//Rarity Check
 		if(rare == 6){
@@ -32,7 +32,9 @@
 					+'		<td class="text-center">' + cast + '</td>'		
 					+'		<td class="text-center">' + damage + '</td>'	
 					+'		<td class="text-center">' + nature + '</td>'
-					+'		<td class="text-center">' + voiced + '</td>'																																						
+					+'		<td class="text-center">' + voiced + '</td>'
+					+'		<td class="text-center">' + pvp + '</td>'	
+					+'		<td class="text-center">' + nickname + '</td>'																																																																																																																																																		
 					+'</tr>';
 		return model;
 	}
@@ -60,6 +62,8 @@
 		var nature = '';// Character Nature
 		var voiced = '';
 		var type_tag = '';
+		var pvp = '';
+		var nickname = '';
 
 		for(var i in window.chara){
 			var unit = window.chara[i];
@@ -98,7 +102,8 @@
 				affi = checkAffi(unit);
 				rate = window.tags[i]['rate'];
 				tag = window.tags[i]['tag'];
-
+				pvp = window.tags[i]['pvp'];
+				nickname = window.tags[i]['nickname'];				
 				type_tag += type + "_" + rare;
 
 				if(tag == "ex-5" || tag == "ex-6"){
@@ -202,7 +207,7 @@
 
 				if(units.indexOf(chara[0]) == -1){ // << verifica se já criou o card pelo [ID]
 					units.push(unit[0]); // << Salvo o id do card, para impedir cards repetidos de existirem			
-					content += _createCard(unit, name, type, hp, atk, def, spd, rare, affi, id, rate, tag, target, cast, damage, nature, voiced, type_tag); // chama a função passando os dados do card
+					content += _createCard(unit, name, type, hp, atk, def, spd, rare, affi, id, rate, tag, target, cast, damage, nature, voiced, type_tag, pvp, nickname); // chama a função passando os dados do card
 					target = '';
 					cast = '';
 					damage = '';
