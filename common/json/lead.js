@@ -10036,6 +10036,32 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "783",
+          "name": "蒼き異名の後継者",
+          "description": "木ノ葉隠れの里所属の最大HPと攻撃力を30%アップ",
+          "effectIdx1": "10029",
+          "effectIdx2": "182",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "785",
+          "name": "紅く揺らめく命の炎",
+          "description": "全属性の攻撃力と体術スキルダメージが80%アップする",
+          "effectIdx1": "550",
+          "effectIdx2": "591",
+          "effectIdx3": "0",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8508",
           "name": "決別の祈り",
           "description": "技属性の最大HP・攻撃・スキルダメージを100%アップする",

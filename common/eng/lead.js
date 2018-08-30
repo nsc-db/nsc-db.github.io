@@ -10035,4 +10035,30 @@ window.lead=[
           "target2Category": "0",
           "target2Param": "0"
         },
+        {
+          "cardLeaderSkillId": "783",
+          "name": "蒼き異名の後継者",
+          "description": "Konoha Character Maximum HP and ATK +30%",
+          "effectIdx1": "10029",
+          "effectIdx2": "182",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "785",
+          "name": "紅く揺らめく命の炎",
+          "description": "All Character ATK and Taijutsu Skill Damage +80%",
+          "effectIdx1": "550",
+          "effectIdx2": "591",
+          "effectIdx3": "0",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
 ]

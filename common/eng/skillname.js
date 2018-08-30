@@ -4558,7 +4558,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "1723",
           "name": "木ノ葉大旋風",
-          "eng": ""
+          "eng": "Leaf Hurricane"
         },
         {
           "cardBattleSkillNameId": "1724",
@@ -6584,6 +6584,16 @@ window.skillname=[
           "cardBattleSkillNameId": "2502",
           "name": "闇がなければ作ればよい",
           "eng": "Production of Darkness"
+        },
+        {
+          "cardBattleSkillNameId": "2503",
+          "name": "勝負アリです！",
+          "eng": "Victory Ant!"
+        },
+        {
+          "cardBattleSkillNameId": "2504",
+          "name": "八門遁甲の陣・死門",
+          "eng": "Eigth Inner Gates Formattion: Gate of Death"
         },
         {
           "cardBattleSkillNameId": "10136",

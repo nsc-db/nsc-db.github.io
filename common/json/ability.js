@@ -17523,6 +17523,42 @@ window.ability=[
           "effectIdx3": "794"
         },
         {
+          "abilityId": "1991",
+          "abilityName": "たゆまぬ努力",
+          "abilityDescription": "HP80%以上の時、攻撃力とスキルダメージが100%アップ",
+          "abilityEffectDescription": "HP80%以上の時、攻撃力とスキルダメージが100%アップ",
+          "effectIdx1": "1133",
+          "effectIdx2": "31709",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1992",
+          "abilityName": "根性の体術",
+          "abilityDescription": "最大チャクラが50アップし、行動後にチャクラが10%回復する",
+          "abilityEffectDescription": "最大チャクラが50アップし、行動後にチャクラが10%回復する",
+          "effectIdx1": "689",
+          "effectIdx2": "528",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1995",
+          "abilityName": "リミッターの全開放",
+          "abilityDescription": "HP70%以上の時、通常攻撃が回避されない",
+          "abilityEffectDescription": "HP70%以上の時、通常攻撃が回避されない",
+          "effectIdx1": "1879",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1996",
+          "abilityName": "神域の体術",
+          "abilityDescription": "150％の確率でスキルを回避する",
+          "abilityEffectDescription": "150％の確率でスキルを回避する",
+          "effectIdx1": "1880",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

@@ -6175,4 +6175,20 @@ window.tags=[
           "pvp": "96",
           "nickname": "Killer Kaguya"
 },
+{
+          "cardId": "20040901",
+          "rare": "5",
+          "tag": "pmiles",
+          "rate": "75",
+          "pvp": "96",
+          "nickname": "pmiles Lee"
+},
+{
+          "cardId": "20040903",
+          "rare": "5",
+          "tag": "ex-6",
+          "rate": "75",
+          "pvp": "96",
+          "nickname": "Yagai v3"
+},
 ]

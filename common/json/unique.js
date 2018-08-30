@@ -8026,5 +8026,29 @@ window.unique=[
           "effectIdx2": "13099",
           "effectIdx3": "628",
           "effectIdx4": "583"
+        },
+        {
+          "crystalOverwriteEffectId": "681",
+          "targetCrystal": "10901",
+          "description": "2回行動までチャクラ消費0、2回行動後はチャクラ消費量半減＆行動後チャクラ10%回復",
+          "charaIds": "1601,1602,1603",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1646",
+          "effectIdx2": "1538",
+          "effectIdx3": "1848",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "682",
+          "targetCrystal": "10902",
+          "description": "会心力3000%アップ、攻撃力200%アップ",
+          "charaIds": "1601,1602,1603",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1124",
+          "effectIdx2": "1285",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
         }
 ]
