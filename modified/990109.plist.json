@@ -17544,6 +17544,24 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "1993",
+          "abilityName": "可憐なる乙女心",
+          "abilityDescription": "素早さが90%アップし、低確率でスキルを回避する",
+          "abilityEffectDescription": "素早さが90%アップし、低確率でスキルを回避する",
+          "effectIdx1": "13089",
+          "effectIdx2": "1785",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1994",
+          "abilityName": "強気の女子力",
+          "abilityDescription": "攻撃力が120％アップし、行動後にチャクラが10％回復する",
+          "abilityEffectDescription": "攻撃力が120％アップし、行動後にチャクラが10％回復する",
+          "effectIdx1": "736",
+          "effectIdx2": "1767",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "1995",
           "abilityName": "リミッターの全開放",
           "abilityDescription": "HP70%以上の時、通常攻撃が回避されない",

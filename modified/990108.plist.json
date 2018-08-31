@@ -10052,6 +10052,19 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "784",
+          "name": "操心の乙女",
+          "description": "全属性の秘伝タイプのスキルのダメージを60%アップする",
+          "effectIdx1": "1881",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "785",
           "name": "紅く揺らめく命の炎",
           "description": "全属性の攻撃力と体術スキルダメージが80%アップする",

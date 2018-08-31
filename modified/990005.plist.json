@@ -503,6 +503,36 @@
           "enemyEffects": null
         },
         {
+          "battleFieldEffectId": "59",
+          "name": "大激闘効果",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "13049,",
+          "enemyEffects": "300011,"
+        },
+        {
+          "battleFieldEffectId": "60",
+          "name": "大激闘効果",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "1549,",
+          "enemyEffects": "1782,"
+        },
+        {
+          "battleFieldEffectId": "61",
+          "name": "大激闘効果",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "894,1840,",
+          "enemyEffects": "617,"
+        },
+        {
           "battleFieldEffectId": "62",
           "name": "紅き猛獣となる時",
           "category": "1",
