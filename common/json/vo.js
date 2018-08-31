@@ -1656,6 +1656,18 @@ window.vo=[
           "voiceDeath": "madara_death_02_03"
         },
         {
+          "cardVoiceId": "139",
+          "cardId": "20040903",
+          "dirName": "guy",
+          "evolutionStep": "",
+          "voiceAppear": "guy_battle_02_03",
+          "voiceSkill1": "guy_skill_02_16,guy_skill_02_17,guy_skill_02_18",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "guy_menu_04",
+          "voiceDeath": "guy_death_02_03"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

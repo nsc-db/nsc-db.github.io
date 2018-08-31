@@ -5268,6 +5268,14 @@ window.skillname=[
           "name": "闇がなければ作ればよい"
         },
         {
+          "cardBattleSkillNameId": "2503",
+          "name": "勝負アリです！"
+        },
+        {
+          "cardBattleSkillNameId": "2504",
+          "name": "八門遁甲の陣・死門"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },

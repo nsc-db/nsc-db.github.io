@@ -15232,6 +15232,22 @@ window.gear=[
           "recipeName": "大筒木カグヤの角"
         },
         {
+          "crystalId": "10823",
+          "crystalType": "10",
+          "crystalRare": "5",
+          "effectIdx1": "1876",
+          "effectIdx2": "528",
+          "effectIdx3": "1342",
+          "effectIdx4": "262",
+          "money": "500000",
+          "saleMoney": "2500",
+          "crystalName": "シマの蒸し団子",
+          "crystalDescription": "3回行動するまでチャクラ消費半減。行動後チャクラ10％回復＆確率でHP50%回復するが素早さ20%ダウン",
+          "crystalImageId": "108235",
+          "recipeId": "10823",
+          "recipeName": "シマの蒸し団子"
+        },
+        {
           "crystalId": "10829",
           "crystalType": "2",
           "crystalRare": "4",
@@ -15278,5 +15294,37 @@ window.gear=[
           "crystalImageId": "8995",
           "recipeId": "10831",
           "recipeName": "テウチの挑戦状"
+        },
+        {
+          "crystalId": "10901",
+          "crystalType": "10",
+          "crystalRare": "5",
+          "effectIdx1": "712",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "カレーうどん",
+          "crystalDescription": "チャクラ消費量10%ダウン",
+          "crystalImageId": "109015",
+          "recipeId": "10901",
+          "recipeName": "カレーうどん"
+        },
+        {
+          "crystalId": "10902",
+          "crystalType": "3",
+          "crystalRare": "5",
+          "effectIdx1": "1140",
+          "effectIdx2": "11049",
+          "effectIdx3": "300011",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "ガイのサンダル",
+          "crystalDescription": "会心力100%アップ、攻撃力50%アップ、素早さ30%ダウン",
+          "crystalImageId": "109025",
+          "recipeId": "10902",
+          "recipeName": "ガイのサンダル"
         }
 ]
