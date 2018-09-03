@@ -6187,8 +6187,8 @@ window.tags=[
           "cardId": "20040903",
           "rare": "5",
           "tag": "ex-6",
-          "rate": "75",
-          "pvp": "96",
+          "rate": "85",
+          "pvp": "70",
           "nickname": "Yagai v3"
 },
 ]
