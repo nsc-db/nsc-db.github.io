@@ -8053,6 +8053,18 @@
           "effectIdx2": "1285",
           "effectIdx3": "0",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "683",
+          "targetCrystal": "10919",
+          "description": "HP94700アップ、攻撃力3710アップ、防御力7610アップ",
+          "charaIds": "2101,2102,2103,4301,4302,107,109,110,111,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "10607",
+          "effectIdx2": "11550",
+          "effectIdx3": "12550",
+          "effectIdx4": "0"
         }
       ]
     }

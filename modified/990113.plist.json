@@ -24531,6 +24531,18 @@
           "effectParam3": "0"
         },
         {
+          "cardEffectId": "10550",
+          "timing": "11",
+          "conditionType": "0",
+          "conditionLower": "0",
+          "conditionUpper": "0",
+          "parcent": "10000",
+          "effectId": "9",
+          "effectParam1": "8",
+          "effectParam2": "9470",
+          "effectParam3": "0"
+        },
+        {
           "cardEffectId": "10605",
           "timing": "11",
           "conditionType": "0",
@@ -24552,6 +24564,18 @@
           "effectId": "9",
           "effectParam1": "8",
           "effectParam2": "81000",
+          "effectParam3": "0"
+        },
+        {
+          "cardEffectId": "10607",
+          "timing": "11",
+          "conditionType": "0",
+          "conditionLower": "0",
+          "conditionUpper": "0",
+          "parcent": "10000",
+          "effectId": "9",
+          "effectParam1": "8",
+          "effectParam2": "94700",
           "effectParam3": "0"
         },
         {
@@ -26352,6 +26376,18 @@
           "effectId": "9",
           "effectParam1": "1",
           "effectParam2": "5000",
+          "effectParam3": "0"
+        },
+        {
+          "cardEffectId": "11550",
+          "timing": "1",
+          "conditionType": "0",
+          "conditionLower": "0",
+          "conditionUpper": "0",
+          "parcent": "10000",
+          "effectId": "9",
+          "effectParam1": "1",
+          "effectParam2": "3710",
           "effectParam3": "0"
         },
         {
@@ -28344,6 +28380,18 @@
           "effectId": "9",
           "effectParam1": "2",
           "effectParam2": "5000",
+          "effectParam3": "0"
+        },
+        {
+          "cardEffectId": "12550",
+          "timing": "1",
+          "conditionType": "0",
+          "conditionLower": "0",
+          "conditionUpper": "0",
+          "parcent": "10000",
+          "effectId": "9",
+          "effectParam1": "2",
+          "effectParam2": "7610",
           "effectParam3": "0"
         },
         {

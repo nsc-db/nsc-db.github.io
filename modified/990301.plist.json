@@ -15329,6 +15329,22 @@
           "crystalImageId": "109025",
           "recipeId": "10902",
           "recipeName": "ガイのサンダル"
+        },
+        {
+          "crystalId": "10919",
+          "crystalType": "1",
+          "crystalRare": "5",
+          "effectIdx1": "10550",
+          "effectIdx2": "11550",
+          "effectIdx3": "12550",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "親子の絆",
+          "crystalDescription": "HP9470アップ、攻撃力3710アップ、防御力7610アップ",
+          "crystalImageId": "109195",
+          "recipeId": "10919",
+          "recipeName": "親子の絆"
         }
       ]
     }
