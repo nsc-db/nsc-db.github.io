@@ -543,6 +543,16 @@
           "enemyEffects": null
         },
         {
+          "battleFieldEffectId": "63",
+          "name": "お前は愛されていた",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "1840,",
+          "enemyEffects": null
+        },
+        {
           "battleFieldEffectId": "10001",
           "name": "始球空間",
           "category": "3",

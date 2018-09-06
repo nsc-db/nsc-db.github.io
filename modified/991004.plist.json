@@ -3423,6 +3423,36 @@
           "speechCharactorName": "うずまきクシナ"
         },
         {
+          "speechCharactorId": "574",
+          "cardId": "574",
+          "speechCharactorImgId": "574",
+          "speechCharactorName": "羅砂"
+        },
+        {
+          "speechCharactorId": "575",
+          "cardId": "575",
+          "speechCharactorImgId": "575",
+          "speechCharactorName": "夜叉丸"
+        },
+        {
+          "speechCharactorId": "576",
+          "cardId": "576",
+          "speechCharactorImgId": "576",
+          "speechCharactorName": "加瑠羅"
+        },
+        {
+          "speechCharactorId": "577",
+          "cardId": "466",
+          "speechCharactorImgId": "466",
+          "speechCharactorName": "うちはオビト"
+        },
+        {
+          "speechCharactorId": "578",
+          "cardId": "0",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "我愛羅"
+        },
+        {
           "speechCharactorId": "1000",
           "cardId": "21000091",
           "speechCharactorImgId": "1000",

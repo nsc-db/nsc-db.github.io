@@ -15331,6 +15331,38 @@
           "recipeName": "ガイのサンダル"
         },
         {
+          "crystalId": "10903",
+          "crystalType": "1",
+          "crystalRare": "5",
+          "effectIdx1": "182",
+          "effectIdx2": "12029",
+          "effectIdx3": "13014",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "我愛羅の瓢箪の栓",
+          "crystalDescription": "攻撃力と防御力が30%アップ、素早さが15%アップ",
+          "crystalImageId": "109035",
+          "recipeId": "10903",
+          "recipeName": "我愛羅の瓢箪の栓"
+        },
+        {
+          "crystalId": "10904",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "692",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "守鶴の根付",
+          "crystalDescription": "全スキルダメージ40%アップ",
+          "crystalImageId": "109045",
+          "recipeId": "10904",
+          "recipeName": "守鶴の根付"
+        },
+        {
           "crystalId": "10919",
           "crystalType": "1",
           "crystalRare": "5",

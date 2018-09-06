@@ -17580,6 +17580,24 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "1997",
+          "abilityName": "憎しみからの解放",
+          "abilityDescription": "キャンセル無効、素早さ50%アップ",
+          "abilityEffectDescription": "キャンセル無効、素早さ50%アップ",
+          "effectIdx1": "1751",
+          "effectIdx2": "112",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1998",
+          "abilityName": "争いを止める想い",
+          "abilityDescription": "1回行動するまで、素早さ200%アップ＆チャクラ消費0＆スキル発動速度3段階アップ",
+          "abilityEffectDescription": "1回行動するまで、素早さ200%アップ＆チャクラ消費0＆スキル発動速度3段階アップ",
+          "effectIdx1": "1800",
+          "effectIdx2": "1378",
+          "effectIdx3": "1756"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

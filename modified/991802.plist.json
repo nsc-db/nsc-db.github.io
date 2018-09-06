@@ -3214,6 +3214,15 @@
           "category": "2",
           "charaId": "0",
           "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "1809302",
+          "name": "エフェクト",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "2",
+          "charaId": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
         }
       ]
     }

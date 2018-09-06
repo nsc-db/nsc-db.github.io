@@ -1431,6 +1431,16 @@
           "subScore": "0",
           "color": "14614785",
           "type": "2"
+        },
+        {
+          "cardUnusualId": "144",
+          "category": "3",
+          "iconId": "1158",
+          "name": "絶対防御",
+          "description": "最大HPと防御力がアップ。スキルを無効化",
+          "subScore": "0",
+          "color": "12434877",
+          "type": "2"
         }
       ]
     }

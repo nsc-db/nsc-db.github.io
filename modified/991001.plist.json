@@ -55118,6 +55118,516 @@
           "message": "ううん…\r\nもう少しだけ…ここにいる"
         },
         {
+          "scriptMessageId": "23515",
+          "speechCharactorId": "455",
+          "message": "………"
+        },
+        {
+          "scriptMessageId": "23516",
+          "speechCharactorId": "574",
+          "message": "…………"
+        },
+        {
+          "scriptMessageId": "23517",
+          "speechCharactorId": "575",
+          "message": "（確かに風影様の…命は受けました）"
+        },
+        {
+          "scriptMessageId": "23518",
+          "speechCharactorId": "575",
+          "message": "（……しかし）\r\n（断ろうと思えば断っていたはず…）"
+        },
+        {
+          "scriptMessageId": "23519",
+          "speechCharactorId": "575",
+          "message": "（我愛羅様…心の奥底で…きっと）\r\n（私はアナタを恨んでいた…）"
+        },
+        {
+          "scriptMessageId": "23520",
+          "speechCharactorId": "575",
+          "message": "（大好きだった姉の命を奪い）\r\n（生まれ落ちたアナタをね…）"
+        },
+        {
+          "scriptMessageId": "23521",
+          "speechCharactorId": "575",
+          "message": "（姉の忘れ形見…そう思い）\r\n（私はアナタを愛そうと必死でした…）"
+        },
+        {
+          "scriptMessageId": "23522",
+          "speechCharactorId": "575",
+          "message": "（……しかし出来なかった…）"
+        },
+        {
+          "scriptMessageId": "23523",
+          "speechCharactorId": "575",
+          "message": "（姉は、アナタを生むことを\r\n　望んではいなかった…）"
+        },
+        {
+          "scriptMessageId": "23524",
+          "speechCharactorId": "575",
+          "message": "（姉は里の犠牲になり）\r\n（この里を呪いながら死んだ…………）"
+        },
+        {
+          "scriptMessageId": "23525",
+          "speechCharactorId": "455",
+          "message": "………"
+        },
+        {
+          "scriptMessageId": "23526",
+          "speechCharactorId": "575",
+          "message": "（その時から……）\r\n（一生治らない心の傷を私は負っていたのでしょう…）"
+        },
+        {
+          "scriptMessageId": "23527",
+          "speechCharactorId": "574",
+          "message": "…………"
+        },
+        {
+          "scriptMessageId": "23528",
+          "speechCharactorId": "575",
+          "message": "（アナタの名は…\r\n　姉さんが付けた名です）"
+        },
+        {
+          "scriptMessageId": "23529",
+          "speechCharactorId": "575",
+          "message": "（この子の名は我愛羅…）"
+        },
+        {
+          "scriptMessageId": "23530",
+          "speechCharactorId": "575",
+          "message": "（我を愛する修羅…）"
+        },
+        {
+          "scriptMessageId": "23531",
+          "speechCharactorId": "575",
+          "message": "（しかし…姉さんはアナタの身を案じ）\r\n（愛してこの名を付けたんじゃない…）"
+        },
+        {
+          "scriptMessageId": "23532",
+          "speechCharactorId": "575",
+          "message": "（アナタが存在し続けるようにと\r\n　その名を付けたのは………………）"
+        },
+        {
+          "scriptMessageId": "23533",
+          "speechCharactorId": "575",
+          "message": "（この世を恨んで死んだ姉さんの怨念を）\r\n（この世に存在させ…残し…知らしめるため…！）"
+        },
+        {
+          "scriptMessageId": "23534",
+          "speechCharactorId": "575",
+          "message": "（アナタは愛されてなどいなかった…！）"
+        },
+        {
+          "scriptMessageId": "23535",
+          "speechCharactorId": "575",
+          "message": "（自分だけを愛しなさい）\r\n（そして自分だけのために戦いなさい）"
+        },
+        {
+          "scriptMessageId": "23536",
+          "speechCharactorId": "578",
+          "message": "（それが我愛羅）\r\n（ボクか…）"
+        },
+        {
+          "scriptMessageId": "23537",
+          "speechCharactorId": "455",
+          "message": "……だが、今はもう違う…"
+        },
+        {
+          "scriptMessageId": "23538",
+          "speechCharactorId": "455",
+          "message": "父さま…久しぶりです"
+        },
+        {
+          "scriptMessageId": "23539",
+          "speechCharactorId": "527",
+          "message": "我愛羅、守鶴はどこだ？"
+        },
+        {
+          "scriptMessageId": "23540",
+          "speechCharactorId": "455",
+          "message": "そいつはもういない"
+        },
+        {
+          "scriptMessageId": "23541",
+          "speechCharactorId": "455",
+          "message": "オレはもう…\r\n父さまの作った人柱力ではない"
+        },
+        {
+          "scriptMessageId": "23542",
+          "speechCharactorId": "527",
+          "message": "この穢土転生の術…"
+        },
+        {
+          "scriptMessageId": "23543",
+          "speechCharactorId": "527",
+          "message": "少しは価値のある術だったかもな…"
+        },
+        {
+          "scriptMessageId": "23544",
+          "speechCharactorId": "527",
+          "message": "もう一度…\r\nお前の価値をオレ自身で確かめてやる…"
+        },
+        {
+          "scriptMessageId": "23545",
+          "speechCharactorId": "527",
+          "message": "…さあオレを超えてみろ"
+        },
+        {
+          "scriptMessageId": "23546",
+          "speechCharactorId": "527",
+          "message": "砂霰は陽動……"
+        },
+        {
+          "scriptMessageId": "23547",
+          "speechCharactorId": "527",
+          "message": "砂金の砂を上にあげさせるためだったか…"
+        },
+        {
+          "scriptMessageId": "23548",
+          "speechCharactorId": "455",
+          "message": "オレも風影となった今"
+        },
+        {
+          "scriptMessageId": "23549",
+          "speechCharactorId": "455",
+          "message": "里を守るために\r\n里への脅威を排除するのも…\r\n長の役目だ"
+        },
+        {
+          "scriptMessageId": "23550",
+          "speechCharactorId": "527",
+          "message": "風影に…\r\nなった…お前が…？"
+        },
+        {
+          "scriptMessageId": "23551",
+          "speechCharactorId": "528",
+          "message": "眉無しにゃカリスマってもんが\r\n面に出ちまうんだ、これがよ！"
+        },
+        {
+          "scriptMessageId": "23552",
+          "speechCharactorId": "528",
+          "message": "おっと！\r\nそういやオレも眉無しだったぜ！"
+        },
+        {
+          "scriptMessageId": "23553",
+          "speechCharactorId": "277",
+          "message": "お前の息子か…\r\nいい忍だな"
+        },
+        {
+          "scriptMessageId": "23554",
+          "speechCharactorId": "574",
+          "message": "小さいな…未熟児か…\r\nこれで本当に大丈夫なのか？"
+        },
+        {
+          "scriptMessageId": "23555",
+          "speechCharactorId": "120",
+          "message": "だが適合はしておる"
+        },
+        {
+          "scriptMessageId": "23556",
+          "speechCharactorId": "120",
+          "message": "三人目にしてやっと適合できると\r\n分かったのじゃ"
+        },
+        {
+          "scriptMessageId": "23557",
+          "speechCharactorId": "120",
+          "message": "この子を大切に育てていくしかあるまい"
+        },
+        {
+          "scriptMessageId": "23558",
+          "speechCharactorId": "576",
+          "message": "赤ちゃんの顔を見せて…"
+        },
+        {
+          "scriptMessageId": "23559",
+          "speechCharactorId": "576",
+          "message": "…なんて小さい子…"
+        },
+        {
+          "scriptMessageId": "23560",
+          "speechCharactorId": "574",
+          "message": "明日、我愛羅を見きわめる…\r\n里の人々を避難させた後で"
+        },
+        {
+          "scriptMessageId": "23561",
+          "speechCharactorId": "574",
+          "message": "我愛羅を追い詰めろ"
+        },
+        {
+          "scriptMessageId": "23562",
+          "speechCharactorId": "574",
+          "message": "母の事を語り\r\n精神的に追い詰めるんだ"
+        },
+        {
+          "scriptMessageId": "23563",
+          "speechCharactorId": "575",
+          "message": "姉は、アナタを生むことを\r\n望んではいなかった…"
+        },
+        {
+          "scriptMessageId": "23564",
+          "speechCharactorId": "575",
+          "message": "姉は里の犠牲になり\r\nこの里を呪いながら死んだ…………"
+        },
+        {
+          "scriptMessageId": "23565",
+          "speechCharactorId": "578",
+          "message": "………"
+        },
+        {
+          "scriptMessageId": "23566",
+          "speechCharactorId": "575",
+          "message": "アナタの名は…\r\n姉さんが付けた名です"
+        },
+        {
+          "scriptMessageId": "23567",
+          "speechCharactorId": "575",
+          "message": "この子の名は我愛羅…"
+        },
+        {
+          "scriptMessageId": "23568",
+          "speechCharactorId": "575",
+          "message": "我を愛する修羅…"
+        },
+        {
+          "scriptMessageId": "23569",
+          "speechCharactorId": "575",
+          "message": "自分だけを愛しなさい…\r\nそして、自分だけのために戦いなさい…"
+        },
+        {
+          "scriptMessageId": "23570",
+          "speechCharactorId": "575",
+          "message": "そうすればアナタは存在し続ける…\r\nという願いを込めてね"
+        },
+        {
+          "scriptMessageId": "23571",
+          "speechCharactorId": "527",
+          "message": "…加瑠羅お前が…\r\nまだこの子の中に…"
+        },
+        {
+          "scriptMessageId": "23572",
+          "speechCharactorId": "527",
+          "message": "成長したな…我愛羅"
+        },
+        {
+          "scriptMessageId": "23573",
+          "speechCharactorId": "455",
+          "message": "………！"
+        },
+        {
+          "scriptMessageId": "23574",
+          "speechCharactorId": "527",
+          "message": "親ってのはただ…\r\n子供を信じてやればいい"
+        },
+        {
+          "scriptMessageId": "23575",
+          "speechCharactorId": "527",
+          "message": "たったそれだけ…\r\nそこに価値がある…"
+        },
+        {
+          "scriptMessageId": "23576",
+          "speechCharactorId": "455",
+          "message": "………"
+        },
+        {
+          "scriptMessageId": "23577",
+          "speechCharactorId": "527",
+          "message": "そういう事だな\r\n加瑠羅よ…"
+        },
+        {
+          "scriptMessageId": "23578",
+          "speechCharactorId": "527",
+          "message": "どうやらオレに……"
+        },
+        {
+          "scriptMessageId": "23579",
+          "speechCharactorId": "527",
+          "message": "ものの価値を見る才能は\r\n無かったようだな"
+        },
+        {
+          "scriptMessageId": "23580",
+          "speechCharactorId": "455",
+          "message": "………\r\n………どういう事だ…？"
+        },
+        {
+          "scriptMessageId": "23581",
+          "speechCharactorId": "527",
+          "message": "砂がいつ何時でもお前を守る…"
+        },
+        {
+          "scriptMessageId": "23582",
+          "speechCharactorId": "527",
+          "message": "それは守鶴の力ではなく…"
+        },
+        {
+          "scriptMessageId": "23583",
+          "speechCharactorId": "527",
+          "message": "お前の母、加瑠羅の力だ"
+        },
+        {
+          "scriptMessageId": "23584",
+          "speechCharactorId": "455",
+          "message": "………！"
+        },
+        {
+          "scriptMessageId": "23585",
+          "speechCharactorId": "576",
+          "message": "…なんて小さい子…"
+        },
+        {
+          "scriptMessageId": "23586",
+          "speechCharactorId": "576",
+          "message": "どんな事があっても\r\n私が守っていくからね…"
+        },
+        {
+          "scriptMessageId": "23587",
+          "speechCharactorId": "576",
+          "message": "…我愛羅"
+        },
+        {
+          "scriptMessageId": "23588",
+          "speechCharactorId": "527",
+          "message": "お前は母に愛されていた"
+        },
+        {
+          "scriptMessageId": "23589",
+          "speechCharactorId": "455",
+          "message": "………オレが…"
+        },
+        {
+          "scriptMessageId": "23590",
+          "speechCharactorId": "455",
+          "message": "母様に愛されていた…？"
+        },
+        {
+          "scriptMessageId": "23591",
+          "speechCharactorId": "455",
+          "message": "…だがあの時…"
+        },
+        {
+          "scriptMessageId": "23592",
+          "speechCharactorId": "455",
+          "message": "オレを狙った夜叉丸は……"
+        },
+        {
+          "scriptMessageId": "23593",
+          "speechCharactorId": "527",
+          "message": "オレが夜叉丸に嘘をつき\r\n演じるように命令したのだ"
+        },
+        {
+          "scriptMessageId": "23594",
+          "speechCharactorId": "527",
+          "message": "…お前を追い込み\r\n尾獣の暴走の有無を確かめるために…\r\n里のためにと…"
+        },
+        {
+          "scriptMessageId": "23595",
+          "speechCharactorId": "527",
+          "message": "失敗だった…"
+        },
+        {
+          "scriptMessageId": "23596",
+          "speechCharactorId": "527",
+          "message": "オレのやった事全てが\r\n失敗だったようだ…"
+        },
+        {
+          "scriptMessageId": "23597",
+          "speechCharactorId": "527",
+          "message": "お前にあれやこれやと\r\n過剰な負担をかけ"
+        },
+        {
+          "scriptMessageId": "23598",
+          "speechCharactorId": "527",
+          "message": "オレが勝手にお前の価値を無いものと…\r\n判断してしまった"
+        },
+        {
+          "scriptMessageId": "23599",
+          "speechCharactorId": "527",
+          "message": "人柱力にしてお前の人生を奪い…"
+        },
+        {
+          "scriptMessageId": "23600",
+          "speechCharactorId": "527",
+          "message": "母を奪い…\r\n母への想いを奪い…"
+        },
+        {
+          "scriptMessageId": "23601",
+          "speechCharactorId": "527",
+          "message": "命まで奪おうとした…"
+        },
+        {
+          "scriptMessageId": "23602",
+          "speechCharactorId": "527",
+          "message": "結局、お前に親として与えたものは\r\nたった一つ…"
+        },
+        {
+          "scriptMessageId": "23603",
+          "speechCharactorId": "527",
+          "message": "心の傷だけだったって事だな…"
+        },
+        {
+          "scriptMessageId": "23604",
+          "speechCharactorId": "575",
+          "message": "ただ一つだけ\r\n心の傷を癒せるものがあります"
+        },
+        {
+          "scriptMessageId": "23605",
+          "speechCharactorId": "575",
+          "message": "愛情です"
+        },
+        {
+          "scriptMessageId": "23606",
+          "speechCharactorId": "578",
+          "message": "ど…どうやったらもらえるの？"
+        },
+        {
+          "scriptMessageId": "23607",
+          "speechCharactorId": "575",
+          "message": "…我愛羅様はもうすでに\r\nもらっていますよ"
+        },
+        {
+          "scriptMessageId": "23608",
+          "speechCharactorId": "575",
+          "message": "姉さんは我愛羅様を\r\nすごく愛していたのだと思います"
+        },
+        {
+          "scriptMessageId": "23609",
+          "speechCharactorId": "575",
+          "message": "砂の守鶴は本来攻撃の為の生き霊です"
+        },
+        {
+          "scriptMessageId": "23610",
+          "speechCharactorId": "575",
+          "message": "砂が自動的に我愛羅様を守ろうとするのは\r\n母親としての愛情…"
+        },
+        {
+          "scriptMessageId": "23611",
+          "speechCharactorId": "575",
+          "message": "あの砂の中には母親の意志が\r\n込められているんだと思います"
+        },
+        {
+          "scriptMessageId": "23612",
+          "speechCharactorId": "575",
+          "message": "姉さん…"
+        },
+        {
+          "scriptMessageId": "23613",
+          "speechCharactorId": "575",
+          "message": "死んでもなお…\r\n我愛羅様を守りたかったんだろうなぁ…"
+        },
+        {
+          "scriptMessageId": "23614",
+          "speechCharactorId": "527",
+          "message": "我愛羅…お前は…"
+        },
+        {
+          "scriptMessageId": "23615",
+          "speechCharactorId": "527",
+          "message": "先代などとっくに超えていた…"
+        },
+        {
+          "scriptMessageId": "23616",
+          "speechCharactorId": "527",
+          "message": "里を…頼んだぞ、我愛羅"
+        },
+        {
           "scriptMessageId": "40001",
           "speechCharactorId": "178",
           "message": "絶望しかないこの世界に\r\n存在する価値はない"
