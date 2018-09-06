@@ -6596,6 +6596,26 @@ window.skillname=[
           "eng": "Eigth Inner Gates Formattion: Gate of Death"
         },
         {
+          "cardBattleSkillNameId": "2505",
+          "name": "猪蝶連係",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2506",
+          "name": "助けに来たわよ",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2507",
+          "name": "風遁・砂散弾",
+          "eng": "Wind Style: Sand Bomb Salvo"
+        },
+        {
+          "cardBattleSkillNameId": "2508",
+          "name": "同意する者はオレに続け！！",
+          "eng": "Keep on Believing in Me!!"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！",
           "eng": ""

@@ -6191,4 +6191,12 @@ window.tags=[
           "pvp": "70",
           "nickname": "Yagai v3"
 },
+{
+          "cardId": "20040904",
+          "rare": "5",
+          "tag": "ex-6",
+          "rate": "-",
+          "pvp": "-",
+          "nickname": "Good Gaara | War Gaara"
+},
 ]

@@ -10061,4 +10061,17 @@ window.lead=[
           "target2Category": "0",
           "target2Param": "0"
         },
+        {
+          "cardLeaderSkillId": "786",
+          "name": "連合を導く砂風",
+          "description": "Five Village Characters Maximum HP and Skill Damage +40%",
+          "effectIdx1": "1884",
+          "effectIdx2": "1883",
+          "effectIdx3": "0",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
 ]

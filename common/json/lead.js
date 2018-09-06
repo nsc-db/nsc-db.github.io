@@ -10062,6 +10062,19 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "786",
+          "name": "連合を導く砂風",
+          "description": "五大隠れ里所属の最大HPとスキルダメージを40%アップ",
+          "effectIdx1": "1884",
+          "effectIdx2": "1883",
+          "effectIdx3": "0",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8508",
           "name": "決別の祈り",
           "description": "技属性の最大HP・攻撃・スキルダメージを100%アップする",
