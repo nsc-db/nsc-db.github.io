@@ -1518,6 +1518,16 @@
           "itemImgId": "22"
         },
         {
+          "shopExchangeItemId": "1020",
+          "itemName": "収集Pt",
+          "itemImgId": "22"
+        },
+        {
+          "shopExchangeItemId": "1021",
+          "itemName": "専属推薦状交換券-乱舞の巻-",
+          "itemImgId": "1013"
+        },
+        {
           "shopExchangeItemId": "2000",
           "itemName": "忍交換券(8月)",
           "itemImgId": "43"
@@ -1726,6 +1736,11 @@
           "shopExchangeItemId": "2044",
           "itemName": "忍交換券[夏]",
           "itemImgId": "2011"
+        },
+        {
+          "shopExchangeItemId": "2046",
+          "itemName": "選抜札",
+          "itemImgId": "2042"
         },
         {
           "shopExchangeItemId": "3000",
