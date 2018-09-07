@@ -5276,6 +5276,22 @@ window.skillname=[
           "name": "八門遁甲の陣・死門"
         },
         {
+          "cardBattleSkillNameId": "2505",
+          "name": "猪蝶連係"
+        },
+        {
+          "cardBattleSkillNameId": "2506",
+          "name": "助けに来たわよ"
+        },
+        {
+          "cardBattleSkillNameId": "2507",
+          "name": "風遁・砂散弾"
+        },
+        {
+          "cardBattleSkillNameId": "2508",
+          "name": "同意する者はオレに続け！！"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },

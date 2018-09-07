@@ -17559,6 +17559,24 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "1997",
+          "abilityName": "Cleansed of Hatred",
+          "abilityDescription": "Immune to Cancel. SPD +50%",
+          "abilityEffectDescription": "キャンセル無効、素早さ50%アップ",
+          "effectIdx1": "1751",
+          "effectIdx2": "112",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1998",
+          "abilityName": "Desire to Stop the Fight",
+          "abilityDescription": "For 1 turn, SPD +200%, Chakra -100% and Cast Speed +3",
+          "abilityEffectDescription": "1回行動するまで、素早さ200%アップ＆チャクラ消費0＆スキル発動速度3段階アップ",
+          "effectIdx1": "1800",
+          "effectIdx2": "1378",
+          "effectIdx3": "1756"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
