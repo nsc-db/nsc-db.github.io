@@ -6616,6 +6616,26 @@ window.skillname=[
           "eng": "Keep on Believing in Me!!"
         },
         {
+          "cardBattleSkillNameId": "2509",
+          "name": "憎しみの暴雨",
+          "eng": "Rain of Hatred"
+        },
+        {
+          "cardBattleSkillNameId": "2510",
+          "name": "認めてやるもんかァ！！！",
+          "eng": "I Wont Accept Any of This!!!"
+        },
+        {
+          "cardBattleSkillNameId": "2519",
+          "name": "連係してこ！！",
+          "eng": "Connection"
+        },
+        {
+          "cardBattleSkillNameId": "2520",
+          "name": "すぐ始めるから！",
+          "eng": "I Will Begin Immediately"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！",
           "eng": ""

@@ -10075,6 +10075,32 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "787",
+          "name": "悪夢の始まり",
+          "description": "全属性の固有タイプのスキルダメージを200％アップ",
+          "effectIdx1": "1887",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "794",
+          "name": "心優しき癒し手",
+          "description": "木ノ葉隠れの里所属の攻撃・防御・素早さを20％アップする",
+          "effectIdx1": "22002",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8508",
           "name": "決別の祈り",
           "description": "技属性の最大HP・攻撃・スキルダメージを100%アップする",

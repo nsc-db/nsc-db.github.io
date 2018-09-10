@@ -5292,6 +5292,22 @@ window.skillname=[
           "name": "同意する者はオレに続け！！"
         },
         {
+          "cardBattleSkillNameId": "2509",
+          "name": "憎しみの暴雨"
+        },
+        {
+          "cardBattleSkillNameId": "2510",
+          "name": "認めてやるもんかァ！！！"
+        },
+        {
+          "cardBattleSkillNameId": "2519",
+          "name": "連係してこ！！"
+        },
+        {
+          "cardBattleSkillNameId": "2520",
+          "name": "すぐ始めるから！"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },

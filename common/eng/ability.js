@@ -17577,6 +17577,42 @@ window.ability=[
           "effectIdx3": "1756"
         },
         {
+          "abilityId": "1999",
+          "abilityName": "Murderous Spear",
+          "abilityDescription": "When HP reach 0, revive up to 3 times if one of the enemy is from Konoha",
+          "abilityEffectDescription": "敵に木ノ葉の里所属がいるとHPが0以下で3回までHPが全回復する",
+          "effectIdx1": "1886",
+          "effectIdx2": "874",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2000",
+          "abilityName": "Lamentation of the Mangekyo Sharingan",
+          "abilityDescription": "SPD +80%. High chance to dodge Skills",
+          "abilityEffectDescription": "素早さが80%アップし、高確率でスキルを回避する",
+          "effectIdx1": "13079",
+          "effectIdx2": "968",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2013",
+          "abilityName": "Medical Ninjutsu Ability",
+          "abilityDescription": "HP Recovery Effect +200%",
+          "abilityEffectDescription": "HP回復スキルの基礎回復量を200%アップ",
+          "effectIdx1": "1896",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2014",
+          "abilityName": "Gentle Affection",
+          "abilityDescription": "HP Regen and Chakra Recovery +20%",
+          "abilityEffectDescription": "行動後にHPとチャクラが20％回復する",
+          "effectIdx1": "628",
+          "effectIdx2": "583",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

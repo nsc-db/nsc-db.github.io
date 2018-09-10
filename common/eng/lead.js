@@ -10074,4 +10074,30 @@ window.lead=[
           "target2Category": "0",
           "target2Param": "0"
         },
+        {
+          "cardLeaderSkillId": "787",
+          "name": "悪夢の始まり",
+          "description": "All Characters Unique Skill Damage +200%",
+          "effectIdx1": "1887",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "794",
+          "name": "心優しき癒し手",
+          "description": "Konoha Characters ATK, DEF and SPD +20%",
+          "effectIdx1": "22002",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
 ]
