@@ -1683,6 +1683,42 @@
           "voiceDeath": "gaara_death_02_03"
         },
         {
+          "cardVoiceId": "141",
+          "cardId": "20040905",
+          "dirName": "obito",
+          "evolutionStep": "",
+          "voiceAppear": "obito_skill_04_05",
+          "voiceSkill1": "obito_skill_04_06",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "obito_damage_04_01",
+          "voiceDeath": "obito_damage_04_02"
+        },
+        {
+          "cardVoiceId": "142",
+          "cardId": "20030503",
+          "dirName": "naruto",
+          "evolutionStep": "7",
+          "voiceAppear": "naruto_battle_02_03",
+          "voiceSkill1": "naruto_skill_02_02",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "naruto_win_02_03",
+          "voiceDeath": "naruto_death_02_01"
+        },
+        {
+          "cardVoiceId": "143",
+          "cardId": "20001848",
+          "dirName": "sasuke",
+          "evolutionStep": "7",
+          "voiceAppear": "sasuke_battle_03_02",
+          "voiceSkill1": "sasuke_battle_03_01",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "sasuke_win_03_01",
+          "voiceDeath": "sasuke_death_03_02"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

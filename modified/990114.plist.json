@@ -1441,6 +1441,16 @@
           "subScore": "0",
           "color": "12434877",
           "type": "2"
+        },
+        {
+          "cardUnusualId": "145",
+          "category": "3",
+          "iconId": "1159",
+          "name": "地獄",
+          "description": "チャクラ消費量アップ。行動後にHPとチャクラが減少",
+          "subScore": "0",
+          "color": "14614842",
+          "type": "3"
         }
       ]
     }

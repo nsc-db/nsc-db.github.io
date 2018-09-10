@@ -5153,9 +5153,9 @@
         {
           "abilityId": "573",
           "abilityName": "暗部最年少の天才",
-          "abilityDescription": "最大HPと素早さが50％アップし、行動後に高確率で再行動できる※再行動後にさらに行動はできない",
-          "abilityEffectDescription": "最大HPと素早さが50％アップし、行動後に高確率で再行動できる※再行動後にさらに行動はできない",
-          "effectIdx1": "769",
+          "abilityDescription": "最大HPと素早さが50％アップし、行動後に再行動できる※再行動後にさらに行動はできない",
+          "abilityEffectDescription": "最大HPと素早さが50％アップし、行動後に再行動できる※再行動後にさらに行動はできない",
+          "effectIdx1": "1893",
           "effectIdx2": "112",
           "effectIdx3": "10049"
         },
@@ -6161,10 +6161,10 @@
         {
           "abilityId": "685",
           "abilityName": "因果を断ち切る",
-          "abilityDescription": "チャクラ消費量が20%ダウンし、スキルダメージが120%アップする",
-          "abilityEffectDescription": "チャクラ消費量が20%ダウンし、スキルダメージが120%アップする",
+          "abilityDescription": "チャクラ消費量が30%ダウンし、スキルダメージが120%アップする",
+          "abilityEffectDescription": "チャクラ消費量が30%ダウンし、スキルダメージが120%アップする",
           "effectIdx1": "30011",
-          "effectIdx2": "860",
+          "effectIdx2": "859",
           "effectIdx3": "0"
         },
         {
@@ -9842,20 +9842,20 @@
         {
           "abilityId": "1094",
           "abilityName": "九尾チャクラモード",
-          "abilityDescription": "最大チャクラ量が150アップ、スキルダメージが200%アップ、行動後に低確率でチャクラ30%回復",
-          "abilityEffectDescription": "最大チャクラ量が150アップ、スキルダメージが200%アップ、行動後に低確率でチャクラ30%回復",
+          "abilityDescription": "最大チャクラ量が150アップ、スキルダメージが200%アップ、行動後に高確率でチャクラ30%回復",
+          "abilityEffectDescription": "最大チャクラ量が150アップ、スキルダメージが200%アップ、行動後に高確率でチャクラ30%回復",
           "effectIdx1": "20014",
           "effectIdx2": "30019",
-          "effectIdx3": "1269"
+          "effectIdx3": "1891"
         },
         {
           "abilityId": "1095",
           "abilityName": "厳しき宿業",
-          "abilityDescription": "最大HPが150%アップし、最大チャクラ量が100アップする",
-          "abilityEffectDescription": "最大HPが150%アップし、最大チャクラ量が100アップする",
+          "abilityDescription": "最大HPが150%アップ&amp;最大チャクラ量が100アップ、2回行動までチャクラ消費量半減",
+          "abilityEffectDescription": "最大HPが150%アップ&amp;最大チャクラ量が100アップ、2回行動までチャクラ消費量半減",
           "effectIdx1": "1212",
           "effectIdx2": "20009",
-          "effectIdx3": "0"
+          "effectIdx3": "1521"
         },
         {
           "abilityId": "1096",
@@ -10355,11 +10355,11 @@
         {
           "abilityId": "1151",
           "abilityName": "輪廻写輪眼",
-          "abilityDescription": "最大HPを120%、最大チャクラ量を120アップし、確率でスキルを回避する",
-          "abilityEffectDescription": "最大HPを120%、最大チャクラ量を120アップし、確率でスキルを回避する",
+          "abilityDescription": "最大HPを120%、最大チャクラ量を120アップし、高確率でスキルを回避する",
+          "abilityEffectDescription": "最大HPを120%、最大チャクラ量を120アップし、高確率でスキルを回避する",
           "effectIdx1": "1221",
           "effectIdx2": "20011",
-          "effectIdx3": "734"
+          "effectIdx3": "968"
         },
         {
           "abilityId": "1152",
@@ -13991,10 +13991,10 @@
         {
           "abilityId": "1585",
           "abilityName": "六道仙術の開花",
-          "abilityDescription": "10回行動するまでスキルダメージが150％アップする",
-          "abilityEffectDescription": "10回行動するまでスキルダメージが150％アップする",
+          "abilityDescription": "10回行動するまで、スキルダメージ150％アップ&amp;素早さ90％アップ",
+          "abilityEffectDescription": "10回行動するまで、スキルダメージ150％アップ&amp;素早さ90％アップ",
           "effectIdx1": "30914",
-          "effectIdx2": "0",
+          "effectIdx2": "1171",
           "effectIdx3": "0"
         },
         {
@@ -17596,6 +17596,42 @@
           "effectIdx1": "1800",
           "effectIdx2": "1378",
           "effectIdx3": "1756"
+        },
+        {
+          "abilityId": "1999",
+          "abilityName": "殺意の樹槍",
+          "abilityDescription": "敵に木ノ葉の里所属がいるとHPが0以下で3回までHPが全回復する",
+          "abilityEffectDescription": "敵に木ノ葉の里所属がいるとHPが0以下で3回までHPが全回復する",
+          "effectIdx1": "1886",
+          "effectIdx2": "874",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2000",
+          "abilityName": "慟哭の万華鏡開眼",
+          "abilityDescription": "素早さが80%アップし、高確率でスキルを回避する",
+          "abilityEffectDescription": "素早さが80%アップし、高確率でスキルを回避する",
+          "effectIdx1": "13079",
+          "effectIdx2": "968",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2013",
+          "abilityName": "医療忍術の才能",
+          "abilityDescription": "HP回復スキルの基礎回復量を200%アップ",
+          "abilityEffectDescription": "HP回復スキルの基礎回復量を200%アップ",
+          "effectIdx1": "1896",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2014",
+          "abilityName": "優しさと愛情",
+          "abilityDescription": "行動後にHPとチャクラが20％回復する",
+          "abilityEffectDescription": "行動後にHPとチャクラが20％回復する",
+          "effectIdx1": "628",
+          "effectIdx2": "583",
+          "effectIdx3": "0"
         },
         {
           "abilityId": "10000",

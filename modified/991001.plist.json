@@ -55628,6 +55628,476 @@
           "message": "里を…頼んだぞ、我愛羅"
         },
         {
+          "scriptMessageId": "23617",
+          "speechCharactorId": "377",
+          "message": "もう少し…"
+        },
+        {
+          "scriptMessageId": "23618",
+          "speechCharactorId": "377",
+          "message": "もう少しで会えるぞ…"
+        },
+        {
+          "scriptMessageId": "23619",
+          "speechCharactorId": "377",
+          "message": "リン…カカシ…！！"
+        },
+        {
+          "scriptMessageId": "23620",
+          "speechCharactorId": "265",
+          "message": "さっき外行ってたんだけど！！！"
+        },
+        {
+          "scriptMessageId": "23621",
+          "speechCharactorId": "265",
+          "message": "君の言ってたリンとバカカシってのがヤバイよ！！"
+        },
+        {
+          "scriptMessageId": "23622",
+          "speechCharactorId": "377",
+          "message": "！！"
+        },
+        {
+          "scriptMessageId": "23623",
+          "speechCharactorId": "377",
+          "message": "何があった！？"
+        },
+        {
+          "scriptMessageId": "23624",
+          "speechCharactorId": "265",
+          "message": "二人きりで霧隠れの忍達に囲まれてる！！"
+        },
+        {
+          "scriptMessageId": "23625",
+          "speechCharactorId": "375",
+          "message": "…行くか…"
+        },
+        {
+          "scriptMessageId": "23626",
+          "speechCharactorId": "377",
+          "message": "助けてくれたことには感謝する"
+        },
+        {
+          "scriptMessageId": "23627",
+          "speechCharactorId": "377",
+          "message": "…けどオレは行く！"
+        },
+        {
+          "scriptMessageId": "23628",
+          "speechCharactorId": "377",
+          "message": "行かなきゃならねーから！"
+        },
+        {
+          "scriptMessageId": "23629",
+          "speechCharactorId": "377",
+          "message": "…たぶんここへは二度と来ねェ…"
+        },
+        {
+          "scriptMessageId": "23630",
+          "speechCharactorId": "377",
+          "message": "一応礼は言った"
+        },
+        {
+          "scriptMessageId": "23631",
+          "speechCharactorId": "377",
+          "message": "…もう行く！"
+        },
+        {
+          "scriptMessageId": "23632",
+          "speechCharactorId": "375",
+          "message": "お前は…"
+        },
+        {
+          "scriptMessageId": "23633",
+          "speechCharactorId": "375",
+          "message": "ここへ帰って来る"
+        },
+        {
+          "scriptMessageId": "23634",
+          "speechCharactorId": "375",
+          "message": "その時こそ本当の礼をもらおう"
+        },
+        {
+          "scriptMessageId": "23635",
+          "speechCharactorId": "377",
+          "message": "白いの！"
+        },
+        {
+          "scriptMessageId": "23636",
+          "speechCharactorId": "377",
+          "message": "リンとカカシの場所はどこだ！？"
+        },
+        {
+          "scriptMessageId": "23637",
+          "speechCharactorId": "377",
+          "message": "すぐ案内してくれ！！"
+        },
+        {
+          "scriptMessageId": "23638",
+          "speechCharactorId": "377",
+          "message": "今のリンとカカシの状況は！？"
+        },
+        {
+          "scriptMessageId": "23639",
+          "speechCharactorId": "491",
+          "message": "仲間からの情報だと\r\nかなりヤバイみたいだよ！"
+        },
+        {
+          "scriptMessageId": "23640",
+          "speechCharactorId": "491",
+          "message": "霧隠れの実験体がどうこうとか\r\n言ってるけど……"
+        },
+        {
+          "scriptMessageId": "23641",
+          "speechCharactorId": "491",
+          "message": "ボクはよく分かんない"
+        },
+        {
+          "scriptMessageId": "23642",
+          "speechCharactorId": "491",
+          "message": "とにかくリンもカカシも\r\n数十人に囲まれてるみたい！"
+        },
+        {
+          "scriptMessageId": "23643",
+          "speechCharactorId": "491",
+          "message": "…それも皆\r\n凄腕の上忍や\r\n暗部みたいのばっかだって……"
+        },
+        {
+          "scriptMessageId": "23644",
+          "speechCharactorId": "377",
+          "message": "ミナト先生は何してる！？"
+        },
+        {
+          "scriptMessageId": "23645",
+          "speechCharactorId": "491",
+          "message": "誰？"
+        },
+        {
+          "scriptMessageId": "23646",
+          "speechCharactorId": "377",
+          "message": "黄色い閃光は何してるって聞いてんだ！"
+        },
+        {
+          "scriptMessageId": "23647",
+          "speechCharactorId": "491",
+          "message": "ん～～～"
+        },
+        {
+          "scriptMessageId": "23648",
+          "speechCharactorId": "491",
+          "message": "何か別の任務中みたいだね"
+        },
+        {
+          "scriptMessageId": "23649",
+          "speechCharactorId": "377",
+          "message": "…こんな時に…！"
+        },
+        {
+          "scriptMessageId": "23650",
+          "speechCharactorId": "144",
+          "message": "…リンを…\r\n頼むぜ…"
+        },
+        {
+          "scriptMessageId": "23651",
+          "speechCharactorId": "138",
+          "message": "ああ…"
+        },
+        {
+          "scriptMessageId": "23652",
+          "speechCharactorId": "377",
+          "message": "カカシ…！"
+        },
+        {
+          "scriptMessageId": "23653",
+          "speechCharactorId": "377",
+          "message": "お前は約束してくれた！"
+        },
+        {
+          "scriptMessageId": "23654",
+          "speechCharactorId": "377",
+          "message": "リンを…"
+        },
+        {
+          "scriptMessageId": "23655",
+          "speechCharactorId": "377",
+          "message": "リンを…\r\nリンを何とか守ってくれ！！"
+        },
+        {
+          "scriptMessageId": "23656",
+          "speechCharactorId": "377",
+          "message": "オレももうすぐ駆けつける！！"
+        },
+        {
+          "scriptMessageId": "23657",
+          "speechCharactorId": "491",
+          "message": "オビト…たぶんこれから\r\n戦闘になる…"
+        },
+        {
+          "scriptMessageId": "23658",
+          "speechCharactorId": "491",
+          "message": "その前に少し\r\n言っときたいんだけど…"
+        },
+        {
+          "scriptMessageId": "23659",
+          "speechCharactorId": "377",
+          "message": "何だ！？"
+        },
+        {
+          "scriptMessageId": "23660",
+          "speechCharactorId": "491",
+          "message": "君の戦闘能力はボクより低い"
+        },
+        {
+          "scriptMessageId": "23661",
+          "speechCharactorId": "377",
+          "message": "だから何だよ！？"
+        },
+        {
+          "scriptMessageId": "23662",
+          "speechCharactorId": "491",
+          "message": "戦闘はボクが動いた方が\r\nいいと思うけど…"
+        },
+        {
+          "scriptMessageId": "23663",
+          "speechCharactorId": "377",
+          "message": "マダラも言ってただろ"
+        },
+        {
+          "scriptMessageId": "23664",
+          "speechCharactorId": "377",
+          "message": "写輪眼は左右揃って\r\n本来の力を発揮するって！"
+        },
+        {
+          "scriptMessageId": "23665",
+          "speechCharactorId": "377",
+          "message": "戦場にはオレと対になる\r\n写輪眼のカカシが居る！"
+        },
+        {
+          "scriptMessageId": "23666",
+          "speechCharactorId": "377",
+          "message": "奴とのコンビネーションは\r\nオレのが上だ！"
+        },
+        {
+          "scriptMessageId": "23667",
+          "speechCharactorId": "377",
+          "message": "オレとカカシでリンを守る！"
+        },
+        {
+          "scriptMessageId": "23668",
+          "speechCharactorId": "377",
+          "message": "ぐッ！！"
+        },
+        {
+          "scriptMessageId": "23669",
+          "speechCharactorId": "377",
+          "message": "何だコレ！！？"
+        },
+        {
+          "scriptMessageId": "23670",
+          "speechCharactorId": "377",
+          "message": "変なイメージしてんじゃねェ！！"
+        },
+        {
+          "scriptMessageId": "23671",
+          "speechCharactorId": "377",
+          "message": "…もう少し…"
+        },
+        {
+          "scriptMessageId": "23672",
+          "speechCharactorId": "377",
+          "message": "もう少しだ！！"
+        },
+        {
+          "scriptMessageId": "23673",
+          "speechCharactorId": "143",
+          "message": "…カカシ…"
+        },
+        {
+          "scriptMessageId": "23674",
+          "speechCharactorId": "577",
+          "message": "こんな現実……\r\n認めてやるもんかァ！！！"
+        },
+        {
+          "scriptMessageId": "23675",
+          "speechCharactorId": "577",
+          "message": "ウオオオオォォオオ！！"
+        },
+        {
+          "scriptMessageId": "23676",
+          "speechCharactorId": "577",
+          "message": "ここは…"
+        },
+        {
+          "scriptMessageId": "23677",
+          "speechCharactorId": "577",
+          "message": "…一体…どこだ…？"
+        },
+        {
+          "scriptMessageId": "23678",
+          "speechCharactorId": "577",
+          "message": "…そうか…"
+        },
+        {
+          "scriptMessageId": "23679",
+          "speechCharactorId": "577",
+          "message": "オレは…"
+        },
+        {
+          "scriptMessageId": "23680",
+          "speechCharactorId": "377",
+          "message": "地獄に居る"
+        },
+        {
+          "scriptMessageId": "23681",
+          "speechCharactorId": "0",
+          "message": "…夢だから\r\nなんだって思い通り…"
+        },
+        {
+          "scriptMessageId": "23682",
+          "speechCharactorId": "0",
+          "message": "死んだ人だって\r\n生きてることにできる"
+        },
+        {
+          "scriptMessageId": "23683",
+          "speechCharactorId": "0",
+          "message": "勝者だけの世界"
+        },
+        {
+          "scriptMessageId": "23684",
+          "speechCharactorId": "0",
+          "message": "平和だけの世界"
+        },
+        {
+          "scriptMessageId": "23685",
+          "speechCharactorId": "0",
+          "message": "愛だけの世界"
+        },
+        {
+          "scriptMessageId": "23686",
+          "speechCharactorId": "0",
+          "message": "それらだけの世界を造る"
+        },
+        {
+          "scriptMessageId": "23687",
+          "speechCharactorId": "486",
+          "message": "リン…"
+        },
+        {
+          "scriptMessageId": "23688",
+          "speechCharactorId": "486",
+          "message": "もう一度…"
+        },
+        {
+          "scriptMessageId": "23689",
+          "speechCharactorId": "486",
+          "message": "もう一度……"
+        },
+        {
+          "scriptMessageId": "23690",
+          "speechCharactorId": "486",
+          "message": "君のいる世界を創ろう…"
+        },
+        {
+          "scriptMessageId": "23764",
+          "speechCharactorId": "143",
+          "message": "カカシ…\r\n私を殺して！！"
+        },
+        {
+          "scriptMessageId": "23765",
+          "speechCharactorId": "143",
+          "message": "囚われた時、何かをされたの！\r\nこのままだと、里の脅威になるかもしれない！！"
+        },
+        {
+          "scriptMessageId": "23766",
+          "speechCharactorId": "138",
+          "message": "そんな事できるか！\r\nオビトに守ると約束した！！"
+        },
+        {
+          "scriptMessageId": "23767",
+          "speechCharactorId": "143",
+          "message": "ごめんね………"
+        },
+        {
+          "scriptMessageId": "23768",
+          "speechCharactorId": "138",
+          "message": "……リン！？"
+        },
+        {
+          "scriptMessageId": "23769",
+          "speechCharactorId": "577",
+          "message": "ここは……"
+        },
+        {
+          "scriptMessageId": "23770",
+          "speechCharactorId": "577",
+          "message": "一体ここは…"
+        },
+        {
+          "scriptMessageId": "23771",
+          "speechCharactorId": "577",
+          "message": "何だ…！？"
+        },
+        {
+          "scriptMessageId": "23772",
+          "speechCharactorId": "577",
+          "message": "…認めるか…！！"
+        },
+        {
+          "scriptMessageId": "23773",
+          "speechCharactorId": "577",
+          "message": "こんなもの……"
+        },
+        {
+          "scriptMessageId": "23774",
+          "speechCharactorId": "577",
+          "message": "認めてやるもんかァ！！！"
+        },
+        {
+          "scriptMessageId": "23775",
+          "speechCharactorId": "470",
+          "message": "増援か！？"
+        },
+        {
+          "scriptMessageId": "23776",
+          "speechCharactorId": "470",
+          "message": "バカが！たった一人で…"
+        },
+        {
+          "scriptMessageId": "23777",
+          "speechCharactorId": "470",
+          "message": "血霧の里をなめるなよ！！"
+        },
+        {
+          "scriptMessageId": "23778",
+          "speechCharactorId": "577",
+          "message": "ウウウー…"
+        },
+        {
+          "scriptMessageId": "23779",
+          "speechCharactorId": "577",
+          "message": "ウオオオオオ！！！"
+        },
+        {
+          "scriptMessageId": "23780",
+          "speechCharactorId": "470",
+          "message": "なんだ…？…今のは"
+        },
+        {
+          "scriptMessageId": "23781",
+          "speechCharactorId": "470",
+          "message": "かわしたのか…？"
+        },
+        {
+          "scriptMessageId": "23782",
+          "speechCharactorId": "577",
+          "message": "ウァアアアオオオ"
+        },
+        {
+          "scriptMessageId": "23783",
+          "speechCharactorId": "577",
+          "message": "死ね！！"
+        },
+        {
           "scriptMessageId": "40001",
           "speechCharactorId": "178",
           "message": "絶望しかないこの世界に\r\n存在する価値はない"
