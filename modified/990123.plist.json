@@ -26559,7 +26559,7 @@
           "ope2Target": "40",
           "ope2Prob": "10000",
           "ope2SyncTargetId": "0",
-          "ope2Params": "3,14000,4000",
+          "ope2Params": "3,4000,4000",
           "ope3No": "11",
           "ope3AffId": "900",
           "ope3Target": "2",
