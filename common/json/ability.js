@@ -5150,9 +5150,9 @@ window.ability=[
         {
           "abilityId": "573",
           "abilityName": "暗部最年少の天才",
-          "abilityDescription": "最大HPと素早さが50％アップし、行動後に高確率で再行動できる※再行動後にさらに行動はできない",
-          "abilityEffectDescription": "最大HPと素早さが50％アップし、行動後に高確率で再行動できる※再行動後にさらに行動はできない",
-          "effectIdx1": "769",
+          "abilityDescription": "最大HPと素早さが50％アップし、行動後に再行動できる※再行動後にさらに行動はできない",
+          "abilityEffectDescription": "最大HPと素早さが50％アップし、行動後に再行動できる※再行動後にさらに行動はできない",
+          "effectIdx1": "1893",
           "effectIdx2": "112",
           "effectIdx3": "10049"
         },
@@ -6158,10 +6158,10 @@ window.ability=[
         {
           "abilityId": "685",
           "abilityName": "因果を断ち切る",
-          "abilityDescription": "チャクラ消費量が20%ダウンし、スキルダメージが120%アップする",
-          "abilityEffectDescription": "チャクラ消費量が20%ダウンし、スキルダメージが120%アップする",
+          "abilityDescription": "チャクラ消費量が30%ダウンし、スキルダメージが120%アップする",
+          "abilityEffectDescription": "チャクラ消費量が30%ダウンし、スキルダメージが120%アップする",
           "effectIdx1": "30011",
-          "effectIdx2": "860",
+          "effectIdx2": "859",
           "effectIdx3": "0"
         },
         {
@@ -9839,20 +9839,20 @@ window.ability=[
         {
           "abilityId": "1094",
           "abilityName": "九尾チャクラモード",
-          "abilityDescription": "最大チャクラ量が150アップ、スキルダメージが200%アップ、行動後に低確率でチャクラ30%回復",
-          "abilityEffectDescription": "最大チャクラ量が150アップ、スキルダメージが200%アップ、行動後に低確率でチャクラ30%回復",
+          "abilityDescription": "最大チャクラ量が150アップ、スキルダメージが200%アップ、行動後に高確率でチャクラ30%回復",
+          "abilityEffectDescription": "最大チャクラ量が150アップ、スキルダメージが200%アップ、行動後に高確率でチャクラ30%回復",
           "effectIdx1": "20014",
           "effectIdx2": "30019",
-          "effectIdx3": "1269"
+          "effectIdx3": "1891"
         },
         {
           "abilityId": "1095",
           "abilityName": "厳しき宿業",
-          "abilityDescription": "最大HPが150%アップし、最大チャクラ量が100アップする",
-          "abilityEffectDescription": "最大HPが150%アップし、最大チャクラ量が100アップする",
+          "abilityDescription": "最大HPが150%アップ&amp;最大チャクラ量が100アップ、2回行動までチャクラ消費量半減",
+          "abilityEffectDescription": "最大HPが150%アップ&amp;最大チャクラ量が100アップ、2回行動までチャクラ消費量半減",
           "effectIdx1": "1212",
           "effectIdx2": "20009",
-          "effectIdx3": "0"
+          "effectIdx3": "1521"
         },
         {
           "abilityId": "1096",
@@ -10352,11 +10352,11 @@ window.ability=[
         {
           "abilityId": "1151",
           "abilityName": "輪廻写輪眼",
-          "abilityDescription": "最大HPを120%、最大チャクラ量を120アップし、確率でスキルを回避する",
-          "abilityEffectDescription": "最大HPを120%、最大チャクラ量を120アップし、確率でスキルを回避する",
+          "abilityDescription": "最大HPを120%、最大チャクラ量を120アップし、高確率でスキルを回避する",
+          "abilityEffectDescription": "最大HPを120%、最大チャクラ量を120アップし、高確率でスキルを回避する",
           "effectIdx1": "1221",
           "effectIdx2": "20011",
-          "effectIdx3": "734"
+          "effectIdx3": "968"
         },
         {
           "abilityId": "1152",
@@ -13988,10 +13988,10 @@ window.ability=[
         {
           "abilityId": "1585",
           "abilityName": "六道仙術の開花",
-          "abilityDescription": "10回行動するまでスキルダメージが150％アップする",
-          "abilityEffectDescription": "10回行動するまでスキルダメージが150％アップする",
+          "abilityDescription": "10回行動するまで、スキルダメージ150％アップ&amp;素早さ90％アップ",
+          "abilityEffectDescription": "10回行動するまで、スキルダメージ150％アップ&amp;素早さ90％アップ",
           "effectIdx1": "30914",
-          "effectIdx2": "0",
+          "effectIdx2": "1171",
           "effectIdx3": "0"
         },
         {
@@ -17284,7 +17284,7 @@ window.ability=[
           "abilityName": "空気入り物質化霊",
           "abilityDescription": "弱体と状態異常を無効化、行動後にチャクラが15％回復",
           "abilityEffectDescription": "弱体と状態異常を無効化、行動後にチャクラが15％回復",
-          "effectIdx1": "64",
+          "effectIdx1": "1772",
           "effectIdx2": "82",
           "effectIdx3": "648"
         },
@@ -17541,6 +17541,24 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "1993",
+          "abilityName": "可憐なる乙女心",
+          "abilityDescription": "素早さが90%アップし、低確率でスキルを回避する",
+          "abilityEffectDescription": "素早さが90%アップし、低確率でスキルを回避する",
+          "effectIdx1": "13089",
+          "effectIdx2": "1785",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1994",
+          "abilityName": "強気の女子力",
+          "abilityDescription": "攻撃力が120％アップし、行動後にチャクラが10％回復する",
+          "abilityEffectDescription": "攻撃力が120％アップし、行動後にチャクラが10％回復する",
+          "effectIdx1": "736",
+          "effectIdx2": "1767",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "1995",
           "abilityName": "リミッターの全開放",
           "abilityDescription": "HP70%以上の時、通常攻撃が回避されない",
@@ -17575,6 +17593,42 @@ window.ability=[
           "effectIdx1": "1800",
           "effectIdx2": "1378",
           "effectIdx3": "1756"
+        },
+        {
+          "abilityId": "1999",
+          "abilityName": "殺意の樹槍",
+          "abilityDescription": "敵に木ノ葉の里所属がいるとHPが0以下で3回までHPが全回復する",
+          "abilityEffectDescription": "敵に木ノ葉の里所属がいるとHPが0以下で3回までHPが全回復する",
+          "effectIdx1": "1886",
+          "effectIdx2": "874",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2000",
+          "abilityName": "慟哭の万華鏡開眼",
+          "abilityDescription": "素早さが80%アップし、高確率でスキルを回避する",
+          "abilityEffectDescription": "素早さが80%アップし、高確率でスキルを回避する",
+          "effectIdx1": "13079",
+          "effectIdx2": "968",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2013",
+          "abilityName": "医療忍術の才能",
+          "abilityDescription": "HP回復スキルの基礎回復量を200%アップ",
+          "abilityEffectDescription": "HP回復スキルの基礎回復量を200%アップ",
+          "effectIdx1": "1896",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2014",
+          "abilityName": "優しさと愛情",
+          "abilityDescription": "行動後にHPとチャクラが20％回復する",
+          "abilityEffectDescription": "行動後にHPとチャクラが20％回復する",
+          "effectIdx1": "628",
+          "effectIdx2": "583",
+          "effectIdx3": "0"
         },
         {
           "abilityId": "10000",
@@ -17685,11 +17739,47 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "10400",
+          "abilityName": "スキルダメージアップ（大）",
+          "abilityDescription": "スキルダメージが大きくアップする",
+          "abilityEffectDescription": "スキルダメージが大きくアップする",
+          "effectIdx1": "652",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "10401",
+          "abilityName": "スキルダメージアップ（中）",
+          "abilityDescription": "スキルダメージがアップする",
+          "abilityEffectDescription": "スキルダメージがアップする",
+          "effectIdx1": "682",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "10402",
+          "abilityName": "スキルダメージアップ（小）",
+          "abilityDescription": "スキルダメージが少しアップする",
+          "abilityEffectDescription": "スキルダメージが少しアップする",
+          "effectIdx1": "615",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "11000",
           "abilityName": "被ダメージ時HP自動回復（5回）",
           "abilityDescription": "ダメージを受けたときにHPが全回復する（5回行動まで）",
           "abilityEffectDescription": "ダメージを受けたときにHPが全回復する（5回行動まで）",
           "effectIdx1": "1307",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "11001",
+          "abilityName": "被ダメージ時HP2000000回復",
+          "abilityDescription": "ダメージを受けたときにHPが2000000回復する",
+          "abilityEffectDescription": "ダメージを受けたときにHPが2000000回復する",
+          "effectIdx1": "1873",
           "effectIdx2": "0",
           "effectIdx3": "0"
         },
@@ -17807,6 +17897,24 @@ window.ability=[
           "abilityDescription": "耐性無視を無効化",
           "abilityEffectDescription": "耐性無視を無効化",
           "effectIdx1": "1750",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "11800",
+          "abilityName": "3回行動するまで素早さ333%アップ",
+          "abilityDescription": "3回行動するまで素早さ333%アップ",
+          "abilityEffectDescription": "3回行動するまで素早さ333%アップ",
+          "effectIdx1": "1862",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "11801",
+          "abilityName": "素早さ30%アップ（最大5回まで）",
+          "abilityDescription": "行動するたびに素早さ30%アップ（最大5回まで）",
+          "abilityEffectDescription": "行動するたびに素早さ30%アップ（最大5回まで）",
+          "effectIdx1": "1424",
           "effectIdx2": "0",
           "effectIdx3": "0"
         },

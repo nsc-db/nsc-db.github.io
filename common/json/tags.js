@@ -6195,8 +6195,24 @@ window.tags=[
           "cardId": "20040904",
           "rare": "5",
           "tag": "ex-6",
+          "rate": "82",
+          "pvp": "84",
+          "nickname": "Good Gaara | War Gaara"
+},
+{
+          "cardId": "20040905",
+          "rare": "5",
+          "tag": "killers",
           "rate": "-",
           "pvp": "-",
-          "nickname": "Good Gaara | War Gaara"
+          "nickname": "Killer Rage Obito"
+},
+{
+          "cardId": "20040912",
+          "rare": "5",
+          "tag": "event",
+          "rate": "-",
+          "pvp": "-",
+          "nickname": ""
 },
 ]

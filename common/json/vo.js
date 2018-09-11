@@ -1680,6 +1680,18 @@ window.vo=[
           "voiceDeath": "gaara_death_02_03"
         },
         {
+          "cardVoiceId": "141",
+          "cardId": "20040905",
+          "dirName": "obito",
+          "evolutionStep": "",
+          "voiceAppear": "obito_skill_04_05",
+          "voiceSkill1": "obito_skill_04_06",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "obito_damage_04_01",
+          "voiceDeath": "obito_damage_04_02"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",
