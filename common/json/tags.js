@@ -6208,6 +6208,14 @@ window.tags=[
           "nickname": "Killer Rage Obito"
 },
 {
+          "cardId": "20040906",
+          "rare": "5",
+          "tag": "ex-6",
+          "rate": "-",
+          "pvp": "-",
+          "nickname": "Birthday Kakashi"
+},
+{
           "cardId": "20040912",
           "rare": "5",
           "tag": "event",

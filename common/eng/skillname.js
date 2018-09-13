@@ -6636,6 +6636,11 @@ window.skillname=[
           "eng": "I Will Begin Immediately"
         },
         {
+          "cardBattleSkillNameId": "2521",
+          "name": "世界を守る！！",
+          "eng": "Protecting the World!!"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！",
           "eng": ""

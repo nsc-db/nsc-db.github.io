@@ -8182,5 +8182,29 @@ window.unique=[
           "effectIdx2": "628",
           "effectIdx3": "583",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "694",
+          "targetCrystal": "10907",
+          "description": "行動後にチャクラ10%回復。班の五大隠れ里所属のキャラ1体につき、チャクラ消費量20%ダウン（自身含む）",
+          "charaIds": "1702,1704,1706",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "528",
+          "effectIdx2": "1899",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "695",
+          "targetCrystal": "10908",
+          "description": "最大HP70%アップ、雷遁と写輪眼のスキルダメージ無効、素早さ50%アップ",
+          "charaIds": "1701,1702,1703,1704,1705,1706",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "638",
+          "effectIdx2": "86",
+          "effectIdx3": "79",
+          "effectIdx4": "112"
         }
 ]
