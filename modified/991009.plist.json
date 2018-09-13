@@ -1428,6 +1428,11 @@
           "itemImgId": "23"
         },
         {
+          "shopExchangeItemId": "293",
+          "itemName": "ランクPt",
+          "itemImgId": "11"
+        },
+        {
           "shopExchangeItemId": "1001",
           "itemName": "下心Pt",
           "itemImgId": "166"
@@ -1741,6 +1746,11 @@
           "shopExchangeItemId": "2044",
           "itemName": "忍交換券[夏]",
           "itemImgId": "2011"
+        },
+        {
+          "shopExchangeItemId": "2045",
+          "itemName": "メニューボイス交換券",
+          "itemImgId": "2034"
         },
         {
           "shopExchangeItemId": "2046",

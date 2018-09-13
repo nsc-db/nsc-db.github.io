@@ -56098,6 +56098,491 @@
           "message": "死ね！！"
         },
         {
+          "scriptMessageId": "23784",
+          "speechCharactorId": "266",
+          "message": "カカシ先生、遅い！\r\nもうルール説明終わったってばよォ！！"
+        },
+        {
+          "scriptMessageId": "23785",
+          "speechCharactorId": "189",
+          "message": "いやーすまんすまん\r\n今日は夢という名の人生に迷ってな"
+        },
+        {
+          "scriptMessageId": "23786",
+          "speechCharactorId": "194",
+          "message": "はい、ウソ！！"
+        },
+        {
+          "scriptMessageId": "23787",
+          "speechCharactorId": "266",
+          "message": "あーあ……\r\nオレはカカシ先生とは違うブロックだって\r\nオレもカカシ先生と戦いたかったのによォ"
+        },
+        {
+          "scriptMessageId": "23788",
+          "speechCharactorId": "194",
+          "message": "私は救護班なので医療テントで待機です"
+        },
+        {
+          "scriptMessageId": "23789",
+          "speechCharactorId": "189",
+          "message": "はぁ～…しかしお前らは元気だね"
+        },
+        {
+          "scriptMessageId": "23790",
+          "speechCharactorId": "194",
+          "message": "カカシ先生、優勝目指して頑張って下さいね！"
+        },
+        {
+          "scriptMessageId": "23791",
+          "speechCharactorId": "266",
+          "message": "サクラちゃん、オレの応援はぁ！？"
+        },
+        {
+          "scriptMessageId": "23792",
+          "speechCharactorId": "194",
+          "message": "うっさいナルト！\r\nアンタもしっかりね！！"
+        },
+        {
+          "scriptMessageId": "23793",
+          "speechCharactorId": "189",
+          "message": "（いや～…なんで今日、こんなイベントなのよ…）"
+        },
+        {
+          "scriptMessageId": "23794",
+          "speechCharactorId": "189",
+          "message": "いきなり、うちはイタチ…"
+        },
+        {
+          "scriptMessageId": "23795",
+          "speechCharactorId": "5",
+          "message": "初戦から、カカシさんですか"
+        },
+        {
+          "scriptMessageId": "23796",
+          "speechCharactorId": "189",
+          "message": "これは気を引き締めてかからないとね…"
+        },
+        {
+          "scriptMessageId": "23797",
+          "speechCharactorId": "232",
+          "message": "カカシよ！！\r\nオレとお前は決勝で当たるようだ！\r\n決勝で待ーーーつ！！"
+        },
+        {
+          "scriptMessageId": "23798",
+          "speechCharactorId": "189",
+          "message": "ガイ……お前ね…"
+        },
+        {
+          "scriptMessageId": "23799",
+          "speechCharactorId": "5",
+          "message": "あの人は、相変わらずだ…"
+        },
+        {
+          "scriptMessageId": "23800",
+          "speechCharactorId": "5",
+          "message": "流石ですね"
+        },
+        {
+          "scriptMessageId": "23801",
+          "speechCharactorId": "189",
+          "message": "ま、お前もね…"
+        },
+        {
+          "scriptMessageId": "23802",
+          "speechCharactorId": "189",
+          "message": "（初戦から写輪眼全開…\r\n　これ以上は厳しいか…）"
+        },
+        {
+          "scriptMessageId": "23803",
+          "speechCharactorId": "5",
+          "message": "次はオレの奥の手を見せますよ"
+        },
+        {
+          "scriptMessageId": "23804",
+          "speechCharactorId": "204",
+          "message": "須佐能乎…これがオレの奥の手です"
+        },
+        {
+          "scriptMessageId": "23805",
+          "speechCharactorId": "189",
+          "message": "……まいったね、どーも…"
+        },
+        {
+          "scriptMessageId": "23806",
+          "speechCharactorId": "189",
+          "message": "でも、ま、やってみますか"
+        },
+        {
+          "scriptMessageId": "23807",
+          "speechCharactorId": "204",
+          "message": "……まさか、凌がれるとは\r\nお見事です…"
+        },
+        {
+          "scriptMessageId": "23808",
+          "speechCharactorId": "189",
+          "message": "…こちらの運が良かっただけだ"
+        },
+        {
+          "scriptMessageId": "23809",
+          "speechCharactorId": "204",
+          "message": "本当に切り札の使い方が\r\nお上手だ"
+        },
+        {
+          "scriptMessageId": "23810",
+          "speechCharactorId": "51",
+          "message": "カカシさんですか\r\nこれは大一番になりそうですね"
+        },
+        {
+          "scriptMessageId": "23811",
+          "speechCharactorId": "51",
+          "message": "同じ木ノ葉の仲間とはいえ\r\n手は抜きませんよ！！"
+        },
+        {
+          "scriptMessageId": "23812",
+          "speechCharactorId": "189",
+          "message": "…やれるだけやってみますか！"
+        },
+        {
+          "scriptMessageId": "23813",
+          "speechCharactorId": "51",
+          "message": "流石です…\r\nですが、まだやれますよ"
+        },
+        {
+          "scriptMessageId": "23814",
+          "speechCharactorId": "189",
+          "message": "ま、そうなりますか"
+        },
+        {
+          "scriptMessageId": "23815",
+          "speechCharactorId": "51",
+          "message": "ええ、ここからが本番ですよ"
+        },
+        {
+          "scriptMessageId": "23816",
+          "speechCharactorId": "51",
+          "message": "忍術とはいざという時に放つからこそ…\r\n最大の効果が得られるのです！！"
+        },
+        {
+          "scriptMessageId": "23817",
+          "speechCharactorId": "189",
+          "message": "……！！"
+        },
+        {
+          "scriptMessageId": "23818",
+          "speechCharactorId": "51",
+          "message": "いきますよ！！"
+        },
+        {
+          "scriptMessageId": "23819",
+          "speechCharactorId": "51",
+          "message": "…………"
+        },
+        {
+          "scriptMessageId": "23820",
+          "speechCharactorId": "51",
+          "message": "に…忍術は披露するものでは\r\nありませんから…"
+        },
+        {
+          "scriptMessageId": "23821",
+          "speechCharactorId": "189",
+          "message": "…………"
+        },
+        {
+          "scriptMessageId": "23822",
+          "speechCharactorId": "3",
+          "message": "カカシか\r\nどうやら…遊んでる余裕はなさそうだ"
+        },
+        {
+          "scriptMessageId": "23823",
+          "speechCharactorId": "3",
+          "message": "……さて、どの急所を狙おうか"
+        },
+        {
+          "scriptMessageId": "23824",
+          "speechCharactorId": "189",
+          "message": "霧中の戦い…\r\nお前の十八番だな"
+        },
+        {
+          "scriptMessageId": "23825",
+          "speechCharactorId": "3",
+          "message": "チッ…まだだ"
+        },
+        {
+          "scriptMessageId": "23826",
+          "speechCharactorId": "189",
+          "message": "さて…次はどうする？"
+        },
+        {
+          "scriptMessageId": "23827",
+          "speechCharactorId": "266",
+          "message": "カカシ先生ーーーーーーーー！！\r\nオレ、負けちまったってばよォ！！！"
+        },
+        {
+          "scriptMessageId": "23828",
+          "speechCharactorId": "194",
+          "message": "ナルト！あんたが仙術使ったからでしょーが！！"
+        },
+        {
+          "scriptMessageId": "23829",
+          "speechCharactorId": "189",
+          "message": "ナルト…お前ね…"
+        },
+        {
+          "scriptMessageId": "23830",
+          "speechCharactorId": "3",
+          "message": "………オイ"
+        },
+        {
+          "scriptMessageId": "23831",
+          "speechCharactorId": "189",
+          "message": "…すまない再不斬……"
+        },
+        {
+          "scriptMessageId": "23832",
+          "speechCharactorId": "3",
+          "message": "今回は勝ちを譲ってやる\r\n次は無ェがな"
+        },
+        {
+          "scriptMessageId": "23833",
+          "speechCharactorId": "189",
+          "message": "……緊迫感が……"
+        },
+        {
+          "scriptMessageId": "23834",
+          "speechCharactorId": "220",
+          "message": "お、勝ち上がって来たね"
+        },
+        {
+          "scriptMessageId": "23835",
+          "speechCharactorId": "189",
+          "message": "ミナト先生……"
+        },
+        {
+          "scriptMessageId": "23836",
+          "speechCharactorId": "189",
+          "message": "あの頃のオレとは違いますよ"
+        },
+        {
+          "scriptMessageId": "23837",
+          "speechCharactorId": "220",
+          "message": "どうかな？"
+        },
+        {
+          "scriptMessageId": "23838",
+          "speechCharactorId": "220",
+          "message": "やるねぇカカシ！"
+        },
+        {
+          "scriptMessageId": "23839",
+          "speechCharactorId": "189",
+          "message": "まだまだですよ"
+        },
+        {
+          "scriptMessageId": "23840",
+          "speechCharactorId": "525",
+          "message": "オレも本気を出していくよ！！"
+        },
+        {
+          "scriptMessageId": "23841",
+          "speechCharactorId": "189",
+          "message": "ミナト先生は速い…\r\n一瞬も気が抜けないな…"
+        },
+        {
+          "scriptMessageId": "23842",
+          "speechCharactorId": "525",
+          "message": "それじゃ…こういうのはどうだい！？"
+        },
+        {
+          "scriptMessageId": "23843",
+          "speechCharactorId": "525",
+          "message": "本当に腕をあげたね！"
+        },
+        {
+          "scriptMessageId": "23844",
+          "speechCharactorId": "189",
+          "message": "ありがとうございました"
+        },
+        {
+          "scriptMessageId": "23845",
+          "speechCharactorId": "189",
+          "message": "オビト…お前も勝ち上がってきたんだな"
+        },
+        {
+          "scriptMessageId": "23846",
+          "speechCharactorId": "483",
+          "message": "優勝候補だったマダラも柱間も\r\n互いを相手に盛り上がり\r\n規則違反で敗退した"
+        },
+        {
+          "scriptMessageId": "23847",
+          "speechCharactorId": "189",
+          "message": "………え？"
+        },
+        {
+          "scriptMessageId": "23848",
+          "speechCharactorId": "483",
+          "message": "行くぞカカシ！！"
+        },
+        {
+          "scriptMessageId": "23849",
+          "speechCharactorId": "483",
+          "message": "フン…今月はお前の誕生日だったな\r\n勝ちを譲ってやっただけだ"
+        },
+        {
+          "scriptMessageId": "23850",
+          "speechCharactorId": "189",
+          "message": "……オビト…お前…"
+        },
+        {
+          "scriptMessageId": "23851",
+          "speechCharactorId": "223",
+          "message": "神威の本当の力を\r\nお前に教えてやる！！"
+        },
+        {
+          "scriptMessageId": "23852",
+          "speechCharactorId": "189",
+          "message": "……ま、出し惜しみは\r\nしていられないか！"
+        },
+        {
+          "scriptMessageId": "23853",
+          "speechCharactorId": "223",
+          "message": "この戦いは…\r\nお前の勝ちでいい…"
+        },
+        {
+          "scriptMessageId": "23854",
+          "speechCharactorId": "189",
+          "message": "いや…オレの勝ちでしょ…"
+        },
+        {
+          "scriptMessageId": "23855",
+          "speechCharactorId": "232",
+          "message": "待っていたぞォォオオ！！"
+        },
+        {
+          "scriptMessageId": "23856",
+          "speechCharactorId": "189",
+          "message": "…………"
+        },
+        {
+          "scriptMessageId": "23857",
+          "speechCharactorId": "232",
+          "message": "どうしたカカシ！"
+        },
+        {
+          "scriptMessageId": "23858",
+          "speechCharactorId": "189",
+          "message": "いや…写輪眼の使い過ぎでね……"
+        },
+        {
+          "scriptMessageId": "23859",
+          "speechCharactorId": "232",
+          "message": "む…だが、オレは手を抜かんぞ！！"
+        },
+        {
+          "scriptMessageId": "23860",
+          "speechCharactorId": "189",
+          "message": "……ガイ、お前ね…\r\n八門の反動で、すでにボロボロじゃない…"
+        },
+        {
+          "scriptMessageId": "23861",
+          "speechCharactorId": "232",
+          "message": "言うな…カカシ！\r\n青春は…決勝に相応しい戦いはこれからだ…！"
+        },
+        {
+          "scriptMessageId": "23862",
+          "speechCharactorId": "215",
+          "message": "うおおおおお！！！\r\n八門遁甲の陣！！！"
+        },
+        {
+          "scriptMessageId": "23863",
+          "speechCharactorId": "189",
+          "message": "なっ…それを使ったらお前は…！！"
+        },
+        {
+          "scriptMessageId": "23864",
+          "speechCharactorId": "215",
+          "message": "フッ…カカシよ、オレはたゆまぬ努力の結果！\r\nついに死門のデメリットを乗り越えたのだ！"
+        },
+        {
+          "scriptMessageId": "23865",
+          "speechCharactorId": "215",
+          "message": "負けだと…！？"
+        },
+        {
+          "scriptMessageId": "23866",
+          "speechCharactorId": "215",
+          "message": "……くっ…\r\nカカシ…おめでとう！！"
+        },
+        {
+          "scriptMessageId": "23867",
+          "speechCharactorId": "215",
+          "message": "今日はお前の誕生日だったよな…\r\nこの勝利はオレからの青春のプレゼントだ！！！"
+        },
+        {
+          "scriptMessageId": "23868",
+          "speechCharactorId": "215",
+          "message": "今年も一緒に青春しよう！！！\r\n誕生日おめでとう！！！！！"
+        },
+        {
+          "scriptMessageId": "23869",
+          "speechCharactorId": "0",
+          "message": "無限月読…\r\nかかった者は無限の夢に陥る究極の幻術"
+        },
+        {
+          "scriptMessageId": "23870",
+          "speechCharactorId": "0",
+          "message": "これは、とある忍が\r\n無限の月で夢見た夢…"
+        },
+        {
+          "scriptMessageId": "23871",
+          "speechCharactorId": "0",
+          "message": "古今東西全ての里の忍が忍術を比べたら"
+        },
+        {
+          "scriptMessageId": "23872",
+          "speechCharactorId": "0",
+          "message": "一体…最強なのは、どの忍なのだろうか、と"
+        },
+        {
+          "scriptMessageId": "23873",
+          "speechCharactorId": "0",
+          "message": "伝説に謳われる初代火影…？"
+        },
+        {
+          "scriptMessageId": "23874",
+          "speechCharactorId": "0",
+          "message": "同じく伝説に語られる…うちはマダラか"
+        },
+        {
+          "scriptMessageId": "23875",
+          "speechCharactorId": "0",
+          "message": "はたまた、歴代の影を背負う者達か…"
+        },
+        {
+          "scriptMessageId": "23876",
+          "speechCharactorId": "0",
+          "message": "今…夢の中、各里有数の忍が集う！！"
+        },
+        {
+          "scriptMessageId": "23877",
+          "speechCharactorId": "59",
+          "message": "えー…忍炎武は一試合二本勝負となります"
+        },
+        {
+          "scriptMessageId": "23878",
+          "speechCharactorId": "59",
+          "message": "観客席に害が及ぶような大規模な破壊忍術\r\n及び忍術、体術以外の使用は禁じられております"
+        },
+        {
+          "scriptMessageId": "23879",
+          "speechCharactorId": "59",
+          "message": "また、手裏剣等の忍具に類するものの\r\n使用は無制限となります"
+        },
+        {
+          "scriptMessageId": "23880",
+          "speechCharactorId": "59",
+          "message": "類稀なる実力者達による\r\n規則を守った堂々たる術比べをご覧ください"
+        },
+        {
           "scriptMessageId": "40001",
           "speechCharactorId": "178",
           "message": "絶望しかないこの世界に\r\n存在する価値はない"

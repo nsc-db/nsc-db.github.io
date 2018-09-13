@@ -3868,6 +3868,21 @@
           "gachaTicketImgId": "3313"
         },
         {
+          "gachaTicketId": "3315",
+          "gachaTicketName": "カカシ誕生記念ガチャチケット",
+          "gachaTicketImgId": "3315"
+        },
+        {
+          "gachaTicketId": "3316",
+          "gachaTicketName": "カカシ誕生記念特別ガチャチケット",
+          "gachaTicketImgId": "3316"
+        },
+        {
+          "gachaTicketId": "3317",
+          "gachaTicketName": "カカシ誕生記念25%",
+          "gachaTicketImgId": "3317"
+        },
+        {
           "gachaTicketId": "3320",
           "gachaTicketName": "超忍祭[9月]確定",
           "gachaTicketImgId": "336"
@@ -3876,6 +3891,11 @@
           "gachaTicketId": "3327",
           "gachaTicketName": "メモリアル選抜ガチャチケット",
           "gachaTicketImgId": "3213"
+        },
+        {
+          "gachaTicketId": "3337",
+          "gachaTicketName": "1234日突破記念ガチャチケット",
+          "gachaTicketImgId": "3337"
         },
         {
           "gachaTicketId": "100084",

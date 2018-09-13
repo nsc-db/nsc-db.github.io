@@ -10771,6 +10771,22 @@
           "recipeName": "影の意志(火・水)"
         },
         {
+          "crystalId": "720",
+          "crystalType": "3",
+          "crystalRare": "5",
+          "effectIdx1": "1901",
+          "effectIdx2": "13649",
+          "effectIdx3": "569",
+          "effectIdx4": "570",
+          "money": "1000000",
+          "saleMoney": "2500",
+          "crystalName": "影の意志(雷・火)",
+          "crystalDescription": "攻撃力が15000、素早さが150アップ。行動ごとに攻撃・素早さが10%アップ（最大5回まで）",
+          "crystalImageId": "7135",
+          "recipeId": "720",
+          "recipeName": "影の意志(雷・火)"
+        },
+        {
           "crystalId": "727",
           "crystalType": "3",
           "crystalRare": "5",
@@ -15475,6 +15491,38 @@
           "recipeName": "リンへの想い"
         },
         {
+          "crystalId": "10907",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "446",
+          "effectIdx2": "273",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "カカシの手袋",
+          "crystalDescription": "行動後にチャクラ5%回復、チャクラ消費量5%ダウン",
+          "crystalImageId": "109075",
+          "recipeId": "10907",
+          "recipeName": "カカシの手袋"
+        },
+        {
+          "crystalId": "10908",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "470",
+          "effectIdx2": "85",
+          "effectIdx3": "78",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "カカシの土遁土流壁",
+          "crystalDescription": "最大HP30%アップ、雷遁と写輪眼のスキルダメージ半減",
+          "crystalImageId": "109085",
+          "recipeId": "10908",
+          "recipeName": "カカシの土遁土流壁"
+        },
+        {
           "crystalId": "10918",
           "crystalType": "3",
           "crystalRare": "5",
@@ -15485,7 +15533,7 @@
           "money": "30000",
           "saleMoney": "2500",
           "crystalName": "リン特製医療パック",
-          "crystalDescription": "行動する度にHPが25%回復し、全スキルダメージが20%減少する",
+          "crystalDescription": "行動する度にHPが25%回復するが、全スキルダメージが20%減少する",
           "crystalImageId": "109185",
           "recipeId": "10918",
           "recipeName": "リン特製医療パック"

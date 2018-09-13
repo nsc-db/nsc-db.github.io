@@ -1483,6 +1483,38 @@
           "equipStatus": "1"
         },
         {
+          "titleId": "267",
+          "title": "天下一の",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "268",
+          "title": "勇名轟く",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "269",
+          "title": "盛り上がる",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "270",
+          "title": "思いっきり",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "1"
+        },
+        {
           "titleId": "1000",
           "title": "忍者学校生",
           "description": "",
@@ -2907,6 +2939,38 @@
           "equipStatus": "2"
         },
         {
+          "titleId": "1271",
+          "title": "ハイスピード！",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1272",
+          "title": "揺るがぬ青春",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1273",
+          "title": "忍炎武",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1274",
+          "title": "反則負け",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "2"
+        },
+        {
           "titleId": "5000",
           "title": "忍道を極めし者",
           "description": "",
@@ -4205,6 +4269,30 @@
         {
           "titleId": "5253",
           "title": "猫みたいな人",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5254",
+          "title": "忍炎武の頂点",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5255",
+          "title": "カカシ誕生日おめでとう！",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5256",
+          "title": "燃え上れ青春の写輪眼",
           "description": "0",
           "color": "0",
           "effectIds": "0",
