@@ -10088,6 +10088,19 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "788",
+          "name": "蒼き轟雷",
+          "description": "全属性の雷遁・写輪眼スキルダメージが150%アップする",
+          "effectIdx1": "1566",
+          "effectIdx2": "1530",
+          "effectIdx3": "0",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "794",
           "name": "心優しき癒し手",
           "description": "木ノ葉隠れの里所属の攻撃・防御・素早さを20％アップする",

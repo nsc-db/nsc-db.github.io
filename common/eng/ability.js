@@ -17595,6 +17595,24 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2001",
+          "abilityName": "Revival of Fame",
+          "abilityDescription": "Skill Damage +100%, high chance to dodge Skills. Withstand one killing blow and set HP to 1 ",
+          "abilityEffectDescription": "スキルダメージを100%アップ、超高確率でスキル回避、一度だけHP1で耐える",
+          "effectIdx1": "774",
+          "effectIdx2": "1897",
+          "effectIdx3": "312"
+        },
+        {
+          "abilityId": "2002",
+          "abilityName": "Hope Remains in the Eyes",
+          "abilityDescription": "SPD +25% per Five Village allies",
+          "abilityEffectDescription": "班の五大隠れ里所属のキャラ1体につき、素早さが25%アップ（自身含む）",
+          "effectIdx1": "1898",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "2013",
           "abilityName": "Medical Ninjutsu Ability",
           "abilityDescription": "HP Recovery Effect +200%",

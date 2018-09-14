@@ -5308,6 +5308,10 @@ window.skillname=[
           "name": "すぐ始めるから！"
         },
         {
+          "cardBattleSkillNameId": "2521",
+          "name": "世界を守る！！"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },

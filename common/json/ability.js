@@ -17613,6 +17613,24 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2001",
+          "abilityName": "勇名の復活",
+          "abilityDescription": "スキルダメージを100%アップ、超高確率でスキル回避、一度だけHP1で耐える",
+          "abilityEffectDescription": "スキルダメージを100%アップ、超高確率でスキル回避、一度だけHP1で耐える",
+          "effectIdx1": "774",
+          "effectIdx2": "1897",
+          "effectIdx3": "312"
+        },
+        {
+          "abilityId": "2002",
+          "abilityName": "想い宿る瞳",
+          "abilityDescription": "班の五大隠れ里所属のキャラ1体につき、素早さが25%アップ（自身含む）",
+          "abilityEffectDescription": "班の五大隠れ里所属のキャラ1体につき、素早さが25%アップ（自身含む）",
+          "effectIdx1": "1898",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "2013",
           "abilityName": "医療忍術の才能",
           "abilityDescription": "HP回復スキルの基礎回復量を200%アップ",

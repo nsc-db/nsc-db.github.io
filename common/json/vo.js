@@ -1704,6 +1704,42 @@ window.vo=[
           "voiceDeath": "naruto_death_02_03"
         },
         {
+          "cardVoiceId": "142",
+          "cardId": "20030503",
+          "dirName": "naruto",
+          "evolutionStep": "7",
+          "voiceAppear": "naruto_battle_02_03",
+          "voiceSkill1": "naruto_skill_02_02",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "naruto_win_02_03",
+          "voiceDeath": "naruto_death_02_01"
+        },
+        {
+          "cardVoiceId": "143",
+          "cardId": "20001848",
+          "dirName": "sasuke",
+          "evolutionStep": "7",
+          "voiceAppear": "sasuke_battle_03_02",
+          "voiceSkill1": "sasuke_battle_03_01",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "sasuke_win_03_01",
+          "voiceDeath": "sasuke_death_03_02"
+        },
+        {
+          "cardVoiceId": "144",
+          "cardId": "20040906",
+          "dirName": "kakasi",
+          "evolutionStep": "",
+          "voiceAppear": "kakasi_battle_02_06",
+          "voiceSkill1": "kakasi_skill_02_05,kakasi_pursuit_02_02",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "kakasi_skill_02_13",
+          "voiceDeath": "kakasi_death_02_04"
+        },
+        {
           "cardVoiceId": "8002",
           "cardId": "80000002",
           "dirName": "sasuke",
