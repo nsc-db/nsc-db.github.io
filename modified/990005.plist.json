@@ -553,6 +553,16 @@
           "enemyEffects": null
         },
         {
+          "battleFieldEffectId": "64",
+          "name": "尊く敬うんだな！コレ！！",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "1840,1510,",
+          "enemyEffects": null
+        },
+        {
           "battleFieldEffectId": "65",
           "name": "ナルコレ忍炎武",
           "category": "1",

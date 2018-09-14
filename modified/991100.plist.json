@@ -3237,6 +3237,20 @@
           "gender": "2"
         },
         {
+          "charaProfileId": "51701",
+          "charaId": "517",
+          "name": "三代目雷影",
+          "detail": null,
+          "charaLoveAffinityGroupId": "51710",
+          "birthday": "0",
+          "constellation": "0",
+          "height": "0",
+          "weight": "0",
+          "bloodType": "0",
+          "age": "0",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "100101",
           "charaId": "0",
           "name": "体のガマ",

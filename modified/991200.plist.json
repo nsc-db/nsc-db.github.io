@@ -8209,6 +8209,30 @@
           "effectIdx2": "86",
           "effectIdx3": "79",
           "effectIdx4": "112"
+        },
+        {
+          "crystalOverwriteEffectId": "696",
+          "targetCrystal": "10909",
+          "description": "最大HPと素早さが80%アップし、状態異常を無効化",
+          "charaIds": "2201,2202,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "649",
+          "effectIdx2": "13079",
+          "effectIdx3": "82",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "697",
+          "targetCrystal": "10910",
+          "description": "最大チャクラ量が50アップし、行動後HPとチャクラが20%回復する",
+          "charaIds": "2201,2202,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "689",
+          "effectIdx2": "628",
+          "effectIdx3": "1768",
+          "effectIdx4": "0"
         }
       ]
     }

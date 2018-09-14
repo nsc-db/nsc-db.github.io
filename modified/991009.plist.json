@@ -1538,6 +1538,11 @@
           "itemImgId": "1013"
         },
         {
+          "shopExchangeItemId": "1022",
+          "itemName": "個人Pt",
+          "itemImgId": "23"
+        },
+        {
           "shopExchangeItemId": "2000",
           "itemName": "忍交換券(8月)",
           "itemImgId": "43"

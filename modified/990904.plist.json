@@ -445,6 +445,19 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
+          "worldStageId": "1190",
+          "worldAreaId": "5",
+          "priority": "2",
+          "name": "尊く敬うんだな！コレ！！",
+          "description": "個人Ptを集めて豪華報酬と交換しよう！",
+          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
           "worldStageId": "1191",
           "worldAreaId": "5",
           "priority": "2",

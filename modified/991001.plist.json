@@ -55998,6 +55998,371 @@
           "message": "君のいる世界を創ろう…"
         },
         {
+          "scriptMessageId": "23691",
+          "speechCharactorId": "50",
+          "message": "ナルトの兄ちゃん\r\n敬老の日って知ってるかコレ"
+        },
+        {
+          "scriptMessageId": "23692",
+          "speechCharactorId": "6",
+          "message": "けいろーの日…？？"
+        },
+        {
+          "scriptMessageId": "23693",
+          "speechCharactorId": "50",
+          "message": "じじィを労わる日なんだな"
+        },
+        {
+          "scriptMessageId": "23694",
+          "speechCharactorId": "50",
+          "message": "それで…じじィに…\r\nなんかしてあげたいんだ"
+        },
+        {
+          "scriptMessageId": "23695",
+          "speechCharactorId": "6",
+          "message": "木ノ葉丸…お前ってば……\r\nいっよォーし\r\nオレに任せておけってばよォ！！"
+        },
+        {
+          "scriptMessageId": "23696",
+          "speechCharactorId": "51",
+          "message": "…見つけましたよ！\r\nお孫様、さあ修業の時間です！！"
+        },
+        {
+          "scriptMessageId": "23697",
+          "speechCharactorId": "6",
+          "message": "さっそく、リサーチに行くってばよ！！"
+        },
+        {
+          "scriptMessageId": "23698",
+          "speechCharactorId": "50",
+          "message": "ナルトの兄ちゃん待つんだコレー！！"
+        },
+        {
+          "scriptMessageId": "23699",
+          "speechCharactorId": "51",
+          "message": "お待ちください、お孫様！！"
+        },
+        {
+          "scriptMessageId": "23700",
+          "speechCharactorId": "6",
+          "message": "逃げるってばよ、木ノ葉丸！"
+        },
+        {
+          "scriptMessageId": "23701",
+          "speechCharactorId": "51",
+          "message": "お待ちください、お孫様！"
+        },
+        {
+          "scriptMessageId": "23702",
+          "speechCharactorId": "50",
+          "message": "めがね教師がシツコイんだコレ！！"
+        },
+        {
+          "scriptMessageId": "23703",
+          "speechCharactorId": "51",
+          "message": "さっ！お孫様、帰りましょ！"
+        },
+        {
+          "scriptMessageId": "23704",
+          "speechCharactorId": "6",
+          "message": "これじゃリサーチどころじゃないってばよ…\r\nやるぞ、木ノ葉丸"
+        },
+        {
+          "scriptMessageId": "23705",
+          "speechCharactorId": "50",
+          "message": "…分かったぞ、ナルトの兄ちゃん"
+        },
+        {
+          "scriptMessageId": "23706",
+          "speechCharactorId": "50",
+          "message": "お…お色気の術が効かないんだなコレ"
+        },
+        {
+          "scriptMessageId": "23707",
+          "speechCharactorId": "51",
+          "message": "私は紳士です\r\nそのような超低俗な術には"
+        },
+        {
+          "scriptMessageId": "23708",
+          "speechCharactorId": "51",
+          "message": "もう…二度と！！\r\n決してかかりませんぞォ！！！"
+        },
+        {
+          "scriptMessageId": "23709",
+          "speechCharactorId": "6",
+          "message": "むっ…影分身の術！！\r\nからのォ～ハーレムの術！！！"
+        },
+        {
+          "scriptMessageId": "23710",
+          "speechCharactorId": "51",
+          "message": "………！！！！！！"
+        },
+        {
+          "scriptMessageId": "23711",
+          "speechCharactorId": "80",
+          "message": "お、ナルトじゃないか\r\nどうしたんだ？"
+        },
+        {
+          "scriptMessageId": "23712",
+          "speechCharactorId": "6",
+          "message": "イルカ先生！！\r\n今、急いでるから後でだってばよォ！！"
+        },
+        {
+          "scriptMessageId": "23713",
+          "speechCharactorId": "51",
+          "message": "……私としたことが…\r\nまたもあのような術に……"
+        },
+        {
+          "scriptMessageId": "23714",
+          "speechCharactorId": "80",
+          "message": "エビス先生、何があったんですか！？\r\nその出血は！！"
+        },
+        {
+          "scriptMessageId": "23715",
+          "speechCharactorId": "51",
+          "message": "イルカ先生…こ、これはですね…"
+        },
+        {
+          "scriptMessageId": "23716",
+          "speechCharactorId": "80",
+          "message": "敵襲……？\r\nまさか！？"
+        },
+        {
+          "scriptMessageId": "23717",
+          "speechCharactorId": "51",
+          "message": "そ、それは違います\r\nこれはナルトくんとお孫様が…"
+        },
+        {
+          "scriptMessageId": "23718",
+          "speechCharactorId": "80",
+          "message": "またナルトのイタズラですか！？"
+        },
+        {
+          "scriptMessageId": "23719",
+          "speechCharactorId": "80",
+          "message": "……\r\nとにかくナルトに話を聞いてみましょう"
+        },
+        {
+          "scriptMessageId": "23720",
+          "speechCharactorId": "51",
+          "message": "どうやら二人は商店街へ\r\n向かった様です"
+        },
+        {
+          "scriptMessageId": "23721",
+          "speechCharactorId": "80",
+          "message": "今のナルトが\r\nバカなイタズラをするとは思えませんが…"
+        },
+        {
+          "scriptMessageId": "23722",
+          "speechCharactorId": "6",
+          "message": "リサーチの結果！！\r\n手作りのものをおくると喜ぶらしいってばよ"
+        },
+        {
+          "scriptMessageId": "23723",
+          "speechCharactorId": "50",
+          "message": "そういえば…ウドンとモエギも\r\n手作りのものをおくるって言ってたぞコレ！！"
+        },
+        {
+          "scriptMessageId": "23724",
+          "speechCharactorId": "6",
+          "message": "さっそく、とりかかるってばよ！"
+        },
+        {
+          "scriptMessageId": "23725",
+          "speechCharactorId": "80",
+          "message": "ナルト…！！"
+        },
+        {
+          "scriptMessageId": "23726",
+          "speechCharactorId": "6",
+          "message": "ん？イルカ先生！\r\nどうしたんだってばよォ？"
+        },
+        {
+          "scriptMessageId": "23727",
+          "speechCharactorId": "50",
+          "message": "ナルトの兄ちゃん…\r\n他の人には内緒なんだな"
+        },
+        {
+          "scriptMessageId": "23728",
+          "speechCharactorId": "50",
+          "message": "じじィをビックリさせたいんだ、コレ！"
+        },
+        {
+          "scriptMessageId": "23729",
+          "speechCharactorId": "6",
+          "message": "……木ノ葉丸、お前ってやつは…\r\nイルカ先生、また今度だってばよ！！"
+        },
+        {
+          "scriptMessageId": "23730",
+          "speechCharactorId": "80",
+          "message": "あ、コラ！"
+        },
+        {
+          "scriptMessageId": "23731",
+          "speechCharactorId": "51",
+          "message": "逃げられましたね…"
+        },
+        {
+          "scriptMessageId": "23732",
+          "speechCharactorId": "80",
+          "message": "悪いことを考えては\r\nいないようですが…"
+        },
+        {
+          "scriptMessageId": "23733",
+          "speechCharactorId": "51",
+          "message": "お孫様のあの御様子…\r\n何かを確実に企んでいます！！"
+        },
+        {
+          "scriptMessageId": "23734",
+          "speechCharactorId": "80",
+          "message": "エビス先生、考え過ぎでは……"
+        },
+        {
+          "scriptMessageId": "23735",
+          "speechCharactorId": "50",
+          "message": "できたぞコレ！！"
+        },
+        {
+          "scriptMessageId": "23736",
+          "speechCharactorId": "50",
+          "message": "じじィの人形だぞ！！\r\n上手に出来たぞコレェ！！"
+        },
+        {
+          "scriptMessageId": "23737",
+          "speechCharactorId": "6",
+          "message": "おーーーーーーー！！\r\nすげーってばよォ、木ノ葉丸！"
+        },
+        {
+          "scriptMessageId": "23738",
+          "speechCharactorId": "50",
+          "message": "へへ…じじィ\r\n喜んでくれるかな"
+        },
+        {
+          "scriptMessageId": "23739",
+          "speechCharactorId": "6",
+          "message": "大丈夫だって\r\nぜってェー喜んでくれるってばよ"
+        },
+        {
+          "scriptMessageId": "23740",
+          "speechCharactorId": "51",
+          "message": "……見つけましたよ、お孫様！！"
+        },
+        {
+          "scriptMessageId": "23741",
+          "speechCharactorId": "80",
+          "message": "ナルト、話を聞かせてくれるか？"
+        },
+        {
+          "scriptMessageId": "23742",
+          "speechCharactorId": "51",
+          "message": "……後ろに何を隠したのです？"
+        },
+        {
+          "scriptMessageId": "23743",
+          "speechCharactorId": "50",
+          "message": "教えられないんだなコレ…！"
+        },
+        {
+          "scriptMessageId": "23744",
+          "speechCharactorId": "80",
+          "message": "どういうことなんだ、ナルト"
+        },
+        {
+          "scriptMessageId": "23745",
+          "speechCharactorId": "6",
+          "message": "……んーと、実は"
+        },
+        {
+          "scriptMessageId": "23746",
+          "speechCharactorId": "50",
+          "message": "ナルトの兄ちゃん！！"
+        },
+        {
+          "scriptMessageId": "23747",
+          "speechCharactorId": "6",
+          "message": "イルカ先生なら大丈夫だって木ノ葉丸\r\n全部、うまくやってくれるってばよ！"
+        },
+        {
+          "scriptMessageId": "23748",
+          "speechCharactorId": "51",
+          "message": "そういうことでしたか……\r\n少しでも疑ってしまった\r\n私は自分が恥ずかしい…"
+        },
+        {
+          "scriptMessageId": "23749",
+          "speechCharactorId": "80",
+          "message": "良かったですね、エビス先生"
+        },
+        {
+          "scriptMessageId": "23750",
+          "speechCharactorId": "51",
+          "message": "はい……"
+        },
+        {
+          "scriptMessageId": "23751",
+          "speechCharactorId": "6",
+          "message": "へへ…一件落着だってばよ"
+        },
+        {
+          "scriptMessageId": "23752",
+          "speechCharactorId": "51",
+          "message": "いえ…修業のおサボりは許しませんよ！！\r\nさあ、時間までみっちりと修業です"
+        },
+        {
+          "scriptMessageId": "23753",
+          "speechCharactorId": "50",
+          "message": "なんでだコレ！！？"
+        },
+        {
+          "scriptMessageId": "23754",
+          "speechCharactorId": "80",
+          "message": "ソレとコレは別だからなァ……\r\nナルトもオレと修業するか？"
+        },
+        {
+          "scriptMessageId": "23755",
+          "speechCharactorId": "6",
+          "message": "おう！オレも、もう忍者だし\r\nもうイルカ先生より強いかもだってばよ？"
+        },
+        {
+          "scriptMessageId": "23756",
+          "speechCharactorId": "80",
+          "message": "言ったな…よしかかって来い！！"
+        },
+        {
+          "scriptMessageId": "23757",
+          "speechCharactorId": "51",
+          "message": "今日の修業はこれまでです"
+        },
+        {
+          "scriptMessageId": "23758",
+          "speechCharactorId": "80",
+          "message": "よし！\r\n火影様を喜ばせて来いよ！！"
+        },
+        {
+          "scriptMessageId": "23759",
+          "speechCharactorId": "50",
+          "message": "行ってくるぞコレ！！"
+        },
+        {
+          "scriptMessageId": "23760",
+          "speechCharactorId": "6",
+          "message": "突撃だってばよォ！！"
+        },
+        {
+          "scriptMessageId": "23761",
+          "speechCharactorId": "80",
+          "message": "……よく考えたら\r\nナルトたち…執務中に飛び込みませんかね？"
+        },
+        {
+          "scriptMessageId": "23762",
+          "speechCharactorId": "51",
+          "message": "あ………"
+        },
+        {
+          "scriptMessageId": "23763",
+          "speechCharactorId": "51",
+          "message": "ま、待ちなさーーーーーーーい！！！"
+        },
+        {
           "scriptMessageId": "23764",
           "speechCharactorId": "143",
           "message": "カカシ…\r\n私を殺して！！"
