@@ -6641,6 +6641,16 @@ window.skillname=[
           "eng": "Protecting the World!!"
         },
         {
+          "cardBattleSkillNameId": "2522",
+          "name": "影分身・風火水弾",
+          "eng": "Shadow Clone: Wind Fire and Water Bomb"
+        },
+        {
+          "cardBattleSkillNameId": "2523",
+          "name": "これからやるのだ…",
+          "eng": "It Will Be Over After This..."
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！",
           "eng": ""
