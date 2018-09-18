@@ -15520,6 +15520,38 @@ window.gear=[
           "recipeName": "カカシの土遁土流壁"
         },
         {
+          "crystalId": "10909",
+          "crystalType": "3",
+          "crystalRare": "5",
+          "effectIdx1": "10019",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "“影”マークの卓布",
+          "crystalDescription": "最大HPが20%アップ",
+          "crystalImageId": "109095",
+          "recipeId": "10909",
+          "recipeName": "“影”マークの卓布"
+        },
+        {
+          "crystalId": "10910",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "20002",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "里への想い",
+          "crystalDescription": "最大チャクラ量が30アップする",
+          "crystalImageId": "109105",
+          "recipeId": "10910",
+          "recipeName": "里への想い"
+        },
+        {
           "crystalId": "10918",
           "crystalType": "3",
           "crystalRare": "5",

@@ -17613,6 +17613,24 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2003",
+          "abilityName": "Proficient Ninjutsu",
+          "abilityDescription": "For 10 turns, immune to Fire, Water, Wind, Lightning and Earth Skill Damage",
+          "abilityEffectDescription": "10回行動するまで火・水・風・雷・土遁のスキルダメージを無効化する",
+          "effectIdx1": "1185",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2004",
+          "abilityName": "Will To Protect the Village",
+          "abilityDescription": "Skill Damage +120%",
+          "abilityEffectDescription": "スキルダメージが120%アップ",
+          "effectIdx1": "30011",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "2013",
           "abilityName": "Medical Ninjutsu Ability",
           "abilityDescription": "HP Recovery Effect +200%",

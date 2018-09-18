@@ -6216,6 +6216,14 @@ window.tags=[
           "nickname": "Birthday Kakashi"
 },
 {
+          "cardId": "20040907",
+          "rare": "5",
+          "tag": "ex-6",
+          "rate": "-",
+          "pvp": "-",
+          "nickname": "Ex Hiruzen | Third Hokage"
+},
+{
           "cardId": "20040912",
           "rare": "5",
           "tag": "event",

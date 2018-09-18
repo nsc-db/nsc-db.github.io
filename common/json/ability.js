@@ -17631,6 +17631,24 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2003",
+          "abilityName": "熟練の忍術",
+          "abilityDescription": "10回行動するまで火・水・風・雷・土遁のスキルダメージを無効化する",
+          "abilityEffectDescription": "10回行動するまで火・水・風・雷・土遁のスキルダメージを無効化する",
+          "effectIdx1": "1185",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2004",
+          "abilityName": "里を守る意志",
+          "abilityDescription": "スキルダメージが120%アップ",
+          "abilityEffectDescription": "スキルダメージが120%アップ",
+          "effectIdx1": "30011",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "2013",
           "abilityName": "医療忍術の才能",
           "abilityDescription": "HP回復スキルの基礎回復量を200%アップ",

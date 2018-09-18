@@ -10101,6 +10101,19 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "789",
+          "name": "瞳に燃ゆる不朽の炎",
+          "description": "Trust EXP +75%",
+          "effectIdx1": "1900",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "794",
           "name": "心優しき癒し手",
           "description": "Konoha Characters ATK, DEF and SPD +20%",

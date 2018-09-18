@@ -10101,6 +10101,19 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "789",
+          "name": "瞳に燃ゆる不朽の炎",
+          "description": "信頼度の獲得量が75%アップ",
+          "effectIdx1": "1900",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "794",
           "name": "心優しき癒し手",
           "description": "木ノ葉隠れの里所属の攻撃・防御・素早さを20％アップする",
