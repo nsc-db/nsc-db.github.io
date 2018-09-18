@@ -3322,6 +3322,15 @@
           "category": "99",
           "charaId": "0",
           "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "1809608",
+          "name": "その他",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "99",
+          "charaId": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
         }
       ]
     }

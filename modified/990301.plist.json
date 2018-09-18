@@ -15555,6 +15555,38 @@
           "recipeName": "里への想い"
         },
         {
+          "crystalId": "10911",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "1904",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "長門の忍装束",
+          "crystalDescription": "2回行動するまで全スキル軽減",
+          "crystalImageId": "109115",
+          "recipeId": "10911",
+          "recipeName": "長門の忍装束"
+        },
+        {
+          "crystalId": "10912",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "860",
+          "effectIdx2": "615",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "“痛み”の額当て",
+          "crystalDescription": "チャクラ消費量が20%減少し、全スキルダメージ30%アップ",
+          "crystalImageId": "109125",
+          "recipeId": "10912",
+          "recipeName": "“痛み”の額当て"
+        },
+        {
           "crystalId": "10918",
           "crystalType": "3",
           "crystalRare": "5",

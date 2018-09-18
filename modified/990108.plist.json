@@ -10130,6 +10130,19 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "790",
+          "name": "絶望の具現",
+          "description": "雨隠れの里所属と\"暁\"所属のスキルダメージを80％アップし写輪眼・白眼・輪廻眼を半減",
+          "effectIdx1": "694",
+          "effectIdx2": "1678",
+          "effectIdx3": "0",
+          "compType": "2",
+          "target1Category": "2",
+          "target1Param": "7",
+          "target2Category": "2",
+          "target2Param": "8"
+        },
+        {
           "cardLeaderSkillId": "794",
           "name": "心優しき癒し手",
           "description": "木ノ葉隠れの里所属の攻撃・防御・素早さを20％アップする",
