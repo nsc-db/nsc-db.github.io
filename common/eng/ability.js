@@ -17631,6 +17631,24 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2005",
+          "abilityName": "Howl of Hopelessness",
+          "abilityDescription": "When HP reach 0, withstand 3 attacks",
+          "abilityEffectDescription": "HPが0以下になった時3度まで耐える",
+          "effectIdx1": "1789",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2006",
+          "abilityName": "The Second 'Pain'",
+          "abilityDescription": "Maximum Chakra +50.  Incoming Damage -50% when HP is below 50%",
+          "abilityEffectDescription": "最大チャクラが50アップしHPが50%以下になると受けるスキルダメージが半減する",
+          "effectIdx1": "689",
+          "effectIdx2": "1908",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "2013",
           "abilityName": "Medical Ninjutsu Ability",
           "abilityDescription": "HP Recovery Effect +200%",

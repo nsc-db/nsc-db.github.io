@@ -10114,6 +10114,19 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "790",
+          "name": "絶望の具現",
+          "description": "Ame and Akatsuki Characters Skill Damage +80%. Incoming Sharingan, Byakugan and Rinne Sharingan Skill Damage -50%",
+          "effectIdx1": "694",
+          "effectIdx2": "1678",
+          "effectIdx3": "0",
+          "compType": "2",
+          "target1Category": "2",
+          "target1Param": "7",
+          "target2Category": "2",
+          "target2Param": "8"
+        },
+        {
           "cardLeaderSkillId": "794",
           "name": "心優しき癒し手",
           "description": "Konoha Characters ATK, DEF and SPD +20%",
