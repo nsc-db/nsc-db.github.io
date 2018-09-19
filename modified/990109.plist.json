@@ -17670,6 +17670,24 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2009",
+          "abilityName": "闘忍の覇者",
+          "abilityDescription": "最大チャクラ量250アップ、行動後にHP10%回復",
+          "abilityEffectDescription": "最大チャクラ量250アップ、行動後にHP10%回復",
+          "effectIdx1": "20044",
+          "effectIdx2": "357",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2010",
+          "abilityName": "底知れぬ生命力",
+          "abilityDescription": "HP1で10回まで耐える",
+          "abilityEffectDescription": "HP1で10回まで耐える",
+          "effectIdx1": "1907",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "2013",
           "abilityName": "医療忍術の才能",
           "abilityDescription": "HP回復スキルの基礎回復量を200%アップ",

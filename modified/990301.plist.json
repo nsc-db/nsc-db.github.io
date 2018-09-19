@@ -15587,6 +15587,22 @@
           "recipeName": "“痛み”の額当て"
         },
         {
+          "crystalId": "10915",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "437",
+          "effectIdx2": "470",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "柱間の木遁分身",
+          "crystalDescription": "木遁タイプのスキルダメージと最大HPが30%アップする",
+          "crystalImageId": "109155",
+          "recipeId": "10915",
+          "recipeName": "柱間の木遁分身"
+        },
+        {
           "crystalId": "10918",
           "crystalType": "3",
           "crystalRare": "5",
