@@ -4538,7 +4538,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "1719",
           "name": "口寄せ・外道魔像",
-          "eng": ""
+          "eng": "Summoning: Gedo Mazo"
         },
         {
           "cardBattleSkillNameId": "1720",
@@ -6649,6 +6649,11 @@ window.skillname=[
           "cardBattleSkillNameId": "2523",
           "name": "これからやるのだ…",
           "eng": "It Will Be Over After This..."
+        },
+        {
+          "cardBattleSkillNameId": "2525",
+          "name": "うオオオ！！！",
+          "eng": "Uooo!!!!"
         },
         {
           "cardBattleSkillNameId": "10136",

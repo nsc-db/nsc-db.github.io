@@ -8230,5 +8230,29 @@ window.unique=[
           "effectIdx2": "628",
           "effectIdx3": "1768",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "698",
+          "targetCrystal": "10911",
+          "description": "4回行動するまで全スキル無効",
+          "charaIds": "13301,13302,13303,13304",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1905",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "699",
+          "targetCrystal": "10912",
+          "description": "チャクラ消費量が半減し、全スキルダメージ100%アップ",
+          "charaIds": "13301,13302,13303,13304",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "95",
+          "effectIdx2": "774",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
         }
 ]

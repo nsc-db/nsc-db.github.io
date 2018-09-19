@@ -6203,7 +6203,7 @@ window.tags=[
           "cardId": "20040905",
           "rare": "5",
           "tag": "killers",
-          "rate": "-",
+          "rate": "70",
           "pvp": "-",
           "nickname": "Killer Rage Obito"
 },
@@ -6211,24 +6211,32 @@ window.tags=[
           "cardId": "20040906",
           "rare": "5",
           "tag": "ex-6",
-          "rate": "-",
-          "pvp": "-",
+          "rate": "98",
+          "pvp": "98",
           "nickname": "Birthday Kakashi"
 },
 {
           "cardId": "20040907",
           "rare": "5",
           "tag": "ex-6",
+          "rate": "75",
+          "pvp": "60",
+          "nickname": "Ex Hiruzen | Third Hokage"
+},
+{
+          "cardId": "20040909",
+          "rare": "5",
+          "tag": "killers",
           "rate": "-",
           "pvp": "-",
-          "nickname": "Ex Hiruzen | Third Hokage"
+          "nickname": "Killer Nagato"
 },
 {
           "cardId": "20040912",
           "rare": "5",
           "tag": "event",
-          "rate": "-",
-          "pvp": "-",
+          "rate": "71",
+          "pvp": "60",
           "nickname": ""
 },
 ]

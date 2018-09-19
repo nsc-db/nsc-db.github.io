@@ -17640,6 +17640,24 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2005",
+          "abilityName": "絶望の咆哮",
+          "abilityDescription": "HPが0以下になった時3度まで耐える",
+          "abilityEffectDescription": "HPが0以下になった時3度まで耐える",
+          "effectIdx1": "1789",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2006",
+          "abilityName": "二つ目の“痛み”",
+          "abilityDescription": "最大チャクラが50アップしHPが50%以下になると受けるスキルダメージが半減する",
+          "abilityEffectDescription": "最大チャクラが50アップしHPが50%以下になると受けるスキルダメージが半減する",
+          "effectIdx1": "689",
+          "effectIdx2": "1908",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "2004",
           "abilityName": "里を守る意志",
           "abilityDescription": "スキルダメージが120%アップ",
