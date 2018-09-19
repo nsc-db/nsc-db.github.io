@@ -10127,6 +10127,19 @@ window.lead=[
           "target2Param": "8"
         },
         {
+          "cardLeaderSkillId": "792",
+          "name": "闘忍の覇者",
+          "description": "木ノ葉隠れの里所属の素早さと最大HPを100%アップ＆最大チャクラ量100アップ",
+          "effectIdx1": "13099",
+          "effectIdx2": "684",
+          "effectIdx3": "813",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "794",
           "name": "心優しき癒し手",
           "description": "木ノ葉隠れの里所属の攻撃・防御・素早さを20％アップする",

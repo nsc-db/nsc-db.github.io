@@ -10127,6 +10127,19 @@ window.lead=[
           "target2Param": "8"
         },
         {
+          "cardLeaderSkillId": "792",
+          "name": "闘忍の覇者",
+          "description": "Konoha Characters Maximum HP and SPD +100%, Maximum Chakra +100",
+          "effectIdx1": "13099",
+          "effectIdx2": "684",
+          "effectIdx3": "813",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "794",
           "name": "心優しき癒し手",
           "description": "Konoha Characters ATK, DEF and SPD +20%",
