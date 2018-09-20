@@ -17658,6 +17658,24 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2009",
+          "abilityName": "闘忍の覇者",
+          "abilityDescription": "最大チャクラ量250アップ、行動後にHP10%回復",
+          "abilityEffectDescription": "最大チャクラ量250アップ、行動後にHP10%回復",
+          "effectIdx1": "20044",
+          "effectIdx2": "357",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2010",
+          "abilityName": "底知れぬ生命力",
+          "abilityDescription": "HP1で10回まで耐える",
+          "abilityEffectDescription": "HP1で10回まで耐える",
+          "effectIdx1": "1907",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "2004",
           "abilityName": "里を守る意志",
           "abilityDescription": "スキルダメージが120%アップ",

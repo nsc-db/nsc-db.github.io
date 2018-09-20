@@ -17649,6 +17649,24 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2009",
+          "abilityName": "Conqueror of Champions",
+          "abilityDescription": "Maximum Chakra +250 and 10% HP Regen",
+          "abilityEffectDescription": "最大チャクラ量250アップ、行動後にHP10%回復",
+          "effectIdx1": "20044",
+          "effectIdx2": "357",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2010",
+          "abilityName": "Eternal Vitality",
+          "abilityDescription": "Withstand 10 attacks at 1 HP",
+          "abilityEffectDescription": "HP1で10回まで耐える",
+          "effectIdx1": "1907",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "2013",
           "abilityName": "Medical Ninjutsu Ability",
           "abilityDescription": "HP Recovery Effect +200%",

@@ -6232,6 +6232,14 @@ window.tags=[
           "nickname": "Killer Nagato"
 },
 {
+          "cardId": "20040909",
+          "rare": "5",
+          "tag": "pvp-reward",
+          "rate": "-",
+          "pvp": "-",
+          "nickname": "PVP Hashi"
+},
+{
           "cardId": "20040912",
           "rare": "5",
           "tag": "event",
