@@ -4840,6 +4840,13 @@
           "assetNum": "1"
         },
         {
+          "worldPhaseMissionRewardId": "1598",
+          "worldPhaseId": "5761",
+          "assetCategoryId": "2",
+          "assetValue": "0",
+          "assetNum": "1"
+        },
+        {
           "worldPhaseMissionRewardId": "1599",
           "worldPhaseId": "5762",
           "assetCategoryId": "2",
