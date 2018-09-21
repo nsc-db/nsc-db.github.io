@@ -8262,7 +8262,7 @@
           "crystalOverwriteEffectId": "703",
           "targetCrystal": "10915",
           "description": "全スキルダメージ100%アップ、最大HP50%アップ、スキル発動速度1段階アップ",
-          "charaIds": "1901,",
+          "charaIds": "1901,1902,",
           "cardIds": "0",
           "charaGroupIds": "0",
           "effectIdx1": "774",
