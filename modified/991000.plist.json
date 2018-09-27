@@ -7231,6 +7231,11 @@
           "appUiId": "1447",
           "uiKey": "RankupMessage",
           "text": "スタミナが回復しました！！"
+        },
+        {
+          "appUiId": "1448",
+          "uiKey": "ConfirmDownloadSize",
+          "text": "約%.2fMBのリソースを\r\nダウンロードします。"
         }
       ]
     }
