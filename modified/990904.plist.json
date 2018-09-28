@@ -471,6 +471,32 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
+          "worldStageId": "1196",
+          "worldAreaId": "5",
+          "priority": "2",
+          "name": "想い-紡がれた絆-　序章",
+          "description": "ナルト成長の軌跡を追体験しよう",
+          "notice": "※イベントの内容及び日程は告知なく変更となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
+          "worldStageId": "1197",
+          "worldAreaId": "5",
+          "priority": "7",
+          "name": "大激闘任務-神無月の陣-",
+          "description": "ランパートではドロップではなく\r\nクリア時に個人Ptを獲得できます。",
+          "notice": "※報酬のキャラは先行配信であり、後日別の手段で入手可能になります。\r\n※イベントの内容及び日程は告知なく変更となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
           "worldStageId": "2061",
           "worldAreaId": "5",
           "priority": "30",
@@ -785,9 +811,9 @@
         {
           "worldStageId": "5113",
           "worldAreaId": "5",
-          "priority": "4",
+          "priority": "11",
           "name": "陰陽の戦神",
-          "description": "超強力な新規忍具登場！\r\n超高難易度任務をクリアし、素材を手に入れよう",
+          "description": "超強力な忍具登場！\r\n超高難易度任務をクリアし、素材を手に入れよう",
           "notice": "※イベントの内容及び日程は告知なく変更となる場合がございます。\r\n※イベント難易度は超絶、神忍ランクとなります。",
           "type": "0",
           "prerequisiteWorldStageId": "0",
