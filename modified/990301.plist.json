@@ -15665,6 +15665,38 @@
           "crystalImageId": "109225",
           "recipeId": "10922",
           "recipeName": "白の刻印・大"
+        },
+        {
+          "crystalId": "11001",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "446",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "九喇嘛(陰)のﾁｬｸﾗ",
+          "crystalDescription": "行動後チャクラが5%回復する",
+          "crystalImageId": "110015",
+          "recipeId": "11001",
+          "recipeName": "九喇嘛(陰)のﾁｬｸﾗ"
+        },
+        {
+          "crystalId": "11002",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "661",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "息子と合わせる拳",
+          "crystalDescription": "状態異常を軽減する",
+          "crystalImageId": "110025",
+          "recipeId": "11002",
+          "recipeName": "息子と合わせる拳"
         }
       ]
     }

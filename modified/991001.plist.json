@@ -57093,6 +57093,5056 @@
           "message": "フン…ここは一旦、退くぞ！！"
         },
         {
+          "scriptMessageId": "23910",
+          "speechCharactorId": "584",
+          "message": "何しに来やがった\r\nこの疫病神が！！"
+        },
+        {
+          "scriptMessageId": "23911",
+          "speechCharactorId": "108",
+          "message": "オレはただ…\r\nお面を見てただけだってばよ"
+        },
+        {
+          "scriptMessageId": "23912",
+          "speechCharactorId": "586",
+          "message": "……ナルト？"
+        },
+        {
+          "scriptMessageId": "23913",
+          "speechCharactorId": "108",
+          "message": "……何でオレを\r\nそんな眼で見るんだ……"
+        },
+        {
+          "scriptMessageId": "23914",
+          "speechCharactorId": "586",
+          "message": "なあ、父ちゃん\r\nちょっと聞きたいことがあんだけど"
+        },
+        {
+          "scriptMessageId": "23915",
+          "speechCharactorId": "586",
+          "message": "ナルトってさ\r\n何で皆にハブられてんだ？"
+        },
+        {
+          "scriptMessageId": "23916",
+          "speechCharactorId": "586",
+          "message": "アイツなんかやったのか？"
+        },
+        {
+          "scriptMessageId": "23917",
+          "speechCharactorId": "579",
+          "message": "シカマル…お前は\r\nその子のことをどう思う？"
+        },
+        {
+          "scriptMessageId": "23918",
+          "speechCharactorId": "586",
+          "message": "どうって…\r\n考えた事はねェけど…"
+        },
+        {
+          "scriptMessageId": "23919",
+          "speechCharactorId": "586",
+          "message": "あいつはバカだけど\r\n面白い奴だぜ"
+        },
+        {
+          "scriptMessageId": "23920",
+          "speechCharactorId": "586",
+          "message": "特に仲良くする気もねェけど\r\nハブるつもりもねェよ"
+        },
+        {
+          "scriptMessageId": "23921",
+          "speechCharactorId": "579",
+          "message": "そうか…\r\nならお前は\r\nお前の好きにすればいいだろう"
+        },
+        {
+          "scriptMessageId": "23922",
+          "speechCharactorId": "586",
+          "message": "忍者学校時代は\r\nいつだってドべ…"
+        },
+        {
+          "scriptMessageId": "23923",
+          "speechCharactorId": "586",
+          "message": "三年もいて分身の術も\r\nマトモにできねェ奴だったのに"
+        },
+        {
+          "scriptMessageId": "23924",
+          "speechCharactorId": "586",
+          "message": "キバに…あの日向に勝っちまいやがった"
+        },
+        {
+          "scriptMessageId": "23925",
+          "speechCharactorId": "10",
+          "message": "ナルトのヤロー…\r\n突き落としやがって…"
+        },
+        {
+          "scriptMessageId": "23926",
+          "speechCharactorId": "10",
+          "message": "あーあ…\r\n雲はいいよなぁ………\r\n自由で…"
+        },
+        {
+          "scriptMessageId": "23927",
+          "speechCharactorId": "10",
+          "message": "…つーか\r\n大体オレ全然やる気ねーし"
+        },
+        {
+          "scriptMessageId": "23928",
+          "speechCharactorId": "10",
+          "message": "忍者になったのだって\r\n人生楽しく生きてけそーだと\r\n思ったからだしなぁ…"
+        },
+        {
+          "scriptMessageId": "23929",
+          "speechCharactorId": "108",
+          "message": "しっかりしろー！！"
+        },
+        {
+          "scriptMessageId": "23930",
+          "speechCharactorId": "10",
+          "message": "…けど…\r\nまあ、そう簡単にはいかねーか…"
+        },
+        {
+          "scriptMessageId": "23931",
+          "speechCharactorId": "586",
+          "message": "中忍昇格…そして初任務…"
+        },
+        {
+          "scriptMessageId": "23932",
+          "speechCharactorId": "586",
+          "message": "サスケはオレにとっちゃ\r\n深いダチって訳でもねーし……"
+        },
+        {
+          "scriptMessageId": "23933",
+          "speechCharactorId": "586",
+          "message": "別に好きな奴でもねェ"
+        },
+        {
+          "scriptMessageId": "23934",
+          "speechCharactorId": "586",
+          "message": "けどサスケは同じ\r\n木ノ葉隠れの忍だ"
+        },
+        {
+          "scriptMessageId": "23935",
+          "speechCharactorId": "586",
+          "message": "仲間だ！"
+        },
+        {
+          "scriptMessageId": "23936",
+          "speechCharactorId": "586",
+          "message": "だから命懸けで助ける\r\nこれが木ノ葉流だ"
+        },
+        {
+          "scriptMessageId": "23937",
+          "speechCharactorId": "586",
+          "message": "それにいくらオレでも\r\nめんどくさがったり\r\n出来ねーだろーがよ…"
+        },
+        {
+          "scriptMessageId": "23938",
+          "speechCharactorId": "586",
+          "message": "お前らの命預かってんだからよ"
+        },
+        {
+          "scriptMessageId": "23939",
+          "speechCharactorId": "108",
+          "message": "そっか…\r\nみんな無事だったんだな"
+        },
+        {
+          "scriptMessageId": "23940",
+          "speechCharactorId": "108",
+          "message": "良かった…"
+        },
+        {
+          "scriptMessageId": "23941",
+          "speechCharactorId": "586",
+          "message": "…じゃあサスケは…"
+        },
+        {
+          "scriptMessageId": "23942",
+          "speechCharactorId": "108",
+          "message": "ああ…"
+        },
+        {
+          "scriptMessageId": "23943",
+          "speechCharactorId": "586",
+          "message": "行っちまった…"
+        },
+        {
+          "scriptMessageId": "23944",
+          "speechCharactorId": "114",
+          "message": "見舞いか…？"
+        },
+        {
+          "scriptMessageId": "23945",
+          "speechCharactorId": "114",
+          "message": "…春野サクラだっけか…\r\n情報が早いな"
+        },
+        {
+          "scriptMessageId": "23946",
+          "speechCharactorId": "109",
+          "message": "ナルト…"
+        },
+        {
+          "scriptMessageId": "23947",
+          "speechCharactorId": "108",
+          "message": "………ごめん…サクラちゃん…"
+        },
+        {
+          "scriptMessageId": "23948",
+          "speechCharactorId": "109",
+          "message": "…なんでアンタが謝るのよ"
+        },
+        {
+          "scriptMessageId": "23949",
+          "speechCharactorId": "108",
+          "message": "…サクラちゃん！"
+        },
+        {
+          "scriptMessageId": "23950",
+          "speechCharactorId": "108",
+          "message": "オレ…約束は絶対守るってばよ"
+        },
+        {
+          "scriptMessageId": "23951",
+          "speechCharactorId": "108",
+          "message": "一生の約束だ…って言ったからな\r\nオレってば"
+        },
+        {
+          "scriptMessageId": "23952",
+          "speechCharactorId": "109",
+          "message": "いいのよ…ナルト\r\n…もう…"
+        },
+        {
+          "scriptMessageId": "23953",
+          "speechCharactorId": "586",
+          "message": "サクラ！\r\nこいつはなァ…"
+        },
+        {
+          "scriptMessageId": "23954",
+          "speechCharactorId": "108",
+          "message": "いつも…\r\n言ってたからな\r\n…………オレ"
+        },
+        {
+          "scriptMessageId": "23955",
+          "speechCharactorId": "108",
+          "message": "まっすぐ自分の言葉は曲げねェ\r\nそれがオレの忍道だからよ…"
+        },
+        {
+          "scriptMessageId": "23956",
+          "speechCharactorId": "586",
+          "message": "………"
+        },
+        {
+          "scriptMessageId": "23957",
+          "speechCharactorId": "586",
+          "message": "アイツは自来也様と修業の旅に出た"
+        },
+        {
+          "scriptMessageId": "23958",
+          "speechCharactorId": "586",
+          "message": "オレも…めんどくせぇとか\r\nもう、立ち止まってはいられねェ…"
+        },
+        {
+          "scriptMessageId": "23959",
+          "speechCharactorId": "31",
+          "message": "自来也様のことは聞いた\r\nオレも師を亡くしてっから\r\nお前の気持ちが分からないでもないけどよ"
+        },
+        {
+          "scriptMessageId": "23960",
+          "speechCharactorId": "31",
+          "message": "うじうじしても始まらねーだろ"
+        },
+        {
+          "scriptMessageId": "23961",
+          "speechCharactorId": "31",
+          "message": "とっくにそんな立場じゃなくなってんだよ"
+        },
+        {
+          "scriptMessageId": "23962",
+          "speechCharactorId": "66",
+          "message": "どういうことだってばよ？"
+        },
+        {
+          "scriptMessageId": "23963",
+          "speechCharactorId": "31",
+          "message": "そろそろなんじゃねーか？\r\nオレたちも"
+        },
+        {
+          "scriptMessageId": "23964",
+          "speechCharactorId": "66",
+          "message": "何がだよ？"
+        },
+        {
+          "scriptMessageId": "23965",
+          "speechCharactorId": "31",
+          "message": "託される側から\r\n託す側にならねーとよ"
+        },
+        {
+          "scriptMessageId": "23966",
+          "speechCharactorId": "31",
+          "message": "めんどくせーけど\r\nそうも言ってらんねェだろ"
+        },
+        {
+          "scriptMessageId": "23967",
+          "speechCharactorId": "31",
+          "message": "お前もいずれラーメンおごる側になるし\r\nナルト先生とか呼ばれんだからよ"
+        },
+        {
+          "scriptMessageId": "23968",
+          "speechCharactorId": "31",
+          "message": "オレたちだって\r\nいつまでもガキのままじゃいられねェ"
+        },
+        {
+          "scriptMessageId": "23969",
+          "speechCharactorId": "31",
+          "message": "アスマや自来也様みてーな\r\nあんなかっけー忍になりてェならよ"
+        },
+        {
+          "scriptMessageId": "23970",
+          "speechCharactorId": "579",
+          "message": "暗号班の忍が訪ねてきたぞ\r\nどこへ行ってた"
+        },
+        {
+          "scriptMessageId": "23971",
+          "speechCharactorId": "31",
+          "message": "どこ行ってたって？"
+        },
+        {
+          "scriptMessageId": "23972",
+          "speechCharactorId": "31",
+          "message": "…ナルトに説教してきたんだよ…\r\n落ち込んでんじゃねーってよ"
+        },
+        {
+          "scriptMessageId": "23973",
+          "speechCharactorId": "31",
+          "message": "めんどくせーのに足が動いちまった"
+        },
+        {
+          "scriptMessageId": "23974",
+          "speechCharactorId": "31",
+          "message": "…あいつは皆にはない\r\n何かを持ってる…"
+        },
+        {
+          "scriptMessageId": "23975",
+          "speechCharactorId": "31",
+          "message": "あいつはこの里にとって\r\n大切な忍になる…"
+        },
+        {
+          "scriptMessageId": "23976",
+          "speechCharactorId": "31",
+          "message": "ナルトといると…"
+        },
+        {
+          "scriptMessageId": "23977",
+          "speechCharactorId": "31",
+          "message": "オレはあいつと一緒に歩いて行きてえ…"
+        },
+        {
+          "scriptMessageId": "23978",
+          "speechCharactorId": "31",
+          "message": "そう思わされんだ"
+        },
+        {
+          "scriptMessageId": "23979",
+          "speechCharactorId": "31",
+          "message": "何だ？\r\n何がどーなってる！？"
+        },
+        {
+          "scriptMessageId": "23980",
+          "speechCharactorId": "31",
+          "message": "誰か戦ってるのか！！？"
+        },
+        {
+          "scriptMessageId": "23981",
+          "speechCharactorId": "580",
+          "message": "ナルト君です"
+        },
+        {
+          "scriptMessageId": "23982",
+          "speechCharactorId": "31",
+          "message": "ナルトが！\r\n帰って来たのか！？"
+        },
+        {
+          "scriptMessageId": "23983",
+          "speechCharactorId": "580",
+          "message": "ハイ…仙術を身につけて\r\n今一人でペインと戦っています…"
+        },
+        {
+          "scriptMessageId": "23984",
+          "speechCharactorId": "31",
+          "message": "チィ！\r\nこの足じゃ…"
+        },
+        {
+          "scriptMessageId": "23985",
+          "speechCharactorId": "580",
+          "message": "ナルト君に手を出さないように言われました"
+        },
+        {
+          "scriptMessageId": "23986",
+          "speechCharactorId": "31",
+          "message": "なにカッコつけてやがんだアイツ！"
+        },
+        {
+          "scriptMessageId": "23987",
+          "speechCharactorId": "31",
+          "message": "里をこんなにした奴だぞ！！\r\n一人で戦えると…"
+        },
+        {
+          "scriptMessageId": "23988",
+          "speechCharactorId": "579",
+          "message": "イヤ…\r\n仙術を身につけたという事はもう\r\nレベルが違う"
+        },
+        {
+          "scriptMessageId": "23989",
+          "speechCharactorId": "579",
+          "message": "足手まといにならない事が\r\n今あいつにしてやれるチームワークだ"
+        },
+        {
+          "scriptMessageId": "23990",
+          "speechCharactorId": "579",
+          "message": "ここは我慢しろシカマル"
+        },
+        {
+          "scriptMessageId": "23991",
+          "speechCharactorId": "31",
+          "message": "くそっ…"
+        },
+        {
+          "scriptMessageId": "23992",
+          "speechCharactorId": "31",
+          "message": "……戦争がはじまった"
+        },
+        {
+          "scriptMessageId": "23993",
+          "speechCharactorId": "31",
+          "message": "第四次忍界大戦\r\n人柱力を狙う“暁”との戦い…"
+        },
+        {
+          "scriptMessageId": "23994",
+          "speechCharactorId": "582",
+          "message": "この度…\r\nお主に担当してもらう下忍じゃが…"
+        },
+        {
+          "scriptMessageId": "23995",
+          "speechCharactorId": "110",
+          "message": "またオレにですか…"
+        },
+        {
+          "scriptMessageId": "23996",
+          "speechCharactorId": "582",
+          "message": "そうイヤな顔をするな"
+        },
+        {
+          "scriptMessageId": "23997",
+          "speechCharactorId": "582",
+          "message": "…まあよい…\r\n今度の下忍たちには少なくとも\r\nお主も興味を持つじゃろ…"
+        },
+        {
+          "scriptMessageId": "23998",
+          "speechCharactorId": "110",
+          "message": "ここは……"
+        },
+        {
+          "scriptMessageId": "23999",
+          "speechCharactorId": "582",
+          "message": "うずまきナルトの家じゃ\r\n…少しは興味が湧いただろう"
+        },
+        {
+          "scriptMessageId": "24000",
+          "speechCharactorId": "110",
+          "message": "四代目の忘れ形見…\r\nあの子が…下忍に…"
+        },
+        {
+          "scriptMessageId": "24001",
+          "speechCharactorId": "110",
+          "message": "…この牛乳\r\nかなり賞味期限が過ぎている…"
+        },
+        {
+          "scriptMessageId": "24002",
+          "speechCharactorId": "582",
+          "message": "まぬけな奴だが\r\nお前に見張らせるのが一番だ\r\nお前は鼻がきく"
+        },
+        {
+          "scriptMessageId": "24003",
+          "speechCharactorId": "110",
+          "message": "あのキッチリした\r\nミナト先生の子供とは思えないな……"
+        },
+        {
+          "scriptMessageId": "24004",
+          "speechCharactorId": "267",
+          "message": "じゃ、次は七班"
+        },
+        {
+          "scriptMessageId": "24005",
+          "speechCharactorId": "267",
+          "message": "春野サクラ…うずまきナルト！"
+        },
+        {
+          "scriptMessageId": "24006",
+          "speechCharactorId": "267",
+          "message": "それと…うちはサスケ"
+        },
+        {
+          "scriptMessageId": "24007",
+          "speechCharactorId": "250",
+          "message": "イルカ先生！！\r\nよりによって優秀なこのオレが！"
+        },
+        {
+          "scriptMessageId": "24008",
+          "speechCharactorId": "250",
+          "message": "何でコイツと同じ班なんだってばよ！！"
+        },
+        {
+          "scriptMessageId": "24009",
+          "speechCharactorId": "47",
+          "message": "……サスケは卒業生二十七名中\r\n一番の成績で卒業\r\nナルト…お前はドべ！"
+        },
+        {
+          "scriptMessageId": "24010",
+          "speechCharactorId": "47",
+          "message": "いいか！\r\n班の力を均等にすると\r\nしぜーんとこうなんだよ"
+        },
+        {
+          "scriptMessageId": "24011",
+          "speechCharactorId": "381",
+          "message": "フン…\r\nせいぜいオレの\r\n足引っ張ってくれるなよ、ドべ！"
+        },
+        {
+          "scriptMessageId": "24012",
+          "speechCharactorId": "250",
+          "message": "何だとォコラァ！！！"
+        },
+        {
+          "scriptMessageId": "24013",
+          "speechCharactorId": "109",
+          "message": "いいかげんにしなさいよナルト！！"
+        },
+        {
+          "scriptMessageId": "24014",
+          "speechCharactorId": "110",
+          "message": "こりゃ先が思いやられるな…"
+        },
+        {
+          "scriptMessageId": "24015",
+          "speechCharactorId": "139",
+          "message": "…確かに忍の世界でルールや掟を破る奴は\r\nクズ呼ばわりされる…けどな…"
+        },
+        {
+          "scriptMessageId": "24016",
+          "speechCharactorId": "139",
+          "message": "仲間を大切にしない奴は\r\nそれ以上のクズだ"
+        },
+        {
+          "scriptMessageId": "24017",
+          "speechCharactorId": "485",
+          "message": "別れる前に…\r\nもう一度だけ言っておくね"
+        },
+        {
+          "scriptMessageId": "24018",
+          "speechCharactorId": "485",
+          "message": "忍にとって何より大切なのは\r\nチームワークだよ"
+        },
+        {
+          "scriptMessageId": "24019",
+          "speechCharactorId": "110",
+          "message": "分かっている、オビト…\r\nチームワークのない奴を…\r\n卒業させるわけにはいかない…"
+        },
+        {
+          "scriptMessageId": "24020",
+          "speechCharactorId": "110",
+          "message": "ミナト先生…\r\n次の世代の子たちには…\r\n二度とあんな悲劇を起こさせるわけには…\r\nいかないんです…"
+        },
+        {
+          "scriptMessageId": "24021",
+          "speechCharactorId": "381",
+          "message": "大丈夫だ\r\n今はアイツの気配はない"
+        },
+        {
+          "scriptMessageId": "24022",
+          "speechCharactorId": "381",
+          "message": "昼からは三人でスズを取りに行く"
+        },
+        {
+          "scriptMessageId": "24023",
+          "speechCharactorId": "110",
+          "message": "オビト…リン…\r\nミナト先生…"
+        },
+        {
+          "scriptMessageId": "24024",
+          "speechCharactorId": "110",
+          "message": "ナルト…サスケ…サクラ…\r\nオレはお前達を信じる…"
+        },
+        {
+          "scriptMessageId": "24025",
+          "speechCharactorId": "110",
+          "message": "これにて演習終わり\r\n全員合格！！"
+        },
+        {
+          "scriptMessageId": "24026",
+          "speechCharactorId": "110",
+          "message": "よォーしィ！\r\n第七班は明日より任務開始だァ！！！"
+        },
+        {
+          "scriptMessageId": "24027",
+          "speechCharactorId": "109",
+          "message": "…忍者の在り方って\r\nこの二人が言ってた通りなのかなぁ…"
+        },
+        {
+          "scriptMessageId": "24028",
+          "speechCharactorId": "110",
+          "message": "忍ってのは\r\n自分の存在理由を求めちゃあいけない……"
+        },
+        {
+          "scriptMessageId": "24029",
+          "speechCharactorId": "110",
+          "message": "ただ国の道具として\r\n存在することが大切……\r\nそれは木ノ葉でも同じだよ…"
+        },
+        {
+          "scriptMessageId": "24030",
+          "speechCharactorId": "110",
+          "message": "だから忍者って奴は皆\r\n知らず知らず\r\nそのことに悩んで生きてんのさ…"
+        },
+        {
+          "scriptMessageId": "24031",
+          "speechCharactorId": "6",
+          "message": "よし、今決めたってばよ！！\r\nオレはオレの忍道を行ってやる！！"
+        },
+        {
+          "scriptMessageId": "24032",
+          "speechCharactorId": "110",
+          "message": "……ナルトは己の忍道を決めた"
+        },
+        {
+          "scriptMessageId": "24033",
+          "speechCharactorId": "110",
+          "message": "その道に向かい真っ直ぐ努力をしていく"
+        },
+        {
+          "scriptMessageId": "24034",
+          "speechCharactorId": "110",
+          "message": "深くなっていくサスケの復讐への闇…\r\n日に日に強くなっていくナルトとの確執…"
+        },
+        {
+          "scriptMessageId": "24035",
+          "speechCharactorId": "110",
+          "message": "サスケは遂に…木ノ葉を抜けた…"
+        },
+        {
+          "scriptMessageId": "24036",
+          "speechCharactorId": "110",
+          "message": "間に合わなくて…\r\n済まなかったな…"
+        },
+        {
+          "scriptMessageId": "24037",
+          "speechCharactorId": "110",
+          "message": "ナルト……\r\nお前の事だ……\r\n必死だったんだろ…"
+        },
+        {
+          "scriptMessageId": "24038",
+          "speechCharactorId": "110",
+          "message": "この後…ナルトは自来也様と\r\n修業の旅に出る"
+        },
+        {
+          "scriptMessageId": "24039",
+          "speechCharactorId": "110",
+          "message": "そして…ナルトは帰って来た\r\nイチャイチャタクティクスと共に…！！"
+        },
+        {
+          "scriptMessageId": "24040",
+          "speechCharactorId": "110",
+          "message": "……ナルトが修業を終えて\r\n木ノ葉隠れの里に戻った"
+        },
+        {
+          "scriptMessageId": "24041",
+          "speechCharactorId": "110",
+          "message": "ナルトもサクラも成長している"
+        },
+        {
+          "scriptMessageId": "24042",
+          "speechCharactorId": "110",
+          "message": "まさかスズを奪われるとは\r\n思わなかったが…"
+        },
+        {
+          "scriptMessageId": "24043",
+          "speechCharactorId": "110",
+          "message": "“暁”による砂隠れの風影の襲撃…\r\nサスケとの再会…\r\nナルトにとって辛い事が多すぎた…"
+        },
+        {
+          "scriptMessageId": "24044",
+          "speechCharactorId": "110",
+          "message": "だが、アイツは諦めやしない\r\nオレは師として力になってやらなきゃな"
+        },
+        {
+          "scriptMessageId": "24045",
+          "speechCharactorId": "110",
+          "message": "…ここまでだったのは\r\nオレだけじゃない"
+        },
+        {
+          "scriptMessageId": "24046",
+          "speechCharactorId": "110",
+          "message": "この螺旋丸を考案した\r\nオレの師でさえそうだった"
+        },
+        {
+          "scriptMessageId": "24047",
+          "speechCharactorId": "110",
+          "message": "四代目火影でさえ\r\nそれは出来なかった"
+        },
+        {
+          "scriptMessageId": "24048",
+          "speechCharactorId": "110",
+          "message": "これから先は\r\n教わるんじゃなく\r\nお前が見付けるしかないんだ"
+        },
+        {
+          "scriptMessageId": "24049",
+          "speechCharactorId": "110",
+          "message": "なぜ…なぜこんな事を\r\nお前に話すか分かるか？ナルト"
+        },
+        {
+          "scriptMessageId": "24050",
+          "speechCharactorId": "110",
+          "message": "四代目火影を超える忍は\r\nお前しかいないと…"
+        },
+        {
+          "scriptMessageId": "24051",
+          "speechCharactorId": "110",
+          "message": "オレはそう信じてるからだ"
+        },
+        {
+          "scriptMessageId": "24052",
+          "speechCharactorId": "110",
+          "message": "………"
+        },
+        {
+          "scriptMessageId": "24053",
+          "speechCharactorId": "110",
+          "message": "ナルトは必ずミナト先生を超える…"
+        },
+        {
+          "scriptMessageId": "24054",
+          "speechCharactorId": "110",
+          "message": "三人とも忍者をやめろ"
+        },
+        {
+          "scriptMessageId": "24055",
+          "speechCharactorId": "110",
+          "message": "どいつもこいつも\r\n忍者になる資格もねェ\r\nガキだってことだよ"
+        },
+        {
+          "scriptMessageId": "24056",
+          "speechCharactorId": "110",
+          "message": "お前ら忍者なめてんのか\r\n何の為に班ごとのチームに分けて\r\n演習やってると思ってる"
+        },
+        {
+          "scriptMessageId": "24057",
+          "speechCharactorId": "110",
+          "message": "お前らは、この試験の答えを\r\nまるで理解していない……"
+        },
+        {
+          "scriptMessageId": "24058",
+          "speechCharactorId": "6",
+          "message": "あ～～～～も～～～～！\r\nだから答えって何なんだってばよォ！？"
+        },
+        {
+          "scriptMessageId": "24059",
+          "speechCharactorId": "110",
+          "message": "それはチームワークだ"
+        },
+        {
+          "scriptMessageId": "24060",
+          "speechCharactorId": "110",
+          "message": "任務は班で行う！"
+        },
+        {
+          "scriptMessageId": "24061",
+          "speechCharactorId": "110",
+          "message": "たしかに忍者にとって\r\n卓越した個人技能は必要だ"
+        },
+        {
+          "scriptMessageId": "24062",
+          "speechCharactorId": "110",
+          "message": "が、それ以上に重要視されるのは\r\n“チームワーク”だ"
+        },
+        {
+          "scriptMessageId": "24063",
+          "speechCharactorId": "125",
+          "message": "ナルト\r\n素敵な名前です"
+        },
+        {
+          "scriptMessageId": "24064",
+          "speechCharactorId": "155",
+          "message": "ハハ…ったく…\r\nってことはワシが名付け親かの？"
+        },
+        {
+          "scriptMessageId": "24065",
+          "speechCharactorId": "155",
+          "message": "ワシなんかでホントにいいのか？"
+        },
+        {
+          "scriptMessageId": "24066",
+          "speechCharactorId": "46",
+          "message": "先生だからこそです！"
+        },
+        {
+          "scriptMessageId": "24067",
+          "speechCharactorId": "46",
+          "message": "本当の忍の才能を持つ\r\n立派な忍者であなたほどの\r\n忍はいませんからね"
+        },
+        {
+          "scriptMessageId": "24068",
+          "speechCharactorId": "6",
+          "message": "ねえ！ねえ！\r\nなんでオレ選んだの？"
+        },
+        {
+          "scriptMessageId": "24069",
+          "speechCharactorId": "6",
+          "message": "やっぱ仙人クラスのすっげぇ術は\r\nオレ位になんないと伝授できねーのかなぁ…"
+        },
+        {
+          "scriptMessageId": "24070",
+          "speechCharactorId": "155",
+          "message": "ワシはなぁ…\r\n昔、四代目火影を弟子にしていてな"
+        },
+        {
+          "scriptMessageId": "24071",
+          "speechCharactorId": "155",
+          "message": "そんでお前はその四代目に\r\n面白いくらい似てる……"
+        },
+        {
+          "scriptMessageId": "24072",
+          "speechCharactorId": "155",
+          "message": "まぁ…\r\nそんだけの理由だっての"
+        },
+        {
+          "scriptMessageId": "24073",
+          "speechCharactorId": "155",
+          "message": "ナルトはミナトの忘れ形見…\r\nワシからすれば孫のような存在だ"
+        },
+        {
+          "scriptMessageId": "24074",
+          "speechCharactorId": "155",
+          "message": "ワシの想いを\r\nナルトが継いでくれるなら…"
+        },
+        {
+          "scriptMessageId": "24075",
+          "speechCharactorId": "155",
+          "message": "この術は\r\nあの四代目火影が遺した忍術だ！"
+        },
+        {
+          "scriptMessageId": "24076",
+          "speechCharactorId": "155",
+          "message": "四代目がこの術を完成させるのに\r\n丸三年…"
+        },
+        {
+          "scriptMessageId": "24077",
+          "speechCharactorId": "155",
+          "message": "この術の会得難易度は\r\n六段階で上から二つ目…"
+        },
+        {
+          "scriptMessageId": "24078",
+          "speechCharactorId": "155",
+          "message": "Aランク超高等忍術レベルだからのォ"
+        },
+        {
+          "scriptMessageId": "24079",
+          "speechCharactorId": "155",
+          "message": "ミナトよ…\r\nナルトは成長しておるぞ\r\nワシが思ってた以上にな"
+        },
+        {
+          "scriptMessageId": "24080",
+          "speechCharactorId": "155",
+          "message": "ワシにもお前にも負けないくらいの\r\n諦めないド根性をもっておる"
+        },
+        {
+          "scriptMessageId": "24081",
+          "speechCharactorId": "155",
+          "message": "サスケの事はもう忘れろ"
+        },
+        {
+          "scriptMessageId": "24082",
+          "speechCharactorId": "155",
+          "message": "お前が何をしようと\r\nあいつは変わらん"
+        },
+        {
+          "scriptMessageId": "24083",
+          "speechCharactorId": "250",
+          "message": "エロ仙人には何でもねーかもしんねーけど\r\nオレにとってあいつは友達なんだよ！！"
+        },
+        {
+          "scriptMessageId": "24084",
+          "speechCharactorId": "155",
+          "message": "友達が仲間を傷つけるのか！？"
+        },
+        {
+          "scriptMessageId": "24085",
+          "speechCharactorId": "155",
+          "message": "今のお前の有り様を見てみろ！"
+        },
+        {
+          "scriptMessageId": "24086",
+          "speechCharactorId": "155",
+          "message": "ワシにも友がいた…\r\n“三忍”と呼ばれ…ガキの頃からの同志だった"
+        },
+        {
+          "scriptMessageId": "24087",
+          "speechCharactorId": "155",
+          "message": "どんなに求めたところで\r\n…結局、奴が戻って来るハズもなかった…"
+        },
+        {
+          "scriptMessageId": "24088",
+          "speechCharactorId": "155",
+          "message": "苦しんだ挙句\r\n残ったのは己の無力感と…後悔……"
+        },
+        {
+          "scriptMessageId": "24089",
+          "speechCharactorId": "155",
+          "message": "ワシと同じ道を歩ませたくないんだ\r\n…お前に"
+        },
+        {
+          "scriptMessageId": "24090",
+          "speechCharactorId": "155",
+          "message": "…サスケを追うなら\r\n修業の話は無しだ…"
+        },
+        {
+          "scriptMessageId": "24091",
+          "speechCharactorId": "155",
+          "message": "お前を暗部に見張らせ\r\n事によっては木ノ葉からの外出を禁ずる…"
+        },
+        {
+          "scriptMessageId": "24092",
+          "speechCharactorId": "155",
+          "message": "いずれお前は大蛇丸より厄介な奴らを\r\n相手にしなきゃならなくなるんだ"
+        },
+        {
+          "scriptMessageId": "24093",
+          "speechCharactorId": "155",
+          "message": "サスケの事は諦めるんだのォ"
+        },
+        {
+          "scriptMessageId": "24094",
+          "speechCharactorId": "155",
+          "message": "遅かれ早かれ\r\nこうなる運命だったんだ"
+        },
+        {
+          "scriptMessageId": "24095",
+          "speechCharactorId": "155",
+          "message": "もう苦しむな…\r\n忘れて切り捨てろ"
+        },
+        {
+          "scriptMessageId": "24096",
+          "speechCharactorId": "155",
+          "message": "忍なら正しい判断や\r\n選択をする目を養え"
+        },
+        {
+          "scriptMessageId": "24097",
+          "speechCharactorId": "155",
+          "message": "忍として生きるなら\r\nもっと賢くなれ"
+        },
+        {
+          "scriptMessageId": "24098",
+          "speechCharactorId": "155",
+          "message": "バカのままじゃ…\r\nこの世界、生き辛いのが現実だ…"
+        },
+        {
+          "scriptMessageId": "24099",
+          "speechCharactorId": "250",
+          "message": "……分かったよ…"
+        },
+        {
+          "scriptMessageId": "24100",
+          "speechCharactorId": "250",
+          "message": "賢いってのがそういうことなら…\r\nオレは一生バカでいい…"
+        },
+        {
+          "scriptMessageId": "24101",
+          "speechCharactorId": "155",
+          "message": "……！！"
+        },
+        {
+          "scriptMessageId": "24102",
+          "speechCharactorId": "155",
+          "message": "お前みたいなのが\r\n一人でやっても…"
+        },
+        {
+          "scriptMessageId": "24103",
+          "speechCharactorId": "155",
+          "message": "どうせくだらんエロ忍術を思いつくくらいが\r\n関の山だのォ…"
+        },
+        {
+          "scriptMessageId": "24104",
+          "speechCharactorId": "155",
+          "message": "バカはバカでも大バカだったら\r\n何とかなるかもな"
+        },
+        {
+          "scriptMessageId": "24105",
+          "speechCharactorId": "155",
+          "message": "退院したら覚悟しとけのォ\r\nこの大バカもんが"
+        },
+        {
+          "scriptMessageId": "24106",
+          "speechCharactorId": "155",
+          "message": "それから数年間…\r\nナルトを連れ修業の旅に出た…"
+        },
+        {
+          "scriptMessageId": "24107",
+          "speechCharactorId": "155",
+          "message": "幻術対策に体術…\r\nそして忍術…"
+        },
+        {
+          "scriptMessageId": "24108",
+          "speechCharactorId": "155",
+          "message": "様々な修業をし…ナルトは大きくなった"
+        },
+        {
+          "scriptMessageId": "24109",
+          "speechCharactorId": "155",
+          "message": "そして何より…強くなった"
+        },
+        {
+          "scriptMessageId": "24110",
+          "speechCharactorId": "155",
+          "message": "いずれ己の中の九尾とも\r\n向き合う日が来よう……"
+        },
+        {
+          "scriptMessageId": "24111",
+          "speechCharactorId": "155",
+          "message": "そして、ワシが託した\r\nあの問いの答えに届くかもしれん"
+        },
+        {
+          "scriptMessageId": "24112",
+          "speechCharactorId": "155",
+          "message": "………"
+        },
+        {
+          "scriptMessageId": "24113",
+          "speechCharactorId": "155",
+          "message": "ワシは…"
+        },
+        {
+          "scriptMessageId": "24114",
+          "speechCharactorId": "155",
+          "message": "死ぬのか？"
+        },
+        {
+          "scriptMessageId": "24115",
+          "speechCharactorId": "155",
+          "message": "失敗なのか？"
+        },
+        {
+          "scriptMessageId": "24116",
+          "speechCharactorId": "155",
+          "message": "…………"
+        },
+        {
+          "scriptMessageId": "24117",
+          "speechCharactorId": "155",
+          "message": "忍は生き様ではなく\r\n死に様の世界…"
+        },
+        {
+          "scriptMessageId": "24118",
+          "speechCharactorId": "155",
+          "message": "忍の人生とは\r\nどうやって生きてきたかではなく"
+        },
+        {
+          "scriptMessageId": "24119",
+          "speechCharactorId": "155",
+          "message": "死ぬまでに何をしたかで\r\nその価値が決まる"
+        },
+        {
+          "scriptMessageId": "24120",
+          "speechCharactorId": "155",
+          "message": "…思い返せばワシの物語は\r\n失敗ばかりだった…"
+        },
+        {
+          "scriptMessageId": "24121",
+          "speechCharactorId": "155",
+          "message": "綱手にフラれ続け"
+        },
+        {
+          "scriptMessageId": "24122",
+          "speechCharactorId": "155",
+          "message": "友を止めることも出来ず"
+        },
+        {
+          "scriptMessageId": "24123",
+          "speechCharactorId": "155",
+          "message": "弟子と師を守ることも出来なかった…"
+        },
+        {
+          "scriptMessageId": "24124",
+          "speechCharactorId": "155",
+          "message": "火影たちが成した偉業に比べれば\r\nワシのしてきたことは"
+        },
+        {
+          "scriptMessageId": "24125",
+          "speechCharactorId": "155",
+          "message": "取るに足らぬくだらぬことばかり…"
+        },
+        {
+          "scriptMessageId": "24126",
+          "speechCharactorId": "155",
+          "message": "ワシも歴代火影たちの様に\r\n死にたかった"
+        },
+        {
+          "scriptMessageId": "24127",
+          "speechCharactorId": "155",
+          "message": "物語は最後の“結び”の出来で決まる"
+        },
+        {
+          "scriptMessageId": "24128",
+          "speechCharactorId": "155",
+          "message": "今までの失敗をチャラにするような\r\n大きな偉業を成し遂げ"
+        },
+        {
+          "scriptMessageId": "24129",
+          "speechCharactorId": "155",
+          "message": "立派な忍として死ぬ！"
+        },
+        {
+          "scriptMessageId": "24130",
+          "speechCharactorId": "155",
+          "message": "…そのハズだった…"
+        },
+        {
+          "scriptMessageId": "24131",
+          "speechCharactorId": "155",
+          "message": "だが…その“結び”…"
+        },
+        {
+          "scriptMessageId": "24132",
+          "speechCharactorId": "155",
+          "message": "死に様がコレか…"
+        },
+        {
+          "scriptMessageId": "24133",
+          "speechCharactorId": "155",
+          "message": "…情けないのォ…"
+        },
+        {
+          "scriptMessageId": "24134",
+          "speechCharactorId": "155",
+          "message": "…これが自来也豪傑物語の\r\n結びだとはの…"
+        },
+        {
+          "scriptMessageId": "24135",
+          "speechCharactorId": "155",
+          "message": "くだらぬ物語だった…"
+        },
+        {
+          "scriptMessageId": "24136",
+          "speechCharactorId": "493",
+          "message": "いや、そんなことはないですよ"
+        },
+        {
+          "scriptMessageId": "24137",
+          "speechCharactorId": "493",
+          "message": "この物語は素晴らしいです"
+        },
+        {
+          "scriptMessageId": "24138",
+          "speechCharactorId": "493",
+          "message": "この本の主人公…\r\n最後まであきらめなかったところが"
+        },
+        {
+          "scriptMessageId": "24139",
+          "speechCharactorId": "493",
+          "message": "格好良かった…"
+        },
+        {
+          "scriptMessageId": "24140",
+          "speechCharactorId": "493",
+          "message": "先生らしいですね\r\nこの主人公"
+        },
+        {
+          "scriptMessageId": "24141",
+          "speechCharactorId": "493",
+          "message": "今度、生まれてくる子供も"
+        },
+        {
+          "scriptMessageId": "24142",
+          "speechCharactorId": "493",
+          "message": "こんな主人公みたいな\r\n忍になってくれたらいいなって！"
+        },
+        {
+          "scriptMessageId": "24143",
+          "speechCharactorId": "493",
+          "message": "だから、この小説の主人公の名前\r\nいただいてもいいですか？"
+        },
+        {
+          "scriptMessageId": "24144",
+          "speechCharactorId": "155",
+          "message": "そうだ…"
+        },
+        {
+          "scriptMessageId": "24145",
+          "speechCharactorId": "155",
+          "message": "そうだった…"
+        },
+        {
+          "scriptMessageId": "24146",
+          "speechCharactorId": "155",
+          "message": "ワシはあの子に…"
+        },
+        {
+          "scriptMessageId": "24147",
+          "speechCharactorId": "155",
+          "message": "ナルト…"
+        },
+        {
+          "scriptMessageId": "24148",
+          "speechCharactorId": "155",
+          "message": "思えばお前は\r\nあの小説の主人公どおりだ"
+        },
+        {
+          "scriptMessageId": "24149",
+          "speechCharactorId": "155",
+          "message": "ミナトとクシナの想い…\r\n願いをちゃんと受け取っていた"
+        },
+        {
+          "scriptMessageId": "24150",
+          "speechCharactorId": "155",
+          "message": "それなのに…ワシは…"
+        },
+        {
+          "scriptMessageId": "24151",
+          "speechCharactorId": "155",
+          "message": "…………"
+        },
+        {
+          "scriptMessageId": "24152",
+          "speechCharactorId": "155",
+          "message": "まっすぐ自分の言葉は曲げない"
+        },
+        {
+          "scriptMessageId": "24153",
+          "speechCharactorId": "155",
+          "message": "そしてどんな時もあきらめない…"
+        },
+        {
+          "scriptMessageId": "24154",
+          "speechCharactorId": "155",
+          "message": "それがお前の忍道なら――"
+        },
+        {
+          "scriptMessageId": "24155",
+          "speechCharactorId": "155",
+          "message": "ナルトよ"
+        },
+        {
+          "scriptMessageId": "24156",
+          "speechCharactorId": "155",
+          "message": "ワシはそのお前の師だ"
+        },
+        {
+          "scriptMessageId": "24157",
+          "speechCharactorId": "155",
+          "message": "弱音を吐くわけにはいかんのォ…"
+        },
+        {
+          "scriptMessageId": "24158",
+          "speechCharactorId": "155",
+          "message": "なぜなら…"
+        },
+        {
+          "scriptMessageId": "24159",
+          "speechCharactorId": "155",
+          "message": "弟子の忍道は\r\n師匠ゆずりと相場は決まっとる！"
+        },
+        {
+          "scriptMessageId": "24160",
+          "speechCharactorId": "155",
+          "message": "なあ…そうだろ\r\nナルトよ…のォ！！"
+        },
+        {
+          "scriptMessageId": "24161",
+          "speechCharactorId": "155",
+          "message": "あきらめねェ…"
+        },
+        {
+          "scriptMessageId": "24162",
+          "speechCharactorId": "155",
+          "message": "それこそがワシのとるべき\r\n本当の“選択”だった！"
+        },
+        {
+          "scriptMessageId": "24163",
+          "speechCharactorId": "155",
+          "message": "ナルト\r\n“予言の子”は間違えなくお前だ"
+        },
+        {
+          "scriptMessageId": "24164",
+          "speechCharactorId": "155",
+          "message": "…あとは全てお前に託すぞ！！"
+        },
+        {
+          "scriptMessageId": "24165",
+          "speechCharactorId": "155",
+          "message": "自来也豪傑物語…"
+        },
+        {
+          "scriptMessageId": "24166",
+          "speechCharactorId": "155",
+          "message": "これでちったぁマシになったかのう"
+        },
+        {
+          "scriptMessageId": "24167",
+          "speechCharactorId": "155",
+          "message": "最終章…"
+        },
+        {
+          "scriptMessageId": "24168",
+          "speechCharactorId": "155",
+          "message": "井の中の蛙\r\n大海で散る…の巻か"
+        },
+        {
+          "scriptMessageId": "24169",
+          "speechCharactorId": "155",
+          "message": "フフ…ほどほどにあっぱれ…"
+        },
+        {
+          "scriptMessageId": "24170",
+          "speechCharactorId": "155",
+          "message": "あっぱれ…"
+        },
+        {
+          "scriptMessageId": "24171",
+          "speechCharactorId": "155",
+          "message": "こんなワシでも\r\nこの忍の世界に憎しみが\r\nはびこっているのは分かる"
+        },
+        {
+          "scriptMessageId": "24172",
+          "speechCharactorId": "380",
+          "message": "…憎しみ"
+        },
+        {
+          "scriptMessageId": "24173",
+          "speechCharactorId": "155",
+          "message": "その憎しみを\r\nどうにかしたいとは\r\n思っとるんだが…"
+        },
+        {
+          "scriptMessageId": "24174",
+          "speechCharactorId": "155",
+          "message": "どうしたらいいか\r\nワシにもまだわからん…"
+        },
+        {
+          "scriptMessageId": "24175",
+          "speechCharactorId": "155",
+          "message": "だが、いつかは…"
+        },
+        {
+          "scriptMessageId": "24176",
+          "speechCharactorId": "155",
+          "message": "人が本当の意味で\r\n理解し合える時代が来ると\r\nワシは信じとる！！"
+        },
+        {
+          "scriptMessageId": "24177",
+          "speechCharactorId": "380",
+          "message": "なんか難しいってばよ"
+        },
+        {
+          "scriptMessageId": "24178",
+          "speechCharactorId": "155",
+          "message": "答が見つからんかった時は\r\nその答をお前に託すとしようかのォ！"
+        },
+        {
+          "scriptMessageId": "24179",
+          "speechCharactorId": "6",
+          "message": "オッス！！\r\nエロ仙人の頼みなら\r\n仕方ねェーってばよ"
+        },
+        {
+          "scriptMessageId": "24180",
+          "speechCharactorId": "155",
+          "message": "………"
+        },
+        {
+          "scriptMessageId": "24181",
+          "speechCharactorId": "155",
+          "message": "お前を弟子にしてよかったわい！"
+        },
+        {
+          "scriptMessageId": "24182",
+          "speechCharactorId": "34",
+          "message": "先生…\r\nアナタはまだ人でしかない…"
+        },
+        {
+          "scriptMessageId": "24183",
+          "speechCharactorId": "34",
+          "message": "だがオレは無限に続く痛みの中で\r\n人からさらに成長したのだ"
+        },
+        {
+          "scriptMessageId": "24184",
+          "speechCharactorId": "34",
+          "message": "そう…人から…"
+        },
+        {
+          "scriptMessageId": "24185",
+          "speechCharactorId": "34",
+          "message": "神へとな"
+        },
+        {
+          "scriptMessageId": "24186",
+          "speechCharactorId": "155",
+          "message": "お前は一体何をする気だ？"
+        },
+        {
+          "scriptMessageId": "24187",
+          "speechCharactorId": "34",
+          "message": "この戦いだらけの\r\nくだらない世の中に終止符を打つ"
+        },
+        {
+          "scriptMessageId": "24188",
+          "speechCharactorId": "155",
+          "message": "…ペイン…\r\nお前はいったい何者なんだ…！？"
+        },
+        {
+          "scriptMessageId": "24189",
+          "speechCharactorId": "34",
+          "message": "ペイン…"
+        },
+        {
+          "scriptMessageId": "24190",
+          "speechCharactorId": "34",
+          "message": "それはオレたち六人全員を\r\n指し示す呼び名だ"
+        },
+        {
+          "scriptMessageId": "24191",
+          "speechCharactorId": "155",
+          "message": "お…お前は…"
+        },
+        {
+          "scriptMessageId": "24192",
+          "speechCharactorId": "582",
+          "message": "ナルトめ…また火影岩でイタズラを…\r\n呆れた奴じゃ"
+        },
+        {
+          "scriptMessageId": "24193",
+          "speechCharactorId": "267",
+          "message": "三代目…今の話は\r\nちょっと考えさせて下さい"
+        },
+        {
+          "scriptMessageId": "24194",
+          "speechCharactorId": "267",
+          "message": "私がナルトの担任なんて…"
+        },
+        {
+          "scriptMessageId": "24195",
+          "speechCharactorId": "582",
+          "message": "イルカよ…\r\n見ての通りナルトのやんちゃぶりには皆、手を焼いておる"
+        },
+        {
+          "scriptMessageId": "24196",
+          "speechCharactorId": "582",
+          "message": "しかもそのイタズラは\r\n日に日にエスカレートするばかりじゃ"
+        },
+        {
+          "scriptMessageId": "24197",
+          "speechCharactorId": "582",
+          "message": "誰も担任をやりたがらない"
+        },
+        {
+          "scriptMessageId": "24198",
+          "speechCharactorId": "582",
+          "message": "生徒の長所を伸ばしてやるのが\r\n教師の務めだと思うのだが"
+        },
+        {
+          "scriptMessageId": "24199",
+          "speechCharactorId": "582",
+          "message": "このまま、ナルトが忍者学校を卒業できなければ"
+        },
+        {
+          "scriptMessageId": "24200",
+          "speechCharactorId": "582",
+          "message": "忍にはなれん…"
+        },
+        {
+          "scriptMessageId": "24201",
+          "speechCharactorId": "582",
+          "message": "となれば、奴の将来は里のあぶれ者"
+        },
+        {
+          "scriptMessageId": "24202",
+          "speechCharactorId": "267",
+          "message": "ちょっとお待ちください…\r\nナルトには他に適任が…"
+        },
+        {
+          "scriptMessageId": "24203",
+          "speechCharactorId": "582",
+          "message": "担任がいないのならナルトには\r\n忍者学校をやめてもらうしかないのう"
+        },
+        {
+          "scriptMessageId": "24204",
+          "speechCharactorId": "582",
+          "message": "気にするな…\r\n誰もお前の事を非難できんし\r\nそうなったとしても、お前のせいではない"
+        },
+        {
+          "scriptMessageId": "24205",
+          "speechCharactorId": "267",
+          "message": "ちょっと待ってください…"
+        },
+        {
+          "scriptMessageId": "24206",
+          "speechCharactorId": "582",
+          "message": "なんじゃ引き受けてくれるのか？"
+        },
+        {
+          "scriptMessageId": "24207",
+          "speechCharactorId": "267",
+          "message": "……ハイ…"
+        },
+        {
+          "scriptMessageId": "24208",
+          "speechCharactorId": "230",
+          "message": "グルルルル……"
+        },
+        {
+          "scriptMessageId": "24209",
+          "speechCharactorId": "267",
+          "message": "くっ……"
+        },
+        {
+          "scriptMessageId": "24210",
+          "speechCharactorId": "267",
+          "message": "ハァハァ…夢か…"
+        },
+        {
+          "scriptMessageId": "24211",
+          "speechCharactorId": "267",
+          "message": "ナルトに封印された九尾は\r\n私にとっては親の仇です…"
+        },
+        {
+          "scriptMessageId": "24212",
+          "speechCharactorId": "267",
+          "message": "勿論、ナルトに非がないことは\r\n十分理解してるつもりです"
+        },
+        {
+          "scriptMessageId": "24213",
+          "speechCharactorId": "110",
+          "message": "自分が心を開かなければ\r\n相手も心を開かない\r\nそんな当たり前の道理も忘れてるんじゃないかな"
+        },
+        {
+          "scriptMessageId": "24214",
+          "speechCharactorId": "110",
+          "message": "いや…忘れようとしてるのかな"
+        },
+        {
+          "scriptMessageId": "24215",
+          "speechCharactorId": "267",
+          "message": "しかし、彼を目の前にすると\r\nその奥に潜む九尾が私の頭の中に\r\n無理矢理入り込んでくるんです…"
+        },
+        {
+          "scriptMessageId": "24216",
+          "speechCharactorId": "267",
+          "message": "そんな私にナルトが心を開いてくれるとは…"
+        },
+        {
+          "scriptMessageId": "24217",
+          "speechCharactorId": "110",
+          "message": "ナルトの心を開けるのはお前しかいない\r\nそれが…お前の試練だよ"
+        },
+        {
+          "scriptMessageId": "24218",
+          "speechCharactorId": "267",
+          "message": "試練…？"
+        },
+        {
+          "scriptMessageId": "24219",
+          "speechCharactorId": "110",
+          "message": "そう、三代目の与えたね"
+        },
+        {
+          "scriptMessageId": "24220",
+          "speechCharactorId": "110",
+          "message": "もう少し頑張れ\r\nそうすればきっと何か見えてくるはずだ"
+        },
+        {
+          "scriptMessageId": "24221",
+          "speechCharactorId": "582",
+          "message": "イルカよ…"
+        },
+        {
+          "scriptMessageId": "24222",
+          "speechCharactorId": "267",
+          "message": "何です火影様"
+        },
+        {
+          "scriptMessageId": "24223",
+          "speechCharactorId": "582",
+          "message": "お前の気持ちも分からんではないが…"
+        },
+        {
+          "scriptMessageId": "24224",
+          "speechCharactorId": "582",
+          "message": "あやつもお前と同じ親の愛情を……"
+        },
+        {
+          "scriptMessageId": "24225",
+          "speechCharactorId": "581",
+          "message": "はなせー！！"
+        },
+        {
+          "scriptMessageId": "24226",
+          "speechCharactorId": "581",
+          "message": "とーちゃんとかーちゃんが\r\nまだ戦ってんだ！！"
+        },
+        {
+          "scriptMessageId": "24227",
+          "speechCharactorId": "1000",
+          "message": "大変です！！\r\nイルカ先生！！"
+        },
+        {
+          "scriptMessageId": "24228",
+          "speechCharactorId": "267",
+          "message": "どーしたんです？"
+        },
+        {
+          "scriptMessageId": "24229",
+          "speechCharactorId": "1000",
+          "message": "どうやらナルト君が\r\nいたずらで封印の書を持ち出したらしくて……！"
+        },
+        {
+          "scriptMessageId": "24230",
+          "speechCharactorId": "582",
+          "message": "親の愛情を知らず"
+        },
+        {
+          "scriptMessageId": "24231",
+          "speechCharactorId": "582",
+          "message": "里の者にはあの事件のことで\r\nけむたがられる"
+        },
+        {
+          "scriptMessageId": "24232",
+          "speechCharactorId": "582",
+          "message": "だから人の気をひくために\r\nいたずらをするしかなかったのじゃ"
+        },
+        {
+          "scriptMessageId": "24233",
+          "speechCharactorId": "582",
+          "message": "どんなかたちであれ\r\n自分の存在価値を認めて欲しかったのじゃよ"
+        },
+        {
+          "scriptMessageId": "24234",
+          "speechCharactorId": "582",
+          "message": "強がってはいるが\r\nつらいのはナルトの方じゃ…………"
+        },
+        {
+          "scriptMessageId": "24235",
+          "speechCharactorId": "267",
+          "message": "そうだよなぁ…ナルト…"
+        },
+        {
+          "scriptMessageId": "24236",
+          "speechCharactorId": "267",
+          "message": "さみしかったんだよなぁ…\r\n苦しかったんだよなぁ…"
+        },
+        {
+          "scriptMessageId": "24237",
+          "speechCharactorId": "267",
+          "message": "ごめんなァ…ナルト\r\nオレがもっとしっかりしてりゃ"
+        },
+        {
+          "scriptMessageId": "24238",
+          "speechCharactorId": "267",
+          "message": "こんな思いさせずにすんだのによ"
+        },
+        {
+          "scriptMessageId": "24239",
+          "speechCharactorId": "1000",
+          "message": "あのバケ狐が力を利用しない訳がない"
+        },
+        {
+          "scriptMessageId": "24240",
+          "speechCharactorId": "267",
+          "message": "ああ！"
+        },
+        {
+          "scriptMessageId": "24241",
+          "speechCharactorId": "267",
+          "message": "バケ狐ならな"
+        },
+        {
+          "scriptMessageId": "24242",
+          "speechCharactorId": "267",
+          "message": "けどナルトは違う\r\nあいつは…あいつはこのオレが認めた\r\n優秀な生徒だ"
+        },
+        {
+          "scriptMessageId": "24243",
+          "speechCharactorId": "267",
+          "message": "…努力家で一途で…\r\nそのくせ不器用で"
+        },
+        {
+          "scriptMessageId": "24244",
+          "speechCharactorId": "267",
+          "message": "誰からも認めてもらえなくて……"
+        },
+        {
+          "scriptMessageId": "24245",
+          "speechCharactorId": "267",
+          "message": "あいつはもう人の心の苦しみを知っている……"
+        },
+        {
+          "scriptMessageId": "24246",
+          "speechCharactorId": "267",
+          "message": "今はもうバケ狐じゃない"
+        },
+        {
+          "scriptMessageId": "24247",
+          "speechCharactorId": "267",
+          "message": "あいつは木ノ葉隠れの里の……"
+        },
+        {
+          "scriptMessageId": "24248",
+          "speechCharactorId": "267",
+          "message": "うずまきナルトだ"
+        },
+        {
+          "scriptMessageId": "24249",
+          "speechCharactorId": "267",
+          "message": "卒業…おめでとう"
+        },
+        {
+          "scriptMessageId": "24250",
+          "speechCharactorId": "267",
+          "message": "ナルト、お前が頑張っているのを\r\n聞いて、オレはとても嬉しく思う。"
+        },
+        {
+          "scriptMessageId": "24251",
+          "speechCharactorId": "267",
+          "message": "どんな苦難も困難も乗り越えて\r\nお前は成長していくんだな…"
+        },
+        {
+          "scriptMessageId": "24252",
+          "speechCharactorId": "251",
+          "message": "………"
+        },
+        {
+          "scriptMessageId": "24253",
+          "speechCharactorId": "267",
+          "message": "ナルト…"
+        },
+        {
+          "scriptMessageId": "24254",
+          "speechCharactorId": "267",
+          "message": "…自来也様のことは聞いたよ"
+        },
+        {
+          "scriptMessageId": "24255",
+          "speechCharactorId": "251",
+          "message": "………"
+        },
+        {
+          "scriptMessageId": "24256",
+          "speechCharactorId": "251",
+          "message": "オレのこと…"
+        },
+        {
+          "scriptMessageId": "24257",
+          "speechCharactorId": "251",
+          "message": "ずっと見てて欲しかった…"
+        },
+        {
+          "scriptMessageId": "24258",
+          "speechCharactorId": "251",
+          "message": "オレが火影になるとこ\r\n見ててもらいたかったのに…"
+        },
+        {
+          "scriptMessageId": "24259",
+          "speechCharactorId": "251",
+          "message": "エロ仙人にはかっこわりー\r\nとこばっかしか見せられなくて…"
+        },
+        {
+          "scriptMessageId": "24260",
+          "speechCharactorId": "251",
+          "message": "オレってば…"
+        },
+        {
+          "scriptMessageId": "24261",
+          "speechCharactorId": "267",
+          "message": "自来也様はお前のことを\r\nいつも褒めてたよ"
+        },
+        {
+          "scriptMessageId": "24262",
+          "speechCharactorId": "267",
+          "message": "自分の孫のようだと"
+        },
+        {
+          "scriptMessageId": "24263",
+          "speechCharactorId": "267",
+          "message": "いつも鼻高々に話して下さった"
+        },
+        {
+          "scriptMessageId": "24264",
+          "speechCharactorId": "267",
+          "message": "お前が自分の意志を継ぐ存在だと\r\n信じてた"
+        },
+        {
+          "scriptMessageId": "24265",
+          "speechCharactorId": "267",
+          "message": "いずれ立派な火影になると\r\n信じて疑ってなかった"
+        },
+        {
+          "scriptMessageId": "24266",
+          "speechCharactorId": "267",
+          "message": "自来也様はお前をずっと見てるさ…"
+        },
+        {
+          "scriptMessageId": "24267",
+          "speechCharactorId": "267",
+          "message": "あの人はお前が落ち込んでるのを見ても\r\n褒めてはくれないぞ"
+        },
+        {
+          "scriptMessageId": "24268",
+          "speechCharactorId": "267",
+          "message": "だから……"
+        },
+        {
+          "scriptMessageId": "24269",
+          "speechCharactorId": "267",
+          "message": "今まで通りの\r\n褒めてもらえるような"
+        },
+        {
+          "scriptMessageId": "24270",
+          "speechCharactorId": "267",
+          "message": "お前でいればいい"
+        },
+        {
+          "scriptMessageId": "24271",
+          "speechCharactorId": "267",
+          "message": "いつまでも落ち込んでんな！"
+        },
+        {
+          "scriptMessageId": "24272",
+          "speechCharactorId": "267",
+          "message": "お前はあの三忍\r\n自来也様が認めた"
+        },
+        {
+          "scriptMessageId": "24273",
+          "speechCharactorId": "267",
+          "message": "優秀な弟子なんだからな"
+        },
+        {
+          "scriptMessageId": "24274",
+          "speechCharactorId": "251",
+          "message": "………"
+        },
+        {
+          "scriptMessageId": "24275",
+          "speechCharactorId": "251",
+          "message": "ありがと…イルカ先生"
+        },
+        {
+          "scriptMessageId": "24276",
+          "speechCharactorId": "384",
+          "message": "九尾の“人柱力”の居場所を吐け\r\nでなければ殺す"
+        },
+        {
+          "scriptMessageId": "24277",
+          "speechCharactorId": "267",
+          "message": "…そうかこいつが\r\n…“暁”…"
+        },
+        {
+          "scriptMessageId": "24278",
+          "speechCharactorId": "267",
+          "message": "お前のような奴に\r\n何も話すつもりはない"
+        },
+        {
+          "scriptMessageId": "24279",
+          "speechCharactorId": "267",
+          "message": "自来也様を倒した“暁”のリーダーが\r\n木ノ葉隠れの里を襲撃してきた"
+        },
+        {
+          "scriptMessageId": "24280",
+          "speechCharactorId": "267",
+          "message": "……ナルトは本当に強くなった…"
+        },
+        {
+          "scriptMessageId": "24281",
+          "speechCharactorId": "582",
+          "message": "…四代目は里の者達に\r\nナルトを英雄として見て欲しかった"
+        },
+        {
+          "scriptMessageId": "24282",
+          "speechCharactorId": "582",
+          "message": "……そう願って封印し\r\n死んだ"
+        },
+        {
+          "scriptMessageId": "24283",
+          "speechCharactorId": "267",
+          "message": "……三代目…四代目"
+        },
+        {
+          "scriptMessageId": "24284",
+          "speechCharactorId": "267",
+          "message": "今、目の前に英雄がいます！"
+        },
+        {
+          "scriptMessageId": "24285",
+          "speechCharactorId": "267",
+          "message": "戦争がはじまった…\r\n九尾の“人柱力”を守る戦争が"
+        },
+        {
+          "scriptMessageId": "24286",
+          "speechCharactorId": "267",
+          "message": "オレにとってはナルトを守る戦いが…"
+        },
+        {
+          "scriptMessageId": "24287",
+          "speechCharactorId": "267",
+          "message": "だけど……"
+        },
+        {
+          "scriptMessageId": "24288",
+          "speechCharactorId": "251",
+          "message": "何だよ…こりゃ…？"
+        },
+        {
+          "scriptMessageId": "24289",
+          "speechCharactorId": "267",
+          "message": "…戦争だ\r\nマダラがしかけてきた"
+        },
+        {
+          "scriptMessageId": "24290",
+          "speechCharactorId": "251",
+          "message": "この戦争は全部オレ一人で\r\nケリつける！！"
+        },
+        {
+          "scriptMessageId": "24291",
+          "speechCharactorId": "251",
+          "message": "憎しみも痛みも\r\n全部オレがまとめて引き受ける！！"
+        },
+        {
+          "scriptMessageId": "24292",
+          "speechCharactorId": "251",
+          "message": "オレの役目だ！！"
+        },
+        {
+          "scriptMessageId": "24293",
+          "speechCharactorId": "267",
+          "message": "お前の事だ\r\nすぐに戦場に駆けつけようとするだろう\r\n覚悟は知ってる"
+        },
+        {
+          "scriptMessageId": "24294",
+          "speechCharactorId": "267",
+          "message": "この手紙を見てるという事は\r\nオレはお前を止められなかったって事になる"
+        },
+        {
+          "scriptMessageId": "24295",
+          "speechCharactorId": "267",
+          "message": "任命されたのに情けないよな…"
+        },
+        {
+          "scriptMessageId": "24296",
+          "speechCharactorId": "267",
+          "message": "もし…そうなった時…\r\nうまく渡せるか分からないが"
+        },
+        {
+          "scriptMessageId": "24297",
+          "speechCharactorId": "267",
+          "message": "どうしても伝えておきたい言葉がある"
+        },
+        {
+          "scriptMessageId": "24298",
+          "speechCharactorId": "267",
+          "message": "…行ってしまったお前に\r\nオレが言える事はたった一言だけだ"
+        },
+        {
+          "scriptMessageId": "24299",
+          "speechCharactorId": "267",
+          "message": "絶対に生きて帰って来い！！！"
+        },
+        {
+          "scriptMessageId": "24300",
+          "speechCharactorId": "267",
+          "message": "……ナルト、オレはお前を信じてる…"
+        },
+        {
+          "scriptMessageId": "24301",
+          "speechCharactorId": "267",
+          "message": "ナルト…\r\nその背中の巻物はどうした？"
+        },
+        {
+          "scriptMessageId": "24302",
+          "speechCharactorId": "106",
+          "message": "あっ！これ！？\r\nミズキ先生がこの巻物のこと\r\n教えてくれたんだってばよ"
+        },
+        {
+          "scriptMessageId": "24303",
+          "speechCharactorId": "106",
+          "message": "この巻物の術\r\n見せれば卒業間違いないってよ！！"
+        },
+        {
+          "scriptMessageId": "24304",
+          "speechCharactorId": "267",
+          "message": "ミズキ――！？"
+        },
+        {
+          "scriptMessageId": "24305",
+          "speechCharactorId": "1000",
+          "message": "チッ…よくここが分かったな"
+        },
+        {
+          "scriptMessageId": "24306",
+          "speechCharactorId": "1000",
+          "message": "ナルト…いいことを教えてやるよ"
+        },
+        {
+          "scriptMessageId": "24307",
+          "speechCharactorId": "1000",
+          "message": "昔、里を襲った九尾の妖狐の話は\r\n知っているな？"
+        },
+        {
+          "scriptMessageId": "24308",
+          "speechCharactorId": "1000",
+          "message": "あの事件以来…\r\n里では徹底したある掟がつくられた"
+        },
+        {
+          "scriptMessageId": "24309",
+          "speechCharactorId": "267",
+          "message": "ヤメロォォ！！"
+        },
+        {
+          "scriptMessageId": "24310",
+          "speechCharactorId": "1000",
+          "message": "お前の正体がバケ狐だと口にしない掟だ"
+        },
+        {
+          "scriptMessageId": "24311",
+          "speechCharactorId": "1000",
+          "message": "つまりお前が\r\nイルカの両親を殺し――！！\r\n里を壊滅させた九尾の妖狐なんだよ！！"
+        },
+        {
+          "scriptMessageId": "24312",
+          "speechCharactorId": "108",
+          "message": "オレは本物のバケモノ飼ってんだ\r\nこんな奴には負けねー！"
+        },
+        {
+          "scriptMessageId": "24313",
+          "speechCharactorId": "21",
+          "message": "バケモノか…\r\nそれならばオレも…そうだ"
+        },
+        {
+          "scriptMessageId": "24314",
+          "speechCharactorId": "108",
+          "message": "…こいつの中にも何かがいんのか……"
+        },
+        {
+          "scriptMessageId": "24315",
+          "speechCharactorId": "21",
+          "message": "奴らにとって\r\nオレは消し去りたい過去の遺物だ"
+        },
+        {
+          "scriptMessageId": "24316",
+          "speechCharactorId": "21",
+          "message": "ではオレは何のために存在し\r\n生きているのか？"
+        },
+        {
+          "scriptMessageId": "24317",
+          "speechCharactorId": "21",
+          "message": "そう考えた時\r\n答は見付からなかった"
+        },
+        {
+          "scriptMessageId": "24318",
+          "speechCharactorId": "21",
+          "message": "だが生きている間は\r\nその理由が必要なのだ"
+        },
+        {
+          "scriptMessageId": "24319",
+          "speechCharactorId": "21",
+          "message": "でなければ死んでいるのと同じだ"
+        },
+        {
+          "scriptMessageId": "24320",
+          "speechCharactorId": "586",
+          "message": "何言ってんだ…コイツ"
+        },
+        {
+          "scriptMessageId": "24321",
+          "speechCharactorId": "250",
+          "message": "…オレには…\r\n分かるってばよ………"
+        },
+        {
+          "scriptMessageId": "24322",
+          "speechCharactorId": "250",
+          "message": "……コイツも\r\nオレと同じだ………"
+        },
+        {
+          "scriptMessageId": "24323",
+          "speechCharactorId": "21",
+          "message": "そしてオレはこう結論した"
+        },
+        {
+          "scriptMessageId": "24324",
+          "speechCharactorId": "21",
+          "message": "オレはオレ以外\r\n全ての人間を殺すために存在している"
+        },
+        {
+          "scriptMessageId": "24325",
+          "speechCharactorId": "21",
+          "message": "暗殺者を殺し続ける事で………"
+        },
+        {
+          "scriptMessageId": "24326",
+          "speechCharactorId": "21",
+          "message": "オレは生きている理由を\r\n認識出来るようになったのだ"
+        },
+        {
+          "scriptMessageId": "24327",
+          "speechCharactorId": "250",
+          "message": "…自分に似てるから…"
+        },
+        {
+          "scriptMessageId": "24328",
+          "speechCharactorId": "250",
+          "message": "おんなじような寂しさとか\r\n悲しさとか感じて生きてきたから…"
+        },
+        {
+          "scriptMessageId": "24329",
+          "speechCharactorId": "250",
+          "message": "そんな孤独の中で\r\n自分のためだけに戦い続けてきた\r\nアイツを強いとオレは思った…"
+        },
+        {
+          "scriptMessageId": "24330",
+          "speechCharactorId": "250",
+          "message": "…でも本当に強いって\r\nそんなことじゃなかったはずだ…"
+        },
+        {
+          "scriptMessageId": "24331",
+          "speechCharactorId": "250",
+          "message": "自分だけのために戦ったって\r\n本当に強くなんかなれねェんだ…"
+        },
+        {
+          "scriptMessageId": "24332",
+          "speechCharactorId": "21",
+          "message": "…………"
+        },
+        {
+          "scriptMessageId": "24333",
+          "speechCharactorId": "21",
+          "message": "…何故…\r\nこいつはこれほどに強い…！？"
+        },
+        {
+          "scriptMessageId": "24334",
+          "speechCharactorId": "21",
+          "message": "…オレの存在は消えない………"
+        },
+        {
+          "scriptMessageId": "24335",
+          "speechCharactorId": "21",
+          "message": "消えないのだ！！"
+        },
+        {
+          "scriptMessageId": "24336",
+          "speechCharactorId": "21",
+          "message": "消えてたまるか！！"
+        },
+        {
+          "scriptMessageId": "24337",
+          "speechCharactorId": "0",
+          "message": "あいつとは口きくなっつっただろ"
+        },
+        {
+          "scriptMessageId": "24338",
+          "speechCharactorId": "0",
+          "message": "あれか…"
+        },
+        {
+          "scriptMessageId": "24339",
+          "speechCharactorId": "0",
+          "message": "いなくなれバケモノ"
+        },
+        {
+          "scriptMessageId": "24340",
+          "speechCharactorId": "0",
+          "message": "バケモノ死ね"
+        },
+        {
+          "scriptMessageId": "24341",
+          "speechCharactorId": "0",
+          "message": "係わるな、見るなって！"
+        },
+        {
+          "scriptMessageId": "24342",
+          "speechCharactorId": "250",
+          "message": "…一人ぼっちの…"
+        },
+        {
+          "scriptMessageId": "24343",
+          "speechCharactorId": "250",
+          "message": "あの苦しみは\r\nハンパじゃねーよなぁ…"
+        },
+        {
+          "scriptMessageId": "24344",
+          "speechCharactorId": "250",
+          "message": "お前の気持ちは…\r\nなんでかなぁ…"
+        },
+        {
+          "scriptMessageId": "24345",
+          "speechCharactorId": "250",
+          "message": "痛いほど分かるんだってばよ……"
+        },
+        {
+          "scriptMessageId": "24346",
+          "speechCharactorId": "21",
+          "message": "…うずまき…ナルトか……"
+        },
+        {
+          "scriptMessageId": "24347",
+          "speechCharactorId": "21",
+          "message": "いつか…"
+        },
+        {
+          "scriptMessageId": "24348",
+          "speechCharactorId": "21",
+          "message": "オレにも…"
+        },
+        {
+          "scriptMessageId": "24349",
+          "speechCharactorId": "19",
+          "message": "こんなことは言いたくないが…"
+        },
+        {
+          "scriptMessageId": "24350",
+          "speechCharactorId": "19",
+          "message": "里にとってお前は\r\n“恐るべき兵器”でしかない"
+        },
+        {
+          "scriptMessageId": "24351",
+          "speechCharactorId": "19",
+          "message": "今さらオレたちから離れて\r\n正規部隊に入るなんて"
+        },
+        {
+          "scriptMessageId": "24352",
+          "speechCharactorId": "19",
+          "message": "…キツいだけじゃん"
+        },
+        {
+          "scriptMessageId": "24353",
+          "speechCharactorId": "19",
+          "message": "お前を良く思っていない\r\n上役ばかりだし……"
+        },
+        {
+          "scriptMessageId": "24354",
+          "speechCharactorId": "19",
+          "message": "里の大半も\r\nお前に対して恐怖心を抱いてる……"
+        },
+        {
+          "scriptMessageId": "24355",
+          "speechCharactorId": "28",
+          "message": "分かっている"
+        },
+        {
+          "scriptMessageId": "24356",
+          "speechCharactorId": "28",
+          "message": "分かっている…が"
+        },
+        {
+          "scriptMessageId": "24357",
+          "speechCharactorId": "28",
+          "message": "待ってるだけでは\r\nもっと大きな苦しみに\r\nまた襲われる"
+        },
+        {
+          "scriptMessageId": "24358",
+          "speechCharactorId": "28",
+          "message": "努力し自ら\r\n切り拓くしかないんだ"
+        },
+        {
+          "scriptMessageId": "24359",
+          "speechCharactorId": "28",
+          "message": "一人きりの孤独な道に\r\n逃げずに…"
+        },
+        {
+          "scriptMessageId": "24360",
+          "speechCharactorId": "28",
+          "message": "そうすればいつか…\r\nあいつのように…"
+        },
+        {
+          "scriptMessageId": "24361",
+          "speechCharactorId": "28",
+          "message": "だからオレは砂の一人の忍として\r\n風影を目指す"
+        },
+        {
+          "scriptMessageId": "24362",
+          "speechCharactorId": "28",
+          "message": "この里に繋がり生きるために"
+        },
+        {
+          "scriptMessageId": "24363",
+          "speechCharactorId": "28",
+          "message": "努力し…\r\n他者から認められる存在になりたい…"
+        },
+        {
+          "scriptMessageId": "24364",
+          "speechCharactorId": "28",
+          "message": "うずまきナルトを見てそう思った"
+        },
+        {
+          "scriptMessageId": "24365",
+          "speechCharactorId": "28",
+          "message": "今頃になって\r\nオレにも少しだけ分かったことがある"
+        },
+        {
+          "scriptMessageId": "24366",
+          "speechCharactorId": "28",
+          "message": "苦しみや悲しみ…\r\n喜びも…"
+        },
+        {
+          "scriptMessageId": "24367",
+          "speechCharactorId": "28",
+          "message": "他の誰かと分かち合うことが\r\nできるのだと…"
+        },
+        {
+          "scriptMessageId": "24368",
+          "speechCharactorId": "28",
+          "message": "…うずまきナルト…\r\nあいつと戦い触れ合うことで\r\nそれを教わった気がする"
+        },
+        {
+          "scriptMessageId": "24369",
+          "speechCharactorId": "28",
+          "message": "あいつはオレと\r\n同じ苦しみを知っていた\r\nそして生きる道を\r\n変えることが出来る事を教えてくれた"
+        },
+        {
+          "scriptMessageId": "24370",
+          "speechCharactorId": "28",
+          "message": "…オレもいつか\r\n誰もに必要とされる存在になりたい…"
+        },
+        {
+          "scriptMessageId": "24371",
+          "speechCharactorId": "28",
+          "message": "恐るべき兵器としてではなく…"
+        },
+        {
+          "scriptMessageId": "24372",
+          "speechCharactorId": "28",
+          "message": "砂隠れの風影として"
+        },
+        {
+          "scriptMessageId": "24373",
+          "speechCharactorId": "251",
+          "message": "……我愛羅…"
+        },
+        {
+          "scriptMessageId": "24374",
+          "speechCharactorId": "28",
+          "message": "ナルト…"
+        },
+        {
+          "scriptMessageId": "24375",
+          "speechCharactorId": "28",
+          "message": "…これは…"
+        },
+        {
+          "scriptMessageId": "24376",
+          "speechCharactorId": "251",
+          "message": "お前を助ける為に…\r\nみんな走ってたんだってばよ…"
+        },
+        {
+          "scriptMessageId": "24377",
+          "speechCharactorId": "28",
+          "message": "オレは…チヨバアと友に命を救われた…"
+        },
+        {
+          "scriptMessageId": "24378",
+          "speechCharactorId": "28",
+          "message": "里の者達…多くの繋がりを得た"
+        },
+        {
+          "scriptMessageId": "24379",
+          "speechCharactorId": "28",
+          "message": "絆…オレの欲しかったもの…"
+        },
+        {
+          "scriptMessageId": "24380",
+          "speechCharactorId": "28",
+          "message": "第四次忍界大戦…"
+        },
+        {
+          "scriptMessageId": "24381",
+          "speechCharactorId": "28",
+          "message": "里を守り…忍を守り…\r\n友を守る…その為の戦い"
+        },
+        {
+          "scriptMessageId": "24382",
+          "speechCharactorId": "455",
+          "message": "…ナルト\r\nお前は今まさに\r\n…この世に必要とされる存在になった"
+        },
+        {
+          "scriptMessageId": "24383",
+          "speechCharactorId": "455",
+          "message": "オレ達のなりたかったモノだ"
+        },
+        {
+          "scriptMessageId": "24384",
+          "speechCharactorId": "455",
+          "message": "そしてこのまま\r\nこの世を救うぞナルト！！"
+        },
+        {
+          "scriptMessageId": "24385",
+          "speechCharactorId": "455",
+          "message": "皆、オレに続け！！"
+        },
+        {
+          "scriptMessageId": "24386",
+          "speechCharactorId": "455",
+          "message": "九尾をマダラに抜かれた…"
+        },
+        {
+          "scriptMessageId": "24387",
+          "speechCharactorId": "455",
+          "message": "ナルトを…\r\nこのまま死なせるわけにはいかない…"
+        },
+        {
+          "scriptMessageId": "24388",
+          "speechCharactorId": "455",
+          "message": "まだ逝くな…\r\nお前は…この世に必要だ"
+        },
+        {
+          "scriptMessageId": "24389",
+          "speechCharactorId": "96",
+          "message": "ガイ先生！！"
+        },
+        {
+          "scriptMessageId": "24390",
+          "speechCharactorId": "251",
+          "message": "ゲキマユ先生なら大丈夫だ！\r\nもう死んだりなんかしねェーよ！"
+        },
+        {
+          "scriptMessageId": "24391",
+          "speechCharactorId": "96",
+          "message": "ナルトくんがガイ先生を…！？"
+        },
+        {
+          "scriptMessageId": "24392",
+          "speechCharactorId": "96",
+          "message": "八門を全て開いたハズなのに！？"
+        },
+        {
+          "scriptMessageId": "24393",
+          "speechCharactorId": "251",
+          "message": "うん…何か色々できそうな気がすんだ\r\n…今のオレってば…"
+        },
+        {
+          "scriptMessageId": "24394",
+          "speechCharactorId": "455",
+          "message": "ナルトは復活した…\r\n新たな力を得て…\r\nナルト…お前は本当に…"
+        },
+        {
+          "scriptMessageId": "24395",
+          "speechCharactorId": "455",
+          "message": "ナルト…"
+        },
+        {
+          "scriptMessageId": "24396",
+          "speechCharactorId": "455",
+          "message": "…お前が火影になったら"
+        },
+        {
+          "scriptMessageId": "24397",
+          "speechCharactorId": "455",
+          "message": "一緒に杯をかわそう"
+        },
+        {
+          "scriptMessageId": "24398",
+          "speechCharactorId": "251",
+          "message": "……オウ！"
+        },
+        {
+          "scriptMessageId": "24399",
+          "speechCharactorId": "493",
+          "message": "八本目の尾まで\r\n封印が解放してしまうと"
+        },
+        {
+          "scriptMessageId": "24400",
+          "speechCharactorId": "493",
+          "message": "オレがお前の意識の中に出てくるように\r\n封印式に細工しておいたのさ"
+        },
+        {
+          "scriptMessageId": "24401",
+          "speechCharactorId": "493",
+          "message": "なるべくはそうなって\r\nほしくはなかったが…"
+        },
+        {
+          "scriptMessageId": "24402",
+          "speechCharactorId": "493",
+          "message": "でも…"
+        },
+        {
+          "scriptMessageId": "24403",
+          "speechCharactorId": "493",
+          "message": "成長した息子に会えるのは\r\n少し楽しみでもあったから…"
+        },
+        {
+          "scriptMessageId": "24404",
+          "speechCharactorId": "493",
+          "message": "イーブンってとこかな、ナルト"
+        },
+        {
+          "scriptMessageId": "24405",
+          "speechCharactorId": "251",
+          "message": "……ナルト…って\r\nオレの名前"
+        },
+        {
+          "scriptMessageId": "24406",
+          "speechCharactorId": "251",
+          "message": "どうして…？"
+        },
+        {
+          "scriptMessageId": "24407",
+          "speechCharactorId": "493",
+          "message": "ん！…だってお前の名前は\r\nオレが名付けたんだから"
+        },
+        {
+          "scriptMessageId": "24408",
+          "speechCharactorId": "493",
+          "message": "せがれなんだし"
+        },
+        {
+          "scriptMessageId": "24409",
+          "speechCharactorId": "251",
+          "message": "せがれ？\r\nじゃあ…オレってば…"
+        },
+        {
+          "scriptMessageId": "24410",
+          "speechCharactorId": "493",
+          "message": "ん！さっきも言ったろ\r\nオレの息子だよ"
+        },
+        {
+          "scriptMessageId": "24411",
+          "speechCharactorId": "493",
+          "message": "三代目は何も言わなかったようだから"
+        },
+        {
+          "scriptMessageId": "24412",
+          "speechCharactorId": "493",
+          "message": "ヒルゼン様は九尾に関わる情報を\r\nなるべく伏せておきたかったんだろう"
+        },
+        {
+          "scriptMessageId": "24413",
+          "speechCharactorId": "493",
+          "message": "息子と分かれば色々と\r\n危険が降りかかるからね"
+        },
+        {
+          "scriptMessageId": "24414",
+          "speechCharactorId": "251",
+          "message": "何で息子のオレに\r\n九尾なんか封印したんだってばよ！！"
+        },
+        {
+          "scriptMessageId": "24415",
+          "speechCharactorId": "251",
+          "message": "おかげでオレってば\r\nすっげー大変だったんだぞ！！"
+        },
+        {
+          "scriptMessageId": "24416",
+          "speechCharactorId": "251",
+          "message": "うれしいんだか腹立つんだか何だか\r\nもう分かんねーってばよ！！"
+        },
+        {
+          "scriptMessageId": "24417",
+          "speechCharactorId": "493",
+          "message": "ナルト…何歳になった？"
+        },
+        {
+          "scriptMessageId": "24418",
+          "speechCharactorId": "251",
+          "message": "……十六歳"
+        },
+        {
+          "scriptMessageId": "24419",
+          "speechCharactorId": "493",
+          "message": "そうか…もう十六歳か"
+        },
+        {
+          "scriptMessageId": "24420",
+          "speechCharactorId": "493",
+          "message": "息子のお前に\r\n辛い思いばかりさせてしまったオレが…"
+        },
+        {
+          "scriptMessageId": "24421",
+          "speechCharactorId": "493",
+          "message": "父親面して謝るのも違うかな…"
+        },
+        {
+          "scriptMessageId": "24422",
+          "speechCharactorId": "251",
+          "message": "いいよ…もう…\r\n四代目の息子なんだから"
+        },
+        {
+          "scriptMessageId": "24423",
+          "speechCharactorId": "251",
+          "message": "…我慢する"
+        },
+        {
+          "scriptMessageId": "24424",
+          "speechCharactorId": "493",
+          "message": "お前に九尾のチャクラを\r\n半分残して封印したのは"
+        },
+        {
+          "scriptMessageId": "24425",
+          "speechCharactorId": "493",
+          "message": "この力を使いこなすと\r\n信じていたからだ…"
+        },
+        {
+          "scriptMessageId": "24426",
+          "speechCharactorId": "493",
+          "message": "オレの息子ならと"
+        },
+        {
+          "scriptMessageId": "24427",
+          "speechCharactorId": "493",
+          "message": "自来也先生を殺したのはペインだが\r\nよくよく考えればそのペインを生み出した"
+        },
+        {
+          "scriptMessageId": "24428",
+          "speechCharactorId": "493",
+          "message": "この忍の世の無秩序が\r\n先生を殺したも同然なのさ…"
+        },
+        {
+          "scriptMessageId": "24429",
+          "speechCharactorId": "493",
+          "message": "忍とはその憎しみとの戦いなんだ"
+        },
+        {
+          "scriptMessageId": "24430",
+          "speechCharactorId": "493",
+          "message": "どの忍も\r\nその憎しみと戦っている"
+        },
+        {
+          "scriptMessageId": "24431",
+          "speechCharactorId": "493",
+          "message": "自来也先生は\r\nこの憎しみを終わらせる答えを\r\nお前に託したんだ"
+        },
+        {
+          "scriptMessageId": "24432",
+          "speechCharactorId": "493",
+          "message": "お前ならその答えを見つけられる"
+        },
+        {
+          "scriptMessageId": "24433",
+          "speechCharactorId": "493",
+          "message": "……オレはお前を信じてる"
+        },
+        {
+          "scriptMessageId": "24434",
+          "speechCharactorId": "493",
+          "message": "……ナルト……"
+        },
+        {
+          "scriptMessageId": "24435",
+          "speechCharactorId": "493",
+          "message": "じゃあ、行ってくる"
+        },
+        {
+          "scriptMessageId": "24436",
+          "speechCharactorId": "398",
+          "message": "気をつけて"
+        },
+        {
+          "scriptMessageId": "24437",
+          "speechCharactorId": "398",
+          "message": "ああ\r\n子供の顔を見るまでは\r\n絶対に死ねないよ"
+        },
+        {
+          "scriptMessageId": "24438",
+          "speechCharactorId": "398",
+          "message": "………"
+        },
+        {
+          "scriptMessageId": "24439",
+          "speechCharactorId": "398",
+          "message": "この子が産まれたら\r\n心配事が二つになるわね"
+        },
+        {
+          "scriptMessageId": "24440",
+          "speechCharactorId": "493",
+          "message": "大丈夫！\r\nこの子はオレが守るよ！"
+        },
+        {
+          "scriptMessageId": "24441",
+          "speechCharactorId": "493",
+          "message": "どんなことがあっても\r\nどんな手を使っても"
+        },
+        {
+          "scriptMessageId": "24442",
+          "speechCharactorId": "398",
+          "message": "………"
+        },
+        {
+          "scriptMessageId": "24443",
+          "speechCharactorId": "398",
+          "message": "でもアナタは火影で忙しいし\r\nこの子はやんちゃで火影になりたいって\r\n無茶ばかりして聞かないと思うし…"
+        },
+        {
+          "scriptMessageId": "24444",
+          "speechCharactorId": "493",
+          "message": "もう産まれる前から心配してるし…\r\n心配し過ぎだよ"
+        },
+        {
+          "scriptMessageId": "24445",
+          "speechCharactorId": "493",
+          "message": "何でこの子が男の子で…\r\nしかも火影になりたいって"
+        },
+        {
+          "scriptMessageId": "24446",
+          "speechCharactorId": "493",
+          "message": "産まれてもないのに分かるの？"
+        },
+        {
+          "scriptMessageId": "24447",
+          "speechCharactorId": "398",
+          "message": "だって…母親だから"
+        },
+        {
+          "scriptMessageId": "24448",
+          "speechCharactorId": "493",
+          "message": "とにかくボクは火影だよ\r\n簡単には死なないし"
+        },
+        {
+          "scriptMessageId": "24449",
+          "speechCharactorId": "493",
+          "message": "その子は火影のオレが\r\n何があっても守るから！\r\n大丈夫！"
+        },
+        {
+          "scriptMessageId": "24450",
+          "speechCharactorId": "398",
+          "message": "この子のことになると\r\n言い切るわね！"
+        },
+        {
+          "scriptMessageId": "24451",
+          "speechCharactorId": "493",
+          "message": "そりゃあさ…"
+        },
+        {
+          "scriptMessageId": "24452",
+          "speechCharactorId": "493",
+          "message": "父親だから"
+        },
+        {
+          "scriptMessageId": "24453",
+          "speechCharactorId": "493",
+          "message": "…そうだ\r\n言っとかなきゃって\r\n思ってたんだ"
+        },
+        {
+          "scriptMessageId": "24454",
+          "speechCharactorId": "493",
+          "message": "誕生日おめでとう"
+        },
+        {
+          "scriptMessageId": "24455",
+          "speechCharactorId": "493",
+          "message": "本当に立派になったね\r\nナルト"
+        },
+        {
+          "scriptMessageId": "24456",
+          "speechCharactorId": "583",
+          "message": "さてシカク…どうする？"
+        },
+        {
+          "scriptMessageId": "24457",
+          "speechCharactorId": "579",
+          "message": "やるべきことを最後までやるだけだ"
+        },
+        {
+          "scriptMessageId": "24458",
+          "speechCharactorId": "579",
+          "message": "十尾を止める策がある…"
+        },
+        {
+          "scriptMessageId": "24459",
+          "speechCharactorId": "579",
+          "message": "最後の仕事だ"
+        },
+        {
+          "scriptMessageId": "24460",
+          "speechCharactorId": "579",
+          "message": "…皆作戦は分かったな…\r\n各自頭にたたき込んでおけ！"
+        },
+        {
+          "scriptMessageId": "24461",
+          "speechCharactorId": "31",
+          "message": "もしその作戦が上手くいかなかったら？"
+        },
+        {
+          "scriptMessageId": "24462",
+          "speechCharactorId": "579",
+          "message": "生きててめーが指揮を取れ…シカマル"
+        },
+        {
+          "scriptMessageId": "24463",
+          "speechCharactorId": "30",
+          "message": "“一尾”守鶴の人柱力\r\n砂瀑の我愛羅か…うん"
+        },
+        {
+          "scriptMessageId": "24464",
+          "speechCharactorId": "30",
+          "message": "さて…どんなものか"
+        },
+        {
+          "scriptMessageId": "24465",
+          "speechCharactorId": "387",
+          "message": "カンクロウ…\r\n一応、我愛羅の暴走も\r\n考えに入れておけ"
+        },
+        {
+          "scriptMessageId": "24466",
+          "speechCharactorId": "239",
+          "message": "それはもうありませんよ…\r\n我愛羅は里の者たちを\r\n傷付けたりしない…"
+        },
+        {
+          "scriptMessageId": "24467",
+          "speechCharactorId": "28",
+          "message": "これ以上…やらせはしない"
+        },
+        {
+          "scriptMessageId": "24468",
+          "speechCharactorId": "30",
+          "message": "フフ…さすがは風影…\r\n里に落としたオイラの“十八番”を\r\n防ぎ切ったか…"
+        },
+        {
+          "scriptMessageId": "24469",
+          "speechCharactorId": "30",
+          "message": "殺さないようにってのが\r\nワリと難儀だったけど……"
+        },
+        {
+          "scriptMessageId": "24470",
+          "speechCharactorId": "30",
+          "message": "ノルマクリアーだな…うん"
+        },
+        {
+          "scriptMessageId": "24471",
+          "speechCharactorId": "27",
+          "message": "……四代目…\r\n教えてくれってばよ"
+        },
+        {
+          "scriptMessageId": "24472",
+          "speechCharactorId": "27",
+          "message": "オレってばどうしたらいい？"
+        },
+        {
+          "scriptMessageId": "24473",
+          "speechCharactorId": "46",
+          "message": "答えは自分で探すんだ"
+        },
+        {
+          "scriptMessageId": "24474",
+          "speechCharactorId": "46",
+          "message": "その答はオレにも分からないよ"
+        },
+        {
+          "scriptMessageId": "24475",
+          "speechCharactorId": "27",
+          "message": "エロ仙人や四代目すら\r\n分かんなかった事が"
+        },
+        {
+          "scriptMessageId": "24476",
+          "speechCharactorId": "27",
+          "message": "オレにできるわけねーだろ！！"
+        },
+        {
+          "scriptMessageId": "24477",
+          "speechCharactorId": "27",
+          "message": "皆、勝手すぎるってばよ！！！"
+        },
+        {
+          "scriptMessageId": "24478",
+          "speechCharactorId": "27",
+          "message": "オレってば頭わりーし！"
+        },
+        {
+          "scriptMessageId": "24479",
+          "speechCharactorId": "27",
+          "message": "そんなにすげー忍者じゃねーし！"
+        },
+        {
+          "scriptMessageId": "24480",
+          "speechCharactorId": "38",
+          "message": "どーしたヒナタ！！\r\nそんなんじゃ、コレは防げねーぞ！"
+        },
+        {
+          "scriptMessageId": "24481",
+          "speechCharactorId": "55",
+          "message": "ハイ！！"
+        },
+        {
+          "scriptMessageId": "24482",
+          "speechCharactorId": "54",
+          "message": "問題無い、何度でも試せばいい\r\nなぜなら…"
+        },
+        {
+          "scriptMessageId": "24483",
+          "speechCharactorId": "38",
+          "message": "だーうっせー！シノ！！\r\n気が散るだろうが！！"
+        },
+        {
+          "scriptMessageId": "24484",
+          "speechCharactorId": "54",
+          "message": "ム……"
+        },
+        {
+          "scriptMessageId": "24485",
+          "speechCharactorId": "55",
+          "message": "だ…大丈夫だよ\r\nキバくんもシノくんも\r\n修業に協力してくれて、ありがとう"
+        },
+        {
+          "scriptMessageId": "24486",
+          "speechCharactorId": "38",
+          "message": "どうだ、ヒナタ\r\nなんかつかめたかよ？"
+        },
+        {
+          "scriptMessageId": "24487",
+          "speechCharactorId": "55",
+          "message": "う…ウン\r\nもっと…頑張らないと！"
+        },
+        {
+          "scriptMessageId": "24488",
+          "speechCharactorId": "54",
+          "message": "大丈夫だヒナタ\r\nお前は頑張っている\r\nなぜな…"
+        },
+        {
+          "scriptMessageId": "24489",
+          "speechCharactorId": "38",
+          "message": "うるせーーーってシノ！！\r\n回りくどいんだよ、お前は！"
+        },
+        {
+          "scriptMessageId": "24490",
+          "speechCharactorId": "54",
+          "message": "最後まで言わせて欲しいものだ"
+        },
+        {
+          "scriptMessageId": "24491",
+          "speechCharactorId": "397",
+          "message": "何の...つもりなの？"
+        },
+        {
+          "scriptMessageId": "24492",
+          "speechCharactorId": "268",
+          "message": "お前から九尾を引き出し木ノ葉を潰す"
+        },
+        {
+          "scriptMessageId": "24493",
+          "speechCharactorId": "268",
+          "message": "さあ...出て来い九尾！"
+        },
+        {
+          "scriptMessageId": "24494",
+          "speechCharactorId": "268",
+          "message": "さすが四代目火影\r\nこのオレに手傷をくれ\r\n九尾を引き離すとはな…"
+        },
+        {
+          "scriptMessageId": "24495",
+          "speechCharactorId": "268",
+          "message": "だが九尾はいずれオレのものになる…"
+        },
+        {
+          "scriptMessageId": "24496",
+          "speechCharactorId": "382",
+          "message": "…お願いがあって来ました"
+        },
+        {
+          "scriptMessageId": "24497",
+          "speechCharactorId": "382",
+          "message": "私を弟子にして下さい！"
+        },
+        {
+          "scriptMessageId": "24498",
+          "speechCharactorId": "36",
+          "message": "大切なモノ…か"
+        },
+        {
+          "scriptMessageId": "24499",
+          "speechCharactorId": "36",
+          "message": "いいだろう……\r\nそのかわり私は甘くないよ！"
+        },
+        {
+          "scriptMessageId": "24500",
+          "speechCharactorId": "36",
+          "message": "修業を始めて\r\nたった三か月でここまで…"
+        },
+        {
+          "scriptMessageId": "24501",
+          "speechCharactorId": "36",
+          "message": "こいつ…シズネ以来の逸材か…"
+        },
+        {
+          "scriptMessageId": "24502",
+          "speechCharactorId": "55",
+          "message": "…ナルトくん…"
+        },
+        {
+          "scriptMessageId": "24503",
+          "speechCharactorId": "55",
+          "message": "…私はずっと見てきた…"
+        },
+        {
+          "scriptMessageId": "24504",
+          "speechCharactorId": "55",
+          "message": "何年間もずっとアナタを見てきた"
+        },
+        {
+          "scriptMessageId": "24505",
+          "speechCharactorId": "55",
+          "message": "ナルトくんを見てると…\r\nだんだん勇気がわいてくる"
+        },
+        {
+          "scriptMessageId": "24506",
+          "speechCharactorId": "55",
+          "message": "私でもがんばれば……"
+        },
+        {
+          "scriptMessageId": "24507",
+          "speechCharactorId": "55",
+          "message": "出来そうな気がしてくる……"
+        },
+        {
+          "scriptMessageId": "24508",
+          "speechCharactorId": "55",
+          "message": "自分にも価値があるんだと……\r\nそう思えてくる"
+        },
+        {
+          "scriptMessageId": "24509",
+          "speechCharactorId": "12",
+          "message": "アナタは忍には向いていない…\r\n棄権しろ！"
+        },
+        {
+          "scriptMessageId": "24510",
+          "speechCharactorId": "12",
+          "message": "……あなたは優しすぎる\r\n調和を望み葛藤を避け……"
+        },
+        {
+          "scriptMessageId": "24511",
+          "speechCharactorId": "12",
+          "message": "他人の考えに合わせることに抵抗がない"
+        },
+        {
+          "scriptMessageId": "24512",
+          "speechCharactorId": "12",
+          "message": "そして自分に自信が無い…\r\nいつも劣等感を感じている"
+        },
+        {
+          "scriptMessageId": "24513",
+          "speechCharactorId": "55",
+          "message": "…ち…違う…違うよ…\r\n…私はただ…そんな自分を変えたくて…"
+        },
+        {
+          "scriptMessageId": "24514",
+          "speechCharactorId": "12",
+          "message": "人は決して変わることなど出来ない！"
+        },
+        {
+          "scriptMessageId": "24515",
+          "speechCharactorId": "12",
+          "message": "落ちこぼれは落ちこぼれだ…\r\nその性格も力も変わりはしない"
+        },
+        {
+          "scriptMessageId": "24516",
+          "speechCharactorId": "6",
+          "message": "ヒナタ―ガンバレーーー！！"
+        },
+        {
+          "scriptMessageId": "24517",
+          "speechCharactorId": "55",
+          "message": "………ナルトくん…！！\r\n……今まではずっと私が見てるだけだった…"
+        },
+        {
+          "scriptMessageId": "24518",
+          "speechCharactorId": "55",
+          "message": "でも今はやっと私を…！"
+        },
+        {
+          "scriptMessageId": "24519",
+          "speechCharactorId": "55",
+          "message": "…やっと私を見てくれてる…\r\n…憧れの人の目の前で…"
+        },
+        {
+          "scriptMessageId": "24520",
+          "speechCharactorId": "55",
+          "message": "………格好悪いところは…\r\n見せられないもの……！！"
+        },
+        {
+          "scriptMessageId": "24521",
+          "speechCharactorId": "55",
+          "message": "私…ナルトくんに応援された時…\r\n…前より自分が強くなった気がしたの……"
+        },
+        {
+          "scriptMessageId": "24522",
+          "speechCharactorId": "55",
+          "message": "予選が終わった時\r\n自分の事がちょっとだけ好きになれた……"
+        },
+        {
+          "scriptMessageId": "24523",
+          "speechCharactorId": "55",
+          "message": "他人から見れば\r\nな…何も変わって見えないだろうけど……"
+        },
+        {
+          "scriptMessageId": "24524",
+          "speechCharactorId": "55",
+          "message": "…わ、私は自分が変われたって\r\n気がする……"
+        },
+        {
+          "scriptMessageId": "24525",
+          "speechCharactorId": "55",
+          "message": "ナ…ナルトくんのお陰かな……\r\nな…なんて…思ったりしてるわけで……"
+        },
+        {
+          "scriptMessageId": "24526",
+          "speechCharactorId": "6",
+          "message": "……なぁ…ヒナタ…"
+        },
+        {
+          "scriptMessageId": "24527",
+          "speechCharactorId": "6",
+          "message": "……ホントにそう思ったのか？"
+        },
+        {
+          "scriptMessageId": "24528",
+          "speechCharactorId": "6",
+          "message": "…お前から見たオレは\r\n強く見えるかもしんねーけど…"
+        },
+        {
+          "scriptMessageId": "24529",
+          "speechCharactorId": "6",
+          "message": "……それはいつも失敗ばっかして\r\n…くやしいから強がってるだけだってばよ"
+        },
+        {
+          "scriptMessageId": "24530",
+          "speechCharactorId": "55",
+          "message": "そんなことない……\r\nナルトくんは失敗したっていつも…"
+        },
+        {
+          "scriptMessageId": "24531",
+          "speechCharactorId": "55",
+          "message": "わ…私から見れば…\r\n誇り高き失敗者だったもの……！"
+        },
+        {
+          "scriptMessageId": "24532",
+          "speechCharactorId": "55",
+          "message": "失敗をするからこそ\r\n…そこから立ち向かっていく\r\n強さがあって………"
+        },
+        {
+          "scriptMessageId": "24533",
+          "speechCharactorId": "55",
+          "message": "そんな強さが本当の強さだと\r\n私は思うから………"
+        },
+        {
+          "scriptMessageId": "24534",
+          "speechCharactorId": "55",
+          "message": "ナ…ナルトくんはすごく強い人だと思う…"
+        },
+        {
+          "scriptMessageId": "24535",
+          "speechCharactorId": "12",
+          "message": "誰でも努力さえすれば\r\n火影になれる…とでも言うのか？"
+        },
+        {
+          "scriptMessageId": "24536",
+          "speechCharactorId": "12",
+          "message": "火影に選ばれるのは\r\nほんの一握りの忍だけだ"
+        },
+        {
+          "scriptMessageId": "24537",
+          "speechCharactorId": "12",
+          "message": "もっと現実を見ろ！"
+        },
+        {
+          "scriptMessageId": "24538",
+          "speechCharactorId": "12",
+          "message": "人はそれぞれ違う逆らえない流れの中で\r\n生きるしかない…"
+        },
+        {
+          "scriptMessageId": "24539",
+          "speechCharactorId": "12",
+          "message": "ただ一つ…\r\n誰もが等しく持っている運命とは…"
+        },
+        {
+          "scriptMessageId": "24540",
+          "speechCharactorId": "12",
+          "message": "…死だけだ……"
+        },
+        {
+          "scriptMessageId": "24541",
+          "speechCharactorId": "12",
+          "message": "く…あの状況でとっさに影分身を……\r\nお前の得意忍術か"
+        },
+        {
+          "scriptMessageId": "24542",
+          "speechCharactorId": "12",
+          "message": "…うかつ…だった…"
+        },
+        {
+          "scriptMessageId": "24543",
+          "speechCharactorId": "6",
+          "message": "分身の術は……\r\nオレの一番苦手な忍術だったんだ"
+        },
+        {
+          "scriptMessageId": "24544",
+          "speechCharactorId": "6",
+          "message": "運命がどーとか…\r\n変われないとか"
+        },
+        {
+          "scriptMessageId": "24545",
+          "speechCharactorId": "6",
+          "message": "そんなつまんねーこと\r\nめそめそ言ってんじゃねーよ！"
+        },
+        {
+          "scriptMessageId": "24546",
+          "speechCharactorId": "6",
+          "message": "お前はオレと違って…\r\n落ちこぼれなんかじゃねーんだから"
+        },
+        {
+          "scriptMessageId": "24547",
+          "speechCharactorId": "55",
+          "message": "正直…修業に…\r\n付き合ってくれるとは思いませんでした"
+        },
+        {
+          "scriptMessageId": "24548",
+          "speechCharactorId": "12",
+          "message": "まあ、そうだろうな…\r\nだが、オレはアイツに教えられた"
+        },
+        {
+          "scriptMessageId": "24549",
+          "speechCharactorId": "12",
+          "message": "運命は変えられるってことを…"
+        },
+        {
+          "scriptMessageId": "24550",
+          "speechCharactorId": "55",
+          "message": "ネジ兄さん……"
+        },
+        {
+          "scriptMessageId": "24551",
+          "speechCharactorId": "126",
+          "message": "さあ、続きを…！"
+        },
+        {
+          "scriptMessageId": "24552",
+          "speechCharactorId": "55",
+          "message": "ナルトくんは凄い人と\r\n修業の旅にでるみたい…"
+        },
+        {
+          "scriptMessageId": "24553",
+          "speechCharactorId": "55",
+          "message": "ナルトくんに追いつくために…\r\n私も頑張らないと…！"
+        },
+        {
+          "scriptMessageId": "24554",
+          "speechCharactorId": "175",
+          "message": "ナ…ナルト君……！？"
+        },
+        {
+          "scriptMessageId": "24555",
+          "speechCharactorId": "175",
+          "message": "里に戻って来てたとは\r\n聞いてたけど"
+        },
+        {
+          "scriptMessageId": "24556",
+          "speechCharactorId": "175",
+          "message": "ど…どうしよう…\r\n心の準備が…"
+        },
+        {
+          "scriptMessageId": "24557",
+          "speechCharactorId": "175",
+          "message": "何年も会ってなかったから…"
+        },
+        {
+          "scriptMessageId": "24558",
+          "speechCharactorId": "175",
+          "message": "何て話しかけたら…\r\nえっと…えっと…"
+        },
+        {
+          "scriptMessageId": "24559",
+          "speechCharactorId": "27",
+          "message": "なんだヒナタか！"
+        },
+        {
+          "scriptMessageId": "24560",
+          "speechCharactorId": "27",
+          "message": "何隠れてんだってばよ？"
+        },
+        {
+          "scriptMessageId": "24561",
+          "speechCharactorId": "27",
+          "message": "あれ！？\r\nヒナタ、何で倒れんだってばよ！\r\nおい！"
+        },
+        {
+          "scriptMessageId": "24562",
+          "speechCharactorId": "176",
+          "message": "何でお前は\r\nいつもナルト見て気絶すんだよ！"
+        },
+        {
+          "scriptMessageId": "24563",
+          "speechCharactorId": "177",
+          "message": "ヒナタにもすぐ気付いたものだな…ナルト"
+        },
+        {
+          "scriptMessageId": "24564",
+          "speechCharactorId": "176",
+          "message": "今はそんなのどーでもいーんだよ！\r\n起きろヒナタ！！"
+        },
+        {
+          "scriptMessageId": "24565",
+          "speechCharactorId": "177",
+          "message": "……どうでも良くはない\r\nなぜなら…はなしかけ"
+        },
+        {
+          "scriptMessageId": "24566",
+          "speechCharactorId": "176",
+          "message": "うっせーーー！\r\n水もってこい水！！"
+        },
+        {
+          "scriptMessageId": "24567",
+          "speechCharactorId": "177",
+          "message": "……空が青いな"
+        },
+        {
+          "scriptMessageId": "24568",
+          "speechCharactorId": "176",
+          "message": "オイ！！！\r\n聞いてんのかシノ！！！"
+        },
+        {
+          "scriptMessageId": "24569",
+          "speechCharactorId": "177",
+          "message": "問題無い！\r\nなぜなら…\r\nいつもの事だからだ"
+        },
+        {
+          "scriptMessageId": "24570",
+          "speechCharactorId": "176",
+          "message": "いやいや！！\r\nこれから任務だろーが！！！"
+        },
+        {
+          "scriptMessageId": "24571",
+          "speechCharactorId": "95",
+          "message": "本当なんだって！\r\nナルトのやつ、凄かったのよ！"
+        },
+        {
+          "scriptMessageId": "24572",
+          "speechCharactorId": "95",
+          "message": "“暁”の角都って奴をイケイケの新術でー！\r\nどっかーんって感じに！！"
+        },
+        {
+          "scriptMessageId": "24573",
+          "speechCharactorId": "126",
+          "message": "イケイケって……\r\n他の描写はないのか…"
+        },
+        {
+          "scriptMessageId": "24574",
+          "speechCharactorId": "95",
+          "message": "んー…でっかくてシャキンって感じで\r\n風遁・螺旋手裏剣って！！"
+        },
+        {
+          "scriptMessageId": "24575",
+          "speechCharactorId": "126",
+          "message": "アイツ…性質変化に形態変化を\r\n組み込んだのか！！"
+        },
+        {
+          "scriptMessageId": "24576",
+          "speechCharactorId": "95",
+          "message": "うん、多分ソレ！"
+        },
+        {
+          "scriptMessageId": "24577",
+          "speechCharactorId": "175",
+          "message": "凄い……ナルトくんは\r\nどんどん先に行くんだね！！"
+        },
+        {
+          "scriptMessageId": "24578",
+          "speechCharactorId": "126",
+          "message": "……何か新しい術のヒントに\r\nなりそうですね"
+        },
+        {
+          "scriptMessageId": "24579",
+          "speechCharactorId": "126",
+          "message": "……大分、形になってきましたね"
+        },
+        {
+          "scriptMessageId": "24580",
+          "speechCharactorId": "175",
+          "message": "はい！\r\n……ナルトくんには負けられないもの！"
+        },
+        {
+          "scriptMessageId": "24581",
+          "speechCharactorId": "126",
+          "message": "そうですね"
+        },
+        {
+          "scriptMessageId": "24582",
+          "speechCharactorId": "126",
+          "message": "いい調子です！\r\nそのまま形態変化に入れますか？"
+        },
+        {
+          "scriptMessageId": "24583",
+          "speechCharactorId": "175",
+          "message": "はい！！"
+        },
+        {
+          "scriptMessageId": "24584",
+          "speechCharactorId": "126",
+          "message": "お見事です！\r\n完成が見えてきましたね"
+        },
+        {
+          "scriptMessageId": "24585",
+          "speechCharactorId": "175",
+          "message": "ナルトくんを狙って……\r\n“暁”が攻めて来た……"
+        },
+        {
+          "scriptMessageId": "24586",
+          "speechCharactorId": "175",
+          "message": "里を壊滅させた強大な敵\r\nナルトくんは一人で立ち向かってる…"
+        },
+        {
+          "scriptMessageId": "24587",
+          "speechCharactorId": "175",
+          "message": "私は……"
+        },
+        {
+          "scriptMessageId": "24588",
+          "speechCharactorId": "175",
+          "message": "ナルト君にはもう\r\n手を出させない！"
+        },
+        {
+          "scriptMessageId": "24589",
+          "speechCharactorId": "27",
+          "message": "何で出てきたんだってばよ！！\r\n早く逃げろ！お前じゃそいつには―"
+        },
+        {
+          "scriptMessageId": "24590",
+          "speechCharactorId": "175",
+          "message": "うん…"
+        },
+        {
+          "scriptMessageId": "24591",
+          "speechCharactorId": "175",
+          "message": "これは…\r\n私の独りよがり…"
+        },
+        {
+          "scriptMessageId": "24592",
+          "speechCharactorId": "27",
+          "message": "何言ってんだ！\r\nそんなんでこんな危ねーとこ\r\n出てくんじゃねー！"
+        },
+        {
+          "scriptMessageId": "24593",
+          "speechCharactorId": "175",
+          "message": "……ここに立っているのは\r\n私の意志"
+        },
+        {
+          "scriptMessageId": "24594",
+          "speechCharactorId": "175",
+          "message": "……泣いてばかりで\r\n最初から諦めて…"
+        },
+        {
+          "scriptMessageId": "24595",
+          "speechCharactorId": "175",
+          "message": "何度も間違ったところに\r\n行こうとして…"
+        },
+        {
+          "scriptMessageId": "24596",
+          "speechCharactorId": "175",
+          "message": "そんな私を…\r\nナルト君が正しいところへ\r\n連れてきてくれたの…"
+        },
+        {
+          "scriptMessageId": "24597",
+          "speechCharactorId": "175",
+          "message": "いつもナルト君を追いかけて…\r\n…ナルト君に追いつきたくて…"
+        },
+        {
+          "scriptMessageId": "24598",
+          "speechCharactorId": "175",
+          "message": "いつだってナルト君と\r\n一緒に歩きたくて…"
+        },
+        {
+          "scriptMessageId": "24599",
+          "speechCharactorId": "175",
+          "message": "いつもナルト君のところへ…"
+        },
+        {
+          "scriptMessageId": "24600",
+          "speechCharactorId": "175",
+          "message": "ナルト君が私を変えてくれた！\r\nナルト君の笑顔が私を救ってくれた！"
+        },
+        {
+          "scriptMessageId": "24601",
+          "speechCharactorId": "175",
+          "message": "だからナルト君を\r\n守るためなら死ぬ事なんて怖くない！！"
+        },
+        {
+          "scriptMessageId": "24602",
+          "speechCharactorId": "175",
+          "message": "私はナルト君が――大好きだから…"
+        },
+        {
+          "scriptMessageId": "24603",
+          "speechCharactorId": "175",
+          "message": "第四次忍界大戦……\r\nまたナルトくんを狙う敵との戦い…"
+        },
+        {
+          "scriptMessageId": "24604",
+          "speechCharactorId": "175",
+          "message": "私は守らなきゃいけない人に\r\nまた守られる…"
+        },
+        {
+          "scriptMessageId": "24605",
+          "speechCharactorId": "175",
+          "message": "でも…\r\n今度こそ、隣に立って戦うって\r\n決めたの……"
+        },
+        {
+          "scriptMessageId": "24606",
+          "speechCharactorId": "175",
+          "message": "さっき…ネジ兄さんが言った\r\n“ナルトくんの命は一つじゃない”\r\nって意味…分かる…？"
+        },
+        {
+          "scriptMessageId": "24607",
+          "speechCharactorId": "175",
+          "message": "仲間は絶対殺させない\r\nその言葉も信念も偽りじゃない…！"
+        },
+        {
+          "scriptMessageId": "24608",
+          "speechCharactorId": "175",
+          "message": "それを胸にちゃんと\r\nやってのけたの……"
+        },
+        {
+          "scriptMessageId": "24609",
+          "speechCharactorId": "175",
+          "message": "ナルトくんだけじゃない…\r\n皆がそうやってその言葉…"
+        },
+        {
+          "scriptMessageId": "24610",
+          "speechCharactorId": "175",
+          "message": "想いと同じものを胸に\r\nお互いに命を繋ぎあってる"
+        },
+        {
+          "scriptMessageId": "24611",
+          "speechCharactorId": "175",
+          "message": "…だから仲間なの"
+        },
+        {
+          "scriptMessageId": "24612",
+          "speechCharactorId": "175",
+          "message": "その言葉と想いをみんなが諦め\r\n棄ててしまったら"
+        },
+        {
+          "scriptMessageId": "24613",
+          "speechCharactorId": "175",
+          "message": "ネジ兄さんのしたことも無駄になる…"
+        },
+        {
+          "scriptMessageId": "24614",
+          "speechCharactorId": "175",
+          "message": "それこそ本当に仲間を殺すことになる…！"
+        },
+        {
+          "scriptMessageId": "24615",
+          "speechCharactorId": "175",
+          "message": "もう仲間じゃなくなってしまう\r\n…そう思うの"
+        },
+        {
+          "scriptMessageId": "24616",
+          "speechCharactorId": "175",
+          "message": "…だから…\r\n私と一緒に立とうナルトくん…"
+        },
+        {
+          "scriptMessageId": "24617",
+          "speechCharactorId": "175",
+          "message": "まっすぐ自分の言葉は曲げない\r\n…私もそれが忍道だから！"
+        },
+        {
+          "scriptMessageId": "24618",
+          "speechCharactorId": "27",
+          "message": "ヒナタ…\r\nありがとう！"
+        },
+        {
+          "scriptMessageId": "24619",
+          "speechCharactorId": "27",
+          "message": "…お前がオレの横に\r\nいてくれたおかげだ…"
+        },
+        {
+          "scriptMessageId": "24620",
+          "speechCharactorId": "175",
+          "message": "ナルトくんの手って…\r\n大きくて…強くて…\r\n…何より…"
+        },
+        {
+          "scriptMessageId": "24621",
+          "speechCharactorId": "271",
+          "message": "行くぞヒナタ！！"
+        },
+        {
+          "scriptMessageId": "24622",
+          "speechCharactorId": "175",
+          "message": "う…うん…！！"
+        },
+        {
+          "scriptMessageId": "24623",
+          "speechCharactorId": "175",
+          "message": "とっても安心する……"
+        },
+        {
+          "scriptMessageId": "24624",
+          "speechCharactorId": "175",
+          "message": "私は…今度こそ\r\nナルトくんの隣に立ちたいから！！"
+        },
+        {
+          "scriptMessageId": "24625",
+          "speechCharactorId": "2",
+          "message": "……結界が消えた！"
+        },
+        {
+          "scriptMessageId": "24626",
+          "speechCharactorId": "331",
+          "message": "……四代目！！"
+        },
+        {
+          "scriptMessageId": "24627",
+          "speechCharactorId": "331",
+          "message": "クシナ様！！"
+        },
+        {
+          "scriptMessageId": "24628",
+          "speechCharactorId": "2",
+          "message": "すぐ木ノ葉病院へ！"
+        },
+        {
+          "scriptMessageId": "24629",
+          "speechCharactorId": "2",
+          "message": "医療忍者を集めよ！！"
+        },
+        {
+          "scriptMessageId": "24630",
+          "speechCharactorId": "397",
+          "message": "……三…代目"
+        },
+        {
+          "scriptMessageId": "24631",
+          "speechCharactorId": "2",
+          "message": "クシナ…"
+        },
+        {
+          "scriptMessageId": "24632",
+          "speechCharactorId": "397",
+          "message": "その子を…よろし…く…\r\nお願いします…"
+        },
+        {
+          "scriptMessageId": "24633",
+          "speechCharactorId": "2",
+          "message": "ああ…\r\n何も心配はいらん！"
+        },
+        {
+          "scriptMessageId": "24634",
+          "speechCharactorId": "397",
+          "message": "名前は…ナルト…"
+        },
+        {
+          "scriptMessageId": "24635",
+          "speechCharactorId": "397",
+          "message": "ミナトと私が…\r\n自来也先生の小説から…"
+        },
+        {
+          "scriptMessageId": "24636",
+          "speechCharactorId": "397",
+          "message": "とって…決めた\r\n名前です…"
+        },
+        {
+          "scriptMessageId": "24637",
+          "speechCharactorId": "2",
+          "message": "ナルトだな…\r\n分かった！\r\nワシが責任を持つ！"
+        },
+        {
+          "scriptMessageId": "24638",
+          "speechCharactorId": "2",
+          "message": "だから…この子のために！"
+        },
+        {
+          "scriptMessageId": "24639",
+          "speechCharactorId": "397",
+          "message": "…………"
+        },
+        {
+          "scriptMessageId": "24640",
+          "speechCharactorId": "2",
+          "message": "……クシナ…\r\n必ず……"
+        },
+        {
+          "scriptMessageId": "24641",
+          "speechCharactorId": "230",
+          "message": "お前にワシの力を\r\nコントロールする事などできん！"
+        },
+        {
+          "scriptMessageId": "24642",
+          "speechCharactorId": "230",
+          "message": "お前はワシの憎しみの\r\n小さな一部にすぎん！"
+        },
+        {
+          "scriptMessageId": "24643",
+          "speechCharactorId": "0",
+          "message": "消えろ！！"
+        },
+        {
+          "scriptMessageId": "24644",
+          "speechCharactorId": "0",
+          "message": "消えちまえ！！"
+        },
+        {
+          "scriptMessageId": "24645",
+          "speechCharactorId": "17",
+          "message": "うるせェ！！"
+        },
+        {
+          "scriptMessageId": "24646",
+          "speechCharactorId": "0",
+          "message": "消えていなくなれ！！"
+        },
+        {
+          "scriptMessageId": "24647",
+          "speechCharactorId": "0",
+          "message": "いいえ…\r\n…ここに居ていいのよ…"
+        },
+        {
+          "scriptMessageId": "24648",
+          "speechCharactorId": "472",
+          "message": "ナルト…"
+        },
+        {
+          "scriptMessageId": "24649",
+          "speechCharactorId": "251",
+          "message": "何だ？\r\nどうしてこんなとこに人が！？"
+        },
+        {
+          "scriptMessageId": "24650",
+          "speechCharactorId": "251",
+          "message": "それに何で\r\nオレの名前を知ってる！？"
+        },
+        {
+          "scriptMessageId": "24651",
+          "speechCharactorId": "472",
+          "message": "じゃあ…\r\n私が誰か当ててみてナルト"
+        },
+        {
+          "scriptMessageId": "24652",
+          "speechCharactorId": "251",
+          "message": "………"
+        },
+        {
+          "scriptMessageId": "24653",
+          "speechCharactorId": "472",
+          "message": "フフフ……"
+        },
+        {
+          "scriptMessageId": "24654",
+          "speechCharactorId": "251",
+          "message": "まさか……！"
+        },
+        {
+          "scriptMessageId": "24655",
+          "speechCharactorId": "472",
+          "message": "もう分かった？"
+        },
+        {
+          "scriptMessageId": "24656",
+          "speechCharactorId": "251",
+          "message": "お前！\r\n九尾の正体だな！！"
+        },
+        {
+          "scriptMessageId": "24657",
+          "speechCharactorId": "472",
+          "message": "あはははは！\r\nぐぁははは！"
+        },
+        {
+          "scriptMessageId": "24658",
+          "speechCharactorId": "251",
+          "message": "なんという野蛮な笑い！！\r\n女に化けてオレを\r\n騙すつもりだったな九尾の…"
+        },
+        {
+          "scriptMessageId": "24659",
+          "speechCharactorId": "472",
+          "message": "違うってばね！！"
+        },
+        {
+          "scriptMessageId": "24660",
+          "speechCharactorId": "251",
+          "message": "いてェェ――！！"
+        },
+        {
+          "scriptMessageId": "24661",
+          "speechCharactorId": "251",
+          "message": "…てばね…？"
+        },
+        {
+          "scriptMessageId": "24662",
+          "speechCharactorId": "472",
+          "message": "ハハハ…いきなり\r\nどついちゃった…"
+        },
+        {
+          "scriptMessageId": "24663",
+          "speechCharactorId": "472",
+          "message": "生まれつきせっかちで早口だから\r\nつい変な口癖が付いちゃって…"
+        },
+        {
+          "scriptMessageId": "24664",
+          "speechCharactorId": "472",
+          "message": "…出ないようにはしてたんだけど\r\n興奮するとついね…"
+        },
+        {
+          "scriptMessageId": "24665",
+          "speechCharactorId": "472",
+          "message": "アナタは大丈夫だった…？\r\n私みたいに変な口癖が出てなきゃいいけど…"
+        },
+        {
+          "scriptMessageId": "24666",
+          "speechCharactorId": "251",
+          "message": "……じゃあ…"
+        },
+        {
+          "scriptMessageId": "24667",
+          "speechCharactorId": "472",
+          "message": "ミナト何も言わなかったのね\r\nもう…まったく"
+        },
+        {
+          "scriptMessageId": "24668",
+          "speechCharactorId": "472",
+          "message": "…そう私はアナタの…"
+        },
+        {
+          "scriptMessageId": "24669",
+          "speechCharactorId": "251",
+          "message": "……ずっと…"
+        },
+        {
+          "scriptMessageId": "24670",
+          "speechCharactorId": "266",
+          "message": "ずっと…会いたかったってばよ…\r\n母ちゃん…！"
+        },
+        {
+          "scriptMessageId": "24671",
+          "speechCharactorId": "398",
+          "message": "…“てばよ”…かァ…"
+        },
+        {
+          "scriptMessageId": "24672",
+          "speechCharactorId": "398",
+          "message": "…やっぱり私の子ね…"
+        },
+        {
+          "scriptMessageId": "24673",
+          "speechCharactorId": "266",
+          "message": "母ちゃんに会ったら\r\n…聞きたい事がいっぱいあったんだ！"
+        },
+        {
+          "scriptMessageId": "24674",
+          "speechCharactorId": "398",
+          "message": "…うん…\r\nゆっくり聞くわね…"
+        },
+        {
+          "scriptMessageId": "24675",
+          "speechCharactorId": "398",
+          "message": "…その前に\r\n九尾をおとなしくさせなきゃ！"
+        },
+        {
+          "scriptMessageId": "24676",
+          "speechCharactorId": "398",
+          "message": "ミナトはアナタが九尾の力を\r\nコントロールする時の為に"
+        },
+        {
+          "scriptMessageId": "24677",
+          "speechCharactorId": "398",
+          "message": "私のチャクラを封印の式へ\r\n組み込ませていたの"
+        },
+        {
+          "scriptMessageId": "24678",
+          "speechCharactorId": "398",
+          "message": "ナルトの力になれるようにって…"
+        },
+        {
+          "scriptMessageId": "24679",
+          "speechCharactorId": "398",
+          "message": "聞いてるの？"
+        },
+        {
+          "scriptMessageId": "24680",
+          "speechCharactorId": "266",
+          "message": "母ちゃんが美人な人でよかった！"
+        },
+        {
+          "scriptMessageId": "24681",
+          "speechCharactorId": "398",
+          "message": "そりゃどーも！"
+        },
+        {
+          "scriptMessageId": "24682",
+          "speechCharactorId": "398",
+          "message": "フフ……髪は父親似だけど\r\n顔は私に似ちゃってごめんなさいね\r\nナルト"
+        },
+        {
+          "scriptMessageId": "24683",
+          "speechCharactorId": "266",
+          "message": "何で？\r\n美人の母ちゃん似なら\r\nオレってば美男子って事だろ？"
+        },
+        {
+          "scriptMessageId": "24684",
+          "speechCharactorId": "266",
+          "message": "それに母ちゃんの\r\n髪だってキレーな赤でストレートだし…\r\nそっちも似たかったってばよ！"
+        },
+        {
+          "scriptMessageId": "24685",
+          "speechCharactorId": "398",
+          "message": "フフ…私の赤い髪を\r\n褒めてくれた男はこれで二人目ね"
+        },
+        {
+          "scriptMessageId": "24686",
+          "speechCharactorId": "266",
+          "message": "そうなの？\r\n…じゃあ一人目は？"
+        },
+        {
+          "scriptMessageId": "24687",
+          "speechCharactorId": "398",
+          "message": "もちろん\r\nアナタのお父さんよ"
+        },
+        {
+          "scriptMessageId": "24688",
+          "speechCharactorId": "266",
+          "message": "あのさ！あのさ！\r\n父ちゃんとのなれそめって\r\n言う奴は何だったの？"
+        },
+        {
+          "scriptMessageId": "24689",
+          "speechCharactorId": "398",
+          "message": "な…何か…\r\n恥ずかしいってばね…！"
+        },
+        {
+          "scriptMessageId": "24690",
+          "speechCharactorId": "398",
+          "message": "下忍の頃、私は他里から\r\n引っ越して来たから木ノ葉の事は\r\nよく知らなくて…"
+        },
+        {
+          "scriptMessageId": "24691",
+          "speechCharactorId": "398",
+          "message": "お父さんと初めて会った時は\r\nまだ二人共幼かったの"
+        },
+        {
+          "scriptMessageId": "24692",
+          "speechCharactorId": "398",
+          "message": "お父さん…つまりミナトを\r\n始めて見た印象は女男みたいで\r\n頼りなさそーだったわ"
+        },
+        {
+          "scriptMessageId": "24693",
+          "speechCharactorId": "398",
+          "message": "忍者学校の授業で将来の夢を\r\n発表しなくちゃならなくて"
+        },
+        {
+          "scriptMessageId": "24694",
+          "speechCharactorId": "398",
+          "message": "私は皆になめられたくなくてこう言った"
+        },
+        {
+          "scriptMessageId": "24695",
+          "speechCharactorId": "398",
+          "message": "女性で初めての火影になってやる！\r\n……ってね…"
+        },
+        {
+          "scriptMessageId": "24696",
+          "speechCharactorId": "398",
+          "message": "いきなり他里から来て\r\n火影になるだなんて言うから\r\nなまいきよね"
+        },
+        {
+          "scriptMessageId": "24697",
+          "speechCharactorId": "398",
+          "message": "それから男の子によくイジメられたわ…\r\nそれで付けられたアダ名はトマト！"
+        },
+        {
+          "scriptMessageId": "24698",
+          "speechCharactorId": "266",
+          "message": "そっか！そのイジメっ子から\r\n母ちゃんを守ってくれたのが\r\n父ちゃんだった！…って事だろ！"
+        },
+        {
+          "scriptMessageId": "24699",
+          "speechCharactorId": "398",
+          "message": "いいえ…！\r\n全然違う！"
+        },
+        {
+          "scriptMessageId": "24700",
+          "speechCharactorId": "398",
+          "message": "トマトとバカにした男子共を\r\nいつも返り討ちにして"
+        },
+        {
+          "scriptMessageId": "24701",
+          "speechCharactorId": "398",
+          "message": "逆に潰れたトマトみたいにしてやったの"
+        },
+        {
+          "scriptMessageId": "24702",
+          "speechCharactorId": "398",
+          "message": "長い赤い髪を振り回し\r\n男の子を半殺しにする様から"
+        },
+        {
+          "scriptMessageId": "24703",
+          "speechCharactorId": "398",
+          "message": "さらなる通り名が私に付けられた…"
+        },
+        {
+          "scriptMessageId": "24704",
+          "speechCharactorId": "398",
+          "message": "赤い血潮のハバネロ！！"
+        },
+        {
+          "scriptMessageId": "24705",
+          "speechCharactorId": "0",
+          "message": "ゴゴゴゴゴゴゴゴ…"
+        },
+        {
+          "scriptMessageId": "24706",
+          "speechCharactorId": "266",
+          "message": "キバやシカマルも言ってたな…"
+        },
+        {
+          "scriptMessageId": "24707",
+          "speechCharactorId": "266",
+          "message": "母ちゃんってのはすげー怖えーって…"
+        },
+        {
+          "scriptMessageId": "24708",
+          "speechCharactorId": "266",
+          "message": "……で…父ちゃんは\r\n将来の夢を何て言ったんだ？"
+        },
+        {
+          "scriptMessageId": "24709",
+          "speechCharactorId": "398",
+          "message": "…ミナトはね…\r\nこう言ったの"
+        },
+        {
+          "scriptMessageId": "24710",
+          "speechCharactorId": "398",
+          "message": "里の皆に認められる\r\n立派な火影になりたい…って"
+        },
+        {
+          "scriptMessageId": "24711",
+          "speechCharactorId": "266",
+          "message": "……里の皆に…\r\n認められる火影……か"
+        },
+        {
+          "scriptMessageId": "24712",
+          "speechCharactorId": "398",
+          "message": "初めて聞いた時、私は\r\n頼りなさそーな人だし"
+        },
+        {
+          "scriptMessageId": "24713",
+          "speechCharactorId": "398",
+          "message": "火影になんてなれる訳ないって\r\nミナトをバカにしてたの"
+        },
+        {
+          "scriptMessageId": "24714",
+          "speechCharactorId": "266",
+          "message": "何でェ！？\r\n父ちゃんってすごく強そうなのにィ！"
+        },
+        {
+          "scriptMessageId": "24715",
+          "speechCharactorId": "398",
+          "message": "……そうね"
+        },
+        {
+          "scriptMessageId": "24716",
+          "speechCharactorId": "398",
+          "message": "けど私はまだ若くて何も分かってなくてね\r\nミナトをみくびってた"
+        },
+        {
+          "scriptMessageId": "24717",
+          "speechCharactorId": "398",
+          "message": "ある事件が起きるまではね"
+        },
+        {
+          "scriptMessageId": "24718",
+          "speechCharactorId": "398",
+          "message": "…私には少し\r\n特別なチャクラがあってね…"
+        },
+        {
+          "scriptMessageId": "24719",
+          "speechCharactorId": "398",
+          "message": "それを狙って雲隠れの里が\r\n私をさらった事があったの"
+        },
+        {
+          "scriptMessageId": "24720",
+          "speechCharactorId": "398",
+          "message": "その時\r\n連れさられていく中で\r\n私は敵の足取りを残すため"
+        },
+        {
+          "scriptMessageId": "24721",
+          "speechCharactorId": "398",
+          "message": "とっさにこの赤い髪を\r\n切って道に落としていった\r\n敵に気付かれないように…"
+        },
+        {
+          "scriptMessageId": "24722",
+          "speechCharactorId": "398",
+          "message": "私は国境の間際まで\r\n連れていかれてて…\r\nもうダメだって思った時"
+        },
+        {
+          "scriptMessageId": "24723",
+          "speechCharactorId": "398",
+          "message": "ミナトが唯一駆けつけて\r\n私を助けてくれたの"
+        },
+        {
+          "scriptMessageId": "24724",
+          "speechCharactorId": "398",
+          "message": "ただ一人…私の赤い髪に\r\n気付いてくれた"
+        },
+        {
+          "scriptMessageId": "24725",
+          "speechCharactorId": "398",
+          "message": "キレイな髪だから\r\nすぐに気付いたって言ってくれた"
+        },
+        {
+          "scriptMessageId": "24726",
+          "speechCharactorId": "398",
+          "message": "その時のミナトは\r\nとても立派な忍者に見えた"
+        },
+        {
+          "scriptMessageId": "24727",
+          "speechCharactorId": "398",
+          "message": "夢を叶える人だと思わせてくれた"
+        },
+        {
+          "scriptMessageId": "24728",
+          "speechCharactorId": "398",
+          "message": "そして何より彼は私を変えた…"
+        },
+        {
+          "scriptMessageId": "24729",
+          "speechCharactorId": "398",
+          "message": "この大キライだった\r\nただの赤い髪は"
+        },
+        {
+          "scriptMessageId": "24730",
+          "speechCharactorId": "398",
+          "message": "私の中で運命の人を連れてきてくれた…"
+        },
+        {
+          "scriptMessageId": "24731",
+          "speechCharactorId": "398",
+          "message": "“運命の赤い糸”になってくれた"
+        },
+        {
+          "scriptMessageId": "24732",
+          "speechCharactorId": "398",
+          "message": "それ以来、自分の髪を好きになった…\r\nそして何よりミナトを大好きになった"
+        },
+        {
+          "scriptMessageId": "24733",
+          "speechCharactorId": "398",
+          "message": "私の髪を褒めてくれた男にだけ\r\n私から贈る大切な言葉があるの…"
+        },
+        {
+          "scriptMessageId": "24734",
+          "speechCharactorId": "398",
+          "message": "ナルト…受け取ってくれる？"
+        },
+        {
+          "scriptMessageId": "24735",
+          "speechCharactorId": "251",
+          "message": "？……うん……"
+        },
+        {
+          "scriptMessageId": "24736",
+          "speechCharactorId": "398",
+          "message": "アナタを愛してる"
+        },
+        {
+          "scriptMessageId": "24737",
+          "speechCharactorId": "398",
+          "message": "九尾をおさえてる\r\n私のチャクラもそうもたない……"
+        },
+        {
+          "scriptMessageId": "24738",
+          "speechCharactorId": "398",
+          "message": "今のうちにやっちゃいなさい！"
+        },
+        {
+          "scriptMessageId": "24739",
+          "speechCharactorId": "251",
+          "message": "オウ！"
+        },
+        {
+          "scriptMessageId": "24740",
+          "speechCharactorId": "230",
+          "message": "ナルトォ…ワシを"
+        },
+        {
+          "scriptMessageId": "24741",
+          "speechCharactorId": "230",
+          "message": "…覚えていろ\r\n…ナルト"
+        },
+        {
+          "scriptMessageId": "24742",
+          "speechCharactorId": "251",
+          "message": "……ごめんな…九尾\r\n………でも"
+        },
+        {
+          "scriptMessageId": "24743",
+          "speechCharactorId": "251",
+          "message": "おめーを悪りィようには\r\nしねーから…"
+        },
+        {
+          "scriptMessageId": "24744",
+          "speechCharactorId": "251",
+          "message": "少しの間…待っててくれ"
+        },
+        {
+          "scriptMessageId": "24745",
+          "speechCharactorId": "398",
+          "message": "やったわね…ナルト！"
+        },
+        {
+          "scriptMessageId": "24746",
+          "speechCharactorId": "251",
+          "message": "…うん…"
+        },
+        {
+          "scriptMessageId": "24747",
+          "speechCharactorId": "251",
+          "message": "母ちゃんは今……"
+        },
+        {
+          "scriptMessageId": "24748",
+          "speechCharactorId": "398",
+          "message": "これでミナトのところへ\r\nやっと行ける…"
+        },
+        {
+          "scriptMessageId": "24749",
+          "speechCharactorId": "251",
+          "message": "………"
+        },
+        {
+          "scriptMessageId": "24750",
+          "speechCharactorId": "398",
+          "message": "行く前にアナタに\r\n言っておかなきゃならない事があるの…"
+        },
+        {
+          "scriptMessageId": "24751",
+          "speechCharactorId": "398",
+          "message": "私は…アナタの前任の九尾の人柱力…\r\nまずはそこからね"
+        },
+        {
+          "scriptMessageId": "24752",
+          "speechCharactorId": "251",
+          "message": "…九尾の人柱力だった…？\r\n母ちゃんが…！？"
+        },
+        {
+          "scriptMessageId": "24753",
+          "speechCharactorId": "398",
+          "message": "そう…あの事件が起こるまでは…"
+        },
+        {
+          "scriptMessageId": "24754",
+          "speechCharactorId": "398",
+          "message": "ごめんね…"
+        },
+        {
+          "scriptMessageId": "24755",
+          "speechCharactorId": "251",
+          "message": "あやまらねーで\r\nくれよ…"
+        },
+        {
+          "scriptMessageId": "24756",
+          "speechCharactorId": "251",
+          "message": "オレは人柱力だから\r\n昔はつらい事もあったし…"
+        },
+        {
+          "scriptMessageId": "24757",
+          "speechCharactorId": "251",
+          "message": "親の愛情ってのは\r\n正直よく分かんなかったけど"
+        },
+        {
+          "scriptMessageId": "24758",
+          "speechCharactorId": "251",
+          "message": "でも今は分かる…"
+        },
+        {
+          "scriptMessageId": "24759",
+          "speechCharactorId": "251",
+          "message": "自分の命をオレのためにくれた\r\n父ちゃんと母ちゃん…"
+        },
+        {
+          "scriptMessageId": "24760",
+          "speechCharactorId": "251",
+          "message": "オレの器にも九尾より先に\r\n愛情が入ってるって分かったから！"
+        },
+        {
+          "scriptMessageId": "24761",
+          "speechCharactorId": "266",
+          "message": "だからオレも幸せだ！！"
+        },
+        {
+          "scriptMessageId": "24762",
+          "speechCharactorId": "266",
+          "message": "父ちゃんと母ちゃんの子でよかった！！"
+        },
+        {
+          "scriptMessageId": "24763",
+          "speechCharactorId": "398",
+          "message": "ミナト…聞いてる…！？"
+        },
+        {
+          "scriptMessageId": "24764",
+          "speechCharactorId": "398",
+          "message": "私達の想い…\r\nちゃんとこの子に届いてたよ…！！"
+        },
+        {
+          "scriptMessageId": "24765",
+          "speechCharactorId": "398",
+          "message": "ナルト…"
+        },
+        {
+          "scriptMessageId": "24766",
+          "speechCharactorId": "398",
+          "message": "私を母にしてくれてありがとう…\r\nミナトを父にしてくれてありがとう…"
+        },
+        {
+          "scriptMessageId": "24767",
+          "speechCharactorId": "398",
+          "message": "私達の元に生まれてきてくれて……"
+        },
+        {
+          "scriptMessageId": "24768",
+          "speechCharactorId": "398",
+          "message": "本当にありがとう！！"
+        },
+        {
+          "scriptMessageId": "24769",
+          "speechCharactorId": "585",
+          "message": "サクラ、お前に一つ\r\n聞いときたいことがあるってばよ"
+        },
+        {
+          "scriptMessageId": "24770",
+          "speechCharactorId": "585",
+          "message": "ナルト…どう思う？"
+        },
+        {
+          "scriptMessageId": "24771",
+          "speechCharactorId": "382",
+          "message": "…人の恋路の邪魔者が\r\nすっかり板についてきて"
+        },
+        {
+          "scriptMessageId": "24772",
+          "speechCharactorId": "382",
+          "message": "私が四苦八苦してんのを\r\n楽しんでる……"
+        },
+        {
+          "scriptMessageId": "24773",
+          "speechCharactorId": "382",
+          "message": "ナルトは私のことなんて\r\n何一つ分かってない……"
+        },
+        {
+          "scriptMessageId": "24774",
+          "speechCharactorId": "382",
+          "message": "うざいだけよ"
+        },
+        {
+          "scriptMessageId": "24775",
+          "speechCharactorId": "382",
+          "message": "私はただ…\r\nサスケ君ただ一人に"
+        },
+        {
+          "scriptMessageId": "24776",
+          "speechCharactorId": "382",
+          "message": "みとめてもらいたいだけ……"
+        },
+        {
+          "scriptMessageId": "24777",
+          "speechCharactorId": "382",
+          "message": "私…必死だもん\r\nみとめてもらえるためなら\r\n何だってできるよ"
+        },
+        {
+          "scriptMessageId": "24778",
+          "speechCharactorId": "382",
+          "message": "好きだから…"
+        },
+        {
+          "scriptMessageId": "24779",
+          "speechCharactorId": "0",
+          "message": "ギュルルルルル"
+        },
+        {
+          "scriptMessageId": "24780",
+          "speechCharactorId": "585",
+          "message": "は…腹がぁ…"
+        },
+        {
+          "scriptMessageId": "24781",
+          "speechCharactorId": "382",
+          "message": "ど…どうしたの？"
+        },
+        {
+          "scriptMessageId": "24782",
+          "speechCharactorId": "585",
+          "message": "す…すぐもどるから…"
+        },
+        {
+          "scriptMessageId": "24783",
+          "speechCharactorId": "381",
+          "message": "そろそろ集合だ\r\nナルトのヤローはどこだ？"
+        },
+        {
+          "scriptMessageId": "24784",
+          "speechCharactorId": "382",
+          "message": "ナルトなんて\r\nほっときゃいいじゃない！"
+        },
+        {
+          "scriptMessageId": "24785",
+          "speechCharactorId": "382",
+          "message": "サスケ君に\r\nいつもからむばっかりでさ！"
+        },
+        {
+          "scriptMessageId": "24786",
+          "speechCharactorId": "382",
+          "message": "やっぱり\r\nまともな育ち方してないからよアイツ！"
+        },
+        {
+          "scriptMessageId": "24787",
+          "speechCharactorId": "382",
+          "message": "…ホラ！\r\nアイツ両親いないじゃない！？"
+        },
+        {
+          "scriptMessageId": "24788",
+          "speechCharactorId": "382",
+          "message": "いつもワガママしほーだい！！"
+        },
+        {
+          "scriptMessageId": "24789",
+          "speechCharactorId": "382",
+          "message": "私なんかそんなことしたら\r\n親に怒られちゃうけどさ！"
+        },
+        {
+          "scriptMessageId": "24790",
+          "speechCharactorId": "382",
+          "message": "いーわねーホラ！\r\n一人ってさ！\r\nガミガミ親に言われることないしさ"
+        },
+        {
+          "scriptMessageId": "24791",
+          "speechCharactorId": "382",
+          "message": "だからいろんなとこで\r\nワガママが出ちゃうのよ"
+        },
+        {
+          "scriptMessageId": "24792",
+          "speechCharactorId": "381",
+          "message": "…孤独"
+        },
+        {
+          "scriptMessageId": "24793",
+          "speechCharactorId": "381",
+          "message": "…親にしかられて悲しいなんて\r\nレベルじゃねーぞ"
+        },
+        {
+          "scriptMessageId": "24794",
+          "speechCharactorId": "381",
+          "message": "お前、うざいよ"
+        },
+        {
+          "scriptMessageId": "24795",
+          "speechCharactorId": "382",
+          "message": "……"
+        },
+        {
+          "scriptMessageId": "24796",
+          "speechCharactorId": "382",
+          "message": "うざいよ…かぁ…"
+        },
+        {
+          "scriptMessageId": "24797",
+          "speechCharactorId": "382",
+          "message": "…ナルトも\r\nこんな気持ちだったのかな……"
+        },
+        {
+          "scriptMessageId": "24798",
+          "speechCharactorId": "382",
+          "message": "次からはもう少し…\r\nやさしくできるかな私…"
+        },
+        {
+          "scriptMessageId": "24799",
+          "speechCharactorId": "380",
+          "message": "将来の夢はァ"
+        },
+        {
+          "scriptMessageId": "24800",
+          "speechCharactorId": "380",
+          "message": "火影を超す！！\r\nンでもって"
+        },
+        {
+          "scriptMessageId": "24801",
+          "speechCharactorId": "380",
+          "message": "里の奴ら全員に\r\nオレの存在を認めさせてやるんだ！！"
+        },
+        {
+          "scriptMessageId": "24802",
+          "speechCharactorId": "382",
+          "message": "…いっつもいっつも\r\n馬鹿の一つ覚えみたいに…\r\n火影…火影って…"
+        },
+        {
+          "scriptMessageId": "24803",
+          "speechCharactorId": "382",
+          "message": "悪いわね…\r\nナルト…私…"
+        },
+        {
+          "scriptMessageId": "24804",
+          "speechCharactorId": "382",
+          "message": "アンタのその叶いそうもない夢…\r\nつぶさせたくないみたい！！"
+        },
+        {
+          "scriptMessageId": "24805",
+          "speechCharactorId": "382",
+          "message": "ナルト…ナルト…\r\nサスケ君が…"
+        },
+        {
+          "scriptMessageId": "24806",
+          "speechCharactorId": "382",
+          "message": "私…私…\r\nどうしたらいいの…！！"
+        },
+        {
+          "scriptMessageId": "24807",
+          "speechCharactorId": "382",
+          "message": "ナルト…\r\n私の…一生の…お願い…"
+        },
+        {
+          "scriptMessageId": "24808",
+          "speechCharactorId": "382",
+          "message": "サスケくんを…\r\nサスケくんを連れ戻して…"
+        },
+        {
+          "scriptMessageId": "24809",
+          "speechCharactorId": "382",
+          "message": "私には駄目だった！\r\n私じゃあサスケくんを\r\n止めることが出来なかった！"
+        },
+        {
+          "scriptMessageId": "24810",
+          "speechCharactorId": "382",
+          "message": "もうきっと…サスケくんを\r\n止めることが…救うことが出来るのは…\r\nナルト…アンタだけ…"
+        },
+        {
+          "scriptMessageId": "24811",
+          "speechCharactorId": "380",
+          "message": "サクラちゃんは\r\nサスケが大好きだからなぁ…"
+        },
+        {
+          "scriptMessageId": "24812",
+          "speechCharactorId": "380",
+          "message": "今、サクラちゃんが\r\nホントに苦しんでるってことは"
+        },
+        {
+          "scriptMessageId": "24813",
+          "speechCharactorId": "380",
+          "message": "痛いほど分かるってばよ…"
+        },
+        {
+          "scriptMessageId": "24814",
+          "speechCharactorId": "382",
+          "message": "…ナルト…ありがとう…"
+        },
+        {
+          "scriptMessageId": "24815",
+          "speechCharactorId": "380",
+          "message": "サスケはぜってーオレが連れて帰る！\r\n一生の約束だってばよ！！"
+        },
+        {
+          "scriptMessageId": "24816",
+          "speechCharactorId": "382",
+          "message": "いつも私のこと\r\n分かってくれた…"
+        },
+        {
+          "scriptMessageId": "24817",
+          "speechCharactorId": "382",
+          "message": "いつも私を助けてくれた…"
+        },
+        {
+          "scriptMessageId": "24818",
+          "speechCharactorId": "382",
+          "message": "ナルト…"
+        },
+        {
+          "scriptMessageId": "24819",
+          "speechCharactorId": "380",
+          "message": "………ごめん…サクラちゃん…"
+        },
+        {
+          "scriptMessageId": "24820",
+          "speechCharactorId": "382",
+          "message": "…なんでアンタが謝るのよ"
+        },
+        {
+          "scriptMessageId": "24821",
+          "speechCharactorId": "380",
+          "message": "…サクラちゃん！"
+        },
+        {
+          "scriptMessageId": "24822",
+          "speechCharactorId": "380",
+          "message": "オレ……約束は絶対守るってばよ"
+        },
+        {
+          "scriptMessageId": "24823",
+          "speechCharactorId": "380",
+          "message": "一生の約束だ…って言ったからな\r\nオレってば"
+        },
+        {
+          "scriptMessageId": "24824",
+          "speechCharactorId": "382",
+          "message": "いいのよ…ナルト\r\n…もう…"
+        },
+        {
+          "scriptMessageId": "24825",
+          "speechCharactorId": "380",
+          "message": "いつも…\r\n言ってたからな\r\n………オレ"
+        },
+        {
+          "scriptMessageId": "24826",
+          "speechCharactorId": "380",
+          "message": "まっすぐ自分の言葉は曲げねェ\r\nそれがオレの忍道だからよ…"
+        },
+        {
+          "scriptMessageId": "24827",
+          "speechCharactorId": "382",
+          "message": "私は………"
+        },
+        {
+          "scriptMessageId": "24828",
+          "speechCharactorId": "382",
+          "message": "泣きついただけ……"
+        },
+        {
+          "scriptMessageId": "24829",
+          "speechCharactorId": "382",
+          "message": "アナタに頼って\r\nすがりついただけ…"
+        },
+        {
+          "scriptMessageId": "24830",
+          "speechCharactorId": "382",
+          "message": "自分じゃ何も………"
+        },
+        {
+          "scriptMessageId": "24831",
+          "speechCharactorId": "382",
+          "message": "…ごめん…ナルト…"
+        },
+        {
+          "scriptMessageId": "24832",
+          "speechCharactorId": "382",
+          "message": "少し待たせることに\r\nなっちゃうけど…"
+        },
+        {
+          "scriptMessageId": "24833",
+          "speechCharactorId": "382",
+          "message": "今度は私も一緒に！"
+        },
+        {
+          "scriptMessageId": "24834",
+          "speechCharactorId": "163",
+          "message": "ナルト…まったく\r\nお前はいつもそうだ"
+        },
+        {
+          "scriptMessageId": "24835",
+          "speechCharactorId": "163",
+          "message": "無理ばっかしやがって…！！"
+        },
+        {
+          "scriptMessageId": "24836",
+          "speechCharactorId": "163",
+          "message": "…オレ達の為にどこまで…"
+        },
+        {
+          "scriptMessageId": "24837",
+          "speechCharactorId": "163",
+          "message": "今までだってオレらのこととなると\r\n手抜きも妥協もしねーから…"
+        },
+        {
+          "scriptMessageId": "24838",
+          "speechCharactorId": "163",
+          "message": "お前の前だと\r\nオレもめんどくさがったり\r\nできなくなっちまっただろ…"
+        },
+        {
+          "scriptMessageId": "24839",
+          "speechCharactorId": "163",
+          "message": "ナルトは今まで一人で\r\n辛ェーことくさるほど\r\nやり抜いてきたこと…オレは後で知った…"
+        },
+        {
+          "scriptMessageId": "24840",
+          "speechCharactorId": "163",
+          "message": "もう今はそんな思いをアイツに\r\nこれっぽちもさせたくねェ…"
+        },
+        {
+          "scriptMessageId": "24841",
+          "speechCharactorId": "163",
+          "message": "とにかくそう思いたくなんだよ…\r\nあいつと一緒に居るとよ"
+        },
+        {
+          "scriptMessageId": "24842",
+          "speechCharactorId": "163",
+          "message": "初代様と違って\r\nナルトのあのバカヤローに"
+        },
+        {
+          "scriptMessageId": "24843",
+          "speechCharactorId": "163",
+          "message": "相談役の二代目様のような\r\nできる兄弟はいねーしな…"
+        },
+        {
+          "scriptMessageId": "24844",
+          "speechCharactorId": "163",
+          "message": "まぁ…だから…\r\nだからこそ…"
+        },
+        {
+          "scriptMessageId": "24845",
+          "speechCharactorId": "163",
+          "message": "あいつが火影になった時\r\nオレがあのバカヤローの\r\n隣りに居てやらねェーとよ！"
+        },
+        {
+          "scriptMessageId": "24846",
+          "speechCharactorId": "163",
+          "message": "悪ィーけどオヤジ\r\nオレはまだそっちには行けねーよ"
+        },
+        {
+          "scriptMessageId": "24847",
+          "speechCharactorId": "163",
+          "message": "ナルトの相談役に\r\nオレ以上の奴はいねーからよ！"
+        },
+        {
+          "scriptMessageId": "24848",
+          "speechCharactorId": "26",
+          "message": "ナルトが木ノ葉隠れの里に帰って来た…"
+        },
+        {
+          "scriptMessageId": "24849",
+          "speechCharactorId": "26",
+          "message": "見ない間にずいぶん\r\n逞しくなっちゃって…"
+        },
+        {
+          "scriptMessageId": "24850",
+          "speechCharactorId": "26",
+          "message": "私たちは協力して\r\nカカシ先生からスズを取ることに成功した"
+        },
+        {
+          "scriptMessageId": "24851",
+          "speechCharactorId": "26",
+          "message": "確実に強くなってる！\r\nこれならきっと…！"
+        },
+        {
+          "scriptMessageId": "24852",
+          "speechCharactorId": "26",
+          "message": "“暁”が“人柱力”\r\n…”尾獣”を集めているのを知った…"
+        },
+        {
+          "scriptMessageId": "24853",
+          "speechCharactorId": "26",
+          "message": "“尾獣”を抜かれた“人柱力”は…\r\n死ぬ……"
+        },
+        {
+          "scriptMessageId": "24854",
+          "speechCharactorId": "26",
+          "message": "ナルトは…“九尾の人柱力”……"
+        },
+        {
+          "scriptMessageId": "24855",
+          "speechCharactorId": "127",
+          "message": "見なよアレを\r\nあんな姿になってまで\r\nサスケ君を助けたかったのかね"
+        },
+        {
+          "scriptMessageId": "24856",
+          "speechCharactorId": "127",
+          "message": "悲しい子だ…"
+        },
+        {
+          "scriptMessageId": "24857",
+          "speechCharactorId": "26",
+          "message": "ナルト！\r\nもう…もういいから！"
+        },
+        {
+          "scriptMessageId": "24858",
+          "speechCharactorId": "26",
+          "message": "サスケ君は私が助けだしてみせる！"
+        },
+        {
+          "scriptMessageId": "24859",
+          "speechCharactorId": "26",
+          "message": "再会したサスケ君は…\r\nとても強くなっていた"
+        },
+        {
+          "scriptMessageId": "24860",
+          "speechCharactorId": "26",
+          "message": "私もナルトも…\r\nまた止められなかった…"
+        },
+        {
+          "scriptMessageId": "24861",
+          "speechCharactorId": "26",
+          "message": "私もいる！\r\n私だって一緒に強くなる！！"
+        },
+        {
+          "scriptMessageId": "24862",
+          "speechCharactorId": "26",
+          "message": "私達は…諦めない！！"
+        },
+        {
+          "scriptMessageId": "24863",
+          "speechCharactorId": "26",
+          "message": "“暁”のリーダー\r\nペインが木ノ葉隠れの里を襲撃してきた"
+        },
+        {
+          "scriptMessageId": "24864",
+          "speechCharactorId": "26",
+          "message": "数多くの忍が人々が傷付いていく…\r\n私は全ての人を診ることが出来ない…\r\n助けられない…"
+        },
+        {
+          "scriptMessageId": "24865",
+          "speechCharactorId": "26",
+          "message": "な…なんなのよ…コレ…"
+        },
+        {
+          "scriptMessageId": "24866",
+          "speechCharactorId": "26",
+          "message": "どうして…こんな……"
+        },
+        {
+          "scriptMessageId": "24867",
+          "speechCharactorId": "26",
+          "message": "ナルト早く来てよォ！！"
+        },
+        {
+          "scriptMessageId": "24868",
+          "speechCharactorId": "26",
+          "message": "お願いナルトォォ！！"
+        },
+        {
+          "scriptMessageId": "24869",
+          "speechCharactorId": "26",
+          "message": "私は…また…"
+        },
+        {
+          "scriptMessageId": "24870",
+          "speechCharactorId": "26",
+          "message": "ナルトが…！"
+        },
+        {
+          "scriptMessageId": "24871",
+          "speechCharactorId": "53",
+          "message": "そう…サスケを庇うためにね"
+        },
+        {
+          "scriptMessageId": "24872",
+          "speechCharactorId": "53",
+          "message": "体中ボロボロで…\r\nでも絶対にサスケを売らなかった"
+        },
+        {
+          "scriptMessageId": "24873",
+          "speechCharactorId": "53",
+          "message": "それに…君を心配させまいと\r\nこの事はサクラに黙っておけって…"
+        },
+        {
+          "scriptMessageId": "24874",
+          "speechCharactorId": "53",
+          "message": "ボクは君とナルトの約束も知らない…"
+        },
+        {
+          "scriptMessageId": "24875",
+          "speechCharactorId": "53",
+          "message": "けど……"
+        },
+        {
+          "scriptMessageId": "24876",
+          "speechCharactorId": "53",
+          "message": "ナルトは君の事が本当に\r\n好きだって事ぐらい――"
+        },
+        {
+          "scriptMessageId": "24877",
+          "speechCharactorId": "53",
+          "message": "このボクだって分かる！！"
+        },
+        {
+          "scriptMessageId": "24878",
+          "speechCharactorId": "53",
+          "message": "ナルトは君との約束を\r\nずっと背負ってるようだった…"
+        },
+        {
+          "scriptMessageId": "24879",
+          "speechCharactorId": "53",
+          "message": "一生背負う気でいるみたいだった"
+        },
+        {
+          "scriptMessageId": "24880",
+          "speechCharactorId": "53",
+          "message": "ナルトを苦しめてるのは\r\nサスケだけど…"
+        },
+        {
+          "scriptMessageId": "24881",
+          "speechCharactorId": "53",
+          "message": "君もなんじゃないのかい？"
+        },
+        {
+          "scriptMessageId": "24882",
+          "speechCharactorId": "163",
+          "message": "悪いがサクラ…\r\nお前の答がどーであれ\r\n木ノ葉の未来の為に\r\nオレは行動させてもらう"
+        },
+        {
+          "scriptMessageId": "24883",
+          "speechCharactorId": "26",
+          "message": "ナルトには私が…\r\n話をする…"
+        },
+        {
+          "scriptMessageId": "24884",
+          "speechCharactorId": "26",
+          "message": "…私なんかを\r\n好きになってくれたバカだから"
+        },
+        {
+          "scriptMessageId": "24885",
+          "speechCharactorId": "26",
+          "message": "…だからそれは私の役目にさせて"
+        },
+        {
+          "scriptMessageId": "24886",
+          "speechCharactorId": "26",
+          "message": "ナルトを一番苦しめてたのは\r\n私だった…"
+        },
+        {
+          "scriptMessageId": "24887",
+          "speechCharactorId": "26",
+          "message": "私はいつも間違ってばかり\r\n失敗ばかり"
+        },
+        {
+          "scriptMessageId": "24888",
+          "speechCharactorId": "26",
+          "message": "もう間違いたくない…\r\nもう失敗したくない"
+        },
+        {
+          "scriptMessageId": "24889",
+          "speechCharactorId": "26",
+          "message": "……ただもう目が覚めただけ"
+        },
+        {
+          "scriptMessageId": "24890",
+          "speechCharactorId": "26",
+          "message": "抜け忍で犯罪者である人を\r\n好きでいる必要ないでしょ"
+        },
+        {
+          "scriptMessageId": "24891",
+          "speechCharactorId": "26",
+          "message": "私だっていつまでも\r\n子供じゃない…\r\n現実は見えてるつもりよ"
+        },
+        {
+          "scriptMessageId": "24892",
+          "speechCharactorId": "26",
+          "message": "だからナルト…\r\nアンタとの約束はもういいの……"
+        },
+        {
+          "scriptMessageId": "24893",
+          "speechCharactorId": "26",
+          "message": "ナルトもサスケくんを\r\n追いかけるのはもう止めにしない…？"
+        },
+        {
+          "scriptMessageId": "24894",
+          "speechCharactorId": "27",
+          "message": "オレは…\r\n自分に嘘をつくような奴はキライだ！"
+        },
+        {
+          "scriptMessageId": "24895",
+          "speechCharactorId": "27",
+          "message": "約束の問題じゃねーんだ"
+        },
+        {
+          "scriptMessageId": "24896",
+          "speechCharactorId": "27",
+          "message": "サスケの奴が何で復讐に取りつかれて\r\n暴れてんのか…"
+        },
+        {
+          "scriptMessageId": "24897",
+          "speechCharactorId": "27",
+          "message": "オレにも少し分かる気がすんだ…"
+        },
+        {
+          "scriptMessageId": "24898",
+          "speechCharactorId": "27",
+          "message": "サクラちゃんとの約束がなくなっても\r\n関係ねーよ"
+        },
+        {
+          "scriptMessageId": "24899",
+          "speechCharactorId": "27",
+          "message": "オレはオレ自身で\r\nサスケを助けたいと思ってる"
+        },
+        {
+          "scriptMessageId": "24900",
+          "speechCharactorId": "26",
+          "message": "私は………\r\n……サスケくんを殺せなかった…"
+        },
+        {
+          "scriptMessageId": "24901",
+          "speechCharactorId": "26",
+          "message": "そして…第四次忍界大戦がはじまった"
+        },
+        {
+          "scriptMessageId": "24902",
+          "speechCharactorId": "26",
+          "message": "私は一人前の\r\nくノ一のつもりでいたくせに"
+        },
+        {
+          "scriptMessageId": "24903",
+          "speechCharactorId": "26",
+          "message": "サスケくんとナルトの後ろばかり\r\n隠れて歩いてて…"
+        },
+        {
+          "scriptMessageId": "24904",
+          "speechCharactorId": "26",
+          "message": "あの時誓ったハズなのに…"
+        },
+        {
+          "scriptMessageId": "24905",
+          "speechCharactorId": "26",
+          "message": "サスケくんもナルトも\r\nいつも私の前にいて"
+        },
+        {
+          "scriptMessageId": "24906",
+          "speechCharactorId": "26",
+          "message": "どんどん突き進んでいくから…私…"
+        },
+        {
+          "scriptMessageId": "24907",
+          "speechCharactorId": "26",
+          "message": "やっぱり追いつけないやって…"
+        },
+        {
+          "scriptMessageId": "24908",
+          "speechCharactorId": "26",
+          "message": "二人とも凄すぎるから\r\nしかたないやって諦めて…"
+        },
+        {
+          "scriptMessageId": "24909",
+          "speechCharactorId": "26",
+          "message": "綱手様…私…やっと二人に\r\n追いつけたみたいです！！"
+        },
+        {
+          "scriptMessageId": "24910",
+          "speechCharactorId": "26",
+          "message": "ナルトから九尾が抜かれた…\r\n “人柱力”は“尾獣”を抜かれたら死ぬ…"
+        },
+        {
+          "scriptMessageId": "24911",
+          "speechCharactorId": "26",
+          "message": "しっかりして！！\r\n負けないで！！"
+        },
+        {
+          "scriptMessageId": "24912",
+          "speechCharactorId": "26",
+          "message": "アンタは強い！\r\n必ず…必ず助かる！！"
+        },
+        {
+          "scriptMessageId": "24913",
+          "speechCharactorId": "26",
+          "message": "この私が看るかぎり\r\n簡単には死なせやしないわ！！"
+        },
+        {
+          "scriptMessageId": "24914",
+          "speechCharactorId": "27",
+          "message": "いずれ火影の名を語る\r\n超エリート忍者！"
+        },
+        {
+          "scriptMessageId": "24915",
+          "speechCharactorId": "27",
+          "message": "…名をうずまきナルトという\r\n覚えとけ！！"
+        },
+        {
+          "scriptMessageId": "24916",
+          "speechCharactorId": "26",
+          "message": "逝かせない…\r\n逝かせてたまるか！"
+        },
+        {
+          "scriptMessageId": "24917",
+          "speechCharactorId": "26",
+          "message": "絶対に死なせる訳には\r\nいかないのよ！！"
+        },
+        {
+          "scriptMessageId": "24918",
+          "speechCharactorId": "26",
+          "message": "かつてのアンタのバカげた夢は\r\n……今はもう…"
+        },
+        {
+          "scriptMessageId": "24919",
+          "speechCharactorId": "26",
+          "message": "今はもう目の前なんだから！！！！"
+        },
+        {
           "scriptMessageId": "40001",
           "speechCharactorId": "178",
           "message": "絶望しかないこの世界に\r\n存在する価値はない"

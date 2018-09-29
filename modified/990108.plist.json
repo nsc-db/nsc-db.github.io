@@ -10169,6 +10169,32 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "796",
+          "name": "飛閃封災の伝説",
+          "description": "全属性のスキル発動速度が1段階アップ",
+          "effectIdx1": "21000",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "797",
+          "name": "顕在化せし憎悪",
+          "description": "知属性の味方の攻撃力と防御力が40％アップする",
+          "effectIdx1": "11039",
+          "effectIdx2": "12039",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "6",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",
