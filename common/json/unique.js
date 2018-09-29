@@ -8256,15 +8256,51 @@ window.unique=[
           "effectIdx4": "0"
         },
         {
+          "crystalOverwriteEffectId": "700",
+          "targetCrystal": "10922",
+          "description": "行動後ﾁｬｸﾗ50%回復。全ｽｷﾙﾀﾞﾒｰｼﾞ100%ｱｯﾌﾟ、素早さ30%ｱｯﾌﾟ、3回行動まで150%の確率でｽｷﾙ回避",
+          "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "600000",
+          "effectIdx1": "1910",
+          "effectIdx2": "774",
+          "effectIdx3": "183",
+          "effectIdx4": "1913"
+        },
+        {
           "crystalOverwriteEffectId": "703",
           "targetCrystal": "10915",
           "description": "全スキルダメージ100%アップ、最大HP50%アップ、スキル発動速度1段階アップ",
-          "charaIds": "1901",
+          "charaIds": "1901,1902",
           "cardIds": "0",
           "charaGroupIds": "0",
           "effectIdx1": "774",
           "effectIdx2": "10049",
           "effectIdx3": "1840",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "704",
+          "targetCrystal": "11001",
+          "description": "行動後チャクラが10％回復し、最大HP150％アップ、全スキルダメージ50％アップ",
+          "charaIds": "2104",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "528",
+          "effectIdx2": "1212",
+          "effectIdx3": "682",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "705",
+          "targetCrystal": "11002",
+          "description": "状態異常を無効化し、超高確率でスキルを回避する",
+          "charaIds": "2104",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "82",
+          "effectIdx2": "1897",
+          "effectIdx3": "0",
           "effectIdx4": "0"
         }
 ]

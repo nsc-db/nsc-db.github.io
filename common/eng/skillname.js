@@ -6661,6 +6661,26 @@ window.skillname=[
           "eng": "I Will Protect the Village"
         },
         {
+          "cardBattleSkillNameId": "2529",
+          "name": "影分身・怨嗟連弾",
+          "eng": "Shadow Clone: Resentment Barrage"
+        },
+        {
+          "cardBattleSkillNameId": "2530",
+          "name": "お前はオレを倒せねェ",
+          "eng": "You Can't Defeat Me"
+        },
+        {
+          "cardBattleSkillNameId": "2531",
+          "name": "飛雷神・閃舞光臨",
+          "eng": "Flying Raijin: Sen Mai Korin"
+        },
+        {
+          "cardBattleSkillNameId": "2532",
+          "name": "常に状況を見て！",
+          "eng": "Always Look at the Situation"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！",
           "eng": ""

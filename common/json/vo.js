@@ -1740,6 +1740,18 @@ window.vo=[
           "voiceDeath": "kakasi_death_02_04"
         },
         {
+          "cardVoiceId": "146",
+          "cardId": "20041003",
+          "dirName": "minato",
+          "evolutionStep": "",
+          "voiceAppear": "minato_battle_02_03",
+          "voiceSkill1": "minato_skill_02_05,minato_skill_02_02",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "minato_win_02_01",
+          "voiceDeath": "minato_death_02_01"
+        },
+        {
           "cardVoiceId": "8002",
           "cardId": "80000002",
           "dirName": "sasuke",

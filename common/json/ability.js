@@ -17703,6 +17703,42 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2017",
+          "abilityName": "大切な憎しみ",
+          "abilityDescription": "攻撃力が100%アップする。",
+          "abilityEffectDescription": "攻撃力が100%アップする。",
+          "effectIdx1": "264",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2018",
+          "abilityName": "もう一人の自分",
+          "abilityDescription": "最大HPと防御力が60%アップし、チャクラ消費量が20％ダウンする",
+          "abilityEffectDescription": "最大HPと防御力が60%アップし、チャクラ消費量が20％ダウンする",
+          "effectIdx1": "10059",
+          "effectIdx2": "12059",
+          "effectIdx3": "860"
+        },
+        {
+          "abilityId": "2019",
+          "abilityName": "歴代最速の瞬身",
+          "abilityDescription": "HPが0以下で1度だけHPが全回復し、行動後、確実に再度行動できる※再行動後にさらに行動はできない",
+          "abilityEffectDescription": "HPが0以下で1度だけHPが全回復し、行動後、確実に再度行動できる※再行動後にさらに行動はできない",
+          "effectIdx1": "874",
+          "effectIdx2": "312",
+          "effectIdx3": "1893"
+        },
+        {
+          "abilityId": "2020",
+          "abilityName": "連合を救う光",
+          "abilityDescription": "耐えた時に、素早さ100％アップ＆チャクラ消費量半減",
+          "abilityEffectDescription": "耐えた時に、素早さ100％アップ＆チャクラ消費量半減",
+          "effectIdx1": "1917",
+          "effectIdx2": "1813",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
