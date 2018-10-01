@@ -406,19 +406,6 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
-          "worldStageId": "1187",
-          "worldAreaId": "5",
-          "priority": "2",
-          "name": "お前は愛されていた",
-          "description": "里や仲間を守り抜くために…！\r\n我愛羅の固有忍具をゲット！",
-          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
-          "type": "0",
-          "prerequisiteWorldStageId": "0",
-          "openWeek": null,
-          "openTime": "0000.00.00 00:00:00",
-          "closeTime": "0000.00.00 00:00:00"
-        },
-        {
           "worldStageId": "1189",
           "worldAreaId": "5",
           "priority": "4",
@@ -555,19 +542,6 @@
           "name": "ナルト・長門のド根性忍伝!!",
           "description": "任務クリアで強化素材を大量獲得！\r\nプレイに制限はありません。",
           "notice": "0",
-          "type": "0",
-          "prerequisiteWorldStageId": "0",
-          "openWeek": null,
-          "openTime": "0000.00.00 00:00:00",
-          "closeTime": "0000.00.00 00:00:00"
-        },
-        {
-          "worldStageId": "4026",
-          "worldAreaId": "5",
-          "priority": "3",
-          "name": "山椒魚の半蔵",
-          "description": "個人Ptを集めて★５半蔵【雨隠れの英傑】や\r\n半蔵、伝説の三忍の固有忍具を獲得しよう！",
-          "notice": "※個人Pt報酬は、達成と同時に直接付与されます。\r\n※報酬の付与にはお時間をいただく場合がございます。\r\n※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
           "type": "0",
           "prerequisiteWorldStageId": "0",
           "openWeek": null,
