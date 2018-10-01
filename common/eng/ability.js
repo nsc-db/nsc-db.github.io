@@ -17685,6 +17685,42 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2017",
+          "abilityName": "Important Hate",
+          "abilityDescription": "ATK +100%",
+          "abilityEffectDescription": "攻撃力が100%アップする。",
+          "effectIdx1": "264",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2018",
+          "abilityName": "The Other Me",
+          "abilityDescription": "Maximum HP and DEF +60%. Chakra Cost -20%",
+          "abilityEffectDescription": "最大HPと防御力が60%アップし、チャクラ消費量が20％ダウンする",
+          "effectIdx1": "10059",
+          "effectIdx2": "12059",
+          "effectIdx3": "860"
+        },
+        {
+          "abilityId": "2019",
+          "abilityName": "Fastest Blink",
+          "abilityDescription": "When HP reach 0, revive once. Take an extra turn per action (Except for the extra turn)",
+          "abilityEffectDescription": "HPが0以下で1度だけHPが全回復し、行動後、確実に再度行動できる※再行動後にさらに行動はできない",
+          "effectIdx1": "874",
+          "effectIdx2": "312",
+          "effectIdx3": "1893"
+        },
+        {
+          "abilityId": "2020",
+          "abilityName": "Rescuing the Alliance in a Flash",
+          "abilityDescription": "SPD +100% and Chakra Cost -50% after getting attacked",
+          "abilityEffectDescription": "耐えた時に、素早さ100％アップ＆チャクラ消費量半減",
+          "effectIdx1": "1917",
+          "effectIdx2": "1813",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

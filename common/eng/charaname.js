@@ -1190,6 +1190,20 @@ window.charaname=[
           "gender": "1"
         },
         {
+          "charaProfileId": "2104",
+          "charaId": "21",
+          "name": "Minato Namikaze",
+          "detail": "穢土転生",
+          "charaLoveAffinityGroupId": "2120",
+          "birthday": "125",
+          "constellation": "11",
+          "height": "0",
+          "weight": "0",
+          "bloodType": "2",
+          "age": "0",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "2201",
           "charaId": "22",
           "name": "Hiruzen Sarutobi",

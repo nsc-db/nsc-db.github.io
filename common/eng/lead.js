@@ -10152,4 +10152,30 @@ window.lead=[
           "target2Category": "0",
           "target2Param": "0"
         },
+        {
+          "cardLeaderSkillId": "796",
+          "name": "飛閃封災の伝説",
+          "description": "All Allies Cast Speed +1",
+          "effectIdx1": "21000",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "797",
+          "name": "顕在化せし憎悪",
+          "description": "Intellect Characters ATK and DEF +40%",
+          "effectIdx1": "11039",
+          "effectIdx2": "12039",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "6",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
 ]

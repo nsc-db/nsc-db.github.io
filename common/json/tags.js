@@ -6247,4 +6247,20 @@ window.tags=[
           "pvp": "60",
           "nickname": ""
 },
+{
+          "cardId": "20041002",
+          "rare": "5",
+          "tag": "event",
+          "rate": "",
+          "pvp": "",
+          "nickname": "Dark Naruto"
+},
+{
+          "cardId": "20040912",
+          "rare": "5",
+          "tag": "god",
+          "rate": "",
+          "pvp": "",
+          "nickname": "God Minato"
+},
 ]
