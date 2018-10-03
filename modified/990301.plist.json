@@ -15697,6 +15697,38 @@
           "crystalImageId": "110025",
           "recipeId": "11002",
           "recipeName": "息子と合わせる拳"
+        },
+        {
+          "crystalId": "11003",
+          "crystalType": "1",
+          "crystalRare": "5",
+          "effectIdx1": "10029",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "クシナの青いｴﾌﾟﾛﾝ",
+          "crystalDescription": "最大HPを30%アップ",
+          "crystalImageId": "110035",
+          "recipeId": "11003",
+          "recipeName": "クシナの青いｴﾌﾟﾛﾝ"
+        },
+        {
+          "crystalId": "11004",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "1921",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "金剛封鎖・九尾暴爪",
+          "crystalDescription": "封印術タイプのスキルダメージが50%アップ",
+          "crystalImageId": "110045",
+          "recipeId": "11004",
+          "recipeName": "金剛封鎖・九尾暴爪"
         }
       ]
     }

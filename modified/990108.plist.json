@@ -10195,6 +10195,19 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "798",
+          "name": "信愛の共闘",
+          "description": "全属性のスキルダメージ50%アップし、行動後にHPとチャクラを5%回復する",
+          "effectIdx1": "682",
+          "effectIdx2": "1923",
+          "effectIdx3": "446",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

@@ -393,19 +393,6 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
-          "worldStageId": "1186",
-          "worldAreaId": "5",
-          "priority": "7",
-          "name": "大激闘任務-長月の陣-",
-          "description": "ランパートではドロップではなく\r\nクリア時に個人Ptを獲得できます。",
-          "notice": "※報酬のキャラは先行配信であり、後日別の手段で入手可能になります。\r\n※イベントの内容及び日程は告知なく変更となる場合がございます。",
-          "type": "0",
-          "prerequisiteWorldStageId": "0",
-          "openWeek": null,
-          "openTime": "0000.00.00 00:00:00",
-          "closeTime": "0000.00.00 00:00:00"
-        },
-        {
           "worldStageId": "1189",
           "worldAreaId": "5",
           "priority": "4",
@@ -424,19 +411,6 @@
           "priority": "2",
           "name": "尊く敬うんだな！コレ！！",
           "description": "個人Ptを集めて豪華報酬と交換しよう！",
-          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
-          "type": "0",
-          "prerequisiteWorldStageId": "0",
-          "openWeek": null,
-          "openTime": "0000.00.00 00:00:00",
-          "closeTime": "0000.00.00 00:00:00"
-        },
-        {
-          "worldStageId": "1191",
-          "worldAreaId": "5",
-          "priority": "2",
-          "name": "約束の果て",
-          "description": "個人Ptを集めて固有忍具や\r\n★5のはらリンを獲得しよう！",
           "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
           "type": "0",
           "prerequisiteWorldStageId": "0",
@@ -928,9 +902,9 @@
         {
           "worldStageId": "6007",
           "worldAreaId": "5",
-          "priority": "40",
+          "priority": "10",
           "name": "雌雄決戦任務-うずまきクシナ-",
-          "description": "雌雄Ptをゲットして固有忍具や素材と交換しよう。\r\n「スタミナ消費なし」対象外となります",
+          "description": "雌雄Ptをゲットして固有忍具や素材と交換しよう。",
           "notice": "※イベントの内容及び日程は告知なく変更となる場合がございます。\r\n※イベント難易度はAランクからチャレンジランクとなります。",
           "type": "0",
           "prerequisiteWorldStageId": "0",
