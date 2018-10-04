@@ -523,6 +523,19 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
+          "worldStageId": "4017",
+          "worldAreaId": "5",
+          "priority": "3",
+          "name": "ナルト戦場へ…!!",
+          "description": "個人Ptを集めて★５エー【意志の見極め方】や\r\nエー、ビーとナルトの固有忍具を獲得しよう！",
+          "notice": "※個人Ptはイベントの開催期間中に獲得した物のみ有効となります。\r\n※個人Pt報酬は、達成と同時に直接付与されます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
           "worldStageId": "4032",
           "worldAreaId": "5",
           "priority": "2",
