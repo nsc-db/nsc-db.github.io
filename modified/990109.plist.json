@@ -17760,6 +17760,24 @@
           "effectIdx3": "1919"
         },
         {
+          "abilityId": "2025",
+          "abilityName": "絆と愛の器",
+          "abilityDescription": "HP0以下で3回までHP全回復、2回行動までスキルダメージ500%アップ",
+          "abilityEffectDescription": "HP0以下で3回までHP全回復、2回行動までスキルダメージ500%アップ",
+          "effectIdx1": "1789",
+          "effectIdx2": "874",
+          "effectIdx3": "30122"
+        },
+        {
+          "abilityId": "2026",
+          "abilityName": "継承せし意志",
+          "abilityDescription": "最大チャクラ量150アップ、HP90%以上の時スキル発動速度1段階アップ＆風遁、仙術、尾獣、六道スキル無効化",
+          "abilityEffectDescription": "最大チャクラ量150アップ、HP90%以上の時スキル発動速度1段階アップ＆風遁、仙術、尾獣、六道スキル無効化",
+          "effectIdx1": "20014",
+          "effectIdx2": "1337",
+          "effectIdx3": "1924"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

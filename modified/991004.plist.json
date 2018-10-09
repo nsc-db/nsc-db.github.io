@@ -3501,6 +3501,12 @@
           "speechCharactorName": "奈良シカマル "
         },
         {
+          "speechCharactorId": "587",
+          "cardId": "20001817",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "日向ヒナタ"
+        },
+        {
           "speechCharactorId": "1000",
           "cardId": "21000091",
           "speechCharactorImgId": "1000",

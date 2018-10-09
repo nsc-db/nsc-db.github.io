@@ -1755,6 +1755,18 @@
           "voiceDeath": "kushina_death_02_03"
         },
         {
+          "cardVoiceId": "148",
+          "cardId": "20041006",
+          "dirName": "naruto",
+          "evolutionStep": "",
+          "voiceAppear": "naruto_battle_02_11_02",
+          "voiceSkill1": "naruto_skill_02_38,naruto_skill_02_01",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "naruto_battle_02_27",
+          "voiceDeath": "naruto_death_02_04"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

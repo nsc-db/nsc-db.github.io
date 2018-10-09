@@ -1471,6 +1471,16 @@
           "subScore": "0",
           "color": "16719647",
           "type": "3"
+        },
+        {
+          "cardUnusualId": "150",
+          "category": "3",
+          "iconId": "1167",
+          "name": "軌跡",
+          "description": "素早さがアップ。行動後スキルダメージがアップ",
+          "subScore": "0",
+          "color": "16316664",
+          "type": "2"
         }
       ]
     }

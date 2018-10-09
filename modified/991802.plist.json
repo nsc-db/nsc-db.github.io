@@ -3331,6 +3331,141 @@
           "category": "99",
           "charaId": "0",
           "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "1810001",
+          "name": "0",
+          "rarity": "2",
+          "resourceType": "0",
+          "category": "1",
+          "charaId": "1",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "1810002",
+          "name": "0",
+          "rarity": "2",
+          "resourceType": "0",
+          "category": "1",
+          "charaId": "1",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "1810003",
+          "name": "0",
+          "rarity": "2",
+          "resourceType": "0",
+          "category": "1",
+          "charaId": "1",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "1810004",
+          "name": "0",
+          "rarity": "2",
+          "resourceType": "0",
+          "category": "1",
+          "charaId": "3",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "1810005",
+          "name": "0",
+          "rarity": "2",
+          "resourceType": "0",
+          "category": "1",
+          "charaId": "23",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "1810006",
+          "name": "0",
+          "rarity": "2",
+          "resourceType": "0",
+          "category": "1",
+          "charaId": "13",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "1810007",
+          "name": "0",
+          "rarity": "2",
+          "resourceType": "0",
+          "category": "1",
+          "charaId": "24",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "1810008",
+          "name": "0",
+          "rarity": "2",
+          "resourceType": "0",
+          "category": "1",
+          "charaId": "7",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "1810009",
+          "name": "0",
+          "rarity": "2",
+          "resourceType": "0",
+          "category": "1",
+          "charaId": "43",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "1810010",
+          "name": "0",
+          "rarity": "2",
+          "resourceType": "0",
+          "category": "1",
+          "charaId": "25",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "1810011",
+          "name": "0",
+          "rarity": "2",
+          "resourceType": "0",
+          "category": "1",
+          "charaId": "10",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "1810012",
+          "name": "0",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "1",
+          "charaId": "21",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "1810013",
+          "name": "0",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "1",
+          "charaId": "1",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "1810014",
+          "name": "0",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "1",
+          "charaId": "17",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "1810601",
+          "name": "その他",
+          "rarity": "2",
+          "resourceType": "0",
+          "category": "99",
+          "charaId": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
         }
       ]
     }

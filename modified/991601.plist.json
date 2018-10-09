@@ -757,6 +757,19 @@
           "selectType": "1"
         },
         {
+          "itemId": "11059",
+          "name": "テウチのラーメン",
+          "description": "スタミナを全回復するラーメン（10月15日まで期間限定）",
+          "resultWord": "0",
+          "itemCategoryId": "1",
+          "itemValue": "1000000",
+          "itemNum": "0",
+          "itemImageId": "10000",
+          "needCount": "1",
+          "priority": "1",
+          "selectType": "1"
+        },
+        {
           "itemId": "15001",
           "name": "共闘コイン",
           "description": "共闘コインガチャの実行に必要なコイン。",
@@ -1305,7 +1318,7 @@
         {
           "itemId": "52013",
           "name": "限定ﾄﾞﾛｯﾌﾟ数2倍の秘伝書",
-          "description": "バトルでの獲得ドロップ数が２倍になります。（9月30日まで期間限定）",
+          "description": "バトルでの獲得ドロップ数が２倍になります。（10月31日まで期間限定）",
           "resultWord": "忍/素材ドロップ数２倍",
           "itemCategoryId": "10",
           "itemValue": "20000",
@@ -1428,6 +1441,19 @@
           "itemValue": "0",
           "itemNum": "0",
           "itemImageId": "60006",
+          "needCount": "1",
+          "priority": "1",
+          "selectType": "3"
+        },
+        {
+          "itemId": "61000",
+          "name": "ナルト誕生記念CP応募券",
+          "description": "うずまきナルト誕生記念\r\nプレゼントキャンペーン応募券\r\n※抽選は10月下旬を予定",
+          "resultWord": "0",
+          "itemCategoryId": "20",
+          "itemValue": "0",
+          "itemNum": "0",
+          "itemImageId": "0",
           "needCount": "1",
           "priority": "1",
           "selectType": "3"
