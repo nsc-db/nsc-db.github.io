@@ -6256,11 +6256,27 @@ window.tags=[
           "nickname": "Dark Naruto"
 },
 {
-          "cardId": "20040912",
+          "cardId": "20041003",
           "rare": "5",
           "tag": "god",
           "rate": "",
           "pvp": "",
           "nickname": "God Minato"
+},
+{
+          "cardId": "20041004",
+          "rare": "5",
+          "tag": "ex-6",
+          "rate": "",
+          "pvp": "",
+          "nickname": "Another Kushina"
+},
+{
+          "cardId": "20041006",
+          "rare": "5",
+          "tag": "ex-6",
+          "rate": "",
+          "pvp": "",
+          "nickname": "2018 Birthday Naruto"
 },
 ]

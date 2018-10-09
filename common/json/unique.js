@@ -8302,5 +8302,53 @@ window.unique=[
           "effectIdx2": "1897",
           "effectIdx3": "0",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "706",
+          "targetCrystal": "11003",
+          "description": "最大HPを100%アップし、スキル発動速度1段階アップ、行動後にチャクラ15%回復",
+          "charaIds": "4301,4302",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "684",
+          "effectIdx2": "1840",
+          "effectIdx3": "648",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "707",
+          "targetCrystal": "11004",
+          "description": "封印術タイプのスキルダメージが120%アップし、行動後にHP10%回復",
+          "charaIds": "4301,4302",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1922",
+          "effectIdx2": "357",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "708",
+          "targetCrystal": "11007",
+          "description": "6回行動するまで攻撃力が90%アップし、行動後にHPとチャクラが30%回復する",
+          "charaIds": "101,102,104,105,106,107,109,110,111",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1929",
+          "effectIdx2": "1928",
+          "effectIdx3": "1927",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "709",
+          "targetCrystal": "11008",
+          "description": "全スキルダメージと最大HPと攻撃力を150%アップ",
+          "charaIds": "101,102,104,105,106,107,109,110,111",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "794",
+          "effectIdx2": "1212",
+          "effectIdx3": "1268",
+          "effectIdx4": "0"
         }
 ]

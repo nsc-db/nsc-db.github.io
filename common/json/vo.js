@@ -1752,6 +1752,30 @@ window.vo=[
           "voiceDeath": "minato_death_02_01"
         },
         {
+          "cardVoiceId": "147",
+          "cardId": "20041004",
+          "dirName": "kushina",
+          "evolutionStep": "",
+          "voiceAppear": "kushina_battle_02_03",
+          "voiceSkill1": "kushina_skill_02_01",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "kushina_win_02_03",
+          "voiceDeath": "kushina_death_02_03"
+        },
+        {
+          "cardVoiceId": "148",
+          "cardId": "20041006",
+          "dirName": "naruto",
+          "evolutionStep": "",
+          "voiceAppear": "naruto_battle_02_11_02",
+          "voiceSkill1": "naruto_skill_02_38,naruto_skill_02_01",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "naruto_battle_02_27",
+          "voiceDeath": "naruto_death_02_04"
+        },
+        {
           "cardVoiceId": "8002",
           "cardId": "80000002",
           "dirName": "sasuke",

@@ -17739,6 +17739,42 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2021",
+          "abilityName": "火事場の母力",
+          "abilityDescription": "2回行動するまで耐性無視スキルのダメージを0",
+          "abilityEffectDescription": "2回行動するまで耐性無視スキルのダメージを0",
+          "effectIdx1": "1838",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2022",
+          "abilityName": "我が子への愛情",
+          "abilityDescription": "HP70%以上の時、素早さ200%アップ＆尾獣と封印術タイプのスキルダメージを無効化",
+          "abilityEffectDescription": "HP70%以上の時、素早さ200%アップ＆尾獣と封印術タイプのスキルダメージを無効化",
+          "effectIdx1": "1920",
+          "effectIdx2": "1918",
+          "effectIdx3": "1919"
+        },
+        {
+          "abilityId": "2025",
+          "abilityName": "絆と愛の器",
+          "abilityDescription": "HP0以下で3回までHP全回復、2回行動までスキルダメージ500%アップ",
+          "abilityEffectDescription": "HP0以下で3回までHP全回復、2回行動までスキルダメージ500%アップ",
+          "effectIdx1": "1789",
+          "effectIdx2": "874",
+          "effectIdx3": "30122"
+        },
+        {
+          "abilityId": "2026",
+          "abilityName": "継承せし意志",
+          "abilityDescription": "最大チャクラ量150アップ、HP90%以上の時スキル発動速度1段階アップ＆風遁、仙術、尾獣、六道スキル無効化",
+          "abilityEffectDescription": "最大チャクラ量150アップ、HP90%以上の時スキル発動速度1段階アップ＆風遁、仙術、尾獣、六道スキル無効化",
+          "effectIdx1": "20014",
+          "effectIdx2": "1337",
+          "effectIdx3": "1924"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
