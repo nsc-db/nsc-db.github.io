@@ -6697,7 +6697,7 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "2536",
-          "name": "これがオレの生き様だ！"
+          "name": "これがオレの生き様だ！",
           "eng": "This is My Way of Life"
         },
         {
