@@ -5344,6 +5344,22 @@ window.skillname=[
           "name": "常に状況を見て！"
         },
         {
+          "cardBattleSkillNameId": "2533",
+          "name": "金剛封鎖・九尾暴爪"
+        },
+        {
+          "cardBattleSkillNameId": "2534",
+          "name": "まだいけるってばね！"
+        },
+        {
+          "cardBattleSkillNameId": "2535",
+          "name": "超大玉螺旋丸・軌跡"
+        },
+        {
+          "cardBattleSkillNameId": "2536",
+          "name": "これがオレの生き様だ！"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },

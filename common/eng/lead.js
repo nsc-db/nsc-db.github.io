@@ -10178,4 +10178,30 @@ window.lead=[
           "target2Category": "0",
           "target2Param": "0"
         },
+        {
+          "cardLeaderSkillId": "798",
+          "name": "信愛の共闘",
+          "description": "All Characters Skill Damage +50%. HP Regen and Chakra Recovery +5%",
+          "effectIdx1": "682",
+          "effectIdx2": "1923",
+          "effectIdx3": "446",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "799",
+          "name": "英雄の軌跡",
+          "description": "Intellect Type ATK and Skill Damage +100%",
+          "effectIdx1": "11099",
+          "effectIdx2": "774",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "6",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
 ]

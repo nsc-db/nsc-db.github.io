@@ -10179,6 +10179,32 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "798",
+          "name": "信愛の共闘",
+          "description": "全属性のスキルダメージ50%アップし、行動後にHPとチャクラを5%回復する",
+          "effectIdx1": "682",
+          "effectIdx2": "1923",
+          "effectIdx3": "446",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "799",
+          "name": "英雄の軌跡",
+          "description": "知属性の攻撃力とスキルダメージを100%アップ",
+          "effectIdx1": "11099",
+          "effectIdx2": "774",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "6",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8508",
           "name": "決別の祈り",
           "description": "技属性の最大HP・攻撃・スキルダメージを100%アップする",

@@ -6681,6 +6681,26 @@ window.skillname=[
           "eng": "Always Look at the Situation"
         },
         {
+          "cardBattleSkillNameId": "2533",
+          "name": "金剛封鎖・九尾暴爪",
+          "eng": "Adamantine Sealing Chains: Nine Tail Claw"
+        },
+        {
+          "cardBattleSkillNameId": "2534",
+          "name": "まだいけるってばね！",
+          "eng": "I Can Still Go"
+        },
+        {
+          "cardBattleSkillNameId": "2535",
+          "name": "超大玉螺旋丸・軌跡",
+          "eng": "Massive Rasengan: Path"
+        },
+        {
+          "cardBattleSkillNameId": "2536",
+          "name": "これがオレの生き様だ！",
+          "eng": "This is My Way of Life"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！",
           "eng": ""
