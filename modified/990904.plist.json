@@ -380,19 +380,6 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
-          "worldStageId": "1077",
-          "worldAreaId": "5",
-          "priority": "30",
-          "name": "“暁”修練",
-          "description": "素材を集めて限定忍具を手に入れよう！",
-          "notice": "※イベントの内容及び日程は告知なく変更となる場合がございます。",
-          "type": "0",
-          "prerequisiteWorldStageId": "0",
-          "openWeek": null,
-          "openTime": "0000.00.00 00:00:00",
-          "closeTime": "0000.00.00 00:00:00"
-        },
-        {
           "worldStageId": "1189",
           "worldAreaId": "5",
           "priority": "4",
@@ -406,22 +393,9 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
-          "worldStageId": "1193",
-          "worldAreaId": "5",
-          "priority": "2",
-          "name": "乱逆の魔像",
-          "description": "個人Ptを集めて長門の固有忍具を獲得しよう！",
-          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
-          "type": "0",
-          "prerequisiteWorldStageId": "0",
-          "openWeek": null,
-          "openTime": "0000.00.00 00:00:00",
-          "closeTime": "0000.00.00 00:00:00"
-        },
-        {
           "worldStageId": "1196",
           "worldAreaId": "5",
-          "priority": "2",
+          "priority": "3",
           "name": "想い-紡がれた絆-　序章",
           "description": "ナルト成長の軌跡を追体験しよう",
           "notice": "※イベントの内容及び日程は告知なく変更となる場合がございます。",
@@ -542,6 +516,19 @@
           "name": "不死の破壊者 -恐るべき秘密!!-",
           "description": "個人Ptを集めて★５角都【不死の武人】や\r\n固有忍具を獲得しよう！",
           "notice": "※個人pt報酬は、達成と同時に直接付与されます。\r\n※報酬の付与にはお時間をいただく場合がございます。\r\n※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
+          "worldStageId": "4065",
+          "worldAreaId": "5",
+          "priority": "3",
+          "name": "戦場、木ノ葉!!",
+          "description": "個人Ptを集めて★５ペイン【憎しみの連鎖】や\r\nペイン、ナルト、木ノ葉丸の固有忍具を獲得しよう！",
+          "notice": "※個人pt報酬は、達成と同時に直接付与されます。\r\n※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
           "type": "0",
           "prerequisiteWorldStageId": "0",
           "openWeek": null,
@@ -772,9 +759,9 @@
         {
           "worldStageId": "5114",
           "worldAreaId": "5",
-          "priority": "2",
+          "priority": "30",
           "name": "シマのおいしい!?クッキング",
-          "description": "チャンスタイム中は、\r\nいずれかのステージでドロップ2倍！！\r\n\r\n＜ドロップ2倍のチャンスタイム＞\r\n・12:00～12:59、20:00～20:59",
+          "description": "素材を集めて忍具を生成しよう！",
           "notice": "※イベントの内容及び日程は告知なく変更となる場合がございます。\r\n※イベント難易度はA、ドS、超ドS、超絶ランクとなります。",
           "type": "0",
           "prerequisiteWorldStageId": "0",
