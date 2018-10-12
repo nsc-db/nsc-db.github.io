@@ -4023,9 +4023,54 @@
           "gachaTicketImgId": "3352"
         },
         {
+          "gachaTicketId": "3353",
+          "gachaTicketName": "期間限定忍具50%ガチャチケット",
+          "gachaTicketImgId": "3330"
+        },
+        {
+          "gachaTicketId": "3354",
+          "gachaTicketName": "期間限定忍具確定ガチャチケット",
+          "gachaTicketImgId": "3331"
+        },
+        {
+          "gachaTicketId": "3355",
+          "gachaTicketName": "属性忍具[心]確定ガチャチケット",
+          "gachaTicketImgId": "3332"
+        },
+        {
+          "gachaTicketId": "3356",
+          "gachaTicketName": "属性忍具[技]確定ガチャチケット",
+          "gachaTicketImgId": "3333"
+        },
+        {
+          "gachaTicketId": "3357",
+          "gachaTicketName": "属性忍具[体]確定ガチャチケット",
+          "gachaTicketImgId": "3334"
+        },
+        {
+          "gachaTicketId": "3358",
+          "gachaTicketName": "属性忍具[勇]確定ガチャチケット",
+          "gachaTicketImgId": "3335"
+        },
+        {
+          "gachaTicketId": "3359",
+          "gachaTicketName": "属性忍具[知]確定ガチャチケット",
+          "gachaTicketImgId": "3336"
+        },
+        {
           "gachaTicketId": "3364",
           "gachaTicketName": "超忍祭[10月]確定",
           "gachaTicketImgId": "356"
+        },
+        {
+          "gachaTicketId": "3365",
+          "gachaTicketName": "昇級選抜[10月]ガチャチケット",
+          "gachaTicketImgId": "3365"
+        },
+        {
+          "gachaTicketId": "3366",
+          "gachaTicketName": "昇級選抜[10月]25%",
+          "gachaTicketImgId": "3366"
         },
         {
           "gachaTicketId": "3367",
