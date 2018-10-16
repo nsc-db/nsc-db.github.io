@@ -380,6 +380,19 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
+          "worldStageId": "1077",
+          "worldAreaId": "5",
+          "priority": "30",
+          "name": "“暁”修練",
+          "description": "素材を集めて限定忍具を手に入れよう！",
+          "notice": "※イベントの内容及び日程は告知なく変更となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
           "worldStageId": "1196",
           "worldAreaId": "5",
           "priority": "3",
