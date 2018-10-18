@@ -17778,6 +17778,42 @@
           "effectIdx3": "1924"
         },
         {
+          "abilityId": "2031",
+          "abilityName": "仮装で語る戦い",
+          "abilityDescription": "素早さ50%アップ、1回行動するまでスキルダメージ1,000%アップ",
+          "abilityEffectDescription": "素早さ50%アップ、1回行動するまでスキルダメージ1,000%アップ",
+          "effectIdx1": "13049",
+          "effectIdx2": "1935",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2032",
+          "abilityName": "仮装による革命",
+          "abilityDescription": "HP99%以上の時、攻撃力1,000%アップ",
+          "abilityEffectDescription": "HP99%以上の時、攻撃力1,000%アップ",
+          "effectIdx1": "1936",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2033",
+          "abilityName": "精気吸引",
+          "abilityDescription": "敵のうちはサスケから攻撃を受けた時、耐性無視を含む全スキルと通常攻撃を無効化しHPを全回復",
+          "abilityEffectDescription": "敵のうちはサスケから攻撃を受けた時、耐性無視を含む全スキルと通常攻撃を無効化しHPを全回復",
+          "effectIdx1": "1930",
+          "effectIdx2": "1931",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2034",
+          "abilityName": "みなぎる精血",
+          "abilityDescription": "味方にうちはサスケが生存していると、行動するたび攻撃・防御・素早さ25%アップ（最大1,000%）",
+          "abilityEffectDescription": "味方にうちはサスケが生存していると、行動するたび攻撃・防御・素早さ25%アップ（最大1,000%）",
+          "effectIdx1": "1940",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

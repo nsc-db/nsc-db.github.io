@@ -1453,6 +1453,11 @@
           "itemImgId": "23"
         },
         {
+          "shopExchangeItemId": "298",
+          "itemName": "昇級試験Pt",
+          "itemImgId": "128"
+        },
+        {
           "shopExchangeItemId": "1001",
           "itemName": "下心Pt",
           "itemImgId": "166"
@@ -1561,6 +1566,11 @@
           "shopExchangeItemId": "1022",
           "itemName": "個人Pt",
           "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "1023",
+          "itemName": "カボチャの欠片",
+          "itemImgId": "1023"
         },
         {
           "shopExchangeItemId": "2000",

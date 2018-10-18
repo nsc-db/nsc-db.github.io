@@ -1481,6 +1481,16 @@
           "subScore": "0",
           "color": "16316664",
           "type": "2"
+        },
+        {
+          "cardUnusualId": "151",
+          "category": "3",
+          "iconId": "1168",
+          "name": "永遠の孤独",
+          "description": "行動後HPとチャクラが回復。班の生存している人数が少ない程スキルダメージアップ※助っ人含む",
+          "subScore": "0",
+          "color": "8355839",
+          "type": "2"
         }
       ]
     }

@@ -62658,6 +62658,466 @@
           "message": "……………"
         },
         {
+          "scriptMessageId": "25023",
+          "speechCharactorId": "61",
+          "message": "ふー……ただいま\r\n まったく面倒なこと頼まないでよ"
+        },
+        {
+          "scriptMessageId": "25024",
+          "speechCharactorId": "61",
+          "message": "ん……？\r\n サスケと香燐は？"
+        },
+        {
+          "scriptMessageId": "25025",
+          "speechCharactorId": "534",
+          "message": "……サスケは調べものだ\r\n すぐ戻る"
+        },
+        {
+          "scriptMessageId": "25026",
+          "speechCharactorId": "534",
+          "message": "香燐は……そこだ"
+        },
+        {
+          "scriptMessageId": "25027",
+          "speechCharactorId": "61",
+          "message": "そこ？\r\n ………あー寝てるね"
+        },
+        {
+          "scriptMessageId": "25028",
+          "speechCharactorId": "60",
+          "message": "ンフフフ～……\r\n ……ヒヒヒッ………"
+        },
+        {
+          "scriptMessageId": "25029",
+          "speechCharactorId": "61",
+          "message": "うわ！！\r\n キモ……"
+        },
+        {
+          "scriptMessageId": "25030",
+          "speechCharactorId": "60",
+          "message": "フヘヘヘヘ……"
+        },
+        {
+          "scriptMessageId": "25031",
+          "speechCharactorId": "61",
+          "message": "なんか…めちゃキモイね……\r\n いったいどんな夢を見てるんだか…"
+        },
+        {
+          "scriptMessageId": "25032",
+          "speechCharactorId": "60",
+          "message": "サスケ！\r\n うちはイタチの情報を手に入れて来たよ！"
+        },
+        {
+          "scriptMessageId": "25033",
+          "speechCharactorId": "45",
+          "message": "……本当か？"
+        },
+        {
+          "scriptMessageId": "25034",
+          "speechCharactorId": "60",
+          "message": "本当だよ！\r\n 南瓜頭村にいるって！"
+        },
+        {
+          "scriptMessageId": "25035",
+          "speechCharactorId": "45",
+          "message": "南瓜頭村……？"
+        },
+        {
+          "scriptMessageId": "25036",
+          "speechCharactorId": "60",
+          "message": "ああ！それと…\r\n 潜入するにはこれを着ないとな"
+        },
+        {
+          "scriptMessageId": "25037",
+          "speechCharactorId": "45",
+          "message": "……なんだ、これは"
+        },
+        {
+          "scriptMessageId": "25038",
+          "speechCharactorId": "60",
+          "message": "南瓜頭村は仮装じゃないと\r\n 怪しまれる不思議な村だからね！"
+        },
+        {
+          "scriptMessageId": "25039",
+          "speechCharactorId": "45",
+          "message": "…………いいだろう"
+        },
+        {
+          "scriptMessageId": "25040",
+          "speechCharactorId": "60",
+          "message": "あ、着替えた服は預かるよ\r\n （サスケの服ゲットだぜ！！！）"
+        },
+        {
+          "scriptMessageId": "25041",
+          "speechCharactorId": "60",
+          "message": "…………"
+        },
+        {
+          "scriptMessageId": "25042",
+          "speechCharactorId": "61",
+          "message": "あ、起きた"
+        },
+        {
+          "scriptMessageId": "25043",
+          "speechCharactorId": "60",
+          "message": "…………ん……\r\n ……サスケいない……"
+        },
+        {
+          "scriptMessageId": "25044",
+          "speechCharactorId": "61",
+          "message": "香燐、キミねー\r\n めちゃキモイ顔して寝てたよ"
+        },
+        {
+          "scriptMessageId": "25045",
+          "speechCharactorId": "60",
+          "message": "水月……\r\n もう夢に出てくんじゃねーぞ"
+        },
+        {
+          "scriptMessageId": "25046",
+          "speechCharactorId": "60",
+          "message": "ウチはもっかい寝る"
+        },
+        {
+          "scriptMessageId": "25047",
+          "speechCharactorId": "61",
+          "message": "は！？ちょっと！！"
+        },
+        {
+          "scriptMessageId": "25048",
+          "speechCharactorId": "60",
+          "message": "……イヒヒ…\r\n サスケェ…カッコいい…"
+        },
+        {
+          "scriptMessageId": "25049",
+          "speechCharactorId": "61",
+          "message": "え…また寝ちゃったよ…\r\n 何だコレ……"
+        },
+        {
+          "scriptMessageId": "25050",
+          "speechCharactorId": "534",
+          "message": "相手にされなかったな"
+        },
+        {
+          "scriptMessageId": "25051",
+          "speechCharactorId": "61",
+          "message": "……ボクは君たちが嫌いだ"
+        },
+        {
+          "scriptMessageId": "25052",
+          "speechCharactorId": "589",
+          "message": "(た…たまんない…サスケェ…）\r\n イヒヒヒヒ…"
+        },
+        {
+          "scriptMessageId": "25053",
+          "speechCharactorId": "588",
+          "message": "……なんだ？"
+        },
+        {
+          "scriptMessageId": "25054",
+          "speechCharactorId": "589",
+          "message": "ああ…なんでも…\r\n （ヒィ～吸血鬼姿のサスケェ…）\r\n （超カッコいい…今すぐハグして）"
+        },
+        {
+          "scriptMessageId": "25055",
+          "speechCharactorId": "589",
+          "message": "なめまわしてぇんだよ\r\n コノヤロ～"
+        },
+        {
+          "scriptMessageId": "25056",
+          "speechCharactorId": "588",
+          "message": "何を言って……"
+        },
+        {
+          "scriptMessageId": "25057",
+          "speechCharactorId": "589",
+          "message": "あ！！\r\n アレ違うか！？"
+        },
+        {
+          "scriptMessageId": "25058",
+          "speechCharactorId": "588",
+          "message": "……あの衣は“暁”\r\n イタチの情報を入手できそうだな"
+        },
+        {
+          "scriptMessageId": "25059",
+          "speechCharactorId": "592",
+          "message": "……キュウ……"
+        },
+        {
+          "scriptMessageId": "25060",
+          "speechCharactorId": "589",
+          "message": "や…殺ったのか？"
+        },
+        {
+          "scriptMessageId": "25061",
+          "speechCharactorId": "588",
+          "message": "イヤ…こいつには\r\n まだ、聞きたいことがある"
+        },
+        {
+          "scriptMessageId": "25062",
+          "speechCharactorId": "588",
+          "message": "………だが\r\n 呆気なさすぎる…"
+        },
+        {
+          "scriptMessageId": "25063",
+          "speechCharactorId": "589",
+          "message": "確かに一瞬だったな\r\n どうすんだ、サスケ"
+        },
+        {
+          "scriptMessageId": "25064",
+          "speechCharactorId": "588",
+          "message": "“暁”の衣を着ている以上\r\n そのメンバーだろう\r\n …情報を聞き出す"
+        },
+        {
+          "scriptMessageId": "25065",
+          "speechCharactorId": "589",
+          "message": "……あ……これ仮装だ…\r\n この村の住人じゃんか"
+        },
+        {
+          "scriptMessageId": "25066",
+          "speechCharactorId": "588",
+          "message": "…………"
+        },
+        {
+          "scriptMessageId": "25067",
+          "speechCharactorId": "588",
+          "message": "香燐…感知しろ\r\n 妙な格好の奴が多すぎる……"
+        },
+        {
+          "scriptMessageId": "25068",
+          "speechCharactorId": "589",
+          "message": "…やってる、けど…\r\n 妙なチャクラの流れが感知の邪魔に\r\n なってやがんだ"
+        },
+        {
+          "scriptMessageId": "25069",
+          "speechCharactorId": "61",
+          "message": "どうする？\r\n 片っ端からヤっちゃう？"
+        },
+        {
+          "scriptMessageId": "25070",
+          "speechCharactorId": "589",
+          "message": "す…水月！？\r\n テメーなんでいんだコノヤロー！！"
+        },
+        {
+          "scriptMessageId": "25071",
+          "speechCharactorId": "61",
+          "message": "何でって…ホラ、ボクって\r\n 斬るのが大好きだからさ！？"
+        },
+        {
+          "scriptMessageId": "25072",
+          "speechCharactorId": "61",
+          "message": "二人の仲とか！！"
+        },
+        {
+          "scriptMessageId": "25073",
+          "speechCharactorId": "588",
+          "message": "水月、向こうに倒した村人がいる\r\n 手当しておけ"
+        },
+        {
+          "scriptMessageId": "25074",
+          "speechCharactorId": "61",
+          "message": "やれやれ…いつも命令口調だよね\r\n キミってさー"
+        },
+        {
+          "scriptMessageId": "25075",
+          "speechCharactorId": "589",
+          "message": "いいから、さっさとやって来いよ！！"
+        },
+        {
+          "scriptMessageId": "25076",
+          "speechCharactorId": "61",
+          "message": "ハイハイ…"
+        },
+        {
+          "scriptMessageId": "25077",
+          "speechCharactorId": "588",
+          "message": "……向こうが騒がしい\r\n なんだ…？"
+        },
+        {
+          "scriptMessageId": "25078",
+          "speechCharactorId": "591",
+          "message": "ハハハハ…ぶっ殺す！！\r\n お前ら全員ぶっ殺す！！"
+        },
+        {
+          "scriptMessageId": "25079",
+          "speechCharactorId": "588",
+          "message": "……重吾？"
+        },
+        {
+          "scriptMessageId": "25080",
+          "speechCharactorId": "589",
+          "message": "なんでアイツらは…\r\n 二人きりになんのを邪魔すんだ！！"
+        },
+        {
+          "scriptMessageId": "25081",
+          "speechCharactorId": "588",
+          "message": "…止めるぞ"
+        },
+        {
+          "scriptMessageId": "25082",
+          "speechCharactorId": "589",
+          "message": "ああ！！"
+        },
+        {
+          "scriptMessageId": "25083",
+          "speechCharactorId": "591",
+          "message": "ブッコローーーーー"
+        },
+        {
+          "scriptMessageId": "25084",
+          "speechCharactorId": "589",
+          "message": "あ、コレ、重吾じゃない"
+        },
+        {
+          "scriptMessageId": "25085",
+          "speechCharactorId": "588",
+          "message": "……呪印のコピー……\r\n でもないな…"
+        },
+        {
+          "scriptMessageId": "25086",
+          "speechCharactorId": "589",
+          "message": "紛らわしいんだよテメー！！"
+        },
+        {
+          "scriptMessageId": "25087",
+          "speechCharactorId": "589",
+          "message": "ねぇ～サスケェ…\r\n もう騒がしいところはやめてェ…"
+        },
+        {
+          "scriptMessageId": "25088",
+          "speechCharactorId": "589",
+          "message": "ウチと二人でェ～…"
+        },
+        {
+          "scriptMessageId": "25089",
+          "speechCharactorId": "588",
+          "message": "……あれは……"
+        },
+        {
+          "scriptMessageId": "25090",
+          "speechCharactorId": "593",
+          "message": "トリックオアナル―トォ！？"
+        },
+        {
+          "scriptMessageId": "25091",
+          "speechCharactorId": "589",
+          "message": "次から次へとなんで邪魔が！！\r\n それに誰だテメー！！"
+        },
+        {
+          "scriptMessageId": "25092",
+          "speechCharactorId": "588",
+          "message": "……こいつに似たお調子者は\r\n よく知っている…が、違うな"
+        },
+        {
+          "scriptMessageId": "25093",
+          "speechCharactorId": "589",
+          "message": "お調子者過ぎるだろ！？"
+        },
+        {
+          "scriptMessageId": "25094",
+          "speechCharactorId": "594",
+          "message": "カボカボ！！"
+        },
+        {
+          "scriptMessageId": "25095",
+          "speechCharactorId": "589",
+          "message": "………何だコレ"
+        },
+        {
+          "scriptMessageId": "25096",
+          "speechCharactorId": "588",
+          "message": "……………殲滅する"
+        },
+        {
+          "scriptMessageId": "25097",
+          "speechCharactorId": "589",
+          "message": "サスケ…カッコいい！！"
+        },
+        {
+          "scriptMessageId": "25098",
+          "speechCharactorId": "594",
+          "message": "…………"
+        },
+        {
+          "scriptMessageId": "25099",
+          "speechCharactorId": "588",
+          "message": "次に行くぞ…"
+        },
+        {
+          "scriptMessageId": "25100",
+          "speechCharactorId": "589",
+          "message": "お、おう……\r\n （なかったことにするサスケも…）"
+        },
+        {
+          "scriptMessageId": "25101",
+          "speechCharactorId": "589",
+          "message": "カッコいい……"
+        },
+        {
+          "scriptMessageId": "25102",
+          "speechCharactorId": "589",
+          "message": "おい、サスケ\r\n アレじゃないか！？"
+        },
+        {
+          "scriptMessageId": "25103",
+          "speechCharactorId": "588",
+          "message": "……イタチ！！"
+        },
+        {
+          "scriptMessageId": "25104",
+          "speechCharactorId": "589",
+          "message": "あ、サスケ！！"
+        },
+        {
+          "scriptMessageId": "25105",
+          "speechCharactorId": "589",
+          "message": "待てって！\r\n チッ行くしかない…！！"
+        },
+        {
+          "scriptMessageId": "25106",
+          "speechCharactorId": "588",
+          "message": "………違う…"
+        },
+        {
+          "scriptMessageId": "25107",
+          "speechCharactorId": "589",
+          "message": "違うのか！？"
+        },
+        {
+          "scriptMessageId": "25108",
+          "speechCharactorId": "594",
+          "message": "カボ…"
+        },
+        {
+          "scriptMessageId": "25109",
+          "speechCharactorId": "588",
+          "message": "何だ…？"
+        },
+        {
+          "scriptMessageId": "25110",
+          "speechCharactorId": "589",
+          "message": "なんかスゲー光って…"
+        },
+        {
+          "scriptMessageId": "25111",
+          "speechCharactorId": "594",
+          "message": "チャ…"
+        },
+        {
+          "scriptMessageId": "25112",
+          "speechCharactorId": "590",
+          "message": "お菓子をくれなきゃイタズラするぞ"
+        },
+        {
+          "scriptMessageId": "25113",
+          "speechCharactorId": "589",
+          "message": "カボチャの中からサスケが！？\r\n しかも幼い！？それにいっぱい！？"
+        },
+        {
+          "scriptMessageId": "25114",
+          "speechCharactorId": "589",
+          "message": "ここはサスケパラダイスーーーーーーー！！"
+        },
+        {
           "scriptMessageId": "40001",
           "speechCharactorId": "178",
           "message": "絶望しかないこの世界に\r\n存在する価値はない"
