@@ -10205,6 +10205,32 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "801",
+          "name": "不倶戴天の牙",
+          "description": "勇と心属性の最大HPと全スキルダメージを50%アップする",
+          "effectIdx1": "680",
+          "effectIdx2": "682",
+          "effectIdx3": "0",
+          "compType": "2",
+          "target1Category": "1",
+          "target1Param": "7",
+          "target2Category": "1",
+          "target2Param": "1"
+        },
+        {
+          "cardLeaderSkillId": "802",
+          "name": "偏愛の吸血姫",
+          "description": "無所属の最大HPと攻撃力を60%アップする",
+          "effectIdx1": "10059",
+          "effectIdx2": "378",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "99",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8508",
           "name": "決別の祈り",
           "description": "技属性の最大HP・攻撃・スキルダメージを100%アップする",

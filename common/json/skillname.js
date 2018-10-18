@@ -5360,6 +5360,22 @@ window.skillname=[
           "name": "これがオレの生き様だ！"
         },
         {
+          "cardBattleSkillNameId": "2537",
+          "name": "恍惚の吸宴"
+        },
+        {
+          "cardBattleSkillNameId": "2538",
+          "name": "ヒヒヒ…興奮するゥゥ…"
+        },
+        {
+          "cardBattleSkillNameId": "2539",
+          "name": "蝙蝠で語る饗宴"
+        },
+        {
+          "cardBattleSkillNameId": "2540",
+          "name": "仮装を…なめるな"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },
