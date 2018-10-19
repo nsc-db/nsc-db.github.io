@@ -8425,6 +8425,30 @@
           "effectIdx2": "1838",
           "effectIdx3": "0",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "716",
+          "targetCrystal": "11013",
+          "description": "最大HPを200%アップし、弱体と状態異常を半減する",
+          "charaIds": "1901,1902,1903,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "10100",
+          "effectIdx2": "776",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "717",
+          "targetCrystal": "11014",
+          "description": "HP80％以上の時に攻撃力と素早さを100％アップし、スキル発動速度1段階アップ",
+          "charaIds": "1901,1902,1903,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1943",
+          "effectIdx2": "1944",
+          "effectIdx3": "1391",
+          "effectIdx4": "0"
         }
       ]
     }

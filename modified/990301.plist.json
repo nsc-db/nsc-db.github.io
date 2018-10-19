@@ -15763,6 +15763,38 @@
           "recipeName": "超大玉螺旋丸・軌跡"
         },
         {
+          "crystalId": "11013",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "775",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "柱間の樹木",
+          "crystalDescription": "弱体と状態異常を軽減する",
+          "crystalImageId": "110135",
+          "recipeId": "11013",
+          "recipeName": "柱間の樹木"
+        },
+        {
+          "crystalId": "11014",
+          "crystalType": "3",
+          "crystalRare": "5",
+          "effectIdx1": "1941",
+          "effectIdx2": "1942",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "柱間の鉢巻",
+          "crystalDescription": "HP90％以上の時に攻撃力と素早さを40％アップ",
+          "crystalImageId": "110145",
+          "recipeId": "11014",
+          "recipeName": "柱間の鉢巻"
+        },
+        {
           "crystalId": "11015",
           "crystalType": "11",
           "crystalRare": "5",

@@ -1123,9 +1123,9 @@
         {
           "worldStageId": "6025",
           "worldAreaId": "5",
-          "priority": "40",
+          "priority": "3",
           "name": "雌雄決戦任務-木ノ葉創生-",
-          "description": "雌雄Ptをゲットして固有忍具や素材と交換しよう。\r\n「スタミナ消費なし」対象外となります",
+          "description": "雌雄Ptをゲットして固有忍具や素材と交換しよう。",
           "notice": "※イベントの内容及び日程は告知なく変更となる場合がございます。\r\n※イベント難易度はAランクから超絶ランクとなります。",
           "type": "0",
           "prerequisiteWorldStageId": "0",

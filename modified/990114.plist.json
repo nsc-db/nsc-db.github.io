@@ -1491,6 +1491,16 @@
           "subScore": "0",
           "color": "8355839",
           "type": "2"
+        },
+        {
+          "cardUnusualId": "152",
+          "category": "3",
+          "iconId": "1169",
+          "name": "火の意志",
+          "description": "攻撃・防御・素早さ・スキルダメージがアップし、行動後にHPが回復",
+          "subScore": "0",
+          "color": "16744448",
+          "type": "2"
         }
       ]
     }
