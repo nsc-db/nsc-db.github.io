@@ -6279,4 +6279,20 @@ window.tags=[
           "pvp": "",
           "nickname": "2018 Birthday Naruto"
 },
+{
+          "cardId": "20041010",
+          "rare": "5",
+          "tag": "limited-6",
+          "rate": "",
+          "pvp": "",
+          "nickname": "Vampire Sasuke"
+},
+{
+          "cardId": "20041011",
+          "rare": "5",
+          "tag": "limited-6",
+          "rate": "",
+          "pvp": "",
+          "nickname": "Vampire Karin"
+},
 ]

@@ -10204,4 +10204,30 @@ window.lead=[
           "target2Category": "0",
           "target2Param": "0"
         },
+        {
+          "cardLeaderSkillId": "801",
+          "name": "不倶戴天の牙",
+          "description": "Courage and Heart Type Maximum HP and Skill Damage +50%",
+          "effectIdx1": "680",
+          "effectIdx2": "682",
+          "effectIdx3": "0",
+          "compType": "2",
+          "target1Category": "1",
+          "target1Param": "7",
+          "target2Category": "1",
+          "target2Param": "1"
+        },
+        {
+          "cardLeaderSkillId": "802",
+          "name": "偏愛の吸血姫",
+          "description": "None Characters Maximum HP and ATK +60%",
+          "effectIdx1": "10059",
+          "effectIdx2": "378",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "99",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
 ]

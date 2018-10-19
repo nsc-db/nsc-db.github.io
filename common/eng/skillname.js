@@ -6701,6 +6701,26 @@ window.skillname=[
           "eng": "This is My Way of Life"
         },
         {
+          "cardBattleSkillNameId": "2537",
+          "name": "恍惚の吸宴",
+          "eng": "Ecstasy Banquet"
+        },
+        {
+          "cardBattleSkillNameId": "2538",
+          "name": "ヒヒヒ…興奮するゥゥ…",
+          "eng": "Hehehhe... Excitment..."
+        },
+        {
+          "cardBattleSkillNameId": "2539",
+          "name": "蝙蝠で語る饗宴",
+          "eng": "Feast of the Bats"
+        },
+        {
+          "cardBattleSkillNameId": "2540",
+          "name": "仮装を…なめるな",
+          "eng": "Don't Laugh at the Costume"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！",
           "eng": ""

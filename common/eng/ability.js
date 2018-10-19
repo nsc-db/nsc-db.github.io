@@ -17757,6 +17757,42 @@ window.ability=[
           "effectIdx3": "1924"
         },
         {
+          "abilityId": "2031",
+          "abilityName": "Battle of Costumes",
+          "abilityDescription": "SPD +50%. For 1 turn, Skill Damage +1,000%",
+          "abilityEffectDescription": "素早さ50%アップ、1回行動するまでスキルダメージ1,000%アップ",
+          "effectIdx1": "13049",
+          "effectIdx2": "1935",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2032",
+          "abilityName": "Costume Revolution",
+          "abilityDescription": "ATK +1,000% when HP is above 99%",
+          "abilityEffectDescription": "HP99%以上の時、攻撃力1,000%アップ",
+          "effectIdx1": "1936",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2033",
+          "abilityName": "Attracting Energy",
+          "abilityDescription": "When attacked by an enemy 'Sasuke Uchiha', immune to all Skills including Fixed Damage and recovery 100% HP",
+          "abilityEffectDescription": "敵のうちはサスケから攻撃を受けた時、耐性無視を含む全スキルと通常攻撃を無効化しHPを全回復",
+          "effectIdx1": "1930",
+          "effectIdx2": "1931",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2034",
+          "abilityName": "Overflowing Blood Energy",
+          "abilityDescription": "If one of the ally is 'Sasuke Uchiha', ATK, DEF and SPD +25% per turn (Max 1,000%)",
+          "abilityEffectDescription": "味方にうちはサスケが生存していると、行動するたび攻撃・防御・素早さ25%アップ（最大1,000%）",
+          "effectIdx1": "1940",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
