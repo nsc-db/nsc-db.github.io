@@ -17757,6 +17757,24 @@ window.ability=[
           "effectIdx3": "1924"
         },
         {
+          "abilityId": "2029",
+          "abilityName": "Exceptional Chakra",
+          "abilityDescription": "Maximum Chakra +200 and Chakra Recovery +15%",
+          "abilityEffectDescription": "最大チャクラ量が200アップし、行動後にチャクラが15%回復する",
+          "effectIdx1": "20019",
+          "effectIdx2": "648",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2030",
+          "abilityName": "Power of Growth of Trees",
+          "abilityDescription": "Maximum HP +200% and HP Regen +15%",
+          "abilityEffectDescription": "最大HPが200%アップし、行動後にHPが15%回復する",
+          "effectIdx1": "10100",
+          "effectIdx2": "735",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "2031",
           "abilityName": "Battle of Costumes",
           "abilityDescription": "SPD +50%. For 1 turn, Skill Damage +1,000%",

@@ -6721,6 +6721,16 @@ window.skillname=[
           "eng": "Don't Laugh at the Costume"
         },
         {
+          "cardBattleSkillNameId": "2541",
+          "name": "花樹界降誕・樹王無尽",
+          "eng": "Flower Deep Forest Emergence: Limitless King"
+        },
+        {
+          "cardBattleSkillNameId": "2542",
+          "name": "終わりにしよう……",
+          "eng": "Let's End This...."
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！",
           "eng": ""

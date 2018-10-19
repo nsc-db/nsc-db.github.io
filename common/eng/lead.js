@@ -10205,6 +10205,19 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "800",
+          "name": "大樹が如く",
+          "description": "Konoha Characters ATK, DEF, SPD and Skill Damage +120%, Incoming Skill Damage -50%",
+          "effectIdx1": "1851",
+          "effectIdx2": "30011",
+          "effectIdx3": "20501",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "801",
           "name": "不倶戴天の牙",
           "description": "Courage and Heart Type Maximum HP and Skill Damage +50%",

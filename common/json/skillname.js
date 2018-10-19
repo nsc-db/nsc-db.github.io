@@ -5376,6 +5376,14 @@ window.skillname=[
           "name": "仮装を…なめるな"
         },
         {
+          "cardBattleSkillNameId": "2541",
+          "name": "花樹界降誕・樹王無尽"
+        },
+        {
+          "cardBattleSkillNameId": "2542",
+          "name": "終わりにしよう……"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },
