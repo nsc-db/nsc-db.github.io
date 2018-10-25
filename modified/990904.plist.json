@@ -367,19 +367,6 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
-          "worldStageId": "1066",
-          "worldAreaId": "5",
-          "priority": "3",
-          "name": "戦場のボーイズライフ",
-          "description": "カカシ外伝を追体験しよう！\r\n★５はたけカカシゲットのチャンス！",
-          "notice": "0",
-          "type": "0",
-          "prerequisiteWorldStageId": "0",
-          "openWeek": null,
-          "openTime": "0000.00.00 00:00:00",
-          "closeTime": "0000.00.00 00:00:00"
-        },
-        {
           "worldStageId": "1077",
           "worldAreaId": "5",
           "priority": "30",
@@ -437,6 +424,19 @@
           "priority": "2",
           "name": "少女は南瓜の夢を見る",
           "description": "この物語は夢の中のお話…\r\nサスケ・香燐など、特定のキャラに\r\n効果のある固有忍具を獲得しよう！",
+          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
+          "worldStageId": "1200",
+          "worldAreaId": "5",
+          "priority": "2",
+          "name": "大蛇丸の音隠れの里発展計画！",
+          "description": "里の人数を増やして\r\n大蛇丸の新規固有忍具を獲得しよう！\r\n序章クリアでは\r\nPマイル★5薬師カブト【蛇傑の側近】を獲得！",
           "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
           "type": "0",
           "prerequisiteWorldStageId": "0",

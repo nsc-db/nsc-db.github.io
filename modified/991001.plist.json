@@ -63118,6 +63118,171 @@
           "message": "ここはサスケパラダイスーーーーーーー！！"
         },
         {
+          "scriptMessageId": "25115",
+          "speechCharactorId": "4",
+          "message": "よく来たわね\r\nこれから任務をお願いするわ"
+        },
+        {
+          "scriptMessageId": "25116",
+          "speechCharactorId": "4",
+          "message": "簡単な任務よ\r\n音隠れの里を発展させる為に\r\n敵を倒してきてちょうだい"
+        },
+        {
+          "scriptMessageId": "25117",
+          "speechCharactorId": "4",
+          "message": "任務に出てくる敵を倒すと\r\n里の忍の数が増えていくわ"
+        },
+        {
+          "scriptMessageId": "25118",
+          "speechCharactorId": "4",
+          "message": "敵の中には特別な忍も出てくる…\r\n場合もあるわ"
+        },
+        {
+          "scriptMessageId": "25119",
+          "speechCharactorId": "4",
+          "message": "さあ、私の為に頑張ってちょうだい"
+        },
+        {
+          "scriptMessageId": "25120",
+          "speechCharactorId": "4",
+          "message": "さあ、まずは…\r\nこの子たちを片付けてちょうだい"
+        },
+        {
+          "scriptMessageId": "25121",
+          "speechCharactorId": "4",
+          "message": "アナタの実力なら簡単なハズよ"
+        },
+        {
+          "scriptMessageId": "25122",
+          "speechCharactorId": "4",
+          "message": "この調子で300人以上にしなさい"
+        },
+        {
+          "scriptMessageId": "25123",
+          "speechCharactorId": "4",
+          "message": "まだまだ増やすわよ\r\n今度はそうね…1000人集めなさい"
+        },
+        {
+          "scriptMessageId": "25124",
+          "speechCharactorId": "4",
+          "message": "簡単でしょう？"
+        },
+        {
+          "scriptMessageId": "25125",
+          "speechCharactorId": "4",
+          "message": "まだまだ増やすわよ\r\n今度はそうね…1000人集めなさい"
+        },
+        {
+          "scriptMessageId": "25126",
+          "speechCharactorId": "4",
+          "message": "簡単でしょう？"
+        },
+        {
+          "scriptMessageId": "25127",
+          "speechCharactorId": "554",
+          "message": "あれは君麻呂…！"
+        },
+        {
+          "scriptMessageId": "25128",
+          "speechCharactorId": "554",
+          "message": "君麻呂を私のところに\r\n連れてきてちょおだぁい！！"
+        },
+        {
+          "scriptMessageId": "25129",
+          "speechCharactorId": "4",
+          "message": "いい調子ね…\r\nそうね今度は5000人集めなさい"
+        },
+        {
+          "scriptMessageId": "25130",
+          "speechCharactorId": "4",
+          "message": "まだまだ元気でしょう？"
+        },
+        {
+          "scriptMessageId": "25131",
+          "speechCharactorId": "4",
+          "message": "いい調子ね…\r\nそうね今度は5000人集めなさい"
+        },
+        {
+          "scriptMessageId": "25132",
+          "speechCharactorId": "4",
+          "message": "まだまだ元気でしょう？"
+        },
+        {
+          "scriptMessageId": "25133",
+          "speechCharactorId": "554",
+          "message": "あれはサスケ君ね...！"
+        },
+        {
+          "scriptMessageId": "25134",
+          "speechCharactorId": "554",
+          "message": "さあ、サスケ君を私のところに連れてきてちょおだぁい！！"
+        },
+        {
+          "scriptMessageId": "25135",
+          "speechCharactorId": "554",
+          "message": "もっとよ、もっと達成しなさい！"
+        },
+        {
+          "scriptMessageId": "25136",
+          "speechCharactorId": "554",
+          "message": "どんどん人数を増やしていくのよ…"
+        },
+        {
+          "scriptMessageId": "25137",
+          "speechCharactorId": "554",
+          "message": "いいわ...とてもいいわ！\r\nさあ、もっともっとよ！！"
+        },
+        {
+          "scriptMessageId": "25138",
+          "speechCharactorId": "554",
+          "message": "あれは......！？！？"
+        },
+        {
+          "scriptMessageId": "25139",
+          "speechCharactorId": "554",
+          "message": "イタチを私にちょおだぁぁぁい！！"
+        },
+        {
+          "scriptMessageId": "25140",
+          "speechCharactorId": "554",
+          "message": "ククク...随分と人数が集まったわ\r\nさあ...行きましょうか"
+        },
+        {
+          "scriptMessageId": "25141",
+          "speechCharactorId": "2",
+          "message": "大蛇丸......\r\nやはりあの時、倒しておくべきであった"
+        },
+        {
+          "scriptMessageId": "25142",
+          "speechCharactorId": "554",
+          "message": "フフフフ......\r\n残念ですね、これでお別れなんて"
+        },
+        {
+          "scriptMessageId": "25143",
+          "speechCharactorId": "554",
+          "message": "さあ、戦いの始まりですよ"
+        },
+        {
+          "scriptMessageId": "25144",
+          "speechCharactorId": "554",
+          "message": "フフフフ......\r\nこれでようやく…"
+        },
+        {
+          "scriptMessageId": "25145",
+          "speechCharactorId": "554",
+          "message": "アナタには感謝してるわ\r\n......さぁもっと、もっと忍を集めましょう\r\n真理へたどり着くために！"
+        },
+        {
+          "scriptMessageId": "25146",
+          "speechCharactorId": "554",
+          "message": "ククク......\r\nその調子よ！\r\n私にその力を見せてちょうだい"
+        },
+        {
+          "scriptMessageId": "25147",
+          "speechCharactorId": "554",
+          "message": "ククク......\r\nその調子よ！\r\n私にその力を見せてちょうだい"
+        },
+        {
           "scriptMessageId": "40001",
           "speechCharactorId": "178",
           "message": "絶望しかないこの世界に\r\n存在する価値はない"

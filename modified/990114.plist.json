@@ -1501,6 +1501,26 @@
           "subScore": "0",
           "color": "16744448",
           "type": "2"
+        },
+        {
+          "cardUnusualId": "153",
+          "category": "3",
+          "iconId": "1170",
+          "name": "不滅",
+          "description": "味方への単体攻撃を代わりに受ける。攻撃に耐えた際に敵に対して状態を付与",
+          "subScore": "0",
+          "color": "9127187",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "155",
+          "category": "3",
+          "iconId": "1171",
+          "name": "混沌",
+          "description": "発生毎にカウントが増加。スキル発動速度の段階と素早さダウン",
+          "subScore": "0",
+          "color": "13882323",
+          "type": "3"
         }
       ]
     }

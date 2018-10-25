@@ -10260,6 +10260,32 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "803",
+          "name": "混沌の蛇傑",
+          "description": "音隠れの里所属と無所属の攻撃力と素早さを60%アップする",
+          "effectIdx1": "378",
+          "effectIdx2": "13059",
+          "effectIdx3": "0",
+          "compType": "2",
+          "target1Category": "2",
+          "target1Param": "4",
+          "target2Category": "2",
+          "target2Param": "99"
+        },
+        {
+          "cardLeaderSkillId": "804",
+          "name": "蛇傑の側近",
+          "description": "音隠れの里所属の最大HPが50％アップし、行動後にチャクラが10%回復する",
+          "effectIdx1": "680",
+          "effectIdx2": "528",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "4",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

@@ -824,8 +824,8 @@
         {
           "abilityId": "92",
           "abilityName": "愛の形",
-          "abilityDescription": "スキルを受けた時、確率で無効化する。",
-          "abilityEffectDescription": "スキルを受けた時、確率で無効化する。",
+          "abilityDescription": "スキルを回避し無効化する",
+          "abilityEffectDescription": "スキルを回避し無効化する",
           "effectIdx1": "27",
           "effectIdx2": "0",
           "effectIdx3": "0"
@@ -968,8 +968,8 @@
         {
           "abilityId": "108",
           "abilityName": "透過する体",
-          "abilityDescription": "確率でスキルを無効化する",
-          "abilityEffectDescription": "確率でスキルを無効化する",
+          "abilityDescription": "確率でスキルを回避し無効化する",
+          "abilityEffectDescription": "確率でスキルを回避し無効化する",
           "effectIdx1": "27",
           "effectIdx2": "0",
           "effectIdx3": "0"
@@ -1004,8 +1004,8 @@
         {
           "abilityId": "112",
           "abilityName": "飛雷神の術",
-          "abilityDescription": "確率でスキルを無効化する",
-          "abilityEffectDescription": "確率でスキルを無効化する",
+          "abilityDescription": "確率でスキルを回避し無効化する",
+          "abilityEffectDescription": "確率でスキルを回避し無効化する",
           "effectIdx1": "27",
           "effectIdx2": "0",
           "effectIdx3": "0"
@@ -4658,8 +4658,8 @@
         {
           "abilityId": "518",
           "abilityName": "鋭い分析力",
-          "abilityDescription": "HPが40%以下の時、全スキルダメージを軽減し、確率でスキルを無効化する",
-          "abilityEffectDescription": "HPが40%以下の時、全スキルダメージを軽減し、確率でスキルを無効化する",
+          "abilityDescription": "HPが40%以下の時、全スキルダメージを軽減し、確率でスキルを回避し無効化する",
+          "abilityEffectDescription": "HPが40%以下の時、全スキルダメージを軽減し、確率でスキルを回避し無効化する",
           "effectIdx1": "701",
           "effectIdx2": "720",
           "effectIdx3": "0"
@@ -5288,8 +5288,8 @@
         {
           "abilityId": "588",
           "abilityName": "愛の形",
-          "abilityDescription": "HPが50％アップし弱体を無効化、確率でスキルを無効化する",
-          "abilityEffectDescription": "HPが50％アップし弱体を無効化、確率でスキルを無効化する",
+          "abilityDescription": "HPが50％アップし弱体を無効化、確率でスキルを回避し無効化する",
+          "abilityEffectDescription": "HPが50％アップし弱体を無効化、確率でスキルを回避し無効化する",
           "effectIdx1": "27",
           "effectIdx2": "788",
           "effectIdx3": "10049"
@@ -8105,8 +8105,8 @@
         {
           "abilityId": "901",
           "abilityName": "飛雷神の術",
-          "abilityDescription": "最大HPが50％アップし、高確率でスキルを無効化する",
-          "abilityEffectDescription": "最大HPが50％アップし、高確率でスキルを無効化する",
+          "abilityDescription": "最大HPが50％アップし、高確率でスキルを回避し無効化する",
+          "abilityEffectDescription": "最大HPが50％アップし、高確率でスキルを回避し無効化する",
           "effectIdx1": "968",
           "effectIdx2": "680",
           "effectIdx3": "0"
@@ -8321,8 +8321,8 @@
         {
           "abilityId": "925",
           "abilityName": "鋭い分析力",
-          "abilityDescription": "HPが60%以下の時、全スキルダメージを軽減し、確率でスキルを無効化する",
-          "abilityEffectDescription": "HPが60%以下の時、全スキルダメージを軽減し、確率でスキルを無効化する",
+          "abilityDescription": "HPが60%以下の時、全スキルダメージを軽減し、確率でスキルを回避し無効化する",
+          "abilityEffectDescription": "HPが60%以下の時、全スキルダメージを軽減し、確率でスキルを回避し無効化する",
           "effectIdx1": "1046",
           "effectIdx2": "1047",
           "effectIdx3": "0"
@@ -17828,6 +17828,42 @@
           "abilityDescription": "味方にうちはサスケが生存していると、行動するたび攻撃・防御・素早さ25%アップ（最大1,000%）",
           "abilityEffectDescription": "味方にうちはサスケが生存していると、行動するたび攻撃・防御・素早さ25%アップ（最大1,000%）",
           "effectIdx1": "1940",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2035",
+          "abilityName": "忍術への執念",
+          "abilityDescription": "HPが0以下で3回までHPが全回復する",
+          "abilityEffectDescription": "HPが0以下で3回までHPが全回復する",
+          "effectIdx1": "1789",
+          "effectIdx2": "874",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2036",
+          "abilityName": "不滅への渇望",
+          "abilityDescription": "HP50%以下の時、攻撃・防御・素早さ・スキルダメージを80%アップする",
+          "abilityEffectDescription": "HP50%以下の時、攻撃・防御・素早さ・スキルダメージを80%アップする",
+          "effectIdx1": "1946",
+          "effectIdx2": "1947",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2037",
+          "abilityName": "冷血の医療",
+          "abilityDescription": "医療タイプのスキルダメージが50％アップし、行動後にHPを10%回復する",
+          "abilityEffectDescription": "医療タイプのスキルダメージが50％アップし、行動後にHPを10%回復する",
+          "effectIdx1": "1951",
+          "effectIdx2": "357",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2038",
+          "abilityName": "蛇悪への忠心",
+          "abilityDescription": "HP80%以上の時、スキル発動速度が1段階アップ",
+          "abilityEffectDescription": "HP80%以上の時、スキル発動速度が1段階アップ",
+          "effectIdx1": "1391",
           "effectIdx2": "0",
           "effectIdx3": "0"
         },
