@@ -6280,6 +6280,14 @@ window.tags=[
           "nickname": "2018 Birthday Naruto"
 },
 {
+          "cardId": "20041009",
+          "rare": "5",
+          "tag": "ex-6",
+          "rate": "",
+          "pvp": "",
+          "nickname": "Black Hashi"
+},
+{
           "cardId": "20041010",
           "rare": "5",
           "tag": "limited-6",

@@ -1776,6 +1776,18 @@ window.vo=[
           "voiceDeath": "naruto_death_02_04"
         },
         {
+          "cardVoiceId": "149",
+          "cardId": "20041009",
+          "dirName": "hashirama",
+          "evolutionStep": "",
+          "voiceAppear": "hashirama_battle_02_03",
+          "voiceSkill1": "hashirama_attack_02_02,hashirama_damage_02_02",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "hashirama_win_02_02",
+          "voiceDeath": "hashirama_death_02_02"
+        },
+        {
           "cardVoiceId": "8002",
           "cardId": "80000002",
           "dirName": "sasuke",
