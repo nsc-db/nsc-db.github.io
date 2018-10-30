@@ -17778,6 +17778,24 @@
           "effectIdx3": "1924"
         },
         {
+          "abilityId": "2027",
+          "abilityName": "イタチの生き様",
+          "abilityDescription": "HP0以下で1回までHP全回復、6回行動するまでチャクラ消費量が半減",
+          "abilityEffectDescription": "HP0以下で1回までHP全回復、6回行動するまでチャクラ消費量が半減",
+          "effectIdx1": "312",
+          "effectIdx2": "874",
+          "effectIdx3": "1382"
+        },
+        {
+          "abilityId": "2028",
+          "abilityName": "孤高の火影",
+          "abilityDescription": "敵に超忍祭限定キャラか木ノ葉隠れの里所属がいると素早さ100%アップ、どちらもいると素早さ200%アップ",
+          "abilityEffectDescription": "敵に超忍祭限定キャラか木ノ葉隠れの里所属がいると素早さ100%アップ、どちらもいると素早さ200%アップ",
+          "effectIdx1": "1953",
+          "effectIdx2": "1954",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "2029",
           "abilityName": "桁外れのチャクラ",
           "abilityDescription": "最大チャクラ量が200アップし、行動後にチャクラが15%回復する",
@@ -17864,6 +17882,24 @@
           "abilityDescription": "HP80%以上の時、スキル発動速度が1段階アップ",
           "abilityEffectDescription": "HP80%以上の時、スキル発動速度が1段階アップ",
           "effectIdx1": "1391",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2039",
+          "abilityName": "容赦なき制裁",
+          "abilityDescription": "班の木ノ葉隠れの里所属のキャラ1体につき、素早さが10％アップ（自身含む）",
+          "abilityEffectDescription": "班の木ノ葉隠れの里所属のキャラ1体につき、素早さが10％アップ（自身含む）",
+          "effectIdx1": "658",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2040",
+          "abilityName": "資質を問う仕込み",
+          "abilityDescription": "3回行動するまで確率でスキルを回避する",
+          "abilityEffectDescription": "3回行動するまで確率でスキルを回避する",
+          "effectIdx1": "1912",
           "effectIdx2": "0",
           "effectIdx3": "0"
         },

@@ -1791,6 +1791,18 @@
           "voiceDeath": "orochimaru_death_02_03"
         },
         {
+          "cardVoiceId": "151",
+          "cardId": "20041110",
+          "dirName": "sasuke",
+          "evolutionStep": "",
+          "voiceAppear": "sasuke_skill_02_31",
+          "voiceSkill1": "sasuke_skill_02_13,sasuke_skill_02_27",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "sasuke_skill_02_33",
+          "voiceDeath": "sasuke_death_02_09"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

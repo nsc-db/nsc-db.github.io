@@ -1521,6 +1521,16 @@
           "subScore": "0",
           "color": "13882323",
           "type": "3"
+        },
+        {
+          "cardUnusualId": "156",
+          "category": "3",
+          "iconId": "1174",
+          "name": "革命",
+          "description": "特定スキル耐性上昇、耐性無視効果を無効化＆耐性無視を除く味方全体に対してのスキル無効化",
+          "subScore": "0",
+          "color": "10104574",
+          "type": "2"
         }
       ]
     }

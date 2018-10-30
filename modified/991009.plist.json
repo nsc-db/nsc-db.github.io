@@ -1755,6 +1755,18 @@
           "itemImgId": "299"
         },
         {
+          "shopExchangeItemId": "300",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "301",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
           "shopExchangeItemId": "1001",
           "itemName": "下心Pt",
           "measure": null,
@@ -2130,6 +2142,12 @@
           "shopExchangeItemId": "2039",
           "itemName": "祭札[10月]",
           "measure": null,
+          "itemImgId": "41"
+        },
+        {
+          "shopExchangeItemId": "2040",
+          "itemName": "祭札[11月]",
+          "measure": "0",
           "itemImgId": "41"
         },
         {

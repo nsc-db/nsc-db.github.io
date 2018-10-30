@@ -583,6 +583,26 @@
           "enemyEffects": null
         },
         {
+          "battleFieldEffectId": "67",
+          "name": "インドラの矢　超絶",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "1840,1814,",
+          "enemyEffects": null
+        },
+        {
+          "battleFieldEffectId": "68",
+          "name": "インドラの矢　超絶",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "13049,1840,1814,",
+          "enemyEffects": null
+        },
+        {
           "battleFieldEffectId": "10001",
           "name": "始球空間",
           "category": "3",

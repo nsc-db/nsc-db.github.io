@@ -445,6 +445,19 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
+          "worldStageId": "1201",
+          "worldAreaId": "5",
+          "priority": "2",
+          "name": "大激闘-霜月の陣-",
+          "description": "ランパートではドロップではなく\r\nクリア時に個人Ptを獲得できます。",
+          "notice": "※報酬のキャラは先行配信であり、後日別の手段で入手可能になります。\r\n※イベントの内容及び日程は告知なく変更となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
           "worldStageId": "2061",
           "worldAreaId": "5",
           "priority": "30",
@@ -510,12 +523,12 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
-          "worldStageId": "4017",
+          "worldStageId": "4065",
           "worldAreaId": "5",
           "priority": "3",
-          "name": "ナルト戦場へ…!!",
-          "description": "個人Ptを集めて★５エー【意志の見極め方】や\r\nエー、ビーとナルトの固有忍具を獲得しよう！",
-          "notice": "※個人Ptはイベントの開催期間中に獲得した物のみ有効となります。\r\n※個人Pt報酬は、達成と同時に直接付与されます。",
+          "name": "戦場、木ノ葉!!",
+          "description": "個人Ptを集めて★５ペイン【憎しみの連鎖】や\r\nペイン、ナルト、木ノ葉丸の固有忍具を獲得しよう！",
+          "notice": "※個人pt報酬は、達成と同時に直接付与されます。\r\n※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
           "type": "0",
           "prerequisiteWorldStageId": "0",
           "openWeek": null,
@@ -523,12 +536,12 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
-          "worldStageId": "4065",
+          "worldStageId": "4083",
           "worldAreaId": "5",
-          "priority": "3",
-          "name": "戦場、木ノ葉!!",
-          "description": "個人Ptを集めて★５ペイン【憎しみの連鎖】や\r\nペイン、ナルト、木ノ葉丸の固有忍具を獲得しよう！",
-          "notice": "※個人pt報酬は、達成と同時に直接付与されます。\r\n※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
+          "priority": "1",
+          "name": "インドラの矢",
+          "description": "ナルトとサスケ…\r\n二人の英雄の全てをかけた戦いがはじまる！",
+          "notice": "※個人Pt報酬は、達成と同時に直接付与されます。\r\n※報酬の付与にはお時間をいただく場合がございます。\r\n※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
           "type": "0",
           "prerequisiteWorldStageId": "0",
           "openWeek": null,

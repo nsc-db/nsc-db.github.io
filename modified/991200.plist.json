@@ -8473,6 +8473,30 @@
           "effectIdx2": "1950",
           "effectIdx3": "0",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "720",
+          "targetCrystal": "11115",
+          "description": "チャクラ消費量が半減し、素早さ50%アップ、最大HP150%アップ",
+          "charaIds": "207,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "895",
+          "effectIdx2": "112",
+          "effectIdx3": "1212",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "721",
+          "targetCrystal": "11116",
+          "description": "最大HPと攻撃力が120%アップ、スキルダメージ50%アップ",
+          "charaIds": "207,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1221",
+          "effectIdx2": "736",
+          "effectIdx3": "682",
+          "effectIdx4": "0"
         }
       ]
     }

@@ -770,6 +770,19 @@
           "selectType": "1"
         },
         {
+          "itemId": "11060",
+          "name": "11月限定ラーメン(2018)",
+          "description": "スタミナを全回復するラーメン（11月30日まで期間限定）",
+          "resultWord": "0",
+          "itemCategoryId": "1",
+          "itemValue": "1000000",
+          "itemNum": "0",
+          "itemImageId": "11020",
+          "needCount": "1",
+          "priority": "1",
+          "selectType": "1"
+        },
+        {
           "itemId": "15001",
           "name": "共闘コイン",
           "description": "共闘コインガチャの実行に必要なコイン。",
@@ -1462,6 +1475,19 @@
           "itemId": "61000",
           "name": "ナルト誕生記念CP応募券",
           "description": "うずまきナルト誕生記念\r\nプレゼントキャンペーン応募券\r\n※抽選は10月下旬を予定",
+          "resultWord": "0",
+          "itemCategoryId": "20",
+          "itemValue": "0",
+          "itemNum": "0",
+          "itemImageId": "0",
+          "needCount": "1",
+          "priority": "1",
+          "selectType": "3"
+        },
+        {
+          "itemId": "61001",
+          "name": "サスケポスター応募券",
+          "description": "闇炎の変革者開催記念！ ポスタープレゼントキャンペーン！！\r\nサスケポスター応募券",
           "resultWord": "0",
           "itemCategoryId": "20",
           "itemValue": "0",

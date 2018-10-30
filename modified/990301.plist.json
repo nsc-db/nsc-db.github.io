@@ -15937,6 +15937,38 @@
           "crystalImageId": "110235",
           "recipeId": "11023",
           "recipeName": "シマの誕生日ケーキ"
+        },
+        {
+          "crystalId": "11115",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "712",
+          "effectIdx2": "5",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "融合された尾獣ﾁｬｸﾗ",
+          "crystalDescription": "チャクラ消費量10%ダウン、素早さ10%アップ",
+          "crystalImageId": "111155",
+          "recipeId": "11115",
+          "recipeName": "融合された尾獣ﾁｬｸﾗ"
+        },
+        {
+          "crystalId": "11116",
+          "crystalType": "1",
+          "crystalRare": "5",
+          "effectIdx1": "680",
+          "effectIdx2": "251",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "サスケの信念",
+          "crystalDescription": "最大HPと攻撃力が50%アップ",
+          "crystalImageId": "111165",
+          "recipeId": "11116",
+          "recipeName": "サスケの信念"
         }
       ]
     }
