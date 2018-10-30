@@ -15888,6 +15888,38 @@ window.gear=[
           "recipeName": "ｼﾞｬｯｸ・ｵｰ・ﾗﾝﾀﾝ"
         },
         {
+          "crystalId": "11021",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "615",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "大蛇丸のイヤリング",
+          "crystalDescription": "全スキルダメージ30％アップ",
+          "crystalImageId": "110215",
+          "recipeId": "11021",
+          "recipeName": "大蛇丸のイヤリング"
+        },
+        {
+          "crystalId": "11022",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "1948",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "大蛇丸の任務服",
+          "crystalDescription": "2回行動するまでチャクラ消費40%ダウン",
+          "crystalImageId": "110225",
+          "recipeId": "11022",
+          "recipeName": "大蛇丸の任務服"
+        },
+        {
           "crystalId": "11023",
           "crystalType": "10",
           "crystalRare": "5",
@@ -15902,5 +15934,37 @@ window.gear=[
           "crystalImageId": "110235",
           "recipeId": "11023",
           "recipeName": "シマの誕生日ケーキ"
+        },
+        {
+          "crystalId": "11115",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "712",
+          "effectIdx2": "5",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "融合された尾獣ﾁｬｸﾗ",
+          "crystalDescription": "チャクラ消費量10%ダウン、素早さ10%アップ",
+          "crystalImageId": "111155",
+          "recipeId": "11115",
+          "recipeName": "融合された尾獣ﾁｬｸﾗ"
+        },
+        {
+          "crystalId": "11116",
+          "crystalType": "1",
+          "crystalRare": "5",
+          "effectIdx1": "680",
+          "effectIdx2": "251",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "サスケの信念",
+          "crystalDescription": "最大HPと攻撃力が50%アップ",
+          "crystalImageId": "111165",
+          "recipeId": "11116",
+          "recipeName": "サスケの信念"
         }
 ]

@@ -1788,15 +1788,27 @@ window.vo=[
           "voiceDeath": "hashirama_death_02_02"
         },
         {
-          "cardVoiceId": "8002",
-          "cardId": "80000002",
-          "dirName": "sasuke",
+          "cardVoiceId": "150",
+          "cardId": "20041012",
+          "dirName": "orochimaru",
           "evolutionStep": "",
-          "voiceAppear": "sasuke_battle_02_04",
-          "voiceSkill1": "sasuke_skill_02_09,sasuke_skill_02_10,sasuke_skill_02_07,sasuke_skill_02_08",
+          "voiceAppear": "orochimaru_battle_02_03",
+          "voiceSkill1": "orochimaru_skill_02_03",
           "voiceSkill2": "",
           "voicePursuit": "",
-          "voiceWin": "sasuke_win_02_03",
-          "voiceDeath": "sasuke_death_02_04"
-        }
+          "voiceWin": "orochimaru_win_02_01",
+          "voiceDeath": "orochimaru_death_02_03"
+        },
+        {
+          "cardVoiceId": "151",
+          "cardId": "20041110",
+          "dirName": "sasuke",
+          "evolutionStep": "",
+          "voiceAppear": "sasuke_skill_02_31",
+          "voiceSkill1": "sasuke_skill_02_13,sasuke_skill_02_27",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "sasuke_skill_02_33",
+          "voiceDeath": "sasuke_death_02_09"
+        },
 ]

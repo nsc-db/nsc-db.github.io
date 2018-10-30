@@ -10244,6 +10244,58 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "803",
+          "name": "混沌の蛇傑",
+          "description": "音隠れの里所属と無所属の攻撃力と素早さを60%アップする",
+          "effectIdx1": "378",
+          "effectIdx2": "13059",
+          "effectIdx3": "0",
+          "compType": "2",
+          "target1Category": "2",
+          "target1Param": "4",
+          "target2Category": "2",
+          "target2Param": "99"
+        },
+        {
+          "cardLeaderSkillId": "804",
+          "name": "蛇傑の側近",
+          "description": "音隠れの里所属の最大HPが50％アップし、行動後にチャクラが10%回復する",
+          "effectIdx1": "680",
+          "effectIdx2": "528",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "4",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "805",
+          "name": "才覚試す先達者",
+          "description": "心属性の木ノ葉隠れの里所属の最大HPと攻撃力を50%アップ",
+          "effectIdx1": "680",
+          "effectIdx2": "251",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "1",
+          "target2Param": "1"
+        },
+        {
+          "cardLeaderSkillId": "813",
+          "name": "闇炎の変革者",
+          "description": "心属性の素早さとスキルダメージを70%アップ",
+          "effectIdx1": "13069",
+          "effectIdx2": "652",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8508",
           "name": "決別の祈り",
           "description": "技属性の最大HP・攻撃・スキルダメージを100%アップする",

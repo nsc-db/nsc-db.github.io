@@ -5384,6 +5384,38 @@ window.skillname=[
           "name": "終わりにしよう……"
         },
         {
+          "cardBattleSkillNameId": "2543",
+          "name": "蛇欲の蹂躙"
+        },
+        {
+          "cardBattleSkillNameId": "2544",
+          "name": "私は不滅"
+        },
+        {
+          "cardBattleSkillNameId": "2545",
+          "name": "双手衝撃"
+        },
+        {
+          "cardBattleSkillNameId": "2546",
+          "name": "ムダムダ"
+        },
+        {
+          "cardBattleSkillNameId": "2547",
+          "name": "双投影クナイ"
+        },
+        {
+          "cardBattleSkillNameId": "2548",
+          "name": "気付いたのか…"
+        },
+        {
+          "cardBattleSkillNameId": "2549",
+          "name": "地爆天星・黒炎破刃"
+        },
+        {
+          "cardBattleSkillNameId": "2550",
+          "name": "忍世界を一新する！"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },

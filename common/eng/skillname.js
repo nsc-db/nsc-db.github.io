@@ -6731,6 +6731,47 @@ window.skillname=[
           "eng": "Let's End This...."
         },
         {
+          "cardBattleSkillNameId": "2543",
+          "name": "蛇欲の蹂躙",
+          "eng": "Trampled Snakes"
+        },
+        {
+          "cardBattleSkillNameId": "2544",
+          "name": "私は不滅",
+          "eng": "I Am Immortal"
+
+        },
+        {
+          "cardBattleSkillNameId": "2545",
+          "name": "双手衝撃",
+          "eng": "Dual Shock"
+        },
+        {
+          "cardBattleSkillNameId": "2546",
+          "name": "ムダムダ",
+          "eng": "Not Yet"
+        },
+        {
+          "cardBattleSkillNameId": "2547",
+          "name": "双投影クナイ",
+          "eng": "Kunai Pair"
+        },
+        {
+          "cardBattleSkillNameId": "2548",
+          "name": "気付いたのか…",
+          "eng": "Did You Notice?"
+        },
+        {
+          "cardBattleSkillNameId": "2549",
+          "name": "地爆天星・黒炎破刃",
+          "eng": "Planetary Devestation: Piercing Black Flames"
+        },
+        {
+          "cardBattleSkillNameId": "2550",
+          "name": "忍世界を一新する！",
+          "eng": "Renewal of the Shinobi World"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！",
           "eng": ""
