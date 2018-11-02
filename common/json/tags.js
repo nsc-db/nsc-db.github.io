@@ -6303,4 +6303,36 @@ window.tags=[
           "pvp": "",
           "nickname": "Vampire Karin"
 },
+{
+          "cardId": "20041012",
+          "rare": "5",
+          "tag": "killers",
+          "rate": "",
+          "pvp": "",
+          "nickname": "Killer Orochimaru"
+},
+{
+          "cardId": "20041101",
+          "rare": "5",
+          "tag": "pmiles",
+          "rate": "",
+          "pvp": "",
+          "nickname": "pmiles Kabuto"
+},
+{
+          "cardId": "20041102",
+          "rare": "5",
+          "tag": "event",
+          "rate": "",
+          "pvp": "",
+          "nickname": "I dont remember your name"
+},
+{
+          "cardId": "20041110",
+          "rare": "5",
+          "tag": "killers",
+          "rate": "",
+          "pvp": "",
+          "nickname": "Killer Sasuke"
+},
 ]

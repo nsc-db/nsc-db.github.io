@@ -10243,4 +10243,56 @@ window.lead=[
           "target2Category": "0",
           "target2Param": "0"
         },
+        {
+          "cardLeaderSkillId": "803",
+          "name": "混沌の蛇傑",
+          "description": "Oto and None Characters ATK and SPD +60%",
+          "effectIdx1": "378",
+          "effectIdx2": "13059",
+          "effectIdx3": "0",
+          "compType": "2",
+          "target1Category": "2",
+          "target1Param": "4",
+          "target2Category": "2",
+          "target2Param": "99"
+        },
+        {
+          "cardLeaderSkillId": "804",
+          "name": "蛇傑の側近",
+          "description": "Oto Maximum HP +50% and Chakra Recovery +50%",
+          "effectIdx1": "680",
+          "effectIdx2": "528",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "4",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "805",
+          "name": "才覚試す先達者",
+          "description": "Heart Konoha Characters Maximum HP and ATK +50%",
+          "effectIdx1": "680",
+          "effectIdx2": "251",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "1",
+          "target2Param": "1"
+        },
+        {
+          "cardLeaderSkillId": "813",
+          "name": "闇炎の変革者",
+          "description": "Heart Type SPD and Skill Damage +70%",
+          "effectIdx1": "13069",
+          "effectIdx2": "652",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
 ]

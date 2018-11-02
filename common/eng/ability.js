@@ -17757,6 +17757,24 @@ window.ability=[
           "effectIdx3": "1924"
         },
         {
+          "abilityId": "2027",
+          "abilityName": "Itachi's Way of Life",
+          "abilityDescription": "When HP reach 0, revive once. For 6 turns, Chakra Cost -50%",
+          "abilityEffectDescription": "HP0以下で1回までHP全回復、6回行動するまでチャクラ消費量が半減",
+          "effectIdx1": "312",
+          "effectIdx2": "874",
+          "effectIdx3": "1382"
+        },
+        {
+          "abilityId": "2028",
+          "abilityName": "Aloofed Hokage",
+          "abilityDescription": "If one of the enemy is an EX or Konoha, SPD +100%. If both, Additional 100% SPD",
+          "abilityEffectDescription": "敵に超忍祭限定キャラか木ノ葉隠れの里所属がいると素早さ100%アップ、どちらもいると素早さ200%アップ",
+          "effectIdx1": "1953",
+          "effectIdx2": "1954",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "2029",
           "abilityName": "Exceptional Chakra",
           "abilityDescription": "Maximum Chakra +200 and Chakra Recovery +15%",
@@ -17807,6 +17825,60 @@ window.ability=[
           "abilityDescription": "If one of the ally is 'Sasuke Uchiha', ATK, DEF and SPD +25% per turn (Max 1,000%)",
           "abilityEffectDescription": "味方にうちはサスケが生存していると、行動するたび攻撃・防御・素早さ25%アップ（最大1,000%）",
           "effectIdx1": "1940",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2035",
+          "abilityName": "Ninjutsu Obsession",
+          "abilityDescription": "When HP reach 0, revive upto 3 times",
+          "abilityEffectDescription": "HPが0以下で3回までHPが全回復する",
+          "effectIdx1": "1789",
+          "effectIdx2": "874",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2036",
+          "abilityName": "Longing for Immortality",
+          "abilityDescription": "ATK, DEF, SPD and Skill Damage +80% when HP is below 50%",
+          "abilityEffectDescription": "HP50%以下の時、攻撃・防御・素早さ・スキルダメージを80%アップする",
+          "effectIdx1": "1946",
+          "effectIdx2": "1947",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2037",
+          "abilityName": "Cold Hearted Medicine",
+          "abilityDescription": "Medical Skill Damage +50%. +10% HP Regen",
+          "abilityEffectDescription": "医療タイプのスキルダメージが50％アップし、行動後にHPを10%回復する",
+          "effectIdx1": "1951",
+          "effectIdx2": "357",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2038",
+          "abilityName": "Loyality to the Evil Snake",
+          "abilityDescription": "Cast Speed +1 when HP is above 80%",
+          "abilityEffectDescription": "HP80%以上の時、スキル発動速度が1段階アップ",
+          "effectIdx1": "1391",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2039",
+          "abilityName": "Sanction Tolerance",
+          "abilityDescription": "SPD +10% per Konoha allies",
+          "abilityEffectDescription": "班の木ノ葉隠れの里所属のキャラ1体につき、素早さが10％アップ（自身含む）",
+          "effectIdx1": "658",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2040",
+          "abilityName": "Training Qualities",
+          "abilityDescription": "For 3 turns, chance to dodge Skills",
+          "abilityEffectDescription": "3回行動するまで確率でスキルを回避する",
+          "effectIdx1": "1912",
           "effectIdx2": "0",
           "effectIdx3": "0"
         },
