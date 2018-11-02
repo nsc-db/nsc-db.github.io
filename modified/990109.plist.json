@@ -17834,11 +17834,11 @@
         {
           "abilityId": "2033",
           "abilityName": "精気吸引",
-          "abilityDescription": "敵のうちはサスケから攻撃を受けた時、耐性無視を含む全スキルと通常攻撃を無効化しHPを全回復",
-          "abilityEffectDescription": "敵のうちはサスケから攻撃を受けた時、耐性無視を含む全スキルと通常攻撃を無効化しHPを全回復",
-          "effectIdx1": "1930",
+          "abilityDescription": "敵のうちはサスケから攻撃を受けた時、耐性無視を含む全スキルを無効化しHP全回復（※通常攻撃を受けても回復）",
+          "abilityEffectDescription": "敵のうちはサスケから攻撃を受けた時、耐性無視を含む全スキルを無効化しHP全回復（※通常攻撃を受けても回復）",
+          "effectIdx1": "1957",
           "effectIdx2": "1931",
-          "effectIdx3": "0"
+          "effectIdx3": "1955"
         },
         {
           "abilityId": "2034",
