@@ -15936,6 +15936,38 @@ window.gear=[
           "recipeName": "シマの誕生日ケーキ"
         },
         {
+          "crystalId": "11103",
+          "crystalType": "3",
+          "crystalRare": "5",
+          "effectIdx1": "615",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "ｻｿﾘの“暁”ﾏﾝﾄ",
+          "crystalDescription": "全スキルダメージが30%アップ",
+          "crystalImageId": "111035",
+          "recipeId": "11103",
+          "recipeName": "ｻｿﾘの“暁”ﾏﾝﾄ"
+        },
+        {
+          "crystalId": "11104",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "359",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "砂鉄",
+          "crystalDescription": "3回行動するまで消費チャクラを半減",
+          "crystalImageId": "111045",
+          "recipeId": "11104",
+          "recipeName": "砂鉄"
+        },
+        {
           "crystalId": "11115",
           "crystalType": "12",
           "crystalRare": "5",

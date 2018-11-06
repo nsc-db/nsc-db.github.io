@@ -17883,6 +17883,24 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2043",
+          "abilityName": "Puppet Mastery",
+          "abilityDescription": "ATK and SPD +30% per Akatsuki allies",
+          "abilityEffectDescription": "班の“暁”のキャラ1体につき、攻撃力と素早さが30%アップする（自身含む）",
+          "effectIdx1": "1004",
+          "effectIdx2": "1218",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2044",
+          "abilityName": "Secret Puppet Body",
+          "abilityDescription": "Skill Damage +100%. When HP reach 0, revive twice",
+          "abilityEffectDescription": "全スキルダメージを100%アップし、HPが0以下になった時2度まで耐える",
+          "effectIdx1": "774",
+          "effectIdx2": "1057",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

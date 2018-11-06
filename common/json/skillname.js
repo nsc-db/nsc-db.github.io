@@ -5416,6 +5416,14 @@ window.skillname=[
           "name": "忍世界を一新する！"
         },
         {
+          "cardBattleSkillNameId": "2551",
+          "name": "操演・三代目風影"
+        },
+        {
+          "cardBattleSkillNameId": "2552",
+          "name": "とっておきを見せてやる"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },

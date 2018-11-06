@@ -17901,6 +17901,24 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2043",
+          "abilityName": "傀儡の操作技術",
+          "abilityDescription": "班の“暁”のキャラ1体につき、攻撃力と素早さが30%アップする（自身含む）",
+          "abilityEffectDescription": "班の“暁”のキャラ1体につき、攻撃力と素早さが30%アップする（自身含む）",
+          "effectIdx1": "1004",
+          "effectIdx2": "1218",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2044",
+          "abilityName": "人を傀儡にする極意",
+          "abilityDescription": "全スキルダメージを100%アップし、HPが0以下になった時2度まで耐える",
+          "abilityEffectDescription": "全スキルダメージを100%アップし、HPが0以下になった時2度まで耐える",
+          "effectIdx1": "774",
+          "effectIdx2": "1057",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

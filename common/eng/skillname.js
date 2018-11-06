@@ -6772,6 +6772,16 @@ window.skillname=[
           "eng": "Renewal of the Shinobi World"
         },
         {
+          "cardBattleSkillNameId": "2551",
+          "name": "操演・三代目風影",
+          "eng": "Puppett Performance: Third Kazekage"
+        },
+        {
+          "cardBattleSkillNameId": "2552",
+          "name": "とっておきを見せてやる",
+          "eng": "Let Me Show You My Trump Card"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！",
           "eng": ""
