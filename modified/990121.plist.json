@@ -5754,6 +5754,24 @@
           "category": "0"
         },
         {
+          "cardBehaveAffectId": "20210007",
+          "timing": "4",
+          "func": "91",
+          "params": "1,0",
+          "comp": "0",
+          "compParams": "0",
+          "category": "0"
+        },
+        {
+          "cardBehaveAffectId": "20210008",
+          "timing": "4",
+          "func": "91",
+          "params": "2,0",
+          "comp": "0",
+          "compParams": "0",
+          "category": "0"
+        },
+        {
           "cardBehaveAffectId": "20220000",
           "timing": "3",
           "func": "1",
