@@ -1348,9 +1348,9 @@
         },
         {
           "shopExchangeItemId": "232",
-          "itemName": "収集Pt",
-          "measure": null,
-          "itemImgId": "22"
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
         },
         {
           "shopExchangeItemId": "233",

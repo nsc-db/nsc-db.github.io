@@ -15971,6 +15971,38 @@
           "recipeName": "砂鉄"
         },
         {
+          "crystalId": "11105",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "1963",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "自来也の髪留め",
+          "crystalDescription": "輪廻眼と輪廻写輪眼タイプのスキルダメージを軽減する",
+          "crystalImageId": "111055",
+          "recipeId": "11105",
+          "recipeName": "自来也の髪留め"
+        },
+        {
+          "crystalId": "11106",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "1024",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "自来也の着物",
+          "crystalDescription": "固有タイプのスキルダメージ30%アップ",
+          "crystalImageId": "111065",
+          "recipeId": "11106",
+          "recipeName": "自来也の着物"
+        },
+        {
           "crystalId": "11115",
           "crystalType": "12",
           "crystalRare": "5",

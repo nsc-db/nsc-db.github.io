@@ -1815,6 +1815,18 @@
           "voiceDeath": "sasori_death_02_03"
         },
         {
+          "cardVoiceId": "153",
+          "cardId": "20041105",
+          "dirName": "jiraiya",
+          "evolutionStep": "",
+          "voiceAppear": "jiraiya_skill_02_08",
+          "voiceSkill1": "jiraiya_battle_02_03,jiraiya_attack_02_03",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "jiraiya_win_02_01",
+          "voiceDeath": "jiraiya_death_02_01"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

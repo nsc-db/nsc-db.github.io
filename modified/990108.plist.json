@@ -10312,6 +10312,19 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "808",
+          "name": "傾奇忍道の真打",
+          "description": "知・勇属性の最大HP100%アップ、行動後チャクラが15%回復",
+          "effectIdx1": "684",
+          "effectIdx2": "648",
+          "effectIdx3": "0",
+          "compType": "2",
+          "target1Category": "1",
+          "target1Param": "6",
+          "target2Category": "1",
+          "target2Param": "7"
+        },
+        {
           "cardLeaderSkillId": "813",
           "name": "闇炎の変革者",
           "description": "心属性の素早さとスキルダメージを70%アップ",

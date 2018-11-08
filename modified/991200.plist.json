@@ -8521,6 +8521,30 @@
           "effectIdx2": "1958",
           "effectIdx3": "0",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "726",
+          "targetCrystal": "11105",
+          "description": "輪廻眼・輪廻写輪眼無効、スキル発動速度1段階アップ。2回行動まで受ける耐性無視スキルのダメージを0。",
+          "charaIds": "2401,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1964",
+          "effectIdx2": "1840",
+          "effectIdx3": "1838",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "727",
+          "targetCrystal": "11106",
+          "description": "全スキルダメージ120%アップ、行動後にチャクラとHPを20%回復する",
+          "charaIds": "2401,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "30011",
+          "effectIdx2": "1768",
+          "effectIdx3": "628",
+          "effectIdx4": "0"
         }
       ]
     }

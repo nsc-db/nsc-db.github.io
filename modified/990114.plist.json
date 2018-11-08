@@ -1531,6 +1531,16 @@
           "subScore": "0",
           "color": "10104574",
           "type": "2"
+        },
+        {
+          "cardUnusualId": "158",
+          "category": "3",
+          "iconId": "1176",
+          "name": "毛針",
+          "description": "反撃ダメージ。攻撃を受けると自身以外の味方全体のHP＆チャクラ回復＆攻防速アップ",
+          "subScore": "0",
+          "color": "15790320",
+          "type": "2"
         }
       ]
     }

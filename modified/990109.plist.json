@@ -17922,6 +17922,24 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2045",
+          "abilityName": "決意の印",
+          "abilityDescription": "HP1で5回まで耐え、5回行動までスキルダメージ300%アップ、HP5%以下で素早さ300%アップ",
+          "abilityEffectDescription": "HP1で5回まで耐え、5回行動までスキルダメージ300%アップ、HP5%以下で素早さ300%アップ",
+          "effectIdx1": "1512",
+          "effectIdx2": "30420",
+          "effectIdx3": "1962"
+        },
+        {
+          "abilityId": "2046",
+          "abilityName": "蝦蟇の師弟愛",
+          "abilityDescription": "木ノ葉隠れの里所属への単体スキル攻撃を受ける※かばうは複数人発動すると最後の発動者が有効",
+          "abilityEffectDescription": "木ノ葉隠れの里所属への単体スキル攻撃を受ける※かばうは複数人発動すると最後の発動者が有効",
+          "effectIdx1": "1834",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
