@@ -10283,6 +10283,19 @@ window.lead=[
           "target2Param": "1"
         },
         {
+          "cardLeaderSkillId": "807",
+          "name": "不朽ノ傀儡",
+          "description": "Heart Type Maximum HP and ATK +100%. Immune to Status Effects",
+          "effectIdx1": "684",
+          "effectIdx2": "11099",
+          "effectIdx3": "82",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "813",
           "name": "闇炎の変革者",
           "description": "Heart Type SPD and Skill Damage +70%",

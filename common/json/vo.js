@@ -1811,4 +1811,16 @@ window.vo=[
           "voiceWin": "sasuke_skill_02_33",
           "voiceDeath": "sasuke_death_02_09"
         },
+        {
+          "cardVoiceId": "152",
+          "cardId": "20041104",
+          "dirName": "sasori",
+          "evolutionStep": "",
+          "voiceAppear": "sasori_battle_02_01",
+          "voiceSkill1": "sasori_skill_02_02,sasori_skill_02_01",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "sasori_win_02_01",
+          "voiceDeath": "sasori_death_02_03"
+        },
 ]

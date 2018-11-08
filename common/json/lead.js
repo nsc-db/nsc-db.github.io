@@ -10283,6 +10283,19 @@ window.lead=[
           "target2Param": "1"
         },
         {
+          "cardLeaderSkillId": "807",
+          "name": "不朽ノ傀儡",
+          "description": "心属性の最大HPと攻撃力を100％アップし、状態異常を無効化する",
+          "effectIdx1": "684",
+          "effectIdx2": "11099",
+          "effectIdx3": "82",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "813",
           "name": "闇炎の変革者",
           "description": "心属性の素早さとスキルダメージを70%アップ",

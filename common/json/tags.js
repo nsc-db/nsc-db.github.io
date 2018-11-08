@@ -6328,6 +6328,14 @@ window.tags=[
           "nickname": "I dont remember your name"
 },
 {
+          "cardId": "20041104",
+          "rare": "5",
+          "tag": "ex-6",
+          "rate": "",
+          "pvp": "",
+          "nickname": "Bday Sasori"
+},
+{
           "cardId": "20041110",
           "rare": "5",
           "tag": "killers",
