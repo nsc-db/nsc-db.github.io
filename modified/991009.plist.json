@@ -2181,6 +2181,12 @@
           "itemImgId": "2042"
         },
         {
+          "shopExchangeItemId": "2047",
+          "itemName": "おいろけ交換券",
+          "measure": "0",
+          "itemImgId": "2047"
+        },
+        {
           "shopExchangeItemId": "3000",
           "itemName": "昇級Pt倍化薬引換券",
           "measure": null,

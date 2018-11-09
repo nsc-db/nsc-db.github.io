@@ -367,6 +367,19 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
+          "worldStageId": "1105",
+          "worldAreaId": "5",
+          "priority": "1",
+          "name": "エロ仙人のドスケベ温泉伝！",
+          "description": "下心Ptを集めて、自来也・綱手・紅の固有忍具を\r\n獲得しよう！",
+          "notice": "※イベントの内容及び日程は告知なく変更となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
           "worldStageId": "1129",
           "worldAreaId": "5",
           "priority": "2",
