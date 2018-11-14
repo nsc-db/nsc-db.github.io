@@ -17940,6 +17940,24 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2047",
+          "abilityName": "諦めない意志",
+          "abilityDescription": "HPが1%以下の時、素早さが150%アップし、スキル発動速度が2段階上がる",
+          "abilityEffectDescription": "HPが1%以下の時、素早さが150%アップし、スキル発動速度が2段階上がる",
+          "effectIdx1": "1959",
+          "effectIdx2": "1960",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2048",
+          "abilityName": "柱間の子孫",
+          "abilityDescription": "1回行動するまで、耐性無視スキルのダメージを0&amp;全スキル無効",
+          "abilityEffectDescription": "1回行動するまで、耐性無視スキルのダメージを0&amp;全スキル無効",
+          "effectIdx1": "1961",
+          "effectIdx2": "1794",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

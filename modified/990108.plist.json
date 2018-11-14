@@ -10325,6 +10325,19 @@
           "target2Param": "7"
         },
         {
+          "cardLeaderSkillId": "809",
+          "name": "戦医の真髄",
+          "description": "木ノ葉隠れの里所属の最大HPを200％アップする",
+          "effectIdx1": "10100",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "813",
           "name": "闇炎の変革者",
           "description": "心属性の素早さとスキルダメージを70%アップ",

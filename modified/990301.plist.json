@@ -16003,6 +16003,38 @@
           "recipeName": "自来也の着物"
         },
         {
+          "crystalId": "11107",
+          "crystalType": "1",
+          "crystalRare": "5",
+          "effectIdx1": "111",
+          "effectIdx2": "1863",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "0",
+          "saleMoney": "0",
+          "crystalName": "忍法・創造再生の印",
+          "crystalDescription": "素早さ40%アップ、2回行動するまでチャクラ消費量20%ダウン",
+          "crystalImageId": "111075",
+          "recipeId": "11107",
+          "recipeName": "忍法・創造再生の印"
+        },
+        {
+          "crystalId": "11108",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "734",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "0",
+          "saleMoney": "0",
+          "crystalName": "綱手の帯",
+          "crystalDescription": "確率でスキルを回避する",
+          "crystalImageId": "111085",
+          "recipeId": "11108",
+          "recipeName": "綱手の帯"
+        },
+        {
           "crystalId": "11115",
           "crystalType": "12",
           "crystalRare": "5",

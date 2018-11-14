@@ -1533,6 +1533,16 @@
           "type": "2"
         },
         {
+          "cardUnusualId": "157",
+          "category": "3",
+          "iconId": "1175",
+          "name": "火影の守護",
+          "description": "HPが0以下になると1度だけ耐える。全スキル無効",
+          "subScore": "0",
+          "color": "14423100",
+          "type": "2"
+        },
+        {
           "cardUnusualId": "158",
           "category": "3",
           "iconId": "1176",

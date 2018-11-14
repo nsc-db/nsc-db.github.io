@@ -406,6 +406,19 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
+          "worldStageId": "1131",
+          "worldAreaId": "5",
+          "priority": "1",
+          "name": "NARUTO軌跡集-自来也-慟哭",
+          "description": "自来也の軌跡を追体験！\r\n交換所で、綱手の新規忍具や\r\n自来也の復刻忍具を獲得しよう！",
+          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
           "worldStageId": "1199",
           "worldAreaId": "5",
           "priority": "2",
