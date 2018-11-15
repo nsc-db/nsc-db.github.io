@@ -6115,7 +6115,7 @@
         {
           "appUiId": "1223",
           "uiKey": "PvERetireDesc",
-          "text": "途中で対戦を棄権した場合も\r\n\r\n連覇ボーナスがリセットされます"
+          "text": "途中で対戦を棄権した場合も\r\n\r\n連覇ボーナスがリセットされます\r\n（模擬演習は連覇ボーナスはありません）"
         },
         {
           "appUiId": "1224",
@@ -7236,6 +7236,21 @@
           "appUiId": "1448",
           "uiKey": "ConfirmDownloadSize",
           "text": "約%.2fMBのリソースを\r\nダウンロードします。"
+        },
+        {
+          "appUiId": "1452",
+          "uiKey": "MissionRank100",
+          "text": "模擬演習 特別上忍"
+        },
+        {
+          "appUiId": "1453",
+          "uiKey": "MissionRank101",
+          "text": "模擬演習 上忍"
+        },
+        {
+          "appUiId": "1454",
+          "uiKey": "MissionRank102",
+          "text": "模擬演習 伝説"
         }
       ]
     }

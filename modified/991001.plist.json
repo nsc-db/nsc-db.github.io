@@ -71538,6 +71538,11 @@
           "message": "時間切れだ"
         },
         {
+          "scriptMessageId": "80003",
+          "speechCharactorId": "59",
+          "message": "試合開始！！\r\nはじめ！！"
+        },
+        {
           "scriptMessageId": "100000",
           "speechCharactorId": "106",
           "message": "ギャハハハハ！"

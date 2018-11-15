@@ -603,6 +603,26 @@
           "enemyEffects": null
         },
         {
+          "battleFieldEffectId": "69",
+          "name": "模擬演習　特別上忍＆上忍",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "95040,21100,",
+          "enemyEffects": "13029,"
+        },
+        {
+          "battleFieldEffectId": "70",
+          "name": "模擬演習　伝説",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "95039,",
+          "enemyEffects": "94992,13029,"
+        },
+        {
           "battleFieldEffectId": "10001",
           "name": "始球空間",
           "category": "3",
