@@ -17958,6 +17958,24 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2055",
+          "abilityName": "第三班のツッコミ役",
+          "abilityDescription": "チャクラMAX時、素早さとスキルダメージを300%アップ&amp;スキル発動速度2段階アップ",
+          "abilityEffectDescription": "チャクラMAX時、素早さとスキルダメージを300%アップ&amp;スキル発動速度2段階アップ",
+          "effectIdx1": "1966",
+          "effectIdx2": "1965",
+          "effectIdx3": "1752"
+        },
+        {
+          "abilityId": "2056",
+          "abilityName": "とびきりの忍具捌き",
+          "abilityDescription": "火遁・水遁・土遁・風遁・雷遁・武器を無効にし、確率でスキルを回避する",
+          "abilityEffectDescription": "火遁・水遁・土遁・風遁・雷遁・武器を無効にし、確率でスキルを回避する",
+          "effectIdx1": "1967",
+          "effectIdx2": "679",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

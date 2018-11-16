@@ -4233,6 +4233,16 @@
           "gachaTicketImgId": "3336"
         },
         {
+          "gachaTicketId": "3401",
+          "gachaTicketName": "仙人の宝扇ガチャチケット",
+          "gachaTicketImgId": "3401"
+        },
+        {
+          "gachaTicketId": "3402",
+          "gachaTicketName": "仙人の宝扇25%",
+          "gachaTicketImgId": "3401"
+        },
+        {
           "gachaTicketId": "100084",
           "gachaTicketName": "ナルトを呼び戻せ!!ガチャチケット",
           "gachaTicketImgId": "84"

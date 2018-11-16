@@ -10351,6 +10351,19 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "815",
+          "name": "仙人の宝扇",
+          "description": "勇属性か木ノ葉隠れの里所属の攻撃力を100%アップする",
+          "effectIdx1": "11099",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "2",
+          "target1Category": "1",
+          "target1Param": "7",
+          "target2Category": "2",
+          "target2Param": "1"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

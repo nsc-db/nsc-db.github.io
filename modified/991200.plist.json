@@ -8569,6 +8569,18 @@
           "effectIdx2": "1768",
           "effectIdx3": "628",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "728",
+          "targetCrystal": "11119",
+          "description": "素早さが70％アップし、バトル開始時にチャクラが20％回復、行動後にチャクラが30％回復する",
+          "charaIds": "1201,1202,1203,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "13069",
+          "effectIdx2": "1113",
+          "effectIdx3": "820",
+          "effectIdx4": "0"
         }
       ]
     }

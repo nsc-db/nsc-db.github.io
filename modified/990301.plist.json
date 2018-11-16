@@ -16065,6 +16065,22 @@
           "crystalImageId": "111165",
           "recipeId": "11116",
           "recipeName": "サスケの信念"
+        },
+        {
+          "crystalId": "11119",
+          "crystalType": "1",
+          "crystalRare": "5",
+          "effectIdx1": "110",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "ﾃﾝﾃﾝの口寄せｸﾅｲ",
+          "crystalDescription": "素早さが30％アップする",
+          "crystalImageId": "111195",
+          "recipeId": "11119",
+          "recipeName": "ﾃﾝﾃﾝの口寄せｸﾅｲ"
         }
       ]
     }
