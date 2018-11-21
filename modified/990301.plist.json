@@ -16081,6 +16081,38 @@
           "crystalImageId": "111195",
           "recipeId": "11119",
           "recipeName": "ﾃﾝﾃﾝの口寄せｸﾅｲ"
+        },
+        {
+          "crystalId": "11120",
+          "crystalType": "12",
+          "crystalRare": "4",
+          "effectIdx1": "1968",
+          "effectIdx2": "1970",
+          "effectIdx3": "20001",
+          "effectIdx4": "0",
+          "money": "100000",
+          "saleMoney": "2000",
+          "crystalName": "北の刻印・中",
+          "crystalDescription": "3回行動するまでダメージを受けた時にHP&amp;チャクラ50%回復、最大チャクラ量20アップ",
+          "crystalImageId": "111204",
+          "recipeId": "11120",
+          "recipeName": "北の刻印・中"
+        },
+        {
+          "crystalId": "11121",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "1969",
+          "effectIdx2": "1971",
+          "effectIdx3": "20002",
+          "effectIdx4": "1973",
+          "money": "500000",
+          "saleMoney": "2500",
+          "crystalName": "北の刻印・大",
+          "crystalDescription": "3回行動まで被ﾀﾞﾒｰｼﾞ時HP&amp;ﾁｬｸﾗ80%回復&amp;低確率で耐性無視ｽｷﾙのﾀﾞﾒｰｼﾞ0、最大ﾁｬｸﾗ30ｱｯﾌﾟ",
+          "crystalImageId": "111215",
+          "recipeId": "11121",
+          "recipeName": "北の刻印・大"
         }
       ]
     }

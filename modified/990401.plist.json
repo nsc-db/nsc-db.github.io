@@ -4233,6 +4233,16 @@
           "gachaTicketImgId": "3336"
         },
         {
+          "gachaTicketId": "3399",
+          "gachaTicketName": "“暁”ガチャチケット",
+          "gachaTicketImgId": "3399"
+        },
+        {
+          "gachaTicketId": "3400",
+          "gachaTicketName": "“暁”25%",
+          "gachaTicketImgId": "3399"
+        },
+        {
           "gachaTicketId": "3401",
           "gachaTicketName": "仙人の宝扇ガチャチケット",
           "gachaTicketImgId": "3401"
@@ -4241,6 +4251,11 @@
           "gachaTicketId": "3402",
           "gachaTicketName": "仙人の宝扇25%",
           "gachaTicketImgId": "3401"
+        },
+        {
+          "gachaTicketId": "3405",
+          "gachaTicketName": "★5刻印忍具確定ガチャチケット",
+          "gachaTicketImgId": "3405"
         },
         {
           "gachaTicketId": "100084",

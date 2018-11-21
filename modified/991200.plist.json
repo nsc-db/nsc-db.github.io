@@ -8581,6 +8581,18 @@
           "effectIdx2": "1113",
           "effectIdx3": "820",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "729",
+          "targetCrystal": "11121",
+          "description": "5回行動まで被ﾀﾞﾒｰｼﾞ時HP&amp;ﾁｬｸﾗ100%回復、確率で耐性無視ｽｷﾙのﾀﾞﾒｰｼﾞ0、最大ﾁｬｸﾗ100ｱｯﾌﾟ",
+          "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "600000,",
+          "effectIdx1": "1978",
+          "effectIdx2": "1972",
+          "effectIdx3": "1974",
+          "effectIdx4": "20009"
         }
       ]
     }
