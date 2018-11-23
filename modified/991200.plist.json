@@ -8593,6 +8593,30 @@
           "effectIdx2": "1972",
           "effectIdx3": "1974",
           "effectIdx4": "20009"
+        },
+        {
+          "crystalOverwriteEffectId": "730",
+          "targetCrystal": "11113",
+          "description": "最大チャクラ50アップ、チャクラ消費量半減、5回行動まで体術スキルダメージ200%&amp;素早さ100%アップ",
+          "charaIds": "1101,1102,1103,1104,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1976",
+          "effectIdx2": "1385",
+          "effectIdx3": "689",
+          "effectIdx4": "895"
+        },
+        {
+          "crystalOverwriteEffectId": "731",
+          "targetCrystal": "11114",
+          "description": "弱体を無効化、素早さ80％アップ、高確率でスキル回避、1回行動まで全スキル無効",
+          "charaIds": "1101,1102,1103,1104,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "64",
+          "effectIdx2": "13079",
+          "effectIdx3": "968",
+          "effectIdx4": "1794"
         }
       ]
     }

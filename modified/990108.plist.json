@@ -10338,6 +10338,19 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "812",
+          "name": "奮え揮う闘根",
+          "description": "木ノ葉隠れの里所属の攻撃力とスキルダメージを60%アップする",
+          "effectIdx1": "378",
+          "effectIdx2": "678",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "813",
           "name": "闇炎の変革者",
           "description": "心属性の素早さとスキルダメージを70%アップ",
@@ -10362,6 +10375,19 @@
           "target1Param": "7",
           "target2Category": "2",
           "target2Param": "1"
+        },
+        {
+          "cardLeaderSkillId": "816",
+          "name": "青春は燃えているか",
+          "description": "体術タイプのスキルダメージが100%アップする",
+          "effectIdx1": "1142",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
         },
         {
           "cardLeaderSkillId": "8507",

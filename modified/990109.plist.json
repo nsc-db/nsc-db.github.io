@@ -17958,6 +17958,24 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2053",
+          "abilityName": "リミッター外し",
+          "abilityDescription": "3回行動するまでチャクラ消費0になる代わりに、5回行動以降防御時のチャクラ回復量半減",
+          "abilityEffectDescription": "3回行動するまでチャクラ消費0になる代わりに、5回行動以降防御時のチャクラ回復量半減",
+          "effectIdx1": "1949",
+          "effectIdx2": "1977",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2054",
+          "abilityName": "体術のスペシャリスト",
+          "abilityDescription": "HPが0以下になった時3度まで耐える",
+          "abilityEffectDescription": "HPが0以下になった時3度まで耐える",
+          "effectIdx1": "1789",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "2055",
           "abilityName": "第三班のツッコミ役",
           "abilityDescription": "チャクラMAX時、素早さとスキルダメージを300%アップ&amp;スキル発動速度2段階アップ",
@@ -17973,6 +17991,24 @@
           "abilityEffectDescription": "火遁・水遁・土遁・風遁・雷遁・武器を無効にし、確率でスキルを回避する",
           "effectIdx1": "1967",
           "effectIdx2": "679",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2057",
+          "abilityName": "さわやか顔",
+          "abilityDescription": "最大HP50%アップし、スキル発動速度が1段階アップする",
+          "abilityEffectDescription": "最大HP50%アップし、スキル発動速度が1段階アップする",
+          "effectIdx1": "10049",
+          "effectIdx2": "1840",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2058",
+          "abilityName": "太い激眉",
+          "abilityDescription": "HP90%以上の時、確率でスキルを回避する",
+          "abilityEffectDescription": "HP90%以上の時、確率でスキルを回避する",
+          "effectIdx1": "1979",
+          "effectIdx2": "0",
           "effectIdx3": "0"
         },
         {

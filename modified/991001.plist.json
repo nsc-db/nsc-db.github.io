@@ -63538,6 +63538,326 @@
           "message": "散ってくれ！！！"
         },
         {
+          "scriptMessageId": "25199",
+          "speechCharactorId": "21",
+          "message": "早く降りてこい"
+        },
+        {
+          "scriptMessageId": "25200",
+          "speechCharactorId": "8",
+          "message": "誰もが見逃しそうな\r\n一つ重要なアドバイスに気付いたぞ、リー！"
+        },
+        {
+          "scriptMessageId": "25201",
+          "speechCharactorId": "8",
+          "message": "どーも\r\nあのひょうたんが怪しい…"
+        },
+        {
+          "scriptMessageId": "25202",
+          "speechCharactorId": "14",
+          "message": "オッス！"
+        },
+        {
+          "scriptMessageId": "25203",
+          "speechCharactorId": "14",
+          "message": "早々とアナタと闘れるなんて\r\n嬉しい限りです…"
+        },
+        {
+          "scriptMessageId": "25204",
+          "speechCharactorId": "58",
+          "message": "では始めて下さい！！"
+        },
+        {
+          "scriptMessageId": "25205",
+          "speechCharactorId": "40",
+          "message": "あの速い\r\nリーさんの攻撃が全然効かないなんて…"
+        },
+        {
+          "scriptMessageId": "25206",
+          "speechCharactorId": "19",
+          "message": "アイツにはどんな物理的攻撃も通用しねェ…\r\n我愛羅の意志に関係なく砂が盾となって…\r\n自らの身を守っちまうからな"
+        },
+        {
+          "scriptMessageId": "25207",
+          "speechCharactorId": "19",
+          "message": "…だから今まで誰一人としていねーんだ…\r\n……我愛羅を傷付けた奴なんてな"
+        },
+        {
+          "scriptMessageId": "25208",
+          "speechCharactorId": "40",
+          "message": "どうしてリーさん体術ばかりなの！？\r\nあれじゃ接近戦は厳しいわ！"
+        },
+        {
+          "scriptMessageId": "25209",
+          "speechCharactorId": "40",
+          "message": "少しは忍術で距離をおく戦いをしないと…！"
+        },
+        {
+          "scriptMessageId": "25210",
+          "speechCharactorId": "8",
+          "message": "リーは忍術を使わないんじゃない…"
+        },
+        {
+          "scriptMessageId": "25211",
+          "speechCharactorId": "8",
+          "message": "………使えないんだ"
+        },
+        {
+          "scriptMessageId": "25212",
+          "speechCharactorId": "8",
+          "message": "だからこそ勝てる！"
+        },
+        {
+          "scriptMessageId": "25213",
+          "speechCharactorId": "8",
+          "message": "リー！\r\n外せ――！！"
+        },
+        {
+          "scriptMessageId": "25214",
+          "speechCharactorId": "14",
+          "message": "よーしィ！！\r\nこれでもっと楽に動けるぞ――――！！"
+        },
+        {
+          "scriptMessageId": "25215",
+          "speechCharactorId": "8",
+          "message": "………忍術や幻術が使えない…\r\nだからこそ…"
+        },
+        {
+          "scriptMessageId": "25216",
+          "speechCharactorId": "8",
+          "message": "…体術の為に時間をついやし\r\n体術の為に努力し全てを体術だけに\r\n集中してきた…"
+        },
+        {
+          "scriptMessageId": "25217",
+          "speechCharactorId": "8",
+          "message": "たとえ他の術は出来ぬとも\r\nアイツは誰にも負けない…"
+        },
+        {
+          "scriptMessageId": "25218",
+          "speechCharactorId": "8",
+          "message": "体術のスペシャリストだ！"
+        },
+        {
+          "scriptMessageId": "25219",
+          "speechCharactorId": "20",
+          "message": "信じられない！！\r\nあの我愛羅が傷を…！！"
+        },
+        {
+          "scriptMessageId": "25220",
+          "speechCharactorId": "8",
+          "message": "リー！！\r\n爆発だぁ―――！！！"
+        },
+        {
+          "scriptMessageId": "25221",
+          "speechCharactorId": "14",
+          "message": "オッス！！"
+        },
+        {
+          "scriptMessageId": "25222",
+          "speechCharactorId": "14",
+          "message": "さあ…これからです！"
+        },
+        {
+          "scriptMessageId": "25223",
+          "speechCharactorId": "40",
+          "message": "す…凄い！\r\n速い速い！！"
+        },
+        {
+          "scriptMessageId": "25224",
+          "speechCharactorId": "40",
+          "message": "完璧、砂のガードが追いついてない！\r\n直撃ねェ！！"
+        },
+        {
+          "scriptMessageId": "25225",
+          "speechCharactorId": "14",
+          "message": "手応えアリです…！"
+        },
+        {
+          "scriptMessageId": "25226",
+          "speechCharactorId": "19",
+          "message": "………ヤバイな…"
+        },
+        {
+          "scriptMessageId": "25227",
+          "speechCharactorId": "6",
+          "message": "ああ、ヤベーな！\r\nあの目のクマヤロー！\r\nけっこー重いのくらったってばよ！"
+        },
+        {
+          "scriptMessageId": "25228",
+          "speechCharactorId": "19",
+          "message": "……そのヤバイじゃねェーよ………"
+        },
+        {
+          "scriptMessageId": "25229",
+          "speechCharactorId": "19",
+          "message": "もう一人の我愛羅が…\r\n完全に目覚めちまった…！"
+        },
+        {
+          "scriptMessageId": "25230",
+          "speechCharactorId": "19",
+          "message": "今の我愛羅に捕まったら…\r\n弄ばれて殺されるぞ！"
+        },
+        {
+          "scriptMessageId": "25231",
+          "speechCharactorId": "21",
+          "message": "さっさと来い"
+        },
+        {
+          "scriptMessageId": "25232",
+          "speechCharactorId": "14",
+          "message": "お望み通りに！"
+        },
+        {
+          "scriptMessageId": "25233",
+          "speechCharactorId": "8",
+          "message": "…通常の蓮華でさえ\r\n体にはとてつもない負担がかかる"
+        },
+        {
+          "scriptMessageId": "25234",
+          "speechCharactorId": "8",
+          "message": "あれだけの連蹴りは、リーにもヤバい…\r\nこれで決めろリー！"
+        },
+        {
+          "scriptMessageId": "25235",
+          "speechCharactorId": "14",
+          "message": "くらえ！！"
+        },
+        {
+          "scriptMessageId": "25236",
+          "speechCharactorId": "14",
+          "message": "表蓮華！！"
+        },
+        {
+          "scriptMessageId": "25237",
+          "speechCharactorId": "8",
+          "message": "…いつの間に砂のガードから……\r\nリーがそんなことを見逃すはずが…！！"
+        },
+        {
+          "scriptMessageId": "25238",
+          "speechCharactorId": "1",
+          "message": "ガイ、お前が目をつむって祈ってる時だよ……"
+        },
+        {
+          "scriptMessageId": "25239",
+          "speechCharactorId": "1",
+          "message": "リーは一瞬、体の痛みで動きが止まった…\r\nその時だ…"
+        },
+        {
+          "scriptMessageId": "25240",
+          "speechCharactorId": "19",
+          "message": "完全に目を覚ましやがった…！\r\n我愛羅の中の魔物が！"
+        },
+        {
+          "scriptMessageId": "25241",
+          "speechCharactorId": "40",
+          "message": "何でリーさんよけないの……！？"
+        },
+        {
+          "scriptMessageId": "25242",
+          "speechCharactorId": "8",
+          "message": "…さっきの蓮華という技は\r\n…諸刃の剣なのだよ"
+        },
+        {
+          "scriptMessageId": "25243",
+          "speechCharactorId": "1",
+          "message": "本来禁止技にあたる…\r\nあれだけの高速体術は足や体に多大な負担をかける…"
+        },
+        {
+          "scriptMessageId": "25244",
+          "speechCharactorId": "1",
+          "message": "今は体中が痛み\r\n動きまわるどころじゃない…\r\nそうだろ…ガイ"
+        },
+        {
+          "scriptMessageId": "25245",
+          "speechCharactorId": "40",
+          "message": "……このままじゃ\r\nリーさんは…"
+        },
+        {
+          "scriptMessageId": "25246",
+          "speechCharactorId": "14",
+          "message": "先生が笑って見てくれてる…\r\nそれだけでボクは強く甦ることが出来る…！"
+        },
+        {
+          "scriptMessageId": "25247",
+          "speechCharactorId": "14",
+          "message": "さらに強く…もっと強く…！！"
+        },
+        {
+          "scriptMessageId": "25248",
+          "speechCharactorId": "40",
+          "message": "…リーさん笑ってる…\r\nあんなに追い込まれてるのに…"
+        },
+        {
+          "scriptMessageId": "25249",
+          "speechCharactorId": "8",
+          "message": "イヤ…\r\n今度はこちらが追い込む………"
+        },
+        {
+          "scriptMessageId": "25250",
+          "speechCharactorId": "8",
+          "message": "………木ノ葉の蓮華は二度咲く！！"
+        },
+        {
+          "scriptMessageId": "25251",
+          "speechCharactorId": "1",
+          "message": "まさかガイ…お前！"
+        },
+        {
+          "scriptMessageId": "25252",
+          "speechCharactorId": "8",
+          "message": "お前の想像通りだ"
+        },
+        {
+          "scriptMessageId": "25253",
+          "speechCharactorId": "1",
+          "message": "じゃあ…下忍のあの子が\r\n“八門遁甲の体内門”を…"
+        },
+        {
+          "scriptMessageId": "25254",
+          "speechCharactorId": "8",
+          "message": "……そうだ\r\n開ける……"
+        },
+        {
+          "scriptMessageId": "25255",
+          "speechCharactorId": "1",
+          "message": "いくら才能があったとしても…\r\nそんな危険な技を…！"
+        },
+        {
+          "scriptMessageId": "25256",
+          "speechCharactorId": "1",
+          "message": "“裏蓮華”だけは…\r\n教えちゃならん技でしょうが！"
+        },
+        {
+          "scriptMessageId": "25257",
+          "speechCharactorId": "8",
+          "message": "…………お前が…\r\nあの子の何を知ってる……"
+        },
+        {
+          "scriptMessageId": "25258",
+          "speechCharactorId": "14",
+          "message": "……ネジ…\r\n…サスケくん…\r\nそして…ナルトくん…"
+        },
+        {
+          "scriptMessageId": "25259",
+          "speechCharactorId": "14",
+          "message": "こんなところでボクだけ…\r\n負けるわけにはいかない！！"
+        },
+        {
+          "scriptMessageId": "25260",
+          "speechCharactorId": "14",
+          "message": "ガイ先生…認めて下さい…\r\n…今こそ……"
+        },
+        {
+          "scriptMessageId": "25261",
+          "speechCharactorId": "14",
+          "message": "自分の忍道をつらぬき守り通す時！！"
+        },
+        {
+          "scriptMessageId": "25262",
+          "speechCharactorId": "14",
+          "message": "第三生門…開！！"
+        },
+        {
           "scriptMessageId": "40001",
           "speechCharactorId": "178",
           "message": "絶望しかないこの世界に\r\n存在する価値はない"

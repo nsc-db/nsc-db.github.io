@@ -1551,6 +1551,26 @@
           "subScore": "0",
           "color": "15790320",
           "type": "2"
+        },
+        {
+          "cardUnusualId": "159",
+          "category": "3",
+          "iconId": "1177",
+          "name": "第五 杜門・開",
+          "description": "スキル発動速度閃光化、素早さアップするが行動毎にHPが減少。解除時に行動不能になる。",
+          "subScore": "0",
+          "color": "3911541",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "160",
+          "category": "3",
+          "iconId": "1178",
+          "name": "威圧",
+          "description": "素早さとスキル発動速度ダウン",
+          "subScore": "0",
+          "color": "13882323",
+          "type": "3"
         }
       ]
     }

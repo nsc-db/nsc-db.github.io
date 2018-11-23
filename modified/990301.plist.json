@@ -16035,6 +16035,38 @@
           "recipeName": "綱手の帯"
         },
         {
+          "crystalId": "11113",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "1975",
+          "effectIdx2": "225",
+          "effectIdx3": "20001",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "リーのチャクラ",
+          "crystalDescription": "最大チャクラ20アップ、3回行動まで体術スキルのダメージ50%アップ&amp;素早さ20%アップ",
+          "crystalImageId": "111135",
+          "recipeId": "11113",
+          "recipeName": "リーのチャクラ"
+        },
+        {
+          "crystalId": "11114",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "521",
+          "effectIdx2": "109",
+          "effectIdx3": "679",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "努力",
+          "crystalDescription": "確率で弱体を無効化し、素早さが20％アップ、確率でスキルを回避する",
+          "crystalImageId": "111145",
+          "recipeId": "11114",
+          "recipeName": "努力"
+        },
+        {
           "crystalId": "11115",
           "crystalType": "12",
           "crystalRare": "5",
