@@ -623,6 +623,26 @@
           "enemyEffects": "94992,13029,"
         },
         {
+          "battleFieldEffectId": "71",
+          "name": "絶望を告げる力　絶望1",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "1840,1814,",
+          "enemyEffects": null
+        },
+        {
+          "battleFieldEffectId": "72",
+          "name": "絶望を告げる力　絶望2",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "13049,1840,1814,",
+          "enemyEffects": null
+        },
+        {
           "battleFieldEffectId": "10001",
           "name": "始球空間",
           "category": "3",

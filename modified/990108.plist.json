@@ -10299,6 +10299,19 @@
           "target2Param": "1"
         },
         {
+          "cardLeaderSkillId": "806",
+          "name": "終焉の覚醒者",
+          "description": "無所属の素早さとスキルダメージを70%アップ",
+          "effectIdx1": "13069",
+          "effectIdx2": "652",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "99",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "807",
           "name": "不朽ノ傀儡",
           "description": "心属性の最大HPと攻撃力を100％アップし、状態異常を無効化する",

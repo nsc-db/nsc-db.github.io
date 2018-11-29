@@ -17904,6 +17904,24 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2041",
+          "abilityName": "忍の祖の力",
+          "abilityDescription": "素早さ50%アップ、最大チャクラ量100アップ、HP0以下で1回だけ耐える",
+          "abilityEffectDescription": "素早さ50%アップ、最大チャクラ量100アップ、HP0以下で1回だけ耐える",
+          "effectIdx1": "112",
+          "effectIdx2": "312",
+          "effectIdx3": "813"
+        },
+        {
+          "abilityId": "2042",
+          "abilityName": "力の生着",
+          "abilityDescription": "敵に波風ミナトがいると素早さ100%アップ、はたけカカシがいると行動後チャクラが50%回復",
+          "abilityEffectDescription": "敵に波風ミナトがいると素早さ100%アップ、はたけカカシがいると行動後チャクラが50%回復",
+          "effectIdx1": "1980",
+          "effectIdx2": "1981",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "2043",
           "abilityName": "傀儡の操作技術",
           "abilityDescription": "班の“暁”のキャラ1体につき、攻撃力と素早さが30%アップする（自身含む）",
@@ -18297,6 +18315,15 @@
           "abilityEffectDescription": "行動するたびに素早さ30%アップ（最大5回まで）",
           "effectIdx1": "1424",
           "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "11900",
+          "abilityName": "HP0以下で3回までHPが全回復",
+          "abilityDescription": "HP0以下で3回までHPが全回復",
+          "abilityEffectDescription": "HP0以下で3回までHPが全回復",
+          "effectIdx1": "1789",
+          "effectIdx2": "874",
           "effectIdx3": "0"
         },
         {

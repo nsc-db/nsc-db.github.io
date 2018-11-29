@@ -536,11 +536,11 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
-          "worldStageId": "4083",
+          "worldStageId": "4084",
           "worldAreaId": "5",
           "priority": "1",
-          "name": "インドラの矢",
-          "description": "ナルトとサスケ…\r\n二人の英雄の全てをかけた戦いがはじまる！",
+          "name": "絶望を告げる力",
+          "description": "Ptランキング開催！\r\n個人Ptはイベント期間中のみ加算されます",
           "notice": "※個人Pt報酬は、達成と同時に直接付与されます。\r\n※報酬の付与にはお時間をいただく場合がございます。\r\n※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
           "type": "0",
           "prerequisiteWorldStageId": "0",

@@ -15939,6 +15939,38 @@
           "recipeName": "シマの誕生日ケーキ"
         },
         {
+          "crystalId": "11101",
+          "crystalType": "3",
+          "crystalRare": "5",
+          "effectIdx1": "662",
+          "effectIdx2": "109",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "炎の手",
+          "crystalDescription": "全スキルダメージと素早さを20%アップ",
+          "crystalImageId": "111015",
+          "recipeId": "11101",
+          "recipeName": "炎の手"
+        },
+        {
+          "crystalId": "11102",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "1983",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "十尾の自然ｴﾈﾙｷﾞｰ",
+          "crystalDescription": "5回行動までチャクラ消費量を30%ダウン",
+          "crystalImageId": "111025",
+          "recipeId": "11102",
+          "recipeName": "十尾の自然ｴﾈﾙｷﾞｰ"
+        },
+        {
           "crystalId": "11103",
           "crystalType": "3",
           "crystalRare": "5",

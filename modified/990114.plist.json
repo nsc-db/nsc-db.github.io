@@ -1571,6 +1571,16 @@
           "subScore": "0",
           "color": "13882323",
           "type": "3"
+        },
+        {
+          "cardUnusualId": "163",
+          "category": "3",
+          "iconId": "1181",
+          "name": "祖",
+          "description": "体術・仙術を除く、耐性無視を含むスキルを無効化＆行動の度に六道・炎滅手の即死確率をアップ",
+          "subScore": "0",
+          "color": "15794160",
+          "type": "2"
         }
       ]
     }

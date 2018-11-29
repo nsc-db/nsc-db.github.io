@@ -3549,6 +3549,12 @@
           "speechCharactorName": "カボチャ"
         },
         {
+          "speechCharactorId": "598",
+          "cardId": "20041103",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはオビト"
+        },
+        {
           "speechCharactorId": "1000",
           "cardId": "21000091",
           "speechCharactorImgId": "1000",
