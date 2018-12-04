@@ -458,6 +458,32 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
+          "worldStageId": "1203",
+          "worldAreaId": "5",
+          "priority": "1",
+          "name": "惨劇の夜へ",
+          "description": "うちは一族の隠された過去が今明かされる！\r\n※6話以降は12/12(水) 19:00追加予定！",
+          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
+          "worldStageId": "1204",
+          "worldAreaId": "5",
+          "priority": "2",
+          "name": "大激闘任務-師走の陣-",
+          "description": "ランパートではドロップではなく\r\nクリア時に個人Ptを獲得できます。",
+          "notice": "※報酬のキャラは先行配信であり、後日別の手段で入手可能になります。\r\n※イベントの内容及び日程は告知なく変更となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
           "worldStageId": "2061",
           "worldAreaId": "5",
           "priority": "30",
@@ -538,7 +564,7 @@
         {
           "worldStageId": "4084",
           "worldAreaId": "5",
-          "priority": "1",
+          "priority": "3",
           "name": "絶望を告げる力",
           "description": "Ptランキング開催！\r\n個人Ptはイベント期間中のみ加算されます",
           "notice": "※個人Pt報酬は、達成と同時に直接付与されます。\r\n※報酬の付与にはお時間をいただく場合がございます。\r\n※報酬の内容や付与については予告なく変更、中止となる場合がございます。",

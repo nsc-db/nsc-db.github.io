@@ -3549,6 +3549,24 @@
           "speechCharactorName": "カボチャ"
         },
         {
+          "speechCharactorId": "595",
+          "cardId": "20041205",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはシスイ"
+        },
+        {
+          "speechCharactorId": "596",
+          "cardId": "20041206",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはイタチ"
+        },
+        {
+          "speechCharactorId": "597",
+          "cardId": "20001586",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "テンゾウ"
+        },
+        {
           "speechCharactorId": "598",
           "cardId": "20041103",
           "speechCharactorImgId": "0",

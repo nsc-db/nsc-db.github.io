@@ -2235,6 +2235,15 @@
           "category": "0"
         },
         {
+          "cardBehaveAffectId": "10036",
+          "timing": "1",
+          "func": "34",
+          "params": "161,0",
+          "comp": "0",
+          "compParams": "0",
+          "category": "0"
+        },
+        {
           "cardBehaveAffectId": "1000001",
           "timing": "5",
           "func": "27",
@@ -4572,6 +4581,24 @@
           "params": "20,0",
           "comp": "5",
           "compParams": "59",
+          "category": "0"
+        },
+        {
+          "cardBehaveAffectId": "20010013",
+          "timing": "1",
+          "func": "20",
+          "params": "161,0",
+          "comp": "5",
+          "compParams": "12",
+          "category": "0"
+        },
+        {
+          "cardBehaveAffectId": "20010014",
+          "timing": "1",
+          "func": "20",
+          "params": "161,0",
+          "comp": "5",
+          "compParams": "14",
           "category": "0"
         },
         {

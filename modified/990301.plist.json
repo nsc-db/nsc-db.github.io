@@ -16177,6 +16177,38 @@
           "crystalImageId": "111215",
           "recipeId": "11121",
           "recipeName": "北の刻印・大"
+        },
+        {
+          "crystalId": "11203",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "712",
+          "effectIdx2": "528",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "シスイの額当て",
+          "crystalDescription": "ﾁｬｸﾗ消費量10％減少 、行動後ﾁｬｸﾗが10％回復",
+          "crystalImageId": "112035",
+          "recipeId": "11203",
+          "recipeName": "シスイの額当て"
+        },
+        {
+          "crystalId": "11204",
+          "crystalType": "1",
+          "crystalRare": "5",
+          "effectIdx1": "10039",
+          "effectIdx2": "13039",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "シスイのサンダル",
+          "crystalDescription": "最大HPと素早さが40%アップ",
+          "crystalImageId": "112045",
+          "recipeId": "11204",
+          "recipeName": "シスイのサンダル"
         }
       ]
     }

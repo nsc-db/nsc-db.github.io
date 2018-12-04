@@ -63858,6 +63858,651 @@
           "message": "第三生門…開！！"
         },
         {
+          "scriptMessageId": "25263",
+          "speechCharactorId": "151",
+          "message": "うちはがまたも会合を開くという…\r\nこれは…クーデターの準備だ"
+        },
+        {
+          "scriptMessageId": "25264",
+          "speechCharactorId": "582",
+          "message": "クーデターなどさせぬわ！\r\n……その芽は摘むことにする"
+        },
+        {
+          "scriptMessageId": "25265",
+          "speechCharactorId": "582",
+          "message": "用意もある…"
+        },
+        {
+          "scriptMessageId": "25266",
+          "speechCharactorId": "582",
+          "message": "シスイ！"
+        },
+        {
+          "scriptMessageId": "25267",
+          "speechCharactorId": "151",
+          "message": "…うちはシスイ"
+        },
+        {
+          "scriptMessageId": "25268",
+          "speechCharactorId": "582",
+          "message": "シスイがその会合に出る"
+        },
+        {
+          "scriptMessageId": "25269",
+          "speechCharactorId": "595",
+          "message": "……もしクーデターがおこるようならば\r\n別天神を使います"
+        },
+        {
+          "scriptMessageId": "25270",
+          "speechCharactorId": "151",
+          "message": "お前の瞳術か……"
+        },
+        {
+          "scriptMessageId": "25271",
+          "speechCharactorId": "582",
+          "message": "相手に気付かれることなく\r\n己の意志で動いてるかのように\r\n操るという……"
+        },
+        {
+          "scriptMessageId": "25272",
+          "speechCharactorId": "595",
+          "message": "うちは一族の長…フガクさんに\r\n里との共存を考えてもらいます"
+        },
+        {
+          "scriptMessageId": "25273",
+          "speechCharactorId": "151",
+          "message": "フガク一人の考えで…\r\nうちは一族が変わるとも思えん……"
+        },
+        {
+          "scriptMessageId": "25274",
+          "speechCharactorId": "582",
+          "message": "うちはが変わると言うなら\r\nワシらも変われば良い"
+        },
+        {
+          "scriptMessageId": "25275",
+          "speechCharactorId": "582",
+          "message": "暗部を一人、後方支援に付けておく…\r\n頼むぞ、シスイ…"
+        },
+        {
+          "scriptMessageId": "25276",
+          "speechCharactorId": "595",
+          "message": "ハッ！"
+        },
+        {
+          "scriptMessageId": "25277",
+          "speechCharactorId": "242",
+          "message": "…………"
+        },
+        {
+          "scriptMessageId": "25278",
+          "speechCharactorId": "242",
+          "message": "………遅いな…"
+        },
+        {
+          "scriptMessageId": "25279",
+          "speechCharactorId": "595",
+          "message": "なんでしょうか？\r\nそろそろ会合の時間なのですが…"
+        },
+        {
+          "scriptMessageId": "25280",
+          "speechCharactorId": "151",
+          "message": "……フガクに瞳術をかけ…\r\nうちはをまとめたとて…\r\n里が変わらなければどうする？"
+        },
+        {
+          "scriptMessageId": "25281",
+          "speechCharactorId": "595",
+          "message": "火影様が変えてくれると…\r\n約束してくれました"
+        },
+        {
+          "scriptMessageId": "25282",
+          "speechCharactorId": "151",
+          "message": "三代目が説得しても\r\n里の者の不信感は早々には消えぬぞ"
+        },
+        {
+          "scriptMessageId": "25283",
+          "speechCharactorId": "595",
+          "message": "分かっています…\r\nですが、時間をかけていけば…"
+        },
+        {
+          "scriptMessageId": "25284",
+          "speechCharactorId": "151",
+          "message": "それにだ…"
+        },
+        {
+          "scriptMessageId": "25285",
+          "speechCharactorId": "151",
+          "message": "…ワシのように疑り深い者は\r\nそう簡単には考えを変えぬ…\r\nその時はどうする？"
+        },
+        {
+          "scriptMessageId": "25286",
+          "speechCharactorId": "595",
+          "message": "…ダンゾウ様？"
+        },
+        {
+          "scriptMessageId": "25287",
+          "speechCharactorId": "151",
+          "message": "その時は、このワシにも\r\n別天神とやらを使うというのか…？"
+        },
+        {
+          "scriptMessageId": "25288",
+          "speechCharactorId": "151",
+          "message": "…その写輪眼…ワシが預かる！！"
+        },
+        {
+          "scriptMessageId": "25289",
+          "speechCharactorId": "151",
+          "message": "自己犠牲…それが忍だ"
+        },
+        {
+          "scriptMessageId": "25290",
+          "speechCharactorId": "595",
+          "message": "なっ…！？"
+        },
+        {
+          "scriptMessageId": "25291",
+          "speechCharactorId": "595",
+          "message": "その眼…写輪眼！？\r\nそれに……その術は！"
+        },
+        {
+          "scriptMessageId": "25292",
+          "speechCharactorId": "151",
+          "message": "……この眼の代わりにいただくぞ"
+        },
+        {
+          "scriptMessageId": "25293",
+          "speechCharactorId": "595",
+          "message": "……どうしてこんな…"
+        },
+        {
+          "scriptMessageId": "25294",
+          "speechCharactorId": "151",
+          "message": "…ワシには責任がある"
+        },
+        {
+          "scriptMessageId": "25295",
+          "speechCharactorId": "151",
+          "message": "木ノ葉の里を守るという、責任がな"
+        },
+        {
+          "scriptMessageId": "25296",
+          "speechCharactorId": "151",
+          "message": "さて……"
+        },
+        {
+          "scriptMessageId": "25297",
+          "speechCharactorId": "151",
+          "message": "残った左目もいただくとしよう…"
+        },
+        {
+          "scriptMessageId": "25298",
+          "speechCharactorId": "151",
+          "message": "世の中はな…綺麗ごとだけでは\r\n回らんのだ…"
+        },
+        {
+          "scriptMessageId": "25299",
+          "speechCharactorId": "151",
+          "message": "ヒルゼンの言う甘い戯言では\r\n木ノ葉は守れん"
+        },
+        {
+          "scriptMessageId": "25300",
+          "speechCharactorId": "151",
+          "message": "さて…もう一つの眼も\r\nいただくぞ……"
+        },
+        {
+          "scriptMessageId": "25301",
+          "speechCharactorId": "151",
+          "message": "木ノ葉の為…\r\nお前の眼はワシが役立てる"
+        },
+        {
+          "scriptMessageId": "25302",
+          "speechCharactorId": "151",
+          "message": "お前の犠牲も木ノ葉には必要なのだ"
+        },
+        {
+          "scriptMessageId": "25303",
+          "speechCharactorId": "151",
+          "message": "大人しく眼を渡せ"
+        },
+        {
+          "scriptMessageId": "25304",
+          "speechCharactorId": "595",
+          "message": "……くっ……\r\nダンゾウ様…一体…何を考えておいでか…"
+        },
+        {
+          "scriptMessageId": "25305",
+          "speechCharactorId": "151",
+          "message": "どのような手段に訴えてでも\r\n木ノ葉の里を守る責任が、ワシにはある"
+        },
+        {
+          "scriptMessageId": "25306",
+          "speechCharactorId": "151",
+          "message": "その写輪眼、お前には過ぎた代物だ…"
+        },
+        {
+          "scriptMessageId": "25307",
+          "speechCharactorId": "151",
+          "message": "瞬身の術か…"
+        },
+        {
+          "scriptMessageId": "25308",
+          "speechCharactorId": "151",
+          "message": "追え！！\r\n逃がすでない！"
+        },
+        {
+          "scriptMessageId": "25309",
+          "speechCharactorId": "242",
+          "message": "…………"
+        },
+        {
+          "scriptMessageId": "25310",
+          "speechCharactorId": "595",
+          "message": "イタチ……"
+        },
+        {
+          "scriptMessageId": "25311",
+          "speechCharactorId": "242",
+          "message": "…シスイか！"
+        },
+        {
+          "scriptMessageId": "25312",
+          "speechCharactorId": "595",
+          "message": "……来い…\r\n場所を変えよう…"
+        },
+        {
+          "scriptMessageId": "25313",
+          "speechCharactorId": "242",
+          "message": "……シスイ…\r\nお前…その眼…"
+        },
+        {
+          "scriptMessageId": "25314",
+          "speechCharactorId": "595",
+          "message": "もう…うちはのクーデターは\r\n止められそうにない"
+        },
+        {
+          "scriptMessageId": "25315",
+          "speechCharactorId": "595",
+          "message": "別天神を使い\r\nクーデターを止めようとした矢先…\r\nダンゾウに右眼を奪われた"
+        },
+        {
+          "scriptMessageId": "25316",
+          "speechCharactorId": "595",
+          "message": "奴はオレを信用していない…\r\nなりふりかまうことなく\r\n自分のやり方で里を守るつもりだ"
+        },
+        {
+          "scriptMessageId": "25317",
+          "speechCharactorId": "595",
+          "message": "おそらく左眼も狙われる…\r\nその前に、この眼はお前に渡す"
+        },
+        {
+          "scriptMessageId": "25318",
+          "speechCharactorId": "595",
+          "message": "…頼めるのは親友のお前だけだ"
+        },
+        {
+          "scriptMessageId": "25319",
+          "speechCharactorId": "595",
+          "message": "この里を…\r\nうちはの名を…守ってくれ"
+        },
+        {
+          "scriptMessageId": "25320",
+          "speechCharactorId": "242",
+          "message": "……確かに受け取ったぞ"
+        },
+        {
+          "scriptMessageId": "25321",
+          "speechCharactorId": "242",
+          "message": "お前はどうするんだ？"
+        },
+        {
+          "scriptMessageId": "25322",
+          "speechCharactorId": "595",
+          "message": "オレが死ねば…\r\nいくつか状況も変わるだろう…"
+        },
+        {
+          "scriptMessageId": "25323",
+          "speechCharactorId": "242",
+          "message": "…！！！\r\nまてシスイ！！！"
+        },
+        {
+          "scriptMessageId": "25324",
+          "speechCharactorId": "595",
+          "message": "止めるなよ、イタチ！！"
+        },
+        {
+          "scriptMessageId": "25325",
+          "speechCharactorId": "595",
+          "message": "オレの……友ならば…"
+        },
+        {
+          "scriptMessageId": "25326",
+          "speechCharactorId": "242",
+          "message": "………シスイ……"
+        },
+        {
+          "scriptMessageId": "25327",
+          "speechCharactorId": "242",
+          "message": "………シスイ…"
+        },
+        {
+          "scriptMessageId": "25328",
+          "speechCharactorId": "242",
+          "message": "あれから状況は更に悪くなった…"
+        },
+        {
+          "scriptMessageId": "25329",
+          "speechCharactorId": "242",
+          "message": "里は…うちは一族の監視を強化し…\r\n一族の…里への反感はもう限界に達している…"
+        },
+        {
+          "scriptMessageId": "25330",
+          "speechCharactorId": "426",
+          "message": "もはや容認できぬぞえ！"
+        },
+        {
+          "scriptMessageId": "25331",
+          "speechCharactorId": "426",
+          "message": "それを革命とのたまい\r\n政権を奪取するつもりなら"
+        },
+        {
+          "scriptMessageId": "25332",
+          "speechCharactorId": "426",
+          "message": "うちはは木ノ葉の逆賊として処断せざるをえぬ"
+        },
+        {
+          "scriptMessageId": "25333",
+          "speechCharactorId": "582",
+          "message": "コハル待て！\r\n結論を急ぐな"
+        },
+        {
+          "scriptMessageId": "25334",
+          "speechCharactorId": "151",
+          "message": "しかしヒルゼン\r\n…うちは一族はもう止まらぬ"
+        },
+        {
+          "scriptMessageId": "25335",
+          "speechCharactorId": "151",
+          "message": "ならば混乱をさけるためにも\r\n一刻も早く手を打つべきだ"
+        },
+        {
+          "scriptMessageId": "25336",
+          "speechCharactorId": "151",
+          "message": "…何も知らぬ子供を含めてな"
+        },
+        {
+          "scriptMessageId": "25337",
+          "speechCharactorId": "582",
+          "message": "うちははかつての戦友…\r\n力ではなく言葉で話しかけたい"
+        },
+        {
+          "scriptMessageId": "25338",
+          "speechCharactorId": "582",
+          "message": "ワシが策を考える"
+        },
+        {
+          "scriptMessageId": "25339",
+          "speechCharactorId": "582",
+          "message": "イタチ…少しでもいい…\r\nできる限り時間稼ぎをしてくれ"
+        },
+        {
+          "scriptMessageId": "25340",
+          "speechCharactorId": "242",
+          "message": "すまないシスイ……"
+        },
+        {
+          "scriptMessageId": "25341",
+          "speechCharactorId": "242",
+          "message": "オレは……"
+        },
+        {
+          "scriptMessageId": "25342",
+          "speechCharactorId": "242",
+          "message": "両方は守れそうにない……"
+        },
+        {
+          "scriptMessageId": "25343",
+          "speechCharactorId": "151",
+          "message": "三代目はああ言っているが\r\nいざとなれば木ノ葉を守るため動く…"
+        },
+        {
+          "scriptMessageId": "25344",
+          "speechCharactorId": "151",
+          "message": "奴はそういう男だ"
+        },
+        {
+          "scriptMessageId": "25345",
+          "speechCharactorId": "151",
+          "message": "そうなれば\r\nあのヒルゼンとて火影として\r\n断固たる処置をとらざるをえん"
+        },
+        {
+          "scriptMessageId": "25346",
+          "speechCharactorId": "151",
+          "message": "戦争になろうがなるまいが\r\nクーデターが起こった時点で…"
+        },
+        {
+          "scriptMessageId": "25347",
+          "speechCharactorId": "151",
+          "message": "どのみち、うちはは全滅する運命にある\r\n……何も知らぬお前の弟も含めてな"
+        },
+        {
+          "scriptMessageId": "25348",
+          "speechCharactorId": "242",
+          "message": "…それは脅しか？"
+        },
+        {
+          "scriptMessageId": "25349",
+          "speechCharactorId": "151",
+          "message": "イヤ…選択してほしいのだ"
+        },
+        {
+          "scriptMessageId": "25350",
+          "speechCharactorId": "151",
+          "message": "うちは側に付き\r\nクーデターを起こして\r\n家族一族と共に全滅するか"
+        },
+        {
+          "scriptMessageId": "25351",
+          "speechCharactorId": "151",
+          "message": "我ら木ノ葉側に付き\r\nクーデター前に弟だけを残して\r\nうちは全滅に協力するか…"
+        },
+        {
+          "scriptMessageId": "25352",
+          "speechCharactorId": "151",
+          "message": "……里を想う気持ちはお前も同じ…\r\nこの任務…引き受けてくれるか？"
+        },
+        {
+          "scriptMessageId": "25353",
+          "speechCharactorId": "242",
+          "message": "…………………"
+        },
+        {
+          "scriptMessageId": "25354",
+          "speechCharactorId": "313",
+          "message": "…………"
+        },
+        {
+          "scriptMessageId": "25355",
+          "speechCharactorId": "312",
+          "message": "……父さんは\r\n兄さんの事ばかりだ……"
+        },
+        {
+          "scriptMessageId": "25356",
+          "speechCharactorId": "313",
+          "message": "オレがうとましいか？"
+        },
+        {
+          "scriptMessageId": "25357",
+          "speechCharactorId": "312",
+          "message": "………！"
+        },
+        {
+          "scriptMessageId": "25358",
+          "speechCharactorId": "313",
+          "message": "別にいいさ…"
+        },
+        {
+          "scriptMessageId": "25359",
+          "speechCharactorId": "313",
+          "message": "忍ってのは\r\n人に憎まれ生きていくのが\r\n道理ってもんだからな"
+        },
+        {
+          "scriptMessageId": "25360",
+          "speechCharactorId": "312",
+          "message": "そ……そんなふうには……"
+        },
+        {
+          "scriptMessageId": "25361",
+          "speechCharactorId": "313",
+          "message": "……クク…優秀ってのも考えものさ"
+        },
+        {
+          "scriptMessageId": "25362",
+          "speechCharactorId": "313",
+          "message": "力を持てば孤立もするし\r\n傲慢にもなってくる"
+        },
+        {
+          "scriptMessageId": "25363",
+          "speechCharactorId": "313",
+          "message": "最初は望まれ求められていたとしてもだ"
+        },
+        {
+          "scriptMessageId": "25364",
+          "speechCharactorId": "313",
+          "message": "ただ…お前とオレは\r\n唯一無二の兄弟だ"
+        },
+        {
+          "scriptMessageId": "25365",
+          "speechCharactorId": "313",
+          "message": "お前の越えるべき壁として\r\nオレはお前と共に在り続けるさ"
+        },
+        {
+          "scriptMessageId": "25366",
+          "speechCharactorId": "313",
+          "message": "たとえ憎まれようともな…"
+        },
+        {
+          "scriptMessageId": "25367",
+          "speechCharactorId": "313",
+          "message": "それが兄貴ってもんだ"
+        },
+        {
+          "scriptMessageId": "25368",
+          "speechCharactorId": "312",
+          "message": "ねぇねぇ兄さん！"
+        },
+        {
+          "scriptMessageId": "25369",
+          "speechCharactorId": "312",
+          "message": "今日、手裏剣術の修業につき合ってよ……"
+        },
+        {
+          "scriptMessageId": "25370",
+          "speechCharactorId": "313",
+          "message": "オレは忙しいんだ…\r\n父上にでも教わればいいだろう"
+        },
+        {
+          "scriptMessageId": "25371",
+          "speechCharactorId": "312",
+          "message": "だって手裏剣術なら\r\n兄さんの方が上手だって…"
+        },
+        {
+          "scriptMessageId": "25372",
+          "speechCharactorId": "312",
+          "message": "子供のオレでも分かるよ"
+        },
+        {
+          "scriptMessageId": "25373",
+          "speechCharactorId": "313",
+          "message": "許せサスケ…\r\n……また今度だ"
+        },
+        {
+          "scriptMessageId": "25374",
+          "speechCharactorId": "312",
+          "message": "もう…いつもそればっかりだ"
+        },
+        {
+          "scriptMessageId": "25375",
+          "speechCharactorId": "596",
+          "message": "こうなる前に…\r\n言っておけばよかったと…"
+        },
+        {
+          "scriptMessageId": "25376",
+          "speechCharactorId": "596",
+          "message": "今となっては思うよ\r\nサスケ…"
+        },
+        {
+          "scriptMessageId": "25377",
+          "speechCharactorId": "494",
+          "message": "一体…何が…"
+        },
+        {
+          "scriptMessageId": "25378",
+          "speechCharactorId": "428",
+          "message": "これは…酷いですね\r\n誰がこんなことを…"
+        },
+        {
+          "scriptMessageId": "25379",
+          "speechCharactorId": "151",
+          "message": "イタチだ…"
+        },
+        {
+          "scriptMessageId": "25380",
+          "speechCharactorId": "494",
+          "message": "イタチが！？"
+        },
+        {
+          "scriptMessageId": "25381",
+          "speechCharactorId": "151",
+          "message": "ああ…\r\n奴はうちは一族を恨んでおったからな"
+        },
+        {
+          "scriptMessageId": "25382",
+          "speechCharactorId": "582",
+          "message": "ダンゾウ…キサマという奴は！！！"
+        },
+        {
+          "scriptMessageId": "25383",
+          "speechCharactorId": "151",
+          "message": "こうなっては仕方あるまい？"
+        },
+        {
+          "scriptMessageId": "25384",
+          "speechCharactorId": "582",
+          "message": "最早、お前の勝手を許してはおけん！"
+        },
+        {
+          "scriptMessageId": "25385",
+          "speechCharactorId": "582",
+          "message": "根は解体、お主は沙汰があるまで謹慎しておれ！！"
+        },
+        {
+          "scriptMessageId": "25386",
+          "speechCharactorId": "151",
+          "message": "ヒルゼン…！！"
+        },
+        {
+          "scriptMessageId": "25387",
+          "speechCharactorId": "596",
+          "message": "………"
+        },
+        {
+          "scriptMessageId": "25388",
+          "speechCharactorId": "596",
+          "message": "これで二度と言うことはない…"
+        },
+        {
+          "scriptMessageId": "25389",
+          "speechCharactorId": "596",
+          "message": "オレは全ての真実を失った…"
+        },
+        {
+          "scriptMessageId": "25390",
+          "speechCharactorId": "596",
+          "message": "もう二度と…"
+        },
+        {
+          "scriptMessageId": "25391",
+          "speechCharactorId": "596",
+          "message": "…………"
+        },
+        {
           "scriptMessageId": "25392",
           "speechCharactorId": "483",
           "message": "か…体がァ…ウオオオオオ！！！"
@@ -64096,6 +64741,16 @@
           "scriptMessageId": "25439",
           "speechCharactorId": "598",
           "message": "後悔したくなくば\r\nもう何もしないことだ"
+        },
+        {
+          "scriptMessageId": "25440",
+          "speechCharactorId": "235",
+          "message": "『大激闘任務』は、いくつもの任務を\r\nクリアしていくイベントだ。\r\n任務をクリアすると次の任務が解放される"
+        },
+        {
+          "scriptMessageId": "25441",
+          "speechCharactorId": "235",
+          "message": "長期戦だ…準備は怠るな"
         },
         {
           "scriptMessageId": "40001",

@@ -18030,6 +18030,42 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2059",
+          "abilityName": "身に刻まれた責め苦",
+          "abilityDescription": "班の木ノ葉隠れの里所属のキャラ1体につき、攻撃力が20%アップ（自身含む）",
+          "abilityEffectDescription": "班の木ノ葉隠れの里所属のキャラ1体につき、攻撃力が20%アップ（自身含む）",
+          "effectIdx1": "687",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2060",
+          "abilityName": "拷問の名手",
+          "abilityDescription": "弱体と状態異常を半減する",
+          "abilityEffectDescription": "弱体と状態異常を半減する",
+          "effectIdx1": "776",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2063",
+          "abilityName": "“瞬身”の二つ名",
+          "abilityDescription": "200%の確率でスキルを回避、行動後に高確率で再度行動できる※再行動後にさらに行動はできない",
+          "abilityEffectDescription": "200%の確率でスキルを回避、行動後に高確率で再度行動できる※再行動後にさらに行動はできない",
+          "effectIdx1": "1724",
+          "effectIdx2": "1600",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2064",
+          "abilityName": "友に託す願い",
+          "abilityDescription": "最大チャクラ量100アップ、1回行動するまで受ける耐性無視ダメージを0、状態異常と幻を無効化",
+          "abilityEffectDescription": "最大チャクラ量100アップ、1回行動するまで受ける耐性無視ダメージを0、状態異常と幻を無効化",
+          "effectIdx1": "813",
+          "effectIdx2": "1961",
+          "effectIdx3": "1984"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
