@@ -796,6 +796,19 @@
           "selectType": "1"
         },
         {
+          "itemId": "11062",
+          "name": "期間限定強化応援味",
+          "description": "スタミナを全回復するラーメン（12月14日15:59まで期間限定）",
+          "resultWord": "0",
+          "itemCategoryId": "1",
+          "itemValue": "1000000",
+          "itemNum": "0",
+          "itemImageId": "11020",
+          "needCount": "1",
+          "priority": "1",
+          "selectType": "1"
+        },
+        {
           "itemId": "15001",
           "name": "共闘コイン",
           "description": "共闘コインガチャの実行に必要なコイン。",
@@ -1199,6 +1212,19 @@
           "selectType": "2"
         },
         {
+          "itemId": "51026",
+          "name": "期間限定 昇級Pt倍化薬",
+          "description": "昇級試験での獲得Ptが2倍になります（12月31日まで期間限定）。",
+          "resultWord": "昇級試験 獲得Pt2倍",
+          "itemCategoryId": "11",
+          "itemValue": "20000",
+          "itemNum": "0",
+          "itemImageId": "51001",
+          "needCount": "1",
+          "priority": "100",
+          "selectType": "2"
+        },
+        {
           "itemId": "52000",
           "name": "限定ドロップ数２倍の秘伝書",
           "description": "バトルでの獲得ドロップ数が２倍になります。（1月4日15:59まで期間限定）",
@@ -1407,6 +1433,32 @@
           "selectType": "2"
         },
         {
+          "itemId": "52016",
+          "name": "12月限定ﾄﾞﾛｯﾌﾟ数2倍の秘伝書",
+          "description": "バトルでの獲得ドロップ数が２倍になります。（12月31日まで期間限定）",
+          "resultWord": "忍/素材ドロップ数２倍",
+          "itemCategoryId": "10",
+          "itemValue": "20000",
+          "itemNum": "0",
+          "itemImageId": "51000",
+          "needCount": "1",
+          "priority": "100",
+          "selectType": "2"
+        },
+        {
+          "itemId": "52017",
+          "name": "強化応援ﾄﾞﾛｯﾌﾟ数2倍の秘伝書",
+          "description": "バトルでの獲得ドロップ数が２倍になります。（12月14日15:59まで期間限定）",
+          "resultWord": "忍/素材ドロップ数２倍",
+          "itemCategoryId": "10",
+          "itemValue": "20000",
+          "itemNum": "0",
+          "itemImageId": "51000",
+          "needCount": "1",
+          "priority": "100",
+          "selectType": "2"
+        },
+        {
           "itemId": "60000",
           "name": "SNB総選挙投票券",
           "description": "SNB総選挙の投票に必要なアイテム",
@@ -1506,6 +1558,19 @@
           "itemValue": "0",
           "itemNum": "0",
           "itemImageId": "60006",
+          "needCount": "1",
+          "priority": "1",
+          "selectType": "3"
+        },
+        {
+          "itemId": "60008",
+          "name": "ナルコレ大賞投票券",
+          "description": "ナルコレ大賞2018で投票に必要なアイテム。（12月28日15:59まで期間限定）",
+          "resultWord": "0",
+          "itemCategoryId": "20",
+          "itemValue": "0",
+          "itemNum": "0",
+          "itemImageId": "60008",
           "needCount": "1",
           "priority": "1",
           "selectType": "3"

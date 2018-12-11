@@ -18066,6 +18066,24 @@
           "effectIdx3": "1984"
         },
         {
+          "abilityId": "2065",
+          "abilityName": "一族を担う天才",
+          "abilityDescription": "敵に超忍祭限定キャラが生存していると素早さ130%アップ、バトル開始時にチャクラ全回復",
+          "abilityEffectDescription": "敵に超忍祭限定キャラが生存していると素早さ130%アップ、バトル開始時にチャクラ全回復",
+          "effectIdx1": "1993",
+          "effectIdx2": "1994",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2066",
+          "abilityName": "闇より見る先",
+          "abilityDescription": "HP0以下で3回までHP＆チャクラ全回復",
+          "abilityEffectDescription": "HP0以下で3回までHP＆チャクラ全回復",
+          "effectIdx1": "1789",
+          "effectIdx2": "874",
+          "effectIdx3": "881"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

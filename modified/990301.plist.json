@@ -16209,6 +16209,38 @@
           "crystalImageId": "112045",
           "recipeId": "11204",
           "recipeName": "シスイのサンダル"
+        },
+        {
+          "crystalId": "11205",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "859",
+          "effectIdx2": "20002",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "暗部の入れ墨",
+          "crystalDescription": "チャクラ消費量30％ダウン、最大チャクラ量30アップ",
+          "crystalImageId": "112055",
+          "recipeId": "11205",
+          "recipeName": "暗部の入れ墨"
+        },
+        {
+          "crystalId": "11206",
+          "crystalType": "1",
+          "crystalRare": "5",
+          "effectIdx1": "10059",
+          "effectIdx2": "11059",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "イタチのクナイ",
+          "crystalDescription": "最大HPと攻撃力が60％アップする",
+          "crystalImageId": "112065",
+          "recipeId": "11206",
+          "recipeName": "イタチのクナイ"
         }
       ]
     }

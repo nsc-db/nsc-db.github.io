@@ -10429,6 +10429,19 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "820",
+          "name": "見据える未来",
+          "description": "知属性の最大HPを100%アップし、状態異常と幻を無効化する",
+          "effectIdx1": "684",
+          "effectIdx2": "82",
+          "effectIdx3": "1642",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "6",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

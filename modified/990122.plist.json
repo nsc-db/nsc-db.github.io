@@ -1863,6 +1863,18 @@
           "voiceDeath": "obito_death_02_06"
         },
         {
+          "cardVoiceId": "157",
+          "cardId": "20041206",
+          "dirName": "itachi",
+          "evolutionStep": "",
+          "voiceAppear": "itachi_pursuit_02_01",
+          "voiceSkill1": "itachi_attack_02_01,itachi_attack_02_02",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "itachi_win_02_04",
+          "voiceDeath": "itachi_death_02_03"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

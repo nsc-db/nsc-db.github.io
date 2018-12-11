@@ -1583,6 +1583,16 @@
           "type": "3"
         },
         {
+          "cardUnusualId": "162",
+          "category": "3",
+          "iconId": "1180",
+          "name": "暗影",
+          "description": "全スキル無効。スキルダメージがダウン。スキル攻撃を受けると解除され敵全体に拘束状態を付与",
+          "subScore": "0",
+          "color": "9109504",
+          "type": "2"
+        },
+        {
           "cardUnusualId": "163",
           "category": "3",
           "iconId": "1181",
