@@ -589,6 +589,10 @@
         {
           "defineKey": "gacha_ticket_remain_time_display_border",
           "defineValue": "259200"
+        },
+        {
+          "defineKey": "not_release_dailypack",
+          "defineValue": "1"
         }
       ]
     }

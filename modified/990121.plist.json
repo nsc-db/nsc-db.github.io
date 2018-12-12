@@ -5664,6 +5664,15 @@
           "category": "0"
         },
         {
+          "cardBehaveAffectId": "20050063",
+          "timing": "1",
+          "func": "20",
+          "params": "3,0",
+          "comp": "9",
+          "compParams": "116",
+          "category": "0"
+        },
+        {
           "cardBehaveAffectId": "20101000",
           "timing": "1",
           "func": "20",

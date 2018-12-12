@@ -18561,6 +18561,24 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "100021",
+          "abilityName": "手裏剣術のお稽古",
+          "abilityDescription": "最大HP・スキルダメージが100%アップする",
+          "abilityEffectDescription": "最大HP・スキルダメージが100%アップする",
+          "effectIdx1": "684",
+          "effectIdx2": "774",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "100022",
+          "abilityName": "兄への憧憬",
+          "abilityDescription": "攻撃・防御・素早さが150%アップする",
+          "abilityEffectDescription": "攻撃・防御・素早さが150%アップする",
+          "effectIdx1": "1268",
+          "effectIdx2": "1459",
+          "effectIdx3": "967"
+        },
+        {
           "abilityId": "801187",
           "abilityName": "揺るぎなき忍道",
           "abilityDescription": "最大HPが100%アップし、輪廻写輪眼のスキルダメージを軽減する",

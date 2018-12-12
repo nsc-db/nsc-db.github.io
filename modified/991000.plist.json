@@ -3635,7 +3635,7 @@
         {
           "appUiId": "727",
           "uiKey": "addition",
-          "text": "おとく"
+          "text": "（おとく）"
         },
         {
           "appUiId": "728",
@@ -7238,6 +7238,11 @@
           "text": "約%.2fMBのリソースを\r\nダウンロードします。"
         },
         {
+          "appUiId": "1451",
+          "uiKey": "Infinity",
+          "text": "∞"
+        },
+        {
           "appUiId": "1452",
           "uiKey": "MissionRank100",
           "text": "模擬演習 特別上忍"
@@ -7251,6 +7256,46 @@
           "appUiId": "1454",
           "uiKey": "MissionRank102",
           "text": "模擬演習 伝説"
+        },
+        {
+          "appUiId": "1455",
+          "uiKey": "NotificationDailyPackTitle",
+          "text": "今日の招き猫パック報酬獲得"
+        },
+        {
+          "appUiId": "1456",
+          "uiKey": "NotificationDailyPackMessage",
+          "text": "プレゼントから受け取るのじゃ"
+        },
+        {
+          "appUiId": "1457",
+          "uiKey": "DailyPackPeriod",
+          "text": "%sまで有効"
+        },
+        {
+          "appUiId": "1458",
+          "uiKey": "PurchaseWithPrice",
+          "text": "購入する（%s）"
+        },
+        {
+          "appUiId": "1459",
+          "uiKey": "DailyPackPurchaseConfirm",
+          "text": "「%s」を購入しますか？"
+        },
+        {
+          "appUiId": "1460",
+          "uiKey": "DailyPackPurchasedText",
+          "text": "1日1回プレゼント"
+        },
+        {
+          "appUiId": "1461",
+          "uiKey": "CantPurchaseDailyPack",
+          "text": "すでに購入中のため\r\n新しいパックを購入出来ません"
+        },
+        {
+          "appUiId": "1462",
+          "uiKey": "DataMigrationCodeOnlyDesc",
+          "text": "ここではデータの引き継ぎを行えます\r\n■引き継ぎコード発行\r\n　引き継ぎコードを発行します"
         }
       ]
     }
