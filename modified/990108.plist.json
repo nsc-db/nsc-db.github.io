@@ -10442,6 +10442,32 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "821",
+          "name": "輪廻祭の祝姫",
+          "description": "勇属性と知属性の最大HPを200％アップし、スキルダメージを100%アップ",
+          "effectIdx1": "10100",
+          "effectIdx2": "774",
+          "effectIdx3": "0",
+          "compType": "2",
+          "target1Category": "1",
+          "target1Param": "7",
+          "target2Category": "1",
+          "target2Param": "6"
+        },
+        {
+          "cardLeaderSkillId": "822",
+          "name": "輪廻祭の華姫",
+          "description": "知属性の攻撃力と防御力を100%アップ",
+          "effectIdx1": "11099",
+          "effectIdx2": "12099",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "6",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

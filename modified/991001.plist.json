@@ -64753,6 +64753,411 @@
           "message": "長期戦だ…準備は怠るな"
         },
         {
+          "scriptMessageId": "25442",
+          "speechCharactorId": "602",
+          "message": "姉さま！\r\n…姉さまったら！！"
+        },
+        {
+          "scriptMessageId": "25443",
+          "speechCharactorId": "354",
+          "message": "……！？\r\nど…どうしたのハナビ…"
+        },
+        {
+          "scriptMessageId": "25444",
+          "speechCharactorId": "602",
+          "message": "もう…！ \r\n今年の輪廻祭は…… \r\nどうするのかって話の途中でしょ！"
+        },
+        {
+          "scriptMessageId": "25445",
+          "speechCharactorId": "354",
+          "message": "どうするのって…… \r\n言われても……"
+        },
+        {
+          "scriptMessageId": "25446",
+          "speechCharactorId": "602",
+          "message": "プレゼント…！ \r\n今年“も”用意してるんでしょ？"
+        },
+        {
+          "scriptMessageId": "25447",
+          "speechCharactorId": "354",
+          "message": "えっ…もちろん、ハナビにも…"
+        },
+        {
+          "scriptMessageId": "25448",
+          "speechCharactorId": "602",
+          "message": "ありがと、姉さま！\r\nでも…そうじゃないでしょ！！"
+        },
+        {
+          "scriptMessageId": "25449",
+          "speechCharactorId": "354",
+          "message": "そうじゃない…って…"
+        },
+        {
+          "scriptMessageId": "25450",
+          "speechCharactorId": "602",
+          "message": "もう…！ \r\nハッキリしないー！！"
+        },
+        {
+          "scriptMessageId": "25451",
+          "speechCharactorId": "354",
+          "message": "………でも…"
+        },
+        {
+          "scriptMessageId": "25452",
+          "speechCharactorId": "602",
+          "message": "あーもう姉さまはしょうがないなァ…"
+        },
+        {
+          "scriptMessageId": "25453",
+          "speechCharactorId": "354",
+          "message": "………うん… \r\nごめんね…"
+        },
+        {
+          "scriptMessageId": "25454",
+          "speechCharactorId": "602",
+          "message": "しかたないなぁ……"
+        },
+        {
+          "scriptMessageId": "25455",
+          "speechCharactorId": "602",
+          "message": "よーし！\r\n私に任せておいて！"
+        },
+        {
+          "scriptMessageId": "25456",
+          "speechCharactorId": "354",
+          "message": "えっ…？"
+        },
+        {
+          "scriptMessageId": "25457",
+          "speechCharactorId": "354",
+          "message": "ハナビ？\r\nちょっと待ってハナビ！！"
+        },
+        {
+          "scriptMessageId": "25458",
+          "speechCharactorId": "602",
+          "message": "大丈夫、任せて！\r\n行ってくるね！！"
+        },
+        {
+          "scriptMessageId": "25459",
+          "speechCharactorId": "344",
+          "message": "あれはヒナタの妹……\r\nかなり急いでいるようだ"
+        },
+        {
+          "scriptMessageId": "25460",
+          "speechCharactorId": "345",
+          "message": "おう！\r\nどうしたよ、ハナビ"
+        },
+        {
+          "scriptMessageId": "25461",
+          "speechCharactorId": "602",
+          "message": "シノさんとキバさんかー……"
+        },
+        {
+          "scriptMessageId": "25462",
+          "speechCharactorId": "344",
+          "message": "………\r\nなぜ、ガッカリする…"
+        },
+        {
+          "scriptMessageId": "25463",
+          "speechCharactorId": "327",
+          "message": "なになに？\r\nアンタ達、どうしたの？"
+        },
+        {
+          "scriptMessageId": "25464",
+          "speechCharactorId": "602",
+          "message": "いのさん！\r\nいいところに、お願いがあって！！"
+        },
+        {
+          "scriptMessageId": "25465",
+          "speechCharactorId": "345",
+          "message": "オイ―――――――！\r\nオレ達は無視か！！"
+        },
+        {
+          "scriptMessageId": "25466",
+          "speechCharactorId": "602",
+          "message": "…キバさんって…\r\n恋心とか分かりますか？"
+        },
+        {
+          "scriptMessageId": "25467",
+          "speechCharactorId": "345",
+          "message": "……ば…バッカお前…\r\nオレはモテモテだって？\r\nなぁ…シノ、赤丸"
+        },
+        {
+          "scriptMessageId": "25468",
+          "speechCharactorId": "344",
+          "message": "初耳だ……\r\nそういう事なら、オレ達は\r\nあまり役に立てないようだ"
+        },
+        {
+          "scriptMessageId": "25469",
+          "speechCharactorId": "344",
+          "message": "なぜなら……"
+        },
+        {
+          "scriptMessageId": "25470",
+          "speechCharactorId": "345",
+          "message": "やめろシノ……\r\nもう、いのも…\r\nハナビもいねェ……"
+        },
+        {
+          "scriptMessageId": "25471",
+          "speechCharactorId": "327",
+          "message": "ふむふむ…\r\nなるほどねー……"
+        },
+        {
+          "scriptMessageId": "25472",
+          "speechCharactorId": "327",
+          "message": "あのヒナタだもんねェ…\r\n輪廻祭に誘ってるイメージはないわ"
+        },
+        {
+          "scriptMessageId": "25473",
+          "speechCharactorId": "602",
+          "message": "そうなんですよねェ…\r\n何か良い手はないものかなって\r\n思いまして"
+        },
+        {
+          "scriptMessageId": "25474",
+          "speechCharactorId": "327",
+          "message": "……おっいいところに"
+        },
+        {
+          "scriptMessageId": "25475",
+          "speechCharactorId": "602",
+          "message": "いのさん……？"
+        },
+        {
+          "scriptMessageId": "25476",
+          "speechCharactorId": "327",
+          "message": "サクラー！！\r\nちょっとちょっとー！"
+        },
+        {
+          "scriptMessageId": "25477",
+          "speechCharactorId": "505",
+          "message": "いの？\r\nそれにハナビも"
+        },
+        {
+          "scriptMessageId": "25478",
+          "speechCharactorId": "505",
+          "message": "なるほどねー…"
+        },
+        {
+          "scriptMessageId": "25479",
+          "speechCharactorId": "602",
+          "message": "あ、同じ反応…"
+        },
+        {
+          "scriptMessageId": "25480",
+          "speechCharactorId": "327",
+          "message": "サクラ、アンタも何かいい案ない？"
+        },
+        {
+          "scriptMessageId": "25481",
+          "speechCharactorId": "505",
+          "message": "急に言われても…"
+        },
+        {
+          "scriptMessageId": "25482",
+          "speechCharactorId": "327",
+          "message": "うーん……"
+        },
+        {
+          "scriptMessageId": "25483",
+          "speechCharactorId": "367",
+          "message": "こんにちは！\r\nサクラさん、いのさん、ハナビさん！"
+        },
+        {
+          "scriptMessageId": "25484",
+          "speechCharactorId": "327",
+          "message": "ゲェ！？\r\nアンタなんて格好してんのよ！！"
+        },
+        {
+          "scriptMessageId": "25485",
+          "speechCharactorId": "327",
+          "message": "今の季節分かってんの！？"
+        },
+        {
+          "scriptMessageId": "25486",
+          "speechCharactorId": "366",
+          "message": "ほら！！\r\nやっぱり言われるのよ！！"
+        },
+        {
+          "scriptMessageId": "25487",
+          "speechCharactorId": "602",
+          "message": "…………"
+        },
+        {
+          "scriptMessageId": "25488",
+          "speechCharactorId": "505",
+          "message": "アハハハ……\r\nリーさん、テンテンさん\r\n何で水着なの？"
+        },
+        {
+          "scriptMessageId": "25489",
+          "speechCharactorId": "367",
+          "message": "ハイ！！\r\n修業です！\r\nこうやって鍛えると寒さにも負けない"
+        },
+        {
+          "scriptMessageId": "25490",
+          "speechCharactorId": "367",
+          "message": "健康な肉体を手に入れることが出来ます！"
+        },
+        {
+          "scriptMessageId": "25491",
+          "speechCharactorId": "367",
+          "message": "そして、何より精神も鍛えられる…！\r\nまさに一石二鳥、いえ三鳥でしょうか"
+        },
+        {
+          "scriptMessageId": "25492",
+          "speechCharactorId": "367",
+          "message": "ですよね！\r\nテンテン！！"
+        },
+        {
+          "scriptMessageId": "25493",
+          "speechCharactorId": "366",
+          "message": "…………なんでいつも\r\n私を巻き込むのよ……"
+        },
+        {
+          "scriptMessageId": "25494",
+          "speechCharactorId": "327",
+          "message": "服を着ろ！！"
+        },
+        {
+          "scriptMessageId": "25495",
+          "speechCharactorId": "327",
+          "message": "……あ、まってテンテンさん！"
+        },
+        {
+          "scriptMessageId": "25496",
+          "speechCharactorId": "366",
+          "message": "え……もう帰りたいー…"
+        },
+        {
+          "scriptMessageId": "25497",
+          "speechCharactorId": "327",
+          "message": "これよ！これ！！"
+        },
+        {
+          "scriptMessageId": "25498",
+          "speechCharactorId": "366",
+          "message": "何が！？"
+        },
+        {
+          "scriptMessageId": "25499",
+          "speechCharactorId": "327",
+          "message": "露出…そう！\r\nおいろけ大作戦よ！！"
+        },
+        {
+          "scriptMessageId": "25500",
+          "speechCharactorId": "366",
+          "message": "え！？何なのよソレー！？"
+        },
+        {
+          "scriptMessageId": "25501",
+          "speechCharactorId": "505",
+          "message": "それで…何を思いついたわけ？"
+        },
+        {
+          "scriptMessageId": "25502",
+          "speechCharactorId": "505",
+          "message": "おいろけって…あのヒナタよ！\r\n赤面して気絶して…倒れるわよ！？"
+        },
+        {
+          "scriptMessageId": "25503",
+          "speechCharactorId": "327",
+          "message": "相手は、あのナルトよ！\r\n……普通に行っても普通の反応に\r\n決まってるわ！！"
+        },
+        {
+          "scriptMessageId": "25504",
+          "speechCharactorId": "602",
+          "message": "あの…あまり過激なモノだと…\r\n姉さま、着てくれないと思いますけど…"
+        },
+        {
+          "scriptMessageId": "25505",
+          "speechCharactorId": "327",
+          "message": "今ならハナビもセットで着るから！\r\nさあ、服を選びに行くわよ！"
+        },
+        {
+          "scriptMessageId": "25506",
+          "speechCharactorId": "599",
+          "message": "あの……"
+        },
+        {
+          "scriptMessageId": "25507",
+          "speechCharactorId": "505",
+          "message": "うん、良く似合ってる！！"
+        },
+        {
+          "scriptMessageId": "25508",
+          "speechCharactorId": "327",
+          "message": "イケてる！\r\n大丈夫、凄く可愛いから！"
+        },
+        {
+          "scriptMessageId": "25509",
+          "speechCharactorId": "327",
+          "message": "さぁてと…\r\n次は本題、どうやって\r\nヒナタをナルトのところへ連れ出すかよ"
+        },
+        {
+          "scriptMessageId": "25510",
+          "speechCharactorId": "599",
+          "message": "ハイ！"
+        },
+        {
+          "scriptMessageId": "25511",
+          "speechCharactorId": "327",
+          "message": "と、いうわけよ\r\n何かいい案ない？シカマル"
+        },
+        {
+          "scriptMessageId": "25512",
+          "speechCharactorId": "326",
+          "message": "何が、と、いうわけだ……\r\n面倒くせェ……"
+        },
+        {
+          "scriptMessageId": "25513",
+          "speechCharactorId": "328",
+          "message": "皆でパーティーすれば\r\nいいんじゃないの？"
+        },
+        {
+          "scriptMessageId": "25514",
+          "speechCharactorId": "327",
+          "message": "チョウジ！？\r\n……アンタ、冴えてるわね"
+        },
+        {
+          "scriptMessageId": "25515",
+          "speechCharactorId": "505",
+          "message": "パーティかぁ…\r\nナルトも騒ぐのは好きだし\r\nいいんじゃない？"
+        },
+        {
+          "scriptMessageId": "25516",
+          "speechCharactorId": "328",
+          "message": "とりあえず肉がいっぱい必要だね"
+        },
+        {
+          "scriptMessageId": "25517",
+          "speechCharactorId": "326",
+          "message": "いやいや…まずはヒナタだろ\r\nどう連れ出すか…"
+        },
+        {
+          "scriptMessageId": "25518",
+          "speechCharactorId": "599",
+          "message": "そこは任せて下さい！"
+        },
+        {
+          "scriptMessageId": "25519",
+          "speechCharactorId": "327",
+          "message": "私はハナビについて行くわ"
+        },
+        {
+          "scriptMessageId": "25520",
+          "speechCharactorId": "327",
+          "message": "シカマル！\r\nナルトの方は任せたわよ"
+        },
+        {
+          "scriptMessageId": "25521",
+          "speechCharactorId": "327",
+          "message": "サクラとチョウジはパーティ準備\r\nヨロシクね！"
+        },
+        {
+          "scriptMessageId": "25522",
+          "speechCharactorId": "327",
+          "message": "さあ、盛り上げていくわよ！"
+        },
+        {
           "scriptMessageId": "40001",
           "speechCharactorId": "178",
           "message": "絶望しかないこの世界に\r\n存在する価値はない"

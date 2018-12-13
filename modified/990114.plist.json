@@ -1601,6 +1601,26 @@
           "subScore": "0",
           "color": "15794160",
           "type": "2"
+        },
+        {
+          "cardUnusualId": "164",
+          "category": "3",
+          "iconId": "1184",
+          "name": "回天守護・聖夜",
+          "description": "仲間への単体スキルをかばい無効化し、味方全体に対してのスキルを無効化。※耐性無視攻撃は無効化できない",
+          "subScore": "0",
+          "color": "14524637",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "167",
+          "category": "3",
+          "iconId": "1187",
+          "name": "祝祭",
+          "description": "行動を3回無駄にする",
+          "subScore": "0",
+          "color": "0",
+          "type": "3"
         }
       ]
     }

@@ -5479,12 +5479,28 @@
           "name": "この里を…うちはの名を…"
         },
         {
+          "cardBattleSkillNameId": "2567",
+          "name": "祝・輪廻祭"
+        },
+        {
+          "cardBattleSkillNameId": "2568",
+          "name": "あなたが私を変えてくれた！"
+        },
+        {
           "cardBattleSkillNameId": "2573",
           "name": "暗殺戦技・影"
         },
         {
           "cardBattleSkillNameId": "2574",
           "name": "これが…オレが見るその先だ"
+        },
+        {
+          "cardBattleSkillNameId": "2576",
+          "name": "輪廻祭・回天"
+        },
+        {
+          "cardBattleSkillNameId": "2577",
+          "name": "姉さまも早く！"
         },
         {
           "cardBattleSkillNameId": "10136",

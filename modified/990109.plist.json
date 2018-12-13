@@ -18084,6 +18084,42 @@
           "effectIdx3": "881"
         },
         {
+          "abilityId": "2067",
+          "abilityName": "恋人たちへの憧憬",
+          "abilityDescription": "2回行動するまで男性キャラから受ける耐性無視を含む全スキル無効",
+          "abilityEffectDescription": "2回行動するまで男性キャラから受ける耐性無視を含む全スキル無効",
+          "effectIdx1": "1989",
+          "effectIdx2": "1990",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2068",
+          "abilityName": "輪廻祭に揺れる想い",
+          "abilityDescription": "最大チャクラ量を100アップし、行動後にチャクラが20%回復する",
+          "abilityEffectDescription": "最大チャクラ量を100アップし、行動後にチャクラが20%回復する",
+          "effectIdx1": "813",
+          "effectIdx2": "583",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2069",
+          "abilityName": "女の子らしさへの憧れ",
+          "abilityDescription": "1回行動するまで素早さが300%アップする",
+          "abilityEffectDescription": "1回行動するまで素早さが300%アップする",
+          "effectIdx1": "1997",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2070",
+          "abilityName": "輪廻祭にときめく瞳",
+          "abilityDescription": "HP90%以上のとき、受ける耐性無視スキルのダメージを0にする",
+          "abilityEffectDescription": "HP90%以上のとき、受ける耐性無視スキルのダメージを0にする",
+          "effectIdx1": "1998",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

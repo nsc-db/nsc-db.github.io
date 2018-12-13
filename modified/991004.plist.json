@@ -3573,6 +3573,18 @@
           "speechCharactorName": "うちはオビト"
         },
         {
+          "speechCharactorId": "599",
+          "cardId": "20041208",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "日向ハナビ"
+        },
+        {
+          "speechCharactorId": "602",
+          "cardId": "20031215",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "日向ハナビ"
+        },
+        {
           "speechCharactorId": "1000",
           "cardId": "21000091",
           "speechCharactorImgId": "1000",

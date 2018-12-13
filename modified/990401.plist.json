@@ -4313,6 +4313,16 @@
           "gachaTicketImgId": "3413"
         },
         {
+          "gachaTicketId": "3415",
+          "gachaTicketName": "祝姫と華姫ガチャチケット",
+          "gachaTicketImgId": "3415"
+        },
+        {
+          "gachaTicketId": "3416",
+          "gachaTicketName": "祝姫と華姫特別ガチャチケット",
+          "gachaTicketImgId": "3416"
+        },
+        {
           "gachaTicketId": "3417",
           "gachaTicketName": "卯の女神ガチャチケット",
           "gachaTicketImgId": "3417"
@@ -4366,6 +4376,11 @@
           "gachaTicketId": "3435",
           "gachaTicketName": "属性忍具[知]確定ガチャチケット",
           "gachaTicketImgId": "3336"
+        },
+        {
+          "gachaTicketId": "3440",
+          "gachaTicketName": "闘忍の覇者確定ガチャチケット",
+          "gachaTicketImgId": "3440"
         },
         {
           "gachaTicketId": "100084",
