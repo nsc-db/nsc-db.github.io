@@ -874,6 +874,19 @@
           "selectType": "3"
         },
         {
+          "itemId": "16001",
+          "name": "ナルコレ大抽選券",
+          "description": "ナルコレ大抽選会で使用できる抽選券。（2019年1月1日から1月31日15時59分まで使用可能）",
+          "resultWord": "0",
+          "itemCategoryId": "15000",
+          "itemValue": "0",
+          "itemNum": "0",
+          "itemImageId": "16001",
+          "needCount": "1",
+          "priority": "1",
+          "selectType": "3"
+        },
+        {
           "itemId": "51000",
           "name": "ドロップ数２倍の秘伝書",
           "description": "バトルでの獲得ドロップ数が２倍になります。",
@@ -1565,7 +1578,20 @@
         {
           "itemId": "60008",
           "name": "ナルコレ大賞投票券",
-          "description": "ナルコレ大賞2018で投票に必要なアイテム。（12月28日15:59まで期間限定）",
+          "description": "ナルコレ大賞2018で投票に必要なアイテム。（12月28日21:59まで期間限定）",
+          "resultWord": "0",
+          "itemCategoryId": "20",
+          "itemValue": "0",
+          "itemNum": "0",
+          "itemImageId": "60008",
+          "needCount": "1",
+          "priority": "1",
+          "selectType": "3"
+        },
+        {
+          "itemId": "60009",
+          "name": "ナルコレ大賞特別篇投票券",
+          "description": "ナルコレ大賞2018特別篇で投票に必要なアイテム。（1月15日15:59まで期間限定）",
           "resultWord": "0",
           "itemCategoryId": "20",
           "itemValue": "0",

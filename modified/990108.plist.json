@@ -10416,6 +10416,19 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "818",
+          "name": "夢現の侵食者",
+          "description": "体属性の攻撃力とスキルダメージを100％アップ",
+          "effectIdx1": "11099",
+          "effectIdx2": "774",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "3",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "819",
           "name": "瞳の奥の信念と覚悟",
           "description": "体属性の最大HP100%アップし、行動後HPとチャクラが20％回復する",
@@ -10464,6 +10477,19 @@
           "compType": "1",
           "target1Category": "1",
           "target1Param": "6",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "823",
+          "name": "両極の奇貌",
+          "description": "“暁”所属キャラ各自が2回行動するまで、素早さ150%\r\nアップ&amp;耐性無視スキルのダメージ0",
+          "effectIdx1": "1838",
+          "effectIdx2": "2002",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "8",
           "target2Category": "0",
           "target2Param": "0"
         },

@@ -16179,6 +16179,38 @@
           "recipeName": "北の刻印・大"
         },
         {
+          "crystalId": "11201",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "776",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "マダラの羽織(神樹)",
+          "crystalDescription": "弱体と状態異常を半減",
+          "crystalImageId": "112015",
+          "recipeId": "11201",
+          "recipeName": "マダラの羽織(神樹)"
+        },
+        {
+          "crystalId": "11202",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "1378",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "無限月読",
+          "crystalDescription": "1回行動するまでチャクラ消費量0",
+          "crystalImageId": "112025",
+          "recipeId": "11202",
+          "recipeName": "無限月読"
+        },
+        {
           "crystalId": "11203",
           "crystalType": "12",
           "crystalRare": "5",
@@ -16243,6 +16275,38 @@
           "recipeName": "イタチのクナイ"
         },
         {
+          "crystalId": "11207",
+          "crystalType": "3",
+          "crystalRare": "5",
+          "effectIdx1": "13",
+          "effectIdx2": "5",
+          "effectIdx3": "1521",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "ゼツの“暁”マント",
+          "crystalDescription": "最大HPと素早さが10%アップ、2回行動するまでチャクラ消費量半減",
+          "crystalImageId": "112075",
+          "recipeId": "11207",
+          "recipeName": "ゼツの“暁”マント"
+        },
+        {
+          "crystalId": "11208",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "738",
+          "effectIdx2": "661",
+          "effectIdx3": "2003",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "ゼツの柱間の人造体",
+          "crystalDescription": "弱体と状態異常を軽減、3回行動まで木遁スキルのダメージが50%アップ",
+          "crystalImageId": "112085",
+          "recipeId": "11208",
+          "recipeName": "ゼツの柱間の人造体"
+        },
+        {
           "crystalId": "11209",
           "crystalType": "12",
           "crystalRare": "5",
@@ -16305,6 +16369,38 @@
           "crystalImageId": "112125",
           "recipeId": "11212",
           "recipeName": "雪だるま"
+        },
+        {
+          "crystalId": "11215",
+          "crystalType": "12",
+          "crystalRare": "4",
+          "effectIdx1": "682",
+          "effectIdx2": "1985",
+          "effectIdx3": "1829",
+          "effectIdx4": "0",
+          "money": "100000",
+          "saleMoney": "2000",
+          "crystalName": "亥の刻印・中",
+          "crystalDescription": "全スキルダメージ50%アップ、2回行動までチャクラ消費量20%減少＆全スキル軽減",
+          "crystalImageId": "112154",
+          "recipeId": "11215",
+          "recipeName": "亥の刻印・中"
+        },
+        {
+          "crystalId": "11216",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "694",
+          "effectIdx2": "1986",
+          "effectIdx3": "553",
+          "effectIdx4": "792",
+          "money": "500000",
+          "saleMoney": "2500",
+          "crystalName": "亥の刻印・大",
+          "crystalDescription": "全スキルダメージ80%アップ、状態異常半減、3回行動までチャクラ消費量20%減少＆全スキル半減",
+          "crystalImageId": "112165",
+          "recipeId": "11216",
+          "recipeName": "亥の刻印・大"
         }
       ]
     }

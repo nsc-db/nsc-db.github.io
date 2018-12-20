@@ -3579,6 +3579,18 @@
           "speechCharactorName": "日向ハナビ"
         },
         {
+          "speechCharactorId": "600",
+          "cardId": "20041203",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはマダラ"
+        },
+        {
+          "speechCharactorId": "601",
+          "cardId": "20040212",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "千手扉間"
+        },
+        {
           "speechCharactorId": "602",
           "cardId": "20031215",
           "speechCharactorImgId": "0",

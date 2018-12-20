@@ -4328,9 +4328,39 @@
           "gachaTicketImgId": "3417"
         },
         {
+          "gachaTicketId": "3418",
+          "gachaTicketName": "大放出祭・光ガチャチケット",
+          "gachaTicketImgId": "3418"
+        },
+        {
+          "gachaTicketId": "3419",
+          "gachaTicketName": "大放出祭・光★6",
+          "gachaTicketImgId": "3418"
+        },
+        {
+          "gachaTicketId": "3420",
+          "gachaTicketName": "大放出祭・闇ガチャチケット",
+          "gachaTicketImgId": "3420"
+        },
+        {
+          "gachaTicketId": "3421",
+          "gachaTicketName": "大放出祭・闇★6",
+          "gachaTicketImgId": "3420"
+        },
+        {
           "gachaTicketId": "3422",
           "gachaTicketName": "六道忍具ガチャチケット",
           "gachaTicketImgId": "3422"
+        },
+        {
+          "gachaTicketId": "3423",
+          "gachaTicketName": "両極の奇貌ガチャチケット",
+          "gachaTicketImgId": "3423"
+        },
+        {
+          "gachaTicketId": "3424",
+          "gachaTicketName": "両極の奇貌25%",
+          "gachaTicketImgId": "3423"
         },
         {
           "gachaTicketId": "3427",
@@ -4381,6 +4411,31 @@
           "gachaTicketId": "3440",
           "gachaTicketName": "闘忍の覇者確定ガチャチケット",
           "gachaTicketImgId": "3440"
+        },
+        {
+          "gachaTicketId": "3441",
+          "gachaTicketName": "マダラ誕生記念極(全)ガチャチケット",
+          "gachaTicketImgId": "3441"
+        },
+        {
+          "gachaTicketId": "3442",
+          "gachaTicketName": "マダラ誕生記念極(光)ガチャチケット",
+          "gachaTicketImgId": "3442"
+        },
+        {
+          "gachaTicketId": "3443",
+          "gachaTicketName": "マダラ誕生記念極(闇)ガチャチケット",
+          "gachaTicketImgId": "3443"
+        },
+        {
+          "gachaTicketId": "3444",
+          "gachaTicketName": "マダラ誕生記念ガチャチケット",
+          "gachaTicketImgId": "3444"
+        },
+        {
+          "gachaTicketId": "3445",
+          "gachaTicketName": "7段超忍確定ガチャチケット",
+          "gachaTicketImgId": "3445"
         },
         {
           "gachaTicketId": "100084",

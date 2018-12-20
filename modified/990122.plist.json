@@ -1875,6 +1875,18 @@
           "voiceDeath": "itachi_death_02_03"
         },
         {
+          "cardVoiceId": "158",
+          "cardId": "20041203",
+          "dirName": "madara",
+          "evolutionStep": "",
+          "voiceAppear": "madara_battle_02_02",
+          "voiceSkill1": "madara_skill_02_20,madara_pursuit_02_01,madara_pursuit_02_02",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "madara_win_02_01",
+          "voiceDeath": "madara_damage_02_02"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

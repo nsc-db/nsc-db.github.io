@@ -1613,6 +1613,26 @@
           "type": "2"
         },
         {
+          "cardUnusualId": "165",
+          "category": "3",
+          "iconId": "1185",
+          "name": "胞子・奪",
+          "description": "強化系特殊状態を無効化、チャクラ消費量アップ。さらに高確率で行動を1回無駄にするようになる",
+          "subScore": "0",
+          "color": "13882323",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "166",
+          "category": "3",
+          "iconId": "1186",
+          "name": "胞子・吸",
+          "description": "自身のHPが０になった時にHPが全回復する",
+          "subScore": "0",
+          "color": "14524637",
+          "type": "2"
+        },
+        {
           "cardUnusualId": "167",
           "category": "3",
           "iconId": "1187",
@@ -1621,6 +1641,16 @@
           "subScore": "0",
           "color": "0",
           "type": "3"
+        },
+        {
+          "cardUnusualId": "170",
+          "category": "3",
+          "iconId": "1190",
+          "name": "救世",
+          "description": "木遁・体術・仙術を除く、耐性無視を含む自身対象のスキル効果を無効化",
+          "subScore": "0",
+          "color": "12211667",
+          "type": "2"
         }
       ]
     }

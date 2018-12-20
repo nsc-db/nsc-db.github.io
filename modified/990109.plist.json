@@ -18048,6 +18048,24 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2061",
+          "abilityName": "世を照らす眼",
+          "abilityDescription": "敵に神忍祭限定キャラが生存している場合、素早さが666％アップ＆スキル発動速度1段階アップ",
+          "abilityEffectDescription": "敵に神忍祭限定キャラが生存している場合、素早さが666％アップ＆スキル発動速度1段階アップ",
+          "effectIdx1": "2005",
+          "effectIdx2": "2006",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2062",
+          "abilityName": "永劫の果てに得た力",
+          "abilityDescription": "最大チャクラ量が100アップし、キャンセル無効",
+          "abilityEffectDescription": "最大チャクラ量が100アップし、キャンセル無効",
+          "effectIdx1": "813",
+          "effectIdx2": "1751",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "2063",
           "abilityName": "“瞬身”の二つ名",
           "abilityDescription": "200%の確率でスキルを回避、行動後に高確率で再度行動できる※再行動後にさらに行動はできない",
@@ -18117,6 +18135,24 @@
           "abilityEffectDescription": "HP90%以上のとき、受ける耐性無視スキルのダメージを0にする",
           "effectIdx1": "1998",
           "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2071",
+          "abilityName": "白き気分屋",
+          "abilityDescription": "HPが0以下で耐えた時に、確率でチャクラ全回復",
+          "abilityEffectDescription": "HPが0以下で耐えた時に、確率でチャクラ全回復",
+          "effectIdx1": "1999",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2072",
+          "abilityName": "黒き分析屋",
+          "abilityDescription": "HPが100%の時、チャクラ消費量半減&amp;スキル発動速度1段階アップ",
+          "abilityEffectDescription": "HPが100%の時、チャクラ消費量半減&amp;スキル発動速度1段階アップ",
+          "effectIdx1": "2000",
+          "effectIdx2": "2001",
           "effectIdx3": "0"
         },
         {

@@ -661,6 +661,16 @@
           "uiIdx": "10001",
           "partyEffects": "1864,1866,1872,",
           "enemyEffects": "1864,1866,1872,"
+        },
+        {
+          "battleFieldEffectId": "10002",
+          "name": "無限月読",
+          "category": "3",
+          "scriptId": "10002",
+          "overWrite": "1",
+          "uiIdx": "10002",
+          "partyEffects": "2007,",
+          "enemyEffects": "2007,2008,731,"
         }
       ]
     }
