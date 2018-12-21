@@ -432,6 +432,19 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
+          "worldStageId": "1208",
+          "worldAreaId": "5",
+          "priority": "1",
+          "name": "師は走らない",
+          "description": "木ノ葉の里も、大掃除シーズンに突入していた！\r\n果たしてナルトは部屋を片付けているのか！？\r\n※12/26 17:00にステージ追加有",
+          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
           "worldStageId": "2061",
           "worldAreaId": "5",
           "priority": "30",

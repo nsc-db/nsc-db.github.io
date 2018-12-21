@@ -1887,6 +1887,18 @@
           "voiceDeath": "madara_damage_02_02"
         },
         {
+          "cardVoiceId": "162",
+          "cardId": "20041210",
+          "dirName": "sakura",
+          "evolutionStep": "",
+          "voiceAppear": "sakura_pursuit_02_03",
+          "voiceSkill1": "sakura_skill_02_08,sakura_pursuit_02_01",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "sakura_skill_02_09",
+          "voiceDeath": "sakura_death_02_03"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

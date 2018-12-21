@@ -8775,6 +8775,18 @@
           "effectIdx4": "0"
         },
         {
+          "crystalOverwriteEffectId": "745",
+          "targetCrystal": "11213",
+          "description": "高確率スキル回避、素早さ90%アップ、スキル発動速度1段階アップ、1回行動するまでチャクラ消費0",
+          "charaIds": "301,302,303,304,305,306,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "968",
+          "effectIdx2": "13089",
+          "effectIdx3": "1840",
+          "effectIdx4": "1378"
+        },
+        {
           "crystalOverwriteEffectId": "747",
           "targetCrystal": "11201",
           "description": "弱体＆状態異常＆幻無効、超高確率でスキル回避",

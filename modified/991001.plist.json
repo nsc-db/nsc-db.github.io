@@ -65328,6 +65328,801 @@
           "message": "フッ…また地図を書き換える\r\n手間が出来たようだな"
         },
         {
+          "scriptMessageId": "25557",
+          "speechCharactorId": "323",
+          "message": "今年も終わる…時の流れとは早いものだ"
+        },
+        {
+          "scriptMessageId": "25558",
+          "speechCharactorId": "306",
+          "message": "………！！"
+        },
+        {
+          "scriptMessageId": "25559",
+          "speechCharactorId": "306",
+          "message": "ツ…綱手様！\r\n 何か悪いものでもお食べに…"
+        },
+        {
+          "scriptMessageId": "25560",
+          "speechCharactorId": "323",
+          "message": "オイ…"
+        },
+        {
+          "scriptMessageId": "25561",
+          "speechCharactorId": "306",
+          "message": "………私には心当たりが…\r\n 拾い食い……まさか…"
+        },
+        {
+          "scriptMessageId": "25562",
+          "speechCharactorId": "323",
+          "message": "オイ…シズネ…"
+        },
+        {
+          "scriptMessageId": "25563",
+          "speechCharactorId": "306",
+          "message": "…綱手様にかぎって…\r\n …もしかして…酔っ払って………\r\n そういえば昨晩も……"
+        },
+        {
+          "scriptMessageId": "25564",
+          "speechCharactorId": "323",
+          "message": "シズネ！！！"
+        },
+        {
+          "scriptMessageId": "25565",
+          "speechCharactorId": "306",
+          "message": "あひぃぃ！？"
+        },
+        {
+          "scriptMessageId": "25566",
+          "speechCharactorId": "323",
+          "message": "まあいい……\r\n それよりも、もう年の瀬だ"
+        },
+        {
+          "scriptMessageId": "25567",
+          "speechCharactorId": "323",
+          "message": "年越しの準備をせねばならない"
+        },
+        {
+          "scriptMessageId": "25568",
+          "speechCharactorId": "306",
+          "message": "里の行事はもう手配済です"
+        },
+        {
+          "scriptMessageId": "25569",
+          "speechCharactorId": "323",
+          "message": "問題もなく、滞りもないな？"
+        },
+        {
+          "scriptMessageId": "25570",
+          "speechCharactorId": "306",
+          "message": "はい、綱手様"
+        },
+        {
+          "scriptMessageId": "25571",
+          "speechCharactorId": "323",
+          "message": "そうか、ならば\r\n 残すは大掃除だけだな"
+        },
+        {
+          "scriptMessageId": "25572",
+          "speechCharactorId": "323",
+          "message": "……シズネ\r\n 私は残務がある"
+        },
+        {
+          "scriptMessageId": "25573",
+          "speechCharactorId": "323",
+          "message": "ここの書類整理と掃除を頼む"
+        },
+        {
+          "scriptMessageId": "25574",
+          "speechCharactorId": "306",
+          "message": "え…？\r\n はぁ……分かりました"
+        },
+        {
+          "scriptMessageId": "25575",
+          "speechCharactorId": "323",
+          "message": "うむ、頼んだぞ"
+        },
+        {
+          "scriptMessageId": "25576",
+          "speechCharactorId": "323",
+          "message": "（里を見回るか…）\r\n （……サボる訳ではない！）"
+        },
+        {
+          "scriptMessageId": "25577",
+          "speechCharactorId": "304",
+          "message": "またこんな状態かコレ！！"
+        },
+        {
+          "scriptMessageId": "25578",
+          "speechCharactorId": "304",
+          "message": "毎日カップ麺だな！？\r\n 食べた物はゴミ箱に入れるんだぞコレ！"
+        },
+        {
+          "scriptMessageId": "25579",
+          "speechCharactorId": "251",
+          "message": "お…おう…"
+        },
+        {
+          "scriptMessageId": "25580",
+          "speechCharactorId": "304",
+          "message": "ナルトの兄ちゃんは\r\n オレがいないと……\r\n 本当にダメだな！！"
+        },
+        {
+          "scriptMessageId": "25581",
+          "speechCharactorId": "26",
+          "message": "アンタ…木ノ葉丸に\r\n 掃除させてんの……？"
+        },
+        {
+          "scriptMessageId": "25582",
+          "speechCharactorId": "251",
+          "message": "ち…違うって…\r\n これはたまたまで…"
+        },
+        {
+          "scriptMessageId": "25583",
+          "speechCharactorId": "304",
+          "message": "そうだぞ！\r\n オレが自分で勝手に\r\n やってるだけだぞコレ！！"
+        },
+        {
+          "scriptMessageId": "25584",
+          "speechCharactorId": "26",
+          "message": "ナルト…アンタは自分で\r\n 掃除しなさい！！"
+        },
+        {
+          "scriptMessageId": "25585",
+          "speechCharactorId": "26",
+          "message": "木ノ葉丸…\r\n いいからちょっと来なさい！"
+        },
+        {
+          "scriptMessageId": "25586",
+          "speechCharactorId": "304",
+          "message": "な…何だぞコレ！？"
+        },
+        {
+          "scriptMessageId": "25587",
+          "speechCharactorId": "323",
+          "message": "……サクラ\r\n 木ノ葉丸を引きずって何をしている"
+        },
+        {
+          "scriptMessageId": "25588",
+          "speechCharactorId": "26",
+          "message": "し…師匠…\r\n 実は…"
+        },
+        {
+          "scriptMessageId": "25589",
+          "speechCharactorId": "323",
+          "message": "なるほど…\r\n ナルトもそうだが…\r\n 各忍の部屋の状態を見る…"
+        },
+        {
+          "scriptMessageId": "25590",
+          "speechCharactorId": "323",
+          "message": "面白そうだな…\r\n よし、サクラ…任務を言い渡す！"
+        },
+        {
+          "scriptMessageId": "25591",
+          "speechCharactorId": "323",
+          "message": "おもし……\r\n いや、里の主だった忍の下へ向かい\r\n 大掃除をしているか確かめよ！"
+        },
+        {
+          "scriptMessageId": "25592",
+          "speechCharactorId": "26",
+          "message": "え！？"
+        },
+        {
+          "scriptMessageId": "25593",
+          "speechCharactorId": "304",
+          "message": "御用だコレ！！"
+        },
+        {
+          "scriptMessageId": "25594",
+          "speechCharactorId": "51",
+          "message": "な…何事です！？"
+        },
+        {
+          "scriptMessageId": "25595",
+          "speechCharactorId": "26",
+          "message": "付いてこなくてもイイのに…"
+        },
+        {
+          "scriptMessageId": "25596",
+          "speechCharactorId": "304",
+          "message": "こんな面白そうなイベント\r\n 参加しない手はないんだなコレ！！"
+        },
+        {
+          "scriptMessageId": "25597",
+          "speechCharactorId": "26",
+          "message": "それで、なんでエビス先生なの？"
+        },
+        {
+          "scriptMessageId": "25598",
+          "speechCharactorId": "304",
+          "message": "エビス先生は…\r\n ハレンチ本を隠しもってるんだな！！"
+        },
+        {
+          "scriptMessageId": "25599",
+          "speechCharactorId": "51",
+          "message": "何を言ってるんです！？\r\n や…やめなさい木ノ葉丸くん！！"
+        },
+        {
+          "scriptMessageId": "25600",
+          "speechCharactorId": "304",
+          "message": "あったぞコレーーーーー！！！"
+        },
+        {
+          "scriptMessageId": "25601",
+          "speechCharactorId": "51",
+          "message": "……ああ……"
+        },
+        {
+          "scriptMessageId": "25602",
+          "speechCharactorId": "26",
+          "message": "だ…ダメよ木ノ葉丸！！"
+        },
+        {
+          "scriptMessageId": "25603",
+          "speechCharactorId": "304",
+          "message": "何でだコレ？"
+        },
+        {
+          "scriptMessageId": "25604",
+          "speechCharactorId": "26",
+          "message": "何ででも！！"
+        },
+        {
+          "scriptMessageId": "25605",
+          "speechCharactorId": "304",
+          "message": "御用だコレ！？"
+        },
+        {
+          "scriptMessageId": "25606",
+          "speechCharactorId": "26",
+          "message": "カカシ先生、こんにちは"
+        },
+        {
+          "scriptMessageId": "25607",
+          "speechCharactorId": "1",
+          "message": "いきなりなんなの？"
+        },
+        {
+          "scriptMessageId": "25608",
+          "speechCharactorId": "26",
+          "message": "実は……"
+        },
+        {
+          "scriptMessageId": "25609",
+          "speechCharactorId": "304",
+          "message": "さあ、隠している\r\n ハレンチ本を出してもらうぞコレ！！"
+        },
+        {
+          "scriptMessageId": "25610",
+          "speechCharactorId": "1",
+          "message": "え…？"
+        },
+        {
+          "scriptMessageId": "25611",
+          "speechCharactorId": "26",
+          "message": "や・め・な・さーーーい！！"
+        },
+        {
+          "scriptMessageId": "25612",
+          "speechCharactorId": "304",
+          "message": "くっ…流石、カカシ先生だぞコレ…\r\n エビス先生と違って隙がないんだな…"
+        },
+        {
+          "scriptMessageId": "25613",
+          "speechCharactorId": "1",
+          "message": "いやー……\r\n …サクラが殴っただけだよね"
+        },
+        {
+          "scriptMessageId": "25614",
+          "speechCharactorId": "304",
+          "message": "御用だぞコレェ！？"
+        },
+        {
+          "scriptMessageId": "25615",
+          "speechCharactorId": "232",
+          "message": "ん？どうした、お前達"
+        },
+        {
+          "scriptMessageId": "25616",
+          "speechCharactorId": "96",
+          "message": "サクラさんに木ノ葉丸くんも！\r\n ガイ先生に青春の相談をしに来たのですか！？"
+        },
+        {
+          "scriptMessageId": "25617",
+          "speechCharactorId": "26",
+          "message": "違います…"
+        },
+        {
+          "scriptMessageId": "25618",
+          "speechCharactorId": "304",
+          "message": "さあ、ハレンチ本を出してもらうぞコレ！"
+        },
+        {
+          "scriptMessageId": "25619",
+          "speechCharactorId": "26",
+          "message": "そんな任務じゃなーーーーい！"
+        },
+        {
+          "scriptMessageId": "25620",
+          "speechCharactorId": "96",
+          "message": "ハレンチ本ですか……"
+        },
+        {
+          "scriptMessageId": "25621",
+          "speechCharactorId": "232",
+          "message": "む…確かに青春の悩みだな！！"
+        },
+        {
+          "scriptMessageId": "25622",
+          "speechCharactorId": "26",
+          "message": "私を…\r\n その世界にま・き・こ・む・なー！"
+        },
+        {
+          "scriptMessageId": "25623",
+          "speechCharactorId": "304",
+          "message": "ぐふ…ナ…ナルトの兄ちゃんは…\r\n 毎回…こんなパンチをもらって……"
+        },
+        {
+          "scriptMessageId": "25624",
+          "speechCharactorId": "304",
+          "message": "流石だ…ぞ…コレ…"
+        },
+        {
+          "scriptMessageId": "25625",
+          "speechCharactorId": "96",
+          "message": "はっ……\r\n この筋肉トレーニング用の本…\r\n 見方によってはハレンチと言えるのでは！？"
+        },
+        {
+          "scriptMessageId": "25626",
+          "speechCharactorId": "232",
+          "message": "流石だな、リー！\r\n オレにはその着眼点は無かったぞ！"
+        },
+        {
+          "scriptMessageId": "25627",
+          "speechCharactorId": "96",
+          "message": "しかし、本当にこれがハレンチと\r\n 言えるのでしょうか……"
+        },
+        {
+          "scriptMessageId": "25628",
+          "speechCharactorId": "96",
+          "message": "サクラさん、どうでしょうか！？\r\n アレ…いませんね……"
+        },
+        {
+          "scriptMessageId": "25629",
+          "speechCharactorId": "96",
+          "message": "仕方ありません…\r\n テンテンに確認しましょう"
+        },
+        {
+          "scriptMessageId": "25630",
+          "speechCharactorId": "232",
+          "message": "そうか…確かに確認は大事だ"
+        },
+        {
+          "scriptMessageId": "25631",
+          "speechCharactorId": "232",
+          "message": "だがな、リー！！\r\n ハレンチとは一体なんだ！？"
+        },
+        {
+          "scriptMessageId": "25632",
+          "speechCharactorId": "96",
+          "message": "……！？\r\n ボクは最初の定義を間違えていたのですね！？"
+        },
+        {
+          "scriptMessageId": "25633",
+          "speechCharactorId": "232",
+          "message": "イヤ…違う、そうではない\r\n 何をもってハレンチかと言うと……"
+        },
+        {
+          "scriptMessageId": "25634",
+          "speechCharactorId": "177",
+          "message": "見ろ…キバ"
+        },
+        {
+          "scriptMessageId": "25635",
+          "speechCharactorId": "176",
+          "message": "何をだよ…って…\r\n おお………"
+        },
+        {
+          "scriptMessageId": "25636",
+          "speechCharactorId": "177",
+          "message": "何故……\r\n 木ノ葉丸を引きずっている…"
+        },
+        {
+          "scriptMessageId": "25637",
+          "speechCharactorId": "26",
+          "message": "………気にしないで…"
+        },
+        {
+          "scriptMessageId": "25638",
+          "speechCharactorId": "176",
+          "message": "いやまぁ…\r\n 木ノ葉丸がイタズラしたんだろーがよ…"
+        },
+        {
+          "scriptMessageId": "25639",
+          "speechCharactorId": "26",
+          "message": "ええ…ますますナルトに\r\n 似てきた感じよ"
+        },
+        {
+          "scriptMessageId": "25640",
+          "speechCharactorId": "177",
+          "message": "………引きずるのは\r\n やめておいたほうがいい"
+        },
+        {
+          "scriptMessageId": "25641",
+          "speechCharactorId": "177",
+          "message": "なぜなら…\r\n サクラ、お前が鬼に見えるからだ"
+        },
+        {
+          "scriptMessageId": "25642",
+          "speechCharactorId": "176",
+          "message": "バッ…シノ！？"
+        },
+        {
+          "scriptMessageId": "25643",
+          "speechCharactorId": "176",
+          "message": "…………"
+        },
+        {
+          "scriptMessageId": "25644",
+          "speechCharactorId": "177",
+          "message": "………なぜ…\r\n あんなに…怒ったか分からない…"
+        },
+        {
+          "scriptMessageId": "25645",
+          "speechCharactorId": "176",
+          "message": "……そうかよ……"
+        },
+        {
+          "scriptMessageId": "25646",
+          "speechCharactorId": "304",
+          "message": "引きずって歩くなんて\r\n 酷いぞコレ！"
+        },
+        {
+          "scriptMessageId": "25647",
+          "speechCharactorId": "26",
+          "message": "悪かったわよ…\r\n でも、もうアレ探しはやめてよ"
+        },
+        {
+          "scriptMessageId": "25648",
+          "speechCharactorId": "304",
+          "message": "アレってなんだ？"
+        },
+        {
+          "scriptMessageId": "25649",
+          "speechCharactorId": "26",
+          "message": "木ノ葉丸？"
+        },
+        {
+          "scriptMessageId": "25650",
+          "speechCharactorId": "304",
+          "message": "わ…分かったぞコレ…\r\n だから笑顔で拳を握るのはやめるんだコレ"
+        },
+        {
+          "scriptMessageId": "25651",
+          "speechCharactorId": "26",
+          "message": "分かればよろしい！"
+        },
+        {
+          "scriptMessageId": "25652",
+          "speechCharactorId": "53",
+          "message": "サクラ、珍しい組み合わせですね\r\n 何をしているんですか？"
+        },
+        {
+          "scriptMessageId": "25653",
+          "speechCharactorId": "26",
+          "message": "サイこそ！\r\n ネジさんにテンテンさんも一緒なの？"
+        },
+        {
+          "scriptMessageId": "25654",
+          "speechCharactorId": "103",
+          "message": "新しいクナイを見に来たのよ\r\n そしたら、ネジとサイもいたって感じね"
+        },
+        {
+          "scriptMessageId": "25655",
+          "speechCharactorId": "126",
+          "message": "それで、お前達は何をしている？"
+        },
+        {
+          "scriptMessageId": "25656",
+          "speechCharactorId": "304",
+          "message": "突撃・お宅拝見だぞ！"
+        },
+        {
+          "scriptMessageId": "25657",
+          "speechCharactorId": "126",
+          "message": "なぜ…そんなことをしている？"
+        },
+        {
+          "scriptMessageId": "25658",
+          "speechCharactorId": "26",
+          "message": "それが…"
+        },
+        {
+          "scriptMessageId": "25659",
+          "speechCharactorId": "126",
+          "message": "なるほど…五代目が…\r\n 何か意味がある事なのか"
+        },
+        {
+          "scriptMessageId": "25660",
+          "speechCharactorId": "26",
+          "message": "さあ…私にはちょっと分からないけど…"
+        },
+        {
+          "scriptMessageId": "25661",
+          "speechCharactorId": "304",
+          "message": "次は日向家に突撃だぞ！"
+        },
+        {
+          "scriptMessageId": "25662",
+          "speechCharactorId": "126",
+          "message": "何！？\r\n オイ、待て！！"
+        },
+        {
+          "scriptMessageId": "25663",
+          "speechCharactorId": "304",
+          "message": "先に行くぞコレ！！"
+        },
+        {
+          "scriptMessageId": "25664",
+          "speechCharactorId": "304",
+          "message": "突撃ーー！！\r\n お宅訪問だぞコレ！！"
+        },
+        {
+          "scriptMessageId": "25665",
+          "speechCharactorId": "175",
+          "message": "え…なに？"
+        },
+        {
+          "scriptMessageId": "25666",
+          "speechCharactorId": "126",
+          "message": "申し訳ありません…ヒナタ様\r\n 今、つまみ出します"
+        },
+        {
+          "scriptMessageId": "25667",
+          "speechCharactorId": "26",
+          "message": "ごめんね…ヒナタ…"
+        },
+        {
+          "scriptMessageId": "25668",
+          "speechCharactorId": "147",
+          "message": "ネジ、止めずともよい\r\n …年頃も近い\r\n ハナビ、相手をしてあげなさい"
+        },
+        {
+          "scriptMessageId": "25669",
+          "speechCharactorId": "421",
+          "message": "はい、父上！"
+        },
+        {
+          "scriptMessageId": "25670",
+          "speechCharactorId": "304",
+          "message": "……散々だぞコレ…"
+        },
+        {
+          "scriptMessageId": "25671",
+          "speechCharactorId": "26",
+          "message": "自業自得よ！\r\n まったく…誰に似たのか…"
+        },
+        {
+          "scriptMessageId": "25672",
+          "speechCharactorId": "126",
+          "message": "ナルトだろう"
+        },
+        {
+          "scriptMessageId": "25673",
+          "speechCharactorId": "175",
+          "message": "それで…一体どうしたの？"
+        },
+        {
+          "scriptMessageId": "25674",
+          "speechCharactorId": "26",
+          "message": "あー綱手様がね……"
+        },
+        {
+          "scriptMessageId": "25675",
+          "speechCharactorId": "175",
+          "message": "そうなんだ…大変だね"
+        },
+        {
+          "scriptMessageId": "25676",
+          "speechCharactorId": "26",
+          "message": "そうだ！\r\n ヒナタも付き合ってよ"
+        },
+        {
+          "scriptMessageId": "25677",
+          "speechCharactorId": "175",
+          "message": "えっ……"
+        },
+        {
+          "scriptMessageId": "25678",
+          "speechCharactorId": "26",
+          "message": "いいからいいから！"
+        },
+        {
+          "scriptMessageId": "25679",
+          "speechCharactorId": "251",
+          "message": "おーい、サクラちゃーん！"
+        },
+        {
+          "scriptMessageId": "25680",
+          "speechCharactorId": "304",
+          "message": "ナルトの兄ちゃん！\r\n こっちだぞー！！"
+        },
+        {
+          "scriptMessageId": "25681",
+          "speechCharactorId": "175",
+          "message": "な…ナルトくん！？"
+        },
+        {
+          "scriptMessageId": "25682",
+          "speechCharactorId": "26",
+          "message": "ナルト、アンタ…\r\n 掃除終わったの？"
+        },
+        {
+          "scriptMessageId": "25683",
+          "speechCharactorId": "251",
+          "message": "終わったってばよォ…"
+        },
+        {
+          "scriptMessageId": "25684",
+          "speechCharactorId": "9",
+          "message": "ナルトじゃないかのォ！！"
+        },
+        {
+          "scriptMessageId": "25685",
+          "speechCharactorId": "251",
+          "message": "エロ仙人！\r\n ……って酒くせーぞ！！"
+        },
+        {
+          "scriptMessageId": "25686",
+          "speechCharactorId": "9",
+          "message": "綱手の奴とちびぃーっと一杯な！"
+        },
+        {
+          "scriptMessageId": "25687",
+          "speechCharactorId": "26",
+          "message": "えっ！？\r\n 綱手様、飲んでるんですか！？"
+        },
+        {
+          "scriptMessageId": "25688",
+          "speechCharactorId": "323",
+          "message": "んー……飲んでないぞ？"
+        },
+        {
+          "scriptMessageId": "25689",
+          "speechCharactorId": "251",
+          "message": "ぜってェー飲んでるってばよ！"
+        },
+        {
+          "scriptMessageId": "25690",
+          "speechCharactorId": "323",
+          "message": "で、お前達は何をしている？"
+        },
+        {
+          "scriptMessageId": "25691",
+          "speechCharactorId": "26",
+          "message": "綱手様が任務だって…"
+        },
+        {
+          "scriptMessageId": "25692",
+          "speechCharactorId": "323",
+          "message": "任務ぅ…？"
+        },
+        {
+          "scriptMessageId": "25693",
+          "speechCharactorId": "323",
+          "message": "……知らんな…"
+        },
+        {
+          "scriptMessageId": "25694",
+          "speechCharactorId": "26",
+          "message": "えーーーーーーーー！？"
+        },
+        {
+          "scriptMessageId": "25695",
+          "speechCharactorId": "26",
+          "message": "ヒナタ…ごめんね…"
+        },
+        {
+          "scriptMessageId": "25696",
+          "speechCharactorId": "175",
+          "message": "う…ううん…\r\n よ、良く分からないけど…大変だね……"
+        },
+        {
+          "scriptMessageId": "25697",
+          "speechCharactorId": "304",
+          "message": "え、これで終わりか！？\r\n 終わりなのかコレ！！"
+        },
+        {
+          "scriptMessageId": "25698",
+          "speechCharactorId": "26",
+          "message": "終わりよ……"
+        },
+        {
+          "scriptMessageId": "25699",
+          "speechCharactorId": "251",
+          "message": "ええーー乗り遅れたってばよォ！！！"
+        },
+        {
+          "scriptMessageId": "25700",
+          "speechCharactorId": "26",
+          "message": "うっさい！！"
+        },
+        {
+          "scriptMessageId": "25701",
+          "speechCharactorId": "323",
+          "message": "シズネー！\r\n 今戻ったぞー！！"
+        },
+        {
+          "scriptMessageId": "25702",
+          "speechCharactorId": "306",
+          "message": "…………"
+        },
+        {
+          "scriptMessageId": "25703",
+          "speechCharactorId": "306",
+          "message": "上機嫌ですね、綱手様……"
+        },
+        {
+          "scriptMessageId": "25704",
+          "speechCharactorId": "323",
+          "message": "うむ！\r\n 里は今日も平和だった"
+        },
+        {
+          "scriptMessageId": "25705",
+          "speechCharactorId": "306",
+          "message": "平和ですか……"
+        },
+        {
+          "scriptMessageId": "25706",
+          "speechCharactorId": "306",
+          "message": "大掃除中、落ち込んでいる\r\n エビス先生を見つけたのですが…"
+        },
+        {
+          "scriptMessageId": "25707",
+          "speechCharactorId": "306",
+          "message": "綱手様の命で、御用、お宅拝見と称した\r\n サクラと木ノ葉丸くんに家探しをされ\r\n 教師として自信がなくなったと落ち込んでいましたよ"
+        },
+        {
+          "scriptMessageId": "25708",
+          "speechCharactorId": "323",
+          "message": "知らん"
+        },
+        {
+          "scriptMessageId": "25709",
+          "speechCharactorId": "306",
+          "message": "真面目なサクラが自分勝手にそんなことを\r\n するとは思えません！"
+        },
+        {
+          "scriptMessageId": "25710",
+          "speechCharactorId": "323",
+          "message": "あーもうウルサイねェ…"
+        },
+        {
+          "scriptMessageId": "25711",
+          "speechCharactorId": "306",
+          "message": "あ、お酒飲んでますね！？"
+        },
+        {
+          "scriptMessageId": "25712",
+          "speechCharactorId": "323",
+          "message": "今日はもう何もないだろうが！！"
+        },
+        {
+          "scriptMessageId": "25713",
+          "speechCharactorId": "306",
+          "message": "確かに何もありませんが……"
+        },
+        {
+          "scriptMessageId": "25714",
+          "speechCharactorId": "323",
+          "message": "今日はもう店仕舞いだ！\r\n 師は走らないものだ！"
+        },
+        {
+          "scriptMessageId": "25715",
+          "speechCharactorId": "306",
+          "message": "綱手様ーーーーーーーーー！？"
+        },
+        {
           "scriptMessageId": "40001",
           "speechCharactorId": "178",
           "message": "絶望しかないこの世界に\r\n存在する価値はない"

@@ -16371,6 +16371,22 @@
           "recipeName": "雪だるま"
         },
         {
+          "crystalId": "11213",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "110",
+          "effectIdx2": "2011",
+          "effectIdx3": "679",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "サクラのホルスター",
+          "crystalDescription": "確率でスキル回避、素早さ30%アップ、1回行動するまでチャクラ消費半減",
+          "crystalImageId": "112135",
+          "recipeId": "11213",
+          "recipeName": "サクラのホルスター"
+        },
+        {
           "crystalId": "11215",
           "crystalType": "12",
           "crystalRare": "4",
