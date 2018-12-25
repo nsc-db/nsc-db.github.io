@@ -10507,6 +10507,19 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "825",
+          "name": "陽に向く純情",
+          "description": "心属性のキャラクターの最大HPと攻撃力と素早さを60%アップする",
+          "effectIdx1": "10059",
+          "effectIdx2": "11059",
+          "effectIdx3": "13059",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

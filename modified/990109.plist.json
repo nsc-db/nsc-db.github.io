@@ -18174,6 +18174,24 @@
           "effectIdx3": "874"
         },
         {
+          "abilityId": "2075",
+          "abilityName": "柔く強き拳",
+          "abilityDescription": "白眼タイプのスキルダメージを100%アップし、状態異常を無効化、行動後チャクラ20%回復",
+          "abilityEffectDescription": "白眼タイプのスキルダメージを100%アップし、状態異常を無効化、行動後チャクラ20%回復",
+          "effectIdx1": "1406",
+          "effectIdx2": "82",
+          "effectIdx3": "1768"
+        },
+        {
+          "abilityId": "2076",
+          "abilityName": "一途なる瞳",
+          "abilityDescription": "味方にうずまきナルトが生存していると、何度でも耐える",
+          "abilityEffectDescription": "味方にうずまきナルトが生存していると、何度でも耐える",
+          "effectIdx1": "2014",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

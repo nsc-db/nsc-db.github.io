@@ -16387,6 +16387,22 @@
           "recipeName": "サクラのホルスター"
         },
         {
+          "crystalId": "11214",
+          "crystalType": "3",
+          "crystalRare": "5",
+          "effectIdx1": "110",
+          "effectIdx2": "2013",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "ナルトへの恋心",
+          "crystalDescription": "素早さ30%アップ、ダメージを受けた時確率でチャクラを15%回復する",
+          "crystalImageId": "112145",
+          "recipeId": "11214",
+          "recipeName": "ナルトへの恋心"
+        },
+        {
           "crystalId": "11215",
           "crystalType": "12",
           "crystalRare": "4",

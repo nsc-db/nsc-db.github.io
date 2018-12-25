@@ -1899,6 +1899,18 @@
           "voiceDeath": "sakura_death_02_03"
         },
         {
+          "cardVoiceId": "163",
+          "cardId": "20041211",
+          "dirName": "hinata",
+          "evolutionStep": "",
+          "voiceAppear": "hinata_pursuit_02_01",
+          "voiceSkill1": "hinata_attack_02_01,hinata_skill_02_02,hinata_skill_02_03,hinata_skill_02_04,hinata_skill_02_05,hinata_menu_mission_01",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "hinata_battle_02_01",
+          "voiceDeath": "hinata_death_02_01"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

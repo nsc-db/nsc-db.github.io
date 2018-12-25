@@ -1643,6 +1643,26 @@
           "type": "3"
         },
         {
+          "cardUnusualId": "168",
+          "category": "3",
+          "iconId": "1188",
+          "name": "堅護",
+          "description": "弱体・状態異常・弱体系特殊状態を解除＆無効化する",
+          "subScore": "0",
+          "color": "16566272",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "169",
+          "category": "3",
+          "iconId": "1189",
+          "name": "恋慕",
+          "description": "自身が攻撃を受ける度、味方のうずまきナルトの攻撃力と防御力と素早さをアップする",
+          "subScore": "0",
+          "color": "14090298",
+          "type": "2"
+        },
+        {
           "cardUnusualId": "170",
           "category": "3",
           "iconId": "1190",
