@@ -8821,6 +8821,42 @@
           "effectIdx2": "1995",
           "effectIdx3": "1840",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "749",
+          "targetCrystal": "20103",
+          "description": "最大HP120%アップ、素早さ80%アップ、スキルダメージ50%アップ",
+          "charaIds": "101,102,104,105,106,107,109,111,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1221",
+          "effectIdx2": "13079",
+          "effectIdx3": "682",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "750",
+          "targetCrystal": "20104",
+          "description": "最大HP120%アップ、素早さ80%アップ、確率でスキル回避",
+          "charaIds": "201,202,204,206,207,208,210,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1221",
+          "effectIdx2": "13079",
+          "effectIdx3": "734",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "751",
+          "targetCrystal": "20105",
+          "description": "最大HP120%アップ、素早さ80%アップ、全スキルダメージ半減",
+          "charaIds": "301,302,303,304,305,306,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1221",
+          "effectIdx2": "13079",
+          "effectIdx3": "20501",
+          "effectIdx4": "0"
         }
       ]
     }

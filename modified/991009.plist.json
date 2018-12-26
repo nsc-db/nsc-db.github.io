@@ -2253,6 +2253,12 @@
           "itemImgId": "2047"
         },
         {
+          "shopExchangeItemId": "2049",
+          "itemName": "祭札[1月]",
+          "measure": "0",
+          "itemImgId": "41"
+        },
+        {
           "shopExchangeItemId": "3000",
           "itemName": "昇級Pt倍化薬引換券",
           "measure": null,

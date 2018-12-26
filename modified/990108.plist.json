@@ -10520,6 +10520,45 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "830",
+          "name": "新春うずまき演芸道",
+          "description": "全属性の攻撃力を20％アップし、行動後にチャクラが19％回復する",
+          "effectIdx1": "105",
+          "effectIdx2": "2012",
+          "effectIdx3": "0",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "831",
+          "name": "破魔誓う賀正の瞳",
+          "description": "全属性の素早さを20％アップし、行動後にチャクラが19％回復する",
+          "effectIdx1": "109",
+          "effectIdx2": "2012",
+          "effectIdx3": "0",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "832",
+          "name": "新年の晴れ桜",
+          "description": "全属性の防御力を20％アップし、行動後にチャクラが19％回復する",
+          "effectIdx1": "106",
+          "effectIdx2": "2012",
+          "effectIdx3": "0",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

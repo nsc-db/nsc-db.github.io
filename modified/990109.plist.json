@@ -18192,6 +18192,60 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2085",
+          "abilityName": "新春ド根性",
+          "abilityDescription": "HPが50%以上の時、スキルダメージが100%アップし、スキル発動速度1段階アップする",
+          "abilityEffectDescription": "HPが50%以上の時、スキルダメージが100%アップし、スキル発動速度1段階アップする",
+          "effectIdx1": "1506",
+          "effectIdx2": "1827",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2086",
+          "abilityName": "お年玉なるとさいふ",
+          "abilityDescription": "最大チャクラ量が100アップし、スキルダメージが120％アップする",
+          "abilityEffectDescription": "最大チャクラ量が100アップし、スキルダメージが120％アップする",
+          "effectIdx1": "813",
+          "effectIdx2": "30011",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2087",
+          "abilityName": "華麗なる袴姿",
+          "abilityDescription": "HPが50%以上の時、素早さが100%アップし、スキル発動速度1段階アップする",
+          "abilityEffectDescription": "HPが50%以上の時、素早さが100%アップし、スキル発動速度1段階アップする",
+          "effectIdx1": "1088",
+          "effectIdx2": "1827",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2088",
+          "abilityName": "インドラの破魔矢",
+          "abilityDescription": "最大チャクラ量が100アップし、スキルダメージが120％アップする",
+          "abilityEffectDescription": "最大チャクラ量が100アップし、スキルダメージが120％アップする",
+          "effectIdx1": "813",
+          "effectIdx2": "30011",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2089",
+          "abilityName": "可憐なる振袖姿",
+          "abilityDescription": "HPが50%以上の時、チャクラ消費量30%減少し、スキル発動速度1段階アップする",
+          "abilityEffectDescription": "HPが50%以上の時、チャクラ消費量30%減少し、スキル発動速度1段階アップする",
+          "effectIdx1": "1168",
+          "effectIdx2": "1827",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2090",
+          "abilityName": "縁結びの初詣",
+          "abilityDescription": "最大チャクラ量が100アップし、スキルダメージが120％アップする",
+          "abilityEffectDescription": "最大チャクラ量が100アップし、スキルダメージが120％アップする",
+          "effectIdx1": "813",
+          "effectIdx2": "30011",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

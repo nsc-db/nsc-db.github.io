@@ -23943,6 +23943,18 @@
           "effectParam3": "0"
         },
         {
+          "cardEffectId": "2012",
+          "timing": "2",
+          "conditionType": "0",
+          "conditionLower": "0",
+          "conditionUpper": "0",
+          "parcent": "10000",
+          "effectId": "4",
+          "effectParam1": "1",
+          "effectParam2": "11900",
+          "effectParam3": "0"
+        },
+        {
           "cardEffectId": "2013",
           "timing": "4",
           "conditionType": "0",

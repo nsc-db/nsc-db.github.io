@@ -16433,6 +16433,54 @@
           "crystalImageId": "112165",
           "recipeId": "11216",
           "recipeName": "亥の刻印・大"
+        },
+        {
+          "crystalId": "20103",
+          "crystalType": "1",
+          "crystalRare": "5",
+          "effectIdx1": "10030",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "ナルトの羽織2019",
+          "crystalDescription": "最大HPが31%アップする",
+          "crystalImageId": "201035",
+          "recipeId": "20103",
+          "recipeName": "ナルトの羽織2019"
+        },
+        {
+          "crystalId": "20104",
+          "crystalType": "1",
+          "crystalRare": "5",
+          "effectIdx1": "10030",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "サスケの羽織2019",
+          "crystalDescription": "最大HPが31%アップする",
+          "crystalImageId": "201045",
+          "recipeId": "20104",
+          "recipeName": "サスケの羽織2019"
+        },
+        {
+          "crystalId": "20105",
+          "crystalType": "1",
+          "crystalRare": "5",
+          "effectIdx1": "10030",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "サクラの着物2019",
+          "crystalDescription": "最大HPが31%アップする",
+          "crystalImageId": "201055",
+          "recipeId": "20105",
+          "recipeName": "サクラの着物2019"
         }
       ]
     }
