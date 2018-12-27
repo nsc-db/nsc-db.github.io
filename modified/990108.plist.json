@@ -10520,6 +10520,19 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "826",
+          "name": "おいろけを継ぐ者",
+          "description": "木ノ葉隠れの里所属の攻撃力とスキルダメージを30%アップする",
+          "effectIdx1": "182",
+          "effectIdx2": "615",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "830",
           "name": "新春うずまき演芸道",
           "description": "全属性の攻撃力を20％アップし、行動後にチャクラが19％回復する",
@@ -10555,6 +10568,19 @@
           "compType": "0",
           "target1Category": "0",
           "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "833",
+          "name": "0",
+          "description": "0",
+          "effectIdx1": "684",
+          "effectIdx2": "774",
+          "effectIdx3": "13099",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "99",
           "target2Category": "0",
           "target2Param": "0"
         },

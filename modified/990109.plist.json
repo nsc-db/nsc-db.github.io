@@ -18192,6 +18192,24 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2077",
+          "abilityName": "猿飛一族の血統",
+          "abilityDescription": "班の木ノ葉隠れの里所属のキャラ1体につき、攻撃力と防御力と素早さが10%アップする（自身含む）",
+          "abilityEffectDescription": "班の木ノ葉隠れの里所属のキャラ1体につき、攻撃力と防御力と素早さが10%アップする（自身含む）",
+          "effectIdx1": "657",
+          "effectIdx2": "752",
+          "effectIdx3": "658"
+        },
+        {
+          "abilityId": "2078",
+          "abilityName": "芽生えし忍の心構え",
+          "abilityDescription": "行動後にHPとチャクラが15％回復する",
+          "abilityEffectDescription": "行動後にHPとチャクラが15％回復する",
+          "effectIdx1": "735",
+          "effectIdx2": "648",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "2085",
           "abilityName": "新春ド根性",
           "abilityDescription": "HPが50%以上の時、スキルダメージが100%アップし、スキル発動速度1段階アップする",
@@ -18244,6 +18262,24 @@
           "effectIdx1": "813",
           "effectIdx2": "30011",
           "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2091",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "20044",
+          "effectIdx2": "895",
+          "effectIdx3": "1335"
+        },
+        {
+          "abilityId": "2092",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "1914",
+          "effectIdx2": "1645",
+          "effectIdx3": "1838"
         },
         {
           "abilityId": "10000",

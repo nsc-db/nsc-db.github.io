@@ -7296,6 +7296,11 @@
           "appUiId": "1462",
           "uiKey": "DataMigrationCodeOnlyDesc",
           "text": "ここではデータの引き継ぎを行えます\r\n■引き継ぎコード発行\r\n　引き継ぎコードを発行します"
+        },
+        {
+          "appUiId": "1463",
+          "uiKey": "Remining",
+          "text": "のこり"
         }
       ]
     }

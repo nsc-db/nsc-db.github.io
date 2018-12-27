@@ -1809,6 +1809,12 @@
           "itemImgId": "23"
         },
         {
+          "shopExchangeItemId": "312",
+          "itemName": "昇級試験Pt",
+          "measure": "0",
+          "itemImgId": "128"
+        },
+        {
           "shopExchangeItemId": "1001",
           "itemName": "下心Pt",
           "measure": null,
@@ -1963,6 +1969,12 @@
           "itemName": "個人Pt",
           "measure": "0",
           "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "1027",
+          "itemName": "新年昇級交換券",
+          "measure": "0",
+          "itemImgId": "1027"
         },
         {
           "shopExchangeItemId": "2000",

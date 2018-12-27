@@ -16481,6 +16481,22 @@
           "crystalImageId": "201055",
           "recipeId": "20105",
           "recipeName": "サクラの着物2019"
+        },
+        {
+          "crystalId": "20116",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "492",
+          "effectIdx2": "1319",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "0",
+          "crystalDescription": "0",
+          "crystalImageId": "201165",
+          "recipeId": "20116",
+          "recipeName": "孤高の三日月"
         }
       ]
     }

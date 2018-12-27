@@ -5495,6 +5495,10 @@
           "name": "これが…オレが見るその先だ"
         },
         {
+          "cardBattleSkillNameId": "2575",
+          "name": "近道なんかないよコレ！"
+        },
+        {
           "cardBattleSkillNameId": "2576",
           "name": "輪廻祭・回天"
         },
@@ -5557,6 +5561,14 @@
         {
           "cardBattleSkillNameId": "2591",
           "name": "心の準備が…"
+        },
+        {
+          "cardBattleSkillNameId": "2595",
+          "name": "0"
+        },
+        {
+          "cardBattleSkillNameId": "2596",
+          "name": "0"
         },
         {
           "cardBattleSkillNameId": "10136",

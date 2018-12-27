@@ -1045,6 +1045,18 @@
           "hpGaugeHeight": "50",
           "motionType": "3",
           "attackScriptName": "cha0485_01"
+        },
+        {
+          "modelId": "8004",
+          "hpGaugeHeight": "10",
+          "motionType": "1",
+          "attackScriptName": "skip"
+        },
+        {
+          "modelId": "8006",
+          "hpGaugeHeight": "10",
+          "motionType": "1",
+          "attackScriptName": "skip"
         }
       ]
     }
