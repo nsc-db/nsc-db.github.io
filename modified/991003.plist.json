@@ -220,7 +220,7 @@
         },
         {
           "defineKey": "asset_deck_cost_limit",
-          "defineValue": "225"
+          "defineValue": "270"
         },
         {
           "defineKey": "asset_stamina_limit",

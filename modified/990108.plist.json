@@ -10533,6 +10533,19 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "828",
+          "name": "救友の意志",
+          "description": "勇属性と知属性の最大HPとスキルダメージと攻撃力を130％アップする",
+          "effectIdx1": "2053",
+          "effectIdx2": "800",
+          "effectIdx3": "2054",
+          "compType": "2",
+          "target1Category": "1",
+          "target1Param": "7",
+          "target2Category": "1",
+          "target2Param": "6"
+        },
+        {
           "cardLeaderSkillId": "830",
           "name": "新春うずまき演芸道",
           "description": "全属性の攻撃力を20％アップし、行動後にチャクラが19％回復する",

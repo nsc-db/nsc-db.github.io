@@ -3651,6 +3651,42 @@
           "speechCharactorName": "マイト・ガイ"
         },
         {
+          "speechCharactorId": "612",
+          "cardId": "20050105",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うずまきナルト"
+        },
+        {
+          "speechCharactorId": "613",
+          "cardId": "20050106",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはサスケ"
+        },
+        {
+          "speechCharactorId": "614",
+          "cardId": "20050107",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "春野サクラ"
+        },
+        {
+          "speechCharactorId": "615",
+          "cardId": "21000289",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "臼"
+        },
+        {
+          "speechCharactorId": "618",
+          "cardId": "20050106",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "？？？"
+        },
+        {
+          "speechCharactorId": "619",
+          "cardId": "20050105",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "？？？"
+        },
+        {
           "speechCharactorId": "1000",
           "cardId": "21000091",
           "speechCharactorImgId": "1000",

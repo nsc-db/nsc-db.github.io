@@ -1673,6 +1673,16 @@
           "type": "2"
         },
         {
+          "cardUnusualId": "173",
+          "category": "4",
+          "iconId": "1193",
+          "name": "救友",
+          "description": "攻撃力と素早さとスキルダメージおよびスキル発動速度アップする。さらに弱体系特殊状態を解除＆無効。",
+          "subScore": "0",
+          "color": "16774242",
+          "type": "2"
+        },
+        {
           "cardUnusualId": "174",
           "category": "3",
           "iconId": "1194",

@@ -1947,6 +1947,18 @@
           "voiceDeath": "hinata_death_02_01"
         },
         {
+          "cardVoiceId": "164",
+          "cardId": "20050103",
+          "dirName": "naruto",
+          "evolutionStep": "",
+          "voiceAppear": "naruto_skill_02_20",
+          "voiceSkill1": "kurama_battle_02_03,naruto_skill_02_10",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "naruto_battle_02_20",
+          "voiceDeath": "naruto_death_02_04"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

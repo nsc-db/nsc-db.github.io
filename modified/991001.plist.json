@@ -66433,6 +66433,541 @@
           "message": "ついてこーーーーーーーーーい！！！"
         },
         {
+          "scriptMessageId": "25778",
+          "speechCharactorId": "618",
+          "message": "……起きろ"
+        },
+        {
+          "scriptMessageId": "25779",
+          "speechCharactorId": "618",
+          "message": "……起きろ、サクラ"
+        },
+        {
+          "scriptMessageId": "25780",
+          "speechCharactorId": "505",
+          "message": "ん……"
+        },
+        {
+          "scriptMessageId": "25781",
+          "speechCharactorId": "505",
+          "message": "ぇ……え……"
+        },
+        {
+          "scriptMessageId": "25782",
+          "speechCharactorId": "505",
+          "message": "えええええ！？"
+        },
+        {
+          "scriptMessageId": "25783",
+          "speechCharactorId": "505",
+          "message": "え…サスケくん！？\r\nサスケくん…？"
+        },
+        {
+          "scriptMessageId": "25784",
+          "speechCharactorId": "613",
+          "message": "ああ…"
+        },
+        {
+          "scriptMessageId": "25785",
+          "speechCharactorId": "505",
+          "message": "ええええええ！！"
+        },
+        {
+          "scriptMessageId": "25786",
+          "speechCharactorId": "613",
+          "message": "うるさいぞ、サクラ"
+        },
+        {
+          "scriptMessageId": "25787",
+          "speechCharactorId": "505",
+          "message": "え…だって、ちょっと待って……"
+        },
+        {
+          "scriptMessageId": "25788",
+          "speechCharactorId": "613",
+          "message": "初詣に行く時間だ\r\n早く準備しろ…オレは外で待つ"
+        },
+        {
+          "scriptMessageId": "25789",
+          "speechCharactorId": "505",
+          "message": "え…？う…うん"
+        },
+        {
+          "scriptMessageId": "25790",
+          "speechCharactorId": "614",
+          "message": "お待たせ……"
+        },
+        {
+          "scriptMessageId": "25791",
+          "speechCharactorId": "613",
+          "message": "……行くぞ"
+        },
+        {
+          "scriptMessageId": "25792",
+          "speechCharactorId": "614",
+          "message": "（はぁ～～やっぱりサスケくんよね）"
+        },
+        {
+          "scriptMessageId": "25793",
+          "speechCharactorId": "614",
+          "message": "（着物褒めて貰えるかなーとか…）"
+        },
+        {
+          "scriptMessageId": "25794",
+          "speechCharactorId": "614",
+          "message": "ちょっと期待したんだけどなぁ……"
+        },
+        {
+          "scriptMessageId": "25795",
+          "speechCharactorId": "613",
+          "message": "……？"
+        },
+        {
+          "scriptMessageId": "25796",
+          "speechCharactorId": "614",
+          "message": "なんでもない\r\n行きましょ"
+        },
+        {
+          "scriptMessageId": "25797",
+          "speechCharactorId": "614",
+          "message": "（サスケくん…）\r\n（着物姿もカッコいい…）"
+        },
+        {
+          "scriptMessageId": "25798",
+          "speechCharactorId": "613",
+          "message": "どうした？"
+        },
+        {
+          "scriptMessageId": "25799",
+          "speechCharactorId": "614",
+          "message": "ううん…なんでも…"
+        },
+        {
+          "scriptMessageId": "25800",
+          "speechCharactorId": "612",
+          "message": "サクラちゃん！\r\nあっけまして\r\nおめでとうだってばよ！！"
+        },
+        {
+          "scriptMessageId": "25801",
+          "speechCharactorId": "612",
+          "message": "お、サスケも\r\nついでにおめでとう！"
+        },
+        {
+          "scriptMessageId": "25802",
+          "speechCharactorId": "613",
+          "message": "ついでかよ…"
+        },
+        {
+          "scriptMessageId": "25803",
+          "speechCharactorId": "355",
+          "message": "コラ！ナルト！！\r\nまったくお前って奴は……"
+        },
+        {
+          "scriptMessageId": "25804",
+          "speechCharactorId": "355",
+          "message": "サクラ、サスケ\r\nあけましておめでとう！"
+        },
+        {
+          "scriptMessageId": "25805",
+          "speechCharactorId": "614",
+          "message": "あけまして\r\nおめでとうございます、イルカ先生"
+        },
+        {
+          "scriptMessageId": "25806",
+          "speechCharactorId": "355",
+          "message": "二人共、着物似合ってるぞ！"
+        },
+        {
+          "scriptMessageId": "25807",
+          "speechCharactorId": "613",
+          "message": "ありがとうございます"
+        },
+        {
+          "scriptMessageId": "25808",
+          "speechCharactorId": "614",
+          "message": "（あれ…？サスケくん）\r\n（いつもと違う…？）"
+        },
+        {
+          "scriptMessageId": "25809",
+          "speechCharactorId": "612",
+          "message": "オレはオレは！？"
+        },
+        {
+          "scriptMessageId": "25810",
+          "speechCharactorId": "614",
+          "message": "少しは落ち着きなさい！"
+        },
+        {
+          "scriptMessageId": "25811",
+          "speechCharactorId": "355",
+          "message": "少しは落ち着けナルト！！"
+        },
+        {
+          "scriptMessageId": "25812",
+          "speechCharactorId": "612",
+          "message": "新年早々怒られたってばよォ！？"
+        },
+        {
+          "scriptMessageId": "25813",
+          "speechCharactorId": "613",
+          "message": "フッ……"
+        },
+        {
+          "scriptMessageId": "25814",
+          "speechCharactorId": "612",
+          "message": "サスケェ！？笑ってんじゃねーぞォ\r\nこのヤロー！！"
+        },
+        {
+          "scriptMessageId": "25815",
+          "speechCharactorId": "613",
+          "message": "気のせいだ"
+        },
+        {
+          "scriptMessageId": "25816",
+          "speechCharactorId": "319",
+          "message": "なんか騒がしいね…"
+        },
+        {
+          "scriptMessageId": "25817",
+          "speechCharactorId": "306",
+          "message": "ナルトくん達ですね\r\n…三人仲良く着物姿ですよ、カカシ様"
+        },
+        {
+          "scriptMessageId": "25818",
+          "speechCharactorId": "319",
+          "message": "様はやめて、様は……"
+        },
+        {
+          "scriptMessageId": "25819",
+          "speechCharactorId": "612",
+          "message": "あけおめーカカシティーチャー火影！"
+        },
+        {
+          "scriptMessageId": "25820",
+          "speechCharactorId": "319",
+          "message": "えっ！？\r\n酔ってるのか、ナルト？"
+        },
+        {
+          "scriptMessageId": "25821",
+          "speechCharactorId": "612",
+          "message": "まだ未成年だってばよォ\r\n何言ってるんだ？カカシ先生"
+        },
+        {
+          "scriptMessageId": "25822",
+          "speechCharactorId": "614",
+          "message": "あけまして\r\nおめでとうございます"
+        },
+        {
+          "scriptMessageId": "25823",
+          "speechCharactorId": "613",
+          "message": "おめでとうございます\r\n六代目火影様……フッ……"
+        },
+        {
+          "scriptMessageId": "25824",
+          "speechCharactorId": "319",
+          "message": "サスケ……"
+        },
+        {
+          "scriptMessageId": "25825",
+          "speechCharactorId": "614",
+          "message": "うーん……\r\n（サスケくん、やっぱり変よね…）"
+        },
+        {
+          "scriptMessageId": "25826",
+          "speechCharactorId": "612",
+          "message": "いつもより回しておりまーすってばよォ！"
+        },
+        {
+          "scriptMessageId": "25827",
+          "speechCharactorId": "306",
+          "message": "……！？"
+        },
+        {
+          "scriptMessageId": "25828",
+          "speechCharactorId": "306",
+          "message": "ハァハァ……ナルトくん…\r\n新年早々はしゃぎ過ぎです……"
+        },
+        {
+          "scriptMessageId": "25829",
+          "speechCharactorId": "319",
+          "message": "アハハハ……ハァ…"
+        },
+        {
+          "scriptMessageId": "25830",
+          "speechCharactorId": "613",
+          "message": "ナルト……"
+        },
+        {
+          "scriptMessageId": "25831",
+          "speechCharactorId": "612",
+          "message": "すまねェ…なんか盛り上がった"
+        },
+        {
+          "scriptMessageId": "25832",
+          "speechCharactorId": "614",
+          "message": "（ナルトも変だわ…）"
+        },
+        {
+          "scriptMessageId": "25833",
+          "speechCharactorId": "327",
+          "message": "やっほーサクラ、サスケくん、ナルト！\r\nあけましておめでとう！"
+        },
+        {
+          "scriptMessageId": "25834",
+          "speechCharactorId": "326",
+          "message": "なんだよ、元第七班\r\n揃い踏みじゃねーか"
+        },
+        {
+          "scriptMessageId": "25835",
+          "speechCharactorId": "328",
+          "message": "あけましておめでとうだね\r\n境内でお雑煮が配られてるみたいだよ"
+        },
+        {
+          "scriptMessageId": "25836",
+          "speechCharactorId": "612",
+          "message": "そういう第十班も揃ってんな！"
+        },
+        {
+          "scriptMessageId": "25837",
+          "speechCharactorId": "326",
+          "message": "まぁ腐れ縁って奴だ"
+        },
+        {
+          "scriptMessageId": "25838",
+          "speechCharactorId": "328",
+          "message": "甘酒もあるみたいだよ\r\n皆で行こうよ！"
+        },
+        {
+          "scriptMessageId": "25839",
+          "speechCharactorId": "326",
+          "message": "オイ、引っ張るなよチョウジ！！"
+        },
+        {
+          "scriptMessageId": "25840",
+          "speechCharactorId": "328",
+          "message": "こうしちゃいられない！\r\n行くよ皆！！"
+        },
+        {
+          "scriptMessageId": "25841",
+          "speechCharactorId": "328",
+          "message": "ウオオオォォォォ！！！"
+        },
+        {
+          "scriptMessageId": "25842",
+          "speechCharactorId": "613",
+          "message": "騒がしい奴らだ"
+        },
+        {
+          "scriptMessageId": "25843",
+          "speechCharactorId": "614",
+          "message": "そうね…"
+        },
+        {
+          "scriptMessageId": "25844",
+          "speechCharactorId": "613",
+          "message": "ナルトも付いていったようだな"
+        },
+        {
+          "scriptMessageId": "25845",
+          "speechCharactorId": "613",
+          "message": "二人きりだな……"
+        },
+        {
+          "scriptMessageId": "25846",
+          "speechCharactorId": "614",
+          "message": "え…うん…"
+        },
+        {
+          "scriptMessageId": "25847",
+          "speechCharactorId": "613",
+          "message": "着物……\r\n良く似合ってる"
+        },
+        {
+          "scriptMessageId": "25848",
+          "speechCharactorId": "614",
+          "message": "さっきは何も言って\r\nくれなかったのに……"
+        },
+        {
+          "scriptMessageId": "25849",
+          "speechCharactorId": "613",
+          "message": "フッ…ナルトが来るのは\r\n分かっていたからな"
+        },
+        {
+          "scriptMessageId": "25850",
+          "speechCharactorId": "614",
+          "message": "おかしい…！"
+        },
+        {
+          "scriptMessageId": "25851",
+          "speechCharactorId": "613",
+          "message": "おかしい？"
+        },
+        {
+          "scriptMessageId": "25852",
+          "speechCharactorId": "614",
+          "message": "サスケ君はそんなこと…\r\n言わないわ…"
+        },
+        {
+          "scriptMessageId": "25853",
+          "speechCharactorId": "613",
+          "message": "そうか……？"
+        },
+        {
+          "scriptMessageId": "25854",
+          "speechCharactorId": "614",
+          "message": "思わず逃げてきたけど…"
+        },
+        {
+          "scriptMessageId": "25855",
+          "speechCharactorId": "614",
+          "message": "今日の皆は変だわ…"
+        },
+        {
+          "scriptMessageId": "25856",
+          "speechCharactorId": "614",
+          "message": "思えば皆、子供っぽかった…"
+        },
+        {
+          "scriptMessageId": "25857",
+          "speechCharactorId": "614",
+          "message": "幻術…？\r\n……私のチャクラの流れは…"
+        },
+        {
+          "scriptMessageId": "25858",
+          "speechCharactorId": "329",
+          "message": "流石ですね…サクラ"
+        },
+        {
+          "scriptMessageId": "25859",
+          "speechCharactorId": "614",
+          "message": "サイ！！\r\nあなたの仕業なの！？"
+        },
+        {
+          "scriptMessageId": "25860",
+          "speechCharactorId": "329",
+          "message": "え？何がです？"
+        },
+        {
+          "scriptMessageId": "25861",
+          "speechCharactorId": "380",
+          "message": "サクラちゃん\r\nいきなり人を疑うのは酷いってばよ！"
+        },
+        {
+          "scriptMessageId": "25862",
+          "speechCharactorId": "381",
+          "message": "いや…不可思議な状況\r\n用心するのは当然だぞナルト"
+        },
+        {
+          "scriptMessageId": "25863",
+          "speechCharactorId": "614",
+          "message": "この状況が……\r\n絶対変だから！！"
+        },
+        {
+          "scriptMessageId": "25864",
+          "speechCharactorId": "615",
+          "message": "（もうお分かりだろう）"
+        },
+        {
+          "scriptMessageId": "25865",
+          "speechCharactorId": "615",
+          "message": "（これが夢だと言う事が……）"
+        },
+        {
+          "scriptMessageId": "25866",
+          "speechCharactorId": "614",
+          "message": "…………\r\nなんか臼がジェスチャーしてる……"
+        },
+        {
+          "scriptMessageId": "25867",
+          "speechCharactorId": "614",
+          "message": "とりあえず…イラっとするから\r\n壊すわね！！"
+        },
+        {
+          "scriptMessageId": "25868",
+          "speechCharactorId": "614",
+          "message": "あーー…すっきりした…"
+        },
+        {
+          "scriptMessageId": "25869",
+          "speechCharactorId": "614",
+          "message": "……あれ…初詣に行ってない……"
+        },
+        {
+          "scriptMessageId": "25870",
+          "speechCharactorId": "619",
+          "message": "……起きろー"
+        },
+        {
+          "scriptMessageId": "25871",
+          "speechCharactorId": "619",
+          "message": "……起きろって、サクラちゃん"
+        },
+        {
+          "scriptMessageId": "25872",
+          "speechCharactorId": "614",
+          "message": "ん……"
+        },
+        {
+          "scriptMessageId": "25873",
+          "speechCharactorId": "614",
+          "message": "……ナルト？"
+        },
+        {
+          "scriptMessageId": "25874",
+          "speechCharactorId": "614",
+          "message": "私なんで…"
+        },
+        {
+          "scriptMessageId": "25875",
+          "speechCharactorId": "612",
+          "message": "あー酔っ払った綱手のばあちゃんの相手で\r\nスゲー疲れた感じだったからサクラちゃん"
+        },
+        {
+          "scriptMessageId": "25876",
+          "speechCharactorId": "612",
+          "message": "もうカカシ先生の\r\n新年の挨拶が終わったところだ"
+        },
+        {
+          "scriptMessageId": "25877",
+          "speechCharactorId": "614",
+          "message": "……まぁ今のナルトはこうよね"
+        },
+        {
+          "scriptMessageId": "25878",
+          "speechCharactorId": "612",
+          "message": "ん、なんのこと？"
+        },
+        {
+          "scriptMessageId": "25879",
+          "speechCharactorId": "614",
+          "message": "こっちの話\r\n……まぁ夢でもサスケくんの\r\n着物姿見られたし、いいかな"
+        },
+        {
+          "scriptMessageId": "25880",
+          "speechCharactorId": "612",
+          "message": "サスケ？\r\nははぁーん……"
+        },
+        {
+          "scriptMessageId": "25881",
+          "speechCharactorId": "614",
+          "message": "殴るよ？"
+        },
+        {
+          "scriptMessageId": "25882",
+          "speechCharactorId": "612",
+          "message": "それは勘弁だってばよ！！"
+        },
+        {
+          "scriptMessageId": "25883",
+          "speechCharactorId": "614",
+          "message": "ナルト！！\r\n初詣に行くわよ！"
+        },
+        {
+          "scriptMessageId": "25884",
+          "speechCharactorId": "612",
+          "message": "オゥ！！"
+        },
+        {
           "scriptMessageId": "40001",
           "speechCharactorId": "178",
           "message": "絶望しかないこの世界に\r\n存在する価値はない"

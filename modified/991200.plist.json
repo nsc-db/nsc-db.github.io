@@ -8869,6 +8869,30 @@
           "effectIdx2": "1335",
           "effectIdx3": "1840",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "759",
+          "targetCrystal": "20106",
+          "description": "1回行動までチャクラ消費0、行動後にHPとチャクラが30%回復、弱体を無効化",
+          "charaIds": "108,112,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1378",
+          "effectIdx2": "300012",
+          "effectIdx3": "820",
+          "effectIdx4": "64"
+        },
+        {
+          "crystalOverwriteEffectId": "760",
+          "targetCrystal": "20107",
+          "description": "行動するたびに素早さ70%アップ（最大3回まで）、スキル発動速度1段階アップ、キャンセル無効",
+          "charaIds": "108,112,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "2051",
+          "effectIdx2": "1840",
+          "effectIdx3": "1751",
+          "effectIdx4": "0"
         }
       ]
     }

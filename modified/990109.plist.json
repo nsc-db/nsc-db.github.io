@@ -18210,6 +18210,24 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2081",
+          "abilityName": "孤独を知る英雄",
+          "abilityDescription": "HP0以下で5回までHP全回復、最大チャクラ量200アップ",
+          "abilityEffectDescription": "HP0以下で5回までHP全回復、最大チャクラ量200アップ",
+          "effectIdx1": "1512",
+          "effectIdx2": "874",
+          "effectIdx3": "20019"
+        },
+        {
+          "abilityId": "2082",
+          "abilityName": "九喇嘛との全力",
+          "abilityDescription": "2回行動まで素早さ150%アップ、敵に無所属がいる場合さらに素早さ250％アップ＆スキル発動速度1段階アップ",
+          "abilityEffectDescription": "2回行動まで素早さ150%アップ、敵に無所属がいる場合さらに素早さ250％アップ＆スキル発動速度1段階アップ",
+          "effectIdx1": "2046",
+          "effectIdx2": "2047",
+          "effectIdx3": "2048"
+        },
+        {
           "abilityId": "2085",
           "abilityName": "新春ド根性",
           "abilityDescription": "HPが50%以上の時、スキルダメージが100%アップし、スキル発動速度1段階アップする",

@@ -1277,6 +1277,19 @@
           "selectType": "2"
         },
         {
+          "itemId": "51028",
+          "name": "期間限定 昇級Pt倍化薬",
+          "description": "昇級試験での獲得Ptが2倍になります（1月31日まで期間限定）。",
+          "resultWord": "昇級試験 獲得Pt2倍",
+          "itemCategoryId": "11",
+          "itemValue": "20000",
+          "itemNum": "0",
+          "itemImageId": "51002",
+          "needCount": "1",
+          "priority": "100",
+          "selectType": "2"
+        },
+        {
           "itemId": "52000",
           "name": "限定ドロップ数２倍の秘伝書",
           "description": "バトルでの獲得ドロップ数が２倍になります。（1月4日15:59まで期間限定）",
@@ -1630,7 +1643,7 @@
         {
           "itemId": "60008",
           "name": "ナルコレ大賞投票券",
-          "description": "ナルコレ大賞2018で投票に必要なアイテム。（12月28日21:59まで期間限定）",
+          "description": "ナルコレ大賞2018で投票に必要なアイテム。（12月29日15:59まで期間限定）",
           "resultWord": "0",
           "itemCategoryId": "20",
           "itemValue": "0",
