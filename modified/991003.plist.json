@@ -592,7 +592,7 @@
         },
         {
           "defineKey": "not_release_dailypack",
-          "defineValue": "1"
+          "defineValue": "0"
         }
       ]
     }
