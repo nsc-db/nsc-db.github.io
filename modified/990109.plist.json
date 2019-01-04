@@ -18210,6 +18210,24 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2079",
+          "abilityName": "初代火影の遺伝子",
+          "abilityDescription": "最大チャクラ量が50アップ、HP0以下で1回だけ耐える",
+          "abilityEffectDescription": "最大チャクラ量が50アップ、HP0以下で1回だけ耐える",
+          "effectIdx1": "689",
+          "effectIdx2": "312",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2080",
+          "abilityName": "現役唯一の木遁忍者",
+          "abilityDescription": "確率でスキルを回避、木遁と尾獣タイプのスキルダメージを軽減",
+          "abilityEffectDescription": "確率でスキルを回避、木遁と尾獣タイプのスキルダメージを軽減",
+          "effectIdx1": "1423",
+          "effectIdx2": "181",
+          "effectIdx3": "1103"
+        },
+        {
           "abilityId": "2081",
           "abilityName": "孤独を知る英雄",
           "abilityDescription": "HP0以下で5回までHP全回復、最大チャクラ量200アップ",
@@ -18283,18 +18301,18 @@
         },
         {
           "abilityId": "2091",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "孤高の力",
+          "abilityDescription": "最大チャクラ量を250アップ、チャクラ消費量50%減少、素早さ120%アップ",
+          "abilityEffectDescription": "最大チャクラ量を250アップ、チャクラ消費量50%減少、素早さ120%アップ",
           "effectIdx1": "20044",
           "effectIdx2": "895",
           "effectIdx3": "1335"
         },
         {
           "abilityId": "2092",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "忍術の開祖",
+          "abilityDescription": "2回行動まで耐性無視含む全スキル無効、2回行動までスキル発動速度2段階アップ",
+          "abilityEffectDescription": "2回行動まで耐性無視含む全スキル無効、2回行動までスキル発動速度2段階アップ",
           "effectIdx1": "1914",
           "effectIdx2": "1645",
           "effectIdx3": "1838"

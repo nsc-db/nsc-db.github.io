@@ -3774,6 +3774,15 @@
           "purchaseReleaseTime": "0000-00-00 00:00:00"
         },
         {
+          "mypageOrnamentId": "1901010",
+          "name": "0",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "1",
+          "charaId": "38",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
           "mypageOrnamentId": "1901601",
           "name": "その他",
           "rarity": "2",

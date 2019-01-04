@@ -367,32 +367,6 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
-          "worldStageId": "1077",
-          "worldAreaId": "5",
-          "priority": "30",
-          "name": "“暁”修練",
-          "description": "素材を集めて限定忍具を手に入れよう！",
-          "notice": "※イベントの内容及び日程は告知なく変更となる場合がございます。",
-          "type": "0",
-          "prerequisiteWorldStageId": "0",
-          "openWeek": null,
-          "openTime": "0000.00.00 00:00:00",
-          "closeTime": "0000.00.00 00:00:00"
-        },
-        {
-          "worldStageId": "1203",
-          "worldAreaId": "5",
-          "priority": "1",
-          "name": "惨劇の夜へ",
-          "description": "うちは一族の隠された過去が今明かされる！",
-          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
-          "type": "0",
-          "prerequisiteWorldStageId": "0",
-          "openWeek": null,
-          "openTime": "0000.00.00 00:00:00",
-          "closeTime": "0000.00.00 00:00:00"
-        },
-        {
           "worldStageId": "1204",
           "worldAreaId": "5",
           "priority": "2",
@@ -471,12 +445,12 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
-          "worldStageId": "2061",
+          "worldStageId": "1212",
           "worldAreaId": "5",
-          "priority": "30",
-          "name": "テンテンの忍具指南",
-          "description": "忍具素材「チャクラ」を集めよう。\r\n他の忍具素材と一緒に生成し\r\n忍具装備でさらにキャラクターが強くなるぞ！！",
-          "notice": "0",
+          "priority": "2",
+          "name": "大激闘任務-睦月の陣-",
+          "description": "ランパートではドロップではなく\r\nクリア時に個人Ptを獲得できます。",
+          "notice": "※報酬のキャラは先行配信であり、後日別の手段で入手可能になります。\r\n※イベントの内容及び日程は告知なく変更となる場合がございます。",
           "type": "0",
           "prerequisiteWorldStageId": "0",
           "openWeek": null,
