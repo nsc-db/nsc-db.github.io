@@ -6180,8 +6180,16 @@ window.tags=[
           "rare": "5",
           "tag": "pmiles",
           "rate": "75",
-          "pvp": "96",
+          "pvp": "50",
           "nickname": "pmiles Lee"
+},
+{
+          "cardId": "20040902",
+          "rare": "5",
+          "tag": "event",
+          "rate": "",
+          "pvp": "",
+          "nickname": "Ino"
 },
 {
           "cardId": "20040903",
@@ -6224,7 +6232,7 @@ window.tags=[
           "nickname": "Ex Hiruzen | Third Hokage"
 },
 {
-          "cardId": "20040909",
+          "cardId": "20040908",
           "rare": "5",
           "tag": "killers",
           "rate": "-",
@@ -6325,7 +6333,15 @@ window.tags=[
           "tag": "event",
           "rate": "",
           "pvp": "",
-          "nickname": "I dont remember your name"
+          "nickname": "forgot your name"
+},
+{
+          "cardId": "20041103",
+          "rare": "5",
+          "tag": "ex-6",
+          "rate": "",
+          "pvp": "",
+          "nickname": "Insta Kill Obito"
 },
 {
           "cardId": "20041104",
@@ -6336,11 +6352,179 @@ window.tags=[
           "nickname": "Bday Sasori"
 },
 {
+          "cardId": "20041105",
+          "rare": "5",
+          "tag": "ex-6",
+          "rate": "",
+          "pvp": "",
+          "nickname": "Counter Jiraiya | White Jiraiya"
+},
+{
+          "cardId": "20041106",
+          "rare": "5",
+          "tag": "ex-6",
+          "rate": "",
+          "pvp": "",
+          "nickname": "Black Tsunade"
+},
+{
+          "cardId": "20041109",
+          "rare": "5",
+          "tag": "ex-6",
+          "rate": "",
+          "pvp": "",
+          "nickname": "pts lee"
+},
+{
           "cardId": "20041110",
+          "rare": "5",
+          "tag": "killer",
+          "rate": "",
+          "pvp": "",
+          "nickname": "Killer Sasuke"
+},
+{
+          "cardId": "20041112",
+          "rare": "5",
+          "tag": "ex-6",
+          "rate": "",
+          "pvp": "",
+          "nickname": "White Tenten"
+},
+{
+          "cardId": "20041201",
+          "rare": "5",
+          "tag": "pmiles",
+          "rate": "",
+          "pvp": "",
+          "nickname": "pmiles Gai"
+},
+{
+          "cardId": "20041202",
+          "rare": "5",
+          "tag": "event",
+          "rate": "",
+          "pvp": "",
+          "nickname": "Ibiki"
+},
+{
+          "cardId": "20041203",
+          "rare": "5",
+          "tag": "kami-destroyer",
+          "rate": "",
+          "pvp": "",
+          "nickname": "God Killer Madara"
+},
+{
+          "cardId": "20041205",
+          "rare": "5",
+          "tag": "ex-6",
+          "rate": "",
+          "pvp": "",
+          "nickname": "Red Shisui"
+},
+{
+          "cardId": "20041206",
           "rare": "5",
           "tag": "killers",
           "rate": "",
           "pvp": "",
-          "nickname": "Killer Sasuke"
+          "nickname": "Killer Anbu Itachi"
+},
+{
+          "cardId": "20041207",
+          "rare": "5",
+          "tag": "limited-6",
+          "rate": "",
+          "pvp": "",
+          "nickname": "christmas hinata"
+},
+{
+          "cardId": "20041208",
+          "rare": "5",
+          "tag": "limited-6",
+          "rate": "",
+          "pvp": "",
+          "nickname": "christmas hanabi"
+},
+{
+          "cardId": "20041209",
+          "rare": "5",
+          "tag": "killers",
+          "rate": "",
+          "pvp": "",
+          "nickname": "Killer Zetsu"
+},
+{
+          "cardId": "20041210",
+          "rare": "5",
+          "tag": "ex-6",
+          "rate": "",
+          "pvp": "",
+          "nickname": "Blue Sakura"
+},
+{
+          "cardId": "20041211",
+          "rare": "5",
+          "tag": "ex-6",
+          "rate": "",
+          "pvp": "",
+          "nickname": "Yellow Hinata"
+},
+{
+          "cardId": "20050101",
+          "rare": "5",
+          "tag": "pmiles",
+          "rate": "",
+          "pvp": "",
+          "nickname": "pmiles Konohamaru"
+},
+{
+          "cardId": "20050102",
+          "rare": "5",
+          "tag": "event",
+          "rate": "",
+          "pvp": "",
+          "nickname": "Yamato"
+},
+{
+          "cardId": "20050103",
+          "rare": "5",
+          "tag": "god",
+          "rate": "",
+          "pvp": "",
+          "nickname": "Naruto v5"
+},
+{
+          "cardId": "20050105",
+          "rare": "5",
+          "tag": "limited-6",
+          "rate": "",
+          "pvp": "",
+          "nickname": "New Year Shinden Naruto"
+},
+{
+          "cardId": "20050106",
+          "rare": "5",
+          "tag": "limited-6",
+          "rate": "",
+          "pvp": "",
+          "nickname": "New Year Shinden Sasuke"
+},
+{
+          "cardId": "20050107",
+          "rare": "5",
+          "tag": "limited-6",
+          "rate": "",
+          "pvp": "",
+          "nickname": "New Year Shinden Sakura"
+},
+{
+          "cardId": "20050108",
+          "rare": "5",
+          "tag": "pvp-reward",
+          "rate": "",
+          "pvp": "",
+          "nickname": "Champion Indra"
 },
 ]

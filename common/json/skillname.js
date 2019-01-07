@@ -5424,6 +5424,162 @@ window.skillname=[
           "name": "とっておきを見せてやる"
         },
         {
+          "cardBattleSkillNameId": "2553",
+          "name": "烈破狂瀾・乱獅子髪"
+        },
+        {
+          "cardBattleSkillNameId": "2554",
+          "name": "最初から全力で行くからの！"
+        },
+        {
+          "cardBattleSkillNameId": "2555",
+          "name": "痛天撃・渾心"
+        },
+        {
+          "cardBattleSkillNameId": "2556",
+          "name": "火の意志をなめるなよ！！"
+        },
+        {
+          "cardBattleSkillNameId": "2557",
+          "name": "これで最後です！！"
+        },
+        {
+          "cardBattleSkillNameId": "2558",
+          "name": "よし！"
+        },
+        {
+          "cardBattleSkillNameId": "2559",
+          "name": "ダイナミック・エントリー！！"
+        },
+        {
+          "cardBattleSkillNameId": "2560",
+          "name": "そう…これこそ青春だ！"
+        },
+        {
+          "cardBattleSkillNameId": "2561",
+          "name": "幻術・拷問部屋"
+        },
+        {
+          "cardBattleSkillNameId": "2562",
+          "name": "いい“決意”だ"
+        },
+        {
+          "cardBattleSkillNameId": "2563",
+          "name": "六道・炎滅手"
+        },
+        {
+          "cardBattleSkillNameId": "2565",
+          "name": "万華鏡写輪眼・別天神"
+        },
+        {
+          "cardBattleSkillNameId": "2566",
+          "name": "この里を…うちはの名を…"
+        },
+        {
+          "cardBattleSkillNameId": "2567",
+          "name": "祝・輪廻祭"
+        },
+        {
+          "cardBattleSkillNameId": "2568",
+          "name": "あなたが私を変えてくれた！"
+        },
+        {
+          "cardBattleSkillNameId": "2573",
+          "name": "暗殺戦技・影"
+        },
+        {
+          "cardBattleSkillNameId": "2574",
+          "name": "これが…オレが見るその先だ"
+        },
+        {
+          "cardBattleSkillNameId": "2575",
+          "name": "近道なんかないよコレ！"
+        },
+        {
+          "cardBattleSkillNameId": "2576",
+          "name": "輪廻祭・回天"
+        },
+        {
+          "cardBattleSkillNameId": "2577",
+          "name": "姉さまも早く！"
+        },
+        {
+          "cardBattleSkillNameId": "2578",
+          "name": "木遁・樹錨刺"
+        },
+        {
+          "cardBattleSkillNameId": "2579",
+          "name": "こっち見に来て正解だった！"
+        },
+        {
+          "cardBattleSkillNameId": "2580",
+          "name": "地爆天仰星墜"
+        },
+        {
+          "cardBattleSkillNameId": "2581",
+          "name": "無限月読"
+        },
+        {
+          "cardBattleSkillNameId": "2582",
+          "name": "桜花正中衝"
+        },
+        {
+          "cardBattleSkillNameId": "2583",
+          "name": "私もいる！"
+        },
+        {
+          "cardBattleSkillNameId": "2584",
+          "name": "うずまき流宴会芸"
+        },
+        {
+          "cardBattleSkillNameId": "2585",
+          "name": "いつもより回すってばよ！"
+        },
+        {
+          "cardBattleSkillNameId": "2586",
+          "name": "雷纏う破魔の矢"
+        },
+        {
+          "cardBattleSkillNameId": "2587",
+          "name": "オレはお前とも祝いたい…"
+        },
+        {
+          "cardBattleSkillNameId": "2588",
+          "name": "桜花祝賀衝"
+        },
+        {
+          "cardBattleSkillNameId": "2589",
+          "name": "初詣は私も一緒に！"
+        },
+        {
+          "cardBattleSkillNameId": "2590",
+          "name": "一緒に頑張ろう！"
+        },
+        {
+          "cardBattleSkillNameId": "2591",
+          "name": "心の準備が…"
+        },
+        {
+          "cardBattleSkillNameId": "2592",
+          "name": "お前にちゃんと勝ちてーんだ"
+        },
+        {
+          "cardBattleSkillNameId": "2593",
+          "name": "水遁・破奔流"
+        },
+        {
+          "cardBattleSkillNameId": "2594",
+          "name": "今しか無い…！"
+        },
+        {
+          "cardBattleSkillNameId": "2595",
+          "name": "天魔襲雷"
+        },
+        {
+          "cardBattleSkillNameId": "2596",
+          "name": "炎獄戦神"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },
@@ -5546,5 +5702,17 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "20500",
           "name": "トロフィーの怒り"
+        },
+        {
+          "cardBattleSkillNameId": "20600",
+          "name": "ザザ…ザザ…"
+        },
+        {
+          "cardBattleSkillNameId": "20601",
+          "name": "ゴソ…ゴソ…"
+        },
+        {
+          "cardBattleSkillNameId": "20602",
+          "name": "ガサ…ガサ…"
         }
 ]

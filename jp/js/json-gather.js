@@ -337,7 +337,7 @@
 		//Character Image
 		checkImage('../common/assets/img/units/' + cid + '.png', 
 			function(){
-			 $('#card-art-five-star').attr('src', '../common/assets/img/units/' + cid + '.png'); 
+			 $('#card-art-five-star').attr('src', '../common/assets/img/units/' + cid + '.png');
 			}, 
 			function(){
 			 $('#card-art-five-star').attr('src', '../common/assets/img/units/' + cid + '_6.png');
@@ -350,16 +350,6 @@
 			function(){
 			 $('#card-art-six-star').attr('src', '../common/assets/img/units/' + cid + '.png');
 			  } );
-		
-		
-		/*
-			Usamos os nome five e six para determinar o ID a ser escrito os valores
-						   ▼ j				       ▼ i					▼ k
-			$('#' + nome_do_detalhe + '_' + ('five'|'six')).text(valor_do_detalhe);
-			
-			Nota: Precisamos determinar a regra das variaves dentro de [unit] pra poder escreve-las na modal, e também a thumb e as duas imagens do card
-			
-		*/
 		
 		// Character Stats		
 		for(i in cards){

@@ -1433,7 +1433,7 @@ window.vo=[
           "dirName": "naruto",
           "evolutionStep": "",
           "voiceAppear": "naruto_pursuit_02_02",
-          "voiceSkill1": "naruto_battle_02_09,narutoskill_02_28",
+          "voiceSkill1": "naruto_battle_02_09　",
           "voiceSkill2": "",
           "voicePursuit": "",
           "voiceWin": "naruto_win_02_06",
@@ -1445,7 +1445,7 @@ window.vo=[
           "dirName": "sasuke",
           "evolutionStep": "",
           "voiceAppear": "sasuke_battle_02_10",
-          "voiceSkill1": "sasuke_attack_02_03,sasuke_pursui_02_05",
+          "voiceSkill1": "sasuke_attack_02_03",
           "voiceSkill2": "",
           "voicePursuit": "",
           "voiceWin": "sasuke_win_02_09",
@@ -1559,7 +1559,7 @@ window.vo=[
           "voiceWin": "naruto_battle_02_20",
           "voiceDeath": "naruto_death_02_06"
         },
-         {
+        {
           "cardVoiceId": "131",
           "cardId": "20040707",
           "dirName": "kimimaro",
@@ -1692,18 +1692,6 @@ window.vo=[
           "voiceDeath": "obito_damage_04_02"
         },
         {
-          "cardVoiceId": "8001",
-          "cardId": "80000001",
-          "dirName": "naruto",
-          "evolutionStep": "",
-          "voiceAppear": "naruto_battle_02_10",
-          "voiceSkill1": "naruto_skill_02_12,naruto_skill_02_21,naruto_skill_02_22",
-          "voiceSkill2": "",
-          "voicePursuit": "",
-          "voiceWin": "naruto_win_02_06",
-          "voiceDeath": "naruto_death_02_03"
-        },
-        {
           "cardVoiceId": "142",
           "cardId": "20030503",
           "dirName": "naruto",
@@ -1823,4 +1811,172 @@ window.vo=[
           "voiceWin": "sasori_win_02_01",
           "voiceDeath": "sasori_death_02_03"
         },
+        {
+          "cardVoiceId": "153",
+          "cardId": "20041105",
+          "dirName": "jiraiya",
+          "evolutionStep": "",
+          "voiceAppear": "jiraiya_skill_02_08",
+          "voiceSkill1": "jiraiya_battle_02_03,jiraiya_attack_02_03",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "jiraiya_win_02_01",
+          "voiceDeath": "jiraiya_death_02_01"
+        },
+        {
+          "cardVoiceId": "154",
+          "cardId": "20041106",
+          "dirName": "tsunade",
+          "evolutionStep": "",
+          "voiceAppear": "tsunade_skill_02_08",
+          "voiceSkill1": "tsunade_skill_02_05,tsunade_pursuit_02_01",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "tsunade_win_02_01",
+          "voiceDeath": "tsunade_death_02_01"
+        },
+        {
+          "cardVoiceId": "155",
+          "cardId": "20041201",
+          "dirName": "guy",
+          "evolutionStep": "",
+          "voiceAppear": "guy_battle_02_02",
+          "voiceSkill1": "guy_menu_mission_01",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "guy_win_02_02",
+          "voiceDeath": "guy_death_02_02"
+        },
+        {
+          "cardVoiceId": "156",
+          "cardId": "20041103",
+          "dirName": "obito",
+          "evolutionStep": "",
+          "voiceAppear": "obito_battle_02_05",
+          "voiceSkill1": "obito_skill_02_09",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "obito_win_02_06",
+          "voiceDeath": "obito_death_02_06"
+        },
+        {
+          "cardVoiceId": "157",
+          "cardId": "20041206",
+          "dirName": "itachi",
+          "evolutionStep": "",
+          "voiceAppear": "itachi_pursuit_02_01",
+          "voiceSkill1": "itachi_attack_02_01,itachi_attack_02_02",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "itachi_win_02_04",
+          "voiceDeath": "itachi_death_02_03"
+        },
+        {
+          "cardVoiceId": "158",
+          "cardId": "20041203",
+          "dirName": "madara",
+          "evolutionStep": "",
+          "voiceAppear": "madara_battle_02_02",
+          "voiceSkill1": "madara_skill_02_20,madara_pursuit_02_01,madara_pursuit_02_02",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "madara_win_02_01",
+          "voiceDeath": "madara_damage_02_02"
+        },
+        {
+          "cardVoiceId": "159",
+          "cardId": "20050105",
+          "dirName": "naruto",
+          "evolutionStep": "",
+          "voiceAppear": "kurama_pursuit_02_01,naruto_battle_03_02",
+          "voiceSkill1": "naruto_battle_03_03",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "naruto_win_03_02,kurama_win_02_01",
+          "voiceDeath": "naruto_death_03_02"
+        },
+        {
+          "cardVoiceId": "160",
+          "cardId": "20050106",
+          "dirName": "sasuke",
+          "evolutionStep": "",
+          "voiceAppear": "sasuke_win_03_03",
+          "voiceSkill1": "sasuke_battle_03_04",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "sasuke_battle_03_03",
+          "voiceDeath": "sasuke_death_03_03"
+        },
+        {
+          "cardVoiceId": "161",
+          "cardId": "20050107",
+          "dirName": "sakura",
+          "evolutionStep": "",
+          "voiceAppear": "sakura_battle_03_01",
+          "voiceSkill1": "sakura_win_03_01",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "sakura_skill_03_01",
+          "voiceDeath": "sakura_death_03_01"
+        },
+        {
+          "cardVoiceId": "162",
+          "cardId": "20041210",
+          "dirName": "sakura",
+          "evolutionStep": "",
+          "voiceAppear": "sakura_pursuit_02_03",
+          "voiceSkill1": "sakura_skill_02_08,sakura_pursuit_02_01",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "sakura_skill_02_09",
+          "voiceDeath": "sakura_death_02_03"
+        },
+        {
+          "cardVoiceId": "163",
+          "cardId": "20041211",
+          "dirName": "hinata",
+          "evolutionStep": "",
+          "voiceAppear": "hinata_pursuit_02_01",
+          "voiceSkill1": "hinata_attack_02_01,hinata_skill_02_02,hinata_skill_02_03,hinata_skill_02_04,hinata_skill_02_05,hinata_menu_mission_01",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "hinata_battle_02_01",
+          "voiceDeath": "hinata_death_02_01"
+        },
+        {
+          "cardVoiceId": "164",
+          "cardId": "20050103",
+          "dirName": "naruto",
+          "evolutionStep": "",
+          "voiceAppear": "naruto_skill_02_20",
+          "voiceSkill1": "kurama_battle_02_03,naruto_skill_02_10",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "naruto_battle_02_20",
+          "voiceDeath": "naruto_death_02_04"
+        },
+        {
+          "cardVoiceId": "8001",
+          "cardId": "80000001",
+          "dirName": "naruto",
+          "evolutionStep": "",
+          "voiceAppear": "naruto_battle_02_10",
+          "voiceSkill1": "naruto_skill_02_12,naruto_skill_02_21,naruto_skill_02_22",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "naruto_win_02_06",
+          "voiceDeath": "naruto_death_02_03"
+        },
+        {
+          "cardVoiceId": "8002",
+          "cardId": "80000002",
+          "dirName": "sasuke",
+          "evolutionStep": "",
+          "voiceAppear": "sasuke_battle_02_04",
+          "voiceSkill1": "sasuke_skill_02_09,sasuke_skill_02_10,sasuke_skill_02_07,sasuke_skill_02_08",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "sasuke_win_02_03",
+          "voiceDeath": "sasuke_death_02_04"
+        }
 ]
