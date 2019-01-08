@@ -16595,6 +16595,38 @@
           "recipeName": "救友の意志"
         },
         {
+          "crystalId": "20108",
+          "crystalType": "3",
+          "crystalRare": "5",
+          "effectIdx1": "1697",
+          "effectIdx2": "2013",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "不吉なスリーセブン",
+          "crystalDescription": "2回行動するまで素早さ50%アップ、被ダメージ時確率でチャクラ15%回復",
+          "crystalImageId": "201085",
+          "recipeId": "20108",
+          "recipeName": "不吉なスリーセブン"
+        },
+        {
+          "crystalId": "20109",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "2023",
+          "effectIdx2": "2024",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "師弟・蛞蝓",
+          "crystalDescription": "味方に綱手がいると素早さ20%ｱｯﾌﾟ、ｻｸﾗがいると素早さ20%ｱｯﾌﾟ",
+          "crystalImageId": "201095",
+          "recipeId": "20109",
+          "recipeName": "師弟・蛞蝓"
+        },
+        {
           "crystalId": "20116",
           "crystalType": "11",
           "crystalRare": "5",

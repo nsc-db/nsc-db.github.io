@@ -367,19 +367,6 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
-          "worldStageId": "1204",
-          "worldAreaId": "5",
-          "priority": "2",
-          "name": "大激闘任務-師走の陣-",
-          "description": "ランパートではドロップではなく\r\nクリア時に個人Ptを獲得できます。",
-          "notice": "※報酬のキャラは先行配信であり、後日別の手段で入手可能になります。\r\n※イベントの内容及び日程は告知なく変更となる場合がございます。",
-          "type": "0",
-          "prerequisiteWorldStageId": "0",
-          "openWeek": null,
-          "openTime": "0000.00.00 00:00:00",
-          "closeTime": "0000.00.00 00:00:00"
-        },
-        {
           "worldStageId": "1205",
           "worldAreaId": "5",
           "priority": "1",
@@ -411,6 +398,19 @@
           "priority": "1",
           "name": "師は走らない",
           "description": "木ノ葉の里も、大掃除シーズンに突入していた！\r\n果たしてナルトは部屋を片付けているのか！？\r\n※12/26 17:00にステージ追加有",
+          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
+          "worldStageId": "1209",
+          "worldAreaId": "5",
+          "priority": "1",
+          "name": "三忍を継ぐ者",
+          "description": "三忍の力は、新たなる世代へと受け継がれる…!\r\n綱手&amp;サクラの新規忍具をゲットしよう！\r\n\r\n1/12に自来也&amp;ナルト篇\r\n1/15に大蛇丸&amp;サスケ篇が解放！",
           "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
           "type": "0",
           "prerequisiteWorldStageId": "0",
