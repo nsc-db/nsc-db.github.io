@@ -30,7 +30,7 @@ $(document).ready( function () {
 		            { title: "SPD" },
 		            { 
 		            	title: "PVE",
-		            	"visible": true,
+		            	"visible": false,
 		            	"searchable": true
 		            },
 		            {
@@ -65,7 +65,7 @@ $(document).ready( function () {
 		            },
 		            {
 		            	title: "PVP",
-		            	"visible": true,
+		            	"visible": false,
 		            	"searchable": true
 		            },
 		            {

@@ -17883,6 +17883,24 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2041",
+          "abilityName": "The Origin of Shinobi's Power",
+          "abilityDescription": "SPD +50%, Chakra +100% and when HP reach 0, revive",
+          "abilityEffectDescription": "素早さ50%アップ、最大チャクラ量100アップ、HP0以下で1回だけ耐える",
+          "effectIdx1": "112",
+          "effectIdx2": "312",
+          "effectIdx3": "813"
+        },
+        {
+          "abilityId": "2042",
+          "abilityName": "Unprocessed Power",
+          "abilityDescription": "If there's an enemy Minato, SPD +100%. If there's an enemy Kakashi, Chakra Recovery +50%",
+          "abilityEffectDescription": "敵に波風ミナトがいると素早さ100%アップ、はたけカカシがいると行動後チャクラが50%回復",
+          "effectIdx1": "1980",
+          "effectIdx2": "1981",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "2043",
           "abilityName": "Puppet Mastery",
           "abilityDescription": "ATK and SPD +30% per Akatsuki allies",
@@ -17899,6 +17917,402 @@ window.ability=[
           "effectIdx1": "774",
           "effectIdx2": "1057",
           "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2045",
+          "abilityName": "Mark of Resolution",
+          "abilityDescription": "When HP reach 1, withstand 5 attacks. For 5 turns, Skill Damage +300%. When HP is below 5%, SPD +300%",
+          "abilityEffectDescription": "HP1で5回まで耐え、5回行動までスキルダメージ300%アップ、HP5%以下で素早さ300%アップ",
+          "effectIdx1": "1512",
+          "effectIdx2": "30420",
+          "effectIdx3": "1962"
+        },
+        {
+          "abilityId": "2046",
+          "abilityName": "Teacher Frog's Love",
+          "abilityDescription": "Protect Konoha allies from Single Target Skills",
+          "abilityEffectDescription": "木ノ葉隠れの里所属への単体スキル攻撃を受ける※かばうは複数人発動すると最後の発動者が有効",
+          "effectIdx1": "1834",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2047",
+          "abilityName": "Intent to Not Give Up",
+          "abilityDescription": "When HP is below 1%, SPD +150% and Skill Damage +2",
+          "abilityEffectDescription": "HPが1%以下の時、素早さが150%アップし、スキル発動速度が2段階上がる",
+          "effectIdx1": "1959",
+          "effectIdx2": "1960",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2048",
+          "abilityName": "Hashirama's Descendant",
+          "abilityDescription": "For 1 turn, immune to Fixed Damage and all Skills",
+          "abilityEffectDescription": "1回行動するまで、耐性無視スキルのダメージを0&amp;全スキル無効",
+          "effectIdx1": "1961",
+          "effectIdx2": "1794",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2053",
+          "abilityName": "Removing Limiter",
+          "abilityDescription": "For 3 turns, Chakra Cost is set to 9. For 5 turns, Chakra Cost -50%",
+          "abilityEffectDescription": "3回行動するまでチャクラ消費0になる代わりに、5回行動以降防御時のチャクラ回復量半減",
+          "effectIdx1": "1949",
+          "effectIdx2": "1977",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2054",
+          "abilityName": "Taijutsu Specialist",
+          "abilityDescription": "When HP reach 0, withstand 3 attacks",
+          "abilityEffectDescription": "HPが0以下になった時3度まで耐える",
+          "effectIdx1": "1789",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2055",
+          "abilityName": "3rd Squad",
+          "abilityDescription": "SPD and Skill Damage +300% and Cast Speed +2 when Chakra is MAX",
+          "abilityEffectDescription": "チャクラMAX時、素早さとスキルダメージを300%アップ&amp;スキル発動速度2段階アップ",
+          "effectIdx1": "1966",
+          "effectIdx2": "1965",
+          "effectIdx3": "1752"
+        },
+        {
+          "abilityId": "2056",
+          "abilityName": "Exceptional Ninja Gear Abilities",
+          "abilityDescription": "Immune to Fire, Water, Earth, Wind, Lightning and Weapon Skills. Chance to dodge Skills",
+          "abilityEffectDescription": "火遁・水遁・土遁・風遁・雷遁・武器を無効にし、確率でスキルを回避する",
+          "effectIdx1": "1967",
+          "effectIdx2": "679",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2057",
+          "abilityName": "Refreshing Face",
+          "abilityDescription": "HP +50% and Cast Speed +1",
+          "abilityEffectDescription": "最大HP50%アップし、スキル発動速度が1段階アップする",
+          "effectIdx1": "10049",
+          "effectIdx2": "1840",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2058",
+          "abilityName": "Bushy Brow",
+          "abilityDescription": "Chance to dodge Skills whhen HP is above 90%",
+          "abilityEffectDescription": "HP90%以上の時、確率でスキルを回避する",
+          "effectIdx1": "1979",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2059",
+          "abilityName": "Torture Methods",
+          "abilityDescription": "ATK +20% per Konoha ally",
+          "abilityEffectDescription": "班の木ノ葉隠れの里所属のキャラ1体につき、攻撃力が20%アップ（自身含む）",
+          "effectIdx1": "687",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2060",
+          "abilityName": "Master of Torture",
+          "abilityDescription": "Status Effect and Debuff effects -50%",
+          "abilityEffectDescription": "弱体と状態異常を半減する",
+          "effectIdx1": "776",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2061",
+          "abilityName": "Eye Illumination in the World",
+          "abilityDescription": "SPD +666% and Cast Speed +1 if there's an enemy God",
+          "abilityEffectDescription": "敵に神忍祭限定キャラが生存している場合、素早さが666％アップ＆スキル発動速度1段階アップ",
+          "effectIdx1": "2005",
+          "effectIdx2": "2006",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2062",
+          "abilityName": "Power of the Eternal End",
+          "abilityDescription": "Chakra +100 and immune to Cancel",
+          "abilityEffectDescription": "最大チャクラ量が100アップし、キャンセル無効",
+          "effectIdx1": "813",
+          "effectIdx2": "1751",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2063",
+          "abilityName": "Two Names of 'Instant'",
+          "abilityDescription": "200% chance to dodge Skills. High chance for an extra turn",
+          "abilityEffectDescription": "200%の確率でスキルを回避、行動後に高確率で再度行動できる※再行動後にさらに行動はできない",
+          "effectIdx1": "1724",
+          "effectIdx2": "1600",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2064",
+          "abilityName": "Entrusted Request to a Friend",
+          "abilityDescription": "Chakra +100. For 1 turn immune to Fixed Damage, Status Effect and Genjutsu",
+          "abilityEffectDescription": "最大チャクラ量100アップ、1回行動するまで受ける耐性無視ダメージを0、状態異常と幻を無効化",
+          "effectIdx1": "813",
+          "effectIdx2": "1961",
+          "effectIdx3": "1984"
+        },
+        {
+          "abilityId": "2065",
+          "abilityName": "Family's Genius",
+          "abilityDescription": "SPD +130% and start the battle with full Chakra if there's an enemy EX",
+          "abilityEffectDescription": "敵に超忍祭限定キャラが生存していると素早さ130%アップ、バトル開始時にチャクラ全回復",
+          "effectIdx1": "1993",
+          "effectIdx2": "1994",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2066",
+          "abilityName": "Heading Towards Darkness",
+          "abilityDescription": "When HP reach 0, restore all Chakra and revive upto 3 times",
+          "abilityEffectDescription": "HP0以下で3回までHP＆チャクラ全回復",
+          "effectIdx1": "1789",
+          "effectIdx2": "874",
+          "effectIdx3": "881"
+        },
+        {
+          "abilityId": "2067",
+          "abilityName": "Yearning for a Lover",
+          "abilityDescription": "For 2 turns, immune to Fixed Damage and all Skills from a Male source",
+          "abilityEffectDescription": "2回行動するまで男性キャラから受ける耐性無視を含む全スキル無効",
+          "effectIdx1": "1989",
+          "effectIdx2": "1990",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2068",
+          "abilityName": "Swaying Rinne Festival",
+          "abilityDescription": "Chakra +100 and Chakra Recovery +20%",
+          "abilityEffectDescription": "最大チャクラ量を100アップし、行動後にチャクラが20%回復する",
+          "effectIdx1": "813",
+          "effectIdx2": "583",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2069",
+          "abilityName": "Aspiring Female Kid",
+          "abilityDescription": "For 1 turn, SPD +300%",
+          "abilityEffectDescription": "1回行動するまで素早さが300%アップする",
+          "effectIdx1": "1997",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2070",
+          "abilityName": "Rinne Festival's Prospering Eye",
+          "abilityDescription": "Immune to Fixed Damage when HP is above 90%",
+          "abilityEffectDescription": "HP90%以上のとき、受ける耐性無視スキルのダメージを0にする",
+          "effectIdx1": "1998",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2071",
+          "abilityName": "White Mood",
+          "abilityDescription": "When HP reach 0, restore all Chakra",
+          "abilityEffectDescription": "HPが0以下で耐えた時に、確率でチャクラ全回復",
+          "effectIdx1": "1999",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2072",
+          "abilityName": "Black Analysis",
+          "abilityDescription": "HP +100%, Chakra Cost -50% and Cast Speed +1",
+          "abilityEffectDescription": "HPが100%の時、チャクラ消費量半減&amp;スキル発動速度1段階アップ",
+          "effectIdx1": "2000",
+          "effectIdx2": "2001",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2073",
+          "abilityName": "Thoughtful Fist",
+          "abilityDescription": "Chakra +50. Taijutsu Skill Damage +120% and Cast Speed +1 when HP is above 80%",
+          "abilityEffectDescription": "最大チャクラ量が50アップし、HP80%以上の時に体術スキルのダメージ120%アップ&amp;スキル発動速度1段階アップ",
+          "effectIdx1": "689",
+          "effectIdx2": "1089",
+          "effectIdx3": "2009"
+        },
+        {
+          "abilityId": "2074",
+          "abilityName": "Strong Resolution",
+          "abilityDescription": "Chance to set Chakra Cost to 0. When HP reach 0, revive twice",
+          "abilityEffectDescription": "確率でチャクラ消費が0になる、HPが0以下になると2度までHPが全回復する",
+          "effectIdx1": "2010",
+          "effectIdx2": "1057",
+          "effectIdx3": "874"
+        },
+        {
+          "abilityId": "2075",
+          "abilityName": "Gentle Strong Fist",
+          "abilityDescription": "Byakugan Skill Damage +100%, immune to Status Effect and Chakra Recovery +20%",
+          "abilityEffectDescription": "白眼タイプのスキルダメージを100%アップし、状態異常を無効化、行動後チャクラ20%回復",
+          "effectIdx1": "1406",
+          "effectIdx2": "82",
+          "effectIdx3": "1768"
+        },
+        {
+          "abilityId": "2076",
+          "abilityName": "Evolving Eyes",
+          "abilityDescription": "As long as Naruto Uzumaki is alive in your team, this character can't die",
+          "abilityEffectDescription": "味方にうずまきナルトが生存していると、何度でも耐える",
+          "effectIdx1": "2014",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2077",
+          "abilityName": "Lineage of the Sarutobi Clan",
+          "abilityDescription": "ATK, DEF and SPD +10% per Konoahh ally",
+          "abilityEffectDescription": "班の木ノ葉隠れの里所属のキャラ1体につき、攻撃力と防御力と素早さが10%アップする（自身含む）",
+          "effectIdx1": "657",
+          "effectIdx2": "752",
+          "effectIdx3": "658"
+        },
+        {
+          "abilityId": "2078",
+          "abilityName": "Sprout Shinobi Readiness",
+          "abilityDescription": "HP Regen and Chakra Recovery +15%",
+          "abilityEffectDescription": "行動後にHPとチャクラが15％回復する",
+          "effectIdx1": "735",
+          "effectIdx2": "648",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2079",
+          "abilityName": "Gene's of the First Hokage",
+          "abilityDescription": "Chhakra +50. When HP reach 0, withstand an attack",
+          "abilityEffectDescription": "最大チャクラ量が50アップ、HP0以下で1回だけ耐える",
+          "effectIdx1": "689",
+          "effectIdx2": "312",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2080",
+          "abilityName": "Active Wood User",
+          "abilityDescription": "Chance to dodge Skills, reduce Wood and Tailed Beast Skill Damage",
+          "abilityEffectDescription": "確率でスキルを回避、木遁と尾獣タイプのスキルダメージを軽減",
+          "effectIdx1": "1423",
+          "effectIdx2": "181",
+          "effectIdx3": "1103"
+        },
+        {
+          "abilityId": "2081",
+          "abilityName": "The Hero Who Knows Loneliness",
+          "abilityDescription": "Chakra +200. When HP reach 0, revive 5 times.",
+          "abilityEffectDescription": "HP0以下で5回までHP全回復、最大チャクラ量200アップ",
+          "effectIdx1": "1512",
+          "effectIdx2": "874",
+          "effectIdx3": "20019"
+        },
+        {
+          "abilityId": "2082",
+          "abilityName": "Full Power Kurama",
+          "abilityDescription": "For 2 turns, SPD +150%, if there's a None enemy, additional +250% SPD and Cast Speed +1",
+          "abilityEffectDescription": "2回行動まで素早さ150%アップ、敵に無所属がいる場合さらに素早さ250％アップ＆スキル発動速度1段階アップ",
+          "effectIdx1": "2046",
+          "effectIdx2": "2047",
+          "effectIdx3": "2048"
+        },
+        {
+          "abilityId": "2085",
+          "abilityName": "New Years Grit",
+          "abilityDescription": "Skill Damage +100% and Cast Speed +1 when HP is above 50%",
+          "abilityEffectDescription": "HPが50%以上の時、スキルダメージが100%アップし、スキル発動速度1段階アップする",
+          "effectIdx1": "1506",
+          "effectIdx2": "1827",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2086",
+          "abilityName": "New Year's Party",
+          "abilityDescription": "Chakra +100 and Skill Damage +120%",
+          "abilityEffectDescription": "Chakra +100 and Skill Damage +120%",
+          "effectIdx1": "813",
+          "effectIdx2": "30011",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2087",
+          "abilityName": "Grand Hakama",
+          "abilityDescription": "SPD +100% and Cast Speed +1",
+          "abilityEffectDescription": "HPが50%以上の時、素早さが100%アップし、スキル発動速度1段階アップする",
+          "effectIdx1": "1088",
+          "effectIdx2": "1827",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2088",
+          "abilityName": "Indra's Ceremonial Arrow",
+          "abilityDescription": "Chakra +100 and Skill Damage +120%",
+          "abilityEffectDescription": "Chakra +100 and Skill Damage +120%",
+          "effectIdx1": "813",
+          "effectIdx2": "30011",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2089",
+          "abilityName": "Pretty Kimono",
+          "abilityDescription": "Chakra Cost -30% and Cast Speed +1 when HP is above 50%",
+          "abilityEffectDescription": "HPが50%以上の時、チャクラ消費量30%減少し、スキル発動速度1段階アップする",
+          "effectIdx1": "1168",
+          "effectIdx2": "1827",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2090",
+          "abilityName": "New Year Marriage",
+          "abilityDescription": "Chakra +100 and Skill Damage +120%",
+          "abilityEffectDescription": "Chakra +100 and Skill Damage +120%",
+          "effectIdx1": "813",
+          "effectIdx2": "30011",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2091",
+          "abilityName": "Aloof Power",
+          "abilityDescription": "Chakra +250, Chakra Cost -50% and SPD +120%",
+          "abilityEffectDescription": "最大チャクラ量を250アップ、チャクラ消費量50%減少、素早さ120%アップ",
+          "effectIdx1": "20044",
+          "effectIdx2": "895",
+          "effectIdx3": "1335"
+        },
+        {
+          "abilityId": "2092",
+          "abilityName": "Founder of Ninjutsu",
+          "abilityDescription": "For 2 turns, immune to all Skills and resistance ignoring Skills and Cast Speed +2",
+          "abilityEffectDescription": "2回行動まで耐性無視含む全スキル無効、2回行動までスキル発動速度2段階アップ",
+          "effectIdx1": "1914",
+          "effectIdx2": "1645",
+          "effectIdx3": "1838"
+        },
+        {
+          "abilityId": "2093",
+          "abilityName": "Forgotten Love",
+          "abilityDescription": "At the start of the battle, recover 100% Chakra. For 2 turns, Immune to all Skills and SPD +100%",
+          "abilityEffectDescription": "バトル開始時にチャクラが100％回復、2回行動するまで全スキル無効、素早さが100％アップ",
+          "effectIdx1": "1994",
+          "effectIdx2": "1914",
+          "effectIdx3": "253"
+        },
+        {
+          "abilityId": "2094",
+          "abilityName": "Revival of Will",
+          "abilityDescription": "When HP reach 0, revive once. Immune to Debuffs and Status Effect",
+          "abilityEffectDescription": "HP0以下で1回だけHP全回復、弱体と状態異常を無効化",
+          "effectIdx1": "312",
+          "effectIdx2": "874",
+          "effectIdx3": "880"
         },
         {
           "abilityId": "10000",

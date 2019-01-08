@@ -3083,7 +3083,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "984",
           "name": "この世はすでに死んでいる",
-          "eng": ""
+          "eng": "This Planet is Already Dead"
         },
         {
           "cardBattleSkillNameId": "987",
@@ -6780,6 +6780,211 @@ window.skillname=[
           "cardBattleSkillNameId": "2552",
           "name": "とっておきを見せてやる",
           "eng": "Let Me Show You My Trump Card"
+        },
+        {
+          "cardBattleSkillNameId": "2553",
+          "name": "烈破狂瀾・乱獅子髪",
+          "eng": "Raging Lion's Mane"
+        },
+        {
+          "cardBattleSkillNameId": "2554",
+          "name": "最初から全力で行くからの！",
+          "eng": "I Will Go Full Out From Now On"
+        },
+        {
+          "cardBattleSkillNameId": "2555",
+          "name": "痛天撃・渾心",
+          "eng": "Heavenly Heart"
+        },
+        {
+          "cardBattleSkillNameId": "2556",
+          "name": "火の意志をなめるなよ！！",
+          "eng": "Don't Underestimate the Will of Fire!!"
+        },
+        {
+          "cardBattleSkillNameId": "2557",
+          "name": "これで最後です！！",
+          "eng": "This is the End!!"
+        },
+        {
+          "cardBattleSkillNameId": "2558",
+          "name": "よし！",
+          "eng": "Let's Go!!"
+        },
+        {
+          "cardBattleSkillNameId": "2559",
+          "name": "ダイナミック・エントリー！！",
+          "eng": "Dynamic Entry!!"
+        },
+        {
+          "cardBattleSkillNameId": "2560",
+          "name": "そう…これこそ青春だ！",
+          "eng": "This... This is Youth!"
+        },
+        {
+          "cardBattleSkillNameId": "2561",
+          "name": "幻術・拷問部屋",
+          "eng": "Genjutsu: Torture Chamber"
+        },
+        {
+          "cardBattleSkillNameId": "2562",
+          "name": "いい“決意”だ",
+          "eng": "Good 'Resolution'"
+        },
+        {
+          "cardBattleSkillNameId": "2563",
+          "name": "六道・炎滅手",
+          "eng": "Six Paths: Flame Extinction Hand"
+        },
+        {
+          "cardBattleSkillNameId": "2565",
+          "name": "万華鏡写輪眼・別天神",
+          "eng": "Mangekyo Sharingan: Kotoamatsukami"
+        },
+        {
+          "cardBattleSkillNameId": "2566",
+          "name": "この里を…うちはの名を…",
+          "eng": "This Clan.... Uchiha is its Name..."
+        },
+        {
+          "cardBattleSkillNameId": "2567",
+          "name": "祝・輪廻祭",
+          "eng": "Celebration Rinne Festival"
+        },
+        {
+          "cardBattleSkillNameId": "2568",
+          "name": "あなたが私を変えてくれた！",
+          "eng": "You Have Changed Me"
+        },
+        {
+          "cardBattleSkillNameId": "2573",
+          "name": "暗殺戦技・影",
+          "eng": "Assassination Technique: Shadow"
+        },
+        {
+          "cardBattleSkillNameId": "2574",
+          "name": "これが…オレが見るその先だ",
+          "eng": "This... I Can See The Future"
+        },
+        {
+          "cardBattleSkillNameId": "2575",
+          "name": "近道なんかないよコレ！",
+          "eng": "There's No Shortcut!"
+        },
+        {
+          "cardBattleSkillNameId": "2576",
+          "name": "輪廻祭・回天",
+          "eng": "Rinne Festival Rotation"
+        },
+        {
+          "cardBattleSkillNameId": "2577",
+          "name": "姉さまも早く！",
+          "eng": "Hurry Up Sis!"
+        },
+        {
+          "cardBattleSkillNameId": "2578",
+          "name": "木遁・樹錨刺",
+          "eng": "Wood Style: Anchor Thorn"
+        },
+        {
+          "cardBattleSkillNameId": "2579",
+          "name": "こっち見に来て正解だった！",
+          "eng": "I've Come to Correct This!"
+        },
+        {
+          "cardBattleSkillNameId": "2580",
+          "name": "地爆天仰星墜",
+          "eng": "Planetary Destruction "
+        },
+        {
+          "cardBattleSkillNameId": "2581",
+          "name": "無限月読",
+          "eng": "Infinite Tsukuyomi"
+        },
+        {
+          "cardBattleSkillNameId": "2582",
+          "name": "桜花正中衝",
+          "eng": "Weak Point Cherry Blossom"
+        },
+        {
+          "cardBattleSkillNameId": "2583",
+          "name": "私もいる！",
+          "eng": "I'll Go Too!"
+        },
+        {
+          "cardBattleSkillNameId": "2584",
+          "name": "うずまき流宴会芸",
+          "eng": "Uzumakki Banquet Manners"
+        },
+        {
+          "cardBattleSkillNameId": "2585",
+          "name": "いつもより回すってばよ！",
+          "eng": "As Always, More Rotation"
+        },
+        {
+          "cardBattleSkillNameId": "2586",
+          "name": "雷纏う破魔の矢",
+          "eng": "Lightning Clad Arrow"
+        },
+        {
+          "cardBattleSkillNameId": "2587",
+          "name": "オレはお前とも祝いたい…",
+          "eng": "I Want To Celebrate With You"
+        },
+        {
+          "cardBattleSkillNameId": "2588",
+          "name": "桜花祝賀衝",
+          "eng": "Important Celebration Cherry Blossom"
+        },
+        {
+          "cardBattleSkillNameId": "2589",
+          "name": "初詣は私も一緒に！",
+          "eng": "Let's Go to the Shrine Together"
+        },
+        {
+          "cardBattleSkillNameId": "2590",
+          "name": "一緒に頑張ろう！",
+          "eng": "Let's Work Hard Together!"
+        },
+        {
+          "cardBattleSkillNameId": "2591",
+          "name": "心の準備が…",
+          "eng": "My Heart is Prepared"
+        },
+        {
+          "cardBattleSkillNameId": "2592",
+          "name": "お前にちゃんと勝ちてーんだ",
+          "eng": "You Win"
+        },
+        {
+          "cardBattleSkillNameId": "2593",
+          "name": "水遁・破奔流",
+          "eng": "Water Style: Ripping Torrent"
+        },
+        {
+          "cardBattleSkillNameId": "2594",
+          "name": "今しか無い…！",
+          "eng": "Do It Now...!"
+        },
+        {
+          "cardBattleSkillNameId": "2595",
+          "name": "天魔襲雷",
+          "eng": "Heavenly Lightning Bolt"
+        },
+        {
+          "cardBattleSkillNameId": "2596",
+          "name": "炎獄戦神",
+          "eng": "Flaming Prisoner"
+        },        
+        {
+          "cardBattleSkillNameId": "2597",
+          "name": "舌歯粘酸",
+          "eng": "Acid Slime"
+        },
+        {
+          "cardBattleSkillNameId": "2598",
+          "name": "決着をつけようじゃないか！",
+          "eng": "Let's End This!"
         },
         {
           "cardBattleSkillNameId": "10136",
