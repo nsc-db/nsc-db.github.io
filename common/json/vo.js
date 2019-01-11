@@ -1968,6 +1968,30 @@ window.vo=[
           "voiceDeath": "tsunade_damage_02_02"
         },
         {
+          "cardVoiceId": "166",
+          "cardId": "20050110",
+          "dirName": "jiraiya",
+          "evolutionStep": "",
+          "voiceAppear": "jiraiya_menu_03",
+          "voiceSkill1": "jiraiya_battle_02_03",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "jiraiya_menu_04",
+          "voiceDeath": "jiraiya_damage_02_01"
+        },
+        {
+          "cardVoiceId": "167",
+          "cardId": "20050111",
+          "dirName": "orochimaru",
+          "evolutionStep": "",
+          "voiceAppear": "orochimaru_battle_02_01",
+          "voiceSkill1": "orochimaru_skill_02_02",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "orochimaru_menu_04",
+          "voiceDeath": "orochimaru_damage_02_02"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

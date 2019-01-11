@@ -6533,6 +6533,22 @@ window.tags=[
           "tag": "ex-6",
           "rate": "",
           "pvp": "",
-          "nickname": "Sannin Tsunade"
+          "nickname": "Deadlock Tsunade"
+},
+{
+          "cardId": "20050110",
+          "rare": "5",
+          "tag": "ex-6",
+          "rate": "",
+          "pvp": "",
+          "nickname": "Deadlock Jiraiya"
+},
+{
+          "cardId": "20050111",
+          "rare": "5",
+          "tag": "ex-6",
+          "rate": "",
+          "pvp": "",
+          "nickname": "Deadlock Orochimaru"
 },
 ]

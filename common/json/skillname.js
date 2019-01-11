@@ -5588,6 +5588,22 @@ window.skillname=[
           "name": "決着をつけようじゃないか！"
         },
         {
+          "cardBattleSkillNameId": "2599",
+          "name": "蝦蟇油炎弾"
+        },
+        {
+          "cardBattleSkillNameId": "2600",
+          "name": "ブン太ァ油だ！！"
+        },
+        {
+          "cardBattleSkillNameId": "2601",
+          "name": "潜征大蛇"
+        },
+        {
+          "cardBattleSkillNameId": "2602",
+          "name": "必ず潰してあげるわ"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },

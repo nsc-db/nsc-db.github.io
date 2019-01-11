@@ -6987,6 +6987,26 @@ window.skillname=[
           "eng": "Let's End This!"
         },
         {
+          "cardBattleSkillNameId": "2599",
+          "name": "蝦蟇油炎弾",
+          "eng": "Toad Flame Bomb"
+        },
+        {
+          "cardBattleSkillNameId": "2600",
+          "name": "ブン太ァ油だ！！",
+          "eng": "Bunta Oil!!!"
+        },
+        {
+          "cardBattleSkillNameId": "2601",
+          "name": "潜征大蛇",
+          "eng": "Diving Snake"
+        },
+        {
+          "cardBattleSkillNameId": "2602",
+          "name": "必ず潰してあげるわ",
+          "eng": "I'll Crush Everything"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！",
           "eng": ""
