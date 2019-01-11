@@ -6527,4 +6527,12 @@ window.tags=[
           "pvp": "",
           "nickname": "Champion Indra"
 },
+{
+          "cardId": "20050109",
+          "rare": "5",
+          "tag": "ex-6",
+          "rate": "",
+          "pvp": "",
+          "nickname": "Sannin Tsunade"
+},
 ]

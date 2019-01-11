@@ -1956,6 +1956,18 @@ window.vo=[
           "voiceDeath": "naruto_death_02_04"
         },
         {
+          "cardVoiceId": "165",
+          "cardId": "20050109",
+          "dirName": "tsunade",
+          "evolutionStep": "",
+          "voiceAppear": "tsunade_battle_02_03",
+          "voiceSkill1": "tsunade_skill_02_02,tsunade_skill_02_04",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "tsunade_menu_02",
+          "voiceDeath": "tsunade_damage_02_02"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

@@ -2534,6 +2534,20 @@ window.charaname=[
           "gender": "0"
         },
         {
+          "charaProfileId": "13706",
+          "charaId": "137",
+          "name": "うちはマダラ",
+          "detail": "疾風伝",
+          "charaLoveAffinityGroupId": "13720",
+          "birthday": "1224",
+          "constellation": "10",
+          "height": "17900",
+          "weight": "7130",
+          "bloodType": "3",
+          "age": "0",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "13801",
           "charaId": "0",
           "name": "うちはマダラ",

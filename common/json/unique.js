@@ -8868,6 +8868,30 @@ window.unique=[
           "effectIdx4": "0"
         },
         {
+          "crystalOverwriteEffectId": "753",
+          "targetCrystal": "20108",
+          "description": "2回行動するまで素早さ100%アップ、被ダメージ時確率でチャクラ75%回復、スキル発動速度1段階アップ",
+          "charaIds": "2301,2302,2303",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1692",
+          "effectIdx2": "2043",
+          "effectIdx3": "1840",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "754",
+          "targetCrystal": "20109",
+          "description": "味方に綱手がいるとﾁｬｸﾗ消費70%減&amp;素早さ60%ｱｯﾌﾟ、ｻｸﾗがいると全ｽｷﾙﾀﾞﾒｰｼﾞ&amp;素早さ60%ｱｯﾌﾟ",
+          "charaIds": "301,302,303,304,305,306,2301,2302,2303",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "2029",
+          "effectIdx2": "2035",
+          "effectIdx3": "2042",
+          "effectIdx4": "2036"
+        },
+        {
           "crystalOverwriteEffectId": "759",
           "targetCrystal": "20106",
           "description": "1回行動までチャクラ消費0、行動後にHPとチャクラが30%回復、弱体を無効化",

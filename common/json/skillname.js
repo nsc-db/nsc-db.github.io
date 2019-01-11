@@ -5580,6 +5580,14 @@ window.skillname=[
           "name": "炎獄戦神"
         },
         {
+          "cardBattleSkillNameId": "2597",
+          "name": "舌歯粘酸"
+        },
+        {
+          "cardBattleSkillNameId": "2598",
+          "name": "決着をつけようじゃないか！"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },
