@@ -4563,6 +4563,26 @@
           "gachaTicketImgId": "3468"
         },
         {
+          "gachaTicketId": "3470",
+          "gachaTicketName": "蝦蟇忍劇の大舞台ガチャチケット",
+          "gachaTicketImgId": "3470"
+        },
+        {
+          "gachaTicketId": "3471",
+          "gachaTicketName": "蝦蟇忍劇の大舞台・祭",
+          "gachaTicketImgId": "3470"
+        },
+        {
+          "gachaTicketId": "3472",
+          "gachaTicketName": "悪道を往く狂蛇ガチャチケット",
+          "gachaTicketImgId": "3472"
+        },
+        {
+          "gachaTicketId": "3473",
+          "gachaTicketName": "悪道を往く狂蛇・祭",
+          "gachaTicketImgId": "3472"
+        },
+        {
           "gachaTicketId": "3474",
           "gachaTicketName": "2018年忍具[1月]ガチャチケット",
           "gachaTicketImgId": "3474"
@@ -4621,6 +4641,16 @@
           "gachaTicketId": "3485",
           "gachaTicketName": "2018年忍具[12月]ガチャチケット",
           "gachaTicketImgId": "3485"
+        },
+        {
+          "gachaTicketId": "3488",
+          "gachaTicketName": "超大放出祭ガチャチケット",
+          "gachaTicketImgId": "3488"
+        },
+        {
+          "gachaTicketId": "3489",
+          "gachaTicketName": "超大放出祭★6",
+          "gachaTicketImgId": "3488"
         },
         {
           "gachaTicketId": "3490",

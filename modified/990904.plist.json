@@ -367,19 +367,6 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
-          "worldStageId": "1205",
-          "worldAreaId": "5",
-          "priority": "1",
-          "name": "りんりん輪廻祭",
-          "description": "ナルトへの想いをなかなか伝えられないヒナタ。\r\n愉快な仲間たちがそんなヒナタを応援する！？\r\n交換所で様々な報酬をゲットしよう！",
-          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
-          "type": "0",
-          "prerequisiteWorldStageId": "0",
-          "openWeek": null,
-          "openTime": "0000.00.00 00:00:00",
-          "closeTime": "0000.00.00 00:00:00"
-        },
-        {
           "worldStageId": "1207",
           "worldAreaId": "5",
           "priority": "1",
@@ -475,7 +462,7 @@
           "worldAreaId": "5",
           "priority": "2",
           "name": "テンテンの忍具指南",
-          "description": "収集Ptを集めて限定忍具を手に入れよう！\r\nゼツの新規忍具も追加！",
+          "description": "個人Ptを集めて忍具を手に入れよう！\r\n神忍固有の忍具も追加！",
           "notice": "0",
           "type": "0",
           "prerequisiteWorldStageId": "0",

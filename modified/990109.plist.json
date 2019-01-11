@@ -18336,6 +18336,42 @@
           "effectIdx3": "880"
         },
         {
+          "abilityId": "2095",
+          "abilityName": "粋な心意気",
+          "abilityDescription": "最大チャクラ量100アップ、火遁タイプのスキルダメージを200%アップ、素早さ100%アップ",
+          "abilityEffectDescription": "最大チャクラ量100アップ、火遁タイプのスキルダメージを200%アップ、素早さ100%アップ",
+          "effectIdx1": "813",
+          "effectIdx2": "2063",
+          "effectIdx3": "253"
+        },
+        {
+          "abilityId": "2096",
+          "abilityName": "土壇場のド根性",
+          "abilityDescription": "HP1で2回まで耐える、HPが50%以下の時、スキルダメージが100%アップする",
+          "abilityEffectDescription": "HP1で2回まで耐える、HPが50%以下の時、スキルダメージが100%アップする",
+          "effectIdx1": "1057",
+          "effectIdx2": "1758",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2097",
+          "abilityName": "忍術を探求せし狂気",
+          "abilityDescription": "高確率でスキルを回避し、弱体と状態異常を無効化",
+          "abilityEffectDescription": "高確率でスキルを回避し、弱体と状態異常を無効化",
+          "effectIdx1": "968",
+          "effectIdx2": "880",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2098",
+          "abilityName": "野望への執念",
+          "abilityDescription": "攻撃力と防御力と素早さを100%アップ、HP0以下で1回だけHP全回復",
+          "abilityEffectDescription": "攻撃力と防御力と素早さを100%アップ、HP0以下で1回だけHP全回復",
+          "effectIdx1": "22010",
+          "effectIdx2": "312",
+          "effectIdx3": "874"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
