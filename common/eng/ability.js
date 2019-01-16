@@ -18315,6 +18315,42 @@ window.ability=[
           "effectIdx3": "880"
         },
         {
+          "abilityId": "2095",
+          "abilityName": "Refind Spirit",
+          "abilityDescription": "Chakra +100, Fire Skill Damage +200% and SPD +100%",
+          "abilityEffectDescription": "最大チャクラ量100アップ、火遁タイプのスキルダメージを200%アップ、素早さ100%アップ",
+          "effectIdx1": "813",
+          "effectIdx2": "2063",
+          "effectIdx3": "253"
+        },
+        {
+          "abilityId": "2096",
+          "abilityName": "Last Moment Guts",
+          "abilityDescription": "When HP reach 1, withstand 2 attacks. When HP is below 50%, Skill Damage +100%",
+          "abilityEffectDescription": "HP1で2回まで耐える、HPが50%以下の時、スキルダメージが100%アップする",
+          "effectIdx1": "1057",
+          "effectIdx2": "1758",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2097",
+          "abilityName": "Madness from Quest of Ninjutsu",
+          "abilityDescription": "High chance to dodge Skills and immune to debuffs and Status Effects",
+          "abilityEffectDescription": "高確率でスキルを回避し、弱体と状態異常を無効化",
+          "effectIdx1": "968",
+          "effectIdx2": "880",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2098",
+          "abilityName": "Persistant Ambition",
+          "abilityDescription": "ATK, DEF and SPD +100%. When HP reaach 0, revive",
+          "abilityEffectDescription": "攻撃力と防御力と素早さを100%アップ、HP0以下で1回だけHP全回復",
+          "effectIdx1": "22010",
+          "effectIdx2": "312",
+          "effectIdx3": "874"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

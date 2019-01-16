@@ -10621,6 +10621,32 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "835",
+          "name": "蝦蟇忍劇の大舞台",
+          "description": "全属性の攻撃力とスキルダメージを60%アップ",
+          "effectIdx1": "378",
+          "effectIdx2": "678",
+          "effectIdx3": "0",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "836",
+          "name": "悪道を往く狂蛇",
+          "description": "全属性の素早さを60%アップ",
+          "effectIdx1": "2055",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

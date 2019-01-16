@@ -8870,7 +8870,7 @@ window.unique=[
         {
           "crystalOverwriteEffectId": "753",
           "targetCrystal": "20108",
-          "description": "For 2 turns, SPD +100%, recovery 75% Chakra after taking damage and Cast Speed +1",
+          "description": "For 2 turns, SPD +100%, chance to recovery 75% Chakra after taking damage and Cast Speed +1",
           "charaIds": "2301,2302,2303",
           "cardIds": "0",
           "charaGroupIds": "0",
@@ -8890,6 +8890,54 @@ window.unique=[
           "effectIdx2": "2035",
           "effectIdx3": "2042",
           "effectIdx4": "2036"
+        },
+        {
+          "crystalOverwriteEffectId": "755",
+          "targetCrystal": "20110",
+          "description": "For 2 turns, immune to all Skills, SPD +80% and Cast Speed +1",
+          "charaIds": "2401",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1914",
+          "effectIdx2": "13079",
+          "effectIdx3": "1840",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "756",
+          "targetCrystal": "20111",
+          "description": "If there's an ally Jiraiya, Chakra Cost -70% and SPD +60%. If there's an ally Naruto Skill Damage and SPD +60%",
+          "charaIds": "101,102,104,105,106,107,109,110,111,2401",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "2025",
+          "effectIdx2": "2031",
+          "effectIdx3": "2038",
+          "effectIdx4": "2032"
+        },
+        {
+          "crystalOverwriteEffectId": "757",
+          "targetCrystal": "20112",
+          "description": "For 2 turns, immune to all Skills, chance to Recover 75% Chakra and Cast Speed +1",
+          "charaIds": "10301",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1914",
+          "effectIdx2": "2043",
+          "effectIdx3": "1840",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "758",
+          "targetCrystal": "20113",
+          "description": "If there's an ally Orochimaru, Chakra Cost -70% and SPD +60%. If there's an ally Sasuke Skill Damage and SPD +60%ﾟ",
+          "charaIds": "201,202,204,206,207,208,210,10301",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "2027",
+          "effectIdx2": "2033",
+          "effectIdx3": "2040",
+          "effectIdx4": "2034"
         },
         {
           "crystalOverwriteEffectId": "759",
