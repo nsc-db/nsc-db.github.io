@@ -8965,6 +8965,18 @@
           "effectIdx2": "1840",
           "effectIdx3": "1751",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "761",
+          "targetCrystal": "20114",
+          "description": "最大HPが200%アップ、3回行動するまで150%の確率でスキル回避&amp;行動後にチャクラ60%回復",
+          "charaIds": "1301,1302,1303,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "10100",
+          "effectIdx2": "1913",
+          "effectIdx3": "2062",
+          "effectIdx4": "0"
         }
       ]
     }

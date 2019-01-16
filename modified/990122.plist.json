@@ -1995,6 +1995,18 @@
           "voiceDeath": "orochimaru_damage_02_02"
         },
         {
+          "cardVoiceId": "168",
+          "cardId": "20050112",
+          "dirName": "gaara",
+          "evolutionStep": "",
+          "voiceAppear": "gaara_pursuit_01_01",
+          "voiceSkill1": "gaara_win_01_01,gaara_skill_01_02",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "gaara_battle_01_01",
+          "voiceDeath": "gaara_death_01_01"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

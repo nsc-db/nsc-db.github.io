@@ -1691,6 +1691,26 @@
           "subScore": "0",
           "color": "15198187",
           "type": "3"
+        },
+        {
+          "cardUnusualId": "175",
+          "category": "3",
+          "iconId": "1195",
+          "name": "砂の盾",
+          "description": "体術・尾獣・雷遁を除くスキルを耐性無視含め無効化、敵からスキル攻撃を受けた際、敵全体に反撃ダメージ",
+          "subScore": "0",
+          "color": "7745287",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "176",
+          "category": "3",
+          "iconId": "1196",
+          "name": "独",
+          "description": "味方の生存数が少ないほど素早さとスキルダメージがアップし、チャクラ消費量がダウンする",
+          "subScore": "0",
+          "color": "7745287",
+          "type": "2"
         }
       ]
     }
