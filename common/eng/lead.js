@@ -10634,6 +10634,19 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "837",
+          "name": "砂塵の怪童",
+          "description": "Courage and Suna SPD and Skill Damage +70%",
+          "effectIdx1": "13069",
+          "effectIdx2": "652",
+          "effectIdx3": "0",
+          "compType": "2",
+          "target1Category": "1",
+          "target1Param": "7",
+          "target2Category": "2",
+          "target2Param": "2"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

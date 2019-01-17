@@ -7007,6 +7007,11 @@ window.skillname=[
           "eng": "I'll Crush Everything"
         },
         {
+          "cardBattleSkillNameId": "2603",
+          "name": "苦しみは無い",
+          "eng": "There Will Be No Pain"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！",
           "eng": ""
