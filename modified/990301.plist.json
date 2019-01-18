@@ -16721,6 +16721,38 @@
           "crystalImageId": "201165",
           "recipeId": "20116",
           "recipeName": "孤高の三日月"
+        },
+        {
+          "crystalId": "20127",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "860",
+          "effectIdx2": "539",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "テマリの額当て",
+          "crystalDescription": "チャクラ消費量を20%減少し、攻撃力と防御力と素早さを20%アップ",
+          "crystalImageId": "201275",
+          "recipeId": "20127",
+          "recipeName": "テマリの額当て"
+        },
+        {
+          "crystalId": "20128",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "10049",
+          "effectIdx2": "775",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "テマリの手袋",
+          "crystalDescription": "最大HPを50%アップし、弱体と状態異常を軽減",
+          "crystalImageId": "201285",
+          "recipeId": "20128",
+          "recipeName": "テマリの手袋"
         }
       ]
     }

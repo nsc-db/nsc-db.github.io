@@ -419,6 +419,19 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
+          "worldStageId": "1215",
+          "worldAreaId": "5",
+          "priority": "1",
+          "name": "砂の三姉弟",
+          "description": "個人Ptを集めてテマリの固有忍具を獲得しよう！",
+          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
           "worldStageId": "2069",
           "worldAreaId": "5",
           "priority": "31",
@@ -564,7 +577,7 @@
         {
           "worldStageId": "5100",
           "worldAreaId": "5",
-          "priority": "15",
+          "priority": "20",
           "name": "五影の試練　水",
           "description": "超絶難度任務をクリアし、\r\n素材を集めて、忍具を生成しよう！",
           "notice": "※イベントの内容及び日程は告知なく変更となる場合がございます。\r\n※イベント難易度は超ドＳ、超絶、神忍ランクとなります。",
@@ -577,7 +590,7 @@
         {
           "worldStageId": "5101",
           "worldAreaId": "5",
-          "priority": "15",
+          "priority": "20",
           "name": "五影の試練　雷",
           "description": "超絶難度任務をクリアし、\r\n素材を集めて、忍具を生成しよう！",
           "notice": "※イベントの内容及び日程は告知なく変更となる場合がございます。\r\n※イベント難易度は超ドＳ、超絶、神忍ランクとなります。",
@@ -590,7 +603,7 @@
         {
           "worldStageId": "5102",
           "worldAreaId": "5",
-          "priority": "15",
+          "priority": "20",
           "name": "五影の試練　土",
           "description": "超絶難度任務をクリアし、\r\n素材を集めて、忍具を生成しよう！",
           "notice": "※イベントの内容及び日程は告知なく変更となる場合がございます。\r\n※イベント難易度は超ドＳ、超絶、神忍ランクとなります。",
@@ -603,7 +616,7 @@
         {
           "worldStageId": "5103",
           "worldAreaId": "5",
-          "priority": "15",
+          "priority": "20",
           "name": "五影の試練　風",
           "description": "超絶難度任務をクリアし、\r\n素材を集めて、忍具を生成しよう！",
           "notice": "※イベントの内容及び日程は告知なく変更となる場合がございます。\r\n※イベント難易度は超ドＳ、超絶、神忍ランクとなります。",
@@ -616,7 +629,7 @@
         {
           "worldStageId": "5104",
           "worldAreaId": "5",
-          "priority": "15",
+          "priority": "20",
           "name": "五影の試練　火",
           "description": "超絶難度任務をクリアし、\r\n素材を集めて、忍具を生成しよう！",
           "notice": "※イベントの内容及び日程は告知なく変更となる場合がございます。\r\n※イベント難易度は超ドＳ、超絶、神忍ランクとなります。",
@@ -1704,6 +1717,19 @@
           "openWeek": null,
           "openTime": "2017.12.31 17:00:00",
           "closeTime": "2018.01.04 15:59:59"
+        },
+        {
+          "worldStageId": "50002",
+          "worldAreaId": "5",
+          "priority": "1",
+          "name": "昇級模擬演習",
+          "description": "この任務は前回昇級試験上位者の班と戦う任務です\r\nスタミナ消費1で何度も挑戦できます\r\n※全キャラクターの全ダメージ及び\r\nスキル発動速度は調整が行われております",
+          "notice": "※イベントの内容及び日程は告知なく変更となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
         }
       ]
     }

@@ -17526,6 +17526,24 @@
           "effectIdx3": "794"
         },
         {
+          "abilityId": "1987",
+          "abilityName": "家族愛",
+          "abilityDescription": "HPが0以下で2度までHPが全回復、2回行動までキャンセル無効",
+          "abilityEffectDescription": "HPが0以下で2度までHPが全回復、2回行動までキャンセル無効",
+          "effectIdx1": "1057",
+          "effectIdx2": "874",
+          "effectIdx3": "1839"
+        },
+        {
+          "abilityId": "1988",
+          "abilityName": "姉御肌",
+          "abilityDescription": "素早さ＆スキルダメージを100%アップ、さらにHP50%以上の時、素早さ150アップ",
+          "abilityEffectDescription": "素早さ＆スキルダメージを100%アップ、さらにHP50%以上の時、素早さ150アップ",
+          "effectIdx1": "13099",
+          "effectIdx2": "774",
+          "effectIdx3": "2066"
+        },
+        {
           "abilityId": "1991",
           "abilityName": "たゆまぬ努力",
           "abilityDescription": "HP80%以上の時、攻撃力とスキルダメージが100%アップ",

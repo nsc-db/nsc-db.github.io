@@ -10039,6 +10039,19 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "781",
+          "name": "大扇振舞",
+          "description": "砂隠れの里所属と木ノ葉隠れの里所属の最大HPとスキルダメージを70%アップ",
+          "effectIdx1": "10069",
+          "effectIdx2": "652",
+          "effectIdx3": "0",
+          "compType": "2",
+          "target1Category": "2",
+          "target1Param": "2",
+          "target2Category": "2",
+          "target2Param": "1"
+        },
+        {
           "cardLeaderSkillId": "783",
           "name": "蒼き異名の後継者",
           "description": "木ノ葉隠れの里所属の最大HPと攻撃力を30%アップ",

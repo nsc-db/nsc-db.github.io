@@ -1576,6 +1576,19 @@
           "selectType": "2"
         },
         {
+          "itemId": "52020",
+          "name": "1月限定ﾄﾞﾛｯﾌﾟ数2倍の秘伝書",
+          "description": "バトルでの獲得ドロップ数が２倍になります。（1月31日まで期間限定）",
+          "resultWord": "忍/素材ドロップ数２倍",
+          "itemCategoryId": "10",
+          "itemValue": "20000",
+          "itemNum": "0",
+          "itemImageId": "51000",
+          "needCount": "1",
+          "priority": "100",
+          "selectType": "2"
+        },
+        {
           "itemId": "60000",
           "name": "SNB総選挙投票券",
           "description": "SNB総選挙の投票に必要なアイテム",
