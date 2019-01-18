@@ -1992,27 +1992,15 @@ window.vo=[
           "voiceDeath": "orochimaru_damage_02_02"
         },
         {
-          "cardVoiceId": "8001",
-          "cardId": "80000001",
-          "dirName": "naruto",
+          "cardVoiceId": "168",
+          "cardId": "20050112",
+          "dirName": "gaara",
           "evolutionStep": "",
-          "voiceAppear": "naruto_battle_02_10",
-          "voiceSkill1": "naruto_skill_02_12,naruto_skill_02_21,naruto_skill_02_22",
+          "voiceAppear": "gaara_pursuit_01_01",
+          "voiceSkill1": "gaara_win_01_01,gaara_skill_01_02",
           "voiceSkill2": "",
           "voicePursuit": "",
-          "voiceWin": "naruto_win_02_06",
-          "voiceDeath": "naruto_death_02_03"
+          "voiceWin": "gaara_battle_01_01",
+          "voiceDeath": "gaara_death_01_01"
         },
-        {
-          "cardVoiceId": "8002",
-          "cardId": "80000002",
-          "dirName": "sasuke",
-          "evolutionStep": "",
-          "voiceAppear": "sasuke_battle_02_04",
-          "voiceSkill1": "sasuke_skill_02_09,sasuke_skill_02_10,sasuke_skill_02_07,sasuke_skill_02_08",
-          "voiceSkill2": "",
-          "voicePursuit": "",
-          "voiceWin": "sasuke_win_02_03",
-          "voiceDeath": "sasuke_death_02_04"
-        }
 ]

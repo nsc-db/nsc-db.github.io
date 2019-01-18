@@ -5604,6 +5604,10 @@ window.skillname=[
           "name": "必ず潰してあげるわ"
         },
         {
+          "cardBattleSkillNameId": "2603",
+          "name": "苦しみは無い"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },

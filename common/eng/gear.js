@@ -16688,6 +16688,22 @@ window.gear=[
           "recipeName": "師弟・蟒蛇"
         },
         {
+          "crystalId": "20114",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "10049",
+          "effectIdx2": "1420",
+          "effectIdx3": "1912",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "Bloody Umbrella",
+          "crystalDescription": "最大HPが50%アップ、3回行動するまで確率でスキル回避&amp;行動後にチャクラ15%回復",
+          "crystalImageId": "201145",
+          "recipeId": "20114",
+          "recipeName": "血染みの番傘"
+        },
+        {
           "crystalId": "20116",
           "crystalType": "11",
           "crystalRare": "5",
@@ -16697,7 +16713,7 @@ window.gear=[
           "effectIdx4": "0",
           "money": "30000",
           "saleMoney": "2500",
-          "crystalName": "孤高の三日月",
+          "crystalName": "Isolated Crescent Moon",
           "crystalDescription": "雷遁と炎遁タイプのスキルダメージ30%アップ",
           "crystalImageId": "201165",
           "recipeId": "20116",

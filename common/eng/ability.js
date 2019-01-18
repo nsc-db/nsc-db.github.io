@@ -18351,6 +18351,24 @@ window.ability=[
           "effectIdx3": "874"
         },
         {
+          "abilityId": "2099",
+          "abilityName": "Sand Madness",
+          "abilityDescription": "When HP reach 0, revive twice. For 1 turn Chakra Cost is set to 0",
+          "abilityEffectDescription": "HP0以下で2回までHP全回復、1回行動するまでチャクラ消費0",
+          "effectIdx1": "1057",
+          "effectIdx2": "874",
+          "effectIdx3": "1378"
+        },
+        {
+          "abilityId": "2100",
+          "abilityName": "Cold Blooded Nature",
+          "abilityDescription": "SPD +80% and Cast Speed +1 if there's an enemy EX",
+          "abilityEffectDescription": "敵に超忍祭限定キャラがいると素早さ80%アップ、スキル発動速度1段階アップ",
+          "effectIdx1": "2060",
+          "effectIdx2": "2061",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

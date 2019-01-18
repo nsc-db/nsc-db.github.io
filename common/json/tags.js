@@ -6551,4 +6551,12 @@ window.tags=[
           "pvp": "",
           "nickname": "Deadlock Orochimaru"
 },
+{
+          "cardId": "20050112",
+          "rare": "5",
+          "tag": "killers",
+          "rate": "",
+          "pvp": "",
+          "nickname": "Killer Gaara"
+},
 ]
