@@ -10036,6 +10036,19 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "781",
+          "name": "大扇振舞",
+          "description": "Suna and Konoha HP and Skill Damage +70%",
+          "effectIdx1": "10069",
+          "effectIdx2": "652",
+          "effectIdx3": "0",
+          "compType": "2",
+          "target1Category": "2",
+          "target1Param": "2",
+          "target2Category": "2",
+          "target2Param": "1"
+        },
+        {
           "cardLeaderSkillId": "783",
           "name": "蒼き異名の後継者",
           "description": "Konoha Character Maximum HP and ATK +30%",

@@ -707,7 +707,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "178",
           "name": "砂縛柩",
-          "eng": ""
+          "eng": "Sand Coffin"
         },
         {
           "cardBattleSkillNameId": "179",
@@ -2862,7 +2862,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "865",
           "name": "口寄せ・斬り斬り舞",
-          "eng": ""
+          "eng": "Summoning: Blade Dance"
         },
         {
           "cardBattleSkillNameId": "866",
@@ -7010,6 +7010,11 @@ window.skillname=[
           "cardBattleSkillNameId": "2603",
           "name": "苦しみは無い",
           "eng": "There Will Be No Pain"
+        },
+        {
+          "cardBattleSkillNameId": "2604",
+          "name": "お前の手筈が悪い！",
+          "eng": "Your Plan is Terrible!"
         },
         {
           "cardBattleSkillNameId": "10136",

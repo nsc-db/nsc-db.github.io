@@ -6559,4 +6559,12 @@ window.tags=[
           "pvp": "",
           "nickname": "Killer Gaara"
 },
+{
+          "cardId": "20050114",
+          "rare": "5",
+          "tag": "ex-6",
+          "rate": "",
+          "pvp": "",
+          "nickname": "Shippuden Temari"
+},
 ]

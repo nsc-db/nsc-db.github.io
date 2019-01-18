@@ -17174,7 +17174,7 @@ window.ability=[
         {
           "abilityId": "1946",
           "abilityName": "Heavenly Judgement",
-          "abilityDescription": "ATK +100%. Skill Damage +120% when HPH is above 80%",
+          "abilityDescription": "ATK +100%. Skill Damage +120% when HP is above 80%",
           "abilityEffectDescription": "攻撃力が100%アップ、 HPが80%以上だとスキルダメージが120%アップする",
           "effectIdx1": "11099",
           "effectIdx2": "31711",
@@ -17521,6 +17521,24 @@ window.ability=[
           "effectIdx1": "20009",
           "effectIdx2": "1268",
           "effectIdx3": "794"
+        },
+        {
+          "abilityId": "1987",
+          "abilityName": "Family Love",
+          "abilityDescription": "When HP reach 0, revive twice. For 2 turns immune to Cancel",
+          "abilityEffectDescription": "HPが0以下で2度までHPが全回復、2回行動までキャンセル無効",
+          "effectIdx1": "1057",
+          "effectIdx2": "874",
+          "effectIdx3": "1839"
+        },
+        {
+          "abilityId": "1988",
+          "abilityName": "Elder Sister's Care",
+          "abilityDescription": "SPD and Skill Damage +100%. Extra +150% SPD when HP is above 50%",
+          "abilityEffectDescription": "素早さ＆スキルダメージを100%アップ、さらにHP50%以上の時、素早さ150アップ",
+          "effectIdx1": "13099",
+          "effectIdx2": "774",
+          "effectIdx3": "2066"
         },
         {
           "abilityId": "1991",

@@ -8974,5 +8974,29 @@ window.unique=[
           "effectIdx2": "1913",
           "effectIdx3": "2062",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "762",
+          "targetCrystal": "20127",
+          "description": "ﾊﾞﾄﾙ開始時ﾁｬｸﾗ50％回復、ﾁｬｸﾗ消費量半減、攻撃力と防御力と素早さを120%ｱｯﾌﾟ",
+          "charaIds": "1401,1402,1403,1404",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1115",
+          "effectIdx2": "895",
+          "effectIdx3": "1851",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "763",
+          "targetCrystal": "20128",
+          "description": "最大HPを150%アップし、弱体と状態異常を無効化",
+          "charaIds": "1401,1402,1403,1404",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1212",
+          "effectIdx2": "880",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
         }
 ]
