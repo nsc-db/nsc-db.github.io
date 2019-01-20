@@ -6378,7 +6378,7 @@ window.tags=[
 {
           "cardId": "20041110",
           "rare": "5",
-          "tag": "killer",
+          "tag": "killers",
           "rate": "",
           "pvp": "",
           "nickname": "Killer Sasuke"
