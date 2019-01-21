@@ -1577,7 +1577,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "449",
           "name": "飛雷神二の段",
-          "eng": ""
+          "eng": "Flying Raijin: Second Step"
         },
         {
           "cardBattleSkillNameId": "451",
@@ -7015,6 +7015,11 @@ window.skillname=[
           "cardBattleSkillNameId": "2604",
           "name": "お前の手筈が悪い！",
           "eng": "Your Plan is Terrible!"
+        },
+        {
+          "cardBattleSkillNameId": "2605",
+          "name": "ここで仕留めなければ！！",
+          "eng": "I'll Bring it Down Here!!"
         },
         {
           "cardBattleSkillNameId": "10136",
