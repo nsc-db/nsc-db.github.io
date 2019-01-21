@@ -67643,6 +67643,481 @@
           "message": "これほど素晴らしい世界は無い"
         },
         {
+          "scriptMessageId": "26020",
+          "speechCharactorId": "621",
+          "message": "ねぇ二人とも！\r\nもうすぐミナト先生の誕生日だよ"
+        },
+        {
+          "scriptMessageId": "26021",
+          "speechCharactorId": "622",
+          "message": "私たちで盛大にお祝いしようよ！"
+        },
+        {
+          "scriptMessageId": "26022",
+          "speechCharactorId": "625",
+          "message": "いいなそれ！！\r\nリン、オレに任せてくれ"
+        },
+        {
+          "scriptMessageId": "26023",
+          "speechCharactorId": "487",
+          "message": "絶対に盛り上げてやるぜ"
+        },
+        {
+          "scriptMessageId": "26024",
+          "speechCharactorId": "489",
+          "message": "……当日、お前の遅刻で\r\nあわてる羽目にはなりたくないな"
+        },
+        {
+          "scriptMessageId": "26025",
+          "speechCharactorId": "487",
+          "message": "何だと！？"
+        },
+        {
+          "scriptMessageId": "26026",
+          "speechCharactorId": "621",
+          "message": "二人とも喧嘩はダメだよ\r\nせっかくのお祝い事なんだから！"
+        },
+        {
+          "scriptMessageId": "26027",
+          "speechCharactorId": "489",
+          "message": "ミナト先生へのプレゼントか…\r\nいったい何を用意するんだ？"
+        },
+        {
+          "scriptMessageId": "26028",
+          "speechCharactorId": "487",
+          "message": "ミナト先生の好きなものって\r\nアレだろ、狂暴な……"
+        },
+        {
+          "scriptMessageId": "26029",
+          "speechCharactorId": "489",
+          "message": "狂暴…？"
+        },
+        {
+          "scriptMessageId": "26030",
+          "speechCharactorId": "622",
+          "message": "もう…\r\nクシナさんに言いつけちゃうよ、オビト"
+        },
+        {
+          "scriptMessageId": "26031",
+          "speechCharactorId": "489",
+          "message": "なるほど…\r\n声をかけてみよう\r\n多分…協力してくれるはずだ"
+        },
+        {
+          "scriptMessageId": "26032",
+          "speechCharactorId": "489",
+          "message": "クシナさん\r\nミナト先生の誕生日…\r\n先生と何か約束とかしてませんか？"
+        },
+        {
+          "scriptMessageId": "26033",
+          "speechCharactorId": "198",
+          "message": "どうしたってばね！？\r\n急にそんなこと聞いて"
+        },
+        {
+          "scriptMessageId": "26034",
+          "speechCharactorId": "621",
+          "message": "ミナト先生の誕生日を\r\n皆でお祝いしようって話してて"
+        },
+        {
+          "scriptMessageId": "26035",
+          "speechCharactorId": "622",
+          "message": "お二人で出かける予定でもあったら…お邪魔かなって"
+        },
+        {
+          "scriptMessageId": "26036",
+          "speechCharactorId": "487",
+          "message": "ないない\r\n誘えるわけねーって\r\nそんで、ミナト先生が誘うわけねーって"
+        },
+        {
+          "scriptMessageId": "26037",
+          "speechCharactorId": "623",
+          "message": "オビト…！？"
+        },
+        {
+          "scriptMessageId": "26038",
+          "speechCharactorId": "573",
+          "message": "………"
+        },
+        {
+          "scriptMessageId": "26039",
+          "speechCharactorId": "625",
+          "message": "いてェ…"
+        },
+        {
+          "scriptMessageId": "26040",
+          "speechCharactorId": "485",
+          "message": "うわ…！？\r\nオビトどうしたんだい？"
+        },
+        {
+          "scriptMessageId": "26041",
+          "speechCharactorId": "623",
+          "message": "ど…どうしよう\r\nミナト先生が来ちゃった"
+        },
+        {
+          "scriptMessageId": "26042",
+          "speechCharactorId": "489",
+          "message": "ミナト先生…\r\n問題ありません\r\n……いつものことです"
+        },
+        {
+          "scriptMessageId": "26043",
+          "speechCharactorId": "626",
+          "message": "ちょっと修業つけてあげただけだってばね"
+        },
+        {
+          "scriptMessageId": "26044",
+          "speechCharactorId": "153",
+          "message": "む、ミナトを祝う会への出席依頼とな"
+        },
+        {
+          "scriptMessageId": "26045",
+          "speechCharactorId": "489",
+          "message": "はい…ちょうどミナト先生の誕生日は\r\n我々ミナト班も休養となっておりますので"
+        },
+        {
+          "scriptMessageId": "26046",
+          "speechCharactorId": "153",
+          "message": "そういうスケジュールに調整したのじゃ"
+        },
+        {
+          "scriptMessageId": "26047",
+          "speechCharactorId": "489",
+          "message": "失礼しました\r\n……それで、どうでしょうか"
+        },
+        {
+          "scriptMessageId": "26048",
+          "speechCharactorId": "153",
+          "message": "ふむ…まぁ少しくらいなら問題なかろう\r\n遅れるが出席しよう"
+        },
+        {
+          "scriptMessageId": "26049",
+          "speechCharactorId": "489",
+          "message": "ありがとうございます"
+        },
+        {
+          "scriptMessageId": "26050",
+          "speechCharactorId": "487",
+          "message": "三代目！\r\n一つお願いが……！"
+        },
+        {
+          "scriptMessageId": "26051",
+          "speechCharactorId": "153",
+          "message": "なんじゃ？"
+        },
+        {
+          "scriptMessageId": "26052",
+          "speechCharactorId": "487",
+          "message": "ちょこっーと…\r\n火影笠被らせてもらったり……"
+        },
+        {
+          "scriptMessageId": "26053",
+          "speechCharactorId": "623",
+          "message": "オビト…！？"
+        },
+        {
+          "scriptMessageId": "26054",
+          "speechCharactorId": "489",
+          "message": "……失礼しました"
+        },
+        {
+          "scriptMessageId": "26055",
+          "speechCharactorId": "153",
+          "message": "よいよい\r\nでは、ワシは執務があるのでな"
+        },
+        {
+          "scriptMessageId": "26056",
+          "speechCharactorId": "621",
+          "message": "もう…ビックリしたよ\r\nオビトったら急にあんなこと言うから"
+        },
+        {
+          "scriptMessageId": "26057",
+          "speechCharactorId": "487",
+          "message": "ヘヘヘ…悪い\r\nちょっと被ってみたくってさ"
+        },
+        {
+          "scriptMessageId": "26058",
+          "speechCharactorId": "489",
+          "message": "ハァ…悪い、じゃない！\r\n三代目は寛容な方だが…\r\n中には厳しい方もいらっしゃるんだぞ"
+        },
+        {
+          "scriptMessageId": "26059",
+          "speechCharactorId": "489",
+          "message": "さて…肝心のクシナさんを\r\n誘えていないわけだが"
+        },
+        {
+          "scriptMessageId": "26060",
+          "speechCharactorId": "487",
+          "message": "何だよ、オレが悪いって\r\n言いたいのかよ"
+        },
+        {
+          "scriptMessageId": "26061",
+          "speechCharactorId": "489",
+          "message": "ああ…"
+        },
+        {
+          "scriptMessageId": "26062",
+          "speechCharactorId": "621",
+          "message": "まあまあ、二人共…\r\n落ち着いて！"
+        },
+        {
+          "scriptMessageId": "26063",
+          "speechCharactorId": "489",
+          "message": "リンはオビトに甘すぎる"
+        },
+        {
+          "scriptMessageId": "26064",
+          "speechCharactorId": "487",
+          "message": "相変わらず口うるさいなカカシ！\r\n次は気ぃー付けるよ！"
+        },
+        {
+          "scriptMessageId": "26065",
+          "speechCharactorId": "485",
+          "message": "何を気を付けるんだい？"
+        },
+        {
+          "scriptMessageId": "26066",
+          "speechCharactorId": "623",
+          "message": "ミナト先生！？"
+        },
+        {
+          "scriptMessageId": "26067",
+          "speechCharactorId": "489",
+          "message": "オビトが三代目の火影笠を\r\n被りたがりまして……"
+        },
+        {
+          "scriptMessageId": "26068",
+          "speechCharactorId": "485",
+          "message": "本当かい？オビト"
+        },
+        {
+          "scriptMessageId": "26069",
+          "speechCharactorId": "487",
+          "message": "…ミナト先生だって\r\nちょっとくらい思ったことあるだろ？"
+        },
+        {
+          "scriptMessageId": "26070",
+          "speechCharactorId": "485",
+          "message": "そうだね、そうかもしれないな\r\nボクも君達くらいの時から\r\n火影を目指していたからね"
+        },
+        {
+          "scriptMessageId": "26071",
+          "speechCharactorId": "198",
+          "message": "あら、カカシ\r\nまた来たのね"
+        },
+        {
+          "scriptMessageId": "26072",
+          "speechCharactorId": "198",
+          "message": "オビトとリンはどうしたの？"
+        },
+        {
+          "scriptMessageId": "26073",
+          "speechCharactorId": "489",
+          "message": "あの二人は…"
+        },
+        {
+          "scriptMessageId": "26074",
+          "speechCharactorId": "198",
+          "message": "オビトが困ってる人をほっとけなくて\r\nリンもそれにつき合ってるのね"
+        },
+        {
+          "scriptMessageId": "26075",
+          "speechCharactorId": "198",
+          "message": "あの子たちらしいわ…\r\nそれで、カカシが用事担当ってことね？"
+        },
+        {
+          "scriptMessageId": "26076",
+          "speechCharactorId": "489",
+          "message": "そうなります"
+        },
+        {
+          "scriptMessageId": "26077",
+          "speechCharactorId": "198",
+          "message": "それで用事はなんなの？"
+        },
+        {
+          "scriptMessageId": "26078",
+          "speechCharactorId": "489",
+          "message": "実は……"
+        },
+        {
+          "scriptMessageId": "26079",
+          "speechCharactorId": "198",
+          "message": "ミナトの誕生会ね\r\n私も考えていたけど…\r\nいいわ、一緒にやりましょ！"
+        },
+        {
+          "scriptMessageId": "26080",
+          "speechCharactorId": "487",
+          "message": "一緒にやろうぜ！"
+        },
+        {
+          "scriptMessageId": "26081",
+          "speechCharactorId": "621",
+          "message": "オビトまって！"
+        },
+        {
+          "scriptMessageId": "26082",
+          "speechCharactorId": "489",
+          "message": "………\r\n早かったな……"
+        },
+        {
+          "scriptMessageId": "26083",
+          "speechCharactorId": "198",
+          "message": "よーし、当日は私がご馳走作るわね"
+        },
+        {
+          "scriptMessageId": "26084",
+          "speechCharactorId": "621",
+          "message": "わぁ…！\r\n私、お手伝いします！！"
+        },
+        {
+          "scriptMessageId": "26085",
+          "speechCharactorId": "198",
+          "message": "んーリンは可愛いわねェ"
+        },
+        {
+          "scriptMessageId": "26086",
+          "speechCharactorId": "489",
+          "message": "オビト、お前とオレは\r\nミナト先生の部屋の飾りつけだ"
+        },
+        {
+          "scriptMessageId": "26087",
+          "speechCharactorId": "625",
+          "message": "ケッ…"
+        },
+        {
+          "scriptMessageId": "26088",
+          "speechCharactorId": "487",
+          "message": "誰がミナト先生を足止めして\r\n時間通りに連れてくるんだよ？"
+        },
+        {
+          "scriptMessageId": "26089",
+          "speechCharactorId": "489",
+          "message": "あ……"
+        },
+        {
+          "scriptMessageId": "26090",
+          "speechCharactorId": "625",
+          "message": "オイ、カカシ…\r\n忘れてたよな？"
+        },
+        {
+          "scriptMessageId": "26091",
+          "speechCharactorId": "485",
+          "message": "カカシが忘れ物？\r\n珍しいね、何を忘れたんだい？"
+        },
+        {
+          "scriptMessageId": "26092",
+          "speechCharactorId": "487",
+          "message": "ミナト先生の足止めっスよ\r\n誕生日パーティーの"
+        },
+        {
+          "scriptMessageId": "26093",
+          "speechCharactorId": "624",
+          "message": "オビト……！！"
+        },
+        {
+          "scriptMessageId": "26094",
+          "speechCharactorId": "573",
+          "message": "ミナト……\r\n忘れるってばね！！"
+        },
+        {
+          "scriptMessageId": "26095",
+          "speechCharactorId": "485",
+          "message": "分かった…！\r\nうん、忘れるから"
+        },
+        {
+          "scriptMessageId": "26096",
+          "speechCharactorId": "198",
+          "message": "……よし！"
+        },
+        {
+          "scriptMessageId": "26097",
+          "speechCharactorId": "624",
+          "message": "（よしなの！？）"
+        },
+        {
+          "scriptMessageId": "26098",
+          "speechCharactorId": "485",
+          "message": "サプライズパーティーだなんて\r\n本当に嬉しいよ"
+        },
+        {
+          "scriptMessageId": "26099",
+          "speechCharactorId": "487",
+          "message": "任せとけって！\r\n当日もキッチリ、驚かすから！"
+        },
+        {
+          "scriptMessageId": "26100",
+          "speechCharactorId": "623",
+          "message": "（ミナト先生忘れてない！）\r\n（何を驚かすのオビト！？）"
+        },
+        {
+          "scriptMessageId": "26101",
+          "speechCharactorId": "489",
+          "message": "………ハァ…\r\nお前の言動がサプライズだよ、オビト"
+        },
+        {
+          "scriptMessageId": "26102",
+          "speechCharactorId": "626",
+          "message": "よーし、皆でサプライズパーティーの\r\n準備だってばね！"
+        },
+        {
+          "scriptMessageId": "26103",
+          "speechCharactorId": "485",
+          "message": "分かった！\r\nオレも協力するよ！"
+        },
+        {
+          "scriptMessageId": "26104",
+          "speechCharactorId": "573",
+          "message": "ミナト！！\r\nなに、さり気なく混ざってるってばね！"
+        },
+        {
+          "scriptMessageId": "26105",
+          "speechCharactorId": "485",
+          "message": "…だめかな？\r\n一緒にやった方が楽しいと思うんだ"
+        },
+        {
+          "scriptMessageId": "26106",
+          "speechCharactorId": "485",
+          "message": "それにボクもクシナや\r\n皆と一緒に居たいしね"
+        },
+        {
+          "scriptMessageId": "26107",
+          "speechCharactorId": "198",
+          "message": "な…何言ってるってばね……"
+        },
+        {
+          "scriptMessageId": "26108",
+          "speechCharactorId": "487",
+          "message": "顔も真っ赤だぜ！\r\n照れてやんの！"
+        },
+        {
+          "scriptMessageId": "26109",
+          "speechCharactorId": "573",
+          "message": "照れてないってばね！"
+        },
+        {
+          "scriptMessageId": "26110",
+          "speechCharactorId": "485",
+          "message": "さっ！皆で準備しようか！"
+        },
+        {
+          "scriptMessageId": "26111",
+          "speechCharactorId": "573",
+          "message": "ミナト……\r\nパーティーのことは忘れるってばね！！"
+        },
+        {
+          "scriptMessageId": "26112",
+          "speechCharactorId": "485",
+          "message": "……分かった！\r\nオレは何も見なかった…\r\nそれでいいかい？"
+        },
+        {
+          "scriptMessageId": "26113",
+          "speechCharactorId": "198",
+          "message": "……うん、それでよし！\r\n楽しみにしていてね"
+        },
+        {
+          "scriptMessageId": "26114",
+          "speechCharactorId": "624",
+          "message": "（本当にそれでよしなの…！？）"
+        },
+        {
           "scriptMessageId": "26115",
           "speechCharactorId": "393",
           "message": "我愛羅…身体はもう大丈夫か？"

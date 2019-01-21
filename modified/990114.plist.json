@@ -1721,6 +1721,16 @@
           "subScore": "0",
           "color": "15327205",
           "type": "2"
+        },
+        {
+          "cardUnusualId": "178",
+          "category": "3",
+          "iconId": "1198",
+          "name": "術式クナイ",
+          "description": "行動不能になり、閃光モード状態の波風ミナト（年代問わず）にカットインされる",
+          "subScore": "0",
+          "color": "16772167",
+          "type": "3"
         }
       ]
     }

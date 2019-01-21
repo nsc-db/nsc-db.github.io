@@ -1659,6 +1659,14 @@
           "skillUrl": "https://www.youtube.com/embed/x6dkkJRwbxM?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
         },
         {
+          "gachaCardAdditionId": "222",
+          "targetCardId": "20050113",
+          "additionId": "1",
+          "params": "0,",
+          "limitedFlg": "106",
+          "skillUrl": "https://www.youtube.com/embed/U4YkQ4Z-yrA?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
+        },
+        {
           "gachaCardAdditionId": "1001",
           "targetCardId": "20001600",
           "additionId": "0",
@@ -2479,7 +2487,7 @@
           "targetCardId": "20040112",
           "additionId": "0",
           "params": "0,",
-          "limitedFlg": "1",
+          "limitedFlg": "105",
           "skillUrl": "https://www.youtube.com/embed/ecuuINI_PTI?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
         },
         {
@@ -2487,7 +2495,7 @@
           "targetCardId": "20040113",
           "additionId": "0",
           "params": "0,",
-          "limitedFlg": "1",
+          "limitedFlg": "105",
           "skillUrl": "https://www.youtube.com/embed/y6kqU1lZC0I?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
         },
         {
@@ -2495,7 +2503,7 @@
           "targetCardId": "20040114",
           "additionId": "0",
           "params": "0,",
-          "limitedFlg": "1",
+          "limitedFlg": "105",
           "skillUrl": "https://www.youtube.com/embed/vq5Vjjc1TYk?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
         },
         {
@@ -2503,7 +2511,7 @@
           "targetCardId": "20040205",
           "additionId": "0",
           "params": "0,",
-          "limitedFlg": "1",
+          "limitedFlg": "105",
           "skillUrl": "https://www.youtube.com/embed/3LT2ZZESO2g?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
         },
         {
@@ -2527,7 +2535,7 @@
           "targetCardId": "20040307",
           "additionId": "1",
           "params": "0,",
-          "limitedFlg": "1",
+          "limitedFlg": "105",
           "skillUrl": "https://www.youtube.com/embed/zDKAqLHBYnU?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
         },
         {
@@ -2535,7 +2543,7 @@
           "targetCardId": "20040306",
           "additionId": "1",
           "params": "0,",
-          "limitedFlg": "1",
+          "limitedFlg": "105",
           "skillUrl": "https://www.youtube.com/embed/wL5uWogJz50?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
         },
         {
@@ -2543,7 +2551,7 @@
           "targetCardId": "20040310",
           "additionId": "1",
           "params": "0,",
-          "limitedFlg": "1",
+          "limitedFlg": "105",
           "skillUrl": "https://www.youtube.com/embed/Q2kJZv60fAw?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
         },
         {
@@ -2551,7 +2559,7 @@
           "targetCardId": "20040311",
           "additionId": "1",
           "params": "0,",
-          "limitedFlg": "1",
+          "limitedFlg": "105",
           "skillUrl": "https://www.youtube.com/embed/sXNnCkVDip0?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
         },
         {
@@ -2567,7 +2575,7 @@
           "targetCardId": "20040402",
           "additionId": "1",
           "params": "0,",
-          "limitedFlg": "1",
+          "limitedFlg": "105",
           "skillUrl": "https://www.youtube.com/embed/IVJyQwR03U0?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
         },
         {
@@ -2575,7 +2583,7 @@
           "targetCardId": "20040412",
           "additionId": "1",
           "params": "0,",
-          "limitedFlg": "1",
+          "limitedFlg": "105",
           "skillUrl": "https://www.youtube.com/embed/efimTwl7eXI?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
         },
         {
@@ -2583,7 +2591,7 @@
           "targetCardId": "20040407",
           "additionId": "1",
           "params": "0,",
-          "limitedFlg": "1",
+          "limitedFlg": "105",
           "skillUrl": "https://www.youtube.com/embed/aqdMhj1uOOU?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
         },
         {
@@ -2607,7 +2615,7 @@
           "targetCardId": "20040416",
           "additionId": "1",
           "params": "0,",
-          "limitedFlg": "1",
+          "limitedFlg": "105",
           "skillUrl": "https://www.youtube.com/embed/NwKbrR1YTlo?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
         },
         {
@@ -2615,7 +2623,7 @@
           "targetCardId": "20040417",
           "additionId": "1",
           "params": "0,",
-          "limitedFlg": "1",
+          "limitedFlg": "105",
           "skillUrl": "https://www.youtube.com/embed/NRwlquO8b18?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
         },
         {
@@ -2623,7 +2631,7 @@
           "targetCardId": "20040509",
           "additionId": "1",
           "params": "0,",
-          "limitedFlg": "1",
+          "limitedFlg": "105",
           "skillUrl": "https://www.youtube.com/embed/wPapJu4utU4?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
         },
         {
@@ -2679,7 +2687,7 @@
           "targetCardId": "20040606",
           "additionId": "1",
           "params": "0,",
-          "limitedFlg": "1",
+          "limitedFlg": "105",
           "skillUrl": "https://www.youtube.com/embed/D4wA0-YGoVA?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
         },
         {
@@ -2687,7 +2695,7 @@
           "targetCardId": "20040607",
           "additionId": "1",
           "params": "0,",
-          "limitedFlg": "1",
+          "limitedFlg": "105",
           "skillUrl": "https://www.youtube.com/embed/iRUiIsDznV4?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
         },
         {
@@ -2695,7 +2703,7 @@
           "targetCardId": "20040704",
           "additionId": "1",
           "params": "0,",
-          "limitedFlg": "1",
+          "limitedFlg": "105",
           "skillUrl": "https://www.youtube.com/embed/lA4EmQus8zo?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
         },
         {
@@ -2719,7 +2727,7 @@
           "targetCardId": "20040707",
           "additionId": "1",
           "params": "0,",
-          "limitedFlg": "1",
+          "limitedFlg": "105",
           "skillUrl": "https://www.youtube.com/embed/Wi_s9fhLzao?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
         },
         {
@@ -2751,7 +2759,7 @@
           "targetCardId": "20040810",
           "additionId": "1",
           "params": "0,",
-          "limitedFlg": "1",
+          "limitedFlg": "105",
           "skillUrl": "https://www.youtube.com/embed/xR_hjOAcdM0?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
         },
         {
@@ -2767,7 +2775,7 @@
           "targetCardId": "20040905",
           "additionId": "1",
           "params": "0,",
-          "limitedFlg": "1",
+          "limitedFlg": "105",
           "skillUrl": "https://www.youtube.com/embed/FGx0LtaH_Xk?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
         },
         {
@@ -2775,7 +2783,7 @@
           "targetCardId": "20040908",
           "additionId": "1",
           "params": "0,",
-          "limitedFlg": "1",
+          "limitedFlg": "105",
           "skillUrl": "https://www.youtube.com/embed/ICt4Q5ZiR-0?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
         },
         {
@@ -2799,7 +2807,7 @@
           "targetCardId": "20041012",
           "additionId": "1",
           "params": "0,",
-          "limitedFlg": "1",
+          "limitedFlg": "105",
           "skillUrl": "https://www.youtube.com/embed/35DLE2rgpb4?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
         },
         {
@@ -2807,7 +2815,7 @@
           "targetCardId": "20041110",
           "additionId": "1",
           "params": "0,",
-          "limitedFlg": "1",
+          "limitedFlg": "105",
           "skillUrl": "https://www.youtube.com/embed/Q7x8X-zgbpE?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
         },
         {
@@ -2815,7 +2823,7 @@
           "targetCardId": "20041206",
           "additionId": "1",
           "params": "0,",
-          "limitedFlg": "1",
+          "limitedFlg": "105",
           "skillUrl": "https://www.youtube.com/embed/KLTq7P-CMpQ?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
         },
         {
@@ -2839,7 +2847,7 @@
           "targetCardId": "20041209",
           "additionId": "1",
           "params": "0,",
-          "limitedFlg": "1",
+          "limitedFlg": "105",
           "skillUrl": "https://www.youtube.com/embed/qJZN79hS5JE?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
         },
         {
@@ -2879,7 +2887,7 @@
           "targetCardId": "20050112",
           "additionId": "1",
           "params": "0,",
-          "limitedFlg": "1",
+          "limitedFlg": "105",
           "skillUrl": "https://www.youtube.com/embed/4l05AhR-Jco?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
         },
         {

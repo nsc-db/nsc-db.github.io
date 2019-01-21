@@ -18408,6 +18408,24 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2101",
+          "abilityName": "勇名の真髄",
+          "abilityDescription": "2回行動するまでチャクラ消費0、弱体と状態異常を無効化",
+          "abilityEffectDescription": "2回行動するまでチャクラ消費0、弱体と状態異常を無効化",
+          "effectIdx1": "1646",
+          "effectIdx2": "880",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2102",
+          "abilityName": "刹那を制す瞬身",
+          "abilityDescription": "バトル開始時に先制攻撃、高確率でスキルを回避する",
+          "abilityEffectDescription": "バトル開始時に先制攻撃、高確率でスキルを回避する",
+          "effectIdx1": "2068",
+          "effectIdx2": "968",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

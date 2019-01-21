@@ -2019,6 +2019,18 @@
           "voiceDeath": "temari_death_02_03"
         },
         {
+          "cardVoiceId": "170",
+          "cardId": "20050113",
+          "dirName": "minato",
+          "evolutionStep": "",
+          "voiceAppear": "minato_menu_event_01",
+          "voiceSkill1": "minato_skill_02_04,minato_skill_02_08",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "minato_menu_02",
+          "voiceDeath": "minato_damage_02_02"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",
