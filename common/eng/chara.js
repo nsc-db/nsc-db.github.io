@@ -29187,7 +29187,7 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-04-11 18:37:59",
           "updateUserId": "11",
-          "translated": "1",
+          "translated": "1"
         },
         {
           "cardId": "20040314",
@@ -30028,7 +30028,7 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-04-18 11:16:07",
           "updateUserId": "11",
-          "translated": "1",
+          "translated": "1"
         },
         {
           "cardId": "20040416",

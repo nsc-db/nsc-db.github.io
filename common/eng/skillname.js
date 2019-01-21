@@ -6068,7 +6068,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "2376",
           "name": "水遁・水魔奔流の術",
-          "eng": "Water Style: Water Torrent Jutsu",
+          "eng": "Water Style: Water Torrent Jutsu"
         },
         {
           "cardBattleSkillNameId": "2378",

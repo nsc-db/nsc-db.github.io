@@ -84278,7 +84278,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2382",
           "nameIdx": "2411",
-          "description": "Own Skill Damage +200% and grant 'Gust', 'Concentration' and 'Resolution\: state. [Gust: SPD and Skill Damage +50%] [Concentration: Chakra Cost reduced per turn, Max 30%] [Resolution: ATK, DEF and SPD +50%. Recover 5% HP and Chakra when attacked] ",
+          "description": "Own Skill Damage +200% and grant 'Gust', 'Concentration' and 'Resolution: state. [Gust: SPD and Skill Damage +50%] [Concentration: Chakra Cost reduced per turn, Max 30%] [Resolution: ATK, DEF and SPD +50%. Recover 5% HP and Chakra when attacked] ",
           "categoryId": "3",
           "levelType": "3",
           "scriptId": "100004",
