@@ -2003,4 +2003,16 @@ window.vo=[
           "voiceWin": "gaara_battle_01_01",
           "voiceDeath": "gaara_death_01_01"
         },
+        {
+          "cardVoiceId": "169",
+          "cardId": "20050114",
+          "dirName": "temari",
+          "evolutionStep": "",
+          "voiceAppear": "temari_battle_02_03",
+          "voiceSkill1": "temari_skill_02_04",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "temari_win_02_07",
+          "voiceDeath": "temari_death_02_03"
+        },
 ]

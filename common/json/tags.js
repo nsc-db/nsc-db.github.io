@@ -6378,7 +6378,7 @@ window.tags=[
 {
           "cardId": "20041110",
           "rare": "5",
-          "tag": "killer",
+          "tag": "killers",
           "rate": "",
           "pvp": "",
           "nickname": "Killer Sasuke"
@@ -6558,5 +6558,13 @@ window.tags=[
           "rate": "",
           "pvp": "",
           "nickname": "Killer Gaara"
+},
+{
+          "cardId": "20050114",
+          "rare": "5",
+          "tag": "ex-6",
+          "rate": "",
+          "pvp": "",
+          "nickname": "Shippuden Temari"
 },
 ]
