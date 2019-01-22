@@ -1557,7 +1557,7 @@ window.tags=[
           "tag": "ex-5",
           "rate": "53",
           "pvp": "40",
-          "nickname": "Hashi v1 | Edo Hashi v1"
+          "nickname": "Hashi v1 | Edo Hashi v1 | Sage Hashi v1"
 },
 {
           "cardId": "20001560",
@@ -3373,7 +3373,7 @@ window.tags=[
           "tag": "ex-5",
           "rate": "81",
           "pvp": "62",
-          "nickname": "Hashi v2 | Thousand Arms Hashi"
+          "nickname": "Hashi v2 | Thousand Arms Hashi | Sage Hashi v2"
 },
 {
           "cardId": "20001787",
@@ -3861,7 +3861,7 @@ window.tags=[
           "tag": "ex-5",
           "rate": "76",
           "pvp": "65",
-          "nickname": "Shinden Sasuke"
+          "nickname": "Shinden Sasuke v1"
 },
 {
           "cardId": "20001849",
@@ -3885,7 +3885,7 @@ window.tags=[
           "tag": "ex-5",
           "rate": "93",
           "pvp": "71",
-          "nickname": "6p Tenten | God Tenten"
+          "nickname": "6P Tenten v1 | God Tenten"
 },
 {
           "cardId": "20001852",
@@ -3917,7 +3917,7 @@ window.tags=[
           "tag": "ex-5",
           "rate": "77",
           "pvp": "80",
-          "nickname": "EX Hidan"
+          "nickname": "Hidan v1"
 },
 {
           "cardId": "20001856",
@@ -3925,7 +3925,7 @@ window.tags=[
           "tag": "ex-5",
           "rate": "63",
           "pvp": "57",
-          "nickname": "EX Kakuzu"
+          "nickname": "Kakuzu v2"
 },
 {
           "cardId": "20001857",
@@ -3965,7 +3965,7 @@ window.tags=[
           "tag": "ex-5",
           "rate": "71",
           "pvp": "55",
-          "nickname": "Shinden Hinata"
+          "nickname": "Shinden Hinata v1"
 },
 {
           "cardId": "20001862",
@@ -4165,7 +4165,7 @@ window.tags=[
           "tag": "ex-5",
           "rate": "92",
           "pvp": "90",
-          "nickname": "Resonance Naruto"
+          "nickname": "Resonance Naruto v1"
 },
 {
           "cardId": "20030602",
@@ -4173,7 +4173,7 @@ window.tags=[
           "tag": "ex-5",
           "rate": "90",
           "pvp": "86",
-          "nickname": "Resonance Minato"
+          "nickname": "Resonance Minato v1"
 },
 {
           "cardId": "20030603",
@@ -4301,7 +4301,7 @@ window.tags=[
           "tag": "ex-5",
           "rate": "86",
           "pvp": "82",
-          "nickname": "Sage Naruto"
+          "nickname": "Sage Naruto v3"
 },
 {
           "cardId": "20030702",
@@ -4317,7 +4317,7 @@ window.tags=[
           "tag": "ex-5",
           "rate": "66",
           "pvp": "40",
-          "nickname": "Sage Hashi | Trash"
+          "nickname": "Sage Hashi v3 | Blue Hashi | Blue Sage Hashi"
 },
 {
           "cardId": "20030704",
@@ -4341,7 +4341,7 @@ window.tags=[
           "tag": "ex-5",
           "rate": "69",
           "pvp": "45",
-          "nickname": "Ex Neji v1"
+          "nickname": "Neji v1"
 },
 {
           "cardId": "20030707",
@@ -4349,7 +4349,7 @@ window.tags=[
           "tag": "ex-5",
           "rate": "73",
           "pvp": "60",
-          "nickname": "White Ashura"
+          "nickname": "Ashura v1"
 },
 {
           "cardId": "20030708",
@@ -4357,7 +4357,7 @@ window.tags=[
           "tag": "ex-5",
           "rate": "78",
           "pvp": "58",
-          "nickname": "Black Indra"
+          "nickname": "Indra v1"
 },
 {
           "cardId": "20030709",
@@ -4469,7 +4469,7 @@ window.tags=[
           "tag": "ex-5",
           "rate": "72",
           "pvp": "55",
-          "nickname": "Red Tsunade"
+          "nickname": "Tsunade v2"
 },
 {
           "cardId": "20030807",
@@ -4477,7 +4477,7 @@ window.tags=[
           "tag": "ex-5",
           "rate": "81",
           "pvp": "60",
-          "nickname": "Yellow Gaara"
+          "nickname": "Gaara v2"
 },
 {
           "cardId": "20030808",
@@ -4485,7 +4485,7 @@ window.tags=[
           "tag": "ex-5",
           "rate": "70",
           "pvp": "57",
-          "nickname": "Ex Oonoki"
+          "nickname": "Oonoki v1"
 },
 {
           "cardId": "20030809",
@@ -4493,7 +4493,7 @@ window.tags=[
           "tag": "ex-5",
           "rate": "73",
           "pvp": "68",
-          "nickname": "Ex Raikage"
+          "nickname": "Raikage v1"
 },
 {
           "cardId": "20030810",
@@ -4501,7 +4501,7 @@ window.tags=[
           "tag": "ex-5",
           "rate": "67",
           "pvp": "50",
-          "nickname": "Ex Mei"
+          "nickname": "Mei v1"
 },
 {
           "cardId": "20030811",
@@ -4557,7 +4557,7 @@ window.tags=[
           "tag": "ex-5",
           "rate": "70",
           "pvp": "55",
-          "nickname": "Resonance Lee"
+          "nickname": "Resonance Lee v1"
 },
 {
           "cardId": "20030818",
@@ -4565,7 +4565,7 @@ window.tags=[
           "tag": "ex-5",
           "rate": "73",
           "pvp": "55",
-          "nickname": "Resonance Shikamaru"
+          "nickname": "Resonance Shikamaru v1"
 },
 {
           "cardId": "20030819",
@@ -4573,7 +4573,7 @@ window.tags=[
           "tag": "ex-5",
           "rate": "68",
           "pvp": "55",
-          "nickname": "Resonance Hinata"
+          "nickname": "Resonance Hinata v1"
 },
 {
           "cardId": "20030820",
@@ -4621,7 +4621,7 @@ window.tags=[
           "tag": "ex-5",
           "rate": "72",
           "pvp": "60",
-          "nickname": "Blue Darui"
+          "nickname": "Darui v1"
 },
 {
           "cardId": "20030901",
@@ -4629,7 +4629,7 @@ window.tags=[
           "tag": "ex-5",
           "rate": "78",
           "pvp": "60",
-          "nickname": "10 Tails Madara"
+          "nickname": "Edo Madara v2 | 10 Tails Madara"
 },
 {
           "cardId": "20030902",
@@ -4637,7 +4637,7 @@ window.tags=[
           "tag": "ex-5",
           "rate": "76",
           "pvp": "60",
-          "nickname": "10 Tails Obito"
+          "nickname": "Obito v2 | 10 Tails Obito"
 },
 {
           "cardId": "20030903",
@@ -4693,7 +4693,7 @@ window.tags=[
           "tag": "ex-5",
           "rate": "85",
           "pvp": "74",
-          "nickname": "White Kakashi"
+          "nickname": "Kakashi v3 | Susanoo Kakashi v2 | White Kakashi"
 },
 {
           "cardId": "20030911",
@@ -4701,7 +4701,7 @@ window.tags=[
           "tag": "ex-5",
           "rate": "69",
           "pvp": "80",
-          "nickname": "White Kurenai"
+          "nickname": "Kurenai v1"
 },
 {
           "cardId": "20030912",
@@ -4709,7 +4709,7 @@ window.tags=[
           "tag": "ex-5",
           "rate": "65",
           "pvp": "40",
-          "nickname": "White Asuma"
+          "nickname": "Asuma v1"
 },
 {
           "cardId": "20030913",
@@ -4765,7 +4765,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "81",
           "pvp": "63",
-          "nickname": "Kirin v2"
+          "nickname": "Kirin Sasuke v2 | Kirin v2"
 },
 {
           "cardId": "20030924",
@@ -4781,7 +4781,7 @@ window.tags=[
           "tag": "ex-5",
           "rate": "76",
           "pvp": "62",
-          "nickname": "Frenzy Naruto"
+          "nickname": "Shinden Naruto v2"
 },
 {
           "cardId": "20031002",
@@ -4789,7 +4789,7 @@ window.tags=[
           "tag": "ex-5",
           "rate": "76",
           "pvp": "60",
-          "nickname": "Magnet Naruto"
+          "nickname": "6P Naruto v3"
 },
 {
           "cardId": "20031003",
@@ -4797,7 +4797,7 @@ window.tags=[
           "tag": "ex-5",
           "rate": "73",
           "pvp": "65",
-          "nickname": "kcm naruto v1"
+          "nickname": "KCM Naruto v1"
 },
 {
           "cardId": "20031006",
@@ -4805,7 +4805,7 @@ window.tags=[
           "tag": "ex-5",
           "rate": "50",
           "pvp": "60",
-          "nickname": "Reaper Death Seal Minato"
+          "nickname": "Reaper Death Seal Minato | RDS Minato"
 },
 {
           "cardId": "20031007",
@@ -4813,7 +4813,7 @@ window.tags=[
           "tag": "ex-5",
           "rate": "70",
           "pvp": "62",
-          "nickname": "Fisheye Kushina"
+          "nickname": "Kushina v2 | Fisheye Kushina"
 },
 {
           "cardId": "20031008",
@@ -4845,7 +4845,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "88",
           "pvp": "73",
-          "nickname": "Birthday Naruto"
+          "nickname": "Birthday Naruto v1"
 },
 {
           "cardId": "20031012",
@@ -4853,7 +4853,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "82",
           "pvp": "70",
-          "nickname": "Seal Naruto"
+          "nickname": "Seal Naruto v1"
 },
 {
           "cardId": "20031013",
@@ -4861,7 +4861,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "82",
           "pvp": "70",
-          "nickname": "Seal Sasuke"
+          "nickname": "Seal Sasuke v1"
 },
 {
           "cardId": "20031014",
@@ -4869,7 +4869,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "70",
           "pvp": "60",
-          "nickname": "Blue Sakura"
+          "nickname": "Seal Sakura v1"
 },
 {
           "cardId": "20031015",
@@ -4901,7 +4901,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "83",
           "pvp": "73",
-          "nickname": "Depressed Hashi"
+          "nickname": "Depressed Hashi | Edo Hashi v1"
 },
 {
           "cardId": "20031019",
@@ -4933,7 +4933,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "90",
           "pvp": "82",
-          "nickname": "White Hashi"
+          "nickname": "Alive Hashi v1 | White Hashi"
 },
 {
           "cardId": "20031103",
@@ -4941,7 +4941,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "82",
           "pvp": "73",
-          "nickname": "White Tobirama"
+          "nickname": "Alive Tobirama v1 | Tobirama v1 | White Tobirama"
 },
 {
           "cardId": "20031104",
@@ -4949,7 +4949,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "89",
           "pvp": "77",
-          "nickname": "Black Madara"
+          "nickname": "Alive Madara v2 | Black Madara"
 },
 {
           "cardId": "20031105",
@@ -4957,7 +4957,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "83",
           "pvp": "85",
-          "nickname": "Black Izuna"
+          "nickname": "Izuna v1 | Black Izuna"
 },
 {
           "cardId": "20031106",
@@ -4965,7 +4965,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "83",
           "pvp": "82",
-          "nickname": "Ero Sennin"
+          "nickname": "Jiraiya v2"
 },
 {
           "cardId": "20031107",
@@ -4973,7 +4973,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "96",
           "pvp": "73",
-          "nickname": "Blue Sasori"
+          "nickname": "Sasori v2 | Blue Sasori"
 },
 {
           "cardId": "20031108",
@@ -5021,7 +5021,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "85",
           "pvp": "65",
-          "nickname": "Asakujaku"
+          "nickname": "Asakujaku Gai v1"
 },
 {
           "cardId": "20031114",
@@ -5029,7 +5029,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "82",
           "pvp": "65",
-          "nickname": "6* Lee"
+          "nickname": "Lee v2"
 },
 {
           "cardId": "20031115",
@@ -5037,7 +5037,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "92",
           "pvp": "95",
-          "nickname": "Blue Pain"
+          "nickname": "Pain v2 | Blue Pain"
 },
 {
           "cardId": "20031116",
@@ -5045,7 +5045,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "82",
           "pvp": "73",
-          "nickname": "Red Konan"
+          "nickname": "Konan v2"
 },
 {
           "cardId": "20031201",
@@ -5093,7 +5093,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "92",
           "pvp": "80",
-          "nickname": "Juubito"
+          "nickname": "Juubito v1 | Blue Obito"
 },
 {
           "cardId": "20031207",
@@ -5117,7 +5117,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "83",
           "pvp": "87",
-          "nickname": "6p Madara v2"
+          "nickname": "6P Madara v2"
 },
 {
           "cardId": "20031210",
@@ -5125,7 +5125,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "91",
           "pvp": "79",
-          "nickname": "Five Kage Sasuke"
+          "nickname": "Five Kage Sasuke v1 | Susanoo Sasuke v1"
 },
 {
           "cardId": "20031211",
@@ -5141,7 +5141,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "84",
           "pvp": "72",
-          "nickname": "Birthday Madara"
+          "nickname": "Birthday Madara | Edo Madara v3"
 },
 {
           "cardId": "20031213",
@@ -5149,7 +5149,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "82",
           "pvp": "70",
-          "nickname": "Point Hashi"
+          "nickname": "Point Hashi | Yellow Hashi"
 },
 {
           "cardId": "20031214",
@@ -5157,7 +5157,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "82",
           "pvp": "70",
-          "nickname": "Blue Hinata"
+          "nickname": "Shippuden Hinata v1"
 },
 {
           "cardId": "20031215",
@@ -5165,7 +5165,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "80",
           "pvp": "77",
-          "nickname": "Ex Hanabi"
+          "nickname": "Shippuden Hanabi v1"
 },
 {
           "cardId": "20031216",
@@ -5213,7 +5213,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "88",
           "pvp": "80",
-          "nickname": "6* Kakashi"
+          "nickname": "Kakashi v4 | Susanoo Kakashi v3 | Black Kakashi"
 },
 {
           "cardId": "20040103",
@@ -5221,7 +5221,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "87",
           "pvp": "75",
-          "nickname": "Sekizo Gai"
+          "nickname": "Sekizo Gai v1"
 },
 {
           "cardId": "20040104",
@@ -5261,7 +5261,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "81",
           "pvp": "74",
-          "nickname": "Shit Pain | White Pain"
+          "nickname": "Pain v3 | Shit Pain | White Pain"
 },
 {
           "cardId": "20040109",
@@ -5277,7 +5277,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "79",
           "pvp": "62",
-          "nickname": "Black Ashura"
+          "nickname": "Ashura v2"
 },
 {
           "cardId": "20040111",
@@ -5293,7 +5293,7 @@ window.tags=[
           "tag": "killers",
           "rate": "75",
           "pvp": "86",
-          "nickname": "Killer Indra"
+          "nickname": "Destroyer Indra v1 | Killer Indra v1"
 },
 {
           "cardId": "20040113",
@@ -5301,7 +5301,7 @@ window.tags=[
           "tag": "killers",
           "rate": "70",
           "pvp": "83",
-          "nickname": "Killer Itachi"
+          "nickname": "Destroyer Itachi v1 | Killer Itachi v1"
 },
 {
           "cardId": "20040114",
@@ -5309,7 +5309,7 @@ window.tags=[
           "tag": "killers",
           "rate": "70",
           "pvp": "83",
-          "nickname": "Killer Kisame"
+          "nickname": "Destroyer Kisame v1 | Killer Kisame 1"
 },
 {
           "cardId": "20040115",
@@ -5317,7 +5317,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "94",
           "pvp": "88",
-          "nickname": "The Good Resonance Minato"
+          "nickname": "Resonance Minato v2"
 },
 {
           "cardId": "20040116",
@@ -5325,7 +5325,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "82",
           "pvp": "78",
-          "nickname": "Shinden Shikamaru"
+          "nickname": "Shinden Shikamaru v1"
 },
 {
           "cardId": "20040117",
@@ -5333,7 +5333,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "82",
           "pvp": "78",
-          "nickname": "Shinden Temari"
+          "nickname": "Shinden Temari v1"
 },
 {
           "cardId": "20040118",
@@ -5357,7 +5357,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "87",
           "pvp": "90",
-          "nickname": "Birthday Minato"
+          "nickname": "Birthday Minato | Red Minato v2"
 },
 {
           "cardId": "20040202",
@@ -5365,7 +5365,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "95",
           "pvp": "92",
-          "nickname": "6* Kushina"
+          "nickname": "Kushina v3 | Red Kushina v2"
 },
 {
           "cardId": "20040203",
@@ -5389,7 +5389,7 @@ window.tags=[
           "tag": "killers",
           "rate": "87",
           "pvp": "93",
-          "nickname": "Killer Madara v1"
+          "nickname": "Destroyer Madara v1 | Killer Madara v1"
 },
 {
           "cardId": "20040206",
@@ -5405,7 +5405,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "88",
           "pvp": "80",
-          "nickname": "Birthday Obito"
+          "nickname": "Obito v4 | Blast Dance Obito | Birthday Obito v1"
 },
 {
           "cardId": "20040208",
@@ -5413,7 +5413,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "92",
           "pvp": "83",
-          "nickname": "Blue Izuna"
+          "nickname": "Izuna v2 | Blue Izuna"
 },
 {
           "cardId": "20040209",
@@ -5437,7 +5437,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "78",
           "pvp": "67",
-          "nickname": "Black Tayuya"
+          "nickname": "Tayuya v1"
 },
 {
           "cardId": "20040212",
@@ -5445,7 +5445,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "77",
           "pvp": "60",
-          "nickname": "Ignition Tobirama"
+          "nickname": "Tobirama v2 | Edo Tobirama v1 | Ignition Tobirama"
 },
 {
           "cardId": "20040213",
@@ -5493,7 +5493,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "84",
           "pvp": "65",
-          "nickname": "Yellow Tenten"
+          "nickname": "Tenten v2"
 },
 {
           "cardId": "20040306",
@@ -5501,7 +5501,7 @@ window.tags=[
           "tag": "killers",
           "rate": "73",
           "pvp": "83",
-          "nickname": "Killer Konan"
+          "nickname": "Destroyer Konan v1 | Killer Konan v1"
 },
 {
           "cardId": "20040307",
@@ -5509,7 +5509,7 @@ window.tags=[
           "tag": "killers",
           "rate": "71",
           "pvp": "84",
-          "nickname": "Killer Nagato"
+          "nickname": "Destroyer Nagato v1 | Killer Nagato v1"
 },
 {
           "cardId": "20040308",
@@ -5517,7 +5517,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "85",
           "pvp": "72",
-          "nickname": "Black Kisame"
+          "nickname": "Kisame v1"
 },
 {
           "cardId": "20040309",
@@ -5525,7 +5525,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "94",
           "pvp": "83",
-          "nickname": "Blue Shisui"
+          "nickname": "Shisui v1"
 },
 {
           "cardId": "20040310",
@@ -5533,7 +5533,7 @@ window.tags=[
           "tag": "killers",
           "rate": "73",
           "pvp": "84",
-          "nickname": "Killer Deidara"
+          "nickname": "Destroyer Deidara v1 | Killer Deidara v1"
 },
 {
           "cardId": "20040311",
@@ -5541,7 +5541,7 @@ window.tags=[
           "tag": "killers",
           "rate": "79",
           "pvp": "86",
-          "nickname": "Killer Sasori"
+          "nickname": "Destroyer Sasori v1 | Killer Sasori v1"
 },
 {
           "cardId": "20040312",
@@ -5549,7 +5549,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "87",
           "pvp": "83",
-          "nickname": "White Sakura"
+          "nickname": "Sakura v2 | Birthday Sakura v1 | White Sakura"
 },
 {
           "cardId": "20040313",
@@ -5621,7 +5621,7 @@ window.tags=[
           "tag": "killers",
           "rate": "65",
           "pvp": "76",
-          "nickname": "Killer Masked Man"
+          "nickname": "Destroyer Mased Man v1 | Killer Masked Man v1"
 },
 {
           "cardId": "20040403",
@@ -5661,7 +5661,7 @@ window.tags=[
           "tag": "killers",
           "rate": "82",
           "pvp": "80",
-          "nickname": "Killer Rin"
+          "nickname": "Destroyer Rin v1 | Killer Rin v1"
 },
 {
           "cardId": "20040408",
@@ -5677,7 +5677,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "81",
           "pvp": "69",
-          "nickname": "Black Hagoromo"
+          "nickname": "Hagoromo v1"
 },
 {
           "cardId": "20040410",
@@ -5685,7 +5685,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "85",
           "pvp": "73",
-          "nickname": "White Hamura"
+          "nickname": "Hamura v1"
 },
 {
           "cardId": "20040411",
@@ -5693,7 +5693,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "94",
           "pvp": "70",
-          "nickname": "Ex Mangetsu"
+          "nickname": "Mangetsu v1"
 },
 {
           "cardId": "20040412",
@@ -5701,7 +5701,7 @@ window.tags=[
           "tag": "killers",
           "rate": "90",
           "pvp": "93",
-          "nickname": "Female Pain"
+          "nickname": "Destroyer Female Pain v1 | Killer Female Pain v1"
 },
 {
           "cardId": "20040414",
@@ -5709,7 +5709,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "92",
           "pvp": "73",
-          "nickname": "Black Man"
+          "nickname": "Darui v2"
 },
 {
           "cardId": "20040415",
@@ -5717,7 +5717,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "81",
           "pvp": "65",
-          "nickname": "Curse Seal Sasuke"
+          "nickname": "Curse Seal Sasuke v1"
 },
 {
           "cardId": "20040416",
@@ -5725,7 +5725,7 @@ window.tags=[
           "tag": "killers",
           "rate": "68",
           "pvp": "80",
-          "nickname": "Killer Hidan"
+          "nickname": "Destroyer Hidan v1 | Killer Hidan v1"
 },
 {
           "cardId": "20040417",
@@ -5733,7 +5733,7 @@ window.tags=[
           "tag": "killers",
           "rate": "72",
           "pvp": "85",
-          "nickname": "Killer Kakuzu"
+          "nickname": "Destroyer Kakuzu v1 | Killer Kakuzu v1"
 },
 {
           "cardId": "20040418",
@@ -5765,7 +5765,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "83",
           "pvp": "75",
-          "nickname": "Shinden Naruto v2"
+          "nickname": "Shinden Naruto v3"
 },
 {
           "cardId": "20040504",
@@ -5789,7 +5789,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "87",
           "pvp": "91",
-          "nickname": "Yellow Deidara"
+          "nickname": "Deidara v2 | Yellow Deidara"
 },
 {
           "cardId": "20040507",
@@ -5797,7 +5797,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "85",
           "pvp": "75",
-          "nickname": "Kirin v3"
+          "nickname": "Kirin Sasuke v3 | Kirin v3"
 },
 {
           "cardId": "20040508",
@@ -5805,7 +5805,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "98",
           "pvp": "99",
-          "nickname": "White Itachi"
+          "nickname": "Akatsuki Itachi v2 | White Itachi"
 },
 {
           "cardId": "20040509",
@@ -5813,7 +5813,7 @@ window.tags=[
           "tag": "killers",
           "rate": "68",
           "pvp": "80",
-          "nickname": "Killer Tobi"
+          "nickname": "Destroyer Tobi v1 | Killer Tobi v1"
 },
 {
           "cardId": "20040511",
@@ -5837,7 +5837,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "85",
           "pvp": "87",
-          "nickname": "Red Iruka"
+          "nickname": "Iruka v1"
 },
 {
           "cardId": "20040515",
@@ -5933,7 +5933,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "87",
           "pvp": "92",
-          "nickname": "Birthday Itachi"
+          "nickname": "Akatsuki Itachi v3 | Yellow Itachi | Birthday Itachi v1"
 },
 {
           "cardId": "20040606",
@@ -5941,7 +5941,7 @@ window.tags=[
           "tag": "killers",
           "rate": "84",
           "pvp": "92",
-          "nickname": "Killer Izuna"
+          "nickname": "Destroyer Izuna v1 | Killer Izuna v1"
 },
 {
           "cardId": "20040607",
@@ -5949,7 +5949,7 @@ window.tags=[
           "tag": "killers",
           "rate": "63",
           "pvp": "86",
-          "nickname": "Killer Black Madara"
+          "nickname": "Destroyer Madara v2 | Killer Madara v2"
 },
 {
           "cardId": "20040608",
@@ -5957,7 +5957,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "86",
           "pvp": "93",
-          "nickname": "Red Kurenai"
+          "nickname": "Kurenai v2"
 },
 {
           "cardId": "20040609",
@@ -5965,7 +5965,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "83",
           "pvp": "84",
-          "nickname": "Blue Zabuza"
+          "nickname": "Zabuza v1"
 },
 {
           "cardId": "20040610",
@@ -5973,7 +5973,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "84",
           "pvp": "85",
-          "nickname": "Black Haku"
+          "nickname": "Haku v1"
 },
 {
           "cardId": "20040611",
@@ -6013,7 +6013,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "87",
           "pvp": "80",
-          "nickname": "Yellow Neji"
+          "nickname": "Neji v2 | Yellow Neji"
 },
 {
           "cardId": "20040704",
@@ -6021,7 +6021,7 @@ window.tags=[
           "tag": "killers",
           "rate": "70",
           "pvp": "83",
-          "nickname": "Killer Red Pain"
+          "nickname": "Destroyer Pain v1 | Killer Pain v1"
 },
 {
           "cardId": "20040705",
@@ -6029,7 +6029,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "85",
           "pvp": "94",
-          "nickname": "Yellow Kushina"
+          "nickname": "Birthday Kushina v1"
 },
 {
           "cardId": "20040706",
@@ -6037,7 +6037,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "89",
           "pvp": "87",
-          "nickname": "Kcm Naruto v2"
+          "nickname": "KCM Naruto v2"
 },
 {
           "cardId": "20040707",
@@ -6045,7 +6045,7 @@ window.tags=[
           "tag": "killers",
           "rate": "65",
           "pvp": "92",
-          "nickname": "Killer Kimimaro"
+          "nickname": "Destroyer Kimimaro v1 | Killer Kimimaro v1"
 },
 {
           "cardId": "20040708",
@@ -6053,7 +6053,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "80",
           "pvp": "90",
-          "nickname": "White Sasuke"
+          "nickname": "Shippuden Sasuke v1"
 },
 {
           "cardId": "20040709",
@@ -6149,7 +6149,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "91",
           "pvp": "87",
-          "nickname": "White Hagoromo"
+          "nickname": "Hagoromo v2"
 },
 {
           "cardId": "20040809",
@@ -6157,7 +6157,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "95",
           "pvp": "98",
-          "nickname": "Black Hamura"
+          "nickname": "Hamura v2"
 },
 {
           "cardId": "20040810",
@@ -6165,7 +6165,7 @@ window.tags=[
           "tag": "killers",
           "rate": "82",
           "pvp": "95",
-          "nickname": "Killer Limbo Madara"
+          "nickname": "Destroyer 6P Madara v1| Killer 6P Madara v1"
 },
 {
           "cardId": "20040810",
@@ -6173,7 +6173,7 @@ window.tags=[
           "tag": "kami-destroyer",
           "rate": "75",
           "pvp": "96",
-          "nickname": "Killer Kaguya"
+          "nickname": "God Destroyer Kaguya v1 | God Killer Kaguya v1"
 },
 {
           "cardId": "20040901",
@@ -6197,7 +6197,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "85",
           "pvp": "70",
-          "nickname": "Yagai v3"
+          "nickname": "Night Gai v3"
 },
 {
           "cardId": "20040904",
@@ -6205,7 +6205,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "82",
           "pvp": "84",
-          "nickname": "Good Gaara | War Gaara"
+          "nickname": "Gaara v3 | Blue Gaara"
 },
 {
           "cardId": "20040905",
@@ -6213,7 +6213,7 @@ window.tags=[
           "tag": "killers",
           "rate": "70",
           "pvp": "-",
-          "nickname": "Killer Rage Obito"
+          "nickname": "Destroyer Rage Obito v1 | Killer Rage Obito v1"
 },
 {
           "cardId": "20040906",
@@ -6221,7 +6221,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "98",
           "pvp": "98",
-          "nickname": "Birthday Kakashi"
+          "nickname": "Birthday Kakashi | Susanoo Kakashi v4"
 },
 {
           "cardId": "20040907",
@@ -6229,7 +6229,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "75",
           "pvp": "60",
-          "nickname": "Ex Hiruzen | Third Hokage"
+          "nickname": "Hiruzen v1 | Third Hokage v1 | Old Man v1"
 },
 {
           "cardId": "20040908",
@@ -6237,7 +6237,7 @@ window.tags=[
           "tag": "killers",
           "rate": "-",
           "pvp": "-",
-          "nickname": "Killer Nagato"
+          "nickname": "Destroyer Nagato v2 | Killer Nagato v2"
 },
 {
           "cardId": "20040909",
@@ -6277,7 +6277,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "",
           "pvp": "",
-          "nickname": "Another Kushina"
+          "nickname": "Kushina v4 | Blue Kushina"
 },
 {
           "cardId": "20041006",
@@ -6285,7 +6285,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "",
           "pvp": "",
-          "nickname": "2018 Birthday Naruto"
+          "nickname": "Rainbow Naruto | Birthday Naruto v2"
 },
 {
           "cardId": "20041009",
@@ -6293,7 +6293,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "",
           "pvp": "",
-          "nickname": "Black Hashi"
+          "nickname": "Alive Hashi v3 | Black Hashi"
 },
 {
           "cardId": "20041010",
@@ -6317,7 +6317,7 @@ window.tags=[
           "tag": "killers",
           "rate": "",
           "pvp": "",
-          "nickname": "Killer Orochimaru"
+          "nickname": "Destroyer Orochimaru v1 | Killer Orochimaru v1"
 },
 {
           "cardId": "20041101",
@@ -6341,7 +6341,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "",
           "pvp": "",
-          "nickname": "Insta Kill Obito"
+          "nickname": "Juubito v2 | Insta Kill Obito"
 },
 {
           "cardId": "20041104",
@@ -6349,7 +6349,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "",
           "pvp": "",
-          "nickname": "Bday Sasori"
+          "nickname": "Sasori v3"
 },
 {
           "cardId": "20041105",
@@ -6357,7 +6357,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "",
           "pvp": "",
-          "nickname": "Counter Jiraiya | White Jiraiya"
+          "nickname": "Counter Jiraiya | Hari Jizo Jiraiya | White Jiraiya"
 },
 {
           "cardId": "20041106",
@@ -6365,7 +6365,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "",
           "pvp": "",
-          "nickname": "Black Tsunade"
+          "nickname": "Tsunade v4"
 },
 {
           "cardId": "20041109",
@@ -6373,7 +6373,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "",
           "pvp": "",
-          "nickname": "pts lee"
+          "nickname": "PTS Lee"
 },
 {
           "cardId": "20041110",
@@ -6381,7 +6381,7 @@ window.tags=[
           "tag": "killers",
           "rate": "",
           "pvp": "",
-          "nickname": "Killer Sasuke"
+          "nickname": "Destroyer Sasuke v1 | Killer Sasuke v1"
 },
 {
           "cardId": "20041112",
@@ -6389,7 +6389,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "",
           "pvp": "",
-          "nickname": "White Tenten"
+          "nickname": "6P Tenten v2"
 },
 {
           "cardId": "20041201",
@@ -6413,7 +6413,7 @@ window.tags=[
           "tag": "kami-destroyer",
           "rate": "",
           "pvp": "",
-          "nickname": "God Killer Madara"
+          "nickname": "God Destroyer Madara v1 | God Killer Madara v1"
 },
 {
           "cardId": "20041205",
@@ -6421,7 +6421,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "",
           "pvp": "",
-          "nickname": "Red Shisui"
+          "nickname": "Shisui v2 | Red Shisui"
 },
 {
           "cardId": "20041206",
@@ -6429,7 +6429,7 @@ window.tags=[
           "tag": "killers",
           "rate": "",
           "pvp": "",
-          "nickname": "Killer Anbu Itachi"
+          "nickname": "Destroyer Anbu Itachi v1 | Killer Anbu Itachi v1"
 },
 {
           "cardId": "20041207",
