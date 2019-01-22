@@ -8,13 +8,9 @@ var aggrsz = true;
 var aggrtimeout = 30000;
 var fs = require('fs');
 var Promise = require('bluebird');
-
-
-client.on('ready', () => {
-    console.log(`Logged in as ${client.user.tag}!`);
-    client.user.setPresence({ game: { name: 'Reaction Menu Added' }, status: 'busy' });
-});
-
+var url = ""
+var db = []
+var nickarr = []
 
 
 const abilitys = JSON.parse(fs.readFileSync("../common/eng/ability.js", "utf8").slice(15));
@@ -30,8 +26,12 @@ var animation = fs.readFileSync('../modified/990402.plist.json', 'utf8')
 animation = "[" + animation + "]"
 const animations = JSON.parse(animation);
 
+client.on('ready', () => {
+    console.log(`Logged in as ${client.user.tag}!`);
+    client.user.setPresence({ game: { name: 'Reaction Menu Added' }, status: 'busy' });
+});
 
-var nickarr = []
+
 for (let i in tag) {
     if (tag[i].nickname !== '') {
         if (nickarr.indexOf(tag[i].nickname) == '-1') {
@@ -40,17 +40,11 @@ for (let i in tag) {
     }
 }
 
-var url = ""
-var db = []
-
-
 
 for (let i in characterInfo) {
     var info = []
     // var key = characterInfo[i]['cardId']
     var id = characterInfo[i]['cardId']
-
-
     var data = {
         id: {
             id: id,
@@ -63,13 +57,8 @@ for (let i in characterInfo) {
             title: characterInfo[i]['cardSubName'],
         }
     };
-
     db.push(data)
-
 }
-
-// check6Star()   
-
 
 
 function check6Star(x) {
@@ -109,9 +98,7 @@ function getFromIDs(id, Star) {
                 }
             }
         }
-
         else {
-
             for (let i in db) {
                 if (db[i]['id']['id'] == id) {
                     arr.push(Star[0])
@@ -124,15 +111,9 @@ function getFromIDs(id, Star) {
                     resolve(arr)
                 }
             }
-
-
         }
-
     })
 }
-
-
-
 
 
 function editInfo(msg, abc, x, Ids) {
@@ -163,14 +144,9 @@ function editInfo(msg, abc, x, Ids) {
                 value: "" + abc[4]
             }
             ],
-
         }
     })
 }
-
-
-
-
 
 
 function sendMessage(msg, abc, x, Ids) {
@@ -201,42 +177,36 @@ function sendMessage(msg, abc, x, Ids) {
                 value: "" + abc[4]
             }
             ],
-
         }
     })
-
-        .then(function (message) {
-            message.react("🇮")
-            message.react("🇦")
-            message.react("🇹")
-            message.react("🇻")
-            message.react("👌")
-            client.on("messageReactionAdd", (reaction, user) => {
-
-                let author = msg.author.id
-                if (author == user.id) {
-                        
-                                    if (reaction.emoji.name == "🇦") {
-                                        editArt(message, abc, x)
-                                    }
-                                    if (reaction.emoji.name == "🇹") {
-                                        editThumb(message, abc, x)
-                                    }
-                                    if (reaction.emoji.name == "🇮") {
-                                        editInfo(message, abc, x, Ids)
-                                    }
-                                    if (reaction.emoji.name == "🇻") {
-                                        editVideo(message, abc, x, Ids)
-                                    }
-                                    if (reaction.emoji.name == "👌") {
-                                        message.delete()
-                                    }
-                                
-                            
-                        }
-                    })
-                })
+    .then(function (message) {
+        message.react("🇮")
+        message.react("🇦")
+        message.react("🇹")
+        message.react("🇻")
+        message.react("👌")
+        client.on("messageReactionAdd", (reaction, user) => {
+            let author = msg.author.id
+            if (author == user.id) {
+                if (reaction.emoji.name == "🇦") {
+                    editArt(message, abc, x)
+                }
+                if (reaction.emoji.name == "🇹") {
+                    editThumb(message, abc, x)
+                }
+                if (reaction.emoji.name == "🇮") {
+                    editInfo(message, abc, x, Ids)
+                }
+                if (reaction.emoji.name == "🇻") {
+                    editVideo(message, abc, x, Ids)
+                }
+                if (reaction.emoji.name == "👌") {
+                    message.delete()
+                }
             }
+        })
+    })
+}
 
 
 function getAbilities(id) {
@@ -285,6 +255,7 @@ function getType(id) {
     })
 }
 
+
 function getSpeed(id) {
     return new Promise(function (resolve, reject) {
         var arr = [];
@@ -305,22 +276,18 @@ function getSpeed(id) {
 }
 
 
-
-
-
-
 function getName(id) {
     return new Promise(function (resolve, reject) {
         var arr = [];
         for (let a in charNames) {
             if (charNames[a]['charaProfileId'] == id) {
-
                 arr.push(charNames[a]['name'])
                 resolve(arr)
             }
         }
     })
 }
+
 
 function getVideo(id) {
     return new Promise(function (resolve, reject) {
@@ -331,7 +298,6 @@ function getVideo(id) {
                     video = animations[0]["resData"][990402]['gachaCardAdditionM'][i]['skillUrl']
                 }
             }
-
         }
         resolve(video)
     })
@@ -360,13 +326,10 @@ function checkURL(x) {
             }
             else {
                 resolve(".png")
-
             }
         });
     })
 }
-
-
 
 
 client.on('message', msg => {
@@ -376,39 +339,30 @@ client.on('message', msg => {
             sanitize(msg, aggrtimeout);
         }
     }
-
-
+    
     if (msg.content.split(" ")[0] === '!ID' || msg.content.split(" ")[0] === '!id') {
         var x = [msg.content.split(" ")[1]]
         x = x[0]
         findID(x, msg)
     }
 
-
     if (msg.content.split(" ")[0] === '!nick' || msg.content.split(" ")[0] === '!Nick' || msg.content.split(" ")[0] === '!NICK') {
         var x = msg.content.slice(6);
-        console.log(x)
-
         for (let i in tag) {
             if (tag[i].nickname.toLowerCase().includes(x.toLowerCase())) {
                 x = tag[i].cardId
             }
-
         }
         findID(x, msg)
-
     }
 
     if (msg.content.split(" ")[0] === '!thumb' || msg.content.split(" ")[0] === '!Thumb' || msg.content.split(" ")[0] === '!THUMB') {
         var charInfo = []
         var x = msg.content.slice(7);
-        console.log(x)
-
         for (let i in tag) {
             if (tag[i].nickname.toLowerCase().includes(x.toLowerCase())) {
                 x = tag[i].cardId
             }
-
         }
         check6Star(x).then(function (Star) {
             getFromIDs(x, Star).then(function (Ids) {
@@ -424,27 +378,20 @@ client.on('message', msg => {
                 charInfo.push(getSpeed(Ids[3]))    //9
                 charInfo.push(getType(Ids[3]))    //10
 
-
                 Promise.all(charInfo).then(function (abc) {
-
-
                     sendThumb(msg, abc, x)
                 });
             })
         })
-
     }
 
     if (msg.content.split(" ")[0] === '!art' || msg.content.split(" ")[0] === '!Art' || msg.content.split(" ")[0] === '!ART') {
         var charInfo = []
         var x = msg.content.slice(5);
-        console.log(x)
-
         for (let i in tag) {
             if (tag[i].nickname.toLowerCase().includes(x.toLowerCase())) {
                 x = tag[i].cardId
             }
-
         }
         check6Star(x).then(function (Star) {
             getFromIDs(x, Star).then(function (Ids) {
@@ -460,15 +407,11 @@ client.on('message', msg => {
                 charInfo.push(getSpeed(Ids[3]))    //9
                 charInfo.push(getType(Ids[3]))    //10
 
-
                 Promise.all(charInfo).then(function (abc) {
-
-
                     sendArt(msg, abc, x)
                 });
             })
         })
-
     }
 
     // //STUPID STUFF
@@ -527,11 +470,9 @@ client.on('message', msg => {
                     value: "WIP"
                 },
                 ],
-
             }
         })
     }
-
 });
 
 
@@ -541,9 +482,7 @@ function sanitize(message, time) {
     }
 }
 
-//client.login(process.env.token);
-client.login("NDc5Mzc2ODA5Njk2MTY1ODk5.DlYXOA.NzstonimHwwSR6eGfMyBzycF0Is")
-
+client.login(process.env.token);
 
 function sendThumb(msg, abc, x) {
     msg.channel.send({
@@ -555,6 +494,7 @@ function sendThumb(msg, abc, x) {
     });
 }
 
+
 function editThumb(msg, abc, x) {
     msg.edit({
         "embed": {
@@ -565,6 +505,7 @@ function editThumb(msg, abc, x) {
     });
 }
 
+
 function sendArt(msg, abc, x) {
     msg.channel.send({
         "embed": {
@@ -574,6 +515,7 @@ function sendArt(msg, abc, x) {
         }
     });
 }
+
 
 function editArt(msg, abc, x) {
     msg.edit({
@@ -594,7 +536,6 @@ function editVideo(msg, abc, x) {
 }
 
 
-
 function findID(x, msg) {
     var charInfo = []
     check6Star(x).then(function (Star) {
@@ -612,11 +553,7 @@ function findID(x, msg) {
             charInfo.push(getType(Ids[3]))    //10
             charInfo.push(getVideo(x))        //11
 
-
-
             Promise.all(charInfo).then(function (abc) {
-
-
                 sendMessage(msg, abc, x, Ids)
             });
         })
