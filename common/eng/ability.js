@@ -18387,6 +18387,24 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2101",
+          "abilityName": "Essence of Fame",
+          "abilityDescription": "For 2 turns, Chakra Cost is set to 0, immune to Debuff and Status Effects",
+          "abilityEffectDescription": "2回行動するまでチャクラ消費0、弱体と状態異常を無効化",
+          "effectIdx1": "1646",
+          "effectIdx2": "880",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2102",
+          "abilityName": "Flickering Movement Control",
+          "abilityDescription": "Act first at the start of the battle. High chance to dodge Skills",
+          "abilityEffectDescription": "バトル開始時に先制攻撃、高確率でスキルを回避する",
+          "effectIdx1": "2068",
+          "effectIdx2": "968",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -18772,5 +18790,5 @@ window.ability=[
           "effectIdx1": "13079",
           "effectIdx2": "734",
           "effectIdx3": "0"
-        },
+        }
 ]

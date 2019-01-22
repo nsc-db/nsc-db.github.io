@@ -6560,6 +6560,14 @@ window.tags=[
           "nickname": "Killer Gaara"
 },
 {
+          "cardId": "20050113",
+          "rare": "5",
+          "tag": "origins",
+          "rate": "",
+          "pvp": "",
+          "nickname": "Origin Minato"
+},
+{
           "cardId": "20050114",
           "rare": "5",
           "tag": "ex-6",

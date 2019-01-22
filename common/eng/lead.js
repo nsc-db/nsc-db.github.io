@@ -10660,6 +10660,19 @@ window.lead=[
           "target2Param": "2"
         },
         {
+          "cardLeaderSkillId": "838",
+          "name": "超時空の旋光",
+          "description": "Konoha HP +100% and SPD +70%",
+          "effectIdx1": "684",
+          "effectIdx2": "13069",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

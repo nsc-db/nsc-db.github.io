@@ -5612,6 +5612,10 @@ window.skillname=[
           "name": "お前の手筈が悪い！"
         },
         {
+          "cardBattleSkillNameId": "2605",
+          "name": "ここで仕留めなければ！！"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },
