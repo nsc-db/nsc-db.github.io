@@ -16750,5 +16750,37 @@ window.gear=[
           "crystalImageId": "201285",
           "recipeId": "20128",
           "recipeName": "テマリの手袋"
+        },
+        {
+          "crystalId": "20129",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "501",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "人傀儡・蠍",
+          "crystalDescription": "武器タイプのスキルダメージを50％アップする",
+          "crystalImageId": "201295",
+          "recipeId": "20129",
+          "recipeName": "人傀儡・蠍"
+        },
+        {
+          "crystalId": "20130",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "859",
+          "effectIdx2": "1768",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "本物を操る傀儡忍者",
+          "crystalDescription": "チャクラ消費量30％ダウン、行動後にチャクラ20％回復",
+          "crystalImageId": "201305",
+          "recipeId": "20130",
+          "recipeName": "本物を操る傀儡忍者"
         }
 ]
