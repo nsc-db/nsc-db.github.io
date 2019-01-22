@@ -12,6 +12,7 @@ var url = ""
 var db = []
 var nickarr = []
 
+console.log("!Thing".toLowerCase())
 
 const abilitys = JSON.parse(fs.readFileSync("../common/eng/ability.js", "utf8").slice(15));
 const characterInfo = JSON.parse(fs.readFileSync('../common/eng/chara.js', 'utf8').slice(13));
@@ -340,13 +341,13 @@ client.on('message', msg => {
         }
     }
     
-    if (msg.content.split(" ")[0] === '!ID' || msg.content.split(" ")[0] === '!id') {
+    if (msg.content.split(" ")[0].toLowerCase() === '!id') {
         var x = [msg.content.split(" ")[1]]
         x = x[0]
         findID(x, msg)
     }
 
-    if (msg.content.split(" ")[0] === '!nick' || msg.content.split(" ")[0] === '!Nick' || msg.content.split(" ")[0] === '!NICK') {
+    if (msg.content.split(" ")[0].toLowerCase() === '!nick') {
         var x = msg.content.slice(6);
         for (let i in tag) {
             if (tag[i].nickname.toLowerCase().includes(x.toLowerCase())) {
@@ -356,7 +357,7 @@ client.on('message', msg => {
         findID(x, msg)
     }
 
-    if (msg.content.split(" ")[0] === '!thumb' || msg.content.split(" ")[0] === '!Thumb' || msg.content.split(" ")[0] === '!THUMB') {
+    if (msg.content.split(" ")[0].toLowerCase() === '!thumb') {
         var charInfo = []
         var x = msg.content.slice(7);
         for (let i in tag) {
@@ -385,7 +386,7 @@ client.on('message', msg => {
         })
     }
 
-    if (msg.content.split(" ")[0] === '!art' || msg.content.split(" ")[0] === '!Art' || msg.content.split(" ")[0] === '!ART') {
+    if (msg.content.split(" ")[0].toLowerCase() === '!art') {
         var charInfo = []
         var x = msg.content.slice(5);
         for (let i in tag) {
@@ -425,13 +426,13 @@ client.on('message', msg => {
     //     message.channel.send('Renshin is a bitch')
     // }
 
-    if (msg.content.split(" ")[0] === '!search' || msg.content.split(" ")[0] === '!Search') {
+    if (msg.content.split(" ")[0].toLowerCase() === '!search') {
         var charInfo = []
         var x = [msg.content.split(" ")[1]]
         x = x[0]
-        var output = nickarr.filter(s => s.includes(x))
+        var output = nickarr.filter(s => s.toLowerCase().includes(x.toLowerCase()))
         if (output != "") {
-            msg.channel.send(nickarr.filter(s => s.includes(x)))
+            msg.channel.send(output)
         }
     }
 
@@ -481,7 +482,6 @@ function sanitize(message, time) {
         message.delete(time).catch(console.log("duplicate request"));
     }
 }
-
 client.login(process.env.token);
 
 function sendThumb(msg, abc, x) {
