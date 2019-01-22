@@ -76,6 +76,6 @@ window.key=[
   ["gear", 3, "Additional"],
   ["gear", 10, "Food"],
   ["gear", 11, "Skill"],
-  ["gear", 12, "Chakra"],
+  ["gear", 12, "Chakra"]
    
 ]

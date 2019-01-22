@@ -34522,5 +34522,5 @@ window.chara=[
           "updateTime": "2019-01-15 12:39:24",
           "updateUserId": "11",
           "translated": "1"
-        },
+        }
 ]

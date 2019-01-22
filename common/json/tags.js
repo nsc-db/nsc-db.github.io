@@ -6574,5 +6574,5 @@ window.tags=[
           "rate": "",
           "pvp": "",
           "nickname": "Shippuden Temari"
-},
+}
 ]

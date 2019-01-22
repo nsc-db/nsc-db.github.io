@@ -1,18 +1,32 @@
 {
-  "name": "discord",
+  "name": "brewbot_rewrite",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
+  "main": "main.js",
   "dependencies": {
-    "bluebird": "^3.5.1",
-    "discord.js": "^11.4.2",
-    "npm": "^6.4.0",
-    "promise": "^8.0.1",
-    "url-exists": "^1.0.3"
-  }
+    "badwords": "^1.0.0",
+    "bluebird": "^3.5.3",
+    "bufferutil": "^3.0.5",
+    "discord.js": "^11.3.2",
+    "ffmpeg": "^0.0.4",
+    "request": "^2.88.0",
+    "underscore": "^1.9.1",
+    "url-exists": "^1.0.3",
+    "ytdl-core": "^0.29.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "nodemon main.js <token>",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VRu11ra/Brewbot_rewrite.git"
+  },
+  "author": "Artur J.",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/VRu11ra/Brewbot_rewrite/issues"
+  },
+  "homepage": "https://github.com/VRu11ra/Brewbot_rewrite#readme"
 }
