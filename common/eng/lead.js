@@ -9464,6 +9464,19 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "735",
+          "name": "黒秘技操演",
+          "description": "Suna Characters ATK, DEF and SPD +150%",
+          "effectIdx1": "1268",
+          "effectIdx2": "1459",
+          "effectIdx3": "967",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "2",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "736",
           "name": "白黒の狡猾者",
           "description": "Akatsuki Characters Maximum HP +120%",

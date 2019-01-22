@@ -9464,6 +9464,19 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "735",
+          "name": "黒秘技操演",
+          "description": "砂隠れの里所属の攻撃力・防御力・素早さを150％アップ",
+          "effectIdx1": "1268",
+          "effectIdx2": "1459",
+          "effectIdx3": "967",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "2",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "736",
           "name": "白黒の狡猾者",
           "description": "\"暁\"所属のHPが120％アップする",

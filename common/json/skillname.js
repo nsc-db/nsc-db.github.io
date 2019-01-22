@@ -4936,6 +4936,14 @@ window.skillname=[
           "name": "お前はどこまで見えている"
         },
         {
+          "cardBattleSkillNameId": "2414",
+          "name": "黒秘技・蠍"
+        },
+        {
+          "cardBattleSkillNameId": "2415",
+          "name": "この前とは違うぜ"
+        },
+        {
           "cardBattleSkillNameId": "2416",
           "name": "神威・夢現"
         },

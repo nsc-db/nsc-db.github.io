@@ -6469,7 +6469,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "",
           "pvp": "",
-          "nickname": "Yellow Hinata"
+          "nickname": "Shippuden Hinata v1"
 },
 {
           "cardId": "20050101",
@@ -6493,7 +6493,7 @@ window.tags=[
           "tag": "god",
           "rate": "",
           "pvp": "",
-          "nickname": "Naruto v5"
+          "nickname": "God Naruto v5"
 },
 {
           "cardId": "20050105",
@@ -6501,7 +6501,7 @@ window.tags=[
           "tag": "limited-6",
           "rate": "",
           "pvp": "",
-          "nickname": "New Year Shinden Naruto"
+          "nickname": "New Year Shinden Naruto v1"
 },
 {
           "cardId": "20050106",
@@ -6509,7 +6509,7 @@ window.tags=[
           "tag": "limited-6",
           "rate": "",
           "pvp": "",
-          "nickname": "New Year Shinden Sasuke"
+          "nickname": "New Year Shinden Sasuke v1"
 },
 {
           "cardId": "20050107",
@@ -6517,7 +6517,7 @@ window.tags=[
           "tag": "limited-6",
           "rate": "",
           "pvp": "",
-          "nickname": "New Year Shinden Sakura"
+          "nickname": "New Year Shinden Sakura v1"
 },
 {
           "cardId": "20050108",
@@ -6533,7 +6533,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "",
           "pvp": "",
-          "nickname": "Deadlock Tsunade"
+          "nickname": "Deadlock Tsunade v1"
 },
 {
           "cardId": "20050110",
@@ -6541,7 +6541,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "",
           "pvp": "",
-          "nickname": "Deadlock Jiraiya"
+          "nickname": "Deadlock Jiraiya v1"
 },
 {
           "cardId": "20050111",
@@ -6549,7 +6549,7 @@ window.tags=[
           "tag": "ex-6",
           "rate": "",
           "pvp": "",
-          "nickname": "Deadlock Orochimaru"
+          "nickname": "Deadlock Orochimaru v1"
 },
 {
           "cardId": "20050112",
@@ -6557,7 +6557,7 @@ window.tags=[
           "tag": "killers",
           "rate": "",
           "pvp": "",
-          "nickname": "Killer Gaara"
+          "nickname": "Killer Gaara v1"
 },
 {
           "cardId": "20050113",
@@ -6574,5 +6574,13 @@ window.tags=[
           "rate": "",
           "pvp": "",
           "nickname": "Shippuden Temari"
+},
+{
+          "cardId": "20050115",
+          "rare": "5",
+          "tag": "ex-6",
+          "rate": "",
+          "pvp": "",
+          "nickname": "Kankuro v1"
 }
 ]

@@ -16677,6 +16677,24 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "1887",
+          "abilityName": "Outstanding Thread Works",
+          "abilityDescription": "+400% SPD if there's an ally Gaara, HP +100%",
+          "abilityEffectDescription": "味方に我愛羅（年代問わず）がいると素早さが400%アップ、最大HPが100％アップ",
+          "effectIdx1": "2069",
+          "effectIdx2": "684",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1888",
+          "abilityName": "Extreme Black Technique",
+          "abilityDescription": "Immune to Debuffs and Status Effects. When HP is above 80%, Chakra Cost -50% and Incoming Skill Damage -50%",
+          "abilityEffectDescription": "弱体・状態異常を無効化し、HPが80％以上の時、チャクラ消費量が半減＆受ける全スキルダメージを半減",
+          "effectIdx1": "1733",
+          "effectIdx2": "1763",
+          "effectIdx3": "880"
+        },
+        {
           "abilityId": "1889",
           "abilityName": "Unparalleled Wood User",
           "abilityDescription": "Maximum Chakra +100, Chakra Recovery +10% and Immune to Cancel",

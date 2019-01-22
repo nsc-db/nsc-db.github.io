@@ -6171,6 +6171,16 @@ window.skillname=[
           "eng": "How Far Can You See"
         },
         {
+          "cardBattleSkillNameId": "2414",
+          "name": "黒秘技・蠍",
+          "eng": "Black Secret Technique: Scorpion"
+        },
+        {
+          "cardBattleSkillNameId": "2415",
+          "name": "この前とは違うぜ",
+          "eng": "This is Different from Before"
+        },
+        {
           "cardBattleSkillNameId": "2416",
           "name": "神威・夢現",
           "eng": "Kamui: Trance"
