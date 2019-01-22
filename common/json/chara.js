@@ -33741,5 +33741,5 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2019-01-18 10:37:44",
           "updateUserId": "11"
-        },
+        }
 ]
