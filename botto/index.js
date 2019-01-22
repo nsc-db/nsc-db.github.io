@@ -215,36 +215,7 @@ function sendMessage(msg, abc, x, Ids) {
 
                 let author = msg.author.id
                 if (author == user.id) {
-                    if (msg.content.split(" ")[0] === '!nick' || msg.content.split(" ")[0] === '!Nick' || msg.content.split(" ")[0] === '!NICK') {
-                        var charInfo = []
-                        var x = msg.content.slice(6);
-                        console.log(x)
-
-                        for (let i in tag) {
-                            if (tag[i].nickname.toLowerCase().includes(x.toLowerCase())) {
-                                x = tag[i].cardId
-                            }
-
-                        }
-
-                        check6Star(x).then(function (Star) {
-                            getFromIDs(x, Star).then(function (Ids) {
-                                charInfo.push(getAbilities(Ids[0]))    //0
-                                charInfo.push(getAbilities(Ids[1]))    //1
-                                charInfo.push(getSkills(Ids[2]))    //2
-                                charInfo.push(getSkills(Ids[3]))    //3
-                                charInfo.push(getLeaderSkill(Ids[4]))    //4
-                                charInfo.push(getName(Ids[5]))      //5
-                                charInfo.push(checkURL(x))    //6
-                                charInfo.push(getSpeed(Ids[2]))    //7
-                                charInfo.push(getType(Ids[2]))    //8
-                                charInfo.push(getSpeed(Ids[3]))    //9
-                                charInfo.push(getType(Ids[3]))    //10
-                                charInfo.push(getVideo(x))        //11
-
-
-
-                                Promise.all(charInfo).then(function (abc) {
+                        
                                     if (reaction.emoji.name == "🇦") {
                                         editArt(message, abc, x)
                                     }
@@ -260,14 +231,12 @@ function sendMessage(msg, abc, x, Ids) {
                                     if (reaction.emoji.name == "👌") {
                                         message.delete()
                                     }
-                                });
-                            })
-                        })
-                    }
-                }
-            });
-        })
-    }
+                                
+                            
+                        }
+                    })
+                })
+            }
 
 
 function getAbilities(id) {
@@ -641,6 +610,8 @@ function findID(x, msg) {
             charInfo.push(getType(Ids[2]))    //8
             charInfo.push(getSpeed(Ids[3]))    //9
             charInfo.push(getType(Ids[3]))    //10
+            charInfo.push(getVideo(x))        //11
+
 
 
             Promise.all(charInfo).then(function (abc) {
