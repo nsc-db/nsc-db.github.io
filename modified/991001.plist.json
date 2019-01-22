@@ -68418,6 +68418,251 @@
           "message": "…………カンクロウ"
         },
         {
+          "scriptMessageId": "26175",
+          "speechCharactorId": "19",
+          "message": "フン...こいつら\r\n木ノ葉の下忍ってとこじゃん......"
+        },
+        {
+          "scriptMessageId": "26176",
+          "speechCharactorId": "20",
+          "message": "やめときなって！\r\n後でどやされるよ！"
+        },
+        {
+          "scriptMessageId": "26177",
+          "speechCharactorId": "19",
+          "message": "うるせーのが来る前に\r\nちょっと遊んでみたいじゃん…"
+        },
+        {
+          "scriptMessageId": "26178",
+          "speechCharactorId": "381",
+          "message": "よそんちの里で\r\n何やってんだてめーは"
+        },
+        {
+          "scriptMessageId": "26179",
+          "speechCharactorId": "19",
+          "message": "クッ...ムカつくガキが\r\nもう一人..."
+        },
+        {
+          "scriptMessageId": "26180",
+          "speechCharactorId": "381",
+          "message": "失せろ"
+        },
+        {
+          "scriptMessageId": "26181",
+          "speechCharactorId": "19",
+          "message": "オレはお前みたいに\r\n利口ぶったガキが一番嫌いなんだよ..."
+        },
+        {
+          "scriptMessageId": "26182",
+          "speechCharactorId": "21",
+          "message": "カンクロウ、やめろ"
+        },
+        {
+          "scriptMessageId": "26183",
+          "speechCharactorId": "381",
+          "message": "逃がしゃあしねーよ！"
+        },
+        {
+          "scriptMessageId": "26184",
+          "speechCharactorId": "19",
+          "message": "テマリ、我愛羅を連れて先に行け！"
+        },
+        {
+          "scriptMessageId": "26185",
+          "speechCharactorId": "20",
+          "message": "ああ…"
+        },
+        {
+          "scriptMessageId": "26186",
+          "speechCharactorId": "19",
+          "message": "しょーがねーじゃん…\r\nお前の相手はオレがしてやるよ！"
+        },
+        {
+          "scriptMessageId": "26187",
+          "speechCharactorId": "54",
+          "message": "いや...！\r\nお前の相手はこっちだ...！"
+        },
+        {
+          "scriptMessageId": "26188",
+          "speechCharactorId": "19",
+          "message": "何だァ！！？\r\nどうして...この蟲共はどっから\r\n湧いて出やがった...！！？"
+        },
+        {
+          "scriptMessageId": "26189",
+          "speechCharactorId": "54",
+          "message": "チャクラの糸を伝う\r\n囮の蟲を払ったことで\r\nお前は油断した…"
+        },
+        {
+          "scriptMessageId": "26190",
+          "speechCharactorId": "19",
+          "message": "...言っとくが\r\nオレ達、砂の忍は\r\n木ノ葉ほど甘くはねーぜ"
+        },
+        {
+          "scriptMessageId": "26191",
+          "speechCharactorId": "360",
+          "message": "不意を突かれたとはいえ…\r\nあんな人形ごっこに\r\nしてやられやがって"
+        },
+        {
+          "scriptMessageId": "26192",
+          "speechCharactorId": "360",
+          "message": "まぁ...力もスピードも\r\n大したことねーな"
+        },
+        {
+          "scriptMessageId": "26193",
+          "speechCharactorId": "19",
+          "message": "なめてくれるじゃねーか…"
+        },
+        {
+          "scriptMessageId": "26194",
+          "speechCharactorId": "19",
+          "message": "なめられたまま\r\n引き下がれねーじゃんよ"
+        },
+        {
+          "scriptMessageId": "26195",
+          "speechCharactorId": "19",
+          "message": "カラクリ演劇…"
+        },
+        {
+          "scriptMessageId": "26196",
+          "speechCharactorId": "19",
+          "message": "黒秘技機々一発！！"
+        },
+        {
+          "scriptMessageId": "26197",
+          "speechCharactorId": "19",
+          "message": "終劇"
+        },
+        {
+          "scriptMessageId": "26198",
+          "speechCharactorId": "239",
+          "message": "待て！"
+        },
+        {
+          "scriptMessageId": "26199",
+          "speechCharactorId": "239",
+          "message": "我愛羅は返してもらうぜ！"
+        },
+        {
+          "scriptMessageId": "26200",
+          "speechCharactorId": "121",
+          "message": "デイダラ…\r\nお前は先に行け"
+        },
+        {
+          "scriptMessageId": "26201",
+          "speechCharactorId": "121",
+          "message": "傀儡の術か…"
+        },
+        {
+          "scriptMessageId": "26202",
+          "speechCharactorId": "121",
+          "message": "オレは人を待つのも\r\n待たすのも好きじゃねーからな…"
+        },
+        {
+          "scriptMessageId": "26203",
+          "speechCharactorId": "121",
+          "message": "すぐに終わらせる"
+        },
+        {
+          "scriptMessageId": "26204",
+          "speechCharactorId": "121",
+          "message": "筋は良い…\r\nだが...相手が悪かったな"
+        },
+        {
+          "scriptMessageId": "26205",
+          "speechCharactorId": "121",
+          "message": "お前の傀儡\r\n毒仕込みのカラクリは\r\n全てお見通しだ…"
+        },
+        {
+          "scriptMessageId": "26206",
+          "speechCharactorId": "121",
+          "message": "不思議そうな顔してるな…\r\n何故仕込みがバレた？"
+        },
+        {
+          "scriptMessageId": "26207",
+          "speechCharactorId": "121",
+          "message": "そりゃそうだ…\r\nお前の傀儡人形を造ったのは…"
+        },
+        {
+          "scriptMessageId": "26208",
+          "speechCharactorId": "121",
+          "message": "他でもない\r\nこのオレだ"
+        },
+        {
+          "scriptMessageId": "26209",
+          "speechCharactorId": "627",
+          "message": "ハァ...生きてる間は大戦なんて\r\n経験したくなかったなあ…"
+        },
+        {
+          "scriptMessageId": "26210",
+          "speechCharactorId": "627",
+          "message": "もし...もしいきなり…\r\n敵の奇襲受けて"
+        },
+        {
+          "scriptMessageId": "26211",
+          "speechCharactorId": "627",
+          "message": "一人だけ生き残って…\r\nで...人質になって色々拷問されて…"
+        },
+        {
+          "scriptMessageId": "26212",
+          "speechCharactorId": "627",
+          "message": "...さらにそのあげく敵に\r\n頭の中いじくられて"
+        },
+        {
+          "scriptMessageId": "26213",
+          "speechCharactorId": "627",
+          "message": "カルイや雷影様と戦わされて…"
+        },
+        {
+          "scriptMessageId": "26214",
+          "speechCharactorId": "628",
+          "message": "オモイ！オイ！\r\nオモイ聞いてんのか？"
+        },
+        {
+          "scriptMessageId": "26215",
+          "speechCharactorId": "628",
+          "message": "ここから下に降りる…\r\n敵の領域上空だ、ボサっとすんな！"
+        },
+        {
+          "scriptMessageId": "26216",
+          "speechCharactorId": "627",
+          "message": "あのー…\r\n一つ聞いてもいいっスか？"
+        },
+        {
+          "scriptMessageId": "26217",
+          "speechCharactorId": "628",
+          "message": "何だ？"
+        },
+        {
+          "scriptMessageId": "26218",
+          "speechCharactorId": "627",
+          "message": "隊長も戦争...初めてっスよね？"
+        },
+        {
+          "scriptMessageId": "26219",
+          "speechCharactorId": "627",
+          "message": "...不安は...ないんすか......？"
+        },
+        {
+          "scriptMessageId": "26220",
+          "speechCharactorId": "628",
+          "message": "...この戦争は\r\nこのオレ達の隊の奇襲の出来不出来で決まる…"
+        },
+        {
+          "scriptMessageId": "26221",
+          "speechCharactorId": "628",
+          "message": "戦死者の数もな…"
+        },
+        {
+          "scriptMessageId": "26222",
+          "speechCharactorId": "628",
+          "message": "成功する事だけ考えろ！"
+        },
+        {
+          "scriptMessageId": "26223",
+          "speechCharactorId": "628",
+          "message": "家族と仲間を守りたいならな！"
+        },
+        {
           "scriptMessageId": "40001",
           "speechCharactorId": "178",
           "message": "絶望しかないこの世界に\r\n存在する価値はない"

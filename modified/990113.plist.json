@@ -21112,7 +21112,7 @@
         },
         {
           "cardEffectId": "1763",
-          "timing": "1",
+          "timing": "4",
           "conditionType": "1",
           "conditionLower": "8000",
           "conditionUpper": "10000",
@@ -22972,7 +22972,7 @@
         },
         {
           "cardEffectId": "1924",
-          "timing": "4",
+          "timing": "10",
           "conditionType": "1",
           "conditionLower": "9000",
           "conditionUpper": "10000",
@@ -24624,6 +24624,18 @@
           "effectId": "27",
           "effectParam1": "0",
           "effectParam2": "200",
+          "effectParam3": "0"
+        },
+        {
+          "cardEffectId": "2069",
+          "timing": "14",
+          "conditionType": "15",
+          "conditionLower": "13",
+          "conditionUpper": "13",
+          "parcent": "10000",
+          "effectId": "1",
+          "effectParam1": "3",
+          "effectParam2": "50000",
           "effectParam3": "0"
         },
         {
