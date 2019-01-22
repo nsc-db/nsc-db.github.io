@@ -36,10 +36,6 @@ for (let i in tag) {
     if (tag[i].nickname !== '') {
         if (nickarr.indexOf(tag[i].nickname) == '-1') {
             nickarr.push(tag[i].nickname)
-
-        }
-        else {
-            // console.log(tag[i].nickname)
         }
     }
 }
@@ -267,17 +263,11 @@ function sendMessage(msg, abc, x, Ids) {
                                 });
                             })
                         })
-
                     }
-
                 }
-
-
-
             });
-
         })
-}
+    }
 
 
 function getAbilities(id) {
@@ -420,12 +410,13 @@ client.on('message', msg => {
 
 
     if (msg.content.split(" ")[0] === '!ID' || msg.content.split(" ")[0] === '!id') {
-        findID(msg)
+        var x = [msg.content.split(" ")[1]]
+        x = x[0]
+        findID(x, msg)
     }
 
 
     if (msg.content.split(" ")[0] === '!nick' || msg.content.split(" ")[0] === '!Nick' || msg.content.split(" ")[0] === '!NICK') {
-        var charInfo = []
         var x = msg.content.slice(6);
         console.log(x)
 
@@ -435,28 +426,7 @@ client.on('message', msg => {
             }
 
         }
-        check6Star(x).then(function (Star) {
-            getFromIDs(x, Star).then(function (Ids) {
-                charInfo.push(getAbilities(Ids[0]))    //0
-                charInfo.push(getAbilities(Ids[1]))    //1
-                charInfo.push(getSkills(Ids[2]))    //2
-                charInfo.push(getSkills(Ids[3]))    //3
-                charInfo.push(getLeaderSkill(Ids[4]))    //4
-                charInfo.push(getName(Ids[5]))      //5
-                charInfo.push(checkURL(x))    //6
-                charInfo.push(getSpeed(Ids[2]))    //7
-                charInfo.push(getType(Ids[2]))    //8
-                charInfo.push(getSpeed(Ids[3]))    //9
-                charInfo.push(getType(Ids[3]))    //10
-
-
-                Promise.all(charInfo).then(function (abc) {
-
-
-                    sendMessage(msg, abc, x, Ids)
-                });
-            })
-        })
+        findID(x, msg)
 
     }
 
@@ -602,8 +572,8 @@ function sanitize(message, time) {
     }
 }
 
-client.login(process.env.token);
-
+//client.login(process.env.token);
+client.login("NDc5Mzc2ODA5Njk2MTY1ODk5.DlYXOA.NzstonimHwwSR6eGfMyBzycF0Is")
 
 
 function sendThumb(msg, abc, x) {
@@ -650,16 +620,14 @@ function editArt(msg, abc, x) {
 function editVideo(msg, abc, x) {
     var regex = /embed\//gi;
     let video = abc[11]
-    video =video.replace(regex, 'watch?v=')
-    msg.edit( video, {"embed":{}});
+    video = video.replace(regex, 'watch?v=')
+    msg.edit(video, { "embed": {} });
 }
 
 
 
-function findID(msg) {
+function findID(x, msg) {
     var charInfo = []
-    var x = [msg.content.split(" ")[1]]
-    x = x[0]
     check6Star(x).then(function (Star) {
         getFromIDs(x, Star).then(function (Ids) {
             charInfo.push(getAbilities(Ids[0]))    //0

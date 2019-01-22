@@ -6,3 +6,4 @@ beta_gear/
 test/
 blazing/
 units/js/json-gather.js
+.vscode/settings.json
