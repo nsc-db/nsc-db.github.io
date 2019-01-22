@@ -7,3 +7,5 @@ test/
 blazing/
 units/js/json-gather.js
 .vscode/settings.json
+botto/.env
+.env
