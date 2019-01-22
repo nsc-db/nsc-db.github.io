@@ -3729,6 +3729,18 @@
           "speechCharactorName": "うずまきクシナ"
         },
         {
+          "speechCharactorId": "627",
+          "cardId": "627",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "オモイ"
+        },
+        {
+          "speechCharactorId": "628",
+          "cardId": "20050115",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "カンクロウ"
+        },
+        {
           "speechCharactorId": "1000",
           "cardId": "21000091",
           "speechCharactorImgId": "1000",

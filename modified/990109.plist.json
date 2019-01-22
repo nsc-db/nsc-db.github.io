@@ -16680,6 +16680,24 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "1887",
+          "abilityName": "抜群の糸捌き",
+          "abilityDescription": "味方に我愛羅（年代問わず）がいると素早さが400%アップ、最大HPが100％アップ",
+          "abilityEffectDescription": "味方に我愛羅（年代問わず）がいると素早さが400%アップ、最大HPが100％アップ",
+          "effectIdx1": "2069",
+          "effectIdx2": "684",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1888",
+          "abilityName": "極まる黒秘技",
+          "abilityDescription": "弱体・状態異常を無効化し、HPが80％以上の時、チャクラ消費量が半減＆受ける全スキルダメージを半減",
+          "abilityEffectDescription": "弱体・状態異常を無効化し、HPが80％以上の時、チャクラ消費量が半減＆受ける全スキルダメージを半減",
+          "effectIdx1": "1733",
+          "effectIdx2": "1763",
+          "effectIdx3": "880"
+        },
+        {
           "abilityId": "1889",
           "abilityName": "無比なる木遁使い",
           "abilityDescription": "最大チャクラ量を100アップ&amp;行動後チャクラが10%回復&amp;キャンセル無効",
