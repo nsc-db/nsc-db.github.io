@@ -17,16 +17,16 @@ client.on('ready', () => {
 
 
 
-const abilitys = JSON.parse(fs.readFileSync("common/eng/ability.js", "utf8").slice(15));
-const characterInfo = JSON.parse(fs.readFileSync('common/eng/chara.js', 'utf8').slice(13));
-const charNames = JSON.parse(fs.readFileSync('common/eng/charaname.js', 'utf8').slice(17));
-const key = JSON.parse(fs.readFileSync('common/eng/key.js', 'utf8').slice(11));
-const leaderSKills = JSON.parse(fs.readFileSync('common/eng/lead.js', 'utf8').slice(12));
-const skills = JSON.parse(fs.readFileSync('common/eng/skill.js', 'utf8').slice(13));
+const abilitys = JSON.parse(fs.readFileSync("../common/eng/ability.js", "utf8").slice(15));
+const characterInfo = JSON.parse(fs.readFileSync('../common/eng/chara.js', 'utf8').slice(13));
+const charNames = JSON.parse(fs.readFileSync('../common/eng/charaname.js', 'utf8').slice(17));
+const key = JSON.parse(fs.readFileSync('../common/eng/key.js', 'utf8').slice(11));
+const leaderSKills = JSON.parse(fs.readFileSync('../common/eng/lead.js', 'utf8').slice(12));
+const skills = JSON.parse(fs.readFileSync('../common/eng/skill.js', 'utf8').slice(13));
 //const skillNames = JSON.parse(fs.readFileSync('eng/skillname.json', 'utf8'));
-const tag = JSON.parse(fs.readFileSync('common/json/tags.js', 'utf8').slice(12));
-const evo = JSON.parse(fs.readFileSync('common/json/evo.js', 'utf8').slice(11));
-var animation = fs.readFileSync('modified/990402.plist.json', 'utf8')
+const tag = JSON.parse(fs.readFileSync('../common/json/tags.js', 'utf8').slice(12));
+const evo = JSON.parse(fs.readFileSync('../common/json/evo.js', 'utf8').slice(11));
+var animation = fs.readFileSync('../modified/990402.plist.json', 'utf8')
 animation = "[" + animation + "]"
 const animations = JSON.parse(animation);
 
