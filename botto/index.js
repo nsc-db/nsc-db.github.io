@@ -131,6 +131,10 @@ function editInfo(msg, abc, x, Ids) {
             color: 3447003,
             description: abc[5] + ', ' + Ids[6],
             fields: [{
+                name: "Roles",
+                value: '**Main Role** : ' + abc[12][0] + ' **Rating**: ' + abc[12][1] + '\n**Secondary Role** : ' + abc[12][2] + ' **Rating**: ' + abc[12][3],
+            },
+            {
                 name: "Skills",
                 value: '**Skill1** : ' + abc[2] + '**\n' + abc[7] + ', ' + abc[8][1] + ', ' + abc[8][0] + '**\n**Skill2** : ' + abc[3] + '**\n' + abc[9] + ', ' + abc[10][1] + ', ' + abc[10][0] + '**',
             },
@@ -166,7 +170,8 @@ function sendMessage(msg, abc, x, Ids) {
             fields: [{
                 name: "Roles",
                 value: '**Main Role** : ' + abc[12][0] + ' **Rating**: ' + abc[12][1] + '\n**Secondary Role** : ' + abc[12][2] + ' **Rating**: ' + abc[12][3],
-            },{
+            },
+            {
                 name: "Skills",
                 value: '**Skill1** : ' + abc[2] + '**\n' + abc[7] + ', ' + abc[8][1] + ', ' + abc[8][0] + '**\n**Skill2** : ' + abc[3] + '**\n' + abc[9] + ', ' + abc[10][1] + ', ' + abc[10][0] + '**',
             },
