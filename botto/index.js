@@ -12,8 +12,6 @@ var url = ""
 var db = []
 var nickarr = []
 
-console.log("!Thing".toLowerCase())
-
 const abilitys = JSON.parse(fs.readFileSync("../common/eng/ability.js", "utf8").slice(15));
 const characterInfo = JSON.parse(fs.readFileSync('../common/eng/chara.js', 'utf8').slice(13));
 const charNames = JSON.parse(fs.readFileSync('../common/eng/charaname.js', 'utf8').slice(17));
@@ -166,6 +164,9 @@ function sendMessage(msg, abc, x, Ids) {
             color: 3447003,
             description: abc[5] + ', ' + Ids[6],
             fields: [{
+                name: "Roles",
+                value: '**Main Role** : ' + abc[12][0] + ' **Rating**: ' + abc[12][1] + '\n**Secondary Role** : ' + abc[12][2] + ' **Rating**: ' + abc[12][3],
+            },{
                 name: "Skills",
                 value: '**Skill1** : ' + abc[2] + '**\n' + abc[7] + ', ' + abc[8][1] + ', ' + abc[8][0] + '**\n**Skill2** : ' + abc[3] + '**\n' + abc[9] + ', ' + abc[10][1] + ', ' + abc[10][0] + '**',
             },
@@ -180,33 +181,33 @@ function sendMessage(msg, abc, x, Ids) {
             ],
         }
     })
-    .then(function (message) {
-        message.react("🇮")
-        message.react("🇦")
-        message.react("🇹")
-        message.react("🇻")
-        message.react("👌")
-        client.on("messageReactionAdd", (reaction, user) => {
-            let author = msg.author.id
-            if (author == user.id) {
-                if (reaction.emoji.name == "🇦") {
-                    editArt(message, abc, x)
+        .then(function (message) {
+            message.react("🇮")
+            message.react("🇦")
+            message.react("🇹")
+            message.react("🇻")
+            message.react("👌")
+            client.on("messageReactionAdd", (reaction, user) => {
+                let author = msg.author.id
+                if (author == user.id) {
+                    if (reaction.emoji.name == "🇦") {
+                        editArt(message, abc, x)
+                    }
+                    if (reaction.emoji.name == "🇹") {
+                        editThumb(message, abc, x)
+                    }
+                    if (reaction.emoji.name == "🇮") {
+                        editInfo(message, abc, x, Ids)
+                    }
+                    if (reaction.emoji.name == "🇻") {
+                        editVideo(message, abc, x, Ids)
+                    }
+                    if (reaction.emoji.name == "👌") {
+                        message.delete()
+                    }
                 }
-                if (reaction.emoji.name == "🇹") {
-                    editThumb(message, abc, x)
-                }
-                if (reaction.emoji.name == "🇮") {
-                    editInfo(message, abc, x, Ids)
-                }
-                if (reaction.emoji.name == "🇻") {
-                    editVideo(message, abc, x, Ids)
-                }
-                if (reaction.emoji.name == "👌") {
-                    message.delete()
-                }
-            }
+            })
         })
-    })
 }
 
 
@@ -305,6 +306,22 @@ function getVideo(id) {
 }
 
 
+function getRoles(id) {
+    return new Promise(function (resolve, reject) {
+        let tags = []
+        for (let i in tag) {
+            if (tag[i].cardId == id) {
+                tags.push(tag[i].role)
+                tags.push(tag[i].rolerating)
+                tags.push(tag[i].secondary)
+                tags.push(tag[i].secondaryrating)
+            }
+        } 
+        resolve(tags)
+    })
+}
+
+
 function getLeaderSkill(id) {
     return new Promise(function (resolve, reject) {
         var lead = [];
@@ -340,7 +357,7 @@ client.on('message', msg => {
             sanitize(msg, aggrtimeout);
         }
     }
-    
+
     if (msg.content.split(" ")[0].toLowerCase() === '!id') {
         var x = [msg.content.split(" ")[1]]
         x = x[0]
@@ -552,6 +569,8 @@ function findID(x, msg) {
             charInfo.push(getSpeed(Ids[3]))    //9
             charInfo.push(getType(Ids[3]))    //10
             charInfo.push(getVideo(x))        //11
+            charInfo.push(getRoles(x))        //12
+
 
             Promise.all(charInfo).then(function (abc) {
                 sendMessage(msg, abc, x, Ids)

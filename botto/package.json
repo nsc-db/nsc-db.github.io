@@ -1,5 +1,5 @@
 {
-  "name": "brewbot_rewrite",
+  "name": "riab-bot",
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
@@ -18,15 +18,5 @@
   "scripts": {
     "test": "nodemon main.js <token>",
     "start": "node index.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/VRu11ra/Brewbot_rewrite.git"
-  },
-  "author": "Artur J.",
-  "license": "Apache-2.0",
-  "bugs": {
-    "url": "https://github.com/VRu11ra/Brewbot_rewrite/issues"
-  },
-  "homepage": "https://github.com/VRu11ra/Brewbot_rewrite#readme"
+  }
 }
