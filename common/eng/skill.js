@@ -91153,7 +91153,7 @@ window.skill=[
         {
           "cardBattleSkillId": "2601",
           "nameIdx": "2597",
-          "description": "Deal 3% + 100,000 to all enemies withh a chance to inflict 'Dissolve' state. Deal 2x damaage if atleaast 1 enemy is inflicted with 'Dissolve'. Deal 5x damage if there's an ally Sakura Haruno, Jiraiya or Orochimaru. [Dissolve: Remove and Immune to Buffs and Debuffs. Deal damage and reduce DEF per turn.]",
+          "description": "Deal 3% + 100,000 to all enemies withh a chance to inflict 'Dissolve' state. Deal 2x damage if atleast 1 enemy is inflicted with 'Dissolve'. Deal 5x damage if there's an ally Sakura Haruno, Jiraiya or Orochimaru. [Dissolve: Remove and Immune to Buffs and Debuffs. Deal damage and reduce DEF per turn.]",
           "categoryId": "1",
           "levelType": "7",
           "scriptId": "2601",

@@ -5,7 +5,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000011",
@@ -13,7 +17,11 @@ window.tags=[
           "tag": "",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000021",
@@ -21,7 +29,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000031",
@@ -29,7 +41,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000041",
@@ -37,7 +53,11 @@ window.tags=[
           "tag": "",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000051",
@@ -45,7 +65,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000061",
@@ -53,7 +77,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000071",
@@ -61,7 +89,11 @@ window.tags=[
           "tag": "",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000081",
@@ -69,7 +101,11 @@ window.tags=[
           "tag": "",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000091",
@@ -77,7 +113,11 @@ window.tags=[
           "tag": "",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000101",
@@ -85,7 +125,11 @@ window.tags=[
           "tag": "",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000111",
@@ -93,7 +137,11 @@ window.tags=[
           "tag": "",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000121",
@@ -101,7 +149,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000131",
@@ -109,7 +161,11 @@ window.tags=[
           "tag": "",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000141",
@@ -117,7 +173,11 @@ window.tags=[
           "tag": "",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000151",
@@ -125,7 +185,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000161",
@@ -133,7 +197,11 @@ window.tags=[
           "tag": "",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000171",
@@ -141,7 +209,11 @@ window.tags=[
           "tag": "",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000181",
@@ -149,7 +221,11 @@ window.tags=[
           "tag": "",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000191",
@@ -157,7 +233,11 @@ window.tags=[
           "tag": "",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000201",
@@ -165,7 +245,11 @@ window.tags=[
           "tag": "",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000211",
@@ -173,7 +257,11 @@ window.tags=[
           "tag": "",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000221",
@@ -181,7 +269,11 @@ window.tags=[
           "tag": "",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000231",
@@ -189,7 +281,11 @@ window.tags=[
           "tag": "",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000241",
@@ -197,7 +293,11 @@ window.tags=[
           "tag": "",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000251",
@@ -205,7 +305,11 @@ window.tags=[
           "tag": "",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000261",
@@ -213,7 +317,11 @@ window.tags=[
           "tag": "",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000271",
@@ -221,7 +329,11 @@ window.tags=[
           "tag": "",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000281",
@@ -229,7 +341,11 @@ window.tags=[
           "tag": "",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000291",
@@ -237,7 +353,11 @@ window.tags=[
           "tag": "",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000301",
@@ -245,7 +365,11 @@ window.tags=[
           "tag": "",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000311",
@@ -253,7 +377,11 @@ window.tags=[
           "tag": "",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000321",
@@ -261,7 +389,11 @@ window.tags=[
           "tag": "",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000331",
@@ -269,7 +401,11 @@ window.tags=[
           "tag": "",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000341",
@@ -277,7 +413,11 @@ window.tags=[
           "tag": "",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000351",
@@ -285,7 +425,11 @@ window.tags=[
           "tag": "",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000361",
@@ -293,7 +437,11 @@ window.tags=[
           "tag": "",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000371",
@@ -301,7 +449,11 @@ window.tags=[
           "tag": "",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000381",
@@ -309,7 +461,11 @@ window.tags=[
           "tag": "",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000391",
@@ -317,7 +473,11 @@ window.tags=[
           "tag": "",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000401",
@@ -325,7 +485,11 @@ window.tags=[
           "tag": "",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000411",
@@ -333,7 +497,11 @@ window.tags=[
           "tag": "",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000421",
@@ -341,7 +509,11 @@ window.tags=[
           "tag": "",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000431",
@@ -349,7 +521,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000441",
@@ -357,7 +533,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000451",
@@ -365,7 +545,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000461",
@@ -373,7 +557,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000471",
@@ -381,7 +569,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000481",
@@ -389,7 +581,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000491",
@@ -397,7 +593,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000501",
@@ -405,7 +605,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000511",
@@ -413,7 +617,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000521",
@@ -421,7 +629,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000531",
@@ -429,7 +641,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000541",
@@ -437,7 +653,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000551",
@@ -445,7 +665,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000561",
@@ -453,7 +677,11 @@ window.tags=[
           "tag": "",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000571",
@@ -461,7 +689,11 @@ window.tags=[
           "tag": "",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000581",
@@ -469,7 +701,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000591",
@@ -477,7 +713,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000601",
@@ -485,7 +725,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000611",
@@ -493,7 +737,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000621",
@@ -501,7 +749,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000631",
@@ -509,7 +761,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000641",
@@ -517,7 +773,11 @@ window.tags=[
           "tag": "",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000651",
@@ -525,7 +785,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000661",
@@ -533,7 +797,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000671",
@@ -541,7 +809,11 @@ window.tags=[
           "tag": "",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000721",
@@ -549,7 +821,11 @@ window.tags=[
           "tag": "",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000731",
@@ -557,7 +833,11 @@ window.tags=[
           "tag": "",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000741",
@@ -565,7 +845,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000751",
@@ -573,7 +857,11 @@ window.tags=[
           "tag": "",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000761",
@@ -581,7 +869,11 @@ window.tags=[
           "tag": "",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000771",
@@ -589,7 +881,11 @@ window.tags=[
           "tag": "",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000781",
@@ -597,7 +893,11 @@ window.tags=[
           "tag": "",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000791",
@@ -605,7 +905,11 @@ window.tags=[
           "tag": "",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000801",
@@ -613,7 +917,11 @@ window.tags=[
           "tag": "",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000811",
@@ -621,7 +929,11 @@ window.tags=[
           "tag": "",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000821",
@@ -629,7 +941,11 @@ window.tags=[
           "tag": "",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000831",
@@ -637,7 +953,11 @@ window.tags=[
           "tag": "",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000841",
@@ -645,7 +965,11 @@ window.tags=[
           "tag": "",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000861",
@@ -653,7 +977,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000871",
@@ -661,7 +989,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000881",
@@ -669,7 +1001,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000891",
@@ -677,7 +1013,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000901",
@@ -685,7 +1025,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000911",
@@ -693,7 +1037,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000921",
@@ -701,7 +1049,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000931",
@@ -709,7 +1061,11 @@ window.tags=[
           "tag": "",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000941",
@@ -717,7 +1073,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000951",
@@ -725,7 +1085,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000961",
@@ -733,7 +1097,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000971",
@@ -741,7 +1109,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000981",
@@ -749,7 +1121,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20000991",
@@ -757,7 +1133,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001001",
@@ -765,7 +1145,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001011",
@@ -773,7 +1157,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001021",
@@ -781,7 +1169,11 @@ window.tags=[
           "tag": "",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001031",
@@ -789,7 +1181,11 @@ window.tags=[
           "tag": "",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001041",
@@ -797,7 +1193,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001051",
@@ -805,7 +1205,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001061",
@@ -813,7 +1217,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001071",
@@ -821,7 +1229,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001081",
@@ -829,7 +1241,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001091",
@@ -837,7 +1253,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001101",
@@ -845,7 +1265,11 @@ window.tags=[
           "tag": "special",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001111",
@@ -853,7 +1277,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001121",
@@ -861,7 +1289,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001131",
@@ -869,7 +1301,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001141",
@@ -877,7 +1313,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001151",
@@ -885,7 +1325,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001161",
@@ -893,7 +1337,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001171",
@@ -901,7 +1349,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001181",
@@ -909,7 +1361,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001191",
@@ -917,7 +1373,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001201",
@@ -925,7 +1385,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001211",
@@ -933,7 +1397,11 @@ window.tags=[
           "tag": "",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001221",
@@ -941,7 +1409,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001231",
@@ -949,7 +1421,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001241",
@@ -957,7 +1433,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001251",
@@ -965,7 +1445,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001261",
@@ -973,7 +1457,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001271",
@@ -981,7 +1469,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001281",
@@ -989,7 +1481,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001291",
@@ -997,7 +1493,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001301",
@@ -1005,7 +1505,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001311",
@@ -1013,7 +1517,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001321",
@@ -1021,7 +1529,11 @@ window.tags=[
           "tag": "",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001331",
@@ -1029,7 +1541,11 @@ window.tags=[
           "tag": "",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001341",
@@ -1037,7 +1553,11 @@ window.tags=[
           "tag": "",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001351",
@@ -1045,7 +1565,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001361",
@@ -1053,7 +1577,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001371",
@@ -1061,7 +1589,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001381",
@@ -1069,7 +1601,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001391",
@@ -1077,7 +1613,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001401",
@@ -1085,7 +1625,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001411",
@@ -1093,7 +1637,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001421",
@@ -1101,7 +1649,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001431",
@@ -1109,7 +1661,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001441",
@@ -1117,7 +1673,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001451",
@@ -1125,7 +1685,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001461",
@@ -1133,7 +1697,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001471",
@@ -1141,7 +1709,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001481",
@@ -1149,7 +1721,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001491",
@@ -1157,7 +1733,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001501",
@@ -1165,7 +1745,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001511",
@@ -1173,7 +1757,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001512",
@@ -1181,7 +1769,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001513",
@@ -1189,7 +1781,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001514",
@@ -1197,7 +1793,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001515",
@@ -1205,7 +1805,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001516",
@@ -1213,7 +1817,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001517",
@@ -1221,7 +1829,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001518",
@@ -1229,7 +1841,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001519",
@@ -1237,7 +1853,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "52",
           "pvp": "40",
-          "nickname": "Sage Naruto v1 | OG Sage Naruto"
+          "nickname": "Sage Naruto v1 | OG Sage Naruto",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001520",
@@ -1245,7 +1865,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001521",
@@ -1253,7 +1877,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001522",
@@ -1261,7 +1889,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001523",
@@ -1269,7 +1901,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001524",
@@ -1277,7 +1913,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001525",
@@ -1285,7 +1925,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001526",
@@ -1293,7 +1937,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001527",
@@ -1301,7 +1949,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001528",
@@ -1309,7 +1961,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001529",
@@ -1317,7 +1973,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001530",
@@ -1325,7 +1985,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001531",
@@ -1333,7 +1997,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001532",
@@ -1341,7 +2009,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001533",
@@ -1349,7 +2021,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001534",
@@ -1357,7 +2033,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001535",
@@ -1365,7 +2045,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "60",
           "pvp": "40",
-          "nickname": "Madara v1 | Edo Madara v1"
+          "nickname": "Madara v1 | Edo Madara v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001536",
@@ -1373,7 +2057,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001537",
@@ -1381,7 +2069,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001538",
@@ -1389,7 +2081,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001539",
@@ -1397,7 +2093,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001540",
@@ -1405,7 +2105,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001541",
@@ -1413,7 +2117,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001542",
@@ -1421,7 +2129,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001543",
@@ -1429,7 +2141,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001544",
@@ -1437,7 +2153,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001545",
@@ -1445,7 +2165,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001546",
@@ -1453,7 +2177,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001547",
@@ -1461,7 +2189,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001548",
@@ -1469,7 +2201,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001549",
@@ -1477,7 +2213,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001550",
@@ -1485,7 +2225,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001551",
@@ -1493,7 +2237,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001552",
@@ -1501,7 +2249,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001553",
@@ -1509,7 +2261,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001554",
@@ -1517,7 +2273,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001555",
@@ -1525,7 +2285,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001556",
@@ -1533,7 +2297,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001557",
@@ -1541,7 +2309,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001558",
@@ -1549,7 +2321,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001559",
@@ -1557,7 +2333,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "53",
           "pvp": "40",
-          "nickname": "Hashi v1 | Edo Hashi v1 | Sage Hashi v1"
+          "nickname": "Hashi v1 | Edo Hashi v1 | Sage Hashi v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001560",
@@ -1565,7 +2345,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001561",
@@ -1573,7 +2357,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001562",
@@ -1581,7 +2369,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001563",
@@ -1589,7 +2381,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001564",
@@ -1597,7 +2393,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001565",
@@ -1605,7 +2405,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001566",
@@ -1613,7 +2417,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001567",
@@ -1621,7 +2429,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001568",
@@ -1629,7 +2441,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "58",
           "pvp": "40",
-          "nickname": "Pain v1"
+          "nickname": "Pain v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001569",
@@ -1637,7 +2453,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001570",
@@ -1645,7 +2465,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001571",
@@ -1653,7 +2477,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001572",
@@ -1661,7 +2489,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001573",
@@ -1669,7 +2501,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001574",
@@ -1677,7 +2513,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001575",
@@ -1685,7 +2525,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001576",
@@ -1693,7 +2537,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001577",
@@ -1701,7 +2549,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001578",
@@ -1709,7 +2561,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001579",
@@ -1717,7 +2573,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001580",
@@ -1725,7 +2585,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001581",
@@ -1733,7 +2597,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001582",
@@ -1741,7 +2609,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001583",
@@ -1749,7 +2621,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "48",
           "pvp": "40",
-          "nickname": "Anbu Itachi v1"
+          "nickname": "Anbu Itachi v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001584",
@@ -1757,7 +2633,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001585",
@@ -1765,7 +2645,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001586",
@@ -1773,7 +2657,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001587",
@@ -1781,7 +2669,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001588",
@@ -1789,7 +2681,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001589",
@@ -1797,7 +2693,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001590",
@@ -1805,7 +2705,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001591",
@@ -1813,7 +2717,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001592",
@@ -1821,7 +2729,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "49",
           "pvp": "40",
-          "nickname": "Tsunade v1"
+          "nickname": "Tsunade v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001593",
@@ -1829,7 +2741,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001594",
@@ -1837,7 +2753,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001595",
@@ -1845,7 +2765,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001596",
@@ -1853,7 +2777,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001597",
@@ -1861,7 +2789,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001598",
@@ -1869,7 +2801,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001599",
@@ -1877,7 +2813,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001600",
@@ -1885,7 +2825,11 @@ window.tags=[
           "tag": "special",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001601",
@@ -1893,7 +2837,11 @@ window.tags=[
           "tag": "special",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001602",
@@ -1901,7 +2849,11 @@ window.tags=[
           "tag": "special",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001603",
@@ -1909,7 +2861,11 @@ window.tags=[
           "tag": "special",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001604",
@@ -1917,7 +2873,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001605",
@@ -1925,7 +2885,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001606",
@@ -1933,7 +2897,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001607",
@@ -1941,7 +2909,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001608",
@@ -1949,7 +2921,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001609",
@@ -1957,7 +2933,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001610",
@@ -1965,7 +2945,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001611",
@@ -1973,7 +2957,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001612",
@@ -1981,7 +2969,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001613",
@@ -1989,7 +2981,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "66",
           "pvp": "55",
-          "nickname": "Kakashi v1"
+          "nickname": "Kakashi v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001614",
@@ -1997,7 +2993,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001615",
@@ -2005,7 +3005,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001616",
@@ -2013,7 +3017,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001617",
@@ -2021,7 +3029,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001618",
@@ -2029,7 +3041,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001619",
@@ -2037,7 +3053,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001620",
@@ -2045,7 +3065,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001621",
@@ -2053,7 +3077,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001622",
@@ -2061,7 +3089,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "77",
           "pvp": "50",
-          "nickname": "Jiraiya v1"
+          "nickname": "Jiraiya v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001623",
@@ -2069,7 +3101,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001624",
@@ -2077,7 +3113,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001625",
@@ -2085,7 +3125,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001626",
@@ -2093,7 +3137,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001627",
@@ -2101,7 +3149,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001628",
@@ -2109,7 +3161,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001629",
@@ -2117,7 +3173,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001630",
@@ -2125,7 +3185,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001631",
@@ -2133,7 +3197,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001632",
@@ -2141,7 +3209,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001633",
@@ -2149,7 +3221,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001634",
@@ -2157,7 +3233,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001635",
@@ -2165,7 +3245,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001636",
@@ -2173,7 +3257,11 @@ window.tags=[
           "tag": "pmiles",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001637",
@@ -2181,7 +3269,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001638",
@@ -2189,7 +3281,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001639",
@@ -2197,7 +3293,11 @@ window.tags=[
           "tag": "special",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001640",
@@ -2205,7 +3305,11 @@ window.tags=[
           "tag": "special",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001641",
@@ -2213,7 +3317,11 @@ window.tags=[
           "tag": "special",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001642",
@@ -2221,7 +3329,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001643",
@@ -2229,7 +3341,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001644",
@@ -2237,7 +3353,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001645",
@@ -2245,7 +3365,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001646",
@@ -2253,7 +3377,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001647",
@@ -2261,7 +3389,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001648",
@@ -2269,7 +3401,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001649",
@@ -2277,7 +3413,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001650",
@@ -2285,7 +3425,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001651",
@@ -2293,7 +3437,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001652",
@@ -2301,7 +3449,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001653",
@@ -2309,7 +3461,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001654",
@@ -2317,7 +3473,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001655",
@@ -2325,7 +3485,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001656",
@@ -2333,7 +3497,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001657",
@@ -2341,7 +3509,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001658",
@@ -2349,7 +3521,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001659",
@@ -2357,7 +3533,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001660",
@@ -2365,7 +3545,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001661",
@@ -2373,7 +3557,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001662",
@@ -2381,7 +3569,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001663",
@@ -2389,7 +3581,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001664",
@@ -2397,7 +3593,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001665",
@@ -2405,7 +3605,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001666",
@@ -2413,7 +3617,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001667",
@@ -2421,7 +3629,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001668",
@@ -2429,7 +3641,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001669",
@@ -2437,7 +3653,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001670",
@@ -2445,7 +3665,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001671",
@@ -2453,7 +3677,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001672",
@@ -2461,7 +3689,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001673",
@@ -2469,7 +3701,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001674",
@@ -2477,7 +3713,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001675",
@@ -2485,7 +3725,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001676",
@@ -2493,7 +3737,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "75",
           "pvp": "63",
-          "nickname": "Deadlock Naruto v1"
+          "nickname": "Deadlock Naruto v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001677",
@@ -2501,7 +3749,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "80",
           "pvp": "52",
-          "nickname": "Deadlock Sasuke v1"
+          "nickname": "Deadlock Sasuke v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001678",
@@ -2509,7 +3761,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "81",
           "pvp": "40",
-          "nickname": "Deadlock Sakura v1"
+          "nickname": "Deadlock Sakura v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001679",
@@ -2517,7 +3773,11 @@ window.tags=[
           "tag": "pmiles",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001680",
@@ -2525,7 +3785,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001681",
@@ -2533,7 +3797,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001682",
@@ -2541,7 +3809,11 @@ window.tags=[
           "tag": "special",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001683",
@@ -2549,7 +3821,11 @@ window.tags=[
           "tag": "special",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001684",
@@ -2557,7 +3833,11 @@ window.tags=[
           "tag": "special",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001685",
@@ -2565,7 +3845,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001686",
@@ -2573,7 +3857,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001687",
@@ -2581,7 +3869,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001688",
@@ -2589,7 +3881,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001689",
@@ -2597,7 +3893,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001690",
@@ -2605,7 +3905,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001691",
@@ -2613,7 +3917,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001692",
@@ -2621,7 +3929,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001693",
@@ -2629,7 +3941,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001694",
@@ -2637,7 +3953,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "73",
           "pvp": "40",
-          "nickname": "Gaara v1"
+          "nickname": "Gaara v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001695",
@@ -2645,7 +3965,11 @@ window.tags=[
           "tag": "special",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001696",
@@ -2653,7 +3977,11 @@ window.tags=[
           "tag": "special",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001697",
@@ -2661,7 +3989,11 @@ window.tags=[
           "tag": "special",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001698",
@@ -2669,7 +4001,11 @@ window.tags=[
           "tag": "special",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001699",
@@ -2677,7 +4013,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001700",
@@ -2685,7 +4025,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001701",
@@ -2693,7 +4037,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001702",
@@ -2701,7 +4049,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001703",
@@ -2709,7 +4061,11 @@ window.tags=[
           "tag": "pmiles",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001704",
@@ -2717,7 +4073,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "97",
           "pvp": "98",
-          "nickname": "Black Itachi | Akatsuki Itachi v1 | Itachi v1"
+          "nickname": "Black Itachi | Akatsuki Itachi v1 | Itachi v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001705",
@@ -2725,7 +4085,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001706",
@@ -2733,7 +4097,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001707",
@@ -2741,7 +4109,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001708",
@@ -2749,7 +4121,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001709",
@@ -2757,7 +4133,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001710",
@@ -2765,7 +4145,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001711",
@@ -2773,7 +4157,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001712",
@@ -2781,7 +4169,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001713",
@@ -2789,7 +4181,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "84",
           "pvp": "65",
-          "nickname": "Night Gai v1"
+          "nickname": "Night Gai v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001714",
@@ -2797,7 +4193,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001715",
@@ -2805,7 +4205,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001716",
@@ -2813,7 +4217,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001717",
@@ -2821,7 +4229,11 @@ window.tags=[
           "tag": "special",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001718",
@@ -2829,7 +4241,11 @@ window.tags=[
           "tag": "special",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001719",
@@ -2837,7 +4253,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001720",
@@ -2845,7 +4265,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001721",
@@ -2853,7 +4277,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001722",
@@ -2861,7 +4289,11 @@ window.tags=[
           "tag": "pmiles",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001723",
@@ -2869,7 +4301,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001724",
@@ -2877,7 +4313,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001725",
@@ -2885,7 +4325,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001726",
@@ -2893,7 +4337,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001727",
@@ -2901,7 +4349,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "65",
           "pvp": "40",
-          "nickname": "Orochimaru v1"
+          "nickname": "Orochimaru v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001728",
@@ -2909,7 +4361,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001729",
@@ -2917,7 +4373,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001730",
@@ -2925,7 +4385,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001731",
@@ -2933,7 +4397,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001732",
@@ -2941,7 +4409,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001733",
@@ -2949,7 +4421,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001734",
@@ -2957,7 +4433,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "65",
           "pvp": "40",
-          "nickname": "6P Naruto v1"
+          "nickname": "6P Naruto v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001735",
@@ -2965,7 +4445,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "80",
           "pvp": "73",
-          "nickname": "Rinnegan Sasuke v1"
+          "nickname": "Rinnegan Sasuke v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001736",
@@ -2973,7 +4457,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "82",
           "pvp": "74",
-          "nickname": "6P Madara v1"
+          "nickname": "6P Madara v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001737",
@@ -2981,7 +4469,11 @@ window.tags=[
           "tag": "special",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001738",
@@ -2989,7 +4481,11 @@ window.tags=[
           "tag": "pmiles",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001739",
@@ -2997,7 +4493,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001740",
@@ -3005,7 +4505,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001741",
@@ -3013,7 +4517,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001742",
@@ -3021,7 +4529,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001743",
@@ -3029,7 +4541,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001744",
@@ -3037,7 +4553,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "76",
           "pvp": "40",
-          "nickname": "Lee v1"
+          "nickname": "Lee v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001745",
@@ -3045,7 +4565,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001746",
@@ -3053,7 +4577,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001747",
@@ -3061,7 +4589,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001748",
@@ -3069,7 +4601,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001749",
@@ -3077,7 +4613,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001750",
@@ -3085,7 +4625,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001751",
@@ -3093,7 +4637,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001752",
@@ -3101,7 +4649,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001753",
@@ -3109,7 +4661,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001754",
@@ -3117,7 +4673,11 @@ window.tags=[
           "tag": "pmiles",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001755",
@@ -3125,7 +4685,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001756",
@@ -3133,7 +4697,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001757",
@@ -3141,7 +4709,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "72",
           "pvp": "45",
-          "nickname": "Sasori v1"
+          "nickname": "Sasori v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001758",
@@ -3149,7 +4721,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001759",
@@ -3157,7 +4733,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001760",
@@ -3165,7 +4745,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001761",
@@ -3173,7 +4757,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001762",
@@ -3181,7 +4769,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001763",
@@ -3189,7 +4781,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001764",
@@ -3197,7 +4793,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001765",
@@ -3205,7 +4805,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001766",
@@ -3213,7 +4817,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001767",
@@ -3221,7 +4829,11 @@ window.tags=[
           "tag": "raid",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001768",
@@ -3229,7 +4841,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001769",
@@ -3237,7 +4853,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001770",
@@ -3245,7 +4865,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001771",
@@ -3253,7 +4877,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001772",
@@ -3261,7 +4889,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001773",
@@ -3269,7 +4901,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001774",
@@ -3277,7 +4913,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001775",
@@ -3285,7 +4925,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001776",
@@ -3293,7 +4937,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "84",
           "pvp": "81",
-          "nickname": "EoS Naruto | 6P Naruto v1"
+          "nickname": "EoS Naruto | 6P Naruto v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001777",
@@ -3301,7 +4949,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "82",
           "pvp": "47",
-          "nickname": "EoS Sasuke | Rinnegan Sasuke v2"
+          "nickname": "EoS Sasuke | Rinnegan Sasuke v2",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001778",
@@ -3309,7 +4961,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001779",
@@ -3317,7 +4973,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001780",
@@ -3325,7 +4985,11 @@ window.tags=[
           "tag": "pmiles",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001781",
@@ -3333,7 +4997,11 @@ window.tags=[
           "tag": "pmiles",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001782",
@@ -3341,7 +5009,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "72",
           "pvp": "77",
-          "nickname": "Sage Naruto v2"
+          "nickname": "Sage Naruto v2",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001783",
@@ -3349,7 +5021,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001784",
@@ -3357,7 +5033,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001785",
@@ -3365,7 +5045,11 @@ window.tags=[
           "tag": "raid",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001786",
@@ -3373,7 +5057,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "81",
           "pvp": "62",
-          "nickname": "Hashi v2 | Thousand Arms Hashi | Sage Hashi v2"
+          "nickname": "Hashi v2 | Thousand Arms Hashi | Sage Hashi v2",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001787",
@@ -3381,7 +5069,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001788",
@@ -3389,7 +5081,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001789",
@@ -3397,7 +5093,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001790",
@@ -3405,7 +5105,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001791",
@@ -3413,7 +5117,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001792",
@@ -3421,7 +5129,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001793",
@@ -3429,7 +5141,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001794",
@@ -3437,7 +5153,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "68",
           "pvp": "50",
-          "nickname": "Konan v1"
+          "nickname": "Konan v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001795",
@@ -3445,7 +5165,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001796",
@@ -3453,7 +5177,11 @@ window.tags=[
           "tag": "pmiles",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001797",
@@ -3461,7 +5189,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001798",
@@ -3469,7 +5201,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001799",
@@ -3477,7 +5213,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001800",
@@ -3485,7 +5225,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001801",
@@ -3493,7 +5237,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001802",
@@ -3501,7 +5249,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "64",
           "pvp": "50",
-          "nickname": "Sage Jiraiya v1"
+          "nickname": "Sage Jiraiya v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001803",
@@ -3509,7 +5261,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "84",
           "pvp": "66",
-          "nickname": "Deidara v1 | Blue Deidara"
+          "nickname": "Deidara v1 | Blue Deidara",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001804",
@@ -3517,7 +5273,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001805",
@@ -3525,7 +5285,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001806",
@@ -3533,7 +5297,11 @@ window.tags=[
           "tag": "mile",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001807",
@@ -3541,7 +5309,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "82",
           "pvp": "57",
-          "nickname": "Kirin Sasuke v1 | Kirin v1"
+          "nickname": "Kirin Sasuke v1 | Kirin v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001808",
@@ -3549,7 +5321,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001809",
@@ -3557,7 +5333,11 @@ window.tags=[
           "tag": "pmiles",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001810",
@@ -3565,7 +5345,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001811",
@@ -3573,7 +5357,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001812",
@@ -3581,7 +5369,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001813",
@@ -3589,7 +5381,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "75",
           "pvp": "61",
-          "nickname": "Sakura v1 | Red Sakura"
+          "nickname": "Sakura v1 | Red Sakura",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001814",
@@ -3597,7 +5393,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "77",
           "pvp": "60",
-          "nickname": "Madara v2 | Alive Madara | White Madara"
+          "nickname": "Madara v2 | Alive Madara | White Madara",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001815",
@@ -3605,7 +5405,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001816",
@@ -3613,7 +5417,11 @@ window.tags=[
           "tag": "raid",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001817",
@@ -3621,7 +5429,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "84",
           "pvp": "73",
-          "nickname": "Hinata v1 | War Hinata"
+          "nickname": "Hinata v1 | War Hinata",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001818",
@@ -3629,7 +5441,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "91",
           "pvp": "82",
-          "nickname": "Susanoo Kakashi v1 | Kakashi v2"
+          "nickname": "Susanoo Kakashi v1 | Kakashi v2",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001819",
@@ -3637,7 +5453,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "79",
           "pvp": "58",
-          "nickname": "Hirudora Gai v1"
+          "nickname": "Hirudora Gai v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001820",
@@ -3645,7 +5465,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001821",
@@ -3653,7 +5477,11 @@ window.tags=[
           "tag": "pmiles",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001822",
@@ -3661,7 +5489,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001823",
@@ -3669,7 +5501,11 @@ window.tags=[
           "tag": "special",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001824",
@@ -3677,7 +5513,11 @@ window.tags=[
           "tag": "special",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001825",
@@ -3685,7 +5525,11 @@ window.tags=[
           "tag": "special",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001826",
@@ -3693,7 +5537,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001827",
@@ -3701,7 +5549,11 @@ window.tags=[
           "tag": "limited-5",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001828",
@@ -3709,7 +5561,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001829",
@@ -3717,7 +5573,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001830",
@@ -3725,7 +5585,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "82",
           "pvp": "88",
-          "nickname": "Minato v1 | Red Minato v1 | KCM Minato v1"
+          "nickname": "Minato v1 | Red Minato v1 | KCM Minato v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001831",
@@ -3733,7 +5597,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "84",
           "pvp": "93",
-          "nickname": "Kushina v1 | Red Kushina v1"
+          "nickname": "Kushina v1 | Red Kushina v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001832",
@@ -3741,7 +5609,11 @@ window.tags=[
           "tag": "pmiles",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001833",
@@ -3749,7 +5621,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001834",
@@ -3757,7 +5633,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001836",
@@ -3765,7 +5645,11 @@ window.tags=[
           "tag": "special",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001837",
@@ -3773,7 +5657,11 @@ window.tags=[
           "tag": "special",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001838",
@@ -3781,7 +5669,11 @@ window.tags=[
           "tag": "special",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001839",
@@ -3789,7 +5681,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "83",
           "pvp": "74",
-          "nickname": "Obito v1 | Black Obito v1"
+          "nickname": "Obito v1 | Black Obito v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001840",
@@ -3797,7 +5693,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001841",
@@ -3805,7 +5705,11 @@ window.tags=[
           "tag": "raid",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001842",
@@ -3813,7 +5717,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001843",
@@ -3821,7 +5729,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001844",
@@ -3829,7 +5741,11 @@ window.tags=[
           "tag": "limited-5",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001845",
@@ -3837,7 +5753,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001846",
@@ -3845,7 +5765,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001847",
@@ -3853,7 +5777,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001848",
@@ -3861,7 +5789,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "76",
           "pvp": "65",
-          "nickname": "Shinden Sasuke v1"
+          "nickname": "Shinden Sasuke v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001849",
@@ -3869,7 +5801,11 @@ window.tags=[
           "tag": "pmiles",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001850",
@@ -3877,7 +5813,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001851",
@@ -3885,7 +5825,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "93",
           "pvp": "71",
-          "nickname": "6P Tenten v1 | God Tenten"
+          "nickname": "6P Tenten v1 | God Tenten",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001852",
@@ -3893,7 +5837,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001853",
@@ -3901,7 +5849,11 @@ window.tags=[
           "tag": "pvp-reward",
           "rate": "83",
           "pvp": "82",
-          "nickname": "Champion Naruto"
+          "nickname": "Champion Naruto",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001854",
@@ -3909,7 +5861,11 @@ window.tags=[
           "tag": "limited-5",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001855",
@@ -3917,7 +5873,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "77",
           "pvp": "80",
-          "nickname": "Hidan v1"
+          "nickname": "Hidan v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001856",
@@ -3925,7 +5885,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "63",
           "pvp": "57",
-          "nickname": "Kakuzu v2"
+          "nickname": "Kakuzu v2",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001857",
@@ -3933,7 +5897,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "64",
           "pvp": "57",
-          "nickname": "Shinden Sakura v1"
+          "nickname": "Shinden Sakura v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001858",
@@ -3941,7 +5909,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001859",
@@ -3949,7 +5921,11 @@ window.tags=[
           "tag": "pmiles",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001860",
@@ -3957,7 +5933,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "75",
           "pvp": "63",
-          "nickname": "Shinden Naruto v1"
+          "nickname": "Shinden Naruto v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001861",
@@ -3965,7 +5945,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "71",
           "pvp": "55",
-          "nickname": "Shinden Hinata v1"
+          "nickname": "Shinden Hinata v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001862",
@@ -3973,7 +5957,11 @@ window.tags=[
           "tag": "pmiles",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001863",
@@ -3981,7 +5969,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001864",
@@ -3989,7 +5981,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001865",
@@ -3997,7 +5993,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001866",
@@ -4005,7 +6005,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001867",
@@ -4013,7 +6017,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001868",
@@ -4021,7 +6029,11 @@ window.tags=[
           "tag": "limited-5",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001869",
@@ -4029,7 +6041,11 @@ window.tags=[
           "tag": "limited-5",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20001870",
@@ -4037,7 +6053,11 @@ window.tags=[
           "tag": "limited-5",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030501",
@@ -4045,7 +6065,11 @@ window.tags=[
           "tag": "god",
           "rate": "98",
           "pvp": "93",
-          "nickname": "God Naruto v1"
+          "nickname": "God Naruto v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030502",
@@ -4053,7 +6077,11 @@ window.tags=[
           "tag": "god",
           "rate": "98",
           "pvp": "93",
-          "nickname": "God Naruto v1"
+          "nickname": "God Naruto v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030503",
@@ -4061,7 +6089,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "86",
           "pvp": "82",
-          "nickname": "Deadlock Naruto v2"
+          "nickname": "Deadlock Naruto v2",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030504",
@@ -4069,7 +6101,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "74",
           "pvp": "63",
-          "nickname": "Deadlock Sasuke v2"
+          "nickname": "Deadlock Sasuke v2",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030505",
@@ -4077,7 +6113,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "68",
           "pvp": "50",
-          "nickname": "Deadlock Sakura v2"
+          "nickname": "Deadlock Sakura v2",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030506",
@@ -4085,7 +6125,11 @@ window.tags=[
           "tag": "pmiles",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030507",
@@ -4093,7 +6137,11 @@ window.tags=[
           "tag": "special",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030508",
@@ -4101,7 +6149,11 @@ window.tags=[
           "tag": "limited-5",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030509",
@@ -4109,7 +6161,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030510",
@@ -4117,7 +6173,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030511",
@@ -4125,7 +6185,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030512",
@@ -4133,7 +6197,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030513",
@@ -4141,7 +6209,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030514",
@@ -4149,7 +6221,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030515",
@@ -4157,7 +6233,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030601",
@@ -4165,7 +6245,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "92",
           "pvp": "90",
-          "nickname": "Resonance Naruto v1"
+          "nickname": "Resonance Naruto v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030602",
@@ -4173,7 +6257,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "90",
           "pvp": "86",
-          "nickname": "Resonance Minato v1"
+          "nickname": "Resonance Minato v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030603",
@@ -4181,7 +6269,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030604",
@@ -4189,7 +6281,11 @@ window.tags=[
           "tag": "pmiles",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030605",
@@ -4197,7 +6293,11 @@ window.tags=[
           "tag": "special",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030606",
@@ -4205,7 +6305,11 @@ window.tags=[
           "tag": "special",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030607",
@@ -4213,7 +6317,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030608",
@@ -4221,7 +6329,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030609",
@@ -4229,7 +6341,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030610",
@@ -4237,7 +6353,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030611",
@@ -4245,7 +6365,11 @@ window.tags=[
           "tag": "limited-5",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030612",
@@ -4253,7 +6377,11 @@ window.tags=[
           "tag": "limited-5",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030613",
@@ -4261,7 +6389,11 @@ window.tags=[
           "tag": "limited-5",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030614",
@@ -4269,7 +6401,11 @@ window.tags=[
           "tag": "pvp-reward",
           "rate": "81",
           "pvp": "77",
-          "nickname": "Champion Sasuke"
+          "nickname": "Champion Sasuke",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030615",
@@ -4277,7 +6413,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030616",
@@ -4285,7 +6425,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030617",
@@ -4293,7 +6437,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030701",
@@ -4301,7 +6449,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "86",
           "pvp": "82",
-          "nickname": "Sage Naruto v3"
+          "nickname": "Sage Naruto v3",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030702",
@@ -4309,7 +6461,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "70",
           "pvp": "50",
-          "nickname": "Sage Jiraiya v2"
+          "nickname": "Sage Jiraiya v2",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030703",
@@ -4317,7 +6473,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "66",
           "pvp": "40",
-          "nickname": "Sage Hashi v3 | Blue Hashi | Blue Sage Hashi"
+          "nickname": "Sage Hashi v3 | Blue Hashi | Blue Sage Hashi",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030704",
@@ -4325,7 +6485,11 @@ window.tags=[
           "tag": "pmiles",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030705",
@@ -4333,7 +6497,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030706",
@@ -4341,7 +6509,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "69",
           "pvp": "45",
-          "nickname": "Neji v1"
+          "nickname": "Neji v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030707",
@@ -4349,7 +6521,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "73",
           "pvp": "60",
-          "nickname": "Ashura v1"
+          "nickname": "Ashura v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030708",
@@ -4357,7 +6533,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "78",
           "pvp": "58",
-          "nickname": "Indra v1"
+          "nickname": "Indra v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030709",
@@ -4365,7 +6545,11 @@ window.tags=[
           "tag": "limited-5",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030710",
@@ -4373,7 +6557,11 @@ window.tags=[
           "tag": "special",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030711",
@@ -4381,7 +6569,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030712",
@@ -4389,7 +6581,11 @@ window.tags=[
           "tag": "special",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030713",
@@ -4397,7 +6593,11 @@ window.tags=[
           "tag": "limited-5",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030714",
@@ -4405,7 +6605,11 @@ window.tags=[
           "tag": "limited-5",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030715",
@@ -4413,7 +6617,11 @@ window.tags=[
           "tag": "limited-5",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030716",
@@ -4421,7 +6629,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030801",
@@ -4429,7 +6641,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030802",
@@ -4437,7 +6653,11 @@ window.tags=[
           "tag": "god",
           "rate": "95",
           "pvp": "76",
-          "nickname": "God Naruto v2"
+          "nickname": "God Naruto v2",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030803",
@@ -4445,7 +6665,11 @@ window.tags=[
           "tag": "god",
           "rate": "94",
           "pvp": "76",
-          "nickname": "God Sasuke v2"
+          "nickname": "God Sasuke v2",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030804",
@@ -4453,7 +6677,11 @@ window.tags=[
           "tag": "pmiles",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030805",
@@ -4461,7 +6689,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030806",
@@ -4469,7 +6701,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "72",
           "pvp": "55",
-          "nickname": "Tsunade v2"
+          "nickname": "Tsunade v2",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030807",
@@ -4477,7 +6713,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "81",
           "pvp": "60",
-          "nickname": "Gaara v2"
+          "nickname": "Gaara v2",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030808",
@@ -4485,7 +6725,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "70",
           "pvp": "57",
-          "nickname": "Oonoki v1"
+          "nickname": "Oonoki v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030809",
@@ -4493,7 +6737,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "73",
           "pvp": "68",
-          "nickname": "Raikage v1"
+          "nickname": "Raikage v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030810",
@@ -4501,7 +6749,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "67",
           "pvp": "50",
-          "nickname": "Mei v1"
+          "nickname": "Mei v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030811",
@@ -4509,7 +6761,11 @@ window.tags=[
           "tag": "god",
           "rate": "82",
           "pvp": "65",
-          "nickname": "God Hashi v1"
+          "nickname": "God Hashi v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030812",
@@ -4517,7 +6773,11 @@ window.tags=[
           "tag": "god",
           "rate": "82",
           "pvp": "65",
-          "nickname": "God Madara v1"
+          "nickname": "God Madara v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030813",
@@ -4525,7 +6785,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030814",
@@ -4533,7 +6797,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030815",
@@ -4541,7 +6809,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030816",
@@ -4549,7 +6821,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "80",
           "pvp": "40",
-          "nickname": "Night Gai v2"
+          "nickname": "Night Gai v2",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030817",
@@ -4557,7 +6833,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "70",
           "pvp": "55",
-          "nickname": "Resonance Lee v1"
+          "nickname": "Resonance Lee v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030818",
@@ -4565,7 +6845,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "73",
           "pvp": "55",
-          "nickname": "Resonance Shikamaru v1"
+          "nickname": "Resonance Shikamaru v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030819",
@@ -4573,7 +6857,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "68",
           "pvp": "55",
-          "nickname": "Resonance Hinata v1"
+          "nickname": "Resonance Hinata v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030820",
@@ -4581,7 +6869,11 @@ window.tags=[
           "tag": "special",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030821",
@@ -4589,7 +6881,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030822",
@@ -4597,7 +6893,11 @@ window.tags=[
           "tag": "special",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030823",
@@ -4605,7 +6905,11 @@ window.tags=[
           "tag": "limited-5",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030824",
@@ -4613,7 +6917,11 @@ window.tags=[
           "tag": "limited-5",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030825",
@@ -4621,7 +6929,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "72",
           "pvp": "60",
-          "nickname": "Darui v1"
+          "nickname": "Darui v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030901",
@@ -4629,7 +6941,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "78",
           "pvp": "60",
-          "nickname": "Edo Madara v2 | 10 Tails Madara"
+          "nickname": "Edo Madara v2 | 10 Tails Madara",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030902",
@@ -4637,7 +6953,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "76",
           "pvp": "60",
-          "nickname": "Obito v2 | 10 Tails Obito"
+          "nickname": "Obito v2 | 10 Tails Obito",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030903",
@@ -4645,7 +6965,11 @@ window.tags=[
           "tag": "pmiles",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030904",
@@ -4653,7 +6977,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030905",
@@ -4661,7 +6989,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030906",
@@ -4669,7 +7001,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030907",
@@ -4677,7 +7013,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030908",
@@ -4685,7 +7025,11 @@ window.tags=[
           "tag": "slayer",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030909",
@@ -4693,7 +7037,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "85",
           "pvp": "74",
-          "nickname": "Kakashi v3 | Susanoo Kakashi v2 | White Kakashi"
+          "nickname": "Kakashi v3 | Susanoo Kakashi v2 | White Kakashi",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030911",
@@ -4701,7 +7049,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "69",
           "pvp": "80",
-          "nickname": "Kurenai v1"
+          "nickname": "Kurenai v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030912",
@@ -4709,7 +7061,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "65",
           "pvp": "40",
-          "nickname": "Asuma v1"
+          "nickname": "Asuma v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030913",
@@ -4717,7 +7073,11 @@ window.tags=[
           "tag": "pvp-reward",
           "rate": "93",
           "pvp": "97",
-          "nickname": "Champion Pain"
+          "nickname": "Champion Pain",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030918",
@@ -4725,7 +7085,11 @@ window.tags=[
           "tag": "limited-5",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030919",
@@ -4733,7 +7097,11 @@ window.tags=[
           "tag": "limited-5",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030920",
@@ -4741,7 +7109,11 @@ window.tags=[
           "tag": "limited-5",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030921",
@@ -4749,7 +7121,11 @@ window.tags=[
           "tag": "limited-5",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030922",
@@ -4757,7 +7133,11 @@ window.tags=[
           "tag": "gacha",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030923",
@@ -4765,7 +7145,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "81",
           "pvp": "63",
-          "nickname": "Kirin Sasuke v2 | Kirin v2"
+          "nickname": "Kirin Sasuke v2 | Kirin v2",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20030924",
@@ -4773,7 +7157,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "84",
           "pvp": "75",
-          "nickname": "Red Itachi"
+          "nickname": "Red Itachi",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20031001",
@@ -4781,7 +7169,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "76",
           "pvp": "62",
-          "nickname": "Shinden Naruto v2"
+          "nickname": "Shinden Naruto v2",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20031002",
@@ -4789,7 +7181,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "76",
           "pvp": "60",
-          "nickname": "6P Naruto v3"
+          "nickname": "6P Naruto v3",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20031003",
@@ -4797,7 +7193,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "73",
           "pvp": "65",
-          "nickname": "KCM Naruto v1"
+          "nickname": "KCM Naruto v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20031006",
@@ -4805,7 +7205,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "50",
           "pvp": "60",
-          "nickname": "Reaper Death Seal Minato | RDS Minato"
+          "nickname": "Reaper Death Seal Minato | RDS Minato",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20031007",
@@ -4813,7 +7217,11 @@ window.tags=[
           "tag": "ex-5",
           "rate": "70",
           "pvp": "62",
-          "nickname": "Kushina v2 | Fisheye Kushina"
+          "nickname": "Kushina v2 | Fisheye Kushina",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20031008",
@@ -4821,7 +7229,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20031009",
@@ -4829,7 +7241,11 @@ window.tags=[
           "tag": "pmiles",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20031010",
@@ -4837,7 +7253,11 @@ window.tags=[
           "tag": "pmiles",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20031011",
@@ -4845,7 +7265,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "88",
           "pvp": "73",
-          "nickname": "Birthday Naruto v1"
+          "nickname": "Birthday Naruto v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20031012",
@@ -4853,7 +7277,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "82",
           "pvp": "70",
-          "nickname": "Seal Naruto v1"
+          "nickname": "Seal Naruto v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20031013",
@@ -4861,7 +7289,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "82",
           "pvp": "70",
-          "nickname": "Seal Sasuke v1"
+          "nickname": "Seal Sasuke v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20031014",
@@ -4869,7 +7301,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "70",
           "pvp": "60",
-          "nickname": "Seal Sakura v1"
+          "nickname": "Seal Sakura v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20031015",
@@ -4877,7 +7313,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20031016",
@@ -4885,7 +7325,11 @@ window.tags=[
           "tag": "god",
           "rate": "92",
           "pvp": "73",
-          "nickname": "God Ashura"
+          "nickname": "God Ashura",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20031017",
@@ -4893,7 +7337,11 @@ window.tags=[
           "tag": "god",
           "rate": "91",
           "pvp": "73",
-          "nickname": "God Indra"
+          "nickname": "God Indra",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20031018",
@@ -4901,7 +7349,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "83",
           "pvp": "73",
-          "nickname": "Depressed Hashi | Edo Hashi v1"
+          "nickname": "Depressed Hashi | Edo Hashi v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20031019",
@@ -4909,7 +7361,11 @@ window.tags=[
           "tag": "special",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20031020",
@@ -4917,7 +7373,11 @@ window.tags=[
           "tag": "special",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20031101",
@@ -4925,7 +7385,11 @@ window.tags=[
           "tag": "pmiles",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20031102",
@@ -4933,7 +7397,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "90",
           "pvp": "82",
-          "nickname": "Alive Hashi v1 | White Hashi"
+          "nickname": "Alive Hashi v1 | White Hashi",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20031103",
@@ -4941,7 +7409,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "82",
           "pvp": "73",
-          "nickname": "Alive Tobirama v1 | Tobirama v1 | White Tobirama"
+          "nickname": "Alive Tobirama v1 | Tobirama v1 | White Tobirama",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20031104",
@@ -4949,7 +7421,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "89",
           "pvp": "77",
-          "nickname": "Alive Madara v2 | Black Madara"
+          "nickname": "Alive Madara v2 | Black Madara",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20031105",
@@ -4957,7 +7433,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "83",
           "pvp": "85",
-          "nickname": "Izuna v1 | Black Izuna"
+          "nickname": "Izuna v1 | Black Izuna",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20031106",
@@ -4965,7 +7445,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "83",
           "pvp": "82",
-          "nickname": "Jiraiya v2"
+          "nickname": "Jiraiya v2",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20031107",
@@ -4973,7 +7457,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "96",
           "pvp": "73",
-          "nickname": "Sasori v2 | Blue Sasori"
+          "nickname": "Sasori v2 | Blue Sasori",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20031108",
@@ -4981,7 +7469,11 @@ window.tags=[
           "tag": "special",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20031109",
@@ -4989,7 +7481,11 @@ window.tags=[
           "tag": "special",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20031110",
@@ -4997,7 +7493,11 @@ window.tags=[
           "tag": "limited-6",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20031111",
@@ -5005,7 +7505,11 @@ window.tags=[
           "tag": "limited-6",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20031112",
@@ -5013,7 +7517,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20031113",
@@ -5021,7 +7529,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "85",
           "pvp": "65",
-          "nickname": "Asakujaku Gai v1"
+          "nickname": "Asakujaku Gai v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20031114",
@@ -5029,7 +7541,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "82",
           "pvp": "65",
-          "nickname": "Lee v2"
+          "nickname": "Lee v2",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20031115",
@@ -5037,7 +7553,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "92",
           "pvp": "95",
-          "nickname": "Pain v2 | Blue Pain"
+          "nickname": "Pain v2 | Blue Pain",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20031116",
@@ -5045,7 +7565,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "82",
           "pvp": "73",
-          "nickname": "Konan v2"
+          "nickname": "Konan v2",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20031201",
@@ -5053,7 +7577,11 @@ window.tags=[
           "tag": "god",
           "rate": "80",
           "pvp": "65",
-          "nickname": "God Naruto v3 | Trash Naruto"
+          "nickname": "God Naruto v3 | Trash Naruto",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20031202",
@@ -5061,7 +7589,11 @@ window.tags=[
           "tag": "god",
           "rate": "80",
           "pvp": "65",
-          "nickname": "God Sasuke v3 | Trash Sasuke"
+          "nickname": "God Sasuke v3 | Trash Sasuke",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20031203",
@@ -5069,7 +7601,11 @@ window.tags=[
           "tag": "pmiles",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20031204",
@@ -5077,7 +7613,11 @@ window.tags=[
           "tag": "pmiles",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20031205",
@@ -5085,7 +7625,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20031206",
@@ -5093,7 +7637,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "92",
           "pvp": "80",
-          "nickname": "Juubito v1 | Blue Obito"
+          "nickname": "Juubito v1 | Blue Obito",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20031207",
@@ -5101,7 +7649,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20031208",
@@ -5109,7 +7661,11 @@ window.tags=[
           "tag": "pmiles",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20031209",
@@ -5117,7 +7673,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "83",
           "pvp": "87",
-          "nickname": "6P Madara v2"
+          "nickname": "6P Madara v2",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20031210",
@@ -5125,7 +7685,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "91",
           "pvp": "79",
-          "nickname": "Five Kage Sasuke v1 | Susanoo Sasuke v1"
+          "nickname": "Five Kage Sasuke v1 | Susanoo Sasuke v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20031211",
@@ -5133,7 +7697,11 @@ window.tags=[
           "tag": "pvp-reward",
           "rate": "86",
           "pvp": "71",
-          "nickname": "Champion Itachi"
+          "nickname": "Champion Itachi",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20031212",
@@ -5141,7 +7709,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "84",
           "pvp": "72",
-          "nickname": "Birthday Madara | Edo Madara v3"
+          "nickname": "Birthday Madara | Edo Madara v3",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20031213",
@@ -5149,7 +7721,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "82",
           "pvp": "70",
-          "nickname": "Point Hashi | Yellow Hashi"
+          "nickname": "Point Hashi | Yellow Hashi",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20031214",
@@ -5157,7 +7733,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "82",
           "pvp": "70",
-          "nickname": "Shippuden Hinata v1"
+          "nickname": "Shippuden Hinata v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20031215",
@@ -5165,7 +7745,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "80",
           "pvp": "77",
-          "nickname": "Shippuden Hanabi v1"
+          "nickname": "Shippuden Hanabi v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20031216",
@@ -5173,7 +7757,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20031217",
@@ -5181,7 +7769,11 @@ window.tags=[
           "tag": "special",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20031218",
@@ -5189,7 +7781,11 @@ window.tags=[
           "tag": "special",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20031219",
@@ -5197,7 +7793,11 @@ window.tags=[
           "tag": "saitama",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040101",
@@ -5205,7 +7805,11 @@ window.tags=[
           "tag": "pmiles",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040102",
@@ -5213,7 +7817,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "88",
           "pvp": "80",
-          "nickname": "Kakashi v4 | Susanoo Kakashi v3 | Black Kakashi"
+          "nickname": "Kakashi v4 | Susanoo Kakashi v3 | Black Kakashi",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040103",
@@ -5221,7 +7829,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "87",
           "pvp": "75",
-          "nickname": "Sekizo Gai v1"
+          "nickname": "Sekizo Gai v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040104",
@@ -5229,7 +7841,11 @@ window.tags=[
           "tag": "special",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040105",
@@ -5237,7 +7853,11 @@ window.tags=[
           "tag": "special",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040106",
@@ -5245,7 +7865,11 @@ window.tags=[
           "tag": "special",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040107",
@@ -5253,7 +7877,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040108",
@@ -5261,7 +7889,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "81",
           "pvp": "74",
-          "nickname": "Pain v3 | Shit Pain | White Pain"
+          "nickname": "Pain v3 | Shit Pain | White Pain",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040109",
@@ -5269,7 +7901,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "84",
           "pvp": "70",
-          "nickname": "Six Tail Naruto"
+          "nickname": "Six Tail Naruto",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040110",
@@ -5277,7 +7913,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "79",
           "pvp": "62",
-          "nickname": "Ashura v2"
+          "nickname": "Ashura v2",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040111",
@@ -5285,7 +7925,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "83",
           "pvp": "65",
-          "nickname": "Shukaku Gaara"
+          "nickname": "Shukaku Gaara",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040112",
@@ -5293,7 +7937,11 @@ window.tags=[
           "tag": "killers",
           "rate": "75",
           "pvp": "86",
-          "nickname": "Destroyer Indra v1 | Killer Indra v1"
+          "nickname": "Destroyer Indra v1 | Killer Indra v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040113",
@@ -5301,7 +7949,11 @@ window.tags=[
           "tag": "killers",
           "rate": "70",
           "pvp": "83",
-          "nickname": "Destroyer Itachi v1 | Killer Itachi v1"
+          "nickname": "Destroyer Itachi v1 | Killer Itachi v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040114",
@@ -5309,7 +7961,11 @@ window.tags=[
           "tag": "killers",
           "rate": "70",
           "pvp": "83",
-          "nickname": "Destroyer Kisame v1 | Killer Kisame 1"
+          "nickname": "Destroyer Kisame v1 | Killer Kisame 1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040115",
@@ -5317,7 +7973,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "94",
           "pvp": "88",
-          "nickname": "Resonance Minato v2"
+          "nickname": "Resonance Minato v2",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040116",
@@ -5325,7 +7985,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "82",
           "pvp": "78",
-          "nickname": "Shinden Shikamaru v1"
+          "nickname": "Shinden Shikamaru v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040117",
@@ -5333,7 +7997,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "82",
           "pvp": "78",
-          "nickname": "Shinden Temari v1"
+          "nickname": "Shinden Temari v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040118",
@@ -5341,7 +8009,11 @@ window.tags=[
           "tag": "fp",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040119",
@@ -5349,7 +8021,11 @@ window.tags=[
           "tag": "event",
           "rate": "78",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040201",
@@ -5357,7 +8033,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "87",
           "pvp": "90",
-          "nickname": "Birthday Minato | Red Minato v2"
+          "nickname": "Birthday Minato | Red Minato v2",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040202",
@@ -5365,7 +8045,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "95",
           "pvp": "92",
-          "nickname": "Kushina v3 | Red Kushina v2"
+          "nickname": "Kushina v3 | Red Kushina v2",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040203",
@@ -5373,7 +8057,11 @@ window.tags=[
           "tag": "event",
           "rate": "74",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040204",
@@ -5381,7 +8069,11 @@ window.tags=[
           "tag": "event",
           "rate": "78",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040205",
@@ -5389,7 +8081,11 @@ window.tags=[
           "tag": "killers",
           "rate": "87",
           "pvp": "93",
-          "nickname": "Destroyer Madara v1 | Killer Madara v1"
+          "nickname": "Destroyer Madara v1 | Killer Madara v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040206",
@@ -5397,7 +8093,11 @@ window.tags=[
           "tag": "event",
           "rate": "83",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040207",
@@ -5405,7 +8105,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "88",
           "pvp": "80",
-          "nickname": "Obito v4 | Blast Dance Obito | Birthday Obito v1"
+          "nickname": "Obito v4 | Blast Dance Obito | Birthday Obito v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040208",
@@ -5413,7 +8117,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "92",
           "pvp": "83",
-          "nickname": "Izuna v2 | Blue Izuna"
+          "nickname": "Izuna v2 | Blue Izuna",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040209",
@@ -5421,7 +8129,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "82",
           "pvp": "74",
-          "nickname": "Lava Naruto"
+          "nickname": "Lava Naruto",
+          "role": "Debuff",
+          "rolerating": "A",
+          "secondary": "Damage",
+          "secondaryrating": "B"
 },
 {
           "cardId": "20040210",
@@ -5429,7 +8141,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "82",
           "pvp": "74",
-          "nickname": "Honoikazuchi Sasuke"
+          "nickname": "Honoikazuchi Sasuke",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040211",
@@ -5437,7 +8153,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "78",
           "pvp": "67",
-          "nickname": "Tayuya v1"
+          "nickname": "Tayuya v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040212",
@@ -5445,7 +8165,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "77",
           "pvp": "60",
-          "nickname": "Tobirama v2 | Edo Tobirama v1 | Ignition Tobirama"
+          "nickname": "Tobirama v2 | Edo Tobirama v1 | Ignition Tobirama",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040213",
@@ -5453,7 +8177,11 @@ window.tags=[
           "tag": "limited-6",
           "rate": "81",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040301",
@@ -5461,7 +8189,11 @@ window.tags=[
           "tag": "pmiles",
           "rate": "80",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040302",
@@ -5469,7 +8201,11 @@ window.tags=[
           "tag": "god",
           "rate": "89",
           "pvp": "68",
-          "nickname": "God Kakashi"
+          "nickname": "God Kakashi",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040303",
@@ -5477,7 +8213,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "87",
           "pvp": "70",
-          "nickname": "Double Summoning Tsunade"
+          "nickname": "Double Summoning Tsunade",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040304",
@@ -5485,7 +8225,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "94",
           "pvp": "70",
-          "nickname": "Double Summoning Sakura"
+          "nickname": "Double Summoning Sakura",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040305",
@@ -5493,7 +8237,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "84",
           "pvp": "65",
-          "nickname": "Tenten v2"
+          "nickname": "Tenten v2",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040306",
@@ -5501,7 +8249,11 @@ window.tags=[
           "tag": "killers",
           "rate": "73",
           "pvp": "83",
-          "nickname": "Destroyer Konan v1 | Killer Konan v1"
+          "nickname": "Destroyer Konan v1 | Killer Konan v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040307",
@@ -5509,7 +8261,11 @@ window.tags=[
           "tag": "killers",
           "rate": "71",
           "pvp": "84",
-          "nickname": "Destroyer Nagato v1 | Killer Nagato v1"
+          "nickname": "Destroyer Nagato v1 | Killer Nagato v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040308",
@@ -5517,7 +8273,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "85",
           "pvp": "72",
-          "nickname": "Kisame v1"
+          "nickname": "Kisame v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040309",
@@ -5525,7 +8285,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "94",
           "pvp": "83",
-          "nickname": "Shisui v1"
+          "nickname": "Shisui v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040310",
@@ -5533,7 +8297,11 @@ window.tags=[
           "tag": "killers",
           "rate": "73",
           "pvp": "84",
-          "nickname": "Destroyer Deidara v1 | Killer Deidara v1"
+          "nickname": "Destroyer Deidara v1 | Killer Deidara v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040311",
@@ -5541,7 +8309,11 @@ window.tags=[
           "tag": "killers",
           "rate": "79",
           "pvp": "86",
-          "nickname": "Destroyer Sasori v1 | Killer Sasori v1"
+          "nickname": "Destroyer Sasori v1 | Killer Sasori v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040312",
@@ -5549,7 +8321,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "87",
           "pvp": "83",
-          "nickname": "Sakura v2 | Birthday Sakura v1 | White Sakura"
+          "nickname": "Sakura v2 | Birthday Sakura v1 | White Sakura",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040313",
@@ -5557,7 +8333,11 @@ window.tags=[
           "tag": "pvp-reward",
           "rate": "84",
           "pvp": "85",
-          "nickname": "Champion Ashura"
+          "nickname": "Champion Ashura",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040314",
@@ -5565,7 +8345,11 @@ window.tags=[
           "tag": "limited-6",
           "rate": "84",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040315",
@@ -5573,7 +8357,11 @@ window.tags=[
           "tag": "event",
           "rate": "76",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040316",
@@ -5581,7 +8369,11 @@ window.tags=[
           "tag": "event",
           "rate": "74",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040317",
@@ -5589,7 +8381,11 @@ window.tags=[
           "tag": "event",
           "rate": "74",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040318",
@@ -5597,7 +8393,11 @@ window.tags=[
           "tag": "special",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040319",
@@ -5605,7 +8405,11 @@ window.tags=[
           "tag": "event",
           "rate": "75",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040401",
@@ -5613,7 +8417,11 @@ window.tags=[
           "tag": "pmiles",
           "rate": "78",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040402",
@@ -5621,7 +8429,11 @@ window.tags=[
           "tag": "killers",
           "rate": "65",
           "pvp": "76",
-          "nickname": "Destroyer Mased Man v1 | Killer Masked Man v1"
+          "nickname": "Destroyer Mased Man v1 | Killer Masked Man v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040403",
@@ -5629,7 +8441,11 @@ window.tags=[
           "tag": "event",
           "rate": "83",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040404",
@@ -5637,7 +8453,11 @@ window.tags=[
           "tag": "limited-6",
           "rate": "92",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040405",
@@ -5645,7 +8465,11 @@ window.tags=[
           "tag": "limited-6",
           "rate": "94",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040406",
@@ -5653,7 +8477,11 @@ window.tags=[
           "tag": "event",
           "rate": "77",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040407",
@@ -5661,7 +8489,11 @@ window.tags=[
           "tag": "killers",
           "rate": "82",
           "pvp": "80",
-          "nickname": "Destroyer Rin v1 | Killer Rin v1"
+          "nickname": "Destroyer Rin v1 | Killer Rin v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040408",
@@ -5669,7 +8501,11 @@ window.tags=[
           "tag": "event",
           "rate": "83",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040409",
@@ -5677,7 +8513,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "81",
           "pvp": "69",
-          "nickname": "Hagoromo v1"
+          "nickname": "Hagoromo v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040410",
@@ -5685,7 +8525,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "85",
           "pvp": "73",
-          "nickname": "Hamura v1"
+          "nickname": "Hamura v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040411",
@@ -5693,7 +8537,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "94",
           "pvp": "70",
-          "nickname": "Mangetsu v1"
+          "nickname": "Mangetsu v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040412",
@@ -5701,7 +8549,11 @@ window.tags=[
           "tag": "killers",
           "rate": "90",
           "pvp": "93",
-          "nickname": "Destroyer Female Pain v1 | Killer Female Pain v1"
+          "nickname": "Destroyer Female Pain v1 | Killer Female Pain v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040414",
@@ -5709,7 +8561,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "92",
           "pvp": "73",
-          "nickname": "Darui v2"
+          "nickname": "Darui v2",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040415",
@@ -5717,7 +8573,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "81",
           "pvp": "65",
-          "nickname": "Curse Seal Sasuke v1"
+          "nickname": "Curse Seal Sasuke v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040416",
@@ -5725,7 +8585,11 @@ window.tags=[
           "tag": "killers",
           "rate": "68",
           "pvp": "80",
-          "nickname": "Destroyer Hidan v1 | Killer Hidan v1"
+          "nickname": "Destroyer Hidan v1 | Killer Hidan v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040417",
@@ -5733,7 +8597,11 @@ window.tags=[
           "tag": "killers",
           "rate": "72",
           "pvp": "85",
-          "nickname": "Destroyer Kakuzu v1 | Killer Kakuzu v1"
+          "nickname": "Destroyer Kakuzu v1 | Killer Kakuzu v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040418",
@@ -5741,7 +8609,11 @@ window.tags=[
           "tag": "event",
           "rate": "78",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040501",
@@ -5749,7 +8621,11 @@ window.tags=[
           "tag": "pmiles",
           "rate": "70",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040502",
@@ -5757,7 +8633,11 @@ window.tags=[
           "tag": "god",
           "rate": "97",
           "pvp": "94",
-          "nickname": "God Kaguya"
+          "nickname": "God Kaguya",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040503",
@@ -5765,7 +8645,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "83",
           "pvp": "75",
-          "nickname": "Shinden Naruto v3"
+          "nickname": "Shinden Naruto v3",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040504",
@@ -5773,7 +8657,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "84",
           "pvp": "75",
-          "nickname": "Shinden Sasuke v2"
+          "nickname": "Shinden Sasuke v2",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040505",
@@ -5781,7 +8669,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "82",
           "pvp": "75",
-          "nickname": "Shinden Sakura v2"
+          "nickname": "Shinden Sakura v2",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040506",
@@ -5789,7 +8681,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "87",
           "pvp": "91",
-          "nickname": "Deidara v2 | Yellow Deidara"
+          "nickname": "Deidara v2 | Yellow Deidara",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040507",
@@ -5797,7 +8693,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "85",
           "pvp": "75",
-          "nickname": "Kirin Sasuke v3 | Kirin v3"
+          "nickname": "Kirin Sasuke v3 | Kirin v3",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040508",
@@ -5805,7 +8705,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "98",
           "pvp": "99",
-          "nickname": "Akatsuki Itachi v2 | White Itachi"
+          "nickname": "Akatsuki Itachi v2 | White Itachi",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040509",
@@ -5813,7 +8717,11 @@ window.tags=[
           "tag": "killers",
           "rate": "68",
           "pvp": "80",
-          "nickname": "Destroyer Tobi v1 | Killer Tobi v1"
+          "nickname": "Destroyer Tobi v1 | Killer Tobi v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040511",
@@ -5821,7 +8729,11 @@ window.tags=[
           "tag": "god",
           "rate": "94",
           "pvp": "90",
-          "nickname": "God Hashi v2"
+          "nickname": "God Hashi v2",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040512",
@@ -5829,7 +8741,11 @@ window.tags=[
           "tag": "god",
           "rate": "94",
           "pvp": "90",
-          "nickname": "God Madara v2"
+          "nickname": "God Madara v2",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040513",
@@ -5837,7 +8753,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "85",
           "pvp": "87",
-          "nickname": "Iruka v1"
+          "nickname": "Iruka v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040515",
@@ -5845,7 +8765,11 @@ window.tags=[
           "tag": "limited-6",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040516",
@@ -5853,7 +8777,11 @@ window.tags=[
           "tag": "limited-6",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040517",
@@ -5861,7 +8789,11 @@ window.tags=[
           "tag": "limited-6",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040518",
@@ -5869,7 +8801,11 @@ window.tags=[
           "tag": "limited-6",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040519",
@@ -5877,7 +8813,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040521",
@@ -5885,7 +8825,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040524",
@@ -5893,7 +8837,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040601",
@@ -5901,7 +8849,11 @@ window.tags=[
           "tag": "pmiles",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040602",
@@ -5909,7 +8861,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "92",
           "pvp": "86",
-          "nickname": "Right Hand Naruto"
+          "nickname": "Right Hand Naruto",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040603",
@@ -5917,7 +8873,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "92",
           "pvp": "90",
-          "nickname": "Left Hand Sasuke"
+          "nickname": "Left Hand Sasuke",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040604",
@@ -5925,7 +8885,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040605",
@@ -5933,7 +8897,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "87",
           "pvp": "92",
-          "nickname": "Akatsuki Itachi v3 | Yellow Itachi | Birthday Itachi v1"
+          "nickname": "Akatsuki Itachi v3 | Yellow Itachi | Birthday Itachi v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040606",
@@ -5941,7 +8909,11 @@ window.tags=[
           "tag": "killers",
           "rate": "84",
           "pvp": "92",
-          "nickname": "Destroyer Izuna v1 | Killer Izuna v1"
+          "nickname": "Destroyer Izuna v1 | Killer Izuna v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040607",
@@ -5949,7 +8921,11 @@ window.tags=[
           "tag": "killers",
           "rate": "63",
           "pvp": "86",
-          "nickname": "Destroyer Madara v2 | Killer Madara v2"
+          "nickname": "Destroyer Madara v2 | Killer Madara v2",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040608",
@@ -5957,7 +8933,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "86",
           "pvp": "93",
-          "nickname": "Kurenai v2"
+          "nickname": "Kurenai v2",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040609",
@@ -5965,7 +8945,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "83",
           "pvp": "84",
-          "nickname": "Zabuza v1"
+          "nickname": "Zabuza v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040610",
@@ -5973,7 +8957,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "84",
           "pvp": "85",
-          "nickname": "Haku v1"
+          "nickname": "Haku v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040611",
@@ -5981,7 +8969,11 @@ window.tags=[
           "tag": "limited-6",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040612",
@@ -5989,7 +8981,11 @@ window.tags=[
           "tag": "limited-6",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040701",
@@ -5997,7 +8993,11 @@ window.tags=[
           "tag": "pmiles",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040702",
@@ -6005,7 +9005,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "99",
           "pvp": "99",
-          "nickname": "White Minato"
+          "nickname": "White Minato",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040703",
@@ -6013,7 +9017,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "87",
           "pvp": "80",
-          "nickname": "Neji v2 | Yellow Neji"
+          "nickname": "Neji v2 | Yellow Neji",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040704",
@@ -6021,7 +9029,11 @@ window.tags=[
           "tag": "killers",
           "rate": "70",
           "pvp": "83",
-          "nickname": "Destroyer Pain v1 | Killer Pain v1"
+          "nickname": "Destroyer Pain v1 | Killer Pain v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040705",
@@ -6029,7 +9041,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "85",
           "pvp": "94",
-          "nickname": "Birthday Kushina v1"
+          "nickname": "Birthday Kushina v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040706",
@@ -6037,7 +9053,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "89",
           "pvp": "87",
-          "nickname": "KCM Naruto v2"
+          "nickname": "KCM Naruto v2",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040707",
@@ -6045,7 +9065,11 @@ window.tags=[
           "tag": "killers",
           "rate": "65",
           "pvp": "92",
-          "nickname": "Destroyer Kimimaro v1 | Killer Kimimaro v1"
+          "nickname": "Destroyer Kimimaro v1 | Killer Kimimaro v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040708",
@@ -6053,7 +9077,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "80",
           "pvp": "90",
-          "nickname": "Shippuden Sasuke v1"
+          "nickname": "Shippuden Sasuke v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040709",
@@ -6061,7 +9089,11 @@ window.tags=[
           "tag": "limited-6",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040710",
@@ -6069,7 +9101,11 @@ window.tags=[
           "tag": "limited-6",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040711",
@@ -6077,7 +9113,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040712",
@@ -6085,7 +9125,11 @@ window.tags=[
           "tag": "event",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040801",
@@ -6093,7 +9137,11 @@ window.tags=[
           "tag": "pmiles",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040802",
@@ -6101,7 +9149,11 @@ window.tags=[
           "tag": "god",
           "rate": "100",
           "pvp": "98",
-          "nickname": "God Naruto v4"
+          "nickname": "God Naruto v4",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040803",
@@ -6109,7 +9161,11 @@ window.tags=[
           "tag": "god",
           "rate": "100",
           "pvp": "98",
-          "nickname": "God Sasuke v4"
+          "nickname": "God Sasuke v4",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040804",
@@ -6117,7 +9173,11 @@ window.tags=[
           "tag": "limited-6",
           "rate": "86",
           "pvp": "80",
-          "nickname": "Deadlock Naruto v3"
+          "nickname": "Deadlock Naruto v3",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040805",
@@ -6125,7 +9185,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "88",
           "pvp": "81",
-          "nickname": "Deadlock Sasuke v3"
+          "nickname": "Deadlock Sasuke v3",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040806",
@@ -6133,7 +9197,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "85",
           "pvp": "79",
-          "nickname": "Deadlock Sakura v3"
+          "nickname": "Deadlock Sakura v3",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040807",
@@ -6141,7 +9209,11 @@ window.tags=[
           "tag": "limited-6",
           "rate": "-",
           "pvp": "-",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040808",
@@ -6149,7 +9221,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "91",
           "pvp": "87",
-          "nickname": "Hagoromo v2"
+          "nickname": "Hagoromo v2",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040809",
@@ -6157,7 +9233,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "95",
           "pvp": "98",
-          "nickname": "Hamura v2"
+          "nickname": "Hamura v2",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040810",
@@ -6165,7 +9245,11 @@ window.tags=[
           "tag": "killers",
           "rate": "82",
           "pvp": "95",
-          "nickname": "Destroyer 6P Madara v1| Killer 6P Madara v1"
+          "nickname": "Destroyer 6P Madara v1| Killer 6P Madara v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040810",
@@ -6173,7 +9257,11 @@ window.tags=[
           "tag": "kami-destroyer",
           "rate": "75",
           "pvp": "96",
-          "nickname": "God Destroyer Kaguya v1 | God Killer Kaguya v1"
+          "nickname": "God Destroyer Kaguya v1 | God Killer Kaguya v1",
+          "role": "Damage",
+          "rolerating": "SSS",
+          "secondary": "Assassin",
+          "secondaryrating": "S+"
 },
 {
           "cardId": "20040901",
@@ -6181,7 +9269,11 @@ window.tags=[
           "tag": "pmiles",
           "rate": "75",
           "pvp": "50",
-          "nickname": "pmiles Lee"
+          "nickname": "pmiles Lee",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040902",
@@ -6189,7 +9281,11 @@ window.tags=[
           "tag": "event",
           "rate": "",
           "pvp": "",
-          "nickname": "Ino"
+          "nickname": "Ino",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040903",
@@ -6197,7 +9293,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "85",
           "pvp": "70",
-          "nickname": "Night Gai v3"
+          "nickname": "Night Gai v3",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040904",
@@ -6205,7 +9305,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "82",
           "pvp": "84",
-          "nickname": "Gaara v3 | Blue Gaara"
+          "nickname": "Gaara v3 | Blue Gaara",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040905",
@@ -6213,7 +9317,11 @@ window.tags=[
           "tag": "killers",
           "rate": "70",
           "pvp": "-",
-          "nickname": "Destroyer Rage Obito v1 | Killer Rage Obito v1"
+          "nickname": "Destroyer Rage Obito v1 | Killer Rage Obito v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040906",
@@ -6221,7 +9329,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "98",
           "pvp": "98",
-          "nickname": "Birthday Kakashi | Susanoo Kakashi v4"
+          "nickname": "Birthday Kakashi | Susanoo Kakashi v4",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040907",
@@ -6229,7 +9341,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "75",
           "pvp": "60",
-          "nickname": "Hiruzen v1 | Third Hokage v1 | Old Man v1"
+          "nickname": "Hiruzen v1 | Third Hokage v1 | Old Man v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040908",
@@ -6237,7 +9353,11 @@ window.tags=[
           "tag": "killers",
           "rate": "-",
           "pvp": "-",
-          "nickname": "Destroyer Nagato v2 | Killer Nagato v2"
+          "nickname": "Destroyer Nagato v2 | Killer Nagato v2",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040909",
@@ -6245,7 +9365,11 @@ window.tags=[
           "tag": "pvp-reward",
           "rate": "-",
           "pvp": "-",
-          "nickname": "PVP Hashi"
+          "nickname": "PVP Hashi",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20040912",
@@ -6253,7 +9377,11 @@ window.tags=[
           "tag": "event",
           "rate": "71",
           "pvp": "60",
-          "nickname": ""
+          "nickname": "",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20041002",
@@ -6261,7 +9389,11 @@ window.tags=[
           "tag": "event",
           "rate": "",
           "pvp": "",
-          "nickname": "Dark Naruto"
+          "nickname": "Dark Naruto",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20041003",
@@ -6269,7 +9401,11 @@ window.tags=[
           "tag": "god",
           "rate": "",
           "pvp": "",
-          "nickname": "God Minato"
+          "nickname": "God Minato",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20041004",
@@ -6277,7 +9413,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "",
           "pvp": "",
-          "nickname": "Kushina v4 | Blue Kushina"
+          "nickname": "Kushina v4 | Blue Kushina",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20041006",
@@ -6285,7 +9425,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "",
           "pvp": "",
-          "nickname": "Rainbow Naruto | Birthday Naruto v2"
+          "nickname": "Rainbow Naruto | Birthday Naruto v2",
+          "role": "Damage",
+          "rolerating": "S+",
+          "secondary": "Tank",
+          "secondaryrating": "S+"
 },
 {
           "cardId": "20041009",
@@ -6293,7 +9437,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "",
           "pvp": "",
-          "nickname": "Alive Hashi v3 | Black Hashi"
+          "nickname": "Alive Hashi v3 | Black Hashi",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20041010",
@@ -6301,7 +9449,11 @@ window.tags=[
           "tag": "limited-6",
           "rate": "",
           "pvp": "",
-          "nickname": "Vampire Sasuke"
+          "nickname": "Vampire Sasuke",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20041011",
@@ -6309,7 +9461,11 @@ window.tags=[
           "tag": "limited-6",
           "rate": "",
           "pvp": "",
-          "nickname": "Vampire Karin"
+          "nickname": "Vampire Karin",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20041012",
@@ -6317,7 +9473,11 @@ window.tags=[
           "tag": "killers",
           "rate": "",
           "pvp": "",
-          "nickname": "Destroyer Orochimaru v1 | Killer Orochimaru v1"
+          "nickname": "Destroyer Orochimaru v1 | Killer Orochimaru v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20041101",
@@ -6325,7 +9485,11 @@ window.tags=[
           "tag": "pmiles",
           "rate": "",
           "pvp": "",
-          "nickname": "pmiles Kabuto"
+          "nickname": "pmiles Kabuto",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20041102",
@@ -6333,7 +9497,11 @@ window.tags=[
           "tag": "event",
           "rate": "",
           "pvp": "",
-          "nickname": "forgot your name"
+          "nickname": "forgot your name",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20041103",
@@ -6341,7 +9509,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "",
           "pvp": "",
-          "nickname": "Juubito v2 | Insta Kill Obito"
+          "nickname": "Juubito v2 | Insta Kill Obito",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20041104",
@@ -6349,7 +9521,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "",
           "pvp": "",
-          "nickname": "Sasori v3"
+          "nickname": "Sasori v3",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20041105",
@@ -6357,7 +9533,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "",
           "pvp": "",
-          "nickname": "Counter Jiraiya | Hari Jizo Jiraiya | White Jiraiya"
+          "nickname": "Counter Jiraiya | Hari Jizo Jiraiya | White Jiraiya",
+          "role": "Tank",
+          "rolerating": "SSS",
+          "secondary": "Support",
+          "secondaryrating": "B"
 },
 {
           "cardId": "20041106",
@@ -6365,7 +9545,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "",
           "pvp": "",
-          "nickname": "Tsunade v4"
+          "nickname": "Tsunade v4",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20041109",
@@ -6373,7 +9557,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "",
           "pvp": "",
-          "nickname": "PTS Lee"
+          "nickname": "PTS Lee",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20041110",
@@ -6381,7 +9569,11 @@ window.tags=[
           "tag": "killers",
           "rate": "",
           "pvp": "",
-          "nickname": "Destroyer Sasuke v1 | Killer Sasuke v1"
+          "nickname": "Destroyer Sasuke v1 | Killer Sasuke v1",
+          "role": "Assassin",
+          "rolerating": "SS",
+          "secondary": "Tank",
+          "secondaryrating": "A+"
 },
 {
           "cardId": "20041112",
@@ -6389,7 +9581,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "",
           "pvp": "",
-          "nickname": "6P Tenten v2"
+          "nickname": "6P Tenten v2",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20041201",
@@ -6397,7 +9593,11 @@ window.tags=[
           "tag": "pmiles",
           "rate": "",
           "pvp": "",
-          "nickname": "pmiles Gai"
+          "nickname": "pmiles Gai",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20041202",
@@ -6405,7 +9605,11 @@ window.tags=[
           "tag": "event",
           "rate": "",
           "pvp": "",
-          "nickname": "Ibiki"
+          "nickname": "Ibiki",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20041203",
@@ -6413,7 +9617,11 @@ window.tags=[
           "tag": "kami-destroyer",
           "rate": "",
           "pvp": "",
-          "nickname": "God Destroyer Madara v1 | God Killer Madara v1"
+          "nickname": "God Destroyer Madara v1 | God Killer Madara v1",
+          "role": "Damage",
+          "rolerating": "SSS",
+          "secondary": "Assassin",
+          "secondaryrating": "SS+"
 },
 {
           "cardId": "20041205",
@@ -6421,7 +9629,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "",
           "pvp": "",
-          "nickname": "Shisui v2 | Red Shisui"
+          "nickname": "Shisui v2 | Red Shisui",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20041206",
@@ -6429,7 +9641,11 @@ window.tags=[
           "tag": "killers",
           "rate": "",
           "pvp": "",
-          "nickname": "Destroyer Anbu Itachi v1 | Killer Anbu Itachi v1"
+          "nickname": "Destroyer Anbu Itachi v1 | Killer Anbu Itachi v1",
+          "role": "Debuffer",
+          "rolerating": "S+",
+          "secondary": "Tank",
+          "secondaryrating": "S"
 },
 {
           "cardId": "20041207",
@@ -6437,7 +9653,11 @@ window.tags=[
           "tag": "limited-6",
           "rate": "",
           "pvp": "",
-          "nickname": "christmas hinata"
+          "nickname": "christmas hinata",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20041208",
@@ -6445,7 +9665,11 @@ window.tags=[
           "tag": "limited-6",
           "rate": "",
           "pvp": "",
-          "nickname": "christmas hanabi"
+          "nickname": "Christmas Hanabi",
+          "role": "Tank",
+          "rolerating": "S",
+          "secondary": "Support",
+          "secondaryrating": "A"
 },
 {
           "cardId": "20041209",
@@ -6453,7 +9677,11 @@ window.tags=[
           "tag": "killers",
           "rate": "",
           "pvp": "",
-          "nickname": "Killer Zetsu"
+          "nickname": "Killer Zetsu",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20041210",
@@ -6461,7 +9689,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "",
           "pvp": "",
-          "nickname": "Blue Sakura"
+          "nickname": "Blue Sakura",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20041211",
@@ -6469,7 +9701,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "",
           "pvp": "",
-          "nickname": "Shippuden Hinata v1"
+          "nickname": "Shippuden Hinata v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20050101",
@@ -6477,7 +9713,11 @@ window.tags=[
           "tag": "pmiles",
           "rate": "",
           "pvp": "",
-          "nickname": "pmiles Konohamaru"
+          "nickname": "pmiles Konohamaru",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20050102",
@@ -6485,7 +9725,11 @@ window.tags=[
           "tag": "event",
           "rate": "",
           "pvp": "",
-          "nickname": "Yamato"
+          "nickname": "Yamato",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20050103",
@@ -6493,7 +9737,11 @@ window.tags=[
           "tag": "god",
           "rate": "",
           "pvp": "",
-          "nickname": "God Naruto v5"
+          "nickname": "God Naruto v5",
+          "role": "Support",
+          "rolerating": "SSS",
+          "secondary": "Damage",
+          "secondaryrating": "SS"
 },
 {
           "cardId": "20050105",
@@ -6501,7 +9749,11 @@ window.tags=[
           "tag": "limited-6",
           "rate": "",
           "pvp": "",
-          "nickname": "New Year Shinden Naruto v1"
+          "nickname": "New Year Shinden Naruto v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20050106",
@@ -6509,7 +9761,11 @@ window.tags=[
           "tag": "limited-6",
           "rate": "",
           "pvp": "",
-          "nickname": "New Year Shinden Sasuke v1"
+          "nickname": "New Year Shinden Sasuke v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20050107",
@@ -6517,7 +9773,11 @@ window.tags=[
           "tag": "limited-6",
           "rate": "",
           "pvp": "",
-          "nickname": "New Year Shinden Sakura v1"
+          "nickname": "New Year Shinden Sakura v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 },
 {
           "cardId": "20050108",
@@ -6525,7 +9785,11 @@ window.tags=[
           "tag": "pvp-reward",
           "rate": "",
           "pvp": "",
-          "nickname": "Champion Indra"
+          "nickname": "Champion Indra",
+          "role": "Debuffer",
+          "rolerating": "SS+",
+          "secondary": "Damage",
+          "secondaryrating": "SS"
 },
 {
           "cardId": "20050109",
@@ -6533,7 +9797,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "",
           "pvp": "",
-          "nickname": "Deadlock Tsunade v1"
+          "nickname": "Deadlock Tsunade v1",
+          "role": "Damage",
+          "rolerating": "A+",
+          "secondary": "Support",
+          "secondaryrating": "A"
 },
 {
           "cardId": "20050110",
@@ -6541,7 +9809,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "",
           "pvp": "",
-          "nickname": "Deadlock Jiraiya v1"
+          "nickname": "Deadlock Jiraiya v1",
+          "role": "Damage",
+          "rolerating": "S+",
+          "secondary": "Support",
+          "secondaryrating": "A"
 },
 {
           "cardId": "20050111",
@@ -6549,7 +9821,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "",
           "pvp": "",
-          "nickname": "Deadlock Orochimaru v1"
+          "nickname": "Deadlock Orochimaru v1",
+          "role": "Debuffer",
+          "rolerating": "A",
+          "secondary": "Tank",
+          "secondaryrating": "A"
 },
 {
           "cardId": "20050112",
@@ -6557,7 +9833,11 @@ window.tags=[
           "tag": "killers",
           "rate": "",
           "pvp": "",
-          "nickname": "Killer Gaara v1"
+          "nickname": "Killer Gaara v1",
+          "role": "Damage",
+          "rolerating": "SS",
+          "secondary": "Assassin",
+          "secondaryrating": "S+"
 },
 {
           "cardId": "20050113",
@@ -6565,7 +9845,11 @@ window.tags=[
           "tag": "origins",
           "rate": "",
           "pvp": "",
-          "nickname": "Origin Minato"
+          "nickname": "Origin Minato",
+          "role": "Assassin",
+          "rolerating": "SSS",
+          "secondary": "Debuffer",
+          "secondaryrating": "S+"
 },
 {
           "cardId": "20050114",
@@ -6573,7 +9857,11 @@ window.tags=[
           "tag": "ex-6",
           "rate": "",
           "pvp": "",
-          "nickname": "Shippuden Temari"
+          "nickname": "Shippuden Temari",
+          "role": "Assassin",
+          "rolerating": "A+",
+          "secondary": "Tank",
+          "secondaryrating": "A"
 },
 {
           "cardId": "20050115",
@@ -6581,6 +9869,10 @@ window.tags=[
           "tag": "ex-6",
           "rate": "",
           "pvp": "",
-          "nickname": "Kankuro v1"
+          "nickname": "Kankuro v1",
+          "role": "Support",
+          "rolerating": "SS",
+          "secondary": "Debuffer",
+          "secondaryrating": "B+"
 }
 ]
