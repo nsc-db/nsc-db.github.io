@@ -9,7 +9,7 @@ var aggrtimeout = 30000;
 var fs = require('fs');
 var Promise = require('bluebird');
 var url = ""
-var db = []
+var db2 = []
 var nickarr = []
 
 const abilitys = JSON.parse(fs.readFileSync("../common/eng/ability.js", "utf8").slice(15));
@@ -41,12 +41,9 @@ for (let i in tag) {
 
 
 for (let i in characterInfo) {
-    var info = []
-    // var key = characterInfo[i]['cardId']
     var id = characterInfo[i]['cardId']
     var data = {
-        id: {
-            id: id,
+        [id]: {
             ability1: characterInfo[i]['abilityId1'],
             ability2: characterInfo[i]['abilityId2'],
             skill1: characterInfo[i]['battleSkillId1'],
@@ -56,8 +53,59 @@ for (let i in characterInfo) {
             title: characterInfo[i]['cardSubName'],
         }
     };
-    db.push(data)
+    db2 = Object.assign(data, db2)
 }
+
+for (let i in db2) {
+    check6Star(i).then(function (Star) {
+        let temp = []
+        temp.push(getLeaderSkill(db2[i].lead))
+        temp.push(getName(db2[i].name))
+        temp.push(checkURL(i))
+        temp.push(getVideo(i))
+        temp.push(getRoles(i))
+        if (Star[0] == 0 || Star[0] == undefined) {
+            temp.push(getAbilities(db2[i].ability1))
+            temp.push(getAbilities(db2[i].ability2))
+            temp.push(getSkills(db2[i].skill1))
+            temp.push(getSkills(db2[i].skill2))
+            temp.push(getSpeed(db2[i].skill1))
+            temp.push(getType(db2[i].skill1))
+            temp.push(getSpeed(db2[i].skill2))
+            temp.push(getType(db2[i].skill2))
+        }
+        else {
+            temp.push(getAbilities(Star[0]))
+            temp.push(getAbilities(Star[1]))
+            temp.push(getSkills(Star[2]))
+            temp.push(getSkills(Star[3]))
+            temp.push(getSpeed(Star[2]))
+            temp.push(getType(Star[2]))
+            temp.push(getSpeed(Star[3]))
+            temp.push(getType(Star[3]))
+
+        }
+        Promise.all(temp).then(function (abc) {
+            var regex = /embed\//gi;
+
+            db2[i].lead = abc[0]
+            db2[i].name = abc[1]
+            db2[i].url = abc[2]
+            db2[i].video = abc[3].replace(regex, 'watch?v=')
+            db2[i].roles = abc[4]
+            db2[i].ability1 = abc[5]
+            db2[i].ability2 = abc[6]
+            db2[i].skill1 = abc[7]
+            db2[i].skill2 = abc[8]
+            db2[i].skill1spd = abc[9]
+            db2[i].skill1type = abc[10]
+            db2[i].skill2spd = abc[11]
+            db2[i].skill2type = abc[12]
+        });
+    })
+
+}
+
 
 
 function check6Star(x) {
@@ -79,72 +127,36 @@ function check6Star(x) {
 }
 
 
-// PASSIVE 1 PASSIVE 2  SKILL 1 SKILL 2 LEAD
-function getFromIDs(id, Star) {
-    return new Promise(function (resolve, reject) {
-        var arr = []
-        if (Star[0] == 0 || Star[0] == undefined) {
-            for (let i in db) {
-                if (db[i]['id']['id'] == id) {
-                    arr.push(db[i]['id']['ability1'])
-                    arr.push(db[i]['id']['ability2'])
-                    arr.push(db[i]['id']['skill1'])
-                    arr.push(db[i]['id']['skill2'])
-                    arr.push(db[i]['id']['lead'])
-                    arr.push(db[i]['id']['name'])
-                    arr.push(db[i]['id']['title'])
-                    resolve(arr)
-                }
-            }
-        }
-        else {
-            for (let i in db) {
-                if (db[i]['id']['id'] == id) {
-                    arr.push(Star[0])
-                    arr.push(Star[1])
-                    arr.push(Star[2])
-                    arr.push(Star[3])
-                    arr.push(db[i]['id']['lead'])
-                    arr.push(db[i]['id']['name'])
-                    arr.push(db[i]['id']['title'])
-                    resolve(arr)
-                }
-            }
-        }
-    })
-}
-
-
-function editInfo(msg, abc, x, Ids) {
+function editInfo(msg, x) {
     msg.edit({
         embed: {
             color: 3447003,
             author: {
-                name: String(abc[5]),
-                icon_url: "http://nsc-db.github.io/common/assets/img/units/icons/thumb_" + x + abc[6]
+                name: String(db2[x].name),
+                icon_url: "http://nsc-db.github.io/common/assets/img/units/icons/thumb_" + x + db2[x].url
             },
             "thumbnail": {
-                "url": "http://nsc-db.github.io/common/assets/img/units/" + x + abc[6]
+                "url": "http://nsc-db.github.io/common/assets/img/units/" + x + db2[x].url
             },
             // Thumbnail : '',
             title: "Name",
             color: 3447003,
-            description: abc[5] + ', ' + Ids[6],
+            description: db2[x].name + ', ' + db2[x].title,
             fields: [{
                 name: "Roles",
-                value: '**Main Role** : ' + abc[12][0] + ' **Rating**: ' + abc[12][1] + '\n**Secondary Role** : ' + abc[12][2] + ' **Rating**: ' + abc[12][3],
+                value: '**Main Role** : ' + db2[x].roles[0] + ' **Rating**: ' + db2[x].roles[1] + '\n**Secondary Role** : ' + db2[x].roles[2] + ' **Rating**: ' + db2[x].roles[3],
             },
             {
                 name: "Skills",
-                value: '**Skill1** : ' + abc[2] + '**\n' + abc[7] + ', ' + abc[8][1] + ', ' + abc[8][0] + '**\n**Skill2** : ' + abc[3] + '**\n' + abc[9] + ', ' + abc[10][1] + ', ' + abc[10][0] + '**',
+                value: '**Skill1** : ' + db2[x].skill1 + '**\n' + db2[x].skill1spd + ', ' + db2[x].skill1type[0] + ', ' + db2[x].skill1type[1] + '**\n**Skill2** : ' + db2[x].skill2 + '**\n' + db2[x].skill2spd + ', ' + db2[x].skill2type[0] + ', ' + db2[x].skill2type[1] + '**',
             },
             {
                 name: "Passives",
-                value: '**Ability1** : ' + abc[0] + '\n**Ability2** : ' + abc[1],
+                value: '**Ability1** : ' + db2[x].ability1 + '\n**Ability2** : ' + db2[x].ability2,
             },
             {
                 name: "Leader Skill",
-                value: "" + abc[4]
+                value: "" + db2[x].lead
             }
             ],
         }
@@ -152,36 +164,36 @@ function editInfo(msg, abc, x, Ids) {
 }
 
 
-function sendMessage(msg, abc, x, Ids) {
+function sendMessage(msg, x) {
     msg.channel.send({
         embed: {
             color: 3447003,
             author: {
-                name: String(abc[5]),
-                icon_url: "http://nsc-db.github.io/common/assets/img/units/icons/thumb_" + x + abc[6]
+                name: String(db2[x].name),
+                icon_url: "http://nsc-db.github.io/common/assets/img/units/icons/thumb_" + x + db2[x].url
             },
             "thumbnail": {
-                "url": "http://nsc-db.github.io/common/assets/img/units/" + x + abc[6]
+                "url": "http://nsc-db.github.io/common/assets/img/units/" + x + db2[x].url
             },
             // Thumbnail : '',
             title: "Name",
             color: 3447003,
-            description: abc[5] + ', ' + Ids[6],
+            description: db2[x].name + ', ' + db2[x].title,
             fields: [{
                 name: "Roles",
-                value: '**Main Role** : ' + abc[12][0] + ' **Rating**: ' + abc[12][1] + '\n**Secondary Role** : ' + abc[12][2] + ' **Rating**: ' + abc[12][3],
+                value: '**Main Role** : ' + db2[x].roles[0] + ' **Rating**: ' + db2[x].roles[1] + '\n**Secondary Role** : ' + db2[x].roles[2] + ' **Rating**: ' + db2[x].roles[3],
             },
             {
                 name: "Skills",
-                value: '**Skill1** : ' + abc[2] + '**\n' + abc[7] + ', ' + abc[8][1] + ', ' + abc[8][0] + '**\n**Skill2** : ' + abc[3] + '**\n' + abc[9] + ', ' + abc[10][1] + ', ' + abc[10][0] + '**',
+                value: '**Skill1** : ' + db2[x].skill1 + '**\n' + db2[x].skill1spd + ', ' + db2[x].skill1type[0] + ', ' + db2[x].skill1type[1] + '**\n**Skill2** : ' + db2[x].skill2 + '**\n' + db2[x].skill2spd + ', ' + db2[x].skill2type[0] + ', ' + db2[x].skill2type[1] + '**',
             },
             {
                 name: "Passives",
-                value: '**Ability1** : ' + abc[0] + '\n**Ability2** : ' + abc[1],
+                value: '**Ability1** : ' + db2[x].ability1 + '\n**Ability2** : ' + db2[x].ability2,
             },
             {
                 name: "Leader Skill",
-                value: "" + abc[4]
+                value: "" + db2[x].lead
             }
             ],
         }
@@ -196,16 +208,16 @@ function sendMessage(msg, abc, x, Ids) {
                 let author = msg.author.id
                 if (author == user.id) {
                     if (reaction.emoji.name == "🇦") {
-                        editArt(message, abc, x)
+                        editArt(message, x)
                     }
                     if (reaction.emoji.name == "🇹") {
-                        editThumb(message, abc, x)
+                        editThumb(message, x)
                     }
                     if (reaction.emoji.name == "🇮") {
-                        editInfo(message, abc, x, Ids)
+                        editInfo(message, x)
                     }
                     if (reaction.emoji.name == "🇻") {
-                        editVideo(message, abc, x, Ids)
+                        editVideo(message, x)
                     }
                     if (reaction.emoji.name == "👌") {
                         message.delete()
@@ -321,7 +333,7 @@ function getRoles(id) {
                 tags.push(tag[i].secondary)
                 tags.push(tag[i].secondaryrating)
             }
-        } 
+        }
         resolve(tags)
     })
 }
@@ -366,7 +378,9 @@ client.on('message', msg => {
     if (msg.content.split(" ")[0].toLowerCase() === '!id') {
         var x = [msg.content.split(" ")[1]]
         x = x[0]
-        findID(x, msg)
+        if (db2[x] != undefined) {
+            sendMessage(msg, x)
+        }
     }
 
     if (msg.content.split(" ")[0].toLowerCase() === '!nick') {
@@ -376,65 +390,33 @@ client.on('message', msg => {
                 x = tag[i].cardId
             }
         }
-        findID(x, msg)
+        if (db2[x] != undefined) {
+            sendMessage(msg, x)
+        }
     }
 
     if (msg.content.split(" ")[0].toLowerCase() === '!thumb') {
-        var charInfo = []
         var x = msg.content.slice(7);
         for (let i in tag) {
             if (tag[i].nickname.toLowerCase().includes(x.toLowerCase())) {
                 x = tag[i].cardId
             }
         }
-        check6Star(x).then(function (Star) {
-            getFromIDs(x, Star).then(function (Ids) {
-                charInfo.push(getAbilities(Ids[0]))    //0
-                charInfo.push(getAbilities(Ids[1]))    //1
-                charInfo.push(getSkills(Ids[2]))    //2
-                charInfo.push(getSkills(Ids[3]))    //3
-                charInfo.push(getLeaderSkill(Ids[4]))    //4
-                charInfo.push(getName(Ids[5]))      //5
-                charInfo.push(checkURL(x))    //6
-                charInfo.push(getSpeed(Ids[2]))    //7
-                charInfo.push(getType(Ids[2]))    //8
-                charInfo.push(getSpeed(Ids[3]))    //9
-                charInfo.push(getType(Ids[3]))    //10
-
-                Promise.all(charInfo).then(function (abc) {
-                    sendThumb(msg, abc, x)
-                });
-            })
-        })
+        if (db2[x] != undefined) {
+            sendThumb(msg, x)
+        }
     }
 
     if (msg.content.split(" ")[0].toLowerCase() === '!art') {
-        var charInfo = []
         var x = msg.content.slice(5);
         for (let i in tag) {
             if (tag[i].nickname.toLowerCase().includes(x.toLowerCase())) {
                 x = tag[i].cardId
             }
         }
-        check6Star(x).then(function (Star) {
-            getFromIDs(x, Star).then(function (Ids) {
-                charInfo.push(getAbilities(Ids[0]))    //0
-                charInfo.push(getAbilities(Ids[1]))    //1
-                charInfo.push(getSkills(Ids[2]))    //2
-                charInfo.push(getSkills(Ids[3]))    //3
-                charInfo.push(getLeaderSkill(Ids[4]))    //4
-                charInfo.push(getName(Ids[5]))      //5
-                charInfo.push(checkURL(x))    //6
-                charInfo.push(getSpeed(Ids[2]))    //7
-                charInfo.push(getType(Ids[2]))    //8
-                charInfo.push(getSpeed(Ids[3]))    //9
-                charInfo.push(getType(Ids[3]))    //10
-
-                Promise.all(charInfo).then(function (abc) {
-                    sendArt(msg, abc, x)
-                });
-            })
-        })
+        if (db2[x] != undefined) {
+            sendArt(msg, x)
+        }
     }
 
     // //STUPID STUFF
@@ -444,12 +426,11 @@ client.on('message', msg => {
     // if (message.content == '<:FeelsHighMan:230163773145612299>') {
     //     message.react('230163773145612299')
     // }
-    // if (message.content == '!renshin' || message.content == '!Renshin' || message.content == '!riab' || message.content == '!RIAB') {
-    //     message.channel.send('Renshin is a bitch')
-    // }
+    if (msg.content.toLowerCase() == '!renshin') {
+        msg.channel.send('Renshin is a bitch')
+    }
 
     if (msg.content.split(" ")[0].toLowerCase() === '!search') {
-        var charInfo = []
         var x = [msg.content.split(" ")[1]]
         x = x[0]
         var output = nickarr.filter(s => s.toLowerCase().includes(x.toLowerCase()))
@@ -458,7 +439,7 @@ client.on('message', msg => {
         }
     }
 
-    if (msg.content == '!nindo' || msg.content == '!NINDO' || msg.content == '!Nindo') {
+    if (msg.content.toLowerCase() == '!nindo') {
         msg.channel.send("```Nindo levels can be raised by leveling up a character with duplicates of them or with 3 star, 4 star, and 5 star nindo tickets. God units and pvp reward units can only have their nindo levels raised with duplicates of them.  With each level increase of a character's nindo the character's hp, attack, and defense will get incremental buffs. When maxed out you will have the opportunity to select a buff to them such as an increase to a specific stat, additional chakra, additional skill damage boosts, or a cast speed boost by 1 stage.```")
     }
 
@@ -506,80 +487,50 @@ function sanitize(message, time) {
 }
 client.login(process.env.token);
 
-function sendThumb(msg, abc, x) {
+function sendThumb(msg, x) {
     msg.channel.send({
         "embed": {
             "image": {
-                "url": "http://nsc-db.github.io/common/assets/img/units/icons/thumb_" + x + abc[6]
+                "url": "http://nsc-db.github.io/common/assets/img/units/icons/thumb_" + x + db2[x].url
             }
         }
     });
 }
 
 
-function editThumb(msg, abc, x) {
+function editThumb(msg, x) {
     msg.edit({
         "embed": {
             "image": {
-                "url": "http://nsc-db.github.io/common/assets/img/units/icons/thumb_" + x + abc[6]
+                "url": "http://nsc-db.github.io/common/assets/img/units/icons/thumb_" + x + db2[x].url
             }
         }
     });
 }
 
 
-function sendArt(msg, abc, x) {
+function sendArt(msg, x) {
     msg.channel.send({
         "embed": {
             "image": {
-                "url": "http://nsc-db.github.io/common/assets/img/units/" + x + abc[6]
+                "url": "http://nsc-db.github.io/common/assets/img/units/" + x + db2[x].url
             }
         }
     });
 }
 
 
-function editArt(msg, abc, x) {
+function editArt(msg, x) {
     msg.edit({
         "embed": {
             "image": {
-                "url": "http://nsc-db.github.io/common/assets/img/units/" + x + abc[6]
+                "url": "http://nsc-db.github.io/common/assets/img/units/" + x + db2[x].url
             }
         }
     });
 }
 
 
-function editVideo(msg, abc, x) {
-    var regex = /embed\//gi;
-    let video = abc[11]
-    video = video.replace(regex, 'watch?v=')
-    msg.edit(video, { "embed": {} });
-}
-
-
-function findID(x, msg) {
-    var charInfo = []
-    check6Star(x).then(function (Star) {
-        getFromIDs(x, Star).then(function (Ids) {
-            charInfo.push(getAbilities(Ids[0]))    //0
-            charInfo.push(getAbilities(Ids[1]))    //1
-            charInfo.push(getSkills(Ids[2]))    //2
-            charInfo.push(getSkills(Ids[3]))    //3
-            charInfo.push(getLeaderSkill(Ids[4]))    //4
-            charInfo.push(getName(Ids[5]))      //5
-            charInfo.push(checkURL(x))    //6
-            charInfo.push(getSpeed(Ids[2]))    //7
-            charInfo.push(getType(Ids[2]))    //8
-            charInfo.push(getSpeed(Ids[3]))    //9
-            charInfo.push(getType(Ids[3]))    //10
-            charInfo.push(getVideo(x))        //11
-            charInfo.push(getRoles(x))        //12
-
-
-            Promise.all(charInfo).then(function (abc) {
-                sendMessage(msg, abc, x, Ids)
-            });
-        })
-    })
+function editVideo(msg, x) {
+    msg.edit(db2[x].video, { "embed": {} });
 }
