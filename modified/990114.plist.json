@@ -1673,6 +1673,26 @@
           "type": "2"
         },
         {
+          "cardUnusualId": "171",
+          "category": "3",
+          "iconId": "1191",
+          "name": "束愛",
+          "description": "スキルダメージ・素早さアップ、HP0以下で1回耐える、行動ごとにチャクラ回復",
+          "subScore": "0",
+          "color": "14423100",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "172",
+          "category": "3",
+          "iconId": "1192",
+          "name": "威力",
+          "description": "スキルダメージ・素早さアップ、HP0以下で4回耐える、チャクラ消費0",
+          "subScore": "0",
+          "color": "49151",
+          "type": "2"
+        },
+        {
           "cardUnusualId": "173",
           "category": "4",
           "iconId": "1193",

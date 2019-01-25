@@ -4643,6 +4643,16 @@
           "gachaTicketImgId": "3485"
         },
         {
+          "gachaTicketId": "3486",
+          "gachaTicketName": "総出陣・滅ガチャチケット",
+          "gachaTicketImgId": "3486"
+        },
+        {
+          "gachaTicketId": "3487",
+          "gachaTicketName": "総出陣・滅★6",
+          "gachaTicketImgId": "3486"
+        },
+        {
           "gachaTicketId": "3488",
           "gachaTicketName": "超大放出祭ガチャチケット",
           "gachaTicketImgId": "3488"
@@ -4701,6 +4711,21 @@
           "gachaTicketId": "3499",
           "gachaTicketName": "超時空の旋光・祭",
           "gachaTicketImgId": "3498"
+        },
+        {
+          "gachaTicketId": "3502",
+          "gachaTicketName": "愛と力ガチャチケット",
+          "gachaTicketImgId": "3502"
+        },
+        {
+          "gachaTicketId": "3503",
+          "gachaTicketName": "愛と力・祭",
+          "gachaTicketImgId": "3502"
+        },
+        {
+          "gachaTicketId": "3515",
+          "gachaTicketName": "ミナト誕生記念ガチャチケット",
+          "gachaTicketImgId": "3515"
         },
         {
           "gachaTicketId": "100084",
