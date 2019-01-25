@@ -7032,6 +7032,36 @@ window.skillname=[
           "eng": "I'll Bring it Down Here!!"
         },
         {
+          "cardBattleSkillNameId": "2606",
+          "name": "雲流剣術",
+          "eng": "Kumo Swordskills"
+        },
+        {
+          "cardBattleSkillNameId": "2607",
+          "name": "クールになさいクールに！",
+          "eng": "Cool It!!"
+        },
+        {
+          "cardBattleSkillNameId": "2614",
+          "name": "真数千手・不惜身命",
+          "eng": "True Thousand Hands: Unforgiving Mercy"
+        },
+        {
+          "cardBattleSkillNameId": "2615",
+          "name": "父上…みんな…！",
+          "eng": "Father....Everyone...!"
+        },
+        {
+          "cardBattleSkillNameId": "2616",
+          "name": "須佐能乎・不倶戴天",
+          "eng": "Susanoo: Irreconcilable"
+        },
+        {
+          "cardBattleSkillNameId": "2617",
+          "name": "これが力だ",
+          "eng": "This is Power"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！",
           "eng": ""

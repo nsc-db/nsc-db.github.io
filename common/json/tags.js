@@ -8286,10 +8286,10 @@ window.tags=[
           "rate": "94",
           "pvp": "83",
           "nickname": "Shisui v1",
-          "role": "",
-          "rolerating": "",
-          "secondary": "",
-          "secondaryrating": ""
+          "role": "Debuffer",
+          "rolerating": "SSS",
+          "secondary": "Tank",
+          "secondaryrating": "S+"
 },
 {
           "cardId": "20040310",
@@ -9677,11 +9677,11 @@ window.tags=[
           "tag": "killers",
           "rate": "",
           "pvp": "",
-          "nickname": "Killer Zetsu",
-          "role": "",
-          "rolerating": "",
-          "secondary": "",
-          "secondaryrating": ""
+          "nickname": "Destroyer Zetsu | Killer Zetsu",
+          "role": "Tank",
+          "rolerating": "SS",
+          "secondary": "Debuffer",
+          "secondaryrating": "S+"
 },
 {
           "cardId": "20041210",
@@ -9874,5 +9874,41 @@ window.tags=[
           "rolerating": "SS",
           "secondary": "Debuffer",
           "secondaryrating": "B+"
+},
+{
+          "cardId": "20050116",
+          "rare": "5",
+          "tag": "ex-6",
+          "rate": "",
+          "pvp": "",
+          "nickname": "Ashura v3",
+          "role": "Damage",
+          "rolerating": "S+",
+          "secondary": "Support",
+          "secondaryrating": "S+"
+},
+{
+          "cardId": "20050117",
+          "rare": "5",
+          "tag": "ex-6",
+          "rate": "",
+          "pvp": "",
+          "nickname": "Indra v2",
+          "role": "Damage",
+          "rolerating": "SS",
+          "secondary": "Tank",
+          "secondaryrating": "SS"
+},
+{
+          "cardId": "20050201",
+          "rare": "5",
+          "tag": "pmiles",
+          "rate": "",
+          "pvp": "",
+          "nickname": "White chick that i forgot the name of",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 }
 ]

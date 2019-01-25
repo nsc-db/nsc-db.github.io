@@ -5624,6 +5624,30 @@ window.skillname=[
           "name": "ここで仕留めなければ！！"
         },
         {
+          "cardBattleSkillNameId": "2606",
+          "name": "雲流剣術"
+        },
+        {
+          "cardBattleSkillNameId": "2607",
+          "name": "クールになさいクールに！"
+        },
+        {
+          "cardBattleSkillNameId": "2614",
+          "name": "真数千手・不惜身命"
+        },
+        {
+          "cardBattleSkillNameId": "2615",
+          "name": "父上…みんな…！"
+        },
+        {
+          "cardBattleSkillNameId": "2616",
+          "name": "須佐能乎・不倶戴天"
+        },
+        {
+          "cardBattleSkillNameId": "2617",
+          "name": "これが力だ"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },
