@@ -17991,6 +17991,42 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2049",
+          "abilityName": "Connecting Bonds",
+          "abilityDescription": "Cut 100% Damage from enemy Sasuke Uchiha and Madara Uchiha (Including Fixed Damage)",
+          "abilityEffectDescription": "敵の「うちはサスケ、うちはマダラ（年代問わず）」からのダメージを100％カットする※耐性無視攻撃含む",
+          "effectIdx1": "1955",
+          "effectIdx2": "2077",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2050",
+          "abilityName": "Heart of an Ally",
+          "abilityDescription": "Very high chance to dodge Skills. For 2 turns, Chakra Cost -50% and Skill Damage +150%",
+          "abilityEffectDescription": "超高確率でスキル回避、2回行動するまでチャクラ消費量半減&amp;スキルダメージが150%アップ",
+          "effectIdx1": "1897",
+          "effectIdx2": "1521",
+          "effectIdx3": "30114"
+        },
+        {
+          "abilityId": "2051",
+          "abilityName": "Bondless Power",
+          "abilityDescription": "Cut 100% Damage from enemy Naruto Uzumaki and Hashihrama Senju (Including Fixed Damage)",
+          "abilityEffectDescription": "敵の「うずまきナルト、千手柱間（年代問わず）」からのダメージを100％カットする※耐性無視攻撃含む",
+          "effectIdx1": "2074",
+          "effectIdx2": "2075",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2052",
+          "abilityName": "Ninjutsu Genius",
+          "abilityDescription": "Very high chance to dodge Skills. For 2 turns, Chakra Cost -50% and Skill Damage +150%",
+          "abilityEffectDescription": "超高確率でスキル回避、2回行動するまでチャクラ消費量半減&amp;スキルダメージが150%アップ",
+          "effectIdx1": "1897",
+          "effectIdx2": "1521",
+          "effectIdx3": "30114"
+        },
+        {
           "abilityId": "2053",
           "abilityName": "Removing Limiter",
           "abilityDescription": "For 3 turns, Chakra Cost is set to 9. For 5 turns, Chakra Cost -50%",
@@ -18420,6 +18456,24 @@ window.ability=[
           "abilityEffectDescription": "バトル開始時に先制攻撃、高確率でスキルを回避する",
           "effectIdx1": "2068",
           "effectIdx2": "968",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2103",
+          "abilityName": "Cool Thoughts",
+          "abilityDescription": "Chakra Recovery +10%",
+          "abilityEffectDescription": "行動後にチャクラが10％回復する",
+          "effectIdx1": "528",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2104",
+          "abilityName": "Cool Recommendation",
+          "abilityDescription": "ATK +200% and Cast Speed +1 when HP is above 80%",
+          "abilityEffectDescription": "HP80％以上の時攻撃力200％アップしスキル発動速度が1段階アップ",
+          "effectIdx1": "1391",
+          "effectIdx2": "1728",
           "effectIdx3": "0"
         },
         {

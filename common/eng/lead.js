@@ -10361,6 +10361,32 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "810",
+          "name": "愛による共栄",
+          "description": "Body and Intellect ATK, DEF and SPD +70%",
+          "effectIdx1": "11069",
+          "effectIdx2": "12069",
+          "effectIdx3": "13069",
+          "compType": "2",
+          "target1Category": "1",
+          "target1Param": "3",
+          "target2Category": "1",
+          "target2Param": "6"
+        },
+        {
+          "cardLeaderSkillId": "811",
+          "name": "力による威服",
+          "description": "Technique and Heart ATK, DEF and SPD +70%",
+          "effectIdx1": "11069",
+          "effectIdx2": "12069",
+          "effectIdx3": "13069",
+          "compType": "2",
+          "target1Category": "1",
+          "target1Param": "2",
+          "target2Category": "1",
+          "target2Param": "1"
+        },
+        {
           "cardLeaderSkillId": "812",
           "name": "奮え揮う闘根",
           "description": "Konoha ATK and Skill Damage +60%",
@@ -10682,6 +10708,19 @@ window.lead=[
           "compType": "1",
           "target1Category": "2",
           "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+         {
+          "cardLeaderSkillId": "839",
+          "name": "峻厳の麗雲",
+          "description": "All Characters ATK +30%",
+          "effectIdx1": "182",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
           "target2Category": "0",
           "target2Param": "0"
         },

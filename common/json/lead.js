@@ -10374,6 +10374,32 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "810",
+          "name": "愛による共栄",
+          "description": "体と知属性の攻撃力・防御力・素早さを70%アップ",
+          "effectIdx1": "11069",
+          "effectIdx2": "12069",
+          "effectIdx3": "13069",
+          "compType": "2",
+          "target1Category": "1",
+          "target1Param": "3",
+          "target2Category": "1",
+          "target2Param": "6"
+        },
+        {
+          "cardLeaderSkillId": "811",
+          "name": "力による威服",
+          "description": "技と心属性の攻撃力・防御力・素早さを70%アップ",
+          "effectIdx1": "11069",
+          "effectIdx2": "12069",
+          "effectIdx3": "13069",
+          "compType": "2",
+          "target1Category": "1",
+          "target1Param": "2",
+          "target2Category": "1",
+          "target2Param": "1"
+        },
+        {
           "cardLeaderSkillId": "812",
           "name": "奮え揮う闘根",
           "description": "木ノ葉隠れの里所属の攻撃力とスキルダメージを60%アップする",
@@ -10695,6 +10721,19 @@ window.lead=[
           "compType": "1",
           "target1Category": "2",
           "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+         {
+          "cardLeaderSkillId": "839",
+          "name": "峻厳の麗雲",
+          "description": "全属性の攻撃力が30％アップする",
+          "effectIdx1": "182",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
           "target2Category": "0",
           "target2Param": "0"
         },

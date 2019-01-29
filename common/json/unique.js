@@ -9094,5 +9094,53 @@ window.unique=[
           "effectIdx2": "820",
           "effectIdx3": "20002",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "773",
+          "targetCrystal": "20123",
+          "description": "弱体・状態異常半減、スキル発動速度2段階アップ、キャンセル無効",
+          "charaIds": "14401,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "776",
+          "effectIdx2": "1549",
+          "effectIdx3": "1751",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "774",
+          "targetCrystal": "20124",
+          "description": "チャクラ消費量30%ダウン、素早さ80%アップ、行動後にチャクラ20%回復",
+          "charaIds": "14401,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "859",
+          "effectIdx2": "13079",
+          "effectIdx3": "583",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "775",
+          "targetCrystal": "20125",
+          "description": "弱体・状態異常半減、スキル発動速度2段階アップ、キャンセル無効",
+          "charaIds": "14501,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "776",
+          "effectIdx2": "1549",
+          "effectIdx3": "1751",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "776",
+          "targetCrystal": "20126",
+          "description": "チャクラ消費量30%ダウン、素早さ80%アップ、行動後にチャクラ20%回復",
+          "charaIds": "14501,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "859",
+          "effectIdx2": "13079",
+          "effectIdx3": "583",
+          "effectIdx4": "0"
         }
 ]

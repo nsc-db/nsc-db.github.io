@@ -2999,6 +2999,20 @@
           "gender": "1"
         },
         {
+          "charaProfileId": "21701",
+          "charaId": "217",
+          "name": "サムイ",
+          "detail": null,
+          "charaLoveAffinityGroupId": "21710",
+          "birthday": "107",
+          "constellation": "10",
+          "height": "16800",
+          "weight": "5210",
+          "bloodType": "1",
+          "age": "29",
+          "gender": "2"
+        },
+        {
           "charaProfileId": "50001",
           "charaId": "0",
           "name": "根",

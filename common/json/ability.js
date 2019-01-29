@@ -18009,6 +18009,42 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2049",
+          "abilityName": "絆の繋がり",
+          "abilityDescription": "敵の「うちはサスケ、うちはマダラ（年代問わず）」からのダメージを100％カットする※耐性無視攻撃含む",
+          "abilityEffectDescription": "敵の「うちはサスケ、うちはマダラ（年代問わず）」からのダメージを100％カットする※耐性無視攻撃含む",
+          "effectIdx1": "1955",
+          "effectIdx2": "2077",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2050",
+          "abilityName": "仲間想う心",
+          "abilityDescription": "超高確率でスキル回避、2回行動するまでチャクラ消費量半減&amp;スキルダメージが150%アップ",
+          "abilityEffectDescription": "超高確率でスキル回避、2回行動するまでチャクラ消費量半減&amp;スキルダメージが150%アップ",
+          "effectIdx1": "1897",
+          "effectIdx2": "1521",
+          "effectIdx3": "30114"
+        },
+        {
+          "abilityId": "2051",
+          "abilityName": "絆なき力",
+          "abilityDescription": "敵の「うずまきナルト、千手柱間（年代問わず）」からのダメージを100％カットする※耐性無視攻撃含む",
+          "abilityEffectDescription": "敵の「うずまきナルト、千手柱間（年代問わず）」からのダメージを100％カットする※耐性無視攻撃含む",
+          "effectIdx1": "2074",
+          "effectIdx2": "2075",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2052",
+          "abilityName": "忍術生みし天才",
+          "abilityDescription": "超高確率でスキル回避、2回行動するまでチャクラ消費量半減&amp;スキルダメージが150%アップ",
+          "abilityEffectDescription": "超高確率でスキル回避、2回行動するまでチャクラ消費量半減&amp;スキルダメージが150%アップ",
+          "effectIdx1": "1897",
+          "effectIdx2": "1521",
+          "effectIdx3": "30114"
+        },
+        {
           "abilityId": "2053",
           "abilityName": "リミッター外し",
           "abilityDescription": "3回行動するまでチャクラ消費0になる代わりに、5回行動以降防御時のチャクラ回復量半減",
@@ -18438,6 +18474,24 @@ window.ability=[
           "abilityEffectDescription": "バトル開始時に先制攻撃、高確率でスキルを回避する",
           "effectIdx1": "2068",
           "effectIdx2": "968",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2103",
+          "abilityName": "クールな思考",
+          "abilityDescription": "行動後にチャクラが10％回復する",
+          "abilityEffectDescription": "行動後にチャクラが10％回復する",
+          "effectIdx1": "528",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2104",
+          "abilityName": "クールの薦め",
+          "abilityDescription": "HP80％以上の時攻撃力200％アップしスキル発動速度が1段階アップ",
+          "abilityEffectDescription": "HP80％以上の時攻撃力200％アップしスキル発動速度が1段階アップ",
+          "effectIdx1": "1391",
+          "effectIdx2": "1728",
           "effectIdx3": "0"
         },
         {
