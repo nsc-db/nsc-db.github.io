@@ -11,7 +11,7 @@ var Promise = require('bluebird');
 var url = ""
 var db2 = []
 var nickarr = []
-
+var timer = ''
 const abilitys = JSON.parse(fs.readFileSync("../common/eng/ability.js", "utf8").slice(15));
 const characterInfo = JSON.parse(fs.readFileSync('../common/eng/chara.js', 'utf8').slice(13));
 const charNames = JSON.parse(fs.readFileSync('../common/eng/charaname.js', 'utf8').slice(17));
@@ -204,9 +204,15 @@ function sendMessage(msg, x) {
             message.react("🇹")
             message.react("🇻")
             message.react("👌")
+            if (msg.author.id == 175714457723338752 || 148584580398448640){
+                message.react("👍")
+            }
             client.on("messageReactionAdd", (reaction, user) => {
                 let author = msg.author.id
                 if (author == user.id) {
+                    if (reaction.emoji.name == "👍" && (user.id == 175714457723338752 || user.id == 148584580398448640)) {
+                        clearTimeout(timer);
+                    }
                     if (reaction.emoji.name == "🇦") {
                         editArt(message, x)
                     }
@@ -368,15 +374,15 @@ function checkURL(x) {
 
 
 client.on('message', msg => {
-
     if (msg.author.bot === true) {
         if (aggrsz === true) {
-            sanitize(msg, aggrtimeout);
+            timer = setTimeout(function(){        msg.delete(0).catch(console.log("duplicate request"));        }, aggrtimeout)
         }
     }
 
     if (msg.content.split(" ")[0].toLowerCase() === '!id') {
         var x = [msg.content.split(" ")[1]]
+        msg.delete(msg.id)
         x = x[0]
         if (db2[x] != undefined) {
             sendMessage(msg, x)
@@ -385,6 +391,7 @@ client.on('message', msg => {
 
     if (msg.content.split(" ")[0].toLowerCase() === '!nick') {
         var x = msg.content.slice(6);
+        msg.delete(msg.id)
         for (let i in tag) {
             if (tag[i].nickname.toLowerCase().includes(x.toLowerCase())) {
                 x = tag[i].cardId
@@ -397,6 +404,8 @@ client.on('message', msg => {
 
     if (msg.content.split(" ")[0].toLowerCase() === '!thumb') {
         var x = msg.content.slice(7);
+        msg.delete(msg.id)
+
         for (let i in tag) {
             if (tag[i].nickname.toLowerCase().includes(x.toLowerCase())) {
                 x = tag[i].cardId
@@ -409,6 +418,8 @@ client.on('message', msg => {
 
     if (msg.content.split(" ")[0].toLowerCase() === '!art') {
         var x = msg.content.slice(5);
+        msg.delete(msg.id)
+
         for (let i in tag) {
             if (tag[i].nickname.toLowerCase().includes(x.toLowerCase())) {
                 x = tag[i].cardId
@@ -432,6 +443,8 @@ client.on('message', msg => {
 
     if (msg.content.split(" ")[0].toLowerCase() === '!search') {
         var x = [msg.content.split(" ")[1]]
+        msg.delete(msg.id)
+
         x = x[0]
         var output = nickarr.filter(s => s.toLowerCase().includes(x.toLowerCase()))
         if (output != "") {
@@ -440,10 +453,13 @@ client.on('message', msg => {
     }
 
     if (msg.content.toLowerCase() == '!nindo') {
+        msg.delete(msg.id)
         msg.channel.send("```Nindo levels can be raised by leveling up a character with duplicates of them or with 3 star, 4 star, and 5 star nindo tickets. God units and pvp reward units can only have their nindo levels raised with duplicates of them.  With each level increase of a character's nindo the character's hp, attack, and defense will get incremental buffs. When maxed out you will have the opportunity to select a buff to them such as an increase to a specific stat, additional chakra, additional skill damage boosts, or a cast speed boost by 1 stage.```")
     }
 
     if (msg.content == '!help' || msg.content == '!Help' || msg.content == '!HELP') {
+        msg.delete(msg.id)
+
         msg.channel.send({
             embed: {
                 title: "!Help",
@@ -482,7 +498,7 @@ client.on('message', msg => {
 
 function sanitize(message, time) {
     if (sz === true) {
-        message.delete(time).catch(console.log("duplicate request"));
+        message.delete(0).catch(console.log("duplicate request"));
     }
 }
 client.login(process.env.token);
