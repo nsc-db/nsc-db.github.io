@@ -3741,6 +3741,12 @@
           "speechCharactorName": "カンクロウ"
         },
         {
+          "speechCharactorId": "629",
+          "cardId": "20050211",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "ペイン"
+        },
+        {
           "speechCharactorId": "1000",
           "cardId": "21000091",
           "speechCharactorImgId": "1000",

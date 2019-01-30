@@ -458,6 +458,19 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
+          "worldStageId": "4085",
+          "worldAreaId": "5",
+          "priority": "2",
+          "name": "秩序を制する神",
+          "description": "Ptランキング開催！\r\n個人Ptはイベント期間中のみ加算されます",
+          "notice": "※個人Pt報酬は、達成と同時に直接付与されます。\r\n※報酬の付与にはお時間をいただく場合がございます。\r\n※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
           "worldStageId": "5001",
           "worldAreaId": "5",
           "priority": "55",

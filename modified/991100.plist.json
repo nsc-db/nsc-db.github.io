@@ -2103,6 +2103,20 @@
           "gender": "1"
         },
         {
+          "charaProfileId": "11802",
+          "charaId": "118",
+          "name": "ペイン",
+          "detail": null,
+          "charaLoveAffinityGroupId": "11810",
+          "birthday": "919",
+          "constellation": "6",
+          "height": "17650",
+          "weight": "5720",
+          "bloodType": "0",
+          "age": "0",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "11901",
           "charaId": "119",
           "name": "トビ",

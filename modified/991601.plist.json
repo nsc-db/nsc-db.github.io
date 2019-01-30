@@ -874,6 +874,19 @@
           "selectType": "1"
         },
         {
+          "itemId": "11068",
+          "name": "2月限定ラーメン(2019)",
+          "description": "スタミナを全回復するラーメン（2月28日まで期間限定）",
+          "resultWord": "0",
+          "itemCategoryId": "1",
+          "itemValue": "1000000",
+          "itemNum": "0",
+          "itemImageId": "11020",
+          "needCount": "1",
+          "priority": "1",
+          "selectType": "1"
+        },
+        {
           "itemId": "15001",
           "name": "共闘コイン",
           "description": "共闘コインガチャの実行に必要なコイン。",

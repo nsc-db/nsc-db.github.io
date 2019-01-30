@@ -1691,6 +1691,14 @@
           "skillUrl": "https://www.youtube.com/embed/MossINnwbTU?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
         },
         {
+          "gachaCardAdditionId": "224",
+          "targetCardId": "20050211",
+          "additionId": "1",
+          "params": "0,",
+          "limitedFlg": "104",
+          "skillUrl": "https://www.youtube.com/embed/4XebgAhW43s?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
+        },
+        {
           "gachaCardAdditionId": "1001",
           "targetCardId": "20001600",
           "additionId": "0",

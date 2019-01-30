@@ -1751,6 +1751,16 @@
           "subScore": "0",
           "color": "16772167",
           "type": "3"
+        },
+        {
+          "cardUnusualId": "180",
+          "category": "4",
+          "iconId": "1200",
+          "name": "斥力",
+          "description": "特定スキル無効、耐性無視効果無効、弱体系特殊状態を解除＆無効化、攻撃受けると敵全体キャンセル",
+          "subScore": "0",
+          "color": "16316664",
+          "type": "2"
         }
       ]
     }
