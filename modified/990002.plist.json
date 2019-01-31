@@ -1,8 +1,4 @@
-{
-  "resData": {
-    "990002": {
-      "loginBonusRewardM": [
-        {
+[        {
           "loginBonusRewardId": "9",
           "loginBonusId": "2",
           "loginCount": "1",
@@ -523,6 +519,3 @@
           "assetNum": "1"
         }
       ]
-    }
-  }
-}

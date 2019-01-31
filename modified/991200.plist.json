@@ -1,8 +1,4 @@
-{
-  "resData": {
-    "991200": {
-      "crystalOverwriteEffectM": [
-        {
+[        {
           "crystalOverwriteEffectId": "1",
           "targetCrystal": "115",
           "description": "最大HPと攻撃力が40%アップし、仙術スキルのダメージが100%アップ",
@@ -9183,6 +9179,3 @@
           "effectIdx4": "0"
         }
       ]
-    }
-  }
-}

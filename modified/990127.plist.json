@@ -1,8 +1,4 @@
-{
-  "resData": {
-    "990127": {
-      "abilityLoveAffinityM": [
-        {
+[        {
           "abilityLoveAffinityId": "110010",
           "charaLoveAffinityGroupId": "110",
           "level": "10",
@@ -10209,6 +10205,3 @@
           "effectId": "1"
         }
       ]
-    }
-  }
-}

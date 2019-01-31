@@ -1,8 +1,4 @@
-{
-  "resData": {
-    "990113": {
-      "cardEffectM": [
-        {
+[        {
           "cardEffectId": "1",
           "timing": "11",
           "conditionType": "0",
@@ -44211,6 +44207,3 @@
           "effectParam3": "0"
         }
       ]
-    }
-  }
-}

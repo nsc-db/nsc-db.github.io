@@ -1,8 +1,4 @@
-{
-  "resData": {
-    "990910": {
-      "worldMissionM": [
-        {
+[        {
           "worldMissionId": "1",
           "missionCategoryId": "1",
           "name": "２人一組",
@@ -957,6 +953,3 @@
           "conditionGeneral": "2420"
         }
       ]
-    }
-  }
-}

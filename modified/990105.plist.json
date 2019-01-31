@@ -1,8 +1,4 @@
-{
-  "resData": {
-    "990105": {
-      "cardBattleSkillNameM": [
-        {
+[        {
           "cardBattleSkillNameId": "1",
           "name": "螺旋丸"
         },
@@ -5791,6 +5787,3 @@
           "name": "ガサ…ガサ…"
         }
       ]
-    }
-  }
-}

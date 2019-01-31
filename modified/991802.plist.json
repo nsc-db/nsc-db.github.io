@@ -1,8 +1,4 @@
-{
-  "resData": {
-    "991802": {
-      "mypageOrnamentM": [
-        {
+[        {
           "mypageOrnamentId": "1000001",
           "name": "0",
           "rarity": "1",
@@ -3945,6 +3941,3 @@
           "purchaseReleaseTime": "0000-00-00 00:00:00"
         }
       ]
-    }
-  }
-}

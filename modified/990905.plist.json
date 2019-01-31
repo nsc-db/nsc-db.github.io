@@ -1,8 +1,4 @@
-{
-  "resData": {
-    "990905": {
-      "worldPhaseM": [
-        {
+[        {
           "worldPhaseId": "1",
           "worldAreaId": "1",
           "worldStageId": "1",
@@ -18723,6 +18719,3 @@
           "bgImgId": "1"
         }
       ]
-    }
-  }
-}

@@ -1,8 +1,4 @@
-{
-  "resData": {
-    "990126": {
-      "charaLoveAffinityM": [
-        {
+[        {
           "charaLoveAffinityId": "110",
           "message1": "少し仲良くなったってばよ",
           "message2": "割りと仲良くなったってばよ",
@@ -10,6 +6,3 @@
           "message4": "超仲良くなったってばよ"
         }
       ]
-    }
-  }
-}

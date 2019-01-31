@@ -1,8 +1,4 @@
-{
-  "resData": {
-    "990106": {
-      "cardExperienceM": [
-        {
+[        {
           "cardExperienceId": "1",
           "rare": "1",
           "level": "1",
@@ -3723,6 +3719,3 @@
           "experienceNum": "562013"
         }
       ]
-    }
-  }
-}

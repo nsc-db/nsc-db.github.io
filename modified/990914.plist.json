@@ -1,8 +1,4 @@
-{
-  "resData": {
-    "990914": {
-      "modelM": [
-        {
+[        {
           "modelId": "0",
           "hpGaugeHeight": "48",
           "motionType": "1",
@@ -1059,6 +1055,3 @@
           "attackScriptName": "skip"
         }
       ]
-    }
-  }
-}

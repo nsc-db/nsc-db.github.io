@@ -1,8 +1,4 @@
-{
-  "resData": {
-    "990104": {
-      "cardEvolutionM": [
-        {
+[        {
           "cardEvolutionId": "823",
           "cardId": "20001639",
           "evolutionStep": "2",
@@ -24678,6 +24674,3 @@
           "deleteFlg": "0"
         }
       ]
-    }
-  }
-}

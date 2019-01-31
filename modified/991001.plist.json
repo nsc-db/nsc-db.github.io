@@ -1,8 +1,4 @@
-{
-  "resData": {
-    "991001": {
-      "scriptMessageM": [
-        {
+[        {
           "scriptMessageId": "1",
           "speechCharactorId": "80",
           "message": ""
@@ -91703,6 +91699,3 @@
           "message": "切らせねェ…"
         }
       ]
-    }
-  }
-}

@@ -1,8 +1,4 @@
-{
-  "resData": {
-    "990904": {
-      "worldStageM": [
-        {
+[        {
           "worldStageId": "1",
           "worldAreaId": "1",
           "priority": "0",
@@ -1706,6 +1702,3 @@
           "closeTime": "0000.00.00 00:00:00"
         }
       ]
-    }
-  }
-}

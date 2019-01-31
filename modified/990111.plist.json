@@ -1,8 +1,4 @@
-{
-  "resData": {
-    "990111": {
-      "cardBattleSkillLevelM": [
-        {
+[        {
           "cardBattleSkillLevelId": "1",
           "levelType": "1",
           "level": "1",
@@ -723,6 +719,3 @@
           "battleSkillParam": "0"
         }
       ]
-    }
-  }
-}

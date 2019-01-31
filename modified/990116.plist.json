@@ -1,8 +1,4 @@
-{
-  "resData": {
-    "990116": {
-      "cardStatusAdditionM": [
-        {
+[        {
           "cardStatusAdditionId": "10001",
           "cardId": "20000021",
           "conditionType": "1",
@@ -40197,6 +40193,3 @@
           "motionType": "0"
         }
       ]
-    }
-  }
-}

@@ -1,8 +1,4 @@
-{
-  "resData": {
-    "990125": {
-      "cardCharaGroupM": [
-        {
+[        {
           "cardCharaGroupId": "100000",
           "name": "うずまきナルト",
           "charaProfileIds": "101,102,103,104,105,",
@@ -183,6 +179,3 @@
           "cardIds": "0"
         }
       ]
-    }
-  }
-}

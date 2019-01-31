@@ -1,8 +1,4 @@
-{
-  "resData": {
-    "991003": {
-      "defineSettingM": [
-        {
+[        {
           "defineKey": "card_rare_max",
           "defineValue": "6"
         },
@@ -595,6 +591,3 @@
           "defineValue": "0"
         }
       ]
-    }
-  }
-}

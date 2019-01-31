@@ -1,8 +1,4 @@
-{
-  "resData": {
-    "990120": {
-      "cardStarPieceEvolutionM": [
-        {
+[        {
           "id": "1001",
           "rare": "1",
           "step": "1",
@@ -153,6 +149,3 @@
           "asset": "192"
         }
       ]
-    }
-  }
-}

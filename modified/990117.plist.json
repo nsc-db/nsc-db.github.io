@@ -1,8 +1,4 @@
-{
-  "resData": {
-    "990117": {
-      "cardBelongChainEffectM": [
-        {
+[        {
           "cardBelongChainEffectId": "1",
           "chainName": "木ノ葉隠れの里所属",
           "description": "攻撃力10%アップ",
@@ -99,6 +95,3 @@
           "priority": "0"
         }
       ]
-    }
-  }
-}

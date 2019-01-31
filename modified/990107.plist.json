@@ -1,8 +1,4 @@
-{
-  "resData": {
-    "990107": {
-      "cardRunSkillM": [
-        {
+[        {
           "cardRunSkillId": "3",
           "name": "螺旋丸",
           "description": "【突進系】突進しながら敵を巻き込む螺旋丸を放つ。",
@@ -11,6 +7,3 @@
           "runSkillType": "1"
         }
       ]
-    }
-  }
-}

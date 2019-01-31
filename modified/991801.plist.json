@@ -1,8 +1,4 @@
-{
-  "resData": {
-    "991801": {
-      "mypageSceneryM": [
-        {
+[        {
           "mypageSceneryId": "1000001",
           "name": "マイペ背景",
           "rarity": "1",
@@ -595,6 +591,3 @@
           "purchaseReleaseTime": "0000-00-00 00:00:00"
         }
       ]
-    }
-  }
-}

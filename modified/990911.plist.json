@@ -1,8 +1,4 @@
-{
-  "resData": {
-    "990911": {
-      "worldPhaseMissionRewardM": [
-        {
+[        {
           "worldPhaseMissionRewardId": "1",
           "worldPhaseId": "1",
           "assetCategoryId": "2",
@@ -7570,6 +7566,3 @@
           "assetNum": "1"
         }
       ]
-    }
-  }
-}

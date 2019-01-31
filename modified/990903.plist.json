@@ -1,8 +1,4 @@
-{
-  "resData": {
-    "990903": {
-      "worldAreaM": [
-        {
+[        {
           "worldAreaId": "1",
           "priority": "0",
           "name": "通常任務",
@@ -75,6 +71,3 @@
           "closeTime": "2034.01.01 00:00:00"
         }
       ]
-    }
-  }
-}

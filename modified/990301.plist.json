@@ -1,8 +1,4 @@
-{
-  "resData": {
-    "990301": {
-      "crystalM": [
-        {
+[        {
           "crystalId": "1",
           "crystalType": "1",
           "crystalRare": "1",
@@ -16995,6 +16991,3 @@
           "recipeName": "天道のネイル"
         }
       ]
-    }
-  }
-}

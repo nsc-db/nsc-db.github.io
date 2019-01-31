@@ -1,8 +1,4 @@
-{
-  "resData": {
-    "990005": {
-      "battleFieldEffectM": [
-        {
+[        {
           "battleFieldEffectId": "1",
           "name": "溶岩地帯",
           "category": "1",
@@ -673,6 +669,3 @@
           "enemyEffects": "2007,2008,731,"
         }
       ]
-    }
-  }
-}

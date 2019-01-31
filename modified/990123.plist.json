@@ -1,8 +1,4 @@
-{
-  "resData": {
-    "990123": {
-      "cardBehaveAffectLinkM": [
-        {
+[        {
           "cardBehaveAffectLinkId": "2429",
           "linkMaster": "0",
           "linkIdx": "2429",
@@ -40253,6 +40249,3 @@
           "ope3Params": "0"
         }
       ]
-    }
-  }
-}

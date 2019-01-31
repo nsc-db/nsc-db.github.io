@@ -1,8 +1,4 @@
-{
-  "resData": {
-    "990121": {
-      "cardBehaveAffectM": [
-        {
+[        {
           "cardBehaveAffectId": "100",
           "timing": "3",
           "func": "1",
@@ -6411,6 +6407,3 @@
           "category": "0"
         }
       ]
-    }
-  }
-}

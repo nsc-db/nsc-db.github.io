@@ -1,8 +1,4 @@
-{
-  "resData": {
-    "991020": {
-      "titleM": [
-        {
+[        {
           "titleId": "1",
           "title": "忍者学校の",
           "description": "",
@@ -4299,6 +4295,3 @@
           "equipStatus": "3"
         }
       ]
-    }
-  }
-}

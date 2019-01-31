@@ -1,8 +1,4 @@
-{
-  "resData": {
-    "990118": {
-      "cardCharaChainEffectM": [
-        {
+[        {
           "cardCharaChainEffectId": "2001",
           "chainName": "ライバル",
           "description": "攻撃力2%アップ",
@@ -2943,6 +2939,3 @@
           "charaGroupIds4": null
         }
       ]
-    }
-  }
-}

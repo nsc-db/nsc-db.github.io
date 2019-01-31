@@ -1,8 +1,4 @@
-{
-  "resData": {
-    "990305": {
-      "materialM": [
-        {
+[        {
           "materialId": "1",
           "materialName": "体のチャクラ（小）",
           "materialRare": "1",
@@ -1407,6 +1403,3 @@
           "materialImageId": "9999"
         }
       ]
-    }
-  }
-}

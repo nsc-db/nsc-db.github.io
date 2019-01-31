@@ -1,8 +1,4 @@
-{
-  "resData": {
-    "990128": {
-      "loveAffinityExperienceM": [
-        {
+[        {
           "loveAffinityExperienceId": "1",
           "level": "1",
           "experienceNum": "150",
@@ -703,6 +699,3 @@
           "effectId": "200098"
         }
       ]
-    }
-  }
-}

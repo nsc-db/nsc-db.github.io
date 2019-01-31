@@ -1,8 +1,4 @@
-{
-  "resData": {
-    "990202": {
-      "userExperienceM": [
-        {
+[        {
           "userExperienceId": "1",
           "level": "1",
           "experienceNum": "20",
@@ -9003,6 +8999,3 @@
           "experienceSum": "609813314"
         }
       ]
-    }
-  }
-}

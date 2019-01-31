@@ -1,8 +1,4 @@
-{
-  "resData": {
-    "990109": {
-      "abilityM": [
-        {
+[        {
           "abilityId": "1",
           "abilityName": "HP自動回復（小）",
           "abilityDescription": "行動後にHPが５％回復する",
@@ -19047,6 +19043,3 @@
           "effectIdx3": "0"
         }
       ]
-    }
-  }
-}

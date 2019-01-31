@@ -1,8 +1,4 @@
-{
-  "resData": {
-    "990119": {
-      "cardLevelLimitPlusMaxBonusM": [
-        {
+[        {
           "cardLevelLimitPlusMaxBonusId": "1001",
           "rare": "1",
           "title": "最大HP　",
@@ -339,6 +335,3 @@
           "effectIds": "20500"
         }
       ]
-    }
-  }
-}

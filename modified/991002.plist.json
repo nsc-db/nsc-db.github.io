@@ -1,8 +1,4 @@
-{
-  "resData": {
-    "991002": {
-      "scriptSettingM": [
-        {
+[        {
           "scriptSettingId": "30000000",
           "triggerId": "5",
           "priority": "100",
@@ -2145,6 +2141,3 @@
           "deleteFlg": "0"
         }
       ]
-    }
-  }
-}

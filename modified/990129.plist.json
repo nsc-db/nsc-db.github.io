@@ -1,8 +1,4 @@
-{
-  "resData": {
-    "990129": {
-      "charaTypeEvolutionMaterialM": [
-        {
+[        {
           "charaTypeEvolutionMaterialId": "1",
           "charaType": "1",
           "charaTypeEvolutionMaterialGroupId": "100"
@@ -68,6 +64,3 @@
           "charaTypeEvolutionMaterialGroupId": "200"
         }
       ]
-    }
-  }
-}

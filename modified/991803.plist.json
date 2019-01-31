@@ -1,8 +1,4 @@
-{
-  "resData": {
-    "991803": {
-      "mypageCustomPurchaseM": [
-        {
+[        {
           "mypageCustomPurchaseId": "101",
           "type": "1",
           "rarity": "1",
@@ -59,6 +55,3 @@
           "assetNum": "3"
         }
       ]
-    }
-  }
-}

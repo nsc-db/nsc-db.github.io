@@ -1,8 +1,4 @@
-{
-  "resData": {
-    "991000": {
-      "appUiM": [
-        {
+[        {
           "appUiId": "1",
           "uiKey": "Connecting",
           "text": "通信中"
@@ -7303,6 +7299,3 @@
           "text": "のこり"
         }
       ]
-    }
-  }
-}

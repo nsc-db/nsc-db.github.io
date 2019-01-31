@@ -1,8 +1,4 @@
-{
-  "resData": {
-    "991009": {
-      "shopExchageItemM": [
-        {
+[        {
           "shopExchangeItemId": "1",
           "itemName": "カエル札",
           "measure": null,
@@ -2373,6 +2369,3 @@
           "itemImgId": "0"
         }
       ]
-    }
-  }
-}

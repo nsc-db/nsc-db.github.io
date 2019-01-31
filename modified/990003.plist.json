@@ -1,8 +1,4 @@
-{
-  "resData": {
-    "990003": {
-      "assetCategoryM": [
-        {
+[        {
           "assetCategoryId": "1",
           "assetTitle": "カード"
         },
@@ -107,6 +103,3 @@
           "assetTitle": "配置数"
         }
       ]
-    }
-  }
-}

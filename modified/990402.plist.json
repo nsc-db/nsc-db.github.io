@@ -1,8 +1,4 @@
-{
-  "resData": {
-    "990402": {
-      "gachaCardAdditionM": [
-        {
+[        {
           "gachaCardAdditionId": "10",
           "targetCardId": "20001519",
           "additionId": "1",
@@ -2979,6 +2975,3 @@
           "skillUrl": ""
         }
       ]
-    }
-  }
-}

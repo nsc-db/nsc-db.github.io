@@ -1,8 +1,4 @@
-{
-  "resData": {
-    "990108": {
-      "cardLeaderSkillM": [
-        {
+[        {
           "cardLeaderSkillId": "1",
           "name": "疾風の如く",
           "description": "心属性の攻撃力を１５％アップする",
@@ -10780,6 +10776,3 @@
           "target2Param": "0"
         }
       ]
-    }
-  }
-}

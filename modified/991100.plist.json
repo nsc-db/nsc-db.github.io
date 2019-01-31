@@ -1,8 +1,4 @@
-{
-  "resData": {
-    "991100": {
-      "charaProfileM": [
-        {
+[        {
           "charaProfileId": "101",
           "charaId": "1",
           "name": "うずまきナルト",
@@ -6667,6 +6663,3 @@
           "gender": "1"
         }
       ]
-    }
-  }
-}

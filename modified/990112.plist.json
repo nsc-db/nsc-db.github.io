@@ -1,8 +1,4 @@
-{
-  "resData": {
-    "990112": {
-      "cardRelateM": [
-        {
+[        {
           "cardRelateId": "1",
           "skilltype": [
             "1",
@@ -66811,6 +66807,3 @@
           ]
         }
       ]
-    }
-  }
-}

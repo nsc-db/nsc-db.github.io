@@ -1,8 +1,4 @@
-{
-  "resData": {
-    "990303": {
-      "crystalConditionLinkM": [
-        {
+[        {
           "crystalConditionLinkId": "1",
           "crystalId": "1",
           "crystalConditionId": "1"
@@ -148,6 +144,3 @@
           "crystalConditionId": "1"
         }
       ]
-    }
-  }
-}

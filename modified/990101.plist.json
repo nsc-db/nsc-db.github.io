@@ -1,8 +1,4 @@
-{
-  "resData": {
-    "990101": {
-      "cardM": [
-        {
+[        {
           "cardId": "20000001",
           "modelId": "0",
           "charaType": "1",
@@ -45103,6 +45099,3 @@
           "updateUserId": "11"
         }
       ]
-    }
-  }
-}

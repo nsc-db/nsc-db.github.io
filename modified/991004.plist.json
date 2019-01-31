@@ -1,8 +1,4 @@
-{
-  "resData": {
-    "991004": {
-      "speechCharactorM": [
-        {
+[        {
           "speechCharactorId": "1",
           "cardId": "20000751",
           "speechCharactorImgId": "1",
@@ -3771,6 +3767,3 @@
           "speechCharactorName": "お知らせ"
         }
       ]
-    }
-  }
-}

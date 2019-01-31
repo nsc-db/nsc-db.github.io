@@ -1,8 +1,4 @@
-{
-  "resData": {
-    "990122": {
-      "cardVoiceM": [
-        {
+[        {
           "cardVoiceId": "1",
           "cardId": "20001782",
           "dirName": "naruto",
@@ -2067,6 +2063,3 @@
           "voiceDeath": "sasuke_death_02_04"
         }
       ]
-    }
-  }
-}

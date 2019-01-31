@@ -1,8 +1,4 @@
-{
-  "resData": {
-    "990912": {
-      "worldPhaseCompositionM": [
-        {
+[        {
           "worldPhaseCompositionId": "1",
           "worldPhaseId": "1",
           "compositionNum": "1",
@@ -28237,6 +28233,3 @@
           "fieldEffect": "70"
         }
       ]
-    }
-  }
-}

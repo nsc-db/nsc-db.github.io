@@ -1,8 +1,4 @@
-{
-  "resData": {
-    "990304": {
-      "crystalRecipeM": [
-        {
+[        {
           "crystalRecipeId": "1",
           "recipeId": "1",
           "assetCategoryId": "13",
@@ -4756,6 +4752,3 @@
           "materialNum": "2"
         }
       ]
-    }
-  }
-}

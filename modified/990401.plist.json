@@ -1,8 +1,4 @@
-{
-  "resData": {
-    "990401": {
-      "gachaTicketM": [
-        {
+[        {
           "gachaTicketId": "1",
           "gachaTicketName": "招待ガチャ",
           "gachaTicketImgId": "1"
@@ -4808,6 +4804,3 @@
           "gachaTicketImgId": "25000055"
         }
       ]
-    }
-  }
-}

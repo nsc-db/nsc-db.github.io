@@ -1,8 +1,4 @@
-{
-  "resData": {
-    "990114": {
-      "cardUnusualM": [
-        {
+[        {
           "cardUnusualId": "1",
           "category": "1",
           "iconId": "1",
@@ -1763,6 +1759,3 @@
           "type": "2"
         }
       ]
-    }
-  }
-}

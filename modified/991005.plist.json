@@ -1,8 +1,4 @@
-{
-  "resData": {
-    "991005": {
-      "randomDropM": [
-        {
+[        {
           "randomDropId": "1",
           "randomDropGroupId": "1",
           "dropLot": "4000",
@@ -3435,6 +3431,3 @@
           "assetNum": "1"
         }
       ]
-    }
-  }
-}
