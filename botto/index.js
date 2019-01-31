@@ -374,7 +374,7 @@ function checkURL(x) {
 
 
 client.on('message', msg => {
-    if (msg.author.bot === true) {
+    if (msg.author.id == '479376809696165899') {
         if (aggrsz === true) {
             timer = setTimeout(function(){        msg.delete(0).catch(console.log("duplicate request"));        }, aggrtimeout)
         }
