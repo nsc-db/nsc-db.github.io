@@ -9910,5 +9910,17 @@ window.tags=[
           "rolerating": "",
           "secondary": "",
           "secondaryrating": ""
+},
+{
+          "cardId": "20050211",
+          "rare": "5",
+          "tag": "god",
+          "rate": "",
+          "pvp": "",
+          "nickname": "God Pain v1",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 }
 ]
