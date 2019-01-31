@@ -22,7 +22,6 @@ const skills = JSON.parse(fs.readFileSync('../common/eng/skill.js', 'utf8').slic
 const tag = JSON.parse(fs.readFileSync('../common/json/tags.js', 'utf8').slice(12));
 const evo = JSON.parse(fs.readFileSync('../common/json/evo.js', 'utf8').slice(11));
 var animation = fs.readFileSync('../modified/990402.plist.json', 'utf8')
-animation = "[" + animation + "]"
 const animations = JSON.parse(animation);
 
 client.on('ready', () => {
@@ -317,10 +316,10 @@ function getName(id) {
 function getVideo(id) {
     return new Promise(function (resolve, reject) {
         var video = ""
-        for (let i in animations[0]["resData"][990402]['gachaCardAdditionM']) {
-            if (animations[0]["resData"][990402]['gachaCardAdditionM'][i]['targetCardId'] == id) {
-                if (animations[0]["resData"][990402]['gachaCardAdditionM'][i]['skillUrl'] != null) {
-                    video = animations[0]["resData"][990402]['gachaCardAdditionM'][i]['skillUrl']
+        for (let i in animations) {
+            if (animations[i]['targetCardId'] == id) {
+                if (animations[i]['skillUrl'] != null) {
+                    video = animations[i]['skillUrl']
                 }
             }
         }
