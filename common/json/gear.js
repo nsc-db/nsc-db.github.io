@@ -16736,6 +16736,22 @@ window.gear=[
           "recipeName": "孤高の三日月"
         },
         {
+          "crystalId": "20117",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "860",
+          "effectIdx2": "615",
+          "effectIdx3": "13549",
+          "effectIdx4": "1912",
+          "money": "1000000",
+          "saleMoney": "2500",
+          "crystalName": "零・白の刻印",
+          "crystalDescription": "ﾁｬｸﾗ消費量20%減少、全ｽｷﾙﾀﾞﾒｰｼﾞ30%ｱｯﾌﾟ、素早さ50ｱｯﾌﾟ、3回行動まで確率でｽｷﾙ回避",
+          "crystalImageId": "201175",
+          "recipeId": "20117",
+          "recipeName": "零・白の刻印"
+        },
+        {
           "crystalId": "20118",
           "crystalType": "13",
           "crystalRare": "5",
@@ -16942,5 +16958,37 @@ window.gear=[
           "crystalImageId": "201305",
           "recipeId": "20130",
           "recipeName": "本物を操る傀儡忍者"
+        },
+        {
+          "crystalId": "20214",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "580",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "天道のピアス",
+          "crystalDescription": "輪廻眼タイプのスキルダメージ50%アップ",
+          "crystalImageId": "202145",
+          "recipeId": "20214",
+          "recipeName": "天道のピアス"
+        },
+        {
+          "crystalId": "20215",
+          "crystalType": "3",
+          "crystalRare": "5",
+          "effectIdx1": "10049",
+          "effectIdx2": "11049",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "天道のネイル",
+          "crystalDescription": "最大HPと攻撃力が50%アップする",
+          "crystalImageId": "202155",
+          "recipeId": "20215",
+          "recipeName": "天道のネイル"
         }
 ]

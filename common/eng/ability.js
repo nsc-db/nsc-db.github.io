@@ -18477,6 +18477,24 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2123",
+          "abilityName": "Constraint Magnetism",
+          "abilityDescription": "For 2 turns, SPD +150% and recover 30% HP and Chakra when attacked",
+          "abilityEffectDescription": "2回行動まで素早さ150%アップ、ダメージを受けた時にHPとチャクラが30%回復する",
+          "effectIdx1": "2046",
+          "effectIdx2": "1649",
+          "effectIdx3": "2082"
+        },
+        {
+          "abilityId": "2124",
+          "abilityName": "Abatement of Repulsive Force",
+          "abilityDescription": "Immune to Debbuf and Status Effects, When HP reach 0 revive 5 times",
+          "abilityEffectDescription": "弱体と状態異常を無効化し、HPが0以下で5回までHPが全回復する",
+          "effectIdx1": "880",
+          "effectIdx2": "1512",
+          "effectIdx3": "874"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

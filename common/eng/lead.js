@@ -10725,6 +10725,19 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "849",
+          "name": "引斥の憎恨",
+          "description": "“Akatsuki Characters ATK, DEF and SPD +120%, Incoming Skill Damage -120%",
+          "effectIdx1": "1851",
+          "effectIdx2": "30011",
+          "effectIdx3": "20501",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "8",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

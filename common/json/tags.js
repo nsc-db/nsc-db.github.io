@@ -9917,7 +9917,7 @@ window.tags=[
           "tag": "god",
           "rate": "",
           "pvp": "",
-          "nickname": "God Pain v1",
+          "nickname": "God Pain v1 | I want a hug",
           "role": "",
           "rolerating": "",
           "secondary": "",

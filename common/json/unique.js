@@ -9000,6 +9000,18 @@ window.unique=[
           "effectIdx4": "0"
         },
         {
+          "crystalOverwriteEffectId": "764",
+          "targetCrystal": "20117",
+          "description": "ﾁｬｸﾗ消費量半減、全ｽｷﾙﾀﾞﾒｰｼﾞ150%ｱｯﾌﾟ、素早さ250ｱｯﾌﾟ、5回行動まで150％の確率でｽｷﾙ回避",
+          "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "600000,",
+          "effectIdx1": "895",
+          "effectIdx2": "794",
+          "effectIdx3": "13703",
+          "effectIdx4": "2067"
+        },
+        {
           "crystalOverwriteEffectId": "765",
           "targetCrystal": "20118",
           "description": "チャクラ消費量が半減し、素早さ50%アップ、最大HP150%アップ",
@@ -9141,6 +9153,30 @@ window.unique=[
           "effectIdx1": "859",
           "effectIdx2": "13079",
           "effectIdx3": "583",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "779",
+          "targetCrystal": "20214",
+          "description": "バトル開始時チャクラ50%回復、全スキルダメージ150%、スキル発動速度1段階、最大チャクラ量100アップ",
+          "charaIds": "11802,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "794",
+          "effectIdx2": "21000",
+          "effectIdx3": "20009",
+          "effectIdx4": "1115"
+        },
+        {
+          "crystalOverwriteEffectId": "780",
+          "targetCrystal": "20215",
+          "description": "最大HPと攻撃力が150%アップし、素早さが200アップ",
+          "charaIds": "11802,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1212",
+          "effectIdx2": "1268",
+          "effectIdx3": "13699",
           "effectIdx4": "0"
         }
 ]

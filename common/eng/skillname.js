@@ -7062,6 +7062,11 @@ window.skillname=[
           "eng": "This is Power"
         },
         {
+          "cardBattleSkillNameId": "2620",
+          "name": "オレの痛みはお前以上だ",
+          "eng": "My Pain is Greater Than Yours"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！",
           "eng": ""

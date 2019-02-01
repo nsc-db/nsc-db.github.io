@@ -2027,4 +2027,16 @@ window.vo=[
           "voiceWin": "temari_win_02_07",
           "voiceDeath": "temari_death_02_03"
         },
+        {
+          "cardVoiceId": "172",
+          "cardId": "20050211",
+          "dirName": "pain",
+          "evolutionStep": "",
+          "voiceAppear": "pain_battle_02_03",
+          "voiceSkill1": "pain_attack_02_02,pain_skill_02_01",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "pain_win_02_01",
+          "voiceDeath": "pain_death_02_03"
+        },
 ]

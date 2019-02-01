@@ -5648,6 +5648,10 @@ window.skillname=[
           "name": "これが力だ"
         },
         {
+          "cardBattleSkillNameId": "2620",
+          "name": "オレの痛みはお前以上だ"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },
