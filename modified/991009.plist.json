@@ -1853,6 +1853,12 @@
           "itemImgId": "23"
         },
         {
+          "shopExchangeItemId": "317",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
           "shopExchangeItemId": "1001",
           "itemName": "下心Pt",
           "measure": null,
@@ -2037,6 +2043,12 @@
           "itemName": "“暁”忍具ガチャチケット交換券",
           "measure": "0",
           "itemImgId": "1031"
+        },
+        {
+          "shopExchangeItemId": "1032",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
         },
         {
           "shopExchangeItemId": "2000",

@@ -9155,6 +9155,30 @@
           "effectIdx4": "0"
         },
         {
+          "crystalOverwriteEffectId": "777",
+          "targetCrystal": "20203",
+          "description": "最大HP150%アップ、状態異常を無効化、2回行動まで全スキル無効",
+          "charaIds": "13202,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1212",
+          "effectIdx2": "82",
+          "effectIdx3": "663",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "778",
+          "targetCrystal": "20204",
+          "description": "素早さ100%アップ、2回行動までチャクラ消費量0、3回行動まで120%の確率でスキル回避",
+          "charaIds": "13202,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "13099",
+          "effectIdx2": "1646",
+          "effectIdx3": "2079",
+          "effectIdx4": "0"
+        },
+        {
           "crystalOverwriteEffectId": "779",
           "targetCrystal": "20214",
           "description": "バトル開始時チャクラ50%回復、全スキルダメージ150%、スキル発動速度1段階、最大チャクラ量100アップ",
@@ -9176,6 +9200,30 @@
           "effectIdx1": "1212",
           "effectIdx2": "1268",
           "effectIdx3": "13699",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "785",
+          "targetCrystal": "20220",
+          "description": "3回行動まで全スキルダメージ150%アップ、スキル発動速度1段階アップ、バトル開始時チャクラ50%回復",
+          "charaIds": "13303,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "30214",
+          "effectIdx2": "21000",
+          "effectIdx3": "1115",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "786",
+          "targetCrystal": "20221",
+          "description": "最大HPが100%アップ、行動するたびに素早さ50%アップ（最大3回まで）、行動後にチャクラが30%回復",
+          "charaIds": "13303,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "684",
+          "effectIdx2": "2089",
+          "effectIdx3": "820",
           "effectIdx4": "0"
         }
       ]

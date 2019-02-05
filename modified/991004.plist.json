@@ -3743,6 +3743,18 @@
           "speechCharactorName": "ペイン"
         },
         {
+          "speechCharactorId": "630",
+          "cardId": "20050204",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "弥彦"
+        },
+        {
+          "speechCharactorId": "631",
+          "cardId": "20050216",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "長門"
+        },
+        {
           "speechCharactorId": "1000",
           "cardId": "21000091",
           "speechCharactorImgId": "1000",

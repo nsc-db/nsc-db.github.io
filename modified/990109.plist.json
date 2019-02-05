@@ -18494,6 +18494,42 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2105",
+          "abilityName": "暗部の実力",
+          "abilityDescription": "確率でスキルを回避する",
+          "abilityEffectDescription": "確率でスキルを回避する",
+          "effectIdx1": "679",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2106",
+          "abilityName": "誓いの秘剣",
+          "abilityDescription": "弱体と状態異常を半減する",
+          "abilityEffectDescription": "弱体と状態異常を半減する",
+          "effectIdx1": "776",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2109",
+          "abilityName": "平和への強き想い",
+          "abilityDescription": "素早さ100%アップ、バトル開始時にチャクラが100％回復",
+          "abilityEffectDescription": "素早さ100%アップ、バトル開始時にチャクラが100％回復",
+          "effectIdx1": "13099",
+          "effectIdx2": "1994",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2110",
+          "abilityName": "組織の希望",
+          "abilityDescription": "3回行動までキャンセル無効、HP0以下で1回までHP全回復",
+          "abilityEffectDescription": "3回行動までキャンセル無効、HP0以下で1回までHP全回復",
+          "effectIdx1": "2070",
+          "effectIdx2": "312",
+          "effectIdx3": "874"
+        },
+        {
           "abilityId": "2123",
           "abilityName": "拘束の引力",
           "abilityDescription": "2回行動まで素早さ150%アップ、ダメージを受けた時にHPとチャクラが30%回復する",
@@ -18510,6 +18546,24 @@
           "effectIdx1": "880",
           "effectIdx2": "1512",
           "effectIdx3": "874"
+        },
+        {
+          "abilityId": "2131",
+          "abilityName": "師の教えと弟弟子への願い",
+          "abilityDescription": "バトル開始時にチャクラ50%回復、チャクラ50%以上で素早さ300%アップ",
+          "abilityEffectDescription": "バトル開始時にチャクラ50%回復、チャクラ50%以上で素早さ300%アップ",
+          "effectIdx1": "1115",
+          "effectIdx2": "2086",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2132",
+          "abilityName": "輪廻眼の本領",
+          "abilityDescription": "弱体と状態異常を無効化、行動後に高確率で全スキル無効、HPが0以下で1度だけ耐える",
+          "abilityEffectDescription": "弱体と状態異常を無効化、行動後に高確率で全スキル無効、HPが0以下で1度だけ耐える",
+          "effectIdx1": "880",
+          "effectIdx2": "2091",
+          "effectIdx3": "312"
         },
         {
           "abilityId": "10000",
