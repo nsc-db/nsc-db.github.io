@@ -5632,6 +5632,22 @@ window.skillname=[
           "name": "クールになさいクールに！"
         },
         {
+          "cardBattleSkillNameId": "2608",
+          "name": "水昇一刀両断"
+        },
+        {
+          "cardBattleSkillNameId": "2609",
+          "name": "さあ行くぞ！"
+        },
+        {
+          "cardBattleSkillNameId": "2612",
+          "name": "報復の刃"
+        },
+        {
+          "cardBattleSkillNameId": "2613",
+          "name": "仇はきっととってあげる"
+        },
+        {
           "cardBattleSkillNameId": "2614",
           "name": "真数千手・不惜身命"
         },
@@ -5650,6 +5666,10 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "2620",
           "name": "オレの痛みはお前以上だ"
+        },
+        {
+          "cardBattleSkillNameId": "2621",
+          "name": "いったんオレを倒せ！"
         },
         {
           "cardBattleSkillNameId": "10136",

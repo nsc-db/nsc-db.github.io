@@ -9783,13 +9783,13 @@ window.tags=[
           "cardId": "20050108",
           "rare": "5",
           "tag": "skill2damage-reward",
-          "skill1damage": "",
-          "skill2damage": "",
+          "skill1damage": "11294066",
+          "skill2damage": "5059125",
           "nickname": "Champion Indra",
           "role": "Debuffer",
           "rolerating": "SS+",
           "secondary": "Damage",
-          "secondaryrating": "SS"
+          "secondaryrating": "SSS"
 },
 {
           "cardId": "20050109",
@@ -9912,6 +9912,30 @@ window.tags=[
           "secondaryrating": ""
 },
 {
+          "cardId": "20050202",
+          "rare": "5",
+          "tag": "event",
+          "skill1damage": "",
+          "skill2damage": "",
+          "nickname": "Yagao",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
+},
+{
+          "cardId": "20050204",
+          "rare": "5",
+          "tag": "ex-6",
+          "skill1damage": "2201990",
+          "skill2damage": "0",
+          "nickname": "Yahiko v1",
+          "role": "Support",
+          "rolerating": "S",
+          "secondary": "Damage",
+          "secondaryrating": "S"
+},
+{
           "cardId": "20050211",
           "rare": "5",
           "tag": "god",
@@ -9922,5 +9946,17 @@ window.tags=[
           "rolerating": "SSS",
           "secondary": "Tank",
           "secondaryrating": "SSS"
+},
+{
+          "cardId": "20050216",
+          "rare": "5",
+          "tag": "ex-6",
+          "skill1damage": "919173",
+          "skill2damage": "0",
+          "nickname": "Edo Nagato | Nagato v1",
+          "role": "Assassin",
+          "rolerating": "SS",
+          "secondary": "Debuffer",
+          "secondaryrating": "S"
 }
 ]

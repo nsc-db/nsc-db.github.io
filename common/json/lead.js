@@ -10738,6 +10738,32 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "840",
+          "name": "月花舞刃",
+          "description": "心属性の木ノ葉隠れの里所属の攻撃力と素早さを80%アップ",
+          "effectIdx1": "11079",
+          "effectIdx2": "13079",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "1",
+          "target2Category": "2",
+          "target2Param": "1"
+        },
+        {
+          "cardLeaderSkillId": "842",
+          "name": "暁天に輝く意志",
+          "description": "雨隠れの里所属と”暁”所属の素早さとスキルダメージを80％アップする",
+          "effectIdx1": "13079",
+          "effectIdx2": "694",
+          "effectIdx3": "0",
+          "compType": "2",
+          "target1Category": "2",
+          "target1Param": "7",
+          "target2Category": "2",
+          "target2Param": "8"
+        },
+        {
           "cardLeaderSkillId": "849",
           "name": "引斥の憎恨",
           "description": "“暁”所属の攻撃・防御・素早さ・スキルダメージ120%アップ、全スキルダメージ半減",
@@ -10749,6 +10775,19 @@ window.lead=[
           "target1Param": "8",
           "target2Category": "0",
           "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "853",
+          "name": "操られし六道",
+          "description": "雨隠れの里所属と“暁”所属のスキルダメージを80%アップ、素早さを50%アップ",
+          "effectIdx1": "694",
+          "effectIdx2": "13049",
+          "effectIdx3": "0",
+          "compType": "2",
+          "target1Category": "2",
+          "target1Param": "7",
+          "target2Category": "2",
+          "target2Param": "8"
         },
         {
           "cardLeaderSkillId": "8507",

@@ -7042,6 +7042,26 @@ window.skillname=[
           "eng": "Cool It!!"
         },
         {
+          "cardBattleSkillNameId": "2608",
+          "name": "水昇一刀両断",
+          "eng": "Water Rising Stroke"
+        },
+        {
+          "cardBattleSkillNameId": "2609",
+          "name": "さあ行くぞ！",
+          "eng": "Here I Go!"
+        },
+        {
+          "cardBattleSkillNameId": "2612",
+          "name": "報復の刃",
+          "eng": "Blade of Retribution"
+        },
+        {
+          "cardBattleSkillNameId": "2613",
+          "name": "仇はきっととってあげる",
+          "eng": "The Enemy Will Surely Give In"
+        },
+        {
           "cardBattleSkillNameId": "2614",
           "name": "真数千手・不惜身命",
           "eng": "True Thousand Hands: Unforgiving Mercy"
@@ -7065,6 +7085,11 @@ window.skillname=[
           "cardBattleSkillNameId": "2620",
           "name": "オレの痛みはお前以上だ",
           "eng": "My Pain is Greater Than Yours"
+        },
+        {
+          "cardBattleSkillNameId": "2621",
+          "name": "いったんオレを倒せ！"
+          "eng": "Throw It All At Once"
         },
         {
           "cardBattleSkillNameId": "10136",
