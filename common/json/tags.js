@@ -9955,8 +9955,8 @@ window.tags=[
           "skill2damage": "0",
           "nickname": "Edo Nagato | Nagato v1",
           "role": "Assassin",
-          "rolerating": "SS",
+          "rolerating": "SSS",
           "secondary": "Debuffer",
-          "secondaryrating": "S"
+          "secondaryrating": "SS"
 }
 ]
