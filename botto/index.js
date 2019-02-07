@@ -3,7 +3,6 @@ const Discord = require('discord.js');
 var URLexists = require('url-exists');
 const client = new Discord.Client();
 const _ = require('underscore');
-var sz = true;
 var aggrsz = true;
 var aggrtimeout = 30000;
 var fs = require('fs');
@@ -19,6 +18,21 @@ var reactions = [
     "🇻",
     "👌",
     "👍"
+]
+var searchreactions = [
+    "◀",
+    "▶",
+    "\u0031\u20E3",
+    "\u0032\u20E3",
+    "\u0033\u20E3",
+    "\u0034\u20E3",
+    "\u0035\u20E3",
+    "\u0036\u20E3",
+    "\u0037\u20E3",
+    "\u0038\u20E3",
+    "\u0039\u20E3",
+    "🔟",
+
 ]
 const abilitys = JSON.parse(fs.readFileSync("../common/eng/ability.js", "utf8").slice(15));
 const characterInfo = JSON.parse(fs.readFileSync('../common/eng/chara.js', 'utf8').slice(13));
@@ -206,11 +220,11 @@ function sendMessage(msg, x) {
         }
     })
         .then(function (message) {
-            Promise.each(reactions, async function(reaction) {
-                if (reaction != "👍"){
+            Promise.each(reactions, async function (reaction) {
+                if (reaction != "👍") {
                     await message.react(reaction)
                 }
-                else{
+                else {
                     if (msg.author.id == 175714457723338752 || msg.author.id == 148584580398448640) {
                         await message.react(reaction)
                     }
@@ -456,11 +470,78 @@ client.on('message', msg => {
     if (msg.content.split(" ")[0].toLowerCase() === '!search') {
         var x = [msg.content.split(" ")[1]]
         msg.delete(msg.id)
-
+        let names = []
         x = x[0]
         var output = nickarr.filter(s => s.toLowerCase().includes(x.toLowerCase()))
         if (output != "") {
-            msg.channel.send(output)
+            for (let j in output) {
+                for (let i in tag) {
+                    if (tag[i].nickname.toLowerCase().includes(output[j].toLowerCase())) {
+                        let num = tag[i].cardId
+                        names.push(db2[num].title)
+                    }
+                }
+            }
+            output = output.chunk(10)
+            names = names.chunk(10)
+            let segment = 0 //Chunk in use
+            let message = new Discord.RichEmbed()
+            for (let i in output[0]) {
+                message.addField(output[0][i], names[0][i])
+            }
+            msg.channel.send(message).then(function (message) {
+                clearTimeout(timer);
+                if (output.length >= 2) {
+                    timer = setTimeout(function () { msg.delete(0).catch(console.log("duplicate request")); }, aggrtimeout * 2)
+                }
+                let react = searchreactions.slice(0, 2)//for later  output[0].length + 2);
+                Promise.each(react, async function (reaction) {
+                    await message.react(reaction)
+                })
+                client.on("messageReactionAdd", (reaction, user) => {
+                    if (message.id == reaction.message.id) {
+                        let author = msg.author.id
+                        if (author == user.id) {
+                            if (reaction.emoji.name == "◀") {
+                                if (segment != 0) {
+                                    segment = segment - 1
+                                    let edited = new Discord.RichEmbed()
+                                    for (let i in output[segment]) {
+                                        edited.addField(output[segment][i], names[segment][i])
+                                    }
+                                    message.edit(edited)
+
+
+                                }
+                            }
+                            if (reaction.emoji.name == "▶") {
+                                if (segment < output.length - 1) {
+                                    segment = segment + 1
+                                    let edited = new Discord.RichEmbed()
+                                    for (let i in output[segment]) {
+                                        edited.addField(output[segment][i], names[segment][i])
+                                    }
+                                    message.edit(edited)
+
+
+                                }
+                            }
+                            if (reaction.emoji.name == "🇮") {
+                                editInfo(message, x)
+                            }
+                            if (reaction.emoji.name == "🇻") {
+                                editVideo(message, x)
+                            }
+                            if (reaction.emoji.name == "👌") {
+                                message.delete()
+                            }
+                        }
+                    }
+                })
+
+            })
+
+
         }
     }
 
@@ -495,7 +576,7 @@ client.on('message', msg => {
                 },
                 {
                     name: "!FAQ",
-                    value: "Displays the FAQ"
+                    value: "Displays the FAQ, NOT IMPLEMENTED"
                 },
 
                 ],
@@ -504,12 +585,6 @@ client.on('message', msg => {
     }
 });
 
-
-function sanitize(message, time) {
-    if (sz === true) {
-        message.delete(0).catch(console.log("duplicate request"));
-    }
-}
 client.login(process.env.token);
 
 function sendThumb(msg, x) {
@@ -559,3 +634,12 @@ function editArt(msg, x) {
 function editVideo(msg, x) {
     msg.edit(db2[x].video, { "embed": {} });
 }
+
+Object.defineProperty(Array.prototype, 'chunk', {
+    value: function (chunkSize) {
+        var R = [];
+        for (var i = 0; i < this.length; i += chunkSize)
+            R.push(this.slice(i, i + chunkSize));
+        return R;
+    }
+});
