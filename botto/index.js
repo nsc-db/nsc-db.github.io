@@ -526,15 +526,6 @@ client.on('message', msg => {
 
                                 }
                             }
-                            if (reaction.emoji.name == "🇮") {
-                                editInfo(message, x)
-                            }
-                            if (reaction.emoji.name == "🇻") {
-                                editVideo(message, x)
-                            }
-                            if (reaction.emoji.name == "👌") {
-                                message.delete()
-                            }
                         }
                     }
                 })
