@@ -12,6 +12,13 @@ var url = ""
 var db2 = []
 var nickarr = []
 var timer = ''
+var reactions = [
+    "🇮",
+    "🇦",
+    "🇹",
+    "🇻",
+    "👌"
+]
 const abilitys = JSON.parse(fs.readFileSync("../common/eng/ability.js", "utf8").slice(15));
 const characterInfo = JSON.parse(fs.readFileSync('../common/eng/chara.js', 'utf8').slice(13));
 const charNames = JSON.parse(fs.readFileSync('../common/eng/charaname.js', 'utf8').slice(17));
@@ -198,34 +205,35 @@ function sendMessage(msg, x) {
         }
     })
         .then(function (message) {
-            message.react("🇮")
-            message.react("🇦")
-            message.react("🇹")
-            message.react("🇻")
-            message.react("👌")
-            if (msg.author.id == 175714457723338752 || 148584580398448640){
+            Promise.each(reactions, function(reaction) {
+                message.react(reaction)
+            })
+            if (msg.author.id == 175714457723338752 || 148584580398448640) {
                 message.react("👍")
             }
             client.on("messageReactionAdd", (reaction, user) => {
-                let author = msg.author.id
-                if (author == user.id) {
-                    if (reaction.emoji.name == "👍" && (user.id == 175714457723338752 || user.id == 148584580398448640)) {
-                        clearTimeout(timer);
-                    }
-                    if (reaction.emoji.name == "🇦") {
-                        editArt(message, x)
-                    }
-                    if (reaction.emoji.name == "🇹") {
-                        editThumb(message, x)
-                    }
-                    if (reaction.emoji.name == "🇮") {
-                        editInfo(message, x)
-                    }
-                    if (reaction.emoji.name == "🇻") {
-                        editVideo(message, x)
-                    }
-                    if (reaction.emoji.name == "👌") {
-                        message.delete()
+                if (message.id == reaction.message.id) {
+
+                    let author = msg.author.id
+                    if (author == user.id) {
+                        if (reaction.emoji.name == "👍" && (user.id == 175714457723338752 || user.id == 148584580398448640)) {
+                            clearTimeout(timer);
+                        }
+                        if (reaction.emoji.name == "🇦") {
+                            editArt(message, x)
+                        }
+                        if (reaction.emoji.name == "🇹") {
+                            editThumb(message, x)
+                        }
+                        if (reaction.emoji.name == "🇮") {
+                            editInfo(message, x)
+                        }
+                        if (reaction.emoji.name == "🇻") {
+                            editVideo(message, x)
+                        }
+                        if (reaction.emoji.name == "👌") {
+                            message.delete()
+                        }
                     }
                 }
             })
@@ -375,7 +383,7 @@ function checkURL(x) {
 client.on('message', msg => {
     if (msg.author.id == '479376809696165899') {
         if (aggrsz === true) {
-            timer = setTimeout(function(){        msg.delete(0).catch(console.log("duplicate request"));        }, aggrtimeout)
+            timer = setTimeout(function () { msg.delete(0).catch(console.log("duplicate request")); }, aggrtimeout)
         }
     }
 
@@ -484,10 +492,7 @@ client.on('message', msg => {
                     name: "!FAQ",
                     value: "Displays the FAQ"
                 },
-                {
-                    name: "!Update",
-                    value: "WIP"
-                },
+
                 ],
             }
         })
