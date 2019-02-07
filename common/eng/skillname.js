@@ -7088,7 +7088,7 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "2621",
-          "name": "いったんオレを倒せ！"
+          "name": "いったんオレを倒せ！",
           "eng": "Throw It All At Once"
         },
         {
