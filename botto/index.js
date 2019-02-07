@@ -17,7 +17,8 @@ var reactions = [
     "🇦",
     "🇹",
     "🇻",
-    "👌"
+    "👌",
+    "👍"
 ]
 const abilitys = JSON.parse(fs.readFileSync("../common/eng/ability.js", "utf8").slice(15));
 const characterInfo = JSON.parse(fs.readFileSync('../common/eng/chara.js', 'utf8').slice(13));
@@ -33,7 +34,7 @@ const animations = JSON.parse(animation);
 
 client.on('ready', () => {
     console.log(`Logged in as ${client.user.tag}!`);
-    client.user.setPresence({ game: { name: 'Reaction Menu Added' }, status: 'busy' });
+    client.user.setPresence({ game: { name: 'Reactions have set order' }, status: 'busy' });
 });
 
 
@@ -205,12 +206,16 @@ function sendMessage(msg, x) {
         }
     })
         .then(function (message) {
-            Promise.each(reactions, function(reaction) {
-                message.react(reaction)
+            Promise.each(reactions, async function(reaction) {
+                if (reaction != "👍"){
+                    await message.react(reaction)
+                }
+                else{
+                    if (msg.author.id == 175714457723338752 || msg.author.id == 148584580398448640) {
+                        await message.react(reaction)
+                    }
+                }
             })
-            if (msg.author.id == 175714457723338752 || 148584580398448640) {
-                message.react("👍")
-            }
             client.on("messageReactionAdd", (reaction, user) => {
                 if (message.id == reaction.message.id) {
 
