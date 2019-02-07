@@ -18477,6 +18477,42 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2105",
+          "abilityName": "Anbu's Merit",
+          "abilityDescription": "Chance to dodge Skills",
+          "abilityEffectDescription": "確率でスキルを回避する",
+          "effectIdx1": "679",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2106",
+          "abilityName": "Sword's Oath",
+          "abilityDescription": "Half the duration of Debuff and Status Effects",
+          "abilityEffectDescription": "弱体と状態異常を半減する",
+          "effectIdx1": "776",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2109",
+          "abilityName": "Striving for Peace",
+          "abilityDescription": "SPD +100% and start the Battle with 100% Chakra",
+          "abilityEffectDescription": "素早さ100%アップ、バトル開始時にチャクラが100％回復",
+          "effectIdx1": "13099",
+          "effectIdx2": "1994",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2110",
+          "abilityName": "Hopeful Organization",
+          "abilityDescription": "For 3 turns, immune to Cancel, when HP reach 0, revive once",
+          "abilityEffectDescription": "3回行動までキャンセル無効、HP0以下で1回までHP全回復",
+          "effectIdx1": "2070",
+          "effectIdx2": "312",
+          "effectIdx3": "874"
+        },
+        {
           "abilityId": "2123",
           "abilityName": "Constraint Magnetism",
           "abilityDescription": "For 2 turns, SPD +150% and recover 30% HP and Chakra when attacked",
@@ -18493,6 +18529,24 @@ window.ability=[
           "effectIdx1": "880",
           "effectIdx2": "1512",
           "effectIdx3": "874"
+        },
+        {
+          "abilityId": "2131",
+          "abilityName": "Desire of Mentoring a Younger Pupil",
+          "abilityDescription": "Star the Battle with 50% Chakra. When Chakra is above 50%, SPD +300%",
+          "abilityEffectDescription": "バトル開始時にチャクラ50%回復、チャクラ50%以上で素早さ300%アップ",
+          "effectIdx1": "1115",
+          "effectIdx2": "2086",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2132",
+          "abilityName": "Inherited Rinnegan",
+          "abilityDescription": "Immune to Debuffs and Status effects, high chance to be Immune to all Skills. When HP reach 0, withstand 1 attack",
+          "abilityEffectDescription": "弱体と状態異常を無効化、行動後に高確率で全スキル無効、HPが0以下で1度だけ耐える",
+          "effectIdx1": "880",
+          "effectIdx2": "2091",
+          "effectIdx3": "312"
         },
         {
           "abilityId": "10000",

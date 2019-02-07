@@ -1,6 +1,8 @@
 botto/node_modules/
 common/assets/img/restricted/
+common/testing/
 common/filter/
+common/json/info.js
 jp/test.html
 beta_gear/
 test/

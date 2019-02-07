@@ -16703,7 +16703,7 @@ window.gear=[
           "recipeId": "20114",
           "recipeName": "血染みの番傘"
         },
-         {
+        {
           "crystalId": "20115",
           "crystalType": "12",
           "crystalRare": "5",
@@ -16960,6 +16960,38 @@ window.gear=[
           "recipeName": "本物を操る傀儡忍者"
         },
         {
+          "crystalId": "20203",
+          "crystalType": "1",
+          "crystalRare": "5",
+          "effectIdx1": "10049",
+          "effectIdx2": "661",
+          "effectIdx3": "1985",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "弥彦のポーチ",
+          "crystalDescription": "最大HP50%アップ、状態異常を軽減、2回行動まで全スキルダメージ軽減",
+          "crystalImageId": "202035",
+          "recipeId": "20203",
+          "recipeName": "弥彦のポーチ"
+        },
+        {
+          "crystalId": "20204",
+          "crystalType": "3",
+          "crystalRare": "5",
+          "effectIdx1": "183",
+          "effectIdx2": "1863",
+          "effectIdx3": "2078",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "弥彦の任務服",
+          "crystalDescription": "素早さ30%アップ、2回行動までチャクラ消費量20%減少、3回行動まで確率でスキル回避",
+          "crystalImageId": "202045",
+          "recipeId": "20204",
+          "recipeName": "弥彦の任務服"
+        },
+        {
           "crystalId": "20214",
           "crystalType": "11",
           "crystalRare": "5",
@@ -16990,5 +17022,37 @@ window.gear=[
           "crystalImageId": "202155",
           "recipeId": "20215",
           "recipeName": "天道のネイル"
+        },
+        {
+          "crystalId": "20220",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "692",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "長門の穢土転生ﾏﾝﾄ",
+          "crystalDescription": "全スキルダメージ40%アップ",
+          "crystalImageId": "202205",
+          "recipeId": "20220",
+          "recipeName": "長門の穢土転生ﾏﾝﾄ"
+        },
+        {
+          "crystalId": "20221",
+          "crystalType": "3",
+          "crystalRare": "5",
+          "effectIdx1": "200058",
+          "effectIdx2": "2088",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "操られし輪廻眼",
+          "crystalDescription": "最大HPが30%アップ、行動するたびに素早さ10%アップ（最大3回まで）",
+          "crystalImageId": "202215",
+          "recipeId": "20221",
+          "recipeName": "操られし輪廻眼"
         }
 ]
