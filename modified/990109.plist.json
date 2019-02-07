@@ -18512,6 +18512,24 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2107",
+          "abilityName": "無意味な現実",
+          "abilityDescription": "無所属への単体スキル攻撃を受ける、2回行動まで素早さ150%アップ※かばうは複数人発動すると最後の発動者が有効",
+          "abilityEffectDescription": "無所属への単体スキル攻撃を受ける、2回行動まで素早さ150%アップ※かばうは複数人発動すると最後の発動者が有効",
+          "effectIdx1": "2071",
+          "effectIdx2": "2002",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2108",
+          "abilityName": "夢への野望",
+          "abilityDescription": "状態異常と幻無効、敵に五大隠れ里所属がいるとHP0以下で3回まで耐える",
+          "abilityEffectDescription": "状態異常と幻無効、敵に五大隠れ里所属がいるとHP0以下で3回まで耐える",
+          "effectIdx1": "82",
+          "effectIdx2": "1642",
+          "effectIdx3": "2072"
+        },
+        {
           "abilityId": "2109",
           "abilityName": "平和への強き想い",
           "abilityDescription": "素早さ100%アップ、バトル開始時にチャクラが100％回復",

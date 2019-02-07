@@ -1749,6 +1749,16 @@
           "type": "3"
         },
         {
+          "cardUnusualId": "179",
+          "category": "3",
+          "iconId": "1199",
+          "name": "空",
+          "description": "弱体系特殊状態無効、特定スキル無効、耐性無視効果無効、被攻撃時素早さ上昇、無所属対象の全体スキル無効",
+          "subScore": "0",
+          "color": "13882323",
+          "type": "2"
+        },
+        {
           "cardUnusualId": "180",
           "category": "4",
           "iconId": "1200",

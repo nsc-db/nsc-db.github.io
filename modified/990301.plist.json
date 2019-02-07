@@ -16959,6 +16959,38 @@
           "recipeName": "本物を操る傀儡忍者"
         },
         {
+          "crystalId": "20201",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "1379",
+          "effectIdx2": "2085",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "オビトの輪廻眼",
+          "crystalDescription": "2回行動するまでスキル速度1段階アップ&amp;低確率でキャンセル無効　",
+          "crystalImageId": "202015",
+          "recipeId": "20201",
+          "recipeName": "オビトの輪廻眼"
+        },
+        {
+          "crystalId": "20202",
+          "crystalType": "1",
+          "crystalRare": "5",
+          "effectIdx1": "13599",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "オビトの短刀",
+          "crystalDescription": "素早さ100アップ",
+          "crystalImageId": "202025",
+          "recipeId": "20202",
+          "recipeName": "オビトの短刀"
+        },
+        {
           "crystalId": "20203",
           "crystalType": "1",
           "crystalRare": "5",

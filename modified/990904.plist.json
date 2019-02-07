@@ -363,32 +363,6 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
-          "worldStageId": "1209",
-          "worldAreaId": "5",
-          "priority": "1",
-          "name": "三忍を継ぐ者",
-          "description": "三忍の力は、新たなる世代へと受け継がれる…!\r\n綱手&amp;サクラの新規忍具をゲットしよう！\r\n\r\n1/12に自来也&amp;ナルト篇\r\n1/15に大蛇丸&amp;サスケ篇が解放！",
-          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
-          "type": "0",
-          "prerequisiteWorldStageId": "0",
-          "openWeek": null,
-          "openTime": "0000.00.00 00:00:00",
-          "closeTime": "0000.00.00 00:00:00"
-        },
-        {
-          "worldStageId": "1212",
-          "worldAreaId": "5",
-          "priority": "2",
-          "name": "大激闘任務-睦月の陣-",
-          "description": "ランパートではドロップではなく\r\nクリア時に個人Ptを獲得できます。",
-          "notice": "※報酬のキャラは先行配信であり、後日別の手段で入手可能になります。\r\n※イベントの内容及び日程は告知なく変更となる場合がございます。",
-          "type": "0",
-          "prerequisiteWorldStageId": "0",
-          "openWeek": null,
-          "openTime": "0000.00.00 00:00:00",
-          "closeTime": "0000.00.00 00:00:00"
-        },
-        {
           "worldStageId": "1213",
           "worldAreaId": "5",
           "priority": "2",
@@ -459,6 +433,19 @@
           "priority": "1",
           "name": "受け継がれし理想",
           "description": "個人Ptを集めて\r\n“暁”メンバーの忍具を交換しよう！",
+          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
+          "worldStageId": "1219",
+          "worldAreaId": "5",
+          "priority": "1",
+          "name": "オレの目的は…",
+          "description": "個人Ptを集めてオビトの固有忍具を獲得しよう！",
           "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
           "type": "0",
           "prerequisiteWorldStageId": "0",

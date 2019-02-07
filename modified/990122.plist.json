@@ -2027,6 +2027,18 @@
           "voiceDeath": "minato_damage_02_02"
         },
         {
+          "cardVoiceId": "171",
+          "cardId": "20050203",
+          "dirName": "obito",
+          "evolutionStep": "",
+          "voiceAppear": "kamen_battle_02_02",
+          "voiceSkill1": "obito_skill_02_06,obito_skill_02_04",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "kamen_win_02_02",
+          "voiceDeath": "kamen_death_02_01"
+        },
+        {
           "cardVoiceId": "172",
           "cardId": "20050211",
           "dirName": "pain",

@@ -9203,6 +9203,30 @@
           "effectIdx4": "0"
         },
         {
+          "crystalOverwriteEffectId": "783",
+          "targetCrystal": "20201",
+          "description": "スキル速度1段階アップ、2回行動するまで全スキル無効&amp;キャンセル無効",
+          "charaIds": "50902,50903,14001,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1840",
+          "effectIdx2": "1839",
+          "effectIdx3": "1914",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "784",
+          "targetCrystal": "20202",
+          "description": "バトル開始時にチャクラ70%回復、素早さ200アップ",
+          "charaIds": "50902,50903,14001,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "2084",
+          "effectIdx2": "13699",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
+        },
+        {
           "crystalOverwriteEffectId": "785",
           "targetCrystal": "20220",
           "description": "3回行動まで全スキルダメージ150%アップ、スキル発動速度1段階アップ、バトル開始時チャクラ50%回復",
