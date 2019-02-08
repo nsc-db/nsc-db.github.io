@@ -3755,6 +3755,30 @@
           "speechCharactorName": "長門"
         },
         {
+          "speechCharactorId": "632",
+          "cardId": "20001533",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "夕日紅"
+        },
+        {
+          "speechCharactorId": "633",
+          "cardId": "20050207",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "夕日紅"
+        },
+        {
+          "speechCharactorId": "634",
+          "cardId": "20050208",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "照美メイ"
+        },
+        {
+          "speechCharactorId": "635",
+          "cardId": "20001648",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "青"
+        },
+        {
           "speechCharactorId": "1000",
           "cardId": "21000091",
           "speechCharactorImgId": "1000",

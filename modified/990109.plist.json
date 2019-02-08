@@ -18548,6 +18548,42 @@
           "effectIdx3": "874"
         },
         {
+          "abilityId": "2115",
+          "abilityName": "幻術無しの手作り",
+          "abilityDescription": "状態異常を無効化、通常攻撃が必ず当たる",
+          "abilityEffectDescription": "状態異常を無効化、通常攻撃が必ず当たる",
+          "effectIdx1": "82",
+          "effectIdx2": "30",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2116",
+          "abilityName": "愛情の隠し味",
+          "abilityDescription": "攻撃力と防御力と素早さを100%アップ、HP0以下で1回だけHP全回復",
+          "abilityEffectDescription": "攻撃力と防御力と素早さを100%アップ、HP0以下で1回だけHP全回復",
+          "effectIdx1": "22010",
+          "effectIdx2": "312",
+          "effectIdx3": "874"
+        },
+        {
+          "abilityId": "2117",
+          "abilityName": "沸溶遁の菓子作り",
+          "abilityDescription": "弱体と状態異常を半減、HP80%以上でスキルダメージ200%アップ",
+          "abilityEffectDescription": "弱体と状態異常を半減、HP80%以上でスキルダメージ200%アップ",
+          "effectIdx1": "776",
+          "effectIdx2": "31719",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2118",
+          "abilityName": "長の務めと婚期の相克",
+          "abilityDescription": "HP0以下で1回だけHP全回復、HP100%の時に素早さ150%アップ",
+          "abilityEffectDescription": "HP0以下で1回だけHP全回復、HP100%の時に素早さ150%アップ",
+          "effectIdx1": "312",
+          "effectIdx2": "874",
+          "effectIdx3": "2090"
+        },
+        {
           "abilityId": "2123",
           "abilityName": "拘束の引力",
           "abilityDescription": "2回行動まで素早さ150%アップ、ダメージを受けた時にHPとチャクラが30%回復する",
@@ -18582,6 +18618,24 @@
           "effectIdx1": "880",
           "effectIdx2": "2091",
           "effectIdx3": "312"
+        },
+        {
+          "abilityId": "2133",
+          "abilityName": "一瞬の美へのこだわり",
+          "abilityDescription": "2回行動するまで素早さとスキルダメージが100%アップ",
+          "abilityEffectDescription": "2回行動するまで素早さとスキルダメージが100%アップ",
+          "effectIdx1": "1692",
+          "effectIdx2": "30109",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2134",
+          "abilityName": "造形に込める反骨心",
+          "abilityDescription": "HPが50%以上の時にチャクラ消費量を半減、HPが0以下になった時2度まで耐える",
+          "abilityEffectDescription": "HPが50%以上の時にチャクラ消費量を半減、HPが0以下になった時2度まで耐える",
+          "effectIdx1": "1050",
+          "effectIdx2": "1057",
+          "effectIdx3": "0"
         },
         {
           "abilityId": "10000",

@@ -4764,9 +4764,24 @@
           "gachaTicketImgId": "3511"
         },
         {
+          "gachaTicketId": "3513",
+          "gachaTicketName": "バレンタイン記念ガチャチケット",
+          "gachaTicketImgId": "3513"
+        },
+        {
           "gachaTicketId": "3515",
           "gachaTicketName": "ミナト誕生記念ガチャチケット",
           "gachaTicketImgId": "3515"
+        },
+        {
+          "gachaTicketId": "3516",
+          "gachaTicketName": "天衝の爆閃光ガチャチケット",
+          "gachaTicketImgId": "3516"
+        },
+        {
+          "gachaTicketId": "3517",
+          "gachaTicketName": "天衝の爆閃光・祭",
+          "gachaTicketImgId": "3516"
         },
         {
           "gachaTicketId": "3526",

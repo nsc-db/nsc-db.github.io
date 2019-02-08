@@ -1767,5 +1767,35 @@
           "subScore": "0",
           "color": "16316664",
           "type": "2"
+        },
+        {
+          "cardUnusualId": "181",
+          "category": "3",
+          "iconId": "1201",
+          "name": "虜",
+          "description": "最大HPと現在HPを1にする",
+          "subScore": "0",
+          "color": "14234431",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "182",
+          "category": "3",
+          "iconId": "1202",
+          "name": "鈍",
+          "description": "素早さダウン、スキル発動速度ダウン、スキルダメージダウン",
+          "subScore": "0",
+          "color": "1655950",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "185",
+          "category": "3",
+          "iconId": "1205",
+          "name": "着火",
+          "description": "最大HPアップ、スキル発動速度ダウン、特定スキル無効、解除時に尽状態",
+          "subScore": "0",
+          "color": "14423100",
+          "type": "2"
         }
       ]

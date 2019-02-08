@@ -9203,6 +9203,30 @@
           "effectIdx4": "0"
         },
         {
+          "crystalOverwriteEffectId": "781",
+          "targetCrystal": "20209",
+          "description": "素早さ100%アップ、さらに行動後に確率で素早さ50%アップ、2回行動までチャクラ消費0",
+          "charaIds": "3301,3302,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "13099",
+          "effectIdx2": "2083",
+          "effectIdx3": "1646",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "782",
+          "targetCrystal": "20210",
+          "description": "弱体と幻術タイプを無効化、全スキルダメージ半減",
+          "charaIds": "3301,3302,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1772",
+          "effectIdx2": "46",
+          "effectIdx3": "20501",
+          "effectIdx4": "0"
+        },
+        {
           "crystalOverwriteEffectId": "783",
           "targetCrystal": "20201",
           "description": "スキル速度1段階アップ、2回行動するまで全スキル無効&amp;キャンセル無効",
@@ -9248,6 +9272,54 @@
           "effectIdx1": "684",
           "effectIdx2": "2089",
           "effectIdx3": "820",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "787",
+          "targetCrystal": "20211",
+          "description": "スキルダメージ100％アップ、行動後チャクラ20%回復、2回行動までチャクラ消費0",
+          "charaIds": "20401,20402,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "774",
+          "effectIdx2": "1768",
+          "effectIdx3": "1646",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "788",
+          "targetCrystal": "20212",
+          "description": "素早さ100%アップ、スキル発動速度1段階アップ",
+          "charaIds": "20401,20402,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "13099",
+          "effectIdx2": "1840",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "789",
+          "targetCrystal": "20218",
+          "description": "弱体と状態異常を無効化、高確率でスキル回避",
+          "charaIds": "12001,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "880",
+          "effectIdx2": "968",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "790",
+          "targetCrystal": "20219",
+          "description": "最大HPと攻撃力が150%アップ、素早さが100%アップ",
+          "charaIds": "12001,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1212",
+          "effectIdx2": "1268",
+          "effectIdx3": "13099",
           "effectIdx4": "0"
         }
       ]
