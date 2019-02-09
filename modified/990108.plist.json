@@ -10776,6 +10776,32 @@
           "target2Param": "8"
         },
         {
+          "cardLeaderSkillId": "845",
+          "name": "幻惑の真情",
+          "description": "五大隠れ里所属のキャラが行動後にHPとチャクラが20%回復する",
+          "effectIdx1": "2080",
+          "effectIdx2": "2081",
+          "effectIdx3": "0",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "846",
+          "name": "甘味なる魅惑",
+          "description": "五大隠れ里所属のスキルダメージを100%アップ",
+          "effectIdx1": "1852",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "849",
           "name": "引斥の憎恨",
           "description": "“暁”所属の攻撃・防御・素早さ・スキルダメージ120%アップ、全スキルダメージ半減",
@@ -10800,6 +10826,19 @@
           "target1Param": "7",
           "target2Category": "2",
           "target2Param": "8"
+        },
+        {
+          "cardLeaderSkillId": "854",
+          "name": "天衝の爆閃光 ",
+          "description": "“暁”所属の素早さとスキルダメージを70%アップし、最大チャクラ量を50アップする",
+          "effectIdx1": "13069",
+          "effectIdx2": "652",
+          "effectIdx3": "689",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "8",
+          "target2Category": "0",
+          "target2Param": "0"
         },
         {
           "cardLeaderSkillId": "8507",
