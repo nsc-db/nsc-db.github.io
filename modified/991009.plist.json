@@ -1871,6 +1871,12 @@
           "itemImgId": "23"
         },
         {
+          "shopExchangeItemId": "320",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
           "shopExchangeItemId": "1001",
           "itemName": "下心Pt",
           "measure": null,
@@ -2373,6 +2379,12 @@
           "itemName": "昇級Pt倍化薬引換券",
           "measure": null,
           "itemImgId": "3000"
+        },
+        {
+          "shopExchangeItemId": "3900",
+          "itemName": "連合戦交換券",
+          "measure": "0",
+          "itemImgId": "3900"
         },
         {
           "shopExchangeItemId": "9999",

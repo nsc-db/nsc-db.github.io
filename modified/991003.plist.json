@@ -589,5 +589,33 @@
         {
           "defineKey": "not_release_dailypack",
           "defineValue": "0"
+        },
+        {
+          "defineKey": "asset_arena_deck_cost_limit",
+          "defineValue": "700"
+        },
+        {
+          "defineKey": "arena_stamina_limit",
+          "defineValue": "3"
+        },
+        {
+          "defineKey": "arena_stamina_heal_stone_count",
+          "defineValue": "1"
+        },
+        {
+          "defineKey": "arena_week_start_datetime",
+          "defineValue": "2019-02-07 12:00:00"
+        },
+        {
+          "defineKey": "arena_same_card_in_deck_enable",
+          "defineValue": "0"
+        },
+        {
+          "defineKey": "arena_stamina_recovery_times",
+          "defineValue": "12:00:00"
+        },
+        {
+          "defineKey": "arena_entry_bgm",
+          "defineValue": "specialbtl"
         }
       ]

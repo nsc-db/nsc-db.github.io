@@ -17023,6 +17023,38 @@
           "recipeName": "弥彦の任務服"
         },
         {
+          "crystalId": "20207",
+          "crystalType": "1",
+          "crystalRare": "5",
+          "effectIdx1": "110",
+          "effectIdx2": "2011",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "サスケの翼(状態２) ",
+          "crystalDescription": "素早さ30%アップ、1回行動までチャクラ消費半減",
+          "crystalImageId": "202075",
+          "recipeId": "20207",
+          "recipeName": "サスケの翼(状態２) "
+        },
+        {
+          "crystalId": "20208",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "2096",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "ｻｽｹの写輪眼(状態２)",
+          "crystalDescription": "低確率で耐性無視スキルのダメージ0",
+          "crystalImageId": "202085",
+          "recipeId": "20208",
+          "recipeName": "ｻｽｹの写輪眼(状態２)"
+        },
+        {
           "crystalId": "20209",
           "crystalType": "1",
           "crystalRare": "5",

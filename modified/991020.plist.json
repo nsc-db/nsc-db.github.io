@@ -1511,6 +1511,22 @@
           "equipStatus": "1"
         },
         {
+          "titleId": "271",
+          "title": "芸術の",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "272",
+          "title": "爆発",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "1"
+        },
+        {
           "titleId": "1000",
           "title": "忍者学校生",
           "description": "",
@@ -2967,6 +2983,22 @@
           "equipStatus": "2"
         },
         {
+          "titleId": "1275",
+          "title": "爆発する",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1276",
+          "title": "陽気に過激",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "2"
+        },
+        {
           "titleId": "5000",
           "title": "忍道を極めし者",
           "description": "",
@@ -4289,6 +4321,22 @@
         {
           "titleId": "5256",
           "title": "燃え上れ青春の写輪眼",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5257",
+          "title": "爆死じゃないっスかー！",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5258",
+          "title": "この日の為に鍛えた",
           "description": "0",
           "color": "0",
           "effectIds": "0",

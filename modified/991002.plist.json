@@ -1707,6 +1707,48 @@
           "deleteFlg": "0"
         },
         {
+          "scriptSettingId": "70000040",
+          "triggerId": "0",
+          "priority": "0",
+          "eventId": "0",
+          "worldStageId": "0",
+          "worldPhaseId": "0",
+          "compositionNum": "0",
+          "oneTimeFlg": "1",
+          "exclusionFlg": "0",
+          "saveFlg": "1",
+          "memo": "アリーナチュートリアル(POPUP)",
+          "deleteFlg": "0"
+        },
+        {
+          "scriptSettingId": "70000041",
+          "triggerId": "0",
+          "priority": "0",
+          "eventId": "0",
+          "worldStageId": "0",
+          "worldPhaseId": "0",
+          "compositionNum": "0",
+          "oneTimeFlg": "1",
+          "exclusionFlg": "0",
+          "saveFlg": "1",
+          "memo": "アリーナチュートリアル マッチング (POPUP)",
+          "deleteFlg": "0"
+        },
+        {
+          "scriptSettingId": "70000042",
+          "triggerId": "0",
+          "priority": "0",
+          "eventId": "0",
+          "worldStageId": "0",
+          "worldPhaseId": "0",
+          "compositionNum": "0",
+          "oneTimeFlg": "1",
+          "exclusionFlg": "0",
+          "saveFlg": "1",
+          "memo": "アリーナチュートリアル 編成 (POPUP)",
+          "deleteFlg": "0"
+        },
+        {
           "scriptSettingId": "70002000",
           "triggerId": "2",
           "priority": "0",
@@ -1914,6 +1956,20 @@
           "exclusionFlg": "1",
           "saveFlg": "0",
           "memo": "汎用インゲーム前読み込み制御",
+          "deleteFlg": "0"
+        },
+        {
+          "scriptSettingId": "81000000",
+          "triggerId": "0",
+          "priority": "0",
+          "eventId": "0",
+          "worldStageId": "0",
+          "worldPhaseId": "0",
+          "compositionNum": "0",
+          "oneTimeFlg": "0",
+          "exclusionFlg": "0",
+          "saveFlg": "1",
+          "memo": "汎用情報保存イベント.",
           "deleteFlg": "0"
         },
         {

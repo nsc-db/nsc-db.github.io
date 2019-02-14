@@ -69,5 +69,13 @@
           "description": "通常任務説明1",
           "openTime": "2014.01.01 00:00:00",
           "closeTime": "2034.01.01 00:00:00"
+        },
+        {
+          "worldAreaId": "11",
+          "priority": "0",
+          "name": "忍連合戦",
+          "description": "忍連合戦説明1",
+          "openTime": "2014.01.01 00:00:00",
+          "closeTime": "2034.01.01 00:00:00"
         }
       ]

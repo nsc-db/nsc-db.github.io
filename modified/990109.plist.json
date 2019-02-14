@@ -18548,6 +18548,24 @@
           "effectIdx3": "874"
         },
         {
+          "abilityId": "2113",
+          "abilityName": "呪印より引き出せし力",
+          "abilityDescription": "キャンセル無効、行動後チャクラ30%回復",
+          "abilityEffectDescription": "キャンセル無効、行動後チャクラ30%回復",
+          "effectIdx1": "1751",
+          "effectIdx2": "820",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2114",
+          "abilityName": "印を見切る瞳",
+          "abilityDescription": "1回行動するまで素早さ200%アップ&amp;チャクラ消費0",
+          "abilityEffectDescription": "1回行動するまで素早さ200%アップ&amp;チャクラ消費0",
+          "effectIdx1": "1800",
+          "effectIdx2": "1378",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "2115",
           "abilityName": "幻術無しの手作り",
           "abilityDescription": "状態異常を無効化、通常攻撃が必ず当たる",

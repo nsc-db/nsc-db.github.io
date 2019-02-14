@@ -1797,5 +1797,15 @@
           "subScore": "0",
           "color": "14423100",
           "type": "2"
+        },
+        {
+          "cardUnusualId": "186",
+          "category": "3",
+          "iconId": "1206",
+          "name": "蛇の力",
+          "description": "攻撃を受けた時HP100%回復（HP0になった場合も死なずに回復）。蛇の力解除時、チャクラが0になる",
+          "subScore": "0",
+          "color": "1655950",
+          "type": "2"
         }
       ]

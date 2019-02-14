@@ -70299,6 +70299,56 @@
           "message": "オビト…？"
         },
         {
+          "scriptMessageId": "26552",
+          "speechCharactorId": "292",
+          "message": "これからオイラは自爆する！！"
+        },
+        {
+          "scriptMessageId": "26553",
+          "speechCharactorId": "292",
+          "message": "死んでオイラは芸術になる！"
+        },
+        {
+          "scriptMessageId": "26554",
+          "speechCharactorId": "292",
+          "message": "今までに無い爆発は\r\nこの地に今までに無い傷跡を残し…"
+        },
+        {
+          "scriptMessageId": "26555",
+          "speechCharactorId": "292",
+          "message": "そして、オイラの芸術は\r\n今までに無い称賛を受けるだろう！"
+        },
+        {
+          "scriptMessageId": "26556",
+          "speechCharactorId": "292",
+          "message": "さぁ怯えろ！！"
+        },
+        {
+          "scriptMessageId": "26557",
+          "speechCharactorId": "292",
+          "message": "驚嘆しろ！！"
+        },
+        {
+          "scriptMessageId": "26558",
+          "speechCharactorId": "292",
+          "message": "絶望しろ！！"
+        },
+        {
+          "scriptMessageId": "26559",
+          "speechCharactorId": "292",
+          "message": "泣きわめけ！！"
+        },
+        {
+          "scriptMessageId": "26560",
+          "speechCharactorId": "292",
+          "message": "オイラの芸術は…"
+        },
+        {
+          "scriptMessageId": "26561",
+          "speechCharactorId": "292",
+          "message": "爆発だ！！"
+        },
+        {
           "scriptMessageId": "40001",
           "speechCharactorId": "178",
           "message": "絶望しかないこの世界に\r\n存在する価値はない"

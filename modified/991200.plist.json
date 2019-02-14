@@ -9321,5 +9321,29 @@
           "effectIdx2": "1268",
           "effectIdx3": "13099",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "791",
+          "targetCrystal": "20207",
+          "description": "素早さ80%アップ、高確率でスキル回避、4回行動までチャクラ消費半減",
+          "charaIds": "210,",
+          "cardIds": "20000491,20001431,20001572,20001723,20001759,20001807,20030923,",
+          "charaGroupIds": "0",
+          "effectIdx1": "13079",
+          "effectIdx2": "968",
+          "effectIdx3": "1988",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "792",
+          "targetCrystal": "20208",
+          "description": "スキル発動速度1段階アップ、2回行動するまで耐性無視スキルのダメージ0",
+          "charaIds": "210,",
+          "cardIds": "20000491,20001431,20001572,20001723,20001759,20001807,20030923,",
+          "charaGroupIds": "0",
+          "effectIdx1": "1840",
+          "effectIdx2": "1838",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
         }
       ]

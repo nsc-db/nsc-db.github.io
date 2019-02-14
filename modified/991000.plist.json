@@ -6076,7 +6076,7 @@
         {
           "appUiId": "1216",
           "uiKey": "Result_WinCntBonus",
-          "text": "%s連覇ボーナス"
+          "text": "%s連勝ボーナス"
         },
         {
           "appUiId": "1217",
@@ -6111,7 +6111,7 @@
         {
           "appUiId": "1223",
           "uiKey": "PvERetireDesc",
-          "text": "途中で対戦を棄権した場合も\r\n\r\n連覇ボーナスがリセットされます\r\n（模擬演習は連覇ボーナスはありません）"
+          "text": "途中で対戦を棄権した場合も\r\n\r\n連勝ボーナスがリセットされます\r\n（模擬演習は連勝ボーナスはありません）"
         },
         {
           "appUiId": "1224",
@@ -7297,5 +7297,175 @@
           "appUiId": "1463",
           "uiKey": "Remining",
           "text": "のこり"
+        },
+        {
+          "appUiId": "1464",
+          "uiKey": "ArenaUnitLeader",
+          "text": "部隊長"
+        },
+        {
+          "appUiId": "1465",
+          "uiKey": "UserName",
+          "text": "ユーザー名"
+        },
+        {
+          "appUiId": "1466",
+          "uiKey": "MaxWinningStreak",
+          "text": "最大連勝数"
+        },
+        {
+          "appUiId": "1467",
+          "uiKey": "GetPoint",
+          "text": "獲得したポイント"
+        },
+        {
+          "appUiId": "1468",
+          "uiKey": "Win",
+          "text": "勝利"
+        },
+        {
+          "appUiId": "1469",
+          "uiKey": "Lose",
+          "text": "敗北"
+        },
+        {
+          "appUiId": "1470",
+          "uiKey": "ArenaBattleBonus1",
+          "text": "撃破ボーナス"
+        },
+        {
+          "appUiId": "1471",
+          "uiKey": "ArenaBattleBonus2",
+          "text": "勝利数ボーナス"
+        },
+        {
+          "appUiId": "1472",
+          "uiKey": "ArenaBattleBonus3",
+          "text": "連勝ボーナス"
+        },
+        {
+          "appUiId": "1473",
+          "uiKey": "ArenaBattleBonus4",
+          "text": "残存忍ボーナス"
+        },
+        {
+          "appUiId": "1474",
+          "uiKey": "ArenaPointTotal",
+          "text": "合計獲得戦功"
+        },
+        {
+          "appUiId": "1475",
+          "uiKey": "ArenaContinue",
+          "text": "コンティニュー"
+        },
+        {
+          "appUiId": "1476",
+          "uiKey": "ArenaContinueTopMessage",
+          "text": "忍石１個を消費すると HP・チャクラが\r\n全回復した状態で任務を再開できます"
+        },
+        {
+          "appUiId": "1477",
+          "uiKey": "ArenaContinueBottomMessage",
+          "text": "　"
+        },
+        {
+          "appUiId": "1478",
+          "uiKey": "ArenaContinueWarning",
+          "text": "※リタイアした場合\r\n　現在のステージは敗北となります"
+        },
+        {
+          "appUiId": "1479",
+          "uiKey": "ArenaGameCancelTitle",
+          "text": "部隊を撤退させますか？"
+        },
+        {
+          "appUiId": "1480",
+          "uiKey": "ArenaGameCancelDesc",
+          "text": "消費した忍石は返還されません\r\n\r\n現在のステージは敗北となります"
+        },
+        {
+          "appUiId": "1481",
+          "uiKey": "Arena",
+          "text": "忍連合戦"
+        },
+        {
+          "appUiId": "1482",
+          "uiKey": "ArenaTargetSelect",
+          "text": "対戦相手を選択して下さい"
+        },
+        {
+          "appUiId": "1483",
+          "uiKey": "ArenaDeckCostOverTitle",
+          "text": "部隊コストオーバー"
+        },
+        {
+          "appUiId": "1484",
+          "uiKey": "ArenaDeckCostOverDesc",
+          "text": "忍連合戦を行う部隊の\r\n合計コストがオーバーしています\r\n"
+        },
+        {
+          "appUiId": "1485",
+          "uiKey": "ArenaDeckRequirementUnitTitle",
+          "text": "部隊編成不正"
+        },
+        {
+          "appUiId": "1486",
+          "uiKey": "ArenaDeckRequirementUnitDesc",
+          "text": "部隊長・隊長のいずれか\r\nまたは両方が設定されていません\r\n"
+        },
+        {
+          "appUiId": "1487",
+          "uiKey": "ArenaDeck1",
+          "text": "第1部隊"
+        },
+        {
+          "appUiId": "1488",
+          "uiKey": "ArenaDeck2",
+          "text": "第2部隊"
+        },
+        {
+          "appUiId": "1489",
+          "uiKey": "ArenaDeck3",
+          "text": "第3部隊"
+        },
+        {
+          "appUiId": "1490",
+          "uiKey": "ArenaMatchingReward",
+          "text": "勝利報酬"
+        },
+        {
+          "appUiId": "1491",
+          "uiKey": "ArenaCompleteVictoryReward",
+          "text": "全勝報酬"
+        },
+        {
+          "appUiId": "1492",
+          "uiKey": "TotalCost",
+          "text": "総コスト"
+        },
+        {
+          "appUiId": "1493",
+          "uiKey": "ArenaStaminaHealPopupText",
+          "text": "本日分の[忍の絆]が無くなりました\r\n忍石を使用して[忍の絆]を回復しますか？"
+        },
+        {
+          "appUiId": "1494",
+          "uiKey": "ArenaStaminaHealEnd",
+          "text": "忍の絆を回復しました！"
+        },
+        {
+          "appUiId": "1495",
+          "uiKey": "NonParticipating",
+          "text": "未参加"
+        },
+        {
+          "appUiId": "1496",
+          "uiKey": "ArenaEnvironmentEffect",
+          "text": "忍連合戦効果"
+        },
+        {
+          "appUiId": "1497",
+          "uiKey": "Reward",
+          "text": "報酬"
         }
       ]
