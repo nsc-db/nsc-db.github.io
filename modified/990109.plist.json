@@ -18602,6 +18602,24 @@
           "effectIdx3": "2090"
         },
         {
+          "abilityId": "2119",
+          "abilityName": "忍術開発の偉業",
+          "abilityDescription": "敵から攻撃を受けた時、攻撃者に短い間、瞬間起爆状態を付与する。HPが0以下で2回までHPが全回復する",
+          "abilityEffectDescription": "敵から攻撃を受けた時、攻撃者に短い間、瞬間起爆状態を付与する。HPが0以下で2回までHPが全回復する",
+          "effectIdx1": "2097",
+          "effectIdx2": "1057",
+          "effectIdx3": "874"
+        },
+        {
+          "abilityId": "2120",
+          "abilityName": "次代教育の意志",
+          "abilityDescription": "素早さ100%アップ、木ノ葉隠れの里所属への単体スキル攻撃を受ける※かばうは複数人発動すると最後の発動者が有効",
+          "abilityEffectDescription": "素早さ100%アップ、木ノ葉隠れの里所属への単体スキル攻撃を受ける※かばうは複数人発動すると最後の発動者が有効",
+          "effectIdx1": "1834",
+          "effectIdx2": "13099",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "2123",
           "abilityName": "拘束の引力",
           "abilityDescription": "2回行動まで素早さ150%アップ、ダメージを受けた時にHPとチャクラが30%回復する",

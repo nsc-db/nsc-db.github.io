@@ -17167,6 +17167,38 @@
           "recipeName": "天道のネイル"
         },
         {
+          "crystalId": "20216",
+          "crystalType": "1",
+          "crystalRare": "5",
+          "effectIdx1": "11039",
+          "effectIdx2": "111",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "扉間のクナイ",
+          "crystalDescription": "攻撃力と素早さが40％アップ",
+          "crystalImageId": "202165",
+          "recipeId": "20216",
+          "recipeName": "扉間のクナイ"
+        },
+        {
+          "crystalId": "20217",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "775",
+          "effectIdx2": "1985",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "扉間のファー",
+          "crystalDescription": "弱体と状態異常を軽減、2回行動まで全スキルダメージ軽減",
+          "crystalImageId": "202175",
+          "recipeId": "20217",
+          "recipeName": "扉間のファー"
+        },
+        {
           "crystalId": "20218",
           "crystalType": "2",
           "crystalRare": "5",

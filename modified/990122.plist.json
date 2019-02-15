@@ -2051,6 +2051,18 @@
           "voiceDeath": "pain_death_02_03"
         },
         {
+          "cardVoiceId": "173",
+          "cardId": "20050212",
+          "dirName": "tobirama",
+          "evolutionStep": "",
+          "voiceAppear": "tobirama_menu_04",
+          "voiceSkill1": "tobirama_skill_02_03,tobirama_attack_02_03,tobirama_pursuit_02_01",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "tobirama_win_02_01",
+          "voiceDeath": "tobirama_death_02_03"
+        },
+        {
           "cardVoiceId": "174",
           "cardId": "20050215",
           "dirName": "deidara",

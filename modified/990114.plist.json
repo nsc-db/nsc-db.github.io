@@ -1789,6 +1789,26 @@
           "type": "3"
         },
         {
+          "cardUnusualId": "183",
+          "category": "3",
+          "iconId": "1203",
+          "name": "瞬間起爆",
+          "description": "行動不能になり、行動後ダメージを受ける",
+          "subScore": "0",
+          "color": "4286945",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "184",
+          "category": "3",
+          "iconId": "1204",
+          "name": "マーキング（二代目）",
+          "description": "アクション状態の時、特定キャラもアクション状態になる。さらに自身が特定状態時に1回再行動する",
+          "subScore": "0",
+          "color": "16766720",
+          "type": "2"
+        },
+        {
           "cardUnusualId": "185",
           "category": "3",
           "iconId": "1205",

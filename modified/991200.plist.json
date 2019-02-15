@@ -9345,5 +9345,29 @@
           "effectIdx2": "1838",
           "effectIdx3": "0",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "793",
+          "targetCrystal": "20216",
+          "description": "攻撃力と素早さが120％アップ、チャクラ消費量半減",
+          "charaIds": "2001,2002,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "736",
+          "effectIdx2": "1335",
+          "effectIdx3": "895",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "794",
+          "targetCrystal": "20217",
+          "description": "弱体と状態異常を無効化、3回行動するまで全スキル無効",
+          "charaIds": "2001,2002,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "880",
+          "effectIdx2": "1273",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
         }
       ]

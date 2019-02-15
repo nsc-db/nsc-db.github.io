@@ -2075,6 +2075,12 @@
           "itemImgId": "23"
         },
         {
+          "shopExchangeItemId": "1034",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
           "shopExchangeItemId": "2000",
           "itemName": "忍交換券(8月)",
           "measure": null,

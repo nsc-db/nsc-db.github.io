@@ -10815,6 +10815,19 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "847",
+          "name": "賢武の治将",
+          "description": "木ノ葉隠れの里所属の攻撃・防御・素早さを60%アップ",
+          "effectIdx1": "11059",
+          "effectIdx2": "12059",
+          "effectIdx3": "13059",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "849",
           "name": "引斥の憎恨",
           "description": "“暁”所属の攻撃・防御・素早さ・スキルダメージ120%アップ、全スキルダメージ半減",
