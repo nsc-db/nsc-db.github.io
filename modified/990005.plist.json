@@ -659,6 +659,16 @@
           "enemyEffects": "50001,"
         },
         {
+          "battleFieldEffectId": "75",
+          "name": "二人の夢TZ",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "13049,1840,1814,",
+          "enemyEffects": null
+        },
+        {
           "battleFieldEffectId": "10001",
           "name": "始球空間",
           "category": "3",

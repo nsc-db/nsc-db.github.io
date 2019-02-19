@@ -17261,5 +17261,37 @@
           "crystalImageId": "202215",
           "recipeId": "20221",
           "recipeName": "操られし輪廻眼"
+        },
+        {
+          "crystalId": "20224",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "547",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "小南の折り紙飛行機",
+          "crystalDescription": "固有タイプのスキルダメージが50%アップする",
+          "crystalImageId": "202245",
+          "recipeId": "20224",
+          "recipeName": "小南の折り紙飛行機"
+        },
+        {
+          "crystalId": "20225",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "1423",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "包み紙の折り花",
+          "crystalDescription": "確率でスキル回避",
+          "crystalImageId": "202255",
+          "recipeId": "20225",
+          "recipeName": "包み紙の折り花"
         }
       ]

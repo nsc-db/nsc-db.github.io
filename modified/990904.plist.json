@@ -532,6 +532,19 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
+          "worldStageId": "4087",
+          "worldAreaId": "5",
+          "priority": "1",
+          "name": "二人の夢",
+          "description": "個人Ptを集めて小南の固有忍具を獲得しよう！",
+          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
           "worldStageId": "5001",
           "worldAreaId": "5",
           "priority": "55",

@@ -3230,6 +3230,15 @@
           "purchaseReleaseTime": "0000-00-00 00:00:00"
         },
         {
+          "mypageOrnamentId": "1809011",
+          "name": "0",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "1",
+          "charaId": "125",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
           "mypageOrnamentId": "1809301",
           "name": "エフェクト",
           "rarity": "4",
@@ -3321,6 +3330,15 @@
         },
         {
           "mypageOrnamentId": "1809608",
+          "name": "その他",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "99",
+          "charaId": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "1809609",
           "name": "その他",
           "rarity": "4",
           "resourceType": "0",
@@ -3956,6 +3974,15 @@
           "resourceType": "0",
           "category": "1",
           "charaId": "132",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "1902003",
+          "name": "0",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "1",
+          "charaId": "131",
           "purchaseReleaseTime": "0000-00-00 00:00:00"
         },
         {

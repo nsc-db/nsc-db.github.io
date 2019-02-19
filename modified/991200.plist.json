@@ -9369,5 +9369,29 @@
           "effectIdx2": "1273",
           "effectIdx3": "0",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "795",
+          "targetCrystal": "20224",
+          "description": "全スキルダメージ120%アップ、チャクラ消費量半減",
+          "charaIds": "12501,12503,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "30011",
+          "effectIdx2": "895",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "796",
+          "targetCrystal": "20225",
+          "description": "3回行動するまで高確率でスキル回避、1回行動するまで受ける耐性無視スキルのダメージを0",
+          "charaIds": "12501,12503,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "2099",
+          "effectIdx2": "1961",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
         }
       ]
