@@ -3779,6 +3779,18 @@
           "speechCharactorName": "青"
         },
         {
+          "speechCharactorId": "636",
+          "cardId": "20050214",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "小南"
+        },
+        {
+          "speechCharactorId": "637",
+          "cardId": "20050205",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "ペイン畜生道"
+        },
+        {
           "speechCharactorId": "1000",
           "cardId": "21000091",
           "speechCharactorImgId": "1000",
