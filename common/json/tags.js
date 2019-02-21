@@ -5846,7 +5846,7 @@ window.tags=[
 {
           "cardId": "20001853",
           "rare": "6",
-          "tag": "skill2damage-reward",
+          "tag": "pvp-reward",
           "skill1damage": "83",
           "skill2damage": "82",
           "nickname": "Champion Naruto",
@@ -6398,7 +6398,7 @@ window.tags=[
 {
           "cardId": "20030614",
           "rare": "6",
-          "tag": "skill2damage-reward",
+          "tag": "pvp-reward",
           "skill1damage": "81",
           "skill2damage": "77",
           "nickname": "Champion Sasuke",
@@ -7070,7 +7070,7 @@ window.tags=[
 {
           "cardId": "20030913",
           "rare": "6",
-          "tag": "skill2damage-reward",
+          "tag": "pvp-reward",
           "skill1damage": "93",
           "skill2damage": "97",
           "nickname": "Champion Pain",
@@ -7694,7 +7694,7 @@ window.tags=[
 {
           "cardId": "20031211",
           "rare": "6",
-          "tag": "skill2damage-reward",
+          "tag": "pvp-reward",
           "skill1damage": "86",
           "skill2damage": "71",
           "nickname": "Champion Itachi",
@@ -8330,7 +8330,7 @@ window.tags=[
 {
           "cardId": "20040313",
           "rare": "5",
-          "tag": "skill2damage-reward",
+          "tag": "pvp-reward",
           "skill1damage": "84",
           "skill2damage": "85",
           "nickname": "Champion Ashura",
@@ -9362,10 +9362,10 @@ window.tags=[
 {
           "cardId": "20040909",
           "rare": "5",
-          "tag": "skill2damage-reward",
+          "tag": "pvp-reward",
           "skill1damage": "-",
           "skill2damage": "-",
-          "nickname": "skill2damage Hashi",
+          "nickname": "Champion Hashi",
           "role": "",
           "rolerating": "",
           "secondary": "",
@@ -9782,7 +9782,7 @@ window.tags=[
 {
           "cardId": "20050108",
           "rare": "5",
-          "tag": "skill2damage-reward",
+          "tag": "pvp-reward",
           "skill1damage": "11294066",
           "skill2damage": "5059125",
           "nickname": "Champion Indra",
