@@ -3023,6 +3023,20 @@
           "gender": "2"
         },
         {
+          "charaProfileId": "21801",
+          "charaId": "218",
+          "name": "マブイ",
+          "detail": null,
+          "charaLoveAffinityGroupId": "21810",
+          "birthday": "201",
+          "constellation": "11",
+          "height": "16500",
+          "weight": "5240",
+          "bloodType": "1",
+          "age": "29",
+          "gender": "2"
+        },
+        {
           "charaProfileId": "50001",
           "charaId": "0",
           "name": "根",

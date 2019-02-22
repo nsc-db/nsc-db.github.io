@@ -18548,6 +18548,24 @@
           "effectIdx3": "874"
         },
         {
+          "abilityId": "2111",
+          "abilityName": "痛撃の暴走獣",
+          "abilityDescription": "HP0以下で2回耐える、状態異常無効",
+          "abilityEffectDescription": "HP0以下で2回耐える、状態異常無効",
+          "effectIdx1": "1057",
+          "effectIdx2": "82",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2112",
+          "abilityName": "心無き紅一点",
+          "abilityDescription": "行動するたびチャクラ30%回復、HPが5%以下で素早さ150%アップ",
+          "abilityEffectDescription": "行動するたびチャクラ30%回復、HPが5%以下で素早さ150%アップ",
+          "effectIdx1": "820",
+          "effectIdx2": "2095",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "2113",
           "abilityName": "呪印より引き出せし力",
           "abilityDescription": "キャンセル無効、行動後チャクラ30%回復",
@@ -18689,6 +18707,24 @@
           "abilityEffectDescription": "HPが50%以上の時にチャクラ消費量を半減、HPが0以下になった時2度まで耐える",
           "effectIdx1": "1050",
           "effectIdx2": "1057",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2135",
+          "abilityName": "完璧な補佐",
+          "abilityDescription": "確率でスキルを回避する",
+          "abilityEffectDescription": "確率でスキルを回避する",
+          "effectIdx1": "679",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2136",
+          "abilityName": "迅速な対応",
+          "abilityDescription": "HPが90%以上の時スキルダメージが90%アップし、行動後に低確率でスキル発動速度1段階アップ",
+          "abilityEffectDescription": "HPが90%以上の時スキルダメージが90%アップし、行動後に低確率でスキル発動速度1段階アップ",
+          "effectIdx1": "31808",
+          "effectIdx2": "1519",
           "effectIdx3": "0"
         },
         {

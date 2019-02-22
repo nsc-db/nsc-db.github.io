@@ -9725,6 +9725,66 @@
           "effectId": "1"
         },
         {
+          "abilityLoveAffinityId": "21810010",
+          "charaLoveAffinityGroupId": "21810",
+          "level": "10",
+          "effectId": "11009"
+        },
+        {
+          "abilityLoveAffinityId": "21810020",
+          "charaLoveAffinityGroupId": "21810",
+          "level": "20",
+          "effectId": "12009"
+        },
+        {
+          "abilityLoveAffinityId": "21810030",
+          "charaLoveAffinityGroupId": "21810",
+          "level": "30",
+          "effectId": "13009"
+        },
+        {
+          "abilityLoveAffinityId": "21810040",
+          "charaLoveAffinityGroupId": "21810",
+          "level": "40",
+          "effectId": "30000"
+        },
+        {
+          "abilityLoveAffinityId": "21810050",
+          "charaLoveAffinityGroupId": "21810",
+          "level": "50",
+          "effectId": "879"
+        },
+        {
+          "abilityLoveAffinityId": "21810060",
+          "charaLoveAffinityGroupId": "21810",
+          "level": "60",
+          "effectId": "13019"
+        },
+        {
+          "abilityLoveAffinityId": "21810070",
+          "charaLoveAffinityGroupId": "21810",
+          "level": "70",
+          "effectId": "12019"
+        },
+        {
+          "abilityLoveAffinityId": "21810080",
+          "charaLoveAffinityGroupId": "21810",
+          "level": "80",
+          "effectId": "11019"
+        },
+        {
+          "abilityLoveAffinityId": "21810090",
+          "charaLoveAffinityGroupId": "21810",
+          "level": "90",
+          "effectId": "30001"
+        },
+        {
+          "abilityLoveAffinityId": "21810100",
+          "charaLoveAffinityGroupId": "21810",
+          "level": "100",
+          "effectId": "1"
+        },
+        {
           "abilityLoveAffinityId": "50710010",
           "charaLoveAffinityGroupId": "50710",
           "level": "10",

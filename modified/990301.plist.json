@@ -17023,6 +17023,38 @@
           "recipeName": "弥彦の任務服"
         },
         {
+          "crystalId": "20205",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "13069",
+          "effectIdx2": "2100",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "畜生道の\"暁\"マント",
+          "crystalDescription": "素早さ70%アップ、低確率で全スキル無効",
+          "crystalImageId": "202055",
+          "recipeId": "20205",
+          "recipeName": "畜生道の\"暁\"マント"
+        },
+        {
+          "crystalId": "20206",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "682",
+          "effectIdx2": "1863",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "畜生道のサンダル",
+          "crystalDescription": "全スキルダメージ50%アップ、2回行動までチャクラ消費20%減少",
+          "crystalImageId": "202065",
+          "recipeId": "20206",
+          "recipeName": "畜生道のサンダル"
+        },
+        {
           "crystalId": "20207",
           "crystalType": "1",
           "crystalRare": "5",
@@ -17293,5 +17325,21 @@
           "crystalImageId": "202255",
           "recipeId": "20225",
           "recipeName": "包み紙の折り花"
+        },
+        {
+          "crystalId": "20226",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "859",
+          "effectIdx2": "1768",
+          "effectIdx3": "13059",
+          "effectIdx4": "1520",
+          "money": "1000000",
+          "saleMoney": "2500",
+          "crystalName": "朱・南の刻印",
+          "crystalDescription": "ﾁｬｸﾗ消費量30％ﾀﾞｳﾝ、行動後ﾁｬｸﾗ20％回復、素早さ60％ｱｯﾌﾟ、確率でｽｷﾙ発動速度1段階ｱｯﾌﾟ",
+          "crystalImageId": "202265",
+          "recipeId": "20226",
+          "recipeName": "朱・南の刻印"
         }
       ]
