@@ -70514,6 +70514,336 @@
           "message": "......陽動はうまくいっている"
         },
         {
+          "scriptMessageId": "26595",
+          "speechCharactorId": "638",
+          "message": "鬼鮫…手筈通りに頼む"
+        },
+        {
+          "scriptMessageId": "26596",
+          "speechCharactorId": "24",
+          "message": "分かっていますよ"
+        },
+        {
+          "scriptMessageId": "26597",
+          "speechCharactorId": "24",
+          "message": "では、また後程…"
+        },
+        {
+          "scriptMessageId": "26598",
+          "speechCharactorId": "539",
+          "message": "サスケ！\r\n前方から…"
+        },
+        {
+          "scriptMessageId": "26599",
+          "speechCharactorId": "539",
+          "message": "スゴいチャクラ！\r\nそれに速い！"
+        },
+        {
+          "scriptMessageId": "26600",
+          "speechCharactorId": "539",
+          "message": "来る！！"
+        },
+        {
+          "scriptMessageId": "26601",
+          "speechCharactorId": "540",
+          "message": "アンタは…！"
+        },
+        {
+          "scriptMessageId": "26602",
+          "speechCharactorId": "24",
+          "message": "ここからはサスケ君\r\n一人で行って下さい"
+        },
+        {
+          "scriptMessageId": "26603",
+          "speechCharactorId": "24",
+          "message": "イタチさんの命令でしてね…\r\n他の方々はここで\r\n待っていてもらいましょうか"
+        },
+        {
+          "scriptMessageId": "26604",
+          "speechCharactorId": "99",
+          "message": "…分かった"
+        },
+        {
+          "scriptMessageId": "26605",
+          "speechCharactorId": "539",
+          "message": "サスケ！それはダメだ！"
+        },
+        {
+          "scriptMessageId": "26606",
+          "speechCharactorId": "539",
+          "message": "こいつを倒して\r\n全員で行くんだ！！"
+        },
+        {
+          "scriptMessageId": "26607",
+          "speechCharactorId": "24",
+          "message": "私は戦う気などありませんがね"
+        },
+        {
+          "scriptMessageId": "26608",
+          "speechCharactorId": "24",
+          "message": "無理矢理通ると言うなら\r\n容赦しませんよ…"
+        },
+        {
+          "scriptMessageId": "26609",
+          "speechCharactorId": "99",
+          "message": "香燐…お前たちはここで待て"
+        },
+        {
+          "scriptMessageId": "26610",
+          "speechCharactorId": "99",
+          "message": "これはオレの復讐だ"
+        },
+        {
+          "scriptMessageId": "26611",
+          "speechCharactorId": "638",
+          "message": "その写輪眼…\r\nお前はどこまで見えている"
+        },
+        {
+          "scriptMessageId": "26612",
+          "speechCharactorId": "99",
+          "message": "イタチ…\r\nアンタの死に様だ"
+        },
+        {
+          "scriptMessageId": "26613",
+          "speechCharactorId": "638",
+          "message": "オレの死に様か…"
+        },
+        {
+          "scriptMessageId": "26614",
+          "speechCharactorId": "638",
+          "message": "では…"
+        },
+        {
+          "scriptMessageId": "26615",
+          "speechCharactorId": "638",
+          "message": "再現してみろ"
+        },
+        {
+          "scriptMessageId": "26616",
+          "speechCharactorId": "638",
+          "message": "強く…\r\nなったな…"
+        },
+        {
+          "scriptMessageId": "26617",
+          "speechCharactorId": "99",
+          "message": "最後に…\r\nイタチ…\r\nアンタに聞きたかったことがある"
+        },
+        {
+          "scriptMessageId": "26618",
+          "speechCharactorId": "638",
+          "message": "………こっちだ"
+        },
+        {
+          "scriptMessageId": "26619",
+          "speechCharactorId": "99",
+          "message": "前と全く同じセリフに烏…\r\nお得意の幻術で茶番か…"
+        },
+        {
+          "scriptMessageId": "26620",
+          "speechCharactorId": "638",
+          "message": "何が知りたい？\r\n最後ではないが聞いてやる"
+        },
+        {
+          "scriptMessageId": "26621",
+          "speechCharactorId": "99",
+          "message": "………もう一度言う…"
+        },
+        {
+          "scriptMessageId": "26622",
+          "speechCharactorId": "99",
+          "message": "最後に…\r\nアンタに聞きたいことがある…"
+        },
+        {
+          "scriptMessageId": "26623",
+          "speechCharactorId": "99",
+          "message": "そう言ったんだよ…\r\nクソヤロー"
+        },
+        {
+          "scriptMessageId": "26624",
+          "speechCharactorId": "99",
+          "message": "今のオレの眼は昔とは違う！"
+        },
+        {
+          "scriptMessageId": "26625",
+          "speechCharactorId": "99",
+          "message": "オレの写輪眼は幻術を見抜く！"
+        },
+        {
+          "scriptMessageId": "26626",
+          "speechCharactorId": "638",
+          "message": "フッ…相変わらず強気な物言いだな\r\nその言葉…とりあえず\r\n受け取っておこう"
+        },
+        {
+          "scriptMessageId": "26627",
+          "speechCharactorId": "638",
+          "message": "万華鏡写輪眼…\r\nこの眼は特別…"
+        },
+        {
+          "scriptMessageId": "26628",
+          "speechCharactorId": "638",
+          "message": "開眼したその時から\r\nその眼は闇へと向かう"
+        },
+        {
+          "scriptMessageId": "26629",
+          "speechCharactorId": "638",
+          "message": "使えば使うほど\r\n封印されていく"
+        },
+        {
+          "scriptMessageId": "26630",
+          "speechCharactorId": "638",
+          "message": "万華鏡はいずれ光を失う"
+        },
+        {
+          "scriptMessageId": "26631",
+          "speechCharactorId": "638",
+          "message": "サスケェ！！\r\nお前はオレにとっての新たな光だ！"
+        },
+        {
+          "scriptMessageId": "26632",
+          "speechCharactorId": "638",
+          "message": "お前はオレのスペアだ！！"
+        },
+        {
+          "scriptMessageId": "26633",
+          "speechCharactorId": "638",
+          "message": "元来、うちは一族は\r\n万華鏡写輪眼の為に\r\n友と殺し合い…"
+        },
+        {
+          "scriptMessageId": "26634",
+          "speechCharactorId": "638",
+          "message": "永遠の瞳力を得るために\r\n親兄弟で殺し合い"
+        },
+        {
+          "scriptMessageId": "26635",
+          "speechCharactorId": "638",
+          "message": "そうして力を誇示し続けてきた汚れた一族なのだ！！"
+        },
+        {
+          "scriptMessageId": "26636",
+          "speechCharactorId": "638",
+          "message": "お前…\r\nオレの“月読”を…"
+        },
+        {
+          "scriptMessageId": "26637",
+          "speechCharactorId": "99",
+          "message": "言ったハズだ\r\nアンタがその眼をいくら使おうが"
+        },
+        {
+          "scriptMessageId": "26638",
+          "speechCharactorId": "99",
+          "message": "このオレの憎しみで\r\n幻は現実になると"
+        },
+        {
+          "scriptMessageId": "26639",
+          "speechCharactorId": "638",
+          "message": "フッ…幻は\r\n現実になる…か"
+        },
+        {
+          "scriptMessageId": "26640",
+          "speechCharactorId": "638",
+          "message": "それこそ、その台詞…\r\nそのまま返しておこう"
+        },
+        {
+          "scriptMessageId": "26641",
+          "speechCharactorId": "99",
+          "message": "さっきの“月読”の反動か？\r\nフッ…いい感じだなオイ"
+        },
+        {
+          "scriptMessageId": "26642",
+          "speechCharactorId": "638",
+          "message": "…………"
+        },
+        {
+          "scriptMessageId": "26643",
+          "speechCharactorId": "418",
+          "message": "さっきの“天照”…\r\n相当の負担がかかったようだな"
+        },
+        {
+          "scriptMessageId": "26644",
+          "speechCharactorId": "418",
+          "message": "これがオレの最後の術になるだろう"
+        },
+        {
+          "scriptMessageId": "26645",
+          "speechCharactorId": "638",
+          "message": "写輪眼はチャクラを見る眼だ\r\n強がりはよせ…"
+        },
+        {
+          "scriptMessageId": "26646",
+          "speechCharactorId": "418",
+          "message": "アンタを殺すのに\r\nオレが何もせず\r\nここに来たと思うか？"
+        },
+        {
+          "scriptMessageId": "26647",
+          "speechCharactorId": "418",
+          "message": "一瞬だ"
+        },
+        {
+          "scriptMessageId": "26648",
+          "speechCharactorId": "418",
+          "message": "この術は“天照”と同じだ…\r\n絶対にかわすことは出来ない"
+        },
+        {
+          "scriptMessageId": "26649",
+          "speechCharactorId": "418",
+          "message": "さて…ご希望通り\r\n再現…しよう…"
+        },
+        {
+          "scriptMessageId": "26650",
+          "speechCharactorId": "418",
+          "message": "アンタの死に様を…"
+        },
+        {
+          "scriptMessageId": "26651",
+          "speechCharactorId": "418",
+          "message": "この術は天から降る雷…\r\nオレはその力をアンタへ\r\n導くだけだ"
+        },
+        {
+          "scriptMessageId": "26652",
+          "speechCharactorId": "418",
+          "message": "術の名は“麒麟”…"
+        },
+        {
+          "scriptMessageId": "26653",
+          "speechCharactorId": "418",
+          "message": "雷鳴と共に散れ…"
+        },
+        {
+          "scriptMessageId": "26654",
+          "speechCharactorId": "638",
+          "message": "これが…\r\nお前の再現したかった"
+        },
+        {
+          "scriptMessageId": "26655",
+          "speechCharactorId": "638",
+          "message": "……死に様か？"
+        },
+        {
+          "scriptMessageId": "26656",
+          "speechCharactorId": "638",
+          "message": "コレがなければ…\r\nやられていたな…"
+        },
+        {
+          "scriptMessageId": "26657",
+          "speechCharactorId": "638",
+          "message": "本当に…\r\n強くなったな……\r\nサスケ…"
+        },
+        {
+          "scriptMessageId": "26658",
+          "speechCharactorId": "638",
+          "message": "今度は…\r\nオレの切り札を見せてやろう…"
+        },
+        {
+          "scriptMessageId": "26659",
+          "speechCharactorId": "638",
+          "message": "“須佐能乎”だ"
+        },
+        {
+          "scriptMessageId": "26660",
+          "speechCharactorId": "639",
+          "message": "くそがァ！！！"
+        },
+        {
           "scriptMessageId": "40001",
           "speechCharactorId": "178",
           "message": "絶望しかないこの世界に\r\n存在する価値はない"

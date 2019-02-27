@@ -4750,5 +4750,33 @@
           "assetCategoryId": "12",
           "materialId": "10921",
           "materialNum": "2"
+        },
+        {
+          "crystalRecipeId": "761",
+          "recipeId": "20226",
+          "assetCategoryId": "12",
+          "materialId": "810",
+          "materialNum": "2"
+        },
+        {
+          "crystalRecipeId": "762",
+          "recipeId": "20226",
+          "assetCategoryId": "12",
+          "materialId": "812",
+          "materialNum": "2"
+        },
+        {
+          "crystalRecipeId": "763",
+          "recipeId": "20226",
+          "assetCategoryId": "12",
+          "materialId": "809",
+          "materialNum": "2"
+        },
+        {
+          "crystalRecipeId": "764",
+          "recipeId": "20226",
+          "assetCategoryId": "12",
+          "materialId": "811",
+          "materialNum": "2"
         }
       ]

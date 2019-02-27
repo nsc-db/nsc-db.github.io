@@ -3791,6 +3791,18 @@
           "speechCharactorName": "ペイン畜生道"
         },
         {
+          "speechCharactorId": "638",
+          "cardId": "20050303",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはイタチ"
+        },
+        {
+          "speechCharactorId": "639",
+          "cardId": "20050206",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはサスケ"
+        },
+        {
           "speechCharactorId": "1000",
           "cardId": "21000091",
           "speechCharactorImgId": "1000",

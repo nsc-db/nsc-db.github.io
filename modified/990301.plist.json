@@ -17341,5 +17341,37 @@
           "crystalImageId": "202265",
           "recipeId": "20226",
           "recipeName": "朱・南の刻印"
+        },
+        {
+          "crystalId": "20301",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "10059",
+          "effectIdx2": "27",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "イタチの黒炎",
+          "crystalDescription": "最大HPが60%アップ、低確率でスキル回避",
+          "crystalImageId": "203015",
+          "recipeId": "20301",
+          "recipeName": "イタチの黒炎"
+        },
+        {
+          "crystalId": "20302",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "682",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "イタチの須佐能乎",
+          "crystalDescription": "全スキルダメージ50%アップ",
+          "crystalImageId": "203025",
+          "recipeId": "20302",
+          "recipeName": "イタチの須佐能乎"
         }
       ]

@@ -2087,6 +2087,18 @@
           "voiceDeath": "sasuke_death_02_07"
         },
         {
+          "cardVoiceId": "176",
+          "cardId": "20050303",
+          "dirName": "itachi",
+          "evolutionStep": "",
+          "voiceAppear": "itachi_menu_event_01",
+          "voiceSkill1": "itachi_skill_02_03,itachi_skill_02_02",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "itachi_skill_02_15",
+          "voiceDeath": "itachi_death_02_04"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

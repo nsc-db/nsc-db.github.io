@@ -18728,6 +18728,24 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2137",
+          "abilityName": "攻防無双の巨装",
+          "abilityDescription": "幻・封印を無効化、バトル開始時に神化状態「八咫鏡」になる",
+          "abilityEffectDescription": "幻・封印を無効化、バトル開始時に神化状態「八咫鏡」になる",
+          "effectIdx1": "69",
+          "effectIdx2": "1642",
+          "effectIdx3": "2102"
+        },
+        {
+          "abilityId": "2138",
+          "abilityName": "比類なき忍才",
+          "abilityDescription": "素早さが1,000%アップし、チャクラ消費量が半減する",
+          "abilityEffectDescription": "素早さが1,000%アップし、チャクラ消費量が半減する",
+          "effectIdx1": "13100",
+          "effectIdx2": "895",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -19022,6 +19040,24 @@
           "abilityEffectDescription": "HP0以下で3回までHPが全回復",
           "effectIdx1": "1789",
           "effectIdx2": "874",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "11901",
+          "abilityName": "3回耐える&amp;2回までスキル無効",
+          "abilityDescription": "3回耐える&amp;2回までスキル無効",
+          "abilityEffectDescription": "3回耐える&amp;2回までスキル無効",
+          "effectIdx1": "1789",
+          "effectIdx2": "663",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "11902",
+          "abilityName": "先制攻撃&amp;高確率でスキル回避",
+          "abilityDescription": "バトル開始時に先制攻撃、高確率でスキルを回避する",
+          "abilityEffectDescription": "バトル開始時に先制攻撃、高確率でスキルを回避する",
+          "effectIdx1": "2068",
+          "effectIdx2": "968",
           "effectIdx3": "0"
         },
         {

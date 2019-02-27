@@ -2071,6 +2071,20 @@
           "gender": "1"
         },
         {
+          "charaProfileId": "11604",
+          "charaId": "116",
+          "name": "うちはイタチ",
+          "detail": null,
+          "charaLoveAffinityGroupId": "11610",
+          "birthday": "609",
+          "constellation": "3",
+          "height": "17800",
+          "weight": "5800",
+          "bloodType": "4",
+          "age": "21",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "11701",
           "charaId": "117",
           "name": "干柿鬼鮫",

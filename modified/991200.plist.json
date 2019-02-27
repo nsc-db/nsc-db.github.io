@@ -9429,5 +9429,29 @@
           "effectIdx2": "820",
           "effectIdx3": "1335",
           "effectIdx4": "2101"
+        },
+        {
+          "crystalOverwriteEffectId": "800",
+          "targetCrystal": "20301",
+          "description": "最大HPが120%アップ、確率でスキル回避、通常攻撃回避率が50%アップ",
+          "charaIds": "11604,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1221",
+          "effectIdx2": "1423",
+          "effectIdx3": "542",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "801",
+          "targetCrystal": "20302",
+          "description": "全スキルダメージ120%アップ、スキル発動速度1段階アップ、3回行動するまで素早さ80%アップ",
+          "charaIds": "11604,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "30011",
+          "effectIdx2": "21000",
+          "effectIdx3": "1950",
+          "effectIdx4": "0"
         }
       ]

@@ -669,6 +669,16 @@
           "enemyEffects": null
         },
         {
+          "battleFieldEffectId": "76",
+          "name": "雷鳴の咆哮超絶",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "12107,80000,90000,95040,1840,1814,",
+          "enemyEffects": "12107,80000,90000,13029,"
+        },
+        {
           "battleFieldEffectId": "10001",
           "name": "始球空間",
           "category": "3",
