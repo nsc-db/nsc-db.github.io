@@ -2,7 +2,7 @@ window.charaname=[
         {
           "charaProfileId": "101",
           "charaId": "1",
-          "name": "Naruto Uzumaki",
+          "name": "うずまきナルト",
           "detail": "少年篇",
           "charaLoveAffinityGroupId": "110",
           "birthday": "1010",
@@ -16,7 +16,7 @@ window.charaname=[
         {
           "charaProfileId": "102",
           "charaId": "1",
-          "name": "Naruto Uzumaki",
+          "name": "うずまきナルト",
           "detail": "疾風伝",
           "charaLoveAffinityGroupId": "120",
           "birthday": "1010",
@@ -30,7 +30,7 @@ window.charaname=[
         {
           "charaProfileId": "103",
           "charaId": "1",
-          "name": "Naruto Uzumaki",
+          "name": "うずまきナルト",
           "detail": "ＢＯＲＵＴＯ",
           "charaLoveAffinityGroupId": "140",
           "birthday": "1010",
@@ -44,7 +44,7 @@ window.charaname=[
         {
           "charaProfileId": "104",
           "charaId": "1",
-          "name": "Naruto Uzumaki",
+          "name": "うずまきナルト",
           "detail": "疾風伝",
           "charaLoveAffinityGroupId": "120",
           "birthday": "1010",
@@ -58,7 +58,7 @@ window.charaname=[
         {
           "charaProfileId": "105",
           "charaId": "1",
-          "name": "Naruto Uzumaki",
+          "name": "うずまきナルト",
           "detail": "真伝／秘伝",
           "charaLoveAffinityGroupId": "130",
           "birthday": "1010",
@@ -72,7 +72,7 @@ window.charaname=[
         {
           "charaProfileId": "106",
           "charaId": "1",
-          "name": "Naruto Uzumaki",
+          "name": "うずまきナルト",
           "detail": "疾風伝",
           "charaLoveAffinityGroupId": "120",
           "birthday": "1010",
@@ -86,7 +86,7 @@ window.charaname=[
         {
           "charaProfileId": "107",
           "charaId": "1",
-          "name": "Naruto Uzumaki",
+          "name": "うずまきナルト",
           "detail": "疾風伝",
           "charaLoveAffinityGroupId": "120",
           "birthday": "1010",
@@ -100,7 +100,7 @@ window.charaname=[
         {
           "charaProfileId": "108",
           "charaId": "1",
-          "name": "Naruto Uzumaki",
+          "name": "うずまきナルト",
           "detail": "疾風伝",
           "charaLoveAffinityGroupId": "120",
           "birthday": "1010",
@@ -114,7 +114,7 @@ window.charaname=[
         {
           "charaProfileId": "109",
           "charaId": "1",
-          "name": "Naruto Uzumaki",
+          "name": "うずまきナルト",
           "detail": "疾風伝",
           "charaLoveAffinityGroupId": "120",
           "birthday": "1010",
@@ -128,7 +128,7 @@ window.charaname=[
         {
           "charaProfileId": "110",
           "charaId": "1",
-          "name": "Naruto Uzumaki",
+          "name": "うずまきナルト",
           "detail": "疾風伝",
           "charaLoveAffinityGroupId": "120",
           "birthday": "1010",
@@ -142,7 +142,7 @@ window.charaname=[
         {
           "charaProfileId": "111",
           "charaId": "1",
-          "name": "Naruto Uzumaki",
+          "name": "うずまきナルト",
           "detail": "疾風伝",
           "charaLoveAffinityGroupId": "120",
           "birthday": "1010",
@@ -156,7 +156,7 @@ window.charaname=[
         {
           "charaProfileId": "112",
           "charaId": "1",
-          "name": "Naruto Uzumaki",
+          "name": "うずまきナルト",
           "detail": "疾風伝",
           "charaLoveAffinityGroupId": "120",
           "birthday": "1010",
@@ -170,7 +170,7 @@ window.charaname=[
         {
           "charaProfileId": "201",
           "charaId": "2",
-          "name": "Sasuke Uchiha",
+          "name": "うちはサスケ",
           "detail": "少年篇",
           "charaLoveAffinityGroupId": "210",
           "birthday": "723",
@@ -184,7 +184,7 @@ window.charaname=[
         {
           "charaProfileId": "202",
           "charaId": "2",
-          "name": "Sasuke Uchiha",
+          "name": "うちはサスケ",
           "detail": "少年篇",
           "charaLoveAffinityGroupId": "210",
           "birthday": "723",
@@ -198,7 +198,7 @@ window.charaname=[
         {
           "charaProfileId": "203",
           "charaId": "2",
-          "name": "Sasuke Uchiha",
+          "name": "うちはサスケ",
           "detail": "ＢＯＲＵＴＯ",
           "charaLoveAffinityGroupId": "250",
           "birthday": "723",
@@ -212,7 +212,7 @@ window.charaname=[
         {
           "charaProfileId": "204",
           "charaId": "2",
-          "name": "Sasuke Uchiha",
+          "name": "うちはサスケ",
           "detail": "疾風伝",
           "charaLoveAffinityGroupId": "220",
           "birthday": "723",
@@ -226,7 +226,7 @@ window.charaname=[
         {
           "charaProfileId": "205",
           "charaId": "2",
-          "name": "Sasuke Uchiha",
+          "name": "うちはサスケ",
           "detail": "少年篇",
           "charaLoveAffinityGroupId": "210",
           "birthday": "723",
@@ -240,7 +240,7 @@ window.charaname=[
         {
           "charaProfileId": "206",
           "charaId": "2",
-          "name": "Sasuke Uchiha",
+          "name": "うちはサスケ",
           "detail": "幼年期",
           "charaLoveAffinityGroupId": "230",
           "birthday": "723",
@@ -254,7 +254,7 @@ window.charaname=[
         {
           "charaProfileId": "207",
           "charaId": "2",
-          "name": "Sasuke Uchiha",
+          "name": "うちはサスケ",
           "detail": "疾風伝",
           "charaLoveAffinityGroupId": "220",
           "birthday": "723",
@@ -268,7 +268,7 @@ window.charaname=[
         {
           "charaProfileId": "208",
           "charaId": "2",
-          "name": "Sasuke Uchiha",
+          "name": "うちはサスケ",
           "detail": "真伝／秘伝",
           "charaLoveAffinityGroupId": "240",
           "birthday": "723",
@@ -282,7 +282,7 @@ window.charaname=[
         {
           "charaProfileId": "209",
           "charaId": "2",
-          "name": "Sasuke Uchiha",
+          "name": "うちはサスケ",
           "detail": "疾風伝",
           "charaLoveAffinityGroupId": "220",
           "birthday": "723",
@@ -296,7 +296,7 @@ window.charaname=[
         {
           "charaProfileId": "210",
           "charaId": "2",
-          "name": "Sasuke Uchiha",
+          "name": "うちはサスケ",
           "detail": "疾風伝",
           "charaLoveAffinityGroupId": "220",
           "birthday": "723",
@@ -310,7 +310,7 @@ window.charaname=[
         {
           "charaProfileId": "301",
           "charaId": "3",
-          "name": "Sakura Haruno",
+          "name": "春野サクラ",
           "detail": "少年篇",
           "charaLoveAffinityGroupId": "310",
           "birthday": "328",
@@ -324,7 +324,7 @@ window.charaname=[
         {
           "charaProfileId": "302",
           "charaId": "3",
-          "name": "Sakura Haruno",
+          "name": "春野サクラ",
           "detail": "少年篇",
           "charaLoveAffinityGroupId": "310",
           "birthday": "328",
@@ -338,7 +338,7 @@ window.charaname=[
         {
           "charaProfileId": "303",
           "charaId": "3",
-          "name": "Sakura Haruno",
+          "name": "春野サクラ",
           "detail": "疾風伝",
           "charaLoveAffinityGroupId": "320",
           "birthday": "328",
@@ -352,7 +352,7 @@ window.charaname=[
         {
           "charaProfileId": "304",
           "charaId": "3",
-          "name": "Sakura Haruno",
+          "name": "春野サクラ",
           "detail": "疾風伝",
           "charaLoveAffinityGroupId": "320",
           "birthday": "328",
@@ -366,7 +366,7 @@ window.charaname=[
         {
           "charaProfileId": "305",
           "charaId": "3",
-          "name": "Sakura Haruno",
+          "name": "春野サクラ",
           "detail": "真伝／秘伝",
           "charaLoveAffinityGroupId": "330",
           "birthday": "328",
@@ -380,7 +380,7 @@ window.charaname=[
         {
           "charaProfileId": "306",
           "charaId": "3",
-          "name": "Sakura Haruno",
+          "name": "春野サクラ",
           "detail": "疾風伝",
           "charaLoveAffinityGroupId": "320",
           "birthday": "328",
@@ -394,7 +394,7 @@ window.charaname=[
         {
           "charaProfileId": "401",
           "charaId": "4",
-          "name": "Shikamaru Nara",
+          "name": "奈良シカマル",
           "detail": "少年篇",
           "charaLoveAffinityGroupId": "410",
           "birthday": "922",
@@ -408,7 +408,7 @@ window.charaname=[
         {
           "charaProfileId": "402",
           "charaId": "4",
-          "name": "Shikamaru Nara",
+          "name": "奈良シカマル",
           "detail": "疾風伝",
           "charaLoveAffinityGroupId": "420",
           "birthday": "922",
@@ -422,7 +422,7 @@ window.charaname=[
         {
           "charaProfileId": "403",
           "charaId": "4",
-          "name": "Shikamaru Nara",
+          "name": "奈良シカマル",
           "detail": "真伝／秘伝",
           "charaLoveAffinityGroupId": "430",
           "birthday": "922",
@@ -436,7 +436,7 @@ window.charaname=[
         {
           "charaProfileId": "501",
           "charaId": "5",
-          "name": "Choji Akimichi",
+          "name": "秋道チョウジ",
           "detail": "少年篇",
           "charaLoveAffinityGroupId": "510",
           "birthday": "501",
@@ -450,7 +450,7 @@ window.charaname=[
         {
           "charaProfileId": "502",
           "charaId": "5",
-          "name": "Choji Akimichi",
+          "name": "秋道チョウジ",
           "detail": "疾風伝",
           "charaLoveAffinityGroupId": "520",
           "birthday": "501",
@@ -464,7 +464,7 @@ window.charaname=[
         {
           "charaProfileId": "503",
           "charaId": "5",
-          "name": "Choji Akimichi",
+          "name": "秋道チョウジ",
           "detail": "真伝／秘伝",
           "charaLoveAffinityGroupId": "530",
           "birthday": "501",
@@ -478,7 +478,7 @@ window.charaname=[
         {
           "charaProfileId": "601",
           "charaId": "6",
-          "name": "Ino Yamanaka",
+          "name": "山中いの",
           "detail": "少年篇",
           "charaLoveAffinityGroupId": "610",
           "birthday": "923",
@@ -492,7 +492,7 @@ window.charaname=[
         {
           "charaProfileId": "602",
           "charaId": "6",
-          "name": "Ino Yamanaka",
+          "name": "山中いの",
           "detail": "疾風伝",
           "charaLoveAffinityGroupId": "620",
           "birthday": "923",
@@ -506,7 +506,7 @@ window.charaname=[
         {
           "charaProfileId": "603",
           "charaId": "6",
-          "name": "Ino Yamanaka",
+          "name": "山中いの",
           "detail": "真伝／秘伝",
           "charaLoveAffinityGroupId": "630",
           "birthday": "923",
@@ -520,7 +520,7 @@ window.charaname=[
         {
           "charaProfileId": "701",
           "charaId": "7",
-          "name": "Hinata Hyuga",
+          "name": "日向ヒナタ",
           "detail": "少年篇",
           "charaLoveAffinityGroupId": "710",
           "birthday": "1227",
@@ -534,7 +534,7 @@ window.charaname=[
         {
           "charaProfileId": "702",
           "charaId": "7",
-          "name": "Hinata Hyuga",
+          "name": "日向ヒナタ",
           "detail": "疾風伝",
           "charaLoveAffinityGroupId": "720",
           "birthday": "1227",
@@ -548,7 +548,7 @@ window.charaname=[
         {
           "charaProfileId": "703",
           "charaId": "7",
-          "name": "Hinata Hyuga",
+          "name": "日向ヒナタ",
           "detail": "疾風伝",
           "charaLoveAffinityGroupId": "720",
           "birthday": "1227",
@@ -562,7 +562,7 @@ window.charaname=[
         {
           "charaProfileId": "704",
           "charaId": "7",
-          "name": "Hinata Hyuga",
+          "name": "日向ヒナタ",
           "detail": "真伝／秘伝",
           "charaLoveAffinityGroupId": "730",
           "birthday": "1227",
@@ -576,7 +576,7 @@ window.charaname=[
         {
           "charaProfileId": "801",
           "charaId": "8",
-          "name": "Kiba Inuzuka",
+          "name": "犬塚キバ",
           "detail": "少年篇",
           "charaLoveAffinityGroupId": "810",
           "birthday": "707",
@@ -590,7 +590,7 @@ window.charaname=[
         {
           "charaProfileId": "802",
           "charaId": "8",
-          "name": "Kiba Inuzuka",
+          "name": "犬塚キバ",
           "detail": "疾風伝",
           "charaLoveAffinityGroupId": "820",
           "birthday": "707",
@@ -604,7 +604,7 @@ window.charaname=[
         {
           "charaProfileId": "901",
           "charaId": "9",
-          "name": "Shino Aburame",
+          "name": "油女シノ",
           "detail": "少年篇",
           "charaLoveAffinityGroupId": "910",
           "birthday": "123",
@@ -618,7 +618,7 @@ window.charaname=[
         {
           "charaProfileId": "902",
           "charaId": "9",
-          "name": "Shino Aburame",
+          "name": "油女シノ",
           "detail": "疾風伝",
           "charaLoveAffinityGroupId": "920",
           "birthday": "123",
@@ -632,7 +632,7 @@ window.charaname=[
         {
           "charaProfileId": "1001",
           "charaId": "10",
-          "name": "Neji Hyuga",
+          "name": "日向ネジ",
           "detail": "少年篇",
           "charaLoveAffinityGroupId": "1010",
           "birthday": "703",
@@ -646,7 +646,7 @@ window.charaname=[
         {
           "charaProfileId": "1002",
           "charaId": "10",
-          "name": "Neji Hyuga",
+          "name": "日向ネジ",
           "detail": "疾風伝",
           "charaLoveAffinityGroupId": "1020",
           "birthday": "703",
@@ -660,7 +660,7 @@ window.charaname=[
         {
           "charaProfileId": "1101",
           "charaId": "11",
-          "name": "Rock Lee",
+          "name": "ロック・リー",
           "detail": "少年篇",
           "charaLoveAffinityGroupId": "1110",
           "birthday": "1127",
@@ -674,7 +674,7 @@ window.charaname=[
         {
           "charaProfileId": "1102",
           "charaId": "11",
-          "name": "Rock Lee",
+          "name": "ロック・リー",
           "detail": "少年篇",
           "charaLoveAffinityGroupId": "1110",
           "birthday": "1127",
@@ -688,7 +688,7 @@ window.charaname=[
         {
           "charaProfileId": "1103",
           "charaId": "11",
-          "name": "Rock Lee",
+          "name": "ロック・リー",
           "detail": "疾風伝",
           "charaLoveAffinityGroupId": "1120",
           "birthday": "1127",
@@ -702,7 +702,7 @@ window.charaname=[
         {
           "charaProfileId": "1104",
           "charaId": "11",
-          "name": "Rock Lee",
+          "name": "ロック・リー",
           "detail": "真伝／秘伝",
           "charaLoveAffinityGroupId": "1130",
           "birthday": "1127",
@@ -716,7 +716,7 @@ window.charaname=[
         {
           "charaProfileId": "1201",
           "charaId": "12",
-          "name": "Tenten",
+          "name": "テンテン",
           "detail": "少年篇",
           "charaLoveAffinityGroupId": "1210",
           "birthday": "309",
@@ -730,7 +730,7 @@ window.charaname=[
         {
           "charaProfileId": "1202",
           "charaId": "12",
-          "name": "Tenten",
+          "name": "テンテン",
           "detail": "疾風伝",
           "charaLoveAffinityGroupId": "1220",
           "birthday": "309",
@@ -744,7 +744,7 @@ window.charaname=[
         {
           "charaProfileId": "1203",
           "charaId": "12",
-          "name": "Tenten",
+          "name": "テンテン",
           "detail": "真伝／秘伝",
           "charaLoveAffinityGroupId": "1230",
           "birthday": "309",
@@ -758,7 +758,7 @@ window.charaname=[
         {
           "charaProfileId": "1301",
           "charaId": "13",
-          "name": "Gaara",
+          "name": "我愛羅",
           "detail": "少年篇",
           "charaLoveAffinityGroupId": "1310",
           "birthday": "119",
@@ -772,7 +772,7 @@ window.charaname=[
         {
           "charaProfileId": "1302",
           "charaId": "13",
-          "name": "Gaara",
+          "name": "我愛羅",
           "detail": "疾風伝",
           "charaLoveAffinityGroupId": "1320",
           "birthday": "119",
@@ -786,7 +786,7 @@ window.charaname=[
         {
           "charaProfileId": "1303",
           "charaId": "13",
-          "name": "Gaara",
+          "name": "我愛羅",
           "detail": "少年篇",
           "charaLoveAffinityGroupId": "1310",
           "birthday": "119",
@@ -800,7 +800,7 @@ window.charaname=[
         {
           "charaProfileId": "1401",
           "charaId": "14",
-          "name": "Temari",
+          "name": "テマリ",
           "detail": "少年篇",
           "charaLoveAffinityGroupId": "1410",
           "birthday": "823",
@@ -814,7 +814,7 @@ window.charaname=[
         {
           "charaProfileId": "1402",
           "charaId": "14",
-          "name": "Temari",
+          "name": "テマリ",
           "detail": "少年篇",
           "charaLoveAffinityGroupId": "1410",
           "birthday": "823",
@@ -828,7 +828,7 @@ window.charaname=[
         {
           "charaProfileId": "1403",
           "charaId": "14",
-          "name": "Temari",
+          "name": "テマリ",
           "detail": "疾風伝",
           "charaLoveAffinityGroupId": "1420",
           "birthday": "823",
@@ -842,7 +842,7 @@ window.charaname=[
         {
           "charaProfileId": "1404",
           "charaId": "14",
-          "name": "Temari",
+          "name": "テマリ",
           "detail": "疾風伝",
           "charaLoveAffinityGroupId": "1420",
           "birthday": "823",
@@ -856,7 +856,7 @@ window.charaname=[
         {
           "charaProfileId": "1405",
           "charaId": "14",
-          "name": "Temari",
+          "name": "テマリ",
           "detail": "真伝／秘伝",
           "charaLoveAffinityGroupId": "1430",
           "birthday": "823",
@@ -870,7 +870,7 @@ window.charaname=[
         {
           "charaProfileId": "1501",
           "charaId": "15",
-          "name": "Kankuro",
+          "name": "カンクロウ",
           "detail": "少年篇",
           "charaLoveAffinityGroupId": "1510",
           "birthday": "515",
@@ -884,7 +884,7 @@ window.charaname=[
         {
           "charaProfileId": "1502",
           "charaId": "15",
-          "name": "Kankuro",
+          "name": "カンクロウ",
           "detail": "少年篇",
           "charaLoveAffinityGroupId": "1510",
           "birthday": "515",
@@ -898,7 +898,7 @@ window.charaname=[
         {
           "charaProfileId": "1503",
           "charaId": "15",
-          "name": "Kankuro",
+          "name": "カンクロウ",
           "detail": "疾風伝",
           "charaLoveAffinityGroupId": "1520",
           "birthday": "515",
@@ -912,7 +912,7 @@ window.charaname=[
         {
           "charaProfileId": "1601",
           "charaId": "16",
-          "name": "Might Gai",
+          "name": "マイト・ガイ",
           "detail": "少年篇",
           "charaLoveAffinityGroupId": "1610",
           "birthday": "101",
@@ -926,7 +926,7 @@ window.charaname=[
         {
           "charaProfileId": "1602",
           "charaId": "16",
-          "name": "Might Gai",
+          "name": "マイト・ガイ",
           "detail": "少年篇",
           "charaLoveAffinityGroupId": "1610",
           "birthday": "101",
@@ -940,7 +940,7 @@ window.charaname=[
         {
           "charaProfileId": "1603",
           "charaId": "16",
-          "name": "Might Gai",
+          "name": "マイト・ガイ",
           "detail": "疾風伝",
           "charaLoveAffinityGroupId": "1620",
           "birthday": "101",
@@ -954,7 +954,7 @@ window.charaname=[
         {
           "charaProfileId": "1701",
           "charaId": "17",
-          "name": "Kakashi Hatake",
+          "name": "はたけカカシ",
           "detail": "カカシ外伝",
           "charaLoveAffinityGroupId": "1750",
           "birthday": "915",
@@ -968,7 +968,7 @@ window.charaname=[
         {
           "charaProfileId": "1702",
           "charaId": "17",
-          "name": "Kakashi Hatake",
+          "name": "はたけカカシ",
           "detail": "少年篇",
           "charaLoveAffinityGroupId": "1710",
           "birthday": "915",
@@ -982,7 +982,7 @@ window.charaname=[
         {
           "charaProfileId": "1703",
           "charaId": "17",
-          "name": "Kakashi Hatake",
+          "name": "はたけカカシ",
           "detail": "暗部時代",
           "charaLoveAffinityGroupId": "1740",
           "birthday": "915",
@@ -996,7 +996,7 @@ window.charaname=[
         {
           "charaProfileId": "1704",
           "charaId": "17",
-          "name": "Kakashi Hatake",
+          "name": "はたけカカシ",
           "detail": "疾風伝",
           "charaLoveAffinityGroupId": "1720",
           "birthday": "915",
@@ -1010,7 +1010,7 @@ window.charaname=[
         {
           "charaProfileId": "1705",
           "charaId": "17",
-          "name": "Kakashi Hatake",
+          "name": "はたけカカシ",
           "detail": "真伝／秘伝",
           "charaLoveAffinityGroupId": "1760",
           "birthday": "915",
@@ -1024,7 +1024,7 @@ window.charaname=[
         {
           "charaProfileId": "1706",
           "charaId": "17",
-          "name": "Kakashi Hatake",
+          "name": "はたけカカシ",
           "detail": "疾風伝",
           "charaLoveAffinityGroupId": "1720",
           "birthday": "915",
@@ -1038,7 +1038,7 @@ window.charaname=[
         {
           "charaProfileId": "1707",
           "charaId": "17",
-          "name": "Kakashi Hatake",
+          "name": "はたけカカシ",
           "detail": "疾風伝",
           "charaLoveAffinityGroupId": "1720",
           "birthday": "915",
@@ -1052,7 +1052,7 @@ window.charaname=[
         {
           "charaProfileId": "1801",
           "charaId": "18",
-          "name": "Asuma Sarutobi",
+          "name": "猿飛アスマ",
           "detail": "少年篇",
           "charaLoveAffinityGroupId": "1810",
           "birthday": "1018",
@@ -1066,7 +1066,7 @@ window.charaname=[
         {
           "charaProfileId": "1802",
           "charaId": "18",
-          "name": "Asuma Sarutobi",
+          "name": "猿飛アスマ",
           "detail": "疾風伝",
           "charaLoveAffinityGroupId": "1820",
           "birthday": "1018",
@@ -1080,7 +1080,7 @@ window.charaname=[
         {
           "charaProfileId": "1901",
           "charaId": "19",
-          "name": "Hashirama Senju",
+          "name": "千手柱間",
           "detail": "",
           "charaLoveAffinityGroupId": "1910",
           "birthday": "1023",
@@ -1094,7 +1094,7 @@ window.charaname=[
         {
           "charaProfileId": "1902",
           "charaId": "19",
-          "name": "Hashirama Senju",
+          "name": "千手柱間",
           "detail": "穢土転生",
           "charaLoveAffinityGroupId": "1920",
           "birthday": "1023",
@@ -1108,7 +1108,7 @@ window.charaname=[
         {
           "charaProfileId": "1903",
           "charaId": "19",
-          "name": "Hashirama Senju",
+          "name": "千手柱間",
           "detail": null,
           "charaLoveAffinityGroupId": "1910",
           "birthday": "1023",
@@ -1122,7 +1122,7 @@ window.charaname=[
         {
           "charaProfileId": "2001",
           "charaId": "20",
-          "name": "Tobirama Senju",
+          "name": "千手扉間",
           "detail": "",
           "charaLoveAffinityGroupId": "2010",
           "birthday": "219",
@@ -1136,7 +1136,7 @@ window.charaname=[
         {
           "charaProfileId": "2002",
           "charaId": "20",
-          "name": "Tobirama Senju",
+          "name": "千手扉間",
           "detail": "穢土転生",
           "charaLoveAffinityGroupId": "2020",
           "birthday": "219",
@@ -1150,7 +1150,7 @@ window.charaname=[
         {
           "charaProfileId": "2101",
           "charaId": "21",
-          "name": "Minato Namikaze",
+          "name": "波風ミナト",
           "detail": "",
           "charaLoveAffinityGroupId": "2110",
           "birthday": "125",
@@ -1164,7 +1164,7 @@ window.charaname=[
         {
           "charaProfileId": "2102",
           "charaId": "21",
-          "name": "Minato Namikaze",
+          "name": "波風ミナト",
           "detail": "カカシ外伝",
           "charaLoveAffinityGroupId": "2130",
           "birthday": "125",
@@ -1178,7 +1178,7 @@ window.charaname=[
         {
           "charaProfileId": "2103",
           "charaId": "21",
-          "name": "Minato Namikaze",
+          "name": "波風ミナト",
           "detail": "穢土転生",
           "charaLoveAffinityGroupId": "2120",
           "birthday": "125",
@@ -1192,7 +1192,7 @@ window.charaname=[
         {
           "charaProfileId": "2104",
           "charaId": "21",
-          "name": "Minato Namikaze",
+          "name": "波風ミナト",
           "detail": "穢土転生",
           "charaLoveAffinityGroupId": "2120",
           "birthday": "125",
@@ -1206,7 +1206,7 @@ window.charaname=[
         {
           "charaProfileId": "2201",
           "charaId": "22",
-          "name": "Hiruzen Sarutobi",
+          "name": "猿飛ヒルゼン",
           "detail": "",
           "charaLoveAffinityGroupId": "2210",
           "birthday": "208",
@@ -1220,7 +1220,7 @@ window.charaname=[
         {
           "charaProfileId": "2202",
           "charaId": "22",
-          "name": "Hiruzen Sarutobi",
+          "name": "猿飛ヒルゼン",
           "detail": "穢土転生",
           "charaLoveAffinityGroupId": "2220",
           "birthday": "208",
@@ -1234,7 +1234,7 @@ window.charaname=[
         {
           "charaProfileId": "2301",
           "charaId": "23",
-          "name": "Tsunade",
+          "name": "綱手",
           "detail": null,
           "charaLoveAffinityGroupId": "2310",
           "birthday": "802",
@@ -1248,7 +1248,7 @@ window.charaname=[
         {
           "charaProfileId": "2302",
           "charaId": "23",
-          "name": "Tsunade",
+          "name": "綱手",
           "detail": "",
           "charaLoveAffinityGroupId": "2310",
           "birthday": "802",
@@ -1262,7 +1262,7 @@ window.charaname=[
         {
           "charaProfileId": "2303",
           "charaId": "23",
-          "name": "Tsunade",
+          "name": "綱手",
           "detail": "",
           "charaLoveAffinityGroupId": "2310",
           "birthday": "802",
@@ -1276,7 +1276,7 @@ window.charaname=[
         {
           "charaProfileId": "2304",
           "charaId": "23",
-          "name": "Tsunade",
+          "name": "綱手",
           "detail": "アカデミー時代",
           "charaLoveAffinityGroupId": "2320",
           "birthday": "802",
@@ -1290,7 +1290,7 @@ window.charaname=[
         {
           "charaProfileId": "2305",
           "charaId": "23",
-          "name": "Tsunade",
+          "name": "綱手",
           "detail": "上忍時代",
           "charaLoveAffinityGroupId": "2330",
           "birthday": "802",
@@ -1304,7 +1304,7 @@ window.charaname=[
         {
           "charaProfileId": "2401",
           "charaId": "24",
-          "name": "Jiraiya",
+          "name": "自来也",
           "detail": null,
           "charaLoveAffinityGroupId": "2410",
           "birthday": "1111",
@@ -1318,7 +1318,7 @@ window.charaname=[
         {
           "charaProfileId": "2402",
           "charaId": "24",
-          "name": "Jiraiya",
+          "name": "自来也",
           "detail": "アカデミー時代",
           "charaLoveAffinityGroupId": "2420",
           "birthday": "1111",
@@ -1332,7 +1332,7 @@ window.charaname=[
         {
           "charaProfileId": "2403",
           "charaId": "24",
-          "name": "Jiraiya",
+          "name": "自来也",
           "detail": "上忍時代",
           "charaLoveAffinityGroupId": "2430",
           "birthday": "1111",
@@ -1346,7 +1346,7 @@ window.charaname=[
         {
           "charaProfileId": "2501",
           "charaId": "25",
-          "name": "Iruka Umino",
+          "name": "うみのイルカ",
           "detail": "",
           "charaLoveAffinityGroupId": "2510",
           "birthday": "526",
@@ -1360,7 +1360,7 @@ window.charaname=[
         {
           "charaProfileId": "2502",
           "charaId": "25",
-          "name": "Iruka Umino",
+          "name": "うみのイルカ",
           "detail": "",
           "charaLoveAffinityGroupId": "2510",
           "birthday": "526",
@@ -1374,7 +1374,7 @@ window.charaname=[
         {
           "charaProfileId": "2503",
           "charaId": "25",
-          "name": "Iruka Umino",
+          "name": "うみのイルカ",
           "detail": "真伝／秘伝",
           "charaLoveAffinityGroupId": "2520",
           "birthday": "526",
@@ -1388,7 +1388,7 @@ window.charaname=[
         {
           "charaProfileId": "2601",
           "charaId": "26",
-          "name": "Kotetsu Hagane",
+          "name": "はがねコテツ",
           "detail": "",
           "charaLoveAffinityGroupId": "2610",
           "birthday": "721",
@@ -1402,7 +1402,7 @@ window.charaname=[
         {
           "charaProfileId": "2701",
           "charaId": "27",
-          "name": "Izumo Kamizuki",
+          "name": "神月イズモ",
           "detail": "",
           "charaLoveAffinityGroupId": "2710",
           "birthday": "1125",
@@ -1416,7 +1416,7 @@ window.charaname=[
         {
           "charaProfileId": "2801",
           "charaId": "28",
-          "name": "Anko Mitarashi",
+          "name": "みたらしアンコ",
           "detail": "",
           "charaLoveAffinityGroupId": "2810",
           "birthday": "1024",
@@ -1430,7 +1430,7 @@ window.charaname=[
         {
           "charaProfileId": "2901",
           "charaId": "29",
-          "name": "Hayate Gekko",
+          "name": "月光ハヤテ",
           "detail": "",
           "charaLoveAffinityGroupId": "2910",
           "birthday": "1102",
@@ -1444,7 +1444,7 @@ window.charaname=[
         {
           "charaProfileId": "3001",
           "charaId": "30",
-          "name": "Genma Shiranui",
+          "name": "不知火ゲンマ",
           "detail": "",
           "charaLoveAffinityGroupId": "3010",
           "birthday": "717",
@@ -1458,7 +1458,7 @@ window.charaname=[
         {
           "charaProfileId": "3101",
           "charaId": "31",
-          "name": "Shizune",
+          "name": "シズネ",
           "detail": "",
           "charaLoveAffinityGroupId": "3110",
           "birthday": "1118",
@@ -1472,7 +1472,7 @@ window.charaname=[
         {
           "charaProfileId": "3201",
           "charaId": "32",
-          "name": "Konohamaru Sarutobi",
+          "name": "猿飛木ノ葉丸",
           "detail": "少年篇",
           "charaLoveAffinityGroupId": "3210",
           "birthday": "1230",
@@ -1486,7 +1486,7 @@ window.charaname=[
         {
           "charaProfileId": "3202",
           "charaId": "32",
-          "name": "Konohamaru Sarutobi",
+          "name": "猿飛木ノ葉丸",
           "detail": "疾風伝",
           "charaLoveAffinityGroupId": "3220",
           "birthday": "1230",
@@ -1500,7 +1500,7 @@ window.charaname=[
         {
           "charaProfileId": "3301",
           "charaId": "33",
-          "name": "Kurenai Yuhi",
+          "name": "夕日紅",
           "detail": "",
           "charaLoveAffinityGroupId": "3310",
           "birthday": "611",
@@ -1514,7 +1514,7 @@ window.charaname=[
         {
           "charaProfileId": "3302",
           "charaId": "33",
-          "name": "Kurenai Yuhi",
+          "name": "夕日紅",
           "detail": "",
           "charaLoveAffinityGroupId": "3310",
           "birthday": "611",
@@ -1528,7 +1528,7 @@ window.charaname=[
         {
           "charaProfileId": "3401",
           "charaId": "34",
-          "name": "Ebisu",
+          "name": "エビス",
           "detail": "",
           "charaLoveAffinityGroupId": "3410",
           "birthday": "308",
@@ -1542,7 +1542,7 @@ window.charaname=[
         {
           "charaProfileId": "3501",
           "charaId": "35",
-          "name": "Ibiki Morino",
+          "name": "森乃イビキ",
           "detail": "",
           "charaLoveAffinityGroupId": "3510",
           "birthday": "320",
@@ -1556,7 +1556,7 @@ window.charaname=[
         {
           "charaProfileId": "3601",
           "charaId": "36",
-          "name": "Mizuki",
+          "name": "ミズキ",
           "detail": "",
           "charaLoveAffinityGroupId": "3610",
           "birthday": "1021",
@@ -1570,7 +1570,7 @@ window.charaname=[
         {
           "charaProfileId": "3701",
           "charaId": "37",
-          "name": "Sai",
+          "name": "サイ",
           "detail": "",
           "charaLoveAffinityGroupId": "3710",
           "birthday": "1125",
@@ -1584,7 +1584,7 @@ window.charaname=[
         {
           "charaProfileId": "3702",
           "charaId": "37",
-          "name": "Sai",
+          "name": "サイ",
           "detail": "真伝／秘伝",
           "charaLoveAffinityGroupId": "3720",
           "birthday": "1125",
@@ -1598,7 +1598,7 @@ window.charaname=[
         {
           "charaProfileId": "3801",
           "charaId": "38",
-          "name": "Yamato",
+          "name": "ヤマト",
           "detail": "",
           "charaLoveAffinityGroupId": "3810",
           "birthday": "810",
@@ -1612,7 +1612,7 @@ window.charaname=[
         {
           "charaProfileId": "3901",
           "charaId": "39",
-          "name": "Hiashi Hyuga",
+          "name": "日向ヒアシ",
           "detail": "",
           "charaLoveAffinityGroupId": "3910",
           "birthday": "108",
@@ -1626,7 +1626,7 @@ window.charaname=[
         {
           "charaProfileId": "4001",
           "charaId": "40",
-          "name": "Danzo Shimura",
+          "name": "志村ダンゾウ",
           "detail": "",
           "charaLoveAffinityGroupId": "4010",
           "birthday": "106",
@@ -1640,7 +1640,7 @@ window.charaname=[
         {
           "charaProfileId": "4101",
           "charaId": "41",
-          "name": "Shisui Uchiha",
+          "name": "うちはシスイ",
           "detail": "",
           "charaLoveAffinityGroupId": "4110",
           "birthday": "1019",
@@ -1654,7 +1654,7 @@ window.charaname=[
         {
           "charaProfileId": "4201",
           "charaId": "42",
-          "name": "Tenzo",
+          "name": "テンゾウ",
           "detail": "",
           "charaLoveAffinityGroupId": "4210",
           "birthday": "810",
@@ -1668,7 +1668,7 @@ window.charaname=[
         {
           "charaProfileId": "4301",
           "charaId": "43",
-          "name": "Kushina Uzumaki",
+          "name": "うずまきクシナ",
           "detail": "",
           "charaLoveAffinityGroupId": "4310",
           "birthday": "710",
@@ -1682,7 +1682,7 @@ window.charaname=[
         {
           "charaProfileId": "4302",
           "charaId": "43",
-          "name": "Kushina Uzumaki",
+          "name": "うずまきクシナ",
           "detail": "",
           "charaLoveAffinityGroupId": "4310",
           "birthday": "710",
@@ -1696,7 +1696,7 @@ window.charaname=[
         {
           "charaProfileId": "4401",
           "charaId": "44",
-          "name": "Might Dai",
+          "name": "マイト・ダイ",
           "detail": "",
           "charaLoveAffinityGroupId": "4410",
           "birthday": "1210",
@@ -1710,7 +1710,7 @@ window.charaname=[
         {
           "charaProfileId": "4501",
           "charaId": "45",
-          "name": "Yugao Uzuki",
+          "name": "卯月夕顔",
           "detail": "",
           "charaLoveAffinityGroupId": "4510",
           "birthday": "1103",
@@ -1724,7 +1724,7 @@ window.charaname=[
         {
           "charaProfileId": "4601",
           "charaId": "46",
-          "name": "Hanabi Hyuga",
+          "name": "日向ハナビ",
           "detail": "",
           "charaLoveAffinityGroupId": "4610",
           "birthday": "327",
@@ -1738,7 +1738,7 @@ window.charaname=[
         {
           "charaProfileId": "4602",
           "charaId": "46",
-          "name": "Hanabi Hyuga",
+          "name": "日向ハナビ",
           "detail": "真伝／秘伝",
           "charaLoveAffinityGroupId": "4620",
           "birthday": "327",
@@ -1752,7 +1752,7 @@ window.charaname=[
         {
           "charaProfileId": "4701",
           "charaId": "47",
-          "name": "Izuna Uchiha",
+          "name": "うちはイズナ",
           "detail": "",
           "charaLoveAffinityGroupId": "4710",
           "birthday": "210",
@@ -1766,7 +1766,7 @@ window.charaname=[
         {
           "charaProfileId": "10101",
           "charaId": "101",
-          "name": "Zabuza Momochi",
+          "name": "桃地再不斬",
           "detail": "",
           "charaLoveAffinityGroupId": "10110",
           "birthday": "815",
@@ -1780,7 +1780,7 @@ window.charaname=[
         {
           "charaProfileId": "10201",
           "charaId": "102",
-          "name": "Haku",
+          "name": "白",
           "detail": "",
           "charaLoveAffinityGroupId": "10210",
           "birthday": "109",
@@ -1794,7 +1794,7 @@ window.charaname=[
         {
           "charaProfileId": "10301",
           "charaId": "103",
-          "name": "Orochimaru",
+          "name": "大蛇丸",
           "detail": "",
           "charaLoveAffinityGroupId": "10310",
           "birthday": "1027",
@@ -1808,7 +1808,7 @@ window.charaname=[
         {
           "charaProfileId": "10302",
           "charaId": "103",
-          "name": "Orochimaru",
+          "name": "大蛇丸",
           "detail": "アカデミー時代",
           "charaLoveAffinityGroupId": "10320",
           "birthday": "1027",
@@ -1822,7 +1822,7 @@ window.charaname=[
         {
           "charaProfileId": "10303",
           "charaId": "103",
-          "name": "Orochimaru",
+          "name": "大蛇丸",
           "detail": "上忍時代",
           "charaLoveAffinityGroupId": "10330",
           "birthday": "1027",
@@ -1836,7 +1836,7 @@ window.charaname=[
         {
           "charaProfileId": "10401",
           "charaId": "104",
-          "name": "Kabuto Yakushi",
+          "name": "薬師カブト",
           "detail": "少年篇",
           "charaLoveAffinityGroupId": "10410",
           "birthday": "229",
@@ -1850,7 +1850,7 @@ window.charaname=[
         {
           "charaProfileId": "10402",
           "charaId": "104",
-          "name": "Kabuto Yakushi",
+          "name": "薬師カブト",
           "detail": "疾風伝",
           "charaLoveAffinityGroupId": "10420",
           "birthday": "229",
@@ -1864,7 +1864,7 @@ window.charaname=[
         {
           "charaProfileId": "10403",
           "charaId": "104",
-          "name": "Kabuto Yakushi",
+          "name": "薬師カブト",
           "detail": "疾風伝",
           "charaLoveAffinityGroupId": "10420",
           "birthday": "229",
@@ -1878,7 +1878,7 @@ window.charaname=[
         {
           "charaProfileId": "10501",
           "charaId": "105",
-          "name": "Kagari",
+          "name": "篝",
           "detail": "",
           "charaLoveAffinityGroupId": "10510",
           "birthday": "1116",
@@ -1892,7 +1892,7 @@ window.charaname=[
         {
           "charaProfileId": "10601",
           "charaId": "106",
-          "name": "Mubi",
+          "name": "夢火",
           "detail": "",
           "charaLoveAffinityGroupId": "10610",
           "birthday": "1115",
@@ -1906,7 +1906,7 @@ window.charaname=[
         {
           "charaProfileId": "10701",
           "charaId": "107",
-          "name": "Oboro",
+          "name": "朧",
           "detail": "",
           "charaLoveAffinityGroupId": "10710",
           "birthday": "1220",
@@ -1920,7 +1920,7 @@ window.charaname=[
         {
           "charaProfileId": "10801",
           "charaId": "108",
-          "name": "Dosu Kinuta",
+          "name": "ドス・キヌタ",
           "detail": "",
           "charaLoveAffinityGroupId": "10810",
           "birthday": "612",
@@ -1934,7 +1934,7 @@ window.charaname=[
         {
           "charaProfileId": "10901",
           "charaId": "109",
-          "name": "Zaku Abumi",
+          "name": "ザク・アブミ",
           "detail": "",
           "charaLoveAffinityGroupId": "10910",
           "birthday": "914",
@@ -1948,7 +1948,7 @@ window.charaname=[
         {
           "charaProfileId": "11001",
           "charaId": "110",
-          "name": "Kin Tsuchi",
+          "name": "キン・ツチ",
           "detail": "",
           "charaLoveAffinityGroupId": "11010",
           "birthday": "706",
@@ -1962,7 +1962,7 @@ window.charaname=[
         {
           "charaProfileId": "11101",
           "charaId": "111",
-          "name": "Kimimaro",
+          "name": "君麻呂",
           "detail": "",
           "charaLoveAffinityGroupId": "11110",
           "birthday": "615",
@@ -1976,7 +1976,7 @@ window.charaname=[
         {
           "charaProfileId": "11201",
           "charaId": "112",
-          "name": "Tayuya",
+          "name": "多由也",
           "detail": "",
           "charaLoveAffinityGroupId": "11210",
           "birthday": "215",
@@ -1990,7 +1990,7 @@ window.charaname=[
         {
           "charaProfileId": "11301",
           "charaId": "113",
-          "name": "Jirobo",
+          "name": "次郎坊",
           "detail": "",
           "charaLoveAffinityGroupId": "11310",
           "birthday": "626",
@@ -2004,7 +2004,7 @@ window.charaname=[
         {
           "charaProfileId": "11401",
           "charaId": "114",
-          "name": "Kidomaru",
+          "name": "鬼童丸",
           "detail": "",
           "charaLoveAffinityGroupId": "11410",
           "birthday": "1216",
@@ -2018,7 +2018,7 @@ window.charaname=[
         {
           "charaProfileId": "11501",
           "charaId": "115",
-          "name": "Sakon and Ukon",
+          "name": "左近・右近",
           "detail": "",
           "charaLoveAffinityGroupId": "11510",
           "birthday": "620",
@@ -2032,7 +2032,7 @@ window.charaname=[
         {
           "charaProfileId": "11601",
           "charaId": "116",
-          "name": "Itachi Uchiha",
+          "name": "うちはイタチ",
           "detail": "",
           "charaLoveAffinityGroupId": "11610",
           "birthday": "609",
@@ -2046,7 +2046,7 @@ window.charaname=[
         {
           "charaProfileId": "11602",
           "charaId": "116",
-          "name": "Itachi Uchiha",
+          "name": "うちはイタチ",
           "detail": "暗部時代",
           "charaLoveAffinityGroupId": "11630",
           "birthday": "609",
@@ -2060,7 +2060,7 @@ window.charaname=[
         {
           "charaProfileId": "11603",
           "charaId": "116",
-          "name": "Itachi Uchiha",
+          "name": "うちはイタチ",
           "detail": "穢土転生",
           "charaLoveAffinityGroupId": "11620",
           "birthday": "609",
@@ -2074,7 +2074,7 @@ window.charaname=[
         {
           "charaProfileId": "11701",
           "charaId": "117",
-          "name": "Kisame Hoshigaki",
+          "name": "干柿鬼鮫",
           "detail": "",
           "charaLoveAffinityGroupId": "11710",
           "birthday": "318",
@@ -2088,7 +2088,7 @@ window.charaname=[
         {
           "charaProfileId": "11801",
           "charaId": "118",
-          "name": "Pain",
+          "name": "ペイン",
           "detail": "",
           "charaLoveAffinityGroupId": "11810",
           "birthday": "919",
@@ -2102,7 +2102,7 @@ window.charaname=[
         {
           "charaProfileId": "11802",
           "charaId": "118",
-          "name": "Pain",
+          "name": "ペイン",
           "detail": null,
           "charaLoveAffinityGroupId": "11810",
           "birthday": "919",
@@ -2116,7 +2116,7 @@ window.charaname=[
         {
           "charaProfileId": "11901",
           "charaId": "119",
-          "name": "Tobi",
+          "name": "トビ",
           "detail": "",
           "charaLoveAffinityGroupId": "11910",
           "birthday": "210",
@@ -2130,7 +2130,7 @@ window.charaname=[
         {
           "charaProfileId": "12001",
           "charaId": "120",
-          "name": "Deidara",
+          "name": "デイダラ",
           "detail": "",
           "charaLoveAffinityGroupId": "12010",
           "birthday": "505",
@@ -2144,7 +2144,7 @@ window.charaname=[
         {
           "charaProfileId": "12101",
           "charaId": "121",
-          "name": "Sasori",
+          "name": "サソリ",
           "detail": "",
           "charaLoveAffinityGroupId": "12110",
           "birthday": "1108",
@@ -2158,7 +2158,7 @@ window.charaname=[
         {
           "charaProfileId": "12201",
           "charaId": "122",
-          "name": "Hiruko",
+          "name": "ヒルコ",
           "detail": "",
           "charaLoveAffinityGroupId": "12210",
           "birthday": "1108",
@@ -2172,7 +2172,7 @@ window.charaname=[
         {
           "charaProfileId": "12202",
           "charaId": "0",
-          "name": "Sasori",
+          "name": "サソリ",
           "detail": "",
           "charaLoveAffinityGroupId": null,
           "birthday": "1108",
@@ -2186,7 +2186,7 @@ window.charaname=[
         {
           "charaProfileId": "12203",
           "charaId": "0",
-          "name": "Hiruko",
+          "name": "ヒルコ",
           "detail": "",
           "charaLoveAffinityGroupId": null,
           "birthday": "1108",
@@ -2200,7 +2200,7 @@ window.charaname=[
         {
           "charaProfileId": "12301",
           "charaId": "123",
-          "name": "Hidan",
+          "name": "飛段",
           "detail": "",
           "charaLoveAffinityGroupId": "12310",
           "birthday": "402",
@@ -2214,7 +2214,7 @@ window.charaname=[
         {
           "charaProfileId": "12401",
           "charaId": "124",
-          "name": "Kakuzu",
+          "name": "角都",
           "detail": "",
           "charaLoveAffinityGroupId": "12410",
           "birthday": "815",
@@ -2228,7 +2228,7 @@ window.charaname=[
         {
           "charaProfileId": "12501",
           "charaId": "125",
-          "name": "Konan",
+          "name": "小南",
           "detail": "",
           "charaLoveAffinityGroupId": "12510",
           "birthday": "220",
@@ -2242,8 +2242,8 @@ window.charaname=[
         {
           "charaProfileId": "12502",
           "charaId": "125",
-          "name": "Konan",
-          "detail": "Jiraiyaの弟子",
+          "name": "小南",
+          "detail": "自来也の弟子",
           "charaLoveAffinityGroupId": "12520",
           "birthday": "220",
           "constellation": "12",
@@ -2256,8 +2256,8 @@ window.charaname=[
         {
           "charaProfileId": "12503",
           "charaId": "125",
-          "name": "Konan",
-          "detail": "Aoi年時代",
+          "name": "小南",
+          "detail": "青年時代",
           "charaLoveAffinityGroupId": "12530",
           "birthday": "220",
           "constellation": "12",
@@ -2340,7 +2340,7 @@ window.charaname=[
         {
           "charaProfileId": "13101",
           "charaId": "131",
-          "name": "Pain (Animal)",
+          "name": "ペイン畜生道",
           "detail": "",
           "charaLoveAffinityGroupId": "13110",
           "birthday": "0",
@@ -2354,8 +2354,8 @@ window.charaname=[
         {
           "charaProfileId": "13201",
           "charaId": "132",
-          "name": "Yahiko",
-          "detail": "Jiraiyaの弟子",
+          "name": "弥彦",
+          "detail": "自来也の弟子",
           "charaLoveAffinityGroupId": "13210",
           "birthday": "220",
           "constellation": "12",
@@ -2368,8 +2368,8 @@ window.charaname=[
         {
           "charaProfileId": "13202",
           "charaId": "132",
-          "name": "Yahiko",
-          "detail": "Aoi年時代",
+          "name": "弥彦",
+          "detail": "青年時代",
           "charaLoveAffinityGroupId": "13220",
           "birthday": "220",
           "constellation": "12",
@@ -2382,8 +2382,8 @@ window.charaname=[
         {
           "charaProfileId": "13301",
           "charaId": "133",
-          "name": "Nagato",
-          "detail": "Jiraiyaの弟子",
+          "name": "長門",
+          "detail": "自来也の弟子",
           "charaLoveAffinityGroupId": "13310",
           "birthday": "919",
           "constellation": "6",
@@ -2396,8 +2396,8 @@ window.charaname=[
         {
           "charaProfileId": "13302",
           "charaId": "133",
-          "name": "Nagato",
-          "detail": "Aoi年時代",
+          "name": "長門",
+          "detail": "青年時代",
           "charaLoveAffinityGroupId": "13320",
           "birthday": "919",
           "constellation": "6",
@@ -2410,7 +2410,7 @@ window.charaname=[
         {
           "charaProfileId": "13303",
           "charaId": "133",
-          "name": "Nagato",
+          "name": "長門",
           "detail": "穢土転生",
           "charaLoveAffinityGroupId": "13330",
           "birthday": "919",
@@ -2424,7 +2424,7 @@ window.charaname=[
         {
           "charaProfileId": "13304",
           "charaId": "133",
-          "name": "Nagato",
+          "name": "長門",
           "detail": "疾風伝（ペイン操作）",
           "charaLoveAffinityGroupId": "13340",
           "birthday": "919",
@@ -2438,7 +2438,7 @@ window.charaname=[
         {
           "charaProfileId": "13401",
           "charaId": "134",
-          "name": "Karin",
+          "name": "香燐",
           "detail": "",
           "charaLoveAffinityGroupId": "13410",
           "birthday": "620",
@@ -2452,7 +2452,7 @@ window.charaname=[
         {
           "charaProfileId": "13501",
           "charaId": "135",
-          "name": "Jugo",
+          "name": "重吾",
           "detail": "",
           "charaLoveAffinityGroupId": "13510",
           "birthday": "1001",
@@ -2466,7 +2466,7 @@ window.charaname=[
         {
           "charaProfileId": "13601",
           "charaId": "136",
-          "name": "Suigetsu Hozuki",
+          "name": "鬼灯水月",
           "detail": "",
           "charaLoveAffinityGroupId": "13610",
           "birthday": "218",
@@ -2480,7 +2480,7 @@ window.charaname=[
         {
           "charaProfileId": "13602",
           "charaId": "136",
-          "name": "Suigetsu Hozuki",
+          "name": "鬼灯水月",
           "detail": "",
           "charaLoveAffinityGroupId": "13610",
           "birthday": "218",
@@ -2494,7 +2494,7 @@ window.charaname=[
         {
           "charaProfileId": "13701",
           "charaId": "137",
-          "name": "Madara Uchiha",
+          "name": "うちはマダラ",
           "detail": "疾風伝",
           "charaLoveAffinityGroupId": "13720",
           "birthday": "1224",
@@ -2508,7 +2508,7 @@ window.charaname=[
         {
           "charaProfileId": "13702",
           "charaId": "137",
-          "name": "Madara Uchiha",
+          "name": "うちはマダラ",
           "detail": "",
           "charaLoveAffinityGroupId": "13710",
           "birthday": "1224",
@@ -2522,7 +2522,7 @@ window.charaname=[
         {
           "charaProfileId": "13703",
           "charaId": "137",
-          "name": "Madara Uchiha",
+          "name": "うちはマダラ",
           "detail": null,
           "charaLoveAffinityGroupId": "13710",
           "birthday": "1224",
@@ -2536,7 +2536,7 @@ window.charaname=[
         {
           "charaProfileId": "13705",
           "charaId": "137",
-          "name": "Madara Uchiha",
+          "name": "うちはマダラ",
           "detail": null,
           "charaLoveAffinityGroupId": "11910",
           "birthday": "0",
@@ -2550,7 +2550,7 @@ window.charaname=[
         {
           "charaProfileId": "13706",
           "charaId": "137",
-          "name": "Madara Uchiha",
+          "name": "うちはマダラ",
           "detail": "疾風伝",
           "charaLoveAffinityGroupId": "13720",
           "birthday": "1224",
@@ -2564,7 +2564,7 @@ window.charaname=[
         {
           "charaProfileId": "13801",
           "charaId": "0",
-          "name": "Madara Uchiha",
+          "name": "うちはマダラ",
           "detail": "",
           "charaLoveAffinityGroupId": null,
           "birthday": "1224",
@@ -2578,7 +2578,7 @@ window.charaname=[
         {
           "charaProfileId": "13901",
           "charaId": "139",
-          "name": "Zetsu",
+          "name": "ゼツ",
           "detail": "",
           "charaLoveAffinityGroupId": "13910",
           "birthday": "0",
@@ -2592,7 +2592,7 @@ window.charaname=[
         {
           "charaProfileId": "14001",
           "charaId": "140",
-          "name": "Masked Man",
+          "name": "仮面の男",
           "detail": null,
           "charaLoveAffinityGroupId": "14010",
           "birthday": "0",
@@ -2606,7 +2606,7 @@ window.charaname=[
         {
           "charaProfileId": "14002",
           "charaId": "140",
-          "name": "Masked Man",
+          "name": "仮面の男",
           "detail": "",
           "charaLoveAffinityGroupId": "14010",
           "birthday": "0",
@@ -2620,7 +2620,7 @@ window.charaname=[
         {
           "charaProfileId": "14101",
           "charaId": "141",
-          "name": "Hanzo",
+          "name": "半蔵",
           "detail": "",
           "charaLoveAffinityGroupId": "14110",
           "birthday": "212",
@@ -2634,7 +2634,7 @@ window.charaname=[
         {
           "charaProfileId": "14201",
           "charaId": "142",
-          "name": "White Zetsu",
+          "name": "白ゼツ",
           "detail": "",
           "charaLoveAffinityGroupId": "14210",
           "birthday": "0",
@@ -2648,7 +2648,7 @@ window.charaname=[
         {
           "charaProfileId": "14301",
           "charaId": "143",
-          "name": "Kaguya Otsutsuki",
+          "name": "大筒木カグヤ",
           "detail": "",
           "charaLoveAffinityGroupId": "14310",
           "birthday": "815",
@@ -2662,7 +2662,7 @@ window.charaname=[
         {
           "charaProfileId": "14401",
           "charaId": "144",
-          "name": "Ashura Otsutsuki",
+          "name": "大筒木アシュラ",
           "detail": null,
           "charaLoveAffinityGroupId": "14410",
           "birthday": "608",
@@ -2676,7 +2676,7 @@ window.charaname=[
         {
           "charaProfileId": "14402",
           "charaId": "144",
-          "name": "Ashura Otsutsuki",
+          "name": "大筒木アシュラ",
           "detail": null,
           "charaLoveAffinityGroupId": "14410",
           "birthday": "608",
@@ -2690,7 +2690,7 @@ window.charaname=[
         {
           "charaProfileId": "14501",
           "charaId": "145",
-          "name": "Indra Otsutsuki",
+          "name": "大筒木インドラ",
           "detail": null,
           "charaLoveAffinityGroupId": "14510",
           "birthday": "104",
@@ -2704,7 +2704,7 @@ window.charaname=[
         {
           "charaProfileId": "14502",
           "charaId": "145",
-          "name": "Indra Otsutsuki",
+          "name": "大筒木インドラ",
           "detail": null,
           "charaLoveAffinityGroupId": "14510",
           "birthday": "104",
@@ -2718,7 +2718,7 @@ window.charaname=[
         {
           "charaProfileId": "14601",
           "charaId": "146",
-          "name": "Hagoromo Otsutsuki",
+          "name": "大筒木ハゴロモ",
           "detail": null,
           "charaLoveAffinityGroupId": "14610",
           "birthday": "806",
@@ -2732,7 +2732,7 @@ window.charaname=[
         {
           "charaProfileId": "14701",
           "charaId": "147",
-          "name": "Hamura Otsutsuki",
+          "name": "大筒木ハムラ",
           "detail": null,
           "charaLoveAffinityGroupId": "14710",
           "birthday": "806",
@@ -2746,7 +2746,7 @@ window.charaname=[
         {
           "charaProfileId": "20001",
           "charaId": "0",
-          "name": "Killer Bee",
+          "name": "キラービー",
           "detail": "",
           "charaLoveAffinityGroupId": null,
           "birthday": "515",
@@ -2760,7 +2760,7 @@ window.charaname=[
         {
           "charaProfileId": "20101",
           "charaId": "201",
-          "name": "Killer Bee",
+          "name": "キラービー",
           "detail": "",
           "charaLoveAffinityGroupId": "20110",
           "birthday": "515",
@@ -2774,7 +2774,7 @@ window.charaname=[
         {
           "charaProfileId": "20201",
           "charaId": "202",
-          "name": "A",
+          "name": "エー",
           "detail": "",
           "charaLoveAffinityGroupId": "20210",
           "birthday": "601",
@@ -2788,7 +2788,7 @@ window.charaname=[
         {
           "charaProfileId": "20301",
           "charaId": "203",
-          "name": "Darui",
+          "name": "ダルイ",
           "detail": "",
           "charaLoveAffinityGroupId": "20310",
           "birthday": "106",
@@ -2802,7 +2802,7 @@ window.charaname=[
         {
           "charaProfileId": "20401",
           "charaId": "204",
-          "name": "Mei Terumi",
+          "name": "照美メイ",
           "detail": "",
           "charaLoveAffinityGroupId": "20410",
           "birthday": "521",
@@ -2816,7 +2816,7 @@ window.charaname=[
         {
           "charaProfileId": "20402",
           "charaId": "204",
-          "name": "Mei Terumi",
+          "name": "照美メイ",
           "detail": "真伝／秘伝",
           "charaLoveAffinityGroupId": "20420",
           "birthday": "521",
@@ -2830,7 +2830,7 @@ window.charaname=[
         {
           "charaProfileId": "20501",
           "charaId": "205",
-          "name": "Oonoki",
+          "name": "オオノキ",
           "detail": "",
           "charaLoveAffinityGroupId": "20510",
           "birthday": "1008",
@@ -2844,7 +2844,7 @@ window.charaname=[
         {
           "charaProfileId": "20601",
           "charaId": "206",
-          "name": "Granny Chiyo",
+          "name": "チヨバア",
           "detail": "",
           "charaLoveAffinityGroupId": "20610",
           "birthday": "1015",
@@ -2858,7 +2858,7 @@ window.charaname=[
         {
           "charaProfileId": "20701",
           "charaId": "207",
-          "name": "C",
+          "name": "シー",
           "detail": "",
           "charaLoveAffinityGroupId": "20710",
           "birthday": "403",
@@ -2872,7 +2872,7 @@ window.charaname=[
         {
           "charaProfileId": "20801",
           "charaId": "208",
-          "name": "Aoi",
+          "name": "青",
           "detail": "",
           "charaLoveAffinityGroupId": "20810",
           "birthday": "801",
@@ -2886,7 +2886,7 @@ window.charaname=[
         {
           "charaProfileId": "20901",
           "charaId": "209",
-          "name": "Chojuro",
+          "name": "長十郎",
           "detail": "",
           "charaLoveAffinityGroupId": "20910",
           "birthday": "1101",
@@ -2900,7 +2900,7 @@ window.charaname=[
         {
           "charaProfileId": "21001",
           "charaId": "210",
-          "name": "Mu",
+          "name": "無",
           "detail": "",
           "charaLoveAffinityGroupId": "21010",
           "birthday": "606",
@@ -2914,7 +2914,7 @@ window.charaname=[
         {
           "charaProfileId": "21101",
           "charaId": "211",
-          "name": "Utakata",
+          "name": "ウタカタ",
           "detail": "",
           "charaLoveAffinityGroupId": "21110",
           "birthday": "616",
@@ -2928,7 +2928,7 @@ window.charaname=[
         {
           "charaProfileId": "21201",
           "charaId": "212",
-          "name": "Raza",
+          "name": "羅砂",
           "detail": "穢土転生",
           "charaLoveAffinityGroupId": "21210",
           "birthday": "329",
@@ -2942,7 +2942,7 @@ window.charaname=[
         {
           "charaProfileId": "21301",
           "charaId": "213",
-          "name": "Gengetsu Hozuki",
+          "name": "鬼灯幻月",
           "detail": "穢土転生",
           "charaLoveAffinityGroupId": "21310",
           "birthday": "1026",
@@ -2956,7 +2956,7 @@ window.charaname=[
         {
           "charaProfileId": "21401",
           "charaId": "214",
-          "name": "Kurotsuchi",
+          "name": "黒ツチ",
           "detail": null,
           "charaLoveAffinityGroupId": "21410",
           "birthday": "906",
@@ -2970,7 +2970,7 @@ window.charaname=[
         {
           "charaProfileId": "21501",
           "charaId": "215",
-          "name": "Akatsuchi",
+          "name": "赤ツチ",
           "detail": null,
           "charaLoveAffinityGroupId": "21510",
           "birthday": "0",
@@ -2984,7 +2984,7 @@ window.charaname=[
         {
           "charaProfileId": "21601",
           "charaId": "216",
-          "name": "Mangetsu Hozuki",
+          "name": "鬼灯満月",
           "detail": "穢土転生",
           "charaLoveAffinityGroupId": "21610",
           "birthday": "215",
@@ -2998,7 +2998,7 @@ window.charaname=[
         {
           "charaProfileId": "21701",
           "charaId": "217",
-          "name": "Samui",
+          "name": "サムイ",
           "detail": null,
           "charaLoveAffinityGroupId": "21710",
           "birthday": "107",
@@ -3110,7 +3110,7 @@ window.charaname=[
         {
           "charaProfileId": "50701",
           "charaId": "507",
-          "name": "Boruto Uzumaki",
+          "name": "うずまきボルト",
           "detail": "",
           "charaLoveAffinityGroupId": "50710",
           "birthday": "0",
@@ -3124,7 +3124,7 @@ window.charaname=[
         {
           "charaProfileId": "50801",
           "charaId": "508",
-          "name": "Sarada Uchiha",
+          "name": "うちはサラダ",
           "detail": "",
           "charaLoveAffinityGroupId": "50810",
           "birthday": "0",
@@ -3138,7 +3138,7 @@ window.charaname=[
         {
           "charaProfileId": "50901",
           "charaId": "509",
-          "name": "Obito Uchiha",
+          "name": "うちはオビト",
           "detail": "カカシ外伝",
           "charaLoveAffinityGroupId": "50920",
           "birthday": "210",
@@ -3152,7 +3152,7 @@ window.charaname=[
         {
           "charaProfileId": "50902",
           "charaId": "509",
-          "name": "Obito Uchiha",
+          "name": "うちはオビト",
           "detail": "",
           "charaLoveAffinityGroupId": "50910",
           "birthday": "210",
@@ -3166,7 +3166,7 @@ window.charaname=[
         {
           "charaProfileId": "50903",
           "charaId": "509",
-          "name": "Obito Uchiha",
+          "name": "うちはオビト",
           "detail": "",
           "charaLoveAffinityGroupId": "50910",
           "birthday": "210",
@@ -3180,7 +3180,7 @@ window.charaname=[
         {
           "charaProfileId": "51001",
           "charaId": "510",
-          "name": "Rin Nohara",
+          "name": "のはらリン",
           "detail": "",
           "charaLoveAffinityGroupId": "51010",
           "birthday": "1115",
@@ -3194,7 +3194,7 @@ window.charaname=[
         {
           "charaProfileId": "51101",
           "charaId": "511",
-          "name": "Kin-chan",
+          "name": "キンちゃん",
           "detail": "",
           "charaLoveAffinityGroupId": "51110",
           "birthday": "1004",
@@ -3250,7 +3250,7 @@ window.charaname=[
         {
           "charaProfileId": "51501",
           "charaId": "515",
-          "name": "Mifune",
+          "name": "ミフネ",
           "detail": "",
           "charaLoveAffinityGroupId": "51510",
           "birthday": "401",
@@ -3922,7 +3922,7 @@ window.charaname=[
         {
           "charaProfileId": "104701",
           "charaId": "0",
-          "name": "Aoiのチャクラ欠片",
+          "name": "青のチャクラ欠片",
           "detail": "",
           "charaLoveAffinityGroupId": null,
           "birthday": "0",
@@ -3936,7 +3936,7 @@ window.charaname=[
         {
           "charaProfileId": "104801",
           "charaId": "0",
-          "name": "Aoiのチャクラ塊",
+          "name": "青のチャクラ塊",
           "detail": "",
           "charaLoveAffinityGroupId": null,
           "birthday": "0",
@@ -3950,7 +3950,7 @@ window.charaname=[
         {
           "charaProfileId": "104901",
           "charaId": "0",
-          "name": "Aoiのチャクラ結晶",
+          "name": "青のチャクラ結晶",
           "detail": "",
           "charaLoveAffinityGroupId": null,
           "birthday": "0",
@@ -3964,7 +3964,7 @@ window.charaname=[
         {
           "charaProfileId": "105001",
           "charaId": "0",
-          "name": "Aoiのチャクラ宝玉",
+          "name": "青のチャクラ宝玉",
           "detail": "",
           "charaLoveAffinityGroupId": null,
           "birthday": "0",
@@ -5210,7 +5210,7 @@ window.charaname=[
         {
           "charaProfileId": "113901",
           "charaId": "0",
-          "name": "Aoiの携帯ゲーム機",
+          "name": "青の携帯ゲーム機",
           "detail": "",
           "charaLoveAffinityGroupId": null,
           "birthday": "0",
@@ -5868,7 +5868,7 @@ window.charaname=[
         {
           "charaProfileId": "900004",
           "charaId": "9000",
-          "name": "Mizuki",
+          "name": "ミズキ",
           "detail": "0",
           "charaLoveAffinityGroupId": "0",
           "birthday": "0",
@@ -5882,7 +5882,7 @@ window.charaname=[
         {
           "charaProfileId": "900005",
           "charaId": "9000",
-          "name": "Dosu Kinuta",
+          "name": "ドス・キヌタ",
           "detail": "0",
           "charaLoveAffinityGroupId": "0",
           "birthday": "0",
@@ -5896,7 +5896,7 @@ window.charaname=[
         {
           "charaProfileId": "900006",
           "charaId": "9000",
-          "name": "Zaku Abumi",
+          "name": "ザク・アブミ",
           "detail": "0",
           "charaLoveAffinityGroupId": "0",
           "birthday": "0",
@@ -5910,7 +5910,7 @@ window.charaname=[
         {
           "charaProfileId": "900007",
           "charaId": "9000",
-          "name": "Kin Tsuchi",
+          "name": "キン・ツチ",
           "detail": "0",
           "charaLoveAffinityGroupId": "0",
           "birthday": "0",
@@ -5924,7 +5924,7 @@ window.charaname=[
         {
           "charaProfileId": "900008",
           "charaId": "9000",
-          "name": "Sasori",
+          "name": "サソリ",
           "detail": "0",
           "charaLoveAffinityGroupId": "0",
           "birthday": "0",
@@ -5938,7 +5938,7 @@ window.charaname=[
         {
           "charaProfileId": "900009",
           "charaId": "9000",
-          "name": "Sasori（人傀儡）",
+          "name": "サソリ（人傀儡）",
           "detail": "0",
           "charaLoveAffinityGroupId": "0",
           "birthday": "0",
@@ -5952,7 +5952,7 @@ window.charaname=[
         {
           "charaProfileId": "900010",
           "charaId": "9000",
-          "name": "Gaara（守鶴移行）",
+          "name": "我愛羅（守鶴移行）",
           "detail": "0",
           "charaLoveAffinityGroupId": "0",
           "birthday": "0",
@@ -5966,7 +5966,7 @@ window.charaname=[
         {
           "charaProfileId": "900011",
           "charaId": "9000",
-          "name": "Sasuke Uchiha",
+          "name": "うちはサスケ",
           "detail": "0",
           "charaLoveAffinityGroupId": "0",
           "birthday": "0",
@@ -6092,7 +6092,7 @@ window.charaname=[
         {
           "charaProfileId": "900020",
           "charaId": "9000",
-          "name": "Masked Man",
+          "name": "仮面の男",
           "detail": "0",
           "charaLoveAffinityGroupId": "0",
           "birthday": "0",
@@ -6106,7 +6106,7 @@ window.charaname=[
         {
           "charaProfileId": "900021",
           "charaId": "9000",
-          "name": "白Zetsu",
+          "name": "白ゼツ",
           "detail": "0",
           "charaLoveAffinityGroupId": "0",
           "birthday": "0",
@@ -6120,7 +6120,7 @@ window.charaname=[
         {
           "charaProfileId": "900022",
           "charaId": "9000",
-          "name": "Madara Uchiha",
+          "name": "うちはマダラ",
           "detail": "0",
           "charaLoveAffinityGroupId": "0",
           "birthday": "0",
@@ -6134,7 +6134,7 @@ window.charaname=[
         {
           "charaProfileId": "900023",
           "charaId": "9000",
-          "name": "Jirobo",
+          "name": "次郎坊",
           "detail": "0",
           "charaLoveAffinityGroupId": "0",
           "birthday": "0",
@@ -6148,7 +6148,7 @@ window.charaname=[
         {
           "charaProfileId": "900024",
           "charaId": "9000",
-          "name": "Obito Uchiha",
+          "name": "うちはオビト",
           "detail": "0",
           "charaLoveAffinityGroupId": "0",
           "birthday": "0",
@@ -6218,7 +6218,7 @@ window.charaname=[
         {
           "charaProfileId": "900029",
           "charaId": "9000",
-          "name": "Tayuya",
+          "name": "多由也",
           "detail": "0",
           "charaLoveAffinityGroupId": "0",
           "birthday": "0",
@@ -6232,7 +6232,7 @@ window.charaname=[
         {
           "charaProfileId": "900030",
           "charaId": "9000",
-          "name": "Kimimaro",
+          "name": "君麻呂",
           "detail": "0",
           "charaLoveAffinityGroupId": "0",
           "birthday": "0",
@@ -6288,7 +6288,7 @@ window.charaname=[
         {
           "charaProfileId": "900034",
           "charaId": "9000",
-          "name": "Konan",
+          "name": "小南",
           "detail": "0",
           "charaLoveAffinityGroupId": "0",
           "birthday": "0",
@@ -6302,7 +6302,7 @@ window.charaname=[
         {
           "charaProfileId": "900035",
           "charaId": "9000",
-          "name": "Masked Man",
+          "name": "仮面の男",
           "detail": "0",
           "charaLoveAffinityGroupId": "0",
           "birthday": "0",
@@ -6344,7 +6344,7 @@ window.charaname=[
         {
           "charaProfileId": "900038",
           "charaId": "9000",
-          "name": "Hiruzen Sarutobi",
+          "name": "猿飛ヒルゼン",
           "detail": "0",
           "charaLoveAffinityGroupId": "0",
           "birthday": "0",
@@ -6358,7 +6358,7 @@ window.charaname=[
         {
           "charaProfileId": "900039",
           "charaId": "9000",
-          "name": "Kaguya Otsutsuki",
+          "name": "大筒木カグヤ",
           "detail": "0",
           "charaLoveAffinityGroupId": "0",
           "birthday": "0",
