@@ -18746,6 +18746,60 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2139",
+          "abilityName": "中忍候補へのまなざし",
+          "abilityDescription": "班の木ノ葉隠れの里所属のキャラ1体につき、素早さが20%アップ（自身含む）",
+          "abilityEffectDescription": "班の木ノ葉隠れの里所属のキャラ1体につき、素早さが20%アップ（自身含む）",
+          "effectIdx1": "1106",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2140",
+          "abilityName": "的確な一吹き",
+          "abilityDescription": "3回行動するまで確率でスキルを回避する",
+          "abilityEffectDescription": "3回行動するまで確率でスキルを回避する",
+          "effectIdx1": "1912",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2141",
+          "abilityName": "麗しき早春の美装",
+          "abilityDescription": "3回行動するまで素早さ133%アップ＆高確率で全スキル無効",
+          "abilityEffectDescription": "3回行動するまで素早さ133%アップ＆高確率で全スキル無効",
+          "effectIdx1": "2105",
+          "effectIdx2": "2106",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2142",
+          "abilityName": "舞う花に躍る心",
+          "abilityDescription": "弱体と状態異常を無効化、行動後にHPが33%回復する",
+          "abilityEffectDescription": "弱体と状態異常を無効化、行動後にHPが33%回復する",
+          "effectIdx1": "880",
+          "effectIdx2": "2104",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2143",
+          "abilityName": "無垢なる早春の美装",
+          "abilityDescription": "3回行動するまで素早さ133%アップ＆高確率で全スキル無効",
+          "abilityEffectDescription": "3回行動するまで素早さ133%アップ＆高確率で全スキル無効",
+          "effectIdx1": "2105",
+          "effectIdx2": "2106",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2144",
+          "abilityName": "鞠転がし見る恋の夢",
+          "abilityDescription": "弱体と状態異常を無効化、行動後にHPが33%回復する",
+          "abilityEffectDescription": "弱体と状態異常を無効化、行動後にHPが33%回復する",
+          "effectIdx1": "880",
+          "effectIdx2": "2104",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

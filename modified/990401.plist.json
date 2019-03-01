@@ -4894,9 +4894,19 @@
           "gachaTicketImgId": "3539"
         },
         {
+          "gachaTicketId": "3540",
+          "gachaTicketName": "ひな祭りガチャチケット",
+          "gachaTicketImgId": "3540"
+        },
+        {
           "gachaTicketId": "3550",
           "gachaTicketName": "忍にんにんの日記念ガチャチケット",
           "gachaTicketImgId": "3550"
+        },
+        {
+          "gachaTicketId": "3562",
+          "gachaTicketName": "1600万DL記念ガチャチケット",
+          "gachaTicketImgId": "3562"
         },
         {
           "gachaTicketId": "3569",
