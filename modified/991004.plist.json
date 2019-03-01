@@ -3803,6 +3803,48 @@
           "speechCharactorName": "うちはサスケ"
         },
         {
+          "speechCharactorId": "640",
+          "cardId": "20050305",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "日向ヒナタ"
+        },
+        {
+          "speechCharactorId": "641",
+          "cardId": "20050304",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "春野サクラ"
+        },
+        {
+          "speechCharactorId": "642",
+          "cardId": "20000991",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "山中いの"
+        },
+        {
+          "speechCharactorId": "643",
+          "cardId": "20001001",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "テンテン"
+        },
+        {
+          "speechCharactorId": "644",
+          "cardId": "20001597",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うずまきナルト"
+        },
+        {
+          "speechCharactorId": "645",
+          "cardId": "20001544",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "日向ネジ"
+        },
+        {
+          "speechCharactorId": "646",
+          "cardId": "0",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "ロック・リー"
+        },
+        {
           "speechCharactorId": "1000",
           "cardId": "21000091",
           "speechCharactorImgId": "1000",

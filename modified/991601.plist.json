@@ -974,6 +974,19 @@
           "selectType": "3"
         },
         {
+          "itemId": "16002",
+          "name": "サクラサク春の福引券",
+          "description": "サクラサク春の福引会で使用できる福引券。（3月27日23時59分まで使用可能）",
+          "resultWord": "0",
+          "itemCategoryId": "15000",
+          "itemValue": "0",
+          "itemNum": "0",
+          "itemImageId": "16002",
+          "needCount": "1",
+          "priority": "1",
+          "selectType": "3"
+        },
+        {
           "itemId": "51000",
           "name": "ドロップ数２倍の秘伝書",
           "description": "バトルでの獲得ドロップ数が２倍になります。",

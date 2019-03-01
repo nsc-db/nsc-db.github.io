@@ -1847,5 +1847,25 @@
           "subScore": "0",
           "color": "14629377",
           "type": "2"
+        },
+        {
+          "cardUnusualId": "190",
+          "category": "3",
+          "iconId": "1210",
+          "name": "狂咲乱",
+          "description": "制御不能、攻撃力・会心力・会心率・素早さアップ、必中通常攻撃",
+          "subScore": "0",
+          "color": "16510971",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "191",
+          "category": "3",
+          "iconId": "1211",
+          "name": "雛あられ",
+          "description": "チャクラ消費0、一部ダメージカット、弱体系特殊状態解除＆無効化、確率で再行動",
+          "subScore": "0",
+          "color": "16510971",
+          "type": "2"
         }
       ]
