@@ -2004,6 +2004,18 @@ window.vo=[
           "voiceDeath": "gaara_death_01_01"
         },
         {
+          "cardVoiceId": "169",
+          "cardId": "20050114",
+          "dirName": "temari",
+          "evolutionStep": "",
+          "voiceAppear": "temari_battle_02_03",
+          "voiceSkill1": "temari_skill_02_04",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "temari_win_02_07",
+          "voiceDeath": "temari_death_02_03"
+        },
+        {
           "cardVoiceId": "170",
           "cardId": "20050113",
           "dirName": "minato",
@@ -2016,16 +2028,16 @@ window.vo=[
           "voiceDeath": "minato_damage_02_02"
         },
         {
-          "cardVoiceId": "169",
-          "cardId": "20050114",
-          "dirName": "temari",
+          "cardVoiceId": "171",
+          "cardId": "20050203",
+          "dirName": "obito",
           "evolutionStep": "",
-          "voiceAppear": "temari_battle_02_03",
-          "voiceSkill1": "temari_skill_02_04",
+          "voiceAppear": "kamen_battle_02_02",
+          "voiceSkill1": "obito_skill_02_06,obito_skill_02_04",
           "voiceSkill2": "",
           "voicePursuit": "",
-          "voiceWin": "temari_win_02_07",
-          "voiceDeath": "temari_death_02_03"
+          "voiceWin": "kamen_win_02_02",
+          "voiceDeath": "kamen_death_02_01"
         },
         {
           "cardVoiceId": "172",
@@ -2039,4 +2051,76 @@ window.vo=[
           "voiceWin": "pain_win_02_01",
           "voiceDeath": "pain_death_02_03"
         },
+        {
+          "cardVoiceId": "173",
+          "cardId": "20050212",
+          "dirName": "tobirama",
+          "evolutionStep": "",
+          "voiceAppear": "tobirama_menu_04",
+          "voiceSkill1": "tobirama_skill_02_03,tobirama_attack_02_03,tobirama_pursuit_02_01",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "tobirama_win_02_01",
+          "voiceDeath": "tobirama_death_02_03"
+        },
+        {
+          "cardVoiceId": "174",
+          "cardId": "20050215",
+          "dirName": "deidara",
+          "evolutionStep": "",
+          "voiceAppear": "deidara_menu_02",
+          "voiceSkill1": "deidara_skill_02_06",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "deidara_pursuit_02_02",
+          "voiceDeath": "deidara_death_02_02"
+        },
+        {
+          "cardVoiceId": "175",
+          "cardId": "20050206",
+          "dirName": "sasuke",
+          "evolutionStep": "",
+          "voiceAppear": "sasuke_battle_02_06",
+          "voiceSkill1": "sasuke_pursuit_02_04,sasuke_pursuit_02_06",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "sasuke_win_02_01",
+          "voiceDeath": "sasuke_death_02_07"
+        },
+        {
+          "cardVoiceId": "176",
+          "cardId": "20050303",
+          "dirName": "itachi",
+          "evolutionStep": "",
+          "voiceAppear": "itachi_menu_event_01",
+          "voiceSkill1": "itachi_skill_02_03,itachi_skill_02_02",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "itachi_skill_02_15",
+          "voiceDeath": "itachi_death_02_04"
+        },
+        {
+          "cardVoiceId": "8001",
+          "cardId": "80000001",
+          "dirName": "naruto",
+          "evolutionStep": "",
+          "voiceAppear": "naruto_battle_02_10",
+          "voiceSkill1": "naruto_skill_02_12,naruto_skill_02_21,naruto_skill_02_22",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "naruto_win_02_06",
+          "voiceDeath": "naruto_death_02_03"
+        },
+        {
+          "cardVoiceId": "8002",
+          "cardId": "80000002",
+          "dirName": "sasuke",
+          "evolutionStep": "",
+          "voiceAppear": "sasuke_battle_02_04",
+          "voiceSkill1": "sasuke_skill_02_09,sasuke_skill_02_10,sasuke_skill_02_07,sasuke_skill_02_08",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "sasuke_win_02_03",
+          "voiceDeath": "sasuke_death_02_04"
+        }
 ]

@@ -9924,6 +9924,18 @@ window.tags=[
           "secondaryrating": ""
 },
 {
+          "cardId": "20050203",
+          "rare": "5",
+          "tag": "ex-6",
+          "skill1damage": "",
+          "skill2damage": "",
+          "nickname": "Protect Obito",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
+},
+{
           "cardId": "20050204",
           "rare": "5",
           "tag": "ex-6",
@@ -9935,6 +9947,54 @@ window.tags=[
           "secondary": "Damage",
           "secondaryrating": "S"
 },
+{
+          "cardId": "20050205",
+          "rare": "5",
+          "tag": "killers",
+          "skill1damage": "",
+          "skill2damage": "",
+          "nickname": "Female Pain v2 | Killer Female Pain v2",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
+},
+{
+          "cardId": "20050206",
+          "rare": "5",
+          "tag": "ex-6",
+          "skill1damage": "",
+          "skill2damage": "",
+          "nickname": "CM2 Sasuke",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
+},
+{
+          "cardId": "20050207",
+          "rare": "5",
+          "tag": "limited-6",
+          "skill1damage": "",
+          "skill2damage": "",
+          "nickname": "Valentine Kurenai",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
+},
+{
+          "cardId": "20050208",
+          "rare": "5",
+          "tag": "limited-6",
+          "skill1damage": "",
+          "skill2damage": "",
+          "nickname": "Valentine Mei",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
+},     
 {
           "cardId": "20050211",
           "rare": "5",
@@ -9948,6 +10008,42 @@ window.tags=[
           "secondaryrating": "SSS"
 },
 {
+          "cardId": "20050212",
+          "rare": "5",
+          "tag": "origin",
+          "skill1damage": "",
+          "skill2damage": "",
+          "nickname": "Origin Tobirama",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
+},
+{
+          "cardId": "20050214",
+          "rare": "5",
+          "tag": "ex-6",
+          "skill1damage": "",
+          "skill2damage": "",
+          "nickname": "Black Konan",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
+},
+{
+          "cardId": "20050215",
+          "rare": "5",
+          "tag": "killers",
+          "skill1damage": "",
+          "skill2damage": "",
+          "nickname": "Killer Deidara v2 | C0 Deidara",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
+},
+{
           "cardId": "20050216",
           "rare": "5",
           "tag": "ex-6",
@@ -9958,5 +10054,77 @@ window.tags=[
           "rolerating": "SSS",
           "secondary": "Debuffer",
           "secondaryrating": "SS"
+},
+{
+          "cardId": "20050301",
+          "rare": "5",
+          "tag": "pmiles",
+          "skill1damage": "",
+          "skill2damage": "",
+          "nickname": "Black Chick 2.0",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
+},
+{
+          "cardId": "20050302",
+          "rare": "5",
+          "tag": "event",
+          "skill1damage": "",
+          "skill2damage": "",
+          "nickname": "Toothpick",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
+},
+{
+          "cardId": "20050303",
+          "rare": "5",
+          "tag": "god",
+          "skill1damage": "",
+          "skill2damage": "",
+          "nickname": "God Itachi",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
+},
+{
+          "cardId": "20050304",
+          "rare": "5",
+          "tag": "limited-6",
+          "skill1damage": "",
+          "skill2damage": "",
+          "nickname": "Spring Sakura",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
+},
+{
+          "cardId": "20050305",
+          "rare": "5",
+          "tag": "limited-6",
+          "skill1damage": "",
+          "skill2damage": "",
+          "nickname": "Spring Hinata",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
+},
+{
+          "cardId": "20050308",
+          "rare": "5",
+          "tag": "ex-6",
+          "skill1damage": "",
+          "skill2damage": "",
+          "nickname": "Tenten v4",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
 }
 ]

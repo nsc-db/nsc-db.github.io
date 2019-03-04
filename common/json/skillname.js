@@ -5640,6 +5640,14 @@ window.skillname=[
           "name": "さあ行くぞ！"
         },
         {
+          "cardBattleSkillNameId": "2610",
+          "name": "神威・手裏剣乱舞"
+        },
+        {
+          "cardBattleSkillNameId": "2611",
+          "name": "オレには何の意味もない"
+        },
+        {
           "cardBattleSkillNameId": "2612",
           "name": "報復の刃"
         },
@@ -5664,12 +5672,116 @@ window.skillname=[
           "name": "これが力だ"
         },
         {
+          "cardBattleSkillNameId": "2618",
+          "name": "贈り物をアナタに…"
+        },
+        {
+          "cardBattleSkillNameId": "2619",
+          "name": "ここに来てるって聞いてね"
+        },
+        {
           "cardBattleSkillNameId": "2620",
           "name": "オレの痛みはお前以上だ"
         },
         {
           "cardBattleSkillNameId": "2621",
           "name": "いったんオレを倒せ！"
+        },
+        {
+          "cardBattleSkillNameId": "2622",
+          "name": "溶け出す美味しさ"
+        },
+        {
+          "cardBattleSkillNameId": "2623",
+          "name": "とろけるような菓子をあげる"
+        },
+        {
+          "cardBattleSkillNameId": "2624",
+          "name": "水龍瞬転神"
+        },
+        {
+          "cardBattleSkillNameId": "2625",
+          "name": "守れ、そして育てるのだ"
+        },
+        {
+          "cardBattleSkillNameId": "2626",
+          "name": "雷遁・千鳥鋭槍"
+        },
+        {
+          "cardBattleSkillNameId": "2627",
+          "name": "俺はチャクラを色で見分ける"
+        },
+        {
+          "cardBattleSkillNameId": "2628",
+          "name": "C0（シーオー）"
+        },
+        {
+          "cardBattleSkillNameId": "2629",
+          "name": "オイラの究極芸術だ…！！"
+        },
+        {
+          "cardBattleSkillNameId": "2630",
+          "name": "凶獣跋扈"
+        },
+        {
+          "cardBattleSkillNameId": "2631",
+          "name": "ここか…"
+        },
+        {
+          "cardBattleSkillNameId": "2632",
+          "name": "紙の使者・円月"
+        },
+        {
+          "cardBattleSkillNameId": "2633",
+          "name": "私が相手をしておくわ…"
+        },
+        {
+          "cardBattleSkillNameId": "2634",
+          "name": "天送の術"
+        },
+        {
+          "cardBattleSkillNameId": "2635",
+          "name": "雷影様、整いました！"
+        },
+        {
+          "cardBattleSkillNameId": "2636",
+          "name": "三貴神"
+        },
+        {
+          "cardBattleSkillNameId": "2637",
+          "name": "ここからが本番だ…"
+        },
+        {
+          "cardBattleSkillNameId": "2638",
+          "name": "連三刃"
+        },
+        {
+          "cardBattleSkillNameId": "2639",
+          "name": "木ノ葉の忍をなめんなよ"
+        },
+        {
+          "cardBattleSkillNameId": "2640",
+          "name": "春風肘下ろし"
+        },
+        {
+          "cardBattleSkillNameId": "2641",
+          "name": "私達が主役の座をぶん獲るわよ!"
+        },
+        {
+          "cardBattleSkillNameId": "2642",
+          "name": "回天鞠打ち"
+        },
+        {
+          "cardBattleSkillNameId": "2643",
+          "name": "落ち着いて…私"
+        },
+        {
+          "cardBattleSkillNameId": "2644",
+          "name": "飛刃爆符双剣"
+        },
+        {
+          "cardBattleSkillNameId": "2645",
+          "name": "もう！"
         },
         {
           "cardBattleSkillNameId": "10136",
