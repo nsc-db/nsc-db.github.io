@@ -480,6 +480,19 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
+          "worldStageId": "2076",
+          "worldAreaId": "5",
+          "priority": "2",
+          "name": "テンテンの忍具指南",
+          "description": "個人Ptを集めて忍具を手に入れよう！\r\n交換忍具大幅リニューアル！",
+          "notice": "0",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
           "worldStageId": "2080",
           "worldAreaId": "5",
           "priority": "30",

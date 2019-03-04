@@ -18800,6 +18800,24 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2145",
+          "abilityName": "忍具口寄せの早業",
+          "abilityDescription": "10回行動するまで101.0%の確率でスキルを回避。チャクラ50%以上の時、スキル発動速度1段階アップ",
+          "abilityEffectDescription": "10回行動するまで101.0%の確率でスキルを回避。チャクラ50%以上の時、スキル発動速度1段階アップ",
+          "effectIdx1": "2110",
+          "effectIdx2": "1684",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2146",
+          "abilityName": "常識的な思考力",
+          "abilityDescription": "HP90%以上の時、素早さ101.0%アップ＆口寄せ・武器・体術以外のスキルダメージを無効化",
+          "abilityEffectDescription": "HP90%以上の時、素早さ101.0%アップ＆口寄せ・武器・体術以外のスキルダメージを無効化",
+          "effectIdx1": "2111",
+          "effectIdx2": "2112",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

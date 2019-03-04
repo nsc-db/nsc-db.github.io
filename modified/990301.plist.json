@@ -17437,5 +17437,37 @@
           "crystalImageId": "203065",
           "recipeId": "20306",
           "recipeName": "菱台"
+        },
+        {
+          "crystalId": "20309",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "661",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "テンテンのリュック",
+          "crystalDescription": "状態異常を軽減する",
+          "crystalImageId": "203095",
+          "recipeId": "20309",
+          "recipeName": "テンテンのリュック"
+        },
+        {
+          "crystalId": "20310",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "615",
+          "effectIdx2": "183",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "テンテンの上着",
+          "crystalDescription": "全スキルダメージと素早さが30%アップする",
+          "crystalImageId": "203105",
+          "recipeId": "20310",
+          "recipeName": "テンテンの上着"
         }
       ]
