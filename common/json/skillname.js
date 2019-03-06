@@ -5784,6 +5784,22 @@ window.skillname=[
           "name": "もう！"
         },
         {
+          "cardBattleSkillNameId": "2646",
+          "name": "追憶の運命"
+        },
+        {
+          "cardBattleSkillNameId": "2647",
+          "name": "君を失いたくなかった"
+        },
+        {
+          "cardBattleSkillNameId": "2648",
+          "name": "運命の追想"
+        },
+        {
+          "cardBattleSkillNameId": "2649",
+          "name": "ミナトを大好きになった"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },

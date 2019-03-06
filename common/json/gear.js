@@ -17440,6 +17440,38 @@ window.gear=[
           "recipeName": "菱台"
         },
         {
+          "crystalId": "20307",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "682",
+          "effectIdx2": "112",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "クシナへの想い",
+          "crystalDescription": "全スキルダメージと素早さが50%アップする",
+          "crystalImageId": "203075",
+          "recipeId": "20307",
+          "recipeName": "クシナへの想い"
+        },
+        {
+          "crystalId": "20308",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "1539",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "ミナトへの想い",
+          "crystalDescription": "1回行動するまでスキル発動速度1段階アップ",
+          "crystalImageId": "203085",
+          "recipeId": "20308",
+          "recipeName": "ミナトへの想い"
+        },
+        {
           "crystalId": "20309",
           "crystalType": "2",
           "crystalRare": "5",

@@ -10116,6 +10116,30 @@ window.tags=[
           "secondaryrating": ""
 },
 {
+          "cardId": "20050306",
+          "rare": "5",
+          "tag": "ex-6",
+          "skill1damage": "",
+          "skill2damage": "",
+          "nickname": "Kid Minato",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
+},
+{
+          "cardId": "20050307",
+          "rare": "5",
+          "tag": "ex-6",
+          "skill1damage": "",
+          "skill2damage": "",
+          "nickname": "Kid Kushina",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
+},
+{
           "cardId": "20050308",
           "rare": "5",
           "tag": "ex-6",
