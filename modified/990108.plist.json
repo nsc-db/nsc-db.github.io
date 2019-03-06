@@ -10971,6 +10971,32 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "861",
+          "name": "天翔ける運命",
+          "description": "木ノ葉隠れの里所属の素早さが100%アップ",
+          "effectIdx1": "13099",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "862",
+          "name": "紡がれし愛の運命",
+          "description": "木ノ葉隠れの里所属のスキルダメージ80%アップ",
+          "effectIdx1": "694",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

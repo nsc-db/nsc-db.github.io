@@ -3845,6 +3845,18 @@
           "speechCharactorName": "ロック・リー"
         },
         {
+          "speechCharactorId": "647",
+          "cardId": "20050306",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "波風ミナト"
+        },
+        {
+          "speechCharactorId": "648",
+          "cardId": "20050307",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うずまきクシナ"
+        },
+        {
           "speechCharactorId": "1000",
           "cardId": "21000091",
           "speechCharactorImgId": "1000",

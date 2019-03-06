@@ -18818,6 +18818,42 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2147",
+          "abilityName": "秘めし瞬才",
+          "abilityDescription": "木ノ葉隠れの里所属への単体スキル攻撃を受ける、被ダメージ時に確率でスキルダメージ200%アップ",
+          "abilityEffectDescription": "木ノ葉隠れの里所属への単体スキル攻撃を受ける、被ダメージ時に確率でスキルダメージ200%アップ",
+          "effectIdx1": "1834",
+          "effectIdx2": "2115",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2148",
+          "abilityName": "見守る愛情",
+          "abilityDescription": "味方にうずまきクシナがいるとHP0以下で2回耐える、1回行動するまで全スキル無効",
+          "abilityEffectDescription": "味方にうずまきクシナがいるとHP0以下で2回耐える、1回行動するまで全スキル無効",
+          "effectIdx1": "2114",
+          "effectIdx2": "1794",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2149",
+          "abilityName": "目覚めし恋心",
+          "abilityDescription": "HP0以下で1度だけ全回復、HP100%時に素早さ150%アップ",
+          "abilityEffectDescription": "HP0以下で1度だけ全回復、HP100%時に素早さ150%アップ",
+          "effectIdx1": "312",
+          "effectIdx2": "874",
+          "effectIdx3": "2090"
+        },
+        {
+          "abilityId": "2150",
+          "abilityName": "夢託す愛情",
+          "abilityDescription": "HPが50%以上の時にチャクラ消費量30%減少&amp;スキル発動速度1段階アップする",
+          "abilityEffectDescription": "HPが50%以上の時にチャクラ消費量30%減少&amp;スキル発動速度1段階アップする",
+          "effectIdx1": "1168",
+          "effectIdx2": "1163",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -19052,6 +19088,15 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "11403",
+          "abilityName": "HP自動回復（小）",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "1923",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "11500",
           "abilityName": "スキル発動速度アップ",
           "abilityDescription": "スキル発動速度が１段階アップする",
@@ -19130,6 +19175,15 @@
           "abilityEffectDescription": "バトル開始時に先制攻撃、高確率でスキルを回避する",
           "effectIdx1": "2068",
           "effectIdx2": "968",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "11903",
+          "abilityName": "先制攻撃",
+          "abilityDescription": "先制攻撃",
+          "abilityEffectDescription": "先制攻撃",
+          "effectIdx1": "2068",
+          "effectIdx2": "0",
           "effectIdx3": "0"
         },
         {

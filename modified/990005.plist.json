@@ -679,6 +679,16 @@
           "enemyEffects": "12107,80000,90000,13029,"
         },
         {
+          "battleFieldEffectId": "77",
+          "name": "追憶の愛 超絶チャレンジ",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "12004,1814,",
+          "enemyEffects": "80000,"
+        },
+        {
           "battleFieldEffectId": "10001",
           "name": "始球空間",
           "category": "3",

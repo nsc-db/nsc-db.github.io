@@ -389,19 +389,6 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
-          "worldStageId": "1220",
-          "worldAreaId": "5",
-          "priority": "1",
-          "name": "ちょこっと溶ける恋心",
-          "description": "個人Ptを集めて\r\n紅、メイの固有忍具を獲得しよう！\r\n\r\nバレンタイン配置物もゲット！",
-          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
-          "type": "0",
-          "prerequisiteWorldStageId": "0",
-          "openWeek": null,
-          "openTime": "0000.00.00 00:00:00",
-          "closeTime": "0000.00.00 00:00:00"
-        },
-        {
           "worldStageId": "1221",
           "worldAreaId": "5",
           "priority": "1",
@@ -446,6 +433,19 @@
           "priority": "2",
           "name": "大激闘任務-弥生の陣-",
           "description": "ランパートではドロップではなく\r\nクリア時に個人Ptを獲得できます。",
+          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
+          "worldStageId": "1226",
+          "worldAreaId": "5",
+          "priority": "1",
+          "name": "追憶の愛",
+          "description": "1600万DL記念！初回クリア報酬にて\r\nサクラサク春の福引券x16枚を獲得しよう！\r\n\r\n個人Ptを集めて固有忍具や育成素材を獲得しよう！",
           "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
           "type": "0",
           "prerequisiteWorldStageId": "0",
