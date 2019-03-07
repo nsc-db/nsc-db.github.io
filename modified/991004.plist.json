@@ -3857,6 +3857,24 @@
           "speechCharactorName": "うずまきクシナ"
         },
         {
+          "speechCharactorId": "649",
+          "cardId": "20040316",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "黒ツチ"
+        },
+        {
+          "speechCharactorId": "650",
+          "cardId": "650",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "山城アオバ"
+        },
+        {
+          "speechCharactorId": "651",
+          "cardId": "253",
+          "speechCharactorImgId": "253",
+          "speechCharactorName": "うちはマダラ"
+        },
+        {
           "speechCharactorId": "1000",
           "cardId": "21000091",
           "speechCharactorImgId": "1000",

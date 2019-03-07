@@ -1901,6 +1901,12 @@
           "itemImgId": "23"
         },
         {
+          "shopExchangeItemId": "325",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
           "shopExchangeItemId": "1001",
           "itemName": "下心Pt",
           "measure": null,
@@ -2436,6 +2442,12 @@
         },
         {
           "shopExchangeItemId": "3900",
+          "itemName": "連合戦交換券",
+          "measure": "0",
+          "itemImgId": "3900"
+        },
+        {
+          "shopExchangeItemId": "3901",
           "itemName": "連合戦交換券",
           "measure": "0",
           "itemImgId": "3900"

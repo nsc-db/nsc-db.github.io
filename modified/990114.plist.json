@@ -1867,5 +1867,15 @@
           "subScore": "0",
           "color": "16510971",
           "type": "2"
+        },
+        {
+          "cardUnusualId": "192",
+          "category": "3",
+          "iconId": "1212",
+          "name": "仙蛇",
+          "description": "素早さ＆スキルダメージアップ、縛状態の敵がいると何度でもHP0で全回復",
+          "subScore": "0",
+          "color": "10104574",
+          "type": "2"
         }
       ]

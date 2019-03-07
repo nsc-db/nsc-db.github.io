@@ -71854,6 +71854,331 @@
           "message": "私は…\r\nミナトを大好きになった"
         },
         {
+          "scriptMessageId": "26866",
+          "speechCharactorId": "185",
+          "message": "あいさつからだ…トビ"
+        },
+        {
+          "scriptMessageId": "26867",
+          "speechCharactorId": "185",
+          "message": "……いや……\r\n今はマダラと名乗っているとか"
+        },
+        {
+          "scriptMessageId": "26868",
+          "speechCharactorId": "651",
+          "message": "ここがよく分かったな"
+        },
+        {
+          "scriptMessageId": "26869",
+          "speechCharactorId": "185",
+          "message": "スパイとして\r\n国から国へ渡り歩き…"
+        },
+        {
+          "scriptMessageId": "26870",
+          "speechCharactorId": "185",
+          "message": "“暁”の一員でもあった\r\nボクの情報量をなめない方がいい"
+        },
+        {
+          "scriptMessageId": "26871",
+          "speechCharactorId": "651",
+          "message": "サソリの…\r\nスパイの一員だったな…"
+        },
+        {
+          "scriptMessageId": "26872",
+          "speechCharactorId": "651",
+          "message": "お前は“暁”の裏切り者だ"
+        },
+        {
+          "scriptMessageId": "26873",
+          "speechCharactorId": "185",
+          "message": "口寄せ・穢土転生"
+        },
+        {
+          "scriptMessageId": "26874",
+          "speechCharactorId": "651",
+          "message": "これは…！"
+        },
+        {
+          "scriptMessageId": "26875",
+          "speechCharactorId": "651",
+          "message": "……\r\n手を組みたいだと…"
+        },
+        {
+          "scriptMessageId": "26876",
+          "speechCharactorId": "651",
+          "message": "お前と組んで\r\nオレに何の得がある？"
+        },
+        {
+          "scriptMessageId": "26877",
+          "speechCharactorId": "185",
+          "message": "近々戦争を起こすそうだね\r\nその戦力を提供しようって事さ…"
+        },
+        {
+          "scriptMessageId": "26878",
+          "speechCharactorId": "185",
+          "message": "ここにある穢土転生…\r\nどれもつわもの揃いだ…"
+        },
+        {
+          "scriptMessageId": "26879",
+          "speechCharactorId": "185",
+          "message": "それに…\r\nボクの持っている駒は\r\nこれだけじゃない"
+        },
+        {
+          "scriptMessageId": "26880",
+          "speechCharactorId": "651",
+          "message": "見返りは？"
+        },
+        {
+          "scriptMessageId": "26881",
+          "speechCharactorId": "185",
+          "message": "うちはサスケ"
+        },
+        {
+          "scriptMessageId": "26882",
+          "speechCharactorId": "651",
+          "message": "……何を企んでる？"
+        },
+        {
+          "scriptMessageId": "26883",
+          "speechCharactorId": "185",
+          "message": "…別に何も…"
+        },
+        {
+          "scriptMessageId": "26884",
+          "speechCharactorId": "185",
+          "message": "ボクの興味は忍術の純粋な真理"
+        },
+        {
+          "scriptMessageId": "26885",
+          "speechCharactorId": "185",
+          "message": "その探求のためには\r\nサスケくんが必要なだけ"
+        },
+        {
+          "scriptMessageId": "26886",
+          "speechCharactorId": "185",
+          "message": "生きた若くて繊細な\r\nうちはの人間が欲しいィ"
+        },
+        {
+          "scriptMessageId": "26887",
+          "speechCharactorId": "651",
+          "message": "………\r\n…断ると言ったら？"
+        },
+        {
+          "scriptMessageId": "26888",
+          "speechCharactorId": "185",
+          "message": "これを見てもそう言えるかな？"
+        },
+        {
+          "scriptMessageId": "26889",
+          "speechCharactorId": "651",
+          "message": "…！？\r\nこ…これは！！"
+        },
+        {
+          "scriptMessageId": "26890",
+          "speechCharactorId": "185",
+          "message": "ボクが何の手札もなく\r\n君に会いに来るとでも？"
+        },
+        {
+          "scriptMessageId": "26891",
+          "speechCharactorId": "185",
+          "message": "…そう……君は断れない！"
+        },
+        {
+          "scriptMessageId": "26892",
+          "speechCharactorId": "651",
+          "message": "キサマ…\r\nそれをどこで手に入れた！？"
+        },
+        {
+          "scriptMessageId": "26893",
+          "speechCharactorId": "185",
+          "message": "色々とね…\r\n…安心していいよ"
+        },
+        {
+          "scriptMessageId": "26894",
+          "speechCharactorId": "185",
+          "message": "これは誰にも喋ってない"
+        },
+        {
+          "scriptMessageId": "26895",
+          "speechCharactorId": "651",
+          "message": "薬師カブト\r\nお前がここまでの器になるとは\r\n思ってもみなかった"
+        },
+        {
+          "scriptMessageId": "26896",
+          "speechCharactorId": "651",
+          "message": "いいだろう…\r\n手を組んでやる"
+        },
+        {
+          "scriptMessageId": "26897",
+          "speechCharactorId": "185",
+          "message": "九尾と八尾の所へはボクが行く"
+        },
+        {
+          "scriptMessageId": "26898",
+          "speechCharactorId": "651",
+          "message": "何のつもりだ？"
+        },
+        {
+          "scriptMessageId": "26899",
+          "speechCharactorId": "185",
+          "message": "君との協力関係を信頼してもらう\r\nいいチャンスだ…"
+        },
+        {
+          "scriptMessageId": "26900",
+          "speechCharactorId": "185",
+          "message": "………"
+        },
+        {
+          "scriptMessageId": "26901",
+          "speechCharactorId": "185",
+          "message": "待ち伏せがいきなり土影とはね"
+        },
+        {
+          "scriptMessageId": "26902",
+          "speechCharactorId": "185",
+          "message": "邪魔して\r\n足止めしてるつもりですか？"
+        },
+        {
+          "scriptMessageId": "26903",
+          "speechCharactorId": "185",
+          "message": "待ち伏せは分かってましたよ"
+        },
+        {
+          "scriptMessageId": "26904",
+          "speechCharactorId": "185",
+          "message": "…何もせず\r\nここへノコノコ来るとでも？"
+        },
+        {
+          "scriptMessageId": "26905",
+          "speechCharactorId": "185",
+          "message": "出てきましたね"
+        },
+        {
+          "scriptMessageId": "26906",
+          "speechCharactorId": "185",
+          "message": "ちょうどいい…\r\nこれからナルトくんの所まで\r\n案内してもらおうか"
+        },
+        {
+          "scriptMessageId": "26907",
+          "speechCharactorId": "52",
+          "message": "蛇……\r\nその声…"
+        },
+        {
+          "scriptMessageId": "26908",
+          "speechCharactorId": "52",
+          "message": "まさかお前は…"
+        },
+        {
+          "scriptMessageId": "26909",
+          "speechCharactorId": "185",
+          "message": "また会ったねヤマト"
+        },
+        {
+          "scriptMessageId": "26910",
+          "speechCharactorId": "649",
+          "message": "そっちへ流す！\r\n捕まえろ！！"
+        },
+        {
+          "scriptMessageId": "26911",
+          "speechCharactorId": "649",
+          "message": "…捕まえたぜ…！"
+        },
+        {
+          "scriptMessageId": "26912",
+          "speechCharactorId": "185",
+          "message": "なるほど……"
+        },
+        {
+          "scriptMessageId": "26913",
+          "speechCharactorId": "649",
+          "message": "まぬけ！\r\nアタイの石灰凝の術は\r\n即効性のセメント！"
+        },
+        {
+          "scriptMessageId": "26914",
+          "speechCharactorId": "649",
+          "message": "これでてめーは\r\nもう動けねェ！！"
+        },
+        {
+          "scriptMessageId": "26915",
+          "speechCharactorId": "650",
+          "message": "カブト…落ちたな…\r\n大蛇丸みたいになっちまって"
+        },
+        {
+          "scriptMessageId": "26916",
+          "speechCharactorId": "185",
+          "message": "ボクの事より…\r\n君がセメントに落ちるなよ"
+        },
+        {
+          "scriptMessageId": "26917",
+          "speechCharactorId": "52",
+          "message": "アオバ、集中しろ！"
+        },
+        {
+          "scriptMessageId": "26918",
+          "speechCharactorId": "650",
+          "message": "うわ！"
+        },
+        {
+          "scriptMessageId": "26919",
+          "speechCharactorId": "52",
+          "message": "脱皮！\r\nそこまで！？"
+        },
+        {
+          "scriptMessageId": "26920",
+          "speechCharactorId": "185",
+          "message": "黒ツチ、お前の術の手順を\r\n分かっていたおかげで"
+        },
+        {
+          "scriptMessageId": "26921",
+          "speechCharactorId": "185",
+          "message": "うまく油断させる事ができたよ"
+        },
+        {
+          "scriptMessageId": "26922",
+          "speechCharactorId": "649",
+          "message": "くそ！！！"
+        },
+        {
+          "scriptMessageId": "26923",
+          "speechCharactorId": "185",
+          "message": "それじゃヤマトは頂いていくよ！"
+        },
+        {
+          "scriptMessageId": "26924",
+          "speechCharactorId": "651",
+          "message": "手土産がかなり違うようだが？"
+        },
+        {
+          "scriptMessageId": "26925",
+          "speechCharactorId": "185",
+          "message": "確かにそうだけど…"
+        },
+        {
+          "scriptMessageId": "26926",
+          "speechCharactorId": "185",
+          "message": "こいつは九尾の見張り役で\r\n機密情報も持ってる"
+        },
+        {
+          "scriptMessageId": "26927",
+          "speechCharactorId": "185",
+          "message": "それにこいつがあれば\r\nかなりゼツ達を強くできる…"
+        },
+        {
+          "scriptMessageId": "26928",
+          "speechCharactorId": "651",
+          "message": "なら早くしろ"
+        },
+        {
+          "scriptMessageId": "26929",
+          "speechCharactorId": "651",
+          "message": "この左目が戦争を欲している"
+        },
+        {
+          "scriptMessageId": "26930",
+          "speechCharactorId": "185",
+          "message": "……そうだね\r\nさあ…戦争の準備といこうか"
+        },
+        {
           "scriptMessageId": "40001",
           "speechCharactorId": "178",
           "message": "絶望しかないこの世界に\r\n存在する価値はない"

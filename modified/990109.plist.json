@@ -18854,6 +18854,24 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2151",
+          "abilityName": "制御されし邪悪",
+          "abilityDescription": "全スキルダメージを半減し、HP70%以上の時、チャクラ消費量が半減",
+          "abilityEffectDescription": "全スキルダメージを半減し、HP70%以上の時、チャクラ消費量が半減",
+          "effectIdx1": "20501",
+          "effectIdx2": "1723",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2152",
+          "abilityName": "白蛇の仙力",
+          "abilityDescription": "HP0以下で2回までHP全回復、10回行動まで攻撃を受けるとHP100%回復",
+          "abilityEffectDescription": "HP0以下で2回までHP全回復、10回行動まで攻撃を受けるとHP100%回復",
+          "effectIdx1": "1057",
+          "effectIdx2": "874",
+          "effectIdx3": "2116"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
