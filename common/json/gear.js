@@ -17502,5 +17502,37 @@ window.gear=[
           "crystalImageId": "203105",
           "recipeId": "20310",
           "recipeName": "テンテンの上着"
+        },
+        {
+          "crystalId": "20328",
+          "crystalType": "1",
+          "crystalRare": "5",
+          "effectIdx1": "10039",
+          "effectIdx2": "11039",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "仙人カブトの蛇",
+          "crystalDescription": "最大HPと攻撃力が40%アップする",
+          "crystalImageId": "203285",
+          "recipeId": "20328",
+          "recipeName": "仙人カブトの蛇"
+        },
+        {
+          "crystalId": "20329",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "661",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "仙人カブトの角",
+          "crystalDescription": "状態異常を軽減する",
+          "crystalImageId": "203295",
+          "recipeId": "20329",
+          "recipeName": "仙人カブトの角"
         }
 ]

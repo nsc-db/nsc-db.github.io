@@ -9519,7 +9519,7 @@ window.unique=[
           "crystalOverwriteEffectId": "807",
           "targetCrystal": "20307",
           "description": "スキルダメージと素早さ80%アップ、2回行動するまでチャクラ消費半減",
-          "charaIds": "2101,2102,2103,",
+          "charaIds": "2101,2102,2103",
           "cardIds": "0",
           "charaGroupIds": "0",
           "effectIdx1": "694",
@@ -9531,12 +9531,36 @@ window.unique=[
           "crystalOverwriteEffectId": "808",
           "targetCrystal": "20308",
           "description": "スキルダメージと素早さ60%アップ、2回行動するまでスキル発動速度1段階アップ",
-          "charaIds": "4301,4302,",
+          "charaIds": "4301,4302",
           "cardIds": "0",
           "charaGroupIds": "0",
           "effectIdx1": "678",
           "effectIdx2": "13059",
           "effectIdx3": "1379",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "809",
+          "targetCrystal": "20328",
+          "description": "最大HPと攻撃力が150%アップ、スキル発動速度1段階アップ、通常攻撃が必中",
+          "charaIds": "10403",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1212",
+          "effectIdx2": "1268",
+          "effectIdx3": "21000",
+          "effectIdx4": "30"
+        },
+        {
+          "crystalOverwriteEffectId": "810",
+          "targetCrystal": "20329",
+          "description": "状態異常を無効化し、3回行動するまで、写輪眼タイプ以外のスキル無効",
+          "charaIds": "10403",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "82",
+          "effectIdx2": "2117",
+          "effectIdx3": "0",
           "effectIdx4": "0"
         }
 ]

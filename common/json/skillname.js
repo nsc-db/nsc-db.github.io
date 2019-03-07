@@ -5800,6 +5800,10 @@ window.skillname=[
           "name": "ミナトを大好きになった"
         },
         {
+          "cardBattleSkillNameId": "2651",
+          "name": "ここはボクのフィールド…"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },

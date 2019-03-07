@@ -10118,7 +10118,7 @@ window.tags=[
 {
           "cardId": "20050306",
           "rare": "5",
-          "tag": "ex-6",
+          "tag": "event",
           "skill1damage": "",
           "skill2damage": "",
           "nickname": "Kid Minato",
@@ -10130,7 +10130,7 @@ window.tags=[
 {
           "cardId": "20050307",
           "rare": "5",
-          "tag": "ex-6",
+          "tag": "event",
           "skill1damage": "",
           "skill2damage": "",
           "nickname": "Kid Kushina",
@@ -10146,6 +10146,18 @@ window.tags=[
           "skill1damage": "",
           "skill2damage": "",
           "nickname": "Tenten v4",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
+},
+{
+          "cardId": "20050308",
+          "rare": "5",
+          "tag": "killers",
+          "skill1damage": "",
+          "skill2damage": "",
+          "nickname": "Killer Kabuto",
           "role": "",
           "rolerating": "",
           "secondary": "",

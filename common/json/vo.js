@@ -2100,6 +2100,18 @@ window.vo=[
           "voiceDeath": "itachi_death_02_04"
         },
         {
+          "cardVoiceId": "177",
+          "cardId": "20050318",
+          "dirName": "kabuto",
+          "evolutionStep": "",
+          "voiceAppear": "kabuto_battle_02_02",
+          "voiceSkill1": "kabuto_skill_02_04,kabuto_pursuit_02_02",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "kabuto_win_02_01",
+          "voiceDeath": "kabuto_damage_02_02"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",
