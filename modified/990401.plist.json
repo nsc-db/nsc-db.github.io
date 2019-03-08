@@ -4934,6 +4934,51 @@
           "gachaTicketImgId": "3550"
         },
         {
+          "gachaTicketId": "3551",
+          "gachaTicketName": "昇級選抜[3月]ガチャチケット",
+          "gachaTicketImgId": "3551"
+        },
+        {
+          "gachaTicketId": "3552",
+          "gachaTicketName": "昇級選抜[3月]・祭ガチャチケット",
+          "gachaTicketImgId": "3551"
+        },
+        {
+          "gachaTicketId": "3553",
+          "gachaTicketName": "期間限定忍具50%ガチャチケット",
+          "gachaTicketImgId": "3330"
+        },
+        {
+          "gachaTicketId": "3554",
+          "gachaTicketName": "期間限定忍具確定ガチャチケット",
+          "gachaTicketImgId": "3331"
+        },
+        {
+          "gachaTicketId": "3555",
+          "gachaTicketName": "属性忍具[心]確定ガチャチケット",
+          "gachaTicketImgId": "3332"
+        },
+        {
+          "gachaTicketId": "3556",
+          "gachaTicketName": "属性忍具[技]確定ガチャチケット",
+          "gachaTicketImgId": "3333"
+        },
+        {
+          "gachaTicketId": "3557",
+          "gachaTicketName": "属性忍具[体]確定ガチャチケット",
+          "gachaTicketImgId": "3334"
+        },
+        {
+          "gachaTicketId": "3558",
+          "gachaTicketName": "属性忍具[勇]確定ガチャチケット",
+          "gachaTicketImgId": "3335"
+        },
+        {
+          "gachaTicketId": "3559",
+          "gachaTicketName": "属性忍具[知]確定ガチャチケット",
+          "gachaTicketImgId": "3336"
+        },
+        {
           "gachaTicketId": "3562",
           "gachaTicketName": "1600万DL記念ガチャチケット",
           "gachaTicketImgId": "3562"
@@ -4947,6 +4992,11 @@
           "gachaTicketId": "3571",
           "gachaTicketName": "超忍祭[3月]確定",
           "gachaTicketImgId": "223"
+        },
+        {
+          "gachaTicketId": "3578",
+          "gachaTicketName": "昇級選抜[3月]LvMAXガチャチケット",
+          "gachaTicketImgId": "3578"
         },
         {
           "gachaTicketId": "100084",
