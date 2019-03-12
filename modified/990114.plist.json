@@ -1877,5 +1877,15 @@
           "subScore": "0",
           "color": "10104574",
           "type": "2"
+        },
+        {
+          "cardUnusualId": "193",
+          "category": "3",
+          "iconId": "1213",
+          "name": "恐怖",
+          "description": "行動するたび行動者の班全体に素早さとスキル発動速度ダウン、行動者以外に確率で行動キャンセル",
+          "subScore": "0",
+          "color": "13882323",
+          "type": "3"
         }
       ]

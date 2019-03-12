@@ -2111,6 +2111,18 @@
           "voiceDeath": "kabuto_damage_02_02"
         },
         {
+          "cardVoiceId": "178",
+          "cardId": "20050311",
+          "dirName": "madara",
+          "evolutionStep": "",
+          "voiceAppear": "madara_menu_mission_01",
+          "voiceSkill1": "madara_gacha_start_01",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "madara_attack_02_02",
+          "voiceDeath": "madara_damage_02_01"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

@@ -18872,6 +18872,24 @@
           "effectIdx3": "2116"
         },
         {
+          "abilityId": "2153",
+          "abilityName": "冷徹な周到さ",
+          "abilityDescription": "2回行動するまで素早さ200%アップ&amp;全スキル無効",
+          "abilityEffectDescription": "2回行動するまで素早さ200%アップ&amp;全スキル無効",
+          "effectIdx1": "1693",
+          "effectIdx2": "1914",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2154",
+          "abilityName": "面の奥の狂瞳",
+          "abilityDescription": "HP0以下で3回まで耐える、1回目の耐える発動時に素早さ150%アップ",
+          "abilityEffectDescription": "HP0以下で3回まで耐える、1回目の耐える発動時に素早さ150%アップ",
+          "effectIdx1": "1789",
+          "effectIdx2": "2118",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

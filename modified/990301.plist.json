@@ -17503,6 +17503,38 @@
           "recipeName": "テンテンの上着"
         },
         {
+          "crystalId": "20313",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "251",
+          "effectIdx2": "682",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "「マダラ」の仮面",
+          "crystalDescription": "攻撃力&amp;スキルダメージ50%アップ",
+          "crystalImageId": "203135",
+          "recipeId": "20313",
+          "recipeName": "「マダラ」の仮面"
+        },
+        {
+          "crystalId": "20314",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "112",
+          "effectIdx2": "2011",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "仮面の男の鎖",
+          "crystalDescription": "素早さ50%アップ、1回行動するまでチャクラ消費半減",
+          "crystalImageId": "203145",
+          "recipeId": "20314",
+          "recipeName": "仮面の男の鎖"
+        },
+        {
           "crystalId": "20328",
           "crystalType": "1",
           "crystalRare": "5",

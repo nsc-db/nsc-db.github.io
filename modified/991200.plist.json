@@ -9561,5 +9561,29 @@
           "effectIdx2": "2117",
           "effectIdx3": "0",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "811",
+          "targetCrystal": "20313",
+          "description": "スキル発動速度1段階アップ、攻撃力&amp;スキルダメージ100%アップ",
+          "charaIds": "14002,14001,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1840",
+          "effectIdx2": "11099",
+          "effectIdx3": "774",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "812",
+          "targetCrystal": "20314",
+          "description": "素早さ80%アップ、行動後チャクラ30%回復、2回行動するまでチャクラ消費0",
+          "charaIds": "14002,14001,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "13079",
+          "effectIdx2": "820",
+          "effectIdx3": "1646",
+          "effectIdx4": "0"
         }
       ]

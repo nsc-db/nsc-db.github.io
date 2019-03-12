@@ -1364,19 +1364,6 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
-          "worldStageId": "8028",
-          "worldAreaId": "9",
-          "priority": "0",
-          "name": "第二十四回 昇級試験",
-          "description": "この任務は、他のユーザーの班と戦う任務です\r\n1度の挑戦で行うバトルの回数は、1回となります\r\n連続で勝利すると連続勝利数ボーナスが発生、より多くのPtを獲得可能です\r\n※全キャラクターの全ダメージ及びスキル発動速度は調整が行われております",
-          "notice": "0",
-          "type": "0",
-          "prerequisiteWorldStageId": "0",
-          "openWeek": null,
-          "openTime": "0000.00.00 00:00:00",
-          "closeTime": "0000.00.00 00:00:00"
-        },
-        {
           "worldStageId": "8029",
           "worldAreaId": "9",
           "priority": "0",
@@ -1754,38 +1741,12 @@
           "closeTime": "2018.01.04 15:59:59"
         },
         {
-          "worldStageId": "50003",
-          "worldAreaId": "5",
-          "priority": "1",
-          "name": "昇級模擬演習",
-          "description": "この任務は前回昇級試験上位者の班と戦う任務です\r\nスタミナ消費1で何度も挑戦できます\r\n※全キャラクターの全ダメージ及び\r\nスキル発動速度は調整が行われております",
-          "notice": "※イベントの内容及び日程は告知なく変更となる場合がございます。",
-          "type": "0",
-          "prerequisiteWorldStageId": "0",
-          "openWeek": null,
-          "openTime": "0000.00.00 00:00:00",
-          "closeTime": "0000.00.00 00:00:00"
-        },
-        {
           "worldStageId": "50004",
           "worldAreaId": "5",
           "priority": "1",
           "name": "昇級模擬演習",
           "description": "この任務は前回昇級試験上位者の班と戦う任務です\r\nスタミナ消費1で何度も挑戦できます\r\n※全キャラクターの全ダメージ及び\r\nスキル発動速度は調整が行われております",
           "notice": "※イベントの内容及び日程は告知なく変更となる場合がございます。",
-          "type": "0",
-          "prerequisiteWorldStageId": "0",
-          "openWeek": null,
-          "openTime": "0000.00.00 00:00:00",
-          "closeTime": "0000.00.00 00:00:00"
-        },
-        {
-          "worldStageId": "60000",
-          "worldAreaId": "11",
-          "priority": "9999",
-          "name": "忍連合戦",
-          "description": "忍連合戦",
-          "notice": "忍連合戦",
           "type": "0",
           "prerequisiteWorldStageId": "0",
           "openWeek": null,
