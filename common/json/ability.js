@@ -18873,6 +18873,24 @@ window.ability=[
           "effectIdx3": "2116"
         },
         {
+          "abilityId": "2153",
+          "abilityName": "冷徹な周到さ",
+          "abilityDescription": "2回行動するまで素早さ200%アップ&amp;全スキル無効",
+          "abilityEffectDescription": "2回行動するまで素早さ200%アップ&amp;全スキル無効",
+          "effectIdx1": "1693",
+          "effectIdx2": "1914",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2154",
+          "abilityName": "面の奥の狂瞳",
+          "abilityDescription": "HP0以下で3回まで耐える、1回目の耐える発動時に素早さ150%アップ",
+          "abilityEffectDescription": "HP0以下で3回まで耐える、1回目の耐える発動時に素早さ150%アップ",
+          "effectIdx1": "1789",
+          "effectIdx2": "2118",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -19107,6 +19125,15 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "11403",
+          "abilityName": "HP自動回復（小）",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "1923",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "11500",
           "abilityName": "スキル発動速度アップ",
           "abilityDescription": "スキル発動速度が１段階アップする",
@@ -19185,6 +19212,15 @@ window.ability=[
           "abilityEffectDescription": "バトル開始時に先制攻撃、高確率でスキルを回避する",
           "effectIdx1": "2068",
           "effectIdx2": "968",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "11903",
+          "abilityName": "先制攻撃",
+          "abilityDescription": "先制攻撃",
+          "abilityEffectDescription": "先制攻撃",
+          "effectIdx1": "2068",
+          "effectIdx2": "0",
           "effectIdx3": "0"
         },
         {

@@ -11011,6 +11011,19 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "864",
+          "name": "災禍呼ぶ狂面",
+          "description": "全属性に対する風遁・時空間・封印術タイプのスキルダメージを半減する",
+          "effectIdx1": "47",
+          "effectIdx2": "445",
+          "effectIdx3": "535",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

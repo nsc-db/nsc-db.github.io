@@ -5804,6 +5804,14 @@ window.skillname=[
           "name": "ここはボクのフィールド…"
         },
         {
+          "cardBattleSkillNameId": "2652",
+          "name": "口寄せ・九尾"
+        },
+        {
+          "cardBattleSkillNameId": "2653",
+          "name": "さあ…出てこい九尾！"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },

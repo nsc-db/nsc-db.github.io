@@ -10152,7 +10152,19 @@ window.tags=[
           "secondaryrating": ""
 },
 {
-          "cardId": "20050308",
+          "cardId": "20050311",
+          "rare": "5",
+          "tag": "ex-6",
+          "skill1damage": "",
+          "skill2damage": "",
+          "nickname": "Kyubi Summoning Masked Man",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
+},
+{
+          "cardId": "20050318",
           "rare": "5",
           "tag": "killers",
           "skill1damage": "",
