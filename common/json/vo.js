@@ -2112,6 +2112,42 @@ window.vo=[
           "voiceDeath": "kabuto_damage_02_02"
         },
         {
+          "cardVoiceId": "178",
+          "cardId": "20050311",
+          "dirName": "madara",
+          "evolutionStep": "",
+          "voiceAppear": "madara_menu_mission_01",
+          "voiceSkill1": "madara_gacha_start_01",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "madara_attack_02_02",
+          "voiceDeath": "madara_damage_02_01"
+        },
+        {
+          "cardVoiceId": "179",
+          "cardId": "20050314",
+          "dirName": "a",
+          "evolutionStep": "",
+          "voiceAppear": "a_battle_02_03",
+          "voiceSkill1": "a_pursuit_02_01,b_attack_02_01,a_skill_02_07",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "a_win_02_01",
+          "voiceDeath": "a_death_02_03"
+        },
+        {
+          "cardVoiceId": "180",
+          "cardId": "20050315",
+          "dirName": "b",
+          "evolutionStep": "",
+          "voiceAppear": "b_battle_02_02",
+          "voiceSkill1": "b_attack_02_01,a_pursuit_02_01,b_skill_02_03",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "b_win_02_01",
+          "voiceDeath": "b_death_02_01"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

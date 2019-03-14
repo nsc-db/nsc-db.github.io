@@ -10164,6 +10164,30 @@ window.tags=[
           "secondaryrating": ""
 },
 {
+          "cardId": "20050314",
+          "rare": "5",
+          "tag": "ex-6",
+          "skill1damage": "",
+          "skill2damage": "",
+          "nickname": "A v2 | Raikage v2",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
+},
+{
+          "cardId": "20050315",
+          "rare": "5",
+          "tag": "ex-6",
+          "skill1damage": "",
+          "skill2damage": "",
+          "nickname": "Killer Bee v1 | Samehada Bee",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": ""
+},
+{
           "cardId": "20050318",
           "rare": "5",
           "tag": "killers",

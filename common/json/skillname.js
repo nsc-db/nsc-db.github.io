@@ -5812,6 +5812,14 @@ window.skillname=[
           "name": "さあ…出てこい九尾！"
         },
         {
+          "cardBattleSkillNameId": "2654",
+          "name": "ついて来い！！！"
+        },
+        {
+          "cardBattleSkillNameId": "2655",
+          "name": "チェケラッチョ"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },

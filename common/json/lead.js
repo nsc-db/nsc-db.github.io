@@ -11024,6 +11024,32 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "865",
+          "name": "雲閣の雷将",
+          "description": "雲隠れの里所属のキャラが2回行動するまでスキル発動速度1段階アップ&amp;チャクラ消費半減",
+          "effectIdx1": "1379",
+          "effectIdx2": "1521",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "6",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "866",
+          "name": "雷雲の風来坊",
+          "description": "尾獣・体術・雷遁タイプのスキルダメージを150%アップする",
+          "effectIdx1": "2120",
+          "effectIdx2": "1389",
+          "effectIdx3": "1566",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",
