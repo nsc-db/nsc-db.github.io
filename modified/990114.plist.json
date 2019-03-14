@@ -1887,5 +1887,15 @@
           "subScore": "0",
           "color": "13882323",
           "type": "3"
+        },
+        {
+          "cardUnusualId": "197",
+          "category": "3",
+          "iconId": "1217",
+          "name": "破",
+          "description": "体術弱点状態になる・スキルダメージと防御力ダウン",
+          "subScore": "0",
+          "color": "13882323",
+          "type": "3"
         }
       ]

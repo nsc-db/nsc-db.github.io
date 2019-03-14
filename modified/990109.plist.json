@@ -18890,6 +18890,42 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2155",
+          "abilityName": "迅雷の体捌き",
+          "abilityDescription": "HP0以下で2回まで耐える、2回行動するまで耐性無視スキルのダメージ0",
+          "abilityEffectDescription": "HP0以下で2回まで耐える、2回行動するまで耐性無視スキルのダメージ0",
+          "effectIdx1": "1838",
+          "effectIdx2": "1057",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2156",
+          "abilityName": "剛力の怒撃",
+          "abilityDescription": "素早さ120％アップ、HP10%以下だと確実に再行動する※再行動後にさらに行動はできない",
+          "abilityEffectDescription": "素早さ120％アップ、HP10%以下だと確実に再行動する※再行動後にさらに行動はできない",
+          "effectIdx1": "1335",
+          "effectIdx2": "2119",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2157",
+          "abilityName": "尾獣との共心共生",
+          "abilityDescription": "HP0以下で2回まで耐える、2回行動するまで全スキル無効",
+          "abilityEffectDescription": "HP0以下で2回まで耐える、2回行動するまで全スキル無効",
+          "effectIdx1": "663",
+          "effectIdx2": "1057",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2158",
+          "abilityName": "八本目の雷刃",
+          "abilityDescription": "最大HP200%アップ、HP10%以下だとスキルダメージが500%アップ",
+          "abilityEffectDescription": "最大HP200%アップ、HP10%以下だとスキルダメージが500%アップ",
+          "effectIdx1": "10100",
+          "effectIdx2": "2121",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
