@@ -10740,7 +10740,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "841",
           "name": "仮面の中の真実",
-          "description": "無所属キャラ各自が2回行動するまで素早さ100％アップ&amp;120%の確率でスキル回避",
+          "description": "For 2 turns, None Characters SPD +100% and +120% chance to Dodge Skills",
           "effectIdx1": "1692",
           "effectIdx2": "2073",
           "effectIdx3": "0",
@@ -10766,7 +10766,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "843",
           "name": "闘獣の召瞳",
-          "description": "“暁”所属の素早さと最大HPが80%アップ",
+          "description": "Akatsuki SPD and HP +80%",
           "effectIdx1": "13079",
           "effectIdx2": "649",
           "effectIdx3": "0",
@@ -10779,7 +10779,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "844",
           "name": "雷槍の閃き",
-          "description": "敵に”暁”所属がいると全属性の素早さ70%アップ",
+          "description": "All allies SPD +70% if there's an Akatsuki enemy",
           "effectIdx1": "2092",
           "effectIdx2": "0",
           "effectIdx3": "0",
@@ -10792,7 +10792,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "845",
           "name": "幻惑の真情",
-          "description": "五大隠れ里所属のキャラが行動後にHPとチャクラが20%回復する",
+          "description": "Five Village HP and Chakra Recovery +20%",
           "effectIdx1": "2080",
           "effectIdx2": "2081",
           "effectIdx3": "0",
@@ -10805,7 +10805,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "846",
           "name": "甘味なる魅惑",
-          "description": "五大隠れ里所属のスキルダメージを100%アップ",
+          "description": "Five Village Skill Damage +100%",
           "effectIdx1": "1852",
           "effectIdx2": "0",
           "effectIdx3": "0",
@@ -10818,7 +10818,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "847",
           "name": "賢武の治将",
-          "description": "木ノ葉隠れの里所属の攻撃・防御・素早さを60%アップ",
+          "description": "Konoha ATK, DEF and SPD +60%",
           "effectIdx1": "11059",
           "effectIdx2": "12059",
           "effectIdx3": "13059",
@@ -10844,7 +10844,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "852",
           "name": "魔天楼の天使",
-          "description": "“暁”所属の最大HPとスキルダメージが150%アップし、行動後HPが15％回復する",
+          "description": "Akatsuki HP and Skill Damage +150%. HP Regen +15%",
           "effectIdx1": "1212",
           "effectIdx2": "794",
           "effectIdx3": "735",
@@ -10870,7 +10870,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "854",
           "name": "天衝の爆閃光 ",
-          "description": "“暁”所属の素早さとスキルダメージを70%アップし、最大チャクラ量を50アップする",
+          "description": "Akatsuki SPD and Skill Damage +70%, Chakra +50",
           "effectIdx1": "13069",
           "effectIdx2": "652",
           "effectIdx3": "689",
@@ -10896,7 +10896,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "856",
           "name": "驚威ノ霊装",
-          "description": "“暁”所属のスキル発動速度1段階アップ、素早さ150%アップ",
+          "description": "Akatsuki Cast Speed +1 and SPD +150%",
           "effectIdx1": "21000",
           "effectIdx2": "967",
           "effectIdx3": "0",
@@ -10909,7 +10909,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "857",
           "name": "飄々たる矜持",
-          "description": "木ノ葉隠れの里所属の素早さを60％アップする",
+          "description": "Konoha SPD +60%",
           "effectIdx1": "13059",
           "effectIdx2": "0",
           "effectIdx3": "0",
@@ -10922,7 +10922,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "858",
           "name": "花びら舞う春の桜",
-          "description": "知・勇属性の最大HPと攻撃力を80％アップする",
+          "description": "Intellect and Courage HP and ATK +80%",
           "effectIdx1": "649",
           "effectIdx2": "11079",
           "effectIdx3": "0",
@@ -10935,7 +10935,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "859",
           "name": "君想う風雅の姫",
-          "description": "知・勇属性の素早さとスキルダメージを80％アップする",
+          "description": "Intellect and Courage SPD and Skill Damage +80%",
           "effectIdx1": "13079",
           "effectIdx2": "694",
           "effectIdx3": "0",
@@ -10948,7 +10948,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "860",
           "name": "飛器乱刃の妙技",
-          "description": "全属性の最大HPとスキルダメージを101.0%アップする",
+          "description": "All Characters HP and Skill Damage +101.0%",
           "effectIdx1": "10126",
           "effectIdx2": "30021",
           "effectIdx3": "0",
@@ -10961,7 +10961,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "861",
           "name": "天翔ける運命",
-          "description": "木ノ葉隠れの里所属の素早さが100%アップ",
+          "description": "Konoha SPD +100%",
           "effectIdx1": "13099",
           "effectIdx2": "0",
           "effectIdx3": "0",
@@ -10974,7 +10974,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "862",
           "name": "紡がれし愛の運命",
-          "description": "木ノ葉隠れの里所属のスキルダメージ80%アップ",
+          "description": "Konoha Skill Damage +80%",
           "effectIdx1": "694",
           "effectIdx2": "0",
           "effectIdx3": "0",
@@ -11000,7 +11000,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "864",
           "name": "災禍呼ぶ狂面",
-          "description": "全属性に対する風遁・時空間・封印術タイプのスキルダメージを半減する",
+          "description": "Incoming Wind, Space-Time and Sealing Skill Damage _50%",
           "effectIdx1": "47",
           "effectIdx2": "445",
           "effectIdx3": "535",
@@ -11013,7 +11013,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "865",
           "name": "雲閣の雷将",
-          "description": "雲隠れの里所属のキャラが2回行動するまでスキル発動速度1段階アップ&amp;チャクラ消費半減",
+          "description": "For 2 turns, Cast Speed +1 and Chakra Cost -50% to Kumo",
           "effectIdx1": "1379",
           "effectIdx2": "1521",
           "effectIdx3": "0",
@@ -11026,7 +11026,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "866",
           "name": "雷雲の風来坊",
-          "description": "尾獣・体術・雷遁タイプのスキルダメージを150%アップする",
+          "description": "Tailed Beast, Taijutsu and Lightning Skill Damage +150%",
           "effectIdx1": "2120",
           "effectIdx2": "1389",
           "effectIdx3": "1566",
