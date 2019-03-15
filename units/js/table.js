@@ -8,68 +8,108 @@ $(document).ready( function () {
 			      ],
 				columns: [
 		            { 
-		            	title: "Icon",
+		            	title: "Icon",												//0
 		            	responsivePriority: 1
 
 		            },
 		            { 
-		            	title: "Name",
+		            	title: "Name",												//1
 		            	responsivePriority: 2
 		        	},
-		            { title: "Type" },
-		            { title: "Affi" },
+		            { title: "Type" },												//2
+		            { title: "Affi" },												//3
  					{ 
-		            	title: "Rarity",
+		            	title: "Rarity",											//4
 		            	"visible": false,
 		            	"searchable": true
 		            },		            
-		            { title: "Cost" },
-		            { title: "HP" },
-		            { title: "ATK" },
-		            { title: "DEF" },
-		            { title: "SPD" },
+		            { title: "Cost" },												//5
+		            { title: "HP" },												//6
+		            { title: "ATK" },												//7
+		            { title: "DEF" },												//8
+		            { title: "SPD" },												//9
 		            { 
-		            	title: "PVE",
+		            	title: "PVE",												//10
 		            	"visible": false,
 		            	"searchable": true
 		            },
 		            {
-		            	title: "tag",
+		            	title: "tag",												//11
 		            	"visible": false,
 		            	"searchable": true
 		            },
 		            {
-		            	title: "target",
+		            	title: "target",											//12
 		            	"visible": false,
 		            	"searchable": true
 		            },
 		            {
-		            	title: "cast",
+		            	title: "cast",												//13
 		            	"visible": false,
 		            	"searchable": true
 		            },
 		            {
-		            	title: "damage",
+		            	title: "damage",											//14
 		            	"visible": false,
 		            	"searchable": true
 		            },
 		            {
-		            	title: "nature",
+		            	title: "nature",											//15
 		            	"visible": false,
 		            	"searchable": true
 		            },
 		            {
-		            	title: "voiced",
+		            	title: "voiced",											//16
 		            	"visible": false,
 		            	"searchable": true
 		            },
 		            {
-		            	title: "PVP",
+		            	title: "PVP",												//17
 		            	"visible": false,
 		            	"searchable": true
 		            },
 		            {
-		            	title: "nickname",
+		            	title: "nickname",											//18
+		            	"visible": false,
+		            	"searchable": true
+		            },
+		            {
+		            	title: "buff",												//19
+		            	"visible": false,
+		            	"searchable": true
+		            },
+		            {
+		            	title: "debuff",											//20
+		            	"visible": false,
+		            	"searchable": true
+		            },
+		            {
+		            	title: "survive",											//21
+		            	"visible": false,
+		            	"searchable": true
+		            },
+		            {
+		            	title: "health",											//22
+		            	"visible": false,
+		            	"searchable": true
+		            },
+		            {
+		            	title: "special",											//23
+		            	"visible": false,
+		            	"searchable": true
+		            },
+		            {
+		            	title: "positivestate",										//24
+		            	"visible": false,
+		            	"searchable": true
+		            },
+		            {
+		            	title: "negativestate",										//25
+		            	"visible": false,
+		            	"searchable": true
+		            },
+		            {
+		            	title: "godstate",											//26
 		            	"visible": false,
 		            	"searchable": true
 		            }
@@ -85,6 +125,14 @@ $(document).ready( function () {
 			var castArr = [];
 			var damageArr = [];
 			var natureArr = [];
+			var buffArr = [];
+			var debuffArr = [];
+			var surviveArr = [];
+			var healthArr = [];
+			var specialArr = [];
+			var positiveArr = [];
+			var negativeArr = [];
+			var godArr = [];
 			var damageLimit = 0;
 
 			 table
@@ -321,6 +369,449 @@ $(document).ready( function () {
 			     	.draw();
 		     	}
 		     });
+
+		     //Buff
+		      $("#filter-buff").on("click", ".btn", function(e) {
+				e.preventDefault();
+		     	if($(this).attr('class') == 'btn btn-primary'){
+					$(this).attr('class', "btn");
+
+					//Remove Filter
+					var remove = $(this).attr('id');
+
+					var location;
+					for(var x = 0; x < buffArr.length; x++){
+						if(buffArr[x] == remove){
+							location = x;
+						}
+					}
+					buffArr.splice(location, 1);
+					
+					var buff = "";
+					//Create Tags
+					for(var x = 0; x < buffArr.length; x++){
+						if(!buff){
+							buff += buffArr[x];
+						}
+						else{
+							buff += "|";
+							buff += buffArr[x];
+						}
+					}
+					table
+				 	.columns(19)
+			     	.search(buff, true, false)
+			     	.draw();
+			     	
+		     	}
+		     	else{
+		     		$(this).attr('class', "btn btn-primary");
+		     		buffArr.push($(this).attr('id'));
+					var buff = "";
+					//Create Tags
+					for(var x = 0; x < buffArr.length; x++){
+						if(!buff){
+							buff += buffArr[x];
+						}
+						else{
+							buff += "|";
+							buff += buffArr[x];
+						}
+					}
+					table
+				 	.columns(19)
+			     	.search(buff, true, false)
+			     	.draw();
+		     	}
+		     }); 
+
+		      //Debuff
+		      $("#filter-debuff").on("click", ".btn", function(e) {
+				e.preventDefault();
+		     	if($(this).attr('class') == 'btn btn-primary'){
+					$(this).attr('class', "btn");
+
+					//Remove Filter
+					var remove = $(this).attr('id');
+
+					var location;
+					for(var x = 0; x < debuffArr.length; x++){
+						if(debuffArr[x] == remove){
+							location = x;
+						}
+					}
+					debuffArr.splice(location, 1);
+					
+					var debuff = "";
+					//Create Tags
+					for(var x = 0; x < debuffArr.length; x++){
+						if(!debuff){
+							debuff += debuffArr[x];
+						}
+						else{
+							debuff += "|";
+							debuff += debuffArr[x];
+						}
+					}
+					table
+				 	.columns(20)
+			     	.search(debuff, true, false)
+			     	.draw();
+			     	
+		     	}
+		     	else{
+		     		$(this).attr('class', "btn btn-primary");
+		     		debuffArr.push($(this).attr('id'));
+					var debuff = "";
+					//Create Tags
+					for(var x = 0; x < debuffArr.length; x++){
+						if(!debuff){
+							debuff += debuffArr[x];
+						}
+						else{
+							debuff += "|";
+							debuff += debuffArr[x];
+						}
+					}
+					table
+				 	.columns(20)
+			     	.search(debuff, true, false)
+			     	.draw();
+		     	}
+		     }); 
+
+
+		     //Survival
+		      $("#filter-survival").on("click", ".btn", function(e) {
+				e.preventDefault();
+		     	if($(this).attr('class') == 'btn btn-primary'){
+					$(this).attr('class', "btn");
+
+					//Remove Filter
+					var remove = $(this).attr('id');
+
+					var location;
+					for(var x = 0; x < surviveArr.length; x++){
+						if(surviveArr[x] == remove){
+							location = x;
+						}
+					}
+					surviveArr.splice(location, 1);
+					
+					var survive = "";
+					//Create Tags
+					for(var x = 0; x < surviveArr.length; x++){
+						if(!survive){
+							survive += surviveArr[x];
+						}
+						else{
+							survive += "|";
+							survive += surviveArr[x];
+						}
+					}
+					table
+				 	.columns(21)
+			     	.search(survive, true, false)
+			     	.draw();
+			     	
+		     	}
+		     	else{
+		     		$(this).attr('class', "btn btn-primary");
+		     		surviveArr.push($(this).attr('id'));
+					var survive = "";
+					//Create Tags
+					for(var x = 0; x < surviveArr.length; x++){
+						if(!survive){
+							survive += surviveArr[x];
+						}
+						else{
+							survive += "|";
+							survive += surviveArr[x];
+						}
+					}
+					table
+				 	.columns(21)
+			     	.search(survive, true, true)
+			     	.draw();
+		     	}
+		     }); 
+
+
+		      //health
+		      $("#filter-health").on("click", ".btn", function(e) {
+				e.preventDefault();
+		     	if($(this).attr('class') == 'btn btn-primary'){
+					$(this).attr('class', "btn");
+
+					//Remove Filter
+					var remove = $(this).attr('id');
+
+					var location;
+					for(var x = 0; x < healthArr.length; x++){
+						if(healthArr[x] == remove){
+							location = x;
+						}
+					}
+					healthArr.splice(location, 1);
+					
+					var health = "";
+					//Create Tags
+					for(var x = 0; x < healthArr.length; x++){
+						if(!health){
+							health += healthArr[x];
+						}
+						else{
+							health += "|";
+							health += healthArr[x];
+						}
+					}
+					table
+				 	.columns(22)
+			     	.search(health, true, false)
+			     	.draw();
+			     	
+		     	}
+		     	else{
+		     		$(this).attr('class', "btn btn-primary");
+		     		healthArr.push($(this).attr('id'));
+					var health = "";
+					//Create Tags
+					for(var x = 0; x < healthArr.length; x++){
+						if(!health){
+							health += healthArr[x];
+						}
+						else{
+							health += "|";
+							health += healthArr[x];
+						}
+					}
+					table
+				 	.columns(22)
+			     	.search(health, true, false)
+			     	.draw();
+		     	}
+		     }); 
+
+		     //special
+		      $("#filter-special").on("click", ".btn", function(e) {
+				e.preventDefault();
+		     	if($(this).attr('class') == 'btn btn-primary'){
+					$(this).attr('class', "btn");
+
+					//Remove Filter
+					var remove = $(this).attr('id');
+
+					var location;
+					for(var x = 0; x < specialArr.length; x++){
+						if(specialArr[x] == remove){
+							location = x;
+						}
+					}
+					specialArr.splice(location, 1);
+					
+					var special = "";
+					//Create Tags
+					for(var x = 0; x < specialArr.length; x++){
+						if(!special){
+							special += specialArr[x];
+						}
+						else{
+							special += "|";
+							special += specialArr[x];
+						}
+					}
+					table
+				 	.columns(23)
+			     	.search(special, true, false)
+			     	.draw();
+			     	
+		     	}
+		     	else{
+		     		$(this).attr('class', "btn btn-primary");
+		     		specialArr.push($(this).attr('id'));
+					var special = "";
+					//Create Tags
+					for(var x = 0; x < specialArr.length; x++){
+						if(!special){
+							special += specialArr[x];
+						}
+						else{
+							special += "|";
+							special += specialArr[x];
+						}
+					}
+					table
+				 	.columns(23)
+			     	.search(special, true, false)
+			     	.draw();
+		     	}
+		     }); 
+
+		      //positive
+		      $("#filter-positivestate").on("click", ".btn", function(e) {
+				e.preventDefault();
+		     	if($(this).attr('class') == 'btn btn-primary'){
+					$(this).attr('class', "btn");
+
+					//Remove Filter
+					var remove = $(this).attr('id');
+
+					var location;
+					for(var x = 0; x < positiveArr.length; x++){
+						if(positiveArr[x] == remove){
+							location = x;
+						}
+					}
+					positiveArr.splice(location, 1);
+					
+					var positive = "";
+					//Create Tags
+					for(var x = 0; x < positiveArr.length; x++){
+						if(!positive){
+							positive += positiveArr[x];
+						}
+						else{
+							positive += "|";
+							positive += positiveArr[x];
+						}
+					}
+					table
+				 	.columns(24)
+			     	.search(positive, true, false)
+			     	.draw();
+			     	
+		     	}
+		     	else{
+		     		$(this).attr('class', "btn btn-primary");
+		     		positiveArr.push($(this).attr('id'));
+					var positive = "";
+					//Create Tags
+					for(var x = 0; x < positiveArr.length; x++){
+						if(!positive){
+							positive += positiveArr[x];
+						}
+						else{
+							positive += "|";
+							positive += positiveArr[x];
+						}
+					}
+					table
+				 	.columns(24)
+			     	.search(positive, true, false)
+			     	.draw();
+		     	}
+		     }); 
+
+		      //negative
+		      $("#filter-negativestate").on("click", ".btn", function(e) {
+				e.preventDefault();
+		     	if($(this).attr('class') == 'btn btn-primary'){
+					$(this).attr('class', "btn");
+
+					//Remove Filter
+					var remove = $(this).attr('id');
+
+					var location;
+					for(var x = 0; x < negativeArr.length; x++){
+						if(negativeArr[x] == remove){
+							location = x;
+						}
+					}
+					negativeArr.splice(location, 1);
+					
+					var negative = "";
+					//Create Tags
+					for(var x = 0; x < negativeArr.length; x++){
+						if(!negative){
+							negative += negativeArr[x];
+						}
+						else{
+							negative += "|";
+							negative += negativeArr[x];
+						}
+					}
+					table
+				 	.columns(25)
+			     	.search(negative, true, false)
+			     	.draw();
+			     	
+		     	}
+		     	else{
+		     		$(this).attr('class', "btn btn-primary");
+		     		negativeArr.push($(this).attr('id'));
+					var negative = "";
+					//Create Tags
+					for(var x = 0; x < negativeArr.length; x++){
+						if(!negative){
+							negative += negativeArr[x];
+						}
+						else{
+							negative += "|";
+							negative += negativeArr[x];
+						}
+					}
+					table
+				 	.columns(25)
+			     	.search(negative, true, false)
+			     	.draw();
+		     	}
+		     }); 
+
+		      //god
+		      $("#filter-godstate").on("click", ".btn", function(e) {
+				e.preventDefault();
+		     	if($(this).attr('class') == 'btn btn-primary'){
+					$(this).attr('class', "btn");
+
+					//Remove Filter
+					var remove = $(this).attr('id');
+
+					var location;
+					for(var x = 0; x < godArr.length; x++){
+						if(godArr[x] == remove){
+							location = x;
+						}
+					}
+					godArr.splice(location, 1);
+					
+					var god = "";
+					//Create Tags
+					for(var x = 0; x < godArr.length; x++){
+						if(!god){
+							god += godArr[x];
+						}
+						else{
+							god += "|";
+							god += godArr[x];
+						}
+					}
+					table
+				 	.columns(26)
+			     	.search(god, true, false)
+			     	.draw();
+			     	
+		     	}
+		     	else{
+		     		$(this).attr('class', "btn btn-primary");
+		     		godArr.push($(this).attr('id'));
+					var god = "";
+					//Create Tags
+					for(var x = 0; x < godArr.length; x++){
+						if(!god){
+							god += godArr[x];
+						}
+						else{
+							god += "|";
+							god += godArr[x];
+						}
+					}
+					table
+				 	.columns(26)
+			     	.search(god, true, false)
+			     	.draw();
+		     	}
+		     }); 
+
 
 		     //General
 			 //Attribute
@@ -600,8 +1091,8 @@ $(document).ready( function () {
 				$("#Oto").attr('class', "list-group-item");
 				$("#Taki").attr('class', "list-group-item");
 				$("#Iron").attr('class', "list-group-item");
-				
-				for(var x = 0; x <= 18; x++){
+
+				for(var x = 0; x <= 26; x++){
 					table
 				 	.column(x)
 			     	.search("", true, false)

@@ -7052,6 +7052,16 @@ window.skillname=[
           "eng": "Here I Go!"
         },
         {
+          "cardBattleSkillNameId": "2610",
+          "name": "神威・手裏剣乱舞",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2611",
+          "name": "オレには何の意味もない",
+          "eng": ""
+        },
+        {
           "cardBattleSkillNameId": "2612",
           "name": "報復の刃",
           "eng": "Blade of Retribution"
@@ -7082,6 +7092,16 @@ window.skillname=[
           "eng": "This is Power"
         },
         {
+          "cardBattleSkillNameId": "2618",
+          "name": "贈り物をアナタに…",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2619",
+          "name": "ここに来てるって聞いてね",
+          "eng": ""
+        },
+        {
           "cardBattleSkillNameId": "2620",
           "name": "オレの痛みはお前以上だ",
           "eng": "My Pain is Greater Than Yours"
@@ -7090,6 +7110,171 @@ window.skillname=[
           "cardBattleSkillNameId": "2621",
           "name": "いったんオレを倒せ！",
           "eng": "Throw It All At Once"
+        },
+        {
+          "cardBattleSkillNameId": "2622",
+          "name": "溶け出す美味しさ",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2623",
+          "name": "とろけるような菓子をあげる",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2624",
+          "name": "水龍瞬転神",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2625",
+          "name": "守れ、そして育てるのだ",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2626",
+          "name": "雷遁・千鳥鋭槍",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2627",
+          "name": "俺はチャクラを色で見分ける",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2628",
+          "name": "C0（シーオー）",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2629",
+          "name": "オイラの究極芸術だ…！！",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2630",
+          "name": "凶獣跋扈",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2631",
+          "name": "ここか…",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2632",
+          "name": "紙の使者・円月",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2633",
+          "name": "私が相手をしておくわ…",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2634",
+          "name": "天送の術",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2635",
+          "name": "雷影様、整いました！",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2636",
+          "name": "三貴神",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2637",
+          "name": "ここからが本番だ…",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2638",
+          "name": "連三刃",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2639",
+          "name": "木ノ葉の忍をなめんなよ",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2640",
+          "name": "春風肘下ろし",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2641",
+          "name": "私達が主役の座をぶん獲るわよ!",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2642",
+          "name": "回天鞠打ち",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2643",
+          "name": "落ち着いて…私",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2644",
+          "name": "飛刃爆符双剣",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2645",
+          "name": "もう！",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2646",
+          "name": "追憶の運命",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2647",
+          "name": "君を失いたくなかった",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2648",
+          "name": "運命の追想",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2649",
+          "name": "ミナトを大好きになった",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2651",
+          "name": "ここはボクのフィールド…",
+          "eng": "This is My Field...."
+        },
+        {
+          "cardBattleSkillNameId": "2652",
+          "name": "口寄せ・九尾",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2653",
+          "name": "さあ…出てこい九尾！",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2654",
+          "name": "ついて来い！！！",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2655",
+          "name": "チェケラッチョ",
+          "eng": ""
         },
         {
           "cardBattleSkillNameId": "10136",

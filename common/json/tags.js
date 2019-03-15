@@ -9,7 +9,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000011",
@@ -21,7 +30,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000021",
@@ -33,7 +51,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000031",
@@ -45,7 +72,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000041",
@@ -57,7 +93,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000051",
@@ -69,7 +114,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000061",
@@ -81,7 +135,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000071",
@@ -93,7 +156,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000081",
@@ -105,7 +177,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000091",
@@ -117,7 +198,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000101",
@@ -129,7 +219,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000111",
@@ -141,7 +240,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000121",
@@ -153,7 +261,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000131",
@@ -165,7 +282,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000141",
@@ -177,7 +303,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000151",
@@ -189,7 +324,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000161",
@@ -201,7 +345,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000171",
@@ -213,7 +366,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000181",
@@ -225,7 +387,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000191",
@@ -237,7 +408,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000201",
@@ -249,7 +429,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000211",
@@ -261,7 +450,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000221",
@@ -273,7 +471,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000231",
@@ -285,7 +492,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000241",
@@ -297,7 +513,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000251",
@@ -309,7 +534,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000261",
@@ -321,7 +555,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000271",
@@ -333,7 +576,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000281",
@@ -345,7 +597,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000291",
@@ -357,7 +618,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000301",
@@ -369,7 +639,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000311",
@@ -381,7 +660,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000321",
@@ -393,7 +681,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000331",
@@ -405,7 +702,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000341",
@@ -417,7 +723,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000351",
@@ -429,7 +744,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000361",
@@ -441,7 +765,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000371",
@@ -453,7 +786,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000381",
@@ -465,7 +807,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000391",
@@ -477,7 +828,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000401",
@@ -489,7 +849,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000411",
@@ -501,7 +870,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000421",
@@ -513,7 +891,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000431",
@@ -525,7 +912,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000441",
@@ -537,7 +933,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000451",
@@ -549,7 +954,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000461",
@@ -561,7 +975,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000471",
@@ -573,7 +996,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000481",
@@ -585,7 +1017,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000491",
@@ -597,7 +1038,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000501",
@@ -609,7 +1059,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000511",
@@ -621,7 +1080,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000521",
@@ -633,7 +1101,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000531",
@@ -645,7 +1122,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000541",
@@ -657,7 +1143,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000551",
@@ -669,7 +1164,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000561",
@@ -681,7 +1185,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000571",
@@ -693,7 +1206,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000581",
@@ -705,7 +1227,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000591",
@@ -717,7 +1248,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000601",
@@ -729,7 +1269,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000611",
@@ -741,7 +1290,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000621",
@@ -753,7 +1311,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000631",
@@ -765,7 +1332,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000641",
@@ -777,7 +1353,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000651",
@@ -789,7 +1374,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000661",
@@ -801,7 +1395,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000671",
@@ -813,7 +1416,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000721",
@@ -825,7 +1437,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000731",
@@ -837,7 +1458,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000741",
@@ -849,7 +1479,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000751",
@@ -861,7 +1500,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000761",
@@ -873,7 +1521,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000771",
@@ -885,7 +1542,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000781",
@@ -897,7 +1563,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000791",
@@ -909,7 +1584,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000801",
@@ -921,7 +1605,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000811",
@@ -933,7 +1626,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000821",
@@ -945,7 +1647,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000831",
@@ -957,7 +1668,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000841",
@@ -969,7 +1689,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000861",
@@ -981,7 +1710,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000871",
@@ -993,7 +1731,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000881",
@@ -1005,7 +1752,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000891",
@@ -1017,7 +1773,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000901",
@@ -1029,7 +1794,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000911",
@@ -1041,7 +1815,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000921",
@@ -1053,7 +1836,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000931",
@@ -1065,7 +1857,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000941",
@@ -1077,7 +1878,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000951",
@@ -1089,7 +1899,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000961",
@@ -1101,7 +1920,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000971",
@@ -1113,7 +1941,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000981",
@@ -1125,7 +1962,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20000991",
@@ -1137,7 +1983,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001001",
@@ -1149,7 +2004,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001011",
@@ -1161,7 +2025,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001021",
@@ -1173,7 +2046,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001031",
@@ -1185,7 +2067,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001041",
@@ -1197,7 +2088,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001051",
@@ -1209,7 +2109,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001061",
@@ -1221,7 +2130,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001071",
@@ -1233,7 +2151,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001081",
@@ -1245,7 +2172,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001091",
@@ -1257,7 +2193,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001101",
@@ -1269,7 +2214,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001111",
@@ -1281,7 +2235,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001121",
@@ -1293,7 +2256,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001131",
@@ -1305,7 +2277,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001141",
@@ -1317,7 +2298,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001151",
@@ -1329,7 +2319,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001161",
@@ -1341,7 +2340,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001171",
@@ -1353,7 +2361,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001181",
@@ -1365,7 +2382,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001191",
@@ -1377,7 +2403,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001201",
@@ -1389,7 +2424,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001211",
@@ -1401,7 +2445,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001221",
@@ -1413,7 +2466,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001231",
@@ -1425,7 +2487,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001241",
@@ -1437,7 +2508,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001251",
@@ -1449,7 +2529,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001261",
@@ -1461,7 +2550,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001271",
@@ -1473,7 +2571,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001281",
@@ -1485,7 +2592,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001291",
@@ -1497,7 +2613,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001301",
@@ -1509,7 +2634,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001311",
@@ -1521,7 +2655,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001321",
@@ -1533,7 +2676,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001331",
@@ -1545,7 +2697,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001341",
@@ -1557,7 +2718,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001351",
@@ -1569,7 +2739,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001361",
@@ -1581,7 +2760,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001371",
@@ -1593,7 +2781,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001381",
@@ -1605,7 +2802,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001391",
@@ -1617,7 +2823,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001401",
@@ -1629,7 +2844,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001411",
@@ -1641,7 +2865,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001421",
@@ -1653,7 +2886,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001431",
@@ -1665,7 +2907,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001441",
@@ -1677,7 +2928,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001451",
@@ -1689,7 +2949,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001461",
@@ -1701,7 +2970,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001471",
@@ -1713,7 +2991,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001481",
@@ -1725,7 +3012,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001491",
@@ -1737,7 +3033,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001501",
@@ -1749,7 +3054,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001511",
@@ -1761,7 +3075,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001512",
@@ -1773,7 +3096,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001513",
@@ -1785,7 +3117,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001514",
@@ -1797,7 +3138,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001515",
@@ -1809,7 +3159,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001516",
@@ -1821,7 +3180,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001517",
@@ -1833,7 +3201,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001518",
@@ -1845,7 +3222,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001519",
@@ -1857,7 +3243,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "revive",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001520",
@@ -1869,7 +3264,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001521",
@@ -1881,7 +3285,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001522",
@@ -1893,7 +3306,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001523",
@@ -1905,7 +3327,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001524",
@@ -1917,7 +3348,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001525",
@@ -1929,7 +3369,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001526",
@@ -1941,7 +3390,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001527",
@@ -1953,7 +3411,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001528",
@@ -1965,7 +3432,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001529",
@@ -1977,7 +3453,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001530",
@@ -1989,7 +3474,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001531",
@@ -2001,7 +3495,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001532",
@@ -2013,7 +3516,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001533",
@@ -2025,7 +3537,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001534",
@@ -2037,7 +3558,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001535",
@@ -2049,7 +3579,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001536",
@@ -2061,7 +3600,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001537",
@@ -2073,7 +3621,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001538",
@@ -2085,7 +3642,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001539",
@@ -2097,7 +3663,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001540",
@@ -2109,7 +3684,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001541",
@@ -2121,7 +3705,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001542",
@@ -2133,7 +3726,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001543",
@@ -2145,7 +3747,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001544",
@@ -2157,7 +3768,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001545",
@@ -2169,7 +3789,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001546",
@@ -2181,7 +3810,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001547",
@@ -2193,7 +3831,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001548",
@@ -2205,7 +3852,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001549",
@@ -2217,7 +3873,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001550",
@@ -2229,7 +3894,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001551",
@@ -2241,7 +3915,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001552",
@@ -2253,7 +3936,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001553",
@@ -2265,7 +3957,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001554",
@@ -2277,7 +3978,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001555",
@@ -2289,7 +3999,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001556",
@@ -2301,7 +4020,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001557",
@@ -2313,7 +4041,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001558",
@@ -2325,7 +4062,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001559",
@@ -2337,7 +4083,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001560",
@@ -2349,7 +4104,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001561",
@@ -2361,7 +4125,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001562",
@@ -2373,7 +4146,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001563",
@@ -2385,7 +4167,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001564",
@@ -2397,7 +4188,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001565",
@@ -2409,7 +4209,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001566",
@@ -2421,7 +4230,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001567",
@@ -2433,7 +4251,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001568",
@@ -2445,7 +4272,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001569",
@@ -2457,7 +4293,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001570",
@@ -2469,7 +4314,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001571",
@@ -2481,7 +4335,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001572",
@@ -2493,7 +4356,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001573",
@@ -2505,7 +4377,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001574",
@@ -2517,7 +4398,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001575",
@@ -2529,7 +4419,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001576",
@@ -2541,7 +4440,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001577",
@@ -2553,7 +4461,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001578",
@@ -2565,7 +4482,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001579",
@@ -2577,7 +4503,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001580",
@@ -2589,7 +4524,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001581",
@@ -2601,7 +4545,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001582",
@@ -2613,7 +4566,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001583",
@@ -2625,7 +4587,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001584",
@@ -2637,7 +4608,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001585",
@@ -2649,7 +4629,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001586",
@@ -2661,7 +4650,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001587",
@@ -2673,7 +4671,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001588",
@@ -2685,7 +4692,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001589",
@@ -2697,7 +4713,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001590",
@@ -2709,7 +4734,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001591",
@@ -2721,7 +4755,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001592",
@@ -2733,7 +4776,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001593",
@@ -2745,7 +4797,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001594",
@@ -2757,7 +4818,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001595",
@@ -2769,7 +4839,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001596",
@@ -2781,7 +4860,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001597",
@@ -2793,7 +4881,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001598",
@@ -2805,7 +4902,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001599",
@@ -2817,7 +4923,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001600",
@@ -2829,7 +4944,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001601",
@@ -2841,7 +4965,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001602",
@@ -2853,7 +4986,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001603",
@@ -2865,7 +5007,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001604",
@@ -2877,7 +5028,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001605",
@@ -2889,7 +5049,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001606",
@@ -2901,7 +5070,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001607",
@@ -2913,7 +5091,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001608",
@@ -2925,7 +5112,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001609",
@@ -2937,7 +5133,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001610",
@@ -2949,7 +5154,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001611",
@@ -2961,7 +5175,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001612",
@@ -2973,7 +5196,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001613",
@@ -2985,7 +5217,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001614",
@@ -2997,7 +5238,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001615",
@@ -3009,7 +5259,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001616",
@@ -3021,7 +5280,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001617",
@@ -3033,7 +5301,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001618",
@@ -3045,7 +5322,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001619",
@@ -3057,7 +5343,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001620",
@@ -3069,7 +5364,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001621",
@@ -3081,7 +5385,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001622",
@@ -3093,7 +5406,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001623",
@@ -3105,7 +5427,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001624",
@@ -3117,7 +5448,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001625",
@@ -3129,7 +5469,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001626",
@@ -3141,7 +5490,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001627",
@@ -3153,7 +5511,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001628",
@@ -3165,7 +5532,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001629",
@@ -3177,7 +5553,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001630",
@@ -3189,7 +5574,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001631",
@@ -3201,7 +5595,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001632",
@@ -3213,7 +5616,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001633",
@@ -3225,7 +5637,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001634",
@@ -3237,7 +5658,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001635",
@@ -3249,7 +5679,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001636",
@@ -3261,7 +5700,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001637",
@@ -3273,7 +5721,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001638",
@@ -3285,7 +5742,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001639",
@@ -3297,7 +5763,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001640",
@@ -3309,7 +5784,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001641",
@@ -3321,7 +5805,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001642",
@@ -3333,7 +5826,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001643",
@@ -3345,7 +5847,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001644",
@@ -3357,7 +5868,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001645",
@@ -3369,7 +5889,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001646",
@@ -3381,7 +5910,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001647",
@@ -3393,7 +5931,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001648",
@@ -3405,7 +5952,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001649",
@@ -3417,7 +5973,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001650",
@@ -3429,7 +5994,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001651",
@@ -3441,7 +6015,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001652",
@@ -3453,7 +6036,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001653",
@@ -3465,7 +6057,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001654",
@@ -3477,7 +6078,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001655",
@@ -3489,7 +6099,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001656",
@@ -3501,7 +6120,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001657",
@@ -3513,7 +6141,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001658",
@@ -3525,7 +6162,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001659",
@@ -3537,7 +6183,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001660",
@@ -3549,7 +6204,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001661",
@@ -3561,7 +6225,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001662",
@@ -3573,7 +6246,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001663",
@@ -3585,7 +6267,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001664",
@@ -3597,7 +6288,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001665",
@@ -3609,7 +6309,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001666",
@@ -3621,7 +6330,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001667",
@@ -3633,7 +6351,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001668",
@@ -3645,7 +6372,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001669",
@@ -3657,7 +6393,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001670",
@@ -3669,7 +6414,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001671",
@@ -3681,7 +6435,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001672",
@@ -3693,7 +6456,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001673",
@@ -3705,7 +6477,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001674",
@@ -3717,7 +6498,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001675",
@@ -3729,7 +6519,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001676",
@@ -3741,7 +6540,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001677",
@@ -3753,7 +6561,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001678",
@@ -3765,7 +6582,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001679",
@@ -3777,7 +6603,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001680",
@@ -3789,7 +6624,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001681",
@@ -3801,7 +6645,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001682",
@@ -3813,7 +6666,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001683",
@@ -3825,7 +6687,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001684",
@@ -3837,7 +6708,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001685",
@@ -3849,7 +6729,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001686",
@@ -3861,7 +6750,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001687",
@@ -3873,7 +6771,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001688",
@@ -3885,7 +6792,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001689",
@@ -3897,7 +6813,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001690",
@@ -3909,7 +6834,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001691",
@@ -3921,7 +6855,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001692",
@@ -3933,7 +6876,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001693",
@@ -3945,7 +6897,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001694",
@@ -3957,7 +6918,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001695",
@@ -3969,7 +6939,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001696",
@@ -3981,7 +6960,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001697",
@@ -3993,7 +6981,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001698",
@@ -4005,7 +7002,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001699",
@@ -4017,7 +7023,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001700",
@@ -4029,7 +7044,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001701",
@@ -4041,7 +7065,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001702",
@@ -4053,7 +7086,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001703",
@@ -4065,7 +7107,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001704",
@@ -4077,7 +7128,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001705",
@@ -4089,7 +7149,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001706",
@@ -4101,7 +7170,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001707",
@@ -4113,7 +7191,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001708",
@@ -4125,7 +7212,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001709",
@@ -4137,7 +7233,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001710",
@@ -4149,7 +7254,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001711",
@@ -4161,7 +7275,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001712",
@@ -4173,7 +7296,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001713",
@@ -4185,7 +7317,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001714",
@@ -4197,7 +7338,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001715",
@@ -4209,7 +7359,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001716",
@@ -4221,7 +7380,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001717",
@@ -4233,7 +7401,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001718",
@@ -4245,7 +7422,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001719",
@@ -4257,7 +7443,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001720",
@@ -4269,7 +7464,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001721",
@@ -4281,7 +7485,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001722",
@@ -4293,7 +7506,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001723",
@@ -4305,7 +7527,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001724",
@@ -4317,7 +7548,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001725",
@@ -4329,7 +7569,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001726",
@@ -4341,7 +7590,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001727",
@@ -4353,7 +7611,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001728",
@@ -4365,7 +7632,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001729",
@@ -4377,7 +7653,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001730",
@@ -4389,7 +7674,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001731",
@@ -4401,7 +7695,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001732",
@@ -4413,7 +7716,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001733",
@@ -4425,7 +7737,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001734",
@@ -4437,7 +7758,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001735",
@@ -4449,7 +7779,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001736",
@@ -4461,7 +7800,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001737",
@@ -4473,7 +7821,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001738",
@@ -4485,7 +7842,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001739",
@@ -4497,7 +7863,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001740",
@@ -4509,7 +7884,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001741",
@@ -4521,7 +7905,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001742",
@@ -4533,7 +7926,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001743",
@@ -4545,7 +7947,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001744",
@@ -4557,7 +7968,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001745",
@@ -4569,7 +7989,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001746",
@@ -4581,7 +8010,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001747",
@@ -4593,7 +8031,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001748",
@@ -4605,7 +8052,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001749",
@@ -4617,7 +8073,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001750",
@@ -4629,7 +8094,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001751",
@@ -4641,7 +8115,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001752",
@@ -4653,7 +8136,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001753",
@@ -4665,7 +8157,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001754",
@@ -4677,7 +8178,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001755",
@@ -4689,7 +8199,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001756",
@@ -4701,7 +8220,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001757",
@@ -4713,7 +8241,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001758",
@@ -4725,7 +8262,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001759",
@@ -4737,7 +8283,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001760",
@@ -4749,7 +8304,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001761",
@@ -4761,7 +8325,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001762",
@@ -4773,7 +8346,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001763",
@@ -4785,7 +8367,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001764",
@@ -4797,7 +8388,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001765",
@@ -4809,7 +8409,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001766",
@@ -4821,7 +8430,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001767",
@@ -4833,7 +8451,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001768",
@@ -4845,7 +8472,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001769",
@@ -4857,7 +8493,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001770",
@@ -4869,7 +8514,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001771",
@@ -4881,7 +8535,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001772",
@@ -4893,7 +8556,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001773",
@@ -4905,7 +8577,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001774",
@@ -4917,7 +8598,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001775",
@@ -4929,7 +8619,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001776",
@@ -4941,7 +8640,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001777",
@@ -4953,7 +8661,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001778",
@@ -4965,7 +8682,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001779",
@@ -4977,7 +8703,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001780",
@@ -4989,7 +8724,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001781",
@@ -5001,7 +8745,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001782",
@@ -5013,7 +8766,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001783",
@@ -5025,7 +8787,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001784",
@@ -5037,7 +8808,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001785",
@@ -5049,7 +8829,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001786",
@@ -5061,7 +8850,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001787",
@@ -5073,7 +8871,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001788",
@@ -5085,7 +8892,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001789",
@@ -5097,7 +8913,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001790",
@@ -5109,7 +8934,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001791",
@@ -5121,7 +8955,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001792",
@@ -5133,7 +8976,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001793",
@@ -5145,7 +8997,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001794",
@@ -5157,7 +9018,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001795",
@@ -5169,7 +9039,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001796",
@@ -5181,7 +9060,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001797",
@@ -5193,7 +9081,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001798",
@@ -5205,7 +9102,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001799",
@@ -5217,7 +9123,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001800",
@@ -5229,7 +9144,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001801",
@@ -5241,7 +9165,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001802",
@@ -5253,7 +9186,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001803",
@@ -5265,7 +9207,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001804",
@@ -5277,7 +9228,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001805",
@@ -5289,7 +9249,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001806",
@@ -5301,7 +9270,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001807",
@@ -5313,7 +9291,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001808",
@@ -5325,7 +9312,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001809",
@@ -5337,7 +9333,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001810",
@@ -5349,7 +9354,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001811",
@@ -5361,7 +9375,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001812",
@@ -5373,7 +9396,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001813",
@@ -5385,7 +9417,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001814",
@@ -5397,7 +9438,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001815",
@@ -5409,7 +9459,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001816",
@@ -5421,7 +9480,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001817",
@@ -5433,7 +9501,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001818",
@@ -5445,7 +9522,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001819",
@@ -5457,7 +9543,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001820",
@@ -5469,7 +9564,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001821",
@@ -5481,7 +9585,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001822",
@@ -5493,7 +9606,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001823",
@@ -5505,7 +9627,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001824",
@@ -5517,7 +9648,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001825",
@@ -5529,7 +9669,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001826",
@@ -5541,7 +9690,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001827",
@@ -5553,7 +9711,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001828",
@@ -5565,7 +9732,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001829",
@@ -5577,7 +9753,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001830",
@@ -5589,7 +9774,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001831",
@@ -5601,7 +9795,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001832",
@@ -5613,7 +9816,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001833",
@@ -5625,7 +9837,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001834",
@@ -5637,7 +9858,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001836",
@@ -5649,7 +9879,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001837",
@@ -5661,7 +9900,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001838",
@@ -5673,7 +9921,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001839",
@@ -5685,7 +9942,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001840",
@@ -5697,7 +9963,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001841",
@@ -5709,7 +9984,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001842",
@@ -5721,7 +10005,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001843",
@@ -5733,7 +10026,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001844",
@@ -5745,7 +10047,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001845",
@@ -5757,7 +10068,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001846",
@@ -5769,7 +10089,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001847",
@@ -5781,7 +10110,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001848",
@@ -5793,7 +10131,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001849",
@@ -5805,7 +10152,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001850",
@@ -5817,7 +10173,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001851",
@@ -5829,7 +10194,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001852",
@@ -5841,7 +10215,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001853",
@@ -5853,7 +10236,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001854",
@@ -5865,7 +10257,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001855",
@@ -5877,7 +10278,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001856",
@@ -5889,7 +10299,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001857",
@@ -5901,7 +10320,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001858",
@@ -5913,7 +10341,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001859",
@@ -5925,7 +10362,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001860",
@@ -5937,7 +10383,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001861",
@@ -5949,7 +10404,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001862",
@@ -5961,7 +10425,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001863",
@@ -5973,7 +10446,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001864",
@@ -5985,7 +10467,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001865",
@@ -5997,7 +10488,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001866",
@@ -6009,7 +10509,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001867",
@@ -6021,7 +10530,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001868",
@@ -6033,7 +10551,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001869",
@@ -6045,7 +10572,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20001870",
@@ -6057,7 +10593,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030501",
@@ -6069,7 +10614,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030502",
@@ -6081,7 +10635,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030503",
@@ -6093,7 +10656,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030504",
@@ -6105,7 +10677,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030505",
@@ -6117,7 +10698,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030506",
@@ -6129,7 +10719,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030507",
@@ -6141,7 +10740,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030508",
@@ -6153,7 +10761,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030509",
@@ -6165,7 +10782,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030510",
@@ -6177,7 +10803,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030511",
@@ -6189,7 +10824,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030512",
@@ -6201,7 +10845,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030513",
@@ -6213,7 +10866,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030514",
@@ -6225,7 +10887,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030515",
@@ -6237,7 +10908,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030601",
@@ -6249,7 +10929,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030602",
@@ -6261,7 +10950,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030603",
@@ -6273,7 +10971,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030604",
@@ -6285,7 +10992,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030605",
@@ -6297,7 +11013,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030606",
@@ -6309,7 +11034,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030607",
@@ -6321,7 +11055,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030608",
@@ -6333,7 +11076,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030609",
@@ -6345,7 +11097,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030610",
@@ -6357,7 +11118,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030611",
@@ -6369,7 +11139,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030612",
@@ -6381,7 +11160,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030613",
@@ -6393,7 +11181,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030614",
@@ -6405,7 +11202,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030615",
@@ -6417,7 +11223,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030616",
@@ -6429,7 +11244,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030617",
@@ -6441,7 +11265,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030701",
@@ -6453,7 +11286,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030702",
@@ -6465,7 +11307,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030703",
@@ -6477,7 +11328,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030704",
@@ -6489,7 +11349,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030705",
@@ -6501,7 +11370,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030706",
@@ -6513,7 +11391,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030707",
@@ -6525,7 +11412,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030708",
@@ -6537,7 +11433,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030709",
@@ -6549,7 +11454,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030710",
@@ -6561,7 +11475,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030711",
@@ -6573,7 +11496,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030712",
@@ -6585,7 +11517,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030713",
@@ -6597,7 +11538,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030714",
@@ -6609,7 +11559,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030715",
@@ -6621,7 +11580,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030716",
@@ -6633,7 +11601,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030801",
@@ -6645,7 +11622,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030802",
@@ -6657,7 +11643,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030803",
@@ -6669,7 +11664,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030804",
@@ -6681,7 +11685,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030805",
@@ -6693,7 +11706,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030806",
@@ -6705,7 +11727,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030807",
@@ -6717,7 +11748,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030808",
@@ -6729,7 +11769,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030809",
@@ -6741,7 +11790,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030810",
@@ -6753,7 +11811,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030811",
@@ -6765,7 +11832,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030812",
@@ -6777,7 +11853,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030813",
@@ -6789,7 +11874,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030814",
@@ -6801,7 +11895,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030815",
@@ -6813,7 +11916,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030816",
@@ -6825,7 +11937,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030817",
@@ -6837,7 +11958,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030818",
@@ -6849,7 +11979,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030819",
@@ -6861,7 +12000,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030820",
@@ -6873,7 +12021,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030821",
@@ -6885,7 +12042,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030822",
@@ -6897,7 +12063,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030823",
@@ -6909,7 +12084,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030824",
@@ -6921,7 +12105,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030825",
@@ -6933,7 +12126,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030901",
@@ -6945,7 +12147,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030902",
@@ -6957,7 +12168,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030903",
@@ -6969,7 +12189,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030904",
@@ -6981,7 +12210,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030905",
@@ -6993,7 +12231,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030906",
@@ -7005,7 +12252,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030907",
@@ -7017,7 +12273,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030908",
@@ -7029,7 +12294,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030909",
@@ -7041,7 +12315,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030911",
@@ -7053,7 +12336,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030912",
@@ -7065,7 +12357,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030913",
@@ -7077,7 +12378,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030918",
@@ -7089,7 +12399,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030919",
@@ -7101,7 +12420,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030920",
@@ -7113,7 +12441,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030921",
@@ -7125,7 +12462,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030922",
@@ -7137,7 +12483,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030923",
@@ -7149,7 +12504,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20030924",
@@ -7161,7 +12525,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20031001",
@@ -7173,7 +12546,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20031002",
@@ -7185,7 +12567,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20031003",
@@ -7197,7 +12588,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20031006",
@@ -7209,7 +12609,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20031007",
@@ -7221,7 +12630,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20031008",
@@ -7233,7 +12651,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20031009",
@@ -7245,7 +12672,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20031010",
@@ -7257,7 +12693,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20031011",
@@ -7269,7 +12714,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20031012",
@@ -7281,7 +12735,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20031013",
@@ -7293,7 +12756,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20031014",
@@ -7305,7 +12777,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20031015",
@@ -7317,7 +12798,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20031016",
@@ -7329,7 +12819,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20031017",
@@ -7341,7 +12840,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20031018",
@@ -7353,7 +12861,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20031019",
@@ -7365,7 +12882,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20031020",
@@ -7377,7 +12903,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20031101",
@@ -7389,7 +12924,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20031102",
@@ -7401,7 +12945,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20031103",
@@ -7413,7 +12966,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20031104",
@@ -7425,7 +12987,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20031105",
@@ -7437,7 +13008,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20031106",
@@ -7449,7 +13029,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20031107",
@@ -7461,7 +13050,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20031108",
@@ -7473,7 +13071,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20031109",
@@ -7485,7 +13092,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20031110",
@@ -7497,7 +13113,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20031111",
@@ -7509,7 +13134,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20031112",
@@ -7521,7 +13155,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20031113",
@@ -7533,7 +13176,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20031114",
@@ -7545,7 +13197,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20031115",
@@ -7557,7 +13218,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20031116",
@@ -7569,7 +13239,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20031201",
@@ -7581,7 +13260,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20031202",
@@ -7593,7 +13281,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20031203",
@@ -7605,7 +13302,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20031204",
@@ -7617,7 +13323,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20031205",
@@ -7629,7 +13344,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20031206",
@@ -7641,7 +13365,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20031207",
@@ -7653,7 +13386,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20031208",
@@ -7665,7 +13407,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20031209",
@@ -7677,7 +13428,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20031210",
@@ -7689,7 +13449,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20031211",
@@ -7701,7 +13470,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20031212",
@@ -7713,7 +13491,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20031213",
@@ -7725,7 +13512,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20031214",
@@ -7737,7 +13533,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20031215",
@@ -7749,7 +13554,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20031216",
@@ -7761,7 +13575,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20031217",
@@ -7773,7 +13596,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20031218",
@@ -7785,7 +13617,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20031219",
@@ -7797,7 +13638,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040101",
@@ -7809,7 +13659,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040102",
@@ -7821,7 +13680,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040103",
@@ -7833,7 +13701,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040104",
@@ -7845,7 +13722,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040105",
@@ -7857,7 +13743,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040106",
@@ -7869,7 +13764,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040107",
@@ -7881,7 +13785,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040108",
@@ -7893,7 +13806,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040109",
@@ -7905,7 +13827,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040110",
@@ -7917,7 +13848,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040111",
@@ -7929,7 +13869,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040112",
@@ -7941,7 +13890,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040113",
@@ -7953,7 +13911,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040114",
@@ -7965,7 +13932,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040115",
@@ -7977,7 +13953,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040116",
@@ -7989,7 +13974,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040117",
@@ -8001,7 +13995,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040118",
@@ -8013,7 +14016,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040119",
@@ -8025,7 +14037,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040201",
@@ -8037,7 +14058,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040202",
@@ -8049,7 +14079,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040203",
@@ -8061,7 +14100,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040204",
@@ -8073,7 +14121,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040205",
@@ -8085,7 +14142,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040206",
@@ -8097,7 +14163,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040207",
@@ -8109,7 +14184,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040208",
@@ -8121,7 +14205,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040209",
@@ -8133,7 +14226,16 @@ window.tags=[
           "role": "Debuff",
           "rolerating": "A",
           "secondary": "Damage",
-          "secondaryrating": "B"
+          "secondaryrating": "B",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040210",
@@ -8145,7 +14247,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040211",
@@ -8157,7 +14268,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040212",
@@ -8169,7 +14289,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040213",
@@ -8181,7 +14310,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040301",
@@ -8193,7 +14331,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040302",
@@ -8205,7 +14352,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040303",
@@ -8217,7 +14373,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040304",
@@ -8229,7 +14394,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040305",
@@ -8241,7 +14415,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040306",
@@ -8253,7 +14436,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040307",
@@ -8265,7 +14457,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040308",
@@ -8277,7 +14478,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040309",
@@ -8289,7 +14499,16 @@ window.tags=[
           "role": "Debuffer",
           "rolerating": "SSS",
           "secondary": "Tank",
-          "secondaryrating": "S+"
+          "secondaryrating": "S+",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040310",
@@ -8301,7 +14520,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040311",
@@ -8313,7 +14541,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040312",
@@ -8325,7 +14562,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040313",
@@ -8337,7 +14583,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040314",
@@ -8349,7 +14604,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040315",
@@ -8361,7 +14625,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040316",
@@ -8373,7 +14646,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040317",
@@ -8385,7 +14667,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040318",
@@ -8397,7 +14688,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040319",
@@ -8409,7 +14709,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040401",
@@ -8421,7 +14730,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040402",
@@ -8433,7 +14751,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040403",
@@ -8445,7 +14772,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040404",
@@ -8457,7 +14793,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040405",
@@ -8469,7 +14814,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040406",
@@ -8481,7 +14835,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040407",
@@ -8493,7 +14856,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040408",
@@ -8505,7 +14877,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040409",
@@ -8517,7 +14898,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040410",
@@ -8529,7 +14919,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040411",
@@ -8541,7 +14940,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040412",
@@ -8553,7 +14961,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040414",
@@ -8565,7 +14982,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040415",
@@ -8577,7 +15003,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040416",
@@ -8589,7 +15024,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040417",
@@ -8601,7 +15045,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040418",
@@ -8613,7 +15066,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040501",
@@ -8625,7 +15087,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040502",
@@ -8637,7 +15108,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040503",
@@ -8649,7 +15129,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040504",
@@ -8661,7 +15150,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040505",
@@ -8673,7 +15171,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040506",
@@ -8685,7 +15192,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040507",
@@ -8697,7 +15213,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040508",
@@ -8709,7 +15234,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040509",
@@ -8721,7 +15255,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040511",
@@ -8733,7 +15276,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040512",
@@ -8745,7 +15297,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040513",
@@ -8757,7 +15318,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040515",
@@ -8769,7 +15339,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040516",
@@ -8781,7 +15360,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040517",
@@ -8793,7 +15381,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040518",
@@ -8805,7 +15402,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040519",
@@ -8817,7 +15423,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040521",
@@ -8829,7 +15444,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040524",
@@ -8841,7 +15465,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040601",
@@ -8853,7 +15486,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040602",
@@ -8865,7 +15507,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040603",
@@ -8877,7 +15528,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040604",
@@ -8889,7 +15549,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040605",
@@ -8901,7 +15570,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040606",
@@ -8913,7 +15591,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040607",
@@ -8925,7 +15612,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040608",
@@ -8937,7 +15633,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040609",
@@ -8949,7 +15654,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040610",
@@ -8961,7 +15675,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040611",
@@ -8973,7 +15696,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040612",
@@ -8985,7 +15717,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040701",
@@ -8997,7 +15738,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040702",
@@ -9009,7 +15759,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040703",
@@ -9021,7 +15780,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040704",
@@ -9033,7 +15801,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040705",
@@ -9045,7 +15822,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040706",
@@ -9057,7 +15843,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040707",
@@ -9069,7 +15864,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040708",
@@ -9081,7 +15885,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040709",
@@ -9093,7 +15906,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040710",
@@ -9105,7 +15927,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040711",
@@ -9117,7 +15948,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040712",
@@ -9129,7 +15969,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040801",
@@ -9141,7 +15990,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040802",
@@ -9153,7 +16011,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040803",
@@ -9165,7 +16032,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040804",
@@ -9177,7 +16053,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040805",
@@ -9189,7 +16074,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040806",
@@ -9201,7 +16095,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040807",
@@ -9213,7 +16116,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040808",
@@ -9225,7 +16137,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040809",
@@ -9237,7 +16158,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040810",
@@ -9249,7 +16179,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040810",
@@ -9261,7 +16200,16 @@ window.tags=[
           "role": "Damage",
           "rolerating": "SSS",
           "secondary": "Assassin",
-          "secondaryrating": "S+"
+          "secondaryrating": "S+",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040901",
@@ -9273,7 +16221,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040902",
@@ -9285,7 +16242,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040903",
@@ -9297,7 +16263,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040904",
@@ -9309,7 +16284,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040905",
@@ -9321,7 +16305,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040906",
@@ -9333,7 +16326,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040907",
@@ -9345,7 +16347,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040908",
@@ -9357,7 +16368,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040909",
@@ -9369,7 +16389,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20040912",
@@ -9381,7 +16410,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20041002",
@@ -9393,7 +16431,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20041003",
@@ -9405,7 +16452,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20041004",
@@ -9417,7 +16473,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20041006",
@@ -9429,7 +16494,16 @@ window.tags=[
           "role": "Damage",
           "rolerating": "S+",
           "secondary": "Tank",
-          "secondaryrating": "S+"
+          "secondaryrating": "S+",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20041009",
@@ -9441,7 +16515,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20041010",
@@ -9453,7 +16536,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20041011",
@@ -9465,7 +16557,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20041012",
@@ -9477,7 +16578,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20041101",
@@ -9489,7 +16599,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20041102",
@@ -9501,7 +16620,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20041103",
@@ -9513,7 +16641,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20041104",
@@ -9525,7 +16662,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20041105",
@@ -9537,7 +16683,16 @@ window.tags=[
           "role": "Tank",
           "rolerating": "SSS",
           "secondary": "Support",
-          "secondaryrating": "B"
+          "secondaryrating": "B",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20041106",
@@ -9549,7 +16704,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20041109",
@@ -9561,7 +16725,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20041110",
@@ -9573,7 +16746,16 @@ window.tags=[
           "role": "Assassin",
           "rolerating": "SS",
           "secondary": "Tank",
-          "secondaryrating": "A+"
+          "secondaryrating": "A+",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20041112",
@@ -9585,7 +16767,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20041201",
@@ -9597,7 +16788,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20041202",
@@ -9609,7 +16809,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20041203",
@@ -9621,7 +16830,16 @@ window.tags=[
           "role": "Damage",
           "rolerating": "SSS",
           "secondary": "Assassin",
-          "secondaryrating": "SS+"
+          "secondaryrating": "SS+",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20041205",
@@ -9633,7 +16851,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20041206",
@@ -9645,7 +16872,16 @@ window.tags=[
           "role": "Debuffer",
           "rolerating": "S+",
           "secondary": "Tank",
-          "secondaryrating": "S"
+          "secondaryrating": "S",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20041207",
@@ -9657,7 +16893,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20041208",
@@ -9669,7 +16914,16 @@ window.tags=[
           "role": "Tank",
           "rolerating": "S",
           "secondary": "Support",
-          "secondaryrating": "A"
+          "secondaryrating": "A",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20041209",
@@ -9681,7 +16935,16 @@ window.tags=[
           "role": "Tank",
           "rolerating": "SS",
           "secondary": "Debuffer",
-          "secondaryrating": "S+"
+          "secondaryrating": "S+",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20041210",
@@ -9693,7 +16956,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20041211",
@@ -9705,7 +16977,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20050101",
@@ -9717,7 +16998,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20050102",
@@ -9729,7 +17019,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20050103",
@@ -9741,7 +17040,16 @@ window.tags=[
           "role": "Support",
           "rolerating": "SSS",
           "secondary": "Damage",
-          "secondaryrating": "SS"
+          "secondaryrating": "SS",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20050105",
@@ -9753,7 +17061,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20050106",
@@ -9765,7 +17082,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20050107",
@@ -9777,7 +17103,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20050108",
@@ -9789,7 +17124,16 @@ window.tags=[
           "role": "Debuffer",
           "rolerating": "SS+",
           "secondary": "Damage",
-          "secondaryrating": "SSS"
+          "secondaryrating": "SSS",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20050109",
@@ -9801,7 +17145,16 @@ window.tags=[
           "role": "Damage",
           "rolerating": "SS",
           "secondary": "Support",
-          "secondaryrating": "A"
+          "secondaryrating": "A",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20050110",
@@ -9813,7 +17166,16 @@ window.tags=[
           "role": "Damage",
           "rolerating": "SSS",
           "secondary": "Support",
-          "secondaryrating": "A"
+          "secondaryrating": "A",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20050111",
@@ -9825,7 +17187,16 @@ window.tags=[
           "role": "Debuffer",
           "rolerating": "A",
           "secondary": "Tank",
-          "secondaryrating": "A"
+          "secondaryrating": "A",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20050112",
@@ -9837,7 +17208,16 @@ window.tags=[
           "role": "Damage",
           "rolerating": "SSS",
           "secondary": "Assassin",
-          "secondaryrating": "S+"
+          "secondaryrating": "S+",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20050113",
@@ -9849,7 +17229,16 @@ window.tags=[
           "role": "Assassin",
           "rolerating": "SSS",
           "secondary": "Debuffer",
-          "secondaryrating": "S+"
+          "secondaryrating": "S+",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20050114",
@@ -9861,7 +17250,16 @@ window.tags=[
           "role": "Assassin",
           "rolerating": "A+",
           "secondary": "Tank",
-          "secondaryrating": "A"
+          "secondaryrating": "A",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20050115",
@@ -9873,7 +17271,16 @@ window.tags=[
           "role": "Support",
           "rolerating": "SS",
           "secondary": "Debuffer",
-          "secondaryrating": "B+"
+          "secondaryrating": "B+",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20050116",
@@ -9885,7 +17292,16 @@ window.tags=[
           "role": "Damage",
           "rolerating": "SS",
           "secondary": "Support",
-          "secondaryrating": "S+"
+          "secondaryrating": "S+",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20050117",
@@ -9897,7 +17313,16 @@ window.tags=[
           "role": "Damage",
           "rolerating": "SS",
           "secondary": "Tank",
-          "secondaryrating": "SS"
+          "secondaryrating": "SS",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20050201",
@@ -9909,7 +17334,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20050202",
@@ -9921,7 +17355,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20050203",
@@ -9933,7 +17376,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20050204",
@@ -9945,7 +17397,16 @@ window.tags=[
           "role": "Support",
           "rolerating": "S",
           "secondary": "Damage",
-          "secondaryrating": "S"
+          "secondaryrating": "S",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20050205",
@@ -9957,7 +17418,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20050206",
@@ -9969,7 +17439,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20050207",
@@ -9981,7 +17460,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20050208",
@@ -9993,7 +17481,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },     
 {
           "cardId": "20050211",
@@ -10005,7 +17502,16 @@ window.tags=[
           "role": "Debuffer",
           "rolerating": "SSS",
           "secondary": "Tank",
-          "secondaryrating": "SSS"
+          "secondaryrating": "SSS",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20050212",
@@ -10017,7 +17523,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20050214",
@@ -10029,7 +17544,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20050215",
@@ -10041,7 +17565,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20050216",
@@ -10053,7 +17586,16 @@ window.tags=[
           "role": "Assassin",
           "rolerating": "SSS",
           "secondary": "Debuffer",
-          "secondaryrating": "SS"
+          "secondaryrating": "SS",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20050301",
@@ -10065,7 +17607,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20050302",
@@ -10077,7 +17628,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20050303",
@@ -10089,7 +17649,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20050304",
@@ -10101,7 +17670,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20050305",
@@ -10113,7 +17691,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20050306",
@@ -10125,7 +17712,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20050307",
@@ -10137,7 +17733,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20050308",
@@ -10149,7 +17754,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20050311",
@@ -10161,7 +17775,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20050314",
@@ -10173,7 +17796,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20050315",
@@ -10185,7 +17817,16 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 },
 {
           "cardId": "20050318",
@@ -10197,6 +17838,15 @@ window.tags=[
           "role": "",
           "rolerating": "",
           "secondary": "",
-          "secondaryrating": ""
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 }
 ]

@@ -48,6 +48,54 @@ body{
 	display: inline-block;
 }
 
+#filter-buff{
+	padding: 15px;
+	display: inline-block;
+
+}
+
+#filter-debuff{
+	padding: 15px;
+	display: inline-block;
+
+}
+
+#filter-survival{
+	padding: 15px;
+	display: inline-block;
+
+}
+
+#filter-health{
+	padding: 15px;
+	display: inline-block;
+
+}
+
+#filter-special{
+	padding: 15px;
+	display: inline-block;
+
+}
+
+#filter-positivestate{
+	padding: 15px;
+	display: inline-block;
+
+}
+
+#filter-negativestate{
+	padding: 15px;
+	display: inline-block;
+
+}
+
+#filter-godstate{
+	padding: 15px;
+	display: inline-block;
+
+}
+
 #filter-nature{
 	padding: 15px;
 	display: inline-block;

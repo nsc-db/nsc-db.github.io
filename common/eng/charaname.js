@@ -2072,6 +2072,20 @@ window.charaname=[
           "gender": "1"
         },
         {
+          "charaProfileId": "11604",
+          "charaId": "116",
+          "name": "Itachi Uchiha",
+          "detail": "穢土転生",
+          "charaLoveAffinityGroupId": "11620",
+          "birthday": "609",
+          "constellation": "3",
+          "height": "0",
+          "weight": "0",
+          "bloodType": "4",
+          "age": "0",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "11701",
           "charaId": "117",
           "name": "Kisame Hoshigaki",

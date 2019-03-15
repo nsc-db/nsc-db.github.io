@@ -1,6 +1,6 @@
 (function(){
 
-	function _createCard(data, name, type, hp, atk, def, spd, rare, affi, id, rate, tag, target, cast, damage, nature, voiced, type_tag, pvp, nickname){
+	function _createCard(data, name, type, hp, atk, def, spd, rare, affi, id, rate, tag, target, cast, damage, nature, voiced, type_tag, pvp, nickname, buff, debuff, survive, health, special, positivestate, negativestate, godstate){
 		var image;
 		//Rarity Check
 		if(rare == 6){
@@ -34,7 +34,15 @@
 					+'		<td class="text-center">' + nature + '</td>'
 					+'		<td class="text-center">' + voiced + '</td>'
 					+'		<td class="text-center">' + pvp + '</td>'	
-					+'		<td class="text-center">' + nickname + '</td>'																																																																																																																																																		
+					+'		<td class="text-center">' + nickname + '</td>'
+					+'		<td class="text-center">' + buff + '</td>'
+					+'		<td class="text-center">' + debuff + '</td>'
+					+'		<td class="text-center">' + survive + '</td>'	
+					+'		<td class="text-center">' + health + '</td>'
+					+'		<td class="text-center">' + special + '</td>'
+					+'		<td class="text-center">' + positivestate + '</td>'
+					+'		<td class="text-center">' + negativestate + '</td>'	
+					+'		<td class="text-center">' + godstate + '</td>'																																																																																																																																																				
 					+'</tr>';
 		return model;
 	}
@@ -64,6 +72,14 @@
 		var type_tag = '';
 		var pvp = '';
 		var nickname = '';
+		var buff = '';
+		var debuff = '';
+		var survive = '';
+		var health = '';
+		var special = '';
+		var positivestate = '';
+		var negativestate = '';
+		var godstate = '';
 
 		for(var i in window.chara){
 			var unit = window.chara[i];
@@ -103,9 +119,17 @@
 				rate = window.tags[i]['rate'];
 				tag = window.tags[i]['tag'];
 				pvp = window.tags[i]['pvp'];
-				nickname = window.tags[i]['nickname'];				
+				nickname = window.tags[i]['nickname'];
+				buff = window.tags[i]['buff'];
+				debuff = window.tags[i]['debuff'];
+				survive = window.tags[i]['survive'];
+				health = window.tags[i]['health']
+				special = window.tags[i]['special'];
+				positivestate = window.tags[i]['positivestate'];
+				negativestate = window.tags[i]['negativestate'];
+				godstate = window.tags[i]['godstate'];				
 				type_tag += type + "_" + rare;
-
+				
 				if(tag == "ex-5" || tag == "ex-6"){
 					type_tag += "_ex.png";
 				}
@@ -204,16 +228,24 @@
 						voiced = 0;
 					}
 				}
-
+				
 				if(units.indexOf(chara[0]) == -1){ // << verifica se já criou o card pelo [ID]
 					units.push(unit[0]); // << Salvo o id do card, para impedir cards repetidos de existirem			
-					content += _createCard(unit, name, type, hp, atk, def, spd, rare, affi, id, rate, tag, target, cast, damage, nature, voiced, type_tag, pvp, nickname); // chama a função passando os dados do card
+					content += _createCard(unit, name, type, hp, atk, def, spd, rare, affi, id, rate, tag, target, cast, damage, nature, voiced, type_tag, pvp, nickname, buff, debuff, survive, health, special, positivestate, negativestate, godstate); // chama a função passando os dados do card
 					target = '';
 					cast = '';
 					damage = '';
 					nature = '';
 					voiced = 0;
 					type_tag = '';
+					buff = '';
+					debuff = '';
+					survive = '';
+					health = '';
+					special = '';
+					positivestate = '';
+					negativestate = '';
+					godstate = '';
 
 				}
 			}
@@ -295,6 +327,7 @@
 		//Type
 		for(var x in window.chara){
 			if(cid == window.chara[x]['cardId']){
+
 				var change = 0;
 				var stuff = '';
 				var rare;
