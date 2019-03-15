@@ -18927,6 +18927,24 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2159",
+          "abilityName": "人刀一体の妖貌",
+          "abilityDescription": "HP90%以上の時に行動後チャクラ100％回復、HP0以下で1回だけ耐える",
+          "abilityEffectDescription": "HP90%以上の時に行動後チャクラ100％回復、HP0以下で1回だけ耐える",
+          "effectIdx1": "2122",
+          "effectIdx2": "312",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2160",
+          "abilityName": "チャクラ食らいの怪異",
+          "abilityDescription": "最大チャクラ量180アップ、バトル開始時チャクラ50%回復",
+          "abilityEffectDescription": "最大チャクラ量180アップ、バトル開始時チャクラ50%回復",
+          "effectIdx1": "20017",
+          "effectIdx2": "1115",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

@@ -10784,6 +10784,22 @@ window.gear=[
           "recipeName": "影の意志(雷・火)"
         },
         {
+          "crystalId": "723",
+          "crystalType": "3",
+          "crystalRare": "5",
+          "effectIdx1": "11551",
+          "effectIdx2": "2123",
+          "effectIdx3": "2124",
+          "effectIdx4": "859",
+          "money": "1000000",
+          "saleMoney": "2500",
+          "crystalName": "影の意志(雷・水)",
+          "crystalDescription": "攻撃力が100,000アップ、会心率と会心力が300%アップ、チャクラ消費量30%ダウン",
+          "crystalImageId": "7165",
+          "recipeId": "723",
+          "recipeName": "影の意志(雷・水)"
+        },
+        {
           "crystalId": "727",
           "crystalType": "3",
           "crystalRare": "5",
@@ -17502,6 +17518,38 @@ window.gear=[
           "crystalImageId": "203105",
           "recipeId": "20310",
           "recipeName": "テンテンの上着"
+        },
+        {
+          "crystalId": "20311",
+          "crystalType": "3",
+          "crystalRare": "5",
+          "effectIdx1": "682",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "鬼鮫の歯",
+          "crystalDescription": "全スキルダメージ50％アップ",
+          "crystalImageId": "203115",
+          "recipeId": "20311",
+          "recipeName": "鬼鮫の歯"
+        },
+        {
+          "crystalId": "20312",
+          "crystalType": "1",
+          "crystalRare": "5",
+          "effectIdx1": "10029",
+          "effectIdx2": "183",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "鬼鮫のサンダル",
+          "crystalDescription": "最大HPと素早さが30％アップ",
+          "crystalImageId": "203125",
+          "recipeId": "20312",
+          "recipeName": "鬼鮫のサンダル"
         },
         {
           "crystalId": "20313",

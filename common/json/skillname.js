@@ -5820,6 +5820,14 @@ window.skillname=[
           "name": "チェケラッチョ"
         },
         {
+          "cardBattleSkillNameId": "2656",
+          "name": "水牢・喰代鮫"
+        },
+        {
+          "cardBattleSkillNameId": "2657",
+          "name": "逃げられないですよ"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },

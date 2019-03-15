@@ -7277,6 +7277,16 @@ window.skillname=[
           "eng": ""
         },
         {
+          "cardBattleSkillNameId": "2656",
+          "name": "水牢・喰代鮫",
+          "eng": "Water Prison"
+        },
+        {
+          "cardBattleSkillNameId": "2657",
+          "name": "逃げられないですよ",
+          "eng": "You Can't Escape"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！",
           "eng": ""
@@ -7284,7 +7294,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "10225",
           "name": "いい加減にしろ！",
-          "eng": ""
+          "eng": "Irresponsible"
         },
         {
           "cardBattleSkillNameId": "12000",

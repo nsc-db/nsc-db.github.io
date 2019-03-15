@@ -17766,6 +17766,27 @@ window.tags=[
 
 },
 {
+          "cardId": "20050309",
+          "rare": "5",
+          "tag": "killers",
+          "skill1damage": "",
+          "skill2damage": "",
+          "nickname": "Killer Kisame v2 | Shark Kisame",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
+},
+{
           "cardId": "20050311",
           "rare": "5",
           "tag": "ex-6",

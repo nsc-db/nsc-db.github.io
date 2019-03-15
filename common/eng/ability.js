@@ -18909,6 +18909,24 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2159",
+          "abilityName": "Monsterful Wonder",
+          "abilityDescription": "Chakra Recovery +100% when HP is above 90%. When HP reach 0, withstand 1 attack",
+          "abilityEffectDescription": "HP90%以上の時に行動後チャクラ100％回復、HP0以下で1回だけ耐える",
+          "effectIdx1": "2122",
+          "effectIdx2": "312",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2160",
+          "abilityName": "Chakra Eating Monster",
+          "abilityDescription": "Chakra +180. Start the Battle with 50%",
+          "abilityEffectDescription": "最大チャクラ量180アップ、バトル開始時チャクラ50%回復",
+          "effectIdx1": "20017",
+          "effectIdx2": "1115",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
