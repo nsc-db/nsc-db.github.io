@@ -3875,6 +3875,12 @@
           "speechCharactorName": "うちはマダラ"
         },
         {
+          "speechCharactorId": "654",
+          "cardId": "20050309",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "干柿鬼鮫"
+        },
+        {
           "speechCharactorId": "1000",
           "cardId": "21000091",
           "speechCharactorImgId": "1000",

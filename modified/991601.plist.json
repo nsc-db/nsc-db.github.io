@@ -909,6 +909,19 @@
           "selectType": "1"
         },
         {
+          "itemId": "11072",
+          "name": "4月限定ラーメン(2019)",
+          "description": "スタミナを全回復するラーメン（4月30日まで期間限定）",
+          "resultWord": "0",
+          "itemCategoryId": "1",
+          "itemValue": "1000000",
+          "itemNum": "0",
+          "itemImageId": "11020",
+          "needCount": "1",
+          "priority": "1",
+          "selectType": "1"
+        },
+        {
           "itemId": "15001",
           "name": "共闘コイン",
           "description": "共闘コインガチャの実行に必要なコイン。",
@@ -1705,6 +1718,19 @@
           "itemId": "52023",
           "name": "期間限定ﾄﾞﾛｯﾌﾟ数2倍の秘伝書",
           "description": "バトルでの獲得ドロップ数が２倍になります。（3月25日15:59まで期間限定）",
+          "resultWord": "忍/素材ドロップ数２倍",
+          "itemCategoryId": "10",
+          "itemValue": "20000",
+          "itemNum": "0",
+          "itemImageId": "51000",
+          "needCount": "1",
+          "priority": "100",
+          "selectType": "2"
+        },
+        {
+          "itemId": "52024",
+          "name": "4月限定ﾄﾞﾛｯﾌﾟ数2倍の秘伝書",
+          "description": "バトルでの獲得ドロップ数が２倍になります。（4月30日まで期間限定）",
           "resultWord": "忍/素材ドロップ数２倍",
           "itemCategoryId": "10",
           "itemValue": "20000",

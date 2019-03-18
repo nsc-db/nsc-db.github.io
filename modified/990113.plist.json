@@ -25247,6 +25247,42 @@
           "effectParam3": "0"
         },
         {
+          "cardEffectId": "2122",
+          "timing": "2",
+          "conditionType": "1",
+          "conditionLower": "9000",
+          "conditionUpper": "10000",
+          "parcent": "10000",
+          "effectId": "4",
+          "effectParam1": "1",
+          "effectParam2": "20000",
+          "effectParam3": "0"
+        },
+        {
+          "cardEffectId": "2123",
+          "timing": "11",
+          "conditionType": "0",
+          "conditionLower": "0",
+          "conditionUpper": "0",
+          "parcent": "10000",
+          "effectId": "9",
+          "effectParam1": "6",
+          "effectParam2": "30000",
+          "effectParam3": "0"
+        },
+        {
+          "cardEffectId": "2124",
+          "timing": "11",
+          "conditionType": "0",
+          "conditionLower": "0",
+          "conditionUpper": "0",
+          "parcent": "10000",
+          "effectId": "9",
+          "effectParam1": "7",
+          "effectParam2": "30000",
+          "effectParam3": "0"
+        },
+        {
           "cardEffectId": "10000",
           "timing": "11",
           "conditionType": "0",
@@ -29168,6 +29204,18 @@
           "effectId": "9",
           "effectParam1": "1",
           "effectParam2": "3710",
+          "effectParam3": "0"
+        },
+        {
+          "cardEffectId": "11551",
+          "timing": "1",
+          "conditionType": "0",
+          "conditionLower": "0",
+          "conditionUpper": "0",
+          "parcent": "10000",
+          "effectId": "9",
+          "effectParam1": "1",
+          "effectParam2": "100000",
           "effectParam3": "0"
         },
         {
@@ -33836,6 +33884,18 @@
           "effectId": "9",
           "effectParam1": "14",
           "effectParam2": "150",
+          "effectParam3": "0"
+        },
+        {
+          "cardEffectId": "20017",
+          "timing": "11",
+          "conditionType": "0",
+          "conditionLower": "0",
+          "conditionUpper": "0",
+          "parcent": "10000",
+          "effectId": "9",
+          "effectParam1": "14",
+          "effectParam2": "180",
           "effectParam3": "0"
         },
         {
