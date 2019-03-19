@@ -7381,7 +7381,7 @@
         {
           "appUiId": "1480",
           "uiKey": "ArenaGameCancelDesc",
-          "text": "消費した忍石は返還されません\r\n\r\n現在のステージは敗北となります"
+          "text": "消費した忍石は返還されません\r\n\r\n現在の部隊は敗北となります"
         },
         {
           "appUiId": "1481",
@@ -7467,5 +7467,30 @@
           "appUiId": "1497",
           "uiKey": "Reward",
           "text": "報酬"
+        },
+        {
+          "appUiId": "1498",
+          "uiKey": "ArenaGameExitTitle",
+          "text": "部隊を撤退させますか？"
+        },
+        {
+          "appUiId": "1499",
+          "uiKey": "ArenaGameExitDesc",
+          "text": "消費した忍石は返還されません\r\n\r\n現在の部隊は敗北となります"
+        },
+        {
+          "appUiId": "1500",
+          "uiKey": "ArenaRetirelTitle",
+          "text": "忍連合戦を棄権しますか？"
+        },
+        {
+          "appUiId": "1501",
+          "uiKey": "ArenaRetireDesc",
+          "text": "途中で忍連合戦を棄権した場合も\r\n\r\n連勝ボーナスがリセットされます"
+        },
+        {
+          "appUiId": "1502",
+          "uiKey": "PveEndError",
+          "text": "昇級試験が更新されました"
         }
       ]

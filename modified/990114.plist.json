@@ -1889,6 +1889,16 @@
           "type": "3"
         },
         {
+          "cardUnusualId": "194",
+          "category": "3",
+          "iconId": "1214",
+          "name": "景門",
+          "description": "攻撃力・素早さアップ、防御無視、HP0以下で耐える",
+          "subScore": "0",
+          "color": "3911541",
+          "type": "2"
+        },
+        {
           "cardUnusualId": "197",
           "category": "3",
           "iconId": "1217",

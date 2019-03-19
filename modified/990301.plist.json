@@ -17677,5 +17677,37 @@
           "crystalImageId": "203295",
           "recipeId": "20329",
           "recipeName": "仙人カブトの角"
+        },
+        {
+          "crystalId": "20330",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "204",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "ガイのリュック",
+          "crystalDescription": "チャクラ消費量が15%ダウンする",
+          "crystalImageId": "203305",
+          "recipeId": "20330",
+          "recipeName": "ガイのリュック"
+        },
+        {
+          "crystalId": "20331",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "792",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "トランシーバー",
+          "crystalDescription": "状態異常半減",
+          "crystalImageId": "203315",
+          "recipeId": "20331",
+          "recipeName": "トランシーバー"
         }
       ]

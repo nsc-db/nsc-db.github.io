@@ -616,6 +616,10 @@
         },
         {
           "defineKey": "arena_entry_bgm",
-          "defineValue": "specialbtl"
+          "defineValue": "arena_battle"
+        },
+        {
+          "defineKey": "is_enable_arena_popularity_button",
+          "defineValue": "0"
         }
       ]

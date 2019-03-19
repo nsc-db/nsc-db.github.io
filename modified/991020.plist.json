@@ -1527,6 +1527,22 @@
           "equipStatus": "1"
         },
         {
+          "titleId": "273",
+          "title": "頭の方も",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "274",
+          "title": "やっかいな",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "1"
+        },
+        {
           "titleId": "1000",
           "title": "忍者学校生",
           "description": "",
@@ -2999,6 +3015,22 @@
           "equipStatus": "2"
         },
         {
+          "titleId": "1277",
+          "title": "珍獣レベル",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1278",
+          "title": "ガキ共",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "2"
+        },
+        {
           "titleId": "5000",
           "title": "忍道を極めし者",
           "description": "",
@@ -4337,6 +4369,22 @@
         {
           "titleId": "5258",
           "title": "この日の為に鍛えた",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5259",
+          "title": "借りを返し終えた",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5260",
+          "title": "木ノ葉の碧き猛獣",
           "description": "0",
           "color": "0",
           "effectIds": "0",

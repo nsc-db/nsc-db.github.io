@@ -689,6 +689,16 @@
           "enemyEffects": "80000,"
         },
         {
+          "battleFieldEffectId": "78",
+          "name": "思い出せない再会",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "12119,1814,",
+          "enemyEffects": "50001,"
+        },
+        {
           "battleFieldEffectId": "10001",
           "name": "始球空間",
           "category": "3",

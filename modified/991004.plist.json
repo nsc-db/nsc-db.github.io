@@ -3875,6 +3875,12 @@
           "speechCharactorName": "うちはマダラ"
         },
         {
+          "speechCharactorId": "652",
+          "cardId": "20050310",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "マイト・ガイ"
+        },
+        {
           "speechCharactorId": "654",
           "cardId": "20050309",
           "speechCharactorImgId": "0",
