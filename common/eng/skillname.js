@@ -7287,6 +7287,11 @@ window.skillname=[
           "eng": "You Can't Escape"
         },
         {
+          "cardBattleSkillNameId": "2658",
+          "name": "いざっ勝負だ！！",
+          "eng": "This is it!!"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！",
           "eng": ""

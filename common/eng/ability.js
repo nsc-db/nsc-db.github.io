@@ -18927,6 +18927,24 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2161",
+          "abilityName": "Explosive Taijutsu",
+          "abilityDescription": "Start the Battle with 30% Chakra. Enemy Itachi Uchiha and Madara Uchiha deals 0 damage",
+          "abilityEffectDescription": "バトル開始時にチャクラ30%回復、敵の「うちはイタチ、うちはマダラ（年代問わず）」からのダメージ0",
+          "effectIdx1": "1114",
+          "effectIdx2": "2125",
+          "effectIdx3": "2077"
+        },
+        {
+          "abilityId": "2162",
+          "abilityName": "Hypersonic Fist",
+          "abilityDescription": "High chance to dodge Skills. SPD +100% if there's an enemy Akatsuki or None. Additional +200% if both exist",
+          "abilityEffectDescription": "高確率でスキル回避、敵に“暁”所属か無所属がいると素早さ100%アップ、どちらもいると素早さ200%アップ",
+          "effectIdx1": "968",
+          "effectIdx2": "2126",
+          "effectIdx3": "2127"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
