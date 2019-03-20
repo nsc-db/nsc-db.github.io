@@ -18962,6 +18962,24 @@
           "effectIdx3": "2127"
         },
         {
+          "abilityId": "2165",
+          "abilityName": "兄への想い",
+          "abilityDescription": "3回行動まで150%の確率でスキル回避、HP80%以上の時に素早さ120%アップ＆スキル発動速度1段階アップ",
+          "abilityEffectDescription": "3回行動まで150%の確率でスキル回避、HP80%以上の時に素早さ120%アップ＆スキル発動速度1段階アップ",
+          "effectIdx1": "1913",
+          "effectIdx2": "1833",
+          "effectIdx3": "1089"
+        },
+        {
+          "abilityId": "2166",
+          "abilityName": "解脱の絵心",
+          "abilityDescription": "3回行動までチャクラ消費半減、HP0以下で1度だけ耐える",
+          "abilityEffectDescription": "3回行動までチャクラ消費半減、HP0以下で1度だけ耐える",
+          "effectIdx1": "359",
+          "effectIdx2": "312",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

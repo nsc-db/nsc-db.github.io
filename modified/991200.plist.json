@@ -9681,5 +9681,29 @@
           "effectIdx2": "1840",
           "effectIdx3": "82",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "821",
+          "targetCrystal": "20317",
+          "description": "バトル開始時にチャクラ50%回復、素早さ80%アップ、行動後にチャクラ30%回復",
+          "charaIds": "3701,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1115",
+          "effectIdx2": "13079",
+          "effectIdx3": "820",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "822",
+          "targetCrystal": "20318",
+          "description": "最大HP150%アップ、弱体＆状態異常無効、3回行動するまで全スキル無効",
+          "charaIds": "3701,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1212",
+          "effectIdx2": "880",
+          "effectIdx3": "1273",
+          "effectIdx4": "0"
         }
       ]

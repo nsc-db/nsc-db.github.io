@@ -72629,6 +72629,346 @@
           "message": "勝負アリです！"
         },
         {
+          "scriptMessageId": "27035",
+          "speechCharactorId": "151",
+          "message": "お前があのカカシ班に\r\n配属されるよう"
+        },
+        {
+          "scriptMessageId": "27036",
+          "speechCharactorId": "151",
+          "message": "もう手はまわしてある…"
+        },
+        {
+          "scriptMessageId": "27037",
+          "speechCharactorId": "151",
+          "message": "お前は、うずまきナルトと\r\n歳もさほど変わらぬ上…"
+        },
+        {
+          "scriptMessageId": "27038",
+          "speechCharactorId": "151",
+          "message": "里の同世代の誰より強く"
+        },
+        {
+          "scriptMessageId": "27039",
+          "speechCharactorId": "151",
+          "message": "何よりもあの…\r\n素晴らしい絵心は感嘆の一言じゃ"
+        },
+        {
+          "scriptMessageId": "27040",
+          "speechCharactorId": "151",
+          "message": "本日より任務終了までの間\r\nお前の名はサイじゃ…"
+        },
+        {
+          "scriptMessageId": "27041",
+          "speechCharactorId": "252",
+          "message": "サイ…でございますね…"
+        },
+        {
+          "scriptMessageId": "27042",
+          "speechCharactorId": "151",
+          "message": "ワシの前でそのような\r\n作り笑いはよせ"
+        },
+        {
+          "scriptMessageId": "27043",
+          "speechCharactorId": "252",
+          "message": "すみません…\r\n人の心に取り入るには\r\nまず笑顔だと教本にありました…"
+        },
+        {
+          "scriptMessageId": "27044",
+          "speechCharactorId": "252",
+          "message": "練習はしているのですが…"
+        },
+        {
+          "scriptMessageId": "27045",
+          "speechCharactorId": "252",
+          "message": "まだ表情というのが\r\n上手く作れないもので……"
+        },
+        {
+          "scriptMessageId": "27046",
+          "speechCharactorId": "251",
+          "message": "…見たことねー奴だけど…\r\n木ノ葉の額当てしてるぞ！"
+        },
+        {
+          "scriptMessageId": "27047",
+          "speechCharactorId": "31",
+          "message": "いきなりだな…\r\n何狙ってっか知らねーが"
+        },
+        {
+          "scriptMessageId": "27048",
+          "speechCharactorId": "31",
+          "message": "ああいう手合いは捕まえて……\r\n尋問部に引き渡す！"
+        },
+        {
+          "scriptMessageId": "27049",
+          "speechCharactorId": "31",
+          "message": "援護する\r\n行け、ナルト！"
+        },
+        {
+          "scriptMessageId": "27050",
+          "speechCharactorId": "251",
+          "message": "オウ！"
+        },
+        {
+          "scriptMessageId": "27051",
+          "speechCharactorId": "251",
+          "message": "誰だ…\r\nてめェ…！"
+        },
+        {
+          "scriptMessageId": "27052",
+          "speechCharactorId": "252",
+          "message": "力…弱いな……君\r\nそれでもチンポ付いてんですか？"
+        },
+        {
+          "scriptMessageId": "27053",
+          "speechCharactorId": "27",
+          "message": "誰だってきいてんだ！！"
+        },
+        {
+          "scriptMessageId": "27054",
+          "speechCharactorId": "252",
+          "message": "また会う事になるよ\r\nナルトくん"
+        },
+        {
+          "scriptMessageId": "27055",
+          "speechCharactorId": "252",
+          "message": "さっきはごめんよ\r\nこれから同じ班の仲間になる人の\r\n実力を知っておきたかったんだ"
+        },
+        {
+          "scriptMessageId": "27056",
+          "speechCharactorId": "252",
+          "message": "何せ、どれくらい\r\n援護しなきゃならない\r\nタマ無しヤローか分からないからね"
+        },
+        {
+          "scriptMessageId": "27057",
+          "speechCharactorId": "27",
+          "message": "何だとー！！"
+        },
+        {
+          "scriptMessageId": "27058",
+          "speechCharactorId": "181",
+          "message": "ちょ！\r\nこれから仲間になるんだから！\r\nいきなりケンカしないでよ！"
+        },
+        {
+          "scriptMessageId": "27059",
+          "speechCharactorId": "181",
+          "message": "…でもちょっとアンタ\r\n感じ悪いわね…"
+        },
+        {
+          "scriptMessageId": "27060",
+          "speechCharactorId": "252",
+          "message": "アハハ…そうですか？\r\nボクは好きですよ\r\nアナタの様な感じのいいブス"
+        },
+        {
+          "scriptMessageId": "27061",
+          "speechCharactorId": "181",
+          "message": "ンだとコラー！！"
+        },
+        {
+          "scriptMessageId": "27062",
+          "speechCharactorId": "27",
+          "message": "何でサスケの代わりが\r\nあいつなんだ…"
+        },
+        {
+          "scriptMessageId": "27063",
+          "speechCharactorId": "181",
+          "message": "確かに口は悪いけど…\r\nサイってどことなく\r\nサスケ君に似てると思わない？"
+        },
+        {
+          "scriptMessageId": "27064",
+          "speechCharactorId": "27",
+          "message": "フン！\r\nぜんっぜん似てねーってばよ！"
+        },
+        {
+          "scriptMessageId": "27065",
+          "speechCharactorId": "27",
+          "message": "サスケの方がカッコイイ…\r\n…じゃなかった……"
+        },
+        {
+          "scriptMessageId": "27066",
+          "speechCharactorId": "27",
+          "message": "マシだってばよ！"
+        },
+        {
+          "scriptMessageId": "27067",
+          "speechCharactorId": "662",
+          "message": "“根”には…\r\n名前は無い、感情は無い…"
+        },
+        {
+          "scriptMessageId": "27068",
+          "speechCharactorId": "252",
+          "message": "過去は無い\r\n……未来は無い"
+        },
+        {
+          "scriptMessageId": "27069",
+          "speechCharactorId": "252",
+          "message": "あるのは任務……"
+        },
+        {
+          "scriptMessageId": "27070",
+          "speechCharactorId": "662",
+          "message": "木ノ葉という大木を\r\n目に見えぬ地の中より支える"
+        },
+        {
+          "scriptMessageId": "27071",
+          "speechCharactorId": "662",
+          "message": "我々“根”の意志……\r\n忘れるな"
+        },
+        {
+          "scriptMessageId": "27072",
+          "speechCharactorId": "252",
+          "message": "…………ハイ"
+        },
+        {
+          "scriptMessageId": "27073",
+          "speechCharactorId": "252",
+          "message": "サイという名は\r\nこの任務の為だけに\r\n与えられた名…"
+        },
+        {
+          "scriptMessageId": "27074",
+          "speechCharactorId": "252",
+          "message": "ボクは誰でもない"
+        },
+        {
+          "scriptMessageId": "27075",
+          "speechCharactorId": "252",
+          "message": "ボクはダンゾウ様の手足だ\r\nボクは存在しない"
+        },
+        {
+          "scriptMessageId": "27076",
+          "speechCharactorId": "252",
+          "message": "だから、ボクに何を言っても\r\n無意味なんだよ"
+        },
+        {
+          "scriptMessageId": "27077",
+          "speechCharactorId": "181",
+          "message": "アナタは言うほど\r\n感情を捨てきれていない…"
+        },
+        {
+          "scriptMessageId": "27078",
+          "speechCharactorId": "181",
+          "message": "忍だって感情を\r\n捨てきる事は出来ないのよ"
+        },
+        {
+          "scriptMessageId": "27079",
+          "speechCharactorId": "52",
+          "message": "サイ…君が\r\n暗部の“根”の者だって事も知ってる"
+        },
+        {
+          "scriptMessageId": "27080",
+          "speechCharactorId": "52",
+          "message": "ダンゾウによって感情を殺すための\r\n特別な訓練を受けていた事も知ってる"
+        },
+        {
+          "scriptMessageId": "27081",
+          "speechCharactorId": "52",
+          "message": "感情を奪う為に\r\n血霧の里・霧隠れで\r\nかつて行われていた悪習と同じだ"
+        },
+        {
+          "scriptMessageId": "27082",
+          "speechCharactorId": "52",
+          "message": "君はお兄さんを…"
+        },
+        {
+          "scriptMessageId": "27083",
+          "speechCharactorId": "653",
+          "message": "違う！"
+        },
+        {
+          "scriptMessageId": "27084",
+          "speechCharactorId": "45",
+          "message": "…誰だ？"
+        },
+        {
+          "scriptMessageId": "27085",
+          "speechCharactorId": "252",
+          "message": "バレちゃいましたか…\r\nでも…ボクはもう先手を取ってる"
+        },
+        {
+          "scriptMessageId": "27086",
+          "speechCharactorId": "45",
+          "message": "目的は何だ？"
+        },
+        {
+          "scriptMessageId": "27087",
+          "speechCharactorId": "653",
+          "message": "………ボクは君を…\r\n木ノ葉へ連れ帰る！"
+        },
+        {
+          "scriptMessageId": "27088",
+          "speechCharactorId": "653",
+          "message": "…ボクはナルト君が必死に\r\nたぐり寄せようとしてる"
+        },
+        {
+          "scriptMessageId": "27089",
+          "speechCharactorId": "653",
+          "message": "キミとの“つながり”ってのを\r\n守ってみたいんだ"
+        },
+        {
+          "scriptMessageId": "27090",
+          "speechCharactorId": "251",
+          "message": "また……\r\n止められなかった…"
+        },
+        {
+          "scriptMessageId": "27091",
+          "speechCharactorId": "181",
+          "message": "泣いたって\r\nサスケくんは帰って来ないでしょ！"
+        },
+        {
+          "scriptMessageId": "27092",
+          "speechCharactorId": "181",
+          "message": "私もいる！\r\n私だって一緒に強くなる！！"
+        },
+        {
+          "scriptMessageId": "27093",
+          "speechCharactorId": "252",
+          "message": "二人より三人の方がいいに決まってる\r\nそれにボクは結構強いからね"
+        },
+        {
+          "scriptMessageId": "27094",
+          "speechCharactorId": "151",
+          "message": "任務をしくじるとは\r\nお前らしくないな…"
+        },
+        {
+          "scriptMessageId": "27095",
+          "speechCharactorId": "252",
+          "message": "一つお願いがございます"
+        },
+        {
+          "scriptMessageId": "27096",
+          "speechCharactorId": "151",
+          "message": "願いごとだと…？"
+        },
+        {
+          "scriptMessageId": "27097",
+          "speechCharactorId": "252",
+          "message": "この名のまましばらく\r\nカカシ班に身を置かせては\r\nいただけないでしょうか…"
+        },
+        {
+          "scriptMessageId": "27098",
+          "speechCharactorId": "151",
+          "message": "分っているな、サイ"
+        },
+        {
+          "scriptMessageId": "27099",
+          "speechCharactorId": "151",
+          "message": "感情は憎しみを作り出す…"
+        },
+        {
+          "scriptMessageId": "27100",
+          "speechCharactorId": "151",
+          "message": "そして憎しみは\r\n戦いを作り出すものだ…"
+        },
+        {
+          "scriptMessageId": "27101",
+          "speechCharactorId": "151",
+          "message": "忍とは時に冷酷でなければならんのだ"
+        },
+        {
+          "scriptMessageId": "27102",
+          "speechCharactorId": "252",
+          "message": "……ハイ"
+        },
+        {
           "scriptMessageId": "40001",
           "speechCharactorId": "178",
           "message": "絶望しかないこの世界に\r\n存在する価値はない"

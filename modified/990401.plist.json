@@ -5039,6 +5039,16 @@
           "gachaTicketImgId": "223"
         },
         {
+          "gachaTicketId": "3572",
+          "gachaTicketName": "創生の筆筋ガチャチケット",
+          "gachaTicketImgId": "3572"
+        },
+        {
+          "gachaTicketId": "3573",
+          "gachaTicketName": "創生の筆筋・祭",
+          "gachaTicketImgId": "3572"
+        },
+        {
           "gachaTicketId": "3578",
           "gachaTicketName": "昇級選抜[3月]LvMAXガチャチケット",
           "gachaTicketImgId": "3578"
@@ -5052,6 +5062,11 @@
           "gachaTicketId": "3580",
           "gachaTicketName": "赤雲の黒衣 “暁”[3月]・祭",
           "gachaTicketImgId": "3507"
+        },
+        {
+          "gachaTicketId": "3609",
+          "gachaTicketName": "SDガチャチケット",
+          "gachaTicketImgId": "3279"
         },
         {
           "gachaTicketId": "100084",

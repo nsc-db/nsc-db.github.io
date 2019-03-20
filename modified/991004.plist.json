@@ -3881,10 +3881,22 @@
           "speechCharactorName": "マイト・ガイ"
         },
         {
+          "speechCharactorId": "653",
+          "cardId": "20050313",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "サイ"
+        },
+        {
           "speechCharactorId": "654",
           "cardId": "20050309",
           "speechCharactorImgId": "0",
           "speechCharactorName": "干柿鬼鮫"
+        },
+        {
+          "speechCharactorId": "662",
+          "cardId": "21000061",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "\"根\"の暗部"
         },
         {
           "speechCharactorId": "1000",

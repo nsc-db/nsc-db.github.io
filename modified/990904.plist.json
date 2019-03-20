@@ -454,6 +454,19 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
+          "worldStageId": "1230",
+          "worldAreaId": "5",
+          "priority": "1",
+          "name": "木ノ葉に巣食う“根”",
+          "description": "個人Ptを集めて報酬を獲得！\r\nサイの新忍具や、木ノ葉の忍の旧忍具が登場！\r\n忍具を獲得して班を強化しよう！",
+          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
           "worldStageId": "2061",
           "worldAreaId": "5",
           "priority": "30",
@@ -482,7 +495,7 @@
         {
           "worldStageId": "2076",
           "worldAreaId": "5",
-          "priority": "2",
+          "priority": "3",
           "name": "テンテンの忍具指南",
           "description": "個人Ptを集めて忍具を手に入れよう！\r\n交換忍具大幅リニューアル！",
           "notice": "0",

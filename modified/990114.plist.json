@@ -1899,6 +1899,26 @@
           "type": "2"
         },
         {
+          "cardUnusualId": "195",
+          "category": "3",
+          "iconId": "1215",
+          "name": "阿",
+          "description": "素早さアップ、吽状態だとチャクラ消費0",
+          "subScore": "0",
+          "color": "11119017",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "196",
+          "category": "3",
+          "iconId": "1216",
+          "name": "吽",
+          "description": "スキル発動速度アップ、防御無視、阿状態だとHP0以下で何度でも耐える",
+          "subScore": "0",
+          "color": "14474460",
+          "type": "2"
+        },
+        {
           "cardUnusualId": "197",
           "category": "3",
           "iconId": "1217",
