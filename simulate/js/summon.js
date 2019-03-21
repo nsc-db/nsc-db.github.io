@@ -3,19 +3,23 @@ function singleSummon(){
 	var multi = document.getElementById("multi");
 
 	var length = 0;
-	var four = [];
+	var origin = [];
+	var killer = []
 	var five = [];
 	var six = [];
 	var ex = [];
 	var god = [];
 	
 	var card;
-	length = createPool(four, five, six, ex, god);
+	length = createPool(five, origin, killer, ex, six, god);
 	var id = 0;
 	var summon = Math.floor(Math.random()* 99);
 	var roll = summon;
 
-	if(summon == 1 || summon == 6 || summon == 10){
+	console.log(roll);
+    console.log(card);
+    	
+	if(summon == 69 || summon == 6 || summon == 9 || summon == 66){
 		var size = getLength(six);
 		summon = Math.floor(Math.random()* (size));
 
@@ -27,29 +31,36 @@ function singleSummon(){
 
 		card = god[summon]['cardId'];
 	}
-	else if(summon > 96 && summon <= 99){
+	else if(summon == 21 || summon == 58 || summon == 91 || summon == 55){
+		var size = getLength(killer);
+		summon = Math.floor(Math.random()* (size));
+
+		card = killer[summon]['cardId'];
+	}
+	else if(summon == 77  ){
+		var size = getLength(origin);
+		summon = Math.floor(Math.random()* (size));
+
+		card = origin[summon]['cardId'];
+	}
+	else if(summon == 10 || summon == 20 || summon == 30 || summon == 40 || summon == 50 || summon == 60 || summon == 70 || summon == 80 || summon == 90 || summon == 99){
 		var size = getLength(ex);
 		summon = Math.floor(Math.random()* (size));
 
 		card = ex[summon]['cardId'];
 	}
-	else if(summon > 73 && summon <= 96){
-		var size = getLength(five);
+	else{
+		var size = getLength(five) -1;
 		summon = Math.floor(Math.random()* (size));
+
 
 		card = five[summon]['cardId'];
-	}
-	else{
-		var size = getLength(four);
-		summon = Math.floor(Math.random()* (size));
-
-
-		card = four[summon]['cardId'];
 	}
 
 	for(var n in window.tags){
 		if(card == window.tags[n]['cardId']){
-			if(window.tags[n]['tag'] == "ex-6" || window.tags[n]['tag'] == "limited-6" || window.tags[n]['tag'] == "special" || window.tags[n]['tag'] == "killers" || window.tags[n]['tag'] == "saitama"){
+			if(window.tags[n]['tag'] == "ex-6" || window.tags[n]['tag'] == "limited-6" || window.tags[n]['tag'] == "killers" || window.tags[n]['tag'] == "origin" || window.tags[n]['tag'] == "god"
+			|| window.tags[n]['tag'] == "saitama" || window.tags[n]['tag'] == "kami-destroyer"){
 				card = card + '_6';
 			}
 		}
@@ -63,34 +74,35 @@ function singleSummon(){
 	if (single.style.display === "none") {
         single.style.display = "block";
     } 
-    console.log(roll);
-    console.log(card);
 }
 
 function multiSummon(){
 	var multi = document.getElementById("multi");
 	var single = document.getElementById("single");
 	
-	var four = [];
+	var length = 0;
+	var origin = [];
+	var killer = []
 	var five = [];
 	var six = [];
 	var ex = [];
 	var god = [];
 	
 	var card;
-	var length = createPool(four, five, six, ex, god);
+	length = createPool(five, origin, killer, ex, six, god);
+	var id = 0;
 	var roll =[];
 	var id =[];
 	for(var i = 1; i <= 10; i++){
 		var summon = Math.floor(Math.random()* 99);
 		roll.push(summon);
-		if(summon == 1 || summon == 6 || summon == 10){
+		if(summon == 69 || summon == 6 || summon == 9 || summon == 66){
 			var size = getLength(six);
 			summon = Math.floor(Math.random()* (size));
 
 			card = six[summon]['cardId'];
 			id.push(card);
-		}		
+		}
 		else if(summon == 29){
 			var size = getLength(god);
 			summon = Math.floor(Math.random()* (size));
@@ -98,30 +110,39 @@ function multiSummon(){
 			card = god[summon]['cardId'];
 			id.push(card);
 		}
-		else if(summon > 96 && summon <= 99){
+		else if(summon == 21 || summon == 58 || summon == 91 || summon == 55){
+			var size = getLength(killer);
+			summon = Math.floor(Math.random()* (size));
+
+			card = killer[summon]['cardId'];
+			id.push(card);
+		}
+		else if(summon == 77  ){
+			var size = getLength(origin);
+			summon = Math.floor(Math.random()* (size));
+
+			card = origin[summon]['cardId'];
+			id.push(card);
+		}
+		else if(summon == 10 || summon == 20 || summon == 30 || summon == 40 || summon == 50 || summon == 60 || summon == 70 || summon == 80 || summon == 90 || summon == 99){
 			var size = getLength(ex);
 			summon = Math.floor(Math.random()* (size));
 
 			card = ex[summon]['cardId'];
 			id.push(card);
 		}
-		else if(summon > 73 && summon <= 96){
-			var size = getLength(five);
+		else{
+			var size = getLength(five) -1;
 			summon = Math.floor(Math.random()* (size));
+
 
 			card = five[summon]['cardId'];
 			id.push(card);
 		}
-		else{
-			var size = getLength(four);
-			summon = Math.floor(Math.random()* (size));
-
-			card = four[summon]['cardId'];
-			id.push(card);
-		}
 		for(var n in window.tags){
 			if(card == window.tags[n]['cardId']){
-				if(window.tags[n]['tag'] == "ex-6" || window.tags[n]['tag'] == "limited-6" || window.tags[n]['tag'] == "special" || window.tags[n]['tag'] == "killers" || window.tags[n]['tag'] == "saitama"){
+				if(window.tags[n]['tag'] == "ex-5" ||window.tags[n]['tag'] == "ex-6" || window.tags[n]['tag'] == "limited-6" || window.tags[n]['tag'] == "killers" || window.tags[n]['tag'] == "pvp-reward"|| window.tags[n]['tag'] == "origin" || window.tags[n]['tag'] == "god"
+			|| window.tags[n]['tag'] == "saitama" || window.tags[n]['tag'] == "kami-destroyer" || window.tags[n]['cardId'] == "20050306" || window.tags[n]['cardId'] == "20050305"){
 					card = card + '_6';
 				}
 			}
@@ -151,23 +172,25 @@ function showRates(){
 }
 
 
-function createPool(four, five, six, ex, god){
+function createPool(five, origin, killer, ex, six, god){
 	var length = 0;
-	for(var n in window.tags){
-		if(window.tags[n]['rare'] == "4"){
-			four.push(window.tags[n]);
-		}
-		else if(window.tags[n]['tag'] == 'ex' || window.tags[n]['tag'] == 'pvp-ex'){
+	for(var n in window.tags){		
+		if(window.tags[n]['tag'] == 'ex-5'){
 			ex.push(window.tags[n]); 
 		}
-		else if(window.tags[n]['tag'] == 'ex-6' || window.tags[n]['tag'] == 'killers'){
+		else if(window.tags[n]['tag'] == 'ex-6' || window.tags[n]['tag'] == 'limited-6'){
 			six.push(window.tags[n]);
 		}
-		else if(window.tags[n]['tag'] == 'god'){
+		else if(window.tags[n]['tag'] == 'origin'){
+			origin.push(window.tags[n]);
+		}
+		else if(window.tags[n]['tag'] == 'kami-destroyer' || window.tags[n]['tag'] == 'killers'){
+			killer.push(window.tags[n]);
+		}
+		else if(window.tags[n]['tag'] == 'god' || window.tags[n]['tag'] == "pvp-reward"){
 			god.push(window.tags[n]);
 		}
-		else if(window.tags[n]['rare'] == '5' && window.tags[n]['cardId'] != "20040118" && window.tags[n]['tag'] != "special" && window.tags[n]['tag'] != 'event'
-			&& window.tags[n]['tag'] != 'pmiles'){
+		else if(window.tags[n]['rare'] == '5' && window.tags[n]['cardId']){
 			five.push(window.tags[n]);
 		}
 		length++;

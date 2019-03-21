@@ -12875,7 +12875,7 @@ window.tags=[
 {
           "cardId": "20031019",
           "rare": "5",
-          "tag": "special",
+          "tag": "limited-6",
           "skill1damage": "-",
           "skill2damage": "-",
           "nickname": "",
@@ -12896,7 +12896,7 @@ window.tags=[
 {
           "cardId": "20031020",
           "rare": "5",
-          "tag": "special",
+          "tag": "limited-6",
           "skill1damage": "-",
           "skill2damage": "-",
           "nickname": "",
@@ -13589,7 +13589,7 @@ window.tags=[
 {
           "cardId": "20031217",
           "rare": "5",
-          "tag": "special",
+          "tag": "limited-6",
           "skill1damage": "-",
           "skill2damage": "-",
           "nickname": "",
@@ -13610,7 +13610,7 @@ window.tags=[
 {
           "cardId": "20031218",
           "rare": "5",
-          "tag": "special",
+          "tag": "limited-6",
           "skill1damage": "-",
           "skill2damage": "-",
           "nickname": "",
@@ -14009,7 +14009,7 @@ window.tags=[
 {
           "cardId": "20040118",
           "rare": "5",
-          "tag": "fp",
+          "tag": "limited-6",
           "skill1damage": "-",
           "skill2damage": "-",
           "nickname": "",
@@ -14681,7 +14681,7 @@ window.tags=[
 {
           "cardId": "20040318",
           "rare": "5",
-          "tag": "special",
+          "tag": "limited-6",
           "skill1damage": "-",
           "skill2damage": "-",
           "nickname": "",
@@ -16380,7 +16380,7 @@ window.tags=[
 
 },
 {
-          "cardId": "20040909",
+          "cardId": "20040910",
           "rare": "5",
           "tag": "pvp-reward",
           "skill1damage": "-",
@@ -17222,7 +17222,7 @@ window.tags=[
 {
           "cardId": "20050113",
           "rare": "5",
-          "tag": "origins",
+          "tag": "origin",
           "skill1damage": "3672597",
           "skill2damage": "",
           "nickname": "Origin Minato",
