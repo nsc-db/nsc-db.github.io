@@ -2564,6 +2564,24 @@
           "category": "0"
         },
         {
+          "cardBehaveAffectId": "10061",
+          "timing": "1",
+          "func": "20",
+          "params": "187,0",
+          "comp": "0",
+          "compParams": "0",
+          "category": "0"
+        },
+        {
+          "cardBehaveAffectId": "10062",
+          "timing": "1",
+          "func": "20",
+          "params": "187,1",
+          "comp": "0",
+          "compParams": "0",
+          "category": "0"
+        },
+        {
           "cardBehaveAffectId": "10063",
           "timing": "1",
           "func": "20",
@@ -4949,6 +4967,24 @@
           "category": "0"
         },
         {
+          "cardBehaveAffectId": "15031015",
+          "timing": "1",
+          "func": "90",
+          "params": "0,0",
+          "comp": "5",
+          "compParams": "200",
+          "category": "0"
+        },
+        {
+          "cardBehaveAffectId": "15031016",
+          "timing": "1",
+          "func": "90",
+          "params": "0,0",
+          "comp": "5",
+          "compParams": "201",
+          "category": "0"
+        },
+        {
           "cardBehaveAffectId": "16000000",
           "timing": "1",
           "func": "16",
@@ -6440,6 +6476,33 @@
           "params": "130,0",
           "comp": "9",
           "compParams": "17",
+          "category": "0"
+        },
+        {
+          "cardBehaveAffectId": "20050077",
+          "timing": "1",
+          "func": "20",
+          "params": "200,0",
+          "comp": "26",
+          "compParams": "3",
+          "category": "0"
+        },
+        {
+          "cardBehaveAffectId": "20050078",
+          "timing": "1",
+          "func": "20",
+          "params": "201,0",
+          "comp": "26",
+          "compParams": "3",
+          "category": "0"
+        },
+        {
+          "cardBehaveAffectId": "20050079",
+          "timing": "1",
+          "func": "20",
+          "params": "130,0",
+          "comp": "9",
+          "compParams": "2,116",
           "category": "0"
         },
         {

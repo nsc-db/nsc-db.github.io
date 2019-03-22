@@ -2153,6 +2153,12 @@
           "itemImgId": "23"
         },
         {
+          "shopExchangeItemId": "1039",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
           "shopExchangeItemId": "2000",
           "itemName": "忍交換券(8月)",
           "measure": null,
@@ -2484,6 +2490,12 @@
         },
         {
           "shopExchangeItemId": "3901",
+          "itemName": "連合戦交換券",
+          "measure": "0",
+          "itemImgId": "3900"
+        },
+        {
+          "shopExchangeItemId": "3902",
           "itemName": "連合戦交換券",
           "measure": "0",
           "itemImgId": "3900"

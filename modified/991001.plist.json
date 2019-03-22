@@ -72969,6 +72969,211 @@
           "message": "……ハイ"
         },
         {
+          "scriptMessageId": "27103",
+          "speechCharactorId": "251",
+          "message": "これでもう\r\nウゴウノシュウってのじゃねェ…！！！"
+        },
+        {
+          "scriptMessageId": "27104",
+          "speechCharactorId": "251",
+          "message": "今ここにあるのは…\r\n忍連合軍……の術だ…！！！"
+        },
+        {
+          "scriptMessageId": "27105",
+          "speechCharactorId": "251",
+          "message": "…超スゲー忍史上\r\n最高最強の忍術だってばよ！"
+        },
+        {
+          "scriptMessageId": "27106",
+          "speechCharactorId": "251",
+          "message": "無限月読に勝る術だ…\r\n覚えとけ！！！"
+        },
+        {
+          "scriptMessageId": "27107",
+          "speechCharactorId": "251",
+          "message": "この術でお前らを止める！！"
+        },
+        {
+          "scriptMessageId": "27108",
+          "speechCharactorId": "182",
+          "message": "お前らがここで\r\nオレ達を止めようが無意味なことに\r\nなぜ気付かない"
+        },
+        {
+          "scriptMessageId": "27109",
+          "speechCharactorId": "182",
+          "message": "その術とて\r\nこの戦争の後には脆く崩れ"
+        },
+        {
+          "scriptMessageId": "27110",
+          "speechCharactorId": "182",
+          "message": "そちら側の誰かがまた\r\nオレ達と同じことをするようになる"
+        },
+        {
+          "scriptMessageId": "27111",
+          "speechCharactorId": "374",
+          "message": "戦争中にあるないと\r\n言い合うのも無意味だ…"
+        },
+        {
+          "scriptMessageId": "27112",
+          "speechCharactorId": "374",
+          "message": "そろそろ決着をつけるか"
+        },
+        {
+          "scriptMessageId": "27113",
+          "speechCharactorId": "251",
+          "message": "意見が割れた時は多数決\r\nってのが決まりだろ…だいたい"
+        },
+        {
+          "scriptMessageId": "27114",
+          "speechCharactorId": "182",
+          "message": "いい案だ…\r\nなら―――"
+        },
+        {
+          "scriptMessageId": "27115",
+          "speechCharactorId": "182",
+          "message": "…一人残らず消してからにしよう"
+        },
+        {
+          "scriptMessageId": "27116",
+          "speechCharactorId": "374",
+          "message": "信じられんな…"
+        },
+        {
+          "scriptMessageId": "27117",
+          "speechCharactorId": "182",
+          "message": "ん！？"
+        },
+        {
+          "scriptMessageId": "27118",
+          "speechCharactorId": "374",
+          "message": "あの五里の忍共が\r\nここまでの連携をやってみせるとはな…"
+        },
+        {
+          "scriptMessageId": "27119",
+          "speechCharactorId": "374",
+          "message": "ナルトのガキ…\r\n九尾のチャクラを渡してるのか？"
+        },
+        {
+          "scriptMessageId": "27120",
+          "speechCharactorId": "374",
+          "message": "小娘がナルトの力を受けて\r\nずいぶんと強くなったな…"
+        },
+        {
+          "scriptMessageId": "27121",
+          "speechCharactorId": "182",
+          "message": "…想い…絆…\r\n繋がりか……"
+        },
+        {
+          "scriptMessageId": "27122",
+          "speechCharactorId": "182",
+          "message": "……お前らに\r\nいいことを教えてやる…"
+        },
+        {
+          "scriptMessageId": "27123",
+          "speechCharactorId": "182",
+          "message": "その繋がりが今のオレを作ったのだ"
+        },
+        {
+          "scriptMessageId": "27124",
+          "speechCharactorId": "182",
+          "message": "それは強い呪いでもあることを\r\n知っておけ…！！"
+        },
+        {
+          "scriptMessageId": "27125",
+          "speechCharactorId": "374",
+          "message": "これからだぞ……\r\n楽しいのは！"
+        },
+        {
+          "scriptMessageId": "27126",
+          "speechCharactorId": "587",
+          "message": "皆さん！！\r\n力を合わせていきますよ！！"
+        },
+        {
+          "scriptMessageId": "27127",
+          "speechCharactorId": "194",
+          "message": "ナルト、アンタは回復っ！！"
+        },
+        {
+          "scriptMessageId": "27128",
+          "speechCharactorId": "374",
+          "message": "十尾が手加減無しとは\r\nナルトの中に自分の中と同じ\r\n尾獣達を見てあせったか…"
+        },
+        {
+          "scriptMessageId": "27129",
+          "speechCharactorId": "165",
+          "message": "…ナ…ナルトを狙ってる！！？"
+        },
+        {
+          "scriptMessageId": "27130",
+          "speechCharactorId": "194",
+          "message": "ここへ来て今さら\r\n私達がブレても\r\nどうしようもないでしょ…！"
+        },
+        {
+          "scriptMessageId": "27131",
+          "speechCharactorId": "194",
+          "message": "私はナルトを全快させる！\r\n私達は私達のやるべきことをするのよ！"
+        },
+        {
+          "scriptMessageId": "27132",
+          "speechCharactorId": "194",
+          "message": "どうせ死ぬなら…\r\n何もしないより…\r\n自分なりに戦って死ぬ！！"
+        },
+        {
+          "scriptMessageId": "27133",
+          "speechCharactorId": "251",
+          "message": "回復ありがとサクラちゃん！\r\n今度はサクラちゃんが休んでくれ"
+        },
+        {
+          "scriptMessageId": "27134",
+          "speechCharactorId": "251",
+          "message": "行くぞサスケ！"
+        },
+        {
+          "scriptMessageId": "27135",
+          "speechCharactorId": "194",
+          "message": "私が二人に届かない\r\nか弱い女だと思ってる？"
+        },
+        {
+          "scriptMessageId": "27136",
+          "speechCharactorId": "194",
+          "message": "三忍の綱手様だけ\r\n弟子の鍛え方が下手なわけないでしょ…"
+        },
+        {
+          "scriptMessageId": "27137",
+          "speechCharactorId": "251",
+          "message": "よっしゃ！！第七班\r\nここに復活だってばよ！！"
+        },
+        {
+          "scriptMessageId": "27138",
+          "speechCharactorId": "335",
+          "message": "足を引っぱるなよナルト"
+        },
+        {
+          "scriptMessageId": "27139",
+          "speechCharactorId": "194",
+          "message": "そうよ！\r\n細かいこと言ってると\r\n私が火影の座ぶん獲るわよ！"
+        },
+        {
+          "scriptMessageId": "27140",
+          "speechCharactorId": "251",
+          "message": "え～～～！\r\nサクラちゃんまでその気ィ！？"
+        },
+        {
+          "scriptMessageId": "27141",
+          "speechCharactorId": "184",
+          "message": "まさか…もう一度\r\n口寄せ三竦みが見られるとは思わなかったな！"
+        },
+        {
+          "scriptMessageId": "27142",
+          "speechCharactorId": "264",
+          "message": "新たな時代よ！\r\n行けい！！！"
+        },
+        {
+          "scriptMessageId": "27143",
+          "speechCharactorId": "335",
+          "message": "燃え尽きろ…"
+        },
+        {
           "scriptMessageId": "40001",
           "speechCharactorId": "178",
           "message": "絶望しかないこの世界に\r\n存在する価値はない"

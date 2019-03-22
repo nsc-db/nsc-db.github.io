@@ -1829,6 +1829,16 @@
           "type": "2"
         },
         {
+          "cardUnusualId": "187",
+          "category": "3",
+          "iconId": "1207",
+          "name": "防壁",
+          "description": "自身と味方に対する単体スキル攻撃を全て無効化する",
+          "subScore": "0",
+          "color": "14211288",
+          "type": "2"
+        },
+        {
           "cardUnusualId": "188",
           "category": "3",
           "iconId": "1208",
@@ -1927,5 +1937,25 @@
           "subScore": "0",
           "color": "13882323",
           "type": "3"
+        },
+        {
+          "cardUnusualId": "200",
+          "category": "3",
+          "iconId": "1220",
+          "name": "戦闘モード",
+          "description": "素早さ&amp;スキルダメージアップ、 スキル発動速度アップ、チャクラ消費量",
+          "subScore": "0",
+          "color": "14423100",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "201",
+          "category": "3",
+          "iconId": "1221",
+          "name": "治癒モード",
+          "description": "戦闘モードのサクラが生存している限り何度でも耐える",
+          "subScore": "0",
+          "color": "3911541",
+          "type": "2"
         }
       ]
