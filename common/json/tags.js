@@ -17829,6 +17829,27 @@ window.tags=[
 
 },
 {
+          "cardId": "20050313",
+          "rare": "5",
+          "tag": "ex-6",
+          "skill1damage": "",
+          "skill2damage": "",
+          "nickname": "EX Sai",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
+},
+{
           "cardId": "20050314",
           "rare": "5",
           "tag": "ex-6",
@@ -17871,6 +17892,27 @@ window.tags=[
 
 },
 {
+          "cardId": "20050316",
+          "rare": "5",
+          "tag": "origin",
+          "skill1damage": "",
+          "skill2damage": "",
+          "nickname": "Origin Sakura",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": "",
+          "buff": "selfskilldamage",
+          "debuff": "enemyskilldamage,enemydef,weak",
+          "survive": "revive,withstand,allskillimmune,damagereduction",
+          "health": "",
+          "special": "statusinflict,additional",
+          "positivestate": "resurrection.",
+          "negativestate": "greak",
+          "godstate": ""
+
+},
+{
           "cardId": "20050318",
           "rare": "5",
           "tag": "killers",
@@ -17890,5 +17932,26 @@ window.tags=[
           "negativestate": "bind",
           "godstate": ""
 
-}
+},
+{
+          "cardId": "20050313",
+          "rare": "5",
+          "tag": "pmiles",
+          "skill1damage": "",
+          "skill2damage": "",
+          "nickname": "Pmiles Kid Sasuke",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
+},
 ]

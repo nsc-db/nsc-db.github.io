@@ -5832,6 +5832,30 @@ window.skillname=[
           "name": "いざっ勝負だ！！"
         },
         {
+          "cardBattleSkillNameId": "2661",
+          "name": "超神偽画"
+        },
+        {
+          "cardBattleSkillNameId": "2662",
+          "name": "やってみろ"
+        },
+        {
+          "cardBattleSkillNameId": "2663",
+          "name": "口寄せ・蛞蝓乱舞"
+        },
+        {
+          "cardBattleSkillNameId": "2664",
+          "name": "今の私なら…！"
+        },
+        {
+          "cardBattleSkillNameId": "2673",
+          "name": "手裏剣お稽古…修業！！"
+        },
+        {
+          "cardBattleSkillNameId": "2674",
+          "name": "よ――し…オレだって！"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },

@@ -11063,6 +11063,45 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "870",
+          "name": "創生の筆筋",
+          "description": "Konoha ATK and Skill Damage +80%",
+          "effectIdx1": "11079",
+          "effectIdx2": "694",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "871",
+          "name": "兄の背を追う者",
+          "description": "Konoha ATK, DEF and SPD +50%",
+          "effectIdx1": "11049",
+          "effectIdx2": "12049",
+          "effectIdx3": "13049",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "872",
+          "name": "桜色の医療術者",
+          "description": "Five Village HP and Skill Damage +80%",
+          "effectIdx1": "2144",
+          "effectIdx2": "2145",
+          "effectIdx3": "0",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

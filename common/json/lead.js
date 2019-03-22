@@ -11076,6 +11076,19 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "870",
+          "name": "創生の筆筋",
+          "description": "木ノ葉隠れの里所属の攻撃力とスキルダメージを80%アップする",
+          "effectIdx1": "11079",
+          "effectIdx2": "694",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

@@ -18945,6 +18945,60 @@ window.ability=[
           "effectIdx3": "2127"
         },
         {
+          "abilityId": "2165",
+          "abilityName": "Brother's Feelings",
+          "abilityDescription": "For 3 turns +150% Chance to Dodge Skills. SPD +120% and Cast Speed +1 when HP is above 80%",
+          "abilityEffectDescription": "3回行動まで150%の確率でスキル回避、HP80%以上の時に素早さ120%アップ＆スキル発動速度1段階アップ",
+          "effectIdx1": "1913",
+          "effectIdx2": "1833",
+          "effectIdx3": "1089"
+        },
+        {
+          "abilityId": "2166",
+          "abilityName": "Picture of Nirvana",
+          "abilityDescription": "For 3 turns Chakra Cost -50%, when HP reach 0, withstand 1 attack ",
+          "abilityEffectDescription": "3回行動までチャクラ消費半減、HP0以下で1度だけ耐える",
+          "effectIdx1": "359",
+          "effectIdx2": "312",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2167",
+          "abilityName": "Opening Power",
+          "abilityDescription": "Start the battle under 'Battle Mode' or 'Healing Mode'. Switch Mode when Defending. (Either Mode is given when not in a Mode)",
+          "abilityEffectDescription": "ﾊﾞﾄﾙ開始時に長い間戦闘ﾓｰﾄﾞか治癒ﾓｰﾄﾞ付与、防御時にﾓｰﾄﾞﾁｪﾝｼﾞ※非ﾓｰﾄﾞ時はどちらかのﾓｰﾄﾞ付与",
+          "effectIdx1": "2134",
+          "effectIdx2": "2135",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2168",
+          "abilityName": "Lifesaving Desire",
+          "abilityDescription": "+90% Damage Cut, SPD +200% and Withstand 3 attack when HP reach 0 if there's a 'Destroyer' enemy",
+          "abilityEffectDescription": "敵の滅キャラからのダメージ90%カット、敵に滅キャラがいると素早さ200%アップ、HP0以下で3回まで耐える",
+          "effectIdx1": "2137",
+          "effectIdx2": "2138",
+          "effectIdx3": "1789"
+        },
+        {
+          "abilityId": "2169",
+          "abilityName": "Police Dream",
+          "abilityDescription": "Chakra +50 and Chakra Recovery +10%",
+          "abilityEffectDescription": "最大チャクラ量が50アップ、行動後にチャクラが10%回復する",
+          "effectIdx1": "2141",
+          "effectIdx2": "2142",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2170",
+          "abilityName": "Gentle Brother's Teaching",
+          "abilityDescription": "Chance to Dodge Skills when HP is above 80%",
+          "abilityEffectDescription": "HPが80%以上の時、スキルを確率で回避する",
+          "effectIdx1": "2143",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

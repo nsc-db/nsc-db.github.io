@@ -7292,6 +7292,36 @@ window.skillname=[
           "eng": "This is it!!"
         },
         {
+          "cardBattleSkillNameId": "2661",
+          "name": "超神偽画",
+          "eng": "God Imitating Drawing"
+        },
+        {
+          "cardBattleSkillNameId": "2662",
+          "name": "やってみろ",
+          "eng": "Let Me Try"
+        },
+        {
+          "cardBattleSkillNameId": "2663",
+          "name": "口寄せ・蛞蝓乱舞",
+          "eng": "Summoning: Slug Dance"
+        },
+        {
+          "cardBattleSkillNameId": "2664",
+          "name": "今の私なら…！",
+          "eng": "As I'am Now...!"
+        },
+        {
+          "cardBattleSkillNameId": "2673",
+          "name": "手裏剣お稽古…修業！！",
+          "eng": "Shuriken Lesson.... Training!!"
+        },
+        {
+          "cardBattleSkillNameId": "2674",
+          "name": "よ――し…オレだって！",
+          "eng": "Alright...!"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！",
           "eng": ""
