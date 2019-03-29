@@ -18962,6 +18962,24 @@
           "effectIdx3": "2127"
         },
         {
+          "abilityId": "2163",
+          "abilityName": "受け取りし九尾チャクラ",
+          "abilityDescription": "バトル開始時にチャクラ50%回復、3回行動するまで行動後チャクラ50%回復",
+          "abilityEffectDescription": "バトル開始時にチャクラ50%回復、3回行動するまで行動後チャクラ50%回復",
+          "effectIdx1": "1624",
+          "effectIdx2": "1115",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2164",
+          "abilityName": "日向の矜持",
+          "abilityDescription": "キャンセル無効、HP0以下で3回まで耐える",
+          "abilityEffectDescription": "キャンセル無効、HP0以下で3回まで耐える",
+          "effectIdx1": "1789",
+          "effectIdx2": "1751",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "2165",
           "abilityName": "兄への想い",
           "abilityDescription": "3回行動まで150%の確率でスキル回避、HP80%以上の時に素早さ120%アップ＆スキル発動速度1段階アップ",
@@ -19014,6 +19032,24 @@
           "effectIdx1": "2143",
           "effectIdx2": "0",
           "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2177",
+          "abilityName": "希望を繋ぐ力",
+          "abilityDescription": "HP0以下で3回まで耐える、最大チャクラ量100アップ、スキップ無効※耐性を無視して行動を1回無駄にされない",
+          "abilityEffectDescription": "HP0以下で3回まで耐える、最大チャクラ量100アップ、スキップ無効※耐性を無視して行動を1回無駄にされない",
+          "effectIdx1": "1789",
+          "effectIdx2": "813",
+          "effectIdx3": "2160"
+        },
+        {
+          "abilityId": "2178",
+          "abilityName": "二つ名の再臨",
+          "abilityDescription": "1回行動まで素早さ100%アップ、敵に無所属がいる場合さらに素早さ200%アップ＆スキル発動速度2段階アップ",
+          "abilityEffectDescription": "1回行動まで素早さ100%アップ、敵に無所属がいる場合さらに素早さ200%アップ＆スキル発動速度2段階アップ",
+          "effectIdx1": "1542",
+          "effectIdx2": "2017",
+          "effectIdx3": "2018"
         },
         {
           "abilityId": "10000",
@@ -19295,6 +19331,15 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "11701",
+          "abilityName": "耐性無視ダメージを0",
+          "abilityDescription": "耐性無視ダメージを0",
+          "abilityEffectDescription": "耐性無視ダメージを0",
+          "effectIdx1": "1750",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "11800",
           "abilityName": "3回行動するまで素早さ333%アップ",
           "abilityDescription": "3回行動するまで素早さ333%アップ",
@@ -19345,6 +19390,15 @@
           "abilityDescription": "先制攻撃",
           "abilityEffectDescription": "先制攻撃",
           "effectIdx1": "2068",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "12000",
+          "abilityName": "高確率で通常攻撃を回避",
+          "abilityDescription": "高確率で通常攻撃を回避",
+          "abilityEffectDescription": "高確率で通常攻撃を回避",
+          "effectIdx1": "300013",
           "effectIdx2": "0",
           "effectIdx3": "0"
         },

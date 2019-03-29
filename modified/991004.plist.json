@@ -3893,10 +3893,58 @@
           "speechCharactorName": "干柿鬼鮫"
         },
         {
+          "speechCharactorId": "655",
+          "cardId": "21000306",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "野良ラーメン"
+        },
+        {
+          "speechCharactorId": "656",
+          "cardId": "21000308",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "しょうゆラーメン"
+        },
+        {
+          "speechCharactorId": "657",
+          "cardId": "21000309",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "マツタケ味"
+        },
+        {
+          "speechCharactorId": "658",
+          "cardId": "21000310",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "牛テールスープ味"
+        },
+        {
+          "speechCharactorId": "659",
+          "cardId": "21000315",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "伝説のラーメン"
+        },
+        {
+          "speechCharactorId": "660",
+          "cardId": "21000312",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "じゃがﾊﾞﾀｰﾗｰﾒﾝ"
+        },
+        {
+          "speechCharactorId": "661",
+          "cardId": "21000311",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "ｼｰﾌｰﾄﾞﾗｰﾒﾝ"
+        },
+        {
           "speechCharactorId": "662",
           "cardId": "21000061",
           "speechCharactorImgId": "0",
           "speechCharactorName": "\"根\"の暗部"
+        },
+        {
+          "speechCharactorId": "664",
+          "cardId": "20050407",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "はたけカカシ"
         },
         {
           "speechCharactorId": "1000",

@@ -1053,5 +1053,71 @@
           "hpGaugeHeight": "10",
           "motionType": "1",
           "attackScriptName": "skip"
+        },
+        {
+          "modelId": "8011",
+          "hpGaugeHeight": "10",
+          "motionType": "1",
+          "attackScriptName": "skip"
+        },
+        {
+          "modelId": "8012",
+          "hpGaugeHeight": "10",
+          "motionType": "1",
+          "attackScriptName": "skip"
+        },
+        {
+          "modelId": "8013",
+          "hpGaugeHeight": "10",
+          "motionType": "1",
+          "attackScriptName": "skip"
+        },
+        {
+          "modelId": "8014",
+          "hpGaugeHeight": "10",
+          "motionType": "1",
+          "attackScriptName": "skip"
+        },
+        {
+          "modelId": "8015",
+          "hpGaugeHeight": "10",
+          "motionType": "1",
+          "attackScriptName": "skip"
+        },
+        {
+          "modelId": "8016",
+          "hpGaugeHeight": "10",
+          "motionType": "1",
+          "attackScriptName": "skip"
+        },
+        {
+          "modelId": "8017",
+          "hpGaugeHeight": "10",
+          "motionType": "1",
+          "attackScriptName": "skip"
+        },
+        {
+          "modelId": "8018",
+          "hpGaugeHeight": "10",
+          "motionType": "1",
+          "attackScriptName": "skip"
+        },
+        {
+          "modelId": "8019",
+          "hpGaugeHeight": "10",
+          "motionType": "1",
+          "attackScriptName": "skip"
+        },
+        {
+          "modelId": "8020",
+          "hpGaugeHeight": "10",
+          "motionType": "1",
+          "attackScriptName": "skip"
+        },
+        {
+          "modelId": "8021",
+          "hpGaugeHeight": "10",
+          "motionType": "1",
+          "attackScriptName": "skip"
         }
       ]

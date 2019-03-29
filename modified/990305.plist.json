@@ -1229,6 +1229,90 @@
           "materialImageId": "211"
         },
         {
+          "materialId": "212",
+          "materialName": "醤油スープ",
+          "materialRare": "4",
+          "materialImageId": "212"
+        },
+        {
+          "materialId": "213",
+          "materialName": "とんこつスープ",
+          "materialRare": "4",
+          "materialImageId": "213"
+        },
+        {
+          "materialId": "214",
+          "materialName": "みそスープ",
+          "materialRare": "4",
+          "materialImageId": "214"
+        },
+        {
+          "materialId": "215",
+          "materialName": "しおスープ",
+          "materialRare": "4",
+          "materialImageId": "215"
+        },
+        {
+          "materialId": "216",
+          "materialName": "メンマ",
+          "materialRare": "4",
+          "materialImageId": "216"
+        },
+        {
+          "materialId": "217",
+          "materialName": "チャーシュー",
+          "materialRare": "4",
+          "materialImageId": "217"
+        },
+        {
+          "materialId": "218",
+          "materialName": "ナルト",
+          "materialRare": "4",
+          "materialImageId": "218"
+        },
+        {
+          "materialId": "219",
+          "materialName": "紅しょうが",
+          "materialRare": "4",
+          "materialImageId": "219"
+        },
+        {
+          "materialId": "220",
+          "materialName": "きくらげ",
+          "materialRare": "4",
+          "materialImageId": "220"
+        },
+        {
+          "materialId": "221",
+          "materialName": "バター",
+          "materialRare": "4",
+          "materialImageId": "221"
+        },
+        {
+          "materialId": "222",
+          "materialName": "コーン",
+          "materialRare": "4",
+          "materialImageId": "222"
+        },
+        {
+          "materialId": "223",
+          "materialName": "ネギ",
+          "materialRare": "4",
+          "materialImageId": "223"
+        },
+        {
+          "materialId": "224",
+          "materialName": "煮たまご",
+          "materialRare": "4",
+          "materialImageId": "224"
+        },
+        {
+          "materialId": "225",
+          "materialName": "海苔",
+          "materialRare": "4",
+          "materialImageId": "225"
+        },
+        {
           "materialId": "306",
           "materialName": "???",
           "materialRare": "4",

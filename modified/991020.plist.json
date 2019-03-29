@@ -4389,5 +4389,21 @@
           "color": "0",
           "effectIds": "0",
           "equipStatus": "3"
+        },
+        {
+          "titleId": "5261",
+          "title": "“写輪眼のカカシ”",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5262",
+          "title": "オレ達で世界を救うぞ！",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
         }
       ]

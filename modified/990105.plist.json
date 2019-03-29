@@ -5831,6 +5831,14 @@
           "name": "いざっ勝負だ！！"
         },
         {
+          "cardBattleSkillNameId": "2659",
+          "name": "八卦掌・天網転渦"
+        },
+        {
+          "cardBattleSkillNameId": "2660",
+          "name": "力が湧いてくる…！"
+        },
+        {
           "cardBattleSkillNameId": "2661",
           "name": "超神偽画"
         },
@@ -5853,6 +5861,14 @@
         {
           "cardBattleSkillNameId": "2674",
           "name": "よ――し…オレだって！"
+        },
+        {
+          "cardBattleSkillNameId": "2681",
+          "name": "須佐能乎・空割の太刀"
+        },
+        {
+          "cardBattleSkillNameId": "2682",
+          "name": "オレ達で世界を救うぞ！"
         },
         {
           "cardBattleSkillNameId": "10136",
@@ -5989,5 +6005,21 @@
         {
           "cardBattleSkillNameId": "20602",
           "name": "ガサ…ガサ…"
+        },
+        {
+          "cardBattleSkillNameId": "20603",
+          "name": "麺の怒り"
+        },
+        {
+          "cardBattleSkillNameId": "20900",
+          "name": "単体攻撃"
+        },
+        {
+          "cardBattleSkillNameId": "20901",
+          "name": "全体攻撃"
+        },
+        {
+          "cardBattleSkillNameId": "20902",
+          "name": "単体攻撃＋？"
         }
       ]

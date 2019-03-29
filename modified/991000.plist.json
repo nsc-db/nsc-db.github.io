@@ -7492,5 +7492,15 @@
           "appUiId": "1502",
           "uiKey": "PveEndError",
           "text": "昇級試験が更新されました"
+        },
+        {
+          "appUiId": "1511",
+          "uiKey": "MissionRank90",
+          "text": "選択肢"
+        },
+        {
+          "appUiId": "1512",
+          "uiKey": "MissionRank91",
+          "text": "エンド"
         }
       ]

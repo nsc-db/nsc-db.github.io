@@ -2663,6 +2663,24 @@
           "category": "0"
         },
         {
+          "cardBehaveAffectId": "10074",
+          "timing": "1",
+          "func": "20",
+          "params": "198,0",
+          "comp": "0",
+          "compParams": "0",
+          "category": "0"
+        },
+        {
+          "cardBehaveAffectId": "10077",
+          "timing": "1",
+          "func": "20",
+          "params": "202,0",
+          "comp": "0",
+          "compParams": "0",
+          "category": "0"
+        },
+        {
           "cardBehaveAffectId": "1000001",
           "timing": "5",
           "func": "27",
@@ -4328,6 +4346,24 @@
           "category": "0"
         },
         {
+          "cardBehaveAffectId": "9010024",
+          "timing": "1",
+          "func": "41",
+          "params": "3,0",
+          "comp": "9",
+          "compParams": "16",
+          "category": "0"
+        },
+        {
+          "cardBehaveAffectId": "9010025",
+          "timing": "1",
+          "func": "41",
+          "params": "28,0",
+          "comp": "9",
+          "compParams": "16",
+          "category": "0"
+        },
+        {
           "cardBehaveAffectId": "9020000",
           "timing": "5",
           "func": "41",
@@ -5228,6 +5264,15 @@
           "category": "0"
         },
         {
+          "cardBehaveAffectId": "20010016",
+          "timing": "1",
+          "func": "20",
+          "params": "202,0",
+          "comp": "4",
+          "compParams": "1,2,3,5,6,",
+          "category": "0"
+        },
+        {
           "cardBehaveAffectId": "20020000",
           "timing": "1",
           "func": "20",
@@ -5792,6 +5837,15 @@
           "params": "200,0",
           "comp": "17",
           "compParams": "1",
+          "category": "0"
+        },
+        {
+          "cardBehaveAffectId": "20047101",
+          "timing": "4",
+          "func": "10",
+          "params": "200,0",
+          "comp": "4",
+          "compParams": "1,2,3,5,6,",
           "category": "0"
         },
         {

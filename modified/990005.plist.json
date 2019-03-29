@@ -699,6 +699,16 @@
           "enemyEffects": "50001,"
         },
         {
+          "battleFieldEffectId": "79",
+          "name": "託された意志 超絶チャレンジ",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "12120,300014,1814,",
+          "enemyEffects": null
+        },
+        {
           "battleFieldEffectId": "10001",
           "name": "始球空間",
           "category": "3",

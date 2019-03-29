@@ -72629,6 +72629,76 @@
           "message": "勝負アリです！"
         },
         {
+          "scriptMessageId": "27021",
+          "speechCharactorId": "655",
+          "message": "オレを仲間にしてえなんて…\r\nいい度胸してやがるぜ！"
+        },
+        {
+          "scriptMessageId": "27022",
+          "speechCharactorId": "655",
+          "message": "お前のダシの強さ\r\n見せてみろ！"
+        },
+        {
+          "scriptMessageId": "27023",
+          "speechCharactorId": "656",
+          "message": "手加減はしないよ"
+        },
+        {
+          "scriptMessageId": "27024",
+          "speechCharactorId": "657",
+          "message": "おもしろそうなボウズだのォ！"
+        },
+        {
+          "scriptMessageId": "27025",
+          "speechCharactorId": "658",
+          "message": "勝てると思ってんのか、\r\nバカヤロー！コノヤロー！"
+        },
+        {
+          "scriptMessageId": "27026",
+          "speechCharactorId": "659",
+          "message": "じっくり煮込んだトンコツに、\r\n厳選された味噌…"
+        },
+        {
+          "scriptMessageId": "27027",
+          "speechCharactorId": "659",
+          "message": "そして秘伝のタレで漬け込んだ\r\nチャーシューのトッピング"
+        },
+        {
+          "scriptMessageId": "27028",
+          "speechCharactorId": "659",
+          "message": "オレが伝説と呼ばれる理由、\r\nとくとその舌に刻むがいい！"
+        },
+        {
+          "scriptMessageId": "27029",
+          "speechCharactorId": "660",
+          "message": "ラーメンでもねえできそこないに、\r\nオレが負けるかよ！"
+        },
+        {
+          "scriptMessageId": "27030",
+          "speechCharactorId": "660",
+          "message": "かかってこい！"
+        },
+        {
+          "scriptMessageId": "27031",
+          "speechCharactorId": "661",
+          "message": "お前には悪いが…借金のために倒させてもらうぜ！"
+        },
+        {
+          "scriptMessageId": "27032",
+          "speechCharactorId": "660",
+          "message": "じゃがいもとバターの絶妙なハーモニー、思い知るがいい！"
+        },
+        {
+          "scriptMessageId": "27033",
+          "speechCharactorId": "661",
+          "message": "山で食べるシーフードラーメンも格別らしいよ？"
+        },
+        {
+          "scriptMessageId": "27034",
+          "speechCharactorId": "660",
+          "message": "じゃがバターラーメンはどこで食べてもうまい！"
+        },
+        {
           "scriptMessageId": "27035",
           "speechCharactorId": "151",
           "message": "お前があのカカシ班に\r\n配属されるよう"
@@ -73172,6 +73242,186 @@
           "scriptMessageId": "27143",
           "speechCharactorId": "335",
           "message": "燃え尽きろ…"
+        },
+        {
+          "scriptMessageId": "27180",
+          "speechCharactorId": "664",
+          "message": "次元が違いすぎる…\r\nあれはまるで…神だ"
+        },
+        {
+          "scriptMessageId": "27181",
+          "speechCharactorId": "452",
+          "message": "これで最後かもしんねーけど…\r\nやれるだけやってみねーとな"
+        },
+        {
+          "scriptMessageId": "27182",
+          "speechCharactorId": "452",
+          "message": "オレってば密かに螺旋丸以上に\r\nこの術を練習してきたんだってばよ…！\r\nやってみる価値はあんだろが！"
+        },
+        {
+          "scriptMessageId": "27183",
+          "speechCharactorId": "453",
+          "message": "…いいだろう\r\nオレも左目の準備をしておく"
+        },
+        {
+          "scriptMessageId": "27184",
+          "speechCharactorId": "452",
+          "message": "おいろけ\r\n逆ハーレムの術！！！"
+        },
+        {
+          "scriptMessageId": "27185",
+          "speechCharactorId": "454",
+          "message": "効いたァァァ―――！！！"
+        },
+        {
+          "scriptMessageId": "27186",
+          "speechCharactorId": "452",
+          "message": "チャクラの祖だか何だか知らねーが\r\n見たことねーだろこんな術！！"
+        },
+        {
+          "scriptMessageId": "27187",
+          "speechCharactorId": "452",
+          "message": "これが忍の歴史だコノヤロー！！"
+        },
+        {
+          "scriptMessageId": "27188",
+          "speechCharactorId": "664",
+          "message": "意外性ナンバーワン！"
+        },
+        {
+          "scriptMessageId": "27189",
+          "speechCharactorId": "664",
+          "message": "まさかナルトのこのエロ忍術が\r\n世界を救うことになるのか！！！\r\n見てますか！！自来也先生！！！"
+        },
+        {
+          "scriptMessageId": "27190",
+          "speechCharactorId": "664",
+          "message": "…つけ入るスキすら…"
+        },
+        {
+          "scriptMessageId": "27191",
+          "speechCharactorId": "664",
+          "message": "オレは…ただ見ているだけで\r\n何もできないのか…！？"
+        },
+        {
+          "scriptMessageId": "27192",
+          "speechCharactorId": "452",
+          "message": "まだまだァ―！！\r\nぜってー負ける訳には\r\nいかねーんだ！！！"
+        },
+        {
+          "scriptMessageId": "27193",
+          "speechCharactorId": "664",
+          "message": "ナルト…！！"
+        },
+        {
+          "scriptMessageId": "27194",
+          "speechCharactorId": "664",
+          "message": "ナルトが頑張ってる時に\r\n何を感傷に浸ってるんだ…"
+        },
+        {
+          "scriptMessageId": "27195",
+          "speechCharactorId": "664",
+          "message": "今のオレでも…\r\nまだできることはあるハズだ！"
+        },
+        {
+          "scriptMessageId": "27196",
+          "speechCharactorId": "664",
+          "message": "オレにも…まだできることはある…\r\n盾になることぐらいなら！"
+        },
+        {
+          "scriptMessageId": "27197",
+          "speechCharactorId": "182",
+          "message": "間に合え…！"
+        },
+        {
+          "scriptMessageId": "27198",
+          "speechCharactorId": "664",
+          "message": "これは――神威！"
+        },
+        {
+          "scriptMessageId": "27199",
+          "speechCharactorId": "182",
+          "message": "カカシ…お前は当分…こっちに居ろ\r\n……直ぐに…来んじゃねーぞ…"
+        },
+        {
+          "scriptMessageId": "27200",
+          "speechCharactorId": "664",
+          "message": "ど…どうしてだ！？\r\n互いに覚悟はもう……"
+        },
+        {
+          "scriptMessageId": "27201",
+          "speechCharactorId": "664",
+          "message": "お前の力はまだ今ここで必要だ！\r\nなぜ役にも立たない\r\nオレの為に…！？"
+        },
+        {
+          "scriptMessageId": "27202",
+          "speechCharactorId": "182",
+          "message": "そんなことより…敵に…\r\n注意しろ…カカシ…"
+        },
+        {
+          "scriptMessageId": "27203",
+          "speechCharactorId": "144",
+          "message": "オレはさっきナルトに\r\n火影になれっつったんだけどよ"
+        },
+        {
+          "scriptMessageId": "27204",
+          "speechCharactorId": "144",
+          "message": "ただそりゃ七代目だ\r\n六代目火影はお前がなれカカシ"
+        },
+        {
+          "scriptMessageId": "27205",
+          "speechCharactorId": "144",
+          "message": "まだ就任した訳じゃないが\r\n祝いのプレゼントを先にやっとくよ"
+        },
+        {
+          "scriptMessageId": "27206",
+          "speechCharactorId": "144",
+          "message": "…期限付きだが\r\n役にたたないものじゃない…\r\n分かってるよな？"
+        },
+        {
+          "scriptMessageId": "27207",
+          "speechCharactorId": "144",
+          "message": "…そもそも他国にまで轟かせた\r\n自分の勇名を忘れちゃいないだろ？"
+        },
+        {
+          "scriptMessageId": "27208",
+          "speechCharactorId": "144",
+          "message": "“写輪眼のカカシ”って名を！"
+        },
+        {
+          "scriptMessageId": "27209",
+          "speechCharactorId": "664",
+          "message": "オビト…ありがとう…"
+        },
+        {
+          "scriptMessageId": "27210",
+          "speechCharactorId": "664",
+          "message": "一緒に見ていてくれ"
+        },
+        {
+          "scriptMessageId": "27211",
+          "speechCharactorId": "664",
+          "message": "今度こそ…あいつらを――世界を守る！！"
+        },
+        {
+          "scriptMessageId": "27212",
+          "speechCharactorId": "664",
+          "message": "集まれ、作戦を伝える\r\nこれがオレ達、元第七班としての\r\n最後の任務だ！"
+        },
+        {
+          "scriptMessageId": "27213",
+          "speechCharactorId": "664",
+          "message": "オレ達で世界を救うぞ！"
+        },
+        {
+          "scriptMessageId": "27214",
+          "speechCharactorId": "664",
+          "message": "うん、いい画だ\r\n今のお前らは――"
+        },
+        {
+          "scriptMessageId": "27215",
+          "speechCharactorId": "664",
+          "message": "大好きだ"
         },
         {
           "scriptMessageId": "40001",

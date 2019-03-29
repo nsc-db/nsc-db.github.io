@@ -1939,6 +1939,16 @@
           "type": "3"
         },
         {
+          "cardUnusualId": "198",
+          "category": "3",
+          "iconId": "1218",
+          "name": "塞",
+          "description": "スキル使用不可になる",
+          "subScore": "0",
+          "color": "16719871",
+          "type": "3"
+        },
+        {
           "cardUnusualId": "200",
           "category": "3",
           "iconId": "1220",
@@ -1956,6 +1966,16 @@
           "description": "戦闘モードのサクラが生存している限り何度でも耐える",
           "subScore": "0",
           "color": "3911541",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "202",
+          "category": "4",
+          "iconId": "1222",
+          "name": "神威空間",
+          "description": "素早さ＆術速度減少、カカシは全スキル＆弱体系特殊状態＆地形効果無効、スキルに反撃、3回行動後に全解除",
+          "subScore": "0",
+          "color": "16316664",
           "type": "2"
         }
       ]
