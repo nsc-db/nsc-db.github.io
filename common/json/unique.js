@@ -9708,6 +9708,30 @@ window.unique=[
           "effectIdx4": "0"
         },
         {
+          "crystalOverwriteEffectId": "823",
+          "targetCrystal": "20323",
+          "description": "攻撃力とスキルダメージ100%アップ、6回行動するまでチャクラ消費量70%減少",
+          "charaIds": "702,703",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "264",
+          "effectIdx2": "774",
+          "effectIdx3": "2140",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "824",
+          "targetCrystal": "20324",
+          "description": "状態異常無効、素早さ120アップ、6回行動するまで行動後にHP50%回復",
+          "charaIds": "702,703",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "2133",
+          "effectIdx2": "1381",
+          "effectIdx3": "82",
+          "effectIdx4": "0"
+        },
+        {
           "crystalOverwriteEffectId": "825",
           "targetCrystal": "20325",
           "description": "弱体・状態異常無効、スキル発動速度1段階アップ、2回行動するまで受ける耐性無視スキルのダメージを0",
@@ -9729,6 +9753,30 @@ window.unique=[
           "effectIdx1": "689",
           "effectIdx2": "895",
           "effectIdx3": "1910",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "827",
+          "targetCrystal": "20401",
+          "description": "最大HPと全スキルダメージ100%アップ、高確率でスキル回避、行動後にチャクラが30%回復",
+          "charaIds": "1707",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "684",
+          "effectIdx2": "774",
+          "effectIdx3": "968",
+          "effectIdx4": "820"
+        },
+        {
+          "crystalOverwriteEffectId": "828",
+          "targetCrystal": "20402",
+          "description": "1回行動するまでチャクラ消費0＆受ける耐性無視スキルのダメージを0、素早さ50%アップ",
+          "charaIds": "1707",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1378",
+          "effectIdx2": "1961",
+          "effectIdx3": "13049",
           "effectIdx4": "0"
         }
 ]

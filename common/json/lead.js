@@ -11076,6 +11076,19 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "869",
+          "name": "想い人より授かりし力",
+          "description": "木ノ葉隠れの里所属のキャラが行動後にHPとチャクラ30%回復",
+          "effectIdx1": "820",
+          "effectIdx2": "300012",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "870",
           "name": "創生の筆筋",
           "description": "木ノ葉隠れの里所属の攻撃力とスキルダメージを80%アップする",
@@ -11085,6 +11098,45 @@ window.lead=[
           "compType": "1",
           "target1Category": "2",
           "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "871",
+          "name": "兄の背を追う者",
+          "description": "木ノ葉隠れの里所属の攻撃力と防御力と素早さを50%アップする",
+          "effectIdx1": "11049",
+          "effectIdx2": "12049",
+          "effectIdx3": "13049",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "872",
+          "name": "桜色の医療術者",
+          "description": "五大隠れ里所属の最大HPとスキルダメージを80%アップする",
+          "effectIdx1": "2144",
+          "effectIdx2": "2145",
+          "effectIdx3": "0",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "876",
+          "name": "顕現せし絆の証",
+          "description": "五大隠れ里所属のスキル発動速度1段階アップ、素早さ70%アップ、全スキルダメージ120%アップ",
+          "effectIdx1": "2161",
+          "effectIdx2": "2162",
+          "effectIdx3": "2163",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
           "target2Category": "0",
           "target2Param": "0"
         },

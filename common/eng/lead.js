@@ -11063,6 +11063,19 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "869",
+          "name": "想い人より授かりし力",
+          "description": "Konoha HP Regen +30%",
+          "effectIdx1": "820",
+          "effectIdx2": "300012",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "870",
           "name": "創生の筆筋",
           "description": "Konoha ATK and Skill Damage +80%",
@@ -11095,6 +11108,19 @@ window.lead=[
           "effectIdx1": "2144",
           "effectIdx2": "2145",
           "effectIdx3": "0",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "876",
+          "name": "顕現せし絆の証",
+          "description": "Five Village Cast Speed +1, SPD +70% and Skill Damage +120%",
+          "effectIdx1": "2161",
+          "effectIdx2": "2162",
+          "effectIdx3": "2163",
           "compType": "0",
           "target1Category": "0",
           "target1Param": "0",
