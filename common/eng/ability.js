@@ -18945,6 +18945,24 @@ window.ability=[
           "effectIdx3": "2127"
         },
         {
+          "abilityId": "2163",
+          "abilityName": "Receiver of the Nine Tails Chakra",
+          "abilityDescription": "Start the Battle with 50% Chakra. For 3 turns, Chakra Recovery +50%",
+          "abilityEffectDescription": "バトル開始時にチャクラ50%回復、3回行動するまで行動後チャクラ50%回復",
+          "effectIdx1": "1624",
+          "effectIdx2": "1115",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2164",
+          "abilityName": "Hyuga's Pride",
+          "abilityDescription": "Immune to cancel, when HP reach 0, withstand 3 attacks",
+          "abilityEffectDescription": "キャンセル無効、HP0以下で3回まで耐える",
+          "effectIdx1": "1789",
+          "effectIdx2": "1751",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "2165",
           "abilityName": "Brother's Feelings",
           "abilityDescription": "For 3 turns +150% Chance to Dodge Skills. SPD +120% and Cast Speed +1 when HP is above 80%",
@@ -18997,6 +19015,24 @@ window.ability=[
           "effectIdx1": "2143",
           "effectIdx2": "0",
           "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2177",
+          "abilityName": "Power to Connect Hope",
+          "abilityDescription": "When HP reach 0, withstand 3 attacks. Chakra +100% and Immune to Skips",
+          "abilityEffectDescription": "HP0以下で3回まで耐える、最大チャクラ量100アップ、スキップ無効※耐性を無視して行動を1回無駄にされない",
+          "effectIdx1": "1789",
+          "effectIdx2": "813",
+          "effectIdx3": "2160"
+        },
+        {
+          "abilityId": "2178",
+          "abilityName": "Second Coming of the Second Name",
+          "abilityDescription": "For 1 turn, SPD +100%, if there's an enemy None, additional +200% SPD and Cast Speed +2",
+          "abilityEffectDescription": "1回行動まで素早さ100%アップ、敵に無所属がいる場合さらに素早さ200%アップ＆スキル発動速度2段階アップ",
+          "effectIdx1": "1542",
+          "effectIdx2": "2017",
+          "effectIdx3": "2018"
         },
         {
           "abilityId": "10000",

@@ -7292,6 +7292,16 @@ window.skillname=[
           "eng": "This is it!!"
         },
         {
+          "cardBattleSkillNameId": "2659",
+          "name": "八卦掌・天網転渦",
+          "eng": "Eight Triagrams: Heaven's Revenge Maelstrom"
+        },
+        {
+          "cardBattleSkillNameId": "2660",
+          "name": "力が湧いてくる…！",
+          "eng": "Surging Power...."
+        },
+        {
           "cardBattleSkillNameId": "2661",
           "name": "超神偽画",
           "eng": "God Imitating Drawing"
@@ -7320,6 +7330,16 @@ window.skillname=[
           "cardBattleSkillNameId": "2674",
           "name": "よ――し…オレだって！",
           "eng": "Alright...!"
+        },
+        {
+          "cardBattleSkillNameId": "2681",
+          "name": "須佐能乎・空割の太刀",
+          "eng": "Susano'o: Heavenly Long Sword"
+        },
+        {
+          "cardBattleSkillNameId": "2682",
+          "name": "オレ達で世界を救うぞ！",
+          "eng": "Let's Save the World!"
         },
         {
           "cardBattleSkillNameId": "10136",

@@ -17887,7 +17887,7 @@ window.tags=[
           "health": "",
           "special": "statusinflict,additional",
           "positivestate": "resurrection.",
-          "negativestate": "greak",
+          "negativestate": "break",
           "godstate": ""
 
 },
@@ -17909,6 +17909,27 @@ window.tags=[
           "special": "statusinflict,additional",
           "positivestate": "resurrection.",
           "negativestate": "greak",
+          "godstate": ""
+
+},
+{
+          "cardId": "20050317",
+          "rare": "5",
+          "tag": "ex-6",
+          "skill1damage": "",
+          "skill2damage": "",
+          "nickname": "War Hinata v2",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
           "godstate": ""
 
 },
@@ -17954,4 +17975,25 @@ window.tags=[
           "godstate": ""
 
 },
+{
+          "cardId": "20050407",
+          "rare": "5",
+          "tag": "god",
+          "skill1damage": "",
+          "skill2damage": "",
+          "nickname": "God Kakashi v2",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
+}
 ]
