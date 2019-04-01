@@ -1907,6 +1907,15 @@
           "category": "0"
         },
         {
+          "cardBehaveAffectId": "2472",
+          "timing": "1",
+          "func": "24",
+          "params": "199,0",
+          "comp": "0",
+          "compParams": "0",
+          "category": "0"
+        },
+        {
           "cardBehaveAffectId": "2500",
           "timing": "1",
           "func": "25",
@@ -2658,6 +2667,15 @@
           "timing": "1",
           "func": "20",
           "params": "196,0",
+          "comp": "0",
+          "compParams": "0",
+          "category": "0"
+        },
+        {
+          "cardBehaveAffectId": "10073",
+          "timing": "1",
+          "func": "20",
+          "params": "199,0",
           "comp": "0",
           "compParams": "0",
           "category": "0"
@@ -6557,6 +6575,51 @@
           "params": "130,0",
           "comp": "9",
           "compParams": "2,116",
+          "category": "0"
+        },
+        {
+          "cardBehaveAffectId": "20050080",
+          "timing": "1",
+          "func": "20",
+          "params": "199,0",
+          "comp": "9",
+          "compParams": "2,37",
+          "category": "0"
+        },
+        {
+          "cardBehaveAffectId": "20050081",
+          "timing": "1",
+          "func": "20",
+          "params": "199,0",
+          "comp": "9",
+          "compParams": "1,37",
+          "category": "0"
+        },
+        {
+          "cardBehaveAffectId": "20050082",
+          "timing": "1",
+          "func": "20",
+          "params": "199,0",
+          "comp": "9",
+          "compParams": "1,2",
+          "category": "0"
+        },
+        {
+          "cardBehaveAffectId": "20050083",
+          "timing": "1",
+          "func": "20",
+          "params": "129,0",
+          "comp": "9",
+          "compParams": "2,37",
+          "category": "0"
+        },
+        {
+          "cardBehaveAffectId": "20050084",
+          "timing": "1",
+          "func": "20",
+          "params": "75,0",
+          "comp": "9",
+          "compParams": "1,2",
           "category": "0"
         },
         {

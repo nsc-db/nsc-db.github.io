@@ -9777,5 +9777,41 @@
           "effectIdx2": "1961",
           "effectIdx3": "13049",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "829",
+          "targetCrystal": "20419",
+          "description": "素早さと全スキルダメージ69％アップ、3回行動するまでチャクラ消費量69％ダウン",
+          "charaIds": "102,104,106,107,109,110,111,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "13068",
+          "effectIdx2": "30022",
+          "effectIdx3": "2164",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "830",
+          "targetCrystal": "20420",
+          "description": "素早さと全スキルダメージ69％アップ、3回行動するまでチャクラ消費量69％ダウン",
+          "charaIds": "204,207,210,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "13068",
+          "effectIdx2": "30022",
+          "effectIdx3": "2164",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "831",
+          "targetCrystal": "20421",
+          "description": "素早さと全スキルダメージ69％アップ、3回行動するまでチャクラ消費量69％ダウン",
+          "charaIds": "3701,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "13068",
+          "effectIdx2": "30022",
+          "effectIdx3": "2164",
+          "effectIdx4": "0"
         }
       ]

@@ -11127,6 +11127,45 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "873",
+          "name": "熱唱せし想いと絆",
+          "description": "木ノ葉隠れの里所属のスキルダメージを69％アップ",
+          "effectIdx1": "30022",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "874",
+          "name": "革命を刻む旋律",
+          "description": "木ノ葉隠れの里所属の防御力を69％アップ",
+          "effectIdx1": "12068",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "875",
+          "name": "感情を知った歌声",
+          "description": "木ノ葉隠れの里所属の攻撃力を69％アップ",
+          "effectIdx1": "11068",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "876",
           "name": "顕現せし絆の証",
           "description": "五大隠れ里所属のスキル発動速度1段階アップ、素早さ70%アップ、全スキルダメージ120%アップ",

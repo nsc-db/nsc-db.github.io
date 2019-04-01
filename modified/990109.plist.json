@@ -19034,6 +19034,60 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2171",
+          "abilityName": "メンバーとの絆",
+          "abilityDescription": "味方にうちはサスケがいるとHP0以下で1回耐え、サイがいると全スキルダメージ100％アップ",
+          "abilityEffectDescription": "味方にうちはサスケがいるとHP0以下で1回耐え、サイがいると全スキルダメージ100％アップ",
+          "effectIdx1": "2152",
+          "effectIdx2": "2165",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2172",
+          "abilityName": "火の意志を宿す歌唱",
+          "abilityDescription": "6回行動するまで攻撃・防御・素早さが90％アップ、全スキルダメージ69％アップ、行動後にチャクラが69%回復する",
+          "abilityEffectDescription": "6回行動するまで攻撃・防御・素早さが90％アップ、全スキルダメージ69％アップ、行動後にチャクラが69%回復する",
+          "effectIdx1": "2154",
+          "effectIdx2": "30022",
+          "effectIdx3": "2166"
+        },
+        {
+          "abilityId": "2173",
+          "abilityName": "過激な歌唱パフォーマンス",
+          "abilityDescription": "味方にうずまきナルトがいると全スキルダメージ69％アップ、サイがいると全スキルダメージ69％アップ",
+          "abilityEffectDescription": "味方にうずまきナルトがいると全スキルダメージ69％アップ、サイがいると全スキルダメージ69％アップ",
+          "effectIdx1": "2155",
+          "effectIdx2": "2153",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2174",
+          "abilityName": "音楽業界を変える決意",
+          "abilityDescription": "バトル開始時に1回行動するまで特殊状態「革命」になる",
+          "abilityEffectDescription": "バトル開始時に1回行動するまで特殊状態「革命」になる",
+          "effectIdx1": "2156",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2175",
+          "abilityName": "目覚めし歌心",
+          "abilityDescription": "味方にうずまきナルトがいるとスキル発動速度1段階アップ、うちはサスケがいると弱体と状態異常無効",
+          "abilityEffectDescription": "味方にうずまきナルトがいるとスキル発動速度1段階アップ、うちはサスケがいると弱体と状態異常無効",
+          "effectIdx1": "2157",
+          "effectIdx2": "2158",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2176",
+          "abilityName": "超獣のバックコーラス",
+          "abilityDescription": "HP0以下で1回まで耐える、HP69％以下の時耐性無視スキルのダメージ0",
+          "abilityEffectDescription": "HP0以下で1回まで耐える、HP69％以下の時耐性無視スキルのダメージ0",
+          "effectIdx1": "312",
+          "effectIdx2": "2159",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "2177",
           "abilityName": "希望を繋ぐ力",
           "abilityDescription": "HP0以下で3回まで耐える、最大チャクラ量100アップ、スキップ無効※耐性を無視して行動を1回無駄にされない",

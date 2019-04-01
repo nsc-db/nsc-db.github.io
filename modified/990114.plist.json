@@ -1949,6 +1949,16 @@
           "type": "3"
         },
         {
+          "cardUnusualId": "199",
+          "category": "3",
+          "iconId": "1219",
+          "name": "ロック魂",
+          "description": "行動するたびに素早さアップ、ロック魂状態のナルト・サスケ・サイが生存しているとHP0で何度でも全回復",
+          "subScore": "0",
+          "color": "65535",
+          "type": "2"
+        },
+        {
           "cardUnusualId": "200",
           "category": "3",
           "iconId": "1220",

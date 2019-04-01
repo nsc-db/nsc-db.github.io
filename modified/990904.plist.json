@@ -389,32 +389,6 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
-          "worldStageId": "1226",
-          "worldAreaId": "5",
-          "priority": "1",
-          "name": "追憶の愛",
-          "description": "1600万DL記念！初回クリア報酬にて\r\nサクラサク春の福引券x16枚を獲得しよう！\r\n\r\n個人Ptを集めて固有忍具や育成素材を獲得しよう！",
-          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
-          "type": "0",
-          "prerequisiteWorldStageId": "0",
-          "openWeek": null,
-          "openTime": "0000.00.00 00:00:00",
-          "closeTime": "0000.00.00 00:00:00"
-        },
-        {
-          "worldStageId": "1228",
-          "worldAreaId": "5",
-          "priority": "1",
-          "name": "戦乱を呼ぶ叡智",
-          "description": "1600万DL記念！個人Pt報酬にて\r\nサクラサク春の福引券x16枚を獲得しよう！\r\n\r\n個人Ptを集めて固有忍具や育成素材を獲得しよう！",
-          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
-          "type": "0",
-          "prerequisiteWorldStageId": "0",
-          "openWeek": null,
-          "openTime": "0000.00.00 00:00:00",
-          "closeTime": "0000.00.00 00:00:00"
-        },
-        {
           "worldStageId": "1229",
           "worldAreaId": "5",
           "priority": "2",
@@ -460,6 +434,19 @@
           "name": "NARUTO疾風乱舞 ラーメンコレクション(仮)",
           "description": "これは、イケメンがイケ麺として登場する壮大な物語…",
           "notice": "0",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
+          "worldStageId": "1244",
+          "worldAreaId": "5",
+          "priority": "4",
+          "name": "スタッフが美味しくいただきました。",
+          "description": "麺コインを集めて、ご麺な祭ガチャを引こう！",
+          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
           "type": "0",
           "prerequisiteWorldStageId": "0",
           "openWeek": null,
@@ -1403,19 +1390,6 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
-          "worldStageId": "8029",
-          "worldAreaId": "9",
-          "priority": "0",
-          "name": "第二十五回 昇級試験",
-          "description": "この任務は、他のユーザーの班と戦う任務です\r\n1度の挑戦で行うバトルの回数は、1回となります\r\n連続で勝利すると連続勝利数ボーナスが発生、より多くのPtを獲得可能です\r\n※全キャラクターの全ダメージ及びスキル発動速度は調整が行われております",
-          "notice": "0",
-          "type": "0",
-          "prerequisiteWorldStageId": "0",
-          "openWeek": null,
-          "openTime": "0000.00.00 00:00:00",
-          "closeTime": "0000.00.00 00:00:00"
-        },
-        {
           "worldStageId": "8030",
           "worldAreaId": "9",
           "priority": "0",
@@ -1791,19 +1765,6 @@
           "openWeek": null,
           "openTime": "2017.12.31 17:00:00",
           "closeTime": "2018.01.04 15:59:59"
-        },
-        {
-          "worldStageId": "50004",
-          "worldAreaId": "5",
-          "priority": "1",
-          "name": "昇級模擬演習",
-          "description": "この任務は前回昇級試験上位者の班と戦う任務です\r\nスタミナ消費1で何度も挑戦できます\r\n※全キャラクターの全ダメージ及び\r\nスキル発動速度は調整が行われております",
-          "notice": "※イベントの内容及び日程は告知なく変更となる場合がございます。",
-          "type": "0",
-          "prerequisiteWorldStageId": "0",
-          "openWeek": null,
-          "openTime": "0000.00.00 00:00:00",
-          "closeTime": "0000.00.00 00:00:00"
         },
         {
           "worldStageId": "60002",
