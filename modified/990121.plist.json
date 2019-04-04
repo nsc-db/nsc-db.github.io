@@ -2699,6 +2699,24 @@
           "category": "0"
         },
         {
+          "cardBehaveAffectId": "10081",
+          "timing": "1",
+          "func": "20",
+          "params": "206,0",
+          "comp": "0",
+          "compParams": "0",
+          "category": "0"
+        },
+        {
+          "cardBehaveAffectId": "10082",
+          "timing": "1",
+          "func": "20",
+          "params": "207,0",
+          "comp": "0",
+          "compParams": "0",
+          "category": "0"
+        },
+        {
           "cardBehaveAffectId": "1000001",
           "timing": "5",
           "func": "27",
@@ -5039,6 +5057,15 @@
           "category": "0"
         },
         {
+          "cardBehaveAffectId": "15031020",
+          "timing": "1",
+          "func": "90",
+          "params": "0,0",
+          "comp": "5",
+          "compParams": "206",
+          "category": "0"
+        },
+        {
           "cardBehaveAffectId": "16000000",
           "timing": "1",
           "func": "16",
@@ -5048,12 +5075,30 @@
           "category": "0"
         },
         {
+          "cardBehaveAffectId": "16000001",
+          "timing": "1",
+          "func": "16",
+          "params": "0,0",
+          "comp": "17",
+          "compParams": "1",
+          "category": "0"
+        },
+        {
           "cardBehaveAffectId": "16000002",
           "timing": "1",
           "func": "16",
           "params": "0,0",
           "comp": "5",
           "compParams": "76",
+          "category": "0"
+        },
+        {
+          "cardBehaveAffectId": "16000003",
+          "timing": "1",
+          "func": "16",
+          "params": "0,0",
+          "comp": "3",
+          "compParams": "1",
           "category": "0"
         },
         {
@@ -6969,6 +7014,15 @@
           "timing": "4",
           "func": "50",
           "params": "2,0",
+          "comp": "0",
+          "compParams": "0",
+          "category": "0"
+        },
+        {
+          "cardBehaveAffectId": "20300000",
+          "timing": "5",
+          "func": "35",
+          "params": "0,0",
           "comp": "0",
           "compParams": "0",
           "category": "0"

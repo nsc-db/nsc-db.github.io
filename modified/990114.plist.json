@@ -1987,5 +1987,25 @@
           "subScore": "0",
           "color": "16316664",
           "type": "2"
+        },
+        {
+          "cardUnusualId": "206",
+          "category": "3",
+          "iconId": "1226",
+          "name": "死司憑血",
+          "description": "耐性無視含む全スキル無効、スキル攻撃を受けると攻撃者に反撃ダメージ",
+          "subScore": "0",
+          "color": "14614842",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "207",
+          "category": "3",
+          "iconId": "1227",
+          "name": "地怨虞",
+          "description": "五大性質以外の全スキル無効、HP0以下で4回HP全回復、攻撃ごとに「HP0以下でHP全回復」回数補充",
+          "subScore": "0",
+          "color": "14614842",
+          "type": "2"
         }
       ]

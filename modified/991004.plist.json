@@ -3671,6 +3671,12 @@
           "speechCharactorName": "臼"
         },
         {
+          "speechCharactorId": "617",
+          "cardId": "20001788",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "地陸"
+        },
+        {
           "speechCharactorId": "618",
           "cardId": "20050106",
           "speechCharactorImgId": "0",
@@ -3939,6 +3945,12 @@
           "cardId": "21000061",
           "speechCharactorImgId": "0",
           "speechCharactorName": "\"根\"の暗部"
+        },
+        {
+          "speechCharactorId": "663",
+          "cardId": "21000325",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "二位ユギト"
         },
         {
           "speechCharactorId": "664",

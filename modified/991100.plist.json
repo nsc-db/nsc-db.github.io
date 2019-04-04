@@ -3051,6 +3051,20 @@
           "gender": "2"
         },
         {
+          "charaProfileId": "22001",
+          "charaId": "220",
+          "name": "二位ユギト",
+          "detail": null,
+          "charaLoveAffinityGroupId": "22010",
+          "birthday": "724",
+          "constellation": "5",
+          "height": "17020",
+          "weight": "5080",
+          "bloodType": "1",
+          "age": "29",
+          "gender": "2"
+        },
+        {
           "charaProfileId": "50001",
           "charaId": "0",
           "name": "根",

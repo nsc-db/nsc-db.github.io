@@ -19106,6 +19106,42 @@
           "effectIdx3": "2018"
         },
         {
+          "abilityId": "2179",
+          "abilityName": "死虐遊戯",
+          "abilityDescription": "敵に超忍祭限定キャラか木ノ葉隠れの里所属がいると素早さ100%アップ、どちらもいると素早さ200%アップ",
+          "abilityEffectDescription": "敵に超忍祭限定キャラか木ノ葉隠れの里所属がいると素早さ100%アップ、どちらもいると素早さ200%アップ",
+          "effectIdx1": "1953",
+          "effectIdx2": "1954",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2180",
+          "abilityName": "愉しい儀式",
+          "abilityDescription": "HP0以下で1回耐える、1回行動まで受ける耐性無視ダメージ0、HP50%以下の時にスキルダメージ100%アップ",
+          "abilityEffectDescription": "HP0以下で1回耐える、1回行動まで受ける耐性無視ダメージ0、HP50%以下の時にスキルダメージ100%アップ",
+          "effectIdx1": "312",
+          "effectIdx2": "1961",
+          "effectIdx3": "1758"
+        },
+        {
+          "abilityId": "2181",
+          "abilityName": "禁忌に繋ぐ枷鎖",
+          "abilityDescription": "HP90%以上の時に素早さ150%アップ、“暁”所属への単体スキル攻撃を受ける※かばうは最後の発動者が有効",
+          "abilityEffectDescription": "HP90%以上の時に素早さ150%アップ、“暁”所属への単体スキル攻撃を受ける※かばうは最後の発動者が有効",
+          "effectIdx1": "2168",
+          "effectIdx2": "2169",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2182",
+          "abilityName": "骸の器",
+          "abilityDescription": "敵に超忍祭限定キャラが生存しているとダメージ50%カット、1回行動するまで全スキル無効",
+          "abilityEffectDescription": "敵に超忍祭限定キャラが生存しているとダメージ50%カット、1回行動するまで全スキル無効",
+          "effectIdx1": "2170",
+          "effectIdx2": "1794",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

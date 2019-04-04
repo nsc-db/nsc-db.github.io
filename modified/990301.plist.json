@@ -17871,6 +17871,38 @@
           "recipeName": "世界を守る意志"
         },
         {
+          "crystalId": "20407",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "776",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "風遁面のお面",
+          "crystalDescription": "弱体と状態異常を半減",
+          "crystalImageId": "204075",
+          "recipeId": "20407",
+          "recipeName": "風遁面のお面"
+        },
+        {
+          "crystalId": "20411",
+          "crystalType": "3",
+          "crystalRare": "5",
+          "effectIdx1": "684",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "熱狂的ｼﾞｬｼﾝ教信者",
+          "crystalDescription": "最大HP100%アップ",
+          "crystalImageId": "204115",
+          "recipeId": "20411",
+          "recipeName": "熱狂的ｼﾞｬｼﾝ教信者"
+        },
+        {
           "crystalId": "20419",
           "crystalType": "3",
           "crystalRare": "5",
