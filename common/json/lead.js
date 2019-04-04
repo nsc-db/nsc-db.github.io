@@ -11128,6 +11128,45 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "873",
+          "name": "熱唱せし想いと絆",
+          "description": "木ノ葉隠れの里所属のスキルダメージを69％アップ",
+          "effectIdx1": "30022",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "874",
+          "name": "革命を刻む旋律",
+          "description": "木ノ葉隠れの里所属の防御力を69％アップ",
+          "effectIdx1": "12068",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "875",
+          "name": "感情を知った歌声",
+          "description": "木ノ葉隠れの里所属の攻撃力を69％アップ",
+          "effectIdx1": "11068",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "876",
           "name": "顕現せし絆の証",
           "description": "五大隠れ里所属のスキル発動速度1段階アップ、素早さ70%アップ、全スキルダメージ120%アップ",
@@ -11137,6 +11176,32 @@ window.lead=[
           "compType": "0",
           "target1Category": "0",
           "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "878",
+          "name": "嗜虐の執行者",
+          "description": "“暁”所属の最大HPが150%アップし、行動後にチャクラが20%回復する",
+          "effectIdx1": "1212",
+          "effectIdx2": "1768",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "8",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "883",
+          "name": "五つの生を持つ躰",
+          "description": "“暁”所属のキャラが敵からダメージを受けた時に低確率でHPが全回復",
+          "effectIdx1": "1746",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "8",
           "target2Category": "0",
           "target2Param": "0"
         },

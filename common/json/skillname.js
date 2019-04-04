@@ -5864,12 +5864,48 @@ window.skillname=[
           "name": "よ――し…オレだって！"
         },
         {
+          "cardBattleSkillNameId": "2675",
+          "name": "MISO★らーめん"
+        },
+        {
+          "cardBattleSkillNameId": "2676",
+          "name": "オレらで歌うんだってばよ！"
+        },
+        {
+          "cardBattleSkillNameId": "2677",
+          "name": "レボリューション"
+        },
+        {
+          "cardBattleSkillNameId": "2678",
+          "name": "オレはライブに行く"
+        },
+        {
+          "cardBattleSkillNameId": "2679",
+          "name": "マインドチェンジ"
+        },
+        {
+          "cardBattleSkillNameId": "2680",
+          "name": "人は歌う…ならボクもそうだ"
+        },
+        {
           "cardBattleSkillNameId": "2681",
           "name": "須佐能乎・空割の太刀"
         },
         {
           "cardBattleSkillNameId": "2682",
           "name": "オレ達で世界を救うぞ！"
+        },
+        {
+          "cardBattleSkillNameId": "2693",
+          "name": "痛てーだろ………？なァ…？"
+        },
+        {
+          "cardBattleSkillNameId": "2694",
+          "name": "禁術・地怨虞"
+        },
+        {
+          "cardBattleSkillNameId": "2695",
+          "name": "心臓をいただく"
         },
         {
           "cardBattleSkillNameId": "10136",

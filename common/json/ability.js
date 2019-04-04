@@ -1802,8 +1802,8 @@ window.ability=[
         {
           "abilityId": "201",
           "abilityName": "活殺自在",
-          "abilityDescription": "HP50％以上の時に攻撃力が70％アップ&スキルダメージ半減",
-          "abilityEffectDescription": "HP50％以上の時に攻撃力が70％アップ&スキルダメージ半減",
+          "abilityDescription": "HP50％以上の時に攻撃力が70％アップ&amp;スキルダメージ半減",
+          "abilityEffectDescription": "HP50％以上の時に攻撃力が70％アップ&amp;スキルダメージ半減",
           "effectIdx1": "449",
           "effectIdx2": "450",
           "effectIdx3": "0"
@@ -3341,8 +3341,8 @@ window.ability=[
         {
           "abilityId": "372",
           "abilityName": "揺るぎない忍道",
-          "abilityDescription": "HP90％以上の時に時空間スキルのダメージが100％アップ&チャクラ消費量が15％減少",
-          "abilityEffectDescription": "HP90％以上の時に時空間スキルのダメージが100％アップ&チャクラ消費量が15％減少",
+          "abilityDescription": "HP90％以上の時に時空間スキルのダメージが100％アップ&amp;チャクラ消費量が15％減少",
+          "abilityEffectDescription": "HP90％以上の時に時空間スキルのダメージが100％アップ&amp;チャクラ消費量が15％減少",
           "effectIdx1": "505",
           "effectIdx2": "506",
           "effectIdx3": "0"
@@ -7247,8 +7247,8 @@ window.ability=[
         {
           "abilityId": "806",
           "abilityName": "穢土転生体",
-          "abilityDescription": "HPが50%以上の時、チャクラ消費量30%ダウン&行動後チャクラが10%回復する",
-          "abilityEffectDescription": "HPが50%以上の時、チャクラ消費量30%ダウン&行動後チャクラが10%回復する",
+          "abilityDescription": "HPが50%以上の時、チャクラ消費量30%ダウン&amp;行動後チャクラが10%回復する",
+          "abilityEffectDescription": "HPが50%以上の時、チャクラ消費量30%ダウン&amp;行動後チャクラが10%回復する",
           "effectIdx1": "954",
           "effectIdx2": "955",
           "effectIdx3": "0"
@@ -7265,8 +7265,8 @@ window.ability=[
         {
           "abilityId": "808",
           "abilityName": "穢土転生体",
-          "abilityDescription": "HPが50%以上の時、チャクラ消費量30%ダウン&行動後チャクラが10%回復する",
-          "abilityEffectDescription": "HPが50%以上の時、チャクラ消費量30%ダウン&行動後チャクラが10%回復する",
+          "abilityDescription": "HPが50%以上の時、チャクラ消費量30%ダウン&amp;行動後チャクラが10%回復する",
+          "abilityEffectDescription": "HPが50%以上の時、チャクラ消費量30%ダウン&amp;行動後チャクラが10%回復する",
           "effectIdx1": "954",
           "effectIdx2": "955",
           "effectIdx3": "0"
@@ -9209,8 +9209,8 @@ window.ability=[
         {
           "abilityId": "1024",
           "abilityName": "研鑽せし白眼",
-          "abilityDescription": "通常攻撃が回避されない&バトル開始時チャクラ30%回復する",
-          "abilityEffectDescription": "通常攻撃が回避されない&バトル開始時チャクラ30%回復する",
+          "abilityDescription": "通常攻撃が回避されない&amp;バトル開始時チャクラ30%回復する",
+          "abilityEffectDescription": "通常攻撃が回避されない&amp;バトル開始時チャクラ30%回復する",
           "effectIdx1": "30",
           "effectIdx2": "1114",
           "effectIdx3": "0"
@@ -9848,8 +9848,8 @@ window.ability=[
         {
           "abilityId": "1095",
           "abilityName": "厳しき宿業",
-          "abilityDescription": "最大HPが150%アップ&最大チャクラ量が100アップ、2回行動までチャクラ消費量半減",
-          "abilityEffectDescription": "最大HPが150%アップ&最大チャクラ量が100アップ、2回行動までチャクラ消費量半減",
+          "abilityDescription": "最大HPが150%アップ&amp;最大チャクラ量が100アップ、2回行動までチャクラ消費量半減",
+          "abilityEffectDescription": "最大HPが150%アップ&amp;最大チャクラ量が100アップ、2回行動までチャクラ消費量半減",
           "effectIdx1": "1212",
           "effectIdx2": "20009",
           "effectIdx3": "1521"
@@ -11396,8 +11396,8 @@ window.ability=[
         {
           "abilityId": "1267",
           "abilityName": "穢土転生体",
-          "abilityDescription": "チャクラ消費量40%ダウン&行動後チャクラが20%回復",
-          "abilityEffectDescription": "チャクラ消費量40%ダウン&行動後チャクラが20%回復",
+          "abilityDescription": "チャクラ消費量40%ダウン&amp;行動後チャクラが20%回復",
+          "abilityEffectDescription": "チャクラ消費量40%ダウン&amp;行動後チャクラが20%回復",
           "effectIdx1": "1164",
           "effectIdx2": "583",
           "effectIdx3": "0"
@@ -11414,8 +11414,8 @@ window.ability=[
         {
           "abilityId": "1269",
           "abilityName": "穢土転生体",
-          "abilityDescription": "チャクラ消費量40%ダウン&行動後チャクラが20%回復",
-          "abilityEffectDescription": "チャクラ消費量40%ダウン&行動後チャクラが20%回復",
+          "abilityDescription": "チャクラ消費量40%ダウン&amp;行動後チャクラが20%回復",
+          "abilityEffectDescription": "チャクラ消費量40%ダウン&amp;行動後チャクラが20%回復",
           "effectIdx1": "1164",
           "effectIdx2": "583",
           "effectIdx3": "0"
@@ -13988,8 +13988,8 @@ window.ability=[
         {
           "abilityId": "1585",
           "abilityName": "六道仙術の開花",
-          "abilityDescription": "10回行動するまで、スキルダメージ150％アップ&素早さ90％アップ",
-          "abilityEffectDescription": "10回行動するまで、スキルダメージ150％アップ&素早さ90％アップ",
+          "abilityDescription": "10回行動するまで、スキルダメージ150％アップ&amp;素早さ90％アップ",
+          "abilityEffectDescription": "10回行動するまで、スキルダメージ150％アップ&amp;素早さ90％アップ",
           "effectIdx1": "30914",
           "effectIdx2": "1171",
           "effectIdx3": "0"
@@ -16697,8 +16697,8 @@ window.ability=[
         {
           "abilityId": "1889",
           "abilityName": "無比なる木遁使い",
-          "abilityDescription": "最大チャクラ量を100アップ&行動後チャクラが10%回復&キャンセル無効",
-          "abilityEffectDescription": "最大チャクラ量を100アップ&行動後チャクラが10%回復&キャンセル無効",
+          "abilityDescription": "最大チャクラ量を100アップ&amp;行動後チャクラが10%回復&amp;キャンセル無効",
+          "abilityEffectDescription": "最大チャクラ量を100アップ&amp;行動後チャクラが10%回復&amp;キャンセル無効",
           "effectIdx1": "813",
           "effectIdx2": "1767",
           "effectIdx3": "1751"
@@ -16715,8 +16715,8 @@ window.ability=[
         {
           "abilityId": "1891",
           "abilityName": "無比なる木遁使い",
-          "abilityDescription": "最大チャクラ量を200アップ&行動後チャクラが20%回復&キャンセル無効",
-          "abilityEffectDescription": "最大チャクラ量を200アップ&行動後チャクラが20%回復&キャンセル無効",
+          "abilityDescription": "最大チャクラ量を200アップ&amp;行動後チャクラが20%回復&amp;キャンセル無効",
+          "abilityEffectDescription": "最大チャクラ量を200アップ&amp;行動後チャクラが20%回復&amp;キャンセル無効",
           "effectIdx1": "20019",
           "effectIdx2": "1768",
           "effectIdx3": "1751"
@@ -16733,8 +16733,8 @@ window.ability=[
         {
           "abilityId": "1893",
           "abilityName": "尽きぬ闘争心",
-          "abilityDescription": "最大チャクラ量を100アップ&行動後チャクラが10%回復&キャンセル無効",
-          "abilityEffectDescription": "最大チャクラ量を100アップ&行動後チャクラが10%回復&キャンセル無効",
+          "abilityDescription": "最大チャクラ量を100アップ&amp;行動後チャクラが10%回復&amp;キャンセル無効",
+          "abilityEffectDescription": "最大チャクラ量を100アップ&amp;行動後チャクラが10%回復&amp;キャンセル無効",
           "effectIdx1": "813",
           "effectIdx2": "1767",
           "effectIdx3": "1751"
@@ -16751,8 +16751,8 @@ window.ability=[
         {
           "abilityId": "1895",
           "abilityName": "尽きぬ闘争心",
-          "abilityDescription": "最大チャクラ量を200アップ&行動後チャクラが20%回復&キャンセル無効",
-          "abilityEffectDescription": "最大チャクラ量を200アップ&行動後チャクラが20%回復&キャンセル無効",
+          "abilityDescription": "最大チャクラ量を200アップ&amp;行動後チャクラが20%回復&amp;キャンセル無効",
+          "abilityEffectDescription": "最大チャクラ量を200アップ&amp;行動後チャクラが20%回復&amp;キャンセル無効",
           "effectIdx1": "20019",
           "effectIdx2": "1768",
           "effectIdx3": "1751"
@@ -17012,8 +17012,8 @@ window.ability=[
         {
           "abilityId": "1926",
           "abilityName": "惑溺の夢",
-          "abilityDescription": "チャクラが50%以上の時、スキルダメージと素早さ100%アップ&スキル発動速度1段階アップ",
-          "abilityEffectDescription": "チャクラが50%以上の時、スキルダメージと素早さ100%アップ&スキル発動速度1段階アップ",
+          "abilityDescription": "チャクラが50%以上の時、スキルダメージと素早さ100%アップ&amp;スキル発動速度1段階アップ",
+          "abilityEffectDescription": "チャクラが50%以上の時、スキルダメージと素早さ100%アップ&amp;スキル発動速度1段階アップ",
           "effectIdx1": "33409",
           "effectIdx2": "1787",
           "effectIdx3": "1803"
@@ -17030,8 +17030,8 @@ window.ability=[
         {
           "abilityId": "1928",
           "abilityName": "見破りの瞳",
-          "abilityDescription": "1回行動するまで、素早さ200%アップ&スキル発動速度1段階アップ&チャクラ消費量0",
-          "abilityEffectDescription": "1回行動するまで、素早さ200%アップ&スキル発動速度1段階アップ&チャクラ消費量0",
+          "abilityDescription": "1回行動するまで、素早さ200%アップ&amp;スキル発動速度1段階アップ&amp;チャクラ消費量0",
+          "abilityEffectDescription": "1回行動するまで、素早さ200%アップ&amp;スキル発動速度1段階アップ&amp;チャクラ消費量0",
           "effectIdx1": "1800",
           "effectIdx2": "1539",
           "effectIdx3": "1411"
@@ -18002,8 +18002,8 @@ window.ability=[
         {
           "abilityId": "2048",
           "abilityName": "柱間の子孫",
-          "abilityDescription": "1回行動するまで、耐性無視スキルのダメージを0&全スキル無効",
-          "abilityEffectDescription": "1回行動するまで、耐性無視スキルのダメージを0&全スキル無効",
+          "abilityDescription": "1回行動するまで、耐性無視スキルのダメージを0&amp;全スキル無効",
+          "abilityEffectDescription": "1回行動するまで、耐性無視スキルのダメージを0&amp;全スキル無効",
           "effectIdx1": "1961",
           "effectIdx2": "1794",
           "effectIdx3": "0"
@@ -18020,8 +18020,8 @@ window.ability=[
         {
           "abilityId": "2050",
           "abilityName": "仲間想う心",
-          "abilityDescription": "超高確率でスキル回避、2回行動するまでチャクラ消費量半減&スキルダメージが150%アップ",
-          "abilityEffectDescription": "超高確率でスキル回避、2回行動するまでチャクラ消費量半減&スキルダメージが150%アップ",
+          "abilityDescription": "超高確率でスキル回避、2回行動するまでチャクラ消費量半減&amp;スキルダメージが150%アップ",
+          "abilityEffectDescription": "超高確率でスキル回避、2回行動するまでチャクラ消費量半減&amp;スキルダメージが150%アップ",
           "effectIdx1": "1897",
           "effectIdx2": "1521",
           "effectIdx3": "30114"
@@ -18038,8 +18038,8 @@ window.ability=[
         {
           "abilityId": "2052",
           "abilityName": "忍術生みし天才",
-          "abilityDescription": "超高確率でスキル回避、2回行動するまでチャクラ消費量半減&スキルダメージが150%アップ",
-          "abilityEffectDescription": "超高確率でスキル回避、2回行動するまでチャクラ消費量半減&スキルダメージが150%アップ",
+          "abilityDescription": "超高確率でスキル回避、2回行動するまでチャクラ消費量半減&amp;スキルダメージが150%アップ",
+          "abilityEffectDescription": "超高確率でスキル回避、2回行動するまでチャクラ消費量半減&amp;スキルダメージが150%アップ",
           "effectIdx1": "1897",
           "effectIdx2": "1521",
           "effectIdx3": "30114"
@@ -18065,8 +18065,8 @@ window.ability=[
         {
           "abilityId": "2055",
           "abilityName": "第三班のツッコミ役",
-          "abilityDescription": "チャクラMAX時、素早さとスキルダメージを300%アップ&スキル発動速度2段階アップ",
-          "abilityEffectDescription": "チャクラMAX時、素早さとスキルダメージを300%アップ&スキル発動速度2段階アップ",
+          "abilityDescription": "チャクラMAX時、素早さとスキルダメージを300%アップ&amp;スキル発動速度2段階アップ",
+          "abilityEffectDescription": "チャクラMAX時、素早さとスキルダメージを300%アップ&amp;スキル発動速度2段階アップ",
           "effectIdx1": "1966",
           "effectIdx2": "1965",
           "effectIdx3": "1752"
@@ -18218,8 +18218,8 @@ window.ability=[
         {
           "abilityId": "2072",
           "abilityName": "黒き分析屋",
-          "abilityDescription": "HPが100%の時、チャクラ消費量半減&スキル発動速度1段階アップ",
-          "abilityEffectDescription": "HPが100%の時、チャクラ消費量半減&スキル発動速度1段階アップ",
+          "abilityDescription": "HPが100%の時、チャクラ消費量半減&amp;スキル発動速度1段階アップ",
+          "abilityEffectDescription": "HPが100%の時、チャクラ消費量半減&amp;スキル発動速度1段階アップ",
           "effectIdx1": "2000",
           "effectIdx2": "2001",
           "effectIdx3": "0"
@@ -18227,8 +18227,8 @@ window.ability=[
         {
           "abilityId": "2073",
           "abilityName": "想い乗せる拳",
-          "abilityDescription": "最大チャクラ量が50アップし、HP80%以上の時に体術スキルのダメージ120%アップ&スキル発動速度1段階アップ",
-          "abilityEffectDescription": "最大チャクラ量が50アップし、HP80%以上の時に体術スキルのダメージ120%アップ&スキル発動速度1段階アップ",
+          "abilityDescription": "最大チャクラ量が50アップし、HP80%以上の時に体術スキルのダメージ120%アップ&amp;スキル発動速度1段階アップ",
+          "abilityEffectDescription": "最大チャクラ量が50アップし、HP80%以上の時に体術スキルのダメージ120%アップ&amp;スキル発動速度1段階アップ",
           "effectIdx1": "689",
           "effectIdx2": "1089",
           "effectIdx3": "2009"
@@ -18578,8 +18578,8 @@ window.ability=[
         {
           "abilityId": "2114",
           "abilityName": "印を見切る瞳",
-          "abilityDescription": "1回行動するまで素早さ200%アップ&チャクラ消費0",
-          "abilityEffectDescription": "1回行動するまで素早さ200%アップ&チャクラ消費0",
+          "abilityDescription": "1回行動するまで素早さ200%アップ&amp;チャクラ消費0",
+          "abilityEffectDescription": "1回行動するまで素早さ200%アップ&amp;チャクラ消費0",
           "effectIdx1": "1800",
           "effectIdx2": "1378",
           "effectIdx3": "0"
@@ -18848,8 +18848,8 @@ window.ability=[
         {
           "abilityId": "2150",
           "abilityName": "夢託す愛情",
-          "abilityDescription": "HPが50%以上の時にチャクラ消費量30%減少&スキル発動速度1段階アップする",
-          "abilityEffectDescription": "HPが50%以上の時にチャクラ消費量30%減少&スキル発動速度1段階アップする",
+          "abilityDescription": "HPが50%以上の時にチャクラ消費量30%減少&amp;スキル発動速度1段階アップする",
+          "abilityEffectDescription": "HPが50%以上の時にチャクラ消費量30%減少&amp;スキル発動速度1段階アップする",
           "effectIdx1": "1168",
           "effectIdx2": "1163",
           "effectIdx3": "0"
@@ -18875,8 +18875,8 @@ window.ability=[
         {
           "abilityId": "2153",
           "abilityName": "冷徹な周到さ",
-          "abilityDescription": "2回行動するまで素早さ200%アップ&全スキル無効",
-          "abilityEffectDescription": "2回行動するまで素早さ200%アップ&全スキル無効",
+          "abilityDescription": "2回行動するまで素早さ200%アップ&amp;全スキル無効",
+          "abilityEffectDescription": "2回行動するまで素早さ200%アップ&amp;全スキル無効",
           "effectIdx1": "1693",
           "effectIdx2": "1914",
           "effectIdx3": "0"
@@ -19035,6 +19035,60 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2171",
+          "abilityName": "メンバーとの絆",
+          "abilityDescription": "味方にうちはサスケがいるとHP0以下で1回耐え、サイがいると全スキルダメージ100％アップ",
+          "abilityEffectDescription": "味方にうちはサスケがいるとHP0以下で1回耐え、サイがいると全スキルダメージ100％アップ",
+          "effectIdx1": "2152",
+          "effectIdx2": "2165",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2172",
+          "abilityName": "火の意志を宿す歌唱",
+          "abilityDescription": "6回行動するまで攻撃・防御・素早さが90％アップ、全スキルダメージ69％アップ、行動後にチャクラが69%回復する",
+          "abilityEffectDescription": "6回行動するまで攻撃・防御・素早さが90％アップ、全スキルダメージ69％アップ、行動後にチャクラが69%回復する",
+          "effectIdx1": "2154",
+          "effectIdx2": "30022",
+          "effectIdx3": "2166"
+        },
+        {
+          "abilityId": "2173",
+          "abilityName": "過激な歌唱パフォーマンス",
+          "abilityDescription": "味方にうずまきナルトがいると全スキルダメージ69％アップ、サイがいると全スキルダメージ69％アップ",
+          "abilityEffectDescription": "味方にうずまきナルトがいると全スキルダメージ69％アップ、サイがいると全スキルダメージ69％アップ",
+          "effectIdx1": "2155",
+          "effectIdx2": "2153",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2174",
+          "abilityName": "音楽業界を変える決意",
+          "abilityDescription": "バトル開始時に1回行動するまで特殊状態「革命」になる",
+          "abilityEffectDescription": "バトル開始時に1回行動するまで特殊状態「革命」になる",
+          "effectIdx1": "2156",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2175",
+          "abilityName": "目覚めし歌心",
+          "abilityDescription": "味方にうずまきナルトがいるとスキル発動速度1段階アップ、うちはサスケがいると弱体と状態異常無効",
+          "abilityEffectDescription": "味方にうずまきナルトがいるとスキル発動速度1段階アップ、うちはサスケがいると弱体と状態異常無効",
+          "effectIdx1": "2157",
+          "effectIdx2": "2158",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2176",
+          "abilityName": "超獣のバックコーラス",
+          "abilityDescription": "HP0以下で1回まで耐える、HP69％以下の時耐性無視スキルのダメージ0",
+          "abilityEffectDescription": "HP0以下で1回まで耐える、HP69％以下の時耐性無視スキルのダメージ0",
+          "effectIdx1": "312",
+          "effectIdx2": "2159",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "2177",
           "abilityName": "希望を繋ぐ力",
           "abilityDescription": "HP0以下で3回まで耐える、最大チャクラ量100アップ、スキップ無効※耐性を無視して行動を1回無駄にされない",
@@ -19051,6 +19105,42 @@ window.ability=[
           "effectIdx1": "1542",
           "effectIdx2": "2017",
           "effectIdx3": "2018"
+        },
+        {
+          "abilityId": "2179",
+          "abilityName": "死虐遊戯",
+          "abilityDescription": "敵に超忍祭限定キャラか木ノ葉隠れの里所属がいると素早さ100%アップ、どちらもいると素早さ200%アップ",
+          "abilityEffectDescription": "敵に超忍祭限定キャラか木ノ葉隠れの里所属がいると素早さ100%アップ、どちらもいると素早さ200%アップ",
+          "effectIdx1": "1953",
+          "effectIdx2": "1954",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2180",
+          "abilityName": "愉しい儀式",
+          "abilityDescription": "HP0以下で1回耐える、1回行動まで受ける耐性無視ダメージ0、HP50%以下の時にスキルダメージ100%アップ",
+          "abilityEffectDescription": "HP0以下で1回耐える、1回行動まで受ける耐性無視ダメージ0、HP50%以下の時にスキルダメージ100%アップ",
+          "effectIdx1": "312",
+          "effectIdx2": "1961",
+          "effectIdx3": "1758"
+        },
+        {
+          "abilityId": "2181",
+          "abilityName": "禁忌に繋ぐ枷鎖",
+          "abilityDescription": "HP90%以上の時に素早さ150%アップ、“暁”所属への単体スキル攻撃を受ける※かばうは最後の発動者が有効",
+          "abilityEffectDescription": "HP90%以上の時に素早さ150%アップ、“暁”所属への単体スキル攻撃を受ける※かばうは最後の発動者が有効",
+          "effectIdx1": "2168",
+          "effectIdx2": "2169",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2182",
+          "abilityName": "骸の器",
+          "abilityDescription": "敵に超忍祭限定キャラが生存しているとダメージ50%カット、1回行動するまで全スキル無効",
+          "abilityEffectDescription": "敵に超忍祭限定キャラが生存しているとダメージ50%カット、1回行動するまで全スキル無効",
+          "effectIdx1": "2170",
+          "effectIdx2": "1794",
+          "effectIdx3": "0"
         },
         {
           "abilityId": "10000",
@@ -19369,16 +19459,16 @@ window.ability=[
         },
         {
           "abilityId": "11901",
-          "abilityName": "3回耐える&2回までスキル無効",
-          "abilityDescription": "3回耐える&2回までスキル無効",
-          "abilityEffectDescription": "3回耐える&2回までスキル無効",
+          "abilityName": "3回耐える&amp;2回までスキル無効",
+          "abilityDescription": "3回耐える&amp;2回までスキル無効",
+          "abilityEffectDescription": "3回耐える&amp;2回までスキル無効",
           "effectIdx1": "1789",
           "effectIdx2": "663",
           "effectIdx3": "0"
         },
         {
           "abilityId": "11902",
-          "abilityName": "先制攻撃&高確率でスキル回避",
+          "abilityName": "先制攻撃&amp;高確率でスキル回避",
           "abilityDescription": "バトル開始時に先制攻撃、高確率でスキルを回避する",
           "abilityEffectDescription": "バトル開始時に先制攻撃、高確率でスキルを回避する",
           "effectIdx1": "2068",

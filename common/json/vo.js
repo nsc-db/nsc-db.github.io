@@ -2148,6 +2148,54 @@ window.vo=[
           "voiceDeath": "b_death_02_01"
         },
         {
+          "cardVoiceId": "181",
+          "cardId": "20050310",
+          "dirName": "guy",
+          "evolutionStep": "",
+          "voiceAppear": "guy_menu_raid_01",
+          "voiceSkill1": "guy_pursuit_02_02,guy_skill_02_01",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "guy_menu_02",
+          "voiceDeath": "guy_damage_02_02"
+        },
+        {
+          "cardVoiceId": "182",
+          "cardId": "20050316",
+          "dirName": "sakura",
+          "evolutionStep": "",
+          "voiceAppear": "sakura_battle_02_04",
+          "voiceSkill1": "sakura_skill_02_02,sakura_skill_02_10",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "sakura_pursuit_02_04",
+          "voiceDeath": "sakura_death_02_05"
+        },
+        {
+          "cardVoiceId": "183",
+          "cardId": "20050317",
+          "dirName": "hinata",
+          "evolutionStep": "",
+          "voiceAppear": "hinata_menu_raid_01",
+          "voiceSkill1": "hinata_pursuit_02_01,hinata_attack_02_03",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "hinata_menu_02",
+          "voiceDeath": "hinata_damage_02_01"
+        },
+        {
+          "cardVoiceId": "184",
+          "cardId": "20050407",
+          "dirName": "kakasi",
+          "evolutionStep": "",
+          "voiceAppear": "kakasi_battle_02_15",
+          "voiceSkill1": "kakasi_win_02_03,kakasi_battle_02_03",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "kakasi_skill_02_15",
+          "voiceDeath": "kakasi_death_02_07"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

@@ -9778,5 +9778,65 @@ window.unique=[
           "effectIdx2": "1961",
           "effectIdx3": "13049",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "829",
+          "targetCrystal": "20419",
+          "description": "素早さと全スキルダメージ69％アップ、3回行動するまでチャクラ消費量69％ダウン",
+          "charaIds": "102,104,106,107,109,110,111",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "13068",
+          "effectIdx2": "30022",
+          "effectIdx3": "2164",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "830",
+          "targetCrystal": "20420",
+          "description": "素早さと全スキルダメージ69％アップ、3回行動するまでチャクラ消費量69％ダウン",
+          "charaIds": "204,207,210",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "13068",
+          "effectIdx2": "30022",
+          "effectIdx3": "2164",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "831",
+          "targetCrystal": "20421",
+          "description": "素早さと全スキルダメージ69％アップ、3回行動するまでチャクラ消費量69％ダウン",
+          "charaIds": "3701",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "13068",
+          "effectIdx2": "30022",
+          "effectIdx3": "2164",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "832",
+          "targetCrystal": "20407",
+          "description": "弱体・状態異常無効、スキル発動速度1段階アップ、1回行動するまでチャクラ消費0",
+          "charaIds": "12401",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "880",
+          "effectIdx2": "1840",
+          "effectIdx3": "1378",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "833",
+          "targetCrystal": "20411",
+          "description": "最大HP200%アップ、スキル発動速度1段階アップ、バトル開始時にチャクラ50%回復",
+          "charaIds": "12301",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "10100",
+          "effectIdx2": "1840",
+          "effectIdx3": "1115",
+          "effectIdx4": "0"
         }
 ]
