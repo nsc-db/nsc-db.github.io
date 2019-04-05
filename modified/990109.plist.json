@@ -17702,6 +17702,24 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2007",
+          "abilityName": "型にはまらぬ知略",
+          "abilityDescription": "敵に“暁”所属がいると受ける耐性無視スキルのダメージを0＆2回行動まで全スキル無効",
+          "abilityEffectDescription": "敵に“暁”所属がいると受ける耐性無視スキルのダメージを0＆2回行動まで全スキル無効",
+          "effectIdx1": "1915",
+          "effectIdx2": "1914",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2008",
+          "abilityName": "忍ばせた奇策",
+          "abilityDescription": "素早さが100％アップし、弱体と状態異常を無効化する",
+          "abilityEffectDescription": "素早さが100％アップし、弱体と状態異常を無効化する",
+          "effectIdx1": "13099",
+          "effectIdx2": "880",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "2009",
           "abilityName": "闘忍の覇者",
           "abilityDescription": "最大チャクラ量250アップ、行動後にHP10%回復",
@@ -19139,6 +19157,42 @@
           "abilityEffectDescription": "敵に超忍祭限定キャラが生存しているとダメージ50%カット、1回行動するまで全スキル無効",
           "effectIdx1": "2170",
           "effectIdx2": "1794",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2183",
+          "abilityName": "携えし風の刃",
+          "abilityDescription": "木ノ葉隠れの里所属への単体スキル攻撃を受ける※かばうは複数人発動すると最後の発動者が有効",
+          "abilityEffectDescription": "木ノ葉隠れの里所属への単体スキル攻撃を受ける※かばうは複数人発動すると最後の発動者が有効",
+          "effectIdx1": "1834",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2184",
+          "abilityName": "脅威を払う火の意志",
+          "abilityDescription": "死亡した時、味方全体を長い間特殊状態「玉」にする。",
+          "abilityEffectDescription": "死亡した時、味方全体を長い間特殊状態「玉」にする。",
+          "effectIdx1": "2172",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2185",
+          "abilityName": "的確な援護",
+          "abilityDescription": "HP80％以上の時、攻撃力100％アップしスキル発動速度1段階アップ",
+          "abilityEffectDescription": "HP80％以上の時、攻撃力100％アップしスキル発動速度1段階アップ",
+          "effectIdx1": "1133",
+          "effectIdx2": "1089",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2186",
+          "abilityName": "幅広い鴉の応用",
+          "abilityDescription": "確率でスキルを回避する",
+          "abilityEffectDescription": "確率でスキルを回避する",
+          "effectIdx1": "734",
+          "effectIdx2": "0",
           "effectIdx3": "0"
         },
         {

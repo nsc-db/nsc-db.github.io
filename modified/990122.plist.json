@@ -2195,6 +2195,18 @@
           "voiceDeath": "kakasi_death_02_07"
         },
         {
+          "cardVoiceId": "185",
+          "cardId": "20050417",
+          "dirName": "shikamaru",
+          "evolutionStep": "",
+          "voiceAppear": "shikamaru_skill_02_15",
+          "voiceSkill1": "shikamaru_skill_02_13,shikamaru_skill_02_21",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "shikamaru_skill_02_16",
+          "voiceDeath": "shikamaru_death_02_03"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

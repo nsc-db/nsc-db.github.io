@@ -428,6 +428,32 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
+          "worldStageId": "1234",
+          "worldAreaId": "5",
+          "priority": "1",
+          "name": "信じる“火の意志”",
+          "description": "個人Ptを集めて\r\nシカマル、アスマの固有忍具や\r\n木ノ葉の意志忍具ガチャチケットを獲得しよう！",
+          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
+          "worldStageId": "1235",
+          "worldAreaId": "5",
+          "priority": "1",
+          "name": "大激闘任務-卯月の陣-",
+          "description": "ランパートではドロップではなく\r\nクリア時に個人Ptを獲得できます。",
+          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
           "worldStageId": "1243",
           "worldAreaId": "5",
           "priority": "1",
@@ -473,19 +499,6 @@
           "name": "自来也のスパルタ修業",
           "description": "0",
           "notice": "※全術の巻物★5で必ずスキルLvが上がります\r\n※敵からドロップするスキル強化巻物につきましては報酬詳細をご確認ください\r\n※イベントの難易度はB、Aランクとなります",
-          "type": "0",
-          "prerequisiteWorldStageId": "0",
-          "openWeek": null,
-          "openTime": "0000.00.00 00:00:00",
-          "closeTime": "0000.00.00 00:00:00"
-        },
-        {
-          "worldStageId": "2076",
-          "worldAreaId": "5",
-          "priority": "3",
-          "name": "テンテンの忍具指南",
-          "description": "個人Ptを集めて忍具を手に入れよう！\r\n交換忍具大幅リニューアル！",
-          "notice": "0",
           "type": "0",
           "prerequisiteWorldStageId": "0",
           "openWeek": null,

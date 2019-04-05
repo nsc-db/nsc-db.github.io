@@ -5119,6 +5119,11 @@
           "gachaTicketImgId": "3587"
         },
         {
+          "gachaTicketId": "3588",
+          "gachaTicketName": "影の忍具ガチャチケット",
+          "gachaTicketImgId": "3588"
+        },
+        {
           "gachaTicketId": "3589",
           "gachaTicketName": "木ノ葉忍具ガチャチケット",
           "gachaTicketImgId": "3599"
@@ -5187,6 +5192,21 @@
           "gachaTicketId": "3609",
           "gachaTicketName": "SDガチャチケット",
           "gachaTicketImgId": "3279"
+        },
+        {
+          "gachaTicketId": "3610",
+          "gachaTicketName": "受け継ぎし師の刃と斬風の刃ガチャチケット",
+          "gachaTicketImgId": "3610"
+        },
+        {
+          "gachaTicketId": "3611",
+          "gachaTicketName": "受け継ぎし師の刃と斬風の刃・祭",
+          "gachaTicketImgId": "3610"
+        },
+        {
+          "gachaTicketId": "3612",
+          "gachaTicketName": "木ノ葉の意志忍具ガチャチケット",
+          "gachaTicketImgId": "3612"
         },
         {
           "gachaTicketId": "3624",

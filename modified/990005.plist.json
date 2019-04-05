@@ -709,6 +709,26 @@
           "enemyEffects": null
         },
         {
+          "battleFieldEffectId": "80",
+          "name": "大激闘チャレンジ",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "12119,1549,1814,",
+          "enemyEffects": null
+        },
+        {
+          "battleFieldEffectId": "81",
+          "name": "“火の意志” 超絶チャレンジ",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "13079,1549,1814,",
+          "enemyEffects": "80000,"
+        },
+        {
           "battleFieldEffectId": "10001",
           "name": "始球空間",
           "category": "3",

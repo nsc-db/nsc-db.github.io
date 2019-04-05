@@ -1449,6 +1449,16 @@
           "type": "3"
         },
         {
+          "cardUnusualId": "147",
+          "category": "3",
+          "iconId": "1231",
+          "name": "追爆",
+          "description": "攻撃力とスキルダメージがアップ。使用毎にカウント数が増加。追加ダメージ回数アップ",
+          "subScore": "0",
+          "color": "16228225",
+          "type": "2"
+        },
+        {
           "cardUnusualId": "148",
           "category": "4",
           "iconId": "1161",
@@ -1986,6 +1996,16 @@
           "description": "素早さ＆術速度減少、カカシは全スキル＆弱体系特殊状態＆地形効果無効、スキルに反撃、3回行動後に全解除",
           "subScore": "0",
           "color": "16316664",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "205",
+          "category": "3",
+          "iconId": "1225",
+          "name": "玉",
+          "description": "“暁”所属キャラのスキル攻撃無効、５回行動するまで敵からのスキル攻撃無効（通常攻撃は除く）",
+          "subScore": "0",
+          "color": "14596231",
           "type": "2"
         },
         {

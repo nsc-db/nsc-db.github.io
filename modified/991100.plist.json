@@ -3051,6 +3051,20 @@
           "gender": "2"
         },
         {
+          "charaProfileId": "21901",
+          "charaId": "219",
+          "name": "山城アオバ",
+          "detail": null,
+          "charaLoveAffinityGroupId": "21910",
+          "birthday": "903",
+          "constellation": "6",
+          "height": "17800",
+          "weight": "6600",
+          "bloodType": "3",
+          "age": "30",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "22001",
           "charaId": "220",
           "name": "二位ユギト",

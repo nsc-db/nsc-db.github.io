@@ -10165,6 +10165,19 @@
           "target2Param": "8"
         },
         {
+          "cardLeaderSkillId": "791",
+          "name": "受け継ぎし師の刃",
+          "description": "木ノ葉隠れの里と砂隠れの里所属のスキルダメージ・素早さを80%アップする",
+          "effectIdx1": "694",
+          "effectIdx2": "13079",
+          "effectIdx3": "0",
+          "compType": "2",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "2",
+          "target2Param": "2"
+        },
+        {
           "cardLeaderSkillId": "792",
           "name": "闘忍の覇者",
           "description": "木ノ葉隠れの里所属の素早さと最大HPを100%アップ＆最大チャクラ量100アップ",
@@ -11201,6 +11214,32 @@
           "compType": "1",
           "target1Category": "2",
           "target1Param": "8",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "884",
+          "name": "斬風の刃",
+          "description": "木ノ葉隠れの里所属の最大HPと防御力を100％アップする",
+          "effectIdx1": "684",
+          "effectIdx2": "12099",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "885",
+          "name": "戦地ノ乱鴉",
+          "description": "体属性の素早さと全スキルダメージを50％アップする。",
+          "effectIdx1": "112",
+          "effectIdx2": "682",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "3",
           "target2Category": "0",
           "target2Param": "0"
         },
