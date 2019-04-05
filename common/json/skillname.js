@@ -5340,6 +5340,14 @@ window.skillname=[
           "name": "影分身・怨嗟連弾"
         },
         {
+          "cardBattleSkillNameId": "2527",
+          "name": "影寄せ・終焉"
+        },
+        {
+          "cardBattleSkillNameId": "2528",
+          "name": "オレが信じてんのは火の意志だ"
+        },
+        {
           "cardBattleSkillNameId": "2530",
           "name": "お前はオレを倒せねェ"
         },
@@ -5906,6 +5914,22 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "2695",
           "name": "心臓をいただく"
+        },
+        {
+          "cardBattleSkillNameId": "2696",
+          "name": "禽影飛燕"
+        },
+        {
+          "cardBattleSkillNameId": "2697",
+          "name": "“敵陣突破の先兵”だ"
+        },
+        {
+          "cardBattleSkillNameId": "2698",
+          "name": "幻惑の鴉"
+        },
+        {
+          "cardBattleSkillNameId": "2699",
+          "name": "オレたちが食い止める"
         },
         {
           "cardBattleSkillNameId": "10136",

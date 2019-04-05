@@ -10153,6 +10153,19 @@ window.lead=[
           "target2Param": "8"
         },
         {
+          "cardLeaderSkillId": "791",
+          "name": "受け継ぎし師の刃",
+          "description": "Konoha and Sand Skill Damage and SPD +80%",
+          "effectIdx1": "694",
+          "effectIdx2": "13079",
+          "effectIdx3": "0",
+          "compType": "2",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "2",
+          "target2Param": "2"
+        },
+        {
           "cardLeaderSkillId": "792",
           "name": "闘忍の覇者",
           "description": "Konoha Characters Maximum HP and SPD +100%, Maximum Chakra +100",
@@ -11124,6 +11137,58 @@ window.lead=[
           "compType": "0",
           "target1Category": "0",
           "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "878",
+          "name": "嗜虐の執行者",
+          "description": "Akatsuki HP +150%, Chakra Regen +20%",
+          "effectIdx1": "1212",
+          "effectIdx2": "1768",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "8",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "883",
+          "name": "五つの生を持つ躰",
+          "description": "Low chance to recover full HP when attacked to Akatsuki",
+          "effectIdx1": "1746",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "8",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "884",
+          "name": "斬風の刃",
+          "description": "Konoha HP and DEF +100%",
+          "effectIdx1": "684",
+          "effectIdx2": "12099",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "885",
+          "name": "戦地ノ乱鴉",
+          "description": "Body Type SPD and Skill Damage +50%",
+          "effectIdx1": "112",
+          "effectIdx2": "682",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "3",
           "target2Category": "0",
           "target2Param": "0"
         },

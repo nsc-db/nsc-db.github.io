@@ -17685,6 +17685,24 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2007",
+          "abilityName": "Mold of Wisdom",
+          "abilityDescription": "Immune to Fixed Damage from Akatsuki enemies and for 2 turns, Immune to all Skills",
+          "abilityEffectDescription": "敵に“暁”所属がいると受ける耐性無視スキルのダメージを0＆2回行動まで全スキル無効",
+          "effectIdx1": "1915",
+          "effectIdx2": "1914",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2008",
+          "abilityName": "Hidden Scheme",
+          "abilityDescription": "SPD +100%, immune to Debuff and Status Effects",
+          "abilityEffectDescription": "素早さが100％アップし、弱体と状態異常を無効化する",
+          "effectIdx1": "13099",
+          "effectIdx2": "880",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "2009",
           "abilityName": "Conqueror of Champions",
           "abilityDescription": "Maximum Chakra +250 and 10% HP Regen",
@@ -19033,6 +19051,78 @@ window.ability=[
           "effectIdx1": "1542",
           "effectIdx2": "2017",
           "effectIdx3": "2018"
+        },
+        {
+          "abilityId": "2179",
+          "abilityName": "Death Game",
+          "abilityDescription": "SPD +100% if there's an enemy EX or Konoha, Additional +200% if both",
+          "abilityEffectDescription": "敵に超忍祭限定キャラか木ノ葉隠れの里所属がいると素早さ100%アップ、どちらもいると素早さ200%アップ",
+          "effectIdx1": "1953",
+          "effectIdx2": "1954",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2180",
+          "abilityName": "Enjoyable Rites",
+          "abilityDescription": "When HP reach 0, withstand an attack. For 1 turn, immune to Fixed Damage, if HP is below 50%, Skill Damage +100%",
+          "abilityEffectDescription": "HP0以下で1回耐える、1回行動まで受ける耐性無視ダメージ0、HP50%以下の時にスキルダメージ100%アップ",
+          "effectIdx1": "312",
+          "effectIdx2": "1961",
+          "effectIdx3": "1758"
+        },
+        {
+          "abilityId": "2181",
+          "abilityName": "Forbidden Connected Chains",
+          "abilityDescription": "SPD +150% and Protect Akatsuki allies from Single Target skills when HP is above 90%",
+          "abilityEffectDescription": "HP90%以上の時に素早さ150%アップ、“暁”所属への単体スキル攻撃を受ける※かばうは最後の発動者が有効",
+          "effectIdx1": "2168",
+          "effectIdx2": "2169",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2182",
+          "abilityName": "Shell Container",
+          "abilityDescription": "+50% Damage Cut and for 1 turn, Immune to all Skills if there's an EX enemy",
+          "abilityEffectDescription": "敵に超忍祭限定キャラが生存しているとダメージ50%カット、1回行動するまで全スキル無効",
+          "effectIdx1": "2170",
+          "effectIdx2": "1794",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2183",
+          "abilityName": "Portable Wind Blade",
+          "abilityDescription": "Protect all Konoha allies from Single Target Skills",
+          "abilityEffectDescription": "木ノ葉隠れの里所属への単体スキル攻撃を受ける※かばうは複数人発動すると最後の発動者が有効",
+          "effectIdx1": "1834",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2184",
+          "abilityName": "Clearing the Threat of the Will of Fire",
+          "abilityDescription": "Upon death, grant all allies 'King' state",
+          "abilityEffectDescription": "死亡した時、味方全体を長い間特殊状態「玉」にする。",
+          "effectIdx1": "2172",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2185",
+          "abilityName": "的確な援護",
+          "abilityDescription": "HP80％以上の時、攻撃力100％アップしスキル発動速度1段階アップ",
+          "abilityEffectDescription": "HP80％以上の時、攻撃力100％アップしスキル発動速度1段階アップ",
+          "effectIdx1": "1133",
+          "effectIdx2": "1089",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2186",
+          "abilityName": "幅広い鴉の応用",
+          "abilityDescription": "確率でスキルを回避する",
+          "abilityEffectDescription": "確率でスキルを回避する",
+          "effectIdx1": "734",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
         },
         {
           "abilityId": "10000",

@@ -6676,6 +6676,16 @@ window.skillname=[
           "eng": "Shadow Clone: Resentment Barrage"
         },
         {
+          "cardBattleSkillNameId": "2527",
+          "name": "影寄せ・終焉",
+          "eng": "Shadow Pull Jutsu: The End"
+        },
+        {
+          "cardBattleSkillNameId": "2528",
+          "name": "オレが信じてんのは火の意志だ",
+          "eng": "I Believe in the Will of Fire"
+        },
+        {
           "cardBattleSkillNameId": "2530",
           "name": "お前はオレを倒せねェ",
           "eng": "You Can't Defeat Me"
@@ -7340,6 +7350,41 @@ window.skillname=[
           "cardBattleSkillNameId": "2682",
           "name": "オレ達で世界を救うぞ！",
           "eng": "Let's Save the World!"
+        },
+        {
+          "cardBattleSkillNameId": "2693",
+          "name": "痛てーだろ………？なァ…？",
+          "eng": "It Hurts....... Doesn't it...?"
+        },
+        {
+          "cardBattleSkillNameId": "2694",
+          "name": "禁術・地怨虞",
+          "eng": "Forbidden Jutsu: Earth's Fear"
+        },
+        {
+          "cardBattleSkillNameId": "2695",
+          "name": "心臓をいただく",
+          "eng": "Receiving Heart"
+        },
+        {
+          "cardBattleSkillNameId": "2696",
+          "name": "禽影飛燕",
+          "eng": "Bird's Shadow"
+        },
+        {
+          "cardBattleSkillNameId": "2697",
+          "name": "“敵陣突破の先兵”だ",
+          "eng": "'Breaking Through the Enemies Vanguard'"
+        },
+        {
+          "cardBattleSkillNameId": "2698",
+          "name": "幻惑の鴉",
+          "eng": "Crow Genjutsu"
+        },
+        {
+          "cardBattleSkillNameId": "2699",
+          "name": "オレたちが食い止める",
+          "eng": "We'll Stop Them"
         },
         {
           "cardBattleSkillNameId": "10136",
