@@ -1937,6 +1937,12 @@
           "itemImgId": "23"
         },
         {
+          "shopExchangeItemId": "331",
+          "itemName": "昇級試験Pt",
+          "measure": "0",
+          "itemImgId": "128"
+        },
+        {
           "shopExchangeItemId": "332",
           "itemName": "個人Pt",
           "measure": "0",

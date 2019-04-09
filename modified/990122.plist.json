@@ -2207,6 +2207,18 @@
           "voiceDeath": "shikamaru_death_02_03"
         },
         {
+          "cardVoiceId": "186",
+          "cardId": "20050409",
+          "dirName": "jiraiya",
+          "evolutionStep": "",
+          "voiceAppear": "jiraiya_battle_02_03",
+          "voiceSkill1": "jiraiya_attack_02_02,jiraiya_win_02_03",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "jiraiya_win_02_02",
+          "voiceDeath": "jiraiya_death_02_03"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",
