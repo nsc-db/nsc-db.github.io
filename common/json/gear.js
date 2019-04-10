@@ -17872,6 +17872,22 @@ window.gear=[
           "recipeName": "世界を守る意志"
         },
         {
+          "crystalId": "20404",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "860",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "自来也の陣羽織",
+          "crystalDescription": "チャクラ消費量が20%減少する",
+          "crystalImageId": "204045",
+          "recipeId": "20404",
+          "recipeName": "自来也の陣羽織"
+        },
+        {
           "crystalId": "20407",
           "crystalType": "2",
           "crystalRare": "5",

@@ -9886,4 +9886,17 @@ window.unique=[
           "effectIdx2": "13079",
           "effectIdx3": "1840",
           "effectIdx4": "0"
-        }]
+        },
+        {
+          "crystalOverwriteEffectId": "838",
+          "targetCrystal": "20404",
+          "description": "バトル開始時にチャクラ50%回復、チャクラ消費量半減、行動後にチャクラ30%回復",
+          "charaIds": "2401",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1115",
+          "effectIdx2": "895",
+          "effectIdx3": "820",
+          "effectIdx4": "0"
+        }
+        ]

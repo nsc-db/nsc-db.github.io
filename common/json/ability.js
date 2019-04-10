@@ -17559,6 +17559,24 @@ window.ability=[
           "effectIdx3": "2066"
         },
         {
+          "abilityId": "1989",
+          "abilityName": "妙木山の仙術",
+          "abilityDescription": "敵に滅キャラか“暁”所属がいると素早さ200%アップ、どちらもいると素早さ400%アップ",
+          "abilityEffectDescription": "敵に滅キャラか“暁”所属がいると素早さ200%アップ、どちらもいると素早さ400%アップ",
+          "effectIdx1": "2138",
+          "effectIdx2": "2180",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1990",
+          "abilityName": "二大仙蝦蟇",
+          "abilityDescription": "HP0以下で5回まで耐える、1回目の耐える発動時にスキルダメージ300%アップ、攻撃を受けた時に確率でHP全回復",
+          "abilityEffectDescription": "HP0以下で5回まで耐える、1回目の耐える発動時にスキルダメージ300%アップ、攻撃を受けた時に確率でHP全回復",
+          "effectIdx1": "1512",
+          "effectIdx2": "2181",
+          "effectIdx3": "1327"
+        },
+        {
           "abilityId": "1991",
           "abilityName": "たゆまぬ努力",
           "abilityDescription": "HP80%以上の時、攻撃力とスキルダメージが100%アップ",

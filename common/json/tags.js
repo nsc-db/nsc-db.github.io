@@ -18081,6 +18081,27 @@ window.tags=[
 
 },
 {
+          "cardId": "2005040*",
+          "rare": "5",
+          "tag": "origin",
+          "skill1damage": "",
+          "skill2damage": "",
+          "nickname": "Origin Jiraiya",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
+},
+{
           "cardId": "20050411",
           "rare": "5",
           "tag": "killers",

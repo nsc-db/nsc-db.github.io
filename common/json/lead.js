@@ -10062,6 +10062,19 @@ window.lead=[
           "target2Param": "1"
         },
         {
+          "cardLeaderSkillId": "782",
+          "name": "六禍に挑む三仙",
+          "description": "木ノ葉隠れの里所属の攻撃力、会心力、会心率を150%アップする",
+          "effectIdx1": "1268",
+          "effectIdx2": "2198",
+          "effectIdx3": "2182",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "783",
           "name": "蒼き異名の後継者",
           "description": "木ノ葉隠れの里所属の最大HPと攻撃力を30%アップ",

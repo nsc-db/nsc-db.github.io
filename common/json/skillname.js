@@ -5932,6 +5932,14 @@ window.skillname=[
           "name": "オレたちが食い止める"
         },
         {
+          "cardBattleSkillNameId": "2700",
+          "name": "魔幻・蝦蟇臨唱"
+        },
+        {
+          "cardBattleSkillNameId": "2701",
+          "name": "どうか少しの間お力添えを"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },
