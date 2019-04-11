@@ -5336,16 +5336,16 @@ window.skillname=[
           "name": "オレの里を守る…"
         },
         {
-          "cardBattleSkillNameId": "2529",
-          "name": "影分身・怨嗟連弾"
-        },
-        {
           "cardBattleSkillNameId": "2527",
           "name": "影寄せ・終焉"
         },
         {
           "cardBattleSkillNameId": "2528",
           "name": "オレが信じてんのは火の意志だ"
+        },
+        {
+          "cardBattleSkillNameId": "2529",
+          "name": "影分身・怨嗟連弾"
         },
         {
           "cardBattleSkillNameId": "2530",
@@ -5938,6 +5938,22 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "2701",
           "name": "どうか少しの間お力添えを"
+        },
+        {
+          "cardBattleSkillNameId": "2702",
+          "name": "潜影絞蛇手"
+        },
+        {
+          "cardBattleSkillNameId": "2703",
+          "name": "素晴らしい…"
+        },
+        {
+          "cardBattleSkillNameId": "2704",
+          "name": "仕込み毒飛針"
+        },
+        {
+          "cardBattleSkillNameId": "2705",
+          "name": "そろそろいいか？"
         },
         {
           "cardBattleSkillNameId": "10136",

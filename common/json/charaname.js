@@ -1834,6 +1834,20 @@ window.charaname=[
           "gender": "1"
         },
         {
+          "charaProfileId": "10304",
+          "charaId": "103",
+          "name": "大蛇丸",
+          "detail": null,
+          "charaLoveAffinityGroupId": "10310",
+          "birthday": "1027",
+          "constellation": "8",
+          "height": "17200",
+          "weight": "5730",
+          "bloodType": "2",
+          "age": "51",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "10401",
           "charaId": "104",
           "name": "薬師カブト",

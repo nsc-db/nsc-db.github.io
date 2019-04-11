@@ -19215,6 +19215,42 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2195",
+          "abilityName": "飽くなき不死への探求",
+          "abilityDescription": "行動するたび素早さが44.4%（最大444%）アップし、HPとチャクラが44％回復する",
+          "abilityEffectDescription": "行動するたび素早さが44.4%（最大444%）アップし、HPとチャクラが44％回復する",
+          "effectIdx1": "2187",
+          "effectIdx2": "2188",
+          "effectIdx3": "2189"
+        },
+        {
+          "abilityId": "2196",
+          "abilityName": "再生の呪疫",
+          "abilityDescription": "3～8回目の行動時、素早さ444%ｱｯﾌﾟ＆ｽｷﾙ発動速度4段階ｱｯﾌﾟ＆再行動する※再行動後にさらに行動はできない",
+          "abilityEffectDescription": "3～8回目の行動時、素早さ444%ｱｯﾌﾟ＆ｽｷﾙ発動速度4段階ｱｯﾌﾟ＆再行動する※再行動後にさらに行動はできない",
+          "effectIdx1": "2190",
+          "effectIdx2": "2191",
+          "effectIdx3": "2192"
+        },
+        {
+          "abilityId": "2197",
+          "abilityName": "強靭な鎧殻",
+          "abilityDescription": "15回行動まで耐性無視を含む全スキル無効、HP0以下で3回まで耐える",
+          "abilityEffectDescription": "15回行動まで耐性無視を含む全スキル無効、HP0以下で3回まで耐える",
+          "effectIdx1": "2193",
+          "effectIdx2": "2194",
+          "effectIdx3": "1789"
+        },
+        {
+          "abilityId": "2198",
+          "abilityName": "毒装の芸術",
+          "abilityDescription": "最大チャクラ量50アップ、敵の攻撃対象になった時に自身の行動が1回無駄、行動ごとに素早さ50%アップ(最大15回)",
+          "abilityEffectDescription": "最大チャクラ量50アップ、敵の攻撃対象になった時に自身の行動が1回無駄、行動ごとに素早さ50%アップ(最大15回)",
+          "effectIdx1": "689",
+          "effectIdx2": "2195",
+          "effectIdx3": "2196"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -19562,6 +19598,33 @@ window.ability=[
           "abilityDescription": "高確率で通常攻撃を回避",
           "abilityEffectDescription": "高確率で通常攻撃を回避",
           "effectIdx1": "300013",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "13000",
+          "abilityName": "不死！？",
+          "abilityDescription": "特定キャラの生存で何度でも復活",
+          "abilityEffectDescription": "特定キャラの生存で何度でも復活",
+          "effectIdx1": "2173",
+          "effectIdx2": "874",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "13001",
+          "abilityName": "不死！？",
+          "abilityDescription": "特定キャラの生存で何度でも復活",
+          "abilityEffectDescription": "特定キャラの生存で何度でも復活",
+          "effectIdx1": "2174",
+          "effectIdx2": "874",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "13002",
+          "abilityName": "死亡時特殊状態付与",
+          "abilityDescription": "特定キャラの死亡で特殊状態付与発動",
+          "abilityEffectDescription": "特定キャラの死亡で特殊状態付与発動",
+          "effectIdx1": "2172",
           "effectIdx2": "0",
           "effectIdx3": "0"
         },
