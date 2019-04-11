@@ -4946,5 +4946,75 @@
           "assetCategoryId": "13",
           "materialId": "224",
           "materialNum": "1"
+        },
+        {
+          "crystalRecipeId": "789",
+          "recipeId": "20431",
+          "assetCategoryId": "13",
+          "materialId": "226",
+          "materialNum": "60"
+        },
+        {
+          "crystalRecipeId": "790",
+          "recipeId": "20431",
+          "assetCategoryId": "13",
+          "materialId": "227",
+          "materialNum": "60"
+        },
+        {
+          "crystalRecipeId": "791",
+          "recipeId": "20432",
+          "assetCategoryId": "12",
+          "materialId": "20431",
+          "materialNum": "5"
+        },
+        {
+          "crystalRecipeId": "792",
+          "recipeId": "20432",
+          "assetCategoryId": "13",
+          "materialId": "226",
+          "materialNum": "200"
+        },
+        {
+          "crystalRecipeId": "793",
+          "recipeId": "20432",
+          "assetCategoryId": "13",
+          "materialId": "227",
+          "materialNum": "200"
+        },
+        {
+          "crystalRecipeId": "794",
+          "recipeId": "20433",
+          "assetCategoryId": "13",
+          "materialId": "228",
+          "materialNum": "60"
+        },
+        {
+          "crystalRecipeId": "795",
+          "recipeId": "20433",
+          "assetCategoryId": "13",
+          "materialId": "229",
+          "materialNum": "60"
+        },
+        {
+          "crystalRecipeId": "796",
+          "recipeId": "20434",
+          "assetCategoryId": "12",
+          "materialId": "20433",
+          "materialNum": "5"
+        },
+        {
+          "crystalRecipeId": "797",
+          "recipeId": "20434",
+          "assetCategoryId": "13",
+          "materialId": "228",
+          "materialNum": "200"
+        },
+        {
+          "crystalRecipeId": "798",
+          "recipeId": "20434",
+          "assetCategoryId": "13",
+          "materialId": "229",
+          "materialNum": "200"
         }
       ]

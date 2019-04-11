@@ -1313,6 +1313,30 @@
           "materialImageId": "225"
         },
         {
+          "materialId": "226",
+          "materialName": "ヒルコ(甲羅)",
+          "materialRare": "5",
+          "materialImageId": "226"
+        },
+        {
+          "materialId": "227",
+          "materialName": "ヒルコ(腕)",
+          "materialRare": "5",
+          "materialImageId": "227"
+        },
+        {
+          "materialId": "228",
+          "materialName": "白蛇(単)",
+          "materialRare": "5",
+          "materialImageId": "228"
+        },
+        {
+          "materialId": "229",
+          "materialName": "怪しげな薬",
+          "materialRare": "5",
+          "materialImageId": "229"
+        },
+        {
           "materialId": "306",
           "materialName": "???",
           "materialRare": "4",

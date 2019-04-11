@@ -1999,6 +1999,16 @@
           "type": "2"
         },
         {
+          "cardUnusualId": "204",
+          "category": "3",
+          "iconId": "1224",
+          "name": "誘",
+          "description": "行動するたびにHPが4,444、チャクラが4%回復する",
+          "subScore": "0",
+          "color": "14234431",
+          "type": "2"
+        },
+        {
           "cardUnusualId": "205",
           "category": "3",
           "iconId": "1225",

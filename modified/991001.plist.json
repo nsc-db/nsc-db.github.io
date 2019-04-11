@@ -73804,6 +73804,191 @@
           "message": "カッコイイ大人にならねーと！"
         },
         {
+          "scriptMessageId": "27256",
+          "speechCharactorId": "127",
+          "message": "大蛇丸様…\r\n例の実験体の準備が整いました"
+        },
+        {
+          "scriptMessageId": "27257",
+          "speechCharactorId": "159",
+          "message": "あら…早かったわね‥"
+        },
+        {
+          "scriptMessageId": "27258",
+          "speechCharactorId": "127",
+          "message": "ええ、例の「忍具」の検証には\r\nあの実験体が不可欠ですから"
+        },
+        {
+          "scriptMessageId": "27259",
+          "speechCharactorId": "159",
+          "message": "……"
+        },
+        {
+          "scriptMessageId": "27260",
+          "speechCharactorId": "127",
+          "message": "どうかしましたか、大蛇丸様"
+        },
+        {
+          "scriptMessageId": "27261",
+          "speechCharactorId": "159",
+          "message": "なに…少し昔のことを思い出してね"
+        },
+        {
+          "scriptMessageId": "27262",
+          "speechCharactorId": "159",
+          "message": "傀儡を操っていたあの男…"
+        },
+        {
+          "scriptMessageId": "27263",
+          "speechCharactorId": "127",
+          "message": "ああ…サソリのことですか"
+        },
+        {
+          "scriptMessageId": "27264",
+          "speechCharactorId": "159",
+          "message": "ええ…傀儡に固執する思考は\r\n私には理解できなかったけれど…"
+        },
+        {
+          "scriptMessageId": "27265",
+          "speechCharactorId": "159",
+          "message": "でも…そうね\r\n傀儡や「忍具」も使い様ではあるわね…"
+        },
+        {
+          "scriptMessageId": "27266",
+          "speechCharactorId": "159",
+          "message": "カブト、あの「忍具」を作るわ…\r\n材料を集めて来てちょうだい"
+        },
+        {
+          "scriptMessageId": "27267",
+          "speechCharactorId": "127",
+          "message": "わかりました、ただちに"
+        },
+        {
+          "scriptMessageId": "27268",
+          "speechCharactorId": "159",
+          "message": "カブト…素材は集まったかしら…"
+        },
+        {
+          "scriptMessageId": "27269",
+          "speechCharactorId": "127",
+          "message": "だいぶ集まりましたが…\r\n実験にはまだ数が足りないようです"
+        },
+        {
+          "scriptMessageId": "27270",
+          "speechCharactorId": "159",
+          "message": "そう…ならまだまだ集めないといけないわね"
+        },
+        {
+          "scriptMessageId": "27271",
+          "speechCharactorId": "159",
+          "message": "あまり時間をかけないようにね…\r\n私はそう長くは待てないわ…"
+        },
+        {
+          "scriptMessageId": "27272",
+          "speechCharactorId": "127",
+          "message": "ええ、わかっていますよ"
+        },
+        {
+          "scriptMessageId": "27273",
+          "speechCharactorId": "291",
+          "message": "あそこに何かあるな"
+        },
+        {
+          "scriptMessageId": "27274",
+          "speechCharactorId": "121",
+          "message": "ああ…あれは「忍具」の素材だな"
+        },
+        {
+          "scriptMessageId": "27275",
+          "speechCharactorId": "291",
+          "message": "ん？素材？\r\nそうか、なるほどな…"
+        },
+        {
+          "scriptMessageId": "27276",
+          "speechCharactorId": "291",
+          "message": "旦那の傀儡に使うようなのも集めたりするのか？"
+        },
+        {
+          "scriptMessageId": "27277",
+          "speechCharactorId": "121",
+          "message": "そりゃあ必要な素材は集めるだろーが…"
+        },
+        {
+          "scriptMessageId": "27278",
+          "speechCharactorId": "291",
+          "message": "サソリの旦那…"
+        },
+        {
+          "scriptMessageId": "27279",
+          "speechCharactorId": "291",
+          "message": "やっぱり芸術ってのは\r\n美しく儚く散っていく一瞬の美を言うんだよ…うん"
+        },
+        {
+          "scriptMessageId": "27280",
+          "speechCharactorId": "121",
+          "message": "何だ？あの爆発が\r\n芸術だってのか？"
+        },
+        {
+          "scriptMessageId": "27281",
+          "speechCharactorId": "121",
+          "message": "芸術ってのは、長く美しく後々まで残っていくもの…\r\n永久の美が芸術だ"
+        },
+        {
+          "scriptMessageId": "27282",
+          "speechCharactorId": "121",
+          "message": "おい、デイダラ\r\nその永久の美ってやつを見せてやる"
+        },
+        {
+          "scriptMessageId": "27283",
+          "speechCharactorId": "291",
+          "message": "おいおい旦那…ムキになるなって…うん"
+        },
+        {
+          "scriptMessageId": "27284",
+          "speechCharactorId": "121",
+          "message": "…素材は集まったか"
+        },
+        {
+          "scriptMessageId": "27285",
+          "speechCharactorId": "291",
+          "message": "まあまあってところじゃねーかな、うん"
+        },
+        {
+          "scriptMessageId": "27286",
+          "speechCharactorId": "121",
+          "message": "ん？何だ？\r\n全然集まってねーじゃねーか"
+        },
+        {
+          "scriptMessageId": "27287",
+          "speechCharactorId": "291",
+          "message": "旦那…本気で言ってんのか…？\r\n十分ここにあるじゃねーか、うん？"
+        },
+        {
+          "scriptMessageId": "27288",
+          "speechCharactorId": "121",
+          "message": "足りねーって言ってんだよ"
+        },
+        {
+          "scriptMessageId": "27289",
+          "speechCharactorId": "121",
+          "message": "おい、オレは待たされるのが嫌いなんだよ…"
+        },
+        {
+          "scriptMessageId": "27290",
+          "speechCharactorId": "291",
+          "message": "いやいや、永久の美を見せてやるって言ったのは\r\n旦那だろうが…"
+        },
+        {
+          "scriptMessageId": "27291",
+          "speechCharactorId": "121",
+          "message": "うるせぇ…黙って集めろ"
+        },
+        {
+          "scriptMessageId": "27292",
+          "speechCharactorId": "291",
+          "message": "サソリの旦那も人使いが荒いぜ…うん"
+        },
+        {
           "scriptMessageId": "40001",
           "speechCharactorId": "178",
           "message": "絶望しかないこの世界に\r\n存在する価値はない"

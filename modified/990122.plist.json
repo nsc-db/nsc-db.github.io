@@ -2219,6 +2219,18 @@
           "voiceDeath": "jiraiya_death_02_03"
         },
         {
+          "cardVoiceId": "187",
+          "cardId": "20050413",
+          "dirName": "orochimaru",
+          "evolutionStep": "",
+          "voiceAppear": "orochimaru_skill_02_07",
+          "voiceSkill1": "orochimaru_skill_02_06,orochimaru_skill_02_05",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "orochimaru_attack_02_03",
+          "voiceDeath": "orochimaru_death_02_02"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

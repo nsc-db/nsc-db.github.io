@@ -11257,6 +11257,32 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "886",
+          "name": "隠蛇ノ牙",
+          "description": "勇属性と“暁”所属の弱体と状態異常を無効化",
+          "effectIdx1": "880",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "2",
+          "target1Category": "2",
+          "target1Param": "8",
+          "target2Category": "1",
+          "target2Param": "7"
+        },
+        {
+          "cardLeaderSkillId": "887",
+          "name": "砂塵の毒牙",
+          "description": "“暁”所属の最大HPと防御力を100％アップ",
+          "effectIdx1": "684",
+          "effectIdx2": "12099",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "8",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",
