@@ -5809,6 +5809,20 @@
           "gender": "1"
         },
         {
+          "charaProfileId": "120601",
+          "charaId": "1206",
+          "name": "神忍推薦状★5",
+          "detail": null,
+          "charaLoveAffinityGroupId": "0",
+          "birthday": "0",
+          "constellation": "0",
+          "height": "0",
+          "weight": "0",
+          "bloodType": "0",
+          "age": "0",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "120801",
           "charaId": "1208",
           "name": "Pマイル推薦状★5",

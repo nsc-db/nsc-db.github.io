@@ -415,19 +415,6 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
-          "worldStageId": "1230",
-          "worldAreaId": "5",
-          "priority": "1",
-          "name": "木ノ葉に巣食う“根”",
-          "description": "個人Ptを集めて報酬を獲得！\r\nサイの新忍具や、木ノ葉の忍の旧忍具が登場！\r\n忍具を獲得して班を強化しよう！",
-          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
-          "type": "0",
-          "prerequisiteWorldStageId": "0",
-          "openWeek": null,
-          "openTime": "0000.00.00 00:00:00",
-          "closeTime": "0000.00.00 00:00:00"
-        },
-        {
           "worldStageId": "1231",
           "worldAreaId": "5",
           "priority": "1",
@@ -1820,6 +1807,19 @@
         },
         {
           "worldStageId": "60002",
+          "worldAreaId": "11",
+          "priority": "9999",
+          "name": "忍連合戦",
+          "description": "忍連合戦",
+          "notice": "忍連合戦",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
+          "worldStageId": "60011",
           "worldAreaId": "11",
           "priority": "9999",
           "name": "忍連合戦",

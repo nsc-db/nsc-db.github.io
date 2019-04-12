@@ -18205,5 +18205,21 @@
           "crystalImageId": "204345",
           "recipeId": "20434",
           "recipeName": "白蛇(剛)"
+        },
+        {
+          "crystalId": "20435",
+          "crystalType": "13",
+          "crystalRare": "5",
+          "effectIdx1": "21000",
+          "effectIdx2": "13649",
+          "effectIdx3": "1115",
+          "effectIdx4": "0",
+          "money": "1000000",
+          "saleMoney": "2500",
+          "crystalName": "連合戦勲章",
+          "crystalDescription": "スキル発動速度1段階アップ、バトル開始時にチャクラ50%回復、素早さ150アップ",
+          "crystalImageId": "204355",
+          "recipeId": "20435",
+          "recipeName": "連合戦勲章"
         }
       ]

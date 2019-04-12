@@ -2549,6 +2549,12 @@
           "itemImgId": "3900"
         },
         {
+          "shopExchangeItemId": "3911",
+          "itemName": "連合戦交換券",
+          "measure": "0",
+          "itemImgId": "3900"
+        },
+        {
           "shopExchangeItemId": "9999",
           "itemName": "※おまけなし　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　",
           "measure": null,
