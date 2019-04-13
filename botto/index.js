@@ -1,15 +1,19 @@
 'use strict';
+var path = require('path');
+var Promise = require('bluebird');
 const Discord = require('discord.js');
 var URLexists = require('url-exists');
+let request = require(`request`);
+var resemble = require("resemblejs")
 const client = new Discord.Client();
 const _ = require('underscore');
 var aggrsz = true;
 var aggrtimeout = 30000;
 var fs = require('fs');
-var Promise = require('bluebird');
 var url = ""
 var db2 = []
 var nickarr = []
+var idarr = []
 var timer = ''
 var reactions = [
     "🇮",
@@ -19,6 +23,7 @@ var reactions = [
     "👌",
     "👍"
 ]
+var thumbs = []
 var searchreactions = [
     "◀",
     "▶",
@@ -45,10 +50,12 @@ const tag = JSON.parse(fs.readFileSync('../common/json/tags.js', 'utf8').slice(1
 const evo = JSON.parse(fs.readFileSync('../common/json/evo.js', 'utf8').slice(11));
 var animation = fs.readFileSync('../modified/990402.plist.json', 'utf8')
 const animations = JSON.parse(animation);
+var matchlist = []
+
 
 client.on('ready', () => {
     console.log(`Logged in as ${client.user.tag}!`);
-    client.user.setPresence({ game: { name: 'Reactions have set order' }, status: 'busy' });
+    client.user.setPresence({ game: { name: '^match name' }, status: 'busy' });
 });
 
 
@@ -56,6 +63,7 @@ for (let i in tag) {
     if (tag[i].nickname !== '') {
         if (nickarr.indexOf(tag[i].nickname) == '-1') {
             nickarr.push(tag[i].nickname)
+            idarr.push(tag[i].cardId)
         }
     }
 }
@@ -76,6 +84,9 @@ for (let i in characterInfo) {
     };
     db2 = Object.assign(data, db2)
 }
+fs.readdirSync('../common/assets/img/units/icons/').forEach(file => {
+    thumbs.push(file)
+})
 
 for (let i in db2) {
     check6Star(i).then(function (Star) {
@@ -467,6 +478,26 @@ client.on('message', msg => {
         msg.channel.send('Renshin is a bitch')
     }
 
+    if (msg.content.split(" ")[0].toLowerCase() === '^match') {
+        if (msg.attachments.first()) {//checks if an attachment is sent
+            var x = [msg.content.split(" ")[1]]
+            matchlist = []
+            let thing = []
+            x = x[0]
+            for (let i in db2){
+                thing.push(getMatches(i,x))
+
+
+            }
+            Promise.all(thing)
+
+                .then(function (matches) {
+                    downloadImage(msg.attachments.first().url,matches.filter(Boolean),msg);
+                })
+        }
+
+    } 
+
     if (msg.content.split(" ")[0].toLowerCase() === '!search') {
         var x = [msg.content.split(" ")[1]]
         msg.delete(msg.id)
@@ -574,7 +605,8 @@ client.on('message', msg => {
             }
         })
     }
-});
+})
+
 
 client.login(process.env.token);
 
@@ -634,3 +666,75 @@ Object.defineProperty(Array.prototype, 'chunk', {
         return R;
     }
 });
+
+function download(url) {
+    request.get(url)
+        .on('error', console.error)
+        .pipe(fs.createWriteStream('meme.png'));
+}
+
+function downloadImage(uri,choice,msg) {
+    let images = [{
+        url: uri,
+        file_name: 'bluebird.png'
+    }]
+    Promise.each(images, image => new Promise((resolve, reject) => {
+        console.log('Downloading Image: ' + image.file_name);
+        request(image.url).on('error', reject).pipe(fs.createWriteStream(path.join('.', image.file_name))).on('finish', () => {
+            resolve();
+        });
+    })).then(() => {
+        console.log('Image Downloaded!');
+        let matches = []
+        for (let i in choice) {
+            matches.push(diff('bluebird.png', choice[i]))
+        }
+        Promise.all(matches).then(function (abc) {
+            abc = abc.filter(Boolean)
+            abc.sort()
+            console.log(abc)
+            sendMessage(msg,abc[0][1])
+
+        })
+    }).catch(err => {
+        console.error('Failed: ' + err.message);
+    });
+}
+
+
+function diff(file, file2) {
+    return new Promise(function (resolve, reject) {
+
+        resemble(file).compareTo('../common/assets/img/units/' + file2 + "_6.png").ignoreAntialiasing().scaleToSameSize().onComplete(function (data) {
+            if (data.misMatchPercentage){
+                resolve([data.misMatchPercentage, file2]);
+            }
+            else{
+                resolve("")
+            }
+            /*
+            {
+              misMatchPercentage : 100, // %
+              isSameDimensions: true, // or false
+              getImageDataUrl: function(){}
+            }
+            */
+        }).catch(err => {
+            console.error('Failed: ' + err.message);
+            resolve([])
+        });
+    });
+}
+
+function getMatches(i,x) {
+    return new Promise(function (resolve, reject) {
+
+            let name = String(db2[i].name)
+            if (name.toLowerCase().includes(x.toLowerCase())) {
+                resolve(i)
+            }
+            else{
+                resolve("")
+            }
+    })
+}

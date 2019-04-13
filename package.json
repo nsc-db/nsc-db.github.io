@@ -9,6 +9,7 @@
     "bufferutil": "^3.0.5",
     "discord.js": "^11.3.2",
     "ffmpeg": "^0.0.4",
+    "image-match": "0.0.1",
     "request": "^2.88.0",
     "underscore": "^1.9.1",
     "url-exists": "^1.0.3",

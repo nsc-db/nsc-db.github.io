@@ -9,7 +9,9 @@
     "bufferutil": "^3.0.5",
     "discord.js": "^11.3.2",
     "ffmpeg": "^0.0.4",
+    "node-resemble-js": "^0.2.0",
     "request": "^2.88.0",
+    "resemblejs": "^3.1.0",
     "underscore": "^1.9.1",
     "url-exists": "^1.0.3",
     "ytdl-core": "^0.29.0"
