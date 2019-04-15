@@ -1999,6 +1999,16 @@
           "type": "2"
         },
         {
+          "cardUnusualId": "203",
+          "category": "3",
+          "iconId": "1223",
+          "name": "斥",
+          "description": "スキル攻撃を受けると攻撃者に反撃ダメージ、被攻撃時に自身以外の味方の攻・防・速アップ",
+          "subScore": "0",
+          "color": "16316664",
+          "type": "2"
+        },
+        {
           "cardUnusualId": "204",
           "category": "3",
           "iconId": "1224",

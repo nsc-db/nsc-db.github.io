@@ -17951,6 +17951,22 @@
           "recipeName": "熱狂的ｼﾞｬｼﾝ教信者"
         },
         {
+          "crystalId": "20412",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "775",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "平和な世界への想い",
+          "crystalDescription": "弱体と状態異常を軽減",
+          "crystalImageId": "204125",
+          "recipeId": "20412",
+          "recipeName": "平和な世界への想い"
+        },
+        {
           "crystalId": "20413",
           "crystalType": "3",
           "crystalRare": "5",

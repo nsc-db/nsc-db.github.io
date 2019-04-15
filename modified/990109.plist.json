@@ -19250,6 +19250,24 @@
           "effectIdx3": "2196"
         },
         {
+          "abilityId": "2199",
+          "abilityName": "操重の瞳",
+          "abilityDescription": "バトル開始時に先頭の味方にかばう状態を付与し、“暁”所属への単体スキル攻撃を受けさせる",
+          "abilityEffectDescription": "バトル開始時に先頭の味方にかばう状態を付与し、“暁”所属への単体スキル攻撃を受けさせる",
+          "effectIdx1": "2215",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2200",
+          "abilityName": "痛烈な憎念",
+          "abilityDescription": "HP0以下で2回までHPが全回復、HP100%の時に素早さ120%アップ",
+          "abilityEffectDescription": "HP0以下で2回までHPが全回復、HP100%の時に素早さ120%アップ",
+          "effectIdx1": "1057",
+          "effectIdx2": "874",
+          "effectIdx3": "2216"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

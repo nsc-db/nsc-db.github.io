@@ -5149,6 +5149,16 @@
           "gachaTicketImgId": "3592"
         },
         {
+          "gachaTicketId": "3594",
+          "gachaTicketName": "六凶の闇天ガチャチケット",
+          "gachaTicketImgId": "3594"
+        },
+        {
+          "gachaTicketId": "3595",
+          "gachaTicketName": "六凶の闇天・祭",
+          "gachaTicketImgId": "3594"
+        },
+        {
           "gachaTicketId": "3596",
           "gachaTicketName": "期間限定忍具50%ガチャチケット",
           "gachaTicketImgId": "3330"
@@ -5197,6 +5207,11 @@
           "gachaTicketId": "3605",
           "gachaTicketName": "昇級選抜[4月]LvMAXガチャチケット",
           "gachaTicketImgId": "3605"
+        },
+        {
+          "gachaTicketId": "3608",
+          "gachaTicketName": "六凶の闇天“暁”特別ガチャチケット",
+          "gachaTicketImgId": "3608"
         },
         {
           "gachaTicketId": "3609",

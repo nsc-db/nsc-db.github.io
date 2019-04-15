@@ -11205,6 +11205,19 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "877",
+          "name": "六凶の闇天",
+          "description": "“暁”所属の素早さと最大HPを100%アップ",
+          "effectIdx1": "253",
+          "effectIdx2": "684",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "8",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "878",
           "name": "嗜虐の執行者",
           "description": "“暁”所属の最大HPが150%アップし、行動後にチャクラが20%回復する",

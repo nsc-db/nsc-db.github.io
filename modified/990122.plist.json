@@ -2231,6 +2231,18 @@
           "voiceDeath": "orochimaru_death_02_02"
         },
         {
+          "cardVoiceId": "188",
+          "cardId": "20050416",
+          "dirName": "pain",
+          "evolutionStep": "",
+          "voiceAppear": "pain_menu_03",
+          "voiceSkill1": "pain_attack_02_03,pain_pursuit_02_01",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "pain_menu_04",
+          "voiceDeath": "pain_damage_02_02"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

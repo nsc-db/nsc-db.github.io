@@ -415,19 +415,6 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
-          "worldStageId": "1231",
-          "worldAreaId": "5",
-          "priority": "1",
-          "name": "戦火の華",
-          "description": "個人Ptを集めて報酬を獲得！\r\nサクラの固有忍具を獲得しよう！\r\n忍具を獲得して班を強化しよう！",
-          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
-          "type": "0",
-          "prerequisiteWorldStageId": "0",
-          "openWeek": null,
-          "openTime": "0000.00.00 00:00:00",
-          "closeTime": "0000.00.00 00:00:00"
-        },
-        {
           "worldStageId": "1233",
           "worldAreaId": "5",
           "priority": "1",
