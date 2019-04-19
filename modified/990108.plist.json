@@ -11296,6 +11296,32 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "888",
+          "name": "吹き荒れる蝦蟇仙風",
+          "description": "木ノ葉隠れの里所属のキャラが3回行動するまで攻撃力150％アップ&amp;キャンセル無効",
+          "effectIdx1": "1409",
+          "effectIdx2": "2070",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "891",
+          "name": "新世代の導き手",
+          "description": "木ノ葉隠れの里所属の素早さ60%アップ、全スキルダメージ60%アップ",
+          "effectIdx1": "13059",
+          "effectIdx2": "678",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

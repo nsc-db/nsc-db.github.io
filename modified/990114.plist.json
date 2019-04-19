@@ -2057,5 +2057,15 @@
           "subScore": "0",
           "color": "16774242",
           "type": "3"
+        },
+        {
+          "cardUnusualId": "210",
+          "category": "3",
+          "iconId": "1230",
+          "name": "ド根性",
+          "description": "弱体系の特殊状態を解除&amp;無効化、HP0以下で耐える、攻撃・防御・素早さがアップ",
+          "subScore": "0",
+          "color": "16774242",
+          "type": "2"
         }
       ]

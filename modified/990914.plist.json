@@ -1119,5 +1119,11 @@
           "hpGaugeHeight": "10",
           "motionType": "1",
           "attackScriptName": "skip"
+        },
+        {
+          "modelId": "319",
+          "hpGaugeHeight": "50",
+          "motionType": "7",
+          "attackScriptName": "cha0319_03"
         }
       ]

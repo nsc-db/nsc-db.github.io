@@ -2243,6 +2243,30 @@
           "voiceDeath": "pain_damage_02_02"
         },
         {
+          "cardVoiceId": "189",
+          "cardId": "20050408",
+          "dirName": "naruto",
+          "evolutionStep": "",
+          "voiceAppear": "naruto_pursuit_02_05",
+          "voiceSkill1": "naruto_gacha_tap_01,naruto_skill_02_14",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "naruto_win_02_11",
+          "voiceDeath": "naruto_death_02_05"
+        },
+        {
+          "cardVoiceId": "191",
+          "cardId": "20050501",
+          "dirName": "kakasi",
+          "evolutionStep": "",
+          "voiceAppear": "kakasi_battle_02_05",
+          "voiceSkill1": "kakasi_battle_02_09",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "kakasi_win_02_05",
+          "voiceDeath": "kakasi_death_02_06"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

@@ -17871,6 +17871,22 @@
           "recipeName": "世界を守る意志"
         },
         {
+          "crystalId": "20403",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "615",
+          "effectIdx2": "182",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "シマの根付",
+          "crystalDescription": "全スキルダメージと攻撃力が30%アップ",
+          "crystalImageId": "204035",
+          "recipeId": "20403",
+          "recipeName": "シマの根付"
+        },
+        {
           "crystalId": "20404",
           "crystalType": "12",
           "crystalRare": "5",

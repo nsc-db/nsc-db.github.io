@@ -9923,6 +9923,18 @@
           "effectIdx4": "0"
         },
         {
+          "crystalOverwriteEffectId": "841",
+          "targetCrystal": "20403",
+          "description": "全スキルダメージと攻撃力が150%アップ、素早さが30%アップ、通常攻撃が必中",
+          "charaIds": "106,",
+          "cardIds": "20001519,20001549,20001709,20001763,20001782,",
+          "charaGroupIds": "0",
+          "effectIdx1": "794",
+          "effectIdx2": "1268",
+          "effectIdx3": "183",
+          "effectIdx4": "30"
+        },
+        {
           "crystalOverwriteEffectId": "842",
           "targetCrystal": "20412",
           "description": "弱体・状態異常無効、素早さ100アップ、2回行動までキャンセル無効",

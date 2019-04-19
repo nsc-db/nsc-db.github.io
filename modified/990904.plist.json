@@ -454,6 +454,19 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
+          "worldStageId": "1237",
+          "worldAreaId": "5",
+          "priority": "1",
+          "name": "超極秘任務！第七班の長～い4日間！",
+          "description": "5月のプレミアムキャラを獲得しよう！",
+          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
           "worldStageId": "1244",
           "worldAreaId": "5",
           "priority": "4",

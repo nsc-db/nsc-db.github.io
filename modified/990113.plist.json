@@ -26183,6 +26183,30 @@
           "effectParam3": "0"
         },
         {
+          "cardEffectId": "2217",
+          "timing": "14",
+          "conditionType": "0",
+          "conditionLower": "0",
+          "conditionUpper": "0",
+          "parcent": "10000",
+          "effectId": "51",
+          "effectParam1": "5",
+          "effectParam2": "57",
+          "effectParam3": "750000"
+        },
+        {
+          "cardEffectId": "2218",
+          "timing": "1",
+          "conditionType": "6",
+          "conditionLower": "0",
+          "conditionUpper": "4",
+          "parcent": "10000",
+          "effectId": "18",
+          "effectParam1": "0",
+          "effectParam2": "22000",
+          "effectParam3": "0"
+        },
+        {
           "cardEffectId": "10000",
           "timing": "11",
           "conditionType": "0",

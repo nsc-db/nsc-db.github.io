@@ -2771,6 +2771,15 @@
           "category": "0"
         },
         {
+          "cardBehaveAffectId": "10087",
+          "timing": "1",
+          "func": "20",
+          "params": "210,0",
+          "comp": "0",
+          "compParams": "0",
+          "category": "0"
+        },
+        {
           "cardBehaveAffectId": "1000001",
           "timing": "5",
           "func": "27",
@@ -4472,6 +4481,15 @@
           "category": "0"
         },
         {
+          "cardBehaveAffectId": "9010027",
+          "timing": "1",
+          "func": "41",
+          "params": "3,0",
+          "comp": "3",
+          "compParams": "8",
+          "category": "0"
+        },
+        {
           "cardBehaveAffectId": "9020000",
           "timing": "5",
           "func": "41",
@@ -5135,6 +5153,15 @@
           "params": "0,0",
           "comp": "5",
           "compParams": "206",
+          "category": "0"
+        },
+        {
+          "cardBehaveAffectId": "15031021",
+          "timing": "1",
+          "func": "90",
+          "params": "0,0",
+          "comp": "5",
+          "compParams": "57",
           "category": "0"
         },
         {
@@ -6746,6 +6773,42 @@
           "params": "75,0",
           "comp": "9",
           "compParams": "1,2",
+          "category": "0"
+        },
+        {
+          "cardBehaveAffectId": "20050087",
+          "timing": "1",
+          "func": "20",
+          "params": "210,0",
+          "comp": "9",
+          "compParams": "24",
+          "category": "0"
+        },
+        {
+          "cardBehaveAffectId": "20050089",
+          "timing": "1",
+          "func": "20",
+          "params": "1,0",
+          "comp": "9",
+          "compParams": "1,2,3,17",
+          "category": "0"
+        },
+        {
+          "cardBehaveAffectId": "20050090",
+          "timing": "1",
+          "func": "20",
+          "params": "2,0",
+          "comp": "9",
+          "compParams": "1,2,3,17",
+          "category": "0"
+        },
+        {
+          "cardBehaveAffectId": "20050091",
+          "timing": "1",
+          "func": "20",
+          "params": "3,0",
+          "comp": "9",
+          "compParams": "1,2,3,17",
           "category": "0"
         },
         {
