@@ -5904,6 +5904,14 @@ window.skillname=[
           "name": "オレ達で世界を救うぞ！"
         },
         {
+          "cardBattleSkillNameId": "2683",
+          "name": "穿杭・神羅天征"
+        },
+        {
+          "cardBattleSkillNameId": "2684",
+          "name": "秩序を正す神だ"
+        },
+        {
           "cardBattleSkillNameId": "2693",
           "name": "痛てーだろ………？なァ…？"
         },
@@ -5954,6 +5962,18 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "2705",
           "name": "そろそろいいか？"
+        },
+        {
+          "cardBattleSkillNameId": "2706",
+          "name": "螺旋連丸"
+        },
+        {
+          "cardBattleSkillNameId": "2707",
+          "name": "先にやっちまわねーとな！"
+        },
+        {
+          "cardBattleSkillNameId": "2712",
+          "name": "よし、行こう！"
         },
         {
           "cardBattleSkillNameId": "10136",

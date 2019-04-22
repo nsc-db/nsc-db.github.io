@@ -17872,6 +17872,22 @@ window.gear=[
           "recipeName": "世界を守る意志"
         },
         {
+          "crystalId": "20403",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "615",
+          "effectIdx2": "182",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "シマの根付",
+          "crystalDescription": "全スキルダメージと攻撃力が30%アップ",
+          "crystalImageId": "204035",
+          "recipeId": "20403",
+          "recipeName": "シマの根付"
+        },
+        {
           "crystalId": "20404",
           "crystalType": "12",
           "crystalRare": "5",
@@ -17950,6 +17966,22 @@ window.gear=[
           "crystalImageId": "204115",
           "recipeId": "20411",
           "recipeName": "熱狂的ｼﾞｬｼﾝ教信者"
+        },
+        {
+          "crystalId": "20412",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "775",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "平和な世界への想い",
+          "crystalDescription": "弱体と状態異常を軽減",
+          "crystalImageId": "204125",
+          "recipeId": "20412",
+          "recipeName": "平和な世界への想い"
         },
         {
           "crystalId": "20413",
@@ -18206,5 +18238,21 @@ window.gear=[
           "crystalImageId": "204345",
           "recipeId": "20434",
           "recipeName": "白蛇(剛)"
+        },
+        {
+          "crystalId": "20435",
+          "crystalType": "13",
+          "crystalRare": "5",
+          "effectIdx1": "21000",
+          "effectIdx2": "13649",
+          "effectIdx3": "1115",
+          "effectIdx4": "0",
+          "money": "1000000",
+          "saleMoney": "2500",
+          "crystalName": "連合戦勲章",
+          "crystalDescription": "スキル発動速度1段階アップ、バトル開始時にチャクラ50%回復、素早さ150アップ",
+          "crystalImageId": "204355",
+          "recipeId": "20435",
+          "recipeName": "連合戦勲章"
         }
 ]

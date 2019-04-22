@@ -19251,6 +19251,60 @@ window.ability=[
           "effectIdx3": "2196"
         },
         {
+          "abilityId": "2199",
+          "abilityName": "操重の瞳",
+          "abilityDescription": "バトル開始時に先頭の味方にかばう状態を付与し、“暁”所属への単体スキル攻撃を受けさせる",
+          "abilityEffectDescription": "バトル開始時に先頭の味方にかばう状態を付与し、“暁”所属への単体スキル攻撃を受けさせる",
+          "effectIdx1": "2215",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2200",
+          "abilityName": "痛烈な憎念",
+          "abilityDescription": "HP0以下で2回までHPが全回復、HP100%の時に素早さ120%アップ",
+          "abilityEffectDescription": "HP0以下で2回までHPが全回復、HP100%の時に素早さ120%アップ",
+          "effectIdx1": "1057",
+          "effectIdx2": "874",
+          "effectIdx3": "2216"
+        },
+        {
+          "abilityId": "2201",
+          "abilityName": "身に付けし蝦蟇仙術",
+          "abilityDescription": "バトル開始時に特殊状態「仙人モード」になり、5回行動するまで攻撃・防御・素早さが120%アップ",
+          "abilityEffectDescription": "バトル開始時に特殊状態「仙人モード」になり、5回行動するまで攻撃・防御・素早さが120%アップ",
+          "effectIdx1": "2217",
+          "effectIdx2": "2218",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2202",
+          "abilityName": "諦めない心",
+          "abilityDescription": "状態異常を無効化し、HP0以下で2回まで耐える",
+          "abilityEffectDescription": "状態異常を無効化し、HP0以下で2回まで耐える",
+          "effectIdx1": "82",
+          "effectIdx2": "1057",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2207",
+          "abilityName": "木ノ葉隠れの模範",
+          "abilityDescription": "攻撃力を100%アップ、HP0以下で1回耐える",
+          "abilityEffectDescription": "攻撃力を100%アップ、HP0以下で1回耐える",
+          "effectIdx1": "264",
+          "effectIdx2": "312",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2208",
+          "abilityName": "後進を導く生き様",
+          "abilityDescription": "行動後にHPが10％回復、高確率でスキル回避",
+          "abilityEffectDescription": "行動後にHPが10％回復、高確率でスキル回避",
+          "effectIdx1": "357",
+          "effectIdx2": "968",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

@@ -11206,6 +11206,19 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "877",
+          "name": "六凶の闇天",
+          "description": "“暁”所属の素早さと最大HPを100%アップ",
+          "effectIdx1": "253",
+          "effectIdx2": "684",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "8",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "878",
           "name": "嗜虐の執行者",
           "description": "“暁”所属の最大HPが150%アップし、行動後にチャクラが20%回復する",
@@ -11280,6 +11293,32 @@ window.lead=[
           "compType": "1",
           "target1Category": "2",
           "target1Param": "8",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "888",
+          "name": "吹き荒れる蝦蟇仙風",
+          "description": "木ノ葉隠れの里所属のキャラが3回行動するまで攻撃力150％アップ&amp;キャンセル無効",
+          "effectIdx1": "1409",
+          "effectIdx2": "2070",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "891",
+          "name": "新世代の導き手",
+          "description": "木ノ葉隠れの里所属の素早さ60%アップ、全スキルダメージ60%アップ",
+          "effectIdx1": "13059",
+          "effectIdx2": "678",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
           "target2Category": "0",
           "target2Param": "0"
         },
