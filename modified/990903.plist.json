@@ -77,5 +77,29 @@
           "description": "忍連合戦説明1",
           "openTime": "2014.01.01 00:00:00",
           "closeTime": "2034.01.01 00:00:00"
+        },
+        {
+          "worldAreaId": "12",
+          "priority": "0",
+          "name": "封印任務",
+          "description": "鍵任務説明1",
+          "openTime": "2014.01.01 00:00:00",
+          "closeTime": "2034.01.01 00:00:00"
+        },
+        {
+          "worldAreaId": "13",
+          "priority": "0",
+          "name": "超忍覚醒任務",
+          "description": "忍玉説明1",
+          "openTime": "2014.01.01 00:00:00",
+          "closeTime": "2034.01.01 00:00:00"
+        },
+        {
+          "worldAreaId": "14",
+          "priority": "0",
+          "name": "初心者",
+          "description": "初心者説明1",
+          "openTime": "2014.01.01 00:00:00",
+          "closeTime": "2034.01.01 00:00:00"
         }
       ]

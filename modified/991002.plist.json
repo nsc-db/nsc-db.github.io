@@ -1717,7 +1717,7 @@
           "oneTimeFlg": "1",
           "exclusionFlg": "0",
           "saveFlg": "1",
-          "memo": "アリーナチュートリアル(POPUP)",
+          "memo": "アリーナチュートリアル TOP (POPUP)",
           "deleteFlg": "0"
         },
         {
@@ -1746,6 +1746,20 @@
           "exclusionFlg": "0",
           "saveFlg": "1",
           "memo": "アリーナチュートリアル 編成 (POPUP)",
+          "deleteFlg": "0"
+        },
+        {
+          "scriptSettingId": "70000050",
+          "triggerId": "0",
+          "priority": "0",
+          "eventId": "0",
+          "worldStageId": "0",
+          "worldPhaseId": "0",
+          "compositionNum": "0",
+          "oneTimeFlg": "1",
+          "exclusionFlg": "0",
+          "saveFlg": "1",
+          "memo": "鍵任務チュートリアル TOP(POPUP)",
           "deleteFlg": "0"
         },
         {

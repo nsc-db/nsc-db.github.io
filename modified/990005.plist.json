@@ -729,6 +729,16 @@
           "enemyEffects": "80000,"
         },
         {
+          "battleFieldEffectId": "82",
+          "name": "神忍ランク",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "1",
+          "uiIdx": "1",
+          "partyEffects": "1280,1549,2254,",
+          "enemyEffects": null
+        },
+        {
           "battleFieldEffectId": "10001",
           "name": "始球空間",
           "category": "3",

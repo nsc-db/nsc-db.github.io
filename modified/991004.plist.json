@@ -3959,6 +3959,24 @@
           "speechCharactorName": "はたけカカシ"
         },
         {
+          "speechCharactorId": "665",
+          "cardId": "20001615",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "千手柱間"
+        },
+        {
+          "speechCharactorId": "666",
+          "cardId": "20040512",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはマダラ"
+        },
+        {
+          "speechCharactorId": "667",
+          "cardId": "20001758",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うずまきナルト"
+        },
+        {
           "speechCharactorId": "1000",
           "cardId": "21000091",
           "speechCharactorImgId": "1000",

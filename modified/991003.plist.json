@@ -1,6 +1,6 @@
 [        {
           "defineKey": "card_rare_max",
-          "defineValue": "6"
+          "defineValue": "7"
         },
         {
           "defineKey": "card_status_up_rate",
@@ -587,6 +587,14 @@
           "defineValue": "259200"
         },
         {
+          "defineKey": "sale_max_count",
+          "defineValue": "10"
+        },
+        {
+          "defineKey": "powerup_select_max",
+          "defineValue": "10"
+        },
+        {
           "defineKey": "not_release_dailypack",
           "defineValue": "0"
         },
@@ -619,7 +627,63 @@
           "defineValue": "arena_battle"
         },
         {
+          "defineKey": "card_level_max_8",
+          "defineValue": "140"
+        },
+        {
+          "defineKey": "evolution_enable_level_7",
+          "defineValue": "120"
+        },
+        {
+          "defineKey": "evolution_price_type_evolution_step_7",
+          "defineValue": "625"
+        },
+        {
           "defineKey": "is_enable_arena_popularity_button",
           "defineValue": "0"
+        },
+        {
+          "defineKey": "is_view_material_in_collection",
+          "defineValue": "0"
+        },
+        {
+          "defineKey": "powerup_fusion_material_max",
+          "defineValue": "5"
+        },
+        {
+          "defineKey": "asset_material_card_limit",
+          "defineValue": "5000"
+        },
+        {
+          "defineKey": "is_enable_card_type_filter",
+          "defineValue": "0"
+        },
+        {
+          "defineKey": "powerup_fusion_material_item_max",
+          "defineValue": "3"
+        },
+        {
+          "defineKey": "is_enable_mission_top_raid_button",
+          "defineValue": "0"
+        },
+        {
+          "defineKey": "is_enable_gacha_material_auto_sale",
+          "defineValue": "0"
+        },
+        {
+          "defineKey": "is_enable_material_card_use_count_mode",
+          "defineValue": "1"
+        },
+        {
+          "defineKey": "material_card_use_count_mode_strength_max",
+          "defineValue": "5"
+        },
+        {
+          "defineKey": "material_card_use_count_mode_sell_max",
+          "defineValue": "10"
+        },
+        {
+          "defineKey": "asset_material_card_limit_all",
+          "defineValue": "5000"
         }
       ]

@@ -2255,6 +2255,18 @@
           "voiceDeath": "naruto_death_02_05"
         },
         {
+          "cardVoiceId": "190",
+          "cardId": "20050412",
+          "dirName": "madara",
+          "evolutionStep": "",
+          "voiceAppear": "madara_skill_02_09",
+          "voiceSkill1": "madara_skill_02_20",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "madara_gacha_tap_03",
+          "voiceDeath": "madara_menu_02"
+        },
+        {
           "cardVoiceId": "191",
           "cardId": "20050501",
           "dirName": "kakasi",
@@ -2265,6 +2277,66 @@
           "voicePursuit": "",
           "voiceWin": "kakasi_win_02_05",
           "voiceDeath": "kakasi_death_02_06"
+        },
+        {
+          "cardVoiceId": "192",
+          "cardId": "20050503",
+          "dirName": "naruto",
+          "evolutionStep": "",
+          "voiceAppear": "naruto_battle_02_04",
+          "voiceSkill1": "naruto_pursuit_02_02,kurama_skill_02_01,minato_pursuit_02_02",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "naruto_battle_02_29",
+          "voiceDeath": "naruto_death_02_07"
+        },
+        {
+          "cardVoiceId": "193",
+          "cardId": "20050504",
+          "dirName": "minato",
+          "evolutionStep": "",
+          "voiceAppear": "minato_battle_02_02",
+          "voiceSkill1": "minato_battle_02_04,kurama_skill_02_01,naruto_win_02_03",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "minato_win_02_01",
+          "voiceDeath": "minato_death_02_03"
+        },
+        {
+          "cardVoiceId": "194",
+          "cardId": "20050505",
+          "dirName": "kushina",
+          "evolutionStep": "",
+          "voiceAppear": "kushina_menu_02",
+          "voiceSkill1": "kushina_pursuit_02_02,kushina_attack_02_02",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "kushina_attack_02_03",
+          "voiceDeath": "kushina_death_02_03"
+        },
+        {
+          "cardVoiceId": "195",
+          "cardId": "20050511",
+          "dirName": "hashirama",
+          "evolutionStep": "",
+          "voiceAppear": "hashirama_menu_02",
+          "voiceSkill1": "hashirama_skill_02_08",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "hashirama_win_02_03",
+          "voiceDeath": "hashirama_death_02_03"
+        },
+        {
+          "cardVoiceId": "196",
+          "cardId": "20050502",
+          "dirName": "obito",
+          "evolutionStep": "",
+          "voiceAppear": "obito_battle_04_01",
+          "voiceSkill1": "obito_attack_04_01,obito_attack_04_03",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "obito_pursuit_04_02",
+          "voiceDeath": "obito_death_04_02"
         },
         {
           "cardVoiceId": "8001",

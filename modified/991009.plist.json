@@ -1955,7 +1955,31 @@
           "itemImgId": "128"
         },
         {
+          "shopExchangeItemId": "334",
+          "itemName": "昇級試験Pt",
+          "measure": "0",
+          "itemImgId": "128"
+        },
+        {
           "shopExchangeItemId": "335",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "337",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "338",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "339",
           "itemName": "個人Pt",
           "measure": "0",
           "itemImgId": "23"
@@ -2519,6 +2543,12 @@
           "itemImgId": "41"
         },
         {
+          "shopExchangeItemId": "2053",
+          "itemName": "祭札[5月]",
+          "measure": "0",
+          "itemImgId": "41"
+        },
+        {
           "shopExchangeItemId": "2061",
           "itemName": "忍具札",
           "measure": "0",
@@ -2531,8 +2561,20 @@
           "itemImgId": "2029"
         },
         {
+          "shopExchangeItemId": "2063",
+          "itemName": "忍具札",
+          "measure": "0",
+          "itemImgId": "2061"
+        },
+        {
           "shopExchangeItemId": "2500",
           "itemName": "神忍札[4月]",
+          "measure": "0",
+          "itemImgId": "2500"
+        },
+        {
+          "shopExchangeItemId": "2501",
+          "itemName": "神忍札[5月]",
           "measure": "0",
           "itemImgId": "2500"
         },

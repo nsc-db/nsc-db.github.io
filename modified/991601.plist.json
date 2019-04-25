@@ -948,6 +948,32 @@
           "selectType": "1"
         },
         {
+          "itemId": "11074",
+          "name": "期間限定メンテ味",
+          "description": "スタミナを全回復するラーメン（4月30日15:59まで期間限定）",
+          "resultWord": "0",
+          "itemCategoryId": "1",
+          "itemValue": "1000000",
+          "itemNum": "0",
+          "itemImageId": "11020",
+          "needCount": "1",
+          "priority": "1",
+          "selectType": "1"
+        },
+        {
+          "itemId": "11075",
+          "name": "期間限定4周年ラーメン2杯目",
+          "description": "スタミナを全回復するラーメン（5月7日15:59まで期間限定）",
+          "resultWord": "0",
+          "itemCategoryId": "1",
+          "itemValue": "1000000",
+          "itemNum": "0",
+          "itemImageId": "11020",
+          "needCount": "1",
+          "priority": "1",
+          "selectType": "1"
+        },
+        {
           "itemId": "11077",
           "name": "5月限定ラーメン(2019)",
           "description": "スタミナを全回復するラーメン（5月31日まで期間限定）",
@@ -1060,6 +1086,19 @@
           "itemValue": "0",
           "itemNum": "0",
           "itemImageId": "16002",
+          "needCount": "1",
+          "priority": "1",
+          "selectType": "3"
+        },
+        {
+          "itemId": "16003",
+          "name": "4周年記念メダル",
+          "description": "4周年記念大抽選会で使用できるメダル。（5月14日23時59分まで使用可能）",
+          "resultWord": "0",
+          "itemCategoryId": "15000",
+          "itemValue": "0",
+          "itemNum": "0",
+          "itemImageId": "16003",
           "needCount": "1",
           "priority": "1",
           "selectType": "3"
@@ -1806,6 +1845,32 @@
           "selectType": "2"
         },
         {
+          "itemId": "52025",
+          "name": "期間限定ﾄﾞﾛｯﾌﾟ数2倍の秘伝書",
+          "description": "バトルでの獲得ドロップ数が２倍になります。（4月30日15:59まで期間限定）",
+          "resultWord": "忍/素材ドロップ数２倍",
+          "itemCategoryId": "10",
+          "itemValue": "20000",
+          "itemNum": "0",
+          "itemImageId": "51000",
+          "needCount": "1",
+          "priority": "100",
+          "selectType": "2"
+        },
+        {
+          "itemId": "52026",
+          "name": "限定ﾄﾞﾛｯﾌﾟ数2倍の秘伝書",
+          "description": "バトルでの獲得ドロップ数が２倍になります。（5月7日15:59まで期間限定）",
+          "resultWord": "忍/素材ドロップ数２倍",
+          "itemCategoryId": "10",
+          "itemValue": "20000",
+          "itemNum": "0",
+          "itemImageId": "51000",
+          "needCount": "1",
+          "priority": "100",
+          "selectType": "2"
+        },
+        {
           "itemId": "60000",
           "name": "SNB総選挙投票券",
           "description": "SNB総選挙の投票に必要なアイテム",
@@ -1931,6 +1996,19 @@
           "itemValue": "0",
           "itemNum": "0",
           "itemImageId": "60008",
+          "needCount": "1",
+          "priority": "1",
+          "selectType": "3"
+        },
+        {
+          "itemId": "60010",
+          "name": "★7覚醒記念! 〜超忍篇〜投票券",
+          "description": "★7覚醒記念! 総選挙で投票に必要なアイテム。（5月24日15:59まで期間限定）",
+          "resultWord": "0",
+          "itemCategoryId": "20",
+          "itemValue": "0",
+          "itemNum": "0",
+          "itemImageId": "60010",
           "needCount": "1",
           "priority": "1",
           "selectType": "3"
