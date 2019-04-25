@@ -10062,6 +10062,19 @@ window.lead=[
           "target2Param": "1"
         },
         {
+          "cardLeaderSkillId": "782",
+          "name": "六禍に挑む三仙",
+          "description": "Konoha ATK, Crit Damage and Crit Chance +150%",
+          "effectIdx1": "1268",
+          "effectIdx2": "2198",
+          "effectIdx3": "2182",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "783",
           "name": "蒼き異名の後継者",
           "description": "Konoha Character Maximum HP and ATK +30%",
@@ -11141,6 +11154,19 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "877",
+          "name": "六凶の闇天",
+          "description": "Akatsuki SPD and HP +100%",
+          "effectIdx1": "253",
+          "effectIdx2": "684",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "8",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "878",
           "name": "嗜虐の執行者",
           "description": "Akatsuki HP +150%, Chakra Regen +20%",
@@ -11189,6 +11215,58 @@ window.lead=[
           "compType": "1",
           "target1Category": "1",
           "target1Param": "3",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "886",
+          "name": "隠蛇ノ牙",
+          "description": "Courage and Akatsuki Characters are immune to Debuff and Status Effects",
+          "effectIdx1": "880",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "2",
+          "target1Category": "2",
+          "target1Param": "8",
+          "target2Category": "1",
+          "target2Param": "7"
+        },
+        {
+          "cardLeaderSkillId": "887",
+          "name": "砂塵の毒牙",
+          "description": "Akatsuki HP and DEF +100%",
+          "effectIdx1": "684",
+          "effectIdx2": "12099",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "8",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "888",
+          "name": "吹き荒れる蝦蟇仙風",
+          "description": "For 3 turns, ATK +150% and Immune to Cancel for Konoha Characters",
+          "effectIdx1": "1409",
+          "effectIdx2": "2070",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "891",
+          "name": "新世代の導き手",
+          "description": "Konoha SPD and Skill Damage +60%",
+          "effectIdx1": "13059",
+          "effectIdx2": "678",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
           "target2Category": "0",
           "target2Param": "0"
         },

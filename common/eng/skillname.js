@@ -7352,6 +7352,16 @@ window.skillname=[
           "eng": "Let's Save the World!"
         },
         {
+          "cardBattleSkillNameId": "2683",
+          "name": "穿杭・神羅天征",
+          "eng": "Piercing Stake: Almighty Push"
+        },
+        {
+          "cardBattleSkillNameId": "2684",
+          "name": "秩序を正す神だ",
+          "eng": "The God Who Will Correct the System"
+        },
+        {
           "cardBattleSkillNameId": "2693",
           "name": "痛てーだろ………？なァ…？",
           "eng": "It Hurts....... Doesn't it...?"
@@ -7385,6 +7395,51 @@ window.skillname=[
           "cardBattleSkillNameId": "2699",
           "name": "オレたちが食い止める",
           "eng": "We'll Stop Them"
+        },
+        {
+          "cardBattleSkillNameId": "2700",
+          "name": "魔幻・蝦蟇臨唱",
+          "eng": "Demonic Illusion: Toad Confrontation Singing"
+        },
+        {
+          "cardBattleSkillNameId": "2701",
+          "name": "どうか少しの間お力添えを",
+          "eng": "Help Me Out A Bit"
+        },
+        {
+          "cardBattleSkillNameId": "2702",
+          "name": "潜影絞蛇手",
+          "eng": "Hidden Shadow Snakes"
+        },
+        {
+          "cardBattleSkillNameId": "2703",
+          "name": "素晴らしい…",
+          "eng": "Wonderful...."
+        },
+        {
+          "cardBattleSkillNameId": "2704",
+          "name": "仕込み毒飛針",
+          "eng": "Prepared Poison Needle"
+        },
+        {
+          "cardBattleSkillNameId": "2705",
+          "name": "そろそろいいか？",
+          "eng": "Slowly Now?"
+        },
+        {
+          "cardBattleSkillNameId": "2706",
+          "name": "螺旋連丸",
+          "eng": "Rasengan Barrage"
+        },
+        {
+          "cardBattleSkillNameId": "2707",
+          "name": "先にやっちまわねーとな！",
+          "eng": "Let's Go Forward!"
+        },
+        {
+          "cardBattleSkillNameId": "2712",
+          "name": "よし、行こう！",
+          "eng": "Alright, Let's Go!"
         },
         {
           "cardBattleSkillNameId": "10136",

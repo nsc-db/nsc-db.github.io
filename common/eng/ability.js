@@ -17559,6 +17559,24 @@ window.ability=[
           "effectIdx3": "2066"
         },
         {
+          "abilityId": "1989",
+          "abilityName": "Mount Myoboku's Sage Jutsu",
+          "abilityDescription": "If there's an Akatsuki or Destroyer enemy, SPD +200%, additional +400% if there's both",
+          "abilityEffectDescription": "敵に滅キャラか“暁”所属がいると素早さ200%アップ、どちらもいると素早さ400%アップ",
+          "effectIdx1": "2138",
+          "effectIdx2": "2180",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "1990",
+          "abilityName": "Second Sage Toad",
+          "abilityDescription": "When HP reach 0, withstand 5 attacks. After withstanding an attack, Skill Damage +300% chance to recover all HP when attacked",
+          "abilityEffectDescription": "HP0以下で5回まで耐える、1回目の耐える発動時にスキルダメージ300%アップ、攻撃を受けた時に確率でHP全回復",
+          "effectIdx1": "1512",
+          "effectIdx2": "2181",
+          "effectIdx3": "1327"
+        },
+        {
           "abilityId": "1991",
           "abilityName": "Steady Effort",
           "abilityDescription": "ATK and Skill Damage +100% when HP is above 80%",
@@ -19122,6 +19140,96 @@ window.ability=[
           "abilityEffectDescription": "確率でスキルを回避する",
           "effectIdx1": "734",
           "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2195",
+          "abilityName": "Endless Search for Immortality",
+          "abilityDescription": "SPD +44.4% per turn (Max 444%), HP and Chakra Recovery +44%",
+          "abilityEffectDescription": "行動するたび素早さが44.4%（最大444%）アップし、HPとチャクラが44％回復する",
+          "effectIdx1": "2187",
+          "effectIdx2": "2188",
+          "effectIdx3": "2189"
+        },
+        {
+          "abilityId": "2196",
+          "abilityName": "Curse of Regeneration",
+          "abilityDescription": "During the 3th - 8th turn, SPD +444%, Cast Speed +4 and gain an extra turn.",
+          "abilityEffectDescription": "3～8回目の行動時、素早さ444%ｱｯﾌﾟ＆ｽｷﾙ発動速度4段階ｱｯﾌﾟ＆再行動する※再行動後にさらに行動はできない",
+          "effectIdx1": "2190",
+          "effectIdx2": "2191",
+          "effectIdx3": "2192"
+        },
+        {
+          "abilityId": "2197",
+          "abilityName": "Tenacious Shell",
+          "abilityDescription": "For 15 turns, Immune to All Skills including Fixed Damage, when HP reach 0, withstand 3 attacks",
+          "abilityEffectDescription": "15回行動まで耐性無視を含む全スキル無効、HP0以下で3回まで耐える",
+          "effectIdx1": "2193",
+          "effectIdx2": "2194",
+          "effectIdx3": "1789"
+        },
+        {
+          "abilityId": "2198",
+          "abilityName": "Poison Jutsu",
+          "abilityDescription": "Chakra +50. When attacked, Skip own action. SPD +50% per turn (Max 1500%)",
+          "abilityEffectDescription": "最大チャクラ量50アップ、敵の攻撃対象になった時に自身の行動が1回無駄、行動ごとに素早さ50%アップ(最大15回)",
+          "effectIdx1": "689",
+          "effectIdx2": "2195",
+          "effectIdx3": "2196"
+        },
+        {
+          "abilityId": "2199",
+          "abilityName": "Eye of Esteemed Fidelity",
+          "abilityDescription": "Grant 'Cover' buff to the lead ally and Protect all Akatsuki allies from Single Target Skills",
+          "abilityEffectDescription": "バトル開始時に先頭の味方にかばう状態を付与し、“暁”所属への単体スキル攻撃を受けさせる",
+          "effectIdx1": "2215",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2200",
+          "abilityName": "Sense of Hatred",
+          "abilityDescription": "When HP reach 0, revive twice. SPD +120% when HP is full",
+          "abilityEffectDescription": "HP0以下で2回までHPが全回復、HP100%の時に素早さ120%アップ",
+          "effectIdx1": "1057",
+          "effectIdx2": "874",
+          "effectIdx3": "2216"
+        },
+        {
+          "abilityId": "2201",
+          "abilityName": "Aquiring Toad Sage Jutsu",
+          "abilityDescription": "Start the battle with 'Sage Mode' state. For 5 turns, ATK, DEF and SPD +120%",
+          "abilityEffectDescription": "バトル開始時に特殊状態「仙人モード」になり、5回行動するまで攻撃・防御・素早さが120%アップ",
+          "effectIdx1": "2217",
+          "effectIdx2": "2218",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2202",
+          "abilityName": "My Heart Will Not Give Up",
+          "abilityDescription": "Immune to Status Effects, when HP reach 0, withstand 2 attacks",
+          "abilityEffectDescription": "状態異常を無効化し、HP0以下で2回まで耐える",
+          "effectIdx1": "82",
+          "effectIdx2": "1057",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2207",
+          "abilityName": "Konoha's Role Model",
+          "abilityDescription": "ATK +100%, when HP reach 0, withstand an attack",
+          "abilityEffectDescription": "攻撃力を100%アップ、HP0以下で1回耐える",
+          "effectIdx1": "264",
+          "effectIdx2": "312",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2208",
+          "abilityName": "Way of Life for the Future",
+          "abilityDescription": "HP Regen +10% and high chance to dodge Skills",
+          "abilityEffectDescription": "行動後にHPが10％回復、高確率でスキル回避",
+          "effectIdx1": "357",
+          "effectIdx2": "968",
           "effectIdx3": "0"
         },
         {
