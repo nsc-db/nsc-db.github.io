@@ -19143,6 +19143,87 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2186",
+          "abilityName": "幅広い鴉の応用",
+          "abilityDescription": "確率でスキルを回避する",
+          "abilityEffectDescription": "確率でスキルを回避する",
+          "effectIdx1": "734",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2187",
+          "abilityName": "Red Pill's Link",
+          "abilityDescription": "When HP reach 0, revive twice, high chance to dodge Skills",
+          "abilityEffectDescription": "HP0以下で2回までHPが全回復、高確率でスキル回避",
+          "effectIdx1": "1057",
+          "effectIdx2": "874",
+          "effectIdx3": "968"
+        },
+        {
+          "abilityId": "2188",
+          "abilityName": "Unpolish Promise",
+          "abilityDescription": "For 3 turns, SPD +111%, starting the 4th turn, Skill Damage +111%",
+          "abilityEffectDescription": "3回行動するまで素早さ111%アップ、4回行動以降はスキルダメージ111%アップ",
+          "effectIdx1": "2175",
+          "effectIdx2": "2176",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2189",
+          "abilityName": "Bug Host",
+          "abilityDescription": "Skill Damage +400% for 4 turns. Chakra -10% per turn",
+          "abilityEffectDescription": "4回行動するまでスキルダメージ400%アップするが、行動するたびにチャクラが10%減少する",
+          "effectIdx1": "2177",
+          "effectIdx2": "1386",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2190",
+          "abilityName": "Secret Strength",
+          "abilityDescription": "Chakra +100, when HP reach 0, withstand 2 attacks. For 1 turn, Chakra Cost is set to 0",
+          "abilityEffectDescription": "最大チャクラ量100アップ、HP0以下で2回まで耐える、1回行動するまでチャクラ消費0",
+          "effectIdx1": "813",
+          "effectIdx2": "1057",
+          "effectIdx3": "1378"
+        },
+        {
+          "abilityId": "2191",
+          "abilityName": "Secret Body Jutsu",
+          "abilityDescription": "When HP reach 0, withstand 5 attacks. When HP is below 5%, SPD -50%",
+          "abilityEffectDescription": "HP0以下で5回まで耐えるが、HP5%以下の時に素早さが50%ダウン",
+          "effectIdx1": "1512",
+          "effectIdx2": "2178",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2192",
+          "abilityName": "Akimichi Clan's Pride",
+          "abilityDescription": "Skill Damage +200% when HP is above 50%",
+          "abilityEffectDescription": "HP50%以上の時にスキルダメージ200%アップ",
+          "effectIdx1": "31419",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2193",
+          "abilityName": "'Ino-Shika-Cho' Courage",
+          "abilityDescription": "Immune to Status Effects and Cancel, high chance to dodge Skills",
+          "abilityEffectDescription": "状態異常とキャンセル無効、高確率でスキル回避",
+          "effectIdx1": "82",
+          "effectIdx2": "1751",
+          "effectIdx3": "968"
+        },
+        {
+          "abilityId": "2194",
+          "abilityName": "Maiden's Ambition",
+          "abilityDescription": "Skill Damage +100% when HP is full. When HP reach 0, withstand an attack and recover all HP",
+          "abilityEffectDescription": "HP100%の時にスキルダメージ200%アップ、HP0以下で1度だけHPが全回復する",
+          "effectIdx1": "2179",
+          "effectIdx2": "312",
+          "effectIdx3": "874"
+        },
+        {
           "abilityId": "2195",
           "abilityName": "Endless Search for Immortality",
           "abilityDescription": "SPD +44.4% per turn (Max 444%), HP and Chakra Recovery +44%",
@@ -19212,6 +19293,42 @@ window.ability=[
           "abilityEffectDescription": "状態異常を無効化し、HP0以下で2回まで耐える",
           "effectIdx1": "82",
           "effectIdx2": "1057",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2203",
+          "abilityName": "Clan's Dedicated Blade",
+          "abilityDescription": "Immune to Debuff and Status Effects. For 1 turn, immune to Fixed Damage",
+          "abilityEffectDescription": "弱体と状態異常を無効化、1回行動まで受ける耐性無視ダメージ0",
+          "effectIdx1": "1772",
+          "effectIdx2": "82",
+          "effectIdx3": "1961"
+        },
+        {
+          "abilityId": "2204",
+          "abilityName": "Conflicted Controlled Eye",
+          "abilityDescription": "High chance to dodge Skills. SPD +100% and Skill Damage +300% when HP is above 90%",
+          "abilityEffectDescription": "高確率でスキル回避、HP90%以上のときに素早さ100%アップ＆スキルダメージ300%アップ",
+          "effectIdx1": "968",
+          "effectIdx2": "2219",
+          "effectIdx3": "2228"
+        },
+        {
+          "abilityId": "2205",
+          "abilityName": "Craving for Power",
+          "abilityDescription": "Chakra +100, when HP reach 0, withstand an attack and recover all HP",
+          "abilityEffectDescription": "最大チャクラ量100アップ、HP0以下で1度だけ耐え、耐えた時にHP全回復",
+          "effectIdx1": "813",
+          "effectIdx2": "312",
+          "effectIdx3": "874"
+        },
+        {
+          "abilityId": "2206",
+          "abilityName": "Strife Obsession",
+          "abilityDescription": "Immune to Cancel. For 3 turns, SPD +100%",
+          "abilityEffectDescription": "キャンセル無効、3回行動するまで素早さ100%アップ",
+          "effectIdx1": "1751",
+          "effectIdx2": "1265",
           "effectIdx3": "0"
         },
         {
@@ -19618,5 +19735,104 @@ window.ability=[
           "effectIdx1": "13079",
           "effectIdx2": "734",
           "effectIdx3": "0"
-        }
+        },
+        {
+          "abilityId": "200001",
+          "abilityName": "Heart Type Specialization",
+          "abilityDescription": "When attacking an Heart character, the enemy's resistance becomes a weakness. +50% Damage Cut from Heart characters",
+          "abilityEffectDescription": "心属性へのスキル攻撃時に相手の耐性を弱点とする。心属性からのダメージを50%カット",
+          "effectIdx1": "229004",
+          "effectIdx2": "228050",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "200002",
+          "abilityName": "Technique Type Specialization",
+          "abilityDescription": "When attacking an Technique character, the enemy's resistance becomes a weakness. +50% Damage Cut from Technique characters",
+          "abilityEffectDescription": "技属性へのスキル攻撃時に相手の耐性を弱点とする。技属性からのダメージを50%カット",
+          "effectIdx1": "229104",
+          "effectIdx2": "228150",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "200003",
+          "abilityName": "Body Type Specialization",
+          "abilityDescription": "When attacking an Body character, the enemy's resistance becomes a weakness. +50% Damage Cut from Body characters",
+          "abilityEffectDescription": "体属性へのスキル攻撃時に相手の耐性を弱点とする。体属性からのダメージを50%カット",
+          "effectIdx1": "229204",
+          "effectIdx2": "228250",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "200006",
+          "abilityName": "Intellect Type Specialization",
+          "abilityDescription": "When attacking an Intellect character, the enemy's resistance becomes a weakness. +50% Damage Cut from Intellect characters",
+          "abilityEffectDescription": "知属性へのスキル攻撃時に相手の耐性を弱点とする。知属性からのダメージを50%カット",
+          "effectIdx1": "229304",
+          "effectIdx2": "228350",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "200007",
+          "abilityName": "Courage Type Specialization",
+          "abilityDescription": "When attacking an Courage character, the enemy's resistance becomes a weakness. +50% Damage Cut from Courage characters",
+          "abilityEffectDescription": "勇属性へのスキル攻撃時に相手の耐性を弱点とする。勇属性からのダメージを50%カット",
+          "effectIdx1": "229404",
+          "effectIdx2": "228450",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "210001",
+          "abilityName": "vs Technique Damage Cut and Weakness",
+          "abilityDescription": "When fighting a Heart Boss, Technique Damage Cut +50% and Deal Type Advantage Damage",
+          "abilityEffectDescription": "心属性ボス用　技属性からのダメ50%カット＆技属性に食らわせた時弱点で食らわせる",
+          "effectIdx1": "229104",
+          "effectIdx2": "228150",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "210002",
+          "abilityName": "vs Body Damage Cut and Weakness",
+          "abilityDescription": "When fighting a Technique Boss, Body Damage Cut +50% and Deal Type Advantage Damage",
+          "abilityEffectDescription": "技属性ボス用　体属性からのダメ50%カット＆体属性に食らわせた時弱点で食らわせる",
+          "effectIdx1": "229204",
+          "effectIdx2": "228250",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "210003",
+          "abilityName": "vs Heart Damage Cut and Weakness",
+          "abilityDescription": "When fighting a Body Boss, Heart Damage Cut +50% and Deal Type Advantage Damage",
+          "abilityEffectDescription": "体属性ボス用　心属性からのダメ50%カット＆心属性に食らわせた時弱点で食らわせる",
+          "effectIdx1": "229004",
+          "effectIdx2": "228050",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "210004",
+          "abilityName": "vs Courage Damage Cut and Weakness",
+          "abilityDescription": "When fighting an Intellect Boss, Courage Damage Cut +50% and Deal Type Advantage Damage",
+          "abilityEffectDescription": "知属性ボス用　勇属性からのダメ50%カット＆雄属性に食らわせた時弱点で食らわせる",
+          "effectIdx1": "229404",
+          "effectIdx2": "228450",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "210005",
+          "abilityName": "vs Intellect Damage Cut and Weakness",
+          "abilityDescription": "When fighting a Courage Boss, Intellect Damage Cut +50% and Deal Type Advantage Damage",
+          "abilityEffectDescription": "勇属性ボス用　知属性からのダメ50%カット＆知属性に食らわせた時弱点で食らわせる",
+          "effectIdx1": "229304",
+          "effectIdx2": "228350",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "210006",
+          "abilityName": "All Skill Damage Cut",
+          "abilityDescription": "If there's a God Boss, All Skills Damage Cut +50%",
+          "abilityEffectDescription": "神忍ボス用　全スキルダメージ50%カット",
+          "effectIdx1": "220050",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
 ]

@@ -3,7 +3,10 @@
 	function _createCard(data, name, type, hp, atk, def, spd, rare, affi, id, rate, tag, target, cast, damage, nature, voiced, type_tag, pvp, nickname, buff, debuff, survive, health, special, positivestate, negativestate, godstate){
 		var image;
 		//Rarity Check
-		if(rare == 6){
+		if(rare == 7){
+			image = id + "_7.png";
+		}
+		else if(rare == 6){
 			image = id + "_6.png";
 		}
 		else{
@@ -300,13 +303,18 @@
 
 	function _buildCardModal(id, thumb, cards, cid){
 		// Icon
-		checkImage('../common/assets/img/units/icons/thumb_' + cid + '_6.png', 
+		checkImage('../common/assets/img/units/icons/thumb_' + cid + '_7.png', 
+			function(){
+			 $('#icon-unit').attr('src', '../common/assets/img/units/icons/thumb_' + cid + '_7.png'); 
+			}, 
 			function(){
 			 $('#icon-unit').attr('src', '../common/assets/img/units/icons/thumb_' + cid + '_6.png'); 
 			}, 
 			function(){
 			 $('#icon-unit').attr('src', '../common/assets/img/units/icons/thumb_' + cid + '.png'); 
 			  } );
+
+
 		var name = '';
 		for(var x in window.chara){
 			if(cid == window.chara[x]['cardId']){
@@ -339,7 +347,6 @@
 						if((window.chara[x]["rare"] != window.evo[n]['rare']) && window.evo[n]['rare'] != 0){
 							rare = window.evo[n]['rare'];
 							change = 1;
-							break;
 						}
 					}
 				}
@@ -660,12 +667,20 @@
 					for(var n in window.ability){
 						if(window.chara[x]['abilityId1'] == window.ability[n]['abilityId']){
 							var check = 0;
+							var seven = 0;
+							var ability3 = 0
 							$('#ability1name-' + i).text(window.ability[n]['abilityName']);
 							$('#ability1-' + i).text(window.ability[n]['abilityDescription']);
 							//Check Evo File
 							for(var g in window.evo){
 								//Compare Character ID to Evo ID
+
 								if(window.chara[x]['cardId'] == window.evo[g]['cardId']){
+									if(window.evo[g]['abilityId3'] != 0){
+										seven = 1
+										ability3 = window.evo[g]['abilityId3'] 
+										
+									}
 									//Check if Evo ID has changed
 									if(window.evo[g]['abilityId1'] != 0){
 										//Check all abilities
@@ -684,6 +699,23 @@
 							if(check == 0){
 								$('#ability1name-six').text(window.ability[n]['abilityName']);
 								$('#ability1-six').text(window.ability[n]['abilityDescription']);
+							}
+							if(seven == 1){
+								for(var t in window.ability){
+									//Check 
+									if(ability3 == window.ability[t]['abilityId']){
+									$('#ability3name-five').text(window.ability[t]['abilityName']);
+									$('#ability3-five').text(window.ability[t]['abilityDescription']);
+									$('#ability3name-six').text(window.ability[t]['abilityName']);
+									$('#ability3-six').text(window.ability[t]['abilityDescription']);
+									}
+								}
+							}
+							else{
+								$('#ability3name-five').text("None");
+								$('#ability3-five').text("None");
+								$('#ability3name-six').text("None");
+								$('#ability3-six').text("None");
 							}
 						}
 

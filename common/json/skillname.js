@@ -5912,6 +5912,34 @@ window.skillname=[
           "name": "秩序を正す神だ"
         },
         {
+          "cardBattleSkillNameId": "2686",
+          "name": "見つけたぜ！"
+        },
+        {
+          "cardBattleSkillNameId": "2687",
+          "name": "秘術・蟲喰い"
+        },
+        {
+          "cardBattleSkillNameId": "2688",
+          "name": "オレが決める"
+        },
+        {
+          "cardBattleSkillNameId": "2689",
+          "name": "肉弾針戦車"
+        },
+        {
+          "cardBattleSkillNameId": "2690",
+          "name": "大丈夫！？"
+        },
+        {
+          "cardBattleSkillNameId": "2691",
+          "name": "花吹雪の舞"
+        },
+        {
+          "cardBattleSkillNameId": "2692",
+          "name": "私がやる"
+        },
+        {
           "cardBattleSkillNameId": "2693",
           "name": "痛てーだろ………？なァ…？"
         },
@@ -5972,8 +6000,64 @@ window.skillname=[
           "name": "先にやっちまわねーとな！"
         },
         {
+          "cardBattleSkillNameId": "2708",
+          "name": "火炎刀翔"
+        },
+        {
+          "cardBattleSkillNameId": "2709",
+          "name": "写輪眼を持たぬ不幸を呪え"
+        },
+        {
+          "cardBattleSkillNameId": "2710",
+          "name": "豪炎戦刃"
+        },
+        {
+          "cardBattleSkillNameId": "2711",
+          "name": "ちょこまかと逃げるだけか"
+        },
+        {
           "cardBattleSkillNameId": "2712",
           "name": "よし、行こう！"
+        },
+        {
+          "cardBattleSkillNameId": "2713",
+          "name": "0"
+        },
+        {
+          "cardBattleSkillNameId": "2714",
+          "name": "0"
+        },
+        {
+          "cardBattleSkillNameId": "2715",
+          "name": "0"
+        },
+        {
+          "cardBattleSkillNameId": "2716",
+          "name": "0"
+        },
+        {
+          "cardBattleSkillNameId": "2717",
+          "name": "0"
+        },
+        {
+          "cardBattleSkillNameId": "2718",
+          "name": "0"
+        },
+        {
+          "cardBattleSkillNameId": "2719",
+          "name": "0"
+        },
+        {
+          "cardBattleSkillNameId": "2720",
+          "name": "0"
+        },
+        {
+          "cardBattleSkillNameId": "2721",
+          "name": "五月雨猪突"
+        },
+        {
+          "cardBattleSkillNameId": "2722",
+          "name": "オレにだって出来る…"
         },
         {
           "cardBattleSkillNameId": "10136",

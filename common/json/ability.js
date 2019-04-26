@@ -19215,6 +19215,78 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2187",
+          "abilityName": "赤丸との連携",
+          "abilityDescription": "HP0以下で2回までHPが全回復、高確率でスキル回避",
+          "abilityEffectDescription": "HP0以下で2回までHPが全回復、高確率でスキル回避",
+          "effectIdx1": "1057",
+          "effectIdx2": "874",
+          "effectIdx3": "968"
+        },
+        {
+          "abilityId": "2188",
+          "abilityName": "頼もしき野性",
+          "abilityDescription": "3回行動するまで素早さ111%アップ、4回行動以降はスキルダメージ111%アップ",
+          "abilityEffectDescription": "3回行動するまで素早さ111%アップ、4回行動以降はスキルダメージ111%アップ",
+          "effectIdx1": "2175",
+          "effectIdx2": "2176",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2189",
+          "abilityName": "蟲との共存",
+          "abilityDescription": "4回行動するまでスキルダメージ400%アップするが、行動するたびにチャクラが10%減少する",
+          "abilityEffectDescription": "4回行動するまでスキルダメージ400%アップするが、行動するたびにチャクラが10%減少する",
+          "effectIdx1": "2177",
+          "effectIdx2": "1386",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2190",
+          "abilityName": "秘めし実力",
+          "abilityDescription": "最大チャクラ量100アップ、HP0以下で2回まで耐える、1回行動するまでチャクラ消費0",
+          "abilityEffectDescription": "最大チャクラ量100アップ、HP0以下で2回まで耐える、1回行動するまでチャクラ消費0",
+          "effectIdx1": "813",
+          "effectIdx2": "1057",
+          "effectIdx3": "1378"
+        },
+        {
+          "abilityId": "2191",
+          "abilityName": "秘伝の肉体操作術",
+          "abilityDescription": "HP0以下で5回まで耐えるが、HP5%以下の時に素早さが50%ダウン",
+          "abilityEffectDescription": "HP0以下で5回まで耐えるが、HP5%以下の時に素早さが50%ダウン",
+          "effectIdx1": "1512",
+          "effectIdx2": "2178",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2192",
+          "abilityName": "秋道一族の誇り",
+          "abilityDescription": "HP50%以上の時にスキルダメージ200%アップ",
+          "abilityEffectDescription": "HP50%以上の時にスキルダメージ200%アップ",
+          "effectIdx1": "31419",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2193",
+          "abilityName": "“猪鹿蝶”の度胸",
+          "abilityDescription": "状態異常とキャンセル無効、高確率でスキル回避",
+          "abilityEffectDescription": "状態異常とキャンセル無効、高確率でスキル回避",
+          "effectIdx1": "82",
+          "effectIdx2": "1751",
+          "effectIdx3": "968"
+        },
+        {
+          "abilityId": "2194",
+          "abilityName": "向上心の乙女",
+          "abilityDescription": "HP100%の時にスキルダメージ200%アップ、HP0以下で1度だけHPが全回復する",
+          "abilityEffectDescription": "HP100%の時にスキルダメージ200%アップ、HP0以下で1度だけHPが全回復する",
+          "effectIdx1": "2179",
+          "effectIdx2": "312",
+          "effectIdx3": "874"
+        },
+        {
           "abilityId": "2195",
           "abilityName": "飽くなき不死への探求",
           "abilityDescription": "行動するたび素早さが44.4%（最大444%）アップし、HPとチャクラが44％回復する",
@@ -19287,6 +19359,42 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2203",
+          "abilityName": "一族に捧ぐ剣",
+          "abilityDescription": "弱体と状態異常を無効化、1回行動まで受ける耐性無視ダメージ0",
+          "abilityEffectDescription": "弱体と状態異常を無効化、1回行動まで受ける耐性無視ダメージ0",
+          "effectIdx1": "1772",
+          "effectIdx2": "82",
+          "effectIdx3": "1961"
+        },
+        {
+          "abilityId": "2204",
+          "abilityName": "闘争を制す瞳",
+          "abilityDescription": "高確率でスキル回避、HP90%以上のときに素早さ100%アップ＆スキルダメージ300%アップ",
+          "abilityEffectDescription": "高確率でスキル回避、HP90%以上のときに素早さ100%アップ＆スキルダメージ300%アップ",
+          "effectIdx1": "968",
+          "effectIdx2": "2219",
+          "effectIdx3": "2228"
+        },
+        {
+          "abilityId": "2205",
+          "abilityName": "力への渇望",
+          "abilityDescription": "最大チャクラ量100アップ、HP0以下で1度だけ耐え、耐えた時にHP全回復",
+          "abilityEffectDescription": "最大チャクラ量100アップ、HP0以下で1度だけ耐え、耐えた時にHP全回復",
+          "effectIdx1": "813",
+          "effectIdx2": "312",
+          "effectIdx3": "874"
+        },
+        {
+          "abilityId": "2206",
+          "abilityName": "闘争への執念",
+          "abilityDescription": "キャンセル無効、3回行動するまで素早さ100%アップ",
+          "abilityEffectDescription": "キャンセル無効、3回行動するまで素早さ100%アップ",
+          "effectIdx1": "1751",
+          "effectIdx2": "1265",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "2207",
           "abilityName": "木ノ葉隠れの模範",
           "abilityDescription": "攻撃力を100%アップ、HP0以下で1回耐える",
@@ -19302,6 +19410,96 @@ window.ability=[
           "abilityEffectDescription": "行動後にHPが10％回復、高確率でスキル回避",
           "effectIdx1": "357",
           "effectIdx2": "968",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2209",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "20009",
+          "effectIdx2": "1391",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2210",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "1221",
+          "effectIdx2": "30109",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2211",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "20009",
+          "effectIdx2": "31709",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2212",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "1221",
+          "effectIdx2": "2046",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2213",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "20009",
+          "effectIdx2": "1505",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2214",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "1212",
+          "effectIdx2": "1692",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2215",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "2223",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2216",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "2225",
+          "effectIdx2": "2224",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2217",
+          "abilityName": "英雄への憧れ",
+          "abilityDescription": "班の木ノ葉隠れの里所属のキャラ1体につき、攻撃力が20%アップ（自身含む）",
+          "abilityEffectDescription": "班の木ノ葉隠れの里所属のキャラ1体につき、攻撃力が20%アップ（自身含む）",
+          "effectIdx1": "687",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2218",
+          "abilityName": "一本気な槍捌き",
+          "abilityDescription": "3回行動するまで高確率でスキルを回避する",
+          "abilityEffectDescription": "3回行動するまで高確率でスキルを回避する",
+          "effectIdx1": "2099",
+          "effectIdx2": "0",
           "effectIdx3": "0"
         },
         {
@@ -19879,6 +20077,105 @@ window.ability=[
           "effectIdx1": "1268",
           "effectIdx2": "1459",
           "effectIdx3": "967"
+        },
+        {
+          "abilityId": "200001",
+          "abilityName": "心属性特化",
+          "abilityDescription": "心属性へのスキル攻撃時に相手の耐性を弱点とする。心属性からのダメージを50%カット",
+          "abilityEffectDescription": "心属性へのスキル攻撃時に相手の耐性を弱点とする。心属性からのダメージを50%カット",
+          "effectIdx1": "229004",
+          "effectIdx2": "228050",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "200002",
+          "abilityName": "技属性特化",
+          "abilityDescription": "技属性へのスキル攻撃時に相手の耐性を弱点とする。技属性からのダメージを50%カット",
+          "abilityEffectDescription": "技属性へのスキル攻撃時に相手の耐性を弱点とする。技属性からのダメージを50%カット",
+          "effectIdx1": "229104",
+          "effectIdx2": "228150",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "200003",
+          "abilityName": "体属性特化",
+          "abilityDescription": "体属性へのスキル攻撃時に相手の耐性を弱点とする。体属性からのダメージを50%カット",
+          "abilityEffectDescription": "体属性へのスキル攻撃時に相手の耐性を弱点とする。体属性からのダメージを50%カット",
+          "effectIdx1": "229204",
+          "effectIdx2": "228250",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "200006",
+          "abilityName": "知属性特化",
+          "abilityDescription": "知属性へのスキル攻撃時に相手の耐性を弱点とする。知属性からのダメージを50%カット",
+          "abilityEffectDescription": "知属性へのスキル攻撃時に相手の耐性を弱点とする。知属性からのダメージを50%カット",
+          "effectIdx1": "229304",
+          "effectIdx2": "228350",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "200007",
+          "abilityName": "勇属性特化",
+          "abilityDescription": "勇属性へのスキル攻撃時に相手の耐性を弱点とする。勇属性からのダメージを50%カット",
+          "abilityEffectDescription": "勇属性へのスキル攻撃時に相手の耐性を弱点とする。勇属性からのダメージを50%カット",
+          "effectIdx1": "229404",
+          "effectIdx2": "228450",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "210001",
+          "abilityName": "vs技ダメカット＆弱点扱い",
+          "abilityDescription": "心属性ボス用　技属性からのダメ50%カット＆技属性に食らわせた時弱点で食らわせる",
+          "abilityEffectDescription": "心属性ボス用　技属性からのダメ50%カット＆技属性に食らわせた時弱点で食らわせる",
+          "effectIdx1": "229104",
+          "effectIdx2": "228150",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "210002",
+          "abilityName": "vs体ダメカット＆弱点扱い",
+          "abilityDescription": "技属性ボス用　体属性からのダメ50%カット＆体属性に食らわせた時弱点で食らわせる",
+          "abilityEffectDescription": "技属性ボス用　体属性からのダメ50%カット＆体属性に食らわせた時弱点で食らわせる",
+          "effectIdx1": "229204",
+          "effectIdx2": "228250",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "210003",
+          "abilityName": "vs心ダメカット＆弱点扱い",
+          "abilityDescription": "体属性ボス用　心属性からのダメ50%カット＆心属性に食らわせた時弱点で食らわせる",
+          "abilityEffectDescription": "体属性ボス用　心属性からのダメ50%カット＆心属性に食らわせた時弱点で食らわせる",
+          "effectIdx1": "229004",
+          "effectIdx2": "228050",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "210004",
+          "abilityName": "vs勇ダメカット＆弱点扱い",
+          "abilityDescription": "知属性ボス用　勇属性からのダメ50%カット＆雄属性に食らわせた時弱点で食らわせる",
+          "abilityEffectDescription": "知属性ボス用　勇属性からのダメ50%カット＆雄属性に食らわせた時弱点で食らわせる",
+          "effectIdx1": "229404",
+          "effectIdx2": "228450",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "210005",
+          "abilityName": "vs値ダメカット＆弱点扱い",
+          "abilityDescription": "勇属性ボス用　知属性からのダメ50%カット＆知属性に食らわせた時弱点で食らわせる",
+          "abilityEffectDescription": "勇属性ボス用　知属性からのダメ50%カット＆知属性に食らわせた時弱点で食らわせる",
+          "effectIdx1": "229304",
+          "effectIdx2": "228350",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "210006",
+          "abilityName": "全スキルダメカット",
+          "abilityDescription": "神忍ボス用　全スキルダメージ50%カット",
+          "abilityEffectDescription": "神忍ボス用　全スキルダメージ50%カット",
+          "effectIdx1": "220050",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
         },
         {
           "abilityId": "801187",

@@ -1152,7 +1152,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "310",
           "name": "牙通牙",
-          "eng": ""
+          "eng": "Fang Over Fang"
         },
         {
           "cardBattleSkillNameId": "312",
@@ -7352,6 +7352,41 @@ window.skillname=[
           "eng": "Let's Save the World!"
         },
         {
+          "cardBattleSkillNameId": "2686",
+          "name": "見つけたぜ！",
+          "eng": "I Found It!"
+        },
+        {
+          "cardBattleSkillNameId": "2687",
+          "name": "秘術・蟲喰い",
+          "eng": "Secret Jutsu: Feeding Insect"
+        },
+        {
+          "cardBattleSkillNameId": "2688",
+          "name": "オレが決める",
+          "eng": "I've Decided"
+        },
+        {
+          "cardBattleSkillNameId": "2689",
+          "name": "肉弾針戦車",
+          "eng": "Spiky Human Boulder"
+        },
+        {
+          "cardBattleSkillNameId": "2690",
+          "name": "大丈夫！？",
+          "eng": "Are You Okay!?"
+        },
+        {
+          "cardBattleSkillNameId": "2691",
+          "name": "花吹雪の舞",
+          "eng": "Falling Cherry Blossom Dance"
+        },
+        {
+          "cardBattleSkillNameId": "2692",
+          "name": "私がやる",
+          "eng": "I'll Do It"
+        },
+        {
           "cardBattleSkillNameId": "2683",
           "name": "穿杭・神羅天征",
           "eng": "Piercing Stake: Almighty Push"
@@ -7435,6 +7470,26 @@ window.skillname=[
           "cardBattleSkillNameId": "2707",
           "name": "先にやっちまわねーとな！",
           "eng": "Let's Go Forward!"
+        },
+        {
+          "cardBattleSkillNameId": "2708",
+          "name": "火炎刀翔",
+          "eng": "Flaming Sword"
+        },
+        {
+          "cardBattleSkillNameId": "2709",
+          "name": "写輪眼を持たぬ不幸を呪え",
+          "eng": "Curse of the Sharingan"
+        },
+        {
+          "cardBattleSkillNameId": "2710",
+          "name": "豪炎戦刃",
+          "eng": "Overwhealming Flame Sword"
+        },
+        {
+          "cardBattleSkillNameId": "2711",
+          "name": "ちょこまかと逃げるだけか",
+          "eng": "Trying to Run Away?"
         },
         {
           "cardBattleSkillNameId": "2712",

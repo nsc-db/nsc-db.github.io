@@ -11180,6 +11180,58 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "879",
+          "name": "双牙の咆哮",
+          "description": "Cast Speed +1 for 2 turns for Konoha Characters",
+          "effectIdx1": "1379",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "880",
+          "name": "熱情秘めし蟲忍",
+          "description": "Secret, Taijutsu and Byakugan Skill Damage +150%",
+          "effectIdx1": "2185",
+          "effectIdx2": "1389",
+          "effectIdx3": "1405",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "881",
+          "name": "突破の肉弾",
+          "description": "Heart, Technique and Body Konoha Chakra +50%",
+          "effectIdx1": "2184",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "882",
+          "name": "心操の麗花",
+          "description": "Heart, Technique and Body Konoha SPD +70%",
+          "effectIdx1": "2183",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "883",
           "name": "五つの生を持つ躰",
           "description": "Low chance to recover full HP when attacked to Akatsuki",
@@ -11256,6 +11308,32 @@ window.lead=[
           "target1Param": "1",
           "target2Category": "0",
           "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "889",
+          "name": "熱く奔る戦剣",
+          "description": "無所属の最大HPを100%アップ、行動後にHPとチャクラが10%回復",
+          "effectIdx1": "684",
+          "effectIdx2": "357",
+          "effectIdx3": "528",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "99",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "890",
+          "name": "闘神が如き戦忍",
+          "description": "技と体属性の全スキルダメージを100%アップ",
+          "effectIdx1": "774",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "2",
+          "target1Category": "1",
+          "target1Param": "2",
+          "target2Category": "1",
+          "target2Param": "3"
         },
         {
           "cardLeaderSkillId": "891",

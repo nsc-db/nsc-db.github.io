@@ -13,9 +13,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10002",
@@ -31,9 +33,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10003",
@@ -49,9 +53,11 @@ window.evo=[
           "battleSkillId2": "1496",
           "abilityId1": "995",
           "abilityId2": "996",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10011",
@@ -67,9 +73,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10012",
@@ -85,9 +93,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10013",
@@ -103,9 +113,11 @@ window.evo=[
           "battleSkillId2": "1498",
           "abilityId1": "999",
           "abilityId2": "1000",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10021",
@@ -121,9 +133,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10022",
@@ -139,9 +153,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10031",
@@ -157,9 +173,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10032",
@@ -175,9 +193,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10041",
@@ -193,9 +213,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10042",
@@ -211,9 +233,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10051",
@@ -229,9 +253,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10052",
@@ -247,9 +273,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10053",
@@ -265,9 +293,11 @@ window.evo=[
           "battleSkillId2": "1380",
           "abilityId1": "864",
           "abilityId2": "865",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10061",
@@ -283,9 +313,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10062",
@@ -301,9 +333,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10071",
@@ -319,9 +353,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10072",
@@ -337,9 +373,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10081",
@@ -355,9 +393,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10082",
@@ -373,9 +413,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10091",
@@ -391,9 +433,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10092",
@@ -409,9 +453,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10101",
@@ -427,9 +473,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10102",
@@ -445,9 +493,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10111",
@@ -463,9 +513,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10112",
@@ -481,9 +533,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10121",
@@ -499,9 +553,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10122",
@@ -517,9 +573,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10131",
@@ -535,9 +593,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10132",
@@ -553,9 +613,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10141",
@@ -571,9 +633,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10142",
@@ -589,9 +653,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10151",
@@ -607,9 +673,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10152",
@@ -625,9 +693,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10161",
@@ -643,9 +713,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10162",
@@ -661,9 +733,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10163",
@@ -679,9 +753,11 @@ window.evo=[
           "battleSkillId2": "1024",
           "abilityId1": "587",
           "abilityId2": "588",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10171",
@@ -697,9 +773,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10172",
@@ -715,9 +793,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10173",
@@ -733,9 +813,11 @@ window.evo=[
           "battleSkillId2": "1026",
           "abilityId1": "589",
           "abilityId2": "590",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10181",
@@ -751,9 +833,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10182",
@@ -769,9 +853,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10191",
@@ -787,9 +873,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10192",
@@ -805,9 +893,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10201",
@@ -823,9 +913,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10202",
@@ -841,9 +933,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10203",
@@ -859,9 +953,11 @@ window.evo=[
           "battleSkillId2": "1416",
           "abilityId1": "901",
           "abilityId2": "902",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10211",
@@ -877,9 +973,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10212",
@@ -895,9 +993,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10221",
@@ -913,9 +1013,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10222",
@@ -931,9 +1033,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10231",
@@ -949,9 +1053,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10232",
@@ -967,9 +1073,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10241",
@@ -985,9 +1093,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10242",
@@ -1003,9 +1113,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10251",
@@ -1021,9 +1133,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10252",
@@ -1039,9 +1153,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10261",
@@ -1057,9 +1173,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10262",
@@ -1075,9 +1193,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10271",
@@ -1093,9 +1213,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10272",
@@ -1111,9 +1233,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10273",
@@ -1129,9 +1253,11 @@ window.evo=[
           "battleSkillId2": "1500",
           "abilityId1": "997",
           "abilityId2": "998",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10281",
@@ -1147,9 +1273,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10282",
@@ -1165,9 +1293,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10283",
@@ -1183,9 +1313,11 @@ window.evo=[
           "battleSkillId2": "1848",
           "abilityId1": "1346",
           "abilityId2": "1347",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10291",
@@ -1201,9 +1333,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10292",
@@ -1219,9 +1353,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10301",
@@ -1237,9 +1373,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10302",
@@ -1255,9 +1393,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10303",
@@ -1273,9 +1413,11 @@ window.evo=[
           "battleSkillId2": "1486",
           "abilityId1": "972",
           "abilityId2": "973",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10311",
@@ -1291,9 +1433,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10312",
@@ -1309,9 +1453,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10321",
@@ -1327,9 +1473,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10322",
@@ -1345,9 +1493,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10323",
@@ -1363,9 +1513,11 @@ window.evo=[
           "battleSkillId2": "1428",
           "abilityId1": "913",
           "abilityId2": "914",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10331",
@@ -1381,9 +1533,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10332",
@@ -1399,9 +1553,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10333",
@@ -1417,9 +1573,11 @@ window.evo=[
           "battleSkillId2": "844",
           "abilityId1": "473",
           "abilityId2": "474",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10341",
@@ -1435,9 +1593,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10342",
@@ -1453,9 +1613,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10351",
@@ -1471,9 +1633,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10352",
@@ -1489,9 +1653,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10361",
@@ -1507,9 +1673,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10362",
@@ -1525,9 +1693,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10371",
@@ -1543,9 +1713,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10372",
@@ -1561,9 +1733,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10381",
@@ -1579,9 +1753,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10382",
@@ -1597,9 +1773,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10391",
@@ -1615,9 +1793,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10392",
@@ -1633,9 +1813,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10401",
@@ -1651,9 +1833,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10402",
@@ -1669,9 +1853,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10411",
@@ -1687,9 +1873,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10412",
@@ -1705,9 +1893,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10413",
@@ -1723,9 +1913,11 @@ window.evo=[
           "battleSkillId2": "100015",
           "abilityId1": "603",
           "abilityId2": "604",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10421",
@@ -1741,9 +1933,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10422",
@@ -1759,9 +1953,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10423",
@@ -1777,9 +1973,11 @@ window.evo=[
           "battleSkillId2": "1420",
           "abilityId1": "905",
           "abilityId2": "906",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10431",
@@ -1795,9 +1993,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10432",
@@ -1813,9 +2013,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10441",
@@ -1831,9 +2033,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10442",
@@ -1849,9 +2053,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10451",
@@ -1867,9 +2073,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10452",
@@ -1885,9 +2093,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10461",
@@ -1903,9 +2113,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10462",
@@ -1921,9 +2133,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10463",
@@ -1939,9 +2153,11 @@ window.evo=[
           "battleSkillId2": "1628",
           "abilityId1": "1121",
           "abilityId2": "1122",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10471",
@@ -1957,9 +2173,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10472",
@@ -1975,9 +2193,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10481",
@@ -1993,9 +2213,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10482",
@@ -2011,9 +2233,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10491",
@@ -2029,9 +2253,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10492",
@@ -2047,9 +2273,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10493",
@@ -2065,9 +2293,11 @@ window.evo=[
           "battleSkillId2": "1422",
           "abilityId1": "907",
           "abilityId2": "908",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10501",
@@ -2083,9 +2313,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10502",
@@ -2101,9 +2333,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10503",
@@ -2119,9 +2353,11 @@ window.evo=[
           "battleSkillId2": "1850",
           "abilityId1": "1348",
           "abilityId2": "1349",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10511",
@@ -2137,9 +2373,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10512",
@@ -2155,9 +2393,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10513",
@@ -2173,9 +2413,11 @@ window.evo=[
           "battleSkillId2": "1052",
           "abilityId1": "601",
           "abilityId2": "602",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10521",
@@ -2191,9 +2433,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10522",
@@ -2209,9 +2453,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10531",
@@ -2227,9 +2473,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10532",
@@ -2245,9 +2493,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10541",
@@ -2263,9 +2513,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10542",
@@ -2281,9 +2533,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10551",
@@ -2299,9 +2553,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10552",
@@ -2317,9 +2573,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10561",
@@ -2335,9 +2593,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10562",
@@ -2353,9 +2613,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10563",
@@ -2371,9 +2633,11 @@ window.evo=[
           "battleSkillId2": "1584",
           "abilityId1": "1050",
           "abilityId2": "1051",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10571",
@@ -2389,9 +2653,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10572",
@@ -2407,9 +2673,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10573",
@@ -2425,9 +2693,11 @@ window.evo=[
           "battleSkillId2": "1303",
           "abilityId1": "782",
           "abilityId2": "783",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10581",
@@ -2443,9 +2713,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10582",
@@ -2461,9 +2733,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10591",
@@ -2479,9 +2753,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10592",
@@ -2497,9 +2773,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10593",
@@ -2515,9 +2793,11 @@ window.evo=[
           "battleSkillId2": "1424",
           "abilityId1": "909",
           "abilityId2": "910",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10601",
@@ -2533,9 +2813,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10602",
@@ -2551,9 +2833,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10611",
@@ -2569,9 +2853,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10612",
@@ -2587,9 +2873,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10613",
@@ -2605,9 +2893,11 @@ window.evo=[
           "battleSkillId2": "1846",
           "abilityId1": "1344",
           "abilityId2": "1345",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10621",
@@ -2623,9 +2913,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10622",
@@ -2641,9 +2933,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10631",
@@ -2659,9 +2953,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10632",
@@ -2677,9 +2973,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10641",
@@ -2695,9 +2993,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10642",
@@ -2713,9 +3013,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10651",
@@ -2731,9 +3033,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10652",
@@ -2749,9 +3053,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10660",
@@ -2767,9 +3073,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10661",
@@ -2785,9 +3093,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10662",
@@ -2803,9 +3113,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10663",
@@ -2821,9 +3133,11 @@ window.evo=[
           "battleSkillId2": "1000",
           "abilityId1": "572",
           "abilityId2": "573",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10664",
@@ -2839,9 +3153,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10665",
@@ -2857,9 +3173,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10671",
@@ -2875,9 +3193,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10672",
@@ -2893,9 +3213,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10673",
@@ -2911,9 +3233,11 @@ window.evo=[
           "battleSkillId2": "1418",
           "abilityId1": "903",
           "abilityId2": "904",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10681",
@@ -2929,9 +3253,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10682",
@@ -2947,9 +3273,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10691",
@@ -2965,9 +3293,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10692",
@@ -2983,9 +3313,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10701",
@@ -3001,9 +3333,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10702",
@@ -3019,9 +3353,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10711",
@@ -3037,9 +3373,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10712",
@@ -3055,9 +3393,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10721",
@@ -3073,9 +3413,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10722",
@@ -3091,9 +3433,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10723",
@@ -3109,9 +3453,11 @@ window.evo=[
           "battleSkillId2": "1141",
           "abilityId1": "644",
           "abilityId2": "645",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10731",
@@ -3127,9 +3473,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10732",
@@ -3145,9 +3493,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10741",
@@ -3163,9 +3513,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10742",
@@ -3181,9 +3533,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10751",
@@ -3199,9 +3553,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10752",
@@ -3217,9 +3573,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10753",
@@ -3235,9 +3593,11 @@ window.evo=[
           "battleSkillId2": "1426",
           "abilityId1": "911",
           "abilityId2": "912",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10761",
@@ -3253,9 +3613,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10762",
@@ -3271,9 +3633,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10771",
@@ -3289,9 +3653,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10772",
@@ -3307,9 +3673,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10781",
@@ -3325,9 +3693,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10782",
@@ -3343,9 +3713,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10791",
@@ -3361,9 +3733,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10792",
@@ -3379,9 +3753,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10801",
@@ -3397,9 +3773,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10802",
@@ -3415,9 +3793,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10811",
@@ -3433,9 +3813,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10812",
@@ -3451,9 +3833,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10821",
@@ -3469,9 +3853,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10822",
@@ -3487,9 +3873,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10831",
@@ -3505,9 +3893,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10832",
@@ -3523,9 +3913,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10841",
@@ -3541,9 +3933,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10842",
@@ -3559,9 +3953,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10851",
@@ -3577,9 +3973,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10852",
@@ -3595,9 +3993,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10861",
@@ -3613,9 +4013,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10862",
@@ -3631,9 +4033,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10871",
@@ -3649,9 +4053,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10872",
@@ -3667,9 +4073,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10881",
@@ -3685,9 +4093,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10882",
@@ -3703,9 +4113,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10891",
@@ -3721,9 +4133,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10892",
@@ -3739,9 +4153,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10893",
@@ -3757,9 +4173,11 @@ window.evo=[
           "battleSkillId2": "1301",
           "abilityId1": "780",
           "abilityId2": "781",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10901",
@@ -3775,9 +4193,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10902",
@@ -3793,9 +4213,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10911",
@@ -3811,9 +4233,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10912",
@@ -3829,9 +4253,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10921",
@@ -3847,9 +4273,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10922",
@@ -3865,9 +4293,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10931",
@@ -3883,9 +4313,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10932",
@@ -3901,9 +4333,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10941",
@@ -3919,9 +4353,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10942",
@@ -3937,9 +4373,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10951",
@@ -3955,9 +4393,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10952",
@@ -3973,9 +4413,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10961",
@@ -3991,9 +4433,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10962",
@@ -4009,9 +4453,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10963",
@@ -4027,9 +4473,11 @@ window.evo=[
           "battleSkillId2": "1143",
           "abilityId1": "646",
           "abilityId2": "647",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10971",
@@ -4045,9 +4493,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10972",
@@ -4063,9 +4513,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10981",
@@ -4081,9 +4533,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10982",
@@ -4099,9 +4553,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10991",
@@ -4117,9 +4573,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "10992",
@@ -4135,9 +4593,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11001",
@@ -4153,9 +4613,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11002",
@@ -4171,9 +4633,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11011",
@@ -4189,9 +4653,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11012",
@@ -4207,9 +4673,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11021",
@@ -4225,9 +4693,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11022",
@@ -4243,9 +4713,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11023",
@@ -4261,9 +4733,11 @@ window.evo=[
           "battleSkillId2": "1125",
           "abilityId1": "628",
           "abilityId2": "629",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11031",
@@ -4279,9 +4753,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11032",
@@ -4297,9 +4773,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11033",
@@ -4315,9 +4793,11 @@ window.evo=[
           "battleSkillId2": "1127",
           "abilityId1": "630",
           "abilityId2": "631",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11041",
@@ -4333,9 +4813,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11042",
@@ -4351,9 +4833,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11043",
@@ -4369,9 +4853,11 @@ window.evo=[
           "battleSkillId2": "1129",
           "abilityId1": "632",
           "abilityId2": "633",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11051",
@@ -4387,9 +4873,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11052",
@@ -4405,9 +4893,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11061",
@@ -4423,9 +4913,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11062",
@@ -4441,9 +4933,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11071",
@@ -4459,9 +4953,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11072",
@@ -4477,9 +4973,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11081",
@@ -4495,9 +4993,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11082",
@@ -4513,9 +5013,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11083",
@@ -4531,9 +5033,11 @@ window.evo=[
           "battleSkillId2": "1620",
           "abilityId1": "1113",
           "abilityId2": "1114",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11091",
@@ -4549,9 +5053,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11092",
@@ -4567,9 +5073,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11093",
@@ -4585,9 +5093,11 @@ window.evo=[
           "battleSkillId2": "1622",
           "abilityId1": "1115",
           "abilityId2": "1116",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11101",
@@ -4603,9 +5113,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11102",
@@ -4621,9 +5133,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11103",
@@ -4639,9 +5153,11 @@ window.evo=[
           "battleSkillId2": "1624",
           "abilityId1": "1117",
           "abilityId2": "1118",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11111",
@@ -4657,9 +5173,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11112",
@@ -4675,9 +5193,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11113",
@@ -4693,9 +5213,11 @@ window.evo=[
           "battleSkillId2": "1163",
           "abilityId1": "660",
           "abilityId2": "661",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11121",
@@ -4711,9 +5233,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11122",
@@ -4729,9 +5253,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11123",
@@ -4747,9 +5273,11 @@ window.evo=[
           "battleSkillId2": "1165",
           "abilityId1": "662",
           "abilityId2": "663",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11131",
@@ -4765,9 +5293,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11132",
@@ -4783,9 +5313,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11133",
@@ -4801,9 +5333,11 @@ window.evo=[
           "battleSkillId2": "1167",
           "abilityId1": "664",
           "abilityId2": "665",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11141",
@@ -4819,9 +5353,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11142",
@@ -4837,9 +5373,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11143",
@@ -4855,9 +5393,11 @@ window.evo=[
           "battleSkillId2": "1462",
           "abilityId1": "948",
           "abilityId2": "949",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11151",
@@ -4873,9 +5413,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11152",
@@ -4891,9 +5433,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11153",
@@ -4909,9 +5453,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11154",
@@ -4927,9 +5473,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11155",
@@ -4945,9 +5493,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11156",
@@ -4963,9 +5513,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11157",
@@ -4981,9 +5533,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11158",
@@ -4999,9 +5553,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11159",
@@ -5017,9 +5573,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11160",
@@ -5035,9 +5593,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11161",
@@ -5053,9 +5613,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11162",
@@ -5071,9 +5633,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11163",
@@ -5089,9 +5653,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11164",
@@ -5107,9 +5673,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11165",
@@ -5125,9 +5693,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11166",
@@ -5143,9 +5713,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11167",
@@ -5161,9 +5733,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11168",
@@ -5179,9 +5753,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11169",
@@ -5197,9 +5773,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11170",
@@ -5215,9 +5793,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11171",
@@ -5233,9 +5813,11 @@ window.evo=[
           "battleSkillId2": "1218",
           "abilityId1": "701",
           "abilityId2": "702",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11172",
@@ -5251,9 +5833,11 @@ window.evo=[
           "battleSkillId2": "1220",
           "abilityId1": "703",
           "abilityId2": "704",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11173",
@@ -5269,9 +5853,11 @@ window.evo=[
           "battleSkillId2": "1222",
           "abilityId1": "705",
           "abilityId2": "706",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11174",
@@ -5287,9 +5873,11 @@ window.evo=[
           "battleSkillId2": "1224",
           "abilityId1": "707",
           "abilityId2": "708",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11175",
@@ -5305,9 +5893,11 @@ window.evo=[
           "battleSkillId2": "1241",
           "abilityId1": "719",
           "abilityId2": "720",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11176",
@@ -5323,9 +5913,11 @@ window.evo=[
           "battleSkillId2": "1243",
           "abilityId1": "721",
           "abilityId2": "722",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11177",
@@ -5341,9 +5933,11 @@ window.evo=[
           "battleSkillId2": "1245",
           "abilityId1": "723",
           "abilityId2": "724",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11178",
@@ -5359,9 +5953,11 @@ window.evo=[
           "battleSkillId2": "1432",
           "abilityId1": "917",
           "abilityId2": "918",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11179",
@@ -5377,9 +5973,11 @@ window.evo=[
           "battleSkillId2": "1464",
           "abilityId1": "950",
           "abilityId2": "951",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11180",
@@ -5395,9 +5993,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11181",
@@ -5413,9 +6013,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11182",
@@ -5431,9 +6033,11 @@ window.evo=[
           "battleSkillId2": "1247",
           "abilityId1": "725",
           "abilityId2": "726",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11190",
@@ -5449,9 +6053,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11191",
@@ -5467,9 +6073,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11192",
@@ -5485,9 +6093,11 @@ window.evo=[
           "battleSkillId2": "1249",
           "abilityId1": "727",
           "abilityId2": "728",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11200",
@@ -5503,9 +6113,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11201",
@@ -5521,9 +6133,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11202",
@@ -5539,9 +6153,11 @@ window.evo=[
           "battleSkillId2": "1251",
           "abilityId1": "729",
           "abilityId2": "730",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11210",
@@ -5557,9 +6173,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11211",
@@ -5575,9 +6193,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11212",
@@ -5593,9 +6213,11 @@ window.evo=[
           "battleSkillId2": "1253",
           "abilityId1": "731",
           "abilityId2": "732",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11220",
@@ -5611,9 +6233,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11221",
@@ -5629,9 +6253,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11222",
@@ -5647,9 +6273,11 @@ window.evo=[
           "battleSkillId2": "1255",
           "abilityId1": "733",
           "abilityId2": "734",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11230",
@@ -5665,9 +6293,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11231",
@@ -5683,9 +6313,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11232",
@@ -5701,9 +6333,11 @@ window.evo=[
           "battleSkillId2": "1257",
           "abilityId1": "735",
           "abilityId2": "736",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11240",
@@ -5719,9 +6353,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11241",
@@ -5737,9 +6373,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11242",
@@ -5755,9 +6393,11 @@ window.evo=[
           "battleSkillId2": "933",
           "abilityId1": "530",
           "abilityId2": "531",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11250",
@@ -5773,9 +6413,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11251",
@@ -5791,9 +6433,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11252",
@@ -5809,9 +6453,11 @@ window.evo=[
           "battleSkillId2": "935",
           "abilityId1": "532",
           "abilityId2": "533",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11260",
@@ -5827,9 +6473,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11261",
@@ -5845,9 +6493,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11262",
@@ -5863,9 +6513,11 @@ window.evo=[
           "battleSkillId2": "937",
           "abilityId1": "534",
           "abilityId2": "535",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11270",
@@ -5881,9 +6533,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11271",
@@ -5899,9 +6553,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11280",
@@ -5917,9 +6573,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11281",
@@ -5935,9 +6593,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11282",
@@ -5953,9 +6613,11 @@ window.evo=[
           "battleSkillId2": "1734",
           "abilityId1": "1230",
           "abilityId2": "1231",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11290",
@@ -5971,9 +6633,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11291",
@@ -5989,9 +6653,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11300",
@@ -6007,9 +6673,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11301",
@@ -6025,9 +6693,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11302",
@@ -6043,9 +6713,11 @@ window.evo=[
           "battleSkillId2": "100001",
           "abilityId1": "100000",
           "abilityId2": "100001",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11310",
@@ -6061,9 +6733,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11311",
@@ -6079,9 +6753,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11312",
@@ -6097,9 +6773,11 @@ window.evo=[
           "battleSkillId2": "1311",
           "abilityId1": "795",
           "abilityId2": "796",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11320",
@@ -6115,9 +6793,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11321",
@@ -6133,9 +6813,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11322",
@@ -6151,9 +6833,11 @@ window.evo=[
           "battleSkillId2": "1313",
           "abilityId1": "797",
           "abilityId2": "798",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11330",
@@ -6169,9 +6853,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11331",
@@ -6187,9 +6873,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11332",
@@ -6205,9 +6893,11 @@ window.evo=[
           "battleSkillId2": "1315",
           "abilityId1": "799",
           "abilityId2": "800",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11340",
@@ -6223,9 +6913,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11341",
@@ -6241,9 +6933,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11342",
@@ -6259,9 +6953,11 @@ window.evo=[
           "battleSkillId2": "1317",
           "abilityId1": "801",
           "abilityId2": "802",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11350",
@@ -6277,9 +6973,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11351",
@@ -6295,9 +6993,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11352",
@@ -6313,9 +7013,11 @@ window.evo=[
           "battleSkillId2": "1438",
           "abilityId1": "924",
           "abilityId2": "925",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11360",
@@ -6331,9 +7033,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11361",
@@ -6349,9 +7053,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11362",
@@ -6367,9 +7073,11 @@ window.evo=[
           "battleSkillId2": "1440",
           "abilityId1": "926",
           "abilityId2": "927",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11369",
@@ -6385,9 +7093,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11370",
@@ -6403,9 +7113,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11371",
@@ -6421,9 +7133,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11372",
@@ -6439,9 +7153,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11373",
@@ -6457,9 +7173,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11374",
@@ -6475,9 +7193,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11375",
@@ -6493,9 +7213,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11376",
@@ -6511,9 +7233,11 @@ window.evo=[
           "battleSkillId2": "100003",
           "abilityId1": "100002",
           "abilityId2": "100003",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11377",
@@ -6529,9 +7253,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11378",
@@ -6547,9 +7273,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11379",
@@ -6565,9 +7293,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11380",
@@ -6583,9 +7313,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11381",
@@ -6601,9 +7333,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11382",
@@ -6619,9 +7353,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11383",
@@ -6637,9 +7373,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11384",
@@ -6655,9 +7393,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11385",
@@ -6673,9 +7413,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11386",
@@ -6691,9 +7433,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11387",
@@ -6709,9 +7453,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11388",
@@ -6727,9 +7473,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11389",
@@ -6745,9 +7493,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11390",
@@ -6763,9 +7513,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11391",
@@ -6781,9 +7533,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11392",
@@ -6799,9 +7553,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11393",
@@ -6817,9 +7573,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11394",
@@ -6835,9 +7593,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11395",
@@ -6853,9 +7613,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11396",
@@ -6871,9 +7633,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11397",
@@ -6889,9 +7653,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11398",
@@ -6907,9 +7673,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11399",
@@ -6925,9 +7693,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11412",
@@ -6943,9 +7713,11 @@ window.evo=[
           "battleSkillId2": "1520",
           "abilityId1": "1009",
           "abilityId2": "1010",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11422",
@@ -6961,9 +7733,11 @@ window.evo=[
           "battleSkillId2": "1522",
           "abilityId1": "1011",
           "abilityId2": "1012",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11432",
@@ -6979,9 +7753,11 @@ window.evo=[
           "battleSkillId2": "1524",
           "abilityId1": "1013",
           "abilityId2": "1014",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11442",
@@ -6997,9 +7773,11 @@ window.evo=[
           "battleSkillId2": "1534",
           "abilityId1": "1025",
           "abilityId2": "1026",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11452",
@@ -7015,9 +7793,11 @@ window.evo=[
           "battleSkillId2": "1572",
           "abilityId1": "1058",
           "abilityId2": "1059",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11462",
@@ -7033,9 +7813,11 @@ window.evo=[
           "battleSkillId2": "1574",
           "abilityId1": "1060",
           "abilityId2": "1061",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11472",
@@ -7051,9 +7833,11 @@ window.evo=[
           "battleSkillId2": "1576",
           "abilityId1": "1062",
           "abilityId2": "1063",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11482",
@@ -7069,9 +7853,11 @@ window.evo=[
           "battleSkillId2": "1578",
           "abilityId1": "1064",
           "abilityId2": "1065",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11500",
@@ -7087,9 +7873,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11501",
@@ -7105,9 +7893,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11502",
@@ -7123,9 +7913,11 @@ window.evo=[
           "battleSkillId2": "1364",
           "abilityId1": "845",
           "abilityId2": "846",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11503",
@@ -7141,9 +7933,11 @@ window.evo=[
           "battleSkillId2": "1442",
           "abilityId1": "928",
           "abilityId2": "929",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11510",
@@ -7159,9 +7953,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11511",
@@ -7177,9 +7973,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11512",
@@ -7195,9 +7993,11 @@ window.evo=[
           "battleSkillId2": "1366",
           "abilityId1": "847",
           "abilityId2": "848",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11520",
@@ -7213,9 +8013,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11521",
@@ -7231,9 +8033,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11522",
@@ -7249,9 +8053,11 @@ window.evo=[
           "battleSkillId2": "1362",
           "abilityId1": "849",
           "abilityId2": "850",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11530",
@@ -7267,9 +8073,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11531",
@@ -7285,9 +8093,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11535",
@@ -7303,9 +8113,11 @@ window.evo=[
           "battleSkillId2": "100005",
           "abilityId1": "100004",
           "abilityId2": "100005",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11540",
@@ -7321,9 +8133,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11541",
@@ -7339,9 +8153,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11550",
@@ -7357,9 +8173,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11551",
@@ -7375,9 +8193,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11560",
@@ -7393,9 +8213,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11561",
@@ -7411,9 +8233,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11570",
@@ -7429,9 +8253,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11571",
@@ -7447,9 +8273,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11580",
@@ -7465,9 +8293,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11581",
@@ -7483,9 +8313,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11590",
@@ -7501,9 +8333,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11591",
@@ -7519,9 +8353,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11600",
@@ -7537,9 +8373,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11601",
@@ -7555,9 +8393,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11602",
@@ -7573,9 +8413,11 @@ window.evo=[
           "battleSkillId2": "1106",
           "abilityId1": "624",
           "abilityId2": "625",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11610",
@@ -7591,9 +8433,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11611",
@@ -7609,9 +8453,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11612",
@@ -7627,9 +8473,11 @@ window.evo=[
           "battleSkillId2": "1108",
           "abilityId1": "626",
           "abilityId2": "627",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11613",
@@ -7645,9 +8493,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11614",
@@ -7663,9 +8513,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11615",
@@ -7681,9 +8533,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11616",
@@ -7699,9 +8553,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11617",
@@ -7717,9 +8573,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11618",
@@ -7735,9 +8593,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11619",
@@ -7753,9 +8613,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11620",
@@ -7771,9 +8633,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11621",
@@ -7789,9 +8653,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11622",
@@ -7807,9 +8673,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11623",
@@ -7825,9 +8693,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11624",
@@ -7843,9 +8713,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11625",
@@ -7861,9 +8733,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11626",
@@ -7879,9 +8753,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11627",
@@ -7897,9 +8773,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11628",
@@ -7915,9 +8793,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11629",
@@ -7933,9 +8813,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11630",
@@ -7951,9 +8833,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11631",
@@ -7969,9 +8853,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11632",
@@ -7987,9 +8873,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11639",
@@ -8005,9 +8893,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11640",
@@ -8023,9 +8913,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11641",
@@ -8041,9 +8933,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11642",
@@ -8059,9 +8953,11 @@ window.evo=[
           "battleSkillId2": "1384",
           "abilityId1": "868",
           "abilityId2": "869",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11643",
@@ -8077,9 +8973,11 @@ window.evo=[
           "battleSkillId2": "100025",
           "abilityId1": "100021",
           "abilityId2": "100022",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11644",
@@ -8095,9 +8993,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11645",
@@ -8113,9 +9013,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11650",
@@ -8131,9 +9033,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11651",
@@ -8149,9 +9053,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11660",
@@ -8167,9 +9073,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11661",
@@ -8185,9 +9093,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11662",
@@ -8203,9 +9113,11 @@ window.evo=[
           "battleSkillId2": "1199",
           "abilityId1": "680",
           "abilityId2": "681",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11670",
@@ -8221,9 +9133,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11671",
@@ -8239,9 +9153,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11672",
@@ -8257,9 +9173,11 @@ window.evo=[
           "battleSkillId2": "1201",
           "abilityId1": "682",
           "abilityId2": "683",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11679",
@@ -8275,9 +9193,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11680",
@@ -8293,9 +9213,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11681",
@@ -8311,9 +9233,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11682",
@@ -8329,9 +9253,11 @@ window.evo=[
           "battleSkillId2": "1203",
           "abilityId1": "684",
           "abilityId2": "685",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11683",
@@ -8347,9 +9273,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11684",
@@ -8365,9 +9293,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11690",
@@ -8383,9 +9313,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11691",
@@ -8401,9 +9333,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11692",
@@ -8419,9 +9353,11 @@ window.evo=[
           "battleSkillId2": "1205",
           "abilityId1": "686",
           "abilityId2": "687",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11700",
@@ -8437,9 +9373,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11701",
@@ -8455,9 +9393,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11710",
@@ -8473,9 +9413,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11711",
@@ -8491,9 +9433,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11712",
@@ -8509,9 +9453,11 @@ window.evo=[
           "battleSkillId2": "1207",
           "abilityId1": "697",
           "abilityId2": "698",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11721",
@@ -8527,9 +9473,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11722",
@@ -8545,9 +9493,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11723",
@@ -8563,9 +9513,11 @@ window.evo=[
           "battleSkillId2": "1209",
           "abilityId1": "699",
           "abilityId2": "700",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11724",
@@ -8581,9 +9533,11 @@ window.evo=[
           "battleSkillId2": "1468",
           "abilityId1": "954",
           "abilityId2": "955",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11725",
@@ -8599,9 +9553,11 @@ window.evo=[
           "battleSkillId2": "1470",
           "abilityId1": "956",
           "abilityId2": "957",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11726",
@@ -8617,9 +9573,11 @@ window.evo=[
           "battleSkillId2": "1472",
           "abilityId1": "958",
           "abilityId2": "959",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11727",
@@ -8635,9 +9593,11 @@ window.evo=[
           "battleSkillId2": "1474",
           "abilityId1": "960",
           "abilityId2": "961",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11728",
@@ -8653,9 +9613,11 @@ window.evo=[
           "battleSkillId2": "1476",
           "abilityId1": "962",
           "abilityId2": "963",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11729",
@@ -8671,9 +9633,11 @@ window.evo=[
           "battleSkillId2": "1478",
           "abilityId1": "964",
           "abilityId2": "965",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11730",
@@ -8689,9 +9653,11 @@ window.evo=[
           "battleSkillId2": "1480",
           "abilityId1": "966",
           "abilityId2": "967",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11731",
@@ -8707,9 +9673,11 @@ window.evo=[
           "battleSkillId2": "1482",
           "abilityId1": "968",
           "abilityId2": "969",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11732",
@@ -8725,9 +9693,11 @@ window.evo=[
           "battleSkillId2": "1484",
           "abilityId1": "970",
           "abilityId2": "971",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11750",
@@ -8743,9 +9713,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11751",
@@ -8761,9 +9733,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11752",
@@ -8779,9 +9753,11 @@ window.evo=[
           "battleSkillId2": "1448",
           "abilityId1": "934",
           "abilityId2": "935",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11760",
@@ -8797,9 +9773,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11761",
@@ -8815,9 +9793,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11762",
@@ -8833,9 +9813,11 @@ window.evo=[
           "battleSkillId2": "1666",
           "abilityId1": "1160",
           "abilityId2": "1161",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11770",
@@ -8851,9 +9833,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11771",
@@ -8869,9 +9853,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11772",
@@ -8887,9 +9873,11 @@ window.evo=[
           "battleSkillId2": "1668",
           "abilityId1": "1162",
           "abilityId2": "1163",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11780",
@@ -8905,9 +9893,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11781",
@@ -8923,9 +9913,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11782",
@@ -8941,9 +9933,11 @@ window.evo=[
           "battleSkillId2": "1670",
           "abilityId1": "1164",
           "abilityId2": "1165",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11790",
@@ -8959,9 +9953,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11791",
@@ -8977,9 +9973,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11792",
@@ -8995,9 +9993,11 @@ window.evo=[
           "battleSkillId2": "1672",
           "abilityId1": "1166",
           "abilityId2": "1167",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11800",
@@ -9013,9 +10013,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11801",
@@ -9031,9 +10033,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11810",
@@ -9049,9 +10053,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11811",
@@ -9067,9 +10073,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11812",
@@ -9085,9 +10093,11 @@ window.evo=[
           "battleSkillId2": "1325",
           "abilityId1": "809",
           "abilityId2": "810",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11820",
@@ -9103,9 +10113,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11821",
@@ -9121,9 +10133,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11822",
@@ -9139,9 +10153,11 @@ window.evo=[
           "battleSkillId2": "1327",
           "abilityId1": "811",
           "abilityId2": "812",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11830",
@@ -9157,9 +10173,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11831",
@@ -9175,9 +10193,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11832",
@@ -9193,9 +10213,11 @@ window.evo=[
           "battleSkillId2": "1329",
           "abilityId1": "813",
           "abilityId2": "814",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11840",
@@ -9211,9 +10233,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11841",
@@ -9229,9 +10253,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11842",
@@ -9247,9 +10273,11 @@ window.evo=[
           "battleSkillId2": "1331",
           "abilityId1": "815",
           "abilityId2": "816",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11850",
@@ -9265,9 +10293,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11851",
@@ -9283,9 +10313,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11860",
@@ -9301,9 +10333,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11861",
@@ -9319,9 +10353,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11862",
@@ -9337,9 +10373,11 @@ window.evo=[
           "battleSkillId2": "1750",
           "abilityId1": "1246",
           "abilityId2": "1247",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11870",
@@ -9355,9 +10393,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11871",
@@ -9373,9 +10413,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11872",
@@ -9391,9 +10433,11 @@ window.evo=[
           "battleSkillId2": "1752",
           "abilityId1": "1248",
           "abilityId2": "1249",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11880",
@@ -9409,9 +10453,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11881",
@@ -9427,9 +10473,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11890",
@@ -9445,9 +10493,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11891",
@@ -9463,9 +10513,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11900",
@@ -9481,9 +10533,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11901",
@@ -9499,9 +10553,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11910",
@@ -9517,9 +10573,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11911",
@@ -9535,9 +10593,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11912",
@@ -9553,9 +10613,11 @@ window.evo=[
           "battleSkillId2": "1414",
           "abilityId1": "883",
           "abilityId2": "884",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11920",
@@ -9571,9 +10633,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11921",
@@ -9589,9 +10653,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11922",
@@ -9607,9 +10673,11 @@ window.evo=[
           "battleSkillId2": "2124",
           "abilityId1": "1655",
           "abilityId2": "1656",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11930",
@@ -9625,9 +10693,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11931",
@@ -9643,9 +10713,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11932",
@@ -9661,9 +10733,11 @@ window.evo=[
           "battleSkillId2": "2126",
           "abilityId1": "1657",
           "abilityId2": "1658",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11940",
@@ -9679,9 +10753,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11941",
@@ -9697,9 +10773,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11950",
@@ -9715,9 +10793,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11951",
@@ -9733,9 +10813,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11960",
@@ -9751,9 +10833,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11961",
@@ -9769,9 +10853,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11962",
@@ -9787,9 +10873,11 @@ window.evo=[
           "battleSkillId2": "2128",
           "abilityId1": "1659",
           "abilityId2": "1660",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11970",
@@ -9805,9 +10893,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11971",
@@ -9823,9 +10913,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11972",
@@ -9841,9 +10933,11 @@ window.evo=[
           "battleSkillId2": "2130",
           "abilityId1": "1661",
           "abilityId2": "1662",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11980",
@@ -9859,9 +10953,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11981",
@@ -9877,9 +10973,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11982",
@@ -9895,9 +10993,11 @@ window.evo=[
           "battleSkillId2": "1768",
           "abilityId1": "1266",
           "abilityId2": "1267",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11990",
@@ -9913,9 +11013,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11991",
@@ -9931,9 +11033,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "11992",
@@ -9949,9 +11053,11 @@ window.evo=[
           "battleSkillId2": "1770",
           "abilityId1": "1268",
           "abilityId2": "1269",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12000",
@@ -9967,9 +11073,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12001",
@@ -9985,9 +11093,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12002",
@@ -10003,9 +11113,11 @@ window.evo=[
           "battleSkillId2": "1766",
           "abilityId1": "1264",
           "abilityId2": "1265",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12030",
@@ -10021,9 +11133,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12031",
@@ -10039,9 +11153,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12032",
@@ -10057,9 +11173,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12033",
@@ -10075,9 +11193,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12041",
@@ -10093,9 +11213,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12042",
@@ -10111,9 +11233,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12043",
@@ -10129,9 +11253,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12044",
@@ -10147,9 +11273,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12045",
@@ -10165,9 +11293,11 @@ window.evo=[
           "battleSkillId2": "2132",
           "abilityId1": "1663",
           "abilityId2": "1664",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12046",
@@ -10183,9 +11313,11 @@ window.evo=[
           "battleSkillId2": "2134",
           "abilityId1": "1665",
           "abilityId2": "1666",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12050",
@@ -10201,9 +11333,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12051",
@@ -10219,9 +11353,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12060",
@@ -10237,9 +11373,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12061",
@@ -10255,9 +11393,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12062",
@@ -10273,9 +11413,11 @@ window.evo=[
           "battleSkillId2": "1506",
           "abilityId1": "993",
           "abilityId2": "994",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12070",
@@ -10291,9 +11433,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12071",
@@ -10309,9 +11453,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12080",
@@ -10327,9 +11473,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12081",
@@ -10345,9 +11493,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12090",
@@ -10363,9 +11513,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12091",
@@ -10381,9 +11533,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12092",
@@ -10399,9 +11553,11 @@ window.evo=[
           "battleSkillId2": "1386",
           "abilityId1": "870",
           "abilityId2": "871",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12100",
@@ -10417,9 +11573,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12101",
@@ -10435,9 +11593,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12110",
@@ -10453,9 +11613,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12111",
@@ -10471,9 +11633,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12120",
@@ -10489,9 +11653,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12121",
@@ -10507,9 +11673,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12130",
@@ -10525,9 +11693,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12131",
@@ -10543,9 +11713,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12140",
@@ -10561,9 +11733,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12141",
@@ -10579,9 +11753,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12150",
@@ -10597,9 +11773,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12151",
@@ -10615,9 +11793,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12160",
@@ -10633,9 +11813,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12161",
@@ -10651,9 +11833,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12170",
@@ -10669,9 +11853,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12171",
@@ -10687,9 +11873,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12172",
@@ -10705,9 +11893,11 @@ window.evo=[
           "battleSkillId2": "1604",
           "abilityId1": "1097",
           "abilityId2": "1098",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12180",
@@ -10723,9 +11913,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12181",
@@ -10741,9 +11933,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12190",
@@ -10759,9 +11953,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12191",
@@ -10777,9 +11973,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12200",
@@ -10795,9 +11993,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12201",
@@ -10813,9 +12013,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12210",
@@ -10831,9 +12033,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12211",
@@ -10849,9 +12053,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12212",
@@ -10867,9 +12073,11 @@ window.evo=[
           "battleSkillId2": "1406",
           "abilityId1": "893",
           "abilityId2": "894",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12220",
@@ -10885,9 +12093,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12221",
@@ -10903,9 +12113,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12222",
@@ -10921,9 +12133,11 @@ window.evo=[
           "battleSkillId2": "1408",
           "abilityId1": "895",
           "abilityId2": "896",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12230",
@@ -10939,9 +12153,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12231",
@@ -10957,9 +12173,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12232",
@@ -10975,9 +12193,11 @@ window.evo=[
           "battleSkillId2": "1410",
           "abilityId1": "897",
           "abilityId2": "898",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12240",
@@ -10993,9 +12213,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12241",
@@ -11011,9 +12233,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12242",
@@ -11029,9 +12253,11 @@ window.evo=[
           "battleSkillId2": "1412",
           "abilityId1": "899",
           "abilityId2": "900",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12250",
@@ -11047,9 +12273,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12251",
@@ -11065,9 +12293,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12252",
@@ -11083,9 +12313,11 @@ window.evo=[
           "battleSkillId2": "1606",
           "abilityId1": "1099",
           "abilityId2": "1100",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12260",
@@ -11101,9 +12333,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12261",
@@ -11119,9 +12353,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12262",
@@ -11137,9 +12373,11 @@ window.evo=[
           "battleSkillId2": "1718",
           "abilityId1": "1214",
           "abilityId2": "1215",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12270",
@@ -11155,9 +12393,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12271",
@@ -11173,9 +12413,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12290",
@@ -11191,9 +12433,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12291",
@@ -11209,9 +12453,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12300",
@@ -11227,9 +12473,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12301",
@@ -11245,9 +12493,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12302",
@@ -11263,9 +12513,11 @@ window.evo=[
           "battleSkillId2": "1586",
           "abilityId1": "1072",
           "abilityId2": "1073",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12310",
@@ -11281,9 +12533,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12311",
@@ -11299,9 +12553,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12320",
@@ -11317,9 +12573,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12321",
@@ -11335,9 +12593,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12330",
@@ -11353,9 +12613,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12331",
@@ -11371,9 +12633,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12332",
@@ -11389,9 +12653,11 @@ window.evo=[
           "battleSkillId2": "2050",
           "abilityId1": "1546",
           "abilityId2": "1547",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12340",
@@ -11407,9 +12673,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12341",
@@ -11425,9 +12693,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12342",
@@ -11443,9 +12713,11 @@ window.evo=[
           "battleSkillId2": "2052",
           "abilityId1": "1548",
           "abilityId2": "1549",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12350",
@@ -11461,9 +12733,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12351",
@@ -11479,9 +12753,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12352",
@@ -11497,9 +12773,11 @@ window.evo=[
           "battleSkillId2": "2054",
           "abilityId1": "1550",
           "abilityId2": "1551",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12360",
@@ -11515,9 +12793,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12361",
@@ -11533,9 +12813,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12362",
@@ -11551,9 +12833,11 @@ window.evo=[
           "battleSkillId2": "1642",
           "abilityId1": "1135",
           "abilityId2": "1136",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12370",
@@ -11569,9 +12853,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12371",
@@ -11587,9 +12873,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12372",
@@ -11605,9 +12893,11 @@ window.evo=[
           "battleSkillId2": "1526",
           "abilityId1": "1015",
           "abilityId2": "1016",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12380",
@@ -11623,9 +12913,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12381",
@@ -11641,9 +12933,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12390",
@@ -11659,9 +12953,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12391",
@@ -11677,9 +12973,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12392",
@@ -11695,9 +12993,11 @@ window.evo=[
           "battleSkillId2": "1806",
           "abilityId1": "1304",
           "abilityId2": "1305",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12400",
@@ -11713,9 +13013,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12401",
@@ -11731,9 +13033,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12402",
@@ -11749,9 +13053,11 @@ window.evo=[
           "battleSkillId2": "1802",
           "abilityId1": "1300",
           "abilityId2": "1301",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12420",
@@ -11767,9 +13073,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12421",
@@ -11785,9 +13093,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12422",
@@ -11803,9 +13113,11 @@ window.evo=[
           "battleSkillId2": "1978",
           "abilityId1": "1476",
           "abilityId2": "1477",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12430",
@@ -11821,9 +13133,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12431",
@@ -11839,9 +13153,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12440",
@@ -11857,9 +13173,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12441",
@@ -11875,9 +13193,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12442",
@@ -11893,9 +13213,11 @@ window.evo=[
           "battleSkillId2": "1528",
           "abilityId1": "1017",
           "abilityId2": "1018",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12450",
@@ -11911,9 +13233,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12451",
@@ -11929,9 +13253,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12452",
@@ -11947,9 +13273,11 @@ window.evo=[
           "battleSkillId2": "1530",
           "abilityId1": "1019",
           "abilityId2": "1020",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12460",
@@ -11965,9 +13293,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12461",
@@ -11983,9 +13313,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12462",
@@ -12001,9 +13333,11 @@ window.evo=[
           "battleSkillId2": "1532",
           "abilityId1": "1021",
           "abilityId2": "1022",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12470",
@@ -12019,9 +13353,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12471",
@@ -12037,9 +13373,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12472",
@@ -12055,9 +13393,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12473",
@@ -12073,9 +13413,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12474",
@@ -12091,9 +13433,11 @@ window.evo=[
           "battleSkillId2": "1804",
           "abilityId1": "1302",
           "abilityId2": "1303",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12490",
@@ -12109,9 +13453,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12491",
@@ -12127,9 +13473,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12500",
@@ -12145,9 +13493,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12501",
@@ -12163,9 +13513,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12502",
@@ -12181,9 +13533,11 @@ window.evo=[
           "battleSkillId2": "1822",
           "abilityId1": "1320",
           "abilityId2": "1321",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12509",
@@ -12199,9 +13553,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12510",
@@ -12217,9 +13573,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12511",
@@ -12235,9 +13593,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12512",
@@ -12253,9 +13613,11 @@ window.evo=[
           "battleSkillId2": "1548",
           "abilityId1": "1093",
           "abilityId2": "1094",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12513",
@@ -12271,9 +13633,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12514",
@@ -12289,9 +13653,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12519",
@@ -12307,9 +13673,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12520",
@@ -12325,9 +13693,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12521",
@@ -12343,9 +13713,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12522",
@@ -12361,9 +13733,11 @@ window.evo=[
           "battleSkillId2": "1550",
           "abilityId1": "1095",
           "abilityId2": "1096",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12523",
@@ -12379,9 +13753,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12524",
@@ -12397,9 +13773,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12530",
@@ -12415,9 +13793,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12531",
@@ -12433,9 +13813,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12540",
@@ -12451,9 +13833,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12541",
@@ -12469,9 +13853,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12550",
@@ -12487,9 +13873,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12551",
@@ -12505,9 +13893,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12552",
@@ -12523,9 +13913,11 @@ window.evo=[
           "battleSkillId2": "1558",
           "abilityId1": "1048",
           "abilityId2": "1049",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12560",
@@ -12541,9 +13933,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12561",
@@ -12559,9 +13953,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12562",
@@ -12577,9 +13973,11 @@ window.evo=[
           "battleSkillId2": "1562",
           "abilityId1": "1079",
           "abilityId2": "1080",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12570",
@@ -12595,9 +13993,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12571",
@@ -12613,9 +14013,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12572",
@@ -12631,9 +14033,11 @@ window.evo=[
           "battleSkillId2": "1566",
           "abilityId1": "1081",
           "abilityId2": "1082",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12580",
@@ -12649,9 +14053,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12581",
@@ -12667,9 +14073,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12582",
@@ -12685,9 +14093,11 @@ window.evo=[
           "battleSkillId2": "1570",
           "abilityId1": "1083",
           "abilityId2": "1084",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12590",
@@ -12703,9 +14113,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12591",
@@ -12721,9 +14133,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12592",
@@ -12739,9 +14153,11 @@ window.evo=[
           "battleSkillId2": "1612",
           "abilityId1": "1105",
           "abilityId2": "1106",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12600",
@@ -12757,9 +14173,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12601",
@@ -12775,9 +14193,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12610",
@@ -12793,9 +14213,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12611",
@@ -12811,9 +14233,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12620",
@@ -12829,9 +14253,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12621",
@@ -12847,9 +14273,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12630",
@@ -12865,9 +14293,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12631",
@@ -12883,9 +14313,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12640",
@@ -12901,9 +14333,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12641",
@@ -12919,9 +14353,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12650",
@@ -12937,9 +14373,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12651",
@@ -12955,9 +14393,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12659",
@@ -12973,9 +14413,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12660",
@@ -12991,9 +14433,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12661",
@@ -13009,9 +14453,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12662",
@@ -13027,9 +14473,11 @@ window.evo=[
           "battleSkillId2": "1656",
           "abilityId1": "1150",
           "abilityId2": "1151",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12663",
@@ -13045,9 +14493,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12664",
@@ -13063,9 +14513,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12670",
@@ -13081,9 +14533,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12671",
@@ -13099,9 +14553,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12680",
@@ -13117,9 +14573,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12681",
@@ -13135,9 +14593,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12690",
@@ -13153,9 +14613,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12691",
@@ -13171,9 +14633,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12692",
@@ -13189,9 +14653,11 @@ window.evo=[
           "battleSkillId2": "100013",
           "abilityId1": "100010",
           "abilityId2": "100011",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12700",
@@ -13207,9 +14673,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12701",
@@ -13225,9 +14693,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12800",
@@ -13243,9 +14713,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12801",
@@ -13261,9 +14733,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12900",
@@ -13279,9 +14753,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "12901",
@@ -13297,9 +14773,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "13000",
@@ -13315,9 +14793,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "13001",
@@ -13333,9 +14813,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "13002",
@@ -13351,9 +14833,11 @@ window.evo=[
           "battleSkillId2": "1980",
           "abilityId1": "1478",
           "abilityId2": "1479",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "13100",
@@ -13369,9 +14853,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "13101",
@@ -13387,9 +14873,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "13102",
@@ -13405,9 +14893,11 @@ window.evo=[
           "battleSkillId2": "1982",
           "abilityId1": "1480",
           "abilityId2": "1481",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "13200",
@@ -13423,9 +14913,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "13201",
@@ -13441,9 +14933,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "13202",
@@ -13459,9 +14953,11 @@ window.evo=[
           "battleSkillId2": "1736",
           "abilityId1": "1232",
           "abilityId2": "1233",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "13300",
@@ -13477,9 +14973,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "13301",
@@ -13495,9 +14993,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "13302",
@@ -13513,9 +15013,11 @@ window.evo=[
           "battleSkillId2": "100009",
           "abilityId1": "100006",
           "abilityId2": "100007",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "13400",
@@ -13531,9 +15033,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "13401",
@@ -13549,9 +15053,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "13500",
@@ -13567,9 +15073,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "13501",
@@ -13585,9 +15093,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "13502",
@@ -13603,9 +15113,11 @@ window.evo=[
           "battleSkillId2": "1740",
           "abilityId1": "1236",
           "abilityId2": "1237",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "13600",
@@ -13621,9 +15133,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "13601",
@@ -13639,9 +15153,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "13602",
@@ -13657,9 +15173,11 @@ window.evo=[
           "battleSkillId2": "1738",
           "abilityId1": "1234",
           "abilityId2": "1235",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "13700",
@@ -13675,9 +15193,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "13701",
@@ -13693,9 +15213,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "13800",
@@ -13711,9 +15233,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "13801",
@@ -13729,9 +15253,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "13900",
@@ -13747,9 +15273,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "13901",
@@ -13765,9 +15293,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "13902",
@@ -13783,9 +15313,11 @@ window.evo=[
           "battleSkillId2": "2044",
           "abilityId1": "1540",
           "abilityId2": "1541",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "14000",
@@ -13801,9 +15333,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "14001",
@@ -13819,9 +15353,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "14100",
@@ -13837,9 +15373,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "14101",
@@ -13855,9 +15393,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "14102",
@@ -13873,9 +15413,11 @@ window.evo=[
           "battleSkillId2": "2046",
           "abilityId1": "1542",
           "abilityId2": "1543",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "14200",
@@ -13891,9 +15433,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "14201",
@@ -13909,9 +15453,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "14202",
@@ -13927,9 +15473,11 @@ window.evo=[
           "battleSkillId2": "2048",
           "abilityId1": "1544",
           "abilityId2": "1545",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "14300",
@@ -13945,9 +15493,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "14301",
@@ -13963,9 +15513,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "14400",
@@ -13981,9 +15533,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "14401",
@@ -13999,9 +15553,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "14500",
@@ -14017,9 +15573,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "14501",
@@ -14035,9 +15593,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "14600",
@@ -14053,9 +15613,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "14601",
@@ -14071,9 +15633,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "14602",
@@ -14089,9 +15653,11 @@ window.evo=[
           "battleSkillId2": "1714",
           "abilityId1": "1191",
           "abilityId2": "1192",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "14700",
@@ -14107,9 +15673,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "14701",
@@ -14125,9 +15693,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "14702",
@@ -14143,9 +15713,11 @@ window.evo=[
           "battleSkillId2": "1716",
           "abilityId1": "1193",
           "abilityId2": "1194",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "14800",
@@ -14161,9 +15733,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "14801",
@@ -14179,9 +15753,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "14899",
@@ -14197,9 +15773,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "14900",
@@ -14215,9 +15793,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "14901",
@@ -14233,9 +15813,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "14902",
@@ -14251,9 +15833,11 @@ window.evo=[
           "battleSkillId2": "1690",
           "abilityId1": "1203",
           "abilityId2": "1204",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "14903",
@@ -14269,9 +15853,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "14904",
@@ -14287,9 +15873,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15000",
@@ -14305,9 +15893,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15001",
@@ -14323,9 +15913,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15002",
@@ -14341,9 +15933,11 @@ window.evo=[
           "battleSkillId2": "1692",
           "abilityId1": "1205",
           "abilityId2": "1206",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15100",
@@ -14359,9 +15953,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15101",
@@ -14377,9 +15973,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15102",
@@ -14395,9 +15993,11 @@ window.evo=[
           "battleSkillId2": "1694",
           "abilityId1": "1207",
           "abilityId2": "1208",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15200",
@@ -14413,9 +16013,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15201",
@@ -14431,9 +16033,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15300",
@@ -14449,9 +16053,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15301",
@@ -14467,9 +16073,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15400",
@@ -14485,9 +16093,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15401",
@@ -14503,9 +16113,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15500",
@@ -14521,9 +16133,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15501",
@@ -14539,9 +16153,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15600",
@@ -14557,9 +16173,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15601",
@@ -14575,9 +16193,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15700",
@@ -14593,9 +16213,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15701",
@@ -14611,9 +16233,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15702",
@@ -14629,9 +16253,11 @@ window.evo=[
           "battleSkillId2": "100011",
           "abilityId1": "100008",
           "abilityId2": "100009",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15800",
@@ -14647,9 +16273,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15801",
@@ -14665,9 +16293,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15830",
@@ -14683,9 +16313,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15831",
@@ -14701,9 +16333,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15840",
@@ -14719,9 +16353,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15841",
@@ -14737,9 +16373,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15842",
@@ -14755,9 +16393,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15843",
@@ -14773,9 +16413,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15844",
@@ -14791,9 +16433,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15845",
@@ -14809,9 +16453,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15846",
@@ -14827,9 +16473,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15847",
@@ -14845,9 +16493,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15848",
@@ -14863,9 +16513,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15849",
@@ -14881,9 +16533,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15850",
@@ -14899,9 +16553,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15851",
@@ -14917,9 +16573,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15852",
@@ -14935,9 +16593,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15853",
@@ -14953,9 +16613,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15854",
@@ -14971,9 +16633,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15855",
@@ -14989,9 +16653,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15856",
@@ -15007,9 +16673,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15857",
@@ -15025,9 +16693,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15858",
@@ -15043,9 +16713,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15859",
@@ -15061,9 +16733,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15860",
@@ -15079,9 +16753,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15861",
@@ -15097,9 +16773,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15862",
@@ -15115,9 +16793,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15863",
@@ -15133,9 +16813,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15864",
@@ -15151,9 +16833,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15865",
@@ -15169,9 +16853,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15866",
@@ -15187,9 +16873,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15867",
@@ -15205,9 +16893,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15900",
@@ -15223,9 +16913,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15901",
@@ -15241,9 +16933,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15902",
@@ -15259,9 +16953,11 @@ window.evo=[
           "battleSkillId2": "1786",
           "abilityId1": "1284",
           "abilityId2": "1285",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15910",
@@ -15277,9 +16973,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15911",
@@ -15295,9 +16993,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15912",
@@ -15313,9 +17013,11 @@ window.evo=[
           "battleSkillId2": "1790",
           "abilityId1": "1288",
           "abilityId2": "1289",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15920",
@@ -15331,9 +17033,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15921",
@@ -15349,9 +17053,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15922",
@@ -15367,9 +17073,11 @@ window.evo=[
           "battleSkillId2": "1794",
           "abilityId1": "1292",
           "abilityId2": "1293",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15930",
@@ -15385,9 +17093,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15931",
@@ -15403,9 +17113,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15940",
@@ -15421,9 +17133,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15941",
@@ -15439,9 +17153,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15950",
@@ -15457,9 +17173,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15951",
@@ -15475,9 +17193,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15952",
@@ -15493,9 +17213,11 @@ window.evo=[
           "battleSkillId2": "1844",
           "abilityId1": "1342",
           "abilityId2": "1343",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15960",
@@ -15511,9 +17233,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15961",
@@ -15529,9 +17253,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15962",
@@ -15547,9 +17273,11 @@ window.evo=[
           "battleSkillId2": "1810",
           "abilityId1": "1308",
           "abilityId2": "1309",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15970",
@@ -15565,9 +17293,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15971",
@@ -15583,9 +17313,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15972",
@@ -15601,9 +17333,11 @@ window.evo=[
           "battleSkillId2": "1814",
           "abilityId1": "1312",
           "abilityId2": "1313",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15980",
@@ -15619,9 +17353,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15981",
@@ -15637,9 +17373,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15990",
@@ -15655,9 +17393,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15991",
@@ -15673,9 +17413,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "15992",
@@ -15691,9 +17433,11 @@ window.evo=[
           "battleSkillId2": "1826",
           "abilityId1": "1324",
           "abilityId2": "1325",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16000",
@@ -15709,9 +17453,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16001",
@@ -15727,9 +17473,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16002",
@@ -15745,9 +17493,11 @@ window.evo=[
           "battleSkillId2": "1834",
           "abilityId1": "1332",
           "abilityId2": "1333",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16010",
@@ -15763,9 +17513,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16011",
@@ -15781,9 +17533,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16012",
@@ -15799,9 +17553,11 @@ window.evo=[
           "battleSkillId2": "1830",
           "abilityId1": "1328",
           "abilityId2": "1329",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16013",
@@ -15817,9 +17573,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16014",
@@ -15835,9 +17593,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16015",
@@ -15853,9 +17613,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16016",
@@ -15871,9 +17633,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16040",
@@ -15889,9 +17653,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16041",
@@ -15907,9 +17673,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16050",
@@ -15925,9 +17693,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16051",
@@ -15943,9 +17713,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16052",
@@ -15961,9 +17733,11 @@ window.evo=[
           "battleSkillId2": "1852",
           "abilityId1": "1350",
           "abilityId2": "1351",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16060",
@@ -15979,9 +17753,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16061",
@@ -15997,9 +17773,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16062",
@@ -16015,9 +17793,11 @@ window.evo=[
           "battleSkillId2": "1868",
           "abilityId1": "1366",
           "abilityId2": "1367",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16070",
@@ -16033,9 +17813,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16071",
@@ -16051,9 +17833,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16072",
@@ -16069,9 +17853,11 @@ window.evo=[
           "battleSkillId2": "1872",
           "abilityId1": "1370",
           "abilityId2": "1371",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16080",
@@ -16087,9 +17873,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16081",
@@ -16105,9 +17893,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16090",
@@ -16123,9 +17913,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16091",
@@ -16141,9 +17933,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16100",
@@ -16159,9 +17953,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16101",
@@ -16177,9 +17973,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16102",
@@ -16195,9 +17993,11 @@ window.evo=[
           "battleSkillId2": "1880",
           "abilityId1": "1378",
           "abilityId2": "1379",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16110",
@@ -16213,9 +18013,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16111",
@@ -16231,9 +18033,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16112",
@@ -16249,9 +18053,11 @@ window.evo=[
           "battleSkillId2": "1884",
           "abilityId1": "1382",
           "abilityId2": "1383",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16120",
@@ -16267,9 +18073,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16121",
@@ -16285,9 +18093,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16122",
@@ -16303,9 +18113,11 @@ window.evo=[
           "battleSkillId2": "1888",
           "abilityId1": "1386",
           "abilityId2": "1387",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16130",
@@ -16321,9 +18133,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16131",
@@ -16339,9 +18153,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16132",
@@ -16357,9 +18173,11 @@ window.evo=[
           "battleSkillId2": "1892",
           "abilityId1": "1390",
           "abilityId2": "1391",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16140",
@@ -16375,9 +18193,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16141",
@@ -16393,9 +18213,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16142",
@@ -16411,9 +18233,11 @@ window.evo=[
           "battleSkillId2": "1896",
           "abilityId1": "1394",
           "abilityId2": "1395",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16150",
@@ -16429,9 +18253,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16151",
@@ -16447,9 +18273,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16152",
@@ -16465,9 +18293,11 @@ window.evo=[
           "battleSkillId2": "1932",
           "abilityId1": "1430",
           "abilityId2": "1431",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16160",
@@ -16483,9 +18313,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16161",
@@ -16501,9 +18333,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16162",
@@ -16519,9 +18353,11 @@ window.evo=[
           "battleSkillId2": "1936",
           "abilityId1": "1434",
           "abilityId2": "1435",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16170",
@@ -16537,9 +18373,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16171",
@@ -16555,9 +18393,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16172",
@@ -16573,9 +18413,11 @@ window.evo=[
           "battleSkillId2": "1940",
           "abilityId1": "1438",
           "abilityId2": "1439",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16180",
@@ -16591,9 +18433,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16181",
@@ -16609,9 +18453,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16182",
@@ -16627,9 +18473,11 @@ window.evo=[
           "battleSkillId2": "1916",
           "abilityId1": "1414",
           "abilityId2": "1415",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16190",
@@ -16645,9 +18493,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16191",
@@ -16663,9 +18513,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16192",
@@ -16681,9 +18533,11 @@ window.evo=[
           "battleSkillId2": "1920",
           "abilityId1": "1418",
           "abilityId2": "1419",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16200",
@@ -16699,9 +18553,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16201",
@@ -16717,9 +18573,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16202",
@@ -16735,9 +18593,11 @@ window.evo=[
           "battleSkillId2": "1924",
           "abilityId1": "1422",
           "abilityId2": "1423",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16210",
@@ -16753,9 +18613,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16211",
@@ -16771,9 +18633,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16212",
@@ -16789,9 +18653,11 @@ window.evo=[
           "battleSkillId2": "1928",
           "abilityId1": "1426",
           "abilityId2": "1427",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16213",
@@ -16807,9 +18673,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16214",
@@ -16825,9 +18693,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16215",
@@ -16843,9 +18713,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16216",
@@ -16861,9 +18733,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16217",
@@ -16879,9 +18753,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16218",
@@ -16897,9 +18773,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16230",
@@ -16915,9 +18793,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16231",
@@ -16933,9 +18813,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16232",
@@ -16951,9 +18833,11 @@ window.evo=[
           "battleSkillId2": "1900",
           "abilityId1": "1398",
           "abilityId2": "1399",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16240",
@@ -16969,9 +18853,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16241",
@@ -16987,9 +18873,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16242",
@@ -17005,9 +18893,11 @@ window.evo=[
           "battleSkillId2": "1904",
           "abilityId1": "1402",
           "abilityId2": "1403",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16250",
@@ -17023,9 +18913,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16251",
@@ -17041,9 +18933,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16260",
@@ -17059,9 +18953,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16261",
@@ -17077,9 +18973,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16270",
@@ -17095,9 +18993,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16271",
@@ -17113,9 +19013,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16272",
@@ -17131,9 +19033,11 @@ window.evo=[
           "battleSkillId2": "1950",
           "abilityId1": "1448",
           "abilityId2": "1449",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16280",
@@ -17149,9 +19053,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16281",
@@ -17167,9 +19073,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16282",
@@ -17185,9 +19093,11 @@ window.evo=[
           "battleSkillId2": "1954",
           "abilityId1": "1452",
           "abilityId2": "1453",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16290",
@@ -17203,9 +19113,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16291",
@@ -17221,9 +19133,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16300",
@@ -17239,9 +19153,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16301",
@@ -17257,9 +19173,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16310",
@@ -17275,9 +19193,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16311",
@@ -17293,9 +19213,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16312",
@@ -17311,9 +19233,11 @@ window.evo=[
           "battleSkillId2": "2036",
           "abilityId1": "1552",
           "abilityId2": "1553",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16320",
@@ -17329,9 +19253,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16321",
@@ -17347,9 +19273,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16322",
@@ -17365,9 +19293,11 @@ window.evo=[
           "battleSkillId2": "2038",
           "abilityId1": "1554",
           "abilityId2": "1555",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16330",
@@ -17383,9 +19313,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16331",
@@ -17401,9 +19333,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16332",
@@ -17419,9 +19353,11 @@ window.evo=[
           "battleSkillId2": "2040",
           "abilityId1": "1556",
           "abilityId2": "1557",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16340",
@@ -17437,9 +19373,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16341",
@@ -17455,9 +19393,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16342",
@@ -17473,9 +19413,11 @@ window.evo=[
           "battleSkillId2": "2042",
           "abilityId1": "1558",
           "abilityId2": "1559",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16350",
@@ -17491,9 +19433,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16351",
@@ -17509,9 +19453,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16352",
@@ -17527,9 +19473,11 @@ window.evo=[
           "battleSkillId2": "1972",
           "abilityId1": "1470",
           "abilityId2": "1471",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16370",
@@ -17545,9 +19493,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16371",
@@ -17563,9 +19513,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16372",
@@ -17581,9 +19533,11 @@ window.evo=[
           "battleSkillId2": "2056",
           "abilityId1": "1560",
           "abilityId2": "1561",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16380",
@@ -17599,9 +19553,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16381",
@@ -17617,9 +19573,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16382",
@@ -17635,9 +19593,11 @@ window.evo=[
           "battleSkillId2": "2058",
           "abilityId1": "1562",
           "abilityId2": "1563",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16390",
@@ -17653,9 +19613,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16391",
@@ -17671,9 +19633,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16440",
@@ -17689,9 +19653,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16441",
@@ -17707,9 +19673,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16442",
@@ -17725,9 +19693,11 @@ window.evo=[
           "battleSkillId2": "2000",
           "abilityId1": "1498",
           "abilityId2": "1499",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16450",
@@ -17743,9 +19713,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16451",
@@ -17761,9 +19733,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16452",
@@ -17779,9 +19753,11 @@ window.evo=[
           "battleSkillId2": "2004",
           "abilityId1": "1502",
           "abilityId2": "1503",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16460",
@@ -17797,9 +19773,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16461",
@@ -17815,9 +19793,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16462",
@@ -17833,9 +19813,11 @@ window.evo=[
           "battleSkillId2": "2008",
           "abilityId1": "1506",
           "abilityId2": "1507",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16470",
@@ -17851,9 +19833,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16471",
@@ -17869,9 +19853,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16472",
@@ -17887,9 +19873,11 @@ window.evo=[
           "battleSkillId2": "2012",
           "abilityId1": "1510",
           "abilityId2": "1511",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16480",
@@ -17905,9 +19893,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16481",
@@ -17923,9 +19913,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16482",
@@ -17941,9 +19933,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16483",
@@ -17959,9 +19953,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16484",
@@ -17977,9 +19973,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16485",
@@ -17995,9 +19993,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16490",
@@ -18013,9 +20013,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16491",
@@ -18031,9 +20033,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16492",
@@ -18049,9 +20053,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16493",
@@ -18067,9 +20073,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16494",
@@ -18085,9 +20093,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16495",
@@ -18103,9 +20113,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16500",
@@ -18121,9 +20133,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16501",
@@ -18139,9 +20153,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16502",
@@ -18157,9 +20173,11 @@ window.evo=[
           "battleSkillId2": "2034",
           "abilityId1": "1532",
           "abilityId2": "1533",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16510",
@@ -18175,9 +20193,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16511",
@@ -18193,9 +20213,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16512",
@@ -18211,9 +20233,11 @@ window.evo=[
           "battleSkillId2": "2024",
           "abilityId1": "1522",
           "abilityId2": "1523",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16520",
@@ -18229,9 +20253,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16521",
@@ -18247,9 +20273,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16522",
@@ -18265,9 +20293,11 @@ window.evo=[
           "battleSkillId2": "2082",
           "abilityId1": "1566",
           "abilityId2": "1567",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16530",
@@ -18283,9 +20313,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16531",
@@ -18301,9 +20333,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16532",
@@ -18319,9 +20353,11 @@ window.evo=[
           "battleSkillId2": "2086",
           "abilityId1": "1570",
           "abilityId2": "1571",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16540",
@@ -18337,9 +20373,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16541",
@@ -18355,9 +20393,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16542",
@@ -18373,9 +20413,11 @@ window.evo=[
           "battleSkillId2": "2090",
           "abilityId1": "1574",
           "abilityId2": "1575",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16550",
@@ -18391,9 +20433,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16551",
@@ -18409,9 +20453,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16560",
@@ -18427,9 +20473,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16561",
@@ -18445,9 +20493,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16570",
@@ -18463,9 +20513,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": "6"
+          "motionType": "6",
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16571",
@@ -18481,9 +20533,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16572",
@@ -18499,9 +20553,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16573",
@@ -18517,9 +20573,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16574",
@@ -18535,9 +20593,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16575",
@@ -18553,9 +20613,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16580",
@@ -18571,9 +20633,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16581",
@@ -18589,9 +20653,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16582",
@@ -18607,9 +20673,11 @@ window.evo=[
           "battleSkillId2": "2062",
           "abilityId1": "1580",
           "abilityId2": "1581",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16583",
@@ -18625,9 +20693,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16584",
@@ -18643,9 +20713,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16585",
@@ -18661,9 +20733,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16586",
@@ -18679,9 +20753,11 @@ window.evo=[
           "battleSkillId2": "2066",
           "abilityId1": "1584",
           "abilityId2": "1585",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16587",
@@ -18697,9 +20773,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16588",
@@ -18715,9 +20793,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16590",
@@ -18733,9 +20813,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16591",
@@ -18751,9 +20833,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16592",
@@ -18769,9 +20853,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16593",
@@ -18787,9 +20873,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16594",
@@ -18805,9 +20893,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16595",
@@ -18823,9 +20913,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16600",
@@ -18841,9 +20933,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16601",
@@ -18859,9 +20953,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16602",
@@ -18877,9 +20973,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16603",
@@ -18895,9 +20993,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16604",
@@ -18913,9 +21013,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16605",
@@ -18931,9 +21033,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16610",
@@ -18949,9 +21053,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16611",
@@ -18967,9 +21073,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16612",
@@ -18985,9 +21093,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16613",
@@ -19003,9 +21113,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16614",
@@ -19021,9 +21133,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16615",
@@ -19039,9 +21153,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16620",
@@ -19057,9 +21173,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16621",
@@ -19075,9 +21193,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16622",
@@ -19093,9 +21213,11 @@ window.evo=[
           "battleSkillId2": "2106",
           "abilityId1": "1598",
           "abilityId2": "1599",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16623",
@@ -19111,9 +21233,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16624",
@@ -19129,9 +21253,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16625",
@@ -19147,9 +21273,11 @@ window.evo=[
           "battleSkillId2": "2070",
           "abilityId1": "1602",
           "abilityId2": "1603",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16630",
@@ -19165,9 +21293,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16631",
@@ -19183,9 +21313,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16632",
@@ -19201,9 +21333,11 @@ window.evo=[
           "battleSkillId2": "2110",
           "abilityId1": "1606",
           "abilityId2": "1607",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16640",
@@ -19219,9 +21353,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16641",
@@ -19237,9 +21373,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16642",
@@ -19255,9 +21393,11 @@ window.evo=[
           "battleSkillId2": "2114",
           "abilityId1": "1610",
           "abilityId2": "1611",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16650",
@@ -19273,9 +21413,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16651",
@@ -19291,9 +21433,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16652",
@@ -19309,9 +21453,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16653",
@@ -19327,9 +21473,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16654",
@@ -19345,9 +21493,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16655",
@@ -19363,9 +21513,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16660",
@@ -19381,9 +21533,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16661",
@@ -19399,9 +21553,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16662",
@@ -19417,9 +21573,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16663",
@@ -19435,9 +21593,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16664",
@@ -19453,9 +21613,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16665",
@@ -19471,9 +21633,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16670",
@@ -19489,9 +21653,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16671",
@@ -19507,9 +21673,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16672",
@@ -19525,9 +21693,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16673",
@@ -19543,9 +21713,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16674",
@@ -19561,9 +21733,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16675",
@@ -19579,9 +21753,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16680",
@@ -19597,9 +21773,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16681",
@@ -19615,9 +21793,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16690",
@@ -19633,9 +21813,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16691",
@@ -19651,9 +21833,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16692",
@@ -19669,9 +21853,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16693",
@@ -19687,9 +21873,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16694",
@@ -19705,9 +21893,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16695",
@@ -19723,9 +21913,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16700",
@@ -19741,9 +21933,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16701",
@@ -19759,9 +21953,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16702",
@@ -19777,9 +21973,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16703",
@@ -19795,9 +21993,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16704",
@@ -19813,9 +22013,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16705",
@@ -19831,9 +22033,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16710",
@@ -19849,9 +22053,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16711",
@@ -19867,9 +22073,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16712",
@@ -19885,9 +22093,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16713",
@@ -19903,9 +22113,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16714",
@@ -19921,9 +22133,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16715",
@@ -19939,9 +22153,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16720",
@@ -19957,9 +22173,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16721",
@@ -19975,9 +22193,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16722",
@@ -19993,9 +22213,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16723",
@@ -20011,9 +22233,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16724",
@@ -20029,9 +22253,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16725",
@@ -20047,9 +22273,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16730",
@@ -20065,9 +22293,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16731",
@@ -20083,9 +22313,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16732",
@@ -20101,9 +22333,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16733",
@@ -20119,9 +22353,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16734",
@@ -20137,9 +22373,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16735",
@@ -20155,9 +22393,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16740",
@@ -20173,9 +22413,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16741",
@@ -20191,9 +22433,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16742",
@@ -20209,9 +22453,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16743",
@@ -20227,9 +22473,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16744",
@@ -20245,9 +22493,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16745",
@@ -20263,9 +22513,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16750",
@@ -20281,9 +22533,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16751",
@@ -20299,9 +22553,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16752",
@@ -20317,9 +22573,11 @@ window.evo=[
           "battleSkillId2": "2150",
           "abilityId1": "1635",
           "abilityId2": "1636",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16760",
@@ -20335,9 +22593,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16761",
@@ -20353,9 +22613,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16762",
@@ -20371,9 +22633,11 @@ window.evo=[
           "battleSkillId2": "2154",
           "abilityId1": "1639",
           "abilityId2": "1640",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16770",
@@ -20389,9 +22653,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16771",
@@ -20407,9 +22673,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16772",
@@ -20425,9 +22693,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16773",
@@ -20443,9 +22713,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16774",
@@ -20461,9 +22733,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16775",
@@ -20479,9 +22753,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16780",
@@ -20497,9 +22773,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16781",
@@ -20515,9 +22793,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16782",
@@ -20533,9 +22813,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16783",
@@ -20551,9 +22833,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16784",
@@ -20569,9 +22853,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16785",
@@ -20587,9 +22873,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16790",
@@ -20605,9 +22893,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16791",
@@ -20623,9 +22913,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16800",
@@ -20641,9 +22933,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16801",
@@ -20659,9 +22953,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16802",
@@ -20677,9 +22973,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16803",
@@ -20695,9 +22993,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16804",
@@ -20713,9 +23013,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16805",
@@ -20731,9 +23033,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16810",
@@ -20749,9 +23053,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16811",
@@ -20767,9 +23073,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16812",
@@ -20785,9 +23093,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16813",
@@ -20803,9 +23113,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16814",
@@ -20821,9 +23133,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16815",
@@ -20839,9 +23153,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16820",
@@ -20857,9 +23173,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16821",
@@ -20875,9 +23193,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16822",
@@ -20893,9 +23213,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16823",
@@ -20911,9 +23233,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16824",
@@ -20929,9 +23253,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16825",
@@ -20947,9 +23273,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16830",
@@ -20965,9 +23293,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16831",
@@ -20983,9 +23313,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16832",
@@ -21001,9 +23333,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16833",
@@ -21019,9 +23353,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16834",
@@ -21037,9 +23373,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16835",
@@ -21055,9 +23393,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16840",
@@ -21073,9 +23413,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16841",
@@ -21091,9 +23433,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16842",
@@ -21109,9 +23453,11 @@ window.evo=[
           "battleSkillId2": "2172",
           "abilityId1": "1669",
           "abilityId2": "1670",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16850",
@@ -21127,9 +23473,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16851",
@@ -21145,9 +23493,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16852",
@@ -21163,9 +23513,11 @@ window.evo=[
           "battleSkillId2": "2176",
           "abilityId1": "1673",
           "abilityId2": "1674",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16860",
@@ -21181,9 +23533,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16861",
@@ -21199,9 +23553,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16870",
@@ -21217,9 +23573,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16871",
@@ -21235,9 +23593,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16881",
@@ -21253,9 +23613,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16882",
@@ -21271,9 +23633,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16883",
@@ -21289,9 +23653,11 @@ window.evo=[
           "battleSkillId2": "2204",
           "abilityId1": "1701",
           "abilityId2": "1702",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16890",
@@ -21307,9 +23673,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16891",
@@ -21325,9 +23693,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16892",
@@ -21343,9 +23713,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16893",
@@ -21361,9 +23733,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16894",
@@ -21379,9 +23753,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16895",
@@ -21397,9 +23773,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16901",
@@ -21415,9 +23793,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16902",
@@ -21433,9 +23813,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16903",
@@ -21451,9 +23833,11 @@ window.evo=[
           "battleSkillId2": "2206",
           "abilityId1": "1703",
           "abilityId2": "1704",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16911",
@@ -21469,9 +23853,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16912",
@@ -21487,9 +23873,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16920",
@@ -21505,9 +23893,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16921",
@@ -21523,9 +23913,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16922",
@@ -21541,9 +23933,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16923",
@@ -21559,9 +23953,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16924",
@@ -21577,9 +23973,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16925",
@@ -21595,9 +23993,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16930",
@@ -21613,9 +24013,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16931",
@@ -21631,9 +24033,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16932",
@@ -21649,9 +24053,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16933",
@@ -21667,9 +24073,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16934",
@@ -21685,9 +24093,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16935",
@@ -21703,9 +24113,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16940",
@@ -21721,9 +24133,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16941",
@@ -21739,9 +24153,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16950",
@@ -21757,9 +24173,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16951",
@@ -21775,9 +24193,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16952",
@@ -21793,9 +24213,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16953",
@@ -21811,9 +24233,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16954",
@@ -21829,9 +24253,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16955",
@@ -21847,9 +24273,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16960",
@@ -21865,9 +24293,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16961",
@@ -21883,9 +24313,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16962",
@@ -21901,9 +24333,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16963",
@@ -21919,9 +24353,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16964",
@@ -21937,9 +24373,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16965",
@@ -21955,9 +24393,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16970",
@@ -21973,9 +24413,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16971",
@@ -21991,9 +24433,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16972",
@@ -22009,9 +24453,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16973",
@@ -22027,9 +24473,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16974",
@@ -22045,9 +24493,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16975",
@@ -22063,9 +24513,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16980",
@@ -22081,9 +24533,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16981",
@@ -22099,9 +24553,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16982",
@@ -22117,9 +24573,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16983",
@@ -22135,9 +24593,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16984",
@@ -22153,9 +24613,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16985",
@@ -22171,9 +24633,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16990",
@@ -22189,9 +24653,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16991",
@@ -22207,9 +24673,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "16992",
@@ -22225,9 +24693,11 @@ window.evo=[
           "battleSkillId2": "2210",
           "abilityId1": "1707",
           "abilityId2": "1708",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17000",
@@ -22243,9 +24713,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17001",
@@ -22261,9 +24733,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17010",
@@ -22279,9 +24753,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17011",
@@ -22297,9 +24773,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17012",
@@ -22315,9 +24793,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17013",
@@ -22333,9 +24813,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17014",
@@ -22351,9 +24833,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17015",
@@ -22369,9 +24853,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17020",
@@ -22387,9 +24873,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17021",
@@ -22405,9 +24893,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17022",
@@ -22423,9 +24913,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17023",
@@ -22441,9 +24933,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17024",
@@ -22459,9 +24953,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17025",
@@ -22477,9 +24973,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17030",
@@ -22495,9 +24993,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17031",
@@ -22513,9 +25013,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17032",
@@ -22531,9 +25033,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17033",
@@ -22549,9 +25053,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17034",
@@ -22567,9 +25073,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17035",
@@ -22585,9 +25093,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17040",
@@ -22603,9 +25113,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17041",
@@ -22621,9 +25133,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17042",
@@ -22639,9 +25153,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17043",
@@ -22657,9 +25173,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17044",
@@ -22675,9 +25193,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17045",
@@ -22693,9 +25213,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17050",
@@ -22711,9 +25233,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17051",
@@ -22729,9 +25253,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17052",
@@ -22747,9 +25273,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17053",
@@ -22765,9 +25293,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17054",
@@ -22783,9 +25313,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17055",
@@ -22801,9 +25333,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17060",
@@ -22819,9 +25353,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17061",
@@ -22837,9 +25373,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17070",
@@ -22855,9 +25393,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17071",
@@ -22873,9 +25413,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17072",
@@ -22891,9 +25433,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17073",
@@ -22909,9 +25453,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17074",
@@ -22927,9 +25473,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17075",
@@ -22945,9 +25493,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17080",
@@ -22963,9 +25513,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17081",
@@ -22981,9 +25533,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17082",
@@ -22999,9 +25553,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17083",
@@ -23017,9 +25573,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17084",
@@ -23035,9 +25593,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17085",
@@ -23053,9 +25613,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17090",
@@ -23071,9 +25633,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17091",
@@ -23089,9 +25653,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17092",
@@ -23107,9 +25673,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17093",
@@ -23125,9 +25693,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17094",
@@ -23143,9 +25713,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17095",
@@ -23161,9 +25733,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17100",
@@ -23179,9 +25753,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17101",
@@ -23197,9 +25773,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17102",
@@ -23215,9 +25793,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17103",
@@ -23233,9 +25813,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17104",
@@ -23251,9 +25833,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17105",
@@ -23269,9 +25853,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17110",
@@ -23287,9 +25873,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17111",
@@ -23305,9 +25893,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17112",
@@ -23323,9 +25913,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17113",
@@ -23341,9 +25933,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17114",
@@ -23359,9 +25953,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17115",
@@ -23377,9 +25973,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17120",
@@ -23395,9 +25993,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17121",
@@ -23413,9 +26013,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17122",
@@ -23431,9 +26033,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17123",
@@ -23449,9 +26053,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17124",
@@ -23467,9 +26073,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17125",
@@ -23485,9 +26093,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17130",
@@ -23503,9 +26113,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17131",
@@ -23521,9 +26133,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17132",
@@ -23539,9 +26153,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17133",
@@ -23557,9 +26173,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17134",
@@ -23575,9 +26193,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17135",
@@ -23593,9 +26213,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17140",
@@ -23611,9 +26233,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17141",
@@ -23629,9 +26253,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17142",
@@ -23647,9 +26273,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17143",
@@ -23665,9 +26293,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17144",
@@ -23683,9 +26313,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17145",
@@ -23701,9 +26333,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17150",
@@ -23719,9 +26353,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17151",
@@ -23737,9 +26373,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17152",
@@ -23755,9 +26393,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17153",
@@ -23773,9 +26413,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17154",
@@ -23791,9 +26433,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17155",
@@ -23809,9 +26453,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17160",
@@ -23827,9 +26473,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17161",
@@ -23845,9 +26493,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17162",
@@ -23863,9 +26513,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17163",
@@ -23881,9 +26533,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17164",
@@ -23899,9 +26553,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17165",
@@ -23917,9 +26573,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17170",
@@ -23935,9 +26593,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17171",
@@ -23953,9 +26613,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17172",
@@ -23971,9 +26633,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17173",
@@ -23989,9 +26653,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17174",
@@ -24007,9 +26673,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17175",
@@ -24025,9 +26693,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17180",
@@ -24043,9 +26713,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17181",
@@ -24061,9 +26733,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17182",
@@ -24079,9 +26753,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17183",
@@ -24097,9 +26773,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17184",
@@ -24115,9 +26793,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17185",
@@ -24133,9 +26813,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17190",
@@ -24151,9 +26833,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17191",
@@ -24169,9 +26853,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17192",
@@ -24187,9 +26873,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17193",
@@ -24205,9 +26893,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17194",
@@ -24223,9 +26913,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17195",
@@ -24241,9 +26933,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17200",
@@ -24259,9 +26953,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17201",
@@ -24277,9 +26973,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17202",
@@ -24295,9 +26993,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17203",
@@ -24313,9 +27013,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17204",
@@ -24331,9 +27033,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17205",
@@ -24349,9 +27053,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17210",
@@ -24367,9 +27073,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17211",
@@ -24385,9 +27093,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17212",
@@ -24403,9 +27113,11 @@ window.evo=[
           "battleSkillId2": "2254",
           "abilityId1": "1751",
           "abilityId2": "1752",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17220",
@@ -24421,9 +27133,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17221",
@@ -24439,9 +27153,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17222",
@@ -24457,9 +27173,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17223",
@@ -24475,9 +27193,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17224",
@@ -24493,9 +27213,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17225",
@@ -24511,9 +27233,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17230",
@@ -24529,9 +27253,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17231",
@@ -24547,9 +27273,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17232",
@@ -24565,9 +27293,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17233",
@@ -24583,9 +27313,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17234",
@@ -24601,9 +27333,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17235",
@@ -24619,9 +27353,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17240",
@@ -24637,9 +27373,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17241",
@@ -24655,9 +27393,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17242",
@@ -24673,9 +27413,11 @@ window.evo=[
           "battleSkillId2": "2262",
           "abilityId1": "1759",
           "abilityId2": "1760",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17250",
@@ -24691,9 +27433,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17251",
@@ -24709,9 +27453,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17260",
@@ -24727,9 +27473,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17261",
@@ -24745,9 +27493,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17262",
@@ -24763,9 +27513,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17263",
@@ -24781,9 +27533,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17264",
@@ -24799,9 +27553,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17265",
@@ -24817,9 +27573,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17270",
@@ -24835,9 +27593,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17271",
@@ -24853,9 +27613,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17272",
@@ -24871,9 +27633,11 @@ window.evo=[
           "battleSkillId2": "2270",
           "abilityId1": "1767",
           "abilityId2": "1768",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17280",
@@ -24889,9 +27653,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17281",
@@ -24907,9 +27673,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17282",
@@ -24925,9 +27693,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17283",
@@ -24943,9 +27713,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17284",
@@ -24961,9 +27733,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17285",
@@ -24979,9 +27753,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17290",
@@ -24997,9 +27773,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17291",
@@ -25015,9 +27793,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17292",
@@ -25033,9 +27813,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17293",
@@ -25051,9 +27833,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17294",
@@ -25069,9 +27853,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17295",
@@ -25087,9 +27873,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17300",
@@ -25105,9 +27893,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17301",
@@ -25123,9 +27913,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17302",
@@ -25141,9 +27933,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17303",
@@ -25159,9 +27953,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17304",
@@ -25177,9 +27973,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17305",
@@ -25195,9 +27993,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17310",
@@ -25213,9 +28013,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17311",
@@ -25231,9 +28033,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17312",
@@ -25249,9 +28053,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17313",
@@ -25267,9 +28073,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17314",
@@ -25285,9 +28093,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17315",
@@ -25303,9 +28113,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17320",
@@ -25321,9 +28133,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17321",
@@ -25339,9 +28153,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17322",
@@ -25357,9 +28173,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17323",
@@ -25375,9 +28193,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17324",
@@ -25393,9 +28213,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17325",
@@ -25411,9 +28233,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17330",
@@ -25429,9 +28253,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17331",
@@ -25447,9 +28273,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17332",
@@ -25465,9 +28293,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17333",
@@ -25483,9 +28313,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17334",
@@ -25501,9 +28333,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17335",
@@ -25519,9 +28353,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17340",
@@ -25537,9 +28373,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17341",
@@ -25555,9 +28393,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17342",
@@ -25573,9 +28413,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17343",
@@ -25591,9 +28433,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17344",
@@ -25609,9 +28453,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17345",
@@ -25627,9 +28473,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17350",
@@ -25645,9 +28493,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17351",
@@ -25663,9 +28513,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17361",
@@ -25681,9 +28533,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17362",
@@ -25699,9 +28553,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17363",
@@ -25717,9 +28573,11 @@ window.evo=[
           "battleSkillId2": "2314",
           "abilityId1": "1788",
           "abilityId2": "1787",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17371",
@@ -25735,9 +28593,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17372",
@@ -25753,9 +28613,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17373",
@@ -25771,9 +28633,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17374",
@@ -25789,9 +28653,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17375",
@@ -25807,9 +28673,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17376",
@@ -25825,9 +28693,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17381",
@@ -25843,9 +28713,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17382",
@@ -25861,9 +28733,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17383",
@@ -25879,9 +28753,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17384",
@@ -25897,9 +28773,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17385",
@@ -25915,9 +28793,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17386",
@@ -25933,9 +28813,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17391",
@@ -25951,9 +28833,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17392",
@@ -25969,9 +28853,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17393",
@@ -25987,9 +28873,11 @@ window.evo=[
           "battleSkillId2": "2318",
           "abilityId1": "1815",
           "abilityId2": "1816",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17401",
@@ -26005,9 +28893,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17402",
@@ -26023,9 +28913,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17411",
@@ -26041,9 +28933,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17412",
@@ -26059,9 +28953,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17413",
@@ -26077,9 +28973,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17414",
@@ -26095,9 +28993,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17415",
@@ -26113,9 +29013,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17416",
@@ -26131,9 +29033,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17421",
@@ -26149,9 +29053,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17422",
@@ -26167,9 +29073,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17423",
@@ -26185,9 +29093,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17424",
@@ -26203,9 +29113,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17425",
@@ -26221,9 +29133,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17426",
@@ -26239,9 +29153,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17431",
@@ -26257,9 +29173,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17432",
@@ -26275,9 +29193,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17433",
@@ -26293,9 +29213,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17434",
@@ -26311,9 +29233,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17435",
@@ -26329,9 +29253,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17436",
@@ -26347,9 +29273,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17441",
@@ -26365,9 +29293,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17442",
@@ -26383,9 +29313,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17443",
@@ -26401,9 +29333,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17444",
@@ -26419,9 +29353,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17445",
@@ -26437,9 +29373,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17446",
@@ -26455,9 +29393,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17451",
@@ -26473,9 +29413,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17452",
@@ -26491,9 +29433,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17453",
@@ -26509,9 +29453,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17454",
@@ -26527,9 +29473,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17455",
@@ -26545,9 +29493,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17456",
@@ -26563,9 +29513,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17461",
@@ -26581,9 +29533,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17462",
@@ -26599,9 +29553,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17463",
@@ -26617,9 +29573,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17464",
@@ -26635,9 +29593,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17465",
@@ -26653,9 +29613,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17466",
@@ -26671,9 +29633,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17471",
@@ -26689,9 +29653,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17472",
@@ -26707,9 +29673,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17473",
@@ -26725,9 +29693,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17474",
@@ -26743,9 +29713,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17475",
@@ -26761,9 +29733,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17476",
@@ -26779,9 +29753,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17481",
@@ -26797,9 +29773,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17482",
@@ -26815,9 +29793,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17483",
@@ -26833,9 +29813,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17484",
@@ -26851,9 +29833,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17485",
@@ -26869,9 +29853,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17486",
@@ -26887,9 +29873,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17491",
@@ -26905,9 +29893,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17492",
@@ -26923,9 +29913,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17493",
@@ -26941,9 +29933,11 @@ window.evo=[
           "battleSkillId2": "2324",
           "abilityId1": "1821",
           "abilityId2": "1822",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17501",
@@ -26959,9 +29953,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17502",
@@ -26977,9 +29973,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17503",
@@ -26995,9 +29993,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17504",
@@ -27013,9 +30013,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17505",
@@ -27031,9 +30033,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17506",
@@ -27049,9 +30053,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17511",
@@ -27067,9 +30073,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17512",
@@ -27085,9 +30093,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17521",
@@ -27103,9 +30113,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17522",
@@ -27121,9 +30133,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17523",
@@ -27139,9 +30153,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17524",
@@ -27157,9 +30173,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17525",
@@ -27175,9 +30193,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17526",
@@ -27193,9 +30213,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17531",
@@ -27211,9 +30233,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17532",
@@ -27229,9 +30253,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17533",
@@ -27247,9 +30273,11 @@ window.evo=[
           "battleSkillId2": "2334",
           "abilityId1": "1831",
           "abilityId2": "1832",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17541",
@@ -27265,9 +30293,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17542",
@@ -27283,9 +30313,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17543",
@@ -27301,9 +30333,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17544",
@@ -27319,9 +30353,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17545",
@@ -27337,9 +30373,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17546",
@@ -27355,9 +30393,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17551",
@@ -27373,9 +30413,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17552",
@@ -27391,9 +30433,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17553",
@@ -27409,9 +30453,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17554",
@@ -27427,9 +30473,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17555",
@@ -27445,9 +30493,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17556",
@@ -27463,9 +30513,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17561",
@@ -27481,9 +30533,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17562",
@@ -27499,9 +30553,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17571",
@@ -27517,9 +30573,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17572",
@@ -27535,9 +30593,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17573",
@@ -27553,9 +30613,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17574",
@@ -27571,9 +30633,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17575",
@@ -27589,9 +30653,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17576",
@@ -27607,9 +30673,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17581",
@@ -27625,9 +30693,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17582",
@@ -27643,9 +30713,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17583",
@@ -27661,9 +30733,11 @@ window.evo=[
           "battleSkillId2": "2346",
           "abilityId1": "1843",
           "abilityId2": "1844",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17591",
@@ -27679,9 +30753,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17592",
@@ -27697,9 +30773,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17593",
@@ -27715,9 +30793,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17594",
@@ -27733,9 +30813,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17595",
@@ -27751,9 +30833,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17596",
@@ -27769,9 +30853,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17601",
@@ -27787,9 +30873,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17602",
@@ -27805,9 +30893,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17603",
@@ -27823,9 +30913,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17604",
@@ -27841,9 +30933,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17605",
@@ -27859,9 +30953,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17606",
@@ -27877,9 +30973,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17611",
@@ -27895,9 +30993,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17612",
@@ -27913,9 +31013,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17613",
@@ -27931,9 +31033,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17614",
@@ -27949,9 +31053,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17615",
@@ -27967,9 +31073,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17616",
@@ -27985,9 +31093,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17621",
@@ -28003,9 +31113,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17622",
@@ -28021,9 +31133,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17623",
@@ -28039,9 +31153,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17624",
@@ -28057,9 +31173,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17625",
@@ -28075,9 +31193,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17626",
@@ -28093,9 +31213,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17641",
@@ -28111,9 +31233,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17642",
@@ -28129,9 +31253,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17643",
@@ -28147,9 +31273,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17644",
@@ -28165,9 +31293,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17645",
@@ -28183,9 +31313,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17646",
@@ -28201,9 +31333,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17651",
@@ -28219,9 +31353,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17652",
@@ -28237,9 +31373,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17653",
@@ -28255,9 +31393,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17654",
@@ -28273,9 +31413,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17655",
@@ -28291,9 +31433,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17656",
@@ -28309,9 +31453,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17661",
@@ -28327,9 +31473,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17662",
@@ -28345,9 +31493,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17663",
@@ -28363,9 +31513,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17664",
@@ -28381,9 +31533,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17665",
@@ -28399,9 +31553,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17666",
@@ -28417,9 +31573,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17671",
@@ -28435,9 +31593,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17672",
@@ -28453,9 +31613,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17673",
@@ -28471,9 +31633,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17674",
@@ -28489,9 +31653,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17675",
@@ -28507,9 +31673,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17676",
@@ -28525,9 +31693,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17682",
@@ -28543,9 +31713,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17683",
@@ -28561,9 +31733,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17691",
@@ -28579,9 +31753,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17692",
@@ -28597,9 +31773,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17701",
@@ -28615,9 +31793,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17702",
@@ -28633,9 +31813,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17703",
@@ -28651,9 +31833,11 @@ window.evo=[
           "battleSkillId2": "2370",
           "abilityId1": "1867",
           "abilityId2": "1868",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17711",
@@ -28669,9 +31853,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17712",
@@ -28687,9 +31873,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17713",
@@ -28705,9 +31893,11 @@ window.evo=[
           "battleSkillId2": "2374",
           "abilityId1": "1871",
           "abilityId2": "1872",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17714",
@@ -28723,9 +31913,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17715",
@@ -28741,9 +31933,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17721",
@@ -28759,9 +31953,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17722",
@@ -28777,9 +31973,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17723",
@@ -28795,9 +31993,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17724",
@@ -28813,9 +32013,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17725",
@@ -28831,9 +32033,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17726",
@@ -28849,9 +32053,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17731",
@@ -28867,9 +32073,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17732",
@@ -28885,9 +32093,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17733",
@@ -28903,9 +32113,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17734",
@@ -28921,9 +32133,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17735",
@@ -28939,9 +32153,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17736",
@@ -28957,9 +32173,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17741",
@@ -28975,9 +32193,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17742",
@@ -28993,9 +32213,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17743",
@@ -29011,9 +32233,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17744",
@@ -29029,9 +32253,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17745",
@@ -29047,9 +32273,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17746",
@@ -29065,9 +32293,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17751",
@@ -29083,9 +32313,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17752",
@@ -29101,9 +32333,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17753",
@@ -29119,9 +32353,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17754",
@@ -29137,9 +32373,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17755",
@@ -29155,9 +32393,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17756",
@@ -29173,9 +32413,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17761",
@@ -29191,9 +32433,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17762",
@@ -29209,9 +32453,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17771",
@@ -29227,9 +32473,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17772",
@@ -29245,9 +32493,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17773",
@@ -29263,9 +32513,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17774",
@@ -29281,9 +32533,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17775",
@@ -29299,9 +32553,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17776",
@@ -29317,9 +32573,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17781",
@@ -29335,9 +32593,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17782",
@@ -29353,9 +32613,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17783",
@@ -29371,9 +32633,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17784",
@@ -29389,9 +32653,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17785",
@@ -29407,9 +32673,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17786",
@@ -29425,9 +32693,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17791",
@@ -29443,9 +32713,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17792",
@@ -29461,9 +32733,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17793",
@@ -29479,9 +32753,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17794",
@@ -29497,9 +32773,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17795",
@@ -29515,9 +32793,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17796",
@@ -29533,9 +32813,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17801",
@@ -29551,9 +32833,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17802",
@@ -29569,9 +32853,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17803",
@@ -29587,9 +32873,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17804",
@@ -29605,9 +32893,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17805",
@@ -29623,9 +32913,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17806",
@@ -29641,9 +32933,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17821",
@@ -29659,9 +32953,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17822",
@@ -29677,9 +32973,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17823",
@@ -29695,9 +32993,11 @@ window.evo=[
           "battleSkillId2": "2411",
           "abilityId1": "1891",
           "abilityId2": "1892",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17831",
@@ -29713,9 +33013,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17832",
@@ -29731,9 +33033,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17833",
@@ -29749,9 +33053,11 @@ window.evo=[
           "battleSkillId2": "2415",
           "abilityId1": "1895",
           "abilityId2": "1896",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17841",
@@ -29767,9 +33073,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17842",
@@ -29785,9 +33093,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17843",
@@ -29803,9 +33113,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17844",
@@ -29821,9 +33133,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17845",
@@ -29839,9 +33153,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17846",
@@ -29857,9 +33173,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17861",
@@ -29875,9 +33193,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17862",
@@ -29893,9 +33213,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17863",
@@ -29911,9 +33233,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17864",
@@ -29929,9 +33253,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17865",
@@ -29947,9 +33273,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17866",
@@ -29965,9 +33293,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17871",
@@ -29983,9 +33313,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17872",
@@ -30001,9 +33333,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17873",
@@ -30019,9 +33353,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17874",
@@ -30037,9 +33373,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17875",
@@ -30055,9 +33393,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17876",
@@ -30073,9 +33413,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17881",
@@ -30091,9 +33433,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17882",
@@ -30109,9 +33453,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17883",
@@ -30127,9 +33473,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17884",
@@ -30145,9 +33493,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17885",
@@ -30163,9 +33513,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17886",
@@ -30181,9 +33533,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17891",
@@ -30199,9 +33553,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17892",
@@ -30217,9 +33573,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17893",
@@ -30235,9 +33593,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17894",
@@ -30253,9 +33613,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17895",
@@ -30271,9 +33633,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17896",
@@ -30289,9 +33653,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17901",
@@ -30307,9 +33673,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17902",
@@ -30325,9 +33693,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17903",
@@ -30343,9 +33713,11 @@ window.evo=[
           "battleSkillId2": "100021",
           "abilityId1": "100016",
           "abilityId2": "100017",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17911",
@@ -30361,9 +33733,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17912",
@@ -30379,9 +33753,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17921",
@@ -30397,9 +33773,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17922",
@@ -30415,9 +33793,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17923",
@@ -30433,9 +33813,11 @@ window.evo=[
           "battleSkillId2": "100023",
           "abilityId1": "100018",
           "abilityId2": "100019",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17931",
@@ -30451,9 +33833,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17932",
@@ -30469,9 +33853,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17933",
@@ -30487,9 +33873,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17934",
@@ -30505,9 +33893,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17935",
@@ -30523,9 +33913,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17936",
@@ -30541,9 +33933,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17941",
@@ -30559,9 +33953,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17942",
@@ -30577,9 +33973,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17943",
@@ -30595,9 +33993,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17944",
@@ -30613,9 +34013,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17945",
@@ -30631,9 +34033,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17946",
@@ -30649,9 +34053,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17951",
@@ -30667,9 +34073,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17952",
@@ -30685,9 +34093,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17953",
@@ -30703,9 +34113,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17954",
@@ -30721,9 +34133,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17955",
@@ -30739,9 +34153,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17956",
@@ -30757,9 +34173,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17961",
@@ -30775,9 +34193,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17962",
@@ -30793,9 +34213,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17963",
@@ -30811,9 +34233,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17964",
@@ -30829,9 +34253,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17965",
@@ -30847,9 +34273,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17966",
@@ -30865,9 +34293,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17971",
@@ -30883,9 +34313,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17972",
@@ -30901,9 +34333,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17981",
@@ -30919,9 +34353,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17982",
@@ -30937,9 +34373,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17983",
@@ -30955,9 +34393,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17984",
@@ -30973,9 +34413,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17985",
@@ -30991,9 +34433,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17986",
@@ -31009,9 +34453,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17991",
@@ -31027,9 +34473,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17992",
@@ -31045,9 +34493,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17993",
@@ -31063,9 +34513,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17994",
@@ -31081,9 +34533,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17995",
@@ -31099,9 +34553,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "17996",
@@ -31117,9 +34573,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18001",
@@ -31135,9 +34593,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18002",
@@ -31153,9 +34613,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18003",
@@ -31171,9 +34633,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18004",
@@ -31189,9 +34653,11 @@ window.evo=[
           "battleSkillId2": "1976",
           "abilityId1": "1474",
           "abilityId2": "1475",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18005",
@@ -31207,9 +34673,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18006",
@@ -31225,9 +34693,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18011",
@@ -31243,9 +34713,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18012",
@@ -31261,9 +34733,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18013",
@@ -31279,9 +34753,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18014",
@@ -31297,9 +34773,11 @@ window.evo=[
           "battleSkillId2": "1580",
           "abilityId1": "1070",
           "abilityId2": "1071",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18015",
@@ -31315,9 +34793,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18016",
@@ -31333,9 +34813,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18021",
@@ -31351,9 +34833,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18022",
@@ -31369,9 +34853,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18023",
@@ -31387,9 +34873,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18024",
@@ -31405,9 +34893,11 @@ window.evo=[
           "battleSkillId2": "1818",
           "abilityId1": "1316",
           "abilityId2": "1317",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18025",
@@ -31423,9 +34913,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18026",
@@ -31441,9 +34933,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18031",
@@ -31459,9 +34953,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18032",
@@ -31477,9 +34973,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18033",
@@ -31495,9 +34993,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18034",
@@ -31513,9 +35013,11 @@ window.evo=[
           "battleSkillId2": "1343",
           "abilityId1": "827",
           "abilityId2": "828",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18035",
@@ -31531,9 +35033,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18036",
@@ -31549,9 +35053,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18041",
@@ -31567,9 +35073,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18042",
@@ -31585,9 +35093,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18043",
@@ -31603,9 +35113,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18044",
@@ -31621,9 +35133,11 @@ window.evo=[
           "battleSkillId2": "1820",
           "abilityId1": "1318",
           "abilityId2": "1319",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18045",
@@ -31639,9 +35153,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18046",
@@ -31657,9 +35173,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18051",
@@ -31675,9 +35193,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18052",
@@ -31693,9 +35213,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18053",
@@ -31711,9 +35233,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18054",
@@ -31729,9 +35253,11 @@ window.evo=[
           "battleSkillId2": "1345",
           "abilityId1": "829",
           "abilityId2": "830",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18055",
@@ -31747,9 +35273,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18056",
@@ -31765,9 +35293,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18061",
@@ -31783,9 +35313,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18062",
@@ -31801,9 +35333,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18063",
@@ -31819,9 +35353,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18064",
@@ -31837,9 +35373,11 @@ window.evo=[
           "battleSkillId2": "1912",
           "abilityId1": "1410",
           "abilityId2": "1411",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18065",
@@ -31855,9 +35393,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18066",
@@ -31873,9 +35413,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18071",
@@ -31891,9 +35433,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18072",
@@ -31909,9 +35453,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18073",
@@ -31927,9 +35473,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18074",
@@ -31945,9 +35493,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18075",
@@ -31963,9 +35513,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18076",
@@ -31981,9 +35533,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18081",
@@ -31999,9 +35553,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18082",
@@ -32017,9 +35573,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18083",
@@ -32035,9 +35593,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18084",
@@ -32053,9 +35613,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18085",
@@ -32071,9 +35633,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18086",
@@ -32089,9 +35653,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18091",
@@ -32107,9 +35673,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18092",
@@ -32125,9 +35693,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18093",
@@ -32143,9 +35713,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18094",
@@ -32161,9 +35733,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18095",
@@ -32179,9 +35753,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18096",
@@ -32197,9 +35773,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18101",
@@ -32215,9 +35793,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18102",
@@ -32233,9 +35813,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18103",
@@ -32251,9 +35833,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18104",
@@ -32269,9 +35853,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18105",
@@ -32287,9 +35873,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18106",
@@ -32305,9 +35893,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18107",
@@ -32323,9 +35913,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18108",
@@ -32341,9 +35933,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18109",
@@ -32359,9 +35953,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18110",
@@ -32377,9 +35973,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18111",
@@ -32395,9 +35993,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18112",
@@ -32413,9 +36013,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18113",
@@ -32431,9 +36033,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18114",
@@ -32449,9 +36053,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18115",
@@ -32467,9 +36073,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18116",
@@ -32485,9 +36093,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18117",
@@ -32503,9 +36113,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18118",
@@ -32521,9 +36133,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18119",
@@ -32539,9 +36153,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18120",
@@ -32557,9 +36173,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18121",
@@ -32575,9 +36193,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18122",
@@ -32593,9 +36213,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18131",
@@ -32611,9 +36233,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18132",
@@ -32629,9 +36253,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18133",
@@ -32647,9 +36273,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18134",
@@ -32665,9 +36293,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18135",
@@ -32683,9 +36313,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18136",
@@ -32701,9 +36333,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18141",
@@ -32719,9 +36353,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18142",
@@ -32737,9 +36373,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18151",
@@ -32755,9 +36393,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18152",
@@ -32773,9 +36413,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18153",
@@ -32791,9 +36433,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18154",
@@ -32809,9 +36453,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18155",
@@ -32827,9 +36473,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18156",
@@ -32845,9 +36493,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18157",
@@ -32863,9 +36513,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18158",
@@ -32881,9 +36533,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18159",
@@ -32899,9 +36553,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18160",
@@ -32917,9 +36573,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18161",
@@ -32935,9 +36593,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18162",
@@ -32953,9 +36613,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18171",
@@ -32971,9 +36633,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18172",
@@ -32989,9 +36653,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18173",
@@ -33007,9 +36673,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18174",
@@ -33025,9 +36693,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18175",
@@ -33043,9 +36713,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18176",
@@ -33061,9 +36733,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18181",
@@ -33079,9 +36753,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18182",
@@ -33097,9 +36773,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18183",
@@ -33115,9 +36793,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18184",
@@ -33133,9 +36813,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18185",
@@ -33151,9 +36833,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18186",
@@ -33169,9 +36853,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18191",
@@ -33187,9 +36873,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18192",
@@ -33205,9 +36893,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18193",
@@ -33223,9 +36913,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18194",
@@ -33241,9 +36933,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18195",
@@ -33259,9 +36953,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18196",
@@ -33277,9 +36973,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18201",
@@ -33295,9 +36993,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18202",
@@ -33313,9 +37013,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18203",
@@ -33331,9 +37033,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18204",
@@ -33349,9 +37053,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18205",
@@ -33367,9 +37073,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18206",
@@ -33385,9 +37093,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18211",
@@ -33403,9 +37113,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18212",
@@ -33421,9 +37133,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18213",
@@ -33439,9 +37153,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18214",
@@ -33457,9 +37173,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18215",
@@ -33475,9 +37193,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18216",
@@ -33493,9 +37213,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18221",
@@ -33511,9 +37233,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18222",
@@ -33529,9 +37253,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18223",
@@ -33547,9 +37273,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18224",
@@ -33565,9 +37293,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18225",
@@ -33583,9 +37313,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18226",
@@ -33601,9 +37333,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18231",
@@ -33619,9 +37353,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18232",
@@ -33637,9 +37373,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18241",
@@ -33655,9 +37393,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18242",
@@ -33673,9 +37413,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18243",
@@ -33691,9 +37433,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18244",
@@ -33709,9 +37453,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18245",
@@ -33727,9 +37473,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18246",
@@ -33745,9 +37493,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18251",
@@ -33763,9 +37513,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18252",
@@ -33781,9 +37533,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18253",
@@ -33799,9 +37553,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18254",
@@ -33817,9 +37573,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18255",
@@ -33835,9 +37593,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18256",
@@ -33853,9 +37613,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18261",
@@ -33871,9 +37633,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18262",
@@ -33889,9 +37653,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18263",
@@ -33907,9 +37673,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18264",
@@ -33925,9 +37693,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18265",
@@ -33943,9 +37713,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18266",
@@ -33961,9 +37733,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18271",
@@ -33979,9 +37753,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18272",
@@ -33997,9 +37773,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18281",
@@ -34015,9 +37793,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18282",
@@ -34033,9 +37813,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18283",
@@ -34051,9 +37833,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18284",
@@ -34069,9 +37853,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18285",
@@ -34087,9 +37873,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18286",
@@ -34105,9 +37893,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18291",
@@ -34123,9 +37913,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18292",
@@ -34141,9 +37933,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18293",
@@ -34159,9 +37953,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18294",
@@ -34177,9 +37973,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18295",
@@ -34195,9 +37993,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18296",
@@ -34213,9 +38013,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18301",
@@ -34231,9 +38033,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18302",
@@ -34249,9 +38053,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18303",
@@ -34267,9 +38073,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18304",
@@ -34285,9 +38093,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18305",
@@ -34303,9 +38113,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18306",
@@ -34321,9 +38133,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18311",
@@ -34339,9 +38153,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18312",
@@ -34357,9 +38173,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18313",
@@ -34375,9 +38193,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18314",
@@ -34393,9 +38213,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18315",
@@ -34411,9 +38233,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18316",
@@ -34429,9 +38253,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18317",
@@ -34447,9 +38273,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18318",
@@ -34465,9 +38293,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18321",
@@ -34483,9 +38313,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18322",
@@ -34501,9 +38333,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18323",
@@ -34519,9 +38353,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18324",
@@ -34537,9 +38373,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18325",
@@ -34555,9 +38393,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18326",
@@ -34573,9 +38413,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18331",
@@ -34591,9 +38433,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18332",
@@ -34609,9 +38453,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18341",
@@ -34627,9 +38473,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18342",
@@ -34645,9 +38493,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18343",
@@ -34663,9 +38513,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18344",
@@ -34681,9 +38533,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18345",
@@ -34699,9 +38553,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18346",
@@ -34717,9 +38573,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18351",
@@ -34735,9 +38593,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18352",
@@ -34753,9 +38613,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18353",
@@ -34771,9 +38633,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18354",
@@ -34789,9 +38653,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18355",
@@ -34807,9 +38673,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18356",
@@ -34825,9 +38693,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18357",
@@ -34843,9 +38713,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18358",
@@ -34861,9 +38733,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18361",
@@ -34879,9 +38753,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18362",
@@ -34897,9 +38773,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18363",
@@ -34915,9 +38793,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18364",
@@ -34933,9 +38813,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18365",
@@ -34951,9 +38833,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18366",
@@ -34969,9 +38853,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18371",
@@ -34987,9 +38873,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18372",
@@ -35005,9 +38893,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18373",
@@ -35023,9 +38913,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18374",
@@ -35041,9 +38933,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18375",
@@ -35059,9 +38953,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18376",
@@ -35077,9 +38973,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18381",
@@ -35095,9 +38993,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18382",
@@ -35113,9 +39013,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18383",
@@ -35131,9 +39033,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18384",
@@ -35149,9 +39053,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18385",
@@ -35167,9 +39073,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18386",
@@ -35185,9 +39093,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18387",
@@ -35203,9 +39113,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18388",
@@ -35221,9 +39133,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18407",
@@ -35239,9 +39153,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18408",
@@ -35257,9 +39173,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18501",
@@ -35275,9 +39193,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18502",
@@ -35293,9 +39213,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18503",
@@ -35311,9 +39233,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18504",
@@ -35329,9 +39253,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18505",
@@ -35347,9 +39273,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18506",
@@ -35365,9 +39293,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18511",
@@ -35383,9 +39313,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18512",
@@ -35401,9 +39333,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18513",
@@ -35419,9 +39353,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18514",
@@ -35437,9 +39373,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18515",
@@ -35455,9 +39393,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18516",
@@ -35473,9 +39413,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18521",
@@ -35491,9 +39433,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18522",
@@ -35509,9 +39453,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18523",
@@ -35527,9 +39473,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18524",
@@ -35545,9 +39493,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18525",
@@ -35563,9 +39513,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18526",
@@ -35581,9 +39533,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18527",
@@ -35599,9 +39553,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18528",
@@ -35617,9 +39573,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18529",
@@ -35635,9 +39593,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18530",
@@ -35653,9 +39613,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18531",
@@ -35671,9 +39633,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18532",
@@ -35689,9 +39653,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18533",
@@ -35707,9 +39673,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18534",
@@ -35725,9 +39693,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18535",
@@ -35743,9 +39713,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18536",
@@ -35761,9 +39733,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18537",
@@ -35779,9 +39753,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18538",
@@ -35797,9 +39773,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18541",
@@ -35815,9 +39793,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18542",
@@ -35833,9 +39813,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18543",
@@ -35851,9 +39833,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18544",
@@ -35869,9 +39853,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18545",
@@ -35887,9 +39873,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18546",
@@ -35905,9 +39893,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18551",
@@ -35923,9 +39913,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18552",
@@ -35941,9 +39933,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18553",
@@ -35959,9 +39953,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18554",
@@ -35977,9 +39973,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18555",
@@ -35995,9 +39993,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18556",
@@ -36013,9 +40013,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18561",
@@ -36031,9 +40033,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18562",
@@ -36049,9 +40053,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18571",
@@ -36067,9 +40073,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18572",
@@ -36085,9 +40093,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18581",
@@ -36103,9 +40113,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18582",
@@ -36121,9 +40133,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18583",
@@ -36139,9 +40153,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18584",
@@ -36157,9 +40173,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18585",
@@ -36175,9 +40193,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18586",
@@ -36193,9 +40213,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18591",
@@ -36211,9 +40233,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18592",
@@ -36229,9 +40253,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18593",
@@ -36247,9 +40273,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18594",
@@ -36265,9 +40293,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18595",
@@ -36283,9 +40313,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18596",
@@ -36301,9 +40333,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18601",
@@ -36319,9 +40353,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18602",
@@ -36337,9 +40373,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18603",
@@ -36355,9 +40393,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18604",
@@ -36373,9 +40413,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18605",
@@ -36391,9 +40433,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18606",
@@ -36409,9 +40453,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18611",
@@ -36427,9 +40473,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18612",
@@ -36445,9 +40493,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18613",
@@ -36463,9 +40513,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18614",
@@ -36481,9 +40533,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18615",
@@ -36499,9 +40553,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18616",
@@ -36517,9 +40573,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18621",
@@ -36535,9 +40593,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18622",
@@ -36553,9 +40613,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18623",
@@ -36571,9 +40633,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18624",
@@ -36589,9 +40653,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18625",
@@ -36607,9 +40673,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18626",
@@ -36625,9 +40693,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18631",
@@ -36643,9 +40713,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18632",
@@ -36661,9 +40733,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18633",
@@ -36679,9 +40753,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18634",
@@ -36697,9 +40773,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18635",
@@ -36715,9 +40793,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18636",
@@ -36733,9 +40813,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18637",
@@ -36751,9 +40833,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18638",
@@ -36769,9 +40853,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18641",
@@ -36787,9 +40873,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18642",
@@ -36805,9 +40893,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18651",
@@ -36823,9 +40913,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18652",
@@ -36841,9 +40933,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18653",
@@ -36859,9 +40953,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18654",
@@ -36877,9 +40973,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18655",
@@ -36895,9 +40993,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18656",
@@ -36913,9 +41013,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18661",
@@ -36931,9 +41033,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18662",
@@ -36949,9 +41053,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18663",
@@ -36967,9 +41073,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18664",
@@ -36985,9 +41093,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18665",
@@ -37003,9 +41113,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18666",
@@ -37021,9 +41133,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18671",
@@ -37039,9 +41153,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18672",
@@ -37057,9 +41173,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18673",
@@ -37075,9 +41193,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18674",
@@ -37093,9 +41213,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18675",
@@ -37111,9 +41233,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18676",
@@ -37129,9 +41253,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18681",
@@ -37147,9 +41273,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18682",
@@ -37165,9 +41293,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18683",
@@ -37183,9 +41313,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18684",
@@ -37201,9 +41333,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18685",
@@ -37219,9 +41353,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18686",
@@ -37237,9 +41373,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18691",
@@ -37255,9 +41393,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18692",
@@ -37273,9 +41413,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18693",
@@ -37291,9 +41433,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18694",
@@ -37309,9 +41453,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18695",
@@ -37327,9 +41473,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18696",
@@ -37345,9 +41493,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18697",
@@ -37363,9 +41513,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18698",
@@ -37381,9 +41533,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18699",
@@ -37399,9 +41553,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18700",
@@ -37417,9 +41573,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18701",
@@ -37435,9 +41593,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18702",
@@ -37453,9 +41613,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18711",
@@ -37471,9 +41633,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18712",
@@ -37489,9 +41653,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18721",
@@ -37507,9 +41673,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18722",
@@ -37525,9 +41693,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18723",
@@ -37543,9 +41713,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18724",
@@ -37561,9 +41733,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18725",
@@ -37579,9 +41753,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18726",
@@ -37597,9 +41773,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18727",
@@ -37615,9 +41793,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18728",
@@ -37633,9 +41813,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18729",
@@ -37651,9 +41833,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18730",
@@ -37669,9 +41853,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18731",
@@ -37687,9 +41873,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18732",
@@ -37705,9 +41893,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18741",
@@ -37723,9 +41913,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18742",
@@ -37741,9 +41933,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18743",
@@ -37759,9 +41953,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18744",
@@ -37777,9 +41973,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18745",
@@ -37795,9 +41993,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18746",
@@ -37813,9 +42013,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18751",
@@ -37831,9 +42033,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18752",
@@ -37849,9 +42053,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18753",
@@ -37867,9 +42073,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18754",
@@ -37885,9 +42093,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18755",
@@ -37903,9 +42113,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18756",
@@ -37921,9 +42133,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18761",
@@ -37939,9 +42153,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18762",
@@ -37957,9 +42173,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18763",
@@ -37975,9 +42193,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18764",
@@ -37993,9 +42213,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18765",
@@ -38011,9 +42233,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18766",
@@ -38029,9 +42253,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18771",
@@ -38047,9 +42273,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18772",
@@ -38065,9 +42293,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18773",
@@ -38083,9 +42313,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18774",
@@ -38101,9 +42333,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18775",
@@ -38119,9 +42353,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18776",
@@ -38137,9 +42373,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18781",
@@ -38155,9 +42393,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18782",
@@ -38173,9 +42413,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18783",
@@ -38191,9 +42433,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18784",
@@ -38209,9 +42453,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18785",
@@ -38227,9 +42473,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18786",
@@ -38245,9 +42493,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18787",
@@ -38263,9 +42513,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18788",
@@ -38281,9 +42533,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18791",
@@ -38299,9 +42553,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18792",
@@ -38317,9 +42573,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18801",
@@ -38335,9 +42593,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18802",
@@ -38353,9 +42613,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18803",
@@ -38371,9 +42633,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18804",
@@ -38389,9 +42653,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18805",
@@ -38407,9 +42673,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18806",
@@ -38425,9 +42693,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18811",
@@ -38443,9 +42713,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18812",
@@ -38461,9 +42733,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18813",
@@ -38479,9 +42753,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18814",
@@ -38497,9 +42773,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18815",
@@ -38515,9 +42793,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18816",
@@ -38533,9 +42813,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18821",
@@ -38551,9 +42833,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18822",
@@ -38569,9 +42853,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18823",
@@ -38587,9 +42873,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18824",
@@ -38605,9 +42893,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18825",
@@ -38623,9 +42913,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18826",
@@ -38641,9 +42933,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18827",
@@ -38659,9 +42953,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18828",
@@ -38677,9 +42973,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18829",
@@ -38695,9 +42993,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18830",
@@ -38713,9 +43013,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18831",
@@ -38731,9 +43033,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18832",
@@ -38749,9 +43053,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18841",
@@ -38767,9 +43073,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18842",
@@ -38785,9 +43093,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18843",
@@ -38803,9 +43113,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18844",
@@ -38821,9 +43133,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18845",
@@ -38839,9 +43153,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18846",
@@ -38857,9 +43173,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18851",
@@ -38875,9 +43193,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18852",
@@ -38893,9 +43213,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18853",
@@ -38911,9 +43233,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18854",
@@ -38929,9 +43253,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18855",
@@ -38947,9 +43273,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18856",
@@ -38965,9 +43293,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18861",
@@ -38983,9 +43313,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18862",
@@ -39001,9 +43333,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18863",
@@ -39019,9 +43353,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18864",
@@ -39037,9 +43373,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18865",
@@ -39055,9 +43393,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18866",
@@ -39073,9 +43413,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18867",
@@ -39091,9 +43433,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18868",
@@ -39109,9 +43453,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18871",
@@ -39127,9 +43473,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18872",
@@ -39145,9 +43493,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18873",
@@ -39163,9 +43513,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18874",
@@ -39181,9 +43533,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18875",
@@ -39199,9 +43553,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18876",
@@ -39217,9 +43573,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18881",
@@ -39235,9 +43593,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18882",
@@ -39253,9 +43613,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18883",
@@ -39271,9 +43633,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18884",
@@ -39289,9 +43653,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18885",
@@ -39307,9 +43673,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18886",
@@ -39325,9 +43693,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18891",
@@ -39343,9 +43713,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18892",
@@ -39361,9 +43733,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18901",
@@ -39379,9 +43753,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18902",
@@ -39397,9 +43773,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18903",
@@ -39415,9 +43793,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18904",
@@ -39433,9 +43813,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18905",
@@ -39451,9 +43833,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18906",
@@ -39469,9 +43853,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18911",
@@ -39487,9 +43873,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18912",
@@ -39505,9 +43893,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18913",
@@ -39523,9 +43913,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18914",
@@ -39541,9 +43933,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18915",
@@ -39559,9 +43953,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18916",
@@ -39577,9 +43973,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18921",
@@ -39595,9 +43993,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18922",
@@ -39613,9 +44013,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18923",
@@ -39631,9 +44033,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18924",
@@ -39649,9 +44053,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18925",
@@ -39667,9 +44073,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18926",
@@ -39685,9 +44093,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18931",
@@ -39703,9 +44113,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18932",
@@ -39721,9 +44133,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18933",
@@ -39739,9 +44153,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18934",
@@ -39757,9 +44173,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18935",
@@ -39775,9 +44193,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18936",
@@ -39793,9 +44213,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18941",
@@ -39811,9 +44233,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18942",
@@ -39829,9 +44253,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18943",
@@ -39847,9 +44273,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18944",
@@ -39865,9 +44293,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18945",
@@ -39883,9 +44313,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18946",
@@ -39901,9 +44333,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18947",
@@ -39919,9 +44353,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18948",
@@ -39937,9 +44373,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18949",
@@ -39955,9 +44393,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18950",
@@ -39973,9 +44413,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18951",
@@ -39991,9 +44433,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18952",
@@ -40009,9 +44453,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18961",
@@ -40027,9 +44473,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18962",
@@ -40045,9 +44493,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18963",
@@ -40063,9 +44513,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18964",
@@ -40081,9 +44533,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18965",
@@ -40099,9 +44553,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18966",
@@ -40117,9 +44573,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18971",
@@ -40135,9 +44593,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18972",
@@ -40153,9 +44613,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18973",
@@ -40171,9 +44633,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18974",
@@ -40189,9 +44653,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18975",
@@ -40207,9 +44673,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18976",
@@ -40225,9 +44693,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18981",
@@ -40243,9 +44713,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18982",
@@ -40261,9 +44733,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18983",
@@ -40279,9 +44753,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18984",
@@ -40297,9 +44773,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18985",
@@ -40315,9 +44793,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18986",
@@ -40333,9 +44813,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18991",
@@ -40351,9 +44833,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18992",
@@ -40369,9 +44853,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18993",
@@ -40387,9 +44873,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18994",
@@ -40405,9 +44893,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18995",
@@ -40423,9 +44913,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "18996",
@@ -40441,9 +44933,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19001",
@@ -40459,9 +44953,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19002",
@@ -40477,9 +44973,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19003",
@@ -40495,9 +44993,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19004",
@@ -40513,9 +45013,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19005",
@@ -40531,9 +45033,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19006",
@@ -40549,9 +45053,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19011",
@@ -40567,9 +45073,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19012",
@@ -40585,9 +45093,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19021",
@@ -40603,9 +45113,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19022",
@@ -40621,9 +45133,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19023",
@@ -40639,9 +45153,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19024",
@@ -40657,9 +45173,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19025",
@@ -40675,9 +45193,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19026",
@@ -40693,9 +45213,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19031",
@@ -40711,9 +45233,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19032",
@@ -40729,9 +45253,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19041",
@@ -40747,9 +45273,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19042",
@@ -40765,9 +45293,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19043",
@@ -40783,9 +45313,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19044",
@@ -40801,9 +45333,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19045",
@@ -40819,9 +45353,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19046",
@@ -40837,9 +45373,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19051",
@@ -40855,9 +45393,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19052",
@@ -40873,9 +45413,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19053",
@@ -40891,9 +45433,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19054",
@@ -40909,9 +45453,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19055",
@@ -40927,9 +45473,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19056",
@@ -40945,9 +45493,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19061",
@@ -40963,9 +45513,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19062",
@@ -40981,9 +45533,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19063",
@@ -40999,9 +45553,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19064",
@@ -41017,9 +45573,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19065",
@@ -41035,9 +45593,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19066",
@@ -41053,9 +45613,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19067",
@@ -41071,9 +45633,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19068",
@@ -41089,9 +45653,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19069",
@@ -41107,9 +45673,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19070",
@@ -41125,9 +45693,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19071",
@@ -41143,9 +45713,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19072",
@@ -41161,9 +45733,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19073",
@@ -41179,9 +45753,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19074",
@@ -41197,9 +45773,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19075",
@@ -41215,9 +45793,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19076",
@@ -41233,9 +45813,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19077",
@@ -41251,9 +45833,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19078",
@@ -41269,9 +45853,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19081",
@@ -41287,9 +45873,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19082",
@@ -41305,9 +45893,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19083",
@@ -41323,9 +45913,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19084",
@@ -41341,9 +45933,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19085",
@@ -41359,9 +45953,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19086",
@@ -41377,9 +45973,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19091",
@@ -41395,9 +45993,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19092",
@@ -41413,9 +46013,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19093",
@@ -41431,9 +46033,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19094",
@@ -41449,9 +46053,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19095",
@@ -41467,9 +46073,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19096",
@@ -41485,9 +46093,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19097",
@@ -41503,9 +46113,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19098",
@@ -41521,9 +46133,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19099",
@@ -41539,9 +46153,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19100",
@@ -41557,9 +46173,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19101",
@@ -41575,9 +46193,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19102",
@@ -41593,9 +46213,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19103",
@@ -41611,9 +46233,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19104",
@@ -41629,9 +46253,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19105",
@@ -41647,9 +46273,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19106",
@@ -41665,9 +46293,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19107",
@@ -41683,9 +46313,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19108",
@@ -41701,9 +46333,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19111",
@@ -41719,9 +46353,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19112",
@@ -41737,9 +46373,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19113",
@@ -41755,9 +46393,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19114",
@@ -41773,9 +46413,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19115",
@@ -41791,9 +46433,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19116",
@@ -41809,9 +46453,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19121",
@@ -41827,9 +46473,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19122",
@@ -41845,9 +46493,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19123",
@@ -41863,9 +46513,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19124",
@@ -41881,9 +46533,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19125",
@@ -41899,9 +46553,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19126",
@@ -41917,9 +46573,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19127",
@@ -41935,9 +46593,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19128",
@@ -41953,9 +46613,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19129",
@@ -41971,9 +46633,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19130",
@@ -41989,9 +46653,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19131",
@@ -42007,9 +46673,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19132",
@@ -42025,9 +46693,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19141",
@@ -42043,9 +46713,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19142",
@@ -42061,9 +46733,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19143",
@@ -42079,9 +46753,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19144",
@@ -42097,9 +46773,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19145",
@@ -42115,9 +46793,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19146",
@@ -42133,9 +46813,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19151",
@@ -42151,9 +46833,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19152",
@@ -42169,9 +46853,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19153",
@@ -42187,9 +46873,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19154",
@@ -42205,9 +46893,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19155",
@@ -42223,9 +46913,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19156",
@@ -42241,9 +46933,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19157",
@@ -42259,9 +46953,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19158",
@@ -42277,9 +46973,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19161",
@@ -42295,9 +46993,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19162",
@@ -42313,9 +47013,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19163",
@@ -42331,9 +47033,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19164",
@@ -42349,9 +47053,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19165",
@@ -42367,9 +47073,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19166",
@@ -42385,9 +47093,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19171",
@@ -42403,9 +47113,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19172",
@@ -42421,9 +47133,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19173",
@@ -42439,9 +47153,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19174",
@@ -42457,9 +47173,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19175",
@@ -42475,9 +47193,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19176",
@@ -42493,9 +47213,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19181",
@@ -42511,9 +47233,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19182",
@@ -42529,9 +47253,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19183",
@@ -42547,9 +47273,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19184",
@@ -42565,9 +47293,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19185",
@@ -42583,9 +47313,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19186",
@@ -42601,9 +47333,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19191",
@@ -42619,9 +47353,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19192",
@@ -42637,9 +47373,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19193",
@@ -42655,9 +47393,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19194",
@@ -42673,9 +47413,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19195",
@@ -42691,9 +47433,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19196",
@@ -42709,9 +47453,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19201",
@@ -42727,9 +47473,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19202",
@@ -42745,9 +47493,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19203",
@@ -42763,9 +47513,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19204",
@@ -42781,9 +47533,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19205",
@@ -42799,9 +47553,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19206",
@@ -42817,9 +47573,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19211",
@@ -42835,9 +47593,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19212",
@@ -42853,9 +47613,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19213",
@@ -42871,9 +47633,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19214",
@@ -42889,9 +47653,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19215",
@@ -42907,9 +47673,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19216",
@@ -42925,9 +47693,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19221",
@@ -42943,9 +47713,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19222",
@@ -42961,9 +47733,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19223",
@@ -42979,9 +47753,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19224",
@@ -42997,9 +47773,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19225",
@@ -43015,9 +47793,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19226",
@@ -43033,9 +47813,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19231",
@@ -43051,9 +47833,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19232",
@@ -43069,9 +47853,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19233",
@@ -43087,9 +47873,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19234",
@@ -43105,9 +47893,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19235",
@@ -43123,9 +47913,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19236",
@@ -43141,9 +47933,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19241",
@@ -43159,9 +47953,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19242",
@@ -43177,9 +47973,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19243",
@@ -43195,9 +47993,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19244",
@@ -43213,9 +48013,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19245",
@@ -43231,9 +48033,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19246",
@@ -43249,9 +48053,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19247",
@@ -43267,9 +48073,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19248",
@@ -43285,9 +48093,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19251",
@@ -43303,9 +48113,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19252",
@@ -43321,9 +48133,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19253",
@@ -43339,9 +48153,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19254",
@@ -43357,9 +48173,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19255",
@@ -43375,9 +48193,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19256",
@@ -43393,9 +48213,491 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19261",
+          "cardId": "20050419",
+          "conditionType": "1",
+          "conditionValue": "1",
+          "hp": "0",
+          "attack": "0",
+          "defense": "0",
+          "speed": "0",
+          "rare": "6",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19262",
+          "cardId": "20050419",
+          "conditionType": "1",
+          "conditionValue": "5",
+          "hp": "1320",
+          "attack": "2991",
+          "defense": "1128",
+          "speed": "14",
+          "rare": "0",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19263",
+          "cardId": "20050419",
+          "conditionType": "2",
+          "conditionValue": "100",
+          "hp": "2533",
+          "attack": "3021",
+          "defense": "2939",
+          "speed": "26",
+          "rare": "0",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19264",
+          "cardId": "20050419",
+          "conditionType": "1",
+          "conditionValue": "6",
+          "hp": "3358",
+          "attack": "3451",
+          "defense": "3568",
+          "speed": "27",
+          "rare": "0",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19265",
+          "cardId": "20050419",
+          "conditionType": "1",
+          "conditionValue": "7",
+          "hp": "0",
+          "attack": "0",
+          "defense": "0",
+          "speed": "0",
+          "rare": "0",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19266",
+          "cardId": "20050419",
+          "conditionType": "2",
+          "conditionValue": "120",
+          "hp": "3592",
+          "attack": "3686",
+          "defense": "3804",
+          "speed": "35",
+          "rare": "0",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19271",
+          "cardId": "20050420",
+          "conditionType": "1",
+          "conditionValue": "1",
+          "hp": "0",
+          "attack": "0",
+          "defense": "0",
+          "speed": "0",
+          "rare": "6",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19272",
+          "cardId": "20050420",
+          "conditionType": "1",
+          "conditionValue": "5",
+          "hp": "1751",
+          "attack": "1359",
+          "defense": "1740",
+          "speed": "26",
+          "rare": "0",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19273",
+          "cardId": "20050420",
+          "conditionType": "2",
+          "conditionValue": "100",
+          "hp": "1969",
+          "attack": "5373",
+          "defense": "1957",
+          "speed": "10",
+          "rare": "0",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19274",
+          "cardId": "20050420",
+          "conditionType": "1",
+          "conditionValue": "6",
+          "hp": "3389",
+          "attack": "3427",
+          "defense": "3576",
+          "speed": "26",
+          "rare": "0",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19275",
+          "cardId": "20050420",
+          "conditionType": "1",
+          "conditionValue": "7",
+          "hp": "0",
+          "attack": "0",
+          "defense": "0",
+          "speed": "0",
+          "rare": "0",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19276",
+          "cardId": "20050420",
+          "conditionType": "2",
+          "conditionValue": "120",
+          "hp": "3823",
+          "attack": "3461",
+          "defense": "3812",
+          "speed": "39",
+          "rare": "0",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19281",
+          "cardId": "20050421",
+          "conditionType": "1",
+          "conditionValue": "1",
+          "hp": "0",
+          "attack": "0",
+          "defense": "0",
+          "speed": "0",
+          "rare": "6",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19282",
+          "cardId": "20050421",
+          "conditionType": "1",
+          "conditionValue": "5",
+          "hp": "1759",
+          "attack": "1359",
+          "defense": "1751",
+          "speed": "26",
+          "rare": "0",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19283",
+          "cardId": "20050421",
+          "conditionType": "2",
+          "conditionValue": "100",
+          "hp": "3777",
+          "attack": "1573",
+          "defense": "3769",
+          "speed": "14",
+          "rare": "0",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19284",
+          "cardId": "20050421",
+          "conditionType": "1",
+          "conditionValue": "6",
+          "hp": "2215",
+          "attack": "6589",
+          "defense": "2007",
+          "speed": "18",
+          "rare": "0",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19285",
+          "cardId": "20050421",
+          "conditionType": "1",
+          "conditionValue": "7",
+          "hp": "0",
+          "attack": "0",
+          "defense": "0",
+          "speed": "0",
+          "rare": "0",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19286",
+          "cardId": "20050421",
+          "conditionType": "2",
+          "conditionValue": "120",
+          "hp": "3637",
+          "attack": "3655",
+          "defense": "3827",
+          "speed": "34",
+          "rare": "0",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19291",
+          "cardId": "20050422",
+          "conditionType": "1",
+          "conditionValue": "1",
+          "hp": "0",
+          "attack": "0",
+          "defense": "0",
+          "speed": "0",
+          "rare": "6",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19292",
+          "cardId": "20050422",
+          "conditionType": "1",
+          "conditionValue": "5",
+          "hp": "1728",
+          "attack": "1551",
+          "defense": "1751",
+          "speed": "22",
+          "rare": "0",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19293",
+          "cardId": "20050422",
+          "conditionType": "2",
+          "conditionValue": "100",
+          "hp": "2945",
+          "attack": "2967",
+          "defense": "2969",
+          "speed": "18",
+          "rare": "0",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19294",
+          "cardId": "20050422",
+          "conditionType": "1",
+          "conditionValue": "6",
+          "hp": "3374",
+          "attack": "3397",
+          "defense": "3599",
+          "speed": "26",
+          "rare": "0",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19295",
+          "cardId": "20050422",
+          "conditionType": "1",
+          "conditionValue": "7",
+          "hp": "0",
+          "attack": "0",
+          "defense": "0",
+          "speed": "0",
+          "rare": "0",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19296",
+          "cardId": "20050422",
+          "conditionType": "2",
+          "conditionValue": "120",
+          "hp": "3808",
+          "attack": "3431",
+          "defense": "3835",
+          "speed": "39",
+          "rare": "0",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19301",
@@ -43411,9 +48713,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19302",
@@ -43429,9 +48733,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19303",
@@ -43447,9 +48753,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19304",
@@ -43465,9 +48773,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19305",
@@ -43483,9 +48793,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19306",
@@ -43501,9 +48813,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19311",
@@ -43519,9 +48833,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19312",
@@ -43537,9 +48853,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19313",
@@ -43555,9 +48873,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19314",
@@ -43573,9 +48893,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19315",
@@ -43591,9 +48913,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19316",
@@ -43609,9 +48933,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19321",
@@ -43627,9 +48953,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19322",
@@ -43645,9 +48973,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19323",
@@ -43663,9 +48993,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19324",
@@ -43681,9 +49013,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19325",
@@ -43699,9 +49033,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19326",
@@ -43717,9 +49053,371 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19327",
+          "cardId": "20050408",
+          "conditionType": "1",
+          "conditionValue": "8",
+          "hp": "0",
+          "attack": "0",
+          "defense": "0",
+          "speed": "0",
+          "rare": "7",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "200006",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "1"
+        },
+        {
+          "cardStatusAdditionId": "19328",
+          "cardId": "20050408",
+          "conditionType": "2",
+          "conditionValue": "140",
+          "hp": "100220",
+          "attack": "120403",
+          "defense": "20193",
+          "speed": "51",
+          "rare": "0",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19331",
+          "cardId": "20050410",
+          "conditionType": "1",
+          "conditionValue": "1",
+          "hp": "0",
+          "attack": "0",
+          "defense": "0",
+          "speed": "0",
+          "rare": "6",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19332",
+          "cardId": "20050410",
+          "conditionType": "1",
+          "conditionValue": "5",
+          "hp": "1744",
+          "attack": "1336",
+          "defense": "1779",
+          "speed": "26",
+          "rare": "0",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19333",
+          "cardId": "20050410",
+          "conditionType": "2",
+          "conditionValue": "100",
+          "hp": "3761",
+          "attack": "1549",
+          "defense": "3797",
+          "speed": "14",
+          "rare": "0",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19334",
+          "cardId": "20050410",
+          "conditionType": "1",
+          "conditionValue": "6",
+          "hp": "4399",
+          "attack": "2164",
+          "defense": "4235",
+          "speed": "19",
+          "rare": "0",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19335",
+          "cardId": "20050410",
+          "conditionType": "1",
+          "conditionValue": "7",
+          "hp": "0",
+          "attack": "0",
+          "defense": "0",
+          "speed": "0",
+          "rare": "0",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19336",
+          "cardId": "20050410",
+          "conditionType": "2",
+          "conditionValue": "120",
+          "hp": "3843",
+          "attack": "3386",
+          "defense": "3878",
+          "speed": "39",
+          "rare": "0",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19337",
+          "cardId": "20050410",
+          "conditionType": "1",
+          "conditionValue": "8",
+          "hp": "0",
+          "attack": "0",
+          "defense": "0",
+          "speed": "0",
+          "rare": "7",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "200001",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "1"
+        },
+        {
+          "cardStatusAdditionId": "19338",
+          "cardId": "20050410",
+          "conditionType": "2",
+          "conditionValue": "140",
+          "hp": "100281",
+          "attack": "120220",
+          "defense": "20316",
+          "speed": "51",
+          "rare": "0",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19341",
+          "cardId": "20050412",
+          "conditionType": "1",
+          "conditionValue": "1",
+          "hp": "0",
+          "attack": "0",
+          "defense": "0",
+          "speed": "0",
+          "rare": "6",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19342",
+          "cardId": "20050412",
+          "conditionType": "1",
+          "conditionValue": "5",
+          "hp": "1359",
+          "attack": "2979",
+          "defense": "1120",
+          "speed": "14",
+          "rare": "0",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19343",
+          "cardId": "20050412",
+          "conditionType": "2",
+          "conditionValue": "100",
+          "hp": "5373",
+          "attack": "1809",
+          "defense": "1731",
+          "speed": "18",
+          "rare": "0",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19344",
+          "cardId": "20050412",
+          "conditionType": "1",
+          "conditionValue": "6",
+          "hp": "2227",
+          "attack": "6627",
+          "defense": "1948",
+          "speed": "18",
+          "rare": "0",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19345",
+          "cardId": "20050412",
+          "conditionType": "1",
+          "conditionValue": "7",
+          "hp": "0",
+          "attack": "0",
+          "defense": "0",
+          "speed": "0",
+          "rare": "0",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19346",
+          "cardId": "20050412",
+          "conditionType": "2",
+          "conditionValue": "120",
+          "hp": "2649",
+          "attack": "7094",
+          "defense": "2168",
+          "speed": "19",
+          "rare": "0",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19347",
+          "cardId": "20050412",
+          "conditionType": "1",
+          "conditionValue": "8",
+          "hp": "0",
+          "attack": "0",
+          "defense": "0",
+          "speed": "0",
+          "rare": "7",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "200003",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "1"
+        },
+        {
+          "cardStatusAdditionId": "19348",
+          "cardId": "20050412",
+          "conditionType": "2",
+          "conditionValue": "140",
+          "hp": "100276",
+          "attack": "120364",
+          "defense": "20189",
+          "speed": "51",
+          "rare": "0",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19351",
@@ -43735,9 +49433,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19352",
@@ -43753,9 +49453,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19353",
@@ -43771,9 +49473,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19354",
@@ -43789,9 +49493,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19355",
@@ -43807,9 +49513,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "19356",
@@ -43825,9 +49533,691 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19361",
+          "cardId": "20050503",
+          "conditionType": "1",
+          "conditionValue": "1",
+          "hp": "0",
+          "attack": "0",
+          "defense": "0",
+          "speed": "0",
+          "rare": "6",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19362",
+          "cardId": "20050503",
+          "conditionType": "1",
+          "conditionValue": "5",
+          "hp": "3468",
+          "attack": "3452",
+          "defense": "3444",
+          "speed": "20",
+          "rare": "0",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19363",
+          "cardId": "20050503",
+          "conditionType": "2",
+          "conditionValue": "100",
+          "hp": "5753",
+          "attack": "5736",
+          "defense": "5728",
+          "speed": "20",
+          "rare": "0",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19364",
+          "cardId": "20050503",
+          "conditionType": "1",
+          "conditionValue": "6",
+          "hp": "7160",
+          "attack": "7144",
+          "defense": "7136",
+          "speed": "29",
+          "rare": "0",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19365",
+          "cardId": "20050503",
+          "conditionType": "1",
+          "conditionValue": "7",
+          "hp": "0",
+          "attack": "0",
+          "defense": "0",
+          "speed": "0",
+          "rare": "0",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19366",
+          "cardId": "20050503",
+          "conditionType": "2",
+          "conditionValue": "120",
+          "hp": "8132",
+          "attack": "8115",
+          "defense": "8107",
+          "speed": "30",
+          "rare": "0",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19367",
+          "cardId": "20050503",
+          "conditionType": "1",
+          "conditionValue": "8",
+          "hp": "0",
+          "attack": "0",
+          "defense": "0",
+          "speed": "0",
+          "rare": "7",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "200003",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "1"
+        },
+        {
+          "cardStatusAdditionId": "19368",
+          "cardId": "20050503",
+          "conditionType": "2",
+          "conditionValue": "140",
+          "hp": "270563",
+          "attack": "225546",
+          "defense": "90538",
+          "speed": "48",
+          "rare": "0",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19371",
+          "cardId": "20050504",
+          "conditionType": "1",
+          "conditionValue": "1",
+          "hp": "0",
+          "attack": "0",
+          "defense": "0",
+          "speed": "0",
+          "rare": "6",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19372",
+          "cardId": "20050504",
+          "conditionType": "1",
+          "conditionValue": "5",
+          "hp": "3468",
+          "attack": "3058",
+          "defense": "3388",
+          "speed": "38",
+          "rare": "0",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19373",
+          "cardId": "20050504",
+          "conditionType": "2",
+          "conditionValue": "100",
+          "hp": "3953",
+          "attack": "9388",
+          "defense": "3872",
+          "speed": "21",
+          "rare": "0",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19374",
+          "cardId": "20050504",
+          "conditionType": "1",
+          "conditionValue": "6",
+          "hp": "4442",
+          "attack": "13082",
+          "defense": "4361",
+          "speed": "21",
+          "rare": "0",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19375",
+          "cardId": "20050504",
+          "conditionType": "1",
+          "conditionValue": "7",
+          "hp": "0",
+          "attack": "0",
+          "defense": "0",
+          "speed": "0",
+          "rare": "0",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19376",
+          "cardId": "20050504",
+          "conditionType": "2",
+          "conditionValue": "120",
+          "hp": "13936",
+          "attack": "5113",
+          "defense": "5305",
+          "speed": "30",
+          "rare": "0",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19377",
+          "cardId": "20050504",
+          "conditionType": "1",
+          "conditionValue": "8",
+          "hp": "0",
+          "attack": "0",
+          "defense": "0",
+          "speed": "0",
+          "rare": "7",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "200002",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "1"
+        },
+        {
+          "cardStatusAdditionId": "19378",
+          "cardId": "20050504",
+          "conditionType": "2",
+          "conditionValue": "140",
+          "hp": "252576",
+          "attack": "180664",
+          "defense": "58908",
+          "speed": "66",
+          "rare": "0",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19381",
+          "cardId": "20050505",
+          "conditionType": "1",
+          "conditionValue": "1",
+          "hp": "0",
+          "attack": "0",
+          "defense": "0",
+          "speed": "0",
+          "rare": "6",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19382",
+          "cardId": "20050505",
+          "conditionType": "1",
+          "conditionValue": "5",
+          "hp": "4858",
+          "attack": "2938",
+          "defense": "3018",
+          "speed": "20",
+          "rare": "0",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19383",
+          "cardId": "20050505",
+          "conditionType": "2",
+          "conditionValue": "100",
+          "hp": "9406",
+          "attack": "3868",
+          "defense": "3948",
+          "speed": "20",
+          "rare": "0",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19384",
+          "cardId": "20050505",
+          "conditionType": "1",
+          "conditionValue": "6",
+          "hp": "13100",
+          "attack": "4356",
+          "defense": "4438",
+          "speed": "20",
+          "rare": "0",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19385",
+          "cardId": "20050505",
+          "conditionType": "1",
+          "conditionValue": "7",
+          "hp": "0",
+          "attack": "0",
+          "defense": "0",
+          "speed": "0",
+          "rare": "0",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19386",
+          "cardId": "20050505",
+          "conditionType": "2",
+          "conditionValue": "120",
+          "hp": "14131",
+          "attack": "4850",
+          "defense": "5382",
+          "speed": "30",
+          "rare": "0",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19387",
+          "cardId": "20050505",
+          "conditionType": "1",
+          "conditionValue": "8",
+          "hp": "0",
+          "attack": "0",
+          "defense": "0",
+          "speed": "0",
+          "rare": "7",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "200001",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "1"
+        },
+        {
+          "cardStatusAdditionId": "19388",
+          "cardId": "20050505",
+          "conditionType": "2",
+          "conditionValue": "140",
+          "hp": "270773",
+          "attack": "135399",
+          "defense": "135486",
+          "speed": "39",
+          "rare": "0",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19391",
+          "cardId": "20050511",
+          "conditionType": "1",
+          "conditionValue": "1",
+          "hp": "0",
+          "attack": "0",
+          "defense": "0",
+          "speed": "0",
+          "rare": "6",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19392",
+          "cardId": "20050511",
+          "conditionType": "1",
+          "conditionValue": "5",
+          "hp": "1779",
+          "attack": "1340",
+          "defense": "1740",
+          "speed": "26",
+          "rare": "0",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19393",
+          "cardId": "20050511",
+          "conditionType": "2",
+          "conditionValue": "100",
+          "hp": "3797",
+          "attack": "1553",
+          "defense": "3757",
+          "speed": "14",
+          "rare": "0",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19394",
+          "cardId": "20050511",
+          "conditionType": "1",
+          "conditionValue": "6",
+          "hp": "4635",
+          "attack": "1568",
+          "defense": "4594",
+          "speed": "18",
+          "rare": "0",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19395",
+          "cardId": "20050511",
+          "conditionType": "1",
+          "conditionValue": "7",
+          "hp": "0",
+          "attack": "0",
+          "defense": "0",
+          "speed": "0",
+          "rare": "0",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19396",
+          "cardId": "20050511",
+          "conditionType": "2",
+          "conditionValue": "120",
+          "hp": "3882",
+          "attack": "3384",
+          "defense": "3840",
+          "speed": "38",
+          "rare": "0",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19397",
+          "cardId": "20050511",
+          "conditionType": "1",
+          "conditionValue": "8",
+          "hp": "0",
+          "attack": "0",
+          "defense": "0",
+          "speed": "0",
+          "rare": "7",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "200002",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "1"
+        },
+        {
+          "cardStatusAdditionId": "19398",
+          "cardId": "20050511",
+          "conditionType": "2",
+          "conditionValue": "140",
+          "hp": "112320",
+          "attack": "80218",
+          "defense": "28279",
+          "speed": "71",
+          "rare": "0",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19401",
+          "cardId": "20050502",
+          "conditionType": "1",
+          "conditionValue": "5",
+          "hp": "436",
+          "attack": "1083",
+          "defense": "254",
+          "speed": "5",
+          "rare": "0",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
+        },
+        {
+          "cardStatusAdditionId": "19402",
+          "cardId": "20050502",
+          "conditionType": "2",
+          "conditionValue": "100",
+          "hp": "441",
+          "attack": "2373",
+          "defense": "417",
+          "speed": "8",
+          "rare": "0",
+          "battleSkillId1": "0",
+          "battleSkillId2": "0",
+          "abilityId1": "0",
+          "abilityId2": "0",
+          "abilityId3": "0",
+          "charaProfileId": "0",
+          "modelId": null,
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "100000",
@@ -43843,9 +50233,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "100001",
@@ -43861,9 +50253,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "100002",
@@ -43879,9 +50273,11 @@ window.evo=[
           "battleSkillId2": "1040",
           "abilityId1": "591",
           "abilityId2": "592",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "100003",
@@ -43897,9 +50293,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "100004",
@@ -43915,9 +50313,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "100005",
@@ -43933,9 +50333,11 @@ window.evo=[
           "battleSkillId2": "1042",
           "abilityId1": "594",
           "abilityId2": "593",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "100006",
@@ -43951,9 +50353,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "100007",
@@ -43969,9 +50373,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "100008",
@@ -43987,9 +50393,11 @@ window.evo=[
           "battleSkillId2": "1044",
           "abilityId1": "595",
           "abilityId2": "596",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "100009",
@@ -44005,9 +50413,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "100010",
@@ -44023,9 +50433,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "100011",
@@ -44041,9 +50453,11 @@ window.evo=[
           "battleSkillId2": "1263",
           "abilityId1": "741",
           "abilityId2": "742",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "100012",
@@ -44059,9 +50473,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "100013",
@@ -44077,9 +50493,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "100014",
@@ -44095,9 +50513,11 @@ window.evo=[
           "battleSkillId2": "1360",
           "abilityId1": "843",
           "abilityId2": "844",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "100015",
@@ -44113,9 +50533,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "100016",
@@ -44131,9 +50553,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "100017",
@@ -44149,9 +50573,11 @@ window.evo=[
           "battleSkillId2": "1582",
           "abilityId1": "1030",
           "abilityId2": "1031",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "100018",
@@ -44167,9 +50593,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "100019",
@@ -44185,9 +50613,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "100020",
@@ -44203,9 +50633,11 @@ window.evo=[
           "battleSkillId2": "1590",
           "abilityId1": "1076",
           "abilityId2": "1077",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "200000",
@@ -44221,9 +50653,11 @@ window.evo=[
           "battleSkillId2": "1702",
           "abilityId1": "1175",
           "abilityId2": "1176",
+          "abilityId3": "0",
           "charaProfileId": "101",
           "modelId": "0",
-          "motionType": "1"
+          "motionType": "1",
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "200001",
@@ -44239,9 +50673,11 @@ window.evo=[
           "battleSkillId2": "1704",
           "abilityId1": "1177",
           "abilityId2": "1178",
+          "abilityId3": "0",
           "charaProfileId": "101",
           "modelId": "51",
-          "motionType": "1"
+          "motionType": "1",
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "200002",
@@ -44257,9 +50693,11 @@ window.evo=[
           "battleSkillId2": "1706",
           "abilityId1": "1179",
           "abilityId2": "1180",
+          "abilityId3": "0",
           "charaProfileId": "102",
           "modelId": "250",
-          "motionType": "1"
+          "motionType": "1",
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "200003",
@@ -44275,9 +50713,11 @@ window.evo=[
           "battleSkillId2": "1708",
           "abilityId1": "1181",
           "abilityId2": "1182",
+          "abilityId3": "0",
           "charaProfileId": "106",
           "modelId": "319",
-          "motionType": "1"
+          "motionType": "1",
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "200004",
@@ -44293,9 +50733,11 @@ window.evo=[
           "battleSkillId2": "1710",
           "abilityId1": "1183",
           "abilityId2": "1184",
+          "abilityId3": "0",
           "charaProfileId": "107",
           "modelId": "397",
-          "motionType": "1"
+          "motionType": "1",
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "200005",
@@ -44311,9 +50753,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "200006",
@@ -44329,9 +50773,11 @@ window.evo=[
           "battleSkillId2": "1712",
           "abilityId1": "1185",
           "abilityId2": "1186",
+          "abilityId3": "0",
           "charaProfileId": "109",
           "modelId": "509",
-          "motionType": "1"
+          "motionType": "1",
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "200007",
@@ -44347,9 +50793,11 @@ window.evo=[
           "battleSkillId2": "1854",
           "abilityId1": "1352",
           "abilityId2": "1353",
+          "abilityId3": "0",
           "charaProfileId": "201",
           "modelId": "2",
-          "motionType": "1"
+          "motionType": "1",
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "200008",
@@ -44365,9 +50813,11 @@ window.evo=[
           "battleSkillId2": "1856",
           "abilityId1": "1354",
           "abilityId2": "1355",
+          "abilityId3": "0",
           "charaProfileId": "201",
           "modelId": "52",
-          "motionType": "1"
+          "motionType": "1",
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "200009",
@@ -44383,9 +50833,11 @@ window.evo=[
           "battleSkillId2": "1858",
           "abilityId1": "1356",
           "abilityId2": "1357",
+          "abilityId3": "0",
           "charaProfileId": "210",
           "modelId": "251",
-          "motionType": "1"
+          "motionType": "1",
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "200010",
@@ -44401,9 +50853,11 @@ window.evo=[
           "battleSkillId2": "1860",
           "abilityId1": "1358",
           "abilityId2": "1359",
+          "abilityId3": "0",
           "charaProfileId": "210",
           "modelId": "392",
-          "motionType": "1"
+          "motionType": "1",
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "200011",
@@ -44419,9 +50873,11 @@ window.evo=[
           "battleSkillId2": "1862",
           "abilityId1": "1360",
           "abilityId2": "1361",
+          "abilityId3": "0",
           "charaProfileId": "204",
           "modelId": "315",
-          "motionType": "1"
+          "motionType": "1",
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "200012",
@@ -44437,9 +50893,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "200013",
@@ -44455,9 +50913,11 @@ window.evo=[
           "battleSkillId2": "1864",
           "abilityId1": "1362",
           "abilityId2": "1363",
+          "abilityId3": "0",
           "charaProfileId": "204",
           "modelId": "362",
-          "motionType": "1"
+          "motionType": "1",
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "890101",
@@ -44473,9 +50933,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "890102",
@@ -44491,9 +50953,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "890201",
@@ -44509,9 +50973,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "890204",
@@ -44527,9 +50993,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": null,
-          "motionType": null
+          "motionType": null,
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "90010001",
@@ -44545,9 +51013,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": "0",
-          "motionType": "0"
+          "motionType": "0",
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "90010002",
@@ -44563,9 +51033,11 @@ window.evo=[
           "battleSkillId2": "0",
           "abilityId1": "0",
           "abilityId2": "0",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": "0",
-          "motionType": "0"
+          "motionType": "0",
+          "crystalSlotNum": "0"
         },
         {
           "cardStatusAdditionId": "90010003",
@@ -44581,8 +51053,10 @@ window.evo=[
           "battleSkillId2": "110",
           "abilityId1": "10",
           "abilityId2": "11",
+          "abilityId3": "0",
           "charaProfileId": "0",
           "modelId": "0",
-          "motionType": "0"
+          "motionType": "0",
+          "crystalSlotNum": "0"
         }
 ]
