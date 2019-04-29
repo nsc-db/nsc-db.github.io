@@ -19834,5 +19834,5 @@ window.ability=[
           "effectIdx1": "220050",
           "effectIdx2": "0",
           "effectIdx3": "0"
-        },
+        }
 ]
