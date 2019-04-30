@@ -101,5 +101,13 @@
         {
           "assetCategoryId": "27",
           "assetTitle": "配置数"
+        },
+        {
+          "assetCategoryId": "28",
+          "assetTitle": "連合戦参加券"
+        },
+        {
+          "assetCategoryId": "29",
+          "assetTitle": "鍵アイテム"
         }
       ]

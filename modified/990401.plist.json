@@ -5340,12 +5340,12 @@
         },
         {
           "gachaTicketId": "3640",
-          "gachaTicketName": "★6確定[5月]ガチャチケット",
+          "gachaTicketName": "★6確定[5月]",
           "gachaTicketImgId": "3586"
         },
         {
           "gachaTicketId": "3641",
-          "gachaTicketName": "神忍確定[5月]ガチャチケット",
+          "gachaTicketName": "神忍確定[5月]",
           "gachaTicketImgId": "3587"
         },
         {
@@ -5365,7 +5365,7 @@
         },
         {
           "gachaTicketId": "3645",
-          "gachaTicketName": "★5期間限定忍具ガチャチケット",
+          "gachaTicketName": "★5期間限定忍具確定ガチャチケット",
           "gachaTicketImgId": "3645"
         },
         {
@@ -5377,6 +5377,26 @@
           "gachaTicketId": "3647",
           "gachaTicketName": "厄災封じの掌・祭",
           "gachaTicketImgId": "3646"
+        },
+        {
+          "gachaTicketId": "3648",
+          "gachaTicketName": "デイダラ誕生記念ガチャチケット",
+          "gachaTicketImgId": "3648"
+        },
+        {
+          "gachaTicketId": "3649",
+          "gachaTicketName": "デイダラ誕生記念・祭",
+          "gachaTicketImgId": "3648"
+        },
+        {
+          "gachaTicketId": "3650",
+          "gachaTicketName": "想いを象る刃ガチャチケット",
+          "gachaTicketImgId": "3650"
+        },
+        {
+          "gachaTicketId": "3651",
+          "gachaTicketName": "想いを象る刃・祭",
+          "gachaTicketImgId": "3650"
         },
         {
           "gachaTicketId": "3654",

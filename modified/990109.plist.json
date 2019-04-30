@@ -19413,54 +19413,54 @@
         },
         {
           "abilityId": "2209",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "託された救世の力",
+          "abilityDescription": "最大チャクラ量が100アップ、HPが80％以上の時にスキル発動速度1段階アップ",
+          "abilityEffectDescription": "最大チャクラ量が100アップ、HPが80％以上の時にスキル発動速度1段階アップ",
           "effectIdx1": "20009",
           "effectIdx2": "1391",
           "effectIdx3": "0"
         },
         {
           "abilityId": "2210",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "両親から継いだ想い",
+          "abilityDescription": "最大HPが120%アップ、2回行動まで全スキルダメージ100%アップ",
+          "abilityEffectDescription": "最大HPが120%アップ、2回行動まで全スキルダメージ100%アップ",
           "effectIdx1": "1221",
           "effectIdx2": "30109",
           "effectIdx3": "0"
         },
         {
           "abilityId": "2211",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "蘇る家族の絆",
+          "abilityDescription": "最大チャクラ量が100アップ、HPが80％以上の時に全スキルダメージ100％アップ",
+          "abilityEffectDescription": "最大チャクラ量が100アップ、HPが80％以上の時に全スキルダメージ100％アップ",
           "effectIdx1": "20009",
           "effectIdx2": "31709",
           "effectIdx3": "0"
         },
         {
           "abilityId": "2212",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "妻と育んだ愛",
+          "abilityDescription": "最大HPが120%アップ、2回行動まで素早さ150%アップ",
+          "abilityEffectDescription": "最大HPが120%アップ、2回行動まで素早さ150%アップ",
           "effectIdx1": "1221",
           "effectIdx2": "2046",
           "effectIdx3": "0"
         },
         {
           "abilityId": "2213",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "父子に伝えし愛情",
+          "abilityDescription": "最大チャクラ量が100アップ、HPが80％以上の時に全スキルダメージ80％アップ",
+          "abilityEffectDescription": "最大チャクラ量が100アップ、HPが80％以上の時に全スキルダメージ80％アップ",
           "effectIdx1": "20009",
           "effectIdx2": "1505",
           "effectIdx3": "0"
         },
         {
           "abilityId": "2214",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "夫と育てた夢",
+          "abilityDescription": "最大HPが150%アップ、2回行動まで素早さ100%アップ",
+          "abilityEffectDescription": "最大HPが150%アップ、2回行動まで素早さ100%アップ",
           "effectIdx1": "1212",
           "effectIdx2": "1692",
           "effectIdx3": "0"
@@ -19498,6 +19498,42 @@
           "abilityDescription": "3回行動するまで高確率でスキルを回避する",
           "abilityEffectDescription": "3回行動するまで高確率でスキルを回避する",
           "effectIdx1": "2099",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2219",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "2229",
+          "effectIdx2": "1783",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2220",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "880",
+          "effectIdx2": "2002",
+          "effectIdx3": "1521"
+        },
+        {
+          "abilityId": "2221",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "1692",
+          "effectIdx2": "30109",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2222",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "31709",
           "effectIdx2": "0",
           "effectIdx3": "0"
         },

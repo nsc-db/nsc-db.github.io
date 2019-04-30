@@ -2339,6 +2339,30 @@
           "voiceDeath": "obito_death_04_02"
         },
         {
+          "cardVoiceId": "197",
+          "cardId": "20050513",
+          "dirName": "sakura",
+          "evolutionStep": "",
+          "voiceAppear": "sakura_skill_02_05",
+          "voiceSkill1": "sakura_pursuit_02_02",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "sakura_skill_02_06",
+          "voiceDeath": "sakura_skill_02_13"
+        },
+        {
+          "cardVoiceId": "198",
+          "cardId": "20050507",
+          "dirName": "deidara",
+          "evolutionStep": "",
+          "voiceAppear": "deidara_win_02_03",
+          "voiceSkill1": "deidara_skill_02_03",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "deidara_menu_03",
+          "voiceDeath": "deidara_death_02_01"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

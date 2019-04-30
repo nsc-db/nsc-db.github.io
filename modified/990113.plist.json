@@ -26411,6 +26411,18 @@
           "effectParam3": "0"
         },
         {
+          "cardEffectId": "2229",
+          "timing": "5",
+          "conditionType": "23",
+          "conditionLower": "2",
+          "conditionUpper": "2",
+          "parcent": "10000",
+          "effectId": "24",
+          "effectParam1": "0",
+          "effectParam2": "30000",
+          "effectParam3": "0"
+        },
+        {
           "cardEffectId": "2230",
           "timing": "10",
           "conditionType": "6",
@@ -26528,6 +26540,18 @@
           "effectId": "18",
           "effectParam1": "0",
           "effectParam2": "13500",
+          "effectParam3": "0"
+        },
+        {
+          "cardEffectId": "2240",
+          "timing": "1",
+          "conditionType": "1",
+          "conditionLower": "8000",
+          "conditionUpper": "10000",
+          "parcent": "10000",
+          "effectId": "1",
+          "effectParam1": "3",
+          "effectParam2": "30000",
           "effectParam3": "0"
         },
         {
@@ -26696,6 +26720,18 @@
           "effectId": "40",
           "effectParam1": "0",
           "effectParam2": "0",
+          "effectParam3": "0"
+        },
+        {
+          "cardEffectId": "2259",
+          "timing": "11",
+          "conditionType": "0",
+          "conditionLower": "0",
+          "conditionUpper": "0",
+          "parcent": "10000",
+          "effectId": "31",
+          "effectParam1": "2",
+          "effectParam2": "30",
           "effectParam3": "0"
         },
         {
@@ -28124,6 +28160,18 @@
           "effectId": "1",
           "effectParam1": "8",
           "effectParam2": "20100",
+          "effectParam3": "0"
+        },
+        {
+          "cardEffectId": "10127",
+          "timing": "11",
+          "conditionType": "0",
+          "conditionLower": "0",
+          "conditionUpper": "0",
+          "parcent": "10000",
+          "effectId": "1",
+          "effectParam1": "8",
+          "effectParam2": "21000",
           "effectParam3": "0"
         },
         {

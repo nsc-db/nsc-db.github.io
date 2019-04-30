@@ -3716,6 +3716,126 @@
           "cardExperienceId": "620",
           "rare": "5",
           "level": "120",
-          "experienceNum": "562013"
+          "experienceNum": "600000"
+        },
+        {
+          "cardExperienceId": "621",
+          "rare": "5",
+          "level": "121",
+          "experienceNum": "800000"
+        },
+        {
+          "cardExperienceId": "622",
+          "rare": "5",
+          "level": "122",
+          "experienceNum": "1000000"
+        },
+        {
+          "cardExperienceId": "623",
+          "rare": "5",
+          "level": "123",
+          "experienceNum": "1200000"
+        },
+        {
+          "cardExperienceId": "624",
+          "rare": "5",
+          "level": "124",
+          "experienceNum": "1400000"
+        },
+        {
+          "cardExperienceId": "625",
+          "rare": "5",
+          "level": "125",
+          "experienceNum": "1600000"
+        },
+        {
+          "cardExperienceId": "626",
+          "rare": "5",
+          "level": "126",
+          "experienceNum": "1800000"
+        },
+        {
+          "cardExperienceId": "627",
+          "rare": "5",
+          "level": "127",
+          "experienceNum": "2000000"
+        },
+        {
+          "cardExperienceId": "628",
+          "rare": "5",
+          "level": "128",
+          "experienceNum": "2200000"
+        },
+        {
+          "cardExperienceId": "629",
+          "rare": "5",
+          "level": "129",
+          "experienceNum": "2400000"
+        },
+        {
+          "cardExperienceId": "630",
+          "rare": "5",
+          "level": "130",
+          "experienceNum": "2600000"
+        },
+        {
+          "cardExperienceId": "631",
+          "rare": "5",
+          "level": "131",
+          "experienceNum": "2800000"
+        },
+        {
+          "cardExperienceId": "632",
+          "rare": "5",
+          "level": "132",
+          "experienceNum": "3000000"
+        },
+        {
+          "cardExperienceId": "633",
+          "rare": "5",
+          "level": "133",
+          "experienceNum": "3200000"
+        },
+        {
+          "cardExperienceId": "634",
+          "rare": "5",
+          "level": "134",
+          "experienceNum": "3400000"
+        },
+        {
+          "cardExperienceId": "635",
+          "rare": "5",
+          "level": "135",
+          "experienceNum": "3600000"
+        },
+        {
+          "cardExperienceId": "636",
+          "rare": "5",
+          "level": "136",
+          "experienceNum": "3800000"
+        },
+        {
+          "cardExperienceId": "637",
+          "rare": "5",
+          "level": "137",
+          "experienceNum": "4000000"
+        },
+        {
+          "cardExperienceId": "638",
+          "rare": "5",
+          "level": "138",
+          "experienceNum": "4200000"
+        },
+        {
+          "cardExperienceId": "639",
+          "rare": "5",
+          "level": "139",
+          "experienceNum": "4400000"
+        },
+        {
+          "cardExperienceId": "640",
+          "rare": "5",
+          "level": "140",
+          "experienceNum": "4600000"
         }
       ]

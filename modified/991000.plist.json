@@ -296,7 +296,7 @@
         {
           "appUiId": "60",
           "uiKey": "QuestNoList",
-          "text": "選択可能なチャレンジはありません"
+          "text": "選択可能なチャレンジはありません\r\n※ウィークリーは一時停止させていただいております。\r\n※再開まで今しばらくお待ちください"
         },
         {
           "appUiId": "61",
@@ -1071,7 +1071,7 @@
         {
           "appUiId": "215",
           "uiKey": "GameCancelDesc",
-          "text": "任務で入手したアイテムは\r\n\r\n消えてしまいます\r\n\r\n消費した忍石は返還されません"
+          "text": "任務で入手したアイテムは\r\n\r\n消えてしまいます\r\n\r\n消費した忍石・鍵は返還されません"
         },
         {
           "appUiId": "216",
@@ -2781,7 +2781,7 @@
         {
           "appUiId": "557",
           "uiKey": "CrystalEquipType_14",
-          "text": "-----"
+          "text": "属性強化"
         },
         {
           "appUiId": "558",
@@ -3746,7 +3746,7 @@
         {
           "appUiId": "750",
           "uiKey": "ResumeGameDesc",
-          "text": "中断された任務が存在します\r\n任務を再開しますか？\r\n\r\n※再開しない場合は任務で入手した\r\nアイテムは取得できません\r\nまた、消費した忍石は戻ってきません\r\n\r\n※消費されたスタミナは戻ってきません"
+          "text": "中断された任務が存在します\r\n任務を再開しますか？\r\n\r\n※再開しない場合は任務で入手した\r\nアイテムは取得できません\r\nまた、消費した忍石・鍵は戻ってきません\r\n\r\n※消費されたスタミナは戻ってきません"
         },
         {
           "appUiId": "751",
@@ -3881,7 +3881,7 @@
         {
           "appUiId": "777",
           "uiKey": "QuestTabEvent",
-          "text": "スペシャル"
+          "text": "期間限定"
         },
         {
           "appUiId": "778",
@@ -4686,7 +4686,7 @@
         {
           "appUiId": "938",
           "uiKey": "ItemListDesc",
-          "text": "・スタミナ回復ラーメンを使った時に、余ったスタミナは\r\n　そのまま加算されます。"
+          "text": "・スタミナ回復ラーメンを使った時に、余ったスタミナは\r\n　そのまま加算されます。\r\n・スタミナは最大値の2倍まで回復できます。"
         },
         {
           "appUiId": "939",
@@ -7494,6 +7494,46 @@
           "text": "昇級試験が更新されました"
         },
         {
+          "appUiId": "1503",
+          "uiKey": "HaveTitle",
+          "text": "所持："
+        },
+        {
+          "appUiId": "1504",
+          "uiKey": "Key",
+          "text": "鍵"
+        },
+        {
+          "appUiId": "1505",
+          "uiKey": "MissionKeySelectTitle",
+          "text": "封印任務"
+        },
+        {
+          "appUiId": "1506",
+          "uiKey": "MissionKeySelectInfo",
+          "text": "鍵を消費してお好みの任務に参加しましょう"
+        },
+        {
+          "appUiId": "1507",
+          "uiKey": "MissionSphereSelectTitle",
+          "text": "超忍覚醒任務"
+        },
+        {
+          "appUiId": "1508",
+          "uiKey": "MissionSphereSelectInfo",
+          "text": "覚醒に必要な忍玉を集めよう"
+        },
+        {
+          "appUiId": "1509",
+          "uiKey": "MissionBeginnerSelectTitle",
+          "text": "初心者任務"
+        },
+        {
+          "appUiId": "1510",
+          "uiKey": "MissionBeginnerSelectInfo",
+          "text": "忍の基本を学ぼう！"
+        },
+        {
           "appUiId": "1511",
           "uiKey": "MissionRank90",
           "text": "選択肢"
@@ -7502,5 +7542,200 @@
           "appUiId": "1512",
           "uiKey": "MissionRank91",
           "text": "エンド"
+        },
+        {
+          "appUiId": "1513",
+          "uiKey": "FusionUnlockStatusBonus",
+          "text": "ステータス\r\nボーナス"
+        },
+        {
+          "appUiId": "1514",
+          "uiKey": "FusionUnlockLearnChange",
+          "text": "スキル\r\nアビリティ"
+        },
+        {
+          "appUiId": "1515",
+          "uiKey": "FusionUnlockAbility",
+          "text": "アビリティ解放"
+        },
+        {
+          "appUiId": "1516",
+          "uiKey": "FusionUnlockAbilityAndCrystal",
+          "text": "アビリティ解放\r\n忍具装着枠増加"
+        },
+        {
+          "appUiId": "1517",
+          "uiKey": "PowerUpCardMaterialTitle",
+          "text": "素材選択"
+        },
+        {
+          "appUiId": "1518",
+          "uiKey": "PowerUpCardMaterialDesc",
+          "text": "強化素材を選択して下さい"
+        },
+        {
+          "appUiId": "1519",
+          "uiKey": "QuestTabWeekly",
+          "text": "ウィークリー"
+        },
+        {
+          "appUiId": "1520",
+          "uiKey": "QuestTabAccumulation",
+          "text": "累積"
+        },
+        {
+          "appUiId": "1521",
+          "uiKey": "QuestReceiveAll",
+          "text": "一括受け取り"
+        },
+        {
+          "appUiId": "1522",
+          "uiKey": "QuestReceiveNotice",
+          "text": "※一度に受け取れるのは20件までです。"
+        },
+        {
+          "appUiId": "1523",
+          "uiKey": "QuestReceiveNoItem",
+          "text": "受け取れるアイテムはありません。"
+        },
+        {
+          "appUiId": "1524",
+          "uiKey": "QuestReceiveTitle",
+          "text": "以下のアイテムを受け取りました"
+        },
+        {
+          "appUiId": "1525",
+          "uiKey": "NeedKeyText",
+          "text": "×%02d 消費 "
+        },
+        {
+          "appUiId": "1526",
+          "uiKey": "ShortageKeyMessage",
+          "text": "%sが不足しています。"
+        },
+        {
+          "appUiId": "1527",
+          "uiKey": "SelectNotSellMaterialItem",
+          "text": "売却素材以外が選択されています"
+        },
+        {
+          "appUiId": "1528",
+          "uiKey": "MaterialListAndSellTitle",
+          "text": "素材一覧・売却"
+        },
+        {
+          "appUiId": "1529",
+          "uiKey": "MaterialListAndSellDesc",
+          "text": "所持素材の確認または売却ができます"
+        },
+        {
+          "appUiId": "1530",
+          "uiKey": "SelectMaterialRarityCaution",
+          "text": "レアリティの高い素材が選択されています"
+        },
+        {
+          "appUiId": "1531",
+          "uiKey": "QuestTabAccumulationGroupDefault",
+          "text": "累積"
+        },
+        {
+          "appUiId": "1532",
+          "uiKey": "QuestTabDailyGroupDefault",
+          "text": "いつものデイリー"
+        },
+        {
+          "appUiId": "1533",
+          "uiKey": "QuestTabEventGroupDefault",
+          "text": "期間限定"
+        },
+        {
+          "appUiId": "1534",
+          "uiKey": "QuestTabWeeklyGroupDefault",
+          "text": "ウィークリー"
+        },
+        {
+          "appUiId": "1535",
+          "uiKey": "MissionRank11",
+          "text": "楽々ランク任務"
+        },
+        {
+          "appUiId": "1536",
+          "uiKey": "QuestMyPageTitle",
+          "text": "いつものデイリー全クリア"
+        },
+        {
+          "appUiId": "1537",
+          "uiKey": "QuestGroupProgress",
+          "text": "残チャレンジ数:%d"
+        },
+        {
+          "appUiId": "1538",
+          "uiKey": "HaveCountFormat",
+          "text": "所持数:%d"
+        },
+        {
+          "appUiId": "1539",
+          "uiKey": "Ability3",
+          "text": "アビリティ３"
+        },
+        {
+          "appUiId": "1540",
+          "uiKey": "Select",
+          "text": "選択"
+        },
+        {
+          "appUiId": "1541",
+          "uiKey": "MaterialKind",
+          "text": "素材種別"
+        },
+        {
+          "appUiId": "1542",
+          "uiKey": "MaterialKindAll",
+          "text": "全種類"
+        },
+        {
+          "appUiId": "1543",
+          "uiKey": "MaterialKindStrength",
+          "text": "強化"
+        },
+        {
+          "appUiId": "1544",
+          "uiKey": "MaterialKindSkillStrength",
+          "text": "術強化"
+        },
+        {
+          "appUiId": "1545",
+          "uiKey": "MaterialKindEvolution",
+          "text": "覚醒"
+        },
+        {
+          "appUiId": "1546",
+          "uiKey": "MaterialKindSell",
+          "text": "売却"
+        },
+        {
+          "appUiId": "1547",
+          "uiKey": "MaterialKindLimitBreak",
+          "text": "忍道"
+        },
+        {
+          "appUiId": "1548",
+          "uiKey": "MaterialCountOverTitle",
+          "text": "素材の所持枠が一杯です"
+        },
+        {
+          "appUiId": "1549",
+          "uiKey": "MaterialCountOverText1",
+          "text": "下記のいずれかを行って素材の所持枠を空けてください。"
+        },
+        {
+          "appUiId": "1550",
+          "uiKey": "MaterialCountOverText2",
+          "text": "・素材一覧・売却から素材を売却\r\n・忍を強化、覚醒"
+        },
+        {
+          "appUiId": "1551",
+          "uiKey": "MaterialListAndSell",
+          "text": "素材一覧・売却"
         }
       ]
