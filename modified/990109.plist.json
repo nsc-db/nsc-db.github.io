@@ -19467,18 +19467,18 @@
         },
         {
           "abilityId": "2215",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "守護の決意",
+          "abilityDescription": "5回行動するまで、木ノ葉隠れの里所属への単体スキル攻撃を受ける※かばうは最後の発動者が有効",
+          "abilityEffectDescription": "5回行動するまで、木ノ葉隠れの里所属への単体スキル攻撃を受ける※かばうは最後の発動者が有効",
           "effectIdx1": "2223",
           "effectIdx2": "0",
           "effectIdx3": "0"
         },
         {
           "abilityId": "2216",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "木遁秘術の真髄",
+          "abilityDescription": "敵に滅キャラがいるとHP500%アップ、敵に滅キャラがいると素早さ150%アップ",
+          "abilityEffectDescription": "敵に滅キャラがいるとHP500%アップ、敵に滅キャラがいると素早さ150%アップ",
           "effectIdx1": "2225",
           "effectIdx2": "2224",
           "effectIdx3": "0"
@@ -19521,18 +19521,18 @@
         },
         {
           "abilityId": "2221",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "規模自在の爆破",
+          "abilityDescription": "2回行動するまで素早さとスキルダメージが100%アップ",
+          "abilityEffectDescription": "2回行動するまで素早さとスキルダメージが100%アップ",
           "effectIdx1": "1692",
           "effectIdx2": "30109",
           "effectIdx3": "0"
         },
         {
           "abilityId": "2222",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "美意識の昇華",
+          "abilityDescription": "HP80%以上の時にスキルダメージが100%アップ",
+          "abilityEffectDescription": "HP80%以上の時にスキルダメージが100%アップ",
           "effectIdx1": "31709",
           "effectIdx2": "0",
           "effectIdx3": "0"

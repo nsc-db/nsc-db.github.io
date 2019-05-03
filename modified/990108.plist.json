@@ -11440,8 +11440,8 @@
         },
         {
           "cardLeaderSkillId": "895",
-          "name": "0",
-          "description": "0",
+          "name": "厄災封じの掌",
+          "description": "木ノ葉隠れの里所属が行動するたびにHP50%回復",
           "effectIdx1": "2226",
           "effectIdx2": "0",
           "effectIdx3": "0",
@@ -11479,8 +11479,8 @@
         },
         {
           "cardLeaderSkillId": "898",
-          "name": "0",
-          "description": "0",
+          "name": "散美の破壊者",
+          "description": "勇属性と知属性の最大HPを100％アップし、最大チャクラ量を50アップ",
           "effectIdx1": "684",
           "effectIdx2": "689",
           "effectIdx3": "0",
