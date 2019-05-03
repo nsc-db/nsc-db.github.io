@@ -11402,8 +11402,8 @@ window.lead=[
         },
         {
           "cardLeaderSkillId": "892",
-          "name": "0",
-          "description": "0",
+          "name": "想い託されし疾風",
+          "description": "心・技・体属性をスキップ無効にする※耐性を無視して行動を1回無駄にされない",
           "effectIdx1": "2221",
           "effectIdx2": "0",
           "effectIdx3": "0",
@@ -11415,8 +11415,8 @@ window.lead=[
         },
         {
           "cardLeaderSkillId": "893",
-          "name": "0",
-          "description": "0",
+          "name": "共闘する閃光",
+          "description": "心・技・体属性の素早さを100％アップ",
           "effectIdx1": "2167",
           "effectIdx2": "0",
           "effectIdx3": "0",
@@ -11428,8 +11428,8 @@ window.lead=[
         },
         {
           "cardLeaderSkillId": "894",
-          "name": "0",
-          "description": "0",
+          "name": "父子に託す願い",
+          "description": "心・技・体属性の最大HPを100％アップ",
           "effectIdx1": "2222",
           "effectIdx2": "0",
           "effectIdx3": "0",
@@ -11441,8 +11441,8 @@ window.lead=[
         },
         {
           "cardLeaderSkillId": "895",
-          "name": "0",
-          "description": "0",
+          "name": "厄災封じの掌",
+          "description": "木ノ葉隠れの里所属が行動するたびにHP50%回復",
           "effectIdx1": "2226",
           "effectIdx2": "0",
           "effectIdx3": "0",
@@ -11464,6 +11464,32 @@ window.lead=[
           "target1Param": "1",
           "target2Category": "0",
           "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "897",
+          "name": "0",
+          "description": "0",
+          "effectIdx1": "10127",
+          "effectIdx2": "30010",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "898",
+          "name": "散美の破壊者",
+          "description": "勇属性と知属性の最大HPを100％アップし、最大チャクラ量を50アップ",
+          "effectIdx1": "684",
+          "effectIdx2": "689",
+          "effectIdx3": "0",
+          "compType": "2",
+          "target1Category": "1",
+          "target1Param": "7",
+          "target2Category": "1",
+          "target2Param": "6"
         },
         {
           "cardLeaderSkillId": "8507",

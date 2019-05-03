@@ -7497,6 +7497,66 @@ window.skillname=[
           "eng": "Alright, Let's Go!"
         },
         {
+          "cardBattleSkillNameId": "2713",
+          "name": "陰陽結心・螺旋煌刃",
+          "eng": "Yin Yang Resonance: Spiral Blade"
+        },
+        {
+          "cardBattleSkillNameId": "2714",
+          "name": "オレがこの世に居る！！！",
+          "eng": "I Will Stay in This World!!!"
+        },
+        {
+          "cardBattleSkillNameId": "2715",
+          "name": "陰陽結心・超螺旋光刃",
+          "eng": "Yin Yang Resonance: Flashing Supercoil Blade"
+        },
+        {
+          "cardBattleSkillNameId": "2716",
+          "name": "やっぱり…懐かしい感覚だ！",
+          "eng": "I Knew It...I Miss This Feeling!"
+        },
+        {
+          "cardBattleSkillNameId": "2717",
+          "name": "皆封・金剛鎖尽",
+          "eng": "Engulfing Seal: Adamantine Sealing Chain"
+        },
+        {
+          "cardBattleSkillNameId": "2718",
+          "name": "私達の想い…届いてたよ…！",
+          "eng": "Our Feelings...Has Reached...!"
+        },
+        {
+          "cardBattleSkillNameId": "2719",
+          "name": "廓庵入鄽垂手",
+          "eng": "Kakuan's Tenth Edict On Enlightenment"
+        },
+        {
+          "cardBattleSkillNameId": "2720",
+          "name": "守りたいんだ…オレは",
+          "eng": "I Want to be the One Protecting..."
+        },
+        {
+          "cardBattleSkillNameId": "2721",
+          "name": "五月雨猪突",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2722",
+          "name": "オレにだって出来る…",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2725",
+          "name": "祝爆の美",
+          "eng": "Burst of Beautiful Celebration"
+        },
+        {
+          "cardBattleSkillNameId": "2726",
+          "name": "遅いね…うん",
+          "eng": "It's Too Late..."
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！",
           "eng": ""

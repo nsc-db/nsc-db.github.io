@@ -6021,35 +6021,35 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "2713",
-          "name": "0"
+          "name": "陰陽結心・螺旋煌刃"
         },
         {
           "cardBattleSkillNameId": "2714",
-          "name": "0"
+          "name": "オレがこの世に居る！！！"
         },
         {
           "cardBattleSkillNameId": "2715",
-          "name": "0"
+          "name": "陰陽結心・超螺旋光刃"
         },
         {
           "cardBattleSkillNameId": "2716",
-          "name": "0"
+          "name": "やっぱり…懐かしい感覚だ！"
         },
         {
           "cardBattleSkillNameId": "2717",
-          "name": "0"
+          "name": "皆封・金剛鎖尽"
         },
         {
           "cardBattleSkillNameId": "2718",
-          "name": "0"
+          "name": "私達の想い…届いてたよ…！"
         },
         {
           "cardBattleSkillNameId": "2719",
-          "name": "0"
+          "name": "廓庵入鄽垂手"
         },
         {
           "cardBattleSkillNameId": "2720",
-          "name": "0"
+          "name": "守りたいんだ…オレは"
         },
         {
           "cardBattleSkillNameId": "2721",
@@ -6058,6 +6058,22 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "2722",
           "name": "オレにだって出来る…"
+        },
+        {
+          "cardBattleSkillNameId": "2723",
+          "name": "0"
+        },
+        {
+          "cardBattleSkillNameId": "2724",
+          "name": "0"
+        },
+        {
+          "cardBattleSkillNameId": "2725",
+          "name": "祝爆の美"
+        },
+        {
+          "cardBattleSkillNameId": "2726",
+          "name": "遅いね…うん"
         },
         {
           "cardBattleSkillNameId": "10136",

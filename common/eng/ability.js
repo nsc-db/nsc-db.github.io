@@ -19350,6 +19350,96 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2209",
+          "abilityName": "Entrusted Power of Salvation",
+          "abilityDescription": "Chakra +100. Cast Speed +1 when HP is above 80%",
+          "abilityEffectDescription": "最大チャクラ量が100アップ、HPが80％以上の時にスキル発動速度1段階アップ",
+          "effectIdx1": "20009",
+          "effectIdx2": "1391",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2210",
+          "abilityName": "Inherited Thoughts From Parens",
+          "abilityDescription": "HP +120%. Skkill Damage +120% for 2 turns",
+          "abilityEffectDescription": "最大HPが120%アップ、2回行動まで全スキルダメージ100%アップ",
+          "effectIdx1": "1221",
+          "effectIdx2": "30109",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2211",
+          "abilityName": "Resurrected Family Bond",
+          "abilityDescription": "Chakra +100. Skill Damage +100% when HP is above 80%",
+          "abilityEffectDescription": "最大チャクラ量が100アップ、HPが80％以上の時に全スキルダメージ100％アップ",
+          "effectIdx1": "20009",
+          "effectIdx2": "31709",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2212",
+          "abilityName": "Wife's Cultivating Love",
+          "abilityDescription": "HP +120%. SPD +150% for 2 turns",
+          "abilityEffectDescription": "最大HPが120%アップ、2回行動まで素早さ150%アップ",
+          "effectIdx1": "1221",
+          "effectIdx2": "2046",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2213",
+          "abilityName": "Father and Son's Legendary Love",
+          "abilityDescription": "Chakra +100. Skill Damage +80% when HP is above 80%",
+          "abilityEffectDescription": "最大チャクラ量が100アップ、HPが80％以上の時に全スキルダメージ80％アップ",
+          "effectIdx1": "20009",
+          "effectIdx2": "1505",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2214",
+          "abilityName": "Husband's Nurtured Dream",
+          "abilityDescription": "HP +150%. SPD +100% for 2 turns",
+          "abilityEffectDescription": "最大HPが150%アップ、2回行動まで素早さ100%アップ",
+          "effectIdx1": "1212",
+          "effectIdx2": "1692",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2215",
+          "abilityName": "Guardian's Resolution",
+          "abilityDescription": "For 5 turns, Protect all Konoha allies from Single Target Attacks",
+          "abilityEffectDescription": "5回行動するまで、木ノ葉隠れの里所属への単体スキル攻撃を受ける※かばうは最後の発動者が有効",
+          "effectIdx1": "2223",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2216",
+          "abilityName": "Essence of Wood Jutsu",
+          "abilityDescription": "HP +500% and SPD +150% if there's an enemy Destroyer",
+          "abilityEffectDescription": "敵に滅キャラがいるとHP500%アップ、敵に滅キャラがいると素早さ150%アップ",
+          "effectIdx1": "2225",
+          "effectIdx2": "2224",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2221",
+          "abilityName": "Free Spirited Destruction",
+          "abilityDescription": "SPD and Skill Damage +100% for 2 turns",
+          "abilityEffectDescription": "2回行動するまで素早さとスキルダメージが100%アップ",
+          "effectIdx1": "1692",
+          "effectIdx2": "30109",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2222",
+          "abilityName": "Channeling Sense of Beauty",
+          "abilityDescription": "Skill Damage +100% when HP is above 80%",
+          "abilityEffectDescription": "HP80%以上の時にスキルダメージが100%アップ",
+          "effectIdx1": "31709",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

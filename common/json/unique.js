@@ -10010,7 +10010,7 @@ window.unique=[
         {
           "crystalOverwriteEffectId": "848",
           "targetCrystal": "20501",
-          "description": "0",
+          "description": "2回行動まで全スキル無効、行動後HP50％回復、素早さ30％アップ",
           "charaIds": "108,112",
           "cardIds": "0",
           "charaGroupIds": "0",
@@ -10022,7 +10022,7 @@ window.unique=[
         {
           "crystalOverwriteEffectId": "849",
           "targetCrystal": "20502",
-          "description": "0",
+          "description": "2回行動するまで素早さ90％アップ、スキル発動速度1段階アップ",
           "charaIds": "108,112",
           "cardIds": "0",
           "charaGroupIds": "0",
@@ -10034,7 +10034,7 @@ window.unique=[
         {
           "crystalOverwriteEffectId": "850",
           "targetCrystal": "20503",
-          "description": "0",
+          "description": "全スキルダメージ100%アップ、高確率でスキル回避、行動後にチャクラが30%回復",
           "charaIds": "2104",
           "cardIds": "0",
           "charaGroupIds": "0",
@@ -10046,7 +10046,7 @@ window.unique=[
         {
           "crystalOverwriteEffectId": "851",
           "targetCrystal": "20504",
-          "description": "0",
+          "description": "チャクラ消費量半減、全スキルダメージ70％アップ、スキル発動速度1段階アップ",
           "charaIds": "2104,4303",
           "cardIds": "0",
           "charaGroupIds": "0",
@@ -10058,13 +10058,25 @@ window.unique=[
         {
           "crystalOverwriteEffectId": "852",
           "targetCrystal": "20505",
-          "description": "0",
+          "description": "最大HPと攻撃力が150%アップし、バトル開始時にチャクラ50％回復",
           "charaIds": "2104,4303",
           "cardIds": "0",
           "charaGroupIds": "0",
           "effectIdx1": "1212",
           "effectIdx2": "1268",
           "effectIdx3": "1115",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "853",
+          "targetCrystal": "20508",
+          "description": "全スキルダメージ100%アップ、スキルのランダムダメージ最大回数を30回増加、スキル発動速度1段階アップ",
+          "charaIds": "12001",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "774",
+          "effectIdx2": "2259",
+          "effectIdx3": "1840",
           "effectIdx4": "0"
         },
         {
@@ -10089,6 +10101,18 @@ window.unique=[
           "effectIdx1": "880",
           "effectIdx2": "2246",
           "effectIdx3": "0",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "856",
+          "targetCrystal": "20520",
+          "description": "0",
+          "charaIds": "303,304,305,306",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "684",
+          "effectIdx2": "1699",
+          "effectIdx3": "1996",
           "effectIdx4": "0"
         }
         ]

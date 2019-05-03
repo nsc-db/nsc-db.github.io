@@ -1694,6 +1694,20 @@ window.charaname=[
           "gender": "2"
         },
         {
+          "charaProfileId": "4303",
+          "charaId": "43",
+          "name": "Kushina Uzumaki",
+          "detail": null,
+          "charaLoveAffinityGroupId": "4310",
+          "birthday": "710",
+          "constellation": "4",
+          "height": "16500",
+          "weight": "4700",
+          "bloodType": "2",
+          "age": "0",
+          "gender": "2"
+        },
+        {
           "charaProfileId": "4401",
           "charaId": "44",
           "name": "Might Dai",
