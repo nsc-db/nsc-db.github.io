@@ -6061,11 +6061,11 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "2723",
-          "name": "0"
+          "name": "背刃殺"
         },
         {
           "cardBattleSkillNameId": "2724",
-          "name": "0"
+          "name": "もう後悔したくない…"
         },
         {
           "cardBattleSkillNameId": "2725",
@@ -6074,6 +6074,14 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "2726",
           "name": "遅いね…うん"
+        },
+        {
+          "cardBattleSkillNameId": "2727",
+          "name": "鷹爪襲陣"
+        },
+        {
+          "cardBattleSkillNameId": "2728",
+          "name": "見逃さない！"
         },
         {
           "cardBattleSkillNameId": "10136",

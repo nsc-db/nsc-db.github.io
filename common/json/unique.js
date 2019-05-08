@@ -10106,13 +10106,37 @@ window.unique=[
         {
           "crystalOverwriteEffectId": "856",
           "targetCrystal": "20520",
-          "description": "0",
+          "description": "最大HPが100%アップ、2回行動するまで全スキル無効化、3回目以降は全スキル半減",
           "charaIds": "303,304,305,306",
           "cardIds": "0",
           "charaGroupIds": "0",
           "effectIdx1": "684",
           "effectIdx2": "1699",
           "effectIdx3": "1996",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "857",
+          "targetCrystal": "20517",
+          "description": "HP回復スキルの基礎回復量が50％アップし、最大HP100%アップ、状態異常無効",
+          "charaIds": "13401",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "322",
+          "effectIdx2": "684",
+          "effectIdx3": "82",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "858",
+          "targetCrystal": "20518",
+          "description": "チャクラ消費量が50%減少し、素早さ100%アップ、スキル発動速度1段階アップ",
+          "charaIds": "13401",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "895",
+          "effectIdx2": "13099",
+          "effectIdx3": "1840",
           "effectIdx4": "0"
         }
         ]

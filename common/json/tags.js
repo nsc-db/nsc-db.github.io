@@ -18543,6 +18543,27 @@ window.tags=[
 
 },
 {
+          "cardId": "20050512",
+          "rare": "5",
+          "tag": "ex-6",
+          "skill1damage": "",
+          "skill2damage": "",
+          "nickname": "Ex Karin",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
+},
+{
           "cardId": "20050513",
           "rare": "5",
           "tag": "ex-6",

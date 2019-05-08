@@ -19504,18 +19504,18 @@ window.ability=[
         },
         {
           "abilityId": "2219",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "悔い残さない決断",
+          "abilityDescription": "敵か味方にうちはサスケ（年代問わず）が生存しているとスキルダメージが200%アップ、確率でスキル回避",
+          "abilityEffectDescription": "敵か味方にうちはサスケ（年代問わず）が生存しているとスキルダメージが200%アップ、確率でスキル回避",
           "effectIdx1": "2229",
           "effectIdx2": "1783",
           "effectIdx3": "0"
         },
         {
           "abilityId": "2220",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "薬事の秀才",
+          "abilityDescription": "2回行動まで素早さ150%アップ&amp;チャクラ消費量半減、弱体と状態異常を無効化",
+          "abilityEffectDescription": "2回行動まで素早さ150%アップ&amp;チャクラ消費量半減、弱体と状態異常を無効化",
           "effectIdx1": "880",
           "effectIdx2": "2002",
           "effectIdx3": "1521"
@@ -19537,6 +19537,24 @@ window.ability=[
           "effectIdx1": "31709",
           "effectIdx2": "0",
           "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2223",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "2265",
+          "effectIdx2": "2266",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2224",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "2256",
+          "effectIdx2": "2257",
+          "effectIdx3": "2258"
         },
         {
           "abilityId": "10000",

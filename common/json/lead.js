@@ -11467,8 +11467,8 @@ window.lead=[
         },
         {
           "cardLeaderSkillId": "897",
-          "name": "0",
-          "description": "0",
+          "name": "想いを象る刃",
+          "description": "木ノ葉隠れの里所属の最大HPとスキルダメージを110％アップする",
           "effectIdx1": "10127",
           "effectIdx2": "30010",
           "effectIdx3": "0",
@@ -11490,6 +11490,19 @@ window.lead=[
           "target1Param": "7",
           "target2Category": "1",
           "target2Param": "6"
+        },
+        {
+          "cardLeaderSkillId": "899",
+          "name": "想い捧ぐ献身",
+          "description": "勇属性と“鷹”所属の最大HPを130%アップし、行動するたびにHPとチャクラを20%回復する",
+          "effectIdx1": "2053",
+          "effectIdx2": "628",
+          "effectIdx3": "583",
+          "compType": "2",
+          "target1Category": "1",
+          "target1Param": "7",
+          "target2Category": "2",
+          "target2Param": "10"
         },
         {
           "cardLeaderSkillId": "8507",
