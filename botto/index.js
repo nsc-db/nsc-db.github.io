@@ -41,6 +41,8 @@ var searchreactions = [
 ]
 const abilitys = JSON.parse(fs.readFileSync("../common/eng/ability.js", "utf8").slice(15));
 const characterInfo = JSON.parse(fs.readFileSync('../common/eng/chara.js', 'utf8').slice(13));
+const characterInfo2 = JSON.parse(fs.readFileSync('../modified/990116.plist.json', 'utf8'));
+
 const charNames = JSON.parse(fs.readFileSync('../common/eng/charaname.js', 'utf8').slice(17));
 const key = JSON.parse(fs.readFileSync('../common/eng/key.js', 'utf8').slice(11));
 const leaderSKills = JSON.parse(fs.readFileSync('../common/eng/lead.js', 'utf8').slice(12));
@@ -55,6 +57,7 @@ var matchlist = []
 
 client.on('ready', () => {
     console.log(`Logged in as ${client.user.tag}!`);
+    db2 = setup(db2)
     client.user.setPresence({ game: { name: '^match name' }, status: 'busy' });
 });
 
@@ -75,6 +78,7 @@ for (let i in characterInfo) {
         [id]: {
             ability1: characterInfo[i]['abilityId1'],
             ability2: characterInfo[i]['abilityId2'],
+            ability3: "0",
             skill1: characterInfo[i]['battleSkillId1'],
             skill2: characterInfo[i]['battleSkillId2'],
             lead: characterInfo[i]['leaderSkillId'],
@@ -88,75 +92,87 @@ fs.readdirSync('../common/assets/img/units/icons/').forEach(file => {
     thumbs.push(file)
 })
 
+for (let i in characterInfo2) {
+    if(db2[characterInfo2[i]['cardId']]){
+    if (characterInfo2[i].battleSkillId1 != "0"){
+        db2[characterInfo2[i]['cardId']].skill1 = characterInfo2[i].battleSkillId1
+    }
+    if (characterInfo2[i].battleSkillId2 != "0"){
+        db2[characterInfo2[i]['cardId']].skill2 = characterInfo2[i].battleSkillId2
+    }
+    if (characterInfo2[i].abilityId1 != "0"){
+        db2[characterInfo2[i]['cardId']].ability1 = characterInfo2[i].abilityId1
+    }
+    if (characterInfo2[i].abilityId2 != "0"){
+        db2[characterInfo2[i]['cardId']].ability2 = characterInfo2[i].abilityId2
+    }
+    if (characterInfo2[i].abilityId3 != "0"){
+        db2[characterInfo2[i]['cardId']].ability3 = characterInfo2[i].abilityId3
+    }
+}
+    
+}
+function setup(db2){
 for (let i in db2) {
-    check6Star(i).then(function (Star) {
-        let temp = []
-        temp.push(getLeaderSkill(db2[i].lead))
-        temp.push(getName(db2[i].name))
-        temp.push(checkURL(i))
-        temp.push(getVideo(i))
-        temp.push(getRoles(i))
-        if (Star[0] == 0 || Star[0] == undefined) {
-            temp.push(getAbilities(db2[i].ability1))
-            temp.push(getAbilities(db2[i].ability2))
-            temp.push(getSkills(db2[i].skill1))
-            temp.push(getSkills(db2[i].skill2))
-            temp.push(getSpeed(db2[i].skill1))
-            temp.push(getType(db2[i].skill1))
-            temp.push(getSpeed(db2[i].skill2))
-            temp.push(getType(db2[i].skill2))
-        }
-        else {
-            temp.push(getAbilities(Star[0]))
-            temp.push(getAbilities(Star[1]))
-            temp.push(getSkills(Star[2]))
-            temp.push(getSkills(Star[3]))
-            temp.push(getSpeed(Star[2]))
-            temp.push(getType(Star[2]))
-            temp.push(getSpeed(Star[3]))
-            temp.push(getType(Star[3]))
+    console.log(db2[i])
+    let temp = []
+    temp.push(getLeaderSkill(db2[i].lead))
+    temp.push(getName(db2[i].name))
+    temp.push(checkURL(i))
+    temp.push(getVideo(i))
+    temp.push(getAbilities(db2[i].ability1))
+    temp.push(getAbilities(db2[i].ability2))
+    temp.push(getAbilities(db2[i].ability3))
+    temp.push(getSkills(db2[i].skill1))
+    temp.push(getSkills(db2[i].skill2))
+    temp.push(getSpeed(db2[i].skill1))
+    temp.push(getType(db2[i].skill1))
+    temp.push(getSpeed(db2[i].skill2))
+    temp.push(getType(db2[i].skill2))
 
-        }
-        Promise.all(temp).then(function (abc) {
-            var regex = /embed\//gi;
 
-            db2[i].lead = abc[0]
-            db2[i].name = abc[1]
-            db2[i].url = abc[2]
-            db2[i].video = abc[3].replace(regex, 'watch?v=')
-            db2[i].roles = abc[4]
-            db2[i].ability1 = abc[5]
-            db2[i].ability2 = abc[6]
-            db2[i].skill1 = abc[7]
-            db2[i].skill2 = abc[8]
-            db2[i].skill1spd = abc[9]
-            db2[i].skill1type = abc[10]
-            db2[i].skill2spd = abc[11]
-            db2[i].skill2type = abc[12]
-        });
-    })
 
+    Promise.all(temp).then(function (abc) {
+        var regex = /embed\//gi;
+
+        db2[i].lead = abc[0]
+        db2[i].name = abc[1]
+        db2[i].url = abc[2]
+        db2[i].video = abc[3].replace(regex, 'watch?v=')
+        db2[i].ability1 = abc[4]
+        db2[i].ability2 = abc[5]
+        db2[i].ability3 = abc[6]
+        db2[i].skill1 = abc[7]
+        db2[i].skill2 = abc[8]
+        db2[i].skill1spd = abc[9]
+        db2[i].skill1type = abc[10]
+        db2[i].skill2spd = abc[11]
+        db2[i].skill2type = abc[12]
+    });
+}
+return db2
 }
 
 
 
-function check6Star(x) {
-    return new Promise(function (resolve, reject) {
-        var arr = []
-        for (let a in evo) {
-            if (evo[a]['conditionValue'] == '6') {
-                if (evo[a]['cardId'] == x) {
-                    arr.push(evo[a]['abilityId1'])
-                    arr.push(evo[a]['abilityId2'])
-                    arr.push(evo[a]['battleSkillId1'])
-                    arr.push(evo[a]['battleSkillId2'])
-                    resolve(arr)
-                }
-            }
-        }
-        resolve(0)
-    })
-}
+
+// function check6Star(x) {
+//     return new Promise(function (resolve, reject) {
+//         var arr = []
+//         for (let a in evo) {
+//             if (evo[a]['conditionValue'] == '6') {
+//                 if (evo[a]['cardId'] == x) {
+//                     arr.push(evo[a]['abilityId1'])
+//                     arr.push(evo[a]['abilityId2'])
+//                     arr.push(evo[a]['battleSkillId1'])
+//                     arr.push(evo[a]['battleSkillId2'])
+//                     resolve(arr)
+//                 }
+//             }
+//         }
+//         resolve(0)
+//     })
+// }
 
 
 function editInfo(msg, x) {
@@ -174,22 +190,19 @@ function editInfo(msg, x) {
             title: "Name",
             color: 3447003,
             description: db2[x].name + ', ' + db2[x].title,
-            fields: [{
-                name: "Roles",
-                value: '**Main Role** : ' + db2[x].roles[0] + ' **Rating**: ' + db2[x].roles[1] + '\n**Secondary Role** : ' + db2[x].roles[2] + ' **Rating**: ' + db2[x].roles[3],
-            },
-            {
-                name: "Skills",
-                value: '**Skill1** : ' + db2[x].skill1 + '**\n' + db2[x].skill1spd + ', ' + db2[x].skill1type[0] + ', ' + db2[x].skill1type[1] + '**\n**Skill2** : ' + db2[x].skill2 + '**\n' + db2[x].skill2spd + ', ' + db2[x].skill2type[0] + ', ' + db2[x].skill2type[1] + '**',
-            },
-            {
-                name: "Passives",
-                value: '**Ability1** : ' + db2[x].ability1 + '\n**Ability2** : ' + db2[x].ability2,
-            },
-            {
-                name: "Leader Skill",
-                value: "" + db2[x].lead
-            }
+            fields: [
+                {
+                    name: "Skills",
+                    value: '**Skill1** : ' + db2[x].skill1 + '**\n' + db2[x].skill1spd + ', ' + db2[x].skill1type[0] + ', ' + db2[x].skill1type[1] + '**\n**Skill2** : ' + db2[x].skill2 + '**\n' + db2[x].skill2spd + ', ' + db2[x].skill2type[0] + ', ' + db2[x].skill2type[1] + '**',
+                },
+                {
+                    name: "Passives",
+                    value: '**Ability1** : ' + db2[x].ability1 + '\n**Ability2** : ' + db2[x].ability2 + '\n**Ability3** : ' + db2[x].ability,
+                },
+                {
+                    name: "Leader Skill",
+                    value: "" + db2[x].lead
+                }
             ],
         }
     })
@@ -211,22 +224,20 @@ function sendMessage(msg, x) {
             title: "Name",
             color: 3447003,
             description: db2[x].name + ', ' + db2[x].title,
-            fields: [{
-                name: "Roles",
-                value: '**Main Role** : ' + db2[x].roles[0] + ' **Rating**: ' + db2[x].roles[1] + '\n**Secondary Role** : ' + db2[x].roles[2] + ' **Rating**: ' + db2[x].roles[3],
-            },
-            {
-                name: "Skills",
-                value: '**Skill1** : ' + db2[x].skill1 + '**\n' + db2[x].skill1spd + ', ' + db2[x].skill1type[0] + ', ' + db2[x].skill1type[1] + '**\n**Skill2** : ' + db2[x].skill2 + '**\n' + db2[x].skill2spd + ', ' + db2[x].skill2type[0] + ', ' + db2[x].skill2type[1] + '**',
-            },
-            {
-                name: "Passives",
-                value: '**Ability1** : ' + db2[x].ability1 + '\n**Ability2** : ' + db2[x].ability2,
-            },
-            {
-                name: "Leader Skill",
-                value: "" + db2[x].lead
-            }
+            fields: [
+                {
+                    name: "Skills",
+                    value: '**Skill1** : ' + db2[x].skill1 + '**\n' + db2[x].skill1spd + ', ' + db2[x].skill1type[0] + ', ' + db2[x].skill1type[1] + '**\n**Skill2** : ' + db2[x].skill2 + '**\n' + db2[x].skill2spd + ', ' + db2[x].skill2type[0] + ', ' + db2[x].skill2type[1] + '**',
+                },
+                {
+                    name: "Passives",
+                    value: '**Ability1** : ' + db2[x].ability1 + '\n**Ability2** : ' + db2[x].ability2 + '\n**Ability3** : ' + db2[x].ability3,
+                
+                },
+                {
+                    name: "Leader Skill",
+                    value: "" + db2[x].lead
+                }
             ],
         }
     })
@@ -366,22 +377,6 @@ function getVideo(id) {
 }
 
 
-function getRoles(id) {
-    return new Promise(function (resolve, reject) {
-        let tags = []
-        for (let i in tag) {
-            if (tag[i].cardId == id) {
-                tags.push(tag[i].role)
-                tags.push(tag[i].rolerating)
-                tags.push(tag[i].secondary)
-                tags.push(tag[i].secondaryrating)
-            }
-        }
-        resolve(tags)
-    })
-}
-
-
 function getLeaderSkill(id) {
     return new Promise(function (resolve, reject) {
         var lead = [];
@@ -411,6 +406,7 @@ function checkURL(x) {
 
 
 client.on('message', msg => {
+
     if (msg.author.id == '479376809696165899') {
         if (aggrsz === true) {
             timer = setTimeout(function () { msg.delete(0).catch(console.log("duplicate request")); }, aggrtimeout)
@@ -484,19 +480,19 @@ client.on('message', msg => {
             matchlist = []
             let thing = []
             x = x[0]
-            for (let i in db2){
-                thing.push(getMatches(i,x))
+            for (let i in db2) {
+                thing.push(getMatches(i, x))
 
 
             }
             Promise.all(thing)
 
                 .then(function (matches) {
-                    downloadImage(msg.attachments.first().url,matches.filter(Boolean),msg);
+                    downloadImage(msg.attachments.first().url, matches.filter(Boolean), msg);
                 })
         }
 
-    } 
+    }
 
     if (msg.content.split(" ")[0].toLowerCase() === '!search') {
         var x = [msg.content.split(" ")[1]]
@@ -521,10 +517,6 @@ client.on('message', msg => {
                 message.addField(output[0][i], names[0][i])
             }
             msg.channel.send(message).then(function (message) {
-                clearTimeout(timer);
-                if (output.length >= 2) {
-                    timer = setTimeout(function () { msg.delete(0).catch(console.log("duplicate request")); }, aggrtimeout * 2)
-                }
                 let react = searchreactions.slice(0, 2)//for later  output[0].length + 2);
                 Promise.each(react, async function (reaction) {
                     await message.react(reaction)
@@ -608,7 +600,8 @@ client.on('message', msg => {
 })
 
 
-client.login(process.env.token);
+// client.login(process.env.token);
+client.login("NDc5Mzc2ODA5Njk2MTY1ODk5.DykXFQ.B_yNaX062sh_a91WRctVPrOiW_o");
 
 function sendThumb(msg, x) {
     msg.channel.send({
@@ -673,7 +666,7 @@ function download(url) {
         .pipe(fs.createWriteStream('meme.png'));
 }
 
-function downloadImage(uri,choice,msg) {
+function downloadImage(uri, choice, msg) {
     let images = [{
         url: uri,
         file_name: 'bluebird.png'
@@ -693,7 +686,7 @@ function downloadImage(uri,choice,msg) {
             abc = abc.filter(Boolean)
             abc.sort()
             console.log(abc)
-            sendMessage(msg,abc[0][1])
+            sendMessage(msg, abc[0][1])
 
         })
     }).catch(err => {
@@ -706,10 +699,10 @@ function diff(file, file2) {
     return new Promise(function (resolve, reject) {
 
         resemble(file).compareTo('../common/assets/img/units/' + file2 + "_6.png").ignoreAntialiasing().scaleToSameSize().onComplete(function (data) {
-            if (data.misMatchPercentage){
+            if (data.misMatchPercentage) {
                 resolve([data.misMatchPercentage, file2]);
             }
-            else{
+            else {
                 resolve("")
             }
             /*
@@ -726,15 +719,15 @@ function diff(file, file2) {
     });
 }
 
-function getMatches(i,x) {
+function getMatches(i, x) {
     return new Promise(function (resolve, reject) {
 
-            let name = String(db2[i].name)
-            if (name.toLowerCase().includes(x.toLowerCase())) {
-                resolve(i)
-            }
-            else{
-                resolve("")
-            }
+        let name = String(db2[i].name)
+        if (name.toLowerCase().includes(x.toLowerCase())) {
+            resolve(i)
+        }
+        else {
+            resolve("")
+        }
     })
 }
