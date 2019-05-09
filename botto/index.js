@@ -58,7 +58,7 @@ var matchlist = []
 client.on('ready', () => {
     console.log(`Logged in as ${client.user.tag}!`);
     db2 = setup(db2)
-    client.user.setPresence({ game: { name: '^match name' }, status: 'busy' });
+    client.user.setPresence({ game: { name: '!help' }, status: 'busy' });
 });
 
 
