@@ -19540,21 +19540,57 @@ window.ability=[
         },
         {
           "abilityId": "2223",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
-          "effectIdx1": "2265",
-          "effectIdx2": "2266",
+          "abilityName": "見極める観察力",
+          "abilityDescription": "敵か味方にうちはサスケ（年代問わず）が生存していると素早さ130%アップ",
+          "abilityEffectDescription": "敵か味方にうちはサスケ（年代問わず）が生存していると素早さ130%アップ",
+          "effectIdx1": "2255",
+          "effectIdx2": "0",
           "effectIdx3": "0"
         },
         {
           "abilityId": "2224",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "満ち溢れる回復力",
+          "abilityDescription": "HP60%以上の時、攻撃力と素早さとスキルダメージが120%アップ",
+          "abilityEffectDescription": "HP60%以上の時、攻撃力と素早さとスキルダメージが120%アップ",
           "effectIdx1": "2256",
           "effectIdx2": "2257",
           "effectIdx3": "2258"
+        },
+        {
+          "abilityId": "2225",
+          "abilityName": "策謀の生き様",
+          "abilityDescription": "写輪眼タイプのスキル無効、HP50%以上の時にチャクラ消費量半減",
+          "abilityEffectDescription": "写輪眼タイプのスキル無効、HP50%以上の時にチャクラ消費量半減",
+          "effectIdx1": "79",
+          "effectIdx2": "2260",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2226",
+          "abilityName": "身に宿す無数の業",
+          "abilityDescription": "2回行動まで素早さ150%アップ、5回行動まで攻撃を受けるとHP50%回復",
+          "abilityEffectDescription": "2回行動まで素早さ150%アップ、5回行動まで攻撃を受けるとHP50%回復",
+          "effectIdx1": "2046",
+          "effectIdx2": "2261",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2227",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "20009",
+          "effectIdx2": "2219",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2228",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "82",
+          "effectIdx2": "1751",
+          "effectIdx3": "2262"
         },
         {
           "abilityId": "10000",
@@ -19931,6 +19967,24 @@ window.ability=[
           "abilityDescription": "特定キャラの死亡で特殊状態付与発動",
           "abilityEffectDescription": "特定キャラの死亡で特殊状態付与発動",
           "effectIdx1": "2172",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "15001",
+          "abilityName": "対無所属で素早さアップ",
+          "abilityDescription": "敵に無所属がいる場合素早さ100%アップ",
+          "abilityEffectDescription": "敵に無所属がいる場合素早さ100%アップ",
+          "effectIdx1": "2127",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "20001",
+          "abilityName": "拘束の引力",
+          "abilityDescription": "2回行動まで素早さ150%アップ",
+          "abilityEffectDescription": "2回行動まで素早さ150%アップ",
+          "effectIdx1": "2046",
           "effectIdx2": "0",
           "effectIdx3": "0"
         },
