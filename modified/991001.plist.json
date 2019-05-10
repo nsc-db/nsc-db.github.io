@@ -75299,6 +75299,851 @@
           "message": "どうしちまったんだ… \r\n…サスケ！？"
         },
         {
+          "scriptMessageId": "27555",
+          "speechCharactorId": "151",
+          "message": "うちは… \r\nサスケか…"
+        },
+        {
+          "scriptMessageId": "27556",
+          "speechCharactorId": "151",
+          "message": "ちょうどいい… \r\n…お前達の写輪眼も戴くとしよう"
+        },
+        {
+          "scriptMessageId": "27557",
+          "speechCharactorId": "142",
+          "message": "な…何？ \r\nあの右腕？ \r\n写輪眼がいくつも… \r\nキモイ…！"
+        },
+        {
+          "scriptMessageId": "27558",
+          "speechCharactorId": "161",
+          "message": "…聞いておきたい事が一つある"
+        },
+        {
+          "scriptMessageId": "27559",
+          "speechCharactorId": "161",
+          "message": "お前を含む木ノ葉上層部の命令で \r\nうちはイタチに \r\nオレの一族を抹殺させたのは本当か？"
+        },
+        {
+          "scriptMessageId": "27560",
+          "speechCharactorId": "151",
+          "message": "これが“須佐能乎”という奴か…"
+        },
+        {
+          "scriptMessageId": "27561",
+          "speechCharactorId": "161",
+          "message": "本当かと聞いてるんだ！！"
+        },
+        {
+          "scriptMessageId": "27562",
+          "speechCharactorId": "151",
+          "message": "イタチめ…死に際に… \r\n全て喋りおったか… \r\nやはり…お前だけは… \r\n特別だった…ようだな"
+        },
+        {
+          "scriptMessageId": "27563",
+          "speechCharactorId": "161",
+          "message": "本当…だったって事か"
+        },
+        {
+          "scriptMessageId": "27564",
+          "speechCharactorId": "142",
+          "message": "ヒイイ――！"
+        },
+        {
+          "scriptMessageId": "27565",
+          "speechCharactorId": "151",
+          "message": "自己犠牲…それが忍だ…"
+        },
+        {
+          "scriptMessageId": "27566",
+          "speechCharactorId": "151",
+          "message": "そういう者達の… \r\n…おかげで… \r\n平和は維持されてきたのだ"
+        },
+        {
+          "scriptMessageId": "27567",
+          "speechCharactorId": "151",
+          "message": "イタチの遺志を… \r\n…はき違えたお前には… \r\n分からぬだろうが…"
+        },
+        {
+          "scriptMessageId": "27568",
+          "speechCharactorId": "151",
+          "message": "…だがお前に秘密を明かしたイタチは… \r\n木ノ葉に対する裏切――"
+        },
+        {
+          "scriptMessageId": "27569",
+          "speechCharactorId": "161",
+          "message": "……"
+        },
+        {
+          "scriptMessageId": "27570",
+          "speechCharactorId": "161",
+          "message": "それ以上イタチを語るな"
+        },
+        {
+          "scriptMessageId": "27571",
+          "speechCharactorId": "151",
+          "message": "そうだな \r\n次は眼で語る戦いにしよう"
+        },
+        {
+          "scriptMessageId": "27572",
+          "speechCharactorId": "142",
+          "message": "え！？"
+        },
+        {
+          "scriptMessageId": "27573",
+          "speechCharactorId": "142",
+          "message": "どういう事だ！？ \r\nさっきので確実に死んだハズ！！"
+        },
+        {
+          "scriptMessageId": "27574",
+          "speechCharactorId": "142",
+          "message": "感知できるダンゾウのチャクラは \r\n一つだけ… \r\n影分身じゃないのは確か！ \r\nなら…幻術か！？"
+        },
+        {
+          "scriptMessageId": "27575",
+          "speechCharactorId": "151",
+          "message": "“須佐能乎”… \r\n身を守るにはもってこいだな \r\n攻撃力も申し分ない"
+        },
+        {
+          "scriptMessageId": "27576",
+          "speechCharactorId": "142",
+          "message": "サスケの中のチャクラの乱れは \r\n感じられないし… \r\n私のチャクラも安定してる… \r\nサスケも私も幻術にかかってる訳じゃない…"
+        },
+        {
+          "scriptMessageId": "27577",
+          "speechCharactorId": "151",
+          "message": "“天照”…久しぶりに見たな"
+        },
+        {
+          "scriptMessageId": "27578",
+          "speechCharactorId": "151",
+          "message": "やはりイタチの弟だな"
+        },
+        {
+          "scriptMessageId": "27579",
+          "speechCharactorId": "142",
+          "message": "腕の写輪眼のひとつが… \r\n…閉じた？"
+        },
+        {
+          "scriptMessageId": "27580",
+          "speechCharactorId": "161",
+          "message": "お前がイタチを語るなと言ってるんだ"
+        },
+        {
+          "scriptMessageId": "27581",
+          "speechCharactorId": "151",
+          "message": "兄弟… \r\n能力は同じとて \r\n眼が悟るものはこうも違うものか…"
+        },
+        {
+          "scriptMessageId": "27582",
+          "speechCharactorId": "142",
+          "message": "これって……"
+        },
+        {
+          "scriptMessageId": "27583",
+          "speechCharactorId": "151",
+          "message": "幻術時間を自在に操った \r\nイタチの”月読”とは \r\n天地の差だな"
+        },
+        {
+          "scriptMessageId": "27584",
+          "speechCharactorId": "161",
+          "message": "くっ…"
+        },
+        {
+          "scriptMessageId": "27585",
+          "speechCharactorId": "253",
+          "message": "身体を縛る呪印か…"
+        },
+        {
+          "scriptMessageId": "27586",
+          "speechCharactorId": "142",
+          "message": "！？"
+        },
+        {
+          "scriptMessageId": "27587",
+          "speechCharactorId": "142",
+          "message": "サスケ…動けないのか！？"
+        },
+        {
+          "scriptMessageId": "27588",
+          "speechCharactorId": "151",
+          "message": "なぜ…？ \r\nこんなゴミの命など \r\n残す必要があったというのだ \r\nイタチ…"
+        },
+        {
+          "scriptMessageId": "27589",
+          "speechCharactorId": "142",
+          "message": "くっ"
+        },
+        {
+          "scriptMessageId": "27590",
+          "speechCharactorId": "142",
+          "message": "サスケェ！！"
+        },
+        {
+          "scriptMessageId": "27591",
+          "speechCharactorId": "151",
+          "message": "見てみろ…この様を \r\n…こいつは \r\n…お前の唯一の――"
+        },
+        {
+          "scriptMessageId": "27592",
+          "speechCharactorId": "151",
+          "message": "失敗そのものではないか"
+        },
+        {
+          "scriptMessageId": "27593",
+          "speechCharactorId": "151",
+          "message": "“須佐能乎”か…？ \r\nさっきまでとはまるで違うぞ！"
+        },
+        {
+          "scriptMessageId": "27594",
+          "speechCharactorId": "142",
+          "message": "これがサスケ！？ \r\nこのチャクラ… \r\nもうほとんど以前のサスケじゃない！"
+        },
+        {
+          "scriptMessageId": "27595",
+          "speechCharactorId": "151",
+          "message": "印が間に合わん！ \r\n仕方ない！"
+        },
+        {
+          "scriptMessageId": "27596",
+          "speechCharactorId": "142",
+          "message": "一気にダンゾウのチャクラが減った！？ \r\n……そこまでしてなぜ \r\n“須佐能乎”の攻撃をかわす必要がある？"
+        },
+        {
+          "scriptMessageId": "27597",
+          "speechCharactorId": "142",
+          "message": "こいつは死なない能力のハズ…… \r\n……イヤ！死ぬんだ！！"
+        },
+        {
+          "scriptMessageId": "27598",
+          "speechCharactorId": "142",
+          "message": "サスケェ！ \r\nそのダンゾウは本物だァ！！ \r\n今なら殺れる！！"
+        },
+        {
+          "scriptMessageId": "27599",
+          "speechCharactorId": "142",
+          "message": "！！"
+        },
+        {
+          "scriptMessageId": "27600",
+          "speechCharactorId": "142",
+          "message": "腕の眼が閉じたら \r\nダンゾウのチャクラがさらに減った… \r\nやっぱりこの術には \r\nかなりのリスクがあるんだ"
+        },
+        {
+          "scriptMessageId": "27601",
+          "speechCharactorId": "142",
+          "message": "だから術を \r\n一度解く必要があった…！ \r\nチャクラを温存するために！"
+        },
+        {
+          "scriptMessageId": "27602",
+          "speechCharactorId": "142",
+          "message": "それともう一つ… \r\nあの右腕の写輪眼が \r\n奴の術に関係しているのは確か！ \r\n閉じていくあの眼に秘密がある！"
+        },
+        {
+          "scriptMessageId": "27603",
+          "speechCharactorId": "253",
+          "message": "見る限り腕の写輪眼は十個 …\r\nそして初代の細胞…"
+        },
+        {
+          "scriptMessageId": "27604",
+          "speechCharactorId": "253",
+          "message": "うちはの力と柱間の力… \r\n九尾をコントロールするつもりで \r\nいるようだな"
+        },
+        {
+          "scriptMessageId": "27605",
+          "speechCharactorId": "253",
+          "message": "間違いない… \r\nこれはうちはの中でも \r\n禁術にされていた瞳術"
+        },
+        {
+          "scriptMessageId": "27606",
+          "speechCharactorId": "253",
+          "message": "イザナギ"
+        },
+        {
+          "scriptMessageId": "27607",
+          "speechCharactorId": "142",
+          "message": "サスケェ！！"
+        },
+        {
+          "scriptMessageId": "27608",
+          "speechCharactorId": "161",
+          "message": "ウオオオオオ！!"
+        },
+        {
+          "scriptMessageId": "27609",
+          "speechCharactorId": "253",
+          "message": "術者のダメージや \r\n死を含めた不利なものを \r\n夢に描きかえる事ができ――"
+        },
+        {
+          "scriptMessageId": "27610",
+          "speechCharactorId": "253",
+          "message": "そして術者の攻撃などで \r\n有利となるものは現実にできる"
+        },
+        {
+          "scriptMessageId": "27611",
+          "speechCharactorId": "253",
+          "message": "幻と現実の狭間を \r\nコントロールできる―― \r\n己自身へかける究極幻術！！"
+        },
+        {
+          "scriptMessageId": "27612",
+          "speechCharactorId": "253",
+          "message": "…そしてイザナギを \r\n使用したその眼は \r\n光を失い二度と開く事はない……"
+        },
+        {
+          "scriptMessageId": "27613",
+          "speechCharactorId": "151",
+          "message": "マダラめ… \r\n参戦してくる様子は無さそうだが… \r\n奴とやり合う力も \r\n残しておかねばならん…"
+        },
+        {
+          "scriptMessageId": "27614",
+          "speechCharactorId": "151",
+          "message": "しかし…この“須佐能乎” \r\n…簡単にはいかん あの矢の攻撃… \r\nかわすのは難しい…"
+        },
+        {
+          "scriptMessageId": "27615",
+          "speechCharactorId": "151",
+          "message": "イザナギを解く訳にもいくまい… \r\n残りは五つ… \r\nそろそろ決着をつけねば…"
+        },
+        {
+          "scriptMessageId": "27616",
+          "speechCharactorId": "151",
+          "message": "この一分にかけるか…"
+        },
+        {
+          "scriptMessageId": "27617",
+          "speechCharactorId": "151",
+          "message": "口寄せの術！"
+        },
+        {
+          "scriptMessageId": "27618",
+          "speechCharactorId": "151",
+          "message": "これで“須佐能乎”も動けまい…"
+        },
+        {
+          "scriptMessageId": "27619",
+          "speechCharactorId": "161",
+          "message": "その右腕の十個全てが閉じた時… \r\nお前の術が解けるようだな"
+        },
+        {
+          "scriptMessageId": "27620",
+          "speechCharactorId": "151",
+          "message": "お前… \r\nイザナギの事を知っていたのか？"
+        },
+        {
+          "scriptMessageId": "27621",
+          "speechCharactorId": "161",
+          "message": "やはりそうか！"
+        },
+        {
+          "scriptMessageId": "27622",
+          "speechCharactorId": "151",
+          "message": "カマをかけたか… \r\n小賢しい奴だ"
+        },
+        {
+          "scriptMessageId": "27623",
+          "speechCharactorId": "142",
+          "message": "バ…バカ！ \r\n何で自分から！？ \r\nとにかく今は離れろ！ \r\n長期戦にもちこめ！"
+        },
+        {
+          "scriptMessageId": "27624",
+          "speechCharactorId": "151",
+          "message": "早過ぎたな… \r\nまだ眼は開いている…"
+        },
+        {
+          "scriptMessageId": "27625",
+          "speechCharactorId": "151",
+          "message": "イタチの所へ行って \r\n説教でもされてくると…よい…"
+        },
+        {
+          "scriptMessageId": "27626",
+          "speechCharactorId": "151",
+          "message": "ワシの勝ちだ"
+        },
+        {
+          "scriptMessageId": "27627",
+          "speechCharactorId": "151",
+          "message": "ぐはっ！"
+        },
+        {
+          "scriptMessageId": "27628",
+          "speechCharactorId": "151",
+          "message": "…なぜイザナギが起動しない！！？"
+        },
+        {
+          "scriptMessageId": "27629",
+          "speechCharactorId": "161",
+          "message": "イタチに会うのは貴様の方だ…"
+        },
+        {
+          "scriptMessageId": "27630",
+          "speechCharactorId": "142",
+          "message": "やっぱり！ \r\nウチが感じた通り \r\n今のダンゾウは実体だ！"
+        },
+        {
+          "scriptMessageId": "27631",
+          "speechCharactorId": "151",
+          "message": "う…ぐっ…"
+        },
+        {
+          "scriptMessageId": "27632",
+          "speechCharactorId": "161",
+          "message": "これが眼で語る戦いだ"
+        },
+        {
+          "scriptMessageId": "27633",
+          "speechCharactorId": "151",
+          "message": "このワシが…！ \r\nこんな… \r\n小僧に……！！"
+        },
+        {
+          "scriptMessageId": "27634",
+          "speechCharactorId": "151",
+          "message": "ワシはまだこんな所では \r\n死ねん！！！"
+        },
+        {
+          "scriptMessageId": "27635",
+          "speechCharactorId": "142",
+          "message": "しつこい……なんて奴だ…！"
+        },
+        {
+          "scriptMessageId": "27636",
+          "speechCharactorId": "151",
+          "message": "まだだ…"
+        },
+        {
+          "scriptMessageId": "27637",
+          "speechCharactorId": "151",
+          "message": "ここからが… \r\n眼で… \r\n…語る戦いだ……"
+        },
+        {
+          "scriptMessageId": "27638",
+          "speechCharactorId": "142",
+          "message": "キャ！！"
+        },
+        {
+          "scriptMessageId": "27639",
+          "speechCharactorId": "151",
+          "message": "瞳力を使いすぎたな"
+        },
+        {
+          "scriptMessageId": "27640",
+          "speechCharactorId": "142",
+          "message": "サスケェ…"
+        },
+        {
+          "scriptMessageId": "27641",
+          "speechCharactorId": "151",
+          "message": "もたもたはしてられん \r\n…傷が深すぎる"
+        },
+        {
+          "scriptMessageId": "27642",
+          "speechCharactorId": "161",
+          "message": "自己犠牲を語ったお前が \r\n…人質とはな"
+        },
+        {
+          "scriptMessageId": "27643",
+          "speechCharactorId": "151",
+          "message": "木ノ葉の為… \r\n忍の世の為 \r\nワシはこんなところで \r\n…死ぬ訳にはいかん…"
+        },
+        {
+          "scriptMessageId": "27644",
+          "speechCharactorId": "142",
+          "message": "サスケ……助けて"
+        },
+        {
+          "scriptMessageId": "27645",
+          "speechCharactorId": "161",
+          "message": "動くな…香燐"
+        },
+        {
+          "scriptMessageId": "27646",
+          "speechCharactorId": "142",
+          "message": "え…"
+        },
+        {
+          "scriptMessageId": "27647",
+          "speechCharactorId": "151",
+          "message": "……急所を…人質ごと……"
+        },
+        {
+          "scriptMessageId": "27648",
+          "speechCharactorId": "668",
+          "message": "囮はオレがやります！"
+        },
+        {
+          "scriptMessageId": "27649",
+          "speechCharactorId": "669",
+          "message": "一人でいい格好をするな！ \r\n囮役はオレがやる！！"
+        },
+        {
+          "scriptMessageId": "27650",
+          "speechCharactorId": "669",
+          "message": "オレの父も祖父も \r\n戦場で忍として死んだ！ \r\n自己犠牲は忍の本分…！！"
+        },
+        {
+          "scriptMessageId": "27651",
+          "speechCharactorId": "276",
+          "message": "囮役はもちろんオレが行く… \r\n貴様達は \r\nこれからの里を守っていく \r\n若き火の意志達だ"
+        },
+        {
+          "scriptMessageId": "27652",
+          "speechCharactorId": "276",
+          "message": "サルよ… \r\n…明日からは貴様が…… \r\n火影だ…！！"
+        },
+        {
+          "scriptMessageId": "27653",
+          "speechCharactorId": "151",
+          "message": "お前は光を浴びる木ノ葉 \r\nオレは…闇の中の根"
+        },
+        {
+          "scriptMessageId": "27654",
+          "speechCharactorId": "151",
+          "message": "なあヒルゼン……お前にとってオレは……"
+        },
+        {
+          "scriptMessageId": "27655",
+          "speechCharactorId": "151",
+          "message": "ちょうどいい…… \r\nお前達の写輪眼も戴くとしよう"
+        },
+        {
+          "scriptMessageId": "27656",
+          "speechCharactorId": "161",
+          "message": "その右腕の眼はどうした？"
+        },
+        {
+          "scriptMessageId": "27657",
+          "speechCharactorId": "151",
+          "message": "色々あってな…話すと長い"
+        },
+        {
+          "scriptMessageId": "27658",
+          "speechCharactorId": "161",
+          "message": "理由を聞いたところで \r\nさらに怒りが増すだけだ"
+        },
+        {
+          "scriptMessageId": "27659",
+          "speechCharactorId": "161",
+          "message": "もういい…お前は殺すと決めている \r\n…その前に聞いておきたい事が一つある"
+        },
+        {
+          "scriptMessageId": "27660",
+          "speechCharactorId": "161",
+          "message": "お前を含む木ノ葉上層部の命令で \r\nうちはイタチにオレの一族を \r\n抹殺させたのは本当か？"
+        },
+        {
+          "scriptMessageId": "27661",
+          "speechCharactorId": "151",
+          "message": "これが“須佐能乎”という奴か…"
+        },
+        {
+          "scriptMessageId": "27662",
+          "speechCharactorId": "161",
+          "message": "本当かと聞いてるんだ！！ \r\nさっさと答えろ！"
+        },
+        {
+          "scriptMessageId": "27663",
+          "speechCharactorId": "151",
+          "message": "イタチめ…死に際に…全て \r\n喋りおったか…"
+        },
+        {
+          "scriptMessageId": "27664",
+          "speechCharactorId": "151",
+          "message": "やはり…お前だけは… \r\n特別だった…ようだな"
+        },
+        {
+          "scriptMessageId": "27665",
+          "speechCharactorId": "161",
+          "message": "本当…だったって事か"
+        },
+        {
+          "scriptMessageId": "27666",
+          "speechCharactorId": "151",
+          "message": "…だがお前に秘密を明かした \r\nイタチは……木ノ葉に対する裏切――"
+        },
+        {
+          "scriptMessageId": "27667",
+          "speechCharactorId": "161",
+          "message": "それ以上イタチを語るな"
+        },
+        {
+          "scriptMessageId": "27668",
+          "speechCharactorId": "151",
+          "message": "そうだな \r\n次は眼で語る戦いにしよう"
+        },
+        {
+          "scriptMessageId": "27669",
+          "speechCharactorId": "161",
+          "message": "…！！"
+        },
+        {
+          "scriptMessageId": "27670",
+          "speechCharactorId": "161",
+          "message": "…サクラか"
+        },
+        {
+          "scriptMessageId": "27671",
+          "speechCharactorId": "181",
+          "message": "私もサスケくんについていく！"
+        },
+        {
+          "scriptMessageId": "27672",
+          "speechCharactorId": "142",
+          "message": "こいつ………昔の…仲間か…"
+        },
+        {
+          "scriptMessageId": "27673",
+          "speechCharactorId": "161",
+          "message": "木ノ葉を潰す…！ \r\nそれがオレの望みだ…"
+        },
+        {
+          "scriptMessageId": "27674",
+          "speechCharactorId": "161",
+          "message": "…お前は本当にオレの為に \r\n木ノ葉を裏切れるのか？"
+        },
+        {
+          "scriptMessageId": "27675",
+          "speechCharactorId": "181",
+          "message": "…うん…サスケくんが… \r\nそうしろと言うなら…"
+        },
+        {
+          "scriptMessageId": "27676",
+          "speechCharactorId": "161",
+          "message": "なら…それを証明してもらう… \r\nこいつに止めを刺せ… \r\nそうしたらお前を認めてやる…"
+        },
+        {
+          "scriptMessageId": "27677",
+          "speechCharactorId": "161",
+          "message": "どうした？ \r\nサクラ…できないのか…？"
+        },
+        {
+          "scriptMessageId": "27678",
+          "speechCharactorId": "142",
+          "message": "…やめろサスケェ…"
+        },
+        {
+          "scriptMessageId": "27679",
+          "speechCharactorId": "1",
+          "message": "本気の殺意…落ちたな…サスケ"
+        },
+        {
+          "scriptMessageId": "27680",
+          "speechCharactorId": "161",
+          "message": "ヘッ！次から次へと…"
+        },
+        {
+          "scriptMessageId": "27681",
+          "speechCharactorId": "1",
+          "message": "サスケ…オレは同じ事を \r\n何度も言うのはあまり好きじゃない… \r\nだがもう一度だけ言っておく…"
+        },
+        {
+          "scriptMessageId": "27682",
+          "speechCharactorId": "1",
+          "message": "復讐に取りつかれるな！！"
+        },
+        {
+          "scriptMessageId": "27683",
+          "speechCharactorId": "161",
+          "message": "…イタチを…父を…母を…！ \r\n一族を！！ここへ連れて来い！！"
+        },
+        {
+          "scriptMessageId": "27684",
+          "speechCharactorId": "161",
+          "message": "そしたらそんなもの \r\n止めてやる！！！"
+        },
+        {
+          "scriptMessageId": "27685",
+          "speechCharactorId": "161",
+          "message": "アハハハハハハハ"
+        },
+        {
+          "scriptMessageId": "27686",
+          "speechCharactorId": "1",
+          "message": "………お前を殺したくはない…"
+        },
+        {
+          "scriptMessageId": "27687",
+          "speechCharactorId": "161",
+          "message": "オレをいつでも殺せる \r\nみたいな言い方だな！！ \r\nいつまでも先生面すんじゃねーよ…"
+        },
+        {
+          "scriptMessageId": "27688",
+          "speechCharactorId": "161",
+          "message": "オレはアンタを殺したいと \r\nウズウズしてるぜ…カカシ"
+        },
+        {
+          "scriptMessageId": "27689",
+          "speechCharactorId": "1",
+          "message": "…どんなに落ちても大蛇丸が \r\nかわいいと思えてたんだな"
+        },
+        {
+          "scriptMessageId": "27690",
+          "speechCharactorId": "1",
+          "message": "三代目火影様がどんな気持ちだったか… \r\n今になって分かるとはね…"
+        },
+        {
+          "scriptMessageId": "27691",
+          "speechCharactorId": "161",
+          "message": "それなら…アンタは \r\n三代目の二の舞を演じる事になる"
+        },
+        {
+          "scriptMessageId": "27692",
+          "speechCharactorId": "1",
+          "message": "サスケ…お前の中にあるのは \r\n一族だけじゃないハズだ"
+        },
+        {
+          "scriptMessageId": "27693",
+          "speechCharactorId": "1",
+          "message": "憎しみだけじゃないハズだ \r\nもう一度……自分の心の \r\n奥底を見つめてみろ…"
+        },
+        {
+          "scriptMessageId": "27694",
+          "speechCharactorId": "161",
+          "message": "………全員……笑ってやがる… \r\nイタチの命と引き換えに笑ってやがる！！"
+        },
+        {
+          "scriptMessageId": "27695",
+          "speechCharactorId": "161",
+          "message": "その笑いを悲鳴と \r\nうめきに変えてやる！！"
+        },
+        {
+          "scriptMessageId": "27696",
+          "speechCharactorId": "1",
+          "message": "よせ！！サスケェ！！"
+        },
+        {
+          "scriptMessageId": "27697",
+          "speechCharactorId": "181",
+          "message": "…ナルト…"
+        },
+        {
+          "scriptMessageId": "27698",
+          "speechCharactorId": "1",
+          "message": "オレ以上にいいタイミングだよ…ナルト"
+        },
+        {
+          "scriptMessageId": "27699",
+          "speechCharactorId": "251",
+          "message": "サスケェ… サクラちゃんは \r\n同じ第七班のメンバーだぞ"
+        },
+        {
+          "scriptMessageId": "27700",
+          "speechCharactorId": "161",
+          "message": "元…第七班だ \r\n………オレはな"
+        },
+        {
+          "scriptMessageId": "27701",
+          "speechCharactorId": "161",
+          "message": "さっきやっと一人だけイタチの敵を討てた \r\n木ノ葉の上役をこの場で殺した \r\n……ダンゾウって奴だ"
+        },
+        {
+          "scriptMessageId": "27702",
+          "speechCharactorId": "161",
+          "message": "今までにない感覚だ \r\n汚されたうちはが浄化されていく感覚"
+        },
+        {
+          "scriptMessageId": "27703",
+          "speechCharactorId": "161",
+          "message": "腐れきった忍世界から \r\nうちはを決別させる感覚"
+        },
+        {
+          "scriptMessageId": "27704",
+          "speechCharactorId": "161",
+          "message": "ある意味お前達 \r\n木ノ葉がずっと望んできた事だ"
+        },
+        {
+          "scriptMessageId": "27705",
+          "speechCharactorId": "161",
+          "message": "昔からうちはを否定し続けた \r\nお前達の望み通り \r\nお前達の記憶からうちはを消してやる"
+        },
+        {
+          "scriptMessageId": "27706",
+          "speechCharactorId": "161",
+          "message": "お前達を \r\n木ノ葉の全てを殺す事でな！"
+        },
+        {
+          "scriptMessageId": "27707",
+          "speechCharactorId": "161",
+          "message": "つながりを全て \r\n断ち切る事こそが浄化！ \r\nそれこそが本当のうちは再興だ！"
+        },
+        {
+          "scriptMessageId": "27708",
+          "speechCharactorId": "251",
+          "message": "…お前の憎しみを受けてやれんのは \r\nオレしかいねェ！"
+        },
+        {
+          "scriptMessageId": "27709",
+          "speechCharactorId": "251",
+          "message": "サスケェ…お前と分かり合うにゃ \r\n一筋縄じゃいかねーって \r\n初めて会った時から分かってた…"
+        },
+        {
+          "scriptMessageId": "27710",
+          "speechCharactorId": "161",
+          "message": "オレは…変わりはしねェ！ \r\nお前と分かり合う気もねェ…！"
+        },
+        {
+          "scriptMessageId": "27711",
+          "speechCharactorId": "161",
+          "message": "死ぬ気もねェ…死ぬのはお前だ"
+        },
+        {
+          "scriptMessageId": "27712",
+          "speechCharactorId": "161",
+          "message": "うおおおお！！！"
+        },
+        {
+          "scriptMessageId": "27713",
+          "speechCharactorId": "151",
+          "message": "“須佐能乎”か…？ \r\nさっきまでとはまるで違うぞ！"
+        },
+        {
+          "scriptMessageId": "27714",
+          "speechCharactorId": "142",
+          "message": "これがサスケ！？このチャクラ… \r\nもうほとんど以前のサスケじゃない！"
+        },
+        {
+          "scriptMessageId": "27715",
+          "speechCharactorId": "151",
+          "message": "う…ぐっ…"
+        },
+        {
+          "scriptMessageId": "27716",
+          "speechCharactorId": "161",
+          "message": "これが眼で語る戦いだ \r\nうちはを…なめるな"
+        },
+        {
+          "scriptMessageId": "27717",
+          "speechCharactorId": "151",
+          "message": "まだだ……… \r\nここからが眼で……語る戦いだ…"
+        },
+        {
+          "scriptMessageId": "27718",
+          "speechCharactorId": "142",
+          "message": "キャ！！"
+        },
+        {
+          "scriptMessageId": "27719",
+          "speechCharactorId": "161",
+          "message": "自己犠牲を語ったお前が…人質とはな"
+        },
+        {
+          "scriptMessageId": "27720",
+          "speechCharactorId": "161",
+          "message": "動くな…香燐"
+        },
+        {
+          "scriptMessageId": "27721",
+          "speechCharactorId": "142",
+          "message": "え…"
+        },
+        {
+          "scriptMessageId": "27722",
+          "speechCharactorId": "151",
+          "message": "ぐっ…！ \r\n……急所を……人質ごと…"
+        },
+        {
+          "scriptMessageId": "27723",
+          "speechCharactorId": "161",
+          "message": "兄さん……まずは一人目だ…"
+        },
+        {
           "scriptMessageId": "40001",
           "speechCharactorId": "178",
           "message": "絶望しかないこの世界に\r\n存在する価値はない"

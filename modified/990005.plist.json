@@ -739,6 +739,16 @@
           "enemyEffects": null
         },
         {
+          "battleFieldEffectId": "83",
+          "name": "超絶チャレンジ",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "1280,1549,12118,30004,2160,2254,",
+          "enemyEffects": "2263,50005,"
+        },
+        {
           "battleFieldEffectId": "10001",
           "name": "始球空間",
           "category": "3",
@@ -757,5 +767,15 @@
           "uiIdx": "10002",
           "partyEffects": "2007,",
           "enemyEffects": "2007,2008,731,"
+        },
+        {
+          "battleFieldEffectId": "10003",
+          "name": "怨嗟の深闇",
+          "category": "3",
+          "scriptId": "10003",
+          "overWrite": "1",
+          "uiIdx": "10003",
+          "partyEffects": "2263,",
+          "enemyEffects": "2263,2267,2264,"
         }
       ]

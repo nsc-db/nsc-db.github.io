@@ -1997,7 +1997,19 @@
           "itemImgId": "23"
         },
         {
+          "shopExchangeItemId": "341",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
           "shopExchangeItemId": "342",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "343",
           "itemName": "個人Pt",
           "measure": "0",
           "itemImgId": "23"
@@ -2253,6 +2265,12 @@
           "itemName": "4周年昇級交換券",
           "measure": "0",
           "itemImgId": "1042"
+        },
+        {
+          "shopExchangeItemId": "1043",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
         },
         {
           "shopExchangeItemId": "2000",

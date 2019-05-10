@@ -1983,6 +1983,14 @@
           "skillUrl": "https://www.youtube.com/embed/BeYq-JuFEzg?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
         },
         {
+          "gachaCardAdditionId": "260",
+          "targetCardId": "20050512",
+          "additionId": "1",
+          "params": "0,",
+          "limitedFlg": "102",
+          "skillUrl": "https://www.youtube.com/embed/jQbMdWEg1zY?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
+        },
+        {
           "gachaCardAdditionId": "1001",
           "targetCardId": "20001600",
           "additionId": "0",
@@ -3309,6 +3317,22 @@
           "params": "0,",
           "limitedFlg": "1",
           "skillUrl": "https://www.youtube.com/embed/t0NvZpgOj40?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
+        },
+        {
+          "gachaCardAdditionId": "1167",
+          "targetCardId": "20050506",
+          "additionId": "1",
+          "params": "0,",
+          "limitedFlg": "1",
+          "skillUrl": "https://www.youtube.com/embed/DgaUsSDQbeo?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
+        },
+        {
+          "gachaCardAdditionId": "1168",
+          "targetCardId": "20050509",
+          "additionId": "1",
+          "params": "0,",
+          "limitedFlg": "105",
+          "skillUrl": "https://www.youtube.com/embed/bDlxRjVpsQA?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
         },
         {
           "gachaCardAdditionId": "20000001",

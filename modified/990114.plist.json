@@ -290,7 +290,7 @@
         },
         {
           "cardUnusualId": "30",
-          "category": "4",
+          "category": "5",
           "iconId": "0",
           "name": "かばう",
           "description": "仲間への単体攻撃を代わりに受ける",
@@ -2086,6 +2086,16 @@
           "description": "最大HPアップ、創生細胞状態の味方が行動するたびにHP回復",
           "subScore": "0",
           "color": "8388479",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "213",
+          "category": "3",
+          "iconId": "1238",
+          "name": "裏四象",
+          "description": "死亡時にランダムで敵に尽状態を付与",
+          "subScore": "0",
+          "color": "16316664",
           "type": "2"
         }
       ]

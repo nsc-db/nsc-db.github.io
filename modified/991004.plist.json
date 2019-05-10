@@ -3977,6 +3977,18 @@
           "speechCharactorName": "うずまきナルト"
         },
         {
+          "speechCharactorId": "668",
+          "cardId": "668",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "猿飛ヒルゼン"
+        },
+        {
+          "speechCharactorId": "669",
+          "cardId": "669",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "志村ダンゾウ"
+        },
+        {
           "speechCharactorId": "1000",
           "cardId": "21000091",
           "speechCharactorImgId": "1000",
