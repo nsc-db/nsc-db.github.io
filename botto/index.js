@@ -53,11 +53,12 @@ const evo = JSON.parse(fs.readFileSync('../common/json/evo.js', 'utf8').slice(11
 var animation = fs.readFileSync('../modified/990402.plist.json', 'utf8')
 const animations = JSON.parse(animation);
 var matchlist = []
+var database = {}
 
 
 client.on('ready', () => {
-    console.log(`Logged in as ${client.user.tag}!`);
     db2 = setup(db2)
+    console.log(`Logged in as ${client.user.tag}!`);
     client.user.setPresence({ game: { name: '!help' }, status: 'busy' });
 });
 
@@ -114,21 +115,21 @@ for (let i in characterInfo2) {
 }
 function setup(db2){
 for (let i in db2) {
-    console.log(db2[i])
+
     let temp = []
-    temp.push(getLeaderSkill(db2[i].lead))
-    temp.push(getName(db2[i].name))
-    temp.push(checkURL(i))
-    temp.push(getVideo(i))
-    temp.push(getAbilities(db2[i].ability1))
-    temp.push(getAbilities(db2[i].ability2))
-    temp.push(getAbilities(db2[i].ability3))
-    temp.push(getSkills(db2[i].skill1))
-    temp.push(getSkills(db2[i].skill2))
-    temp.push(getSpeed(db2[i].skill1))
-    temp.push(getType(db2[i].skill1))
-    temp.push(getSpeed(db2[i].skill2))
-    temp.push(getType(db2[i].skill2))
+    temp.push(getLeaderSkill(db2[i].lead))//0
+    temp.push(getName(db2[i].name))//1
+    temp.push(checkURL(i))//2
+    temp.push(getVideo(i))//3
+    temp.push(getAbilities(db2[i].ability1))//4
+    temp.push(getAbilities(db2[i].ability2))//5
+    temp.push(getAbilities(db2[i].ability3))//6
+    temp.push(getSkills(db2[i].skill1))//7
+    temp.push(getSkills(db2[i].skill2))//8
+    temp.push(getSpeed(db2[i].skill1))//9
+    temp.push(getType(db2[i].skill1))//10
+    temp.push(getSpeed(db2[i].skill2))//11
+    temp.push(getType(db2[i].skill2))//12
 
 
 
@@ -141,7 +142,13 @@ for (let i in db2) {
         db2[i].video = abc[3].replace(regex, 'watch?v=')
         db2[i].ability1 = abc[4]
         db2[i].ability2 = abc[5]
-        db2[i].ability3 = abc[6]
+        if (abc[6]){
+            db2[i].ability3 = abc[6]
+        }
+        else{
+            db2[i].ability3 = ["None"]
+
+        }
         db2[i].skill1 = abc[7]
         db2[i].skill2 = abc[8]
         db2[i].skill1spd = abc[9]
@@ -210,6 +217,7 @@ function editInfo(msg, x) {
 
 
 function sendMessage(msg, x) {
+    console.log(db2[x])
     msg.channel.send({
         embed: {
             color: 3447003,
@@ -285,6 +293,9 @@ function sendMessage(msg, x) {
 function getAbilities(id) {
     return new Promise(function (resolve, reject) {
         var arr = [];
+        if (id == "0"){
+            resolve(["None"])
+        }
         for (let a in abilitys) {
             if (abilitys[a]['abilityId'] == id) {
                 arr.push(abilitys[a]['abilityDescription'])
@@ -600,8 +611,8 @@ client.on('message', msg => {
 })
 
 
-// client.login(process.env.token);
-client.login("NDc5Mzc2ODA5Njk2MTY1ODk5.DykXFQ.B_yNaX062sh_a91WRctVPrOiW_o");
+client.login(process.env.token);
+// client.login();
 
 function sendThumb(msg, x) {
     msg.channel.send({
@@ -672,7 +683,6 @@ function downloadImage(uri, choice, msg) {
         file_name: 'bluebird.png'
     }]
     Promise.each(images, image => new Promise((resolve, reject) => {
-        console.log('Downloading Image: ' + image.file_name);
         request(image.url).on('error', reject).pipe(fs.createWriteStream(path.join('.', image.file_name))).on('finish', () => {
             resolve();
         });
@@ -685,7 +695,6 @@ function downloadImage(uri, choice, msg) {
         Promise.all(matches).then(function (abc) {
             abc = abc.filter(Boolean)
             abc.sort()
-            console.log(abc)
             sendMessage(msg, abc[0][1])
 
         })
