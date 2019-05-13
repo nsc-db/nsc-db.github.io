@@ -19576,18 +19576,18 @@ window.ability=[
         },
         {
           "abilityId": "2227",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "狂気の復讐者",
+          "abilityDescription": "最大チャクラ量が100アップ、HP90％以上の時に素早さ100％アップ",
+          "abilityEffectDescription": "最大チャクラ量が100アップ、HP90％以上の時に素早さ100％アップ",
           "effectIdx1": "20009",
           "effectIdx2": "2219",
           "effectIdx3": "0"
         },
         {
           "abilityId": "2228",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "悪を喰らう闇",
+          "abilityDescription": "状態異常とキャンセル無効、敵に神忍祭限定キャラが生存している場合、受けるダメージを90％カット",
+          "abilityEffectDescription": "状態異常とキャンセル無効、敵に神忍祭限定キャラが生存している場合、受けるダメージを90％カット",
           "effectIdx1": "82",
           "effectIdx2": "1751",
           "effectIdx3": "2262"

@@ -10142,7 +10142,7 @@ window.unique=[
         {
           "crystalOverwriteEffectId": "859",
           "targetCrystal": "20506",
-          "description": "0",
+          "description": "1回行動するまでチャクラ消費量0、2回目以降チャクラ消費量30％ダウン、行動後にHPとチャクラが30%回復",
           "charaIds": "212",
           "cardIds": "0",
           "charaGroupIds": "0",
@@ -10154,7 +10154,7 @@ window.unique=[
         {
           "crystalOverwriteEffectId": "860",
           "targetCrystal": "20507",
-          "description": "0",
+          "description": "高確率でスキル回避、素早さ80％アップ、スキル発動速度1段階アップ",
           "charaIds": "212",
           "cardIds": "0",
           "charaGroupIds": "0",

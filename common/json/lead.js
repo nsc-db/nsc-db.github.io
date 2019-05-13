@@ -11519,8 +11519,8 @@ window.lead=[
         },
         {
           "cardLeaderSkillId": "901",
-          "name": "0",
-          "description": "0",
+          "name": "暗焔ノ羅刹",
+          "description": "勇属性と技属性の最大HPと素早さを100％アップ",
           "effectIdx1": "684",
           "effectIdx2": "13099",
           "effectIdx3": "0",

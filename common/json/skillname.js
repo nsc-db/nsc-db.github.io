@@ -6089,11 +6089,11 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "2730",
-          "name": "0"
+          "name": "怨嗟を宿す虚鎧"
         },
         {
           "cardBattleSkillNameId": "2731",
-          "name": "0"
+          "name": "これが眼で語る戦いだ"
         },
         {
           "cardBattleSkillNameId": "10136",

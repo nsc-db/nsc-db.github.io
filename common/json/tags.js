@@ -18503,10 +18503,10 @@ window.tags=[
 {
           "cardId": "20050506",
           "rare": "5",
-          "tag": "god",
+          "tag": "kami-destroyer",
           "skill1damage": "",
           "skill2damage": "",
-          "nickname": "God Sasuke v5",
+          "nickname": "God Destroyer Sasuke",
           "role": "",
           "rolerating": "",
           "secondary": "",
