@@ -6084,6 +6084,18 @@ window.skillname=[
           "name": "見逃さない！"
         },
         {
+          "cardBattleSkillNameId": "2729",
+          "name": "次は眼で語る戦いにしよう"
+        },
+        {
+          "cardBattleSkillNameId": "2730",
+          "name": "怨嗟を宿す虚鎧"
+        },
+        {
+          "cardBattleSkillNameId": "2731",
+          "name": "これが眼で語る戦いだ"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },

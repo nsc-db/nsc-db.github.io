@@ -308,6 +308,20 @@ window.charaname=[
           "gender": "1"
         },
         {
+          "charaProfileId": "212",
+          "charaId": "2",
+          "name": "うちはサスケ",
+          "detail": "疾風伝",
+          "charaLoveAffinityGroupId": "220",
+          "birthday": "723",
+          "constellation": "5",
+          "height": "16800",
+          "weight": "5220",
+          "bloodType": "4",
+          "age": "16",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "301",
           "charaId": "3",
           "name": "春野サクラ",

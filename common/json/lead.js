@@ -11505,6 +11505,32 @@ window.lead=[
           "target2Param": "10"
         },
         {
+          "cardLeaderSkillId": "900",
+          "name": "悪辣の首魁",
+          "description": "木ノ葉隠れの里所属の最大HPと攻撃力を70%アップ",
+          "effectIdx1": "638",
+          "effectIdx2": "11069",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "901",
+          "name": "暗焔ノ羅刹",
+          "description": "勇属性と技属性の最大HPと素早さを100％アップ",
+          "effectIdx1": "684",
+          "effectIdx2": "13099",
+          "effectIdx3": "0",
+          "compType": "2",
+          "target1Category": "1",
+          "target1Param": "7",
+          "target2Category": "1",
+          "target2Param": "2"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",
