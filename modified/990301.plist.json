@@ -18424,8 +18424,8 @@
           "effectIdx4": "0",
           "money": "30000",
           "saleMoney": "2500",
-          "crystalName": "0",
-          "crystalDescription": "0",
+          "crystalName": "里への憎しみ",
+          "crystalDescription": "1回行動するまでチャクラ消費量0",
           "crystalImageId": "205065",
           "recipeId": "20506",
           "recipeName": "里への憎しみ"
@@ -18440,8 +18440,8 @@
           "effectIdx4": "0",
           "money": "30000",
           "saleMoney": "2500",
-          "crystalName": "0",
-          "crystalDescription": "0",
+          "crystalName": "流血の万華鏡写輪眼",
+          "crystalDescription": "低確率でスキル回避",
           "crystalImageId": "205075",
           "recipeId": "20507",
           "recipeName": "流血の万華鏡写輪眼"
