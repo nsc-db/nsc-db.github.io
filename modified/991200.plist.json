@@ -10185,5 +10185,29 @@
           "effectIdx2": "2133",
           "effectIdx3": "1423",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "863",
+          "targetCrystal": "20513",
+          "description": "全スキルダメージ半減、確率でスキル回避、行動後にHP30%回復",
+          "charaIds": "2201,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "20501",
+          "effectIdx2": "1423",
+          "effectIdx3": "300012",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "864",
+          "targetCrystal": "20514",
+          "description": "最大HP100%アップ、全スキルダメージ50%アップ、チャクラ消費量半減",
+          "charaIds": "2201,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "684",
+          "effectIdx2": "682",
+          "effectIdx3": "895",
+          "effectIdx4": "0"
         }
       ]

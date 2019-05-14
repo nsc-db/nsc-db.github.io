@@ -18495,6 +18495,38 @@
           "recipeName": "仮初の火影の笠"
         },
         {
+          "crystalId": "20513",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "20500",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "三代目の笠",
+          "crystalDescription": "全スキルダメージ軽減",
+          "crystalImageId": "205135",
+          "recipeId": "20513",
+          "recipeName": "三代目の笠"
+        },
+        {
+          "crystalId": "20514",
+          "crystalType": "1",
+          "crystalRare": "5",
+          "effectIdx1": "10029",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "三代目の羽織",
+          "crystalDescription": "最大HPが30%アップする",
+          "crystalImageId": "205145",
+          "recipeId": "20514",
+          "recipeName": "三代目の羽織"
+        },
+        {
           "crystalId": "20515",
           "crystalType": "12",
           "crystalRare": "5",

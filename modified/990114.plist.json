@@ -963,7 +963,7 @@
           "category": "3",
           "iconId": "1094",
           "name": "屍鬼",
-          "description": "使用毎にカウントが増加。カウント最大で即死",
+          "description": "使用毎にカウントが増加。カウント最大でHPが0になる",
           "subScore": "0",
           "color": "15790320",
           "type": "3"
