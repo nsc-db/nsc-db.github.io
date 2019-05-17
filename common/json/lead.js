@@ -11531,6 +11531,32 @@ window.lead=[
           "target2Param": "2"
         },
         {
+          "cardLeaderSkillId": "902",
+          "name": "決死の老将",
+          "description": "木ノ葉隠れの里所属の素早さとスキルダメージを70%アップする",
+          "effectIdx1": "13069",
+          "effectIdx2": "652",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "903",
+          "name": "0",
+          "description": "0",
+          "effectIdx1": "30008",
+          "effectIdx2": "13089",
+          "effectIdx3": "0",
+          "compType": "2",
+          "target1Category": "1",
+          "target1Param": "1",
+          "target2Category": "1",
+          "target2Param": "7"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

@@ -6096,6 +6096,18 @@ window.skillname=[
           "name": "これが眼で語る戦いだ"
         },
         {
+          "cardBattleSkillNameId": "2732",
+          "name": "封滅・屍鬼封尽"
+        },
+        {
+          "cardBattleSkillNameId": "2733",
+          "name": "木ノ葉の家を守る！！"
+        },
+        {
+          "cardBattleSkillNameId": "2734",
+          "name": "0"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },

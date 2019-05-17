@@ -19593,6 +19593,42 @@ window.ability=[
           "effectIdx3": "2262"
         },
         {
+          "abilityId": "2229",
+          "abilityName": "“教授”の術才",
+          "abilityDescription": "10回行動まで火・水・風・雷・土遁のスキル無効、行動後にチャクラ20%回復",
+          "abilityEffectDescription": "10回行動まで火・水・風・雷・土遁のスキル無効、行動後にチャクラ20%回復",
+          "effectIdx1": "1185",
+          "effectIdx2": "583",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2230",
+          "abilityName": "命懸けの意志",
+          "abilityDescription": "HP90%以上の時に素早さとスキルダメージ100%アップ",
+          "abilityEffectDescription": "HP90%以上の時に素早さとスキルダメージ100%アップ",
+          "effectIdx1": "2219",
+          "effectIdx2": "31809",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2231",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "2265",
+          "effectIdx2": "2266",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2232",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "2268",
+          "effectIdx2": "2269",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -20185,6 +20221,78 @@ window.ability=[
           "effectIdx1": "1268",
           "effectIdx2": "1459",
           "effectIdx3": "967"
+        },
+        {
+          "abilityId": "100023",
+          "abilityName": "揺るぎなき忍道",
+          "abilityDescription": "最大HPが150%アップし、全スキルダメージを無効化する",
+          "abilityEffectDescription": "最大HPが150%アップし、全スキルダメージを無効化する",
+          "effectIdx1": "1212",
+          "effectIdx2": "20502",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "100024",
+          "abilityName": "全尾獣のチャクラ（絆）",
+          "abilityDescription": "最大チャクラが100アップ、行動後チャクラが25％回復、チャクラ50%以上の時スキルダメージが150%アップ",
+          "abilityEffectDescription": "最大チャクラが100アップ、行動後チャクラが25％回復、チャクラ50%以上の時スキルダメージが150%アップ",
+          "effectIdx1": "20009",
+          "effectIdx2": "33414",
+          "effectIdx3": "1909"
+        },
+        {
+          "abilityId": "100025",
+          "abilityName": "焼き尽くす意志",
+          "abilityDescription": "最大HPが150%アップし、全スキルダメージを無効化する",
+          "abilityEffectDescription": "最大HPが150%アップし、全スキルダメージを無効化する",
+          "effectIdx1": "1212",
+          "effectIdx2": "20502",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "100026",
+          "abilityName": "全尾獣のチャクラ（縛）",
+          "abilityDescription": "最大チャクラが100アップ、行動後チャクラが25％回復、チャクラ50%以上の時スキルダメージが150%アップ",
+          "abilityEffectDescription": "最大チャクラが100アップ、行動後チャクラが25％回復、チャクラ50%以上の時スキルダメージが150%アップ",
+          "effectIdx1": "20009",
+          "effectIdx2": "33414",
+          "effectIdx3": "1909"
+        },
+        {
+          "abilityId": "100027",
+          "abilityName": "耐え忍ぶ覚悟",
+          "abilityDescription": "最大チャクラ量が120アップし、最大HPが150%アップ、HPが0以下になった時2度まで耐える",
+          "abilityEffectDescription": "最大チャクラ量が120アップし、最大HPが150%アップ、HPが0以下になった時2度まで耐える",
+          "effectIdx1": "20011",
+          "effectIdx2": "1212",
+          "effectIdx3": "1057"
+        },
+        {
+          "abilityId": "100028",
+          "abilityName": "未来の夢",
+          "abilityDescription": "行動後チャクラが25％回復、チャクラ50%以上の時、攻撃力とスキルダメージが200％アップする",
+          "abilityEffectDescription": "行動後チャクラが25％回復、チャクラ50%以上の時、攻撃力とスキルダメージが200％アップする",
+          "effectIdx1": "1427",
+          "effectIdx2": "33419",
+          "effectIdx3": "1909"
+        },
+        {
+          "abilityId": "100029",
+          "abilityName": "石碑の秘密",
+          "abilityDescription": "最大チャクラ量が120アップし、最大HPが150%アップ、HPが0以下になった時2度まで耐える",
+          "abilityEffectDescription": "最大チャクラ量が120アップし、最大HPが150%アップ、HPが0以下になった時2度まで耐える",
+          "effectIdx1": "20011",
+          "effectIdx2": "1212",
+          "effectIdx3": "1057"
+        },
+        {
+          "abilityId": "100030",
+          "abilityName": "守れなかった約束",
+          "abilityDescription": "行動後チャクラが25％回復、チャクラ50%以上の時、攻撃力とスキルダメージが200％アップする",
+          "abilityEffectDescription": "行動後チャクラが25％回復、チャクラ50%以上の時、攻撃力とスキルダメージが200％アップする",
+          "effectIdx1": "1427",
+          "effectIdx2": "33419",
+          "effectIdx3": "1909"
         },
         {
           "abilityId": "200001",
