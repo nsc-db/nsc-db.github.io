@@ -76144,6 +76144,346 @@
           "message": "兄さん……まずは一人目だ…"
         },
         {
+          "scriptMessageId": "27724",
+          "speechCharactorId": "213",
+          "message": "追いついたぞ、イタチ！\r\nこんな所でいったい…"
+        },
+        {
+          "scriptMessageId": "27725",
+          "speechCharactorId": "213",
+          "message": "……ッ！"
+        },
+        {
+          "scriptMessageId": "27726",
+          "speechCharactorId": "213",
+          "message": "大蛇丸……なのか！？"
+        },
+        {
+          "scriptMessageId": "27727",
+          "speechCharactorId": "185",
+          "message": "クク…\r\n少し違う…"
+        },
+        {
+          "scriptMessageId": "27728",
+          "speechCharactorId": "185",
+          "message": "戦争協力の見返りが\r\nこのタイミングで自ら\r\nボクの目の前に来ちゃうとはね…"
+        },
+        {
+          "scriptMessageId": "27729",
+          "speechCharactorId": "213",
+          "message": "どういう意味だ？\r\nなぜお前達がこんなところで…"
+        },
+        {
+          "scriptMessageId": "27730",
+          "speechCharactorId": "185",
+          "message": "ややこしい状況だよね…\r\nボクが簡単に説明しようか…"
+        },
+        {
+          "scriptMessageId": "27731",
+          "speechCharactorId": "670",
+          "message": "説明してろ…\r\nそのスキに穢土転生は\r\n止めさせてもらう"
+        },
+        {
+          "scriptMessageId": "27732",
+          "speechCharactorId": "670",
+          "message": "殺すな…サスケ！"
+        },
+        {
+          "scriptMessageId": "27733",
+          "speechCharactorId": "213",
+          "message": "なぜだ！？\r\nこいつは大蛇丸と同じ…"
+        },
+        {
+          "scriptMessageId": "27734",
+          "speechCharactorId": "213",
+          "message": "だとしたらオレの敵だ！\r\nそして今は\r\nアンタの敵でもあるんだろ！"
+        },
+        {
+          "scriptMessageId": "27735",
+          "speechCharactorId": "670",
+          "message": "穢土転生の術者を\r\n殺してしまっては\r\n術は永久に解けない"
+        },
+        {
+          "scriptMessageId": "27736",
+          "speechCharactorId": "670",
+          "message": "まずはこいつを\r\nオレの月読に掛け"
+        },
+        {
+          "scriptMessageId": "27737",
+          "speechCharactorId": "670",
+          "message": "その術を止める方法を聞き出す"
+        },
+        {
+          "scriptMessageId": "27738",
+          "speechCharactorId": "185",
+          "message": "…流暢にボクの倒し方を\r\n喋ってくれちゃって…"
+        },
+        {
+          "scriptMessageId": "27739",
+          "speechCharactorId": "185",
+          "message": "口ほどうまくいくといいけど\r\nこの術には弱点もリスクもない"
+        },
+        {
+          "scriptMessageId": "27740",
+          "speechCharactorId": "670",
+          "message": "どんな術にも弱点となる穴がある"
+        },
+        {
+          "scriptMessageId": "27741",
+          "speechCharactorId": "670",
+          "message": "この術の弱点とリスクは…"
+        },
+        {
+          "scriptMessageId": "27742",
+          "speechCharactorId": "670",
+          "message": "このオレの存在だ！"
+        },
+        {
+          "scriptMessageId": "27743",
+          "speechCharactorId": "213",
+          "message": "…イタチ…\r\nアンタはいつもオレに今度だ\r\n後でだと嘘をつき"
+        },
+        {
+          "scriptMessageId": "27744",
+          "speechCharactorId": "213",
+          "message": "あげく死んだ…"
+        },
+        {
+          "scriptMessageId": "27745",
+          "speechCharactorId": "213",
+          "message": "だから今度こそ――\r\n約束は守ってもらう！"
+        },
+        {
+          "scriptMessageId": "27746",
+          "speechCharactorId": "670",
+          "message": "性格は死ぬまで変わらないが…\r\nオレは一度死んでる…"
+        },
+        {
+          "scriptMessageId": "27747",
+          "speechCharactorId": "670",
+          "message": "そのつもりだ"
+        },
+        {
+          "scriptMessageId": "27748",
+          "speechCharactorId": "185",
+          "message": "兄弟で仲間ハズレですか\r\n面白い"
+        },
+        {
+          "scriptMessageId": "27749",
+          "speechCharactorId": "185",
+          "message": "ボクみたいなインテリは\r\nじっと見つめられるのに\r\n慣れてなくてね…"
+        },
+        {
+          "scriptMessageId": "27750",
+          "speechCharactorId": "213",
+          "message": "幻術対策か…"
+        },
+        {
+          "scriptMessageId": "27751",
+          "speechCharactorId": "670",
+          "message": "あの蛇達の動き\r\nオレ達をちゃんと感知してるぞ…"
+        },
+        {
+          "scriptMessageId": "27752",
+          "speechCharactorId": "213",
+          "message": "蛇は体温感知と舌で匂いを口内に送り\r\n嗅覚感知もする"
+        },
+        {
+          "scriptMessageId": "27753",
+          "speechCharactorId": "670",
+          "message": "ずいぶんと勉強したな…\r\nまるで蛇博士だ"
+        },
+        {
+          "scriptMessageId": "27754",
+          "speechCharactorId": "185",
+          "message": "でもただの蛇博士じゃあ\r\nこのボクは倒せないよ！"
+        },
+        {
+          "scriptMessageId": "27755",
+          "speechCharactorId": "670",
+          "message": "手荒いぞサスケ！\r\n殺すなというのは分かってるな！"
+        },
+        {
+          "scriptMessageId": "27756",
+          "speechCharactorId": "213",
+          "message": "大蛇丸の力を手に入れてるようだしな\r\nそうそう死にはしねーよ！"
+        },
+        {
+          "scriptMessageId": "27757",
+          "speechCharactorId": "185",
+          "message": "サスケくん…\r\n君…ボクのことナメてるよね～"
+        },
+        {
+          "scriptMessageId": "27758",
+          "speechCharactorId": "213",
+          "message": "大蛇丸と同じだ\r\n出来損ないの蛇が！"
+        },
+        {
+          "scriptMessageId": "27759",
+          "speechCharactorId": "185",
+          "message": "蛇博士なら分かって欲しいなぁ…"
+        },
+        {
+          "scriptMessageId": "27760",
+          "speechCharactorId": "185",
+          "message": "ボクはもう蛇ではない…"
+        },
+        {
+          "scriptMessageId": "27761",
+          "speechCharactorId": "185",
+          "message": "…完全な仙人の力は\r\n蛇を脱皮し…"
+        },
+        {
+          "scriptMessageId": "27762",
+          "speechCharactorId": "186",
+          "message": "龍へと昇華したんだよォ！！"
+        },
+        {
+          "scriptMessageId": "27763",
+          "speechCharactorId": "186",
+          "message": "イタチ…君はどうやら\r\nボクの居場所を嗅ぎ当てるのが\r\n上手らしい…"
+        },
+        {
+          "scriptMessageId": "27764",
+          "speechCharactorId": "186",
+          "message": "ボクのチャクラを感知できてるのかな？"
+        },
+        {
+          "scriptMessageId": "27765",
+          "speechCharactorId": "670",
+          "message": "お前がどこを狙うかは\r\nハッキリしてる"
+        },
+        {
+          "scriptMessageId": "27766",
+          "speechCharactorId": "670",
+          "message": "…なら先にそこを守ればいい"
+        },
+        {
+          "scriptMessageId": "27767",
+          "speechCharactorId": "186",
+          "message": "おかしなものだね…"
+        },
+        {
+          "scriptMessageId": "27768",
+          "speechCharactorId": "186",
+          "message": "今こうして見ると\r\nずいぶんと仲が良く見える…"
+        },
+        {
+          "scriptMessageId": "27769",
+          "speechCharactorId": "186",
+          "message": "あれだけ憎んで\r\nハデな兄弟ゲンカをしてたハズなのにね…"
+        },
+        {
+          "scriptMessageId": "27770",
+          "speechCharactorId": "186",
+          "message": "…サスケくん\r\n…君"
+        },
+        {
+          "scriptMessageId": "27771",
+          "speechCharactorId": "186",
+          "message": "すでにイタチの真実を\r\nもう知ってるってことかい？"
+        },
+        {
+          "scriptMessageId": "27772",
+          "speechCharactorId": "186",
+          "message": "イタチの生き様はボクも\r\nよく理解できる"
+        },
+        {
+          "scriptMessageId": "27773",
+          "speechCharactorId": "186",
+          "message": "ボクもイタチと同じさ…"
+        },
+        {
+          "scriptMessageId": "27774",
+          "speechCharactorId": "186",
+          "message": "木ノ葉の忍に拾われたはいいが\r\n出生の分からないボクはすぐに\r\nスパイとして育てられ…"
+        },
+        {
+          "scriptMessageId": "27775",
+          "speechCharactorId": "186",
+          "message": "敵に信用されるようにと\r\n医療忍術をたたきこまれた"
+        },
+        {
+          "scriptMessageId": "27776",
+          "speechCharactorId": "186",
+          "message": "偽りの自分を演じずっと嘘をつき通し\r\n本当の自分の居場所すら無い"
+        },
+        {
+          "scriptMessageId": "27777",
+          "speechCharactorId": "186",
+          "message": "本当の自分を知る仲間も無く\r\n自分を消す作業がずっと続く"
+        },
+        {
+          "scriptMessageId": "27778",
+          "speechCharactorId": "186",
+          "message": "イタチもボクも\r\n木ノ葉の里の為に働いたのに\r\n見返りは不名誉だ"
+        },
+        {
+          "scriptMessageId": "27779",
+          "speechCharactorId": "186",
+          "message": "木ノ葉の里がいったいボクらに\r\n何をしてくれたって言うんだい？"
+        },
+        {
+          "scriptMessageId": "27780",
+          "speechCharactorId": "670",
+          "message": "サスケ、耳をかすな"
+        },
+        {
+          "scriptMessageId": "27781",
+          "speechCharactorId": "670",
+          "message": "奴はオレ以上のスパイだった\r\n…つまりオレ以上に嘘が上手いってことだ"
+        },
+        {
+          "scriptMessageId": "27782",
+          "speechCharactorId": "670",
+          "message": "それにな……"
+        },
+        {
+          "scriptMessageId": "27783",
+          "speechCharactorId": "670",
+          "message": "里がどんなに\r\n闇や矛盾を抱えていようと"
+        },
+        {
+          "scriptMessageId": "27784",
+          "speechCharactorId": "670",
+          "message": "オレは木ノ葉のうちはイタチだ"
+        },
+        {
+          "scriptMessageId": "27785",
+          "speechCharactorId": "670",
+          "message": "奴はうちはの\r\n本当の力を知らない"
+        },
+        {
+          "scriptMessageId": "27786",
+          "speechCharactorId": "670",
+          "message": "すでに仕込みは整った"
+        },
+        {
+          "scriptMessageId": "27787",
+          "speechCharactorId": "670",
+          "message": "奴の運命を握る究極の瞳術…"
+        },
+        {
+          "scriptMessageId": "27788",
+          "speechCharactorId": "670",
+          "message": "イザナミだ"
+        },
+        {
+          "scriptMessageId": "27789",
+          "speechCharactorId": "186",
+          "message": "ボクに何をした！？"
+        },
+        {
+          "scriptMessageId": "27790",
+          "speechCharactorId": "670",
+          "message": "お前はオレの瞳術にハマった…"
+        },
+        {
+          "scriptMessageId": "27791",
+          "speechCharactorId": "670",
+          "message": "言ったハズだ…\r\nお前の運命を握る究極の瞳術だと"
+        },
+        {
           "scriptMessageId": "40001",
           "speechCharactorId": "178",
           "message": "絶望しかないこの世界に\r\n存在する価値はない"

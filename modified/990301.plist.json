@@ -18607,6 +18607,38 @@
           "recipeName": "サクラのマント"
         },
         {
+          "crystalId": "20521",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "1378",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "0",
+          "crystalDescription": "0",
+          "crystalImageId": "205215",
+          "recipeId": "20521",
+          "recipeName": "後に希望を託す想い"
+        },
+        {
+          "crystalId": "20522",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "661",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "0",
+          "crystalDescription": "0",
+          "crystalImageId": "205225",
+          "recipeId": "20522",
+          "recipeName": "ｲﾀﾁの穢土転生ﾏﾝﾄ"
+        },
+        {
           "crystalId": "20523",
           "crystalType": "14",
           "crystalRare": "5",

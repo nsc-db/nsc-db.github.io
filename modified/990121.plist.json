@@ -6020,6 +6020,60 @@
           "category": "0"
         },
         {
+          "cardBehaveAffectId": "20045327",
+          "timing": "1",
+          "func": "20",
+          "params": "214,0",
+          "comp": "3",
+          "compParams": "1,2,3,5,6,",
+          "category": "0"
+        },
+        {
+          "cardBehaveAffectId": "20045328",
+          "timing": "1",
+          "func": "20",
+          "params": "74,0",
+          "comp": "1",
+          "compParams": "1",
+          "category": "0"
+        },
+        {
+          "cardBehaveAffectId": "20045329",
+          "timing": "1",
+          "func": "20",
+          "params": "74,0",
+          "comp": "1",
+          "compParams": "2",
+          "category": "0"
+        },
+        {
+          "cardBehaveAffectId": "20045330",
+          "timing": "1",
+          "func": "20",
+          "params": "74,0",
+          "comp": "1",
+          "compParams": "3",
+          "category": "0"
+        },
+        {
+          "cardBehaveAffectId": "20045331",
+          "timing": "1",
+          "func": "20",
+          "params": "74,0",
+          "comp": "1",
+          "compParams": "6",
+          "category": "0"
+        },
+        {
+          "cardBehaveAffectId": "20045332",
+          "timing": "1",
+          "func": "20",
+          "params": "74,0",
+          "comp": "1",
+          "compParams": "7",
+          "category": "0"
+        },
+        {
           "cardBehaveAffectId": "20045400",
           "timing": "1",
           "func": "22",
@@ -6953,6 +7007,24 @@
           "params": "38,0",
           "comp": "9",
           "compParams": "17,509,510",
+          "category": "0"
+        },
+        {
+          "cardBehaveAffectId": "20050094",
+          "timing": "1",
+          "func": "20",
+          "params": "73,0",
+          "comp": "9",
+          "compParams": "2",
+          "category": "0"
+        },
+        {
+          "cardBehaveAffectId": "20050095",
+          "timing": "1",
+          "func": "20",
+          "params": "214,0",
+          "comp": "9",
+          "compParams": "2",
           "category": "0"
         },
         {

@@ -3989,6 +3989,12 @@
           "speechCharactorName": "志村ダンゾウ"
         },
         {
+          "speechCharactorId": "670",
+          "cardId": "20001669",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはイタチ"
+        },
+        {
           "speechCharactorId": "1000",
           "cardId": "21000091",
           "speechCharactorImgId": "1000",

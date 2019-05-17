@@ -413,8 +413,8 @@
           "evolutionStep": "",
           "voiceAppear": "hashirama_battle_02_03",
           "voiceSkill1": "hashirama_skill_02_02",
-          "voiceSkill2": "0",
-          "voicePursuit": "0",
+          "voiceSkill2": "",
+          "voicePursuit": "",
           "voiceWin": "hashirama_win_02_01",
           "voiceDeath": "hashirama_death_02_03"
         },
@@ -425,8 +425,8 @@
           "evolutionStep": "",
           "voiceAppear": "madara_battle_02_01",
           "voiceSkill1": "madara_skill_02_06",
-          "voiceSkill2": "0",
-          "voicePursuit": "0",
+          "voiceSkill2": "",
+          "voicePursuit": "",
           "voiceWin": "madara_attack_02_03",
           "voiceDeath": "madara_menu_02"
         },
@@ -2373,6 +2373,18 @@
           "voicePursuit": "",
           "voiceWin": "sasuke_win_02_08",
           "voiceDeath": "sasuke_death_02_06"
+        },
+        {
+          "cardVoiceId": "200",
+          "cardId": "20050514",
+          "dirName": "itachi",
+          "evolutionStep": "",
+          "voiceAppear": "itachi_battle_02_04",
+          "voiceSkill1": "itachi_skill_02_05",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "itachi_skill_02_06",
+          "voiceDeath": "itachi_death_02_03"
         },
         {
           "cardVoiceId": "8001",
