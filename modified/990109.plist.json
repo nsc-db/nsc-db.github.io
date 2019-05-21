@@ -19611,18 +19611,18 @@
         },
         {
           "abilityId": "2231",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "弟と里への想い",
+          "abilityDescription": "味方にうちはサスケ（年代問わず）が生存していると素早さ150％アップ、敵に生存していると素早さ200％アップ",
+          "abilityEffectDescription": "味方にうちはサスケ（年代問わず）が生存していると素早さ150％アップ、敵に生存していると素早さ200％アップ",
           "effectIdx1": "2265",
           "effectIdx2": "2266",
           "effectIdx3": "0"
         },
         {
           "abilityId": "2232",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "弟の友に託す願い",
+          "abilityDescription": "死亡した時、味方全体を特殊状態「託」にし、HP80％以上の時、確実に再行動する※再行動後さらに行動はできない",
+          "abilityEffectDescription": "死亡した時、味方全体を特殊状態「託」にし、HP80％以上の時、確実に再行動する※再行動後さらに行動はできない",
           "effectIdx1": "2268",
           "effectIdx2": "2269",
           "effectIdx3": "0"

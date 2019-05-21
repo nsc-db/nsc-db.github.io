@@ -11544,8 +11544,8 @@
         },
         {
           "cardLeaderSkillId": "903",
-          "name": "0",
-          "description": "0",
+          "name": "英名を求めぬ影",
+          "description": "心属性と勇属性の全スキルダメージと素早さを90％アップ",
           "effectIdx1": "30008",
           "effectIdx2": "13089",
           "effectIdx3": "0",

@@ -6104,7 +6104,7 @@
         },
         {
           "cardBattleSkillNameId": "2734",
-          "name": "0"
+          "name": "…仲間を忘れるな"
         },
         {
           "cardBattleSkillNameId": "10136",
@@ -6257,5 +6257,17 @@
         {
           "cardBattleSkillNameId": "20902",
           "name": "単体攻撃＋？"
+        },
+        {
+          "cardBattleSkillNameId": "30000",
+          "name": "強化（攻撃力）"
+        },
+        {
+          "cardBattleSkillNameId": "30001",
+          "name": "強化（防御力）"
+        },
+        {
+          "cardBattleSkillNameId": "30002",
+          "name": "強化（素早さ）"
         }
       ]

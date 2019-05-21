@@ -10213,7 +10213,7 @@
         {
           "crystalOverwriteEffectId": "865",
           "targetCrystal": "20521",
-          "description": "0",
+          "description": "2回行動するまでチャクラ消費量0、3回行動以降はチャクラ消費量半減、行動後チャクラが40％回復",
           "charaIds": "11603,",
           "cardIds": "0",
           "charaGroupIds": "0",
@@ -10225,7 +10225,7 @@
         {
           "crystalOverwriteEffectId": "866",
           "targetCrystal": "20522",
-          "description": "0",
+          "description": "状態異常と幻を無効、全スキルダメージ80％アップ、行動後HPが30％回復",
           "charaIds": "11603,",
           "cardIds": "0",
           "charaGroupIds": "0",
