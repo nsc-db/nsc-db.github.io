@@ -11545,8 +11545,8 @@ window.lead=[
         },
         {
           "cardLeaderSkillId": "903",
-          "name": "0",
-          "description": "0",
+          "name": "英名を求めぬ影",
+          "description": "心属性と勇属性の全スキルダメージと素早さを90％アップ",
           "effectIdx1": "30008",
           "effectIdx2": "13089",
           "effectIdx3": "0",
@@ -11555,6 +11555,32 @@ window.lead=[
           "target1Param": "1",
           "target2Category": "1",
           "target2Param": "7"
+        },
+        {
+          "cardLeaderSkillId": "904",
+          "name": "駆け抜ける辻風",
+          "description": "木ノ葉隠れの里所属の攻撃力と素早さを70％アップ",
+          "effectIdx1": "11069",
+          "effectIdx2": "13069",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "905",
+          "name": "夢を見守る心の師",
+          "description": "創キャラの最大HPを100%アップ、チャクラ消費量20%減少",
+          "effectIdx1": "2270",
+          "effectIdx2": "2271",
+          "effectIdx3": "0",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
         },
         {
           "cardLeaderSkillId": "8507",

@@ -19612,20 +19612,56 @@ window.ability=[
         },
         {
           "abilityId": "2231",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "弟と里への想い",
+          "abilityDescription": "味方にうちはサスケ（年代問わず）が生存していると素早さ150％アップ、敵に生存していると素早さ200％アップ",
+          "abilityEffectDescription": "味方にうちはサスケ（年代問わず）が生存していると素早さ150％アップ、敵に生存していると素早さ200％アップ",
           "effectIdx1": "2265",
           "effectIdx2": "2266",
           "effectIdx3": "0"
         },
         {
           "abilityId": "2232",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "弟の友に託す願い",
+          "abilityDescription": "死亡した時、味方全体を特殊状態「託」にし、HP80％以上の時、確実に再行動する※再行動後さらに行動はできない",
+          "abilityEffectDescription": "死亡した時、味方全体を特殊状態「託」にし、HP80％以上の時、確実に再行動する※再行動後さらに行動はできない",
           "effectIdx1": "2268",
           "effectIdx2": "2269",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2233",
+          "abilityName": "認められるための努力",
+          "abilityDescription": "HP0以下で1回耐え、行動するたびに素早さが30％アップする(最大5回)",
+          "abilityEffectDescription": "HP0以下で1回耐え、行動するたびに素早さが30％アップする(最大5回)",
+          "effectIdx1": "312",
+          "effectIdx2": "1424",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2234",
+          "abilityName": "内に秘める力",
+          "abilityDescription": "HP50%以下の時にスキルダメージ100%アップ、確率でスキル回避",
+          "abilityEffectDescription": "HP50%以下の時にスキルダメージ100%アップ、確率でスキル回避",
+          "effectIdx1": "1758",
+          "effectIdx2": "1423",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2235",
+          "abilityName": "孤独を知る先達",
+          "abilityDescription": "5回行動までうずまきナルト（年代問わず）への単体スキル攻撃を受ける※かばうは最後の発動者が有効",
+          "abilityEffectDescription": "5回行動までうずまきナルト（年代問わず）への単体スキル攻撃を受ける※かばうは最後の発動者が有効",
+          "effectIdx1": "2272",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2236",
+          "abilityName": "生徒へのエール",
+          "abilityDescription": "HP0以下で1回耐える、味方にうずまきナルト（年代問わず）がいると最大HP100%アップ ",
+          "abilityEffectDescription": "HP0以下で1回耐える、味方にうずまきナルト（年代問わず）がいると最大HP100%アップ ",
+          "effectIdx1": "312",
+          "effectIdx2": "2273",
           "effectIdx3": "0"
         },
         {

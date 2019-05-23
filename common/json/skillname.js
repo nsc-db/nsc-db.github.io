@@ -6105,7 +6105,23 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "2734",
-          "name": "0"
+          "name": "…仲間を忘れるな"
+        },
+        {
+          "cardBattleSkillNameId": "2735",
+          "name": "影分身の術・三位一体"
+        },
+        {
+          "cardBattleSkillNameId": "2736",
+          "name": "それじゃあこっちからいくぜ"
+        },
+        {
+          "cardBattleSkillNameId": "2737",
+          "name": "援撃疾風"
+        },
+        {
+          "cardBattleSkillNameId": "2738",
+          "name": "頑張れよ！"
         },
         {
           "cardBattleSkillNameId": "10136",
@@ -6258,5 +6274,17 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "20902",
           "name": "単体攻撃＋？"
+        },
+        {
+          "cardBattleSkillNameId": "30000",
+          "name": "強化（攻撃力）"
+        },
+        {
+          "cardBattleSkillNameId": "30001",
+          "name": "強化（防御力）"
+        },
+        {
+          "cardBattleSkillNameId": "30002",
+          "name": "強化（素早さ）"
         }
 ]
