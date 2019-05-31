@@ -1665,6 +1665,20 @@
           "gender": "1"
         },
         {
+          "charaProfileId": "4102",
+          "charaId": "41",
+          "name": "うちはシスイ",
+          "detail": null,
+          "charaLoveAffinityGroupId": "4110",
+          "birthday": "1019",
+          "constellation": "7",
+          "height": "18000",
+          "weight": "6890",
+          "bloodType": "1",
+          "age": "0",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "4201",
           "charaId": "42",
           "name": "テンゾウ",
@@ -2397,6 +2411,20 @@
           "charaId": "131",
           "name": "ペイン畜生道",
           "detail": "",
+          "charaLoveAffinityGroupId": "13110",
+          "birthday": "0",
+          "constellation": "0",
+          "height": "0",
+          "weight": "0",
+          "bloodType": "0",
+          "age": "0",
+          "gender": "2"
+        },
+        {
+          "charaProfileId": "13102",
+          "charaId": "131",
+          "name": "ペイン畜生道",
+          "detail": null,
           "charaLoveAffinityGroupId": "13110",
           "birthday": "0",
           "constellation": "0",
@@ -3398,6 +3426,20 @@
           "weight": "0",
           "bloodType": "0",
           "age": "0",
+          "gender": "1"
+        },
+        {
+          "charaProfileId": "51801",
+          "charaId": "518",
+          "name": "油女トルネ",
+          "detail": null,
+          "charaLoveAffinityGroupId": "51810",
+          "birthday": "1024",
+          "constellation": "8",
+          "height": "17830",
+          "weight": "6870",
+          "bloodType": "3",
+          "age": "19",
           "gender": "1"
         },
         {

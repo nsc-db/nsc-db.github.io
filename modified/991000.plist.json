@@ -7737,5 +7737,10 @@
           "appUiId": "1551",
           "uiKey": "MaterialListAndSell",
           "text": "素材一覧・売却"
+        },
+        {
+          "appUiId": "1561",
+          "uiKey": "MissionRank110",
+          "text": "スマイルランク任務"
         }
       ]

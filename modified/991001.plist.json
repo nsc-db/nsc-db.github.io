@@ -76484,6 +76484,1016 @@
           "message": "言ったハズだ…\r\nお前の運命を握る究極の瞳術だと"
         },
         {
+          "scriptMessageId": "27792",
+          "speechCharactorId": "671",
+          "message": "あー、腹減ったってばよ…"
+        },
+        {
+          "scriptMessageId": "27793",
+          "speechCharactorId": "671",
+          "message": "一楽のラーメンでも食べ……ん？"
+        },
+        {
+          "scriptMessageId": "27794",
+          "speechCharactorId": "267",
+          "message": "うーん…"
+        },
+        {
+          "scriptMessageId": "27795",
+          "speechCharactorId": "671",
+          "message": "あっ、イルカ先生だってばよ"
+        },
+        {
+          "scriptMessageId": "27796",
+          "speechCharactorId": "671",
+          "message": "おーい！イルカ先生！"
+        },
+        {
+          "scriptMessageId": "27797",
+          "speechCharactorId": "267",
+          "message": "うーん…"
+        },
+        {
+          "scriptMessageId": "27798",
+          "speechCharactorId": "671",
+          "message": "先生！先生ってば！\r\n おーい！"
+        },
+        {
+          "scriptMessageId": "27799",
+          "speechCharactorId": "671",
+          "message": "…"
+        },
+        {
+          "scriptMessageId": "27800",
+          "speechCharactorId": "671",
+          "message": "イルカ先生、あんな難しい顔して\r\nなんかあったのかな…"
+        },
+        {
+          "scriptMessageId": "27801",
+          "speechCharactorId": "671",
+          "message": "そういえばイルカ先生\r\n そろそろ誕生日だってのに…"
+        },
+        {
+          "scriptMessageId": "27802",
+          "speechCharactorId": "671",
+          "message": "…あっ！\r\nいいこと思いついたってばよ！"
+        },
+        {
+          "scriptMessageId": "27803",
+          "speechCharactorId": "671",
+          "message": "こうしちゃいられねぇ！\r\nさっそく準備するってばよ！"
+        },
+        {
+          "scriptMessageId": "27804",
+          "speechCharactorId": "671",
+          "message": "…よし、これで完璧だってばよ"
+        },
+        {
+          "scriptMessageId": "27805",
+          "speechCharactorId": "671",
+          "message": "あとは、イルカ先生が来れば…"
+        },
+        {
+          "scriptMessageId": "27806",
+          "speechCharactorId": "267",
+          "message": "おーい、ナルト！"
+        },
+        {
+          "scriptMessageId": "27807",
+          "speechCharactorId": "671",
+          "message": "先生！先生！\r\n見てくれってばよ！"
+        },
+        {
+          "scriptMessageId": "27808",
+          "speechCharactorId": "267",
+          "message": "ナルト！これはどういうことだ！"
+        },
+        {
+          "scriptMessageId": "27809",
+          "speechCharactorId": "671",
+          "message": "すげーだろ？\r\nここ、大きくありがと…"
+        },
+        {
+          "scriptMessageId": "27810",
+          "speechCharactorId": "267",
+          "message": "また歴代火影様たちの顔岩に落書きなんて！\r\nバカもの！"
+        },
+        {
+          "scriptMessageId": "27811",
+          "speechCharactorId": "671",
+          "message": "今度は違うってばよ！\r\n顔岩の顔はさけてるし、これは…"
+        },
+        {
+          "scriptMessageId": "27812",
+          "speechCharactorId": "267",
+          "message": "まったく！もうお前は下忍なんだぞ！"
+        },
+        {
+          "scriptMessageId": "27813",
+          "speechCharactorId": "267",
+          "message": "これからきれ～に掃除だ！ナルト！"
+        },
+        {
+          "scriptMessageId": "27814",
+          "speechCharactorId": "671",
+          "message": "イルカ先生！聞いてくれってばよ…！"
+        },
+        {
+          "scriptMessageId": "27815",
+          "speechCharactorId": "671",
+          "message": "…よし、もうこれしかないってばよ"
+        },
+        {
+          "scriptMessageId": "27816",
+          "speechCharactorId": "671",
+          "message": "これで、イルカ先生も…"
+        },
+        {
+          "scriptMessageId": "27817",
+          "speechCharactorId": "267",
+          "message": "ナルト！"
+        },
+        {
+          "scriptMessageId": "27818",
+          "speechCharactorId": "671",
+          "message": "あ！イルカ先生！"
+        },
+        {
+          "scriptMessageId": "27819",
+          "speechCharactorId": "267",
+          "message": "用事があるって、どうしたんだ？"
+        },
+        {
+          "scriptMessageId": "27820",
+          "speechCharactorId": "671",
+          "message": "先生！いくってばよ！"
+        },
+        {
+          "scriptMessageId": "27821",
+          "speechCharactorId": "671",
+          "message": "イルカ先生！よーく見ててくれってばよ！"
+        },
+        {
+          "scriptMessageId": "27822",
+          "speechCharactorId": "671",
+          "message": "ハーレムの術！"
+        },
+        {
+          "scriptMessageId": "27823",
+          "speechCharactorId": "267",
+          "message": "！？"
+        },
+        {
+          "scriptMessageId": "27824",
+          "speechCharactorId": "671",
+          "message": "どう？\r\n これで元気出た？出た？"
+        },
+        {
+          "scriptMessageId": "27825",
+          "speechCharactorId": "267",
+          "message": "ば、バカもの！"
+        },
+        {
+          "scriptMessageId": "27826",
+          "speechCharactorId": "671",
+          "message": "先生！オレってば、先生にげん…"
+        },
+        {
+          "scriptMessageId": "27827",
+          "speechCharactorId": "267",
+          "message": "この前といい今回といい、\r\n今日という今日はみっちりお仕置きだ！"
+        },
+        {
+          "scriptMessageId": "27828",
+          "speechCharactorId": "671",
+          "message": "そりゃないってばよ！"
+        },
+        {
+          "scriptMessageId": "27829",
+          "speechCharactorId": "267",
+          "message": "それにしても…\r\nナルトのやつ、一体どうしたんだ…"
+        },
+        {
+          "scriptMessageId": "27830",
+          "speechCharactorId": "267",
+          "message": "下忍になってからは\r\nイタズラすることなんてなかったのに"
+        },
+        {
+          "scriptMessageId": "27831",
+          "speechCharactorId": "267",
+          "message": "……"
+        },
+        {
+          "scriptMessageId": "27832",
+          "speechCharactorId": "671",
+          "message": "（どう？）\r\n（これで元気出た？出た？）"
+        },
+        {
+          "scriptMessageId": "27833",
+          "speechCharactorId": "267",
+          "message": "……"
+        },
+        {
+          "scriptMessageId": "27834",
+          "speechCharactorId": "267",
+          "message": "もしかしてオレのことを…"
+        },
+        {
+          "scriptMessageId": "27835",
+          "speechCharactorId": "267",
+          "message": "アイツなりに頑張って…"
+        },
+        {
+          "scriptMessageId": "27836",
+          "speechCharactorId": "267",
+          "message": "……"
+        },
+        {
+          "scriptMessageId": "27837",
+          "speechCharactorId": "267",
+          "message": "…一楽のラーメンでも\r\n おごってやるか…"
+        },
+        {
+          "scriptMessageId": "27838",
+          "speechCharactorId": "672",
+          "message": "なあ、サクラちゃん\r\nちょっと相談があんだけどさ"
+        },
+        {
+          "scriptMessageId": "27839",
+          "speechCharactorId": "524",
+          "message": "なによ、ナルト\r\n 急に改まっちゃって"
+        },
+        {
+          "scriptMessageId": "27840",
+          "speechCharactorId": "672",
+          "message": "実はさ、そろそろイルカ先生の誕生日なんだってばよ"
+        },
+        {
+          "scriptMessageId": "27841",
+          "speechCharactorId": "524",
+          "message": "えっ、そうなの？"
+        },
+        {
+          "scriptMessageId": "27842",
+          "speechCharactorId": "672",
+          "message": "オレってば、昔から迷惑かけてるし\r\n何かお礼をしたいと思ってんだけど…\r\nイマイチ何をしていいかわからなくて…"
+        },
+        {
+          "scriptMessageId": "27843",
+          "speechCharactorId": "524",
+          "message": "（お礼をしたいだなんて）\r\n（ナルト、少しは大人に…）"
+        },
+        {
+          "scriptMessageId": "27844",
+          "speechCharactorId": "672",
+          "message": "やっぱ、ここは新開発したエロ忍術しか…"
+        },
+        {
+          "scriptMessageId": "27845",
+          "speechCharactorId": "524",
+          "message": "そうそう、新エロ忍術を…"
+        },
+        {
+          "scriptMessageId": "27846",
+          "speechCharactorId": "524",
+          "message": "…って\r\nこのバカー！！！"
+        },
+        {
+          "scriptMessageId": "27847",
+          "speechCharactorId": "524",
+          "message": "ったく、まったくアンタは…"
+        },
+        {
+          "scriptMessageId": "27848",
+          "speechCharactorId": "672",
+          "message": "じょ…冗談だってばよ…"
+        },
+        {
+          "scriptMessageId": "27849",
+          "speechCharactorId": "524",
+          "message": "で？\r\nアンタは何をしてあげたら喜ぶと思うの？"
+        },
+        {
+          "scriptMessageId": "27850",
+          "speechCharactorId": "672",
+          "message": "うーん、何となくだけど\r\nやっぱこういうのって何かプレゼントかなァって"
+        },
+        {
+          "scriptMessageId": "27851",
+          "speechCharactorId": "173",
+          "message": "あ、サクラとナルトじゃない"
+        },
+        {
+          "scriptMessageId": "27852",
+          "speechCharactorId": "672",
+          "message": "…っつーことなんだってばよ"
+        },
+        {
+          "scriptMessageId": "27853",
+          "speechCharactorId": "173",
+          "message": "なるほどねぇ"
+        },
+        {
+          "scriptMessageId": "27854",
+          "speechCharactorId": "524",
+          "message": "いの、何かいいものないかしら"
+        },
+        {
+          "scriptMessageId": "27855",
+          "speechCharactorId": "173",
+          "message": "そうねぇ\r\nナルト、手紙はどう？\r\nその感謝の気持ちを\r\n手紙に書いて渡すのよ"
+        },
+        {
+          "scriptMessageId": "27856",
+          "speechCharactorId": "672",
+          "message": "あ！それいいってばよ！"
+        },
+        {
+          "scriptMessageId": "27857",
+          "speechCharactorId": "524",
+          "message": "いの！なかなか良いこというじゃない！"
+        },
+        {
+          "scriptMessageId": "27858",
+          "speechCharactorId": "173",
+          "message": "まあね\r\nというか、サクラもこれくらいパッと出しなさいよ…"
+        },
+        {
+          "scriptMessageId": "27859",
+          "speechCharactorId": "524",
+          "message": "うっさいわね…余計なお世話よ…"
+        },
+        {
+          "scriptMessageId": "27860",
+          "speechCharactorId": "672",
+          "message": "いの！ありがとだってばよ！\r\nオレってば手紙とか苦手だけど、書いてみる！"
+        },
+        {
+          "scriptMessageId": "27861",
+          "speechCharactorId": "672",
+          "message": "おーい！イルカ先生！"
+        },
+        {
+          "scriptMessageId": "27862",
+          "speechCharactorId": "267",
+          "message": "おお、ナルト"
+        },
+        {
+          "scriptMessageId": "27863",
+          "speechCharactorId": "672",
+          "message": "イルカ先生！\r\nオレ、先生に渡したいものがあるってばよ！"
+        },
+        {
+          "scriptMessageId": "27864",
+          "speechCharactorId": "267",
+          "message": "手紙…か？"
+        },
+        {
+          "scriptMessageId": "27865",
+          "speechCharactorId": "672",
+          "message": "ああ、ちょっと照れくさいけど\r\n誕生日プレゼントだってばよ"
+        },
+        {
+          "scriptMessageId": "27866",
+          "speechCharactorId": "267",
+          "message": "ナルト…お前…"
+        },
+        {
+          "scriptMessageId": "27867",
+          "speechCharactorId": "672",
+          "message": "先生にお礼したかったんだけど\r\nオレってば、何も思いつかなくて"
+        },
+        {
+          "scriptMessageId": "27868",
+          "speechCharactorId": "672",
+          "message": "サクラちゃんといのに相談して\r\n手紙を書くことにしたんだってばよ"
+        },
+        {
+          "scriptMessageId": "27869",
+          "speechCharactorId": "267",
+          "message": "（そうか…相談して決めたのか…）"
+        },
+        {
+          "scriptMessageId": "27870",
+          "speechCharactorId": "672",
+          "message": "ここで読まれたら恥ずかしいから\r\n帰ったら読んでくれってばよ！"
+        },
+        {
+          "scriptMessageId": "27871",
+          "speechCharactorId": "672",
+          "message": "じゃーな！先生！"
+        },
+        {
+          "scriptMessageId": "27872",
+          "speechCharactorId": "267",
+          "message": "……"
+        },
+        {
+          "scriptMessageId": "27873",
+          "speechCharactorId": "267",
+          "message": "…………"
+        },
+        {
+          "scriptMessageId": "27874",
+          "speechCharactorId": "267",
+          "message": "ナルトが手紙をオレにくれるとはな"
+        },
+        {
+          "scriptMessageId": "27875",
+          "speechCharactorId": "267",
+          "message": "……"
+        },
+        {
+          "scriptMessageId": "27876",
+          "speechCharactorId": "672",
+          "message": "（どう？）\r\n（これで元気出た？出た？）"
+        },
+        {
+          "scriptMessageId": "27877",
+          "speechCharactorId": "267",
+          "message": "ふっ…\r\nナルトもいつの間にか成長してたんだな…"
+        },
+        {
+          "scriptMessageId": "27878",
+          "speechCharactorId": "267",
+          "message": "……"
+        },
+        {
+          "scriptMessageId": "27879",
+          "speechCharactorId": "267",
+          "message": "…今度、一楽のラーメンでも\r\n一緒に食べにいくか"
+        },
+        {
+          "scriptMessageId": "27880",
+          "speechCharactorId": "673",
+          "message": "その年で良い腕だな"
+        },
+        {
+          "scriptMessageId": "27881",
+          "speechCharactorId": "674",
+          "message": "シスイさんにはかなわない"
+        },
+        {
+          "scriptMessageId": "27882",
+          "speechCharactorId": "673",
+          "message": "よく言う\r\nどうした？\r\nアカデミーが退屈でサボってた？"
+        },
+        {
+          "scriptMessageId": "27883",
+          "speechCharactorId": "674",
+          "message": "サボってなんかいないよ"
+        },
+        {
+          "scriptMessageId": "27884",
+          "speechCharactorId": "674",
+          "message": "シスイさん\r\nどうして命は争うんですか？"
+        },
+        {
+          "scriptMessageId": "27885",
+          "speechCharactorId": "673",
+          "message": "さあな\r\nでも、止められる争いなら\r\nオレはやめさせたい。"
+        },
+        {
+          "scriptMessageId": "27886",
+          "speechCharactorId": "674",
+          "message": "オレも……"
+        },
+        {
+          "scriptMessageId": "27887",
+          "speechCharactorId": "675",
+          "message": "なぜ同じ木ノ葉同士で争う！？"
+        },
+        {
+          "scriptMessageId": "27888",
+          "speechCharactorId": "5101",
+          "message": "我ら闇の掟により、木ノ葉の秩序を正すんだよ"
+        },
+        {
+          "scriptMessageId": "27889",
+          "speechCharactorId": "675",
+          "message": "影から平和を支える名もなき者\r\nそれが忍だとオレは思う"
+        },
+        {
+          "scriptMessageId": "27890",
+          "speechCharactorId": "675",
+          "message": "刃をちらつかせ、力を誇示して保つ秩序など…\r\n平和とは言えない！"
+        },
+        {
+          "scriptMessageId": "27891",
+          "speechCharactorId": "677",
+          "message": "シスイ、暗部の事だけど…"
+        },
+        {
+          "scriptMessageId": "27892",
+          "speechCharactorId": "675",
+          "message": "オレ達は自分を正義と信じて戦う\r\nが、敵も同じだとしたら\r\nどちらに真の正義があるのか…"
+        },
+        {
+          "scriptMessageId": "27893",
+          "speechCharactorId": "675",
+          "message": "だが、一つだけ確かなこともある"
+        },
+        {
+          "scriptMessageId": "27894",
+          "speechCharactorId": "675",
+          "message": "オレはお前を絶対に裏切らない\r\nそれだけは確かだ"
+        },
+        {
+          "scriptMessageId": "27895",
+          "speechCharactorId": "676",
+          "message": "うちは一族と里の間の不信感に、心を痛めています"
+        },
+        {
+          "scriptMessageId": "27896",
+          "speechCharactorId": "676",
+          "message": "一族と里を再び信頼でつなぐ事ができればと思っています\r\nその任務を授けてもらえないでしょうか"
+        },
+        {
+          "scriptMessageId": "27897",
+          "speechCharactorId": "153",
+          "message": "通常任務から外してほしいということか？"
+        },
+        {
+          "scriptMessageId": "27898",
+          "speechCharactorId": "676",
+          "message": "はい\r\nそれとオレにある程度の権限を与えてください"
+        },
+        {
+          "scriptMessageId": "27899",
+          "speechCharactorId": "153",
+          "message": "わかった\r\nお前にはワシから極秘の調査任務を\r\n出したということにする"
+        },
+        {
+          "scriptMessageId": "27900",
+          "speechCharactorId": "153",
+          "message": "何か不備が生じたときはワシの名を出せ\r\n責任はすべてワシが取る"
+        },
+        {
+          "scriptMessageId": "27901",
+          "speechCharactorId": "676",
+          "message": "ありがとうございます"
+        },
+        {
+          "scriptMessageId": "27902",
+          "speechCharactorId": "153",
+          "message": "お前を見ていると、ワシのかつての友\r\nうちはカガミを思い出す"
+        },
+        {
+          "scriptMessageId": "27903",
+          "speechCharactorId": "676",
+          "message": "まだまだ及びません…"
+        },
+        {
+          "scriptMessageId": "27904",
+          "speechCharactorId": "151",
+          "message": "三代目が説得しても、\r\n里の者の不信はそうそう消えぬぞ"
+        },
+        {
+          "scriptMessageId": "27905",
+          "speechCharactorId": "151",
+          "message": "それにだ、ワシのような疑り深い者も\r\nそう簡単には考えを変えぬ\r\nその時はどうする？"
+        },
+        {
+          "scriptMessageId": "27906",
+          "speechCharactorId": "676",
+          "message": "しかし、ダンゾウ様"
+        },
+        {
+          "scriptMessageId": "27907",
+          "speechCharactorId": "151",
+          "message": "その時には、このワシにも別天神とやらを使うのか？"
+        },
+        {
+          "scriptMessageId": "27908",
+          "speechCharactorId": "151",
+          "message": "…その写輪眼、ワシが預かる！"
+        },
+        {
+          "scriptMessageId": "27909",
+          "speechCharactorId": "676",
+          "message": "写輪眼を…！"
+        },
+        {
+          "scriptMessageId": "27910",
+          "speechCharactorId": "151",
+          "message": "この眼の代わりにいただくぞ\r\nもう片方も渡してもらおう！"
+        },
+        {
+          "scriptMessageId": "27911",
+          "speechCharactorId": "676",
+          "message": "くっ……"
+        },
+        {
+          "scriptMessageId": "27912",
+          "speechCharactorId": "151",
+          "message": "追え！"
+        },
+        {
+          "scriptMessageId": "27913",
+          "speechCharactorId": "676",
+          "message": "もう、うちはのクーデターは止められそうにない…"
+        },
+        {
+          "scriptMessageId": "27914",
+          "speechCharactorId": "676",
+          "message": "別天神を使いクーデターを止めようとした矢先\r\nダンゾウに右眼を奪われた"
+        },
+        {
+          "scriptMessageId": "27915",
+          "speechCharactorId": "676",
+          "message": "おそらく左眼も狙われる\r\nその前に、この眼はお前に渡す"
+        },
+        {
+          "scriptMessageId": "27916",
+          "speechCharactorId": "676",
+          "message": "頼めるのは親友のお前だけだ\r\nこの里…うちはの名を…守ってくれ"
+        },
+        {
+          "scriptMessageId": "27917",
+          "speechCharactorId": "596",
+          "message": "確かに受け取ったぞ\r\nお前はどうするんだ？"
+        },
+        {
+          "scriptMessageId": "27918",
+          "speechCharactorId": "676",
+          "message": "オレが死ねばいくつも状況が変わるだろう\r\n遺書も残してきた"
+        },
+        {
+          "scriptMessageId": "27919",
+          "speechCharactorId": "596",
+          "message": "待てシスイ！"
+        },
+        {
+          "scriptMessageId": "27920",
+          "speechCharactorId": "676",
+          "message": "止めるなよイタチ\r\nオレの…友ならば"
+        },
+        {
+          "scriptMessageId": "27921",
+          "speechCharactorId": "682",
+          "message": "なさけねェ…\r\nぶっ倒した二代目火影の術に\r\nこのオレ達がかかってるなんてのはな…"
+        },
+        {
+          "scriptMessageId": "27922",
+          "speechCharactorId": "682",
+          "message": "なあ金角"
+        },
+        {
+          "scriptMessageId": "27923",
+          "speechCharactorId": "678",
+          "message": "雲に二つの光ありとうたわれた\r\n金角銀角様に恥かかせちまってすみません"
+        },
+        {
+          "scriptMessageId": "27924",
+          "speechCharactorId": "678",
+          "message": "大先輩に失礼だけど\r\nもう少し恥かいてもらうっス…"
+        },
+        {
+          "scriptMessageId": "27925",
+          "speechCharactorId": "678",
+          "message": "お二人の金と銀のメッキを\r\n剥がす事になるかもしれません…"
+        },
+        {
+          "scriptMessageId": "27926",
+          "speechCharactorId": "678",
+          "message": "オレの嵐遁で一気にね！\r\nだるいっスけど！！"
+        },
+        {
+          "scriptMessageId": "27927",
+          "speechCharactorId": "682",
+          "message": "大先輩への口のきき方が気に入らねーな…\r\nすぐに黙らせてやる"
+        },
+        {
+          "scriptMessageId": "27928",
+          "speechCharactorId": "681",
+          "message": "やるぞ銀角"
+        },
+        {
+          "scriptMessageId": "27929",
+          "speechCharactorId": "682",
+          "message": "おうよ金角！"
+        },
+        {
+          "scriptMessageId": "27930",
+          "speechCharactorId": "682",
+          "message": "どいつもこいつもよく喋る…\r\nいいねェ…"
+        },
+        {
+          "scriptMessageId": "27931",
+          "speechCharactorId": "681",
+          "message": "しぼり出せ\r\n“幌金縄”！！"
+        },
+        {
+          "scriptMessageId": "27932",
+          "speechCharactorId": "679",
+          "message": "！？"
+        },
+        {
+          "scriptMessageId": "27933",
+          "speechCharactorId": "678",
+          "message": "何だアリャ！？"
+        },
+        {
+          "scriptMessageId": "27934",
+          "speechCharactorId": "681",
+          "message": "この左手の“幌金縄”は\r\n触れた奴の言霊をしぼり出す！"
+        },
+        {
+          "scriptMessageId": "27935",
+          "speechCharactorId": "682",
+          "message": "呪え\r\n“七星剣”！！"
+        },
+        {
+          "scriptMessageId": "27936",
+          "speechCharactorId": "682",
+          "message": "録音しろ\r\n“紅葫蘆”!"
+        },
+        {
+          "scriptMessageId": "27937",
+          "speechCharactorId": "682",
+          "message": "さて…\r\nこっちは終わったぜ金角"
+        },
+        {
+          "scriptMessageId": "27938",
+          "speechCharactorId": "679",
+          "message": "（やられた……）"
+        },
+        {
+          "scriptMessageId": "27939",
+          "speechCharactorId": "679",
+          "message": "いい…？\r\nこれからうかつに喋らない事"
+        },
+        {
+          "scriptMessageId": "27940",
+          "speechCharactorId": "678",
+          "message": "どういう事っスか！？"
+        },
+        {
+          "scriptMessageId": "27941",
+          "speechCharactorId": "679",
+          "message": "私達は呪印術と封印術にかけられた…\r\n言霊を人質に取られたのよ"
+        },
+        {
+          "scriptMessageId": "27942",
+          "speechCharactorId": "679",
+          "message": "生まれて今まで“一番多く口にした言葉”を\r\n言ってしまうと……"
+        },
+        {
+          "scriptMessageId": "27943",
+          "speechCharactorId": "679",
+          "message": "あのひょうたんの中へ吸い込まれて\r\n封印されてしまう"
+        },
+        {
+          "scriptMessageId": "27944",
+          "speechCharactorId": "678",
+          "message": "…一番多く口にした言葉がタブーだと…！？"
+        },
+        {
+          "scriptMessageId": "27945",
+          "speechCharactorId": "678",
+          "message": "NGワードでゲームしてんじゃねェんだぞ…\r\nだるい事しやがって！"
+        },
+        {
+          "scriptMessageId": "27946",
+          "speechCharactorId": "681",
+          "message": "昔からこう言う\r\n“沈黙は金”とな"
+        },
+        {
+          "scriptMessageId": "27947",
+          "speechCharactorId": "681",
+          "message": "口は災いの元だ…\r\nなぁ銀角"
+        },
+        {
+          "scriptMessageId": "27948",
+          "speechCharactorId": "682",
+          "message": "ああ金角！\r\n言葉なんてのは嘘で人を騙すための道具だ"
+        },
+        {
+          "scriptMessageId": "27949",
+          "speechCharactorId": "678",
+          "message": "…言葉をバカにすっと\r\nビーさんに怒られるっスよ…"
+        },
+        {
+          "scriptMessageId": "27950",
+          "speechCharactorId": "678",
+          "message": "嵐遁・励挫鎖荷素！！"
+        },
+        {
+          "scriptMessageId": "27951",
+          "speechCharactorId": "682",
+          "message": "（速い…しかも誘導忍術か！？）"
+        },
+        {
+          "scriptMessageId": "27952",
+          "speechCharactorId": "678",
+          "message": "ぐっ！！"
+        },
+        {
+          "scriptMessageId": "27953",
+          "speechCharactorId": "682",
+          "message": "（金角の奴）\r\n（“幌金縄”をうまく当てたな！）"
+        },
+        {
+          "scriptMessageId": "27954",
+          "speechCharactorId": "678",
+          "message": "うっ……"
+        },
+        {
+          "scriptMessageId": "27955",
+          "speechCharactorId": "682",
+          "message": "まずはこっちだな"
+        },
+        {
+          "scriptMessageId": "27956",
+          "speechCharactorId": "679",
+          "message": "！？"
+        },
+        {
+          "scriptMessageId": "27957",
+          "speechCharactorId": "678",
+          "message": "どういう事だ？\r\n何も言ってないのに\r\nサムイさんが吸い込まれた…！？"
+        },
+        {
+          "scriptMessageId": "27958",
+          "speechCharactorId": "678",
+          "message": "（オレのNGワード…）\r\n（一生で一番口にした言葉はおそらく“だるい”だ）"
+        },
+        {
+          "scriptMessageId": "27959",
+          "speechCharactorId": "678",
+          "message": "（それを口にしなければ……）\r\n（あのひょうたんに吸い込まれることはない…）"
+        },
+        {
+          "scriptMessageId": "27960",
+          "speechCharactorId": "678",
+          "message": "（だが…サムイさんは何も口にしていないのに）\r\n（吸い込まれた…）"
+        },
+        {
+          "scriptMessageId": "27961",
+          "speechCharactorId": "678",
+          "message": "（この事からおそらく――）"
+        },
+        {
+          "scriptMessageId": "27962",
+          "speechCharactorId": "678",
+          "message": "一定時間黙っていても\r\n吸い込まれてしまう……違うか？"
+        },
+        {
+          "scriptMessageId": "27963",
+          "speechCharactorId": "682",
+          "message": "よく気付いたな…\r\nここまでバレてなかったみてーだが…\r\nなかなかやる"
+        },
+        {
+          "scriptMessageId": "27964",
+          "speechCharactorId": "678",
+          "message": "“沈黙は金”なんて\r\nよく言ったもんだ……ったく"
+        },
+        {
+          "scriptMessageId": "27965",
+          "speechCharactorId": "682",
+          "message": "“雄弁は金”って事もある！\r\n騙してなんぼの弁舌だ！"
+        },
+        {
+          "scriptMessageId": "27966",
+          "speechCharactorId": "682",
+          "message": "ここで言うなら“沈黙は禁”ってな\r\nハハハ！"
+        },
+        {
+          "scriptMessageId": "27967",
+          "speechCharactorId": "678",
+          "message": "……"
+        },
+        {
+          "scriptMessageId": "27968",
+          "speechCharactorId": "682",
+          "message": "だから言ったろ！\r\n言葉なんてのは人を騙すための道具だってな"
+        },
+        {
+          "scriptMessageId": "27969",
+          "speechCharactorId": "682",
+          "message": "忍の世では騙し合い裏切りも立派な戦術…\r\n言葉も忍具だ"
+        },
+        {
+          "scriptMessageId": "27970",
+          "speechCharactorId": "678",
+          "message": "そんなんだから…\r\n雲隠れでアンタ達は不名誉の象徴なのさ"
+        },
+        {
+          "scriptMessageId": "27971",
+          "speechCharactorId": "682",
+          "message": "なんだとこの三下銅ヤロー！"
+        },
+        {
+          "scriptMessageId": "27972",
+          "speechCharactorId": "682",
+          "message": "お前はしょせん雷影の駒で\r\nこの忍具の類似品みてーなもんだ！"
+        },
+        {
+          "scriptMessageId": "27973",
+          "speechCharactorId": "682",
+          "message": "ただの忍具だ！\r\nほざくな甘ちゃんが！"
+        },
+        {
+          "scriptMessageId": "27974",
+          "speechCharactorId": "680",
+          "message": "左腕に未練などない\r\nなぜならワシは右腕を二つ持っておるからな"
+        },
+        {
+          "scriptMessageId": "27975",
+          "speechCharactorId": "678",
+          "message": "二つ？"
+        },
+        {
+          "scriptMessageId": "27976",
+          "speechCharactorId": "680",
+          "message": "うむ…これと―…\r\nお前だ"
+        },
+        {
+          "scriptMessageId": "27977",
+          "speechCharactorId": "678",
+          "message": "オレはボスの右腕だ\r\n類似品じゃねェ！"
+        },
+        {
+          "scriptMessageId": "27978",
+          "speechCharactorId": "681",
+          "message": "…おい銀角\r\n“紅葫蘆”を構えろ"
+        },
+        {
+          "scriptMessageId": "27979",
+          "speechCharactorId": "678",
+          "message": "！！？"
+        },
+        {
+          "scriptMessageId": "27980",
+          "speechCharactorId": "678",
+          "message": "（吸い込まれてる…！？）"
+        },
+        {
+          "scriptMessageId": "27981",
+          "speechCharactorId": "678",
+          "message": "（何で！？“だるい”とは言ってない…）"
+        },
+        {
+          "scriptMessageId": "27982",
+          "speechCharactorId": "678",
+          "message": "（だ類……）\r\n（しまった！！）"
+        },
+        {
+          "scriptMessageId": "27983",
+          "speechCharactorId": "678",
+          "message": "すみませんボス…"
+        },
+        {
+          "scriptMessageId": "27984",
+          "speechCharactorId": "678",
+          "message": "すみません…サムイさん\r\n…アツイ"
+        },
+        {
+          "scriptMessageId": "27985",
+          "speechCharactorId": "678",
+          "message": "すみません皆…"
+        },
+        {
+          "scriptMessageId": "27986",
+          "speechCharactorId": "682",
+          "message": "（なんで！？）"
+        },
+        {
+          "scriptMessageId": "27987",
+          "speechCharactorId": "682",
+          "message": "（吸い込まれていない…！？）"
+        },
+        {
+          "scriptMessageId": "27988",
+          "speechCharactorId": "678",
+          "message": "オレは意外と――"
+        },
+        {
+          "scriptMessageId": "27989",
+          "speechCharactorId": "678",
+          "message": "（謙虚な奴だったって事か…）\r\n（悪くねェ！）"
+        },
+        {
+          "scriptMessageId": "27990",
+          "speechCharactorId": "682",
+          "message": "てめェ！"
+        },
+        {
+          "scriptMessageId": "27991",
+          "speechCharactorId": "678",
+          "message": "…確かに…言葉ってのは\r\n嘘をつき人を騙すための道具かもしんねェ…"
+        },
+        {
+          "scriptMessageId": "27992",
+          "speechCharactorId": "678",
+          "message": "けどここぞって時\r\n言葉ってのは――"
+        },
+        {
+          "scriptMessageId": "27993",
+          "speechCharactorId": "678",
+          "message": "ここん中の誠を伝える\r\n大切なもんになる"
+        },
+        {
           "scriptMessageId": "40001",
           "speechCharactorId": "178",
           "message": "絶望しかないこの世界に\r\n存在する価値はない"

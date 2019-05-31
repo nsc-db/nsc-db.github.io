@@ -3995,10 +3995,100 @@
           "speechCharactorName": "うちはイタチ"
         },
         {
+          "speechCharactorId": "671",
+          "cardId": "20001767",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うずまきナルト"
+        },
+        {
+          "speechCharactorId": "672",
+          "cardId": "20001651",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うずまきナルト"
+        },
+        {
+          "speechCharactorId": "673",
+          "cardId": "673",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはシスイ"
+        },
+        {
+          "speechCharactorId": "674",
+          "cardId": "674",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはイタチ"
+        },
+        {
+          "speechCharactorId": "675",
+          "cardId": "675",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはシスイ"
+        },
+        {
+          "speechCharactorId": "676",
+          "cardId": "20050603",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはシスイ"
+        },
+        {
+          "speechCharactorId": "677",
+          "cardId": "677",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはイタチ"
+        },
+        {
+          "speechCharactorId": "678",
+          "cardId": "20040414",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "ダルイ"
+        },
+        {
+          "speechCharactorId": "679",
+          "cardId": "20050201",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "サムイ"
+        },
+        {
+          "speechCharactorId": "680",
+          "cardId": "20050314",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "雷影"
+        },
+        {
+          "speechCharactorId": "681",
+          "cardId": "681",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "金角"
+        },
+        {
+          "speechCharactorId": "682",
+          "cardId": "682",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "銀角"
+        },
+        {
           "speechCharactorId": "1000",
           "cardId": "21000091",
           "speechCharactorImgId": "1000",
           "speechCharactorName": "ミズキ"
+        },
+        {
+          "speechCharactorId": "5101",
+          "cardId": "50000001",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "暗部"
+        },
+        {
+          "speechCharactorId": "5102",
+          "cardId": "50000003",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "金角"
+        },
+        {
+          "speechCharactorId": "5103",
+          "cardId": "50000003",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "銀角"
         },
         {
           "speechCharactorId": "9000",

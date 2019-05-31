@@ -2387,6 +2387,30 @@
           "voiceDeath": "itachi_death_02_03"
         },
         {
+          "cardVoiceId": "201",
+          "cardId": "20050601",
+          "dirName": "naruto",
+          "evolutionStep": "",
+          "voiceAppear": "naruto_skill_01_03",
+          "voiceSkill1": "naruto_battle_01_02",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "naruto_win_01_01",
+          "voiceDeath": "naruto_death_01_02"
+        },
+        {
+          "cardVoiceId": "202",
+          "cardId": "20050508",
+          "dirName": "iruka",
+          "evolutionStep": "",
+          "voiceAppear": "iruka_battle_02_02",
+          "voiceSkill1": "iruka_skill_02_08",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "iruka_menu_03",
+          "voiceDeath": "iruka_death_02_03"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

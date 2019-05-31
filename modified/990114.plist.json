@@ -2107,5 +2107,15 @@
           "subScore": "0",
           "color": "49151",
           "type": "2"
+        },
+        {
+          "cardUnusualId": "215",
+          "category": "4",
+          "iconId": "1240",
+          "name": "狂躁",
+          "description": "防御力ダウン＆行動するたびにHP減少、行動ごとに素早さ・術ダメージ・術速度減少のいずれかが発動",
+          "subScore": "0",
+          "color": "14614842",
+          "type": "3"
         }
       ]

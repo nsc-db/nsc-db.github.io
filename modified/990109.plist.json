@@ -19628,6 +19628,96 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2233",
+          "abilityName": "認められるための努力",
+          "abilityDescription": "HP0以下で1回耐え、行動するたびに素早さが30％アップする(最大5回)",
+          "abilityEffectDescription": "HP0以下で1回耐え、行動するたびに素早さが30％アップする(最大5回)",
+          "effectIdx1": "312",
+          "effectIdx2": "1424",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2234",
+          "abilityName": "内に秘める力",
+          "abilityDescription": "HP50%以下の時にスキルダメージ100%アップ、確率でスキル回避",
+          "abilityEffectDescription": "HP50%以下の時にスキルダメージ100%アップ、確率でスキル回避",
+          "effectIdx1": "1758",
+          "effectIdx2": "1423",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2235",
+          "abilityName": "孤独を知る先達",
+          "abilityDescription": "5回行動までうずまきナルト（年代問わず）への単体スキル攻撃を受ける※かばうは最後の発動者が有効",
+          "abilityEffectDescription": "5回行動までうずまきナルト（年代問わず）への単体スキル攻撃を受ける※かばうは最後の発動者が有効",
+          "effectIdx1": "2272",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2236",
+          "abilityName": "生徒へのエール",
+          "abilityDescription": "HP0以下で1回耐える、味方にうずまきナルト（年代問わず）がいると最大HP100%アップ ",
+          "abilityEffectDescription": "HP0以下で1回耐える、味方にうずまきナルト（年代問わず）がいると最大HP100%アップ ",
+          "effectIdx1": "312",
+          "effectIdx2": "2273",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2239",
+          "abilityName": "至速の翻弄",
+          "abilityDescription": "2回行動までスキップ無効＆素早さ100%アップ＆受ける耐性無視ダメージを0",
+          "abilityEffectDescription": "2回行動までスキップ無効＆素早さ100%アップ＆受ける耐性無視ダメージを0",
+          "effectIdx1": "2275",
+          "effectIdx2": "1692",
+          "effectIdx3": "1838"
+        },
+        {
+          "abilityId": "2240",
+          "abilityName": "粋然たる信念",
+          "abilityDescription": "HP90%以上のときスキルダメージ200%アップ、班の木ノ葉隠れの里所属1体につき素早さ50%アップ（自身含む）",
+          "abilityEffectDescription": "HP90%以上のときスキルダメージ200%アップ、班の木ノ葉隠れの里所属1体につき素早さ50%アップ（自身含む）",
+          "effectIdx1": "31819",
+          "effectIdx2": "1333",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2241",
+          "abilityName": "“根”の精鋭",
+          "abilityDescription": "弱体と状態異常を半減、毒を無効、攻撃を受けた時HPが20％回復",
+          "abilityEffectDescription": "弱体と状態異常を半減、毒を無効、攻撃を受けた時HPが20％回復",
+          "effectIdx1": "776",
+          "effectIdx2": "65",
+          "effectIdx3": "1167"
+        },
+        {
+          "abilityId": "2242",
+          "abilityName": "一族秘伝の毒蟲",
+          "abilityDescription": "5回行動まで志村ダンゾウ（年代問わず）への単体スキル攻撃を受ける※かばうは最後の発動者が有効",
+          "abilityEffectDescription": "5回行動まで志村ダンゾウ（年代問わず）への単体スキル攻撃を受ける※かばうは最後の発動者が有効",
+          "effectIdx1": "2276",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2243",
+          "abilityName": "忠義の右腕",
+          "abilityDescription": "HP50%以下の時チャクラ消費量半減、5回行動するまで全スキルダメージ半減",
+          "abilityEffectDescription": "HP50%以下の時チャクラ消費量半減、5回行動するまで全スキルダメージ半減",
+          "effectIdx1": "1220",
+          "effectIdx2": "1204",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2244",
+          "abilityName": "雷遁を纏う刀技",
+          "abilityDescription": "3回行動以降、素早さ200%アップ＆スキルダメージ300%アップ",
+          "abilityEffectDescription": "3回行動以降、素早さ200%アップ＆スキルダメージ300%アップ",
+          "effectIdx1": "2286",
+          "effectIdx2": "2279",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

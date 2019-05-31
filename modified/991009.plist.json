@@ -2045,6 +2045,24 @@
           "itemImgId": "23"
         },
         {
+          "shopExchangeItemId": "349",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "350",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "351",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
           "shopExchangeItemId": "1001",
           "itemName": "下心Pt",
           "measure": null,
@@ -2298,6 +2316,12 @@
         },
         {
           "shopExchangeItemId": "1043",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "1044",
           "itemName": "個人Pt",
           "measure": "0",
           "itemImgId": "23"
@@ -2621,6 +2645,12 @@
           "itemImgId": "41"
         },
         {
+          "shopExchangeItemId": "2054",
+          "itemName": "祭札[6月]",
+          "measure": "0",
+          "itemImgId": "41"
+        },
+        {
           "shopExchangeItemId": "2061",
           "itemName": "忍具札",
           "measure": "0",
@@ -2653,6 +2683,12 @@
         {
           "shopExchangeItemId": "2501",
           "itemName": "神忍札[5月]",
+          "measure": "0",
+          "itemImgId": "2500"
+        },
+        {
+          "shopExchangeItemId": "2502",
+          "itemName": "神忍札[6月]",
           "measure": "0",
           "itemImgId": "2500"
         },
