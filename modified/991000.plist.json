@@ -461,7 +461,7 @@
         {
           "appUiId": "93",
           "uiKey": "Option_Push",
-          "text": "通知"
+          "text": "通知\r\nｷｬﾝﾍﾟｰﾝ"
         },
         {
           "appUiId": "94",
@@ -6141,7 +6141,7 @@
         {
           "appUiId": "1229",
           "uiKey": "CollectionCharaNumber",
-          "text": "忍.%04d"
+          "text": "No.%04d"
         },
         {
           "appUiId": "1230",
@@ -7739,8 +7739,68 @@
           "text": "素材一覧・売却"
         },
         {
+          "appUiId": "1552",
+          "uiKey": "Pt",
+          "text": "Pt"
+        },
+        {
+          "appUiId": "1553",
+          "uiKey": "UseItemReplay",
+          "text": "引き続きアイテムを使用します"
+        },
+        {
+          "appUiId": "1554",
+          "uiKey": "MissionStart",
+          "text": "任務開始"
+        },
+        {
+          "appUiId": "1555",
+          "uiKey": "ItemNotSelected",
+          "text": "アイテム未選択"
+        },
+        {
+          "appUiId": "1556",
+          "uiKey": "MissionReplayErrorMessage1",
+          "text": "イベント期間が終了しました"
+        },
+        {
+          "appUiId": "1557",
+          "uiKey": "MissionReplayErrorMessage2",
+          "text": "増援キャラを連れ出せません"
+        },
+        {
+          "appUiId": "1558",
+          "uiKey": "MissionReplayErrorMessage3",
+          "text": "鍵が不足しています"
+        },
+        {
+          "appUiId": "1559",
+          "uiKey": "MissionReplayResultMessage",
+          "text": "もう一度同じ班編成で任務を開始しますか？"
+        },
+        {
+          "appUiId": "1560",
+          "uiKey": "Option_LocalPush",
+          "text": "通知\r\n忍連合戦"
+        },
+        {
           "appUiId": "1561",
           "uiKey": "MissionRank110",
           "text": "スマイルランク任務"
+        },
+        {
+          "appUiId": "1562",
+          "uiKey": "MissionReplayErrorMessage4",
+          "text": "カード枠が上限に達しています"
+        },
+        {
+          "appUiId": "1563",
+          "uiKey": "MissionReplayErrorMessage5",
+          "text": "素材カード枠が上限に達しています"
+        },
+        {
+          "appUiId": "1564",
+          "uiKey": "EventPointClear",
+          "text": "全て達成済み！！"
         }
       ]

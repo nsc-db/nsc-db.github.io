@@ -2327,6 +2327,18 @@
           "itemImgId": "23"
         },
         {
+          "shopExchangeItemId": "1045",
+          "itemName": "カタログギフト",
+          "measure": "0",
+          "itemImgId": "165"
+        },
+        {
+          "shopExchangeItemId": "1046",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
           "shopExchangeItemId": "2000",
           "itemName": "忍交換券(8月)",
           "measure": null,
@@ -2745,5 +2757,11 @@
           "itemName": "夏祭り特別ガチャ 初回10連20個引き(30個)",
           "measure": null,
           "itemImgId": "0"
+        },
+        {
+          "shopExchangeItemId": "10001045",
+          "itemName": "カタログギフト",
+          "measure": "0",
+          "itemImgId": "165"
         }
       ]

@@ -1940,7 +1940,7 @@
           "speechCharactorId": "324",
           "cardId": "21000081",
           "speechCharactorImgId": "324",
-          "speechCharactorName": "般若面"
+          "speechCharactorName": "般若"
         },
         {
           "speechCharactorId": "325",
@@ -4067,6 +4067,18 @@
           "speechCharactorName": "銀角"
         },
         {
+          "speechCharactorId": "683",
+          "cardId": "683",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはイタチ"
+        },
+        {
+          "speechCharactorId": "684",
+          "cardId": "20001810",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはイタチ"
+        },
+        {
           "speechCharactorId": "1000",
           "cardId": "21000091",
           "speechCharactorImgId": "1000",
@@ -4089,6 +4101,12 @@
           "cardId": "50000003",
           "speechCharactorImgId": "0",
           "speechCharactorName": "銀角"
+        },
+        {
+          "speechCharactorId": "5104",
+          "cardId": "50000012",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはフガク"
         },
         {
           "speechCharactorId": "9000",

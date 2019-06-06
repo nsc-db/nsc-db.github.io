@@ -431,6 +431,12 @@
           "needCount": "3"
         },
         {
+          "worldPhaseKeyId": "1001",
+          "keyGroupId": "10000",
+          "worldPhaseId": "610001",
+          "needCount": "10"
+        },
+        {
           "worldPhaseKeyId": "1002",
           "keyGroupId": "10000",
           "worldPhaseId": "610002",

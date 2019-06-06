@@ -77494,6 +77494,201 @@
           "message": "ここん中の誠を伝える\r\n大切なもんになる"
         },
         {
+          "scriptMessageId": "27994",
+          "speechCharactorId": "312",
+          "message": "兄さん！これなあに？"
+        },
+        {
+          "scriptMessageId": "27995",
+          "speechCharactorId": "683",
+          "message": "これ…あの時の"
+        },
+        {
+          "scriptMessageId": "27996",
+          "speechCharactorId": "683",
+          "message": "(命は生まれ、命は死ぬ…)\r\n(だが、救われるのもまた命)"
+        },
+        {
+          "scriptMessageId": "27997",
+          "speechCharactorId": "683",
+          "message": "(一族が集い、里が生まれ、そして関わった者達）\r\n(それを仲間と言うのなら、確かにオレ達は仲間だった)\r\n(関わってしまったから、あんなことに…)"
+        },
+        {
+          "scriptMessageId": "27998",
+          "speechCharactorId": "683",
+          "message": "(オレにはわかってなかった…本当の痛みが…)\r\n(命を失うという痛みが）"
+        },
+        {
+          "scriptMessageId": "27999",
+          "speechCharactorId": "683",
+          "message": "(失ってはじめて知った…いや、気付かされた)\r\n(大切なものを失いたくないという気持ちに…）"
+        },
+        {
+          "scriptMessageId": "28000",
+          "speechCharactorId": "312",
+          "message": "兄さん…眼が…？"
+        },
+        {
+          "scriptMessageId": "28001",
+          "speechCharactorId": "683",
+          "message": "（お前もいつか、この眼を持つ日が来るんだろうか）\r\n（この悲しみを知る日が…）"
+        },
+        {
+          "scriptMessageId": "28002",
+          "speechCharactorId": "675",
+          "message": "お前は優秀だからな、イタチ"
+        },
+        {
+          "scriptMessageId": "28003",
+          "speechCharactorId": "677",
+          "message": "オレなんかまだまだ未熟だ"
+        },
+        {
+          "scriptMessageId": "28004",
+          "speechCharactorId": "677",
+          "message": "オレが本当に優秀なら、アイツは死ななかった\r\nやっぱりオレはまだまだ未熟なんだ\r\nそんなオレが…"
+        },
+        {
+          "scriptMessageId": "28005",
+          "speechCharactorId": "677",
+          "message": "オレ…写輪眼を、開眼したんだ"
+        },
+        {
+          "scriptMessageId": "28006",
+          "speechCharactorId": "675",
+          "message": "お前は自分をだますのがうまいからな\r\nだから、自分の本心に気づけないのさ"
+        },
+        {
+          "scriptMessageId": "28007",
+          "speechCharactorId": "675",
+          "message": "うちにいたくなかったんだろ？\r\nそういう顔をしていたよ"
+        },
+        {
+          "scriptMessageId": "28008",
+          "speechCharactorId": "677",
+          "message": "(そうかもしれない。)\r\n(シスイは最初からオレの気持ちに気づいていたんだ)"
+        },
+        {
+          "scriptMessageId": "28009",
+          "speechCharactorId": "675",
+          "message": "オレで良ければ、いつでも話を聞くからな"
+        },
+        {
+          "scriptMessageId": "28010",
+          "speechCharactorId": "324",
+          "message": "木ノ葉は約定をたがえて我らに攻撃を仕掛けた\r\nよってこれに報復する！"
+        },
+        {
+          "scriptMessageId": "28011",
+          "speechCharactorId": "232",
+          "message": "随分な言いぐさだな！\r\n約束を破ったのは貴様らだろう！"
+        },
+        {
+          "scriptMessageId": "28012",
+          "speechCharactorId": "494",
+          "message": "ここから先は引き受けます"
+        },
+        {
+          "scriptMessageId": "28013",
+          "speechCharactorId": "232",
+          "message": "お前らは…"
+        },
+        {
+          "scriptMessageId": "28014",
+          "speechCharactorId": "494",
+          "message": "これでお前の任務は終了だ\r\n里へ戻れ"
+        },
+        {
+          "scriptMessageId": "28015",
+          "speechCharactorId": "232",
+          "message": "おい、何をしてる？"
+        },
+        {
+          "scriptMessageId": "28016",
+          "speechCharactorId": "684",
+          "message": "問題ありません\r\n隊長、敵は全滅です"
+        },
+        {
+          "scriptMessageId": "28017",
+          "speechCharactorId": "684",
+          "message": "（シスイ、オレは…）\r\n（闇の中から、木ノ葉を見つめてみることにするよ）"
+        },
+        {
+          "scriptMessageId": "28018",
+          "speechCharactorId": "151",
+          "message": "選択してほしいのだ\r\n"
+        },
+        {
+          "scriptMessageId": "28019",
+          "speechCharactorId": "151",
+          "message": "うちは側につき、クーデターを起こして\r\n家族とともに全滅するか、"
+        },
+        {
+          "scriptMessageId": "28020",
+          "speechCharactorId": "151",
+          "message": "我ら木ノ葉側につき、クーデター前に弟だけを残して\r\nうちは全滅に協力するか"
+        },
+        {
+          "scriptMessageId": "28021",
+          "speechCharactorId": "684",
+          "message": "うちは…全滅"
+        },
+        {
+          "scriptMessageId": "28022",
+          "speechCharactorId": "151",
+          "message": "この任務を任せられる忍は\r\nうちはと木ノ葉の二重スパイであるイタチ、\r\nお前をおいて他にない\r\nこの任務、引き受けてくれるか？"
+        },
+        {
+          "scriptMessageId": "28023",
+          "speechCharactorId": "684",
+          "message": "里…一族…忍…"
+        },
+        {
+          "scriptMessageId": "28024",
+          "speechCharactorId": "684",
+          "message": "戦いは、生まれるべくして生まれるのか"
+        },
+        {
+          "scriptMessageId": "28025",
+          "speechCharactorId": "684",
+          "message": "里か一族か…\r\nオレは、どうすればいい？"
+        },
+        {
+          "scriptMessageId": "28026",
+          "speechCharactorId": "5104",
+          "message": "イタチ、この殺戮の先に何がある\r\nオレが見せた一族の将来と\r\n違う結果をお前は見せてくれるのか"
+        },
+        {
+          "scriptMessageId": "28027",
+          "speechCharactorId": "684",
+          "message": "これがオレが見る里の先\r\n一族の先だ"
+        },
+        {
+          "scriptMessageId": "28028",
+          "speechCharactorId": "5104",
+          "message": "そうか…サスケか"
+        },
+        {
+          "scriptMessageId": "28029",
+          "speechCharactorId": "5104",
+          "message": "こっちだ\r\n罠などない、入ってこい"
+        },
+        {
+          "scriptMessageId": "28030",
+          "speechCharactorId": "684",
+          "message": "父さん、母さん、オレは…"
+        },
+        {
+          "scriptMessageId": "28031",
+          "speechCharactorId": "5104",
+          "message": "イタチ、最後に約束しろ\r\nサスケの事を頼んだぞ"
+        },
+        {
+          "scriptMessageId": "28032",
+          "speechCharactorId": "684",
+          "message": "……わかってる"
+        },
+        {
           "scriptMessageId": "40001",
           "speechCharactorId": "178",
           "message": "絶望しかないこの世界に\r\n存在する価値はない"

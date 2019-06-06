@@ -676,7 +676,7 @@
         },
         {
           "defineKey": "material_card_use_count_mode_strength_max",
-          "defineValue": "5"
+          "defineValue": "100"
         },
         {
           "defineKey": "material_card_use_count_mode_sell_max",

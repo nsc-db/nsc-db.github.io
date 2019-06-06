@@ -2411,6 +2411,30 @@
           "voiceDeath": "iruka_death_02_03"
         },
         {
+          "cardVoiceId": "204",
+          "cardId": "20050606",
+          "dirName": "lee",
+          "evolutionStep": "",
+          "voiceAppear": "lee_battle_02_01",
+          "voiceSkill1": "lee_attack_02_03",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "lee_win_02_03",
+          "voiceDeath": "lee_death_02_03"
+        },
+        {
+          "cardVoiceId": "205",
+          "cardId": "20050605",
+          "dirName": "itachi",
+          "evolutionStep": "",
+          "voiceAppear": "itachi_menu_04",
+          "voiceSkill1": "itachi_pursuit_02_01",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "itachi_menu_01",
+          "voiceDeath": "itachi_damage_02_01"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

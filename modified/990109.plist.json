@@ -19718,6 +19718,42 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2245",
+          "abilityName": "碧き闘魂",
+          "abilityDescription": "最大HPが200%アップ、バトル開始時にチャクラ50%回復",
+          "abilityEffectDescription": "最大HPが200%アップ、バトル開始時にチャクラ50%回復",
+          "effectIdx1": "10100",
+          "effectIdx2": "1115",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2246",
+          "abilityName": "修練は裏切らない",
+          "abilityDescription": "行動するたびに攻撃力が69％アップ(最大10回)、6回行動以降はスキルダメージが90%アップ",
+          "abilityEffectDescription": "行動するたびに攻撃力が69％アップ(最大10回)、6回行動以降はスキルダメージが90%アップ",
+          "effectIdx1": "2282",
+          "effectIdx2": "2283",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2247",
+          "abilityName": "里への忠誠",
+          "abilityDescription": "ﾊﾞﾄﾙ開始時に一番素早さの高い敵を「幻鴉閃刃」で急襲攻撃＆ﾁｬｸﾗ全回復、敵に滅ｷｬﾗがいると素早さ150%ｱｯﾌﾟ",
+          "abilityEffectDescription": "ﾊﾞﾄﾙ開始時に一番素早さの高い敵を「幻鴉閃刃」で急襲攻撃＆ﾁｬｸﾗ全回復、敵に滅ｷｬﾗがいると素早さ150%ｱｯﾌﾟ",
+          "effectIdx1": "2290",
+          "effectIdx2": "2224",
+          "effectIdx3": "2294"
+        },
+        {
+          "abilityId": "2248",
+          "abilityName": "弟愛",
+          "abilityDescription": "敵か味方にうちはサスケ（年代問わず）が生存しているとスキルダメージ100%アップ",
+          "abilityEffectDescription": "敵か味方にうちはサスケ（年代問わず）が生存しているとスキルダメージ100%アップ",
+          "effectIdx1": "2291",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

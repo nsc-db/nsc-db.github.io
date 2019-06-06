@@ -11621,6 +11621,32 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "910",
+          "name": "吹き荒ぶ青春の風",
+          "description": "技属性の最大HPと攻撃力を90％アップ",
+          "effectIdx1": "10089",
+          "effectIdx2": "11089",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "2",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "911",
+          "name": "運命を背負う影",
+          "description": "木ノ葉隠れの里所属の最大HPを100%アップし、状態異常と幻を無効化する",
+          "effectIdx1": "684",
+          "effectIdx2": "1638",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

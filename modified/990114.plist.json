@@ -2117,5 +2117,25 @@
           "subScore": "0",
           "color": "14614842",
           "type": "3"
+        },
+        {
+          "cardUnusualId": "216",
+          "category": "3",
+          "iconId": "1241",
+          "name": "影光",
+          "description": "攻撃、防御、素早さ、回避率大幅ダウン、イタチは攻撃、会心率、会心力大幅アップ、5回行動後に全解除",
+          "subScore": "0",
+          "color": "14211288",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "218",
+          "category": "3",
+          "iconId": "1241",
+          "name": "影光",
+          "description": "攻撃、防御、素早さ、回避率大幅ダウン、イタチは攻撃、会心率、会心力大幅アップ、5回行動後に全解除",
+          "subScore": "0",
+          "color": "14211288",
+          "type": "3"
         }
       ]
