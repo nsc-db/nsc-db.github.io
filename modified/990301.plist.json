@@ -18255,6 +18255,22 @@
           "recipeName": "しおラーメン"
         },
         {
+          "crystalId": "20427",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "2203",
+          "effectIdx2": "111",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "木ノ葉舞うｸﾅｲ",
+          "crystalDescription": "素早さ40%アップ。木ノ葉隠れの里所属の場合、バトル開始時にチャクラ100%回復する",
+          "crystalImageId": "204275",
+          "recipeId": "20427",
+          "recipeName": "木ノ葉舞うｸﾅｲ"
+        },
+        {
           "crystalId": "20431",
           "crystalType": "3",
           "crystalRare": "4",

@@ -5604,9 +5604,24 @@
           "gachaTicketImgId": "3697"
         },
         {
+          "gachaTicketId": "3699",
+          "gachaTicketName": "昇級選抜[6月]ガチャチケット",
+          "gachaTicketImgId": "3699"
+        },
+        {
+          "gachaTicketId": "3700",
+          "gachaTicketName": "昇級選抜[6月]・祭",
+          "gachaTicketImgId": "3699"
+        },
+        {
           "gachaTicketId": "3703",
           "gachaTicketName": "超忍祭[6月]確定",
           "gachaTicketImgId": "277"
+        },
+        {
+          "gachaTicketId": "3717",
+          "gachaTicketName": "★5期間限定忍具ガチャチケット",
+          "gachaTicketImgId": "3717"
         },
         {
           "gachaTicketId": "100084",
