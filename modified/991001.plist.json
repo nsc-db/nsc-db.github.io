@@ -77689,6 +77689,841 @@
           "message": "……わかってる"
         },
         {
+          "scriptMessageId": "28033",
+          "speechCharactorId": "685",
+          "message": "………どういうことなの…\r\nここにきて…\r\n私を裏切るなんて……綱手！！"
+        },
+        {
+          "scriptMessageId": "28034",
+          "speechCharactorId": "685",
+          "message": "綱手…私は本当に二人を\r\n生き返らせるつもりでいたのよ"
+        },
+        {
+          "scriptMessageId": "28035",
+          "speechCharactorId": "607",
+          "message": "本当に縄樹とダンに\r\nもうすぐ会える…\r\nそう肌で感じた瞬間に………"
+        },
+        {
+          "scriptMessageId": "28036",
+          "speechCharactorId": "607",
+          "message": "………気付いちまった……\r\n自分がどうしようもない\r\nバカヤローだってな……"
+        },
+        {
+          "scriptMessageId": "28037",
+          "speechCharactorId": "607",
+          "message": "ろくでもねェーお前らは\r\n今、ここで殺す！！"
+        },
+        {
+          "scriptMessageId": "28038",
+          "speechCharactorId": "685",
+          "message": "移動する気？"
+        },
+        {
+          "scriptMessageId": "28039",
+          "speechCharactorId": "686",
+          "message": "その方がいいでしょうね\r\n…少し気になる方が \r\n綱手様の部下といましたしね……"
+        },
+        {
+          "scriptMessageId": "28040",
+          "speechCharactorId": "685",
+          "message": "誰なの？"
+        },
+        {
+          "scriptMessageId": "28041",
+          "speechCharactorId": "686",
+          "message": "アナタや綱手様と同じ三忍……"
+        },
+        {
+          "scriptMessageId": "28042",
+          "speechCharactorId": "685",
+          "message": "自来也！"
+        },
+        {
+          "scriptMessageId": "28043",
+          "speechCharactorId": "607",
+          "message": "なぜなら…私が"
+        },
+        {
+          "scriptMessageId": "28044",
+          "speechCharactorId": "607",
+          "message": "木ノ葉隠れ…\r\n五代目火影だからね！！"
+        },
+        {
+          "scriptMessageId": "28045",
+          "speechCharactorId": "607",
+          "message": "陰封印\r\n解！！\r\n忍法・創造再生！！"
+        },
+        {
+          "scriptMessageId": "28046",
+          "speechCharactorId": "686",
+          "message": "大蛇丸様ァ！！「マンダ」を！！"
+        },
+        {
+          "scriptMessageId": "28047",
+          "speechCharactorId": "687",
+          "message": "くっ…出てくれよっ！！"
+        },
+        {
+          "scriptMessageId": "28048",
+          "speechCharactorId": "685",
+          "message": "口寄せの術！！"
+        },
+        {
+          "scriptMessageId": "28049",
+          "speechCharactorId": "687",
+          "message": "口寄せの術！！"
+        },
+        {
+          "scriptMessageId": "28050",
+          "speechCharactorId": "607",
+          "message": "口寄せの術！！"
+        },
+        {
+          "scriptMessageId": "28051",
+          "speechCharactorId": "607",
+          "message": "三忍と呼ばれるのも今日限りだ！"
+        },
+        {
+          "scriptMessageId": "28052",
+          "speechCharactorId": "685",
+          "message": "綱手…お前に治してもらわずとも…\r\n私には　一つだけ方法があるのよ \r\n…この腕を復活させる方法がね"
+        },
+        {
+          "scriptMessageId": "28053",
+          "speechCharactorId": "685",
+          "message": "木ノ葉は必ず潰してあげるわ\r\nその時また会えるといいわね \r\n我が同志"
+        },
+        {
+          "scriptMessageId": "28054",
+          "speechCharactorId": "685",
+          "message": "綱手…本当の不老不死……\r\nそれが私…\r\n我不滅！"
+        },
+        {
+          "scriptMessageId": "28055",
+          "speechCharactorId": "607",
+          "message": "お前は…"
+        },
+        {
+          "scriptMessageId": "28056",
+          "speechCharactorId": "688",
+          "message": "お久しぶりです\r\n綱手様…\r\n三忍も今やアナタだけだ"
+        },
+        {
+          "scriptMessageId": "28057",
+          "speechCharactorId": "688",
+          "message": "うずまきナルト…九尾はどこだ？"
+        },
+        {
+          "scriptMessageId": "28058",
+          "speechCharactorId": "607",
+          "message": "五影をなめるな！\r\nお前らテロリストが\r\n何を言っても無意味だ！！"
+        },
+        {
+          "scriptMessageId": "28059",
+          "speechCharactorId": "688",
+          "message": "言葉に気をつけろ\r\nこれは神からの最後の警告だ\r\nナルトの居場所を言え"
+        },
+        {
+          "scriptMessageId": "28060",
+          "speechCharactorId": "607",
+          "message": "………今は我々の持てる全ての\r\n力を注ぎお前達をたたく！\r\nそれだけの事！"
+        },
+        {
+          "scriptMessageId": "28061",
+          "speechCharactorId": "607",
+          "message": "それにお前は一つ勘違いをしている"
+        },
+        {
+          "scriptMessageId": "28062",
+          "speechCharactorId": "607",
+          "message": "お前達が一番欲しがっているものは\r\n手に入りはしない！"
+        },
+        {
+          "scriptMessageId": "28063",
+          "speechCharactorId": "688",
+          "message": "…木ノ葉の忍が\r\nナルトを庇いきれると\r\n思っているならそれは…"
+        },
+        {
+          "scriptMessageId": "28064",
+          "speechCharactorId": "607",
+          "message": "違う"
+        },
+        {
+          "scriptMessageId": "28065",
+          "speechCharactorId": "607",
+          "message": "ナルトは――強いぞ"
+        },
+        {
+          "scriptMessageId": "28066",
+          "speechCharactorId": "374",
+          "message": "お前ごときの医療忍術とやらは\r\n死をほんの少し\r\n先延ばしにしているに過ぎん"
+        },
+        {
+          "scriptMessageId": "28067",
+          "speechCharactorId": "374",
+          "message": "千手柱間と比べれば\r\n取るに足らぬ術だ"
+        },
+        {
+          "scriptMessageId": "28068",
+          "speechCharactorId": "374",
+          "message": "それに比べて…柱間の子孫で\r\nありながらお前には何がある？\r\n木遁も使えず…"
+        },
+        {
+          "scriptMessageId": "28069",
+          "speechCharactorId": "607",
+          "message": "初代から引き継がれ\r\n流れ続けるものが私の本当の力だ…"
+        },
+        {
+          "scriptMessageId": "28070",
+          "speechCharactorId": "374",
+          "message": "…？"
+        },
+        {
+          "scriptMessageId": "28071",
+          "speechCharactorId": "607",
+          "message": "火の意志をなめるなよ！！"
+        },
+        {
+          "scriptMessageId": "28072",
+          "speechCharactorId": "374",
+          "message": "確かに…か弱い女ではないな\r\nだがお前が出しゃばり死ねば\r\n他の影達も終わりだぞ"
+        },
+        {
+          "scriptMessageId": "28073",
+          "speechCharactorId": "607",
+          "message": "それは私が死ねばの話だ"
+        },
+        {
+          "scriptMessageId": "28074",
+          "speechCharactorId": "374",
+          "message": "柱間…お前が何を残したかは\r\n知らんが……この程度…\r\nお前には遠く及ばん"
+        },
+        {
+          "scriptMessageId": "28075",
+          "speechCharactorId": "374",
+          "message": "引き継がれるものがあるとすれば…\r\n憎しみだけだ"
+        },
+        {
+          "scriptMessageId": "28076",
+          "speechCharactorId": "607",
+          "message": "お前は死んでる…\r\nだからこそ、これ以上憎しみを\r\nばらまかないでくれ…"
+        },
+        {
+          "scriptMessageId": "28077",
+          "speechCharactorId": "607",
+          "message": "ウオオォー\r\nオラァ！！"
+        },
+        {
+          "scriptMessageId": "28078",
+          "speechCharactorId": "315",
+          "message": "火影、戦い方が雑になってるぞ！\r\n死なぬともそんなやり方では\r\nすぐにバテる！！"
+        },
+        {
+          "scriptMessageId": "28079",
+          "speechCharactorId": "370",
+          "message": "あの光は？\r\n…いったい何なんです！？"
+        },
+        {
+          "scriptMessageId": "28080",
+          "speechCharactorId": "374",
+          "message": "穢土転生が\r\n解放されたということだな"
+        },
+        {
+          "scriptMessageId": "28081",
+          "speechCharactorId": "280",
+          "message": "消える前に一発\r\n喰らわせようという腹じゃ！\r\n気をつけい！！"
+        },
+        {
+          "scriptMessageId": "28082",
+          "speechCharactorId": "607",
+          "message": "大丈夫！！\r\n…！！\r\n百豪の術が…切れたか！"
+        },
+        {
+          "scriptMessageId": "28083",
+          "speechCharactorId": "5105",
+          "message": "久しぶりだな…オレだ綱手\r\nダンだ"
+        },
+        {
+          "scriptMessageId": "28084",
+          "speechCharactorId": "5105",
+          "message": "穢土転生が解かれたんだ…で\r\n霊化の術で飛んで来た\r\nしかし今のは危なかったよ！"
+        },
+        {
+          "scriptMessageId": "28085",
+          "speechCharactorId": "5105",
+          "message": "最後に君を守れたんだ…\r\n穢土転生されたかいも\r\n少しはあったかな…"
+        },
+        {
+          "scriptMessageId": "28086",
+          "speechCharactorId": "374",
+          "message": "生気が戻ったな…\r\nチャクラをもらったか？"
+        },
+        {
+          "scriptMessageId": "28087",
+          "speechCharactorId": "607",
+          "message": "ちょっと昔の\r\n知り合いに会ってな…"
+        },
+        {
+          "scriptMessageId": "28088",
+          "speechCharactorId": "607",
+          "message": "ダン……縄樹……\r\n二人の夢は…私が…守る…！"
+        },
+        {
+          "scriptMessageId": "28089",
+          "speechCharactorId": "687",
+          "message": "フン…\r\nナルトの奴、やりやがったのォ…"
+        },
+        {
+          "scriptMessageId": "28090",
+          "speechCharactorId": "685",
+          "message": "…あの九尾のガキ……\r\nあんなガキがあの術を……"
+        },
+        {
+          "scriptMessageId": "28091",
+          "speechCharactorId": "607",
+          "message": "ま…まさか…まさか本当に……\r\n…たった一週間であの螺旋丸を……"
+        },
+        {
+          "scriptMessageId": "28092",
+          "speechCharactorId": "607",
+          "message": "…！"
+        },
+        {
+          "scriptMessageId": "28093",
+          "speechCharactorId": "6",
+          "message": "うっ……"
+        },
+        {
+          "scriptMessageId": "28094",
+          "speechCharactorId": "607",
+          "message": "くそ！心筋がズタズタだ…\r\n不整脈を起こしてる"
+        },
+        {
+          "scriptMessageId": "28095",
+          "speechCharactorId": "686",
+          "message": "クク……\r\nナルトくんはもうダメだよ…"
+        },
+        {
+          "scriptMessageId": "28096",
+          "speechCharactorId": "686",
+          "message": "九尾のチャクラを…\r\n力に還元する……\r\n心臓の…経絡系を……切断した…"
+        },
+        {
+          "scriptMessageId": "28097",
+          "speechCharactorId": "686",
+          "message": "…力いっぱいね……\r\n自力で治癒する可能性を \r\n断ち切るためにね…"
+        },
+        {
+          "scriptMessageId": "28098",
+          "speechCharactorId": "607",
+          "message": "ちくしょう…ちくしょう…"
+        },
+        {
+          "scriptMessageId": "28099",
+          "speechCharactorId": "607",
+          "message": "死ぬな…\r\n死ぬな！死ぬな！死ぬな！"
+        },
+        {
+          "scriptMessageId": "28100",
+          "speechCharactorId": "6",
+          "message": "……賭け……には…\r\n勝ったぜ…"
+        },
+        {
+          "scriptMessageId": "28101",
+          "speechCharactorId": "686",
+          "message": "バ…馬鹿な…！！"
+        },
+        {
+          "scriptMessageId": "28102",
+          "speechCharactorId": "607",
+          "message": "…火影は………\r\nオレの夢だから…かぁ……"
+        },
+        {
+          "scriptMessageId": "28103",
+          "speechCharactorId": "607",
+          "message": "最後に……最後にもう一度だけ… \r\nアンタに賭けてみたくなった……"
+        },
+        {
+          "scriptMessageId": "28104",
+          "speechCharactorId": "685",
+          "message": "あの子、よろしくないわね…"
+        },
+        {
+          "scriptMessageId": "28105",
+          "speechCharactorId": "685",
+          "message": "殺すなら…今！！"
+        },
+        {
+          "scriptMessageId": "28106",
+          "speechCharactorId": "607",
+          "message": "…この子をっ！？"
+        },
+        {
+          "scriptMessageId": "28107",
+          "speechCharactorId": "607",
+          "message": "…この子だけは絶対…守る…！"
+        },
+        {
+          "scriptMessageId": "28108",
+          "speechCharactorId": "685",
+          "message": "フン……血に震えながら…\r\n何故三忍の一人ともあろうアンタが"
+        },
+        {
+          "scriptMessageId": "28109",
+          "speechCharactorId": "685",
+          "message": "そんな下忍のただのガキを\r\n命がけで守ろうとするの…？"
+        },
+        {
+          "scriptMessageId": "28110",
+          "speechCharactorId": "607",
+          "message": "木ノ葉隠れを…里を……\r\n守るためよ…"
+        },
+        {
+          "scriptMessageId": "28111",
+          "speechCharactorId": "685",
+          "message": "木ノ葉を守るため？"
+        },
+        {
+          "scriptMessageId": "28112",
+          "speechCharactorId": "607",
+          "message": "なぜなら…この小さなガキは…\r\nいずれ火影になるガキだからね…"
+        },
+        {
+          "scriptMessageId": "28113",
+          "speechCharactorId": "685",
+          "message": "火影なんてクソよ\r\n馬鹿以外やりゃしないわ"
+        },
+        {
+          "scriptMessageId": "28114",
+          "speechCharactorId": "607",
+          "message": "フン………\r\nここからは私も……命を懸ける！！"
+        },
+        {
+          "scriptMessageId": "28115",
+          "speechCharactorId": "6",
+          "message": "五代目火影様ぁ！！？\r\n綱手のバアちゃんが今日から\r\n五代目火影になんのかぁ～～"
+        },
+        {
+          "scriptMessageId": "28116",
+          "speechCharactorId": "687",
+          "message": "何だ、不満そうだのォ…ナルト"
+        },
+        {
+          "scriptMessageId": "28117",
+          "speechCharactorId": "6",
+          "message": "だって\r\n三代目のじいちゃんと比べると…\r\n何だかなぁ"
+        },
+        {
+          "scriptMessageId": "28118",
+          "speechCharactorId": "6",
+          "message": "気性が荒くてワガママっぽくて…\r\nその上、金にルーズで\r\n陰険でバカだし"
+        },
+        {
+          "scriptMessageId": "28119",
+          "speechCharactorId": "6",
+          "message": "なーんか \r\nちゃんとやっていけんのか… \r\n心配になってくるってばよ"
+        },
+        {
+          "scriptMessageId": "28120",
+          "speechCharactorId": "306",
+          "message": "ツ…綱手様何か注文を…"
+        },
+        {
+          "scriptMessageId": "28121",
+          "speechCharactorId": "607",
+          "message": "表へ出なガキ！！"
+        },
+        {
+          "scriptMessageId": "28122",
+          "speechCharactorId": "687",
+          "message": "ハァ…何やら前と\r\n同じような展開だのォ…"
+        },
+        {
+          "scriptMessageId": "28123",
+          "speechCharactorId": "607",
+          "message": "こう見えてもこれから\r\n五代目火影になる私だ"
+        },
+        {
+          "scriptMessageId": "28124",
+          "speechCharactorId": "607",
+          "message": "ちんちくりんのガキ相手に\r\n本気もないな\r\nコレ一本で十分"
+        },
+        {
+          "scriptMessageId": "28125",
+          "speechCharactorId": "6",
+          "message": "ガキガキって\r\nバカにすんなってばよ！"
+        },
+        {
+          "scriptMessageId": "28126",
+          "speechCharactorId": "6",
+          "message": "今はこんなでもオレだっていつかは\r\n火影になる！！行くぞォ！！"
+        },
+        {
+          "scriptMessageId": "28127",
+          "speechCharactorId": "6",
+          "message": "！！\r\nま…またデコピン！？"
+        },
+        {
+          "scriptMessageId": "28128",
+          "speechCharactorId": "6",
+          "message": "…………！"
+        },
+        {
+          "scriptMessageId": "28129",
+          "speechCharactorId": "607",
+          "message": "いい男になりなよ…\r\nそして…立派な火影にな"
+        },
+        {
+          "scriptMessageId": "28130",
+          "speechCharactorId": "6",
+          "message": "オウ！"
+        },
+        {
+          "scriptMessageId": "28131",
+          "speechCharactorId": "607",
+          "message": "縄樹…ダン…\r\n最愛のアナタたちの夢を \r\n受け継ぐ子が…"
+        },
+        {
+          "scriptMessageId": "28132",
+          "speechCharactorId": "607",
+          "message": "ここにいる！！"
+        },
+        {
+          "scriptMessageId": "28133",
+          "speechCharactorId": "607",
+          "message": "………"
+        },
+        {
+          "scriptMessageId": "28134",
+          "speechCharactorId": "607",
+          "message": "今日から私がこの里を治める"
+        },
+        {
+          "scriptMessageId": "28135",
+          "speechCharactorId": "607",
+          "message": "五代目火影だ…！！"
+        },
+        {
+          "scriptMessageId": "28136",
+          "speechCharactorId": "607",
+          "message": "ついに来たか…\r\n非常事態警報を出せ\r\nそれから――"
+        },
+        {
+          "scriptMessageId": "28137",
+          "speechCharactorId": "607",
+          "message": "ナルトを呼びもどせ"
+        },
+        {
+          "scriptMessageId": "28138",
+          "speechCharactorId": "433",
+          "message": "自来也ちゃんが戦死した"
+        },
+        {
+          "scriptMessageId": "28139",
+          "speechCharactorId": "270",
+          "message": "………バアちゃんが…\r\n行かせたのか…？"
+        },
+        {
+          "scriptMessageId": "28140",
+          "speechCharactorId": "607",
+          "message": "そうだ"
+        },
+        {
+          "scriptMessageId": "28141",
+          "speechCharactorId": "270",
+          "message": "何でそんな無茶\r\n許したんだってばよ！！"
+        },
+        {
+          "scriptMessageId": "28142",
+          "speechCharactorId": "270",
+          "message": "バアちゃんはエロ仙人の性格\r\n良く分かってんだろ！ \r\nたった一人でそんな危ねー所に……"
+        },
+        {
+          "scriptMessageId": "28143",
+          "speechCharactorId": "607",
+          "message": "一人じゃ危険すぎる…！"
+        },
+        {
+          "scriptMessageId": "28144",
+          "speechCharactorId": "687",
+          "message": "ワシは木ノ葉の三忍だぞ\r\nお前もその意味は知ってるだろ？"
+        },
+        {
+          "scriptMessageId": "28145",
+          "speechCharactorId": "687",
+          "message": "ワシらの役目は次の世代のために\r\n手本となり手助けをすること\r\nそのためなら笑って命を懸ける"
+        },
+        {
+          "scriptMessageId": "28146",
+          "speechCharactorId": "607",
+          "message": "………自来也"
+        },
+        {
+          "scriptMessageId": "28147",
+          "speechCharactorId": "442",
+          "message": "はじめましてだな…\r\nオレ自来也ってんだ！"
+        },
+        {
+          "scriptMessageId": "28148",
+          "speechCharactorId": "442",
+          "message": "ラブレターは後でいいぜ、よろしく！"
+        },
+        {
+          "scriptMessageId": "28149",
+          "speechCharactorId": "607",
+          "message": "バカヤロー……"
+        },
+        {
+          "scriptMessageId": "28150",
+          "speechCharactorId": "426",
+          "message": "ダメじゃ\r\nナルトは妙木山に置いておけ"
+        },
+        {
+          "scriptMessageId": "28151",
+          "speechCharactorId": "425",
+          "message": "ダンゾウからの情報で\r\n今、里に攻め入っているのは\r\n“暁”のリーダーだと聞いた"
+        },
+        {
+          "scriptMessageId": "28152",
+          "speechCharactorId": "425",
+          "message": "しかも“人柱力”のナルトを狙っている\r\nとな"
+        },
+        {
+          "scriptMessageId": "28153",
+          "speechCharactorId": "607",
+          "message": "それがどうした？"
+        },
+        {
+          "scriptMessageId": "28154",
+          "speechCharactorId": "426",
+          "message": "前回は大目に見たが\r\n今回ばかりは話が別じゃ"
+        },
+        {
+          "scriptMessageId": "28155",
+          "speechCharactorId": "426",
+          "message": "ナルトはまだ子供！\r\n侵入者は自来也を\r\n倒したというではないか！"
+        },
+        {
+          "scriptMessageId": "28156",
+          "speechCharactorId": "426",
+          "message": "ナルトがやられ九尾が\r\n奴らの手に渡ればそれこそ"
+        },
+        {
+          "scriptMessageId": "28157",
+          "speechCharactorId": "425",
+          "message": "くっ…！"
+        },
+        {
+          "scriptMessageId": "28158",
+          "speechCharactorId": "426",
+          "message": "なっ！…何をする！？"
+        },
+        {
+          "scriptMessageId": "28159",
+          "speechCharactorId": "6",
+          "message": "オレは火影になるまでぜってェ\r\n死なねーからよ！！"
+        },
+        {
+          "scriptMessageId": "28160",
+          "speechCharactorId": "270",
+          "message": "エロ仙人の敵はオレがうつ！\r\nじっとなんてしてらんねーんだよ！"
+        },
+        {
+          "scriptMessageId": "28161",
+          "speechCharactorId": "433",
+          "message": "あの子が自来也ちゃんを真っ直ぐに\r\n慕っとったのが良く分かった"
+        },
+        {
+          "scriptMessageId": "28162",
+          "speechCharactorId": "433",
+          "message": "“予言の子”はあの子であって欲しいと…\r\nそう願わずにおれんの"
+        },
+        {
+          "scriptMessageId": "28163",
+          "speechCharactorId": "433",
+          "message": "自来也ちゃんは全てをあの子に \r\n託したんじゃからな"
+        },
+        {
+          "scriptMessageId": "28164",
+          "speechCharactorId": "425",
+          "message": "お前ワシら相談役に向かって…\r\n何様のつもりじゃ！"
+        },
+        {
+          "scriptMessageId": "28165",
+          "speechCharactorId": "607",
+          "message": "アンタらこそ何様だ！\r\nいつまでもあいつを\r\n子供扱いしやがって！！"
+        },
+        {
+          "scriptMessageId": "28166",
+          "speechCharactorId": "607",
+          "message": "木ノ葉の火の意志は受けつがれ！\r\nそして育っている！"
+        },
+        {
+          "scriptMessageId": "28167",
+          "speechCharactorId": "607",
+          "message": "ナルトは今、自来也を\r\n超えようとしている！！"
+        },
+        {
+          "scriptMessageId": "28168",
+          "speechCharactorId": "607",
+          "message": "あいつは木ノ葉が隠し持つ\r\n戦争抑止の道具じゃない！"
+        },
+        {
+          "scriptMessageId": "28169",
+          "speechCharactorId": "607",
+          "message": "木ノ葉を守る一人の忍\r\nうずまきナルトだ！"
+        },
+        {
+          "scriptMessageId": "28170",
+          "speechCharactorId": "607",
+          "message": "…自来也、そして猿飛先生や\r\n砂のチヨ様にあって\r\nアンタ達に無いもの…\r\nそれが何だか分かるか！？"
+        },
+        {
+          "scriptMessageId": "28171",
+          "speechCharactorId": "607",
+          "message": "信じる力だ！！"
+        },
+        {
+          "scriptMessageId": "28172",
+          "speechCharactorId": "607",
+          "message": "私の祖父、初代火影がアンタ達を\r\n信じ木ノ葉を託したように！"
+        },
+        {
+          "scriptMessageId": "28173",
+          "speechCharactorId": "607",
+          "message": "今度はアンタ達が\r\n子供達を信じ託す番だ！！"
+        },
+        {
+          "scriptMessageId": "28174",
+          "speechCharactorId": "425",
+          "message": "……"
+        },
+        {
+          "scriptMessageId": "28175",
+          "speechCharactorId": "426",
+          "message": "…好きにせい…"
+        },
+        {
+          "scriptMessageId": "28176",
+          "speechCharactorId": "690",
+          "message": "痛みを知らぬ者に\r\n本当の平和は分からん"
+        },
+        {
+          "scriptMessageId": "28177",
+          "speechCharactorId": "690",
+          "message": "ここより世界に痛みを"
+        },
+        {
+          "scriptMessageId": "28178",
+          "speechCharactorId": "607",
+          "message": "ペイン！！"
+        },
+        {
+          "scriptMessageId": "28179",
+          "speechCharactorId": "688",
+          "message": "神羅天征"
+        },
+        {
+          "scriptMessageId": "28180",
+          "speechCharactorId": "607",
+          "message": "な、なんだコレは…くっ…\r\n許さん…許さんぞペイン！"
+        },
+        {
+          "scriptMessageId": "28181",
+          "speechCharactorId": "607",
+          "message": "私は五代目火影だ\r\n先代達の宝を…\r\n夢を蹂躙したお前らは…"
+        },
+        {
+          "scriptMessageId": "28182",
+          "speechCharactorId": "607",
+          "message": "絶対に許さん！！\r\nここで火影として決着をつける！"
+        },
+        {
+          "scriptMessageId": "28183",
+          "speechCharactorId": "688",
+          "message": "少しは痛みを理解したようだな\r\n…だがな…お前などに用は無い"
+        },
+        {
+          "scriptMessageId": "28184",
+          "speechCharactorId": "691",
+          "message": "あるのは…"
+        },
+        {
+          "scriptMessageId": "28185",
+          "speechCharactorId": "689",
+          "message": "オレだろ！"
+        },
+        {
+          "scriptMessageId": "28186",
+          "speechCharactorId": "607",
+          "message": "…！！"
+        },
+        {
+          "scriptMessageId": "28187",
+          "speechCharactorId": "689",
+          "message": "こんな奴らに木ノ葉の火影が\r\n出るまでもねーよ"
+        },
+        {
+          "scriptMessageId": "28188",
+          "speechCharactorId": "689",
+          "message": "バアちゃんは \r\nゆっくり茶でも飲んでてくれ…"
+        },
+        {
+          "scriptMessageId": "28189",
+          "speechCharactorId": "607",
+          "message": "ナルト…"
+        },
+        {
+          "scriptMessageId": "28190",
+          "speechCharactorId": "149",
+          "message": "じじ様…二人の懐かしい背中が\r\n見えんかったか？"
+        },
+        {
+          "scriptMessageId": "28191",
+          "speechCharactorId": "433",
+          "message": "そうじゃのう…\r\n…ナルトちゃんは先代を\r\n超えたようじゃ"
+        },
+        {
+          "scriptMessageId": "28192",
+          "speechCharactorId": "688",
+          "message": "うずまきナルト"
+        },
+        {
+          "scriptMessageId": "28193",
+          "speechCharactorId": "689",
+          "message": "決着つけてやる！！！！！"
+        },
+        {
+          "scriptMessageId": "28194",
+          "speechCharactorId": "689",
+          "message": "バアちゃん…\r\nこっからはオレがやる！"
+        },
+        {
+          "scriptMessageId": "28195",
+          "speechCharactorId": "689",
+          "message": "里の皆には手を出さねーように\r\n伝えてくれ！ 皆をかばいながら\r\n戦うのは逆にやりづれーから"
+        },
+        {
+          "scriptMessageId": "28196",
+          "speechCharactorId": "607",
+          "message": "分かった…ならカツユを\r\n連れていけ…少しは役に立つはずだ\r\n奴らの情報を持ってる"
+        },
+        {
+          "scriptMessageId": "28197",
+          "speechCharactorId": "692",
+          "message": "綱手様！！"
+        },
+        {
+          "scriptMessageId": "28198",
+          "speechCharactorId": "607",
+          "message": "サクラ……もう大丈夫だ……"
+        },
+        {
+          "scriptMessageId": "28199",
+          "speechCharactorId": "692",
+          "message": "ハイ…"
+        },
+        {
           "scriptMessageId": "40001",
           "speechCharactorId": "178",
           "message": "絶望しかないこの世界に\r\n存在する価値はない"

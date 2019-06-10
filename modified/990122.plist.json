@@ -2435,6 +2435,18 @@
           "voiceDeath": "itachi_damage_02_01"
         },
         {
+          "cardVoiceId": "206",
+          "cardId": "20050611",
+          "dirName": "tsunade",
+          "evolutionStep": "",
+          "voiceAppear": "tsunade_menu_04",
+          "voiceSkill1": "tsunade_pursuit_02_02",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "tsunade_menu_shinobi_01",
+          "voiceDeath": "tsunade_damage_02_01"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

@@ -18909,5 +18909,21 @@
           "crystalImageId": "206095",
           "recipeId": "20609",
           "recipeName": "ダルイの上着"
+        },
+        {
+          "crystalId": "20612",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "8",
+          "effectIdx2": "2142",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "綱手のサンダル",
+          "crystalDescription": "チャクラ消費量を20%減少、行動後にチャクラが10%回復する",
+          "crystalImageId": "206125",
+          "recipeId": "20612",
+          "recipeName": "綱手のサンダル"
         }
       ]

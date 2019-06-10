@@ -10341,5 +10341,17 @@
           "effectIdx2": "13059",
           "effectIdx3": "2293",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "879",
+          "targetCrystal": "20612",
+          "description": "チャクラ消費量半減、素早さ50%アップ、行動後にHPとチャクラが30%回復",
+          "charaIds": "2301,2302,2303,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "895",
+          "effectIdx2": "13049",
+          "effectIdx3": "300012",
+          "effectIdx4": "820"
         }
       ]

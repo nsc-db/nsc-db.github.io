@@ -389,19 +389,6 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
-          "worldStageId": "1245",
-          "worldAreaId": "5",
-          "priority": "3",
-          "name": "大激闘任務-皐月の陣-4周年特別篇",
-          "description": "ランパートではドロップではなく\r\nクリア時に個人Ptを獲得できます。",
-          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
-          "type": "0",
-          "prerequisiteWorldStageId": "0",
-          "openWeek": null,
-          "openTime": "0000.00.00 00:00:00",
-          "closeTime": "0000.00.00 00:00:00"
-        },
-        {
           "worldStageId": "1249",
           "worldAreaId": "5",
           "priority": "1",
@@ -459,6 +446,19 @@
           "priority": "1",
           "name": "里と一族に引き裂かれし者",
           "description": "イベント連動チャレンジ開催！\r\n毎日プレイしてお得に個人Ptを集めよう！\r\n\r\n「マイページ」の「チャレンジ」から\r\n「デイリー」、「期間限定」タブを確認！",
+          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
+          "worldStageId": "1254",
+          "worldAreaId": "5",
+          "priority": "1",
+          "name": "想い継ぐ女傑",
+          "description": "個人Ptを集めて報酬を獲得！\r\n綱手の固有忍具を獲得しよう！",
           "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
           "type": "0",
           "prerequisiteWorldStageId": "0",

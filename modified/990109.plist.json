@@ -19754,6 +19754,24 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2249",
+          "abilityName": "掟破りの覚悟",
+          "abilityDescription": "バトル開始時にチャクラ50%回復、HP90%以上の時、素早さ＆スキルダメージ100%アップ",
+          "abilityEffectDescription": "バトル開始時にチャクラ50%回復、HP90%以上の時、素早さ＆スキルダメージ100%アップ",
+          "effectIdx1": "1115",
+          "effectIdx2": "2219",
+          "effectIdx3": "31809"
+        },
+        {
+          "abilityId": "2250",
+          "abilityName": "究極の再生術",
+          "abilityDescription": "HP0以下で2回耐える、5回行動まで攻撃を受けるとHP50%回復",
+          "abilityEffectDescription": "HP0以下で2回耐える、5回行動まで攻撃を受けるとHP50%回復",
+          "effectIdx1": "1057",
+          "effectIdx2": "2261",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

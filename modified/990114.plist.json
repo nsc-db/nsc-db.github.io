@@ -2129,6 +2129,16 @@
           "type": "2"
         },
         {
+          "cardUnusualId": "217",
+          "category": "3",
+          "iconId": "1242",
+          "name": "分裂蛞蝓",
+          "description": "一定値以下のダメージカット、攻撃を受けると味方1体にランダムで分裂蛞蝓を付与、解除時にHP回復",
+          "subScore": "0",
+          "color": "49151",
+          "type": "2"
+        },
+        {
           "cardUnusualId": "218",
           "category": "3",
           "iconId": "1241",

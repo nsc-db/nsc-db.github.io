@@ -4079,6 +4079,54 @@
           "speechCharactorName": "うちはイタチ"
         },
         {
+          "speechCharactorId": "685",
+          "cardId": "20000941",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "大蛇丸"
+        },
+        {
+          "speechCharactorId": "686",
+          "cardId": "20001171",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "薬師カブト"
+        },
+        {
+          "speechCharactorId": "687",
+          "cardId": "20001828",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "自来也"
+        },
+        {
+          "speechCharactorId": "688",
+          "cardId": "20001795",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "ペイン（天道）"
+        },
+        {
+          "speechCharactorId": "689",
+          "cardId": "20040119",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うずまきナルト"
+        },
+        {
+          "speechCharactorId": "690",
+          "cardId": "20031115",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "ペイン(天道)"
+        },
+        {
+          "speechCharactorId": "691",
+          "cardId": "21000211",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "ペイン(修羅道)"
+        },
+        {
+          "speechCharactorId": "692",
+          "cardId": "20001637",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "春野サクラ"
+        },
+        {
           "speechCharactorId": "1000",
           "cardId": "21000091",
           "speechCharactorImgId": "1000",
@@ -4107,6 +4155,12 @@
           "cardId": "50000012",
           "speechCharactorImgId": "0",
           "speechCharactorName": "うちはフガク"
+        },
+        {
+          "speechCharactorId": "5105",
+          "cardId": "50000001",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "加藤ダン"
         },
         {
           "speechCharactorId": "9000",
