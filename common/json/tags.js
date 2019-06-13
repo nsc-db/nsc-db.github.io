@@ -18689,27 +18689,6 @@ window.tags=[
           "godstate": ""
 
 },
-/**{
-          "cardId": "20050515",
-          "rare": "5",
-          "tag": "killers",
-          "skill1damage": "",
-          "skill2damage": "",
-          "nickname": "Killer Sasori v2",
-          "role": "",
-          "rolerating": "",
-          "secondary": "",
-          "secondaryrating": "",
-          "buff": "",
-          "debuff": "",
-          "survive": "",
-          "health": "",
-          "special": "",
-          "positivestate": "",
-          "negativestate": "",
-          "godstate": ""
-
-},**/
 {
           "cardId": "20050601",
           "rare": "5",
