@@ -19665,6 +19665,132 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2239",
+          "abilityName": "至速の翻弄",
+          "abilityDescription": "2回行動までスキップ無効＆素早さ100%アップ＆受ける耐性無視ダメージを0",
+          "abilityEffectDescription": "2回行動までスキップ無効＆素早さ100%アップ＆受ける耐性無視ダメージを0",
+          "effectIdx1": "2275",
+          "effectIdx2": "1692",
+          "effectIdx3": "1838"
+        },
+        {
+          "abilityId": "2240",
+          "abilityName": "粋然たる信念",
+          "abilityDescription": "HP90%以上のときスキルダメージ200%アップ、班の木ノ葉隠れの里所属1体につき素早さ50%アップ（自身含む）",
+          "abilityEffectDescription": "HP90%以上のときスキルダメージ200%アップ、班の木ノ葉隠れの里所属1体につき素早さ50%アップ（自身含む）",
+          "effectIdx1": "31819",
+          "effectIdx2": "1333",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2241",
+          "abilityName": "“根”の精鋭",
+          "abilityDescription": "弱体と状態異常を半減、毒を無効、攻撃を受けた時HPが20％回復",
+          "abilityEffectDescription": "弱体と状態異常を半減、毒を無効、攻撃を受けた時HPが20％回復",
+          "effectIdx1": "776",
+          "effectIdx2": "65",
+          "effectIdx3": "1167"
+        },
+        {
+          "abilityId": "2242",
+          "abilityName": "一族秘伝の毒蟲",
+          "abilityDescription": "5回行動まで志村ダンゾウ（年代問わず）への単体スキル攻撃を受ける※かばうは最後の発動者が有効",
+          "abilityEffectDescription": "5回行動まで志村ダンゾウ（年代問わず）への単体スキル攻撃を受ける※かばうは最後の発動者が有効",
+          "effectIdx1": "2276",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2243",
+          "abilityName": "忠義の右腕",
+          "abilityDescription": "HP50%以下の時チャクラ消費量半減、5回行動するまで全スキルダメージ半減",
+          "abilityEffectDescription": "HP50%以下の時チャクラ消費量半減、5回行動するまで全スキルダメージ半減",
+          "effectIdx1": "1220",
+          "effectIdx2": "1204",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2244",
+          "abilityName": "雷遁を纏う刀技",
+          "abilityDescription": "3回行動以降、素早さ200%アップ＆スキルダメージ300%アップ",
+          "abilityEffectDescription": "3回行動以降、素早さ200%アップ＆スキルダメージ300%アップ",
+          "effectIdx1": "2286",
+          "effectIdx2": "2279",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2245",
+          "abilityName": "碧き闘魂",
+          "abilityDescription": "最大HPが200%アップ、バトル開始時にチャクラ50%回復",
+          "abilityEffectDescription": "最大HPが200%アップ、バトル開始時にチャクラ50%回復",
+          "effectIdx1": "10100",
+          "effectIdx2": "1115",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2246",
+          "abilityName": "修練は裏切らない",
+          "abilityDescription": "行動するたびに攻撃力が69％アップ(最大10回)、6回行動以降はスキルダメージが90%アップ",
+          "abilityEffectDescription": "行動するたびに攻撃力が69％アップ(最大10回)、6回行動以降はスキルダメージが90%アップ",
+          "effectIdx1": "2282",
+          "effectIdx2": "2283",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2247",
+          "abilityName": "里への忠誠",
+          "abilityDescription": "ﾊﾞﾄﾙ開始時に一番素早さの高い敵を「幻鴉閃刃」で急襲攻撃＆ﾁｬｸﾗ全回復、敵に滅ｷｬﾗがいると素早さ150%ｱｯﾌﾟ",
+          "abilityEffectDescription": "ﾊﾞﾄﾙ開始時に一番素早さの高い敵を「幻鴉閃刃」で急襲攻撃＆ﾁｬｸﾗ全回復、敵に滅ｷｬﾗがいると素早さ150%ｱｯﾌﾟ",
+          "effectIdx1": "2290",
+          "effectIdx2": "2224",
+          "effectIdx3": "1994"
+        },
+        {
+          "abilityId": "2248",
+          "abilityName": "弟愛",
+          "abilityDescription": "敵か味方にうちはサスケ（年代問わず）が生存しているとスキルダメージ100%アップ",
+          "abilityEffectDescription": "敵か味方にうちはサスケ（年代問わず）が生存しているとスキルダメージ100%アップ",
+          "effectIdx1": "2291",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2249",
+          "abilityName": "掟破りの覚悟",
+          "abilityDescription": "バトル開始時にチャクラ50%回復、HP90%以上の時、素早さ＆スキルダメージ100%アップ",
+          "abilityEffectDescription": "バトル開始時にチャクラ50%回復、HP90%以上の時、素早さ＆スキルダメージ100%アップ",
+          "effectIdx1": "1115",
+          "effectIdx2": "2219",
+          "effectIdx3": "31809"
+        },
+        {
+          "abilityId": "2250",
+          "abilityName": "究極の再生術",
+          "abilityDescription": "HP0以下で2回耐える、5回行動まで攻撃を受けるとHP50%回復",
+          "abilityEffectDescription": "HP0以下で2回耐える、5回行動まで攻撃を受けるとHP50%回復",
+          "effectIdx1": "1057",
+          "effectIdx2": "2261",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2257",
+          "abilityName": "無双の闘志",
+          "abilityDescription": "最大チャクラ量250アップ、行動後にHP30%回復",
+          "abilityEffectDescription": "最大チャクラ量250アップ、行動後にHP30%回復",
+          "effectIdx1": "20044",
+          "effectIdx2": "894",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2258",
+          "abilityName": "当千の豪傑",
+          "abilityDescription": "3回行動まで受けるダメージを90%カット",
+          "abilityEffectDescription": "3回行動まで受けるダメージを90%カット",
+          "effectIdx1": "2308",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -19949,6 +20075,15 @@ window.ability=[
           "abilityDescription": "耐性無視ダメージを0",
           "abilityEffectDescription": "耐性無視ダメージを0",
           "effectIdx1": "1750",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "11702",
+          "abilityName": "全スキル無効",
+          "abilityDescription": "全スキル無効",
+          "abilityEffectDescription": "全スキル無効",
+          "effectIdx1": "2311",
           "effectIdx2": "0",
           "effectIdx3": "0"
         },

@@ -6124,6 +6124,58 @@ window.skillname=[
           "name": "頑張れよ！"
         },
         {
+          "cardBattleSkillNameId": "2741",
+          "name": "火遁・爪紅鴉躍"
+        },
+        {
+          "cardBattleSkillNameId": "2742",
+          "name": "オレはその不信を払いたい"
+        },
+        {
+          "cardBattleSkillNameId": "2743",
+          "name": "秘術・毒注掌"
+        },
+        {
+          "cardBattleSkillNameId": "2744",
+          "name": "次でケリをつける！"
+        },
+        {
+          "cardBattleSkillNameId": "2745",
+          "name": "嵐遁・青鷲刃"
+        },
+        {
+          "cardBattleSkillNameId": "2746",
+          "name": "初弾はオレが！"
+        },
+        {
+          "cardBattleSkillNameId": "2747",
+          "name": "木ノ葉旋烈風"
+        },
+        {
+          "cardBattleSkillNameId": "2748",
+          "name": "死んでも守りぬきますから！"
+        },
+        {
+          "cardBattleSkillNameId": "2749",
+          "name": "幻鴉閃刃"
+        },
+        {
+          "cardBattleSkillNameId": "2750",
+          "name": "分かってる…"
+        },
+        {
+          "cardBattleSkillNameId": "2751",
+          "name": "豪破天眩脚"
+        },
+        {
+          "cardBattleSkillNameId": "2752",
+          "name": "それは私が死ねばの話だ"
+        },
+        {
+          "cardBattleSkillNameId": "2759",
+          "name": "昔とは違うのが分かったろ…"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },
