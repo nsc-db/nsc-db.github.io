@@ -10353,5 +10353,17 @@
           "effectIdx2": "13049",
           "effectIdx3": "300012",
           "effectIdx4": "820"
+        },
+        {
+          "crystalOverwriteEffectId": "880",
+          "targetCrystal": "20619",
+          "description": "全スキルダメージ100%アップ、素早さ60%アップ、スキル発動速度1段階アップ",
+          "charaIds": "13702,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "774",
+          "effectIdx2": "13059",
+          "effectIdx3": "1840",
+          "effectIdx4": "0"
         }
       ]

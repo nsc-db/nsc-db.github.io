@@ -78524,6 +78524,206 @@
           "message": "ハイ…"
         },
         {
+          "scriptMessageId": "28200",
+          "speechCharactorId": "693",
+          "message": "今回は、★7覚醒したキャラの\r\n強さを体感してもらうってばよ！"
+        },
+        {
+          "scriptMessageId": "28201",
+          "speechCharactorId": "693",
+          "message": "★7覚醒した「心属性」キャラは\r\n「技属性特化」を持っているから"
+        },
+        {
+          "scriptMessageId": "28202",
+          "speechCharactorId": "693",
+          "message": "「技属性」への攻撃は、全部「弱点」で攻撃できる！"
+        },
+        {
+          "scriptMessageId": "28203",
+          "speechCharactorId": "693",
+          "message": "なんと！「全スキル無効」の効果を持っている\r\n「技属性」キャラにも\r\nスキル攻撃が通るようになるってばよ！"
+        },
+        {
+          "scriptMessageId": "28204",
+          "speechCharactorId": "693",
+          "message": "今回は、「技属性」で\r\n「全スキル無効」の効果を持っているキャラが登場！"
+        },
+        {
+          "scriptMessageId": "28205",
+          "speechCharactorId": "693",
+          "message": "さっそく★7覚醒したキャラの実力を\r\n体感するってばよ！"
+        },
+        {
+          "scriptMessageId": "28206",
+          "speechCharactorId": "693",
+          "message": "「属性」の相性がカギだってばよ！"
+        },
+        {
+          "scriptMessageId": "28207",
+          "speechCharactorId": "475",
+          "message": "★7覚醒した「技属性」キャラの特徴を\r\n実戦で教えよう"
+        },
+        {
+          "scriptMessageId": "28208",
+          "speechCharactorId": "475",
+          "message": "★7覚醒した「技属性」キャラは\r\n「体属性特化」を持っている"
+        },
+        {
+          "scriptMessageId": "28209",
+          "speechCharactorId": "475",
+          "message": "「体属性」への攻撃は、\r\n全部「弱点」での攻撃になるんだ"
+        },
+        {
+          "scriptMessageId": "28210",
+          "speechCharactorId": "475",
+          "message": "「全スキル無効」の効果を持っている、\r\n「体属性」キャラにも、スキル攻撃が通るようになる"
+        },
+        {
+          "scriptMessageId": "28211",
+          "speechCharactorId": "475",
+          "message": "今回は、「体属性」で\r\n「全スキル無効」の効果を持っている\r\n敵と戦ってもらう"
+        },
+        {
+          "scriptMessageId": "28212",
+          "speechCharactorId": "475",
+          "message": "★7覚醒したキャラの実力は\r\n自分の眼で確かめるんだ"
+        },
+        {
+          "scriptMessageId": "28213",
+          "speechCharactorId": "475",
+          "message": "「属性」の相性が大事なんだ"
+        },
+        {
+          "scriptMessageId": "28214",
+          "speechCharactorId": "694",
+          "message": "君は★7覚醒した「体属性」キャラの特徴を\r\n知っているかな？"
+        },
+        {
+          "scriptMessageId": "28215",
+          "speechCharactorId": "694",
+          "message": "★7覚醒した「体属性」キャラは\r\n「心属性特化」を持っているんだ"
+        },
+        {
+          "scriptMessageId": "28216",
+          "speechCharactorId": "694",
+          "message": "「心属性特化」って何かって？\r\nまあまあ慌てないで。ちゃんと説明するから"
+        },
+        {
+          "scriptMessageId": "28217",
+          "speechCharactorId": "694",
+          "message": "「心属性特化」を持っていると、\r\n「心属性」への攻撃は、\r\n全部「弱点」での攻撃になるんだ"
+        },
+        {
+          "scriptMessageId": "28218",
+          "speechCharactorId": "694",
+          "message": "「心属性」キャラが\r\n「全スキル無効」の効果を持っていても\r\nスキル攻撃が通るようになるんだよ"
+        },
+        {
+          "scriptMessageId": "28219",
+          "speechCharactorId": "694",
+          "message": "論より証拠だね。今回は、\r\n「心属性」で「全スキル無効」の効果を持っている\r\n敵と戦ってもらおうと思う"
+        },
+        {
+          "scriptMessageId": "28220",
+          "speechCharactorId": "694",
+          "message": "★7覚醒したキャラの実力を体感してみよう"
+        },
+        {
+          "scriptMessageId": "28221",
+          "speechCharactorId": "694",
+          "message": "どうだい？★7覚醒した「体属性」キャラは\r\n「心属性」キャラに強いだろう？"
+        },
+        {
+          "scriptMessageId": "28222",
+          "speechCharactorId": "204",
+          "message": "★7覚醒したキャラの特徴を教えてやろう"
+        },
+        {
+          "scriptMessageId": "28223",
+          "speechCharactorId": "204",
+          "message": "★7覚醒した「知属性」キャラは\r\n「勇属性特化」を持っている"
+        },
+        {
+          "scriptMessageId": "28224",
+          "speechCharactorId": "204",
+          "message": "「勇属性」への攻撃は、\r\n全て「弱点」での攻撃となる"
+        },
+        {
+          "scriptMessageId": "28225",
+          "speechCharactorId": "204",
+          "message": "つまり、「全スキル無効」の効果を持っていようが\r\n「勇属性」キャラにもスキル攻撃が通る"
+        },
+        {
+          "scriptMessageId": "28226",
+          "speechCharactorId": "204",
+          "message": "「勇属性」かつ「全スキル無効」の効果を\r\n持っているキャラを敵として用意した"
+        },
+        {
+          "scriptMessageId": "28227",
+          "speechCharactorId": "204",
+          "message": "★7覚醒したキャラの実力を\r\nその眼に焼き付けろ"
+        },
+        {
+          "scriptMessageId": "28228",
+          "speechCharactorId": "204",
+          "message": "★7覚醒した「知属性」が「勇属性」に\r\n強いことがわかっただろう"
+        },
+        {
+          "scriptMessageId": "28229",
+          "speechCharactorId": "204",
+          "message": "だが、逆に「勇属性」も\r\n「知属性」に対して同じ効果を持っている\r\n注意が必要だ"
+        },
+        {
+          "scriptMessageId": "28230",
+          "speechCharactorId": "204",
+          "message": "★7覚醒したキャラの登場が\r\n今後の流れを創っていく"
+        },
+        {
+          "scriptMessageId": "28231",
+          "speechCharactorId": "564",
+          "message": "小僧、\r\n★7覚醒したキャラの特徴を知っているか？"
+        },
+        {
+          "scriptMessageId": "28232",
+          "speechCharactorId": "564",
+          "message": "いいだろう、このオレが\r\n直々に教えてやろう"
+        },
+        {
+          "scriptMessageId": "28233",
+          "speechCharactorId": "564",
+          "message": "★7覚醒した「勇属性」キャラは\r\n「知属性特化」を持っている"
+        },
+        {
+          "scriptMessageId": "28234",
+          "speechCharactorId": "564",
+          "message": "「知属性」への攻撃は、\r\n全て「弱点」での攻撃となるのだ"
+        },
+        {
+          "scriptMessageId": "28235",
+          "speechCharactorId": "564",
+          "message": "「全スキル無効」の効果を持っていようが\r\n「知属性」キャラにもスキル攻撃が通るということだ"
+        },
+        {
+          "scriptMessageId": "28236",
+          "speechCharactorId": "564",
+          "message": "今回は特別に、このオレが\r\n「知属性」かつ「全スキル無効」の効果を\r\n持っているキャラを敵にあてがってやった"
+        },
+        {
+          "scriptMessageId": "28237",
+          "speechCharactorId": "564",
+          "message": "★7覚醒したキャラの実力を\r\nその体に刻み込むんだな"
+        },
+        {
+          "scriptMessageId": "28238",
+          "speechCharactorId": "564",
+          "message": "どうだ？\r\n★7覚醒した「勇属性」は\r\n「知属性」に強いだろう？"
+        },
+        {
+          "scriptMessageId": "28239",
+          "speechCharactorId": "564",
+          "message": "しかし、「知属性」も「勇属性」に対して\r\n同じ効果を持っている\r\n油断をしていると、足元を掬われるぞ"
+        },
+        {
           "scriptMessageId": "40001",
           "speechCharactorId": "178",
           "message": "絶望しかないこの世界に\r\n存在する価値はない"

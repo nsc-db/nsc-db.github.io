@@ -3501,5 +3501,13 @@
           "params": "0,",
           "limitedFlg": "120",
           "skillUrl": ""
+        },
+        {
+          "gachaCardAdditionId": "20000008",
+          "targetCardId": "20050616",
+          "additionId": "0",
+          "params": "0,",
+          "limitedFlg": "120",
+          "skillUrl": null
         }
       ]

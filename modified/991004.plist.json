@@ -4127,6 +4127,18 @@
           "speechCharactorName": "春野サクラ"
         },
         {
+          "speechCharactorId": "693",
+          "cardId": "20031011",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うずまきナルト"
+        },
+        {
+          "speechCharactorId": "694",
+          "cardId": "20040201",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "波風ミナト"
+        },
+        {
           "speechCharactorId": "1000",
           "cardId": "21000091",
           "speechCharactorImgId": "1000",

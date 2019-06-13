@@ -11660,6 +11660,19 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "916",
+          "name": "闘忍の覇者",
+          "description": "知・勇属性の素早さ80%アップ、最大HP150%アップ",
+          "effectIdx1": "13079",
+          "effectIdx2": "1212",
+          "effectIdx3": "0",
+          "compType": "2",
+          "target1Category": "1",
+          "target1Param": "6",
+          "target2Category": "1",
+          "target2Param": "7"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",
