@@ -10343,6 +10343,30 @@
           "effectIdx4": "0"
         },
         {
+          "crystalOverwriteEffectId": "877",
+          "targetCrystal": "20610",
+          "description": "全スキルダメージ120％アップ、3回行動するまでチャクラ消費量半減、スキル発動速度1段階アップ",
+          "charaIds": "0",
+          "cardIds": "20050608,20050609,20050610,",
+          "charaGroupIds": "0",
+          "effectIdx1": "30011",
+          "effectIdx2": "1876",
+          "effectIdx3": "1840",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "878",
+          "targetCrystal": "20611",
+          "description": "2回行動するまで全スキル無効、3回目以降は全スキルダメージを半減、行動後HP20％回復",
+          "charaIds": "0",
+          "cardIds": "20050608,20050609,20050610,",
+          "charaGroupIds": "0",
+          "effectIdx1": "1699",
+          "effectIdx2": "1996",
+          "effectIdx3": "628",
+          "effectIdx4": "0"
+        },
+        {
           "crystalOverwriteEffectId": "879",
           "targetCrystal": "20612",
           "description": "チャクラ消費量半減、素早さ50%アップ、行動後にHPとチャクラが30%回復",

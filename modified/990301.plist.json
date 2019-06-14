@@ -18911,6 +18911,38 @@
           "recipeName": "ダルイの上着"
         },
         {
+          "crystalId": "20610",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "615",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "かもめ",
+          "crystalDescription": "全スキルダメージ30%アップ",
+          "crystalImageId": "206105",
+          "recipeId": "20610",
+          "recipeName": "かもめ"
+        },
+        {
+          "crystalId": "20611",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "20500",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "水兵の帽子",
+          "crystalDescription": "全スキルダメージを軽減する",
+          "crystalImageId": "206115",
+          "recipeId": "20611",
+          "recipeName": "水兵の帽子"
+        },
+        {
           "crystalId": "20612",
           "crystalType": "12",
           "crystalRare": "5",

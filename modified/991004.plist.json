@@ -4139,6 +4139,30 @@
           "speechCharactorName": "波風ミナト"
         },
         {
+          "speechCharactorId": "696",
+          "cardId": "20050608",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "春野サクラ"
+        },
+        {
+          "speechCharactorId": "697",
+          "cardId": "20050609",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "香燐"
+        },
+        {
+          "speechCharactorId": "698",
+          "cardId": "20050610",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "日向ヒナタ"
+        },
+        {
+          "speechCharactorId": "699",
+          "cardId": "20050110",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "自来也"
+        },
+        {
           "speechCharactorId": "1000",
           "cardId": "21000091",
           "speechCharactorImgId": "1000",

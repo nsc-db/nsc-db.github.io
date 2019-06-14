@@ -7069,6 +7069,48 @@
           "gender": "1"
         },
         {
+          "charaProfileId": "900068",
+          "charaId": "9001",
+          "name": "モヤ忍 アニキ",
+          "detail": null,
+          "charaLoveAffinityGroupId": "0",
+          "birthday": "0",
+          "constellation": "0",
+          "height": "0",
+          "weight": "0",
+          "bloodType": "0",
+          "age": "0",
+          "gender": "1"
+        },
+        {
+          "charaProfileId": "900069",
+          "charaId": "9001",
+          "name": "モヤ忍 手下A",
+          "detail": null,
+          "charaLoveAffinityGroupId": "0",
+          "birthday": "0",
+          "constellation": "0",
+          "height": "0",
+          "weight": "0",
+          "bloodType": "0",
+          "age": "0",
+          "gender": "1"
+        },
+        {
+          "charaProfileId": "900070",
+          "charaId": "9001",
+          "name": "モヤ忍 手下B",
+          "detail": null,
+          "charaLoveAffinityGroupId": "0",
+          "birthday": "0",
+          "constellation": "0",
+          "height": "0",
+          "weight": "0",
+          "bloodType": "0",
+          "age": "0",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "8000001",
           "charaId": "80000",
           "name": "うずまきナルト",

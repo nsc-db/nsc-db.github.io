@@ -78724,6 +78724,491 @@
           "message": "しかし、「知属性」も「勇属性」に対して\r\n同じ効果を持っている\r\n油断をしていると、足元を掬われるぞ"
         },
         {
+          "scriptMessageId": "28294",
+          "speechCharactorId": "0",
+          "message": "無限月読…\r\n見たもの全てを夢に堕とす大幻術…"
+        },
+        {
+          "scriptMessageId": "28295",
+          "speechCharactorId": "0",
+          "message": "これはとある忍が夢みた\r\n無限に続く夢の世界"
+        },
+        {
+          "scriptMessageId": "28296",
+          "speechCharactorId": "672",
+          "message": "しっかし、雨ばっかでつまんねえな〜"
+        },
+        {
+          "scriptMessageId": "28297",
+          "speechCharactorId": "699",
+          "message": "何をじっとり落ち込んどる！？\r\n雨続きが憂鬱なら、\r\n遊びにでも行ったらどうだのォ！？"
+        },
+        {
+          "scriptMessageId": "28298",
+          "speechCharactorId": "672",
+          "message": "エロ仙人…そんなこと言ってもよぉ。\r\nこう雨続きだと、外じゃ何もできねえってばよ"
+        },
+        {
+          "scriptMessageId": "28299",
+          "speechCharactorId": "699",
+          "message": "そんな時こそここに来い！"
+        },
+        {
+          "scriptMessageId": "28300",
+          "speechCharactorId": "672",
+          "message": "ん？何だこのチラシ。\r\n「スカッと楽しく！憂鬱を吹き飛ばせ！！"
+        },
+        {
+          "scriptMessageId": "28301",
+          "speechCharactorId": "672",
+          "message": "超巨大屋内遊戯施設・\r\nうずしおマリンパークへようこそ！」…？"
+        },
+        {
+          "scriptMessageId": "28302",
+          "speechCharactorId": "699",
+          "message": "ふっふっふ、ワシが作った、雨の日でも\r\n遊べる全天候型遊戯施設だのォ！"
+        },
+        {
+          "scriptMessageId": "28303",
+          "speechCharactorId": "699",
+          "message": "じっとり腐っているお前に\r\n特別に紹介してやろうかのォ！"
+        },
+        {
+          "scriptMessageId": "28304",
+          "speechCharactorId": "696",
+          "message": "ゲッ、ナルト！？\r\n…ようこそ、マリンパークへ！\r\nほら、ヒナタも挨拶しなさい！"
+        },
+        {
+          "scriptMessageId": "28305",
+          "speechCharactorId": "698",
+          "message": "よ、ようこそ…\r\nナ、ナルトくん！？"
+        },
+        {
+          "scriptMessageId": "28306",
+          "speechCharactorId": "672",
+          "message": "な、何でここにサクラちゃんと\r\nヒナタがいるんだってばよ！？"
+        },
+        {
+          "scriptMessageId": "28307",
+          "speechCharactorId": "696",
+          "message": "綱手先生のところに自来也先生が来たのよ。\r\nそこで、案内人を募集しているって\r\n聞いたから"
+        },
+        {
+          "scriptMessageId": "28308",
+          "speechCharactorId": "698",
+          "message": "あ、あの…私はサクラちゃんに…"
+        },
+        {
+          "scriptMessageId": "28309",
+          "speechCharactorId": "696",
+          "message": "こーいうところは一人より二人の方が\r\n楽しいじゃない！\r\nヒナタのその衣装、すっごく似合ってるし！"
+        },
+        {
+          "scriptMessageId": "28310",
+          "speechCharactorId": "698",
+          "message": "そ、そんなことないよ…"
+        },
+        {
+          "scriptMessageId": "28311",
+          "speechCharactorId": "697",
+          "message": "あーはいはい、ようこそようこそ"
+        },
+        {
+          "scriptMessageId": "28312",
+          "speechCharactorId": "672",
+          "message": "そいつは？"
+        },
+        {
+          "scriptMessageId": "28313",
+          "speechCharactorId": "696",
+          "message": "一緒に働いてる子よ"
+        },
+        {
+          "scriptMessageId": "28314",
+          "speechCharactorId": "697",
+          "message": "（ちっ。木ノ葉が関わる新しい施設の\r\n秘密を探ろうと思ったが\r\n…まさか遊園地のバイトとは）"
+        },
+        {
+          "scriptMessageId": "28315",
+          "speechCharactorId": "697",
+          "message": "（怪しいから来てみろって\r\nサスケも呼んじまった）"
+        },
+        {
+          "scriptMessageId": "28316",
+          "speechCharactorId": "696",
+          "message": "こういう場所でデートとかいいわよねー。\r\nヒナタもそう思うでしょ？"
+        },
+        {
+          "scriptMessageId": "28317",
+          "speechCharactorId": "698",
+          "message": "えっ…わ、私は…"
+        },
+        {
+          "scriptMessageId": "28318",
+          "speechCharactorId": "697",
+          "message": "デート…まあいい、仕事はついでだ。\r\n（サスケが来たら…ヒヒヒ…）"
+        },
+        {
+          "scriptMessageId": "28319",
+          "speechCharactorId": "696",
+          "message": "最初のアトラクションは\r\n船に乗ってのクルーズ体験よ！\r\n海の脅威と戦いつつ進みなさいね！"
+        },
+        {
+          "scriptMessageId": "28320",
+          "speechCharactorId": "654",
+          "message": "獲物が来ましたね…"
+        },
+        {
+          "scriptMessageId": "28321",
+          "speechCharactorId": "672",
+          "message": "おいおい！なんか襲ってきたってばよ！"
+        },
+        {
+          "scriptMessageId": "28322",
+          "speechCharactorId": "698",
+          "message": "ナ、ナルトくん、気をつけてね…"
+        },
+        {
+          "scriptMessageId": "28323",
+          "speechCharactorId": "672",
+          "message": "なんとか撃退できたけどよ\r\n…船から落っこっちまったってばよ！"
+        },
+        {
+          "scriptMessageId": "28324",
+          "speechCharactorId": "672",
+          "message": "おい！なんとかしろってばよ！"
+        },
+        {
+          "scriptMessageId": "28325",
+          "speechCharactorId": "697",
+          "message": "知らねーよ。そこでしばらく溺れてろ"
+        },
+        {
+          "scriptMessageId": "28326",
+          "speechCharactorId": "672",
+          "message": "どこが可愛くて有能な\r\n案内人なんだってばよー！"
+        },
+        {
+          "scriptMessageId": "28327",
+          "speechCharactorId": "697",
+          "message": "つまんねえ仕事だぜ。\r\nあいつらを撒いてサボってやったが "
+        },
+        {
+          "scriptMessageId": "28328",
+          "speechCharactorId": "697",
+          "message": "…サ、サスケ！？\r\nおせーよ！やっと来たのかよ！"
+        },
+        {
+          "scriptMessageId": "28329",
+          "speechCharactorId": "550",
+          "message": "…お前がここに呼んだんだろう"
+        },
+        {
+          "scriptMessageId": "28330",
+          "speechCharactorId": "697",
+          "message": "まあまあそんな話は置いといて、\r\nサスケェ、せっかく来たんだし、\r\nお揃いの記念品でも作ってかねえか？"
+        },
+        {
+          "scriptMessageId": "28331",
+          "speechCharactorId": "697",
+          "message": "限定デザインの、\r\n名前刻印入りの根付が作れるんだぜ？"
+        },
+        {
+          "scriptMessageId": "28332",
+          "speechCharactorId": "697",
+          "message": "って、あれ？機械が詰まって出てこねえな？"
+        },
+        {
+          "scriptMessageId": "28333",
+          "speechCharactorId": "697",
+          "message": "ちょっと待ってくれ！いま出てくるから…"
+        },
+        {
+          "scriptMessageId": "28334",
+          "speechCharactorId": "550",
+          "message": "面倒だ\r\n火遁・鳳仙火の術！！"
+        },
+        {
+          "scriptMessageId": "28335",
+          "speechCharactorId": "697",
+          "message": "き、機械ごと！？\r\nああ〜〜〜二人の思い出がぁ〜〜〜"
+        },
+        {
+          "scriptMessageId": "28336",
+          "speechCharactorId": "550",
+          "message": "さっさと先に行くぞ"
+        },
+        {
+          "scriptMessageId": "28337",
+          "speechCharactorId": "697",
+          "message": "次のエリアは、「不思議な島亀探検館」だ\r\nこの餌をやれば動物と触れ合えるみてーだぜ"
+        },
+        {
+          "scriptMessageId": "28338",
+          "speechCharactorId": "550",
+          "message": "ちっ。くだらない…"
+        },
+        {
+          "scriptMessageId": "28339",
+          "speechCharactorId": "697",
+          "message": "あ、餌を一気に撒くと…"
+        },
+        {
+          "scriptMessageId": "28340",
+          "speechCharactorId": "44",
+          "message": "餌を一度に散布♪ 動物たちが興奮♪"
+        },
+        {
+          "scriptMessageId": "28341",
+          "speechCharactorId": "697",
+          "message": "やっぱり動物たちが襲ってきたじゃねーか！"
+        },
+        {
+          "scriptMessageId": "28342",
+          "speechCharactorId": "550",
+          "message": "ここには怪しいものはないな。\r\n先に帰らせてもらう"
+        },
+        {
+          "scriptMessageId": "28343",
+          "speechCharactorId": "697",
+          "message": "おいサスケ！そっちは順路じゃ…？\r\n…千鳥で壁に穴を…！？"
+        },
+        {
+          "scriptMessageId": "28344",
+          "speechCharactorId": "697",
+          "message": "サスケェ～～～！待ってくれぇ〜〜〜！"
+        },
+        {
+          "scriptMessageId": "28345",
+          "speechCharactorId": "672",
+          "message": "やっと水から出られたぜ…\r\nどこがスカッと楽しくなんだよ…"
+        },
+        {
+          "scriptMessageId": "28346",
+          "speechCharactorId": "698",
+          "message": "あ、あの…次の出し物はたぶん危なくないから…"
+        },
+        {
+          "scriptMessageId": "28347",
+          "speechCharactorId": "697",
+          "message": "パレードだからな。黙って見とけ"
+        },
+        {
+          "scriptMessageId": "28348",
+          "speechCharactorId": "696",
+          "message": "あれ？姿が見えないと思ってたけど、\r\nどこ行ってたの？"
+        },
+        {
+          "scriptMessageId": "28349",
+          "speechCharactorId": "697",
+          "message": "どうでもいいだろーが。クソが…"
+        },
+        {
+          "scriptMessageId": "28350",
+          "speechCharactorId": "672",
+          "message": "でも、このパレード、\r\nカエルばっかり出てくんな…"
+        },
+        {
+          "scriptMessageId": "28351",
+          "speechCharactorId": "699",
+          "message": "おお！ナルト！\r\n蝦蟇の秘境 妙木山パレードを楽しんでいるか？"
+        },
+        {
+          "scriptMessageId": "28352",
+          "speechCharactorId": "699",
+          "message": "雨といえば蛙だからのォ！\r\n大盤振る舞いだ！\r\nガマブン太！ナルトの相手をしてやれぃ！"
+        },
+        {
+          "scriptMessageId": "28353",
+          "speechCharactorId": "672",
+          "message": "全く、何考えてんだ、エロ仙人！"
+        },
+        {
+          "scriptMessageId": "28354",
+          "speechCharactorId": "699",
+          "message": "ワシのパレードが全滅だのォ！？"
+        },
+        {
+          "scriptMessageId": "28355",
+          "speechCharactorId": "672",
+          "message": "……スカッと楽しくだろ！？"
+        },
+        {
+          "scriptMessageId": "28356",
+          "speechCharactorId": "699",
+          "message": "それはそうなんだが……ちょっと違うのォ！？"
+        },
+        {
+          "scriptMessageId": "28357",
+          "speechCharactorId": "696",
+          "message": "最後のアトラクションは、\r\nこの遊戯施設の目玉よ！"
+        },
+        {
+          "scriptMessageId": "28358",
+          "speechCharactorId": "698",
+          "message": "…高低差のあるレールの上を走る\r\n車両に乗って、 高いところからの\r\n落下を楽しむ最新アトラクション…です"
+        },
+        {
+          "scriptMessageId": "28359",
+          "speechCharactorId": "672",
+          "message": "高いところから落っこちて何が楽しいんだ？"
+        },
+        {
+          "scriptMessageId": "28360",
+          "speechCharactorId": "696",
+          "message": "甘いわね！走行中は忍術で作った敵が\r\n攻撃してくるから、\r\nなるべくたくさんの敵を倒すのよ！"
+        },
+        {
+          "scriptMessageId": "28361",
+          "speechCharactorId": "672",
+          "message": "あいつら、マジで攻撃してきてるじゃねーか！"
+        },
+        {
+          "scriptMessageId": "28362",
+          "speechCharactorId": "672",
+          "message": "これ以上ちまちま倒すのは面倒だっ！\r\nこうなったら\r\nまとめてぶっ倒してやるってばよ！"
+        },
+        {
+          "scriptMessageId": "28363",
+          "speechCharactorId": "672",
+          "message": "螺旋丸！！！"
+        },
+        {
+          "scriptMessageId": "28364",
+          "speechCharactorId": "672",
+          "message": "ふう、螺旋丸でまとめて片付けられたな…"
+        },
+        {
+          "scriptMessageId": "28365",
+          "speechCharactorId": "696",
+          "message": "…ちょっと！なんてことしてくれたのよ！"
+        },
+        {
+          "scriptMessageId": "28366",
+          "speechCharactorId": "698",
+          "message": "敵だけじゃなくて、\r\nアトラクションが丸ごと…\r\n吹き飛んじゃったね"
+        },
+        {
+          "scriptMessageId": "28367",
+          "speechCharactorId": "697",
+          "message": "っつーか、遊戯施設がまとめて\r\n壊滅しちまったじゃねーか"
+        },
+        {
+          "scriptMessageId": "28368",
+          "speechCharactorId": "699",
+          "message": "ワ、ワシのうずしおマリンパークが…"
+        },
+        {
+          "scriptMessageId": "28369",
+          "speechCharactorId": "699",
+          "message": "スカッと楽しく憂鬱を吹き飛ばす\r\n夢の遊戯施設が…"
+        },
+        {
+          "scriptMessageId": "28370",
+          "speechCharactorId": "699",
+          "message": "スカッと見事に\r\n吹っ飛ばされてしまったのォ！？"
+        },
+        {
+          "scriptMessageId": "28371",
+          "speechCharactorId": "672",
+          "message": "わりぃ。つい、勢い余って…"
+        },
+        {
+          "scriptMessageId": "28372",
+          "speechCharactorId": "672",
+          "message": "あんだけの量の敵に囲まれたらからには、\r\n大技で数を減らすしかなかったんだってばよ"
+        },
+        {
+          "scriptMessageId": "28373",
+          "speechCharactorId": "696",
+          "message": "そういう問題じゃないでしょーが！"
+        },
+        {
+          "scriptMessageId": "28374",
+          "speechCharactorId": "698",
+          "message": "あ、あの…サクラちゃん。\r\nナルトくんも悪気があってやったわけじゃ…"
+        },
+        {
+          "scriptMessageId": "28375",
+          "speechCharactorId": "696",
+          "message": "あったりまえでしょー！？\r\nわざとだったらこんなんじゃ\r\n済まないんだから！"
+        },
+        {
+          "scriptMessageId": "28376",
+          "speechCharactorId": "672",
+          "message": "ご、ごめんサクラちゃん！！\r\n謝るから拳をこっちに向けるのは…"
+        },
+        {
+          "scriptMessageId": "28377",
+          "speechCharactorId": "697",
+          "message": "…はあ"
+        },
+        {
+          "scriptMessageId": "28378",
+          "speechCharactorId": "696",
+          "message": "香燐も落ち込んでるじゃないの。全く…"
+        },
+        {
+          "scriptMessageId": "28379",
+          "speechCharactorId": "698",
+          "message": "大丈夫？"
+        },
+        {
+          "scriptMessageId": "28380",
+          "speechCharactorId": "697",
+          "message": "（パークのことはどうでもいいが、\r\nサスケと何の思い出も残せなかったな）"
+        },
+        {
+          "scriptMessageId": "28381",
+          "speechCharactorId": "697",
+          "message": "ん…これは？"
+        },
+        {
+          "scriptMessageId": "28382",
+          "speechCharactorId": "698",
+          "message": "瓦礫の中に…何かが？\r\nボロボロだけど、\r\n記念品コーナーの限定根付かな？"
+        },
+        {
+          "scriptMessageId": "28383",
+          "speechCharactorId": "697",
+          "message": "な、名前もちゃんと入ってるじゃねーか！？"
+        },
+        {
+          "scriptMessageId": "28384",
+          "speechCharactorId": "696",
+          "message": "真っ黒焦げで、何も読めないけど…？"
+        },
+        {
+          "scriptMessageId": "28385",
+          "speechCharactorId": "697",
+          "message": "やったー！ サスケとの思い出ゲットォ！！"
+        },
+        {
+          "scriptMessageId": "28386",
+          "speechCharactorId": "696",
+          "message": "はあ、パレードも無くなっちゃったし、\r\nこれじゃ遊戯施設というより\r\n廃墟ね、廃墟"
+        },
+        {
+          "scriptMessageId": "28387",
+          "speechCharactorId": "696",
+          "message": "しょうがないから帰るわよ、ヒナタ"
+        },
+        {
+          "scriptMessageId": "28388",
+          "speechCharactorId": "698",
+          "message": "う、うん…"
+        },
+        {
+          "scriptMessageId": "28389",
+          "speechCharactorId": "672",
+          "message": "まあ、確かにスカッとはしたかもな！"
+        },
+        {
+          "scriptMessageId": "28390",
+          "speechCharactorId": "699",
+          "message": "それは…よかったのォ…"
+        },
+        {
           "scriptMessageId": "40001",
           "speechCharactorId": "178",
           "message": "絶望しかないこの世界に\r\n存在する価値はない"

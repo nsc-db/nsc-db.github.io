@@ -5629,6 +5629,16 @@
           "gachaTicketImgId": "277"
         },
         {
+          "gachaTicketId": "3704",
+          "gachaTicketName": "海上の水兵物語ガチャチケット",
+          "gachaTicketImgId": "3704"
+        },
+        {
+          "gachaTicketId": "3705",
+          "gachaTicketName": "海上の水兵物語・祭",
+          "gachaTicketImgId": "3704"
+        },
+        {
           "gachaTicketId": "3707",
           "gachaTicketName": "神忍祭・転生者ガチャチケット",
           "gachaTicketImgId": "3707"
@@ -5642,6 +5652,16 @@
           "gachaTicketId": "3717",
           "gachaTicketName": "★5期間限定忍具ガチャチケット",
           "gachaTicketImgId": "3717"
+        },
+        {
+          "gachaTicketId": "3723",
+          "gachaTicketName": "うずまきナルトガチャチケット",
+          "gachaTicketImgId": "407"
+        },
+        {
+          "gachaTicketId": "3724",
+          "gachaTicketName": "うちはサスケガチャチケット",
+          "gachaTicketImgId": "408"
         },
         {
           "gachaTicketId": "100084",

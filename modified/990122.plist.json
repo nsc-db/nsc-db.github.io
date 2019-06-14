@@ -2447,6 +2447,30 @@
           "voiceDeath": "tsunade_damage_02_01"
         },
         {
+          "cardVoiceId": "207",
+          "cardId": "20050608",
+          "dirName": "sakura",
+          "evolutionStep": "",
+          "voiceAppear": "sakura_skill_02_12",
+          "voiceSkill1": "sakura_skill_02_08,sakura_skill_02_07",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "sakura_pursuit_02_05",
+          "voiceDeath": "sakura_death_02_01"
+        },
+        {
+          "cardVoiceId": "208",
+          "cardId": "20050610",
+          "dirName": "hinata",
+          "evolutionStep": "",
+          "voiceAppear": "hinata_menu_raid_01",
+          "voiceSkill1": "hinata_attack_02_01,hinata_attack_02_02",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "hinata_menu_02",
+          "voiceDeath": "hinata_damage_02_01"
+        },
+        {
           "cardVoiceId": "209",
           "cardId": "20050616",
           "dirName": "madara",
