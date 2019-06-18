@@ -11712,6 +11712,32 @@
           "target2Param": "7"
         },
         {
+          "cardLeaderSkillId": "917",
+          "name": "蘇る霧の怨鬼",
+          "description": "知属性の最大HPとスキルダメージを100％アップ",
+          "effectIdx1": "684",
+          "effectIdx2": "774",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "6",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "918",
+          "name": "再臨せし氷花",
+          "description": "敵に五大隠れ里所属がいると全属性の最大HPを200％アップ",
+          "effectIdx1": "2315",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

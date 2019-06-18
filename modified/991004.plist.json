@@ -4163,10 +4163,28 @@
           "speechCharactorName": "自来也"
         },
         {
+          "speechCharactorId": "700",
+          "cardId": "20050612",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "桃地再不斬"
+        },
+        {
+          "speechCharactorId": "701",
+          "cardId": "20050613",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "白"
+        },
+        {
           "speechCharactorId": "1000",
           "cardId": "21000091",
           "speechCharactorImgId": "1000",
           "speechCharactorName": "ミズキ"
+        },
+        {
+          "speechCharactorId": "5001",
+          "cardId": "50000001",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "木ノ葉の忍"
         },
         {
           "speechCharactorId": "5101",

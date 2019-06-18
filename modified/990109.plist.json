@@ -19844,6 +19844,42 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2259",
+          "abilityName": "感情のない鬼人",
+          "abilityDescription": "敵に超忍祭限定キャラがいると素早さ150%アップ",
+          "abilityEffectDescription": "敵に超忍祭限定キャラがいると素早さ150%アップ",
+          "effectIdx1": "2312",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2260",
+          "abilityName": "人間の尊厳",
+          "abilityDescription": "2回行動するまで素早さ100%アップ",
+          "abilityEffectDescription": "2回行動するまで素早さ100%アップ",
+          "effectIdx1": "1692",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2261",
+          "abilityName": "感情のない道具",
+          "abilityDescription": "HP90%以上のとき耐性無視ダメージを0、HP0以下で1度だけHP全回復",
+          "abilityEffectDescription": "HP90%以上のとき耐性無視ダメージを0、HP0以下で1度だけHP全回復",
+          "effectIdx1": "1998",
+          "effectIdx2": "312",
+          "effectIdx3": "874"
+        },
+        {
+          "abilityId": "2262",
+          "abilityName": "死者の落涙",
+          "abilityDescription": "敵の超忍祭限定キャラからのダメージ75%カット、HP40％以下のとき素早さとスキルダメージ300％アップ",
+          "abilityEffectDescription": "敵の超忍祭限定キャラからのダメージ75%カット、HP40％以下のとき素早さとスキルダメージ300％アップ",
+          "effectIdx1": "2313",
+          "effectIdx2": "2314",
+          "effectIdx3": "32229"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

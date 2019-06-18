@@ -1819,6 +1819,20 @@
           "gender": "1"
         },
         {
+          "charaProfileId": "10102",
+          "charaId": "101",
+          "name": "桃地再不斬",
+          "detail": "穢土転生",
+          "charaLoveAffinityGroupId": "10120",
+          "birthday": "815",
+          "constellation": "5",
+          "height": "0",
+          "weight": "0",
+          "bloodType": "1",
+          "age": "0",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "10201",
           "charaId": "102",
           "name": "白",
@@ -1830,6 +1844,20 @@
           "weight": "4320",
           "bloodType": "3",
           "age": "15",
+          "gender": "1"
+        },
+        {
+          "charaProfileId": "10202",
+          "charaId": "102",
+          "name": "白",
+          "detail": "穢土転生",
+          "charaLoveAffinityGroupId": "10220",
+          "birthday": "109",
+          "constellation": "10",
+          "height": "0",
+          "weight": "0",
+          "bloodType": "3",
+          "age": "0",
           "gender": "1"
         },
         {

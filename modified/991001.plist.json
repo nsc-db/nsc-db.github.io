@@ -79209,6 +79209,186 @@
           "message": "それは…よかったのォ…"
         },
         {
+          "scriptMessageId": "28391",
+          "speechCharactorId": "701",
+          "message": "カカシさん？"
+        },
+        {
+          "scriptMessageId": "28392",
+          "speechCharactorId": "700",
+          "message": "…ここはどうやら地獄でも天国でもないらしい"
+        },
+        {
+          "scriptMessageId": "28393",
+          "speechCharactorId": "484",
+          "message": "ここは現実の世界…\r\nもうお前達の来る場所じゃないのさ"
+        },
+        {
+          "scriptMessageId": "28394",
+          "speechCharactorId": "336",
+          "message": "再不斬…白……"
+        },
+        {
+          "scriptMessageId": "28395",
+          "speechCharactorId": "700",
+          "message": "あの小僧は元気にしてるか？"
+        },
+        {
+          "scriptMessageId": "28396",
+          "speechCharactorId": "484",
+          "message": "お前らのおかげでナルトは\r\n己の忍道を見つける事ができた\r\nあの時からブレない立派な忍に成長した"
+        },
+        {
+          "scriptMessageId": "28397",
+          "speechCharactorId": "701",
+          "message": "なら…彼はもっと強くなる"
+        },
+        {
+          "scriptMessageId": "28398",
+          "speechCharactorId": "232",
+          "message": "鬼のオーラ…こいつが鬼人再不斬か！\r\nその上氷遁の子！"
+        },
+        {
+          "scriptMessageId": "28399",
+          "speechCharactorId": "701",
+          "message": "カカシさん…お願い…します…\r\nもう一度私達を…止めて下さい…"
+        },
+        {
+          "scriptMessageId": "28400",
+          "speechCharactorId": "701",
+          "message": "ボクの夢は…再不斬さんの道具として…\r\n再不斬さんを…守りぬき…死ぬ事だった…"
+        },
+        {
+          "scriptMessageId": "28401",
+          "speechCharactorId": "484",
+          "message": "再不斬は君の事を道具だなんて思っちゃいなかった"
+        },
+        {
+          "scriptMessageId": "28402",
+          "speechCharactorId": "701",
+          "message": "……！！"
+        },
+        {
+          "scriptMessageId": "28403",
+          "speechCharactorId": "700",
+          "message": "カ…カシ…容赦…するな……\r\nオレを…どんな手を…使っても…止めろ……"
+        },
+        {
+          "scriptMessageId": "28404",
+          "speechCharactorId": "700",
+          "message": "…オレは…もう……死んだ……\r\n人間として死んだんだ！"
+        },
+        {
+          "scriptMessageId": "28405",
+          "speechCharactorId": "484",
+          "message": "ああ…分かってるよ"
+        },
+        {
+          "scriptMessageId": "28406",
+          "speechCharactorId": "484",
+          "message": "まさか…ここまで…"
+        },
+        {
+          "scriptMessageId": "28407",
+          "speechCharactorId": "5001",
+          "message": "こ…これは…前任者…達…\r\n霧隠れ忍刀七人衆の前任者達だ！！！"
+        },
+        {
+          "scriptMessageId": "28408",
+          "speechCharactorId": "5001",
+          "message": "…歴代の忍刀七人衆の中でも\r\n…どの方も強い忍ばかりだ！！"
+        },
+        {
+          "scriptMessageId": "28409",
+          "speechCharactorId": "5001",
+          "message": "長引けばこちらがどんどん不利になる…！"
+        },
+        {
+          "scriptMessageId": "28410",
+          "speechCharactorId": "5001",
+          "message": "再不斬以外刀を持ってない\r\nそうなりゃ奴らの力も半分だ…"
+        },
+        {
+          "scriptMessageId": "28411",
+          "speechCharactorId": "484",
+          "message": "（いや…刀はちゃんと持ってきたようだな…）"
+        },
+        {
+          "scriptMessageId": "28412",
+          "speechCharactorId": "484",
+          "message": "全員分は無しか…"
+        },
+        {
+          "scriptMessageId": "28413",
+          "speechCharactorId": "232",
+          "message": "さらに霧が濃くなってくぞ…これでは見えん…\r\n無音殺人術で音もない…耳でもダメだぞ！"
+        },
+        {
+          "scriptMessageId": "28414",
+          "speechCharactorId": "484",
+          "message": "まずは再不斬だ！"
+        },
+        {
+          "scriptMessageId": "28415",
+          "speechCharactorId": "484",
+          "message": "やるぞ！！"
+        },
+        {
+          "scriptMessageId": "28416",
+          "speechCharactorId": "484",
+          "message": "（よし！気付かれていない！）\r\n（先手を取った！いける！）"
+        },
+        {
+          "scriptMessageId": "28417",
+          "speechCharactorId": "484",
+          "message": "！！"
+        },
+        {
+          "scriptMessageId": "28418",
+          "speechCharactorId": "484",
+          "message": "（白…再不斬の盾に！？）"
+        },
+        {
+          "scriptMessageId": "28419",
+          "speechCharactorId": "484",
+          "message": "（再不斬…この子ごとオレを斬るつもりか！？）"
+        },
+        {
+          "scriptMessageId": "28420",
+          "speechCharactorId": "484",
+          "message": "再不斬…お前はあの時白を斬る事をためらった…\r\nそしてお前の内心は\r\n白の死による動揺を隠しきれなかった…"
+        },
+        {
+          "scriptMessageId": "28421",
+          "speechCharactorId": "484",
+          "message": "だが今は違う！\r\n感情のない道具って奴だ"
+        },
+        {
+          "scriptMessageId": "28422",
+          "speechCharactorId": "484",
+          "message": "もう！こんな戦いは無しにしよう！"
+        },
+        {
+          "scriptMessageId": "28423",
+          "speechCharactorId": "380",
+          "message": "(あいつら敵だったけど…なんかさ なんかさ…)"
+        },
+        {
+          "scriptMessageId": "28424",
+          "speechCharactorId": "380",
+          "message": "(オレあいつら好きだった)\r\n(これっておかしいかなぁ？)"
+        },
+        {
+          "scriptMessageId": "28425",
+          "speechCharactorId": "484",
+          "message": "いや…オレもだよ"
+        },
+        {
+          "scriptMessageId": "28426",
+          "speechCharactorId": "484",
+          "message": "お前らの死に様と涙は…\r\nお互いの絆そのものだったよ…"
+        },
+        {
           "scriptMessageId": "40001",
           "speechCharactorId": "178",
           "message": "絶望しかないこの世界に\r\n存在する価値はない"
