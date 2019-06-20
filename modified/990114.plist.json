@@ -2147,5 +2147,15 @@
           "subScore": "0",
           "color": "14211288",
           "type": "3"
+        },
+        {
+          "cardUnusualId": "219",
+          "category": "3",
+          "iconId": "1243",
+          "name": "閃導",
+          "description": "チャクラ消費量0、味方への全体スキルを無効化する、行動直後に特定キャラをアクション状態にする",
+          "subScore": "0",
+          "color": "16772167",
+          "type": "2"
         }
       ]

@@ -11738,6 +11738,32 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "919",
+          "name": "恭敬ノ雷哭",
+          "description": "敵に滅キャラがいると木ノ葉隠れの里所属の素早さ60%アップ＆スキル発動速度1段階アップ",
+          "effectIdx1": "2323",
+          "effectIdx2": "2324",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "921",
+          "name": "三禁破りの豪傑",
+          "description": "木ノ葉隠れの里所属の各自が5回行動するまで、受ける全スキルを半減",
+          "effectIdx1": "1204",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

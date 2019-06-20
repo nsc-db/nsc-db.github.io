@@ -27443,6 +27443,54 @@
           "effectParam3": "0"
         },
         {
+          "cardEffectId": "2321",
+          "timing": "10",
+          "conditionType": "107",
+          "conditionLower": "4",
+          "conditionUpper": "4",
+          "parcent": "10000",
+          "effectId": "43",
+          "effectParam1": "7500",
+          "effectParam2": "0",
+          "effectParam3": "0"
+        },
+        {
+          "cardEffectId": "2322",
+          "timing": "11",
+          "conditionType": "0",
+          "conditionLower": "0",
+          "conditionUpper": "0",
+          "parcent": "10000",
+          "effectId": "29",
+          "effectParam1": "8",
+          "effectParam2": "15000",
+          "effectParam3": "1"
+        },
+        {
+          "cardEffectId": "2323",
+          "timing": "14",
+          "conditionType": "12",
+          "conditionLower": "4",
+          "conditionUpper": "4",
+          "parcent": "10000",
+          "effectId": "1",
+          "effectParam1": "3",
+          "effectParam2": "16000",
+          "effectParam3": "0"
+        },
+        {
+          "cardEffectId": "2324",
+          "timing": "14",
+          "conditionType": "12",
+          "conditionLower": "4",
+          "conditionUpper": "4",
+          "parcent": "10000",
+          "effectId": "9",
+          "effectParam1": "17",
+          "effectParam2": "-1000",
+          "effectParam3": "0"
+        },
+        {
           "cardEffectId": "10000",
           "timing": "11",
           "conditionType": "0",
@@ -44972,6 +45020,18 @@
           "effectId": "34",
           "effectParam1": "2",
           "effectParam2": "5000",
+          "effectParam3": "0"
+        },
+        {
+          "cardEffectId": "80015",
+          "timing": "11",
+          "conditionType": "0",
+          "conditionLower": "0",
+          "conditionUpper": "0",
+          "parcent": "10000",
+          "effectId": "34",
+          "effectParam1": "2",
+          "effectParam2": "7000",
           "effectParam3": "0"
         },
         {

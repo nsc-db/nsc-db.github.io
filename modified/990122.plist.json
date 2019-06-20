@@ -2483,6 +2483,30 @@
           "voiceDeath": "madara_death_02_03"
         },
         {
+          "cardVoiceId": "210",
+          "cardId": "20050614",
+          "dirName": "kakasi",
+          "evolutionStep": "",
+          "voiceAppear": "kakasi_battle_02_05",
+          "voiceSkill1": "kakasi_skill_02_01",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "kakasi_win_02_03",
+          "voiceDeath": "kakasi_death_02_07"
+        },
+        {
+          "cardVoiceId": "212",
+          "cardId": "20050701",
+          "dirName": "jiraiya",
+          "evolutionStep": "",
+          "voiceAppear": "jiraiya_battle_02_03",
+          "voiceSkill1": "jiraiya_skill_02_03",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "jiraiya_win_02_02",
+          "voiceDeath": "jiraiya_death_02_02"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

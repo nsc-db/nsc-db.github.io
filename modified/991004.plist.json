@@ -3671,6 +3671,12 @@
           "speechCharactorName": "臼"
         },
         {
+          "speechCharactorId": "616",
+          "cardId": "50000013",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "忍僧"
+        },
+        {
           "speechCharactorId": "617",
           "cardId": "20001788",
           "speechCharactorImgId": "0",
@@ -4137,6 +4143,12 @@
           "cardId": "20040201",
           "speechCharactorImgId": "0",
           "speechCharactorName": "波風ミナト"
+        },
+        {
+          "speechCharactorId": "695",
+          "cardId": "20050501",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "はたけカカシ"
         },
         {
           "speechCharactorId": "696",

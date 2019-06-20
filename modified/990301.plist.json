@@ -19023,6 +19023,22 @@
           "recipeName": "白の千本"
         },
         {
+          "crystalId": "20617",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "1113",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "カカシのバッグ",
+          "crystalDescription": "バトル開始時にチャクラ20%回復",
+          "crystalImageId": "206175",
+          "recipeId": "20617",
+          "recipeName": "カカシのバッグ"
+        },
+        {
           "crystalId": "20619",
           "crystalType": "11",
           "crystalRare": "5",

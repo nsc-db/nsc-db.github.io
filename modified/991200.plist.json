@@ -10437,5 +10437,17 @@
           "effectIdx2": "968",
           "effectIdx3": "1190",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "885",
+          "targetCrystal": "20617",
+          "description": "バトル開始時にチャクラ50%回復、5回行動するまでチャクラ消費半減、確率でスキル回避",
+          "charaIds": "1702,1704,1706,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1115",
+          "effectIdx2": "1043",
+          "effectIdx3": "1423",
+          "effectIdx4": "0"
         }
       ]
