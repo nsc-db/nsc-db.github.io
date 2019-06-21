@@ -19039,6 +19039,22 @@
           "recipeName": "カカシのバッグ"
         },
         {
+          "crystalId": "20618",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "20500",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "トビのサンダル",
+          "crystalDescription": "全スキルダメージ軽減",
+          "crystalImageId": "206185",
+          "recipeId": "20618",
+          "recipeName": "トビのサンダル"
+        },
+        {
           "crystalId": "20619",
           "crystalType": "11",
           "crystalRare": "5",

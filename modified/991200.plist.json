@@ -10449,5 +10449,17 @@
           "effectIdx2": "1043",
           "effectIdx3": "1423",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "886",
+          "targetCrystal": "20618",
+          "description": "2回行動するまで全スキル無効、スキル発動速度1段階アップ",
+          "charaIds": "11901,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1699",
+          "effectIdx2": "1840",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
         }
       ]

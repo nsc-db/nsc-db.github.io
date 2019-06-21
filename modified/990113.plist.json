@@ -27443,6 +27443,42 @@
           "effectParam3": "0"
         },
         {
+          "cardEffectId": "2318",
+          "timing": "1",
+          "conditionType": "0",
+          "conditionLower": "0",
+          "conditionUpper": "0",
+          "parcent": "10000",
+          "effectId": "12",
+          "effectParam1": "1278",
+          "effectParam2": "0",
+          "effectParam3": "0"
+        },
+        {
+          "cardEffectId": "2319",
+          "timing": "5",
+          "conditionType": "1",
+          "conditionLower": "6000",
+          "conditionUpper": "10000",
+          "parcent": "10000",
+          "effectId": "9",
+          "effectParam1": "17",
+          "effectParam2": "-1000",
+          "effectParam3": "0"
+        },
+        {
+          "cardEffectId": "2320",
+          "timing": "1",
+          "conditionType": "1",
+          "conditionLower": "6000",
+          "conditionUpper": "10000",
+          "parcent": "10000",
+          "effectId": "1",
+          "effectParam1": "3",
+          "effectParam2": "25000",
+          "effectParam3": "0"
+        },
+        {
           "cardEffectId": "2321",
           "timing": "10",
           "conditionType": "107",
@@ -27489,6 +27525,30 @@
           "effectParam1": "17",
           "effectParam2": "-1000",
           "effectParam3": "0"
+        },
+        {
+          "cardEffectId": "2332",
+          "timing": "11",
+          "conditionType": "0",
+          "conditionLower": "0",
+          "conditionUpper": "0",
+          "parcent": "10000",
+          "effectId": "29",
+          "effectParam1": "1",
+          "effectParam2": "15000",
+          "effectParam3": "8"
+        },
+        {
+          "cardEffectId": "2333",
+          "timing": "11",
+          "conditionType": "0",
+          "conditionLower": "0",
+          "conditionUpper": "0",
+          "parcent": "10000",
+          "effectId": "29",
+          "effectParam1": "2",
+          "effectParam2": "15000",
+          "effectParam3": "8"
         },
         {
           "cardEffectId": "10000",

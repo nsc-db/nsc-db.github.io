@@ -18208,8 +18208,8 @@
         {
           "abilityId": "2067",
           "abilityName": "恋人たちへの憧憬",
-          "abilityDescription": "2回行動するまで男性キャラから受ける耐性無視を含む全スキル無効",
-          "abilityEffectDescription": "2回行動するまで男性キャラから受ける耐性無視を含む全スキル無効",
+          "abilityDescription": "2回行動するまで男性キャラから受ける耐性無視ダメージ0&amp;全スキル無効",
+          "abilityEffectDescription": "2回行動するまで男性キャラから受ける耐性無視ダメージ0&amp;全スキル無効",
           "effectIdx1": "1989",
           "effectIdx2": "1990",
           "effectIdx3": "0"
@@ -18415,8 +18415,8 @@
         {
           "abilityId": "2092",
           "abilityName": "忍術の開祖",
-          "abilityDescription": "2回行動まで耐性無視含む全スキル無効、2回行動までスキル発動速度2段階アップ",
-          "abilityEffectDescription": "2回行動まで耐性無視含む全スキル無効、2回行動までスキル発動速度2段階アップ",
+          "abilityDescription": "2回行動まで耐性無視ダメージ0&amp;全スキル無効、2回行動までスキル発動速度2段階アップ",
+          "abilityEffectDescription": "2回行動まで耐性無視ダメージ0&amp;全スキル無効、2回行動までスキル発動速度2段階アップ",
           "effectIdx1": "1914",
           "effectIdx2": "1645",
           "effectIdx3": "1838"
@@ -19306,8 +19306,8 @@
         {
           "abilityId": "2197",
           "abilityName": "強靭な鎧殻",
-          "abilityDescription": "15回行動まで耐性無視を含む全スキル無効、HP0以下で3回まで耐える",
-          "abilityEffectDescription": "15回行動まで耐性無視を含む全スキル無効、HP0以下で3回まで耐える",
+          "abilityDescription": "15回行動まで耐性無視ダメージ0&amp;全スキル無効、HP0以下で3回まで耐える",
+          "abilityEffectDescription": "15回行動まで耐性無視ダメージ0&amp;全スキル無効、HP0以下で3回まで耐える",
           "effectIdx1": "2193",
           "effectIdx2": "2194",
           "effectIdx3": "1789"
@@ -19913,6 +19913,24 @@
           "abilityEffectDescription": "HP80％以上の時、攻撃力100％アップしスキル発動速度1段階アップ",
           "effectIdx1": "865",
           "effectIdx2": "1391",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2269",
+          "abilityName": "謎の素性",
+          "abilityDescription": "“暁”所属1体につき攻撃力・防御力・素早さ50％アップ（自身含む）",
+          "abilityEffectDescription": "“暁”所属1体につき攻撃力・防御力・素早さ50％アップ（自身含む）",
+          "effectIdx1": "2332",
+          "effectIdx2": "2333",
+          "effectIdx3": "2098"
+        },
+        {
+          "abilityId": "2270",
+          "abilityName": "すり抜けの奇術",
+          "abilityDescription": "キャンセル無効、150％の確率でスキルを回避",
+          "abilityEffectDescription": "キャンセル無効、150％の確率でスキルを回避",
+          "effectIdx1": "1751",
+          "effectIdx2": "1880",
           "effectIdx3": "0"
         },
         {
@@ -20733,6 +20751,51 @@
           "effectIdx1": "2306",
           "effectIdx2": "2305",
           "effectIdx3": "1909"
+        },
+        {
+          "abilityId": "100047",
+          "abilityName": "郷愁の情",
+          "abilityDescription": "スキルダメージと防御力が150%アップし、写輪眼・武器・幻術・固有タイプのスキルダメージを無効",
+          "abilityEffectDescription": "スキルダメージと防御力が150%アップし、写輪眼・武器・幻術・固有タイプのスキルダメージを無効",
+          "effectIdx1": "794",
+          "effectIdx2": "1201",
+          "effectIdx3": "2318"
+        },
+        {
+          "abilityId": "100048",
+          "abilityName": "九喇嘛（陽）",
+          "abilityDescription": "最大チャクラ量を100アップ、スキル発動速度を1段階アップ、2回行動するまで耐性無視スキルのダメージを0",
+          "abilityEffectDescription": "最大チャクラ量を100アップ、スキル発動速度を1段階アップ、2回行動するまで耐性無視スキルのダメージを0",
+          "effectIdx1": "813",
+          "effectIdx2": "21000",
+          "effectIdx3": "1838"
+        },
+        {
+          "abilityId": "100049",
+          "abilityName": "インドラの転生体",
+          "abilityDescription": "スキルダメージが100％アップ、行動後に高確率でチャクラ消費量が半減する",
+          "abilityEffectDescription": "スキルダメージが100％アップ、行動後に高確率でチャクラ消費量が半減する",
+          "effectIdx1": "774",
+          "effectIdx2": "1597",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "100050",
+          "abilityName": "九喇嘛（陰）",
+          "abilityDescription": "最大チャクラ量を100アップ、スキル発動速度を1段階アップ、2回行動するまで全スキル無効",
+          "abilityEffectDescription": "最大チャクラ量を100アップ、スキル発動速度を1段階アップ、2回行動するまで全スキル無効",
+          "effectIdx1": "813",
+          "effectIdx2": "21000",
+          "effectIdx3": "1914"
+        },
+        {
+          "abilityId": "100051",
+          "abilityName": "儚げな美しさ",
+          "abilityDescription": "HPが60％以上の時に素早さとスキルダメージが150％アップ&amp;スキル発動速度1段階アップ",
+          "abilityEffectDescription": "HPが60％以上の時に素早さとスキルダメージが150％アップ&amp;スキル発動速度1段階アップ",
+          "effectIdx1": "31514",
+          "effectIdx2": "2320",
+          "effectIdx3": "2319"
         },
         {
           "abilityId": "200001",

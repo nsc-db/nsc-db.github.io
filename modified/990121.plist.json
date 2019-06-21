@@ -7343,6 +7343,15 @@
           "category": "0"
         },
         {
+          "cardBehaveAffectId": "20101002",
+          "timing": "1",
+          "func": "20",
+          "params": "114,0",
+          "comp": "17",
+          "compParams": "1",
+          "category": "0"
+        },
+        {
           "cardBehaveAffectId": "20102000",
           "timing": "5",
           "func": "60",
