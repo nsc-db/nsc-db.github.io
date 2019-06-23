@@ -6172,8 +6172,72 @@ window.skillname=[
           "name": "それは私が死ねばの話だ"
         },
         {
+          "cardBattleSkillNameId": "2753",
+          "name": "錨のボルテージ"
+        },
+        {
+          "cardBattleSkillNameId": "2754",
+          "name": "出航しないともう一笛よ！！"
+        },
+        {
+          "cardBattleSkillNameId": "2755",
+          "name": "全方位サスケロックオン"
+        },
+        {
+          "cardBattleSkillNameId": "2756",
+          "name": "だらしない奴だな！"
+        },
+        {
+          "cardBattleSkillNameId": "2757",
+          "name": "梅雨払い・八卦船掌"
+        },
+        {
+          "cardBattleSkillNameId": "2758",
+          "name": "大海原が私を変えてくれた！"
+        },
+        {
           "cardBattleSkillNameId": "2759",
           "name": "昔とは違うのが分かったろ…"
+        },
+        {
+          "cardBattleSkillNameId": "2760",
+          "name": "無音殺人術・怨刃"
+        },
+        {
+          "cardBattleSkillNameId": "2761",
+          "name": "気にくわねェ…"
+        },
+        {
+          "cardBattleSkillNameId": "2762",
+          "name": "氷遁秘術・幽魔鏡"
+        },
+        {
+          "cardBattleSkillNameId": "2763",
+          "name": "…ボクに任せて下さい"
+        },
+        {
+          "cardBattleSkillNameId": "2764",
+          "name": "雷切・昂眼輝掌"
+        },
+        {
+          "cardBattleSkillNameId": "2765",
+          "name": "やるぞ！！"
+        },
+        {
+          "cardBattleSkillNameId": "2768",
+          "name": "火遁・豪炎弾"
+        },
+        {
+          "cardBattleSkillNameId": "2769",
+          "name": "ワシがやる"
+        },
+        {
+          "cardBattleSkillNameId": "2770",
+          "name": "秘術・ぶっトビ魔時空"
+        },
+        {
+          "cardBattleSkillNameId": "2771",
+          "name": "あらよっと！"
         },
         {
           "cardBattleSkillNameId": "10136",
