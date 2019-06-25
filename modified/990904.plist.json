@@ -506,19 +506,6 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
-          "worldStageId": "4096",
-          "worldAreaId": "5",
-          "priority": "1",
-          "name": "瞬身の伝説",
-          "description": "Ptランキング開催！\r\n個人Ptはイベント期間中のみ加算されます",
-          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
-          "type": "0",
-          "prerequisiteWorldStageId": "0",
-          "openWeek": null,
-          "openTime": "0000.00.00 00:00:00",
-          "closeTime": "0000.00.00 00:00:00"
-        },
-        {
           "worldStageId": "4097",
           "worldAreaId": "5",
           "priority": "1",
@@ -1771,6 +1758,19 @@
           "worldAreaId": "10",
           "priority": "0",
           "name": "再会の章・後篇",
+          "description": "0",
+          "notice": "0",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
+          "worldStageId": "11006",
+          "worldAreaId": "10",
+          "priority": "0",
+          "name": "不死の破壊者の章・前篇",
           "description": "0",
           "notice": "0",
           "type": "0",

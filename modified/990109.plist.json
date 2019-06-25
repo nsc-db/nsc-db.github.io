@@ -19324,9 +19324,9 @@
         {
           "abilityId": "2199",
           "abilityName": "操重の瞳",
-          "abilityDescription": "バトル開始時に先頭の味方にかばう状態を付与し、“暁”所属への単体スキル攻撃を受けさせる",
-          "abilityEffectDescription": "バトル開始時に先頭の味方にかばう状態を付与し、“暁”所属への単体スキル攻撃を受けさせる",
-          "effectIdx1": "2215",
+          "abilityDescription": "ﾊﾞﾄﾙ開始時,先頭の味方に長い間「反ｽｷﾙ状態かばう」付与,“暁”所属への単体ｽｷﾙを受けさせる※反ｽｷﾙは即死以外有効",
+          "abilityEffectDescription": "ﾊﾞﾄﾙ開始時,先頭の味方に長い間「反ｽｷﾙ状態かばう」付与,“暁”所属への単体ｽｷﾙを受けさせる※反ｽｷﾙは即死以外有効",
+          "effectIdx1": "2337",
           "effectIdx2": "0",
           "effectIdx3": "0"
         },

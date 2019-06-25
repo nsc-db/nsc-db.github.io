@@ -102156,7 +102156,7 @@
         {
           "scriptMessageId": "202684",
           "speechCharactorId": "490",
-          "message": "螺旋丸を超える術には\r\nチャクラの“性質変化“”と\r\n“形態変化”の二つのテクニックが不可欠だ"
+          "message": "螺旋丸を超える術には\r\nチャクラの“性質変化”と\r\n“形態変化”の二つのテクニックが不可欠だ"
         },
         {
           "scriptMessageId": "202685",
@@ -102635,7 +102635,7 @@
         },
         {
           "scriptMessageId": "202780",
-          "speechCharactorId": "135",
+          "speechCharactorId": "32",
           "message": "フン…こんなもん"
         },
         {
@@ -102651,7 +102651,7 @@
         {
           "scriptMessageId": "202783",
           "speechCharactorId": "163",
-          "message": "術には必ず何かしらのルールや\r\n用いるためのリスク穴がある…"
+          "message": "術には必ず何かしらのルールや\r\n用いるためのリスク\r\n穴がある…"
         },
         {
           "scriptMessageId": "202784",
@@ -102670,7 +102670,7 @@
         },
         {
           "scriptMessageId": "202787",
-          "speechCharactorId": "135",
+          "speechCharactorId": "32",
           "message": "てめーは引っ込んでろって言ったろーが角都！\r\nオレ一人で十分だぜ！"
         },
         {
@@ -102681,7 +102681,7 @@
         {
           "scriptMessageId": "202789",
           "speechCharactorId": "31",
-          "message": "その全てから導く事の出来る\r\n術についての仮設の作成その確率と選択…"
+          "message": "その全てから導く事の出来る\r\n術についての仮説の作成その確率と選択…"
         },
         {
           "scriptMessageId": "202790",
@@ -102875,23 +102875,23 @@
         },
         {
           "scriptMessageId": "202828",
-          "speechCharactorId": "162",
-          "message": "こいつ…まだ生きてやがる"
-        },
-        {
-          "scriptMessageId": "202829",
           "speechCharactorId": "32",
           "message": "コラ角都！体だ！！\r\n体の方を持って来いっつったろーが！"
         },
         {
-          "scriptMessageId": "202830",
+          "scriptMessageId": "202829",
           "speechCharactorId": "191",
           "message": "こっちの方が軽い"
         },
         {
-          "scriptMessageId": "202831",
+          "scriptMessageId": "202830",
           "speechCharactorId": "32",
           "message": "痛てェ…いてて…オイ！\r\n角都髪引っ張んじゃねーよ！コラ！"
+        },
+        {
+          "scriptMessageId": "202831",
+          "speechCharactorId": "191",
+          "message": "…痛がるなら首の方を痛がれ"
         },
         {
           "scriptMessageId": "202832",
@@ -103141,7 +103141,7 @@
         {
           "scriptMessageId": "202881",
           "speechCharactorId": "135",
-          "message": "あのクソリーダー今度呪ってやろーかったくよー！"
+          "message": "あのクソリーダー今度呪ってやろーか\r\nったくよー！"
         },
         {
           "scriptMessageId": "202882",
@@ -103576,7 +103576,7 @@
         {
           "scriptMessageId": "202968",
           "speechCharactorId": "110",
-          "message": "…いつになく弱音吐くね、お前らしくない\r\nそれでもお前はオレの知ってるうずまきナルトか？"
+          "message": "…いつになく弱音吐くね、お前らしくない"
         },
         {
           "scriptMessageId": "202969",
