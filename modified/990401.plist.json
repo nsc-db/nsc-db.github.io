@@ -5654,6 +5654,11 @@
           "gachaTicketImgId": "3709"
         },
         {
+          "gachaTicketId": "3710",
+          "gachaTicketName": "スペシャル総選挙・参の陣ガチャチケット",
+          "gachaTicketImgId": "3710"
+        },
+        {
           "gachaTicketId": "3711",
           "gachaTicketName": "恭敬ノ雷哭ガチャチケット",
           "gachaTicketImgId": "3711"
@@ -5707,6 +5712,11 @@
           "gachaTicketId": "3729",
           "gachaTicketName": "霧の怨鬼と氷花・祭",
           "gachaTicketImgId": "3728"
+        },
+        {
+          "gachaTicketId": "3739",
+          "gachaTicketName": "★5以上超忍確定ガチャチケット",
+          "gachaTicketImgId": "3739"
         },
         {
           "gachaTicketId": "100084",
