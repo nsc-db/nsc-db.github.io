@@ -10461,5 +10461,29 @@
           "effectIdx2": "1840",
           "effectIdx3": "0",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "889",
+          "targetCrystal": "20701",
+          "description": "3回行動までチャクラ消費量0、4回目以降チャクラ消費量30%ダウン、ダメージ受けた時にチャクラ20%回復",
+          "charaIds": "50904,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1949",
+          "effectIdx2": "2345",
+          "effectIdx3": "1718",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "890",
+          "targetCrystal": "20702",
+          "description": "全スキルダメージ120%アップ、高確率でスキル回避、弱体＆状態異常＆幻無効",
+          "charaIds": "50904,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "30011",
+          "effectIdx2": "968",
+          "effectIdx3": "880",
+          "effectIdx4": "1642"
         }
       ]

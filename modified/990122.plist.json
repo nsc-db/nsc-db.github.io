@@ -2495,6 +2495,18 @@
           "voiceDeath": "kakasi_death_02_07"
         },
         {
+          "cardVoiceId": "211",
+          "cardId": "20050703",
+          "dirName": "obito",
+          "evolutionStep": "",
+          "voiceAppear": "obito_battle_02_01",
+          "voiceSkill1": "obito_win_02_01,obito_attack_02_02",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "obito_win_02_02",
+          "voiceDeath": "obito_death_02_05"
+        },
+        {
           "cardVoiceId": "212",
           "cardId": "20050701",
           "dirName": "jiraiya",

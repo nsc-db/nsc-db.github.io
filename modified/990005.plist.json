@@ -819,6 +819,16 @@
           "enemyEffects": "50002,80015,"
         },
         {
+          "battleFieldEffectId": "92",
+          "name": "虚無の変革者　超絶チャレンジ",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "1280,1549,12118,30004,2160,2346,2254,",
+          "enemyEffects": "2263,50001,"
+        },
+        {
           "battleFieldEffectId": "10001",
           "name": "始球空間",
           "category": "3",
@@ -847,5 +857,15 @@
           "uiIdx": "10003",
           "partyEffects": "2263,",
           "enemyEffects": "2263,2267,2264,"
+        },
+        {
+          "battleFieldEffectId": "10004",
+          "name": "六赤陽陣",
+          "category": "3",
+          "scriptId": "10004",
+          "overWrite": "1",
+          "uiIdx": "10004",
+          "partyEffects": "2326,2339,",
+          "enemyEffects": "2326,2329,2330,2331,2334,"
         }
       ]

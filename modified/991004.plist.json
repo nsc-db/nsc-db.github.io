@@ -4187,6 +4187,48 @@
           "speechCharactorName": "白"
         },
         {
+          "speechCharactorId": "705",
+          "cardId": "705",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはオビト"
+        },
+        {
+          "speechCharactorId": "706",
+          "cardId": "20031206",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはオビト"
+        },
+        {
+          "speechCharactorId": "707",
+          "cardId": "20001830",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "波風ミナト"
+        },
+        {
+          "speechCharactorId": "708",
+          "cardId": "20030601",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うずまきナルト"
+        },
+        {
+          "speechCharactorId": "709",
+          "cardId": "20040517",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うずまきナルト"
+        },
+        {
+          "speechCharactorId": "710",
+          "cardId": "20031008",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うずまきナルト"
+        },
+        {
+          "speechCharactorId": "711",
+          "cardId": "20050317",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "日向ヒナタ"
+        },
+        {
           "speechCharactorId": "1000",
           "cardId": "21000091",
           "speechCharactorImgId": "1000",

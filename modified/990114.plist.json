@@ -2157,5 +2157,15 @@
           "subScore": "0",
           "color": "16772167",
           "type": "2"
+        },
+        {
+          "cardUnusualId": "220",
+          "category": "3",
+          "iconId": "1244",
+          "name": "祖ノ矛",
+          "description": "耐性無視を含む自身対象のスキル効果を無効化",
+          "subScore": "0",
+          "color": "14614842",
+          "type": "2"
         }
       ]

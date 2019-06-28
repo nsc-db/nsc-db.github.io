@@ -3345,6 +3345,20 @@
           "gender": "1"
         },
         {
+          "charaProfileId": "50904",
+          "charaId": "509",
+          "name": "うちはオビト",
+          "detail": null,
+          "charaLoveAffinityGroupId": "50910",
+          "birthday": "210",
+          "constellation": "11",
+          "height": "18200",
+          "weight": "7030",
+          "bloodType": "3",
+          "age": "31",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "51001",
           "charaId": "510",
           "name": "のはらリン",

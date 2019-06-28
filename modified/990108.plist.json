@@ -11751,6 +11751,19 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "920",
+          "name": "夢と絶望の果て",
+          "description": "無所属のスキルダメージ100%アップ、行動後にHPが20%回復",
+          "effectIdx1": "774",
+          "effectIdx2": "628",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "99",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "921",
           "name": "三禁破りの豪傑",
           "description": "木ノ葉隠れの里所属の各自が5回行動するまで、受ける全スキルを半減",
