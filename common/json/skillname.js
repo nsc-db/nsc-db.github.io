@@ -6224,6 +6224,14 @@ window.skillname=[
           "name": "やるぞ！！"
         },
         {
+          "cardBattleSkillNameId": "2766",
+          "name": "求道玉・三界死滅"
+        },
+        {
+          "cardBattleSkillNameId": "2767",
+          "name": "そうはさせん"
+        },
+        {
           "cardBattleSkillNameId": "2768",
           "name": "火遁・豪炎弾"
         },
@@ -6238,6 +6246,22 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "2771",
           "name": "あらよっと！"
+        },
+        {
+          "cardBattleSkillNameId": "2772",
+          "name": "八卦掌・挺身回天"
+        },
+        {
+          "cardBattleSkillNameId": "2773",
+          "name": "オレの父がそうだったように"
+        },
+        {
+          "cardBattleSkillNameId": "2782",
+          "name": "八卦空掌波"
+        },
+        {
+          "cardBattleSkillNameId": "2783",
+          "name": "心せよ！"
         },
         {
           "cardBattleSkillNameId": "10136",

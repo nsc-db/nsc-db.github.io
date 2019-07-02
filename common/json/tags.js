@@ -19024,5 +19024,68 @@ window.tags=[
           "negativestate": "",
           "godstate": ""
 
+},
+{
+          "cardId": "20050702",
+          "rare": "5",
+          "tag": "event",
+          "skill1damage": "",
+          "skill2damage": "",
+          "nickname": "Hiashi",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
+},
+{
+          "cardId": "20050703",
+          "rare": "5",
+          "tag": "kami-destroyer",
+          "skill1damage": "",
+          "skill2damage": "",
+          "nickname": "God Killler Obito",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
+},
+{
+          "cardId": "20050711",
+          "rare": "5",
+          "tag": "origin",
+          "skill1damage": "",
+          "skill2damage": "",
+          "nickname": "Origin Neji",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
 }
 ]

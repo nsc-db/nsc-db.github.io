@@ -19325,9 +19325,9 @@ window.ability=[
         {
           "abilityId": "2199",
           "abilityName": "操重の瞳",
-          "abilityDescription": "バトル開始時に先頭の味方にかばう状態を付与し、“暁”所属への単体スキル攻撃を受けさせる",
-          "abilityEffectDescription": "バトル開始時に先頭の味方にかばう状態を付与し、“暁”所属への単体スキル攻撃を受けさせる",
-          "effectIdx1": "2215",
+          "abilityDescription": "ﾊﾞﾄﾙ開始時,先頭の味方に長い間「反ｽｷﾙ状態かばう」付与,“暁”所属への単体ｽｷﾙを受けさせる※反ｽｷﾙは即死以外有効",
+          "abilityEffectDescription": "ﾊﾞﾄﾙ開始時,先頭の味方に長い間「反ｽｷﾙ状態かばう」付与,“暁”所属への単体ｽｷﾙを受けさせる※反ｽｷﾙは即死以外有効",
+          "effectIdx1": "2337",
           "effectIdx2": "0",
           "effectIdx3": "0"
         },
@@ -19899,6 +19899,24 @@ window.ability=[
           "effectIdx3": "2321"
         },
         {
+          "abilityId": "2265",
+          "abilityName": "希望を断つ力",
+          "abilityDescription": "キャンセル無効、敵に神忍祭限定キャラがいると、バトル開始時に祖ノ矛状態になる",
+          "abilityEffectDescription": "キャンセル無効、敵に神忍祭限定キャラがいると、バトル開始時に祖ノ矛状態になる",
+          "effectIdx1": "1751",
+          "effectIdx2": "2342",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2266",
+          "abilityName": "絶望の意志",
+          "abilityDescription": "最大ﾁｬｸﾗ量が100ｱｯﾌﾟ、敵に五大隠れ里所属がいると素早さ100%ｱｯﾌﾟ＆ｽｷﾙ発動速度1段階ｱｯﾌﾟ",
+          "abilityEffectDescription": "最大ﾁｬｸﾗ量が100ｱｯﾌﾟ、敵に五大隠れ里所属がいると素早さ100%ｱｯﾌﾟ＆ｽｷﾙ発動速度1段階ｱｯﾌﾟ",
+          "effectIdx1": "813",
+          "effectIdx2": "2340",
+          "effectIdx3": "2341"
+        },
+        {
           "abilityId": "2267",
           "abilityName": "掟破りの豪快",
           "abilityDescription": "最大HPを100%アップし、弱体と状態異常を半減する",
@@ -19932,6 +19950,42 @@ window.ability=[
           "abilityEffectDescription": "キャンセル無効、150％の確率でスキルを回避",
           "effectIdx1": "1751",
           "effectIdx2": "1880",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2271",
+          "abilityName": "天才の面目",
+          "abilityDescription": "2回行動するまで、耐性無視スキルのダメージを0&amp;素早さ200%アップ",
+          "abilityEffectDescription": "2回行動するまで、耐性無視スキルのダメージを0&amp;素早さ200%アップ",
+          "effectIdx1": "1838",
+          "effectIdx2": "1693",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2272",
+          "abilityName": "命懸けの守護者",
+          "abilityDescription": "HP80%以上のとき、受けるダメージを50%カット&amp;スキルダメージ150%アップ",
+          "abilityEffectDescription": "HP80%以上のとき、受けるダメージを50%カット&amp;スキルダメージ150%アップ",
+          "effectIdx1": "2335",
+          "effectIdx2": "31714",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2281",
+          "abilityName": "当主の矜持",
+          "abilityDescription": "班の木ノ葉隠れの里所属のキャラ1体（自身含む）につき、攻撃力と素早さを20%アップ",
+          "abilityEffectDescription": "班の木ノ葉隠れの里所属のキャラ1体（自身含む）につき、攻撃力と素早さを20%アップ",
+          "effectIdx1": "687",
+          "effectIdx2": "1106",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2282",
+          "abilityName": "柔拳の秘技",
+          "abilityDescription": "チャクラが70%以上の時に攻撃力100%アップ",
+          "abilityEffectDescription": "チャクラが70%以上の時に攻撃力100%アップ",
+          "effectIdx1": "1615",
+          "effectIdx2": "0",
           "effectIdx3": "0"
         },
         {
@@ -20797,6 +20851,51 @@ window.ability=[
           "effectIdx1": "31514",
           "effectIdx2": "2320",
           "effectIdx3": "2319"
+        },
+        {
+          "abilityId": "100052",
+          "abilityName": "一族を想う心",
+          "abilityDescription": "最大HPが80%アップし、最大チャクラ量が100アップ、バトル開始時チャクラ50%回復",
+          "abilityEffectDescription": "最大HPが80%アップし、最大チャクラ量が100アップ、バトル開始時チャクラ50%回復",
+          "effectIdx1": "649",
+          "effectIdx2": "20009",
+          "effectIdx3": "1115"
+        },
+        {
+          "abilityId": "100053",
+          "abilityName": "変わらぬ忍道",
+          "abilityDescription": "弱体と状態異常無効、HPが50％以上の時、攻撃力100％アップ&amp;スキル発動速度1段階アップ",
+          "abilityEffectDescription": "弱体と状態異常無効、HPが50％以上の時、攻撃力100％アップ&amp;スキル発動速度1段階アップ",
+          "effectIdx1": "880",
+          "effectIdx2": "1329",
+          "effectIdx3": "1781"
+        },
+        {
+          "abilityId": "100054",
+          "abilityName": "陰陽遁の忍術",
+          "abilityDescription": "10回行動するまで素早さとスキルダメージが100％アップし、スキル発動速度が1段階アップする",
+          "abilityEffectDescription": "10回行動するまで素早さとスキルダメージが100％アップし、スキル発動速度が1段階アップする",
+          "effectIdx1": "1064",
+          "effectIdx2": "30909",
+          "effectIdx3": "1594"
+        },
+        {
+          "abilityId": "100055",
+          "abilityName": "火影の意地",
+          "abilityDescription": "最大チャクラ量が100アップ、固有タイプのスキル無効、行動後にチャクラが40％回復する",
+          "abilityEffectDescription": "最大チャクラ量が100アップ、固有タイプのスキル無効、行動後にチャクラが40％回復する",
+          "effectIdx1": "813",
+          "effectIdx2": "77",
+          "effectIdx3": "1830"
+        },
+        {
+          "abilityId": "100056",
+          "abilityName": "無限の夢の始まり",
+          "abilityDescription": "最大HPが100％アップし、行動後にHPが15％回復、2回行動するまで全スキル無効",
+          "abilityEffectDescription": "最大HPが100％アップし、行動後にHPが15％回復、2回行動するまで全スキル無効",
+          "effectIdx1": "684",
+          "effectIdx2": "735",
+          "effectIdx3": "1914"
         },
         {
           "abilityId": "200001",

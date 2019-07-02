@@ -11752,6 +11752,19 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "920",
+          "name": "夢と絶望の果て",
+          "description": "無所属のスキルダメージ100%アップ、行動後にHPが20%回復",
+          "effectIdx1": "774",
+          "effectIdx2": "628",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "99",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "921",
           "name": "三禁破りの豪傑",
           "description": "木ノ葉隠れの里所属の各自が5回行動するまで、受ける全スキルを半減",
@@ -11774,6 +11787,32 @@ window.lead=[
           "compType": "1",
           "target1Category": "2",
           "target1Param": "8",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "923",
+          "name": "護鳳の守護者",
+          "description": "勇属性と知属性の最大HPを80％アップし、行動後にHPが15%回復",
+          "effectIdx1": "649",
+          "effectIdx2": "735",
+          "effectIdx3": "0",
+          "compType": "2",
+          "target1Category": "1",
+          "target1Param": "6",
+          "target2Category": "1",
+          "target2Param": "7"
+        },
+        {
+          "cardLeaderSkillId": "928",
+          "name": "十全たる拳眼の長",
+          "description": "木ノ葉隠れの里所属の最大HPと防御力を50%アップ",
+          "effectIdx1": "680",
+          "effectIdx2": "276",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
           "target2Category": "0",
           "target2Param": "0"
         },
