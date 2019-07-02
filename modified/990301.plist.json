@@ -19101,5 +19101,37 @@
           "crystalImageId": "207025",
           "recipeId": "20702",
           "recipeName": "全てを滅ぼす求道玉"
+        },
+        {
+          "crystalId": "20715",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "615",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "ネジのサンダル",
+          "crystalDescription": "全スキルダメージ30%アップ",
+          "crystalImageId": "207155",
+          "recipeId": "20715",
+          "recipeName": "ネジのサンダル"
+        },
+        {
+          "crystalId": "20716",
+          "crystalType": "3",
+          "crystalRare": "5",
+          "effectIdx1": "628",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "ネジのインナー",
+          "crystalDescription": "行動後にHPが20％回復",
+          "crystalImageId": "207165",
+          "recipeId": "20716",
+          "recipeName": "ネジのインナー"
         }
       ]

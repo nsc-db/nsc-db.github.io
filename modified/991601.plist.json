@@ -1026,6 +1026,19 @@
           "selectType": "1"
         },
         {
+          "itemId": "11080",
+          "name": "7月限定ラーメン(2019)",
+          "description": "スタミナを全回復するラーメン（7月31日まで期間限定）",
+          "resultWord": "0",
+          "itemCategoryId": "1",
+          "itemValue": "1000000",
+          "itemNum": "0",
+          "itemImageId": "11020",
+          "needCount": "1",
+          "priority": "1",
+          "selectType": "1"
+        },
+        {
           "itemId": "11081",
           "name": "期間限定ラーメン",
           "description": "スタミナを全回復するラーメン（7月16日まで期間限定）",

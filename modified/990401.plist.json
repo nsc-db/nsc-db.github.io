@@ -5729,6 +5729,21 @@
           "gachaTicketImgId": "408"
         },
         {
+          "gachaTicketId": "3725",
+          "gachaTicketName": "日向ネジ誕生記念ガチャチケット",
+          "gachaTicketImgId": "3725"
+        },
+        {
+          "gachaTicketId": "3726",
+          "gachaTicketName": "日向ネジ誕生記念・祭",
+          "gachaTicketImgId": "3725"
+        },
+        {
+          "gachaTicketId": "3727",
+          "gachaTicketName": "オビト/★6確定",
+          "gachaTicketImgId": "3727"
+        },
+        {
           "gachaTicketId": "3728",
           "gachaTicketName": "霧の怨鬼と氷花ガチャチケット",
           "gachaTicketImgId": "3728"
@@ -5747,6 +5762,11 @@
           "gachaTicketId": "3744",
           "gachaTicketName": "無所属忍具ガチャチケット",
           "gachaTicketImgId": "3744"
+        },
+        {
+          "gachaTicketId": "3745",
+          "gachaTicketName": "日向一族限定ガチャチケット",
+          "gachaTicketImgId": "3745"
         },
         {
           "gachaTicketId": "3747",

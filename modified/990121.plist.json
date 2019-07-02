@@ -7352,6 +7352,24 @@
           "category": "0"
         },
         {
+          "cardBehaveAffectId": "20050106",
+          "timing": "1",
+          "func": "20",
+          "params": "1,0",
+          "comp": "9",
+          "compParams": "10,7,46,39",
+          "category": "0"
+        },
+        {
+          "cardBehaveAffectId": "20050107",
+          "timing": "1",
+          "func": "20",
+          "params": "3,0",
+          "comp": "9",
+          "compParams": "10,7,46,39",
+          "category": "0"
+        },
+        {
           "cardBehaveAffectId": "20101000",
           "timing": "1",
           "func": "20",

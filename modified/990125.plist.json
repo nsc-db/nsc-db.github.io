@@ -161,6 +161,12 @@
           "cardIds": "0"
         },
         {
+          "cardCharaGroupId": "600003",
+          "name": "日向一族",
+          "charaProfileIds": "3910,1002,1001,704,703,702,701,4601,4602,",
+          "cardIds": "0"
+        },
+        {
           "cardCharaGroupId": "700000",
           "name": "琥珀の浄瓶",
           "charaProfileIds": "20301,104,110,50903,13704,14001,402,602,502,1202,111,",
