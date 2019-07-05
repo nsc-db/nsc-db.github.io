@@ -19875,7 +19875,7 @@
           "abilityName": "死者の落涙",
           "abilityDescription": "敵の超忍祭限定キャラからのダメージ75%カット、HP40％以下のとき素早さとスキルダメージ300％アップ",
           "abilityEffectDescription": "敵の超忍祭限定キャラからのダメージ75%カット、HP40％以下のとき素早さとスキルダメージ300％アップ",
-          "effectIdx1": "2313",
+          "effectIdx1": "2372",
           "effectIdx2": "2314",
           "effectIdx3": "32229"
         },
@@ -19967,6 +19967,42 @@
           "abilityEffectDescription": "HP80%以上のとき、受けるダメージを50%カット&amp;スキルダメージ150%アップ",
           "effectIdx1": "2335",
           "effectIdx2": "31714",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2275",
+          "abilityName": "自分への信頼",
+          "abilityDescription": "1回行動するまで全スキル無効、敵に滅キャラがいる場合、HP0以下で2回耐える",
+          "abilityEffectDescription": "1回行動するまで全スキル無効、敵に滅キャラがいる場合、HP0以下で2回耐える",
+          "effectIdx1": "1794",
+          "effectIdx2": "2349",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2276",
+          "abilityName": "受け入れる覚悟",
+          "abilityDescription": "味方の木ノ葉隠れの里所属に応じて素早さ50%アップ（自身含む）、HP50%以上で全スキルダメージ100%アップ",
+          "abilityEffectDescription": "味方の木ノ葉隠れの里所属に応じて素早さ50%アップ（自身含む）、HP50%以上で全スキルダメージ100%アップ",
+          "effectIdx1": "1333",
+          "effectIdx2": "1506",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2277",
+          "abilityName": "人々への憎しみ",
+          "abilityDescription": "2回行動するまで全スキル無効、敵に超忍祭限定キャラがいる場合、HP0以下で1回耐える&amp;素早さ100%アップ",
+          "abilityEffectDescription": "2回行動するまで全スキル無効、敵に超忍祭限定キャラがいる場合、HP0以下で1回耐える&amp;素早さ100%アップ",
+          "effectIdx1": "2343",
+          "effectIdx2": "2350",
+          "effectIdx3": "1953"
+        },
+        {
+          "abilityId": "2278",
+          "abilityName": "九尾のお気に入り",
+          "abilityDescription": "敵に木ノ葉隠れの里所属がいると素早さ100%アップ、HP50%以下で全スキルダメージ100%アップ",
+          "abilityEffectDescription": "敵に木ノ葉隠れの里所属がいると素早さ100%アップ、HP50%以下で全スキルダメージ100%アップ",
+          "effectIdx1": "1954",
+          "effectIdx2": "1758",
           "effectIdx3": "0"
         },
         {

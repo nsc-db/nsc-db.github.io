@@ -80454,6 +80454,531 @@
           "message": "（そうか……負けか……）"
         },
         {
+          "scriptMessageId": "28586",
+          "speechCharactorId": "5001",
+          "message": "おお！ナルトか！"
+        },
+        {
+          "scriptMessageId": "28587",
+          "speechCharactorId": "5001",
+          "message": "こんな所で会えるとは \r\n思わなかった！"
+        },
+        {
+          "scriptMessageId": "28588",
+          "speechCharactorId": "5001",
+          "message": "あ！そうだサインくれサイン！"
+        },
+        {
+          "scriptMessageId": "28589",
+          "speechCharactorId": "5001",
+          "message": "うちの子に書いてやって\r\nくんねーかな、お前のファンでよ"
+        },
+        {
+          "scriptMessageId": "28590",
+          "speechCharactorId": "337",
+          "message": "…サイン…？"
+        },
+        {
+          "scriptMessageId": "28591",
+          "speechCharactorId": "5001",
+          "message": "木ノ葉の英雄、奇跡を起こす少年\r\nうずまきナルト！\r\nうちの方にも一枚たのむ！"
+        },
+        {
+          "scriptMessageId": "28592",
+          "speechCharactorId": "337",
+          "message": "………"
+        },
+        {
+          "scriptMessageId": "28593",
+          "speechCharactorId": "5001",
+          "message": "…どした？ダメか？"
+        },
+        {
+          "scriptMessageId": "28594",
+          "speechCharactorId": "337",
+          "message": "いや…オレってばそういうのに\r\n慣れてねーからよ\r\nサインなんて持ってねーし…"
+        },
+        {
+          "scriptMessageId": "28595",
+          "speechCharactorId": "353",
+          "message": "（…最近じゃ奇跡の少年なんて\r\nもてはやされちゃいるが…）"
+        },
+        {
+          "scriptMessageId": "28596",
+          "speechCharactorId": "353",
+          "message": "（少し前までは\r\nまったく逆だったもんな…\r\n無理もねーよ）"
+        },
+        {
+          "scriptMessageId": "28597",
+          "speechCharactorId": "353",
+          "message": "お客さん\r\nサインの前にラーメン\r\n食わしてやってくんねーかな"
+        },
+        {
+          "scriptMessageId": "28598",
+          "speechCharactorId": "5001",
+          "message": "あ……ああ…"
+        },
+        {
+          "scriptMessageId": "28599",
+          "speechCharactorId": "337",
+          "message": "やっと食えるってばよ！"
+        },
+        {
+          "scriptMessageId": "28600",
+          "speechCharactorId": "251",
+          "message": "ここなのか？"
+        },
+        {
+          "scriptMessageId": "28601",
+          "speechCharactorId": "712",
+          "message": "ああ…ここは真実の滝と\r\n呼ばれてる場所だ"
+        },
+        {
+          "scriptMessageId": "28602",
+          "speechCharactorId": "712",
+          "message": "ここに座って目を閉じろナルト\r\nそうすればお前の真実が見える"
+        },
+        {
+          "scriptMessageId": "28603",
+          "speechCharactorId": "251",
+          "message": "ああ…"
+        },
+        {
+          "scriptMessageId": "28604",
+          "speechCharactorId": "394",
+          "message": "どうして一楽で\r\nサインを書かなかった？"
+        },
+        {
+          "scriptMessageId": "28605",
+          "speechCharactorId": "251",
+          "message": "何だ！？"
+        },
+        {
+          "scriptMessageId": "28606",
+          "speechCharactorId": "394",
+          "message": "あいつら…\r\n急に手の平返した様に\r\nお前になれなれしく\r\nしてきたもんなぁ…"
+        },
+        {
+          "scriptMessageId": "28607",
+          "speechCharactorId": "394",
+          "message": "うっとうしい奴らだったもんなぁ…"
+        },
+        {
+          "scriptMessageId": "28608",
+          "speechCharactorId": "394",
+          "message": "里の奴ら\r\n今までさんざんオレ達を \r\n除け者にしてきたくせによ"
+        },
+        {
+          "scriptMessageId": "28609",
+          "speechCharactorId": "251",
+          "message": "（オレそっくりじゃねーか…）"
+        },
+        {
+          "scriptMessageId": "28610",
+          "speechCharactorId": "251",
+          "message": "……誰だお前は！？"
+        },
+        {
+          "scriptMessageId": "28611",
+          "speechCharactorId": "394",
+          "message": "見りゃ分かんだろ\r\n………オレはお前だ"
+        },
+        {
+          "scriptMessageId": "28612",
+          "speechCharactorId": "394",
+          "message": "オレはお前自身\r\nお前の心の底にあるお前自身だ"
+        },
+        {
+          "scriptMessageId": "28613",
+          "speechCharactorId": "251",
+          "message": "…何言ってんだてめー！？\r\nオレはおめーなんか知らねーよ！\r\n勝手な事言ってんじゃねー！"
+        },
+        {
+          "scriptMessageId": "28614",
+          "speechCharactorId": "394",
+          "message": "…ここは真実の滝とか言ってたな\r\n……ここまでオレが表に\r\n出てこられるとはな…いい場所だ"
+        },
+        {
+          "scriptMessageId": "28615",
+          "speechCharactorId": "394",
+          "message": "……つまりオレはお前の真実だ\r\nオレが本当のお前だ"
+        },
+        {
+          "scriptMessageId": "28616",
+          "speechCharactorId": "251",
+          "message": "………本当のオレ…？"
+        },
+        {
+          "scriptMessageId": "28617",
+          "speechCharactorId": "394",
+          "message": "ああ…オレはお前の大切な憎しみだ\r\n闇の部分だ！"
+        },
+        {
+          "scriptMessageId": "28618",
+          "speechCharactorId": "394",
+          "message": "ただ一つ違うのは…"
+        },
+        {
+          "scriptMessageId": "28619",
+          "speechCharactorId": "394",
+          "message": "九尾の奴にやたらと \r\n気に入られてるって事ぐらいか"
+        },
+        {
+          "scriptMessageId": "28620",
+          "speechCharactorId": "251",
+          "message": "…………お前…"
+        },
+        {
+          "scriptMessageId": "28621",
+          "speechCharactorId": "251",
+          "message": "（今まで…こいつと九尾が…）"
+        },
+        {
+          "scriptMessageId": "28622",
+          "speechCharactorId": "394",
+          "message": "そういう事だ…\r\nオレはお前自身だ"
+        },
+        {
+          "scriptMessageId": "28623",
+          "speechCharactorId": "394",
+          "message": "オレを追い出せはしねーぜ\r\nニセモノ！"
+        },
+        {
+          "scriptMessageId": "28624",
+          "speechCharactorId": "251",
+          "message": "ニセモノはてめーの方だろ！！"
+        },
+        {
+          "scriptMessageId": "28625",
+          "speechCharactorId": "251",
+          "message": "（…まったく同じ力だ…\r\nやり合ってもキリがねェ…）"
+        },
+        {
+          "scriptMessageId": "28626",
+          "speechCharactorId": "394",
+          "message": "お前はオレを倒せねェ…絶対にな！"
+        },
+        {
+          "scriptMessageId": "28627",
+          "speechCharactorId": "251",
+          "message": "影分身の術！！！\r\nなら数で勝負だ！"
+        },
+        {
+          "scriptMessageId": "28628",
+          "speechCharactorId": "394",
+          "message": "影分身の術！！"
+        },
+        {
+          "scriptMessageId": "28629",
+          "speechCharactorId": "251",
+          "message": "なんだよそうなんのかよ！！\r\n影分身の数まで\r\n同じじゃねーだろーな！！？"
+        },
+        {
+          "scriptMessageId": "28630",
+          "speechCharactorId": "394",
+          "message": "よく分かってんじゃねーかよ！"
+        },
+        {
+          "scriptMessageId": "28631",
+          "speechCharactorId": "713",
+          "message": "何がどうなってるんです？"
+        },
+        {
+          "scriptMessageId": "28632",
+          "speechCharactorId": "712",
+          "message": "滝の前へ座ると集中し\r\n己の精神世界へと入る事ができる"
+        },
+        {
+          "scriptMessageId": "28633",
+          "speechCharactorId": "712",
+          "message": "そしてこの滝は己の本当の姿を\r\n映す鏡となる…不思議な場所だ"
+        },
+        {
+          "scriptMessageId": "28634",
+          "speechCharactorId": "712",
+          "message": "…今、ナルトは\r\nもう一人の自分と戦ってる"
+        },
+        {
+          "scriptMessageId": "28635",
+          "speechCharactorId": "251",
+          "message": "カハッ！！\r\nハァ…ハァ…"
+        },
+        {
+          "scriptMessageId": "28636",
+          "speechCharactorId": "713",
+          "message": "ナルト大丈夫か！？\r\n何があった！？"
+        },
+        {
+          "scriptMessageId": "28637",
+          "speechCharactorId": "251",
+          "message": "オレと…同じ奴が出てきた…！"
+        },
+        {
+          "scriptMessageId": "28638",
+          "speechCharactorId": "251",
+          "message": "そいつは……\r\n……闇の部分のオレだった"
+        },
+        {
+          "scriptMessageId": "28639",
+          "speechCharactorId": "0",
+          "message": "ホラあの子よ…"
+        },
+        {
+          "scriptMessageId": "28640",
+          "speechCharactorId": "0",
+          "message": "いいか近づくんじゃないぞ！"
+        },
+        {
+          "scriptMessageId": "28641",
+          "speechCharactorId": "0",
+          "message": "あっち行け！"
+        },
+        {
+          "scriptMessageId": "28642",
+          "speechCharactorId": "251",
+          "message": "………"
+        },
+        {
+          "scriptMessageId": "28643",
+          "speechCharactorId": "0",
+          "message": "信じてたぞ！"
+        },
+        {
+          "scriptMessageId": "28644",
+          "speechCharactorId": "0",
+          "message": "お前は英雄だ\r\nナルト！"
+        },
+        {
+          "scriptMessageId": "28645",
+          "speechCharactorId": "0",
+          "message": "ありがとう！"
+        },
+        {
+          "scriptMessageId": "28646",
+          "speechCharactorId": "251",
+          "message": "タコのオッサンはあんなに\r\n信頼されるようになった…"
+        },
+        {
+          "scriptMessageId": "28647",
+          "speechCharactorId": "251",
+          "message": "我愛羅も風影になって\r\n里の皆のためにがんばって \r\n認められるようになった…"
+        },
+        {
+          "scriptMessageId": "28648",
+          "speechCharactorId": "251",
+          "message": "（オレだってイルカ先生や\r\n同期の皆…それに……）"
+        },
+        {
+          "scriptMessageId": "28649",
+          "speechCharactorId": "251",
+          "message": "（里の奴ら\r\n今までさんざんオレ達を\r\n除け者にしてきたくせによ）"
+        },
+        {
+          "scriptMessageId": "28650",
+          "speechCharactorId": "251",
+          "message": "（オレはお前自身 \r\nお前の心の底にあるお前自身だ）"
+        },
+        {
+          "scriptMessageId": "28651",
+          "speechCharactorId": "251",
+          "message": "（オレ自身そんな事\r\n思ってもみなかった…\r\nでも心のどこかでまだ…）"
+        },
+        {
+          "scriptMessageId": "28652",
+          "speechCharactorId": "251",
+          "message": "確かに…里の皆に信じて\r\nもらえてるなんて自信がねーよ"
+        },
+        {
+          "scriptMessageId": "28653",
+          "speechCharactorId": "712",
+          "message": "うわ――！"
+        },
+        {
+          "scriptMessageId": "28654",
+          "speechCharactorId": "251",
+          "message": "モトイのおっちゃん！？"
+        },
+        {
+          "scriptMessageId": "28655",
+          "speechCharactorId": "714",
+          "message": "九尾のガキ\r\nモトイを助けようと\r\nしてくれてサンキュー！"
+        },
+        {
+          "scriptMessageId": "28656",
+          "speechCharactorId": "251",
+          "message": "オウ！"
+        },
+        {
+          "scriptMessageId": "28657",
+          "speechCharactorId": "712",
+          "message": "…ナルトは不思議と\r\n人を引き付ける何かがある…\r\nそれはビーさんと同じだな"
+        },
+        {
+          "scriptMessageId": "28658",
+          "speechCharactorId": "251",
+          "message": "（タコのオッサン…モトイの\r\nおっちゃんに信頼されてるし）"
+        },
+        {
+          "scriptMessageId": "28659",
+          "speechCharactorId": "251",
+          "message": "（タコのオッサンもモトイの\r\nおっちゃんを信頼してる…）"
+        },
+        {
+          "scriptMessageId": "28660",
+          "speechCharactorId": "251",
+          "message": "（よし！決めた！）"
+        },
+        {
+          "scriptMessageId": "28661",
+          "speechCharactorId": "714",
+          "message": "真実の滝へ行け…\r\n今のお前ならイケイケだ！"
+        },
+        {
+          "scriptMessageId": "28662",
+          "speechCharactorId": "394",
+          "message": "懲りずにまた来たか\r\n何度やっても同じだ\r\nお前にオレは倒せねェ……"
+        },
+        {
+          "scriptMessageId": "28663",
+          "speechCharactorId": "394",
+          "message": "オレを追い出そうとしても無駄だ…\r\nお前の事はオレが一番分かってる"
+        },
+        {
+          "scriptMessageId": "28664",
+          "speechCharactorId": "251",
+          "message": "なら…もうお前だって\r\n分かってるだろ？"
+        },
+        {
+          "scriptMessageId": "28665",
+          "speechCharactorId": "251",
+          "message": "さっき決めた事をさ…"
+        },
+        {
+          "scriptMessageId": "28666",
+          "speechCharactorId": "394",
+          "message": "………知るか…そんなもん！"
+        },
+        {
+          "scriptMessageId": "28667",
+          "speechCharactorId": "251",
+          "message": "しらばっくれんなよ…\r\nまあいいや…この場所は自分の心の\r\n真実を写す場所だから…"
+        },
+        {
+          "scriptMessageId": "28668",
+          "speechCharactorId": "251",
+          "message": "イメージを集中して…\r\n直接お前に見せてやるよ！"
+        },
+        {
+          "scriptMessageId": "28669",
+          "speechCharactorId": "251",
+          "message": "これがオレのサインだ！！"
+        },
+        {
+          "scriptMessageId": "28670",
+          "speechCharactorId": "394",
+          "message": "……きさま…"
+        },
+        {
+          "scriptMessageId": "28671",
+          "speechCharactorId": "251",
+          "message": "あの時…一楽でたのまれて\r\n結局書かなかったサインだ"
+        },
+        {
+          "scriptMessageId": "28672",
+          "speechCharactorId": "394",
+          "message": "…そんなもの\r\n作ったからといって何だ…！？\r\nくだらねェ！！"
+        },
+        {
+          "scriptMessageId": "28673",
+          "speechCharactorId": "394",
+          "message": "…お前を分かってやれんのは\r\nオレだけなんだぞ！\r\n里の奴らなんか信じるな！！"
+        },
+        {
+          "scriptMessageId": "28674",
+          "speechCharactorId": "251",
+          "message": "ああ…里の人達も大事だけど\r\n他に信じなきゃならないもんが先にある"
+        },
+        {
+          "scriptMessageId": "28675",
+          "speechCharactorId": "251",
+          "message": "自分を信じてみようと思うんだ\r\n里の皆に信頼されてる自分ってのをよ"
+        },
+        {
+          "scriptMessageId": "28676",
+          "speechCharactorId": "394",
+          "message": "うっ…どうしてだ…\r\nあんなに……\r\n…あんなに苦しまされてたのに…"
+        },
+        {
+          "scriptMessageId": "28677",
+          "speechCharactorId": "251",
+          "message": "タコのオッサンに気付かされた\r\n自分ってのを全く疑ってもねェ…\r\nすねてもねェ"
+        },
+        {
+          "scriptMessageId": "28678",
+          "speechCharactorId": "251",
+          "message": "自分に誇りを持ってる！"
+        },
+        {
+          "scriptMessageId": "28679",
+          "speechCharactorId": "394",
+          "message": "お前は…オレが邪魔なのか！？\r\nなら…オレはいったい…\r\n何だったんだ！？"
+        },
+        {
+          "scriptMessageId": "28680",
+          "speechCharactorId": "251",
+          "message": "お前がいたからオレは強くなれた…\r\nおかげでここまで来れたのかも…"
+        },
+        {
+          "scriptMessageId": "28681",
+          "speechCharactorId": "394",
+          "message": "なら！\r\nオレは…オレはどうすりゃいい！？"
+        },
+        {
+          "scriptMessageId": "28682",
+          "speechCharactorId": "251",
+          "message": "ンなもん簡単だろ"
+        },
+        {
+          "scriptMessageId": "28683",
+          "speechCharactorId": "251",
+          "message": "お前はオレになりゃいい…！\r\nお前もオレなんだから"
+        },
+        {
+          "scriptMessageId": "28684",
+          "speechCharactorId": "251",
+          "message": "…今までありがとなぁ…\r\nもういいんだ"
+        },
+        {
+          "scriptMessageId": "28685",
+          "speechCharactorId": "251",
+          "message": "へへ…！"
+        },
+        {
+          "scriptMessageId": "28686",
+          "speechCharactorId": "713",
+          "message": "うまくいったんだね！"
+        },
+        {
+          "scriptMessageId": "28687",
+          "speechCharactorId": "714",
+          "message": "喜ぶのはまだ早いぜ\r\nバカヤロー！コノヤロー！"
+        },
+        {
+          "scriptMessageId": "28688",
+          "speechCharactorId": "714",
+          "message": "これから九尾の力の\r\nコントロールをやってみるか！"
+        },
+        {
+          "scriptMessageId": "28689",
+          "speechCharactorId": "714",
+          "message": "今からオレが…お前の師匠♪\r\n覚悟を決めろ\r\nでないと死傷♪"
+        },
+        {
+          "scriptMessageId": "28690",
+          "speechCharactorId": "251",
+          "message": "よっしゃ――！！"
+        },
+        {
           "scriptMessageId": "40001",
           "speechCharactorId": "178",
           "message": "絶望しかないこの世界に\r\n存在する価値はない"

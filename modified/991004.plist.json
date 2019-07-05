@@ -4229,6 +4229,24 @@
           "speechCharactorName": "日向ヒナタ"
         },
         {
+          "speechCharactorId": "712",
+          "cardId": "50000005",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "モトイ"
+        },
+        {
+          "speechCharactorId": "713",
+          "cardId": "20001772",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "ヤマト"
+        },
+        {
+          "speechCharactorId": "714",
+          "cardId": "20040118",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "キラービー"
+        },
+        {
           "speechCharactorId": "1000",
           "cardId": "21000091",
           "speechCharactorImgId": "1000",

@@ -10521,5 +10521,17 @@
           "effectIdx2": "968",
           "effectIdx3": "880",
           "effectIdx4": "1642"
+        },
+        {
+          "crystalOverwriteEffectId": "894",
+          "targetCrystal": "20723",
+          "description": "1回行動するまでチャクラ消費0、行動後にチャクラ30%回復、確率でスキル回避",
+          "charaIds": "101,102,104,105,106,107,109,110,111,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1378",
+          "effectIdx2": "820",
+          "effectIdx3": "1423",
+          "effectIdx4": "0"
         }
       ]

@@ -11803,6 +11803,32 @@
           "target2Param": "7"
         },
         {
+          "cardLeaderSkillId": "925",
+          "name": "信念の旋弾",
+          "description": "全属性の最大HPと防御力を80％アップ",
+          "effectIdx1": "649",
+          "effectIdx2": "12079",
+          "effectIdx3": "0",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "926",
+          "name": "憎念の旋撃",
+          "description": "全属性の攻撃力と素早さを80％アップ",
+          "effectIdx1": "13079",
+          "effectIdx2": "11079",
+          "effectIdx3": "0",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "928",
           "name": "十全たる拳眼の長",
           "description": "木ノ葉隠れの里所属の最大HPと防御力を50%アップ",
