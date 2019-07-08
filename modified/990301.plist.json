@@ -19103,6 +19103,38 @@
           "recipeName": "全てを滅ぼす求道玉"
         },
         {
+          "crystalId": "20709",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "1509",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "九尾の人柱力の力",
+          "crystalDescription": "3回行動するまでチャクラ消費量20%減少",
+          "crystalImageId": "207095",
+          "recipeId": "20709",
+          "recipeName": "九尾の人柱力の力"
+        },
+        {
+          "crystalId": "20710",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "20500",
+          "effectIdx2": "13019",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "クシナのサンダル",
+          "crystalDescription": "全スキル軽減、素早さ20%アップ",
+          "crystalImageId": "207105",
+          "recipeId": "20710",
+          "recipeName": "クシナのサンダル"
+        },
+        {
           "crystalId": "20715",
           "crystalType": "11",
           "crystalRare": "5",

@@ -19970,6 +19970,24 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2273",
+          "abilityName": "火影の妻の覚悟",
+          "abilityDescription": "最大HP120%ｱｯﾌﾟ、2回行動するまで木ノ葉隠れの里所属への単体ｽｷﾙ攻撃をかばう　※かばうは最後の発動者が有効",
+          "abilityEffectDescription": "最大HP120%ｱｯﾌﾟ、2回行動するまで木ノ葉隠れの里所属への単体ｽｷﾙ攻撃をかばう　※かばうは最後の発動者が有効",
+          "effectIdx1": "1221",
+          "effectIdx2": "2344",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2274",
+          "abilityName": "九尾を宿す母",
+          "abilityDescription": "敵の滅キャラから受けるダメージを75%カット、2回行動するまで耐性無視スキルのダメージを0＆全スキル無効",
+          "abilityEffectDescription": "敵の滅キャラから受けるダメージを75%カット、2回行動するまで耐性無視スキルのダメージを0＆全スキル無効",
+          "effectIdx1": "2321",
+          "effectIdx2": "1838",
+          "effectIdx3": "2343"
+        },
+        {
           "abilityId": "2275",
           "abilityName": "自分への信頼",
           "abilityDescription": "1回行動するまで全スキル無効、敵に滅キャラがいる場合、HP0以下で2回耐える",

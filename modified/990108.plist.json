@@ -11803,6 +11803,19 @@
           "target2Param": "7"
         },
         {
+          "cardLeaderSkillId": "924",
+          "name": "宿命を背負う愛",
+          "description": "木ノ葉隠れの里所属の最大HPと防御力を100%アップする",
+          "effectIdx1": "684",
+          "effectIdx2": "12099",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "925",
           "name": "信念の旋弾",
           "description": "全属性の最大HPと防御力を80％アップ",

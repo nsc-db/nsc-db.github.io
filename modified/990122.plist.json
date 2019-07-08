@@ -2531,6 +2531,18 @@
           "voiceDeath": "tobi_death_02_02"
         },
         {
+          "cardVoiceId": "214",
+          "cardId": "20050708",
+          "dirName": "kushina",
+          "evolutionStep": "",
+          "voiceAppear": "kushina_battle_02_01",
+          "voiceSkill1": "kushina_skill_02_08",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "kushina_win_02_03",
+          "voiceDeath": "kushina_death_02_01"
+        },
+        {
           "cardVoiceId": "215",
           "cardId": "20050716",
           "dirName": "naruto",

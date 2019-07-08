@@ -10523,6 +10523,30 @@
           "effectIdx4": "1642"
         },
         {
+          "crystalOverwriteEffectId": "891",
+          "targetCrystal": "20709",
+          "description": "最大HPが100%アップ、行動後にチャクラ30%回復、5回行動するまでチャクラ消費量半減",
+          "charaIds": "4301,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "684",
+          "effectIdx2": "820",
+          "effectIdx3": "1043",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "892",
+          "targetCrystal": "20710",
+          "description": "全スキル半減、素早さ60%アップ、バトル開始時にチャクラ50%回復",
+          "charaIds": "4301,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "20501",
+          "effectIdx2": "13059",
+          "effectIdx3": "1115",
+          "effectIdx4": "0"
+        },
+        {
           "crystalOverwriteEffectId": "894",
           "targetCrystal": "20723",
           "description": "1回行動するまでチャクラ消費0、行動後にチャクラ30%回復、確率でスキル回避",
