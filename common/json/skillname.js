@@ -6256,12 +6256,60 @@ window.skillname=[
           "name": "オレの父がそうだったように"
         },
         {
+          "cardBattleSkillNameId": "2774",
+          "name": "金剛封鎖・滅凶"
+        },
+        {
+          "cardBattleSkillNameId": "2775",
+          "name": "今まで…色々ありがとう"
+        },
+        {
+          "cardBattleSkillNameId": "2776",
+          "name": "螺旋丸・信念"
+        },
+        {
+          "cardBattleSkillNameId": "2777",
+          "name": "これがオレのサインだ！！"
+        },
+        {
+          "cardBattleSkillNameId": "2778",
+          "name": "螺旋丸・憎念"
+        },
+        {
+          "cardBattleSkillNameId": "2779",
+          "name": "オレはお前自身だ"
+        },
+        {
+          "cardBattleSkillNameId": "2780",
+          "name": "擦足・影首縛り"
+        },
+        {
+          "cardBattleSkillNameId": "2781",
+          "name": "ゆっくりさせてくれ…"
+        },
+        {
           "cardBattleSkillNameId": "2782",
           "name": "八卦空掌波"
         },
         {
           "cardBattleSkillNameId": "2783",
           "name": "心せよ！"
+        },
+        {
+          "cardBattleSkillNameId": "2784",
+          "name": "魔球・斬り斬り舞"
+        },
+        {
+          "cardBattleSkillNameId": "2785",
+          "name": "男のクセしやがって"
+        },
+        {
+          "cardBattleSkillNameId": "2786",
+          "name": "夏だ！水着だ！愛の罵倒だ！"
+        },
+        {
+          "cardBattleSkillNameId": "2787",
+          "name": "…このゲスチンヤロー"
         },
         {
           "cardBattleSkillNameId": "10136",

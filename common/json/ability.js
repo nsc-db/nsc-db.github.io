@@ -19876,7 +19876,7 @@ window.ability=[
           "abilityName": "死者の落涙",
           "abilityDescription": "敵の超忍祭限定キャラからのダメージ75%カット、HP40％以下のとき素早さとスキルダメージ300％アップ",
           "abilityEffectDescription": "敵の超忍祭限定キャラからのダメージ75%カット、HP40％以下のとき素早さとスキルダメージ300％アップ",
-          "effectIdx1": "2313",
+          "effectIdx1": "2372",
           "effectIdx2": "2314",
           "effectIdx3": "32229"
         },
@@ -19971,6 +19971,78 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2273",
+          "abilityName": "火影の妻の覚悟",
+          "abilityDescription": "最大HP120%ｱｯﾌﾟ、2回行動するまで木ノ葉隠れの里所属への単体ｽｷﾙ攻撃をかばう　※かばうは最後の発動者が有効",
+          "abilityEffectDescription": "最大HP120%ｱｯﾌﾟ、2回行動するまで木ノ葉隠れの里所属への単体ｽｷﾙ攻撃をかばう　※かばうは最後の発動者が有効",
+          "effectIdx1": "1221",
+          "effectIdx2": "2344",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2274",
+          "abilityName": "九尾を宿す母",
+          "abilityDescription": "敵の滅キャラから受けるダメージを75%カット、2回行動するまで耐性無視スキルのダメージを0＆全スキル無効",
+          "abilityEffectDescription": "敵の滅キャラから受けるダメージを75%カット、2回行動するまで耐性無視スキルのダメージを0＆全スキル無効",
+          "effectIdx1": "2321",
+          "effectIdx2": "1838",
+          "effectIdx3": "2343"
+        },
+        {
+          "abilityId": "2275",
+          "abilityName": "自分への信頼",
+          "abilityDescription": "1回行動するまで全スキル無効、敵に滅キャラがいる場合、HP0以下で2回耐える",
+          "abilityEffectDescription": "1回行動するまで全スキル無効、敵に滅キャラがいる場合、HP0以下で2回耐える",
+          "effectIdx1": "1794",
+          "effectIdx2": "2349",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2276",
+          "abilityName": "受け入れる覚悟",
+          "abilityDescription": "味方の木ノ葉隠れの里所属に応じて素早さ50%アップ（自身含む）、HP50%以上で全スキルダメージ100%アップ",
+          "abilityEffectDescription": "味方の木ノ葉隠れの里所属に応じて素早さ50%アップ（自身含む）、HP50%以上で全スキルダメージ100%アップ",
+          "effectIdx1": "1333",
+          "effectIdx2": "1506",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2277",
+          "abilityName": "人々への憎しみ",
+          "abilityDescription": "2回行動するまで全スキル無効、敵に超忍祭限定キャラがいる場合、HP0以下で1回耐える&amp;素早さ100%アップ",
+          "abilityEffectDescription": "2回行動するまで全スキル無効、敵に超忍祭限定キャラがいる場合、HP0以下で1回耐える&amp;素早さ100%アップ",
+          "effectIdx1": "2343",
+          "effectIdx2": "2350",
+          "effectIdx3": "1953"
+        },
+        {
+          "abilityId": "2278",
+          "abilityName": "九尾のお気に入り",
+          "abilityDescription": "敵に木ノ葉隠れの里所属がいると素早さ100%アップ、HP50%以下で全スキルダメージ100%アップ",
+          "abilityEffectDescription": "敵に木ノ葉隠れの里所属がいると素早さ100%アップ、HP50%以下で全スキルダメージ100%アップ",
+          "effectIdx1": "1954",
+          "effectIdx2": "1758",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2279",
+          "abilityName": "戦略的な思考力",
+          "abilityDescription": "5回行動するまで全スキルダメージ80%アップ、6回行動以降素早さ120%アップ",
+          "abilityEffectDescription": "5回行動するまで全スキルダメージ80%アップ、6回行動以降素早さ120%アップ",
+          "effectIdx1": "2348",
+          "effectIdx2": "30407",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2280",
+          "abilityName": "影作りの奇想",
+          "abilityDescription": "3回行動後に次回行動時まで攻撃力・防御力・素早さが80%アップ、5回行動後にチャクラ100%回復",
+          "abilityEffectDescription": "3回行動後に次回行動時まで攻撃力・防御力・素早さが80%アップ、5回行動後にチャクラ100%回復",
+          "effectIdx1": "2347",
+          "effectIdx2": "2353",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "2281",
           "abilityName": "当主の矜持",
           "abilityDescription": "班の木ノ葉隠れの里所属のキャラ1体（自身含む）につき、攻撃力と素早さを20%アップ",
@@ -19986,6 +20058,42 @@ window.ability=[
           "abilityEffectDescription": "チャクラが70%以上の時に攻撃力100%アップ",
           "effectIdx1": "1615",
           "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2283",
+          "abilityName": "砂隠れの夏美装",
+          "abilityDescription": "班の砂隠れの里所属のキャラ1体につきHPと防御力を25%アップ（自身含む）",
+          "abilityEffectDescription": "班の砂隠れの里所属のキャラ1体につきHPと防御力を25%アップ（自身含む）",
+          "effectIdx1": "2357",
+          "effectIdx2": "2366",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2284",
+          "abilityName": "風遁レシーブ",
+          "abilityDescription": "自身の素早さとスキルダメージを100%アップ、HPが50%以下の時にさらにスキルダメージを100%アップ",
+          "abilityEffectDescription": "自身の素早さとスキルダメージを100%アップ、HPが50%以下の時にさらにスキルダメージを100%アップ",
+          "effectIdx1": "253",
+          "effectIdx2": "774",
+          "effectIdx3": "1758"
+        },
+        {
+          "abilityId": "2285",
+          "abilityName": "波間の毒舌",
+          "abilityDescription": "最大HPと素早さが100%アップする",
+          "abilityEffectDescription": "最大HPと素早さが100%アップする",
+          "effectIdx1": "684",
+          "effectIdx2": "13099",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2286",
+          "abilityName": "夏の魔奏",
+          "abilityDescription": "弱体と状態異常を無効化し、行動後にチャクラが20％回復する",
+          "abilityEffectDescription": "弱体と状態異常を無効化し、行動後にチャクラが20％回復する",
+          "effectIdx1": "880",
+          "effectIdx2": "1768",
           "effectIdx3": "0"
         },
         {
