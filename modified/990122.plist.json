@@ -2555,6 +2555,18 @@
           "voiceDeath": "naruto_death_02_07"
         },
         {
+          "cardVoiceId": "217",
+          "cardId": "20050704",
+          "dirName": "temari",
+          "evolutionStep": "",
+          "voiceAppear": "temari_battle_02_03",
+          "voiceSkill1": "temari_skill_02_05,temari_skill_02_06",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "temari_win_02_02",
+          "voiceDeath": "temari_death_02_05"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

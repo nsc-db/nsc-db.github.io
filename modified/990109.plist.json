@@ -20024,6 +20024,24 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2279",
+          "abilityName": "戦略的な思考力",
+          "abilityDescription": "5回行動するまで全スキルダメージ80%アップ、6回行動以降素早さ120%アップ",
+          "abilityEffectDescription": "5回行動するまで全スキルダメージ80%アップ、6回行動以降素早さ120%アップ",
+          "effectIdx1": "2348",
+          "effectIdx2": "30407",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2280",
+          "abilityName": "影作りの奇想",
+          "abilityDescription": "3回行動後に次回行動時まで攻撃力・防御力・素早さが80%アップ、5回行動後にチャクラ100%回復",
+          "abilityEffectDescription": "3回行動後に次回行動時まで攻撃力・防御力・素早さが80%アップ、5回行動後にチャクラ100%回復",
+          "effectIdx1": "2347",
+          "effectIdx2": "2353",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "2281",
           "abilityName": "当主の矜持",
           "abilityDescription": "班の木ノ葉隠れの里所属のキャラ1体（自身含む）につき、攻撃力と素早さを20%アップ",
@@ -20039,6 +20057,42 @@
           "abilityEffectDescription": "チャクラが70%以上の時に攻撃力100%アップ",
           "effectIdx1": "1615",
           "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2283",
+          "abilityName": "砂隠れの夏美装",
+          "abilityDescription": "班の砂隠れの里所属のキャラ1体につきHPと防御力を25%アップ（自身含む）",
+          "abilityEffectDescription": "班の砂隠れの里所属のキャラ1体につきHPと防御力を25%アップ（自身含む）",
+          "effectIdx1": "2357",
+          "effectIdx2": "2366",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2284",
+          "abilityName": "風遁レシーブ",
+          "abilityDescription": "自身の素早さとスキルダメージを100%アップ、HPが50%以下の時にさらにスキルダメージを100%アップ",
+          "abilityEffectDescription": "自身の素早さとスキルダメージを100%アップ、HPが50%以下の時にさらにスキルダメージを100%アップ",
+          "effectIdx1": "253",
+          "effectIdx2": "774",
+          "effectIdx3": "1758"
+        },
+        {
+          "abilityId": "2285",
+          "abilityName": "波間の毒舌",
+          "abilityDescription": "最大HPと素早さが100%アップする",
+          "abilityEffectDescription": "最大HPと素早さが100%アップする",
+          "effectIdx1": "684",
+          "effectIdx2": "13099",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2286",
+          "abilityName": "夏の魔奏",
+          "abilityDescription": "弱体と状態異常を無効化し、行動後にチャクラが20％回復する",
+          "abilityEffectDescription": "弱体と状態異常を無効化し、行動後にチャクラが20％回復する",
+          "effectIdx1": "880",
+          "effectIdx2": "1768",
           "effectIdx3": "0"
         },
         {

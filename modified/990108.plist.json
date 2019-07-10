@@ -11842,6 +11842,19 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "927",
+          "name": "天才忍者の夏の悪夢",
+          "description": "体属性のキャラが3回行動以降素早さが60%アップする",
+          "effectIdx1": "1299",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "3",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "928",
           "name": "十全たる拳眼の長",
           "description": "木ノ葉隠れの里所属の最大HPと防御力を50%アップ",
@@ -11851,6 +11864,32 @@
           "compType": "1",
           "target1Category": "2",
           "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "929",
+          "name": "砂媛のビーチアタック",
+          "description": "木ノ葉隠れの里または砂隠れの里所属のスキルダメージを100%アップする。",
+          "effectIdx1": "774",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "2",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "2",
+          "target2Param": "2"
+        },
+        {
+          "cardLeaderSkillId": "930",
+          "name": "舌勢の美奏女",
+          "description": "音隠れの里所属のHPと攻撃力と防御力と素早さを50％アップし、スキル発動速度が2段階アップする。",
+          "effectIdx1": "10049",
+          "effectIdx2": "2373",
+          "effectIdx3": "1549",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "4",
           "target2Category": "0",
           "target2Param": "0"
         },

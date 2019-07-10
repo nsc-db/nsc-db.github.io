@@ -480,6 +480,19 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
+          "worldStageId": "1262",
+          "worldAreaId": "5",
+          "priority": "1",
+          "name": "ドキッ！夏色はじけるビーチコンテスト",
+          "description": "ビーチフラッグを集めて、夏モチーフの忍具や\r\nマイペ配置物を交換しよう！",
+          "notice": "※イベントの内容及び日程は告知なく変更となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
           "worldStageId": "4095",
           "worldAreaId": "5",
           "priority": "1",
