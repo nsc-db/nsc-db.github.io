@@ -2167,5 +2167,15 @@
           "subScore": "0",
           "color": "14614842",
           "type": "2"
+        },
+        {
+          "cardUnusualId": "221",
+          "category": "4",
+          "iconId": "1245",
+          "name": "神愛",
+          "description": "行動ごとに攻防速アップ、被攻撃時にHP回復、マダラ・サスケからのスキルダメージカット",
+          "subScore": "0",
+          "color": "16316664",
+          "type": "2"
         }
       ]

@@ -4187,6 +4187,24 @@
           "speechCharactorName": "白"
         },
         {
+          "speechCharactorId": "702",
+          "cardId": "702",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "大筒木インドラ"
+        },
+        {
+          "speechCharactorId": "703",
+          "cardId": "703",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "大筒木アシュラ"
+        },
+        {
+          "speechCharactorId": "704",
+          "cardId": "704",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "謎の人物"
+        },
+        {
           "speechCharactorId": "705",
           "cardId": "705",
           "speechCharactorImgId": "0",
@@ -4245,6 +4263,36 @@
           "cardId": "20040118",
           "speechCharactorImgId": "0",
           "speechCharactorName": "キラービー"
+        },
+        {
+          "speechCharactorId": "715",
+          "cardId": "50000013",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "フタミ"
+        },
+        {
+          "speechCharactorId": "716",
+          "cardId": "20031017",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "大筒木インドラ"
+        },
+        {
+          "speechCharactorId": "717",
+          "cardId": "20040313",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "大筒木アシュラ"
+        },
+        {
+          "speechCharactorId": "718",
+          "cardId": "50000013",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "カンナ"
+        },
+        {
+          "speechCharactorId": "719",
+          "cardId": "20040808",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "大筒木ハゴロモ"
         },
         {
           "speechCharactorId": "1000",

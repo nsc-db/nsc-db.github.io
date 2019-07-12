@@ -80979,6 +80979,506 @@
           "message": "よっしゃ――！！"
         },
         {
+          "scriptMessageId": "28691",
+          "speechCharactorId": "703",
+          "message": "何をやったの？\r\n兄さん"
+        },
+        {
+          "scriptMessageId": "28692",
+          "speechCharactorId": "702",
+          "message": "チャクラを練り、力を発動させるためには、\r\n手を結ぶ型が関係していることに気付いたんだ"
+        },
+        {
+          "scriptMessageId": "28693",
+          "speechCharactorId": "702",
+          "message": "型の組み合わせ次第では、いろんな力が使えるようになると思う\r\n手の型を印、発動する現象を術って名付けてみた"
+        },
+        {
+          "scriptMessageId": "28694",
+          "speechCharactorId": "703",
+          "message": "印と術…すごい！\r\nすごいよ兄さん！"
+        },
+        {
+          "scriptMessageId": "28695",
+          "speechCharactorId": "703",
+          "message": "うわ！"
+        },
+        {
+          "scriptMessageId": "28696",
+          "speechCharactorId": "702",
+          "message": "アシュラ\r\n大丈夫か？"
+        },
+        {
+          "scriptMessageId": "28697",
+          "speechCharactorId": "703",
+          "message": "大丈夫だよ\r\n兄さん"
+        },
+        {
+          "scriptMessageId": "28698",
+          "speechCharactorId": "702",
+          "message": "チャクラを扱うときは細心の注意を払え\r\nでないと大けがするぞ\r\nオレ達はほかの人よりチャクラが多いんだ"
+        },
+        {
+          "scriptMessageId": "28699",
+          "speechCharactorId": "715",
+          "message": "見事ですな\r\nインドラ様！"
+        },
+        {
+          "scriptMessageId": "28700",
+          "speechCharactorId": "715",
+          "message": "次、アシュラ様！"
+        },
+        {
+          "scriptMessageId": "28701",
+          "speechCharactorId": "703",
+          "message": "おう！"
+        },
+        {
+          "scriptMessageId": "28702",
+          "speechCharactorId": "715",
+          "message": "そこまで！"
+        },
+        {
+          "scriptMessageId": "28703",
+          "speechCharactorId": "702",
+          "message": "大丈夫かアシュラ？"
+        },
+        {
+          "scriptMessageId": "28704",
+          "speechCharactorId": "703",
+          "message": "やっぱり兄さんは強いな"
+        },
+        {
+          "scriptMessageId": "28705",
+          "speechCharactorId": "703",
+          "message": "修業、終わりだ！\r\nオレ、タイゾウたちと遊んでくる！"
+        },
+        {
+          "scriptMessageId": "28706",
+          "speechCharactorId": "702",
+          "message": "父上\r\n私は裏山で、もう少し修業してきます"
+        },
+        {
+          "scriptMessageId": "28707",
+          "speechCharactorId": "715",
+          "message": "ふむ、どうやらハゴロモ様の力は\r\n見事インドラ様に引き継がれたようですな"
+        },
+        {
+          "scriptMessageId": "28708",
+          "speechCharactorId": "704",
+          "message": "君の方だったんだ"
+        },
+        {
+          "scriptMessageId": "28709",
+          "speechCharactorId": "704",
+          "message": "母上の力を受け継いだのは"
+        },
+        {
+          "scriptMessageId": "28710",
+          "speechCharactorId": "702",
+          "message": "誰だ！出て来い！"
+        },
+        {
+          "scriptMessageId": "28711",
+          "speechCharactorId": "704",
+          "message": "ボクはいつも君を見ているよ"
+        },
+        {
+          "scriptMessageId": "28712",
+          "speechCharactorId": "702",
+          "message": "何の用だ？\r\nなぜ私を付け回す！"
+        },
+        {
+          "scriptMessageId": "28713",
+          "speechCharactorId": "704",
+          "message": "君は強くなる\r\n忍宗への向上心も才能もある\r\nでもまだ本当の自分の力には気付いていない"
+        },
+        {
+          "scriptMessageId": "28714",
+          "speechCharactorId": "704",
+          "message": "でも、その力を目覚めさせるには条件があるけどね"
+        },
+        {
+          "scriptMessageId": "28715",
+          "speechCharactorId": "702",
+          "message": "お前は何者なんだ！\r\nどうしてそんなことがわかるんだ！"
+        },
+        {
+          "scriptMessageId": "28716",
+          "speechCharactorId": "704",
+          "message": "知りたい？それは修業なんかじゃないんだよね\r\n愛を失う事、たとえば君の愛する人間が死ぬ、とか。\r\n試してみようよ"
+        },
+        {
+          "scriptMessageId": "28717",
+          "speechCharactorId": "702",
+          "message": "何をするつもりだ！\r\n待て！"
+        },
+        {
+          "scriptMessageId": "28718",
+          "speechCharactorId": "702",
+          "message": "…アシュラ！？"
+        },
+        {
+          "scriptMessageId": "28719",
+          "speechCharactorId": "703",
+          "message": "兄さん！"
+        },
+        {
+          "scriptMessageId": "28720",
+          "speechCharactorId": "702",
+          "message": "大丈夫か？"
+        },
+        {
+          "scriptMessageId": "28721",
+          "speechCharactorId": "703",
+          "message": "うん\r\nでも、シロが…"
+        },
+        {
+          "scriptMessageId": "28722",
+          "speechCharactorId": "702",
+          "message": "シロは命がけでお前を守ったんだ\r\n手厚く葬ってやれ"
+        },
+        {
+          "scriptMessageId": "28723",
+          "speechCharactorId": "703",
+          "message": "兄さん、その目…"
+        },
+        {
+          "scriptMessageId": "28724",
+          "speechCharactorId": "702",
+          "message": "これは…！"
+        },
+        {
+          "scriptMessageId": "28725",
+          "speechCharactorId": "716",
+          "message": "もっと気合を入れろ！\r\nアシュラ、お前もだ\r\nそんなことでは忍宗を使いこなせないぞ"
+        },
+        {
+          "scriptMessageId": "28726",
+          "speechCharactorId": "717",
+          "message": "兄さん、今日も裏山へ修業に？\r\n一緒に行っていいかな？"
+        },
+        {
+          "scriptMessageId": "28727",
+          "speechCharactorId": "716",
+          "message": "すまない\r\n一人で修業したいんだ\r\n私とお前では…"
+        },
+        {
+          "scriptMessageId": "28728",
+          "speechCharactorId": "717",
+          "message": "そうだよね\r\nレベルが違いすぎるもんね"
+        },
+        {
+          "scriptMessageId": "28729",
+          "speechCharactorId": "717",
+          "message": "兄さん…もう少し修業の時\r\n手加減してやった方がいいと思うんだ\r\n他の人に…\r\n兄さんが本気でやったら、皆怪我しちゃうし"
+        },
+        {
+          "scriptMessageId": "28730",
+          "speechCharactorId": "716",
+          "message": "そうだな\r\n考えておく"
+        },
+        {
+          "scriptMessageId": "28731",
+          "speechCharactorId": "716",
+          "message": "次！\r\nどうした\r\n誰も私の相手をする者はいないのか"
+        },
+        {
+          "scriptMessageId": "28732",
+          "speechCharactorId": "716",
+          "message": "ふがいない…"
+        },
+        {
+          "scriptMessageId": "28733",
+          "speechCharactorId": "717",
+          "message": "兄さん！\r\nどうして、考えてくれるって…"
+        },
+        {
+          "scriptMessageId": "28734",
+          "speechCharactorId": "716",
+          "message": "アシュラ、写輪眼を持たぬお前にはわからん\r\n世界を束ねていくのは力であり\r\n力には規律が…"
+        },
+        {
+          "scriptMessageId": "28735",
+          "speechCharactorId": "716",
+          "message": "いずれ私は忍宗を継ぎ\r\nその理想を貫く"
+        },
+        {
+          "scriptMessageId": "28736",
+          "speechCharactorId": "717",
+          "message": "兄さん…"
+        },
+        {
+          "scriptMessageId": "28737",
+          "speechCharactorId": "716",
+          "message": "アシュラ\r\nその男をどうするつもりだ"
+        },
+        {
+          "scriptMessageId": "28738",
+          "speechCharactorId": "717",
+          "message": "見逃してくれ兄さん！\r\nこいつだって悪気があったわけじゃないんだ！"
+        },
+        {
+          "scriptMessageId": "28739",
+          "speechCharactorId": "716",
+          "message": "掟は掟だ"
+        },
+        {
+          "scriptMessageId": "28740",
+          "speechCharactorId": "717",
+          "message": "見せしめならもう十分のはずだ！"
+        },
+        {
+          "scriptMessageId": "28741",
+          "speechCharactorId": "716",
+          "message": "それはお前が決める事ではない"
+        },
+        {
+          "scriptMessageId": "28742",
+          "speechCharactorId": "716",
+          "message": "掟を破るなら…\r\nお前が代わりに罪を償え！"
+        },
+        {
+          "scriptMessageId": "28743",
+          "speechCharactorId": "717",
+          "message": "やめてくれ\r\n兄さん！"
+        },
+        {
+          "scriptMessageId": "28744",
+          "speechCharactorId": "716",
+          "message": "アシュラ\r\n掟はなんのためにある\r\n忍宗の力は何のためにある"
+        },
+        {
+          "scriptMessageId": "28745",
+          "speechCharactorId": "716",
+          "message": "自分で答えが出せぬなら\r\nお前は私に従えばいいんだ"
+        },
+        {
+          "scriptMessageId": "28746",
+          "speechCharactorId": "717",
+          "message": "兄さん…"
+        },
+        {
+          "scriptMessageId": "28747",
+          "speechCharactorId": "719",
+          "message": "ではこれより忍宗の後継者を発表する\r\n忍宗の後継者は…\r\nアシュラに任せる"
+        },
+        {
+          "scriptMessageId": "28748",
+          "speechCharactorId": "717",
+          "message": "なぜです！\r\n私には兄さんほどの忍宗の才はありません！"
+        },
+        {
+          "scriptMessageId": "28749",
+          "speechCharactorId": "716",
+          "message": "なぜ私では不満なのか\r\nその理由をお聞かせください"
+        },
+        {
+          "scriptMessageId": "28750",
+          "speechCharactorId": "719",
+          "message": "お前に任せた村は今\r\n壊滅状態にあるとの報告を受けた"
+        },
+        {
+          "scriptMessageId": "28751",
+          "speechCharactorId": "719",
+          "message": "何をしたのか話してみよ"
+        },
+        {
+          "scriptMessageId": "28752",
+          "speechCharactorId": "716",
+          "message": "私がやったこともアシュラと同じです\r\n望み通り村の者達に水を与え、神樹を処分した\r\nただ違うのは私は一人でやったという事です"
+        },
+        {
+          "scriptMessageId": "28753",
+          "speechCharactorId": "719",
+          "message": "それが大きく結果を変えたのだ"
+        },
+        {
+          "scriptMessageId": "28754",
+          "speechCharactorId": "719",
+          "message": "村の人間たちは水の利権を争い\r\n自らの身を滅ぼしたそうだ\r\n楽をして手にした幸福は長続きはしないものだ"
+        },
+        {
+          "scriptMessageId": "28755",
+          "speechCharactorId": "719",
+          "message": "だがアシュラは村の人々とともに苦難の道を歩いた\r\n苦難の末に手にした幸福はそう簡単には崩れはしない"
+        },
+        {
+          "scriptMessageId": "28756",
+          "speechCharactorId": "719",
+          "message": "インドラ、お前には写輪眼という素晴らしい力がある\r\nアシュラは成長したと言えどまだ力は足りない\r\nこれから先忍宗を支えていくために、\r\nアシュラに力を貸してやってくれ"
+        },
+        {
+          "scriptMessageId": "28757",
+          "speechCharactorId": "716",
+          "message": "くっ…"
+        },
+        {
+          "scriptMessageId": "28758",
+          "speechCharactorId": "715",
+          "message": "今日は、忍宗の後継者が決まっためでたい日だ！\r\nみんな、無礼講で心ゆくまで楽しんでくれ！"
+        },
+        {
+          "scriptMessageId": "28759",
+          "speechCharactorId": "719",
+          "message": "アシュラか…"
+        },
+        {
+          "scriptMessageId": "28760",
+          "speechCharactorId": "719",
+          "message": "納得いかんか"
+        },
+        {
+          "scriptMessageId": "28761",
+          "speechCharactorId": "717",
+          "message": "はい"
+        },
+        {
+          "scriptMessageId": "28762",
+          "speechCharactorId": "719",
+          "message": "インドラは変わってしまった\r\n写輪眼のせいでな"
+        },
+        {
+          "scriptMessageId": "28763",
+          "speechCharactorId": "719",
+          "message": "その力ゆえにいつしか本人も人の心を理解することをやめ\r\nついにインドラの心は閉じてしまった"
+        },
+        {
+          "scriptMessageId": "28764",
+          "speechCharactorId": "719",
+          "message": "だがお前は違う、お前は人々の心を理解できる\r\nゆえに、愛を持って忍宗を活かした\r\nそれが人々の信頼を生み絆を生み仲間を生んだ"
+        },
+        {
+          "scriptMessageId": "28765",
+          "speechCharactorId": "719",
+          "message": "絆とは、多くの苦楽を共にし、初めて生まれるものだ\r\n絆には、愛と情が溢れている\r\n絆がある限り、忍宗が悪用されることはない"
+        },
+        {
+          "scriptMessageId": "28766",
+          "speechCharactorId": "719",
+          "message": "だが絆なき力はいずれ世界に災いを起こす\r\nアシュラよ、お前は兄とともに\r\n二人力を合わせ忍宗の絆を広めるのだ"
+        },
+        {
+          "scriptMessageId": "28767",
+          "speechCharactorId": "719",
+          "message": "これよりお前にワシの力を託す"
+        },
+        {
+          "scriptMessageId": "28768",
+          "speechCharactorId": "718",
+          "message": "何、あれ…"
+        },
+        {
+          "scriptMessageId": "28769",
+          "speechCharactorId": "717",
+          "message": "兄さん！"
+        },
+        {
+          "scriptMessageId": "28770",
+          "speechCharactorId": "719",
+          "message": "インドラ\r\nこれはどういうことだ"
+        },
+        {
+          "scriptMessageId": "28771",
+          "speechCharactorId": "716",
+          "message": "なぜだ\r\nなぜオレが後継者に選ばれない"
+        },
+        {
+          "scriptMessageId": "28772",
+          "speechCharactorId": "719",
+          "message": "忍宗を統べるのは力ではなく愛\r\nそう決めたのだ"
+        },
+        {
+          "scriptMessageId": "28773",
+          "speechCharactorId": "716",
+          "message": "愛だと？愛など必要ない！\r\n弱き者達はオレを王とあがめ、力を求めた\r\n弱き者の助けなどいらない！"
+        },
+        {
+          "scriptMessageId": "28774",
+          "speechCharactorId": "719",
+          "message": "インドラ、その目は！？"
+        },
+        {
+          "scriptMessageId": "28775",
+          "speechCharactorId": "716",
+          "message": "親しいものを失った時\r\n写輪眼は進化する！"
+        },
+        {
+          "scriptMessageId": "28776",
+          "speechCharactorId": "719",
+          "message": "インドラ、そこまで落ちたか！"
+        },
+        {
+          "scriptMessageId": "28777",
+          "speechCharactorId": "717",
+          "message": "もうやめてください！\r\nオレは兄さんとは戦いたくない！！"
+        },
+        {
+          "scriptMessageId": "28778",
+          "speechCharactorId": "716",
+          "message": "ほう、オレと戦うだと？\r\n随分と偉くなったなアシュラ！"
+        },
+        {
+          "scriptMessageId": "28779",
+          "speechCharactorId": "716",
+          "message": "お前がオレの相手になると思っているのか！"
+        },
+        {
+          "scriptMessageId": "28780",
+          "speechCharactorId": "716",
+          "message": "少しはできるようになったか\r\nだが、その程度では私には勝てん！"
+        },
+        {
+          "scriptMessageId": "28781",
+          "speechCharactorId": "719",
+          "message": "皆、力を合わせるのだ！"
+        },
+        {
+          "scriptMessageId": "28782",
+          "speechCharactorId": "716",
+          "message": "ふっ…\r\n力のない連中が群れたところで、意味などない"
+        },
+        {
+          "scriptMessageId": "28783",
+          "speechCharactorId": "716",
+          "message": "父上\r\nあなたの言う脆弱な理想に今、引導を渡してやる\r\n終わりだぁ！！"
+        },
+        {
+          "scriptMessageId": "28784",
+          "speechCharactorId": "717",
+          "message": "兄さん！！！"
+        },
+        {
+          "scriptMessageId": "28785",
+          "speechCharactorId": "716",
+          "message": "六道の力…お前が受け継いだというのか！\r\n小癪な！"
+        },
+        {
+          "scriptMessageId": "28786",
+          "speechCharactorId": "719",
+          "message": "皆、アシュラに力を貸してくれ！"
+        },
+        {
+          "scriptMessageId": "28787",
+          "speechCharactorId": "719",
+          "message": "アシュラ\r\nチャクラとは多くの人々の心をつなぐ絆の力だ！"
+        },
+        {
+          "scriptMessageId": "28788",
+          "speechCharactorId": "717",
+          "message": "みんな！\r\n感じるよ、みんなの、力を！\r\nこれが、絆の力だ！"
+        },
+        {
+          "scriptMessageId": "28789",
+          "speechCharactorId": "716",
+          "message": "くっ……\r\nアシュラ…オレは忍宗を…\r\nお前を決して認めぬ！！"
+        },
+        {
+          "scriptMessageId": "28790",
+          "speechCharactorId": "717",
+          "message": "兄さん…"
+        },
+        {
           "scriptMessageId": "40001",
           "speechCharactorId": "178",
           "message": "絶望しかないこの世界に\r\n存在する価値はない"

@@ -2129,6 +2129,12 @@
           "itemImgId": "23"
         },
         {
+          "shopExchangeItemId": "363",
+          "itemName": "昇級試験Pt",
+          "measure": "0",
+          "itemImgId": "128"
+        },
+        {
           "shopExchangeItemId": "1001",
           "itemName": "下心Pt",
           "measure": null,
@@ -2415,6 +2421,12 @@
           "itemName": "ビーチフラッグ",
           "measure": "0",
           "itemImgId": "49"
+        },
+        {
+          "shopExchangeItemId": "1049",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
         },
         {
           "shopExchangeItemId": "2000",
