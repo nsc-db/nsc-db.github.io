@@ -19215,6 +19215,38 @@
           "recipeName": "ネジのインナー"
         },
         {
+          "crystalId": "20719",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "775",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "アシュラの真数千手",
+          "crystalDescription": "弱体と状態異常を軽減する",
+          "crystalImageId": "207195",
+          "recipeId": "20719",
+          "recipeName": "アシュラの真数千手"
+        },
+        {
+          "crystalId": "20720",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "20002",
+          "effectIdx2": "1113",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "忍宗の後継者",
+          "crystalDescription": "最大チャクラ量30アップ、バトル開始時にチャクラ20%回復",
+          "crystalImageId": "207205",
+          "recipeId": "20720",
+          "recipeName": "忍宗の後継者"
+        },
+        {
           "crystalId": "20723",
           "crystalType": "12",
           "crystalRare": "5",

@@ -20096,6 +20096,24 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2289",
+          "abilityName": "絆を結ぶ者",
+          "abilityDescription": "味方に千手柱間かうずまきナルトが生存しているとスキルダメージ100%アップ、どちらもいると200%アップ",
+          "abilityEffectDescription": "味方に千手柱間かうずまきナルトが生存しているとスキルダメージ100%アップ、どちらもいると200%アップ",
+          "effectIdx1": "2378",
+          "effectIdx2": "2377",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2290",
+          "abilityName": "受け継がれし六道の力",
+          "abilityDescription": "敵にうちはマダラかうちはサスケが生存していると素早さ100%アップ、どちらもいると200%アップ",
+          "abilityEffectDescription": "敵にうちはマダラかうちはサスケが生存していると素早さ100%アップ、どちらもいると200%アップ",
+          "effectIdx1": "2380",
+          "effectIdx2": "2379",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
