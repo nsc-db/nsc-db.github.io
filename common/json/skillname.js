@@ -6312,6 +6312,14 @@ window.skillname=[
           "name": "…このゲスチンヤロー"
         },
         {
+          "cardBattleSkillNameId": "2790",
+          "name": "六道・日輪ノ環"
+        },
+        {
+          "cardBattleSkillNameId": "2791",
+          "name": "みんな…！"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },

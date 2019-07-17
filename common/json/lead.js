@@ -11895,6 +11895,19 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "932",
+          "name": "絆の仁才",
+          "description": "技属性の最大HP150%アップ、スキル発動速度1段階アップ",
+          "effectIdx1": "1212",
+          "effectIdx2": "1840",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "2",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

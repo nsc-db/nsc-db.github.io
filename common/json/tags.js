@@ -19173,6 +19173,27 @@ window.tags=[
 
 },
 {
+          "cardId": "20050714",
+          "rare": "5",
+          "tag": "god",
+          "skill1damage": "",
+          "skill2damage": "",
+          "nickname": "God Ashura v2",
+          "role": "",
+          "rolerating": "",
+          "secondary": "",
+          "secondaryrating": "",
+          "buff": "",
+          "debuff": "",
+          "survive": "",
+          "health": "",
+          "special": "",
+          "positivestate": "",
+          "negativestate": "",
+          "godstate": ""
+
+},
+{
           "cardId": "20050716",
           "rare": "5",
           "tag": "origin",
