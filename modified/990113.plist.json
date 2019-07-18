@@ -28031,6 +28031,42 @@
           "effectParam3": "0"
         },
         {
+          "cardEffectId": "2374",
+          "timing": "10",
+          "conditionType": "107",
+          "conditionLower": "5",
+          "conditionUpper": "5",
+          "parcent": "10000",
+          "effectId": "43",
+          "effectParam1": "7500",
+          "effectParam2": "0",
+          "effectParam3": "0"
+        },
+        {
+          "cardEffectId": "2375",
+          "timing": "2",
+          "conditionType": "0",
+          "conditionLower": "0",
+          "conditionUpper": "0",
+          "parcent": "10000",
+          "effectId": "2",
+          "effectParam1": "1",
+          "effectParam2": "15000",
+          "effectParam3": "0"
+        },
+        {
+          "cardEffectId": "2376",
+          "timing": "13",
+          "conditionType": "1",
+          "conditionLower": "0",
+          "conditionUpper": "10000",
+          "parcent": "10000",
+          "effectId": "33",
+          "effectParam1": "0",
+          "effectParam2": "7500",
+          "effectParam3": "0"
+        },
+        {
           "cardEffectId": "2377",
           "timing": "1",
           "conditionType": "17",
@@ -28076,6 +28112,30 @@
           "effectId": "1",
           "effectParam1": "3",
           "effectParam2": "20000",
+          "effectParam3": "0"
+        },
+        {
+          "cardEffectId": "2381",
+          "timing": "14",
+          "conditionType": "0",
+          "conditionLower": "0",
+          "conditionUpper": "0",
+          "parcent": "10000",
+          "effectId": "51",
+          "effectParam1": "3",
+          "effectParam2": "222",
+          "effectParam3": "7000"
+        },
+        {
+          "cardEffectId": "2382",
+          "timing": "1",
+          "conditionType": "6",
+          "conditionLower": "0",
+          "conditionUpper": "2",
+          "parcent": "10000",
+          "effectId": "41",
+          "effectParam1": "0",
+          "effectParam2": "0",
           "effectParam3": "0"
         },
         {

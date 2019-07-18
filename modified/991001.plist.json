@@ -81479,6 +81479,531 @@
           "message": "兄さん…"
         },
         {
+          "scriptMessageId": "28791",
+          "speechCharactorId": "721",
+          "message": "…………………\r\n……決めた"
+        },
+        {
+          "scriptMessageId": "28792",
+          "speechCharactorId": "721",
+          "message": "悩んでても仕方ないよね……"
+        },
+        {
+          "scriptMessageId": "28793",
+          "speechCharactorId": "721",
+          "message": "よし！\r\n思い立ったら行動あるのみよ！"
+        },
+        {
+          "scriptMessageId": "28794",
+          "speechCharactorId": "721",
+          "message": "……サクラです\r\n少しよろしいでしょうか"
+        },
+        {
+          "scriptMessageId": "28795",
+          "speechCharactorId": "722",
+          "message": "ん……？\r\nどうぞー"
+        },
+        {
+          "scriptMessageId": "28796",
+          "speechCharactorId": "503",
+          "message": "よっ！"
+        },
+        {
+          "scriptMessageId": "28797",
+          "speechCharactorId": "721",
+          "message": "ナルトもいたのね"
+        },
+        {
+          "scriptMessageId": "28798",
+          "speechCharactorId": "722",
+          "message": "あらたまってどうしたの？\r\n何か大事な話…？"
+        },
+        {
+          "scriptMessageId": "28799",
+          "speechCharactorId": "503",
+          "message": "えっと……\r\nオレ、はずそっか？"
+        },
+        {
+          "scriptMessageId": "28800",
+          "speechCharactorId": "721",
+          "message": "ううん、大丈夫よ"
+        },
+        {
+          "scriptMessageId": "28801",
+          "speechCharactorId": "721",
+          "message": "火影様…お願いがあります！"
+        },
+        {
+          "scriptMessageId": "28802",
+          "speechCharactorId": "722",
+          "message": "火影様って、いつも通りで…"
+        },
+        {
+          "scriptMessageId": "28803",
+          "speechCharactorId": "721",
+          "message": "お休みを下さい！\r\nそれと…！！"
+        },
+        {
+          "scriptMessageId": "28804",
+          "speechCharactorId": "721",
+          "message": "サスケくんの居場所を教えて下さい！！！"
+        },
+        {
+          "scriptMessageId": "28805",
+          "speechCharactorId": "722",
+          "message": "サスケの…？\r\n……どうしたの？"
+        },
+        {
+          "scriptMessageId": "28806",
+          "speechCharactorId": "721",
+          "message": "もうすぐサスケくんの誕生日です！\r\nだから…逢いに行こうと思います！！"
+        },
+        {
+          "scriptMessageId": "28807",
+          "speechCharactorId": "503",
+          "message": "おー…サクラちゃん\r\nそれ、ナイスだってばよ！"
+        },
+        {
+          "scriptMessageId": "28808",
+          "speechCharactorId": "721",
+          "message": "カカシ先生！！\r\n……教えてください！！！"
+        },
+        {
+          "scriptMessageId": "28809",
+          "speechCharactorId": "503",
+          "message": "カカシ先生、オレも行きたい！"
+        },
+        {
+          "scriptMessageId": "28810",
+          "speechCharactorId": "721",
+          "message": "ついてくる気なの！？"
+        },
+        {
+          "scriptMessageId": "28811",
+          "speechCharactorId": "503",
+          "message": "え…オレも久しぶりにサスケに会いたいんだけども…"
+        },
+        {
+          "scriptMessageId": "28812",
+          "speechCharactorId": "722",
+          "message": "ん……教えなくもないんだけど… \r\nちょっと待ってね"
+        },
+        {
+          "scriptMessageId": "28813",
+          "speechCharactorId": "721",
+          "message": "ダメなんですか…？"
+        },
+        {
+          "scriptMessageId": "28814",
+          "speechCharactorId": "326",
+          "message": "何やってんだ…お前ら\r\n火影様が困ってんだろーが"
+        },
+        {
+          "scriptMessageId": "28815",
+          "speechCharactorId": "721",
+          "message": "シカマル…\r\nカカシ先生に教えて欲しいことがあって"
+        },
+        {
+          "scriptMessageId": "28816",
+          "speechCharactorId": "326",
+          "message": "それで、どうしたんだよ"
+        },
+        {
+          "scriptMessageId": "28817",
+          "speechCharactorId": "722",
+          "message": "……っていう話なんだよね"
+        },
+        {
+          "scriptMessageId": "28818",
+          "speechCharactorId": "326",
+          "message": "話は聞いた…が、二人ともスケジュール的に\r\n厳しくねーか？"
+        },
+        {
+          "scriptMessageId": "28819",
+          "speechCharactorId": "721",
+          "message": "えっ…"
+        },
+        {
+          "scriptMessageId": "28820",
+          "speechCharactorId": "326",
+          "message": "サクラは今、医療忍者として参加してる\r\n任務があるだろ？\r\nナルト…お前も色々任務があるだろ"
+        },
+        {
+          "scriptMessageId": "28821",
+          "speechCharactorId": "503",
+          "message": "うっ…"
+        },
+        {
+          "scriptMessageId": "28822",
+          "speechCharactorId": "722",
+          "message": "まあまあ…\r\n二人ともいつも頑張ってくれてるんだし"
+        },
+        {
+          "scriptMessageId": "28823",
+          "speechCharactorId": "326",
+          "message": "頑張ってるのは皆、同じですよ"
+        },
+        {
+          "scriptMessageId": "28824",
+          "speechCharactorId": "326",
+          "message": "それと…火影様、会議の時間ですよ"
+        },
+        {
+          "scriptMessageId": "28825",
+          "speechCharactorId": "722",
+          "message": "あー…もう、そんな時間か\r\n悪いね、サクラ、ナルト"
+        },
+        {
+          "scriptMessageId": "28826",
+          "speechCharactorId": "721",
+          "message": "はぁー………"
+        },
+        {
+          "scriptMessageId": "28827",
+          "speechCharactorId": "327",
+          "message": "はぁい、サクラ！"
+        },
+        {
+          "scriptMessageId": "28828",
+          "speechCharactorId": "721",
+          "message": "あ…いのかぁ…"
+        },
+        {
+          "scriptMessageId": "28829",
+          "speechCharactorId": "327",
+          "message": "いのかぁ…じゃないわよ\r\n元気ないわね"
+        },
+        {
+          "scriptMessageId": "28830",
+          "speechCharactorId": "721",
+          "message": "まぁね…"
+        },
+        {
+          "scriptMessageId": "28831",
+          "speechCharactorId": "327",
+          "message": "まぁ、理由は知ってるんだけどね"
+        },
+        {
+          "scriptMessageId": "28832",
+          "speechCharactorId": "721",
+          "message": "えっ…"
+        },
+        {
+          "scriptMessageId": "28833",
+          "speechCharactorId": "327",
+          "message": "シカマルから連絡あったのよ\r\n力になってやってくれって"
+        },
+        {
+          "scriptMessageId": "28834",
+          "speechCharactorId": "721",
+          "message": "シカマルが…"
+        },
+        {
+          "scriptMessageId": "28835",
+          "speechCharactorId": "327",
+          "message": "ただ、代わってあげたいのはやまやまだけど、\r\nちょっと私も立て込んでてね"
+        },
+        {
+          "scriptMessageId": "28836",
+          "speechCharactorId": "721",
+          "message": "そう…よね"
+        },
+        {
+          "scriptMessageId": "28837",
+          "speechCharactorId": "327",
+          "message": "なにしょげてるのよ\r\nそういうわけだから、あの人にお願いしてみたわ。\r\n二つ返事で了解してくれたから、直接会って\r\nお礼言うといいわ！"
+        },
+        {
+          "scriptMessageId": "28838",
+          "speechCharactorId": "721",
+          "message": "あの人って…"
+        },
+        {
+          "scriptMessageId": "28839",
+          "speechCharactorId": "607",
+          "message": "私だ！！"
+        },
+        {
+          "scriptMessageId": "28840",
+          "speechCharactorId": "721",
+          "message": "綱手様！？"
+        },
+        {
+          "scriptMessageId": "28841",
+          "speechCharactorId": "607",
+          "message": "いのが熱心に頼むのでな"
+        },
+        {
+          "scriptMessageId": "28842",
+          "speechCharactorId": "721",
+          "message": "え、でも二つ返事って…"
+        },
+        {
+          "scriptMessageId": "28843",
+          "speechCharactorId": "327",
+          "message": "綱手様…！！"
+        },
+        {
+          "scriptMessageId": "28844",
+          "speechCharactorId": "607",
+          "message": "分かった分かった\r\n余計なことはもう言わん"
+        },
+        {
+          "scriptMessageId": "28845",
+          "speechCharactorId": "607",
+          "message": "本当はシズネにでもやらせようかと思ったんだがな\r\nあいつは今、カカシの補佐もしている…"
+        },
+        {
+          "scriptMessageId": "28846",
+          "speechCharactorId": "607",
+          "message": "それにたまには、弟子のフォローも\r\n師匠としてしなくてはな"
+        },
+        {
+          "scriptMessageId": "28847",
+          "speechCharactorId": "721",
+          "message": "綱手様…いの…\r\nありがとうございます…！"
+        },
+        {
+          "scriptMessageId": "28848",
+          "speechCharactorId": "721",
+          "message": "シカマル！！"
+        },
+        {
+          "scriptMessageId": "28849",
+          "speechCharactorId": "326",
+          "message": "よう、どうした？"
+        },
+        {
+          "scriptMessageId": "28850",
+          "speechCharactorId": "721",
+          "message": "ありがとう！"
+        },
+        {
+          "scriptMessageId": "28851",
+          "speechCharactorId": "326",
+          "message": "オレは何もしちゃいねーよ\r\n礼なら、いのに言っとけ"
+        },
+        {
+          "scriptMessageId": "28852",
+          "speechCharactorId": "721",
+          "message": "うん！\r\nありがとう！！"
+        },
+        {
+          "scriptMessageId": "28853",
+          "speechCharactorId": "326",
+          "message": "サスケの居所だがな\r\n定期連絡が来てるはずだからよ"
+        },
+        {
+          "scriptMessageId": "28854",
+          "speechCharactorId": "326",
+          "message": "火影様のとこに行ってみるんだな\r\n話は通してある"
+        },
+        {
+          "scriptMessageId": "28855",
+          "speechCharactorId": "721",
+          "message": "何から何まで……ありがと！！\r\nやるわね！"
+        },
+        {
+          "scriptMessageId": "28856",
+          "speechCharactorId": "326",
+          "message": "まぁ…これくらいはな"
+        },
+        {
+          "scriptMessageId": "28857",
+          "speechCharactorId": "722",
+          "message": "おっ…さっそく来たな"
+        },
+        {
+          "scriptMessageId": "28858",
+          "speechCharactorId": "721",
+          "message": "はい！"
+        },
+        {
+          "scriptMessageId": "28859",
+          "speechCharactorId": "722",
+          "message": "やる気いっぱいだなー…\r\nってわけだから、はい、コレ"
+        },
+        {
+          "scriptMessageId": "28860",
+          "speechCharactorId": "721",
+          "message": "はいっ…って、これって？"
+        },
+        {
+          "scriptMessageId": "28861",
+          "speechCharactorId": "722",
+          "message": "入国許可証と、雷影様への親書"
+        },
+        {
+          "scriptMessageId": "28862",
+          "speechCharactorId": "721",
+          "message": "それってつまり…"
+        },
+        {
+          "scriptMessageId": "28863",
+          "speechCharactorId": "722",
+          "message": "そ、任務。よろしく"
+        },
+        {
+          "scriptMessageId": "28864",
+          "speechCharactorId": "721",
+          "message": "……"
+        },
+        {
+          "scriptMessageId": "28865",
+          "speechCharactorId": "722",
+          "message": "あー、それとサイ。例の情報"
+        },
+        {
+          "scriptMessageId": "28866",
+          "speechCharactorId": "329",
+          "message": "承知しました\r\nサスケに送った超獣偽画の方向からですが、\r\nサスケは今、雲隠れの里に向かっていると思われます"
+        },
+        {
+          "scriptMessageId": "28867",
+          "speechCharactorId": "722",
+          "message": "ま、入国申請を取っていることからも\r\n雲隠れの里に行くんだろうな"
+        },
+        {
+          "scriptMessageId": "28868",
+          "speechCharactorId": "721",
+          "message": "カカシ先生…"
+        },
+        {
+          "scriptMessageId": "28869",
+          "speechCharactorId": "722",
+          "message": "入国許可証と、雷影様への親書\r\nしっかり届けて来てね"
+        },
+        {
+          "scriptMessageId": "28870",
+          "speechCharactorId": "722",
+          "message": "任務期間は少し長めにとってあるけど、お手柔らかに"
+        },
+        {
+          "scriptMessageId": "28871",
+          "speechCharactorId": "722",
+          "message": "ま、ついでにサスケにもよろしく頼むよ"
+        },
+        {
+          "scriptMessageId": "28872",
+          "speechCharactorId": "503",
+          "message": "オレも行きたかったってばよ…"
+        },
+        {
+          "scriptMessageId": "28873",
+          "speechCharactorId": "721",
+          "message": "ナルト、あんたはダメだったの？"
+        },
+        {
+          "scriptMessageId": "28874",
+          "speechCharactorId": "503",
+          "message": "シカマルが、オレは大事な時期だからーって\r\n任務いっぱい入れててさ"
+        },
+        {
+          "scriptMessageId": "28875",
+          "speechCharactorId": "721",
+          "message": "あー…なるほど！\r\nシカマルは本気みたいね"
+        },
+        {
+          "scriptMessageId": "28876",
+          "speechCharactorId": "503",
+          "message": "オレだって本気だ！"
+        },
+        {
+          "scriptMessageId": "28877",
+          "speechCharactorId": "721",
+          "message": "それは昔からでしょ\r\nアンタは火影になるんでしょ"
+        },
+        {
+          "scriptMessageId": "28878",
+          "speechCharactorId": "503",
+          "message": "おう！！"
+        },
+        {
+          "scriptMessageId": "28879",
+          "speechCharactorId": "503",
+          "message": "ってわけで、これサスケに渡しといてくれ"
+        },
+        {
+          "scriptMessageId": "28880",
+          "speechCharactorId": "721",
+          "message": "これは？"
+        },
+        {
+          "scriptMessageId": "28881",
+          "speechCharactorId": "503",
+          "message": "プレゼントのかつお節！！"
+        },
+        {
+          "scriptMessageId": "28882",
+          "speechCharactorId": "721",
+          "message": "え…"
+        },
+        {
+          "scriptMessageId": "28883",
+          "speechCharactorId": "503",
+          "message": "あいつ、おかかが好きなんだろ？\r\n旅のお供にいいかなーって"
+        },
+        {
+          "scriptMessageId": "28884",
+          "speechCharactorId": "721",
+          "message": "あはは…"
+        },
+        {
+          "scriptMessageId": "28885",
+          "speechCharactorId": "721",
+          "message": "（ナルトらしいっていうか…）\r\n（なんて言うか…うん…まぁいいかな）"
+        },
+        {
+          "scriptMessageId": "28886",
+          "speechCharactorId": "721",
+          "message": "よし…！\r\n準備完了、さっそく向かうわ！！"
+        },
+        {
+          "scriptMessageId": "28887",
+          "speechCharactorId": "306",
+          "message": "気合十分という感じですね"
+        },
+        {
+          "scriptMessageId": "28888",
+          "speechCharactorId": "721",
+          "message": "シズネ先輩！？"
+        },
+        {
+          "scriptMessageId": "28889",
+          "speechCharactorId": "306",
+          "message": "見送りです\r\n行ってらっしゃい"
+        },
+        {
+          "scriptMessageId": "28890",
+          "speechCharactorId": "721",
+          "message": "行ってきます！"
+        },
+        {
+          "scriptMessageId": "28891",
+          "speechCharactorId": "607",
+          "message": "若いな…"
+        },
+        {
+          "scriptMessageId": "28892",
+          "speechCharactorId": "306",
+          "message": "それはそうですよ\r\nじっさい、若いのですから"
+        },
+        {
+          "scriptMessageId": "28893",
+          "speechCharactorId": "607",
+          "message": "お前…今、私と違ってとか思わなかったか？"
+        },
+        {
+          "scriptMessageId": "28894",
+          "speechCharactorId": "306",
+          "message": "なにを仰ってるんですか……"
+        },
+        {
+          "scriptMessageId": "28895",
+          "speechCharactorId": "607",
+          "message": "まあいい…\r\nさて、引き受けた以上は厳しくやるぞ！\r\n留守は任せておけ！！"
+        },
+        {
           "scriptMessageId": "40001",
           "speechCharactorId": "178",
           "message": "絶望しかないこの世界に\r\n存在する価値はない"

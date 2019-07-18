@@ -2555,6 +2555,18 @@
           "voiceDeath": "naruto_death_02_07"
         },
         {
+          "cardVoiceId": "216",
+          "cardId": "20050710",
+          "dirName": "sakura",
+          "evolutionStep": "",
+          "voiceAppear": "sakura_battle_03_01",
+          "voiceSkill1": "sakura_skill_03_02",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "sakura_win_03_01",
+          "voiceDeath": "sakura_death_03_01"
+        },
+        {
           "cardVoiceId": "217",
           "cardId": "20050704",
           "dirName": "temari",
@@ -2565,6 +2577,30 @@
           "voicePursuit": "",
           "voiceWin": "temari_win_02_02",
           "voiceDeath": "temari_death_02_05"
+        },
+        {
+          "cardVoiceId": "218",
+          "cardId": "20050801",
+          "dirName": "sakura",
+          "evolutionStep": "",
+          "voiceAppear": "sakura_battle_02_04",
+          "voiceSkill1": "sakura_skill_02_02",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "sakura_win_02_03",
+          "voiceDeath": "sakura_death_02_05"
+        },
+        {
+          "cardVoiceId": "219",
+          "cardId": "20050709",
+          "dirName": "sasuke",
+          "evolutionStep": "",
+          "voiceAppear": "sasuke_battle_03_04",
+          "voiceSkill1": "sasuke_battle_03_01",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "sasuke_win_03_04",
+          "voiceDeath": "sasuke_death_03_03"
         },
         {
           "cardVoiceId": "8001",

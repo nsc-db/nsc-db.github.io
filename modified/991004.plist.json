@@ -4295,6 +4295,18 @@
           "speechCharactorName": "大筒木ハゴロモ"
         },
         {
+          "speechCharactorId": "721",
+          "cardId": "20050710",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "春野サクラ"
+        },
+        {
+          "speechCharactorId": "722",
+          "cardId": "20001850",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "はたけカカシ"
+        },
+        {
           "speechCharactorId": "1000",
           "cardId": "21000091",
           "speechCharactorImgId": "1000",

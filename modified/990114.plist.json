@@ -2177,5 +2177,15 @@
           "subScore": "0",
           "color": "16316664",
           "type": "2"
+        },
+        {
+          "cardUnusualId": "222",
+          "category": "3",
+          "iconId": "1246",
+          "name": "幻術モード",
+          "description": "スキルダメージアップ、一部防御無視、スキル攻撃受けるとチャクラ回復＆アクション状態になる",
+          "subScore": "0",
+          "color": "10104574",
+          "type": "2"
         }
       ]
