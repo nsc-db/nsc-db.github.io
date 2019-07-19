@@ -2141,6 +2141,18 @@
           "itemImgId": "23"
         },
         {
+          "shopExchangeItemId": "365",
+          "itemName": "柱間Pt",
+          "measure": "0",
+          "itemImgId": "365"
+        },
+        {
+          "shopExchangeItemId": "366",
+          "itemName": "マダラPt",
+          "measure": "0",
+          "itemImgId": "366"
+        },
+        {
           "shopExchangeItemId": "1001",
           "itemName": "下心Pt",
           "measure": null,

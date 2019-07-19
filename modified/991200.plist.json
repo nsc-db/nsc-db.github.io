@@ -10631,6 +10631,18 @@
           "effectIdx4": "0"
         },
         {
+          "crystalOverwriteEffectId": "901",
+          "targetCrystal": "20736",
+          "description": "マダラ or 柱間のスキルダメージが〇〇〇%もアップ…！",
+          "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "0",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
+        },
+        {
           "crystalOverwriteEffectId": "902",
           "targetCrystal": "20711",
           "description": "バトル開始時にチャクラ50%回復、素早さ60%アップ、5回行動までチャクラ消費量半減",

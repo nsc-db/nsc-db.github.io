@@ -19309,5 +19309,53 @@
           "crystalImageId": "207235",
           "recipeId": "20723",
           "recipeName": "うずまき一族のﾏｰｸ"
+        },
+        {
+          "crystalId": "20736",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "2383",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "0",
+          "crystalName": "うちわ（２本組）",
+          "crystalDescription": "HP44％以上の時に全スキルダメージ44％アップ",
+          "crystalImageId": "207365",
+          "recipeId": "20736",
+          "recipeName": "うちわ（２本組）"
+        },
+        {
+          "crystalId": "20737",
+          "crystalType": "1",
+          "crystalRare": "5",
+          "effectIdx1": "2384",
+          "effectIdx2": "2385",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "0",
+          "crystalName": "うちわ（青）",
+          "crystalDescription": "4回行動まで素早さ40％アップ、44回行動後は444％アップ",
+          "crystalImageId": "207375",
+          "recipeId": "20737",
+          "recipeName": "うちわ（青）"
+        },
+        {
+          "crystalId": "20738",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "2386",
+          "effectIdx2": "2387",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "0",
+          "crystalName": "うちわ（赤）",
+          "crystalDescription": "行動後チャクラ4%回復し、4回行動するまでチャクラ消費量44%減少",
+          "crystalImageId": "207385",
+          "recipeId": "20738",
+          "recipeName": "うちわ（赤）"
         }
       ]

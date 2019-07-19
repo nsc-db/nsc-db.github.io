@@ -82004,6 +82004,541 @@
           "message": "まあいい…\r\nさて、引き受けた以上は厳しくやるぞ！\r\n留守は任せておけ！！"
         },
         {
+          "scriptMessageId": "28896",
+          "speechCharactorId": "0",
+          "message": "無限月読…\r\n見たもの全てを夢に堕とす大幻術…"
+        },
+        {
+          "scriptMessageId": "28897",
+          "speechCharactorId": "0",
+          "message": "これはとある忍が夢みた\r\n無限に続く夢の世界"
+        },
+        {
+          "scriptMessageId": "28898",
+          "speechCharactorId": "739",
+          "message": "ふああああ〜〜〜…"
+        },
+        {
+          "scriptMessageId": "28899",
+          "speechCharactorId": "739",
+          "message": "いやー今日もよく寝たぜ"
+        },
+        {
+          "scriptMessageId": "28900",
+          "speechCharactorId": "739",
+          "message": "…なんか変だな\r\n天井が妙に遠いし、そもそも視線が低い気が…"
+        },
+        {
+          "scriptMessageId": "28901",
+          "speechCharactorId": "724",
+          "message": "ず〜〜〜〜〜ん"
+        },
+        {
+          "scriptMessageId": "28902",
+          "speechCharactorId": "739",
+          "message": "しょ、初代の顔岩のオッチャン！？なんでこんなところに！？"
+        },
+        {
+          "scriptMessageId": "28903",
+          "speechCharactorId": "739",
+          "message": "っていうか、初代の顔岩のオッチャン\r\n随分ちっこくなってるじゃねーかよ！？\r\nいや、オレもか！？"
+        },
+        {
+          "scriptMessageId": "28904",
+          "speechCharactorId": "724",
+          "message": "突然こんな風に小さくなってしまうとは…"
+        },
+        {
+          "scriptMessageId": "28905",
+          "speechCharactorId": "724",
+          "message": "オレは何かしでかしてしまったのか…"
+        },
+        {
+          "scriptMessageId": "28906",
+          "speechCharactorId": "739",
+          "message": "また落ち込んでるよ…"
+        },
+        {
+          "scriptMessageId": "28907",
+          "speechCharactorId": "726",
+          "message": "見つけたぞ柱間ァ！"
+        },
+        {
+          "scriptMessageId": "28908",
+          "speechCharactorId": "739",
+          "message": "…うわっ、今度は何だ！？"
+        },
+        {
+          "scriptMessageId": "28909",
+          "speechCharactorId": "726",
+          "message": "お前も妙なことになっているようだな！\r\nちょうどいい！\r\n今日こそ決着をつけてやる！"
+        },
+        {
+          "scriptMessageId": "28910",
+          "speechCharactorId": "724",
+          "message": "ガハハハ！望むところぞ！"
+        },
+        {
+          "scriptMessageId": "28911",
+          "speechCharactorId": "739",
+          "message": "落ち込んだ後の立ち直りも早えな…\r\nだけどよー、この状態でなんの対決するんだ？"
+        },
+        {
+          "scriptMessageId": "28912",
+          "speechCharactorId": "725",
+          "message": "…すでに勝負は始まっているようだぞ"
+        },
+        {
+          "scriptMessageId": "28913",
+          "speechCharactorId": "726",
+          "message": "オレの方が背が高い！"
+        },
+        {
+          "scriptMessageId": "28914",
+          "speechCharactorId": "724",
+          "message": "いやあ、オレの方がほんのちょっと…"
+        },
+        {
+          "scriptMessageId": "28915",
+          "speechCharactorId": "739",
+          "message": "まったく同じに見えるけどな…"
+        },
+        {
+          "scriptMessageId": "28916",
+          "speechCharactorId": "725",
+          "message": "差はない。引き分けだ"
+        },
+        {
+          "scriptMessageId": "28917",
+          "speechCharactorId": "726",
+          "message": "な、オレと柱間が、引き分け…だと！？"
+        },
+        {
+          "scriptMessageId": "28918",
+          "speechCharactorId": "726",
+          "message": "ええい！勝負は持ち越しだ！\r\n四番勝負で決着をつけてみせよう！"
+        },
+        {
+          "scriptMessageId": "28919",
+          "speechCharactorId": "739",
+          "message": "元気だな、この人たち…"
+        },
+        {
+          "scriptMessageId": "28920",
+          "speechCharactorId": "726",
+          "message": "ふん、では次の勝負は忍としての実力が示せるものに\r\nする！どちらがこの森の木を多く切り倒せるか…\r\nというのはどうだ！？"
+        },
+        {
+          "scriptMessageId": "28921",
+          "speechCharactorId": "724",
+          "message": "面白そうぞ！"
+        },
+        {
+          "scriptMessageId": "28922",
+          "speechCharactorId": "724",
+          "message": "木ならオレの得意分野！\r\n木遁で根こそぎにしてみせようぞ！"
+        },
+        {
+          "scriptMessageId": "28923",
+          "speechCharactorId": "739",
+          "message": "わかったぜ！\r\nじゃあオレは影分身で片っ端から攻撃していくってばよ！"
+        },
+        {
+          "scriptMessageId": "28924",
+          "speechCharactorId": "739",
+          "message": "はあはあ、これならぜってーオレ達の勝ちだな！"
+        },
+        {
+          "scriptMessageId": "28925",
+          "speechCharactorId": "46",
+          "message": "初代様にナルト…随分可愛い姿になってるけど…"
+        },
+        {
+          "scriptMessageId": "28926",
+          "speechCharactorId": "744",
+          "message": "兄さん…なんでそんな姿に？"
+        },
+        {
+          "scriptMessageId": "28927",
+          "speechCharactorId": "739",
+          "message": "え！父ちゃんはそのまんまなのかよ！\r\n小さくなってんのはオレ達だけか…"
+        },
+        {
+          "scriptMessageId": "28928",
+          "speechCharactorId": "724",
+          "message": "ちょうどいい、どちらがたくさん木を倒したのか数えるがいいぞ！"
+        },
+        {
+          "scriptMessageId": "28929",
+          "speechCharactorId": "46",
+          "message": "いや、森がひとつ消えてますから…\r\nどっちが何本倒したかなんて、数えるのは無理ですよ"
+        },
+        {
+          "scriptMessageId": "28930",
+          "speechCharactorId": "724",
+          "message": "まさか、今回も引き分けぞ？"
+        },
+        {
+          "scriptMessageId": "28931",
+          "speechCharactorId": "46",
+          "message": "じゃあ次は、借り物競争なんかどうかな？"
+        },
+        {
+          "scriptMessageId": "28932",
+          "speechCharactorId": "744",
+          "message": "この紙に書かれているものを取ってくるんだ"
+        },
+        {
+          "scriptMessageId": "28933",
+          "speechCharactorId": "724",
+          "message": "なるほど妙案ぞ！オレが持ってくるものは…"
+        },
+        {
+          "scriptMessageId": "28934",
+          "speechCharactorId": "724",
+          "message": "カエルを口寄せができる忍か"
+        },
+        {
+          "scriptMessageId": "28935",
+          "speechCharactorId": "46",
+          "message": "もちろんナルト自身は数に入れないからね"
+        },
+        {
+          "scriptMessageId": "28936",
+          "speechCharactorId": "739",
+          "message": "ということで来てもらうぜ、エロ仙人！"
+        },
+        {
+          "scriptMessageId": "28937",
+          "speechCharactorId": "739",
+          "message": "エロ仙人を連れてきたぜ！"
+        },
+        {
+          "scriptMessageId": "28938",
+          "speechCharactorId": "744",
+          "message": "忍を連れてきたのはわかったが…\r\n口寄せのカエルはどこにいるんだ？"
+        },
+        {
+          "scriptMessageId": "28939",
+          "speechCharactorId": "724",
+          "message": "戦闘で気絶させてしまったから今は口寄せは無理ぞ"
+        },
+        {
+          "scriptMessageId": "28940",
+          "speechCharactorId": "46",
+          "message": "それじゃあ課題をクリアしたことにはならないかなあ\r\n残念だけど、失格だよ"
+        },
+        {
+          "scriptMessageId": "28941",
+          "speechCharactorId": "739",
+          "message": "そ、そんなー！"
+        },
+        {
+          "scriptMessageId": "28942",
+          "speechCharactorId": "739",
+          "message": "だあーっ！\r\n全然決着がつかねえってばよ！"
+        },
+        {
+          "scriptMessageId": "28943",
+          "speechCharactorId": "739",
+          "message": "しかも相変わらずちっこいままだしよ！\r\n一体どうなってるんだってばよ！？"
+        },
+        {
+          "scriptMessageId": "28944",
+          "speechCharactorId": "46",
+          "message": "そういえば、\r\nもうすぐ４周年っていうものが来るらしいけど、\r\nそれに関係があるのかもしれないね"
+        },
+        {
+          "scriptMessageId": "28945",
+          "speechCharactorId": "724",
+          "message": "ならば決着をつけ、その4周年とやらを迎えれば、\r\nオレ達も元に戻れるのではないか！？そうと決まれば\r\n話は早い！今度こそ全力で行くぞ、マダラ！"
+        },
+        {
+          "scriptMessageId": "28946",
+          "speechCharactorId": "739",
+          "message": "今度は引き分けじゃ済まさねえってばよ！\r\n行くぜ！　サスケ！！"
+        },
+        {
+          "scriptMessageId": "28947",
+          "speechCharactorId": "739",
+          "message": "さすがサスケ、ぜんぜん勝負がつかねえってばよ！"
+        },
+        {
+          "scriptMessageId": "28948",
+          "speechCharactorId": "724",
+          "message": "ガハハハ！さすがだなマダラ\r\n容易には決着はつくまいと思っていたが、\r\nここまでとは驚いたぞ！"
+        },
+        {
+          "scriptMessageId": "28949",
+          "speechCharactorId": "724",
+          "message": "決め手になるはオレ達の実力を超えたところにある要因かもしれぬぞ"
+        },
+        {
+          "scriptMessageId": "28950",
+          "speechCharactorId": "0",
+          "message": "無限月読…\r\n見たもの全てを夢に堕とす大幻術…"
+        },
+        {
+          "scriptMessageId": "28951",
+          "speechCharactorId": "0",
+          "message": "これはとある忍が夢みた\r\n無限に続く夢の世界"
+        },
+        {
+          "scriptMessageId": "28952",
+          "speechCharactorId": "726",
+          "message": "…なんだこの姿は。"
+        },
+        {
+          "scriptMessageId": "28953",
+          "speechCharactorId": "726",
+          "message": "まあいい。細かい話は後だ"
+        },
+        {
+          "scriptMessageId": "28954",
+          "speechCharactorId": "725",
+          "message": "いや、細かい話じゃない気がするが…？\r\nオレもお前もかなり小さくなってるぞ"
+        },
+        {
+          "scriptMessageId": "28955",
+          "speechCharactorId": "726",
+          "message": "そんなことより大事なことがある！\r\n今日こそ柱間を倒し、オレの方が強いことを証明する！"
+        },
+        {
+          "scriptMessageId": "28956",
+          "speechCharactorId": "726",
+          "message": "というわけで、行くぞ、若いの！\r\nうちはの力を見せつけてやるのだ！"
+        },
+        {
+          "scriptMessageId": "28957",
+          "speechCharactorId": "725",
+          "message": "…わかった"
+        },
+        {
+          "scriptMessageId": "28958",
+          "speechCharactorId": "726",
+          "message": "見つけたぞ柱間ァ！"
+        },
+        {
+          "scriptMessageId": "28959",
+          "speechCharactorId": "739",
+          "message": "…うわっ、いきなり何だ！？"
+        },
+        {
+          "scriptMessageId": "28960",
+          "speechCharactorId": "726",
+          "message": "お前も妙なことになっているようだな！\r\nちょうどいい！\r\n今日こそ決着をつけてやる！"
+        },
+        {
+          "scriptMessageId": "28961",
+          "speechCharactorId": "724",
+          "message": "ガハハハ！望むところぞ！"
+        },
+        {
+          "scriptMessageId": "28962",
+          "speechCharactorId": "739",
+          "message": "だけどよー、この状態でなんの対決するんだ？"
+        },
+        {
+          "scriptMessageId": "28963",
+          "speechCharactorId": "725",
+          "message": "…すでに勝負は始まっているようだぞ"
+        },
+        {
+          "scriptMessageId": "28964",
+          "speechCharactorId": "726",
+          "message": "オレの方が背が高い！"
+        },
+        {
+          "scriptMessageId": "28965",
+          "speechCharactorId": "724",
+          "message": "いやあ、オレの方がほんのちょっと…"
+        },
+        {
+          "scriptMessageId": "28966",
+          "speechCharactorId": "739",
+          "message": "まったく同じに見えるけどな…"
+        },
+        {
+          "scriptMessageId": "28967",
+          "speechCharactorId": "725",
+          "message": "微妙なところだが、おそらく引き分けだ"
+        },
+        {
+          "scriptMessageId": "28968",
+          "speechCharactorId": "726",
+          "message": "な、オレと柱間が、引き分け…だと！？"
+        },
+        {
+          "scriptMessageId": "28969",
+          "speechCharactorId": "726",
+          "message": "ええい！勝負は持ち越しだ！\r\n次の勝負で決着をつけてみせよう！"
+        },
+        {
+          "scriptMessageId": "28970",
+          "speechCharactorId": "725",
+          "message": "さすが伝説の忍…こんな状況でも動揺しないとは"
+        },
+        {
+          "scriptMessageId": "28971",
+          "speechCharactorId": "739",
+          "message": "元気だな、この人たち…"
+        },
+        {
+          "scriptMessageId": "28972",
+          "speechCharactorId": "726",
+          "message": "ふん、では次の勝負は忍としての実力が示せるものに\r\nする！どちらがこの森の木を多く切り倒せるか…\r\nというのはどうだ！？"
+        },
+        {
+          "scriptMessageId": "28973",
+          "speechCharactorId": "724",
+          "message": "面白そうぞ！"
+        },
+        {
+          "scriptMessageId": "28974",
+          "speechCharactorId": "726",
+          "message": "そんなことを言っていられるのも今のうちだ！\r\nいくぞ、うちは返し！！"
+        },
+        {
+          "scriptMessageId": "28975",
+          "speechCharactorId": "725",
+          "message": "あれほどの木を一瞬で…オレもやってやる\r\n火遁・豪火球の術！！"
+        },
+        {
+          "scriptMessageId": "28976",
+          "speechCharactorId": "725",
+          "message": "これがうちはの力だ"
+        },
+        {
+          "scriptMessageId": "28977",
+          "speechCharactorId": "726",
+          "message": "これならこちらの勝利は間違いないな"
+        },
+        {
+          "scriptMessageId": "28978",
+          "speechCharactorId": "46",
+          "message": "初代様にナルト…随分可愛い姿になってるけど…"
+        },
+        {
+          "scriptMessageId": "28979",
+          "speechCharactorId": "744",
+          "message": "兄さん…なんでそんな姿に？"
+        },
+        {
+          "scriptMessageId": "28980",
+          "speechCharactorId": "725",
+          "message": "…小さくなってるのはオレ達だけなのか！？"
+        },
+        {
+          "scriptMessageId": "28981",
+          "speechCharactorId": "726",
+          "message": "そんなことはどうでもいい、どちらが多く木を切り倒したか数えてもらおう！"
+        },
+        {
+          "scriptMessageId": "28982",
+          "speechCharactorId": "744",
+          "message": "数って…これだけ根こそぎにしたら、\r\nどっちが倒したものかなんてわからないな"
+        },
+        {
+          "scriptMessageId": "28983",
+          "speechCharactorId": "726",
+          "message": "まさか、今回も引き分けか？"
+        },
+        {
+          "scriptMessageId": "28984",
+          "speechCharactorId": "46",
+          "message": "じゃあ次は、借り物競争なんかどうかな？"
+        },
+        {
+          "scriptMessageId": "28985",
+          "speechCharactorId": "744",
+          "message": "この紙に書かれているものを取ってくるんだ"
+        },
+        {
+          "scriptMessageId": "28986",
+          "speechCharactorId": "726",
+          "message": "低俗な勝負だが…柱間に勝つためだ。受けて立とう"
+        },
+        {
+          "scriptMessageId": "28987",
+          "speechCharactorId": "725",
+          "message": "…こちらのチームの課題は…\r\n眼鏡の忍、か"
+        },
+        {
+          "scriptMessageId": "28988",
+          "speechCharactorId": "726",
+          "message": "ん？ちょうどいいところに眼鏡の忍がいるな\r\n一緒に来てもらうぞ！"
+        },
+        {
+          "scriptMessageId": "28989",
+          "speechCharactorId": "726",
+          "message": "連れてきたぞ、眼鏡の忍を"
+        },
+        {
+          "scriptMessageId": "28990",
+          "speechCharactorId": "46",
+          "message": "眼鏡、かけてないみたいだけど？"
+        },
+        {
+          "scriptMessageId": "28991",
+          "speechCharactorId": "725",
+          "message": "戦闘の勢いで吹き飛ばしてしまったようだな"
+        },
+        {
+          "scriptMessageId": "28992",
+          "speechCharactorId": "744",
+          "message": "兄さんには申し訳ないけど、これだと失格かな…\r\n向こうのチームも失格だから、勝負は次に持ち越しだね\r\n…あと、眼鏡はオレが探しておくよ"
+        },
+        {
+          "scriptMessageId": "28993",
+          "speechCharactorId": "726",
+          "message": "何だと！またしても引き分けか！？"
+        },
+        {
+          "scriptMessageId": "28994",
+          "speechCharactorId": "725",
+          "message": "ここまで全戦引き分けか…\r\n認めたくはないが、向こうもなかなかやるな"
+        },
+        {
+          "scriptMessageId": "28995",
+          "speechCharactorId": "725",
+          "message": "しかし、いつまでこの大きさのままなんだ\r\nまさかこのまま一生…とかじゃないだろうな！？"
+        },
+        {
+          "scriptMessageId": "28996",
+          "speechCharactorId": "744",
+          "message": "噂によるともうすぐ４周年とやらが来るらしいが、\r\nそれに関係がある現象かもしれないな"
+        },
+        {
+          "scriptMessageId": "28997",
+          "speechCharactorId": "744",
+          "message": "４周年を迎える特別な忍として、\r\n兄さん達は選ばれたのかもしれない"
+        },
+        {
+          "scriptMessageId": "28998",
+          "speechCharactorId": "726",
+          "message": "オレ達だけが小さくなったのは、4周年を前に決着をつけろという事か…\r\nしかし、三戦全て引き分けでは意味がない…"
+        },
+        {
+          "scriptMessageId": "28999",
+          "speechCharactorId": "726",
+          "message": "こうなったら直接対決だ！\r\n柱間！どちらが強いか、確かめる時！"
+        },
+        {
+          "scriptMessageId": "29000",
+          "speechCharactorId": "726",
+          "message": "くっ…さすがだな、柱間…"
+        },
+        {
+          "scriptMessageId": "29001",
+          "speechCharactorId": "725",
+          "message": "すぐに終わらせるつもりだったが、長期戦になるかもしれないな"
+        },
+        {
+          "scriptMessageId": "29002",
+          "speechCharactorId": "726",
+          "message": "オレ達の意志を超えたところに、勝負の行く末がかかっているのかもしれん"
+        },
+        {
           "scriptMessageId": "40001",
           "speechCharactorId": "178",
           "message": "絶望しかないこの世界に\r\n存在する価値はない"
@@ -105926,7 +106461,7 @@
         {
           "scriptMessageId": "202969",
           "speechCharactorId": "110",
-          "message": "次回…不死の破壊者の章・中篇"
+          "message": "次回…不死の破壊者の章・後篇"
         },
         {
           "scriptMessageId": "202970",

@@ -6495,6 +6495,22 @@
           "name": "単体攻撃＋？"
         },
         {
+          "cardBattleSkillNameId": "21100",
+          "name": "シャリシャリシャリシャリ"
+        },
+        {
+          "cardBattleSkillNameId": "21101",
+          "name": "キーーーーーーン！"
+        },
+        {
+          "cardBattleSkillNameId": "21110",
+          "name": "パタパタ…"
+        },
+        {
+          "cardBattleSkillNameId": "21111",
+          "name": "わっしょい！わっしょい！"
+        },
+        {
           "cardBattleSkillNameId": "30000",
           "name": "強化（攻撃力）"
         },

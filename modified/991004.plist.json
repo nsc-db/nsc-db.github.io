@@ -4307,6 +4307,48 @@
           "speechCharactorName": "はたけカカシ"
         },
         {
+          "speechCharactorId": "724",
+          "cardId": "20040404",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "千手柱間"
+        },
+        {
+          "speechCharactorId": "725",
+          "cardId": "20040314",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはサスケ"
+        },
+        {
+          "speechCharactorId": "726",
+          "cardId": "20040405",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはマダラ"
+        },
+        {
+          "speechCharactorId": "729",
+          "cardId": "21000329",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちわ（２本組）"
+        },
+        {
+          "speechCharactorId": "733",
+          "cardId": "733",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "かき氷（レインボー）"
+        },
+        {
+          "speechCharactorId": "739",
+          "cardId": "20040213",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うずまきナルト"
+        },
+        {
+          "speechCharactorId": "744",
+          "cardId": "20040208",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはイズナ"
+        },
+        {
           "speechCharactorId": "1000",
           "cardId": "21000091",
           "speechCharactorImgId": "1000",
