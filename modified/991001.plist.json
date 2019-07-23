@@ -106774,6 +106774,2046 @@
           "message": "オレ達が第十班のチームだった事を\r\n忘れないようにな！"
         },
         {
+          "scriptMessageId": "203032",
+          "speechCharactorId": "304",
+          "message": "アスマ叔父ちゃん…"
+        },
+        {
+          "scriptMessageId": "203033",
+          "speechCharactorId": "695",
+          "message": "…アスマ………"
+        },
+        {
+          "scriptMessageId": "203034",
+          "speechCharactorId": "164",
+          "message": "シカマルはどこ？"
+        },
+        {
+          "scriptMessageId": "203035",
+          "speechCharactorId": "165",
+          "message": "家に寄ったらもう出かけたって\r\nおばちゃん言ってたのに…"
+        },
+        {
+          "scriptMessageId": "203036",
+          "speechCharactorId": "31",
+          "message": "………"
+        },
+        {
+          "scriptMessageId": "203037",
+          "speechCharactorId": "31",
+          "message": "オレがもっと良い作戦を\r\n思いついていれば…"
+        },
+        {
+          "scriptMessageId": "203038",
+          "speechCharactorId": "31",
+          "message": "アスマは\r\n死なずに済んだかもしれねェ"
+        },
+        {
+          "scriptMessageId": "203039",
+          "speechCharactorId": "31",
+          "message": "………"
+        },
+        {
+          "scriptMessageId": "203040",
+          "speechCharactorId": "31",
+          "message": "もう… \r\n面倒くせェとか… \r\n言ってられねェよなアスマ…"
+        },
+        {
+          "scriptMessageId": "203041",
+          "speechCharactorId": "31",
+          "message": "………フッ！"
+        },
+        {
+          "scriptMessageId": "203042",
+          "speechCharactorId": "31",
+          "message": "…よし…"
+        },
+        {
+          "scriptMessageId": "203043",
+          "speechCharactorId": "164",
+          "message": "準備出来た？"
+        },
+        {
+          "scriptMessageId": "203044",
+          "speechCharactorId": "165",
+          "message": "行くよシカマル！"
+        },
+        {
+          "scriptMessageId": "203045",
+          "speechCharactorId": "323",
+          "message": "待て！\r\nどこへ行く気だ？"
+        },
+        {
+          "scriptMessageId": "203046",
+          "speechCharactorId": "31",
+          "message": "任務命令は継続中っすよね…\r\nオレらは新しく隊を編成して\r\nこれから任務に向かうとこっすよ"
+        },
+        {
+          "scriptMessageId": "203047",
+          "speechCharactorId": "323",
+          "message": "身勝手な行動は許さん！\r\nお前はこちらで再編成した\r\n小隊に組み込む"
+        },
+        {
+          "scriptMessageId": "203048",
+          "speechCharactorId": "31",
+          "message": "後で増援送ってくれればいいっすよ\r\nいのとチョウジとオレの線で\r\nすでに作戦も立ててありますから"
+        },
+        {
+          "scriptMessageId": "203049",
+          "speechCharactorId": "323",
+          "message": "いい加減にしろ！！\r\nアスマは死んだ\r\n隊長のいないお前らに…"
+        },
+        {
+          "scriptMessageId": "203050",
+          "speechCharactorId": "31",
+          "message": "アスマはオレ達と共にいる"
+        },
+        {
+          "scriptMessageId": "203051",
+          "speechCharactorId": "323",
+          "message": "弔い合戦でもするつもりか！\r\nお前らしくもない…\r\n犬死にしたいのか！"
+        },
+        {
+          "scriptMessageId": "203052",
+          "speechCharactorId": "31",
+          "message": "このまま逃げて\r\n筋を通さねェまま生きてくような…\r\nそういうめんどくせー生き方も\r\nしたくねーんすよ"
+        },
+        {
+          "scriptMessageId": "203053",
+          "speechCharactorId": "323",
+          "message": "現実を見ろ\r\nお前らは三人だ…"
+        },
+        {
+          "scriptMessageId": "203054",
+          "speechCharactorId": "695",
+          "message": "小隊は四人いればいいですよね"
+        },
+        {
+          "scriptMessageId": "203055",
+          "speechCharactorId": "695",
+          "message": "第十班には\r\nオレが隊長として同行します\r\nムチャはさせませんから"
+        },
+        {
+          "scriptMessageId": "203056",
+          "speechCharactorId": "323",
+          "message": "……分かった…好きにしろ！"
+        },
+        {
+          "scriptMessageId": "203057",
+          "speechCharactorId": "31",
+          "message": "ナルトはいいんすか？\r\nカカシ先生"
+        },
+        {
+          "scriptMessageId": "203058",
+          "speechCharactorId": "695",
+          "message": "なーに…オレはもう\r\nアイツにとっちゃ用済みだ\r\nま！それに今は\r\n別の隊長も付いてるしな"
+        },
+        {
+          "scriptMessageId": "203059",
+          "speechCharactorId": "695",
+          "message": "それじゃ、アスマ班行きますか！"
+        },
+        {
+          "scriptMessageId": "203060",
+          "speechCharactorId": "31",
+          "message": "じゃ…このカプセル\r\n隙を見て使って下さい\r\n渡しておきます"
+        },
+        {
+          "scriptMessageId": "203061",
+          "speechCharactorId": "695",
+          "message": "入ったばかりのオレに合わせて\r\nすぐに作戦を再構築するとはね…\r\n大した奴だ"
+        },
+        {
+          "scriptMessageId": "203062",
+          "speechCharactorId": "31",
+          "message": "作戦を頭に入れたら\r\nシミュレーションを頭の中で\r\n三回以上やっといてくれ"
+        },
+        {
+          "scriptMessageId": "203063",
+          "speechCharactorId": "31",
+          "message": "イメージトレーニングを\r\nやるやらないじゃ\r\n作戦成功率がまるで違うからな"
+        },
+        {
+          "scriptMessageId": "203064",
+          "speechCharactorId": "165",
+          "message": "うん！"
+        },
+        {
+          "scriptMessageId": "203065",
+          "speechCharactorId": "164",
+          "message": "オッケー！"
+        },
+        {
+          "scriptMessageId": "203066",
+          "speechCharactorId": "33",
+          "message": "飛段…"
+        },
+        {
+          "scriptMessageId": "203067",
+          "speechCharactorId": "135",
+          "message": "ああ…"
+        },
+        {
+          "scriptMessageId": "203068",
+          "speechCharactorId": "33",
+          "message": "起爆札か！"
+        },
+        {
+          "scriptMessageId": "203069",
+          "speechCharactorId": "135",
+          "message": "角都！"
+        },
+        {
+          "scriptMessageId": "203070",
+          "speechCharactorId": "33",
+          "message": "腕を硬化した、怪我は無い！\r\nそれより影には気を付けておけ…"
+        },
+        {
+          "scriptMessageId": "203071",
+          "speechCharactorId": "135",
+          "message": "ハッ！\r\n何度も同じ手を食らうかよ！"
+        },
+        {
+          "scriptMessageId": "203072",
+          "speechCharactorId": "33",
+          "message": "飛段、上だ！\r\nまた起爆札だぞ！"
+        },
+        {
+          "scriptMessageId": "203073",
+          "speechCharactorId": "135",
+          "message": "くっ！――起爆しない！？"
+        },
+        {
+          "scriptMessageId": "203074",
+          "speechCharactorId": "33",
+          "message": "やられたな…"
+        },
+        {
+          "scriptMessageId": "203075",
+          "speechCharactorId": "31",
+          "message": "影真似手裏剣の術…成功"
+        },
+        {
+          "scriptMessageId": "203076",
+          "speechCharactorId": "31",
+          "message": "オレが投げたそいつはチャクラ刀だ\r\n使用者のチャクラの性質を吸収して\r\n使用者の術に基づく効果を発揮する"
+        },
+        {
+          "scriptMessageId": "203077",
+          "speechCharactorId": "31",
+          "message": "つまりオレは初めからアンタらの \r\n影を狙って撃ったのさ！"
+        },
+        {
+          "scriptMessageId": "203078",
+          "speechCharactorId": "33",
+          "message": "こいつ…かなりの切れ者"
+        },
+        {
+          "scriptMessageId": "203079",
+          "speechCharactorId": "135",
+          "message": "てめーまで捕まってどーすんだよ\r\n角都！オイ！オイ！オイ！\r\nこりゃハッキリ言って\r\nマズいんじゃねーのかァ！？"
+        },
+        {
+          "scriptMessageId": "203080",
+          "speechCharactorId": "31",
+          "message": "今度は狙う順番を間違えないからよ"
+        },
+        {
+          "scriptMessageId": "203081",
+          "speechCharactorId": "713",
+          "message": "こ…これほどとは…"
+        },
+        {
+          "scriptMessageId": "203082",
+          "speechCharactorId": "27",
+          "message": "もうちょいで完成だってばよ！！\r\n…これで…サスケに追いつける"
+        },
+        {
+          "scriptMessageId": "203083",
+          "speechCharactorId": "713",
+          "message": "確かにね…ただし…サスケの使う\r\n“火”の性質変化には気をつけろ"
+        },
+        {
+          "scriptMessageId": "203084",
+          "speechCharactorId": "713",
+          "message": "そろそろ“五大性質変化”の\r\n優劣関係について\r\n説明しておいた方がいいね…"
+        },
+        {
+          "scriptMessageId": "203085",
+          "speechCharactorId": "27",
+          "message": "ユウレツ…？"
+        },
+        {
+          "scriptMessageId": "203086",
+          "speechCharactorId": "713",
+          "message": "五つの“火”“水”“土”“雷”“風”の\r\n性質変化はそれぞれ優劣の\r\n関係を持ちつながっているのさ"
+        },
+        {
+          "scriptMessageId": "203087",
+          "speechCharactorId": "713",
+          "message": "簡単に言うとだ\r\nナルト、お前の風遁の術は\r\nサスケの火遁の術に\r\n負けてしまう関係性にあるって事だ"
+        },
+        {
+          "scriptMessageId": "203088",
+          "speechCharactorId": "713",
+          "message": "火は風を受けると\r\nさらに激しく燃え上がる"
+        },
+        {
+          "scriptMessageId": "203089",
+          "speechCharactorId": "713",
+          "message": "つまりサスケの火遁の術に\r\n同等レベルの風遁の術をぶつければ\r\nさらにデカい火遁になって\r\n返ってくるわけだ"
+        },
+        {
+          "scriptMessageId": "203090",
+          "speechCharactorId": "713",
+          "message": "ただし…“風”は確かに“火”には弱いが \r\n“雷”には強い"
+        },
+        {
+          "scriptMessageId": "203091",
+          "speechCharactorId": "713",
+          "message": "つまりお前の新術はサスケの雷遁…\r\n“千鳥”に強いって事だ！\r\nナルト…お前“土”の性質変化\r\nじゃなくて良かったな"
+        },
+        {
+          "scriptMessageId": "203092",
+          "speechCharactorId": "27",
+          "message": "…オレってばサスケとの\r\n相性良かったんだな…"
+        },
+        {
+          "scriptMessageId": "203093",
+          "speechCharactorId": "713",
+          "message": "…ああ…“雷”に勝てるのは“風”だけだ"
+        },
+        {
+          "scriptMessageId": "203094",
+          "speechCharactorId": "27",
+          "message": "イヤそっちじゃなくて…"
+        },
+        {
+          "scriptMessageId": "203095",
+          "speechCharactorId": "27",
+          "message": "“火”を助けてさらに大きな力に\r\n出来るのは“風”の力だけ\r\nだって事だよ"
+        },
+        {
+          "scriptMessageId": "203096",
+          "speechCharactorId": "713",
+          "message": "…ああ…そうだな"
+        },
+        {
+          "scriptMessageId": "203097",
+          "speechCharactorId": "695",
+          "message": "“土”は“雷”に弱い…相性が悪かったな"
+        },
+        {
+          "scriptMessageId": "203098",
+          "speechCharactorId": "695",
+          "message": "終わりだ"
+        },
+        {
+          "scriptMessageId": "203099",
+          "speechCharactorId": "165",
+          "message": "さすがカカシ先生！！"
+        },
+        {
+          "scriptMessageId": "203100",
+          "speechCharactorId": "31",
+          "message": "ああ、不死身じゃない方を\r\n先にやっておかないと厄介だからな…"
+        },
+        {
+          "scriptMessageId": "203101",
+          "speechCharactorId": "164",
+          "message": "やっぱりスゴいカカシ先生は！\r\nこれであともう一人！"
+        },
+        {
+          "scriptMessageId": "203102",
+          "speechCharactorId": "33",
+          "message": "ぐっ…"
+        },
+        {
+          "scriptMessageId": "203103",
+          "speechCharactorId": "135",
+          "message": "心臓を一突きかよ！"
+        },
+        {
+          "scriptMessageId": "203104",
+          "speechCharactorId": "135",
+          "message": "いきなりやられてんじゃねーよ！ったく…"
+        },
+        {
+          "scriptMessageId": "203105",
+          "speechCharactorId": "695",
+          "message": "次はお前だ"
+        },
+        {
+          "scriptMessageId": "203106",
+          "speechCharactorId": "135",
+          "message": "チィ…"
+        },
+        {
+          "scriptMessageId": "203107",
+          "speechCharactorId": "695",
+          "message": "ぐはァ！！"
+        },
+        {
+          "scriptMessageId": "203108",
+          "speechCharactorId": "164",
+          "message": "えっ…生きてる！？"
+        },
+        {
+          "scriptMessageId": "203109",
+          "speechCharactorId": "33",
+          "message": "………フン"
+        },
+        {
+          "scriptMessageId": "203110",
+          "speechCharactorId": "135",
+          "message": "ヘヘ…かっこつけて“終わりだ”\r\nとかって言ってたのになァ"
+        },
+        {
+          "scriptMessageId": "203111",
+          "speechCharactorId": "695",
+          "message": "どういう事だ？\r\n急所はハズしてないはず…"
+        },
+        {
+          "scriptMessageId": "203112",
+          "speechCharactorId": "135",
+          "message": "よっしゃ！\r\nさっさとケリつけようぜェ！！"
+        },
+        {
+          "scriptMessageId": "203113",
+          "speechCharactorId": "33",
+          "message": "そのつもりだ"
+        },
+        {
+          "scriptMessageId": "203114",
+          "speechCharactorId": "33",
+          "message": "ぐっ…\r\nぅオオォオオオ！"
+        },
+        {
+          "scriptMessageId": "203115",
+          "speechCharactorId": "165",
+          "message": "な…何なのあの黒いの！？\r\n何で死なないのアイツ！？"
+        },
+        {
+          "scriptMessageId": "203116",
+          "speechCharactorId": "31",
+          "message": "さあな…けどあいつら相手じゃ\r\n少々の事じゃ\r\n驚かなくなってきたぜ…\r\n影真似も限界だ…"
+        },
+        {
+          "scriptMessageId": "203117",
+          "speechCharactorId": "135",
+          "message": "やっと動けるぜ…"
+        },
+        {
+          "scriptMessageId": "203118",
+          "speechCharactorId": "135",
+          "message": "さて…じゃ、殺るか角都"
+        },
+        {
+          "scriptMessageId": "203119",
+          "speechCharactorId": "164",
+          "message": "な、何アレ…\r\nすごく嫌なチャクラの感じ…！"
+        },
+        {
+          "scriptMessageId": "203120",
+          "speechCharactorId": "135",
+          "message": "ジャシン様見てて下さいよォォ！\r\nオレ、本気出すから！マジ本気！\r\n腸とか引きずりだすからァよォォ！！"
+        },
+        {
+          "scriptMessageId": "203121",
+          "speechCharactorId": "165",
+          "message": "何だ？\r\nアイツの体から出てきた黒いのの\r\n一匹が溶けちゃったけど…"
+        },
+        {
+          "scriptMessageId": "203122",
+          "speechCharactorId": "135",
+          "message": "角都ー！！\r\nオイ！オイ！オイ！タンカきった側から\r\nいきなり一匹死んでんじゃねーかよ！\r\nかっこつかねーなァオイ！"
+        },
+        {
+          "scriptMessageId": "203123",
+          "speechCharactorId": "695",
+          "message": "…奴の体から出てきた面が\r\n一つ斃れたって事は…\r\nさっきの雷切で仕留めたのは\r\nあの面ってワケか…"
+        },
+        {
+          "scriptMessageId": "203124",
+          "speechCharactorId": "33",
+          "message": "飛段、少し下がってろ\r\nここはオレがやる"
+        },
+        {
+          "scriptMessageId": "203125",
+          "speechCharactorId": "135",
+          "message": "ちょっ…待て！待て！\r\nさっきからずっとやられっぱなしで\r\nイライラしてんだぜオレは…"
+        },
+        {
+          "scriptMessageId": "203126",
+          "speechCharactorId": "135",
+          "message": "いつものでいこうぜ"
+        },
+        {
+          "scriptMessageId": "203127",
+          "speechCharactorId": "33",
+          "message": "フン"
+        },
+        {
+          "scriptMessageId": "203128",
+          "speechCharactorId": "695",
+          "message": "シカマル…どう闘う？"
+        },
+        {
+          "scriptMessageId": "203129",
+          "speechCharactorId": "31",
+          "message": "あいつら二人を二手に\r\n引き離して戦うのが得策っスね\r\nそしてあと四回殺せば\r\n倒れる方を先に集中攻撃…"
+        },
+        {
+          "scriptMessageId": "203130",
+          "speechCharactorId": "695",
+          "message": "あの飛段って奴を\r\n足留めする役が必要ってわけか…"
+        },
+        {
+          "scriptMessageId": "203131",
+          "speechCharactorId": "164",
+          "message": "私がやる\r\n私が今、一番チャクラを温存してるし\r\nそれに単純な戦闘じゃ\r\n役に立てないから…心転身の術で…"
+        },
+        {
+          "scriptMessageId": "203132",
+          "speechCharactorId": "31",
+          "message": "ダメだ、心転身はそもそもオレの\r\n影真似で相手の動きを止めてから\r\n使う連携術だぞ…リスクが高すぎる"
+        },
+        {
+          "scriptMessageId": "203133",
+          "speechCharactorId": "31",
+          "message": "オレがやる\r\n影真似で縛ってからここを移動する"
+        },
+        {
+          "scriptMessageId": "203134",
+          "speechCharactorId": "695",
+          "message": "だが、どうやって縛るかだな…\r\nどちらにしろ陽動は要るぞ"
+        },
+        {
+          "scriptMessageId": "203135",
+          "speechCharactorId": "165",
+          "message": "ならその陽動役はボクがやる"
+        },
+        {
+          "scriptMessageId": "203136",
+          "speechCharactorId": "31",
+          "message": "それもダメだ、奴の攻撃を少しでも受け\r\n血を採られたら終わりなんだぞ\r\nこっちから近付いて\r\n攻撃すること自体ズレてる"
+        },
+        {
+          "scriptMessageId": "203137",
+          "speechCharactorId": "31",
+          "message": "チョウジ、お前はカカシ先生と一緒に\r\nマスクの奴をやる為にチャクラを温存しとけ"
+        },
+        {
+          "scriptMessageId": "203138",
+          "speechCharactorId": "135",
+          "message": "さっきから何コソコソ話してる！？\r\nそろそろいくぜ！"
+        },
+        {
+          "scriptMessageId": "203139",
+          "speechCharactorId": "31",
+          "message": "あいつはオレ一人で捕まえる\r\nそしてあの役はオレがやる…"
+        },
+        {
+          "scriptMessageId": "203140",
+          "speechCharactorId": "695",
+          "message": "分かった…シカマルに任せよう\r\nシカマル…コレを…"
+        },
+        {
+          "scriptMessageId": "203141",
+          "speechCharactorId": "31",
+          "message": "……ああ"
+        },
+        {
+          "scriptMessageId": "203142",
+          "speechCharactorId": "33",
+          "message": "ん…！？"
+        },
+        {
+          "scriptMessageId": "203143",
+          "speechCharactorId": "31",
+          "message": "影真似の術！"
+        },
+        {
+          "scriptMessageId": "203144",
+          "speechCharactorId": "135",
+          "message": "またそれか！\r\nオレの鎌と能力が怖いか！？アァ！！？"
+        },
+        {
+          "scriptMessageId": "203145",
+          "speechCharactorId": "135",
+          "message": "離れたとこからコソコソと情けねェ！！"
+        },
+        {
+          "scriptMessageId": "203146",
+          "speechCharactorId": "135",
+          "message": "遅いぜ！\r\n影にだけ注意してりゃ\r\nこんな術はくだらねェ！"
+        },
+        {
+          "scriptMessageId": "203147",
+          "speechCharactorId": "31",
+          "message": "離れたとこからコソコソだけじゃねーぜ"
+        },
+        {
+          "scriptMessageId": "203148",
+          "speechCharactorId": "135",
+          "message": "何ィ！？"
+        },
+        {
+          "scriptMessageId": "203149",
+          "speechCharactorId": "31",
+          "message": "影真似の術…成功"
+        },
+        {
+          "scriptMessageId": "203150",
+          "speechCharactorId": "135",
+          "message": "…コノヤロー…"
+        },
+        {
+          "scriptMessageId": "203151",
+          "speechCharactorId": "695",
+          "message": "行けシカマル！"
+        },
+        {
+          "scriptMessageId": "203152",
+          "speechCharactorId": "135",
+          "message": "角都とオレを離す気か？"
+        },
+        {
+          "scriptMessageId": "203153",
+          "speechCharactorId": "31",
+          "message": "二人っきりで楽しい散歩と行こうぜ"
+        },
+        {
+          "scriptMessageId": "203154",
+          "speechCharactorId": "33",
+          "message": "…誰も付いて行かなくていいのか？\r\n飛段を見くびりすぎだ"
+        },
+        {
+          "scriptMessageId": "203155",
+          "speechCharactorId": "33",
+          "message": "あのシカマルとか言う若造… \r\n高値の賞金首になっただろーに"
+        },
+        {
+          "scriptMessageId": "203156",
+          "speechCharactorId": "33",
+          "message": "今日で死ぬぞ"
+        },
+        {
+          "scriptMessageId": "203157",
+          "speechCharactorId": "33",
+          "message": "だが、お前らの判断は…\r\n正しかったな\r\nオレは…強い…"
+        },
+        {
+          "scriptMessageId": "203158",
+          "speechCharactorId": "33",
+          "message": "お前達とオレとでは\r\n戦闘経験に差がありすぎる…"
+        },
+        {
+          "scriptMessageId": "203159",
+          "speechCharactorId": "33",
+          "message": "お前らの額当てを見ると\r\n一番最初に闘った\r\n木ノ葉の忍を思い出す…"
+        },
+        {
+          "scriptMessageId": "203160",
+          "speechCharactorId": "33",
+          "message": "初代火影をな"
+        },
+        {
+          "scriptMessageId": "203161",
+          "speechCharactorId": "164",
+          "message": "いったい何歳なのこいつ…！？"
+        },
+        {
+          "scriptMessageId": "203162",
+          "speechCharactorId": "695",
+          "message": "…本当の不死か…"
+        },
+        {
+          "scriptMessageId": "203163",
+          "speechCharactorId": "33",
+          "message": "いや…そんなものはこの世に存在しない"
+        },
+        {
+          "scriptMessageId": "203164",
+          "speechCharactorId": "33",
+          "message": "己の心臓が寿命で止まる前に\r\n他人の心臓を奪い\r\nストックし続ける事で"
+        },
+        {
+          "scriptMessageId": "203165",
+          "speechCharactorId": "33",
+          "message": "どうにか生き長らえてきただけだ\r\nより強い忍の心臓を\r\n生きたまま抜き取ってな"
+        },
+        {
+          "scriptMessageId": "203166",
+          "speechCharactorId": "33",
+          "message": "オレのストックしておける心臓は\r\n己の含め五つ"
+        },
+        {
+          "scriptMessageId": "203167",
+          "speechCharactorId": "33",
+          "message": "カカシ…お前に減らされた分は \r\nお前の心臓をいただく"
+        },
+        {
+          "scriptMessageId": "203168",
+          "speechCharactorId": "33",
+          "message": "くっ…\r\nま…まさか…"
+        },
+        {
+          "scriptMessageId": "203169",
+          "speechCharactorId": "695",
+          "message": "ああ、そのまさかだ…\r\nお前の相方の儀式に\r\nお前自身の血を利用したのさ…"
+        },
+        {
+          "scriptMessageId": "203170",
+          "speechCharactorId": "31",
+          "message": "じゃ…このカプセル\r\n隙を見て使って下さい\r\n渡しておきます"
+        },
+        {
+          "scriptMessageId": "203171",
+          "speechCharactorId": "695",
+          "message": "シカマルには奴が血を利用する\r\n能力があると分かってたからな\r\nあらかじめ血液用カプセルを\r\n用意してたんだよ"
+        },
+        {
+          "scriptMessageId": "203172",
+          "speechCharactorId": "695",
+          "message": "オレの雷切で穴を開けた時に\r\n一緒にお前の血をいただいたのさ"
+        },
+        {
+          "scriptMessageId": "203173",
+          "speechCharactorId": "33",
+          "message": "バカな…\r\nあの若造…そこまで…"
+        },
+        {
+          "scriptMessageId": "203174",
+          "speechCharactorId": "695",
+          "message": "お前らこそシカマルをみくびりすぎだ\r\nアスマが命と引き換えに残した情報を\r\nアイツが無駄にする訳がない"
+        },
+        {
+          "scriptMessageId": "203175",
+          "speechCharactorId": "695",
+          "message": "何のためらいもなく、人の命を\r\n奪ってきたお前たちには\r\nあいつの気持ちは\r\nわからないだろうな…ぐっ！"
+        },
+        {
+          "scriptMessageId": "203176",
+          "speechCharactorId": "164",
+          "message": "ゆっくり！\r\n血管を傷つけないように！\r\nすぐに医療忍術で手当てします"
+        },
+        {
+          "scriptMessageId": "203177",
+          "speechCharactorId": "695",
+          "message": "手当ては後だ！\r\n残りの化け物が来るぞ！"
+        },
+        {
+          "scriptMessageId": "203178",
+          "speechCharactorId": "165",
+          "message": "倍化の術！！\r\n超張り手！！"
+        },
+        {
+          "scriptMessageId": "203179",
+          "speechCharactorId": "164",
+          "message": "やるー！\r\nいいぞチョウジ！"
+        },
+        {
+          "scriptMessageId": "203180",
+          "speechCharactorId": "695",
+          "message": "しまった！逃したぞ！"
+        },
+        {
+          "scriptMessageId": "203181",
+          "speechCharactorId": "164",
+          "message": "生き返った…"
+        },
+        {
+          "scriptMessageId": "203182",
+          "speechCharactorId": "695",
+          "message": "化け物の心臓を\r\n全て取り込んだんだ…\r\n本体も、まんま化け物だな…"
+        },
+        {
+          "scriptMessageId": "203183",
+          "speechCharactorId": "33",
+          "message": "オレの心臓を二つも…\r\n久方振りだぞ…それは…"
+        },
+        {
+          "scriptMessageId": "203184",
+          "speechCharactorId": "695",
+          "message": "くっ…速い！"
+        },
+        {
+          "scriptMessageId": "203185",
+          "speechCharactorId": "33",
+          "message": "はたけカカシ…お前で\r\n失った心臓の補充をするつもりだったが\r\n気が変わった"
+        },
+        {
+          "scriptMessageId": "203186",
+          "speechCharactorId": "33",
+          "message": "心臓の補充など…\r\n別にいつでもできるからな\r\n死ね…！"
+        },
+        {
+          "scriptMessageId": "203187",
+          "speechCharactorId": "27",
+          "message": "風遁・螺旋丸！！"
+        },
+        {
+          "scriptMessageId": "203188",
+          "speechCharactorId": "713",
+          "message": "水遁・破奔流！！"
+        },
+        {
+          "scriptMessageId": "203189",
+          "speechCharactorId": "27",
+          "message": "颶風水渦の術！！"
+        },
+        {
+          "scriptMessageId": "203190",
+          "speechCharactorId": "27",
+          "message": "遅くなって済まねーってばよ"
+        },
+        {
+          "scriptMessageId": "203191",
+          "speechCharactorId": "695",
+          "message": "フーー…\r\nいいタイミングだ"
+        },
+        {
+          "scriptMessageId": "203192",
+          "speechCharactorId": "713",
+          "message": "こんなカッコ悪い先輩は\r\n初めて見ましたよ…\r\nこの敵…相当強いですね…"
+        },
+        {
+          "scriptMessageId": "203193",
+          "speechCharactorId": "33",
+          "message": "…またおかしなのが来たな…\r\nすでにボロボロとは…"
+        },
+        {
+          "scriptMessageId": "203194",
+          "speechCharactorId": "27",
+          "message": "シカマルは？"
+        },
+        {
+          "scriptMessageId": "203195",
+          "speechCharactorId": "165",
+          "message": "もう一人の敵と別の場所で戦ってる"
+        },
+        {
+          "scriptMessageId": "203196",
+          "speechCharactorId": "695",
+          "message": "シカマル側にも二人向かってくれ\r\n遠距離タイプと医療タイプがいい…"
+        },
+        {
+          "scriptMessageId": "203197",
+          "speechCharactorId": "130",
+          "message": "拙者に任せろ！"
+        },
+        {
+          "scriptMessageId": "203198",
+          "speechCharactorId": "713",
+          "message": "よし！\r\nサイとサクラはパックンの誘導に従い\r\nシカマルの援護に向かえ"
+        },
+        {
+          "scriptMessageId": "203199",
+          "speechCharactorId": "33",
+          "message": "クク…烏合の衆が何をする…\r\n抜き取る心臓の\r\nバリエーションが増えただけだな…"
+        },
+        {
+          "scriptMessageId": "203200",
+          "speechCharactorId": "27",
+          "message": "こっからはオレがやるってばよ…"
+        },
+        {
+          "scriptMessageId": "203201",
+          "speechCharactorId": "695",
+          "message": "…完成…したのか…？"
+        },
+        {
+          "scriptMessageId": "203202",
+          "speechCharactorId": "713",
+          "message": "いえ……\r\n五割程度です"
+        },
+        {
+          "scriptMessageId": "203203",
+          "speechCharactorId": "713",
+          "message": "……けど…\r\nまあ見てて下さい\r\n以前のナルトとは別人ですよ！"
+        },
+        {
+          "scriptMessageId": "203204",
+          "speechCharactorId": "135",
+          "message": "逃がさねーってか…\r\nケッ！"
+        },
+        {
+          "scriptMessageId": "203205",
+          "speechCharactorId": "135",
+          "message": "この影技、五分程度が限界なんだろ…\r\nそして二人きり…"
+        },
+        {
+          "scriptMessageId": "203206",
+          "speechCharactorId": "135",
+          "message": "そりゃこっちも好都合なんだよ \r\nバカがァァ！！"
+        },
+        {
+          "scriptMessageId": "203207",
+          "speechCharactorId": "31",
+          "message": "ぐはっ…"
+        },
+        {
+          "scriptMessageId": "203208",
+          "speechCharactorId": "32",
+          "message": "条件は整った…\r\nこの時を待ってたぜ…"
+        },
+        {
+          "scriptMessageId": "203209",
+          "speechCharactorId": "32",
+          "message": "死ね！"
+        },
+        {
+          "scriptMessageId": "203210",
+          "speechCharactorId": "25",
+          "message": "そういや… \r\n“玉”のあの話…"
+        },
+        {
+          "scriptMessageId": "203211",
+          "speechCharactorId": "25",
+          "message": "アレが誰だか…教えてやる…\r\n耳貸せ…"
+        },
+        {
+          "scriptMessageId": "203212",
+          "speechCharactorId": "25",
+          "message": "…頼んだぞ………シカマル…"
+        },
+        {
+          "scriptMessageId": "203213",
+          "speechCharactorId": "32",
+          "message": "ケッ…くだらねェ…これじゃあ\r\nジャシン様もガッカリだぜ"
+        },
+        {
+          "scriptMessageId": "203214",
+          "speechCharactorId": "32",
+          "message": "さて角都の方もさすがに\r\nもう終わってんだろ\r\n行くか…"
+        },
+        {
+          "scriptMessageId": "203215",
+          "speechCharactorId": "135",
+          "message": "ん！？"
+        },
+        {
+          "scriptMessageId": "203216",
+          "speechCharactorId": "135",
+          "message": "…てめェ…何で…生きてる…？"
+        },
+        {
+          "scriptMessageId": "203217",
+          "speechCharactorId": "31",
+          "message": "オレはやられたフリをしてただけだ…"
+        },
+        {
+          "scriptMessageId": "203218",
+          "speechCharactorId": "31",
+          "message": "お前の武器に付着している血は \r\nオレのじゃない… \r\nアンタの相方の血だ"
+        },
+        {
+          "scriptMessageId": "203219",
+          "speechCharactorId": "135",
+          "message": "どういうことだ！？"
+        },
+        {
+          "scriptMessageId": "203220",
+          "speechCharactorId": "31",
+          "message": "誰でもいい…\r\nチャンスがあれば角都って\r\n奴の血を抜き取る…"
+        },
+        {
+          "scriptMessageId": "203221",
+          "speechCharactorId": "31",
+          "message": "このカプセルの中にな…"
+        },
+        {
+          "scriptMessageId": "203222",
+          "speechCharactorId": "31",
+          "message": "そしてそれを受け取ったオレが…\r\nアンタをハメる役…\r\nそれがこっちの作戦だったのさ"
+        },
+        {
+          "scriptMessageId": "203223",
+          "speechCharactorId": "135",
+          "message": "ヤロー…"
+        },
+        {
+          "scriptMessageId": "203224",
+          "speechCharactorId": "135",
+          "message": "こう何度も同じ術にかかってりゃ…\r\nバカでもその特徴が分かるぜ…"
+        },
+        {
+          "scriptMessageId": "203225",
+          "speechCharactorId": "31",
+          "message": "なんだと！？"
+        },
+        {
+          "scriptMessageId": "203226",
+          "speechCharactorId": "135",
+          "message": "術にさっきまでの力は無いようだな…\r\n五分もいらなかった、動けるぜ"
+        },
+        {
+          "scriptMessageId": "203227",
+          "speechCharactorId": "135",
+          "message": "縛るたびに段々術の強さと効果の\r\n持続時間がお粗末になってきてるぜ"
+        },
+        {
+          "scriptMessageId": "203228",
+          "speechCharactorId": "135",
+          "message": "つまるところ…お前の影術は\r\n使えば使うほどそれに比例して\r\n術全体の効力が低下する…"
+        },
+        {
+          "scriptMessageId": "203229",
+          "speechCharactorId": "135",
+          "message": "お前、そろそろチャクラも\r\n限界なんじゃないのか？\r\nえェオイ！？"
+        },
+        {
+          "scriptMessageId": "203230",
+          "speechCharactorId": "31",
+          "message": "くっ…"
+        },
+        {
+          "scriptMessageId": "203231",
+          "speechCharactorId": "135",
+          "message": "ゲハハハハハアァ！！"
+        },
+        {
+          "scriptMessageId": "203232",
+          "speechCharactorId": "135",
+          "message": "何ィ！？どういう事だ！？\r\nいつの間にこんな！？"
+        },
+        {
+          "scriptMessageId": "203233",
+          "speechCharactorId": "31",
+          "message": "前もってここに仕掛けを\r\n準備してただけの事だ"
+        },
+        {
+          "scriptMessageId": "203234",
+          "speechCharactorId": "135",
+          "message": "こいつ…がむしゃらにオレら二人を\r\n引き離したんじゃなく…\r\nオレをここに誘い込んだってのか？"
+        },
+        {
+          "scriptMessageId": "203235",
+          "speechCharactorId": "135",
+          "message": "だとすりゃあ…ここまでが\r\nこいつの計算…！"
+        },
+        {
+          "scriptMessageId": "203236",
+          "speechCharactorId": "31",
+          "message": "人を呪わば穴二つ…\r\nわかるか…この意味…"
+        },
+        {
+          "scriptMessageId": "203237",
+          "speechCharactorId": "135",
+          "message": "知るかよ！！"
+        },
+        {
+          "scriptMessageId": "203238",
+          "speechCharactorId": "31",
+          "message": "人を呪って殺そうとすればな…\r\nその報いでてめぇも殺されるから\r\n葬る穴が二つ必要になるってことよ…"
+        },
+        {
+          "scriptMessageId": "203239",
+          "speechCharactorId": "31",
+          "message": "お前はオレの師を呪い殺した\r\nてめーだけのうのうと\r\nはしゃいでいられると思うな"
+        },
+        {
+          "scriptMessageId": "203240",
+          "speechCharactorId": "31",
+          "message": "そいつがてめーの墓穴だ"
+        },
+        {
+          "scriptMessageId": "203241",
+          "speechCharactorId": "135",
+          "message": "ククク…\r\nオレは死なねェ…"
+        },
+        {
+          "scriptMessageId": "203242",
+          "speechCharactorId": "135",
+          "message": "体をバラバラにされて\r\n首一つになろうが必ずはいずり出て\r\nてめーのノド元に\r\n食らいつきに行ってやる"
+        },
+        {
+          "scriptMessageId": "203243",
+          "speechCharactorId": "135",
+          "message": "何だ…鹿？"
+        },
+        {
+          "scriptMessageId": "203244",
+          "speechCharactorId": "31",
+          "message": "この森は火の国でも\r\n特別な場所でな…\r\nオレ達一族だけが立ち入る事を\r\n許されてる…他には誰も来ない"
+        },
+        {
+          "scriptMessageId": "203245",
+          "speechCharactorId": "31",
+          "message": "オレ達一族が\r\nずっとお前を見張っておく"
+        },
+        {
+          "scriptMessageId": "203246",
+          "speechCharactorId": "25",
+          "message": "よくやったなシカマル"
+        },
+        {
+          "scriptMessageId": "203247",
+          "speechCharactorId": "31",
+          "message": "ああ…"
+        },
+        {
+          "scriptMessageId": "203248",
+          "speechCharactorId": "25",
+          "message": "オレの火の意志…お前に託したぞ"
+        },
+        {
+          "scriptMessageId": "203249",
+          "speechCharactorId": "135",
+          "message": "て、てめぇ…何付けてんだよ…"
+        },
+        {
+          "scriptMessageId": "203250",
+          "speechCharactorId": "31",
+          "message": "火の意志だ…オレ達里を\r\n守ろうという強い意志だ…"
+        },
+        {
+          "scriptMessageId": "203251",
+          "speechCharactorId": "31",
+          "message": "…さよなら…先生…"
+        },
+        {
+          "scriptMessageId": "203252",
+          "speechCharactorId": "135",
+          "message": "ハハ…\r\nヒャハハハ…"
+        },
+        {
+          "scriptMessageId": "203253",
+          "speechCharactorId": "135",
+          "message": "な…何てザマだコレ…\r\nオレをこんなにしやがって…"
+        },
+        {
+          "scriptMessageId": "203254",
+          "speechCharactorId": "135",
+          "message": "てめーには必ずジャシン様の\r\nバチが当たる！！"
+        },
+        {
+          "scriptMessageId": "203255",
+          "speechCharactorId": "135",
+          "message": "ジャシン教により大いなる\r\n裁きがお前にィィーー"
+        },
+        {
+          "scriptMessageId": "203256",
+          "speechCharactorId": "31",
+          "message": "そんなもん怖かね―んだよ\r\nオレとお前じゃ信じてるモンが違う"
+        },
+        {
+          "scriptMessageId": "203257",
+          "speechCharactorId": "31",
+          "message": "オレが信じてんのは“火の意志”だ"
+        },
+        {
+          "scriptMessageId": "203258",
+          "speechCharactorId": "31",
+          "message": "…だがてめーの神は\r\nそのくだらねェジャシン様\r\nでも何でもねェ"
+        },
+        {
+          "scriptMessageId": "203259",
+          "speechCharactorId": "31",
+          "message": "今はこのオレだ…\r\nオレが裁きを下す！"
+        },
+        {
+          "scriptMessageId": "203260",
+          "speechCharactorId": "135",
+          "message": "さっき言ったよなァ？\r\nてめーにはジャシン教により\r\n裁きが下るってよォ"
+        },
+        {
+          "scriptMessageId": "203261",
+          "speechCharactorId": "135",
+          "message": "なァ！？\r\nゲハハハハ！！！"
+        },
+        {
+          "scriptMessageId": "203262",
+          "speechCharactorId": "135",
+          "message": "その裁きを下すのはオレだァ！\r\nてめーなんて歯だけで十分だ！\r\n良く噛んで\r\nバラバラにしてやるぜェ！"
+        },
+        {
+          "scriptMessageId": "203263",
+          "speechCharactorId": "135",
+          "message": "……！……！！"
+        },
+        {
+          "scriptMessageId": "203264",
+          "speechCharactorId": "135",
+          "message": "………！…………"
+        },
+        {
+          "scriptMessageId": "203265",
+          "speechCharactorId": "31",
+          "message": "アスマ………終わったぜ"
+        },
+        {
+          "scriptMessageId": "203266",
+          "speechCharactorId": "33",
+          "message": "多重影分身…\r\nそうか…お前が九尾の人柱力か…"
+        },
+        {
+          "scriptMessageId": "203267",
+          "speechCharactorId": "713",
+          "message": "状況説明と敵の能力を教えて下さい"
+        },
+        {
+          "scriptMessageId": "203268",
+          "speechCharactorId": "695",
+          "message": "敵は“暁”二人…\r\n一人はシカマルが応戦してる\r\n…で、もう一人が目の前にいる"
+        },
+        {
+          "scriptMessageId": "203269",
+          "speechCharactorId": "695",
+          "message": "こいつには分裂する能力がある…\r\nあの両肩の面が本体から\r\n抜け出して分裂するんだが…"
+        },
+        {
+          "scriptMessageId": "203270",
+          "speechCharactorId": "695",
+          "message": "その面一つ一つに心臓があり\r\n独立して行動する\r\n奴は初め五つの心臓を持っていた\r\n今は二つ減らしてあと三つだ"
+        },
+        {
+          "scriptMessageId": "203271",
+          "speechCharactorId": "713",
+          "message": "…どういう事です？"
+        },
+        {
+          "scriptMessageId": "203272",
+          "speechCharactorId": "695",
+          "message": "もう二度殺してるってことだ\r\n奴はあと三度殺さないと倒れない"
+        },
+        {
+          "scriptMessageId": "203273",
+          "speechCharactorId": "695",
+          "message": "それに…中距離タイプで\r\nあらゆる性質変化を使う"
+        },
+        {
+          "scriptMessageId": "203274",
+          "speechCharactorId": "713",
+          "message": "どうりで先輩が手こずるわけだ\r\nナルトォ！"
+        },
+        {
+          "scriptMessageId": "203275",
+          "speechCharactorId": "27",
+          "message": "ちゃんと聞いてたってばよ！"
+        },
+        {
+          "scriptMessageId": "203276",
+          "speechCharactorId": "164",
+          "message": "闇雲に突っ込んでも\r\nダメだってばー！"
+        },
+        {
+          "scriptMessageId": "203277",
+          "speechCharactorId": "33",
+          "message": "影分身だけか？\r\nそれでは勝てんぞ"
+        },
+        {
+          "scriptMessageId": "203278",
+          "speechCharactorId": "27",
+          "message": "…あの攻撃スピードと\r\n戦闘スタイルからして\r\n陽動には最低でも影分身が\r\n三人要るってばよ…"
+        },
+        {
+          "scriptMessageId": "203279",
+          "speechCharactorId": "695",
+          "message": "まず影分身の経験値を\r\nオリジナルの中に情報として蓄積…"
+        },
+        {
+          "scriptMessageId": "203280",
+          "speechCharactorId": "695",
+          "message": "それに基づいた\r\nシミュレーションの作成\r\n影分身の使い方が\r\n更に上手くなっている…"
+        },
+        {
+          "scriptMessageId": "203281",
+          "speechCharactorId": "27",
+          "message": "何とかここまでは………\r\n形にしたってばよ…"
+        },
+        {
+          "scriptMessageId": "203282",
+          "speechCharactorId": "695",
+          "message": "よし…どれほどのもんか\r\nオレの螺旋丸とぶつけ合う\r\n用意しろ"
+        },
+        {
+          "scriptMessageId": "203283",
+          "speechCharactorId": "695",
+          "message": "さあ…行くぞ！"
+        },
+        {
+          "scriptMessageId": "203284",
+          "speechCharactorId": "695",
+          "message": "くっ…凄い威力になってきたな、ナルト…"
+        },
+        {
+          "scriptMessageId": "203285",
+          "speechCharactorId": "695",
+          "message": "…！"
+        },
+        {
+          "scriptMessageId": "203286",
+          "speechCharactorId": "695",
+          "message": "四代目…！？"
+        },
+        {
+          "scriptMessageId": "203287",
+          "speechCharactorId": "27",
+          "message": "風遁・螺旋手裏剣！！！"
+        },
+        {
+          "scriptMessageId": "203288",
+          "speechCharactorId": "33",
+          "message": "何だ…あの術は…！？\r\nアレを食らったら…ヤバい…\r\n絶対に駄目だ"
+        },
+        {
+          "scriptMessageId": "203289",
+          "speechCharactorId": "27",
+          "message": "風遁・螺旋手裏剣…\r\nこれで決めるってばよ！"
+        },
+        {
+          "scriptMessageId": "203290",
+          "speechCharactorId": "33",
+          "message": "これが人柱力の九尾の力か…\r\nバケモノらしい術だ"
+        },
+        {
+          "scriptMessageId": "203291",
+          "speechCharactorId": "27",
+          "message": "やらァー！"
+        },
+        {
+          "scriptMessageId": "203292",
+          "speechCharactorId": "33",
+          "message": "しまっ…"
+        },
+        {
+          "scriptMessageId": "203293",
+          "speechCharactorId": "165",
+          "message": "え？"
+        },
+        {
+          "scriptMessageId": "203294",
+          "speechCharactorId": "164",
+          "message": "…何？\r\n勝ったの？"
+        },
+        {
+          "scriptMessageId": "203295",
+          "speechCharactorId": "713",
+          "message": "失敗だ"
+        },
+        {
+          "scriptMessageId": "203296",
+          "speechCharactorId": "27",
+          "message": "くっそォ～～！\r\n何だよ！当たればスゲーんだぞ！！"
+        },
+        {
+          "scriptMessageId": "203297",
+          "speechCharactorId": "713",
+          "message": "螺旋手裏剣と言ってもゼロ距離で\r\n相手にぶつけないとダメなんです"
+        },
+        {
+          "scriptMessageId": "203298",
+          "speechCharactorId": "713",
+          "message": "だから影分身で陽動をかけるのが\r\nこの術の基本だったんですが…"
+        },
+        {
+          "scriptMessageId": "203299",
+          "speechCharactorId": "695",
+          "message": "まだ新術の発動持続時間が\r\n短すぎるな\r\nもって数秒か…"
+        },
+        {
+          "scriptMessageId": "203300",
+          "speechCharactorId": "33",
+          "message": "あの術…近付かなければ大丈夫だな\r\n接近戦を避け術を持つオリジナルに\r\n常に注意を払っていれば\r\nさほど怖くはない"
+        },
+        {
+          "scriptMessageId": "203301",
+          "speechCharactorId": "27",
+          "message": "もう一度オレにやらせてくれってばよ\r\n新術で決めてやる…"
+        },
+        {
+          "scriptMessageId": "203302",
+          "speechCharactorId": "695",
+          "message": "この状況…今は五対一だ\r\n危ない橋を渡る必要も無い"
+        },
+        {
+          "scriptMessageId": "203303",
+          "speechCharactorId": "27",
+          "message": "カカシ先生…\r\n修業中にオレに言った事\r\n覚えてるか？"
+        },
+        {
+          "scriptMessageId": "203304",
+          "speechCharactorId": "27",
+          "message": "四代目火影を超える忍は\r\nお前しかいない…って\r\nそう信じてるって"
+        },
+        {
+          "scriptMessageId": "203305",
+          "speechCharactorId": "27",
+          "message": "確かにチームワークは大切だ…\r\n危ない橋ってことも分かってる"
+        },
+        {
+          "scriptMessageId": "203306",
+          "speechCharactorId": "27",
+          "message": "でも今、オレは、その危ない橋を\r\n一人で渡りたいんだってばよ"
+        },
+        {
+          "scriptMessageId": "203307",
+          "speechCharactorId": "27",
+          "message": "向こうへたどりつかなきゃ\r\nオレはいつまでたっても\r\nガキのままだ"
+        },
+        {
+          "scriptMessageId": "203308",
+          "speechCharactorId": "27",
+          "message": "だから、その橋を外す様な\r\n事はしないでくれ"
+        },
+        {
+          "scriptMessageId": "203309",
+          "speechCharactorId": "695",
+          "message": "フッ…ヤマト\r\nお前はどうだ？"
+        },
+        {
+          "scriptMessageId": "203310",
+          "speechCharactorId": "713",
+          "message": "ええ…だってまだ見てないですよね\r\n以前のナルトとは別人だってところ"
+        },
+        {
+          "scriptMessageId": "203311",
+          "speechCharactorId": "695",
+          "message": "…決まりだな"
+        },
+        {
+          "scriptMessageId": "203312",
+          "speechCharactorId": "33",
+          "message": "ぐぎぁぁぁ！！"
+        },
+        {
+          "scriptMessageId": "203313",
+          "speechCharactorId": "695",
+          "message": "攻撃回数がケタ外れだ…\r\n写輪眼でも見切れない\r\nなんて術だ…"
+        },
+        {
+          "scriptMessageId": "203314",
+          "speechCharactorId": "27",
+          "message": "へへ、よし…\r\nやった…"
+        },
+        {
+          "scriptMessageId": "203315",
+          "speechCharactorId": "130",
+          "message": "みつけたぞ"
+        },
+        {
+          "scriptMessageId": "203316",
+          "speechCharactorId": "31",
+          "message": "増援か\r\nけど一足遅かったな"
+        },
+        {
+          "scriptMessageId": "203317",
+          "speechCharactorId": "26",
+          "message": "シカマル…アンタ一人で\r\n“暁”やっちゃったの？"
+        },
+        {
+          "scriptMessageId": "203318",
+          "speechCharactorId": "252",
+          "message": "この人案外すごいんですね"
+        },
+        {
+          "scriptMessageId": "203319",
+          "speechCharactorId": "31",
+          "message": "…今回ばかりは\r\n何がなんでもってやつだったんでな"
+        },
+        {
+          "scriptMessageId": "203320",
+          "speechCharactorId": "713",
+          "message": "しかし…よく三発も作ったね新術…\r\n修業でも二発が限界だったのに…"
+        },
+        {
+          "scriptMessageId": "203321",
+          "speechCharactorId": "695",
+          "message": "失敗してから次を当てる為の\r\n機転の早さ…強い自信\r\nナルトはホントに強くなってきた"
+        },
+        {
+          "scriptMessageId": "203322",
+          "speechCharactorId": "695",
+          "message": "あの四代目でもなしえなかった術を\r\nここまで物にするとは…そろそろ\r\n世代交代の時代だな、こりゃ"
+        },
+        {
+          "scriptMessageId": "203323",
+          "speechCharactorId": "695",
+          "message": "感じてるか？\r\nナルトの目の先に\r\nいつもいるお前が…"
+        },
+        {
+          "scriptMessageId": "203324",
+          "speechCharactorId": "695",
+          "message": "ナルトをどんどん強くして\r\nいってるんだよ…\r\nなぁ…サスケ"
+        },
+        {
+          "scriptMessageId": "203325",
+          "speechCharactorId": "713",
+          "message": "よし皆、先に木ノ葉へ帰るか"
+        },
+        {
+          "scriptMessageId": "203326",
+          "speechCharactorId": "164",
+          "message": "カカシ先生は？"
+        },
+        {
+          "scriptMessageId": "203327",
+          "speechCharactorId": "713",
+          "message": "後始末…"
+        },
+        {
+          "scriptMessageId": "203328",
+          "speechCharactorId": "33",
+          "message": "くっ…\r\n…お前らの…ような\r\nガキ共に…オレが…"
+        },
+        {
+          "scriptMessageId": "203329",
+          "speechCharactorId": "695",
+          "message": "まあね…初代火影と\r\n闘った事のあるアンタだ…\r\n…オレ達がガキに見えるだろうが"
+        },
+        {
+          "scriptMessageId": "203330",
+          "speechCharactorId": "695",
+          "message": "オレ達から見たら\r\nただのズレた老いぼれだ\r\nだからアンタは今ここで\r\n死にかけ、はいつくばってる"
+        },
+        {
+          "scriptMessageId": "203331",
+          "speechCharactorId": "695",
+          "message": "次から次へと\r\n新しい世代が追い抜いていくのさ"
+        },
+        {
+          "scriptMessageId": "203332",
+          "speechCharactorId": "323",
+          "message": "皆ご苦労だった\r\n当面の脅威は去ったが\r\n“暁”はまだいる…\r\nこれからも気をぬくんじゃないよ"
+        },
+        {
+          "scriptMessageId": "203333",
+          "speechCharactorId": "323",
+          "message": "これからお前達二班には\r\nしばしの休養をあたえる\r\n各々、心身の傷を癒すように…\r\nでは、解散！"
+        },
+        {
+          "scriptMessageId": "203334",
+          "speechCharactorId": "31",
+          "message": "出歩いていいんですか？"
+        },
+        {
+          "scriptMessageId": "203335",
+          "speechCharactorId": "633",
+          "message": "将棋の相手がいなくなったわね…\r\nアナタはアスマの一番のお気に入り\r\nだったからさみしくなるでしょ…"
+        },
+        {
+          "scriptMessageId": "203336",
+          "speechCharactorId": "31",
+          "message": "さみしくないっつったら\r\nウソになりますけど"
+        },
+        {
+          "scriptMessageId": "203337",
+          "speechCharactorId": "31",
+          "message": "オレももう\r\nいつまでもガキのままじゃ\r\nいさせてもらえない世代ですから\r\nピーピー泣いていられないっスよ"
+        },
+        {
+          "scriptMessageId": "203338",
+          "speechCharactorId": "31",
+          "message": "オレ…“めんどくせー”って\r\nいつもだだこねてたから"
+        },
+        {
+          "scriptMessageId": "203339",
+          "speechCharactorId": "31",
+          "message": "ガキの頃そのせいで失敗ばっかして……\r\nそのたびアスマに守られてばっかで…\r\nつかみどころのない変な先生だったけど"
+        },
+        {
+          "scriptMessageId": "203340",
+          "speechCharactorId": "31",
+          "message": "オレにとっちゃむちゃくちゃ\r\nカッコイイ大人だった\r\nだから、今度はオレの番すよ"
+        },
+        {
+          "scriptMessageId": "203341",
+          "speechCharactorId": "31",
+          "message": "その子が産まれたら\r\n今度はオレが\r\nその子を守る師ですから…"
+        },
+        {
+          "scriptMessageId": "203342",
+          "speechCharactorId": "31",
+          "message": "カッコイイ大人にならねーと！"
+        },
+        {
+          "scriptMessageId": "203343",
+          "speechCharactorId": "633",
+          "message": "……ありがとう"
+        },
+        {
+          "scriptMessageId": "203344",
+          "speechCharactorId": "720",
+          "message": "フッ、棒銀か"
+        },
+        {
+          "scriptMessageId": "203345",
+          "speechCharactorId": "31",
+          "message": "上手相手に“玉”を守るためには\r\n犠牲もやむないってやつさ"
+        },
+        {
+          "scriptMessageId": "203346",
+          "speechCharactorId": "31",
+          "message": "そう逃げたらホラ\r\nここで桂馬だぜ"
+        },
+        {
+          "scriptMessageId": "203347",
+          "speechCharactorId": "720",
+          "message": "金のどっちが逃げても角が成り込みか…\r\nったくその桂馬いやらしい手だぜ"
+        },
+        {
+          "scriptMessageId": "203348",
+          "speechCharactorId": "31",
+          "message": "木ノ葉の忍を駒に例えるなら\r\nオレは桂馬だからな\r\nアスマがそう言ってた"
+        },
+        {
+          "scriptMessageId": "203349",
+          "speechCharactorId": "720",
+          "message": "ケッ…お前の性格を\r\nよく分かってやがったな…\r\nアスマのやつも…"
+        },
+        {
+          "scriptMessageId": "203350",
+          "speechCharactorId": "720",
+          "message": "なら“玉”は誰にあたる？"
+        },
+        {
+          "scriptMessageId": "203351",
+          "speechCharactorId": "31",
+          "message": "木ノ葉をになうこれからの子供達…\r\nそれが“玉”さ"
+        },
+        {
+          "scriptMessageId": "203352",
+          "speechCharactorId": "720",
+          "message": "よく分かってるじゃねーか…\r\n…よっと、王手"
+        },
+        {
+          "scriptMessageId": "203353",
+          "speechCharactorId": "31",
+          "message": "あ！"
+        },
+        {
+          "scriptMessageId": "203354",
+          "speechCharactorId": "720",
+          "message": "テメーが玉を守るには\r\nまだまだ力が足りねーな！\r\n精進しろよ！"
+        },
+        {
+          "scriptMessageId": "203355",
+          "speechCharactorId": "31",
+          "message": "くっそー！"
+        },
+        {
+          "scriptMessageId": "203356",
+          "speechCharactorId": "685",
+          "message": "ナルト君…ずいぶん強くなったみたいね\r\nでも…サスケ君もすごくなっているわよ"
+        },
+        {
+          "scriptMessageId": "203357",
+          "speechCharactorId": "685",
+          "message": "この子を見てると…天才と呼ばれていた自分が\r\n惨めに思えてくるわね…"
+        },
+        {
+          "scriptMessageId": "203358",
+          "speechCharactorId": "685",
+          "message": "あと少し…ほんの少しで私のもの…！"
+        },
+        {
+          "scriptMessageId": "203359",
+          "speechCharactorId": "685",
+          "message": "次回…師の予言と復讐の章・前篇"
+        },
+        {
+          "scriptMessageId": "203360",
+          "speechCharactorId": "685",
+          "message": "さあ…サスケ君その体を…"
+        },
+        {
+          "scriptMessageId": "203361",
+          "speechCharactorId": "685",
+          "message": "私にちょうだァァイ！！！"
+        },
+        {
+          "scriptMessageId": "203362",
+          "speechCharactorId": "135",
+          "message": "てめーの顔は覚えたぜ！\r\nオレがどーなろうと\r\nぜってーぶっ殺す！！"
+        },
+        {
+          "scriptMessageId": "203363",
+          "speechCharactorId": "31",
+          "message": "お前…頭悪いだろ…"
+        },
+        {
+          "scriptMessageId": "203364",
+          "speechCharactorId": "135",
+          "message": "角都ッ…くそ、体が…かわせェ！！"
+        },
+        {
+          "scriptMessageId": "203365",
+          "speechCharactorId": "33",
+          "message": "フン！"
+        },
+        {
+          "scriptMessageId": "203366",
+          "speechCharactorId": "164",
+          "message": "腕が地面から出てきた…\r\nどういう事！？"
+        },
+        {
+          "scriptMessageId": "203367",
+          "speechCharactorId": "31",
+          "message": "影真似の術を外された…！"
+        },
+        {
+          "scriptMessageId": "203368",
+          "speechCharactorId": "31",
+          "message": "起爆札で攻撃した時…あの時か… \r\n煙に紛れて右腕を地面に…"
+        },
+        {
+          "scriptMessageId": "203369",
+          "speechCharactorId": "33",
+          "message": "戦闘中に分析ばかりしていても\r\n全てが計算通りにいくもんじゃない"
+        },
+        {
+          "scriptMessageId": "203370",
+          "speechCharactorId": "31",
+          "message": "今だチョウジ！！"
+        },
+        {
+          "scriptMessageId": "203371",
+          "speechCharactorId": "165",
+          "message": "肉弾針戦車！！"
+        },
+        {
+          "scriptMessageId": "203372",
+          "speechCharactorId": "135",
+          "message": "角都―――！！"
+        },
+        {
+          "scriptMessageId": "203373",
+          "speechCharactorId": "165",
+          "message": "ボクの攻撃が全然効いていない…\r\nどういう事なの？"
+        },
+        {
+          "scriptMessageId": "203374",
+          "speechCharactorId": "31",
+          "message": "…おそらく体を硬化する術だ\r\nそれがあいつの能力…"
+        },
+        {
+          "scriptMessageId": "203375",
+          "speechCharactorId": "33",
+          "message": "良く分析している…\r\nそうだ\r\nオレにはどんな物理攻撃も通じない"
+        },
+        {
+          "scriptMessageId": "203376",
+          "speechCharactorId": "135",
+          "message": "よっしゃ…そろそろ反撃といこーぜ\r\n角都さっさとこの術を…"
+        },
+        {
+          "scriptMessageId": "203377",
+          "speechCharactorId": "33",
+          "message": "ぐっ…オオッ…！！"
+        },
+        {
+          "scriptMessageId": "203378",
+          "speechCharactorId": "135",
+          "message": "ハァ――！？"
+        },
+        {
+          "scriptMessageId": "203379",
+          "speechCharactorId": "695",
+          "message": "全て見せてもらった…"
+        },
+        {
+          "scriptMessageId": "203380",
+          "speechCharactorId": "33",
+          "message": "馬鹿な…\r\n気配も無くこのオレの背後から…"
+        },
+        {
+          "scriptMessageId": "203381",
+          "speechCharactorId": "695",
+          "message": "お前の体を硬化する術\r\nさっき結んだ印から見て\r\n土遁の性質変化だ"
+        },
+        {
+          "scriptMessageId": "203382",
+          "speechCharactorId": "33",
+          "message": "オレの…印のスピードを\r\n見切っただと…それに…\r\nこれほどの雷遁を…そうか！"
+        },
+        {
+          "scriptMessageId": "203383",
+          "speechCharactorId": "33",
+          "message": "…お前が…“写輪眼のカカシ”…！"
+        },
+        {
+          "scriptMessageId": "203384",
+          "speechCharactorId": "33",
+          "message": "風遁・圧害！！"
+        },
+        {
+          "scriptMessageId": "203385",
+          "speechCharactorId": "165",
+          "message": "カカシせんせー！"
+        },
+        {
+          "scriptMessageId": "203386",
+          "speechCharactorId": "164",
+          "message": "自分の味方ごと…\r\nそうか！不死身を利用して…！！"
+        },
+        {
+          "scriptMessageId": "203387",
+          "speechCharactorId": "31",
+          "message": "来るぞ！チョウジ！"
+        },
+        {
+          "scriptMessageId": "203388",
+          "speechCharactorId": "33",
+          "message": "雷遁・偽暗！！"
+        },
+        {
+          "scriptMessageId": "203389",
+          "speechCharactorId": "695",
+          "message": "雷切！！"
+        },
+        {
+          "scriptMessageId": "203390",
+          "speechCharactorId": "164",
+          "message": "カカシ先生、大丈夫ですか！"
+        },
+        {
+          "scriptMessageId": "203391",
+          "speechCharactorId": "695",
+          "message": "こいつら…強い…\r\nこれだけ高レベルの術は\r\n己の持つチャクラの性質と\r\n合致しないと出せないハズ…"
+        },
+        {
+          "scriptMessageId": "203392",
+          "speechCharactorId": "135",
+          "message": "この段取りで殺せなかったのは\r\nお前が初めてだぜ…はたけ…カカシ"
+        },
+        {
+          "scriptMessageId": "203393",
+          "speechCharactorId": "33",
+          "message": "写輪眼で見切ったか…\r\nなら次のはどうだ？\r\n火遁・頭刻苦！！"
+        },
+        {
+          "scriptMessageId": "203394",
+          "speechCharactorId": "695",
+          "message": "何っ！？火遁まで！"
+        },
+        {
+          "scriptMessageId": "203395",
+          "speechCharactorId": "135",
+          "message": "やるな…やっぱ"
+        },
+        {
+          "scriptMessageId": "203396",
+          "speechCharactorId": "695",
+          "message": "写輪眼を使ったまま雷切を四発…\r\nグズグズはしてられないな"
+        },
+        {
+          "scriptMessageId": "203397",
+          "speechCharactorId": "165",
+          "message": "さっきのカカシ先生の雷切\r\n絶対当たってたのに…\r\nなんで死なないのアイツ！？"
+        },
+        {
+          "scriptMessageId": "203398",
+          "speechCharactorId": "695",
+          "message": "心臓を潰した\r\n本来なら死んでるはずだ"
+        },
+        {
+          "scriptMessageId": "203399",
+          "speechCharactorId": "695",
+          "message": "…だが、倒せたのは奴の体から\r\n出てきたバケモノの内の一匹\r\nそいつが奴本体の代わりに\r\n死んだと考えられる…"
+        },
+        {
+          "scriptMessageId": "203400",
+          "speechCharactorId": "31",
+          "message": "奴は五つの心臓を持ってたって事だ\r\n今は先生の雷切で一つ減ったがな"
+        },
+        {
+          "scriptMessageId": "203401",
+          "speechCharactorId": "164",
+          "message": "つまりあの人を\r\n完全にやっつけるには\r\nあと四つの心臓を\r\n潰さなきゃならないって事？"
+        },
+        {
+          "scriptMessageId": "203402",
+          "speechCharactorId": "33",
+          "message": "良く気付いたな…\r\nこのそれぞれの心臓はかつて闘って\r\n奪い取った忍達のものだ\r\nまた補充はきく"
+        },
+        {
+          "scriptMessageId": "203403",
+          "speechCharactorId": "33",
+          "message": "お前らの心臓でな"
+        },
+        {
+          "scriptMessageId": "203404",
+          "speechCharactorId": "695",
+          "message": "融合したのは、火遁と風遁の面か…！"
+        },
+        {
+          "scriptMessageId": "203405",
+          "speechCharactorId": "165",
+          "message": "カカシ先生！！"
+        },
+        {
+          "scriptMessageId": "203406",
+          "speechCharactorId": "695",
+          "message": "水遁・水陣壁！！"
+        },
+        {
+          "scriptMessageId": "203407",
+          "speechCharactorId": "695",
+          "message": "“風”の性質変化が加わった“火”じゃ \r\n水遁だけでは消せないか…！"
+        },
+        {
+          "scriptMessageId": "203408",
+          "speechCharactorId": "33",
+          "message": "今度はうまく隠れたな…カカシ\r\nしかし、また我々の前に姿を現す\r\n勇気があるかな？"
+        },
+        {
+          "scriptMessageId": "203409",
+          "speechCharactorId": "695",
+          "message": "やはり、本体に接近戦を挑まないと…"
+        },
+        {
+          "scriptMessageId": "203410",
+          "speechCharactorId": "33",
+          "message": "見つけたぞ"
+        },
+        {
+          "scriptMessageId": "203411",
+          "speechCharactorId": "695",
+          "message": "ぐあっ！"
+        },
+        {
+          "scriptMessageId": "203412",
+          "speechCharactorId": "164",
+          "message": "先生ーっ！！"
+        },
+        {
+          "scriptMessageId": "203413",
+          "speechCharactorId": "33",
+          "message": "もらうぞ\r\nお前の心臓…\r\nグウッ…！な、なにを…！"
+        },
+        {
+          "scriptMessageId": "203414",
+          "speechCharactorId": "695",
+          "message": "何とか間に合ったようだな…\r\nシカマル"
+        },
+        {
+          "scriptMessageId": "203415",
+          "speechCharactorId": "135",
+          "message": "ゲハハハハァ！\r\n動く…動くぜ…！"
+        },
+        {
+          "scriptMessageId": "203416",
+          "speechCharactorId": "135",
+          "message": "お前もジャシン様を信仰していれば \r\nピンチに救いの手があったかもなァ"
+        },
+        {
+          "scriptMessageId": "203417",
+          "speechCharactorId": "135",
+          "message": "今からジャシン様を信じるなら\r\nその改心に免じて…"
+        },
+        {
+          "scriptMessageId": "203418",
+          "speechCharactorId": "135",
+          "message": "許すわけねーだろ、バーカァ！"
+        },
+        {
+          "scriptMessageId": "203419",
+          "speechCharactorId": "135",
+          "message": "おわっ！？"
+        },
+        {
+          "scriptMessageId": "203420",
+          "speechCharactorId": "31",
+          "message": "…そんなもんに\r\n許してもらわなくても\r\nけっこーだぜ"
+        },
+        {
+          "scriptMessageId": "203421",
+          "speechCharactorId": "135",
+          "message": "くっ…"
+        },
+        {
+          "scriptMessageId": "203422",
+          "speechCharactorId": "31",
+          "message": "影寄せの術！！"
+        },
+        {
+          "scriptMessageId": "203423",
+          "speechCharactorId": "135",
+          "message": "ヤロー…"
+        },
+        {
+          "scriptMessageId": "203424",
+          "speechCharactorId": "31",
+          "message": "まだ…これくらいのチャクラは\r\n残ってるぜ…"
+        },
+        {
+          "scriptMessageId": "203425",
+          "speechCharactorId": "135",
+          "message": "何しやがる！？"
+        },
+        {
+          "scriptMessageId": "203426",
+          "speechCharactorId": "31",
+          "message": "見てろって…"
+        },
+        {
+          "scriptMessageId": "203427",
+          "speechCharactorId": "695",
+          "message": "いけ、ナルト"
+        },
+        {
+          "scriptMessageId": "203428",
+          "speechCharactorId": "27",
+          "message": "オッス！"
+        },
+        {
+          "scriptMessageId": "203429",
+          "speechCharactorId": "33",
+          "message": "またあのガキでくるか\r\n念のため遠距離戦闘タイプに\r\n変えた方がいいな…"
+        },
+        {
+          "scriptMessageId": "203430",
+          "speechCharactorId": "713",
+          "message": "体型を変えただけじゃなく\r\nチャクラもかなり練り込んでる…"
+        },
+        {
+          "scriptMessageId": "203431",
+          "speechCharactorId": "695",
+          "message": "ナルトの術に対応する為だな"
+        },
+        {
+          "scriptMessageId": "203432",
+          "speechCharactorId": "27",
+          "message": "影分身の術！"
+        },
+        {
+          "scriptMessageId": "203433",
+          "speechCharactorId": "33",
+          "message": "きたな…"
+        },
+        {
+          "scriptMessageId": "203434",
+          "speechCharactorId": "27",
+          "message": "よし！できたァ！\r\n続けェ！！"
+        },
+        {
+          "scriptMessageId": "203435",
+          "speechCharactorId": "33",
+          "message": "後ろの陽動の影分身は無視だ\r\n狙うはオリジナルただ一人\r\nあの術さえ潰せば怖くない"
+        },
+        {
+          "scriptMessageId": "203436",
+          "speechCharactorId": "164",
+          "message": "ダメだ！読まれてる！"
+        },
+        {
+          "scriptMessageId": "203437",
+          "speechCharactorId": "33",
+          "message": "何！？\r\n影分身だと！？"
+        },
+        {
+          "scriptMessageId": "203438",
+          "speechCharactorId": "33",
+          "message": "こいつ…陽動の中にオリジナルを！"
+        },
+        {
+          "scriptMessageId": "203439",
+          "speechCharactorId": "27",
+          "message": "当たりィィ！！"
+        },
+        {
           "scriptMessageId": "300200",
           "speechCharactorId": "498",
           "message": "おお、しまった！\r\nこのままではぶつかってしまう！"

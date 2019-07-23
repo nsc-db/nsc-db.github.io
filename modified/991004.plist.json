@@ -4295,6 +4295,12 @@
           "speechCharactorName": "大筒木ハゴロモ"
         },
         {
+          "speechCharactorId": "720",
+          "cardId": "720",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "奈良シカク"
+        },
+        {
           "speechCharactorId": "721",
           "cardId": "20050710",
           "speechCharactorImgId": "0",

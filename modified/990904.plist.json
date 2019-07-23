@@ -1741,6 +1741,19 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
+          "worldStageId": "11007",
+          "worldAreaId": "10",
+          "priority": "0",
+          "name": "不死の破壊者の章・後篇",
+          "description": "0",
+          "notice": "0",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
           "worldStageId": "30001",
           "worldAreaId": "4",
           "priority": "0",

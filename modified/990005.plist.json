@@ -829,6 +829,16 @@
           "enemyEffects": "2263,50001,"
         },
         {
+          "battleFieldEffectId": "93",
+          "name": "特別な場所",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "262,1782,300004,",
+          "enemyEffects": "109,1840,1814,"
+        },
+        {
           "battleFieldEffectId": "10001",
           "name": "始球空間",
           "category": "3",
