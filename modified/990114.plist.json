@@ -2187,5 +2187,25 @@
           "subScore": "0",
           "color": "10104574",
           "type": "2"
+        },
+        {
+          "cardUnusualId": "223",
+          "category": "3",
+          "iconId": "1247",
+          "name": "死の宣告",
+          "description": "行動ごとにカウントが減少、カウント0になると、9999回行動するまで尽状態になる",
+          "subScore": "0",
+          "color": "13381370",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "224",
+          "category": "3",
+          "iconId": "1254",
+          "name": "術封じ",
+          "description": "スキル使用不可",
+          "subScore": "0",
+          "color": "14211288",
+          "type": "3"
         }
       ]

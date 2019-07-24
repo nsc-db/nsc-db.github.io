@@ -19295,6 +19295,38 @@
           "recipeName": "忍宗の後継者"
         },
         {
+          "crystalId": "20721",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "775",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "ｲﾝﾄﾞﾗ須佐能乎の兜",
+          "crystalDescription": "弱体と状態異常を軽減する",
+          "crystalImageId": "207215",
+          "recipeId": "20721",
+          "recipeName": "ｲﾝﾄﾞﾗ須佐能乎の兜"
+        },
+        {
+          "crystalId": "20722",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "2197",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "慢心の思想",
+          "crystalDescription": "2回行動するまでチャクラ消費30%減少",
+          "crystalImageId": "207225",
+          "recipeId": "20722",
+          "recipeName": "慢心の思想"
+        },
+        {
           "crystalId": "20723",
           "crystalType": "12",
           "crystalRare": "5",

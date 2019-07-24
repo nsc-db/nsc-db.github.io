@@ -20168,6 +20168,24 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2295",
+          "abilityName": "力で示す者",
+          "abilityDescription": "敵に神忍祭限定ｷｬﾗが生存している場合、素早さ200%＆スキル発動速度1段階ｱｯﾌﾟ＆死亡時に「帝王神域」を展開",
+          "abilityEffectDescription": "敵に神忍祭限定ｷｬﾗが生存している場合、素早さ200%＆スキル発動速度1段階ｱｯﾌﾟ＆死亡時に「帝王神域」を展開",
+          "effectIdx1": "2389",
+          "effectIdx2": "2391",
+          "effectIdx3": "2390"
+        },
+        {
+          "abilityId": "2296",
+          "abilityName": "目覚めし万華鏡の瞳",
+          "abilityDescription": "最大チャクラ量100アップ、HP50%以上の時に攻撃力とスキルダメージ150％アップ",
+          "abilityEffectDescription": "最大チャクラ量100アップ、HP50%以上の時に攻撃力とスキルダメージ150％アップ",
+          "effectIdx1": "20009",
+          "effectIdx2": "31414",
+          "effectIdx3": "2392"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

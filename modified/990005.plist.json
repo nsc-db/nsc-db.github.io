@@ -877,5 +877,15 @@
           "uiIdx": "10004",
           "partyEffects": "2326,2339,",
           "enemyEffects": "2326,2329,2330,2331,2334,"
+        },
+        {
+          "battleFieldEffectId": "10005",
+          "name": "帝王神域",
+          "category": "3",
+          "scriptId": "10005",
+          "overWrite": "1",
+          "uiIdx": "10005",
+          "partyEffects": null,
+          "enemyEffects": "2393,2394,"
         }
       ]
