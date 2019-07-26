@@ -685,5 +685,13 @@
         {
           "defineKey": "asset_material_card_limit_all",
           "defineValue": "5000"
+        },
+        {
+          "defineKey": "mission_top_display_key_group_id",
+          "defineValue": "10000"
+        },
+        {
+          "defineKey": "mission_top_display_campaign_type_list",
+          "defineValue": "7,8,9,28,34"
         }
       ]

@@ -1195,6 +1195,19 @@
           "selectType": "3"
         },
         {
+          "itemId": "16004",
+          "name": "4周年記念メダル[8月]",
+          "description": "4周年記念大抽選会[8月]で使用できるメダル。（当日のみ使用可能）",
+          "resultWord": "0",
+          "itemCategoryId": "102",
+          "itemValue": "0",
+          "itemNum": "0",
+          "itemImageId": "16003",
+          "needCount": "1",
+          "priority": "1",
+          "selectType": "3"
+        },
+        {
           "itemId": "51000",
           "name": "ドロップ数２倍の秘伝書",
           "description": "バトルでの獲得ドロップ数が２倍になります。",

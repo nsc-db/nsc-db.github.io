@@ -19343,6 +19343,22 @@
           "recipeName": "うずまき一族のﾏｰｸ"
         },
         {
+          "crystalId": "20727",
+          "crystalType": "3",
+          "crystalRare": "5",
+          "effectIdx1": "2395",
+          "effectIdx2": "2408",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "4周年ロゴ・昼",
+          "crystalDescription": "4回行動するまで素早さが444アップ&amp;スキル発動速度4段階アップ※期間限定で超強化中！",
+          "crystalImageId": "207275",
+          "recipeId": "20727",
+          "recipeName": "4周年ロゴ・昼"
+        },
+        {
           "crystalId": "20736",
           "crystalType": "11",
           "crystalRare": "5",
