@@ -11959,6 +11959,19 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "938",
+          "name": "陽光の継承者",
+          "description": "心属性の最大HPとスキルダメージと攻撃力を150%アップする",
+          "effectIdx1": "1212",
+          "effectIdx2": "794",
+          "effectIdx3": "1268",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

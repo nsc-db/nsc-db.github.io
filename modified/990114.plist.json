@@ -2207,5 +2207,25 @@
           "subScore": "0",
           "color": "14211288",
           "type": "3"
+        },
+        {
+          "cardUnusualId": "225",
+          "category": "4",
+          "iconId": "1255",
+          "name": "神鳴",
+          "description": "使用毎にｶｳﾝﾄ増加。ｽｷﾙﾀﾞﾒｰｼﾞｱｯﾌﾟ＋効果追加。ｶｳﾝﾄ3でｽｷﾙ攻撃時に無所属を封殺",
+          "subScore": "0",
+          "color": "16774242",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "226",
+          "category": "3",
+          "iconId": "1258",
+          "name": "封殺",
+          "description": "行動不能、行動ごとにHPが減少",
+          "subScore": "0",
+          "color": "14211288",
+          "type": "3"
         }
       ]

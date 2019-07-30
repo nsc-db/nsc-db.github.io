@@ -887,5 +887,15 @@
           "uiIdx": "10005",
           "partyEffects": null,
           "enemyEffects": "2393,2394,"
+        },
+        {
+          "battleFieldEffectId": "10006",
+          "name": "救望ノ陽光",
+          "category": "3",
+          "scriptId": "10006",
+          "overWrite": "1",
+          "uiIdx": "10006",
+          "partyEffects": "2226,1910,",
+          "enemyEffects": null
         }
       ]

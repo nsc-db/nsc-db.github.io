@@ -19405,5 +19405,37 @@
           "crystalImageId": "207385",
           "recipeId": "20738",
           "recipeName": "うちわ（赤）"
+        },
+        {
+          "crystalId": "20823",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "682",
+          "effectIdx2": "11049",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "ナルトの求道玉(神)",
+          "crystalDescription": "全スキルダメージと攻撃力が50％アップする",
+          "crystalImageId": "208235",
+          "recipeId": "20823",
+          "recipeName": "ナルトの求道玉(神)"
+        },
+        {
+          "crystalId": "20824",
+          "crystalType": "1",
+          "crystalRare": "5",
+          "effectIdx1": "684",
+          "effectIdx2": "183",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "ナルトの六道羽織(神)",
+          "crystalDescription": "最大HP100%アップ、素早さ30%アップ",
+          "crystalImageId": "208245",
+          "recipeId": "20824",
+          "recipeName": "ナルトの六道羽織(神)"
         }
       ]

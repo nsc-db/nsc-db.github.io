@@ -3068,6 +3068,15 @@
           "category": "0"
         },
         {
+          "cardBehaveAffectId": "1010015",
+          "timing": "1",
+          "func": "27",
+          "params": "225,3",
+          "comp": "0",
+          "compParams": "0",
+          "category": "0"
+        },
+        {
           "cardBehaveAffectId": "1020001",
           "timing": "1",
           "func": "28",
@@ -5522,6 +5531,15 @@
           "params": "0,0",
           "comp": "5",
           "compParams": "222",
+          "category": "0"
+        },
+        {
+          "cardBehaveAffectId": "15031028",
+          "timing": "1",
+          "func": "90",
+          "params": "0,0",
+          "comp": "5",
+          "compParams": "225",
           "category": "0"
         },
         {
@@ -8112,6 +8130,15 @@
           "timing": "1",
           "func": "33",
           "params": "10005,0",
+          "comp": "0",
+          "compParams": "0",
+          "category": "0"
+        },
+        {
+          "cardBehaveAffectId": "30000005",
+          "timing": "1",
+          "func": "33",
+          "params": "10006,0",
           "comp": "0",
           "compParams": "0",
           "category": "0"
