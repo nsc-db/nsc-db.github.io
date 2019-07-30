@@ -11895,6 +11895,19 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "931",
+          "name": "想い秘める桜花",
+          "description": "五大隠れ里所属の最大HPとスキルダメージを80%アップ",
+          "effectIdx1": "2144",
+          "effectIdx2": "2145",
+          "effectIdx3": "0",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "932",
           "name": "絆の仁才",
           "description": "技属性の最大HP150%アップ、スキル発動速度1段階アップ",
@@ -11904,6 +11917,58 @@ window.lead=[
           "compType": "1",
           "target1Category": "1",
           "target1Param": "2",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "933",
+          "name": "戦地の癒桜",
+          "description": "木ノ葉隠れの里所属の最大HPとスキルダメージが60%アップする",
+          "effectIdx1": "10059",
+          "effectIdx2": "678",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "934",
+          "name": "破邪の光焔",
+          "description": "木ノ葉隠れの里所属のキャラが3回行動するまでスキルダメージ150%アップ&amp;スキップ無効",
+          "effectIdx1": "30214",
+          "effectIdx2": "2382",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "935",
+          "name": "力の仙才",
+          "description": "心属性の攻撃力とスキルダメージを100%アップ",
+          "effectIdx1": "11099",
+          "effectIdx2": "774",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "938",
+          "name": "陽光の継承者",
+          "description": "心属性の最大HPとスキルダメージと攻撃力を150%アップする",
+          "effectIdx1": "1212",
+          "effectIdx2": "794",
+          "effectIdx3": "1268",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "1",
           "target2Category": "0",
           "target2Param": "0"
         },

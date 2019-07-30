@@ -20097,6 +20097,24 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2287",
+          "abilityName": "想い宿す癒し手",
+          "abilityDescription": "敵の創キャラからのダメージ75%カット、行動するたびにHPが50%回復",
+          "abilityEffectDescription": "敵の創キャラからのダメージ75%カット、行動するたびにHPが50%回復",
+          "effectIdx1": "2374",
+          "effectIdx2": "2375",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2288",
+          "abilityName": "献身的な愛情",
+          "abilityDescription": "HP0以下で1回まで耐え、耐えた後、高確率でスキル回避",
+          "abilityEffectDescription": "HP0以下で1回まで耐え、耐えた後、高確率でスキル回避",
+          "effectIdx1": "312",
+          "effectIdx2": "2376",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "2289",
           "abilityName": "絆を結ぶ者",
           "abilityDescription": "味方に千手柱間かうずまきナルトが生存しているとスキルダメージ100%アップ、どちらもいると200%アップ",
@@ -20113,6 +20131,78 @@ window.ability=[
           "effectIdx1": "2380",
           "effectIdx2": "2379",
           "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2291",
+          "abilityName": "医療の技量",
+          "abilityDescription": "確率でスキルを回避、HPが0以下になると1度だけHPが全回復する",
+          "abilityEffectDescription": "確率でスキルを回避、HPが0以下になると1度だけHPが全回復する",
+          "effectIdx1": "734",
+          "effectIdx2": "312",
+          "effectIdx3": "874"
+        },
+        {
+          "abilityId": "2292",
+          "abilityName": "脅威の剛腕",
+          "abilityDescription": "最大チャクラ量が100アップ、行動後にチャクラが20％回復する",
+          "abilityEffectDescription": "最大チャクラ量が100アップ、行動後にチャクラが20％回復する",
+          "effectIdx1": "20009",
+          "effectIdx2": "1768",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2293",
+          "abilityName": "贖罪の想い",
+          "abilityDescription": "バトル開始時に特殊状態「幻術モード」になり、5回行動するまで攻撃・防御・素早さが120%アップ",
+          "abilityEffectDescription": "バトル開始時に特殊状態「幻術モード」になり、5回行動するまで攻撃・防御・素早さが120%アップ",
+          "effectIdx1": "2381",
+          "effectIdx2": "2218",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2294",
+          "abilityName": "闇と光を見る瞳",
+          "abilityDescription": "弱体・幻を無効化し、HP0以下で3回まで耐える",
+          "abilityEffectDescription": "弱体・幻を無効化し、HP0以下で3回まで耐える",
+          "effectIdx1": "1008",
+          "effectIdx2": "1789",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2295",
+          "abilityName": "力で示す者",
+          "abilityDescription": "敵に神忍祭限定ｷｬﾗが生存している場合、素早さ200%＆スキル発動速度1段階ｱｯﾌﾟ＆死亡時に「帝王神域」を展開",
+          "abilityEffectDescription": "敵に神忍祭限定ｷｬﾗが生存している場合、素早さ200%＆スキル発動速度1段階ｱｯﾌﾟ＆死亡時に「帝王神域」を展開",
+          "effectIdx1": "2389",
+          "effectIdx2": "2391",
+          "effectIdx3": "2390"
+        },
+        {
+          "abilityId": "2296",
+          "abilityName": "目覚めし万華鏡の瞳",
+          "abilityDescription": "最大チャクラ量100アップ、HP50%以上の時に攻撃力とスキルダメージ150％アップ",
+          "abilityEffectDescription": "最大チャクラ量100アップ、HP50%以上の時に攻撃力とスキルダメージ150％アップ",
+          "effectIdx1": "20009",
+          "effectIdx2": "31414",
+          "effectIdx3": "2392"
+        },
+        {
+          "abilityId": "2301",
+          "abilityName": "仲間を守る答え",
+          "abilityDescription": "HP0以下で1回だけHP全回復、最大チャクラ量200アップ",
+          "abilityEffectDescription": "HP0以下で1回だけHP全回復、最大チャクラ量200アップ",
+          "effectIdx1": "312",
+          "effectIdx2": "874",
+          "effectIdx3": "20019"
+        },
+        {
+          "abilityId": "2302",
+          "abilityName": "友を救う決意",
+          "abilityDescription": "2回行動まで素早さ200%アップ、敵に無所属がいる場合さらに素早さ250%アップ＆スキル発動速度1段階アップ",
+          "abilityEffectDescription": "2回行動まで素早さ200%アップ、敵に無所属がいる場合さらに素早さ250%アップ＆スキル発動速度1段階アップ",
+          "effectIdx1": "1693",
+          "effectIdx2": "2047",
+          "effectIdx3": "2048"
         },
         {
           "abilityId": "10000",

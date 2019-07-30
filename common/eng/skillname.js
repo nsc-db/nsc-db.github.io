@@ -7547,6 +7547,16 @@ window.skillname=[
           "eng": ""
         },
         {
+          "cardBattleSkillNameId": "2723",
+          "name": "背刃殺",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2724",
+          "name": "もう後悔したくない…",
+          "eng": ""
+        },
+        {
           "cardBattleSkillNameId": "2725",
           "name": "祝爆の美",
           "eng": "Burst of Beautiful Celebration"
@@ -7555,6 +7565,351 @@ window.skillname=[
           "cardBattleSkillNameId": "2726",
           "name": "遅いね…うん",
           "eng": "It's Too Late..."
+        },
+        {
+          "cardBattleSkillNameId": "2727",
+          "name": "鷹爪襲陣",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2728",
+          "name": "見逃さない！",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2729",
+          "name": "次は眼で語る戦いにしよう",
+          "eng": "This is the Battle for the Eyes"
+        },
+        {
+          "cardBattleSkillNameId": "2730",
+          "name": "怨嗟を宿す虚鎧",
+          "eng": "Resentment Hollowed Armor"
+        },
+        {
+          "cardBattleSkillNameId": "2731",
+          "name": "これが眼で語る戦いだ",
+          "eng": "This is the Battle to Show my Eyes"
+        },
+        {
+          "cardBattleSkillNameId": "2732",
+          "name": "封滅・屍鬼封尽",
+          "eng": "Destruction: Reaper Death Seal"
+        },
+        {
+          "cardBattleSkillNameId": "2733",
+          "name": "木ノ葉の家を守る！！",
+          "eng": "Proctecting the Konoha Village!!"
+        },
+        {
+          "cardBattleSkillNameId": "2734",
+          "name": "…仲間を忘れるな",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2735",
+          "name": "影分身の術・三位一体",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2736",
+          "name": "それじゃあこっちからいくぜ",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2737",
+          "name": "援撃疾風",
+          "eng": "Assault Gust"
+        },
+        {
+          "cardBattleSkillNameId": "2738",
+          "name": "頑張れよ！",
+          "eng": "Do Your Best!"
+        },
+        {
+          "cardBattleSkillNameId": "2741",
+          "name": "火遁・爪紅鴉躍",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2742",
+          "name": "オレはその不信を払いたい",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2743",
+          "name": "秘術・毒注掌",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2744",
+          "name": "次でケリをつける！",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2745",
+          "name": "嵐遁・青鷲刃",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2746",
+          "name": "初弾はオレが！",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2747",
+          "name": "木ノ葉旋烈風",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2748",
+          "name": "死んでも守りぬきますから！",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2749",
+          "name": "幻鴉閃刃",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2750",
+          "name": "分かってる…",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2751",
+          "name": "豪破天眩脚",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2752",
+          "name": "それは私が死ねばの話だ",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2753",
+          "name": "錨のボルテージ",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2754",
+          "name": "出航しないともう一笛よ！！",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2755",
+          "name": "全方位サスケロックオン",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2756",
+          "name": "だらしない奴だな！",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2757",
+          "name": "梅雨払い・八卦船掌",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2758",
+          "name": "大海原が私を変えてくれた！",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2759",
+          "name": "昔とは違うのが分かったろ…",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2760",
+          "name": "無音殺人術・怨刃",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2761",
+          "name": "気にくわねェ…",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2762",
+          "name": "氷遁秘術・幽魔鏡",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2763",
+          "name": "…ボクに任せて下さい",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2764",
+          "name": "雷切・昂眼輝掌",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2765",
+          "name": "やるぞ！！",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2766",
+          "name": "求道玉・三界死滅",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2767",
+          "name": "そうはさせん",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2768",
+          "name": "火遁・豪炎弾",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2769",
+          "name": "ワシがやる",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2770",
+          "name": "秘術・ぶっトビ魔時空",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2771",
+          "name": "あらよっと！",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2772",
+          "name": "八卦掌・挺身回天",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2773",
+          "name": "オレの父がそうだったように",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2774",
+          "name": "金剛封鎖・滅凶",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2775",
+          "name": "今まで…色々ありがとう",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2776",
+          "name": "螺旋丸・信念",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2777",
+          "name": "これがオレのサインだ！！",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2778",
+          "name": "螺旋丸・憎念",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2779",
+          "name": "オレはお前自身だ",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2780",
+          "name": "擦足・影首縛り",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2781",
+          "name": "ゆっくりさせてくれ…",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2782",
+          "name": "八卦空掌波",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2783",
+          "name": "心せよ！",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2784",
+          "name": "魔球・斬り斬り舞",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2785",
+          "name": "男のクセしやがって",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2786",
+          "name": "夏だ！水着だ！愛の罵倒だ！",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2787",
+          "name": "…このゲスチンヤロー",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2788",
+          "name": "活断・桜花衝",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2789",
+          "name": "私、まだ何も言ってません！",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2790",
+          "name": "六道・日輪ノ環",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2791",
+          "name": "みんな…！",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2792",
+          "name": "口寄せ・カツユ散弾",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2793",
+          "name": "説明しないともう一発よ！！",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2794",
+          "name": "紫閃・瞬天刃",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2795",
+          "name": "やるべきことをやるだけだ",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2796",
+          "name": "須佐能乎・朔望ノ刃",
+          "eng": ""
+        },
+        {
+          "cardBattleSkillNameId": "2797",
+          "name": "ほう…オレと戦うだと…？",
+          "eng": ""
         },
         {
           "cardBattleSkillNameId": "10136",
@@ -7594,7 +7949,7 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "14008",
           "name": "イザナギ",
-          "eng": ""
+          "eng": "Izanagi"
         },
         {
           "cardBattleSkillNameId": "14009",

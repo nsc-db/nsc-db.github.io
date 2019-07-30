@@ -6312,12 +6312,52 @@ window.skillname=[
           "name": "…このゲスチンヤロー"
         },
         {
+          "cardBattleSkillNameId": "2788",
+          "name": "活断・桜花衝"
+        },
+        {
+          "cardBattleSkillNameId": "2789",
+          "name": "私、まだ何も言ってません！"
+        },
+        {
           "cardBattleSkillNameId": "2790",
           "name": "六道・日輪ノ環"
         },
         {
           "cardBattleSkillNameId": "2791",
           "name": "みんな…！"
+        },
+        {
+          "cardBattleSkillNameId": "2792",
+          "name": "口寄せ・カツユ散弾"
+        },
+        {
+          "cardBattleSkillNameId": "2793",
+          "name": "説明しないともう一発よ！！"
+        },
+        {
+          "cardBattleSkillNameId": "2794",
+          "name": "紫閃・瞬天刃"
+        },
+        {
+          "cardBattleSkillNameId": "2795",
+          "name": "やるべきことをやるだけだ"
+        },
+        {
+          "cardBattleSkillNameId": "2796",
+          "name": "須佐能乎・朔望ノ刃"
+        },
+        {
+          "cardBattleSkillNameId": "2797",
+          "name": "ほう…オレと戦うだと…？"
+        },
+        {
+          "cardBattleSkillNameId": "2802",
+          "name": "仙法・超尾獣螺旋手裏剣"
+        },
+        {
+          "cardBattleSkillNameId": "2803",
+          "name": "行くぞ皆ァ！！"
         },
         {
           "cardBattleSkillNameId": "10136",
@@ -6470,6 +6510,22 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "20902",
           "name": "単体攻撃＋？"
+        },
+        {
+          "cardBattleSkillNameId": "21100",
+          "name": "シャリシャリシャリシャリ"
+        },
+        {
+          "cardBattleSkillNameId": "21101",
+          "name": "キーーーーーーン！"
+        },
+        {
+          "cardBattleSkillNameId": "21110",
+          "name": "パタパタ…"
+        },
+        {
+          "cardBattleSkillNameId": "21111",
+          "name": "わっしょい！わっしょい！"
         },
         {
           "cardBattleSkillNameId": "30000",

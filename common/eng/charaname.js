@@ -308,6 +308,20 @@ window.charaname=[
           "gender": "1"
         },
         {
+          "charaProfileId": "212",
+          "charaId": "2",
+          "name": "Sasuke Uchiha",
+          "detail": "疾風伝",
+          "charaLoveAffinityGroupId": "220",
+          "birthday": "723",
+          "constellation": "5",
+          "height": "16800",
+          "weight": "5220",
+          "bloodType": "4",
+          "age": "16",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "301",
           "charaId": "3",
           "name": "Sakura Haruno",
@@ -1652,6 +1666,20 @@ window.charaname=[
           "gender": "1"
         },
         {
+          "charaProfileId": "4102",
+          "charaId": "41",
+          "name": "Shisui Uchiha",
+          "detail": null,
+          "charaLoveAffinityGroupId": "4110",
+          "birthday": "1019",
+          "constellation": "7",
+          "height": "18000",
+          "weight": "6890",
+          "bloodType": "1",
+          "age": "0",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "4201",
           "charaId": "42",
           "name": "Tenzo",
@@ -1792,6 +1820,20 @@ window.charaname=[
           "gender": "1"
         },
         {
+          "charaProfileId": "10102",
+          "charaId": "101",
+          "name": "Zabuza Momochi",
+          "detail": "穢土転生",
+          "charaLoveAffinityGroupId": "10120",
+          "birthday": "815",
+          "constellation": "5",
+          "height": "0",
+          "weight": "0",
+          "bloodType": "1",
+          "age": "0",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "10201",
           "charaId": "102",
           "name": "Haku",
@@ -1803,6 +1845,20 @@ window.charaname=[
           "weight": "4320",
           "bloodType": "3",
           "age": "15",
+          "gender": "1"
+        },
+        {
+          "charaProfileId": "10202",
+          "charaId": "102",
+          "name": "Haku",
+          "detail": "穢土転生",
+          "charaLoveAffinityGroupId": "10220",
+          "birthday": "109",
+          "constellation": "10",
+          "height": "0",
+          "weight": "0",
+          "bloodType": "3",
+          "age": "0",
           "gender": "1"
         },
         {
@@ -3220,6 +3276,20 @@ window.charaname=[
           "gender": "1"
         },
         {
+          "charaProfileId": "50904",
+          "charaId": "509",
+          "name": "Obito Uchiha",
+          "detail": null,
+          "charaLoveAffinityGroupId": "50910",
+          "birthday": "210",
+          "constellation": "11",
+          "height": "18200",
+          "weight": "7030",
+          "bloodType": "3",
+          "age": "31",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "51001",
           "charaId": "510",
           "name": "Rin Nohara",
@@ -3301,6 +3371,20 @@ window.charaname=[
           "weight": "7230",
           "bloodType": "3",
           "age": "65",
+          "gender": "1"
+        },
+        {
+          "charaProfileId": "51801",
+          "charaId": "518",
+          "name": "Torune Aburame",
+          "detail": null,
+          "charaLoveAffinityGroupId": "51810",
+          "birthday": "1024",
+          "constellation": "8",
+          "height": "17830",
+          "weight": "6870",
+          "bloodType": "3",
+          "age": "19",
           "gender": "1"
         },
         {
