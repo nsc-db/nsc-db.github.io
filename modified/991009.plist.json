@@ -2153,6 +2153,12 @@
           "itemImgId": "366"
         },
         {
+          "shopExchangeItemId": "367",
+          "itemName": "昇級試験Pt",
+          "measure": "0",
+          "itemImgId": "128"
+        },
+        {
           "shopExchangeItemId": "1001",
           "itemName": "下心Pt",
           "measure": null,
@@ -2445,6 +2451,12 @@
           "itemName": "個人Pt",
           "measure": "0",
           "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "1050",
+          "itemName": "ビーチフラッグ",
+          "measure": "0",
+          "itemImgId": "49"
         },
         {
           "shopExchangeItemId": "2000",
@@ -2823,6 +2835,12 @@
           "itemName": "六道札",
           "measure": "0",
           "itemImgId": "2067"
+        },
+        {
+          "shopExchangeItemId": "2068",
+          "itemName": "4周年札",
+          "measure": "0",
+          "itemImgId": "2068"
         },
         {
           "shopExchangeItemId": "2500",

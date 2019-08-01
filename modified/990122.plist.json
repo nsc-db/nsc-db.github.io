@@ -2603,6 +2603,18 @@
           "voiceDeath": "sasuke_death_03_03"
         },
         {
+          "cardVoiceId": "220",
+          "cardId": "20050810",
+          "dirName": "tsunade",
+          "evolutionStep": "",
+          "voiceAppear": "tsunade_battle_02_03",
+          "voiceSkill1": "tsunade_pursuit_02_01",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "tsunade_win_02_03",
+          "voiceDeath": "tsunade_damage_02_02"
+        },
+        {
           "cardVoiceId": "221",
           "cardId": "20050820",
           "dirName": "naruto",

@@ -5044,5 +5044,26 @@
           "assetCategoryId": "12",
           "materialId": "20528",
           "materialNum": "5"
+        },
+        {
+          "crystalRecipeId": "803",
+          "recipeId": "20731",
+          "assetCategoryId": "12",
+          "materialId": "20728",
+          "materialNum": "4"
+        },
+        {
+          "crystalRecipeId": "804",
+          "recipeId": "20731",
+          "assetCategoryId": "12",
+          "materialId": "20729",
+          "materialNum": "4"
+        },
+        {
+          "crystalRecipeId": "805",
+          "recipeId": "20731",
+          "assetCategoryId": "12",
+          "materialId": "20730",
+          "materialNum": "4"
         }
       ]

@@ -20186,6 +20186,42 @@
           "effectIdx3": "2392"
         },
         {
+          "abilityId": "2297",
+          "abilityName": "貫禄の肢体",
+          "abilityDescription": "2回行動するまでスキル発動速度1段階アップ、HPが90%以上で素早さ120%アップ",
+          "abilityEffectDescription": "2回行動するまでスキル発動速度1段階アップ、HPが90%以上で素早さ120%アップ",
+          "effectIdx1": "1379",
+          "effectIdx2": "2399",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2298",
+          "abilityName": "男たちの夏の夢",
+          "abilityDescription": "2回行動するまで男性キャラから受ける耐性無視ダメージ0&amp;全スキル無効",
+          "abilityEffectDescription": "2回行動するまで男性キャラから受ける耐性無視ダメージ0&amp;全スキル無効",
+          "effectIdx1": "1989",
+          "effectIdx2": "1990",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2299",
+          "abilityName": "真夏の補佐系女子",
+          "abilityDescription": "敵に体属性が生存していると素早さ120％アップ&amp;再行動する　※再行動後にさらに行動はできない",
+          "abilityEffectDescription": "敵に体属性が生存していると素早さ120％アップ&amp;再行動する　※再行動後にさらに行動はできない",
+          "effectIdx1": "2400",
+          "effectIdx2": "2401",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2300",
+          "abilityName": "ジューシーな汗",
+          "abilityDescription": "状態異常無効、1回行動するまでキャンセル無効",
+          "abilityEffectDescription": "状態異常無効、1回行動するまでキャンセル無効",
+          "effectIdx1": "82",
+          "effectIdx2": "1804",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "2301",
           "abilityName": "仲間を守る答え",
           "abilityDescription": "HP0以下で1回だけHP全回復、最大チャクラ量200アップ",
