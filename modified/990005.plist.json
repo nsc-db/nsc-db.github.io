@@ -897,5 +897,15 @@
           "uiIdx": "10006",
           "partyEffects": "2226,1910,",
           "enemyEffects": null
+        },
+        {
+          "battleFieldEffectId": "10007",
+          "name": "威装ノ堅翼",
+          "category": "3",
+          "scriptId": "10007",
+          "overWrite": "1",
+          "uiIdx": "10007",
+          "partyEffects": "2409,439,",
+          "enemyEffects": null
         }
       ]

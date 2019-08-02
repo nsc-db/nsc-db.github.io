@@ -82539,6 +82539,271 @@
           "message": "オレ達の意志を超えたところに、勝負の行く末がかかっているのかもしれん"
         },
         {
+          "scriptMessageId": "29003",
+          "speechCharactorId": "297",
+          "message": "………"
+        },
+        {
+          "scriptMessageId": "29004",
+          "speechCharactorId": "297",
+          "message": "（チャクラを分けた我が子達…）"
+        },
+        {
+          "scriptMessageId": "29005",
+          "speechCharactorId": "332",
+          "message": "（動けねェ…）"
+        },
+        {
+          "scriptMessageId": "29006",
+          "speechCharactorId": "561",
+          "message": "…さっきも言ったな…\r\n母はかつて我が子の手で \r\n封印されたと"
+        },
+        {
+          "scriptMessageId": "29007",
+          "speechCharactorId": "561",
+          "message": "お前達に見せてやる\r\nアメ玉はないが紙芝居の始まりだ"
+        },
+        {
+          "scriptMessageId": "29008",
+          "speechCharactorId": "741",
+          "message": "母上はああして毎日空を\r\n見上げているが\r\nいったい何を見ているのだろう…"
+        },
+        {
+          "scriptMessageId": "29009",
+          "speechCharactorId": "740",
+          "message": "私たちには何も\r\n語ってくれないからな\r\n心の内は誰も分からない"
+        },
+        {
+          "scriptMessageId": "29010",
+          "speechCharactorId": "740",
+          "message": "きっと母上には\r\n我ら息子とてはかり知れない\r\n想いがあるのかもしれんな"
+        },
+        {
+          "scriptMessageId": "29011",
+          "speechCharactorId": "740",
+          "message": "川の流れが弱くなった…？\r\n上流で何かあったのか"
+        },
+        {
+          "scriptMessageId": "29012",
+          "speechCharactorId": "740",
+          "message": "我々で見てくる\r\n行くぞ、ハムラ"
+        },
+        {
+          "scriptMessageId": "29013",
+          "speechCharactorId": "741",
+          "message": "…うん"
+        },
+        {
+          "scriptMessageId": "29014",
+          "speechCharactorId": "740",
+          "message": "なるほど…\r\nこいつが川の流れを塞いでいたのか"
+        },
+        {
+          "scriptMessageId": "29015",
+          "speechCharactorId": "741",
+          "message": "だけど…この岩はどこから来たんだ？\r\n前に来た時にはなかったよ"
+        },
+        {
+          "scriptMessageId": "29016",
+          "speechCharactorId": "741",
+          "message": "こんな大岩を動かせるのは\r\n母上か兄者以外いないぞ"
+        },
+        {
+          "scriptMessageId": "29017",
+          "speechCharactorId": "742",
+          "message": "それはワシが置いたのじゃ"
+        },
+        {
+          "scriptMessageId": "29018",
+          "speechCharactorId": "742",
+          "message": "ワシの名前はガマ丸\r\nお前たちは\r\nハゴロモとハムラじゃな？"
+        },
+        {
+          "scriptMessageId": "29019",
+          "speechCharactorId": "742",
+          "message": "二人とも、ちょっと来い"
+        },
+        {
+          "scriptMessageId": "29020",
+          "speechCharactorId": "742",
+          "message": "あの向こうに神樹の正体がある"
+        },
+        {
+          "scriptMessageId": "29021",
+          "speechCharactorId": "740",
+          "message": "神樹の正体？"
+        },
+        {
+          "scriptMessageId": "29022",
+          "speechCharactorId": "742",
+          "message": "神樹は大地の力を\r\n吸い取り続けている\r\nあれがある限り\r\n大地は弱り続ける"
+        },
+        {
+          "scriptMessageId": "29023",
+          "speechCharactorId": "741",
+          "message": "でも…神樹の力で\r\nこの地は潤っていると聞くけど…"
+        },
+        {
+          "scriptMessageId": "29024",
+          "speechCharactorId": "742",
+          "message": "違う…真実を知りたかったら\r\n峠の向こうを見てみるんじゃな\r\n…じゃあの"
+        },
+        {
+          "scriptMessageId": "29025",
+          "speechCharactorId": "740",
+          "message": "…真実……"
+        },
+        {
+          "scriptMessageId": "29026",
+          "speechCharactorId": "740",
+          "message": "母上\r\n神樹のしきたりを中止して下さい"
+        },
+        {
+          "scriptMessageId": "29027",
+          "speechCharactorId": "750",
+          "message": "それはならぬ\r\nお前たちとて\r\nワラワに逆らうことは許しません"
+        },
+        {
+          "scriptMessageId": "29028",
+          "speechCharactorId": "740",
+          "message": "では教えてください\r\nあのしきたりで神樹に\r\n向かった者たちは\r\nどうなるのです？"
+        },
+        {
+          "scriptMessageId": "29029",
+          "speechCharactorId": "740",
+          "message": "何故一人も帰って来ないのですか"
+        },
+        {
+          "scriptMessageId": "29030",
+          "speechCharactorId": "750",
+          "message": "…しきたりは必要なのだ"
+        },
+        {
+          "scriptMessageId": "29031",
+          "speechCharactorId": "750",
+          "message": "ハゴロモ…ハムラ…\r\nワラワはまた出かける\r\n留守を頼む"
+        },
+        {
+          "scriptMessageId": "29032",
+          "speechCharactorId": "741",
+          "message": "……兄者、まさか？"
+        },
+        {
+          "scriptMessageId": "29033",
+          "speechCharactorId": "740",
+          "message": "ああ…私はあの峠に登ろうと思う"
+        },
+        {
+          "scriptMessageId": "29034",
+          "speechCharactorId": "741",
+          "message": "母上に知れれば\r\nタダでは済まないぞ…！"
+        },
+        {
+          "scriptMessageId": "29035",
+          "speechCharactorId": "740",
+          "message": "それは覚悟の上だ"
+        },
+        {
+          "scriptMessageId": "29036",
+          "speechCharactorId": "741",
+          "message": "分かった兄者…\r\nオレも行こう"
+        },
+        {
+          "scriptMessageId": "29037",
+          "speechCharactorId": "749",
+          "message": "母上…！\r\nもうお戻りになられたのですか"
+        },
+        {
+          "scriptMessageId": "29038",
+          "speechCharactorId": "297",
+          "message": "ハゴロモはどうしたのです？"
+        },
+        {
+          "scriptMessageId": "29039",
+          "speechCharactorId": "749",
+          "message": "…兄者は…\r\nまだ村を見回りに行ったまま…"
+        },
+        {
+          "scriptMessageId": "29040",
+          "speechCharactorId": "297",
+          "message": "ハムラ"
+        },
+        {
+          "scriptMessageId": "29041",
+          "speechCharactorId": "297",
+          "message": "ワラワに隠し事は無駄だ"
+        },
+        {
+          "scriptMessageId": "29042",
+          "speechCharactorId": "749",
+          "message": "………クッ"
+        },
+        {
+          "scriptMessageId": "29043",
+          "speechCharactorId": "297",
+          "message": "無駄だ…お前の“白眼”では\r\nはね返そうとしても"
+        },
+        {
+          "scriptMessageId": "29044",
+          "speechCharactorId": "297",
+          "message": "ワラワの“白眼”は \r\nお前のを遥かに上回る"
+        },
+        {
+          "scriptMessageId": "29045",
+          "speechCharactorId": "743",
+          "message": "母上、今一度愛の力を！\r\n神樹のしきたりをやめてください！"
+        },
+        {
+          "scriptMessageId": "29046",
+          "speechCharactorId": "297",
+          "message": "やめぬ！お前たちを守ったこと…\r\nそしてここまで育ててきたこと…\r\n全ては無駄だったようだ"
+        },
+        {
+          "scriptMessageId": "29047",
+          "speechCharactorId": "297",
+          "message": "所詮、お前たちと\r\nワラワでは分かり合えぬ\r\nならばハゴロモ…"
+        },
+        {
+          "scriptMessageId": "29048",
+          "speechCharactorId": "297",
+          "message": "その力…ワラワに返してもらう"
+        },
+        {
+          "scriptMessageId": "29049",
+          "speechCharactorId": "749",
+          "message": "………"
+        },
+        {
+          "scriptMessageId": "29050",
+          "speechCharactorId": "743",
+          "message": "…ハムラ！？\r\n母上…ハムラに何を！？"
+        },
+        {
+          "scriptMessageId": "29051",
+          "speechCharactorId": "743",
+          "message": "許せ…ハムラ…！"
+        },
+        {
+          "scriptMessageId": "29052",
+          "speechCharactorId": "749",
+          "message": "……兄者…ぐはっ\r\n……オレは…？"
+        },
+        {
+          "scriptMessageId": "29053",
+          "speechCharactorId": "719",
+          "message": "お前は母上に操られていたんだ\r\n…喋るな、今傷を治してやる"
+        },
+        {
+          "scriptMessageId": "29054",
+          "speechCharactorId": "297",
+          "message": "ハゴロモ…ハムラ…！！"
+        },
+        {
+          "scriptMessageId": "29055",
+          "speechCharactorId": "561",
+          "message": "…こうしてハゴロモとハムラ\r\nそして母カグヤの\r\n戦いが始まったのだ"
+        },
+        {
           "scriptMessageId": "40001",
           "speechCharactorId": "178",
           "message": "絶望しかないこの世界に\r\n存在する価値はない"

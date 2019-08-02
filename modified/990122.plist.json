@@ -2627,6 +2627,18 @@
           "voiceDeath": "naruto_death_02_06"
         },
         {
+          "cardVoiceId": "222",
+          "cardId": "20050821",
+          "dirName": "sasuke",
+          "evolutionStep": "",
+          "voiceAppear": "sasuke_win_02_09",
+          "voiceSkill1": "sasuke_skill_02_13,sasuke_pursuit_02_02",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "sasuke_win_02_06",
+          "voiceDeath": "sasuke_death_02_07"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

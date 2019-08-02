@@ -4349,10 +4349,46 @@
           "speechCharactorName": "うずまきナルト"
         },
         {
+          "speechCharactorId": "740",
+          "cardId": "740",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "大筒木ハゴロモ"
+        },
+        {
+          "speechCharactorId": "741",
+          "cardId": "741",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "大筒木ハムラ"
+        },
+        {
+          "speechCharactorId": "742",
+          "cardId": "742",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "ガマ丸"
+        },
+        {
+          "speechCharactorId": "743",
+          "cardId": "743",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "大筒木ハゴロモ"
+        },
+        {
           "speechCharactorId": "744",
           "cardId": "20040208",
           "speechCharactorImgId": "0",
           "speechCharactorName": "うちはイズナ"
+        },
+        {
+          "speechCharactorId": "749",
+          "cardId": "20040809",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "大筒木ハムラ"
+        },
+        {
+          "speechCharactorId": "750",
+          "cardId": "20040502",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "大筒木カグヤ"
         },
         {
           "speechCharactorId": "1000",

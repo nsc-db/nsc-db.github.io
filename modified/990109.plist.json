@@ -20240,6 +20240,60 @@
           "effectIdx3": "2048"
         },
         {
+          "abilityId": "2303",
+          "abilityName": "愛を信じる心",
+          "abilityDescription": "班の無所属のキャラ1体につき、自身のHPが40%アップ（自身含む）",
+          "abilityEffectDescription": "班の無所属のキャラ1体につき、自身のHPが40%アップ（自身含む）",
+          "effectIdx1": "2410",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2304",
+          "abilityName": "絶大な仙力",
+          "abilityDescription": "バトル開始時に特殊状態「月輪」になり、3回行動するまでスキル発動速度1段階アップ、最大チャクラ量100アップ",
+          "abilityEffectDescription": "バトル開始時に特殊状態「月輪」になり、3回行動するまでスキル発動速度1段階アップ、最大チャクラ量100アップ",
+          "effectIdx1": "20009",
+          "effectIdx2": "1958",
+          "effectIdx3": "2411"
+        },
+        {
+          "abilityId": "2305",
+          "abilityName": "母と戦う決意",
+          "abilityDescription": "班の無所属のキャラ1体につき、自身の素早さが40%アップ（自身含む）",
+          "abilityEffectDescription": "班の無所属のキャラ1体につき、自身の素早さが40%アップ（自身含む）",
+          "effectIdx1": "2416",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2306",
+          "abilityName": "白き眼の見切り",
+          "abilityDescription": "バトル開始時にチャクラを50%回復、3回行動するまでスキル発動速度1段階アップ、最大チャクラ量100アップ",
+          "abilityEffectDescription": "バトル開始時にチャクラを50%回復、3回行動するまでスキル発動速度1段階アップ、最大チャクラ量100アップ",
+          "effectIdx1": "20009",
+          "effectIdx2": "1958",
+          "effectIdx3": "1115"
+        },
+        {
+          "abilityId": "2307",
+          "abilityName": "闇を背負う選択",
+          "abilityDescription": "HP0以下で1回だけHP全回復、最大チャクラ量200アップ",
+          "abilityEffectDescription": "HP0以下で1回だけHP全回復、最大チャクラ量200アップ",
+          "effectIdx1": "312",
+          "effectIdx2": "874",
+          "effectIdx3": "20019"
+        },
+        {
+          "abilityId": "2308",
+          "abilityName": "友を断つ決意",
+          "abilityDescription": "素早さ1,000%アップ、幻・状態異常無効、敵に無所属がいるとスキップ無効",
+          "abilityEffectDescription": "素早さ1,000%アップ、幻・状態異常無効、敵に無所属がいるとスキップ無効",
+          "effectIdx1": "13100",
+          "effectIdx2": "1638",
+          "effectIdx3": "2415"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

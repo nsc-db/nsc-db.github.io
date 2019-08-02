@@ -11998,6 +11998,45 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "939",
+          "name": "叡智の仁仙",
+          "description": "心・知属性の最大HP150%アップ",
+          "effectIdx1": "1212",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "2",
+          "target1Category": "1",
+          "target1Param": "1",
+          "target2Category": "1",
+          "target2Param": "6"
+        },
+        {
+          "cardLeaderSkillId": "940",
+          "name": "英武の仙弟",
+          "description": "技・勇属性のスキルダメージ150%アップ",
+          "effectIdx1": "794",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "2",
+          "target1Category": "1",
+          "target1Param": "2",
+          "target2Category": "1",
+          "target2Param": "7"
+        },
+        {
+          "cardLeaderSkillId": "941",
+          "name": "陰月の転生者",
+          "description": "技属性のスキルダメージと素早さを100%アップする",
+          "effectIdx1": "774",
+          "effectIdx2": "13099",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "2",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

@@ -467,6 +467,19 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
+          "worldStageId": "1269",
+          "worldAreaId": "5",
+          "priority": "1",
+          "name": "六道の歴史～封じし兄弟～",
+          "description": "個人Ptを集めて固有忍具や育成素材を獲得しよう！\r\n転生者忍具ガチャチケットも登場！",
+          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
           "worldStageId": "1270",
           "worldAreaId": "5",
           "priority": "2",
