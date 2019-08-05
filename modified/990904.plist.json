@@ -493,6 +493,19 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
+          "worldStageId": "1271",
+          "worldAreaId": "5",
+          "priority": "2",
+          "name": "NARUTO軌跡集-和解の印-前篇",
+          "description": "個人Ptを集めてストーリーをクリアすると\r\n新しいストーリーが解放されます",
+          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
           "worldStageId": "4095",
           "worldAreaId": "5",
           "priority": "1",
