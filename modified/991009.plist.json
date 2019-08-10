@@ -1,0 +1,2965 @@
+[        {
+          "shopExchangeItemId": "1",
+          "itemName": "カエル札",
+          "measure": null,
+          "itemImgId": "1"
+        },
+        {
+          "shopExchangeItemId": "2",
+          "itemName": "修業の証",
+          "measure": null,
+          "itemImgId": "2"
+        },
+        {
+          "shopExchangeItemId": "3",
+          "itemName": "スイカ札",
+          "measure": null,
+          "itemImgId": "3"
+        },
+        {
+          "shopExchangeItemId": "4",
+          "itemName": "暁ポイント",
+          "measure": null,
+          "itemImgId": "4"
+        },
+        {
+          "shopExchangeItemId": "5",
+          "itemName": "新春マイル",
+          "measure": null,
+          "itemImgId": "5"
+        },
+        {
+          "shopExchangeItemId": "7",
+          "itemName": "ランクPt",
+          "measure": null,
+          "itemImgId": "7"
+        },
+        {
+          "shopExchangeItemId": "8",
+          "itemName": "太陽マイル",
+          "measure": null,
+          "itemImgId": "8"
+        },
+        {
+          "shopExchangeItemId": "9",
+          "itemName": "一輪の薔薇",
+          "measure": null,
+          "itemImgId": "9"
+        },
+        {
+          "shopExchangeItemId": "10",
+          "itemName": "ランクPt",
+          "measure": null,
+          "itemImgId": "10"
+        },
+        {
+          "shopExchangeItemId": "11",
+          "itemName": "ランクPt",
+          "measure": null,
+          "itemImgId": "11"
+        },
+        {
+          "shopExchangeItemId": "12",
+          "itemName": "闇マイル",
+          "measure": null,
+          "itemImgId": "12"
+        },
+        {
+          "shopExchangeItemId": "13",
+          "itemName": "ランクPt",
+          "measure": null,
+          "itemImgId": "7"
+        },
+        {
+          "shopExchangeItemId": "15",
+          "itemName": "オマケPt",
+          "measure": null,
+          "itemImgId": "15"
+        },
+        {
+          "shopExchangeItemId": "16",
+          "itemName": "累計Pt",
+          "measure": null,
+          "itemImgId": "16"
+        },
+        {
+          "shopExchangeItemId": "17",
+          "itemName": "天地Pt",
+          "measure": null,
+          "itemImgId": "17"
+        },
+        {
+          "shopExchangeItemId": "18",
+          "itemName": "ランクPt",
+          "measure": null,
+          "itemImgId": "7"
+        },
+        {
+          "shopExchangeItemId": "19",
+          "itemName": "ランクPt",
+          "measure": null,
+          "itemImgId": "7"
+        },
+        {
+          "shopExchangeItemId": "20",
+          "itemName": "オマケPt",
+          "measure": null,
+          "itemImgId": "15"
+        },
+        {
+          "shopExchangeItemId": "21",
+          "itemName": "復刻Pt",
+          "measure": null,
+          "itemImgId": "21"
+        },
+        {
+          "shopExchangeItemId": "22",
+          "itemName": "収集Pt",
+          "measure": null,
+          "itemImgId": "22"
+        },
+        {
+          "shopExchangeItemId": "23",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "24",
+          "itemName": "ランクPt",
+          "measure": null,
+          "itemImgId": "11"
+        },
+        {
+          "shopExchangeItemId": "25",
+          "itemName": "ランクPt",
+          "measure": null,
+          "itemImgId": "7"
+        },
+        {
+          "shopExchangeItemId": "26",
+          "itemName": "オマケPt",
+          "measure": null,
+          "itemImgId": "15"
+        },
+        {
+          "shopExchangeItemId": "27",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "28",
+          "itemName": "ランクPt",
+          "measure": null,
+          "itemImgId": "7"
+        },
+        {
+          "shopExchangeItemId": "29",
+          "itemName": "オマケPt",
+          "measure": null,
+          "itemImgId": "15"
+        },
+        {
+          "shopExchangeItemId": "30",
+          "itemName": "ランクPt",
+          "measure": null,
+          "itemImgId": "11"
+        },
+        {
+          "shopExchangeItemId": "31",
+          "itemName": "ランクPt",
+          "measure": null,
+          "itemImgId": "11"
+        },
+        {
+          "shopExchangeItemId": "32",
+          "itemName": "ランクPt",
+          "measure": null,
+          "itemImgId": "11"
+        },
+        {
+          "shopExchangeItemId": "33",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "34",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "35",
+          "itemName": "ランクPt",
+          "measure": null,
+          "itemImgId": "11"
+        },
+        {
+          "shopExchangeItemId": "36",
+          "itemName": "オマケPt",
+          "measure": null,
+          "itemImgId": "15"
+        },
+        {
+          "shopExchangeItemId": "37",
+          "itemName": "ランクPt",
+          "measure": null,
+          "itemImgId": "11"
+        },
+        {
+          "shopExchangeItemId": "38",
+          "itemName": "ランクPt",
+          "measure": null,
+          "itemImgId": "11"
+        },
+        {
+          "shopExchangeItemId": "39",
+          "itemName": "ランクPt",
+          "measure": null,
+          "itemImgId": "11"
+        },
+        {
+          "shopExchangeItemId": "40",
+          "itemName": "復刻Pt",
+          "measure": null,
+          "itemImgId": "21"
+        },
+        {
+          "shopExchangeItemId": "41",
+          "itemName": "祭札",
+          "measure": null,
+          "itemImgId": "41"
+        },
+        {
+          "shopExchangeItemId": "42",
+          "itemName": "ランクPt",
+          "measure": null,
+          "itemImgId": "11"
+        },
+        {
+          "shopExchangeItemId": "43",
+          "itemName": "オマケPt",
+          "measure": null,
+          "itemImgId": "15"
+        },
+        {
+          "shopExchangeItemId": "44",
+          "itemName": "復刻Pt",
+          "measure": null,
+          "itemImgId": "21"
+        },
+        {
+          "shopExchangeItemId": "45",
+          "itemName": "祭札",
+          "measure": null,
+          "itemImgId": "41"
+        },
+        {
+          "shopExchangeItemId": "47",
+          "itemName": "復刻札",
+          "measure": null,
+          "itemImgId": "47"
+        },
+        {
+          "shopExchangeItemId": "48",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "49",
+          "itemName": "ビーチフラッグ",
+          "measure": null,
+          "itemImgId": "49"
+        },
+        {
+          "shopExchangeItemId": "50",
+          "itemName": "復刻Pt",
+          "measure": null,
+          "itemImgId": "50"
+        },
+        {
+          "shopExchangeItemId": "51",
+          "itemName": "復刻Pt弐",
+          "measure": null,
+          "itemImgId": "51"
+        },
+        {
+          "shopExchangeItemId": "52",
+          "itemName": "復刻Pt参",
+          "measure": null,
+          "itemImgId": "52"
+        },
+        {
+          "shopExchangeItemId": "53",
+          "itemName": "復刻Pt四",
+          "measure": null,
+          "itemImgId": "53"
+        },
+        {
+          "shopExchangeItemId": "54",
+          "itemName": "熱血Pt",
+          "measure": null,
+          "itemImgId": "54"
+        },
+        {
+          "shopExchangeItemId": "55",
+          "itemName": "ランクPt",
+          "measure": null,
+          "itemImgId": "11"
+        },
+        {
+          "shopExchangeItemId": "56",
+          "itemName": "雌雄Pt",
+          "measure": null,
+          "itemImgId": "24"
+        },
+        {
+          "shopExchangeItemId": "57",
+          "itemName": "オマケPt",
+          "measure": null,
+          "itemImgId": "15"
+        },
+        {
+          "shopExchangeItemId": "58",
+          "itemName": "熱血Pt",
+          "measure": null,
+          "itemImgId": "54"
+        },
+        {
+          "shopExchangeItemId": "59",
+          "itemName": "熱血Pt",
+          "measure": null,
+          "itemImgId": "54"
+        },
+        {
+          "shopExchangeItemId": "60",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "61",
+          "itemName": "熱血Pt",
+          "measure": null,
+          "itemImgId": "54"
+        },
+        {
+          "shopExchangeItemId": "62",
+          "itemName": "オマケPt",
+          "measure": null,
+          "itemImgId": "15"
+        },
+        {
+          "shopExchangeItemId": "63",
+          "itemName": "ナルトPt",
+          "measure": null,
+          "itemImgId": "63"
+        },
+        {
+          "shopExchangeItemId": "64",
+          "itemName": "サスケPt",
+          "measure": null,
+          "itemImgId": "64"
+        },
+        {
+          "shopExchangeItemId": "65",
+          "itemName": "祭札",
+          "measure": null,
+          "itemImgId": "41"
+        },
+        {
+          "shopExchangeItemId": "66",
+          "itemName": "ナルトPt",
+          "measure": null,
+          "itemImgId": "66"
+        },
+        {
+          "shopExchangeItemId": "67",
+          "itemName": "サスケPt",
+          "measure": null,
+          "itemImgId": "67"
+        },
+        {
+          "shopExchangeItemId": "68",
+          "itemName": "ナルトPt",
+          "measure": null,
+          "itemImgId": "68"
+        },
+        {
+          "shopExchangeItemId": "69",
+          "itemName": "サスケPt",
+          "measure": null,
+          "itemImgId": "69"
+        },
+        {
+          "shopExchangeItemId": "70",
+          "itemName": "オマケPt",
+          "measure": null,
+          "itemImgId": "15"
+        },
+        {
+          "shopExchangeItemId": "71",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "72",
+          "itemName": "ランクPt",
+          "measure": null,
+          "itemImgId": "11"
+        },
+        {
+          "shopExchangeItemId": "73",
+          "itemName": "祭札[10月]",
+          "measure": null,
+          "itemImgId": "41"
+        },
+        {
+          "shopExchangeItemId": "74",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "76",
+          "itemName": "ナルトPt",
+          "measure": null,
+          "itemImgId": "66"
+        },
+        {
+          "shopExchangeItemId": "77",
+          "itemName": "サスケPt",
+          "measure": null,
+          "itemImgId": "77"
+        },
+        {
+          "shopExchangeItemId": "78",
+          "itemName": "オマケPt",
+          "measure": null,
+          "itemImgId": "15"
+        },
+        {
+          "shopExchangeItemId": "79",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "80",
+          "itemName": "復刻Pt",
+          "measure": null,
+          "itemImgId": "21"
+        },
+        {
+          "shopExchangeItemId": "81",
+          "itemName": "復刻Pt",
+          "measure": null,
+          "itemImgId": "21"
+        },
+        {
+          "shopExchangeItemId": "82",
+          "itemName": "収集Pt",
+          "measure": null,
+          "itemImgId": "22"
+        },
+        {
+          "shopExchangeItemId": "83",
+          "itemName": "オマケPt",
+          "measure": null,
+          "itemImgId": "15"
+        },
+        {
+          "shopExchangeItemId": "84",
+          "itemName": "ランクPt",
+          "measure": null,
+          "itemImgId": "11"
+        },
+        {
+          "shopExchangeItemId": "85",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "86",
+          "itemName": "祭札[11月]",
+          "measure": null,
+          "itemImgId": "41"
+        },
+        {
+          "shopExchangeItemId": "87",
+          "itemName": "オマケPt",
+          "measure": null,
+          "itemImgId": "15"
+        },
+        {
+          "shopExchangeItemId": "88",
+          "itemName": "湯煙Pt",
+          "measure": null,
+          "itemImgId": "70"
+        },
+        {
+          "shopExchangeItemId": "89",
+          "itemName": "復刻Pt",
+          "measure": null,
+          "itemImgId": "21"
+        },
+        {
+          "shopExchangeItemId": "90",
+          "itemName": "復刻Pt",
+          "measure": null,
+          "itemImgId": "21"
+        },
+        {
+          "shopExchangeItemId": "91",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "92",
+          "itemName": "熱血Pt",
+          "measure": null,
+          "itemImgId": "54"
+        },
+        {
+          "shopExchangeItemId": "93",
+          "itemName": "昇級試験βPt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "94",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "95",
+          "itemName": "祭札[12月]",
+          "measure": null,
+          "itemImgId": "41"
+        },
+        {
+          "shopExchangeItemId": "96",
+          "itemName": "ランクPt",
+          "measure": null,
+          "itemImgId": "11"
+        },
+        {
+          "shopExchangeItemId": "97",
+          "itemName": "オマケPt",
+          "measure": null,
+          "itemImgId": "15"
+        },
+        {
+          "shopExchangeItemId": "98",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "99",
+          "itemName": "ランクPt",
+          "measure": null,
+          "itemImgId": "11"
+        },
+        {
+          "shopExchangeItemId": "100",
+          "itemName": "復刻Pt",
+          "measure": null,
+          "itemImgId": "21"
+        },
+        {
+          "shopExchangeItemId": "101",
+          "itemName": "オマケPt",
+          "measure": null,
+          "itemImgId": "15"
+        },
+        {
+          "shopExchangeItemId": "103",
+          "itemName": "復刻Pt",
+          "measure": null,
+          "itemImgId": "21"
+        },
+        {
+          "shopExchangeItemId": "104",
+          "itemName": "昇級試験βPt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "105",
+          "itemName": "富チケット",
+          "measure": null,
+          "itemImgId": "100"
+        },
+        {
+          "shopExchangeItemId": "106",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "107",
+          "itemName": "収集Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "108",
+          "itemName": "新春Pt",
+          "measure": null,
+          "itemImgId": "5"
+        },
+        {
+          "shopExchangeItemId": "109",
+          "itemName": "祭札[1月]",
+          "measure": null,
+          "itemImgId": "41"
+        },
+        {
+          "shopExchangeItemId": "110",
+          "itemName": "餅つきPt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "111",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "112",
+          "itemName": "復刻Pt",
+          "measure": null,
+          "itemImgId": "21"
+        },
+        {
+          "shopExchangeItemId": "113",
+          "itemName": "復刻Pt",
+          "measure": null,
+          "itemImgId": "21"
+        },
+        {
+          "shopExchangeItemId": "114",
+          "itemName": "昇級試験β2Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "115",
+          "itemName": "オマケPt",
+          "measure": null,
+          "itemImgId": "15"
+        },
+        {
+          "shopExchangeItemId": "116",
+          "itemName": "ランクPt",
+          "measure": null,
+          "itemImgId": "11"
+        },
+        {
+          "shopExchangeItemId": "117",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "118",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "119",
+          "itemName": "祭札[2月]",
+          "measure": null,
+          "itemImgId": "41"
+        },
+        {
+          "shopExchangeItemId": "120",
+          "itemName": "お菓子Pt",
+          "measure": null,
+          "itemImgId": "120"
+        },
+        {
+          "shopExchangeItemId": "121",
+          "itemName": "復刻Pt",
+          "measure": null,
+          "itemImgId": "21"
+        },
+        {
+          "shopExchangeItemId": "122",
+          "itemName": "おまけ札",
+          "measure": null,
+          "itemImgId": "122"
+        },
+        {
+          "shopExchangeItemId": "123",
+          "itemName": "オマケPt",
+          "measure": null,
+          "itemImgId": "15"
+        },
+        {
+          "shopExchangeItemId": "124",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "125",
+          "itemName": "ランクPt",
+          "measure": null,
+          "itemImgId": "11"
+        },
+        {
+          "shopExchangeItemId": "126",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "127",
+          "itemName": "昇級試験β3Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "128",
+          "itemName": "昇級試験Pt",
+          "measure": null,
+          "itemImgId": "128"
+        },
+        {
+          "shopExchangeItemId": "129",
+          "itemName": "祭札[3月]",
+          "measure": null,
+          "itemImgId": "41"
+        },
+        {
+          "shopExchangeItemId": "130",
+          "itemName": "一輪の薔薇",
+          "measure": null,
+          "itemImgId": "9"
+        },
+        {
+          "shopExchangeItemId": "131",
+          "itemName": "収集Pt",
+          "measure": null,
+          "itemImgId": "22"
+        },
+        {
+          "shopExchangeItemId": "132",
+          "itemName": "復刻Pt",
+          "measure": null,
+          "itemImgId": "21"
+        },
+        {
+          "shopExchangeItemId": "133",
+          "itemName": "ランクPt",
+          "measure": null,
+          "itemImgId": "11"
+        },
+        {
+          "shopExchangeItemId": "134",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "135",
+          "itemName": "祭札[4月]",
+          "measure": null,
+          "itemImgId": "41"
+        },
+        {
+          "shopExchangeItemId": "136",
+          "itemName": "オマケPt",
+          "measure": null,
+          "itemImgId": "15"
+        },
+        {
+          "shopExchangeItemId": "137",
+          "itemName": "収集Pt",
+          "measure": null,
+          "itemImgId": "22"
+        },
+        {
+          "shopExchangeItemId": "138",
+          "itemName": "復刻Pt",
+          "measure": null,
+          "itemImgId": "21"
+        },
+        {
+          "shopExchangeItemId": "139",
+          "itemName": "ランクPt",
+          "measure": null,
+          "itemImgId": "11"
+        },
+        {
+          "shopExchangeItemId": "140",
+          "itemName": "昇級交換券",
+          "measure": null,
+          "itemImgId": "140"
+        },
+        {
+          "shopExchangeItemId": "141",
+          "itemName": "昇級試験Pt",
+          "measure": null,
+          "itemImgId": "128"
+        },
+        {
+          "shopExchangeItemId": "142",
+          "itemName": "祭札[5月]",
+          "measure": null,
+          "itemImgId": "41"
+        },
+        {
+          "shopExchangeItemId": "143",
+          "itemName": "復刻札",
+          "measure": null,
+          "itemImgId": "47"
+        },
+        {
+          "shopExchangeItemId": "144",
+          "itemName": "討伐Pt",
+          "measure": null,
+          "itemImgId": "144"
+        },
+        {
+          "shopExchangeItemId": "145",
+          "itemName": "討伐Pt",
+          "measure": null,
+          "itemImgId": "145"
+        },
+        {
+          "shopExchangeItemId": "146",
+          "itemName": "討伐Pt",
+          "measure": null,
+          "itemImgId": "146"
+        },
+        {
+          "shopExchangeItemId": "147",
+          "itemName": "神忍Pt",
+          "measure": null,
+          "itemImgId": "147"
+        },
+        {
+          "shopExchangeItemId": "148",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "149",
+          "itemName": "個人pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "150",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "151",
+          "itemName": "昇級試験Pt",
+          "measure": null,
+          "itemImgId": "128"
+        },
+        {
+          "shopExchangeItemId": "152",
+          "itemName": "祭札[6月]",
+          "measure": null,
+          "itemImgId": "41"
+        },
+        {
+          "shopExchangeItemId": "153",
+          "itemName": "収集Pt",
+          "measure": null,
+          "itemImgId": "22"
+        },
+        {
+          "shopExchangeItemId": "154",
+          "itemName": "収集Pt",
+          "measure": null,
+          "itemImgId": "22"
+        },
+        {
+          "shopExchangeItemId": "155",
+          "itemName": "復刻Pt参",
+          "measure": null,
+          "itemImgId": "52"
+        },
+        {
+          "shopExchangeItemId": "156",
+          "itemName": "復刻Pt",
+          "measure": null,
+          "itemImgId": "21"
+        },
+        {
+          "shopExchangeItemId": "157",
+          "itemName": "ランクPt",
+          "measure": null,
+          "itemImgId": "11"
+        },
+        {
+          "shopExchangeItemId": "158",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "159",
+          "itemName": "熱血Pt",
+          "measure": null,
+          "itemImgId": "54"
+        },
+        {
+          "shopExchangeItemId": "160",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "161",
+          "itemName": "オマケPt",
+          "measure": null,
+          "itemImgId": "15"
+        },
+        {
+          "shopExchangeItemId": "162",
+          "itemName": "収集Pt",
+          "measure": null,
+          "itemImgId": "22"
+        },
+        {
+          "shopExchangeItemId": "163",
+          "itemName": "復刻Pt",
+          "measure": null,
+          "itemImgId": "21"
+        },
+        {
+          "shopExchangeItemId": "164",
+          "itemName": "祝Pt",
+          "measure": null,
+          "itemImgId": "164"
+        },
+        {
+          "shopExchangeItemId": "165",
+          "itemName": "カタログギフト",
+          "measure": null,
+          "itemImgId": "165"
+        },
+        {
+          "shopExchangeItemId": "166",
+          "itemName": "昇級試験Pt",
+          "measure": null,
+          "itemImgId": "128"
+        },
+        {
+          "shopExchangeItemId": "167",
+          "itemName": "ランクPt",
+          "measure": null,
+          "itemImgId": "11"
+        },
+        {
+          "shopExchangeItemId": "168",
+          "itemName": "祭札[7月]",
+          "measure": null,
+          "itemImgId": "41"
+        },
+        {
+          "shopExchangeItemId": "169",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "170",
+          "itemName": "オマケPt",
+          "measure": null,
+          "itemImgId": "15"
+        },
+        {
+          "shopExchangeItemId": "171",
+          "itemName": "復刻Pt",
+          "measure": null,
+          "itemImgId": "21"
+        },
+        {
+          "shopExchangeItemId": "172",
+          "itemName": "ビーチフラッグ",
+          "measure": null,
+          "itemImgId": "49"
+        },
+        {
+          "shopExchangeItemId": "173",
+          "itemName": "復刻Pt",
+          "measure": null,
+          "itemImgId": "21"
+        },
+        {
+          "shopExchangeItemId": "174",
+          "itemName": "昇級試験Pt",
+          "measure": null,
+          "itemImgId": "128"
+        },
+        {
+          "shopExchangeItemId": "175",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "176",
+          "itemName": "収集Pt",
+          "measure": null,
+          "itemImgId": "22"
+        },
+        {
+          "shopExchangeItemId": "177",
+          "itemName": "祭札[8月]",
+          "measure": null,
+          "itemImgId": "41"
+        },
+        {
+          "shopExchangeItemId": "178",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "179",
+          "itemName": "収集pt",
+          "measure": null,
+          "itemImgId": "22"
+        },
+        {
+          "shopExchangeItemId": "180",
+          "itemName": "熱血Pt",
+          "measure": null,
+          "itemImgId": "54"
+        },
+        {
+          "shopExchangeItemId": "181",
+          "itemName": "復刻札",
+          "measure": null,
+          "itemImgId": "47"
+        },
+        {
+          "shopExchangeItemId": "182",
+          "itemName": "ランクpt",
+          "measure": null,
+          "itemImgId": "11"
+        },
+        {
+          "shopExchangeItemId": "183",
+          "itemName": "復刻Pt",
+          "measure": null,
+          "itemImgId": "50"
+        },
+        {
+          "shopExchangeItemId": "184",
+          "itemName": "昇級試験Pt",
+          "measure": null,
+          "itemImgId": "128"
+        },
+        {
+          "shopExchangeItemId": "185",
+          "itemName": "収集Pt",
+          "measure": null,
+          "itemImgId": "22"
+        },
+        {
+          "shopExchangeItemId": "186",
+          "itemName": "ランクPt",
+          "measure": null,
+          "itemImgId": "11"
+        },
+        {
+          "shopExchangeItemId": "187",
+          "itemName": "熱血Pt",
+          "measure": null,
+          "itemImgId": "54"
+        },
+        {
+          "shopExchangeItemId": "188",
+          "itemName": "復刻Pt弐",
+          "measure": null,
+          "itemImgId": "51"
+        },
+        {
+          "shopExchangeItemId": "189",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "190",
+          "itemName": "祭札[9月]",
+          "measure": null,
+          "itemImgId": "41"
+        },
+        {
+          "shopExchangeItemId": "192",
+          "itemName": "復刻Pt参",
+          "measure": null,
+          "itemImgId": "52"
+        },
+        {
+          "shopExchangeItemId": "193",
+          "itemName": "復刻Pt四",
+          "measure": null,
+          "itemImgId": "53"
+        },
+        {
+          "shopExchangeItemId": "194",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "195",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "196",
+          "itemName": "昇級試験Pt",
+          "measure": null,
+          "itemImgId": "128"
+        },
+        {
+          "shopExchangeItemId": "197",
+          "itemName": "祭札[10月]",
+          "measure": null,
+          "itemImgId": "41"
+        },
+        {
+          "shopExchangeItemId": "198",
+          "itemName": "ランクPt",
+          "measure": null,
+          "itemImgId": "11"
+        },
+        {
+          "shopExchangeItemId": "199",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "200",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "201",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "202",
+          "itemName": "昇級試験Pt",
+          "measure": null,
+          "itemImgId": "128"
+        },
+        {
+          "shopExchangeItemId": "203",
+          "itemName": "ランクPt",
+          "measure": null,
+          "itemImgId": "11"
+        },
+        {
+          "shopExchangeItemId": "204",
+          "itemName": "収集Pt",
+          "measure": null,
+          "itemImgId": "22"
+        },
+        {
+          "shopExchangeItemId": "205",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "206",
+          "itemName": "収集Pt",
+          "measure": null,
+          "itemImgId": "22"
+        },
+        {
+          "shopExchangeItemId": "207",
+          "itemName": "収集Pt",
+          "measure": null,
+          "itemImgId": "22"
+        },
+        {
+          "shopExchangeItemId": "208",
+          "itemName": "昇級試験Pt",
+          "measure": null,
+          "itemImgId": "128"
+        },
+        {
+          "shopExchangeItemId": "209",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "210",
+          "itemName": "収集Pt",
+          "measure": null,
+          "itemImgId": "22"
+        },
+        {
+          "shopExchangeItemId": "212",
+          "itemName": "収集Pt",
+          "measure": null,
+          "itemImgId": "22"
+        },
+        {
+          "shopExchangeItemId": "213",
+          "itemName": "ランクPt",
+          "measure": null,
+          "itemImgId": "11"
+        },
+        {
+          "shopExchangeItemId": "214",
+          "itemName": "応援Pt（紅）",
+          "measure": null,
+          "itemImgId": "167"
+        },
+        {
+          "shopExchangeItemId": "215",
+          "itemName": "応援Pt（白）",
+          "measure": null,
+          "itemImgId": "168"
+        },
+        {
+          "shopExchangeItemId": "216",
+          "itemName": "収集Pt",
+          "measure": null,
+          "itemImgId": "22"
+        },
+        {
+          "shopExchangeItemId": "217",
+          "itemName": "昇級試験Pt",
+          "measure": null,
+          "itemImgId": "128"
+        },
+        {
+          "shopExchangeItemId": "218",
+          "itemName": "個人討伐Pt",
+          "measure": null,
+          "itemImgId": "169"
+        },
+        {
+          "shopExchangeItemId": "219",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "220",
+          "itemName": "収集Pt",
+          "measure": null,
+          "itemImgId": "22"
+        },
+        {
+          "shopExchangeItemId": "221",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "222",
+          "itemName": "昇級試験Pt",
+          "measure": null,
+          "itemImgId": "128"
+        },
+        {
+          "shopExchangeItemId": "223",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "224",
+          "itemName": "ランクPt",
+          "measure": null,
+          "itemImgId": "11"
+        },
+        {
+          "shopExchangeItemId": "225",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "226",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "227",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "228",
+          "itemName": "収集Pt",
+          "measure": null,
+          "itemImgId": "22"
+        },
+        {
+          "shopExchangeItemId": "229",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "230",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "231",
+          "itemName": "昇級試験Pt",
+          "measure": null,
+          "itemImgId": "128"
+        },
+        {
+          "shopExchangeItemId": "232",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "233",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "234",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "235",
+          "itemName": "ランクPt",
+          "measure": null,
+          "itemImgId": "11"
+        },
+        {
+          "shopExchangeItemId": "236",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "237",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "238",
+          "itemName": "昇級試験Pt",
+          "measure": null,
+          "itemImgId": "128"
+        },
+        {
+          "shopExchangeItemId": "239",
+          "itemName": "収集Pt",
+          "measure": null,
+          "itemImgId": "22"
+        },
+        {
+          "shopExchangeItemId": "240",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "241",
+          "itemName": "収集Pt",
+          "measure": null,
+          "itemImgId": "22"
+        },
+        {
+          "shopExchangeItemId": "242",
+          "itemName": "ナルジェネの軌跡",
+          "measure": null,
+          "itemImgId": "166"
+        },
+        {
+          "shopExchangeItemId": "243",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "244",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "245",
+          "itemName": "ラブ度",
+          "measure": null,
+          "itemImgId": "166"
+        },
+        {
+          "shopExchangeItemId": "246",
+          "itemName": "収集Pt",
+          "measure": null,
+          "itemImgId": "22"
+        },
+        {
+          "shopExchangeItemId": "247",
+          "itemName": "収集Pt",
+          "measure": null,
+          "itemImgId": "22"
+        },
+        {
+          "shopExchangeItemId": "248",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "249",
+          "itemName": "昇級試験Pt",
+          "measure": null,
+          "itemImgId": "128"
+        },
+        {
+          "shopExchangeItemId": "250",
+          "itemName": "個人討伐Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "251",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "252",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "253",
+          "itemName": "収集Pt",
+          "measure": null,
+          "itemImgId": "22"
+        },
+        {
+          "shopExchangeItemId": "254",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "255",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "256",
+          "itemName": "収集Pt",
+          "measure": null,
+          "itemImgId": "22"
+        },
+        {
+          "shopExchangeItemId": "257",
+          "itemName": "応援Pt(うちは組)",
+          "measure": null,
+          "itemImgId": "171"
+        },
+        {
+          "shopExchangeItemId": "258",
+          "itemName": "応援Pt(千手組)",
+          "measure": null,
+          "itemImgId": "172"
+        },
+        {
+          "shopExchangeItemId": "259",
+          "itemName": "昇級試験Pt",
+          "measure": null,
+          "itemImgId": "128"
+        },
+        {
+          "shopExchangeItemId": "260",
+          "itemName": "収集Pt",
+          "measure": null,
+          "itemImgId": "22"
+        },
+        {
+          "shopExchangeItemId": "261",
+          "itemName": "収集Pt",
+          "measure": null,
+          "itemImgId": "22"
+        },
+        {
+          "shopExchangeItemId": "262",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "263",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "264",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "265",
+          "itemName": "収集Pt",
+          "measure": null,
+          "itemImgId": "22"
+        },
+        {
+          "shopExchangeItemId": "266",
+          "itemName": "収集Pt",
+          "measure": null,
+          "itemImgId": "22"
+        },
+        {
+          "shopExchangeItemId": "267",
+          "itemName": "収集Pt",
+          "measure": null,
+          "itemImgId": "22"
+        },
+        {
+          "shopExchangeItemId": "268",
+          "itemName": "昇級試験Pt",
+          "measure": null,
+          "itemImgId": "128"
+        },
+        {
+          "shopExchangeItemId": "269",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "270",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "271",
+          "itemName": "収集Pt",
+          "measure": null,
+          "itemImgId": "22"
+        },
+        {
+          "shopExchangeItemId": "272",
+          "itemName": "収集Pt",
+          "measure": null,
+          "itemImgId": "22"
+        },
+        {
+          "shopExchangeItemId": "273",
+          "itemName": "昇級試験Pt",
+          "measure": null,
+          "itemImgId": "128"
+        },
+        {
+          "shopExchangeItemId": "274",
+          "itemName": "収集Pt",
+          "measure": null,
+          "itemImgId": "22"
+        },
+        {
+          "shopExchangeItemId": "275",
+          "itemName": "収集Pt",
+          "measure": null,
+          "itemImgId": "22"
+        },
+        {
+          "shopExchangeItemId": "276",
+          "itemName": "個人討伐Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "277",
+          "itemName": "収集Pt",
+          "measure": null,
+          "itemImgId": "22"
+        },
+        {
+          "shopExchangeItemId": "278",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "279",
+          "itemName": "一班 Pt",
+          "measure": null,
+          "itemImgId": "279"
+        },
+        {
+          "shopExchangeItemId": "280",
+          "itemName": "二班 Pt",
+          "measure": null,
+          "itemImgId": "280"
+        },
+        {
+          "shopExchangeItemId": "281",
+          "itemName": "三班 Pt",
+          "measure": null,
+          "itemImgId": "281"
+        },
+        {
+          "shopExchangeItemId": "282",
+          "itemName": "収集Pt",
+          "measure": null,
+          "itemImgId": "22"
+        },
+        {
+          "shopExchangeItemId": "283",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "284",
+          "itemName": "収集Pt",
+          "measure": null,
+          "itemImgId": "22"
+        },
+        {
+          "shopExchangeItemId": "285",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "286",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "287",
+          "itemName": "昇級試験Pt",
+          "measure": null,
+          "itemImgId": "128"
+        },
+        {
+          "shopExchangeItemId": "288",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "289",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "290",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "291",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "292",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "293",
+          "itemName": "ランクPt",
+          "measure": null,
+          "itemImgId": "11"
+        },
+        {
+          "shopExchangeItemId": "294",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "295",
+          "itemName": "昇級試験Pt",
+          "measure": null,
+          "itemImgId": "128"
+        },
+        {
+          "shopExchangeItemId": "296",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "297",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "298",
+          "itemName": "昇級試験Pt",
+          "measure": null,
+          "itemImgId": "128"
+        },
+        {
+          "shopExchangeItemId": "299",
+          "itemName": "里の人数",
+          "measure": "人",
+          "itemImgId": "299"
+        },
+        {
+          "shopExchangeItemId": "300",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "301",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "302",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "303",
+          "itemName": "昇級試験Pt",
+          "measure": "0",
+          "itemImgId": "128"
+        },
+        {
+          "shopExchangeItemId": "304",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "305",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "306",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "307",
+          "itemName": "昇級試験Pt",
+          "measure": "0",
+          "itemImgId": "128"
+        },
+        {
+          "shopExchangeItemId": "308",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "309",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "310",
+          "itemName": "昇級試験Pt",
+          "measure": "0",
+          "itemImgId": "128"
+        },
+        {
+          "shopExchangeItemId": "311",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "312",
+          "itemName": "昇級試験Pt",
+          "measure": "0",
+          "itemImgId": "128"
+        },
+        {
+          "shopExchangeItemId": "313",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "314",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "315",
+          "itemName": "昇級試験Pt",
+          "measure": "0",
+          "itemImgId": "128"
+        },
+        {
+          "shopExchangeItemId": "316",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "317",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "318",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "319",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "320",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "321",
+          "itemName": "昇級試験Pt",
+          "measure": "0",
+          "itemImgId": "128"
+        },
+        {
+          "shopExchangeItemId": "322",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "323",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "324",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "325",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "326",
+          "itemName": "昇級試験Pt",
+          "measure": "0",
+          "itemImgId": "128"
+        },
+        {
+          "shopExchangeItemId": "327",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "328",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "329",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "330",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "331",
+          "itemName": "昇級試験Pt",
+          "measure": "0",
+          "itemImgId": "128"
+        },
+        {
+          "shopExchangeItemId": "332",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "333",
+          "itemName": "昇級試験Pt",
+          "measure": "0",
+          "itemImgId": "128"
+        },
+        {
+          "shopExchangeItemId": "334",
+          "itemName": "昇級試験Pt",
+          "measure": "0",
+          "itemImgId": "128"
+        },
+        {
+          "shopExchangeItemId": "335",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "336",
+          "itemName": "昇級試験Pt",
+          "measure": "0",
+          "itemImgId": "128"
+        },
+        {
+          "shopExchangeItemId": "337",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "338",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "339",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "340",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "341",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "342",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "343",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "344",
+          "itemName": "昇級試験Pt",
+          "measure": "0",
+          "itemImgId": "128"
+        },
+        {
+          "shopExchangeItemId": "345",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "346",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "347",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "348",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "349",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "350",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "351",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "352",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "353",
+          "itemName": "昇級試験Pt",
+          "measure": "0",
+          "itemImgId": "128"
+        },
+        {
+          "shopExchangeItemId": "354",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "355",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "356",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "357",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "358",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "359",
+          "itemName": "昇級試験Pt",
+          "measure": "0",
+          "itemImgId": "128"
+        },
+        {
+          "shopExchangeItemId": "360",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "361",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "362",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "363",
+          "itemName": "昇級試験Pt",
+          "measure": "0",
+          "itemImgId": "128"
+        },
+        {
+          "shopExchangeItemId": "364",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "365",
+          "itemName": "柱間Pt",
+          "measure": "0",
+          "itemImgId": "365"
+        },
+        {
+          "shopExchangeItemId": "366",
+          "itemName": "マダラPt",
+          "measure": "0",
+          "itemImgId": "366"
+        },
+        {
+          "shopExchangeItemId": "367",
+          "itemName": "昇級試験Pt",
+          "measure": "0",
+          "itemImgId": "128"
+        },
+        {
+          "shopExchangeItemId": "368",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "369",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "370",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "371",
+          "itemName": "ビーチフラッグ",
+          "measure": "0",
+          "itemImgId": "49"
+        },
+        {
+          "shopExchangeItemId": "372",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "1001",
+          "itemName": "下心Pt",
+          "measure": null,
+          "itemImgId": "166"
+        },
+        {
+          "shopExchangeItemId": "1002",
+          "itemName": "追想シカマルPt",
+          "measure": null,
+          "itemImgId": "170"
+        },
+        {
+          "shopExchangeItemId": "1003",
+          "itemName": "収集Pt",
+          "measure": null,
+          "itemImgId": "22"
+        },
+        {
+          "shopExchangeItemId": "1004",
+          "itemName": "収集Pt",
+          "measure": null,
+          "itemImgId": "22"
+        },
+        {
+          "shopExchangeItemId": "1005",
+          "itemName": "収集Pt",
+          "measure": null,
+          "itemImgId": "22"
+        },
+        {
+          "shopExchangeItemId": "1006",
+          "itemName": "収集Pt",
+          "measure": null,
+          "itemImgId": "22"
+        },
+        {
+          "shopExchangeItemId": "1007",
+          "itemName": "収集Pt",
+          "measure": null,
+          "itemImgId": "22"
+        },
+        {
+          "shopExchangeItemId": "1008",
+          "itemName": "収集Pt",
+          "measure": null,
+          "itemImgId": "22"
+        },
+        {
+          "shopExchangeItemId": "1009",
+          "itemName": "収集Pt",
+          "measure": null,
+          "itemImgId": "22"
+        },
+        {
+          "shopExchangeItemId": "1010",
+          "itemName": "3周年昇級交換券",
+          "measure": null,
+          "itemImgId": "1010"
+        },
+        {
+          "shopExchangeItemId": "1011",
+          "itemName": "誕生日Pt",
+          "measure": null,
+          "itemImgId": "1011"
+        },
+        {
+          "shopExchangeItemId": "1012",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "1013",
+          "itemName": "専属推薦状交換券",
+          "measure": null,
+          "itemImgId": "1013"
+        },
+        {
+          "shopExchangeItemId": "1014",
+          "itemName": "収集Pt",
+          "measure": null,
+          "itemImgId": "22"
+        },
+        {
+          "shopExchangeItemId": "1015",
+          "itemName": "ビーチフラッグ",
+          "measure": null,
+          "itemImgId": "49"
+        },
+        {
+          "shopExchangeItemId": "1016",
+          "itemName": "収集Pt",
+          "measure": null,
+          "itemImgId": "22"
+        },
+        {
+          "shopExchangeItemId": "1017",
+          "itemName": "3周年昇級交換券弐",
+          "measure": null,
+          "itemImgId": "1017"
+        },
+        {
+          "shopExchangeItemId": "1018",
+          "itemName": "超忍具交換券",
+          "measure": null,
+          "itemImgId": "1018"
+        },
+        {
+          "shopExchangeItemId": "1019",
+          "itemName": "収集Pt",
+          "measure": null,
+          "itemImgId": "22"
+        },
+        {
+          "shopExchangeItemId": "1020",
+          "itemName": "収集Pt",
+          "measure": null,
+          "itemImgId": "22"
+        },
+        {
+          "shopExchangeItemId": "1021",
+          "itemName": "専属推薦状交換券-乱舞の巻-",
+          "measure": null,
+          "itemImgId": "1013"
+        },
+        {
+          "shopExchangeItemId": "1022",
+          "itemName": "個人Pt",
+          "measure": null,
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "1023",
+          "itemName": "カボチャの欠片",
+          "measure": null,
+          "itemImgId": "1023"
+        },
+        {
+          "shopExchangeItemId": "1024",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "1025",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "1026",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "1027",
+          "itemName": "新年昇級交換券",
+          "measure": "0",
+          "itemImgId": "1027"
+        },
+        {
+          "shopExchangeItemId": "1028",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "1029",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "1030",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "1031",
+          "itemName": "“暁”忍具ガチャチケット交換券",
+          "measure": "0",
+          "itemImgId": "1031"
+        },
+        {
+          "shopExchangeItemId": "1032",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "1033",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "1034",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "1035",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "1036",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "1037",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "1038",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "1039",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "1040",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "1041",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "1042",
+          "itemName": "4周年昇級交換券",
+          "measure": "0",
+          "itemImgId": "1042"
+        },
+        {
+          "shopExchangeItemId": "1043",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "1044",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "1045",
+          "itemName": "カタログギフト",
+          "measure": "0",
+          "itemImgId": "165"
+        },
+        {
+          "shopExchangeItemId": "1046",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "1047",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "1048",
+          "itemName": "ビーチフラッグ",
+          "measure": "0",
+          "itemImgId": "49"
+        },
+        {
+          "shopExchangeItemId": "1049",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "1050",
+          "itemName": "ビーチフラッグ",
+          "measure": "0",
+          "itemImgId": "49"
+        },
+        {
+          "shopExchangeItemId": "2000",
+          "itemName": "忍交換券(8月)",
+          "measure": null,
+          "itemImgId": "43"
+        },
+        {
+          "shopExchangeItemId": "2001",
+          "itemName": "忍交換券",
+          "measure": null,
+          "itemImgId": "43"
+        },
+        {
+          "shopExchangeItemId": "2002",
+          "itemName": "猪鹿蝶復刻札",
+          "measure": null,
+          "itemImgId": "47"
+        },
+        {
+          "shopExchangeItemId": "2003",
+          "itemName": "誕生日ケーキ",
+          "measure": null,
+          "itemImgId": "75"
+        },
+        {
+          "shopExchangeItemId": "2004",
+          "itemName": "32以下超忍祭限定",
+          "measure": null,
+          "itemImgId": "2004"
+        },
+        {
+          "shopExchangeItemId": "2005",
+          "itemName": "忍交換券",
+          "measure": null,
+          "itemImgId": "43"
+        },
+        {
+          "shopExchangeItemId": "2006",
+          "itemName": "新春三竦み交換券",
+          "measure": null,
+          "itemImgId": "2006"
+        },
+        {
+          "shopExchangeItemId": "2007",
+          "itemName": "想いの花たち交換券",
+          "measure": null,
+          "itemImgId": "2007"
+        },
+        {
+          "shopExchangeItemId": "2008",
+          "itemName": "超忍祭交換券",
+          "measure": null,
+          "itemImgId": "2008"
+        },
+        {
+          "shopExchangeItemId": "2009",
+          "itemName": "コスト30超忍祭交換券",
+          "measure": null,
+          "itemImgId": "2009"
+        },
+        {
+          "shopExchangeItemId": "2010",
+          "itemName": "NMC交換券",
+          "measure": null,
+          "itemImgId": "2010"
+        },
+        {
+          "shopExchangeItemId": "2011",
+          "itemName": "忍交換券[夏]",
+          "measure": null,
+          "itemImgId": "2011"
+        },
+        {
+          "shopExchangeItemId": "2012",
+          "itemName": "超忍祭交換券",
+          "measure": null,
+          "itemImgId": "2012"
+        },
+        {
+          "shopExchangeItemId": "2013",
+          "itemName": "ｺｽﾄ30超忍祭交換券",
+          "measure": null,
+          "itemImgId": "2013"
+        },
+        {
+          "shopExchangeItemId": "2014",
+          "itemName": "夏のハナビ交換券",
+          "measure": null,
+          "itemImgId": "2014"
+        },
+        {
+          "shopExchangeItemId": "2015",
+          "itemName": "新たなる時代交換券",
+          "measure": null,
+          "itemImgId": "2015"
+        },
+        {
+          "shopExchangeItemId": "2016",
+          "itemName": "口寄せ三竦み交換券",
+          "measure": null,
+          "itemImgId": "2016"
+        },
+        {
+          "shopExchangeItemId": "2017",
+          "itemName": "忍交換券[秋]",
+          "measure": null,
+          "itemImgId": "43"
+        },
+        {
+          "shopExchangeItemId": "2018",
+          "itemName": "誕生日ケーキ",
+          "measure": null,
+          "itemImgId": "75"
+        },
+        {
+          "shopExchangeItemId": "2019",
+          "itemName": "祭札[11月]",
+          "measure": null,
+          "itemImgId": "41"
+        },
+        {
+          "shopExchangeItemId": "2020",
+          "itemName": "刻印札",
+          "measure": null,
+          "itemImgId": "2020"
+        },
+        {
+          "shopExchangeItemId": "2021",
+          "itemName": "祭札[12月]",
+          "measure": null,
+          "itemImgId": "41"
+        },
+        {
+          "shopExchangeItemId": "2022",
+          "itemName": "祭札[1月]",
+          "measure": null,
+          "itemImgId": "41"
+        },
+        {
+          "shopExchangeItemId": "2023",
+          "itemName": "忍交換券[冬]",
+          "measure": null,
+          "itemImgId": "43"
+        },
+        {
+          "shopExchangeItemId": "2024",
+          "itemName": "32以下超忍交換券",
+          "measure": null,
+          "itemImgId": "2024"
+        },
+        {
+          "shopExchangeItemId": "2025",
+          "itemName": "富チケット’18",
+          "measure": null,
+          "itemImgId": "100"
+        },
+        {
+          "shopExchangeItemId": "2026",
+          "itemName": "祭札[2月]",
+          "measure": null,
+          "itemImgId": "41"
+        },
+        {
+          "shopExchangeItemId": "2027",
+          "itemName": "祭札[3月]",
+          "measure": null,
+          "itemImgId": "41"
+        },
+        {
+          "shopExchangeItemId": "2028",
+          "itemName": "祭札[4月]",
+          "measure": null,
+          "itemImgId": "41"
+        },
+        {
+          "shopExchangeItemId": "2029",
+          "itemName": "SD札",
+          "measure": null,
+          "itemImgId": "2029"
+        },
+        {
+          "shopExchangeItemId": "2030",
+          "itemName": "祭札[5月]",
+          "measure": null,
+          "itemImgId": "41"
+        },
+        {
+          "shopExchangeItemId": "2031",
+          "itemName": "忍交換券[春]",
+          "measure": null,
+          "itemImgId": "43"
+        },
+        {
+          "shopExchangeItemId": "2032",
+          "itemName": "★5超忍交換券",
+          "measure": null,
+          "itemImgId": "2032"
+        },
+        {
+          "shopExchangeItemId": "2033",
+          "itemName": "超ナルコレ札",
+          "measure": null,
+          "itemImgId": "2033"
+        },
+        {
+          "shopExchangeItemId": "2034",
+          "itemName": "メニューボイス交換券",
+          "measure": null,
+          "itemImgId": "2034"
+        },
+        {
+          "shopExchangeItemId": "2035",
+          "itemName": "祭札[6月]",
+          "measure": null,
+          "itemImgId": "41"
+        },
+        {
+          "shopExchangeItemId": "2036",
+          "itemName": "祭札[7月]",
+          "measure": null,
+          "itemImgId": "41"
+        },
+        {
+          "shopExchangeItemId": "2037",
+          "itemName": "祭札[8月]",
+          "measure": null,
+          "itemImgId": "41"
+        },
+        {
+          "shopExchangeItemId": "2038",
+          "itemName": "祭札[9月]",
+          "measure": null,
+          "itemImgId": "41"
+        },
+        {
+          "shopExchangeItemId": "2039",
+          "itemName": "祭札[10月]",
+          "measure": null,
+          "itemImgId": "41"
+        },
+        {
+          "shopExchangeItemId": "2040",
+          "itemName": "祭札[11月]",
+          "measure": "0",
+          "itemImgId": "41"
+        },
+        {
+          "shopExchangeItemId": "2041",
+          "itemName": "祭札[12月]",
+          "measure": "0",
+          "itemImgId": "41"
+        },
+        {
+          "shopExchangeItemId": "2042",
+          "itemName": "選抜札",
+          "measure": null,
+          "itemImgId": "2042"
+        },
+        {
+          "shopExchangeItemId": "2043",
+          "itemName": "SD札",
+          "measure": null,
+          "itemImgId": "2029"
+        },
+        {
+          "shopExchangeItemId": "2044",
+          "itemName": "忍交換券[夏]",
+          "measure": null,
+          "itemImgId": "2011"
+        },
+        {
+          "shopExchangeItemId": "2045",
+          "itemName": "メニューボイス交換券",
+          "measure": null,
+          "itemImgId": "2034"
+        },
+        {
+          "shopExchangeItemId": "2046",
+          "itemName": "選抜札",
+          "measure": null,
+          "itemImgId": "2042"
+        },
+        {
+          "shopExchangeItemId": "2047",
+          "itemName": "おいろけ交換券",
+          "measure": "0",
+          "itemImgId": "2047"
+        },
+        {
+          "shopExchangeItemId": "2049",
+          "itemName": "祭札[1月]",
+          "measure": "0",
+          "itemImgId": "41"
+        },
+        {
+          "shopExchangeItemId": "2050",
+          "itemName": "祭札[2月]",
+          "measure": "0",
+          "itemImgId": "41"
+        },
+        {
+          "shopExchangeItemId": "2051",
+          "itemName": "祭札[3月]",
+          "measure": "0",
+          "itemImgId": "41"
+        },
+        {
+          "shopExchangeItemId": "2052",
+          "itemName": "祭札[4月]",
+          "measure": "0",
+          "itemImgId": "41"
+        },
+        {
+          "shopExchangeItemId": "2053",
+          "itemName": "祭札[5月]",
+          "measure": "0",
+          "itemImgId": "41"
+        },
+        {
+          "shopExchangeItemId": "2054",
+          "itemName": "祭札[6月]",
+          "measure": "0",
+          "itemImgId": "41"
+        },
+        {
+          "shopExchangeItemId": "2055",
+          "itemName": "祭札[7月]",
+          "measure": "0",
+          "itemImgId": "41"
+        },
+        {
+          "shopExchangeItemId": "2056",
+          "itemName": "祭札[8月]",
+          "measure": "0",
+          "itemImgId": "41"
+        },
+        {
+          "shopExchangeItemId": "2061",
+          "itemName": "忍具札",
+          "measure": "0",
+          "itemImgId": "2061"
+        },
+        {
+          "shopExchangeItemId": "2062",
+          "itemName": "SD札",
+          "measure": "0",
+          "itemImgId": "2029"
+        },
+        {
+          "shopExchangeItemId": "2063",
+          "itemName": "忍具札",
+          "measure": "0",
+          "itemImgId": "2061"
+        },
+        {
+          "shopExchangeItemId": "2064",
+          "itemName": "SD札",
+          "measure": "0",
+          "itemImgId": "2029"
+        },
+        {
+          "shopExchangeItemId": "2065",
+          "itemName": "メニューボイス交換券",
+          "measure": "0",
+          "itemImgId": "2034"
+        },
+        {
+          "shopExchangeItemId": "2066",
+          "itemName": "選抜札",
+          "measure": "0",
+          "itemImgId": "2042"
+        },
+        {
+          "shopExchangeItemId": "2067",
+          "itemName": "六道札",
+          "measure": "0",
+          "itemImgId": "2067"
+        },
+        {
+          "shopExchangeItemId": "2068",
+          "itemName": "4周年札",
+          "measure": "0",
+          "itemImgId": "2068"
+        },
+        {
+          "shopExchangeItemId": "2070",
+          "itemName": "SD札",
+          "measure": "0",
+          "itemImgId": "2029"
+        },
+        {
+          "shopExchangeItemId": "2500",
+          "itemName": "神忍札[4月]",
+          "measure": "0",
+          "itemImgId": "2500"
+        },
+        {
+          "shopExchangeItemId": "2501",
+          "itemName": "神忍札[5月]",
+          "measure": "0",
+          "itemImgId": "2500"
+        },
+        {
+          "shopExchangeItemId": "2502",
+          "itemName": "神忍札[6月]",
+          "measure": "0",
+          "itemImgId": "2500"
+        },
+        {
+          "shopExchangeItemId": "2504",
+          "itemName": "神忍札[8月]",
+          "measure": "0",
+          "itemImgId": "2500"
+        },
+        {
+          "shopExchangeItemId": "3000",
+          "itemName": "昇級Pt倍化薬引換券",
+          "measure": null,
+          "itemImgId": "3000"
+        },
+        {
+          "shopExchangeItemId": "3900",
+          "itemName": "連合戦交換券",
+          "measure": "0",
+          "itemImgId": "3900"
+        },
+        {
+          "shopExchangeItemId": "3901",
+          "itemName": "連合戦交換券",
+          "measure": "0",
+          "itemImgId": "3900"
+        },
+        {
+          "shopExchangeItemId": "3902",
+          "itemName": "連合戦交換券",
+          "measure": "0",
+          "itemImgId": "3900"
+        },
+        {
+          "shopExchangeItemId": "3911",
+          "itemName": "連合戦交換券",
+          "measure": "0",
+          "itemImgId": "3900"
+        },
+        {
+          "shopExchangeItemId": "9999",
+          "itemName": "※おまけなし　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　",
+          "measure": null,
+          "itemImgId": "9999"
+        },
+        {
+          "shopExchangeItemId": "10001",
+          "itemName": "夏祭り特別ガチャ 初回10連5個引き(45個)",
+          "measure": null,
+          "itemImgId": "0"
+        },
+        {
+          "shopExchangeItemId": "10002",
+          "itemName": "夏祭り特別ガチャ 初回10連11個引き(39個)",
+          "measure": null,
+          "itemImgId": "0"
+        },
+        {
+          "shopExchangeItemId": "10003",
+          "itemName": "夏祭り特別ガチャ 初回10連20個引き(30個)",
+          "measure": null,
+          "itemImgId": "0"
+        },
+        {
+          "shopExchangeItemId": "10001045",
+          "itemName": "カタログギフト",
+          "measure": "0",
+          "itemImgId": "165"
+        }
+      ]

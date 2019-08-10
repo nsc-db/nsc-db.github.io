@@ -1,0 +1,66 @@
+[        {
+          "charaTypeEvolutionMaterialId": "1",
+          "charaType": "1",
+          "charaTypeEvolutionMaterialGroupId": "100"
+        },
+        {
+          "charaTypeEvolutionMaterialId": "2",
+          "charaType": "2",
+          "charaTypeEvolutionMaterialGroupId": "100"
+        },
+        {
+          "charaTypeEvolutionMaterialId": "3",
+          "charaType": "3",
+          "charaTypeEvolutionMaterialGroupId": "100"
+        },
+        {
+          "charaTypeEvolutionMaterialId": "4",
+          "charaType": "4",
+          "charaTypeEvolutionMaterialGroupId": "200"
+        },
+        {
+          "charaTypeEvolutionMaterialId": "5",
+          "charaType": "5",
+          "charaTypeEvolutionMaterialGroupId": "100"
+        },
+        {
+          "charaTypeEvolutionMaterialId": "6",
+          "charaType": "6",
+          "charaTypeEvolutionMaterialGroupId": "100"
+        },
+        {
+          "charaTypeEvolutionMaterialId": "7",
+          "charaType": "7",
+          "charaTypeEvolutionMaterialGroupId": "200"
+        },
+        {
+          "charaTypeEvolutionMaterialId": "8",
+          "charaType": "8",
+          "charaTypeEvolutionMaterialGroupId": "200"
+        },
+        {
+          "charaTypeEvolutionMaterialId": "9",
+          "charaType": "9",
+          "charaTypeEvolutionMaterialGroupId": "200"
+        },
+        {
+          "charaTypeEvolutionMaterialId": "10",
+          "charaType": "10",
+          "charaTypeEvolutionMaterialGroupId": "200"
+        },
+        {
+          "charaTypeEvolutionMaterialId": "11",
+          "charaType": "11",
+          "charaTypeEvolutionMaterialGroupId": "100"
+        },
+        {
+          "charaTypeEvolutionMaterialId": "12",
+          "charaType": "12",
+          "charaTypeEvolutionMaterialGroupId": "100"
+        },
+        {
+          "charaTypeEvolutionMaterialId": "13",
+          "charaType": "99",
+          "charaTypeEvolutionMaterialGroupId": "200"
+        }
+      ]

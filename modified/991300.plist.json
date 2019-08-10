@@ -1,0 +1,22 @@
+[        {
+          "localPushNotificationId": "1",
+          "type": "1",
+          "title": "[忍連合戦]",
+          "message": "忍の絆が全回復！",
+          "dateValue": "12,0"
+        },
+        {
+          "localPushNotificationId": "2",
+          "type": "1",
+          "title": "[忍連合戦]",
+          "message": "忍の絆が1回復！",
+          "dateValue": "18,0"
+        },
+        {
+          "localPushNotificationId": "3",
+          "type": "2",
+          "title": "[忍連合戦]",
+          "message": "ウィークリー報酬付与完了！！\r\n",
+          "dateValue": "2,14,0"
+        }
+      ]

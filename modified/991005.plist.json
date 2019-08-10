@@ -1,0 +1,3433 @@
+[        {
+          "randomDropId": "1",
+          "randomDropGroupId": "1",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000001",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "2",
+          "randomDropGroupId": "1",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000301",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "3",
+          "randomDropGroupId": "2",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000011",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "4",
+          "randomDropGroupId": "2",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000301",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "5",
+          "randomDropGroupId": "3",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000031",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "6",
+          "randomDropGroupId": "3",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000301",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "7",
+          "randomDropGroupId": "4",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000051",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "8",
+          "randomDropGroupId": "4",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000301",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "9",
+          "randomDropGroupId": "5",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000061",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10",
+          "randomDropGroupId": "5",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000301",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "11",
+          "randomDropGroupId": "6",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000101",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "12",
+          "randomDropGroupId": "6",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000321",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "13",
+          "randomDropGroupId": "7",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000111",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "14",
+          "randomDropGroupId": "7",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000321",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "15",
+          "randomDropGroupId": "8",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000131",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "16",
+          "randomDropGroupId": "8",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000321",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "17",
+          "randomDropGroupId": "9",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000151",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "18",
+          "randomDropGroupId": "9",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000321",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "19",
+          "randomDropGroupId": "10",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000161",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "20",
+          "randomDropGroupId": "10",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000321",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "21",
+          "randomDropGroupId": "11",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000001",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "22",
+          "randomDropGroupId": "11",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000401",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "23",
+          "randomDropGroupId": "12",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000011",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "24",
+          "randomDropGroupId": "12",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000401",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "25",
+          "randomDropGroupId": "13",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000031",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "26",
+          "randomDropGroupId": "13",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000401",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "27",
+          "randomDropGroupId": "14",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000051",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "28",
+          "randomDropGroupId": "14",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000401",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "29",
+          "randomDropGroupId": "15",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000061",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "30",
+          "randomDropGroupId": "15",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000401",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "31",
+          "randomDropGroupId": "16",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000101",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "32",
+          "randomDropGroupId": "16",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000371",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "33",
+          "randomDropGroupId": "17",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000111",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "34",
+          "randomDropGroupId": "17",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000371",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "35",
+          "randomDropGroupId": "18",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000131",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "36",
+          "randomDropGroupId": "18",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000371",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "37",
+          "randomDropGroupId": "19",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000151",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "38",
+          "randomDropGroupId": "19",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000371",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "39",
+          "randomDropGroupId": "20",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000161",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "40",
+          "randomDropGroupId": "20",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000371",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "41",
+          "randomDropGroupId": "21",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000001",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "42",
+          "randomDropGroupId": "21",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000331",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "43",
+          "randomDropGroupId": "22",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000011",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "44",
+          "randomDropGroupId": "22",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000331",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "45",
+          "randomDropGroupId": "23",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000031",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "46",
+          "randomDropGroupId": "23",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000331",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "47",
+          "randomDropGroupId": "24",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000051",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "48",
+          "randomDropGroupId": "24",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000331",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "49",
+          "randomDropGroupId": "25",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000061",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "50",
+          "randomDropGroupId": "25",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000331",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "51",
+          "randomDropGroupId": "26",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000101",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "52",
+          "randomDropGroupId": "26",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000341",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "53",
+          "randomDropGroupId": "27",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000111",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "54",
+          "randomDropGroupId": "27",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "22000112",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "55",
+          "randomDropGroupId": "28",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000131",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "56",
+          "randomDropGroupId": "28",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000341",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "57",
+          "randomDropGroupId": "29",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000151",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "58",
+          "randomDropGroupId": "29",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000341",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "59",
+          "randomDropGroupId": "30",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000161",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "60",
+          "randomDropGroupId": "30",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000341",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "61",
+          "randomDropGroupId": "31",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000001",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "62",
+          "randomDropGroupId": "31",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000741",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "63",
+          "randomDropGroupId": "32",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000011",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "64",
+          "randomDropGroupId": "32",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000741",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "65",
+          "randomDropGroupId": "33",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000031",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "66",
+          "randomDropGroupId": "33",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000741",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "67",
+          "randomDropGroupId": "34",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000051",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "68",
+          "randomDropGroupId": "34",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000741",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "69",
+          "randomDropGroupId": "35",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000061",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "70",
+          "randomDropGroupId": "35",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000741",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "71",
+          "randomDropGroupId": "2001",
+          "dropLot": "5000",
+          "assetCategoryId": "1",
+          "assetValue": "22000061",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "72",
+          "randomDropGroupId": "2001",
+          "dropLot": "5000",
+          "assetCategoryId": "1",
+          "assetValue": "22000161",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "73",
+          "randomDropGroupId": "2002",
+          "dropLot": "5000",
+          "assetCategoryId": "1",
+          "assetValue": "22000061",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "74",
+          "randomDropGroupId": "2002",
+          "dropLot": "5000",
+          "assetCategoryId": "1",
+          "assetValue": "22000161",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "75",
+          "randomDropGroupId": "2003",
+          "dropLot": "4500",
+          "assetCategoryId": "1",
+          "assetValue": "22000062",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "76",
+          "randomDropGroupId": "2003",
+          "dropLot": "4500",
+          "assetCategoryId": "1",
+          "assetValue": "22000162",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "77",
+          "randomDropGroupId": "2003",
+          "dropLot": "500",
+          "assetCategoryId": "1",
+          "assetValue": "22000063",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "78",
+          "randomDropGroupId": "2003",
+          "dropLot": "500",
+          "assetCategoryId": "1",
+          "assetValue": "22000163",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "79",
+          "randomDropGroupId": "2004",
+          "dropLot": "4500",
+          "assetCategoryId": "1",
+          "assetValue": "22000062",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "80",
+          "randomDropGroupId": "2004",
+          "dropLot": "4500",
+          "assetCategoryId": "1",
+          "assetValue": "22000162",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "81",
+          "randomDropGroupId": "2004",
+          "dropLot": "500",
+          "assetCategoryId": "1",
+          "assetValue": "22000063",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "82",
+          "randomDropGroupId": "2004",
+          "dropLot": "500",
+          "assetCategoryId": "1",
+          "assetValue": "22000163",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "83",
+          "randomDropGroupId": "2011",
+          "dropLot": "5000",
+          "assetCategoryId": "1",
+          "assetValue": "22000001",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "84",
+          "randomDropGroupId": "2011",
+          "dropLot": "5000",
+          "assetCategoryId": "1",
+          "assetValue": "22000101",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "85",
+          "randomDropGroupId": "2012",
+          "dropLot": "5000",
+          "assetCategoryId": "1",
+          "assetValue": "22000001",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "86",
+          "randomDropGroupId": "2012",
+          "dropLot": "5000",
+          "assetCategoryId": "1",
+          "assetValue": "22000101",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "87",
+          "randomDropGroupId": "2013",
+          "dropLot": "4500",
+          "assetCategoryId": "1",
+          "assetValue": "22000002",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "88",
+          "randomDropGroupId": "2013",
+          "dropLot": "4500",
+          "assetCategoryId": "1",
+          "assetValue": "22000102",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "89",
+          "randomDropGroupId": "2013",
+          "dropLot": "500",
+          "assetCategoryId": "1",
+          "assetValue": "22000003",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "90",
+          "randomDropGroupId": "2013",
+          "dropLot": "500",
+          "assetCategoryId": "1",
+          "assetValue": "22000103",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "91",
+          "randomDropGroupId": "2014",
+          "dropLot": "4500",
+          "assetCategoryId": "1",
+          "assetValue": "22000002",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "92",
+          "randomDropGroupId": "2014",
+          "dropLot": "4500",
+          "assetCategoryId": "1",
+          "assetValue": "22000102",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "93",
+          "randomDropGroupId": "2014",
+          "dropLot": "500",
+          "assetCategoryId": "1",
+          "assetValue": "22000003",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "94",
+          "randomDropGroupId": "2014",
+          "dropLot": "500",
+          "assetCategoryId": "1",
+          "assetValue": "22000103",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "95",
+          "randomDropGroupId": "2021",
+          "dropLot": "5000",
+          "assetCategoryId": "1",
+          "assetValue": "22000011",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "96",
+          "randomDropGroupId": "2021",
+          "dropLot": "5000",
+          "assetCategoryId": "1",
+          "assetValue": "22000111",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "97",
+          "randomDropGroupId": "2022",
+          "dropLot": "5000",
+          "assetCategoryId": "1",
+          "assetValue": "22000011",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "98",
+          "randomDropGroupId": "2022",
+          "dropLot": "5000",
+          "assetCategoryId": "1",
+          "assetValue": "22000111",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "99",
+          "randomDropGroupId": "2023",
+          "dropLot": "4500",
+          "assetCategoryId": "1",
+          "assetValue": "22000012",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "100",
+          "randomDropGroupId": "2023",
+          "dropLot": "4500",
+          "assetCategoryId": "1",
+          "assetValue": "22000112",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "101",
+          "randomDropGroupId": "2023",
+          "dropLot": "500",
+          "assetCategoryId": "1",
+          "assetValue": "22000013",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "102",
+          "randomDropGroupId": "2023",
+          "dropLot": "500",
+          "assetCategoryId": "1",
+          "assetValue": "22000113",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "103",
+          "randomDropGroupId": "2024",
+          "dropLot": "4500",
+          "assetCategoryId": "1",
+          "assetValue": "22000012",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "104",
+          "randomDropGroupId": "2024",
+          "dropLot": "4500",
+          "assetCategoryId": "1",
+          "assetValue": "22000112",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "105",
+          "randomDropGroupId": "2024",
+          "dropLot": "500",
+          "assetCategoryId": "1",
+          "assetValue": "22000013",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "106",
+          "randomDropGroupId": "2024",
+          "dropLot": "500",
+          "assetCategoryId": "1",
+          "assetValue": "22000113",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "107",
+          "randomDropGroupId": "2031",
+          "dropLot": "5000",
+          "assetCategoryId": "1",
+          "assetValue": "22000051",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "108",
+          "randomDropGroupId": "2031",
+          "dropLot": "5000",
+          "assetCategoryId": "1",
+          "assetValue": "22000151",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "109",
+          "randomDropGroupId": "2032",
+          "dropLot": "5000",
+          "assetCategoryId": "1",
+          "assetValue": "22000051",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "110",
+          "randomDropGroupId": "2032",
+          "dropLot": "5000",
+          "assetCategoryId": "1",
+          "assetValue": "22000151",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "111",
+          "randomDropGroupId": "2033",
+          "dropLot": "4500",
+          "assetCategoryId": "1",
+          "assetValue": "22000052",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "112",
+          "randomDropGroupId": "2033",
+          "dropLot": "4500",
+          "assetCategoryId": "1",
+          "assetValue": "22000152",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "113",
+          "randomDropGroupId": "2033",
+          "dropLot": "500",
+          "assetCategoryId": "1",
+          "assetValue": "22000053",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "114",
+          "randomDropGroupId": "2033",
+          "dropLot": "500",
+          "assetCategoryId": "1",
+          "assetValue": "22000153",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "115",
+          "randomDropGroupId": "2034",
+          "dropLot": "4500",
+          "assetCategoryId": "1",
+          "assetValue": "22000052",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "116",
+          "randomDropGroupId": "2034",
+          "dropLot": "4500",
+          "assetCategoryId": "1",
+          "assetValue": "22000152",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "117",
+          "randomDropGroupId": "2034",
+          "dropLot": "500",
+          "assetCategoryId": "1",
+          "assetValue": "22000053",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "118",
+          "randomDropGroupId": "2034",
+          "dropLot": "500",
+          "assetCategoryId": "1",
+          "assetValue": "22000153",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "119",
+          "randomDropGroupId": "2041",
+          "dropLot": "5000",
+          "assetCategoryId": "1",
+          "assetValue": "22000031",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "120",
+          "randomDropGroupId": "2041",
+          "dropLot": "5000",
+          "assetCategoryId": "1",
+          "assetValue": "22000131",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "121",
+          "randomDropGroupId": "2042",
+          "dropLot": "5000",
+          "assetCategoryId": "1",
+          "assetValue": "22000031",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "122",
+          "randomDropGroupId": "2042",
+          "dropLot": "5000",
+          "assetCategoryId": "1",
+          "assetValue": "22000131",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "123",
+          "randomDropGroupId": "2043",
+          "dropLot": "4500",
+          "assetCategoryId": "1",
+          "assetValue": "22000032",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "124",
+          "randomDropGroupId": "2043",
+          "dropLot": "4500",
+          "assetCategoryId": "1",
+          "assetValue": "22000132",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "125",
+          "randomDropGroupId": "2043",
+          "dropLot": "500",
+          "assetCategoryId": "1",
+          "assetValue": "22000033",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "126",
+          "randomDropGroupId": "2043",
+          "dropLot": "500",
+          "assetCategoryId": "1",
+          "assetValue": "22000133",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "127",
+          "randomDropGroupId": "2044",
+          "dropLot": "4500",
+          "assetCategoryId": "1",
+          "assetValue": "22000032",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "128",
+          "randomDropGroupId": "2044",
+          "dropLot": "4500",
+          "assetCategoryId": "1",
+          "assetValue": "22000132",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "129",
+          "randomDropGroupId": "2044",
+          "dropLot": "500",
+          "assetCategoryId": "1",
+          "assetValue": "22000033",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "130",
+          "randomDropGroupId": "2044",
+          "dropLot": "500",
+          "assetCategoryId": "1",
+          "assetValue": "22000133",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "131",
+          "randomDropGroupId": "51",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000002",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "132",
+          "randomDropGroupId": "51",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000721",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "133",
+          "randomDropGroupId": "52",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000012",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "134",
+          "randomDropGroupId": "52",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000721",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "135",
+          "randomDropGroupId": "53",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000032",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "136",
+          "randomDropGroupId": "53",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000721",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "137",
+          "randomDropGroupId": "54",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000052",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "138",
+          "randomDropGroupId": "54",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000721",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "139",
+          "randomDropGroupId": "55",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000062",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "140",
+          "randomDropGroupId": "55",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000721",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "141",
+          "randomDropGroupId": "56",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000102",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "142",
+          "randomDropGroupId": "56",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000281",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "143",
+          "randomDropGroupId": "57",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000112",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "144",
+          "randomDropGroupId": "57",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000281",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "145",
+          "randomDropGroupId": "58",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000132",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "146",
+          "randomDropGroupId": "58",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000281",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "147",
+          "randomDropGroupId": "59",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000152",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "148",
+          "randomDropGroupId": "59",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000281",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "149",
+          "randomDropGroupId": "60",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000162",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "150",
+          "randomDropGroupId": "60",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000281",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "151",
+          "randomDropGroupId": "61",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000002",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "152",
+          "randomDropGroupId": "61",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000351",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "153",
+          "randomDropGroupId": "62",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000012",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "154",
+          "randomDropGroupId": "62",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000351",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "155",
+          "randomDropGroupId": "63",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000032",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "156",
+          "randomDropGroupId": "63",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000351",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "157",
+          "randomDropGroupId": "64",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "20000351",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "158",
+          "randomDropGroupId": "64",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000401",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "159",
+          "randomDropGroupId": "65",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "20000351",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "160",
+          "randomDropGroupId": "65",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000401",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "161",
+          "randomDropGroupId": "66",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000102",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "162",
+          "randomDropGroupId": "66",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000791",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "163",
+          "randomDropGroupId": "67",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000112",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "164",
+          "randomDropGroupId": "67",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000791",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "165",
+          "randomDropGroupId": "68",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000132",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "166",
+          "randomDropGroupId": "68",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000791",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "167",
+          "randomDropGroupId": "69",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000152",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "168",
+          "randomDropGroupId": "69",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000791",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "169",
+          "randomDropGroupId": "70",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000162",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "170",
+          "randomDropGroupId": "70",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000791",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "171",
+          "randomDropGroupId": "71",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000002",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "172",
+          "randomDropGroupId": "71",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000241",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "173",
+          "randomDropGroupId": "72",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000012",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "174",
+          "randomDropGroupId": "72",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000241",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "175",
+          "randomDropGroupId": "73",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000032",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "176",
+          "randomDropGroupId": "73",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000241",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "177",
+          "randomDropGroupId": "74",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000052",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "178",
+          "randomDropGroupId": "74",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000241",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "179",
+          "randomDropGroupId": "75",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000062",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "180",
+          "randomDropGroupId": "75",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000241",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "181",
+          "randomDropGroupId": "76",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000102",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "182",
+          "randomDropGroupId": "76",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000271",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "183",
+          "randomDropGroupId": "77",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000112",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "184",
+          "randomDropGroupId": "77",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000271",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "185",
+          "randomDropGroupId": "78",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000132",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "186",
+          "randomDropGroupId": "78",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000271",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "187",
+          "randomDropGroupId": "79",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000152",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "188",
+          "randomDropGroupId": "79",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000271",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "189",
+          "randomDropGroupId": "80",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000162",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "190",
+          "randomDropGroupId": "80",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000271",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "191",
+          "randomDropGroupId": "81",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000002",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "192",
+          "randomDropGroupId": "81",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000831",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "193",
+          "randomDropGroupId": "82",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000012",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "194",
+          "randomDropGroupId": "82",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000831",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "195",
+          "randomDropGroupId": "83",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000032",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "196",
+          "randomDropGroupId": "83",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000831",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "197",
+          "randomDropGroupId": "84",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000052",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "198",
+          "randomDropGroupId": "84",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000831",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "199",
+          "randomDropGroupId": "85",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000062",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "200",
+          "randomDropGroupId": "85",
+          "dropLot": "6000",
+          "assetCategoryId": "1",
+          "assetValue": "20000831",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "201",
+          "randomDropGroupId": "2051",
+          "dropLot": "9000",
+          "assetCategoryId": "1",
+          "assetValue": "26000001",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "202",
+          "randomDropGroupId": "2051",
+          "dropLot": "1000",
+          "assetCategoryId": "1",
+          "assetValue": "26000002",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "203",
+          "randomDropGroupId": "2052",
+          "dropLot": "8000",
+          "assetCategoryId": "1",
+          "assetValue": "26000001",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "204",
+          "randomDropGroupId": "2052",
+          "dropLot": "2000",
+          "assetCategoryId": "1",
+          "assetValue": "26000002",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "205",
+          "randomDropGroupId": "2053",
+          "dropLot": "6900",
+          "assetCategoryId": "1",
+          "assetValue": "26000001",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "206",
+          "randomDropGroupId": "2053",
+          "dropLot": "3000",
+          "assetCategoryId": "1",
+          "assetValue": "26000002",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "207",
+          "randomDropGroupId": "2053",
+          "dropLot": "100",
+          "assetCategoryId": "1",
+          "assetValue": "26000003",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "208",
+          "randomDropGroupId": "2054",
+          "dropLot": "5500",
+          "assetCategoryId": "1",
+          "assetValue": "26000001",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "209",
+          "randomDropGroupId": "2054",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "26000002",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "210",
+          "randomDropGroupId": "2054",
+          "dropLot": "500",
+          "assetCategoryId": "1",
+          "assetValue": "26000003",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "211",
+          "randomDropGroupId": "2061",
+          "dropLot": "9000",
+          "assetCategoryId": "1",
+          "assetValue": "26000001",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "212",
+          "randomDropGroupId": "2061",
+          "dropLot": "1000",
+          "assetCategoryId": "1",
+          "assetValue": "26000002",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "213",
+          "randomDropGroupId": "2062",
+          "dropLot": "8000",
+          "assetCategoryId": "1",
+          "assetValue": "26000001",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "214",
+          "randomDropGroupId": "2062",
+          "dropLot": "2000",
+          "assetCategoryId": "1",
+          "assetValue": "26000002",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "215",
+          "randomDropGroupId": "2063",
+          "dropLot": "6900",
+          "assetCategoryId": "1",
+          "assetValue": "26000001",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "216",
+          "randomDropGroupId": "2063",
+          "dropLot": "3000",
+          "assetCategoryId": "1",
+          "assetValue": "26000002",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "217",
+          "randomDropGroupId": "2063",
+          "dropLot": "100",
+          "assetCategoryId": "1",
+          "assetValue": "26000003",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "218",
+          "randomDropGroupId": "2064",
+          "dropLot": "5500",
+          "assetCategoryId": "1",
+          "assetValue": "26000001",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "219",
+          "randomDropGroupId": "2064",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "26000002",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "220",
+          "randomDropGroupId": "2064",
+          "dropLot": "500",
+          "assetCategoryId": "1",
+          "assetValue": "26000003",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "221",
+          "randomDropGroupId": "5021",
+          "dropLot": "6000",
+          "assetCategoryId": "16",
+          "assetValue": "1",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "222",
+          "randomDropGroupId": "5021",
+          "dropLot": "3000",
+          "assetCategoryId": "16",
+          "assetValue": "1",
+          "assetNum": "3"
+        },
+        {
+          "randomDropId": "223",
+          "randomDropGroupId": "5021",
+          "dropLot": "1000",
+          "assetCategoryId": "16",
+          "assetValue": "1",
+          "assetNum": "5"
+        },
+        {
+          "randomDropId": "224",
+          "randomDropGroupId": "5022",
+          "dropLot": "6000",
+          "assetCategoryId": "16",
+          "assetValue": "1",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "225",
+          "randomDropGroupId": "5022",
+          "dropLot": "3000",
+          "assetCategoryId": "16",
+          "assetValue": "1",
+          "assetNum": "3"
+        },
+        {
+          "randomDropId": "226",
+          "randomDropGroupId": "5022",
+          "dropLot": "1000",
+          "assetCategoryId": "16",
+          "assetValue": "1",
+          "assetNum": "5"
+        },
+        {
+          "randomDropId": "227",
+          "randomDropGroupId": "5023",
+          "dropLot": "6000",
+          "assetCategoryId": "16",
+          "assetValue": "1",
+          "assetNum": "3"
+        },
+        {
+          "randomDropId": "228",
+          "randomDropGroupId": "5023",
+          "dropLot": "3500",
+          "assetCategoryId": "16",
+          "assetValue": "1",
+          "assetNum": "5"
+        },
+        {
+          "randomDropId": "229",
+          "randomDropGroupId": "5023",
+          "dropLot": "500",
+          "assetCategoryId": "16",
+          "assetValue": "1",
+          "assetNum": "10"
+        },
+        {
+          "randomDropId": "230",
+          "randomDropGroupId": "5024",
+          "dropLot": "6000",
+          "assetCategoryId": "16",
+          "assetValue": "1",
+          "assetNum": "5"
+        },
+        {
+          "randomDropId": "231",
+          "randomDropGroupId": "5024",
+          "dropLot": "3500",
+          "assetCategoryId": "16",
+          "assetValue": "1",
+          "assetNum": "10"
+        },
+        {
+          "randomDropId": "232",
+          "randomDropGroupId": "5024",
+          "dropLot": "500",
+          "assetCategoryId": "16",
+          "assetValue": "1",
+          "assetNum": "20"
+        },
+        {
+          "randomDropId": "233",
+          "randomDropGroupId": "5072",
+          "dropLot": "6000",
+          "assetCategoryId": "16",
+          "assetValue": "3",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "234",
+          "randomDropGroupId": "5072",
+          "dropLot": "3000",
+          "assetCategoryId": "16",
+          "assetValue": "3",
+          "assetNum": "3"
+        },
+        {
+          "randomDropId": "235",
+          "randomDropGroupId": "5072",
+          "dropLot": "1000",
+          "assetCategoryId": "16",
+          "assetValue": "3",
+          "assetNum": "5"
+        },
+        {
+          "randomDropId": "236",
+          "randomDropGroupId": "5073",
+          "dropLot": "6000",
+          "assetCategoryId": "16",
+          "assetValue": "3",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "237",
+          "randomDropGroupId": "5073",
+          "dropLot": "3000",
+          "assetCategoryId": "16",
+          "assetValue": "3",
+          "assetNum": "3"
+        },
+        {
+          "randomDropId": "238",
+          "randomDropGroupId": "5073",
+          "dropLot": "1000",
+          "assetCategoryId": "16",
+          "assetValue": "3",
+          "assetNum": "5"
+        },
+        {
+          "randomDropId": "239",
+          "randomDropGroupId": "5074",
+          "dropLot": "6000",
+          "assetCategoryId": "16",
+          "assetValue": "3",
+          "assetNum": "3"
+        },
+        {
+          "randomDropId": "240",
+          "randomDropGroupId": "5074",
+          "dropLot": "3500",
+          "assetCategoryId": "16",
+          "assetValue": "3",
+          "assetNum": "5"
+        },
+        {
+          "randomDropId": "241",
+          "randomDropGroupId": "5074",
+          "dropLot": "500",
+          "assetCategoryId": "16",
+          "assetValue": "3",
+          "assetNum": "10"
+        },
+        {
+          "randomDropId": "242",
+          "randomDropGroupId": "5075",
+          "dropLot": "6000",
+          "assetCategoryId": "16",
+          "assetValue": "3",
+          "assetNum": "5"
+        },
+        {
+          "randomDropId": "243",
+          "randomDropGroupId": "5075",
+          "dropLot": "3500",
+          "assetCategoryId": "16",
+          "assetValue": "3",
+          "assetNum": "10"
+        },
+        {
+          "randomDropId": "244",
+          "randomDropGroupId": "5075",
+          "dropLot": "500",
+          "assetCategoryId": "16",
+          "assetValue": "3",
+          "assetNum": "20"
+        },
+        {
+          "randomDropId": "245",
+          "randomDropGroupId": "5651",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "51",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "246",
+          "randomDropGroupId": "5652",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "51",
+          "assetNum": "2"
+        },
+        {
+          "randomDropId": "247",
+          "randomDropGroupId": "5653",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "51",
+          "assetNum": "3"
+        },
+        {
+          "randomDropId": "248",
+          "randomDropGroupId": "5654",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "51",
+          "assetNum": "4"
+        },
+        {
+          "randomDropId": "249",
+          "randomDropGroupId": "5655",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "51",
+          "assetNum": "5"
+        },
+        {
+          "randomDropId": "250",
+          "randomDropGroupId": "5661",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "53",
+          "assetNum": "5"
+        },
+        {
+          "randomDropId": "251",
+          "randomDropGroupId": "5662",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "53",
+          "assetNum": "15"
+        },
+        {
+          "randomDropId": "252",
+          "randomDropGroupId": "5663",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "53",
+          "assetNum": "20"
+        },
+        {
+          "randomDropId": "253",
+          "randomDropGroupId": "5664",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "53",
+          "assetNum": "30"
+        },
+        {
+          "randomDropId": "254",
+          "randomDropGroupId": "5666",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "53",
+          "assetNum": "70"
+        },
+        {
+          "randomDropId": "255",
+          "randomDropGroupId": "5650",
+          "dropLot": "4000",
+          "assetCategoryId": "16",
+          "assetValue": "58",
+          "assetNum": "100"
+        },
+        {
+          "randomDropId": "256",
+          "randomDropGroupId": "5650",
+          "dropLot": "2500",
+          "assetCategoryId": "16",
+          "assetValue": "58",
+          "assetNum": "150"
+        },
+        {
+          "randomDropId": "257",
+          "randomDropGroupId": "5650",
+          "dropLot": "2000",
+          "assetCategoryId": "16",
+          "assetValue": "58",
+          "assetNum": "200"
+        },
+        {
+          "randomDropId": "258",
+          "randomDropGroupId": "5650",
+          "dropLot": "1000",
+          "assetCategoryId": "16",
+          "assetValue": "58",
+          "assetNum": "500"
+        },
+        {
+          "randomDropId": "259",
+          "randomDropGroupId": "5650",
+          "dropLot": "500",
+          "assetCategoryId": "16",
+          "assetValue": "58",
+          "assetNum": "1000"
+        },
+        {
+          "randomDropId": "260",
+          "randomDropGroupId": "5881",
+          "dropLot": "4000",
+          "assetCategoryId": "16",
+          "assetValue": "92",
+          "assetNum": "50"
+        },
+        {
+          "randomDropId": "261",
+          "randomDropGroupId": "5881",
+          "dropLot": "2500",
+          "assetCategoryId": "16",
+          "assetValue": "92",
+          "assetNum": "100"
+        },
+        {
+          "randomDropId": "262",
+          "randomDropGroupId": "5881",
+          "dropLot": "2000",
+          "assetCategoryId": "16",
+          "assetValue": "92",
+          "assetNum": "150"
+        },
+        {
+          "randomDropId": "263",
+          "randomDropGroupId": "5881",
+          "dropLot": "1000",
+          "assetCategoryId": "16",
+          "assetValue": "92",
+          "assetNum": "200"
+        },
+        {
+          "randomDropId": "264",
+          "randomDropGroupId": "5881",
+          "dropLot": "500",
+          "assetCategoryId": "16",
+          "assetValue": "92",
+          "assetNum": "300"
+        },
+        {
+          "randomDropId": "265",
+          "randomDropGroupId": "40002",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "74",
+          "assetNum": "3"
+        },
+        {
+          "randomDropId": "266",
+          "randomDropGroupId": "40007",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "74",
+          "assetNum": "5"
+        },
+        {
+          "randomDropId": "267",
+          "randomDropGroupId": "40012",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "74",
+          "assetNum": "7"
+        },
+        {
+          "randomDropId": "268",
+          "randomDropGroupId": "40017",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "74",
+          "assetNum": "7"
+        },
+        {
+          "randomDropId": "269",
+          "randomDropGroupId": "40021",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "74",
+          "assetNum": "8"
+        },
+        {
+          "randomDropId": "270",
+          "randomDropGroupId": "40022",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "74",
+          "assetNum": "9"
+        },
+        {
+          "randomDropId": "271",
+          "randomDropGroupId": "40027",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "74",
+          "assetNum": "11"
+        },
+        {
+          "randomDropId": "272",
+          "randomDropGroupId": "40102",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "85",
+          "assetNum": "3"
+        },
+        {
+          "randomDropId": "273",
+          "randomDropGroupId": "40107",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "85",
+          "assetNum": "5"
+        },
+        {
+          "randomDropId": "274",
+          "randomDropGroupId": "40112",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "85",
+          "assetNum": "7"
+        },
+        {
+          "randomDropId": "275",
+          "randomDropGroupId": "40117",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "85",
+          "assetNum": "7"
+        },
+        {
+          "randomDropId": "276",
+          "randomDropGroupId": "40121",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "85",
+          "assetNum": "8"
+        },
+        {
+          "randomDropId": "277",
+          "randomDropGroupId": "40122",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "85",
+          "assetNum": "9"
+        },
+        {
+          "randomDropId": "278",
+          "randomDropGroupId": "40127",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "85",
+          "assetNum": "11"
+        },
+        {
+          "randomDropId": "279",
+          "randomDropGroupId": "90000",
+          "dropLot": "2000",
+          "assetCategoryId": "16",
+          "assetValue": "91",
+          "assetNum": "10"
+        },
+        {
+          "randomDropId": "284",
+          "randomDropGroupId": "40202",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "94",
+          "assetNum": "3"
+        },
+        {
+          "randomDropId": "285",
+          "randomDropGroupId": "40207",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "94",
+          "assetNum": "5"
+        },
+        {
+          "randomDropId": "286",
+          "randomDropGroupId": "40212",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "94",
+          "assetNum": "7"
+        },
+        {
+          "randomDropId": "287",
+          "randomDropGroupId": "40217",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "94",
+          "assetNum": "7"
+        },
+        {
+          "randomDropId": "288",
+          "randomDropGroupId": "40221",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "94",
+          "assetNum": "8"
+        },
+        {
+          "randomDropId": "289",
+          "randomDropGroupId": "40222",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "94",
+          "assetNum": "9"
+        },
+        {
+          "randomDropId": "290",
+          "randomDropGroupId": "40227",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "94",
+          "assetNum": "11"
+        },
+        {
+          "randomDropId": "291",
+          "randomDropGroupId": "40302",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "106",
+          "assetNum": "3"
+        },
+        {
+          "randomDropId": "292",
+          "randomDropGroupId": "40307",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "106",
+          "assetNum": "5"
+        },
+        {
+          "randomDropId": "293",
+          "randomDropGroupId": "40312",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "106",
+          "assetNum": "7"
+        },
+        {
+          "randomDropId": "294",
+          "randomDropGroupId": "40317",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "106",
+          "assetNum": "7"
+        },
+        {
+          "randomDropId": "295",
+          "randomDropGroupId": "40321",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "106",
+          "assetNum": "8"
+        },
+        {
+          "randomDropId": "296",
+          "randomDropGroupId": "40322",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "106",
+          "assetNum": "9"
+        },
+        {
+          "randomDropId": "297",
+          "randomDropGroupId": "40327",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "106",
+          "assetNum": "11"
+        },
+        {
+          "randomDropId": "298",
+          "randomDropGroupId": "40402",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "117",
+          "assetNum": "3"
+        },
+        {
+          "randomDropId": "299",
+          "randomDropGroupId": "40407",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "117",
+          "assetNum": "5"
+        },
+        {
+          "randomDropId": "300",
+          "randomDropGroupId": "40412",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "117",
+          "assetNum": "7"
+        },
+        {
+          "randomDropId": "301",
+          "randomDropGroupId": "40417",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "117",
+          "assetNum": "7"
+        },
+        {
+          "randomDropId": "302",
+          "randomDropGroupId": "40421",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "117",
+          "assetNum": "8"
+        },
+        {
+          "randomDropId": "303",
+          "randomDropGroupId": "40422",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "117",
+          "assetNum": "9"
+        },
+        {
+          "randomDropId": "304",
+          "randomDropGroupId": "40427",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "117",
+          "assetNum": "11"
+        },
+        {
+          "randomDropId": "305",
+          "randomDropGroupId": "40502",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "126",
+          "assetNum": "3"
+        },
+        {
+          "randomDropId": "306",
+          "randomDropGroupId": "40507",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "126",
+          "assetNum": "5"
+        },
+        {
+          "randomDropId": "307",
+          "randomDropGroupId": "40512",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "126",
+          "assetNum": "7"
+        },
+        {
+          "randomDropId": "308",
+          "randomDropGroupId": "40517",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "126",
+          "assetNum": "7"
+        },
+        {
+          "randomDropId": "309",
+          "randomDropGroupId": "40521",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "126",
+          "assetNum": "8"
+        },
+        {
+          "randomDropId": "310",
+          "randomDropGroupId": "40522",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "126",
+          "assetNum": "9"
+        },
+        {
+          "randomDropId": "311",
+          "randomDropGroupId": "40527",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "126",
+          "assetNum": "11"
+        },
+        {
+          "randomDropId": "312",
+          "randomDropGroupId": "40602",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "134",
+          "assetNum": "3"
+        },
+        {
+          "randomDropId": "313",
+          "randomDropGroupId": "40607",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "134",
+          "assetNum": "5"
+        },
+        {
+          "randomDropId": "314",
+          "randomDropGroupId": "40612",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "134",
+          "assetNum": "7"
+        },
+        {
+          "randomDropId": "315",
+          "randomDropGroupId": "40617",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "134",
+          "assetNum": "7"
+        },
+        {
+          "randomDropId": "316",
+          "randomDropGroupId": "40621",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "134",
+          "assetNum": "8"
+        },
+        {
+          "randomDropId": "317",
+          "randomDropGroupId": "40622",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "134",
+          "assetNum": "9"
+        },
+        {
+          "randomDropId": "318",
+          "randomDropGroupId": "40627",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "134",
+          "assetNum": "11"
+        },
+        {
+          "randomDropId": "319",
+          "randomDropGroupId": "40702",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "149",
+          "assetNum": "3"
+        },
+        {
+          "randomDropId": "320",
+          "randomDropGroupId": "40707",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "149",
+          "assetNum": "5"
+        },
+        {
+          "randomDropId": "321",
+          "randomDropGroupId": "40715",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "149",
+          "assetNum": "7"
+        },
+        {
+          "randomDropId": "322",
+          "randomDropGroupId": "6145",
+          "dropLot": "4000",
+          "assetCategoryId": "16",
+          "assetValue": "159",
+          "assetNum": "100"
+        },
+        {
+          "randomDropId": "323",
+          "randomDropGroupId": "6145",
+          "dropLot": "2500",
+          "assetCategoryId": "16",
+          "assetValue": "159",
+          "assetNum": "150"
+        },
+        {
+          "randomDropId": "324",
+          "randomDropGroupId": "6145",
+          "dropLot": "2000",
+          "assetCategoryId": "16",
+          "assetValue": "159",
+          "assetNum": "200"
+        },
+        {
+          "randomDropId": "325",
+          "randomDropGroupId": "6145",
+          "dropLot": "1000",
+          "assetCategoryId": "16",
+          "assetValue": "159",
+          "assetNum": "500"
+        },
+        {
+          "randomDropId": "326",
+          "randomDropGroupId": "6145",
+          "dropLot": "500",
+          "assetCategoryId": "16",
+          "assetValue": "159",
+          "assetNum": "1000"
+        },
+        {
+          "randomDropId": "327",
+          "randomDropGroupId": "40802",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "169",
+          "assetNum": "5"
+        },
+        {
+          "randomDropId": "328",
+          "randomDropGroupId": "40807",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "169",
+          "assetNum": "10"
+        },
+        {
+          "randomDropId": "329",
+          "randomDropGroupId": "40815",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "169",
+          "assetNum": "100"
+        },
+        {
+          "randomDropId": "330",
+          "randomDropGroupId": "6189",
+          "dropLot": "5500",
+          "assetCategoryId": "16",
+          "assetValue": "164",
+          "assetNum": "20"
+        },
+        {
+          "randomDropId": "331",
+          "randomDropGroupId": "6189",
+          "dropLot": "3500",
+          "assetCategoryId": "16",
+          "assetValue": "164",
+          "assetNum": "30"
+        },
+        {
+          "randomDropId": "332",
+          "randomDropGroupId": "6189",
+          "dropLot": "1000",
+          "assetCategoryId": "16",
+          "assetValue": "164",
+          "assetNum": "50"
+        },
+        {
+          "randomDropId": "333",
+          "randomDropGroupId": "41102",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "189",
+          "assetNum": "5"
+        },
+        {
+          "randomDropId": "334",
+          "randomDropGroupId": "41107",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "189",
+          "assetNum": "9"
+        },
+        {
+          "randomDropId": "335",
+          "randomDropGroupId": "41115",
+          "dropLot": "10000",
+          "assetCategoryId": "16",
+          "assetValue": "189",
+          "assetNum": "12"
+        },
+        {
+          "randomDropId": "10000",
+          "randomDropGroupId": "1001",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000001",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10002",
+          "randomDropGroupId": "1002",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000011",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10004",
+          "randomDropGroupId": "1003",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000031",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10006",
+          "randomDropGroupId": "1004",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000051",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10008",
+          "randomDropGroupId": "1005",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000061",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10010",
+          "randomDropGroupId": "1006",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000031",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10012",
+          "randomDropGroupId": "1007",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000011",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10014",
+          "randomDropGroupId": "1008",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000001",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10016",
+          "randomDropGroupId": "1009",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000101",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10018",
+          "randomDropGroupId": "1010",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000111",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10020",
+          "randomDropGroupId": "1011",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000131",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10022",
+          "randomDropGroupId": "1012",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000151",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10024",
+          "randomDropGroupId": "1013",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000161",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10026",
+          "randomDropGroupId": "1014",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000111",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10028",
+          "randomDropGroupId": "1015",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000131",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10030",
+          "randomDropGroupId": "1016",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000101",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10032",
+          "randomDropGroupId": "1501",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000002",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10034",
+          "randomDropGroupId": "1502",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000012",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10036",
+          "randomDropGroupId": "1503",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000032",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10038",
+          "randomDropGroupId": "1504",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000052",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10040",
+          "randomDropGroupId": "1505",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000062",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10042",
+          "randomDropGroupId": "1506",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000032",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10044",
+          "randomDropGroupId": "1507",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000012",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10046",
+          "randomDropGroupId": "1508",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000002",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10048",
+          "randomDropGroupId": "1509",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000102",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10050",
+          "randomDropGroupId": "1510",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000112",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10052",
+          "randomDropGroupId": "1511",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000132",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10054",
+          "randomDropGroupId": "1512",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000152",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10056",
+          "randomDropGroupId": "1513",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000162",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10058",
+          "randomDropGroupId": "1514",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000112",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10060",
+          "randomDropGroupId": "1515",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000132",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10062",
+          "randomDropGroupId": "1516",
+          "dropLot": "4000",
+          "assetCategoryId": "1",
+          "assetValue": "22000102",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10064",
+          "randomDropGroupId": "1017",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000131",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10065",
+          "randomDropGroupId": "1018",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000101",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10066",
+          "randomDropGroupId": "1019",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000111",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10067",
+          "randomDropGroupId": "1020",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000161",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10068",
+          "randomDropGroupId": "1021",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000131",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10069",
+          "randomDropGroupId": "1022",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000151",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10070",
+          "randomDropGroupId": "1517",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000132",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10071",
+          "randomDropGroupId": "1518",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000102",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10072",
+          "randomDropGroupId": "1519",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000112",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10073",
+          "randomDropGroupId": "1520",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000162",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10074",
+          "randomDropGroupId": "1521",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000132",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10075",
+          "randomDropGroupId": "1522",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000152",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10076",
+          "randomDropGroupId": "1023",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000061",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10077",
+          "randomDropGroupId": "1024",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000031",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10078",
+          "randomDropGroupId": "1025",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000011",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10079",
+          "randomDropGroupId": "1026",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000051",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10080",
+          "randomDropGroupId": "1027",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000001",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10081",
+          "randomDropGroupId": "1028",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000061",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10082",
+          "randomDropGroupId": "1523",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000062",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10083",
+          "randomDropGroupId": "1524",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000032",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10084",
+          "randomDropGroupId": "1525",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000012",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10085",
+          "randomDropGroupId": "1526",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000052",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10086",
+          "randomDropGroupId": "1527",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000002",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10087",
+          "randomDropGroupId": "1528",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000062",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10088",
+          "randomDropGroupId": "1041",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000161",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10089",
+          "randomDropGroupId": "1042",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000151",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10090",
+          "randomDropGroupId": "1043",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000111",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10091",
+          "randomDropGroupId": "1044",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000101",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10092",
+          "randomDropGroupId": "1045",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000131",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10093",
+          "randomDropGroupId": "1046",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000161",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10094",
+          "randomDropGroupId": "1541",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000162",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10095",
+          "randomDropGroupId": "1542",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000152",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10096",
+          "randomDropGroupId": "1543",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000112",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10097",
+          "randomDropGroupId": "1544",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000102",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10098",
+          "randomDropGroupId": "1545",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000132",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10099",
+          "randomDropGroupId": "1546",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000162",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10100",
+          "randomDropGroupId": "1047",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000151",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10101",
+          "randomDropGroupId": "1048",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000131",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10102",
+          "randomDropGroupId": "1049",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000161",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10103",
+          "randomDropGroupId": "1050",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000111",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10104",
+          "randomDropGroupId": "1051",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000101",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10105",
+          "randomDropGroupId": "1052",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000151",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10106",
+          "randomDropGroupId": "1547",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000152",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10107",
+          "randomDropGroupId": "1548",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000132",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10108",
+          "randomDropGroupId": "1549",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000162",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10109",
+          "randomDropGroupId": "1550",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000112",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10110",
+          "randomDropGroupId": "1551",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000102",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10111",
+          "randomDropGroupId": "1552",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000152",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10112",
+          "randomDropGroupId": "1053",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000111",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10113",
+          "randomDropGroupId": "1054",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000101",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10114",
+          "randomDropGroupId": "1055",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000111",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10115",
+          "randomDropGroupId": "1056",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000131",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10116",
+          "randomDropGroupId": "1057",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000161",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10117",
+          "randomDropGroupId": "1058",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000151",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10118",
+          "randomDropGroupId": "1059",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000111",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10119",
+          "randomDropGroupId": "1553",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000112",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10120",
+          "randomDropGroupId": "1554",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000102",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10121",
+          "randomDropGroupId": "1555",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000112",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10122",
+          "randomDropGroupId": "1556",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000132",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10123",
+          "randomDropGroupId": "1557",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000162",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10124",
+          "randomDropGroupId": "1558",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000152",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10125",
+          "randomDropGroupId": "1559",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000112",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10126",
+          "randomDropGroupId": "1077",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000101",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10127",
+          "randomDropGroupId": "1079",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000161",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10128",
+          "randomDropGroupId": "1577",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000102",
+          "assetNum": "1"
+        },
+        {
+          "randomDropId": "10129",
+          "randomDropGroupId": "1579",
+          "dropLot": "3500",
+          "assetCategoryId": "1",
+          "assetValue": "22000162",
+          "assetNum": "1"
+        }
+      ]

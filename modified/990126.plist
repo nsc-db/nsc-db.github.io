@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
-
-<plist version="1.0">
-    <dict>
-        <key>990126</key>
-        <string>{"resData":{"990126":{"charaLoveAffinityM":[{"charaLoveAffinityId":"110","message1":"\u5c11\u3057\u4ef2\u826f\u304f\u306a\u3063\u305f\u3063\u3066\u3070\u3088","message2":"\u5272\u308a\u3068\u4ef2\u826f\u304f\u306a\u3063\u305f\u3063\u3066\u3070\u3088","message3":"\u51c4\u304f\u4ef2\u826f\u304f\u306a\u3063\u305f\u3063\u3066\u3070\u3088","message4":"\u8d85\u4ef2\u826f\u304f\u306a\u3063\u305f\u3063\u3066\u3070\u3088"}]}}}</string>
-    </dict>
-</plist>
