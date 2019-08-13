@@ -2227,5 +2227,35 @@
           "subScore": "0",
           "color": "14211288",
           "type": "3"
+        },
+        {
+          "cardUnusualId": "227",
+          "category": "4",
+          "iconId": "1259",
+          "name": "黄泉比良坂",
+          "description": "地形効果無効、200%の確率でスキル回避、卯状態の敵が行動した後に確率でアクション状態になる",
+          "subScore": "0",
+          "color": "16711680",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "229",
+          "category": "3",
+          "iconId": "1261",
+          "name": "鬼眼",
+          "description": "耐性無視を含む自身対象の全スキル効果を無効化",
+          "subScore": "0",
+          "color": "16711680",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "230",
+          "category": "3",
+          "iconId": "0",
+          "name": "強化系神化・特殊状態不可",
+          "description": "強化系神化・特殊状態不可",
+          "subScore": "0",
+          "color": "8355711",
+          "type": "3"
         }
       ]

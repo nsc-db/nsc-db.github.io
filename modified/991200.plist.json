@@ -10841,7 +10841,7 @@
           "charaIds": "12301,",
           "cardIds": "0",
           "charaGroupIds": "0",
-          "effectIdx1": "0",
+          "effectIdx1": "2473",
           "effectIdx2": "2424",
           "effectIdx3": "2425",
           "effectIdx4": "0"
@@ -10881,5 +10881,29 @@
           "effectIdx2": "820",
           "effectIdx3": "300012",
           "effectIdx4": "1423"
+        },
+        {
+          "crystalOverwriteEffectId": "924",
+          "targetCrystal": "20835",
+          "description": "全スキルダメージ120%アップ、素早さ100アップ、1回行動するまで確率で全スキル無効＆スキル回避",
+          "charaIds": "14301,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "30011",
+          "effectIdx2": "13599",
+          "effectIdx3": "2465",
+          "effectIdx4": "2466"
+        },
+        {
+          "crystalOverwriteEffectId": "925",
+          "targetCrystal": "20836",
+          "description": "全スキルダメージ100%アップ、素早さ150アップ、弱体・状態異常無効",
+          "charaIds": "14301,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "774",
+          "effectIdx2": "13649",
+          "effectIdx3": "880",
+          "effectIdx4": "0"
         }
       ]

@@ -20366,6 +20366,42 @@
           "effectIdx3": "2432"
         },
         {
+          "abilityId": "2321",
+          "abilityName": "愛を捨てし女神",
+          "abilityDescription": "最大チャクラが200アップ、HP0以下で1回だけHP全回復",
+          "abilityEffectDescription": "最大チャクラが200アップ、HP0以下で1回だけHP全回復",
+          "effectIdx1": "20019",
+          "effectIdx2": "312",
+          "effectIdx3": "874"
+        },
+        {
+          "abilityId": "2322",
+          "abilityName": "狂気の支配欲",
+          "abilityDescription": "3回行動するまで受ける耐性無視スキルのダメージを0＆全スキル無効＆スキップ無効",
+          "abilityEffectDescription": "3回行動するまで受ける耐性無視スキルのダメージを0＆全スキル無効＆スキップ無効",
+          "effectIdx1": "2446",
+          "effectIdx2": "2447",
+          "effectIdx3": "2382"
+        },
+        {
+          "abilityId": "2323",
+          "abilityName": "チャクラ統一の悲願",
+          "abilityDescription": "敵に神忍祭限定キャラが生存している場合、素早さが444%アップ＆スキル発動速度1段階アップ",
+          "abilityEffectDescription": "敵に神忍祭限定キャラが生存している場合、素早さが444%アップ＆スキル発動速度1段階アップ",
+          "effectIdx1": "2450",
+          "effectIdx2": "2006",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2324",
+          "abilityName": "妄執の独占欲",
+          "abilityDescription": "最大チャクラ量が200アップし、バトル開始時に敵全体を短い間「強化系神化・特殊状態不可」にする",
+          "abilityEffectDescription": "最大チャクラ量が200アップし、バトル開始時に敵全体を短い間「強化系神化・特殊状態不可」にする",
+          "effectIdx1": "20019",
+          "effectIdx2": "2451",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

@@ -19741,5 +19741,37 @@
           "crystalImageId": "208325",
           "recipeId": "20832",
           "recipeName": "ハムラの角"
+        },
+        {
+          "crystalId": "20835",
+          "crystalType": "3",
+          "crystalRare": "5",
+          "effectIdx1": "2464",
+          "effectIdx2": "13529",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "カグヤの第三の眼",
+          "crystalDescription": "固有タイプのスキルダメージ70%アップ、素早さ30アップ",
+          "crystalImageId": "208355",
+          "recipeId": "20835",
+          "recipeName": "カグヤの第三の眼"
+        },
+        {
+          "crystalId": "20836",
+          "crystalType": "3",
+          "crystalRare": "5",
+          "effectIdx1": "1024",
+          "effectIdx2": "13569",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "カグヤの白眼",
+          "crystalDescription": "固有タイプのスキルダメージ30%アップ、素早さ70アップ",
+          "crystalImageId": "208365",
+          "recipeId": "20836",
+          "recipeName": "カグヤの白眼"
         }
       ]

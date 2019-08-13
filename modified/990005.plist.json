@@ -849,6 +849,16 @@
           "enemyEffects": "1492,"
         },
         {
+          "battleFieldEffectId": "95",
+          "name": "和解の印・後編 &lt;追加ステージ&gt;",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "12121,1840,13099,2254,",
+          "enemyEffects": "50001,80015,"
+        },
+        {
           "battleFieldEffectId": "10001",
           "name": "始球空間",
           "category": "3",
@@ -927,5 +937,35 @@
           "uiIdx": "10008",
           "partyEffects": "2420,2421,",
           "enemyEffects": null
+        },
+        {
+          "battleFieldEffectId": "10009",
+          "name": "溶",
+          "category": "3",
+          "scriptId": "10009",
+          "overWrite": "1",
+          "uiIdx": "10009",
+          "partyEffects": null,
+          "enemyEffects": "2454,862,"
+        },
+        {
+          "battleFieldEffectId": "10010",
+          "name": "氷",
+          "category": "3",
+          "scriptId": "10010",
+          "overWrite": "1",
+          "uiIdx": "10010",
+          "partyEffects": null,
+          "enemyEffects": "2454,50000,"
+        },
+        {
+          "battleFieldEffectId": "10011",
+          "name": "超重力",
+          "category": "3",
+          "scriptId": "10011",
+          "overWrite": "1",
+          "uiIdx": "10011",
+          "partyEffects": null,
+          "enemyEffects": "2452,2453,"
         }
       ]
