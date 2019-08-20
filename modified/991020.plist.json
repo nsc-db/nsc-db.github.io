@@ -1543,6 +1543,22 @@
           "equipStatus": "1"
         },
         {
+          "titleId": "275",
+          "title": "4周年の",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "1"
+        },
+        {
+          "titleId": "276",
+          "title": "4周年だよ",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "1"
+        },
+        {
           "titleId": "1000",
           "title": "忍者学校生",
           "description": "",
@@ -4401,6 +4417,22 @@
         {
           "titleId": "5262",
           "title": "オレ達で世界を救うぞ！",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5263",
+          "title": "4周年だってばよ！",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5264",
+          "title": "4周年だウスラトンカチ",
           "description": "0",
           "color": "0",
           "effectIds": "0",

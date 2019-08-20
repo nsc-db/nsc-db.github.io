@@ -7802,5 +7802,280 @@
           "appUiId": "1564",
           "uiKey": "EventPointClear",
           "text": "全て達成済み！！"
+        },
+        {
+          "appUiId": "1565",
+          "uiKey": "SphereRelease",
+          "text": "解放する"
+        },
+        {
+          "appUiId": "1566",
+          "uiKey": "SphereNotClearCondition",
+          "text": "条件を満たしていないため解放できません"
+        },
+        {
+          "appUiId": "1567",
+          "uiKey": "SphereMaterialShortage",
+          "text": "素材が不足しています"
+        },
+        {
+          "appUiId": "1568",
+          "uiKey": "SphereMoneyShortage",
+          "text": "両が不足しています"
+        },
+        {
+          "appUiId": "1569",
+          "uiKey": "NormalSpherePanelFormat",
+          "text": "潜在覚醒・%s"
+        },
+        {
+          "appUiId": "1570",
+          "uiKey": "SpecialSpherePanelFormat",
+          "text": "禁忌の覚醒・%s"
+        },
+        {
+          "appUiId": "1571",
+          "uiKey": "SphereAttribute_201",
+          "text": "火"
+        },
+        {
+          "appUiId": "1572",
+          "uiKey": "SphereAttribute_202",
+          "text": "水"
+        },
+        {
+          "appUiId": "1573",
+          "uiKey": "SphereAttribute_203",
+          "text": "土"
+        },
+        {
+          "appUiId": "1574",
+          "uiKey": "SphereAttribute_204",
+          "text": "風"
+        },
+        {
+          "appUiId": "1575",
+          "uiKey": "SphereAttribute_205",
+          "text": "雷"
+        },
+        {
+          "appUiId": "1576",
+          "uiKey": "SphereIsReleased",
+          "text": "解放されています"
+        },
+        {
+          "appUiId": "1577",
+          "uiKey": "SpherePowerUpBaseTitle",
+          "text": "潜在覚醒ベース選択"
+        },
+        {
+          "appUiId": "1578",
+          "uiKey": "SpherePowerUpBaseDesc",
+          "text": "潜在覚醒する忍を選択して下さい"
+        },
+        {
+          "appUiId": "1579",
+          "uiKey": "ShinobiListOverLabelNotSphere",
+          "text": "潜在覚醒盤を持つ忍を所持していません"
+        },
+        {
+          "appUiId": "1580",
+          "uiKey": "SphereSceneTitle",
+          "text": "潜在覚醒"
+        },
+        {
+          "appUiId": "1581",
+          "uiKey": "SphereSceneInfo",
+          "text": "解放するマスを選択してください"
+        },
+        {
+          "appUiId": "1582",
+          "uiKey": "SpecificMaterialName",
+          "text": "禁忌の至宝・%s"
+        },
+        {
+          "appUiId": "1583",
+          "uiKey": "ReleaseLastSphereText",
+          "text": "「能力アビリティ、潜在アビリティ」が\r\n解放可能になりました"
+        },
+        {
+          "appUiId": "1584",
+          "uiKey": "ReleaseSphereNewNormalPanel",
+          "text": "「%s」が解放されました"
+        },
+        {
+          "appUiId": "1585",
+          "uiKey": "ReleaseSphereSpecialPanel",
+          "text": "「%s」が解放されました"
+        },
+        {
+          "appUiId": "1586",
+          "uiKey": "SphereMaterialList",
+          "text": "素材一覧"
+        },
+        {
+          "appUiId": "1587",
+          "uiKey": "SphereMaterialListTitle",
+          "text": "素材一覧"
+        },
+        {
+          "appUiId": "1588",
+          "uiKey": "SphereCustomA",
+          "text": "能力アビリティ"
+        },
+        {
+          "appUiId": "1589",
+          "uiKey": "SphereCustomB",
+          "text": "潜在アビリティ"
+        },
+        {
+          "appUiId": "1590",
+          "uiKey": "SphereNormal",
+          "text": "通常マス"
+        },
+        {
+          "appUiId": "1591",
+          "uiKey": "SphereLast",
+          "text": "解放マス"
+        },
+        {
+          "appUiId": "1592",
+          "uiKey": "CustomAbilitySelectDesc1",
+          "text": "アビリティを選択してください\r\n"
+        },
+        {
+          "appUiId": "1593",
+          "uiKey": "SphereAbilityTitle",
+          "text": "潜在アビリティ"
+        },
+        {
+          "appUiId": "1594",
+          "uiKey": "SphereAbilityNonName",
+          "text": "未解放"
+        },
+        {
+          "appUiId": "1595",
+          "uiKey": "SphereAbilityNonDesc",
+          "text": "タップで選択できます"
+        },
+        {
+          "appUiId": "1596",
+          "uiKey": "SphereAbilityUnlockHint",
+          "text": "「潜在覚醒」から解放"
+        },
+        {
+          "appUiId": "1597",
+          "uiKey": "SphereLastReleaseText1",
+          "text": "アビリティマスが解放可能になります"
+        },
+        {
+          "appUiId": "1598",
+          "uiKey": "SphereLastReleaseText2",
+          "text": "新しい盤面が解放可能になります"
+        },
+        {
+          "appUiId": "1599",
+          "uiKey": "ShinobiSellToGetItemMessage",
+          "text": "売却／至宝変換しました\r\n潜在覚醒素材「禁忌の至宝」を獲得しました"
+        },
+        {
+          "appUiId": "1600",
+          "uiKey": "SphereAbilityListMessage",
+          "text": "「%s」で解放可能"
+        },
+        {
+          "appUiId": "1601",
+          "uiKey": "CustomAbilitySelectDesc2",
+          "text": "※一度解放したアビリティは変更できません"
+        },
+        {
+          "appUiId": "1602",
+          "uiKey": "SphereCustomAShort",
+          "text": "能力アビ"
+        },
+        {
+          "appUiId": "1603",
+          "uiKey": "SphereCustomBShort",
+          "text": "潜在アビ"
+        },
+        {
+          "appUiId": "1604",
+          "uiKey": "SphereAbilitySelectMessage",
+          "text": "タップで選択できます"
+        },
+        {
+          "appUiId": "1605",
+          "uiKey": "SpherePanelReleaseFormat",
+          "text": "「%s」の解放"
+        },
+        {
+          "appUiId": "1606",
+          "uiKey": "SpherePanelReleaseDescFormat",
+          "text": "「%s」\r\n「%s」\r\nのどちらかが必要です"
+        },
+        {
+          "appUiId": "1607",
+          "uiKey": "ReleaseSphereNewSpecialPanel",
+          "text": "「%s」の解放が可能になりました\r\n「禁忌・解放」ボタンから解放できます"
+        },
+        {
+          "appUiId": "1608",
+          "uiKey": "SphereAbilitySetMessage",
+          "text": "アビリティを解放しました"
+        },
+        {
+          "appUiId": "1609",
+          "uiKey": "SphereReleaseErrorNormal",
+          "text": "盤面が解放されていません"
+        },
+        {
+          "appUiId": "1610",
+          "uiKey": "SphereReleaseErrorSpNormal",
+          "text": "盤面が解放されていません"
+        },
+        {
+          "appUiId": "1611",
+          "uiKey": "SphereReleaseErrorLast",
+          "text": "能力マスが全て解放されていません"
+        },
+        {
+          "appUiId": "1612",
+          "uiKey": "SphereReleaseErrorCustom",
+          "text": "解放マスが解放されていません"
+        },
+        {
+          "appUiId": "1613",
+          "uiKey": "PanelReleaseError",
+          "text": "前の盤面の解放マスが解放されていません"
+        },
+        {
+          "appUiId": "1614",
+          "uiKey": "CardDeleteReleasedSphereDesc",
+          "text": "潜在覚醒解放済みの忍が含まれています！\r\n\r\n本当によろしいですか？"
+        },
+        {
+          "appUiId": "1615",
+          "uiKey": "SphereAbilityConfirmText",
+          "text": "一度選択したアビリティは変更できません\r\nよろしいですか？"
+        },
+        {
+          "appUiId": "1616",
+          "uiKey": "SphereSellTitle",
+          "text": "至宝変換"
+        },
+        {
+          "appUiId": "1617",
+          "uiKey": "SphereSellInfo",
+          "text": "至宝変換する忍を選択して下さい"
+        },
+        {
+          "appUiId": "1618",
+          "uiKey": "GetMaterial",
+          "text": "獲得素材"
+        },
+        {
+          "appUiId": "1619",
+          "uiKey": "NotHaveSphereMaterial",
+          "text": "潜在覚醒素材を所持していません"
         }
       ]

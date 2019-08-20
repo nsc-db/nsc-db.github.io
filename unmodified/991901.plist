@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>991901</key>
+        <string>{"resData":{"991901":{"sphereBoardM":[{"sphereBoardId":"10010","boardName":"Temp_Ct40_\u5fc3\u5c5e\u6027_\u306e\u6f5c\u5728\u899a\u9192\u76e4","boardDescription":"\u3046\u305a\u307e\u304d\u30ca\u30eb\u30c8\u3010\u771f\u306a\u308b\u5171\u95d8\u306e\u8f1d\u304d\u3011","rare":"0","costMin":"0","costMax":"0","attribute":"0","cardId":"20050813","normalPanelList":"9000001,9000002,9000003","specialPanelList":"9000004,9000005,9000006"}]}}}</string>
+    </dict>
+</plist>

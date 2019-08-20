@@ -83329,6 +83329,131 @@
           "message": "忍の歴史じゃねェーんだよ！！"
         },
         {
+          "scriptMessageId": "29161",
+          "speechCharactorId": "505",
+          "message": "祝・４周年！！"
+        },
+        {
+          "scriptMessageId": "29162",
+          "speechCharactorId": "504",
+          "message": "ああ、ここまで来たな"
+        },
+        {
+          "scriptMessageId": "29163",
+          "speechCharactorId": "503",
+          "message": "皆のおかげだ！\r\nありがとうだってばよ！！"
+        },
+        {
+          "scriptMessageId": "29164",
+          "speechCharactorId": "504",
+          "message": "任務達成だ"
+        },
+        {
+          "scriptMessageId": "29165",
+          "speechCharactorId": "505",
+          "message": "お疲れ様！！"
+        },
+        {
+          "scriptMessageId": "29166",
+          "speechCharactorId": "503",
+          "message": "ここからが始まりだぜ！！"
+        },
+        {
+          "scriptMessageId": "29167",
+          "speechCharactorId": "505",
+          "message": "ここで半分よ！"
+        },
+        {
+          "scriptMessageId": "29168",
+          "speechCharactorId": "504",
+          "message": "気を抜くなよ"
+        },
+        {
+          "scriptMessageId": "29169",
+          "speechCharactorId": "503",
+          "message": "よし、それじゃ行こうぜ！"
+        },
+        {
+          "scriptMessageId": "29170",
+          "speechCharactorId": "504",
+          "message": "問題ないようだな"
+        },
+        {
+          "scriptMessageId": "29171",
+          "speechCharactorId": "505",
+          "message": "この程度、簡単よね"
+        },
+        {
+          "scriptMessageId": "29172",
+          "speechCharactorId": "503",
+          "message": "どんどん行こうぜ"
+        },
+        {
+          "scriptMessageId": "29173",
+          "speechCharactorId": "503",
+          "message": "よーし、これで最後だ！"
+        },
+        {
+          "scriptMessageId": "29174",
+          "speechCharactorId": "504",
+          "message": "よくここまで来たな"
+        },
+        {
+          "scriptMessageId": "29175",
+          "speechCharactorId": "505",
+          "message": "さ、やっちゃいましょ！"
+        },
+        {
+          "scriptMessageId": "29176",
+          "speechCharactorId": "504",
+          "message": "達成だ...良くやったな"
+        },
+        {
+          "scriptMessageId": "29177",
+          "speechCharactorId": "505",
+          "message": "皆、ありがとう！！"
+        },
+        {
+          "scriptMessageId": "29178",
+          "speechCharactorId": "503",
+          "message": "お祝いに一楽行こうぜ！"
+        },
+        {
+          "scriptMessageId": "29179",
+          "speechCharactorId": "765",
+          "message": "「潜在覚醒」修業へようこそ！\r\nボクと一緒に青春の汗を流して\r\n「鍛錬の証」をゲットしましょう！"
+        },
+        {
+          "scriptMessageId": "29180",
+          "speechCharactorId": "765",
+          "message": "「鍛錬の証」は潜在覚醒盤に使用することで\r\n秘められた潜在能力を解放することが出来る\r\nアイテムです！"
+        },
+        {
+          "scriptMessageId": "29181",
+          "speechCharactorId": "765",
+          "message": "証には「HPの証」「攻撃力の証」など種類があり\r\n対応した「マス」に使用することで\r\nパワーアップすることが可能です！"
+        },
+        {
+          "scriptMessageId": "29182",
+          "speechCharactorId": "765",
+          "message": "さあ、ボクと一緒に修業して\r\nどんどん強くなりましょう！"
+        },
+        {
+          "scriptMessageId": "29183",
+          "speechCharactorId": "766",
+          "message": "やってるな！リー！！"
+        },
+        {
+          "scriptMessageId": "29184",
+          "speechCharactorId": "765",
+          "message": "ガイ先生！"
+        },
+        {
+          "scriptMessageId": "29185",
+          "speechCharactorId": "766",
+          "message": "潜在覚醒をどれだけモノにできたか…\r\nオレが試してやろう！\r\nさぁかかってこい！！"
+        },
+        {
           "scriptMessageId": "40001",
           "speechCharactorId": "178",
           "message": "絶望しかないこの世界に\r\n存在する価値はない"
@@ -109602,6 +109727,1536 @@
           "scriptMessageId": "203439",
           "speechCharactorId": "27",
           "message": "当たりィィ！！"
+        },
+        {
+          "scriptMessageId": "203440",
+          "speechCharactorId": "685",
+          "message": "全員にとどめはさしてないわね\r\nまだまだ甘い"
+        },
+        {
+          "scriptMessageId": "203441",
+          "speechCharactorId": "45",
+          "message": "殺したい奴は他にいる"
+        },
+        {
+          "scriptMessageId": "203442",
+          "speechCharactorId": "685",
+          "message": "非情にならなければ\r\nイタチには勝てないわよ"
+        },
+        {
+          "scriptMessageId": "203443",
+          "speechCharactorId": "45",
+          "message": "あいつの前では非情になるさ\r\n嫌が応でもな"
+        },
+        {
+          "scriptMessageId": "203444",
+          "speechCharactorId": "685",
+          "message": "（この子を見てると…\r\n天才と呼ばれていた自分が\r\n惨めに思えてくるわね…）"
+        },
+        {
+          "scriptMessageId": "203445",
+          "speechCharactorId": "685",
+          "message": "（あと少し…\r\nほんの少しで私のもの…！）"
+        },
+        {
+          "scriptMessageId": "203446",
+          "speechCharactorId": "685",
+          "message": "ハァ…ハァ…"
+        },
+        {
+          "scriptMessageId": "203447",
+          "speechCharactorId": "610",
+          "message": "もう…限界ですね\r\nこれだと更に高いランクの薬を\r\n投与しないと体が…"
+        },
+        {
+          "scriptMessageId": "203448",
+          "speechCharactorId": "610",
+          "message": "薬を取り替えてきます\r\n少しお待ち下さい"
+        },
+        {
+          "scriptMessageId": "203449",
+          "speechCharactorId": "685",
+          "message": "クク……\r\nクハハハハハハアァ"
+        },
+        {
+          "scriptMessageId": "203450",
+          "speechCharactorId": "685",
+          "message": "ハハッ…\r\nゲホッ！ゲホッ！"
+        },
+        {
+          "scriptMessageId": "203451",
+          "speechCharactorId": "685",
+          "message": "…何！"
+        },
+        {
+          "scriptMessageId": "203452",
+          "speechCharactorId": "685",
+          "message": "（このチャクラ性質は…\r\nだがこんな形態変化は\r\n見た事が無い）\r\n誰なの？"
+        },
+        {
+          "scriptMessageId": "203453",
+          "speechCharactorId": "45",
+          "message": "自分の体を薬漬けにし\r\n体を乗り換えてまで"
+        },
+        {
+          "scriptMessageId": "203454",
+          "speechCharactorId": "45",
+          "message": "うちはの力にいやらしく\r\n近付こうとするアンタの行為は…"
+        },
+        {
+          "scriptMessageId": "203455",
+          "speechCharactorId": "45",
+          "message": "この名を持つオレからすれば\r\nあさましく滑稽だ"
+        },
+        {
+          "scriptMessageId": "203456",
+          "speechCharactorId": "45",
+          "message": "アンタの目的は何だ？"
+        },
+        {
+          "scriptMessageId": "203457",
+          "speechCharactorId": "45",
+          "message": "この世の道理を解き明かすだの\r\n何だのと、くだらない利己的な理由で\r\n他人を玩具の様に弄び続けてる"
+        },
+        {
+          "scriptMessageId": "203458",
+          "speechCharactorId": "759",
+          "message": "…どうして……\r\n…兄さんが…？"
+        },
+        {
+          "scriptMessageId": "203459",
+          "speechCharactorId": "684",
+          "message": "己の器を量る為だ"
+        },
+        {
+          "scriptMessageId": "203460",
+          "speechCharactorId": "759",
+          "message": "……器を量る……？\r\nそれだけの…為に…"
+        },
+        {
+          "scriptMessageId": "203461",
+          "speechCharactorId": "759",
+          "message": "皆を殺したって…いうのか…？"
+        },
+        {
+          "scriptMessageId": "203462",
+          "speechCharactorId": "684",
+          "message": "それが重要なのだ"
+        },
+        {
+          "scriptMessageId": "203463",
+          "speechCharactorId": "45",
+          "message": "反吐が出る"
+        },
+        {
+          "scriptMessageId": "203464",
+          "speechCharactorId": "45",
+          "message": "白いウロコの大蛇…\r\nそれがアンタの正体だったとはな…"
+        },
+        {
+          "scriptMessageId": "203465",
+          "speechCharactorId": "723",
+          "message": "さあ…サスケ君その体を…\r\n私にちょうだァァイ！！！\r\nシャ―――！"
+        },
+        {
+          "scriptMessageId": "203466",
+          "speechCharactorId": "639",
+          "message": "地を這いずる蛇が空を飛びたいと\r\n夢見たところでしょせん無理な話…"
+        },
+        {
+          "scriptMessageId": "203467",
+          "speechCharactorId": "639",
+          "message": "それでもどうにかしたいと\r\n巣の中のひよっこを狙ってたお前が\r\n…逆に狙われてたのさ"
+        },
+        {
+          "scriptMessageId": "203468",
+          "speechCharactorId": "639",
+          "message": "これから空高く飛び立つ\r\n…鷹の目にな"
+        },
+        {
+          "scriptMessageId": "203469",
+          "speechCharactorId": "723",
+          "message": "サスケェェ――――ッ！！"
+        },
+        {
+          "scriptMessageId": "203470",
+          "speechCharactorId": "45",
+          "message": "終わりか…\r\nあまりにもあっけない"
+        },
+        {
+          "scriptMessageId": "203471",
+          "speechCharactorId": "45",
+          "message": "…くっ…"
+        },
+        {
+          "scriptMessageId": "203472",
+          "speechCharactorId": "723",
+          "message": "そろそろ効いてきたみたいね\r\nこの大白蛇の体液は空気に触れると\r\n気化する痺れ毒なのよ…"
+        },
+        {
+          "scriptMessageId": "203473",
+          "speechCharactorId": "723",
+          "message": "私は不滅\r\nアナタごときの術では\r\nまだまだ殺せぬ…クク…"
+        },
+        {
+          "scriptMessageId": "203474",
+          "speechCharactorId": "723",
+          "message": "さぁ…いただくわァァ…"
+        },
+        {
+          "scriptMessageId": "203475",
+          "speechCharactorId": "45",
+          "message": "何だ…ここは…"
+        },
+        {
+          "scriptMessageId": "203476",
+          "speechCharactorId": "685",
+          "message": "ここは私の中にある異空間\r\nここで転生の儀式を行うのよ…"
+        },
+        {
+          "scriptMessageId": "203477",
+          "speechCharactorId": "45",
+          "message": "…フン"
+        },
+        {
+          "scriptMessageId": "203478",
+          "speechCharactorId": "685",
+          "message": "…！\r\n（これは…まるであの時の…）"
+        },
+        {
+          "scriptMessageId": "203479",
+          "speechCharactorId": "760",
+          "message": "まさか…この私が…\r\n金縛りの幻術に…"
+        },
+        {
+          "scriptMessageId": "203480",
+          "speechCharactorId": "760",
+          "message": "何という瞳力…\r\n素晴らしい…\r\nくっ…"
+        },
+        {
+          "scriptMessageId": "203481",
+          "speechCharactorId": "72",
+          "message": "大蛇丸…お前の如何なる術も\r\nこの眼の前では\r\n何の効力も持たない"
+        },
+        {
+          "scriptMessageId": "203482",
+          "speechCharactorId": "685",
+          "message": "クク…ククク…\r\nその眼…その眼が"
+        },
+        {
+          "scriptMessageId": "203483",
+          "speechCharactorId": "685",
+          "message": "ついに私のものにィィ…！！"
+        },
+        {
+          "scriptMessageId": "203484",
+          "speechCharactorId": "610",
+          "message": "薬じゃもうもたないな…\r\n明日か…早ければ今日にも\r\n転生の儀式を行なうしかないか…"
+        },
+        {
+          "scriptMessageId": "203485",
+          "speechCharactorId": "610",
+          "message": "しかし…あのサスケ君が\r\n素直にうんと言うとは思えない…"
+        },
+        {
+          "scriptMessageId": "203486",
+          "speechCharactorId": "610",
+          "message": "（まあサスケ君といえども\r\nあの儀式には逆らえまいが…）"
+        },
+        {
+          "scriptMessageId": "203487",
+          "speechCharactorId": "610",
+          "message": "…！…大蛇丸様の部屋が…！"
+        },
+        {
+          "scriptMessageId": "203488",
+          "speechCharactorId": "610",
+          "message": "（どうしてサスケ君がここに！？）"
+        },
+        {
+          "scriptMessageId": "203489",
+          "speechCharactorId": "610",
+          "message": "（あれは巨大蛇の脱皮…\r\nということはすでに\r\n儀式は終わったのか！？）"
+        },
+        {
+          "scriptMessageId": "203490",
+          "speechCharactorId": "45",
+          "message": "カブトか？"
+        },
+        {
+          "scriptMessageId": "203491",
+          "speechCharactorId": "610",
+          "message": "今の君は…\r\n一体どっちなんです？"
+        },
+        {
+          "scriptMessageId": "203492",
+          "speechCharactorId": "45",
+          "message": "………どっちだと思う？"
+        },
+        {
+          "scriptMessageId": "203493",
+          "speechCharactorId": "610",
+          "message": "大蛇丸様が死んだ…\r\n…いや…これではまるで…"
+        },
+        {
+          "scriptMessageId": "203494",
+          "speechCharactorId": "45",
+          "message": "オレが奴の全てを乗っ取ったのさ"
+        },
+        {
+          "scriptMessageId": "203495",
+          "speechCharactorId": "323",
+          "message": "こやつ…体細胞に繋がる経絡系の\r\n一つ一つが全て断ち切られている\r\nこんな状態は本来ならありえん"
+        },
+        {
+          "scriptMessageId": "203496",
+          "speechCharactorId": "695",
+          "message": "風遁・螺旋手裏剣…ここまでとは…"
+        },
+        {
+          "scriptMessageId": "203497",
+          "speechCharactorId": "713",
+          "message": "何て術だ…で…ナルトの方は？"
+        },
+        {
+          "scriptMessageId": "203498",
+          "speechCharactorId": "323",
+          "message": "問題はそっちだ"
+        },
+        {
+          "scriptMessageId": "203499",
+          "speechCharactorId": "323",
+          "message": "カカシ…その新術\r\n風遁・螺旋手裏剣は\r\n二度とナルトに使わせるな"
+        },
+        {
+          "scriptMessageId": "203500",
+          "speechCharactorId": "323",
+          "message": "これ以上その新術を使い続ければ \r\nナルトはチャクラが練れなくなるぞ"
+        },
+        {
+          "scriptMessageId": "203501",
+          "speechCharactorId": "323",
+          "message": "細胞から経絡系が剥がれたら\r\n私の医療忍術でも治せん \r\nナルトにも重々伝えておけ"
+        },
+        {
+          "scriptMessageId": "203502",
+          "speechCharactorId": "695",
+          "message": "……分かりました…"
+        },
+        {
+          "scriptMessageId": "203503",
+          "speechCharactorId": "27",
+          "message": "あちっ！！\r\nやっぱ左手じゃ\r\n食いづれーってばよ…"
+        },
+        {
+          "scriptMessageId": "203504",
+          "speechCharactorId": "524",
+          "message": "仕方ないわね\r\nハシ貸して"
+        },
+        {
+          "scriptMessageId": "203505",
+          "speechCharactorId": "27",
+          "message": "も…もしかしてサクラちゃん…\r\nオレにラーメンを…"
+        },
+        {
+          "scriptMessageId": "203506",
+          "speechCharactorId": "252",
+          "message": "ハイあ～～ん♪"
+        },
+        {
+          "scriptMessageId": "203507",
+          "speechCharactorId": "27",
+          "message": "熱っ！！！\r\n熱い上にそこは \r\nお前じゃねーだろがァ！！！"
+        },
+        {
+          "scriptMessageId": "203508",
+          "speechCharactorId": "383",
+          "message": "まーまー三人とも\r\nここは特別に\r\nオレが食べさしてあげるから"
+        },
+        {
+          "scriptMessageId": "203509",
+          "speechCharactorId": "27",
+          "message": "ちぇ！結局カカシ先生かよ！"
+        },
+        {
+          "scriptMessageId": "203510",
+          "speechCharactorId": "524",
+          "message": "病院で寝込まないなんて\r\n珍しいですね…カカシ先生"
+        },
+        {
+          "scriptMessageId": "203511",
+          "speechCharactorId": "695",
+          "message": "そんなイメージ付いちゃってるのね\r\n…今のオレ……\r\nま、今回は万華鏡写輪眼を\r\n使わずに済んだからな"
+        },
+        {
+          "scriptMessageId": "203512",
+          "speechCharactorId": "695",
+          "message": "ナルト、お前は確かに強くなった\r\nオレと肩を並べるかそれ以上だ…"
+        },
+        {
+          "scriptMessageId": "203513",
+          "speechCharactorId": "695",
+          "message": "だが大きな術であればあるほど\r\n術者にはそれ相応の \r\nリスクがある事も頭に入れておけ"
+        },
+        {
+          "scriptMessageId": "203514",
+          "speechCharactorId": "27",
+          "message": "うん…"
+        },
+        {
+          "scriptMessageId": "203515",
+          "speechCharactorId": "695",
+          "message": "ナルト…あの新術だが…"
+        },
+        {
+          "scriptMessageId": "203516",
+          "speechCharactorId": "27",
+          "message": "先生…"
+        },
+        {
+          "scriptMessageId": "203517",
+          "speechCharactorId": "27",
+          "message": "自分の体の事は\r\n自分が一番分かってる！\r\nオレってば火影になる男だぜ！！"
+        },
+        {
+          "scriptMessageId": "203518",
+          "speechCharactorId": "27",
+          "message": "オレはスゲー奴だから \r\n何にも問題ねーってばよ！！"
+        },
+        {
+          "scriptMessageId": "203519",
+          "speechCharactorId": "695",
+          "message": "……ナルト…"
+        },
+        {
+          "scriptMessageId": "203520",
+          "speechCharactorId": "727",
+          "message": "やっぱり君か…\r\nなら大蛇丸は倒したんだね"
+        },
+        {
+          "scriptMessageId": "203521",
+          "speechCharactorId": "45",
+          "message": "ああ…\r\nそんな事よりここから出してやる"
+        },
+        {
+          "scriptMessageId": "203522",
+          "speechCharactorId": "727",
+          "message": "やっと出られた…\r\nありがとうサスケ…"
+        },
+        {
+          "scriptMessageId": "203523",
+          "speechCharactorId": "45",
+          "message": "水月…まずはお前だ\r\n一緒に来い"
+        },
+        {
+          "scriptMessageId": "203524",
+          "speechCharactorId": "728",
+          "message": "まずはボクが…\r\nじゃあ他は？"
+        },
+        {
+          "scriptMessageId": "203525",
+          "speechCharactorId": "45",
+          "message": "…あと二人…北アジトの重吾と\r\n南アジトの香燐を連れていく"
+        },
+        {
+          "scriptMessageId": "203526",
+          "speechCharactorId": "728",
+          "message": "ホントにィ？"
+        },
+        {
+          "scriptMessageId": "203527",
+          "speechCharactorId": "45",
+          "message": "何だ？"
+        },
+        {
+          "scriptMessageId": "203528",
+          "speechCharactorId": "728",
+          "message": "いやね…好きじゃないから…\r\nあいつら仲良くは出来ないなぁ…と\r\nそうね…思ってね"
+        },
+        {
+          "scriptMessageId": "203529",
+          "speechCharactorId": "45",
+          "message": "特別仲良くする必要は無いが…\r\n協力はしろ"
+        },
+        {
+          "scriptMessageId": "203530",
+          "speechCharactorId": "728",
+          "message": "そりゃね…助けてもらったんだし\r\n君がそう言うなら協力するのは\r\nやぶさかじゃないけど……"
+        },
+        {
+          "scriptMessageId": "203531",
+          "speechCharactorId": "728",
+          "message": "あの二人を選ぶ君も\r\nどうかと思うよサスケ"
+        },
+        {
+          "scriptMessageId": "203532",
+          "speechCharactorId": "45",
+          "message": "ぐだぐだうるさい\r\n服を着ろ、行くぞ"
+        },
+        {
+          "scriptMessageId": "203533",
+          "speechCharactorId": "728",
+          "message": "ハハ…\r\n…エラく上からの物言いだよね…"
+        },
+        {
+          "scriptMessageId": "203534",
+          "speechCharactorId": "728",
+          "message": "君とボクとの関係を\r\nハッキリさせておこうか…ねぇ？"
+        },
+        {
+          "scriptMessageId": "203535",
+          "speechCharactorId": "728",
+          "message": "大蛇丸を倒したからって\r\n君が上ってわけじゃない…\r\nみんな狙ってた…"
+        },
+        {
+          "scriptMessageId": "203536",
+          "speechCharactorId": "728",
+          "message": "遅かれ早かれ\r\n誰かが殺る事になってたのさ…"
+        },
+        {
+          "scriptMessageId": "203537",
+          "speechCharactorId": "728",
+          "message": "どうしたのサスケ？"
+        },
+        {
+          "scriptMessageId": "203538",
+          "speechCharactorId": "45",
+          "message": "フン…"
+        },
+        {
+          "scriptMessageId": "203539",
+          "speechCharactorId": "728",
+          "message": "サスケ"
+        },
+        {
+          "scriptMessageId": "203540",
+          "speechCharactorId": "45",
+          "message": "…何でもない、行くぞ"
+        },
+        {
+          "scriptMessageId": "203541",
+          "speechCharactorId": "728",
+          "message": "こんな所にあったとはね…\r\n再不斬先輩これはボクがいただくよ"
+        },
+        {
+          "scriptMessageId": "203542",
+          "speechCharactorId": "728",
+          "message": "重い…これが血霧の里…\r\n鬼人・再不斬の首斬り包丁か"
+        },
+        {
+          "scriptMessageId": "203543",
+          "speechCharactorId": "45",
+          "message": "お前の力で扱えるのか？"
+        },
+        {
+          "scriptMessageId": "203544",
+          "speechCharactorId": "728",
+          "message": "“忍刀七人衆”の刀は代々\r\n受け継がれていくシステムだった"
+        },
+        {
+          "scriptMessageId": "203545",
+          "speechCharactorId": "728",
+          "message": "七人衆に憧れて\r\n修業を積んできたからね…\r\nボクはこの大剣があれば\r\n君にも負けない…かもね"
+        },
+        {
+          "scriptMessageId": "203546",
+          "speechCharactorId": "728",
+          "message": "それに重吾を仲間に加えるなら\r\nこの刀は役に立つと思うしね"
+        },
+        {
+          "scriptMessageId": "203547",
+          "speechCharactorId": "45",
+          "message": "フッ"
+        },
+        {
+          "scriptMessageId": "203548",
+          "speechCharactorId": "728",
+          "message": "…それじゃ近い方から \r\n行こうよサスケ"
+        },
+        {
+          "scriptMessageId": "203549",
+          "speechCharactorId": "728",
+          "message": "一つ聞いていいかな？\r\nどうして仲間を集めるの？"
+        },
+        {
+          "scriptMessageId": "203550",
+          "speechCharactorId": "45",
+          "message": "オレには目的がある…\r\nその目的に近付くには\r\n小隊の方が効率がいい"
+        },
+        {
+          "scriptMessageId": "203551",
+          "speechCharactorId": "728",
+          "message": "でも…何でボクが？"
+        },
+        {
+          "scriptMessageId": "203552",
+          "speechCharactorId": "45",
+          "message": "大蛇丸に近付いた時から\r\nこうなった時の事を考え、力のある\r\n忍を前もって選抜しておいた"
+        },
+        {
+          "scriptMessageId": "203553",
+          "speechCharactorId": "728",
+          "message": "ヘッ…けど…\r\nだったら香燐を選ぶ事は\r\n無いと思うけどね…あいつは\r\nボクと違って大蛇丸の部下だよ"
+        },
+        {
+          "scriptMessageId": "203554",
+          "speechCharactorId": "728",
+          "message": "あいつにはボクも何度か\r\n体をいじくられたし…\r\n第一、あの性格が好きになれない"
+        },
+        {
+          "scriptMessageId": "203555",
+          "speechCharactorId": "45",
+          "message": "確かに扱い易そうな強い忍は\r\n他にいくらでもいた"
+        },
+        {
+          "scriptMessageId": "203556",
+          "speechCharactorId": "45",
+          "message": "しかし奴は他に無い\r\n特別な能力を持ってる"
+        },
+        {
+          "scriptMessageId": "203557",
+          "speechCharactorId": "728",
+          "message": "まあ…それは認めるけどね"
+        },
+        {
+          "scriptMessageId": "203558",
+          "speechCharactorId": "727",
+          "message": "大蛇丸が死んだからって\r\n勝手されちゃ困るんだよォ！"
+        },
+        {
+          "scriptMessageId": "203559",
+          "speechCharactorId": "727",
+          "message": "…！\r\nこのチャクラの感じ…"
+        },
+        {
+          "scriptMessageId": "203560",
+          "speechCharactorId": "727",
+          "message": "ま…まさか"
+        },
+        {
+          "scriptMessageId": "203561",
+          "speechCharactorId": "761",
+          "message": "やっぱりお前らか…サスケ…\r\nアンタがここへ一人で来るって事は"
+        },
+        {
+          "scriptMessageId": "203562",
+          "speechCharactorId": "761",
+          "message": "大蛇丸が死んだという噂は\r\nやっぱり本当だったみたいだな"
+        },
+        {
+          "scriptMessageId": "203563",
+          "speechCharactorId": "728",
+          "message": "ひどいな…ボクもいるってのに"
+        },
+        {
+          "scriptMessageId": "203564",
+          "speechCharactorId": "761",
+          "message": "で…ここに何の用だ？"
+        },
+        {
+          "scriptMessageId": "203565",
+          "speechCharactorId": "728",
+          "message": "サスケが君に話があるんだってさ\r\n立ち話も何だから別部屋に\r\n案内してくれないかな"
+        },
+        {
+          "scriptMessageId": "203566",
+          "speechCharactorId": "761",
+          "message": "フン…"
+        },
+        {
+          "scriptMessageId": "203567",
+          "speechCharactorId": "45",
+          "message": "香燐、ついて来い\r\nお前が必要だ"
+        },
+        {
+          "scriptMessageId": "203568",
+          "speechCharactorId": "60",
+          "message": "はぁ！！？何でお前なんかに？\r\nウチはここを任されてんだよ！！"
+        },
+        {
+          "scriptMessageId": "203569",
+          "speechCharactorId": "45",
+          "message": "大蛇丸はもういない\r\n水月…このアジトに捕えられてる \r\n奴らを全員解放しろ"
+        },
+        {
+          "scriptMessageId": "203570",
+          "speechCharactorId": "728",
+          "message": "ハァ…\r\n相変わらず命令口調だな"
+        },
+        {
+          "scriptMessageId": "203571",
+          "speechCharactorId": "60",
+          "message": "勝手な事すんじゃねーよ！"
+        },
+        {
+          "scriptMessageId": "203572",
+          "speechCharactorId": "728",
+          "message": "じゃ、行ってくるよ"
+        },
+        {
+          "scriptMessageId": "203573",
+          "speechCharactorId": "60",
+          "message": "あ…おい…！"
+        },
+        {
+          "scriptMessageId": "203574",
+          "speechCharactorId": "45",
+          "message": "これで監視役も必要なくなるわけだ\r\nどうする？"
+        },
+        {
+          "scriptMessageId": "203575",
+          "speechCharactorId": "60",
+          "message": "お断りだね！大体アンタに\r\nついていく義理はないだろ！！"
+        },
+        {
+          "scriptMessageId": "203576",
+          "speechCharactorId": "45",
+          "message": "………仕方ない…\r\nお前がそこまで嫌がるのなら\r\n他を当たろう"
+        },
+        {
+          "scriptMessageId": "203577",
+          "speechCharactorId": "60",
+          "message": "行く…"
+        },
+        {
+          "scriptMessageId": "203578",
+          "speechCharactorId": "45",
+          "message": "何…？"
+        },
+        {
+          "scriptMessageId": "203579",
+          "speechCharactorId": "60",
+          "message": "サスケがぁ～どうしてもって\r\n言うならぁ…ついて行ってやるよぉ"
+        },
+        {
+          "scriptMessageId": "203580",
+          "speechCharactorId": "45",
+          "message": "どういう事だ？\r\n気の変わりが早いな"
+        },
+        {
+          "scriptMessageId": "203581",
+          "speechCharactorId": "60",
+          "message": "よく考えたらぁ見張りも\r\n飽きちゃってたところだしィー"
+        },
+        {
+          "scriptMessageId": "203582",
+          "speechCharactorId": "728",
+          "message": "中から鍵…あの女…"
+        },
+        {
+          "scriptMessageId": "203583",
+          "speechCharactorId": "60",
+          "message": "ねェ…どうせなら\r\nウチとサスケだけで\r\nいいんじゃない？\r\n水月なんか要らないだろ…アレ"
+        },
+        {
+          "scriptMessageId": "203584",
+          "speechCharactorId": "728",
+          "message": "さぁ行こうよサスケ\r\n香燐はダメだったようだしね"
+        },
+        {
+          "scriptMessageId": "203585",
+          "speechCharactorId": "45",
+          "message": "いや…\r\nどうやらついて来るようだ"
+        },
+        {
+          "scriptMessageId": "203586",
+          "speechCharactorId": "60",
+          "message": "だ…誰が行くっつった！ウチは\r\nたまっ…たまたま一緒に行方が同じ\r\nだった…行くだけなんだけで…！"
+        },
+        {
+          "scriptMessageId": "203587",
+          "speechCharactorId": "728",
+          "message": "へー、ならちょうどいいね\r\n途中まで一緒に行こうよ"
+        },
+        {
+          "scriptMessageId": "203588",
+          "speechCharactorId": "60",
+          "message": "ああっ途中までな！"
+        },
+        {
+          "scriptMessageId": "203589",
+          "speechCharactorId": "728",
+          "message": "さて…次は重吾だね"
+        },
+        {
+          "scriptMessageId": "203590",
+          "speechCharactorId": "60",
+          "message": "なにィ…重吾だと！\r\nあんな奴を仲間にすんのかァ！？"
+        },
+        {
+          "scriptMessageId": "203591",
+          "speechCharactorId": "728",
+          "message": "途中まで一緒なだけな\r\n君にはカンケーないでしょ"
+        },
+        {
+          "scriptMessageId": "203592",
+          "speechCharactorId": "60",
+          "message": "カ…カンケーないけど\r\nそれがどうした！やんのかコラ！"
+        },
+        {
+          "scriptMessageId": "203593",
+          "speechCharactorId": "45",
+          "message": "…行くぞ"
+        },
+        {
+          "scriptMessageId": "203594",
+          "speechCharactorId": "728",
+          "message": "また歩くのか…もうヘトヘトだよ…"
+        },
+        {
+          "scriptMessageId": "203595",
+          "speechCharactorId": "60",
+          "message": "ヘッ…これから北アジトに行くって\r\nいうのにそんなんじゃ\r\n着いた途端に殺されちまうぞ"
+        },
+        {
+          "scriptMessageId": "203596",
+          "speechCharactorId": "728",
+          "message": "ボクは地図でしか知らないけど…\r\nそんなにヤバイとこなんだ？"
+        },
+        {
+          "scriptMessageId": "203597",
+          "speechCharactorId": "60",
+          "message": "北アジトはただのアジトじゃない…"
+        },
+        {
+          "scriptMessageId": "203598",
+          "speechCharactorId": "60",
+          "message": "あそこは…人体実験場だ…！"
+        },
+        {
+          "scriptMessageId": "203599",
+          "speechCharactorId": "727",
+          "message": "男………いや…\r\nやっぱり女……"
+        },
+        {
+          "scriptMessageId": "203600",
+          "speechCharactorId": "727",
+          "message": "…次に殺すのは……\r\nやっぱり男だ…"
+        },
+        {
+          "scriptMessageId": "203601",
+          "speechCharactorId": "762",
+          "message": "ぐわああ！！"
+        },
+        {
+          "scriptMessageId": "203602",
+          "speechCharactorId": "727",
+          "message": "そうか…もう始めやがったか…"
+        },
+        {
+          "scriptMessageId": "203603",
+          "speechCharactorId": "60",
+          "message": "…アンタたちの目的は\r\n知らないけど…\r\n重吾の事を知ってて\r\n仲間にするって言ってんのか？"
+        },
+        {
+          "scriptMessageId": "203604",
+          "speechCharactorId": "728",
+          "message": "少しはね\r\n一度手合せさせられた事もあるよ"
+        },
+        {
+          "scriptMessageId": "203605",
+          "speechCharactorId": "728",
+          "message": "…何考えてるか分からない感じで \r\n好きにはなれなかったけどね"
+        },
+        {
+          "scriptMessageId": "203606",
+          "speechCharactorId": "728",
+          "message": "噂じゃ自分から大蛇丸に\r\n捕まりに来たらしいし…\r\n頭がどうかしてる"
+        },
+        {
+          "scriptMessageId": "203607",
+          "speechCharactorId": "60",
+          "message": "どうして自ら大蛇丸の所へ\r\n来たか分かるか？"
+        },
+        {
+          "scriptMessageId": "203608",
+          "speechCharactorId": "60",
+          "message": "更生するためだ"
+        },
+        {
+          "scriptMessageId": "203609",
+          "speechCharactorId": "728",
+          "message": "…重吾が何を更生したい？"
+        },
+        {
+          "scriptMessageId": "203610",
+          "speechCharactorId": "60",
+          "message": "自分だけではどうにも出来ない…\r\nその殺人衝動を抑えたかったのさ"
+        },
+        {
+          "scriptMessageId": "203611",
+          "speechCharactorId": "728",
+          "message": "………ヘッ…人殺しが大好きな\r\nイカレヤローってわけか…"
+        },
+        {
+          "scriptMessageId": "203612",
+          "speechCharactorId": "60",
+          "message": "イヤ…そうじゃない\r\nその異常な衝動は \r\n普段は抑え込んでる"
+        },
+        {
+          "scriptMessageId": "203613",
+          "speechCharactorId": "60",
+          "message": "けど、それが限界に来た時、奴は我を忘れ \r\n恐るべき殺人鬼へと \r\n性格も見た目も変貌する"
+        },
+        {
+          "scriptMessageId": "203614",
+          "speechCharactorId": "60",
+          "message": "大蛇丸にとって\r\nその重吾の能力は魅力的で…\r\n重吾の体液から他の忍にも同じ \r\n状態を引き起こす酵素を開発した"
+        },
+        {
+          "scriptMessageId": "203615",
+          "speechCharactorId": "60",
+          "message": "呪印だよ…！\r\n重吾はその唯一のオリジナルだ"
+        },
+        {
+          "scriptMessageId": "203616",
+          "speechCharactorId": "728",
+          "message": "………ヘェ…"
+        },
+        {
+          "scriptMessageId": "203617",
+          "speechCharactorId": "45",
+          "message": "北アジトはそこだ\r\nさっさと重吾に会いに行くぞ"
+        },
+        {
+          "scriptMessageId": "203618",
+          "speechCharactorId": "727",
+          "message": "よし決めた\r\n次にその扉から入ってきた奴が\r\n女だったら殺す事にしよう"
+        },
+        {
+          "scriptMessageId": "203619",
+          "speechCharactorId": "27",
+          "message": "サクラちゃん今日は休日だってばよ\r\nこんな朝早くから…何？"
+        },
+        {
+          "scriptMessageId": "203620",
+          "speechCharactorId": "524",
+          "message": "もうお昼だよ……まあいいや…\r\nすぐに顔洗って着がえてきて\r\n待ってるから"
+        },
+        {
+          "scriptMessageId": "203621",
+          "speechCharactorId": "27",
+          "message": "何？デート？"
+        },
+        {
+          "scriptMessageId": "203622",
+          "speechCharactorId": "524",
+          "message": "バカ！！綱手様が呼んでんのよ！！"
+        },
+        {
+          "scriptMessageId": "203623",
+          "speechCharactorId": "323",
+          "message": "大蛇丸が死んだ…どうやら\r\nうちはサスケがやったらしい"
+        },
+        {
+          "scriptMessageId": "203624",
+          "speechCharactorId": "27",
+          "message": "そ…それって…ホントか…！？"
+        },
+        {
+          "scriptMessageId": "203625",
+          "speechCharactorId": "687",
+          "message": "まず間違いない…\r\n確かな情報スジから\r\n聞いたからのォ…"
+        },
+        {
+          "scriptMessageId": "203626",
+          "speechCharactorId": "27",
+          "message": "へへ～ん！\r\nあいつが大蛇丸なんかに\r\nやられるハズがねーってばよ！"
+        },
+        {
+          "scriptMessageId": "203627",
+          "speechCharactorId": "27",
+          "message": "んじゃサスケの奴木ノ葉に\r\n帰ってくんだよなァ！なぁ！？"
+        },
+        {
+          "scriptMessageId": "203628",
+          "speechCharactorId": "687",
+          "message": "…どうやらそうではないらしい…"
+        },
+        {
+          "scriptMessageId": "203629",
+          "speechCharactorId": "27",
+          "message": "どういう事だってばよ！？\r\nなんで！？"
+        },
+        {
+          "scriptMessageId": "203630",
+          "speechCharactorId": "728",
+          "message": "あれじゃどれが重吾か\r\n分かんないね…サスケ"
+        },
+        {
+          "scriptMessageId": "203631",
+          "speechCharactorId": "45",
+          "message": "香燐\r\nあいつらの中に重吾はいるか？"
+        },
+        {
+          "scriptMessageId": "203632",
+          "speechCharactorId": "60",
+          "message": "ったくうるさいな…少し待ってろ！\r\nフン…いないな…"
+        },
+        {
+          "scriptMessageId": "203633",
+          "speechCharactorId": "728",
+          "message": "ならお構いなしって\r\nやつでオーケーだね"
+        },
+        {
+          "scriptMessageId": "203634",
+          "speechCharactorId": "45",
+          "message": "急所ははずしておけ"
+        },
+        {
+          "scriptMessageId": "203635",
+          "speechCharactorId": "45",
+          "message": "香燐どっちだ\r\n案内しろ"
+        },
+        {
+          "scriptMessageId": "203636",
+          "speechCharactorId": "60",
+          "message": "………\r\nあっちだ"
+        },
+        {
+          "scriptMessageId": "203637",
+          "speechCharactorId": "728",
+          "message": "フゥ…先に行くよ"
+        },
+        {
+          "scriptMessageId": "203638",
+          "speechCharactorId": "60",
+          "message": "ホントはこっちだ\r\nさぁ行くぞサスケ！"
+        },
+        {
+          "scriptMessageId": "203639",
+          "speechCharactorId": "45",
+          "message": "何故嘘をつく\r\n水月は逆方向に……"
+        },
+        {
+          "scriptMessageId": "203640",
+          "speechCharactorId": "60",
+          "message": "うるさいから水月は嫌いだ！\r\n行くぞ！"
+        },
+        {
+          "scriptMessageId": "203641",
+          "speechCharactorId": "45",
+          "message": "放せ…自分で歩く"
+        },
+        {
+          "scriptMessageId": "203642",
+          "speechCharactorId": "45",
+          "message": "ここか"
+        },
+        {
+          "scriptMessageId": "203643",
+          "speechCharactorId": "60",
+          "message": "ああ、重吾はこの中に居る"
+        },
+        {
+          "scriptMessageId": "203644",
+          "speechCharactorId": "45",
+          "message": "オレが先に入る…\r\n香燐お前は下がってろ"
+        },
+        {
+          "scriptMessageId": "203645",
+          "speechCharactorId": "534",
+          "message": "いや…やっぱり男だ…\r\n男が入ってきたら殺そう"
+        },
+        {
+          "scriptMessageId": "203646",
+          "speechCharactorId": "45",
+          "message": "止めろ水月\r\n争いに来たんじゃない\r\nオレが話す"
+        },
+        {
+          "scriptMessageId": "203647",
+          "speechCharactorId": "728",
+          "message": "話して言葉が通じるような奴じゃ\r\nないよ…力ずくで連れてくまで…"
+        },
+        {
+          "scriptMessageId": "203648",
+          "speechCharactorId": "534",
+          "message": "そうか！てめーは水月\r\n思い出したぜ"
+        },
+        {
+          "scriptMessageId": "203649",
+          "speechCharactorId": "728",
+          "message": "ハァーーー！！"
+        },
+        {
+          "scriptMessageId": "203650",
+          "speechCharactorId": "45",
+          "message": "二人とも止めろ！"
+        },
+        {
+          "scriptMessageId": "203651",
+          "speechCharactorId": "60",
+          "message": "いいぞ！共倒れしちまえ！！"
+        },
+        {
+          "scriptMessageId": "203652",
+          "speechCharactorId": "534",
+          "message": "オラァーッ！！"
+        },
+        {
+          "scriptMessageId": "203653",
+          "speechCharactorId": "45",
+          "message": "お前ら…オレに殺されたいのか？"
+        },
+        {
+          "scriptMessageId": "203654",
+          "speechCharactorId": "728",
+          "message": "今の…本気の\r\n殺意だったじゃないか…"
+        },
+        {
+          "scriptMessageId": "203655",
+          "speechCharactorId": "60",
+          "message": "た…たまんない…\r\nサスケェ…"
+        },
+        {
+          "scriptMessageId": "203656",
+          "speechCharactorId": "534",
+          "message": "ああ…あああああっ！！"
+        },
+        {
+          "scriptMessageId": "203657",
+          "speechCharactorId": "534",
+          "message": "は…早く鍵をかけてよォ！！"
+        },
+        {
+          "scriptMessageId": "203658",
+          "speechCharactorId": "45",
+          "message": "重吾…オレはお前を連れ出しに\r\n来ただけだ…オレと共に来い"
+        },
+        {
+          "scriptMessageId": "203659",
+          "speechCharactorId": "534",
+          "message": "オレはまたいつ人を\r\n殺したくなるか分からない\r\nいいから早く鍵をかけてくれよ！"
+        },
+        {
+          "scriptMessageId": "203660",
+          "speechCharactorId": "45",
+          "message": "大蛇丸は死んだ\r\nこのアジトも崩壊した\r\nここにいたらお前も終わりだ"
+        },
+        {
+          "scriptMessageId": "203661",
+          "speechCharactorId": "45",
+          "message": "…安心しろ…\r\nオレがお前の檻になってやる\r\nオレがお前を止めてやる"
+        },
+        {
+          "scriptMessageId": "203662",
+          "speechCharactorId": "534",
+          "message": "お前に何が出来る\r\nオレのこの衝動を止められるのは\r\n君麻呂だけだ\r\n君麻呂がいないなら外へは出ない！"
+        },
+        {
+          "scriptMessageId": "203663",
+          "speechCharactorId": "728",
+          "message": "君麻呂って確かかぐや一族の…"
+        },
+        {
+          "scriptMessageId": "203664",
+          "speechCharactorId": "60",
+          "message": "ああ…重吾と君麻呂は\r\n特に大蛇丸のお気に入りで"
+        },
+        {
+          "scriptMessageId": "203665",
+          "speechCharactorId": "60",
+          "message": "人体実験としてこのアジトで\r\nずっと一緒にされていたからな……"
+        },
+        {
+          "scriptMessageId": "203666",
+          "speechCharactorId": "60",
+          "message": "この組織の中で唯一気を許した\r\n相手だったんだろう\r\nそれに君麻呂は強かった…"
+        },
+        {
+          "scriptMessageId": "203667",
+          "speechCharactorId": "45",
+          "message": "重吾…君麻呂はオレの為に死んだ\r\nもういない"
+        },
+        {
+          "scriptMessageId": "203668",
+          "speechCharactorId": "534",
+          "message": "お前の為に死んだ…！？\r\nじゃあお前が…\r\n…うちは…サスケか…？"
+        },
+        {
+          "scriptMessageId": "203669",
+          "speechCharactorId": "45",
+          "message": "そうだ…"
+        },
+        {
+          "scriptMessageId": "203670",
+          "speechCharactorId": "534",
+          "message": "そういうことか…君麻呂"
+        },
+        {
+          "scriptMessageId": "203671",
+          "speechCharactorId": "45",
+          "message": "これでオレの思い描く小隊の\r\nメンバーはそろった\r\nこれからオレの目的を言う"
+        },
+        {
+          "scriptMessageId": "203672",
+          "speechCharactorId": "45",
+          "message": "オレの目的は“暁”の\r\nうちはイタチを殺す事だ\r\nそこでお前たちの力を借りたい"
+        },
+        {
+          "scriptMessageId": "203673",
+          "speechCharactorId": "728",
+          "message": "やっぱりね…"
+        },
+        {
+          "scriptMessageId": "203674",
+          "speechCharactorId": "45",
+          "message": "ただ香燐…\r\nお前は用があると言っていたな…\r\nどうする？"
+        },
+        {
+          "scriptMessageId": "203675",
+          "speechCharactorId": "60",
+          "message": "そ…そうだなよく考えたら\r\n別にあまり急ぐ用でも…"
+        },
+        {
+          "scriptMessageId": "203676",
+          "speechCharactorId": "728",
+          "message": "君は素直になったらどうなんだ\r\nホントはサスケとずっと一緒に \r\nいたいだけなんじゃないのか？"
+        },
+        {
+          "scriptMessageId": "203677",
+          "speechCharactorId": "60",
+          "message": "そ…そんなわけあるかァ！！！\r\nだ…誰がそんな事あるのか\r\n言った事それェ…えっと！！"
+        },
+        {
+          "scriptMessageId": "203678",
+          "speechCharactorId": "728",
+          "message": "ホラ図星だ\r\nだからろれつが回らなくなる\r\nバレバレ"
+        },
+        {
+          "scriptMessageId": "203679",
+          "speechCharactorId": "728",
+          "message": "ホントは知ってんだよ…\r\n昔、君はサスケに…"
+        },
+        {
+          "scriptMessageId": "203680",
+          "speechCharactorId": "45",
+          "message": "水月、香燐をあおるのはよせ…\r\n初めに協力はしろと言ったはずだ"
+        },
+        {
+          "scriptMessageId": "203681",
+          "speechCharactorId": "728",
+          "message": "分かったよ…悪かったね香燐\r\n…けどね…悪いけどボクは\r\nサスケにベッタリくっついていくよ"
+        },
+        {
+          "scriptMessageId": "203682",
+          "speechCharactorId": "728",
+          "message": "霧隠れ七刀のうちの一振り\r\nうちはイタチと組んでる干柿鬼鮫の\r\n大刀“鮫肌”をこの手にするまではね"
+        },
+        {
+          "scriptMessageId": "203683",
+          "speechCharactorId": "728",
+          "message": "重吾…\r\n君は外に出てきたけどどうする？"
+        },
+        {
+          "scriptMessageId": "203684",
+          "speechCharactorId": "534",
+          "message": "君麻呂はサスケを自分の\r\n生まれ変わりの様な存在だと言い\r\n命を懸けて守った…"
+        },
+        {
+          "scriptMessageId": "203685",
+          "speechCharactorId": "534",
+          "message": "お前がどれほどの忍か見届けてやる"
+        },
+        {
+          "scriptMessageId": "203686",
+          "speechCharactorId": "45",
+          "message": "決まりだな"
+        },
+        {
+          "scriptMessageId": "203687",
+          "speechCharactorId": "45",
+          "message": "今後オレたちは四人で動く\r\nそしてこれより我ら小隊は\r\n“蛇”と名乗る"
+        },
+        {
+          "scriptMessageId": "203688",
+          "speechCharactorId": "45",
+          "message": "もちろん“蛇”の目的はただ一つ…"
+        },
+        {
+          "scriptMessageId": "203689",
+          "speechCharactorId": "45",
+          "message": "うちはイタチだ"
+        },
+        {
+          "scriptMessageId": "203690",
+          "speechCharactorId": "27",
+          "message": "なんで、もう大蛇丸はいねーのに\r\nアイツは里に帰って来ねーんだ？"
+        },
+        {
+          "scriptMessageId": "203691",
+          "speechCharactorId": "687",
+          "message": "サスケの奴は復讐に取り憑かれとる\r\nサスケは兄であるうちはイタチを\r\n殺す為に“暁”に近づく気だのォ"
+        },
+        {
+          "scriptMessageId": "203692",
+          "speechCharactorId": "27",
+          "message": "…あのヤロー！まだ…\r\nくそっ！"
+        },
+        {
+          "scriptMessageId": "203693",
+          "speechCharactorId": "27",
+          "message": "ならサスケに会うために\r\nもっとも確率の高い\r\n“暁”のメンバーを探すってばよ！"
+        },
+        {
+          "scriptMessageId": "203694",
+          "speechCharactorId": "27",
+          "message": "次回…師の予言と復讐の章・中篇"
+        },
+        {
+          "scriptMessageId": "203695",
+          "speechCharactorId": "27",
+          "message": "つまりオレたちが狙うのは…"
+        },
+        {
+          "scriptMessageId": "203696",
+          "speechCharactorId": "27",
+          "message": "うちはイタチだ"
+        },
+        {
+          "scriptMessageId": "203697",
+          "speechCharactorId": "45",
+          "message": "もうアンタに教わる事は何も無い\r\n…アンタの前でも…\r\n非情になれそうだ"
+        },
+        {
+          "scriptMessageId": "203698",
+          "speechCharactorId": "45",
+          "message": "大蛇丸\r\nアンタはオレより弱い"
+        },
+        {
+          "scriptMessageId": "203699",
+          "speechCharactorId": "45",
+          "message": "…もうアンタにオレの体を\r\nくれてやる必要も無くなったわけだ"
+        },
+        {
+          "scriptMessageId": "203700",
+          "speechCharactorId": "685",
+          "message": "言うわね…うちはのひよっこが"
+        },
+        {
+          "scriptMessageId": "203701",
+          "speechCharactorId": "45",
+          "message": "イタチが無理だった…"
+        },
+        {
+          "scriptMessageId": "203702",
+          "speechCharactorId": "45",
+          "message": "だからひよっこのオレを\r\n狙ってたんだろ？"
+        },
+        {
+          "scriptMessageId": "203703",
+          "speechCharactorId": "45",
+          "message": "“三忍”と謳われた天才さんよ\r\nだがアンタは世間で言う\r\nただの天才でしか無かった…"
+        },
+        {
+          "scriptMessageId": "203704",
+          "speechCharactorId": "45",
+          "message": "うちはの名を越えるどころか\r\n届きもしない"
+        },
+        {
+          "scriptMessageId": "203705",
+          "speechCharactorId": "45",
+          "message": "どんな天才もうちはの名の前では\r\n凡人に成り下がるのさ"
+        },
+        {
+          "scriptMessageId": "203706",
+          "speechCharactorId": "610",
+          "message": "（これは転生の儀式…\r\n転生の儀式の記憶を\r\n見せられているんだ…！）"
+        },
+        {
+          "scriptMessageId": "203707",
+          "speechCharactorId": "685",
+          "message": "これは…バ…バカな…\r\nここは私の作り出した\r\n異空間よ！ありえない！"
+        },
+        {
+          "scriptMessageId": "203708",
+          "speechCharactorId": "685",
+          "message": "ありえない！\r\nありえないわ！\r\nここは私だけの…"
+        },
+        {
+          "scriptMessageId": "203709",
+          "speechCharactorId": "45",
+          "message": "大蛇丸…お前の如何なる術も\r\nこの眼の前では…\r\n分かってるハズだろ…"
+        },
+        {
+          "scriptMessageId": "203710",
+          "speechCharactorId": "610",
+          "message": "な…何ておぞましい…サスケ君の\r\n意思が…空間を侵食していく…"
+        },
+        {
+          "scriptMessageId": "203711",
+          "speechCharactorId": "685",
+          "message": "ぐっ……もう……\r\nこんな…"
+        },
+        {
+          "scriptMessageId": "203712",
+          "speechCharactorId": "685",
+          "message": "こんな……\r\nこんな事があってたまるかァ！！\r\n私は不死の大蛇丸だぞ！"
+        },
+        {
+          "scriptMessageId": "203713",
+          "speechCharactorId": "685",
+          "message": "こんなところでこの私がァ！\r\n私は…この世を解き明かす者…！\r\n…全てを…手にする者な…"
+        },
+        {
+          "scriptMessageId": "203714",
+          "speechCharactorId": "728",
+          "message": "君はお気に入りで\r\n監禁される事も無く\r\n大蛇丸の側にいた"
+        },
+        {
+          "scriptMessageId": "203715",
+          "speechCharactorId": "728",
+          "message": "殺れるチャンスがみんなよりも\r\n多かっただけだからね"
+        },
+        {
+          "scriptMessageId": "203716",
+          "speechCharactorId": "45",
+          "message": "…だからどうした"
+        },
+        {
+          "scriptMessageId": "203717",
+          "speechCharactorId": "728",
+          "message": "この状況…ボクが有利だ"
+        },
+        {
+          "scriptMessageId": "203718",
+          "speechCharactorId": "45",
+          "message": "………"
+        },
+        {
+          "scriptMessageId": "203719",
+          "speechCharactorId": "728",
+          "message": "なんてね…冗談"
+        },
+        {
+          "scriptMessageId": "203720",
+          "speechCharactorId": "728",
+          "message": "この状況で心拍一つ乱れない…"
+        },
+        {
+          "scriptMessageId": "203721",
+          "speechCharactorId": "728",
+          "message": "やっぱりマグレじゃなさそうだね…\r\n…安心したよ\r\n君が強いのは昔から\r\n噂で聞いてたしね"
+        },
+        {
+          "scriptMessageId": "203722",
+          "speechCharactorId": "728",
+          "message": "ボクの大先輩\r\n桃地再不斬を倒したのも\r\n君のいた小隊だったんだろ？"
+        },
+        {
+          "scriptMessageId": "203723",
+          "speechCharactorId": "728",
+          "message": "ついてくよ"
+        },
+        {
+          "scriptMessageId": "203724",
+          "speechCharactorId": "728",
+          "message": "ただし二人を連れに行く前に \r\n少し寄り道して欲しい所が\r\nあるんだけどいいかな？"
+        },
+        {
+          "scriptMessageId": "203725",
+          "speechCharactorId": "728",
+          "message": "ねぇ…少し休まない？"
+        },
+        {
+          "scriptMessageId": "203726",
+          "speechCharactorId": "60",
+          "message": "水月てめー！\r\n休んでばっかじゃねーか\r\nもうアジトだぞ！"
+        },
+        {
+          "scriptMessageId": "203727",
+          "speechCharactorId": "60",
+          "message": "その刀か？その刀が重いのか！\r\nソレ置いてけコラァ！！"
+        },
+        {
+          "scriptMessageId": "203728",
+          "speechCharactorId": "45",
+          "message": "おい…揉め事はよせ"
+        },
+        {
+          "scriptMessageId": "203729",
+          "speechCharactorId": "60",
+          "message": "水月…そもそも何でアンタが\r\nサスケに付いて来る？"
+        },
+        {
+          "scriptMessageId": "203730",
+          "speechCharactorId": "728",
+          "message": "ボクにはボクの目的がある\r\nサスケといるとそれが叶うからさ…"
+        },
+        {
+          "scriptMessageId": "203731",
+          "speechCharactorId": "728",
+          "message": "て言うかそりゃ \r\nこっちのセリフだよね…ホント"
+        },
+        {
+          "scriptMessageId": "203732",
+          "speechCharactorId": "60",
+          "message": "ウ、ウチも北アジトに\r\n用があるんだよ！"
+        },
+        {
+          "scriptMessageId": "203733",
+          "speechCharactorId": "45",
+          "message": "水月…香燐\r\n仲良くしろとは言わないが\r\nくだらないことで揉めるな"
+        },
+        {
+          "scriptMessageId": "203734",
+          "speechCharactorId": "728",
+          "message": "…分かったよ…"
+        },
+        {
+          "scriptMessageId": "203735",
+          "speechCharactorId": "534",
+          "message": "ビンゴ！殺す！！"
+        },
+        {
+          "scriptMessageId": "203736",
+          "speechCharactorId": "60",
+          "message": "来た！"
+        },
+        {
+          "scriptMessageId": "203737",
+          "speechCharactorId": "60",
+          "message": "サスケェ！！"
+        },
+        {
+          "scriptMessageId": "203738",
+          "speechCharactorId": "534",
+          "message": "げははははァ！！\r\nまだまだァ！！"
+        },
+        {
+          "scriptMessageId": "203739",
+          "speechCharactorId": "60",
+          "message": "サスケのチャクラが…！\r\n変化した…！"
+        },
+        {
+          "scriptMessageId": "203740",
+          "speechCharactorId": "534",
+          "message": "またオレのコピーヤローかァ！？"
+        },
+        {
+          "scriptMessageId": "203741",
+          "speechCharactorId": "534",
+          "message": "しかし“部分変化”が出来るとは\r\n大したヤローだぜ！\r\n呪印を扱うのがうめーな！"
+        },
+        {
+          "scriptMessageId": "203742",
+          "speechCharactorId": "45",
+          "message": "争う気はない\r\nお前に話があるだけだ重吾"
+        },
+        {
+          "scriptMessageId": "203743",
+          "speechCharactorId": "534",
+          "message": "こいつは強ぇ！！君麻呂以来の\r\nコピーヤローだぜェ！！"
+        },
+        {
+          "scriptMessageId": "203744",
+          "speechCharactorId": "534",
+          "message": "何だァァ！？"
+        },
+        {
+          "scriptMessageId": "203745",
+          "speechCharactorId": "728",
+          "message": "サスケこいつはボクに任せてよ\r\nそれと香燐、後で覚えてなよ…"
         },
         {
           "scriptMessageId": "300200",

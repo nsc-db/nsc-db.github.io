@@ -12063,6 +12063,19 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "944",
+          "name": "真なる共闘の輝き",
+          "description": "五大隠れ里所属の最大チャクラ量60アップ",
+          "effectIdx1": "2441",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "945",
           "name": "痛欲の狂刃",
           "description": "“暁”所属または体属性の最大HPを80%アップする",
@@ -12111,6 +12124,32 @@
           "compType": "1",
           "target1Category": "1",
           "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "950",
+          "name": "七刀を継ぐ才童",
+          "description": "心属性のスキルダメージを100%アップ、五大隠れ里所属のスキルダメージを60%アップ",
+          "effectIdx1": "1352",
+          "effectIdx2": "2458",
+          "effectIdx3": "0",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "951",
+          "name": "飄然たる岩娘",
+          "description": "体属性の最大HPを100%アップ、五大隠れ里所属の素早さを60%アップ",
+          "effectIdx1": "2456",
+          "effectIdx2": "2457",
+          "effectIdx3": "0",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
           "target2Category": "0",
           "target2Param": "0"
         },

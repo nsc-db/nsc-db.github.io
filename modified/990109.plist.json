@@ -20330,6 +20330,24 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2313",
+          "abilityName": "尾獣の名を知る者",
+          "abilityDescription": "死亡時、味方全体に短い間、閃光ﾓｰﾄﾞ付与【特殊状態：閃光ﾓｰﾄﾞ】素早さ100%ｱｯﾌﾟ、ｽｷﾙ発動速度を閃光化し維持",
+          "abilityEffectDescription": "死亡時、味方全体に短い間、閃光ﾓｰﾄﾞ付与【特殊状態：閃光ﾓｰﾄﾞ】素早さ100%ｱｯﾌﾟ、ｽｷﾙ発動速度を閃光化し維持",
+          "effectIdx1": "2442",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2314",
+          "abilityName": "超速の瞬身",
+          "abilityDescription": "2回行動まで素早さ100%アップ、敵に滅キャラか創キャラがいるとさらに素早さ100%アップ",
+          "abilityEffectDescription": "2回行動まで素早さ100%アップ、敵に滅キャラか創キャラがいるとさらに素早さ100%アップ",
+          "effectIdx1": "1692",
+          "effectIdx2": "2443",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "2315",
           "abilityName": "痛みへの渇望",
           "abilityDescription": "HP50％以下で素早さ200%ｱｯﾌﾟ、HP30％以下でｽｷﾙ発動速度1段階ｱｯﾌﾟ、敵に心属性が生存で素早さ100％ｱｯﾌﾟ",
@@ -20399,6 +20417,42 @@
           "abilityEffectDescription": "最大チャクラ量が200アップし、バトル開始時に敵全体を短い間「強化系神化・特殊状態不可」にする",
           "effectIdx1": "20019",
           "effectIdx2": "2451",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2325",
+          "abilityName": "水影への憧れ",
+          "abilityDescription": "味方の五大隠れ里所属のキャラ1体につき攻撃力が40%アップ、5回行動以降スキル発動速度1段階アップ",
+          "abilityEffectDescription": "味方の五大隠れ里所属のキャラ1体につき攻撃力が40%アップ、5回行動以降スキル発動速度1段階アップ",
+          "effectIdx1": "2459",
+          "effectIdx2": "2462",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2326",
+          "abilityName": "斬るほどに湧く自信",
+          "abilityDescription": "行動ごとに攻撃力が50％アップする（最大100回まで）",
+          "abilityEffectDescription": "行動ごとに攻撃力が50％アップする（最大100回まで）",
+          "effectIdx1": "2461",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2327",
+          "abilityName": "岩隠れのおてんば娘",
+          "abilityDescription": "味方の五大隠れ里所属のキャラ1体につき素早さが40%アップ、HP0以下で1回まで耐える",
+          "abilityEffectDescription": "味方の五大隠れ里所属のキャラ1体につき素早さが40%アップ、HP0以下で1回まで耐える",
+          "effectIdx1": "2460",
+          "effectIdx2": "312",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2328",
+          "abilityName": "祖父譲りのしたたかさ",
+          "abilityDescription": "最大HPとスキルダメージが120%アップする",
+          "abilityEffectDescription": "最大HPとスキルダメージが120%アップする",
+          "effectIdx1": "1221",
+          "effectIdx2": "30011",
           "effectIdx3": "0"
         },
         {
@@ -21311,6 +21365,15 @@
           "effectIdx3": "1914"
         },
         {
+          "abilityId": "100057",
+          "abilityName": "憎しみからの解放",
+          "abilityDescription": "キャンセル無効、素早さ50%アップ、チャクラMAX時にスキルダメージ500%アップ",
+          "abilityEffectDescription": "キャンセル無効、素早さ50%アップ、チャクラMAX時にスキルダメージ500%アップ",
+          "effectIdx1": "1751",
+          "effectIdx2": "112",
+          "effectIdx3": "2467"
+        },
+        {
           "abilityId": "200001",
           "abilityName": "心属性特化",
           "abilityDescription": "心属性へのスキル攻撃時に相手の耐性を弱点とする。心属性からのダメージを50%カット",
@@ -21406,6 +21469,222 @@
           "abilityDescription": "神忍ボス用　全スキルダメージ50%カット",
           "abilityEffectDescription": "神忍ボス用　全スキルダメージ50%カット",
           "effectIdx1": "220050",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "300001",
+          "abilityName": "最大HPアップ系アビ",
+          "abilityDescription": "最大HP2000アップ",
+          "abilityEffectDescription": "最大HP2000アップ",
+          "effectIdx1": "10519",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "300002",
+          "abilityName": "最大HPアップ系アビ",
+          "abilityDescription": "最大HP5300アップ",
+          "abilityEffectDescription": "最大HP5300アップ",
+          "effectIdx1": "10614",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "300003",
+          "abilityName": "最大HPアップ系アビ",
+          "abilityDescription": "最大HP6300アップ",
+          "abilityEffectDescription": "最大HP6300アップ",
+          "effectIdx1": "10624",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "301001",
+          "abilityName": "攻撃力アップ系アビ",
+          "abilityDescription": "攻撃力1500アップ",
+          "abilityEffectDescription": "攻撃力1500アップ",
+          "effectIdx1": "11514",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "301002",
+          "abilityName": "攻撃力アップ系アビ",
+          "abilityDescription": "攻撃力4800アップ",
+          "abilityEffectDescription": "攻撃力4800アップ",
+          "effectIdx1": "11547",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "301003",
+          "abilityName": "攻撃力アップ系アビ",
+          "abilityDescription": "攻撃力6000アップ",
+          "abilityEffectDescription": "攻撃力6000アップ",
+          "effectIdx1": "11561",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "302001",
+          "abilityName": "防御力アップ系アビ",
+          "abilityDescription": "防御力1000アップ",
+          "abilityEffectDescription": "防御力1000アップ",
+          "effectIdx1": "12509",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "302002",
+          "abilityName": "防御力アップ系アビ",
+          "abilityDescription": "防御力2700アップ",
+          "abilityEffectDescription": "防御力2700アップ",
+          "effectIdx1": "12526",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "302003",
+          "abilityName": "防御力アップ系アビ",
+          "abilityDescription": "防御力3300アップ",
+          "abilityEffectDescription": "防御力3300アップ",
+          "effectIdx1": "12532",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "303001",
+          "abilityName": "素早さアップ系アビ",
+          "abilityDescription": "素早さ3アップ",
+          "abilityEffectDescription": "素早さ3アップ",
+          "effectIdx1": "13502",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "303002",
+          "abilityName": "素早さアップ系アビ",
+          "abilityDescription": "素早さ40%アップ",
+          "abilityEffectDescription": "素早さ40%アップ",
+          "effectIdx1": "13039",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "304001",
+          "abilityName": "回避率アップ系アビ",
+          "abilityDescription": "回避率1%アップ",
+          "abilityEffectDescription": "回避率1%アップ",
+          "effectIdx1": "400001",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "305001",
+          "abilityName": "会心率アップ系アビ",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "0",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "306001",
+          "abilityName": "会心力アップ系アビ",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "0",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "307001",
+          "abilityName": "スキダメアップ系アビ",
+          "abilityDescription": "全スキルダメージ15%アップ",
+          "abilityEffectDescription": "全スキルダメージ15%アップ",
+          "effectIdx1": "1191",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "307002",
+          "abilityName": "スキダメアップ系アビ",
+          "abilityDescription": "全スキルダメージ50%アップ",
+          "abilityEffectDescription": "全スキルダメージ50%アップ",
+          "effectIdx1": "682",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "308001",
+          "abilityName": "総チャクラ量アップ系アビ",
+          "abilityDescription": "最大チャクラ量20アップ",
+          "abilityEffectDescription": "最大チャクラ量20アップ",
+          "effectIdx1": "20001",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "309001",
+          "abilityName": "毎ターンチャクラ回復アップ系アビ",
+          "abilityDescription": "毎ターンチャクラ5％回復",
+          "abilityEffectDescription": "毎ターンチャクラ5％回復",
+          "effectIdx1": "29",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "310001",
+          "abilityName": "その他",
+          "abilityDescription": "行動するたび攻撃力と防御力と素早さ25％アップ（最大3回）",
+          "abilityEffectDescription": "行動するたび攻撃力と防御力と素早さ25％アップ（最大3回）",
+          "effectIdx1": "843",
+          "effectIdx2": "2474",
+          "effectIdx3": "844"
+        },
+        {
+          "abilityId": "310002",
+          "abilityName": "その他",
+          "abilityDescription": "五大里所属への単体ｽｷﾙ攻撃を受ける※複数人発動は最後が有効",
+          "abilityEffectDescription": "五大里所属への単体ｽｷﾙ攻撃を受ける※複数人発動は最後が有効",
+          "effectIdx1": "2431",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "310003",
+          "abilityName": "その他",
+          "abilityDescription": "最大HP80%アップ、行動後にHPが25％回復する",
+          "abilityEffectDescription": "最大HP80%アップ、行動後にHPが25％回復する",
+          "effectIdx1": "649",
+          "effectIdx2": "1892",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "310004",
+          "abilityName": "その他",
+          "abilityDescription": "1回行動するまで耐性無視ダメージ0",
+          "abilityEffectDescription": "1回行動するまで耐性無視ダメージ0",
+          "effectIdx1": "1961",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "310005",
+          "abilityName": "その他",
+          "abilityDescription": "HPが0以下になると1度だけ耐える",
+          "abilityEffectDescription": "HPが0以下になると1度だけ耐える",
+          "effectIdx1": "312",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "310006",
+          "abilityName": "その他",
+          "abilityDescription": "HP80%以上の時、全スキルダメージ80%アップ",
+          "abilityEffectDescription": "HP80%以上の時、全スキルダメージ80%アップ",
+          "effectIdx1": "1392",
           "effectIdx2": "0",
           "effectIdx3": "0"
         },

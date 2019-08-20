@@ -439,6 +439,30 @@
           "purchaseReleaseTime": "0000-00-00 00:00:00"
         },
         {
+          "mypageSceneryId": "1908001",
+          "name": "マイペ背景",
+          "rarity": "4",
+          "ornamentDefaultSettingNum": "10",
+          "ornamentDefaultSettingPosition": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageSceneryId": "1908002",
+          "name": "マイペ背景",
+          "rarity": "4",
+          "ornamentDefaultSettingNum": "10",
+          "ornamentDefaultSettingPosition": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageSceneryId": "1908003",
+          "name": "マイペ背景",
+          "rarity": "4",
+          "ornamentDefaultSettingNum": "10",
+          "ornamentDefaultSettingPosition": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
           "mypageSceneryId": "2000001",
           "name": "マイペ背景",
           "rarity": "1",

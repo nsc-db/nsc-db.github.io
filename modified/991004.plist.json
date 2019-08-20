@@ -4313,6 +4313,12 @@
           "speechCharactorName": "はたけカカシ"
         },
         {
+          "speechCharactorId": "723",
+          "cardId": "723",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "大蛇丸"
+        },
+        {
           "speechCharactorId": "724",
           "cardId": "20040404",
           "speechCharactorImgId": "0",
@@ -4329,6 +4335,18 @@
           "cardId": "20040405",
           "speechCharactorImgId": "0",
           "speechCharactorName": "うちはマダラ"
+        },
+        {
+          "speechCharactorId": "727",
+          "cardId": "727",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "???"
+        },
+        {
+          "speechCharactorId": "728",
+          "cardId": "728",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "鬼灯水月"
         },
         {
           "speechCharactorId": "729",
@@ -4407,6 +4425,36 @@
           "cardId": "50000013",
           "speechCharactorImgId": "0",
           "speechCharactorName": "火ノ寺の僧侶"
+        },
+        {
+          "speechCharactorId": "759",
+          "cardId": "20050401",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはサスケ"
+        },
+        {
+          "speechCharactorId": "760",
+          "cardId": "20050413",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "大蛇丸"
+        },
+        {
+          "speechCharactorId": "761",
+          "cardId": "20000641",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "???"
+        },
+        {
+          "speechCharactorId": "765",
+          "cardId": "20050606",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "ロック・リー"
+        },
+        {
+          "speechCharactorId": "766",
+          "cardId": "20031216",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "マイト・ガイ"
         },
         {
           "speechCharactorId": "1000",

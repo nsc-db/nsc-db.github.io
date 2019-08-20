@@ -881,6 +881,20 @@
           "deleteFlg": "0"
         },
         {
+          "scriptSettingId": "32000009",
+          "triggerId": "0",
+          "priority": "0",
+          "eventId": "0",
+          "worldStageId": "0",
+          "worldPhaseId": "0",
+          "compositionNum": "0",
+          "oneTimeFlg": "1",
+          "exclusionFlg": "0",
+          "saveFlg": "1",
+          "memo": "疾風伝 9章解放",
+          "deleteFlg": "0"
+        },
+        {
           "scriptSettingId": "32010001",
           "triggerId": "0",
           "priority": "0",
@@ -990,6 +1004,20 @@
           "exclusionFlg": "0",
           "saveFlg": "1",
           "memo": "疾風伝 8章ハードモード解放",
+          "deleteFlg": "0"
+        },
+        {
+          "scriptSettingId": "32010009",
+          "triggerId": "0",
+          "priority": "0",
+          "eventId": "0",
+          "worldStageId": "0",
+          "worldPhaseId": "0",
+          "compositionNum": "0",
+          "oneTimeFlg": "1",
+          "exclusionFlg": "0",
+          "saveFlg": "1",
+          "memo": "疾風伝 9章ハードモード解放",
           "deleteFlg": "0"
         },
         {
@@ -1816,6 +1844,62 @@
           "exclusionFlg": "0",
           "saveFlg": "1",
           "memo": "鍵任務チュートリアル TOP(POPUP)",
+          "deleteFlg": "0"
+        },
+        {
+          "scriptSettingId": "70000060",
+          "triggerId": "0",
+          "priority": "0",
+          "eventId": "0",
+          "worldStageId": "0",
+          "worldPhaseId": "0",
+          "compositionNum": "0",
+          "oneTimeFlg": "1",
+          "exclusionFlg": "0",
+          "saveFlg": "1",
+          "memo": "スフィア盤TOPチュートリアル",
+          "deleteFlg": "0"
+        },
+        {
+          "scriptSettingId": "70000061",
+          "triggerId": "0",
+          "priority": "0",
+          "eventId": "0",
+          "worldStageId": "0",
+          "worldPhaseId": "0",
+          "compositionNum": "0",
+          "oneTimeFlg": "1",
+          "exclusionFlg": "0",
+          "saveFlg": "1",
+          "memo": "スフィア盤課金TOPチュートリアル",
+          "deleteFlg": "0"
+        },
+        {
+          "scriptSettingId": "70000062",
+          "triggerId": "0",
+          "priority": "0",
+          "eventId": "0",
+          "worldStageId": "0",
+          "worldPhaseId": "0",
+          "compositionNum": "0",
+          "oneTimeFlg": "1",
+          "exclusionFlg": "0",
+          "saveFlg": "1",
+          "memo": "最終マスチュートリアル",
+          "deleteFlg": "0"
+        },
+        {
+          "scriptSettingId": "70000063",
+          "triggerId": "0",
+          "priority": "0",
+          "eventId": "0",
+          "worldStageId": "0",
+          "worldPhaseId": "0",
+          "compositionNum": "0",
+          "oneTimeFlg": "1",
+          "exclusionFlg": "0",
+          "saveFlg": "1",
+          "memo": "カスタムマスチュートリアル",
           "deleteFlg": "0"
         },
         {

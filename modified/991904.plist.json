@@ -1,0 +1,116 @@
+[        {
+          "sphereMaterialId": "3",
+          "materialName": "禁忌の至宝",
+          "materialRare": "4"
+        },
+        {
+          "sphereMaterialId": "10",
+          "materialName": "英雄の証",
+          "materialRare": "5"
+        },
+        {
+          "sphereMaterialId": "101",
+          "materialName": "HPの証・小",
+          "materialRare": "1"
+        },
+        {
+          "sphereMaterialId": "102",
+          "materialName": "HPの証・中",
+          "materialRare": "2"
+        },
+        {
+          "sphereMaterialId": "103",
+          "materialName": "HPの証・大",
+          "materialRare": "3"
+        },
+        {
+          "sphereMaterialId": "201",
+          "materialName": "攻撃力の証・小",
+          "materialRare": "1"
+        },
+        {
+          "sphereMaterialId": "202",
+          "materialName": "攻撃力の証・中",
+          "materialRare": "2"
+        },
+        {
+          "sphereMaterialId": "203",
+          "materialName": "攻撃力の証・大",
+          "materialRare": "3"
+        },
+        {
+          "sphereMaterialId": "301",
+          "materialName": "防御力の証・小",
+          "materialRare": "1"
+        },
+        {
+          "sphereMaterialId": "302",
+          "materialName": "防御力の証・中",
+          "materialRare": "2"
+        },
+        {
+          "sphereMaterialId": "303",
+          "materialName": "防御力の証・大",
+          "materialRare": "3"
+        },
+        {
+          "sphereMaterialId": "401",
+          "materialName": "素早さの証・小",
+          "materialRare": "1"
+        },
+        {
+          "sphereMaterialId": "402",
+          "materialName": "素早さの証・中",
+          "materialRare": "2"
+        },
+        {
+          "sphereMaterialId": "403",
+          "materialName": "素早さの証・大",
+          "materialRare": "3"
+        },
+        {
+          "sphereMaterialId": "501",
+          "materialName": "回避率の証・小",
+          "materialRare": "1"
+        },
+        {
+          "sphereMaterialId": "502",
+          "materialName": "回避率の証・中",
+          "materialRare": "2"
+        },
+        {
+          "sphereMaterialId": "503",
+          "materialName": "回避率の証・大",
+          "materialRare": "3"
+        },
+        {
+          "sphereMaterialId": "601",
+          "materialName": "会心率の証・小",
+          "materialRare": "1"
+        },
+        {
+          "sphereMaterialId": "602",
+          "materialName": "会心率の証・中",
+          "materialRare": "2"
+        },
+        {
+          "sphereMaterialId": "603",
+          "materialName": "会心率の証・大",
+          "materialRare": "3"
+        },
+        {
+          "sphereMaterialId": "701",
+          "materialName": "会心力の証・小",
+          "materialRare": "1"
+        },
+        {
+          "sphereMaterialId": "702",
+          "materialName": "会心力の証・中",
+          "materialRare": "2"
+        },
+        {
+          "sphereMaterialId": "703",
+          "materialName": "会心力の証・大",
+          "materialRare": "3"
+        }
+      ]

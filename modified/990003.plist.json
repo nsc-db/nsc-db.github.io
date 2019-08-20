@@ -109,5 +109,13 @@
         {
           "assetCategoryId": "29",
           "assetTitle": "鍵アイテム"
+        },
+        {
+          "assetCategoryId": "30",
+          "assetTitle": "不特定スフィア盤解放素材"
+        },
+        {
+          "assetCategoryId": "31",
+          "assetTitle": "特定スフィア盤解放素材"
         }
       ]

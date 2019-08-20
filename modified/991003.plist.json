@@ -687,11 +687,35 @@
           "defineValue": "5000"
         },
         {
+          "defineKey": "max_normal_sphere_count",
+          "defineValue": "15"
+        },
+        {
+          "defineKey": "max_custom_sphere_count",
+          "defineValue": "4"
+        },
+        {
+          "defineKey": "specific_sphere_material_id",
+          "defineValue": "2"
+        },
+        {
+          "defineKey": "sell_specific_sphere_material_num",
+          "defineValue": "1"
+        },
+        {
+          "defineKey": "sphere_top_display_materials",
+          "defineValue": "0,0"
+        },
+        {
           "defineKey": "mission_top_display_key_group_id",
           "defineValue": "10000"
         },
         {
           "defineKey": "mission_top_display_campaign_type_list",
           "defineValue": "7,8,9,28,34"
+        },
+        {
+          "defineKey": "sphere_cost_boarder",
+          "defineValue": "90"
         }
       ]

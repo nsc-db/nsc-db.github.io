@@ -1091,6 +1091,19 @@
           "selectType": "1"
         },
         {
+          "itemId": "11085",
+          "name": "期間限定かき氷（レモン）",
+          "description": "スタミナを全回復するかき氷（8月26日15:59まで期間限定）",
+          "resultWord": "0",
+          "itemCategoryId": "1",
+          "itemValue": "1000000",
+          "itemNum": "0",
+          "itemImageId": "11085",
+          "needCount": "1",
+          "priority": "1",
+          "selectType": "1"
+        },
+        {
           "itemId": "11087",
           "name": "8月限定かき氷(2019)",
           "description": "スタミナを全回復するかき氷（8月31日まで期間限定）",
@@ -1125,6 +1138,19 @@
           "itemValue": "1000000",
           "itemNum": "0",
           "itemImageId": "11084",
+          "needCount": "1",
+          "priority": "1",
+          "selectType": "1"
+        },
+        {
+          "itemId": "11090",
+          "name": "期間限定かき氷（レモン）",
+          "description": "スタミナを全回復するかき氷（8月30日15:59まで期間限定）",
+          "resultWord": "0",
+          "itemCategoryId": "1",
+          "itemValue": "1000000",
+          "itemNum": "0",
+          "itemImageId": "11085",
           "needCount": "1",
           "priority": "1",
           "selectType": "1"
@@ -2178,6 +2204,19 @@
           "itemValue": "20000",
           "itemNum": "0",
           "itemImageId": "52032",
+          "needCount": "1",
+          "priority": "100",
+          "selectType": "2"
+        },
+        {
+          "itemId": "52033",
+          "name": "限定ﾄﾞﾛｯﾌﾟ数2倍わたあめ(黄)",
+          "description": "バトルでの獲得ドロップ数が２倍になります。（8月26日15:59まで期間限定）",
+          "resultWord": "忍/素材ドロップ数２倍",
+          "itemCategoryId": "10",
+          "itemValue": "20000",
+          "itemNum": "0",
+          "itemImageId": "52033",
           "needCount": "1",
           "priority": "100",
           "selectType": "2"
