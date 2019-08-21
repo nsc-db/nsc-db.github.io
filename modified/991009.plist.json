@@ -2195,6 +2195,12 @@
           "itemImgId": "23"
         },
         {
+          "shopExchangeItemId": "374",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
           "shopExchangeItemId": "1001",
           "itemName": "下心Pt",
           "measure": null,
@@ -2889,6 +2895,12 @@
           "itemName": "SD札",
           "measure": "0",
           "itemImgId": "2029"
+        },
+        {
+          "shopExchangeItemId": "2071",
+          "itemName": "メニューボイス交換券",
+          "measure": "0",
+          "itemImgId": "2034"
         },
         {
           "shopExchangeItemId": "2072",

@@ -10883,6 +10883,30 @@
           "effectIdx4": "1423"
         },
         {
+          "crystalOverwriteEffectId": "922",
+          "targetCrystal": "20801",
+          "description": "最大HPと攻撃力100%アップ、素早さ50%アップ",
+          "charaIds": "1403,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "684",
+          "effectIdx2": "11099",
+          "effectIdx3": "13049",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "923",
+          "targetCrystal": "20802",
+          "description": "風遁タイプのスキルダメージ120%アップ、行動毎にチャクラ30%回復",
+          "charaIds": "1403,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "2463",
+          "effectIdx2": "820",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
+        },
+        {
           "crystalOverwriteEffectId": "924",
           "targetCrystal": "20835",
           "description": "全スキルダメージ120%アップ、素早さ100アップ、1回行動するまで確率で全スキル無効＆スキル回避",

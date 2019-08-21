@@ -83454,6 +83454,666 @@
           "message": "潜在覚醒をどれだけモノにできたか…\r\nオレが試してやろう！\r\nさぁかかってこい！！"
         },
         {
+          "scriptMessageId": "29186",
+          "speechCharactorId": "767",
+          "message": "オレが奇襲部隊隊長を任された\r\n砂のカンクロウだ"
+        },
+        {
+          "scriptMessageId": "29187",
+          "speechCharactorId": "751",
+          "message": "カンクロウさんですね…\r\nあだ名は何にしましょう…？"
+        },
+        {
+          "scriptMessageId": "29188",
+          "speechCharactorId": "767",
+          "message": "あ！？"
+        },
+        {
+          "scriptMessageId": "29189",
+          "speechCharactorId": "189",
+          "message": "さて…我愛羅くん\r\n君がこの大連隊の連隊長だ…\r\n落ち着いたら一言たのむよ"
+        },
+        {
+          "scriptMessageId": "29190",
+          "speechCharactorId": "768",
+          "message": "……！……！"
+        },
+        {
+          "scriptMessageId": "29191",
+          "speechCharactorId": "455",
+          "message": "………"
+        },
+        {
+          "scriptMessageId": "29192",
+          "speechCharactorId": "436",
+          "message": "我愛羅がウチら第４部隊長だが\r\nあいつは連隊長でもある"
+        },
+        {
+          "scriptMessageId": "29193",
+          "speechCharactorId": "436",
+          "message": "代理だが実質はお前が第４部隊長だ\r\nしっかりな！"
+        },
+        {
+          "scriptMessageId": "29194",
+          "speechCharactorId": "769",
+          "message": "めんどくせーとこに\r\n配属されちまったぜ…ったくよォ"
+        },
+        {
+          "scriptMessageId": "29195",
+          "speechCharactorId": "768",
+          "message": "……！……！"
+        },
+        {
+          "scriptMessageId": "29196",
+          "speechCharactorId": "189",
+          "message": "ハァ…"
+        },
+        {
+          "scriptMessageId": "29197",
+          "speechCharactorId": "455",
+          "message": "………"
+        },
+        {
+          "scriptMessageId": "29198",
+          "speechCharactorId": "455",
+          "message": "自国自里の利益のために…\r\n第一次から第三次までの長きに亘り\r\n忍はお互いを傷付け\r\n憎しみ合ってきた"
+        },
+        {
+          "scriptMessageId": "29199",
+          "speechCharactorId": "455",
+          "message": "その憎しみは力を欲し\r\nオレが生まれた"
+        },
+        {
+          "scriptMessageId": "29200",
+          "speechCharactorId": "768",
+          "message": "………"
+        },
+        {
+          "scriptMessageId": "29201",
+          "speechCharactorId": "455",
+          "message": "かつてオレも憎しみであり\r\n力であり人柱力であった"
+        },
+        {
+          "scriptMessageId": "29202",
+          "speechCharactorId": "455",
+          "message": "そしてこの世界と人間を憎み\r\n滅ぼそうと考えた…今“暁”が \r\nなそうとしている事と同じだ"
+        },
+        {
+          "scriptMessageId": "29203",
+          "speechCharactorId": "436",
+          "message": "……"
+        },
+        {
+          "scriptMessageId": "29204",
+          "speechCharactorId": "455",
+          "message": "だが…木ノ葉の一人の忍が\r\nそれを止めてくれた"
+        },
+        {
+          "scriptMessageId": "29205",
+          "speechCharactorId": "455",
+          "message": "その者は敵であるオレのために\r\n泣いてくれた！\r\n傷付けたオレを友だと\r\n言ってくれた！！"
+        },
+        {
+          "scriptMessageId": "29206",
+          "speechCharactorId": "455",
+          "message": "彼はオレを救った！！\r\n敵同士だったが\r\n彼は同じ人柱力だった…"
+        },
+        {
+          "scriptMessageId": "29207",
+          "speechCharactorId": "455",
+          "message": "同じ痛みを理解し合った者同士\r\nわだかまりはない！"
+        },
+        {
+          "scriptMessageId": "29208",
+          "speechCharactorId": "455",
+          "message": "今ここに敵はいない！！"
+        },
+        {
+          "scriptMessageId": "29209",
+          "speechCharactorId": "455",
+          "message": "なぜなら皆\r\n“暁”に傷付けられた\r\n痛みを持っている"
+        },
+        {
+          "scriptMessageId": "29210",
+          "speechCharactorId": "455",
+          "message": "砂も岩も木ノ葉も霧も雲もない！！"
+        },
+        {
+          "scriptMessageId": "29211",
+          "speechCharactorId": "455",
+          "message": "あるのはただ“忍”だ！！"
+        },
+        {
+          "scriptMessageId": "29212",
+          "speechCharactorId": "455",
+          "message": "もしそれでも砂が許せないのなら"
+        },
+        {
+          "scriptMessageId": "29213",
+          "speechCharactorId": "455",
+          "message": "この戦争の後に\r\nオレの首をはねればいい！！"
+        },
+        {
+          "scriptMessageId": "29214",
+          "speechCharactorId": "768",
+          "message": "………"
+        },
+        {
+          "scriptMessageId": "29215",
+          "speechCharactorId": "189",
+          "message": "（皆の顔つきが変わった…）"
+        },
+        {
+          "scriptMessageId": "29216",
+          "speechCharactorId": "455",
+          "message": "オレを救ってくれたその友を今\r\n敵は狙っている！！！\r\n彼が敵に渡れば世界は終わる！！"
+        },
+        {
+          "scriptMessageId": "29217",
+          "speechCharactorId": "455",
+          "message": "オレは友を守りたい\r\nそしてこの世界を守りたい！！"
+        },
+        {
+          "scriptMessageId": "29218",
+          "speechCharactorId": "455",
+          "message": "世界を守るにはオレは若すぎる！\r\n浅すぎる！だから…\r\n皆の力をかしてくれ！！"
+        },
+        {
+          "scriptMessageId": "29219",
+          "speechCharactorId": "768",
+          "message": "オオオ！！"
+        },
+        {
+          "scriptMessageId": "29220",
+          "speechCharactorId": "436",
+          "message": "（立派になったな…我愛羅！）"
+        },
+        {
+          "scriptMessageId": "29221",
+          "speechCharactorId": "455",
+          "message": "同意する者はオレに続け！！"
+        },
+        {
+          "scriptMessageId": "29222",
+          "speechCharactorId": "752",
+          "message": "………"
+        },
+        {
+          "scriptMessageId": "29223",
+          "speechCharactorId": "767",
+          "message": "オモイ！オイ！\r\nオモイ、聞いてんのか？"
+        },
+        {
+          "scriptMessageId": "29224",
+          "speechCharactorId": "767",
+          "message": "ここから下に降りる…\r\n敵の領域上空だ、ボサッとすんな！"
+        },
+        {
+          "scriptMessageId": "29225",
+          "speechCharactorId": "752",
+          "message": "あのー…一つ聞いてもいいっスか？"
+        },
+        {
+          "scriptMessageId": "29226",
+          "speechCharactorId": "767",
+          "message": "何だ？"
+        },
+        {
+          "scriptMessageId": "29227",
+          "speechCharactorId": "752",
+          "message": "隊長はオレとそんなに歳違わない…\r\n戦争…初めてっスよね？"
+        },
+        {
+          "scriptMessageId": "29228",
+          "speechCharactorId": "767",
+          "message": "ああ……"
+        },
+        {
+          "scriptMessageId": "29229",
+          "speechCharactorId": "752",
+          "message": "不安は…ないんすか……？"
+        },
+        {
+          "scriptMessageId": "29230",
+          "speechCharactorId": "767",
+          "message": "…この戦争はこのオレ達の隊の\r\n奇襲の出来不出来で決まる…\r\n戦死者の数もな…"
+        },
+        {
+          "scriptMessageId": "29231",
+          "speechCharactorId": "767",
+          "message": "成功する事だけ考えろ！\r\n家族と仲間を守りたいならな！"
+        },
+        {
+          "scriptMessageId": "29232",
+          "speechCharactorId": "767",
+          "message": "（この動き…まさか！？）"
+        },
+        {
+          "scriptMessageId": "29233",
+          "speechCharactorId": "753",
+          "message": "こいつらはまだ生かしてある…\r\nさて…どうする…うん？"
+        },
+        {
+          "scriptMessageId": "29234",
+          "speechCharactorId": "767",
+          "message": "きたねー手使うじゃん\r\nサソリ…いるのは分かってる \r\n出てこいよ"
+        },
+        {
+          "scriptMessageId": "29235",
+          "speechCharactorId": "753",
+          "message": "オイラ達はぜってー負けねェ…\r\nなぜなら…\r\n不死身って奴だ！！うん！"
+        },
+        {
+          "scriptMessageId": "29236",
+          "speechCharactorId": "752",
+          "message": "雲流――裏斬り！！"
+        },
+        {
+          "scriptMessageId": "29237",
+          "speechCharactorId": "754",
+          "message": "（オレのチャクラ糸を斬るか…\r\nいい太刀筋だ）"
+        },
+        {
+          "scriptMessageId": "29238",
+          "speechCharactorId": "767",
+          "message": "（ここだ！）"
+        },
+        {
+          "scriptMessageId": "29239",
+          "speechCharactorId": "754",
+          "message": "オレの糸に己の糸を結び付けて\r\n引っぱり込むとはな…少しは糸の\r\n使い方が上達したな…カンクロウ"
+        },
+        {
+          "scriptMessageId": "29240",
+          "speechCharactorId": "767",
+          "message": "赤秘技操演者のアンタに\r\n褒められんのは正直うれしいが\r\n今じゃ黒秘技のオレの方が上だぜ"
+        },
+        {
+          "scriptMessageId": "29241",
+          "speechCharactorId": "754",
+          "message": "オレの傀儡か…\r\n今となればその体もくだらねェ…"
+        },
+        {
+          "scriptMessageId": "29242",
+          "speechCharactorId": "754",
+          "message": "今のオレはまさに\r\n朽ちる事のない\r\n本物の人形そのもの！\r\nかつて望んだ体だ！"
+        },
+        {
+          "scriptMessageId": "29243",
+          "speechCharactorId": "767",
+          "message": "………"
+        },
+        {
+          "scriptMessageId": "29244",
+          "speechCharactorId": "767",
+          "message": "サソリ…アンタの強さは\r\nそこに魂があったからだ"
+        },
+        {
+          "scriptMessageId": "29245",
+          "speechCharactorId": "767",
+          "message": "アンタはかつて人形になり\r\n魂を消そうとしたが \r\n消しきれなかった"
+        },
+        {
+          "scriptMessageId": "29246",
+          "speechCharactorId": "767",
+          "message": "アンタの造った傀儡にこそ\r\n朽ちることのない魂が宿ってんのが \r\nオレには分かる"
+        },
+        {
+          "scriptMessageId": "29247",
+          "speechCharactorId": "767",
+          "message": "だが今のアンタは生身だが\r\n本物の傀儡に成り下がった \r\nただの人形だ"
+        },
+        {
+          "scriptMessageId": "29248",
+          "speechCharactorId": "767",
+          "message": "アンタは傀儡を操る一流の忍だった\r\n誰かに操られるような\r\nゲスじゃなかったハズだぜ"
+        },
+        {
+          "scriptMessageId": "29249",
+          "speechCharactorId": "754",
+          "message": "………"
+        },
+        {
+          "scriptMessageId": "29250",
+          "speechCharactorId": "767",
+          "message": "傀儡使いが操られちゃ\r\nおしまいじゃん！アンタにも\r\nアンタを操ってる奴にも…\r\nこっちは意地でも負けらんねェー"
+        },
+        {
+          "scriptMessageId": "29251",
+          "speechCharactorId": "767",
+          "message": "……アンタの技術…\r\nそして造った傀儡は\r\n朽ちる事のないもんだ"
+        },
+        {
+          "scriptMessageId": "29252",
+          "speechCharactorId": "767",
+          "message": "そこに宿る魂を受け継ぐ\r\n後世の操演者がいてこそな！"
+        },
+        {
+          "scriptMessageId": "29253",
+          "speechCharactorId": "754",
+          "message": "（…造った者の魂が宿るか…\r\n確かにな………）"
+        },
+        {
+          "scriptMessageId": "29254",
+          "speechCharactorId": "754",
+          "message": "カンクロウ…\r\n“父”と“母”の傀儡もお前に託す\r\n………そしてお前が死ぬ時はさらに\r\n次の者に託せ……あの二体は…"
+        },
+        {
+          "scriptMessageId": "29255",
+          "speechCharactorId": "767",
+          "message": "ああ…もちろん分かってる"
+        },
+        {
+          "scriptMessageId": "29256",
+          "speechCharactorId": "455",
+          "message": "父さま…久しぶりです"
+        },
+        {
+          "scriptMessageId": "29257",
+          "speechCharactorId": "527",
+          "message": "我愛羅、守鶴はどこだ？"
+        },
+        {
+          "scriptMessageId": "29258",
+          "speechCharactorId": "455",
+          "message": "そいつはもういない\r\nオレはもう…\r\n父さまの作った人柱力ではない"
+        },
+        {
+          "scriptMessageId": "29259",
+          "speechCharactorId": "527",
+          "message": "…お前が人柱力ではない！？\r\nどういう事だ？"
+        },
+        {
+          "scriptMessageId": "29260",
+          "speechCharactorId": "455",
+          "message": "今アンタ達を操ってる輩共に\r\n守鶴を抜き取られ\r\nオレは一度死んだ"
+        },
+        {
+          "scriptMessageId": "29261",
+          "speechCharactorId": "455",
+          "message": "だがチヨ様と友の力で\r\nオレはこうして甦った"
+        },
+        {
+          "scriptMessageId": "29262",
+          "speechCharactorId": "527",
+          "message": "…あのチヨバアがそんな事を！？\r\nそれに…友だと！？"
+        },
+        {
+          "scriptMessageId": "29263",
+          "speechCharactorId": "527",
+          "message": "お前に友ができたというのか！？"
+        },
+        {
+          "scriptMessageId": "29264",
+          "speechCharactorId": "528",
+          "message": "おいおいどんだけ寂しい\r\nガキだったんだよアイツは？\r\n友達ぐらいいて当然の歳だろ"
+        },
+        {
+          "scriptMessageId": "29265",
+          "speechCharactorId": "455",
+          "message": "父さま、アナタに六度殺されかけ…\r\nその度にアナタを恐れ恨んできた…"
+        },
+        {
+          "scriptMessageId": "29266",
+          "speechCharactorId": "455",
+          "message": "だが今はもうアナタを\r\n恨んではいない…アナタの \r\nやろうとした事も理解できる…"
+        },
+        {
+          "scriptMessageId": "29267",
+          "speechCharactorId": "455",
+          "message": "オレも風影となった今\r\n里を守るために里への脅威を\r\n排除するのも…長の役目だ"
+        },
+        {
+          "scriptMessageId": "29268",
+          "speechCharactorId": "527",
+          "message": "……！！\r\n風影に…なった…お前が…？"
+        },
+        {
+          "scriptMessageId": "29269",
+          "speechCharactorId": "457",
+          "message": "それだけではない…\r\n今や忍連合軍、戦闘大連隊\r\n連隊長じゃぜ！"
+        },
+        {
+          "scriptMessageId": "29270",
+          "speechCharactorId": "457",
+          "message": "この若さで影を名乗っておるが\r\n他の影も皆一目置いとる"
+        },
+        {
+          "scriptMessageId": "29271",
+          "speechCharactorId": "277",
+          "message": "お前の息子か…いい忍だな"
+        },
+        {
+          "scriptMessageId": "29272",
+          "speechCharactorId": "527",
+          "message": "………"
+        },
+        {
+          "scriptMessageId": "29273",
+          "speechCharactorId": "527",
+          "message": "この穢土転生の術…\r\n少しは価値のある術だったかもな…"
+        },
+        {
+          "scriptMessageId": "29274",
+          "speechCharactorId": "527",
+          "message": "もう一度…お前の価値を\r\nオレ自身で確かめてやる…"
+        },
+        {
+          "scriptMessageId": "29275",
+          "speechCharactorId": "527",
+          "message": "…さあオレを超えてみろ"
+        },
+        {
+          "scriptMessageId": "29276",
+          "speechCharactorId": "277",
+          "message": "とにかくワシ達の動きを止めろ！\r\n簡単にはいかぬだろうが"
+        },
+        {
+          "scriptMessageId": "29277",
+          "speechCharactorId": "457",
+          "message": "皆！かかれ！！"
+        },
+        {
+          "scriptMessageId": "29278",
+          "speechCharactorId": "436",
+          "message": "皆、行くぞ！！"
+        },
+        {
+          "scriptMessageId": "29279",
+          "speechCharactorId": "527",
+          "message": "（…加瑠羅\r\nお前が…まだこの子の中に……）"
+        },
+        {
+          "scriptMessageId": "29280",
+          "speechCharactorId": "436",
+          "message": "（あれは！やっぱりオヤジ！！）"
+        },
+        {
+          "scriptMessageId": "29281",
+          "speechCharactorId": "527",
+          "message": "成長したな…我愛羅"
+        },
+        {
+          "scriptMessageId": "29282",
+          "speechCharactorId": "527",
+          "message": "親ってのはただ…子供を信じて\r\nやればいい たったそれだけ…\r\nそこに価値がある…"
+        },
+        {
+          "scriptMessageId": "29283",
+          "speechCharactorId": "527",
+          "message": "そういう事だな加瑠羅よ…\r\nどうやらオレに……ものの価値を\r\n見る才能は無かったようだな"
+        },
+        {
+          "scriptMessageId": "29284",
+          "speechCharactorId": "527",
+          "message": "…我愛羅\r\nお前は母に愛されていた"
+        },
+        {
+          "scriptMessageId": "29285",
+          "speechCharactorId": "455",
+          "message": "………オレが…\r\n母様に愛されていた…？"
+        },
+        {
+          "scriptMessageId": "29286",
+          "speechCharactorId": "455",
+          "message": "…だがあの時…\r\nオレを狙った夜叉丸は……"
+        },
+        {
+          "scriptMessageId": "29287",
+          "speechCharactorId": "527",
+          "message": "オレが夜叉丸に嘘をつき\r\n演じるように命令したのだ"
+        },
+        {
+          "scriptMessageId": "29288",
+          "speechCharactorId": "527",
+          "message": "…お前を追い込み\r\n尾獣の暴走の有無を\r\n確かめるために…里のためにと…"
+        },
+        {
+          "scriptMessageId": "29289",
+          "speechCharactorId": "527",
+          "message": "夜叉丸が恨んでいたとしたら………\r\n身重の加瑠羅に砂の守鶴を実際\r\n取り込ませたのは…オレだからな"
+        },
+        {
+          "scriptMessageId": "29290",
+          "speechCharactorId": "527",
+          "message": "失敗だった…オレのやった事全てが\r\n失敗だったようだ…"
+        },
+        {
+          "scriptMessageId": "29291",
+          "speechCharactorId": "527",
+          "message": "（…加瑠羅…）"
+        },
+        {
+          "scriptMessageId": "29292",
+          "speechCharactorId": "527",
+          "message": "母は強いな…死んでなお\r\nお前を信じきり守りぬいた…\r\nそれがお前をここまでにした"
+        },
+        {
+          "scriptMessageId": "29293",
+          "speechCharactorId": "527",
+          "message": "お前に風影としての人生を与え…\r\n友を与え………\r\n兄弟や人々からの繋がりを与えた…"
+        },
+        {
+          "scriptMessageId": "29294",
+          "speechCharactorId": "527",
+          "message": "オレが全て奪ったものだ\r\n…父親のオレはお前を陥れただけだ\r\n…イヤ、父親というのも\r\nおこがましいか…"
+        },
+        {
+          "scriptMessageId": "29295",
+          "speechCharactorId": "455",
+          "message": "………確かに母様はすごいな…"
+        },
+        {
+          "scriptMessageId": "29296",
+          "speechCharactorId": "527",
+          "message": "……！"
+        },
+        {
+          "scriptMessageId": "29297",
+          "speechCharactorId": "455",
+          "message": "初めて父様からの薬を渡してくれた"
+        },
+        {
+          "scriptMessageId": "29298",
+          "speechCharactorId": "527",
+          "message": "我愛羅…お前…"
+        },
+        {
+          "scriptMessageId": "29299",
+          "speechCharactorId": "527",
+          "message": "先代のオレなど\r\nとっくに超えていた…\r\n里を…頼んだぞ我愛羅"
+        },
+        {
+          "scriptMessageId": "29300",
+          "speechCharactorId": "277",
+          "message": "ワシは雷遁を使う！\r\n土遁の忍を前列に置き盾を作りつつ\r\n風遁の忍で攻めたてろ！！"
+        },
+        {
+          "scriptMessageId": "29301",
+          "speechCharactorId": "436",
+          "message": "ごていねいにどうも！できれば\r\nもっと詳しく知りたいけどね！"
+        },
+        {
+          "scriptMessageId": "29302",
+          "speechCharactorId": "436",
+          "message": "よし！！\r\n封印班急げ！！\r\n…！？"
+        },
+        {
+          "scriptMessageId": "29303",
+          "speechCharactorId": "277",
+          "message": "………"
+        },
+        {
+          "scriptMessageId": "29304",
+          "speechCharactorId": "436",
+          "message": "（最速きりきり舞いの術で\r\n連続で当てまくるしかない…！）"
+        },
+        {
+          "scriptMessageId": "29305",
+          "speechCharactorId": "436",
+          "message": "正直ここの連合で\r\n私以上の風遁使いは……"
+        },
+        {
+          "scriptMessageId": "29306",
+          "speechCharactorId": "541",
+          "message": "いる！！！\r\nオレだ！！！"
+        },
+        {
+          "scriptMessageId": "29307",
+          "speechCharactorId": "528",
+          "message": "さあ…！\r\nどうやってオレをぶっ倒すんだ！？"
+        },
+        {
+          "scriptMessageId": "29308",
+          "speechCharactorId": "457",
+          "message": "それを教えてほしいんですがの！"
+        },
+        {
+          "scriptMessageId": "29309",
+          "speechCharactorId": "528",
+          "message": "そういうのはもう止めた……\r\n悪りーけどな"
+        },
+        {
+          "scriptMessageId": "29310",
+          "speechCharactorId": "455",
+          "message": "さっきまで協力的だったのに\r\nなぜだ？敵の考えに\r\n加担する気か？"
+        },
+        {
+          "scriptMessageId": "29311",
+          "speechCharactorId": "528",
+          "message": "実力でオレに勝てなきゃ\r\nお前らは死んだオレ以下って\r\nことだろうが！ボケ！！そんなんで\r\n敵のボスに勝てるかァ！"
+        },
+        {
+          "scriptMessageId": "29312",
+          "speechCharactorId": "528",
+          "message": "五影の金のたまごがみつかったと\r\n思ったのに……風影…！\r\nおめーもただのたまごか！？"
+        },
+        {
+          "scriptMessageId": "29313",
+          "speechCharactorId": "528",
+          "message": "やっぱお前……金のたまごだ！！"
+        },
+        {
+          "scriptMessageId": "29314",
+          "speechCharactorId": "27",
+          "message": "大丈夫か我愛羅！？"
+        },
+        {
+          "scriptMessageId": "29315",
+          "speechCharactorId": "528",
+          "message": "なんだ…友達いるじゃねーか！"
+        },
+        {
+          "scriptMessageId": "29316",
+          "speechCharactorId": "528",
+          "message": "いいコンビだ……"
+        },
+        {
+          "scriptMessageId": "29317",
+          "speechCharactorId": "528",
+          "message": "（久々に……楽しかったぜ！！）"
+        },
+        {
           "scriptMessageId": "40001",
           "speechCharactorId": "178",
           "message": "絶望しかないこの世界に\r\n存在する価値はない"

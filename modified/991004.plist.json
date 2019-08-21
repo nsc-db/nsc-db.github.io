@@ -4409,6 +4409,30 @@
           "speechCharactorName": "大筒木カグヤ"
         },
         {
+          "speechCharactorId": "751",
+          "cardId": "751",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "サイ"
+        },
+        {
+          "speechCharactorId": "752",
+          "cardId": "752",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "オモイ"
+        },
+        {
+          "speechCharactorId": "753",
+          "cardId": "753",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "デイダラ"
+        },
+        {
+          "speechCharactorId": "754",
+          "cardId": "754",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "サソリ"
+        },
+        {
           "speechCharactorId": "755",
           "cardId": "20050808",
           "speechCharactorImgId": "0",
@@ -4455,6 +4479,24 @@
           "cardId": "20031216",
           "speechCharactorImgId": "0",
           "speechCharactorName": "マイト・ガイ"
+        },
+        {
+          "speechCharactorId": "767",
+          "cardId": "20050901",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "カンクロウ"
+        },
+        {
+          "speechCharactorId": "768",
+          "cardId": "50000013",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "忍たち"
+        },
+        {
+          "speechCharactorId": "769",
+          "cardId": "20040403",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "奈良シカマル"
         },
         {
           "speechCharactorId": "1000",

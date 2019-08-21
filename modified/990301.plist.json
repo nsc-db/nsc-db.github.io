@@ -19519,6 +19519,38 @@
           "recipeName": "うちわ（２本組）"
         },
         {
+          "crystalId": "20801",
+          "crystalType": "1",
+          "crystalRare": "5",
+          "effectIdx1": "470",
+          "effectIdx2": "205",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "テマリのベスト・弐",
+          "crystalDescription": "最大HPと攻撃力30%アップ",
+          "crystalImageId": "208015",
+          "recipeId": "20801",
+          "recipeName": "テマリのベスト・弐"
+        },
+        {
+          "crystalId": "20802",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "1320",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "テマリの扇子・弐",
+          "crystalDescription": "風遁タイプのスキルダメージ50%アップ",
+          "crystalImageId": "208025",
+          "recipeId": "20802",
+          "recipeName": "テマリの扇子・弐"
+        },
+        {
           "crystalId": "20805",
           "crystalType": "3",
           "crystalRare": "5",

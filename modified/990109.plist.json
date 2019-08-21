@@ -20384,6 +20384,24 @@
           "effectIdx3": "2432"
         },
         {
+          "abilityId": "2319",
+          "abilityName": "鼓舞の気風",
+          "abilityDescription": "最大HPと防御力100%アップ、1回行動するまでキャンセル無効",
+          "abilityEffectDescription": "最大HPと防御力100%アップ、1回行動するまでキャンセル無効",
+          "effectIdx1": "684",
+          "effectIdx2": "12099",
+          "effectIdx3": "1804"
+        },
+        {
+          "abilityId": "2320",
+          "abilityName": "豪胆な砂の姐御",
+          "abilityDescription": "HP90%以上の時、スキルダメージと素早さ100%アップ、敵に滅キャラがいる場合さらに素早さ100%アップ",
+          "abilityEffectDescription": "HP90%以上の時、スキルダメージと素早さ100%アップ、敵に滅キャラがいる場合さらに素早さ100%アップ",
+          "effectIdx1": "2219",
+          "effectIdx2": "31809",
+          "effectIdx3": "2444"
+        },
+        {
           "abilityId": "2321",
           "abilityName": "愛を捨てし女神",
           "abilityDescription": "最大チャクラが200アップ、HP0以下で1回だけHP全回復",
@@ -20453,6 +20471,24 @@
           "abilityEffectDescription": "最大HPとスキルダメージが120%アップする",
           "effectIdx1": "1221",
           "effectIdx2": "30011",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2329",
+          "abilityName": "操演者の矜持",
+          "abilityDescription": "バトル開始時に敵全体を特殊状態「操」にする、敵に無所属がいるとダメージ40％カット",
+          "abilityEffectDescription": "バトル開始時に敵全体を特殊状態「操」にする、敵に無所属がいるとダメージ40％カット",
+          "effectIdx1": "2478",
+          "effectIdx2": "2479",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2330",
+          "abilityName": "部隊長の心構え",
+          "abilityDescription": "敵に無所属がいると、バトル開始時に自身を除く味方全体を特殊状態「戦気」にする",
+          "abilityEffectDescription": "敵に無所属がいると、バトル開始時に自身を除く味方全体を特殊状態「戦気」にする",
+          "effectIdx1": "2480",
+          "effectIdx2": "0",
           "effectIdx3": "0"
         },
         {

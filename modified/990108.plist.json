@@ -12102,6 +12102,19 @@
           "target2Param": "3"
         },
         {
+          "cardLeaderSkillId": "947",
+          "name": "戦陣の舞扇姫",
+          "description": "五大隠れ里所属のスキル発動速度1段階アップ、素早さ&amp;スキルダメージ50%アップ",
+          "effectIdx1": "2161",
+          "effectIdx2": "1859",
+          "effectIdx3": "2445",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "948",
           "name": "根源の神眼",
           "description": "技属性の最大HPと攻撃力とスキルダメージを150%アップする",
@@ -12147,6 +12160,19 @@
           "effectIdx1": "2456",
           "effectIdx2": "2457",
           "effectIdx3": "0",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "952",
+          "name": "糸極の操者",
+          "description": "五大隠れ里所属の攻撃力・防御力・素早さを60%アップ",
+          "effectIdx1": "2475",
+          "effectIdx2": "2476",
+          "effectIdx3": "2477",
           "compType": "0",
           "target1Category": "0",
           "target1Param": "0",
