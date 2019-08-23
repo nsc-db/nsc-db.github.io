@@ -3555,6 +3555,34 @@
           "gender": "1"
         },
         {
+          "charaProfileId": "52101",
+          "charaId": "521",
+          "name": "金角",
+          "detail": null,
+          "charaLoveAffinityGroupId": "52110",
+          "birthday": "307",
+          "constellation": "12",
+          "height": "18390",
+          "weight": "7850",
+          "bloodType": "1",
+          "age": "0",
+          "gender": "1"
+        },
+        {
+          "charaProfileId": "52201",
+          "charaId": "522",
+          "name": "銀角",
+          "detail": null,
+          "charaLoveAffinityGroupId": "52210",
+          "birthday": "409",
+          "constellation": "1",
+          "height": "17790",
+          "weight": "8010",
+          "bloodType": "4",
+          "age": "0",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "100101",
           "charaId": "0",
           "name": "体のガマ",

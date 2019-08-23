@@ -1104,6 +1104,19 @@
           "selectType": "1"
         },
         {
+          "itemId": "11086",
+          "name": "期間限定かき氷（レインボー）",
+          "description": "スタミナを全回復するかき氷（8月30日15:59まで期間限定）",
+          "resultWord": "0",
+          "itemCategoryId": "1",
+          "itemValue": "1000000",
+          "itemNum": "0",
+          "itemImageId": "11086",
+          "needCount": "1",
+          "priority": "1",
+          "selectType": "1"
+        },
+        {
           "itemId": "11087",
           "name": "8月限定かき氷(2019)",
           "description": "スタミナを全回復するかき氷（8月31日まで期間限定）",
@@ -1780,6 +1793,19 @@
           "selectType": "2"
         },
         {
+          "itemId": "51038",
+          "name": "期間限定 昇級Pt倍化薬",
+          "description": "昇級試験での獲得Ptが2倍になります（8月26日15:59まで期間限定）。",
+          "resultWord": "昇級試験 獲得Pt2倍",
+          "itemCategoryId": "11",
+          "itemValue": "20000",
+          "itemNum": "0",
+          "itemImageId": "51002",
+          "needCount": "1",
+          "priority": "100",
+          "selectType": "2"
+        },
+        {
           "itemId": "52000",
           "name": "限定ドロップ数２倍の秘伝書",
           "description": "バトルでの獲得ドロップ数が２倍になります。（1月4日15:59まで期間限定）",
@@ -2217,6 +2243,19 @@
           "itemValue": "20000",
           "itemNum": "0",
           "itemImageId": "52033",
+          "needCount": "1",
+          "priority": "100",
+          "selectType": "2"
+        },
+        {
+          "itemId": "52034",
+          "name": "限定ﾄﾞﾛｯﾌﾟ数2倍わたあめ(虹)",
+          "description": "バトルでの獲得ドロップ数が２倍になります。（8月30日15:59まで期間限定）",
+          "resultWord": "忍/素材ドロップ数２倍",
+          "itemCategoryId": "10",
+          "itemValue": "20000",
+          "itemNum": "0",
+          "itemImageId": "52034",
           "needCount": "1",
           "priority": "100",
           "selectType": "2"

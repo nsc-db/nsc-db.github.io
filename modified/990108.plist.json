@@ -12180,6 +12180,45 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "953",
+          "name": "縛言の戯角",
+          "description": "雲隠れの里所属の最大HPを150%アップ",
+          "effectIdx1": "1212",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "6",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "954",
+          "name": "言葉狩りの狡角",
+          "description": "雲隠れの里所属をスキップ無効にする",
+          "effectIdx1": "2160",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "6",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "955",
+          "name": "想い纏う砂塵",
+          "description": "五大隠れ里所属の最大HPと防御力を80%アップ",
+          "effectIdx1": "2144",
+          "effectIdx2": "2493",
+          "effectIdx3": "0",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

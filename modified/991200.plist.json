@@ -11001,5 +11001,77 @@
           "effectIdx2": "0",
           "effectIdx3": "0",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "932",
+          "targetCrystal": "20817",
+          "description": "敵に五大隠れ里所属がいるときダメージ50%カット、5回行動するまでスキル発動速度1段階アップ",
+          "charaIds": "52101,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "2489",
+          "effectIdx2": "2490",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "933",
+          "targetCrystal": "20818",
+          "description": "全スキルダメージ200%アップ",
+          "charaIds": "52101,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "30019",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "934",
+          "targetCrystal": "20819",
+          "description": "敵に五大隠れ里所属がいるとき再行動、攻撃力100%アップ",
+          "charaIds": "52201,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "2491",
+          "effectIdx2": "264",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "935",
+          "targetCrystal": "20820",
+          "description": "全スキルダメージ150%アップ、5回行動するまでスキル発動速度1段階アップ",
+          "charaIds": "52201,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "794",
+          "effectIdx2": "2490",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "936",
+          "targetCrystal": "20803",
+          "description": "1回行動するまでチャクラ消費量0、2回行動以降はチャクラ消費量半減、行動後チャクラが20％回復",
+          "charaIds": "1301,1302,1303,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1378",
+          "effectIdx2": "1538",
+          "effectIdx3": "1768",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "937",
+          "targetCrystal": "20804",
+          "description": "弱体・状態異常無効、素早さ70%アップ、ダメージを受けた時にHPが20％回復",
+          "charaIds": "1302,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "880",
+          "effectIdx2": "13069",
+          "effectIdx3": "1167",
+          "effectIdx4": "0"
         }
       ]

@@ -2239,6 +2239,16 @@
           "type": "2"
         },
         {
+          "cardUnusualId": "228",
+          "category": "3",
+          "iconId": "1260",
+          "name": "流砂",
+          "description": "確率で行動をキャンセル、素早さダウン、行動するたびにHP減少",
+          "subScore": "0",
+          "color": "16774242",
+          "type": "3"
+        },
+        {
           "cardUnusualId": "229",
           "category": "3",
           "iconId": "1261",

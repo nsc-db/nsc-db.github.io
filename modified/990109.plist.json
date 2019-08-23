@@ -20492,6 +20492,60 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2331",
+          "abilityName": "伝説の血脈",
+          "abilityDescription": "最大チャクラ量100上昇、行動後チャクラが100%回復、尾獣・六道・火・水・雷・土・風遁タイプのスキルを無効",
+          "abilityEffectDescription": "最大チャクラ量100上昇、行動後チャクラが100%回復、尾獣・六道・火・水・雷・土・風遁タイプのスキルを無効",
+          "effectIdx1": "20009",
+          "effectIdx2": "2483",
+          "effectIdx3": "2485"
+        },
+        {
+          "abilityId": "2332",
+          "abilityName": "悪業の申し子",
+          "abilityDescription": "HPが50%以下でｽｷﾙ発動速度1段階ｱｯﾌﾟ、班の人数が3人以下のとき素早さ200%ｱｯﾌﾟ、HP0以下で2回耐える",
+          "abilityEffectDescription": "HPが50%以下でｽｷﾙ発動速度1段階ｱｯﾌﾟ、班の人数が3人以下のとき素早さ200%ｱｯﾌﾟ、HP0以下で2回耐える",
+          "effectIdx1": "2481",
+          "effectIdx2": "2482",
+          "effectIdx3": "1057"
+        },
+        {
+          "abilityId": "2333",
+          "abilityName": "仙人の血縁",
+          "abilityDescription": "最大チャクラ量100上昇、行動後チャクラが100%回復、尾獣・六道タイプのスキルを無効",
+          "abilityEffectDescription": "最大チャクラ量100上昇、行動後チャクラが100%回復、尾獣・六道タイプのスキルを無効",
+          "effectIdx1": "20009",
+          "effectIdx2": "2483",
+          "effectIdx3": "2486"
+        },
+        {
+          "abilityId": "2334",
+          "abilityName": "九尾喰いの伝説",
+          "abilityDescription": "HPが50%以下で素早さ200%アップ、班の人数が3人以下のときスキルダメージ200%アップ、HP0以下で3回耐える",
+          "abilityEffectDescription": "HPが50%以下で素早さ200%アップ、班の人数が3人以下のときスキルダメージ200%アップ、HP0以下で3回耐える",
+          "effectIdx1": "2487",
+          "effectIdx2": "2484",
+          "effectIdx3": "1789"
+        },
+        {
+          "abilityId": "2335",
+          "abilityName": "絶望を払う砂礫",
+          "abilityDescription": "敵に滅キャラがいると、バトル開始時に敵全体を特殊状態「流砂」にする",
+          "abilityEffectDescription": "敵に滅キャラがいると、バトル開始時に敵全体を特殊状態「流砂」にする",
+          "effectIdx1": "2492",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2336",
+          "abilityName": "希望を守る砂盾",
+          "abilityDescription": "HP0以下で1回耐える、3回行動まで素早さ150%アップ",
+          "abilityEffectDescription": "HP0以下で1回耐える、3回行動まで素早さ150%アップ",
+          "effectIdx1": "312",
+          "effectIdx2": "1187",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
