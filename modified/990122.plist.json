@@ -2687,6 +2687,66 @@
           "voiceDeath": "gaara_death_02_03"
         },
         {
+          "cardVoiceId": "227",
+          "cardId": "20050904",
+          "dirName": "obito",
+          "evolutionStep": "",
+          "voiceAppear": "obito_battle_02_08",
+          "voiceSkill1": "obito_attack_02_02,obito_win_02_08",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "obito_win_02_09",
+          "voiceDeath": "obito_death_02_09"
+        },
+        {
+          "cardVoiceId": "228",
+          "cardId": "20050912",
+          "dirName": "kakasi",
+          "evolutionStep": "",
+          "voiceAppear": "kakashi_battle_04_01",
+          "voiceSkill1": "kakashi_attack_04_02",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "kakashi_win_04_01",
+          "voiceDeath": "kakashi_death_04_02"
+        },
+        {
+          "cardVoiceId": "229",
+          "cardId": "20050913",
+          "dirName": "obito",
+          "evolutionStep": "",
+          "voiceAppear": "obito_battle_04_01",
+          "voiceSkill1": "obito_attack_04_01",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "obito_win_04_01",
+          "voiceDeath": "obito_death_04_01"
+        },
+        {
+          "cardVoiceId": "230",
+          "cardId": "20050914",
+          "dirName": "rin",
+          "evolutionStep": "",
+          "voiceAppear": "rin_battle_04_01",
+          "voiceSkill1": "rin_attack_04_01",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "rin_win_04_01",
+          "voiceDeath": "rin_death_04_01"
+        },
+        {
+          "cardVoiceId": "231",
+          "cardId": "20050916",
+          "dirName": "kakasi",
+          "evolutionStep": "",
+          "voiceAppear": "kakasi_battle_02_06",
+          "voiceSkill1": "kakasi_skill_02_20",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "kakasi_win_02_03",
+          "voiceDeath": "kakasi_death_02_07"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

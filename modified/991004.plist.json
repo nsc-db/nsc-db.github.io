@@ -4451,6 +4451,12 @@
           "speechCharactorName": "火ノ寺の僧侶"
         },
         {
+          "speechCharactorId": "758",
+          "cardId": "758",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "はたけサクモ"
+        },
+        {
           "speechCharactorId": "759",
           "cardId": "20050401",
           "speechCharactorImgId": "0",
@@ -4467,6 +4473,12 @@
           "cardId": "20000641",
           "speechCharactorImgId": "0",
           "speechCharactorName": "???"
+        },
+        {
+          "speechCharactorId": "763",
+          "cardId": "763",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "はたけカカシ"
         },
         {
           "speechCharactorId": "765",
@@ -4497,6 +4509,12 @@
           "cardId": "20040403",
           "speechCharactorImgId": "0",
           "speechCharactorName": "奈良シカマル"
+        },
+        {
+          "speechCharactorId": "789",
+          "cardId": "50000004",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "岩隠れの忍"
         },
         {
           "speechCharactorId": "1000",

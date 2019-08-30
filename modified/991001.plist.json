@@ -84114,6 +84114,601 @@
           "message": "（久々に……楽しかったぜ！！）"
         },
         {
+          "scriptMessageId": "29318",
+          "speechCharactorId": "134",
+          "message": "土遁・岩宿崩し！"
+        },
+        {
+          "scriptMessageId": "29319",
+          "speechCharactorId": "138",
+          "message": "…！！"
+        },
+        {
+          "scriptMessageId": "29320",
+          "speechCharactorId": "144",
+          "message": "ヤバい！"
+        },
+        {
+          "scriptMessageId": "29321",
+          "speechCharactorId": "138",
+          "message": "みんな出口へ走れ！"
+        },
+        {
+          "scriptMessageId": "29322",
+          "speechCharactorId": "138",
+          "message": "くっ…\r\n(…左目の死角に…)"
+        },
+        {
+          "scriptMessageId": "29323",
+          "speechCharactorId": "143",
+          "message": "カカシ！"
+        },
+        {
+          "scriptMessageId": "29324",
+          "speechCharactorId": "144",
+          "message": "…大丈夫か…\r\nリン…\r\nカカシ…"
+        },
+        {
+          "scriptMessageId": "29325",
+          "speechCharactorId": "138",
+          "message": "オビト！！"
+        },
+        {
+          "scriptMessageId": "29326",
+          "speechCharactorId": "144",
+          "message": "オレ…だけ…\r\nお前に上忍祝いのプレゼント…\r\nやってなかったな……カカシ…"
+        },
+        {
+          "scriptMessageId": "29327",
+          "speechCharactorId": "138",
+          "message": "………"
+        },
+        {
+          "scriptMessageId": "29328",
+          "speechCharactorId": "144",
+          "message": "この…オレの写輪眼を…やるからよ"
+        },
+        {
+          "scriptMessageId": "29329",
+          "speechCharactorId": "144",
+          "message": "…オレは、もう…死ぬ"
+        },
+        {
+          "scriptMessageId": "29330",
+          "speechCharactorId": "144",
+          "message": "…けど…お前の目になって…\r\nこれから先を見てやるからよ…"
+        },
+        {
+          "scriptMessageId": "29331",
+          "speechCharactorId": "138",
+          "message": "………"
+        },
+        {
+          "scriptMessageId": "29332",
+          "speechCharactorId": "134",
+          "message": "しぶてーな…まだ生きてやがったか\r\nが…やっぱガキだな\r\n忍が何泣いてやがる…"
+        },
+        {
+          "scriptMessageId": "29333",
+          "speechCharactorId": "134",
+          "message": "来な、泣き虫！\r\nケリつけてやるぜ"
+        },
+        {
+          "scriptMessageId": "29334",
+          "speechCharactorId": "144",
+          "message": "…カカシ……リンを…頼むぜ…"
+        },
+        {
+          "scriptMessageId": "29335",
+          "speechCharactorId": "141",
+          "message": "ああ…"
+        },
+        {
+          "scriptMessageId": "29336",
+          "speechCharactorId": "144",
+          "message": "…カカシ…リンを…リンを連れて…\r\n早く…ここを離れろ……"
+        },
+        {
+          "scriptMessageId": "29337",
+          "speechCharactorId": "143",
+          "message": "………オビト……"
+        },
+        {
+          "scriptMessageId": "29338",
+          "speechCharactorId": "144",
+          "message": "…いいから…行け…！"
+        },
+        {
+          "scriptMessageId": "29339",
+          "speechCharactorId": "789",
+          "message": "土遁・裂土転掌！！！"
+        },
+        {
+          "scriptMessageId": "29340",
+          "speechCharactorId": "141",
+          "message": "リン！早くつかまれ！！"
+        },
+        {
+          "scriptMessageId": "29341",
+          "speechCharactorId": "144",
+          "message": "…里の奴ら…が…何て言おうと…\r\n…お前は…立派な上忍だ…"
+        },
+        {
+          "scriptMessageId": "29342",
+          "speechCharactorId": "144",
+          "message": "それが…オレの気持ちだ…\r\n受け取ってくれ…"
+        },
+        {
+          "scriptMessageId": "29343",
+          "speechCharactorId": "144",
+          "message": "リン…お前の…医療忍術で…\r\n…オレの写輪眼を…眼軸ごと…"
+        },
+        {
+          "scriptMessageId": "29344",
+          "speechCharactorId": "144",
+          "message": "…カカシの左目に……\r\n移植してくれ………"
+        },
+        {
+          "scriptMessageId": "29345",
+          "speechCharactorId": "143",
+          "message": "…カカシ、こっちに来て…！\r\nすぐ始めるから！"
+        },
+        {
+          "scriptMessageId": "29346",
+          "speechCharactorId": "138",
+          "message": "………"
+        },
+        {
+          "scriptMessageId": "29347",
+          "speechCharactorId": "141",
+          "message": "…オレは……リンを…"
+        },
+        {
+          "scriptMessageId": "29348",
+          "speechCharactorId": "141",
+          "message": "………"
+        },
+        {
+          "scriptMessageId": "29349",
+          "speechCharactorId": "623",
+          "message": "…カカシ…"
+        },
+        {
+          "scriptMessageId": "29350",
+          "speechCharactorId": "141",
+          "message": "………"
+        },
+        {
+          "scriptMessageId": "29351",
+          "speechCharactorId": "141",
+          "message": "…リン…"
+        },
+        {
+          "scriptMessageId": "29352",
+          "speechCharactorId": "141",
+          "message": "………"
+        },
+        {
+          "scriptMessageId": "29353",
+          "speechCharactorId": "141",
+          "message": "……"
+        },
+        {
+          "scriptMessageId": "29354",
+          "speechCharactorId": "141",
+          "message": "…"
+        },
+        {
+          "scriptMessageId": "29355",
+          "speechCharactorId": "623",
+          "message": "カカシ、すぐに私を殺して！"
+        },
+        {
+          "scriptMessageId": "29356",
+          "speechCharactorId": "623",
+          "message": "私は利用されてる…！\r\nこのままだと木ノ葉を \r\n襲うかもしれないの！"
+        },
+        {
+          "scriptMessageId": "29357",
+          "speechCharactorId": "141",
+          "message": "オビトにお前を守ると約束した！\r\nそんなことは絶対にできない！\r\n何か別の方法が…"
+        },
+        {
+          "scriptMessageId": "29358",
+          "speechCharactorId": "141",
+          "message": "………"
+        },
+        {
+          "scriptMessageId": "29359",
+          "speechCharactorId": "141",
+          "message": "…オレは……リンを…"
+        },
+        {
+          "scriptMessageId": "29360",
+          "speechCharactorId": "141",
+          "message": "オビトとの約束を…"
+        },
+        {
+          "scriptMessageId": "29361",
+          "speechCharactorId": "141",
+          "message": "守れなかった"
+        },
+        {
+          "scriptMessageId": "29362",
+          "speechCharactorId": "141",
+          "message": "…………"
+        },
+        {
+          "scriptMessageId": "29363",
+          "speechCharactorId": "141",
+          "message": "オビト…リン…"
+        },
+        {
+          "scriptMessageId": "29364",
+          "speechCharactorId": "138",
+          "message": "遅いぞオビト！"
+        },
+        {
+          "scriptMessageId": "29365",
+          "speechCharactorId": "485",
+          "message": "やっと来たね…\r\n君がオビトか"
+        },
+        {
+          "scriptMessageId": "29366",
+          "speechCharactorId": "140",
+          "message": "待ってたよ"
+        },
+        {
+          "scriptMessageId": "29367",
+          "speechCharactorId": "139",
+          "message": "ギリか…"
+        },
+        {
+          "scriptMessageId": "29368",
+          "speechCharactorId": "138",
+          "message": "大遅刻だよ！"
+        },
+        {
+          "scriptMessageId": "29369",
+          "speechCharactorId": "485",
+          "message": "…では\r\n忍組手始め！"
+        },
+        {
+          "scriptMessageId": "29370",
+          "speechCharactorId": "485",
+          "message": "組手は終わり\r\nカカシの勝ちだね\r\nさあ和解の印を――"
+        },
+        {
+          "scriptMessageId": "29371",
+          "speechCharactorId": "138",
+          "message": "お前は何も分かっちゃいない！\r\n掟を破った奴がどうなるか…"
+        },
+        {
+          "scriptMessageId": "29372",
+          "speechCharactorId": "139",
+          "message": "オレは\"白い牙\"を本当の英雄だと\r\n思ってる…"
+        },
+        {
+          "scriptMessageId": "29373",
+          "speechCharactorId": "139",
+          "message": "…確かに忍者の世界でルールや\r\n掟を破る奴は、クズ呼ばわりされる…"
+        },
+        {
+          "scriptMessageId": "29374",
+          "speechCharactorId": "139",
+          "message": "けどな…"
+        },
+        {
+          "scriptMessageId": "29375",
+          "speechCharactorId": "139",
+          "message": "仲間を大切にしない奴は\r\nそれ以上のクズだ"
+        },
+        {
+          "scriptMessageId": "29376",
+          "speechCharactorId": "695",
+          "message": "………"
+        },
+        {
+          "scriptMessageId": "29377",
+          "speechCharactorId": "695",
+          "message": "ここに来ると…\r\n昔のバカだった自分を\r\nいつまでもいましめたくなる…"
+        },
+        {
+          "scriptMessageId": "29378",
+          "speechCharactorId": "695",
+          "message": "今日はやめよって……"
+        },
+        {
+          "scriptMessageId": "29379",
+          "speechCharactorId": "97",
+          "message": "お互い４８勝同士！！\r\nこの勝負でどちらかが抜きに出る！"
+        },
+        {
+          "scriptMessageId": "29380",
+          "speechCharactorId": "97",
+          "message": "決して負けんぞォ！！\r\nもし負けたら木ノ葉の里を\r\n逆立ちで５００周やってやる！！"
+        },
+        {
+          "scriptMessageId": "29381",
+          "speechCharactorId": "97",
+          "message": "約束だ！！！"
+        },
+        {
+          "scriptMessageId": "29382",
+          "speechCharactorId": "695",
+          "message": "またムチャを…\r\n出たよ…またお得意の自分ルール…"
+        },
+        {
+          "scriptMessageId": "29383",
+          "speechCharactorId": "695",
+          "message": "（そういえばガイとの出会いは…）"
+        },
+        {
+          "scriptMessageId": "29384",
+          "speechCharactorId": "758",
+          "message": "あ！\r\n初めまして…うちの子がこれから\r\nアカデミーでお世話になります…"
+        },
+        {
+          "scriptMessageId": "29385",
+          "speechCharactorId": "758",
+          "message": "仲良くしてやって下さいね"
+        },
+        {
+          "scriptMessageId": "29386",
+          "speechCharactorId": "240",
+          "message": "イヤ、それは無理ですな！"
+        },
+        {
+          "scriptMessageId": "29387",
+          "speechCharactorId": "758",
+          "message": "…え！？"
+        },
+        {
+          "scriptMessageId": "29388",
+          "speechCharactorId": "763",
+          "message": "イヤ…父さん違うんだよ\r\n今回こいつは――\r\nアカデミー試験に落ちたの"
+        },
+        {
+          "scriptMessageId": "29389",
+          "speechCharactorId": "758",
+          "message": "………そ…それは失礼しました\r\nアカデミーの前だったものでつい…"
+        },
+        {
+          "scriptMessageId": "29390",
+          "speechCharactorId": "240",
+          "message": "ガハハハそういう訳なんですよ！！"
+        },
+        {
+          "scriptMessageId": "29391",
+          "speechCharactorId": "763",
+          "message": "そこ笑うとこなの？"
+        },
+        {
+          "scriptMessageId": "29392",
+          "speechCharactorId": "758",
+          "message": "コラ、カカシ失礼だぞ！"
+        },
+        {
+          "scriptMessageId": "29393",
+          "speechCharactorId": "763",
+          "message": "父さんの方がもう\r\n失礼かましちゃってるでしょ"
+        },
+        {
+          "scriptMessageId": "29394",
+          "speechCharactorId": "763",
+          "message": "だいたいこいつは忍者アカデミーに\r\n入ろうとしてんのに忍術使えない \r\nみたいだし…どう考えたって…"
+        },
+        {
+          "scriptMessageId": "29395",
+          "speechCharactorId": "763",
+          "message": "…と…そろそろ行かないと \r\n時間に遅れちゃうよ父さん"
+        },
+        {
+          "scriptMessageId": "29396",
+          "speechCharactorId": "758",
+          "message": "…あ…ああ\r\nでは…"
+        },
+        {
+          "scriptMessageId": "29397",
+          "speechCharactorId": "758",
+          "message": "カカシ…アカデミー入学が決まった\r\nからってうかうかしてられないよ"
+        },
+        {
+          "scriptMessageId": "29398",
+          "speechCharactorId": "758",
+          "message": "このままいくとあの子は\r\nお前よりも強くなる"
+        },
+        {
+          "scriptMessageId": "29399",
+          "speechCharactorId": "758",
+          "message": "彼の名前を聞いて覚えておくといい…\r\nいいライバルになるよ"
+        },
+        {
+          "scriptMessageId": "29400",
+          "speechCharactorId": "695",
+          "message": "（本当に父さんの \r\n言った通りだったよ…）"
+        },
+        {
+          "scriptMessageId": "29401",
+          "speechCharactorId": "112",
+          "message": "しつこい奴らだ…"
+        },
+        {
+          "scriptMessageId": "29402",
+          "speechCharactorId": "254",
+          "message": "（くそ！\r\nチョウジを狙う気か！？）"
+        },
+        {
+          "scriptMessageId": "29403",
+          "speechCharactorId": "254",
+          "message": "走れチョウジ！！"
+        },
+        {
+          "scriptMessageId": "29404",
+          "speechCharactorId": "254",
+          "message": "（おそらく今のチャクラでは\r\nこいつの体全体は無理だ）"
+        },
+        {
+          "scriptMessageId": "29405",
+          "speechCharactorId": "254",
+          "message": "（それに…もう一度使えば\r\n全てのスタミナとチャクラを \r\n使い切る事になる…）"
+        },
+        {
+          "scriptMessageId": "29406",
+          "speechCharactorId": "254",
+          "message": "（オレは確実に―――死ぬ！）"
+        },
+        {
+          "scriptMessageId": "29407",
+          "speechCharactorId": "254",
+          "message": "（だが今は生きている者に\r\nこの情報を託す事！ \r\nそれが―――）"
+        },
+        {
+          "scriptMessageId": "29408",
+          "speechCharactorId": "254",
+          "message": "（木ノ葉を救うため\r\n今のオレが取れる最善の方法！！）"
+        },
+        {
+          "scriptMessageId": "29409",
+          "speechCharactorId": "254",
+          "message": "（ま…どうやらオレも…\r\nここまでのようだよ\r\nオビト…リン…）"
+        },
+        {
+          "scriptMessageId": "29410",
+          "speechCharactorId": "254",
+          "message": "（オビト…）"
+        },
+        {
+          "scriptMessageId": "29411",
+          "speechCharactorId": "254",
+          "message": "（………お前の目になって\r\n先を見すえるのは……\r\nどうやらここまでのようだ）"
+        },
+        {
+          "scriptMessageId": "29412",
+          "speechCharactorId": "254",
+          "message": "（…リンを守れなかったオレだ\r\nお前との約束を \r\n破ってばっかりだが…\r\n許してくれ…）"
+        },
+        {
+          "scriptMessageId": "29413",
+          "speechCharactorId": "254",
+          "message": "（オビト…リン…先生…\r\n…オレも…今からそっちへ行くよ）"
+        },
+        {
+          "scriptMessageId": "29414",
+          "speechCharactorId": "758",
+          "message": "カカシか…？"
+        },
+        {
+          "scriptMessageId": "29415",
+          "speechCharactorId": "254",
+          "message": "…こんな所に居たんだ…"
+        },
+        {
+          "scriptMessageId": "29416",
+          "speechCharactorId": "758",
+          "message": "お前の話を聞かせてくれないか？"
+        },
+        {
+          "scriptMessageId": "29417",
+          "speechCharactorId": "254",
+          "message": "ああ……\r\nすごく長くなるから\r\nゆっくり話したいんだけど…"
+        },
+        {
+          "scriptMessageId": "29418",
+          "speechCharactorId": "758",
+          "message": "ああ…いいさ"
+        },
+        {
+          "scriptMessageId": "29419",
+          "speechCharactorId": "254",
+          "message": "あのね父さん"
+        },
+        {
+          "scriptMessageId": "29420",
+          "speechCharactorId": "758",
+          "message": "そうか……お前もそれなりに\r\n大変だったようだな……"
+        },
+        {
+          "scriptMessageId": "29421",
+          "speechCharactorId": "758",
+          "message": "しかし…お前もオレも\r\nこう早死にするとはな…"
+        },
+        {
+          "scriptMessageId": "29422",
+          "speechCharactorId": "254",
+          "message": "………"
+        },
+        {
+          "scriptMessageId": "29423",
+          "speechCharactorId": "758",
+          "message": "母さんほどじゃなかったが……"
+        },
+        {
+          "scriptMessageId": "29424",
+          "speechCharactorId": "254",
+          "message": "……結果はどうであれ\r\n父さんは精一杯やったよ"
+        },
+        {
+          "scriptMessageId": "29425",
+          "speechCharactorId": "254",
+          "message": "今なら父さんを理解できる…\r\n皆のために掟を破った父さんを――"
+        },
+        {
+          "scriptMessageId": "29426",
+          "speechCharactorId": "254",
+          "message": "今は誇りに思う"
+        },
+        {
+          "scriptMessageId": "29427",
+          "speechCharactorId": "758",
+          "message": "ありがとう…"
+        },
+        {
+          "scriptMessageId": "29428",
+          "speechCharactorId": "254",
+          "message": "…これは？"
+        },
+        {
+          "scriptMessageId": "29429",
+          "speechCharactorId": "758",
+          "message": "どうやらお前は\r\nまだここに来るには\r\n早過ぎたようだ"
+        },
+        {
+          "scriptMessageId": "29430",
+          "speechCharactorId": "758",
+          "message": "お前にはまだ \r\nやるべき事があるはずだ"
+        },
+        {
+          "scriptMessageId": "29431",
+          "speechCharactorId": "758",
+          "message": "お前と話せてよかった\r\nオレを許してくれてありがとう…\r\nこれで安心して行ける"
+        },
+        {
+          "scriptMessageId": "29432",
+          "speechCharactorId": "758",
+          "message": "母さんにやっと会えるよ…"
+        },
+        {
+          "scriptMessageId": "29433",
+          "speechCharactorId": "254",
+          "message": "……これは？"
+        },
+        {
+          "scriptMessageId": "29434",
+          "speechCharactorId": "165",
+          "message": "カカシ先生！！"
+        },
+        {
+          "scriptMessageId": "29435",
+          "speechCharactorId": "254",
+          "message": "（…父さん……まだまだオレは\r\nそっちには行けないってことか）"
+        },
+        {
+          "scriptMessageId": "29436",
+          "speechCharactorId": "254",
+          "message": "（オビト…リン…先生…\r\n見ていてくれ…）"
+        },
+        {
           "scriptMessageId": "40001",
           "speechCharactorId": "178",
           "message": "絶望しかないこの世界に\r\n存在する価値はない"

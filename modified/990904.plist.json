@@ -519,12 +519,12 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
-          "worldStageId": "4101",
+          "worldStageId": "4102",
           "worldAreaId": "5",
           "priority": "1",
-          "name": "夏だ！海だ！忍だ！！リターンズ",
-          "description": "Ptランキング開催！「ビーチフラッグ」はイベント期間中のみ加算されます",
-          "notice": "※イベントの内容及び日程は告知なく変更となる場合がございます。",
+          "name": "NARUTO軌跡集-和解の印-後篇",
+          "description": "与えたダメージの1/10000が個人Ptとなります。個人Ptはイベント期間中のみ加算されます。",
+          "notice": "※個人Pt報酬は、達成と同時に直接付与されます。\r\n※報酬の付与にはお時間をいただく場合がございます。\r\n※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
           "type": "0",
           "prerequisiteWorldStageId": "0",
           "openWeek": null,
@@ -532,12 +532,12 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
-          "worldStageId": "4102",
+          "worldStageId": "4103",
           "worldAreaId": "5",
           "priority": "1",
-          "name": "NARUTO軌跡集-和解の印-後篇",
-          "description": "与えたダメージの1/10000が個人Ptとなります。個人Ptはイベント期間中のみ加算されます。",
-          "notice": "※個人Pt報酬は、達成と同時に直接付与されます。\r\n※報酬の付与にはお時間をいただく場合がございます。\r\n※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
+          "name": "英雄録～カカシ・追憶と覚悟",
+          "description": "Ptランキング開催！\r\n個人Ptはイベント期間中のみ加算されます",
+          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
           "type": "0",
           "prerequisiteWorldStageId": "0",
           "openWeek": null,

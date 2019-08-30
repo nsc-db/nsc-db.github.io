@@ -20546,6 +20546,114 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2337",
+          "abilityName": "夢を託す先達",
+          "abilityDescription": "敵に「カグヤ」がいると素早さ300%アップ、味方に「カカシ」がいるとスキル発動速度1段階アップ",
+          "abilityEffectDescription": "敵に「カグヤ」がいると素早さ300%アップ、味方に「カカシ」がいるとスキル発動速度1段階アップ",
+          "effectIdx1": "2494",
+          "effectIdx2": "2495",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2338",
+          "abilityName": "去りゆく者の箴言",
+          "abilityDescription": "3回行動まで「はたけカカシ（年代問わず）」への単体スキル攻撃を受ける",
+          "abilityEffectDescription": "3回行動まで「はたけカカシ（年代問わず）」への単体スキル攻撃を受ける",
+          "effectIdx1": "2497",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2339",
+          "abilityName": "“木ノ葉の白い牙”の子",
+          "abilityDescription": "行動するたびに素早さが50%アップ（最大3回まで）",
+          "abilityEffectDescription": "行動するたびに素早さが50%アップ（最大3回まで）",
+          "effectIdx1": "2501",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2340",
+          "abilityName": "掟を越えて動く心",
+          "abilityDescription": "1回行動するまで素早さ200%アップ＆スキル発動速度2段階アップ＆キャンセル無効",
+          "abilityEffectDescription": "1回行動するまで素早さ200%アップ＆スキル発動速度2段階アップ＆キャンセル無効",
+          "effectIdx1": "1800",
+          "effectIdx2": "1540",
+          "effectIdx3": "1804"
+        },
+        {
+          "abilityId": "2341",
+          "abilityName": "写輪眼目覚めの時",
+          "abilityDescription": "5回行動以降、スキルダメージ200%アップ",
+          "abilityEffectDescription": "5回行動以降、スキルダメージ200%アップ",
+          "effectIdx1": "2502",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2342",
+          "abilityName": "友想いし心",
+          "abilityDescription": "死亡した時、味方全体の素早さ、スキルダメージを200%アップ",
+          "abilityEffectDescription": "死亡した時、味方全体の素早さ、スキルダメージを200%アップ",
+          "effectIdx1": "2503",
+          "effectIdx2": "2504",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2343",
+          "abilityName": "仲間への友愛",
+          "abilityDescription": "2回行動するまでキャンセル無効",
+          "abilityEffectDescription": "2回行動するまでキャンセル無効",
+          "effectIdx1": "1839",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2344",
+          "abilityName": "友への慈しみ",
+          "abilityDescription": "状態異常無効、3回行動するまで高確率でスキル回避、死亡した時、味方全体のスキル発動速度1段階アップ",
+          "abilityEffectDescription": "状態異常無効、3回行動するまで高確率でスキル回避、死亡した時、味方全体のスキル発動速度1段階アップ",
+          "effectIdx1": "82",
+          "effectIdx2": "2508",
+          "effectIdx3": "2505"
+        },
+        {
+          "abilityId": "2347",
+          "abilityName": "面目躍如の時",
+          "abilityDescription": "3回行動するまでスキップ無効、HP0以下で1回HP全回復",
+          "abilityEffectDescription": "3回行動するまでスキップ無効、HP0以下で1回HP全回復",
+          "effectIdx1": "2382",
+          "effectIdx2": "312",
+          "effectIdx3": "874"
+        },
+        {
+          "abilityId": "2348",
+          "abilityName": "勇武の巨装",
+          "abilityDescription": "最大ﾁｬｸﾗ量200ｱｯﾌﾟ、1回行動するまで全ｽｷﾙ無効、敵に無所属がいるとﾊﾞﾄﾙ開始時に確率で先制攻撃",
+          "abilityEffectDescription": "最大ﾁｬｸﾗ量200ｱｯﾌﾟ、1回行動するまで全ｽｷﾙ無効、敵に無所属がいるとﾊﾞﾄﾙ開始時に確率で先制攻撃",
+          "effectIdx1": "20019",
+          "effectIdx2": "1794",
+          "effectIdx3": "2509"
+        },
+        {
+          "abilityId": "2349",
+          "abilityName": "千食万来",
+          "abilityDescription": "班の木ノ葉隠れの里所属のキャラ1体につき、素早さが20%アップ（自身含む）",
+          "abilityEffectDescription": "班の木ノ葉隠れの里所属のキャラ1体につき、素早さが20%アップ（自身含む）",
+          "effectIdx1": "1106",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2350",
+          "abilityName": "友達思い",
+          "abilityDescription": "確率でスキルを回避、弱体と状態異常を半減する",
+          "abilityEffectDescription": "確率でスキルを回避、弱体と状態異常を半減する",
+          "effectIdx1": "679",
+          "effectIdx2": "776",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -21462,6 +21570,15 @@
           "effectIdx1": "1751",
           "effectIdx2": "112",
           "effectIdx3": "2467"
+        },
+        {
+          "abilityId": "100058",
+          "abilityName": "去りゆく者の箴言",
+          "abilityDescription": "3回行動まで「はたけカカシ（年代問わず）」への単体ｽｷﾙ攻撃を受ける、死亡した時味方全員を短い間蘇状態にする",
+          "abilityEffectDescription": "3回行動まで「はたけカカシ（年代問わず）」への単体ｽｷﾙ攻撃を受ける、死亡した時味方全員を短い間蘇状態にする",
+          "effectIdx1": "2497",
+          "effectIdx2": "2498",
+          "effectIdx3": "0"
         },
         {
           "abilityId": "200001",

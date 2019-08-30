@@ -2267,5 +2267,25 @@
           "subScore": "0",
           "color": "8355711",
           "type": "3"
+        },
+        {
+          "cardUnusualId": "231",
+          "category": "3",
+          "iconId": "1262",
+          "name": "連携",
+          "description": "行動直後に特定キャラをアクション状態にする",
+          "subScore": "0",
+          "color": "16711680",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "232",
+          "category": "4",
+          "iconId": "1263",
+          "name": "コピー",
+          "description": "攻撃を受けるたびにステータスアップ、一度攻撃を受けたスキルタイプを無効化し、それ以降、反撃ダメージ",
+          "subScore": "0",
+          "color": "49151",
+          "type": "2"
         }
       ]

@@ -6257,6 +6257,34 @@
           "gender": "1"
         },
         {
+          "charaProfileId": "131402",
+          "charaId": "1314",
+          "name": "オビトの記憶の欠片(上)",
+          "detail": null,
+          "charaLoveAffinityGroupId": "0",
+          "birthday": "0",
+          "constellation": "0",
+          "height": "0",
+          "weight": "0",
+          "bloodType": "0",
+          "age": "0",
+          "gender": "1"
+        },
+        {
+          "charaProfileId": "131403",
+          "charaId": "1314",
+          "name": "オビトの記憶の欠片(下)",
+          "detail": null,
+          "charaLoveAffinityGroupId": "0",
+          "birthday": "0",
+          "constellation": "0",
+          "height": "0",
+          "weight": "0",
+          "bloodType": "0",
+          "age": "0",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "700101",
           "charaId": "7001",
           "name": "ナルト＆イルカ",
