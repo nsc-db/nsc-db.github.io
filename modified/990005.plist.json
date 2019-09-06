@@ -859,6 +859,36 @@
           "enemyEffects": "50001,80015,"
         },
         {
+          "battleFieldEffectId": "96",
+          "name": "キング・オブ・ダメラン-特別篇-　～いつもの～",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "12121,1840,13101,2254,1750,",
+          "enemyEffects": "50001,80000,"
+        },
+        {
+          "battleFieldEffectId": "97",
+          "name": "キング・オブ・ダメラン-特別篇-　～超速～",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "12121,1840,13099,2254,",
+          "enemyEffects": "50001,"
+        },
+        {
+          "battleFieldEffectId": "98",
+          "name": "キング・オブ・ダメラン-特別篇-　～一撃～",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "12069,1840,13099,2254,",
+          "enemyEffects": "50005,"
+        },
+        {
           "battleFieldEffectId": "10001",
           "name": "始球空間",
           "category": "3",
