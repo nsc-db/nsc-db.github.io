@@ -20654,6 +20654,42 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2353",
+          "abilityName": "咆えよ我が痛み",
+          "abilityDescription": "敵に神忍祭限定ｷｬﾗが生存していると、素早さ333%ｱｯﾌﾟ＆ｽｷﾙ発動速度1段階ｱｯﾌﾟ＆確率で77%ﾀﾞﾒｰｼﾞｶｯﾄ",
+          "abilityEffectDescription": "敵に神忍祭限定ｷｬﾗが生存していると、素早さ333%ｱｯﾌﾟ＆ｽｷﾙ発動速度1段階ｱｯﾌﾟ＆確率で77%ﾀﾞﾒｰｼﾞｶｯﾄ",
+          "effectIdx1": "2521",
+          "effectIdx2": "2522",
+          "effectIdx3": "2523"
+        },
+        {
+          "abilityId": "2354",
+          "abilityName": "流れよ我が涙",
+          "abilityDescription": "最大チャクラ量150アップ、キャンセル無効",
+          "abilityEffectDescription": "最大チャクラ量150アップ、キャンセル無効",
+          "effectIdx1": "20014",
+          "effectIdx2": "1751",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2355",
+          "abilityName": "知勇兼備の忍",
+          "abilityDescription": "地形効果無効、最大チャクラ量250アップ",
+          "abilityEffectDescription": "地形効果無効、最大チャクラ量250アップ",
+          "effectIdx1": "2525",
+          "effectIdx2": "20044",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2356",
+          "abilityName": "遺志を宿す双眸",
+          "abilityDescription": "敵に破神キャラが生存していると再行動＆素早さ500%アップ※再行動後にさらに行動はできない",
+          "abilityEffectDescription": "敵に破神キャラが生存していると再行動＆素早さ500%アップ※再行動後にさらに行動はできない",
+          "effectIdx1": "2526",
+          "effectIdx2": "2527",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

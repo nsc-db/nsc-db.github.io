@@ -20047,6 +20047,38 @@
           "recipeName": "託す火影への夢"
         },
         {
+          "crystalId": "20903",
+          "crystalType": "1",
+          "crystalRare": "5",
+          "effectIdx1": "1541",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "外道魔像の龍",
+          "crystalDescription": "1回行動するまで素早さ50%アップ",
+          "crystalImageId": "209035",
+          "recipeId": "20903",
+          "recipeName": "外道魔像の龍"
+        },
+        {
+          "crystalId": "20904",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "2528",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "覚醒し輪廻眼の力",
+          "crystalDescription": "1回行動するまでスキルダメージ50%アップ",
+          "crystalImageId": "209045",
+          "recipeId": "20904",
+          "recipeName": "覚醒し輪廻眼の力"
+        },
+        {
           "crystalId": "20916",
           "crystalType": "1",
           "crystalRare": "5",
@@ -20093,6 +20125,22 @@
           "crystalImageId": "209205",
           "recipeId": "20920",
           "recipeName": "リンの包帯"
+        },
+        {
+          "crystalId": "20922",
+          "crystalType": "1",
+          "crystalRare": "5",
+          "effectIdx1": "1541",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "金のパックン根付",
+          "crystalDescription": "1回行動するまで素早さ50%アップ",
+          "crystalImageId": "209225",
+          "recipeId": "20922",
+          "recipeName": "金のパックン根付"
         },
         {
           "crystalId": "20923",

@@ -431,6 +431,78 @@
           "needCount": "3"
         },
         {
+          "worldPhaseKeyId": "73",
+          "keyGroupId": "10000",
+          "worldPhaseId": "600079",
+          "needCount": "1"
+        },
+        {
+          "worldPhaseKeyId": "74",
+          "keyGroupId": "10000",
+          "worldPhaseId": "600080",
+          "needCount": "2"
+        },
+        {
+          "worldPhaseKeyId": "75",
+          "keyGroupId": "10000",
+          "worldPhaseId": "600081",
+          "needCount": "2"
+        },
+        {
+          "worldPhaseKeyId": "76",
+          "keyGroupId": "10000",
+          "worldPhaseId": "600082",
+          "needCount": "2"
+        },
+        {
+          "worldPhaseKeyId": "77",
+          "keyGroupId": "10000",
+          "worldPhaseId": "600083",
+          "needCount": "2"
+        },
+        {
+          "worldPhaseKeyId": "78",
+          "keyGroupId": "10000",
+          "worldPhaseId": "600084",
+          "needCount": "2"
+        },
+        {
+          "worldPhaseKeyId": "79",
+          "keyGroupId": "10000",
+          "worldPhaseId": "600085",
+          "needCount": "2"
+        },
+        {
+          "worldPhaseKeyId": "80",
+          "keyGroupId": "10000",
+          "worldPhaseId": "600086",
+          "needCount": "2"
+        },
+        {
+          "worldPhaseKeyId": "81",
+          "keyGroupId": "10000",
+          "worldPhaseId": "600087",
+          "needCount": "2"
+        },
+        {
+          "worldPhaseKeyId": "82",
+          "keyGroupId": "10000",
+          "worldPhaseId": "600088",
+          "needCount": "2"
+        },
+        {
+          "worldPhaseKeyId": "83",
+          "keyGroupId": "10000",
+          "worldPhaseId": "600089",
+          "needCount": "2"
+        },
+        {
+          "worldPhaseKeyId": "84",
+          "keyGroupId": "10000",
+          "worldPhaseId": "600090",
+          "needCount": "2"
+        },
+        {
           "worldPhaseKeyId": "1001",
           "keyGroupId": "10000",
           "worldPhaseId": "610001",
