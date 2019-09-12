@@ -6352,12 +6352,232 @@ window.skillname=[
           "name": "ほう…オレと戦うだと…？"
         },
         {
+          "cardBattleSkillNameId": "2798",
+          "name": "割波・痛天脚"
+        },
+        {
+          "cardBattleSkillNameId": "2799",
+          "name": "ナンパ男相手に本気もないな"
+        },
+        {
+          "cardBattleSkillNameId": "2800",
+          "name": "トン遁・猪突猛進"
+        },
+        {
+          "cardBattleSkillNameId": "2801",
+          "name": "お静かにお願いしますね"
+        },
+        {
           "cardBattleSkillNameId": "2802",
           "name": "仙法・超尾獣螺旋手裏剣"
         },
         {
           "cardBattleSkillNameId": "2803",
           "name": "行くぞ皆ァ！！"
+        },
+        {
+          "cardBattleSkillNameId": "2804",
+          "name": "地爆天星・陽掌"
+        },
+        {
+          "cardBattleSkillNameId": "2805",
+          "name": "今一度愛の力を！"
+        },
+        {
+          "cardBattleSkillNameId": "2806",
+          "name": "地爆天星・陰掌"
+        },
+        {
+          "cardBattleSkillNameId": "2807",
+          "name": "膨大な力を感じる…"
+        },
+        {
+          "cardBattleSkillNameId": "2808",
+          "name": "完成体須佐能乎・双極閃"
+        },
+        {
+          "cardBattleSkillNameId": "2809",
+          "name": "オレが世界を見張り続ける"
+        },
+        {
+          "cardBattleSkillNameId": "2810",
+          "name": "烈断衝"
+        },
+        {
+          "cardBattleSkillNameId": "2811",
+          "name": "だから守りたい"
+        },
+        {
+          "cardBattleSkillNameId": "2812",
+          "name": "あまーい"
+        },
+        {
+          "cardBattleSkillNameId": "2813",
+          "name": "ふわふわ～"
+        },
+        {
+          "cardBattleSkillNameId": "2814",
+          "name": "百豪・桜花閃心"
+        },
+        {
+          "cardBattleSkillNameId": "2815",
+          "name": "だから…もう引かない！！"
+        },
+        {
+          "cardBattleSkillNameId": "2816",
+          "name": "尾獣玉・真打"
+        },
+        {
+          "cardBattleSkillNameId": "2817",
+          "name": "いくぜ…九喇嘛"
+        },
+        {
+          "cardBattleSkillNameId": "2818",
+          "name": "死司憑血・求血狂乱"
+        },
+        {
+          "cardBattleSkillNameId": "2819",
+          "name": "やっとあの痛みを味わえる…"
+        },
+        {
+          "cardBattleSkillNameId": "2820",
+          "name": "地怨虞・冥導の魔腕"
+        },
+        {
+          "cardBattleSkillNameId": "2821",
+          "name": "今日で死ぬぞ"
+        },
+        {
+          "cardBattleSkillNameId": "2822",
+          "name": "風遁・穿龍衝"
+        },
+        {
+          "cardBattleSkillNameId": "2823",
+          "name": "なめんな！"
+        },
+        {
+          "cardBattleSkillNameId": "2824",
+          "name": "共殺の灰骨・皆滅"
+        },
+        {
+          "cardBattleSkillNameId": "2825",
+          "name": "ワラワに隠し事は無駄だ"
+        },
+        {
+          "cardBattleSkillNameId": "2826",
+          "name": "共殺の灰骨・鬼哭陣"
+        },
+        {
+          "cardBattleSkillNameId": "2827",
+          "name": "チャクラを一つにする！！"
+        },
+        {
+          "cardBattleSkillNameId": "2828",
+          "name": "潰撃・ヒラメカレイ"
+        },
+        {
+          "cardBattleSkillNameId": "2829",
+          "name": "自信の力・イコール斬った数"
+        },
+        {
+          "cardBattleSkillNameId": "2830",
+          "name": "熔遁・石灰凝割裂"
+        },
+        {
+          "cardBattleSkillNameId": "2831",
+          "name": "そろそろ引退するか？"
+        },
+        {
+          "cardBattleSkillNameId": "2832",
+          "name": "黒秘技・山椒魚"
+        },
+        {
+          "cardBattleSkillNameId": "2833",
+          "name": "成功する事だけ考えろ！"
+        },
+        {
+          "cardBattleSkillNameId": "2834",
+          "name": "芭蕉扇・火の巻"
+        },
+        {
+          "cardBattleSkillNameId": "2835",
+          "name": "口は災いの元だ…"
+        },
+        {
+          "cardBattleSkillNameId": "2836",
+          "name": "紅葫蘆・縛言吸魂"
+        },
+        {
+          "cardBattleSkillNameId": "2837",
+          "name": "騙してなんぼの弁舌だ！"
+        },
+        {
+          "cardBattleSkillNameId": "2838",
+          "name": "砂枷・乱華砂時雨"
+        },
+        {
+          "cardBattleSkillNameId": "2839",
+          "name": "一緒に杯をかわそう"
+        },
+        {
+          "cardBattleSkillNameId": "2840",
+          "name": "神威・爆火封焼"
+        },
+        {
+          "cardBattleSkillNameId": "2841",
+          "name": "その忍道を貫き通せ"
+        },
+        {
+          "cardBattleSkillNameId": "2842",
+          "name": "連斬刃・千鳥"
+        },
+        {
+          "cardBattleSkillNameId": "2843",
+          "name": "これは父の形見だ"
+        },
+        {
+          "cardBattleSkillNameId": "2844",
+          "name": "豪火球・一閃"
+        },
+        {
+          "cardBattleSkillNameId": "2845",
+          "name": "口先だけにしたくないんだ…"
+        },
+        {
+          "cardBattleSkillNameId": "2846",
+          "name": "凛花一念"
+        },
+        {
+          "cardBattleSkillNameId": "2847",
+          "name": "こっちに来て…！"
+        },
+        {
+          "cardBattleSkillNameId": "2848",
+          "name": "神威雷切・裂空"
+        },
+        {
+          "cardBattleSkillNameId": "2849",
+          "name": "神威の力を…手裏剣に！！"
+        },
+        {
+          "cardBattleSkillNameId": "2850",
+          "name": "肉弾戦車・増々"
+        },
+        {
+          "cardBattleSkillNameId": "2851",
+          "name": "ぽっちゃり系バンザーイ！！"
+        },
+        {
+          "cardBattleSkillNameId": "2857",
+          "name": "じっとしてろ…"
+        },
+        {
+          "cardBattleSkillNameId": "2858",
+          "name": "須佐能乎・雷響閃"
+        },
+        {
+          "cardBattleSkillNameId": "2859",
+          "name": "集まれ、作戦を伝える"
         },
         {
           "cardBattleSkillNameId": "10136",
@@ -6510,6 +6730,14 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "20902",
           "name": "単体攻撃＋？"
+        },
+        {
+          "cardBattleSkillNameId": "21000",
+          "name": "私がアンタらを誘い込んだのさ！"
+        },
+        {
+          "cardBattleSkillNameId": "21001",
+          "name": "逃がすわけにはいかない"
         },
         {
           "cardBattleSkillNameId": "21100",
