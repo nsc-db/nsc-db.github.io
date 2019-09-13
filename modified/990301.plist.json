@@ -20079,6 +20079,38 @@
           "recipeName": "覚醒し輪廻眼の力"
         },
         {
+          "crystalId": "20907",
+          "crystalType": "3",
+          "crystalRare": "5",
+          "effectIdx1": "2537",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "ガイの木ノ葉ベスト",
+          "crystalDescription": "低確率で再行動※再行動後さらに行動はできない",
+          "crystalImageId": "209075",
+          "recipeId": "20907",
+          "recipeName": "ガイの木ノ葉ベスト"
+        },
+        {
+          "crystalId": "20908",
+          "crystalType": "1",
+          "crystalRare": "5",
+          "effectIdx1": "182",
+          "effectIdx2": "110",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "木ノ葉最強の体術",
+          "crystalDescription": "攻撃力30%アップ、素早さ30%アップ",
+          "crystalImageId": "209085",
+          "recipeId": "20908",
+          "recipeName": "木ノ葉最強の体術"
+        },
+        {
           "crystalId": "20916",
           "crystalType": "1",
           "crystalRare": "5",

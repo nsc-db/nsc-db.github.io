@@ -57000,7 +57000,7 @@
         },
         {
           "scriptMessageId": "23892",
-          "speechCharactorId": "470",
+          "speechCharactorId": "826",
           "message": "弾いただと！\r\nどうやった！？"
         },
         {
@@ -57070,7 +57070,7 @@
         },
         {
           "scriptMessageId": "23906",
-          "speechCharactorId": "470",
+          "speechCharactorId": "826",
           "message": "アレに触れたら死ぬぞ！！"
         },
         {
@@ -84707,6 +84707,821 @@
           "scriptMessageId": "29436",
           "speechCharactorId": "254",
           "message": "（オビト…リン…先生…\r\n見ていてくれ…）"
+        },
+        {
+          "scriptMessageId": "29437",
+          "speechCharactorId": "97",
+          "message": "まったく！青春してるなー！\r\nお前らーっ！！！"
+        },
+        {
+          "scriptMessageId": "29438",
+          "speechCharactorId": "6",
+          "message": "ス…スゲー激眉…\r\nオレってばあんなの初めて見た…"
+        },
+        {
+          "scriptMessageId": "29439",
+          "speechCharactorId": "97",
+          "message": "それよりカカシ先生は元気かい？\r\n君達！"
+        },
+        {
+          "scriptMessageId": "29440",
+          "speechCharactorId": "16",
+          "message": "カカシを知ってんのか……？"
+        },
+        {
+          "scriptMessageId": "29441",
+          "speechCharactorId": "97",
+          "message": "知ってるも何も……\r\nクク……"
+        },
+        {
+          "scriptMessageId": "29442",
+          "speechCharactorId": "16",
+          "message": "（――え！？）"
+        },
+        {
+          "scriptMessageId": "29443",
+          "speechCharactorId": "97",
+          "message": "人は僕らのことを\r\n「永遠のライバル」と呼ぶよ…"
+        },
+        {
+          "scriptMessageId": "29444",
+          "speechCharactorId": "97",
+          "message": "５０勝４９敗\r\nカカシより強いよ、オレは…"
+        },
+        {
+          "scriptMessageId": "29445",
+          "speechCharactorId": "97",
+          "message": "（我がライバルカカシ…\r\n最初に出会ったのは\r\nいつだったか…）"
+        },
+        {
+          "scriptMessageId": "29446",
+          "speechCharactorId": "787",
+          "message": "あ！\r\n初めまして…うちの子がこれから\r\nアカデミーでお世話になります…"
+        },
+        {
+          "scriptMessageId": "29447",
+          "speechCharactorId": "787",
+          "message": "仲良くしてやって下さいね"
+        },
+        {
+          "scriptMessageId": "29448",
+          "speechCharactorId": "240",
+          "message": "イヤ、それは無理ですな！"
+        },
+        {
+          "scriptMessageId": "29449",
+          "speechCharactorId": "787",
+          "message": "…え！？\r\nモ…モンスターペアレント？"
+        },
+        {
+          "scriptMessageId": "29450",
+          "speechCharactorId": "763",
+          "message": "イヤ…父さん違うんだよ\r\n今回こいつは――\r\nアカデミー試験に落ちたの"
+        },
+        {
+          "scriptMessageId": "29451",
+          "speechCharactorId": "787",
+          "message": "………そ…それは失礼しました\r\nアカデミーの前だったものでつい…"
+        },
+        {
+          "scriptMessageId": "29452",
+          "speechCharactorId": "240",
+          "message": "ガハハハそういう訳なんですよ！！"
+        },
+        {
+          "scriptMessageId": "29453",
+          "speechCharactorId": "763",
+          "message": "そこ笑うとこなの？"
+        },
+        {
+          "scriptMessageId": "29454",
+          "speechCharactorId": "787",
+          "message": "コラ、カカシ失礼だぞ！"
+        },
+        {
+          "scriptMessageId": "29455",
+          "speechCharactorId": "763",
+          "message": "父さんの方がもう\r\n失礼かましちゃってるでしょ"
+        },
+        {
+          "scriptMessageId": "29456",
+          "speechCharactorId": "763",
+          "message": "だいたいこいつは忍者アカデミーに\r\n入ろうとしてんのに忍術使えない\r\nみたいだし…どう考えたって…"
+        },
+        {
+          "scriptMessageId": "29457",
+          "speechCharactorId": "763",
+          "message": "…と…そろそろ行かないと\r\n時間に遅れちゃうよ父さん"
+        },
+        {
+          "scriptMessageId": "29458",
+          "speechCharactorId": "787",
+          "message": "…あ…ああ\r\nでは…"
+        },
+        {
+          "scriptMessageId": "29459",
+          "speechCharactorId": "764",
+          "message": "………はたけカカシだったな！"
+        },
+        {
+          "scriptMessageId": "29460",
+          "speechCharactorId": "764",
+          "message": "応援ありがとう！！！"
+        },
+        {
+          "scriptMessageId": "29461",
+          "speechCharactorId": "763",
+          "message": "は？"
+        },
+        {
+          "scriptMessageId": "29462",
+          "speechCharactorId": "787",
+          "message": "……"
+        },
+        {
+          "scriptMessageId": "29463",
+          "speechCharactorId": "97",
+          "message": "（フッ…我が青春の記憶だ…）"
+        },
+        {
+          "scriptMessageId": "29464",
+          "speechCharactorId": "14",
+          "message": "どうです！！\r\nガイ先生はスゴイでしょう！！"
+        },
+        {
+          "scriptMessageId": "29465",
+          "speechCharactorId": "232",
+          "message": "カカシ！これは"
+        },
+        {
+          "scriptMessageId": "29466",
+          "speechCharactorId": "695",
+          "message": "ああ…幻術だ！！"
+        },
+        {
+          "scriptMessageId": "29467",
+          "speechCharactorId": "695",
+          "message": "………！！\r\n大蛇丸！！"
+        },
+        {
+          "scriptMessageId": "29468",
+          "speechCharactorId": "232",
+          "message": "ちくしょう……\r\n火影様が気になるが…"
+        },
+        {
+          "scriptMessageId": "29469",
+          "speechCharactorId": "695",
+          "message": "上は暗部に任せろ\r\nそれに…火影様はそうやすやすと\r\nやられるような人じゃない…"
+        },
+        {
+          "scriptMessageId": "29470",
+          "speechCharactorId": "695",
+          "message": "なんたってあの人は…\r\n木ノ葉隠れの里の……火影だからな"
+        },
+        {
+          "scriptMessageId": "29471",
+          "speechCharactorId": "232",
+          "message": "音だけじゃなく\r\nまさか…これほど砂の上忍どもが\r\n入ってこようとはな…！"
+        },
+        {
+          "scriptMessageId": "29472",
+          "speechCharactorId": "111",
+          "message": "ま…そりゃそうだろ…\r\nこりゃいわゆる戦争だ"
+        },
+        {
+          "scriptMessageId": "29473",
+          "speechCharactorId": "232",
+          "message": "木ノ葉剛力旋風！！"
+        },
+        {
+          "scriptMessageId": "29474",
+          "speechCharactorId": "819",
+          "message": "（なっ…何ィ！！）\r\n何者です？"
+        },
+        {
+          "scriptMessageId": "29475",
+          "speechCharactorId": "232",
+          "message": "木ノ葉の気高き碧い猛獣…\r\nマイト・ガイ！！"
+        },
+        {
+          "scriptMessageId": "29476",
+          "speechCharactorId": "819",
+          "message": "何て格好だ…\r\n珍獣の間違いでは？"
+        },
+        {
+          "scriptMessageId": "29477",
+          "speechCharactorId": "232",
+          "message": "（…やはり……イタチ…\r\nカカシをここまで…）"
+        },
+        {
+          "scriptMessageId": "29478",
+          "speechCharactorId": "232",
+          "message": "紅！\r\nカカシを医療班の所へ！！\r\nアスマはオレの援護だ"
+        },
+        {
+          "scriptMessageId": "29479",
+          "speechCharactorId": "232",
+          "message": "後はオレが手配した\r\n暗部の増援部隊が来るまで\r\n少しの間相手してやる！！"
+        },
+        {
+          "scriptMessageId": "29480",
+          "speechCharactorId": "819",
+          "message": "いい度胸ですねェ……"
+        },
+        {
+          "scriptMessageId": "29481",
+          "speechCharactorId": "72",
+          "message": "鬼鮫…止めだ\r\nオレたちは戦争をしに\r\n来たんじゃない…"
+        },
+        {
+          "scriptMessageId": "29482",
+          "speechCharactorId": "72",
+          "message": "残念だが\r\nこれ以上はナンセンスだ…\r\n帰るぞ"
+        },
+        {
+          "scriptMessageId": "29483",
+          "speechCharactorId": "819",
+          "message": "…………せっかく…\r\nウズいてきたのに\r\n仕方ないですねェ…"
+        },
+        {
+          "scriptMessageId": "29484",
+          "speechCharactorId": "189",
+          "message": "今回ばかりはいい時に来てくれたよ"
+        },
+        {
+          "scriptMessageId": "29485",
+          "speechCharactorId": "232",
+          "message": "大丈夫か？カカシ！\r\n奴がマダラ！？"
+        },
+        {
+          "scriptMessageId": "29486",
+          "speechCharactorId": "455",
+          "message": "四代目火影の仙術と\r\nガイ…アナタの体術しか\r\n今は手段がない…"
+        },
+        {
+          "scriptMessageId": "29487",
+          "speechCharactorId": "232",
+          "message": "つまり今この碧き猛獣の\r\n出番ということになるな！！"
+        },
+        {
+          "scriptMessageId": "29488",
+          "speechCharactorId": "822",
+          "message": "（碧い蒸気…！！）\r\n（八門遁甲…\r\n「死門」の一つ前か…）"
+        },
+        {
+          "scriptMessageId": "29489",
+          "speechCharactorId": "822",
+          "message": "赤い蒸気にはならぬとは… \r\nなめられたものだ"
+        },
+        {
+          "scriptMessageId": "29490",
+          "speechCharactorId": "455",
+          "message": "人の動きじゃない…"
+        },
+        {
+          "scriptMessageId": "29491",
+          "speechCharactorId": "821",
+          "message": "（食らえ！！）\r\n昼虎！！！"
+        },
+        {
+          "scriptMessageId": "29492",
+          "speechCharactorId": "232",
+          "message": "くっ…"
+        },
+        {
+          "scriptMessageId": "29493",
+          "speechCharactorId": "484",
+          "message": "大丈夫かガイ！？"
+        },
+        {
+          "scriptMessageId": "29494",
+          "speechCharactorId": "484",
+          "message": "頼みの綱の体術もダメとなると……\r\nどうする……\r\n奴は…強すぎる…"
+        },
+        {
+          "scriptMessageId": "29495",
+          "speechCharactorId": "232",
+          "message": "待てカカシ…まだ体術がダメと\r\n決めつけるのは早いぞ！"
+        },
+        {
+          "scriptMessageId": "29496",
+          "speechCharactorId": "232",
+          "message": "オレ達の青春はまだ色あせちゃ\r\nいないよ！望みを捨てるな！"
+        },
+        {
+          "scriptMessageId": "29497",
+          "speechCharactorId": "232",
+          "message": "確かに望むことが\r\n全てできる訳じゃない…"
+        },
+        {
+          "scriptMessageId": "29498",
+          "speechCharactorId": "232",
+          "message": "しかしやるべきことはいつも \r\n望んでからでなければ始まらん"
+        },
+        {
+          "scriptMessageId": "29499",
+          "speechCharactorId": "232",
+          "message": "お前への挑戦がそうだったように"
+        },
+        {
+          "scriptMessageId": "29500",
+          "speechCharactorId": "484",
+          "message": "……！"
+        },
+        {
+          "scriptMessageId": "29501",
+          "speechCharactorId": "232",
+          "message": "そしてこれは決して強がりではない"
+        },
+        {
+          "scriptMessageId": "29502",
+          "speechCharactorId": "484",
+          "message": "お前…まさか…！？"
+        },
+        {
+          "scriptMessageId": "29503",
+          "speechCharactorId": "232",
+          "message": "木ノ葉の碧き猛獣は終わり\r\n紅き猛獣となる時が来たようだ"
+        },
+        {
+          "scriptMessageId": "29504",
+          "speechCharactorId": "484",
+          "message": "まさか…\r\n最後の死門を…！"
+        },
+        {
+          "scriptMessageId": "29505",
+          "speechCharactorId": "770",
+          "message": "ガイ！それはダメだよ！！\r\nよく考えるんだ！ここに居る誰も \r\nそれを望んではいないよ！"
+        },
+        {
+          "scriptMessageId": "29506",
+          "speechCharactorId": "770",
+          "message": "…君の父上だって―"
+        },
+        {
+          "scriptMessageId": "29507",
+          "speechCharactorId": "232",
+          "message": "いいえ、オレが望んでいるんです"
+        },
+        {
+          "scriptMessageId": "29508",
+          "speechCharactorId": "765",
+          "message": "ガイ先生…ガイ先生にとって…\r\n今がその時なのですか！！？"
+        },
+        {
+          "scriptMessageId": "29509",
+          "speechCharactorId": "232",
+          "message": "リー、そんな顔をするな\r\n今度はお前が笑って見ていろ！！"
+        },
+        {
+          "scriptMessageId": "29510",
+          "speechCharactorId": "822",
+          "message": "…チャクラが死門の\r\n点穴に向かっているな"
+        },
+        {
+          "scriptMessageId": "29511",
+          "speechCharactorId": "821",
+          "message": "第八死門―――"
+        },
+        {
+          "scriptMessageId": "29512",
+          "speechCharactorId": "240",
+          "message": "ガイ！このバカヤロ―――――！！"
+        },
+        {
+          "scriptMessageId": "29513",
+          "speechCharactorId": "764",
+          "message": "ご…ごめんパパ\r\n５歳にもなって校庭５００周すら…\r\nできないなんて"
+        },
+        {
+          "scriptMessageId": "29514",
+          "speechCharactorId": "240",
+          "message": "だから謝るなァ！！！\r\nそこをしかったんじゃァない！！！"
+        },
+        {
+          "scriptMessageId": "29515",
+          "speechCharactorId": "240",
+          "message": "己の努力を謝るな！！！\r\nお前の努力に失礼だぞガイ！！！"
+        },
+        {
+          "scriptMessageId": "29516",
+          "speechCharactorId": "764",
+          "message": "パパ…"
+        },
+        {
+          "scriptMessageId": "29517",
+          "speechCharactorId": "240",
+          "message": "ガイー！！"
+        },
+        {
+          "scriptMessageId": "29518",
+          "speechCharactorId": "771",
+          "message": "いいかガイ！\r\nお前の青春は始まったばかりだ！！"
+        },
+        {
+          "scriptMessageId": "29519",
+          "speechCharactorId": "771",
+          "message": "青春に後ろ向きはない \r\nオレのように！！"
+        },
+        {
+          "scriptMessageId": "29520",
+          "speechCharactorId": "771",
+          "message": "お前が忍術と幻術が使えないことは\r\nむしろパパからすれば\r\nうれしいことだ！！"
+        },
+        {
+          "scriptMessageId": "29521",
+          "speechCharactorId": "771",
+          "message": "短所が分かれば長所が光る！！！\r\nお前の体術は今から\r\nもう光り出している！！"
+        },
+        {
+          "scriptMessageId": "29522",
+          "speechCharactorId": "823",
+          "message": "おいマイト・ダイ\r\nお前、子供とまた修業ごっこかァ？"
+        },
+        {
+          "scriptMessageId": "29523",
+          "speechCharactorId": "823",
+          "message": "万年下忍がよくやるぜ！！ \r\nアハハハ！！"
+        },
+        {
+          "scriptMessageId": "29524",
+          "speechCharactorId": "240",
+          "message": "おう！応援ありがとー！！"
+        },
+        {
+          "scriptMessageId": "29525",
+          "speechCharactorId": "764",
+          "message": "……"
+        },
+        {
+          "scriptMessageId": "29526",
+          "speechCharactorId": "823",
+          "message": "痛て！"
+        },
+        {
+          "scriptMessageId": "29527",
+          "speechCharactorId": "823",
+          "message": "何だァ！？"
+        },
+        {
+          "scriptMessageId": "29528",
+          "speechCharactorId": "823",
+          "message": "ってよく見りゃ\r\nダイのとこのガキか！？\r\n何のつもりだ？"
+        },
+        {
+          "scriptMessageId": "29529",
+          "speechCharactorId": "764",
+          "message": "パパを二度とバカにするな！！"
+        },
+        {
+          "scriptMessageId": "29530",
+          "speechCharactorId": "771",
+          "message": "ガイ、なぜあんなことをした！？"
+        },
+        {
+          "scriptMessageId": "29531",
+          "speechCharactorId": "764",
+          "message": "パパは…パパはどうして\r\nそんな前向きでいられるの…？\r\n…青春はいつ終わるの？"
+        },
+        {
+          "scriptMessageId": "29532",
+          "speechCharactorId": "771",
+          "message": "青春に後ろ向きがない以上に\r\n終わりはないんだ"
+        },
+        {
+          "scriptMessageId": "29533",
+          "speechCharactorId": "764",
+          "message": "じゃあパパが死ぬ時も\r\n終わらないっていうの！？"
+        },
+        {
+          "scriptMessageId": "29534",
+          "speechCharactorId": "771",
+          "message": "何を言ってるガイ！\r\nその時こそ青春の最高潮！！\r\n最も燃える時だ！！"
+        },
+        {
+          "scriptMessageId": "29535",
+          "speechCharactorId": "764",
+          "message": "パパはどうかしてる！！ \r\n死ぬ時に青春もクソもないよ！！"
+        },
+        {
+          "scriptMessageId": "29536",
+          "speechCharactorId": "764",
+          "message": "そんなの死ぬまで信じて、強い奴に\r\n勝てる保証はないじゃないか！？\r\n今日のボクみたいに！！"
+        },
+        {
+          "scriptMessageId": "29537",
+          "speechCharactorId": "771",
+          "message": "………"
+        },
+        {
+          "scriptMessageId": "29538",
+          "speechCharactorId": "771",
+          "message": "本当の勝利ってのはな！\r\n強い奴に勝つことじゃあない"
+        },
+        {
+          "scriptMessageId": "29539",
+          "speechCharactorId": "771",
+          "message": "自分にとって大切なものを\r\n守りぬくことだ！"
+        },
+        {
+          "scriptMessageId": "29540",
+          "speechCharactorId": "764",
+          "message": "……！\r\n…ボクは…ボクは…ただ……"
+        },
+        {
+          "scriptMessageId": "29541",
+          "speechCharactorId": "764",
+          "message": "パパの言う青春を… \r\n守りぬきたかったんだ！！"
+        },
+        {
+          "scriptMessageId": "29542",
+          "speechCharactorId": "771",
+          "message": "…！！"
+        },
+        {
+          "scriptMessageId": "29543",
+          "speechCharactorId": "771",
+          "message": "お前にこの技を伝えよう…\r\n“八門遁甲”…禁術の一つだ！"
+        },
+        {
+          "scriptMessageId": "29544",
+          "speechCharactorId": "771",
+          "message": "下忍のオレが日々修業し\r\n２０年かけてやっと会得した\r\n唯一の技だ！！！"
+        },
+        {
+          "scriptMessageId": "29545",
+          "speechCharactorId": "771",
+          "message": "つまりこの技は父として\r\n唯一お前に伝える技！！！\r\nそしてお前にとって\r\n最も特別な技となる！！！"
+        },
+        {
+          "scriptMessageId": "29546",
+          "speechCharactorId": "771",
+          "message": "お前は確かに立派になった！\r\nだがこの技を使用するには \r\n一つの厳しい条件をつける！"
+        },
+        {
+          "scriptMessageId": "29547",
+          "speechCharactorId": "771",
+          "message": "自分ルールだ！！"
+        },
+        {
+          "scriptMessageId": "29548",
+          "speechCharactorId": "821",
+          "message": "父さん…オレは…"
+        },
+        {
+          "scriptMessageId": "29549",
+          "speechCharactorId": "821",
+          "message": "………"
+        },
+        {
+          "scriptMessageId": "29550",
+          "speechCharactorId": "240",
+          "message": "いいから逃げろお前達！\r\nオレが時間をかせぐ！"
+        },
+        {
+          "scriptMessageId": "29551",
+          "speechCharactorId": "821",
+          "message": "逃げろって…、父さん！相手は上忍連中で\r\nしかも忍刀七人衆だぞ！\r\n父さん、一人で止められる相手じゃない！！"
+        },
+        {
+          "scriptMessageId": "29552",
+          "speechCharactorId": "240",
+          "message": "オレには……\r\n死門…“八門遁甲の陣”がある！"
+        },
+        {
+          "scriptMessageId": "29553",
+          "speechCharactorId": "821",
+          "message": "（今こそ―――）"
+        },
+        {
+          "scriptMessageId": "29554",
+          "speechCharactorId": "821",
+          "message": "（自分の大切なものを\r\n死んでも守りぬく時！！！）"
+        },
+        {
+          "scriptMessageId": "29555",
+          "speechCharactorId": "417",
+          "message": "開！！！！八門遁甲の陣！！！"
+        },
+        {
+          "scriptMessageId": "29556",
+          "speechCharactorId": "765",
+          "message": "………！！！"
+        },
+        {
+          "scriptMessageId": "29557",
+          "speechCharactorId": "484",
+          "message": "ガイ…お前本当に…！"
+        },
+        {
+          "scriptMessageId": "29558",
+          "speechCharactorId": "822",
+          "message": "赤い蒸気、八門全開時特有の…\r\n血の蒸気というやつか…"
+        },
+        {
+          "scriptMessageId": "29559",
+          "speechCharactorId": "822",
+          "message": "フフ…だが\r\nこうやって見るとなんだろうな…\r\nまるで秋に散り朽ちる\r\n枯れ葉色…落葉の様よ"
+        },
+        {
+          "scriptMessageId": "29560",
+          "speechCharactorId": "417",
+          "message": "…確かにそうだ\r\nだが、ただ朽ちて\r\n落ちる訳ではない！！"
+        },
+        {
+          "scriptMessageId": "29561",
+          "speechCharactorId": "417",
+          "message": "それは新たな\r\n青葉の養分となるのだ！"
+        },
+        {
+          "scriptMessageId": "29562",
+          "speechCharactorId": "417",
+          "message": "そして青葉が芽吹く新たな春へと\r\n繋げる時こそが――\r\n青春の最高潮！！\r\n真紅に燃える時！！！"
+        },
+        {
+          "scriptMessageId": "29563",
+          "speechCharactorId": "417",
+          "message": "夕象！！！"
+        },
+        {
+          "scriptMessageId": "29564",
+          "speechCharactorId": "822",
+          "message": "八門遁甲の陣とやり合うのは稀だ！\r\nせっかくだ、相手をしてやる！"
+        },
+        {
+          "scriptMessageId": "29565",
+          "speechCharactorId": "484",
+          "message": "やはりまだ倒せはしないか！"
+        },
+        {
+          "scriptMessageId": "29566",
+          "speechCharactorId": "455",
+          "message": "マイト・ガイは何をした？"
+        },
+        {
+          "scriptMessageId": "29567",
+          "speechCharactorId": "484",
+          "message": "八門遁甲の陣\r\n己の力のリミッターを外し\r\n極限まで力を引き出す技だよ\r\nこの技の後…開放者は必ず死ぬ"
+        },
+        {
+          "scriptMessageId": "29568",
+          "speechCharactorId": "455",
+          "message": "リー…お前…"
+        },
+        {
+          "scriptMessageId": "29569",
+          "speechCharactorId": "765",
+          "message": "悲しくなんかありません！！\r\n覚悟を決めた男を前に――\r\n哀れみも悲しみも\r\n侮辱になります！！！"
+        },
+        {
+          "scriptMessageId": "29570",
+          "speechCharactorId": "417",
+          "message": "（…夕象では…ダメか…）"
+        },
+        {
+          "scriptMessageId": "29571",
+          "speechCharactorId": "773",
+          "message": "ハハハ…いいぞォ！\r\nもっと踊れ…！！"
+        },
+        {
+          "scriptMessageId": "29572",
+          "speechCharactorId": "772",
+          "message": "（…もう…\r\n夜ガイしかない…！！！）"
+        },
+        {
+          "scriptMessageId": "29573",
+          "speechCharactorId": "772",
+          "message": "積！！！"
+        },
+        {
+          "scriptMessageId": "29574",
+          "speechCharactorId": "765",
+          "message": "あの構え…夕象じゃない……！！"
+        },
+        {
+          "scriptMessageId": "29575",
+          "speechCharactorId": "455",
+          "message": "まさか…アレ以上の技が\r\nまだあるというのか！？"
+        },
+        {
+          "scriptMessageId": "29576",
+          "speechCharactorId": "189",
+          "message": "ガイ…！"
+        },
+        {
+          "scriptMessageId": "29577",
+          "speechCharactorId": "764",
+          "message": "応援ありがとう！！！"
+        },
+        {
+          "scriptMessageId": "29578",
+          "speechCharactorId": "138",
+          "message": "は？"
+        },
+        {
+          "scriptMessageId": "29579",
+          "speechCharactorId": "787",
+          "message": "……"
+        },
+        {
+          "scriptMessageId": "29580",
+          "speechCharactorId": "787",
+          "message": "カカシ…アカデミー入学が決まった\r\nからってうかうかしてられないよ"
+        },
+        {
+          "scriptMessageId": "29581",
+          "speechCharactorId": "787",
+          "message": "このままいくとあの子は\r\nお前よりも強くなる"
+        },
+        {
+          "scriptMessageId": "29582",
+          "speechCharactorId": "787",
+          "message": "彼の名前を聞いて\r\n覚えておくといい…\r\nいいライバルになるよ"
+        },
+        {
+          "scriptMessageId": "29583",
+          "speechCharactorId": "189",
+          "message": "（本当に父さんの\r\n言った通りだったよ…ガイ！！）"
+        },
+        {
+          "scriptMessageId": "29584",
+          "speechCharactorId": "773",
+          "message": "このチャクラ…！認めてやろう！"
+        },
+        {
+          "scriptMessageId": "29585",
+          "speechCharactorId": "773",
+          "message": "体術において……オレの戦った者で \r\nお前の右に出る者は \r\n一人としておらん！！"
+        },
+        {
+          "scriptMessageId": "29586",
+          "speechCharactorId": "215",
+          "message": "流！！！"
+        },
+        {
+          "scriptMessageId": "29587",
+          "speechCharactorId": "773",
+          "message": "（速…）"
+        },
+        {
+          "scriptMessageId": "29588",
+          "speechCharactorId": "773",
+          "message": "（何！？空間が \r\nねじ曲がっただと！？）"
+        },
+        {
+          "scriptMessageId": "29589",
+          "speechCharactorId": "215",
+          "message": "夜ガイ！！！"
+        },
+        {
+          "scriptMessageId": "29590",
+          "speechCharactorId": "484",
+          "message": "（これが…ガイの最後の技！\r\n…どうなった！？）"
+        },
+        {
+          "scriptMessageId": "29591",
+          "speechCharactorId": "215",
+          "message": "（父さん…）"
+        },
+        {
+          "scriptMessageId": "29592",
+          "speechCharactorId": "215",
+          "message": "（そして我が青春の \r\nライバル、カカシ…）"
+        },
+        {
+          "scriptMessageId": "29593",
+          "speechCharactorId": "215",
+          "message": "（オレ達の青春は…\r\n……まだ…………）"
+        },
+        {
+          "scriptMessageId": "29594",
+          "speechCharactorId": "825",
+          "message": "（…ゲキマユ先生……）"
+        },
+        {
+          "scriptMessageId": "29595",
+          "speechCharactorId": "765",
+          "message": "ガイ先生！！"
+        },
+        {
+          "scriptMessageId": "29596",
+          "speechCharactorId": "825",
+          "message": "ゲキマユ先生なら大丈夫だ！\r\nもう死んだりなんかしねェーよ！"
+        },
+        {
+          "scriptMessageId": "29597",
+          "speechCharactorId": "765",
+          "message": "ナルトくんがガイ先生を…！？\r\n八門を全て開いたハズなのに！？"
+        },
+        {
+          "scriptMessageId": "29598",
+          "speechCharactorId": "825",
+          "message": "うん…何か色々できそうな\r\n気がすんだ…今のオレってば…"
+        },
+        {
+          "scriptMessageId": "29599",
+          "speechCharactorId": "765",
+          "message": "（ガイ先生…）"
         },
         {
           "scriptMessageId": "40001",

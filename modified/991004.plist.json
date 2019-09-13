@@ -4481,6 +4481,12 @@
           "speechCharactorName": "はたけカカシ"
         },
         {
+          "speechCharactorId": "764",
+          "cardId": "764",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "マイト・ガイ"
+        },
+        {
           "speechCharactorId": "765",
           "cardId": "20050606",
           "speechCharactorImgId": "0",
@@ -4511,10 +4517,76 @@
           "speechCharactorName": "奈良シカマル"
         },
         {
+          "speechCharactorId": "770",
+          "cardId": "770",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "波風ミナト"
+        },
+        {
+          "speechCharactorId": "771",
+          "cardId": "771",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "マイト・ダイ"
+        },
+        {
+          "speechCharactorId": "772",
+          "cardId": "772",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "マイト・ガイ"
+        },
+        {
+          "speechCharactorId": "773",
+          "cardId": "773",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはマダラ"
+        },
+        {
+          "speechCharactorId": "787",
+          "cardId": "787",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "はたけサクモ"
+        },
+        {
           "speechCharactorId": "789",
           "cardId": "50000004",
           "speechCharactorImgId": "0",
           "speechCharactorName": "岩隠れの忍"
+        },
+        {
+          "speechCharactorId": "819",
+          "cardId": "20001571",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "干柿鬼鮫"
+        },
+        {
+          "speechCharactorId": "821",
+          "cardId": "20001542",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "マイト・ガイ"
+        },
+        {
+          "speechCharactorId": "822",
+          "cardId": "20030512",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはマダラ"
+        },
+        {
+          "speechCharactorId": "823",
+          "cardId": "50000001",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "木ノ葉隠れの忍"
+        },
+        {
+          "speechCharactorId": "825",
+          "cardId": "20040209",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うずまきナルト"
+        },
+        {
+          "speechCharactorId": "826",
+          "cardId": "50000008",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "忍"
         },
         {
           "speechCharactorId": "1000",

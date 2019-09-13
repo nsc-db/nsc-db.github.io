@@ -11193,5 +11193,29 @@
           "effectIdx2": "2529",
           "effectIdx3": "1187",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "950",
+          "targetCrystal": "20907",
+          "description": "最大HP150%アップ、確率で再行動※再行動後さらに行動はできない",
+          "charaIds": "1601,1602,1603,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1212",
+          "effectIdx2": "439",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "951",
+          "targetCrystal": "20908",
+          "description": "攻撃力250%アップ、素早さ100%アップ、通常攻撃必中",
+          "charaIds": "1601,1602,1603,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1210",
+          "effectIdx2": "13099",
+          "effectIdx3": "30",
+          "effectIdx4": "0"
         }
       ]

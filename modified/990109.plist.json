@@ -20690,6 +20690,24 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2357",
+          "abilityName": "忍の風儀",
+          "abilityDescription": "敵に滅ｷｬﾗがいると再行動、敵に無所属がいると素早さ200%ｱｯﾌﾟ※再行動後さらに行動はできない",
+          "abilityEffectDescription": "敵に滅ｷｬﾗがいると再行動、敵に無所属がいると素早さ200%ｱｯﾌﾟ※再行動後さらに行動はできない",
+          "effectIdx1": "0",
+          "effectIdx2": "2017",
+          "effectIdx3": "2536"
+        },
+        {
+          "abilityId": "2358",
+          "abilityName": "終わりなき青春",
+          "abilityDescription": "ﾊﾞﾄﾙ開始時に青春状態になり、味方に「はたけｶｶｼ（年代問わず）」がいると素早さ100%ｱｯﾌﾟ&amp;ｽｷﾙ発動速度1段階ｱｯﾌﾟ",
+          "abilityEffectDescription": "ﾊﾞﾄﾙ開始時に青春状態になり、味方に「はたけｶｶｼ（年代問わず）」がいると素早さ100%ｱｯﾌﾟ&amp;ｽｷﾙ発動速度1段階ｱｯﾌﾟ",
+          "effectIdx1": "2534",
+          "effectIdx2": "2535",
+          "effectIdx3": "2495"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -21614,6 +21632,60 @@
           "abilityEffectDescription": "3回行動まで「はたけカカシ（年代問わず）」への単体ｽｷﾙ攻撃を受ける、死亡した時味方全員を短い間蘇状態にする",
           "effectIdx1": "2497",
           "effectIdx2": "2498",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "100059",
+          "abilityName": "リンの想い",
+          "abilityDescription": "最大チャクラが120アップし、最大HPが150％アップ、さらに素早さが100%アップ",
+          "abilityEffectDescription": "最大チャクラが120アップし、最大HPが150％アップ、さらに素早さが100%アップ",
+          "effectIdx1": "20011",
+          "effectIdx2": "1212",
+          "effectIdx3": "13099"
+        },
+        {
+          "abilityId": "100060",
+          "abilityName": "オビトの遺志",
+          "abilityDescription": "攻撃力とスキルダメージが120％アップする",
+          "abilityEffectDescription": "攻撃力とスキルダメージが120％アップする",
+          "effectIdx1": "736",
+          "effectIdx2": "30011",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "100061",
+          "abilityName": "救い出す覚悟",
+          "abilityDescription": "最大チャクラが150アップし、最大HPが180％アップする",
+          "abilityEffectDescription": "最大チャクラが150アップし、最大HPが180％アップする",
+          "effectIdx1": "20014",
+          "effectIdx2": "10128",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "100062",
+          "abilityName": "貫き通す忍道",
+          "abilityDescription": "チャクラ20％以上の時、攻撃力とスキルダメージが200％アップする",
+          "abilityEffectDescription": "チャクラ20％以上の時、攻撃力とスキルダメージが200％アップする",
+          "effectIdx1": "33119",
+          "effectIdx2": "2540",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "100063",
+          "abilityName": "孤独への道",
+          "abilityDescription": "最大チャクラが150アップし、最大HPが180％アップする",
+          "abilityEffectDescription": "最大チャクラが150アップし、最大HPが180％アップする",
+          "effectIdx1": "20014",
+          "effectIdx2": "10128",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "100064",
+          "abilityName": "過去からの決断",
+          "abilityDescription": "チャクラ20％以上の時、攻撃力とスキルダメージが200％アップする",
+          "abilityEffectDescription": "チャクラ20％以上の時、攻撃力とスキルダメージが200％アップする",
+          "effectIdx1": "33119",
+          "effectIdx2": "2540",
           "effectIdx3": "0"
         },
         {
