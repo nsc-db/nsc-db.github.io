@@ -20079,6 +20079,38 @@
           "recipeName": "覚醒し輪廻眼の力"
         },
         {
+          "crystalId": "20905",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "2052",
+          "effectIdx2": "446",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "守るべき玉",
+          "crystalDescription": "1回行動するまでチャクラ消費量20%減少、行動後にチャクラが5%回復する",
+          "crystalImageId": "209055",
+          "recipeId": "20905",
+          "recipeName": "守るべき玉"
+        },
+        {
+          "crystalId": "20906",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "500",
+          "effectIdx2": "680",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "秘伝の影術",
+          "crystalDescription": "秘伝タイプのスキルダメージと最大HPが50%アップする",
+          "crystalImageId": "209065",
+          "recipeId": "20906",
+          "recipeName": "秘伝の影術"
+        },
+        {
           "crystalId": "20907",
           "crystalType": "3",
           "crystalRare": "5",

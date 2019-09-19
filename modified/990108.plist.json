@@ -12336,6 +12336,19 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "968",
+          "name": "張り巡らせる影智",
+          "description": "木ノ葉隠れの里と砂隠れの里所属のスキルダメージを100%アップする",
+          "effectIdx1": "774",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "2",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "2",
+          "target2Param": "2"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

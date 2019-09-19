@@ -20708,6 +20708,24 @@
           "effectIdx3": "2495"
         },
         {
+          "abilityId": "2361",
+          "abilityName": "解招きし知略",
+          "abilityDescription": "敵に滅キャラが生存していると受ける耐性無視スキルのダメージを0、2回行動するまで全スキル無効",
+          "abilityEffectDescription": "敵に滅キャラが生存していると受ける耐性無視スキルのダメージを0、2回行動するまで全スキル無効",
+          "effectIdx1": "2541",
+          "effectIdx2": "2343",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2362",
+          "abilityName": "詰ませゆく影",
+          "abilityDescription": "敵に滅キャラか“暁”所属がいると素早さ100%アップ、どちらもいると素早さ200%アップ",
+          "abilityEffectDescription": "敵に滅キャラか“暁”所属がいると素早さ100%アップ、どちらもいると素早さ200%アップ",
+          "effectIdx1": "2444",
+          "effectIdx2": "2126",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

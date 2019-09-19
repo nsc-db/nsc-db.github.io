@@ -2287,5 +2287,15 @@
           "subScore": "0",
           "color": "49151",
           "type": "2"
+        },
+        {
+          "cardUnusualId": "233",
+          "category": "3",
+          "iconId": "1264",
+          "name": "影真似",
+          "description": "ｼｶﾏﾙ狙った場合、攻撃&amp;術ﾀﾞﾒｰｼﾞ減。ｼｶﾏﾙからｽｷﾙ受けると確率で行動ｷｬﾝｾﾙ。強化系特殊状態解除&amp;無効化",
+          "subScore": "0",
+          "color": "8355711",
+          "type": "3"
         }
       ]

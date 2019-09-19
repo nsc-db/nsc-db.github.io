@@ -11217,5 +11217,29 @@
           "effectIdx2": "13099",
           "effectIdx3": "30",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "954",
+          "targetCrystal": "20905",
+          "description": "1回行動するまでチャクラ消費量0、2回行動以降はチャクラ消費量半減、行動後チャクラが20%回復",
+          "charaIds": "401,402,403,1801,1802,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1378",
+          "effectIdx2": "1538",
+          "effectIdx3": "1768",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "955",
+          "targetCrystal": "20906",
+          "description": "全スキルダメージと最大HPが100%アップ、確率でスキル回避",
+          "charaIds": "401,402,403,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "774",
+          "effectIdx2": "684",
+          "effectIdx3": "1423",
+          "effectIdx4": "0"
         }
       ]
