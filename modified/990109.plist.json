@@ -20618,6 +20618,24 @@
           "effectIdx3": "2505"
         },
         {
+          "abilityId": "2345",
+          "abilityName": "友情の団子交換",
+          "abilityDescription": "状態異常とキャンセル無効",
+          "abilityEffectDescription": "状態異常とキャンセル無効",
+          "effectIdx1": "82",
+          "effectIdx2": "1751",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2346",
+          "abilityName": "秋の夜長のサプライズ",
+          "abilityDescription": "HP80％以上の時にスキルダメージを半減し、HP0以下で1度だけHPが全回復する",
+          "abilityEffectDescription": "HP80％以上の時にスキルダメージを半減し、HP0以下で1度だけHPが全回復する",
+          "effectIdx1": "410",
+          "effectIdx2": "312",
+          "effectIdx3": "874"
+        },
+        {
           "abilityId": "2347",
           "abilityName": "面目躍如の時",
           "abilityDescription": "3回行動するまでスキップ無効、HP0以下で1回HP全回復",
@@ -20708,6 +20726,24 @@
           "effectIdx3": "2495"
         },
         {
+          "abilityId": "2359",
+          "abilityName": "月が照らす友情",
+          "abilityDescription": "1回行動するまで、素早さ150%アップ＆スキル発動速度1段階アップ",
+          "abilityEffectDescription": "1回行動するまで、素早さ150%アップ＆スキル発動速度1段階アップ",
+          "effectIdx1": "2539",
+          "effectIdx2": "1539",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2360",
+          "abilityName": "団子に込める願い",
+          "abilityDescription": "HPが50%以上の時、攻撃力とスキルダメージが120％アップする",
+          "abilityEffectDescription": "HPが50%以上の時、攻撃力とスキルダメージが120％アップする",
+          "effectIdx1": "1161",
+          "effectIdx2": "31411",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "2361",
           "abilityName": "解招きし知略",
           "abilityDescription": "敵に滅キャラが生存していると受ける耐性無視スキルのダメージを0、2回行動するまで全スキル無効",
@@ -20723,6 +20759,24 @@
           "abilityEffectDescription": "敵に滅キャラか“暁”所属がいると素早さ100%アップ、どちらもいると素早さ200%アップ",
           "effectIdx1": "2444",
           "effectIdx2": "2126",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2363",
+          "abilityName": "湧き上がる悪戯心",
+          "abilityDescription": "味方に「うちはサスケ（年代問わず）」がいるとHP0以下で1回耐える、確率でスキル回避",
+          "abilityEffectDescription": "味方に「うちはサスケ（年代問わず）」がいるとHP0以下で1回耐える、確率でスキル回避",
+          "effectIdx1": "2152",
+          "effectIdx2": "679",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2364",
+          "abilityName": "邪を祓う南瓜",
+          "abilityDescription": "HP86%以上の時、素早さ76%アップ＆スキル発動速度1.0段階アップ",
+          "abilityEffectDescription": "HP86%以上の時、素早さ76%アップ＆スキル発動速度1.0段階アップ",
+          "effectIdx1": "2543",
+          "effectIdx2": "2542",
           "effectIdx3": "0"
         },
         {

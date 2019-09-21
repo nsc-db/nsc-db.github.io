@@ -6567,6 +6567,14 @@
           "name": "ぽっちゃり系バンザーイ！！"
         },
         {
+          "cardBattleSkillNameId": "2852",
+          "name": "忍法・団子繚乱"
+        },
+        {
+          "cardBattleSkillNameId": "2853",
+          "name": "甘すぎちゃダメなのよねー！"
+        },
+        {
           "cardBattleSkillNameId": "2857",
           "name": "じっとしてろ…"
         },
@@ -6587,12 +6595,28 @@
           "name": "敵ながらアッパレだ！"
         },
         {
+          "cardBattleSkillNameId": "2862",
+          "name": "桜花景月・餅乱打"
+        },
+        {
+          "cardBattleSkillNameId": "2863",
+          "name": "そんなコツがあるなんて…！"
+        },
+        {
           "cardBattleSkillNameId": "2864",
           "name": "秘伝・影矢倉"
         },
         {
           "cardBattleSkillNameId": "2865",
           "name": "あいつはオレ一人で捕まえる"
+        },
+        {
+          "cardBattleSkillNameId": "2866",
+          "name": "トリック・オア・ナルトリック"
+        },
+        {
+          "cardBattleSkillNameId": "2867",
+          "name": "いくぞォオオオ！！"
         },
         {
           "cardBattleSkillNameId": "10136",

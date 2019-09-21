@@ -85524,6 +85524,441 @@
           "message": "（ガイ先生…）"
         },
         {
+          "scriptMessageId": "29600",
+          "speechCharactorId": "0",
+          "message": "無限月読…\r\n見たもの全てを夢に堕とす大幻術…"
+        },
+        {
+          "scriptMessageId": "29601",
+          "speechCharactorId": "0",
+          "message": "これはとある忍が夢みた\r\n無限に続く夢の世界"
+        },
+        {
+          "scriptMessageId": "29602",
+          "speechCharactorId": "828",
+          "message": "いらっしゃいませ、ようこそ月見茶屋へ！"
+        },
+        {
+          "scriptMessageId": "29603",
+          "speechCharactorId": "827",
+          "message": "お待たせしました！お月見団子とお茶のセットです！"
+        },
+        {
+          "scriptMessageId": "29604",
+          "speechCharactorId": "828",
+          "message": "（いのったら、この忙しさで、自分の誕生日もすっかり忘れちゃってるみたいね）"
+        },
+        {
+          "scriptMessageId": "29605",
+          "speechCharactorId": "828",
+          "message": "（里のみんなにも協力してもらって、誕生日をこっそりお祝いして\r\nいのを驚かせようと思っているんだけど）"
+        },
+        {
+          "scriptMessageId": "29606",
+          "speechCharactorId": "828",
+          "message": "（これならサプライズもバッチリね）"
+        },
+        {
+          "scriptMessageId": "29607",
+          "speechCharactorId": "827",
+          "message": "サクラ。何ニヤニヤしてんのよ"
+        },
+        {
+          "scriptMessageId": "29608",
+          "speechCharactorId": "828",
+          "message": "ううん、何でもない"
+        },
+        {
+          "scriptMessageId": "29609",
+          "speechCharactorId": "828",
+          "message": "今日は満月だから、仕事が終わったら、ゆっくりお月見楽しめそうだなと思って"
+        },
+        {
+          "scriptMessageId": "29610",
+          "speechCharactorId": "828",
+          "message": "（お月見の時にみんなにお祝いしてもらって、サプライズよ）"
+        },
+        {
+          "scriptMessageId": "29611",
+          "speechCharactorId": "830",
+          "message": "こっち注文取りに来てくれ！"
+        },
+        {
+          "scriptMessageId": "29612",
+          "speechCharactorId": "828",
+          "message": "でも…"
+        },
+        {
+          "scriptMessageId": "29613",
+          "speechCharactorId": "827",
+          "message": "…意外と忙しいわね"
+        },
+        {
+          "scriptMessageId": "29614",
+          "speechCharactorId": "828",
+          "message": "お客さんがいっぱい来てくれるのは嬉しいけど…"
+        },
+        {
+          "scriptMessageId": "29615",
+          "speechCharactorId": "828",
+          "message": "（もしかして、お祝いどころじゃないかも…）"
+        },
+        {
+          "scriptMessageId": "29616",
+          "speechCharactorId": "828",
+          "message": "（でも、他のみんなも来てくれるし、大丈夫よね！）"
+        },
+        {
+          "scriptMessageId": "29617",
+          "speechCharactorId": "828",
+          "message": "（しゃーんなろー！やってやるわよ！\r\nお月見サプライズ誕生日大作戦！スタート！！）"
+        },
+        {
+          "scriptMessageId": "29618",
+          "speechCharactorId": "162",
+          "message": "その衣装、板についてるじゃないか"
+        },
+        {
+          "scriptMessageId": "29619",
+          "speechCharactorId": "827",
+          "message": "アスマ先生、いらっしゃいませ！\r\nこういうお店に来るの珍しいですね"
+        },
+        {
+          "scriptMessageId": "29620",
+          "speechCharactorId": "162",
+          "message": "今日はサクラに呼ばれてな\r\n頼まれたものも持ってきたぞ\r\nいの、今日はたんじょ…"
+        },
+        {
+          "scriptMessageId": "29621",
+          "speechCharactorId": "828",
+          "message": "先生ー！お席はこちらですよー！\r\n（ちょっと！何勝手にお祝いしようとしてるのよー！）"
+        },
+        {
+          "scriptMessageId": "29622",
+          "speechCharactorId": "162",
+          "message": "そうか、そういえばサプライズだったか\r\nすまない、ちょっと先走ったようだ"
+        },
+        {
+          "scriptMessageId": "29623",
+          "speechCharactorId": "828",
+          "message": "頼みますよ、先生！"
+        },
+        {
+          "scriptMessageId": "29624",
+          "speechCharactorId": "827",
+          "message": "二人とも、話し込んで珍しいわね"
+        },
+        {
+          "scriptMessageId": "29625",
+          "speechCharactorId": "828",
+          "message": "あはは、何でもないから気にしないで！"
+        },
+        {
+          "scriptMessageId": "29626",
+          "speechCharactorId": "163",
+          "message": "随分賑わってるじゃねえか"
+        },
+        {
+          "scriptMessageId": "29627",
+          "speechCharactorId": "165",
+          "message": "とりあえず団子を頼むぜ！"
+        },
+        {
+          "scriptMessageId": "29628",
+          "speechCharactorId": "828",
+          "message": "（普通に注文してるけど、夜のサプライズ、忘れてないでしょうね…\r\n二人にはプレゼントを持ってきてって\r\n伝えてたはずだけど…）"
+        },
+        {
+          "scriptMessageId": "29629",
+          "speechCharactorId": "828",
+          "message": "ちょっとシカマル、チョウジ、こっち来なさい\r\nこの後のことだけど…"
+        },
+        {
+          "scriptMessageId": "29630",
+          "speechCharactorId": "165",
+          "message": "モグモグモグ…うめー！"
+        },
+        {
+          "scriptMessageId": "29631",
+          "speechCharactorId": "828",
+          "message": "ちょっとー！とりあえず話を聞きなさい！"
+        },
+        {
+          "scriptMessageId": "29632",
+          "speechCharactorId": "165",
+          "message": "準備万端でここに来たのに\r\nなんでおやつの邪魔するんだよ！"
+        },
+        {
+          "scriptMessageId": "29633",
+          "speechCharactorId": "828",
+          "message": "え？じゃあプレゼントは…"
+        },
+        {
+          "scriptMessageId": "29634",
+          "speechCharactorId": "163",
+          "message": "用意してるに決まってるだろ\r\nいのが欲しがってたものもリサーチしてな"
+        },
+        {
+          "scriptMessageId": "29635",
+          "speechCharactorId": "828",
+          "message": "う…ごめん。私が心配しすぎてたわ\r\nだけどさすが第十班…抜かりないわね"
+        },
+        {
+          "scriptMessageId": "29636",
+          "speechCharactorId": "829",
+          "message": "よお。サクラちゃん、いの。すっげー繁盛してるじゃん！"
+        },
+        {
+          "scriptMessageId": "29637",
+          "speechCharactorId": "828",
+          "message": "いらっしゃいませー！\r\nって何よその大きい荷物！？"
+        },
+        {
+          "scriptMessageId": "29638",
+          "speechCharactorId": "828",
+          "message": "よく見たら…カボチャ…？何で？"
+        },
+        {
+          "scriptMessageId": "29639",
+          "speechCharactorId": "829",
+          "message": "いやあ、サクラちゃんに何かよさそうなもの\r\n持ってこいって言われたから、持ってきたんだってばよ"
+        },
+        {
+          "scriptMessageId": "29640",
+          "speechCharactorId": "829",
+          "message": "つーわけで、このカボチャをいのに渡すぜ！\r\nいのー！こっち来てくれ！"
+        },
+        {
+          "scriptMessageId": "29641",
+          "speechCharactorId": "828",
+          "message": "バカナルト！なんでプレゼント渡そうとしてるのよ！\r\n（しかもそのカボチャはダメでしょー！？）"
+        },
+        {
+          "scriptMessageId": "29642",
+          "speechCharactorId": "829",
+          "message": "うおお！せっかく持ってきたカボチャが粉々だってばよ！"
+        },
+        {
+          "scriptMessageId": "29643",
+          "speechCharactorId": "828",
+          "message": "はあ、はあ…なんでこんなしょーもないもの\r\n持ってくるのよ…"
+        },
+        {
+          "scriptMessageId": "29644",
+          "speechCharactorId": "827",
+          "message": "何よナルト？何か用事でもあるの？\r\n…にしてもすごい量のカボチャね。\r\nカボチャ饅頭とか作れるかしら"
+        },
+        {
+          "scriptMessageId": "29645",
+          "speechCharactorId": "829",
+          "message": "いのも喜んでるみたいだし、結果オーライだな！"
+        },
+        {
+          "scriptMessageId": "29646",
+          "speechCharactorId": "828",
+          "message": "サイ！\r\n（サイにはお花を頼んでたのよね\r\nよしよし、ちゃんと綺麗な花束を持ってきたみたい）"
+        },
+        {
+          "scriptMessageId": "29647",
+          "speechCharactorId": "828",
+          "message": "サイもいろいろわかってきたみたいね\r\nバカナルトとは大違い"
+        },
+        {
+          "scriptMessageId": "29648",
+          "speechCharactorId": "252",
+          "message": "バカナルト…親しい人同士で呼ぶ愛称だね\r\nやっぱりボクはまだうまい愛称が思いつかなくて"
+        },
+        {
+          "scriptMessageId": "29649",
+          "speechCharactorId": "828",
+          "message": "特徴とか言えばいいって言ったじゃない"
+        },
+        {
+          "scriptMessageId": "29650",
+          "speechCharactorId": "252",
+          "message": "そうだね…ありがとう"
+        },
+        {
+          "scriptMessageId": "29651",
+          "speechCharactorId": "252",
+          "message": "ブス"
+        },
+        {
+          "scriptMessageId": "29652",
+          "speechCharactorId": "828",
+          "message": "………"
+        },
+        {
+          "scriptMessageId": "29653",
+          "speechCharactorId": "828",
+          "message": "だから、何でそうなんのよー！！\r\nしゃーんなろー！！"
+        },
+        {
+          "scriptMessageId": "29654",
+          "speechCharactorId": "827",
+          "message": "サイくん？大丈夫？\r\nすごく綺麗な花束ね"
+        },
+        {
+          "scriptMessageId": "29655",
+          "speechCharactorId": "252",
+          "message": "（女の人の場合は特徴をそのまま言えば怒らせることになる…\r\nつまりその逆を言えばそうはならないってことだから）"
+        },
+        {
+          "scriptMessageId": "29656",
+          "speechCharactorId": "252",
+          "message": "はい…プレゼント…えっと…\r\n美人さん"
+        },
+        {
+          "scriptMessageId": "29657",
+          "speechCharactorId": "827",
+          "message": "！"
+        },
+        {
+          "scriptMessageId": "29658",
+          "speechCharactorId": "828",
+          "message": "だから、何でいのん時はそうなんのよー！\r\nっていうか、今渡しちゃダメじゃないーーーー！"
+        },
+        {
+          "scriptMessageId": "29659",
+          "speechCharactorId": "828",
+          "message": "…みんなを集めてサプライズするだけなのに…\r\nなんでこんなに大変なのよー！！"
+        },
+        {
+          "scriptMessageId": "29660",
+          "speechCharactorId": "828",
+          "message": "…とはいえみんな集まったし、あとはアスマ先生が持ってきてくれた\r\nお月見団子ケーキを出していのを驚かせば…"
+        },
+        {
+          "scriptMessageId": "29661",
+          "speechCharactorId": "165",
+          "message": "な、何だそのケーキ！"
+        },
+        {
+          "scriptMessageId": "29662",
+          "speechCharactorId": "829",
+          "message": "めっちゃうまそうだってばよ！"
+        },
+        {
+          "scriptMessageId": "29663",
+          "speechCharactorId": "828",
+          "message": "そう来ると思ったわよアンタたち！\r\nもう邪魔はさせないんだから！\r\nみんなまとめてかかって来なさい！"
+        },
+        {
+          "scriptMessageId": "29664",
+          "speechCharactorId": "828",
+          "message": "はあはあ…何とか死守したわ…"
+        },
+        {
+          "scriptMessageId": "29665",
+          "speechCharactorId": "827",
+          "message": "サクラ、何してんの？\r\nそのケーキ、隠しメニューか何か？"
+        },
+        {
+          "scriptMessageId": "29666",
+          "speechCharactorId": "827",
+          "message": "ケーキに載ってるそのプレート、誕生日おめでとうって…"
+        },
+        {
+          "scriptMessageId": "29667",
+          "speechCharactorId": "828",
+          "message": "バレちゃった！？\r\nあーもう、お月見には少し早いけどいっか"
+        },
+        {
+          "scriptMessageId": "29668",
+          "speechCharactorId": "828",
+          "message": "いの、誕生日おめでとう！"
+        },
+        {
+          "scriptMessageId": "29669",
+          "speechCharactorId": "827",
+          "message": "そうか。今日、私の誕生日だったっけ\r\n忙しすぎてすっかり忘れてたわ"
+        },
+        {
+          "scriptMessageId": "29670",
+          "speechCharactorId": "828",
+          "message": "…グダグダで全然サプライズにならなかったけどね"
+        },
+        {
+          "scriptMessageId": "29671",
+          "speechCharactorId": "827",
+          "message": "サクラ…\r\n私のためにみんなに声をかけてくれてたの？"
+        },
+        {
+          "scriptMessageId": "29672",
+          "speechCharactorId": "828",
+          "message": "最近いろんなことがあって慌ただしかったじゃない？\r\nアンタの誕生日くらい、みんなでゆっくりお祝いを\r\nしたかったし"
+        },
+        {
+          "scriptMessageId": "29673",
+          "speechCharactorId": "828",
+          "message": "せっかくだから驚いてもらいたかったんだけど"
+        },
+        {
+          "scriptMessageId": "29674",
+          "speechCharactorId": "162",
+          "message": "いの、お誕生日おめでとう"
+        },
+        {
+          "scriptMessageId": "29675",
+          "speechCharactorId": "829",
+          "message": "おめでとうってばよ！"
+        },
+        {
+          "scriptMessageId": "29676",
+          "speechCharactorId": "252",
+          "message": "こういう場は慣れていないけど、お祝いできて嬉しいよ"
+        },
+        {
+          "scriptMessageId": "29677",
+          "speechCharactorId": "165",
+          "message": "おめでとう、いの！\r\nこれ、プレゼント！"
+        },
+        {
+          "scriptMessageId": "29678",
+          "speechCharactorId": "163",
+          "message": "オレとチョウジからだ\r\nオマエがずっと欲しがってたやつだぜ"
+        },
+        {
+          "scriptMessageId": "29679",
+          "speechCharactorId": "827",
+          "message": "みんな…ありがとう！\r\nじゅうぶん驚いてるから安心しなさい、サクラ！"
+        },
+        {
+          "scriptMessageId": "29680",
+          "speechCharactorId": "827",
+          "message": "朝からなんか変だと思ってたけど、\r\n私のために色々準備してくれてたのね"
+        },
+        {
+          "scriptMessageId": "29681",
+          "speechCharactorId": "828",
+          "message": "はあ…ごめんね、いの\r\nぜんぜんうまくいかなくて…"
+        },
+        {
+          "scriptMessageId": "29682",
+          "speechCharactorId": "827",
+          "message": "何言ってんのよ！最高の誕生日だわ\r\nその証拠に…空を見てみて"
+        },
+        {
+          "scriptMessageId": "29683",
+          "speechCharactorId": "829",
+          "message": "おー！真ん丸の満月だってばよ！"
+        },
+        {
+          "scriptMessageId": "29684",
+          "speechCharactorId": "827",
+          "message": "特別な日に、こんなに綺麗な月をみんなで見られたんだから"
+        },
+        {
+          "scriptMessageId": "29685",
+          "speechCharactorId": "828",
+          "message": "確かに綺麗ねー"
+        },
+        {
+          "scriptMessageId": "29686",
+          "speechCharactorId": "828",
+          "message": "…ふふ、こっちこそありがとう\r\nお誕生日おめでとう、いの！"
+        },
+        {
           "scriptMessageId": "40001",
           "speechCharactorId": "178",
           "message": "絶望しかないこの世界に\r\n存在する価値はない"

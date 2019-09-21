@@ -2771,6 +2771,18 @@
           "voiceDeath": "guy_death_02_01"
         },
         {
+          "cardVoiceId": "235",
+          "cardId": "20050909",
+          "dirName": "sakura",
+          "evolutionStep": "",
+          "voiceAppear": "sakura_battle_02_06",
+          "voiceSkill1": "sakura_pursuit_02_01,sakura_pursuit_01_01",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "sakura_win_02_04",
+          "voiceDeath": "sakura_death_02_01"
+        },
+        {
           "cardVoiceId": "236",
           "cardId": "20050906",
           "dirName": "shikamaru",
@@ -2781,6 +2793,18 @@
           "voicePursuit": "",
           "voiceWin": "shikamaru_win_02_03",
           "voiceDeath": "shikamaru_death_02_01"
+        },
+        {
+          "cardVoiceId": "237",
+          "cardId": "20051001",
+          "dirName": "naruto",
+          "evolutionStep": "",
+          "voiceAppear": "naruto_skill_02_41",
+          "voiceSkill1": "naruto_battle_02_01",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "naruto_win_02_12",
+          "voiceDeath": "naruto_death_02_02"
         },
         {
           "cardVoiceId": "8001",

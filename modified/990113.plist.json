@@ -29603,6 +29603,18 @@
           "effectParam3": "0"
         },
         {
+          "cardEffectId": "2512",
+          "timing": "2",
+          "conditionType": "3",
+          "conditionLower": "0",
+          "conditionUpper": "2",
+          "parcent": "10000",
+          "effectId": "2",
+          "effectParam1": "1",
+          "effectParam2": "18000",
+          "effectParam3": "0"
+        },
+        {
           "cardEffectId": "2513",
           "timing": "1",
           "conditionType": "3",
@@ -29903,6 +29915,18 @@
           "effectParam3": "0"
         },
         {
+          "cardEffectId": "2539",
+          "timing": "1",
+          "conditionType": "6",
+          "conditionLower": "0",
+          "conditionUpper": "0",
+          "parcent": "10000",
+          "effectId": "1",
+          "effectParam1": "3",
+          "effectParam2": "25000",
+          "effectParam3": "0"
+        },
+        {
           "cardEffectId": "2540",
           "timing": "5",
           "conditionType": "2",
@@ -29924,6 +29948,42 @@
           "effectId": "39",
           "effectParam1": "0",
           "effectParam2": "0",
+          "effectParam3": "0"
+        },
+        {
+          "cardEffectId": "2542",
+          "timing": "5",
+          "conditionType": "1",
+          "conditionLower": "8600",
+          "conditionUpper": "10000",
+          "parcent": "10000",
+          "effectId": "9",
+          "effectParam1": "17",
+          "effectParam2": "-1000",
+          "effectParam3": "0"
+        },
+        {
+          "cardEffectId": "2543",
+          "timing": "1",
+          "conditionType": "1",
+          "conditionLower": "8600",
+          "conditionUpper": "10000",
+          "parcent": "10000",
+          "effectId": "1",
+          "effectParam1": "3",
+          "effectParam2": "17600",
+          "effectParam3": "0"
+        },
+        {
+          "cardEffectId": "2544",
+          "timing": "1",
+          "conditionType": "6",
+          "conditionLower": "0",
+          "conditionUpper": "6",
+          "parcent": "10000",
+          "effectId": "1",
+          "effectParam1": "3",
+          "effectParam2": "16100",
           "effectParam3": "0"
         },
         {
@@ -47860,6 +47920,18 @@
           "conditionType": "1",
           "conditionLower": "0",
           "conditionUpper": "9000",
+          "parcent": "10000",
+          "effectId": "24",
+          "effectParam1": "0",
+          "effectParam2": "30000",
+          "effectParam3": "0"
+        },
+        {
+          "cardEffectId": "33119",
+          "timing": "5",
+          "conditionType": "2",
+          "conditionLower": "2000",
+          "conditionUpper": "10000",
           "parcent": "10000",
           "effectId": "24",
           "effectParam1": "0",

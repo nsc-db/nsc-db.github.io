@@ -11159,6 +11159,30 @@
           "effectIdx4": "0"
         },
         {
+          "crystalOverwriteEffectId": "945",
+          "targetCrystal": "20909",
+          "description": "攻撃力と防御力と素早さが80%アップ、3回行動するまで行動後にHPが80%回復",
+          "charaIds": "601,602,603,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "11079",
+          "effectIdx2": "12079",
+          "effectIdx3": "13079",
+          "effectIdx4": "2512"
+        },
+        {
+          "crystalOverwriteEffectId": "946",
+          "targetCrystal": "20910",
+          "description": "スキルダメージを100%アップし、2回行動までスキル発動速度1段階アップ",
+          "charaIds": "301,302,303,304,305,306,601,602,603,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "774",
+          "effectIdx2": "1379",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
+        },
+        {
           "crystalOverwriteEffectId": "947",
           "targetCrystal": "20903",
           "description": "3回行動するまで素早さ200%アップ＆スキル発動速度1段階アップ",
@@ -11216,6 +11240,18 @@
           "effectIdx1": "1210",
           "effectIdx2": "13099",
           "effectIdx3": "30",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "952",
+          "targetCrystal": "20911",
+          "description": "攻撃力を150％アップし、確率でスキルを回避、行動後にチャクラが30%回復する",
+          "charaIds": "301,302,303,304,305,306,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1268",
+          "effectIdx2": "734",
+          "effectIdx3": "2524",
           "effectIdx4": "0"
         },
         {

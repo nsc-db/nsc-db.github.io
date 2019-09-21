@@ -4589,6 +4589,30 @@
           "speechCharactorName": "忍"
         },
         {
+          "speechCharactorId": "827",
+          "cardId": "20050908",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "山中いの"
+        },
+        {
+          "speechCharactorId": "828",
+          "cardId": "20050909",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "春野サクラ"
+        },
+        {
+          "speechCharactorId": "829",
+          "cardId": "20051001",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うずまきナルト"
+        },
+        {
+          "speechCharactorId": "830",
+          "cardId": "50000001",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "客"
+        },
+        {
           "speechCharactorId": "1000",
           "cardId": "21000091",
           "speechCharactorImgId": "1000",

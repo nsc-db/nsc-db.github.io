@@ -12271,6 +12271,19 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "960",
+          "name": "花形女中と月夜の祝福",
+          "description": "木ノ葉隠れの里所属の最大HPを100%アップし、行動後HPとチャクラが20％回復する",
+          "effectIdx1": "684",
+          "effectIdx2": "2500",
+          "effectIdx3": "583",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "961",
           "name": "青き雷の恭鳴",
           "description": "木ノ葉隠れの里所属のスキル発動速度1段階アップ、素早さ60%アップ",
@@ -12336,6 +12349,19 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "967",
+          "name": "人気女中と月夜の友情",
+          "description": "木ノ葉隠れの里所属の最大HPと攻撃力を100%アップ",
+          "effectIdx1": "684",
+          "effectIdx2": "11099",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "968",
           "name": "張り巡らせる影智",
           "description": "木ノ葉隠れの里と砂隠れの里所属のスキルダメージを100%アップする",
@@ -12347,6 +12373,19 @@
           "target1Param": "1",
           "target2Category": "2",
           "target2Param": "2"
+        },
+        {
+          "cardLeaderSkillId": "969",
+          "name": "ドタバタ忍者の収穫祭",
+          "description": "木ノ葉隠れの里所属の最大HPを86%アップ、7回行動するまで素早さ61.0%アップ",
+          "effectIdx1": "10085",
+          "effectIdx2": "2544",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
         },
         {
           "cardLeaderSkillId": "8507",
