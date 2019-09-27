@@ -3182,7 +3182,7 @@
           "speechCharactorId": "533",
           "cardId": "20001723",
           "speechCharactorImgId": "0",
-          "speechCharactorName": "サスケ"
+          "speechCharactorName": "うちはサスケ"
         },
         {
           "speechCharactorId": "534",
@@ -4397,6 +4397,18 @@
           "speechCharactorName": "うちはイズナ"
         },
         {
+          "speechCharactorId": "745",
+          "cardId": "745",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "香燐"
+        },
+        {
+          "speechCharactorId": "746",
+          "cardId": "746",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "重吾"
+        },
+        {
           "speechCharactorId": "749",
           "cardId": "20040809",
           "speechCharactorImgId": "0",
@@ -4475,6 +4487,12 @@
           "speechCharactorName": "???"
         },
         {
+          "speechCharactorId": "762",
+          "cardId": "50000013",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "不明な人物"
+        },
+        {
           "speechCharactorId": "763",
           "cardId": "763",
           "speechCharactorImgId": "0",
@@ -4541,6 +4559,66 @@
           "speechCharactorName": "うちはマダラ"
         },
         {
+          "speechCharactorId": "774",
+          "cardId": "774",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "シバ"
+        },
+        {
+          "speechCharactorId": "775",
+          "cardId": "775",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "はたけカカシ"
+        },
+        {
+          "speechCharactorId": "776",
+          "cardId": "776",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うずまきナルト"
+        },
+        {
+          "speechCharactorId": "777",
+          "cardId": "777",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "犬塚キバ"
+        },
+        {
+          "speechCharactorId": "778",
+          "cardId": "20050513",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "春野サクラ"
+        },
+        {
+          "speechCharactorId": "779",
+          "cardId": "779",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはサスケ"
+        },
+        {
+          "speechCharactorId": "780",
+          "cardId": "780",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "日向ヒナタ"
+        },
+        {
+          "speechCharactorId": "781",
+          "cardId": "781",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "油女シノ"
+        },
+        {
+          "speechCharactorId": "782",
+          "cardId": "782",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "薬師カブト"
+        },
+        {
+          "speechCharactorId": "783",
+          "cardId": "783",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "薬師カブト"
+        },
+        {
           "speechCharactorId": "787",
           "cardId": "787",
           "speechCharactorImgId": "0",
@@ -4553,10 +4631,94 @@
           "speechCharactorName": "岩隠れの忍"
         },
         {
+          "speechCharactorId": "790",
+          "cardId": "790",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "千手柱間"
+        },
+        {
+          "speechCharactorId": "791",
+          "cardId": "791",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "千手柱間"
+        },
+        {
+          "speechCharactorId": "792",
+          "cardId": "792",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "千手扉間"
+        },
+        {
+          "speechCharactorId": "793",
+          "cardId": "793",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "千手扉間"
+        },
+        {
+          "speechCharactorId": "794",
+          "cardId": "794",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "千手柱間"
+        },
+        {
+          "speechCharactorId": "795",
+          "cardId": "795",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはマダラ"
+        },
+        {
+          "speechCharactorId": "796",
+          "cardId": "796",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはタジマ"
+        },
+        {
+          "speechCharactorId": "797",
+          "cardId": "797",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "千手仏間"
+        },
+        {
+          "speechCharactorId": "800",
+          "cardId": "800",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "九尾"
+        },
+        {
+          "speechCharactorId": "804",
+          "cardId": "804",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはマダラ"
+        },
+        {
+          "speechCharactorId": "812",
+          "cardId": "812",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはマダラ"
+        },
+        {
+          "speechCharactorId": "813",
+          "cardId": "813",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはマダラ"
+        },
+        {
+          "speechCharactorId": "814",
+          "cardId": "814",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはマダラ"
+        },
+        {
           "speechCharactorId": "819",
           "cardId": "20001571",
           "speechCharactorImgId": "0",
           "speechCharactorName": "干柿鬼鮫"
+        },
+        {
+          "speechCharactorId": "820",
+          "cardId": "20001725",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "香燐"
         },
         {
           "speechCharactorId": "821",

@@ -20285,5 +20285,37 @@
           "crystalImageId": "209245",
           "recipeId": "20924",
           "recipeName": "神威雷切・弐"
+        },
+        {
+          "crystalId": "21001",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "1378",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "マダラの八坂ノ勾玉",
+          "crystalDescription": "1回行動するまでチャクラ消費量0",
+          "crystalImageId": "210015",
+          "recipeId": "21001",
+          "recipeName": "マダラの八坂ノ勾玉"
+        },
+        {
+          "crystalId": "21002",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "2553",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "うちはの家紋",
+          "crystalDescription": "確率でダメージ20%カット",
+          "crystalImageId": "210025",
+          "recipeId": "21002",
+          "recipeName": "うちはの家紋"
         }
       ]

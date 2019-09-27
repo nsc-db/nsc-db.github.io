@@ -1007,5 +1007,15 @@
           "uiIdx": "10012",
           "partyEffects": null,
           "enemyEffects": "2518,2519,2520,"
+        },
+        {
+          "battleFieldEffectId": "10013",
+          "name": "神々ノ戦場",
+          "category": "3",
+          "scriptId": "10013",
+          "overWrite": "1",
+          "uiIdx": "10013",
+          "partyEffects": null,
+          "enemyEffects": "2551,2552,"
         }
       ]

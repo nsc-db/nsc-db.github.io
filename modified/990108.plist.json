@@ -12388,6 +12388,19 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "970",
+          "name": "騒乱ノ鉄火",
+          "description": "心属性の最大HPと素早さを100%アップする",
+          "effectIdx1": "684",
+          "effectIdx2": "13099",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

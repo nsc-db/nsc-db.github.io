@@ -20780,6 +20780,24 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2365",
+          "abilityName": "闘争に燃える瞳",
+          "abilityDescription": "最大チャクラ量150ｱｯﾌﾟ、敵に木ノ葉隠れの里所属がいるとスキル発動速度1段階ｱｯﾌﾟ＆スキルダメージ200%ｱｯﾌﾟ",
+          "abilityEffectDescription": "最大チャクラ量150ｱｯﾌﾟ、敵に木ノ葉隠れの里所属がいるとスキル発動速度1段階ｱｯﾌﾟ＆スキルダメージ200%ｱｯﾌﾟ",
+          "effectIdx1": "20014",
+          "effectIdx2": "2547",
+          "effectIdx3": "2548"
+        },
+        {
+          "abilityId": "2366",
+          "abilityName": "怒涛の猛襲",
+          "abilityDescription": "敵に神忍がいるとﾊﾞﾄﾙ開始時に「来い！！」で急襲攻撃（ﾁｬｸﾗ中回復）、HP0以下で1回HP全回復",
+          "abilityEffectDescription": "敵に神忍がいるとﾊﾞﾄﾙ開始時に「来い！！」で急襲攻撃（ﾁｬｸﾗ中回復）、HP0以下で1回HP全回復",
+          "effectIdx1": "2549",
+          "effectIdx2": "312",
+          "effectIdx3": "874"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
