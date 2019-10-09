@@ -167,6 +167,20 @@
           "gender": "1"
         },
         {
+          "charaProfileId": "113",
+          "charaId": "1",
+          "name": "うずまきナルト",
+          "detail": "少年篇",
+          "charaLoveAffinityGroupId": "110",
+          "birthday": "1010",
+          "constellation": "7",
+          "height": "14750",
+          "weight": "4060",
+          "bloodType": "2",
+          "age": "13",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "201",
           "charaId": "2",
           "name": "うちはサスケ",
@@ -3597,6 +3611,20 @@
           "gender": "1"
         },
         {
+          "charaProfileId": "52301",
+          "charaId": "523",
+          "name": "山中フー",
+          "detail": null,
+          "charaLoveAffinityGroupId": "52310",
+          "birthday": "820",
+          "constellation": "5",
+          "height": "18000",
+          "weight": "6170",
+          "bloodType": "1",
+          "age": "19",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "100101",
           "charaId": "0",
           "name": "体のガマ",
@@ -6297,6 +6325,20 @@
           "bloodType": "0",
           "age": "0",
           "gender": "1"
+        },
+        {
+          "charaProfileId": "500101",
+          "charaId": "5001",
+          "name": "九喇嘛",
+          "detail": null,
+          "charaLoveAffinityGroupId": "0",
+          "birthday": "0",
+          "constellation": "0",
+          "height": "0",
+          "weight": "0",
+          "bloodType": "0",
+          "age": "0",
+          "gender": "0"
         },
         {
           "charaProfileId": "700101",

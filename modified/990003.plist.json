@@ -117,5 +117,13 @@
         {
           "assetCategoryId": "31",
           "assetTitle": "特定スフィア盤解放素材"
+        },
+        {
+          "assetCategoryId": "32",
+          "assetTitle": "超獣所持枠拡張"
+        },
+        {
+          "assetCategoryId": "33",
+          "assetTitle": "超獣編成枠解放"
         }
       ]

@@ -1931,6 +1931,62 @@
           "deleteFlg": "0"
         },
         {
+          "scriptSettingId": "70000064",
+          "triggerId": "0",
+          "priority": "0",
+          "eventId": "0",
+          "worldStageId": "0",
+          "worldPhaseId": "0",
+          "compositionNum": "0",
+          "oneTimeFlg": "1",
+          "exclusionFlg": "0",
+          "saveFlg": "1",
+          "memo": "[超獣]スフィア盤TOPチュートリアル",
+          "deleteFlg": "0"
+        },
+        {
+          "scriptSettingId": "70000065",
+          "triggerId": "0",
+          "priority": "0",
+          "eventId": "0",
+          "worldStageId": "0",
+          "worldPhaseId": "0",
+          "compositionNum": "0",
+          "oneTimeFlg": "1",
+          "exclusionFlg": "0",
+          "saveFlg": "1",
+          "memo": "[超獣]スフィア盤課金TOPチュートリアル",
+          "deleteFlg": "0"
+        },
+        {
+          "scriptSettingId": "70000066",
+          "triggerId": "0",
+          "priority": "0",
+          "eventId": "0",
+          "worldStageId": "0",
+          "worldPhaseId": "0",
+          "compositionNum": "0",
+          "oneTimeFlg": "1",
+          "exclusionFlg": "0",
+          "saveFlg": "1",
+          "memo": "[超獣]最終マスチュートリアル",
+          "deleteFlg": "0"
+        },
+        {
+          "scriptSettingId": "70000067",
+          "triggerId": "0",
+          "priority": "0",
+          "eventId": "0",
+          "worldStageId": "0",
+          "worldPhaseId": "0",
+          "compositionNum": "0",
+          "oneTimeFlg": "1",
+          "exclusionFlg": "0",
+          "saveFlg": "1",
+          "memo": "[超獣]カスタムマスチュートリアル",
+          "deleteFlg": "0"
+        },
+        {
           "scriptSettingId": "70002000",
           "triggerId": "2",
           "priority": "0",
@@ -2026,6 +2082,20 @@
           "exclusionFlg": "1",
           "saveFlg": "1",
           "memo": "【チュートリアル】 その他",
+          "deleteFlg": "0"
+        },
+        {
+          "scriptSettingId": "70010000",
+          "triggerId": "10",
+          "priority": "0",
+          "eventId": "0",
+          "worldStageId": "0",
+          "worldPhaseId": "0",
+          "compositionNum": "0",
+          "oneTimeFlg": "1",
+          "exclusionFlg": "1",
+          "saveFlg": "1",
+          "memo": "【チュートリアル】 超獣",
           "deleteFlg": "0"
         },
         {

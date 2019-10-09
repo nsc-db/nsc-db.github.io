@@ -503,6 +503,102 @@
           "needCount": "2"
         },
         {
+          "worldPhaseKeyId": "85",
+          "keyGroupId": "10000",
+          "worldPhaseId": "600091",
+          "needCount": "1"
+        },
+        {
+          "worldPhaseKeyId": "86",
+          "keyGroupId": "10000",
+          "worldPhaseId": "600092",
+          "needCount": "1"
+        },
+        {
+          "worldPhaseKeyId": "87",
+          "keyGroupId": "10000",
+          "worldPhaseId": "600093",
+          "needCount": "1"
+        },
+        {
+          "worldPhaseKeyId": "88",
+          "keyGroupId": "10000",
+          "worldPhaseId": "600094",
+          "needCount": "1"
+        },
+        {
+          "worldPhaseKeyId": "89",
+          "keyGroupId": "10000",
+          "worldPhaseId": "600095",
+          "needCount": "1"
+        },
+        {
+          "worldPhaseKeyId": "90",
+          "keyGroupId": "10000",
+          "worldPhaseId": "600096",
+          "needCount": "1"
+        },
+        {
+          "worldPhaseKeyId": "91",
+          "keyGroupId": "10000",
+          "worldPhaseId": "600097",
+          "needCount": "1"
+        },
+        {
+          "worldPhaseKeyId": "92",
+          "keyGroupId": "10000",
+          "worldPhaseId": "600098",
+          "needCount": "1"
+        },
+        {
+          "worldPhaseKeyId": "93",
+          "keyGroupId": "10000",
+          "worldPhaseId": "600099",
+          "needCount": "2"
+        },
+        {
+          "worldPhaseKeyId": "94",
+          "keyGroupId": "10000",
+          "worldPhaseId": "600100",
+          "needCount": "2"
+        },
+        {
+          "worldPhaseKeyId": "95",
+          "keyGroupId": "10000",
+          "worldPhaseId": "600101",
+          "needCount": "2"
+        },
+        {
+          "worldPhaseKeyId": "96",
+          "keyGroupId": "10000",
+          "worldPhaseId": "600102",
+          "needCount": "2"
+        },
+        {
+          "worldPhaseKeyId": "97",
+          "keyGroupId": "10000",
+          "worldPhaseId": "600103",
+          "needCount": "2"
+        },
+        {
+          "worldPhaseKeyId": "98",
+          "keyGroupId": "10000",
+          "worldPhaseId": "600104",
+          "needCount": "2"
+        },
+        {
+          "worldPhaseKeyId": "99",
+          "keyGroupId": "10000",
+          "worldPhaseId": "600105",
+          "needCount": "2"
+        },
+        {
+          "worldPhaseKeyId": "100",
+          "keyGroupId": "10000",
+          "worldPhaseId": "600106",
+          "needCount": "2"
+        },
+        {
           "worldPhaseKeyId": "1001",
           "keyGroupId": "10000",
           "worldPhaseId": "610001",

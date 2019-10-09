@@ -1840,7 +1840,7 @@
         },
         {
           "appUiId": "369",
-          "uiKey": "",
+          "uiKey": "Expansion",
           "text": "拡張する"
         },
         {
@@ -2105,8 +2105,8 @@
         },
         {
           "appUiId": "422",
-          "uiKey": "",
-          "text": "★３以上の忍が選択されています"
+          "uiKey": "0",
+          "text": "★３以上のキャラが選択されています"
         },
         {
           "appUiId": "423",
@@ -2176,7 +2176,7 @@
         {
           "appUiId": "436",
           "uiKey": "RareCardCaution",
-          "text": "★３以上の忍が含まれています"
+          "text": "★３以上のキャラが含まれています"
         },
         {
           "appUiId": "437",
@@ -4236,7 +4236,7 @@
         {
           "appUiId": "848",
           "uiKey": "FAVORITE_PRIORITY",
-          "text": "お気に入りの忍を優先して表示"
+          "text": "お気に入りのキャラを優先して表示"
         },
         {
           "appUiId": "849",
@@ -4276,7 +4276,7 @@
         {
           "appUiId": "856",
           "uiKey": "CardDeleteConfirmTitle",
-          "text": "レア度の高い忍が含まれています"
+          "text": "レア度の高いキャラが含まれています"
         },
         {
           "appUiId": "857",
@@ -4456,7 +4456,7 @@
         {
           "appUiId": "892",
           "uiKey": "ContinueTopMessage",
-          "text": "忍石１個を消費すると HP・チャクラが\r\n全回復した状態で任務を再開できます"
+          "text": "忍石１個を消費すると\r\nHP・チャクラ・発動カウントが\r\n全回復した状態で任務を再開できます"
         },
         {
           "appUiId": "893",
@@ -5311,7 +5311,7 @@
         {
           "appUiId": "1063",
           "uiKey": "CardDeleteRaritySixDesc",
-          "text": "レア度が６の忍が含まれています！\r\n\r\n本当によろしいですか？"
+          "text": "レア度が６のキャラが含まれています！\r\n\r\n本当によろしいですか？"
         },
         {
           "appUiId": "1064",
@@ -6596,7 +6596,7 @@
         {
           "appUiId": "1320",
           "uiKey": "SPECIFIC_EFFECT_PRIORITY",
-          "text": "特効対象の忍を優先して表示"
+          "text": "特効対象のキャラを優先して表示"
         },
         {
           "appUiId": "1321",
@@ -7361,7 +7361,7 @@
         {
           "appUiId": "1476",
           "uiKey": "ArenaContinueTopMessage",
-          "text": "忍石１個を消費すると HP・チャクラが\r\n全回復した状態で任務を再開できます"
+          "text": "忍石１個を消費すると\r\nHP・チャクラ・発動カウントが\r\n全回復した状態で任務を再開できます"
         },
         {
           "appUiId": "1477",
@@ -7791,12 +7791,12 @@
         {
           "appUiId": "1562",
           "uiKey": "MissionReplayErrorMessage4",
-          "text": "カード枠が上限に達しています"
+          "text": "忍所持枠が上限に達しています"
         },
         {
           "appUiId": "1563",
           "uiKey": "MissionReplayErrorMessage5",
-          "text": "素材カード枠が上限に達しています"
+          "text": "素材所持枠が上限に達しています"
         },
         {
           "appUiId": "1564",
@@ -7876,7 +7876,7 @@
         {
           "appUiId": "1579",
           "uiKey": "ShinobiListOverLabelNotSphere",
-          "text": "潜在覚醒盤を持つ忍を所持していません"
+          "text": "潜在覚醒盤を持つキャラを所持していません"
         },
         {
           "appUiId": "1580",
@@ -8051,7 +8051,7 @@
         {
           "appUiId": "1614",
           "uiKey": "CardDeleteReleasedSphereDesc",
-          "text": "潜在覚醒解放済みの忍が含まれています！\r\n\r\n本当によろしいですか？"
+          "text": "潜在覚醒解放済みのキャラが含まれています！\r\n\r\n本当によろしいですか？"
         },
         {
           "appUiId": "1615",
@@ -8066,7 +8066,7 @@
         {
           "appUiId": "1617",
           "uiKey": "SphereSellInfo",
-          "text": "至宝変換する忍を選択して下さい"
+          "text": "至宝変換するキャラを選択して下さい"
         },
         {
           "appUiId": "1618",
@@ -8077,5 +8077,230 @@
           "appUiId": "1619",
           "uiKey": "NotHaveSphereMaterial",
           "text": "潜在覚醒素材を所持していません"
+        },
+        {
+          "appUiId": "1620",
+          "uiKey": "SummonPossible",
+          "text": "可"
+        },
+        {
+          "appUiId": "1621",
+          "uiKey": "SphereSkillLvUp",
+          "text": "スキルLvアップマス"
+        },
+        {
+          "appUiId": "1622",
+          "uiKey": "SphereSkillCount",
+          "text": "スキルカウント減少マス"
+        },
+        {
+          "appUiId": "1623",
+          "uiKey": "SphereAttribute_301",
+          "text": "壱"
+        },
+        {
+          "appUiId": "1624",
+          "uiKey": "SphereAttribute_302",
+          "text": "弐"
+        },
+        {
+          "appUiId": "1625",
+          "uiKey": "SphereAttribute_303",
+          "text": "参"
+        },
+        {
+          "appUiId": "1626",
+          "uiKey": "SellSummonLayoutDesc",
+          "text": "売却する乱舞キャラを選択して下さい"
+        },
+        {
+          "appUiId": "1627",
+          "uiKey": "CardSummonListTitle",
+          "text": "乱舞キャラ一覧"
+        },
+        {
+          "appUiId": "1628",
+          "uiKey": "CardSummonListDesc",
+          "text": "所持乱舞キャラの詳細確認ができます"
+        },
+        {
+          "appUiId": "1629",
+          "uiKey": "SummonSpherePowerUpBaseTitle",
+          "text": "潜在覚醒ベース選択"
+        },
+        {
+          "appUiId": "1630",
+          "uiKey": "SummonSpherePowerUpBaseDesc",
+          "text": "潜在覚醒する乱舞キャラを選択して下さい"
+        },
+        {
+          "appUiId": "1631",
+          "uiKey": "SummonDeckExpansionTitle",
+          "text": "編成枠拡張"
+        },
+        {
+          "appUiId": "1632",
+          "uiKey": "SummonDeckExpansionDesc",
+          "text": "乱舞キャラの編成枠を一つ拡張します"
+        },
+        {
+          "appUiId": "1633",
+          "uiKey": "SummonDeckExpansionMaterialFormat",
+          "text": "「%s」が必要です"
+        },
+        {
+          "appUiId": "1634",
+          "uiKey": "SummonDeckExpansionMaterialShortage",
+          "text": "素材が不足しています"
+        },
+        {
+          "appUiId": "1635",
+          "uiKey": "SummonDeckExpansionEndMessage",
+          "text": "乱舞キャラ編成枠が拡張されました！"
+        },
+        {
+          "appUiId": "1636",
+          "uiKey": "SkillLv",
+          "text": "スキルLv"
+        },
+        {
+          "appUiId": "1637",
+          "uiKey": "SkillCount",
+          "text": "カウント"
+        },
+        {
+          "appUiId": "1638",
+          "uiKey": "SummonListSelectTitle",
+          "text": "乱舞キャラ選択"
+        },
+        {
+          "appUiId": "1639",
+          "uiKey": "SummonDeckChangeDesc",
+          "text": "編成する乱舞キャラを選択してください"
+        },
+        {
+          "appUiId": "1640",
+          "uiKey": "SkillCountAsc",
+          "text": "早い順"
+        },
+        {
+          "appUiId": "1641",
+          "uiKey": "SkillCountDesc",
+          "text": "遅い順"
+        },
+        {
+          "appUiId": "1642",
+          "uiKey": "SkillLevel2",
+          "text": "スキルLv:"
+        },
+        {
+          "appUiId": "1643",
+          "uiKey": "SkillLevelMax",
+          "text": "スキルLv:最大"
+        },
+        {
+          "appUiId": "1644",
+          "uiKey": "SphereSummonLastReleaseText1",
+          "text": "スキルマスが解放可能になります"
+        },
+        {
+          "appUiId": "1645",
+          "uiKey": "ReleaseSummonLastSphereText",
+          "text": "「スキルマス」が\r\n解放可能になりました"
+        },
+        {
+          "appUiId": "1646",
+          "uiKey": "BattleWave1",
+          "text": "第壱戦"
+        },
+        {
+          "appUiId": "1647",
+          "uiKey": "BattleWave2",
+          "text": "第弐戦"
+        },
+        {
+          "appUiId": "1648",
+          "uiKey": "BattleWave3",
+          "text": "第参戦"
+        },
+        {
+          "appUiId": "1649",
+          "uiKey": "BattleWave4",
+          "text": "第四戦"
+        },
+        {
+          "appUiId": "1650",
+          "uiKey": "BattleWave5",
+          "text": "第五戦"
+        },
+        {
+          "appUiId": "1651",
+          "uiKey": "BattleWave6",
+          "text": "第六戦"
+        },
+        {
+          "appUiId": "1652",
+          "uiKey": "BattleWave7",
+          "text": "第七戦"
+        },
+        {
+          "appUiId": "1653",
+          "uiKey": "BattleWave8",
+          "text": "第八戦"
+        },
+        {
+          "appUiId": "1654",
+          "uiKey": "BattleWave9",
+          "text": "第九戦"
+        },
+        {
+          "appUiId": "1655",
+          "uiKey": "SummonCountOverTitle",
+          "text": "乱舞キャラの所持枠が一杯です"
+        },
+        {
+          "appUiId": "1656",
+          "uiKey": "SummonCountOverText",
+          "text": "乱舞キャラの売却を行って\r\n乱舞キャラの所持枠を空けてください。"
+        },
+        {
+          "appUiId": "1657",
+          "uiKey": "SummonSell",
+          "text": "売却"
+        },
+        {
+          "appUiId": "1658",
+          "uiKey": "SpecificSummonMaterialName",
+          "text": "乱舞の至宝・%s"
+        },
+        {
+          "appUiId": "1659",
+          "uiKey": "ShinobiListOverLabelNotSummon",
+          "text": "乱舞キャラを所持していません"
+        },
+        {
+          "appUiId": "1660",
+          "uiKey": "SummonAbility1",
+          "text": "乱舞アビリティ1"
+        },
+        {
+          "appUiId": "1661",
+          "uiKey": "SummonAbility2",
+          "text": "乱舞アビリティ2"
+        },
+        {
+          "appUiId": "1662",
+          "uiKey": "LeaderSummonSkill",
+          "text": "乱舞隊長スキル"
+        },
+        {
+          "appUiId": "1663",
+          "uiKey": "SummonSellToGetItemMessage",
+          "text": "売却／至宝変換しました\r\n潜在覚醒素材「乱舞の至宝」を獲得しました"
+        },
+        {
+          "appUiId": "1664",
+          "uiKey": "MissionReplayErrorMessage6",
+          "text": "乱舞キャラ所持枠が上限に達しています"
         }
       ]

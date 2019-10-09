@@ -260,7 +260,7 @@
           "speechCharactorId": "44",
           "cardId": "20000661",
           "speechCharactorImgId": "44",
-          "speechCharactorName": "ビー"
+          "speechCharactorName": "キラービー"
         },
         {
           "speechCharactorId": "45",
@@ -4106,7 +4106,7 @@
           "speechCharactorId": "688",
           "cardId": "20001795",
           "speechCharactorImgId": "0",
-          "speechCharactorName": "ペイン（天道）"
+          "speechCharactorName": "ペイン"
         },
         {
           "speechCharactorId": "689",
@@ -4118,7 +4118,7 @@
           "speechCharactorId": "690",
           "cardId": "20031115",
           "speechCharactorImgId": "0",
-          "speechCharactorName": "ペイン(天道)"
+          "speechCharactorName": "ペイン"
         },
         {
           "speechCharactorId": "691",
@@ -4685,6 +4685,24 @@
           "speechCharactorName": "九尾"
         },
         {
+          "speechCharactorId": "801",
+          "cardId": "801",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うずまきナルト"
+        },
+        {
+          "speechCharactorId": "802",
+          "cardId": "802",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "波風ミナト"
+        },
+        {
+          "speechCharactorId": "803",
+          "cardId": "803",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "九尾"
+        },
+        {
           "speechCharactorId": "804",
           "cardId": "804",
           "speechCharactorImgId": "0",
@@ -4707,6 +4725,30 @@
           "cardId": "814",
           "speechCharactorImgId": "0",
           "speechCharactorName": "うちはマダラ"
+        },
+        {
+          "speechCharactorId": "815",
+          "cardId": "815",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "波風ミナト"
+        },
+        {
+          "speechCharactorId": "816",
+          "cardId": "816",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うずまきクシナ"
+        },
+        {
+          "speechCharactorId": "817",
+          "cardId": "817",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "四尾"
+        },
+        {
+          "speechCharactorId": "818",
+          "cardId": "818",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "九喇嘛"
         },
         {
           "speechCharactorId": "819",
@@ -4773,6 +4815,30 @@
           "cardId": "50000001",
           "speechCharactorImgId": "0",
           "speechCharactorName": "客"
+        },
+        {
+          "speechCharactorId": "842",
+          "cardId": "20001558",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "波風ミナト"
+        },
+        {
+          "speechCharactorId": "844",
+          "cardId": "817",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "孫悟空"
+        },
+        {
+          "speechCharactorId": "845",
+          "cardId": "230",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "九喇嘛"
+        },
+        {
+          "speechCharactorId": "847",
+          "cardId": "20040203",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "仮面の男"
         },
         {
           "speechCharactorId": "1000",

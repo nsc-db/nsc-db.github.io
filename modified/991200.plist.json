@@ -11301,5 +11301,77 @@
           "effectIdx2": "1958",
           "effectIdx3": "2556",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "958",
+          "targetCrystal": "21005",
+          "description": "最大HP120%アップ、攻撃力と防御力と素早さを80%アップ",
+          "charaIds": "108,112,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1221",
+          "effectIdx2": "11079",
+          "effectIdx3": "12079",
+          "effectIdx4": "13079"
+        },
+        {
+          "crystalOverwriteEffectId": "959",
+          "targetCrystal": "21006",
+          "description": "1回行動までチャクラ消費0、2回行動までスキル発動速度1段階アップ、3回行動までキャンセル無効",
+          "charaIds": "108,112,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1378",
+          "effectIdx2": "1379",
+          "effectIdx3": "2070",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "960",
+          "targetCrystal": "21019",
+          "description": "最大HP200%アップ、行動ごとに攻撃力と素早さが50%アップ（最大4回まで）",
+          "charaIds": "51101,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "10100",
+          "effectIdx2": "2532",
+          "effectIdx3": "2533",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "961",
+          "targetCrystal": "21020",
+          "description": "1回行動するまでチャクラ消費量0、2回行動以降はチャクラ消費量半減、行動後チャクラが20%回復",
+          "charaIds": "51101,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1378",
+          "effectIdx2": "1538",
+          "effectIdx3": "1768",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "962",
+          "targetCrystal": "21021",
+          "description": "1回行動するまでチャクラ消費量0、2回行動以降はチャクラ消費量半減、行動後チャクラが20%回復",
+          "charaIds": "20601,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1378",
+          "effectIdx2": "1538",
+          "effectIdx3": "1768",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "963",
+          "targetCrystal": "21022",
+          "description": "3回行動するまで写輪眼タイプのスキル無効、HP90%以上の時、耐性無視ダメージ0",
+          "charaIds": "20601,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "240",
+          "effectIdx2": "1998",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
         }
       ]

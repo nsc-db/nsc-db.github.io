@@ -717,5 +717,41 @@
         {
           "defineKey": "sphere_cost_boarder",
           "defineValue": "90"
+        },
+        {
+          "defineKey": "summon_card_max_count_init",
+          "defineValue": "50"
+        },
+        {
+          "defineKey": "summon_card_max_count_limit",
+          "defineValue": "100"
+        },
+        {
+          "defineKey": "summon_deck_max_slot_init",
+          "defineValue": "1"
+        },
+        {
+          "defineKey": "summon_deck_max_slot_limit",
+          "defineValue": "4"
+        },
+        {
+          "defineKey": "auto_battle_summon_ai_id",
+          "defineValue": "991001"
+        },
+        {
+          "defineKey": "auto_battle_attack_only_summon_ai_id",
+          "defineValue": "991002"
+        },
+        {
+          "defineKey": "boss_summon_ai_id",
+          "defineValue": "991001"
+        },
+        {
+          "defineKey": "limit_summon_until_max",
+          "defineValue": "9999"
+        },
+        {
+          "defineKey": "sphere_top_display_summon_materials",
+          "defineValue": "0,0"
         }
       ]

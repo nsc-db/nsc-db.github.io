@@ -363,11 +363,11 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
-          "worldStageId": "1193",
+          "worldStageId": "1198",
           "worldAreaId": "5",
-          "priority": "2",
-          "name": "乱逆の魔像",
-          "description": "個人Ptを集めて長門の固有忍具を獲得しよう！",
+          "priority": "1",
+          "name": "螺旋の軌跡\r\n",
+          "description": "兄弟ゲンカはここで終わりにするってばよ…！\r\n皆の想いを胸にサスケとの全てを賭けた戦いが\r\n今はじまる！",
           "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
           "type": "0",
           "prerequisiteWorldStageId": "0",
@@ -415,10 +415,10 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
-          "worldStageId": "1280",
+          "worldStageId": "1281",
           "worldAreaId": "5",
           "priority": "1",
-          "name": "ガイとカカシ～生涯の好敵手～",
+          "name": "祝いの月夜",
           "description": "個人Ptを集めて固有忍具や育成素材を獲得しよう！",
           "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
           "type": "0",
@@ -428,11 +428,11 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
-          "worldStageId": "1281",
+          "worldStageId": "1282",
           "worldAreaId": "5",
-          "priority": "1",
-          "name": "祝いの月夜",
-          "description": "個人Ptを集めて固有忍具や育成素材を獲得しよう！",
+          "priority": "2",
+          "name": "大激闘-神無月の陣-",
+          "description": "ランパートではドロップではなく\r\nクリア時に個人Ptを獲得できます。",
           "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
           "type": "0",
           "prerequisiteWorldStageId": "0",
@@ -493,19 +493,6 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
-          "worldStageId": "4103",
-          "worldAreaId": "5",
-          "priority": "1",
-          "name": "英雄録～カカシ・追憶と覚悟",
-          "description": "Ptランキング開催！\r\n個人Ptはイベント期間中のみ加算されます",
-          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
-          "type": "0",
-          "prerequisiteWorldStageId": "0",
-          "openWeek": null,
-          "openTime": "0000.00.00 00:00:00",
-          "closeTime": "0000.00.00 00:00:00"
-        },
-        {
           "worldStageId": "4104",
           "worldAreaId": "5",
           "priority": "1",
@@ -551,6 +538,19 @@
           "name": "キング・オブ・ダメラン-特別篇-～総合～",
           "description": "0",
           "notice": "0",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
+          "worldStageId": "4108",
+          "worldAreaId": "5",
+          "priority": "1",
+          "name": "ナルト誕生～友情で結ばれし九喇嘛～",
+          "description": "Ptランキング開催！\r\n個人Ptはイベント期間中のみ加算されます",
+          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
           "type": "0",
           "prerequisiteWorldStageId": "0",
           "openWeek": null,
@@ -1403,6 +1403,19 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
+          "worldStageId": "8042",
+          "worldAreaId": "9",
+          "priority": "0",
+          "name": "第三十六回 昇級試験",
+          "description": "この任務は、他のユーザーの班と戦う任務です\r\n1度の挑戦で行うバトルの回数は、1回となります\r\n連続で勝利すると連続勝利数ボーナスが発生、より多くのPtを獲得可能です\r\n※全キャラクターの全ダメージ及びスキル発動速度は調整が行われております",
+          "notice": "0",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
           "worldStageId": "9000",
           "worldAreaId": "4",
           "priority": "0",
@@ -2055,11 +2068,24 @@
         {
           "worldStageId": "70018",
           "worldAreaId": "12",
-          "priority": "99",
+          "priority": "212",
           "name": "シマのおいしい!?クッキング",
           "description": "【忍具 獲得任務】\r\n  ドロップ報酬を使って忍具を生成しよう！",
           "notice": "※任務は告知なく終了・内容変更となる場合がございます。\r\n※この任務は、Ptブーストや特効キャラの特効対象外となります。\r\n※同種の鍵については、有効期限が早いものから先に消費されます。",
           "type": "104",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
+          "worldStageId": "70020",
+          "worldAreaId": "12",
+          "priority": "99",
+          "name": "ロック・リーの青春！潜在覚醒修業！！",
+          "description": "【潜在覚醒素材 獲得任務】\r\n  素材を集めて、潜在覚醒盤を解放しよう！",
+          "notice": "※任務は告知なく終了・内容変更となる場合がございます。\r\n※この任務は、Ptブーストや特効キャラの特効対象外となります。\r\n※同種の鍵については、有効期限が早いものから先に消費されます。",
+          "type": "101",
           "prerequisiteWorldStageId": "0",
           "openWeek": null,
           "openTime": "0000.00.00 00:00:00",

@@ -2297,5 +2297,15 @@
           "subScore": "0",
           "color": "8355711",
           "type": "3"
+        },
+        {
+          "cardUnusualId": "234",
+          "category": "4",
+          "iconId": "1265",
+          "name": "神々の柱",
+          "description": "攻撃力・スキル発動速度アップ、行動直後に特定キャラをアクション状態にする",
+          "subScore": "0",
+          "color": "16752899",
+          "type": "2"
         }
       ]

@@ -6575,6 +6575,14 @@
           "name": "甘すぎちゃダメなのよねー！"
         },
         {
+          "cardBattleSkillNameId": "2854",
+          "name": "共鳴・光眩尾獣玉"
+        },
+        {
+          "cardBattleSkillNameId": "2855",
+          "name": "さあ、行こうぜ！！！"
+        },
+        {
           "cardBattleSkillNameId": "2857",
           "name": "じっとしてろ…"
         },
@@ -6625,6 +6633,30 @@
         {
           "cardBattleSkillNameId": "2869",
           "name": "来い！！"
+        },
+        {
+          "cardBattleSkillNameId": "2870",
+          "name": "暗部流・露払い"
+        },
+        {
+          "cardBattleSkillNameId": "2871",
+          "name": "カウンターを狙えばいい"
+        },
+        {
+          "cardBattleSkillNameId": "2872",
+          "name": "キンちゃん師匠♪情念指導♪"
+        },
+        {
+          "cardBattleSkillNameId": "2873",
+          "name": "オレの情念を思い知りなよっ"
+        },
+        {
+          "cardBattleSkillNameId": "2874",
+          "name": "人傀儡・“父”と“母”"
+        },
+        {
+          "cardBattleSkillNameId": "2875",
+          "name": "ワシ一人でやる"
         },
         {
           "cardBattleSkillNameId": "10136",
@@ -6813,5 +6845,9 @@
         {
           "cardBattleSkillNameId": "30002",
           "name": "強化（素早さ）"
+        },
+        {
+          "cardBattleSkillNameId": "500001",
+          "name": "ガマ親分・渡世の刃"
         }
       ]

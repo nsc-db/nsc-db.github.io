@@ -9,5 +9,29 @@
           "cardId": "20050813",
           "normalPanelList": "9000001,9000002,9000003",
           "specialPanelList": "9000004,9000005,9000006"
+        },
+        {
+          "sphereBoardId": "50001",
+          "boardName": "Temp_Ct=&gt;90_体属性_の潜在覚醒盤",
+          "boardDescription": "うずまきナルト【解き示す絆の輝き】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20051005",
+          "normalPanelList": "9100013,9100014,9100015",
+          "specialPanelList": "9100016,9100017,9100018"
+        },
+        {
+          "sphereBoardId": "5000001",
+          "boardName": "ガマブン太",
+          "boardDescription": "うずまきナルト【救う想いと仁義の共闘】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "50051001",
+          "normalPanelList": "5000001,5000002,5000003",
+          "specialPanelList": "5000004,5000005,5000006"
         }
       ]

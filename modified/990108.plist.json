@@ -12310,6 +12310,19 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "963",
+          "name": "解き示す絆の輝き",
+          "description": "敵に無所属がいると自身含む味方の神忍が、ﾊﾞﾄﾙ開始時に編成人数に応じて確率で先制攻撃",
+          "effectIdx1": "2558",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "964",
           "name": "輪獄の瞳標",
           "description": "技属性の素早さと全スキルダメージを100%アップする",
@@ -12399,6 +12412,58 @@
           "target1Param": "1",
           "target2Category": "0",
           "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "971",
+          "name": "救う想いと仁義の共闘",
+          "description": "味方の死亡時に乱舞ｶｳﾝﾄを1減少（即死除く）、木ノ葉隠れの里所属の最大HP30%ｱｯﾌﾟ",
+          "effectIdx1": "2561",
+          "effectIdx2": "2562",
+          "effectIdx3": "0",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "972",
+          "name": "心縛の闇根",
+          "description": "木ノ葉隠れの里所属の最大チャクラ量30アップ、素早さを50%アップする",
+          "effectIdx1": "20002",
+          "effectIdx2": "112",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "973",
+          "name": "浪花節だよ忍道は",
+          "description": "ユーザー経験値と信頼度の獲得量が50%アップ",
+          "effectIdx1": "1774",
+          "effectIdx2": "1708",
+          "effectIdx3": "0",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "974",
+          "name": "操熟の老傀師",
+          "description": "砂隠れの里と木ノ葉隠れの里所属の最大HPと防御力を80%アップ",
+          "effectIdx1": "649",
+          "effectIdx2": "12079",
+          "effectIdx3": "0",
+          "compType": "2",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "2",
+          "target2Param": "2"
         },
         {
           "cardLeaderSkillId": "8507",

@@ -1,7 +1,17 @@
 [        {
+          "sphereMaterialId": "2",
+          "materialName": "禁忌の至宝・神の断片",
+          "materialRare": "2"
+        },
+        {
           "sphereMaterialId": "3",
           "materialName": "禁忌の至宝",
           "materialRare": "4"
+        },
+        {
+          "sphereMaterialId": "4",
+          "materialName": "禁忌の至宝・神",
+          "materialRare": "5"
         },
         {
           "sphereMaterialId": "10",
@@ -112,5 +122,165 @@
           "sphereMaterialId": "703",
           "materialName": "会心力の証・大",
           "materialRare": "3"
+        },
+        {
+          "sphereMaterialId": "50001",
+          "materialName": "乱舞の至宝の断片",
+          "materialRare": "1"
+        },
+        {
+          "sphereMaterialId": "50002",
+          "materialName": "乱舞の至宝・神の断片",
+          "materialRare": "2"
+        },
+        {
+          "sphereMaterialId": "50003",
+          "materialName": "乱舞の至宝",
+          "materialRare": "4"
+        },
+        {
+          "sphereMaterialId": "50004",
+          "materialName": "乱舞の至宝・神",
+          "materialRare": "5"
+        },
+        {
+          "sphereMaterialId": "50010",
+          "materialName": "乱舞の力",
+          "materialRare": "5"
+        },
+        {
+          "sphereMaterialId": "50101",
+          "materialName": "HPの勾玉・小",
+          "materialRare": "1"
+        },
+        {
+          "sphereMaterialId": "50102",
+          "materialName": "HPの勾玉・中",
+          "materialRare": "2"
+        },
+        {
+          "sphereMaterialId": "50103",
+          "materialName": "HPの勾玉・大",
+          "materialRare": "3"
+        },
+        {
+          "sphereMaterialId": "50201",
+          "materialName": "攻撃力の勾玉・小",
+          "materialRare": "1"
+        },
+        {
+          "sphereMaterialId": "50202",
+          "materialName": "攻撃力の勾玉・中",
+          "materialRare": "2"
+        },
+        {
+          "sphereMaterialId": "50203",
+          "materialName": "攻撃力の勾玉・大",
+          "materialRare": "3"
+        },
+        {
+          "sphereMaterialId": "50301",
+          "materialName": "防御力の勾玉・小",
+          "materialRare": "1"
+        },
+        {
+          "sphereMaterialId": "50302",
+          "materialName": "防御力の勾玉・中",
+          "materialRare": "2"
+        },
+        {
+          "sphereMaterialId": "50303",
+          "materialName": "防御力の勾玉・大",
+          "materialRare": "3"
+        },
+        {
+          "sphereMaterialId": "50401",
+          "materialName": "素早さの勾玉・小",
+          "materialRare": "1"
+        },
+        {
+          "sphereMaterialId": "50402",
+          "materialName": "素早さの勾玉・中",
+          "materialRare": "2"
+        },
+        {
+          "sphereMaterialId": "50403",
+          "materialName": "素早さの勾玉・大",
+          "materialRare": "3"
+        },
+        {
+          "sphereMaterialId": "50501",
+          "materialName": "回避率の勾玉・小",
+          "materialRare": "1"
+        },
+        {
+          "sphereMaterialId": "50502",
+          "materialName": "回避率の勾玉・中",
+          "materialRare": "2"
+        },
+        {
+          "sphereMaterialId": "50503",
+          "materialName": "回避率の勾玉・大",
+          "materialRare": "3"
+        },
+        {
+          "sphereMaterialId": "50601",
+          "materialName": "会心率の勾玉・小",
+          "materialRare": "1"
+        },
+        {
+          "sphereMaterialId": "50602",
+          "materialName": "会心率の勾玉・中",
+          "materialRare": "2"
+        },
+        {
+          "sphereMaterialId": "50603",
+          "materialName": "会心率の勾玉・大",
+          "materialRare": "3"
+        },
+        {
+          "sphereMaterialId": "50701",
+          "materialName": "会心力の勾玉・小",
+          "materialRare": "1"
+        },
+        {
+          "sphereMaterialId": "50702",
+          "materialName": "会心力の勾玉・中",
+          "materialRare": "2"
+        },
+        {
+          "sphereMaterialId": "50703",
+          "materialName": "会心力の勾玉・大",
+          "materialRare": "3"
+        },
+        {
+          "sphereMaterialId": "51001",
+          "materialName": "乱舞の巻物",
+          "materialRare": "5"
+        },
+        {
+          "sphereMaterialId": "52001",
+          "materialName": "乱舞秘伝Lv.1",
+          "materialRare": "1"
+        },
+        {
+          "sphereMaterialId": "52002",
+          "materialName": "乱舞秘伝Lv.2",
+          "materialRare": "2"
+        },
+        {
+          "sphereMaterialId": "52003",
+          "materialName": "乱舞秘伝Lv.3",
+          "materialRare": "3"
+        },
+        {
+          "sphereMaterialId": "52004",
+          "materialName": "乱舞秘伝Lv.4",
+          "materialRare": "4"
+        },
+        {
+          "sphereMaterialId": "52005",
+          "materialName": "乱舞秘伝Lv.5",
+          "materialRare": "5"
         }
       ]
