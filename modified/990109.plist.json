@@ -20888,6 +20888,24 @@
           "effectIdx3": "2570"
         },
         {
+          "abilityId": "2375",
+          "abilityName": "覚悟を試す恩師",
+          "abilityDescription": "HP0以下で2回耐える、攻撃を受けるとHP30%回復",
+          "abilityEffectDescription": "HP0以下で2回耐える、攻撃を受けるとHP30%回復",
+          "effectIdx1": "1057",
+          "effectIdx2": "1649",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2376",
+          "abilityName": "不死の接近戦巧者",
+          "abilityDescription": "敵に木ノ葉隠れの里所属がいると素早さ100%アップ、死亡時に味方全体を特殊状態「託」にする",
+          "abilityEffectDescription": "敵に木ノ葉隠れの里所属がいると素早さ100%アップ、死亡時に味方全体を特殊状態「託」にする",
+          "effectIdx1": "1954",
+          "effectIdx2": "2268",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

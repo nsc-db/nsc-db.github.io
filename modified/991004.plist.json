@@ -4679,6 +4679,18 @@
           "speechCharactorName": "千手仏間"
         },
         {
+          "speechCharactorId": "798",
+          "cardId": "798",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "秋道チョウザ"
+        },
+        {
+          "speechCharactorId": "799",
+          "cardId": "799",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "奈良シカク"
+        },
+        {
           "speechCharactorId": "800",
           "cardId": "800",
           "speechCharactorImgId": "0",
@@ -4707,6 +4719,48 @@
           "cardId": "804",
           "speechCharactorImgId": "0",
           "speechCharactorName": "うちはマダラ"
+        },
+        {
+          "speechCharactorId": "805",
+          "cardId": "805",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "角都"
+        },
+        {
+          "speechCharactorId": "806",
+          "cardId": "806",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "秋道チョウジ"
+        },
+        {
+          "speechCharactorId": "807",
+          "cardId": "807",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "山中いの"
+        },
+        {
+          "speechCharactorId": "808",
+          "cardId": "808",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "猿飛アスマ"
+        },
+        {
+          "speechCharactorId": "809",
+          "cardId": "809",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "秋道チョウジ"
+        },
+        {
+          "speechCharactorId": "810",
+          "cardId": "810",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "神月イズモ"
+        },
+        {
+          "speechCharactorId": "811",
+          "cardId": "811",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "はがねコテツ"
         },
         {
           "speechCharactorId": "812",
@@ -4821,6 +4875,12 @@
           "cardId": "20001558",
           "speechCharactorImgId": "0",
           "speechCharactorName": "波風ミナト"
+        },
+        {
+          "speechCharactorId": "843",
+          "cardId": "20001686",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "奈良シカマル"
         },
         {
           "speechCharactorId": "844",

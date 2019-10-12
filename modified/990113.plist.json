@@ -30287,6 +30287,18 @@
           "effectParam3": "0"
         },
         {
+          "cardEffectId": "2574",
+          "timing": "10",
+          "conditionType": "14",
+          "conditionLower": "1",
+          "conditionUpper": "1",
+          "parcent": "4000",
+          "effectId": "43",
+          "effectParam1": "5000",
+          "effectParam2": "0",
+          "effectParam3": "0"
+        },
+        {
           "cardEffectId": "10000",
           "timing": "11",
           "conditionType": "0",

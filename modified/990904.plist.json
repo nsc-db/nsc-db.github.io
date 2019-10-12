@@ -454,6 +454,32 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
+          "worldStageId": "1284",
+          "worldAreaId": "5",
+          "priority": "1",
+          "name": "マイト・ガイの青春乱舞！潜在覚醒修業！！",
+          "description": "「乱舞キャラ」の「潜在覚醒」素材は\r\nここでGET！\r\n潜在覚醒盤を解放しよう！",
+          "notice": "※任務は告知なく終了・内容変更となる場合がございます。\r\n※この任務は、Ptブーストや特効キャラの特効対象外となります。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
+          "worldStageId": "1286",
+          "worldAreaId": "5",
+          "priority": "1",
+          "name": "師への敬慕の戦い",
+          "description": "個人Ptを集めて\r\n固有忍具を交換しよう！",
+          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
           "worldStageId": "2076",
           "worldAreaId": "5",
           "priority": "3",

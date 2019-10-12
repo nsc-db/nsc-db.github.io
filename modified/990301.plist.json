@@ -20351,6 +20351,22 @@
           "recipeName": "解き放たれたﾁｬｸﾗ"
         },
         {
+          "crystalId": "21009",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "10049",
+          "effectIdx2": "20500",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "アスマのタバコ",
+          "crystalDescription": "最大HPが50％アップ、全スキルダメージを軽減",
+          "crystalImageId": "210095",
+          "recipeId": "21009",
+          "recipeName": "アスマのタバコ"
+        },
+        {
           "crystalId": "21019",
           "crystalType": "1",
           "crystalRare": "5",

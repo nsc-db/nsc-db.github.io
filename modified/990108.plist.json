@@ -12466,6 +12466,19 @@
           "target2Param": "2"
         },
         {
+          "cardLeaderSkillId": "975",
+          "name": "禁獄の師忍",
+          "description": "木ノ葉隠れの里所属はスキップ無効※耐性を無視して行動を1回無駄にされない",
+          "effectIdx1": "2160",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

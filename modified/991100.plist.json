@@ -1119,6 +1119,20 @@
           "gender": "1"
         },
         {
+          "charaProfileId": "1803",
+          "charaId": "18",
+          "name": "猿飛アスマ",
+          "detail": "穢土転生",
+          "charaLoveAffinityGroupId": "1830",
+          "birthday": "1018",
+          "constellation": "7",
+          "height": "0",
+          "weight": "0",
+          "bloodType": "3",
+          "age": "0",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "1901",
           "charaId": "19",
           "name": "千手柱間",
