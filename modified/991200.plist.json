@@ -11385,5 +11385,29 @@
           "effectIdx2": "2574",
           "effectIdx3": "0",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "965",
+          "targetCrystal": "21011",
+          "description": "確率でスキップ無効、1回行動まで全スキル無効",
+          "charaIds": "3301,3302,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "2577",
+          "effectIdx2": "1794",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "966",
+          "targetCrystal": "21012",
+          "description": "幻術タイプのｽｷﾙﾀﾞﾒｰｼﾞ100%アップ、班の木ノ葉隠れの里所属のキャラ1体につき素早さ25%アップ（自身含む）",
+          "charaIds": "3301,3302,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "647",
+          "effectIdx2": "1131",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
         }
       ]

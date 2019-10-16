@@ -20367,6 +20367,38 @@
           "recipeName": "アスマのタバコ"
         },
         {
+          "crystalId": "21011",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "2576",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "幻術の花びら",
+          "crystalDescription": "1回行動まで全スキル軽減",
+          "crystalImageId": "210115",
+          "recipeId": "21011",
+          "recipeName": "幻術の花びら"
+        },
+        {
+          "crystalId": "21012",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "646",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "幻術の樹木",
+          "crystalDescription": "幻術タイプのスキルダメージ20%アップ",
+          "crystalImageId": "210125",
+          "recipeId": "21012",
+          "recipeName": "幻術の樹木"
+        },
+        {
           "crystalId": "21019",
           "crystalType": "1",
           "crystalRare": "5",

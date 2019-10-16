@@ -20906,6 +20906,24 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2377",
+          "abilityName": "教え子を見守る愛情",
+          "abilityDescription": "敵に滅キャラがいるとバトル開始時耐性を無視して高確率で敵全体の攻撃・防御・素早さを99%ダウン",
+          "abilityEffectDescription": "敵に滅キャラがいるとバトル開始時耐性を無視して高確率で敵全体の攻撃・防御・素早さを99%ダウン",
+          "effectIdx1": "2563",
+          "effectIdx2": "2564",
+          "effectIdx3": "2565"
+        },
+        {
+          "abilityId": "2378",
+          "abilityName": "樹幻降誕",
+          "abilityDescription": "HP50%以上でスキル発動速度1段階アップ、素早さ100%アップ、敵に滅キャラがいるとさらに素早さ200%アップ",
+          "abilityEffectDescription": "HP50%以上でスキル発動速度1段階アップ、素早さ100%アップ、敵に滅キャラがいるとさらに素早さ200%アップ",
+          "effectIdx1": "1329",
+          "effectIdx2": "13099",
+          "effectIdx3": "2575"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

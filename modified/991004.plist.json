@@ -4895,6 +4895,12 @@
           "speechCharactorName": "九喇嘛"
         },
         {
+          "speechCharactorId": "846",
+          "cardId": "50000013",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "封印班"
+        },
+        {
           "speechCharactorId": "847",
           "cardId": "20040203",
           "speechCharactorImgId": "0",

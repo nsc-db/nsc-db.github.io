@@ -30203,6 +30203,42 @@
           "effectParam3": "0"
         },
         {
+          "cardEffectId": "2563",
+          "timing": "14",
+          "conditionType": "13",
+          "conditionLower": "4",
+          "conditionUpper": "4",
+          "parcent": "8000",
+          "effectId": "62",
+          "effectParam1": "5",
+          "effectParam2": "1",
+          "effectParam3": "100"
+        },
+        {
+          "cardEffectId": "2564",
+          "timing": "14",
+          "conditionType": "13",
+          "conditionLower": "4",
+          "conditionUpper": "4",
+          "parcent": "8000",
+          "effectId": "62",
+          "effectParam1": "5",
+          "effectParam2": "2",
+          "effectParam3": "100"
+        },
+        {
+          "cardEffectId": "2565",
+          "timing": "14",
+          "conditionType": "13",
+          "conditionLower": "4",
+          "conditionUpper": "4",
+          "parcent": "8000",
+          "effectId": "62",
+          "effectParam1": "5",
+          "effectParam2": "3",
+          "effectParam3": "100"
+        },
+        {
           "cardEffectId": "2566",
           "timing": "1",
           "conditionType": "6",
@@ -30295,6 +30331,42 @@
           "parcent": "4000",
           "effectId": "43",
           "effectParam1": "5000",
+          "effectParam2": "0",
+          "effectParam3": "0"
+        },
+        {
+          "cardEffectId": "2575",
+          "timing": "14",
+          "conditionType": "12",
+          "conditionLower": "4",
+          "conditionUpper": "4",
+          "parcent": "10000",
+          "effectId": "1",
+          "effectParam1": "3",
+          "effectParam2": "30000",
+          "effectParam3": "0"
+        },
+        {
+          "cardEffectId": "2576",
+          "timing": "1",
+          "conditionType": "6",
+          "conditionLower": "0",
+          "conditionUpper": "0",
+          "parcent": "10000",
+          "effectId": "12",
+          "effectParam1": "119",
+          "effectParam2": "0",
+          "effectParam3": "0"
+        },
+        {
+          "cardEffectId": "2577",
+          "timing": "1",
+          "conditionType": "0",
+          "conditionLower": "0",
+          "conditionUpper": "0",
+          "parcent": "4000",
+          "effectId": "41",
+          "effectParam1": "0",
           "effectParam2": "0",
           "effectParam3": "0"
         },
