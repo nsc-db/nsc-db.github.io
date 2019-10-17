@@ -11409,5 +11409,17 @@
           "effectIdx2": "1131",
           "effectIdx3": "0",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "967",
+          "targetCrystal": "21008",
+          "description": "全ｽｷﾙﾀﾞﾒｰｼﾞ100%ｱｯﾌﾟ、自身が死亡した場合に味方全体のｽｷﾙ発動速度1段階ｱｯﾌﾟ＆素早さ100%ｱｯﾌﾟ",
+          "charaIds": "4101,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "774",
+          "effectIdx2": "2508",
+          "effectIdx3": "2582",
+          "effectIdx4": "0"
         }
       ]

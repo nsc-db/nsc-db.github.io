@@ -20351,6 +20351,22 @@
           "recipeName": "解き放たれたﾁｬｸﾗ"
         },
         {
+          "crystalId": "21008",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "692",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "友に託す左眼",
+          "crystalDescription": "全スキルダメージ40%アップ",
+          "crystalImageId": "210085",
+          "recipeId": "21008",
+          "recipeName": "友に託す左眼"
+        },
+        {
           "crystalId": "21009",
           "crystalType": "2",
           "crystalRare": "5",

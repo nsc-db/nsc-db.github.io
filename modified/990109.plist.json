@@ -20924,6 +20924,24 @@
           "effectIdx3": "2575"
         },
         {
+          "abilityId": "2379",
+          "abilityName": "一族屈指の身ごなし",
+          "abilityDescription": "バトル開始時高確率で先制攻撃、行動時に確率でスキル回避100%アップ、敵に滅キャラがいると素早さ150%アップ",
+          "abilityEffectDescription": "バトル開始時高確率で先制攻撃、行動時に確率でスキル回避100%アップ、敵に滅キャラがいると素早さ150%アップ",
+          "effectIdx1": "2578",
+          "effectIdx2": "2579",
+          "effectIdx3": "2580"
+        },
+        {
+          "abilityId": "2380",
+          "abilityName": "無二の瞳術と思想",
+          "abilityDescription": "敵か味方にうちはイタチ（年代問わず）が生存しているとスキルダメージ100%アップ、2回行動までチャクラ消費0",
+          "abilityEffectDescription": "敵か味方にうちはイタチ（年代問わず）が生存しているとスキルダメージ100%アップ、2回行動までチャクラ消費0",
+          "effectIdx1": "2581",
+          "effectIdx2": "1646",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

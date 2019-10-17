@@ -363,6 +363,19 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
+          "worldStageId": "1140",
+          "worldAreaId": "5",
+          "priority": "1",
+          "name": "狙われた万華鏡",
+          "description": "個人Pt報酬で、うちはシスイの\r\n固有忍具を獲得しよう！",
+          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
           "worldStageId": "1198",
           "worldAreaId": "5",
           "priority": "1",

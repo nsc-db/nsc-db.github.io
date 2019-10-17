@@ -12492,6 +12492,19 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "977",
+          "name": "英邁なる瞬才",
+          "description": "木ノ葉隠れの里所属の防御力と素早さを80%アップし、状態異常と幻を無効化する",
+          "effectIdx1": "12079",
+          "effectIdx2": "1638",
+          "effectIdx3": "13079",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",
