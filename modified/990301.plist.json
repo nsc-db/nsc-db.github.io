@@ -20319,6 +20319,22 @@
           "recipeName": "うちはの家紋"
         },
         {
+          "crystalId": "21003",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "2586",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "0",
+          "crystalDescription": "0",
+          "crystalImageId": "210035",
+          "recipeId": "21003",
+          "recipeName": "柱間の木遁"
+        },
+        {
           "crystalId": "21005",
           "crystalType": "1",
           "crystalRare": "5",

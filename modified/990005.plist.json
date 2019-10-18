@@ -889,6 +889,16 @@
           "enemyEffects": "50005,"
         },
         {
+          "battleFieldEffectId": "99",
+          "name": "超絶ランク",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "1549,2160,2254,",
+          "enemyEffects": "50001,80000,"
+        },
+        {
           "battleFieldEffectId": "10001",
           "name": "始球空間",
           "category": "3",

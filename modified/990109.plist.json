@@ -20942,6 +20942,24 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2381",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "2584",
+          "effectIdx2": "2595",
+          "effectIdx3": "1057"
+        },
+        {
+          "abilityId": "2382",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "2583",
+          "effectIdx2": "2594",
+          "effectIdx3": "2585"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -21073,6 +21091,15 @@
           "abilityDescription": "スキルダメージが少しアップする",
           "abilityEffectDescription": "スキルダメージが少しアップする",
           "effectIdx1": "615",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "10500",
+          "abilityName": "スキルダメージダウン（特大）",
+          "abilityDescription": "スキルダメージが超大幅ダウンする",
+          "abilityEffectDescription": "スキルダメージが超大幅ダウンする",
+          "effectIdx1": "50001",
           "effectIdx2": "0",
           "effectIdx3": "0"
         },

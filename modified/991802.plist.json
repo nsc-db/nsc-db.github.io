@@ -5039,6 +5039,15 @@
           "purchaseReleaseTime": "0000-00-00 00:00:00"
         },
         {
+          "mypageOrnamentId": "1910002",
+          "name": "0",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "1",
+          "charaId": "19",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
           "mypageOrnamentId": "1910003",
           "name": "0",
           "rarity": "4",
@@ -5072,6 +5081,15 @@
           "resourceType": "0",
           "category": "1",
           "charaId": "41",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "1910301",
+          "name": "エフェクト",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "2",
+          "charaId": "0",
           "purchaseReleaseTime": "0000-00-00 00:00:00"
         },
         {

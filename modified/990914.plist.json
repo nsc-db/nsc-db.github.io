@@ -1137,5 +1137,11 @@
           "hpGaugeHeight": "50",
           "motionType": "1",
           "attackScriptName": "cha0425_00"
+        },
+        {
+          "modelId": "577",
+          "hpGaugeHeight": "50",
+          "motionType": "4",
+          "attackScriptName": "cha0577_04"
         }
       ]
