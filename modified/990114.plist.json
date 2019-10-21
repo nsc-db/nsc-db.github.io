@@ -2312,8 +2312,8 @@
           "cardUnusualId": "236",
           "category": "3",
           "iconId": "1267",
-          "name": "0",
-          "description": "0",
+          "name": "剣技",
+          "description": "通常攻撃が常に会心、通常攻撃を行うごとに攻撃力・素早さ・会心力ｱｯﾌﾟ、通常攻撃がﾗﾝﾀﾞﾑに連続攻撃化",
           "subScore": "0",
           "color": "49151",
           "type": "2"

@@ -11425,7 +11425,7 @@
         {
           "crystalOverwriteEffectId": "968",
           "targetCrystal": "21003",
-          "description": "0",
+          "description": "2回行動までﾁｬｸﾗ消費0、1回行動まで素早さ300%アップ、通常攻撃が必中",
           "charaIds": "1901,1902,",
           "cardIds": "0",
           "charaGroupIds": "0",

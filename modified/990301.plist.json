@@ -20328,8 +20328,8 @@
           "effectIdx4": "0",
           "money": "30000",
           "saleMoney": "2500",
-          "crystalName": "0",
-          "crystalDescription": "0",
+          "crystalName": "柱間の木遁",
+          "crystalDescription": "2回行動までチャクラ消費半減",
           "crystalImageId": "210035",
           "recipeId": "21003",
           "recipeName": "柱間の木遁"

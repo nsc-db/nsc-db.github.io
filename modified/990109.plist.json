@@ -20943,18 +20943,18 @@
         },
         {
           "abilityId": "2381",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "万能の守護者",
+          "abilityDescription": "バトル開始時に自身を長い間「剣技」状態にし、会心力5000％アップ、HP0以下で2回耐える",
+          "abilityEffectDescription": "バトル開始時に自身を長い間「剣技」状態にし、会心力5000％アップ、HP0以下で2回耐える",
           "effectIdx1": "2584",
-          "effectIdx2": "2595",
+          "effectIdx2": "1125",
           "effectIdx3": "1057"
         },
         {
           "abilityId": "2382",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "里と好敵手への想い",
+          "abilityDescription": "敵に滅ｷｬﾗ、うちはﾏﾀﾞﾗ（年代不問）生存時素早さ150%ｱｯﾌﾟ（どちらもいると300%ｱｯﾌﾟ）、行動後確率で堅護付与",
+          "abilityEffectDescription": "敵に滅ｷｬﾗ、うちはﾏﾀﾞﾗ（年代不問）生存時素早さ150%ｱｯﾌﾟ（どちらもいると300%ｱｯﾌﾟ）、行動後確率で堅護付与",
           "effectIdx1": "2583",
           "effectIdx2": "2594",
           "effectIdx3": "2585"

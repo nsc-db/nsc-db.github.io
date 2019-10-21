@@ -12506,8 +12506,8 @@
         },
         {
           "cardLeaderSkillId": "978",
-          "name": "0",
-          "description": "0",
+          "name": "動乱ノ防忍",
+          "description": "木ノ葉隠れの里所属の最大HPを80%アップ、行動後HPとチャクラ20%回復",
           "effectIdx1": "649",
           "effectIdx2": "2500",
           "effectIdx3": "1768",
