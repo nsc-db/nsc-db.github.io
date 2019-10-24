@@ -20431,6 +20431,38 @@
           "recipeName": "幻術の樹木"
         },
         {
+          "crystalId": "21017",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "661",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "三重羅生門",
+          "crystalDescription": "状態異常軽減",
+          "crystalImageId": "210175",
+          "recipeId": "21017",
+          "recipeName": "三重羅生門"
+        },
+        {
+          "crystalId": "21018",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "1840",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "大蛇丸の耳飾り",
+          "crystalDescription": "スキル発動速度1段階アップ",
+          "crystalImageId": "210185",
+          "recipeId": "21018",
+          "recipeName": "大蛇丸の耳飾り"
+        },
+        {
           "crystalId": "21019",
           "crystalType": "1",
           "crystalRare": "5",

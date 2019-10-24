@@ -12518,6 +12518,19 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "979",
+          "name": "壟断の狡蛇",
+          "description": "体属性と音隠れの里所属の素早さ＆スキルダメージを80%アップ",
+          "effectIdx1": "13079",
+          "effectIdx2": "694",
+          "effectIdx3": "0",
+          "compType": "2",
+          "target1Category": "1",
+          "target1Param": "3",
+          "target2Category": "2",
+          "target2Param": "4"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

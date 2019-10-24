@@ -20960,6 +20960,24 @@
           "effectIdx3": "2585"
         },
         {
+          "abilityId": "2383",
+          "abilityName": "羅生門の防御力",
+          "abilityDescription": "HPが0以下で2回まで耐える、高確率でスキップ無効、2回行動まで全スキル無効",
+          "abilityEffectDescription": "HPが0以下で2回まで耐える、高確率でスキップ無効、2回行動まで全スキル無効",
+          "effectIdx1": "1057",
+          "effectIdx2": "2589",
+          "effectIdx3": "2343"
+        },
+        {
+          "abilityId": "2384",
+          "abilityName": "蛇流の再生力",
+          "abilityDescription": "攻撃を受けるたび、攻撃力と素早さが100%アップ（最大8回まで）",
+          "abilityEffectDescription": "攻撃を受けるたび、攻撃力と素早さが100%アップ（最大8回まで）",
+          "effectIdx1": "2590",
+          "effectIdx2": "2592",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

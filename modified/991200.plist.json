@@ -11433,5 +11433,29 @@
           "effectIdx2": "30",
           "effectIdx3": "1646",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "969",
+          "targetCrystal": "21017",
+          "description": "状態異常無効、攻撃を受けた時HP20%回復、1回行動するまで受ける耐性無視スキルのダメージを0",
+          "charaIds": "10301,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "82",
+          "effectIdx2": "2593",
+          "effectIdx3": "1961",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "970",
+          "targetCrystal": "21018",
+          "description": "スキル発動速度1段階アップ、2回行動するまでチャクラ消費0",
+          "charaIds": "10301,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1840",
+          "effectIdx2": "1646",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
         }
       ]

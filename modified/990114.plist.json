@@ -2309,6 +2309,16 @@
           "type": "2"
         },
         {
+          "cardUnusualId": "235",
+          "category": "3",
+          "iconId": "1266",
+          "name": "三重羅生門",
+          "description": "仲間への単体スキルをかばい無効化し、味方全体に対してのスキルを無効化。※耐性無視攻撃は無効化できない",
+          "subScore": "0",
+          "color": "11539759",
+          "type": "2"
+        },
+        {
           "cardUnusualId": "236",
           "category": "3",
           "iconId": "1267",

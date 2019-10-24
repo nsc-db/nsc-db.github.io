@@ -2855,6 +2855,18 @@
           "voiceDeath": "hashirama_death_02_01"
         },
         {
+          "cardVoiceId": "242",
+          "cardId": "20051011",
+          "dirName": "orochimaru",
+          "evolutionStep": "",
+          "voiceAppear": "orochimaru_battle_02_02",
+          "voiceSkill1": "orochimaru_win_02_03",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "orochimaru_win_02_01",
+          "voiceDeath": "orochimaru_death_02_02"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",
