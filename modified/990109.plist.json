@@ -20978,6 +20978,42 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2385",
+          "abilityName": "悠然たる主従",
+          "abilityDescription": "素早さ30%アップ",
+          "abilityEffectDescription": "素早さ30%アップ",
+          "effectIdx1": "183",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2386",
+          "abilityName": "揺るがぬ信念と忠義",
+          "abilityDescription": "攻撃力100%アップ",
+          "abilityEffectDescription": "攻撃力100%アップ",
+          "effectIdx1": "11099",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2387",
+          "abilityName": "仮面の奥の真実",
+          "abilityDescription": "“暁”所属への単体スキル攻撃を受ける※かばうは最後の発動者が有効",
+          "abilityEffectDescription": "“暁”所属への単体スキル攻撃を受ける※かばうは最後の発動者が有効",
+          "effectIdx1": "2169",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2388",
+          "abilityName": "ドタバタ回避の術",
+          "abilityDescription": "通常攻撃回避率が100%アップし、高確率でスキルを回避する",
+          "abilityEffectDescription": "通常攻撃回避率が100%アップし、高確率でスキルを回避する",
+          "effectIdx1": "1141",
+          "effectIdx2": "968",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

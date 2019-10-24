@@ -6509,6 +6509,16 @@
           "gachaTicketImgId": "3886"
         },
         {
+          "gachaTicketId": "3888",
+          "gachaTicketName": "男性限定ガチャチケット",
+          "gachaTicketImgId": "3888"
+        },
+        {
+          "gachaTicketId": "3889",
+          "gachaTicketName": "くノ一忍具ガチャチケット",
+          "gachaTicketImgId": "3889"
+        },
+        {
           "gachaTicketId": "3890",
           "gachaTicketName": "木ノ葉ガチャチケット",
           "gachaTicketImgId": "3890"
@@ -6527,6 +6537,16 @@
           "gachaTicketId": "3893",
           "gachaTicketName": "シスイ誕生記念・祭",
           "gachaTicketImgId": "3892"
+        },
+        {
+          "gachaTicketId": "3895",
+          "gachaTicketName": "乱舞祭 -サスケ&amp;アオダ-ガチャチケット",
+          "gachaTicketImgId": "3895"
+        },
+        {
+          "gachaTicketId": "3896",
+          "gachaTicketName": "うちはサスケ確定ガチャチケット",
+          "gachaTicketImgId": "3896"
         },
         {
           "gachaTicketId": "3897",
@@ -6562,6 +6582,11 @@
           "gachaTicketId": "3903",
           "gachaTicketName": "大蛇丸誕生記念・祭",
           "gachaTicketImgId": "3903"
+        },
+        {
+          "gachaTicketId": "3918",
+          "gachaTicketName": "1700万DL記念超忍確定ガチャチケット",
+          "gachaTicketImgId": "3918"
         },
         {
           "gachaTicketId": "100084",

@@ -12531,6 +12531,32 @@
           "target2Param": "4"
         },
         {
+          "cardLeaderSkillId": "980",
+          "name": "薙ぎ進む我道",
+          "description": "味方の死亡時に乱舞ｶｳﾝﾄ1減少（即死除く）、全属性の行動後に確率で素早さ50%ｱｯﾌﾟ",
+          "effectIdx1": "2597",
+          "effectIdx2": "2562",
+          "effectIdx3": "0",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "981",
+          "name": "道化の妖面",
+          "description": "技属性の最大HPとスキルダメージを60%アップする",
+          "effectIdx1": "10059",
+          "effectIdx2": "678",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "2",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

@@ -2327,5 +2327,15 @@
           "subScore": "0",
           "color": "49151",
           "type": "2"
+        },
+        {
+          "cardUnusualId": "237",
+          "category": "3",
+          "iconId": "1268",
+          "name": "蛇睨み",
+          "description": "素早さアップ効果を減少する",
+          "subScore": "0",
+          "color": "10104574",
+          "type": "3"
         }
       ]

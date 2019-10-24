@@ -1923,6 +1923,19 @@
           "selectType": "2"
         },
         {
+          "itemId": "51041",
+          "name": "期間限定 昇級Pt倍化薬",
+          "description": "昇級試験での獲得Ptが2倍になります（10月28日15:59まで期間限定）。",
+          "resultWord": "昇級試験 獲得Pt2倍",
+          "itemCategoryId": "11",
+          "itemValue": "20000",
+          "itemNum": "0",
+          "itemImageId": "51002",
+          "needCount": "1",
+          "priority": "100",
+          "selectType": "2"
+        },
+        {
           "itemId": "52000",
           "name": "限定ドロップ数２倍の秘伝書",
           "description": "バトルでの獲得ドロップ数が２倍になります。（1月4日15:59まで期間限定）",
@@ -2659,6 +2672,19 @@
           "itemValue": "1000000",
           "itemNum": "0",
           "itemImageId": "110000",
+          "needCount": "1",
+          "priority": "100",
+          "selectType": "1"
+        },
+        {
+          "itemId": "110001",
+          "name": "1700万DL記念！デイリー限定ラーメン",
+          "description": "スタミナを全回復するラーメン。(獲得した日限定）",
+          "resultWord": "0",
+          "itemCategoryId": "101",
+          "itemValue": "1000000",
+          "itemNum": "0",
+          "itemImageId": "11020",
           "needCount": "1",
           "priority": "100",
           "selectType": "1"

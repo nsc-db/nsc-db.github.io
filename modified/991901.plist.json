@@ -33,5 +33,17 @@
           "cardId": "50051001",
           "normalPanelList": "5000001,5000002,5000003",
           "specialPanelList": "5000004,5000005,5000006"
+        },
+        {
+          "sphereBoardId": "5000002",
+          "boardName": "サスケ＆アオダ",
+          "boardDescription": "うちはサスケ【薙ぎ進む我道】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "50051002",
+          "normalPanelList": "5001001,5001002,5001003",
+          "specialPanelList": "5001004,5001005,5001006"
         }
       ]

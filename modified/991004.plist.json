@@ -4619,10 +4619,34 @@
           "speechCharactorName": "薬師カブト"
         },
         {
+          "speechCharactorId": "784",
+          "cardId": "784",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "デイダラ"
+        },
+        {
+          "speechCharactorId": "785",
+          "cardId": "785",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "デイダラ"
+        },
+        {
+          "speechCharactorId": "786",
+          "cardId": "786",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "マンダ"
+        },
+        {
           "speechCharactorId": "787",
           "cardId": "787",
           "speechCharactorImgId": "0",
           "speechCharactorName": "はたけサクモ"
+        },
+        {
+          "speechCharactorId": "788",
+          "cardId": "788",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはサスケ"
         },
         {
           "speechCharactorId": "789",
@@ -4905,6 +4929,24 @@
           "cardId": "20040203",
           "speechCharactorImgId": "0",
           "speechCharactorName": "仮面の男"
+        },
+        {
+          "speechCharactorId": "855",
+          "cardId": "855",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはサスケ"
+        },
+        {
+          "speechCharactorId": "856",
+          "cardId": "20031116",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "小南"
+        },
+        {
+          "speechCharactorId": "857",
+          "cardId": "20001572",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはサスケ"
         },
         {
           "speechCharactorId": "1000",
