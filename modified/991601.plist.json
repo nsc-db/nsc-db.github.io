@@ -1390,6 +1390,19 @@
           "selectType": "3"
         },
         {
+          "itemId": "16005",
+          "name": "1700万DL記念メダル",
+          "description": "1700万DL記念大抽選会で使用できるメダル。（当日のみ使用可能）",
+          "resultWord": "0",
+          "itemCategoryId": "102",
+          "itemValue": "0",
+          "itemNum": "0",
+          "itemImageId": "16005",
+          "needCount": "1",
+          "priority": "1",
+          "selectType": "3"
+        },
+        {
           "itemId": "51000",
           "name": "ドロップ数２倍の秘伝書",
           "description": "バトルでの獲得ドロップ数が２倍になります。",
