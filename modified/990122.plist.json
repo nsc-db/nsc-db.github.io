@@ -2891,6 +2891,18 @@
           "voiceDeath": "tobi_death_02_03"
         },
         {
+          "cardVoiceId": "245",
+          "cardId": "20051103",
+          "dirName": "pain",
+          "evolutionStep": "",
+          "voiceAppear": "pain_battle_02_02",
+          "voiceSkill1": "pain_battle_02_03",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "pain_win_02_02",
+          "voiceDeath": "pain_death_02_01"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

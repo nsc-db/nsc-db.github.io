@@ -899,6 +899,16 @@
           "enemyEffects": "50001,80000,"
         },
         {
+          "battleFieldEffectId": "100",
+          "name": "平和の懸け橋になる男　超絶チャレンジ",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "12119,2160,",
+          "enemyEffects": "50001,2622,"
+        },
+        {
           "battleFieldEffectId": "10001",
           "name": "始球空間",
           "category": "3",
@@ -1027,5 +1037,15 @@
           "uiIdx": "10013",
           "partyEffects": null,
           "enemyEffects": "2551,2552,"
+        },
+        {
+          "battleFieldEffectId": "10014",
+          "name": "痛ミ知ル荒野",
+          "category": "3",
+          "scriptId": "10014",
+          "overWrite": "1",
+          "uiIdx": "10014",
+          "partyEffects": "2606,2607,2608,2609,",
+          "enemyEffects": null
         }
       ]

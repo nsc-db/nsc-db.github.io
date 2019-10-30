@@ -20557,5 +20557,37 @@
           "crystalImageId": "210265",
           "recipeId": "21026",
           "recipeName": "ラーメンケーキ"
+        },
+        {
+          "crystalId": "21101",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "2600",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "破れた“暁”マント",
+          "crystalDescription": "1回行動するまでダメージ20%カット",
+          "crystalImageId": "211015",
+          "recipeId": "21101",
+          "recipeName": "破れた“暁”マント"
+        },
+        {
+          "crystalId": "21102",
+          "crystalType": "1",
+          "crystalRare": "5",
+          "effectIdx1": "2601",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "地爆天星",
+          "crystalDescription": "HPが99%以上の時、素早さ40%アップ",
+          "crystalImageId": "211025",
+          "recipeId": "21102",
+          "recipeName": "地爆天星"
         }
       ]

@@ -519,6 +519,19 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
+          "worldStageId": "4109",
+          "worldAreaId": "5",
+          "priority": "1",
+          "name": "平和の懸け橋になる男",
+          "description": "初回クリア報酬で忍石８個獲得可能！\r\n個人Ptはイベント期間中のみ加算されます",
+          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
           "worldStageId": "5001",
           "worldAreaId": "5",
           "priority": "55",

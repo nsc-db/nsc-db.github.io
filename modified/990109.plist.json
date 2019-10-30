@@ -21014,6 +21014,24 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2391",
+          "abilityName": "痛滅の思想",
+          "abilityDescription": "HPが0以下で5回までHPが全回復する、敵に木ノ葉隠れの里所属がいると素早さ100%アップ",
+          "abilityEffectDescription": "HPが0以下で5回までHPが全回復する、敵に木ノ葉隠れの里所属がいると素早さ100%アップ",
+          "effectIdx1": "1512",
+          "effectIdx2": "874",
+          "effectIdx3": "1954"
+        },
+        {
+          "abilityId": "2392",
+          "abilityName": "天と地を繋ぐ双掌",
+          "abilityDescription": "最大チャクラ量100アップ、最大HP200%アップ、2回行動するまで攻撃を受けたとき確率でアクション状態になる",
+          "abilityEffectDescription": "最大チャクラ量100アップ、最大HP200%アップ、2回行動するまで攻撃を受けたとき確率でアクション状態になる",
+          "effectIdx1": "813",
+          "effectIdx2": "10100",
+          "effectIdx3": "2599"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -21425,6 +21443,24 @@
           "abilityEffectDescription": "2回行動まで素早さ150%アップ",
           "effectIdx1": "2046",
           "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "20002",
+          "abilityName": "素早さ＆スキル発動速度アップ",
+          "abilityDescription": "素早さ1000%アップ、スキル発動速度2段階アップ",
+          "abilityEffectDescription": "素早さ1000%アップ、スキル発動速度2段階アップ",
+          "effectIdx1": "13100",
+          "effectIdx2": "1549",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "20003",
+          "abilityName": "先制攻撃＆バトル開始時に堅護",
+          "abilityDescription": "先制攻撃、バトル開始時に堅護：弱体&amp;状態異常&amp;弱体系特殊状態を解除&amp;無効化",
+          "abilityEffectDescription": "先制攻撃、バトル開始時に堅護：弱体&amp;状態異常&amp;弱体系特殊状態を解除&amp;無効化",
+          "effectIdx1": "2068",
+          "effectIdx2": "2621",
           "effectIdx3": "0"
         },
         {
