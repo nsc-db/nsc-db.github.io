@@ -454,6 +454,32 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
+          "worldStageId": "1288",
+          "worldAreaId": "5",
+          "priority": "5",
+          "name": "大激闘-霜月の陣-",
+          "description": "ランパートではドロップではなく\r\nクリア時に個人Ptを獲得できます。",
+          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
+          "worldStageId": "1289",
+          "worldAreaId": "5",
+          "priority": "3",
+          "name": "芸術対決！～永久と一瞬～",
+          "description": "初回クリア報酬はすべてのランクで忍石獲得可能！\r\n個人Ptを集めて\r\n固有忍具を交換しよう！",
+          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
           "worldStageId": "1290",
           "worldAreaId": "5",
           "priority": "1",
@@ -1817,6 +1843,19 @@
           "openWeek": null,
           "openTime": "2017.12.31 17:00:00",
           "closeTime": "2018.01.04 15:59:59"
+        },
+        {
+          "worldStageId": "50005",
+          "worldAreaId": "5",
+          "priority": "4",
+          "name": "昇級模擬演習",
+          "description": "この任務は前回昇級試験上位者の班と戦う任務です\r\nスタミナ消費1で何度も挑戦できます\r\n※全キャラクターの全ダメージ及び\r\nスキル発動速度は調整が行われております",
+          "notice": "※イベントの内容及び日程は告知なく変更となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
         },
         {
           "worldStageId": "60011",

@@ -12557,6 +12557,19 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "982",
+          "name": "月映の翻刃",
+          "description": "木ノ葉隠れの里所属の攻撃力と防御力と素早さを40%アップ",
+          "effectIdx1": "11039",
+          "effectIdx2": "12039",
+          "effectIdx3": "13039",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "983",
           "name": "傲虐の墜星",
           "description": "“暁”所属の素早さとスキルダメージを100%アップする",
@@ -12566,6 +12579,58 @@
           "compType": "1",
           "target1Category": "2",
           "target1Param": "8",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "984",
+          "name": "世界を変える意志",
+          "description": "雨隠れの里所属と“暁”所属は3回行動までスキップ無効、行動ごとに素早さ50%アップ（最大150%）",
+          "effectIdx1": "2382",
+          "effectIdx2": "2501",
+          "effectIdx3": "0",
+          "compType": "2",
+          "target1Category": "2",
+          "target1Param": "7",
+          "target2Category": "2",
+          "target2Param": "8"
+        },
+        {
+          "cardLeaderSkillId": "985",
+          "name": "二つの意志を繋ぐ祈り",
+          "description": "雨隠れの里所属と“暁”所属は3回行動までチャクラ消費量半減、行動ごとにチャクラ20%回復",
+          "effectIdx1": "359",
+          "effectIdx2": "583",
+          "effectIdx3": "0",
+          "compType": "2",
+          "target1Category": "2",
+          "target1Param": "7",
+          "target2Category": "2",
+          "target2Param": "8"
+        },
+        {
+          "cardLeaderSkillId": "986",
+          "name": "友の夢に託す意志",
+          "description": "雨隠れの里所属と“暁”所属は3回行動まで確率で全スキル無効、行動ごとに防御力100%アップ（最大300%）",
+          "effectIdx1": "2615",
+          "effectIdx2": "2616",
+          "effectIdx3": "0",
+          "compType": "2",
+          "target1Category": "2",
+          "target1Param": "7",
+          "target2Category": "2",
+          "target2Param": "8"
+        },
+        {
+          "cardLeaderSkillId": "987",
+          "name": "終幕の爆焉",
+          "description": "知属性のスキルダメージを150%アップする",
+          "effectIdx1": "794",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "6",
           "target2Category": "0",
           "target2Param": "0"
         },

@@ -2903,6 +2903,18 @@
           "voiceDeath": "pain_death_02_01"
         },
         {
+          "cardVoiceId": "248",
+          "cardId": "20051108",
+          "dirName": "deidara",
+          "evolutionStep": "",
+          "voiceAppear": "deidara_battle_02_02",
+          "voiceSkill1": "deidara_skill_02_05,deidara_attack_02_03",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "deidara_win_02_01",
+          "voiceDeath": "deidara_death_02_01"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

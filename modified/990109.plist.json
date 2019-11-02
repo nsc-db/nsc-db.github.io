@@ -21014,6 +21014,24 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2389",
+          "abilityName": "早手の剣捌き",
+          "abilityDescription": "1回行動するまで素早さ＆スキルダメージ100%アップ",
+          "abilityEffectDescription": "1回行動するまで素早さ＆スキルダメージ100%アップ",
+          "effectIdx1": "1542",
+          "effectIdx2": "2598",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2390",
+          "abilityName": "月の如き三刃",
+          "abilityDescription": "3回行動するまで確率でスキル回避",
+          "abilityEffectDescription": "3回行動するまで確率でスキル回避",
+          "effectIdx1": "2293",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "2391",
           "abilityName": "痛滅の思想",
           "abilityDescription": "HPが0以下で5回までHPが全回復する、敵に木ノ葉隠れの里所属がいると素早さ100%アップ",
@@ -21030,6 +21048,78 @@
           "effectIdx1": "813",
           "effectIdx2": "10100",
           "effectIdx3": "2599"
+        },
+        {
+          "abilityId": "2393",
+          "abilityName": "純然たる平和への夢",
+          "abilityDescription": "3回行動までキャンセル無効、敵に創キャラが生存している場合、素早さ200%アップ",
+          "abilityEffectDescription": "3回行動までキャンセル無効、敵に創キャラが生存している場合、素早さ200%アップ",
+          "effectIdx1": "2070",
+          "effectIdx2": "2611",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2394",
+          "abilityName": "自来也流の忍術",
+          "abilityDescription": "HP0以下で2回まで耐える、1回目の耐える発動時にスキルダメージ200%アップ",
+          "abilityEffectDescription": "HP0以下で2回まで耐える、1回目の耐える発動時にスキルダメージ200%アップ",
+          "effectIdx1": "1057",
+          "effectIdx2": "2612",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2395",
+          "abilityName": "二人を支える覚悟",
+          "abilityDescription": "3回行動まで高確率でスキルを回避、自身にスキルを使用した敵の創キャラに攻撃力7%+300,000の反撃ダメージ",
+          "abilityEffectDescription": "3回行動まで高確率でスキルを回避、自身にスキルを使用した敵の創キャラに攻撃力7%+300,000の反撃ダメージ",
+          "effectIdx1": "2099",
+          "effectIdx2": "2610",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2396",
+          "abilityName": "流麗の折り紙忍術",
+          "abilityDescription": "HP0以下で2回まで耐える、1回目の耐える発動時にスキルダメージ100%アップ",
+          "abilityEffectDescription": "HP0以下で2回まで耐える、1回目の耐える発動時にスキルダメージ100%アップ",
+          "effectIdx1": "1057",
+          "effectIdx2": "2210",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2397",
+          "abilityName": "友の夢を叶える信念",
+          "abilityDescription": "3回行動まで攻撃を受けた時に攻撃者の素早さを200%ダウン、創キャラからのダメージ50%カット",
+          "abilityEffectDescription": "3回行動まで攻撃を受けた時に攻撃者の素早さを200%ダウン、創キャラからのダメージ50%カット",
+          "effectIdx1": "2613",
+          "effectIdx2": "2614",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2398",
+          "abilityName": "輪廻眼を持つ者",
+          "abilityDescription": "HP0以下で1回まで耐える、1回目の耐える発動時にスキルダメージ300%アップ",
+          "abilityEffectDescription": "HP0以下で1回まで耐える、1回目の耐える発動時にスキルダメージ300%アップ",
+          "effectIdx1": "312",
+          "effectIdx2": "2181",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2399",
+          "abilityName": "命懸けの芸術",
+          "abilityDescription": "敵に超忍祭限定キャラがいると、バトル開始時に敵全体を高確率で秒刻み状態にする",
+          "abilityEffectDescription": "敵に超忍祭限定キャラがいると、バトル開始時に敵全体を高確率で秒刻み状態にする",
+          "effectIdx1": "2617",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2400",
+          "abilityName": "称賛への渇望",
+          "abilityDescription": "敵に超忍祭限定キャラか木ノ葉隠れの里所属がいると素早さ150%アップ、どちらもいると素早さ300%アップ",
+          "abilityEffectDescription": "敵に超忍祭限定キャラか木ノ葉隠れの里所属がいると素早さ150%アップ、どちらもいると素早さ300%アップ",
+          "effectIdx1": "2619",
+          "effectIdx2": "2620",
+          "effectIdx3": "0"
         },
         {
           "abilityId": "10000",

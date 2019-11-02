@@ -2291,6 +2291,12 @@
           "itemImgId": "128"
         },
         {
+          "shopExchangeItemId": "390",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
           "shopExchangeItemId": "392",
           "itemName": "個人Pt",
           "measure": "0",
@@ -2610,6 +2616,18 @@
         },
         {
           "shopExchangeItemId": "1053",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "1055",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "1056",
           "itemName": "個人Pt",
           "measure": "0",
           "itemImgId": "23"

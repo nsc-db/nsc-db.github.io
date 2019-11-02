@@ -2337,5 +2337,15 @@
           "subScore": "0",
           "color": "10104574",
           "type": "3"
+        },
+        {
+          "cardUnusualId": "238",
+          "category": "3",
+          "iconId": "1269",
+          "name": "秒刻み",
+          "description": "行動後ダメージを受ける",
+          "subScore": "0",
+          "color": "6037811",
+          "type": "3"
         }
       ]
