@@ -11582,6 +11582,19 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "906",
+          "name": "己が美学の行き着く先",
+          "description": "“暁”所属の最大HPと攻撃力と防御力を100％アップ",
+          "effectIdx1": "684",
+          "effectIdx2": "11099",
+          "effectIdx3": "12099",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "8",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "907",
           "name": "至幻を宿す瞳",
           "description": "知属性の最大HP100%アップし、行動後にHPとチャクラが20%回復する",

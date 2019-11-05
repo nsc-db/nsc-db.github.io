@@ -19664,6 +19664,24 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2237",
+          "abilityName": "分離と再結合",
+          "abilityDescription": "超高確率でスキル回避、攻撃を受けた時、確率でHP全回復",
+          "abilityEffectDescription": "超高確率でスキル回避、攻撃を受けた時、確率でHP全回復",
+          "effectIdx1": "1897",
+          "effectIdx2": "2171",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2238",
+          "abilityName": "無機の躰",
+          "abilityDescription": "攻撃を受けた時、チャクラを40％回復、敵に超忍祭限定キャラが生存しているとダメージ50%カット",
+          "abilityEffectDescription": "攻撃を受けた時、チャクラを40％回復、敵に超忍祭限定キャラが生存しているとダメージ50%カット",
+          "effectIdx1": "2274",
+          "effectIdx2": "2170",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "2239",
           "abilityName": "至速の翻弄",
           "abilityDescription": "2回行動までスキップ無効＆素早さ100%アップ＆受ける耐性無視ダメージを0",

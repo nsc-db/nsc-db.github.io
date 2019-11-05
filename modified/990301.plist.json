@@ -20717,5 +20717,21 @@
           "crystalImageId": "211105",
           "recipeId": "21110",
           "recipeName": "究極芸術"
+        },
+        {
+          "crystalId": "21122",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "661",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "サソリのズボン",
+          "crystalDescription": "状態異常を軽減",
+          "crystalImageId": "211225",
+          "recipeId": "21122",
+          "recipeName": "サソリのズボン"
         }
       ]

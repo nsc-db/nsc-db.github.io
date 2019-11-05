@@ -2903,6 +2903,18 @@
           "voiceDeath": "pain_death_02_01"
         },
         {
+          "cardVoiceId": "246",
+          "cardId": "20051114",
+          "dirName": "sasori",
+          "evolutionStep": "",
+          "voiceAppear": "sasori_battle_02_03",
+          "voiceSkill1": "sasori_pursuit_02_01,sasori_attack_02_03",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "sasori_menu_04",
+          "voiceDeath": "sasori_menu_03"
+        },
+        {
           "cardVoiceId": "248",
           "cardId": "20051108",
           "dirName": "deidara",
