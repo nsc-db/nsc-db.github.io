@@ -11589,5 +11589,29 @@
           "effectIdx2": "684",
           "effectIdx3": "1699",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "982",
+          "targetCrystal": "21111",
+          "description": "2回行動までチャクラ消費0、3回目以降チャクラ消費半減、弱体と状態異常を無効",
+          "charaIds": "2404,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1646",
+          "effectIdx2": "1995",
+          "effectIdx3": "880",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "983",
+          "targetCrystal": "21112",
+          "description": "確率でスキル回避、1回行動まで確率で全スキル無効、3回行動まで受ける耐性無視スキルのダメージを0",
+          "charaIds": "2404,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "679",
+          "effectIdx2": "2465",
+          "effectIdx3": "2446",
+          "effectIdx4": "0"
         }
       ]

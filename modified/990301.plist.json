@@ -20719,6 +20719,38 @@
           "recipeName": "究極芸術"
         },
         {
+          "crystalId": "21111",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "8",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "自来也の制作手帳",
+          "crystalDescription": "チャクラ消費20%減少",
+          "crystalImageId": "211115",
+          "recipeId": "21111",
+          "recipeName": "自来也の制作手帳"
+        },
+        {
+          "crystalId": "21112",
+          "crystalType": "3",
+          "crystalRare": "5",
+          "effectIdx1": "27",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "自来也の筆",
+          "crystalDescription": "低確率でスキル回避",
+          "crystalImageId": "211125",
+          "recipeId": "21112",
+          "recipeName": "自来也の筆"
+        },
+        {
           "crystalId": "21122",
           "crystalType": "2",
           "crystalRare": "5",

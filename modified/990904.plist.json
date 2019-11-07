@@ -363,6 +363,32 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
+          "worldStageId": "1129",
+          "worldAreaId": "5",
+          "priority": "2",
+          "name": "NARUTO軌跡集-自来也-予言",
+          "description": "自来也の軌跡を追体験！\r\n★５自来也【鯉幟の勇士】を獲得しよう！",
+          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
+          "worldStageId": "1130",
+          "worldAreaId": "5",
+          "priority": "2",
+          "name": "NARUTO軌跡集-自来也-黄昏",
+          "description": "自来也の軌跡を追体験！\r\n個人Ptを集めて、自来也の固有忍具を獲得しよう！",
+          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
           "worldStageId": "1140",
           "worldAreaId": "5",
           "priority": "1",
@@ -525,19 +551,6 @@
           "name": "キング・オブ・ダメラン-特別篇-～総合～",
           "description": "0",
           "notice": "0",
-          "type": "0",
-          "prerequisiteWorldStageId": "0",
-          "openWeek": null,
-          "openTime": "0000.00.00 00:00:00",
-          "closeTime": "0000.00.00 00:00:00"
-        },
-        {
-          "worldStageId": "4108",
-          "worldAreaId": "5",
-          "priority": "1",
-          "name": "ナルト誕生～友情で結ばれし九喇嘛～",
-          "description": "Ptランキング開催！\r\n個人Ptはイベント期間中のみ加算されます",
-          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
           "type": "0",
           "prerequisiteWorldStageId": "0",
           "openWeek": null,
@@ -1416,6 +1429,19 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
+          "worldStageId": "8044",
+          "worldAreaId": "9",
+          "priority": "0",
+          "name": "第三十七回 昇級試験",
+          "description": "この任務は、他のユーザーの班と戦う任務です\r\n1度の挑戦で行うバトルの回数は、1回となります\r\n連続で勝利すると連続勝利数ボーナスが発生、より多くのPtを獲得可能です\r\n※全キャラクターの全ダメージ及びスキル発動速度は調整が行われております",
+          "notice": "0",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
           "worldStageId": "9000",
           "worldAreaId": "4",
           "priority": "0",
@@ -1899,7 +1925,7 @@
         {
           "worldStageId": "70003",
           "worldAreaId": "12",
-          "priority": "104",
+          "priority": "110",
           "name": "角都の超手配書",
           "description": "【両(売却素材) 獲得任務】\r\n  ドロップ報酬を売却して大量の両をゲットしよう！",
           "notice": "※任務は告知なく終了・内容変更となる場合がございます。\r\n※この任務は、Ptブーストや特効キャラの特効対象外となります。\r\n※同種の鍵については、有効期限が早いものから先に消費されます。",
@@ -1912,7 +1938,7 @@
         {
           "worldStageId": "70004",
           "worldAreaId": "12",
-          "priority": "103",
+          "priority": "120",
           "name": "大蛇丸の覚醒実験室",
           "description": "【覚醒素材 獲得任務】\r\n  ドロップ報酬を使って忍の覚醒段階をアップしよう！\r\n  忍界秘伝書、忍水晶は「商店」の「交換所」から\r\n  各種忍玉と交換できるぞ",
           "notice": "※任務は告知なく終了・内容変更となる場合がございます。\r\n※この任務は、Ptブーストや特効キャラの特効対象外となります。\r\n※同種の鍵については、有効期限が早いものから先に消費されます。\r\n※敵からドロップする覚醒素材は【忍玉、忍水晶、忍界秘伝書、猿王】になります。",
@@ -2107,9 +2133,22 @@
         {
           "worldStageId": "70020",
           "worldAreaId": "12",
-          "priority": "99",
+          "priority": "103",
           "name": "ロック・リーの青春！潜在覚醒修業！！",
           "description": "【潜在覚醒素材 獲得任務】\r\n  素材を集めて、潜在覚醒盤を解放しよう！",
+          "notice": "※任務は告知なく終了・内容変更となる場合がございます。\r\n※この任務は、Ptブーストや特効キャラの特効対象外となります。\r\n※同種の鍵については、有効期限が早いものから先に消費されます。",
+          "type": "101",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
+          "worldStageId": "70021",
+          "worldAreaId": "12",
+          "priority": "99",
+          "name": "マイト・ガイの青春乱舞！潜在覚醒修業！！",
+          "description": "【乱舞キャラ】【潜在覚醒素材 獲得任務】\r\n  素材を集めて、潜在覚醒盤を解放しよう！",
           "notice": "※任務は告知なく終了・内容変更となる場合がございます。\r\n※この任務は、Ptブーストや特効キャラの特効対象外となります。\r\n※同種の鍵については、有効期限が早いものから先に消費されます。",
           "type": "101",
           "prerequisiteWorldStageId": "0",

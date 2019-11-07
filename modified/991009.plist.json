@@ -2303,6 +2303,18 @@
           "itemImgId": "23"
         },
         {
+          "shopExchangeItemId": "393",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "394",
+          "itemName": "昇級試験Pt",
+          "measure": "0",
+          "itemImgId": "128"
+        },
+        {
           "shopExchangeItemId": "1001",
           "itemName": "下心Pt",
           "measure": null,
@@ -2619,6 +2631,12 @@
           "itemName": "個人Pt",
           "measure": "0",
           "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "1054",
+          "itemName": "乱舞Pt",
+          "measure": "0",
+          "itemImgId": "1054"
         },
         {
           "shopExchangeItemId": "1055",

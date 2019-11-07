@@ -21140,6 +21140,24 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2401",
+          "abilityName": "元祖ド根性忍者",
+          "abilityDescription": "HP0以下で3回までHP50%回復、木ノ葉隠れの里所属への単体ｽｷﾙ攻撃を受ける　※かばうは最後の発動者が有効",
+          "abilityEffectDescription": "HP0以下で3回までHP50%回復、木ノ葉隠れの里所属への単体ｽｷﾙ攻撃を受ける　※かばうは最後の発動者が有効",
+          "effectIdx1": "1789",
+          "effectIdx2": "618",
+          "effectIdx3": "1834"
+        },
+        {
+          "abilityId": "2402",
+          "abilityName": "弟子より継承せし術",
+          "abilityDescription": "バトル開始時に高確率で「よく見てろのォ」で急襲攻撃（ﾁｬｸﾗ中回復）、最大チャクラ量100アップ",
+          "abilityEffectDescription": "バトル開始時に高確率で「よく見てろのォ」で急襲攻撃（ﾁｬｸﾗ中回復）、最大チャクラ量100アップ",
+          "effectIdx1": "2623",
+          "effectIdx2": "20009",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

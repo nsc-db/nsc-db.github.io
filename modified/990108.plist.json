@@ -12648,6 +12648,19 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "988",
+          "name": "伝承の旋撃",
+          "description": "木ノ葉隠れの里所属のキャラが行動ごとにHPとチャクラ20%回復＆3回行動までスキップ無効",
+          "effectIdx1": "628",
+          "effectIdx2": "583",
+          "effectIdx3": "2382",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

@@ -2915,6 +2915,18 @@
           "voiceDeath": "sasori_menu_03"
         },
         {
+          "cardVoiceId": "247",
+          "cardId": "20051109",
+          "dirName": "jiraiya",
+          "evolutionStep": "",
+          "voiceAppear": "jiraiya_battle_02_03",
+          "voiceSkill1": "jiraiya_attack_02_03,jiraiya_skill_02_01",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "jiraiya_win_02_02",
+          "voiceDeath": "jiraiya_death_02_02"
+        },
+        {
           "cardVoiceId": "248",
           "cardId": "20051108",
           "dirName": "deidara",
