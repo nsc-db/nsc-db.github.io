@@ -2297,6 +2297,12 @@
           "itemImgId": "23"
         },
         {
+          "shopExchangeItemId": "391",
+          "itemName": "湯けむりPt",
+          "measure": "0",
+          "itemImgId": "391"
+        },
+        {
           "shopExchangeItemId": "392",
           "itemName": "個人Pt",
           "measure": "0",

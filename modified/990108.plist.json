@@ -12661,6 +12661,45 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "989",
+          "name": "秋露の悠々娘",
+          "description": "心属性の最大HPとスキルダメージを100%アップ",
+          "effectIdx1": "684",
+          "effectIdx2": "774",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "990",
+          "name": "秋風に舞う湯桜",
+          "description": "体属性の最大HPと攻撃力を150%アップ",
+          "effectIdx1": "1212",
+          "effectIdx2": "1268",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "3",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "991",
+          "name": "秋澄みの木ノ香",
+          "description": "技属性の最大HPと素早さを80%アップ",
+          "effectIdx1": "649",
+          "effectIdx2": "13079",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "2",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

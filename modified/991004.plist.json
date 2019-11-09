@@ -4895,6 +4895,24 @@
           "speechCharactorName": "客"
         },
         {
+          "speechCharactorId": "831",
+          "cardId": "20051118",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "春野サクラ"
+        },
+        {
+          "speechCharactorId": "832",
+          "cardId": "20051117",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "テンテン"
+        },
+        {
+          "speechCharactorId": "833",
+          "cardId": "20051119",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "日向ヒナタ"
+        },
+        {
           "speechCharactorId": "842",
           "cardId": "20001558",
           "speechCharactorImgId": "0",
@@ -4965,6 +4983,18 @@
           "cardId": "727",
           "speechCharactorImgId": "0",
           "speechCharactorName": "“暁”メンバー"
+        },
+        {
+          "speechCharactorId": "861",
+          "cardId": "50000013",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "　"
+        },
+        {
+          "speechCharactorId": "863",
+          "cardId": "20040318",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "エビス"
         },
         {
           "speechCharactorId": "1000",

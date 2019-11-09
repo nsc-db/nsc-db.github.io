@@ -2939,6 +2939,30 @@
           "voiceDeath": "deidara_death_02_01"
         },
         {
+          "cardVoiceId": "249",
+          "cardId": "20051118",
+          "dirName": "sakura",
+          "evolutionStep": "",
+          "voiceAppear": "sakura_gacha_tap_01",
+          "voiceSkill1": "sakura_skill_02_08",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "sakura_win_02_04",
+          "voiceDeath": "sakura_death_02_01"
+        },
+        {
+          "cardVoiceId": "250",
+          "cardId": "20051119",
+          "dirName": "hinata",
+          "evolutionStep": "",
+          "voiceAppear": "hinata_pursuit_02_01",
+          "voiceSkill1": "hinata_gacha_tap_01",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "hinata_battle_02_01",
+          "voiceDeath": "hinata_death_02_01"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",
