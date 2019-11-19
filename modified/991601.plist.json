@@ -1299,6 +1299,19 @@
           "selectType": "1"
         },
         {
+          "itemId": "11101",
+          "name": "期間限定ラーメン（11月22日15:59まで期間限定）",
+          "description": "スタミナを全回復するラーメン（11月22日15:59まで期間限定）",
+          "resultWord": "0",
+          "itemCategoryId": "1",
+          "itemValue": "1000000",
+          "itemNum": "0",
+          "itemImageId": "11020",
+          "needCount": "1",
+          "priority": "1",
+          "selectType": "1"
+        },
+        {
           "itemId": "15001",
           "name": "共闘コイン",
           "description": "共闘コインガチャの実行に必要なコイン。",
@@ -1991,6 +2004,19 @@
           "itemId": "51042",
           "name": "期間限定 昇級Pt倍化薬",
           "description": "昇級試験での獲得Ptが2倍になります（11月11日15:59まで期間限定）。",
+          "resultWord": "昇級試験 獲得Pt2倍",
+          "itemCategoryId": "11",
+          "itemValue": "20000",
+          "itemNum": "0",
+          "itemImageId": "51002",
+          "needCount": "1",
+          "priority": "100",
+          "selectType": "2"
+        },
+        {
+          "itemId": "51043",
+          "name": "期間限定 昇級Pt倍化薬",
+          "description": "昇級試験での獲得Ptが2倍になります（11月25日15:59まで期間限定）",
           "resultWord": "昇級試験 獲得Pt2倍",
           "itemCategoryId": "11",
           "itemValue": "20000",

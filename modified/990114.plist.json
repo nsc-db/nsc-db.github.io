@@ -2349,6 +2349,16 @@
           "type": "3"
         },
         {
+          "cardUnusualId": "239",
+          "category": "6",
+          "iconId": "1270",
+          "name": "八ノ絆",
+          "description": "状態異常・幻・弱体系特殊状態・即死無効、行動後HP回復、最大HPｱｯﾌﾟ、ｽｷﾙ必中、追撃、解除時獣化不可",
+          "subScore": "0",
+          "color": "16752899",
+          "type": "2"
+        },
+        {
           "cardUnusualId": "240",
           "category": "4",
           "iconId": "1271",
@@ -2356,6 +2366,16 @@
           "description": "行動のたび敵全体の弱体系特殊状態解除＆HP回復＆素早さとｽｷﾙﾀﾞﾒｰｼﾞｱｯﾌﾟ、ｽｷﾙ攻撃すると跳ね返りﾀﾞﾒｰｼﾞ",
           "subScore": "0",
           "color": "13191586",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "242",
+          "category": "6",
+          "iconId": "1273",
+          "name": "獣化不可",
+          "description": "獣化状態不可",
+          "subScore": "0",
+          "color": "0",
           "type": "3"
         }
       ]

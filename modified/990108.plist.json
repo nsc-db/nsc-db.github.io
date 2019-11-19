@@ -12700,6 +12700,19 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "992",
+          "name": "雷躯・A・ブラザー",
+          "description": "攻撃を受けたとき低確率でカウントを1減少し、全属性の防御力100%アップ",
+          "effectIdx1": "2630",
+          "effectIdx2": "12099",
+          "effectIdx3": "0",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

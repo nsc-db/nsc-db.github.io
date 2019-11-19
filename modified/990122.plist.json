@@ -2963,6 +2963,18 @@
           "voiceDeath": "hinata_death_02_01"
         },
         {
+          "cardVoiceId": "251",
+          "cardId": "50051103",
+          "dirName": "b",
+          "evolutionStep": "",
+          "voiceAppear": "",
+          "voiceSkill1": "b_pursuit_02_02",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "",
+          "voiceDeath": ""
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

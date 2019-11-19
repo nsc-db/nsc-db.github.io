@@ -3009,6 +3009,20 @@
           "gender": "1"
         },
         {
+          "charaProfileId": "20102",
+          "charaId": "201",
+          "name": "キラービー",
+          "detail": null,
+          "charaLoveAffinityGroupId": "20110",
+          "birthday": "515",
+          "constellation": "2",
+          "height": "19200",
+          "weight": "8710",
+          "bloodType": "2",
+          "age": "36",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "20201",
           "charaId": "202",
           "name": "エー",

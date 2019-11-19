@@ -48596,5 +48596,28 @@
           "ope3Prob": "0",
           "ope3SyncTargetId": "0",
           "ope3Params": "0"
+        },
+        {
+          "cardBehaveAffectLinkId": "1500003",
+          "linkMaster": "1",
+          "linkIdx": "500003",
+          "ope1No": "1392",
+          "ope1AffId": "20230004",
+          "ope1Target": "2",
+          "ope1Prob": "10000",
+          "ope1SyncTargetId": "0",
+          "ope1Params": "8,88888,",
+          "ope2No": "883",
+          "ope2AffId": "15031034",
+          "ope2Target": "4",
+          "ope2Prob": "10000",
+          "ope2SyncTargetId": "0",
+          "ope2Params": "0",
+          "ope3No": "244",
+          "ope3AffId": "10118",
+          "ope3Target": "4",
+          "ope3Prob": "10000",
+          "ope3SyncTargetId": "1002",
+          "ope3Params": "3,1000,88800"
         }
       ]

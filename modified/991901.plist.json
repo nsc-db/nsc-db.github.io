@@ -45,5 +45,17 @@
           "cardId": "50051002",
           "normalPanelList": "5001001,5001002,5001003",
           "specialPanelList": "5001004,5001005,5001006"
+        },
+        {
+          "sphereBoardId": "5000003",
+          "boardName": "八尾＆キラービー",
+          "boardDescription": "キラービー【雷躯・A・ブラザー】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "50051103",
+          "normalPanelList": "5002001,5002002,5002003",
+          "specialPanelList": "5002004,5002005,5002006"
         }
       ]

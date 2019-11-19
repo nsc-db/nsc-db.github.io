@@ -21212,6 +21212,24 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2409",
+          "abilityName": "リスペクト精神",
+          "abilityDescription": "行動後HP・チャクラ10%回復",
+          "abilityEffectDescription": "行動後HP・チャクラ10%回復",
+          "effectIdx1": "357",
+          "effectIdx2": "528",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2410",
+          "abilityName": "ワイルドスタイル",
+          "abilityDescription": "最大HP40%アップ",
+          "abilityEffectDescription": "最大HP40%アップ",
+          "effectIdx1": "10039",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

@@ -2663,6 +2663,12 @@
           "itemImgId": "23"
         },
         {
+          "shopExchangeItemId": "1058",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
           "shopExchangeItemId": "2000",
           "itemName": "忍交換券(8月)",
           "measure": null,
@@ -3081,6 +3087,12 @@
           "itemName": "神忍具交換券",
           "measure": "0",
           "itemImgId": "2072"
+        },
+        {
+          "shopExchangeItemId": "2073",
+          "itemName": "1700万DL記念札",
+          "measure": "0",
+          "itemImgId": "2073"
         },
         {
           "shopExchangeItemId": "2500",

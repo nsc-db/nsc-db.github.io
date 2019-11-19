@@ -5003,6 +5003,12 @@
           "speechCharactorName": "エビス"
         },
         {
+          "speechCharactorId": "873",
+          "cardId": "50000013",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "ガマ吉"
+        },
+        {
           "speechCharactorId": "1000",
           "cardId": "21000091",
           "speechCharactorImgId": "1000",
