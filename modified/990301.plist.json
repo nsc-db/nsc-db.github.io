@@ -20751,6 +20751,38 @@
           "recipeName": "自来也の筆"
         },
         {
+          "crystalId": "21113",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "8",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "0",
+          "crystalDescription": "0",
+          "crystalImageId": "211135",
+          "recipeId": "21113",
+          "recipeName": "超獣偽画・鳥"
+        },
+        {
+          "crystalId": "21114",
+          "crystalType": "1",
+          "crystalRare": "5",
+          "effectIdx1": "13019",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "0",
+          "crystalDescription": "0",
+          "crystalImageId": "211145",
+          "recipeId": "21114",
+          "recipeName": "好物の木綿豆腐"
+        },
+        {
           "crystalId": "21117",
           "crystalType": "1",
           "crystalRare": "5",

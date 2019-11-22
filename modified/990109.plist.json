@@ -21230,6 +21230,42 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2411",
+          "abilityName": "木遁秘術の適合者",
+          "abilityDescription": "HP90%以上の時に素早さ100%アップ、行動後にHPとチャクラを30%回復",
+          "abilityEffectDescription": "HP90%以上の時に素早さ100%アップ、行動後にHPとチャクラを30%回復",
+          "effectIdx1": "2219",
+          "effectIdx2": "300012",
+          "effectIdx3": "2524"
+        },
+        {
+          "abilityId": "2412",
+          "abilityName": "ヤマト流の統率方針",
+          "abilityDescription": "最大HPと防御力を100%アップ、状態異常を半減する",
+          "abilityEffectDescription": "最大HPと防御力を100%アップ、状態異常を半減する",
+          "effectIdx1": "684",
+          "effectIdx2": "12099",
+          "effectIdx3": "792"
+        },
+        {
+          "abilityId": "2413",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "312",
+          "effectIdx2": "2632",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2414",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "1255",
+          "effectIdx2": "2580",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

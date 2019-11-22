@@ -1312,6 +1312,32 @@
           "selectType": "1"
         },
         {
+          "itemId": "11102",
+          "name": "12月限定ラーメン(2019)",
+          "description": "スタミナを全回復するラーメン（12月31日まで期間限定）",
+          "resultWord": "0",
+          "itemCategoryId": "1",
+          "itemValue": "1000000",
+          "itemNum": "0",
+          "itemImageId": "11020",
+          "needCount": "1",
+          "priority": "1",
+          "selectType": "1"
+        },
+        {
+          "itemId": "11103",
+          "name": "期間限定ラーメン（12月2日15:59まで）",
+          "description": "スタミナを全回復するラーメン（12月2日15:59まで期間限定）",
+          "resultWord": "0",
+          "itemCategoryId": "1",
+          "itemValue": "1000000",
+          "itemNum": "0",
+          "itemImageId": "11020",
+          "needCount": "1",
+          "priority": "1",
+          "selectType": "1"
+        },
+        {
           "itemId": "15001",
           "name": "共闘コイン",
           "description": "共闘コインガチャの実行に必要なコイン。",
@@ -2027,6 +2053,19 @@
           "selectType": "2"
         },
         {
+          "itemId": "51044",
+          "name": "期間限定 昇級Pt倍化薬（11月25日15:59まで）",
+          "description": "昇級試験での獲得Ptが2倍になります（11月25日15:59まで期間限定）",
+          "resultWord": "昇級試験 獲得Pt2倍",
+          "itemCategoryId": "11",
+          "itemValue": "20000",
+          "itemNum": "0",
+          "itemImageId": "51002",
+          "needCount": "1",
+          "priority": "100",
+          "selectType": "2"
+        },
+        {
           "itemId": "52000",
           "name": "限定ドロップ数２倍の秘伝書",
           "description": "バトルでの獲得ドロップ数が２倍になります。（1月4日15:59まで期間限定）",
@@ -2573,6 +2612,19 @@
           "selectType": "2"
         },
         {
+          "itemId": "52042",
+          "name": "限定ﾄﾞﾛｯﾌﾟ数2倍の秘伝書（12月2日15:59まで）",
+          "description": "バトルでの獲得ドロップ数が２倍になります。（12月2日15:59まで期間限定）",
+          "resultWord": "忍/素材ドロップ数２倍",
+          "itemCategoryId": "10",
+          "itemValue": "20000",
+          "itemNum": "0",
+          "itemImageId": "51000",
+          "needCount": "1",
+          "priority": "100",
+          "selectType": "2"
+        },
+        {
           "itemId": "60000",
           "name": "SNB総選挙投票券",
           "description": "SNB総選挙の投票に必要なアイテム",
@@ -2809,7 +2861,7 @@
         {
           "itemId": "500000",
           "name": "乱舞の目覚め",
-          "description": "乱舞枠解放アイテム",
+          "description": "乱舞編成枠拡張アイテム※同じ班に同一乱舞キャラは複数体編成出来ません",
           "resultWord": "0",
           "itemCategoryId": "103",
           "itemValue": "0",

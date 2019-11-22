@@ -5003,6 +5003,12 @@
           "speechCharactorName": "エビス"
         },
         {
+          "speechCharactorId": "871",
+          "cardId": "20001636",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "デイダラ"
+        },
+        {
           "speechCharactorId": "873",
           "cardId": "50000013",
           "speechCharactorImgId": "0",
