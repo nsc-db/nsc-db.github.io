@@ -21249,21 +21249,39 @@
         },
         {
           "abilityId": "2413",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "芽生えた仲間意識",
+          "abilityDescription": "HPが0以下で1回だけ耐え、1回目の耐える発動時にアクション状態になる",
+          "abilityEffectDescription": "HPが0以下で1回だけ耐え、1回目の耐える発動時にアクション状態になる",
           "effectIdx1": "312",
           "effectIdx2": "2632",
           "effectIdx3": "0"
         },
         {
           "abilityId": "2414",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "筆捌きに宿る心",
+          "abilityDescription": "班の木ノ葉隠れの里所属のキャラ1体につき素早さ40%アップ（自身含む）、敵に滅キャラがいると素早さ150%アップ",
+          "abilityEffectDescription": "班の木ノ葉隠れの里所属のキャラ1体につき素早さ40%アップ（自身含む）、敵に滅キャラがいると素早さ150%アップ",
           "effectIdx1": "1255",
           "effectIdx2": "2580",
           "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2415",
+          "abilityName": "自分ルールを継ぐ者",
+          "abilityDescription": "1回行動までｽｷﾙﾀﾞﾒｰｼﾞ400%ｱｯﾌﾟ、ﾊﾞﾄﾙ開始時確率先制攻撃、班の木ﾉ葉隠れの里所属1体につき素早さ40%ｱｯﾌﾟ(自身含)",
+          "abilityEffectDescription": "1回行動までｽｷﾙﾀﾞﾒｰｼﾞ400%ｱｯﾌﾟ、ﾊﾞﾄﾙ開始時確率先制攻撃、班の木ﾉ葉隠れの里所属1体につき素早さ40%ｱｯﾌﾟ(自身含)",
+          "effectIdx1": "2636",
+          "effectIdx2": "2637",
+          "effectIdx3": "1255"
+        },
+        {
+          "abilityId": "2416",
+          "abilityName": "努力の体術",
+          "abilityDescription": "行動のたび攻撃力50％ｱｯﾌﾟ(最大500%)、確実に再行動※再行動後の行動は不可、敵に滅ｷｬﾗがいると素早さ200%ｱｯﾌﾟ",
+          "abilityEffectDescription": "行動のたび攻撃力50％ｱｯﾌﾟ(最大500%)、確実に再行動※再行動後の行動は不可、敵に滅ｷｬﾗがいると素早さ200%ｱｯﾌﾟ",
+          "effectIdx1": "2635",
+          "effectIdx2": "1893",
+          "effectIdx3": "2575"
         },
         {
           "abilityId": "10000",

@@ -4919,6 +4919,54 @@
           "speechCharactorName": "日向ヒナタ"
         },
         {
+          "speechCharactorId": "834",
+          "cardId": "834",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "カエル"
+        },
+        {
+          "speechCharactorId": "835",
+          "cardId": "835",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "自来也"
+        },
+        {
+          "speechCharactorId": "836",
+          "cardId": "836",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "ゲロ寅"
+        },
+        {
+          "speechCharactorId": "837",
+          "cardId": "837",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "弥彦"
+        },
+        {
+          "speechCharactorId": "838",
+          "cardId": "838",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "小南"
+        },
+        {
+          "speechCharactorId": "839",
+          "cardId": "839",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "長門"
+        },
+        {
+          "speechCharactorId": "840",
+          "cardId": "840",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "弥彦"
+        },
+        {
+          "speechCharactorId": "841",
+          "cardId": "841",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "小南"
+        },
+        {
           "speechCharactorId": "842",
           "cardId": "20001558",
           "speechCharactorImgId": "0",
@@ -5003,6 +5051,24 @@
           "speechCharactorName": "エビス"
         },
         {
+          "speechCharactorId": "868",
+          "cardId": "50000013",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "蝦蟇"
+        },
+        {
+          "speechCharactorId": "869",
+          "cardId": "21000201",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "ペイン"
+        },
+        {
+          "speechCharactorId": "870",
+          "cardId": "438",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "自来也"
+        },
+        {
           "speechCharactorId": "871",
           "cardId": "20001636",
           "speechCharactorImgId": "0",
@@ -5013,6 +5079,12 @@
           "cardId": "50000013",
           "speechCharactorImgId": "0",
           "speechCharactorName": "ガマ吉"
+        },
+        {
+          "speechCharactorId": "876",
+          "cardId": "21000340",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "忍"
         },
         {
           "speechCharactorId": "1000",

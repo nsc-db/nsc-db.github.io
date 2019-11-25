@@ -11677,7 +11677,7 @@
         {
           "crystalOverwriteEffectId": "989",
           "targetCrystal": "21113",
-          "description": "0",
+          "description": "チャクラ消費60%減少、秘伝タイプのスキルダメージ100%アップ、スキル発動速度1段階アップ",
           "charaIds": "3701,3702,",
           "cardIds": "0",
           "charaGroupIds": "0",
@@ -11689,13 +11689,37 @@
         {
           "crystalOverwriteEffectId": "990",
           "targetCrystal": "21114",
-          "description": "0",
+          "description": "素早さ90%アップ、弱体と状態異常無効、3回行動まで超高確率でスキルを回避",
           "charaIds": "3701,3702,",
           "cardIds": "0",
           "charaGroupIds": "0",
           "effectIdx1": "13089",
           "effectIdx2": "880",
           "effectIdx3": "2633",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "991",
+          "targetCrystal": "21115",
+          "description": "スキル発動速度1段階アップ、攻撃力150%アップ、高確率でスキル回避",
+          "charaIds": "1103,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1840",
+          "effectIdx2": "1268",
+          "effectIdx3": "968",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "992",
+          "targetCrystal": "21116",
+          "description": "バトル開始時にチャクラ100%回復、1回行動以降はチャクラ消費量半減、2回行動まで全スキル無効",
+          "charaIds": "1103,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1994",
+          "effectIdx2": "1538",
+          "effectIdx3": "1120",
           "effectIdx4": "0"
         }
       ]

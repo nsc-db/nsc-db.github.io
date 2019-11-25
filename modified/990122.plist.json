@@ -2975,6 +2975,18 @@
           "voiceDeath": ""
         },
         {
+          "cardVoiceId": "252",
+          "cardId": "20051113",
+          "dirName": "lee",
+          "evolutionStep": "",
+          "voiceAppear": "lee_battle_02_03",
+          "voiceSkill1": "lee_pursuit_02_01",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "lee_win_02_02",
+          "voiceDeath": "lee_death_02_01"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",
