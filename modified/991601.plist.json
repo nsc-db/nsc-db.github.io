@@ -2768,6 +2768,19 @@
           "selectType": "3"
         },
         {
+          "itemId": "60011",
+          "name": "ナルコレ大賞2019投票券",
+          "description": "ナルコレ大賞2019で投票に必要なアイテム。（12月26日15:59まで期間限定）",
+          "resultWord": "0",
+          "itemCategoryId": "20",
+          "itemValue": "0",
+          "itemNum": "0",
+          "itemImageId": "60011",
+          "needCount": "1",
+          "priority": "1",
+          "selectType": "3"
+        },
+        {
           "itemId": "61000",
           "name": "ナルト誕生記念CP応募券",
           "description": "うずまきナルト誕生記念\r\nプレゼントキャンペーン応募券\r\n※抽選は10月下旬を予定",

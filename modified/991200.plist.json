@@ -11721,5 +11721,41 @@
           "effectIdx2": "1538",
           "effectIdx3": "1120",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "993",
+          "targetCrystal": "21201",
+          "description": "3回行動までチャクラ消費0、行動後チャクラ50%回復、防御力200%アップ",
+          "charaIds": "1903,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1949",
+          "effectIdx2": "2644",
+          "effectIdx3": "1510",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "998",
+          "targetCrystal": "21206",
+          "description": "全スキルダメージ80％アップ、低確率でスキル回避、通常攻撃回避率が15％アップ",
+          "charaIds": "704,4602,4301,51001,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "694",
+          "effectIdx2": "2665",
+          "effectIdx3": "2666",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "999",
+          "targetCrystal": "21207",
+          "description": "行動後にHP15％回復、3回行動まで白眼・体術を無効化、HP70%以上の時にスキル発動速度1段階アップ",
+          "charaIds": "704,4602,4301,51001,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "735",
+          "effectIdx2": "2667",
+          "effectIdx3": "2668",
+          "effectIdx4": "1583"
         }
       ]

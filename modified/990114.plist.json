@@ -2369,6 +2369,16 @@
           "type": "3"
         },
         {
+          "cardUnusualId": "241",
+          "category": "4",
+          "iconId": "1272",
+          "name": "仙人モード（柱間）",
+          "description": "全スキル無効、行動後HP・チャクラ回復、スキル攻撃を受けると攻撃者に封印を付与",
+          "subScore": "0",
+          "color": "7920895",
+          "type": "2"
+        },
+        {
           "cardUnusualId": "242",
           "category": "6",
           "iconId": "1273",

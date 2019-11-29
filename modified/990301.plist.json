@@ -20909,5 +20909,53 @@
           "crystalImageId": "211225",
           "recipeId": "21122",
           "recipeName": "サソリのズボン"
+        },
+        {
+          "crystalId": "21201",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "1378",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "初代火影の笠",
+          "crystalDescription": "1回行動までチャクラ消費0",
+          "crystalImageId": "212015",
+          "recipeId": "21201",
+          "recipeName": "初代火影の笠"
+        },
+        {
+          "crystalId": "21206",
+          "crystalType": "3",
+          "crystalRare": "5",
+          "effectIdx1": "2666",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "プレゼント袋",
+          "crystalDescription": "低確率でスキル回避",
+          "crystalImageId": "212065",
+          "recipeId": "21206",
+          "recipeName": "プレゼント袋"
+        },
+        {
+          "crystalId": "21207",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "2667",
+          "effectIdx2": "2668",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "プレゼントボックス",
+          "crystalDescription": "3回行動まで白眼・体術を無効化",
+          "crystalImageId": "212075",
+          "recipeId": "21207",
+          "recipeName": "プレゼントボックス"
         }
       ]

@@ -12752,6 +12752,19 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "996",
+          "name": "仁樹の守護者",
+          "description": "木ノ葉隠れの里所属の最大HP120%ｱｯﾌﾟ、防御力80%ｱｯﾌﾟ、受けるﾀﾞﾒｰｼﾞを確率で15%ｶｯﾄ",
+          "effectIdx1": "2638",
+          "effectIdx2": "1221",
+          "effectIdx3": "12079",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

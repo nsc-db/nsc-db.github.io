@@ -2339,6 +2339,12 @@
           "itemImgId": "128"
         },
         {
+          "shopExchangeItemId": "398",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
           "shopExchangeItemId": "1001",
           "itemName": "下心Pt",
           "measure": null,
@@ -3035,6 +3041,12 @@
           "itemImgId": "41"
         },
         {
+          "shopExchangeItemId": "2060",
+          "itemName": "祭札[12月]",
+          "measure": "0",
+          "itemImgId": "41"
+        },
+        {
           "shopExchangeItemId": "2061",
           "itemName": "忍具札",
           "measure": "0",
@@ -3145,6 +3157,12 @@
         {
           "shopExchangeItemId": "2507",
           "itemName": "神忍札[11月]",
+          "measure": "0",
+          "itemImgId": "2500"
+        },
+        {
+          "shopExchangeItemId": "2508",
+          "itemName": "神忍札[12月]",
           "measure": "0",
           "itemImgId": "2500"
         },

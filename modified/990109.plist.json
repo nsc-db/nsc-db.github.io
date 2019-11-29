@@ -21284,6 +21284,24 @@
           "effectIdx3": "2575"
         },
         {
+          "abilityId": "2417",
+          "abilityName": "平和を築く情熱",
+          "abilityDescription": "被攻撃時確率で自身除く味方に1回行動まで火影の守護状態付与、1回行動まで被攻撃時即ｱｸｼｮﾝ、HP0以下で5回耐える",
+          "abilityEffectDescription": "被攻撃時確率で自身除く味方に1回行動まで火影の守護状態付与、1回行動まで被攻撃時即ｱｸｼｮﾝ、HP0以下で5回耐える",
+          "effectIdx1": "2641",
+          "effectIdx2": "2642",
+          "effectIdx3": "1512"
+        },
+        {
+          "abilityId": "2418",
+          "abilityName": "友を止める決断",
+          "abilityDescription": "ﾊﾞﾄﾙ開始時自身に短い間仙人モード（柱間）付与、敵にうちは一族が生存時素早さ300%ｱｯﾌﾟ、最大ﾁｬｸﾗ量150ｱｯﾌﾟ",
+          "abilityEffectDescription": "ﾊﾞﾄﾙ開始時自身に短い間仙人モード（柱間）付与、敵にうちは一族が生存時素早さ300%ｱｯﾌﾟ、最大ﾁｬｸﾗ量150ｱｯﾌﾟ",
+          "effectIdx1": "2643",
+          "effectIdx2": "2639",
+          "effectIdx3": "20014"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

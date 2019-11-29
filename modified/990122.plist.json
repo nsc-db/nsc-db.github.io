@@ -2987,6 +2987,18 @@
           "voiceDeath": "lee_death_02_01"
         },
         {
+          "cardVoiceId": "253",
+          "cardId": "20051202",
+          "dirName": "hashirama",
+          "evolutionStep": "",
+          "voiceAppear": "hashirama_battle_02_01",
+          "voiceSkill1": "hashirama_skill_02_03,hashirama_battle_02_03",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "hashirama_win_02_03",
+          "voiceDeath": "hashirama_death_02_02"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

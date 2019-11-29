@@ -1047,5 +1047,15 @@
           "uiIdx": "10014",
           "partyEffects": "2606,2607,2608,2609,",
           "enemyEffects": null
+        },
+        {
+          "battleFieldEffectId": "10015",
+          "name": "秩序ノ盟",
+          "category": "3",
+          "scriptId": "10015",
+          "overWrite": "1",
+          "uiIdx": "10015",
+          "partyEffects": "2645,",
+          "enemyEffects": "2645,"
         }
       ]
