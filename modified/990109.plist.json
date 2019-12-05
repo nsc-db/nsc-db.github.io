@@ -21302,6 +21302,24 @@
           "effectIdx3": "20014"
         },
         {
+          "abilityId": "2419",
+          "abilityName": "秩序を保つ論理",
+          "abilityDescription": "バトル開始時敵全体を確率で飛雷神ﾏｰｷﾝｸﾞ状態にする、敵に滅ｷｬﾗが生存で素早さ250%ｱｯﾌﾟ、HP0以下で2回耐える",
+          "abilityEffectDescription": "バトル開始時敵全体を確率で飛雷神ﾏｰｷﾝｸﾞ状態にする、敵に滅ｷｬﾗが生存で素早さ250%ｱｯﾌﾟ、HP0以下で2回耐える",
+          "effectIdx1": "2647",
+          "effectIdx2": "2648",
+          "effectIdx3": "1057"
+        },
+        {
+          "abilityId": "2420",
+          "abilityName": "先手の妙術",
+          "abilityDescription": "素早さ700%アップ、高確率でスキップ無効、敵にうちは一族が生存しているとき素早さ400%アップ",
+          "abilityEffectDescription": "素早さ700%アップ、高確率でスキップ無効、敵にうちは一族が生存しているとき素早さ400%アップ",
+          "effectIdx1": "13102",
+          "effectIdx2": "2589",
+          "effectIdx3": "2675"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -22335,6 +22353,24 @@
           "effectIdx1": "1940",
           "effectIdx2": "2545",
           "effectIdx3": "2546"
+        },
+        {
+          "abilityId": "100068",
+          "abilityName": "恋人たちへの憧憬",
+          "abilityDescription": "2回行動するまで男性キャラから受ける耐性無視ダメージ0&amp;全スキル無効&amp;スキル発動速度1段階アップ",
+          "abilityEffectDescription": "2回行動するまで男性キャラから受ける耐性無視ダメージ0&amp;全スキル無効&amp;スキル発動速度1段階アップ",
+          "effectIdx1": "1989",
+          "effectIdx2": "1990",
+          "effectIdx3": "1379"
+        },
+        {
+          "abilityId": "100069",
+          "abilityName": "女の子らしさへの憧れ",
+          "abilityDescription": "1回行動するまで素早さ300%アップし、3回行動までスキルダメージ100％アップ",
+          "abilityEffectDescription": "1回行動するまで素早さ300%アップし、3回行動までスキルダメージ100％アップ",
+          "effectIdx1": "1997",
+          "effectIdx2": "2650",
+          "effectIdx3": "0"
         },
         {
           "abilityId": "200001",

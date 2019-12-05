@@ -11735,6 +11735,30 @@
           "effectIdx4": "0"
         },
         {
+          "crystalOverwriteEffectId": "994",
+          "targetCrystal": "21202",
+          "description": "3回行動までキャンセル無効、スキル発動速度１段階アップ",
+          "charaIds": "2001,2002,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "2070",
+          "effectIdx2": "1840",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "995",
+          "targetCrystal": "21203",
+          "description": "スキルダメージ80%アップ、行動後確率でスキルダメージ120%アップ（合計200%アップ）",
+          "charaIds": "2001,2002,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "694",
+          "effectIdx2": "2646",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
+        },
+        {
           "crystalOverwriteEffectId": "998",
           "targetCrystal": "21206",
           "description": "全スキルダメージ80％アップ、低確率でスキル回避、通常攻撃回避率が15％アップ",

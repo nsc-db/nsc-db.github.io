@@ -20927,6 +20927,38 @@
           "recipeName": "初代火影の笠"
         },
         {
+          "crystalId": "21202",
+          "crystalType": "3",
+          "crystalRare": "5",
+          "effectIdx1": "1804",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "水龍弾の術",
+          "crystalDescription": "1回行動までキャンセル無効",
+          "crystalImageId": "212025",
+          "recipeId": "21202",
+          "recipeName": "水龍弾の術"
+        },
+        {
+          "crystalId": "21203",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "692",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "扉間の直刀",
+          "crystalDescription": "スキルダメージ40%アップ",
+          "crystalImageId": "212035",
+          "recipeId": "21203",
+          "recipeName": "扉間の直刀"
+        },
+        {
           "crystalId": "21206",
           "crystalType": "3",
           "crystalRare": "5",
