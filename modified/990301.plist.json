@@ -20989,5 +20989,37 @@
           "crystalImageId": "212075",
           "recipeId": "21207",
           "recipeName": "プレゼントボックス"
+        },
+        {
+          "crystalId": "21208",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "1539",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "0",
+          "crystalDescription": "0",
+          "crystalImageId": "212085",
+          "recipeId": "21208",
+          "recipeName": "想い託す写輪眼"
+        },
+        {
+          "crystalId": "21209",
+          "crystalType": "1",
+          "crystalRare": "5",
+          "effectIdx1": "818",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "0",
+          "crystalDescription": "0",
+          "crystalImageId": "212095",
+          "recipeId": "21209",
+          "recipeName": "イズナの火遁"
         }
       ]
