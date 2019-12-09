@@ -12779,8 +12779,8 @@
         },
         {
           "cardLeaderSkillId": "1001",
-          "name": "0",
-          "description": "0",
+          "name": "千滅の闘刃",
+          "description": "知属性と勇属性の攻撃力とスキルダメージを100％アップ",
           "effectIdx1": "11099",
           "effectIdx2": "774",
           "effectIdx3": "0",

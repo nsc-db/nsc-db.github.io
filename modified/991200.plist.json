@@ -11785,7 +11785,7 @@
         {
           "crystalOverwriteEffectId": "1000",
           "targetCrystal": "21208",
-          "description": "0",
+          "description": "スキル発動速度1段階アップ、確率でスキル回避、2回行動するまでチャクラ消費量0",
           "charaIds": "4701,",
           "cardIds": "0",
           "charaGroupIds": "0",
@@ -11797,7 +11797,7 @@
         {
           "crystalOverwriteEffectId": "1001",
           "targetCrystal": "21209",
-          "description": "0",
+          "description": "攻撃力と防御力と素早さ80%アップ、敵に千手一族がいるとさらに素早さ50%アップ",
           "charaIds": "4701,",
           "cardIds": "0",
           "charaGroupIds": "0",

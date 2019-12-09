@@ -21321,18 +21321,18 @@
         },
         {
           "abilityId": "2427",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "求める者への冷徹な眼差し",
+          "abilityDescription": "敵に超忍祭限定キャラが生存時素早さ200%アップ、敵に千手一族が生存時さらに素早さ＆スキルダメージ300%アップ",
+          "abilityEffectDescription": "敵に超忍祭限定キャラが生存時素早さ200%アップ、敵に千手一族が生存時さらに素早さ＆スキルダメージ300%アップ",
           "effectIdx1": "2669",
           "effectIdx2": "2670",
           "effectIdx3": "2671"
         },
         {
           "abilityId": "2428",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "兄を支える献身",
+          "abilityDescription": "HP0以下で2回耐える、1回行動まで耐性無視スキルのダメージを0、5回行動までスキップ無効",
+          "abilityEffectDescription": "HP0以下で2回耐える、1回行動まで耐性無視スキルのダメージを0、5回行動までスキップ無効",
           "effectIdx1": "1057",
           "effectIdx2": "1961",
           "effectIdx3": "2672"

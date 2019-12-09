@@ -21000,8 +21000,8 @@
           "effectIdx4": "0",
           "money": "30000",
           "saleMoney": "2500",
-          "crystalName": "0",
-          "crystalDescription": "0",
+          "crystalName": "想い託す写輪眼",
+          "crystalDescription": "1回行動するまでスキル発動速度1段階アップ",
           "crystalImageId": "212085",
           "recipeId": "21208",
           "recipeName": "想い託す写輪眼"
@@ -21016,8 +21016,8 @@
           "effectIdx4": "0",
           "money": "30000",
           "saleMoney": "2500",
-          "crystalName": "0",
-          "crystalDescription": "0",
+          "crystalName": "イズナの火遁",
+          "crystalDescription": "攻撃力と防御力と素早さ30%アップ",
           "crystalImageId": "212095",
           "recipeId": "21209",
           "recipeName": "イズナの火遁"
