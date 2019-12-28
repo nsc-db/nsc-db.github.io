@@ -6124,6 +6124,14 @@ window.skillname=[
           "name": "頑張れよ！"
         },
         {
+          "cardBattleSkillNameId": "2739",
+          "name": "滅殺・多連刃"
+        },
+        {
+          "cardBattleSkillNameId": "2740",
+          "name": "どうした来ないのか？"
+        },
+        {
           "cardBattleSkillNameId": "2741",
           "name": "火遁・爪紅鴉躍"
         },
@@ -6568,6 +6576,22 @@ window.skillname=[
           "name": "ぽっちゃり系バンザーイ！！"
         },
         {
+          "cardBattleSkillNameId": "2852",
+          "name": "忍法・団子繚乱"
+        },
+        {
+          "cardBattleSkillNameId": "2853",
+          "name": "甘すぎちゃダメなのよねー！"
+        },
+        {
+          "cardBattleSkillNameId": "2854",
+          "name": "共鳴・光眩尾獣玉"
+        },
+        {
+          "cardBattleSkillNameId": "2855",
+          "name": "さあ、行こうぜ！！！"
+        },
+        {
           "cardBattleSkillNameId": "2857",
           "name": "じっとしてろ…"
         },
@@ -6578,6 +6602,346 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "2859",
           "name": "集まれ、作戦を伝える"
+        },
+        {
+          "cardBattleSkillNameId": "2860",
+          "name": "八門遁甲の陣・夕象"
+        },
+        {
+          "cardBattleSkillNameId": "2861",
+          "name": "敵ながらアッパレだ！"
+        },
+        {
+          "cardBattleSkillNameId": "2862",
+          "name": "桜花景月・餅乱打"
+        },
+        {
+          "cardBattleSkillNameId": "2863",
+          "name": "そんなコツがあるなんて…！"
+        },
+        {
+          "cardBattleSkillNameId": "2864",
+          "name": "秘伝・影矢倉"
+        },
+        {
+          "cardBattleSkillNameId": "2865",
+          "name": "あいつはオレ一人で捕まえる"
+        },
+        {
+          "cardBattleSkillNameId": "2866",
+          "name": "トリック・オア・ナルトリック"
+        },
+        {
+          "cardBattleSkillNameId": "2867",
+          "name": "いくぞォオオオ！！"
+        },
+        {
+          "cardBattleSkillNameId": "2868",
+          "name": "完成体須佐能乎・破却斬"
+        },
+        {
+          "cardBattleSkillNameId": "2869",
+          "name": "来い！！"
+        },
+        {
+          "cardBattleSkillNameId": "2870",
+          "name": "暗部流・露払い"
+        },
+        {
+          "cardBattleSkillNameId": "2871",
+          "name": "カウンターを狙えばいい"
+        },
+        {
+          "cardBattleSkillNameId": "2872",
+          "name": "キンちゃん師匠♪情念指導♪"
+        },
+        {
+          "cardBattleSkillNameId": "2873",
+          "name": "オレの情念を思い知りなよっ"
+        },
+        {
+          "cardBattleSkillNameId": "2874",
+          "name": "人傀儡・“父”と“母”"
+        },
+        {
+          "cardBattleSkillNameId": "2875",
+          "name": "ワシ一人でやる"
+        },
+        {
+          "cardBattleSkillNameId": "2876",
+          "name": "火遁・骨灰積焼"
+        },
+        {
+          "cardBattleSkillNameId": "2877",
+          "name": "オレをやってみろ！！"
+        },
+        {
+          "cardBattleSkillNameId": "2878",
+          "name": "魔幻・紅触樹"
+        },
+        {
+          "cardBattleSkillNameId": "2879",
+          "name": "殺すつもりだったのか…"
+        },
+        {
+          "cardBattleSkillNameId": "2880",
+          "name": "幻炎霞刃"
+        },
+        {
+          "cardBattleSkillNameId": "2881",
+          "name": "こっちも終わらせる！"
+        },
+        {
+          "cardBattleSkillNameId": "2882",
+          "name": "木遁・決封陣"
+        },
+        {
+          "cardBattleSkillNameId": "2883",
+          "name": "仲間を…侮辱するだけぞ！！"
+        },
+        {
+          "cardBattleSkillNameId": "2884",
+          "name": "面白い…"
+        },
+        {
+          "cardBattleSkillNameId": "2885",
+          "name": "口寄せ・蟒蛇アオダ"
+        },
+        {
+          "cardBattleSkillNameId": "2886",
+          "name": "秘術・トビ出し注意"
+        },
+        {
+          "cardBattleSkillNameId": "2887",
+          "name": "バランスがぁ――！！"
+        },
+        {
+          "cardBattleSkillNameId": "2888",
+          "name": "木ノ葉流・三日月の舞"
+        },
+        {
+          "cardBattleSkillNameId": "2889",
+          "name": "何てことです…！"
+        },
+        {
+          "cardBattleSkillNameId": "2890",
+          "name": "地爆天星・痛刻"
+        },
+        {
+          "cardBattleSkillNameId": "2891",
+          "name": "憎しみの連鎖が始まる"
+        },
+        {
+          "cardBattleSkillNameId": "2892",
+          "name": "忍法・乱涛剣"
+        },
+        {
+          "cardBattleSkillNameId": "2893",
+          "name": "あいつは“暁”の要！！"
+        },
+        {
+          "cardBattleSkillNameId": "2894",
+          "name": "紙手裏剣・連爆陣"
+        },
+        {
+          "cardBattleSkillNameId": "2895",
+          "name": "それはアナタも同じ事…"
+        },
+        {
+          "cardBattleSkillNameId": "2896",
+          "name": "輪廻眼・天斥閃"
+        },
+        {
+          "cardBattleSkillNameId": "2897",
+          "name": "平和の懸け橋は彼だよ"
+        },
+        {
+          "cardBattleSkillNameId": "2898",
+          "name": "C0"
+        },
+        {
+          "cardBattleSkillNameId": "2899",
+          "name": "逃げきれりゃしないぜ！"
+        },
+        {
+          "cardBattleSkillNameId": "2900",
+          "name": "螺旋丸・乱獅子狂乱舞"
+        },
+        {
+          "cardBattleSkillNameId": "2901",
+          "name": "よく見てろのォ"
+        },
+        {
+          "cardBattleSkillNameId": "2902",
+          "name": "爽湯・昇爆龍"
+        },
+        {
+          "cardBattleSkillNameId": "2903",
+          "name": "五臓六腑に沁みるねェ～～！"
+        },
+        {
+          "cardBattleSkillNameId": "2904",
+          "name": "桜花衝・湯源境"
+        },
+        {
+          "cardBattleSkillNameId": "2905",
+          "name": "最高にいい湯だわ！"
+        },
+        {
+          "cardBattleSkillNameId": "2906",
+          "name": "八卦湯掘掌"
+        },
+        {
+          "cardBattleSkillNameId": "2907",
+          "name": "いいお湯だね…"
+        },
+        {
+          "cardBattleSkillNameId": "2908",
+          "name": "八尾・尾獣玉"
+        },
+        {
+          "cardBattleSkillNameId": "2909",
+          "name": "木遁・樹撲尽"
+        },
+        {
+          "cardBattleSkillNameId": "2910",
+          "name": "少しは本気で来い！"
+        },
+        {
+          "cardBattleSkillNameId": "2911",
+          "name": "忍法・超獣偽画"
+        },
+        {
+          "cardBattleSkillNameId": "2912",
+          "name": "それを確かめたいんだ"
+        },
+        {
+          "cardBattleSkillNameId": "2913",
+          "name": "木ノ葉昇烈風"
+        },
+        {
+          "cardBattleSkillNameId": "2914",
+          "name": "怖がらなくても大丈夫です！"
+        },
+        {
+          "cardBattleSkillNameId": "2915",
+          "name": "木遁・旋龍陣"
+        },
+        {
+          "cardBattleSkillNameId": "2916",
+          "name": "闘ったところで何も生まれん"
+        },
+        {
+          "cardBattleSkillNameId": "2917",
+          "name": "…終わりだ"
+        },
+        {
+          "cardBattleSkillNameId": "2918",
+          "name": "千鳥・聖夜ノ雷鳴"
+        },
+        {
+          "cardBattleSkillNameId": "2919",
+          "name": "渡したいものがある…"
+        },
+        {
+          "cardBattleSkillNameId": "2920",
+          "name": "天照・聖夜ノ黒炎"
+        },
+        {
+          "cardBattleSkillNameId": "2921",
+          "name": "これがオレのプレゼントだ"
+        },
+        {
+          "cardBattleSkillNameId": "2922",
+          "name": "名づけておいろけの術！！"
+        },
+        {
+          "cardBattleSkillNameId": "2923",
+          "name": "瞬幻・火炎斬り"
+        },
+        {
+          "cardBattleSkillNameId": "2924",
+          "name": "…闇雲に攻撃か"
+        },
+        {
+          "cardBattleSkillNameId": "2925",
+          "name": "0"
+        },
+        {
+          "cardBattleSkillNameId": "2926",
+          "name": "0"
+        },
+        {
+          "cardBattleSkillNameId": "2927",
+          "name": "0"
+        },
+        {
+          "cardBattleSkillNameId": "2928",
+          "name": "0"
+        },
+        {
+          "cardBattleSkillNameId": "2929",
+          "name": "0"
+        },
+        {
+          "cardBattleSkillNameId": "2930",
+          "name": "0"
+        },
+        {
+          "cardBattleSkillNameId": "2931",
+          "name": "陰遁・地爆天雷"
+        },
+        {
+          "cardBattleSkillNameId": "2932",
+          "name": "オレは地獄を天国へと変えた"
+        },
+        {
+          "cardBattleSkillNameId": "2933",
+          "name": "柔歩双獅拳・蒼波"
+        },
+        {
+          "cardBattleSkillNameId": "2934",
+          "name": "一緒に戦います"
+        },
+        {
+          "cardBattleSkillNameId": "2935",
+          "name": "螺旋丸・疾風"
+        },
+        {
+          "cardBattleSkillNameId": "2936",
+          "name": "手を貸すってばよ！"
+        },
+        {
+          "cardBattleSkillNameId": "2937",
+          "name": "0"
+        },
+        {
+          "cardBattleSkillNameId": "2938",
+          "name": "0"
+        },
+        {
+          "cardBattleSkillNameId": "2943",
+          "name": "螺旋丸・新風"
+        },
+        {
+          "cardBattleSkillNameId": "2944",
+          "name": "オレが相手だコレ！！"
+        },
+        {
+          "cardBattleSkillNameId": "2945",
+          "name": "0"
+        },
+        {
+          "cardBattleSkillNameId": "2946",
+          "name": "0"
+        },
+        {
+          "cardBattleSkillNameId": "2947",
+          "name": "幸せのフルスイング"
+        },
+        {
+          "cardBattleSkillNameId": "2948",
+          "name": "四代目の妻になると決めてた"
         },
         {
           "cardBattleSkillNameId": "10136",
@@ -6766,5 +7130,9 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "30002",
           "name": "強化（素早さ）"
+        },
+        {
+          "cardBattleSkillNameId": "500001",
+          "name": "ガマ親分・渡世の刃"
         }
 ]

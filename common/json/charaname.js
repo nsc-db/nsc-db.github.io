@@ -168,6 +168,20 @@ window.charaname=[
           "gender": "1"
         },
         {
+          "charaProfileId": "113",
+          "charaId": "1",
+          "name": "うずまきナルト",
+          "detail": "少年篇",
+          "charaLoveAffinityGroupId": "110",
+          "birthday": "1010",
+          "constellation": "7",
+          "height": "14750",
+          "weight": "4060",
+          "bloodType": "2",
+          "age": "13",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "201",
           "charaId": "2",
           "name": "うちはサスケ",
@@ -309,6 +323,20 @@ window.charaname=[
         },
         {
           "charaProfileId": "212",
+          "charaId": "2",
+          "name": "うちはサスケ",
+          "detail": "疾風伝",
+          "charaLoveAffinityGroupId": "220",
+          "birthday": "723",
+          "constellation": "5",
+          "height": "16800",
+          "weight": "5220",
+          "bloodType": "4",
+          "age": "16",
+          "gender": "1"
+        },
+        {
+          "charaProfileId": "214",
           "charaId": "2",
           "name": "うちはサスケ",
           "detail": "疾風伝",
@@ -1106,6 +1134,20 @@ window.charaname=[
           "gender": "1"
         },
         {
+          "charaProfileId": "1803",
+          "charaId": "18",
+          "name": "猿飛アスマ",
+          "detail": "穢土転生",
+          "charaLoveAffinityGroupId": "1830",
+          "birthday": "1018",
+          "constellation": "7",
+          "height": "0",
+          "weight": "0",
+          "bloodType": "3",
+          "age": "0",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "1901",
           "charaId": "19",
           "name": "千手柱間",
@@ -1369,6 +1411,20 @@ window.charaname=[
           "weight": "0",
           "bloodType": "2",
           "age": "0",
+          "gender": "1"
+        },
+        {
+          "charaProfileId": "2404",
+          "charaId": "24",
+          "name": "自来也",
+          "detail": null,
+          "charaLoveAffinityGroupId": "2440",
+          "birthday": "1111",
+          "constellation": "8",
+          "height": "19120",
+          "weight": "8750",
+          "bloodType": "2",
+          "age": "51",
           "gender": "1"
         },
         {
@@ -2954,6 +3010,20 @@ window.charaname=[
           "gender": "1"
         },
         {
+          "charaProfileId": "20102",
+          "charaId": "201",
+          "name": "キラービー",
+          "detail": null,
+          "charaLoveAffinityGroupId": "20110",
+          "birthday": "515",
+          "constellation": "2",
+          "height": "19200",
+          "weight": "8710",
+          "bloodType": "2",
+          "age": "36",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "20201",
           "charaId": "202",
           "name": "エー",
@@ -3595,6 +3665,20 @@ window.charaname=[
           "weight": "8010",
           "bloodType": "4",
           "age": "0",
+          "gender": "1"
+        },
+        {
+          "charaProfileId": "52301",
+          "charaId": "523",
+          "name": "山中フー",
+          "detail": null,
+          "charaLoveAffinityGroupId": "52310",
+          "birthday": "820",
+          "constellation": "5",
+          "height": "18000",
+          "weight": "6170",
+          "bloodType": "1",
+          "age": "19",
           "gender": "1"
         },
         {
@@ -6300,6 +6384,20 @@ window.charaname=[
           "gender": "1"
         },
         {
+          "charaProfileId": "500101",
+          "charaId": "5001",
+          "name": "九喇嘛",
+          "detail": null,
+          "charaLoveAffinityGroupId": "0",
+          "birthday": "0",
+          "constellation": "0",
+          "height": "0",
+          "weight": "0",
+          "bloodType": "0",
+          "age": "0",
+          "gender": "0"
+        },
+        {
           "charaProfileId": "700101",
           "charaId": "7001",
           "name": "ナルト＆イルカ",
@@ -7367,6 +7465,48 @@ window.charaname=[
           "charaProfileId": "900079",
           "charaId": "9001",
           "name": "わたあめ(虹)",
+          "detail": null,
+          "charaLoveAffinityGroupId": "0",
+          "birthday": "0",
+          "constellation": "0",
+          "height": "0",
+          "weight": "0",
+          "bloodType": "0",
+          "age": "0",
+          "gender": "1"
+        },
+        {
+          "charaProfileId": "900081",
+          "charaId": "9001",
+          "name": "忍",
+          "detail": null,
+          "charaLoveAffinityGroupId": "0",
+          "birthday": "0",
+          "constellation": "0",
+          "height": "0",
+          "weight": "0",
+          "bloodType": "0",
+          "age": "0",
+          "gender": "1"
+        },
+        {
+          "charaProfileId": "900082",
+          "charaId": "9001",
+          "name": "うずまきナルト",
+          "detail": null,
+          "charaLoveAffinityGroupId": "0",
+          "birthday": "0",
+          "constellation": "0",
+          "height": "0",
+          "weight": "0",
+          "bloodType": "0",
+          "age": "0",
+          "gender": "1"
+        },
+        {
+          "charaProfileId": "900083",
+          "charaId": "9001",
+          "name": "うずまきナルト",
           "detail": null,
           "charaLoveAffinityGroupId": "0",
           "birthday": "0",
