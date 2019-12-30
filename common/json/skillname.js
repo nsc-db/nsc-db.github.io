@@ -6865,27 +6865,27 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "2925",
-          "name": "0"
+          "name": "新春・螺旋天晴丸"
         },
         {
           "cardBattleSkillNameId": "2926",
-          "name": "0"
+          "name": "謹賀新年！だァ～ってばよ！"
         },
         {
           "cardBattleSkillNameId": "2927",
-          "name": "0"
+          "name": "祝賀・千鳥廻し"
         },
         {
           "cardBattleSkillNameId": "2928",
-          "name": "0"
+          "name": "これが眼で語る独楽回しだ"
         },
         {
           "cardBattleSkillNameId": "2929",
-          "name": "0"
+          "name": "祝賀・桜花衝弾"
         },
         {
           "cardBattleSkillNameId": "2930",
-          "name": "0"
+          "name": "明けましてしゃーんなろー！"
         },
         {
           "cardBattleSkillNameId": "2931",
@@ -6913,11 +6913,11 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "2937",
-          "name": "0"
+          "name": "天之御中・欣求浄界"
         },
         {
           "cardBattleSkillNameId": "2938",
-          "name": "0"
+          "name": "ワラワは不死…"
         },
         {
           "cardBattleSkillNameId": "2943",

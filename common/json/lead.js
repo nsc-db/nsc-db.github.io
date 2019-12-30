@@ -12832,8 +12832,8 @@ window.lead=[
         },
         {
           "cardLeaderSkillId": "1002",
-          "name": "0",
-          "description": "0",
+          "name": "うずまき謹賀忍伝",
+          "description": "全属性の攻撃力を202.0%アップ",
           "effectIdx1": "2682",
           "effectIdx2": "0",
           "effectIdx3": "0",
@@ -12845,8 +12845,8 @@ window.lead=[
         },
         {
           "cardLeaderSkillId": "1003",
-          "name": "0",
-          "description": "0",
+          "name": "真剣勝負の謹賀新年",
+          "description": "全属性の防御力を202.0%アップ",
           "effectIdx1": "2683",
           "effectIdx2": "0",
           "effectIdx3": "0",
@@ -12858,8 +12858,8 @@ window.lead=[
         },
         {
           "cardLeaderSkillId": "1004",
-          "name": "0",
-          "description": "0",
+          "name": "麗らかな謹賀新年",
+          "description": "全属性の会心率・会心力を202.0%アップ",
           "effectIdx1": "2684",
           "effectIdx2": "2685",
           "effectIdx3": "0",
@@ -12910,8 +12910,8 @@ window.lead=[
         },
         {
           "cardLeaderSkillId": "1008",
-          "name": "0",
-          "description": "0",
+          "name": "覇眼の凶妃",
+          "description": "無所属が確率で再行動&amp;スキップ無効&amp;キャンセル無効※再行動後にさらに行動はできない",
           "effectIdx1": "439",
           "effectIdx2": "2706",
           "effectIdx3": "2707",
