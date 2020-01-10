@@ -106,7 +106,7 @@
 
 			//Affi
 			affi = checkAffi(unit);
-			rate = window.tags[i]['rate'];
+			rate = window.tags[i]['rolerating'];
 			tag = window.tags[i]['tag'];
 
 			type_tag += type + "_" + rare;
@@ -357,6 +357,15 @@
 			 $('#card-art-six-star').attr('src', '../common/assets/img/units/' + cid + '.png');
 			  } );
 		
+		//Animation
+		for(var y in window.charainfo){
+			if(cid == window.charainfo[y]["targetCardId"]){
+				$('#animation').attr('src', window.charainfo[y]["skillUrl"])
+				$('#animation-six').attr('src', window.charainfo[y]["skillUrl"])
+				break
+			}
+		}
+
 		// Character Stats		
 		for(i in cards){
 			//Stats

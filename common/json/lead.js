@@ -12922,6 +12922,19 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1009",
+          "name": "討滅の刹刃",
+          "description": "木ノ葉隠れの里所属の全スキルダメージと素早さを80%アップ",
+          "effectIdx1": "13079",
+          "effectIdx2": "694",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "1011",
           "name": "木ノ葉の未来を担う者",
           "description": "木ノ葉隠れの里所属の攻撃力と防御力と素早さを70%アップ",
@@ -12936,8 +12949,8 @@ window.lead=[
         },
         {
           "cardLeaderSkillId": "1012",
-          "name": "0",
-          "description": "0",
+          "name": "討滅の闇刃",
+          "description": "心属性の素早さ90%アップ＆スキル発動速度1段階アップ",
           "effectIdx1": "13089",
           "effectIdx2": "1840",
           "effectIdx3": "0",
@@ -12959,6 +12972,32 @@ window.lead=[
           "target1Param": "1",
           "target2Category": "0",
           "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "1014",
+          "name": "氷惑の麗才",
+          "description": "霧隠れの里所属と技属性が低確率で全スキル無効、2回行動までスキップ無効",
+          "effectIdx1": "2738",
+          "effectIdx2": "2275",
+          "effectIdx3": "0",
+          "compType": "2",
+          "target1Category": "2",
+          "target1Param": "3",
+          "target2Category": "1",
+          "target2Param": "2"
+        },
+        {
+          "cardLeaderSkillId": "1015",
+          "name": "鬼迫の奮迅",
+          "description": "霧隠れの里所属と体属性の素早さを75%アップし、攻撃力を150%アップする",
+          "effectIdx1": "13074",
+          "effectIdx2": "1268",
+          "effectIdx3": "0",
+          "compType": "2",
+          "target1Category": "2",
+          "target1Param": "3",
+          "target2Category": "1",
+          "target2Param": "3"
         },
         {
           "cardLeaderSkillId": "8507",

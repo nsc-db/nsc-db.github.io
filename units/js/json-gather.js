@@ -119,7 +119,7 @@
 
 				//Affi
 				affi = checkAffi(unit);
-				rate = window.tags[i]['rate'];
+				rate = window.tags[i]['rolerating'];
 				tag = window.tags[i]['tag'];
 				pvp = window.tags[i]['pvp'];
 				nickname = window.tags[i]['nickname'];
@@ -331,7 +331,7 @@
 				$('#name-unit').text(name + ', ' + window.chara[y]['cardSubName']);
 			}
 		}
-		//Type
+
 		//Type
 		for(var x in window.chara){
 			if(cid == window.chara[x]['cardId']){
@@ -392,6 +392,14 @@
 			  } );
 		
 		
+		//Animation
+		for(var y in window.charainfo){
+			if(cid == window.charainfo[y]["targetCardId"]){
+				$('#animation').attr('src', window.charainfo[y]["skillUrl"])
+				$('#animation-six').attr('src', window.charainfo[y]["skillUrl"])
+				break
+			}
+		}
 		/*
 			Usamos os nome five e six para determinar o ID a ser escrito os valores
 						   ▼ j				       ▼ i					▼ k

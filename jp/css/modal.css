@@ -272,6 +272,56 @@
 		font-size: 12px;
 	}
 
+	.modal-body .base-unit-view .base-tables .base-info {
+		margin: 0 0 12px 0;
+		border: 1px solid #847d58;
+		outline: 2px solid #c5b080;
+		box-shadow: 0 0 0 1px #228DFF;
+		background: linear-gradient(to bottom, #ffffff, #ffffe6);
+	}
+
+	.modal-body .base-unit-view .base-tables .base-info .header {
+		display: flex;
+		align-items: center;
+		padding: 0;
+		border-bottom: 1px solid #272204;
+		background-image: linear-gradient(to bottom, #ffd804, #fff601);
+	}
+
+	.modal-body .base-unit-view .base-tables .base-info .header.pro {
+		background-image: linear-gradient(to bottom, #BAEA91, #E6F2D3);
+	}
+
+	.modal-body .base-unit-view .base-tables .base-info .header.con {
+		background-image: linear-gradient(to bottom, #DF574D, #85342E);
+	}
+	.modal-body .base-unit-view .base-tables .base-info .header .type h4 {
+		position: relative;
+		color: #ffffff;
+		font-size: 12px;
+		font-weight: bold;
+		margin: 0; padding: 6px 8px;
+		background-color: #323232;
+	}
+
+	.modal-body .base-unit-view .base-tables .base-info .header .type h4:after {
+		content: "";
+	    position: absolute;
+	    right: -12px; top: 0;
+	    width: 0; height: 0;
+	    border-top: 13px solid transparent;
+	    border-left: 12px solid #323232;
+	    border-bottom: 13px solid transparent;
+	}
+
+	.modal-body .base-unit-view .base-tables .base-info .description {
+		padding: 4px 12px;
+	}
+
+	.modal-body .base-unit-view .base-tables .base-info .description p {
+		font-size: 12px;
+	}
+
 	.modal-body .base-unit-view .base-tables .base-ability {
 		margin: 0 0 12px 0;
 		border: 1px solid #847d58;

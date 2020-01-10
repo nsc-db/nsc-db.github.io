@@ -21519,6 +21519,24 @@ window.ability=[
           "effectIdx3": "2525"
         },
         {
+          "abilityId": "2443",
+          "abilityName": "忠刃の義",
+          "abilityDescription": "敵に創ｷｬﾗ生存時、ﾊﾞﾄﾙ開始時に敵全体に短い間強化系特殊状態不可＆攻撃を受けたとき確率で相手に拘束状態付与",
+          "abilityEffectDescription": "敵に創ｷｬﾗ生存時、ﾊﾞﾄﾙ開始時に敵全体に短い間強化系特殊状態不可＆攻撃を受けたとき確率で相手に拘束状態付与",
+          "effectIdx1": "2717",
+          "effectIdx2": "2718",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2444",
+          "abilityName": "隠伏の牙",
+          "abilityDescription": "HP0以下で3回耐える、敵に創ｷｬﾗ生存時素早さ200%ｱｯﾌﾟ、班の木ノ葉隠れの里所属1体につき素早さ40%ｱｯﾌﾟ",
+          "abilityEffectDescription": "HP0以下で3回耐える、敵に創ｷｬﾗ生存時素早さ200%ｱｯﾌﾟ、班の木ノ葉隠れの里所属1体につき素早さ40%ｱｯﾌﾟ",
+          "effectIdx1": "1789",
+          "effectIdx2": "2611",
+          "effectIdx3": "1255"
+        },
+        {
           "abilityId": "2447",
           "abilityName": "名族の姓と里の名を背負う者",
           "abilityDescription": "敵に滅キャラが生存時素早さ150％アップ、敵に“暁”所属がいるとさらに素早さ150％アップ",
@@ -21538,18 +21556,18 @@ window.ability=[
         },
         {
           "abilityId": "2449",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "誅刃の義",
+          "abilityDescription": "敵に創キャラが生存していると素早さ200%アップ＆地形効果無効＆写輪眼無効",
+          "abilityEffectDescription": "敵に創キャラが生存していると素早さ200%アップ＆地形効果無効＆写輪眼無効",
           "effectIdx1": "2611",
           "effectIdx2": "2734",
           "effectIdx3": "2735"
         },
         {
           "abilityId": "2450",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "無念の牙",
+          "abilityDescription": "HP0以下で1回だけHP全回復、HP80%以上の時、確実に再行動する ※再行動後さらに行動はできない",
+          "abilityEffectDescription": "HP0以下で1回だけHP全回復、HP80%以上の時、確実に再行動する ※再行動後さらに行動はできない",
           "effectIdx1": "312",
           "effectIdx2": "874",
           "effectIdx3": "2269"
@@ -21571,6 +21589,42 @@ window.ability=[
           "effectIdx1": "1758",
           "effectIdx2": "1946",
           "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2453",
+          "abilityName": "漂流の血統",
+          "abilityDescription": "創キャラからのダメージ50%カット、HPが50%以下の時、スキル攻撃を受けると攻撃力7%+500,000の反撃ダメージ",
+          "abilityEffectDescription": "創キャラからのダメージ50%カット、HPが50%以下の時、スキル攻撃を受けると攻撃力7%+500,000の反撃ダメージ",
+          "effectIdx1": "2736",
+          "effectIdx2": "2673",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2454",
+          "abilityName": "報恩の覚悟",
+          "abilityDescription": "HP0以下で1回だけ耐える、味方に「桃地再不斬（年代問わず）」がいるとさらに4回耐える",
+          "abilityEffectDescription": "HP0以下で1回だけ耐える、味方に「桃地再不斬（年代問わず）」がいるとさらに4回耐える",
+          "effectIdx1": "312",
+          "effectIdx2": "2737",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2455",
+          "abilityName": "沸き起こる真情",
+          "abilityDescription": "HP0以下で2回耐える、味方に「白(年代問わず)」がいるとさらに2回耐え、耐えた時アクション状態になる",
+          "abilityEffectDescription": "HP0以下で2回耐える、味方に「白(年代問わず)」がいるとさらに2回耐え、耐えた時アクション状態になる",
+          "effectIdx1": "1057",
+          "effectIdx2": "2742",
+          "effectIdx3": "2632"
+        },
+        {
+          "abilityId": "2456",
+          "abilityName": "鬼気の真髄",
+          "abilityDescription": "通常攻撃の会心率80%アップ＆会心力3000%アップ、敵に創キャラがいるとさらに会心力3000%アップ",
+          "abilityEffectDescription": "通常攻撃の会心率80%アップ＆会心力3000%アップ、敵に創キャラがいるとさらに会心力3000%アップ",
+          "effectIdx1": "2744",
+          "effectIdx2": "2745",
+          "effectIdx3": "2746"
         },
         {
           "abilityId": "10000",

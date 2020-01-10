@@ -6920,6 +6920,14 @@ window.skillname=[
           "name": "ワラワは不死…"
         },
         {
+          "cardBattleSkillNameId": "2939",
+          "name": "剣舞・月闇翔"
+        },
+        {
+          "cardBattleSkillNameId": "2940",
+          "name": "いえ…大丈夫です"
+        },
+        {
           "cardBattleSkillNameId": "2943",
           "name": "螺旋丸・新風"
         },
@@ -6929,11 +6937,11 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "2945",
-          "name": "0"
+          "name": "雷切・昂牙疾走"
         },
         {
           "cardBattleSkillNameId": "2946",
-          "name": "0"
+          "name": "これがオレ達の受けた任務だ"
         },
         {
           "cardBattleSkillNameId": "2947",
@@ -6942,6 +6950,22 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "2948",
           "name": "四代目の妻になると決めてた"
+        },
+        {
+          "cardBattleSkillNameId": "2949",
+          "name": "秘術・氷眩魔晶"
+        },
+        {
+          "cardBattleSkillNameId": "2950",
+          "name": "ボクはまだ死ねません！！"
+        },
+        {
+          "cardBattleSkillNameId": "2951",
+          "name": "鬼刃一閃"
+        },
+        {
+          "cardBattleSkillNameId": "2952",
+          "name": "地獄へ…行くんだよォ！！"
         },
         {
           "cardBattleSkillNameId": "10136",

@@ -2632,6 +2632,20 @@ window.charaname=[
           "gender": "1"
         },
         {
+          "charaProfileId": "13305",
+          "charaId": "133",
+          "name": "Nagato",
+          "detail": "青年時代",
+          "charaLoveAffinityGroupId": "13320",
+          "birthday": "919",
+          "constellation": "6",
+          "height": "0",
+          "weight": "0",
+          "bloodType": "1",
+          "age": "0",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "13401",
           "charaId": "134",
           "name": "香燐",

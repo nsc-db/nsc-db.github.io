@@ -406,6 +406,20 @@ window.charaname=[
           "gender": "2"
         },
         {
+          "charaProfileId": "307",
+          "charaId": "3",
+          "name": "Sakura Haruno",
+          "detail": "疾風伝",
+          "charaLoveAffinityGroupId": "320",
+          "birthday": "328",
+          "constellation": "1",
+          "height": "16100",
+          "weight": "4540",
+          "bloodType": "3",
+          "age": "16",
+          "gender": "2"
+        },
+        {
           "charaProfileId": "401",
           "charaId": "4",
           "name": "Shikamaru Nara",
@@ -1092,6 +1106,20 @@ window.charaname=[
           "gender": "1"
         },
         {
+          "charaProfileId": "1803",
+          "charaId": "18",
+          "name": "Asuma Sarutobi",
+          "detail": "穢土転生",
+          "charaLoveAffinityGroupId": "1830",
+          "birthday": "1018",
+          "constellation": "7",
+          "height": "0",
+          "weight": "0",
+          "bloodType": "3",
+          "age": "0",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "1901",
           "charaId": "19",
           "name": "Hashirama Senju",
@@ -1355,6 +1383,20 @@ window.charaname=[
           "weight": "0",
           "bloodType": "2",
           "age": "0",
+          "gender": "1"
+        },
+        {
+          "charaProfileId": "2404",
+          "charaId": "24",
+          "name": "Jiraiya",
+          "detail": null,
+          "charaLoveAffinityGroupId": "2440",
+          "birthday": "1111",
+          "constellation": "8",
+          "height": "19120",
+          "weight": "8750",
+          "bloodType": "2",
+          "age": "51",
           "gender": "1"
         },
         {
@@ -2534,6 +2576,20 @@ window.charaname=[
           "gender": "1"
         },
         {
+          "charaProfileId": "13305",
+          "charaId": "133",
+          "name": "Nagato",
+          "detail": "青年時代",
+          "charaLoveAffinityGroupId": "13320",
+          "birthday": "919",
+          "constellation": "6",
+          "height": "0",
+          "weight": "0",
+          "bloodType": "1",
+          "age": "0",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "13401",
           "charaId": "134",
           "name": "Karin",
@@ -2828,7 +2884,35 @@ window.charaname=[
           "gender": "1"
         },
         {
+          "charaProfileId": "14602",
+          "charaId": "146",
+          "name": "Hagoromo Otsutsuki",
+          "detail": null,
+          "charaLoveAffinityGroupId": "14610",
+          "birthday": "806",
+          "constellation": "5",
+          "height": "0",
+          "weight": "0",
+          "bloodType": "0",
+          "age": "0",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "14701",
+          "charaId": "147",
+          "name": "Hamura Otsutsuki",
+          "detail": null,
+          "charaLoveAffinityGroupId": "14710",
+          "birthday": "806",
+          "constellation": "5",
+          "height": "0",
+          "weight": "0",
+          "bloodType": "0",
+          "age": "0",
+          "gender": "1"
+        },
+        {
+          "charaProfileId": "14702",
           "charaId": "147",
           "name": "Hamura Otsutsuki",
           "detail": null,
@@ -3384,6 +3468,76 @@ window.charaname=[
           "height": "17830",
           "weight": "6870",
           "bloodType": "3",
+          "age": "19",
+          "gender": "1"
+        },
+        {
+          "charaProfileId": "51901",
+          "charaId": "519",
+          "name": "Nora Ramen",
+          "detail": null,
+          "charaLoveAffinityGroupId": "51910",
+          "birthday": "0",
+          "constellation": "0",
+          "height": "0",
+          "weight": "0",
+          "bloodType": "0",
+          "age": "0",
+          "gender": "0"
+        },
+        {
+          "charaProfileId": "52001",
+          "charaId": "520",
+          "name": "Dan Kato",
+          "detail": null,
+          "charaLoveAffinityGroupId": "52010",
+          "birthday": "1204",
+          "constellation": "9",
+          "height": "18020",
+          "weight": "6710",
+          "bloodType": "1",
+          "age": "27",
+          "gender": "1"
+        },
+        {
+          "charaProfileId": "52101",
+          "charaId": "521",
+          "name": "Kinkaku",
+          "detail": null,
+          "charaLoveAffinityGroupId": "52110",
+          "birthday": "307",
+          "constellation": "12",
+          "height": "18390",
+          "weight": "7850",
+          "bloodType": "1",
+          "age": "0",
+          "gender": "1"
+        },
+        {
+          "charaProfileId": "52201",
+          "charaId": "522",
+          "name": "Ginkaku",
+          "detail": null,
+          "charaLoveAffinityGroupId": "52210",
+          "birthday": "409",
+          "constellation": "1",
+          "height": "17790",
+          "weight": "8010",
+          "bloodType": "4",
+          "age": "0",
+          "gender": "1"
+        },
+        {
+          "charaProfileId": "52301",
+          "charaId": "523",
+          "name": "Fu Yamanaka",
+          "detail": null,
+          "charaLoveAffinityGroupId": "52310",
+          "birthday": "820",
+          "constellation": "5",
+          "height": "18000",
+          "weight": "6170",
+          "bloodType": "1",
           "age": "19",
           "gender": "1"
         },

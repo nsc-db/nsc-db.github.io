@@ -34,6 +34,7 @@
 	
 	<!-- DATABASE ENTRIES -->
  	<script type="text/javascript" src="../common/json/chara.js"></script>
+ 	<script type="text/javascript" src="../common/json/charainfo.js"></script>
  	<script type="text/javascript" src="../common/json/charaname.js"></script>
  	<script type="text/javascript" src="../common/json/skill.js"></script>
  	<script type="text/javascript" src="../common/json/skillname.js"></script>
@@ -169,6 +170,8 @@
 														<li><a id="ability-btn" data-toggle="tab" href="#ability">アビリティ</a></li>
 														<li class="hidden"><a id="status-btn" data-toggle="tab" href="#status">ステータス</a></li>
 														<li class=""><a id="gear-btn" data-toggle="tab" href="#gear">忍具</a></li>
+														<li><a id="info-btn" data-toggle="tab" href="#info">動画</a></li>
+
 													</ul>
 												</div>
 												<div class="col-md-12">
@@ -343,6 +346,61 @@
 														<div class="tab-pane fade" id="gear" >
 															
 														</div>
+
+														<div class="tab-pane fade" id="info">
+															<div class="row">
+																<div class="col-md-12">
+																	<div class="base-info">
+																		<div class="header cardInfo">
+																			<div class="type">
+																				<h4>動画</h4>
+																			</div>
+																			
+																		</div>
+																		<div class="description">
+																			<iframe id="animation" width="550" height="250" src=""></iframe>
+																		</div>
+																	</div>
+																</div>
+																<!-- Pro and Con --
+																<div class="col-md-4">
+																	<div class="base-info">
+																		<div class="header pro">
+																			<div class="type">
+																				<h4>Pro</h4>
+																			</div>
+																			
+																		</div>
+																		<div class="description" style="height:125px">
+																			<p id="pro1"></p>
+																			<p id="pro2"></p>
+																			<p id="pro3"></p>
+																			<p id="pro4"></p>
+																			<p id="pro5"></p>
+																		</div>
+																	</div>
+																</div>
+
+																<div class="col-md-4">
+																	<div class="base-info">
+																		<div class="header con">
+																			<div class="type">
+																				<h4>Con</h4>
+																			</div>
+																			
+																		</div>
+																		<div class="description" style="height:97px">
+																			<p id="con1"></p>
+																			<p id="con2"></p>
+																			<p id="con3"></p>
+																			<p id="con4"></p>
+																			<p id="con5"></p>
+																		</div>
+																	</div>
+																</div>
+																-->
+															</div>
+														</div>
 													</div>
 												</div>
 											</div>
@@ -367,6 +425,8 @@
 														<li><a id="ability-six-btn" data-toggle="tab" href="#ability-six">アビリティ</a></li>
 														<li class="hidden"><a id="status-six-btn" data-toggle="tab" href="#status-six">ステータス</a></li>
 														<li class=""><a id="gear-six-btn" data-toggle="tab" href="#gear-six">忍具</a></li>
+														<li><a id="info-six-btn" data-toggle="tab" href="#info-six">動画</a></li>
+
 													</ul>
 												</div>
 												<div class="col-md-12">
@@ -633,6 +693,63 @@
 																	</div>
 																</div>
 															</div>
+
+															<div class="tab-pane fade" id="info-six">
+															<div class="row">
+																<div class="col-md-12">
+																	<div class="base-info">
+																		<div class="header cardInfo">
+																			<div class="type">
+																				<h4>動画</h4>
+																			</div>
+																			
+																		</div>
+																		<div class="description">
+																			<iframe id="animation-six" width="550" height="250" src=""></iframe>
+																		</div>
+																	</div>
+																</div>
+																<!-- Pro and Con --
+																<div class="col-md-4">
+																	<div class="base-info">
+																		<div class="header pro">
+																			<div class="type">
+																				<h4>Pro</h4>
+																			</div>
+																			
+																		</div>
+																		<div class="description" style="height:125px">
+																			<p id="pro1"></p>
+																			<p id="pro2"></p>
+																			<p id="pro3"></p>
+																			<p id="pro4"></p>
+																			<p id="pro5"></p>
+																		</div>
+																	</div>
+																</div>
+
+																<div class="col-md-4">
+																	<div class="base-info">
+																		<div class="header con">
+																			<div class="type">
+																				<h4>Con</h4>
+																			</div>
+																			
+																		</div>
+																		<div class="description" style="height:97px">
+																			<p id="con1"></p>
+																			<p id="con2"></p>
+																			<p id="con3"></p>
+																			<p id="con4"></p>
+																			<p id="con5"></p>
+																		</div>
+																	</div>
+																</div>
+																-->
+															</div>
+														</div>
+
+
 														</div>
 													</div>
 												</div>
@@ -949,7 +1066,10 @@
 					<div class="col-md-12">
 						<div class="footer">
 							<hr>
+							<p class="version">v2.1</p>
 							<p class="note">Created by Yuyya, Noobiel, Book and Achromic</p>
+							<hr>
+							<p class="disclaimer">All Assets belong to Gree</p>
 						</div>
 					</div>
 				</div>

@@ -11940,6 +11940,18 @@ window.unique=[
           "effectIdx4": "0"
         },
         {
+          "crystalOverwriteEffectId": "1011",
+          "targetCrystal": "30106",
+          "description": "5回行動まで全スキルダメージ半減、弱体・状態異常無効、バトル開始時にチャクラ50%回復",
+          "charaIds": "11602",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1204",
+          "effectIdx2": "880",
+          "effectIdx3": "1115",
+          "effectIdx4": "0"
+        },
+        {
           "crystalOverwriteEffectId": "1014",
           "targetCrystal": "21216",
           "description": "素早さ80%アップ、1回行動するまで耐性無視ダメージ0、状態異常無効",
@@ -11966,13 +11978,61 @@ window.unique=[
         {
           "crystalOverwriteEffectId": "1016",
           "targetCrystal": "30108",
-          "description": "0",
+          "description": "弱体無効、最大HPと全スキルダメージを120%アップ",
           "charaIds": "1703",
           "cardIds": "0",
           "charaGroupIds": "0",
           "effectIdx1": "64",
           "effectIdx2": "1221",
           "effectIdx3": "30011",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1017",
+          "targetCrystal": "30101",
+          "description": "固有タイプのスキルダメージ120%アップ、スキル発動速度1段階アップ",
+          "charaIds": "10201",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "2739",
+          "effectIdx2": "1840",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1018",
+          "targetCrystal": "30102",
+          "description": "3回行動までチャクラ消費量0、確率でダメージ25%カット、状態異常無効",
+          "charaIds": "10201",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1949",
+          "effectIdx2": "2740",
+          "effectIdx3": "82",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1019",
+          "targetCrystal": "30103",
+          "description": "バトル開始時チャクラ100%回復、2回行動するまでチャクラ消費量0、弱体無効",
+          "charaIds": "10101",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1994",
+          "effectIdx2": "1646",
+          "effectIdx3": "64",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1020",
+          "targetCrystal": "30104",
+          "description": "通常攻撃の会心率50%アップ、攻撃力200%アップ、高確率でさらに攻撃力300%アップ",
+          "charaIds": "10101",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "798",
+          "effectIdx2": "1285",
+          "effectIdx3": "2741",
           "effectIdx4": "0"
         }
         ]

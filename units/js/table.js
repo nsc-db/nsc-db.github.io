@@ -1,7 +1,8 @@
 $(document).ready( function () {
 			var table = $('#myTable').DataTable({
-				stateSave: false,
+				stateSave: true,
 				responsive: true,
+				"order": [[0, "desc"]],
 				"columnDefs": [
 			        {"className": "dt-left", "targets": [1]},
    			        {"className": "dt-center", "targets": "_all"}
@@ -29,8 +30,8 @@ $(document).ready( function () {
 		            { title: "DEF" },												//8
 		            { title: "SPD" },												//9
 		            { 
-		            	title: "PVE",												//10
-		            	"visible": false,
+		            	title: "Rating",												//10
+		            	"visible": true,
 		            	"searchable": true
 		            },
 		            {

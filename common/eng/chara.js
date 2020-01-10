@@ -39,7 +39,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000011",
@@ -81,7 +82,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000021",
@@ -123,7 +125,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000031",
@@ -165,7 +168,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000041",
@@ -207,7 +211,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000051",
@@ -249,7 +254,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000061",
@@ -291,7 +297,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000071",
@@ -333,7 +340,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000081",
@@ -375,7 +383,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000091",
@@ -417,7 +426,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000101",
@@ -459,7 +469,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000111",
@@ -501,7 +512,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000121",
@@ -543,7 +555,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000131",
@@ -585,7 +598,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000141",
@@ -627,7 +641,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-22 17:45:09",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000151",
@@ -669,7 +684,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000161",
@@ -711,7 +727,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000171",
@@ -753,7 +770,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000181",
@@ -795,7 +813,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000191",
@@ -837,7 +856,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000201",
@@ -879,7 +899,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000211",
@@ -921,7 +942,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000221",
@@ -963,7 +985,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000231",
@@ -1005,7 +1028,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000241",
@@ -1047,7 +1071,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000251",
@@ -1089,7 +1114,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000261",
@@ -1131,7 +1157,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000271",
@@ -1173,7 +1200,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000281",
@@ -1215,7 +1243,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000291",
@@ -1257,7 +1286,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000301",
@@ -1299,7 +1329,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000311",
@@ -1341,7 +1372,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000321",
@@ -1383,7 +1415,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000331",
@@ -1425,7 +1458,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000341",
@@ -1467,7 +1501,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-22 17:45:18",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000351",
@@ -1509,7 +1544,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000361",
@@ -1551,7 +1587,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000371",
@@ -1593,7 +1630,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000381",
@@ -1635,7 +1673,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000391",
@@ -1677,7 +1716,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000401",
@@ -1719,7 +1759,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000411",
@@ -1761,7 +1802,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000421",
@@ -1803,7 +1845,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000431",
@@ -1845,7 +1888,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000441",
@@ -1887,7 +1931,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000451",
@@ -1929,7 +1974,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000461",
@@ -1971,7 +2017,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-22 17:46:33",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000471",
@@ -2013,7 +2060,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000481",
@@ -2055,7 +2103,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000491",
@@ -2097,7 +2146,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000501",
@@ -2139,7 +2189,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000511",
@@ -2181,7 +2232,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000521",
@@ -2223,7 +2275,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000531",
@@ -2265,7 +2318,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000541",
@@ -2307,7 +2361,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000551",
@@ -2349,7 +2404,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000561",
@@ -2391,7 +2447,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000571",
@@ -2433,7 +2490,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000581",
@@ -2475,7 +2533,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000591",
@@ -2517,7 +2576,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000601",
@@ -2559,7 +2619,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000611",
@@ -2601,7 +2662,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000621",
@@ -2643,7 +2705,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000631",
@@ -2685,7 +2748,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000641",
@@ -2727,7 +2791,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000651",
@@ -2769,7 +2834,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000661",
@@ -2811,7 +2877,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000671",
@@ -2853,7 +2920,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000721",
@@ -2895,7 +2963,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000731",
@@ -2937,7 +3006,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000741",
@@ -2979,7 +3049,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000751",
@@ -3021,7 +3092,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000761",
@@ -3063,7 +3135,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000771",
@@ -3105,7 +3178,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000781",
@@ -3147,7 +3221,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000791",
@@ -3189,7 +3264,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000801",
@@ -3231,7 +3307,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000811",
@@ -3273,7 +3350,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000821",
@@ -3315,7 +3393,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000831",
@@ -3357,7 +3436,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000841",
@@ -3399,7 +3479,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000861",
@@ -3441,7 +3522,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000871",
@@ -3483,7 +3565,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000881",
@@ -3525,7 +3608,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000891",
@@ -3567,7 +3651,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000901",
@@ -3609,7 +3694,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000911",
@@ -3651,7 +3737,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000921",
@@ -3693,7 +3780,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000931",
@@ -3735,7 +3823,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-19 17:37:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000941",
@@ -3777,7 +3866,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-29 20:48:18",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000951",
@@ -3819,7 +3909,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-04-29 20:48:18",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000961",
@@ -3861,7 +3952,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-05-17 17:45:02",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000971",
@@ -3903,7 +3995,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-05-17 17:45:02",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000981",
@@ -3945,7 +4038,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-05-17 17:45:02",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20000991",
@@ -3987,7 +4081,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-05-17 17:45:02",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001001",
@@ -4029,7 +4124,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-05-17 17:45:02",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001011",
@@ -4071,7 +4167,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-05-17 17:45:02",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001021",
@@ -4113,7 +4210,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-05-17 17:45:02",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001031",
@@ -4155,7 +4253,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-05-27 23:12:33",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001041",
@@ -4197,7 +4296,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-05-27 23:12:33",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001051",
@@ -4239,7 +4339,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-06-08 22:45:53",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001061",
@@ -4281,7 +4382,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-06-08 22:45:53",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001071",
@@ -4323,7 +4425,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-06-08 22:45:53",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001081",
@@ -4365,7 +4468,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-06-08 22:45:53",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001091",
@@ -4407,7 +4511,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-06-08 22:45:53",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001101",
@@ -4449,7 +4554,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-06-18 13:23:02",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001111",
@@ -4491,7 +4597,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-06-18 13:23:02",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001121",
@@ -4533,7 +4640,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-06-18 13:23:02",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001131",
@@ -4575,7 +4683,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-06-18 13:23:02",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001141",
@@ -4617,7 +4726,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-06-18 13:23:02",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001151",
@@ -4659,7 +4769,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-06-18 13:23:02",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001161",
@@ -4701,7 +4812,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-06-18 13:23:02",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001171",
@@ -4743,7 +4855,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-06-22 22:21:41",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001181",
@@ -4785,7 +4898,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-06-25 17:45:16",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001191",
@@ -4827,7 +4941,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-06-25 17:45:28",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001201",
@@ -4869,7 +4984,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-06-25 17:45:45",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001211",
@@ -4911,7 +5027,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-06-28 19:07:04",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001221",
@@ -4953,7 +5070,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-06-29 19:42:09",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001231",
@@ -4995,7 +5113,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-07-07 18:50:35",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001241",
@@ -5037,7 +5156,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-07-07 18:50:35",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001251",
@@ -5079,7 +5199,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-07-07 18:50:35",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001261",
@@ -5121,7 +5242,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-07-07 18:50:35",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001271",
@@ -5163,7 +5285,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-07-07 18:50:35",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001281",
@@ -5205,7 +5328,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-07-14 13:56:59",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001291",
@@ -5247,7 +5371,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-07-13 14:51:27",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001301",
@@ -5289,7 +5414,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-07-13 14:51:27",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001311",
@@ -5331,7 +5457,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-07-13 14:51:27",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001321",
@@ -5373,7 +5500,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-07-14 04:28:42",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001331",
@@ -5415,7 +5543,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-07-13 14:51:27",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001341",
@@ -5457,7 +5586,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-07-13 14:51:27",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001351",
@@ -5499,7 +5629,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-07-14 13:12:56",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001361",
@@ -5541,7 +5672,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-07-16 14:36:58",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001371",
@@ -5583,7 +5715,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-07-20 17:16:22",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001381",
@@ -5625,7 +5758,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-07-21 17:55:43",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001391",
@@ -5667,7 +5801,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-07-21 20:49:52",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001401",
@@ -5709,7 +5844,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-07-21 15:13:22",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001411",
@@ -5751,7 +5887,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-07-21 15:13:22",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001421",
@@ -5793,7 +5930,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-07-23 23:36:43",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001431",
@@ -5835,7 +5973,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-07-31 02:15:03",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001441",
@@ -5877,7 +6016,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-07-31 01:19:46",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001451",
@@ -5919,7 +6059,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-07-29 12:46:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001461",
@@ -5961,7 +6102,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-07-29 12:46:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001471",
@@ -6003,7 +6145,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-07-30 13:25:43",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001481",
@@ -6045,7 +6188,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-08-06 16:55:32",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001491",
@@ -6087,7 +6231,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-08-06 16:55:32",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001501",
@@ -6129,7 +6274,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-08-07 03:46:38",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001511",
@@ -6171,7 +6317,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-08-06 16:55:32",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001512",
@@ -6213,7 +6360,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-08-21 19:03:37",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001513",
@@ -6255,7 +6403,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-08-21 19:03:37",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001514",
@@ -6297,7 +6446,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-08-22 03:26:54",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001515",
@@ -6339,7 +6489,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-08-21 19:03:37",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001516",
@@ -6381,7 +6532,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-08-21 19:03:37",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001517",
@@ -6423,7 +6575,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-08-21 19:03:37",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001518",
@@ -6465,7 +6618,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-08-30 11:39:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001519",
@@ -6507,7 +6661,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-09-07 22:04:37",
           "updateUserId": "1",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20001520",
@@ -6549,7 +6704,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-09-07 22:04:37",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001521",
@@ -6591,7 +6747,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-09-07 22:04:37",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001522",
@@ -6633,7 +6790,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-09-07 22:04:37",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001523",
@@ -6675,7 +6833,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-09-07 22:21:22",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001524",
@@ -6717,7 +6876,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-09-11 13:42:17",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001525",
@@ -6759,7 +6919,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-09-14 19:00:13",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001526",
@@ -6801,7 +6962,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-09-18 05:41:45",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001527",
@@ -6843,7 +7005,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-09-18 05:41:45",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001528",
@@ -6885,7 +7048,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-09-18 05:41:45",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001529",
@@ -6927,7 +7091,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-09-18 05:41:45",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001530",
@@ -6969,7 +7134,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-09-18 05:41:45",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001531",
@@ -7011,7 +7177,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-09-18 05:41:45",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001532",
@@ -7053,7 +7220,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-09-18 05:41:45",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001533",
@@ -7095,7 +7263,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-09-24 22:18:00",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001534",
@@ -7137,7 +7306,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-09-30 02:49:49",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001535",
@@ -7179,7 +7349,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-09-29 22:07:39",
           "updateUserId": "1",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20001536",
@@ -7221,7 +7392,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-09-29 22:07:39",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001537",
@@ -7263,7 +7435,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-09-29 22:07:39",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001538",
@@ -7305,7 +7478,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-09-29 22:07:39",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001539",
@@ -7347,7 +7521,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-09-29 22:07:39",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001540",
@@ -7389,7 +7564,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-09-29 22:07:39",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001541",
@@ -7431,7 +7607,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-09-30 02:49:53",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001542",
@@ -7473,7 +7650,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-10-16 18:53:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001543",
@@ -7515,7 +7693,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-10-02 13:14:33",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001544",
@@ -7557,7 +7736,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-12-11 13:27:02",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001545",
@@ -7599,7 +7779,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-12-10 11:57:38",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001546",
@@ -7641,7 +7822,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-12-10 11:57:38",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001547",
@@ -7683,7 +7865,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-10-16 01:52:07",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001548",
@@ -7725,7 +7908,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-10-14 12:31:03",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001549",
@@ -7767,7 +7951,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-10-08 20:38:31",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001550",
@@ -7809,7 +7994,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-10-23 00:47:22",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001551",
@@ -7851,7 +8037,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-10-26 23:32:24",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001552",
@@ -7893,7 +8080,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-10-29 11:45:39",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001553",
@@ -7935,7 +8123,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-10-30 09:55:25",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001554",
@@ -7977,7 +8166,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-10-30 09:55:25",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001555",
@@ -8019,7 +8209,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-10-30 09:55:25",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001556",
@@ -8061,7 +8252,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-10-30 09:55:25",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001557",
@@ -8103,7 +8295,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-10-30 23:19:46",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001558",
@@ -8145,7 +8338,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-11-13 01:46:47",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001559",
@@ -8187,7 +8381,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-11-05 22:22:02",
           "updateUserId": "1",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20001560",
@@ -8229,7 +8424,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-11-05 22:22:02",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001561",
@@ -8271,7 +8467,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-11-05 22:22:02",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001562",
@@ -8313,7 +8510,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-11-05 22:22:02",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001563",
@@ -8355,7 +8553,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-11-17 11:45:38",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001564",
@@ -8397,7 +8596,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-11-20 10:57:26",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001565",
@@ -8439,7 +8639,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-11-26 18:30:42",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001566",
@@ -8481,7 +8682,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-11-26 18:30:42",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001567",
@@ -8523,7 +8725,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-11-29 19:18:56",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001568",
@@ -8565,7 +8768,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-11-28 16:35:34",
           "updateUserId": "1",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20001569",
@@ -8607,7 +8811,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-11-28 16:35:34",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001570",
@@ -8649,7 +8854,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-11-28 16:35:34",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001571",
@@ -8691,7 +8897,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-11-28 16:35:34",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001572",
@@ -8733,7 +8940,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-11-29 19:36:54",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001573",
@@ -8775,7 +8983,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-12-05 18:27:16",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001574",
@@ -8817,7 +9026,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-12-07 21:46:09",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001575",
@@ -8859,7 +9069,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-12-10 11:57:32",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001576",
@@ -8901,7 +9112,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-12-10 11:57:32",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001577",
@@ -8943,7 +9155,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-12-10 11:57:32",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001578",
@@ -8985,7 +9198,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-12-10 11:57:32",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001579",
@@ -9027,7 +9241,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-12-10 11:57:32",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001580",
@@ -9069,7 +9284,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-12-11 13:27:08",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001581",
@@ -9111,7 +9327,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-12-14 13:29:35",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001582",
@@ -9153,7 +9370,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-12-15 10:15:02",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001583",
@@ -9195,7 +9413,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-12-13 14:58:05",
           "updateUserId": "1",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20001584",
@@ -9237,7 +9456,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-12-13 14:58:05",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001585",
@@ -9279,7 +9499,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-12-13 17:45:58",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001586",
@@ -9321,7 +9542,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-12-13 14:58:05",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001587",
@@ -9363,7 +9585,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-12-17 23:15:08",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001588",
@@ -9405,7 +9628,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-12-17 23:23:28",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001589",
@@ -9447,7 +9671,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-12-25 01:25:46",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001590",
@@ -9489,7 +9714,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-12-25 13:26:16",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001591",
@@ -9531,7 +9757,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-12-28 18:58:13",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001592",
@@ -9573,7 +9800,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-12-29 16:43:07",
           "updateUserId": "1",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20001593",
@@ -9615,7 +9843,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-12-28 17:38:06",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001594",
@@ -9657,7 +9886,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-12-28 17:38:06",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001595",
@@ -9699,7 +9929,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-12-28 17:38:06",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001596",
@@ -9741,7 +9972,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-12-29 17:04:42",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001597",
@@ -9783,7 +10015,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2015-12-28 21:46:02",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001598",
@@ -9825,7 +10058,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-01-07 23:34:24",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001599",
@@ -9867,7 +10101,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-01-07 23:34:24",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001600",
@@ -9909,7 +10144,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-01-15 14:04:15",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001601",
@@ -9951,7 +10187,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-01-15 14:04:15",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001602",
@@ -9993,7 +10230,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-01-15 14:04:15",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001603",
@@ -10035,7 +10273,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-01-15 14:04:15",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001604",
@@ -10077,7 +10316,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-01-15 12:16:44",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001605",
@@ -10119,7 +10359,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-01-16 07:46:18",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001606",
@@ -10161,7 +10402,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-01-22 13:14:58",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001607",
@@ -10203,7 +10445,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-01-22 13:14:58",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001608",
@@ -10245,7 +10488,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-01-25 11:14:40",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001609",
@@ -10287,7 +10531,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-01-21 23:00:27",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001610",
@@ -10329,7 +10574,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-01-27 12:30:00",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001611",
@@ -10371,7 +10617,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-01-28 20:16:53",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001612",
@@ -10413,7 +10660,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-01-28 20:16:53",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001613",
@@ -10455,7 +10703,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-01-28 23:15:18",
           "updateUserId": "1",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20001614",
@@ -10497,7 +10746,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-01-28 23:15:18",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001615",
@@ -10539,7 +10789,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-01-28 23:15:18",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001616",
@@ -10581,7 +10832,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-01-29 17:39:49",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001617",
@@ -10623,7 +10875,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-02-01 20:19:19",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001618",
@@ -10665,7 +10918,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-02-05 22:11:57",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001619",
@@ -10707,7 +10961,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-02-13 16:01:20",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001620",
@@ -10749,7 +11004,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-02-13 16:01:20",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001621",
@@ -10791,7 +11047,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-02-13 16:01:20",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001622",
@@ -10833,7 +11090,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-02-13 23:01:16",
           "updateUserId": "1",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20001623",
@@ -10875,7 +11133,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-02-13 21:43:42",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001624",
@@ -10917,7 +11176,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-02-13 21:43:42",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001625",
@@ -10959,7 +11219,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-02-15 14:13:27",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001626",
@@ -11001,7 +11262,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-02-15 14:13:27",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001627",
@@ -11043,7 +11305,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-02-21 17:38:50",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001628",
@@ -11085,7 +11348,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-02-25 17:51:28",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001629",
@@ -11127,7 +11391,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-02-24 15:42:58",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001630",
@@ -11169,7 +11434,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-02-26 22:51:50",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001631",
@@ -11211,7 +11477,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-02-28 02:14:46",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001632",
@@ -11253,7 +11520,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-02-28 03:46:56",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001633",
@@ -11295,7 +11563,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-02-28 02:14:46",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001634",
@@ -11337,7 +11606,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-02-27 20:52:46",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001635",
@@ -11379,7 +11649,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-02-27 20:52:46",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001636",
@@ -11421,7 +11692,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-03-30 12:23:52",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001637",
@@ -11463,7 +11735,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-03-07 18:42:55",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001638",
@@ -11505,7 +11778,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-03-07 18:42:55",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001639",
@@ -11547,7 +11821,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-03-10 13:00:22",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001640",
@@ -11589,7 +11864,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-03-10 13:00:22",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001641",
@@ -11631,7 +11907,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-03-10 13:00:22",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001642",
@@ -11673,7 +11950,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-03-14 22:30:29",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001643",
@@ -11715,7 +11993,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-03-15 14:23:54",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001644",
@@ -11757,7 +12036,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-03-14 22:30:29",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001645",
@@ -11799,7 +12079,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-03-15 14:01:47",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001646",
@@ -11841,7 +12122,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-03-17 21:14:47",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001647",
@@ -11883,7 +12165,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-03-17 21:14:47",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001648",
@@ -11925,7 +12208,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-03-17 21:14:47",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001649",
@@ -11967,7 +12251,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-03-24 22:08:46",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001650",
@@ -12009,7 +12294,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-03-24 22:08:46",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001651",
@@ -12051,7 +12337,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-03-24 22:08:46",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001652",
@@ -12093,7 +12380,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-03-24 22:08:46",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001653",
@@ -12135,7 +12423,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-03-28 22:48:53",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001654",
@@ -12177,7 +12466,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-03-28 22:48:53",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001655",
@@ -12219,7 +12509,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-03-28 22:48:53",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001656",
@@ -12261,7 +12552,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-03-28 22:48:53",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001657",
@@ -12303,7 +12595,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-03-31 11:28:46",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001658",
@@ -12345,7 +12638,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-03-31 11:28:46",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001659",
@@ -12387,7 +12681,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-03-28 22:48:53",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001660",
@@ -12429,7 +12724,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-04-07 12:20:03",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001661",
@@ -12471,7 +12767,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-04-07 12:11:32",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001662",
@@ -12513,7 +12810,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-04-07 12:11:32",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001663",
@@ -12555,7 +12853,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-04-07 12:11:32",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001664",
@@ -12597,7 +12896,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-04-07 12:11:32",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001665",
@@ -12639,7 +12939,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-04-07 12:11:32",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001666",
@@ -12681,7 +12982,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-04-12 22:28:59",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001667",
@@ -12723,7 +13025,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-04-12 22:28:59",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001668",
@@ -12765,7 +13068,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-04-12 22:28:59",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001669",
@@ -12807,7 +13111,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-04-14 23:19:27",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001670",
@@ -12849,7 +13154,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-04-14 23:19:27",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001671",
@@ -12891,7 +13197,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-04-21 23:34:03",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001672",
@@ -12933,7 +13240,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-04-21 23:34:03",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001673",
@@ -12975,7 +13283,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-04-22 17:59:38",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001674",
@@ -13017,7 +13326,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-04-22 18:39:52",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001675",
@@ -13059,7 +13369,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-04-22 18:39:52",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001676",
@@ -13101,7 +13412,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-04-26 21:07:21",
           "updateUserId": "1",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20001677",
@@ -13143,7 +13455,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-04-26 22:29:09",
           "updateUserId": "1",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20001678",
@@ -13185,7 +13498,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-04-26 21:07:21",
           "updateUserId": "1",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20001679",
@@ -13227,7 +13541,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-04-28 01:57:04",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001680",
@@ -13269,7 +13584,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-04-28 03:35:18",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001681",
@@ -13311,7 +13627,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-04-28 03:32:33",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001682",
@@ -13353,7 +13670,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-04-28 03:34:21",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001683",
@@ -13395,7 +13713,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-05-20 20:48:49",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001684",
@@ -13437,7 +13756,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-06-13 16:37:41",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001685",
@@ -13479,7 +13799,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-05-06 13:04:00",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001686",
@@ -13521,7 +13842,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-05-06 13:04:00",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001687",
@@ -13563,7 +13885,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-05-06 13:04:00",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001688",
@@ -13605,7 +13928,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-05-06 13:04:00",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001689",
@@ -13647,7 +13971,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-05-12 00:43:55",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001690",
@@ -13689,7 +14014,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-05-12 17:24:14",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001691",
@@ -13731,7 +14057,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-05-12 00:43:55",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001692",
@@ -13773,7 +14100,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-05-16 11:59:59",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001693",
@@ -13815,7 +14143,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-05-15 19:44:56",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001694",
@@ -13857,7 +14186,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-05-22 18:12:46",
           "updateUserId": "1",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20001695",
@@ -13899,7 +14229,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-05-29 01:18:30",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001696",
@@ -13941,7 +14272,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-05-29 01:18:30",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001697",
@@ -13983,7 +14315,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-05-29 01:18:30",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001698",
@@ -14025,7 +14358,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-05-30 01:46:01",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001699",
@@ -14067,7 +14401,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-05-28 01:51:13",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001700",
@@ -14109,7 +14444,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-05-28 01:51:13",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001701",
@@ -14151,7 +14487,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-05-28 01:51:13",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001702",
@@ -14193,7 +14530,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-05-28 01:51:13",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001703",
@@ -14235,7 +14573,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-05-28 01:51:13",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001704",
@@ -14277,7 +14616,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-06-03 13:18:13",
           "updateUserId": "1",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20001705",
@@ -14319,7 +14659,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-06-07 19:56:43",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001706",
@@ -14361,7 +14702,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-06-03 13:31:28",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001707",
@@ -14403,7 +14745,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-06-03 13:31:28",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001708",
@@ -14445,7 +14788,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-06-03 13:31:28",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001709",
@@ -14487,7 +14831,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-06-12 21:08:05",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001710",
@@ -14529,7 +14874,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-06-12 21:08:05",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001711",
@@ -14571,7 +14917,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-06-12 21:08:05",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001712",
@@ -14613,7 +14960,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-06-12 21:08:05",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001713",
@@ -14655,7 +15003,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-06-16 19:50:04",
           "updateUserId": "1",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20001714",
@@ -14697,7 +15046,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-06-22 16:58:03",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001715",
@@ -14739,7 +15089,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-06-22 16:58:03",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001716",
@@ -14781,7 +15132,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-06-22 16:58:03",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001717",
@@ -14823,7 +15175,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-06-25 16:14:28",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001718",
@@ -14865,7 +15218,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-06-25 16:14:28",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001719",
@@ -14907,7 +15261,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-06-27 13:09:26",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001720",
@@ -14949,7 +15304,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-06-27 13:09:26",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001721",
@@ -14991,7 +15347,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-06-27 13:09:26",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001722",
@@ -15033,7 +15390,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-06-27 13:09:26",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001723",
@@ -15075,7 +15433,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-07-09 12:35:43",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001724",
@@ -15117,7 +15476,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-07-09 12:35:43",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001725",
@@ -15159,7 +15519,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-07-09 12:35:43",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001726",
@@ -15201,7 +15562,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-07-09 12:35:43",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001727",
@@ -15243,7 +15605,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-07-07 17:53:03",
           "updateUserId": "1",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20001728",
@@ -15285,7 +15648,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-07-06 13:49:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001729",
@@ -15327,7 +15691,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-07-06 13:49:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001730",
@@ -15369,7 +15734,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-07-06 13:49:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001731",
@@ -15411,7 +15777,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-07-06 13:49:12",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001732",
@@ -15453,7 +15820,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-07-09 12:35:46",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001733",
@@ -15495,7 +15863,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-07-21 15:33:39",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001734",
@@ -15537,7 +15906,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-07-26 21:08:30",
           "updateUserId": "1",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20001735",
@@ -15579,7 +15949,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-07-27 22:29:15",
           "updateUserId": "1",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20001736",
@@ -15621,7 +15992,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-07-26 21:08:30",
           "updateUserId": "1",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20001737",
@@ -15663,7 +16035,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-07-26 22:52:19",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001738",
@@ -15705,7 +16078,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-07-26 21:08:30",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001739",
@@ -15747,7 +16121,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-07-20 22:57:20",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001740",
@@ -15789,7 +16164,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-08-02 14:51:37",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001741",
@@ -15831,7 +16207,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-08-02 14:51:37",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001742",
@@ -15873,7 +16250,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-08-02 14:51:37",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001743",
@@ -15915,7 +16293,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-08-02 14:51:37",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001744",
@@ -15957,7 +16336,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-08-02 23:45:07",
           "updateUserId": "1",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20001745",
@@ -15999,7 +16379,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-08-09 23:52:10",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001746",
@@ -16041,7 +16422,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-08-09 23:52:10",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001747",
@@ -16083,7 +16465,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-08-09 23:52:10",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001748",
@@ -16125,7 +16508,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-08-09 23:52:10",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001749",
@@ -16167,7 +16551,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-08-17 20:51:14",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001750",
@@ -16209,7 +16594,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-08-22 17:41:01",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001751",
@@ -16251,7 +16637,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-08-22 17:41:01",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001752",
@@ -16293,7 +16680,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-08-24 14:18:37",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001753",
@@ -16335,7 +16723,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-08-24 14:18:37",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001754",
@@ -16377,7 +16766,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-08-30 03:31:56",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001755",
@@ -16419,7 +16809,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-08-30 03:31:56",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001756",
@@ -16461,7 +16852,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-08-30 03:31:56",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001757",
@@ -16503,7 +16895,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-08-31 23:05:16",
           "updateUserId": "1",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20001758",
@@ -16545,7 +16938,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-09-06 11:45:53",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001759",
@@ -16587,7 +16981,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-09-06 17:14:57",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001760",
@@ -16629,7 +17024,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-09-06 07:12:49",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001761",
@@ -16671,7 +17067,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-09-20 20:54:18",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001762",
@@ -16713,7 +17110,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-09-20 20:54:18",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001763",
@@ -16755,7 +17153,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-09-13 21:36:33",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001764",
@@ -16797,7 +17196,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-09-13 21:36:33",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001765",
@@ -16839,7 +17239,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-10-04 21:36:21",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001766",
@@ -16881,7 +17282,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-10-04 21:36:21",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001767",
@@ -16923,7 +17325,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-08-25 10:53:36",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001768",
@@ -16965,7 +17368,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-09-07 21:39:17",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001769",
@@ -17007,7 +17411,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-09-07 21:39:17",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001770",
@@ -17049,7 +17454,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-08-24 19:46:47",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001771",
@@ -17091,7 +17497,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-08-25 17:59:10",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001772",
@@ -17133,7 +17540,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-09-06 00:58:09",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001773",
@@ -17175,7 +17583,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-09-13 14:33:40",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001774",
@@ -17217,7 +17626,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-09-09 12:18:29",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001775",
@@ -17259,7 +17669,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-09-08 21:26:07",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001776",
@@ -17301,7 +17712,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-09-26 19:08:41",
           "updateUserId": "1",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20001777",
@@ -17343,7 +17755,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-09-26 19:08:41",
           "updateUserId": "1",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20001778",
@@ -17385,7 +17798,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-10-02 17:07:57",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001779",
@@ -17427,7 +17841,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-09-20 20:54:34",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001780",
@@ -17469,7 +17884,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-09-26 19:08:46",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001781",
@@ -17511,7 +17927,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-10-07 11:02:14",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001782",
@@ -17553,7 +17970,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-10-06 22:55:29",
           "updateUserId": "1",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20001783",
@@ -17595,7 +18013,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-10-06 22:55:29",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001784",
@@ -17637,7 +18056,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-10-06 22:55:29",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001785",
@@ -17679,7 +18099,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-10-06 22:55:29",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001786",
@@ -17721,7 +18142,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-10-12 18:48:23",
           "updateUserId": "1",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20001787",
@@ -17763,7 +18185,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-10-12 18:48:23",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001788",
@@ -17805,7 +18228,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-10-19 01:33:53",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001789",
@@ -17847,7 +18271,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-10-18 22:30:32",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001790",
@@ -17889,7 +18314,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-10-24 16:45:04",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001791",
@@ -17931,7 +18357,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-10-18 22:30:32",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001792",
@@ -17973,7 +18400,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-10-24 16:45:08",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001793",
@@ -18015,7 +18443,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-10-27 17:03:57",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001794",
@@ -18057,7 +18486,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-10-27 17:03:57",
           "updateUserId": "1",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20001795",
@@ -18099,7 +18529,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-10-27 17:03:57",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001796",
@@ -18141,7 +18572,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-10-27 17:03:57",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001797",
@@ -18183,7 +18615,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-10-27 17:03:57",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001798",
@@ -18225,7 +18658,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-11-04 20:07:38",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001799",
@@ -18267,7 +18701,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-11-04 20:07:38",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001800",
@@ -18309,7 +18744,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-11-04 20:07:38",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001801",
@@ -18351,7 +18787,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-11-04 20:07:38",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001802",
@@ -18393,7 +18830,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-11-08 11:14:57",
           "updateUserId": "1",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20001803",
@@ -18435,7 +18873,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-11-11 17:13:57",
           "updateUserId": "1",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20001804",
@@ -18477,7 +18916,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-11-11 17:13:57",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001805",
@@ -18519,7 +18959,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-11-20 17:05:49",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001806",
@@ -18561,7 +19002,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-11-20 17:05:49",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001807",
@@ -18603,7 +19045,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-11-28 11:13:52",
           "updateUserId": "1",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20001808",
@@ -18645,7 +19088,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-11-28 11:13:52",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001809",
@@ -18687,7 +19131,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-11-28 11:13:52",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001810",
@@ -18729,7 +19174,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-11-30 20:23:36",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001811",
@@ -18771,7 +19217,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-11-30 20:23:36",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001812",
@@ -18813,7 +19260,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-12-05 17:32:34",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001813",
@@ -18855,7 +19303,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-12-06 14:09:55",
           "updateUserId": "1",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20001814",
@@ -18897,7 +19346,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-12-19 09:51:44",
           "updateUserId": "1",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20001815",
@@ -18939,7 +19389,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-12-14 13:45:02",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001816",
@@ -18981,7 +19432,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2017-01-18 21:16:18",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001817",
@@ -19023,7 +19475,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-12-14 13:45:06",
           "updateUserId": "1",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20001818",
@@ -19065,7 +19518,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-12-23 10:55:25",
           "updateUserId": "1",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20001819",
@@ -19107,7 +19561,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-12-23 10:55:25",
           "updateUserId": "1",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20001820",
@@ -19149,7 +19604,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-12-28 09:53:38",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001821",
@@ -19191,7 +19647,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-12-23 10:55:25",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001822",
@@ -19233,7 +19690,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2017-01-04 15:43:05",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001823",
@@ -19275,7 +19733,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-12-28 18:09:37",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001824",
@@ -19317,7 +19776,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-12-28 18:09:37",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001825",
@@ -19359,7 +19819,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2016-12-28 18:09:37",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001826",
@@ -19401,7 +19862,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2017-01-19 12:52:21",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001827",
@@ -19443,7 +19905,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2017-01-11 14:03:08",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001828",
@@ -19485,7 +19948,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2017-01-21 15:23:59",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001829",
@@ -19527,7 +19991,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2017-01-21 15:23:59",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001830",
@@ -19569,7 +20034,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2017-01-23 10:03:03",
           "updateUserId": "1",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20001831",
@@ -19611,7 +20077,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2017-01-25 18:08:28",
           "updateUserId": "1",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20001832",
@@ -19653,7 +20120,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2017-01-27 09:32:54",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001833",
@@ -19695,7 +20163,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2017-01-27 09:32:54",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001834",
@@ -19737,7 +20206,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2017-01-27 09:32:54",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001836",
@@ -19779,7 +20249,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2017-02-02 15:40:30",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001837",
@@ -19821,7 +20292,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2017-02-02 15:40:30",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001838",
@@ -19863,7 +20335,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2017-02-02 15:40:30",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001839",
@@ -19905,7 +20378,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2017-02-07 22:07:28",
           "updateUserId": "1",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20001840",
@@ -19947,7 +20421,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2017-02-08 13:50:30",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001841",
@@ -19989,7 +20464,8 @@ window.chara=[
           "createUserId": "1",
           "updateTime": "2017-02-08 20:38:06",
           "updateUserId": "1",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001842",
@@ -20031,7 +20507,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-02-13 23:10:51",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001843",
@@ -20073,7 +20550,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-02-15 14:45:27",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001844",
@@ -20115,7 +20593,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-02-21 14:31:43",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001845",
@@ -20157,7 +20636,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-02-21 13:26:12",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001846",
@@ -20199,7 +20679,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-02-15 14:45:36",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001847",
@@ -20241,7 +20722,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-02-15 14:45:37",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001848",
@@ -20283,7 +20765,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-02-27 12:55:36",
           "updateUserId": "10",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20001849",
@@ -20325,7 +20808,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-02-27 12:55:37",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001850",
@@ -20367,7 +20851,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-02-27 12:55:37",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001851",
@@ -20409,7 +20894,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-03-07 16:32:49",
           "updateUserId": "10",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20001852",
@@ -20451,7 +20937,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-03-07 20:09:23",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001853",
@@ -20493,7 +20980,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-03-13 23:09:26",
           "updateUserId": "10",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20001854",
@@ -20535,7 +21023,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-03-13 23:09:27",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001855",
@@ -20577,7 +21066,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-03-13 23:09:28",
           "updateUserId": "10",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20001856",
@@ -20619,7 +21109,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-03-13 23:09:28",
           "updateUserId": "10",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20001857",
@@ -20661,7 +21152,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-03-22 14:45:28",
           "updateUserId": "10",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20001858",
@@ -20703,7 +21195,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-03-22 14:52:05",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001859",
@@ -20745,7 +21238,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-03-27 18:34:42",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001860",
@@ -20787,7 +21281,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-03-29 11:56:04",
           "updateUserId": "10",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20001861",
@@ -20829,7 +21324,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-03-29 11:56:05",
           "updateUserId": "10",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20001862",
@@ -20871,7 +21367,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-03-29 11:56:05",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001863",
@@ -20913,7 +21410,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-03-29 13:25:12",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001864",
@@ -20955,7 +21453,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-04-05 13:10:40",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001865",
@@ -20997,7 +21496,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-04-05 13:10:41",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001866",
@@ -21039,7 +21539,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-04-05 13:10:42",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001867",
@@ -21081,7 +21582,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-04-05 13:10:43",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001868",
@@ -21123,7 +21625,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-04-12 22:58:43",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001869",
@@ -21165,7 +21668,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-04-12 22:58:44",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20001870",
@@ -21207,7 +21711,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-04-12 22:58:44",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20030501",
@@ -21249,7 +21754,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-04-24 14:16:40",
           "updateUserId": "10",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20030502",
@@ -21291,7 +21797,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-04-24 14:16:41",
           "updateUserId": "10",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20030503",
@@ -21333,7 +21840,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-04-25 13:19:18",
           "updateUserId": "10",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20030504",
@@ -21375,7 +21883,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-04-25 13:19:19",
           "updateUserId": "10",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20030505",
@@ -21417,7 +21926,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-04-25 13:19:20",
           "updateUserId": "10",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20030506",
@@ -21459,7 +21969,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-04-26 10:03:29",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20030507",
@@ -21501,7 +22012,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-04-29 14:17:56",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20030508",
@@ -21543,7 +22055,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-05-04 13:55:40",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20030509",
@@ -21585,7 +22098,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-05-04 13:55:41",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20030510",
@@ -21627,7 +22141,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-05-10 19:44:05",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20030511",
@@ -21669,7 +22184,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-04-20 21:45:55",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20030512",
@@ -21711,7 +22227,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-05-04 13:55:52",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20030513",
@@ -21753,7 +22270,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-05-04 13:55:52",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20030514",
@@ -21795,7 +22313,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-05-04 13:55:52",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20030515",
@@ -21837,7 +22356,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-05-04 13:55:53",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20030601",
@@ -21879,7 +22399,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-05-17 16:59:34",
           "updateUserId": "10",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20030602",
@@ -21921,7 +22442,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-05-17 16:59:35",
           "updateUserId": "10",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20030603",
@@ -21963,7 +22485,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-05-17 16:59:36",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20030604",
@@ -22005,7 +22528,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-05-26 16:51:43",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20030605",
@@ -22047,7 +22571,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-06-02 17:41:25",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20030606",
@@ -22089,7 +22614,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-06-02 17:41:26",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20030607",
@@ -22131,7 +22657,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-05-30 21:55:36",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20030608",
@@ -22173,7 +22700,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-05-30 12:58:17",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20030609",
@@ -22215,7 +22743,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-05-30 21:55:46",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20030610",
@@ -22257,7 +22786,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-05-30 21:55:46",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20030611",
@@ -22299,7 +22829,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-06-05 18:29:56",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20030612",
@@ -22341,7 +22872,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-06-09 11:55:28",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20030613",
@@ -22383,7 +22915,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-06-09 11:55:28",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20030614",
@@ -22425,7 +22958,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-06-09 15:04:42",
           "updateUserId": "10",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20030615",
@@ -22467,7 +23001,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-06-19 16:14:38",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20030616",
@@ -22509,7 +23044,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-06-19 16:14:38",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20030617",
@@ -22551,7 +23087,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-06-19 16:14:39",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20030701",
@@ -22593,7 +23130,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-06-26 22:17:35",
           "updateUserId": "10",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20030702",
@@ -22635,7 +23173,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-06-26 22:17:36",
           "updateUserId": "10",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20030703",
@@ -22677,7 +23216,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-06-27 13:45:43",
           "updateUserId": "10",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20030704",
@@ -22719,7 +23259,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-06-26 22:17:36",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20030705",
@@ -22761,7 +23302,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-06-27 11:45:41",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20030706",
@@ -22803,7 +23345,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-06-28 17:24:47",
           "updateUserId": "10",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20030707",
@@ -22845,7 +23388,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-07-02 15:35:20",
           "updateUserId": "10",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20030708",
@@ -22887,7 +23431,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-07-02 15:35:21",
           "updateUserId": "10",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20030709",
@@ -22929,7 +23474,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-07-06 10:33:31",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20030710",
@@ -22971,7 +23517,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-07-06 16:16:38",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20030711",
@@ -23013,7 +23560,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-07-07 14:18:17",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20030712",
@@ -23055,7 +23603,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-07-06 16:16:40",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20030713",
@@ -23097,7 +23646,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-07-13 21:31:49",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20030714",
@@ -23139,7 +23689,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-07-13 21:31:49",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20030715",
@@ -23181,7 +23732,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-07-18 16:55:33",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20030716",
@@ -23223,7 +23775,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-07-18 16:55:34",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20030801",
@@ -23265,7 +23818,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-07-21 20:03:35",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20030802",
@@ -23307,7 +23861,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-07-25 21:48:04",
           "updateUserId": "10",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20030803",
@@ -23349,7 +23904,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-07-25 21:48:05",
           "updateUserId": "10",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20030804",
@@ -23391,7 +23947,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-07-25 21:48:06",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20030805",
@@ -23433,7 +23990,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-07-25 21:48:06",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20030806",
@@ -23475,7 +24033,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-08-01 22:23:51",
           "updateUserId": "10",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20030807",
@@ -23517,7 +24076,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-08-01 22:23:52",
           "updateUserId": "10",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20030808",
@@ -23559,7 +24119,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-08-01 22:23:53",
           "updateUserId": "10",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20030809",
@@ -23601,7 +24162,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-08-01 22:23:53",
           "updateUserId": "10",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20030810",
@@ -23643,7 +24205,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-08-01 22:23:54",
           "updateUserId": "10",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20030811",
@@ -23685,7 +24248,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-08-14 21:27:00",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20030812",
@@ -23727,7 +24291,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-08-14 21:27:00",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20030813",
@@ -23769,7 +24334,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-08-09 14:44:44",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20030814",
@@ -23811,7 +24377,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-08-09 14:44:45",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20030815",
@@ -23853,7 +24420,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-08-09 14:44:46",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20030816",
@@ -23895,7 +24463,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-08-08 20:10:12",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20030817",
@@ -23937,7 +24506,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-08-07 21:54:41",
           "updateUserId": "10",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20030818",
@@ -23979,7 +24549,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-08-07 21:54:42",
           "updateUserId": "10",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20030819",
@@ -24021,7 +24592,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-08-07 21:54:43",
           "updateUserId": "10",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20030820",
@@ -24063,7 +24635,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-08-03 16:25:25",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20030821",
@@ -24105,7 +24678,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-08-03 16:25:26",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20030822",
@@ -24147,7 +24721,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-08-07 16:05:01",
           "updateUserId": "10",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20030823",
@@ -24189,7 +24764,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-08-16 18:49:41",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20030824",
@@ -24231,7 +24807,8 @@ window.chara=[
           "createUserId": "10",
           "updateTime": "2017-08-16 18:49:42",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20030825",
@@ -24273,7 +24850,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-08-22 19:05:14",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20030901",
@@ -24315,7 +24893,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-08-28 12:42:34",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20030902",
@@ -24357,7 +24936,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-08-28 12:42:35",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20030903",
@@ -24399,7 +24979,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-08-28 13:28:02",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20030904",
@@ -24441,7 +25022,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-08-28 13:28:03",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20030905",
@@ -24483,7 +25065,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-08-29 20:03:39",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20030906",
@@ -24525,7 +25108,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-08-29 20:03:40",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20030907",
@@ -24567,7 +25151,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-08-29 20:03:40",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20030908",
@@ -24609,7 +25194,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-08-30 12:11:32",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20030909",
@@ -24651,7 +25237,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-09-12 16:47:10",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20030911",
@@ -24693,7 +25280,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-09-12 15:53:54",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20030912",
@@ -24735,7 +25323,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-09-12 17:35:58",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20030913",
@@ -24777,7 +25366,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-09-19 09:50:17",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20030918",
@@ -24819,7 +25409,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-09-16 13:35:55",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20030919",
@@ -24861,7 +25452,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-09-16 13:35:56",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20030920",
@@ -24903,7 +25495,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-09-16 13:15:36",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20030921",
@@ -24945,7 +25538,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-09-16 13:15:36",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20030922",
@@ -24987,7 +25581,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-09-16 00:24:37",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20030923",
@@ -25029,7 +25624,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-10-31 18:11:42",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20030924",
@@ -25071,7 +25667,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-10-31 18:11:42",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20031001",
@@ -25113,7 +25710,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-09-27 11:16:19",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20031002",
@@ -25155,7 +25753,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-10-03 21:42:46",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20031003",
@@ -25197,7 +25796,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-10-11 15:09:01",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20031006",
@@ -25239,7 +25839,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-09-26 16:58:49",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20031007",
@@ -25281,7 +25882,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-09-26 16:58:50",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20031008",
@@ -25323,7 +25925,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-09-28 17:46:37",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20031009",
@@ -25365,7 +25968,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-09-26 16:58:51",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20031010",
@@ -25407,7 +26011,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-09-29 15:26:57",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20031011",
@@ -25449,7 +26054,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-10-05 18:25:00",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20031012",
@@ -25491,7 +26097,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-10-05 18:58:57",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20031013",
@@ -25533,7 +26140,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-10-05 18:58:58",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20031014",
@@ -25575,7 +26183,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-10-05 18:58:58",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20031015",
@@ -25617,7 +26226,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-10-05 18:58:59",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20031016",
@@ -25659,7 +26269,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-10-12 14:02:48",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20031017",
@@ -25701,7 +26312,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-10-12 14:02:49",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20031018",
@@ -25743,7 +26355,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-10-10 17:46:58",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20031019",
@@ -25785,7 +26398,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-10-19 20:47:42",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20031020",
@@ -25827,7 +26441,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-10-19 20:47:42",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20031101",
@@ -25869,7 +26484,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-10-26 16:55:14",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20031102",
@@ -25911,7 +26527,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-10-23 16:29:58",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20031103",
@@ -25953,7 +26570,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-10-26 18:03:10",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20031104",
@@ -25995,7 +26613,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-10-23 22:57:21",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20031105",
@@ -26037,7 +26656,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-10-23 22:57:21",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20031106",
@@ -26079,7 +26699,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-10-31 21:24:55",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20031107",
@@ -26121,7 +26742,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-10-31 21:24:56",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20031108",
@@ -26163,7 +26785,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-11-08 11:35:49",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20031109",
@@ -26205,7 +26828,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-11-08 11:50:24",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20031110",
@@ -26247,7 +26871,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-11-01 10:10:40",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20031111",
@@ -26289,7 +26914,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-11-01 10:10:41",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20031112",
@@ -26331,7 +26957,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-11-10 18:44:26",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20031113",
@@ -26373,7 +27000,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-11-15 13:50:29",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20031114",
@@ -26415,7 +27043,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-11-10 15:10:44",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20031115",
@@ -26457,7 +27086,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-11-14 15:23:32",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20031116",
@@ -26499,7 +27129,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-11-20 12:42:13",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20031201",
@@ -26541,7 +27172,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-11-27 13:09:42",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20031202",
@@ -26583,7 +27215,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-11-28 10:43:19",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20031203",
@@ -26625,7 +27258,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-11-28 20:16:16",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20031204",
@@ -26667,7 +27301,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-01-24 11:41:18",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20031205",
@@ -26709,7 +27344,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-12-12 13:46:28",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20031206",
@@ -26751,7 +27387,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-12-04 21:15:36",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20031207",
@@ -26793,7 +27430,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-12-06 20:05:58",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20031208",
@@ -26835,7 +27473,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-11-28 11:23:51",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20031209",
@@ -26877,7 +27516,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-12-25 13:11:56",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20031210",
@@ -26919,7 +27559,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-12-04 18:19:31",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20031211",
@@ -26961,7 +27602,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-12-19 12:26:53",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20031212",
@@ -27003,7 +27645,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-12-01 16:21:11",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20031213",
@@ -27045,7 +27688,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-12-01 16:21:12",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20031214",
@@ -27087,7 +27731,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-12-19 15:19:17",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20031215",
@@ -27129,7 +27774,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-12-19 15:19:18",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20031216",
@@ -27171,7 +27817,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-12-06 14:06:14",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20031217",
@@ -27213,7 +27860,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-12-14 16:45:53",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20031218",
@@ -27255,7 +27903,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-12-14 16:45:54",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20031219",
@@ -27297,7 +27946,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-12-13 20:22:31",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20040101",
@@ -27339,7 +27989,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-12-19 13:45:33",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20040102",
@@ -27381,7 +28032,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-12-25 15:08:13",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040103",
@@ -27423,7 +28075,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-12-25 15:08:14",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040104",
@@ -27465,7 +28118,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-12-25 15:12:05",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20040105",
@@ -27507,7 +28161,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-12-25 15:39:42",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20040106",
@@ -27549,7 +28204,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-12-25 15:39:43",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20040107",
@@ -27591,7 +28247,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-12-25 15:24:23",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20040108",
@@ -27633,7 +28290,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-12-25 15:24:24",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040109",
@@ -27675,7 +28333,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-12-25 15:24:25",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040110",
@@ -27717,7 +28376,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-01-10 14:04:34",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040111",
@@ -27759,7 +28419,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-12-25 15:24:25",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040112",
@@ -27801,7 +28462,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-01-15 19:17:28",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040113",
@@ -27843,7 +28505,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-12-29 15:11:49",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040114",
@@ -27885,7 +28548,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-12-29 15:11:50",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040115",
@@ -27927,7 +28591,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-01-23 18:44:53",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040116",
@@ -27969,7 +28634,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-01-22 17:28:04",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040117",
@@ -28011,7 +28677,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-01-24 14:01:44",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040118",
@@ -28053,7 +28720,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-02-07 19:49:26",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20040119",
@@ -28095,7 +28763,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2017-12-28 19:08:13",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20040201",
@@ -28137,7 +28806,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-01-25 13:13:39",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040202",
@@ -28179,7 +28849,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-01-25 13:13:40",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040203",
@@ -28221,7 +28892,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-01-25 17:45:22",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20040204",
@@ -28263,7 +28935,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-01-30 18:41:58",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20040205",
@@ -28305,7 +28978,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-02-01 18:57:19",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040206",
@@ -28347,7 +29021,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-02-02 16:51:30",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20040207",
@@ -28389,7 +29064,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-02-05 14:27:10",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040208",
@@ -28431,7 +29107,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-02-05 14:27:10",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040209",
@@ -28473,7 +29150,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-02-06 19:11:29",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040210",
@@ -28515,7 +29193,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-02-06 19:11:29",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040211",
@@ -28557,7 +29236,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-02-08 20:36:32",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040212",
@@ -28599,7 +29279,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-02-13 20:01:57",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040213",
@@ -28641,7 +29322,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-02-16 17:14:25",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20040301",
@@ -28683,7 +29365,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-02-16 10:21:11",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20040302",
@@ -28725,7 +29408,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-02-21 21:35:58",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040303",
@@ -28767,7 +29451,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-02-17 20:56:15",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040304",
@@ -28809,7 +29494,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-02-17 20:56:16",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040305",
@@ -28851,7 +29537,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-03-02 19:59:46",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040306",
@@ -28893,7 +29580,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-03-05 18:34:02",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040307",
@@ -28935,7 +29623,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-03-05 18:34:02",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040308",
@@ -28977,7 +29666,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-03-09 17:49:46",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040309",
@@ -29019,7 +29709,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-03-08 13:58:25",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040310",
@@ -29061,7 +29752,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-03-15 18:16:49",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040311",
@@ -29103,7 +29795,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-03-15 18:16:50",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040312",
@@ -29145,7 +29838,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-03-20 13:49:48",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040313",
@@ -29187,7 +29881,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-04-11 18:37:59",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040314",
@@ -29229,7 +29924,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-03-13 19:19:52",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20040315",
@@ -29271,7 +29967,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-02-22 15:37:09",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20040316",
@@ -29313,7 +30010,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-02-26 20:09:49",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040317",
@@ -29355,7 +30053,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-03-17 20:33:32",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040318",
@@ -29397,7 +30096,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-04-24 21:57:18",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040319",
@@ -29439,7 +30139,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-03-28 22:05:54",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040401",
@@ -29481,7 +30182,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-03-22 20:01:50",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040402",
@@ -29523,7 +30225,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-03-23 15:32:22",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040403",
@@ -29565,7 +30268,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-03-28 15:31:46",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040404",
@@ -29692,7 +30396,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-03-28 15:32:39",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040407",
@@ -29734,7 +30439,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-03-29 16:55:14",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040408",
@@ -29776,7 +30482,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-03-29 15:33:47",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040409",
@@ -29818,7 +30525,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-04-02 15:27:38",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040410",
@@ -29860,7 +30568,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-04-05 18:07:59",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040411",
@@ -29902,7 +30611,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-04-09 13:57:25",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040412",
@@ -29944,7 +30654,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-03-29 11:28:38",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040414",
@@ -29986,7 +30697,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-04-06 17:34:35",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040415",
@@ -30028,7 +30740,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-04-18 11:16:07",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040416",
@@ -30070,7 +30783,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-04-19 17:15:25",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040417",
@@ -30112,7 +30826,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-04-19 17:15:26",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040418",
@@ -30154,7 +30869,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-04-03 19:38:05",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040501",
@@ -30196,7 +30912,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-04-23 21:50:18",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040502",
@@ -30238,7 +30955,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-04-25 22:42:33",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040503",
@@ -30280,7 +30998,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-04-23 18:25:51",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040504",
@@ -30322,7 +31041,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-04-23 18:25:52",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040505",
@@ -30364,7 +31084,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-04-23 18:25:52",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040506",
@@ -30406,7 +31127,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-04-26 18:31:46",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040507",
@@ -30448,7 +31170,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-04-27 18:52:16",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040508",
@@ -30490,7 +31213,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-05-02 19:36:45",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040509",
@@ -30532,7 +31256,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-05-10 12:12:01",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040511",
@@ -30574,7 +31299,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-05-08 19:29:00",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040512",
@@ -30616,7 +31342,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-05-09 17:06:04",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040513",
@@ -30658,7 +31385,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-05-18 18:26:41",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040515",
@@ -30700,7 +31428,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-05-22 20:17:16",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040516",
@@ -30742,7 +31471,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-05-21 13:39:41",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040517",
@@ -30784,7 +31514,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-05-22 20:17:25",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040518",
@@ -30826,7 +31557,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-05-22 12:50:53",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040519",
@@ -30868,7 +31600,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-05-01 16:09:35",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040521",
@@ -30910,7 +31643,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-04-26 14:08:24",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040524",
@@ -30952,7 +31686,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-05-23 10:22:07",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040601",
@@ -30994,7 +31729,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-05-21 13:14:14",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040602",
@@ -31036,7 +31772,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-05-29 14:03:11",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040603",
@@ -31078,7 +31815,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-05-30 18:28:35",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040604",
@@ -31120,7 +31858,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-06-04 16:11:35",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040605",
@@ -31162,7 +31901,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-06-05 14:19:54",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040606",
@@ -31204,7 +31944,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-06-07 16:54:50",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040607",
@@ -31246,7 +31987,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-06-12 18:20:00",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040608",
@@ -31288,7 +32030,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-06-06 10:25:47",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040609",
@@ -31330,7 +32073,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-06-11 22:34:45",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040610",
@@ -31372,7 +32116,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-06-19 22:53:08",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040611",
@@ -31414,7 +32159,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-06-11 23:24:28",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040612",
@@ -31456,7 +32202,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-06-11 23:24:29",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040701",
@@ -31498,7 +32245,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-06-20 09:46:04",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040702",
@@ -31540,7 +32288,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-06-23 20:39:16",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
          {
           "cardId": "20040703",
@@ -31582,7 +32331,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-06-28 20:52:59",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040704",
@@ -31624,7 +32374,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-06-29 12:52:46",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040705",
@@ -31666,7 +32417,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-07-04 18:49:22",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040706",
@@ -31708,7 +32460,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-07-09 21:50:43",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040707",
@@ -31750,7 +32503,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-07-13 18:46:49",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040708",
@@ -31792,7 +32546,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-07-17 22:48:00",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040709",
@@ -31834,7 +32589,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-07-11 11:42:01",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040710",
@@ -31876,7 +32632,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-07-10 16:55:42",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040711",
@@ -31918,7 +32675,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-06-27 14:04:59",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040712",
@@ -31960,7 +32718,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-07-05 17:13:31",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040801",
@@ -32002,7 +32761,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-07-19 23:45:52",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040802",
@@ -32044,7 +32804,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-07-27 23:36:18",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040803",
@@ -32086,7 +32847,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-07-27 22:04:31",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040804",
@@ -32128,7 +32890,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-07-25 14:55:34",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040805",
@@ -32170,7 +32933,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-07-25 13:53:13",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040806",
@@ -32212,7 +32976,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-07-25 13:53:13",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040807",
@@ -32254,7 +33019,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-07-30 20:26:04",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040808",
@@ -32296,7 +33062,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-08-02 17:40:50",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040809",
@@ -32338,7 +33105,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-08-01 16:06:30",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040810",
@@ -32380,7 +33148,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-08-07 10:52:23",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040811",
@@ -32422,7 +33191,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-08-09 15:44:35",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040901",
@@ -32464,7 +33234,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-08-22 15:37:59",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040902",
@@ -32505,7 +33276,8 @@ window.chara=[
           "createTime": "2018-08-23 15:55:34",
           "createUserId": "11",
           "updateTime": "2018-08-30 18:54:09",
-          "updateUserId": "11"
+          "updateUserId": "11",
+          "translated": "1",
         },
         {
           "cardId": "20040903",
@@ -32547,7 +33319,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-08-27 14:05:15",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040904",
@@ -32589,7 +33362,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-09-04 14:17:14",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040905",
@@ -32631,7 +33405,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-09-05 18:16:17",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040906",
@@ -32673,7 +33448,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-09-07 19:04:56",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040907",
@@ -32715,7 +33491,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-09-11 16:47:13",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040908",
@@ -32757,7 +33534,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-09-13 13:53:15",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040910",
@@ -32799,7 +33577,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-09-14 15:16:47",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20040912",
@@ -32841,7 +33620,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-09-06 16:39:28",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20041002",
@@ -32883,7 +33663,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-09-25 14:06:10",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20041003",
@@ -32925,7 +33706,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-09-27 15:48:16",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20041004",
@@ -32967,7 +33749,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-10-02 12:48:27",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20041006",
@@ -33009,7 +33792,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-10-03 19:00:15",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20041009",
@@ -33051,7 +33835,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-10-15 14:22:01",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20041010",
@@ -33093,7 +33878,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-10-17 13:44:29",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20041011",
@@ -33135,7 +33921,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-10-17 13:44:29",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20041012",
@@ -33177,7 +33964,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-10-22 11:43:50",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20041101",
@@ -33219,7 +34007,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-10-24 17:45:59",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20041102",
@@ -33261,7 +34050,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-10-23 12:38:46",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20041103",
@@ -33303,7 +34093,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-11-26 21:28:19",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20041104",
@@ -33345,7 +34136,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-11-02 10:22:37",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20041105",
@@ -33387,7 +34179,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-11-06 14:52:16",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20041106",
@@ -33429,7 +34222,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-11-06 12:44:25",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20041109",
@@ -33471,7 +34265,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-11-15 15:53:06",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20041110",
@@ -33513,7 +34308,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-10-24 13:35:19",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20041112",
@@ -33555,7 +34351,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-11-08 21:53:15",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20041201",
@@ -33597,7 +34394,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-11-20 11:36:51",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20041202",
@@ -33639,7 +34437,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-11-22 14:20:34",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20041203",
@@ -33681,7 +34480,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-12-19 01:27:39",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20041205",
@@ -33723,7 +34523,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-11-30 13:24:13",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20041206",
@@ -33765,7 +34566,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-12-07 11:47:50",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20041207",
@@ -33807,7 +34609,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-12-06 19:34:17",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20041208",
@@ -33849,7 +34652,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-12-08 14:40:19",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20041209",
@@ -33891,7 +34695,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-12-11 19:24:14",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20041210",
@@ -33933,7 +34738,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-12-14 12:08:53",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20041211",
@@ -33975,7 +34781,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-12-18 21:38:05",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050101",
@@ -34017,7 +34824,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-12-07 20:41:46",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050102",
@@ -34059,7 +34867,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-12-20 15:17:54",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050103",
@@ -34101,7 +34910,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-12-27 10:24:05",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050105",
@@ -34143,7 +34953,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-12-16 16:43:46",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050106",
@@ -34185,7 +34996,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-12-16 16:43:47",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050107",
@@ -34227,7 +35039,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-12-16 16:43:47",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050108",
@@ -34269,7 +35082,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-12-21 20:12:01",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050109",
@@ -34311,7 +35125,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-12-24 01:58:30",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050110",
@@ -34353,7 +35168,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-12-27 21:42:46",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050111",
@@ -34395,7 +35211,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2018-12-27 21:42:35",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050112",
@@ -34437,7 +35254,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2019-01-08 17:05:58",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050113",
@@ -34479,7 +35297,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2019-01-18 10:38:26",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050114",
@@ -34521,7 +35340,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2019-01-15 12:39:24",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050115",
@@ -34563,7 +35383,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2019-01-18 10:37:44",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050116",
@@ -34605,7 +35426,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2019-01-23 17:27:54",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050117",
@@ -34647,7 +35469,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2019-01-23 17:27:54",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050201",
@@ -34689,7 +35512,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2019-01-21 19:30:47",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050202",
@@ -34731,7 +35555,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2019-01-31 14:47:57",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050203",
@@ -34773,7 +35598,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2019-01-31 15:11:39",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050204",
@@ -34815,7 +35641,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2019-01-25 22:14:22",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050205",
@@ -34857,7 +35684,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2019-02-09 16:22:09",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050206",
@@ -34899,7 +35727,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2019-02-05 18:49:47",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050207",
@@ -34941,7 +35770,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2019-01-25 22:15:14",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050208",
@@ -34983,7 +35813,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2019-02-01 16:06:53",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050211",
@@ -35025,7 +35856,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2019-01-28 14:46:48",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
                {
           "cardId": "20050212",
@@ -35067,7 +35899,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2019-02-14 17:22:14",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050214",
@@ -35109,7 +35942,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2019-02-14 20:44:56",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050215",
@@ -35151,7 +35985,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2019-02-06 10:33:39",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050216",
@@ -35193,7 +36028,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2019-01-31 19:13:13",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050301",
@@ -35235,7 +36071,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2019-02-20 17:25:00",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20050302",
@@ -35277,7 +36114,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2019-02-24 17:46:10",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20050303",
@@ -35319,7 +36157,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2019-02-26 13:47:11",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050304",
@@ -35361,7 +36200,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2019-02-25 19:42:11",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050305",
@@ -35403,7 +36243,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2019-02-25 19:42:11",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050306",
@@ -35445,7 +36286,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2019-03-01 13:23:05",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050307",
@@ -35487,7 +36329,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2019-02-28 18:02:07",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050308",
@@ -35529,7 +36372,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2019-02-27 20:52:27",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050309",
@@ -35571,7 +36415,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2019-03-09 15:25:49",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050310",
@@ -35613,7 +36458,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2019-03-14 14:45:04",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050311",
@@ -35655,7 +36501,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2019-03-06 15:40:49",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050313",
@@ -35697,7 +36544,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2019-03-14 22:37:10",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050314",
@@ -35739,7 +36587,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2019-03-11 17:50:02",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050315",
@@ -35781,7 +36630,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2019-03-11 17:50:53",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050316",
@@ -35823,7 +36673,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2019-03-20 18:10:51",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050317",
@@ -35865,7 +36716,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2019-03-14 17:59:57",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050318",
@@ -35907,7 +36759,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2019-03-05 10:57:47",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050401",
@@ -35949,7 +36802,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2019-03-18 16:08:48",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050402",
@@ -35991,7 +36845,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2019-04-01 20:00:11",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20050403",
@@ -36033,7 +36888,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2019-03-23 19:05:22",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20050404",
@@ -36075,7 +36931,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2019-03-23 19:05:23",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20050405",
@@ -36117,7 +36974,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2019-03-28 16:18:29",
           "updateUserId": "11",
-          "translated": "0"
+          "translated": "0",
+          "translated": "1",
         },
         {
           "cardId": "20050407",
@@ -36159,7 +37017,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2019-03-25 13:39:34",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050408",
@@ -36201,7 +37060,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2019-04-13 16:22:09",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050409",
@@ -36243,7 +37103,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2019-04-04 16:52:17",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050410",
@@ -36280,7 +37141,8 @@ window.chara=[
           "charaProfileId": "4701",
           "defaultUnlockBit": "3",
           "fusionRuleId": "0",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050411",
@@ -36322,7 +37184,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2019-03-29 21:30:05",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050412",
@@ -36359,7 +37222,8 @@ window.chara=[
           "charaProfileId": "13702",
           "defaultUnlockBit": "3",
           "fusionRuleId": "0",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050413",
@@ -36401,7 +37265,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2019-04-10 19:56:05",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050414",
@@ -36443,7 +37308,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2019-04-06 14:03:48",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050415",
@@ -36485,7 +37351,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2019-03-29 18:03:24",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050416",
@@ -36527,7 +37394,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2019-04-10 14:16:14",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050417",
@@ -36569,7 +37437,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2019-04-02 01:30:00",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050418",
@@ -36611,7 +37480,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2019-03-31 18:36:42",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050419",
@@ -36648,7 +37518,8 @@ window.chara=[
           "charaProfileId": "802",
           "defaultUnlockBit": "3",
           "fusionRuleId": "0",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050420",
@@ -36685,7 +37556,8 @@ window.chara=[
           "charaProfileId": "902",
           "defaultUnlockBit": "3",
           "fusionRuleId": "0",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050421",
@@ -36722,7 +37594,8 @@ window.chara=[
           "charaProfileId": "502",
           "defaultUnlockBit": "3",
           "fusionRuleId": "0",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050422",
@@ -36759,7 +37632,8 @@ window.chara=[
           "charaProfileId": "602",
           "defaultUnlockBit": "3",
           "fusionRuleId": "0",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050501",
@@ -36801,7 +37675,8 @@ window.chara=[
           "createUserId": "11",
           "updateTime": "2019-04-16 15:45:11",
           "updateUserId": "11",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050502",
@@ -36837,7 +37712,8 @@ window.chara=[
           "fusionMaterialFlg": "0",
           "charaProfileId": "50901",
           "defaultUnlockBit": "3",
-          "fusionRuleId": "0"
+          "fusionRuleId": "0",
+          "translated": "1",
         },
         {
           "cardId": "20050503",
@@ -36874,7 +37750,8 @@ window.chara=[
           "charaProfileId": "112",
           "defaultUnlockBit": "3",
           "fusionRuleId": "2",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050504",
@@ -36911,7 +37788,8 @@ window.chara=[
           "charaProfileId": "2104",
           "defaultUnlockBit": "3",
           "fusionRuleId": "2",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050505",
@@ -36948,7 +37826,8 @@ window.chara=[
           "charaProfileId": "4303",
           "defaultUnlockBit": "3",
           "fusionRuleId": "2",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050506",
@@ -36985,7 +37864,8 @@ window.chara=[
           "charaProfileId": "212",
           "defaultUnlockBit": "3",
           "fusionRuleId": "2",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050507",
@@ -37022,7 +37902,8 @@ window.chara=[
           "charaProfileId": "12001",
           "defaultUnlockBit": "3",
           "fusionRuleId": "0",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050508",
@@ -37059,7 +37940,8 @@ window.chara=[
           "charaProfileId": "2502",
           "defaultUnlockBit": "3",
           "fusionRuleId": "0",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050509",
@@ -37096,7 +37978,8 @@ window.chara=[
           "charaProfileId": "4001",
           "defaultUnlockBit": "3",
           "fusionRuleId": "0",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050510",
@@ -37133,7 +38016,8 @@ window.chara=[
           "charaProfileId": "2201",
           "defaultUnlockBit": "3",
           "fusionRuleId": "0",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050511",
@@ -37170,7 +38054,8 @@ window.chara=[
           "charaProfileId": "1901",
           "defaultUnlockBit": "3",
           "fusionRuleId": "0",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050512",
@@ -37207,7 +38092,8 @@ window.chara=[
           "charaProfileId": "13401",
           "defaultUnlockBit": "3",
           "fusionRuleId": "0",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050513",
@@ -37244,7 +38130,8 @@ window.chara=[
           "charaProfileId": "303",
           "defaultUnlockBit": "3",
           "fusionRuleId": "0",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050514",
@@ -37281,7 +38168,8 @@ window.chara=[
           "charaProfileId": "11603",
           "defaultUnlockBit": "3",
           "fusionRuleId": "0",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
                  {
           "cardId": "20050601",
@@ -38276,7 +39164,8 @@ window.chara=[
           "charaProfileId": "14502",
           "defaultUnlockBit": "3",
           "fusionRuleId": "2",
-          "translated": "1"
+          "translated": "1",
+          "translated": "1",
         },
         {
           "cardId": "20050716",
@@ -38319,7 +39208,7 @@ window.chara=[
           "cardId": "20050717",
           "charaType": "1",
           "modelId": "622",
-          "cardSubName": "Trickery of Fate",
+          "cardSubName": "憎念の旋撃",
           "cardInformation": "もう一人のナルト、それは赤子で九尾の人柱力となり除け者にされた、幼い頃の孤独から生まれた想いそのものだった…己の闇と向き合うため、ナルトはもう一人の自分と対峙する",
           "bookNo": "1",
           "rare": "5",
@@ -38350,13 +39239,13 @@ window.chara=[
           "charaProfileId": "102",
           "defaultUnlockBit": "3",
           "fusionRuleId": "0",
-          "translated": "1"
-},
+          "translated": "1",
+        },
         {
           "cardId": "20050801",
           "charaType": "1",
           "modelId": "475",
-          "cardSubName": "Frontline Healer",
+          "cardSubName": "戦地の癒桜",
           "cardInformation": "忍連合軍の後方支援医療部隊に配属されたサクラ。その利発さと医療忍術の技量で、救護の最前線に立つ。戦いに赴く仲間をサポートし、いざとなれば、戦う医療忍者の元祖にして師匠、綱手顔負けの剛腕が唸りを上げる。",
           "bookNo": "1",
           "rare": "5",
@@ -38387,7 +39276,451 @@ window.chara=[
           "charaProfileId": "303",
           "defaultUnlockBit": "3",
           "fusionRuleId": "0",
-          "translated": "0"
+          "translated": "1",
+        },
+        {
+          "cardId": "20050802",
+          "charaType": "1",
+          "modelId": "425",
+          "cardSubName": "安寧の大志",
+          "cardInformation": "木ノ葉隠れの里の忍。弟の縄樹を亡くした綱手が提案する新たな医療忍者制度に賛同する。彼もまた妹を亡くしており、二人は親しい間柄となる。里の皆を守りたいという志と、彼女の願いを胸に、彼は火影への道を歩む。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "0",
+          "attribute": "3",
+          "abilityId1": "2309",
+          "abilityId2": "2310",
+          "battleSkillId1": "2813",
+          "battleSkillId2": "2814",
+          "leaderSkillId": "942",
+          "runSkillId1": "0",
+          "hp": "3877",
+          "hpMax": "11630",
+          "attack": "4191",
+          "attackMax": "12573",
+          "defense": "3458",
+          "defenseMax": "10373",
+          "speed": "158",
+          "speedMax": "158",
+          "hitLot": "10000",
+          "avoidanceLot": "1535",
+          "criticalLot": "1630",
+          "criticalDamageLot": "15900",
+          "cost": "32",
+          "price": "4800",
+          "fusionExp": "3000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "52001",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "0",
+          "translated": "1",
+        },
+        {
+          "cardId": "20050806",
+          "charaType": "2",
+          "modelId": "433",
+          "cardSubName": "戦陣の舞扇姫",
+          "cardInformation": "巨大な扇を自在に操るくノ一で、砂隠れの里随一の風遁の使い手。風影である我愛羅の姉として、公私にわたって彼を補佐する。忍連合軍においては、その気風の良さで仲間を鼓舞し、先陣を馳せて鮮やかに武勇を示す。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "2",
+          "attribute": "7",
+          "abilityId1": "2319",
+          "abilityId2": "2320",
+          "battleSkillId1": "2821",
+          "battleSkillId2": "2822",
+          "leaderSkillId": "947",
+          "runSkillId1": "0",
+          "hp": "5108",
+          "hpMax": "16344",
+          "attack": "4983",
+          "attackMax": "15946",
+          "defense": "3364",
+          "defenseMax": "10763",
+          "speed": "189",
+          "speedMax": "189",
+          "hitLot": "10000",
+          "avoidanceLot": "1785",
+          "criticalLot": "1770",
+          "criticalDamageLot": "17210",
+          "cost": "40",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "1403",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "0",
+          "translated": "1",
+        },
+        {
+          "cardId": "20050807",
+          "charaType": "2",
+          "modelId": "434",
+          "cardSubName": "想い纏う砂塵",
+          "cardInformation": "忍連合軍を率いる連隊長に就任した我愛羅。禁術“穢土転生”により死者が蘇る混沌の戦場、その最前線で奮闘する。かつては自分を愛し続けるために操った砂が、今は友を、そして仲間を守るために希望と共に舞い躍る。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "4",
+          "attribute": "6",
+          "abilityId1": "2335",
+          "abilityId2": "2336",
+          "battleSkillId1": "2823",
+          "battleSkillId2": "2824",
+          "leaderSkillId": "955",
+          "runSkillId1": "0",
+          "hp": "3862",
+          "hpMax": "12358",
+          "attack": "5855",
+          "attackMax": "18736",
+          "defense": "4609",
+          "defenseMax": "14750",
+          "speed": "168",
+          "speedMax": "168",
+          "hitLot": "10000",
+          "avoidanceLot": "1800",
+          "criticalLot": "1700",
+          "criticalDamageLot": "16300",
+          "cost": "40",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "1302",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "0",
+          "translated": "1",
+        },
+        {
+          "cardId": "20050808",
+          "charaType": "8",
+          "modelId": "349",
+          "cardSubName": "痛欲の狂刃",
+          "cardInformation": "殺戮を教義とする恐るべき宗教、“ジャシン教”を信仰する忍。儀式と称し、信者の肉体を用いた禁術実験の初の成功者で、不死の肉体を持つ。現在は犯罪者組織“暁”の一員として、その狂気の殺戮嗜好を満たしている。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "4",
+          "attribute": "3",
+          "abilityId1": "2315",
+          "abilityId2": "2316",
+          "battleSkillId1": "2825",
+          "battleSkillId2": "2826",
+          "leaderSkillId": "945",
+          "runSkillId1": "0",
+          "hp": "5357",
+          "hpMax": "17142",
+          "attack": "4360",
+          "attackMax": "13952",
+          "defense": "4609",
+          "defenseMax": "14750",
+          "speed": "154",
+          "speedMax": "154",
+          "hitLot": "10000",
+          "avoidanceLot": "1800",
+          "criticalLot": "1750",
+          "criticalDamageLot": "16950",
+          "cost": "40",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "12301",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "0",
+          "translated": "1",
+        },
+        {
+          "cardId": "20050809",
+          "charaType": "8",
+          "modelId": "34",
+          "cardSubName": "媒呪ノ鉤爪",
+          "cardInformation": "強者の心臓を経絡系ごと取り込み、禁術“地怨虞”で古き時代より生き永らえてきた“暁”の老忍。体内に潜めし増殖する黒い触手は肉体の分離と結合を容易に行い蓄積された戦闘経験と併せ予測不能の攻撃を織りなす。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "4",
+          "attribute": "3",
+          "abilityId1": "2317",
+          "abilityId2": "2318",
+          "battleSkillId1": "2827",
+          "battleSkillId2": "2828",
+          "leaderSkillId": "946",
+          "runSkillId1": "0",
+          "hp": "4609",
+          "hpMax": "14750",
+          "attack": "4983",
+          "attackMax": "15946",
+          "defense": "4111",
+          "defenseMax": "13155",
+          "speed": "168",
+          "speedMax": "168",
+          "hitLot": "10000",
+          "avoidanceLot": "1775",
+          "criticalLot": "1750",
+          "criticalDamageLot": "16300",
+          "cost": "40",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "12401",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "0",
+          "translated": "1",
+        },
+        {
+          "cardId": "20050810",
+          "charaType": "1",
+          "modelId": "682",
+          "cardSubName": "豊沃の夏実",
+          "cardInformation": "真夏の海で休暇を過ごす綱手は、大胆なビキニにボディの色香で、渚の男たちをメロメロにする。だが気を付けた方が良い。半端なナンパ男には、伝説にふさわしい強烈なデコピン一発、即ノックアウトである。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "2",
+          "attribute": "2",
+          "abilityId1": "2297",
+          "abilityId2": "2298",
+          "battleSkillId1": "2829",
+          "battleSkillId2": "2830",
+          "leaderSkillId": "936",
+          "runSkillId1": "0",
+          "hp": "5980",
+          "hpMax": "19135",
+          "attack": "3986",
+          "attackMax": "12756",
+          "defense": "3488",
+          "defenseMax": "11162",
+          "speed": "210",
+          "speedMax": "210",
+          "hitLot": "10000",
+          "avoidanceLot": "1730",
+          "criticalLot": "1700",
+          "criticalDamageLot": "16430",
+          "cost": "40",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "2302",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "0",
+          "translated": "1",
+        },
+        {
+          "cardId": "20050811",
+          "charaType": "1",
+          "modelId": "684",
+          "cardSubName": "秘密の夏の静淑",
+          "cardInformation": "夏の海にやって来たシズネは、たくさん遊んで食べて、すっかりご満悦の愛豚を優しく見守る。綱手にトントン、誰かを補佐する献身ぶりは彼女の日常だが、その可憐なビキニ姿は、今が非日常であることを艶やかに示す。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "2",
+          "attribute": "2",
+          "abilityId1": "2299",
+          "abilityId2": "2300",
+          "battleSkillId1": "2831",
+          "battleSkillId2": "2832",
+          "leaderSkillId": "937",
+          "runSkillId1": "0",
+          "hp": "3986",
+          "hpMax": "12756",
+          "attack": "4734",
+          "attackMax": "15148",
+          "defense": "4734",
+          "defenseMax": "15148",
+          "speed": "196",
+          "speedMax": "196",
+          "hitLot": "10000",
+          "avoidanceLot": "1800",
+          "criticalLot": "1700",
+          "criticalDamageLot": "16300",
+          "cost": "40",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "3101",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "0",
+          "translated": "1",
+        },
+        {
+          "cardId": "20050812",
+          "charaType": "3",
+          "modelId": "380",
+          "cardSubName": "七刀を継ぐ才童",
+          "cardInformation": "霧隠れの里に伝わる忍刀“ヒラメカレイ”を扱う才能を持つ忍で、五代目水影、照美メイの護衛を務める。“血霧の里”を知らない若輩ゆえに古参の忍からは叱責を受けることもあるが、心優しき水影を守るために奮闘する。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "3",
+          "attribute": "1",
+          "abilityId1": "2325",
+          "abilityId2": "2326",
+          "battleSkillId1": "2833",
+          "battleSkillId2": "2834",
+          "leaderSkillId": "950",
+          "runSkillId1": "0",
+          "hp": "3737",
+          "hpMax": "11959",
+          "attack": "4983",
+          "attackMax": "15946",
+          "defense": "3488",
+          "defenseMax": "11162",
+          "speed": "168",
+          "speedMax": "168",
+          "hitLot": "10000",
+          "avoidanceLot": "1700",
+          "criticalLot": "1400",
+          "criticalDamageLot": "15000",
+          "cost": "40",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "20901",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "0",
+          "translated": "1",
+        },
+        {
+          "cardId": "20050813",
+          "charaType": "1",
+          "modelId": "509",
+          "cardSubName": "真なる共闘の輝き",
+          "cardInformation": "己の内に在る尾獣、九尾。その憎悪を理解し、歩み寄ってきたナルトは遂に彼の名が“九喇嘛”であることを知る。精神世界で合わせる拳は力の融合だけではない。心から互いを認め、真の絆が結ばれた瞬間でもあるのだ。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "6",
+          "attribute": "1",
+          "abilityId1": "2313",
+          "abilityId2": "2314",
+          "battleSkillId1": "2835",
+          "battleSkillId2": "2836",
+          "leaderSkillId": "944",
+          "runSkillId1": "0",
+          "hp": "4609",
+          "hpMax": "14750",
+          "attack": "4609",
+          "attackMax": "14750",
+          "defense": "4609",
+          "defenseMax": "14750",
+          "speed": "175",
+          "speedMax": "175",
+          "hitLot": "10000",
+          "avoidanceLot": "1750",
+          "criticalLot": "1750",
+          "criticalDamageLot": "17600",
+          "cost": "40",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "107",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "0",
+          "translated": "1",
+        },
+        {
+          "cardId": "20050816",
+          "charaType": "6",
+          "modelId": "406",
+          "cardSubName": "縛言の戯角",
+          "cardInformation": "“雲に二つの光あり”と、弟と共に恐れられた伝説の忍。六道仙人の血筋であり、その宝具を易々と扱う膨大なチャクラを有するが、騙し合いや卑怯な手段を得意とする。戦乱の業を体現するかのような、狡猾な忍である。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "2",
+          "attribute": "7",
+          "abilityId1": "2331",
+          "abilityId2": "2332",
+          "battleSkillId1": "2841",
+          "battleSkillId2": "2842",
+          "leaderSkillId": "953",
+          "runSkillId1": "0",
+          "hp": "4609",
+          "hpMax": "14750",
+          "attack": "5606",
+          "attackMax": "17939",
+          "defense": "3488",
+          "defenseMax": "11162",
+          "speed": "189",
+          "speedMax": "189",
+          "hitLot": "10000",
+          "avoidanceLot": "1800",
+          "criticalLot": "1800",
+          "criticalDamageLot": "17600",
+          "cost": "40",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "52101",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "0",
+          "translated": "1",
+        },
+        {
+          "cardId": "20050817",
+          "charaType": "6",
+          "modelId": "407",
+          "cardSubName": "言葉狩りの狡角",
+          "cardInformation": "雲隠れの里で伝説となった金銀兄弟の弟で、時の雷影、火影を騙し討ちにした大罪人である。六道仙人の血縁で、兄と共に九尾に食べられたが、腹中でその肉を喰らい、九尾チャクラまで得て脱出してきた怪物じみた忍。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "2",
+          "attribute": "7",
+          "abilityId1": "2333",
+          "abilityId2": "2334",
+          "battleSkillId1": "2843",
+          "battleSkillId2": "2844",
+          "leaderSkillId": "954",
+          "runSkillId1": "0",
+          "hp": "4609",
+          "hpMax": "14750",
+          "attack": "5606",
+          "attackMax": "17939",
+          "defense": "3488",
+          "defenseMax": "11162",
+          "speed": "189",
+          "speedMax": "189",
+          "hitLot": "10000",
+          "avoidanceLot": "1800",
+          "criticalLot": "1800",
+          "criticalDamageLot": "17600",
+          "cost": "40",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "52201",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "0",
+          "translated": "1",
+        },
+        {
+          "cardId": "20050818",
+          "charaType": "5",
+          "modelId": "410",
+          "cardSubName": "飄然たる岩娘",
+          "cardInformation": "岩隠れの里のくノ一。“両天秤”とあだ名された土影の祖父、オオノキに負けず劣らずの曲者。五影会談の護衛時にも、里を抜けたデイダラを“兄”と呼び慕い、彼を討ったサスケに興味を持つなど、奔放な言動を見せる。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "2",
+          "attribute": "3",
+          "abilityId1": "2327",
+          "abilityId2": "2328",
+          "battleSkillId1": "2845",
+          "battleSkillId2": "2846",
+          "leaderSkillId": "951",
+          "runSkillId1": "0",
+          "hp": "4609",
+          "hpMax": "14750",
+          "attack": "4983",
+          "attackMax": "15946",
+          "defense": "4111",
+          "defenseMax": "13155",
+          "speed": "168",
+          "speedMax": "168",
+          "hitLot": "10000",
+          "avoidanceLot": "1775",
+          "criticalLot": "1750",
+          "criticalDamageLot": "16300",
+          "cost": "40",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "21401",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "0",
+          "translated": "1",
         },
         {
           "cardId": "20050820",
@@ -38424,6 +39757,2226 @@ window.chara=[
           "charaProfileId": "112",
           "defaultUnlockBit": "3",
           "fusionRuleId": "2",
+          "translated": "1",
+        },
+        {
+          "cardId": "20050821",
+          "charaType": "1",
+          "modelId": "543",
+          "cardSubName": "陰月の転生者",
+          "cardInformation": "憎悪に囚われていたサスケだが、兄イタチの真意と愛情を知り、歴代の火影の言葉を聞いて、忍の本質と己の生き方について答えを出した。死を越えて、世界を変え得る力を授けられた彼は、胸に秘めし決断を行動で示す。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "15",
+          "attribute": "2",
+          "abilityId1": "2307",
+          "abilityId2": "2308",
+          "battleSkillId1": "2851",
+          "battleSkillId2": "2852",
+          "leaderSkillId": "941",
+          "runSkillId1": "0",
+          "hp": "12416",
+          "hpMax": "39732",
+          "attack": "13658",
+          "attackMax": "43705",
+          "defense": "8691",
+          "defenseMax": "27812",
+          "speed": "29",
+          "speedMax": "29",
+          "hitLot": "10000",
+          "avoidanceLot": "3450",
+          "criticalLot": "2850",
+          "criticalDamageLot": "24000",
+          "cost": "90",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "209",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "2",
+          "translated": "1",
+        },
+        {
+          "cardId": "20050822",
+          "charaType": "1",
+          "modelId": "643",
+          "cardSubName": "陰陽を繋ぐ想い",
+          "cardInformation": "恋する少女だったサクラは、強く在ろうと誓いを立て、苦心を経てきた。額に刻まれた類稀なる努力と才能の証は、かつての彼への恋慕と、今の想いが別格であることを示し、共に立つに相応しき実力の開花を見せつける。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "3",
+          "attribute": "3",
+          "abilityId1": "2311",
+          "abilityId2": "2312",
+          "battleSkillId1": "2853",
+          "battleSkillId2": "2854",
+          "leaderSkillId": "943",
+          "runSkillId1": "0",
+          "hp": "14900",
+          "hpMax": "47678",
+          "attack": "11175",
+          "attackMax": "35759",
+          "defense": "11175",
+          "defenseMax": "35759",
+          "speed": "190",
+          "speedMax": "190",
+          "hitLot": "10000",
+          "avoidanceLot": "3400",
+          "criticalLot": "2550",
+          "criticalDamageLot": "21400",
+          "cost": "90",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "307",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "2",
+          "translated": "1",
+        },
+        {
+          "cardId": "20050823",
+          "charaType": "99",
+          "modelId": "639",
+          "cardSubName": "叡智の仁仙",
+          "cardInformation": "大筒木カグヤの長子として、弟のハムラと共に人々を見守ってきたハゴロモ。だが、愛する者の死をきっかけに母の真意を知り翻意を決断。受け継いだ瞳力の覚醒と妙木山で身に付けた仙力で、母を止めるべく決戦に挑む。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "4",
+          "attribute": "6",
+          "abilityId1": "2303",
+          "abilityId2": "2304",
+          "battleSkillId1": "2855",
+          "battleSkillId2": "2856",
+          "leaderSkillId": "939",
+          "runSkillId1": "0",
+          "hp": "14900",
+          "hpMax": "47678",
+          "attack": "11175",
+          "attackMax": "35759",
+          "defense": "11175",
+          "defenseMax": "35759",
+          "speed": "190",
+          "speedMax": "190",
+          "hitLot": "10000",
+          "avoidanceLot": "3400",
+          "criticalLot": "2550",
+          "criticalDamageLot": "21400",
+          "cost": "90",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "14602",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "2",
+          "translated": "1",
+        },
+        {
+          "cardId": "20050824",
+          "charaType": "99",
+          "modelId": "642",
+          "cardSubName": "英武の仙弟",
+          "cardInformation": "国主である大筒木カグヤの次子。神樹のしきたりの正体を知り、兄ハゴロモと共に母を止めるべく計画を練る。一度は露見して彼女に操られるも、仙力を身に付けた兄に助けられ、共に世界の命運をかけた決着に臨む。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "4",
+          "attribute": "7",
+          "abilityId1": "2305",
+          "abilityId2": "2306",
+          "battleSkillId1": "2857",
+          "battleSkillId2": "2858",
+          "leaderSkillId": "940",
+          "runSkillId1": "0",
+          "hp": "11175",
+          "hpMax": "35759",
+          "attack": "14900",
+          "attackMax": "47678",
+          "defense": "11175",
+          "defenseMax": "35759",
+          "speed": "209",
+          "speedMax": "209",
+          "hitLot": "10000",
+          "avoidanceLot": "3200",
+          "criticalLot": "2750",
+          "criticalDamageLot": "22700",
+          "cost": "90",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "14702",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "2",
+          "translated": "1",
+        },
+        {
+          "cardId": "20050825",
+          "charaType": "99",
+          "modelId": "696",
+          "cardSubName": "根源の神眼",
+          "cardInformation": "彼方の地より、神樹の実を求めて降り立った謎の女性。不思議な力を行使して人心を惑わしたことで迫害を受けるが、目的を果たし本性を現す。土地の王と愛を育み母になるが、その思想は更なる力への渇望に歪んでいく。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "2",
+          "attribute": "2",
+          "abilityId1": "2321",
+          "abilityId2": "2322",
+          "battleSkillId1": "2817",
+          "battleSkillId2": "2818",
+          "leaderSkillId": "948",
+          "runSkillId1": "0",
+          "hp": "12416",
+          "hpMax": "39732",
+          "attack": "12416",
+          "attackMax": "39732",
+          "defense": "13658",
+          "defenseMax": "43705",
+          "speed": "238",
+          "speedMax": "238",
+          "hitLot": "10000",
+          "avoidanceLot": "3300",
+          "criticalLot": "2550",
+          "criticalDamageLot": "20100",
+          "cost": "90",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "14301",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "2",
+          "translated": "1",
+        },
+        {
+          "cardId": "20050826",
+          "charaType": "99",
+          "modelId": "658",
+          "cardSubName": "滅界の鬼眼",
+          "cardInformation": "十尾とは神樹だけではなく、カグヤ自身でもある。かつて、二人の子に分散したチャクラを取り戻そうとした彼女の意志は暴走し、世界を焼き尽くした。永き封印の時を経て甦りし終焉の女神は、再び世界を破滅へと導く。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "3",
+          "attribute": "1",
+          "abilityId1": "2323",
+          "abilityId2": "2324",
+          "battleSkillId1": "2859",
+          "battleSkillId2": "2860",
+          "leaderSkillId": "949",
+          "runSkillId1": "0",
+          "hp": "13658",
+          "hpMax": "43705",
+          "attack": "13658",
+          "attackMax": "43705",
+          "defense": "11175",
+          "defenseMax": "35759",
+          "speed": "219",
+          "speedMax": "219",
+          "hitLot": "10000",
+          "avoidanceLot": "3300",
+          "criticalLot": "2550",
+          "criticalDamageLot": "21400",
+          "cost": "90",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "14301",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "2",
+          "translated": "1",
+        },
+        {
+          "cardId": "20050901",
+          "charaType": "2",
+          "modelId": "611",
+          "cardSubName": "糸極の操者",
+          "cardInformation": "第四次忍界大戦の開戦間もない最中、各里の強者を統率する部隊長の任にカンクロウはいた。連携はおろか大戦への勝機を見出せぬ異郷の衆を、言葉という糸を以て、隙間を縫うが如く仲間の心と勝機の抜け道に糸を通す。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "3",
+          "attribute": "2",
+          "abilityId1": "2329",
+          "abilityId2": "2330",
+          "battleSkillId1": "2861",
+          "battleSkillId2": "2862",
+          "leaderSkillId": "952",
+          "runSkillId1": "0",
+          "hp": "3737",
+          "hpMax": "11959",
+          "attack": "4983",
+          "attackMax": "15946",
+          "defense": "3488",
+          "defenseMax": "11162",
+          "speed": "168",
+          "speedMax": "168",
+          "hitLot": "10000",
+          "avoidanceLot": "1700",
+          "criticalLot": "1400",
+          "criticalDamageLot": "15000",
+          "cost": "40",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "1503",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "0",
+          "translated": "1",
+        },
+        {
+          "cardId": "20050902",
+          "charaType": "1",
+          "modelId": "16",
+          "cardSubName": "カロリーの申し子",
+          "cardInformation": "木ノ葉隠れの里の秋道家の当主、チョウザの息子だが、まだ修業より食べることが大好きな少年だ。その知る人ぞ知る友達思いの優しい性格は、本人が自覚をすれば、仲間を、そして里をも守れる潜在能力を秘めている。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "0",
+          "attribute": "1",
+          "abilityId1": "2349",
+          "abilityId2": "2350",
+          "battleSkillId1": "2863",
+          "battleSkillId2": "2864",
+          "leaderSkillId": "962",
+          "runSkillId1": "0",
+          "hp": "4191",
+          "hpMax": "12573",
+          "attack": "4191",
+          "attackMax": "12573",
+          "defense": "3981",
+          "defenseMax": "11944",
+          "speed": "172",
+          "speedMax": "172",
+          "hitLot": "10000",
+          "avoidanceLot": "1460",
+          "criticalLot": "1680",
+          "criticalDamageLot": "17200",
+          "cost": "32",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "501",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "0",
+          "translated": "1",
+        },
+        {
+          "cardId": "20050904",
+          "charaType": "99",
+          "modelId": "689",
+          "cardSubName": "去りゆく戦友",
+          "cardInformation": "止められぬ死への歩みと共に、オビトは果たせなかった志を、同じ夢を見るナルトに託す。喪失からの絶望、そして虚無のままに面を付けて進む殺伐の道。救済の時を迎え、闇より還りしその心に、再び火の意志が灯る。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "2",
+          "attribute": "2",
+          "abilityId1": "2337",
+          "abilityId2": "2338",
+          "battleSkillId1": "2867",
+          "battleSkillId2": "2868",
+          "leaderSkillId": "956",
+          "runSkillId1": "0",
+          "hp": "4609",
+          "hpMax": "14750",
+          "attack": "5606",
+          "attackMax": "17939",
+          "defense": "3488",
+          "defenseMax": "11162",
+          "speed": "189",
+          "speedMax": "189",
+          "hitLot": "10000",
+          "avoidanceLot": "1800",
+          "criticalLot": "1800",
+          "criticalDamageLot": "17600",
+          "cost": "40",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "50903",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "0",
+          "translated": "1",
+        },
+        {
+          "cardId": "20050905",
+          "charaType": "7",
+          "modelId": "697",
+          "cardSubName": "輪獄の瞳標",
+          "cardInformation": "戦争で両親を失う“痛み”を経た長門は、同じ戦災孤児の弥彦、小南と共に平和のための組織“暁”を結成する。躍進する組織だが、やがて二度目の“痛み”の時が訪れる。その悲劇が、彼を絶望の破壊者へと導いていく。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "2",
+          "attribute": "2",
+          "abilityId1": "2353",
+          "abilityId2": "2354",
+          "battleSkillId1": "2869",
+          "battleSkillId2": "2870",
+          "leaderSkillId": "964",
+          "runSkillId1": "0",
+          "hp": "13658",
+          "hpMax": "43705",
+          "attack": "9933",
+          "attackMax": "31786",
+          "defense": "13658",
+          "defenseMax": "43705",
+          "speed": "190",
+          "speedMax": "190",
+          "hitLot": "10000",
+          "avoidanceLot": "3450",
+          "criticalLot": "2550",
+          "criticalDamageLot": "20100",
+          "cost": "90",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "13305",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "2",
+          "translated": "1",
+        },
+        {
+          "cardId": "20050906",
+          "charaType": "1",
+          "modelId": "253",
+          "cardSubName": "張り巡らせる影智",
+          "cardInformation": "シカマルは、奈良一族秘伝の影を操る術を、その比類なき頭脳で巧みに活かす。事前準備の周到さと臨機応変な対策は隊長格もこなせ、“猪鹿蝶”の指揮も務める。時には率先して身を挺し、抜群の成果を収める天才だ。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "9",
+          "attribute": "1",
+          "abilityId1": "2361",
+          "abilityId2": "2362",
+          "battleSkillId1": "2871",
+          "battleSkillId2": "2872",
+          "leaderSkillId": "968",
+          "runSkillId1": "0",
+          "hp": "4609",
+          "hpMax": "14750",
+          "attack": "4609",
+          "attackMax": "14750",
+          "defense": "4609",
+          "defenseMax": "14750",
+          "speed": "126",
+          "speedMax": "126",
+          "hitLot": "10000",
+          "avoidanceLot": "1850",
+          "criticalLot": "1600",
+          "criticalDamageLot": "15000",
+          "cost": "40",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "402",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "0",
+          "translated": "1",
+        },
+        {
+          "cardId": "20050907",
+          "charaType": "1",
+          "modelId": "12",
+          "cardSubName": "猛る青春の戦き",
+          "cardInformation": "熱き血潮を滾らせる木ノ葉隠れの里随一の熱血漢で、鍛え上げられた鋼の如き肉体と研ぎ澄まされた体術を駆使し戦場を駆ける。そして如何なる敵であってもその力に敬意を表し、一人の“忍”として全身全霊で相対する。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "6",
+          "attribute": "3",
+          "abilityId1": "2357",
+          "abilityId2": "2358",
+          "battleSkillId1": "2873",
+          "battleSkillId2": "2874",
+          "leaderSkillId": "966",
+          "runSkillId1": "0",
+          "hp": "10678",
+          "hpMax": "34170",
+          "attack": "8691",
+          "attackMax": "27812",
+          "defense": "9188",
+          "defenseMax": "29402",
+          "speed": "209",
+          "speedMax": "209",
+          "hitLot": "10000",
+          "avoidanceLot": "3300",
+          "criticalLot": "2500",
+          "criticalDamageLot": "19450",
+          "cost": "40",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "1603",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "0",
+          "translated": "1",
+        },
+        {
+          "cardId": "20050908",
+          "charaType": "1",
+          "modelId": "690",
+          "cardSubName": "花形女中と月夜の祝福",
+          "cardInformation": "いのは里のお茶屋の看板娘。同僚のサクラとは、料理でも接客でも競い、お客さんの人気も伯仲しているライバルだが、プライベートでは悩み相談も出来る心からの親友。だが最近、サクラは妙によそよそしくなって…！？",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "2",
+          "attribute": "2",
+          "abilityId1": "2345",
+          "abilityId2": "2346",
+          "battleSkillId1": "2875",
+          "battleSkillId2": "2876",
+          "leaderSkillId": "960",
+          "runSkillId1": "0",
+          "hp": "3986",
+          "hpMax": "12756",
+          "attack": "4734",
+          "attackMax": "15148",
+          "defense": "4734",
+          "defenseMax": "15148",
+          "speed": "196",
+          "speedMax": "196",
+          "hitLot": "10000",
+          "avoidanceLot": "1800",
+          "criticalLot": "1700",
+          "criticalDamageLot": "16300",
+          "cost": "40",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "602",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "0",
+          "translated": "1",
+        },
+        {
+          "cardId": "20050909",
+          "charaType": "1",
+          "modelId": "691",
+          "cardSubName": "人気女中と月夜の友情",
+          "cardInformation": "サクラは里のお茶屋の看板娘。同僚のいのとはお客さんからの人気を二分する好敵手だが、昔から交友のある心からの親友。来たる彼女の誕生日をお祝いするため、サクラは準備を始めるが、そう簡単には事は運ばず…！？",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "2",
+          "attribute": "1",
+          "abilityId1": "2359",
+          "abilityId2": "2360",
+          "battleSkillId1": "2877",
+          "battleSkillId2": "2878",
+          "leaderSkillId": "967",
+          "runSkillId1": "0",
+          "hp": "4983",
+          "hpMax": "15946",
+          "attack": "5980",
+          "attackMax": "19135",
+          "defense": "3364",
+          "defenseMax": "10763",
+          "speed": "209",
+          "speedMax": "209",
+          "hitLot": "10000",
+          "avoidanceLot": "1775",
+          "criticalLot": "1700",
+          "criticalDamageLot": "15000",
+          "cost": "40",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "303",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "0",
+          "translated": "1",
+        },
+        {
+          "cardId": "20050912",
+          "charaType": "1",
+          "modelId": "335",
+          "cardSubName": "規範の従忍",
+          "cardInformation": "波風ミナトの班に所属する上忍。英雄だった父の自殺により、規律を最優先するようになる。ミナトを欠いた任務にて、いがみ合っていた同班のオビトの説得により父の生き様を思い起こし、掟より仲間を守るために戦う。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "3",
+          "attribute": "3",
+          "abilityId1": "2339",
+          "abilityId2": "2340",
+          "battleSkillId1": "2883",
+          "battleSkillId2": "2884",
+          "leaderSkillId": "957",
+          "runSkillId1": "0",
+          "hp": "5357",
+          "hpMax": "17142",
+          "attack": "4360",
+          "attackMax": "13952",
+          "defense": "4609",
+          "defenseMax": "14750",
+          "speed": "154",
+          "speedMax": "154",
+          "hitLot": "10000",
+          "avoidanceLot": "1800",
+          "criticalLot": "1750",
+          "criticalDamageLot": "16950",
+          "cost": "40",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "1701",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "0",
+          "translated": "1",
+        },
+        {
+          "cardId": "20050913",
+          "charaType": "1",
+          "modelId": "517",
+          "cardSubName": "英雄への意志",
+          "cardInformation": "波風ミナト班のうちは一族の忍。同班のはたけカカシとは犬猿の仲である。作戦中に拉致されたリンの救出時、己を庇い負傷した彼を守るため、口先だけではない本当の英雄となるため、一族の証である写輪眼に目覚める。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "3",
+          "attribute": "2",
+          "abilityId1": "2341",
+          "abilityId2": "2342",
+          "battleSkillId1": "2885",
+          "battleSkillId2": "2886",
+          "leaderSkillId": "958",
+          "runSkillId1": "0",
+          "hp": "4609",
+          "hpMax": "14750",
+          "attack": "5606",
+          "attackMax": "17939",
+          "defense": "3488",
+          "defenseMax": "11162",
+          "speed": "189",
+          "speedMax": "189",
+          "hitLot": "10000",
+          "avoidanceLot": "1800",
+          "criticalLot": "1800",
+          "criticalDamageLot": "17600",
+          "cost": "40",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "50901",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "0",
+          "translated": "1",
+        },
+        {
+          "cardId": "20050914",
+          "charaType": "1",
+          "modelId": "337",
+          "cardSubName": "秘めし愛の医花",
+          "cardInformation": "波風ミナトの班の紅一点として、はたけカカシ、うちはオビトとスリーマンセルを組む医療忍者。心優しい性格で、揉めがちな二人を繋ぐ。カカシへの想いを胸に秘めるが、戦争が続く中で彼女の想いが咲く日は来るか。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "5",
+          "attribute": "3",
+          "abilityId1": "2343",
+          "abilityId2": "2344",
+          "battleSkillId1": "2887",
+          "battleSkillId2": "2888",
+          "leaderSkillId": "959",
+          "runSkillId1": "0",
+          "hp": "4983",
+          "hpMax": "15946",
+          "attack": "4111",
+          "attackMax": "13155",
+          "defense": "4609",
+          "defenseMax": "14750",
+          "speed": "182",
+          "speedMax": "182",
+          "hitLot": "10000",
+          "avoidanceLot": "1850",
+          "criticalLot": "1800",
+          "criticalDamageLot": "16300",
+          "cost": "40",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "51001",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "0",
+          "translated": "1",
+        },
+        {
+          "cardId": "20050915",
+          "charaType": "1",
+          "modelId": "565",
+          "cardSubName": "闘忍の覇者",
+          "cardInformation": "カカシは忍界に勇名を知られる忍だ。戦時においては知勇兼備の戦いで仲間を守り、平時においては抜け目なく後進を導く。常に己を戒め、遺志を宿す双眸に信念を秘める彼は、忍の鑑と呼ぶにふさわしい英雄といえる。",
+          "bookNo": "1",
+          "rare": "6",
+          "motionType": "11",
+          "attribute": "6",
+          "abilityId1": "2355",
+          "abilityId2": "2356",
+          "battleSkillId1": "2889",
+          "battleSkillId2": "2890",
+          "leaderSkillId": "965",
+          "runSkillId1": "0",
+          "hp": "10104",
+          "hpMax": "32332",
+          "attack": "12288",
+          "attackMax": "39323",
+          "defense": "7646",
+          "defenseMax": "24468",
+          "speed": "270",
+          "speedMax": "270",
+          "hitLot": "10000",
+          "avoidanceLot": "3600",
+          "criticalLot": "2700",
+          "criticalDamageLot": "20600",
+          "cost": "100",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "1706",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "1",
+          "translated": "1",
+        },
+        {
+          "cardId": "20050916",
+          "charaType": "1",
+          "modelId": "565",
+          "cardSubName": "青き雷の恭鳴",
+          "cardInformation": "オビトとの決着と和解により、自責の念から解放されたカカシに、夢を託して散った彼より受け継いだ写輪眼が双眸に宿る。第七班の隊長、“写輪眼のカカシ”に傍観は似合わない。その勇名の真の面目を見せる時が来た。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "10",
+          "attribute": "3",
+          "abilityId1": "2347",
+          "abilityId2": "2348",
+          "battleSkillId1": "2891",
+          "battleSkillId2": "2892",
+          "leaderSkillId": "961",
+          "runSkillId1": "0",
+          "hp": "12913",
+          "hpMax": "41321",
+          "attack": "12913",
+          "attackMax": "41321",
+          "defense": "11423",
+          "defenseMax": "36553",
+          "speed": "158",
+          "speedMax": "158",
+          "hitLot": "10000",
+          "avoidanceLot": "3350",
+          "criticalLot": "2650",
+          "criticalDamageLot": "21400",
+          "cost": "90",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "1707",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "2",
+          "translated": "1",
+        },
+        {
+          "cardId": "20051001",
+          "charaType": "1",
+          "modelId": "250",
+          "cardSubName": "ドタバタ忍者の収穫祭",
+          "cardInformation": "今日は木ノ葉隠れの里の収穫祭。宴に華やぐ人々に、ナルトも意外性ナンバーワンの忍として、元来の悪戯好きの気性が騒ぎだす。仮装と食欲の秋の祭りに、うずまきナルト忍法帖がドタバタの嵐を巻き起こす。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "0",
+          "attribute": "6",
+          "abilityId1": "2363",
+          "abilityId2": "2364",
+          "battleSkillId1": "2521",
+          "battleSkillId2": "2522",
+          "leaderSkillId": "969",
+          "runSkillId1": "0",
+          "hp": "3114",
+          "hpMax": "9966",
+          "attack": "6852",
+          "attackMax": "21925",
+          "defense": "1869",
+          "defenseMax": "5980",
+          "speed": "154",
+          "speedMax": "154",
+          "hitLot": "10000",
+          "avoidanceLot": "1600",
+          "criticalLot": "1700",
+          "criticalDamageLot": "15000",
+          "cost": "40",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "102",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "0",
+          "translated": "1",
+        },
+        {
+          "cardId": "20051003",
+          "charaType": "99",
+          "modelId": "575",
+          "cardSubName": "騒乱ノ鉄火",
+          "cardInformation": "戦乱を終わらせたのは、両雄の和解であった。柱間と共に一族を想い、夢を語り合った在りし日々に理想を見出し、木ノ葉隠れの里を築いた二人。だがマダラの瞳は、先にある闇の結末をも見通し、両雄は再び死闘に至る。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "9",
+          "attribute": "1",
+          "abilityId1": "2365",
+          "abilityId2": "2366",
+          "battleSkillId1": "2895",
+          "battleSkillId2": "2896",
+          "leaderSkillId": "970",
+          "runSkillId1": "0",
+          "hp": "13658",
+          "hpMax": "43705",
+          "attack": "9933",
+          "attackMax": "31786",
+          "defense": "13658",
+          "defenseMax": "43705",
+          "speed": "190",
+          "speedMax": "190",
+          "hitLot": "10000",
+          "avoidanceLot": "3450",
+          "criticalLot": "2550",
+          "criticalDamageLot": "20100",
+          "cost": "90",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "13703",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "2",
+          "translated": "1",
+        },
+        {
+          "cardId": "20051004",
+          "charaType": "1",
+          "modelId": "577",
+          "cardSubName": "Defending from Upheaval",
+          "cardInformation": "木ノ葉隠れの里の火影。傑出した才覚を発揮して一族を纏め、“忍の神”と謳われる稀世の英雄。唯一無二の秘術“木遁”の力は、忍界屈指の豪傑、うちはマダラと並び立てるほどに強力で、尾獣の脅威すらも沈黙させる。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "4",
+          "attribute": "2",
+          "abilityId1": "2381",
+          "abilityId2": "2382",
+          "battleSkillId1": "2897",
+          "battleSkillId2": "2898",
+          "leaderSkillId": "978",
+          "runSkillId1": "0",
+          "hp": "5357",
+          "hpMax": "17142",
+          "attack": "4360",
+          "attackMax": "13952",
+          "defense": "4609",
+          "defenseMax": "14750",
+          "speed": "154",
+          "speedMax": "154",
+          "hitLot": "10000",
+          "avoidanceLot": "1800",
+          "criticalLot": "1750",
+          "criticalDamageLot": "16950",
+          "cost": "40",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "1901",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "0",
+          "translated": "1",
+        },
+        {
+          "cardId": "20051005",
+          "charaType": "1",
+          "modelId": "509",
+          "cardSubName": "Glitter of Unraaveling Bonds",
+          "cardInformation": "“九喇嘛”はナルトを見続けてきた。彼の生き様、そして憎むべき自分への感情の変化を。解き放たれた封印は、人柱力と尾獣の、真の絆の証明だ。忍界を覆う危機を前に、九喇嘛との最大出力で、その忍道が輝きを放つ。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "7",
+          "attribute": "3",
+          "abilityId1": "2351",
+          "abilityId2": "2352",
+          "battleSkillId1": "2899",
+          "battleSkillId2": "2900",
+          "leaderSkillId": "963",
+          "runSkillId1": "0",
+          "hp": "12416",
+          "hpMax": "39732",
+          "attack": "12416",
+          "attackMax": "39732",
+          "defense": "12416",
+          "defenseMax": "39732",
+          "speed": "190",
+          "speedMax": "190",
+          "hitLot": "10000",
+          "avoidanceLot": "3350",
+          "criticalLot": "2650",
+          "criticalDamageLot": "21400",
+          "cost": "90",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "112",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "2",
+          "translated": "1",
+        },
+        {
+          "cardId": "20051006",
+          "charaType": "1",
+          "modelId": "355",
+          "cardSubName": "Brilliant Blink",
+          "cardInformation": "木ノ葉隠れの里のうちは一族の忍。身のこなしの速さが優れていることから、“瞬身のシスイ”の二つ名で他国の忍にも知られている。親友のイタチとは平和を願う同志であり、共に里と一族の安寧のために奔走する。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "6",
+          "attribute": "1",
+          "abilityId1": "2379",
+          "abilityId2": "2380",
+          "battleSkillId1": "2789",
+          "battleSkillId2": "2790",
+          "leaderSkillId": "977",
+          "runSkillId1": "0",
+          "hp": "3862",
+          "hpMax": "12358",
+          "attack": "5855",
+          "attackMax": "18736",
+          "defense": "4609",
+          "defenseMax": "14750",
+          "speed": "168",
+          "speedMax": "168",
+          "hitLot": "10000",
+          "avoidanceLot": "1800",
+          "criticalLot": "1700",
+          "criticalDamageLot": "16300",
+          "cost": "40",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "4101",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "0",
+          "translated": "1",
+        },
+        {
+          "cardId": "20051007",
+          "charaType": "1",
+          "modelId": "518",
+          "cardSubName": "Locked Up Mentor",
+          "cardInformation": "薬師カブトの“穢土転生”により黄泉路から現世に戻され体の自由を縛られしアスマはかつての弟子たちの前に立ち塞がる。己との戦いに迷いを捨てきれずにいる弟子らを叱咤し、ついに師を越える連携攻撃を育むに至る。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "3",
+          "attribute": "7",
+          "abilityId1": "2375",
+          "abilityId2": "2376",
+          "battleSkillId1": "2901",
+          "battleSkillId2": "2902",
+          "leaderSkillId": "975",
+          "runSkillId1": "0",
+          "hp": "4983",
+          "hpMax": "15946",
+          "attack": "4111",
+          "attackMax": "13155",
+          "defense": "4609",
+          "defenseMax": "14750",
+          "speed": "182",
+          "speedMax": "182",
+          "hitLot": "10000",
+          "avoidanceLot": "1850",
+          "criticalLot": "1800",
+          "criticalDamageLot": "16300",
+          "cost": "40",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "1803",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "0",
+          "translated": "1",
+        },
+        {
+          "cardId": "20051008",
+          "charaType": "1",
+          "modelId": "215",
+          "cardSubName": "Phantom Dream Genjutsu",
+          "cardInformation": "木ノ葉隠れの里の上忍。新たに下忍となったキバたちの所属する第八班の師。彼らの資質を見て中忍選抜試験へ推薦した慧眼の持ち主。忍としても実力を有し、教え子や里に仇なす者があれば、得意の幻術で悪夢に堕とす。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "4",
+          "attribute": "6",
+          "abilityId1": "2377",
+          "abilityId2": "2378",
+          "battleSkillId1": "2903",
+          "battleSkillId2": "2904",
+          "leaderSkillId": "976",
+          "runSkillId1": "0",
+          "hp": "3986",
+          "hpMax": "12756",
+          "attack": "4734",
+          "attackMax": "15148",
+          "defense": "4734",
+          "defenseMax": "15148",
+          "speed": "196",
+          "speedMax": "196",
+          "hitLot": "10000",
+          "avoidanceLot": "1800",
+          "criticalLot": "1700",
+          "criticalDamageLot": "16300",
+          "cost": "40",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "3301",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "0",
+          "translated": "1",
+        },
+        {
+          "cardId": "20051011",
+          "charaType": "4",
+          "modelId": "3",
+          "cardSubName": "Sly Snake's Monopoly",
+          "cardInformation": "全ての術を解明するという理想と、不滅の肉体を得るという野望を胸に、大蛇丸は断固、我が道を進む。彼の卓越した忍才ゆえの口寄せの術、“三重羅生門”は、あらゆる意志の矛先を阻み、嘲笑うかのように出で塞がる。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "7",
+          "attribute": "3",
+          "abilityId1": "2383",
+          "abilityId2": "2384",
+          "battleSkillId1": "2909",
+          "battleSkillId2": "2910",
+          "leaderSkillId": "979",
+          "runSkillId1": "0",
+          "hp": "4983",
+          "hpMax": "15946",
+          "attack": "4983",
+          "attackMax": "15946",
+          "defense": "3488",
+          "defenseMax": "11162",
+          "speed": "183",
+          "speedMax": "183",
+          "hitLot": "10000",
+          "avoidanceLot": "1825",
+          "criticalLot": "1800",
+          "criticalDamageLot": "17600",
+          "cost": "40",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "10301",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "0",
+          "translated": "1",
+        },
+        {
+          "cardId": "20051012",
+          "charaType": "99",
+          "modelId": "346",
+          "cardSubName": "Naniwabushi's Nindo",
+          "cardInformation": "演歌界の大御所で、キラービーがラップスキルに磨きをかけるために師事する忍。情念を纏わせ、曲に込められた世界観を演じ、小節をきかせて歌うべし、と彼に演歌の大事を説くが、現れた鬼鮫との戦いに巻き込まれる。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "3",
+          "attribute": "3",
+          "abilityId1": "2371",
+          "abilityId2": "2372",
+          "battleSkillId1": "2911",
+          "battleSkillId2": "2912",
+          "leaderSkillId": "973",
+          "runSkillId1": "0",
+          "hp": "4983",
+          "hpMax": "15946",
+          "attack": "4111",
+          "attackMax": "13155",
+          "defense": "4609",
+          "defenseMax": "14750",
+          "speed": "182",
+          "speedMax": "182",
+          "hitLot": "10000",
+          "avoidanceLot": "1850",
+          "criticalLot": "1800",
+          "criticalDamageLot": "16300",
+          "cost": "40",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "51101",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "0",
+          "translated": "1",
+        },
+        {
+          "cardId": "20051013",
+          "charaType": "2",
+          "modelId": "626",
+          "cardSubName": "Master of Old Puppets",
+          "cardInformation": "道を誤った孫のサソリに、敢えて彼の両親の傀儡で対峙したチヨ。“人傀儡”を造った幼少期の彼には、失った両親への純粋な想いがあった。祖母として、そして傀儡使いの先達として、チヨは命懸けで孫との操演に臨む。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "2",
+          "attribute": "2",
+          "abilityId1": "2373",
+          "abilityId2": "2374",
+          "battleSkillId1": "2913",
+          "battleSkillId2": "2914",
+          "leaderSkillId": "974",
+          "runSkillId1": "0",
+          "hp": "4609",
+          "hpMax": "14750",
+          "attack": "5606",
+          "attackMax": "17939",
+          "defense": "3488",
+          "defenseMax": "11162",
+          "speed": "189",
+          "speedMax": "189",
+          "hitLot": "10000",
+          "avoidanceLot": "1800",
+          "criticalLot": "1800",
+          "criticalDamageLot": "17600",
+          "cost": "40",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "20601",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "0",
+          "translated": "1",
+        },
+        {
+          "cardId": "20051101",
+          "charaType": "8",
+          "modelId": "255",
+          "cardSubName": "Clown Mask",
+          "cardInformation": "戦死したサソリに代わって、“暁”の構成員となった忍。猛者揃いの組織においても飄々とした振る舞いをして、ツーマンセルを組むデイダラには軽口を叩く。その奇妙な仮面には、未知の実力と不気味さが隠されている。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "0",
+          "attribute": "2",
+          "abilityId1": "2387",
+          "abilityId2": "2388",
+          "battleSkillId1": "2919",
+          "battleSkillId2": "2920",
+          "leaderSkillId": "981",
+          "runSkillId1": "0",
+          "hp": "3488",
+          "hpMax": "11162",
+          "attack": "6104",
+          "attackMax": "19533",
+          "defense": "2865",
+          "defenseMax": "9169",
+          "speed": "126",
+          "speedMax": "126",
+          "hitLot": "10000",
+          "avoidanceLot": "1650",
+          "criticalLot": "2000",
+          "criticalDamageLot": "18250",
+          "cost": "40",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "11901",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "0",
+          "translated": "1",
+        },
+        {
+          "cardId": "20051102",
+          "charaType": "1",
+          "modelId": "32",
+          "cardSubName": "Moon Reflection Blade",
+          "cardInformation": "木ノ葉隠れの里の特別上忍で、中忍試験本戦への出場を懸けた個人戦で審判を務める。常に咳き込み虚弱な印象があるが的確な判定が実力を示す。木ノ葉流剣術を修めており、有事の際に抜刀し、果敢に敵の懐に躍り込む。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "0",
+          "attribute": "1",
+          "abilityId1": "2389",
+          "abilityId2": "2390",
+          "battleSkillId1": "2921",
+          "battleSkillId2": "2922",
+          "leaderSkillId": "982",
+          "runSkillId1": "0",
+          "hp": "4715",
+          "hpMax": "14145",
+          "attack": "4191",
+          "attackMax": "12573",
+          "defense": "2619",
+          "defenseMax": "7858",
+          "speed": "145",
+          "speedMax": "145",
+          "hitLot": "10000",
+          "avoidanceLot": "1535",
+          "criticalLot": "1680",
+          "criticalDamageLot": "16550",
+          "cost": "32",
+          "price": "4800",
+          "fusionExp": "3000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "2901",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "0",
+          "translated": "1",
+        },
+        {
+          "cardId": "20051103",
+          "charaType": "8",
+          "modelId": "46",
+          "cardSubName": "Oppressive Comet",
+          "cardInformation": "“暁”のリーダー。世界征服を目論み、神を名乗る忍だが、曲者揃いの構成員をまとめるカリスマ性と、輪廻眼による恐るべき異能が、その傲慢を裏付ける。引斥の自在を誇る“天道”が、世界に痛みを告げる時が来た。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "10",
+          "attribute": "6",
+          "abilityId1": "2391",
+          "abilityId2": "2392",
+          "battleSkillId1": "2923",
+          "battleSkillId2": "2924",
+          "leaderSkillId": "983",
+          "runSkillId1": "0",
+          "hp": "3725",
+          "hpMax": "11920",
+          "attack": "12416",
+          "attackMax": "39732",
+          "defense": "6208",
+          "defenseMax": "19866",
+          "speed": "209",
+          "speedMax": "209",
+          "hitLot": "10000",
+          "avoidanceLot": "3300",
+          "criticalLot": "2550",
+          "criticalDamageLot": "21400",
+          "cost": "90",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "11802",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "2",
+          "translated": "1",
+        },
+        {
+          "cardId": "20051105",
+          "charaType": "7",
+          "modelId": "416",
+          "cardSubName": "Will to Change the World",
+          "cardInformation": "戦乱の底辺における困窮の日々が、彼に、仲間を守るため戦いを無くすという信念を持つに至らせた。自来也より修業を受け、平和のための組織“暁”を創設した彼は、同志たちと共に、理想の実現のために戦場を駆ける。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "4",
+          "attribute": "2",
+          "abilityId1": "2393",
+          "abilityId2": "2394",
+          "battleSkillId1": "2927",
+          "battleSkillId2": "2928",
+          "leaderSkillId": "984",
+          "runSkillId1": "0",
+          "hp": "4609",
+          "hpMax": "14750",
+          "attack": "5606",
+          "attackMax": "17939",
+          "defense": "3488",
+          "defenseMax": "11162",
+          "speed": "189",
+          "speedMax": "189",
+          "hitLot": "10000",
+          "avoidanceLot": "1800",
+          "criticalLot": "1800",
+          "criticalDamageLot": "17600",
+          "cost": "40",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "13202",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "0",
+          "translated": "1",
+        },
+        {
+          "cardId": "20051106",
+          "charaType": "7",
+          "modelId": "415",
+          "cardSubName": "Pair of Connected Prayer",
+          "cardInformation": "雨隠れの里で戦災孤児だった小南は、共に生きてきた弥彦の掲げる理想と、それを叶えようとするため行動する長門に希望を見出した。彼女は躍進する組織“暁”と、希望の象徴へと成長していく二人を支えることを誓う。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "2",
+          "attribute": "1",
+          "abilityId1": "2395",
+          "abilityId2": "2396",
+          "battleSkillId1": "2929",
+          "battleSkillId2": "2930",
+          "leaderSkillId": "985",
+          "runSkillId1": "0",
+          "hp": "5357",
+          "hpMax": "17142",
+          "attack": "4360",
+          "attackMax": "13952",
+          "defense": "4609",
+          "defenseMax": "14750",
+          "speed": "154",
+          "speedMax": "154",
+          "hitLot": "10000",
+          "avoidanceLot": "1800",
+          "criticalLot": "1750",
+          "criticalDamageLot": "16950",
+          "cost": "40",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "12503",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "0",
+          "translated": "1",
+        },
+        {
+          "cardId": "20051107",
+          "charaType": "7",
+          "modelId": "417",
+          "cardSubName": "Entrusted Friend's Dream",
+          "cardInformation": "長門は戦乱で家族を失い、伝説の瞳“輪廻眼”を宿す。弥彦たちに救われ、自来也の薫陶を受ける中で、二人を守る決意をした彼は、以来、弥彦の掲げた夢のための組織“暁”において、小南と共に平和のために活動する。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "5",
+          "attribute": "3",
+          "abilityId1": "2397",
+          "abilityId2": "2398",
+          "battleSkillId1": "2931",
+          "battleSkillId2": "2932",
+          "leaderSkillId": "986",
+          "runSkillId1": "0",
+          "hp": "4983",
+          "hpMax": "15946",
+          "attack": "4111",
+          "attackMax": "13155",
+          "defense": "4609",
+          "defenseMax": "14750",
+          "speed": "182",
+          "speedMax": "182",
+          "hitLot": "10000",
+          "avoidanceLot": "1850",
+          "criticalLot": "1800",
+          "criticalDamageLot": "16300",
+          "cost": "40",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "13302",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "0",
+          "translated": "1",
+        },
+        {
+          "cardId": "20051108",
+          "charaType": "8",
+          "modelId": "569",
+          "cardSubName": "Final Explosion",
+          "cardInformation": "デイダラは、爆発に芸術を見出し追究する忍である。対するはかつての芸術観を覆した同胞の弟であり、“写輪眼”を受け継ぐ者、うちはサスケ。相克の果てにデイダラは、命を懸けた究極芸術の披露を決意する。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "2",
+          "attribute": "6",
+          "abilityId1": "2399",
+          "abilityId2": "2400",
+          "battleSkillId1": "2933",
+          "battleSkillId2": "2934",
+          "leaderSkillId": "987",
+          "runSkillId1": "0",
+          "hp": "4983",
+          "hpMax": "15946",
+          "attack": "4983",
+          "attackMax": "15946",
+          "defense": "3737",
+          "defenseMax": "11959",
+          "speed": "211",
+          "speedMax": "211",
+          "hitLot": "10000",
+          "avoidanceLot": "1850",
+          "criticalLot": "1800",
+          "criticalDamageLot": "17600",
+          "cost": "40",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "12001",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "0",
+          "translated": "1",
+        },
+        {
+          "cardId": "20051109",
+          "charaType": "1",
+          "modelId": "102",
+          "cardSubName": "Handing of the Tradition",
+          "cardInformation": "破天荒な生き様だけでなく、亡き四代目火影の師としても高名な自来也。彼が新たな弟子のナルトに教えた“螺旋丸”は元々、四代目火影が遺した術である。自来也は彼の遺志と術を次代に託し、里と弟子を見守り続ける。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "9",
+          "attribute": "7",
+          "abilityId1": "2401",
+          "abilityId2": "2402",
+          "battleSkillId1": "2935",
+          "battleSkillId2": "2936",
+          "leaderSkillId": "988",
+          "runSkillId1": "0",
+          "hp": "14900",
+          "hpMax": "47678",
+          "attack": "11175",
+          "attackMax": "35759",
+          "defense": "11175",
+          "defenseMax": "35759",
+          "speed": "190",
+          "speedMax": "190",
+          "hitLot": "10000",
+          "avoidanceLot": "3400",
+          "criticalLot": "2550",
+          "criticalDamageLot": "21400",
+          "cost": "90",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "2404",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "2",
+          "translated": "1",
+        },
+        {
+          "cardId": "20051112",
+          "charaType": "1",
+          "modelId": "260",
+          "cardSubName": "Throing Handwritting",
+          "cardInformation": "暗部養成組織“根”の出身。サスケに代わり第七班に配属されたが、心無き言動で反感を買う。ナルトたちのサスケへの想いを知り、“つながり”の意味を確かめるため、彼は己の本心に従い、任務を超えて行動を起こす。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "4",
+          "attribute": "2",
+          "abilityId1": "2413",
+          "abilityId2": "2414",
+          "battleSkillId1": "2941",
+          "battleSkillId2": "2942",
+          "leaderSkillId": "994",
+          "runSkillId1": "0",
+          "hp": "3737",
+          "hpMax": "11959",
+          "attack": "5606",
+          "attackMax": "17939",
+          "defense": "4360",
+          "defenseMax": "13952",
+          "speed": "195",
+          "speedMax": "195",
+          "hitLot": "10000",
+          "avoidanceLot": "1800",
+          "criticalLot": "1800",
+          "criticalDamageLot": "17600",
+          "cost": "40",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "3701",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "0",
+          "translated": "1",
+        },
+        {
+          "cardId": "20051113",
+          "charaType": "1",
+          "modelId": "702",
+          "cardSubName": "Raging Wind Youth",
+          "cardInformation": "マイト・ガイを師に仰ぎ、“碧い野獣”の二つ名で体術の達人となることを志すロック・リー。肉体の限界を超えた戦いで、忍を続けられないほどの苦難もあったが、それも彼が真の努力家であることの証明だといえる。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "2",
+          "attribute": "6",
+          "abilityId1": "2415",
+          "abilityId2": "2416",
+          "battleSkillId1": "2943",
+          "battleSkillId2": "2944",
+          "leaderSkillId": "995",
+          "runSkillId1": "0",
+          "hp": "3737",
+          "hpMax": "11959",
+          "attack": "7475",
+          "attackMax": "23918",
+          "defense": "3114",
+          "defenseMax": "9966",
+          "speed": "217",
+          "speedMax": "217",
+          "hitLot": "10000",
+          "avoidanceLot": "1750",
+          "criticalLot": "1700",
+          "criticalDamageLot": "20200",
+          "cost": "40",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "1103",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "0",
+          "translated": "1",
+        },
+        {
+          "cardId": "20051114",
+          "charaType": "8",
+          "modelId": "317",
+          "cardSubName": "Shedding Previous Aesthetics",
+          "cardInformation": "サソリは相対するサクラの実力を認め、人の身体を棄て傀儡そのものと成ったその真の姿を露にする。自らのカラクリの身体と、内に仕込む無機なる螺旋を自在に操りサクラとチヨバア、二人への猛攻を再開する。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "4",
+          "attribute": "2",
+          "abilityId1": "2237",
+          "abilityId2": "2238",
+          "battleSkillId1": "2661",
+          "battleSkillId2": "2662",
+          "leaderSkillId": "906",
+          "runSkillId1": "0",
+          "hp": "4983",
+          "hpMax": "15946",
+          "attack": "4111",
+          "attackMax": "13155",
+          "defense": "4609",
+          "defenseMax": "14750",
+          "speed": "182",
+          "speedMax": "182",
+          "hitLot": "10000",
+          "avoidanceLot": "1850",
+          "criticalLot": "1800",
+          "criticalDamageLot": "16300",
+          "cost": "40",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "12101",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "0",
+          "translated": "1",
+        },
+        {
+          "cardId": "20051117",
+          "charaType": "1",
+          "modelId": "699",
+          "cardSubName": "Autumn Quiet Daughter",
+          "cardInformation": "任務の疲れを癒すため、温泉地にやって来たテンテン。熱血思考の師弟と、生真面目な天才の間に在る常識人としての苦労もあるだろう。ひと時の解放感を得た今の彼女を邪魔する者は、痛い目に遭っても文句は言えない。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "2",
+          "attribute": "1",
+          "abilityId1": "2403",
+          "abilityId2": "2404",
+          "battleSkillId1": "2949",
+          "battleSkillId2": "2950",
+          "leaderSkillId": "989",
+          "runSkillId1": "0",
+          "hp": "4609",
+          "hpMax": "14750",
+          "attack": "5606",
+          "attackMax": "17939",
+          "defense": "3488",
+          "defenseMax": "11162",
+          "speed": "189",
+          "speedMax": "189",
+          "hitLot": "10000",
+          "avoidanceLot": "1800",
+          "criticalLot": "1800",
+          "criticalDamageLot": "17600",
+          "cost": "40",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "1202",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "0",
+          "translated": "1",
+        },
+        {
+          "cardId": "20051118",
+          "charaType": "1",
+          "modelId": "559",
+          "cardSubName": "Dancing Autumn Breeze",
+          "cardInformation": "秋の温泉地は、美しく紅葉が色づき、格別な趣を感じさせる。騒がしい第七班の面々（主にナルト）と離れて、久し振りに休暇のサクラは、次の任務に向けてここで疲れをとることにするが…？",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "3",
+          "attribute": "3",
+          "abilityId1": "2405",
+          "abilityId2": "2406",
+          "battleSkillId1": "2951",
+          "battleSkillId2": "2952",
+          "leaderSkillId": "990",
+          "runSkillId1": "0",
+          "hp": "3862",
+          "hpMax": "12358",
+          "attack": "5855",
+          "attackMax": "18736",
+          "defense": "4609",
+          "defenseMax": "14750",
+          "speed": "168",
+          "speedMax": "168",
+          "hitLot": "10000",
+          "avoidanceLot": "1800",
+          "criticalLot": "1700",
+          "criticalDamageLot": "16300",
+          "cost": "40",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "303",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "0",
+          "translated": "1",
+        },
+        {
+          "cardId": "20051119",
+          "charaType": "1",
+          "modelId": "560",
+          "cardSubName": "Clear Autumn",
+          "cardInformation": "温泉地にやって来たヒナタ。日向宗家の者として、責任ある立場の彼女だが、ここでは皆、等しく湯に癒されたい一人の人間である。引っ込み思案な彼女だが、ここでならあの人にも自分から声がかけられるかもしれない。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "3",
+          "attribute": "2",
+          "abilityId1": "2407",
+          "abilityId2": "2408",
+          "battleSkillId1": "2953",
+          "battleSkillId2": "2954",
+          "leaderSkillId": "991",
+          "runSkillId1": "0",
+          "hp": "4983",
+          "hpMax": "15946",
+          "attack": "4111",
+          "attackMax": "13155",
+          "defense": "4609",
+          "defenseMax": "14750",
+          "speed": "182",
+          "speedMax": "182",
+          "hitLot": "10000",
+          "avoidanceLot": "1850",
+          "criticalLot": "1800",
+          "criticalDamageLot": "16300",
+          "cost": "40",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "702",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "0",
+          "translated": "1",
+        },
+        {
+          "cardId": "20051201",
+          "charaType": "1",
+          "modelId": "258",
+          "cardSubName": "Wooden Vanguard",
+          "cardInformation": "入院中のはたけカカシに代わって、第七班の隊長代行を務める“暗部”出身の忍。大蛇丸の実験によって、初代火影の細胞を埋め込まれ“木遁”を使える。温和な性格だが、隊の規律のためには恐怖による統制も辞さない。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "0",
+          "attribute": "3",
+          "abilityId1": "2411",
+          "abilityId2": "2412",
+          "battleSkillId1": "2955",
+          "battleSkillId2": "2956",
+          "leaderSkillId": "993",
+          "runSkillId1": "0",
+          "hp": "3737",
+          "hpMax": "11959",
+          "attack": "4983",
+          "attackMax": "15946",
+          "defense": "3488",
+          "defenseMax": "11162",
+          "speed": "168",
+          "speedMax": "168",
+          "hitLot": "10000",
+          "avoidanceLot": "1700",
+          "criticalLot": "1400",
+          "criticalDamageLot": "15000",
+          "cost": "40",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "3801",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "0",
+          "translated": "1",
+        },
+        {
+          "cardId": "20051202",
+          "charaType": "1",
+          "modelId": "564",
+          "cardSubName": "Virtue's Guardian",
+          "cardInformation": "幼い頃マダラと語り合った平和への夢は、千手とうちは、忍界の二強が手を取り合うことで実現した。疑心により友は去り、やがて破壊者となって現れる。柱間はようやく得た平和の礎を守るため、友を止める決断をする。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "6",
+          "attribute": "3",
+          "abilityId1": "2417",
+          "abilityId2": "2418",
+          "battleSkillId1": "2957",
+          "battleSkillId2": "2958",
+          "leaderSkillId": "996",
+          "runSkillId1": "0",
+          "hp": "13658",
+          "hpMax": "43705",
+          "attack": "13658",
+          "attackMax": "43705",
+          "defense": "9933",
+          "defenseMax": "31786",
+          "speed": "190",
+          "speedMax": "190",
+          "hitLot": "10000",
+          "avoidanceLot": "3250",
+          "criticalLot": "2750",
+          "criticalDamageLot": "22700",
+          "cost": "90",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "1903",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "2",
+          "translated": "1",
+        },
+        {
+          "cardId": "20051203",
+          "charaType": "1",
+          "modelId": "705",
+          "cardSubName": "Flying Hero's Blade",
+          "cardInformation": "“森の千手一族”の長である千手柱間の弟。冷静で合理的な性格で、寛容で理想に走りがちな兄を補佐する現実主義者。だがその心には兄と同様に、果てなく続く戦乱を終わらせ、平和を実現させたいという信念がある。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "2",
+          "attribute": "2",
+          "abilityId1": "2419",
+          "abilityId2": "2420",
+          "battleSkillId1": "2959",
+          "battleSkillId2": "2960",
+          "leaderSkillId": "997",
+          "runSkillId1": "0",
+          "hp": "4734",
+          "hpMax": "15148",
+          "attack": "6104",
+          "attackMax": "19533",
+          "defense": "3488",
+          "defenseMax": "11162",
+          "speed": "28",
+          "speedMax": "28",
+          "hitLot": "10000",
+          "avoidanceLot": "1900",
+          "criticalLot": "2000",
+          "criticalDamageLot": "20200",
+          "cost": "40",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "2001",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "0",
+          "translated": "1",
+        },
+        {
+          "cardId": "20051204",
+          "charaType": "9",
+          "modelId": "701",
+          "cardSubName": "Recollecting Giver",
+          "cardInformation": "ある寒い冬の日。奇妙な衣装を身に纏ったサスケの姿があった。全ての繋がりを断ち、復讐を果たすことにのみ固執する彼が、場違いなほど派手な格好をする理由とは。その真実は背負う袋の中にある…かもしれない。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "2",
+          "attribute": "7",
+          "abilityId1": "2421",
+          "abilityId2": "2422",
+          "battleSkillId1": "2961",
+          "battleSkillId2": "2962",
+          "leaderSkillId": "998",
+          "runSkillId1": "0",
+          "hp": "3737",
+          "hpMax": "11959",
+          "attack": "6104",
+          "attackMax": "19533",
+          "defense": "3862",
+          "defenseMax": "12358",
+          "speed": "212",
+          "speedMax": "212",
+          "hitLot": "10000",
+          "avoidanceLot": "1850",
+          "criticalLot": "1800",
+          "criticalDamageLot": "17600",
+          "cost": "40",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "210",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "0",
+          "translated": "1",
+        },
+        {
+          "cardId": "20051205",
+          "charaType": "8",
+          "modelId": "700",
+          "cardSubName": "Darkness' Gift",
+          "cardInformation": "うちはイタチは惨劇の犯人として、木ノ葉隠れの里を抜け“暁”に所属する忍である。闇に潜むべき彼が、なぜこのような目立つ衣装を纏うのか。彼はその冷徹な瞳に、奇抜な格好の真実をも秘めているのかもしれない。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "2",
+          "attribute": "6",
+          "abilityId1": "2423",
+          "abilityId2": "2424",
+          "battleSkillId1": "2963",
+          "battleSkillId2": "2964",
+          "leaderSkillId": "999",
+          "runSkillId1": "0",
+          "hp": "4734",
+          "hpMax": "15148",
+          "attack": "6104",
+          "attackMax": "19533",
+          "defense": "3488",
+          "defenseMax": "11162",
+          "speed": "28",
+          "speedMax": "28",
+          "hitLot": "10000",
+          "avoidanceLot": "1900",
+          "criticalLot": "2000",
+          "criticalDamageLot": "20200",
+          "cost": "40",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "11601",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "0",
+          "translated": "1",
+        },
+        {
+          "cardId": "20051206",
+          "charaType": "99",
+          "modelId": "588",
+          "cardSubName": "Destructive Blade",
+          "cardInformation": "うちは一族の忍。平和への道が見出せないほどの戦乱が続く中、兄のマダラと共に万華鏡写輪眼を開眼したイズナ。兄の一番の理解者であり、一族の興亡を担う忍でもある彼の瞳は、安寧の忍界を見届けることが出来るか。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "6",
+          "attribute": "7",
+          "abilityId1": "2427",
+          "abilityId2": "2428",
+          "battleSkillId1": "2965",
+          "battleSkillId2": "2966",
+          "leaderSkillId": "1001",
+          "runSkillId1": "0",
+          "hp": "4485",
+          "hpMax": "14351",
+          "attack": "4236",
+          "attackMax": "13554",
+          "defense": "5606",
+          "defenseMax": "17939",
+          "speed": "217",
+          "speedMax": "217",
+          "hitLot": "10000",
+          "avoidanceLot": "1800",
+          "criticalLot": "1800",
+          "criticalDamageLot": "16300",
+          "cost": "40",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "4701",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "0",
+          "translated": "1",
+        },
+        {
+          "cardId": "20051208",
+          "charaType": "99",
+          "modelId": "530",
+          "cardSubName": "Creation of the New World",
+          "cardInformation": "忍界において伝説を築き上げた彼をもってしても、守れなかった存在や、成し得なかった理想があった。臥薪嘗胆の時を経て、権謀術数の果てに現世に舞い戻った彼は、六道の真の力で“本当の夢”の大願成就に高揚する。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "7",
+          "attribute": "2",
+          "abilityId1": "2435",
+          "abilityId2": "2436",
+          "battleSkillId1": "2969",
+          "battleSkillId2": "2970",
+          "leaderSkillId": "1005",
+          "runSkillId1": "0",
+          "hp": "14900",
+          "hpMax": "47678",
+          "attack": "14900",
+          "attackMax": "47678",
+          "defense": "1738",
+          "defenseMax": "5562",
+          "speed": "209",
+          "speedMax": "209",
+          "hitLot": "10000",
+          "avoidanceLot": "3350",
+          "criticalLot": "2650",
+          "criticalDamageLot": "21400",
+          "cost": "90",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "13706",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "2",
+          "translated": "1",
+        },
+        {
+          "cardId": "20051210",
+          "charaType": "1",
+          "modelId": "583",
+          "cardSubName": "Gentle Twin Fist",
+          "cardInformation": "日向一族の嫡女。大戦を終えて平和に戻った里で穏やかな日々を過ごす。時を経て強さと自信を得たはずのヒナタだが、日常においては引っ込み思案な性格は相変わらず。今日は彼女の特別な日だが、愛する人は現れるか。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "4",
+          "attribute": "2",
+          "abilityId1": "2437",
+          "abilityId2": "2438",
+          "battleSkillId1": "2971",
+          "battleSkillId2": "2972",
+          "leaderSkillId": "1006",
+          "runSkillId1": "0",
+          "hp": "4734",
+          "hpMax": "15148",
+          "attack": "4236",
+          "attackMax": "13554",
+          "defense": "4485",
+          "defenseMax": "14351",
+          "speed": "203",
+          "speedMax": "203",
+          "hitLot": "10000",
+          "avoidanceLot": "1700",
+          "criticalLot": "1700",
+          "criticalDamageLot": "17600",
+          "cost": "40",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "704",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "0",
+          "translated": "1",
+        },
+        {
+          "cardId": "20051211",
+          "charaType": "1",
+          "modelId": "582",
+          "cardSubName": "Hero Who Opened the Path",
+          "cardInformation": "第四次忍界大戦において救世主となったナルト。かつて人柱力として疎まれていた彼だが今では多くの仲間がいて、大切な人もいる。愛情を示すことに不器用な彼だが、持ち前のひたむきな姿勢で、想い人に真心を示す。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "5",
+          "attribute": "1",
+          "abilityId1": "2439",
+          "abilityId2": "2440",
+          "battleSkillId1": "2973",
+          "battleSkillId2": "2974",
+          "leaderSkillId": "1007",
+          "runSkillId1": "0",
+          "hp": "4983",
+          "hpMax": "15946",
+          "attack": "4983",
+          "attackMax": "15946",
+          "defense": "4360",
+          "defenseMax": "13952",
+          "speed": "196",
+          "speedMax": "196",
+          "hitLot": "10000",
+          "avoidanceLot": "1650",
+          "criticalLot": "1900",
+          "criticalDamageLot": "16300",
+          "cost": "40",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "105",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "0",
+          "translated": "1",
+        },
+        {
+          "cardId": "20051212",
+          "charaType": "1",
+          "modelId": "448",
+          "cardSubName": "Konoha's Future",
+          "cardInformation": "ナルトと会ったその日から、同じ夢の先輩として、彼の背中を追ってきた木ノ葉丸。彼より直伝の術、“螺旋丸”は、同じ道を歩む者として、真にライバルとして認められた証でもある。里の名を授かった次世代の筆頭だ。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "2",
+          "attribute": "7",
+          "abilityId1": "2447",
+          "abilityId2": "2448",
+          "battleSkillId1": "2947",
+          "battleSkillId2": "2948",
+          "leaderSkillId": "1011",
+          "runSkillId1": "0",
+          "hp": "4983",
+          "hpMax": "15946",
+          "attack": "4360",
+          "attackMax": "13952",
+          "defense": "4983",
+          "defenseMax": "15946",
+          "speed": "175",
+          "speedMax": "175",
+          "hitLot": "10000",
+          "avoidanceLot": "1800",
+          "criticalLot": "1600",
+          "criticalDamageLot": "24100",
+          "cost": "40",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "3202",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "0",
+          "translated": "1",
+        },
+        {
+          "cardId": "20051213",
+          "charaType": "1",
+          "modelId": "698",
+          "cardSubName": "Uzumaki's Happiness",
+          "cardInformation": "新たなる年を迎え、ナルトはひとときの平和を噛みしめるが、同時に退屈を覚える。里一番のいたずら者だった男を侮ってはいけない。師匠顔負けの隈取りで、新年早々、“意外性ナンバーワン”の異名の真価を見せる。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "2",
+          "attribute": "2",
+          "abilityId1": "2429",
+          "abilityId2": "2430",
+          "battleSkillId1": "2975",
+          "battleSkillId2": "2976",
+          "leaderSkillId": "1002",
+          "runSkillId1": "0",
+          "hp": "6852",
+          "hpMax": "21925",
+          "attack": "2492",
+          "attackMax": "7973",
+          "defense": "4983",
+          "defenseMax": "15946",
+          "speed": "168",
+          "speedMax": "168",
+          "hitLot": "10000",
+          "avoidanceLot": "1850",
+          "criticalLot": "1750",
+          "criticalDamageLot": "16300",
+          "cost": "40",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "102",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "0",
+          "translated": "1",
+        },
+        {
+          "cardId": "20051214",
+          "charaType": "1",
+          "modelId": "572",
+          "cardSubName": "New Year Games",
+          "cardInformation": "独楽回しをなめてはいけない。うちは一族は忍界において屈指の戦闘集団であり、サスケもまた、その才能の血を有する天才児である。彼の天才一族としての矜持が、この新年の遊戯を闘争の場へと変えてゆく。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "3",
+          "attribute": "3",
+          "abilityId1": "2431",
+          "abilityId2": "2432",
+          "battleSkillId1": "2977",
+          "battleSkillId2": "2978",
+          "leaderSkillId": "1003",
+          "runSkillId1": "0",
+          "hp": "5108",
+          "hpMax": "16344",
+          "attack": "4983",
+          "attackMax": "15946",
+          "defense": "3364",
+          "defenseMax": "10763",
+          "speed": "189",
+          "speedMax": "189",
+          "hitLot": "10000",
+          "avoidanceLot": "1785",
+          "criticalLot": "1770",
+          "criticalDamageLot": "17210",
+          "cost": "40",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "204",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "0",
+          "translated": "1",
+        },
+        {
+          "cardId": "20051215",
+          "charaType": "1",
+          "modelId": "573",
+          "cardSubName": "Splendid New Year",
+          "cardInformation": "振袖姿で、羽根つきを楽しむ可憐な美少女くノ一…と甘くみてはいけない。緻密なチャクラコントロールを極める彼女の強力な一振りは、羽根にも絶大な破壊力を持たせるだろう。新年早々、彼女を怒らせることは禁物だ。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "4",
+          "attribute": "1",
+          "abilityId1": "2433",
+          "abilityId2": "2434",
+          "battleSkillId1": "2979",
+          "battleSkillId2": "2980",
+          "leaderSkillId": "1004",
+          "runSkillId1": "0",
+          "hp": "4734",
+          "hpMax": "15148",
+          "attack": "6229",
+          "attackMax": "19932",
+          "defense": "2492",
+          "defenseMax": "7973",
+          "speed": "189",
+          "speedMax": "189",
+          "hitLot": "10000",
+          "avoidanceLot": "1800",
+          "criticalLot": "1800",
+          "criticalDamageLot": "17600",
+          "cost": "40",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "303",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "0",
+          "translated": "1",
+        },
+        {
+          "cardId": "20051217",
+          "charaType": "99",
+          "modelId": "658",
+          "cardSubName": "Princess' Eye of Supremacy",
+          "cardInformation": "かつて世を拓き、民衆から崇拝されたカグヤだが、驕慢の果てに息子たちに封印された。遺した意志の暗躍により永劫の束縛から解き放たれた彼女に、現世への慈悲はない。十全たる神話の瞳が、次の世界への渇望に開く。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "4",
+          "attribute": "6",
+          "abilityId1": "2441",
+          "abilityId2": "2442",
+          "battleSkillId1": "2983",
+          "battleSkillId2": "2984",
+          "leaderSkillId": "1008",
+          "runSkillId1": "0",
+          "hp": "12416",
+          "hpMax": "39732",
+          "attack": "12416",
+          "attackMax": "39732",
+          "defense": "13658",
+          "defenseMax": "43705",
+          "speed": "238",
+          "speedMax": "238",
+          "hitLot": "10000",
+          "avoidanceLot": "3325",
+          "criticalLot": "2550",
+          "criticalDamageLot": "20100",
+          "cost": "90",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "14301",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "2",
+          "translated": "1",
+        },
+        {
+          "cardId": "20051218",
+          "charaType": "1",
+          "modelId": "676",
+          "cardSubName": "Aluring Ninja Scroll",
+          "cardInformation": "里一番のいたずら者として悪名を轟かせるナルト。疎まれる彼が唯一磨き続けてきたのが、グラマーな美女に変身する“おいろけの術”である。滑稽な術と思いきや意外にも、大人たちを翻弄し魅了させるスゴイ術である。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "0",
+          "attribute": "1",
+          "abilityId1": "2425",
+          "abilityId2": "2426",
+          "battleSkillId1": "2985",
+          "battleSkillId2": "2986",
+          "leaderSkillId": "1000",
+          "runSkillId1": "0",
+          "hp": "4236",
+          "hpMax": "13554",
+          "attack": "5108",
+          "attackMax": "16344",
+          "defense": "3114",
+          "defenseMax": "9966",
+          "speed": "140",
+          "speedMax": "140",
+          "hitLot": "10000",
+          "avoidanceLot": "1700",
+          "criticalLot": "1800",
+          "criticalDamageLot": "16950",
+          "cost": "40",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "101",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "0",
+          "translated": "1",
+        },
+        {
+          "cardId": "20060101",
+          "charaType": "1",
+          "modelId": "334",
+          "cardSubName": "Cuddling Love",
+          "cardInformation": "木ノ葉隠れの里の、九尾の二代目人柱力。忍者学校では男勝りで恐れられた彼女も、ミナトとの運命的な出来事を経て恋を知り、彼と幸せな家庭を築く。今は妻として、四代目火影となった夫を心から愛し、支えている。",
+          "bookNo": "1",
+          "rare": "5",
+          "motionType": "0",
+          "attribute": "1",
+          "abilityId1": "2451",
+          "abilityId2": "2452",
+          "battleSkillId1": "2989",
+          "battleSkillId2": "2990",
+          "leaderSkillId": "1013",
+          "runSkillId1": "0",
+          "hp": "3981",
+          "hpMax": "11944",
+          "attack": "3458",
+          "attackMax": "10373",
+          "defense": "3038",
+          "defenseMax": "9115",
+          "speed": "135",
+          "speedMax": "135",
+          "hitLot": "10000",
+          "avoidanceLot": "1495",
+          "criticalLot": "1480",
+          "criticalDamageLot": "15250",
+          "cost": "32",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "4301",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "0",
+          "translated": "1",
+        },
+        {
+          "cardId": "20060107",
+          "charaType": "0",
+          "modelId": "339",
+          "cardSubName": "0",
+          "cardInformation": "0",
+          "bookNo": "0",
+          "rare": "5",
+          "motionType": "4",
+          "attribute": "1",
+          "abilityId1": "2449",
+          "abilityId2": "2450",
+          "battleSkillId1": "2997",
+          "battleSkillId2": "2998",
+          "leaderSkillId": "1012",
+          "runSkillId1": "0",
+          "hp": "3737",
+          "hpMax": "11959",
+          "attack": "4983",
+          "attackMax": "15946",
+          "defense": "3737",
+          "defenseMax": "11959",
+          "speed": "199",
+          "speedMax": "199",
+          "hitLot": "10000",
+          "avoidanceLot": "1800",
+          "criticalLot": "1700",
+          "criticalDamageLot": "17600",
+          "cost": "40",
+          "price": "9600",
+          "fusionExp": "6000",
+          "fusionMaterialFlg": "0",
+          "charaProfileId": "900045",
+          "defaultUnlockBit": "3",
+          "fusionRuleId": "0",
           "translated": "1"
         }
 ]

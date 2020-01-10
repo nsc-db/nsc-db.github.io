@@ -40,6 +40,7 @@
  	<script type="text/javascript" src="../common/eng/ability.js"></script>
  	<script type="text/javascript" src="../common/eng/lead.js"></script>
  	<script type="text/javascript" src="../common/eng/key.js"></script>
+ 	<script type="text/javascript" src="../common/json/charainfo.js"></script>
  	<script type="text/javascript" src="../common/json/gear.js"></script>
  	<script type="text/javascript" src="../common/json/unique.js"></script>
  	<script type="text/javascript" src="../common/json/evo.js"></script>
@@ -166,8 +167,10 @@
 													<ul class="nav nav-nscdb" role="tablist">
 														<li class="active"><a id="skills-btn" class="active" data-toggle="tab" href="#skills">Skill</a></li>
 														<li><a id="ability-btn" data-toggle="tab" href="#ability">Ability</a></li>
+														<li class="hidden"><a id="ability-btn" data-toggle="tab" href="#potential">Potential</a></li>
 														<li class="hidden"><a id="status-btn" data-toggle="tab" href="#status">Stats</a></li>
 														<li><a id="gear-btn" data-toggle="tab" href="#gear">Gear</a></li>
+														<li><a id="info-btn" data-toggle="tab" href="#info">Animation</a></li>
 													</ul>
 												</div>
 												<div class="col-md-12">
@@ -268,6 +271,63 @@
 																</div>
 															</div>
 														</div>
+
+														<div class="tab-pane fade" id="potential">
+															<div class="row">
+																<div class="col-md-10 col-md-offset-1">
+																	<div class="base-ability">
+																		<div class="header potential">
+																			<div class="type">
+																				<h4>Potential Awakening</h4>
+																			</div>
+																			
+																			<div class="title">
+																				<h3 id="potentialtitle">Potential Awakening Earth</h3>
+																			</div>
+
+																		</div>
+																		<div class="description" style="padding: 10px">
+																			<table>
+																				<tr>
+																					<td style="width:230px" id="potential1">Protect all allies from Single target Skills</td>
+																					<td style="width:230px" id="potential2">SPD +60% if there's an enemy GK</td> 
+																				</tr>
+																				<tr>
+																					<td style="width:230px" id="potential1">Skill Damage +120%</td>
+																					<td style="width:230px" id="potential2">ATK, DEF, and SPD +25% per turn (Max 75%)</td> 
+																				</tr>
+																			</table>
+																		</div>
+																	</div>
+																</div>
+															</div>
+															<div class="row">
+																<div class="col-md-10 col-md-offset-1">
+																	<div class="base-ability">
+																		<div class="header forbidden">
+																			<div class="type">
+																				<h4>Forbidden Awakening</h4>
+																			</div>
+																			<div class="title">
+																				<h3 id="forbiddentitle">Forbidden Awakening Fire</h3>
+																			</div>
+																		</div>
+																		<div class="description" style="padding: 10px">
+																			<table>
+																				<tr>
+																					<td style="width:230px" id="forbidden1">Chakra Cost -50%</td>
+																					<td style="width:230px" id="forbidden2">SPD +40%</td> 
+																				</tr>
+																				<tr>
+																					<td style="width:230px" id="forbbidden3">Revive +1</td>
+																					<td style="width:230px" id="forbidden4">Cast Speed +1</td> 
+																				</tr>
+																			</table>
+																		</div>
+																	</div>
+																</div>
+															</div>
+														</div>
 														<div class="tab-pane fade" id="status">
 															<table class="table">
 																<thead>
@@ -329,18 +389,66 @@
 																		<td id="gear-criticalpower-five">%</td>
 																		<td id="max-criticalpower-five">%</td>
 																	</tr>
-																	<tr>
-																		<td>スキルダメージ</td>
-																		<td id="base-skilldamage-five">%</td>
-																		<td id="ability-skilldamage-five">%</td>
-																		<td id="gear-skilldamage-five">%</td>
-																		<td id="max-skilldamage-five">%</td>
-																	</tr>
 																</tbody>
 															</table>
 														</div>
 														<div class="tab-pane fade" id="gear">
 															
+														</div>
+
+														<div class="tab-pane fade" id="info">
+															<div class="row">
+																<div class="col-md-12">
+																	<div class="base-info">
+																		<div class="header cardInfo">
+																			<div class="type">
+																				<h4>Animation</h4>
+																			</div>
+																			
+																		</div>
+																		<div class="description">
+																			<iframe id="animation" width="550" height="250" src=""></iframe>
+																		</div>
+																	</div>
+																</div>
+																<!-- Pro and Con --
+																<div class="col-md-4">
+																	<div class="base-info">
+																		<div class="header pro">
+																			<div class="type">
+																				<h4>Pro</h4>
+																			</div>
+																			
+																		</div>
+																		<div class="description" style="height:125px">
+																			<p id="pro1"></p>
+																			<p id="pro2"></p>
+																			<p id="pro3"></p>
+																			<p id="pro4"></p>
+																			<p id="pro5"></p>
+																		</div>
+																	</div>
+																</div>
+
+																<div class="col-md-4">
+																	<div class="base-info">
+																		<div class="header con">
+																			<div class="type">
+																				<h4>Con</h4>
+																			</div>
+																			
+																		</div>
+																		<div class="description" style="height:97px">
+																			<p id="con1"></p>
+																			<p id="con2"></p>
+																			<p id="con3"></p>
+																			<p id="con4"></p>
+																			<p id="con5"></p>
+																		</div>
+																	</div>
+																</div>
+																-->
+															</div>
 														</div>
 													</div>
 												</div>
@@ -366,6 +474,8 @@
 														<li><a id="ability-six-btn" data-toggle="tab" href="#ability-six">Ability</a></li>
 														<li class="hidden"><a id="status-six-btn" data-toggle="tab" href="#status-six">ステータス</a></li>
 														<li><a id="gear-six-btn" data-toggle="tab" href="#gear-six">Gear</a></li>
+														<li><a id="info-six-btn" data-toggle="tab" href="#info-six">Animation</a></li>
+
 													</ul>
 												</div>
 												<div class="col-md-12">
@@ -539,6 +649,61 @@
 														</div>
 														<div class="tab-pane fade" id="gear-six">
 															
+														</div>
+
+														<div class="tab-pane fade" id="info-six">
+															<div class="row">
+																<div class="col-md-12">
+																	<div class="base-info">
+																		<div class="header cardInfo">
+																			<div class="type">
+																				<h4>Animation</h4>
+																			</div>
+																			
+																		</div>
+																		<div class="description">
+																			<iframe id="animation-six" width="550" height="250" src=""></iframe>
+																		</div>
+																	</div>
+																</div>
+																<!-- Pro and Con --
+																<div class="col-md-4">
+																	<div class="base-info">
+																		<div class="header pro">
+																			<div class="type">
+																				<h4>Pro</h4>
+																			</div>
+																			
+																		</div>
+																		<div class="description" style="height:125px">
+																			<p id="pro1"></p>
+																			<p id="pro2"></p>
+																			<p id="pro3"></p>
+																			<p id="pro4"></p>
+																			<p id="pro5"></p>
+																		</div>
+																	</div>
+																</div>
+
+																<div class="col-md-4">
+																	<div class="base-info">
+																		<div class="header con">
+																			<div class="type">
+																				<h4>Con</h4>
+																			</div>
+																			
+																		</div>
+																		<div class="description" style="height:97px">
+																			<p id="con1"></p>
+																			<p id="con2"></p>
+																			<p id="con3"></p>
+																			<p id="con4"></p>
+																			<p id="con5"></p>
+																		</div>
+																	</div>
+																</div>
+																-->
+															</div>
 														</div>
 													</div>
 												</div>
@@ -1126,7 +1291,10 @@
 					<div class="col-md-12">
 						<div class="footer">
 							<hr>
+							<p class="version">v2.1</p>
 							<p class="note">Created by Yuyya, Noobiel, Book and Achromic</p>
+							<hr>
+							<p class="disclaimer">All Assets belong to Gree</p>
 						</div>
 					</div>
 				</div>

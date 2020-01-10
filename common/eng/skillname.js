@@ -1,38 +1,31 @@
 window.skillname=[
         {
           "cardBattleSkillNameId": "1",
-          "name": "螺旋丸",
-          "eng": ""
+          "name": "螺旋丸"
         },
         {
           "cardBattleSkillNameId": "2",
-          "name": "影分身の術",
-          "eng": ""
+          "name": "影分身の術"
         },
         {
           "cardBattleSkillNameId": "3",
-          "name": "九尾の力",
-          "eng": ""
+          "name": "九尾の力"
         },
         {
           "cardBattleSkillNameId": "4",
-          "name": "風魔手裏剣",
-          "eng": ""
+          "name": "風魔手裏剣"
         },
         {
           "cardBattleSkillNameId": "5",
-          "name": "火遁・豪火球の術",
-          "eng": ""
+          "name": "火遁・豪火球の術"
         },
         {
           "cardBattleSkillNameId": "6",
-          "name": "千鳥",
-          "eng": ""
+          "name": "千鳥"
         },
         {
           "cardBattleSkillNameId": "7",
-          "name": "写輪眼",
-          "eng": ""
+          "name": "写輪眼"
         },
         {
           "cardBattleSkillNameId": "8",
@@ -41,28 +34,23 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "9",
-          "name": "砂の鎧",
-          "eng": ""
+          "name": "砂の鎧"
         },
         {
           "cardBattleSkillNameId": "10",
-          "name": "砂瀑送葬",
-          "eng": ""
+          "name": "砂瀑送葬"
         },
         {
           "cardBattleSkillNameId": "11",
-          "name": "作戦立案",
-          "eng": ""
+          "name": "作戦立案"
         },
         {
           "cardBattleSkillNameId": "12",
-          "name": "影首縛りの術",
-          "eng": ""
+          "name": "影首縛りの術"
         },
         {
           "cardBattleSkillNameId": "13",
-          "name": "威圧する瞳",
-          "eng": ""
+          "name": "威圧する瞳"
         },
         {
           "cardBattleSkillNameId": "14",
@@ -71,68 +59,55 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "15",
-          "name": "内なるサクラ",
-          "eng": ""
+          "name": "内なるサクラ"
         },
         {
           "cardBattleSkillNameId": "16",
-          "name": "少女の祈り",
-          "eng": ""
+          "name": "少女の祈り"
         },
         {
           "cardBattleSkillNameId": "17",
-          "name": "土遁・黄泉沼",
-          "eng": ""
+          "name": "土遁・黄泉沼"
         },
         {
           "cardBattleSkillNameId": "18",
-          "name": "カマイタチの術",
-          "eng": ""
+          "name": "カマイタチの術"
         },
         {
           "cardBattleSkillNameId": "19",
-          "name": "木ノ葉旋風",
-          "eng": ""
+          "name": "木ノ葉旋風"
         },
         {
           "cardBattleSkillNameId": "20",
-          "name": "第三　生門…開！！",
-          "eng": ""
+          "name": "第三　生門…開！！"
         },
         {
           "cardBattleSkillNameId": "21",
-          "name": "木ノ葉剛力旋風",
-          "eng": ""
+          "name": "木ノ葉剛力旋風"
         },
         {
           "cardBattleSkillNameId": "22",
-          "name": "傀儡の術",
-          "eng": ""
+          "name": "傀儡の術"
         },
         {
           "cardBattleSkillNameId": "23",
-          "name": "通牙",
-          "eng": ""
+          "name": "通牙"
         },
         {
           "cardBattleSkillNameId": "24",
-          "name": "花手裏剣",
-          "eng": ""
+          "name": "花手裏剣"
         },
         {
           "cardBattleSkillNameId": "25",
-          "name": "蟲鎧",
-          "eng": ""
+          "name": "蟲鎧"
         },
         {
           "cardBattleSkillNameId": "26",
-          "name": "忍具口寄せ",
-          "eng": ""
+          "name": "忍具口寄せ"
         },
         {
           "cardBattleSkillNameId": "27",
-          "name": "怪力パンチ",
-          "eng": ""
+          "name": "怪力パンチ"
         },
         {
           "cardBattleSkillNameId": "28",
@@ -141,18 +116,15 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "29",
-          "name": "千本",
-          "eng": ""
+          "name": "千本"
         },
         {
           "cardBattleSkillNameId": "31",
-          "name": "自己修復",
-          "eng": ""
+          "name": "自己修復"
         },
         {
           "cardBattleSkillNameId": "32",
-          "name": "クナイ投げ",
-          "eng": ""
+          "name": "クナイ投げ"
         },
         {
           "cardBattleSkillNameId": "33",
@@ -161,8 +133,7 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "34",
-          "name": "水遁・大瀑布の術",
-          "eng": ""
+          "name": "水遁・大瀑布の術"
         },
         {
           "cardBattleSkillNameId": "35",
@@ -171,18 +142,15 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "36",
-          "name": "肉弾戦車",
-          "eng": ""
+          "name": "肉弾戦車"
         },
         {
           "cardBattleSkillNameId": "37",
-          "name": "ホウレン丸",
-          "eng": ""
+          "name": "ホウレン丸"
         },
         {
           "cardBattleSkillNameId": "38",
-          "name": "毒霧",
-          "eng": ""
+          "name": "毒霧"
         },
         {
           "cardBattleSkillNameId": "39",
@@ -191,28 +159,23 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "40",
-          "name": "飛雷神の術",
-          "eng": ""
+          "name": "飛雷神の術"
         },
         {
           "cardBattleSkillNameId": "41",
-          "name": "金剛如意投げ",
-          "eng": ""
+          "name": "金剛如意投げ"
         },
         {
           "cardBattleSkillNameId": "42",
-          "name": "手裏剣影分身の術",
-          "eng": ""
+          "name": "手裏剣影分身の術"
         },
         {
           "cardBattleSkillNameId": "43",
-          "name": "幻術",
-          "eng": ""
+          "name": "幻術"
         },
         {
           "cardBattleSkillNameId": "44",
-          "name": "チャクラ刀投げ",
-          "eng": ""
+          "name": "チャクラ刀投げ"
         },
         {
           "cardBattleSkillNameId": "45",
@@ -221,13 +184,11 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "46",
-          "name": "水遁・水鮫弾の術",
-          "eng": ""
+          "name": "水遁・水鮫弾の術"
         },
         {
           "cardBattleSkillNameId": "47",
-          "name": "身体硬化",
-          "eng": ""
+          "name": "身体硬化"
         },
         {
           "cardBattleSkillNameId": "48",
@@ -236,8 +197,7 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "49",
-          "name": "口寄せの術（マンダ）",
-          "eng": ""
+          "name": "口寄せの術（マンダ）"
         },
         {
           "cardBattleSkillNameId": "50",
@@ -246,8 +206,7 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "51",
-          "name": "土遁・土矛",
-          "eng": ""
+          "name": "土遁・土矛"
         },
         {
           "cardBattleSkillNameId": "52",
@@ -256,143 +215,115 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "61",
-          "name": "執拗な監視",
-          "eng": ""
+          "name": "執拗な監視"
         },
         {
           "cardBattleSkillNameId": "62",
-          "name": "狐理心中の術",
-          "eng": ""
+          "name": "狐理心中の術"
         },
         {
           "cardBattleSkillNameId": "66",
-          "name": "熱いまなざし",
-          "eng": ""
+          "name": "熱いまなざし"
         },
         {
           "cardBattleSkillNameId": "67",
-          "name": "迅速な判断",
-          "eng": ""
+          "name": "迅速な判断"
         },
         {
           "cardBattleSkillNameId": "68",
-          "name": "芽吹きし若葉",
-          "eng": ""
+          "name": "芽吹きし若葉"
         },
         {
           "cardBattleSkillNameId": "69",
-          "name": "叱咤激励",
-          "eng": ""
+          "name": "叱咤激励"
         },
         {
           "cardBattleSkillNameId": "71",
-          "name": "恩師の思い",
-          "eng": ""
+          "name": "恩師の思い"
         },
         {
           "cardBattleSkillNameId": "72",
-          "name": "カラス",
-          "eng": ""
+          "name": "カラス"
         },
         {
           "cardBattleSkillNameId": "73",
-          "name": "気合十分",
-          "eng": ""
+          "name": "気合十分"
         },
         {
           "cardBattleSkillNameId": "74",
-          "name": "エリートへの導き",
-          "eng": ""
+          "name": "エリートへの導き"
         },
         {
           "cardBattleSkillNameId": "75",
-          "name": "先手必勝",
-          "eng": ""
+          "name": "先手必勝"
         },
         {
           "cardBattleSkillNameId": "76",
-          "name": "絶対の忠誠心",
-          "eng": ""
+          "name": "絶対の忠誠心"
         },
         {
           "cardBattleSkillNameId": "77",
-          "name": "寄壊蟲の術",
-          "eng": ""
+          "name": "寄壊蟲の術"
         },
         {
           "cardBattleSkillNameId": "78",
-          "name": "戦術分析",
-          "eng": ""
+          "name": "戦術分析"
         },
         {
           "cardBattleSkillNameId": "79",
-          "name": "戦闘準備",
-          "eng": ""
+          "name": "戦闘準備"
         },
         {
           "cardBattleSkillNameId": "80",
-          "name": "朧分身の術",
-          "eng": ""
+          "name": "朧分身の術"
         },
         {
           "cardBattleSkillNameId": "81",
-          "name": "霞従者の術",
-          "eng": ""
+          "name": "霞従者の術"
         },
         {
           "cardBattleSkillNameId": "82",
-          "name": "水牢の術",
-          "eng": ""
+          "name": "水牢の術"
         },
         {
           "cardBattleSkillNameId": "83",
-          "name": "水遁・水陣壁",
-          "eng": ""
+          "name": "水遁・水陣壁"
         },
         {
           "cardBattleSkillNameId": "84",
-          "name": "百発百中",
-          "eng": ""
+          "name": "百発百中"
         },
         {
           "cardBattleSkillNameId": "85",
-          "name": "魔幻・此処非の術",
-          "eng": ""
+          "name": "魔幻・此処非の術"
         },
         {
           "cardBattleSkillNameId": "86",
-          "name": "フルイにかける",
-          "eng": ""
+          "name": "フルイにかける"
         },
         {
           "cardBattleSkillNameId": "87",
-          "name": "徹底的な分析",
-          "eng": ""
+          "name": "徹底的な分析"
         },
         {
           "cardBattleSkillNameId": "88",
-          "name": "視界へのフェイク",
-          "eng": ""
+          "name": "視界へのフェイク"
         },
         {
           "cardBattleSkillNameId": "89",
-          "name": "ペーパーテスト",
-          "eng": ""
+          "name": "ペーパーテスト"
         },
         {
           "cardBattleSkillNameId": "95",
-          "name": "瞬身の術",
-          "eng": ""
+          "name": "瞬身の術"
         },
         {
           "cardBattleSkillNameId": "97",
-          "name": "白眼の洞察力",
-          "eng": ""
+          "name": "白眼の洞察力"
         },
         {
           "cardBattleSkillNameId": "100",
-          "name": "邪傑の睨み",
-          "eng": ""
+          "name": "邪傑の睨み"
         },
         {
           "cardBattleSkillNameId": "102",
@@ -401,68 +332,55 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "103",
-          "name": "雷遁・偽暗",
-          "eng": ""
+          "name": "雷遁・偽暗"
         },
         {
           "cardBattleSkillNameId": "104",
-          "name": "九尾の咆哮",
-          "eng": ""
+          "name": "九尾の咆哮"
         },
         {
           "cardBattleSkillNameId": "105",
-          "name": "水遁・五食鮫",
-          "eng": ""
+          "name": "水遁・五食鮫"
         },
         {
           "cardBattleSkillNameId": "106",
-          "name": "水分身の術",
-          "eng": ""
+          "name": "水分身の術"
         },
         {
           "cardBattleSkillNameId": "108",
-          "name": "万象天引",
-          "eng": ""
+          "name": "万象天引"
         },
         {
           "cardBattleSkillNameId": "110",
-          "name": "一陣の疾風",
-          "eng": ""
+          "name": "一陣の疾風"
         },
         {
           "cardBattleSkillNameId": "112",
-          "name": "蛇睨呪縛",
-          "eng": ""
+          "name": "蛇睨呪縛"
         },
         {
           "cardBattleSkillNameId": "113",
-          "name": "桜花衝",
-          "eng": ""
+          "name": "桜花衝"
         },
         {
           "cardBattleSkillNameId": "114",
-          "name": "細患抽出の術",
-          "eng": ""
+          "name": "細患抽出の術"
         },
         {
           "cardBattleSkillNameId": "115",
-          "name": "影縫いの術",
-          "eng": ""
+          "name": "影縫いの術"
         },
         {
           "cardBattleSkillNameId": "116",
-          "name": "影真似の術",
-          "eng": ""
+          "name": "影真似の術"
         },
         {
           "cardBattleSkillNameId": "117",
-          "name": "心転身の術",
-          "eng": ""
+          "name": "心転身の術"
         },
         {
           "cardBattleSkillNameId": "118",
-          "name": "掌仙術",
-          "eng": ""
+          "name": "掌仙術"
         },
         {
           "cardBattleSkillNameId": "119",
@@ -471,238 +389,191 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "120",
-          "name": "点穴を見切る",
-          "eng": ""
+          "name": "点穴を見切る"
         },
         {
           "cardBattleSkillNameId": "121",
-          "name": "柔歩双獅拳",
-          "eng": ""
+          "name": "柔歩双獅拳"
         },
         {
           "cardBattleSkillNameId": "123",
-          "name": "忍具攻撃",
-          "eng": ""
+          "name": "忍具攻撃"
         },
         {
           "cardBattleSkillNameId": "124",
-          "name": "勝気な性格",
-          "eng": ""
+          "name": "勝気な性格"
         },
         {
           "cardBattleSkillNameId": "125",
-          "name": "忍法・超獣偽画・狛犬",
-          "eng": ""
+          "name": "忍法・超獣偽画・狛犬"
         },
         {
           "cardBattleSkillNameId": "126",
-          "name": "墨分身の術",
-          "eng": ""
+          "name": "墨分身の術"
         },
         {
           "cardBattleSkillNameId": "127",
-          "name": "木遁・樹海降誕",
-          "eng": ""
+          "name": "木遁・樹海降誕"
         },
         {
           "cardBattleSkillNameId": "128",
-          "name": "木遁・木錠壁",
-          "eng": ""
+          "name": "木遁・木錠壁"
         },
         {
           "cardBattleSkillNameId": "131",
-          "name": "流砂瀑流",
-          "eng": ""
+          "name": "流砂瀑流"
         },
         {
           "cardBattleSkillNameId": "132",
-          "name": "最硬絶対防御・守鶴の盾",
-          "eng": ""
+          "name": "最硬絶対防御・守鶴の盾"
         },
         {
           "cardBattleSkillNameId": "134",
-          "name": "透過する体",
-          "eng": ""
+          "name": "透過する体"
         },
         {
           "cardBattleSkillNameId": "135",
-          "name": "起爆粘土・C1",
-          "eng": ""
+          "name": "起爆粘土・C1"
         },
         {
           "cardBattleSkillNameId": "136",
-          "name": "地雷粘土",
-          "eng": ""
+          "name": "地雷粘土"
         },
         {
           "cardBattleSkillNameId": "137",
-          "name": "三刃の大鎌",
-          "eng": ""
+          "name": "三刃の大鎌"
         },
         {
           "cardBattleSkillNameId": "138",
-          "name": "純粋な信仰心",
-          "eng": ""
+          "name": "純粋な信仰心"
         },
         {
           "cardBattleSkillNameId": "139",
-          "name": "紙手裏剣の術",
-          "eng": ""
+          "name": "紙手裏剣の術"
         },
         {
           "cardBattleSkillNameId": "140",
-          "name": "式紙の舞",
-          "eng": ""
+          "name": "式紙の舞"
         },
         {
           "cardBattleSkillNameId": "141",
-          "name": "超回復",
-          "eng": ""
+          "name": "超回復"
         },
         {
           "cardBattleSkillNameId": "142",
-          "name": "神楽心眼",
-          "eng": ""
+          "name": "神楽心眼"
         },
         {
           "cardBattleSkillNameId": "143",
-          "name": "水鉄砲の術",
-          "eng": ""
+          "name": "水鉄砲の術"
         },
         {
           "cardBattleSkillNameId": "144",
-          "name": "水化の術",
-          "eng": ""
+          "name": "水化の術"
         },
         {
           "cardBattleSkillNameId": "145",
-          "name": "雷犂熱刀",
-          "eng": ""
+          "name": "雷犂熱刀"
         },
         {
           "cardBattleSkillNameId": "146",
-          "name": "タコ足分身",
-          "eng": ""
+          "name": "タコ足分身"
         },
         {
           "cardBattleSkillNameId": "148",
-          "name": "剛力無双",
-          "eng": ""
+          "name": "剛力無双"
         },
         {
           "cardBattleSkillNameId": "149",
-          "name": "自我の強さ",
-          "eng": ""
+          "name": "自我の強さ"
         },
         {
           "cardBattleSkillNameId": "150",
-          "name": "四脚の術",
-          "eng": ""
+          "name": "四脚の術"
         },
         {
           "cardBattleSkillNameId": "151",
-          "name": "魔幻・奈烙見の術",
-          "eng": ""
+          "name": "魔幻・奈烙見の術"
         },
         {
           "cardBattleSkillNameId": "152",
-          "name": "分身体当たり",
-          "eng": ""
+          "name": "分身体当たり"
         },
         {
           "cardBattleSkillNameId": "155",
-          "name": "柔拳",
-          "eng": ""
+          "name": "柔拳"
         },
         {
           "cardBattleSkillNameId": "156",
-          "name": "碧き猛獣",
-          "eng": ""
+          "name": "碧き猛獣"
         },
         {
           "cardBattleSkillNameId": "157",
-          "name": "碧き野獣",
-          "eng": ""
+          "name": "碧き野獣"
         },
         {
           "cardBattleSkillNameId": "158",
-          "name": "分身大爆破",
-          "eng": ""
+          "name": "分身大爆破"
         },
         {
           "cardBattleSkillNameId": "159",
-          "name": "チャクラ解剖刀",
-          "eng": ""
+          "name": "チャクラ解剖刀"
         },
         {
           "cardBattleSkillNameId": "160",
-          "name": "暴走乱撃",
-          "eng": ""
+          "name": "暴走乱撃"
         },
         {
           "cardBattleSkillNameId": "161",
-          "name": "砂分身の術",
-          "eng": ""
+          "name": "砂分身の術"
         },
         {
           "cardBattleSkillNameId": "162",
-          "name": "風遁・大突破",
-          "eng": ""
+          "name": "風遁・大突破"
         },
         {
           "cardBattleSkillNameId": "163",
-          "name": "草薙の剣",
-          "eng": ""
+          "name": "草薙の剣"
         },
         {
           "cardBattleSkillNameId": "164",
-          "name": "自分ルール",
-          "eng": ""
+          "name": "自分ルール"
         },
         {
           "cardBattleSkillNameId": "165",
-          "name": "高速体術",
-          "eng": ""
+          "name": "高速体術"
         },
         {
           "cardBattleSkillNameId": "166",
-          "name": "柔拳法",
-          "eng": ""
+          "name": "柔拳法"
         },
         {
           "cardBattleSkillNameId": "167",
-          "name": "涅槃精舎の術",
-          "eng": ""
+          "name": "涅槃精舎の術"
         },
         {
           "cardBattleSkillNameId": "168",
-          "name": "見守る心",
-          "eng": ""
+          "name": "見守る心"
         },
         {
           "cardBattleSkillNameId": "169",
-          "name": "巨大扇子",
-          "eng": ""
+          "name": "巨大扇子"
         },
         {
           "cardBattleSkillNameId": "171",
-          "name": "戦術看破",
-          "eng": ""
+          "name": "戦術看破"
         },
         {
           "cardBattleSkillNameId": "173",
-          "name": "火遁・炎弾",
-          "eng": ""
+          "name": "火遁・炎弾"
         },
         {
           "cardBattleSkillNameId": "176",
-          "name": "高速連弾",
-          "eng": ""
+          "name": "高速連弾"
         },
         {
           "cardBattleSkillNameId": "177",
-          "name": "冷静な分析",
-          "eng": ""
+          "name": "冷静な分析"
         },
         {
           "cardBattleSkillNameId": "178",
@@ -711,38 +582,31 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "179",
-          "name": "乙女の祈り",
-          "eng": ""
+          "name": "乙女の祈り"
         },
         {
           "cardBattleSkillNameId": "183",
-          "name": "魔幻・枷杭の術",
-          "eng": ""
+          "name": "魔幻・枷杭の術"
         },
         {
           "cardBattleSkillNameId": "184",
-          "name": "水遁秘術・千殺水翔",
-          "eng": ""
+          "name": "水遁秘術・千殺水翔"
         },
         {
           "cardBattleSkillNameId": "185",
-          "name": "土遁・土流壁",
-          "eng": ""
+          "name": "土遁・土流壁"
         },
         {
           "cardBattleSkillNameId": "186",
-          "name": "氷遁秘術・魔鏡氷晶",
-          "eng": ""
+          "name": "氷遁秘術・魔鏡氷晶"
         },
         {
           "cardBattleSkillNameId": "187",
-          "name": "無音殺人術",
-          "eng": ""
+          "name": "無音殺人術"
         },
         {
           "cardBattleSkillNameId": "188",
-          "name": "超倍化の術",
-          "eng": ""
+          "name": "超倍化の術"
         },
         {
           "cardBattleSkillNameId": "189",
@@ -751,48 +615,39 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "190",
-          "name": "痛天脚",
-          "eng": ""
+          "name": "痛天脚"
         },
         {
           "cardBattleSkillNameId": "191",
-          "name": "乱心衝",
-          "eng": ""
+          "name": "乱心衝"
         },
         {
           "cardBattleSkillNameId": "192",
-          "name": "忍法・創造再生",
-          "eng": ""
+          "name": "忍法・創造再生"
         },
         {
           "cardBattleSkillNameId": "193",
-          "name": "含み針",
-          "eng": ""
+          "name": "含み針"
         },
         {
           "cardBattleSkillNameId": "194",
-          "name": "幻術・黒暗行の術",
-          "eng": ""
+          "name": "幻術・黒暗行の術"
         },
         {
           "cardBattleSkillNameId": "195",
-          "name": "金縛りの術",
-          "eng": ""
+          "name": "金縛りの術"
         },
         {
           "cardBattleSkillNameId": "196",
-          "name": "千鳥流し",
-          "eng": ""
+          "name": "千鳥流し"
         },
         {
           "cardBattleSkillNameId": "197",
-          "name": "緻密な対策",
-          "eng": ""
+          "name": "緻密な対策"
         },
         {
           "cardBattleSkillNameId": "199",
-          "name": "優しき心づかい",
-          "eng": ""
+          "name": "優しき心づかい"
         },
         {
           "cardBattleSkillNameId": "200",
@@ -801,8 +656,7 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "204",
-          "name": "呪印の力",
-          "eng": ""
+          "name": "呪印の力"
         },
         {
           "cardBattleSkillNameId": "205",
@@ -811,78 +665,63 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "208",
-          "name": "IQ200の戦術",
-          "eng": ""
+          "name": "IQ200の戦術"
         },
         {
           "cardBattleSkillNameId": "209",
-          "name": "目覚める狂気",
-          "eng": ""
+          "name": "目覚める狂気"
         },
         {
           "cardBattleSkillNameId": "210",
-          "name": "火の意志",
-          "eng": ""
+          "name": "火の意志"
         },
         {
           "cardBattleSkillNameId": "211",
-          "name": "鮮やかなる策",
-          "eng": ""
+          "name": "鮮やかなる策"
         },
         {
           "cardBattleSkillNameId": "212",
-          "name": "大玉螺旋丸",
-          "eng": ""
+          "name": "大玉螺旋丸"
         },
         {
           "cardBattleSkillNameId": "228",
-          "name": "番長の気迫",
-          "eng": ""
+          "name": "番長の気迫"
         },
         {
           "cardBattleSkillNameId": "229",
-          "name": "妖桜の幻",
-          "eng": ""
+          "name": "妖桜の幻"
         },
         {
           "cardBattleSkillNameId": "230",
-          "name": "冷静沈着",
-          "eng": ""
+          "name": "冷静沈着"
         },
         {
           "cardBattleSkillNameId": "231",
-          "name": "巾着アタック",
-          "eng": ""
+          "name": "巾着アタック"
         },
         {
           "cardBattleSkillNameId": "232",
-          "name": "桜吹雪",
-          "eng": ""
+          "name": "桜吹雪"
         },
         {
           "cardBattleSkillNameId": "233",
-          "name": "ダブルサマーソルト",
-          "eng": ""
+          "name": "ダブルサマーソルト"
         },
         {
           "cardBattleSkillNameId": "234",
-          "name": "百花繚乱",
-          "eng": ""
+          "name": "百花繚乱"
         },
         {
           "cardBattleSkillNameId": "235",
-          "name": "乱れ本手裏剣",
-          "eng": ""
+          "name": "乱れ本手裏剣"
         },
         {
           "cardBattleSkillNameId": "236",
-          "name": "読書タイム",
-          "eng": ""
+          "name": "読書タイム"
         },
         {
           "cardBattleSkillNameId": "241",
-          "name": "熱血連撃",
-          "eng": ""
+          "name": "熱血連撃"
         },
         {
           "cardBattleSkillNameId": "242",
@@ -891,13 +730,11 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "243",
-          "name": "アイアンナックル",
-          "eng": ""
+          "name": "アイアンナックル"
         },
         {
           "cardBattleSkillNameId": "244",
-          "name": "男の気概",
-          "eng": ""
+          "name": "男の気概"
         },
         {
           "cardBattleSkillNameId": "245",
@@ -906,163 +743,131 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "246",
-          "name": "写輪眼の洞察力",
-          "eng": ""
+          "name": "写輪眼の洞察力"
         },
         {
           "cardBattleSkillNameId": "247",
-          "name": "熱血指導",
-          "eng": ""
+          "name": "熱血指導"
         },
         {
           "cardBattleSkillNameId": "248",
-          "name": "戦闘衝動",
-          "eng": ""
+          "name": "戦闘衝動"
         },
         {
           "cardBattleSkillNameId": "249",
-          "name": "カラクリ遊戯",
-          "eng": ""
+          "name": "カラクリ遊戯"
         },
         {
           "cardBattleSkillNameId": "252",
-          "name": "戦慄の万華鏡写輪眼",
-          "eng": ""
+          "name": "戦慄の万華鏡写輪眼"
         },
         {
           "cardBattleSkillNameId": "253",
-          "name": "痛天撃",
-          "eng": ""
+          "name": "痛天撃"
         },
         {
           "cardBattleSkillNameId": "255",
-          "name": "潜影多蛇手",
-          "eng": ""
+          "name": "潜影多蛇手"
         },
         {
           "cardBattleSkillNameId": "256",
-          "name": "禍々しい殺気",
-          "eng": ""
+          "name": "禍々しい殺気"
         },
         {
           "cardBattleSkillNameId": "257",
-          "name": "口寄せ・屋台崩しの術",
-          "eng": ""
+          "name": "口寄せ・屋台崩しの術"
         },
         {
           "cardBattleSkillNameId": "258",
-          "name": "偉大なる指導者",
-          "eng": ""
+          "name": "偉大なる指導者"
         },
         {
           "cardBattleSkillNameId": "259",
-          "name": "八卦・破山撃",
-          "eng": ""
+          "name": "八卦・破山撃"
         },
         {
           "cardBattleSkillNameId": "260",
-          "name": "全身全霊",
-          "eng": ""
+          "name": "全身全霊"
         },
         {
           "cardBattleSkillNameId": "262",
-          "name": "決死の覚悟",
-          "eng": ""
+          "name": "決死の覚悟"
         },
         {
           "cardBattleSkillNameId": "263",
-          "name": "ブーケ手裏剣乱れ撃ち",
-          "eng": ""
+          "name": "ブーケ手裏剣乱れ撃ち"
         },
         {
           "cardBattleSkillNameId": "264",
-          "name": "ブーケスマッシュ",
-          "eng": ""
+          "name": "ブーケスマッシュ"
         },
         {
           "cardBattleSkillNameId": "265",
-          "name": "三々九度",
-          "eng": ""
+          "name": "三々九度"
         },
         {
           "cardBattleSkillNameId": "267",
-          "name": "ウェディングケーキ口寄せ",
-          "eng": ""
+          "name": "ウェディングケーキ口寄せ"
         },
         {
           "cardBattleSkillNameId": "268",
-          "name": "黙れ、殺すぞ",
-          "eng": ""
+          "name": "黙れ、殺すぞ"
         },
         {
           "cardBattleSkillNameId": "269",
-          "name": "愛の八卦空掌",
-          "eng": ""
+          "name": "愛の八卦空掌"
         },
         {
           "cardBattleSkillNameId": "270",
-          "name": "ブーケトス",
-          "eng": ""
+          "name": "ブーケトス"
         },
         {
           "cardBattleSkillNameId": "271",
-          "name": "水遁・水乱波",
-          "eng": ""
+          "name": "水遁・水乱波"
         },
         {
           "cardBattleSkillNameId": "272",
-          "name": "弟子の証（弥彦）",
-          "eng": ""
+          "name": "弟子の証（弥彦）"
         },
         {
           "cardBattleSkillNameId": "273",
-          "name": "風遁・烈風掌",
-          "eng": ""
+          "name": "風遁・烈風掌"
         },
         {
           "cardBattleSkillNameId": "274",
-          "name": "弟子の証（長門）",
-          "eng": ""
+          "name": "弟子の証（長門）"
         },
         {
           "cardBattleSkillNameId": "275",
-          "name": "紙手裏剣",
-          "eng": ""
+          "name": "紙手裏剣"
         },
         {
           "cardBattleSkillNameId": "276",
-          "name": "弟子の証（小南）",
-          "eng": ""
+          "name": "弟子の証（小南）"
         },
         {
           "cardBattleSkillNameId": "283",
-          "name": "草薙の剣・空の太刀",
-          "eng": ""
+          "name": "草薙の剣・空の太刀"
         },
         {
           "cardBattleSkillNameId": "284",
-          "name": "チャクラ解剖刀・惨",
-          "eng": ""
+          "name": "チャクラ解剖刀・惨"
         },
         {
           "cardBattleSkillNameId": "285",
-          "name": "忍識札",
-          "eng": ""
+          "name": "忍識札"
         },
         {
           "cardBattleSkillNameId": "289",
-          "name": "穢土転生用の空スキル",
-          "eng": ""
+          "name": "穢土転生用の空スキル"
         },
         {
           "cardBattleSkillNameId": "290",
-          "name": "爆発する芸術",
-          "eng": ""
+          "name": "爆発する芸術"
         },
         {
           "cardBattleSkillNameId": "291",
-          "name": "芸術家魂",
-          "eng": ""
+          "name": "芸術家魂"
         },
         {
           "cardBattleSkillNameId": "292",
@@ -1071,83 +876,67 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "293",
-          "name": "猛烈なる罵倒",
-          "eng": ""
+          "name": "猛烈なる罵倒"
         },
         {
           "cardBattleSkillNameId": "294",
-          "name": "先輩への応援",
-          "eng": ""
+          "name": "先輩への応援"
         },
         {
           "cardBattleSkillNameId": "295",
-          "name": "芸術家のプライド",
-          "eng": ""
+          "name": "芸術家のプライド"
         },
         {
           "cardBattleSkillNameId": "296",
-          "name": "砂時雨",
-          "eng": ""
+          "name": "砂時雨"
         },
         {
           "cardBattleSkillNameId": "297",
-          "name": "風影の決意",
-          "eng": ""
+          "name": "風影の決意"
         },
         {
           "cardBattleSkillNameId": "298",
-          "name": "木ノ葉流・愛の鞭",
-          "eng": ""
+          "name": "木ノ葉流・愛の鞭"
         },
         {
           "cardBattleSkillNameId": "299",
-          "name": "イルカの教え",
-          "eng": ""
+          "name": "イルカの教え"
         },
         {
           "cardBattleSkillNameId": "300",
-          "name": "風影の誇り",
-          "eng": ""
+          "name": "風影の誇り"
         },
         {
           "cardBattleSkillNameId": "301",
-          "name": "砂縛牢",
-          "eng": ""
+          "name": "砂縛牢"
         },
         {
           "cardBattleSkillNameId": "302",
-          "name": "砂の繭",
-          "eng": ""
+          "name": "砂の繭"
         },
         {
           "cardBattleSkillNameId": "304",
-          "name": "黄色い閃光",
-          "eng": ""
+          "name": "黄色い閃光"
         },
         {
           "cardBattleSkillNameId": "305",
-          "name": "四代目の威厳",
-          "eng": ""
+          "name": "四代目の威厳"
         },
         {
           "cardBattleSkillNameId": "306",
-          "name": "大瀑布斬り",
-          "eng": ""
+          "name": "大瀑布斬り"
         },
         {
           "cardBattleSkillNameId": "307",
-          "name": "決意の特攻",
-          "eng": ""
+          "name": "決意の特攻"
         },
         {
           "cardBattleSkillNameId": "308",
-          "name": "魔鏡氷晶",
-          "eng": ""
+          "name": "魔鏡氷晶"
         },
         {
           "cardBattleSkillNameId": "309",
-          "name": "自己犠牲",
-          "eng": ""
+          "name": "自己犠牲"
         },
         {
           "cardBattleSkillNameId": "310",
@@ -1156,133 +945,107 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "312",
-          "name": "寄壊蟲の術・蝗",
-          "eng": ""
+          "name": "寄壊蟲の術・蝗"
         },
         {
           "cardBattleSkillNameId": "313",
-          "name": "寄壊蟲の術・繭",
-          "eng": ""
+          "name": "寄壊蟲の術・繭"
         },
         {
           "cardBattleSkillNameId": "314",
-          "name": "影首縛り・肉弾戦車",
-          "eng": ""
+          "name": "影首縛り・肉弾戦車"
         },
         {
           "cardBattleSkillNameId": "315",
-          "name": "小隊指揮",
-          "eng": ""
+          "name": "小隊指揮"
         },
         {
           "cardBattleSkillNameId": "316",
-          "name": "蝶弾爆撃",
-          "eng": ""
+          "name": "蝶弾爆撃"
         },
         {
           "cardBattleSkillNameId": "317",
-          "name": "トンガラシ丸",
-          "eng": ""
+          "name": "トンガラシ丸"
         },
         {
           "cardBattleSkillNameId": "318",
-          "name": "椿の舞",
-          "eng": ""
+          "name": "椿の舞"
         },
         {
           "cardBattleSkillNameId": "319",
-          "name": "唐松の舞",
-          "eng": ""
+          "name": "唐松の舞"
         },
         {
           "cardBattleSkillNameId": "320",
-          "name": "魔笛・夢幻音鎖",
-          "eng": ""
+          "name": "魔笛・夢幻音鎖"
         },
         {
           "cardBattleSkillNameId": "321",
-          "name": "魔笛・拡散音波",
-          "eng": ""
+          "name": "魔笛・拡散音波"
         },
         {
           "cardBattleSkillNameId": "322",
-          "name": "土遁・土陵団子",
-          "eng": ""
+          "name": "土遁・土陵団子"
         },
         {
           "cardBattleSkillNameId": "323",
-          "name": "羅漢拳・突肩",
-          "eng": ""
+          "name": "羅漢拳・突肩"
         },
         {
           "cardBattleSkillNameId": "324",
-          "name": "忍法・蜘蛛巣花",
-          "eng": ""
+          "name": "忍法・蜘蛛巣花"
         },
         {
           "cardBattleSkillNameId": "325",
-          "name": "粘金の鎧",
-          "eng": ""
+          "name": "粘金の鎧"
         },
         {
           "cardBattleSkillNameId": "326",
-          "name": "羅生門",
-          "eng": ""
+          "name": "羅生門"
         },
         {
           "cardBattleSkillNameId": "327",
-          "name": "封黒法印",
-          "eng": ""
+          "name": "封黒法印"
         },
         {
           "cardBattleSkillNameId": "328",
-          "name": "千鳥連撃",
-          "eng": ""
+          "name": "千鳥連撃"
         },
         {
           "cardBattleSkillNameId": "332",
-          "name": "魔笛・拡散衝撃波",
-          "eng": ""
+          "name": "魔笛・拡散衝撃波"
         },
         {
           "cardBattleSkillNameId": "342",
-          "name": "柳の舞",
-          "eng": ""
+          "name": "柳の舞"
         },
         {
           "cardBattleSkillNameId": "343",
-          "name": "写輪眼の脅威",
-          "eng": ""
+          "name": "写輪眼の脅威"
         },
         {
           "cardBattleSkillNameId": "344",
-          "name": "桜花衝・満開",
-          "eng": ""
+          "name": "桜花衝・満開"
         },
         {
           "cardBattleSkillNameId": "346",
-          "name": "トントン突撃！！",
-          "eng": ""
+          "name": "トントン突撃！！"
         },
         {
           "cardBattleSkillNameId": "348",
-          "name": "こっ…このヤロー！！",
-          "eng": ""
+          "name": "こっ…このヤロー！！"
         },
         {
           "cardBattleSkillNameId": "351",
-          "name": "滅多打ち",
-          "eng": ""
+          "name": "滅多打ち"
         },
         {
           "cardBattleSkillNameId": "352",
-          "name": "スイカ割り",
-          "eng": ""
+          "name": "スイカ割り"
         },
         {
           "cardBattleSkillNameId": "353",
-          "name": "魅惑のボディライン",
-          "eng": ""
+          "name": "魅惑のボディライン"
         },
         {
           "cardBattleSkillNameId": "361",
@@ -1291,38 +1054,31 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "362",
-          "name": "憎しみの写輪眼",
-          "eng": ""
+          "name": "憎しみの写輪眼"
         },
         {
           "cardBattleSkillNameId": "365",
-          "name": "雷虐水平千代舞",
-          "eng": ""
+          "name": "雷虐水平千代舞"
         },
         {
           "cardBattleSkillNameId": "367",
-          "name": "回転斬撃",
-          "eng": ""
+          "name": "回転斬撃"
         },
         {
           "cardBattleSkillNameId": "368",
-          "name": "頭八刀",
-          "eng": ""
+          "name": "頭八刀"
         },
         {
           "cardBattleSkillNameId": "369",
-          "name": "万華鏡写輪眼の脅威",
-          "eng": ""
+          "name": "万華鏡写輪眼の脅威"
         },
         {
           "cardBattleSkillNameId": "372",
-          "name": "父親への反発心",
-          "eng": ""
+          "name": "父親への反発心"
         },
         {
           "cardBattleSkillNameId": "373",
-          "name": "受け継ぎし拳",
-          "eng": ""
+          "name": "受け継ぎし拳"
         },
         {
           "cardBattleSkillNameId": "374",
@@ -1336,38 +1092,31 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "376",
-          "name": "ダブル螺旋丸",
-          "eng": ""
+          "name": "ダブル螺旋丸"
         },
         {
           "cardBattleSkillNameId": "377",
-          "name": "剣技連舞",
-          "eng": ""
+          "name": "剣技連舞"
         },
         {
           "cardBattleSkillNameId": "379",
-          "name": "これを耐えられるか…？",
-          "eng": ""
+          "name": "これを耐えられるか…？"
         },
         {
           "cardBattleSkillNameId": "384",
-          "name": "水遁・波乗りの術",
-          "eng": ""
+          "name": "水遁・波乗りの術"
         },
         {
           "cardBattleSkillNameId": "385",
-          "name": "上忍の余裕",
-          "eng": ""
+          "name": "上忍の余裕"
         },
         {
           "cardBattleSkillNameId": "386",
-          "name": "イルカ口寄せ",
-          "eng": ""
+          "name": "イルカ口寄せ"
         },
         {
           "cardBattleSkillNameId": "387",
-          "name": "監視員の怒声",
-          "eng": ""
+          "name": "監視員の怒声"
         },
         {
           "cardBattleSkillNameId": "388",
@@ -1386,48 +1135,39 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "391",
-          "name": "百戦錬磨の統率力",
-          "eng": ""
+          "name": "百戦錬磨の統率力"
         },
         {
           "cardBattleSkillNameId": "392",
-          "name": "表蓮華",
-          "eng": ""
+          "name": "表蓮華"
         },
         {
           "cardBattleSkillNameId": "393",
-          "name": "第三生門　開！！",
-          "eng": ""
+          "name": "第三生門　開！！"
         },
         {
           "cardBattleSkillNameId": "394",
-          "name": "木遁・大樹林の術",
-          "eng": ""
+          "name": "木遁・大樹林の術"
         },
         {
           "cardBattleSkillNameId": "397",
-          "name": "敵専用連撃",
-          "eng": ""
+          "name": "敵専用連撃"
         },
         {
           "cardBattleSkillNameId": "398",
-          "name": "敵専用刀攻撃",
-          "eng": ""
+          "name": "敵専用刀攻撃"
         },
         {
           "cardBattleSkillNameId": "399",
-          "name": "敵専用クナイ単体",
-          "eng": ""
+          "name": "敵専用クナイ単体"
         },
         {
           "cardBattleSkillNameId": "400",
-          "name": "敵専用クナイ全体",
-          "eng": ""
+          "name": "敵専用クナイ全体"
         },
         {
           "cardBattleSkillNameId": "407",
-          "name": "痛みを知れ",
-          "eng": ""
+          "name": "痛みを知れ"
         },
         {
           "cardBattleSkillNameId": "412",
@@ -1446,133 +1186,107 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "415",
-          "name": "超大玉螺旋丸",
-          "eng": ""
+          "name": "超大玉螺旋丸"
         },
         {
           "cardBattleSkillNameId": "416",
-          "name": "忍法・超獣戯画（鳥）",
-          "eng": ""
+          "name": "忍法・超獣戯画（鳥）"
         },
         {
           "cardBattleSkillNameId": "417",
-          "name": "悪意のない毒舌",
-          "eng": ""
+          "name": "悪意のない毒舌"
         },
         {
           "cardBattleSkillNameId": "418",
-          "name": "心乱身の術",
-          "eng": ""
+          "name": "心乱身の術"
         },
         {
           "cardBattleSkillNameId": "419",
-          "name": "忍法・月華美人",
-          "eng": ""
+          "name": "忍法・月華美人"
         },
         {
           "cardBattleSkillNameId": "420",
-          "name": "唐傘旋風撃",
-          "eng": ""
+          "name": "唐傘旋風撃"
         },
         {
           "cardBattleSkillNameId": "422",
-          "name": "口寄せの術（猿魔）",
-          "eng": ""
+          "name": "口寄せの術（猿魔）"
         },
         {
           "cardBattleSkillNameId": "423",
-          "name": "金剛牢壁",
-          "eng": ""
+          "name": "金剛牢壁"
         },
         {
           "cardBattleSkillNameId": "424",
-          "name": "黒秘技機々一発",
-          "eng": ""
+          "name": "黒秘技機々一発"
         },
         {
           "cardBattleSkillNameId": "425",
-          "name": "冷徹な心",
-          "eng": ""
+          "name": "冷徹な心"
         },
         {
           "cardBattleSkillNameId": "426",
-          "name": "水遁・爆水衝波",
-          "eng": ""
+          "name": "水遁・爆水衝波"
         },
         {
           "cardBattleSkillNameId": "428",
-          "name": "斬るのではなく…削る!!",
-          "eng": ""
+          "name": "斬るのではなく…削る!!"
         },
         {
           "cardBattleSkillNameId": "429",
-          "name": "溶遁・溶怪の術",
-          "eng": ""
+          "name": "溶遁・溶怪の術"
         },
         {
           "cardBattleSkillNameId": "431",
-          "name": "塵遁・原界剥離の術",
-          "eng": ""
+          "name": "塵遁・原界剥離の術"
         },
         {
           "cardBattleSkillNameId": "432",
-          "name": "土遁・軽重岩の術",
-          "eng": ""
+          "name": "土遁・軽重岩の術"
         },
         {
           "cardBattleSkillNameId": "433",
-          "name": "最硬絶対攻撃・守鶴の矛",
-          "eng": ""
+          "name": "最硬絶対攻撃・守鶴の矛"
         },
         {
           "cardBattleSkillNameId": "434",
-          "name": "砂隠れの長",
-          "eng": ""
+          "name": "砂隠れの長"
         },
         {
           "cardBattleSkillNameId": "435",
-          "name": "大カマイタチの術",
-          "eng": ""
+          "name": "大カマイタチの術"
         },
         {
           "cardBattleSkillNameId": "436",
-          "name": "カマタリの加護",
-          "eng": ""
+          "name": "カマタリの加護"
         },
         {
           "cardBattleSkillNameId": "437",
-          "name": "傀儡の術・カラス",
-          "eng": ""
+          "name": "傀儡の術・カラス"
         },
         {
           "cardBattleSkillNameId": "438",
-          "name": "傀儡の術・ｻﾝｼｮｳｳｵ",
-          "eng": ""
+          "name": "傀儡の術・ｻﾝｼｮｳｳｵ"
         },
         {
           "cardBattleSkillNameId": "440",
-          "name": "天下の采配",
-          "eng": ""
+          "name": "天下の采配"
         },
         {
           "cardBattleSkillNameId": "441",
-          "name": "響鳴穿",
-          "eng": ""
+          "name": "響鳴穿"
         },
         {
           "cardBattleSkillNameId": "442",
-          "name": "斬空波",
-          "eng": ""
+          "name": "斬空波"
         },
         {
           "cardBattleSkillNameId": "444",
-          "name": "魔幻・樹縛滅殺",
-          "eng": ""
+          "name": "魔幻・樹縛滅殺"
         },
         {
           "cardBattleSkillNameId": "445",
-          "name": "幻影への誘い",
-          "eng": ""
+          "name": "幻影への誘い"
         },
         {
           "cardBattleSkillNameId": "449",
@@ -1581,13 +1295,11 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "451",
-          "name": "母親の一撃",
-          "eng": ""
+          "name": "母親の一撃"
         },
         {
           "cardBattleSkillNameId": "452",
-          "name": "赤い血潮のハバネロ",
-          "eng": ""
+          "name": "赤い血潮のハバネロ"
         },
         {
           "cardBattleSkillNameId": "453",
@@ -1601,58 +1313,47 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "456",
-          "name": "雷光斬り",
-          "eng": ""
+          "name": "雷光斬り"
         },
         {
           "cardBattleSkillNameId": "458",
-          "name": "熱き志",
-          "eng": ""
+          "name": "熱き志"
         },
         {
           "cardBattleSkillNameId": "461",
-          "name": "傀儡尻尾",
-          "eng": ""
+          "name": "傀儡尻尾"
         },
         {
           "cardBattleSkillNameId": "462",
-          "name": "仕込み千本",
-          "eng": ""
+          "name": "仕込み千本"
         },
         {
           "cardBattleSkillNameId": "463",
-          "name": "猛毒霧",
-          "eng": ""
+          "name": "猛毒霧"
         },
         {
           "cardBattleSkillNameId": "466",
-          "name": "永久の美",
-          "eng": ""
+          "name": "永久の美"
         },
         {
           "cardBattleSkillNameId": "467",
-          "name": "影分身十文字斬り",
-          "eng": ""
+          "name": "影分身十文字斬り"
         },
         {
           "cardBattleSkillNameId": "468",
-          "name": "武者震い",
-          "eng": ""
+          "name": "武者震い"
         },
         {
           "cardBattleSkillNameId": "469",
-          "name": "乙女のプライド",
-          "eng": ""
+          "name": "乙女のプライド"
         },
         {
           "cardBattleSkillNameId": "472",
-          "name": "火炎放射",
-          "eng": ""
+          "name": "火炎放射"
         },
         {
           "cardBattleSkillNameId": "473",
-          "name": "カラクリ滑空",
-          "eng": ""
+          "name": "カラクリ滑空"
         },
         {
           "cardBattleSkillNameId": "474",
@@ -1661,8 +1362,7 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "475",
-          "name": "熱血青春指導",
-          "eng": ""
+          "name": "熱血青春指導"
         },
         {
           "cardBattleSkillNameId": "476",
@@ -1671,173 +1371,139 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "477",
-          "name": "第五杜門　開！！",
-          "eng": ""
+          "name": "第五杜門　開！！"
         },
         {
           "cardBattleSkillNameId": "478",
-          "name": "回天",
-          "eng": ""
+          "name": "回天"
         },
         {
           "cardBattleSkillNameId": "480",
-          "name": "起爆鉄球",
-          "eng": ""
+          "name": "起爆鉄球"
         },
         {
           "cardBattleSkillNameId": "481",
-          "name": "鉄球乱舞",
-          "eng": ""
+          "name": "鉄球乱舞"
         },
         {
           "cardBattleSkillNameId": "482",
-          "name": "おいろけの術",
-          "eng": ""
+          "name": "おいろけの術"
         },
         {
           "cardBattleSkillNameId": "483",
-          "name": "ナルトスキル2",
-          "eng": ""
+          "name": "ナルトスキル2"
         },
         {
           "cardBattleSkillNameId": "484",
-          "name": "蝦蟇油弾",
-          "eng": ""
+          "name": "蝦蟇油弾"
         },
         {
           "cardBattleSkillNameId": "485",
-          "name": "結界・天蓋方陣",
-          "eng": ""
+          "name": "結界・天蓋方陣"
         },
         {
           "cardBattleSkillNameId": "486",
-          "name": "双昇龍",
-          "eng": ""
+          "name": "双昇龍"
         },
         {
           "cardBattleSkillNameId": "487",
-          "name": "必殺必中",
-          "eng": ""
+          "name": "必殺必中"
         },
         {
           "cardBattleSkillNameId": "488",
-          "name": "仙法　超大玉螺旋丸",
-          "eng": ""
+          "name": "仙法　超大玉螺旋丸"
         },
         {
           "cardBattleSkillNameId": "489",
-          "name": "燃ゆる意志",
-          "eng": ""
+          "name": "燃ゆる意志"
         },
         {
           "cardBattleSkillNameId": "490",
-          "name": "火炎放射",
-          "eng": ""
+          "name": "火炎放射"
         },
         {
           "cardBattleSkillNameId": "491",
-          "name": "砂鉄結襲",
-          "eng": ""
+          "name": "砂鉄結襲"
         },
         {
           "cardBattleSkillNameId": "492",
-          "name": "影真似の術",
-          "eng": ""
+          "name": "影真似の術"
         },
         {
           "cardBattleSkillNameId": "493",
-          "name": "カラクリ遊戯",
-          "eng": ""
+          "name": "カラクリ遊戯"
         },
         {
           "cardBattleSkillNameId": "494",
-          "name": "戦術看破",
-          "eng": ""
+          "name": "戦術看破"
         },
         {
           "cardBattleSkillNameId": "495",
-          "name": "第一開門…開！！",
-          "eng": ""
+          "name": "第一開門…開！！"
         },
         {
           "cardBattleSkillNameId": "496",
-          "name": "第五杜門…開！！",
-          "eng": ""
+          "name": "第五杜門…開！！"
         },
         {
           "cardBattleSkillNameId": "499",
-          "name": "第一開門…開！！",
-          "eng": ""
+          "name": "第一開門…開！！"
         },
         {
           "cardBattleSkillNameId": "500",
-          "name": "第五杜門…開！！",
-          "eng": ""
+          "name": "第五杜門…開！！"
         },
         {
           "cardBattleSkillNameId": "502",
-          "name": "風魔手裏剣・影風車",
-          "eng": ""
+          "name": "風魔手裏剣・影風車"
         },
         {
           "cardBattleSkillNameId": "503",
-          "name": "千鳥連弾",
-          "eng": ""
+          "name": "千鳥連弾"
         },
         {
           "cardBattleSkillNameId": "504",
-          "name": "忌まわしき千鳥",
-          "eng": ""
+          "name": "忌まわしき千鳥"
         },
         {
           "cardBattleSkillNameId": "509",
-          "name": "クナイ投げ",
-          "eng": ""
+          "name": "クナイ投げ"
         },
         {
           "cardBattleSkillNameId": "510",
-          "name": "三宝吸潰",
-          "eng": ""
+          "name": "三宝吸潰"
         },
         {
           "cardBattleSkillNameId": "511",
-          "name": "機甲盾封",
-          "eng": ""
+          "name": "機甲盾封"
         },
         {
           "cardBattleSkillNameId": "512",
-          "name": "操演・人身冴功",
-          "eng": ""
+          "name": "操演・人身冴功"
         },
         {
           "cardBattleSkillNameId": "513",
-          "name": "雷我爆弾",
-          "eng": ""
+          "name": "雷我爆弾"
         },
         {
           "cardBattleSkillNameId": "514",
-          "name": "雷遁チャクラモード",
-          "eng": ""
+          "name": "雷遁チャクラモード"
         },
         {
           "cardBattleSkillNameId": "515",
-          "name": "超ビブラート雷遁刀",
-          "eng": ""
+          "name": "超ビブラート雷遁刀"
         },
         {
           "cardBattleSkillNameId": "516",
-          "name": "絶牛雷犂熱刀",
-          "eng": ""
+          "name": "絶牛雷犂熱刀"
         },
         {
           "cardBattleSkillNameId": "520",
-          "name": "操演・人身冴功",
-          "eng": ""
+          "name": "操演・人身冴功"
         },
         {
           "cardBattleSkillNameId": "521",
-          "name": "己生転生",
-          "eng": ""
+          "name": "己生転生"
         },
         {
           "cardBattleSkillNameId": "525",
@@ -1846,8 +1512,7 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "527",
-          "name": "桜花演舞衝",
-          "eng": ""
+          "name": "桜花演舞衝"
         },
         {
           "cardBattleSkillNameId": "529",
@@ -1856,33 +1521,27 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "530",
-          "name": "芸術家魂",
-          "eng": ""
+          "name": "芸術家魂"
         },
         {
           "cardBattleSkillNameId": "531",
-          "name": "三宝吸潰",
-          "eng": ""
+          "name": "三宝吸潰"
         },
         {
           "cardBattleSkillNameId": "532",
-          "name": "機甲盾封",
-          "eng": ""
+          "name": "機甲盾封"
         },
         {
           "cardBattleSkillNameId": "533",
-          "name": "千鳥流し",
-          "eng": ""
+          "name": "千鳥流し"
         },
         {
           "cardBattleSkillNameId": "534",
-          "name": "千鳥鋭槍",
-          "eng": ""
+          "name": "千鳥鋭槍"
         },
         {
           "cardBattleSkillNameId": "535",
-          "name": "千鳥刀",
-          "eng": ""
+          "name": "千鳥刀"
         },
         {
           "cardBattleSkillNameId": "536",
@@ -1901,8 +1560,7 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "539",
-          "name": "雷遁・黒斑差",
-          "eng": ""
+          "name": "雷遁・黒斑差"
         },
         {
           "cardBattleSkillNameId": "540",
@@ -1911,68 +1569,55 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "552",
-          "name": "神の裁きが下るぜ",
-          "eng": ""
+          "name": "神の裁きが下るぜ"
         },
         {
           "cardBattleSkillNameId": "553",
-          "name": "オレの儀式用だ",
-          "eng": ""
+          "name": "オレの儀式用だ"
         },
         {
           "cardBattleSkillNameId": "557",
-          "name": "ジャシン教の狂信者",
-          "eng": ""
+          "name": "ジャシン教の狂信者"
         },
         {
           "cardBattleSkillNameId": "558",
-          "name": "呪印解放",
-          "eng": ""
+          "name": "呪印解放"
         },
         {
           "cardBattleSkillNameId": "559",
-          "name": "お前は死なせない…",
-          "eng": ""
+          "name": "お前は死なせない…"
         },
         {
           "cardBattleSkillNameId": "560",
-          "name": "恐るべき力",
-          "eng": ""
+          "name": "恐るべき力"
         },
         {
           "cardBattleSkillNameId": "562",
-          "name": "水遁・豪水腕の術",
-          "eng": ""
+          "name": "水遁・豪水腕の術"
         },
         {
           "cardBattleSkillNameId": "563",
-          "name": "危機察知能力",
-          "eng": ""
+          "name": "危機察知能力"
         },
         {
           "cardBattleSkillNameId": "564",
-          "name": "ウチに噛みつけ！！",
-          "eng": ""
+          "name": "ウチに噛みつけ！！"
         },
         {
           "cardBattleSkillNameId": "566",
-          "name": "水遁・大鮫弾の術",
-          "eng": ""
+          "name": "水遁・大鮫弾の術"
         },
         {
           "cardBattleSkillNameId": "567",
-          "name": "水遁・大爆水衝波",
-          "eng": ""
+          "name": "水遁・大爆水衝波"
         },
         {
           "cardBattleSkillNameId": "568",
-          "name": "砂手裏剣の術",
-          "eng": ""
+          "name": "砂手裏剣の術"
         },
         {
           "cardBattleSkillNameId": "570",
-          "name": "幻を写す紅き瞳",
-          "eng": ""
+          "name": "幻を写す紅き瞳"
         },
         {
           "cardBattleSkillNameId": "573",
@@ -1981,38 +1626,31 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "574",
-          "name": "福音の唄",
-          "eng": ""
+          "name": "福音の唄"
         },
         {
           "cardBattleSkillNameId": "575",
-          "name": "クナイ投げ",
-          "eng": ""
+          "name": "クナイ投げ"
         },
         {
           "cardBattleSkillNameId": "576",
-          "name": "仕込み刃",
-          "eng": ""
+          "name": "仕込み刃"
         },
         {
           "cardBattleSkillNameId": "577",
-          "name": "迷彩隠れ",
-          "eng": ""
+          "name": "迷彩隠れ"
         },
         {
           "cardBattleSkillNameId": "581",
-          "name": "千年殺し",
-          "eng": ""
+          "name": "千年殺し"
         },
         {
           "cardBattleSkillNameId": "582",
-          "name": "忍戦術指南",
-          "eng": ""
+          "name": "忍戦術指南"
         },
         {
           "cardBattleSkillNameId": "585",
-          "name": "起爆クナイ",
-          "eng": ""
+          "name": "起爆クナイ"
         },
         {
           "cardBattleSkillNameId": "588",
@@ -2021,8 +1659,7 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "589",
-          "name": "陽動作戦",
-          "eng": ""
+          "name": "陽動作戦"
         },
         {
           "cardBattleSkillNameId": "590",
@@ -2031,93 +1668,75 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "591",
-          "name": "敵陣突破の先兵",
-          "eng": ""
+          "name": "敵陣突破の先兵"
         },
         {
           "cardBattleSkillNameId": "592",
-          "name": "影縫いの術",
-          "eng": ""
+          "name": "影縫いの術"
         },
         {
           "cardBattleSkillNameId": "593",
-          "name": "最善手を選ぶ勘",
-          "eng": ""
+          "name": "最善手を選ぶ勘"
         },
         {
           "cardBattleSkillNameId": "595",
-          "name": "ついてらっしゃい!!",
-          "eng": ""
+          "name": "ついてらっしゃい!!"
         },
         {
           "cardBattleSkillNameId": "596",
-          "name": "愛の鉄拳",
-          "eng": ""
+          "name": "愛の鉄拳"
         },
         {
           "cardBattleSkillNameId": "598",
-          "name": "手裏剣影分身",
-          "eng": ""
+          "name": "手裏剣影分身"
         },
         {
           "cardBattleSkillNameId": "599",
-          "name": "火影の意志",
-          "eng": ""
+          "name": "火影の意志"
         },
         {
           "cardBattleSkillNameId": "601",
-          "name": "必殺必中",
-          "eng": ""
+          "name": "必殺必中"
         },
         {
           "cardBattleSkillNameId": "602",
-          "name": "お色気の術",
-          "eng": ""
+          "name": "お色気の術"
         },
         {
           "cardBattleSkillNameId": "603",
-          "name": "魅惑のポーズ",
-          "eng": ""
+          "name": "魅惑のポーズ"
         },
         {
           "cardBattleSkillNameId": "604",
-          "name": "八卦空掌",
-          "eng": ""
+          "name": "八卦空掌"
         },
         {
           "cardBattleSkillNameId": "605",
-          "name": "八卦六十四掌",
-          "eng": ""
+          "name": "八卦六十四掌"
         },
         {
           "cardBattleSkillNameId": "606",
-          "name": "八卦掌回天",
-          "eng": ""
+          "name": "八卦掌回天"
         },
         {
           "cardBattleSkillNameId": "609",
-          "name": "日向は木ノ葉にて最強",
-          "eng": ""
+          "name": "日向は木ノ葉にて最強"
         },
         {
           "cardBattleSkillNameId": "610",
-          "name": "八卦空壁掌",
-          "eng": ""
+          "name": "八卦空壁掌"
         },
         {
           "cardBattleSkillNameId": "611",
-          "name": "八卦掌双回天",
-          "eng": ""
+          "name": "八卦掌双回天"
         },
         {
           "cardBattleSkillNameId": "612",
-          "name": "魂の一撃",
-          "eng": ""
+          "name": "魂の一撃"
         },
         {
           "cardBattleSkillNameId": "613",
-          "name": "情念の演歌",
-          "eng": ""
+          "name": "情念の演歌"
         },
         {
           "cardBattleSkillNameId": "615",
@@ -2126,63 +1745,51 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "617",
-          "name": "闇を走る刃",
-          "eng": ""
+          "name": "闇を走る刃"
         },
         {
           "cardBattleSkillNameId": "619",
-          "name": "里を導く光",
-          "eng": ""
+          "name": "里を導く光"
         },
         {
           "cardBattleSkillNameId": "621",
-          "name": "恐怖による支配",
-          "eng": ""
+          "name": "恐怖による支配"
         },
         {
           "cardBattleSkillNameId": "622",
-          "name": "風遁・真空波",
-          "eng": ""
+          "name": "風遁・真空波"
         },
         {
           "cardBattleSkillNameId": "623",
-          "name": "風遁・真空連波",
-          "eng": ""
+          "name": "風遁・真空連波"
         },
         {
           "cardBattleSkillNameId": "624",
-          "name": "風遁・真空玉",
-          "eng": ""
+          "name": "風遁・真空玉"
         },
         {
           "cardBattleSkillNameId": "625",
-          "name": "風遁・真空大玉",
-          "eng": ""
+          "name": "風遁・真空大玉"
         },
         {
           "cardBattleSkillNameId": "626",
-          "name": "口寄せの術（獏）",
-          "eng": ""
+          "name": "口寄せの術（獏）"
         },
         {
           "cardBattleSkillNameId": "627",
-          "name": "追え…！逃がすでない！",
-          "eng": ""
+          "name": "追え…！逃がすでない！"
         },
         {
           "cardBattleSkillNameId": "629",
-          "name": "英雄の導き",
-          "eng": ""
+          "name": "英雄の導き"
         },
         {
           "cardBattleSkillNameId": "630",
-          "name": "安らぎの微笑み",
-          "eng": ""
+          "name": "安らぎの微笑み"
         },
         {
           "cardBattleSkillNameId": "638",
-          "name": "風遁・無限砂塵大突破",
-          "eng": ""
+          "name": "風遁・無限砂塵大突破"
         },
         {
           "cardBattleSkillNameId": "641",
@@ -2191,38 +1798,31 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "642",
-          "name": "絶対に俺が守る!!",
-          "eng": ""
+          "name": "絶対に俺が守る!!"
         },
         {
           "cardBattleSkillNameId": "643",
-          "name": "口寄せの術",
-          "eng": ""
+          "name": "口寄せの術"
         },
         {
           "cardBattleSkillNameId": "645",
-          "name": "怪腕ノ火矢",
-          "eng": ""
+          "name": "怪腕ノ火矢"
         },
         {
           "cardBattleSkillNameId": "646",
-          "name": "封術吸引",
-          "eng": ""
+          "name": "封術吸引"
         },
         {
           "cardBattleSkillNameId": "647",
-          "name": "冥府の王",
-          "eng": ""
+          "name": "冥府の王"
         },
         {
           "cardBattleSkillNameId": "648",
-          "name": "黒き刀",
-          "eng": ""
+          "name": "黒き刀"
         },
         {
           "cardBattleSkillNameId": "649",
-          "name": "我々はペイン…神だ！",
-          "eng": ""
+          "name": "我々はペイン…神だ！"
         },
         {
           "cardBattleSkillNameId": "650",
@@ -2236,28 +1836,23 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "652",
-          "name": "仙法・毛針千本",
-          "eng": ""
+          "name": "仙法・毛針千本"
         },
         {
           "cardBattleSkillNameId": "655",
-          "name": "口寄せ・三重羅生門",
-          "eng": ""
+          "name": "口寄せ・三重羅生門"
         },
         {
           "cardBattleSkillNameId": "656",
-          "name": "火遁・火龍炎弾",
-          "eng": ""
+          "name": "火遁・火龍炎弾"
         },
         {
           "cardBattleSkillNameId": "658",
-          "name": "最高だってばよ！！",
-          "eng": ""
+          "name": "最高だってばよ！！"
         },
         {
           "cardBattleSkillNameId": "660",
-          "name": "解き放たれた力",
-          "eng": ""
+          "name": "解き放たれた力"
         },
         {
           "cardBattleSkillNameId": "667",
@@ -2266,123 +1861,99 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "668",
-          "name": "雲隠れの頭脳",
-          "eng": ""
+          "name": "雲隠れの頭脳"
         },
         {
           "cardBattleSkillNameId": "671",
-          "name": "八卦掌・独楽回天",
-          "eng": ""
+          "name": "八卦掌・独楽回天"
         },
         {
           "cardBattleSkillNameId": "672",
-          "name": "秘めたる願い事",
-          "eng": ""
+          "name": "秘めたる願い事"
         },
         {
           "cardBattleSkillNameId": "673",
-          "name": "口寄せ・鏡餅",
-          "eng": ""
+          "name": "口寄せ・鏡餅"
         },
         {
           "cardBattleSkillNameId": "674",
-          "name": "おいろけの術",
-          "eng": ""
+          "name": "おいろけの術"
         },
         {
           "cardBattleSkillNameId": "675",
-          "name": "綱手式餅つき乱舞",
-          "eng": ""
+          "name": "綱手式餅つき乱舞"
         },
         {
           "cardBattleSkillNameId": "676",
-          "name": "豪気豪胆",
-          "eng": ""
+          "name": "豪気豪胆"
         },
         {
           "cardBattleSkillNameId": "677",
-          "name": "乱獅子髪の術",
-          "eng": ""
+          "name": "乱獅子髪の術"
         },
         {
           "cardBattleSkillNameId": "678",
-          "name": "稀代の豪傑",
-          "eng": ""
+          "name": "稀代の豪傑"
         },
         {
           "cardBattleSkillNameId": "679",
-          "name": "早蕨の舞",
-          "eng": ""
+          "name": "早蕨の舞"
         },
         {
           "cardBattleSkillNameId": "680",
-          "name": "冷たき統率者",
-          "eng": ""
+          "name": "冷たき統率者"
         },
         {
           "cardBattleSkillNameId": "681",
-          "name": "頑張れトントン！！",
-          "eng": ""
+          "name": "頑張れトントン！！"
         },
         {
           "cardBattleSkillNameId": "683",
-          "name": "赤い閃光",
-          "eng": ""
+          "name": "赤い閃光"
         },
         {
           "cardBattleSkillNameId": "684",
-          "name": "砂瀑大葬",
-          "eng": ""
+          "name": "砂瀑大葬"
         },
         {
           "cardBattleSkillNameId": "688",
-          "name": "押し通る…",
-          "eng": ""
+          "name": "押し通る…"
         },
         {
           "cardBattleSkillNameId": "689",
-          "name": "激　木ノ葉金剛力旋風",
-          "eng": ""
+          "name": "激　木ノ葉金剛力旋風"
         },
         {
           "cardBattleSkillNameId": "690",
-          "name": "青春フルパワー",
-          "eng": ""
+          "name": "青春フルパワー"
         },
         {
           "cardBattleSkillNameId": "691",
-          "name": "部分倍化の術",
-          "eng": ""
+          "name": "部分倍化の術"
         },
         {
           "cardBattleSkillNameId": "692",
-          "name": "友を守る決意",
-          "eng": ""
+          "name": "友を守る決意"
         },
         {
           "cardBattleSkillNameId": "693",
-          "name": "飛雷神マーキング",
-          "eng": ""
+          "name": "飛雷神マーキング"
         },
         {
           "cardBattleSkillNameId": "694",
-          "name": "砂の守護者",
-          "eng": ""
+          "name": "砂の守護者"
         },
         {
           "cardBattleSkillNameId": "698",
-          "name": "胞子の術",
-          "eng": ""
+          "name": "胞子の術"
         },
         {
           "cardBattleSkillNameId": "699",
-          "name": "蜉蝣",
-          "eng": ""
+          "name": "蜉蝣"
         },
         {
           "cardBattleSkillNameId": "702",
-          "name": "飛燕",
-          "eng": ""
+          "name": "飛燕"
         },
         {
           "cardBattleSkillNameId": "705",
@@ -2391,13 +1962,11 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "707",
-          "name": "木遁・木龍の術",
-          "eng": ""
+          "name": "木遁・木龍の術"
         },
         {
           "cardBattleSkillNameId": "708",
-          "name": "火の意志",
-          "eng": ""
+          "name": "火の意志"
         },
         {
           "cardBattleSkillNameId": "711",
@@ -2406,33 +1975,27 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "713",
-          "name": "蜘蛛戦弓・凄裂",
-          "eng": ""
+          "name": "蜘蛛戦弓・凄裂"
         },
         {
           "cardBattleSkillNameId": "717",
-          "name": "仙法・蛙鳴き",
-          "eng": ""
+          "name": "仙法・蛙鳴き"
         },
         {
           "cardBattleSkillNameId": "718",
-          "name": "仙法・大玉螺旋丸",
-          "eng": ""
+          "name": "仙法・大玉螺旋丸"
         },
         {
           "cardBattleSkillNameId": "724",
-          "name": "想いは力に",
-          "eng": ""
+          "name": "想いは力に"
         },
         {
           "cardBattleSkillNameId": "726",
-          "name": "想いを胸に",
-          "eng": ""
+          "name": "想いを胸に"
         },
         {
           "cardBattleSkillNameId": "728",
-          "name": "想いの開花",
-          "eng": ""
+          "name": "想いの開花"
         },
         {
           "cardBattleSkillNameId": "729",
@@ -2446,63 +2009,51 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "732",
-          "name": "柔拳秘伝高等体術",
-          "eng": ""
+          "name": "柔拳秘伝高等体術"
         },
         {
           "cardBattleSkillNameId": "734",
-          "name": "明鏡止水",
-          "eng": ""
+          "name": "明鏡止水"
         },
         {
           "cardBattleSkillNameId": "735",
-          "name": "鉄線花の舞・花",
-          "eng": ""
+          "name": "鉄線花の舞・花"
         },
         {
           "cardBattleSkillNameId": "736",
-          "name": "硬化",
-          "eng": ""
+          "name": "硬化"
         },
         {
           "cardBattleSkillNameId": "737",
-          "name": "酔拳",
-          "eng": ""
+          "name": "酔拳"
         },
         {
           "cardBattleSkillNameId": "738",
-          "name": "うー…ヒック！",
-          "eng": ""
+          "name": "うー…ヒック！"
         },
         {
           "cardBattleSkillNameId": "739",
-          "name": "鉄線花の舞・蔓",
-          "eng": ""
+          "name": "鉄線花の舞・蔓"
         },
         {
           "cardBattleSkillNameId": "740",
-          "name": "硬化",
-          "eng": ""
+          "name": "硬化"
         },
         {
           "cardBattleSkillNameId": "743",
-          "name": "傷つけさせない！",
-          "eng": ""
+          "name": "傷つけさせない！"
         },
         {
           "cardBattleSkillNameId": "744",
-          "name": "秘術・蟲玉",
-          "eng": ""
+          "name": "秘術・蟲玉"
         },
         {
           "cardBattleSkillNameId": "745",
-          "name": "広域攻撃",
-          "eng": ""
+          "name": "広域攻撃"
         },
         {
           "cardBattleSkillNameId": "747",
-          "name": "仲間を守る強さ",
-          "eng": ""
+          "name": "仲間を守る強さ"
         },
         {
           "cardBattleSkillNameId": "749",
@@ -2511,28 +2062,23 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "750",
-          "name": "禁術の叡智",
-          "eng": ""
+          "name": "禁術の叡智"
         },
         {
           "cardBattleSkillNameId": "751",
-          "name": "螺旋乱丸",
-          "eng": ""
+          "name": "螺旋乱丸"
         },
         {
           "cardBattleSkillNameId": "752",
-          "name": "チャクラリンク",
-          "eng": ""
+          "name": "チャクラリンク"
         },
         {
           "cardBattleSkillNameId": "753",
-          "name": "飛雷神・零の段",
-          "eng": ""
+          "name": "飛雷神・零の段"
         },
         {
           "cardBattleSkillNameId": "754",
-          "name": "忍の覚悟",
-          "eng": ""
+          "name": "忍の覚悟"
         },
         {
           "cardBattleSkillNameId": "755",
@@ -2541,13 +2087,11 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "756",
-          "name": "母の愛",
-          "eng": ""
+          "name": "母の愛"
         },
         {
           "cardBattleSkillNameId": "760",
-          "name": "人柱力の誇り",
-          "eng": ""
+          "name": "人柱力の誇り"
         },
         {
           "cardBattleSkillNameId": "761",
@@ -2556,138 +2100,111 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "762",
-          "name": "起爆粘土造形",
-          "eng": ""
+          "name": "起爆粘土造形"
         },
         {
           "cardBattleSkillNameId": "763",
-          "name": "魔像の杭",
-          "eng": ""
+          "name": "魔像の杭"
         },
         {
           "cardBattleSkillNameId": "765",
-          "name": "絶望を知れ",
-          "eng": ""
+          "name": "絶望を知れ"
         },
         {
           "cardBattleSkillNameId": "771",
-          "name": "オレの瞳に堕ちろッッ",
-          "eng": ""
+          "name": "オレの瞳に堕ちろッッ"
         },
         {
           "cardBattleSkillNameId": "772",
-          "name": "お前がオレの新しい薔薇だ",
-          "eng": ""
+          "name": "お前がオレの新しい薔薇だ"
         },
         {
           "cardBattleSkillNameId": "773",
-          "name": "白い贈り物",
-          "eng": ""
+          "name": "白い贈り物"
         },
         {
           "cardBattleSkillNameId": "774",
-          "name": "これこそ芸術だな、うん",
-          "eng": ""
+          "name": "これこそ芸術だな、うん"
         },
         {
           "cardBattleSkillNameId": "775",
-          "name": "黄薔薇操演",
-          "eng": ""
+          "name": "黄薔薇操演"
         },
         {
           "cardBattleSkillNameId": "776",
-          "name": "お前、オレの傀儡になれよ",
-          "eng": ""
+          "name": "お前、オレの傀儡になれよ"
         },
         {
           "cardBattleSkillNameId": "777",
-          "name": "薔薇手裏剣",
-          "eng": ""
+          "name": "薔薇手裏剣"
         },
         {
           "cardBattleSkillNameId": "778",
-          "name": "薔薇手裏剣コンビネーション",
-          "eng": ""
+          "name": "薔薇手裏剣コンビネーション"
         },
         {
           "cardBattleSkillNameId": "784",
-          "name": "風遁巧者",
-          "eng": ""
+          "name": "風遁巧者"
         },
         {
           "cardBattleSkillNameId": "786",
-          "name": "他者との繋がり",
-          "eng": ""
+          "name": "他者との繋がり"
         },
         {
           "cardBattleSkillNameId": "788",
-          "name": "操演者の誇り",
-          "eng": ""
+          "name": "操演者の誇り"
         },
         {
           "cardBattleSkillNameId": "789",
-          "name": "沸遁・巧霧の術",
-          "eng": ""
+          "name": "沸遁・巧霧の術"
         },
         {
           "cardBattleSkillNameId": "790",
-          "name": "逃げ道はないわ",
-          "eng": ""
+          "name": "逃げ道はないわ"
         },
         {
           "cardBattleSkillNameId": "791",
-          "name": "水影様は、ボクが守る…!!",
-          "eng": ""
+          "name": "水影様は、ボクが守る…!!"
         },
         {
           "cardBattleSkillNameId": "792",
-          "name": "水影への想い",
-          "eng": ""
+          "name": "水影への想い"
         },
         {
           "cardBattleSkillNameId": "793",
-          "name": "チャクラ看破",
-          "eng": ""
+          "name": "チャクラ看破"
         },
         {
           "cardBattleSkillNameId": "794",
-          "name": "歴戦の洞察力",
-          "eng": ""
+          "name": "歴戦の洞察力"
         },
         {
           "cardBattleSkillNameId": "796",
-          "name": "須佐能乎の鎧",
-          "eng": ""
+          "name": "須佐能乎の鎧"
         },
         {
           "cardBattleSkillNameId": "797",
-          "name": "緊急治療",
-          "eng": ""
+          "name": "緊急治療"
         },
         {
           "cardBattleSkillNameId": "798",
-          "name": "卓抜した回避能力",
-          "eng": ""
+          "name": "卓抜した回避能力"
         },
         {
           "cardBattleSkillNameId": "799",
-          "name": "桜花衝・乱れ桜",
-          "eng": ""
+          "name": "桜花衝・乱れ桜"
         },
         {
           "cardBattleSkillNameId": "800",
-          "name": "胆大心小の精神",
-          "eng": ""
+          "name": "胆大心小の精神"
         },
         {
           "cardBattleSkillNameId": "802",
-          "name": "裏の裏を読むべし",
-          "eng": ""
+          "name": "裏の裏を読むべし"
         },
         {
           "cardBattleSkillNameId": "804",
-          "name": "戦況把握",
-          "eng": ""
+          "name": "戦況把握"
         },
         {
           "cardBattleSkillNameId": "811",
@@ -2696,148 +2213,119 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "812",
-          "name": "オレは誰でもない",
-          "eng": ""
+          "name": "オレは誰でもない"
         },
         {
           "cardBattleSkillNameId": "813",
-          "name": "魔像の杭",
-          "eng": ""
+          "name": "魔像の杭"
         },
         {
           "cardBattleSkillNameId": "814",
-          "name": "本当の神威の力",
-          "eng": ""
+          "name": "本当の神威の力"
         },
         {
           "cardBattleSkillNameId": "815",
-          "name": "雷光斬り・真斬",
-          "eng": ""
+          "name": "雷光斬り・真斬"
         },
         {
           "cardBattleSkillNameId": "816",
-          "name": "技師の片鱗",
-          "eng": ""
+          "name": "技師の片鱗"
         },
         {
           "cardBattleSkillNameId": "818",
-          "name": "皆、仲良くね",
-          "eng": ""
+          "name": "皆、仲良くね"
         },
         {
           "cardBattleSkillNameId": "819",
-          "name": "火遁・鳳仙花の術",
-          "eng": ""
+          "name": "火遁・鳳仙花の術"
         },
         {
           "cardBattleSkillNameId": "820",
-          "name": "オレは火影になってみせる",
-          "eng": ""
+          "name": "オレは火影になってみせる"
         },
         {
           "cardBattleSkillNameId": "821",
-          "name": "癒しの医療",
-          "eng": ""
+          "name": "癒しの医療"
         },
         {
           "cardBattleSkillNameId": "822",
-          "name": "ちゃんと見てんだから",
-          "eng": ""
+          "name": "ちゃんと見てんだから"
         },
         {
           "cardBattleSkillNameId": "823",
-          "name": "火遁・鳳仙花の術",
-          "eng": ""
+          "name": "火遁・鳳仙花の術"
         },
         {
           "cardBattleSkillNameId": "824",
-          "name": "不断の努力",
-          "eng": ""
+          "name": "不断の努力"
         },
         {
           "cardBattleSkillNameId": "829",
-          "name": "火遁・龍火の術",
-          "eng": ""
+          "name": "火遁・龍火の術"
         },
         {
           "cardBattleSkillNameId": "830",
-          "name": "二つの呪縛",
-          "eng": ""
+          "name": "二つの呪縛"
         },
         {
           "cardBattleSkillNameId": "832",
-          "name": "ここでケジメをつける！",
-          "eng": ""
+          "name": "ここでケジメをつける！"
         },
         {
           "cardBattleSkillNameId": "834",
-          "name": "悪夢への序曲",
-          "eng": ""
+          "name": "悪夢への序曲"
         },
         {
           "cardBattleSkillNameId": "836",
-          "name": "すぐ殺そ",
-          "eng": ""
+          "name": "すぐ殺そ"
         },
         {
           "cardBattleSkillNameId": "838",
-          "name": "ちょっと遊んでやるか…",
-          "eng": ""
+          "name": "ちょっと遊んでやるか…"
         },
         {
           "cardBattleSkillNameId": "840",
-          "name": "すぐ終わらせてやるよ",
-          "eng": ""
+          "name": "すぐ終わらせてやるよ"
         },
         {
           "cardBattleSkillNameId": "842",
-          "name": "仙法・螺旋丸",
-          "eng": ""
+          "name": "仙法・螺旋丸"
         },
         {
           "cardBattleSkillNameId": "846",
-          "name": "仙法・無機転生",
-          "eng": ""
+          "name": "仙法・無機転生"
         },
         {
           "cardBattleSkillNameId": "847",
-          "name": "白蛇の力",
-          "eng": ""
+          "name": "白蛇の力"
         },
         {
           "cardBattleSkillNameId": "849",
-          "name": "闇からの脱却",
-          "eng": ""
+          "name": "闇からの脱却"
         },
         {
           "cardBattleSkillNameId": "851",
-          "name": "英名無き英雄",
-          "eng": ""
+          "name": "英名無き英雄"
         },
         {
           "cardBattleSkillNameId": "853",
-          "name": "うちはの本当の力",
-          "eng": ""
+          "name": "うちはの本当の力"
         },
         {
           "cardBattleSkillNameId": "855",
-          "name": "越える憎しみ",
-          "eng": ""
+          "name": "越える憎しみ"
         },
         {
           "cardBattleSkillNameId": "856",
-          "name": "仙法・白激の術",
-          "eng": ""
+          "name": "仙法・白激の術"
         },
         {
           "cardBattleSkillNameId": "857",
-          "name": "君麻呂・屍骨脈 早蕨の舞",
-          "eng": ""
+          "name": "君麻呂・屍骨脈 早蕨の舞"
         },
         {
           "cardBattleSkillNameId": "858",
-          "name": "多由也・魔笛 夢幻音鎖",
-          "eng": ""
+          "name": "多由也・魔笛 夢幻音鎖"
         },
         {
           "cardBattleSkillNameId": "861",
@@ -2856,8 +2344,7 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "864",
-          "name": "ゲスチンヤローが",
-          "eng": ""
+          "name": "ゲスチンヤローが"
         },
         {
           "cardBattleSkillNameId": "865",
@@ -2866,23 +2353,19 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "866",
-          "name": "どんなもんだ？",
-          "eng": ""
+          "name": "どんなもんだ？"
         },
         {
           "cardBattleSkillNameId": "868",
-          "name": "これが木ノ葉流だ",
-          "eng": ""
+          "name": "これが木ノ葉流だ"
         },
         {
           "cardBattleSkillNameId": "870",
-          "name": "命懸けの拳",
-          "eng": ""
+          "name": "命懸けの拳"
         },
         {
           "cardBattleSkillNameId": "872",
-          "name": "ぶっ潰してやる！！",
-          "eng": ""
+          "name": "ぶっ潰してやる！！"
         },
         {
           "cardBattleSkillNameId": "874",
@@ -2916,108 +2399,87 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "881",
-          "name": "仲間は絶対に殺させやしない",
-          "eng": ""
+          "name": "仲間は絶対に殺させやしない"
         },
         {
           "cardBattleSkillNameId": "883",
-          "name": "もう待ったは無しだ",
-          "eng": ""
+          "name": "もう待ったは無しだ"
         },
         {
           "cardBattleSkillNameId": "884",
-          "name": "鯉崩し",
-          "eng": ""
+          "name": "鯉崩し"
         },
         {
           "cardBattleSkillNameId": "885",
-          "name": "やったるでェ―！",
-          "eng": ""
+          "name": "やったるでェ―！"
         },
         {
           "cardBattleSkillNameId": "888",
-          "name": "おめでとうだってばよ！！",
-          "eng": ""
+          "name": "おめでとうだってばよ！！"
         },
         {
           "cardBattleSkillNameId": "892",
-          "name": "才色の花",
-          "eng": ""
+          "name": "才色の花"
         },
         {
           "cardBattleSkillNameId": "893",
-          "name": "影真似手裏剣",
-          "eng": ""
+          "name": "影真似手裏剣"
         },
         {
           "cardBattleSkillNameId": "894",
-          "name": "作戦の再構築",
-          "eng": ""
+          "name": "作戦の再構築"
         },
         {
           "cardBattleSkillNameId": "895",
-          "name": "倍化の術・超張り手",
-          "eng": ""
+          "name": "倍化の術・超張り手"
         },
         {
           "cardBattleSkillNameId": "896",
-          "name": "盟友との連携",
-          "eng": ""
+          "name": "盟友との連携"
         },
         {
           "cardBattleSkillNameId": "897",
-          "name": "風遁・圧害",
-          "eng": ""
+          "name": "風遁・圧害"
         },
         {
           "cardBattleSkillNameId": "898",
-          "name": "もらうぞお前の心臓",
-          "eng": ""
+          "name": "もらうぞお前の心臓"
         },
         {
           "cardBattleSkillNameId": "907",
-          "name": "口寄せ・土遁・追牙の術",
-          "eng": ""
+          "name": "口寄せ・土遁・追牙の術"
         },
         {
           "cardBattleSkillNameId": "908",
-          "name": "鍛えし精神力",
-          "eng": ""
+          "name": "鍛えし精神力"
         },
         {
           "cardBattleSkillNameId": "910",
-          "name": "封じられた力",
-          "eng": ""
+          "name": "封じられた力"
         },
         {
           "cardBattleSkillNameId": "912",
-          "name": "戦いのセンス",
-          "eng": ""
+          "name": "戦いのセンス"
         },
         {
           "cardBattleSkillNameId": "913",
-          "name": "無音殺人術",
-          "eng": ""
+          "name": "無音殺人術"
         },
         {
           "cardBattleSkillNameId": "914",
-          "name": "鬼人の修羅場",
-          "eng": ""
+          "name": "鬼人の修羅場"
         },
         {
           "cardBattleSkillNameId": "916",
-          "name": "大切な人の夢の為に",
-          "eng": ""
+          "name": "大切な人の夢の為に"
         },
         {
           "cardBattleSkillNameId": "965",
-          "name": "樹界降誕",
-          "eng": ""
+          "name": "樹界降誕"
         },
         {
           "cardBattleSkillNameId": "966",
-          "name": "諦めるなと言ったはずぞ！",
-          "eng": ""
+          "name": "諦めるなと言ったはずぞ！"
         },
         {
           "cardBattleSkillNameId": "967",
@@ -3027,28 +2489,23 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "968",
-          "name": "捨て身の爆砕術",
-          "eng": ""
+          "name": "捨て身の爆砕術"
         },
         {
           "cardBattleSkillNameId": "969",
-          "name": "手裏剣影分身",
-          "eng": ""
+          "name": "手裏剣影分身"
         },
         {
           "cardBattleSkillNameId": "970",
-          "name": "さて、行くぞ",
-          "eng": ""
+          "name": "さて、行くぞ"
         },
         {
           "cardBattleSkillNameId": "971",
-          "name": "求道玉",
-          "eng": ""
+          "name": "求道玉"
         },
         {
           "cardBattleSkillNameId": "972",
-          "name": "この世界を消す！",
-          "eng": ""
+          "name": "この世界を消す！"
         },
         {
           "cardBattleSkillNameId": "973",
@@ -3062,13 +2519,11 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "975",
-          "name": "口寄せ・コイノボリ",
-          "eng": ""
+          "name": "口寄せ・コイノボリ"
         },
         {
           "cardBattleSkillNameId": "976",
-          "name": "……フン",
-          "eng": ""
+          "name": "……フン"
         },
         {
           "cardBattleSkillNameId": "979",
@@ -3077,8 +2532,7 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "983",
-          "name": "お前らの先には何もない",
-          "eng": ""
+          "name": "お前らの先には何もない"
         },
         {
           "cardBattleSkillNameId": "984",
@@ -3087,43 +2541,35 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "987",
-          "name": "紫電桜蘭衝",
-          "eng": ""
+          "name": "紫電桜蘭衝"
         },
         {
           "cardBattleSkillNameId": "988",
-          "name": "私に任せて！",
-          "eng": ""
+          "name": "私に任せて！"
         },
         {
           "cardBattleSkillNameId": "989",
-          "name": "閃光のハバネロ",
-          "eng": ""
+          "name": "閃光のハバネロ"
         },
         {
           "cardBattleSkillNameId": "990",
-          "name": "私達もいくってばね！",
-          "eng": ""
+          "name": "私達もいくってばね！"
         },
         {
           "cardBattleSkillNameId": "991",
-          "name": "煌々たる青き輝き",
-          "eng": ""
+          "name": "煌々たる青き輝き"
         },
         {
           "cardBattleSkillNameId": "992",
-          "name": "一緒に行こう…",
-          "eng": ""
+          "name": "一緒に行こう…"
         },
         {
           "cardBattleSkillNameId": "993",
-          "name": "影縫い・大カマイタチの術",
-          "eng": ""
+          "name": "影縫い・大カマイタチの術"
         },
         {
           "cardBattleSkillNameId": "994",
-          "name": "逃さないよ！",
-          "eng": ""
+          "name": "逃さないよ！"
         },
         {
           "cardBattleSkillNameId": "1001",
@@ -3137,73 +2583,59 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "1004",
-          "name": "やるぞ…",
-          "eng": ""
+          "name": "やるぞ…"
         },
         {
           "cardBattleSkillNameId": "1006",
-          "name": "OK…ブラザー！",
-          "eng": ""
+          "name": "OK…ブラザー！"
         },
         {
           "cardBattleSkillNameId": "1008",
-          "name": "先行します！",
-          "eng": ""
+          "name": "先行します！"
         },
         {
           "cardBattleSkillNameId": "1010",
-          "name": "削りがいがある",
-          "eng": ""
+          "name": "削りがいがある"
         },
         {
           "cardBattleSkillNameId": "1014",
-          "name": "圧掌",
-          "eng": ""
+          "name": "圧掌"
         },
         {
           "cardBattleSkillNameId": "1016",
-          "name": "ここより世界に痛みを",
-          "eng": ""
+          "name": "ここより世界に痛みを"
         },
         {
           "cardBattleSkillNameId": "1018",
-          "name": "オレは諦めねェ！",
-          "eng": ""
+          "name": "オレは諦めねェ！"
         },
         {
           "cardBattleSkillNameId": "1020",
-          "name": "覚えとけコレェ!!!",
-          "eng": ""
+          "name": "覚えとけコレェ!!!"
         },
         {
           "cardBattleSkillNameId": "1022",
-          "name": "大丈夫だ、オレが守る",
-          "eng": ""
+          "name": "大丈夫だ、オレが守る"
         },
         {
           "cardBattleSkillNameId": "1037",
-          "name": "鯉降らし",
-          "eng": ""
+          "name": "鯉降らし"
         },
         {
           "cardBattleSkillNameId": "1038",
-          "name": "ンだとコラー！",
-          "eng": ""
+          "name": "ンだとコラー！"
         },
         {
           "cardBattleSkillNameId": "1046",
-          "name": "見せてやるってばさ！",
-          "eng": ""
+          "name": "見せてやるってばさ！"
         },
         {
           "cardBattleSkillNameId": "1047",
-          "name": "コンビネーション・真",
-          "eng": ""
+          "name": "コンビネーション・真"
         },
         {
           "cardBattleSkillNameId": "1048",
-          "name": "九喇嘛",
-          "eng": ""
+          "name": "九喇嘛"
         },
         {
           "cardBattleSkillNameId": "1049",
@@ -3217,98 +2649,79 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "1063",
-          "name": "チャクラ吸引術",
-          "eng": ""
+          "name": "チャクラ吸引術"
         },
         {
           "cardBattleSkillNameId": "1068",
-          "name": "オレを止めてみろ",
-          "eng": ""
+          "name": "オレを止めてみろ"
         },
         {
           "cardBattleSkillNameId": "1069",
-          "name": "オレに人数は関係ない",
-          "eng": ""
+          "name": "オレに人数は関係ない"
         },
         {
           "cardBattleSkillNameId": "1070",
-          "name": "己を拾う",
-          "eng": ""
+          "name": "己を拾う"
         },
         {
           "cardBattleSkillNameId": "1071",
-          "name": "オレを止めろ…",
-          "eng": ""
+          "name": "オレを止めろ…"
         },
         {
           "cardBattleSkillNameId": "1072",
-          "name": "オレの術の方が一瞬早い",
-          "eng": ""
+          "name": "オレの術の方が一瞬早い"
         },
         {
           "cardBattleSkillNameId": "1073",
-          "name": "用心しろ オレは…",
-          "eng": ""
+          "name": "用心しろ オレは…"
         },
         {
           "cardBattleSkillNameId": "1096",
-          "name": "失敗はしねェ！",
-          "eng": ""
+          "name": "失敗はしねェ！"
         },
         {
           "cardBattleSkillNameId": "1097",
-          "name": "最速パンチ",
-          "eng": ""
+          "name": "最速パンチ"
         },
         {
           "cardBattleSkillNameId": "1098",
-          "name": "殺す気で確かめる",
-          "eng": ""
+          "name": "殺す気で確かめる"
         },
         {
           "cardBattleSkillNameId": "1100",
-          "name": "負けやしねェ自信",
-          "eng": ""
+          "name": "負けやしねェ自信"
         },
         {
           "cardBattleSkillNameId": "1102",
-          "name": "知るべきことがある…",
-          "eng": ""
+          "name": "知るべきことがある…"
         },
         {
           "cardBattleSkillNameId": "1131",
-          "name": "お前らオレに殺されたいのか",
-          "eng": ""
+          "name": "お前らオレに殺されたいのか"
         },
         {
           "cardBattleSkillNameId": "1132",
-          "name": "水鉄砲の術",
-          "eng": ""
+          "name": "水鉄砲の術"
         },
         {
           "cardBattleSkillNameId": "1133",
-          "name": "君にも負けない…かもね",
-          "eng": ""
+          "name": "君にも負けない…かもね"
         },
         {
           "cardBattleSkillNameId": "1134",
-          "name": "ウチに噛みつけ！",
-          "eng": ""
+          "name": "ウチに噛みつけ！"
         },
         {
           "cardBattleSkillNameId": "1135",
-          "name": "た…たまんない…サスケェ…",
-          "eng": ""
+          "name": "た…たまんない…サスケェ…"
         },
         {
           "cardBattleSkillNameId": "1136",
-          "name": "重い一撃",
-          "eng": ""
+          "name": "重い一撃"
         },
         {
           "cardBattleSkillNameId": "1137",
-          "name": "見届けてやる",
-          "eng": ""
+          "name": "見届けてやる"
         },
         {
           "cardBattleSkillNameId": "1139",
@@ -3317,68 +2730,55 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "1144",
-          "name": "千鳥千本",
-          "eng": ""
+          "name": "千鳥千本"
         },
         {
           "cardBattleSkillNameId": "1145",
-          "name": "目的はただ一つ",
-          "eng": ""
+          "name": "目的はただ一つ"
         },
         {
           "cardBattleSkillNameId": "1146",
-          "name": "水化斬り",
-          "eng": ""
+          "name": "水化斬り"
         },
         {
           "cardBattleSkillNameId": "1147",
-          "name": "…甘いね",
-          "eng": ""
+          "name": "…甘いね"
         },
         {
           "cardBattleSkillNameId": "1149",
-          "name": "ウチに任せろ！",
-          "eng": ""
+          "name": "ウチに任せろ！"
         },
         {
           "cardBattleSkillNameId": "1150",
-          "name": "呪印乱撃",
-          "eng": ""
+          "name": "呪印乱撃"
         },
         {
           "cardBattleSkillNameId": "1151",
-          "name": "ビンゴ！殺す！！",
-          "eng": ""
+          "name": "ビンゴ！殺す！！"
         },
         {
           "cardBattleSkillNameId": "1153",
-          "name": "オイラをなめんなよ！！",
-          "eng": ""
+          "name": "オイラをなめんなよ！！"
         },
         {
           "cardBattleSkillNameId": "1160",
-          "name": "予測不能の剣筋",
-          "eng": ""
+          "name": "予測不能の剣筋"
         },
         {
           "cardBattleSkillNameId": "1161",
-          "name": "韻を踏む",
-          "eng": ""
+          "name": "韻を踏む"
         },
         {
           "cardBattleSkillNameId": "1168",
-          "name": "見ててよ兄さん！",
-          "eng": ""
+          "name": "見ててよ兄さん！"
         },
         {
           "cardBattleSkillNameId": "1169",
-          "name": "ぷぅ！！",
-          "eng": ""
+          "name": "ぷぅ！！"
         },
         {
           "cardBattleSkillNameId": "1171",
-          "name": "浮かれるなウスラトンカチ",
-          "eng": ""
+          "name": "浮かれるなウスラトンカチ"
         },
         {
           "cardBattleSkillNameId": "1172",
@@ -3412,173 +2812,139 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "1179",
-          "name": "もう…充分だ",
-          "eng": ""
+          "name": "もう…充分だ"
         },
         {
           "cardBattleSkillNameId": "1182",
-          "name": "桜花衝・割波撃",
-          "eng": ""
+          "name": "桜花衝・割波撃"
         },
         {
           "cardBattleSkillNameId": "1183",
-          "name": "さぁ、行くわよ！！",
-          "eng": ""
+          "name": "さぁ、行くわよ！！"
         },
         {
           "cardBattleSkillNameId": "1184",
-          "name": "夏の八卦空掌",
-          "eng": ""
+          "name": "夏の八卦空掌"
         },
         {
           "cardBattleSkillNameId": "1185",
-          "name": "恥ずかしいよ…",
-          "eng": ""
+          "name": "恥ずかしいよ…"
         },
         {
           "cardBattleSkillNameId": "1186",
-          "name": "心転身・渚の思い出",
-          "eng": ""
+          "name": "心転身・渚の思い出"
         },
         {
           "cardBattleSkillNameId": "1187",
-          "name": "ふふふ、どう？",
-          "eng": ""
+          "name": "ふふふ、どう？"
         },
         {
           "cardBattleSkillNameId": "1188",
-          "name": "双昇龍・飛遊",
-          "eng": ""
+          "name": "双昇龍・飛遊"
         },
         {
           "cardBattleSkillNameId": "1189",
-          "name": "さぁ、一緒に遊ぼう！",
-          "eng": ""
+          "name": "さぁ、一緒に遊ぼう！"
         },
         {
           "cardBattleSkillNameId": "1190",
-          "name": "火遁・起爆炎陣",
-          "eng": ""
+          "name": "火遁・起爆炎陣"
         },
         {
           "cardBattleSkillNameId": "1191",
-          "name": "口寄せ・山椒魚",
-          "eng": ""
+          "name": "口寄せ・山椒魚"
         },
         {
           "cardBattleSkillNameId": "1192",
-          "name": "火遁・炎連弾",
-          "eng": ""
+          "name": "火遁・炎連弾"
         },
         {
           "cardBattleSkillNameId": "1193",
-          "name": "情けはいらねー！",
-          "eng": ""
+          "name": "情けはいらねー！"
         },
         {
           "cardBattleSkillNameId": "1195",
-          "name": "行くよ、あんたたち！",
-          "eng": ""
+          "name": "行くよ、あんたたち！"
         },
         {
           "cardBattleSkillNameId": "1196",
-          "name": "手裏剣蛇変化の術",
-          "eng": ""
+          "name": "手裏剣蛇変化の術"
         },
         {
           "cardBattleSkillNameId": "1197",
-          "name": "殺す？この子たち",
-          "eng": ""
+          "name": "殺す？この子たち"
         },
         {
           "cardBattleSkillNameId": "1212",
-          "name": "皆の力を貸してくれ！！",
-          "eng": ""
+          "name": "皆の力を貸してくれ！！"
         },
         {
           "cardBattleSkillNameId": "1259",
-          "name": "この下っ端ども！",
-          "eng": ""
+          "name": "この下っ端ども！"
         },
         {
           "cardBattleSkillNameId": "1261",
-          "name": "ぜってー勝つ！！",
-          "eng": ""
+          "name": "ぜってー勝つ！！"
         },
         {
           "cardBattleSkillNameId": "1264",
-          "name": "時空間手裏剣術",
-          "eng": ""
+          "name": "時空間手裏剣術"
         },
         {
           "cardBattleSkillNameId": "1265",
-          "name": "もうお前に用はない",
-          "eng": ""
+          "name": "もうお前に用はない"
         },
         {
           "cardBattleSkillNameId": "1266",
-          "name": "水遁・泡沫の術",
-          "eng": ""
+          "name": "水遁・泡沫の術"
         },
         {
           "cardBattleSkillNameId": "1267",
-          "name": "触れると危ないな…",
-          "eng": ""
+          "name": "触れると危ないな…"
         },
         {
           "cardBattleSkillNameId": "1269",
-          "name": "この先に平和があるのなら！",
-          "eng": ""
+          "name": "この先に平和があるのなら！"
         },
         {
           "cardBattleSkillNameId": "1270",
-          "name": "水流乱破斬",
-          "eng": ""
+          "name": "水流乱破斬"
         },
         {
           "cardBattleSkillNameId": "1271",
-          "name": "世界を変えてみせる",
-          "eng": ""
+          "name": "世界を変えてみせる"
         },
         {
           "cardBattleSkillNameId": "1272",
-          "name": "第六景門“開”！！",
-          "eng": ""
+          "name": "第六景門“開”！！"
         },
         {
           "cardBattleSkillNameId": "1273",
-          "name": "応援ありがとうー！！",
-          "eng": ""
+          "name": "応援ありがとうー！！"
         },
         {
           "cardBattleSkillNameId": "1277",
-          "name": "お前を止めてやらぁ！！",
-          "eng": ""
+          "name": "お前を止めてやらぁ！！"
         },
         {
           "cardBattleSkillNameId": "1279",
-          "name": "繋がりを断つ…！",
-          "eng": ""
+          "name": "繋がりを断つ…！"
         },
         {
           "cardBattleSkillNameId": "1280",
-          "name": "金剛帯封鎖",
-          "eng": ""
+          "name": "金剛帯封鎖"
         },
         {
           "cardBattleSkillNameId": "1281",
-          "name": "楽しみましょ！",
-          "eng": ""
+          "name": "楽しみましょ！"
         },
         {
           "cardBattleSkillNameId": "1283",
-          "name": "やってみるってばよ！",
-          "eng": ""
+          "name": "やってみるってばよ！"
         },
         {
           "cardBattleSkillNameId": "1285",
-          "name": "オレと戦え…！",
-          "eng": ""
+          "name": "オレと戦え…！"
         },
         {
           "cardBattleSkillNameId": "1286",
@@ -3592,68 +2958,55 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "1289",
-          "name": "オレはあきらめねェ！",
-          "eng": ""
+          "name": "オレはあきらめねェ！"
         },
         {
           "cardBattleSkillNameId": "1291",
-          "name": "絆など…断ち切った",
-          "eng": ""
+          "name": "絆など…断ち切った"
         },
         {
           "cardBattleSkillNameId": "1293",
-          "name": "そろそろ本気で行くよ！",
-          "eng": ""
+          "name": "そろそろ本気で行くよ！"
         },
         {
           "cardBattleSkillNameId": "1295",
-          "name": "無駄なんだよ…",
-          "eng": ""
+          "name": "無駄なんだよ…"
         },
         {
           "cardBattleSkillNameId": "1297",
-          "name": "ま！やってみようか",
-          "eng": ""
+          "name": "ま！やってみようか"
         },
         {
           "cardBattleSkillNameId": "1299",
-          "name": "ボクは守りたい…",
-          "eng": ""
+          "name": "ボクは守りたい…"
         },
         {
           "cardBattleSkillNameId": "1305",
-          "name": "オレが呪いを解いてやる",
-          "eng": ""
+          "name": "オレが呪いを解いてやる"
         },
         {
           "cardBattleSkillNameId": "1307",
-          "name": "うちはを…舐めるなよ",
-          "eng": ""
+          "name": "うちはを…舐めるなよ"
         },
         {
           "cardBattleSkillNameId": "1309",
-          "name": "ボクも第七班だからね",
-          "eng": ""
+          "name": "ボクも第七班だからね"
         },
         {
           "cardBattleSkillNameId": "1319",
-          "name": "誰にも邪魔はさせない",
-          "eng": ""
+          "name": "誰にも邪魔はさせない"
         },
         {
           "cardBattleSkillNameId": "1321",
-          "name": "お前に全てを託す",
-          "eng": ""
+          "name": "お前に全てを託す"
         },
         {
           "cardBattleSkillNameId": "1322",
-          "name": "修羅砲光",
-          "eng": ""
+          "name": "修羅砲光"
         },
         {
           "cardBattleSkillNameId": "1323",
-          "name": "見違えたな…！",
-          "eng": ""
+          "name": "見違えたな…！"
         },
         {
           "cardBattleSkillNameId": "1332",
@@ -3677,38 +3030,31 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "1337",
-          "name": "ゲハハハハァ！！",
-          "eng": ""
+          "name": "ゲハハハハァ！！"
         },
         {
           "cardBattleSkillNameId": "1338",
-          "name": "双昇龍・乱舞二連",
-          "eng": ""
+          "name": "双昇龍・乱舞二連"
         },
         {
           "cardBattleSkillNameId": "1339",
-          "name": "いい加減にしないと怒るわよ!",
-          "eng": ""
+          "name": "いい加減にしないと怒るわよ!"
         },
         {
           "cardBattleSkillNameId": "1341",
-          "name": "オレは守りてェ…",
-          "eng": ""
+          "name": "オレは守りてェ…"
         },
         {
           "cardBattleSkillNameId": "1347",
-          "name": "答えは変わんねェ…",
-          "eng": ""
+          "name": "答えは変わんねェ…"
         },
         {
           "cardBattleSkillNameId": "1349",
-          "name": "お前達を処刑する…",
-          "eng": ""
+          "name": "お前達を処刑する…"
         },
         {
           "cardBattleSkillNameId": "1350",
-          "name": "一糸灯陣",
-          "eng": ""
+          "name": "一糸灯陣"
         },
         {
           "cardBattleSkillNameId": "1352",
@@ -3717,18 +3063,15 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "1353",
-          "name": "金剛封鎖・フライパン二の段",
-          "eng": ""
+          "name": "金剛封鎖・フライパン二の段"
         },
         {
           "cardBattleSkillNameId": "1354",
-          "name": "潰れたトマトみたいに…",
-          "eng": ""
+          "name": "潰れたトマトみたいに…"
         },
         {
           "cardBattleSkillNameId": "1356",
-          "name": "すぐに…戻って来るよ……",
-          "eng": ""
+          "name": "すぐに…戻って来るよ……"
         },
         {
           "cardBattleSkillNameId": "1358",
@@ -3747,68 +3090,55 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "1369",
-          "name": "水遁・水断波",
-          "eng": ""
+          "name": "水遁・水断波"
         },
         {
           "cardBattleSkillNameId": "1370",
-          "name": "致し方ない…ワシが動く",
-          "eng": ""
+          "name": "致し方ない…ワシが動く"
         },
         {
           "cardBattleSkillNameId": "1371",
-          "name": "磁遁・砂金大葬",
-          "eng": ""
+          "name": "磁遁・砂金大葬"
         },
         {
           "cardBattleSkillNameId": "1372",
-          "name": "お前の価値を確かめてやる",
-          "eng": ""
+          "name": "お前の価値を確かめてやる"
         },
         {
           "cardBattleSkillNameId": "1373",
-          "name": "砂霰・砂縛牢封印",
-          "eng": ""
+          "name": "砂霰・砂縛牢封印"
         },
         {
           "cardBattleSkillNameId": "1374",
-          "name": "脅威は排除する",
-          "eng": ""
+          "name": "脅威は排除する"
         },
         {
           "cardBattleSkillNameId": "1375",
-          "name": "風遁・掛け網",
-          "eng": ""
+          "name": "風遁・掛け網"
         },
         {
           "cardBattleSkillNameId": "1376",
-          "name": "警戒を怠るんじゃないよ！",
-          "eng": ""
+          "name": "警戒を怠るんじゃないよ！"
         },
         {
           "cardBattleSkillNameId": "1377",
-          "name": "蒸危暴威",
-          "eng": ""
+          "name": "蒸危暴威"
         },
         {
           "cardBattleSkillNameId": "1378",
-          "name": "ヤッベ…楽しくなってきた",
-          "eng": ""
+          "name": "ヤッベ…楽しくなってきた"
         },
         {
           "cardBattleSkillNameId": "1381",
-          "name": "大人しく帰られよ！",
-          "eng": ""
+          "name": "大人しく帰られよ！"
         },
         {
           "cardBattleSkillNameId": "1382",
-          "name": "致し方あるまい",
-          "eng": ""
+          "name": "致し方あるまい"
         },
         {
           "cardBattleSkillNameId": "1388",
-          "name": "滅びはしない…",
-          "eng": ""
+          "name": "滅びはしない…"
         },
         {
           "cardBattleSkillNameId": "1390",
@@ -3817,68 +3147,55 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "1392",
-          "name": "世話の焼ける奴らだ…",
-          "eng": ""
+          "name": "世話の焼ける奴らだ…"
         },
         {
           "cardBattleSkillNameId": "1393",
-          "name": "口寄せ・蝦蟇見世の術",
-          "eng": ""
+          "name": "口寄せ・蝦蟇見世の術"
         },
         {
           "cardBattleSkillNameId": "1394",
-          "name": "いらっしゃいませ！",
-          "eng": ""
+          "name": "いらっしゃいませ！"
         },
         {
           "cardBattleSkillNameId": "1395",
-          "name": "ヒラメカレイ解放",
-          "eng": ""
+          "name": "ヒラメカレイ解放"
         },
         {
           "cardBattleSkillNameId": "1396",
-          "name": "チャクラをためる！",
-          "eng": ""
+          "name": "チャクラをためる！"
         },
         {
           "cardBattleSkillNameId": "1397",
-          "name": "風遁・螺旋手裏剣（温泉ﾓｰﾄﾞ）",
-          "eng": ""
+          "name": "風遁・螺旋手裏剣（温泉ﾓｰﾄﾞ）"
         },
         {
           "cardBattleSkillNameId": "1398",
-          "name": "必殺・湯煙忍法だってばよ！",
-          "eng": ""
+          "name": "必殺・湯煙忍法だってばよ！"
         },
         {
           "cardBattleSkillNameId": "1399",
-          "name": "火遁・豪火球の術（熱閃）",
-          "eng": ""
+          "name": "火遁・豪火球の術（熱閃）"
         },
         {
           "cardBattleSkillNameId": "1400",
-          "name": "はしゃぐな…！",
-          "eng": ""
+          "name": "はしゃぐな…！"
         },
         {
           "cardBattleSkillNameId": "1401",
-          "name": "桜花衝・間欠泉",
-          "eng": ""
+          "name": "桜花衝・間欠泉"
         },
         {
           "cardBattleSkillNameId": "1402",
-          "name": "いいお湯だったー！",
-          "eng": ""
+          "name": "いいお湯だったー！"
         },
         {
           "cardBattleSkillNameId": "1403",
-          "name": "湯煙・柔歩双獅拳",
-          "eng": ""
+          "name": "湯煙・柔歩双獅拳"
         },
         {
           "cardBattleSkillNameId": "1404",
-          "name": "いいお湯だったね",
-          "eng": ""
+          "name": "いいお湯だったね"
         },
         {
           "cardBattleSkillNameId": "1430",
@@ -3897,28 +3214,23 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "1435",
-          "name": "仕込み千本",
-          "eng": ""
+          "name": "仕込み千本"
         },
         {
           "cardBattleSkillNameId": "1436",
-          "name": "私は綱手様の一番弟子",
-          "eng": ""
+          "name": "私は綱手様の一番弟子"
         },
         {
           "cardBattleSkillNameId": "1444",
-          "name": "すっげェ忍術見せてやる！",
-          "eng": ""
+          "name": "すっげェ忍術見せてやる！"
         },
         {
           "cardBattleSkillNameId": "1445",
-          "name": "虎視眈弾",
-          "eng": ""
+          "name": "虎視眈弾"
         },
         {
           "cardBattleSkillNameId": "1446",
-          "name": "ボクにもようやく分かった",
-          "eng": ""
+          "name": "ボクにもようやく分かった"
         },
         {
           "cardBattleSkillNameId": "1450",
@@ -3927,33 +3239,27 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "1451",
-          "name": "紫電一閃",
-          "eng": ""
+          "name": "紫電一閃"
         },
         {
           "cardBattleSkillNameId": "1452",
-          "name": "人は刀そのものだ",
-          "eng": ""
+          "name": "人は刀そのものだ"
         },
         {
           "cardBattleSkillNameId": "1454",
-          "name": "逃げ道なんか選ばねェ！！",
-          "eng": ""
+          "name": "逃げ道なんか選ばねェ！！"
         },
         {
           "cardBattleSkillNameId": "1456",
-          "name": "迷いを振りきる",
-          "eng": ""
+          "name": "迷いを振りきる"
         },
         {
           "cardBattleSkillNameId": "1457",
-          "name": "火遁・瞬身斬",
-          "eng": ""
+          "name": "火遁・瞬身斬"
         },
         {
           "cardBattleSkillNameId": "1458",
-          "name": "オレを捉えられるか",
-          "eng": ""
+          "name": "オレを捉えられるか"
         },
         {
           "cardBattleSkillNameId": "1459",
@@ -3962,8 +3268,7 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "1460",
-          "name": "沈みなさい…",
-          "eng": ""
+          "name": "沈みなさい…"
         },
         {
           "cardBattleSkillNameId": "1465",
@@ -3982,13 +3287,11 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "1488",
-          "name": "I Have Arrived",
-          "eng": ""
+          "name": "I Have Arrived"
         },
         {
           "cardBattleSkillNameId": "1489",
-          "name": "口寄せ・五重羅生門",
-          "eng": ""
+          "name": "口寄せ・五重羅生門"
         },
         {
           "cardBattleSkillNameId": "1492",
@@ -3997,13 +3300,11 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "1493",
-          "name": "チャクラ吸収",
-          "eng": ""
+          "name": "チャクラ吸収"
         },
         {
           "cardBattleSkillNameId": "1494",
-          "name": "白き肉体",
-          "eng": ""
+          "name": "白き肉体"
         },
         {
           "cardBattleSkillNameId": "1501",
@@ -4022,48 +3323,39 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "1508",
-          "name": "ここはオレの領域だ",
-          "eng": ""
+          "name": "ここはオレの領域だ"
         },
         {
           "cardBattleSkillNameId": "1510",
-          "name": "白眼！！",
-          "eng": ""
+          "name": "白眼！！"
         },
         {
           "cardBattleSkillNameId": "1511",
-          "name": "口寄せ・ガマ吉（謹賀）",
-          "eng": ""
+          "name": "口寄せ・ガマ吉（謹賀）"
         },
         {
           "cardBattleSkillNameId": "1512",
-          "name": "凛々しき佇まい",
-          "eng": ""
+          "name": "凛々しき佇まい"
         },
         {
           "cardBattleSkillNameId": "1513",
-          "name": "口寄せ・アオダ（謹賀）",
-          "eng": ""
+          "name": "口寄せ・アオダ（謹賀）"
         },
         {
           "cardBattleSkillNameId": "1514",
-          "name": "貫録の睨み",
-          "eng": ""
+          "name": "貫録の睨み"
         },
         {
           "cardBattleSkillNameId": "1515",
-          "name": "口寄せ・カツユ（謹賀）",
-          "eng": ""
+          "name": "口寄せ・カツユ（謹賀）"
         },
         {
           "cardBattleSkillNameId": "1516",
-          "name": "淡き桜色のよそおい",
-          "eng": ""
+          "name": "淡き桜色のよそおい"
         },
         {
           "cardBattleSkillNameId": "1518",
-          "name": "日向の力、覚えておけ",
-          "eng": ""
+          "name": "日向の力、覚えておけ"
         },
         {
           "cardBattleSkillNameId": "1535",
@@ -4072,23 +3364,19 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "1536",
-          "name": "オレは…正確に点穴を穿つ",
-          "eng": ""
+          "name": "オレは…正確に点穴を穿つ"
         },
         {
           "cardBattleSkillNameId": "1538",
-          "name": "手応えを感じる…",
-          "eng": ""
+          "name": "手応えを感じる…"
         },
         {
           "cardBattleSkillNameId": "1540",
-          "name": "どれ、やってみせるかのォ",
-          "eng": ""
+          "name": "どれ、やってみせるかのォ"
         },
         {
           "cardBattleSkillNameId": "1542",
-          "name": "心優しき里長",
-          "eng": ""
+          "name": "心優しき里長"
         },
         {
           "cardBattleSkillNameId": "1543",
@@ -4102,8 +3390,7 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "1545",
-          "name": "金剛封鎖・縫鎖槍",
-          "eng": ""
+          "name": "金剛封鎖・縫鎖槍"
         },
         {
           "cardBattleSkillNameId": "1546",
@@ -4112,53 +3399,43 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "1552",
-          "name": "ワシに任せよ",
-          "eng": ""
+          "name": "ワシに任せよ"
         },
         {
           "cardBattleSkillNameId": "1554",
-          "name": "完全な仙人の力を見せよう",
-          "eng": ""
+          "name": "完全な仙人の力を見せよう"
         },
         {
           "cardBattleSkillNameId": "1556",
-          "name": "ムフフフ…",
-          "eng": ""
+          "name": "ムフフフ…"
         },
         {
           "cardBattleSkillNameId": "1559",
-          "name": "桜花衝・愛撃",
-          "eng": ""
+          "name": "桜花衝・愛撃"
         },
         {
           "cardBattleSkillNameId": "1560",
-          "name": "とことんやるわよ！",
-          "eng": ""
+          "name": "とことんやるわよ！"
         },
         {
           "cardBattleSkillNameId": "1563",
-          "name": "心転身の術・愛操",
-          "eng": ""
+          "name": "心転身の術・愛操"
         },
         {
           "cardBattleSkillNameId": "1564",
-          "name": "これがセンスって奴ねー",
-          "eng": ""
+          "name": "これがセンスって奴ねー"
         },
         {
           "cardBattleSkillNameId": "1567",
-          "name": "柔歩双獅拳・愛衝",
-          "eng": ""
+          "name": "柔歩双獅拳・愛衝"
         },
         {
           "cardBattleSkillNameId": "1568",
-          "name": "喜んでくれるかな？",
-          "eng": ""
+          "name": "喜んでくれるかな？"
         },
         {
           "cardBattleSkillNameId": "1588",
-          "name": "希望などない",
-          "eng": ""
+          "name": "希望などない"
         },
         {
           "cardBattleSkillNameId": "1591",
@@ -4172,53 +3449,43 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "1593",
-          "name": "うちは瞬幻刃",
-          "eng": ""
+          "name": "うちは瞬幻刃"
         },
         {
           "cardBattleSkillNameId": "1594",
-          "name": "闇雲な攻撃など…！",
-          "eng": ""
+          "name": "闇雲な攻撃など…！"
         },
         {
           "cardBattleSkillNameId": "1596",
-          "name": "ウチの武器は笛だけだ！",
-          "eng": ""
+          "name": "ウチの武器は笛だけだ！"
         },
         {
           "cardBattleSkillNameId": "1597",
-          "name": "飛雷神斬り・連刃",
-          "eng": ""
+          "name": "飛雷神斬り・連刃"
         },
         {
           "cardBattleSkillNameId": "1598",
-          "name": "オレが考案した術だ",
-          "eng": ""
+          "name": "オレが考案した術だ"
         },
         {
           "cardBattleSkillNameId": "1600",
-          "name": "もう主の太刀筋は読める！",
-          "eng": ""
+          "name": "もう主の太刀筋は読める！"
         },
         {
           "cardBattleSkillNameId": "1602",
-          "name": "里こそが要よ！",
-          "eng": ""
+          "name": "里こそが要よ！"
         },
         {
           "cardBattleSkillNameId": "1607",
-          "name": "水遁・水乱破 昇華",
-          "eng": ""
+          "name": "水遁・水乱破 昇華"
         },
         {
           "cardBattleSkillNameId": "1608",
-          "name": "やるぜ、皆！",
-          "eng": ""
+          "name": "やるぜ、皆！"
         },
         {
           "cardBattleSkillNameId": "1610",
-          "name": "気をつけて…",
-          "eng": ""
+          "name": "気をつけて…"
         },
         {
           "cardBattleSkillNameId": "1613",
@@ -4232,23 +3499,19 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "1615",
-          "name": "螺旋丸",
-          "eng": ""
+          "name": "螺旋丸"
         },
         {
           "cardBattleSkillNameId": "1616",
-          "name": "加勢するってばよ！",
-          "eng": ""
+          "name": "加勢するってばよ！"
         },
         {
           "cardBattleSkillNameId": "1617",
-          "name": "作戦通り頼むよ",
-          "eng": ""
+          "name": "作戦通り頼むよ"
         },
         {
           "cardBattleSkillNameId": "1618",
-          "name": "ま、やろうか",
-          "eng": ""
+          "name": "ま、やろうか"
         },
         {
           "cardBattleSkillNameId": "1625",
@@ -4262,23 +3525,19 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "1629",
-          "name": "この形が大事だ",
-          "eng": ""
+          "name": "この形が大事だ"
         },
         {
           "cardBattleSkillNameId": "1630",
-          "name": "少し待て",
-          "eng": ""
+          "name": "少し待て"
         },
         {
           "cardBattleSkillNameId": "1634",
-          "name": "水遁・大爆水衝破",
-          "eng": ""
+          "name": "水遁・大爆水衝破"
         },
         {
           "cardBattleSkillNameId": "1635",
-          "name": "地の利はこちらにありますね",
-          "eng": ""
+          "name": "地の利はこちらにありますね"
         },
         {
           "cardBattleSkillNameId": "1636",
@@ -4307,18 +3566,15 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "1643",
-          "name": "お願いしますカツユ様！",
-          "eng": ""
+          "name": "お願いしますカツユ様！"
         },
         {
           "cardBattleSkillNameId": "1644",
-          "name": "救護を担当するわ！",
-          "eng": ""
+          "name": "救護を担当するわ！"
         },
         {
           "cardBattleSkillNameId": "1646",
-          "name": "今は集中する！",
-          "eng": ""
+          "name": "今は集中する！"
         },
         {
           "cardBattleSkillNameId": "1647",
@@ -4342,78 +3598,63 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "1651",
-          "name": "始めましょう！",
-          "eng": ""
+          "name": "始めましょう！"
         },
         {
           "cardBattleSkillNameId": "1652",
-          "name": "蝶翼旋風",
-          "eng": ""
+          "name": "蝶翼旋風"
         },
         {
           "cardBattleSkillNameId": "1653",
-          "name": "お肉食べたーい！！",
-          "eng": ""
+          "name": "お肉食べたーい！！"
         },
         {
           "cardBattleSkillNameId": "1657",
-          "name": "影寄せ・飛燕",
-          "eng": ""
+          "name": "影寄せ・飛燕"
         },
         {
           "cardBattleSkillNameId": "1658",
-          "name": "オレの言う通りに動いてくれ",
-          "eng": ""
+          "name": "オレの言う通りに動いてくれ"
         },
         {
           "cardBattleSkillNameId": "1659",
-          "name": "超獣偽画・黒蛇",
-          "eng": ""
+          "name": "超獣偽画・黒蛇"
         },
         {
           "cardBattleSkillNameId": "1660",
-          "name": "無駄な足掻きですよ…",
-          "eng": ""
+          "name": "無駄な足掻きですよ…"
         },
         {
           "cardBattleSkillNameId": "1661",
-          "name": "風遁・大風刃",
-          "eng": ""
+          "name": "風遁・大風刃"
         },
         {
           "cardBattleSkillNameId": "1662",
-          "name": "私がお前の力になってやる！",
-          "eng": ""
+          "name": "私がお前の力になってやる！"
         },
         {
           "cardBattleSkillNameId": "1663",
-          "name": "心転身・心奥",
-          "eng": ""
+          "name": "心転身・心奥"
         },
         {
           "cardBattleSkillNameId": "1664",
-          "name": "もっと深く潜るわ…！",
-          "eng": ""
+          "name": "もっと深く潜るわ…！"
         },
         {
           "cardBattleSkillNameId": "1674",
-          "name": "因縁に決着をつけよう",
-          "eng": ""
+          "name": "因縁に決着をつけよう"
         },
         {
           "cardBattleSkillNameId": "1676",
-          "name": "ここからは命を懸ける！",
-          "eng": ""
+          "name": "ここからは命を懸ける！"
         },
         {
           "cardBattleSkillNameId": "1677",
-          "name": "口寄せ・マンダ",
-          "eng": ""
+          "name": "口寄せ・マンダ"
         },
         {
           "cardBattleSkillNameId": "1678",
-          "name": "相応にさっさと散れ！",
-          "eng": ""
+          "name": "相応にさっさと散れ！"
         },
         {
           "cardBattleSkillNameId": "1679",
@@ -4467,73 +3708,59 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "1695",
-          "name": "超ビブラート雷遁刀（鉛筆）",
-          "eng": ""
+          "name": "超ビブラート雷遁刀（鉛筆）"
         },
         {
           "cardBattleSkillNameId": "1696",
-          "name": "おめおめでとうウィー！！",
-          "eng": ""
+          "name": "おめおめでとうウィー！！"
         },
         {
           "cardBattleSkillNameId": "1697",
-          "name": "ミニ螺旋手裏剣",
-          "eng": ""
+          "name": "ミニ螺旋手裏剣"
         },
         {
           "cardBattleSkillNameId": "1698",
-          "name": "修業の成果だ！",
-          "eng": ""
+          "name": "修業の成果だ！"
         },
         {
           "cardBattleSkillNameId": "1699",
-          "name": "お前はオレの新たなる光だ！",
-          "eng": ""
+          "name": "お前はオレの新たなる光だ！"
         },
         {
           "cardBattleSkillNameId": "1700",
-          "name": "再現してみせろ",
-          "eng": ""
+          "name": "再現してみせろ"
         },
         {
           "cardBattleSkillNameId": "1702",
-          "name": "オレは火影になる！",
-          "eng": ""
+          "name": "オレは火影になる！"
         },
         {
           "cardBattleSkillNameId": "1704",
-          "name": "お前は許さねェ！",
-          "eng": ""
+          "name": "お前は許さねェ！"
         },
         {
           "cardBattleSkillNameId": "1706",
-          "name": "少しは成長したろ！",
-          "eng": ""
+          "name": "少しは成長したろ！"
         },
         {
           "cardBattleSkillNameId": "1708",
-          "name": "オレが決着をつける！",
-          "eng": ""
+          "name": "オレが決着をつける！"
         },
         {
           "cardBattleSkillNameId": "1710",
-          "name": "負けやしねぇ！！",
-          "eng": ""
+          "name": "負けやしねぇ！！"
         },
         {
           "cardBattleSkillNameId": "1712",
-          "name": "九喇嘛ァ！！",
-          "eng": ""
+          "name": "九喇嘛ァ！！"
         },
         {
           "cardBattleSkillNameId": "1717",
-          "name": "ミニ螺旋手裏剣",
-          "eng": ""
+          "name": "ミニ螺旋手裏剣"
         },
         {
           "cardBattleSkillNameId": "1718",
-          "name": "修業の成果だ！",
-          "eng": ""
+          "name": "修業の成果だ！"
         },
         {
           "cardBattleSkillNameId": "1719",
@@ -4542,8 +3769,7 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "1720",
-          "name": "殺すには惜しいがな",
-          "eng": ""
+          "name": "殺すには惜しいがな"
         },
         {
           "cardBattleSkillNameId": "1721",
@@ -4552,8 +3778,7 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "1722",
-          "name": "スキは与えない…！",
-          "eng": ""
+          "name": "スキは与えない…！"
         },
         {
           "cardBattleSkillNameId": "1723",
@@ -4567,28 +3792,23 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "1726",
-          "name": "楽しませてくれた礼だ",
-          "eng": ""
+          "name": "楽しませてくれた礼だ"
         },
         {
           "cardBattleSkillNameId": "1728",
-          "name": "今、ここで叩き潰す！",
-          "eng": ""
+          "name": "今、ここで叩き潰す！"
         },
         {
           "cardBattleSkillNameId": "1730",
-          "name": "チャクラを圧縮…留めきる！",
-          "eng": ""
+          "name": "チャクラを圧縮…留めきる！"
         },
         {
           "cardBattleSkillNameId": "1731",
-          "name": "忍法・針地蔵",
-          "eng": ""
+          "name": "忍法・針地蔵"
         },
         {
           "cardBattleSkillNameId": "1732",
-          "name": "てめーに教えてやる",
-          "eng": ""
+          "name": "てめーに教えてやる"
         },
         {
           "cardBattleSkillNameId": "1741",
@@ -4612,73 +3832,59 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "1746",
-          "name": "さて、どう死にたい？",
-          "eng": ""
+          "name": "さて、どう死にたい？"
         },
         {
           "cardBattleSkillNameId": "1747",
-          "name": "おめでとう…！！",
-          "eng": ""
+          "name": "おめでとう…！！"
         },
         {
           "cardBattleSkillNameId": "1748",
-          "name": "皆、立派になったな！",
-          "eng": ""
+          "name": "皆、立派になったな！"
         },
         {
           "cardBattleSkillNameId": "1753",
-          "name": "多連撃",
-          "eng": ""
+          "name": "多連撃"
         },
         {
           "cardBattleSkillNameId": "1754",
-          "name": "多連脚",
-          "eng": ""
+          "name": "多連脚"
         },
         {
           "cardBattleSkillNameId": "1756",
-          "name": "喰い足りねーな",
-          "eng": ""
+          "name": "喰い足りねーな"
         },
         {
           "cardBattleSkillNameId": "1758",
-          "name": "これでゲーム終了ぜよ",
-          "eng": ""
+          "name": "これでゲーム終了ぜよ"
         },
         {
           "cardBattleSkillNameId": "1760",
-          "name": "この音で操る術は無敵",
-          "eng": ""
+          "name": "この音で操る術は無敵"
         },
         {
           "cardBattleSkillNameId": "1761",
-          "name": "螺旋丸・入婚",
-          "eng": ""
+          "name": "螺旋丸・入婚"
         },
         {
           "cardBattleSkillNameId": "1762",
-          "name": "重ねるチャクラ",
-          "eng": ""
+          "name": "重ねるチャクラ"
         },
         {
           "cardBattleSkillNameId": "1763",
-          "name": "点穴・夫婦突き",
-          "eng": ""
+          "name": "点穴・夫婦突き"
         },
         {
           "cardBattleSkillNameId": "1764",
-          "name": "重なった想い",
-          "eng": ""
+          "name": "重なった想い"
         },
         {
           "cardBattleSkillNameId": "1772",
-          "name": "最速最大で行くぞ！",
-          "eng": ""
+          "name": "最速最大で行くぞ！"
         },
         {
           "cardBattleSkillNameId": "1774",
-          "name": "行くぜ最速、オレ達最強",
-          "eng": ""
+          "name": "行くぜ最速、オレ達最強"
         },
         {
           "cardBattleSkillNameId": "1775",
@@ -4687,18 +3893,15 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "1778",
-          "name": "全ては虚構でしかない",
-          "eng": ""
+          "name": "全ては虚構でしかない"
         },
         {
           "cardBattleSkillNameId": "1780",
-          "name": "なんとしても生き延びろ",
-          "eng": ""
+          "name": "なんとしても生き延びろ"
         },
         {
           "cardBattleSkillNameId": "1782",
-          "name": "二人を支える柱になる",
-          "eng": ""
+          "name": "二人を支える柱になる"
         },
         {
           "cardBattleSkillNameId": "1783",
@@ -4722,23 +3925,19 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "1795",
-          "name": "千鳥刀・雷伝連鎖",
-          "eng": ""
+          "name": "千鳥刀・雷伝連鎖"
         },
         {
           "cardBattleSkillNameId": "1796",
-          "name": "お前は殺すと決めている",
-          "eng": ""
+          "name": "お前は殺すと決めている"
         },
         {
           "cardBattleSkillNameId": "1797",
-          "name": "牙狼牙",
-          "eng": ""
+          "name": "牙狼牙"
         },
         {
           "cardBattleSkillNameId": "1798",
-          "name": "逃がしはしねーよ！",
-          "eng": ""
+          "name": "逃がしはしねーよ！"
         },
         {
           "cardBattleSkillNameId": "1799",
@@ -4772,73 +3971,59 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "1815",
-          "name": "蕃茄圧潰",
-          "eng": ""
+          "name": "蕃茄圧潰"
         },
         {
           "cardBattleSkillNameId": "1816",
-          "name": "私を怒らせたわね",
-          "eng": ""
+          "name": "私を怒らせたわね"
         },
         {
           "cardBattleSkillNameId": "1823",
-          "name": "アタック一発大爆発",
-          "eng": ""
+          "name": "アタック一発大爆発"
         },
         {
           "cardBattleSkillNameId": "1824",
-          "name": "海でも修業なの！？",
-          "eng": ""
+          "name": "海でも修業なの！？"
         },
         {
           "cardBattleSkillNameId": "1827",
-          "name": "お熱いのがお好き？",
-          "eng": ""
+          "name": "お熱いのがお好き？"
         },
         {
           "cardBattleSkillNameId": "1828",
-          "name": "しかたのない人…",
-          "eng": ""
+          "name": "しかたのない人…"
         },
         {
           "cardBattleSkillNameId": "1831",
-          "name": "青春の浜辺ダッシュです",
-          "eng": ""
+          "name": "青春の浜辺ダッシュです"
         },
         {
           "cardBattleSkillNameId": "1832",
-          "name": "これが青春の汗です！！",
-          "eng": ""
+          "name": "これが青春の汗です！！"
         },
         {
           "cardBattleSkillNameId": "1836",
-          "name": "そこをどけェ！！",
-          "eng": ""
+          "name": "そこをどけェ！！"
         },
         {
           "cardBattleSkillNameId": "1837",
-          "name": "水鉄砲・二丁",
-          "eng": ""
+          "name": "水鉄砲・二丁"
         },
         {
           "cardBattleSkillNameId": "1838",
-          "name": "けっこう、やるね？",
-          "eng": ""
+          "name": "けっこう、やるね？"
         },
         {
           "cardBattleSkillNameId": "1839",
-          "name": "天手力・瞬雷",
-          "eng": ""
+          "name": "天手力・瞬雷"
         },
         {
           "cardBattleSkillNameId": "1840",
-          "name": "兄を弔う最後の血としよう",
-          "eng": ""
+          "name": "兄を弔う最後の血としよう"
         },
         {
           "cardBattleSkillNameId": "1842",
-          "name": "邪魔だ…消え失せろ！！",
-          "eng": ""
+          "name": "邪魔だ…消え失せろ！！"
         },
         {
           "cardBattleSkillNameId": "1865",
@@ -4862,23 +4047,19 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "1873",
-          "name": "行くわよー！",
-          "eng": ""
+          "name": "行くわよー！"
         },
         {
           "cardBattleSkillNameId": "1874",
-          "name": "がんばろう！！",
-          "eng": ""
+          "name": "がんばろう！！"
         },
         {
           "cardBattleSkillNameId": "1875",
-          "name": "木遁の術",
-          "eng": ""
+          "name": "木遁の術"
         },
         {
           "cardBattleSkillNameId": "1876",
-          "name": "そう甘くはないよ",
-          "eng": ""
+          "name": "そう甘くはないよ"
         },
         {
           "cardBattleSkillNameId": "1877",
@@ -4937,28 +4118,23 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "1905",
-          "name": "絶望の叫び",
-          "eng": ""
+          "name": "絶望の叫び"
         },
         {
           "cardBattleSkillNameId": "1906",
-          "name": "私は…！！",
-          "eng": ""
+          "name": "私は…！！"
         },
         {
           "cardBattleSkillNameId": "1908",
-          "name": "オビトに誓ったんだ…！",
-          "eng": ""
+          "name": "オビトに誓ったんだ…！"
         },
         {
           "cardBattleSkillNameId": "1909",
-          "name": "木遁・挿し木の術",
-          "eng": ""
+          "name": "木遁・挿し木の術"
         },
         {
           "cardBattleSkillNameId": "1910",
-          "name": "こんな現実、認めるか！",
-          "eng": ""
+          "name": "こんな現実、認めるか！"
         },
         {
           "cardBattleSkillNameId": "1914",
@@ -4982,48 +4158,39 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "1929",
-          "name": "お祭り螺旋丸",
-          "eng": ""
+          "name": "お祭り螺旋丸"
         },
         {
           "cardBattleSkillNameId": "1930",
-          "name": "お祭り突撃だー！",
-          "eng": ""
+          "name": "お祭り突撃だー！"
         },
         {
           "cardBattleSkillNameId": "1933",
-          "name": "八卦団扇空衝",
-          "eng": ""
+          "name": "八卦団扇空衝"
         },
         {
           "cardBattleSkillNameId": "1934",
-          "name": "とっても綺麗…！",
-          "eng": ""
+          "name": "とっても綺麗…！"
         },
         {
           "cardBattleSkillNameId": "1937",
-          "name": "八卦回天花火",
-          "eng": ""
+          "name": "八卦回天花火"
         },
         {
           "cardBattleSkillNameId": "1938",
-          "name": "たーまやー！",
-          "eng": ""
+          "name": "たーまやー！"
         },
         {
           "cardBattleSkillNameId": "1942",
-          "name": "音も無く殺してやるよ",
-          "eng": ""
+          "name": "音も無く殺してやるよ"
         },
         {
           "cardBattleSkillNameId": "1943",
-          "name": "秘術・千殺水翔",
-          "eng": ""
+          "name": "秘術・千殺水翔"
         },
         {
           "cardBattleSkillNameId": "1944",
-          "name": "これは…呪われた力",
-          "eng": ""
+          "name": "これは…呪われた力"
         },
         {
           "cardBattleSkillNameId": "1945",
@@ -5047,63 +4214,51 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "1957",
-          "name": "忍戦術・忍犬襲牙",
-          "eng": ""
+          "name": "忍戦術・忍犬襲牙"
         },
         {
           "cardBattleSkillNameId": "1958",
-          "name": "忍戦術を教えてやる",
-          "eng": ""
+          "name": "忍戦術を教えてやる"
         },
         {
           "cardBattleSkillNameId": "1959",
-          "name": "神威・消魂",
-          "eng": ""
+          "name": "神威・消魂"
         },
         {
           "cardBattleSkillNameId": "1960",
-          "name": "諦めて…消えろ",
-          "eng": ""
+          "name": "諦めて…消えろ"
         },
         {
           "cardBattleSkillNameId": "1961",
-          "name": "忍戦術・瞬転落し",
-          "eng": ""
+          "name": "忍戦術・瞬転落し"
         },
         {
           "cardBattleSkillNameId": "1962",
-          "name": "仲間を大切にしろ",
-          "eng": ""
+          "name": "仲間を大切にしろ"
         },
         {
           "cardBattleSkillNameId": "1963",
-          "name": "七班連係・影分身",
-          "eng": ""
+          "name": "七班連係・影分身"
         },
         {
           "cardBattleSkillNameId": "1964",
-          "name": "皆、行くってばよ！",
-          "eng": ""
+          "name": "皆、行くってばよ！"
         },
         {
           "cardBattleSkillNameId": "1965",
-          "name": "七班連係・豪火球の術",
-          "eng": ""
+          "name": "七班連係・豪火球の術"
         },
         {
           "cardBattleSkillNameId": "1966",
-          "name": "足手まといになるなよ",
-          "eng": ""
+          "name": "足手まといになるなよ"
         },
         {
           "cardBattleSkillNameId": "1967",
-          "name": "七班連係・しゃーんなろー！",
-          "eng": ""
+          "name": "七班連係・しゃーんなろー！"
         },
         {
           "cardBattleSkillNameId": "1968",
-          "name": "陽動作戦よっ！",
-          "eng": ""
+          "name": "陽動作戦よっ！"
         },
         {
           "cardBattleSkillNameId": "1969",
@@ -5132,43 +4287,35 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "1997",
-          "name": "尾獣玉螺旋手裏剣",
-          "eng": ""
+          "name": "尾獣玉螺旋手裏剣"
         },
         {
           "cardBattleSkillNameId": "1998",
-          "name": "お前は火影を分かってねェ！",
-          "eng": ""
+          "name": "お前は火影を分かってねェ！"
         },
         {
           "cardBattleSkillNameId": "2002",
-          "name": "独りになんてさせるかよ！ ",
-          "eng": ""
+          "name": "独りになんてさせるかよ！ "
         },
         {
           "cardBattleSkillNameId": "2005",
-          "name": "須佐能乎・千鳥刀",
-          "eng": ""
+          "name": "須佐能乎・千鳥刀"
         },
         {
           "cardBattleSkillNameId": "2006",
-          "name": "オレはこの世で最も強い",
-          "eng": ""
+          "name": "オレはこの世で最も強い"
         },
         {
           "cardBattleSkillNameId": "2010",
-          "name": "友も過去もここで断ち切る！",
-          "eng": ""
+          "name": "友も過去もここで断ち切る！"
         },
         {
           "cardBattleSkillNameId": "2021",
-          "name": "蛙鳴き",
-          "eng": ""
+          "name": "蛙鳴き"
         },
         {
           "cardBattleSkillNameId": "2022",
-          "name": "こっちからいくぜ！",
-          "eng": ""
+          "name": "こっちからいくぜ！"
         },
         {
           "cardBattleSkillNameId": "2026",
@@ -5222,28 +4369,23 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "2087",
-          "name": "仙法・大玉螺旋多連丸",
-          "eng": ""
+          "name": "仙法・大玉螺旋多連丸"
         },
         {
           "cardBattleSkillNameId": "2088",
-          "name": "ここだァー！",
-          "eng": ""
+          "name": "ここだァー！"
         },
         {
           "cardBattleSkillNameId": "2092",
-          "name": "お前はオレに勝てねーよ",
-          "eng": ""
+          "name": "お前はオレに勝てねーよ"
         },
         {
           "cardBattleSkillNameId": "2093",
-          "name": "変わり身・風魔手裏剣",
-          "eng": ""
+          "name": "変わり身・風魔手裏剣"
         },
         {
           "cardBattleSkillNameId": "2094",
-          "name": "生徒に手出しはさせない！",
-          "eng": ""
+          "name": "生徒に手出しはさせない！"
         },
         {
           "cardBattleSkillNameId": "2095",
@@ -5282,8 +4424,7 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "2104",
-          "name": "うん…いい画だ",
-          "eng": ""
+          "name": "うん…いい画だ"
         },
         {
           "cardBattleSkillNameId": "2107",
@@ -5317,33 +4458,27 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "2117",
-          "name": "芸術を教えてやるよ",
-          "eng": ""
+          "name": "芸術を教えてやるよ"
         },
         {
           "cardBattleSkillNameId": "2118",
-          "name": "喝ってな、うん！",
-          "eng": ""
+          "name": "喝ってな、うん！"
         },
         {
           "cardBattleSkillNameId": "2119",
-          "name": "なにして遊びましょうか？",
-          "eng": ""
+          "name": "なにして遊びましょうか？"
         },
         {
           "cardBattleSkillNameId": "2120",
-          "name": "パッッカーン！！",
-          "eng": ""
+          "name": "パッッカーン！！"
         },
         {
           "cardBattleSkillNameId": "2121",
-          "name": "トントンコンビネーション",
-          "eng": ""
+          "name": "トントンコンビネーション"
         },
         {
           "cardBattleSkillNameId": "2122",
-          "name": "さ、行きますよ",
-          "eng": ""
+          "name": "さ、行きますよ"
         },
         {
           "cardBattleSkillNameId": "2135",
@@ -5397,53 +4532,43 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "2147",
-          "name": "口寄せ・カツ湯",
-          "eng": ""
+          "name": "口寄せ・カツ湯"
         },
         {
           "cardBattleSkillNameId": "2148",
-          "name": "くいっと一杯！",
-          "eng": ""
+          "name": "くいっと一杯！"
         },
         {
           "cardBattleSkillNameId": "2151",
-          "name": "幻惑紅湯煙",
-          "eng": ""
+          "name": "幻惑紅湯煙"
         },
         {
           "cardBattleSkillNameId": "2152",
-          "name": "イイ湯加減ね",
-          "eng": ""
+          "name": "イイ湯加減ね"
         },
         {
           "cardBattleSkillNameId": "2155",
-          "name": "灼遁・光輪疾風黒旋丸",
-          "eng": ""
+          "name": "灼遁・光輪疾風黒旋丸"
         },
         {
           "cardBattleSkillNameId": "2156",
-          "name": "遅れるんじゃねェぞ",
-          "eng": ""
+          "name": "遅れるんじゃねェぞ"
         },
         {
           "cardBattleSkillNameId": "2157",
-          "name": "合わせてやるよ",
-          "eng": ""
+          "name": "合わせてやるよ"
         },
         {
           "cardBattleSkillNameId": "2158",
-          "name": "大双剣・ヒラメカレイ",
-          "eng": ""
+          "name": "大双剣・ヒラメカレイ"
         },
         {
           "cardBattleSkillNameId": "2159",
-          "name": "ボクがお守りしなきゃ…",
-          "eng": ""
+          "name": "ボクがお守りしなきゃ…"
         },
         {
           "cardBattleSkillNameId": "2161",
-          "name": "第六景門・開",
-          "eng": ""
+          "name": "第六景門・開"
         },
         {
           "cardBattleSkillNameId": "2163",
@@ -5497,28 +4622,23 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "2178",
-          "name": "どっちが勝つかな？",
-          "eng": ""
+          "name": "どっちが勝つかな？"
         },
         {
           "cardBattleSkillNameId": "2179",
-          "name": "落下にご注意を",
-          "eng": ""
+          "name": "落下にご注意を"
         },
         {
           "cardBattleSkillNameId": "2180",
-          "name": "遊びましょ先輩！！",
-          "eng": ""
+          "name": "遊びましょ先輩！！"
         },
         {
           "cardBattleSkillNameId": "2181",
-          "name": "口寄せ・獏",
-          "eng": ""
+          "name": "口寄せ・獏"
         },
         {
           "cardBattleSkillNameId": "2182",
-          "name": "犠牲を無駄にしている",
-          "eng": ""
+          "name": "犠牲を無駄にしている"
         },
         {
           "cardBattleSkillNameId": "2184",
@@ -5527,13 +4647,11 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "2186",
-          "name": "写輪眼をナメすぎだ",
-          "eng": ""
+          "name": "写輪眼をナメすぎだ"
         },
         {
           "cardBattleSkillNameId": "2188",
-          "name": "オレはうちは一族だ！",
-          "eng": ""
+          "name": "オレはうちは一族だ！"
         },
         {
           "cardBattleSkillNameId": "2190",
@@ -5577,13 +4695,11 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "2208",
-          "name": "これぞ、青春！！",
-          "eng": ""
+          "name": "これぞ、青春！！"
         },
         {
           "cardBattleSkillNameId": "2212",
-          "name": "行くぜェ！！四脚の術！！！",
-          "eng": ""
+          "name": "行くぜェ！！四脚の術！！！"
         },
         {
           "cardBattleSkillNameId": "2213",
@@ -5602,38 +4718,31 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "2217",
-          "name": "謹賀・超大玉螺旋手裏剣",
-          "eng": ""
+          "name": "謹賀・超大玉螺旋手裏剣"
         },
         {
           "cardBattleSkillNameId": "2218",
-          "name": "目出度い日だってばよ！",
-          "eng": ""
+          "name": "目出度い日だってばよ！"
         },
         {
           "cardBattleSkillNameId": "2219",
-          "name": "謹賀・須佐能乎加具土命",
-          "eng": ""
+          "name": "謹賀・須佐能乎加具土命"
         },
         {
           "cardBattleSkillNameId": "2220",
-          "name": "仕方ない…祝ってやる",
-          "eng": ""
+          "name": "仕方ない…祝ってやる"
         },
         {
           "cardBattleSkillNameId": "2221",
-          "name": "謹賀・桜花衝",
-          "eng": ""
+          "name": "謹賀・桜花衝"
         },
         {
           "cardBattleSkillNameId": "2222",
-          "name": "新しい日の始まりよ！",
-          "eng": ""
+          "name": "新しい日の始まりよ！"
         },
         {
           "cardBattleSkillNameId": "2224",
-          "name": "なぜなら",
-          "eng": ""
+          "name": "なぜなら"
         },
         {
           "cardBattleSkillNameId": "2226",
@@ -5717,33 +4826,27 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "2246",
-          "name": "しかたない八本目だ",
-          "eng": ""
+          "name": "しかたない八本目だ"
         },
         {
           "cardBattleSkillNameId": "2247",
-          "name": "真っ赤な？？？がやってきた",
-          "eng": ""
+          "name": "真っ赤な？？？がやってきた"
         },
         {
           "cardBattleSkillNameId": "2248",
-          "name": "メリークリスマスだってばね",
-          "eng": ""
+          "name": "メリークリスマスだってばね"
         },
         {
           "cardBattleSkillNameId": "2249",
-          "name": "聖夜の三尾歌",
-          "eng": ""
+          "name": "聖夜の三尾歌"
         },
         {
           "cardBattleSkillNameId": "2250",
-          "name": "聖夜もちゃんと見てんだから",
-          "eng": ""
+          "name": "聖夜もちゃんと見てんだから"
         },
         {
           "cardBattleSkillNameId": "2252",
-          "name": "自然と一体になる",
-          "eng": ""
+          "name": "自然と一体になる"
         },
         {
           "cardBattleSkillNameId": "2255",
@@ -5762,18 +4865,15 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "2259",
-          "name": "万象透過",
-          "eng": ""
+          "name": "万象透過"
         },
         {
           "cardBattleSkillNameId": "2260",
-          "name": "オレは最高に冷静だ",
-          "eng": ""
+          "name": "オレは最高に冷静だ"
         },
         {
           "cardBattleSkillNameId": "2264",
-          "name": "忍らしくのォ！",
-          "eng": ""
+          "name": "忍らしくのォ！"
         },
         {
           "cardBattleSkillNameId": "2266",
@@ -5787,8 +4887,7 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "2270",
-          "name": "この術にはリスクは無いよ",
-          "eng": ""
+          "name": "この術にはリスクは無いよ"
         },
         {
           "cardBattleSkillNameId": "2272",
@@ -5837,23 +4936,19 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "2283",
-          "name": "こっからは本気だぜ！",
-          "eng": ""
+          "name": "こっからは本気だぜ！"
         },
         {
           "cardBattleSkillNameId": "2284",
-          "name": "ﾅﾙﾄ落しを見せてやるってばよ",
-          "eng": ""
+          "name": "ﾅﾙﾄ落しを見せてやるってばよ"
         },
         {
           "cardBattleSkillNameId": "2286",
-          "name": "乙女の神秘",
-          "eng": ""
+          "name": "乙女の神秘"
         },
         {
           "cardBattleSkillNameId": "2288",
-          "name": "乙女心全開！！",
-          "eng": ""
+          "name": "乙女心全開！！"
         },
         {
           "cardBattleSkillNameId": "2290",
@@ -5947,18 +5042,15 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "2325",
-          "name": "オレに殺されたいのか",
-          "eng": ""
+          "name": "オレに殺されたいのか"
         },
         {
           "cardBattleSkillNameId": "2326",
-          "name": "だから断ち切った",
-          "eng": ""
+          "name": "だから断ち切った"
         },
         {
           "cardBattleSkillNameId": "2330",
-          "name": "仲間はオレが守る！！",
-          "eng": ""
+          "name": "仲間はオレが守る！！"
         },
         {
           "cardBattleSkillNameId": "2332",
@@ -5982,13 +5074,11 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "2340",
-          "name": "熔遁・石灰凝の術",
-          "eng": ""
+          "name": "熔遁・石灰凝の術"
         },
         {
           "cardBattleSkillNameId": "2342",
-          "name": "まぬけ！",
-          "eng": ""
+          "name": "まぬけ！"
         },
         {
           "cardBattleSkillNameId": "2344",
@@ -6607,13 +5697,11 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "2505",
-          "name": "猪蝶連係",
-          "eng": ""
+          "name": "猪蝶連係"
         },
         {
           "cardBattleSkillNameId": "2506",
-          "name": "助けに来たわよ",
-          "eng": ""
+          "name": "助けに来たわよ"
         },
         {
           "cardBattleSkillNameId": "2507",
@@ -7063,13 +6151,11 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "2610",
-          "name": "神威・手裏剣乱舞",
-          "eng": ""
+          "name": "神威・手裏剣乱舞"
         },
         {
           "cardBattleSkillNameId": "2611",
-          "name": "オレには何の意味もない",
-          "eng": ""
+          "name": "オレには何の意味もない"
         },
         {
           "cardBattleSkillNameId": "2612",
@@ -7103,13 +6189,11 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "2618",
-          "name": "贈り物をアナタに…",
-          "eng": ""
+          "name": "贈り物をアナタに…"
         },
         {
           "cardBattleSkillNameId": "2619",
-          "name": "ここに来てるって聞いてね",
-          "eng": ""
+          "name": "ここに来てるって聞いてね"
         },
         {
           "cardBattleSkillNameId": "2620",
@@ -7123,143 +6207,115 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "2622",
-          "name": "溶け出す美味しさ",
-          "eng": ""
+          "name": "溶け出す美味しさ"
         },
         {
           "cardBattleSkillNameId": "2623",
-          "name": "とろけるような菓子をあげる",
-          "eng": ""
+          "name": "とろけるような菓子をあげる"
         },
         {
           "cardBattleSkillNameId": "2624",
-          "name": "水龍瞬転神",
-          "eng": ""
+          "name": "水龍瞬転神"
         },
         {
           "cardBattleSkillNameId": "2625",
-          "name": "守れ、そして育てるのだ",
-          "eng": ""
+          "name": "守れ、そして育てるのだ"
         },
         {
           "cardBattleSkillNameId": "2626",
-          "name": "雷遁・千鳥鋭槍",
-          "eng": ""
+          "name": "雷遁・千鳥鋭槍"
         },
         {
           "cardBattleSkillNameId": "2627",
-          "name": "俺はチャクラを色で見分ける",
-          "eng": ""
+          "name": "俺はチャクラを色で見分ける"
         },
         {
           "cardBattleSkillNameId": "2628",
-          "name": "C0（シーオー）",
-          "eng": ""
+          "name": "C0（シーオー）"
         },
         {
           "cardBattleSkillNameId": "2629",
-          "name": "オイラの究極芸術だ…！！",
-          "eng": ""
+          "name": "オイラの究極芸術だ…！！"
         },
         {
           "cardBattleSkillNameId": "2630",
-          "name": "凶獣跋扈",
-          "eng": ""
+          "name": "凶獣跋扈"
         },
         {
           "cardBattleSkillNameId": "2631",
-          "name": "ここか…",
-          "eng": ""
+          "name": "ここか…"
         },
         {
           "cardBattleSkillNameId": "2632",
-          "name": "紙の使者・円月",
-          "eng": ""
+          "name": "紙の使者・円月"
         },
         {
           "cardBattleSkillNameId": "2633",
-          "name": "私が相手をしておくわ…",
-          "eng": ""
+          "name": "私が相手をしておくわ…"
         },
         {
           "cardBattleSkillNameId": "2634",
-          "name": "天送の術",
-          "eng": ""
+          "name": "天送の術"
         },
         {
           "cardBattleSkillNameId": "2635",
-          "name": "雷影様、整いました！",
-          "eng": ""
+          "name": "雷影様、整いました！"
         },
         {
           "cardBattleSkillNameId": "2636",
-          "name": "三貴神",
-          "eng": ""
+          "name": "三貴神"
         },
         {
           "cardBattleSkillNameId": "2637",
-          "name": "ここからが本番だ…",
-          "eng": ""
+          "name": "ここからが本番だ…"
         },
         {
           "cardBattleSkillNameId": "2638",
-          "name": "連三刃",
-          "eng": ""
+          "name": "連三刃"
         },
         {
           "cardBattleSkillNameId": "2639",
-          "name": "木ノ葉の忍をなめんなよ",
-          "eng": ""
+          "name": "木ノ葉の忍をなめんなよ"
         },
         {
           "cardBattleSkillNameId": "2640",
-          "name": "春風肘下ろし",
-          "eng": ""
+          "name": "春風肘下ろし"
         },
         {
           "cardBattleSkillNameId": "2641",
-          "name": "私達が主役の座をぶん獲るわよ!",
-          "eng": ""
+          "name": "私達が主役の座をぶん獲るわよ!"
         },
         {
           "cardBattleSkillNameId": "2642",
-          "name": "回天鞠打ち",
-          "eng": ""
+          "name": "回天鞠打ち"
         },
         {
           "cardBattleSkillNameId": "2643",
-          "name": "落ち着いて…私",
-          "eng": ""
+          "name": "落ち着いて…私"
         },
         {
           "cardBattleSkillNameId": "2644",
-          "name": "飛刃爆符双剣",
-          "eng": ""
+          "name": "飛刃爆符双剣"
         },
         {
           "cardBattleSkillNameId": "2645",
-          "name": "もう！",
-          "eng": ""
+          "name": "もう！"
         },
         {
           "cardBattleSkillNameId": "2646",
-          "name": "追憶の運命",
-          "eng": ""
+          "name": "追憶の運命"
         },
         {
           "cardBattleSkillNameId": "2647",
-          "name": "君を失いたくなかった",
-          "eng": ""
+          "name": "君を失いたくなかった"
         },
         {
           "cardBattleSkillNameId": "2648",
-          "name": "運命の追想",
-          "eng": ""
+          "name": "運命の追想"
         },
         {
           "cardBattleSkillNameId": "2649",
-          "name": "ミナトを大好きになった",
-          "eng": ""
+          "name": "ミナトを大好きになった"
         },
         {
           "cardBattleSkillNameId": "2651",
@@ -7268,23 +6324,19 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "2652",
-          "name": "口寄せ・九尾",
-          "eng": ""
+          "name": "口寄せ・九尾"
         },
         {
           "cardBattleSkillNameId": "2653",
-          "name": "さあ…出てこい九尾！",
-          "eng": ""
+          "name": "さあ…出てこい九尾！"
         },
         {
           "cardBattleSkillNameId": "2654",
-          "name": "ついて来い！！！",
-          "eng": ""
+          "name": "ついて来い！！！"
         },
         {
           "cardBattleSkillNameId": "2655",
-          "name": "チェケラッチョ",
-          "eng": ""
+          "name": "チェケラッチョ"
         },
         {
           "cardBattleSkillNameId": "2656",
@@ -7538,23 +6590,19 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "2721",
-          "name": "五月雨猪突",
-          "eng": ""
+          "name": "五月雨猪突"
         },
         {
           "cardBattleSkillNameId": "2722",
-          "name": "オレにだって出来る…",
-          "eng": ""
+          "name": "オレにだって出来る…"
         },
         {
           "cardBattleSkillNameId": "2723",
-          "name": "背刃殺",
-          "eng": ""
+          "name": "背刃殺"
         },
         {
           "cardBattleSkillNameId": "2724",
-          "name": "もう後悔したくない…",
-          "eng": ""
+          "name": "もう後悔したくない…"
         },
         {
           "cardBattleSkillNameId": "2725",
@@ -7568,13 +6616,11 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "2727",
-          "name": "鷹爪襲陣",
-          "eng": ""
+          "name": "鷹爪襲陣"
         },
         {
           "cardBattleSkillNameId": "2728",
-          "name": "見逃さない！",
-          "eng": ""
+          "name": "見逃さない！"
         },
         {
           "cardBattleSkillNameId": "2729",
@@ -7603,18 +6649,15 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "2734",
-          "name": "…仲間を忘れるな",
-          "eng": ""
+          "name": "…仲間を忘れるな"
         },
         {
           "cardBattleSkillNameId": "2735",
-          "name": "影分身の術・三位一体",
-          "eng": ""
+          "name": "影分身の術・三位一体"
         },
         {
           "cardBattleSkillNameId": "2736",
-          "name": "それじゃあこっちからいくぜ",
-          "eng": ""
+          "name": "それじゃあこっちからいくぜ"
         },
         {
           "cardBattleSkillNameId": "2737",
@@ -7628,293 +6671,819 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "2741",
-          "name": "火遁・爪紅鴉躍",
-          "eng": ""
+          "name": "火遁・爪紅鴉躍"
         },
         {
           "cardBattleSkillNameId": "2742",
-          "name": "オレはその不信を払いたい",
-          "eng": ""
+          "name": "オレはその不信を払いたい"
         },
         {
           "cardBattleSkillNameId": "2743",
-          "name": "秘術・毒注掌",
-          "eng": ""
+          "name": "秘術・毒注掌"
         },
         {
           "cardBattleSkillNameId": "2744",
-          "name": "次でケリをつける！",
-          "eng": ""
+          "name": "次でケリをつける！"
         },
         {
           "cardBattleSkillNameId": "2745",
-          "name": "嵐遁・青鷲刃",
-          "eng": ""
+          "name": "嵐遁・青鷲刃"
         },
         {
           "cardBattleSkillNameId": "2746",
-          "name": "初弾はオレが！",
-          "eng": ""
+          "name": "初弾はオレが！"
         },
         {
           "cardBattleSkillNameId": "2747",
-          "name": "木ノ葉旋烈風",
-          "eng": ""
+          "name": "木ノ葉旋烈風"
         },
         {
           "cardBattleSkillNameId": "2748",
-          "name": "死んでも守りぬきますから！",
-          "eng": ""
+          "name": "死んでも守りぬきますから！"
         },
         {
           "cardBattleSkillNameId": "2749",
-          "name": "幻鴉閃刃",
-          "eng": ""
+          "name": "幻鴉閃刃"
         },
         {
           "cardBattleSkillNameId": "2750",
-          "name": "分かってる…",
-          "eng": ""
+          "name": "分かってる…"
         },
         {
           "cardBattleSkillNameId": "2751",
-          "name": "豪破天眩脚",
-          "eng": ""
+          "name": "豪破天眩脚"
         },
         {
           "cardBattleSkillNameId": "2752",
-          "name": "それは私が死ねばの話だ",
-          "eng": ""
+          "name": "それは私が死ねばの話だ"
         },
         {
           "cardBattleSkillNameId": "2753",
-          "name": "錨のボルテージ",
-          "eng": ""
+          "name": "錨のボルテージ"
         },
         {
           "cardBattleSkillNameId": "2754",
-          "name": "出航しないともう一笛よ！！",
-          "eng": ""
+          "name": "出航しないともう一笛よ！！"
         },
         {
           "cardBattleSkillNameId": "2755",
-          "name": "全方位サスケロックオン",
-          "eng": ""
+          "name": "全方位サスケロックオン"
         },
         {
           "cardBattleSkillNameId": "2756",
-          "name": "だらしない奴だな！",
-          "eng": ""
+          "name": "だらしない奴だな！"
         },
         {
           "cardBattleSkillNameId": "2757",
-          "name": "梅雨払い・八卦船掌",
-          "eng": ""
+          "name": "梅雨払い・八卦船掌"
         },
         {
           "cardBattleSkillNameId": "2758",
-          "name": "大海原が私を変えてくれた！",
-          "eng": ""
+          "name": "大海原が私を変えてくれた！"
         },
         {
           "cardBattleSkillNameId": "2759",
-          "name": "昔とは違うのが分かったろ…",
-          "eng": ""
+          "name": "昔とは違うのが分かったろ…"
         },
         {
           "cardBattleSkillNameId": "2760",
-          "name": "無音殺人術・怨刃",
-          "eng": ""
+          "name": "無音殺人術・怨刃"
         },
         {
           "cardBattleSkillNameId": "2761",
-          "name": "気にくわねェ…",
-          "eng": ""
+          "name": "気にくわねェ…"
         },
         {
           "cardBattleSkillNameId": "2762",
-          "name": "氷遁秘術・幽魔鏡",
-          "eng": ""
+          "name": "氷遁秘術・幽魔鏡"
         },
         {
           "cardBattleSkillNameId": "2763",
-          "name": "…ボクに任せて下さい",
-          "eng": ""
+          "name": "…ボクに任せて下さい"
         },
         {
           "cardBattleSkillNameId": "2764",
-          "name": "雷切・昂眼輝掌",
-          "eng": ""
+          "name": "雷切・昂眼輝掌"
         },
         {
           "cardBattleSkillNameId": "2765",
-          "name": "やるぞ！！",
-          "eng": ""
+          "name": "やるぞ！！"
         },
         {
           "cardBattleSkillNameId": "2766",
-          "name": "求道玉・三界死滅",
-          "eng": ""
+          "name": "求道玉・三界死滅"
         },
         {
           "cardBattleSkillNameId": "2767",
-          "name": "そうはさせん",
-          "eng": ""
+          "name": "そうはさせん"
         },
         {
           "cardBattleSkillNameId": "2768",
-          "name": "火遁・豪炎弾",
-          "eng": ""
+          "name": "火遁・豪炎弾"
         },
         {
           "cardBattleSkillNameId": "2769",
-          "name": "ワシがやる",
-          "eng": ""
+          "name": "ワシがやる"
         },
         {
           "cardBattleSkillNameId": "2770",
-          "name": "秘術・ぶっトビ魔時空",
-          "eng": ""
+          "name": "秘術・ぶっトビ魔時空"
         },
         {
           "cardBattleSkillNameId": "2771",
-          "name": "あらよっと！",
-          "eng": ""
+          "name": "あらよっと！"
         },
         {
           "cardBattleSkillNameId": "2772",
-          "name": "八卦掌・挺身回天",
-          "eng": ""
+          "name": "八卦掌・挺身回天"
         },
         {
           "cardBattleSkillNameId": "2773",
-          "name": "オレの父がそうだったように",
-          "eng": ""
+          "name": "オレの父がそうだったように"
         },
         {
           "cardBattleSkillNameId": "2774",
-          "name": "金剛封鎖・滅凶",
-          "eng": ""
+          "name": "金剛封鎖・滅凶"
         },
         {
           "cardBattleSkillNameId": "2775",
-          "name": "今まで…色々ありがとう",
-          "eng": ""
+          "name": "今まで…色々ありがとう"
         },
         {
           "cardBattleSkillNameId": "2776",
-          "name": "螺旋丸・信念",
-          "eng": ""
+          "name": "螺旋丸・信念"
         },
         {
           "cardBattleSkillNameId": "2777",
-          "name": "これがオレのサインだ！！",
-          "eng": ""
+          "name": "これがオレのサインだ！！"
         },
         {
           "cardBattleSkillNameId": "2778",
-          "name": "螺旋丸・憎念",
-          "eng": ""
+          "name": "螺旋丸・憎念"
         },
         {
           "cardBattleSkillNameId": "2779",
-          "name": "オレはお前自身だ",
-          "eng": ""
+          "name": "オレはお前自身だ"
         },
         {
           "cardBattleSkillNameId": "2780",
-          "name": "擦足・影首縛り",
-          "eng": ""
+          "name": "擦足・影首縛り"
         },
         {
           "cardBattleSkillNameId": "2781",
-          "name": "ゆっくりさせてくれ…",
-          "eng": ""
+          "name": "ゆっくりさせてくれ…"
         },
         {
           "cardBattleSkillNameId": "2782",
-          "name": "八卦空掌波",
-          "eng": ""
+          "name": "八卦空掌波"
         },
         {
           "cardBattleSkillNameId": "2783",
-          "name": "心せよ！",
-          "eng": ""
+          "name": "心せよ！"
         },
         {
           "cardBattleSkillNameId": "2784",
-          "name": "魔球・斬り斬り舞",
-          "eng": ""
+          "name": "魔球・斬り斬り舞"
         },
         {
           "cardBattleSkillNameId": "2785",
-          "name": "男のクセしやがって",
-          "eng": ""
+          "name": "男のクセしやがって"
         },
         {
           "cardBattleSkillNameId": "2786",
-          "name": "夏だ！水着だ！愛の罵倒だ！",
-          "eng": ""
+          "name": "夏だ！水着だ！愛の罵倒だ！"
         },
         {
           "cardBattleSkillNameId": "2787",
-          "name": "…このゲスチンヤロー",
-          "eng": ""
+          "name": "…このゲスチンヤロー"
         },
         {
           "cardBattleSkillNameId": "2788",
-          "name": "活断・桜花衝",
-          "eng": ""
+          "name": "活断・桜花衝"
         },
         {
           "cardBattleSkillNameId": "2789",
-          "name": "私、まだ何も言ってません！",
-          "eng": ""
+          "name": "私、まだ何も言ってません！"
         },
         {
           "cardBattleSkillNameId": "2790",
-          "name": "六道・日輪ノ環",
-          "eng": ""
+          "name": "六道・日輪ノ環"
         },
         {
           "cardBattleSkillNameId": "2791",
-          "name": "みんな…！",
-          "eng": ""
+          "name": "みんな…！"
         },
         {
           "cardBattleSkillNameId": "2792",
-          "name": "口寄せ・カツユ散弾",
-          "eng": ""
+          "name": "口寄せ・カツユ散弾"
         },
         {
           "cardBattleSkillNameId": "2793",
-          "name": "説明しないともう一発よ！！",
-          "eng": ""
+          "name": "説明しないともう一発よ！！"
         },
         {
           "cardBattleSkillNameId": "2794",
-          "name": "紫閃・瞬天刃",
-          "eng": ""
+          "name": "紫閃・瞬天刃"
         },
         {
           "cardBattleSkillNameId": "2795",
-          "name": "やるべきことをやるだけだ",
-          "eng": ""
+          "name": "やるべきことをやるだけだ"
         },
         {
           "cardBattleSkillNameId": "2796",
-          "name": "須佐能乎・朔望ノ刃",
-          "eng": ""
+          "name": "須佐能乎・朔望ノ刃"
         },
         {
           "cardBattleSkillNameId": "2797",
-          "name": "ほう…オレと戦うだと…？",
-          "eng": ""
+          "name": "ほう…オレと戦うだと…？"
+        },
+        {
+          "cardBattleSkillNameId": "2798",
+          "name": "割波・痛天脚"
+        },
+        {
+          "cardBattleSkillNameId": "2799",
+          "name": "ナンパ男相手に本気もないな"
+        },
+        {
+          "cardBattleSkillNameId": "2800",
+          "name": "トン遁・猪突猛進"
+        },
+        {
+          "cardBattleSkillNameId": "2801",
+          "name": "お静かにお願いしますね"
+        },
+        {
+          "cardBattleSkillNameId": "2802",
+          "name": "仙法・超尾獣螺旋手裏剣"
+        },
+        {
+          "cardBattleSkillNameId": "2803",
+          "name": "行くぞ皆ァ！！"
+        },
+        {
+          "cardBattleSkillNameId": "2804",
+          "name": "地爆天星・陽掌"
+        },
+        {
+          "cardBattleSkillNameId": "2805",
+          "name": "今一度愛の力を！"
+        },
+        {
+          "cardBattleSkillNameId": "2806",
+          "name": "地爆天星・陰掌"
+        },
+        {
+          "cardBattleSkillNameId": "2807",
+          "name": "膨大な力を感じる…"
+        },
+        {
+          "cardBattleSkillNameId": "2808",
+          "name": "完成体須佐能乎・双極閃"
+        },
+        {
+          "cardBattleSkillNameId": "2809",
+          "name": "オレが世界を見張り続ける"
+        },
+        {
+          "cardBattleSkillNameId": "2810",
+          "name": "烈断衝"
+        },
+        {
+          "cardBattleSkillNameId": "2811",
+          "name": "だから守りたい"
+        },
+        {
+          "cardBattleSkillNameId": "2812",
+          "name": "あまーい"
+        },
+        {
+          "cardBattleSkillNameId": "2813",
+          "name": "ふわふわ～"
+        },
+        {
+          "cardBattleSkillNameId": "2814",
+          "name": "百豪・桜花閃心"
+        },
+        {
+          "cardBattleSkillNameId": "2815",
+          "name": "だから…もう引かない！！"
+        },
+        {
+          "cardBattleSkillNameId": "2816",
+          "name": "尾獣玉・真打"
+        },
+        {
+          "cardBattleSkillNameId": "2817",
+          "name": "いくぜ…九喇嘛"
+        },
+        {
+          "cardBattleSkillNameId": "2818",
+          "name": "死司憑血・求血狂乱"
+        },
+        {
+          "cardBattleSkillNameId": "2819",
+          "name": "やっとあの痛みを味わえる…"
+        },
+        {
+          "cardBattleSkillNameId": "2820",
+          "name": "地怨虞・冥導の魔腕"
+        },
+        {
+          "cardBattleSkillNameId": "2821",
+          "name": "今日で死ぬぞ"
+        },
+        {
+          "cardBattleSkillNameId": "2822",
+          "name": "風遁・穿龍衝"
+        },
+        {
+          "cardBattleSkillNameId": "2823",
+          "name": "なめんな！"
+        },
+        {
+          "cardBattleSkillNameId": "2824",
+          "name": "共殺の灰骨・皆滅"
+        },
+        {
+          "cardBattleSkillNameId": "2825",
+          "name": "ワラワに隠し事は無駄だ"
+        },
+        {
+          "cardBattleSkillNameId": "2826",
+          "name": "共殺の灰骨・鬼哭陣"
+        },
+        {
+          "cardBattleSkillNameId": "2827",
+          "name": "チャクラを一つにする！！"
+        },
+        {
+          "cardBattleSkillNameId": "2828",
+          "name": "潰撃・ヒラメカレイ"
+        },
+        {
+          "cardBattleSkillNameId": "2829",
+          "name": "自信の力・イコール斬った数"
+        },
+        {
+          "cardBattleSkillNameId": "2830",
+          "name": "熔遁・石灰凝割裂"
+        },
+        {
+          "cardBattleSkillNameId": "2831",
+          "name": "そろそろ引退するか？"
+        },
+        {
+          "cardBattleSkillNameId": "2832",
+          "name": "黒秘技・山椒魚"
+        },
+        {
+          "cardBattleSkillNameId": "2833",
+          "name": "成功する事だけ考えろ！"
+        },
+        {
+          "cardBattleSkillNameId": "2834",
+          "name": "芭蕉扇・火の巻"
+        },
+        {
+          "cardBattleSkillNameId": "2835",
+          "name": "口は災いの元だ…"
+        },
+        {
+          "cardBattleSkillNameId": "2836",
+          "name": "紅葫蘆・縛言吸魂"
+        },
+        {
+          "cardBattleSkillNameId": "2837",
+          "name": "騙してなんぼの弁舌だ！"
+        },
+        {
+          "cardBattleSkillNameId": "2838",
+          "name": "砂枷・乱華砂時雨"
+        },
+        {
+          "cardBattleSkillNameId": "2839",
+          "name": "一緒に杯をかわそう"
+        },
+        {
+          "cardBattleSkillNameId": "2840",
+          "name": "神威・爆火封焼"
+        },
+        {
+          "cardBattleSkillNameId": "2841",
+          "name": "その忍道を貫き通せ"
+        },
+        {
+          "cardBattleSkillNameId": "2842",
+          "name": "連斬刃・千鳥"
+        },
+        {
+          "cardBattleSkillNameId": "2843",
+          "name": "これは父の形見だ"
+        },
+        {
+          "cardBattleSkillNameId": "2844",
+          "name": "豪火球・一閃"
+        },
+        {
+          "cardBattleSkillNameId": "2845",
+          "name": "口先だけにしたくないんだ…"
+        },
+        {
+          "cardBattleSkillNameId": "2846",
+          "name": "凛花一念"
+        },
+        {
+          "cardBattleSkillNameId": "2847",
+          "name": "こっちに来て…！"
+        },
+        {
+          "cardBattleSkillNameId": "2848",
+          "name": "神威雷切・裂空"
+        },
+        {
+          "cardBattleSkillNameId": "2849",
+          "name": "神威の力を…手裏剣に！！"
+        },
+        {
+          "cardBattleSkillNameId": "2850",
+          "name": "肉弾戦車・増々"
+        },
+        {
+          "cardBattleSkillNameId": "2851",
+          "name": "ぽっちゃり系バンザーイ！！"
+        },
+        {
+          "cardBattleSkillNameId": "2852",
+          "name": "忍法・団子繚乱"
+        },
+        {
+          "cardBattleSkillNameId": "2853",
+          "name": "甘すぎちゃダメなのよねー！"
+        },
+        {
+          "cardBattleSkillNameId": "2854",
+          "name": "共鳴・光眩尾獣玉"
+        },
+        {
+          "cardBattleSkillNameId": "2855",
+          "name": "さあ、行こうぜ！！！"
+        },
+        {
+          "cardBattleSkillNameId": "2857",
+          "name": "じっとしてろ…"
+        },
+        {
+          "cardBattleSkillNameId": "2858",
+          "name": "須佐能乎・雷響閃"
+        },
+        {
+          "cardBattleSkillNameId": "2859",
+          "name": "集まれ、作戦を伝える"
+        },
+        {
+          "cardBattleSkillNameId": "2860",
+          "name": "八門遁甲の陣・夕象"
+        },
+        {
+          "cardBattleSkillNameId": "2861",
+          "name": "敵ながらアッパレだ！"
+        },
+        {
+          "cardBattleSkillNameId": "2862",
+          "name": "桜花景月・餅乱打"
+        },
+        {
+          "cardBattleSkillNameId": "2863",
+          "name": "そんなコツがあるなんて…！"
+        },
+        {
+          "cardBattleSkillNameId": "2864",
+          "name": "秘伝・影矢倉"
+        },
+        {
+          "cardBattleSkillNameId": "2865",
+          "name": "あいつはオレ一人で捕まえる"
+        },
+        {
+          "cardBattleSkillNameId": "2866",
+          "name": "トリック・オア・ナルトリック"
+        },
+        {
+          "cardBattleSkillNameId": "2867",
+          "name": "いくぞォオオオ！！"
+        },
+        {
+          "cardBattleSkillNameId": "2868",
+          "name": "完成体須佐能乎・破却斬"
+        },
+        {
+          "cardBattleSkillNameId": "2869",
+          "name": "来い！！"
+        },
+        {
+          "cardBattleSkillNameId": "2870",
+          "name": "暗部流・露払い"
+        },
+        {
+          "cardBattleSkillNameId": "2871",
+          "name": "カウンターを狙えばいい"
+        },
+        {
+          "cardBattleSkillNameId": "2872",
+          "name": "キンちゃん師匠♪情念指導♪"
+        },
+        {
+          "cardBattleSkillNameId": "2873",
+          "name": "オレの情念を思い知りなよっ"
+        },
+        {
+          "cardBattleSkillNameId": "2874",
+          "name": "人傀儡・“父”と“母”"
+        },
+        {
+          "cardBattleSkillNameId": "2875",
+          "name": "ワシ一人でやる"
+        },
+        {
+          "cardBattleSkillNameId": "2876",
+          "name": "火遁・骨灰積焼"
+        },
+        {
+          "cardBattleSkillNameId": "2877",
+          "name": "オレをやってみろ！！"
+        },
+        {
+          "cardBattleSkillNameId": "2878",
+          "name": "魔幻・紅触樹"
+        },
+        {
+          "cardBattleSkillNameId": "2879",
+          "name": "殺すつもりだったのか…"
+        },
+        {
+          "cardBattleSkillNameId": "2880",
+          "name": "幻炎霞刃"
+        },
+        {
+          "cardBattleSkillNameId": "2881",
+          "name": "こっちも終わらせる！"
+        },
+        {
+          "cardBattleSkillNameId": "2882",
+          "name": "木遁・決封陣"
+        },
+        {
+          "cardBattleSkillNameId": "2883",
+          "name": "仲間を…侮辱するだけぞ！！"
+        },
+        {
+          "cardBattleSkillNameId": "2884",
+          "name": "面白い…"
+        },
+        {
+          "cardBattleSkillNameId": "2885",
+          "name": "口寄せ・蟒蛇アオダ"
+        },
+        {
+          "cardBattleSkillNameId": "2886",
+          "name": "秘術・トビ出し注意"
+        },
+        {
+          "cardBattleSkillNameId": "2887",
+          "name": "バランスがぁ――！！"
+        },
+        {
+          "cardBattleSkillNameId": "2888",
+          "name": "木ノ葉流・三日月の舞"
+        },
+        {
+          "cardBattleSkillNameId": "2889",
+          "name": "何てことです…！"
+        },
+        {
+          "cardBattleSkillNameId": "2890",
+          "name": "地爆天星・痛刻"
+        },
+        {
+          "cardBattleSkillNameId": "2891",
+          "name": "憎しみの連鎖が始まる"
+        },
+        {
+          "cardBattleSkillNameId": "2892",
+          "name": "忍法・乱涛剣"
+        },
+        {
+          "cardBattleSkillNameId": "2893",
+          "name": "あいつは“暁”の要！！"
+        },
+        {
+          "cardBattleSkillNameId": "2894",
+          "name": "紙手裏剣・連爆陣"
+        },
+        {
+          "cardBattleSkillNameId": "2895",
+          "name": "それはアナタも同じ事…"
+        },
+        {
+          "cardBattleSkillNameId": "2896",
+          "name": "輪廻眼・天斥閃"
+        },
+        {
+          "cardBattleSkillNameId": "2897",
+          "name": "平和の懸け橋は彼だよ"
+        },
+        {
+          "cardBattleSkillNameId": "2898",
+          "name": "C0"
+        },
+        {
+          "cardBattleSkillNameId": "2899",
+          "name": "逃げきれりゃしないぜ！"
+        },
+        {
+          "cardBattleSkillNameId": "2900",
+          "name": "螺旋丸・乱獅子狂乱舞"
+        },
+        {
+          "cardBattleSkillNameId": "2901",
+          "name": "よく見てろのォ"
+        },
+        {
+          "cardBattleSkillNameId": "2902",
+          "name": "爽湯・昇爆龍"
+        },
+        {
+          "cardBattleSkillNameId": "2903",
+          "name": "五臓六腑に沁みるねェ～～！"
+        },
+        {
+          "cardBattleSkillNameId": "2904",
+          "name": "桜花衝・湯源境"
+        },
+        {
+          "cardBattleSkillNameId": "2905",
+          "name": "最高にいい湯だわ！"
+        },
+        {
+          "cardBattleSkillNameId": "2906",
+          "name": "八卦湯掘掌"
+        },
+        {
+          "cardBattleSkillNameId": "2907",
+          "name": "いいお湯だね…"
+        },
+        {
+          "cardBattleSkillNameId": "2908",
+          "name": "八尾・尾獣玉"
+        },
+        {
+          "cardBattleSkillNameId": "2909",
+          "name": "木遁・樹撲尽"
+        },
+        {
+          "cardBattleSkillNameId": "2910",
+          "name": "少しは本気で来い！"
+        },
+        {
+          "cardBattleSkillNameId": "2911",
+          "name": "忍法・超獣偽画"
+        },
+        {
+          "cardBattleSkillNameId": "2912",
+          "name": "それを確かめたいんだ"
+        },
+        {
+          "cardBattleSkillNameId": "2913",
+          "name": "木ノ葉昇烈風"
+        },
+        {
+          "cardBattleSkillNameId": "2914",
+          "name": "怖がらなくても大丈夫です！"
+        },
+        {
+          "cardBattleSkillNameId": "2915",
+          "name": "木遁・旋龍陣"
+        },
+        {
+          "cardBattleSkillNameId": "2916",
+          "name": "闘ったところで何も生まれん"
+        },
+        {
+          "cardBattleSkillNameId": "2917",
+          "name": "…終わりだ"
+        },
+        {
+          "cardBattleSkillNameId": "2918",
+          "name": "千鳥・聖夜ノ雷鳴"
+        },
+        {
+          "cardBattleSkillNameId": "2919",
+          "name": "渡したいものがある…"
+        },
+        {
+          "cardBattleSkillNameId": "2920",
+          "name": "天照・聖夜ノ黒炎"
+        },
+        {
+          "cardBattleSkillNameId": "2921",
+          "name": "これがオレのプレゼントだ"
+        },
+        {
+          "cardBattleSkillNameId": "2922",
+          "name": "名づけておいろけの術！！"
+        },
+        {
+          "cardBattleSkillNameId": "2923",
+          "name": "瞬幻・火炎斬り"
+        },
+        {
+          "cardBattleSkillNameId": "2924",
+          "name": "…闇雲に攻撃か"
+        },
+        {
+          "cardBattleSkillNameId": "2925",
+          "name": "新春・螺旋天晴丸"
+        },
+        {
+          "cardBattleSkillNameId": "2926",
+          "name": "謹賀新年！だァ～ってばよ！"
+        },
+        {
+          "cardBattleSkillNameId": "2927",
+          "name": "祝賀・千鳥廻し"
+        },
+        {
+          "cardBattleSkillNameId": "2928",
+          "name": "これが眼で語る独楽回しだ"
+        },
+        {
+          "cardBattleSkillNameId": "2929",
+          "name": "祝賀・桜花衝弾"
+        },
+        {
+          "cardBattleSkillNameId": "2930",
+          "name": "明けましてしゃーんなろー！"
+        },
+        {
+          "cardBattleSkillNameId": "2931",
+          "name": "陰遁・地爆天雷"
+        },
+        {
+          "cardBattleSkillNameId": "2932",
+          "name": "オレは地獄を天国へと変えた"
+        },
+        {
+          "cardBattleSkillNameId": "2933",
+          "name": "柔歩双獅拳・蒼波"
+        },
+        {
+          "cardBattleSkillNameId": "2934",
+          "name": "一緒に戦います"
+        },
+        {
+          "cardBattleSkillNameId": "2935",
+          "name": "螺旋丸・疾風"
+        },
+        {
+          "cardBattleSkillNameId": "2936",
+          "name": "手を貸すってばよ！"
+        },
+        {
+          "cardBattleSkillNameId": "2937",
+          "name": "天之御中・欣求浄界"
+        },
+        {
+          "cardBattleSkillNameId": "2938",
+          "name": "ワラワは不死…"
+        },
+        {
+          "cardBattleSkillNameId": "2943",
+          "name": "螺旋丸・新風"
+        },
+        {
+          "cardBattleSkillNameId": "2944",
+          "name": "オレが相手だコレ！！"
+        },
+        {
+          "cardBattleSkillNameId": "2945",
+          "name": "0"
+        },
+        {
+          "cardBattleSkillNameId": "2946",
+          "name": "0"
+        },
+        {
+          "cardBattleSkillNameId": "2947",
+          "name": "幸せのフルスイング"
+        },
+        {
+          "cardBattleSkillNameId": "2948",
+          "name": "四代目の妻になると決めてた"
         },
         {
           "cardBattleSkillNameId": "10136",
-          "name": "新術だってばよ！",
-          "eng": ""
+          "name": "新術だってばよ！"
         },
         {
           "cardBattleSkillNameId": "10225",
@@ -7923,28 +7492,23 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "12000",
-          "name": "無茶しすぎないで！",
-          "eng": ""
+          "name": "無茶しすぎないで！"
         },
         {
           "cardBattleSkillNameId": "12807",
-          "name": "ど、努力あるのみよ！",
-          "eng": ""
+          "name": "ど、努力あるのみよ！"
         },
         {
           "cardBattleSkillNameId": "13100",
-          "name": "地獄突き四本貫手",
-          "eng": ""
+          "name": "地獄突き四本貫手"
         },
         {
           "cardBattleSkillNameId": "13101",
-          "name": "ワシを超えてみよ！",
-          "eng": ""
+          "name": "ワシを超えてみよ！"
         },
         {
           "cardBattleSkillNameId": "13200",
-          "name": "暴威カッター",
-          "eng": ""
+          "name": "暴威カッター"
         },
         {
           "cardBattleSkillNameId": "14008",
@@ -7953,53 +7517,43 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "14009",
-          "name": "解",
-          "eng": ""
+          "name": "解"
         },
         {
           "cardBattleSkillNameId": "14300",
-          "name": "びゃ…白眼！",
-          "eng": ""
+          "name": "びゃ…白眼！"
         },
         {
           "cardBattleSkillNameId": "16300",
-          "name": "刀攻撃",
-          "eng": ""
+          "name": "刀攻撃"
         },
         {
           "cardBattleSkillNameId": "16301",
-          "name": "クナイ投げ（単体）",
-          "eng": ""
+          "name": "クナイ投げ（単体）"
         },
         {
           "cardBattleSkillNameId": "16302",
-          "name": "クナイ投げ（全体）",
-          "eng": ""
+          "name": "クナイ投げ（全体）"
         },
         {
           "cardBattleSkillNameId": "16500",
-          "name": "轟襲斬撃",
-          "eng": ""
+          "name": "轟襲斬撃"
         },
         {
           "cardBattleSkillNameId": "17600",
-          "name": "芭蕉扇・火の巻",
-          "eng": ""
+          "name": "芭蕉扇・火の巻"
         },
         {
           "cardBattleSkillNameId": "17601",
-          "name": "幌金縄",
-          "eng": ""
+          "name": "幌金縄"
         },
         {
           "cardBattleSkillNameId": "17700",
-          "name": "七星剣",
-          "eng": ""
+          "name": "七星剣"
         },
         {
           "cardBattleSkillNameId": "17701",
-          "name": "紅葫蘆",
-          "eng": ""
+          "name": "紅葫蘆"
         },
         {
           "cardBattleSkillNameId": "20100",
@@ -8008,57 +7562,46 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "20101",
-          "name": "空間転移",
-          "eng": ""
+          "name": "空間転移"
         },
         {
           "cardBattleSkillNameId": "20102",
-          "name": "八十神空撃",
-          "eng": ""
+          "name": "八十神空撃"
         },
         {
           "cardBattleSkillNameId": "20103",
-          "name": "耐性変化（五属性）",
-          "eng": ""
+          "name": "耐性変化（五属性）"
         },
         {
           "cardBattleSkillNameId": "20104",
-          "name": "耐性変化（瞳術）",
-          "eng": ""
+          "name": "耐性変化（瞳術）"
         },
         {
           "cardBattleSkillNameId": "20105",
-          "name": "耐性変化（武器・体術）",
-          "eng": ""
+          "name": "耐性変化（武器・体術）"
         },
         {
           "cardBattleSkillNameId": "20106",
-          "name": "耐性変化（六道仙術）",
-          "eng": ""
+          "name": "耐性変化（六道仙術）"
         },
         {
           "cardBattleSkillNameId": "20108",
-          "name": "カボチャの怒り",
-          "eng": ""
+          "name": "カボチャの怒り"
         },
         {
           "cardBattleSkillNameId": "20400",
-          "name": "餅の怒り",
-          "eng": ""
+          "name": "餅の怒り"
         },
         {
           "cardBattleSkillNameId": "20401",
-          "name": "ヒートアップ１",
-          "eng": ""
+          "name": "ヒートアップ１"
         },
         {
           "cardBattleSkillNameId": "20402",
-          "name": "ヒートアップ２",
-          "eng": ""
+          "name": "ヒートアップ２"
         },
         {
           "cardBattleSkillNameId": "20403",
-          "name": "ヒートアップ焼きもち",
-          "eng": ""
+          "name": "ヒートアップ焼きもち"
         }
 ]
