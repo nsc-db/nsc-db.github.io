@@ -6722,7 +6722,7 @@ window.charaname=[
         {
           "charaProfileId": "900045",
           "charaId": "9000",
-          "name": "巨大ｶﾎﾞﾁｬ緑",
+          "name": "Kakashi Hatake",
           "detail": null,
           "charaLoveAffinityGroupId": "0",
           "birthday": "0",

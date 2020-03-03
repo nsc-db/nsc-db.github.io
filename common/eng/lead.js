@@ -12703,7 +12703,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "997",
           "name": "飛翔の英刃",
-          "description": "木ノ葉隠れの里所属の素早さ80%アップ、行動後確率でスキル発動速度１段階アップ",
+          "description": "Konoha allies gain SPD +80%, and have a chance to gain cast speed +1 after each action.",
           "effectIdx1": "13079",
           "effectIdx2": "1457",
           "effectIdx3": "0",
@@ -12716,7 +12716,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "998",
           "name": "追憶の贈り手",
-          "description": "バトル開始時に味方全体をそれぞれ確率で短い間贈状態にし、5回行動まで全属性のスキル発動速度1段階アップ",
+          "description": "At the start of battle, all allies have a chance to gain the gift state for a short while. In addition, all attributes gain +1 cast speed for 5 turns.",
           "effectIdx1": "2655",
           "effectIdx2": "2654",
           "effectIdx3": "0",
@@ -12729,7 +12729,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "999",
           "name": "聖なる闇の贈り物",
-          "description": "バトル開始時に味方全体をそれぞれ確率で短い間贈状態にし、全属性の素早さ40%アップ",
+          "description": "At the start of battle, all allies have a chance to gain the gift state for a short while. In addition, all attributes gain SPD +40%",
           "effectIdx1": "13039",
           "effectIdx2": "2654",
           "effectIdx3": "0",
@@ -12742,7 +12742,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "1000",
           "name": "煩悩おいろけ忍法帖",
-          "description": "心と技属性の攻撃力と素早さを70%アップ",
+          "description": "Heart and Technique type ATK and SPD +70%",
           "effectIdx1": "11069",
           "effectIdx2": "13069",
           "effectIdx3": "0",
@@ -12755,7 +12755,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "1001",
           "name": "千滅の闘刃",
-          "description": "知属性と勇属性の攻撃力とスキルダメージを100％アップ",
+          "description": "Intellect and Courage attributes gain ATK and skill damage +100%",
           "effectIdx1": "11099",
           "effectIdx2": "774",
           "effectIdx3": "0",
@@ -12768,7 +12768,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "1002",
           "name": "うずまき謹賀忍伝",
-          "description": "全属性の攻撃力を202.0%アップ",
+          "description": "All attributes gain ATK +202.0%",
           "effectIdx1": "2682",
           "effectIdx2": "0",
           "effectIdx3": "0",
@@ -12781,7 +12781,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "1003",
           "name": "真剣勝負の謹賀新年",
-          "description": "全属性の防御力を202.0%アップ",
+          "description": "All attributes gain DEF +202.0%",
           "effectIdx1": "2683",
           "effectIdx2": "0",
           "effectIdx3": "0",
@@ -12794,7 +12794,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "1004",
           "name": "麗らかな謹賀新年",
-          "description": "全属性の会心率・会心力を202.0%アップ",
+          "description": "All attributes gain +202.0% critical strike rate and chance",
           "effectIdx1": "2684",
           "effectIdx2": "2685",
           "effectIdx3": "0",
@@ -12807,7 +12807,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "1005",
           "name": "贋界の創瞳",
-          "description": "無所属のスキル発動速度1段階アップ＆3回行動するまでスキップ無効",
+          "description": "None affiliated allies gain cast speed +1 and immune to skip for 3 turns",
           "effectIdx1": "1840",
           "effectIdx2": "2382",
           "effectIdx3": "0",
@@ -12820,7 +12820,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "1006",
           "name": "柔薙の双掌",
-          "description": "木ノ葉隠れの里所属の攻撃力とスキルダメージを90%アップ",
+          "description": "Konoha allies gain ATK and skill damage +90%",
           "effectIdx1": "11089",
           "effectIdx2": "30008",
           "effectIdx3": "0",
@@ -12833,7 +12833,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "1007",
           "name": "険しき道を拓いた英雄",
-          "description": "木ノ葉隠れの里所属の素早さ70%アップ＆防御力200%アップ＆幻無効",
+          "description": "Konoha allies gain SPD +70%, DEF +200%, and immune to illusion state",
           "effectIdx1": "13069",
           "effectIdx2": "1510",
           "effectIdx3": "1642",
@@ -12846,7 +12846,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "1008",
           "name": "覇眼の凶妃",
-          "description": "無所属が確率で再行動&amp;スキップ無効&amp;キャンセル無効※再行動後にさらに行動はできない",
+          "description": "None affiliated allies have a chance to gain an extra turn, gain immunity to skip, and ignore immunity. Extra turn will not grant another extra turn.",
           "effectIdx1": "439",
           "effectIdx2": "2706",
           "effectIdx3": "2707",
@@ -12859,7 +12859,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "1011",
           "name": "木ノ葉の未来を担う者",
-          "description": "木ノ葉隠れの里所属の攻撃力と防御力と素早さを70%アップ",
+          "description": "Konoha allies gain ATK, DEF, and SPD +70%",
           "effectIdx1": "11069",
           "effectIdx2": "12069",
           "effectIdx3": "13069",
@@ -12872,7 +12872,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "1012",
           "name": "0",
-          "description": "0",
+          "description": "Heart type SPD +90% and cast speed +1",
           "effectIdx1": "13089",
           "effectIdx2": "1840",
           "effectIdx3": "0",
@@ -12885,7 +12885,7 @@ window.lead=[
         {
           "cardLeaderSkillId": "1013",
           "name": "寄り添う愛情",
-          "description": "心属性の素早さと全スキルダメージを50％アップする",
+          "description": "Heart type SPD and Skill damage +50%",
           "effectIdx1": "13049",
           "effectIdx2": "682",
           "effectIdx3": "0",

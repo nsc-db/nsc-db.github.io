@@ -41946,7 +41946,7 @@ window.chara=[
           "cardId": "20060107",
           "charaType": "0",
           "modelId": "339",
-          "cardSubName": "0",
+          "cardSubName": "Eradicating Blade",
           "cardInformation": "0",
           "bookNo": "0",
           "rare": "5",
