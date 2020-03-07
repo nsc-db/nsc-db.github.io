@@ -29,11 +29,6 @@ $(document).ready( function () {
 		            { title: "攻" },
 		            { title: "防" },
 		            { title: "早" },
-		            { 
-		            	title: "評価",
-		            	"visible": true,
-		            	"searchable": true
-		            },
 		            {
 		            	title: "tag",
 		            	"visible": false,
@@ -61,16 +56,6 @@ $(document).ready( function () {
 		            },
 		            {
 		            	title: "voiced",
-		            	"visible": false,
-		            	"searchable": true
-		            },
-		            {
-		            	title: "PVP",
-		            	"visible": false,
-		            	"searchable": true
-		            },
-		            {
-		            	title: "nickname",
 		            	"visible": false,
 		            	"searchable": true
 		            }
@@ -442,7 +427,7 @@ $(document).ready( function () {
 					if($(this).attr('class') == 'list-group-item active'){
 					$(this).attr('class', "list-group-item");	
 					table
-				 	.column(16)
+				 	.column(10)
 			     	.search("", true, false)
 			     	.draw();
 				}
@@ -450,7 +435,7 @@ $(document).ready( function () {
 					$(this).attr('class', "list-group-item active");
 					
 					table
-				 	.column(16)
+				 	.column(10)
 			     	.search(1, true, false)
 			     	.draw();
 		   	   }
@@ -481,7 +466,7 @@ $(document).ready( function () {
 						}
 					}
 					table
-				 	.column(11)
+				 	.column(10)
 			     	.search(tag, true, false)
 			     	.draw();
 				}
@@ -500,7 +485,7 @@ $(document).ready( function () {
 						}
 					}
 					table
-				 	.column(11)
+				 	.column(10)
 			     	.search(tag, true, false)
 			     	.draw();
 		   	   }

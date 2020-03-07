@@ -6928,6 +6928,14 @@ window.skillname=[
           "name": "いえ…大丈夫です"
         },
         {
+          "cardBattleSkillNameId": "2941",
+          "name": "飛雷神・閃ノ段"
+        },
+        {
+          "cardBattleSkillNameId": "2942",
+          "name": "…すぐに戻って来るよ……"
+        },
+        {
           "cardBattleSkillNameId": "2943",
           "name": "螺旋丸・新風"
         },
@@ -6966,6 +6974,138 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "2952",
           "name": "地獄へ…行くんだよォ！！"
+        },
+        {
+          "cardBattleSkillNameId": "2953",
+          "name": "風遁・練空弾"
+        },
+        {
+          "cardBattleSkillNameId": "2954",
+          "name": "秘術・雲霞ノ蟲陣"
+        },
+        {
+          "cardBattleSkillNameId": "2955",
+          "name": "何故なら……は必要ない！"
+        },
+        {
+          "cardBattleSkillNameId": "2957",
+          "name": "逃げられっと思うなよ！"
+        },
+        {
+          "cardBattleSkillNameId": "2958",
+          "name": "業刻・求道玉"
+        },
+        {
+          "cardBattleSkillNameId": "2959",
+          "name": "常識では計れはせんぞ"
+        },
+        {
+          "cardBattleSkillNameId": "2960",
+          "name": "煩悩打破キック"
+        },
+        {
+          "cardBattleSkillNameId": "2961",
+          "name": "くらえ！！おいろけの術！！"
+        },
+        {
+          "cardBattleSkillNameId": "2962",
+          "name": "火遁・扇炎舞"
+        },
+        {
+          "cardBattleSkillNameId": "2963",
+          "name": "この瞳で全て見極めてやる"
+        },
+        {
+          "cardBattleSkillNameId": "2964",
+          "name": "秘伝・影針"
+        },
+        {
+          "cardBattleSkillNameId": "2965",
+          "name": "精進しろよ！"
+        },
+        {
+          "cardBattleSkillNameId": "2966",
+          "name": "連携・散火花"
+        },
+        {
+          "cardBattleSkillNameId": "2967",
+          "name": "行こ！"
+        },
+        {
+          "cardBattleSkillNameId": "2968",
+          "name": "二尾・煉獄炎"
+        },
+        {
+          "cardBattleSkillNameId": "2969",
+          "name": "飛雷神・龍涛閃"
+        },
+        {
+          "cardBattleSkillNameId": "2970",
+          "name": "ワシの術の真髄を見せよう"
+        },
+        {
+          "cardBattleSkillNameId": "2971",
+          "name": "暴獄の奏媛"
+        },
+        {
+          "cardBattleSkillNameId": "2972",
+          "name": "死の旋律を奏でてやる！"
+        },
+        {
+          "cardBattleSkillNameId": "2973",
+          "name": "式紙の舞・蝶伐"
+        },
+        {
+          "cardBattleSkillNameId": "2974",
+          "name": "希望の花であってくれ"
+        },
+        {
+          "cardBattleSkillNameId": "2975",
+          "name": "くノ一見習い・突進撃"
+        },
+        {
+          "cardBattleSkillNameId": "2976",
+          "name": "あのね！リーダー！"
+        },
+        {
+          "cardBattleSkillNameId": "2977",
+          "name": "僕を僕にしたいだけさ"
+        },
+        {
+          "cardBattleSkillNameId": "2978",
+          "name": "口寄せ・治界ノ蛞蝓"
+        },
+        {
+          "cardBattleSkillNameId": "2979",
+          "name": "私が陽動…続いて"
+        },
+        {
+          "cardBattleSkillNameId": "2980",
+          "name": "八卦想掌"
+        },
+        {
+          "cardBattleSkillNameId": "2981",
+          "name": "絶対に負けられないもの！！"
+        },
+        {
+          "cardBattleSkillNameId": "2982",
+          "name": "心断衝"
+        },
+        {
+          "cardBattleSkillNameId": "2983",
+          "name": "オレ達はいつもお前達の中に"
+        },
+        {
+          "cardBattleSkillNameId": "2990",
+          "name": "0"
+        },
+        {
+          "cardBattleSkillNameId": "2991",
+          "name": "0"
+        },
+        {
+          "cardBattleSkillNameId": "2992",
+          "name": "口寄せ・蛞蝓壊撃"
         },
         {
           "cardBattleSkillNameId": "10136",

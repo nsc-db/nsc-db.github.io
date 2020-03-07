@@ -1,6 +1,6 @@
 (function(){
 
-	function _createCard(data, name, type, hp, atk, def, spd, rare, affi, id, rate, tag, target, cast, damage, nature, voiced, type_tag, pvp, nickname){
+	function _createCard(data, name, type, hp, atk, def, spd, rare, affi, id, tag, target, cast, damage, nature, voiced, type_tag, pvp, nickname){
 		var image;
 		//Rarity Check
 		if(rare == 7){
@@ -29,15 +29,12 @@
 					+'		<td class="text-center">' + atk + '</td>'
 					+'		<td class="text-center">' + def + '</td>'
 					+'		<td class="text-center">' + spd + '</td>'
-					+'		<td class="text-center">' + rate + '</td>'					
 					+'		<td class="text-center">' + tag + '</td>'
 					+'		<td class="text-center">' + target + '</td>'		
 					+'		<td class="text-center">' + cast + '</td>'		
 					+'		<td class="text-center">' + damage + '</td>'	
 					+'		<td class="text-center">' + nature + '</td>'
-					+'		<td class="text-center">' + voiced + '</td>'
-					+'		<td class="text-center">' + pvp + '</td>'	
-					+'		<td class="text-center">' + nickname + '</td>'																																							
+					+'		<td class="text-center">' + voiced + '</td>'																																						
 					+'</tr>';
 		return model;
 	}
@@ -59,6 +56,7 @@
 		var affi;		// Character Affiliation
 		var id;			// Character ID
 		var tags;		// Character Tag
+		var tag;
 		var target = '';// Character Attack Target
 		var cast = '';	// Character Chakra Cost
 		var damage = '';// Character Damage Type
@@ -106,23 +104,70 @@
 
 			//Affi
 			affi = checkAffi(unit);
-			rate = window.tags[i]['rolerating'];
-			tag = window.tags[i]['tag'];
+
+			
+			//Get Tag
+			for(var n in window.charainfo){
+				if(id == window.charainfo[n]["targetCardId"]){
+					switch(window.charainfo[n]["limitedFlg"]){
+						case "102":
+							tags = "ex"
+							break;
+						case "104":
+							tags = "god"
+							break;
+						case "105":
+							tags = "killers"
+							break;
+						case "106":
+							tags = "origin"
+							break;
+						case "107":
+							tags = "gk"
+							break;
+						case "108":
+							tags = "ranbu"
+							break;
+						case "120":
+							tags = "pvp-reward"
+							break;
+						default:
+							tags = "other"
+							break;
+						
+					}
+				}
+			}
 
 			type_tag += type + "_" + rare;
 
-			if(tag == "ex-5" || tag == "ex-6"){
+			if(tags == "ex"){
 				type_tag += "_ex.png";
 			}
-			else if(tag == "god"){
+			else if(tags == "god"){
 				type_tag += "_god.png";
 			}
-			else if(tag == "pvp-reward"){
+			else if(tags == "pvp-reward"){
 				type_tag += "_pvp.png";
+			}
+			else if(tags == "origin"){
+				type_tag += "_origin.png";
+			}
+			else if(tags == "gk"){
+				type_tag += "_gk.png";
+			}
+			else if(tags == "killers"){
+				type_tag += "_killers.png";
+			}
+			else if(tags == "ranbu"){
+				type_tag = "ranbu.png";
 			}
 			else{
 				type_tag += ".png";
 			}
+
+			if (id == "50051001" || id == "50060307")
+				type_tag = "ranbu.png";
 
 			//Find Skills Info
 			for(var n in window.skill){
@@ -212,9 +257,10 @@
 			//Creates Entry
 			if(units.indexOf(chara[0]) == -1){ // Verifies Character ID
 				units.push(unit[0]); // Adds Character in the array			
-				content += _createCard(unit, name, type, hp, atk, def, spd, rare, affi, id, rate, tag, target, cast, damage, nature, voiced, type_tag, pvp, nickname); // chama a função passando os dados do card
+				content += _createCard(unit, name, type, hp, atk, def, spd, rare, affi, id, tags, target, cast, damage, nature, voiced, type_tag, pvp, nickname); // chama a função passando os dados do card
 				target = '';
 				cast = '';
+				tags = '';
 				damage = '';
 				nature = '';
 				voiced = 0;
@@ -284,6 +330,7 @@
 			  } );
 		
 		var name = '';
+
 		for(var x in window.chara){
 			if(cid == window.chara[x]['cardId']){
 				for(var y in window.charaname){
@@ -321,15 +368,60 @@
 				}
 				stuff += "_" + rare;
 
+				//Get Tag
+				var tags
+				for(var n in window.charainfo){
+					if(id == window.charainfo[n]["targetCardId"]){
+						switch(window.charainfo[n]["limitedFlg"]){
+							case "102":
+								tags = "ex"
+								break;
+							case "104":
+								tags = "god"
+								break;
+							case "105":
+								tags = "killers"
+								break;
+							case "106":
+								tags = "origin"
+								break;
+							case "107":
+								tags = "gk"
+								break;
+							case "108":
+								tags = "ranbu"
+								break;	
+							case "120":
+								tags = "pvp-reward"
+								break;
+							default:
+								tags = "other"
+								break;
+							
+						}
+					}
+				}
 
-				if(window.tags[x]['tag'] == "ex-5" || window.tags[x]['tag'] == "ex-6"){
+				if(tags == "ex"){
 					stuff += "_ex.png";
 				}
-				else if(window.tags[x]['tag'] == "god"){
+				else if(tags == "god"){
 					stuff += "_god.png";
 				}
-				else if(window.tags[x]['tag'] == "pvp-reward"){
+				else if(tags == "pvp-reward"){
 					stuff += "_pvp.png";
+				}
+				else if(tags == "killers"){
+					stuff += "_killers.png";
+				}
+				else if(tags == "origin"){
+					stuff += "_origin.png";
+				}
+				else if(tags == "killers"){
+					stuff += "_killers.png";
+				}
+				else if(tags == "ranbu"){
+					stuff = "ranbu.png";
 				}
 				else{
 					stuff += ".png";
