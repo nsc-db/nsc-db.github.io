@@ -21951,19 +21951,73 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2491",
+          "abilityName": "“三忍”一の才知",
+          "abilityDescription": "敵に木ノ葉隠れの里所属がいると高確率で「クク……心寒い…」で急襲攻撃（ﾁｬｸﾗ中回復）、最大ﾁｬｸﾗ量200ｱｯﾌﾟ",
+          "abilityEffectDescription": "敵に木ノ葉隠れの里所属がいると高確率で「クク……心寒い…」で急襲攻撃（ﾁｬｸﾗ中回復）、最大ﾁｬｸﾗ量200ｱｯﾌﾟ",
+          "effectIdx1": "2830",
+          "effectIdx2": "20019",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2492",
+          "abilityName": "大蟒蛇マンダ",
+          "abilityDescription": "キャンセル無効、1回行動まで全スキル無効、超忍・創・滅キャラから受けるダメージ50%カット",
+          "abilityEffectDescription": "キャンセル無効、1回行動まで全スキル無効、超忍・創・滅キャラから受けるダメージ50%カット",
+          "effectIdx1": "1751",
+          "effectIdx2": "1794",
+          "effectIdx3": "2708"
+        },
+        {
+          "abilityId": "2493",
+          "abilityName": "意外性デコレーション",
+          "abilityDescription": "HP0以下で2回耐え、班にイルカがいると耐えたときHP全回復、行動後確率でスキルダメージ100%アップ",
+          "abilityEffectDescription": "HP0以下で2回耐え、班にイルカがいると耐えたときHP全回復、行動後確率でスキルダメージ100%アップ",
+          "effectIdx1": "1057",
+          "effectIdx2": "2845",
+          "effectIdx3": "2849"
+        },
+        {
+          "abilityId": "2494",
+          "abilityName": "仲間への感謝",
+          "abilityDescription": "班にイルカがいると、バトル開始時にチャクラ100%回復&amp;スキルダメージ100%アップ&amp;スキル発動速度1段階アップ",
+          "abilityEffectDescription": "班にイルカがいると、バトル開始時にチャクラ100%回復&amp;スキルダメージ100%アップ&amp;スキル発動速度1段階アップ",
+          "effectIdx1": "2846",
+          "effectIdx2": "2847",
+          "effectIdx3": "2848"
+        },
+        {
+          "abilityId": "2495",
+          "abilityName": "心意気クッキング",
+          "abilityDescription": "HP0以下で2回耐え、班にナルトがいると耐えた時HP全回復、行動後確率で素早さ100%アップ",
+          "abilityEffectDescription": "HP0以下で2回耐え、班にナルトがいると耐えた時HP全回復、行動後確率で素早さ100%アップ",
+          "effectIdx1": "1057",
+          "effectIdx2": "2841",
+          "effectIdx3": "2850"
+        },
+        {
+          "abilityId": "2496",
+          "abilityName": "教え子との共同作業",
+          "abilityDescription": "班にナルトがいると、バトル開始時に確率で先制攻撃&amp;スキルダメージ100%アップ&amp;スキル発動速度1段階アップ",
+          "abilityEffectDescription": "班にナルトがいると、バトル開始時に確率で先制攻撃&amp;スキルダメージ100%アップ&amp;スキル発動速度1段階アップ",
+          "effectIdx1": "2842",
+          "effectIdx2": "2843",
+          "effectIdx3": "2157"
+        },
+        {
           "abilityId": "2497",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "磨かれし忍具捌き",
+          "abilityDescription": "HP0以下で2回耐える、敵に\"暁\"がいるとﾊﾞﾄﾙ開始時に耐性を無視して敵全体の防御力101.0%ﾀﾞｳﾝ&amp;自身に透状態",
+          "abilityEffectDescription": "HP0以下で2回耐える、敵に\"暁\"がいるとﾊﾞﾄﾙ開始時に耐性を無視して敵全体の防御力101.0%ﾀﾞｳﾝ&amp;自身に透状態",
           "effectIdx1": "2853",
           "effectIdx2": "2852",
           "effectIdx3": "1057"
         },
         {
           "abilityId": "2498",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "攻援自在の遠射",
+          "abilityDescription": "敵に滅ｷｬﾗ生存で素早さ200%ｱｯﾌﾟ＆確率で再行動、行動後に自身を抗状態（弱体・幻・状態異常を解除＆無効化）",
+          "abilityEffectDescription": "敵に滅ｷｬﾗ生存で素早さ200%ｱｯﾌﾟ＆確率で再行動、行動後に自身を抗状態（弱体・幻・状態異常を解除＆無効化）",
           "effectIdx1": "2814",
           "effectIdx2": "2854",
           "effectIdx3": "2855"
@@ -21985,6 +22039,24 @@ window.ability=[
           "effectIdx1": "2593",
           "effectIdx2": "0",
           "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2501",
+          "abilityName": "“三忍”一の剛力",
+          "abilityDescription": "敵に無所属がいると確率で先制、死亡時味方全体に火影の守護付与(HP0以下で1回耐える、全ｽｷﾙ無効※耐性無視除く)",
+          "abilityEffectDescription": "敵に無所属がいると確率で先制、死亡時味方全体に火影の守護付与(HP0以下で1回耐える、全ｽｷﾙ無効※耐性無視除く)",
+          "effectIdx1": "2509",
+          "effectIdx2": "2874",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2502",
+          "abilityName": "大蛞蝓カツユ",
+          "abilityDescription": "超忍祭限定・滅・創キャラから受けるダメージ50%カット、HP0以下で5回耐える、1回行動までチャクラ消費0",
+          "abilityEffectDescription": "超忍祭限定・滅・創キャラから受けるダメージ50%カット、HP0以下で5回耐える、1回行動までチャクラ消費0",
+          "effectIdx1": "2708",
+          "effectIdx2": "1512",
+          "effectIdx3": "1378"
         },
         {
           "abilityId": "10000",
@@ -23819,6 +23891,42 @@ window.ability=[
           "abilityDescription": "低確率で再行動（25%）",
           "abilityEffectDescription": "低確率で再行動（25%）",
           "effectIdx1": "2537",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "310033",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "1回行動まで耐性無視ダメージ0",
+          "abilityEffectDescription": "1回行動まで耐性無視ダメージ0",
+          "effectIdx1": "1961",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "310034",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "HP50%以下で素早さ80％アップ",
+          "abilityEffectDescription": "HP50%以下で素早さ80％アップ",
+          "effectIdx1": "2423",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "310035",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "敵に破神が生存しているとスキルダメージ150%アップ",
+          "abilityEffectDescription": "敵に破神が生存しているとスキルダメージ150%アップ",
+          "effectIdx1": "2823",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "310036",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "耐えた時に高確率でHP全回復",
+          "abilityEffectDescription": "耐えた時に高確率でHP全回復",
+          "effectIdx1": "2894",
           "effectIdx2": "0",
           "effectIdx3": "0"
         },

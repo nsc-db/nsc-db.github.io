@@ -7096,16 +7096,48 @@ window.skillname=[
           "name": "オレ達はいつもお前達の中に"
         },
         {
+          "cardBattleSkillNameId": "2984",
+          "name": "口寄せ・マンダ蹂躙"
+        },
+        {
+          "cardBattleSkillNameId": "2985",
+          "name": "クク……心寒い…"
+        },
+        {
+          "cardBattleSkillNameId": "2986",
+          "name": "うずまきクリーム連弾"
+        },
+        {
+          "cardBattleSkillNameId": "2987",
+          "name": "特製ケーキだってばよ！"
+        },
+        {
+          "cardBattleSkillNameId": "2988",
+          "name": "結界・跡片付"
+        },
+        {
+          "cardBattleSkillNameId": "2989",
+          "name": "心を込めて作るんだ"
+        },
+        {
           "cardBattleSkillNameId": "2990",
-          "name": "0"
+          "name": "忍具口寄せ・敢乱射"
         },
         {
           "cardBattleSkillNameId": "2991",
-          "name": "0"
+          "name": "接近戦がダメなら…！"
         },
         {
           "cardBattleSkillNameId": "2992",
           "name": "口寄せ・蛞蝓壊撃"
+        },
+        {
+          "cardBattleSkillNameId": "2993",
+          "name": "口寄せ・蛞蝓彗星"
+        },
+        {
+          "cardBattleSkillNameId": "2994",
+          "name": "陰封印、解！！"
         },
         {
           "cardBattleSkillNameId": "10136",
@@ -7282,6 +7314,14 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "21111",
           "name": "わっしょい！わっしょい！"
+        },
+        {
+          "cardBattleSkillNameId": "21112",
+          "name": "カップケーキの怒り（弱）"
+        },
+        {
+          "cardBattleSkillNameId": "21113",
+          "name": "カップケーキの怒り（強）"
         },
         {
           "cardBattleSkillNameId": "30000",
