@@ -1,6 +1,6 @@
 (function(){
 
-	function _createCard(data, name, type, hp, atk, def, spd, rare, affi, id, tag, target, cast, damage, nature, voiced, type_tag, pvp, nickname){
+	function _createCard(data, name, type, hp, atk, def, spd, rare, affi, id, tag, target, cast, damage, nature, voiced, type_tag, pvp, nickname, male, female){
 		var image;
 		//Rarity Check
 		if(rare == 7){
@@ -34,7 +34,9 @@
 					+'		<td class="text-center">' + cast + '</td>'		
 					+'		<td class="text-center">' + damage + '</td>'	
 					+'		<td class="text-center">' + nature + '</td>'
-					+'		<td class="text-center">' + voiced + '</td>'																																						
+					+'		<td class="text-center">' + voiced + '</td>'
+					+'		<td class="text-center">' + male + '</td>'	
+					+'		<td class="text-center">' + female + '</td>'																																					
 					+'</tr>';
 		return model;
 	}
@@ -62,6 +64,8 @@
 		var damage = '';// Character Damage Type
 		var nature = '';// Character Nature
 		var voiced = '';
+		var male = '';
+		var female = '';
 		var type_tag = '';
 		var pvp = '';
 		var nickname = '';
@@ -74,6 +78,13 @@
 			for(var y in window.charaname){
 				if(window.charaname[y]["charaProfileId"] == unit["charaProfileId"]){
 					name = window.charaname[y]['name'];
+					if(window.charaname[y]["gender"] == 1){
+						male = 1
+					}
+					else if(window.charaname[y]["gender"] == 2){
+						female = 1
+					}
+					break;
 				}
 			}
 
@@ -257,13 +268,15 @@
 			//Creates Entry
 			if(units.indexOf(chara[0]) == -1){ // Verifies Character ID
 				units.push(unit[0]); // Adds Character in the array			
-				content += _createCard(unit, name, type, hp, atk, def, spd, rare, affi, id, tags, target, cast, damage, nature, voiced, type_tag, pvp, nickname); // chama a função passando os dados do card
+				content += _createCard(unit, name, type, hp, atk, def, spd, rare, affi, id, tags, target, cast, damage, nature, voiced, type_tag, pvp, nickname, male, female); // chama a função passando os dados do card
 				target = '';
 				cast = '';
 				tags = '';
 				damage = '';
 				nature = '';
 				voiced = 0;
+				male = 0;
+				female = 0;
 				type_tag = '';
 			}
 		}

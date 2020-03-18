@@ -9,12 +9,12 @@ $(document).ready( function () {
 			      ],
 				columns: [
 		            { 
-		            	title: "Icon",
+		            	title: "Icon",						//0
 		            	responsivePriority: 1
 
 		            },
 		            { 
-		            	title: "名前",
+		            	title: "名前",						
 		            	responsivePriority: 2
 		        	},
 		            { title: "属性" },
@@ -58,6 +58,16 @@ $(document).ready( function () {
 		            	title: "voiced",
 		            	"visible": false,
 		            	"searchable": true
+		            },
+		            {
+		            	title: "male",
+		            	"visible": false,
+		            	"searchable": true
+		            },
+		            {
+		            	title: "female",
+		            	"visible": false,
+		            	"searchable": true
 		            }
 		        ],
       			 responsive: true
@@ -71,6 +81,8 @@ $(document).ready( function () {
 			var castArr = [];
 			var damageArr = [];
 			var natureArr = [];
+			var maleArr = [];
+			var femaleArr = []
 			var damageLimit = 0;
 
 			 table
@@ -425,20 +437,54 @@ $(document).ready( function () {
 				e.preventDefault();
 				if($(this).attr('id') == "voiced"){
 					if($(this).attr('class') == 'list-group-item active'){
-					$(this).attr('class', "list-group-item");	
-					table
-				 	.column(10)
-			     	.search("", true, false)
-			     	.draw();
+						$(this).attr('class', "list-group-item");	
+						table
+					 	.column(15)
+				     	.search("", true, false)
+				     	.draw();
+					}
+					else{
+						$(this).attr('class', "list-group-item active");
+						
+						table
+					 	.column(15)
+				     	.search(1, true, false)
+				     	.draw();
+			   	   	}
 				}
-				else{
-					$(this).attr('class', "list-group-item active");
-					
-					table
-				 	.column(10)
-			     	.search(1, true, false)
-			     	.draw();
-		   	   }
+				else if($(this).attr('id') == "male"){
+					if($(this).attr('class') == 'list-group-item active'){
+						$(this).attr('class', "list-group-item");	
+						table
+					 	.column(16)
+				     	.search("", true, false)
+				     	.draw();
+					}
+					else{
+						$(this).attr('class', "list-group-item active");
+						
+						table
+					 	.column(16)
+				     	.search(1, true, false)
+				     	.draw();
+			   	   	}
+				}
+				else if($(this).attr('id') == "female"){
+					if($(this).attr('class') == 'list-group-item active'){
+						$(this).attr('class', "list-group-item");	
+						table
+					 	.column(17)
+				     	.search("", true, false)
+				     	.draw();
+					}
+					else{
+						$(this).attr('class', "list-group-item active");
+						
+						table
+					 	.column(17)
+				     	.search(1, true, false)
+				     	.draw();
+			   	   	}
 				}
 				else if($(this).attr('class') == 'list-group-item active'){
 					$(this).attr('class', "list-group-item");
