@@ -13312,6 +13312,32 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1039",
+          "name": "海鳴の嶺獣",
+          "description": "バトル開始時に班の人数に応じた確率で乱舞カウントを減少する。",
+          "effectIdx1": "2876",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "1042",
+          "name": "闘忍の覇者",
+          "description": "木ノ葉隠れの里所属の最大HPとスキルダメージを100%アップ",
+          "effectIdx1": "684",
+          "effectIdx2": "774",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

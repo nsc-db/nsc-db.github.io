@@ -22014,5 +22014,21 @@ window.gear=[
           "crystalImageId": "303165",
           "recipeId": "30316",
           "recipeName": "第七班のカップケーキ"
+        },
+        {
+          "crystalId": "30317",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "1090",
+          "effectIdx2": "547",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "サクラの上着",
+          "crystalDescription": "体術と固有タイプのスキルダメージ50%アップ",
+          "crystalImageId": "303225",
+          "recipeId": "30317",
+          "recipeName": "サクラの上着"
         }
 ]

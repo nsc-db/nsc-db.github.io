@@ -2951,7 +2951,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "0"
+          "gender": "2"
         },
         {
           "charaProfileId": "14401",
@@ -3833,6 +3833,20 @@ window.charaname=[
           "weight": "6910",
           "bloodType": "4",
           "age": "42",
+          "gender": "1"
+        },
+        {
+          "charaProfileId": "52902",
+          "charaId": "529",
+          "name": "やぐら",
+          "detail": null,
+          "charaLoveAffinityGroupId": "52910",
+          "birthday": "403",
+          "constellation": "1",
+          "height": "14300",
+          "weight": "3880",
+          "bloodType": "4",
+          "age": "0",
           "gender": "1"
         },
         {
@@ -7143,7 +7157,7 @@ window.charaname=[
           "charaProfileId": "900039",
           "charaId": "9000",
           "name": "大筒木カグヤ",
-          "detail": "0",
+          "detail": null,
           "charaLoveAffinityGroupId": "0",
           "birthday": "0",
           "constellation": "0",
@@ -7151,7 +7165,7 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
-          "gender": "0"
+          "gender": "2"
         },
         {
           "charaProfileId": "900040",

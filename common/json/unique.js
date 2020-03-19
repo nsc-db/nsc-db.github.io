@@ -12478,5 +12478,17 @@ window.unique=[
           "effectIdx2": "1115",
           "effectIdx3": "20009",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1058",
+          "targetCrystal": "30317",
+          "description": "全スキルダメージ120%アップ、最大HP100%アップ、スキル発動速度1段階アップ",
+          "charaIds": "303",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "30011",
+          "effectIdx2": "684",
+          "effectIdx3": "1840",
+          "effectIdx4": "0"
         }
         ]

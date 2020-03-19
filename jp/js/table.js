@@ -120,7 +120,7 @@ $(document).ready( function () {
 						}
 					}
 					table
-				 	.columns(12)
+				 	.columns(11)
 			     	.search(target, true, false)
 			     	.draw();
 			     	
@@ -140,7 +140,7 @@ $(document).ready( function () {
 						}
 					}
 					table
-				 	.columns(12)
+				 	.columns(11)
 			     	.search(target, true, false)
 			     	.draw();
 				 	

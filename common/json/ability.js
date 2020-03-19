@@ -22059,6 +22059,42 @@ window.ability=[
           "effectIdx3": "1378"
         },
         {
+          "abilityId": "2503",
+          "abilityName": "血霧の盟闘",
+          "abilityDescription": "攻撃を受けた時に確率で素早さ60%アップ",
+          "abilityEffectDescription": "攻撃を受けた時に確率で素早さ60%アップ",
+          "effectIdx1": "2877",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2504",
+          "abilityName": "原初の命灯",
+          "abilityDescription": "攻撃を受けた時に低確率で敵全体の防御力を60%ダウン",
+          "abilityEffectDescription": "攻撃を受けた時に低確率で敵全体の防御力を60%ダウン",
+          "effectIdx1": "2878",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2509",
+          "abilityName": "度胸と頭脳",
+          "abilityDescription": "破神・闘忍から受けるダメージ60%カット、バトル開始時に自身を短い間しゃーんなろー状態",
+          "abilityEffectDescription": "破神・闘忍から受けるダメージ60%カット、バトル開始時に自身を短い間しゃーんなろー状態",
+          "effectIdx1": "2886",
+          "effectIdx2": "2888",
+          "effectIdx3": "2890"
+        },
+        {
+          "abilityId": "2510",
+          "abilityName": "学びし医療忍者の掟",
+          "abilityDescription": "味方への単体ｽｷﾙ攻撃を受け、敵に破神がいるとﾊﾞﾄﾙ開始時に自身を堅護(弱体/状態異常/弱体系特殊状態解除&amp;無効化)",
+          "abilityEffectDescription": "味方への単体ｽｷﾙ攻撃を受け、敵に破神がいるとﾊﾞﾄﾙ開始時に自身を堅護(弱体/状態異常/弱体系特殊状態解除&amp;無効化)",
+          "effectIdx1": "2186",
+          "effectIdx2": "2892",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -23191,6 +23227,24 @@ window.ability=[
           "effectIdx1": "874",
           "effectIdx2": "1512",
           "effectIdx3": "2833"
+        },
+        {
+          "abilityId": "100078",
+          "abilityName": "度胸と頭脳",
+          "abilityDescription": "破神・闘忍から受けるダメージ90%カット、バトル開始時に自身をしゃーんなろー状態",
+          "abilityEffectDescription": "破神・闘忍から受けるダメージ90%カット、バトル開始時に自身をしゃーんなろー状態",
+          "effectIdx1": "2887",
+          "effectIdx2": "2889",
+          "effectIdx3": "2891"
+        },
+        {
+          "abilityId": "100079",
+          "abilityName": "学びし医療忍者の掟",
+          "abilityDescription": "味方への単体ｽｷﾙ攻撃を受け、敵に破神存在でﾊﾞﾄﾙ開始時に味方全体を堅護(弱体/状態異常/弱体系特殊状態解除&amp;無効化)",
+          "abilityEffectDescription": "味方への単体ｽｷﾙ攻撃を受け、敵に破神存在でﾊﾞﾄﾙ開始時に味方全体を堅護(弱体/状態異常/弱体系特殊状態解除&amp;無効化)",
+          "effectIdx1": "2186",
+          "effectIdx2": "2892",
+          "effectIdx3": "2893"
         },
         {
           "abilityId": "200001",

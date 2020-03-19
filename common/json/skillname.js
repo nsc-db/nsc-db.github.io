@@ -7140,6 +7140,18 @@ window.skillname=[
           "name": "陰封印、解！！"
         },
         {
+          "cardBattleSkillNameId": "2995",
+          "name": "三尾・大渦珊瑚"
+        },
+        {
+          "cardBattleSkillNameId": "3000",
+          "name": "桜花繚刃"
+        },
+        {
+          "cardBattleSkillNameId": "3001",
+          "name": "見い付けた！"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },
