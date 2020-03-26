@@ -21904,6 +21904,22 @@ window.gear=[
           "recipeName": "ヒナタの忍界大戦ベスト"
         },
         {
+          "crystalId": "30304",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "477",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "鮫肌の帯革",
+          "crystalDescription": "水遁タイプのスキルダメージ40%アップ",
+          "crystalImageId": "303045",
+          "recipeId": "30304",
+          "recipeName": "鮫肌の帯革"
+        },
+        {
           "crystalId": "30306",
           "crystalType": "11",
           "crystalRare": "5",
@@ -21966,6 +21982,22 @@ window.gear=[
           "crystalImageId": "303095",
           "recipeId": "30309",
           "recipeName": "マンダの根付"
+        },
+        {
+          "crystalId": "30311",
+          "crystalType": "1",
+          "crystalRare": "5",
+          "effectIdx1": "182",
+          "effectIdx2": "12029",
+          "effectIdx3": "183",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "イタチの“暁”マント",
+          "crystalDescription": "攻撃力・防御力・素早さ30%アップ",
+          "crystalImageId": "303115",
+          "recipeId": "30311",
+          "recipeName": "イタチの“暁”マント"
         },
         {
           "crystalId": "30314",

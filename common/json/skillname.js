@@ -7144,12 +7144,36 @@ window.skillname=[
           "name": "三尾・大渦珊瑚"
         },
         {
+          "cardBattleSkillNameId": "2996",
+          "name": "月読・魔界睥睨"
+        },
+        {
+          "cardBattleSkillNameId": "2997",
+          "name": "オレなら時間はかからない"
+        },
+        {
+          "cardBattleSkillNameId": "2998",
+          "name": "水鮫弾・喰千切"
+        },
+        {
+          "cardBattleSkillNameId": "2999",
+          "name": "クク……削りがいのある方だ"
+        },
+        {
           "cardBattleSkillNameId": "3000",
           "name": "桜花繚刃"
         },
         {
           "cardBattleSkillNameId": "3001",
           "name": "見い付けた！"
+        },
+        {
+          "cardBattleSkillNameId": "3002",
+          "name": "忍者見習い・突撃衝"
+        },
+        {
+          "cardBattleSkillNameId": "3003",
+          "name": "………"
         },
         {
           "cardBattleSkillNameId": "10136",

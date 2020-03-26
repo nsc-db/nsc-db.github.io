@@ -22077,6 +22077,42 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2505",
+          "abilityName": "変幻自在の早業",
+          "abilityDescription": "自身の素早さ1,000%ｱｯﾌﾟ、敵に木ノ葉隠れ所属か超忍キャラが生存で素早さ250%ｱｯﾌﾟ、どちらもいると500%ｱｯﾌﾟ",
+          "abilityEffectDescription": "自身の素早さ1,000%ｱｯﾌﾟ、敵に木ノ葉隠れ所属か超忍キャラが生存で素早さ250%ｱｯﾌﾟ、どちらもいると500%ｱｯﾌﾟ",
+          "effectIdx1": "13100",
+          "effectIdx2": "2880",
+          "effectIdx3": "2881"
+        },
+        {
+          "abilityId": "2506",
+          "abilityName": "血族の本当の力",
+          "abilityDescription": "バトル開始時に自身を短い間月読状態にする、HP0以下で1回だけHP全回復",
+          "abilityEffectDescription": "バトル開始時に自身を短い間月読状態にする、HP0以下で1回だけHP全回復",
+          "effectIdx1": "2882",
+          "effectIdx2": "312",
+          "effectIdx3": "874"
+        },
+        {
+          "abilityId": "2507",
+          "abilityName": "大刀“鮫肌”の使い手",
+          "abilityDescription": "バトル開始時に敵全体を確率で竦状態にし、HP0以下で3回まで耐え、最大チャクラ量100アップ",
+          "abilityEffectDescription": "バトル開始時に敵全体を確率で竦状態にし、HP0以下で3回まで耐え、最大チャクラ量100アップ",
+          "effectIdx1": "2883",
+          "effectIdx2": "1789",
+          "effectIdx3": "20009"
+        },
+        {
+          "abilityId": "2508",
+          "abilityName": "獰猛なる水遁巧者",
+          "abilityDescription": "敵に木ノ葉隠れの里所属が生存時、バトル開始時にチャクラ100%回復&amp;確率で再行動※再行動後に再行動はできない",
+          "abilityEffectDescription": "敵に木ノ葉隠れの里所属が生存時、バトル開始時にチャクラ100%回復&amp;確率で再行動※再行動後に再行動はできない",
+          "effectIdx1": "2884",
+          "effectIdx2": "2885",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "2509",
           "abilityName": "度胸と頭脳",
           "abilityDescription": "破神・闘忍から受けるダメージ60%カット、バトル開始時に自身を短い間しゃーんなろー状態",
@@ -22092,6 +22128,24 @@ window.ability=[
           "abilityEffectDescription": "味方への単体ｽｷﾙ攻撃を受け、敵に破神がいるとﾊﾞﾄﾙ開始時に自身を堅護(弱体/状態異常/弱体系特殊状態解除&amp;無効化)",
           "effectIdx1": "2186",
           "effectIdx2": "2892",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2511",
+          "abilityName": "ナルト応援隊員",
+          "abilityDescription": "HP0以下で1回耐え、味方に「うずまきナルト（年代問わず）」が生存しているとスキルダメージ200％アップ",
+          "abilityEffectDescription": "HP0以下で1回耐え、味方に「うずまきナルト（年代問わず）」が生存しているとスキルダメージ200％アップ",
+          "effectIdx1": "312",
+          "effectIdx2": "2897",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2512",
+          "abilityName": "ぼんやり気質",
+          "abilityDescription": "最大HPを100%アップし、5回行動以降に攻撃力・防御力・素早さが100%アップ",
+          "abilityEffectDescription": "最大HPを100%アップし、5回行動以降に攻撃力・防御力・素早さが100%アップ",
+          "effectIdx1": "684",
+          "effectIdx2": "2898",
           "effectIdx3": "0"
         },
         {
@@ -23981,6 +24035,15 @@ window.ability=[
           "abilityDescription": "耐えた時に高確率でHP全回復",
           "abilityEffectDescription": "耐えた時に高確率でHP全回復",
           "effectIdx1": "2894",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "310037",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "敵に“暁”が生存していると素早さ60%アップ",
+          "abilityEffectDescription": "敵に“暁”が生存していると素早さ60%アップ",
+          "effectIdx1": "2896",
           "effectIdx2": "0",
           "effectIdx3": "0"
         },

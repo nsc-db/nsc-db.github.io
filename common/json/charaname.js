@@ -3836,6 +3836,20 @@ window.charaname=[
           "gender": "1"
         },
         {
+          "charaProfileId": "52801",
+          "charaId": "528",
+          "name": "ウドン",
+          "detail": null,
+          "charaLoveAffinityGroupId": "52810",
+          "birthday": "403",
+          "constellation": "1",
+          "height": "12750",
+          "weight": "2650",
+          "bloodType": "3",
+          "age": "8",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "52902",
           "charaId": "529",
           "name": "やぐら",

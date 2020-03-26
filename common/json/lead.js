@@ -13325,6 +13325,32 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1040",
+          "name": "闇幻の玲瞳",
+          "description": "“暁”所属の素早さを100アップ＆スキル発動速度1段階アップ",
+          "effectIdx1": "13599",
+          "effectIdx2": "1840",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "8",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "1041",
+          "name": "魁偉なる鮫刃",
+          "description": "“暁”所属の最大チャクラ量80アップ、行動毎にチャクラ30％回復",
+          "effectIdx1": "765",
+          "effectIdx2": "820",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "8",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "1042",
           "name": "闘忍の覇者",
           "description": "木ノ葉隠れの里所属の最大HPとスキルダメージを100%アップ",
@@ -13333,6 +13359,19 @@ window.lead=[
           "effectIdx3": "0",
           "compType": "1",
           "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "1043",
+          "name": "素朴なる若葉",
+          "description": "心属性のスキルダメージを100％アップ",
+          "effectIdx1": "774",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "1",
           "target1Param": "1",
           "target2Category": "0",
           "target2Param": "0"
