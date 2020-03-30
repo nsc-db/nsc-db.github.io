@@ -2800,6 +2800,14 @@ window.charainfo=[
           "skillUrl": "https://www.youtube.com/embed/VhQtMHss96w?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
         },
         {
+          "gachaCardAdditionId": "356",
+          "targetCardId": "20060312",
+          "additionId": "0",
+          "params": "0,",
+          "limitedFlg": "104",
+          "skillUrl": "https://www.youtube.com/embed/LhBSszEDVBo?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
+        },
+        {
           "gachaCardAdditionId": "357",
           "targetCardId": "20060306",
           "additionId": "0",

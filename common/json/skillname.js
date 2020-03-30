@@ -7176,6 +7176,14 @@ window.skillname=[
           "name": "………"
         },
         {
+          "cardBattleSkillNameId": "3004",
+          "name": "雷切・穿鋭光"
+        },
+        {
+          "cardBattleSkillNameId": "3005",
+          "name": "終わりだ"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },

@@ -22000,6 +22000,38 @@ window.gear=[
           "recipeName": "イタチの“暁”マント"
         },
         {
+          "crystalId": "30312",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "662",
+          "effectIdx2": "109",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "カカシのクナイ",
+          "crystalDescription": "全スキルダメージ20%アップ、素早さ20%アップ",
+          "crystalImageId": "303125",
+          "recipeId": "30312",
+          "recipeName": "カカシのクナイ"
+        },
+        {
+          "crystalId": "30313",
+          "crystalType": "3",
+          "crystalRare": "5",
+          "effectIdx1": "1115",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "ウッキー君",
+          "crystalDescription": "バトル開始時チャクラ50%回復",
+          "crystalImageId": "303135",
+          "recipeId": "30313",
+          "recipeName": "ウッキー君"
+        },
+        {
           "crystalId": "30314",
           "crystalType": "10",
           "crystalRare": "5",

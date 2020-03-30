@@ -13377,6 +13377,19 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1044",
+          "name": "雷断の掌刃",
+          "description": "木ノ葉隠れ所属のスキル発動速度1段階アップ、1回行動までチャクラ消費0",
+          "effectIdx1": "1840",
+          "effectIdx2": "1378",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

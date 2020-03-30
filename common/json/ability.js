@@ -22149,6 +22149,24 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2513",
+          "abilityName": "轟く雷名",
+          "abilityDescription": "敵に無所属かうちは一族がいると確率で先制※両方いると確率ｱｯﾌﾟ、HP90%以上で再行動※再行動後さらに行動不可",
+          "abilityEffectDescription": "敵に無所属かうちは一族がいると確率で先制※両方いると確率ｱｯﾌﾟ、HP90%以上で再行動※再行動後さらに行動不可",
+          "effectIdx1": "2899",
+          "effectIdx2": "2900",
+          "effectIdx3": "2901"
+        },
+        {
+          "abilityId": "2514",
+          "abilityName": "電光の掌",
+          "abilityDescription": "敵の無所属にﾊﾞﾄﾙ開始時1回行動麻痺付与※耐性無視、HP0以下で1回耐える、超忍・滅・創ｷｬﾗからのﾀﾞﾒｰｼﾞ50%ｶｯﾄ",
+          "abilityEffectDescription": "敵の無所属にﾊﾞﾄﾙ開始時1回行動麻痺付与※耐性無視、HP0以下で1回耐える、超忍・滅・創ｷｬﾗからのﾀﾞﾒｰｼﾞ50%ｶｯﾄ",
+          "effectIdx1": "2902",
+          "effectIdx2": "312",
+          "effectIdx3": "2708"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
