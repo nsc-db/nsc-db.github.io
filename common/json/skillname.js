@@ -7184,6 +7184,30 @@ window.skillname=[
           "name": "終わりだ"
         },
         {
+          "cardBattleSkillNameId": "3006",
+          "name": "究極美inOBC"
+        },
+        {
+          "cardBattleSkillNameId": "3007",
+          "name": "ちょっと試してみない？"
+        },
+        {
+          "cardBattleSkillNameId": "3008",
+          "name": "火影式耳順術・廓庵入鄽垂手"
+        },
+        {
+          "cardBattleSkillNameId": "3009",
+          "name": "協力するよう頼まれたんだ"
+        },
+        {
+          "cardBattleSkillNameId": "3013",
+          "name": "蝶重撃"
+        },
+        {
+          "cardBattleSkillNameId": "3014",
+          "name": "行くぞ！"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },

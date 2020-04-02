@@ -12538,5 +12538,41 @@ window.unique=[
           "effectIdx2": "1994",
           "effectIdx3": "2524",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1061",
+          "targetCrystal": "30424",
+          "description": "ﾊﾞﾄﾙ開始時に低確率で自身を蛇の力状態(被攻撃時HP100%回復※反撃など除外、解除時ﾁｬｸﾗ0)",
+          "charaIds": "10301,10302,10303,10304,2301,2302,2303,2304,2305,20401,20402,20601,301,302,303,304,305,306,701,702,703,704,1201,1202,1203,10401,10402,10403,11101,13401,13601,13602,13501",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "2907",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1062",
+          "targetCrystal": "30403",
+          "description": "スキルダメージ150％アップ、素早さ60％アップ",
+          "charaIds": "3801",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "326",
+          "effectIdx2": "794",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1063",
+          "targetCrystal": "30404",
+          "description": "弱体・状態異常無効、スキル発動速度1段階アップ、1回行動までチャクラ消費0",
+          "charaIds": "3801",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "880",
+          "effectIdx2": "1840",
+          "effectIdx3": "1378",
+          "effectIdx4": "0"
         }
         ]

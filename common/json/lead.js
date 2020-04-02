@@ -13390,6 +13390,45 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1045",
+          "name": "華麗なるOBC院長",
+          "description": "全属性の弱体と状態異常を半減、敵から受けるスキルダメージを軽減",
+          "effectIdx1": "776",
+          "effectIdx2": "425",
+          "effectIdx3": "0",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "1046",
+          "name": "封援の樹掌",
+          "description": "木ノ葉隠れの里所属のHPとスキルダメージ90%アップ",
+          "effectIdx1": "10089",
+          "effectIdx2": "30008",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "1049",
+          "name": "そびえ立つ砦忍",
+          "description": "体属性のスキルダメージを60%アップする",
+          "effectIdx1": "678",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "3",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

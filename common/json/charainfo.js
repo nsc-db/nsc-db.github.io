@@ -2816,6 +2816,22 @@ window.charainfo=[
           "skillUrl": "https://www.youtube.com/embed/7YmW5MXXtkI?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
         },
         {
+          "gachaCardAdditionId": "358",
+          "targetCardId": "20060403",
+          "additionId": "0",
+          "params": "0,",
+          "limitedFlg": "106",
+          "skillUrl": "https://www.youtube.com/embed/O5A-m9XdHW4?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
+        },
+        {
+          "gachaCardAdditionId": "360",
+          "targetCardId": "20060416",
+          "additionId": "0",
+          "params": "0,",
+          "limitedFlg": "0",
+          "skillUrl": "https://www.youtube.com/embed/g-_D3VYxA4Y ?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
+        },
+        {
           "gachaCardAdditionId": "1001",
           "targetCardId": "20001600",
           "additionId": "0",

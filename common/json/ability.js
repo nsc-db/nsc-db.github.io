@@ -22167,6 +22167,60 @@ window.ability=[
           "effectIdx3": "2708"
         },
         {
+          "abilityId": "2515",
+          "abilityName": "究極の美の追究者",
+          "abilityDescription": "HP0以下で2回まで耐え、バトル開始時に確率で敵全体をスキル回避封印状態にする",
+          "abilityEffectDescription": "HP0以下で2回まで耐え、バトル開始時に確率で敵全体をスキル回避封印状態にする",
+          "effectIdx1": "1057",
+          "effectIdx2": "2696",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2516",
+          "abilityName": "試験体収集者",
+          "abilityDescription": "低確率で女性キャラから受ける全スキル無効＆耐性無視ダメージ0",
+          "abilityEffectDescription": "低確率で女性キャラから受ける全スキル無効＆耐性無視ダメージ0",
+          "effectIdx1": "2903",
+          "effectIdx2": "2904",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2517",
+          "abilityName": "造樹の土水",
+          "abilityDescription": "HP0以下で2回耐える、班にはたけカカシがいるとさらに1回耐え、うずまきナルトがいると耐えた時HP全回復",
+          "abilityEffectDescription": "HP0以下で2回耐える、班にはたけカカシがいるとさらに1回耐え、うずまきナルトがいると耐えた時HP全回復",
+          "effectIdx1": "1057",
+          "effectIdx2": "2915",
+          "effectIdx3": "2841"
+        },
+        {
+          "abilityId": "2518",
+          "abilityName": "九尾抑えし秘術",
+          "abilityDescription": "スキップ・キャンセル無効、敵に滅キャラがいると素早さ100%アップ",
+          "abilityEffectDescription": "スキップ・キャンセル無効、敵に滅キャラがいると素早さ100%アップ",
+          "effectIdx1": "2160",
+          "effectIdx2": "1751",
+          "effectIdx3": "2444"
+        },
+        {
+          "abilityId": "2523",
+          "abilityName": "秋道一族の長",
+          "abilityDescription": "最大HP100%アップ、最大チャクラ量が50アップ、3回行動するまで素早さ100%アップ",
+          "abilityEffectDescription": "最大HP100%アップ、最大チャクラ量が50アップ、3回行動するまで素早さ100%アップ",
+          "effectIdx1": "684",
+          "effectIdx2": "689",
+          "effectIdx3": "1265"
+        },
+        {
+          "abilityId": "2524",
+          "abilityName": "肉体操作の秘術",
+          "abilityDescription": "HP0以下で1回だけ耐える、弱体・状態異常を半減",
+          "abilityEffectDescription": "HP0以下で1回だけ耐える、弱体・状態異常を半減",
+          "effectIdx1": "312",
+          "effectIdx2": "776",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -23319,6 +23373,42 @@ window.ability=[
           "effectIdx3": "2893"
         },
         {
+          "abilityId": "100080",
+          "abilityName": "メンバーとの絆",
+          "abilityDescription": "味方にうちはｻｽｹがいるとHP0以下で1回耐え、ｻｲがいるとｽｷﾙﾀﾞﾒｰｼﾞ100％ｱｯﾌﾟ、ﾊﾞﾄﾙ開始時確率でﾛｯｸ魂状態になる",
+          "abilityEffectDescription": "味方にうちはｻｽｹがいるとHP0以下で1回耐え、ｻｲがいるとｽｷﾙﾀﾞﾒｰｼﾞ100％ｱｯﾌﾟ、ﾊﾞﾄﾙ開始時確率でﾛｯｸ魂状態になる",
+          "effectIdx1": "2152",
+          "effectIdx2": "2165",
+          "effectIdx3": "2905"
+        },
+        {
+          "abilityId": "100081",
+          "abilityName": "過激な歌唱パフォーマンス",
+          "abilityDescription": "味方にうずまきﾅﾙﾄかｻｲがいるとｽｷﾙﾀﾞﾒｰｼﾞ69％ｱｯﾌﾟ（どちらもいると138%ｱｯﾌﾟ）、ﾊﾞﾄﾙ開始時確率でﾛｯｸ魂状態になる",
+          "abilityEffectDescription": "味方にうずまきﾅﾙﾄかｻｲがいるとｽｷﾙﾀﾞﾒｰｼﾞ69％ｱｯﾌﾟ（どちらもいると138%ｱｯﾌﾟ）、ﾊﾞﾄﾙ開始時確率でﾛｯｸ魂状態になる",
+          "effectIdx1": "2155",
+          "effectIdx2": "2153",
+          "effectIdx3": "2905"
+        },
+        {
+          "abilityId": "100082",
+          "abilityName": "目覚めし歌心",
+          "abilityDescription": "味方にﾅﾙﾄがいるとｽｷﾙ発動速度1段階ｱｯﾌﾟ、ｻｽｹがいると弱体と状態異常無効、ﾊﾞﾄﾙ開始時確率でﾛｯｸ魂状態になる",
+          "abilityEffectDescription": "味方にﾅﾙﾄがいるとｽｷﾙ発動速度1段階ｱｯﾌﾟ、ｻｽｹがいると弱体と状態異常無効、ﾊﾞﾄﾙ開始時確率でﾛｯｸ魂状態になる",
+          "effectIdx1": "2157",
+          "effectIdx2": "2158",
+          "effectIdx3": "2905"
+        },
+        {
+          "abilityId": "100083",
+          "abilityName": "超獣のバックコーラス",
+          "abilityDescription": "HP0以下で1回まで耐える、HP69％以下で耐性無視ダメージ0＆高確率でスキル回避",
+          "abilityEffectDescription": "HP0以下で1回まで耐える、HP69％以下で耐性無視ダメージ0＆高確率でスキル回避",
+          "effectIdx1": "312",
+          "effectIdx2": "2159",
+          "effectIdx3": "2906"
+        },
+        {
           "abilityId": "200001",
           "abilityName": "心属性特化",
           "abilityDescription": "心属性へのスキル攻撃時に相手の耐性を弱点とする。心属性からのダメージを50%カット",
@@ -24062,6 +24152,15 @@ window.ability=[
           "abilityDescription": "敵に“暁”が生存していると素早さ60%アップ",
           "abilityEffectDescription": "敵に“暁”が生存していると素早さ60%アップ",
           "effectIdx1": "2896",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "310038",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "耐えた時にHP50%回復",
+          "abilityEffectDescription": "耐えた時にHP50%回復",
+          "effectIdx1": "618",
           "effectIdx2": "0",
           "effectIdx3": "0"
         },
