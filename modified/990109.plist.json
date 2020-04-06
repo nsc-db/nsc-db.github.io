@@ -21320,6 +21320,60 @@
           "effectIdx3": "2675"
         },
         {
+          "abilityId": "2421",
+          "abilityName": "夢を届ける復讐者",
+          "abilityDescription": "弱体・状態異常無効、敵に知属性が生存時に素早さ100%アップ、敵に勇属性が生存時にスキル発動速度1段階アップ",
+          "abilityEffectDescription": "弱体・状態異常無効、敵に知属性が生存時に素早さ100%アップ、敵に勇属性が生存時にスキル発動速度1段階アップ",
+          "effectIdx1": "880",
+          "effectIdx2": "2657",
+          "effectIdx3": "2660"
+        },
+        {
+          "abilityId": "2422",
+          "abilityName": "聖夜の望みを見抜く瞳",
+          "abilityDescription": "1回行動まで素早さ350%アップ、スキルダメージ122.5%アップ、HP0以下で1回耐える",
+          "abilityEffectDescription": "1回行動まで素早さ350%アップ、スキルダメージ122.5%アップ、HP0以下で1回耐える",
+          "effectIdx1": "2661",
+          "effectIdx2": "2662",
+          "effectIdx3": "312"
+        },
+        {
+          "abilityId": "2423",
+          "abilityName": "求める者への冷徹な眼差し",
+          "abilityDescription": "素早さ500%アップ、敵に勇属性が生存時に素早さ100%アップ、敵に知属性が生存時にスキル発動速度1段階アップ",
+          "abilityEffectDescription": "素早さ500%アップ、敵に勇属性が生存時に素早さ100%アップ、敵に知属性が生存時にスキル発動速度1段階アップ",
+          "effectIdx1": "13103",
+          "effectIdx2": "2658",
+          "effectIdx3": "2659"
+        },
+        {
+          "abilityId": "2424",
+          "abilityName": "特別な一夜の瞳術",
+          "abilityDescription": "1回行動までスキル発動速度3段階アップ、10回行動以降素早さ1,225%アップ、HP0以下で1回耐える",
+          "abilityEffectDescription": "1回行動までスキル発動速度3段階アップ、10回行動以降素早さ1,225%アップ、HP0以下で1回耐える",
+          "effectIdx1": "2663",
+          "effectIdx2": "2664",
+          "effectIdx3": "312"
+        },
+        {
+          "abilityId": "2425",
+          "abilityName": "いたずら発想力",
+          "abilityDescription": "HP0以下で1回耐え、行動するたびに素早さが30%アップする（最大5回）",
+          "abilityEffectDescription": "HP0以下で1回耐え、行動するたびに素早さが30%アップする（最大5回）",
+          "effectIdx1": "312",
+          "effectIdx2": "1424",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2426",
+          "abilityName": "達人崩しのプロポーション",
+          "abilityDescription": "最大HPを100%アップし、弱体と状態異常を半減する",
+          "abilityEffectDescription": "最大HPを100%アップし、弱体と状態異常を半減する",
+          "effectIdx1": "684",
+          "effectIdx2": "776",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "2427",
           "abilityName": "求める者への冷徹な眼差し",
           "abilityDescription": "敵に超忍祭限定キャラが生存時素早さ200%アップ、敵に千手一族が生存時さらに素早さ＆スキルダメージ300%アップ",
@@ -21336,6 +21390,852 @@
           "effectIdx1": "1057",
           "effectIdx2": "1961",
           "effectIdx3": "2672"
+        },
+        {
+          "abilityId": "2429",
+          "abilityName": "師匠譲りの見得切り",
+          "abilityDescription": "攻撃を受けたとき確率でHP50%回復、HP0以下で2回耐える",
+          "abilityEffectDescription": "攻撃を受けたとき確率でHP50%回復、HP0以下で2回耐える",
+          "effectIdx1": "2676",
+          "effectIdx2": "1057",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2430",
+          "abilityName": "意外性の新年",
+          "abilityDescription": "行動後に確率でチャクラ全回復",
+          "abilityEffectDescription": "行動後に確率でチャクラ全回復",
+          "effectIdx1": "2677",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2431",
+          "abilityName": "新年の信念",
+          "abilityDescription": "スキル攻撃を受けたとき、確率で攻撃力7%+202,000の反撃ダメージを与える、HP0以下で2回耐える",
+          "abilityEffectDescription": "スキル攻撃を受けたとき、確率で攻撃力7%+202,000の反撃ダメージを与える、HP0以下で2回耐える",
+          "effectIdx1": "2678",
+          "effectIdx2": "1057",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2432",
+          "abilityName": "うちは流の独楽捌き",
+          "abilityDescription": "行動後に確率で素早さ200%アップ",
+          "abilityEffectDescription": "行動後に確率で素早さ200%アップ",
+          "effectIdx1": "2679",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2433",
+          "abilityName": "桜色の晴れ着",
+          "abilityDescription": "バトル開始時に超低確率で耐性を無視して敵全体を魅了状態にする、HP0以下で1回HP全回復",
+          "abilityEffectDescription": "バトル開始時に超低確率で耐性を無視して敵全体を魅了状態にする、HP0以下で1回HP全回復",
+          "effectIdx1": "2873",
+          "effectIdx2": "312",
+          "effectIdx3": "874"
+        },
+        {
+          "abilityId": "2434",
+          "abilityName": "チャクラ込めし羽子板",
+          "abilityDescription": "行動後に確率でスキルダメージ100%アップ",
+          "abilityEffectDescription": "行動後に確率でスキルダメージ100%アップ",
+          "effectIdx1": "2681",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2435",
+          "abilityName": "正体不明の不気味",
+          "abilityDescription": "HP0以下で1回だけHP全回復、バトル開始時、敵に神忍祭限定キャラか破神がいると確率で先制攻撃",
+          "abilityEffectDescription": "HP0以下で1回だけHP全回復、バトル開始時、敵に神忍祭限定キャラか破神がいると確率で先制攻撃",
+          "effectIdx1": "312",
+          "effectIdx2": "874",
+          "effectIdx3": "2705"
+        },
+        {
+          "abilityId": "2436",
+          "abilityName": "夢に開く第三の眼",
+          "abilityDescription": "1回行動まで耐性無視ﾀﾞﾒｰｼﾞ0、2回行動までチャクラ消費量0、敵に神忍祭限定キャラが生存すると素早さ666%ｱｯﾌﾟ",
+          "abilityEffectDescription": "1回行動まで耐性無視ﾀﾞﾒｰｼﾞ0、2回行動までチャクラ消費量0、敵に神忍祭限定キャラが生存すると素早さ666%ｱｯﾌﾟ",
+          "effectIdx1": "1961",
+          "effectIdx2": "1646",
+          "effectIdx3": "2005"
+        },
+        {
+          "abilityId": "2437",
+          "abilityName": "努力で磨きし柔拳",
+          "abilityDescription": "バトル開始時、確率で味方全体を堅護状態にし、確率で敵全体をスキル回避封印状態にする",
+          "abilityEffectDescription": "バトル開始時、確率で味方全体を堅護状態にし、確率で敵全体をスキル回避封印状態にする",
+          "effectIdx1": "2695",
+          "effectIdx2": "2747",
+          "effectIdx3": "2696"
+        },
+        {
+          "abilityId": "2438",
+          "abilityName": "愛する人への想い",
+          "abilityDescription": "HP0以下で2回耐え班に「ﾅﾙﾄ（年代問わず）」が生存すると耐えた時HP全回復、敵に滅ｷｬﾗがいると素早さ150％ｱｯﾌﾟ",
+          "abilityEffectDescription": "HP0以下で2回耐え班に「ﾅﾙﾄ（年代問わず）」が生存すると耐えた時HP全回復、敵に滅ｷｬﾗがいると素早さ150％ｱｯﾌﾟ",
+          "effectIdx1": "1057",
+          "effectIdx2": "2697",
+          "effectIdx3": "2580"
+        },
+        {
+          "abilityId": "2439",
+          "abilityName": "掴みとった平和のひととき",
+          "abilityDescription": "敵の創キャラからのダメージを50%カット、HPが0以下で1回だけHP全回復",
+          "abilityEffectDescription": "敵の創キャラからのダメージを50%カット、HPが0以下で1回だけHP全回復",
+          "effectIdx1": "2614",
+          "effectIdx2": "312",
+          "effectIdx3": "874"
+        },
+        {
+          "abilityId": "2440",
+          "abilityName": "愛情の共闘",
+          "abilityDescription": "敵に創キャラがいると素早さ200%アップ、味方に「日向ヒナタ（年代問わず）」が生存すると全スキルダメージ半減",
+          "abilityEffectDescription": "敵に創キャラがいると素早さ200%アップ、味方に「日向ヒナタ（年代問わず）」が生存すると全スキルダメージ半減",
+          "effectIdx1": "2733",
+          "effectIdx2": "2704",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2441",
+          "abilityName": "力の起源",
+          "abilityDescription": "超忍祭限定・滅・創キャラから受けるダメージ50%カット、弱体系特殊状態無効、最大チャクラ量200アップ",
+          "abilityEffectDescription": "超忍祭限定・滅・創キャラから受けるダメージ50%カット、弱体系特殊状態無効、最大チャクラ量200アップ",
+          "effectIdx1": "2708",
+          "effectIdx2": "2709",
+          "effectIdx3": "20019"
+        },
+        {
+          "abilityId": "2442",
+          "abilityName": "妄執の怨瞳",
+          "abilityDescription": "ﾊﾞﾄﾙ開始時敵にﾅﾙﾄ、ｻｽｹ、柱間、ﾏﾀﾞﾗが1体でもいると確率で先制攻撃、2回行動まで99%ﾀﾞﾒｰｼﾞｶｯﾄ、地形効果無効",
+          "abilityEffectDescription": "ﾊﾞﾄﾙ開始時敵にﾅﾙﾄ、ｻｽｹ、柱間、ﾏﾀﾞﾗが1体でもいると確率で先制攻撃、2回行動まで99%ﾀﾞﾒｰｼﾞｶｯﾄ、地形効果無効",
+          "effectIdx1": "2710",
+          "effectIdx2": "2711",
+          "effectIdx3": "2525"
+        },
+        {
+          "abilityId": "2443",
+          "abilityName": "忠刃の義",
+          "abilityDescription": "敵に創ｷｬﾗ生存時、ﾊﾞﾄﾙ開始時に敵全体に短い間強化系特殊状態不可＆攻撃を受けたとき確率で相手に拘束状態付与",
+          "abilityEffectDescription": "敵に創ｷｬﾗ生存時、ﾊﾞﾄﾙ開始時に敵全体に短い間強化系特殊状態不可＆攻撃を受けたとき確率で相手に拘束状態付与",
+          "effectIdx1": "2717",
+          "effectIdx2": "2718",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2444",
+          "abilityName": "隠伏の牙",
+          "abilityDescription": "HP0以下で3回耐える、敵に創ｷｬﾗ生存時素早さ200%ｱｯﾌﾟ、班の木ノ葉隠れの里所属1体につき素早さ40%ｱｯﾌﾟ",
+          "abilityEffectDescription": "HP0以下で3回耐える、敵に創ｷｬﾗ生存時素早さ200%ｱｯﾌﾟ、班の木ノ葉隠れの里所属1体につき素早さ40%ｱｯﾌﾟ",
+          "effectIdx1": "1789",
+          "effectIdx2": "2611",
+          "effectIdx3": "1255"
+        },
+        {
+          "abilityId": "2445",
+          "abilityName": "火影の名を冠する者",
+          "abilityDescription": "敵に無所属がいると確率で再行動&amp;素早さ371.0%アップ、3回行動まで弱体系特殊状態無効",
+          "abilityEffectDescription": "敵に無所属がいると確率で再行動&amp;素早さ371.0%アップ、3回行動まで弱体系特殊状態無効",
+          "effectIdx1": "2720",
+          "effectIdx2": "2721",
+          "effectIdx3": "2722"
+        },
+        {
+          "abilityId": "2446",
+          "abilityName": "その名に恥じぬ戦い",
+          "abilityDescription": "HP0で3回耐える、超忍祭限定・創・滅キャラからのダメージ50%カット、最大チャクラ量150アップ",
+          "abilityEffectDescription": "HP0で3回耐える、超忍祭限定・創・滅キャラからのダメージ50%カット、最大チャクラ量150アップ",
+          "effectIdx1": "1789",
+          "effectIdx2": "2708",
+          "effectIdx3": "20014"
+        },
+        {
+          "abilityId": "2447",
+          "abilityName": "名族の姓と里の名を背負う者",
+          "abilityDescription": "敵に滅キャラが生存時素早さ150％アップ、敵に“暁”所属がいるとさらに素早さ150％アップ",
+          "abilityEffectDescription": "敵に滅キャラが生存時素早さ150％アップ、敵に“暁”所属がいるとさらに素早さ150％アップ",
+          "effectIdx1": "2728",
+          "effectIdx2": "2729",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2448",
+          "abilityName": "ナルトがくれた勇気",
+          "abilityDescription": "敵に“暁”所属がいるとﾊﾞﾄﾙ開始時、味方全体を火影の守護状態にする　火影の守護：HP0以下で1回耐え、全ｽｷﾙ無効",
+          "abilityEffectDescription": "敵に“暁”所属がいるとﾊﾞﾄﾙ開始時、味方全体を火影の守護状態にする　火影の守護：HP0以下で1回耐え、全ｽｷﾙ無効",
+          "effectIdx1": "2730",
+          "effectIdx2": "2731",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2449",
+          "abilityName": "誅刃の義",
+          "abilityDescription": "敵に創キャラが生存していると素早さ200%アップ＆地形効果無効＆写輪眼無効",
+          "abilityEffectDescription": "敵に創キャラが生存していると素早さ200%アップ＆地形効果無効＆写輪眼無効",
+          "effectIdx1": "2611",
+          "effectIdx2": "2734",
+          "effectIdx3": "2735"
+        },
+        {
+          "abilityId": "2450",
+          "abilityName": "無念の牙",
+          "abilityDescription": "HP0以下で1回だけHP全回復、HP80%以上の時、確実に再行動する ※再行動後さらに行動はできない",
+          "abilityEffectDescription": "HP0以下で1回だけHP全回復、HP80%以上の時、確実に再行動する ※再行動後さらに行動はできない",
+          "effectIdx1": "312",
+          "effectIdx2": "874",
+          "effectIdx3": "2269"
+        },
+        {
+          "abilityId": "2451",
+          "abilityName": "君と並んで歩む",
+          "abilityDescription": "最大チャクラ量が50アップ、HP0以下で1回だけ耐える",
+          "abilityEffectDescription": "最大チャクラ量が50アップ、HP0以下で1回だけ耐える",
+          "effectIdx1": "689",
+          "effectIdx2": "312",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2452",
+          "abilityName": "家庭と里を守る意志",
+          "abilityDescription": "HP50%以下の時にスキルダメージ100%アップ＆攻撃力、防御力、素早さ80%アップ",
+          "abilityEffectDescription": "HP50%以下の時にスキルダメージ100%アップ＆攻撃力、防御力、素早さ80%アップ",
+          "effectIdx1": "1758",
+          "effectIdx2": "1946",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2453",
+          "abilityName": "漂流の血統",
+          "abilityDescription": "創キャラからのダメージ50%カット、HPが50%以下の時、スキル攻撃を受けると攻撃力7%+500,000の反撃ダメージ",
+          "abilityEffectDescription": "創キャラからのダメージ50%カット、HPが50%以下の時、スキル攻撃を受けると攻撃力7%+500,000の反撃ダメージ",
+          "effectIdx1": "2736",
+          "effectIdx2": "2673",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2454",
+          "abilityName": "報恩の覚悟",
+          "abilityDescription": "HP0以下で1回だけ耐える、味方に「桃地再不斬（年代問わず）」がいるとさらに4回耐える",
+          "abilityEffectDescription": "HP0以下で1回だけ耐える、味方に「桃地再不斬（年代問わず）」がいるとさらに4回耐える",
+          "effectIdx1": "312",
+          "effectIdx2": "2737",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2455",
+          "abilityName": "沸き起こる真情",
+          "abilityDescription": "HP0以下で2回耐える、味方に「白(年代問わず)」がいるとさらに2回耐え、耐えた時アクション状態になる",
+          "abilityEffectDescription": "HP0以下で2回耐える、味方に「白(年代問わず)」がいるとさらに2回耐え、耐えた時アクション状態になる",
+          "effectIdx1": "1057",
+          "effectIdx2": "2742",
+          "effectIdx3": "2632"
+        },
+        {
+          "abilityId": "2456",
+          "abilityName": "鬼気の真髄",
+          "abilityDescription": "通常攻撃の会心率80%アップ＆会心力3000%アップ、敵に創キャラがいるとさらに会心力3000%アップ",
+          "abilityEffectDescription": "通常攻撃の会心率80%アップ＆会心力3000%アップ、敵に創キャラがいるとさらに会心力3000%アップ",
+          "effectIdx1": "2744",
+          "effectIdx2": "2745",
+          "effectIdx3": "2746"
+        },
+        {
+          "abilityId": "2457",
+          "abilityName": "我愛羅との絆",
+          "abilityDescription": "全スキルダメージ40%アップ",
+          "abilityEffectDescription": "全スキルダメージ40%アップ",
+          "effectIdx1": "692",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2458",
+          "abilityName": "獣黄砂塵",
+          "abilityDescription": "最大HP30％アップ",
+          "abilityEffectDescription": "最大HP30％アップ",
+          "effectIdx1": "10029",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2459",
+          "abilityName": "秘すれば華",
+          "abilityDescription": "攻撃を受けた時確率で相手の素早さ80％ダウン、3回行動まで素早さ250%アップ",
+          "abilityEffectDescription": "攻撃を受けた時確率で相手の素早さ80％ダウン、3回行動まで素早さ250%アップ",
+          "effectIdx1": "2761",
+          "effectIdx2": "2762",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2460",
+          "abilityName": "蟲高の極み",
+          "abilityDescription": "攻撃を受けた時HP30%回復、HP0以下で2回耐える、敵に滅キャラが生存するとダメージ60%カット",
+          "abilityEffectDescription": "攻撃を受けた時HP30%回復、HP0以下で2回耐える、敵に滅キャラが生存するとダメージ60%カット",
+          "effectIdx1": "2763",
+          "effectIdx2": "2764",
+          "effectIdx3": "1057"
+        },
+        {
+          "abilityId": "2461",
+          "abilityName": "野生の身体能力",
+          "abilityDescription": "攻撃を受けると確率で素早さ100%アップ、敵に創キャラ生存時攻撃を受けると確率でアクション状態になる",
+          "abilityEffectDescription": "攻撃を受けると確率で素早さ100%アップ、敵に創キャラ生存時攻撃を受けると確率でアクション状態になる",
+          "effectIdx1": "2767",
+          "effectIdx2": "2768",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2462",
+          "abilityName": "赤丸との絆",
+          "abilityDescription": "HP0以下で1回HP全回復。行動するたびに素早さ50%アップ（最大300%）",
+          "abilityEffectDescription": "HP0以下で1回HP全回復。行動するたびに素早さ50%アップ（最大300%）",
+          "effectIdx1": "312",
+          "effectIdx2": "874",
+          "effectIdx3": "2766"
+        },
+        {
+          "abilityId": "2463",
+          "abilityName": "力の権化",
+          "abilityDescription": "敵に破神がいると『常識では計れはせんぞ』で急襲攻撃（一部チャクラ回復）、HP0以下で2回までHP全回復",
+          "abilityEffectDescription": "敵に破神がいると『常識では計れはせんぞ』で急襲攻撃（一部チャクラ回復）、HP0以下で2回までHP全回復",
+          "effectIdx1": "2840",
+          "effectIdx2": "1057",
+          "effectIdx3": "874"
+        },
+        {
+          "abilityId": "2464",
+          "abilityName": "絶望への切望",
+          "abilityDescription": "超忍祭限定・滅・創ｷｬﾗから受けるﾀﾞﾒｰｼﾞ50%ｶｯﾄ、2回行動するまで弱体系特殊状態無効、最大ﾁｬｸﾗ量150ｱｯﾌﾟ",
+          "abilityEffectDescription": "超忍祭限定・滅・創ｷｬﾗから受けるﾀﾞﾒｰｼﾞ50%ｶｯﾄ、2回行動するまで弱体系特殊状態無効、最大ﾁｬｸﾗ量150ｱｯﾌﾟ",
+          "effectIdx1": "2708",
+          "effectIdx2": "2772",
+          "effectIdx3": "20014"
+        },
+        {
+          "abilityId": "2465",
+          "abilityName": "健全な男子力",
+          "abilityDescription": "HP0以下で1回耐え、味方に「うずまきナルト（年代問わず）」がいるとスキルダメージ100%アップ",
+          "abilityEffectDescription": "HP0以下で1回耐え、味方に「うずまきナルト（年代問わず）」がいるとスキルダメージ100%アップ",
+          "effectIdx1": "312",
+          "effectIdx2": "2377",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2466",
+          "abilityName": "魅惑のボンキュッボン",
+          "abilityDescription": "最大HPを100%アップし、確率でスキルを回避する",
+          "abilityEffectDescription": "最大HPを100%アップし、確率でスキルを回避する",
+          "effectIdx1": "684",
+          "effectIdx2": "1423",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2467",
+          "abilityName": "兄に次ぐ強者",
+          "abilityDescription": "最大チャクラ量150アップ、敵に神忍祭限定キャラが生存すると素早さ250%アップ",
+          "abilityEffectDescription": "最大チャクラ量150アップ、敵に神忍祭限定キャラが生存すると素早さ250%アップ",
+          "effectIdx1": "20014",
+          "effectIdx2": "2790",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2468",
+          "abilityName": "見切りの剣",
+          "abilityDescription": "HP0以下で2回HP全回復、3回行動するまでスキップ無効",
+          "abilityEffectDescription": "HP0以下で2回HP全回復、3回行動するまでスキップ無効",
+          "effectIdx1": "1057",
+          "effectIdx2": "874",
+          "effectIdx3": "2382"
+        },
+        {
+          "abilityId": "2469",
+          "abilityName": "奈良一族の長",
+          "abilityDescription": "状態異常無効、2回行動するまでスキル発動速度1段階アップ",
+          "abilityEffectDescription": "状態異常無効、2回行動するまでスキル発動速度1段階アップ",
+          "effectIdx1": "82",
+          "effectIdx2": "1379",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2470",
+          "abilityName": "死角埋める機略",
+          "abilityDescription": "班の木ノ葉隠れの里所属のキャラ1体（自身含む）につき、攻撃力と素早さを20%アップ",
+          "abilityEffectDescription": "班の木ノ葉隠れの里所属のキャラ1体（自身含む）につき、攻撃力と素早さを20%アップ",
+          "effectIdx1": "687",
+          "effectIdx2": "1106",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2471",
+          "abilityName": "医療忍術の少女",
+          "abilityDescription": "敵に創キャラ生存時ダメージ50%カット&amp;被攻撃時次の行動まで素早さ200%アップ、死亡時に味方全体に愛状態付与",
+          "abilityEffectDescription": "敵に創キャラ生存時ダメージ50%カット&amp;被攻撃時次の行動まで素早さ200%アップ、死亡時に味方全体に愛状態付与",
+          "effectIdx1": "2792",
+          "effectIdx2": "2793",
+          "effectIdx3": "2794"
+        },
+        {
+          "abilityId": "2472",
+          "abilityName": "平和を願う心",
+          "abilityDescription": "班の木ノ葉隠れの里所属1体毎に自身の素早さ50%ｱｯﾌﾟ、HP0以下で2回耐える、1回目の耐えた時ｱｸｼｮﾝ状態になる",
+          "abilityEffectDescription": "班の木ノ葉隠れの里所属1体毎に自身の素早さ50%ｱｯﾌﾟ、HP0以下で2回耐える、1回目の耐えた時ｱｸｼｮﾝ状態になる",
+          "effectIdx1": "1333",
+          "effectIdx2": "1057",
+          "effectIdx3": "2632"
+        },
+        {
+          "abilityId": "2473",
+          "abilityName": "ユギトとの絆",
+          "abilityDescription": "行動するたびに素早さが10％アップする（7回まで）",
+          "abilityEffectDescription": "行動するたびに素早さが10％アップする（7回まで）",
+          "effectIdx1": "2796",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2474",
+          "abilityName": "柔身剛火",
+          "abilityDescription": "攻撃を受けた時に高確率で敵を大炎状態にする【特殊状態：大炎】行動ごとにHP10%減少",
+          "abilityEffectDescription": "攻撃を受けた時に高確率で敵を大炎状態にする【特殊状態：大炎】行動ごとにHP10%減少",
+          "effectIdx1": "2797",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2475",
+          "abilityName": "理知の忍道",
+          "abilityDescription": "敵に無所属がいると弱体系特殊状態無効、超忍祭限定・創・滅ｷｬﾗからのﾀﾞﾒｰｼﾞ50%ｶｯﾄ、HP0以下で3回耐える",
+          "abilityEffectDescription": "敵に無所属がいると弱体系特殊状態無効、超忍祭限定・創・滅ｷｬﾗからのﾀﾞﾒｰｼﾞ50%ｶｯﾄ、HP0以下で3回耐える",
+          "effectIdx1": "2799",
+          "effectIdx2": "2708",
+          "effectIdx3": "1789"
+        },
+        {
+          "abilityId": "2476",
+          "abilityName": "詭道の閃技",
+          "abilityDescription": "HP99%以下でｽｷﾙﾀﾞﾒｰｼﾞ100%ｱｯﾌﾟ、HP50%以下でｽｷﾙ発動速度2段階ｱｯﾌﾟ、HP30%以下で素早さ500%ｱｯﾌﾟ",
+          "abilityEffectDescription": "HP99%以下でｽｷﾙﾀﾞﾒｰｼﾞ100%ｱｯﾌﾟ、HP50%以下でｽｷﾙ発動速度2段階ｱｯﾌﾟ、HP30%以下で素早さ500%ｱｯﾌﾟ",
+          "effectIdx1": "2800",
+          "effectIdx2": "2801",
+          "effectIdx3": "2802"
+        },
+        {
+          "abilityId": "2477",
+          "abilityName": "毒舌乙女の音色",
+          "abilityDescription": "敵に超忍がいるとバトル開始時「死の旋律を奏でてやる！」で急襲攻撃（チャクラ中回復）、HP0以下で2回耐える",
+          "abilityEffectDescription": "敵に超忍がいるとバトル開始時「死の旋律を奏でてやる！」で急襲攻撃（チャクラ中回復）、HP0以下で2回耐える",
+          "effectIdx1": "2810",
+          "effectIdx2": "1057",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2478",
+          "abilityName": "葬送の音色",
+          "abilityDescription": "弱体と状態異常を無効、敵に木ノ葉隠れ所属か超忍がいるとスキルダメージ150%アップ、どちらもいると300%アップ",
+          "abilityEffectDescription": "弱体と状態異常を無効、敵に木ノ葉隠れ所属か超忍がいるとスキルダメージ150%アップ、どちらもいると300%アップ",
+          "effectIdx1": "880",
+          "effectIdx2": "2811",
+          "effectIdx3": "2813"
+        },
+        {
+          "abilityId": "2479",
+          "abilityName": "師弟の忍道に見た希望",
+          "abilityDescription": "3回行動までスキップ無効＆高確率でスキル回避、HP0以下で2回耐える",
+          "abilityEffectDescription": "3回行動までスキップ無効＆高確率でスキル回避、HP0以下で2回耐える",
+          "effectIdx1": "2382",
+          "effectIdx2": "2505",
+          "effectIdx3": "1057"
+        },
+        {
+          "abilityId": "2480",
+          "abilityName": "二人の夢を託す餞",
+          "abilityDescription": "敵に滅キャラが生存していると素早さ200％アップ、班の“暁”1体につき素早さ60％アップ（自身含む）",
+          "abilityEffectDescription": "敵に滅キャラが生存していると素早さ200％アップ、班の“暁”1体につき素早さ60％アップ（自身含む）",
+          "effectIdx1": "2814",
+          "effectIdx2": "2812",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2481",
+          "abilityName": "ナルト親衛隊員",
+          "abilityDescription": "最大HPと攻撃力を100%アップし、HP90%以上の時にスキル発動速度1段階アップ",
+          "abilityEffectDescription": "最大HPと攻撃力を100%アップし、HP90%以上の時にスキル発動速度1段階アップ",
+          "effectIdx1": "684",
+          "effectIdx2": "11099",
+          "effectIdx3": "2626"
+        },
+        {
+          "abilityId": "2482",
+          "abilityName": "ミーハー気質",
+          "abilityDescription": "HP0以下で1回耐え、2回行動するまで高確率でスキルを回避する",
+          "abilityEffectDescription": "HP0以下で1回耐え、2回行動するまで高確率でスキルを回避する",
+          "effectIdx1": "312",
+          "effectIdx2": "1610",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2483",
+          "abilityName": "嘘塗れの血肉",
+          "abilityDescription": "敵に超忍キャラが生存していると、バトル開始時に自身を短い間蛇の力状態＆攻撃を受けると高確率でアクション状態",
+          "abilityEffectDescription": "敵に超忍キャラが生存していると、バトル開始時に自身を短い間蛇の力状態＆攻撃を受けると高確率でアクション状態",
+          "effectIdx1": "2815",
+          "effectIdx2": "2816",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2484",
+          "abilityName": "我が身を満たす叡智",
+          "abilityDescription": "HP0以下で1回耐え、HP90%以上の時に素早さ100%アップ＆スキル発動速度1段階アップ",
+          "abilityEffectDescription": "HP0以下で1回耐え、HP90%以上の時に素早さ100%アップ＆スキル発動速度1段階アップ",
+          "effectIdx1": "312",
+          "effectIdx2": "2219",
+          "effectIdx3": "2626"
+        },
+        {
+          "abilityId": "2485",
+          "abilityName": "誓いを果たすに相応しき実力",
+          "abilityDescription": "敵に無所属がいるとﾊﾞﾄﾙ開始時に自身を百豪状態にし、味方にﾅﾙﾄかｻｽｹが生存していると被攻撃時に確率でｱｸｼｮﾝ状態",
+          "abilityEffectDescription": "敵に無所属がいるとﾊﾞﾄﾙ開始時に自身を百豪状態にし、味方にﾅﾙﾄかｻｽｹが生存していると被攻撃時に確率でｱｸｼｮﾝ状態",
+          "effectIdx1": "2818",
+          "effectIdx2": "2819",
+          "effectIdx3": "2820"
+        },
+        {
+          "abilityId": "2486",
+          "abilityName": "戦う医療忍者の集大成",
+          "abilityDescription": "HP0以下で2回までHP全回復、超忍祭限定・滅・創キャラから受けるダメージ50%カット",
+          "abilityEffectDescription": "HP0以下で2回までHP全回復、超忍祭限定・滅・創キャラから受けるダメージ50%カット",
+          "effectIdx1": "1057",
+          "effectIdx2": "874",
+          "effectIdx3": "2708"
+        },
+        {
+          "abilityId": "2487",
+          "abilityName": "清廉なる心窓",
+          "abilityDescription": "HP0以下で3回耐え、耐えたとき敵全体を高確率で短い間塞状態にする",
+          "abilityEffectDescription": "HP0以下で3回耐え、耐えたとき敵全体を高確率で短い間塞状態にする",
+          "effectIdx1": "1789",
+          "effectIdx2": "2826",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2488",
+          "abilityName": "洗練されし武技",
+          "abilityDescription": "3回行動まで素早さ250%アップ、敵に創キャラが生存で素早さ150%アップ、創キャラからのダメージ50%カット",
+          "abilityEffectDescription": "3回行動まで素早さ250%アップ、敵に創キャラが生存で素早さ150%アップ、創キャラからのダメージ50%カット",
+          "effectIdx1": "2762",
+          "effectIdx2": "2827",
+          "effectIdx3": "2614"
+        },
+        {
+          "abilityId": "2489",
+          "abilityName": "以心の先達",
+          "abilityDescription": "HP80%以上の時、状態異常を半減＆スキル発動速度1段階アップ",
+          "abilityEffectDescription": "HP80%以上の時、状態異常を半減＆スキル発動速度1段階アップ",
+          "effectIdx1": "851",
+          "effectIdx2": "1089",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2490",
+          "abilityName": "伝心の秘術",
+          "abilityDescription": "HP0以下で1回だけ耐える、行動後にチャクラが20%回復",
+          "abilityEffectDescription": "HP0以下で1回だけ耐える、行動後にチャクラが20%回復",
+          "effectIdx1": "312",
+          "effectIdx2": "1768",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2491",
+          "abilityName": "“三忍”一の才知",
+          "abilityDescription": "敵に木ノ葉隠れの里所属がいると高確率で「クク……心寒い…」で急襲攻撃（ﾁｬｸﾗ中回復）、最大ﾁｬｸﾗ量200ｱｯﾌﾟ",
+          "abilityEffectDescription": "敵に木ノ葉隠れの里所属がいると高確率で「クク……心寒い…」で急襲攻撃（ﾁｬｸﾗ中回復）、最大ﾁｬｸﾗ量200ｱｯﾌﾟ",
+          "effectIdx1": "2830",
+          "effectIdx2": "20019",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2492",
+          "abilityName": "大蟒蛇マンダ",
+          "abilityDescription": "キャンセル無効、1回行動まで全スキル無効、超忍・創・滅キャラから受けるダメージ50%カット",
+          "abilityEffectDescription": "キャンセル無効、1回行動まで全スキル無効、超忍・創・滅キャラから受けるダメージ50%カット",
+          "effectIdx1": "1751",
+          "effectIdx2": "1794",
+          "effectIdx3": "2708"
+        },
+        {
+          "abilityId": "2493",
+          "abilityName": "意外性デコレーション",
+          "abilityDescription": "HP0以下で2回耐え、班にイルカがいると耐えたときHP全回復、行動後確率でスキルダメージ100%アップ",
+          "abilityEffectDescription": "HP0以下で2回耐え、班にイルカがいると耐えたときHP全回復、行動後確率でスキルダメージ100%アップ",
+          "effectIdx1": "1057",
+          "effectIdx2": "2845",
+          "effectIdx3": "2849"
+        },
+        {
+          "abilityId": "2494",
+          "abilityName": "仲間への感謝",
+          "abilityDescription": "班にイルカがいると、バトル開始時にチャクラ100%回復&amp;スキルダメージ100%アップ&amp;スキル発動速度1段階アップ",
+          "abilityEffectDescription": "班にイルカがいると、バトル開始時にチャクラ100%回復&amp;スキルダメージ100%アップ&amp;スキル発動速度1段階アップ",
+          "effectIdx1": "2846",
+          "effectIdx2": "2847",
+          "effectIdx3": "2848"
+        },
+        {
+          "abilityId": "2495",
+          "abilityName": "心意気クッキング",
+          "abilityDescription": "HP0以下で2回耐え、班にナルトがいると耐えた時HP全回復、行動後確率で素早さ100%アップ",
+          "abilityEffectDescription": "HP0以下で2回耐え、班にナルトがいると耐えた時HP全回復、行動後確率で素早さ100%アップ",
+          "effectIdx1": "1057",
+          "effectIdx2": "2841",
+          "effectIdx3": "2850"
+        },
+        {
+          "abilityId": "2496",
+          "abilityName": "教え子との共同作業",
+          "abilityDescription": "班にナルトがいると、バトル開始時に確率で先制攻撃&amp;スキルダメージ100%アップ&amp;スキル発動速度1段階アップ",
+          "abilityEffectDescription": "班にナルトがいると、バトル開始時に確率で先制攻撃&amp;スキルダメージ100%アップ&amp;スキル発動速度1段階アップ",
+          "effectIdx1": "2842",
+          "effectIdx2": "2843",
+          "effectIdx3": "2157"
+        },
+        {
+          "abilityId": "2497",
+          "abilityName": "磨かれし忍具捌き",
+          "abilityDescription": "HP0以下で2回耐える、敵に\"暁\"がいるとﾊﾞﾄﾙ開始時に耐性を無視して敵全体の防御力101.0%ﾀﾞｳﾝ&amp;自身に透状態",
+          "abilityEffectDescription": "HP0以下で2回耐える、敵に\"暁\"がいるとﾊﾞﾄﾙ開始時に耐性を無視して敵全体の防御力101.0%ﾀﾞｳﾝ&amp;自身に透状態",
+          "effectIdx1": "2853",
+          "effectIdx2": "2852",
+          "effectIdx3": "1057"
+        },
+        {
+          "abilityId": "2498",
+          "abilityName": "攻援自在の遠射",
+          "abilityDescription": "敵に滅ｷｬﾗ生存で素早さ200%ｱｯﾌﾟ＆確率で再行動、行動後に自身を抗状態（弱体・幻・状態異常を解除＆無効化）",
+          "abilityEffectDescription": "敵に滅ｷｬﾗ生存で素早さ200%ｱｯﾌﾟ＆確率で再行動、行動後に自身を抗状態（弱体・幻・状態異常を解除＆無効化）",
+          "effectIdx1": "2814",
+          "effectIdx2": "2854",
+          "effectIdx3": "2855"
+        },
+        {
+          "abilityId": "2499",
+          "abilityName": "天衣無縫の癒しの威力",
+          "abilityDescription": "行動するたびにHP10%回復",
+          "abilityEffectDescription": "行動するたびにHP10%回復",
+          "effectIdx1": "2765",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2500",
+          "abilityName": "巨躯に秘めたる力",
+          "abilityDescription": "攻撃を受けた時にHPが20%回復する",
+          "abilityEffectDescription": "攻撃を受けた時にHPが20%回復する",
+          "effectIdx1": "2593",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2501",
+          "abilityName": "“三忍”一の剛力",
+          "abilityDescription": "敵に無所属がいると確率で先制、死亡時味方全体に火影の守護付与(HP0以下で1回耐える、全ｽｷﾙ無効※耐性無視除く)",
+          "abilityEffectDescription": "敵に無所属がいると確率で先制、死亡時味方全体に火影の守護付与(HP0以下で1回耐える、全ｽｷﾙ無効※耐性無視除く)",
+          "effectIdx1": "2509",
+          "effectIdx2": "2874",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2502",
+          "abilityName": "大蛞蝓カツユ",
+          "abilityDescription": "超忍祭限定・滅・創キャラから受けるダメージ50%カット、HP0以下で5回耐える、1回行動までチャクラ消費0",
+          "abilityEffectDescription": "超忍祭限定・滅・創キャラから受けるダメージ50%カット、HP0以下で5回耐える、1回行動までチャクラ消費0",
+          "effectIdx1": "2708",
+          "effectIdx2": "1512",
+          "effectIdx3": "1378"
+        },
+        {
+          "abilityId": "2503",
+          "abilityName": "血霧の盟闘",
+          "abilityDescription": "攻撃を受けた時に確率で素早さ60%アップ",
+          "abilityEffectDescription": "攻撃を受けた時に確率で素早さ60%アップ",
+          "effectIdx1": "2877",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2504",
+          "abilityName": "原初の命灯",
+          "abilityDescription": "攻撃を受けた時に低確率で敵全体の防御力を60%ダウン",
+          "abilityEffectDescription": "攻撃を受けた時に低確率で敵全体の防御力を60%ダウン",
+          "effectIdx1": "2878",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2505",
+          "abilityName": "変幻自在の早業",
+          "abilityDescription": "自身の素早さ1,000%ｱｯﾌﾟ、敵に木ノ葉隠れ所属か超忍キャラが生存で素早さ250%ｱｯﾌﾟ、どちらもいると500%ｱｯﾌﾟ",
+          "abilityEffectDescription": "自身の素早さ1,000%ｱｯﾌﾟ、敵に木ノ葉隠れ所属か超忍キャラが生存で素早さ250%ｱｯﾌﾟ、どちらもいると500%ｱｯﾌﾟ",
+          "effectIdx1": "13100",
+          "effectIdx2": "2880",
+          "effectIdx3": "2881"
+        },
+        {
+          "abilityId": "2506",
+          "abilityName": "血族の本当の力",
+          "abilityDescription": "バトル開始時に自身を短い間月読状態にする、HP0以下で1回だけHP全回復",
+          "abilityEffectDescription": "バトル開始時に自身を短い間月読状態にする、HP0以下で1回だけHP全回復",
+          "effectIdx1": "2882",
+          "effectIdx2": "312",
+          "effectIdx3": "874"
+        },
+        {
+          "abilityId": "2507",
+          "abilityName": "大刀“鮫肌”の使い手",
+          "abilityDescription": "バトル開始時に敵全体を確率で竦状態にし、HP0以下で3回まで耐え、最大チャクラ量100アップ",
+          "abilityEffectDescription": "バトル開始時に敵全体を確率で竦状態にし、HP0以下で3回まで耐え、最大チャクラ量100アップ",
+          "effectIdx1": "2883",
+          "effectIdx2": "1789",
+          "effectIdx3": "20009"
+        },
+        {
+          "abilityId": "2508",
+          "abilityName": "獰猛なる水遁巧者",
+          "abilityDescription": "敵に木ノ葉隠れの里所属が生存時、バトル開始時にチャクラ100%回復&amp;確率で再行動※再行動後に再行動はできない",
+          "abilityEffectDescription": "敵に木ノ葉隠れの里所属が生存時、バトル開始時にチャクラ100%回復&amp;確率で再行動※再行動後に再行動はできない",
+          "effectIdx1": "2884",
+          "effectIdx2": "2885",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2509",
+          "abilityName": "度胸と頭脳",
+          "abilityDescription": "破神・闘忍から受けるダメージ60%カット、バトル開始時に自身を短い間しゃーんなろー状態",
+          "abilityEffectDescription": "破神・闘忍から受けるダメージ60%カット、バトル開始時に自身を短い間しゃーんなろー状態",
+          "effectIdx1": "2886",
+          "effectIdx2": "2888",
+          "effectIdx3": "2890"
+        },
+        {
+          "abilityId": "2510",
+          "abilityName": "学びし医療忍者の掟",
+          "abilityDescription": "味方への単体ｽｷﾙ攻撃を受け、敵に破神がいるとﾊﾞﾄﾙ開始時に自身を堅護(弱体/状態異常/弱体系特殊状態解除&amp;無効化)",
+          "abilityEffectDescription": "味方への単体ｽｷﾙ攻撃を受け、敵に破神がいるとﾊﾞﾄﾙ開始時に自身を堅護(弱体/状態異常/弱体系特殊状態解除&amp;無効化)",
+          "effectIdx1": "2186",
+          "effectIdx2": "2892",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2511",
+          "abilityName": "ナルト応援隊員",
+          "abilityDescription": "HP0以下で1回耐え、味方に「うずまきナルト（年代問わず）」が生存しているとスキルダメージ200％アップ",
+          "abilityEffectDescription": "HP0以下で1回耐え、味方に「うずまきナルト（年代問わず）」が生存しているとスキルダメージ200％アップ",
+          "effectIdx1": "312",
+          "effectIdx2": "2897",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2512",
+          "abilityName": "ぼんやり気質",
+          "abilityDescription": "最大HPを100%アップし、5回行動以降に攻撃力・防御力・素早さが100%アップ",
+          "abilityEffectDescription": "最大HPを100%アップし、5回行動以降に攻撃力・防御力・素早さが100%アップ",
+          "effectIdx1": "684",
+          "effectIdx2": "2898",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2513",
+          "abilityName": "轟く雷名",
+          "abilityDescription": "敵に無所属かうちは一族がいると確率で先制※両方いると確率ｱｯﾌﾟ、HP90%以上で再行動※再行動後さらに行動不可",
+          "abilityEffectDescription": "敵に無所属かうちは一族がいると確率で先制※両方いると確率ｱｯﾌﾟ、HP90%以上で再行動※再行動後さらに行動不可",
+          "effectIdx1": "2899",
+          "effectIdx2": "2900",
+          "effectIdx3": "2901"
+        },
+        {
+          "abilityId": "2514",
+          "abilityName": "電光の掌",
+          "abilityDescription": "敵の無所属にﾊﾞﾄﾙ開始時1回行動麻痺付与※耐性無視、HP0以下で1回耐える、超忍・滅・創ｷｬﾗからのﾀﾞﾒｰｼﾞ50%ｶｯﾄ",
+          "abilityEffectDescription": "敵の無所属にﾊﾞﾄﾙ開始時1回行動麻痺付与※耐性無視、HP0以下で1回耐える、超忍・滅・創ｷｬﾗからのﾀﾞﾒｰｼﾞ50%ｶｯﾄ",
+          "effectIdx1": "2902",
+          "effectIdx2": "312",
+          "effectIdx3": "2708"
+        },
+        {
+          "abilityId": "2515",
+          "abilityName": "究極の美の追究者",
+          "abilityDescription": "HP0以下で2回まで耐え、バトル開始時に確率で敵全体をスキル回避封印状態にする",
+          "abilityEffectDescription": "HP0以下で2回まで耐え、バトル開始時に確率で敵全体をスキル回避封印状態にする",
+          "effectIdx1": "1057",
+          "effectIdx2": "2696",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2516",
+          "abilityName": "試験体収集者",
+          "abilityDescription": "低確率で女性キャラから受ける全スキル無効＆耐性無視ダメージ0",
+          "abilityEffectDescription": "低確率で女性キャラから受ける全スキル無効＆耐性無視ダメージ0",
+          "effectIdx1": "2903",
+          "effectIdx2": "2904",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2517",
+          "abilityName": "造樹の土水",
+          "abilityDescription": "HP0以下で2回耐える、班にはたけカカシがいるとさらに1回耐え、うずまきナルトがいると耐えた時HP全回復",
+          "abilityEffectDescription": "HP0以下で2回耐える、班にはたけカカシがいるとさらに1回耐え、うずまきナルトがいると耐えた時HP全回復",
+          "effectIdx1": "1057",
+          "effectIdx2": "2915",
+          "effectIdx3": "2841"
+        },
+        {
+          "abilityId": "2518",
+          "abilityName": "九尾抑えし秘術",
+          "abilityDescription": "スキップ・キャンセル無効、敵に滅キャラがいると素早さ100%アップ",
+          "abilityEffectDescription": "スキップ・キャンセル無効、敵に滅キャラがいると素早さ100%アップ",
+          "effectIdx1": "2160",
+          "effectIdx2": "1751",
+          "effectIdx3": "2444"
+        },
+        {
+          "abilityId": "2523",
+          "abilityName": "秋道一族の長",
+          "abilityDescription": "最大HP100%アップ、最大チャクラ量が50アップ、3回行動するまで素早さ100%アップ",
+          "abilityEffectDescription": "最大HP100%アップ、最大チャクラ量が50アップ、3回行動するまで素早さ100%アップ",
+          "effectIdx1": "684",
+          "effectIdx2": "689",
+          "effectIdx3": "1265"
+        },
+        {
+          "abilityId": "2524",
+          "abilityName": "肉体操作の秘術",
+          "abilityDescription": "HP0以下で1回だけ耐える、弱体・状態異常を半減",
+          "abilityEffectDescription": "HP0以下で1回だけ耐える、弱体・状態異常を半減",
+          "effectIdx1": "312",
+          "effectIdx2": "776",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2525",
+          "abilityName": "教義の布教を望む者",
+          "abilityDescription": "HP0以下で4回耐え、敵に超忍キャラが生存していると攻撃を受けた時に高確率でアクション状態",
+          "abilityEffectDescription": "HP0以下で4回耐え、敵に超忍キャラが生存していると攻撃を受けた時に高確率でアクション状態",
+          "effectIdx1": "1737",
+          "effectIdx2": "2816",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2526",
+          "abilityName": "享楽的殺伐嗜好者",
+          "abilityDescription": "敵に木ノ葉隠れの里所属がいると、バトル開始時に敵全体を長い間憑血状態にする",
+          "abilityEffectDescription": "敵に木ノ葉隠れの里所属がいると、バトル開始時に敵全体を長い間憑血状態にする",
+          "effectIdx1": "2918",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
         },
         {
           "abilityId": "10000",
@@ -21478,6 +22378,15 @@
           "abilityDescription": "スキルダメージが超大幅ダウンする",
           "abilityEffectDescription": "スキルダメージが超大幅ダウンする",
           "effectIdx1": "50001",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "10600",
+          "abilityName": "5回行動するまで全スキル無効",
+          "abilityDescription": "5回行動するまで全スキル無効",
+          "abilityEffectDescription": "5回行動するまで全スキル無効",
+          "effectIdx1": "2759",
           "effectIdx2": "0",
           "effectIdx3": "0"
         },
@@ -22391,6 +23300,132 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "100070",
+          "abilityName": "完璧な人柱力",
+          "abilityDescription": "最大チャクラ量250アップ、攻撃を受けた時に高確率でHP50%回復、敵に破神がいると最大HP350%アップ",
+          "abilityEffectDescription": "最大チャクラ量250アップ、攻撃を受けた時に高確率でHP50%回復、敵に破神がいると最大HP350%アップ",
+          "effectIdx1": "20044",
+          "effectIdx2": "2783",
+          "effectIdx3": "2784"
+        },
+        {
+          "abilityId": "100071",
+          "abilityName": "直巴の万華鏡",
+          "abilityDescription": "最大チャクラ量250アップ、高確率でスキルを回避、敵に破神が生存していると素早さ250%アップ",
+          "abilityEffectDescription": "最大チャクラ量250アップ、高確率でスキルを回避、敵に破神が生存していると素早さ250%アップ",
+          "effectIdx1": "20044",
+          "effectIdx2": "968",
+          "effectIdx3": "2786"
+        },
+        {
+          "abilityId": "100072",
+          "abilityName": "幻術無しの手作り",
+          "abilityDescription": "弱体と状態異常を無効、通常攻撃が必ず当たる、HP80%以上でスキル発動速度1段階アップ",
+          "abilityEffectDescription": "弱体と状態異常を無効、通常攻撃が必ず当たる、HP80%以上でスキル発動速度1段階アップ",
+          "effectIdx1": "880",
+          "effectIdx2": "30",
+          "effectIdx3": "1089"
+        },
+        {
+          "abilityId": "100073",
+          "abilityName": "沸溶遁の菓子作り",
+          "abilityDescription": "弱体と状態異常を無効、HP80%以上でスキルダメージ200%アップ&amp;スキル発動速度1段階アップ",
+          "abilityEffectDescription": "弱体と状態異常を無効、HP80%以上でスキルダメージ200%アップ&amp;スキル発動速度1段階アップ",
+          "effectIdx1": "880",
+          "effectIdx2": "31719",
+          "effectIdx3": "1089"
+        },
+        {
+          "abilityId": "100074",
+          "abilityName": "麗しき早春の美装",
+          "abilityDescription": "3回行動するまで素早さ133%アップ＆高確率で全スキル無効＆スキル発動速度1段階アップ",
+          "abilityEffectDescription": "3回行動するまで素早さ133%アップ＆高確率で全スキル無効＆スキル発動速度1段階アップ",
+          "effectIdx1": "2105",
+          "effectIdx2": "2106",
+          "effectIdx3": "1958"
+        },
+        {
+          "abilityId": "100075",
+          "abilityName": "無垢なる早春の美装",
+          "abilityDescription": "3回行動するまで素早さ133%アップ＆高確率で全スキル無効＆スキル発動速度1段階アップ",
+          "abilityEffectDescription": "3回行動するまで素早さ133%アップ＆高確率で全スキル無効＆スキル発動速度1段階アップ",
+          "effectIdx1": "2105",
+          "effectIdx2": "2106",
+          "effectIdx3": "1958"
+        },
+        {
+          "abilityId": "100076",
+          "abilityName": "平和を望む破壊神",
+          "abilityDescription": "最大チャクラ量を250アップし、状態異常を無効化する、敵に破神が生存していると素早さ100%アップ",
+          "abilityEffectDescription": "最大チャクラ量を250アップし、状態異常を無効化する、敵に破神が生存していると素早さ100%アップ",
+          "effectIdx1": "20044",
+          "effectIdx2": "82",
+          "effectIdx3": "2832"
+        },
+        {
+          "abilityId": "100077",
+          "abilityName": "絶望の悟り",
+          "abilityDescription": "HPが0以下で5回までHPが全回復、敵に破神がいると最大HP200%アップ",
+          "abilityEffectDescription": "HPが0以下で5回までHPが全回復、敵に破神がいると最大HP200%アップ",
+          "effectIdx1": "874",
+          "effectIdx2": "1512",
+          "effectIdx3": "2833"
+        },
+        {
+          "abilityId": "100078",
+          "abilityName": "度胸と頭脳",
+          "abilityDescription": "破神・闘忍から受けるダメージ90%カット、バトル開始時に自身をしゃーんなろー状態",
+          "abilityEffectDescription": "破神・闘忍から受けるダメージ90%カット、バトル開始時に自身をしゃーんなろー状態",
+          "effectIdx1": "2887",
+          "effectIdx2": "2889",
+          "effectIdx3": "2891"
+        },
+        {
+          "abilityId": "100079",
+          "abilityName": "学びし医療忍者の掟",
+          "abilityDescription": "味方への単体ｽｷﾙ攻撃を受け、敵に破神存在でﾊﾞﾄﾙ開始時に味方全体を堅護(弱体/状態異常/弱体系特殊状態解除&amp;無効化)",
+          "abilityEffectDescription": "味方への単体ｽｷﾙ攻撃を受け、敵に破神存在でﾊﾞﾄﾙ開始時に味方全体を堅護(弱体/状態異常/弱体系特殊状態解除&amp;無効化)",
+          "effectIdx1": "2186",
+          "effectIdx2": "2892",
+          "effectIdx3": "2893"
+        },
+        {
+          "abilityId": "100080",
+          "abilityName": "メンバーとの絆",
+          "abilityDescription": "味方にうちはｻｽｹがいるとHP0以下で1回耐え、ｻｲがいるとｽｷﾙﾀﾞﾒｰｼﾞ100％ｱｯﾌﾟ、ﾊﾞﾄﾙ開始時確率でﾛｯｸ魂状態になる",
+          "abilityEffectDescription": "味方にうちはｻｽｹがいるとHP0以下で1回耐え、ｻｲがいるとｽｷﾙﾀﾞﾒｰｼﾞ100％ｱｯﾌﾟ、ﾊﾞﾄﾙ開始時確率でﾛｯｸ魂状態になる",
+          "effectIdx1": "2152",
+          "effectIdx2": "2165",
+          "effectIdx3": "2905"
+        },
+        {
+          "abilityId": "100081",
+          "abilityName": "過激な歌唱パフォーマンス",
+          "abilityDescription": "味方にうずまきﾅﾙﾄかｻｲがいるとｽｷﾙﾀﾞﾒｰｼﾞ69％ｱｯﾌﾟ（どちらもいると138%ｱｯﾌﾟ）、ﾊﾞﾄﾙ開始時確率でﾛｯｸ魂状態になる",
+          "abilityEffectDescription": "味方にうずまきﾅﾙﾄかｻｲがいるとｽｷﾙﾀﾞﾒｰｼﾞ69％ｱｯﾌﾟ（どちらもいると138%ｱｯﾌﾟ）、ﾊﾞﾄﾙ開始時確率でﾛｯｸ魂状態になる",
+          "effectIdx1": "2155",
+          "effectIdx2": "2153",
+          "effectIdx3": "2905"
+        },
+        {
+          "abilityId": "100082",
+          "abilityName": "目覚めし歌心",
+          "abilityDescription": "味方にﾅﾙﾄがいるとｽｷﾙ発動速度1段階ｱｯﾌﾟ、ｻｽｹがいると弱体と状態異常無効、ﾊﾞﾄﾙ開始時確率でﾛｯｸ魂状態になる",
+          "abilityEffectDescription": "味方にﾅﾙﾄがいるとｽｷﾙ発動速度1段階ｱｯﾌﾟ、ｻｽｹがいると弱体と状態異常無効、ﾊﾞﾄﾙ開始時確率でﾛｯｸ魂状態になる",
+          "effectIdx1": "2157",
+          "effectIdx2": "2158",
+          "effectIdx3": "2905"
+        },
+        {
+          "abilityId": "100083",
+          "abilityName": "超獣のバックコーラス",
+          "abilityDescription": "HP0以下で1回まで耐える、HP69％以下で耐性無視ダメージ0＆高確率でスキル回避",
+          "abilityEffectDescription": "HP0以下で1回まで耐える、HP69％以下で耐性無視ダメージ0＆高確率でスキル回避",
+          "effectIdx1": "312",
+          "effectIdx2": "2159",
+          "effectIdx3": "2906"
+        },
+        {
           "abilityId": "200001",
           "abilityName": "心属性特化",
           "abilityDescription": "心属性へのスキル攻撃時に相手の耐性を弱点とする。心属性からのダメージを50%カット",
@@ -22607,6 +23642,15 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "301007",
+          "abilityName": "攻撃力アップ系アビ",
+          "abilityDescription": "攻撃力200%アップ",
+          "abilityEffectDescription": "攻撃力200%アップ",
+          "effectIdx1": "1285",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "302001",
           "abilityName": "防御力アップ系アビ",
           "abilityDescription": "防御力1000アップ",
@@ -22679,6 +23723,15 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "303003",
+          "abilityName": "素早さアップ系アビ",
+          "abilityDescription": "行動するたび素早さ50%UP(10回まで)",
+          "abilityEffectDescription": "行動するたび素早さ50%UP(10回まで)",
+          "effectIdx1": "2822",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "304001",
           "abilityName": "回避率アップ系アビ",
           "abilityDescription": "回避率1%アップ",
@@ -22738,6 +23791,15 @@
           "abilityDescription": "全スキルダメージ120%アップ",
           "abilityEffectDescription": "全スキルダメージ120%アップ",
           "effectIdx1": "30011",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "307005",
+          "abilityName": "スキダメアップ系アビ",
+          "abilityDescription": "敵に破神が生存しているとスキルダメージ150%アップ",
+          "abilityEffectDescription": "敵に破神が生存しているとスキルダメージ150%アップ",
+          "effectIdx1": "2823",
           "effectIdx2": "0",
           "effectIdx3": "0"
         },
@@ -22864,6 +23926,258 @@
           "abilityDescription": "1回行動までスキップ無効",
           "abilityEffectDescription": "1回行動までスキップ無効",
           "effectIdx1": "2336",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "310011",
+          "abilityName": "Bマス用",
+          "abilityDescription": "1回行動するまで全スキル無効",
+          "abilityEffectDescription": "1回行動するまで全スキル無効",
+          "effectIdx1": "1794",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "310012",
+          "abilityName": "Bマス用",
+          "abilityDescription": "敵に神忍祭限定キャラが生存すると素早さ60%アップ",
+          "abilityEffectDescription": "敵に神忍祭限定キャラが生存すると素早さ60%アップ",
+          "effectIdx1": "2692",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "310013",
+          "abilityName": "Bマス用",
+          "abilityDescription": "チャクラ消費量半減",
+          "abilityEffectDescription": "チャクラ消費量半減",
+          "effectIdx1": "895",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "310014",
+          "abilityName": "Bマス用",
+          "abilityDescription": "確率で心属性へのスキル攻撃時に相手の耐性を弱点とする",
+          "abilityEffectDescription": "確率で心属性へのスキル攻撃時に相手の耐性を弱点とする",
+          "effectIdx1": "2693",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "310015",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "味方への単体スキル攻撃を受ける",
+          "abilityEffectDescription": "味方への単体スキル攻撃を受ける",
+          "effectIdx1": "2186",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "310016",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "敵に破神がいると素早さ60%アップ",
+          "abilityEffectDescription": "敵に破神がいると素早さ60%アップ",
+          "effectIdx1": "2716",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "310017",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "スキルダメージ120%アップ",
+          "abilityEffectDescription": "スキルダメージ120%アップ",
+          "effectIdx1": "30011",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "310018",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "行動するたび攻防速25%UP(3回まで)",
+          "abilityEffectDescription": "行動するたび攻防速25%UP(3回まで)",
+          "effectIdx1": "872",
+          "effectIdx2": "873",
+          "effectIdx3": "897"
+        },
+        {
+          "abilityId": "310019",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "チャクラ消費量半減",
+          "abilityEffectDescription": "チャクラ消費量半減",
+          "effectIdx1": "895",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "310020",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "素早さ40%UP",
+          "abilityEffectDescription": "素早さ40%UP",
+          "effectIdx1": "111",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "310021",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "HP0以下で1回だけHP全回復",
+          "abilityEffectDescription": "HP0以下で1回だけHP全回復",
+          "effectIdx1": "312",
+          "effectIdx2": "874",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "310022",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "スキル発動速度1段階アップ",
+          "abilityEffectDescription": "スキル発動速度1段階アップ",
+          "effectIdx1": "1840",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "310023",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "味方への単体スキル攻撃を受ける",
+          "abilityEffectDescription": "味方への単体スキル攻撃を受ける",
+          "effectIdx1": "2186",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "310024",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "敵に破神がいると素早さ60%アップ",
+          "abilityEffectDescription": "敵に破神がいると素早さ60%アップ",
+          "effectIdx1": "2716",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "310025",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "スキルダメージ120%アップ",
+          "abilityEffectDescription": "スキルダメージ120%アップ",
+          "effectIdx1": "30011",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "310026",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "行動するたび攻防速25%UP(3回まで)",
+          "abilityEffectDescription": "行動するたび攻防速25%UP(3回まで)",
+          "effectIdx1": "872",
+          "effectIdx2": "873",
+          "effectIdx3": "897"
+        },
+        {
+          "abilityId": "310027",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "チャクラ消費量半減",
+          "abilityEffectDescription": "チャクラ消費量半減",
+          "effectIdx1": "895",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "310028",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "キャンセル無効",
+          "abilityEffectDescription": "キャンセル無効",
+          "effectIdx1": "1751",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "310029",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "耐えた時HP全回復",
+          "abilityEffectDescription": "耐えた時HP全回復",
+          "effectIdx1": "874",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "310030",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "スキップ無効",
+          "abilityEffectDescription": "スキップ無効",
+          "effectIdx1": "2160",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "310031",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "HP80%以上の時、確実に再行動※再行動後さらに行動不可",
+          "abilityEffectDescription": "HP80%以上の時、確実に再行動※再行動後さらに行動不可",
+          "effectIdx1": "2269",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "310032",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "低確率で再行動（25%）",
+          "abilityEffectDescription": "低確率で再行動（25%）",
+          "effectIdx1": "2537",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "310033",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "1回行動まで耐性無視ダメージ0",
+          "abilityEffectDescription": "1回行動まで耐性無視ダメージ0",
+          "effectIdx1": "1961",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "310034",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "HP50%以下で素早さ80％アップ",
+          "abilityEffectDescription": "HP50%以下で素早さ80％アップ",
+          "effectIdx1": "2423",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "310035",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "敵に破神が生存しているとスキルダメージ150%アップ",
+          "abilityEffectDescription": "敵に破神が生存しているとスキルダメージ150%アップ",
+          "effectIdx1": "2823",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "310036",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "耐えた時に高確率でHP全回復",
+          "abilityEffectDescription": "耐えた時に高確率でHP全回復",
+          "effectIdx1": "2894",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "310037",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "敵に“暁”が生存していると素早さ60%アップ",
+          "abilityEffectDescription": "敵に“暁”が生存していると素早さ60%アップ",
+          "effectIdx1": "2896",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "310038",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "耐えた時にHP50%回復",
+          "abilityEffectDescription": "耐えた時にHP50%回復",
+          "effectIdx1": "618",
           "effectIdx2": "0",
           "effectIdx3": "0"
         },

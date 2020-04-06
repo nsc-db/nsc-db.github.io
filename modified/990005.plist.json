@@ -909,6 +909,36 @@
           "enemyEffects": "50001,2622,"
         },
         {
+          "battleFieldEffectId": "101",
+          "name": "猛き創世の野望",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "12502,2160,2254,1549,13099,",
+          "enemyEffects": "2596,262,2694,"
+        },
+        {
+          "battleFieldEffectId": "102",
+          "name": "封印を解かれし刻",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "12502,2160,2254,1549,",
+          "enemyEffects": null
+        },
+        {
+          "battleFieldEffectId": "103",
+          "name": "行動時乱舞カウントを2減少",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": null,
+          "enemyEffects": "2774,"
+        },
+        {
           "battleFieldEffectId": "10001",
           "name": "始球空間",
           "category": "3",
@@ -1057,5 +1087,25 @@
           "uiIdx": "10015",
           "partyEffects": "2645,",
           "enemyEffects": "2645,"
+        },
+        {
+          "battleFieldEffectId": "10016",
+          "name": "救世ノ開眼",
+          "category": "3",
+          "scriptId": "10016",
+          "overWrite": "0",
+          "uiIdx": "10016",
+          "partyEffects": null,
+          "enemyEffects": "2689,2690,"
+        },
+        {
+          "battleFieldEffectId": "10017",
+          "name": "烈火ノ看破",
+          "category": "3",
+          "scriptId": "10017",
+          "overWrite": "1",
+          "uiIdx": "10017",
+          "partyEffects": "2787,2788,2789,",
+          "enemyEffects": null
         }
       ]

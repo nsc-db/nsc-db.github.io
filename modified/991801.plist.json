@@ -463,6 +463,22 @@
           "purchaseReleaseTime": "0000-00-00 00:00:00"
         },
         {
+          "mypageSceneryId": "1912003",
+          "name": "マイペ背景",
+          "rarity": "4",
+          "ornamentDefaultSettingNum": "10",
+          "ornamentDefaultSettingPosition": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageSceneryId": "1912004",
+          "name": "マイペ背景",
+          "rarity": "4",
+          "ornamentDefaultSettingNum": "10",
+          "ornamentDefaultSettingPosition": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
           "mypageSceneryId": "2000001",
           "name": "マイペ背景",
           "rarity": "1",
@@ -489,6 +505,54 @@
         {
           "mypageSceneryId": "2000004",
           "name": "露天風呂",
+          "rarity": "4",
+          "ornamentDefaultSettingNum": "10",
+          "ornamentDefaultSettingPosition": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageSceneryId": "2001001",
+          "name": "マイペ背景",
+          "rarity": "4",
+          "ornamentDefaultSettingNum": "10",
+          "ornamentDefaultSettingPosition": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageSceneryId": "2002001",
+          "name": "マイペ背景",
+          "rarity": "4",
+          "ornamentDefaultSettingNum": "10",
+          "ornamentDefaultSettingPosition": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageSceneryId": "2002002",
+          "name": "マイペ背景",
+          "rarity": "4",
+          "ornamentDefaultSettingNum": "10",
+          "ornamentDefaultSettingPosition": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageSceneryId": "2003001",
+          "name": "マイペ背景",
+          "rarity": "4",
+          "ornamentDefaultSettingNum": "10",
+          "ornamentDefaultSettingPosition": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageSceneryId": "2003002",
+          "name": "マイペ背景",
+          "rarity": "4",
+          "ornamentDefaultSettingNum": "10",
+          "ornamentDefaultSettingPosition": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageSceneryId": "2004001",
+          "name": "マイペ背景",
           "rarity": "4",
           "ornamentDefaultSettingNum": "10",
           "ornamentDefaultSettingPosition": "0",

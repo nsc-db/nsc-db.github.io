@@ -1355,6 +1355,60 @@
           "materialImageId": "232"
         },
         {
+          "materialId": "233",
+          "materialName": "カップケーキのもと",
+          "materialRare": "5",
+          "materialImageId": "233"
+        },
+        {
+          "materialId": "234",
+          "materialName": "ナルトのもと",
+          "materialRare": "5",
+          "materialImageId": "234"
+        },
+        {
+          "materialId": "235",
+          "materialName": "イルカのもと",
+          "materialRare": "5",
+          "materialImageId": "235"
+        },
+        {
+          "materialId": "236",
+          "materialName": "サクラのもと",
+          "materialRare": "5",
+          "materialImageId": "236"
+        },
+        {
+          "materialId": "237",
+          "materialName": "サスケのもと",
+          "materialRare": "5",
+          "materialImageId": "237"
+        },
+        {
+          "materialId": "238",
+          "materialName": "OBCカッサ",
+          "materialRare": "5",
+          "materialImageId": "238"
+        },
+        {
+          "materialId": "239",
+          "materialName": "OBC美容水",
+          "materialRare": "5",
+          "materialImageId": "239"
+        },
+        {
+          "materialId": "240",
+          "materialName": "OBC美白栄養パック",
+          "materialRare": "5",
+          "materialImageId": "240"
+        },
+        {
+          "materialId": "241",
+          "materialName": "OBC血液ｸﾚﾝｼﾞﾝｸﾞｾｯﾄ",
+          "materialRare": "5",
+          "materialImageId": "241"
+        },
+        {
           "materialId": "306",
           "materialName": "???",
           "materialRare": "4",

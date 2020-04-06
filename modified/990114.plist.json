@@ -723,7 +723,7 @@
           "category": "3",
           "iconId": "1057",
           "name": "愛",
-          "description": "攻撃力・素早さ・スキルダメージがアップ、全スキルダメージを軽減する",
+          "description": "攻撃力・素早さ・スキルダメージがアップ、全スキルダメージを軽減/半減/無効化する",
           "subScore": "0",
           "color": "16744319",
           "type": "2"
@@ -2387,5 +2387,195 @@
           "subScore": "0",
           "color": "0",
           "type": "3"
+        },
+        {
+          "cardUnusualId": "243",
+          "category": "3",
+          "iconId": "1274",
+          "name": "贈",
+          "description": "攻撃・防御・素早さ・スキルダメージがアップし、行動後HPとチャクラ回復",
+          "subScore": "0",
+          "color": "16510971",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "244",
+          "category": "3",
+          "iconId": "1275",
+          "name": "聖夜モード",
+          "description": "素早さがアップ、スキル発動が常に閃光になる",
+          "subScore": "0",
+          "color": "16776991",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "245",
+          "category": "3",
+          "iconId": "1276",
+          "name": "お年玉チャンス",
+          "description": "効果なし",
+          "subScore": "0",
+          "color": "16776991",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "246",
+          "category": "3",
+          "iconId": "1293",
+          "name": "修羅",
+          "description": "通常攻撃に必中、常時会心、確率で通常攻撃にスキル発動速度が遅くなる効果を付与する",
+          "subScore": "0",
+          "color": "9540237",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "247",
+          "category": "4",
+          "iconId": "1278",
+          "name": "神・閃光モード",
+          "description": "素早さｱｯﾌﾟ、ｽｷﾙ発動閃光化、行動時閃光ﾓｰﾄﾞの味方をｱｸｼｮﾝ、行動時に被攻撃に応じてｶｳﾝﾄが増加し効果ｱｯﾌﾟ",
+          "subScore": "0",
+          "color": "16776991",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "250",
+          "category": "5",
+          "iconId": "1291",
+          "name": "強化系特殊状態不可",
+          "description": "強化系特殊状態不可",
+          "subScore": "0",
+          "color": "8355711",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "251",
+          "category": "6",
+          "iconId": "1295",
+          "name": "一ノ盾",
+          "description": "状態異常・幻・弱体系特殊状態・即死無効、ﾀﾞﾒｰｼﾞｶｯﾄ（被攻撃で減少）、ｽｷﾙに反撃ﾀﾞﾒｰｼﾞ、解除時獣化不可",
+          "subScore": "0",
+          "color": "13216390",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "252",
+          "category": "4",
+          "iconId": "1292",
+          "name": "始原ノ瞳",
+          "description": "行動後HP減少。カグヤのスキル攻撃が弱点化。行動後スキル発動速度ダウン",
+          "subScore": "0",
+          "color": "10104574",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "253",
+          "category": "4",
+          "iconId": "1296",
+          "name": "神ノ威光",
+          "description": "味方全体ﾀﾞﾒｰｼﾞｶｯﾄ付与、自身に耐性無視含む全ｽｷﾙ無効付与し被攻撃時、敵全体に強化系神化＆特殊状態解除",
+          "subScore": "0",
+          "color": "12506046",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "255",
+          "category": "3",
+          "iconId": "1297",
+          "name": "炎舞",
+          "description": "写輪眼以外のスキル無効化。使用毎にカウント数が増加し、攻撃力＆スキルダメージアップ＆追撃回数アップ",
+          "subScore": "0",
+          "color": "16724736",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "256",
+          "category": "4",
+          "iconId": "1302",
+          "name": "水衝",
+          "description": "高確率で行動不能、行動毎にスキル発動速度、素早さダウン、HP減少しカウントで効果アップ",
+          "subScore": "0",
+          "color": "7920895",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "257",
+          "category": "6",
+          "iconId": "1303",
+          "name": "二ノ炎",
+          "description": "強化系特殊状態解除＆無効化、行動後HP減少、カウントが3で即死",
+          "subScore": "0",
+          "color": "16724736",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "258",
+          "category": "4",
+          "iconId": "1312",
+          "name": "百豪",
+          "description": "通常攻撃が常に必中、会心、ﾀﾞﾒｰｼﾞｱｯﾌﾟ。弱体系特殊解除＆無効。通常攻撃で地形＆強化系特殊/神化解除",
+          "subScore": "0",
+          "color": "7920895",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "259",
+          "category": "3",
+          "iconId": "1313",
+          "name": "大炎",
+          "description": "行動ごとにHPが減少",
+          "subScore": "1",
+          "color": "16719647",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "260",
+          "category": "4",
+          "iconId": "1314",
+          "name": "不死蛇",
+          "description": "HP0以下で666回耐え、耐える度素早さ&amp;ｽｷﾙﾀﾞﾒｰｼﾞｱｯﾌﾟ。状態異常/幻/即死/弱体特殊&amp;神化状態解除&amp;無効",
+          "subScore": "0",
+          "color": "10104574",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "261",
+          "category": "3",
+          "iconId": "1315",
+          "name": "しゃーんなろー",
+          "description": "スキルダメージアップ、一部防御無視、破神からスキル攻撃を受けるとアクション状態になる",
+          "subScore": "0",
+          "color": "16510971",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "262",
+          "category": "3",
+          "iconId": "1316",
+          "name": "月読",
+          "description": "耐性無視含む全スキル無効。全体単体問わず受けるスキルダメージ10000%ダウンさせ、攻撃者に混乱付与",
+          "subScore": "0",
+          "color": "14629377",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "263",
+          "category": "6",
+          "iconId": "1317",
+          "name": "三ノ殻",
+          "description": "弱体系神化＆特殊状態・地形無効、自身へのｽｷﾙﾀﾞﾒｰｼﾞﾀﾞｳﾝ、被ｽｷﾙ攻撃時反撃＆確率でｱｸｼｮﾝ、解除時獣化不可",
+          "subScore": "0",
+          "color": "7920895",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "264",
+          "category": "3",
+          "iconId": "1318",
+          "name": "死司",
+          "description": "HP一定値以下で憑血状態の敵からスキル攻撃を受けると一定確率で即死反撃、一度反撃で解除＆HP回復",
+          "subScore": "0",
+          "color": "14614842",
+          "type": "2"
         }
       ]

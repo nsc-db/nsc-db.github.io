@@ -753,5 +753,13 @@
         {
           "defineKey": "sphere_top_display_summon_materials",
           "defineValue": "0,0"
+        },
+        {
+          "defineKey": "exchange_new_mark_display_time",
+          "defineValue": "259200"
+        },
+        {
+          "defineKey": "exchange_max_count",
+          "defineValue": "50"
         }
       ]

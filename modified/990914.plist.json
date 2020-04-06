@@ -1143,5 +1143,77 @@
           "hpGaugeHeight": "50",
           "motionType": "4",
           "attackScriptName": "cha0577_04"
+        },
+        {
+          "modelId": "631",
+          "hpGaugeHeight": "50",
+          "motionType": "2",
+          "attackScriptName": "cha0631_02"
+        },
+        {
+          "modelId": "708",
+          "hpGaugeHeight": "62",
+          "motionType": "2",
+          "attackScriptName": "cha0708_01"
+        },
+        {
+          "modelId": "438",
+          "hpGaugeHeight": "50",
+          "motionType": "1",
+          "attackScriptName": "cha0438_01"
+        },
+        {
+          "modelId": "436",
+          "hpGaugeHeight": "50",
+          "motionType": "1",
+          "attackScriptName": "cha0436_01"
+        },
+        {
+          "modelId": "450",
+          "hpGaugeHeight": "50",
+          "motionType": "1",
+          "attackScriptName": "cha0450_01"
+        },
+        {
+          "modelId": "716",
+          "hpGaugeHeight": "50",
+          "motionType": "0",
+          "attackScriptName": "cha0716_00"
+        },
+        {
+          "modelId": "717",
+          "hpGaugeHeight": "50",
+          "motionType": "0",
+          "attackScriptName": "cha0717_00"
+        },
+        {
+          "modelId": "713",
+          "hpGaugeHeight": "50",
+          "motionType": "0",
+          "attackScriptName": "cha0713_00"
+        },
+        {
+          "modelId": "714",
+          "hpGaugeHeight": "50",
+          "motionType": "0",
+          "attackScriptName": "cha0714_00"
+        },
+        {
+          "modelId": "715",
+          "hpGaugeHeight": "50",
+          "motionType": "0",
+          "attackScriptName": "cha0715_00"
+        },
+        {
+          "modelId": "712",
+          "hpGaugeHeight": "50",
+          "motionType": "2",
+          "attackScriptName": "cha0712_02"
+        },
+        {
+          "modelId": "709",
+          "hpGaugeHeight": "50",
+          "motionType": "2",
+          "attackScriptName": "cha0709_02"
         }
       ]

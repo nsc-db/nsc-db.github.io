@@ -11,6 +11,18 @@
           "specialPanelList": "9000004,9000005,9000006"
         },
         {
+          "sphereBoardId": "10011",
+          "boardName": "Temp_Ct40_技属性_の潜在覚醒盤",
+          "boardDescription": "大蛇丸【華麗なるOBC院長】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20060416",
+          "normalPanelList": "9000007,9000008,9000009",
+          "specialPanelList": "9000010,9000011,9000012"
+        },
+        {
           "sphereBoardId": "50001",
           "boardName": "Temp_Ct=&gt;90_体属性_の潜在覚醒盤",
           "boardDescription": "うずまきナルト【解き示す絆の輝き】",
@@ -21,6 +33,138 @@
           "cardId": "20051005",
           "normalPanelList": "9100013,9100014,9100015",
           "specialPanelList": "9100016,9100017,9100018"
+        },
+        {
+          "sphereBoardId": "50002",
+          "boardName": "Temp_Ct=&gt;90_技属性_の潜在覚醒盤",
+          "boardDescription": "うちはマダラ【贋界の創瞳】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20051208",
+          "normalPanelList": "9100007,9100008,9100009",
+          "specialPanelList": "9100010,9100011,9100012"
+        },
+        {
+          "sphereBoardId": "50003",
+          "boardName": "Temp_Ct=&gt;90_知属性_の潜在覚醒盤",
+          "boardDescription": "大筒木カグヤ【覇眼の凶妃】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20051217",
+          "normalPanelList": "9100019,9100020,9100021",
+          "specialPanelList": "9100022,9100023,9100024"
+        },
+        {
+          "sphereBoardId": "50004",
+          "boardName": "Temp_Ct=&gt;90_勇属性_の潜在覚醒盤",
+          "boardDescription": "波風ミナト【神速無双の閃光】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20060108",
+          "normalPanelList": "9100025,9100026,9100027",
+          "specialPanelList": "9100028,9100029,9100030"
+        },
+        {
+          "sphereBoardId": "50005",
+          "boardName": "Temp_Ct=&gt;90_知属性_の潜在覚醒盤",
+          "boardDescription": "うちはオビト【天元の統力者】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20060111",
+          "normalPanelList": "9100019,9100020,9100021",
+          "specialPanelList": "9100022,9100023,9100024"
+        },
+        {
+          "sphereBoardId": "50006",
+          "boardName": "Temp_Ct=&gt;90_知属性_の潜在覚醒盤",
+          "boardDescription": "うちはイズナ【烈火の秘太刀】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20060202",
+          "normalPanelList": "9100019,9100020,9100021",
+          "specialPanelList": "9100022,9100023,9100024"
+        },
+        {
+          "sphereBoardId": "50007",
+          "boardName": "Temp_Ct=&gt;90_勇属性_の潜在覚醒盤",
+          "boardDescription": "千手扉間【聡明なる文武の忍】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20060203",
+          "normalPanelList": "9100025,9100026,9100027",
+          "specialPanelList": "9100028,9100029,9100030"
+        },
+        {
+          "sphereBoardId": "50008",
+          "boardName": "Temp_Ct=&gt;90_勇属性_の潜在覚醒盤",
+          "boardDescription": "春野サクラ【戦場の華桜】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20060217",
+          "normalPanelList": "9100025,9100026,9100027",
+          "specialPanelList": "9100028,9100029,9100030"
+        },
+        {
+          "sphereBoardId": "50009",
+          "boardName": "Temp_Ct=&gt;90_知属性_の潜在覚醒盤",
+          "boardDescription": "大蛇丸【濁悪の妖蛇】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20060308",
+          "normalPanelList": "9100019,9100020,9100021",
+          "specialPanelList": "9100022,9100023,9100024"
+        },
+        {
+          "sphereBoardId": "50010",
+          "boardName": "Temp_Ct=&gt;90_心属性_の潜在覚醒盤",
+          "boardDescription": "綱手【遺志継ぐ豪拳】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20060307",
+          "normalPanelList": "9100001,9100002,9100003",
+          "specialPanelList": "9100004,9100005,9100006"
+        },
+        {
+          "sphereBoardId": "50011",
+          "boardName": "Temp_Ct=&gt;90_勇属性_の潜在覚醒盤",
+          "boardDescription": "自来也【伝承の旋撃】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20051109",
+          "normalPanelList": "9100025,9100026,9100027",
+          "specialPanelList": "9100028,9100029,9100030"
+        },
+        {
+          "sphereBoardId": "50012",
+          "boardName": "Temp_Ct=&gt;90_勇属性_の潜在覚醒盤",
+          "boardDescription": "はたけカカシ【雷断の掌刃】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20060312",
+          "normalPanelList": "9100025,9100026,9100027",
+          "specialPanelList": "9100028,9100029,9100030"
         },
         {
           "sphereBoardId": "5000001",
@@ -57,5 +201,53 @@
           "cardId": "50051103",
           "normalPanelList": "5002001,5002002,5002003",
           "specialPanelList": "5002004,5002005,5002006"
+        },
+        {
+          "sphereBoardId": "5000004",
+          "boardName": "我愛羅&amp;守鶴",
+          "boardDescription": "我愛羅【礫壁ノ砂獣】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "50060104",
+          "normalPanelList": "5003001,5003002,5003003",
+          "specialPanelList": "5003004,5003005,5003006"
+        },
+        {
+          "sphereBoardId": "5000005",
+          "boardName": "二尾",
+          "boardDescription": "二位ユギト【灼滅の藍霊】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "50060205",
+          "normalPanelList": "5004001,5004002,5004003",
+          "specialPanelList": "5004004,5004005,5004006"
+        },
+        {
+          "sphereBoardId": "5000006",
+          "boardName": "サクラ＆カツユ",
+          "boardDescription": "春野サクラ【豪腕桜と忠実なる巨躯】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "50060307",
+          "normalPanelList": "5005001,5005002,5005003",
+          "specialPanelList": "5005004,5005005,5005006"
+        },
+        {
+          "sphereBoardId": "5000007",
+          "boardName": "三尾",
+          "boardDescription": "やぐら【海鳴の嶺獣】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "50060306",
+          "normalPanelList": "5006001,5006002,5006003",
+          "specialPanelList": "5006004,5006005,5006006"
         }
       ]

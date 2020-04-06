@@ -5086,5 +5086,82 @@
           "assetCategoryId": "13",
           "materialId": "232",
           "materialNum": "4"
+        },
+        {
+          "crystalRecipeId": "809",
+          "recipeId": "30314",
+          "assetCategoryId": "13",
+          "materialId": "233",
+          "materialNum": "20"
+        },
+        {
+          "crystalRecipeId": "810",
+          "recipeId": "30314",
+          "assetCategoryId": "13",
+          "materialId": "234",
+          "materialNum": "10"
+        },
+        {
+          "crystalRecipeId": "811",
+          "recipeId": "30315",
+          "assetCategoryId": "13",
+          "materialId": "233",
+          "materialNum": "50"
+        },
+        {
+          "crystalRecipeId": "812",
+          "recipeId": "30315",
+          "assetCategoryId": "13",
+          "materialId": "235",
+          "materialNum": "50"
+        },
+        {
+          "crystalRecipeId": "813",
+          "recipeId": "30316",
+          "assetCategoryId": "12",
+          "materialId": "30314",
+          "materialNum": "10"
+        },
+        {
+          "crystalRecipeId": "814",
+          "recipeId": "30316",
+          "assetCategoryId": "13",
+          "materialId": "237",
+          "materialNum": "100"
+        },
+        {
+          "crystalRecipeId": "815",
+          "recipeId": "30316",
+          "assetCategoryId": "13",
+          "materialId": "236",
+          "materialNum": "100"
+        },
+        {
+          "crystalRecipeId": "816",
+          "recipeId": "30424",
+          "assetCategoryId": "13",
+          "materialId": "238",
+          "materialNum": "10"
+        },
+        {
+          "crystalRecipeId": "817",
+          "recipeId": "30424",
+          "assetCategoryId": "13",
+          "materialId": "239",
+          "materialNum": "10"
+        },
+        {
+          "crystalRecipeId": "818",
+          "recipeId": "30424",
+          "assetCategoryId": "13",
+          "materialId": "240",
+          "materialNum": "10"
+        },
+        {
+          "crystalRecipeId": "819",
+          "recipeId": "30424",
+          "assetCategoryId": "13",
+          "materialId": "241",
+          "materialNum": "10"
         }
       ]

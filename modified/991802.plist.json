@@ -5300,6 +5300,60 @@
           "purchaseReleaseTime": "0000-00-00 00:00:00"
         },
         {
+          "mypageOrnamentId": "1912002",
+          "name": "0",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "1",
+          "charaId": "137",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "1912004",
+          "name": "0",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "1",
+          "charaId": "7",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "1912005",
+          "name": "0",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "1",
+          "charaId": "1",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "1912006",
+          "name": "0",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "1",
+          "charaId": "1",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "1912007",
+          "name": "0",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "1",
+          "charaId": "2",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "1912008",
+          "name": "0",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "1",
+          "charaId": "3",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
           "mypageOrnamentId": "1912601",
           "name": "その他",
           "rarity": "4",
@@ -5310,6 +5364,528 @@
         },
         {
           "mypageOrnamentId": "1912602",
+          "name": "その他",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "99",
+          "charaId": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "1912606",
+          "name": "その他",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "99",
+          "charaId": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "1912607",
+          "name": "その他",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "99",
+          "charaId": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "1912608",
+          "name": "その他",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "99",
+          "charaId": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "1912609",
+          "name": "その他",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "99",
+          "charaId": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "1912610",
+          "name": "その他",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "99",
+          "charaId": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "1912611",
+          "name": "その他",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "99",
+          "charaId": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "1912612",
+          "name": "その他",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "99",
+          "charaId": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "1912613",
+          "name": "その他",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "99",
+          "charaId": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "1912614",
+          "name": "その他",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "99",
+          "charaId": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "1912615",
+          "name": "その他",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "99",
+          "charaId": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "1912616",
+          "name": "その他",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "99",
+          "charaId": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "1912617",
+          "name": "その他",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "99",
+          "charaId": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "1912618",
+          "name": "その他",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "99",
+          "charaId": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "1912619",
+          "name": "その他",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "99",
+          "charaId": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "1912620",
+          "name": "その他",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "99",
+          "charaId": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "1912621",
+          "name": "その他",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "99",
+          "charaId": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "2001001",
+          "name": "0",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "1",
+          "charaId": "102",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "2001002",
+          "name": "0",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "1",
+          "charaId": "101",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "2001003",
+          "name": "0",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "1",
+          "charaId": "116",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "2001004",
+          "name": "0",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "1",
+          "charaId": "17",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "2001005",
+          "name": "0",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "1",
+          "charaId": "21",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "2001006",
+          "name": "0",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "1",
+          "charaId": "509",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "2001301",
+          "name": "エフェクト",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "2",
+          "charaId": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "2001302",
+          "name": "エフェクト",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "2",
+          "charaId": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "2001601",
+          "name": "その他",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "99",
+          "charaId": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "2002001",
+          "name": "0",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "1",
+          "charaId": "47",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "2002002",
+          "name": "0",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "1",
+          "charaId": "20",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "2002005",
+          "name": "0",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "1",
+          "charaId": "3",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "2002007",
+          "name": "0",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "1",
+          "charaId": "104",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "2002601",
+          "name": "その他",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "99",
+          "charaId": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "2002602",
+          "name": "その他",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "99",
+          "charaId": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "2003002",
+          "name": "0",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "1",
+          "charaId": "117",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "2003003",
+          "name": "0",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "1",
+          "charaId": "23",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "2003004",
+          "name": "0",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "1",
+          "charaId": "103",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "2003005",
+          "name": "0",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "1",
+          "charaId": "116",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "2003006",
+          "name": "0",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "1",
+          "charaId": "17",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "2003601",
+          "name": "その他",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "99",
+          "charaId": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "2003602",
+          "name": "その他",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "99",
+          "charaId": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "2003603",
+          "name": "その他",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "99",
+          "charaId": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "2003604",
+          "name": "その他",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "99",
+          "charaId": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "2003605",
+          "name": "その他",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "99",
+          "charaId": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "2003606",
+          "name": "その他",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "99",
+          "charaId": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "2003607",
+          "name": "その他",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "99",
+          "charaId": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "2003608",
+          "name": "その他",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "99",
+          "charaId": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "2003609",
+          "name": "その他",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "99",
+          "charaId": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "2003610",
+          "name": "その他",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "99",
+          "charaId": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "2003611",
+          "name": "その他",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "99",
+          "charaId": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "2003612",
+          "name": "その他",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "99",
+          "charaId": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "2003613",
+          "name": "その他",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "99",
+          "charaId": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "2004002",
+          "name": "0",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "1",
+          "charaId": "123",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "2004603",
+          "name": "その他",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "99",
+          "charaId": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "2004604",
+          "name": "その他",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "99",
+          "charaId": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "2004605",
+          "name": "その他",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "99",
+          "charaId": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "2004606",
+          "name": "その他",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "99",
+          "charaId": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "2004607",
+          "name": "その他",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "99",
+          "charaId": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "2004608",
+          "name": "その他",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "99",
+          "charaId": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "2004609",
+          "name": "その他",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "99",
+          "charaId": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "2004610",
           "name": "その他",
           "rarity": "4",
           "resourceType": "0",

@@ -2336,7 +2336,7 @@
         {
           "appUiId": "468",
           "uiKey": "PurchaseNotice",
-          "text": "※ 一度購入した忍石の返品はできません また忍石はGREEコインによる購入はできません※"
+          "text": "※ 一度購入した忍石の返品はできません。"
         },
         {
           "appUiId": "469",
@@ -7234,6 +7234,11 @@
           "text": "約%.2fMBのリソースを\r\nダウンロードします。"
         },
         {
+          "appUiId": "1450",
+          "uiKey": "ExchangePossession",
+          "text": "所持"
+        },
+        {
           "appUiId": "1451",
           "uiKey": "Infinity",
           "text": "∞"
@@ -7281,7 +7286,7 @@
         {
           "appUiId": "1460",
           "uiKey": "DailyPackPurchasedText",
-          "text": "1日1回プレゼント"
+          "text": "購入済み"
         },
         {
           "appUiId": "1461",
@@ -8302,5 +8307,80 @@
           "appUiId": "1664",
           "uiKey": "MissionReplayErrorMessage6",
           "text": "乱舞キャラ所持枠が上限に達しています"
+        },
+        {
+          "appUiId": "1665",
+          "uiKey": "ExchangeDisable",
+          "text": "交換済み"
+        },
+        {
+          "appUiId": "1666",
+          "uiKey": "ExchangeHaveFormat",
+          "text": "(所持数:%s)"
+        },
+        {
+          "appUiId": "1667",
+          "uiKey": "Shortage",
+          "text": "不足"
+        },
+        {
+          "appUiId": "1668",
+          "uiKey": "SphereMaterial",
+          "text": "潜在覚醒素材"
+        },
+        {
+          "appUiId": "1684",
+          "uiKey": "KeyValueChange",
+          "text": "%d→%d"
+        },
+        {
+          "appUiId": "1685",
+          "uiKey": "KeyMissionReleaseAll",
+          "text": "全解放中"
+        },
+        {
+          "appUiId": "1686",
+          "uiKey": "KeyMissionReleaseStage",
+          "text": "一部解放中"
+        },
+        {
+          "appUiId": "1687",
+          "uiKey": "DailyGachaUpdateRemainFormat",
+          "text": "ラインナップ更新まであと%s"
+        },
+        {
+          "appUiId": "1688",
+          "uiKey": "DailyGachaResetRemainFormat",
+          "text": "ガチャが引けるまで\r\n%s"
+        },
+        {
+          "appUiId": "1689",
+          "uiKey": "gacha_daily_error",
+          "text": "すでに本日分の無料ガチャを引いています"
+        },
+        {
+          "appUiId": "1690",
+          "uiKey": "gacha_confirm_body_daily",
+          "text": "無料ガチャを引きます"
+        },
+        {
+          "appUiId": "1691",
+          "uiKey": "GachaResultDailyPtFormat",
+          "text": "%dPt獲得！"
+        },
+        {
+          "appUiId": "1692",
+          "uiKey": "DailyPackEnablePurchase",
+          "text": "販売中！"
+        },
+        {
+          "appUiId": "1693",
+          "uiKey": "DailyPackRemaindTextFormat",
+          "text": "「%s」の期限が終了しました。\r\n再度購入しますか？"
+        },
+        {
+          "appUiId": "1694",
+          "uiKey": "DailyGacha",
+          "text": "毎日無料ガチャ"
         }
       ]

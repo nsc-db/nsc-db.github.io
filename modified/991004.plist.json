@@ -3444,7 +3444,7 @@
         },
         {
           "speechCharactorId": "578",
-          "cardId": "0",
+          "cardId": "99999998",
           "speechCharactorImgId": "0",
           "speechCharactorName": "我愛羅"
         },
@@ -3852,7 +3852,7 @@
         },
         {
           "speechCharactorId": "646",
-          "cardId": "0",
+          "cardId": "99999998",
           "speechCharactorImgId": "0",
           "speechCharactorName": "ロック・リー"
         },
@@ -5003,6 +5003,48 @@
           "speechCharactorName": "仮面の男"
         },
         {
+          "speechCharactorId": "848",
+          "cardId": "20050101",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "猿飛木ノ葉丸"
+        },
+        {
+          "speechCharactorId": "849",
+          "cardId": "20050301",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "マブイ"
+        },
+        {
+          "speechCharactorId": "850",
+          "cardId": "20050601",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うずまきナルト"
+        },
+        {
+          "speechCharactorId": "851",
+          "cardId": "20050701",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "自来也"
+        },
+        {
+          "speechCharactorId": "852",
+          "cardId": "20050801",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "春野サクラ"
+        },
+        {
+          "speechCharactorId": "853",
+          "cardId": "20051101",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "トビ"
+        },
+        {
+          "speechCharactorId": "854",
+          "cardId": "20051201",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "ヤマト"
+        },
+        {
           "speechCharactorId": "855",
           "cardId": "855",
           "speechCharactorImgId": "0",
@@ -5045,10 +5087,40 @@
           "speechCharactorName": "　"
         },
         {
+          "speechCharactorId": "862",
+          "cardId": "862",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはマダラ"
+        },
+        {
           "speechCharactorId": "863",
           "cardId": "20040318",
           "speechCharactorImgId": "0",
           "speechCharactorName": "エビス"
+        },
+        {
+          "speechCharactorId": "864",
+          "cardId": "864",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "ガマケン"
+        },
+        {
+          "speechCharactorId": "865",
+          "cardId": "865",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "ペイン(餓鬼道)"
+        },
+        {
+          "speechCharactorId": "866",
+          "cardId": "866",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "ペイン(人間道)"
+        },
+        {
+          "speechCharactorId": "867",
+          "cardId": "867",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "自来也"
         },
         {
           "speechCharactorId": "868",
@@ -5087,6 +5159,282 @@
           "speechCharactorName": "忍"
         },
         {
+          "speechCharactorId": "877",
+          "cardId": "30000342",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはマダラ"
+        },
+        {
+          "speechCharactorId": "878",
+          "cardId": "878",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "はたけカカシ"
+        },
+        {
+          "speechCharactorId": "879",
+          "cardId": "879",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "はたけカカシ"
+        },
+        {
+          "speechCharactorId": "880",
+          "cardId": "880",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "はたけカカシ"
+        },
+        {
+          "speechCharactorId": "881",
+          "cardId": "881",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "はたけカカシ"
+        },
+        {
+          "speechCharactorId": "882",
+          "cardId": "882",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "猿飛ヒルゼン"
+        },
+        {
+          "speechCharactorId": "883",
+          "cardId": "883",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "テンゾウ"
+        },
+        {
+          "speechCharactorId": "884",
+          "cardId": "884",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "テンゾウ"
+        },
+        {
+          "speechCharactorId": "889",
+          "cardId": "727",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "自来也"
+        },
+        {
+          "speechCharactorId": "890",
+          "cardId": "20040814",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "自来也"
+        },
+        {
+          "speechCharactorId": "891",
+          "cardId": "21000342",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "秋道チョウザ"
+        },
+        {
+          "speechCharactorId": "892",
+          "cardId": "20051210",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "日向ヒナタ"
+        },
+        {
+          "speechCharactorId": "893",
+          "cardId": "20051211",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うずまきナルト"
+        },
+        {
+          "speechCharactorId": "894",
+          "cardId": "894",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "自来也"
+        },
+        {
+          "speechCharactorId": "895",
+          "cardId": "895",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "自来也"
+        },
+        {
+          "speechCharactorId": "896",
+          "cardId": "21000061",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "木ノ葉隠れの暗部"
+        },
+        {
+          "speechCharactorId": "897",
+          "cardId": "20030611",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはイタチ"
+        },
+        {
+          "speechCharactorId": "898",
+          "cardId": "98",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "白ゼツ"
+        },
+        {
+          "speechCharactorId": "899",
+          "cardId": "98",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "黒ゼツ"
+        },
+        {
+          "speechCharactorId": "901",
+          "cardId": "901",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはサスケ"
+        },
+        {
+          "speechCharactorId": "902",
+          "cardId": "902",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはイタチ"
+        },
+        {
+          "speechCharactorId": "903",
+          "cardId": "50000001",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "木ノ葉の医療班"
+        },
+        {
+          "speechCharactorId": "904",
+          "cardId": "20001834",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "はたけカカシ"
+        },
+        {
+          "speechCharactorId": "905",
+          "cardId": "20040303",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "綱手"
+        },
+        {
+          "speechCharactorId": "906",
+          "cardId": "20060303",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うずまきナルト"
+        },
+        {
+          "speechCharactorId": "907",
+          "cardId": "20060304",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うみのイルカ"
+        },
+        {
+          "speechCharactorId": "908",
+          "cardId": "908",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはサスケ"
+        },
+        {
+          "speechCharactorId": "909",
+          "cardId": "20040508",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはイタチ"
+        },
+        {
+          "speechCharactorId": "910",
+          "cardId": "99999998",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはマダラ"
+        },
+        {
+          "speechCharactorId": "912",
+          "cardId": "154",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはマダラ"
+        },
+        {
+          "speechCharactorId": "913",
+          "cardId": "913",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "はたけカカシ"
+        },
+        {
+          "speechCharactorId": "914",
+          "cardId": "20040712",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "鬼灯水月"
+        },
+        {
+          "speechCharactorId": "915",
+          "cardId": "20001556",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "チヨバア"
+        },
+        {
+          "speechCharactorId": "918",
+          "cardId": "918",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "照美メイ"
+        },
+        {
+          "speechCharactorId": "919",
+          "cardId": "919",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "チヨバア"
+        },
+        {
+          "speechCharactorId": "920",
+          "cardId": "20051001",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うずまきナルト"
+        },
+        {
+          "speechCharactorId": "921",
+          "cardId": "20040513",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うみのイルカ"
+        },
+        {
+          "speechCharactorId": "923",
+          "cardId": "923",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "春野サクラ"
+        },
+        {
+          "speechCharactorId": "924",
+          "cardId": "924",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "日向ヒナタ"
+        },
+        {
+          "speechCharactorId": "925",
+          "cardId": "925",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "テンテン"
+        },
+        {
+          "speechCharactorId": "926",
+          "cardId": "20060416",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "大蛇丸"
+        },
+        {
+          "speechCharactorId": "927",
+          "cardId": "20001646",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "照美メイ"
+        },
+        {
+          "speechCharactorId": "931",
+          "cardId": "20001662",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "大蛇丸"
+        },
+        {
+          "speechCharactorId": "932",
+          "cardId": "50000013",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "モノローグ"
+        },
+        {
+          "speechCharactorId": "933",
+          "cardId": "21000346",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "大蛇丸（？）"
+        },
+        {
+          "speechCharactorId": "934",
+          "cardId": "21000347",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "大蛇丸（？）"
+        },
+        {
           "speechCharactorId": "1000",
           "cardId": "21000091",
           "speechCharactorImgId": "1000",
@@ -5097,6 +5445,12 @@
           "cardId": "50000001",
           "speechCharactorImgId": "0",
           "speechCharactorName": "木ノ葉の忍"
+        },
+        {
+          "speechCharactorId": "5004",
+          "cardId": "50000004",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "岩隠れの里の忍"
         },
         {
           "speechCharactorId": "5101",
@@ -5145,5 +5499,179 @@
           "cardId": "90000001",
           "speechCharactorImgId": "9002",
           "speechCharactorName": "お知らせ"
+        },
+        {
+          "speechCharactorId": "10000",
+          "cardId": "20051204",
+          "speechCharactorImgId": "20051204",
+          "speechCharactorName": "うちはサスケ"
+        },
+        {
+          "speechCharactorId": "10001",
+          "cardId": "20051205",
+          "speechCharactorImgId": "20051205",
+          "speechCharactorName": "うちはイタチ"
+        },
+        {
+          "speechCharactorId": "10002",
+          "cardId": "20000651",
+          "speechCharactorImgId": "20000651",
+          "speechCharactorName": "鬼灯水月"
+        },
+        {
+          "speechCharactorId": "10003",
+          "cardId": "20040701",
+          "speechCharactorImgId": "20040701",
+          "speechCharactorName": "重吾"
+        },
+        {
+          "speechCharactorId": "10004",
+          "cardId": "20040711",
+          "speechCharactorImgId": "20040711",
+          "speechCharactorName": "香燐"
+        },
+        {
+          "speechCharactorId": "10005",
+          "cardId": "20040308",
+          "speechCharactorImgId": "20040308",
+          "speechCharactorName": "干柿鬼鮫"
+        },
+        {
+          "speechCharactorId": "10006",
+          "cardId": "20000611",
+          "speechCharactorImgId": "20000611",
+          "speechCharactorName": "デイダラ"
+        },
+        {
+          "speechCharactorId": "10007",
+          "cardId": "20000601",
+          "speechCharactorImgId": "20000601",
+          "speechCharactorName": "トビ"
+        },
+        {
+          "speechCharactorId": "10008",
+          "cardId": "50000013",
+          "speechCharactorImgId": "50000013",
+          "speechCharactorName": "　"
+        },
+        {
+          "speechCharactorId": "10009",
+          "cardId": "20060303",
+          "speechCharactorImgId": "20060303",
+          "speechCharactorName": "うずまきナルト"
+        },
+        {
+          "speechCharactorId": "10010",
+          "cardId": "20060304",
+          "speechCharactorImgId": "20060304",
+          "speechCharactorName": "うみのイルカ"
+        },
+        {
+          "speechCharactorId": "10011",
+          "cardId": "20050501",
+          "speechCharactorImgId": "20050501",
+          "speechCharactorName": "はたけカカシ"
+        },
+        {
+          "speechCharactorId": "10012",
+          "cardId": "20041001",
+          "speechCharactorImgId": "20041001",
+          "speechCharactorName": "うずまきナルト"
+        },
+        {
+          "speechCharactorId": "10013",
+          "cardId": "10062101",
+          "speechCharactorImgId": "10062101",
+          "speechCharactorName": "うみのイルカ"
+        },
+        {
+          "speechCharactorId": "10014",
+          "cardId": "20001662",
+          "speechCharactorImgId": "20001662",
+          "speechCharactorName": "大蛇丸"
+        },
+        {
+          "speechCharactorId": "10015",
+          "cardId": "20041101",
+          "speechCharactorImgId": "20041101",
+          "speechCharactorName": "カブト"
+        },
+        {
+          "speechCharactorId": "10016",
+          "cardId": "20040801",
+          "speechCharactorImgId": "20040801",
+          "speechCharactorName": "綱手"
+        },
+        {
+          "speechCharactorId": "10017",
+          "cardId": "20001301",
+          "speechCharactorImgId": "20001301",
+          "speechCharactorName": "君麻呂"
+        },
+        {
+          "speechCharactorId": "10018",
+          "cardId": "20040712",
+          "speechCharactorImgId": "20040712",
+          "speechCharactorName": "鬼灯水月"
+        },
+        {
+          "speechCharactorId": "10019",
+          "cardId": "20001646",
+          "speechCharactorImgId": "20001646",
+          "speechCharactorName": "照美メイ"
+        },
+        {
+          "speechCharactorId": "10020",
+          "cardId": "20001556",
+          "speechCharactorImgId": "20001556",
+          "speechCharactorName": "チヨバア"
+        },
+        {
+          "speechCharactorId": "10021",
+          "cardId": "20001051",
+          "speechCharactorImgId": "20001051",
+          "speechCharactorName": "綱手"
+        },
+        {
+          "speechCharactorId": "10022",
+          "cardId": "20060416",
+          "speechCharactorImgId": "20060416",
+          "speechCharactorName": "大蛇丸"
+        },
+        {
+          "speechCharactorId": "10023",
+          "cardId": "20000921",
+          "speechCharactorImgId": "20000921",
+          "speechCharactorName": "綱手"
+        },
+        {
+          "speechCharactorId": "10024",
+          "cardId": "20040711",
+          "speechCharactorImgId": "20040711",
+          "speechCharactorName": "香燐"
+        },
+        {
+          "speechCharactorId": "10025",
+          "cardId": "30001646",
+          "speechCharactorImgId": "30001646",
+          "speechCharactorName": "照美メイ"
+        },
+        {
+          "speechCharactorId": "10026",
+          "cardId": "30001556",
+          "speechCharactorImgId": "30001556",
+          "speechCharactorName": "チヨバア"
+        },
+        {
+          "speechCharactorId": "10027",
+          "cardId": "20040701",
+          "speechCharactorImgId": "20040701",
+          "speechCharactorName": "重吾"
+        },
+        {
+          "speechCharactorId": "10028",
+          "cardId": "20030806",
+          "speechCharactorImgId": "20030806",
+          "speechCharactorName": "綱手"
         }
       ]
