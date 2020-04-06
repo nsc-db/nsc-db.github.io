@@ -13429,6 +13429,19 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1050",
+          "name": "殺戮の凶戯",
+          "description": "“暁”所属のチャクラ消費量半減、最大HPを80%アップする",
+          "effectIdx1": "895",
+          "effectIdx2": "649",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "8",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

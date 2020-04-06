@@ -22221,6 +22221,24 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2525",
+          "abilityName": "教義の布教を望む者",
+          "abilityDescription": "HP0以下で4回耐え、敵に超忍キャラが生存していると攻撃を受けた時に高確率でアクション状態",
+          "abilityEffectDescription": "HP0以下で4回耐え、敵に超忍キャラが生存していると攻撃を受けた時に高確率でアクション状態",
+          "effectIdx1": "1737",
+          "effectIdx2": "2816",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2526",
+          "abilityName": "享楽的殺伐嗜好者",
+          "abilityDescription": "敵に木ノ葉隠れの里所属がいると、バトル開始時に敵全体を長い間憑血状態にする",
+          "abilityEffectDescription": "敵に木ノ葉隠れの里所属がいると、バトル開始時に敵全体を長い間憑血状態にする",
+          "effectIdx1": "2918",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

@@ -7208,6 +7208,14 @@ window.skillname=[
           "name": "行くぞ！"
         },
         {
+          "cardBattleSkillNameId": "3015",
+          "name": "死司憑血・奉血ノ贄"
+        },
+        {
+          "cardBattleSkillNameId": "3016",
+          "name": "暴れまくってやるぜ"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },

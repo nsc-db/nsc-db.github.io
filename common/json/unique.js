@@ -12574,5 +12574,29 @@ window.unique=[
           "effectIdx2": "1840",
           "effectIdx3": "1378",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1066",
+          "targetCrystal": "30405",
+          "description": "弱体・状態異常無効、1回行動まで受ける耐性無視ダメージ0、確率でスキル回避",
+          "charaIds": "12301",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "880",
+          "effectIdx2": "1961",
+          "effectIdx3": "1423",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1067",
+          "targetCrystal": "30406",
+          "description": "攻撃力・素早さ100%アップ、最大チャクラ100アップ、行動後にチャクラ30%回復",
+          "charaIds": "12301",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "11099",
+          "effectIdx2": "13099",
+          "effectIdx3": "813",
+          "effectIdx4": "2524"
         }
         ]

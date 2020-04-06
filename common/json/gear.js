@@ -22128,6 +22128,38 @@ window.gear=[
           "recipeName": "掌の座"
         },
         {
+          "crystalId": "30405",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "775",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "飛段の指輪",
+          "crystalDescription": "弱体と状態異常を軽減",
+          "crystalImageId": "304055",
+          "recipeId": "30405",
+          "recipeName": "飛段の指輪"
+        },
+        {
+          "crystalId": "30406",
+          "crystalType": "1",
+          "crystalRare": "5",
+          "effectIdx1": "11039",
+          "effectIdx2": "13039",
+          "effectIdx3": "2141",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "ジャシン教のネックレス",
+          "crystalDescription": "攻撃力と素早さが40%アップ、最大チャクラ50アップ",
+          "crystalImageId": "304065",
+          "recipeId": "30406",
+          "recipeName": "ジャシン教のネックレス"
+        },
+        {
           "crystalId": "30424",
           "crystalType": "2",
           "crystalRare": "5",
