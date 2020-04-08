@@ -3425,6 +3425,12 @@
           "itemImgId": "2089"
         },
         {
+          "shopExchangeItemId": "2090",
+          "itemName": "メニューボイス交換券",
+          "measure": "0",
+          "itemImgId": "2034"
+        },
+        {
           "shopExchangeItemId": "2500",
           "itemName": "神忍札[4月]",
           "measure": "0",

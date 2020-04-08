@@ -22095,6 +22095,38 @@
           "recipeName": "サクラの上着"
         },
         {
+          "crystalId": "30401",
+          "crystalType": "1",
+          "crystalRare": "5",
+          "effectIdx1": "376",
+          "effectIdx2": "377",
+          "effectIdx3": "111",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "シカマルの額当て",
+          "crystalDescription": "攻撃力・防御力・素早さ40％アップ",
+          "crystalImageId": "304015",
+          "recipeId": "30401",
+          "recipeName": "シカマルの額当て"
+        },
+        {
+          "crystalId": "30402",
+          "crystalType": "3",
+          "crystalRare": "5",
+          "effectIdx1": "1539",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "シカマルのピアス",
+          "crystalDescription": "1回行動までスキル発動速度1段階アップ",
+          "crystalImageId": "304025",
+          "recipeId": "30402",
+          "recipeName": "シカマルのピアス"
+        },
+        {
           "crystalId": "30403",
           "crystalType": "11",
           "crystalRare": "5",

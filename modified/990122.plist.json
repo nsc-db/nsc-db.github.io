@@ -3347,6 +3347,18 @@
           "voiceDeath": "orochimaru_damage_02_02"
         },
         {
+          "cardVoiceId": "283",
+          "cardId": "20060402",
+          "dirName": "shikamaru",
+          "evolutionStep": "",
+          "voiceAppear": "shikamaru_win_02_04",
+          "voiceSkill1": "shikamaru_battle_02_04",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "shikamaru_win_02_06",
+          "voiceDeath": "shikamaru_death_02_01"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",
