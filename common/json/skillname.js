@@ -7200,6 +7200,14 @@ window.skillname=[
           "name": "協力するよう頼まれたんだ"
         },
         {
+          "cardBattleSkillNameId": "3010",
+          "name": "影縫い・千本槍"
+        },
+        {
+          "cardBattleSkillNameId": "3011",
+          "name": "人を呪わば穴二つ…"
+        },
+        {
           "cardBattleSkillNameId": "3013",
           "name": "蝶重撃"
         },

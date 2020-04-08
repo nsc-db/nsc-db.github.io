@@ -3300,6 +3300,66 @@ window.vo=[
           "voiceDeath": "tsunade_damage_02_02"
         },
         {
+          "cardVoiceId": "279",
+          "cardId": "20060309",
+          "dirName": "itachi",
+          "evolutionStep": "",
+          "voiceAppear": "itachi_battle_02_01",
+          "voiceSkill1": "itachi_battle_02_03",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "itachi_win_02_01",
+          "voiceDeath": "itachi_damage_02_01"
+        },
+        {
+          "cardVoiceId": "280",
+          "cardId": "20060310",
+          "dirName": "sakura",
+          "evolutionStep": "",
+          "voiceAppear": "sakura_skill_02_05",
+          "voiceSkill1": "sakura_pursuit_02_01,sakura_skill_02_01",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "sakura_win_02_04",
+          "voiceDeath": "sakura_death_02_01"
+        },
+        {
+          "cardVoiceId": "281",
+          "cardId": "20060312",
+          "dirName": "kakasi",
+          "evolutionStep": "",
+          "voiceAppear": "kakasi_battle_02_04",
+          "voiceSkill1": "kakasi_skill_02_23",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "kakasi_win_02_06",
+          "voiceDeath": "kakasi_death_02_07"
+        },
+        {
+          "cardVoiceId": "282",
+          "cardId": "20060416",
+          "dirName": "orochimaru",
+          "evolutionStep": "",
+          "voiceAppear": "orochimaru_battle_02_01",
+          "voiceSkill1": "orochimaru_menu_02",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "orochimaru_win_02_03",
+          "voiceDeath": "orochimaru_damage_02_02"
+        },
+        {
+          "cardVoiceId": "283",
+          "cardId": "20060402",
+          "dirName": "shikamaru",
+          "evolutionStep": "",
+          "voiceAppear": "shikamaru_win_02_04",
+          "voiceSkill1": "shikamaru_battle_02_04",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "shikamaru_win_02_06",
+          "voiceDeath": "shikamaru_death_02_01"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

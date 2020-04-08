@@ -13416,6 +13416,19 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1047",
+          "name": "信ずる火の意志",
+          "description": "木ノ葉隠れの里所属の攻撃力と防御力と素早さを70%アップ",
+          "effectIdx1": "733",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "1049",
           "name": "そびえ立つ砦忍",
           "description": "体属性のスキルダメージを60%アップする",
