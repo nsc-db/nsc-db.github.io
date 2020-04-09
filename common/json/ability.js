@@ -22203,6 +22203,42 @@ window.ability=[
           "effectIdx3": "2444"
         },
         {
+          "abilityId": "2519",
+          "abilityName": "命あるものの一念",
+          "abilityDescription": "HP0以下で1回耐える、敵に“暁”所属か滅キャラがいると素早さ150%アップ、どちらもいると300%アップ",
+          "abilityEffectDescription": "HP0以下で1回耐える、敵に“暁”所属か滅キャラがいると素早さ150%アップ、どちらもいると300%アップ",
+          "effectIdx1": "312",
+          "effectIdx2": "2729",
+          "effectIdx3": "2224"
+        },
+        {
+          "abilityId": "2520",
+          "abilityName": "超越者への奇策",
+          "abilityDescription": "敵に“暁”所属か滅キャラが生存していると受ける耐性無視ダメージ0、5回行動までチャクラ消費半減",
+          "abilityEffectDescription": "敵に“暁”所属か滅キャラが生存していると受ける耐性無視ダメージ0、5回行動までチャクラ消費半減",
+          "effectIdx1": "2917",
+          "effectIdx2": "2541",
+          "effectIdx3": "1033"
+        },
+        {
+          "abilityId": "2521",
+          "abilityName": "双つの炎",
+          "abilityDescription": "攻撃力100%アップ",
+          "abilityEffectDescription": "攻撃力100%アップ",
+          "effectIdx1": "11099",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2522",
+          "abilityName": "仙蹟の咆凱",
+          "abilityDescription": "攻撃を受けた時チャクラ20%回復",
+          "abilityEffectDescription": "攻撃を受けた時チャクラ20%回復",
+          "effectIdx1": "1718",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "2523",
           "abilityName": "秋道一族の長",
           "abilityDescription": "最大HP100%アップ、最大チャクラ量が50アップ、3回行動するまで素早さ100%アップ",

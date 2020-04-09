@@ -7208,6 +7208,10 @@ window.skillname=[
           "name": "人を呪わば穴二つ…"
         },
         {
+          "cardBattleSkillNameId": "3012",
+          "name": "四尾・熔挙焔舞"
+        },
+        {
           "cardBattleSkillNameId": "3013",
           "name": "蝶重撃"
         },
