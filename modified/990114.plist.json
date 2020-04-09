@@ -2577,5 +2577,15 @@
           "subScore": "0",
           "color": "14614842",
           "type": "2"
+        },
+        {
+          "cardUnusualId": "265",
+          "category": "6",
+          "iconId": "1319",
+          "name": "四ノ熔",
+          "description": "素早さアップ、弱体系神化＆特殊状態・地形無効、スキル攻撃時敵をスキップ、解除時獣化不可",
+          "subScore": "0",
+          "color": "16711680",
+          "type": "2"
         }
       ]

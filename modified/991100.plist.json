@@ -3863,6 +3863,20 @@
           "gender": "1"
         },
         {
+          "charaProfileId": "53002",
+          "charaId": "530",
+          "name": "老紫",
+          "detail": null,
+          "charaLoveAffinityGroupId": "53010",
+          "birthday": "604",
+          "constellation": "3",
+          "height": "14900",
+          "weight": "5550",
+          "bloodType": "2",
+          "age": "0",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "53101",
           "charaId": "531",
           "name": "秋道チョウザ",

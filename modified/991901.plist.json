@@ -249,5 +249,17 @@
           "cardId": "50060306",
           "normalPanelList": "5006001,5006002,5006003",
           "specialPanelList": "5006004,5006005,5006006"
+        },
+        {
+          "sphereBoardId": "5000008",
+          "boardName": "四尾",
+          "boardDescription": "老紫【天嶽の煉魔】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "50060401",
+          "normalPanelList": "5007001,5007002,5007003",
+          "specialPanelList": "5007004,5007005,5007006"
         }
       ]

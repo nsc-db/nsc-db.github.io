@@ -22220,6 +22220,24 @@
           "effectIdx3": "1033"
         },
         {
+          "abilityId": "2521",
+          "abilityName": "双つの炎",
+          "abilityDescription": "攻撃力100%アップ",
+          "abilityEffectDescription": "攻撃力100%アップ",
+          "effectIdx1": "11099",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2522",
+          "abilityName": "仙蹟の咆凱",
+          "abilityDescription": "攻撃を受けた時チャクラ20%回復",
+          "abilityEffectDescription": "攻撃を受けた時チャクラ20%回復",
+          "effectIdx1": "1718",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "2523",
           "abilityName": "秋道一族の長",
           "abilityDescription": "最大HP100%アップ、最大チャクラ量が50アップ、3回行動するまで素早さ100%アップ",
