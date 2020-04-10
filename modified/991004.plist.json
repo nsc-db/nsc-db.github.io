@@ -5333,6 +5333,12 @@
           "speechCharactorName": "うちはマダラ"
         },
         {
+          "speechCharactorId": "911",
+          "cardId": "20050411",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "角都"
+        },
+        {
           "speechCharactorId": "912",
           "cardId": "154",
           "speechCharactorImgId": "0",

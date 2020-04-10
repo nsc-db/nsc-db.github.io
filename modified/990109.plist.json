@@ -22274,6 +22274,24 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2529",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "2921",
+          "effectIdx2": "2169",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2530",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "2922",
+          "effectIdx2": "2923",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

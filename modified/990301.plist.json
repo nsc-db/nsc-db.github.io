@@ -22191,6 +22191,38 @@
           "recipeName": "ジャシン教のネックレス"
         },
         {
+          "crystalId": "30407",
+          "crystalType": "1",
+          "crystalRare": "5",
+          "effectIdx1": "680",
+          "effectIdx2": "276",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "0",
+          "crystalDescription": "0",
+          "crystalImageId": "304075",
+          "recipeId": "30407",
+          "recipeName": "水遁面のお面"
+        },
+        {
+          "crystalId": "30408",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "1065",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "0",
+          "crystalDescription": "0",
+          "crystalImageId": "304085",
+          "recipeId": "30408",
+          "recipeName": "角都の火遁面"
+        },
+        {
           "crystalId": "30424",
           "crystalType": "2",
           "crystalRare": "5",

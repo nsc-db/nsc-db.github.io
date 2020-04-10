@@ -415,6 +415,19 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
+          "worldStageId": "1329",
+          "worldAreaId": "5",
+          "priority": "4",
+          "name": "禁忌断つ凌駕の旋刃",
+          "description": "初回クリア報酬はすべてのランクで忍石獲得可能！\r\n個人Ptを集めて\r\n新規固有忍具を交換しよう！",
+          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
           "worldStageId": "1330",
           "worldAreaId": "5",
           "priority": "0",
