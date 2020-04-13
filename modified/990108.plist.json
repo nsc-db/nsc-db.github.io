@@ -13468,8 +13468,8 @@
         },
         {
           "cardLeaderSkillId": "1052",
-          "name": "0",
-          "description": "0",
+          "name": "滅刻の燎炎",
+          "description": "“暁”所属のキャラがダメージを受ける際、確率でダメージ35％カット",
           "effectIdx1": "2920",
           "effectIdx2": "0",
           "effectIdx3": "0",
