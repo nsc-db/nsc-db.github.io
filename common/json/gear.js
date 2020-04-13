@@ -22192,6 +22192,38 @@ window.gear=[
           "recipeName": "ジャシン教のネックレス"
         },
         {
+          "crystalId": "30407",
+          "crystalType": "1",
+          "crystalRare": "5",
+          "effectIdx1": "680",
+          "effectIdx2": "276",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "水遁面のお面",
+          "crystalDescription": "最大HP・防御力50％アップ",
+          "crystalImageId": "304075",
+          "recipeId": "30407",
+          "recipeName": "水遁面のお面"
+        },
+        {
+          "crystalId": "30408",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "1065",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "角都の火遁面",
+          "crystalDescription": "火遁タイプのスキルダメージ40％アップ",
+          "crystalImageId": "304085",
+          "recipeId": "30408",
+          "recipeName": "角都の火遁面"
+        },
+        {
           "crystalId": "30424",
           "crystalType": "2",
           "crystalRare": "5",

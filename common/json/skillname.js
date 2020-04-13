@@ -7228,6 +7228,14 @@ window.skillname=[
           "name": "暴れまくってやるぜ"
         },
         {
+          "cardBattleSkillNameId": "3019",
+          "name": "頭刻苦・焼波ノ凶宴"
+        },
+        {
+          "cardBattleSkillNameId": "3020",
+          "name": "お前の心臓をいただく"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },

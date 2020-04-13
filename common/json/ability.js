@@ -22275,6 +22275,24 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2529",
+          "abilityName": "強者の心臓を求む者",
+          "abilityDescription": "ﾊﾞﾄﾙ開始時自身を1回行動まで硬化状態にする、“暁”所属への単体ｽｷﾙ攻撃を受ける※かばうは最後の発動者が有効",
+          "abilityEffectDescription": "ﾊﾞﾄﾙ開始時自身を1回行動まで硬化状態にする、“暁”所属への単体ｽｷﾙ攻撃を受ける※かばうは最後の発動者が有効",
+          "effectIdx1": "2921",
+          "effectIdx2": "2169",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2530",
+          "abilityName": "猟奇的拝金主義者",
+          "abilityDescription": "敵に超忍がいると最大HP100％アップ、4回行動まで素早さ200％アップ",
+          "abilityEffectDescription": "敵に超忍がいると最大HP100％アップ、4回行動まで素早さ200％アップ",
+          "effectIdx1": "2922",
+          "effectIdx2": "2923",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

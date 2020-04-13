@@ -12622,5 +12622,29 @@ window.unique=[
           "effectIdx2": "13099",
           "effectIdx3": "813",
           "effectIdx4": "2524"
+        },
+        {
+          "crystalOverwriteEffectId": "1069",
+          "targetCrystal": "30407",
+          "description": "最大HP・防御力150％アップ、3回行動までスキップ無効",
+          "charaIds": "12401",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1212",
+          "effectIdx2": "1201",
+          "effectIdx3": "2382",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1070",
+          "targetCrystal": "30408",
+          "description": "火遁タイプのスキルダメージ100％アップ、班の“暁”所属1人につき素早さ30％アップ※自身含む",
+          "charaIds": "12401",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "2056",
+          "effectIdx2": "1218",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
         }
         ]

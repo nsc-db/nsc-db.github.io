@@ -1,6 +1,6 @@
 (function(){
 
-	function _createCard(data, name, type, hp, atk, def, spd, rare, affi, id, tag, target, cast, damage, nature, voiced, type_tag, pvp, nickname, male, female){
+	function _createCard(data, name, type, hp, atk, def, spd, rare, affi, id, tag, target, cast, damage, nature, voiced, type_tag, pvp, nickname, male, female, dodge, cc, cd){
 		var image;
 		//Rarity Check
 		if(rare == 7){
@@ -36,7 +36,10 @@
 					+'		<td class="text-center">' + nature + '</td>'
 					+'		<td class="text-center">' + voiced + '</td>'
 					+'		<td class="text-center">' + male + '</td>'	
-					+'		<td class="text-center">' + female + '</td>'																																					
+					+'		<td class="text-center">' + female + '</td>'
+					+'		<td class="text-center">' + dodge + '</td>'
+					+'		<td class="text-center">' + cc + '</td>'	
+					+'		<td class="text-center">' + cd + '</td>'																																						
 					+'</tr>';
 		return model;
 	}
@@ -64,6 +67,9 @@
 		var damage = '';// Character Damage Type
 		var nature = '';// Character Nature
 		var voiced = '';
+		var dodge;
+		var cc;
+		var cd;
 		var male = '';
 		var female = '';
 		var type_tag = '';
@@ -94,7 +100,12 @@
 			def = unit["defenseMax"];
 			spd = unit["speedMax"];
 			rare = unit["rare"];
-
+			dodge = unit["avoidanceLot"] / 100;
+			dodge = dodge + "%";
+			cc = unit["criticalLot"] / 100;
+			cc = cc + "%";
+			cd = unit["criticalDamageLot"] / 100;
+			cd = cd + "%";
 			//Check Type and Convert to Kanji
 			type = checkType(unit);
 
@@ -268,7 +279,7 @@
 			//Creates Entry
 			if(units.indexOf(chara[0]) == -1){ // Verifies Character ID
 				units.push(unit[0]); // Adds Character in the array			
-				content += _createCard(unit, name, type, hp, atk, def, spd, rare, affi, id, tags, target, cast, damage, nature, voiced, type_tag, pvp, nickname, male, female); // chama a função passando os dados do card
+				content += _createCard(unit, name, type, hp, atk, def, spd, rare, affi, id, tags, target, cast, damage, nature, voiced, type_tag, pvp, nickname, male, female, dodge, cc, cd); // chama a função passando os dados do card
 				target = '';
 				cast = '';
 				tags = '';

@@ -68,6 +68,21 @@ $(document).ready( function () {
 		            	title: "female",
 		            	"visible": false,
 		            	"searchable": true
+		            },
+		            {
+		            	title: "回避",
+		            	"visible": true,
+		            	"searchable": true
+		            },
+		            {
+		            	title: "会心率",
+		            	"visible": true,
+		            	"searchable": true
+		            },
+		            {
+		            	title: "会心力",
+		            	"visible": true,
+		            	"searchable": true
 		            }
 		        ],
       			 responsive: true
