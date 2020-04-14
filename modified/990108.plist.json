@@ -13467,6 +13467,19 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1051",
+          "name": "烈風纏う旋闘刃",
+          "description": "木ノ葉隠れの里所属の素早さ70%アップ&amp;3回行動までスキップ無効",
+          "effectIdx1": "13069",
+          "effectIdx2": "2382",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "1052",
           "name": "滅刻の燎炎",
           "description": "“暁”所属のキャラがダメージを受ける際、確率でダメージ35％カット",

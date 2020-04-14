@@ -22223,6 +22223,22 @@
           "recipeName": "角都の火遁面"
         },
         {
+          "crystalId": "30417",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "1115",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "ナルトの左腕の飾り",
+          "crystalDescription": "バトル開始時にチャクラ50%回復",
+          "crystalImageId": "304175",
+          "recipeId": "30417",
+          "recipeName": "ナルトの左腕の飾り"
+        },
+        {
           "crystalId": "30424",
           "crystalType": "2",
           "crystalRare": "5",
