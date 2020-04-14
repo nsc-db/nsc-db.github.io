@@ -22275,6 +22275,24 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2527",
+          "abilityName": "先達との修業の成果",
+          "abilityDescription": "チャクラ100%で全スキルダメージ200%アップ、HP0以下で2回全回復",
+          "abilityEffectDescription": "チャクラ100%で全スキルダメージ200%アップ、HP0以下で2回全回復",
+          "effectIdx1": "1219",
+          "effectIdx2": "1057",
+          "effectIdx3": "874"
+        },
+        {
+          "abilityId": "2528",
+          "abilityName": "想い乗せし旋刃",
+          "abilityDescription": "バトル開始時確率で「新術で決めてやる…」で急襲攻撃（チャクラ大回復）、確率で再行動※再行動後再行動不可",
+          "abilityEffectDescription": "バトル開始時確率で「新術で決めてやる…」で急襲攻撃（チャクラ大回復）、確率で再行動※再行動後再行動不可",
+          "effectIdx1": "2919",
+          "effectIdx2": "439",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "2529",
           "abilityName": "強者の心臓を求む者",
           "abilityDescription": "ﾊﾞﾄﾙ開始時自身を1回行動まで硬化状態にする、“暁”所属への単体ｽｷﾙ攻撃を受ける※かばうは最後の発動者が有効",

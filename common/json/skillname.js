@@ -7228,6 +7228,14 @@ window.skillname=[
           "name": "暴れまくってやるぜ"
         },
         {
+          "cardBattleSkillNameId": "3017",
+          "name": "風遁・大輪螺旋手裏剣"
+        },
+        {
+          "cardBattleSkillNameId": "3018",
+          "name": "新術で決めてやる…"
+        },
+        {
           "cardBattleSkillNameId": "3019",
           "name": "頭刻苦・焼波ノ凶宴"
         },
