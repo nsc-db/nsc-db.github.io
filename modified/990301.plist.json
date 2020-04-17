@@ -22223,6 +22223,38 @@
           "recipeName": "角都の火遁面"
         },
         {
+          "crystalId": "30411",
+          "crystalType": "3",
+          "crystalRare": "5",
+          "effectIdx1": "1539",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "0",
+          "crystalDescription": "0",
+          "crystalImageId": "304115",
+          "recipeId": "30411",
+          "recipeName": "インドラの憎悪のクナイ"
+        },
+        {
+          "crystalId": "30412",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "30205",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "0",
+          "crystalDescription": "0",
+          "crystalImageId": "304125",
+          "recipeId": "30412",
+          "recipeName": "インドラの背負う大筒木の力"
+        },
+        {
           "crystalId": "30417",
           "crystalType": "12",
           "crystalRare": "5",

@@ -13493,6 +13493,32 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1053",
+          "name": "0",
+          "description": "0",
+          "effectIdx1": "2222",
+          "effectIdx2": "2933",
+          "effectIdx3": "0",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "1056",
+          "name": "戦慄の黒秘技",
+          "description": "体属性の素早さとスキルダメージを70%アップ",
+          "effectIdx1": "13069",
+          "effectIdx2": "652",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "3",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

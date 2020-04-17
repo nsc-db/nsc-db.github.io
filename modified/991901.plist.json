@@ -167,6 +167,30 @@
           "specialPanelList": "9100028,9100029,9100030"
         },
         {
+          "sphereBoardId": "50013",
+          "boardName": "Temp_Ct=&gt;90_体属性_の潜在覚醒盤",
+          "boardDescription": "千手柱間【仁樹の守護者】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20051202",
+          "normalPanelList": "9100013,9100014,9100015",
+          "specialPanelList": "9100016,9100017,9100018"
+        },
+        {
+          "sphereBoardId": "50014",
+          "boardName": "Temp_Ct=&gt;90_心属性_の潜在覚醒盤",
+          "boardDescription": "大筒木インドラ【荒武ル修羅】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20060407",
+          "normalPanelList": "9100001,9100002,9100003",
+          "specialPanelList": "9100004,9100005,9100006"
+        },
+        {
           "sphereBoardId": "5000001",
           "boardName": "ガマブン太",
           "boardDescription": "うずまきナルト【救う想いと仁義の共闘】",

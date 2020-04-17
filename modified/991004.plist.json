@@ -5363,6 +5363,18 @@
           "speechCharactorName": "チヨバア"
         },
         {
+          "speechCharactorId": "916",
+          "cardId": "916",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはイタチ"
+        },
+        {
+          "speechCharactorId": "917",
+          "cardId": "917",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "大蛇丸"
+        },
+        {
           "speechCharactorId": "918",
           "cardId": "918",
           "speechCharactorImgId": "0",
@@ -5439,6 +5451,18 @@
           "cardId": "21000347",
           "speechCharactorImgId": "0",
           "speechCharactorName": "大蛇丸（？）"
+        },
+        {
+          "speechCharactorId": "951",
+          "cardId": "99999998",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "大蛇丸"
+        },
+        {
+          "speechCharactorId": "955",
+          "cardId": "20040507",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはサスケ"
         },
         {
           "speechCharactorId": "1000",

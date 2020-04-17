@@ -389,6 +389,19 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
+          "worldStageId": "1328",
+          "worldAreaId": "5",
+          "priority": "4",
+          "name": "二つの魂",
+          "description": "初回クリア報酬はすべてのランクで忍石獲得可能！\r\n個人Ptを集めて\r\n新規固有忍具を交換しよう！",
+          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
           "worldStageId": "1329",
           "worldAreaId": "5",
           "priority": "4",
@@ -1815,6 +1828,19 @@
           "type": "0",
           "prerequisiteWorldStageId": "0",
           "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
+          "worldStageId": "11017",
+          "worldAreaId": "10",
+          "priority": "0",
+          "name": "師の予言と復讐の章 -サスケVSイタチ・後篇-",
+          "description": "0",
+          "notice": "0",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": "0",
           "openTime": "0000.00.00 00:00:00",
           "closeTime": "0000.00.00 00:00:00"
         },
