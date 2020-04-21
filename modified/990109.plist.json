@@ -22311,21 +22311,39 @@
         },
         {
           "abilityId": "2531",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "誇り高き自尊心",
+          "abilityDescription": "HP0以下で1回耐え、自身含む味方3人以下生存で被攻撃時確率ｱｸｼｮﾝ状態、2人以下確実に再行動※再行動後再行動不可",
+          "abilityEffectDescription": "HP0以下で1回耐え、自身含む味方3人以下生存で被攻撃時確率ｱｸｼｮﾝ状態、2人以下確実に再行動※再行動後再行動不可",
           "effectIdx1": "312",
           "effectIdx2": "2924",
           "effectIdx3": "2925"
         },
         {
           "abilityId": "2532",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "覇王の器",
+          "abilityDescription": "バトル開始時敵に知属性か勇属性がいると自身を短い間戦気状態にする、超忍・滅・創からのダメージ50%カット",
+          "abilityEffectDescription": "バトル開始時敵に知属性か勇属性がいると自身を短い間戦気状態にする、超忍・滅・創からのダメージ50%カット",
           "effectIdx1": "2926",
           "effectIdx2": "2927",
           "effectIdx3": "2708"
+        },
+        {
+          "abilityId": "2535",
+          "abilityName": "愛善の八意",
+          "abilityDescription": "敵に「サスケ、マダラ（年代不問）」いずれかが生存時に被攻撃で確率でアクション状態になる、防御力200%アップ",
+          "abilityEffectDescription": "敵に「サスケ、マダラ（年代不問）」いずれかが生存時に被攻撃で確率でアクション状態になる、防御力200%アップ",
+          "effectIdx1": "2936",
+          "effectIdx2": "2937",
+          "effectIdx3": "1510"
+        },
+        {
+          "abilityId": "2536",
+          "abilityName": "仁徳の後継者",
+          "abilityDescription": "味方に「ナルト、柱間（年代不問）」が生存しているとそれぞれ素早さ150%アップ、HP0以下で2回耐える",
+          "abilityEffectDescription": "味方に「ナルト、柱間（年代不問）」が生存しているとそれぞれ素早さ150%アップ、HP0以下で2回耐える",
+          "effectIdx1": "2938",
+          "effectIdx2": "2939",
+          "effectIdx3": "1057"
         },
         {
           "abilityId": "2537",
