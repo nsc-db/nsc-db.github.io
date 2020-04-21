@@ -22311,6 +22311,60 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2531",
+          "abilityName": "誇り高き自尊心",
+          "abilityDescription": "HP0以下で1回耐え、自身含む味方3人以下生存で被攻撃時確率ｱｸｼｮﾝ状態、2人以下確実に再行動※再行動後再行動不可",
+          "abilityEffectDescription": "HP0以下で1回耐え、自身含む味方3人以下生存で被攻撃時確率ｱｸｼｮﾝ状態、2人以下確実に再行動※再行動後再行動不可",
+          "effectIdx1": "312",
+          "effectIdx2": "2924",
+          "effectIdx3": "2925"
+        },
+        {
+          "abilityId": "2532",
+          "abilityName": "覇王の器",
+          "abilityDescription": "バトル開始時敵に知属性か勇属性がいると自身を短い間戦気状態にする、超忍・滅・創からのダメージ50%カット",
+          "abilityEffectDescription": "バトル開始時敵に知属性か勇属性がいると自身を短い間戦気状態にする、超忍・滅・創からのダメージ50%カット",
+          "effectIdx1": "2926",
+          "effectIdx2": "2927",
+          "effectIdx3": "2708"
+        },
+        {
+          "abilityId": "2535",
+          "abilityName": "愛善の八意",
+          "abilityDescription": "敵に「サスケ、マダラ（年代不問）」いずれかが生存時に被攻撃で確率でアクション状態になる、防御力200%アップ",
+          "abilityEffectDescription": "敵に「サスケ、マダラ（年代不問）」いずれかが生存時に被攻撃で確率でアクション状態になる、防御力200%アップ",
+          "effectIdx1": "2936",
+          "effectIdx2": "2937",
+          "effectIdx3": "1510"
+        },
+        {
+          "abilityId": "2536",
+          "abilityName": "仁徳の後継者",
+          "abilityDescription": "味方に「ナルト、柱間（年代不問）」が生存しているとそれぞれ素早さ150%アップ、HP0以下で2回耐える",
+          "abilityEffectDescription": "味方に「ナルト、柱間（年代不問）」が生存しているとそれぞれ素早さ150%アップ、HP0以下で2回耐える",
+          "effectIdx1": "2938",
+          "effectIdx2": "2939",
+          "effectIdx3": "1057"
+        },
+        {
+          "abilityId": "2537",
+          "abilityName": "操糸の極意",
+          "abilityDescription": "HP0以下で1回耐え、弱体と状態異常を半減する",
+          "abilityEffectDescription": "HP0以下で1回耐え、弱体と状態異常を半減する",
+          "effectIdx1": "312",
+          "effectIdx2": "776",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2538",
+          "abilityName": "騙し捕りの新傀儡",
+          "abilityDescription": "最大HPを100%アップし、行動するたびに素早さが30％アップする(最大5回)",
+          "abilityEffectDescription": "最大HPを100%アップし、行動するたびに素早さが30％アップする(最大5回)",
+          "effectIdx1": "684",
+          "effectIdx2": "1424",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -24251,6 +24305,60 @@ window.ability=[
           "abilityDescription": "耐えた時にHP50%回復",
           "abilityEffectDescription": "耐えた時にHP50%回復",
           "effectIdx1": "618",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "310039",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "敵にうちは一族がいると最大HP100%アップ",
+          "abilityEffectDescription": "敵にうちは一族がいると最大HP100%アップ",
+          "effectIdx1": "2948",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "310040",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "耐えた時にHP30％回復",
+          "abilityEffectDescription": "耐えた時にHP30％回復",
+          "effectIdx1": "2947",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "310041",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "確率で技属性からのダメージ50％カット",
+          "abilityEffectDescription": "確率で技属性からのダメージ50％カット",
+          "effectIdx1": "2949",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "310042",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "HP0以下で2回耐える",
+          "abilityEffectDescription": "HP0以下で2回耐える",
+          "effectIdx1": "1057",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "310043",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "確率で知属性へのスキル攻撃時に相手の耐性を弱点とする",
+          "abilityEffectDescription": "確率で知属性へのスキル攻撃時に相手の耐性を弱点とする",
+          "effectIdx1": "2945",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "310044",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "確率で勇属性へのスキル攻撃時に相手の耐性を弱点とする",
+          "abilityEffectDescription": "確率で勇属性へのスキル攻撃時に相手の耐性を弱点とする",
+          "effectIdx1": "2946",
           "effectIdx2": "0",
           "effectIdx3": "0"
         },

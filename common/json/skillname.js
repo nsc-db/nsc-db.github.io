@@ -7244,6 +7244,26 @@ window.skillname=[
           "name": "お前の心臓をいただく"
         },
         {
+          "cardBattleSkillNameId": "3021",
+          "name": "征眼・須佐能乎"
+        },
+        {
+          "cardBattleSkillNameId": "3022",
+          "name": "このオレに歯向かうとは…"
+        },
+        {
+          "cardBattleSkillNameId": "3025",
+          "name": "風遁・螺旋刀"
+        },
+        {
+          "cardBattleSkillNameId": "3026",
+          "name": "みんなの力を…！"
+        },
+        {
+          "cardBattleSkillNameId": "3027",
+          "name": "なめてくれるじゃねーか…"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },
