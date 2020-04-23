@@ -13533,6 +13533,32 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1059",
+          "name": "導かれし挑戦者",
+          "description": "技属性と木ノ葉隠れの里所属のスキルダメージを80%アップ",
+          "effectIdx1": "694",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "2",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "1",
+          "target2Param": "2"
+        },
+        {
+          "cardLeaderSkillId": "1060",
+          "name": "誇り高き復讐者",
+          "description": "心属性と木ノ葉隠れの里所属の素早さを80%アップ",
+          "effectIdx1": "13079",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "2",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "1",
+          "target2Param": "1"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

@@ -7264,6 +7264,18 @@ window.skillname=[
           "name": "なめてくれるじゃねーか…"
         },
         {
+          "cardBattleSkillNameId": "3032",
+          "name": "継承・螺旋丸"
+        },
+        {
+          "cardBattleSkillNameId": "3033",
+          "name": "いつかは火影になる！！"
+        },
+        {
+          "cardBattleSkillNameId": "3034",
+          "name": "オレはあいつらとは違うぜ…"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },

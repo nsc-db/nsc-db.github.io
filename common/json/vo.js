@@ -3360,6 +3360,42 @@ window.vo=[
           "voiceDeath": "shikamaru_death_02_01"
         },
         {
+          "cardVoiceId": "284",
+          "cardId": "20060410",
+          "dirName": "naruto",
+          "evolutionStep": "",
+          "voiceAppear": "naruto_battle_02_09_02",
+          "voiceSkill1": "naruto_pursuit_02_01",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "naruto_win_02_12",
+          "voiceDeath": "naruto_death_02_07"
+        },
+        {
+          "cardVoiceId": "286",
+          "cardId": "20060411",
+          "dirName": "naruto",
+          "evolutionStep": "",
+          "voiceAppear": "naruto_battle_01_02",
+          "voiceSkill1": "naruto_skill_01_01",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "naruto_win_01_01",
+          "voiceDeath": "naruto_death_01_01"
+        },
+        {
+          "cardVoiceId": "287",
+          "cardId": "20060412",
+          "dirName": "sasuke",
+          "evolutionStep": "",
+          "voiceAppear": "sasuke_battle_01_02",
+          "voiceSkill1": "sasuke_skill_01_02",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "sasuke_win_01_02",
+          "voiceDeath": "sasuke_death_01_02"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

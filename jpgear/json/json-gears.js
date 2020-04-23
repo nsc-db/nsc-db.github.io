@@ -2,7 +2,7 @@
 	
 	function _createGears(id, name, type, normal, unique, chara){
 		var model = '<tr">'
-					+'		<td class="text-center"><img src="../common/assets/img/gear/ningu_' + id + '.png" height="60px" width="60px" /></td>'
+					+'		<td class="text-center"><img src="../common/assets/img/gear/ningu_' + id + '.png" height="60px" width="60px" />' +  id + '</td>'
 					+'		<td>' 	+ name + '</td>'
 					+'		<td class="text-center">' 	+ type + '</td>'
 					+'		<td>' 	+ normal + '</td>'
