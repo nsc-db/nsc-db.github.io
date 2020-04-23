@@ -22303,6 +22303,38 @@
           "recipeName": "ナルトの左腕の飾り"
         },
         {
+          "crystalId": "30418",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "2962",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "ナルトのホルスター",
+          "crystalDescription": "3回行動するまで確率でキャンセル無効",
+          "crystalImageId": "304185",
+          "recipeId": "30418",
+          "recipeName": "ナルトのホルスター"
+        },
+        {
+          "crystalId": "30419",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "2967",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "サスケのアームカバー",
+          "crystalDescription": "3回行動するまで確率でスキップ無効",
+          "crystalImageId": "304195",
+          "recipeId": "30419",
+          "recipeName": "サスケのアームカバー"
+        },
+        {
           "crystalId": "30424",
           "crystalType": "2",
           "crystalRare": "5",

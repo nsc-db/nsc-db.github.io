@@ -22364,6 +22364,42 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2543",
+          "abilityName": "未来の火影候補",
+          "abilityDescription": "敵にうちはサスケがいると最大HP300%アップ、うちはサスケから被攻撃時にアクション状態になる※連続発動不可",
+          "abilityEffectDescription": "敵にうちはサスケがいると最大HP300%アップ、うちはサスケから被攻撃時にアクション状態になる※連続発動不可",
+          "effectIdx1": "2960",
+          "effectIdx2": "2961",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2544",
+          "abilityName": "夢への信念",
+          "abilityDescription": "HP0以下で2回耐える、死亡時に味方全体を閃光モード状態にする：素早さ100%アップ、スキル発動速度を閃光化",
+          "abilityEffectDescription": "HP0以下で2回耐える、死亡時に味方全体を閃光モード状態にする：素早さ100%アップ、スキル発動速度を閃光化",
+          "effectIdx1": "1057",
+          "effectIdx2": "2959",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2545",
+          "abilityName": "うちは一族の生き残り",
+          "abilityDescription": "敵にうずまきナルトが生存していると素早さ100%アップ＆再行動※再行動後にさらに行動はできない",
+          "abilityEffectDescription": "敵にうずまきナルトが生存していると素早さ100%アップ＆再行動※再行動後にさらに行動はできない",
+          "effectIdx1": "2964",
+          "effectIdx2": "2965",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2546",
+          "abilityName": "復讐の意志",
+          "abilityDescription": "HP0以下で2回耐え、死亡時に敵全体をスキル回避封印状態にする",
+          "abilityEffectDescription": "HP0以下で2回耐え、死亡時に敵全体をスキル回避封印状態にする",
+          "effectIdx1": "1057",
+          "effectIdx2": "2966",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -24358,6 +24394,15 @@
           "abilityDescription": "確率で勇属性へのスキル攻撃時に相手の耐性を弱点とする",
           "abilityEffectDescription": "確率で勇属性へのスキル攻撃時に相手の耐性を弱点とする",
           "effectIdx1": "2946",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "310047",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "木ノ葉隠れの里所属への単体ｽｷﾙ攻撃を受ける※発動は最後が有効",
+          "abilityEffectDescription": "木ノ葉隠れの里所属への単体ｽｷﾙ攻撃を受ける※発動は最後が有効",
+          "effectIdx1": "1834",
           "effectIdx2": "0",
           "effectIdx3": "0"
         },

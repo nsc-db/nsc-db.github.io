@@ -2561,6 +2561,12 @@
           "itemImgId": "128"
         },
         {
+          "shopExchangeItemId": "435",
+          "itemName": "昇級試験Pt",
+          "measure": "0",
+          "itemImgId": "128"
+        },
+        {
           "shopExchangeItemId": "1001",
           "itemName": "下心Pt",
           "measure": null,

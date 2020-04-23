@@ -12705,5 +12705,29 @@
           "effectIdx2": "2070",
           "effectIdx3": "2505",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1081",
+          "targetCrystal": "30418",
+          "description": "5回行動するまでキャンセル無効、素早さ55%アップ、スキル発動速度1段階アップ",
+          "charaIds": "101,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "2963",
+          "effectIdx2": "13054",
+          "effectIdx3": "1840",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1082",
+          "targetCrystal": "30419",
+          "description": "5回行動するまでスキップ無効、素早さ55%アップ、スキル発動速度1段階アップ",
+          "charaIds": "201,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "2672",
+          "effectIdx2": "13054",
+          "effectIdx3": "1840",
+          "effectIdx4": "0"
         }
       ]
