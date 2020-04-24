@@ -415,6 +415,19 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
+          "worldStageId": "1332",
+          "worldAreaId": "5",
+          "priority": "4",
+          "name": "5周年ありがとう！大感謝任務",
+          "description": "初回クリア報酬はすべてのランクで忍石獲得可能！\r\n周回することで豪華報酬大量獲得のチャンス！",
+          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
           "worldStageId": "2091",
           "worldAreaId": "5",
           "priority": "5",
@@ -1843,6 +1856,19 @@
           "openWeek": null,
           "openTime": "2017.12.31 17:00:00",
           "closeTime": "2018.01.04 15:59:59"
+        },
+        {
+          "worldStageId": "40001",
+          "worldAreaId": "5",
+          "priority": "0",
+          "name": "夢限の大樹",
+          "description": "初回クリア報酬で忍石やガチャチケットをGET！\r\nここでしか手に入らない特別な忍具を生成しよう！\r\n\r\n※『夢限の大樹』は今後も定期的に開催予定です",
+          "notice": "※イベントの内容及び日程は告知なく変更となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
         },
         {
           "worldStageId": "60011",

@@ -1409,6 +1409,24 @@
           "materialImageId": "241"
         },
         {
+          "materialId": "242",
+          "materialName": "周年だるま(陽)",
+          "materialRare": "5",
+          "materialImageId": "242"
+        },
+        {
+          "materialId": "243",
+          "materialName": "周年だるま(陰)",
+          "materialRare": "5",
+          "materialImageId": "243"
+        },
+        {
+          "materialId": "244",
+          "materialName": "訓練用案山子",
+          "materialRare": "5",
+          "materialImageId": "244"
+        },
+        {
           "materialId": "306",
           "materialName": "???",
           "materialRare": "4",

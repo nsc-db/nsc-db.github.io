@@ -939,6 +939,26 @@
           "enemyEffects": "2774,"
         },
         {
+          "battleFieldEffectId": "104",
+          "name": "夢限の大樹",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "12099,1840,2160,2254,",
+          "enemyEffects": "80001,2968,"
+        },
+        {
+          "battleFieldEffectId": "105",
+          "name": "夢限の大樹",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "12122,1840,2160,2254,",
+          "enemyEffects": "80001,2879,1782,"
+        },
+        {
           "battleFieldEffectId": "10001",
           "name": "始球空間",
           "category": "3",

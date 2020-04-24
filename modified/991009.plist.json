@@ -2567,6 +2567,12 @@
           "itemImgId": "128"
         },
         {
+          "shopExchangeItemId": "437",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
           "shopExchangeItemId": "1001",
           "itemName": "下心Pt",
           "measure": null,
@@ -3453,6 +3459,12 @@
           "itemName": "メニューボイス交換券",
           "measure": "0",
           "itemImgId": "2034"
+        },
+        {
+          "shopExchangeItemId": "2091",
+          "itemName": "5周年前夜 忍交換券",
+          "measure": "0",
+          "itemImgId": "2091"
         },
         {
           "shopExchangeItemId": "2500",

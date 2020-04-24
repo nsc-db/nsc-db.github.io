@@ -2587,5 +2587,15 @@
           "subScore": "0",
           "color": "16711680",
           "type": "2"
+        },
+        {
+          "cardUnusualId": "272",
+          "category": "5",
+          "iconId": "0",
+          "name": "マルチ無効（弱体除く）",
+          "description": "状態異常・幻・弱体系特殊状態・即死無効",
+          "subScore": "0",
+          "color": "16777215",
+          "type": "2"
         }
       ]
