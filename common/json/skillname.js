@@ -7252,6 +7252,14 @@ window.skillname=[
           "name": "このオレに歯向かうとは…"
         },
         {
+          "cardBattleSkillNameId": "3023",
+          "name": "仙力・雷ノ陣"
+        },
+        {
+          "cardBattleSkillNameId": "3024",
+          "name": "我は安寧秩序を成す者…"
+        },
+        {
           "cardBattleSkillNameId": "3025",
           "name": "風遁・螺旋刀"
         },
@@ -7428,6 +7436,22 @@ window.skillname=[
           "name": "単体攻撃＋？"
         },
         {
+          "cardBattleSkillNameId": "20904",
+          "name": "単体攻撃＋弱体解除"
+        },
+        {
+          "cardBattleSkillNameId": "20905",
+          "name": "味方全体強化"
+        },
+        {
+          "cardBattleSkillNameId": "20906",
+          "name": "全体攻撃＋強化系特殊状態解除"
+        },
+        {
+          "cardBattleSkillNameId": "20907",
+          "name": "敵全体弱体"
+        },
+        {
           "cardBattleSkillNameId": "21000",
           "name": "私がアンタらを誘い込んだのさ！"
         },
@@ -7458,6 +7482,10 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "21113",
           "name": "カップケーキの怒り（強）"
+        },
+        {
+          "cardBattleSkillNameId": "22009",
+          "name": "味方全体回復"
         },
         {
           "cardBattleSkillNameId": "30000",

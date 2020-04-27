@@ -13507,6 +13507,19 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1054",
+          "name": "始原の忍祖",
+          "description": "心・技・体属性のキャラが行動後にHP・チャクラ25％回復",
+          "effectIdx1": "2934",
+          "effectIdx2": "2935",
+          "effectIdx3": "0",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "1055",
           "name": "忍宗を継ぐ者",
           "description": "全属性の最大HP80%アップ、5回行動までスキル発動速度1段階アップ",

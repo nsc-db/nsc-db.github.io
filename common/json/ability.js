@@ -22329,6 +22329,24 @@ window.ability=[
           "effectIdx3": "2708"
         },
         {
+          "abilityId": "2533",
+          "abilityName": "伝説の存在",
+          "abilityDescription": "HP0以下で6回耐え、味方にﾅﾙﾄかｻｽｹがいるとﾊﾞﾄﾙ開始時自身以外の味方を託(ｽｷﾙﾀﾞﾒｰｼﾞ150%ｱｯﾌﾟ&amp;耐性無視ﾀﾞﾒｰｼﾞ0)",
+          "abilityEffectDescription": "HP0以下で6回耐え、味方にﾅﾙﾄかｻｽｹがいるとﾊﾞﾄﾙ開始時自身以外の味方を託(ｽｷﾙﾀﾞﾒｰｼﾞ150%ｱｯﾌﾟ&amp;耐性無視ﾀﾞﾒｰｼﾞ0)",
+          "effectIdx1": "2930",
+          "effectIdx2": "2928",
+          "effectIdx3": "2929"
+        },
+        {
+          "abilityId": "2534",
+          "abilityName": "“尾獣”の生みの親",
+          "abilityDescription": "6回行動までｽｷﾙﾀﾞﾒｰｼﾞ150%ｱｯﾌﾟ、味方にﾅﾙﾄかｻｽｹが生存していると素早さ150％ｱｯﾌﾟ、どちらもいると300％ｱｯﾌﾟ",
+          "abilityEffectDescription": "6回行動までｽｷﾙﾀﾞﾒｰｼﾞ150%ｱｯﾌﾟ、味方にﾅﾙﾄかｻｽｹが生存していると素早さ150％ｱｯﾌﾟ、どちらもいると300％ｱｯﾌﾟ",
+          "effectIdx1": "2931",
+          "effectIdx2": "2938",
+          "effectIdx3": "2265"
+        },
+        {
           "abilityId": "2535",
           "abilityName": "愛善の八意",
           "abilityDescription": "敵に「サスケ、マダラ（年代不問）」いずれかが生存時に被攻撃で確率でアクション状態になる、防御力200%アップ",
@@ -22811,6 +22829,78 @@ window.ability=[
           "abilityDescription": "敵に無所属がいる場合素早さ100%アップ",
           "abilityEffectDescription": "敵に無所属がいる場合素早さ100%アップ",
           "effectIdx1": "2127",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "16000",
+          "abilityName": "ダメージ上限",
+          "abilityDescription": "ダメージ上限（上限値：1ダメージ）",
+          "abilityEffectDescription": "ダメージ上限（上限値：1ダメージ）",
+          "effectIdx1": "300200",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "16001",
+          "abilityName": "ダメージ上限",
+          "abilityDescription": "ダメージ上限（上限値：500000ダメージ）",
+          "abilityEffectDescription": "ダメージ上限（上限値：500000ダメージ）",
+          "effectIdx1": "300201",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "16002",
+          "abilityName": "ダメージ上限",
+          "abilityDescription": "ダメージ上限（上限値：1000000ダメージ）",
+          "abilityEffectDescription": "ダメージ上限（上限値：1000000ダメージ）",
+          "effectIdx1": "300202",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "16003",
+          "abilityName": "ダメージ上限",
+          "abilityDescription": "ダメージ上限（上限値：2000000ダメージ）",
+          "abilityEffectDescription": "ダメージ上限（上限値：2000000ダメージ）",
+          "effectIdx1": "300203",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "16004",
+          "abilityName": "ダメージ上限",
+          "abilityDescription": "ダメージ上限（上限値：100000ダメージ）",
+          "abilityEffectDescription": "ダメージ上限（上限値：100000ダメージ）",
+          "effectIdx1": "300204",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "16005",
+          "abilityName": "ダメージ上限＋死亡時全体強化",
+          "abilityDescription": "ダメージ上限（上限値：100000ダメージ）、死亡時に味方全体の素早さ＆スキルダメージアップ",
+          "abilityEffectDescription": "ダメージ上限（上限値：100000ダメージ）、死亡時に味方全体の素早さ＆スキルダメージアップ",
+          "effectIdx1": "300204",
+          "effectIdx2": "2970",
+          "effectIdx3": "2971"
+        },
+        {
+          "abilityId": "16006",
+          "abilityName": "ダメージ上限＋死亡時全体強化",
+          "abilityDescription": "ダメージ上限（上限値：1000000ダメージ）、死亡時に味方全体の素早さ＆スキルダメージアップ",
+          "abilityEffectDescription": "ダメージ上限（上限値：1000000ダメージ）、死亡時に味方全体の素早さ＆スキルダメージアップ",
+          "effectIdx1": "300202",
+          "effectIdx2": "2970",
+          "effectIdx3": "2971"
+        },
+        {
+          "abilityId": "17000",
+          "abilityName": "状態異常・幻・弱体系特殊状態・即死無効",
+          "abilityDescription": "状態異常・幻・弱体系特殊状態・即死無効",
+          "abilityEffectDescription": "状態異常・幻・弱体系特殊状態・即死無効",
+          "effectIdx1": "2969",
           "effectIdx2": "0",
           "effectIdx3": "0"
         },

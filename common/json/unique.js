@@ -12708,6 +12708,30 @@ window.unique=[
           "effectIdx4": "0"
         },
         {
+          "crystalOverwriteEffectId": "1075",
+          "targetCrystal": "30415",
+          "description": "最大HP・スキルダメージ100％アップ、3回行動まで防御力120％アップ",
+          "charaIds": "14601",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "774",
+          "effectIdx2": "684",
+          "effectIdx3": "2944",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1076",
+          "targetCrystal": "30416",
+          "description": "6回行動までスキル発動速度1段階アップ＆スキップ無効、行動後にチャクラ30％回復",
+          "charaIds": "14601",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "2942",
+          "effectIdx2": "2943",
+          "effectIdx3": "2524",
+          "effectIdx4": "0"
+        },
+        {
           "crystalOverwriteEffectId": "1081",
           "targetCrystal": "30418",
           "description": "5回行動するまでキャンセル無効、素早さ55%アップ、スキル発動速度1段階アップ",
