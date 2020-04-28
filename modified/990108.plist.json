@@ -13507,8 +13507,8 @@
         },
         {
           "cardLeaderSkillId": "1054",
-          "name": "0",
-          "description": "0",
+          "name": "始原の忍祖",
+          "description": "心・技・体属性のキャラが行動後にHP・チャクラ25％回復",
           "effectIdx1": "2934",
           "effectIdx2": "2935",
           "effectIdx3": "0",
@@ -13541,6 +13541,32 @@
           "compType": "1",
           "target1Category": "1",
           "target1Param": "3",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "1057",
+          "name": "破滅の凶力",
+          "description": "全属性の攻撃力・防御力・素早さ100%アップ",
+          "effectIdx1": "1832",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "1058",
+          "name": "冷酷の蛇瞳",
+          "description": "全属性の素早さ・スキルダメージ80%アップ",
+          "effectIdx1": "13079",
+          "effectIdx2": "694",
+          "effectIdx3": "0",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
           "target2Category": "0",
           "target2Param": "0"
         },

@@ -2589,6 +2589,36 @@
           "type": "2"
         },
         {
+          "cardUnusualId": "266",
+          "category": "3",
+          "iconId": "1320",
+          "name": "獣王",
+          "description": "弱体系特殊・神化状態解除＆無効化。即死無効。チャクラ消費0。素早さｱｯﾌﾟ。ｽｷﾙ発動速度閃光化。ｽｷﾙ必中化。",
+          "subScore": "0",
+          "color": "16711680",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "267",
+          "category": "4",
+          "iconId": "1323",
+          "name": "神眼",
+          "description": "強化特殊・神化無効&amp;弱体。ｻｽｹは弱体特殊・神化無効&amp;被ｽｷﾙ攻撃時ﾁｬｸﾗ回復&amp;即ｱｸｼｮﾝ&amp;解除時神眼全解除",
+          "subScore": "0",
+          "color": "10104574",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "270",
+          "category": "4",
+          "iconId": "1323",
+          "name": "神眼",
+          "description": "強化特殊・神化無効&amp;弱体。ｻｽｹは弱体特殊・神化無効&amp;被ｽｷﾙ攻撃時ﾁｬｸﾗ回復&amp;即ｱｸｼｮﾝ&amp;解除時神眼全解除",
+          "subScore": "0",
+          "color": "10104574",
+          "type": "3"
+        },
+        {
           "cardUnusualId": "272",
           "category": "5",
           "iconId": "0",

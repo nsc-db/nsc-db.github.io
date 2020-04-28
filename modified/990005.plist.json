@@ -1127,5 +1127,15 @@
           "uiIdx": "10017",
           "partyEffects": "2787,2788,2789,",
           "enemyEffects": null
+        },
+        {
+          "battleFieldEffectId": "10018",
+          "name": "放タレシ獣圧",
+          "category": "3",
+          "scriptId": "10018",
+          "overWrite": "1",
+          "uiIdx": "10018",
+          "partyEffects": null,
+          "enemyEffects": "2953,2954,2956,"
         }
       ]
