@@ -182,6 +182,20 @@ window.charaname=[
           "gender": "1"
         },
         {
+          "charaProfileId": "114",
+          "charaId": "1",
+          "name": "うずまきナルト",
+          "detail": "疾風伝",
+          "charaLoveAffinityGroupId": "120",
+          "birthday": "1010",
+          "constellation": "7",
+          "height": "16600",
+          "weight": "5090",
+          "bloodType": "2",
+          "age": "16",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "201",
           "charaId": "2",
           "name": "うちはサスケ",
@@ -337,6 +351,20 @@ window.charaname=[
         },
         {
           "charaProfileId": "214",
+          "charaId": "2",
+          "name": "うちはサスケ",
+          "detail": "疾風伝",
+          "charaLoveAffinityGroupId": "220",
+          "birthday": "723",
+          "constellation": "5",
+          "height": "16800",
+          "weight": "5220",
+          "bloodType": "4",
+          "age": "16",
+          "gender": "1"
+        },
+        {
+          "charaProfileId": "216",
           "charaId": "2",
           "name": "うちはサスケ",
           "detail": "疾風伝",
