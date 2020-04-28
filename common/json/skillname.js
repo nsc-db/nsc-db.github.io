@@ -7272,6 +7272,22 @@ window.skillname=[
           "name": "なめてくれるじゃねーか…"
         },
         {
+          "cardBattleSkillNameId": "3028",
+          "name": "尾獣玉・激吼波"
+        },
+        {
+          "cardBattleSkillNameId": "3029",
+          "name": "てめーのもんじゃねェ…"
+        },
+        {
+          "cardBattleSkillNameId": "3030",
+          "name": "千鳥流し・圧閃"
+        },
+        {
+          "cardBattleSkillNameId": "3031",
+          "name": "失せろ"
+        },
+        {
           "cardBattleSkillNameId": "3032",
           "name": "継承・螺旋丸"
         },

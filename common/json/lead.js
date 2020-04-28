@@ -13546,6 +13546,32 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1057",
+          "name": "破滅の凶力",
+          "description": "全属性の攻撃力・防御力・素早さ100%アップ",
+          "effectIdx1": "1832",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "1058",
+          "name": "冷酷の蛇瞳",
+          "description": "全属性の素早さ・スキルダメージ80%アップ",
+          "effectIdx1": "13079",
+          "effectIdx2": "694",
+          "effectIdx3": "0",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "1059",
           "name": "導かれし挑戦者",
           "description": "技属性と木ノ葉隠れの里所属のスキルダメージを80%アップ",
