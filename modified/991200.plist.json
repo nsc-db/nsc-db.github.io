@@ -12801,5 +12801,17 @@
           "effectIdx2": "13054",
           "effectIdx3": "1840",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1083",
+          "targetCrystal": "30501",
+          "description": "0",
+          "charaIds": "12001,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1838",
+          "effectIdx2": "2996",
+          "effectIdx3": "1218",
+          "effectIdx4": "0"
         }
       ]

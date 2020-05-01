@@ -959,6 +959,16 @@
           "enemyEffects": "80001,2879,1782,"
         },
         {
+          "battleFieldEffectId": "106",
+          "name": "大激闘効果",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "300012,1840,",
+          "enemyEffects": "1339,"
+        },
+        {
           "battleFieldEffectId": "10001",
           "name": "始球空間",
           "category": "3",

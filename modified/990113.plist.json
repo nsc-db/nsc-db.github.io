@@ -35159,6 +35159,54 @@
           "effectParam3": "0"
         },
         {
+          "cardEffectId": "2981",
+          "timing": "13",
+          "conditionType": "12",
+          "conditionLower": "5",
+          "conditionUpper": "5",
+          "parcent": "10000",
+          "effectId": "2",
+          "effectParam1": "1",
+          "effectParam2": "999999",
+          "effectParam3": "0"
+        },
+        {
+          "cardEffectId": "2982",
+          "timing": "1",
+          "conditionType": "6",
+          "conditionLower": "0",
+          "conditionUpper": "0",
+          "parcent": "4000",
+          "effectId": "36",
+          "effectParam1": "2",
+          "effectParam2": "5",
+          "effectParam3": "0"
+        },
+        {
+          "cardEffectId": "2983",
+          "timing": "1",
+          "conditionType": "6",
+          "conditionLower": "0",
+          "conditionUpper": "0",
+          "parcent": "4000",
+          "effectId": "67",
+          "effectParam1": "2",
+          "effectParam2": "1",
+          "effectParam3": "0"
+        },
+        {
+          "cardEffectId": "2987",
+          "timing": "11",
+          "conditionType": "0",
+          "conditionLower": "0",
+          "conditionUpper": "0",
+          "parcent": "10000",
+          "effectId": "29",
+          "effectParam1": "3",
+          "effectParam2": "13500",
+          "effectParam3": "8"
+        },
+        {
           "cardEffectId": "2988",
           "timing": "1",
           "conditionType": "13",
@@ -35169,6 +35217,18 @@
           "effectParam1": "3",
           "effectParam2": "16000",
           "effectParam3": "0"
+        },
+        {
+          "cardEffectId": "2996",
+          "timing": "11",
+          "conditionType": "0",
+          "conditionLower": "0",
+          "conditionUpper": "0",
+          "parcent": "10000",
+          "effectId": "29",
+          "effectParam1": "8",
+          "effectParam2": "13000",
+          "effectParam3": "8"
         },
         {
           "cardEffectId": "10000",

@@ -3407,6 +3407,18 @@
           "voiceDeath": "sasuke_death_01_02"
         },
         {
+          "cardVoiceId": "288",
+          "cardId": "20060502",
+          "dirName": "deidara",
+          "evolutionStep": "",
+          "voiceAppear": "deidara_battle_02_03",
+          "voiceSkill1": "deidara_attack_02_03",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "deidara_win_02_02",
+          "voiceDeath": "deidara_damage_02_01"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

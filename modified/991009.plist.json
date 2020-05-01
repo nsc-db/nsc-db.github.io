@@ -2567,6 +2567,12 @@
           "itemImgId": "128"
         },
         {
+          "shopExchangeItemId": "436",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
           "shopExchangeItemId": "437",
           "itemName": "個人Pt",
           "measure": "0",
@@ -3000,6 +3006,12 @@
         },
         {
           "shopExchangeItemId": "1075",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "1077",
           "itemName": "個人Pt",
           "measure": "0",
           "itemImgId": "23"

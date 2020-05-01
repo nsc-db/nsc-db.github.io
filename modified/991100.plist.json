@@ -3919,6 +3919,20 @@
           "gender": "1"
         },
         {
+          "charaProfileId": "53201",
+          "charaId": "532",
+          "name": "油女シビ",
+          "detail": "1部/少年篇",
+          "charaLoveAffinityGroupId": "53210",
+          "birthday": "0",
+          "constellation": "0",
+          "height": "18100",
+          "weight": "6900",
+          "bloodType": "0",
+          "age": "39",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "100101",
           "charaId": "0",
           "name": "体のガマ",
