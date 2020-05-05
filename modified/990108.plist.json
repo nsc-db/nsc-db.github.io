@@ -13598,8 +13598,8 @@
         },
         {
           "cardLeaderSkillId": "1061",
-          "name": "0",
-          "description": "0",
+          "name": "爆裂の造形",
+          "description": "味方の\"暁\"1体につき、全属性の素早さ35％アップ",
           "effectIdx1": "2987",
           "effectIdx2": "0",
           "effectIdx3": "0",

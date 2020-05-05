@@ -12805,7 +12805,7 @@
         {
           "crystalOverwriteEffectId": "1083",
           "targetCrystal": "30501",
-          "description": "0",
+          "description": "2回行動まで耐性無視ダメージ0、班の“暁”所属の人数1人につき最大HP・素早さ30%アップ（自身含む）",
           "charaIds": "12001,",
           "cardIds": "0",
           "charaGroupIds": "0",

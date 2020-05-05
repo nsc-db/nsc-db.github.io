@@ -22455,18 +22455,18 @@
         },
         {
           "abilityId": "2547",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "爆発に見出す芸術観",
+          "abilityDescription": "HP0以下で3回耐え、耐えた時HP50％回復。敵に創キャラがいると耐えた時HP全回復",
+          "abilityEffectDescription": "HP0以下で3回耐え、耐えた時HP50％回復。敵に創キャラがいると耐えた時HP全回復",
           "effectIdx1": "1789",
           "effectIdx2": "2981",
           "effectIdx3": "618"
         },
         {
           "abilityId": "2548",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "起爆粘土の包囲網",
+          "abilityDescription": "ﾊﾞﾄﾙ開始時敵に創ｷｬﾗか木ノ葉隠れの里所属がいると確率で「芸術は……爆発だ！」で急襲攻撃（ﾁｬｸﾗ大回復）",
+          "abilityEffectDescription": "ﾊﾞﾄﾙ開始時敵に創ｷｬﾗか木ノ葉隠れの里所属がいると確率で「芸術は……爆発だ！」で急襲攻撃（ﾁｬｸﾗ大回復）",
           "effectIdx1": "2982",
           "effectIdx2": "2983",
           "effectIdx3": "0"
