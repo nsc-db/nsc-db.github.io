@@ -22455,6 +22455,42 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2547",
+          "abilityName": "爆発に見出す芸術観",
+          "abilityDescription": "HP0以下で3回耐え、耐えた時HP50％回復。敵に創キャラがいると耐えた時HP全回復",
+          "abilityEffectDescription": "HP0以下で3回耐え、耐えた時HP50％回復。敵に創キャラがいると耐えた時HP全回復",
+          "effectIdx1": "1789",
+          "effectIdx2": "2981",
+          "effectIdx3": "618"
+        },
+        {
+          "abilityId": "2548",
+          "abilityName": "起爆粘土の包囲網",
+          "abilityDescription": "ﾊﾞﾄﾙ開始時敵に創ｷｬﾗか木ノ葉隠れの里所属がいると確率で「芸術は……爆発だ！」で急襲攻撃（ﾁｬｸﾗ大回復）",
+          "abilityEffectDescription": "ﾊﾞﾄﾙ開始時敵に創ｷｬﾗか木ノ葉隠れの里所属がいると確率で「芸術は……爆発だ！」で急襲攻撃（ﾁｬｸﾗ大回復）",
+          "effectIdx1": "2982",
+          "effectIdx2": "2983",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2551",
+          "abilityName": "油女一族の先達",
+          "abilityDescription": "HP0以下で1回だけ耐え、行動後にHPが20%回復",
+          "abilityEffectDescription": "HP0以下で1回だけ耐え、行動後にHPが20%回復",
+          "effectIdx1": "312",
+          "effectIdx2": "628",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2552",
+          "abilityName": "秘伝の蟲操作術",
+          "abilityDescription": "スキルダメージ70%アップ、確率でスキルを回避",
+          "abilityEffectDescription": "スキルダメージ70%アップ、確率でスキルを回避",
+          "effectIdx1": "652",
+          "effectIdx2": "1423",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

@@ -22526,5 +22526,21 @@ window.gear=[
           "crystalImageId": "304295",
           "recipeId": "30429",
           "recipeName": "訓練用案山子(神)"
+        },
+        {
+          "crystalId": "30501",
+          "crystalType": "3",
+          "crystalRare": "5",
+          "effectIdx1": "2809",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "デイダラの心臓",
+          "crystalDescription": "1回行動まで確率で耐性無視ダメージ0",
+          "crystalImageId": "305015",
+          "recipeId": "30501",
+          "recipeName": "デイダラの心臓"
         }
 ]

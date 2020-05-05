@@ -13598,6 +13598,32 @@ window.lead=[
           "target2Param": "1"
         },
         {
+          "cardLeaderSkillId": "1061",
+          "name": "爆裂の造形",
+          "description": "味方の\"暁\"1体につき、全属性の素早さ35％アップ",
+          "effectIdx1": "2987",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "1063",
+          "name": "不動の蟲枢",
+          "description": "心属性の素早さとスキルダメージを50%アップする",
+          "effectIdx1": "13049",
+          "effectIdx2": "682",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

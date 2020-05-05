@@ -7300,6 +7300,22 @@ window.skillname=[
           "name": "オレはあいつらとは違うぜ…"
         },
         {
+          "cardBattleSkillNameId": "3035",
+          "name": "起爆粘土・爆虫華"
+        },
+        {
+          "cardBattleSkillNameId": "3036",
+          "name": "芸術は……爆発だ！"
+        },
+        {
+          "cardBattleSkillNameId": "3038",
+          "name": "蟲握衝"
+        },
+        {
+          "cardBattleSkillNameId": "3039",
+          "name": "全力で駆除するぞ"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },
