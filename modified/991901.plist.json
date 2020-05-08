@@ -239,6 +239,18 @@
           "specialPanelList": "9100028,9100029,9100030"
         },
         {
+          "sphereBoardId": "50017",
+          "boardName": "Temp_Ct=&gt;90_知属性_の潜在覚醒盤",
+          "boardDescription": "うちはイタチ【黒焔の征瞳】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20060504",
+          "normalPanelList": "9100019,9100020,9100021",
+          "specialPanelList": "9100022,9100023,9100024"
+        },
+        {
           "sphereBoardId": "5000001",
           "boardName": "ガマブン太",
           "boardDescription": "うずまきナルト【救う想いと仁義の共闘】",

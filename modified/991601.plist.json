@@ -1858,6 +1858,19 @@
           "selectType": "3"
         },
         {
+          "itemId": "16011",
+          "name": "5周年記念！ナルコレ総選挙！参加シール",
+          "description": "5周年記念！ナルコレ総選挙！参加賞抽選会で使用できるシール。（5月31日15:59まで使用可能）",
+          "resultWord": "0",
+          "itemCategoryId": "15000",
+          "itemValue": "0",
+          "itemNum": "0",
+          "itemImageId": "16011",
+          "needCount": "1",
+          "priority": "1",
+          "selectType": "3"
+        },
+        {
           "itemId": "51000",
           "name": "ドロップ数２倍の秘伝書",
           "description": "バトルでの獲得ドロップ数が２倍になります。",
@@ -3530,6 +3543,19 @@
           "itemValue": "0",
           "itemNum": "0",
           "itemImageId": "60011",
+          "needCount": "1",
+          "priority": "1",
+          "selectType": "3"
+        },
+        {
+          "itemId": "60012",
+          "name": "5周年記念！ナルコレ総選挙！投票券",
+          "description": "5周年記念！ナルコレ総選挙！で投票に必要なアイテム。（5月28日23:59まで期間限定）",
+          "resultWord": "0",
+          "itemCategoryId": "20",
+          "itemValue": "0",
+          "itemNum": "0",
+          "itemImageId": "60012",
           "needCount": "1",
           "priority": "1",
           "selectType": "3"

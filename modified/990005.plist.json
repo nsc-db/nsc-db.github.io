@@ -1147,5 +1147,15 @@
           "uiIdx": "10018",
           "partyEffects": null,
           "enemyEffects": "2953,2954,2956,"
+        },
+        {
+          "battleFieldEffectId": "10019",
+          "name": "支配サレシ世界",
+          "category": "3",
+          "scriptId": "10019",
+          "overWrite": "1",
+          "uiIdx": "10019",
+          "partyEffects": null,
+          "enemyEffects": "2992,2993,2994,"
         }
       ]

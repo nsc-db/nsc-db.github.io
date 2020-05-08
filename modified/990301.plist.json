@@ -22541,5 +22541,37 @@
           "crystalImageId": "305015",
           "recipeId": "30501",
           "recipeName": "デイダラの心臓"
+        },
+        {
+          "crystalId": "30503",
+          "crystalType": "3",
+          "crystalRare": "5",
+          "effectIdx1": "2809",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "0",
+          "crystalDescription": "0",
+          "crystalImageId": "305035",
+          "recipeId": "30503",
+          "recipeName": "八咫鏡"
+        },
+        {
+          "crystalId": "30504",
+          "crystalType": "1",
+          "crystalRare": "5",
+          "effectIdx1": "11039",
+          "effectIdx2": "377",
+          "effectIdx3": "111",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "0",
+          "crystalDescription": "0",
+          "crystalImageId": "305045",
+          "recipeId": "30504",
+          "recipeName": "イタチの指輪"
         }
       ]
