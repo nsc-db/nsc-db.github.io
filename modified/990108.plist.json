@@ -13624,8 +13624,8 @@
         },
         {
           "cardLeaderSkillId": "1064",
-          "name": "0",
-          "description": "0",
+          "name": "黒焔の征瞳",
+          "description": "敵に神忍がいると、バトル開始時にそれぞれ確率で、自身含む“暁”所属が先制攻撃",
           "effectIdx1": "2999",
           "effectIdx2": "0",
           "effectIdx3": "0",

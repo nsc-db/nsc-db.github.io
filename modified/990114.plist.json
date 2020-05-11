@@ -2612,8 +2612,8 @@
           "cardUnusualId": "269",
           "category": "5",
           "iconId": "0",
-          "name": "0",
-          "description": "0",
+          "name": "幻惑",
+          "description": "行動選択時、指定された行動回数消費する",
           "subScore": "0",
           "color": "16777215",
           "type": "3"

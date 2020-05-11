@@ -22491,18 +22491,18 @@
         },
         {
           "abilityId": "2553",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "永遠の頂を望む者",
+          "abilityDescription": "敵に神忍がいるとバトル開始時高確率で地形効果「支配サレシ世界」を展開、最大チャクラ量120アップ",
+          "abilityEffectDescription": "敵に神忍がいるとバトル開始時高確率で地形効果「支配サレシ世界」を展開、最大チャクラ量120アップ",
           "effectIdx1": "2990",
           "effectIdx2": "20011",
           "effectIdx3": "0"
         },
         {
           "abilityId": "2554",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "右眼に宿す至強の炎",
+          "abilityDescription": "HP0以下で2回耐える、行動後確率で再行動、相手に神忍が生存していると確実に再行動",
+          "abilityEffectDescription": "HP0以下で2回耐える、行動後確率で再行動、相手に神忍が生存していると確実に再行動",
           "effectIdx1": "439",
           "effectIdx2": "2991",
           "effectIdx3": "1057"

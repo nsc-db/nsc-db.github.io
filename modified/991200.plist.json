@@ -12817,7 +12817,7 @@
         {
           "crystalOverwriteEffectId": "1086",
           "targetCrystal": "30503",
-          "description": "0",
+          "description": "3回行動まで耐性無視ダメージ0＆チャクラ消費0、1回目に耐えた時アクション状態になる",
           "charaIds": "11604,",
           "cardIds": "0",
           "charaGroupIds": "0",
@@ -12829,7 +12829,7 @@
         {
           "crystalOverwriteEffectId": "1087",
           "targetCrystal": "30504",
-          "description": "0",
+          "description": "攻防速70％アップ、行動後チャクラ25％回復&amp;確率で1回行動までスキルダメージ100％アップ",
           "charaIds": "11604,",
           "cardIds": "0",
           "charaGroupIds": "0",

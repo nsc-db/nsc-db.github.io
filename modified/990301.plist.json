@@ -22552,8 +22552,8 @@
           "effectIdx4": "0",
           "money": "30000",
           "saleMoney": "2500",
-          "crystalName": "0",
-          "crystalDescription": "0",
+          "crystalName": "八咫鏡",
+          "crystalDescription": "1回行動まで確率で耐性無視ダメージ0",
           "crystalImageId": "305035",
           "recipeId": "30503",
           "recipeName": "八咫鏡"
@@ -22568,8 +22568,8 @@
           "effectIdx4": "0",
           "money": "30000",
           "saleMoney": "2500",
-          "crystalName": "0",
-          "crystalDescription": "0",
+          "crystalName": "イタチの指輪",
+          "crystalDescription": "攻撃力・防御力・素早さが40％アップ",
           "crystalImageId": "305045",
           "recipeId": "30504",
           "recipeName": "イタチの指輪"
