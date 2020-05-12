@@ -22573,5 +22573,37 @@
           "crystalImageId": "305045",
           "recipeId": "30504",
           "recipeName": "イタチの指輪"
+        },
+        {
+          "crystalId": "30505",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "2336",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "背中の求道玉",
+          "crystalDescription": "1回行動までスキップ無効",
+          "crystalImageId": "305055",
+          "recipeId": "30505",
+          "recipeName": "背中の求道玉"
+        },
+        {
+          "crystalId": "30506",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "2586",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "マダラの無限月読",
+          "crystalDescription": "2回行動までチャクラ消費半減",
+          "crystalImageId": "305065",
+          "recipeId": "30506",
+          "recipeName": "マダラの無限月読"
         }
       ]

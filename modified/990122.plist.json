@@ -3419,6 +3419,18 @@
           "voiceDeath": "deidara_damage_02_01"
         },
         {
+          "cardVoiceId": "289",
+          "cardId": "20060506",
+          "dirName": "madara",
+          "evolutionStep": "",
+          "voiceAppear": "madara_battle_02_02",
+          "voiceSkill1": "madara_battle_02_01",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "madara_win_02_01",
+          "voiceDeath": "madara_death_02_03"
+        },
+        {
           "cardVoiceId": "290",
           "cardId": "20060504",
           "dirName": "itachi",

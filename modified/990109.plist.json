@@ -22472,6 +22472,24 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2549",
+          "abilityName": "悦叫の快哉",
+          "abilityDescription": "敵に超忍が生存していると被攻撃時高確率でアクション状態になる、HP0以下で1回HP全回復",
+          "abilityEffectDescription": "敵に超忍が生存していると被攻撃時高確率でアクション状態になる、HP0以下で1回HP全回復",
+          "effectIdx1": "2816",
+          "effectIdx2": "312",
+          "effectIdx3": "874"
+        },
+        {
+          "abilityId": "2550",
+          "abilityName": "血湧き肉躍",
+          "abilityDescription": "バトル開始時高確率で短い間輪墓状態、敵に超忍がいると確実に短い間輪墓状態、最大チャクラ量100アップ",
+          "abilityEffectDescription": "バトル開始時高確率で短い間輪墓状態、敵に超忍がいると確実に短い間輪墓状態、最大チャクラ量100アップ",
+          "effectIdx1": "2984",
+          "effectIdx2": "2985",
+          "effectIdx3": "813"
+        },
+        {
           "abilityId": "2551",
           "abilityName": "油女一族の先達",
           "abilityDescription": "HP0以下で1回だけ耐え、行動後にHPが20%回復",
