@@ -13611,6 +13611,19 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1062",
+          "name": "死闘への歎美",
+          "description": "無所属のスキルダメージ80％＆スキル発動速度1段階アップ",
+          "effectIdx1": "694",
+          "effectIdx2": "1840",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "99",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "1063",
           "name": "不動の蟲枢",
           "description": "心属性の素早さとスキルダメージを50%アップする",
@@ -13620,6 +13633,19 @@ window.lead=[
           "compType": "1",
           "target1Category": "1",
           "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "1064",
+          "name": "黒焔の征瞳",
+          "description": "敵に神忍がいると、バトル開始時にそれぞれ確率で、自身含む“暁”所属が先制攻撃",
+          "effectIdx1": "2999",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "8",
           "target2Category": "0",
           "target2Param": "0"
         },

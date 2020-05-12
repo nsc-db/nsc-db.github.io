@@ -7308,12 +7308,24 @@ window.skillname=[
           "name": "芸術は……爆発だ！"
         },
         {
+          "cardBattleSkillNameId": "3037",
+          "name": "もっと楽しませてくれ"
+        },
+        {
           "cardBattleSkillNameId": "3038",
           "name": "蟲握衝"
         },
         {
           "cardBattleSkillNameId": "3039",
           "name": "全力で駆除するぞ"
+        },
+        {
+          "cardBattleSkillNameId": "3040",
+          "name": "天照・永劫ノ黒炎"
+        },
+        {
+          "cardBattleSkillNameId": "3041",
+          "name": "それを現実にしてやる"
         },
         {
           "cardBattleSkillNameId": "10136",

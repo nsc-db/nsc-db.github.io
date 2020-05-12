@@ -22473,6 +22473,24 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2549",
+          "abilityName": "悦叫の快哉",
+          "abilityDescription": "敵に超忍が生存していると被攻撃時高確率でアクション状態になる、HP0以下で1回HP全回復",
+          "abilityEffectDescription": "敵に超忍が生存していると被攻撃時高確率でアクション状態になる、HP0以下で1回HP全回復",
+          "effectIdx1": "2816",
+          "effectIdx2": "312",
+          "effectIdx3": "874"
+        },
+        {
+          "abilityId": "2550",
+          "abilityName": "血湧き肉躍",
+          "abilityDescription": "バトル開始時高確率で短い間輪墓状態、敵に超忍がいると確実に短い間輪墓状態、最大チャクラ量100アップ",
+          "abilityEffectDescription": "バトル開始時高確率で短い間輪墓状態、敵に超忍がいると確実に短い間輪墓状態、最大チャクラ量100アップ",
+          "effectIdx1": "2984",
+          "effectIdx2": "2985",
+          "effectIdx3": "813"
+        },
+        {
           "abilityId": "2551",
           "abilityName": "油女一族の先達",
           "abilityDescription": "HP0以下で1回だけ耐え、行動後にHPが20%回復",
@@ -22489,6 +22507,24 @@ window.ability=[
           "effectIdx1": "652",
           "effectIdx2": "1423",
           "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2553",
+          "abilityName": "永遠の頂を望む者",
+          "abilityDescription": "敵に神忍がいるとバトル開始時高確率で地形効果「支配サレシ世界」を展開、最大チャクラ量120アップ",
+          "abilityEffectDescription": "敵に神忍がいるとバトル開始時高確率で地形効果「支配サレシ世界」を展開、最大チャクラ量120アップ",
+          "effectIdx1": "2990",
+          "effectIdx2": "20011",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2554",
+          "abilityName": "右眼に宿す至強の炎",
+          "abilityDescription": "HP0以下で2回耐える、行動後確率で再行動、相手に神忍が生存していると確実に再行動",
+          "abilityEffectDescription": "HP0以下で2回耐える、行動後確率で再行動、相手に神忍が生存していると確実に再行動",
+          "effectIdx1": "439",
+          "effectIdx2": "2991",
+          "effectIdx3": "1057"
         },
         {
           "abilityId": "10000",
