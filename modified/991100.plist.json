@@ -3933,6 +3933,20 @@
           "gender": "1"
         },
         {
+          "charaProfileId": "53301",
+          "charaId": "533",
+          "name": "ハン",
+          "detail": "五尾の人柱力",
+          "charaLoveAffinityGroupId": "53310",
+          "birthday": "0",
+          "constellation": "0",
+          "height": "0",
+          "weight": "0",
+          "bloodType": "0",
+          "age": "0",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "100101",
           "charaId": "0",
           "name": "体のガマ",

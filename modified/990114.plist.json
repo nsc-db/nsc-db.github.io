@@ -2609,6 +2609,16 @@
           "type": "2"
         },
         {
+          "cardUnusualId": "268",
+          "category": "6",
+          "iconId": "1322",
+          "name": "五ノ蒸",
+          "description": "ｽｷｯﾌﾟ・ｷｬﾝｾﾙ・即死・地形無効。最大HPｱｯﾌﾟ。被ｽｷﾙ攻撃時敵のｽｷﾙ発動速度ﾀﾞｳﾝ。解除時獣化不可",
+          "subScore": "0",
+          "color": "7920895",
+          "type": "2"
+        },
+        {
           "cardUnusualId": "269",
           "category": "5",
           "iconId": "0",

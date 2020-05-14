@@ -6047,6 +6047,870 @@
           "needMoney": "150000"
         },
         {
+          "sphereId": "5008001",
+          "sphereType": "1",
+          "iconId": "1",
+          "effectId": "500011",
+          "sphereMaterial": "50101:3",
+          "needMoney": "10000"
+        },
+        {
+          "sphereId": "5008002",
+          "sphereType": "1",
+          "iconId": "1",
+          "effectId": "500011",
+          "sphereMaterial": "50101:3",
+          "needMoney": "10000"
+        },
+        {
+          "sphereId": "5008003",
+          "sphereType": "1",
+          "iconId": "2",
+          "effectId": "500021",
+          "sphereMaterial": "50201:3",
+          "needMoney": "10000"
+        },
+        {
+          "sphereId": "5008004",
+          "sphereType": "1",
+          "iconId": "2",
+          "effectId": "500021",
+          "sphereMaterial": "50201:3",
+          "needMoney": "10000"
+        },
+        {
+          "sphereId": "5008005",
+          "sphereType": "1",
+          "iconId": "2",
+          "effectId": "500021",
+          "sphereMaterial": "50201:3",
+          "needMoney": "10000"
+        },
+        {
+          "sphereId": "5008006",
+          "sphereType": "1",
+          "iconId": "2",
+          "effectId": "500021",
+          "sphereMaterial": "50201:3",
+          "needMoney": "10000"
+        },
+        {
+          "sphereId": "5008007",
+          "sphereType": "1",
+          "iconId": "3",
+          "effectId": "500031",
+          "sphereMaterial": "50301:3",
+          "needMoney": "10000"
+        },
+        {
+          "sphereId": "5008008",
+          "sphereType": "1",
+          "iconId": "3",
+          "effectId": "500031",
+          "sphereMaterial": "50301:3",
+          "needMoney": "10000"
+        },
+        {
+          "sphereId": "5008009",
+          "sphereType": "1",
+          "iconId": "3",
+          "effectId": "500031",
+          "sphereMaterial": "50301:3",
+          "needMoney": "10000"
+        },
+        {
+          "sphereId": "5008010",
+          "sphereType": "1",
+          "iconId": "4",
+          "effectId": "500041",
+          "sphereMaterial": "50401:3",
+          "needMoney": "10000"
+        },
+        {
+          "sphereId": "5008011",
+          "sphereType": "1",
+          "iconId": "4",
+          "effectId": "500041",
+          "sphereMaterial": "50401:3",
+          "needMoney": "10000"
+        },
+        {
+          "sphereId": "5008012",
+          "sphereType": "1",
+          "iconId": "4",
+          "effectId": "500041",
+          "sphereMaterial": "50401:3",
+          "needMoney": "10000"
+        },
+        {
+          "sphereId": "5008013",
+          "sphereType": "1",
+          "iconId": "8",
+          "effectId": "500051",
+          "sphereMaterial": "50501:3",
+          "needMoney": "10000"
+        },
+        {
+          "sphereId": "5008014",
+          "sphereType": "1",
+          "iconId": "9",
+          "effectId": "500061",
+          "sphereMaterial": "50601:3",
+          "needMoney": "10000"
+        },
+        {
+          "sphereId": "5008015",
+          "sphereType": "1",
+          "iconId": "10",
+          "effectId": "500071",
+          "sphereMaterial": "50701:3",
+          "needMoney": "10000"
+        },
+        {
+          "sphereId": "5008016",
+          "sphereType": "2",
+          "iconId": "301",
+          "effectId": "500051",
+          "sphereMaterial": "50501:9,50010:1",
+          "needMoney": "30000"
+        },
+        {
+          "sphereId": "5008017",
+          "sphereType": "5",
+          "iconId": "103",
+          "effectId": "0",
+          "sphereMaterial": "51001:1",
+          "needMoney": "25000"
+        },
+        {
+          "sphereId": "5008021",
+          "sphereType": "1",
+          "iconId": "1",
+          "effectId": "500011",
+          "sphereMaterial": "50101:3,50102:6",
+          "needMoney": "20000"
+        },
+        {
+          "sphereId": "5008022",
+          "sphereType": "1",
+          "iconId": "1",
+          "effectId": "500011",
+          "sphereMaterial": "50101:3,50102:6",
+          "needMoney": "20000"
+        },
+        {
+          "sphereId": "5008023",
+          "sphereType": "1",
+          "iconId": "1",
+          "effectId": "500011",
+          "sphereMaterial": "50101:3,50102:6",
+          "needMoney": "20000"
+        },
+        {
+          "sphereId": "5008024",
+          "sphereType": "1",
+          "iconId": "2",
+          "effectId": "500021",
+          "sphereMaterial": "50201:3,50202:6",
+          "needMoney": "20000"
+        },
+        {
+          "sphereId": "5008025",
+          "sphereType": "1",
+          "iconId": "2",
+          "effectId": "500021",
+          "sphereMaterial": "50201:3,50202:6",
+          "needMoney": "20000"
+        },
+        {
+          "sphereId": "5008026",
+          "sphereType": "1",
+          "iconId": "2",
+          "effectId": "500021",
+          "sphereMaterial": "50201:3,50202:6",
+          "needMoney": "20000"
+        },
+        {
+          "sphereId": "5008027",
+          "sphereType": "1",
+          "iconId": "3",
+          "effectId": "500031",
+          "sphereMaterial": "50301:3,50302:6",
+          "needMoney": "20000"
+        },
+        {
+          "sphereId": "5008028",
+          "sphereType": "1",
+          "iconId": "3",
+          "effectId": "500031",
+          "sphereMaterial": "50301:3,50302:6",
+          "needMoney": "20000"
+        },
+        {
+          "sphereId": "5008029",
+          "sphereType": "1",
+          "iconId": "3",
+          "effectId": "500031",
+          "sphereMaterial": "50301:3,50302:6",
+          "needMoney": "20000"
+        },
+        {
+          "sphereId": "5008030",
+          "sphereType": "1",
+          "iconId": "4",
+          "effectId": "500041",
+          "sphereMaterial": "50401:3,50402:6",
+          "needMoney": "20000"
+        },
+        {
+          "sphereId": "5008031",
+          "sphereType": "1",
+          "iconId": "4",
+          "effectId": "500041",
+          "sphereMaterial": "50401:3,50402:6",
+          "needMoney": "20000"
+        },
+        {
+          "sphereId": "5008032",
+          "sphereType": "1",
+          "iconId": "4",
+          "effectId": "500041",
+          "sphereMaterial": "50401:3,50402:6",
+          "needMoney": "20000"
+        },
+        {
+          "sphereId": "5008033",
+          "sphereType": "1",
+          "iconId": "10",
+          "effectId": "500071",
+          "sphereMaterial": "50701:3,50702:6",
+          "needMoney": "20000"
+        },
+        {
+          "sphereId": "5008034",
+          "sphereType": "1",
+          "iconId": "8",
+          "effectId": "500051",
+          "sphereMaterial": "50501:3,50502:6",
+          "needMoney": "20000"
+        },
+        {
+          "sphereId": "5008035",
+          "sphereType": "1",
+          "iconId": "9",
+          "effectId": "500061",
+          "sphereMaterial": "50601:3,50602:6",
+          "needMoney": "20000"
+        },
+        {
+          "sphereId": "5008036",
+          "sphereType": "2",
+          "iconId": "302",
+          "effectId": "500061",
+          "sphereMaterial": "50602:18,50010:3",
+          "needMoney": "60000"
+        },
+        {
+          "sphereId": "5008037",
+          "sphereType": "5",
+          "iconId": "103",
+          "effectId": "0",
+          "sphereMaterial": "51001:1",
+          "needMoney": "50000"
+        },
+        {
+          "sphereId": "5008041",
+          "sphereType": "1",
+          "iconId": "1",
+          "effectId": "500012",
+          "sphereMaterial": "50102:10,50103:3",
+          "needMoney": "40000"
+        },
+        {
+          "sphereId": "5008042",
+          "sphereType": "1",
+          "iconId": "1",
+          "effectId": "500012",
+          "sphereMaterial": "50102:10,50103:3",
+          "needMoney": "40000"
+        },
+        {
+          "sphereId": "5008043",
+          "sphereType": "1",
+          "iconId": "1",
+          "effectId": "500012",
+          "sphereMaterial": "50102:10,50103:3",
+          "needMoney": "40000"
+        },
+        {
+          "sphereId": "5008044",
+          "sphereType": "1",
+          "iconId": "2",
+          "effectId": "500022",
+          "sphereMaterial": "50202:10,50203:3",
+          "needMoney": "40000"
+        },
+        {
+          "sphereId": "5008045",
+          "sphereType": "1",
+          "iconId": "2",
+          "effectId": "500022",
+          "sphereMaterial": "50202:10,50203:3",
+          "needMoney": "40000"
+        },
+        {
+          "sphereId": "5008046",
+          "sphereType": "1",
+          "iconId": "2",
+          "effectId": "500022",
+          "sphereMaterial": "50202:10,50203:3",
+          "needMoney": "40000"
+        },
+        {
+          "sphereId": "5008047",
+          "sphereType": "1",
+          "iconId": "3",
+          "effectId": "500032",
+          "sphereMaterial": "50302:10,50303:3",
+          "needMoney": "40000"
+        },
+        {
+          "sphereId": "5008048",
+          "sphereType": "1",
+          "iconId": "3",
+          "effectId": "500032",
+          "sphereMaterial": "50302:10,50303:3",
+          "needMoney": "40000"
+        },
+        {
+          "sphereId": "5008049",
+          "sphereType": "1",
+          "iconId": "3",
+          "effectId": "500032",
+          "sphereMaterial": "50302:10,50303:3",
+          "needMoney": "40000"
+        },
+        {
+          "sphereId": "5008050",
+          "sphereType": "1",
+          "iconId": "4",
+          "effectId": "500042",
+          "sphereMaterial": "50402:10,50403:3",
+          "needMoney": "40000"
+        },
+        {
+          "sphereId": "5008051",
+          "sphereType": "1",
+          "iconId": "4",
+          "effectId": "500042",
+          "sphereMaterial": "50402:10,50403:3",
+          "needMoney": "40000"
+        },
+        {
+          "sphereId": "5008052",
+          "sphereType": "1",
+          "iconId": "4",
+          "effectId": "500042",
+          "sphereMaterial": "50402:10,50403:3",
+          "needMoney": "40000"
+        },
+        {
+          "sphereId": "5008053",
+          "sphereType": "1",
+          "iconId": "9",
+          "effectId": "500062",
+          "sphereMaterial": "50602:10,50603:3",
+          "needMoney": "40000"
+        },
+        {
+          "sphereId": "5008054",
+          "sphereType": "1",
+          "iconId": "10",
+          "effectId": "500072",
+          "sphereMaterial": "50702:10,50703:3",
+          "needMoney": "40000"
+        },
+        {
+          "sphereId": "5008055",
+          "sphereType": "1",
+          "iconId": "8",
+          "effectId": "500052",
+          "sphereMaterial": "50502:10,50503:3",
+          "needMoney": "40000"
+        },
+        {
+          "sphereId": "5008056",
+          "sphereType": "2",
+          "iconId": "303",
+          "effectId": "500072",
+          "sphereMaterial": "50703:9,50010:5",
+          "needMoney": "120000"
+        },
+        {
+          "sphereId": "5008057",
+          "sphereType": "5",
+          "iconId": "103",
+          "effectId": "0",
+          "sphereMaterial": "51001:1",
+          "needMoney": "100000"
+        },
+        {
+          "sphereId": "5008058",
+          "sphereType": "5",
+          "iconId": "103",
+          "effectId": "0",
+          "sphereMaterial": "51001:1",
+          "needMoney": "100000"
+        },
+        {
+          "sphereId": "5008059",
+          "sphereType": "6",
+          "iconId": "104",
+          "effectId": "500101",
+          "sphereMaterial": "52002:1",
+          "needMoney": "100000"
+        },
+        {
+          "sphereId": "5008061",
+          "sphereType": "1",
+          "iconId": "1",
+          "effectId": "500012",
+          "sphereMaterial": "50101:5",
+          "needMoney": "15000"
+        },
+        {
+          "sphereId": "5008062",
+          "sphereType": "1",
+          "iconId": "1",
+          "effectId": "500012",
+          "sphereMaterial": "50101:5",
+          "needMoney": "15000"
+        },
+        {
+          "sphereId": "5008063",
+          "sphereType": "1",
+          "iconId": "1",
+          "effectId": "500012",
+          "sphereMaterial": "50101:5",
+          "needMoney": "15000"
+        },
+        {
+          "sphereId": "5008064",
+          "sphereType": "1",
+          "iconId": "1",
+          "effectId": "500012",
+          "sphereMaterial": "50101:5",
+          "needMoney": "15000"
+        },
+        {
+          "sphereId": "5008065",
+          "sphereType": "1",
+          "iconId": "2",
+          "effectId": "500022",
+          "sphereMaterial": "50201:5",
+          "needMoney": "15000"
+        },
+        {
+          "sphereId": "5008066",
+          "sphereType": "1",
+          "iconId": "2",
+          "effectId": "500022",
+          "sphereMaterial": "50201:5",
+          "needMoney": "15000"
+        },
+        {
+          "sphereId": "5008067",
+          "sphereType": "1",
+          "iconId": "2",
+          "effectId": "500022",
+          "sphereMaterial": "50201:5",
+          "needMoney": "15000"
+        },
+        {
+          "sphereId": "5008068",
+          "sphereType": "1",
+          "iconId": "3",
+          "effectId": "500032",
+          "sphereMaterial": "50301:5",
+          "needMoney": "15000"
+        },
+        {
+          "sphereId": "5008069",
+          "sphereType": "1",
+          "iconId": "3",
+          "effectId": "500032",
+          "sphereMaterial": "50301:5",
+          "needMoney": "15000"
+        },
+        {
+          "sphereId": "5008070",
+          "sphereType": "1",
+          "iconId": "3",
+          "effectId": "500032",
+          "sphereMaterial": "50301:5",
+          "needMoney": "15000"
+        },
+        {
+          "sphereId": "5008071",
+          "sphereType": "1",
+          "iconId": "4",
+          "effectId": "500042",
+          "sphereMaterial": "50401:5",
+          "needMoney": "15000"
+        },
+        {
+          "sphereId": "5008072",
+          "sphereType": "1",
+          "iconId": "4",
+          "effectId": "500042",
+          "sphereMaterial": "50401:5",
+          "needMoney": "15000"
+        },
+        {
+          "sphereId": "5008073",
+          "sphereType": "1",
+          "iconId": "4",
+          "effectId": "500042",
+          "sphereMaterial": "50401:5",
+          "needMoney": "15000"
+        },
+        {
+          "sphereId": "5008074",
+          "sphereType": "1",
+          "iconId": "8",
+          "effectId": "500052",
+          "sphereMaterial": "50501:5",
+          "needMoney": "15000"
+        },
+        {
+          "sphereId": "5008075",
+          "sphereType": "1",
+          "iconId": "9",
+          "effectId": "500062",
+          "sphereMaterial": "50601:5",
+          "needMoney": "15000"
+        },
+        {
+          "sphereId": "5008076",
+          "sphereType": "2",
+          "iconId": "301",
+          "effectId": "500072",
+          "sphereMaterial": "50701:15,50010:1",
+          "needMoney": "45000"
+        },
+        {
+          "sphereId": "5008077",
+          "sphereType": "5",
+          "iconId": "103",
+          "effectId": "0",
+          "sphereMaterial": "51001:1",
+          "needMoney": "37500"
+        },
+        {
+          "sphereId": "5008078",
+          "sphereType": "6",
+          "iconId": "104",
+          "effectId": "500101",
+          "sphereMaterial": "52002:1",
+          "needMoney": "37500"
+        },
+        {
+          "sphereId": "5008081",
+          "sphereType": "1",
+          "iconId": "1",
+          "effectId": "500013",
+          "sphereMaterial": "50101:5,50102:7",
+          "needMoney": "30000"
+        },
+        {
+          "sphereId": "5008082",
+          "sphereType": "1",
+          "iconId": "1",
+          "effectId": "500013",
+          "sphereMaterial": "50101:5,50102:7",
+          "needMoney": "30000"
+        },
+        {
+          "sphereId": "5008083",
+          "sphereType": "1",
+          "iconId": "1",
+          "effectId": "500013",
+          "sphereMaterial": "50101:5,50102:7",
+          "needMoney": "30000"
+        },
+        {
+          "sphereId": "5008084",
+          "sphereType": "1",
+          "iconId": "2",
+          "effectId": "500023",
+          "sphereMaterial": "50201:5,50202:7",
+          "needMoney": "30000"
+        },
+        {
+          "sphereId": "5008085",
+          "sphereType": "1",
+          "iconId": "2",
+          "effectId": "500023",
+          "sphereMaterial": "50201:5,50202:7",
+          "needMoney": "30000"
+        },
+        {
+          "sphereId": "5008086",
+          "sphereType": "1",
+          "iconId": "2",
+          "effectId": "500023",
+          "sphereMaterial": "50201:5,50202:7",
+          "needMoney": "30000"
+        },
+        {
+          "sphereId": "5008087",
+          "sphereType": "1",
+          "iconId": "2",
+          "effectId": "500023",
+          "sphereMaterial": "50201:5,50202:7",
+          "needMoney": "30000"
+        },
+        {
+          "sphereId": "5008088",
+          "sphereType": "1",
+          "iconId": "3",
+          "effectId": "500033",
+          "sphereMaterial": "50301:5,50302:7",
+          "needMoney": "30000"
+        },
+        {
+          "sphereId": "5008089",
+          "sphereType": "1",
+          "iconId": "3",
+          "effectId": "500033",
+          "sphereMaterial": "50301:5,50302:7",
+          "needMoney": "30000"
+        },
+        {
+          "sphereId": "5008090",
+          "sphereType": "1",
+          "iconId": "3",
+          "effectId": "500033",
+          "sphereMaterial": "50301:5,50302:7",
+          "needMoney": "30000"
+        },
+        {
+          "sphereId": "5008091",
+          "sphereType": "1",
+          "iconId": "4",
+          "effectId": "500043",
+          "sphereMaterial": "50401:5,50402:7",
+          "needMoney": "30000"
+        },
+        {
+          "sphereId": "5008092",
+          "sphereType": "1",
+          "iconId": "4",
+          "effectId": "500043",
+          "sphereMaterial": "50401:5,50402:7",
+          "needMoney": "30000"
+        },
+        {
+          "sphereId": "5008093",
+          "sphereType": "1",
+          "iconId": "4",
+          "effectId": "500043",
+          "sphereMaterial": "50401:5,50402:7",
+          "needMoney": "30000"
+        },
+        {
+          "sphereId": "5008094",
+          "sphereType": "1",
+          "iconId": "10",
+          "effectId": "500073",
+          "sphereMaterial": "50701:5,50702:7",
+          "needMoney": "30000"
+        },
+        {
+          "sphereId": "5008095",
+          "sphereType": "1",
+          "iconId": "8",
+          "effectId": "500053",
+          "sphereMaterial": "50501:5,50502:7",
+          "needMoney": "30000"
+        },
+        {
+          "sphereId": "5008096",
+          "sphereType": "2",
+          "iconId": "302",
+          "effectId": "500063",
+          "sphereMaterial": "50602:21,50010:3",
+          "needMoney": "90000"
+        },
+        {
+          "sphereId": "5008097",
+          "sphereType": "5",
+          "iconId": "103",
+          "effectId": "0",
+          "sphereMaterial": "51001:1",
+          "needMoney": "75000"
+        },
+        {
+          "sphereId": "5008098",
+          "sphereType": "5",
+          "iconId": "103",
+          "effectId": "0",
+          "sphereMaterial": "51001:1",
+          "needMoney": "75000"
+        },
+        {
+          "sphereId": "5008101",
+          "sphereType": "1",
+          "iconId": "1",
+          "effectId": "500014",
+          "sphereMaterial": "50102:12,50103:4",
+          "needMoney": "60000"
+        },
+        {
+          "sphereId": "5008102",
+          "sphereType": "1",
+          "iconId": "1",
+          "effectId": "500014",
+          "sphereMaterial": "50102:12,50103:4",
+          "needMoney": "60000"
+        },
+        {
+          "sphereId": "5008103",
+          "sphereType": "1",
+          "iconId": "1",
+          "effectId": "500014",
+          "sphereMaterial": "50102:12,50103:4",
+          "needMoney": "60000"
+        },
+        {
+          "sphereId": "5008104",
+          "sphereType": "1",
+          "iconId": "2",
+          "effectId": "500024",
+          "sphereMaterial": "50202:12,50203:4",
+          "needMoney": "60000"
+        },
+        {
+          "sphereId": "5008105",
+          "sphereType": "1",
+          "iconId": "2",
+          "effectId": "500024",
+          "sphereMaterial": "50202:12,50203:4",
+          "needMoney": "60000"
+        },
+        {
+          "sphereId": "5008106",
+          "sphereType": "1",
+          "iconId": "2",
+          "effectId": "500024",
+          "sphereMaterial": "50202:12,50203:4",
+          "needMoney": "60000"
+        },
+        {
+          "sphereId": "5008107",
+          "sphereType": "1",
+          "iconId": "2",
+          "effectId": "500024",
+          "sphereMaterial": "50202:12,50203:4",
+          "needMoney": "60000"
+        },
+        {
+          "sphereId": "5008108",
+          "sphereType": "1",
+          "iconId": "3",
+          "effectId": "500034",
+          "sphereMaterial": "50302:12,50303:4",
+          "needMoney": "60000"
+        },
+        {
+          "sphereId": "5008109",
+          "sphereType": "1",
+          "iconId": "3",
+          "effectId": "500034",
+          "sphereMaterial": "50302:12,50303:4",
+          "needMoney": "60000"
+        },
+        {
+          "sphereId": "5008110",
+          "sphereType": "1",
+          "iconId": "3",
+          "effectId": "500034",
+          "sphereMaterial": "50302:12,50303:4",
+          "needMoney": "60000"
+        },
+        {
+          "sphereId": "5008111",
+          "sphereType": "1",
+          "iconId": "4",
+          "effectId": "500044",
+          "sphereMaterial": "50402:12,50403:4",
+          "needMoney": "60000"
+        },
+        {
+          "sphereId": "5008112",
+          "sphereType": "1",
+          "iconId": "4",
+          "effectId": "500044",
+          "sphereMaterial": "50402:12,50403:4",
+          "needMoney": "60000"
+        },
+        {
+          "sphereId": "5008113",
+          "sphereType": "1",
+          "iconId": "4",
+          "effectId": "500044",
+          "sphereMaterial": "50402:12,50403:4",
+          "needMoney": "60000"
+        },
+        {
+          "sphereId": "5008114",
+          "sphereType": "1",
+          "iconId": "9",
+          "effectId": "500064",
+          "sphereMaterial": "50602:12,50603:4",
+          "needMoney": "60000"
+        },
+        {
+          "sphereId": "5008115",
+          "sphereType": "1",
+          "iconId": "10",
+          "effectId": "500074",
+          "sphereMaterial": "50702:12,50703:4",
+          "needMoney": "60000"
+        },
+        {
+          "sphereId": "5008116",
+          "sphereType": "2",
+          "iconId": "303",
+          "effectId": "500054",
+          "sphereMaterial": "50503:12,50010:5",
+          "needMoney": "180000"
+        },
+        {
+          "sphereId": "5008117",
+          "sphereType": "5",
+          "iconId": "103",
+          "effectId": "0",
+          "sphereMaterial": "51001:1",
+          "needMoney": "150000"
+        },
+        {
+          "sphereId": "5008118",
+          "sphereType": "5",
+          "iconId": "103",
+          "effectId": "0",
+          "sphereMaterial": "51001:1",
+          "needMoney": "150000"
+        },
+        {
+          "sphereId": "5008119",
+          "sphereType": "6",
+          "iconId": "104",
+          "effectId": "500101",
+          "sphereMaterial": "52002:1",
+          "needMoney": "150000"
+        },
+        {
           "sphereId": "9000001",
           "sphereType": "1",
           "iconId": "1",

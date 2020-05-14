@@ -743,14 +743,6 @@
           "assetNum": "1"
         },
         {
-          "loginBonusRewardId": "1886",
-          "loginBonusId": "374",
-          "loginCount": "1",
-          "assetCategoryId": "11",
-          "assetValue": "3990",
-          "assetNum": "1"
-        },
-        {
           "loginBonusRewardId": "1911",
           "loginBonusId": "377",
           "loginCount": "1",
@@ -997,22 +989,6 @@
           "assetCategoryId": "21",
           "assetValue": "80005",
           "assetNum": "1"
-        },
-        {
-          "loginBonusRewardId": "1943",
-          "loginBonusId": "379",
-          "loginCount": "1",
-          "assetCategoryId": "2",
-          "assetValue": "0",
-          "assetNum": "10"
-        },
-        {
-          "loginBonusRewardId": "1944",
-          "loginBonusId": "380",
-          "loginCount": "1",
-          "assetCategoryId": "1",
-          "assetValue": "28000002",
-          "assetNum": "15"
         },
         {
           "loginBonusRewardId": "1945",

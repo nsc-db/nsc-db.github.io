@@ -345,5 +345,17 @@
           "cardId": "50060401",
           "normalPanelList": "5007001,5007002,5007003",
           "specialPanelList": "5007004,5007005,5007006"
+        },
+        {
+          "sphereBoardId": "5000009",
+          "boardName": "五尾",
+          "boardDescription": "ハン【剛破の蒸角】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "50060501",
+          "normalPanelList": "5008001,5008002,5008003",
+          "specialPanelList": "5008004,5008005,5008006"
         }
       ]

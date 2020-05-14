@@ -9190,6 +9190,20 @@
           "assetNum": "1"
         },
         {
+          "worldPhaseMissionRewardId": "600103",
+          "worldPhaseId": "600109",
+          "assetCategoryId": "30",
+          "assetValue": "10",
+          "assetNum": "1"
+        },
+        {
+          "worldPhaseMissionRewardId": "600104",
+          "worldPhaseId": "600110",
+          "assetCategoryId": "30",
+          "assetValue": "10",
+          "assetNum": "1"
+        },
+        {
           "worldPhaseMissionRewardId": "610001",
           "worldPhaseId": "610001",
           "assetCategoryId": "1",

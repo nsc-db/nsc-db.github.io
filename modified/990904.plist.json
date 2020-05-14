@@ -1910,6 +1910,19 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
+          "worldStageId": "60012",
+          "worldAreaId": "11",
+          "priority": "9999",
+          "name": "忍連合戦第二節",
+          "description": "忍連合戦第二節",
+          "notice": "忍連合戦第二節",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
           "worldStageId": "70001",
           "worldAreaId": "12",
           "priority": "100",
@@ -2162,7 +2175,20 @@
           "priority": "99",
           "name": "マイト・ガイの青春乱舞！潜在覚醒修業！！",
           "description": "【乱舞キャラ】【潜在覚醒素材 獲得任務】\r\n  素材を集めて、潜在覚醒盤を解放しよう！",
-          "notice": "※任務は告知なく終了・内容変更となる場合がございます。\r\n※この任務は、Ptブーストや特効キャラの特効対象外となります。\r\n※同種の鍵については、有効期限が早いものから先に消費されます。",
+          "notice": "※任務は告知なく終了・内容変更となる場合がございます。\r\n※同種の鍵については、有効期限が早いものから先に消費されます。",
+          "type": "101",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
+          "worldStageId": "70022",
+          "worldAreaId": "12",
+          "priority": "98",
+          "name": "ロック・リーの青春！潜在覚醒修業！！",
+          "description": "【潜在覚醒素材 獲得任務】\r\n  素材を集めて、潜在覚醒盤を解放しよう！",
+          "notice": "※任務は告知なく終了・内容変更となる場合がございます。\r\n※同種の鍵については、有効期限が早いものから先に消費されます。",
           "type": "101",
           "prerequisiteWorldStageId": "0",
           "openWeek": null,

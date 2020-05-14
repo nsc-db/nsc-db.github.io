@@ -652,7 +652,7 @@
         },
         {
           "defineKey": "asset_material_card_limit",
-          "defineValue": "5000"
+          "defineValue": "9999"
         },
         {
           "defineKey": "is_enable_card_type_filter",
@@ -684,7 +684,7 @@
         },
         {
           "defineKey": "asset_material_card_limit_all",
-          "defineValue": "5000"
+          "defineValue": "9999"
         },
         {
           "defineKey": "max_normal_sphere_count",
@@ -761,5 +761,21 @@
         {
           "defineKey": "exchange_max_count",
           "defineValue": "50"
+        },
+        {
+          "defineKey": "arena_rematching_limit",
+          "defineValue": "3"
+        },
+        {
+          "defineKey": "arena_rematching_recovery_time",
+          "defineValue": "12:00:00"
+        },
+        {
+          "defineKey": "arena_new_feature_open_time",
+          "defineValue": "2020/05/18 12:00:00"
+        },
+        {
+          "defineKey": "arena_remove_slot_num",
+          "defineValue": "{\"1\":1,\"2\":2}"
         }
       ]

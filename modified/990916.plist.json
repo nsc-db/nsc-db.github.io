@@ -611,6 +611,18 @@
           "needCount": "1"
         },
         {
+          "worldPhaseKeyId": "103",
+          "keyGroupId": "10000",
+          "worldPhaseId": "600109",
+          "needCount": "1"
+        },
+        {
+          "worldPhaseKeyId": "104",
+          "keyGroupId": "10000",
+          "worldPhaseId": "600110",
+          "needCount": "1"
+        },
+        {
           "worldPhaseKeyId": "1001",
           "keyGroupId": "10000",
           "worldPhaseId": "610001",

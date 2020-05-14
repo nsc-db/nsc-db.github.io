@@ -8382,5 +8382,70 @@
           "appUiId": "1694",
           "uiKey": "DailyGacha",
           "text": "毎日無料ガチャ"
+        },
+        {
+          "appUiId": "1695",
+          "uiKey": "RefreshFreeArenaUserList",
+          "text": "対戦相手の一覧を更新しますか？"
+        },
+        {
+          "appUiId": "1696",
+          "uiKey": "CantRefreshArenaUserList",
+          "text": "もう対戦相手の更新を行えません。\r\n\r\n※12時にリセットされます。"
+        },
+        {
+          "appUiId": "1697",
+          "uiKey": "ConfirmResetArenaUserListRefreshCount",
+          "text": "本日分の対戦相手の更新回数が無くなりました。\r\n忍石を使用して更新回数をリセットしますか？"
+        },
+        {
+          "appUiId": "1698",
+          "uiKey": "ArenaLeaderSkill",
+          "text": "部隊長スキル"
+        },
+        {
+          "appUiId": "1699",
+          "uiKey": "ArenaDeckConfirmBack",
+          "text": "部隊編成が変更されています。\r\n変更を保存しますか？"
+        },
+        {
+          "appUiId": "1700",
+          "uiKey": "ArenaDeckConfirmDecide",
+          "text": "編成を確定しますか？"
+        },
+        {
+          "appUiId": "1701",
+          "uiKey": "ArenaDeckConfirmBattle",
+          "text": "この編成で対戦しますか？"
+        },
+        {
+          "appUiId": "1702",
+          "uiKey": "FinishResetReloadCount",
+          "text": "更新回数をリセットしました。"
+        },
+        {
+          "appUiId": "1703",
+          "uiKey": "ArenaUserListResetCountFormat",
+          "text": "あと%d回"
+        },
+        {
+          "appUiId": "1704",
+          "uiKey": "ArenaDeckConfirmSummonBeforeBattle",
+          "text": "編成可能な乱舞キャラが存在します\r\n乱舞キャラを編成しますか？"
+        },
+        {
+          "appUiId": "1705",
+          "uiKey": "ArenaDeckConfirmSummon",
+          "text": "編成可能な乱舞キャラが存在します\r\n乱舞キャラを編成しますか？"
+        },
+        {
+          "appUiId": "1706",
+          "uiKey": "ArenaShortageCard",
+          "text": "忍連合戦は異なる忍を6体以上\r\n所持している状態で参加可能です。"
+        },
+        {
+          "appUiId": "1707",
+          "uiKey": "ArenaTargetResetText",
+          "text": "※12時リセット"
         }
       ]
