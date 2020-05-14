@@ -13650,6 +13650,19 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1066",
+          "name": "剛破の蒸角",
+          "description": "攻撃を受けたとき低確率でカウントを1減少する、素早さ30%アップ",
+          "effectIdx1": "2630",
+          "effectIdx2": "110",
+          "effectIdx3": "0",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

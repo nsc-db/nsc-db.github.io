@@ -22527,6 +22527,24 @@ window.ability=[
           "effectIdx3": "1057"
         },
         {
+          "abilityId": "2558",
+          "abilityName": "共心沸騰",
+          "abilityDescription": "防御力100%アップ",
+          "abilityEffectDescription": "防御力100%アップ",
+          "effectIdx1": "12099",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2559",
+          "abilityName": "剛力疾駆",
+          "abilityDescription": "行動時にチャクラ20%回復",
+          "abilityEffectDescription": "行動時にチャクラ20%回復",
+          "effectIdx1": "1768",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -23787,6 +23805,51 @@ window.ability=[
           "effectIdx3": "2906"
         },
         {
+          "abilityId": "100084",
+          "abilityName": "原初のチャクラ",
+          "abilityDescription": "最大チャクラが250アップし、素早さが250%アップする",
+          "abilityEffectDescription": "最大チャクラが250アップし、素早さが250%アップする",
+          "effectIdx1": "20044",
+          "effectIdx2": "2538",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "100085",
+          "abilityName": "無比なる木遁使い",
+          "abilityDescription": "最大チャクラ量を250アップ&amp;行動後チャクラが30%回復&amp;キャンセル無効",
+          "abilityEffectDescription": "最大チャクラ量を250アップ&amp;行動後チャクラが30%回復&amp;キャンセル無効",
+          "effectIdx1": "20044",
+          "effectIdx2": "2524",
+          "effectIdx3": "1751"
+        },
+        {
+          "abilityId": "100086",
+          "abilityName": "里を守護する意志",
+          "abilityDescription": "最大HPが250%アップし、攻撃力とスキルダメージが200%アップする",
+          "abilityEffectDescription": "最大HPが250%アップし、攻撃力とスキルダメージが200%アップする",
+          "effectIdx1": "10113",
+          "effectIdx2": "1285",
+          "effectIdx3": "30019"
+        },
+        {
+          "abilityId": "100087",
+          "abilityName": "尽きぬ闘争心",
+          "abilityDescription": "最大チャクラ量を250アップ&amp;行動後チャクラが30%回復&amp;キャンセル無効",
+          "abilityEffectDescription": "最大チャクラ量を250アップ&amp;行動後チャクラが30%回復&amp;キャンセル無効",
+          "effectIdx1": "20044",
+          "effectIdx2": "2524",
+          "effectIdx3": "1751"
+        },
+        {
+          "abilityId": "100088",
+          "abilityName": "九尾を操る瞳力",
+          "abilityDescription": "最大HPが250%アップし、攻撃力とスキルダメージが200%アップする",
+          "abilityEffectDescription": "最大HPが250%アップし、攻撃力とスキルダメージが200%アップする",
+          "effectIdx1": "10113",
+          "effectIdx2": "1285",
+          "effectIdx3": "30019"
+        },
+        {
           "abilityId": "200001",
           "abilityName": "心属性特化",
           "abilityDescription": "心属性へのスキル攻撃時に相手の耐性を弱点とする。心属性からのダメージを50%カット",
@@ -24629,6 +24692,15 @@ window.ability=[
           "abilityDescription": "敵に破神が生存で素早さ60%アップ",
           "abilityEffectDescription": "敵に破神が生存で素早さ60%アップ",
           "effectIdx1": "2988",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "310052",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "超忍・創・滅キャラから受けるダメージ50%カット",
+          "abilityEffectDescription": "超忍・創・滅キャラから受けるダメージ50%カット",
+          "effectIdx1": "2708",
           "effectIdx2": "0",
           "effectIdx3": "0"
         },
