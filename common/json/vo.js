@@ -3372,6 +3372,18 @@ window.vo=[
           "voiceDeath": "naruto_death_02_07"
         },
         {
+          "cardVoiceId": "285",
+          "cardId": "20060415",
+          "dirName": "sasuke",
+          "evolutionStep": "",
+          "voiceAppear": "sasuke_skill_02_37",
+          "voiceSkill1": "sasuke_skill_02_36",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "sasuke_win_02_01",
+          "voiceDeath": "sasuke_death_02_10"
+        },
+        {
           "cardVoiceId": "286",
           "cardId": "20060411",
           "dirName": "naruto",
@@ -3394,6 +3406,54 @@ window.vo=[
           "voicePursuit": "",
           "voiceWin": "sasuke_win_01_02",
           "voiceDeath": "sasuke_death_01_02"
+        },
+        {
+          "cardVoiceId": "288",
+          "cardId": "20060502",
+          "dirName": "deidara",
+          "evolutionStep": "",
+          "voiceAppear": "deidara_battle_02_03",
+          "voiceSkill1": "deidara_attack_02_03",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "deidara_win_02_02",
+          "voiceDeath": "deidara_damage_02_01"
+        },
+        {
+          "cardVoiceId": "289",
+          "cardId": "20060506",
+          "dirName": "madara",
+          "evolutionStep": "",
+          "voiceAppear": "madara_battle_02_02",
+          "voiceSkill1": "madara_battle_02_01",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "madara_win_02_01",
+          "voiceDeath": "madara_death_02_03"
+        },
+        {
+          "cardVoiceId": "290",
+          "cardId": "20060504",
+          "dirName": "itachi",
+          "evolutionStep": "",
+          "voiceAppear": "itachi_battle_02_01",
+          "voiceSkill1": "itachi_skill_02_10",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "itachi_win_02_03",
+          "voiceDeath": "itachi_death_02_02"
+        },
+        {
+          "cardVoiceId": "291",
+          "cardId": "20060511",
+          "dirName": "naruto",
+          "evolutionStep": "",
+          "voiceAppear": "naruto_battle_02_16",
+          "voiceSkill1": "sasuke_skill_02_29,naruto_battle_02_15,naruto_skill_02_41,sasuke_battle_02_01",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "naruto_win_02_12",
+          "voiceDeath": "naruto_death_02_07"
         },
         {
           "cardVoiceId": "8001",

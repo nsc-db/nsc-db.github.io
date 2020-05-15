@@ -3948,6 +3948,20 @@ window.charaname=[
           "gender": "1"
         },
         {
+          "charaProfileId": "60101",
+          "charaId": "601",
+          "name": "うずまきナルト＆うちはサスケ",
+          "detail": null,
+          "charaLoveAffinityGroupId": "60110",
+          "birthday": "0",
+          "constellation": "0",
+          "height": "0",
+          "weight": "0",
+          "bloodType": "0",
+          "age": "0",
+          "gender": "0"
+        },
+        {
           "charaProfileId": "100101",
           "charaId": "0",
           "name": "体のガマ",

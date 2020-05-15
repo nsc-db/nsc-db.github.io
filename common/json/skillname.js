@@ -7328,6 +7328,14 @@ window.skillname=[
           "name": "それを現実にしてやる"
         },
         {
+          "cardBattleSkillNameId": "3042",
+          "name": "0"
+        },
+        {
+          "cardBattleSkillNameId": "3043",
+          "name": "0"
+        },
+        {
           "cardBattleSkillNameId": "3044",
           "name": "五尾・角折り"
         },
