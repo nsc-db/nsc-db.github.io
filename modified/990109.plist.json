@@ -22526,6 +22526,33 @@
           "effectIdx3": "1057"
         },
         {
+          "abilityId": "2555",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "3000",
+          "effectIdx2": "3005",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2556",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "1512",
+          "effectIdx2": "874",
+          "effectIdx3": "3001"
+        },
+        {
+          "abilityId": "2557",
+          "abilityName": "勇・知属性特化",
+          "abilityDescription": "勇・知属性へのスキル攻撃時に相手の耐性を弱点とする",
+          "abilityEffectDescription": "勇・知属性へのスキル攻撃時に相手の耐性を弱点とする",
+          "effectIdx1": "229304",
+          "effectIdx2": "229404",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "2558",
           "abilityName": "共心沸騰",
           "abilityDescription": "防御力100%アップ",
@@ -24691,6 +24718,33 @@
           "abilityDescription": "敵に破神が生存で素早さ60%アップ",
           "abilityEffectDescription": "敵に破神が生存で素早さ60%アップ",
           "effectIdx1": "2988",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "310049",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "敵に神忍キャラがいると素早さ60%アップ",
+          "abilityEffectDescription": "敵に神忍キャラがいると素早さ60%アップ",
+          "effectIdx1": "3002",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "310050",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "神忍キャラからのダメージ50%カット",
+          "abilityEffectDescription": "神忍キャラからのダメージ50%カット",
+          "effectIdx1": "3003",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "310051",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "破神キャラからのダメージ50%カット",
+          "abilityEffectDescription": "破神キャラからのダメージ50%カット",
+          "effectIdx1": "3004",
           "effectIdx2": "0",
           "effectIdx3": "0"
         },

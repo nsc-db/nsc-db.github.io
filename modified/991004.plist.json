@@ -5153,6 +5153,12 @@
           "speechCharactorName": "ガマ吉"
         },
         {
+          "speechCharactorId": "874",
+          "cardId": "874",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "大筒木ハゴロモ"
+        },
+        {
           "speechCharactorId": "876",
           "cardId": "21000340",
           "speechCharactorImgId": "0",
@@ -5469,6 +5475,18 @@
           "cardId": "20040507",
           "speechCharactorImgId": "0",
           "speechCharactorName": "うちはサスケ"
+        },
+        {
+          "speechCharactorId": "962",
+          "cardId": "20030713",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "香燐"
+        },
+        {
+          "speechCharactorId": "963",
+          "cardId": "20050316",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "春野サクラ"
         },
         {
           "speechCharactorId": "1000",

@@ -22605,5 +22605,37 @@
           "crystalImageId": "305065",
           "recipeId": "30506",
           "recipeName": "マダラの無限月読"
+        },
+        {
+          "crystalId": "30511",
+          "crystalType": "3",
+          "crystalRare": "5",
+          "effectIdx1": "1840",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "0",
+          "crystalDescription": "0",
+          "crystalImageId": "305115",
+          "recipeId": "30511",
+          "recipeName": "授かりし力"
+        },
+        {
+          "crystalId": "30512",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "859",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "0",
+          "crystalDescription": "0",
+          "crystalImageId": "305125",
+          "recipeId": "30512",
+          "recipeName": "解放されし力"
         }
       ]
