@@ -7329,11 +7329,11 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "3042",
-          "name": "0"
+          "name": "陽・熔遁螺旋手裏剣"
         },
         {
           "cardBattleSkillNameId": "3043",
-          "name": "0"
+          "name": "陰・炎雷閃"
         },
         {
           "cardBattleSkillNameId": "3044",

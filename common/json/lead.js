@@ -13651,8 +13651,8 @@ window.lead=[
         },
         {
           "cardLeaderSkillId": "1065",
-          "name": "0",
-          "description": "0",
+          "name": "変革の双星",
+          "description": "全属性のスキル発動速度1段階アップ、攻撃力・防御力・素早さ100%アップ",
           "effectIdx1": "1840",
           "effectIdx2": "1832",
           "effectIdx3": "0",

@@ -3950,7 +3950,7 @@ window.charaname=[
         {
           "charaProfileId": "60101",
           "charaId": "601",
-          "name": "うずまきナルト＆うちはサスケ",
+          "name": "ナルト＆サスケ",
           "detail": null,
           "charaLoveAffinityGroupId": "60110",
           "birthday": "0",
