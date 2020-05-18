@@ -22527,18 +22527,18 @@
         },
         {
           "abilityId": "2555",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "時を超える好敵手の魂",
+          "abilityDescription": "敵に神忍がいると高確率で被攻撃時即ｱｸｼｮﾝ※被追撃時確定発動、敵に破神がいると再行動※再行動後再行動不可",
+          "abilityEffectDescription": "敵に神忍がいると高確率で被攻撃時即ｱｸｼｮﾝ※被追撃時確定発動、敵に破神がいると再行動※再行動後再行動不可",
           "effectIdx1": "3000",
           "effectIdx2": "3005",
           "effectIdx3": "0"
         },
         {
           "abilityId": "2556",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "世界を変える陰陽の相克",
+          "abilityDescription": "HP0以下で5回までHP全回復、敵に無所属がいると先制攻撃",
+          "abilityEffectDescription": "HP0以下で5回までHP全回復、敵に無所属がいると先制攻撃",
           "effectIdx1": "1512",
           "effectIdx2": "874",
           "effectIdx3": "3001"

@@ -22616,8 +22616,8 @@
           "effectIdx4": "0",
           "money": "30000",
           "saleMoney": "2500",
-          "crystalName": "0",
-          "crystalDescription": "0",
+          "crystalName": "授かりし力",
+          "crystalDescription": "スキル発動速度1段階アップ",
           "crystalImageId": "305115",
           "recipeId": "30511",
           "recipeName": "授かりし力"
@@ -22632,8 +22632,8 @@
           "effectIdx4": "0",
           "money": "30000",
           "saleMoney": "2500",
-          "crystalName": "0",
-          "crystalDescription": "0",
+          "crystalName": "解放されし力",
+          "crystalDescription": "チャクラ消費30%減少",
           "crystalImageId": "305125",
           "recipeId": "30512",
           "recipeName": "解放されし力"

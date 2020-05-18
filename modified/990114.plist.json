@@ -2442,8 +2442,8 @@
           "cardUnusualId": "248",
           "category": "3",
           "iconId": "1288",
-          "name": "0",
-          "description": "0",
+          "name": "陽印",
+          "description": "スキルダメージアップ、行動後HP回復、自身が陰印のとき、無所属キャラの耐性・スキル回避を無視で封殺",
           "subScore": "0",
           "color": "16774242",
           "type": "2"
@@ -2452,8 +2452,8 @@
           "cardUnusualId": "249",
           "category": "3",
           "iconId": "1289",
-          "name": "0",
-          "description": "0",
+          "name": "陰印",
+          "description": "素早さアップ、チャクラ消費0、自身が陽印のとき、無所属キャラの耐性・スキル回避を無視で封殺",
           "subScore": "0",
           "color": "10104574",
           "type": "2"
