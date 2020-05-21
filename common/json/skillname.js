@@ -7340,6 +7340,14 @@ window.skillname=[
           "name": "五尾・角折り"
         },
         {
+          "cardBattleSkillNameId": "3048",
+          "name": "砂縛牢・封獄"
+        },
+        {
+          "cardBattleSkillNameId": "3049",
+          "name": "砂隠れの風影として"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },

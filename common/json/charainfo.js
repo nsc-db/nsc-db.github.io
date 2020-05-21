@@ -4534,5 +4534,13 @@ window.charainfo=[
           "params": "0,",
           "limitedFlg": "120",
           "skillUrl": null
+        },
+        {
+          "gachaCardAdditionId": "20000011",
+          "targetCardId": "20060503",
+          "additionId": "0",
+          "params": "0,",
+          "limitedFlg": "120",
+          "skillUrl": null
         }
 ]

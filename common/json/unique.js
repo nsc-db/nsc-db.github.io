@@ -12886,5 +12886,17 @@ window.unique=[
           "effectIdx2": "895",
           "effectIdx3": "1638",
           "effectIdx4": "13079"
+        },
+        {
+          "crystalOverwriteEffectId": "1094",
+          "targetCrystal": "30502",
+          "description": "全スキルダメージ150%アップ、スキル発動速度1段階アップ、敵に破神キャラ生存で素早さ200%アップ",
+          "charaIds": "1302,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "794",
+          "effectIdx2": "1840",
+          "effectIdx3": "3026",
+          "effectIdx4": "0"
         }
         ]
