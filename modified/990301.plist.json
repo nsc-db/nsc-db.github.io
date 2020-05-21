@@ -22543,6 +22543,22 @@
           "recipeName": "デイダラの心臓"
         },
         {
+          "crystalId": "30502",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "694",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "守鶴の矛",
+          "crystalDescription": "全スキルダメージ80%アップ",
+          "crystalImageId": "305025",
+          "recipeId": "30502",
+          "recipeName": "守鶴の矛"
+        },
+        {
           "crystalId": "30503",
           "crystalType": "3",
           "crystalRare": "5",
