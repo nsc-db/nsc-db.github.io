@@ -1663,6 +1663,19 @@
           "selectType": "1"
         },
         {
+          "itemId": "11131",
+          "name": "6月限定ラーメン(2020)",
+          "description": "スタミナを全回復するラーメン（6月30日まで期間限定）",
+          "resultWord": "0",
+          "itemCategoryId": "1",
+          "itemValue": "1000000",
+          "itemNum": "0",
+          "itemImageId": "11020",
+          "needCount": "1",
+          "priority": "1",
+          "selectType": "1"
+        },
+        {
           "itemId": "15001",
           "name": "共闘コイン",
           "description": "共闘コインガチャの実行に必要なコイン。",
