@@ -7340,12 +7340,32 @@ window.skillname=[
           "name": "五尾・角折り"
         },
         {
+          "cardBattleSkillNameId": "3045",
+          "name": "超獣偽画・獅子乱迅"
+        },
+        {
+          "cardBattleSkillNameId": "3046",
+          "name": "力…弱いな……君…"
+        },
+        {
+          "cardBattleSkillNameId": "3047",
+          "name": "もう手はまわしてある…"
+        },
+        {
           "cardBattleSkillNameId": "3048",
           "name": "砂縛牢・封獄"
         },
         {
           "cardBattleSkillNameId": "3049",
           "name": "砂隠れの風影として"
+        },
+        {
+          "cardBattleSkillNameId": "3050",
+          "name": "多連拳"
+        },
+        {
+          "cardBattleSkillNameId": "3051",
+          "name": "ちゃっちゃと殺すからもう！"
         },
         {
           "cardBattleSkillNameId": "10136",

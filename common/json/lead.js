@@ -13675,6 +13675,32 @@ window.lead=[
           "target2Category": "0",
           "target2Param": "0"
         },
+         {
+          "cardLeaderSkillId": "1067",
+          "name": "生動の象筆",
+          "description": "木ノ葉隠れ里所属のキャラは5回行動までスキップ無効、行動毎にHP30％回復",
+          "effectIdx1": "2672",
+          "effectIdx2": "894",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "1068",
+          "name": "根の掌握者",
+          "description": "木ノ葉隠れ里所属のキャラは5回行動までキャンセル無効、行動毎にチャクラ30％回復",
+          "effectIdx1": "2963",
+          "effectIdx2": "820",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
         {
           "cardLeaderSkillId": "1069",
           "name": "闘忍の覇者",
@@ -13685,6 +13711,19 @@ window.lead=[
           "compType": "0",
           "target1Category": "0",
           "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "1070",
+          "name": "虐略の双魂",
+          "description": "音隠れの里所属のキャラクターの攻撃力と素早さを80％アップ",
+          "effectIdx1": "550",
+          "effectIdx2": "13079",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "4",
           "target2Category": "0",
           "target2Param": "0"
         },
