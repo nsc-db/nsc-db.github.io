@@ -6029,6 +6029,15 @@
           "category": "0"
         },
         {
+          "cardBehaveAffectId": "13000017",
+          "timing": "1",
+          "func": "34",
+          "params": "271,0",
+          "comp": "66",
+          "compParams": "271",
+          "category": "0"
+        },
+        {
           "cardBehaveAffectId": "13000100",
           "timing": "1",
           "func": "20",
@@ -8069,6 +8078,15 @@
           "params": "140,5",
           "comp": "17",
           "compParams": "5",
+          "category": "0"
+        },
+        {
+          "cardBehaveAffectId": "20045370",
+          "timing": "1",
+          "func": "20",
+          "params": "214,0",
+          "comp": "3",
+          "compParams": "1",
           "category": "0"
         },
         {

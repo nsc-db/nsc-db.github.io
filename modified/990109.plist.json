@@ -22643,6 +22643,24 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2568",
+          "abilityName": "共栄を図る英才",
+          "abilityDescription": "1回行動まで被攻撃時確率で攻撃者に短い間神狂乱付与、死亡時に味方全体を託状態付与、200%の確率でスキル回避",
+          "abilityEffectDescription": "1回行動まで被攻撃時確率で攻撃者に短い間神狂乱付与、死亡時に味方全体を託状態付与、200%の確率でスキル回避",
+          "effectIdx1": "3027",
+          "effectIdx2": "2268",
+          "effectIdx3": "1724"
+        },
+        {
+          "abilityId": "2569",
+          "abilityName": "闘争防ぐ究極幻術",
+          "abilityDescription": "HP0以下で3回耐える、行動後に素早さ100%ｱｯﾌﾟ（最大500%）、超忍・創・滅キャラからのダメージ50%カット",
+          "abilityEffectDescription": "HP0以下で3回耐える、行動後に素早さ100%ｱｯﾌﾟ（最大500%）、超忍・創・滅キャラからのダメージ50%カット",
+          "effectIdx1": "3028",
+          "effectIdx2": "1789",
+          "effectIdx3": "2708"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -24844,6 +24862,15 @@
           "abilityDescription": "超忍・創・滅キャラから受けるダメージ50%カット",
           "abilityEffectDescription": "超忍・創・滅キャラから受けるダメージ50%カット",
           "effectIdx1": "2708",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "310053",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "行動毎に素早さ50%アップ（最大500%）",
+          "abilityEffectDescription": "行動毎に素早さ50%アップ（最大500%）",
+          "effectIdx1": "3029",
           "effectIdx2": "0",
           "effectIdx3": "0"
         },

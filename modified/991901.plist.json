@@ -299,6 +299,18 @@
           "specialPanelList": "9100022,9100023,9100024"
         },
         {
+          "sphereBoardId": "50022",
+          "boardName": "Temp_Ct=&gt;90_勇属性_の潜在覚醒盤",
+          "boardDescription": "うちはシスイ【創幻の至眼】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20060510",
+          "normalPanelList": "9100025,9100026,9100027",
+          "specialPanelList": "9100028,9100029,9100030"
+        },
+        {
           "sphereBoardId": "5000001",
           "boardName": "ガマブン太",
           "boardDescription": "うずまきナルト【救う想いと仁義の共闘】",

@@ -2659,6 +2659,16 @@
           "type": "3"
         },
         {
+          "cardUnusualId": "271",
+          "category": "4",
+          "iconId": "1324",
+          "name": "神狂乱",
+          "description": "攻撃・素早さ・会心力・会心率をアップし各種状態を解除＆無効化。行動後味方に高確率で神狂乱状態付与",
+          "subScore": "0",
+          "color": "11141120",
+          "type": "3"
+        },
+        {
           "cardUnusualId": "272",
           "category": "5",
           "iconId": "0",
