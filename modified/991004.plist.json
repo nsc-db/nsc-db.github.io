@@ -5213,6 +5213,12 @@
           "speechCharactorName": "テンゾウ"
         },
         {
+          "speechCharactorId": "888",
+          "cardId": "888",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "油女シノ"
+        },
+        {
           "speechCharactorId": "889",
           "cardId": "727",
           "speechCharactorImgId": "0",
@@ -5405,6 +5411,12 @@
           "speechCharactorName": "うみのイルカ"
         },
         {
+          "speechCharactorId": "922",
+          "cardId": "922",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "赤丸"
+        },
+        {
           "speechCharactorId": "923",
           "cardId": "923",
           "speechCharactorImgId": "0",
@@ -5433,6 +5445,18 @@
           "cardId": "20001646",
           "speechCharactorImgId": "0",
           "speechCharactorName": "照美メイ"
+        },
+        {
+          "speechCharactorId": "928",
+          "cardId": "928",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うずまきナルト"
+        },
+        {
+          "speechCharactorId": "929",
+          "cardId": "929",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うずまきナルト"
         },
         {
           "speechCharactorId": "930",
@@ -5477,6 +5501,18 @@
           "speechCharactorName": "うちはサスケ"
         },
         {
+          "speechCharactorId": "959",
+          "cardId": "959",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "トビ"
+        },
+        {
+          "speechCharactorId": "960",
+          "cardId": "960",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはサスケ"
+        },
+        {
           "speechCharactorId": "962",
           "cardId": "20030713",
           "speechCharactorImgId": "0",
@@ -5487,6 +5523,24 @@
           "cardId": "20050316",
           "speechCharactorImgId": "0",
           "speechCharactorName": "春野サクラ"
+        },
+        {
+          "speechCharactorId": "971",
+          "cardId": "20001773",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "サイ"
+        },
+        {
+          "speechCharactorId": "972",
+          "cardId": "20001515",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "はたけカカシ"
+        },
+        {
+          "speechCharactorId": "974",
+          "cardId": "20040509",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "トビ"
         },
         {
           "speechCharactorId": "1000",
