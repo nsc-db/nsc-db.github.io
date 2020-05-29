@@ -13675,7 +13675,7 @@ window.lead=[
           "target2Category": "0",
           "target2Param": "0"
         },
-         {
+        {
           "cardLeaderSkillId": "1067",
           "name": "生動の象筆",
           "description": "木ノ葉隠れ里所属のキャラは5回行動までスキップ無効、行動毎にHP30％回復",
@@ -13724,6 +13724,19 @@ window.lead=[
           "compType": "1",
           "target1Category": "2",
           "target1Param": "4",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "1071",
+          "name": "創幻の至眼",
+          "description": "木ノ葉隠れの里所属の素早さ100%アップ、確率でスキル回避",
+          "effectIdx1": "13099",
+          "effectIdx2": "734",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
           "target2Category": "0",
           "target2Param": "0"
         },

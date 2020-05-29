@@ -22718,5 +22718,37 @@ window.gear=[
           "crystalImageId": "305125",
           "recipeId": "30512",
           "recipeName": "解放されし力"
+        },
+        {
+          "crystalId": "30513",
+          "crystalType": "3",
+          "crystalRare": "5",
+          "effectIdx1": "1772",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "シスイの刀留め",
+          "crystalDescription": "弱体無効",
+          "crystalImageId": "305135",
+          "recipeId": "30513",
+          "recipeName": "シスイの刀留め"
+        },
+        {
+          "crystalId": "30514",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "682",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "最強の幻術の力",
+          "crystalDescription": "全スキルダメージ50%アップ",
+          "crystalImageId": "305145",
+          "recipeId": "30514",
+          "recipeName": "最強の幻術の力"
         }
 ]

@@ -22572,6 +22572,42 @@ window.ability=[
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2560",
+          "abilityName": "画人の気韻",
+          "abilityDescription": "ﾊﾞﾄﾙ開始時高確率で一番素早い敵を「超獣偽画・獅子乱迅」で急襲攻撃（ﾁｬｸﾗ中回復）、行動後HP・ﾁｬｸﾗ31％回復",
+          "abilityEffectDescription": "ﾊﾞﾄﾙ開始時高確率で一番素早い敵を「超獣偽画・獅子乱迅」で急襲攻撃（ﾁｬｸﾗ中回復）、行動後HP・ﾁｬｸﾗ31％回復",
+          "effectIdx1": "3006",
+          "effectIdx2": "3009",
+          "effectIdx3": "2065"
+        },
+        {
+          "abilityId": "2561",
+          "abilityName": "命与の画才",
+          "abilityDescription": "HP0以下で2回耐え、耐えた時高確率でHP全回復、素早さ150％アップ",
+          "abilityEffectDescription": "HP0以下で2回耐え、耐えた時高確率でHP全回復、素早さ150％アップ",
+          "effectIdx1": "1057",
+          "effectIdx2": "2894",
+          "effectIdx3": "967"
+        },
+        {
+          "abilityId": "2562",
+          "abilityName": "闇より出でし傑物",
+          "abilityDescription": "自身死亡時、敵全体を確率で長い間尽状態＆敵に超忍が生存で敵全体を確実に長い間尽状態＆ｽｷﾙ発動速度1段階ﾀﾞｳﾝ",
+          "abilityEffectDescription": "自身死亡時、敵全体を確率で長い間尽状態＆敵に超忍が生存で敵全体を確実に長い間尽状態＆ｽｷﾙ発動速度1段階ﾀﾞｳﾝ",
+          "effectIdx1": "3010",
+          "effectIdx2": "3011",
+          "effectIdx3": "3012"
+        },
+        {
+          "abilityId": "2563",
+          "abilityName": "暗躍の眼光",
+          "abilityDescription": "HP0以下で1回HP全回復、素早さ150％アップ",
+          "abilityEffectDescription": "HP0以下で1回HP全回復、素早さ150％アップ",
+          "effectIdx1": "312",
+          "effectIdx2": "874",
+          "effectIdx3": "967"
+        },
+        {
           "abilityId": "2564",
           "abilityName": "繋がりを守る覚悟",
           "abilityDescription": "地形効果無効、最大チャクラ量150アップ、バトル開始時にチャクラ40%回復",
@@ -22588,6 +22624,42 @@ window.ability=[
           "effectIdx1": "3018",
           "effectIdx2": "3019",
           "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2566",
+          "abilityName": "内に宿す狂兄",
+          "abilityDescription": "HP0以下で1回耐え、確率でスキル回避",
+          "abilityEffectDescription": "HP0以下で1回耐え、確率でスキル回避",
+          "effectIdx1": "312",
+          "effectIdx2": "1423",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2567",
+          "abilityName": "予測不能の手数",
+          "abilityDescription": "HP80%以上の時、スキルダメージが80%アップ＆スキル発動速度1段階アップ",
+          "abilityEffectDescription": "HP80%以上の時、スキルダメージが80%アップ＆スキル発動速度1段階アップ",
+          "effectIdx1": "31707",
+          "effectIdx2": "1089",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2568",
+          "abilityName": "共栄を図る英才",
+          "abilityDescription": "1回行動まで被攻撃時確率で攻撃者に短い間神狂乱付与、死亡時に味方全体を託状態付与、200%の確率でスキル回避",
+          "abilityEffectDescription": "1回行動まで被攻撃時確率で攻撃者に短い間神狂乱付与、死亡時に味方全体を託状態付与、200%の確率でスキル回避",
+          "effectIdx1": "3027",
+          "effectIdx2": "2268",
+          "effectIdx3": "1724"
+        },
+        {
+          "abilityId": "2569",
+          "abilityName": "闘争防ぐ究極幻術",
+          "abilityDescription": "HP0以下で3回耐える、行動後に素早さ100%ｱｯﾌﾟ（最大500%）、超忍・創・滅キャラからのダメージ50%カット",
+          "abilityEffectDescription": "HP0以下で3回耐える、行動後に素早さ100%ｱｯﾌﾟ（最大500%）、超忍・創・滅キャラからのダメージ50%カット",
+          "effectIdx1": "3028",
+          "effectIdx2": "1789",
+          "effectIdx3": "2708"
         },
         {
           "abilityId": "10000",
@@ -24791,6 +24863,15 @@ window.ability=[
           "abilityDescription": "超忍・創・滅キャラから受けるダメージ50%カット",
           "abilityEffectDescription": "超忍・創・滅キャラから受けるダメージ50%カット",
           "effectIdx1": "2708",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "310053",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "行動毎に素早さ50%アップ（最大500%）",
+          "abilityEffectDescription": "行動毎に素早さ50%アップ（最大500%）",
+          "effectIdx1": "3029",
           "effectIdx2": "0",
           "effectIdx3": "0"
         },

@@ -7368,6 +7368,14 @@ window.skillname=[
           "name": "ちゃっちゃと殺すからもう！"
         },
         {
+          "cardBattleSkillNameId": "3052",
+          "name": "別天神・叡幻ノ瞳"
+        },
+        {
+          "cardBattleSkillNameId": "3053",
+          "name": "共存を考えてもらいます"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },
