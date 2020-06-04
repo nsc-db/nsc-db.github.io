@@ -22750,5 +22750,37 @@ window.gear=[
           "crystalImageId": "305145",
           "recipeId": "30514",
           "recipeName": "最強の幻術の力"
+        },
+        {
+          "crystalId": "30601",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "1114",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "猿魔の根付",
+          "crystalDescription": "バトル開始時にチャクラ30%回復",
+          "crystalImageId": "306015",
+          "recipeId": "30601",
+          "recipeName": "猿魔の根付"
+        },
+        {
+          "crystalId": "30602",
+          "crystalType": "3",
+          "crystalRare": "5",
+          "effectIdx1": "775",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "ヒルゼンの頭巾",
+          "crystalDescription": "弱体と状態異常を軽減",
+          "crystalImageId": "306025",
+          "recipeId": "30602",
+          "recipeName": "ヒルゼンの頭巾"
         }
 ]
