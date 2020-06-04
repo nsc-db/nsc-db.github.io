@@ -389,19 +389,6 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
-          "worldStageId": "1334",
-          "worldAreaId": "5",
-          "priority": "4",
-          "name": "月下に舞う輪廻の瞳",
-          "description": "初回クリア報酬はすべてのランクで忍石獲得可能！\r\n個人Ptを集めて固有忍具や育成素材を獲得しよう！",
-          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
-          "type": "0",
-          "prerequisiteWorldStageId": "0",
-          "openWeek": null,
-          "openTime": "0000.00.00 00:00:00",
-          "closeTime": "0000.00.00 00:00:00"
-        },
-        {
           "worldStageId": "1335",
           "worldAreaId": "5",
           "priority": "4",
@@ -441,11 +428,37 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
+          "worldStageId": "1338",
+          "worldAreaId": "5",
+          "priority": "5",
+          "name": "大激闘任務 -水無月の陣-",
+          "description": "ランパートではドロップではなく\r\nクリア時に個人Ptを獲得できます。",
+          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
           "worldStageId": "2092",
           "worldAreaId": "5",
           "priority": "5",
           "name": "テンテンの忍具指南コレクション",
           "description": "個人Ptを集めて忍具チケットと交換！\r\n特別達成報酬は全て忍石！\r\n※今回獲得できる個人Ptは5月交換所のみ\r\n適用されます。",
+          "notice": "0",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
+          "worldStageId": "2093",
+          "worldAreaId": "5",
+          "priority": "5",
+          "name": "テンテンの忍具指南コレクション",
+          "description": "個人Ptを集めて忍具チケットと交換！\r\n特別達成報酬は全て忍石！\r\n※今回獲得できる個人Ptは6月交換所のみ\r\n適用されます。",
           "notice": "0",
           "type": "0",
           "prerequisiteWorldStageId": "0",
@@ -486,19 +499,6 @@
           "name": "キング・オブ・ダメラン-特別篇-～総合～",
           "description": "0",
           "notice": "0",
-          "type": "0",
-          "prerequisiteWorldStageId": "0",
-          "openWeek": null,
-          "openTime": "0000.00.00 00:00:00",
-          "closeTime": "0000.00.00 00:00:00"
-        },
-        {
-          "worldStageId": "4117",
-          "worldAreaId": "5",
-          "priority": "1",
-          "name": "お前はどこまで見えている",
-          "description": "Ptランキング開催！\r\n初回クリア報酬は全て忍石獲得可能！\r\n個人Ptはイベント期間中のみ加算されます",
-          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
           "type": "0",
           "prerequisiteWorldStageId": "0",
           "openWeek": null,
@@ -1377,6 +1377,19 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
+          "worldStageId": "8058",
+          "worldAreaId": "9",
+          "priority": "0",
+          "name": "第四十五回 昇級試験",
+          "description": "この任務は、他のユーザーの班と戦う任務です\r\n1度の挑戦で行うバトルの回数は、1回となります\r\n連続で勝利すると連続勝利数ボーナスが発生、より多くのPtを獲得可能です\r\n※全キャラクターの全ダメージ及びスキル発動速度は調整が行われております",
+          "notice": "0",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
           "worldStageId": "9000",
           "worldAreaId": "4",
           "priority": "0",
@@ -1895,19 +1908,6 @@
           "openWeek": null,
           "openTime": "2017.12.31 17:00:00",
           "closeTime": "2018.01.04 15:59:59"
-        },
-        {
-          "worldStageId": "60011",
-          "worldAreaId": "11",
-          "priority": "9999",
-          "name": "忍連合戦",
-          "description": "忍連合戦",
-          "notice": "忍連合戦",
-          "type": "0",
-          "prerequisiteWorldStageId": "0",
-          "openWeek": null,
-          "openTime": "0000.00.00 00:00:00",
-          "closeTime": "0000.00.00 00:00:00"
         },
         {
           "worldStageId": "60012",

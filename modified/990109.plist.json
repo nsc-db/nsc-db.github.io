@@ -22661,6 +22661,42 @@
           "effectIdx3": "2708"
         },
         {
+          "abilityId": "2570",
+          "abilityName": "風刃近接格闘",
+          "abilityDescription": "班の木ノ葉隠れのキャラ1体（自身含む）につき、攻撃力と素早さを20%アップ",
+          "abilityEffectDescription": "班の木ノ葉隠れのキャラ1体（自身含む）につき、攻撃力と素早さを20%アップ",
+          "effectIdx1": "1106",
+          "effectIdx2": "687",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2571",
+          "abilityName": "先陣を切る覚悟",
+          "abilityDescription": "3回行動するまで確率でスキル回避、HP0以下で1回だけ耐える",
+          "abilityEffectDescription": "3回行動するまで確率でスキル回避、HP0以下で1回だけ耐える",
+          "effectIdx1": "2293",
+          "effectIdx2": "312",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2580",
+          "abilityName": "木ノ葉の守護者",
+          "abilityDescription": "バトル開始時、敵に滅キャラがいると敵全体を1回行動まで「強化系特殊状態不可」にする",
+          "abilityEffectDescription": "バトル開始時、敵に滅キャラがいると敵全体を1回行動まで「強化系特殊状態不可」にする",
+          "effectIdx1": "3046",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2581",
+          "abilityName": "受け継がれる\"火の意思\"",
+          "abilityDescription": "HP0以下で3回耐え、死亡時に敵全体を封印・術封じにする",
+          "abilityEffectDescription": "HP0以下で3回耐え、死亡時に敵全体を封印・術封じにする",
+          "effectIdx1": "1789",
+          "effectIdx2": "3047",
+          "effectIdx3": "3048"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -23964,6 +24000,42 @@
           "effectIdx1": "10113",
           "effectIdx2": "1285",
           "effectIdx3": "30019"
+        },
+        {
+          "abilityId": "100089",
+          "abilityName": "純想実現",
+          "abilityDescription": "バトル開始時確率で「私もあなたについていく！」で急襲攻撃、最大HP200％アップ、最大チャクラ量50アップ",
+          "abilityEffectDescription": "バトル開始時確率で「私もあなたについていく！」で急襲攻撃、最大HP200％アップ、最大チャクラ量50アップ",
+          "effectIdx1": "10100",
+          "effectIdx2": "20004",
+          "effectIdx3": "3014"
+        },
+        {
+          "abilityId": "100090",
+          "abilityName": "寄り添いの誓い",
+          "abilityDescription": "班の木ノ葉隠れの里所属のキャラ1体につき攻撃力と防御力と素早さが30%アップ（自身含む）",
+          "abilityEffectDescription": "班の木ノ葉隠れの里所属のキャラ1体につき攻撃力と防御力と素早さが30%アップ（自身含む）",
+          "effectIdx1": "953",
+          "effectIdx2": "1225",
+          "effectIdx3": "1226"
+        },
+        {
+          "abilityId": "100091",
+          "abilityName": "憧憬成就",
+          "abilityDescription": "バトル開始時確率で「あなたが、大好きだから」で急襲攻撃、最大HP200％アップ、最大チャクラ量50アップ",
+          "abilityEffectDescription": "バトル開始時確率で「あなたが、大好きだから」で急襲攻撃、最大HP200％アップ、最大チャクラ量50アップ",
+          "effectIdx1": "10100",
+          "effectIdx2": "20004",
+          "effectIdx3": "3014"
+        },
+        {
+          "abilityId": "100092",
+          "abilityName": "共に歩む意志",
+          "abilityDescription": "班の木ノ葉隠れの里所属のキャラ1体につき攻撃力と防御力と素早さが30%アップ（自身含む）",
+          "abilityEffectDescription": "班の木ノ葉隠れの里所属のキャラ1体につき攻撃力と防御力と素早さが30%アップ（自身含む）",
+          "effectIdx1": "953",
+          "effectIdx2": "1225",
+          "effectIdx3": "1226"
         },
         {
           "abilityId": "100093",
