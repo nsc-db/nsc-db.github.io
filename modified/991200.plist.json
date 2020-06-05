@@ -12993,5 +12993,29 @@
           "effectIdx2": "880",
           "effectIdx3": "0",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1103",
+          "targetCrystal": "30603",
+          "description": "0",
+          "charaIds": "11604,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1840",
+          "effectIdx2": "13069",
+          "effectIdx3": "1638",
+          "effectIdx4": "64"
+        },
+        {
+          "crystalOverwriteEffectId": "1104",
+          "targetCrystal": "30604",
+          "description": "0",
+          "charaIds": "11604,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "2644",
+          "effectIdx2": "694",
+          "effectIdx3": "2530",
+          "effectIdx4": "990"
         }
       ]

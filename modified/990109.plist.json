@@ -22697,6 +22697,24 @@
           "effectIdx3": "3048"
         },
         {
+          "abilityId": "2582",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "2840",
+          "effectIdx2": "1057",
+          "effectIdx3": "874"
+        },
+        {
+          "abilityId": "2583",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "2708",
+          "effectIdx2": "3049",
+          "effectIdx3": "813"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -24943,6 +24961,24 @@
           "abilityDescription": "行動毎に素早さ50%アップ（最大500%）",
           "abilityEffectDescription": "行動毎に素早さ50%アップ（最大500%）",
           "effectIdx1": "3029",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "310054",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "防御力300%アップ",
+          "abilityEffectDescription": "防御力300%アップ",
+          "effectIdx1": "12118",
+          "effectIdx2": "0",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "310055",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "敵にうちは一族がいるとき確率でｽｷﾙ2で急襲(一部ﾁｬｸﾗ回復)",
+          "abilityEffectDescription": "敵にうちは一族がいるとき確率でｽｷﾙ2で急襲(一部ﾁｬｸﾗ回復)",
+          "effectIdx1": "3050",
           "effectIdx2": "0",
           "effectIdx3": "0"
         },

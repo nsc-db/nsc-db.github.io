@@ -22781,5 +22781,37 @@
           "crystalImageId": "306025",
           "recipeId": "30602",
           "recipeName": "ヒルゼンの頭巾"
+        },
+        {
+          "crystalId": "30603",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "64",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "0",
+          "crystalDescription": "0",
+          "crystalImageId": "306035",
+          "recipeId": "30603",
+          "recipeName": "イタチのサンダル"
+        },
+        {
+          "crystalId": "30604",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "2524",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "0",
+          "crystalDescription": "0",
+          "crystalImageId": "306045",
+          "recipeId": "30604",
+          "recipeName": "流血の万華鏡写輪眼"
         }
       ]

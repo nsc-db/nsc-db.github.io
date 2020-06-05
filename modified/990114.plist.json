@@ -2677,5 +2677,15 @@
           "subScore": "0",
           "color": "16777215",
           "type": "2"
+        },
+        {
+          "cardUnusualId": "273",
+          "category": "4",
+          "iconId": "1325",
+          "name": "0",
+          "description": "0",
+          "subScore": "0",
+          "color": "14629377",
+          "type": "2"
         }
       ]

@@ -311,6 +311,18 @@
           "specialPanelList": "9100028,9100029,9100030"
         },
         {
+          "sphereBoardId": "50023",
+          "boardName": "Temp_Ct=&gt;90_体属性_の潜在覚醒盤",
+          "boardDescription": "うちはイタチ【顕現せし神力】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20060603",
+          "normalPanelList": "9100013,9100014,9100015",
+          "specialPanelList": "9100016,9100017,9100018"
+        },
+        {
           "sphereBoardId": "5000001",
           "boardName": "ガマブン太",
           "boardDescription": "うずまきナルト【救う想いと仁義の共闘】",
