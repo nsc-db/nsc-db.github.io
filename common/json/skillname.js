@@ -7392,6 +7392,14 @@ window.skillname=[
           "name": "行くぞ猿魔！！"
         },
         {
+          "cardBattleSkillNameId": "3067",
+          "name": "0"
+        },
+        {
+          "cardBattleSkillNameId": "3068",
+          "name": "0"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },
