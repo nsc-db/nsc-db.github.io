@@ -22792,8 +22792,8 @@
           "effectIdx4": "0",
           "money": "30000",
           "saleMoney": "2500",
-          "crystalName": "0",
-          "crystalDescription": "0",
+          "crystalName": "イタチのサンダル",
+          "crystalDescription": "弱体無効",
           "crystalImageId": "306035",
           "recipeId": "30603",
           "recipeName": "イタチのサンダル"
@@ -22808,8 +22808,8 @@
           "effectIdx4": "0",
           "money": "30000",
           "saleMoney": "2500",
-          "crystalName": "0",
-          "crystalDescription": "0",
+          "crystalName": "流血の万華鏡写輪眼",
+          "crystalDescription": "行動後チャクラ30%回復",
           "crystalImageId": "306045",
           "recipeId": "30604",
           "recipeName": "流血の万華鏡写輪眼"

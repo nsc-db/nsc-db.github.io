@@ -12997,7 +12997,7 @@
         {
           "crystalOverwriteEffectId": "1103",
           "targetCrystal": "30603",
-          "description": "0",
+          "description": "スキル発動速度1段階アップ、素早さ70%アップ、弱体・状態異常・幻無効",
           "charaIds": "11604,",
           "cardIds": "0",
           "charaGroupIds": "0",
@@ -13009,7 +13009,7 @@
         {
           "crystalOverwriteEffectId": "1104",
           "targetCrystal": "30604",
-          "description": "0",
+          "description": "行動後チャクラ50%回復、全スキルダメージ80%アップ、3回行動まで全スキル無効＆素早さ200％アップ",
           "charaIds": "11604,",
           "cardIds": "0",
           "charaGroupIds": "0",

@@ -22698,18 +22698,18 @@
         },
         {
           "abilityId": "2582",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "目的への執念",
+          "abilityDescription": "敵に破神がいると「切り札を見せてやろう…」で急襲攻撃（一部チャクラ回復）、HP0以下で2回HP全回復",
+          "abilityEffectDescription": "敵に破神がいると「切り札を見せてやろう…」で急襲攻撃（一部チャクラ回復）、HP0以下で2回HP全回復",
           "effectIdx1": "2840",
           "effectIdx2": "1057",
           "effectIdx3": "874"
         },
         {
           "abilityId": "2583",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "決着を見通す瞳",
+          "abilityDescription": "超忍・創・滅からのﾀﾞﾒｰｼﾞ50%ｶｯﾄ、自身含む味方の“暁”人数に応じて素早さｱｯﾌﾟ(最大500%)、最大ﾁｬｸﾗ量100ｱｯﾌﾟ",
+          "abilityEffectDescription": "超忍・創・滅からのﾀﾞﾒｰｼﾞ50%ｶｯﾄ、自身含む味方の“暁”人数に応じて素早さｱｯﾌﾟ(最大500%)、最大ﾁｬｸﾗ量100ｱｯﾌﾟ",
           "effectIdx1": "2708",
           "effectIdx2": "3049",
           "effectIdx3": "813"
