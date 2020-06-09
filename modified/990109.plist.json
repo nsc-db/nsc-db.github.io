@@ -22679,6 +22679,24 @@
           "effectIdx3": "0"
         },
         {
+          "abilityId": "2576",
+          "abilityName": "彼方へ誘う幻影",
+          "abilityDescription": "被攻撃時、敵に“暁”所属か滅ｷｬﾗが生存で、攻撃者に確率でｽｷﾙ発動速度1段階ﾀﾞｳﾝ付与、どちらもいると確率ｱｯﾌﾟ",
+          "abilityEffectDescription": "被攻撃時、敵に“暁”所属か滅ｷｬﾗが生存で、攻撃者に確率でｽｷﾙ発動速度1段階ﾀﾞｳﾝ付与、どちらもいると確率ｱｯﾌﾟ",
+          "effectIdx1": "3031",
+          "effectIdx2": "3032",
+          "effectIdx3": "0"
+        },
+        {
+          "abilityId": "2577",
+          "abilityName": "真を見抜く瞳",
+          "abilityDescription": "HP0以下で1回耐える、敵に滅キャラが生存していると自身の素早さ200%アップ",
+          "abilityEffectDescription": "HP0以下で1回耐える、敵に滅キャラが生存していると自身の素早さ200%アップ",
+          "effectIdx1": "312",
+          "effectIdx2": "2814",
+          "effectIdx3": "0"
+        },
+        {
           "abilityId": "2580",
           "abilityName": "木ノ葉の守護者",
           "abilityDescription": "バトル開始時、敵に滅キャラがいると敵全体を1回行動まで「強化系特殊状態不可」にする",

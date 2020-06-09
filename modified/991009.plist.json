@@ -2645,6 +2645,12 @@
           "itemImgId": "23"
         },
         {
+          "shopExchangeItemId": "449",
+          "itemName": "誕生日Pt",
+          "measure": "0",
+          "itemImgId": "1011"
+        },
+        {
           "shopExchangeItemId": "1001",
           "itemName": "下心Pt",
           "measure": null,

@@ -22813,5 +22813,37 @@
           "crystalImageId": "306045",
           "recipeId": "30604",
           "recipeName": "流血の万華鏡写輪眼"
+        },
+        {
+          "crystalId": "30605",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "692",
+          "effectIdx2": "3041",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "紅のクナイ",
+          "crystalDescription": "スキルダメージ40％アップ、敵に“暁”所属がいると更に20％アップ",
+          "crystalImageId": "306055",
+          "recipeId": "30605",
+          "recipeName": "紅のクナイ"
+        },
+        {
+          "crystalId": "30606",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "3039",
+          "effectIdx2": "3040",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "紅の幻術の花",
+          "crystalDescription": "1回行動まで低確率で状態異常無効＆スキル発動速度1段階アップ",
+          "crystalImageId": "306065",
+          "recipeId": "30606",
+          "recipeName": "紅の幻術の花"
         }
       ]

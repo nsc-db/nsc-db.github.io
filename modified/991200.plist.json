@@ -12971,6 +12971,30 @@
           "effectIdx4": "0"
         },
         {
+          "crystalOverwriteEffectId": "1097",
+          "targetCrystal": "30605",
+          "description": "スキルダメージ100％アップ、敵に“暁”所属がいると更に50％アップ",
+          "charaIds": "3301,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "774",
+          "effectIdx2": "3042",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1098",
+          "targetCrystal": "30606",
+          "description": "5回行動まで状態異常無効＆スキル発動速度1段階アップ、行動後にチャクラ40％回復",
+          "charaIds": "3301,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "3043",
+          "effectIdx2": "2655",
+          "effectIdx3": "1830",
+          "effectIdx4": "0"
+        },
+        {
           "crystalOverwriteEffectId": "1101",
           "targetCrystal": "30601",
           "description": "バトル開始時にチャクラ50%回復、素早さ80%アップ、3回行動まで耐性無視ダメージ0",

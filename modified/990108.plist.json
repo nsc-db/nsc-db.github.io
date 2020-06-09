@@ -13753,6 +13753,19 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1075",
+          "name": "想いを知る瞳",
+          "description": "木ノ葉隠れの里所属への弱体無効＆素早さ80%アップ",
+          "effectIdx1": "64",
+          "effectIdx2": "13079",
+          "effectIdx3": "0",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "1077",
           "name": "破邪の仁炎",
           "description": "木ノ葉隠れの里所属の味方が1回行動するまでチャクラ消費0",
