@@ -12972,6 +12972,54 @@ window.unique=[
           "effectIdx4": "0"
         },
         {
+          "crystalOverwriteEffectId": "1097",
+          "targetCrystal": "30605",
+          "description": "スキルダメージ100％アップ、敵に“暁”所属がいると更に50％アップ",
+          "charaIds": "3301",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "774",
+          "effectIdx2": "3042",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1098",
+          "targetCrystal": "30606",
+          "description": "5回行動まで状態異常無効＆スキル発動速度1段階アップ、行動後にチャクラ40％回復",
+          "charaIds": "3301",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "3043",
+          "effectIdx2": "2655",
+          "effectIdx3": "1830",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1099",
+          "targetCrystal": "30607",
+          "description": "攻撃力・防御力・素早さを70％アップ、行動毎にチャクラ20％回復",
+          "charaIds": "13303",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "11069",
+          "effectIdx2": "12069",
+          "effectIdx3": "13069",
+          "effectIdx4": "583"
+        },
+        {
+          "crystalOverwriteEffectId": "1100",
+          "targetCrystal": "30608",
+          "description": "6回行動まで弱体・状態異常無効&amp;高確率で耐性無視ダメージ0",
+          "charaIds": "13303",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "3044",
+          "effectIdx2": "3045",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
+        },
+        {
           "crystalOverwriteEffectId": "1101",
           "targetCrystal": "30601",
           "description": "バトル開始時にチャクラ50%回復、素早さ80%アップ、3回行動まで耐性無視ダメージ0",
@@ -12998,7 +13046,7 @@ window.unique=[
         {
           "crystalOverwriteEffectId": "1103",
           "targetCrystal": "30603",
-          "description": "0",
+          "description": "スキル発動速度1段階アップ、素早さ70%アップ、弱体・状態異常・幻無効",
           "charaIds": "11604",
           "cardIds": "0",
           "charaGroupIds": "0",
@@ -13010,7 +13058,7 @@ window.unique=[
         {
           "crystalOverwriteEffectId": "1104",
           "targetCrystal": "30604",
-          "description": "0",
+          "description": "行動後チャクラ50%回復、全スキルダメージ80%アップ、3回行動まで全スキル無効＆素早さ200％アップ",
           "charaIds": "11604",
           "cardIds": "0",
           "charaGroupIds": "0",

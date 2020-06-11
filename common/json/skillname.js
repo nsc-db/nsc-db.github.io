@@ -7384,6 +7384,22 @@ window.skillname=[
           "name": "…誰かがやらなきゃな…"
         },
         {
+          "cardBattleSkillNameId": "3061",
+          "name": "連携・比翼の火遁"
+        },
+        {
+          "cardBattleSkillNameId": "3062",
+          "name": "アスマ！"
+        },
+        {
+          "cardBattleSkillNameId": "3063",
+          "name": "蘇駒・神羅天征"
+        },
+        {
+          "cardBattleSkillNameId": "3064",
+          "name": "最高傑作になってくれよ…"
+        },
+        {
           "cardBattleSkillNameId": "3065",
           "name": "口寄せ・猿魔金剛演舞"
         },
@@ -7393,11 +7409,11 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "3067",
-          "name": "0"
+          "name": "須佐能乎・封邪ノ神鎧"
         },
         {
           "cardBattleSkillNameId": "3068",
-          "name": "0"
+          "name": "切り札を見せてやろう…"
         },
         {
           "cardBattleSkillNameId": "10136",

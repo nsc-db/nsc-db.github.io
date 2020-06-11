@@ -3468,6 +3468,18 @@ window.vo=[
           "voiceDeath": "gaara_damage_02_01"
         },
         {
+          "cardVoiceId": "293",
+          "cardId": "20060603",
+          "dirName": "itachi",
+          "evolutionStep": "",
+          "voiceAppear": "itachi_skill_02_07",
+          "voiceSkill1": "itachi_skill_02_03",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "itachi_win_02_02",
+          "voiceDeath": "itachi_death_02_01"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",
