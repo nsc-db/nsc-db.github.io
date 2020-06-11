@@ -5543,6 +5543,12 @@
           "speechCharactorName": "トビ"
         },
         {
+          "speechCharactorId": "980",
+          "cardId": "20001706",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "キラービー"
+        },
+        {
           "speechCharactorId": "1000",
           "cardId": "21000091",
           "speechCharactorImgId": "1000",

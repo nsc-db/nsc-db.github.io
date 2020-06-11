@@ -1880,7 +1880,7 @@
         },
         {
           "appUiId": "377",
-          "uiKey": "",
+          "uiKey": "PriceTitle",
           "text": "値段"
         },
         {
@@ -4311,7 +4311,7 @@
         {
           "appUiId": "863",
           "uiKey": "ProductBonus",
-          "text": "おとく%d個"
+          "text": "おとく×%d"
         },
         {
           "appUiId": "864",
@@ -7234,6 +7234,11 @@
           "text": "約%.2fMBのリソースを\r\nダウンロードします。"
         },
         {
+          "appUiId": "1449",
+          "uiKey": "GetTotalTitle",
+          "text": "選択数"
+        },
+        {
           "appUiId": "1450",
           "uiKey": "ExchangePossession",
           "text": "所持"
@@ -8447,5 +8452,30 @@
           "appUiId": "1707",
           "uiKey": "ArenaTargetResetText",
           "text": "※12時リセット"
+        },
+        {
+          "appUiId": "1708",
+          "uiKey": "PurchaseStoneDetailFormat",
+          "text": "%d個+おとく%d個"
+        },
+        {
+          "appUiId": "1709",
+          "uiKey": "Times",
+          "text": "回"
+        },
+        {
+          "appUiId": "1710",
+          "uiKey": "Otoku",
+          "text": "おとく"
+        },
+        {
+          "appUiId": "1711",
+          "uiKey": "Purchased",
+          "text": "購入済"
+        },
+        {
+          "appUiId": "1712",
+          "uiKey": "OnlyAFewLeft",
+          "text": "残りわずか"
         }
       ]

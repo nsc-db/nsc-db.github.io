@@ -22845,5 +22845,37 @@
           "crystalImageId": "306065",
           "recipeId": "30606",
           "recipeName": "紅の幻術の花"
+        },
+        {
+          "crystalId": "30607",
+          "crystalType": "1",
+          "crystalRare": "5",
+          "effectIdx1": "182",
+          "effectIdx2": "12029",
+          "effectIdx3": "183",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "カラクリの腕",
+          "crystalDescription": "攻撃力・防御力・素早さを30％アップ",
+          "crystalImageId": "306075",
+          "recipeId": "30607",
+          "recipeName": "カラクリの腕"
+        },
+        {
+          "crystalId": "30608",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "776",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "畜生道の口寄せ犬",
+          "crystalDescription": "弱体・状態異常半減",
+          "crystalImageId": "306085",
+          "recipeId": "30608",
+          "recipeName": "畜生道の口寄せ犬"
         }
       ]

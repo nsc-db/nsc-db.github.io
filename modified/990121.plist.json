@@ -10313,6 +10313,15 @@
           "category": "0"
         },
         {
+          "cardBehaveAffectId": "20210014",
+          "timing": "4",
+          "func": "50",
+          "params": "1,0",
+          "comp": "4",
+          "compParams": "8",
+          "category": "0"
+        },
+        {
           "cardBehaveAffectId": "20210015",
           "timing": "4",
           "func": "50",
