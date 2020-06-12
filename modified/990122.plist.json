@@ -3479,6 +3479,18 @@
           "voiceDeath": "itachi_death_02_01"
         },
         {
+          "cardVoiceId": "294",
+          "cardId": "20060606",
+          "dirName": "kabuto",
+          "evolutionStep": "",
+          "voiceAppear": "kabuto_battle_02_01",
+          "voiceSkill1": "kabuto_win_02_02",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "kabuto_win_02_01",
+          "voiceDeath": "kabuto_death_02_02"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

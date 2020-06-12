@@ -25279,6 +25279,26 @@
           "effectIds": null
         },
         {
+          "abilityId": "2584",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "1057",
+          "effectIdx2": "874",
+          "effectIdx3": "20014",
+          "effectIds": "0"
+        },
+        {
+          "abilityId": "2585",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "2790",
+          "effectIdx2": "3068",
+          "effectIdx3": "3069",
+          "effectIds": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -27797,6 +27817,16 @@
           "effectIdx2": "0",
           "effectIdx3": "0",
           "effectIds": null
+        },
+        {
+          "abilityId": "310067",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "確率で体属性へのスキル攻撃時に相手の耐性を弱点とする",
+          "abilityEffectDescription": "確率で体属性へのスキル攻撃時に相手の耐性を弱点とする",
+          "effectIdx1": "3073",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "0"
         },
         {
           "abilityId": "801187",

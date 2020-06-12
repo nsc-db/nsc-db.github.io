@@ -1157,5 +1157,15 @@
           "uiIdx": "10019",
           "partyEffects": null,
           "enemyEffects": "2992,2993,2994,"
+        },
+        {
+          "battleFieldEffectId": "10020",
+          "name": "嘲ル蛇仙ノ巣",
+          "category": "3",
+          "scriptId": "10020",
+          "overWrite": "1",
+          "uiIdx": "10020",
+          "partyEffects": "3072,",
+          "enemyEffects": "3070,2326,3071,"
         }
       ]

@@ -22877,5 +22877,37 @@
           "crystalImageId": "306085",
           "recipeId": "30608",
           "recipeName": "畜生道の口寄せ犬"
+        },
+        {
+          "crystalId": "30609",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "682",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "0",
+          "crystalDescription": "0",
+          "crystalImageId": "306095",
+          "recipeId": "30609",
+          "recipeName": "譲り受けた眼鏡"
+        },
+        {
+          "crystalId": "30610",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "82",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "0",
+          "crystalDescription": "0",
+          "crystalImageId": "306105",
+          "recipeId": "30610",
+          "recipeName": "名前の由来のカブト"
         }
       ]

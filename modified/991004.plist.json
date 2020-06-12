@@ -5489,6 +5489,42 @@
           "speechCharactorName": "大蛇丸（？）"
         },
         {
+          "speechCharactorId": "935",
+          "cardId": "935",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "薬師ノノウ"
+        },
+        {
+          "speechCharactorId": "936",
+          "cardId": "936",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "薬師カブト"
+        },
+        {
+          "speechCharactorId": "937",
+          "cardId": "20001779",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "薬師カブト"
+        },
+        {
+          "speechCharactorId": "938",
+          "cardId": "20040206",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "薬師カブト"
+        },
+        {
+          "speechCharactorId": "939",
+          "cardId": "20050318",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "薬師カブト"
+        },
+        {
+          "speechCharactorId": "940",
+          "cardId": "20001833",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "薬師カブト"
+        },
+        {
           "speechCharactorId": "951",
           "cardId": "99999998",
           "speechCharactorImgId": "0",
