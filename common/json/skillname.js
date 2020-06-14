@@ -7416,6 +7416,14 @@ window.skillname=[
           "name": "切り札を見せてやろう…"
         },
         {
+          "cardBattleSkillNameId": "3069",
+          "name": "0"
+        },
+        {
+          "cardBattleSkillNameId": "3070",
+          "name": "0"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },

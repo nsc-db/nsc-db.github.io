@@ -14868,6 +14868,20 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1079",
+          "name": "0",
+          "description": "0",
+          "effectIdx1": "1645",
+          "effectIdx2": "1646",
+          "effectIdx3": "0",
+          "effectIds": "0",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

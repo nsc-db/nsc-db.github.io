@@ -2156,6 +2156,20 @@ window.charaname=[
           "gender": "1"
         },
         {
+          "charaProfileId": "10404",
+          "charaId": "104",
+          "name": "0",
+          "detail": "疾風伝",
+          "charaLoveAffinityGroupId": "10420",
+          "birthday": "229",
+          "constellation": "12",
+          "height": "17700",
+          "weight": "6500",
+          "bloodType": "4",
+          "age": "23",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "10501",
           "charaId": "105",
           "name": "篝",
