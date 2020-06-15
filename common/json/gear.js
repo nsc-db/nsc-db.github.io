@@ -22889,8 +22889,8 @@ window.gear=[
           "effectIdx4": "0",
           "money": "30000",
           "saleMoney": "2500",
-          "crystalName": "0",
-          "crystalDescription": "0",
+          "crystalName": "譲り受けた眼鏡",
+          "crystalDescription": "全スキルダメージ50%アップ",
           "crystalImageId": "306095",
           "recipeId": "30609",
           "recipeName": "譲り受けた眼鏡"
@@ -22905,8 +22905,8 @@ window.gear=[
           "effectIdx4": "0",
           "money": "30000",
           "saleMoney": "2500",
-          "crystalName": "0",
-          "crystalDescription": "0",
+          "crystalName": "名前の由来のカブト",
+          "crystalDescription": "状態異常無効",
           "crystalImageId": "306105",
           "recipeId": "30610",
           "recipeName": "名前の由来のカブト"

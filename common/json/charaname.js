@@ -2158,7 +2158,7 @@ window.charaname=[
         {
           "charaProfileId": "10404",
           "charaId": "104",
-          "name": "0",
+          "name": "薬師カブト",
           "detail": "疾風伝",
           "charaLoveAffinityGroupId": "10420",
           "birthday": "229",

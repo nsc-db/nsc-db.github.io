@@ -7417,11 +7417,11 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "3069",
-          "name": "0"
+          "name": "仙法・白蛇白激"
         },
         {
           "cardBattleSkillNameId": "3070",
-          "name": "0"
+          "name": "自然がボクの味方をする"
         },
         {
           "cardBattleSkillNameId": "10136",

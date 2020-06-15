@@ -13070,7 +13070,7 @@ window.unique=[
         {
           "crystalOverwriteEffectId": "1105",
           "targetCrystal": "30609",
-          "description": "0",
+          "description": "スキル発動速度1段階アップ、全スキルダメージ100%アップ、行動後チャクラ30%回復",
           "charaIds": "10404",
           "cardIds": "0",
           "charaGroupIds": "0",
@@ -13082,7 +13082,7 @@ window.unique=[
         {
           "crystalOverwriteEffectId": "1106",
           "targetCrystal": "30610",
-          "description": "0",
+          "description": "弱体・幻・状態異常無効、バトル開始時にチャクラ100%回復、1回行動まで全スキル無効",
           "charaIds": "10404",
           "cardIds": "0",
           "charaGroupIds": "0",
