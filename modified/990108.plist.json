@@ -14868,8 +14868,8 @@
         },
         {
           "cardLeaderSkillId": "1079",
-          "name": "0",
-          "description": "0",
+          "name": "顕現する邪蛇",
+          "description": "2回行動まで全属性のスキル発動速度2段階アップ＆チャクラ消費量0",
           "effectIdx1": "1645",
           "effectIdx2": "1646",
           "effectIdx3": "0",
