@@ -1364,6 +1364,19 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
+          "worldStageId": "8059",
+          "worldAreaId": "9",
+          "priority": "0",
+          "name": "くノ一乱舞 -昇級試験特別篇-",
+          "description": "この任務は、他のユーザーの班と戦う任務です\r\n1度の挑戦で行うバトルの回数は、1回となります\r\n※全キャラクターの全ダメージ及びスキル発動速度は調整が行われております",
+          "notice": "0",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
           "worldStageId": "9000",
           "worldAreaId": "4",
           "priority": "0",

@@ -2657,6 +2657,12 @@
           "itemImgId": "23"
         },
         {
+          "shopExchangeItemId": "451",
+          "itemName": "昇級試験Pt",
+          "measure": "0",
+          "itemImgId": "128"
+        },
+        {
           "shopExchangeItemId": "452",
           "itemName": "個人Pt",
           "measure": "0",
@@ -3117,6 +3123,12 @@
           "itemName": "個人Pt",
           "measure": "0",
           "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "1082",
+          "itemName": "くノ一乱舞交換券",
+          "measure": "0",
+          "itemImgId": "1071"
         },
         {
           "shopExchangeItemId": "2000",

@@ -8534,6 +8534,11 @@
           "gachaTicketImgId": "4329"
         },
         {
+          "gachaTicketId": "4330",
+          "gachaTicketName": "くノ一乱舞ガチャチケット",
+          "gachaTicketImgId": "4330"
+        },
+        {
           "gachaTicketId": "4331",
           "gachaTicketName": "★6超忍確定ガチャチケット",
           "gachaTicketImgId": "4331"
@@ -8547,6 +8552,16 @@
           "gachaTicketId": "4333",
           "gachaTicketName": "LvMAX！うちは昇級選抜ガチャチケット",
           "gachaTicketImgId": "4333"
+        },
+        {
+          "gachaTicketId": "4334",
+          "gachaTicketName": "LvMAX！くノ一昇級選抜特別ガチャチケット",
+          "gachaTicketImgId": "4334"
+        },
+        {
+          "gachaTicketId": "4335",
+          "gachaTicketName": "LvMAX！くノ一昇級選抜ガチャチケット",
+          "gachaTicketImgId": "4335"
         },
         {
           "gachaTicketId": "4336",
