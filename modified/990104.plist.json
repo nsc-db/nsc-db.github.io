@@ -39209,6 +39209,36 @@
           "materialNum5": "5"
         },
         {
+          "cardEvolutionId": "20319",
+          "cardId": "20041103",
+          "evolutionStep": "8",
+          "materialId1": "22000711",
+          "materialNum1": "5",
+          "materialId2": "22000701",
+          "materialNum2": "5",
+          "materialId3": "22000703",
+          "materialNum3": "5",
+          "materialId4": "22000702",
+          "materialNum4": "5",
+          "materialId5": "22000705",
+          "materialNum5": "5"
+        },
+        {
+          "cardEvolutionId": "20320",
+          "cardId": "20041006",
+          "evolutionStep": "8",
+          "materialId1": "22000712",
+          "materialNum1": "5",
+          "materialId2": "22000701",
+          "materialNum2": "5",
+          "materialId3": "22000703",
+          "materialNum3": "5",
+          "materialId4": "22000702",
+          "materialNum4": "5",
+          "materialId5": "22000704",
+          "materialNum5": "5"
+        },
+        {
           "cardEvolutionId": "30001",
           "cardId": "20001481",
           "evolutionStep": "5",

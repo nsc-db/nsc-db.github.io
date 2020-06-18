@@ -3317,6 +3317,20 @@
           "gender": "1"
         },
         {
+          "charaProfileId": "21102",
+          "charaId": "211",
+          "name": "ウタカタ",
+          "detail": null,
+          "charaLoveAffinityGroupId": "21110",
+          "birthday": "616",
+          "constellation": "3",
+          "height": "17900",
+          "weight": "5950",
+          "bloodType": "2",
+          "age": "26",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "21201",
           "charaId": "212",
           "name": "羅砂",

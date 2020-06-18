@@ -25299,6 +25299,26 @@
           "effectIds": "0"
         },
         {
+          "abilityId": "2588",
+          "abilityName": "厭世互助",
+          "abilityDescription": "行動ごとに確率でスキル発動速度1段階アップ",
+          "abilityEffectDescription": "行動ごとに確率でスキル発動速度1段階アップ",
+          "effectIdx1": "1694",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "0"
+        },
+        {
+          "abilityId": "2589",
+          "abilityName": "毒泡饗宴",
+          "abilityDescription": "攻撃・防御・素早さ30%アップ",
+          "abilityEffectDescription": "攻撃・防御・素早さ30%アップ",
+          "effectIdx1": "182",
+          "effectIdx2": "12029",
+          "effectIdx3": "183",
+          "effectIds": "0"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -26829,6 +26849,16 @@
           "effectIds": "1800,3057,1378,"
         },
         {
+          "abilityId": "100098",
+          "abilityName": "絆と愛の器",
+          "abilityDescription": "HP0以下で3回までHP全回復、5回行動までスキルダメージ500%アップ",
+          "abilityEffectDescription": "HP0以下で3回までHP全回復、5回行動までスキルダメージ500%アップ",
+          "effectIdx1": "1789",
+          "effectIdx2": "874",
+          "effectIdx3": "30422",
+          "effectIds": "0"
+        },
+        {
           "abilityId": "100099",
           "abilityName": "悟りし死期",
           "abilityDescription": "スキルダメージ120％アップ、バトル開始時確率で八咫鏡状態になり、敵に創キャラがいると確実に八咫鏡状態になる",
@@ -27871,12 +27901,12 @@
         {
           "abilityId": "310058",
           "abilityName": "Bマス用_通常",
-          "abilityDescription": "3回行動まで木ノ葉所属への単体ｽｷﾙ攻撃を受ける※発動は最後が有効",
-          "abilityEffectDescription": "3回行動まで木ノ葉所属への単体ｽｷﾙ攻撃を受ける※発動は最後が有効",
+          "abilityDescription": "3回まで木ノ葉所属への単体ｽｷﾙ攻撃を受ける※発動は最後が有効",
+          "abilityEffectDescription": "3回まで木ノ葉所属への単体ｽｷﾙ攻撃を受ける※発動は最後が有効",
           "effectIdx1": "2113",
           "effectIdx2": "0",
           "effectIdx3": "0",
-          "effectIds": "0"
+          "effectIds": "2113,"
         },
         {
           "abilityId": "310059",

@@ -3599,6 +3599,12 @@
           "itemImgId": "2091"
         },
         {
+          "shopExchangeItemId": "2093",
+          "itemName": "選抜札",
+          "measure": "0",
+          "itemImgId": "2093"
+        },
+        {
           "shopExchangeItemId": "2500",
           "itemName": "神忍札[4月]",
           "measure": "0",

@@ -441,5 +441,17 @@
           "cardId": "50060501",
           "normalPanelList": "5008001,5008002,5008003",
           "specialPanelList": "5008004,5008005,5008006"
+        },
+        {
+          "sphereBoardId": "5000010",
+          "boardName": "六尾",
+          "boardDescription": "ウタカタ【噴毒の粘獣】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "50060601",
+          "normalPanelList": "5009001,5009002,5009003",
+          "specialPanelList": "5009004,5009005,5009006"
         }
       ]

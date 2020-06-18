@@ -2697,5 +2697,15 @@
           "subScore": "0",
           "color": "10104574",
           "type": "2"
+        },
+        {
+          "cardUnusualId": "276",
+          "category": "6",
+          "iconId": "1328",
+          "name": "六ノ爛",
+          "description": "確率で行動不能。行動するたびに味方全体の攻撃・防御・素早さダウン＆スキル発動速度1段階ダウン",
+          "subScore": "0",
+          "color": "7920895",
+          "type": "3"
         }
       ]
