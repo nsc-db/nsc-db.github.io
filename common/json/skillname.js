@@ -7424,6 +7424,22 @@ window.skillname=[
           "name": "自然がボクの味方をする"
         },
         {
+          "cardBattleSkillNameId": "3071",
+          "name": "塵鋭爪"
+        },
+        {
+          "cardBattleSkillNameId": "3072",
+          "name": "太刀筋は見事…"
+        },
+        {
+          "cardBattleSkillNameId": "3073",
+          "name": "六尾・腐毒泡抱"
+        },
+        {
+          "cardBattleSkillNameId": "3074",
+          "name": "0"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },

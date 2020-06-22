@@ -3318,6 +3318,20 @@ window.charaname=[
           "gender": "1"
         },
         {
+          "charaProfileId": "21102",
+          "charaId": "211",
+          "name": "ウタカタ",
+          "detail": null,
+          "charaLoveAffinityGroupId": "21110",
+          "birthday": "616",
+          "constellation": "3",
+          "height": "17900",
+          "weight": "5950",
+          "bloodType": "2",
+          "age": "26",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "21201",
           "charaId": "212",
           "name": "羅砂",
@@ -3959,6 +3973,20 @@ window.charaname=[
           "weight": "0",
           "bloodType": "0",
           "age": "0",
+          "gender": "1"
+        },
+        {
+          "charaProfileId": "53401",
+          "charaId": "534",
+          "name": "バキ",
+          "detail": null,
+          "charaLoveAffinityGroupId": "53410",
+          "birthday": "704",
+          "constellation": "4",
+          "height": "18820",
+          "weight": "8000",
+          "bloodType": "1",
+          "age": "34",
           "gender": "1"
         },
         {

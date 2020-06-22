@@ -22910,5 +22910,21 @@ window.gear=[
           "crystalImageId": "306105",
           "recipeId": "30610",
           "recipeName": "名前の由来のカブト"
+        },
+        {
+          "crystalId": "30611",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "2557",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "0",
+          "crystalDescription": "0",
+          "crystalImageId": "306115",
+          "recipeId": "30611",
+          "recipeName": "破れたマスク"
         }
 ]

@@ -13090,5 +13090,17 @@ window.unique=[
           "effectIdx2": "1984",
           "effectIdx3": "1994",
           "effectIdx4": "1794"
+        },
+        {
+          "crystalOverwriteEffectId": "1107",
+          "targetCrystal": "30611",
+          "description": "0",
+          "charaIds": "1704",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1840",
+          "effectIdx2": "694",
+          "effectIdx3": "820",
+          "effectIdx4": "0"
         }
         ]

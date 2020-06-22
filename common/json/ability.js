@@ -23282,12 +23282,12 @@ window.ability=[
         {
           "abilityId": "2380",
           "abilityName": "無二の瞳術と思想",
-          "abilityDescription": "敵か味方にうちはイタチ（年代問わず）が生存しているとスキルダメージ100%アップ、2回行動までチャクラ消費0",
-          "abilityEffectDescription": "敵か味方にうちはイタチ（年代問わず）が生存しているとスキルダメージ100%アップ、2回行動までチャクラ消費0",
+          "abilityDescription": "敵か味方にうちはｲﾀﾁが生存しているとｽｷﾙﾀﾞﾒｰｼﾞ100%ｱｯﾌﾟ＆高確率でｽｷﾙ回避、2回行動までﾁｬｸﾗ消費0",
+          "abilityEffectDescription": "敵か味方にうちはｲﾀﾁが生存しているとｽｷﾙﾀﾞﾒｰｼﾞ100%ｱｯﾌﾟ＆高確率でｽｷﾙ回避、2回行動までﾁｬｸﾗ消費0",
           "effectIdx1": "2581",
-          "effectIdx2": "1646",
-          "effectIdx3": "0",
-          "effectIds": null
+          "effectIdx2": "3051",
+          "effectIdx3": "1646",
+          "effectIds": "0"
         },
         {
           "abilityId": "2381",
@@ -25251,13 +25251,13 @@ window.ability=[
         },
         {
           "abilityId": "2581",
-          "abilityName": "受け継がれる\"火の意思\"",
-          "abilityDescription": "HP0以下で3回耐え、死亡時に敵全体を封印・術封じにする",
-          "abilityEffectDescription": "HP0以下で3回耐え、死亡時に敵全体を封印・術封じにする",
+          "abilityName": "受け継がれる“火の意思”",
+          "abilityDescription": "HP0以下で3回耐え、死亡時に敵全体を耐性を無視して封印・術封じにする",
+          "abilityEffectDescription": "HP0以下で3回耐え、死亡時に敵全体を耐性を無視して封印・術封じにする",
           "effectIdx1": "1789",
           "effectIdx2": "3047",
           "effectIdx3": "3048",
-          "effectIds": null
+          "effectIds": "1789,3047,3048,"
         },
         {
           "abilityId": "2582",
@@ -25297,6 +25297,66 @@ window.ability=[
           "effectIdx1": "2790",
           "effectIdx2": "3068",
           "effectIdx3": "3069",
+          "effectIds": "0"
+        },
+        {
+          "abilityId": "2586",
+          "abilityName": "砂隠れの実力者",
+          "abilityDescription": "HP0以下で1回耐え、行動するたびに素早さが30％アップする(最大5回)",
+          "abilityEffectDescription": "HP0以下で1回耐え、行動するたびに素早さが30％アップする(最大5回)",
+          "effectIdx1": "312",
+          "effectIdx2": "1424",
+          "effectIdx3": "0",
+          "effectIds": "0"
+        },
+        {
+          "abilityId": "2587",
+          "abilityName": "里への忠義",
+          "abilityDescription": "HP50%以下の時にスキルダメージ100%アップ、確率でスキル回避",
+          "abilityEffectDescription": "HP50%以下の時にスキルダメージ100%アップ、確率でスキル回避",
+          "effectIdx1": "1758",
+          "effectIdx2": "1423",
+          "effectIdx3": "0",
+          "effectIds": "0"
+        },
+        {
+          "abilityId": "2588",
+          "abilityName": "厭世互助",
+          "abilityDescription": "行動ごとに確率でスキル発動速度1段階アップ",
+          "abilityEffectDescription": "行動ごとに確率でスキル発動速度1段階アップ",
+          "effectIdx1": "1694",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "0"
+        },
+        {
+          "abilityId": "2589",
+          "abilityName": "毒泡饗宴",
+          "abilityDescription": "攻撃・防御・素早さ30%アップ",
+          "abilityEffectDescription": "攻撃・防御・素早さ30%アップ",
+          "effectIdx1": "182",
+          "effectIdx2": "12029",
+          "effectIdx3": "183",
+          "effectIds": "0"
+        },
+        {
+          "abilityId": "2590",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "3076",
+          "effectIdx2": "2642",
+          "effectIdx3": "0",
+          "effectIds": "0"
+        },
+        {
+          "abilityId": "2591",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "3077",
+          "effectIdx2": "312",
+          "effectIdx3": "874",
           "effectIds": "0"
         },
         {
@@ -26810,6 +26870,46 @@ window.ability=[
           "effectIds": null
         },
         {
+          "abilityId": "100096",
+          "abilityName": "呪印より引き出せし力",
+          "abilityDescription": "キャンセル無効、行動後チャクラ30%回復、敵に創キャラがいると確率で先制攻撃",
+          "abilityEffectDescription": "キャンセル無効、行動後チャクラ30%回復、敵に創キャラがいると確率で先制攻撃",
+          "effectIdx1": "1751",
+          "effectIdx2": "820",
+          "effectIdx3": "3052",
+          "effectIds": "1751,820,3052,"
+        },
+        {
+          "abilityId": "100097",
+          "abilityName": "印を見切る瞳",
+          "abilityDescription": "1回行動するまで素早さ・スキルダメージ200%アップ&amp;チャクラ消費0",
+          "abilityEffectDescription": "1回行動するまで素早さ・スキルダメージ200%アップ&amp;チャクラ消費0",
+          "effectIdx1": "1800",
+          "effectIdx2": "3057",
+          "effectIdx3": "1378",
+          "effectIds": "1800,3057,1378,"
+        },
+        {
+          "abilityId": "100098",
+          "abilityName": "絆と愛の器",
+          "abilityDescription": "HP0以下で3回までHP全回復、5回行動までスキルダメージ500%アップ",
+          "abilityEffectDescription": "HP0以下で3回までHP全回復、5回行動までスキルダメージ500%アップ",
+          "effectIdx1": "1789",
+          "effectIdx2": "874",
+          "effectIdx3": "30422",
+          "effectIds": "0"
+        },
+        {
+          "abilityId": "100099",
+          "abilityName": "悟りし死期",
+          "abilityDescription": "スキルダメージ120％アップ、バトル開始時確率で八咫鏡状態になり、敵に創キャラがいると確実に八咫鏡状態になる",
+          "abilityEffectDescription": "スキルダメージ120％アップ、バトル開始時確率で八咫鏡状態になり、敵に創キャラがいると確実に八咫鏡状態になる",
+          "effectIdx1": "30011",
+          "effectIdx2": "3053",
+          "effectIdx3": "3054",
+          "effectIds": "30011,3053,3054,"
+        },
+        {
           "abilityId": "200001",
           "abilityName": "心属性特化",
           "abilityDescription": "心属性へのスキル攻撃時に相手の耐性を弱点とする。心属性からのダメージを50%カット",
@@ -27818,6 +27918,116 @@ window.ability=[
           "effectIdx2": "0",
           "effectIdx3": "0",
           "effectIds": null
+        },
+        {
+          "abilityId": "310056",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "5回行動まで攻撃力・防御力・素早さ55％アップ",
+          "abilityEffectDescription": "5回行動まで攻撃力・防御力・素早さ55％アップ",
+          "effectIdx1": "2979",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "0"
+        },
+        {
+          "abilityId": "310057",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "死亡時敵に創キャラ生存で敵全体に確率で絶望付与",
+          "abilityEffectDescription": "死亡時敵に創キャラ生存で敵全体に確率で絶望付与",
+          "effectIdx1": "3063",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "0"
+        },
+        {
+          "abilityId": "310058",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "3回まで木ノ葉所属への単体ｽｷﾙ攻撃を受ける※発動は最後が有効",
+          "abilityEffectDescription": "3回まで木ノ葉所属への単体ｽｷﾙ攻撃を受ける※発動は最後が有効",
+          "effectIdx1": "2113",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "2113,"
+        },
+        {
+          "abilityId": "310059",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "素早さ50%アップ、5回行動以降さらに素早さ25％アップ",
+          "abilityEffectDescription": "素早さ50%アップ、5回行動以降さらに素早さ25％アップ",
+          "effectIdx1": "13049",
+          "effectIdx2": "3064",
+          "effectIdx3": "0",
+          "effectIds": "0"
+        },
+        {
+          "abilityId": "310060",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "最大HP60%アップ、行動後にHPとチャクラが25％回復する",
+          "abilityEffectDescription": "最大HP60%アップ、行動後にHPとチャクラが25％回復する",
+          "effectIdx1": "10059",
+          "effectIdx2": "1892",
+          "effectIdx3": "1909",
+          "effectIds": "0"
+        },
+        {
+          "abilityId": "310061",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "敵に“暁”所属がいると単体ｽｷﾙ攻撃を受ける※発動は最後が有効",
+          "abilityEffectDescription": "敵に“暁”所属がいると単体ｽｷﾙ攻撃を受ける※発動は最後が有効",
+          "effectIdx1": "3065",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "0"
+        },
+        {
+          "abilityId": "310062",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "“暁”所属への単体スキル攻撃を受ける※複数人発動は最後が有効",
+          "abilityEffectDescription": "“暁”所属への単体スキル攻撃を受ける※複数人発動は最後が有効",
+          "effectIdx1": "2169",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "2169,"
+        },
+        {
+          "abilityId": "310063",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "HP90%以上の時耐性無視ダメージ0",
+          "abilityEffectDescription": "HP90%以上の時耐性無視ダメージ0",
+          "effectIdx1": "1998",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "0"
+        },
+        {
+          "abilityId": "310064",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "HP0以下で1回耐え、耐えた時HP50％回復",
+          "abilityEffectDescription": "HP0以下で1回耐え、耐えた時HP50％回復",
+          "effectIdx1": "312",
+          "effectIdx2": "618",
+          "effectIdx3": "0",
+          "effectIds": "0"
+        },
+        {
+          "abilityId": "310065",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "耐えた時、自身を長い間仙人モード状態になる",
+          "abilityEffectDescription": "耐えた時、自身を長い間仙人モード状態になる",
+          "effectIdx1": "3066",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "0"
+        },
+        {
+          "abilityId": "310066",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "敵に超忍がいるとﾊﾞﾄﾙ開始時確率でｽｷﾙ2で急襲攻撃（ﾁｬｸﾗ中回復）",
+          "abilityEffectDescription": "敵に超忍がいるとﾊﾞﾄﾙ開始時確率でｽｷﾙ2で急襲攻撃（ﾁｬｸﾗ中回復）",
+          "effectIdx1": "3067",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "0"
         },
         {
           "abilityId": "310067",
