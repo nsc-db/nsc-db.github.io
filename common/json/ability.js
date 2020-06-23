@@ -25341,9 +25341,9 @@ window.ability=[
         },
         {
           "abilityId": "2590",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "次代を見守る瞳",
+          "abilityDescription": "バトル開始時に確率で敵全体を短い間鈍状態にし、1回行動まで攻撃を受けたとき即アクション",
+          "abilityEffectDescription": "バトル開始時に確率で敵全体を短い間鈍状態にし、1回行動まで攻撃を受けたとき即アクション",
           "effectIdx1": "3076",
           "effectIdx2": "2642",
           "effectIdx3": "0",
@@ -25351,13 +25351,33 @@ window.ability=[
         },
         {
           "abilityId": "2591",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "脅威を見破る瞳",
+          "abilityDescription": "敵に滅キャラがいるとスキルダメージ200%アップ、HP0以下で1回HP全回復",
+          "abilityEffectDescription": "敵に滅キャラがいるとスキルダメージ200%アップ、HP0以下で1回HP全回復",
           "effectIdx1": "3077",
           "effectIdx2": "312",
           "effectIdx3": "874",
           "effectIds": "0"
+        },
+        {
+          "abilityId": "2592",
+          "abilityName": "妙木山での修験",
+          "abilityDescription": "HP0以下で5回耐える、耐えた時敵に創キャラが生存していると高確率で自身の弱体系特殊状態解除",
+          "abilityEffectDescription": "HP0以下で5回耐える、耐えた時敵に創キャラが生存していると高確率で自身の弱体系特殊状態解除",
+          "effectIdx1": "1512",
+          "effectIdx2": "3082",
+          "effectIdx3": "0",
+          "effectIds": "1512,3082,"
+        },
+        {
+          "abilityId": "2593",
+          "abilityName": "不退転の選択",
+          "abilityDescription": "被攻撃時1回まで確率で素早さ＆ｽｷﾙﾀﾞﾒｰｼﾞ150％ｱｯﾌﾟ、木ノ葉所属への単体ｽｷﾙ攻撃を受ける※かばうは最終発動が有効",
+          "abilityEffectDescription": "被攻撃時1回まで確率で素早さ＆ｽｷﾙﾀﾞﾒｰｼﾞ150％ｱｯﾌﾟ、木ノ葉所属への単体ｽｷﾙ攻撃を受ける※かばうは最終発動が有効",
+          "effectIdx1": "3085",
+          "effectIdx2": "3086",
+          "effectIdx3": "1834",
+          "effectIds": "3085,3086,1834,"
         },
         {
           "abilityId": "10000",

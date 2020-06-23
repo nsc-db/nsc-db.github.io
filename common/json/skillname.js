@@ -7437,7 +7437,11 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "3074",
-          "name": "0"
+          "name": "水陣壁・潜刃"
+        },
+        {
+          "cardBattleSkillNameId": "3075",
+          "name": "そろそろワシの出番ですの！"
         },
         {
           "cardBattleSkillNameId": "10136",
@@ -7510,6 +7514,10 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "17701",
           "name": "紅葫蘆"
+        },
+        {
+          "cardBattleSkillNameId": "18506",
+          "name": "庇う"
         },
         {
           "cardBattleSkillNameId": "20100",

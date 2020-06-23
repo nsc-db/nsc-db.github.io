@@ -22921,10 +22921,26 @@ window.gear=[
           "effectIdx4": "0",
           "money": "30000",
           "saleMoney": "2500",
-          "crystalName": "0",
-          "crystalDescription": "0",
+          "crystalName": "破れたマスク",
+          "crystalDescription": "HP99%以上のときスキル発動速度1段階アップ",
           "crystalImageId": "306115",
           "recipeId": "30611",
           "recipeName": "破れたマスク"
+        },
+        {
+          "crystalId": "30612",
+          "crystalType": "1",
+          "crystalRare": "5",
+          "effectIdx1": "684",
+          "effectIdx2": "1782",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "自来也の石剣",
+          "crystalDescription": "最大HP100%アップするが、スキル発動速度1段階ダウン",
+          "crystalImageId": "306125",
+          "recipeId": "30612",
+          "recipeName": "自来也の石剣"
         }
 ]

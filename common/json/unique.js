@@ -13094,13 +13094,25 @@ window.unique=[
         {
           "crystalOverwriteEffectId": "1107",
           "targetCrystal": "30611",
-          "description": "0",
+          "description": "スキル発動速度1段階アップ、スキルダメージ80%アップ、行動後チャクラ30%回復",
           "charaIds": "1704",
           "cardIds": "0",
           "charaGroupIds": "0",
           "effectIdx1": "1840",
           "effectIdx2": "694",
           "effectIdx3": "820",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1110",
+          "targetCrystal": "30612",
+          "description": "最大HP120%アップ、スキル発動速度1段階アップ、HP0以下で耐えた時HP20%回復",
+          "charaIds": "2401",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1221",
+          "effectIdx2": "1840",
+          "effectIdx3": "3094",
           "effectIdx4": "0"
         }
         ]
