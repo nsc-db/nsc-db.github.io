@@ -3491,6 +3491,42 @@
           "voiceDeath": "kabuto_death_02_02"
         },
         {
+          "cardVoiceId": "295",
+          "cardId": "20060607",
+          "dirName": "kakasi",
+          "evolutionStep": "",
+          "voiceAppear": "kakasi_battle_02_05",
+          "voiceSkill1": "kakasi_win_02_06",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "kakasi_win_02_01",
+          "voiceDeath": "kakasi_death_02_01"
+        },
+        {
+          "cardVoiceId": "296",
+          "cardId": "20060608",
+          "dirName": "jiraiya",
+          "evolutionStep": "",
+          "voiceAppear": "jiraiya_battle_02_02",
+          "voiceSkill1": "jiraiya_pursuit_02_02",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "jiraiya_win_02_01",
+          "voiceDeath": "jiraiya_death_02_02"
+        },
+        {
+          "cardVoiceId": "297",
+          "cardId": "20060609",
+          "dirName": "pain",
+          "evolutionStep": "",
+          "voiceAppear": "pain_battle_02_01",
+          "voiceSkill1": "pain_skill_02_05",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "pain_win_02_02",
+          "voiceDeath": "pain_death_02_01"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

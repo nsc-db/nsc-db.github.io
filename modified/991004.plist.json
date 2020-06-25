@@ -5585,6 +5585,18 @@
           "speechCharactorName": "キラービー"
         },
         {
+          "speechCharactorId": "987",
+          "cardId": "865",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "ペイン"
+        },
+        {
+          "speechCharactorId": "988",
+          "cardId": "866",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "ペイン"
+        },
+        {
           "speechCharactorId": "1000",
           "cardId": "21000091",
           "speechCharactorImgId": "1000",

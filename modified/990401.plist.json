@@ -8514,6 +8514,11 @@
           "gachaTicketImgId": "4323"
         },
         {
+          "gachaTicketId": "4324",
+          "gachaTicketName": "自来也忍具ガチャチケット",
+          "gachaTicketImgId": "4324"
+        },
+        {
           "gachaTicketId": "4326",
           "gachaTicketName": "うちはイタチガチャチケット",
           "gachaTicketImgId": "4326"
@@ -8624,9 +8629,54 @@
           "gachaTicketImgId": "4347"
         },
         {
+          "gachaTicketId": "4353",
+          "gachaTicketName": "第七班・極ガチャチケット",
+          "gachaTicketImgId": "4353"
+        },
+        {
+          "gachaTicketId": "4354",
+          "gachaTicketName": "第七班・特別ガチャチケット",
+          "gachaTicketImgId": "4354"
+        },
+        {
+          "gachaTicketId": "4355",
+          "gachaTicketName": "カカシ確定ガチャチケット",
+          "gachaTicketImgId": "4355"
+        },
+        {
+          "gachaTicketId": "4356",
+          "gachaTicketName": "英武の慧眼ガチャチケット",
+          "gachaTicketImgId": "4356"
+        },
+        {
+          "gachaTicketId": "4357",
+          "gachaTicketName": "英武の慧眼・祭",
+          "gachaTicketImgId": "4356"
+        },
+        {
           "gachaTicketId": "4358",
           "gachaTicketName": "砂隠れ忍具ガチャチケット",
           "gachaTicketImgId": "4358"
+        },
+        {
+          "gachaTicketId": "4359",
+          "gachaTicketName": "伝説の三忍・特別ガチャチケット",
+          "gachaTicketImgId": "4359"
+        },
+        {
+          "gachaTicketId": "4360",
+          "gachaTicketName": "破滅を穿つ蝦蟇義侠ガチャチケット",
+          "gachaTicketImgId": "4360"
+        },
+        {
+          "gachaTicketId": "4361",
+          "gachaTicketName": "破滅を穿つ蝦蟇義侠・祭",
+          "gachaTicketImgId": "4360"
+        },
+        {
+          "gachaTicketId": "4362",
+          "gachaTicketName": "破滅を穿つ蝦蟇義侠・忍具ガチャチケット",
+          "gachaTicketImgId": "4362"
         },
         {
           "gachaTicketId": "4363",
@@ -8637,6 +8687,41 @@
           "gachaTicketId": "4364",
           "gachaTicketName": "総選挙選抜祭-壱の陣-ガチャチケット",
           "gachaTicketImgId": "4364"
+        },
+        {
+          "gachaTicketId": "4365",
+          "gachaTicketName": "総選挙選抜祭-弐の陣-特別ガチャチケット",
+          "gachaTicketImgId": "4365"
+        },
+        {
+          "gachaTicketId": "4366",
+          "gachaTicketName": "総選挙選抜祭-弐の陣-ガチャチケット",
+          "gachaTicketImgId": "4366"
+        },
+        {
+          "gachaTicketId": "4369",
+          "gachaTicketName": "★6以上“暁”確定 -神-ガチャチケット",
+          "gachaTicketImgId": "4369"
+        },
+        {
+          "gachaTicketId": "4370",
+          "gachaTicketName": "★6以上“暁”確定 -破神-ガチャチケット",
+          "gachaTicketImgId": "4370"
+        },
+        {
+          "gachaTicketId": "4371",
+          "gachaTicketName": "★6“暁”確定ガチャチケット",
+          "gachaTicketImgId": "4371"
+        },
+        {
+          "gachaTicketId": "4372",
+          "gachaTicketName": "瞳乱の凶禍ガチャチケット",
+          "gachaTicketImgId": "4372"
+        },
+        {
+          "gachaTicketId": "4373",
+          "gachaTicketName": "瞳乱の凶禍・祭",
+          "gachaTicketImgId": "4372"
         },
         {
           "gachaTicketId": "100084",

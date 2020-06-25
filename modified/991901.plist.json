@@ -47,6 +47,66 @@
           "specialPanelList": "9000004,9000005,9000006"
         },
         {
+          "sphereBoardId": "10014",
+          "boardName": "Temp_Ct40_心属性_の潜在覚醒盤",
+          "boardDescription": "うちはシスイ【英邁なる瞬才】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20051006",
+          "normalPanelList": "9000001,9000002,9000003",
+          "specialPanelList": "9000004,9000005,9000006"
+        },
+        {
+          "sphereBoardId": "10015",
+          "boardName": "Temp_Ct40_技属性_の潜在覚醒盤",
+          "boardDescription": "うちはサスケ【雷槍の閃き】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20050206",
+          "normalPanelList": "9000007,9000008,9000009",
+          "specialPanelList": "9000010,9000011,9000012"
+        },
+        {
+          "sphereBoardId": "10016",
+          "boardName": "Temp_Ct40_勇属性_の潜在覚醒盤",
+          "boardDescription": "うちはオビト【終焉の覚醒】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20041103",
+          "normalPanelList": "9000025,9000026,9000027",
+          "specialPanelList": "9000028,9000029,9000030"
+        },
+        {
+          "sphereBoardId": "10017",
+          "boardName": "Temp_Ct40_知属性_の潜在覚醒盤",
+          "boardDescription": "うずまきナルト【英雄の軌跡】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20041006",
+          "normalPanelList": "9000019,9000020,9000021",
+          "specialPanelList": "9000022,9000023,9000024"
+        },
+        {
+          "sphereBoardId": "10018",
+          "boardName": "Temp_Ct40_体属性_の潜在覚醒盤",
+          "boardDescription": "うちはイタチ【夢の暁光】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20030924",
+          "normalPanelList": "9000013,9000014,9000015",
+          "specialPanelList": "9000016,9000017,9000018"
+        },
+        {
           "sphereBoardId": "50001",
           "boardName": "Temp_Ct=&gt;90_体属性_の潜在覚醒盤",
           "boardDescription": "うずまきナルト【解き示す絆の輝き】",

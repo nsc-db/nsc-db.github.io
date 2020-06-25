@@ -7423,8 +7423,32 @@
           "name": "自然がボクの味方をする"
         },
         {
+          "cardBattleSkillNameId": "3071",
+          "name": "塵鋭爪"
+        },
+        {
+          "cardBattleSkillNameId": "3072",
+          "name": "太刀筋は見事…"
+        },
+        {
           "cardBattleSkillNameId": "3073",
           "name": "六尾・腐毒泡抱"
+        },
+        {
+          "cardBattleSkillNameId": "3074",
+          "name": "水陣壁・潜刃"
+        },
+        {
+          "cardBattleSkillNameId": "3075",
+          "name": "そろそろワシの出番ですの！"
+        },
+        {
+          "cardBattleSkillNameId": "3078",
+          "name": "痛恨の刺閃"
+        },
+        {
+          "cardBattleSkillNameId": "3079",
+          "name": "驕るな"
         },
         {
           "cardBattleSkillNameId": "10136",
@@ -7497,6 +7521,10 @@
         {
           "cardBattleSkillNameId": "17701",
           "name": "紅葫蘆"
+        },
+        {
+          "cardBattleSkillNameId": "18506",
+          "name": "庇う"
         },
         {
           "cardBattleSkillNameId": "20100",

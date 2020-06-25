@@ -23281,11 +23281,11 @@
         {
           "abilityId": "2380",
           "abilityName": "無二の瞳術と思想",
-          "abilityDescription": "敵か味方にうちはイタチ（年代問わず）が生存しているとスキルダメージ100%アップ、2回行動までチャクラ消費0",
-          "abilityEffectDescription": "敵か味方にうちはイタチ（年代問わず）が生存しているとスキルダメージ100%アップ、2回行動までチャクラ消費0",
+          "abilityDescription": "敵か味方にうちはｲﾀﾁが生存しているとｽｷﾙﾀﾞﾒｰｼﾞ100%ｱｯﾌﾟ＆高確率でｽｷﾙ回避、2回行動までﾁｬｸﾗ消費0",
+          "abilityEffectDescription": "敵か味方にうちはｲﾀﾁが生存しているとｽｷﾙﾀﾞﾒｰｼﾞ100%ｱｯﾌﾟ＆高確率でｽｷﾙ回避、2回行動までﾁｬｸﾗ消費0",
           "effectIdx1": "2581",
-          "effectIdx2": "1646",
-          "effectIdx3": "0",
+          "effectIdx2": "3051",
+          "effectIdx3": "1646",
           "effectIds": "0"
         },
         {
@@ -25299,6 +25299,26 @@
           "effectIds": "0"
         },
         {
+          "abilityId": "2586",
+          "abilityName": "砂隠れの実力者",
+          "abilityDescription": "HP0以下で1回耐え、行動するたびに素早さが30％アップする(最大5回)",
+          "abilityEffectDescription": "HP0以下で1回耐え、行動するたびに素早さが30％アップする(最大5回)",
+          "effectIdx1": "312",
+          "effectIdx2": "1424",
+          "effectIdx3": "0",
+          "effectIds": "0"
+        },
+        {
+          "abilityId": "2587",
+          "abilityName": "里への忠義",
+          "abilityDescription": "HP50%以下の時にスキルダメージ100%アップ、確率でスキル回避",
+          "abilityEffectDescription": "HP50%以下の時にスキルダメージ100%アップ、確率でスキル回避",
+          "effectIdx1": "1758",
+          "effectIdx2": "1423",
+          "effectIdx3": "0",
+          "effectIds": "0"
+        },
+        {
           "abilityId": "2588",
           "abilityName": "厭世互助",
           "abilityDescription": "行動ごとに確率でスキル発動速度1段階アップ",
@@ -25317,6 +25337,66 @@
           "effectIdx2": "12029",
           "effectIdx3": "183",
           "effectIds": "0"
+        },
+        {
+          "abilityId": "2590",
+          "abilityName": "次代を見守る瞳",
+          "abilityDescription": "バトル開始時に確率で敵全体を短い間鈍状態にし、1回行動まで攻撃を受けたとき即アクション",
+          "abilityEffectDescription": "バトル開始時に確率で敵全体を短い間鈍状態にし、1回行動まで攻撃を受けたとき即アクション",
+          "effectIdx1": "3076",
+          "effectIdx2": "2642",
+          "effectIdx3": "0",
+          "effectIds": "0"
+        },
+        {
+          "abilityId": "2591",
+          "abilityName": "脅威を見破る瞳",
+          "abilityDescription": "敵に滅キャラがいるとスキルダメージ200%アップ、HP0以下で1回HP全回復",
+          "abilityEffectDescription": "敵に滅キャラがいるとスキルダメージ200%アップ、HP0以下で1回HP全回復",
+          "effectIdx1": "3077",
+          "effectIdx2": "312",
+          "effectIdx3": "874",
+          "effectIds": "0"
+        },
+        {
+          "abilityId": "2592",
+          "abilityName": "妙木山での修験",
+          "abilityDescription": "HP0以下で5回耐える、耐えた時敵に創キャラが生存していると高確率で自身の弱体系特殊状態解除",
+          "abilityEffectDescription": "HP0以下で5回耐える、耐えた時敵に創キャラが生存していると高確率で自身の弱体系特殊状態解除",
+          "effectIdx1": "1512",
+          "effectIdx2": "3082",
+          "effectIdx3": "0",
+          "effectIds": "1512,3082,"
+        },
+        {
+          "abilityId": "2593",
+          "abilityName": "不退転の選択",
+          "abilityDescription": "被攻撃時1回まで確率で素早さ＆ｽｷﾙﾀﾞﾒｰｼﾞ150％ｱｯﾌﾟ、木ノ葉所属への単体ｽｷﾙ攻撃を受ける※かばうは最終発動が有効",
+          "abilityEffectDescription": "被攻撃時1回まで確率で素早さ＆ｽｷﾙﾀﾞﾒｰｼﾞ150％ｱｯﾌﾟ、木ノ葉所属への単体ｽｷﾙ攻撃を受ける※かばうは最終発動が有効",
+          "effectIdx1": "3085",
+          "effectIdx2": "3086",
+          "effectIdx3": "1834",
+          "effectIds": "3085,3086,1834,"
+        },
+        {
+          "abilityId": "2596",
+          "abilityName": "天衣無縫の瞳力",
+          "abilityDescription": "HP0以下で5回全回復、敵に木ノ葉隠れの里所属がいるとバトル開始時に敵全体を1回行動まで欠乏状態にする",
+          "abilityEffectDescription": "HP0以下で5回全回復、敵に木ノ葉隠れの里所属がいるとバトル開始時に敵全体を1回行動まで欠乏状態にする",
+          "effectIdx1": "1512",
+          "effectIdx2": "874",
+          "effectIdx3": "3080",
+          "effectIds": "1512,874,3080,"
+        },
+        {
+          "abilityId": "2597",
+          "abilityName": "七つの異能",
+          "abilityDescription": "1,000,000以上のダメージを1,000,000ダメージに軽減、攻撃を受けるたびに素早さ100%アップ（最大500%）",
+          "abilityEffectDescription": "1,000,000以上のダメージを1,000,000ダメージに軽減、攻撃を受けるたびに素早さ100%アップ（最大500%）",
+          "effectIdx1": "3079",
+          "effectIdx2": "2573",
+          "effectIdx3": "0",
+          "effectIds": "3079,2573,"
         },
         {
           "abilityId": "10000",
