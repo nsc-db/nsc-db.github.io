@@ -7444,6 +7444,14 @@ window.skillname=[
           "name": "そろそろワシの出番ですの！"
         },
         {
+          "cardBattleSkillNameId": "3078",
+          "name": "痛恨の刺閃"
+        },
+        {
+          "cardBattleSkillNameId": "3079",
+          "name": "驕るな"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },

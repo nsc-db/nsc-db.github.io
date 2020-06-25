@@ -25380,6 +25380,26 @@ window.ability=[
           "effectIds": "3085,3086,1834,"
         },
         {
+          "abilityId": "2596",
+          "abilityName": "天衣無縫の瞳力",
+          "abilityDescription": "HP0以下で5回全回復、敵に木ノ葉隠れの里所属がいるとバトル開始時に敵全体を1回行動まで欠乏状態にする",
+          "abilityEffectDescription": "HP0以下で5回全回復、敵に木ノ葉隠れの里所属がいるとバトル開始時に敵全体を1回行動まで欠乏状態にする",
+          "effectIdx1": "1512",
+          "effectIdx2": "874",
+          "effectIdx3": "3080",
+          "effectIds": "1512,874,3080,"
+        },
+        {
+          "abilityId": "2597",
+          "abilityName": "七つの異能",
+          "abilityDescription": "1,000,000以上のダメージを1,000,000ダメージに軽減、攻撃を受けるたびに素早さ100%アップ（最大500%）",
+          "abilityEffectDescription": "1,000,000以上のダメージを1,000,000ダメージに軽減、攻撃を受けるたびに素早さ100%アップ（最大500%）",
+          "effectIdx1": "3079",
+          "effectIdx2": "2573",
+          "effectIdx3": "0",
+          "effectIds": "3079,2573,"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

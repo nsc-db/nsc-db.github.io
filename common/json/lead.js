@@ -14938,6 +14938,20 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1085",
+          "name": "瞳乱の凶禍",
+          "description": "5回行動まで“暁”所属の素早さ150%アップ",
+          "effectIdx1": "3081",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3081,",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "8",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

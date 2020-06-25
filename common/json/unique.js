@@ -13104,6 +13104,30 @@ window.unique=[
           "effectIdx4": "0"
         },
         {
+          "crystalOverwriteEffectId": "1108",
+          "targetCrystal": "30613",
+          "description": "スキル発動速度1段階アップ、バトル開始時チャクラ100%回復、チャクラ消費30%減少",
+          "charaIds": "11801",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1840",
+          "effectIdx2": "1994",
+          "effectIdx3": "859",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1109",
+          "targetCrystal": "30614",
+          "description": "低確率で再行動、素早さ50%アップ、行動後チャクラ50%回復",
+          "charaIds": "11801",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "2537",
+          "effectIdx2": "13049",
+          "effectIdx3": "2644",
+          "effectIdx4": "0"
+        },
+        {
           "crystalOverwriteEffectId": "1110",
           "targetCrystal": "30612",
           "description": "最大HP120%アップ、スキル発動速度1段階アップ、HP0以下で耐えた時HP20%回復",

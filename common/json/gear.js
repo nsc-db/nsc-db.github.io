@@ -22942,5 +22942,37 @@ window.gear=[
           "crystalImageId": "306125",
           "recipeId": "30612",
           "recipeName": "自来也の石剣"
+        },
+        {
+          "crystalId": "30613",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "1840",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "ペインのチャクラ受信機",
+          "crystalDescription": "スキル発動速度1段階アップ",
+          "crystalImageId": "306135",
+          "recipeId": "30613",
+          "recipeName": "ペインのチャクラ受信機"
+        },
+        {
+          "crystalId": "30614",
+          "crystalType": "3",
+          "crystalRare": "5",
+          "effectIdx1": "2537",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "痛みによる平和",
+          "crystalDescription": "低確率で再行動",
+          "crystalImageId": "306145",
+          "recipeId": "30614",
+          "recipeName": "痛みによる平和"
         }
 ]
