@@ -13137,5 +13137,29 @@
           "effectIdx2": "1840",
           "effectIdx3": "3094",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1113",
+          "targetCrystal": "30615",
+          "description": "バトル開始時チャクラ100%回復、自身含む班の木ノ葉所属の人数に応じて最大HP・防御・素早さ30%アップ",
+          "charaIds": "2104,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1994",
+          "effectIdx2": "1226",
+          "effectIdx3": "1225",
+          "effectIdx4": "2851"
+        },
+        {
+          "crystalOverwriteEffectId": "1114",
+          "targetCrystal": "30616",
+          "description": "チャクラ消費量半減、スキル発動速度1段階アップ、5回行動まで素早さ150%アップ",
+          "charaIds": "2104,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "895",
+          "effectIdx2": "1840",
+          "effectIdx3": "3081",
+          "effectIdx4": "0"
         }
       ]

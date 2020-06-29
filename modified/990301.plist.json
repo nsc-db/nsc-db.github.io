@@ -22973,5 +22973,37 @@
           "crystalImageId": "306145",
           "recipeId": "30614",
           "recipeName": "痛みによる平和"
+        },
+        {
+          "crystalId": "30615",
+          "crystalType": "3",
+          "crystalRare": "5",
+          "effectIdx1": "1115",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "四代目火影の火の意志",
+          "crystalDescription": "バトル開始時チャクラ50%回復",
+          "crystalImageId": "306155",
+          "recipeId": "30615",
+          "recipeName": "四代目火影の火の意志"
+        },
+        {
+          "crystalId": "30616",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "859",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "折れた特注クナイ",
+          "crystalDescription": "チャクラ消費量30%減少",
+          "crystalImageId": "306165",
+          "recipeId": "30616",
+          "recipeName": "折れた特注クナイ"
         }
       ]

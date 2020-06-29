@@ -21491,22 +21491,22 @@
         {
           "abilityId": "2201",
           "abilityName": "身に付けし蝦蟇仙術",
-          "abilityDescription": "バトル開始時に特殊状態「仙人モード」になり、5回行動するまで攻撃・防御・素早さが120%アップ",
-          "abilityEffectDescription": "バトル開始時に特殊状態「仙人モード」になり、5回行動するまで攻撃・防御・素早さが120%アップ",
-          "effectIdx1": "2217",
+          "abilityDescription": "バトル開始時に長い間仙人モード状態になり、5回行動するまで攻撃・防御・素早さが120%アップ",
+          "abilityEffectDescription": "バトル開始時に長い間仙人モード状態になり、5回行動するまで攻撃・防御・素早さが120%アップ",
+          "effectIdx1": "3056",
           "effectIdx2": "2218",
           "effectIdx3": "0",
-          "effectIds": null
+          "effectIds": "3056,2218,"
         },
         {
           "abilityId": "2202",
           "abilityName": "諦めない心",
-          "abilityDescription": "状態異常を無効化し、HP0以下で2回まで耐える",
-          "abilityEffectDescription": "状態異常を無効化し、HP0以下で2回まで耐える",
-          "effectIdx1": "82",
+          "abilityDescription": "弱体・状態異常を無効化し、HP0以下で2回まで耐える",
+          "abilityEffectDescription": "弱体・状態異常を無効化し、HP0以下で2回まで耐える",
+          "effectIdx1": "880",
           "effectIdx2": "1057",
           "effectIdx3": "0",
-          "effectIds": null
+          "effectIds": "0"
         },
         {
           "abilityId": "2203",
@@ -21801,12 +21801,12 @@
         {
           "abilityId": "2232",
           "abilityName": "弟の友に託す願い",
-          "abilityDescription": "死亡した時、味方全体を特殊状態「託」にし、HP80％以上の時、確実に再行動する※再行動後さらに行動はできない",
-          "abilityEffectDescription": "死亡した時、味方全体を特殊状態「託」にし、HP80％以上の時、確実に再行動する※再行動後さらに行動はできない",
+          "abilityDescription": "死亡した時、味方全体を特殊状態「託」にし、HP50％以上の時、確実に再行動する※再行動後さらに行動はできない",
+          "abilityEffectDescription": "死亡した時、味方全体を特殊状態「託」にし、HP50％以上の時、確実に再行動する※再行動後さらに行動はできない",
           "effectIdx1": "2268",
-          "effectIdx2": "2269",
+          "effectIdx2": "3055",
           "effectIdx3": "0",
-          "effectIds": null
+          "effectIds": "0"
         },
         {
           "abilityId": "2233",
@@ -25399,6 +25399,26 @@
           "effectIds": "3079,2573,"
         },
         {
+          "abilityId": "2598",
+          "abilityName": "新たな力の習得",
+          "abilityDescription": "敵に無所属がいると確率で先制、3回行動まで弱体系特殊状態無効、死亡時に敵が展開した地形効果を破壊して解除",
+          "abilityEffectDescription": "敵に無所属がいると確率で先制、3回行動まで弱体系特殊状態無効、死亡時に敵が展開した地形効果を破壊して解除",
+          "effectIdx1": "2509",
+          "effectIdx2": "2722",
+          "effectIdx3": "3083",
+          "effectIds": "2509,2722,3083,"
+        },
+        {
+          "abilityId": "2599",
+          "abilityName": "瞬身繰る時空間忍術",
+          "abilityDescription": "超忍・創・滅キャラからのダメージ50%カット、HP0以下で3回耐える、バトル開始時に自身を短い間神結状態にする",
+          "abilityEffectDescription": "超忍・創・滅キャラからのダメージ50%カット、HP0以下で3回耐える、バトル開始時に自身を短い間神結状態にする",
+          "effectIdx1": "2708",
+          "effectIdx2": "1789",
+          "effectIdx3": "3084",
+          "effectIds": "2708,1789,3084,"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -26949,6 +26969,46 @@
           "effectIds": "30011,3053,3054,"
         },
         {
+          "abilityId": "100103",
+          "abilityName": "勇名の真髄",
+          "abilityDescription": "2回行動するまでスキルダメージ100%アップ&amp;チャクラ消費0、弱体と状態異常を無効化",
+          "abilityEffectDescription": "2回行動するまでスキルダメージ100%アップ&amp;チャクラ消費0、弱体と状態異常を無効化",
+          "effectIdx1": "30109",
+          "effectIdx2": "1646",
+          "effectIdx3": "880",
+          "effectIds": "0"
+        },
+        {
+          "abilityId": "100104",
+          "abilityName": "\"陰\"の九喇嘛",
+          "abilityDescription": "HP0以下で1回耐える、最大チャクラ量150アップ、スキルダメージ150％アップ",
+          "abilityEffectDescription": "HP0以下で1回耐える、最大チャクラ量150アップ、スキルダメージ150％アップ",
+          "effectIdx1": "312",
+          "effectIdx2": "20014",
+          "effectIdx3": "794",
+          "effectIds": "0"
+        },
+        {
+          "abilityId": "100105",
+          "abilityName": "…懐かしい感覚だ！",
+          "abilityDescription": "最大HP・素早さ150％アップ、スキル発動速度1段階アップ",
+          "abilityEffectDescription": "最大HP・素早さ150％アップ、スキル発動速度1段階アップ",
+          "effectIdx1": "1212",
+          "effectIdx2": "967",
+          "effectIdx3": "21000",
+          "effectIds": "0"
+        },
+        {
+          "abilityId": "100106",
+          "abilityName": "写輪眼の血族",
+          "abilityDescription": "最大HP・素早さが100％アップし、200%の確率でスキル回避",
+          "abilityEffectDescription": "最大HP・素早さが100％アップし、200%の確率でスキル回避",
+          "effectIdx1": "684",
+          "effectIdx2": "13099",
+          "effectIdx3": "1724",
+          "effectIds": "0"
+        },
+        {
           "abilityId": "200001",
           "abilityName": "心属性特化",
           "abilityDescription": "心属性へのスキル攻撃時に相手の耐性を弱点とする。心属性からのダメージを50%カット",
@@ -28051,12 +28111,12 @@
         {
           "abilityId": "310065",
           "abilityName": "Bマス用_禁忌",
-          "abilityDescription": "耐えた時、自身を長い間仙人モード状態になる",
-          "abilityEffectDescription": "耐えた時、自身を長い間仙人モード状態になる",
+          "abilityDescription": "耐えた時、自身を長い間仙人モード状態にする",
+          "abilityEffectDescription": "耐えた時、自身を長い間仙人モード状態にする",
           "effectIdx1": "3066",
           "effectIdx2": "0",
           "effectIdx3": "0",
-          "effectIds": "0"
+          "effectIds": "3066,"
         },
         {
           "abilityId": "310066",

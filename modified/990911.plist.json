@@ -6894,6 +6894,48 @@
           "assetNum": "1"
         },
         {
+          "worldPhaseMissionRewardId": "3956",
+          "worldPhaseId": "8047",
+          "assetCategoryId": "1",
+          "assetValue": "22000501",
+          "assetNum": "5"
+        },
+        {
+          "worldPhaseMissionRewardId": "3957",
+          "worldPhaseId": "8048",
+          "assetCategoryId": "1",
+          "assetValue": "28000002",
+          "assetNum": "3"
+        },
+        {
+          "worldPhaseMissionRewardId": "3958",
+          "worldPhaseId": "8049",
+          "assetCategoryId": "26",
+          "assetValue": "2006006",
+          "assetNum": "1"
+        },
+        {
+          "worldPhaseMissionRewardId": "3959",
+          "worldPhaseId": "8050",
+          "assetCategoryId": "1",
+          "assetValue": "28000002",
+          "assetNum": "5"
+        },
+        {
+          "worldPhaseMissionRewardId": "3960",
+          "worldPhaseId": "8051",
+          "assetCategoryId": "1",
+          "assetValue": "28000003",
+          "assetNum": "1"
+        },
+        {
+          "worldPhaseMissionRewardId": "3961",
+          "worldPhaseId": "8052",
+          "assetCategoryId": "1",
+          "assetValue": "25000202",
+          "assetNum": "1"
+        },
+        {
           "worldPhaseMissionRewardId": "11017",
           "worldPhaseId": "41787",
           "assetCategoryId": "1",
@@ -8268,6 +8310,76 @@
         {
           "worldPhaseMissionRewardId": "20181",
           "worldPhaseId": "1687",
+          "assetCategoryId": "2",
+          "assetValue": "0",
+          "assetNum": "1"
+        },
+        {
+          "worldPhaseMissionRewardId": "20182",
+          "worldPhaseId": "1188",
+          "assetCategoryId": "2",
+          "assetValue": "0",
+          "assetNum": "1"
+        },
+        {
+          "worldPhaseMissionRewardId": "20183",
+          "worldPhaseId": "1189",
+          "assetCategoryId": "2",
+          "assetValue": "0",
+          "assetNum": "1"
+        },
+        {
+          "worldPhaseMissionRewardId": "20184",
+          "worldPhaseId": "1190",
+          "assetCategoryId": "2",
+          "assetValue": "0",
+          "assetNum": "1"
+        },
+        {
+          "worldPhaseMissionRewardId": "20185",
+          "worldPhaseId": "1191",
+          "assetCategoryId": "2",
+          "assetValue": "0",
+          "assetNum": "1"
+        },
+        {
+          "worldPhaseMissionRewardId": "20186",
+          "worldPhaseId": "1192",
+          "assetCategoryId": "2",
+          "assetValue": "0",
+          "assetNum": "1"
+        },
+        {
+          "worldPhaseMissionRewardId": "20187",
+          "worldPhaseId": "1688",
+          "assetCategoryId": "2",
+          "assetValue": "0",
+          "assetNum": "1"
+        },
+        {
+          "worldPhaseMissionRewardId": "20188",
+          "worldPhaseId": "1689",
+          "assetCategoryId": "2",
+          "assetValue": "0",
+          "assetNum": "1"
+        },
+        {
+          "worldPhaseMissionRewardId": "20189",
+          "worldPhaseId": "1690",
+          "assetCategoryId": "2",
+          "assetValue": "0",
+          "assetNum": "1"
+        },
+        {
+          "worldPhaseMissionRewardId": "20190",
+          "worldPhaseId": "1691",
+          "assetCategoryId": "2",
+          "assetValue": "0",
+          "assetNum": "1"
+        },
+        {
+          "worldPhaseMissionRewardId": "20191",
+          "worldPhaseId": "1692",
           "assetCategoryId": "2",
           "assetValue": "0",
           "assetNum": "1"

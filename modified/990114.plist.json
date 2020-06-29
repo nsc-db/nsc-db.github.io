@@ -2689,6 +2689,16 @@
           "type": "2"
         },
         {
+          "cardUnusualId": "274",
+          "category": "4",
+          "iconId": "1326",
+          "name": "神結",
+          "description": "弱体系特殊状態解除＆無効。被攻撃時確率で乱舞カウント減少&amp;即アクション。スキル攻撃時地形効果解除。",
+          "subScore": "0",
+          "color": "16774242",
+          "type": "2"
+        },
+        {
           "cardUnusualId": "275",
           "category": "3",
           "iconId": "1327",
