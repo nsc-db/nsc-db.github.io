@@ -7452,6 +7452,14 @@ window.skillname=[
           "name": "驕るな"
         },
         {
+          "cardBattleSkillNameId": "3080",
+          "name": "尾獣玉・螺旋閃光"
+        },
+        {
+          "cardBattleSkillNameId": "3081",
+          "name": "遅かったか？"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },
