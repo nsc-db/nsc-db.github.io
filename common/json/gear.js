@@ -23006,5 +23006,37 @@ window.gear=[
           "crystalImageId": "306165",
           "recipeId": "30616",
           "recipeName": "折れた特注クナイ"
+        },
+        {
+          "crystalId": "30701",
+          "crystalType": "1",
+          "crystalRare": "5",
+          "effectIdx1": "10039",
+          "effectIdx2": "12039",
+          "effectIdx3": "692",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "ネジの上着",
+          "crystalDescription": "最大HP・防御力・スキルダメージ40%アップ",
+          "crystalImageId": "307015",
+          "recipeId": "30701",
+          "recipeName": "ネジの上着"
+        },
+        {
+          "crystalId": "30702",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "1688",
+          "effectIdx2": "1782",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "額の呪印",
+          "crystalDescription": "行動後に確率で全スキル半減状態になるが、スキル発動速度1段階ダウン",
+          "crystalImageId": "307025",
+          "recipeId": "30702",
+          "recipeName": "額の呪印"
         }
 ]

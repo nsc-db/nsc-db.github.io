@@ -13140,6 +13140,30 @@ window.unique=[
           "effectIdx4": "0"
         },
         {
+          "crystalOverwriteEffectId": "1111",
+          "targetCrystal": "30701",
+          "description": "最大HP・防御力・スキルダメージ100%アップ",
+          "charaIds": "1002",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "684",
+          "effectIdx2": "12099",
+          "effectIdx3": "774",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1112",
+          "targetCrystal": "30702",
+          "description": "行動後に確率で全スキル半減状態&amp;耐性無視ダメージ0、スキル発動速度1段階アップ",
+          "charaIds": "1002",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1688",
+          "effectIdx2": "3095",
+          "effectIdx3": "1840",
+          "effectIdx4": "0"
+        },
+        {
           "crystalOverwriteEffectId": "1113",
           "targetCrystal": "30615",
           "description": "バトル開始時チャクラ100%回復、自身含む班の木ノ葉所属の人数に応じて最大HP・防御・素早さ30%アップ",

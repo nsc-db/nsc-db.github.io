@@ -7444,6 +7444,14 @@ window.skillname=[
           "name": "そろそろワシの出番ですの！"
         },
         {
+          "cardBattleSkillNameId": "3076",
+          "name": "八卦空掌・鳳舞"
+        },
+        {
+          "cardBattleSkillNameId": "3077",
+          "name": "後ろだ！"
+        },
+        {
           "cardBattleSkillNameId": "3078",
           "name": "痛恨の刺閃"
         },
@@ -7458,6 +7466,14 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "3081",
           "name": "遅かったか？"
+        },
+        {
+          "cardBattleSkillNameId": "3086",
+          "name": "青春蹴撃"
+        },
+        {
+          "cardBattleSkillNameId": "3087",
+          "name": "青春に後ろ向きはない！！"
         },
         {
           "cardBattleSkillNameId": "10136",
