@@ -14937,6 +14937,20 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1084",
+          "name": "尚武の鋭眼",
+          "description": "3回行動まで木ノ葉隠れの里所属へのダメージを高確率で35%カットする",
+          "effectIdx1": "3091",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3091,",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "1085",
           "name": "瞳乱の凶禍",
           "description": "5回行動まで“暁”所属の素早さ150%アップ",
@@ -14961,6 +14975,20 @@
           "compType": "1",
           "target1Category": "2",
           "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "1089",
+          "name": "青春の先駆者",
+          "description": "体属性の攻撃力を50%アップする",
+          "effectIdx1": "251",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "251,",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "3",
           "target2Category": "0",
           "target2Param": "0"
         },

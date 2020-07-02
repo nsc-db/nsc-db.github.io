@@ -2716,6 +2716,19 @@
           "selectType": "2"
         },
         {
+          "itemId": "51059",
+          "name": "期間限定 昇級Pt倍化薬",
+          "description": "昇級試験での獲得Ptが2倍になります（7月6日15:59まで期間限定）",
+          "resultWord": "昇級試験 獲得Pt2倍",
+          "itemCategoryId": "11",
+          "itemValue": "20000",
+          "itemNum": "0",
+          "itemImageId": "51002",
+          "needCount": "1",
+          "priority": "100",
+          "selectType": "2"
+        },
+        {
           "itemId": "52000",
           "name": "限定ドロップ数２倍の秘伝書",
           "description": "バトルでの獲得ドロップ数が２倍になります。（1月4日15:59まで期間限定）",
@@ -3837,6 +3850,19 @@
           "itemId": "80006",
           "name": "期間限定 連合戦参加券",
           "description": "連合戦参加に必要なアイテム（7月15日11:59まで期間限定）",
+          "resultWord": "0",
+          "itemCategoryId": "28",
+          "itemValue": "1000000",
+          "itemNum": "0",
+          "itemImageId": "80001",
+          "needCount": "1",
+          "priority": "1",
+          "selectType": "1"
+        },
+        {
+          "itemId": "80007",
+          "name": "期間限定 連合戦参加券",
+          "description": "連合戦参加に必要なアイテム（8月15日11:59まで期間限定）",
           "resultWord": "0",
           "itemCategoryId": "28",
           "itemValue": "1000000",

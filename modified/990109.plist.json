@@ -25379,6 +25379,26 @@
           "effectIds": "3085,3086,1834,"
         },
         {
+          "abilityId": "2594",
+          "abilityName": "鍛え上げし柔拳",
+          "abilityDescription": "3回行動までダメージ75％カット＆高確率で耐性無視ダメージ0、行動後にHP35％回復",
+          "abilityEffectDescription": "3回行動までダメージ75％カット＆高確率で耐性無視ダメージ0、行動後にHP35％回復",
+          "effectIdx1": "3087",
+          "effectIdx2": "3111",
+          "effectIdx3": "3088",
+          "effectIds": "3087,3111,3088,"
+        },
+        {
+          "abilityId": "2595",
+          "abilityName": "白眼の見極め",
+          "abilityDescription": "敵に無所属か滅ｷｬﾗがいると確率で「後ろだ！」で急襲攻撃（ﾁｬｸﾗ中回復、両方いると確率ｱｯﾌﾟ）、防御力150％ｱｯﾌﾟ",
+          "abilityEffectDescription": "敵に無所属か滅ｷｬﾗがいると確率で「後ろだ！」で急襲攻撃（ﾁｬｸﾗ中回復、両方いると確率ｱｯﾌﾟ）、防御力150％ｱｯﾌﾟ",
+          "effectIdx1": "3089",
+          "effectIdx2": "3090",
+          "effectIdx3": "1459",
+          "effectIds": "3089,3090,1459,"
+        },
+        {
           "abilityId": "2596",
           "abilityName": "天衣無縫の瞳力",
           "abilityDescription": "HP0以下で5回全回復、敵に木ノ葉隠れの里所属がいるとバトル開始時に敵全体を1回行動まで欠乏状態にする",
@@ -25417,6 +25437,26 @@
           "effectIdx2": "1789",
           "effectIdx3": "3084",
           "effectIds": "2708,1789,3084,"
+        },
+        {
+          "abilityId": "2604",
+          "abilityName": "青春邁進",
+          "abilityDescription": "班の木ノ葉隠れの里所属のキャラ1体につき、素早さが20%アップ（自身含む）",
+          "abilityEffectDescription": "班の木ノ葉隠れの里所属のキャラ1体につき、素早さが20%アップ（自身含む）",
+          "effectIdx1": "1106",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "1106,"
+        },
+        {
+          "abilityId": "2605",
+          "abilityName": "真っ直ぐな父の背中",
+          "abilityDescription": "HPが50%以下の時に攻撃力100%アップ",
+          "abilityEffectDescription": "HPが50%以下の時に攻撃力100%アップ",
+          "effectIdx1": "3097",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3097,"
         },
         {
           "abilityId": "10000",
@@ -27007,6 +27047,26 @@
           "effectIdx2": "13099",
           "effectIdx3": "1724",
           "effectIds": "0"
+        },
+        {
+          "abilityId": "100112",
+          "abilityName": "一族殺し",
+          "abilityDescription": "最大チャクラ量200アップ、状態異常無効、敵に破神キャラがいるとバトル開始時に確率で先制攻撃",
+          "abilityEffectDescription": "最大チャクラ量200アップ、状態異常無効、敵に破神キャラがいるとバトル開始時に確率で先制攻撃",
+          "effectIdx1": "20019",
+          "effectIdx2": "82",
+          "effectIdx3": "3018",
+          "effectIds": "20019,82,3018,"
+        },
+        {
+          "abilityId": "100113",
+          "abilityName": "闇の中の忍",
+          "abilityDescription": "HP0以下で2回耐え、高確率でスキル回避、行動後に高確率で再度行動できる※再行動後にさらに行動はできない",
+          "abilityEffectDescription": "HP0以下で2回耐え、高確率でスキル回避、行動後に高確率で再度行動できる※再行動後にさらに行動はできない",
+          "effectIdx1": "968",
+          "effectIdx2": "1600",
+          "effectIdx3": "1057",
+          "effectIds": "968,1600,1057,"
         },
         {
           "abilityId": "200001",
