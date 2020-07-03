@@ -3077,6 +3077,15 @@
           "purchaseReleaseTime": "0000-00-00 00:00:00"
         },
         {
+          "mypageOrnamentId": "1808604",
+          "name": "その他",
+          "rarity": "2",
+          "resourceType": "0",
+          "category": "99",
+          "charaId": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
           "mypageOrnamentId": "1808606",
           "name": "その他",
           "rarity": "2",
@@ -6080,6 +6089,15 @@
           "resourceType": "0",
           "category": "1",
           "charaId": "10",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "2007002",
+          "name": "0",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "1",
+          "charaId": "1",
           "purchaseReleaseTime": "0000-00-00 00:00:00"
         }
       ]

@@ -5525,6 +5525,24 @@
           "speechCharactorName": "薬師カブト"
         },
         {
+          "speechCharactorId": "943",
+          "cardId": "943",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うずまきナルト"
+        },
+        {
+          "speechCharactorId": "944",
+          "cardId": "944",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うずまきナルト"
+        },
+        {
+          "speechCharactorId": "945",
+          "cardId": "945",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うずまきナルト"
+        },
+        {
           "speechCharactorId": "951",
           "cardId": "99999998",
           "speechCharactorImgId": "0",
