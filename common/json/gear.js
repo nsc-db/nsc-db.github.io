@@ -23038,5 +23038,21 @@ window.gear=[
           "crystalImageId": "307025",
           "recipeId": "30702",
           "recipeName": "額の呪印"
+        },
+        {
+          "crystalId": "30703",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "776",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "妙朴山の植物",
+          "crystalDescription": "弱体と状態異常を半減",
+          "crystalImageId": "307035",
+          "recipeId": "30703",
+          "recipeName": "妙朴山の植物"
         }
 ]

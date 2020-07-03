@@ -7476,6 +7476,14 @@ window.skillname=[
           "name": "青春に後ろ向きはない！！"
         },
         {
+          "cardBattleSkillNameId": "3088",
+          "name": "仙携・螺旋連丸"
+        },
+        {
+          "cardBattleSkillNameId": "3089",
+          "name": "いっきに終わらせてやる！！"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },
@@ -7694,6 +7702,10 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "30002",
           "name": "強化（素早さ）"
+        },
+        {
+          "cardBattleSkillNameId": "30500",
+          "name": "弱体（攻撃力）"
         },
         {
           "cardBattleSkillNameId": "500001",

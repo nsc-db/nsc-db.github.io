@@ -14082,12 +14082,12 @@ window.ability=[
         {
           "abilityId": "1409",
           "abilityName": "刻まれた絶望",
-          "abilityDescription": "最大HPが100%アップし、行動後HPが10%回復する",
-          "abilityEffectDescription": "最大HPが100%アップし、行動後HPが10%回復する",
-          "effectIdx1": "684",
-          "effectIdx2": "357",
-          "effectIdx3": "0",
-          "effectIds": null
+          "abilityDescription": "行動後にHP30％回復&amp;確率でﾁｬｸﾗ消費0、ﾊﾞﾄﾙ開始時確率で「この世界を消す…！」で急襲攻撃（ﾁｬｸﾗ中回復）",
+          "abilityEffectDescription": "行動後にHP30％回復&amp;確率でﾁｬｸﾗ消費0、ﾊﾞﾄﾙ開始時確率で「この世界を消す…！」で急襲攻撃（ﾁｬｸﾗ中回復）",
+          "effectIdx1": "1595",
+          "effectIdx2": "894",
+          "effectIdx3": "3014",
+          "effectIds": "1595,894,3014,"
         },
         {
           "abilityId": "1410",
@@ -16502,12 +16502,12 @@ window.ability=[
         {
           "abilityId": "1682",
           "abilityName": "刻まれた絶望",
-          "abilityDescription": "行動後にHPが10％回復し、行動後に確率でチャクラ消費量が0になる",
-          "abilityEffectDescription": "行動後にHPが10％回復し、行動後に確率でチャクラ消費量が0になる",
+          "abilityDescription": "行動後にHP30％回復&amp;確率でﾁｬｸﾗ消費0、ﾊﾞﾄﾙ開始時確率で「この世界を消す…！」で急襲攻撃（ﾁｬｸﾗ中回復）",
+          "abilityEffectDescription": "行動後にHP30％回復&amp;確率でﾁｬｸﾗ消費0、ﾊﾞﾄﾙ開始時確率で「この世界を消す…！」で急襲攻撃（ﾁｬｸﾗ中回復）",
           "effectIdx1": "1595",
-          "effectIdx2": "357",
-          "effectIdx3": "0",
-          "effectIds": null
+          "effectIdx2": "894",
+          "effectIdx3": "3014",
+          "effectIds": "1595,894,3014,"
         },
         {
           "abilityId": "1683",
@@ -21962,12 +21962,12 @@ window.ability=[
         {
           "abilityId": "2248",
           "abilityName": "弟愛",
-          "abilityDescription": "敵か味方にうちはサスケ（年代問わず）が生存しているとスキルダメージ100%アップ",
-          "abilityEffectDescription": "敵か味方にうちはサスケ（年代問わず）が生存しているとスキルダメージ100%アップ",
-          "effectIdx1": "2291",
-          "effectIdx2": "0",
+          "abilityDescription": "敵か味方にうちはサスケ（年代問わず）が生存しているとスキルダメージ100%アップ、HP0以下で1回耐える",
+          "abilityEffectDescription": "敵か味方にうちはサスケ（年代問わず）が生存しているとスキルダメージ100%アップ、HP0以下で1回耐える",
+          "effectIdx1": "312",
+          "effectIdx2": "2291",
           "effectIdx3": "0",
-          "effectIds": null
+          "effectIds": "0"
         },
         {
           "abilityId": "2249",
@@ -25460,6 +25460,26 @@ window.ability=[
           "effectIds": "3097,"
         },
         {
+          "abilityId": "2606",
+          "abilityName": "溢れ出る仙術チャクラ",
+          "abilityDescription": "HP0以下で5回耐え、敵に“暁”がいるとバトル開始時に敵全体を術封じにする",
+          "abilityEffectDescription": "HP0以下で5回耐え、敵に“暁”がいるとバトル開始時に敵全体を術封じにする",
+          "effectIdx1": "1512",
+          "effectIdx2": "3108",
+          "effectIdx3": "0",
+          "effectIds": "1512,3108,"
+        },
+        {
+          "abilityId": "2607",
+          "abilityName": "受け継ぎし諦めない生き様",
+          "abilityDescription": "敵に創キャラか“暁”がいると先制攻撃、1回行動までチャクラ消費0",
+          "abilityEffectDescription": "敵に創キャラか“暁”がいると先制攻撃、1回行動までチャクラ消費0",
+          "effectIdx1": "3035",
+          "effectIdx2": "3109",
+          "effectIdx3": "1378",
+          "effectIds": "3035,3109,1378,"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -27050,6 +27070,36 @@ window.ability=[
           "effectIds": "0"
         },
         {
+          "abilityId": "100108",
+          "abilityName": "一族を担う天才",
+          "abilityDescription": "素早さ・スキルダメージ130%アップ、バトル開始時にチャクラ全回復",
+          "abilityEffectDescription": "素早さ・スキルダメージ130%アップ、バトル開始時にチャクラ全回復",
+          "effectIdx1": "3058",
+          "effectIdx2": "800",
+          "effectIdx3": "1994",
+          "effectIds": "3058,800,1994,"
+        },
+        {
+          "abilityId": "100109",
+          "abilityName": "イタチの生き様",
+          "abilityDescription": "HP0以下で1回までHP全回復、9回行動するまでチャクラ消費量が半減",
+          "abilityEffectDescription": "HP0以下で1回までHP全回復、9回行動するまでチャクラ消費量が半減",
+          "effectIdx1": "312",
+          "effectIdx2": "874",
+          "effectIdx3": "3059",
+          "effectIds": "0"
+        },
+        {
+          "abilityId": "100110",
+          "abilityName": "九尾チャクラ（陰）",
+          "abilityDescription": "最大ﾁｬｸﾗ量100&amp;素早さ100％ｱｯﾌﾟ、敵に創ｷｬﾗがいると確率で「この状況のうちに…倒す！」で急襲攻撃（ﾁｬｸﾗ中回復）",
+          "abilityEffectDescription": "最大ﾁｬｸﾗ量100&amp;素早さ100％ｱｯﾌﾟ、敵に創ｷｬﾗがいると確率で「この状況のうちに…倒す！」で急襲攻撃（ﾁｬｸﾗ中回復）",
+          "effectIdx1": "813",
+          "effectIdx2": "13099",
+          "effectIdx3": "2982",
+          "effectIds": "813,13099,2982,"
+        },
+        {
           "abilityId": "100112",
           "abilityName": "一族殺し",
           "abilityDescription": "最大チャクラ量200アップ、状態異常無効、敵に破神キャラがいるとバトル開始時に確率で先制攻撃",
@@ -28198,6 +28248,16 @@ window.ability=[
           "effectIdx2": "0",
           "effectIdx3": "0",
           "effectIds": "0"
+        },
+        {
+          "abilityId": "310069",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "耐えた時に現在の最大HPの30%回復",
+          "abilityEffectDescription": "耐えた時に現在の最大HPの30%回復",
+          "effectIdx1": "3098",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3098,"
         },
         {
           "abilityId": "801187",
