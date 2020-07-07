@@ -5603,6 +5603,12 @@
           "speechCharactorName": "キラービー"
         },
         {
+          "speechCharactorId": "982",
+          "cardId": "20060704",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "日向ヒナタ"
+        },
+        {
           "speechCharactorId": "986",
           "cardId": "959",
           "speechCharactorImgId": "0",
@@ -5859,5 +5865,41 @@
           "cardId": "20030806",
           "speechCharactorImgId": "20030806",
           "speechCharactorName": "綱手"
+        },
+        {
+          "speechCharactorId": "10029",
+          "cardId": "20001849",
+          "speechCharactorImgId": "20001849",
+          "speechCharactorName": "うずまきナルト"
+        },
+        {
+          "speechCharactorId": "10030",
+          "cardId": "20001862",
+          "speechCharactorImgId": "20001862",
+          "speechCharactorName": "日向ヒナタ"
+        },
+        {
+          "speechCharactorId": "10031",
+          "cardId": "20030710",
+          "speechCharactorImgId": "20030710",
+          "speechCharactorName": "テンテン"
+        },
+        {
+          "speechCharactorId": "10032",
+          "cardId": "20030711",
+          "speechCharactorImgId": "20030711",
+          "speechCharactorName": "ロック・リー"
+        },
+        {
+          "speechCharactorId": "10033",
+          "cardId": "20030712",
+          "speechCharactorImgId": "20030712",
+          "speechCharactorName": "照美メイ"
+        },
+        {
+          "speechCharactorId": "10034",
+          "cardId": "20060704",
+          "speechCharactorImgId": "20060704",
+          "speechCharactorName": "日向ヒナタ"
         }
       ]

@@ -13197,5 +13197,41 @@
           "effectIdx2": "1840",
           "effectIdx3": "2807",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1116",
+          "targetCrystal": "30705",
+          "description": "1回行動までチャクラ消費0、スキル発動速度1段階アップ、素早さ50%アップ",
+          "charaIds": "0",
+          "cardIds": "20060704,20050810,20050811,20050704,20050705,20040709,20040710,",
+          "charaGroupIds": "0",
+          "effectIdx1": "1378",
+          "effectIdx2": "1840",
+          "effectIdx3": "13049",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1117",
+          "targetCrystal": "30706",
+          "description": "5回行動まで低確率で全スキル無効＆弱体系特殊状態無効＆解除",
+          "charaIds": "0",
+          "cardIds": "20060704,20050810,20050811,20050704,20050705,20040709,20040710,",
+          "charaGroupIds": "0",
+          "effectIdx1": "3114",
+          "effectIdx2": "3115",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1121",
+          "targetCrystal": "30704",
+          "description": "最大チャクラ量72アップ、5回行動するまで行動ごとにチャクラ72％回復",
+          "charaIds": "704,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "20051",
+          "effectIdx2": "3120",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
         }
       ]

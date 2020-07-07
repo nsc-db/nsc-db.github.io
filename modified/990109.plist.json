@@ -25439,6 +25439,26 @@
           "effectIds": "2708,1789,3084,"
         },
         {
+          "abilityId": "2600",
+          "abilityName": "思い切りサマープレジャー",
+          "abilityDescription": "HP0以下で2回耐える、男性キャラから受けるダメージを高確率で72％カット、弱体・状態異常無効",
+          "abilityEffectDescription": "HP0以下で2回耐える、男性キャラから受けるダメージを高確率で72％カット、弱体・状態異常無効",
+          "effectIdx1": "1057",
+          "effectIdx2": "3101",
+          "effectIdx3": "880",
+          "effectIds": "1057,3101,880,"
+        },
+        {
+          "abilityId": "2601",
+          "abilityName": "瞳に映るサマードリーム",
+          "abilityDescription": "男性キャラから攻撃を受けた際、自身の攻撃・防御・素早さ・スキルダメージを100％アップ",
+          "abilityEffectDescription": "男性キャラから攻撃を受けた際、自身の攻撃・防御・素早さ・スキルダメージを100％アップ",
+          "effectIdx1": "3099",
+          "effectIdx2": "3100",
+          "effectIdx3": "3102",
+          "effectIds": "3099,3100,3102,3103,"
+        },
+        {
           "abilityId": "2604",
           "abilityName": "青春邁進",
           "abilityDescription": "班の木ノ葉隠れの里所属のキャラ1体につき、素早さが20%アップ（自身含む）",

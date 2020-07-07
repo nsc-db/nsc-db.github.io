@@ -376,19 +376,6 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
-          "worldStageId": "1343",
-          "worldAreaId": "5",
-          "priority": "4",
-          "name": "己を知らぬ孤独の者～過去と執念～",
-          "description": "初回クリア報酬はすべてのランクで忍石獲得可能！\r\n個人Ptを集めて固有忍具や育成素材を獲得しよう！",
-          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
-          "type": "0",
-          "prerequisiteWorldStageId": "0",
-          "openWeek": null,
-          "openTime": "0000.00.00 00:00:00",
-          "closeTime": "0000.00.00 00:00:00"
-        },
-        {
           "worldStageId": "1344",
           "worldAreaId": "5",
           "priority": "4",
@@ -433,6 +420,19 @@
           "priority": "4",
           "name": "師の意志を継ぐ予言の子～不動の仙人修業～",
           "description": "初回クリア報酬はすべてのランクで忍石獲得可能！\r\n個人Ptを集めて固有忍具や育成素材を獲得しよう！",
+          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
+          "worldStageId": "1348",
+          "worldAreaId": "5",
+          "priority": "4",
+          "name": "夏の渚の記憶",
+          "description": "無限月読…見たもの全てを夢に堕とす大幻術…\r\nヒナタとナルトは海でデートをすることに。\r\nしかし、急遽発生した任務に行くナルトは、\r\n「絶対戻って来るから︕」と約束をし任務に向う。\r\nヒナタは海を眺めながら、思い出を振り返る。",
           "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
           "type": "0",
           "prerequisiteWorldStageId": "0",
