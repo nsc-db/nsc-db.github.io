@@ -23101,5 +23101,37 @@
           "crystalImageId": "307065",
           "recipeId": "30706",
           "recipeName": "サングラス"
+        },
+        {
+          "crystalId": "30707",
+          "crystalType": "3",
+          "crystalRare": "5",
+          "effectIdx1": "2499",
+          "effectIdx2": "2011",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "クシナのワンピース",
+          "crystalDescription": "1回行動まで全スキル＆チャクラ消費量を半減する",
+          "crystalImageId": "307075",
+          "recipeId": "30707",
+          "recipeName": "クシナのワンピース"
+        },
+        {
+          "crystalId": "30708",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "682",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "クシナの赤い髪",
+          "crystalDescription": "スキルダメージ50％アップ",
+          "crystalImageId": "307085",
+          "recipeId": "30708",
+          "recipeName": "クシナの赤い髪"
         }
       ]

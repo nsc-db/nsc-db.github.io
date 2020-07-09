@@ -14993,6 +14993,20 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1088",
+          "name": "災厄封じの女傑",
+          "description": "木ノ葉隠れの里所属は、確率で受ける耐性無視ダメージ0",
+          "effectIdx1": "3107",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3107,",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "1089",
           "name": "青春の先駆者",
           "description": "体属性の攻撃力を50%アップする",

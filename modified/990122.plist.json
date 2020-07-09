@@ -3539,6 +3539,18 @@
           "voiceDeath": "minato_death_02_02"
         },
         {
+          "cardVoiceId": "299",
+          "cardId": "20060705",
+          "dirName": "kushina",
+          "evolutionStep": "",
+          "voiceAppear": "kushina_skill_02_08",
+          "voiceSkill1": "kushina_win_02_02",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "kushina_win_02_03",
+          "voiceDeath": "kushina_death_02_01"
+        },
+        {
           "cardVoiceId": "300",
           "cardId": "20060703",
           "dirName": "naruto",
