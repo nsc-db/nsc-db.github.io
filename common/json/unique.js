@@ -13198,5 +13198,65 @@ window.unique=[
           "effectIdx2": "1840",
           "effectIdx3": "2807",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1116",
+          "targetCrystal": "30705",
+          "description": "1回行動までチャクラ消費0、スキル発動速度1段階アップ、素早さ50%アップ",
+          "charaIds": "0",
+          "cardIds": "20060704,20050810,20050811,20050704,20050705,20040709,20040710",
+          "charaGroupIds": "0",
+          "effectIdx1": "1378",
+          "effectIdx2": "1840",
+          "effectIdx3": "13049",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1117",
+          "targetCrystal": "30706",
+          "description": "それぞれ低確率で5回まで全ｽｷﾙ無効&amp;ﾊﾞﾄﾙ開始時に自身を堅護：弱体/状態異常/弱体系特殊状態解除&amp;無効",
+          "charaIds": "0",
+          "cardIds": "20060704,20050810,20050811,20050704,20050705,20040709,20040710",
+          "charaGroupIds": "0",
+          "effectIdx1": "3114",
+          "effectIdx2": "3115",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1121",
+          "targetCrystal": "30704",
+          "description": "最大チャクラ量72アップ、5回行動するまで行動ごとにチャクラ72％回復",
+          "charaIds": "704",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "20051",
+          "effectIdx2": "3120",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1122",
+          "targetCrystal": "30707",
+          "description": "1回行動まで全スキル無効＆チャクラ消費量0、行動毎にチャクラ50％回復、素早さ70％アップ",
+          "charaIds": "4303",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1794",
+          "effectIdx2": "1378",
+          "effectIdx3": "1910",
+          "effectIdx4": "13069"
+        },
+        {
+          "crystalOverwriteEffectId": "1123",
+          "targetCrystal": "30708",
+          "description": "スキルダメージ180％アップ、耐えた時最大HPの30％回復",
+          "charaIds": "4303",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "30017",
+          "effectIdx2": "3098",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
         }
         ]

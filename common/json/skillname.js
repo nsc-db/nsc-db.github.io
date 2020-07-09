@@ -7468,6 +7468,22 @@ window.skillname=[
           "name": "遅かったか？"
         },
         {
+          "cardBattleSkillNameId": "3082",
+          "name": "八卦燦々掌"
+        },
+        {
+          "cardBattleSkillNameId": "3083",
+          "name": "綺麗な海だね…"
+        },
+        {
+          "cardBattleSkillNameId": "3084",
+          "name": "金剛封鎖・祈念"
+        },
+        {
+          "cardBattleSkillNameId": "3085",
+          "name": "私はまだ…やれるわ……"
+        },
+        {
           "cardBattleSkillNameId": "3086",
           "name": "青春蹴撃"
         },

@@ -25440,6 +25440,46 @@ window.ability=[
           "effectIds": "2708,1789,3084,"
         },
         {
+          "abilityId": "2600",
+          "abilityName": "思い切りサマープレジャー",
+          "abilityDescription": "HP0以下で2回耐える、男性キャラから受けるダメージを高確率で72％カット、弱体・状態異常無効",
+          "abilityEffectDescription": "HP0以下で2回耐える、男性キャラから受けるダメージを高確率で72％カット、弱体・状態異常無効",
+          "effectIdx1": "1057",
+          "effectIdx2": "3101",
+          "effectIdx3": "880",
+          "effectIds": "1057,3101,880,"
+        },
+        {
+          "abilityId": "2601",
+          "abilityName": "瞳に映るサマードリーム",
+          "abilityDescription": "男性キャラから攻撃を受けた際、自身の攻撃・防御・素早さ・スキルダメージを100％アップ",
+          "abilityEffectDescription": "男性キャラから攻撃を受けた際、自身の攻撃・防御・素早さ・スキルダメージを100％アップ",
+          "effectIdx1": "3099",
+          "effectIdx2": "3100",
+          "effectIdx3": "3102",
+          "effectIds": "3099,3100,3102,3103,"
+        },
+        {
+          "abilityId": "2602",
+          "abilityName": "愛を見つけし人柱力",
+          "abilityDescription": "超忍・創・滅キャラからのダメージ50%カット、HP0以下で3回耐え、耐えるたびに防御力300%アップ",
+          "abilityEffectDescription": "超忍・創・滅キャラからのダメージ50%カット、HP0以下で3回耐え、耐えるたびに防御力300%アップ",
+          "effectIdx1": "2708",
+          "effectIdx2": "1789",
+          "effectIdx3": "3104",
+          "effectIds": "2708,1789,3104,"
+        },
+        {
+          "abilityId": "2603",
+          "abilityName": "不屈の愛情",
+          "abilityDescription": "味方にうずまきナルトか波風ミナトがいるとバトル開始時神盾状態になる、最大チャクラ量100アップ",
+          "abilityEffectDescription": "味方にうずまきナルトか波風ミナトがいるとバトル開始時神盾状態になる、最大チャクラ量100アップ",
+          "effectIdx1": "3105",
+          "effectIdx2": "3106",
+          "effectIdx3": "20009",
+          "effectIds": "3105,3106,20009,"
+        },
+        {
           "abilityId": "2604",
           "abilityName": "青春邁進",
           "abilityDescription": "班の木ノ葉隠れの里所属のキャラ1体につき、素早さが20%アップ（自身含む）",
@@ -27952,12 +27992,12 @@ window.ability=[
         {
           "abilityId": "310038",
           "abilityName": "Bマス用_通常",
-          "abilityDescription": "耐えた時にHP50%回復",
-          "abilityEffectDescription": "耐えた時にHP50%回復",
-          "effectIdx1": "618",
+          "abilityDescription": "耐えた時に現在の最大HPの50％回復",
+          "abilityEffectDescription": "耐えた時に現在の最大HPの50％回復",
+          "effectIdx1": "3096",
           "effectIdx2": "0",
           "effectIdx3": "0",
-          "effectIds": null
+          "effectIds": "3096,"
         },
         {
           "abilityId": "310039",
@@ -27972,12 +28012,12 @@ window.ability=[
         {
           "abilityId": "310040",
           "abilityName": "Bマス用_禁忌",
-          "abilityDescription": "耐えた時にHP30％回復",
-          "abilityEffectDescription": "耐えた時にHP30％回復",
-          "effectIdx1": "2947",
+          "abilityDescription": "耐えた時に現在の最大HPの30％回復",
+          "abilityEffectDescription": "耐えた時に現在の最大HPの30％回復",
+          "effectIdx1": "3098",
           "effectIdx2": "0",
           "effectIdx3": "0",
-          "effectIds": null
+          "effectIds": "3098,"
         },
         {
           "abilityId": "310041",
@@ -28212,12 +28252,12 @@ window.ability=[
         {
           "abilityId": "310064",
           "abilityName": "Bマス用_禁忌",
-          "abilityDescription": "HP0以下で1回耐え、耐えた時HP50％回復",
-          "abilityEffectDescription": "HP0以下で1回耐え、耐えた時HP50％回復",
+          "abilityDescription": "HP0以下で1回耐え、耐えた時に現在の最大HPの50％回復",
+          "abilityEffectDescription": "HP0以下で1回耐え、耐えた時に現在の最大HPの50％回復",
           "effectIdx1": "312",
-          "effectIdx2": "618",
+          "effectIdx2": "3096",
           "effectIdx3": "0",
-          "effectIds": "0"
+          "effectIds": "312,3096,"
         },
         {
           "abilityId": "310065",
@@ -28248,6 +28288,16 @@ window.ability=[
           "effectIdx2": "0",
           "effectIdx3": "0",
           "effectIds": "0"
+        },
+        {
+          "abilityId": "310068",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "地形効果無効",
+          "abilityEffectDescription": "地形効果無効",
+          "effectIdx1": "2525",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "2525,"
         },
         {
           "abilityId": "310069",
