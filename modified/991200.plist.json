@@ -13223,6 +13223,18 @@
           "effectIdx4": "0"
         },
         {
+          "crystalOverwriteEffectId": "1120",
+          "targetCrystal": "30709",
+          "description": "0",
+          "charaIds": "1902,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "774",
+          "effectIdx2": "13079",
+          "effectIdx3": "820",
+          "effectIdx4": "0"
+        },
+        {
           "crystalOverwriteEffectId": "1121",
           "targetCrystal": "30704",
           "description": "最大チャクラ量72アップ、5回行動するまで行動ごとにチャクラ72％回復",

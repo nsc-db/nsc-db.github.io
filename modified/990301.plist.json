@@ -23133,5 +23133,21 @@
           "crystalImageId": "307085",
           "recipeId": "30708",
           "recipeName": "クシナの赤い髪"
+        },
+        {
+          "crystalId": "30709",
+          "crystalType": "3",
+          "crystalRare": "5",
+          "effectIdx1": "692",
+          "effectIdx2": "528",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "0",
+          "crystalDescription": "0",
+          "crystalImageId": "307095",
+          "recipeId": "30709",
+          "recipeName": "木人の拳"
         }
       ]
