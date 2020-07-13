@@ -13225,7 +13225,7 @@
         {
           "crystalOverwriteEffectId": "1120",
           "targetCrystal": "30709",
-          "description": "0",
+          "description": "全スキルダメージ100%アップ、素早さ80%アップ、行動後にチャクラが30%回復する",
           "charaIds": "1902,",
           "cardIds": "0",
           "charaGroupIds": "0",

@@ -15036,8 +15036,8 @@
         },
         {
           "cardLeaderSkillId": "1091",
-          "name": "0",
-          "description": "0",
+          "name": "仁樹の再来",
+          "description": "バトル開始時、味方全体に1回行動まで地形効果無効",
           "effectIdx1": "3119",
           "effectIdx2": "0",
           "effectIdx3": "0",
