@@ -25539,6 +25539,26 @@
           "effectIds": "3117,3118,"
         },
         {
+          "abilityId": "2612",
+          "abilityName": "正体不明の不気味",
+          "abilityDescription": "最大ﾁｬｸﾗ量150ｱｯﾌﾟ、敵に破神ｷｬﾗがいると確率で「こんなモノではないだろう？」で急襲攻撃（一部ﾁｬｸﾗ回復）",
+          "abilityEffectDescription": "最大ﾁｬｸﾗ量150ｱｯﾌﾟ、敵に破神ｷｬﾗがいると確率で「こんなモノではないだろう？」で急襲攻撃（一部ﾁｬｸﾗ回復）",
+          "effectIdx1": "20014",
+          "effectIdx2": "3142",
+          "effectIdx3": "0",
+          "effectIds": "20014,3142,"
+        },
+        {
+          "abilityId": "2613",
+          "abilityName": "面に隠す執念",
+          "abilityDescription": "地形効果無効、敵に破神キャラがいるとHP0以下で1回耐える",
+          "abilityEffectDescription": "地形効果無効、敵に破神キャラがいるとHP0以下で1回耐える",
+          "effectIdx1": "2525",
+          "effectIdx2": "3140",
+          "effectIdx3": "0",
+          "effectIds": "2525,3140,"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -27177,6 +27197,26 @@
           "effectIdx2": "1600",
           "effectIdx3": "1057",
           "effectIds": "968,1600,1057,"
+        },
+        {
+          "abilityId": "100114",
+          "abilityName": "正体不明の不気味",
+          "abilityDescription": "最大ﾁｬｸﾗ量250ｱｯﾌﾟ、敵に破神ｷｬﾗがいると「こんなモノではないだろう？」で急襲攻撃（一部ﾁｬｸﾗ回復）",
+          "abilityEffectDescription": "最大ﾁｬｸﾗ量250ｱｯﾌﾟ、敵に破神ｷｬﾗがいると「こんなモノではないだろう？」で急襲攻撃（一部ﾁｬｸﾗ回復）",
+          "effectIdx1": "20044",
+          "effectIdx2": "2840",
+          "effectIdx3": "0",
+          "effectIds": "20044,2840,"
+        },
+        {
+          "abilityId": "100115",
+          "abilityName": "面に隠す執念",
+          "abilityDescription": "地形効果無効、敵に破神キャラがいるとHP0以下で2回耐える",
+          "abilityEffectDescription": "地形効果無効、敵に破神キャラがいるとHP0以下で2回耐える",
+          "effectIdx1": "2525",
+          "effectIdx2": "3141",
+          "effectIdx3": "0",
+          "effectIds": "2525,3141,"
         },
         {
           "abilityId": "200001",

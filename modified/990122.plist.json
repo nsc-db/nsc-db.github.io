@@ -3575,6 +3575,18 @@
           "voiceDeath": "hashirama_damage_02_02"
         },
         {
+          "cardVoiceId": "302",
+          "cardId": "20060708",
+          "dirName": "madara",
+          "evolutionStep": "",
+          "voiceAppear": "madara_menu_mission_01",
+          "voiceSkill1": "madara_damage_02_02",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "madara_attack_02_03",
+          "voiceDeath": "madara_menu_01"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

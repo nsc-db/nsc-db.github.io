@@ -6719,6 +6719,20 @@
           "gender": "1"
         },
         {
+          "charaProfileId": "131601",
+          "charaId": "1316",
+          "name": "超×忍伝結晶",
+          "detail": null,
+          "charaLoveAffinityGroupId": "0",
+          "birthday": "0",
+          "constellation": "0",
+          "height": "0",
+          "weight": "0",
+          "bloodType": "0",
+          "age": "0",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "500101",
           "charaId": "5001",
           "name": "九喇嘛",

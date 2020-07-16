@@ -5633,6 +5633,12 @@
           "speechCharactorName": "ペイン"
         },
         {
+          "speechCharactorId": "989",
+          "cardId": "20050813",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うずまきナルト"
+        },
+        {
           "speechCharactorId": "990",
           "cardId": "50000001",
           "speechCharactorImgId": "0",

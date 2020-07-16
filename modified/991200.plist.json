@@ -13269,5 +13269,77 @@
           "effectIdx2": "3098",
           "effectIdx3": "0",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1124",
+          "targetCrystal": "30718",
+          "description": "ﾊﾞﾄﾙ開始時にﾁｬｸﾗ50%回復。全ｽｷﾙﾀﾞﾒｰｼﾞ150%ｱｯﾌﾟ。3回行動までｽｷﾙ発動速度1段階ｱｯﾌﾟ。",
+          "charaIds": "0",
+          "cardIds": "20041110,20050514,20051006,",
+          "charaGroupIds": "0",
+          "effectIdx1": "1115",
+          "effectIdx2": "794",
+          "effectIdx3": "1958",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1125",
+          "targetCrystal": "30719",
+          "description": "ﾊﾞﾄﾙ開始時にﾁｬｸﾗ50%回復。全ｽｷﾙﾀﾞﾒｰｼﾞ150%ｱｯﾌﾟ。1回行動まで確率で全ｽｷﾙ無効。",
+          "charaIds": "0",
+          "cardIds": "20040113,20031206,20050206,",
+          "charaGroupIds": "0",
+          "effectIdx1": "1115",
+          "effectIdx2": "794",
+          "effectIdx3": "2465",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1126",
+          "targetCrystal": "30720",
+          "description": "ﾊﾞﾄﾙ開始時にﾁｬｸﾗ50%回復。全ｽｷﾙﾀﾞﾒｰｼﾞ150%ｱｯﾌﾟ。1回行動まで確率で耐性無視ﾀﾞﾒｰｼﾞ0。",
+          "charaIds": "0",
+          "cardIds": "20050605,20030924,20040115,",
+          "charaGroupIds": "0",
+          "effectIdx1": "1115",
+          "effectIdx2": "794",
+          "effectIdx3": "2809",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1127",
+          "targetCrystal": "30721",
+          "description": "ﾊﾞﾄﾙ開始時にﾁｬｸﾗ50%回復。全ｽｷﾙﾀﾞﾒｰｼﾞ150%ｱｯﾌﾟ。5回行動まで高確率でｽｷﾙ回避。",
+          "charaIds": "0",
+          "cardIds": "20041006,20050113,20041206,",
+          "charaGroupIds": "0",
+          "effectIdx1": "1115",
+          "effectIdx2": "794",
+          "effectIdx3": "2246",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1128",
+          "targetCrystal": "30722",
+          "description": "ﾊﾞﾄﾙ開始時にﾁｬｸﾗ50%回復。全ｽｷﾙﾀﾞﾒｰｼﾞ150%ｱｯﾌﾟ。弱体・状態異常無効。",
+          "charaIds": "0",
+          "cardIds": "20050408,20041103,20040702,",
+          "charaGroupIds": "0",
+          "effectIdx1": "1115",
+          "effectIdx2": "794",
+          "effectIdx3": "880",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1129",
+          "targetCrystal": "30712",
+          "description": "全スキルダメージ150%アップ、スキル発動速度1段階アップ、敵に破神キャラ生存で素早さ200%アップ",
+          "charaIds": "14001,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "794",
+          "effectIdx2": "1840",
+          "effectIdx3": "3026",
+          "effectIdx4": "0"
         }
       ]
