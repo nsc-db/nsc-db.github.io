@@ -2727,5 +2727,25 @@
           "subScore": "0",
           "color": "16774242",
           "type": "2"
+        },
+        {
+          "cardUnusualId": "278",
+          "category": "6",
+          "iconId": "1330",
+          "name": "七ノ翅",
+          "description": "強化、強化系特殊・神化解除＆無効。行動毎に味方の回避・ｽｷﾙ回避ﾀﾞｳﾝ＆確率で敵弱体系特殊・神化状態解除",
+          "subScore": "0",
+          "color": "7920895",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "284",
+          "category": "5",
+          "iconId": "1335",
+          "name": "特定状態解除＆無効",
+          "description": "特定の状態を解除＆無効化",
+          "subScore": "0",
+          "color": "16777215",
+          "type": "3"
         }
       ]

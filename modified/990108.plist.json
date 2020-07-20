@@ -15049,6 +15049,20 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1092",
+          "name": "飛翔の鎧獣",
+          "description": "ﾊﾞﾄﾙ開始時、味方に五大隠れ里所属がいると高確率で班の人数に応じ乱舞ｶｳﾝﾄ減少&amp;五大隠れ里所属のﾁｬｸﾗ50%回復",
+          "effectIdx1": "3137",
+          "effectIdx2": "3138",
+          "effectIdx3": "0",
+          "effectIds": "3137,3138,",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "1093",
           "name": "闘忍の覇者",
           "description": "無所属の場合、スキル発動速度1段階アップ＆1回行動するまでチャクラ消費0",
@@ -15059,6 +15073,34 @@
           "compType": "1",
           "target1Category": "2",
           "target1Param": "99",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "1094",
+          "name": "憧れへの道のり",
+          "description": "木ノ葉隠れの里所属の各自が3回行動するまで、受ける全スキルを半減",
+          "effectIdx1": "1986",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "1986,",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "1095",
+          "name": "0",
+          "description": "0",
+          "effectIdx1": "1840",
+          "effectIdx2": "2706",
+          "effectIdx3": "2707",
+          "effectIds": "1840,2706,2707,",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
           "target2Category": "0",
           "target2Param": "0"
         },

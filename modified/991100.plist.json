@@ -363,6 +363,20 @@
           "gender": "1"
         },
         {
+          "charaProfileId": "215",
+          "charaId": "2",
+          "name": "0",
+          "detail": "真伝・秘伝",
+          "charaLoveAffinityGroupId": "240",
+          "birthday": "723",
+          "constellation": "5",
+          "height": "18200",
+          "weight": "0",
+          "bloodType": "4",
+          "age": "0",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "216",
           "charaId": "2",
           "name": "うちはサスケ",
@@ -3987,6 +4001,20 @@
           "bloodType": "1",
           "age": "34",
           "gender": "1"
+        },
+        {
+          "charaProfileId": "53501",
+          "charaId": "535",
+          "name": "フウ",
+          "detail": "七尾の人柱力",
+          "charaLoveAffinityGroupId": "53510",
+          "birthday": "808",
+          "constellation": "5",
+          "height": "16000",
+          "weight": "4740",
+          "bloodType": "2",
+          "age": "0",
+          "gender": "2"
         },
         {
           "charaProfileId": "60101",

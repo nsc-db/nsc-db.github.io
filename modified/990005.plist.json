@@ -1167,5 +1167,15 @@
           "uiIdx": "10020",
           "partyEffects": "3072,",
           "enemyEffects": "3070,2326,3071,"
+        },
+        {
+          "battleFieldEffectId": "10021",
+          "name": "双眸ノ真世",
+          "category": "3",
+          "scriptId": "10021",
+          "overWrite": "1",
+          "uiIdx": "10021",
+          "partyEffects": "3153,",
+          "enemyEffects": "3154,3155,"
         }
       ]

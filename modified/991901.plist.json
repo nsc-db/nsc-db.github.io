@@ -551,6 +551,18 @@
           "specialPanelList": "9100004,9100005,9100006"
         },
         {
+          "sphereBoardId": "50027",
+          "boardName": "Temp_Ct=&gt;90_勇属性_の潜在覚醒盤",
+          "boardDescription": "うちはサスケ【絆を知る双眸】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20060707",
+          "normalPanelList": "9100025,9100026,9100027",
+          "specialPanelList": "9100028,9100029,9100030"
+        },
+        {
           "sphereBoardId": "5000001",
           "boardName": "ガマブン太",
           "boardDescription": "うずまきナルト【救う想いと仁義の共闘】",
@@ -669,5 +681,17 @@
           "cardId": "50060601",
           "normalPanelList": "5009001,5009002,5009003",
           "specialPanelList": "5009004,5009005,5009006"
+        },
+        {
+          "sphereBoardId": "5000011",
+          "boardName": "七尾",
+          "boardDescription": "フウ【飛翔の鎧獣】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "50060701",
+          "normalPanelList": "5010001,5010002,5010003",
+          "specialPanelList": "5010004,5010005,5010006"
         }
       ]

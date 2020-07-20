@@ -23151,6 +23151,38 @@
           "recipeName": "木人の拳"
         },
         {
+          "crystalId": "30710",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "1378",
+          "effectIdx2": "528",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "0",
+          "crystalDescription": "0",
+          "crystalImageId": "307105",
+          "recipeId": "30710",
+          "recipeName": "サスケの雷遁"
+        },
+        {
+          "crystalId": "30711",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "1379",
+          "effectIdx2": "30104",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "0",
+          "crystalDescription": "0",
+          "crystalImageId": "307115",
+          "recipeId": "30711",
+          "recipeName": "サスケのサンダル（真伝・秘伝）"
+        },
+        {
           "crystalId": "30712",
           "crystalType": "11",
           "crystalRare": "5",
