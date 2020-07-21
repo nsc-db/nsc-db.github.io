@@ -25520,6 +25520,106 @@ window.ability=[
           "effectIds": "3035,3109,1378,"
         },
         {
+          "abilityId": "2608",
+          "abilityName": "仁心の忍",
+          "abilityDescription": "HP0以下で10回耐え、敵に無所属キャラがいるとバトル開始時に敵全体の耐性を無視してスキル回避封印にする",
+          "abilityEffectDescription": "HP0以下で10回耐え、敵に無所属キャラがいるとバトル開始時に敵全体の耐性を無視してスキル回避封印にする",
+          "effectIdx1": "1907",
+          "effectIdx2": "3116",
+          "effectIdx3": "0",
+          "effectIds": "1907,3116,"
+        },
+        {
+          "abilityId": "2609",
+          "abilityName": "英雄の鼓舞",
+          "abilityDescription": "敵に無所属キャラか忍伝・創キャラが生存していると素早さ100%アップ（どちらもいると200%アップ）",
+          "abilityEffectDescription": "敵に無所属キャラか忍伝・創キャラが生存していると素早さ100%アップ（どちらもいると200%アップ）",
+          "effectIdx1": "3117",
+          "effectIdx2": "3118",
+          "effectIdx3": "0",
+          "effectIds": "3117,3118,"
+        },
+        {
+          "abilityId": "2610",
+          "abilityName": "自由と幸運",
+          "abilityDescription": "回避率を100%アップ",
+          "abilityEffectDescription": "回避率を100%アップ",
+          "effectIdx1": "1141",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "1141,"
+        },
+        {
+          "abilityId": "2611",
+          "abilityName": "七色の飛翔",
+          "abilityDescription": "攻撃を受けた時に確率で、耐性を無視して敵を幻状態にする",
+          "abilityEffectDescription": "攻撃を受けた時に確率で、耐性を無視して敵を幻状態にする",
+          "effectIdx1": "3139",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3139,"
+        },
+        {
+          "abilityId": "2612",
+          "abilityName": "正体不明の不気味",
+          "abilityDescription": "最大ﾁｬｸﾗ量150ｱｯﾌﾟ、敵に破神ｷｬﾗがいると確率で「こんなモノではないだろう？」で急襲攻撃（一部ﾁｬｸﾗ回復）",
+          "abilityEffectDescription": "最大ﾁｬｸﾗ量150ｱｯﾌﾟ、敵に破神ｷｬﾗがいると確率で「こんなモノではないだろう？」で急襲攻撃（一部ﾁｬｸﾗ回復）",
+          "effectIdx1": "20014",
+          "effectIdx2": "3142",
+          "effectIdx3": "0",
+          "effectIds": "20014,3142,"
+        },
+        {
+          "abilityId": "2613",
+          "abilityName": "面に隠す執念",
+          "abilityDescription": "地形効果無効、敵に破神キャラがいるとHP0以下で1回耐える",
+          "abilityEffectDescription": "地形効果無効、敵に破神キャラがいるとHP0以下で1回耐える",
+          "effectIdx1": "2525",
+          "effectIdx2": "3140",
+          "effectIdx3": "0",
+          "effectIds": "2525,3140,"
+        },
+        {
+          "abilityId": "2614",
+          "abilityName": "温かな家庭",
+          "abilityDescription": "HP0以下で1回耐え、確率でスキル回避",
+          "abilityEffectDescription": "HP0以下で1回耐え、確率でスキル回避",
+          "effectIdx1": "312",
+          "effectIdx2": "1423",
+          "effectIdx3": "0",
+          "effectIds": "312,1423,"
+        },
+        {
+          "abilityId": "2615",
+          "abilityName": "父と兄への憧れ",
+          "abilityDescription": "最大HPを100%アップし、弱体と状態異常を半減する",
+          "abilityEffectDescription": "最大HPを100%アップし、弱体と状態異常を半減する",
+          "effectIdx1": "684",
+          "effectIdx2": "776",
+          "effectIdx3": "0",
+          "effectIds": "684,776,"
+        },
+        {
+          "abilityId": "2618",
+           "abilityName": "友の絆と共に",
+          "abilityDescription": "味方の木ノ葉隠れの里所属1体につき素早さ200%アップ。味方にうずまきナルト（年代不問）生存で全スキル無効",
+          "abilityEffectDescription": "味方の木ノ葉隠れの里所属1体につき素早さ200%アップ。味方にうずまきナルト（年代不問）生存で全スキル無効",
+          "effectIdx1": "3151",
+          "effectIdx2": "3152",
+          "effectIdx3": "0",
+          "effectIds": "3151,3152,"
+        },
+        {
+          "abilityId": "2619",
+          "abilityName": "忍として",
+          "abilityDescription": "HP0以下で2回HP全回復。素早さ1200%アップ",
+          "abilityEffectDescription": "HP0以下で2回HP全回復。素早さ1200%アップ",
+          "effectIdx1": "1057",
+          "effectIdx2": "874",
+          "effectIdx3": "13105",
+          "effectIds": "1057,874,13105,"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -27160,6 +27260,26 @@ window.ability=[
           "effectIds": "968,1600,1057,"
         },
         {
+          "abilityId": "100114",
+          "abilityName": "正体不明の不気味",
+          "abilityDescription": "最大ﾁｬｸﾗ量250ｱｯﾌﾟ、敵に破神ｷｬﾗがいると「こんなモノではないだろう？」で急襲攻撃（一部ﾁｬｸﾗ回復）",
+          "abilityEffectDescription": "最大ﾁｬｸﾗ量250ｱｯﾌﾟ、敵に破神ｷｬﾗがいると「こんなモノではないだろう？」で急襲攻撃（一部ﾁｬｸﾗ回復）",
+          "effectIdx1": "20044",
+          "effectIdx2": "2840",
+          "effectIdx3": "0",
+          "effectIds": "20044,2840,"
+        },
+        {
+          "abilityId": "100115",
+          "abilityName": "面に隠す執念",
+          "abilityDescription": "地形効果無効、敵に破神キャラがいるとHP0以下で2回耐える",
+          "abilityEffectDescription": "地形効果無効、敵に破神キャラがいるとHP0以下で2回耐える",
+          "effectIdx1": "2525",
+          "effectIdx2": "3141",
+          "effectIdx3": "0",
+          "effectIds": "2525,3141,"
+        },
+        {
           "abilityId": "200001",
           "abilityName": "心属性特化",
           "abilityDescription": "心属性へのスキル攻撃時に相手の耐性を弱点とする。心属性からのダメージを50%カット",
@@ -28308,6 +28428,16 @@ window.ability=[
           "effectIdx2": "0",
           "effectIdx3": "0",
           "effectIds": "3098,"
+        },
+        {
+          "abilityId": "310070",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "確率で技属性へのスキル攻撃時に相手の耐性を弱点とする",
+          "abilityEffectDescription": "確率で技属性へのスキル攻撃時に相手の耐性を弱点とする",
+          "effectIdx1": "3156",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3156,"
         },
         {
           "abilityId": "801187",

@@ -7500,6 +7500,38 @@ window.skillname=[
           "name": "いっきに終わらせてやる！！"
         },
         {
+          "cardBattleSkillNameId": "3091",
+          "name": "皆の者諦めるな"
+        },
+        {
+          "cardBattleSkillNameId": "3092",
+          "name": "七尾・綺羅風爆"
+        },
+        {
+          "cardBattleSkillNameId": "3093",
+          "name": "魔創ノ薙杭"
+        },
+        {
+          "cardBattleSkillNameId": "3094",
+          "name": "こんなモノではないだろう？"
+        },
+        {
+          "cardBattleSkillNameId": "3095",
+          "name": "体術修業！"
+        },
+        {
+          "cardBattleSkillNameId": "3096",
+          "name": "お稽古じゃない、修業だよ！"
+        },
+        {
+          "cardBattleSkillNameId": "3097",
+          "name": "空神・須佐能乎"
+        },
+        {
+          "cardBattleSkillNameId": "3098",
+          "name": "痛み合うことができる"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },

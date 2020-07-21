@@ -364,6 +364,20 @@ window.charaname=[
           "gender": "1"
         },
         {
+          "charaProfileId": "215",
+          "charaId": "2",
+          "name": "うちはサスケ",
+          "detail": "真伝・秘伝",
+          "charaLoveAffinityGroupId": "240",
+          "birthday": "723",
+          "constellation": "5",
+          "height": "18200",
+          "weight": "0",
+          "bloodType": "4",
+          "age": "0",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "216",
           "charaId": "2",
           "name": "うちはサスケ",
@@ -3990,6 +4004,20 @@ window.charaname=[
           "gender": "1"
         },
         {
+          "charaProfileId": "53501",
+          "charaId": "535",
+          "name": "フウ",
+          "detail": "七尾の人柱力",
+          "charaLoveAffinityGroupId": "53510",
+          "birthday": "808",
+          "constellation": "5",
+          "height": "16000",
+          "weight": "4740",
+          "bloodType": "2",
+          "age": "0",
+          "gender": "2"
+        },
+        {
           "charaProfileId": "60101",
           "charaId": "601",
           "name": "ナルト＆サスケ",
@@ -6709,6 +6737,20 @@ window.charaname=[
           "charaProfileId": "131501",
           "charaId": "1315",
           "name": "闘忍結晶",
+          "detail": null,
+          "charaLoveAffinityGroupId": "0",
+          "birthday": "0",
+          "constellation": "0",
+          "height": "0",
+          "weight": "0",
+          "bloodType": "0",
+          "age": "0",
+          "gender": "1"
+        },
+        {
+          "charaProfileId": "131601",
+          "charaId": "1316",
+          "name": "超×忍伝結晶",
           "detail": null,
           "charaLoveAffinityGroupId": "0",
           "birthday": "0",
