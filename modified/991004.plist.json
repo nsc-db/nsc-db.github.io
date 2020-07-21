@@ -5549,6 +5549,12 @@
           "speechCharactorName": "大蛇丸"
         },
         {
+          "speechCharactorId": "953",
+          "cardId": "953",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うずまきナルト"
+        },
+        {
           "speechCharactorId": "955",
           "cardId": "20040507",
           "speechCharactorImgId": "0",
@@ -5577,6 +5583,42 @@
           "cardId": "20050316",
           "speechCharactorImgId": "0",
           "speechCharactorName": "春野サクラ"
+        },
+        {
+          "speechCharactorId": "964",
+          "cardId": "964",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはサスケ"
+        },
+        {
+          "speechCharactorId": "965",
+          "cardId": "965",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはイタチ"
+        },
+        {
+          "speechCharactorId": "967",
+          "cardId": "967",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはイタチ"
+        },
+        {
+          "speechCharactorId": "968",
+          "cardId": "968",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはイタチ"
+        },
+        {
+          "speechCharactorId": "969",
+          "cardId": "969",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはサスケ"
+        },
+        {
+          "speechCharactorId": "970",
+          "cardId": "970",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはサスケ"
         },
         {
           "speechCharactorId": "971",
@@ -5655,6 +5697,18 @@
           "cardId": "50000001",
           "speechCharactorImgId": "0",
           "speechCharactorName": "タジ"
+        },
+        {
+          "speechCharactorId": "994",
+          "cardId": "50000001",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはフガク"
+        },
+        {
+          "speechCharactorId": "995",
+          "cardId": "50000001",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはミコト"
         },
         {
           "speechCharactorId": "1000",

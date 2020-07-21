@@ -1035,6 +1035,20 @@
           "deleteFlg": "0"
         },
         {
+          "scriptSettingId": "32000020",
+          "triggerId": "0",
+          "priority": "0",
+          "eventId": "0",
+          "worldStageId": "0",
+          "worldPhaseId": "0",
+          "compositionNum": "0",
+          "oneTimeFlg": "1",
+          "exclusionFlg": "0",
+          "saveFlg": "1",
+          "memo": "疾風伝 20章解放",
+          "deleteFlg": "0"
+        },
+        {
           "scriptSettingId": "32010001",
           "triggerId": "0",
           "priority": "0",
@@ -1298,6 +1312,20 @@
           "exclusionFlg": "0",
           "saveFlg": "1",
           "memo": "疾風伝 19章ハードモード解放",
+          "deleteFlg": "0"
+        },
+        {
+          "scriptSettingId": "32010020",
+          "triggerId": "0",
+          "priority": "0",
+          "eventId": "0",
+          "worldStageId": "0",
+          "worldPhaseId": "0",
+          "compositionNum": "0",
+          "oneTimeFlg": "1",
+          "exclusionFlg": "0",
+          "saveFlg": "1",
+          "memo": "疾風伝 20章ハードモード解放",
           "deleteFlg": "0"
         },
         {

@@ -8849,6 +8849,11 @@
           "gachaTicketImgId": "4392"
         },
         {
+          "gachaTicketId": "4396",
+          "gachaTicketName": "うちはサスケを祝い隊！ガチャチケット",
+          "gachaTicketImgId": "4396"
+        },
+        {
           "gachaTicketId": "4397",
           "gachaTicketName": "NMC★6特別ガチャチケット",
           "gachaTicketImgId": "4397"
@@ -8925,28 +8930,43 @@
         },
         {
           "gachaTicketId": "4412",
-          "gachaTicketName": "0",
+          "gachaTicketName": "絆を知る双眸・極ガチャチケット",
           "gachaTicketImgId": "4412"
         },
         {
           "gachaTicketId": "4413",
-          "gachaTicketName": "0",
+          "gachaTicketName": "サスケ確定・極ガチャチケット",
           "gachaTicketImgId": "4413"
         },
         {
           "gachaTicketId": "4414",
-          "gachaTicketName": "0",
+          "gachaTicketName": "絆を知る双眸・特別ガチャチケット",
           "gachaTicketImgId": "4414"
         },
         {
           "gachaTicketId": "4415",
-          "gachaTicketName": "0",
+          "gachaTicketName": "絆を知る双眸ガチャチケット",
           "gachaTicketImgId": "4415"
         },
         {
           "gachaTicketId": "4416",
-          "gachaTicketName": "0",
+          "gachaTicketName": "神・破神確定 -絆を知る双眸-",
           "gachaTicketImgId": "4416"
+        },
+        {
+          "gachaTicketId": "4424",
+          "gachaTicketName": "LvMAX★7忍伝確定ガチャチケット",
+          "gachaTicketImgId": "4424"
+        },
+        {
+          "gachaTicketId": "4425",
+          "gachaTicketName": "LvMAX★7超忍確定ガチャチケット",
+          "gachaTicketImgId": "4425"
+        },
+        {
+          "gachaTicketId": "4426",
+          "gachaTicketName": "超忍伝大放出祭-5周年前夜祭- ガチャチケット",
+          "gachaTicketImgId": "4426"
         },
         {
           "gachaTicketId": "100084",

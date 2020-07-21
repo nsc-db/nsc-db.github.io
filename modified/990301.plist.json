@@ -23160,8 +23160,8 @@
           "effectIdx4": "0",
           "money": "30000",
           "saleMoney": "2500",
-          "crystalName": "0",
-          "crystalDescription": "0",
+          "crystalName": "サスケの雷遁",
+          "crystalDescription": "1回行動までチャクラ消費量0、行動後チャクラ10%回復",
           "crystalImageId": "307105",
           "recipeId": "30710",
           "recipeName": "サスケの雷遁"
@@ -23176,8 +23176,8 @@
           "effectIdx4": "0",
           "money": "30000",
           "saleMoney": "2500",
-          "crystalName": "0",
-          "crystalDescription": "0",
+          "crystalName": "サスケのサンダル（真伝・秘伝）",
+          "crystalDescription": "2回行動までスキル発動速度1段階アップ&amp;全スキルダメージ50%アップ",
           "crystalImageId": "307115",
           "recipeId": "30711",
           "recipeName": "サスケのサンダル（真伝・秘伝）"

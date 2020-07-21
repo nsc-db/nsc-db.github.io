@@ -15092,8 +15092,8 @@
         },
         {
           "cardLeaderSkillId": "1095",
-          "name": "0",
-          "description": "0",
+          "name": "絆を知る双眸",
+          "description": "木ノ葉隠れの里所属のスキル発動速度1段階アップ＆確率でスキップ・キャンセル無効",
           "effectIdx1": "1840",
           "effectIdx2": "2706",
           "effectIdx3": "2707",

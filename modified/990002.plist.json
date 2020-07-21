@@ -503,6 +503,22 @@
           "assetNum": "33"
         },
         {
+          "loginBonusRewardId": "2091",
+          "loginBonusId": "402",
+          "loginCount": "1",
+          "assetCategoryId": "2",
+          "assetValue": "0",
+          "assetNum": "50"
+        },
+        {
+          "loginBonusRewardId": "2092",
+          "loginBonusId": "402",
+          "loginCount": "1",
+          "assetCategoryId": "20",
+          "assetValue": "5267",
+          "assetNum": "1"
+        },
+        {
           "loginBonusRewardId": "2093",
           "loginBonusId": "407",
           "loginCount": "1",
