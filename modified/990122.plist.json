@@ -3599,6 +3599,18 @@
           "voiceDeath": "sasuke_death_03_02"
         },
         {
+          "cardVoiceId": "306",
+          "cardId": "20060709",
+          "dirName": "obito",
+          "evolutionStep": "",
+          "voiceAppear": "obito_battle_02_03",
+          "voiceSkill1": "obito_skill_02_02",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "obito_win_02_01",
+          "voiceDeath": "obito_death_02_01"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

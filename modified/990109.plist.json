@@ -25599,6 +25599,26 @@
           "effectIds": "684,776,"
         },
         {
+          "abilityId": "2616",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "3148",
+          "effectIdx2": "1057",
+          "effectIdx3": "874",
+          "effectIds": "3148,1057,874,"
+        },
+        {
+          "abilityId": "2617",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "3149",
+          "effectIdx2": "1378",
+          "effectIdx3": "1224",
+          "effectIds": "3149,1378,1224,"
+        },
+        {
           "abilityId": "2618",
           "abilityName": "友の絆と共に",
           "abilityDescription": "味方の木ノ葉隠れの里所属1体につき素早さ200%アップ。味方にうずまきナルト（年代不問）生存で全スキル無効",
@@ -26136,17 +26156,27 @@
           "effectIdx1": "300204",
           "effectIdx2": "2970",
           "effectIdx3": "2971",
-          "effectIds": null
+          "effectIds": "300204,2970,2971,"
         },
         {
           "abilityId": "16006",
           "abilityName": "ダメージ上限＋死亡時全体強化",
           "abilityDescription": "ダメージ上限（上限値：1000000ダメージ）、死亡時に味方全体の素早さ＆スキルダメージアップ",
           "abilityEffectDescription": "ダメージ上限（上限値：1000000ダメージ）、死亡時に味方全体の素早さ＆スキルダメージアップ",
-          "effectIdx1": "300202",
+          "effectIdx1": "3079",
           "effectIdx2": "2970",
           "effectIdx3": "2971",
-          "effectIds": null
+          "effectIds": "3079,2970,2971,"
+        },
+        {
+          "abilityId": "16007",
+          "abilityName": "ダメージ上限＋HP15%以下で確率で全属性特化",
+          "abilityDescription": "ダメージ上限（上限値：1000000ダメージ）、HP15%以下で確率で全属性へのスキル攻撃時に相手の耐性を弱点とする",
+          "abilityEffectDescription": "ダメージ上限（上限値：1000000ダメージ）、HP15%以下で確率で全属性へのスキル攻撃時に相手の耐性を弱点とする",
+          "effectIdx1": "3079",
+          "effectIdx2": "3143",
+          "effectIdx3": "3144",
+          "effectIds": "3079,3143,3144,3145,3146,3147,"
         },
         {
           "abilityId": "17000",

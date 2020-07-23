@@ -1923,6 +1923,19 @@
           "closeTime": "2018.01.04 15:59:59"
         },
         {
+          "worldStageId": "40002",
+          "worldAreaId": "5",
+          "priority": "1",
+          "name": "夢限の大樹",
+          "description": "初回クリア報酬で忍石やガチャチケットをGET！\r\nここでしか手に入らない特別な忍具を生成しよう！\r\n\r\n[高難易度]Extraステージで『禁忌の至宝』や\r\n『ﾗﾝｷﾝｸﾞ忍具・極ｶﾞﾁｬﾁｹｯﾄ』獲得のチャンス！",
+          "notice": "※イベントの内容及び日程は告知なく変更となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
           "worldStageId": "60012",
           "worldAreaId": "11",
           "priority": "9999",

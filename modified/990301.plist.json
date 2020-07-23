@@ -23199,6 +23199,22 @@
           "recipeName": "仮面の男の刀"
         },
         {
+          "crystalId": "30713",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "53",
+          "effectIdx2": "183",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "0",
+          "crystalDescription": "0",
+          "crystalImageId": "307135",
+          "recipeId": "30713",
+          "recipeName": "扇をつなぐ鎖"
+        },
+        {
           "crystalId": "30718",
           "crystalType": "14",
           "crystalRare": "5",

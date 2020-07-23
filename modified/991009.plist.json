@@ -2729,6 +2729,12 @@
           "itemImgId": "23"
         },
         {
+          "shopExchangeItemId": "463",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
           "shopExchangeItemId": "1001",
           "itemName": "下心Pt",
           "measure": null,
@@ -3681,6 +3687,12 @@
           "itemName": "選抜札",
           "measure": "0",
           "itemImgId": "2093"
+        },
+        {
+          "shopExchangeItemId": "2094",
+          "itemName": "忍交換券",
+          "measure": "0",
+          "itemImgId": "2094"
         },
         {
           "shopExchangeItemId": "2500",

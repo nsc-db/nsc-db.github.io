@@ -7531,6 +7531,14 @@
           "name": "痛み合うことができる"
         },
         {
+          "cardBattleSkillNameId": "3099",
+          "name": "0"
+        },
+        {
+          "cardBattleSkillNameId": "3100",
+          "name": "0"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },
@@ -7701,6 +7709,10 @@
         {
           "cardBattleSkillNameId": "20907",
           "name": "敵全体弱体"
+        },
+        {
+          "cardBattleSkillNameId": "20908",
+          "name": "単体攻撃＋全体HP回復"
         },
         {
           "cardBattleSkillNameId": "21000",
