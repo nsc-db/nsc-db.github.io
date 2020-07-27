@@ -23208,8 +23208,8 @@
           "effectIdx4": "0",
           "money": "30000",
           "saleMoney": "2500",
-          "crystalName": "0",
-          "crystalDescription": "0",
+          "crystalName": "扇をつなぐ鎖",
+          "crystalDescription": "行動後にチャクラ10%回復、素早さ30%アップ",
           "crystalImageId": "307135",
           "recipeId": "30713",
           "recipeName": "扇をつなぐ鎖"

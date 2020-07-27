@@ -15106,8 +15106,8 @@
         },
         {
           "cardLeaderSkillId": "1096",
-          "name": "0",
-          "description": "0",
+          "name": "世に抗う者",
+          "description": "無所属の最大HPを100%アップ＆スキル発動速度1段階アップ",
           "effectIdx1": "684",
           "effectIdx2": "1840",
           "effectIdx3": "0",
