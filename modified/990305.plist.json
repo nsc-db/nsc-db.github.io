@@ -1427,6 +1427,30 @@
           "materialImageId": "244"
         },
         {
+          "materialId": "245",
+          "materialName": "トッピング",
+          "materialRare": "5",
+          "materialImageId": "245"
+        },
+        {
+          "materialId": "246",
+          "materialName": "ナルトチョコ",
+          "materialRare": "5",
+          "materialImageId": "246"
+        },
+        {
+          "materialId": "247",
+          "materialName": "アイス",
+          "materialRare": "5",
+          "materialImageId": "247"
+        },
+        {
+          "materialId": "248",
+          "materialName": "５周年ロゴクッキー",
+          "materialRare": "5",
+          "materialImageId": "248"
+        },
+        {
           "materialId": "306",
           "materialName": "???",
           "materialRare": "4",

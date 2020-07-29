@@ -1,0 +1,49 @@
+[        {
+          "loveAffinityRewardId": "1",
+          "charaLoveAffinityGroupId": "60201",
+          "level": "10",
+          "assetCategoryId": "20",
+          "assetValue": "5323",
+          "assetNum": "1"
+        },
+        {
+          "loveAffinityRewardId": "2",
+          "charaLoveAffinityGroupId": "60201",
+          "level": "25",
+          "assetCategoryId": "12",
+          "assetValue": "30716",
+          "assetNum": "1"
+        },
+        {
+          "loveAffinityRewardId": "3",
+          "charaLoveAffinityGroupId": "60201",
+          "level": "25",
+          "assetCategoryId": "12",
+          "assetValue": "30717",
+          "assetNum": "1"
+        },
+        {
+          "loveAffinityRewardId": "4",
+          "charaLoveAffinityGroupId": "60201",
+          "level": "35",
+          "assetCategoryId": "26",
+          "assetValue": "2007006",
+          "assetNum": "1"
+        },
+        {
+          "loveAffinityRewardId": "5",
+          "charaLoveAffinityGroupId": "60201",
+          "level": "35",
+          "assetCategoryId": "26",
+          "assetValue": "2007007",
+          "assetNum": "1"
+        },
+        {
+          "loveAffinityRewardId": "6",
+          "charaLoveAffinityGroupId": "60201",
+          "level": "50",
+          "assetCategoryId": "20",
+          "assetValue": "5324",
+          "assetNum": "1"
+        }
+      ]

@@ -5471,7 +5471,7 @@
         {
           "appUiId": "1095",
           "uiKey": "CharaBelong00",
-          "text": ""
+          "text": "その他"
         },
         {
           "appUiId": "1096",
@@ -5576,7 +5576,7 @@
         {
           "appUiId": "1116",
           "uiKey": "CharaBelong99",
-          "text": "その他"
+          "text": "無所属"
         },
         {
           "appUiId": "1117",
@@ -8334,6 +8334,81 @@
           "text": "潜在覚醒素材"
         },
         {
+          "appUiId": "1669",
+          "uiKey": "ConnectLevelFormat",
+          "text": "Lv.%d"
+        },
+        {
+          "appUiId": "1670",
+          "uiKey": "ConnectCardBonusText1",
+          "text": "コスト減少"
+        },
+        {
+          "appUiId": "1671",
+          "uiKey": "ConnectCardBonusText2",
+          "text": "アイテム付与"
+        },
+        {
+          "appUiId": "1672",
+          "uiKey": "ConnectCardBonusText3",
+          "text": "コンビスキル強化"
+        },
+        {
+          "appUiId": "1673",
+          "uiKey": "ConnectCardBonusText4",
+          "text": "コンビスキル4択"
+        },
+        {
+          "appUiId": "1674",
+          "uiKey": "ConnectCardBonusText5",
+          "text": "スキル1強化"
+        },
+        {
+          "appUiId": "1675",
+          "uiKey": "ConnectCardBonusText6",
+          "text": "スキル1選択4択(特殊状態選択)"
+        },
+        {
+          "appUiId": "1676",
+          "uiKey": "ConnectCardBonusText7",
+          "text": "スキル2強化"
+        },
+        {
+          "appUiId": "1677",
+          "uiKey": "ConnectCardBonusText8",
+          "text": "スキル2選択4択(特殊状態選択)"
+        },
+        {
+          "appUiId": "1678",
+          "uiKey": "ConnectCardBonusText9",
+          "text": "サポートアビ強化"
+        },
+        {
+          "appUiId": "1679",
+          "uiKey": "ConnectCardBonusText10",
+          "text": "カードエフェクト追加"
+        },
+        {
+          "appUiId": "1680",
+          "uiKey": "ConnectCardBonusText11",
+          "text": "コンビ忍具枠解放"
+        },
+        {
+          "appUiId": "1681",
+          "uiKey": "ConnectCardBonusText12",
+          "text": "コンビ忍具追加効果解放"
+        },
+        {
+          "appUiId": "1682",
+          "uiKey": "ConnectLevel1",
+          "text": "Lv.1"
+        },
+        {
+          "appUiId": "1683",
+          "uiKey": "ConnectCardBonusReductionTextFormat",
+          "text": "%d → %d"
+        },
+        {
           "appUiId": "1684",
           "uiKey": "KeyValueChange",
           "text": "%d→%d"
@@ -8477,5 +8552,65 @@
           "appUiId": "1712",
           "uiKey": "OnlyAFewLeft",
           "text": "残りわずか"
+        },
+        {
+          "appUiId": "1713",
+          "uiKey": "AffinityRewardTitleFormat",
+          "text": "Lv%d 達成"
+        },
+        {
+          "appUiId": "1714",
+          "uiKey": "AffinityAchievementRewardTitle",
+          "text": "信頼度Lv達成報酬"
+        },
+        {
+          "appUiId": "1715",
+          "uiKey": "RewardList",
+          "text": "報酬一覧"
+        },
+        {
+          "appUiId": "1716",
+          "uiKey": "AffinityRewardDesc",
+          "text": "※信頼度報酬は達成後直接付与されます"
+        },
+        {
+          "appUiId": "1717",
+          "uiKey": "SpecificConnectMaterialName",
+          "text": "連の証・%s"
+        },
+        {
+          "appUiId": "1718",
+          "uiKey": "SphereReductionCost",
+          "text": "コスト減少"
+        },
+        {
+          "appUiId": "1719",
+          "uiKey": "RarityTypeBelong",
+          "text": "レア度・タイプ・所属"
+        },
+        {
+          "appUiId": "1720",
+          "uiKey": "RarityMaterialKind",
+          "text": "レア度・素材種別"
+        },
+        {
+          "appUiId": "1721",
+          "uiKey": "SellToGetItemMessage",
+          "text": "売却／至宝変換しました"
+        },
+        {
+          "appUiId": "1722",
+          "uiKey": "SellToGetShinobiSpecificMaterial",
+          "text": "潜在覚醒素材「禁忌の至宝」を獲得しました"
+        },
+        {
+          "appUiId": "1723",
+          "uiKey": "SellToGetSummonSpecificMaterial",
+          "text": "潜在覚醒素材「乱舞の至宝」を獲得しました"
+        },
+        {
+          "appUiId": "1724",
+          "uiKey": "SellToGetConnectSpecificMaterial",
+          "text": "潜在覚醒素材「連の証」を獲得しました"
         }
       ]

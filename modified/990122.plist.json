@@ -3599,6 +3599,30 @@
           "voiceDeath": "sasuke_death_03_02"
         },
         {
+          "cardVoiceId": "304",
+          "cardId": "60060701",
+          "dirName": "naruto",
+          "evolutionStep": "",
+          "voiceAppear": "",
+          "voiceSkill1": "naruto_battle_02_09,naruto_pursuit_02_06,naruto_pursuit_02_04",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "",
+          "voiceDeath": ""
+        },
+        {
+          "cardVoiceId": "305",
+          "cardId": "60060702",
+          "dirName": "sasuke",
+          "evolutionStep": "",
+          "voiceAppear": "",
+          "voiceSkill1": "sasuke_skill_02_29,sasuke_gacha_fix_01",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "",
+          "voiceDeath": ""
+        },
+        {
           "cardVoiceId": "306",
           "cardId": "20060709",
           "dirName": "obito",
@@ -3609,6 +3633,18 @@
           "voicePursuit": "",
           "voiceWin": "obito_win_02_01",
           "voiceDeath": "obito_death_02_01"
+        },
+        {
+          "cardVoiceId": "307",
+          "cardId": "20060712",
+          "dirName": "kakasi",
+          "evolutionStep": "",
+          "voiceAppear": "kakasi_attack_02_02",
+          "voiceSkill1": "kakasi_gacha_tap_02",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "kakasi_win_02_01",
+          "voiceDeath": "kakasi_damage_02_01"
         },
         {
           "cardVoiceId": "8001",

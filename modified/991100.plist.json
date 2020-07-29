@@ -4031,6 +4031,20 @@
           "gender": "0"
         },
         {
+          "charaProfileId": "60201",
+          "charaId": "602",
+          "name": "ナルト＆サスケ",
+          "detail": "忍絵巻-絆-",
+          "charaLoveAffinityGroupId": "60201",
+          "birthday": "0",
+          "constellation": "0",
+          "height": "0",
+          "weight": "0",
+          "bloodType": "0",
+          "age": "0",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "100101",
           "charaId": "0",
           "name": "体のガマ",

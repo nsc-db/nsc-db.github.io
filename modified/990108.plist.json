@@ -14811,6 +14811,34 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1073",
+          "name": "烈火に唸る豪風",
+          "description": "全属性のスキル発動速度1段階アップ、5回行動までキャンセル無効",
+          "effectIdx1": "1840",
+          "effectIdx2": "2963",
+          "effectIdx3": "0",
+          "effectIds": "1840,2963,",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "1074",
+          "name": "護風に猛る業炎",
+          "description": "全属性のスキル発動速度1段階アップ、5回行動までスキップ無効",
+          "effectIdx1": "1840",
+          "effectIdx2": "2672",
+          "effectIdx3": "0",
+          "effectIds": "1840,2672,",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "1075",
           "name": "想いを知る瞳",
           "description": "木ノ葉隠れの里所属への弱体無効＆素早さ80%アップ",
@@ -15117,6 +15145,34 @@
           "target1Param": "99",
           "target2Category": "0",
           "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "1098",
+          "name": "博学の才花",
+          "description": "体属性と木ノ葉隠れの里所属の最大HP100%アップ＆最大チャクラ量100アップ",
+          "effectIdx1": "684",
+          "effectIdx2": "20009",
+          "effectIdx3": "0",
+          "effectIds": "684,20009,",
+          "compType": "2",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "1",
+          "target2Param": "3"
+        },
+        {
+          "cardLeaderSkillId": "1099",
+          "name": "練達の戦鋭",
+          "description": "知属性と木ノ葉隠れの里所属のスキル発動速度1段階アップ",
+          "effectIdx1": "1840",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "1840,",
+          "compType": "2",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "1",
+          "target2Param": "6"
         },
         {
           "cardLeaderSkillId": "8507",

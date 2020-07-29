@@ -2739,6 +2739,26 @@
           "type": "3"
         },
         {
+          "cardUnusualId": "280",
+          "category": "3",
+          "iconId": "1332",
+          "name": "烈風",
+          "description": "行動後HP減少&amp;ﾁｬｸﾗ消費量ｱｯﾌﾟ、烈火状態の敵から被攻撃時一部除き耐える・HP0以下で全回復・HP0で不死無効",
+          "subScore": "0",
+          "color": "3858176",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "281",
+          "category": "3",
+          "iconId": "1333",
+          "name": "烈火",
+          "description": "ｽｷｯﾌﾟ・ｷｬﾝｾﾙ・即死・敵の地形無効、ｽｷﾙ必中化、烈風状態の敵から被攻撃時即ｱｸｼｮﾝ&amp;ｽｷﾀﾞﾒｱｯﾌﾟ&amp;ﾁｬｸﾗ回復",
+          "subScore": "0",
+          "color": "16711680",
+          "type": "2"
+        },
+        {
           "cardUnusualId": "284",
           "category": "5",
           "iconId": "1335",

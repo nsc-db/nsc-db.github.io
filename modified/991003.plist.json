@@ -692,7 +692,7 @@
         },
         {
           "defineKey": "max_custom_sphere_count",
-          "defineValue": "4"
+          "defineValue": "5"
         },
         {
           "defineKey": "specific_sphere_material_id",
@@ -763,6 +763,18 @@
           "defineValue": "50"
         },
         {
+          "defineKey": "connect_skill_need_chakra_list",
+          "defineValue": "100,100,100"
+        },
+        {
+          "defineKey": "connect_skill_recovery_rate_in_damage_list",
+          "defineValue": "15000,12500,10000,5000"
+        },
+        {
+          "defineKey": "connect_skill_recovery_use_skill",
+          "defineValue": "10"
+        },
+        {
           "defineKey": "arena_rematching_limit",
           "defineValue": "3"
         },
@@ -777,5 +789,9 @@
         {
           "defineKey": "arena_remove_slot_num",
           "defineValue": "{\"1\":1,\"2\":2}"
+        },
+        {
+          "defineKey": "shinobi_sort_card_type_list",
+          "defineValue": "1,2,3,4,5,6,7"
         }
       ]

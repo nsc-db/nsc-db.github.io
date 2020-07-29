@@ -1,0 +1,13 @@
+[        {
+          "connectCardGroupId": "1",
+          "connectCardId": "60060700",
+          "cardId": "60060701",
+          "connectSkillId": "720000"
+        },
+        {
+          "connectCardGroupId": "2",
+          "connectCardId": "60060700",
+          "cardId": "60060702",
+          "connectSkillId": "720001"
+        }
+      ]

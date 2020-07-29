@@ -282,5 +282,20 @@
           "sphereMaterialId": "52005",
           "materialName": "乱舞秘伝Lv.5",
           "materialRare": "5"
+        },
+        {
+          "sphereMaterialId": "60001",
+          "materialName": "禁忌の至宝・連の断片",
+          "materialRare": "2"
+        },
+        {
+          "sphereMaterialId": "60002",
+          "materialName": "禁忌の至宝・連",
+          "materialRare": "5"
+        },
+        {
+          "sphereMaterialId": "60010",
+          "materialName": "連の証",
+          "materialRare": "5"
         }
       ]
