@@ -25200,6 +25200,46 @@ window.ability=[
           "effectIds": null
         },
         {
+          "abilityId": "2572",
+          "abilityName": "王道の転生者",
+          "abilityDescription": "破神キャラがいると確率で先制攻撃＆攻撃を受けたとき確率でアクション状態になる",
+          "abilityEffectDescription": "破神キャラがいると確率で先制攻撃＆攻撃を受けたとき確率でアクション状態になる",
+          "effectIdx1": "3018",
+          "effectIdx2": "3162",
+          "effectIdx3": "0",
+          "effectIds": "3018,3162,"
+        },
+        {
+          "abilityId": "2573",
+          "abilityName": "託されし陽の六道",
+          "abilityDescription": "HP0以下で2回HP全回復、3回行動まで地形効果無効、行動後に最大チャクラ量10アップ（最大300）",
+          "abilityEffectDescription": "HP0以下で2回HP全回復、3回行動まで地形効果無効、行動後に最大チャクラ量10アップ（最大300）",
+          "effectIdx1": "1057",
+          "effectIdx2": "874",
+          "effectIdx3": "3158",
+          "effectIds": "1057,874,3158,3159,"
+        },
+        {
+          "abilityId": "2574",
+          "abilityName": "覇道の血脈",
+          "abilityDescription": "神忍祭限定キャラがいると確率で先制攻撃＆攻撃を受けたとき確率でアクション状態になる",
+          "abilityEffectDescription": "神忍祭限定キャラがいると確率で先制攻撃＆攻撃を受けたとき確率でアクション状態になる",
+          "effectIdx1": "3160",
+          "effectIdx2": "3161",
+          "effectIdx3": "0",
+          "effectIds": "3160,3161,"
+        },
+        {
+          "abilityId": "2575",
+          "abilityName": "託されし陰の六道",
+          "abilityDescription": "HP0以下で2回HP全回復、3回行動まで弱体系特殊状態無効、行動後に最大チャクラ量10アップ（最大300）",
+          "abilityEffectDescription": "HP0以下で2回HP全回復、3回行動まで弱体系特殊状態無効、行動後に最大チャクラ量10アップ（最大300）",
+          "effectIdx1": "1057",
+          "effectIdx2": "874",
+          "effectIdx3": "2722",
+          "effectIds": "1057,874,2722,3159,"
+        },
+        {
           "abilityId": "2576",
           "abilityName": "彼方へ誘う幻影",
           "abilityDescription": "被攻撃時、敵に“暁”所属か滅ｷｬﾗが生存で、攻撃者に確率でｽｷﾙ発動速度1段階ﾀﾞｳﾝ付与、どちらもいると確率ｱｯﾌﾟ",
@@ -25600,8 +25640,28 @@ window.ability=[
           "effectIds": "684,776,"
         },
         {
+          "abilityId": "2616",
+          "abilityName": "夢幻を願う",
+          "abilityDescription": "敵に木ノ葉隠れの里所属がいるとバトル開始時に敵全体を絶望状態にする、HP0以下で2回HP全回復",
+          "abilityEffectDescription": "敵に木ノ葉隠れの里所属がいるとバトル開始時に敵全体を絶望状態にする、HP0以下で2回HP全回復",
+          "effectIdx1": "3148",
+          "effectIdx2": "1057",
+          "effectIdx3": "874",
+          "effectIds": "3148,1057,874,"
+        },
+        {
+          "abilityId": "2617",
+          "abilityName": "執念の顕現",
+          "abilityDescription": "敵に木ノ葉隠れの里所属がいると先制攻撃、1回行動までﾁｬｸﾗ消費0、班の無所属1体につき素早さ50%ｱｯﾌﾟ（自身含む）",
+          "abilityEffectDescription": "敵に木ノ葉隠れの里所属がいると先制攻撃、1回行動までﾁｬｸﾗ消費0、班の無所属1体につき素早さ50%ｱｯﾌﾟ（自身含む）",
+          "effectIdx1": "3149",
+          "effectIdx2": "1378",
+          "effectIdx3": "1224",
+          "effectIds": "3149,1378,1224,"
+        },
+        {
           "abilityId": "2618",
-           "abilityName": "友の絆と共に",
+          "abilityName": "友の絆と共に",
           "abilityDescription": "味方の木ノ葉隠れの里所属1体につき素早さ200%アップ。味方にうずまきナルト（年代不問）生存で全スキル無効",
           "abilityEffectDescription": "味方の木ノ葉隠れの里所属1体につき素早さ200%アップ。味方にうずまきナルト（年代不問）生存で全スキル無効",
           "effectIdx1": "3151",
@@ -25618,6 +25678,46 @@ window.ability=[
           "effectIdx2": "874",
           "effectIdx3": "13105",
           "effectIds": "1057,874,13105,"
+        },
+        {
+          "abilityId": "2620",
+          "abilityName": "忍学の知識",
+          "abilityDescription": "味方にナルトかサスケが生存していると素早さ100％アップ、どちらもいると200％アップ",
+          "abilityEffectDescription": "味方にナルトかサスケが生存していると素早さ100％アップ、どちらもいると200％アップ",
+          "effectIdx1": "3163",
+          "effectIdx2": "3164",
+          "effectIdx3": "0",
+          "effectIds": "3163,3164,"
+        },
+        {
+          "abilityId": "2621",
+          "abilityName": "乙女の度胸",
+          "abilityDescription": "HP0以下で3回耐え、バトル開始時に自身を確率で防壁・全状態、死亡時に味方全体を堅護状態にする",
+          "abilityEffectDescription": "HP0以下で3回耐え、バトル開始時に自身を確率で防壁・全状態、死亡時に味方全体を堅護状態にする",
+          "effectIdx1": "1789",
+          "effectIdx2": "3165",
+          "effectIdx3": "3192",
+          "effectIds": "1789,3165,3192,"
+        },
+        {
+          "abilityId": "2622",
+          "abilityName": "頼もしき先導者",
+          "abilityDescription": "班の木ノ葉隠れの里所属のキャラ1体につき、素早さが50%アップ（自身含む）",
+          "abilityEffectDescription": "班の木ノ葉隠れの里所属のキャラ1体につき、素早さが50%アップ（自身含む）",
+          "effectIdx1": "1333",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "1333,"
+        },
+        {
+          "abilityId": "2623",
+          "abilityName": "追撃のパックン",
+          "abilityDescription": "HP0以下で1回HP全回復、バトル開始時に自身を確率で閃導状態、死亡時に味方全体を託状態にする",
+          "abilityEffectDescription": "HP0以下で1回HP全回復、バトル開始時に自身を確率で閃導状態、死亡時に味方全体を託状態にする",
+          "effectIdx1": "312",
+          "effectIdx2": "874",
+          "effectIdx3": "3167",
+          "effectIds": "312,874,3167,3191,"
         },
         {
           "abilityId": "10000",
@@ -26137,17 +26237,27 @@ window.ability=[
           "effectIdx1": "300204",
           "effectIdx2": "2970",
           "effectIdx3": "2971",
-          "effectIds": null
+          "effectIds": "300204,2970,2971,"
         },
         {
           "abilityId": "16006",
           "abilityName": "ダメージ上限＋死亡時全体強化",
           "abilityDescription": "ダメージ上限（上限値：1000000ダメージ）、死亡時に味方全体の素早さ＆スキルダメージアップ",
           "abilityEffectDescription": "ダメージ上限（上限値：1000000ダメージ）、死亡時に味方全体の素早さ＆スキルダメージアップ",
-          "effectIdx1": "300202",
+          "effectIdx1": "3079",
           "effectIdx2": "2970",
           "effectIdx3": "2971",
-          "effectIds": null
+          "effectIds": "3079,2970,2971,"
+        },
+        {
+          "abilityId": "16007",
+          "abilityName": "ダメージ上限＋HP15%以下で確率で全属性特化",
+          "abilityDescription": "ダメージ上限（上限値：1000000ダメージ）、HP15%以下で確率で全属性へのスキル攻撃時に相手の耐性を弱点とする",
+          "abilityEffectDescription": "ダメージ上限（上限値：1000000ダメージ）、HP15%以下で確率で全属性へのスキル攻撃時に相手の耐性を弱点とする",
+          "effectIdx1": "3079",
+          "effectIdx2": "3143",
+          "effectIdx3": "3144",
+          "effectIds": "3079,3143,3144,3145,3146,3147,"
         },
         {
           "abilityId": "17000",
@@ -27330,6 +27440,26 @@ window.ability=[
           "effectIds": null
         },
         {
+          "abilityId": "200008",
+          "abilityName": "体・知属性特化",
+          "abilityDescription": "体・知属性へのスキル攻撃時に相手の耐性を弱点とする。体・知属性からのダメージを50%カット",
+          "abilityEffectDescription": "体・知属性へのスキル攻撃時に相手の耐性を弱点とする。体・知属性からのダメージを50%カット",
+          "effectIdx1": "229204",
+          "effectIdx2": "228250",
+          "effectIdx3": "229304",
+          "effectIds": "229204,228250,229304,228350,"
+        },
+        {
+          "abilityId": "200009",
+          "abilityName": "技・勇属性特化",
+          "abilityDescription": "技・勇属性へのスキル攻撃時に相手の耐性を弱点とする。技・勇属性からのダメージを50%カット",
+          "abilityEffectDescription": "技・勇属性へのスキル攻撃時に相手の耐性を弱点とする。技・勇属性からのダメージを50%カット",
+          "effectIdx1": "229104",
+          "effectIdx2": "228150",
+          "effectIdx3": "229404",
+          "effectIds": "229104,228150,229404,228450,"
+        },
+        {
           "abilityId": "210001",
           "abilityName": "vs技ダメカット＆弱点扱い",
           "abilityDescription": "心属性ボス用　技属性からのダメ50%カット＆技属性に食らわせた時弱点で食らわせる",
@@ -28438,6 +28568,26 @@ window.ability=[
           "effectIdx2": "0",
           "effectIdx3": "0",
           "effectIds": "3156,"
+        },
+        {
+          "abilityId": "310071",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "1回行動するまでチャクラ消費量0",
+          "abilityEffectDescription": "1回行動するまでチャクラ消費量0",
+          "effectIdx1": "1378",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "1378,"
+        },
+        {
+          "abilityId": "310072",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "バトル開始時に低確率で先制攻撃",
+          "abilityEffectDescription": "バトル開始時に低確率で先制攻撃",
+          "effectIdx1": "3166",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3166,"
         },
         {
           "abilityId": "801187",

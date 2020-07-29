@@ -13224,6 +13224,30 @@ window.unique=[
           "effectIdx4": "0"
         },
         {
+          "crystalOverwriteEffectId": "1118",
+          "targetCrystal": "30716",
+          "description": "最大HP・素早さ100%アップ、行動後チャクラ50%回復、バトル開始時チャクラ100%回復",
+          "charaIds": "104",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "684",
+          "effectIdx2": "13099",
+          "effectIdx3": "2644",
+          "effectIdx4": "1994"
+        },
+        {
+          "crystalOverwriteEffectId": "1119",
+          "targetCrystal": "30717",
+          "description": "スキル発動速度1段階アップ、全スキルダメージ100%アップ、防御力200%アップ",
+          "charaIds": "207",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1840",
+          "effectIdx2": "774",
+          "effectIdx3": "1510",
+          "effectIdx4": "0"
+        },
+        {
           "crystalOverwriteEffectId": "1120",
           "targetCrystal": "30709",
           "description": "全スキルダメージ100%アップ、素早さ80%アップ、行動後にチャクラが30%回復する",
@@ -13366,5 +13390,41 @@ window.unique=[
           "effectIdx2": "774",
           "effectIdx3": "3157",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1132",
+          "targetCrystal": "30713",
+          "description": "2回行動までチャクラ消費0、素早さ80%アップ",
+          "charaIds": "50902",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1646",
+          "effectIdx2": "13079",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1133",
+          "targetCrystal": "30714",
+          "description": "5回行動するまで高確率でスキル回避、素早さ55%アップ、スキル発動速度1段階アップ",
+          "charaIds": "302",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "2246",
+          "effectIdx2": "13054",
+          "effectIdx3": "1840",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1134",
+          "targetCrystal": "30715",
+          "description": "5回行動するまで弱体・状態異常無効、素早さ55%アップ、スキル発動速度1段階アップ",
+          "charaIds": "1702",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "3168",
+          "effectIdx2": "451",
+          "effectIdx3": "13054",
+          "effectIdx4": "1840"
         }
         ]

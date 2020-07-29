@@ -7384,6 +7384,26 @@ window.skillname=[
           "name": "…誰かがやらなきゃな…"
         },
         {
+          "cardBattleSkillNameId": "3056",
+          "name": "風遁・一輝焼閃"
+        },
+        {
+          "cardBattleSkillNameId": "3057",
+          "name": "オレらで倒すんだってばよ！"
+        },
+        {
+          "cardBattleSkillNameId": "3058",
+          "name": "炎遁・風護加具土命"
+        },
+        {
+          "cardBattleSkillNameId": "3059",
+          "name": "分かっているな！"
+        },
+        {
+          "cardBattleSkillNameId": "3060",
+          "name": "灼遁・光輪豪烈火"
+        },
+        {
           "cardBattleSkillNameId": "3061",
           "name": "連携・比翼の火遁"
         },
@@ -7530,6 +7550,30 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "3098",
           "name": "痛み合うことができる"
+        },
+        {
+          "cardBattleSkillNameId": "3099",
+          "name": "火遁・豪炎爆風乱舞"
+        },
+        {
+          "cardBattleSkillNameId": "3100",
+          "name": "現実に縛られたまま死ね"
+        },
+        {
+          "cardBattleSkillNameId": "3101",
+          "name": "桜舞刃"
+        },
+        {
+          "cardBattleSkillNameId": "3102",
+          "name": "私から離れちゃダメよ！！"
+        },
+        {
+          "cardBattleSkillNameId": "3103",
+          "name": "口寄せ・忠犬牙"
+        },
+        {
+          "cardBattleSkillNameId": "3104",
+          "name": "オレのかわいい忍犬たちでね"
         },
         {
           "cardBattleSkillNameId": "10136",
@@ -7702,6 +7746,10 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "20907",
           "name": "敵全体弱体"
+        },
+        {
+          "cardBattleSkillNameId": "20908",
+          "name": "単体攻撃＋全体HP回復"
         },
         {
           "cardBattleSkillNameId": "21000",
