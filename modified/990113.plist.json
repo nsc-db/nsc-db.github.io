@@ -37275,7 +37275,7 @@
           "timing": "1",
           "conditionType": "6",
           "conditionLower": "0",
-          "conditionUpper": "3",
+          "conditionUpper": "2",
           "parcent": "10000",
           "effectId": "61",
           "effectParam1": "3",

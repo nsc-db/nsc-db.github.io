@@ -493,6 +493,19 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
+          "worldStageId": "4120",
+          "worldAreaId": "5",
+          "priority": "1",
+          "name": "未来を懸けた再戦",
+          "description": "Ptランキング開催！\r\n初回クリア報酬は全て忍石獲得可能！\r\n個人Ptはイベント期間中のみ加算されます",
+          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
           "worldStageId": "4121",
           "worldAreaId": "5",
           "priority": "1",

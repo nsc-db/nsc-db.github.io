@@ -969,6 +969,16 @@
           "enemyEffects": "1339,"
         },
         {
+          "battleFieldEffectId": "107",
+          "name": "未来を懸けた再戦",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "1280,1549,12118,30004,2160,2254,",
+          "enemyEffects": null
+        },
+        {
           "battleFieldEffectId": "10001",
           "name": "始球空間",
           "category": "3",

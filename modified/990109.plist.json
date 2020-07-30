@@ -25201,8 +25201,8 @@
         {
           "abilityId": "2572",
           "abilityName": "王道の転生者",
-          "abilityDescription": "破神キャラがいると確率で先制攻撃＆攻撃を受けたとき確率でアクション状態になる",
-          "abilityEffectDescription": "破神キャラがいると確率で先制攻撃＆攻撃を受けたとき確率でアクション状態になる",
+          "abilityDescription": "敵に破神キャラがいると確率で先制攻撃＆攻撃を受けたとき確率でアクション状態になる",
+          "abilityEffectDescription": "敵に破神キャラがいると確率で先制攻撃＆攻撃を受けたとき確率でアクション状態になる",
           "effectIdx1": "3018",
           "effectIdx2": "3162",
           "effectIdx3": "0",
@@ -25221,8 +25221,8 @@
         {
           "abilityId": "2574",
           "abilityName": "覇道の血脈",
-          "abilityDescription": "神忍祭限定キャラがいると確率で先制攻撃＆攻撃を受けたとき確率でアクション状態になる",
-          "abilityEffectDescription": "神忍祭限定キャラがいると確率で先制攻撃＆攻撃を受けたとき確率でアクション状態になる",
+          "abilityDescription": "敵に神忍祭限定キャラがいると確率で先制攻撃＆攻撃を受けたとき確率でアクション状態になる",
+          "abilityEffectDescription": "敵に神忍祭限定キャラがいると確率で先制攻撃＆攻撃を受けたとき確率でアクション状態になる",
           "effectIdx1": "3160",
           "effectIdx2": "3161",
           "effectIdx3": "0",
