@@ -441,11 +441,37 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
+          "worldStageId": "1354",
+          "worldAreaId": "5",
+          "priority": "5",
+          "name": "大激闘任務 -葉月の陣- 周年特別篇",
+          "description": "ランパートではドロップではなく\r\nクリア時に個人Ptを獲得できます。",
+          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
           "worldStageId": "2094",
           "worldAreaId": "5",
           "priority": "5",
           "name": "テンテンの忍具指南コレクション",
           "description": "個人Ptを集めて忍具チケットと交換！\r\n特別達成報酬は全て忍石！\r\n※今回獲得できる個人Ptは7月交換所のみ\r\n適用されます。",
+          "notice": "0",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
+          "worldStageId": "2095",
+          "worldAreaId": "5",
+          "priority": "5",
+          "name": "テンテンの忍具指南コレクション",
+          "description": "個人Ptを集めて忍具チケットと交換！\r\n特別達成報酬は全て忍石！\r\n※今回獲得できる個人Ptは8月交換所のみ\r\n適用されます。",
           "notice": "0",
           "type": "0",
           "prerequisiteWorldStageId": "0",

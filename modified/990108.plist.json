@@ -15175,6 +15175,20 @@
           "target2Param": "6"
         },
         {
+          "cardLeaderSkillId": "1102",
+          "name": "業を纏う威風",
+          "description": "心属性の防御と全スキルダメージを50％アップする",
+          "effectIdx1": "682",
+          "effectIdx2": "276",
+          "effectIdx3": "0",
+          "effectIds": "682,276,",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",
