@@ -15176,6 +15176,34 @@ window.lead=[
           "target2Param": "6"
         },
         {
+          "cardLeaderSkillId": "1103",
+          "name": "安寧秩序を求める者",
+          "description": "味方にうずまきナルト（年代問わず）が生存していると、確率で50%ダメージカット＆スキルダメージ80%アップ",
+          "effectIdx1": "3201",
+          "effectIdx2": "3202",
+          "effectIdx3": "0",
+          "effectIds": "3201,3202,",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "1104",
+          "name": "安寧を支える慈弟",
+          "description": "敵に無所属が生存していると、被攻撃時に確率でアクション状態",
+          "effectIdx1": "3205",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3205,",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

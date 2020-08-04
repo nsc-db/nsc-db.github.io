@@ -13426,5 +13426,53 @@ window.unique=[
           "effectIdx2": "451",
           "effectIdx3": "13054",
           "effectIdx4": "1840"
+        },
+        {
+          "crystalOverwriteEffectId": "1138",
+          "targetCrystal": "30803",
+          "description": "最大HPと素早さとスキルダメージ100%アップ、スキル発動速度1段階アップ",
+          "charaIds": "14601,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "684",
+          "effectIdx2": "13099",
+          "effectIdx3": "774",
+          "effectIdx4": "1840"
+        },
+        {
+          "crystalOverwriteEffectId": "1139",
+          "targetCrystal": "30804",
+          "description": "弱体・状態異常無効、2回行動まで耐性無視ダメージ0",
+          "charaIds": "14601,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "880",
+          "effectIdx2": "1838",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1140",
+          "targetCrystal": "30805",
+          "description": "最大HPと素早さとスキルダメージ100%アップ、スキル発動速度1段階アップ",
+          "charaIds": "14701,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "684",
+          "effectIdx2": "13099",
+          "effectIdx3": "774",
+          "effectIdx4": "1840"
+        },
+        {
+          "crystalOverwriteEffectId": "1141",
+          "targetCrystal": "30806",
+          "description": "弱体・状態異常無効、2回行動まで耐性無視ダメージ0",
+          "charaIds": "14701,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "880",
+          "effectIdx2": "1838",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
         }
         ]

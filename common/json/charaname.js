@@ -742,6 +742,22 @@ window.charaname=[
           "gender": "1"
         },
         {
+          "gachaCardAdditionId": "403",
+          "targetCardId": "20060803",
+          "additionId": "0",
+          "params": "0,",
+          "limitedFlg": "102",
+          "skillUrl": "https://www.youtube.com/embed/aa8beJ3q9Z0?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
+        },
+        {
+          "gachaCardAdditionId": "404",
+          "targetCardId": "20060804",
+          "additionId": "0",
+          "params": "0,",
+          "limitedFlg": "102",
+          "skillUrl": "https://www.youtube.com/embed/2BSWrftRNTs?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
+        },
+        {
           "charaProfileId": "1001",
           "charaId": "10",
           "name": "日向ネジ",

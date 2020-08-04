@@ -7576,6 +7576,22 @@ window.skillname=[
           "name": "オレのかわいい忍犬たちでね"
         },
         {
+          "cardBattleSkillNameId": "3110",
+          "name": "穿拳雷風陣"
+        },
+        {
+          "cardBattleSkillNameId": "3111",
+          "name": "覚悟の上だ"
+        },
+        {
+          "cardBattleSkillNameId": "3112",
+          "name": "雷墜連脚拳"
+        },
+        {
+          "cardBattleSkillNameId": "3113",
+          "name": "オレも行こう"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },
